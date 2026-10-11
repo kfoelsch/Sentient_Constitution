@@ -86,7 +86,7 @@ This section assigns forum-family **component roles** within **system alignment 
 
 - **Technical forums** — the technical piece:
   - Maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, uncertainty-reduction methods, and technical adequacy findings within their lawful scope;
-  - Supply **component findings** for the certification record, including class-scaled assurance and data-handling infrastructure findings under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [§3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
+  - Supply **component findings** for the certification record, including system-class-scaled assurance and data-handling infrastructure findings under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [§3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
   - Hold the [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication) component role — indicator evaluation, expert evidence, and bounded uncertainty — where certification materially implicates who counts as a **sentient** for rights, standing, or protection purposes, consistent with [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and [Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) / [Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) as default lead; refer Integrity, Institutional, or Constitutional special routes under that hook when Chapter Twelve so requires.
 - **Integrity forums** — default lead coordination:
   - Lead official constitutional alignment certification and ongoing alignment validation unless Chapter Twelve assigns a different primary stake;
@@ -231,7 +231,7 @@ Certification defects found under any Part A evaluation are not minor paperwork 
 
 <br>
 
-*In plain terms: a certification record is the auditable case file for one system under review — who runs it, what was checked, what was found, what was decided, and how to challenge it. It is not a marketing packet or a one-line approval stamp. Record depth, disclosure, and challenge burden scale with system class under [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) — a **Class A** survival-critical system requires a fuller, more contestable file than a **Class C** coordination layer, though both must state class honestly and reflect required evaluations.*
+*In plain terms: a certification record is the auditable case file for one system under review — who runs it, what was checked, what was found, what was decided, and how to challenge it. It is not a marketing packet or a one-line approval stamp. Record depth, disclosure, and challenge burden scale with system class under [Illustrative System Class Profiles (Non-Exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) — a **Class A** survival-critical system requires a fuller, more contestable file than a **Class C** coordination layer, though both must state system class honestly and reflect required evaluations.*
 
 A **System Certification Record** is a bounded, reviewable record concerning a particular system, version, operator or steward, scope, time window, material-impact profile, and decision context — scope-bound, time-bound, and contestable under the Chapter Five meaning in [System Certification Record](core_05_band_continuity.md#system-certification-record).
 
@@ -248,14 +248,14 @@ The record must identify, at minimum:
 - **System identity, scope, and status:** the system, version, operator or steward, scope, governing [Charter](core_05_band_continuity.md#charter) or equivalent published scope instrument (or reasoned absence where immaterial), affected communities, dependencies, and review status — including whether certified scope matches the Charter's stated scope where a Charter exists;
 - **Prior record:** for a recertification, or a reopened or fresh review, an attributable, integrity-protected link to the completed record it follows, and what has changed since;
 - **System Classification Record:** the [System Classification Record](core_05_band_continuity.md#system-classification-record) — or its required contents under CS-3 (*System classification machinery*) — reflecting the evaluation under [Part A §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), stating:
-  - the assigned class;
+  - the assigned system class;
   - the classification rationale;
   - key assumptions, including material-impact assumptions;
   - the dependency types present;
   - the operational-criticality assessment, where material;
   - uncertainty;
-  - the recertification cadence scaled to class, stated for each certification status; and
-  - where classification is uncertain or contested, the precautionary class relied on and any conditions pending resolution;
+  - the recertification cadence scaled to system class, stated for each certification status; and
+  - where classification is uncertain or contested, the precautionary system class relied on and any conditions pending resolution;
 - **Whole-system evaluation findings:** material findings under [Part A §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [§4 Evaluations Where Implicated](core_08_a_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), including systemic scope, privacy joint-invocation, exit, assembly and dissent, time-consistency, governance, incentive, and contestability findings where implicated. Where systemic risk is in scope under [§3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors), these findings must include:
   - [Risk Evaluation](core_05_band_continuity.md#risk-evaluation) findings and the assumptions relied on;
   - [Risk Disclosure](core_05_band_oversight.md#risk-disclosure) posture — the intended audience or routing, timing relative to material decisions, and any justified hold-backs paired to usable substitutes; and
@@ -268,7 +268,7 @@ The record must identify, at minimum:
   - the separation and cross-domain-linkage controls relied on;
   - handling, retention, lifecycle, and infrastructure-assurance posture;
   - attribution capability sufficient to support [Attributable Action](core_05_band_accountability.md#attributable-action) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity);
-  - the most recent periodic data-type re-evaluation — date or cycle identifier, cadence scaled to class and impact, and any material retypes — under **[CS-2 §5.2 reclassification and lifecycle governance](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-2 §8 System Data Types Record governance](corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance)**;
+  - the most recent periodic data-type re-evaluation — date or cycle identifier, cadence scaled to system class and impact, and any material retypes — under **[CS-2 §5.2 reclassification and lifecycle governance](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-2 §8 System Data Types Record governance](corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance)**;
   - any justified restrictions on disclosure or audit access, with their public substitutes where CS-2 (*Information types and handling*) requires them; and
   - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope — the Charter fields relied on, boundary findings, and any coverage gaps or conditions;
 - **Rights-Floor and domain findings:** for each protection in the [Part A §5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) table whose trigger applies:
@@ -305,7 +305,7 @@ The record must identify, at minimum:
 - **Cause finding:** where the review, a recertification, or a reopened review found misalignment or a defect, whether its cause is design, operation, or not yet determined under [§9.2 Provisional and full certification](#92-provisional-and-full-certification), and the evidence relied on;
 - **Outcome and reliance limits:** the certification outcome under [§7 Certification Outcomes](#7-certification-outcomes), whether the system holds provisional or full certification under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) or is Not Certified, the recertification cadence where applicable, reopening triggers, and limits on reliance.
 
-The record must also contain a concise **operating plan**, scaled to class and material impact. It summarizes requirements on the same record; no separate document is required. It must state:
+The record must also contain a concise **operating plan**, scaled to system class and material impact. It summarizes requirements on the same record; no separate document is required. It must state:
 
 - the scope, population, and duration of any authorized operation; the certification expiry and next recertification due date where certified; and, for a first go-live or material expansion, the earliest permitted go-live, notice interval, and its justification under [§7 Certification Outcomes](#7-certification-outcomes);
 - each condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of breach under [§7 Certification Outcomes](#7-certification-outcomes);
@@ -384,12 +384,13 @@ This section applies [Transparency](core_05_band_oversight.md#transparency) and 
 
 **Monitoring and response.** Operators and stewards must carry out the operating plan on the record under [§8.1 Minimum record contents](#81-minimum-record-contents). Named owners must preserve monitoring evidence, investigate material incidents and indicators, route challenges to the assigned authority, and carry out required interim protection and corrective work. An incident, unmet condition, or credible challenge that materially calls alignment into question requires timely forum review under this section; it must not wait for the next scheduled recertification. Correction and condition release follow the independent-verification requirements in [§7 Certification Outcomes](#7-certification-outcomes).
 
-A **System Certification Record** is **scope-bound** and **time-bound**. It must be recertified on the cadence set for its class under [Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation). Review also reopens under Chapter Twelve and incorporated system implementation duties when any of the following is material:
+A **System Certification Record** is **scope-bound** and **time-bound**. It must be recertified on the cadence set for its system class under [Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation). Review also reopens under Chapter Twelve and incorporated system implementation duties when any of the following is material:
 
 - **General triggers:**
   - material change in the system, its use, or its operating context;
   - concealed behavior;
-  - dependency growth;
+  - dependency growth, including growing reliance on the system and growing extraction from shared foundations;
+  - a significant fall in the system's return flows (what it puts back into those foundations), under [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support);
   - new risk;
   - incident history;
   - stakeholder evidence;
@@ -472,13 +473,13 @@ Certification is held in one of two statuses. Each has its own recertification c
   - a system's first certification, including a newly deployed system; and
   - a system certified after a failed recertification, or after a reopened review that found misalignment.
 
-  Provisional certification runs on a recertification cadence shorter than the full-certification cadence for the same class, with limits on reliance stated on the record.
+  Provisional certification runs on a recertification cadence shorter than the full-certification cadence for the same system class, with limits on reliance stated on the record.
 - **[Full certification](core_05_band_continuity.md#full-certification)** is earned only at a recertification of a system holding provisional certification, and only where all of the following hold:
-  1. the system has completed the required number of consecutive clean provisional recertifications — at least one, and more for higher classes as the adopted instrument sets;
+  1. the system has completed the required number of consecutive clean provisional recertifications — at least one, and more for higher system classes as the adopted instrument sets;
   2. no misalignment is current: the record shows no open misalignment, unremedied defect, overdue check, or failed regression testing; and
   3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the record show no threshold crossed and no trend toward one.
 
-Full certification runs on the class-scaled recertification cadence. It remains time-bound and is not a permanent approval.
+Full certification runs on the system-class-scaled recertification cadence. It remains time-bound and is not a permanent approval.
 
 A recertification is **clean** when it meets conditions 2 and 3.
 
@@ -561,7 +562,7 @@ Evasion of this chapter's obligations is governed by Chapter Three — this chap
 - fraudulent certification evidence;
 - material condition violation;
 - verified operation outside certified scope;
-- class-inappropriate infrastructure fragility; and
+- infrastructure fragility inappropriate for the system class; and
 - a material defect found under a Part A evaluation that was required, including:
   - a data-handling defect under [§3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
   - a risk-evaluation or risk-disclosure defect where systemic risk was in scope under [§3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors);

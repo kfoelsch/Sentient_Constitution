@@ -6,6 +6,11 @@ cites without writing and exits 1 on any finding. ``--check --changed-only``
 limits the report to lines added versus HEAD (the form wired into
 ``make regression`` as ``article-cite-gloss-audit``) so legacy cites do not
 block until those lines are edited.
+
+The audit reports three kinds of line: a bare cite with no title, a title
+repeated right after itself (``(*Title*) (*Title*)``), and a cite wrapped in
+stray emphasis (``*Article V-B*`` or ``***Article V-B** (*Title*)*``). Default
+mode fixes all three.
 """
 
 from __future__ import annotations
@@ -31,8 +36,26 @@ BOLD_CITE_RE = re.compile(
     rf"\*\*Article ({LABEL_RE})\*\*(?!\s*\(\*)(?!\]\([^)]*\)\s*\(\*)"
 )
 # Repair links that already carry a gloss inside the link text and repeat it after.
-DUP_GLOSS_RE = re.compile(
+DUP_LINK_GLOSS_RE = re.compile(
     r"(\[[^\]]*\(\*(?P<t>[^*()]+)\*\)\]\([^)]*\))\s*\(\*(?P=t)\*\)"
+)
+# A gloss repeated right after itself, with only whitespace or closing emphasis
+# between the two: ``(*T*) (*T*)``, ``(*T*)* (*T*)``, ``(*T*)** (*T*)**``. The
+# second gloss goes, and so does a copy of the closing emphasis that follows it.
+DUP_GLOSS_RE = re.compile(
+    r"(?P<first>\(\*(?P<t>[^*()]+)\*\))(?P<close>[*_]{0,3})\s*\(\*(?P=t)\*\)"
+    r"(?:(?P=close)(?![*_]))?"
+)
+# A cite the author italicised (``*Article V-B*``) or bold-italicised
+# (``***Article V-B***``). Glossing it in place leaves unbalanced emphasis, so
+# the whole cite is rewritten as ``**Article V-B** (*Title*)``.
+ITALIC_CITE_RE = re.compile(
+    rf"(?<![*\w])(\*|\*\*\*)Article ({LABEL_RE})\1(?![*\w])(?!\s*\(\*)"
+)
+# The malformed shape older passes produced from an italic cite:
+# ``***Article V-B** (*Title*)*``.
+WRAPPED_GLOSSED_CITE_RE = re.compile(
+    rf"\*\*\*Article ({LABEL_RE})\*\* (\(\*[^*()]+\*\))\*(?![*\w])"
 )
 LINK_CITE_RE = re.compile(
     rf"\[Article ({LABEL_RE})\]\(([^)]+)\)(?!\s*\(\*)"
@@ -93,6 +116,27 @@ def gloss_link(match: re.Match[str], titles: dict[str, str]) -> str:
     return f"[Article {label}]({url}) (*{title}*)"
 
 
+def gloss_italic(match: re.Match[str], titles: dict[str, str]) -> str:
+    label = match.group(2)
+    title = titles.get(label)
+    if not title:
+        return match.group(0)
+    return f"**Article {label}** (*{title}*)"
+
+
+def dedupe_glosses(line: str) -> str:
+    """Drop a gloss that repeats the one right before it."""
+    line = DUP_LINK_GLOSS_RE.sub(lambda m: m.group(1), line)
+    return DUP_GLOSS_RE.sub(lambda m: m.group("first") + m.group("close"), line)
+
+
+def repair_wrapped_cite(line: str) -> str:
+    """Turn ``***Article X** (*T*)*`` into ``**Article X** (*T*)``."""
+    return WRAPPED_GLOSSED_CITE_RE.sub(
+        lambda m: f"**Article {m.group(1)}** {m.group(2)}", line
+    )
+
+
 def gloss_bare(match: re.Match[str], titles: dict[str, str]) -> str:
     label = match.group(1)
     title = titles.get(label)
@@ -116,6 +160,7 @@ def gloss_line(line: str, titles: dict[str, str]) -> str:
     """
     if GENERATED_LABEL_ROW_RE.match(line):
         return line  # generated index rows carry a section title, not a cite
+    line = repair_wrapped_cite(dedupe_glosses(line))
     saved: list[str] = []
 
     def stash(match: re.Match[str]) -> str:
@@ -123,6 +168,7 @@ def gloss_line(line: str, titles: dict[str, str]) -> str:
         return f"(*\x00{len(saved) - 1}\x00*)"
 
     text = GLOSS_SPAN_RE.sub(stash, line)
+    text = ITALIC_CITE_RE.sub(lambda m: gloss_italic(m, titles), text)
     text = BOLD_CITE_RE.sub(lambda m: gloss_bold(m, titles), text)
     text = LINK_CITE_RE.sub(lambda m: gloss_link(m, titles), text)
     text = BARE_CITE_RE.sub(lambda m: gloss_bare(m, titles), text)
@@ -150,18 +196,36 @@ def check_file(
     path: pathlib.Path,
     titles: dict[str, str],
     only_lines: set[int] | None,
-) -> list[tuple[int, str]]:
-    """Return (line number, line) for each line the fixer would gloss."""
-    findings: list[tuple[int, str]] = []
+) -> list[tuple[int, str, str]]:
+    """Return (line number, line, kind) for each line the fixer would change.
+
+    ``kind`` is ``repeated`` (a title repeated right after itself),
+    ``wrapped`` (a glossed cite inside stray emphasis), or ``bare``.
+    """
+    findings: list[tuple[int, str, str]] = []
     for number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
         if only_lines is not None and number not in only_lines:
             continue
         if HEADING_RE.match(line):
             continue
         new_line = gloss_line(line, titles)
-        if new_line != line:
-            findings.append((number, line))
+        if new_line == line:
+            continue
+        if dedupe_glosses(line) != line:
+            kind = "repeated"
+        elif repair_wrapped_cite(line) != line:
+            kind = "wrapped"
+        else:
+            kind = "bare"
+        findings.append((number, line, kind))
     return findings
+
+
+FINDING_TEXT = {
+    "bare": "bare Article cite; add (*title*)",
+    "repeated": "title repeated after its cite; keep one (*title*)",
+    "wrapped": "cite wrapped in stray emphasis; write **Article X** (*title*)",
+}
 
 
 def run_check(root: pathlib.Path, titles: dict[str, str], changed_only: bool) -> int:
@@ -173,15 +237,15 @@ def run_check(root: pathlib.Path, titles: dict[str, str], changed_only: bool) ->
     total = 0
     for rel_path in scope:
         only = changed.get(rel_path) if changed is not None else None
-        for number, _line in check_file(root / rel_path, titles, only):
-            print(f"  {rel_path}:{number}: REF-ARTICLES-GLOSS: bare Article cite; "
-                  "add (*title*) (run tools/apply_article_cite_gloss.py to fix)")
+        for number, _line, kind in check_file(root / rel_path, titles, only):
+            print(f"  {rel_path}:{number}: REF-ARTICLES-GLOSS: {FINDING_TEXT[kind]} "
+                  "(run tools/apply_article_cite_gloss.py to fix)")
             total += 1
     mode = "changed-only" if changed_only else "full"
     if total:
-        print(f"FAIL: REF-ARTICLES-GLOSS ({mode}) — {total} line(s) with bare Article cites.")
+        print(f"FAIL: REF-ARTICLES-GLOSS ({mode}) — {total} line(s) with bare, repeated, or wrapped Article glosses.")
         return 1
-    print(f"PASS: REF-ARTICLES-GLOSS ({mode}) — Article cites carry their titles.")
+    print(f"PASS: REF-ARTICLES-GLOSS ({mode}) — Article cites carry their titles once.")
     return 0
 
 
