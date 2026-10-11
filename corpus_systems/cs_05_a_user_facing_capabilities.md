@@ -66,7 +66,7 @@ Where this file is silent, Sentient Constitution Chapters Two through Five gover
 <a id="cs-5-12-in-scope-catalog"></a>
 ## CS-5.12 In-scope catalog
 
-*In plain terms: for each reachable act, open the owner named here — this table does not restate those rules.*
+*In plain terms: for each reachable act, open the owner named here.*
 
 The rows below are **pointers**. Operative detail stays on the cited home. Class scaling stays in **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**. Do not treat this table as a product catalog or as a reason to lock a technical implementation.
 

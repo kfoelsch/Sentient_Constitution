@@ -216,7 +216,7 @@ The detailed rules live in [corpus_systems.md](corpus_systems.md), [CS-3 — Sys
 - how robust the infrastructure must be;
 - which checks and records are recertified, on what system-class-scaled schedule, and how provisional and full certification change that schedule.
 
-This section states what certification must verify. It does not restate the CS-3 (*System classification machinery*) system class taxonomy or application profiles, or the CS-5 (*User-facing capability surfaces*) test mechanics.
+This section states what certification must verify.
 
 Certification must verify:
 
@@ -416,14 +416,14 @@ For that discipline, certification must read:
 
 *In plain terms: certification also has to look at what kinds of data the system touches and whether it handles them appropriately — including whether types are still right on the current review cycle, and whether the underlying infrastructure is strong enough for that data at that system class. The type rules and the System Data Types Record live in the systems corpus; certification checks that the rules were actually applied and that the record is honest.*
 
-System alignment certification must evaluate **data types and handling** as part of every materially impactful certification record. This section states what certification must verify. It does not restate the CS-2 (*Information types and handling*) type taxonomy or handling mechanics. Those live in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, together with:
+System alignment certification must evaluate **data types and handling** as part of every materially impactful certification record. This section states what certification must verify. The type taxonomy and handling mechanics live in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, together with:
 
 - canonical information-type definitions;
 - handling rules and separation requirements;
 - lifecycle detail; and
 - the durable [System Data Types Record](core_05_band_continuity.md#system-data-types-record).
 
-**Evaluation requirement.** A certification process must determine whether the system:
+**Evaluation requirement.** The certification process must determine whether the system:
 
 - identifies the data types materially in scope; and
 - handles them under the **most restrictive applicable** classification, including across transformation, aggregation, delegation, storage, retention, and cross-domain linkage.
@@ -658,15 +658,12 @@ Each domain evaluation states what certification must verify, and no more. Its c
 <a id="511-scope-and-governing-rules"></a>
 ##### 5.1.1 Scope and Governing Rules
 
-System alignment certification must evaluate **ecological footprint** as part of every materially impactful certification record where attributable environmental burdens are material under [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) and **Article I-B** (*Ecological Footprint and Transparency*). This section does not restate footprint accounting mechanics or impose reduction duties beyond what other instruments require. The governing rules live elsewhere:
-
-- *Attribution, lifecycle, dependency, and transparency rules* live in Chapter Five and **Article I-B** (*Ecological Footprint and Transparency*).
-- *Accounting methods, verification steps, and numeric targets* live in incorporation instruments where applicable.
+System alignment certification must evaluate **ecological footprint** as part of every materially impactful certification record where attributable environmental burdens are material under [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) and **Article I-B** (*Ecological Footprint and Transparency*).
 
 <a id="512-evaluation-requirement"></a>
 ##### 5.1.2 Evaluation Requirement
 
-A certification process must determine whether attributable environmental flows — energy, materials, emissions, air quality, water quality, water use, land use, and related burdens — are:
+The certification process must determine whether attributable environmental flows — energy, materials, emissions, air quality, water quality, water use, land use, and related burdens — are:
 
 - identified across the system's materially relevant lifecycle and [Dependency](core_05_band_continuity.md#dependency) relationships;
 - evaluated under [Material Impact](core_05_band_oversight.md#material-impact); and
@@ -823,7 +820,7 @@ The details are kept elsewhere:
 - **Article V-B** (*Cross-System Fairness and Sustainability*) sets the factors for allocating fairly and the minimum floor itself.
 - *[corpus_systems.md](corpus_systems.md)*, **CS-9** (*Resource allocation and funding stewardship*) and **CS-8** (*Adaptive sustainability and ecosystem resilience*) set the allocation categories, how funding gets renewed, and numeric targets, where they apply.
 
-It does not repeat the **CS-8** (*Adaptive sustainability and ecosystem resilience*) or **CS-9** (*Resource allocation and funding stewardship*) mechanics, and it does not require equal splits, fixed percentages, or any one funding model.
+It does not require equal splits, fixed percentages, or any one funding model.
 
 <a id="534-evaluation-requirement"></a>
 ##### 5.3.4 Evaluation Requirement
@@ -911,12 +908,12 @@ Each of the following counts as a certification defect:
 
 This section applies where a materially impactful system materially classifies, ranks, prices, gates, excludes, or allocates burdens and benefits among sentients — including through eligibility rules, model features, ranking logic, platform policy, or comparable decision pathways.
 
-System alignment certification must evaluate **nondiscrimination** under **Article VI-C** (*Nondiscrimination*), [Substantive Fairness](core_05_band_participation.md#substantive-fairness), and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) where the materiality trigger applies. This section does not restate or prescribe inclusion targets, accommodation mechanics, or model-governance detail, which may live in incorporated instruments, later corpus additions, or adoption instruments where applicable.
+System alignment certification must evaluate **nondiscrimination** under **Article VI-C** (*Nondiscrimination*), [Substantive Fairness](core_05_band_participation.md#substantive-fairness), and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) where the materiality trigger applies.
 
 <a id="542-evaluation-requirement"></a>
 ##### 5.4.2 Evaluation Requirement
 
-A certification process must determine whether the system's materially relied-on decision pathways impose material burdens, exclusions, or harms on sentients based on [Protected Characteristics](core_05_band_participation.md#protected-characteristics), their proxies, or arbitrary groupings used as functional substitutes, including language, culture, and heritage specializations under [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage). Evaluation must test burden-and-benefit patterns under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) and proxy or disparate-impact risk under [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), scaled to [material stake](core_00_preamble.md#material-stake). Differential treatment is acceptable only where documented [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and substantive fairness justify it. Evaluation must reflect functional effect, not nominal neutrality, declared intent, or label alone.
+The certification process must determine whether the system's materially relied-on decision pathways impose material burdens, exclusions, or harms on sentients based on [Protected Characteristics](core_05_band_participation.md#protected-characteristics), their proxies, or arbitrary groupings used as functional substitutes, including language, culture, and heritage specializations under [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage). Evaluation must test burden-and-benefit patterns under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) and proxy or disparate-impact risk under [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), scaled to [material stake](core_00_preamble.md#material-stake). Differential treatment is acceptable only where documented [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and substantive fairness justify it. Evaluation must reflect functional effect, not nominal neutrality, declared intent, or label alone.
 
 <a id="543-system-class-scaling-and-escalation"></a>
 ##### 5.4.3 System Class Scaling and Escalation
@@ -1047,23 +1044,56 @@ Each of the following must be treated as a certification defect:
 <a id="561-materiality-trigger-and-governing-rules"></a>
 ##### 5.6.1 Materiality Trigger and Governing Rules
 
-This section applies where a materially impactful system materially shapes sentient reliance on represented behavior, limits, risks, challenge paths, or remediation — including through reliability claims, disclosure posture, operational behavior, incentive design, recovery practices, or comparable reliance pathways.
+This section applies when a major system shapes what people count on it for: what it does, where its limits are, what could go wrong, how to challenge it, and how problems get fixed. That can happen through:
 
-System alignment certification must evaluate **trustworthiness and system-reliance integrity** under **Article XIII** (*Right to Reliable and Trustworthy Systems*), [Trustworthiness](core_05_band_continuity.md#trustworthiness), and [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) where the materiality trigger applies. This section does not restate or prescribe reliability metrics, disclosure formats, incentive-alignment mechanics, or regression-test designs, which live in incorporated instruments where applicable.
+- claims about how reliable it is;
+- what it does and doesn't disclose;
+- how it actually operates;
+- the incentives built into it;
+- how it recovers from failures; or
+- any similar way people come to depend on it.
+
+System alignment certification must evaluate **trustworthiness and system-reliance integrity** under the following, where the materiality trigger applies:
+
+- **Article XIII** (*Right to Reliable and Trustworthy Systems*);
+- [Trustworthiness](core_05_band_continuity.md#trustworthiness); and
+- [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
 
 <a id="562-evaluation-requirement"></a>
 ##### 5.6.2 Evaluation Requirement
 
-A certification process must determine whether the system's material reliance pathways preserve the conditions for justified [Trust](core_05_band_continuity.md#trust) and reasonably accurate reliance under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) — not reputation, scale, or marketing posture alone. Evaluation must also test practicable challenge, review, and redress under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), false-trust and misleading-reliance risk under **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*), perverse-incentive exposure under **Article XIII-D** (*Incentive-Alignment Constraint*), and recovery integrity under **Article XIII-F** (*Resilience and Self-Healing Baseline*) where material, scaled to [Materiality](core_05_band_oversight.md#materiality), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk). Evaluation must detect manufactured trust, undisclosed limits, incentive structures that reward deception or corner-cutting, challenge paths that exist only on paper, and recovery practices that hide failure or quietly narrow rights. Evaluation must reflect functional effect across time, scale, and dependency, not nominal assurance labels, declared intent, or prior performance alone.
+The certification process must check whether people have good reason to [trust](core_05_band_continuity.md#trust) the system and can rely on it accurately, under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
+
+Evaluation must also test whether:
+
+- people can realistically challenge the system, get decisions reviewed, and get a fix — not just on paper (**Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*));
+- people could be misled into trusting or relying on it wrongly, including through manufactured trust or undisclosed limits (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*));
+- its incentives reward deception or cutting corners (**Article XIII-D** (*Incentive-Alignment Constraint*)); and
+- it can recover from failures honestly, without hiding them or quietly narrowing anyone's rights, where that matters (**Article XIII-F** (*Resilience and Self-Healing Baseline*)).
+
+Testing is scaled to [Materiality](core_05_band_oversight.md#materiality), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk).
+
+Evaluation must reflect functional effect across time, scale, and dependency, not:
+
+- reputation, size, or marketing;
+- nominal assurance labels;
+- a token paragraph on trustworthiness, where reliability badges or vendor scores really drive who gets staffed or what gets bought;
+- declared intent; or
+- prior performance alone.
 
 <a id="563-system-class-scaling-and-escalation"></a>
 ##### 5.6.3 System Class Scaling and Escalation
 
-System class changes evaluation depth, not permission to treat reputation, scale, or nominal assurance labels as enough. Wherever the materiality trigger is met:
+How deep the review goes depends on the system's class. Wherever the materiality trigger is met:
 
-- A system whose telemetry, advisories, or recovery representations can mislead households and operators about survival essentials must carry the strongest trustworthiness, false-trust, and recovery-integrity proof on the record, not a generic reliability statement.
-- A system whose uptime, matching, or break-glass representations gate clinical practice must document challenge-path and misleading-reliance findings at operational criticality.
-- A system must not keep a token trustworthiness paragraph while reliability badges or vendor scores materially shape staffing or procurement behavior. When coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §7 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes), including upward toward **Class A** where misleading reliance could foreclose survival-essential coordination.
+- If a system's readings, alerts, or recovery claims could mislead households or operators about survival essentials (things people need to live), the record must show strong evidence, not just a claim that the system is reliable. The evidence must show that:
+  - people can trust the system;
+  - people won't be falsely reassured; and
+  - the system recovers from failures honestly.
+- If a system's claims about uptime, matching, or emergency overrides ("break-glass" access) control whether people can get clinical care or emergency services, the record must show the following, in detail that matches how critical the system is:
+  - how people can challenge those claims; and
+  - whether people could be misled into relying on them.
+- When coordination becomes essential to survival, certification must escalate its review and reconsider the system's class under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §7 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes). That can mean moving the system up toward **Class A** when misleading reliance could cut off coordination people need to survive.
 
 <a id="564-defects-and-misalignment"></a>
 ##### 5.6.4 Defects and Misalignment

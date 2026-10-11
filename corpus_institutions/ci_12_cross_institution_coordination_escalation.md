@@ -48,7 +48,7 @@ This file is the institutional implementation home for **CI-12** (*Cross-institu
 - **Where sentients are routed when local review fails** — **CI-12** (*Cross-institution coordination and escalation*) is the named escalation route when an institution is conflicted, captured, unavailable, or stonewalling — including when it cannot credibly commission outside assurance under **CI-7.2** (*External assurance triggers*).
 *In plain terms: overlapping authority is not an excuse to improvise after a fight starts. Each affected institution must publish a usable coordination and escalation plan before conflict arises — with real owners, real deadlines, written transfer records, and backup routes that still work when independence is in doubt.*
 
-*Shared rules live elsewhere.* Cross-institution coordination terms are in **CJS-3.6** (*integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-12** (*Cross-institution coordination and escalation*) does not repeat those floors; it keeps only what each institution must name and maintain locally.
+*Shared rules live elsewhere.* Cross-institution coordination terms are in **CJS-3.6** (*integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-12** (*Cross-institution coordination and escalation*) keeps only what each institution must name and maintain locally.
 Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Cross-institution coordination and escalation chain** for the shared floor.
 **What each institution must publish**
 - who owns the local coordination and escalation protocol;

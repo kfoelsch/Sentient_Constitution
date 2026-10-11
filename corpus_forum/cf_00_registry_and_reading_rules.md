@@ -92,7 +92,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
-*In plain terms: the human table of contents for this folder lives on the [Forums landing page](../corpus_forum.md). This annex does not duplicate that index.*
+*In plain terms: the human table of contents for this folder lives on the [Forums landing page](../corpus_forum.md).*
 
 **CF-2** (*reserved family ID*) is unused; forums domain routing lives in this annex under [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex). Grouped family list: [corpus_forum.md](../corpus_forum.md).
 

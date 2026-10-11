@@ -415,7 +415,7 @@ corpus-ref-name-audit-test:
 	$(PYTHON) tools/test_corpus_ref_name_audit.py
 
 article-cite-gloss-audit:
-	$(PYTHON) tools/apply_article_cite_gloss.py --root . --check --changed-only
+	$(PYTHON) tools/apply_article_cite_gloss.py --root . --check
 
 article-cite-gloss-audit-test:
 	$(PYTHON) tools/test_apply_article_cite_gloss.py

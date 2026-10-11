@@ -48,7 +48,7 @@ This file is the institutional implementation home for **CI-6** (*Procedure inte
 - **Forum-expansion records** — when an institution expands a forum's scope or certifies a route for wider use, it must keep auditable records of that expansion and the contest path for affected parties.
 *In plain terms: each institution must write down its fair-process playbook instead of leaving sentients to guess. The map is not decorative paperwork — it must be usable in practice, with real owners, real records, and real routes to challenge and secondary review.*
 
-*Shared rules live elsewhere.* Cross-institution procedural terms are in **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-3.13** (*procedural integrity and adjudication terms*). **CI-6** (*Procedure integrity, contestability, and secondary review*) does not repeat those floors; it keeps only what each institution must name and maintain locally.
+*Shared rules live elsewhere.* Cross-institution procedural terms are in **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-3.13** (*procedural integrity and adjudication terms*). **CI-6** (*Procedure integrity, contestability, and secondary review*) keeps only what each institution must name and maintain locally.
 **What each institution must publish**
 - who owns the procedure map;
 - where compliance records are kept;

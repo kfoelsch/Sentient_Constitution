@@ -47,7 +47,7 @@ This file is the institutional implementation home for **CI-11** (*Resource stew
 - **CI-11.4** — how each institution aligns funding choices and pay/incentive design with stewardship duties under **CS-9** (*Resource allocation and funding stewardship*), including malus and clawback when misconduct is verified.
 *In plain terms: you cannot run a serious institution on vibes and vanity metrics. If continuity depends on a resource, name it, stress-test it, and do not let pay schemes reward the sentients who weaken it.*
 
-*Shared rules live elsewhere.* Resource and continuity dependency evaluation is in **CJS-3.16** (*dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-3.6** (*integrity assurance and resilience operations*). **CI-11** (*Resource stewardship and incentive integrity*) does not repeat those floors; it keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.
+*Shared rules live elsewhere.* Resource and continuity dependency evaluation is in **CJS-3.16** (*dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-3.6** (*integrity assurance and resilience operations*). **CI-11** (*Resource stewardship and incentive integrity*) keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.
 
 ## CI-11.1: Continuity planning and consequence interface
 
@@ -63,7 +63,7 @@ Apply **CJS-3.16** (*dependency integrity and disclosure terms*) for shared depe
 
 ## CI-11.2: High-impact governance continuity and exercises
 
-*In plain terms: for the highest-impact institutions and supervised systems, continuity planning is not only paperwork — it includes practiced drills, crisis communications, and recovery rules. **CI-11.2** (*High-impact governance continuity and exercises*) does not repeat those operational requirements; it says when an institution must activate them and where the detailed rules live.*
+*In plain terms: for the highest-impact institutions and supervised systems, continuity planning is not only paperwork — it includes practiced drills, crisis communications, and recovery rules. **CI-11.2** (*High-impact governance continuity and exercises*) says when an institution must activate them and where the detailed rules live.*
 
 Where governed scope triggers **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*), **CI-11.2** (*High-impact governance continuity and exercises*) keeps only:
 

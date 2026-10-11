@@ -44,7 +44,7 @@ This file is the systems implementation home for **CS-9** (*Resource allocation 
 
 *In plain terms: what this file covers, which articles it implements, and where the boundary with CS-8 (*Adaptive sustainability and ecosystem resilience*) and Chapter Five falls.*
 
-Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
+Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support) through allocation categories, reauthorization, and funding-stewardship mechanics.
 
 **CS-8** (*Adaptive sustainability and ecosystem resilience*) governs adaptive adjustment of allocation in response to degradation and systemic risk. This file does not replace or narrow Sentient Constitution Chapters Two through Five. Where this file is silent, Sentient Constitution Chapters Two through Five govern.
 
@@ -339,7 +339,7 @@ No minimum participation threshold is required to initiate review, though outcom
 **Challenges must**:
 - be documented and supported by evidence where feasible;
 - remain subject to audit and evaluation under **Article XVI-A** (*Auditability and Observable Evidence*);
-- be resolved through participatory processes (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, **Article XX-A** (*Justice Objective and Scope*)** (*Justice Objective and Scope*)** (justice objective and review scope).
+- be resolved through participatory processes (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, **Article XX-A** (*Justice Objective and Scope*)** (justice objective and review scope).
 
 <a id="cs-9-18-due-process-in-funding-changes"></a>
 ## CS-9.18 Due process in funding changes

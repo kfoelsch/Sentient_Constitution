@@ -72,7 +72,7 @@ This file is the institutional implementation home for **CI-8** (*Transparency, 
   - **CF-11.3.1** (*Target windows and timing floors*), [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) for remedy-organ and intake timing floors; and
   - **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*) where charges or recurring billing touch self-service pathways.
 
-*Shared rules live elsewhere.* This file does not repeat these floors:
+*Shared rules live elsewhere:*
 - **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) — **Notification and participation-pathway integrity**; **Stakeholder oversight and binding-governance pathway integrity**.
 - **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*) — **Institutional participation and challenge-pathway accessibility floor**: understandability, participation, challenge, accessibility, protected escalation, and anti-retaliation.
 - **CJS-3.11** (*Accountability: distributed and proportional authority terms*) — **Representation and participation legitimacy controls** and the anti-concentration floor.

@@ -52,7 +52,6 @@ This file is the institutional implementation home for **CI-21** (*Community lif
 - [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md#cjs-37-participation-quorum-and-participatory-legitimacy-terms) (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**.
 - **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*); **Article XI-F** (*Non-Imposition and Consent in Association*).
 - Chapter Five [Assembly](../core_05_band_participation.md#assembly); [Collective Organization](../core_05_band_participation.md#collective-organization); [Non-Imposition (Cooperative Interaction)](../core_05_band_participation.md#non-imposition-cooperative-interaction).
-- This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) **Community and associational pathway integrity**. **CI-21** (*Community life, voluntary association, and non-instrumental time*) states only the local owner duties in **CI-21.1** (*Civic infrastructure and non-instrumental time*) through **CI-21.3** (*Referral and escalation interfaces*).
 

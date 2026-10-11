@@ -51,7 +51,6 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 - Chapter Five (*Innovation Reward and Anti-Enclosure*); **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*), **Article XVIII-E** (*Creative and Expressive Works*), and **Article XVIII-F** (*Inventions, Processes, and Functional Systems*).
 - [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-312-accountability-burden-of-justification-and-constraint-terms) (*burden of justification and constraint terms*).
 - **CS-3** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
-- This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors. Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) **Innovation-reward duration and reclassification controls** for shared timing; **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) supplies only the local review calendar and record-update duty. **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) states only the local owner duties below.
 **What each institution must name and maintain locally**
