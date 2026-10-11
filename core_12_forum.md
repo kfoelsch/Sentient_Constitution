@@ -75,13 +75,13 @@ This chapter states which **forum families** **supervise** which primary questio
 
 2. **System Alignment Certification** ([Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification))
    - Forum-supervised certification, conditional certification, validation, recertification, withdrawal, and related certification-record outcomes under [Chapter Eight Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process).
-   - Component roles under [Part B §4.1](core_08_b_system_alignment_certification_record_process.md#41-forum-supervision-and-component-roles):
+   - Component roles under [Part B §6.1](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles):
      - **Technical** — specifications, methods, and evidence standards
      - **Integrity** — official alignment certification and lead coordination
      - **Environment** — environmental-alignment component where material
      - other family component findings under this chapter’s routing
    - Sentients can challenge certification results, attach conditions, and reopen the file when needed — but a certification does **not** replace standing measurement.
-   - Important findings from a certification can count as **verified inputs** when Chapter Nine measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part B §8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing)).
+   - Important findings from a certification can count as **verified inputs** when Chapter Nine measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)).
 
 **Forum families** are the primary institutions through which this instrument **supervises** those tracks. They are distinct from routine executive administration of enacted rules.
 
@@ -463,7 +463,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 
 **Alignment components.** **Institutional forums** hold reviewable institutional-mandate and Rights-Floor component authority in system-alignment certification and related proceedings where an institution is a necessary party, the operator or steward is institutional, or institutional mandate or supervised compliance is the primary stake.
 - **Integrity** forums remain the default official lead for whole-system constitutional alignment certification and validation.
-- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#41-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
+- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Institutional forums** within their lawful scope.
 
@@ -503,7 +503,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
   - release-from-condition findings.
 - **Integrity** forums remain the default official lead for whole-system constitutional alignment certification and validation.
 - Where material ecological exposure exists, timely Environment forum environmental-alignment findings are required component determinations; sequencing with Integrity lead coordination is governed by **section 3**.
-- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#41-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
+- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Environment forums** within their lawful scope.
 
@@ -545,7 +545,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
   - suspension or constraint recommendations within lawful scope;
   - referral to another forum family; or
   - certification to **Constitutional** forums where constitutional meaning, validity, or class-wide structural remedy is materially at issue.
-- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#41-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
+- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Supervisory coordination.** An **Integrity** forum that issues an **alignment** ruling retains lead responsibility for one coordinated record for that proceeding and must manage neutral coordination — including stays, sequencing, status review, and implementation milestones — until alignment remediation is achieved or the forum lawfully closes supervision.
 - Coordination must not convert the forum into party advocacy.
