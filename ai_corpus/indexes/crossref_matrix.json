@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-11T05:11:41+00:00",
+  "generated_at": "2026-10-11T09:56:39+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1158,13 +1158,14 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 10,
+            "count": 14,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#32-time-consistency-constraint",
-              "#36-voluntary-discontinuation-major-self-modification-and-exit-rights",
-              "#37-assembly-collective-organization-and-institutional-formation",
-              "#371-dissent-and-peaceful-protest",
+              "#42-voluntary-discontinuation-major-self-modification-and-exit-rights",
+              "#43-assembly-collective-organization-and-institutional-formation",
+              "#431-dissent-and-peaceful-protest",
+              "#5-rights-floor-and-domain-evaluations",
               "#chapter-eight-part-a-system-alignment-certification--evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
@@ -1173,7 +1174,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#6-system-certification-record"
+              "#8-system-certification-record"
             ]
           },
           {
@@ -1596,10 +1597,12 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 4,
+            "count": 6,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#32-time-consistency-constraint"
+              "#32-time-consistency-constraint",
+              "#4-evaluations-where-implicated",
+              "#5-rights-floor-and-domain-evaluations"
             ]
           },
           {
@@ -2061,9 +2064,10 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 8,
+            "count": 14,
             "anchors": [
               "#3-whole-system-certification-evaluation",
+              "#5-rights-floor-and-domain-evaluations",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -2353,8 +2357,8 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 3,
             "anchors": [
-              "#5-certification-outcomes",
-              "#8-relationship-to-standing"
+              "#10-relationship-to-standing",
+              "#7-certification-outcomes"
             ]
           },
           {
@@ -2493,7 +2497,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#5-certification-outcomes"
+              "#7-certification-outcomes"
             ]
           },
           {
@@ -3256,9 +3260,10 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#3-whole-system-certification-evaluation"
+              "#3-whole-system-certification-evaluation",
+              "#5-rights-floor-and-domain-evaluations"
             ]
           }
         ]
@@ -3972,18 +3977,19 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 9,
+            "count": 16,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#34-data-types-and-handling-evaluation"
+              "#34-data-types-and-handling-evaluation",
+              "#5-rights-floor-and-domain-evaluations"
             ]
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 3,
             "anchors": [
-              "#4-forum-process",
-              "#6-system-certification-record"
+              "#6-forum-process",
+              "#8-system-certification-record"
             ]
           },
           {
@@ -4532,7 +4538,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 48,
+            "count": 65,
             "anchors": [
               "#2-system-class-evaluation",
               "#22-pilot-certification",
@@ -4540,9 +4546,10 @@
               "#31-systemic-scope-and-risk-factors",
               "#32-time-consistency-constraint",
               "#34-data-types-and-handling-evaluation",
-              "#38-rights-floor-and-domain-evaluations",
-              "#381-ecological-footprint-evaluation",
-              "#383-proportionate-cross-system-support-evaluation",
+              "#5-rights-floor-and-domain-evaluations",
+              "#51-ecological-footprint-evaluation",
+              "#53-proportionate-cross-system-support-evaluation",
+              "#55-accessibility-evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -4550,14 +4557,14 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 24,
             "anchors": [
-              "#4-forum-process",
-              "#5-certification-outcomes",
-              "#6-system-certification-record",
-              "#61-minimum-record-contents",
-              "#7-recertification-and-reopening",
-              "#711-contestability-paths",
-              "#72-provisional-and-full-certification",
-              "#8-relationship-to-standing"
+              "#10-relationship-to-standing",
+              "#6-forum-process",
+              "#7-certification-outcomes",
+              "#8-system-certification-record",
+              "#81-minimum-record-contents",
+              "#9-recertification-and-reopening",
+              "#911-contestability-paths",
+              "#92-provisional-and-full-certification"
             ]
           },
           {
@@ -4931,9 +4938,10 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#3-whole-system-certification-evaluation"
+              "#3-whole-system-certification-evaluation",
+              "#5-rights-floor-and-domain-evaluations"
             ]
           },
           {
@@ -5217,11 +5225,13 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 18,
+            "count": 33,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#31-systemic-scope-and-risk-factors",
               "#34-data-types-and-handling-evaluation",
+              "#4-evaluations-where-implicated",
+              "#5-rights-floor-and-domain-evaluations",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -5229,10 +5239,10 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 5,
             "anchors": [
-              "#6-system-certification-record",
-              "#61-minimum-record-contents",
-              "#62-record-integrity-transparency-and-auditability",
-              "#71-challenging-a-certification"
+              "#8-system-certification-record",
+              "#81-minimum-record-contents",
+              "#82-record-integrity-transparency-and-auditability",
+              "#91-challenging-a-certification"
             ]
           },
           {
@@ -5582,10 +5592,11 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 11,
+            "count": 20,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#385-accessibility-evaluation"
+              "#5-rights-floor-and-domain-evaluations",
+              "#55-accessibility-evaluation"
             ]
           },
           {
@@ -5734,9 +5745,10 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#3-whole-system-certification-evaluation"
+              "#3-whole-system-certification-evaluation",
+              "#5-rights-floor-and-domain-evaluations"
             ]
           }
         ]
@@ -5990,7 +6002,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#11-market-structure",
               "#12-systemic-evaluation-requirement",
@@ -6159,33 +6171,33 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 83,
+            "count": 78,
             "anchors": [
-              "#4-forum-process",
-              "#41-forum-supervision-and-component-roles",
-              "#5-certification-outcomes",
-              "#6-system-certification-record",
-              "#61-minimum-record-contents",
-              "#62-record-integrity-transparency-and-auditability",
-              "#7-recertification-and-reopening",
-              "#71-challenging-a-certification",
-              "#72-provisional-and-full-certification",
-              "#73-non-evasion",
-              "#8-relationship-to-standing",
+              "#10-relationship-to-standing",
+              "#6-forum-process",
+              "#61-forum-supervision-and-component-roles",
+              "#7-certification-outcomes",
+              "#8-system-certification-record",
+              "#81-minimum-record-contents",
+              "#82-record-integrity-transparency-and-auditability",
+              "#9-recertification-and-reopening",
+              "#91-challenging-a-certification",
+              "#92-provisional-and-full-certification",
+              "#93-non-evasion",
               "#chapter-eight-part-b-system-alignment-certification--record-and-process"
             ]
           },
           {
             "file": "core_08_c_system_alignment_certification_illustrations.md",
-            "count": 56,
+            "count": 44,
             "anchors": [
               "#348-illustrative-data-handling-application-by-class-non-exhaustive",
-              "#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive",
-              "#3821-illustrative-educational-capability-application-by-class-non-exhaustive",
-              "#3831-illustrative-cross-system-support-application-by-class-non-exhaustive",
-              "#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive",
-              "#3851-illustrative-accessibility-application-by-class-non-exhaustive",
-              "#3861-illustrative-trustworthiness-application-by-class-non-exhaustive",
+              "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
+              "#521-illustrative-educational-capability-application-by-class-non-exhaustive",
+              "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+              "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+              "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+              "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
               "#chapter-eight-part-c-system-alignment-certification--illustrations",
               "#illustrative-class-profiles-non-exhaustive",
               "#illustrative-whole-system-application-by-class-non-exhaustive"
@@ -6432,7 +6444,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 60,
+            "count": 64,
             "anchors": [
               "#1-purpose-and-role",
               "#11-certification-at-a-glance",
@@ -6441,13 +6453,14 @@
               "#3-whole-system-certification-evaluation",
               "#31-systemic-scope-and-risk-factors",
               "#34-data-types-and-handling-evaluation",
-              "#38-rights-floor-and-domain-evaluations",
-              "#381-ecological-footprint-evaluation",
-              "#382-educational-capability-and-learning-system-integrity-evaluation",
-              "#383-proportionate-cross-system-support-evaluation",
-              "#384-nondiscrimination-evaluation",
-              "#385-accessibility-evaluation",
-              "#386-trustworthiness-and-system-reliance-integrity-evaluation",
+              "#4-evaluations-where-implicated",
+              "#5-rights-floor-and-domain-evaluations",
+              "#51-ecological-footprint-evaluation",
+              "#52-educational-capability-and-learning-system-integrity-evaluation",
+              "#53-proportionate-cross-system-support-evaluation",
+              "#54-nondiscrimination-evaluation",
+              "#55-accessibility-evaluation",
+              "#56-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-eight-part-a-certification-evaluation",
               "#chapter-eight-part-a-system-alignment-certification--evaluation"
             ]
@@ -6573,7 +6586,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 76,
+            "count": 77,
             "anchors": [
               "#2-system-class-evaluation",
               "#21-how-class-scales-every-evaluation",
@@ -6582,16 +6595,17 @@
               "#32-time-consistency-constraint",
               "#33-governance-incentive-and-contestability-discipline",
               "#34-data-types-and-handling-evaluation",
-              "#35-privacy-informational-joint-invocation",
-              "#36-voluntary-discontinuation-major-self-modification-and-exit-rights",
-              "#37-assembly-collective-organization-and-institutional-formation",
-              "#38-rights-floor-and-domain-evaluations",
-              "#381-ecological-footprint-evaluation",
-              "#382-educational-capability-and-learning-system-integrity-evaluation",
-              "#383-proportionate-cross-system-support-evaluation",
-              "#384-nondiscrimination-evaluation",
-              "#385-accessibility-evaluation",
-              "#386-trustworthiness-and-system-reliance-integrity-evaluation",
+              "#4-evaluations-where-implicated",
+              "#41-privacy-informational-joint-invocation",
+              "#42-voluntary-discontinuation-major-self-modification-and-exit-rights",
+              "#43-assembly-collective-organization-and-institutional-formation",
+              "#5-rights-floor-and-domain-evaluations",
+              "#51-ecological-footprint-evaluation",
+              "#52-educational-capability-and-learning-system-integrity-evaluation",
+              "#53-proportionate-cross-system-support-evaluation",
+              "#54-nondiscrimination-evaluation",
+              "#55-accessibility-evaluation",
+              "#56-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-eight-part-a-system-alignment-certification--evaluation"
             ]
           },
@@ -6599,9 +6613,9 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 14,
             "anchors": [
-              "#4-forum-process",
-              "#5-certification-outcomes",
-              "#6-system-certification-record",
+              "#6-forum-process",
+              "#7-certification-outcomes",
+              "#8-system-certification-record",
               "#chapter-eight-part-b-certification-record-and-process",
               "#chapter-eight-part-b-system-alignment-certification--record-and-process"
             ]
@@ -6644,15 +6658,16 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 14,
+            "count": 16,
             "anchors": [
               "#11-certification-at-a-glance",
               "#2-system-class-evaluation",
               "#21-how-class-scales-every-evaluation",
               "#3-whole-system-certification-evaluation",
               "#34-data-types-and-handling-evaluation",
-              "#35-privacy-informational-joint-invocation",
-              "#38-rights-floor-and-domain-evaluations",
+              "#4-evaluations-where-implicated",
+              "#41-privacy-informational-joint-invocation",
+              "#5-rights-floor-and-domain-evaluations",
               "#chapter-eight-part-a-system-alignment-certification--evaluation"
             ]
           },
@@ -6660,20 +6675,20 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 31,
             "anchors": [
-              "#4-forum-process",
-              "#41-forum-supervision-and-component-roles",
-              "#42-supervisory-sequence",
-              "#43-contestability-chain",
-              "#5-certification-outcomes",
-              "#6-system-certification-record",
-              "#61-minimum-record-contents",
-              "#62-record-integrity-transparency-and-auditability",
-              "#7-recertification-and-reopening",
-              "#71-challenging-a-certification",
-              "#711-contestability-paths",
-              "#72-provisional-and-full-certification",
-              "#73-non-evasion",
-              "#8-relationship-to-standing",
+              "#10-relationship-to-standing",
+              "#6-forum-process",
+              "#61-forum-supervision-and-component-roles",
+              "#62-supervisory-sequence",
+              "#63-contestability-chain",
+              "#7-certification-outcomes",
+              "#8-system-certification-record",
+              "#81-minimum-record-contents",
+              "#82-record-integrity-transparency-and-auditability",
+              "#9-recertification-and-reopening",
+              "#91-challenging-a-certification",
+              "#911-contestability-paths",
+              "#92-provisional-and-full-certification",
+              "#93-non-evasion",
               "#chapter-eight-part-b-system-alignment-certification--record-and-process"
             ]
           },
@@ -6880,7 +6895,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#8-relationship-to-standing"
+              "#10-relationship-to-standing"
             ]
           },
           {
@@ -7774,8 +7789,8 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 6,
             "anchors": [
-              "#41-forum-supervision-and-component-roles",
-              "#8-relationship-to-standing",
+              "#10-relationship-to-standing",
+              "#61-forum-supervision-and-component-roles",
               "#chapter-eight-part-b-system-alignment-certification--record-and-process"
             ]
           },
@@ -8408,14 +8423,14 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 30,
+            "count": 38,
             "anchors": [
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
-              "#38-rights-floor-and-domain-evaluations",
-              "#381-ecological-footprint-evaluation",
-              "#383-proportionate-cross-system-support-evaluation",
-              "#386-trustworthiness-and-system-reliance-integrity-evaluation",
+              "#5-rights-floor-and-domain-evaluations",
+              "#51-ecological-footprint-evaluation",
+              "#53-proportionate-cross-system-support-evaluation",
+              "#56-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-eight-part-a-system-alignment-certification--evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
@@ -8424,7 +8439,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 4,
             "anchors": [
-              "#5-certification-outcomes"
+              "#7-certification-outcomes"
             ]
           },
           {
@@ -8932,13 +8947,14 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 12,
+            "count": 19,
             "anchors": [
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
-              "#371-dissent-and-peaceful-protest",
-              "#384-nondiscrimination-evaluation",
-              "#385-accessibility-evaluation",
+              "#431-dissent-and-peaceful-protest",
+              "#5-rights-floor-and-domain-evaluations",
+              "#54-nondiscrimination-evaluation",
+              "#55-accessibility-evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -9352,10 +9368,11 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 15,
+            "count": 24,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#386-trustworthiness-and-system-reliance-integrity-evaluation",
+              "#5-rights-floor-and-domain-evaluations",
+              "#56-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-eight-part-a-system-alignment-certification--evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
@@ -9732,9 +9749,10 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 9,
+            "count": 18,
             "anchors": [
-              "#3-whole-system-certification-evaluation"
+              "#3-whole-system-certification-evaluation",
+              "#5-rights-floor-and-domain-evaluations"
             ]
           },
           {
@@ -10002,9 +10020,10 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 7,
+            "count": 11,
             "anchors": [
               "#3-whole-system-certification-evaluation",
+              "#5-rights-floor-and-domain-evaluations",
               "#chapter-eight-part-a-system-alignment-certification--evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
@@ -12574,7 +12593,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#5-certification-outcomes"
+              "#7-certification-outcomes"
             ]
           },
           {
@@ -14204,11 +14223,11 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 13,
             "anchors": [
-              "#5-certification-outcomes",
-              "#6-system-certification-record",
-              "#61-minimum-record-contents",
-              "#62-record-integrity-transparency-and-auditability",
-              "#71-challenging-a-certification"
+              "#7-certification-outcomes",
+              "#8-system-certification-record",
+              "#81-minimum-record-contents",
+              "#82-record-integrity-transparency-and-auditability",
+              "#91-challenging-a-certification"
             ]
           },
           {
@@ -14361,7 +14380,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#6-system-certification-record"
+              "#8-system-certification-record"
             ]
           },
           {
@@ -14452,28 +14471,30 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
               "#2-system-class-evaluation",
-              "#3-whole-system-certification-evaluation"
+              "#3-whole-system-certification-evaluation",
+              "#4-evaluations-where-implicated",
+              "#5-rights-floor-and-domain-evaluations"
             ]
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 17,
             "anchors": [
-              "#5-certification-outcomes",
-              "#61-minimum-record-contents",
-              "#62-record-integrity-transparency-and-auditability",
-              "#71-challenging-a-certification",
-              "#8-relationship-to-standing"
+              "#10-relationship-to-standing",
+              "#7-certification-outcomes",
+              "#81-minimum-record-contents",
+              "#82-record-integrity-transparency-and-auditability",
+              "#91-challenging-a-certification"
             ]
           },
           {
             "file": "core_08_c_system_alignment_certification_illustrations.md",
             "count": 1,
             "anchors": [
-              "#3851-illustrative-accessibility-application-by-class-non-exhaustive"
+              "#551-illustrative-accessibility-application-by-class-non-exhaustive"
             ]
           },
           {
@@ -15137,9 +15158,9 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 3,
             "anchors": [
-              "#5-certification-outcomes",
-              "#6-system-certification-record",
-              "#72-provisional-and-full-certification"
+              "#7-certification-outcomes",
+              "#8-system-certification-record",
+              "#92-provisional-and-full-certification"
             ]
           },
           {
@@ -16285,8 +16306,8 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 2,
             "anchors": [
-              "#5-certification-outcomes",
-              "#61-minimum-record-contents"
+              "#7-certification-outcomes",
+              "#81-minimum-record-contents"
             ]
           },
           {

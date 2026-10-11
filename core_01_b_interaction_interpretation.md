@@ -860,7 +860,7 @@ This principle does not:
 - create, extend, or narrow any Chapter Six Rights-Floor provision; or
 - displace a cluster's own statement of which compartments and protected duties it covers. A cluster states those under **Anti-bypass** and cites this section for the rule.
 
-Whole-system evaluations must test anti-segmentation under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Chapter Three §2.1 Common Evasion Patterns](core_03_definition_integrity.md#21-common-evasion-patterns) and [§2.2 Reductive Evasion](core_03_definition_integrity.md#22-reductive-evasion).
+Whole-system evaluations must test anti-segmentation under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§4 Evaluations Where Implicated](core_08_a_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), and [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Chapter Three §2.1 Common Evasion Patterns](core_03_definition_integrity.md#21-common-evasion-patterns) and [§2.2 Reductive Evasion](core_03_definition_integrity.md#22-reductive-evasion).
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 Derived-Information Principle

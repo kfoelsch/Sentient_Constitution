@@ -159,7 +159,7 @@ Systems that do not qualify under **Articles XVIII-A** and **XVIII-B** (and **§
 
 - Monitoring alone is not a complete audit. ACA detections count as audit evidence only where they meet the independence, reconstructability, and verification floors above.
 - ACA does not replace periodic audits, System Classification Record audits, System Data Types Record audits, or certification, and certification does not replace ACA.
-- Where ACA runs, its detections and trend metrics may be offered to the forum as evidence for the monitoring indicators stated on the certification record under [Chapter Eight Part B §7.2 Provisional and full certification](../core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification). Indicators may not be set so that movement toward misalignment cannot show.
+- Where ACA runs, its detections and trend metrics may be offered to the forum as evidence for the monitoring indicators stated on the certification record under [Chapter Eight Part B §9.2 Provisional and full certification](../core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification). Indicators may not be set so that movement toward misalignment cannot show.
 - ACA concerns systems. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XIX-B** (*Contestability and Proportional Restriction Limits*) and **Article XIX-C** (*Contribution, Competency Bars, and Named-Pathway Eligibility*), which this file does not own.
 
 **Open-source integrity:** Foundational designs and deployment logs should be transparent and accessible to the constitutional community. That access supports auditability and meaningful consent. Avoid black-box systems that bypass consent.
@@ -179,7 +179,7 @@ Systems that do not qualify under **Articles XVIII-A** and **XVIII-B** (and **§
 - **Testing and validation**: structured evaluation, simulation, and verification of behavior
 - **Staging or pre-deployment**: high-fidelity, production-like conditions
 - **Production**: live operation affecting sentients, the info-sphere, or the environment
-- **[Pilot](../core_05_band_continuity.md#pilot)**: a limited live [go-live](../core_05_band_continuity.md#go-live), not a non-production environment. It needs its own certification before it starts under [Chapter Eight Part B §5](../core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) and [Part A §2.2](../core_08_a_system_alignment_certification_evaluation.md#22-pilot-certification). A system at any class is expected to run one before full deployment, especially a substrate-related system, or to record why it did not
+- **[Pilot](../core_05_band_continuity.md#pilot)**: a limited live [go-live](../core_05_band_continuity.md#go-live), not a non-production environment. It needs its own certification before it starts under [Chapter Eight Part B §7](../core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) and [Part A §2.2](../core_08_a_system_alignment_certification_evaluation.md#22-pilot-certification). A system at any class is expected to run one before full deployment, especially a substrate-related system, or to record why it did not
 
 **Environment isolation and risk containment:** Maintain monitoring and alerting across environments, proportionate to scope, so anomalous non-production activity is visible without exposing production.
 
@@ -299,7 +299,7 @@ This subsection is an operational profile. It does not create rights and must no
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Eight §6 System Certification Record](../core_08_b_system_alignment_certification_record_process.md#6-system-certification-record) (*record contents*); [Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*certification verification hook*); **CS-3 — System classification and handling** (*class scaling*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*) (*adversarial robustness and abuse-resistance terms*, including regression and hardening cycle obligations).
+- Read with: [Chapter Eight §8 System Certification Record](../core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*record contents*); [Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*certification verification hook*); **CS-3 — System classification and handling** (*class scaling*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*) (*adversarial robustness and abuse-resistance terms*, including regression and hardening cycle obligations).
 
 </details>
 
