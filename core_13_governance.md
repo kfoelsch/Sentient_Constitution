@@ -101,7 +101,7 @@ Recognized mechanism families include:
   - conflict controls;
   - briefing and evidence rules;
   - facilitator or staff independence controls;
-  - anti-lobbying and anti-intimidation safeguards; and
+  - anti-lobbying and anti-intimidation safeguards, which apply the **Influence-contact boundaries** of [**Article XII-E**](core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) at their strictest: private contact with selected members about the matter is barred except through the open briefing record; and
   - contest routes for:
     - selection failure;
     - manipulation;
@@ -164,6 +164,40 @@ Recognized mechanism families include:
     - The checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or charter** designs, and hybrid designs alike.
     - Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
     - Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both this check and the **Pluralism** clause.
+
+**Selection-funding boundaries**
+
+- **Scope:** These boundaries apply where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment. They do not apply to sortition, which has its own integrity floor above, or to the ratification votes of member bodies in federated or treaty designs.
+- **Disclosure:** Material money, in-kind support, or organized campaigning by an [**interested party**](core_05_band_accountability.md#interested-party) for a candidate, nominee, or appointer must be disclosed publicly before the selection is decided, in time for the authorizing community to weigh it.
+    - The disclosure must name the real source, not only the intermediary, and must be published in a public, searchable, machine-readable register.
+    - A donor who shows a credible risk of retaliation may use a **protected-identity route**. The amount and the fact of the gift stay public.
+        - **Credible risk:** The risk is credible if there is a reasonable likelihood, not a certainty, that disclosure would expose the donor, or those close to the donor, to harassment, threats, violence, or loss of work, housing, or benefits because of the gift. A pattern of retaliation against supporters of the recipient, the cause, or the group is enough, as is a specific threat. The donor need not prove past harm.
+        - **Decision:** An independent seat decides, viewpoint-neutrally and on a recorded basis, in time for the gift to be disclosed under the rule above. A pending request never delays disclosure of the amount and the fact of the gift. A decision lasts for one selection cycle and can be renewed.
+        - **Checks:** The seat verifies the donor's identity, eligibility, and total giving against the cap. The route is not open to candidates, nominees, appointers, or anyone acting for an institution.
+        - **Sealed records:** Identity records are open to auditors and the enforcing body for their checks and for breaches. They are otherwise confidential and are deleted after a published retention period.
+- **Eligible sources:** Only sentients who belong to the authorizing community, giving from their own resources, may give money or in-kind support. Institutions (including companies, unions, associations, and funds) and systems may not.
+- **Outside the authorizing community:** No money, in-kind support, or organized campaign activity may come from outside the authorizing community, whether directly, through a third party, or through any other intermediary.
+- **Anti-circumvention:**
+    - Gifts from owners, officers, or employees that an institution directs or reimburses count as gifts from that institution.
+    - Bundling, reimbursed gifts, and gifts made in another's name are barred.
+    - Loans must be on ordinary commercial terms. Forgiving a loan counts as a gift when it is forgiven.
+    - In-kind support includes compute, data, ad placement, generated campaign content, and the paid or directed time of an institution's staff or systems.
+- **Caps:** The adopter's published mechanism must set a cap on what one donor may give in a selection cycle, across all recipients in that selection. It must add up gifts from related donors and accounts, index the cap to a published measure, and publish its reasons.
+    - **Default:** one quarter of the median weekly income of members of the authorizing community. Where income is not the right measure, the default is one quarter of an equivalent published measure of ordinary means.
+    - An adopter may set a lower cap. It may set a higher one only if it publishes its reasons and an independent seat reviews them.
+- **Third-party spending:** Anyone other than a candidate or nominee who spends to influence the selection must register before spending and identify themselves in what they publish. They must also report their sources and spending, stay within a published limit during the selection period, and not coordinate their spending with a candidate, nominee, or appointer. Every funder of a third party is bound by the eligible-source rules and the cap above.
+    - **Default limit:** ten percent of the spending limit that applies to the candidate or nominee the spending targets.
+    - Where the adopter sets no such spending limit, it must set a third-party limit itself and publish its reasons. There is no default in that case.
+- **Public support (optional):** An adopter may offset the loss of institutional money with matching funds, vouchers, or partial reimbursement of expenses. If it does, its access rules must not lock in established candidates or parties. No public financing is required.
+    - **Default design:** reimbursement of half of a candidate's eligible expenses once the candidate shows support from a published threshold of no more than one percent of eligible members. The same terms apply to independents and new parties.
+- **Enforcement:** Compliance must be audited by a body structurally separate from the candidates and appointers, which is an [**Integrity**](core_12_forum.md#45-integrity-forums) forum or an equivalent independent check. It may order correction, clawback of ineligible funds, and disqualification where a breach is material. Breaches route as integrity triggers under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) and **CJS-3.6** (*integrity assurance and resilience operations*).
+- **Outcome review:** At each periodic revalidation under [**Article XXVII-A**](core_06_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*), the adopter must test whether these boundaries reduce capture, not only whether they are followed.
+    - It must publish the share of selection funds by source type, the share supplied by the largest donors, the third-party share of spending, the time from gift to register entry, and enforcement outcomes.
+    - It must look for leaks. A rise in funding through a channel the rules do not cover, or decisions that repeatedly favor funders with a material stake, is evidence that the rules need changing.
+    - It must revise the rules where it finds such evidence.
+- **Dependency:** Support that creates material dependency between the selected sentient and the supporter is a conflict under **Article XII-D** (*Non-Capture Safeguards*). It must be disclosed, and the selected sentient must recuse from matters in which the supporter has a material stake.
+- **Mechanism-neutral:** These boundaries set no spending limit and require no public financing. A design in which undisclosed or ineligible funding can decide a selection fails the **contested selection** check above. Where external law forbids a boundary, the adopter applies it as far as that law allows and publishes the gap, as [Chapter Fifteen](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) provides.
+- **Opposition protection:** These rules must not be used to deter the organizing, communication, and dissent protected by **opposition protection** above.
 
 **Forum appointment independence floor**
 

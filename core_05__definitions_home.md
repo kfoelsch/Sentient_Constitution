@@ -230,6 +230,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Instantiation Consent](core_05_band_participation.md#instantiation-consent)
 - [Institution](core_05_band_continuity.md#institution)
 - [Institutional Development](core_05_band_continuity.md#institutional-development)
+- [Interested Party](core_05_band_accountability.md#interested-party)
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility)
 - [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)
 - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm)

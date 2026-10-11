@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-10T05:50:23+00:00",
+  "generated_at": "2026-10-11T01:49:14+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16763,
+  "edge_count": 16829,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -20571,6 +20571,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#irreversible-deprivation-measure",
       "count": 1
     },
@@ -29059,6 +29067,14 @@
       "source_header": "Governance architecture, decentralization, and concentration",
       "source_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Governance architecture, decentralization, and concentration",
+      "source_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#initiating-seat",
       "count": 1
     },
@@ -29701,6 +29717,150 @@
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#coercion-and-manipulation",
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#33-governance-layers",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#measuring-accountability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#measuring-oversight-preamble-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-architecture-decentralization-and-concentration",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#material-control-line",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#initiating-seat",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-e-influence-contact-and-lobbying-boundaries",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#3-independence-conflict-and-control-lines",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#chapter-seven-functional-independence-and-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Interested Party",
+      "source_anchor": "#interested-party",
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#12-eligibility-contested-selection-and-democratic-minimums",
+      "count": 1
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -68674,6 +68834,14 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
       "count": 3
@@ -68770,17 +68938,9 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Non-Capture Safeguards",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": null,
-      "count": 1
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-e-influence-contact-and-lobbying-boundaries",
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -68873,6 +69033,318 @@
     {
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#18-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#19-incentive-alignment-and-system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-d-non-capture-safeguards",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-b-weighted-participation-and-anti-token-constraints",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-x-a-agency-and-freedom-from-manipulation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-a-self-ownership-of-likeness-and-reputation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xv-info-sphere-integrity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#chapter-seven-functional-independence-and-segregation-of-duties",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#53-flooding-the-zone-and-contest-pathway-denial",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#54-info-sphere-zone-flooding",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#55-bribery-and-improper-benefit-exchange",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#12-eligibility-contested-selection-and-democratic-minimums",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "source_anchor": null,
+      "target_file": "corpus_forum.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-E: Influence-Contact and Lobbying Boundaries",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "target_anchor": null,
@@ -93306,6 +93778,14 @@
       "source_file": "core_13_governance.md",
       "source_header": "1.1 Mechanism families, auditability, and pluralism",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-e-influence-contact-and-lobbying-boundaries",
+      "count": 1
+    },
+    {
+      "source_file": "core_13_governance.md",
+      "source_header": "1.1 Mechanism families, auditability, and pluralism",
+      "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -93324,6 +93804,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_13_governance.md",
+      "source_header": "1.2 Eligibility, contested selection, and democratic minimums",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party",
       "count": 1
     },
     {
@@ -93354,6 +93842,14 @@
       "source_file": "core_13_governance.md",
       "source_header": "1.2 Eligibility, contested selection, and democratic minimums",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_e.md",
+      "target_anchor": "#article-xxvii-a-non-entrenchment-and-revisability",
+      "count": 1
+    },
+    {
+      "source_file": "core_13_governance.md",
+      "source_header": "1.2 Eligibility, contested selection, and democratic minimums",
+      "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#92-remedy-system-durability",
       "count": 1
@@ -93364,7 +93860,7 @@
       "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#45-integrity-forums",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_13_governance.md",
@@ -93388,6 +93884,14 @@
       "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#42-technical-forum-domains",
+      "count": 1
+    },
+    {
+      "source_file": "core_13_governance.md",
+      "source_header": "1.2 Eligibility, contested selection, and democratic minimums",
+      "source_anchor": null,
+      "target_file": "core_15_expansion_supremacy.md",
+      "target_anchor": "#5-relation-to-applicable-external-law",
       "count": 1
     },
     {
@@ -108730,8 +109234,24 @@
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
       "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-e-influence-contact-and-lobbying-boundaries",
       "count": 1
     },
     {
@@ -124116,6 +124636,14 @@
       "source_anchor": "#structured-review-and-incentive-integrity-floor-c",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+      "source_header": "CJS-3.6 Oversight: integrity assurance and resilience operations",
+      "source_anchor": "#structured-review-and-incentive-integrity-floor-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#interested-party",
       "count": 1
     },
     {

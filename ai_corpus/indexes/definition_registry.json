@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-10-10T05:50:24+00:00",
+  "generated_at": "2026-10-11T01:49:13+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 262,
+  "definition_count": 263,
   "definitions": [
     {
       "term": "Abstract Strictness",
@@ -44,13 +44,13 @@
       "term": "Animal Cruelty",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#animal-cruelty",
-      "line_start": 2123,
-      "line_end": 2178,
+      "line_start": 2166,
+      "line_end": 2221,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1930
+        "line": 1973
       }
     },
     {
@@ -79,13 +79,13 @@
       "term": "Anti-Constitutional Misconduct Review",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#anti-constitutional-misconduct-review",
-      "line_start": 3288,
-      "line_end": 3330,
+      "line_start": 3331,
+      "line_end": 3373,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2749
+        "line": 2792
       }
     },
     {
@@ -158,26 +158,26 @@
       "term": "Autonomous Coercion Tool",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
-      "line_start": 3877,
-      "line_end": 3940,
+      "line_start": 3920,
+      "line_end": 3983,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 3540
+        "line": 3583
       }
     },
     {
       "term": "Autonomous Lethal System",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#autonomous-lethal-system-constitutional",
-      "line_start": 3618,
-      "line_end": 3670,
+      "line_start": 3661,
+      "line_end": 3713,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 3536
+        "line": 3579
       }
     },
     {
@@ -309,13 +309,13 @@
       "term": "Collective Harm Boundary",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#collective-harm-boundary",
-      "line_start": 2237,
-      "line_end": 2267,
+      "line_start": 2280,
+      "line_end": 2310,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1932
+        "line": 1975
       }
     },
     {
@@ -331,39 +331,39 @@
       "term": "Combatant / Non-Combatant Distinction",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
-      "line_start": 3735,
-      "line_end": 3802,
+      "line_start": 3778,
+      "line_end": 3845,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 3538
+        "line": 3581
       }
     },
     {
       "term": "Competency Bar",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#competency-bar",
-      "line_start": 3143,
-      "line_end": 3187,
+      "line_start": 3186,
+      "line_end": 3230,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2746
+        "line": 2789
       }
     },
     {
       "term": "Competency Clearance",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#competency-clearance",
-      "line_start": 3188,
-      "line_end": 3234,
+      "line_start": 3231,
+      "line_end": 3277,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2747
+        "line": 2790
       }
     },
     {
@@ -460,8 +460,8 @@
       "term": "Contest Seat",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#contest-seat",
-      "line_start": 1557,
-      "line_end": 1592,
+      "line_start": 1600,
+      "line_end": 1635,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -509,13 +509,13 @@
       "term": "Contribution Nature",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#contribution-nature",
-      "line_start": 2882,
-      "line_end": 2934,
+      "line_start": 2925,
+      "line_end": 2977,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2742
+        "line": 2785
       }
     },
     {
@@ -557,21 +557,21 @@
       "term": "Cruelty",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#cruelty",
-      "line_start": 2070,
-      "line_end": 2122,
+      "line_start": 2113,
+      "line_end": 2165,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1929
+        "line": 1972
       }
     },
     {
       "term": "Decentralization",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#decentralization",
-      "line_start": 1671,
-      "line_end": 1712,
+      "line_start": 1714,
+      "line_end": 1755,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -885,91 +885,91 @@
       "term": "Forum Case Record",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-case-record",
-      "line_start": 2595,
-      "line_end": 2669,
+      "line_start": 2638,
+      "line_end": 2712,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2304
+        "line": 2347
       }
     },
     {
       "term": "Forum Family, Constitutional",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-constitutional",
-      "line_start": 2557,
-      "line_end": 2594,
+      "line_start": 2600,
+      "line_end": 2637,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2301
+        "line": 2344
       }
     },
     {
       "term": "Forum Family, Environment",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-environment",
-      "line_start": 2484,
-      "line_end": 2512,
+      "line_start": 2527,
+      "line_end": 2555,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2299
+        "line": 2342
       }
     },
     {
       "term": "Forum Family, Institutional",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-institutional",
-      "line_start": 2455,
-      "line_end": 2483,
+      "line_start": 2498,
+      "line_end": 2526,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2298
+        "line": 2341
       }
     },
     {
       "term": "Forum Family, Integrity",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-integrity",
-      "line_start": 2513,
-      "line_end": 2556,
+      "line_start": 2556,
+      "line_end": 2599,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2300
+        "line": 2343
       }
     },
     {
       "term": "Forum Family, Sentient",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-sentient",
-      "line_start": 2391,
-      "line_end": 2419,
+      "line_start": 2434,
+      "line_end": 2462,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2296
+        "line": 2339
       }
     },
     {
       "term": "Forum Family, Technical",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#forum-family-technical",
-      "line_start": 2420,
-      "line_end": 2454,
+      "line_start": 2463,
+      "line_end": 2497,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2297
+        "line": 2340
       }
     },
     {
@@ -1061,8 +1061,8 @@
       "term": "Governance",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#governance",
-      "line_start": 1359,
-      "line_end": 1405,
+      "line_start": 1360,
+      "line_end": 1406,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1083,13 +1083,13 @@
       "term": "Harassment and Bullying",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#harassment-and-bullying",
-      "line_start": 2179,
-      "line_end": 2236,
+      "line_start": 2222,
+      "line_end": 2279,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1931
+        "line": 1974
       }
     },
     {
@@ -1109,13 +1109,13 @@
       "term": "Harm",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#harm",
-      "line_start": 1954,
-      "line_end": 2002,
+      "line_start": 1997,
+      "line_end": 2045,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1926
+        "line": 1969
       }
     },
     {
@@ -1225,8 +1225,8 @@
       "term": "Initiating Seat",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#initiating-seat",
-      "line_start": 1449,
-      "line_end": 1484,
+      "line_start": 1492,
+      "line_end": 1527,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1280,6 +1280,15 @@
       }
     },
     {
+      "term": "Interested Party",
+      "source_file": "core_05_band_accountability.md",
+      "anchor": "#interested-party",
+      "line_start": 1450,
+      "line_end": 1491,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
       "term": "Intergenerational Responsibility",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#intergenerational-responsibility-constitutional",
@@ -1292,39 +1301,39 @@
       "term": "Irreversible Deprivation Measure",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#irreversible-deprivation-measure-constitutional",
-      "line_start": 3803,
-      "line_end": 3876,
+      "line_start": 3846,
+      "line_end": 3919,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 3539
+        "line": 3582
       }
     },
     {
       "term": "Irreversible Harm",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#irreversible-harm",
-      "line_start": 2031,
-      "line_end": 2069,
+      "line_start": 2074,
+      "line_end": 2112,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1928
+        "line": 1971
       }
     },
     {
       "term": "Jurisdiction",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#jurisdiction",
-      "line_start": 2321,
-      "line_end": 2360,
+      "line_start": 2364,
+      "line_end": 2403,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2302
+        "line": 2345
       }
     },
     {
@@ -1375,8 +1384,8 @@
       "term": "Market Concentration Threshold",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#market-concentration-threshold-constitutional",
-      "line_start": 1815,
-      "line_end": 1887,
+      "line_start": 1858,
+      "line_end": 1930,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1384,8 +1393,8 @@
       "term": "Market Structure",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#market-structure-constitutional",
-      "line_start": 1758,
-      "line_end": 1814,
+      "line_start": 1801,
+      "line_end": 1857,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1402,8 +1411,8 @@
       "term": "Material Control Line",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#material-control-line",
-      "line_start": 1406,
-      "line_end": 1448,
+      "line_start": 1407,
+      "line_end": 1449,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1474,8 +1483,8 @@
       "term": "Materially Binding Act",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#materially-binding-act",
-      "line_start": 1593,
-      "line_end": 1631,
+      "line_start": 1636,
+      "line_end": 1674,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1483,8 +1492,8 @@
       "term": "Materially Binding Act Record",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#materially-binding-act-record",
-      "line_start": 1632,
-      "line_end": 1670,
+      "line_start": 1675,
+      "line_end": 1713,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1586,8 +1595,8 @@
       "term": "Non-Compliance Finding Profile",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#non-compliance-finding-profile",
-      "line_start": 2670,
-      "line_end": 2703,
+      "line_start": 2713,
+      "line_end": 2746,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1671,13 +1680,13 @@
       "term": "Participant Standing",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#participant-standing-constitutional",
-      "line_start": 2765,
-      "line_end": 2828,
+      "line_start": 2808,
+      "line_end": 2871,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2740
+        "line": 2783
       }
     },
     {
@@ -1711,13 +1720,13 @@
       "term": "Primary-Stakes Routing",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#primary-stakes-routing",
-      "line_start": 2361,
-      "line_end": 2390,
+      "line_start": 2404,
+      "line_end": 2433,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A2 Forum Families and Dispute Routing",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2303
+        "line": 2346
       }
     },
     {
@@ -1867,13 +1876,13 @@
       "term": "Psychological Harm",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#psychological-harm",
-      "line_start": 2003,
-      "line_end": 2030,
+      "line_start": 2046,
+      "line_end": 2073,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 1927
+        "line": 1970
       }
     },
     {
@@ -1920,8 +1929,8 @@
       "term": "Record Seat",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#record-seat",
-      "line_start": 1521,
-      "line_end": 1556,
+      "line_start": 1564,
+      "line_end": 1599,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2163,13 +2172,13 @@
       "term": "Single Catastrophic Incident",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#single-catastrophic-incident",
-      "line_start": 3422,
-      "line_end": 3460,
+      "line_start": 3465,
+      "line_end": 3503,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2752
+        "line": 2795
       }
     },
     {
@@ -2229,8 +2238,8 @@
       "term": "Standardization",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#standardization",
-      "line_start": 1713,
-      "line_end": 1757,
+      "line_start": 1756,
+      "line_end": 1800,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2238,39 +2247,39 @@
       "term": "Standing Effect",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#standing-effect-chapter-six",
-      "line_start": 2987,
-      "line_end": 3052,
+      "line_start": 3030,
+      "line_end": 3095,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2744
+        "line": 2787
       }
     },
     {
       "term": "Standing Lock",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#standing-lock",
-      "line_start": 3235,
-      "line_end": 3287,
+      "line_start": 3278,
+      "line_end": 3330,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2748
+        "line": 2791
       }
     },
     {
       "term": "Standing Record",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
-      "line_start": 3053,
-      "line_end": 3142,
+      "line_start": 3096,
+      "line_end": 3185,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2745
+        "line": 2788
       }
     },
     {
@@ -2378,13 +2387,13 @@
       "term": "Sustained High-Gravity Pattern",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "line_start": 3461,
-      "line_end": 3506,
+      "line_start": 3504,
+      "line_end": 3549,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2753
+        "line": 2796
       }
     },
     {
@@ -2595,39 +2604,39 @@
       "term": "Unified Incident",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#unified-incident",
-      "line_start": 3331,
-      "line_end": 3370,
+      "line_start": 3374,
+      "line_end": 3413,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2750
+        "line": 2793
       }
     },
     {
       "term": "Unified Incident Record",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#unified-incident-record",
-      "line_start": 3371,
-      "line_end": 3421,
+      "line_start": 3414,
+      "line_end": 3464,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2751
+        "line": 2794
       }
     },
     {
       "term": "Use of Force",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#use-of-force-constitutional",
-      "line_start": 3552,
-      "line_end": 3617,
+      "line_start": 3595,
+      "line_end": 3660,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 3535
+        "line": 3578
       }
     },
     {
@@ -2647,21 +2656,21 @@
       "term": "Verified Inputs for Standing",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#verified-inputs-for-standing",
-      "line_start": 2829,
-      "line_end": 2881,
+      "line_start": 2872,
+      "line_end": 2924,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2741
+        "line": 2784
       }
     },
     {
       "term": "Verify-or-Authorize Seat",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#verify-or-authorize-seat",
-      "line_start": 1485,
-      "line_end": 1520,
+      "line_start": 1528,
+      "line_end": 1563,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2669,13 +2678,13 @@
       "term": "Violation Nature",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#violation-nature-chapter-six",
-      "line_start": 2935,
-      "line_end": 2986,
+      "line_start": 2978,
+      "line_end": 3029,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A3 Standing State, Contribution, and Violation",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 2743
+        "line": 2786
       }
     },
     {
@@ -2704,13 +2713,13 @@
       "term": "Weapons of Mass Harm",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#weapons-of-mass-harm-constitutional",
-      "line_start": 3671,
-      "line_end": 3734,
+      "line_start": 3714,
+      "line_end": 3777,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05_band_accountability.md",
-        "line": 3537
+        "line": 3580
       }
     },
     {

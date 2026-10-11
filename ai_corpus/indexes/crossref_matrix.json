@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-10T05:50:22+00:00",
+  "generated_at": "2026-10-11T01:49:14+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2597,7 +2597,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 89,
+            "count": 90,
             "anchors": [
               "#adjudication-and-dispute-resolution",
               "#animal-cruelty",
@@ -2642,6 +2642,7 @@
               "#harm-minimization-tradeoff-selection",
               "#initiating-seat",
               "#insider-advantage",
+              "#interested-party",
               "#irreversible-deprivation-measure",
               "#irreversible-harm",
               "#jurisdiction",
@@ -3594,7 +3595,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 27,
+            "count": 29,
             "anchors": [
               "#33-governance-layers",
               "#5-functional-independence-and-segregation-of-duties",
@@ -3683,7 +3684,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 116,
+            "count": 117,
             "anchors": [
               "#accountability",
               "#accountability-tetrad-leg-decomposition",
@@ -3706,7 +3707,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 25,
+            "count": 26,
             "anchors": [
               "#measuring-oversight-preamble-measurement-family",
               "#oversight-constitutional"
@@ -3722,7 +3723,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 687,
+            "count": 696,
             "anchors": [
               "#accountability-contestability-and-redress-pathways",
               "#adjudication-and-dispute-resolution",
@@ -3767,6 +3768,7 @@
               "#harm-minimization-tradeoff-selection",
               "#initiating-seat",
               "#insider-advantage",
+              "#interested-party",
               "#irreversible-deprivation-measure",
               "#irreversible-harm",
               "#jurisdiction",
@@ -3809,7 +3811,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 143,
+            "count": 148,
             "anchors": [
               "#anti-capture",
               "#avoidable-burden",
@@ -3855,7 +3857,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 154,
+            "count": 156,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3912,12 +3914,13 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 6,
+            "count": 8,
             "anchors": [
               "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vii-d-voluntary-discontinuation-of-ones-own-existence",
               "#article-xi-f-non-imposition-and-consent-in-association",
               "#article-xi-g-collective-harm-boundary-and-enforcement-interface",
+              "#article-xii-e-influence-contact-and-lobbying-boundaries",
               "#article-xii-stakeholder-system-participation-representation-and-due-process",
               "#xi-d-dissent-and-peaceful-protest"
             ]
@@ -3955,7 +3958,7 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 18,
+            "count": 20,
             "anchors": [
               "#1-purpose-scope-and-owner-boundary",
               "#2-four-seat-constitutional-floor",
@@ -3963,7 +3966,8 @@
               "#4-wrong-seat-routing",
               "#5-published-placement-vacancy-and-substitution",
               "#8-act-records-and-attributable-handoffs",
-              "#9-relationship-to-later-processes"
+              "#9-relationship-to-later-processes",
+              "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
           {
@@ -3984,7 +3988,7 @@
           },
           {
             "file": "core_09_standing_assessment.md",
-            "count": 40,
+            "count": 41,
             "anchors": [
               "#1-the-three-questions",
               "#2-question-1--what-happened",
@@ -4056,6 +4060,13 @@
               "#61-emergency-measures-and-continuation-burden",
               "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
+            ]
+          },
+          {
+            "file": "core_13_governance.md",
+            "count": 1,
+            "anchors": [
+              "#12-eligibility-contested-selection-and-democratic-minimums"
             ]
           },
           {
@@ -8508,7 +8519,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 33,
+            "count": 36,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake",
@@ -8517,7 +8528,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 94,
+            "count": 95,
             "anchors": [
               "#11-market-structure",
               "#111-market-concentration-threshold-mechanism-adopter-tunable",
@@ -8556,7 +8567,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 17,
+            "count": 19,
             "anchors": [
               "#162-institutional-development",
               "#18-governance-under-stewardship-discipline",
@@ -8577,7 +8588,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 319,
+            "count": 332,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
@@ -8606,6 +8617,9 @@
               "#harm",
               "#harm-a",
               "#harm-c",
+              "#interested-party",
+              "#interested-party-a",
+              "#interested-party-c",
               "#irreversible-deprivation-measure",
               "#materially-binding-act",
               "#materially-binding-act-record",
@@ -8630,7 +8644,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 165,
+            "count": 175,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -8720,7 +8734,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 62,
+            "count": 67,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -8750,7 +8764,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 487,
+            "count": 492,
             "anchors": [
               "#accessibility",
               "#accessibility-constitutional-a",
@@ -8871,9 +8885,22 @@
             ]
           },
           {
-            "file": "core_06_rights_part_c.md",
-            "count": 3,
+            "file": "core_06_rights_part_b.md",
+            "count": 10,
             "anchors": [
+              "#article-ix-a-self-ownership-of-likeness-and-reputation",
+              "#article-x-a-agency-and-freedom-from-manipulation",
+              "#article-xii-b-weighted-participation-and-anti-token-constraints",
+              "#article-xii-d-non-capture-safeguards",
+              "#article-xii-e-influence-contact-and-lobbying-boundaries"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_c.md",
+            "count": 7,
+            "anchors": [
+              "#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity",
+              "#article-xv-info-sphere-integrity",
               "#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
               "#article-xviii-e-creative-and-expressive-works"
             ]
@@ -8895,7 +8922,7 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 5,
+            "count": 7,
             "anchors": [
               "#2-four-seat-constitutional-floor",
               "#3-independence-conflict-and-control-lines",
@@ -8938,9 +8965,12 @@
           },
           {
             "file": "core_11_b_misconduct_pattern_applications.md",
-            "count": 1,
+            "count": 4,
             "anchors": [
-              "#510-forum-recusal-failure-and-biased-panel-participation"
+              "#510-forum-recusal-failure-and-biased-panel-participation",
+              "#53-flooding-the-zone-and-contest-pathway-denial",
+              "#54-info-sphere-zone-flooding",
+              "#55-bribery-and-improper-benefit-exchange"
             ]
           },
           {
@@ -8959,8 +8989,9 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 6,
+            "count": 9,
             "anchors": [
+              "#12-eligibility-contested-selection-and-democratic-minimums",
               "#41-entitlement-and-eligibility"
             ]
           },
@@ -8973,7 +9004,7 @@
           },
           {
             "file": "corpus_forum.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -8983,7 +9014,7 @@
           },
           {
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-            "count": 2,
+            "count": 3,
             "anchors": []
           },
           {
@@ -10126,9 +10157,10 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#governance-architecture-decentralization-and-concentration",
+              "#interested-party",
               "#necessity",
               "#proportionality",
               "#redress-and-remediation"
@@ -10198,12 +10230,13 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#article-x-b-governance-participation-and-voting-entitlement",
               "#article-xii-a-stakeholder-system-participation-and-representation",
               "#article-xii-b-weighted-participation-and-anti-token-constraints",
               "#article-xii-c-internal-roles-accountability-and-due-process-requirements",
+              "#article-xii-e-influence-contact-and-lobbying-boundaries",
               "#article-xii-stakeholder-system-participation-representation-and-due-process",
               "#xi-d-dissent-and-peaceful-protest"
             ]
@@ -10217,9 +10250,10 @@
           },
           {
             "file": "core_06_rights_part_e.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
-              "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment"
+              "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxvii-a-non-entrenchment-and-revisability"
             ]
           },
           {
@@ -10255,7 +10289,7 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#42-technical-forum-domains",
               "#44-environment-forums",
@@ -10268,6 +10302,13 @@
             "count": 3,
             "anchors": [
               "#chapter-fourteen-non-regression-and-substantive-amendment-validity"
+            ]
+          },
+          {
+            "file": "core_15_expansion_supremacy.md",
+            "count": 1,
+            "anchors": [
+              "#5-relation-to-applicable-external-law"
             ]
           },
           {
@@ -13016,7 +13057,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 25,
+            "count": 26,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -13027,6 +13068,7 @@
               "#governance",
               "#governance-a",
               "#governance-c",
+              "#interested-party",
               "#proportionality",
               "#proportionality-a",
               "#proportionality-c"
@@ -16379,7 +16421,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 27,
+            "count": 28,
             "anchors": [
               "#competency-bar",
               "#competency-bar-a",
@@ -16395,6 +16437,7 @@
               "#governance-a",
               "#governance-c",
               "#initiating-seat",
+              "#interested-party",
               "#material-control-line",
               "#materially-binding-act-record",
               "#record-seat",
@@ -16460,6 +16503,13 @@
             "count": 6,
             "anchors": [
               "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_b.md",
+            "count": 1,
+            "anchors": [
+              "#article-xii-e-influence-contact-and-lobbying-boundaries"
             ]
           },
           {

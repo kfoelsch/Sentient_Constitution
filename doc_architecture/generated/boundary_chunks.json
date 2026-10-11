@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 936,
+  "chunk_count": 938,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -1244,21 +1244,21 @@
       "heading": "Chapter Five alphabetical directory (non-operative)",
       "anchor": "#chapter-five-alphabetical-directory",
       "line_start": 88,
-      "line_end": 399
+      "line_end": 400
     },
     {
       "file": "core_05__definitions_home.md",
       "heading": "Chapter Five compass and definition map",
       "anchor": "#chapter-five-compass-and-definition-map",
-      "line_start": 400,
-      "line_end": 431
+      "line_start": 401,
+      "line_end": 432
     },
     {
       "file": "core_05__definitions_home.md",
       "heading": "Measurement crosswalk (reader guidance)",
       "anchor": "#measurement-crosswalk-reader-guidance",
-      "line_start": 432,
-      "line_end": 465
+      "line_start": 433,
+      "line_end": 466
     },
     {
       "file": "core_05_apex_accountability_leg.md",
@@ -1636,385 +1636,392 @@
       "heading": "Governance architecture, decentralization, and concentration",
       "anchor": "#assembly-collective-organization-institutional-formation-semi-independent",
       "line_start": 1330,
-      "line_end": 1358
+      "line_end": 1359
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Governance",
       "anchor": "#governance",
-      "line_start": 1359,
-      "line_end": 1405
+      "line_start": 1360,
+      "line_end": 1406
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Material Control Line",
       "anchor": "#material-control-line",
-      "line_start": 1406,
-      "line_end": 1448
+      "line_start": 1407,
+      "line_end": 1449
+    },
+    {
+      "file": "core_05_band_accountability.md",
+      "heading": "Interested Party",
+      "anchor": "#interested-party",
+      "line_start": 1450,
+      "line_end": 1491
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Initiating Seat",
       "anchor": "#initiating-seat",
-      "line_start": 1449,
-      "line_end": 1484
+      "line_start": 1492,
+      "line_end": 1527
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Verify-or-Authorize Seat",
       "anchor": "#verify-or-authorize-seat",
-      "line_start": 1485,
-      "line_end": 1520
+      "line_start": 1528,
+      "line_end": 1563
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Record Seat",
       "anchor": "#record-seat",
-      "line_start": 1521,
-      "line_end": 1556
+      "line_start": 1564,
+      "line_end": 1599
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Contest Seat",
       "anchor": "#contest-seat",
-      "line_start": 1557,
-      "line_end": 1592
+      "line_start": 1600,
+      "line_end": 1635
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Materially Binding Act",
       "anchor": "#materially-binding-act",
-      "line_start": 1593,
-      "line_end": 1631
+      "line_start": 1636,
+      "line_end": 1674
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Materially Binding Act Record",
       "anchor": "#act-record",
-      "line_start": 1632,
-      "line_end": 1670
+      "line_start": 1675,
+      "line_end": 1713
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Decentralization",
       "anchor": "#decentralization",
-      "line_start": 1671,
-      "line_end": 1712
+      "line_start": 1714,
+      "line_end": 1755
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Standardization",
       "anchor": "#standardization",
-      "line_start": 1713,
-      "line_end": 1757
+      "line_start": 1756,
+      "line_end": 1800
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Market Structure",
       "anchor": "#market-structure-constitutional",
-      "line_start": 1758,
-      "line_end": 1814
+      "line_start": 1801,
+      "line_end": 1857
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Market Concentration Threshold",
       "anchor": "#market-concentration-threshold-constitutional",
-      "line_start": 1815,
-      "line_end": 1882
+      "line_start": 1858,
+      "line_end": 1925
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Accountability: Dependent clusters",
       "anchor": "#stakeholder-identification-participation-semi-independent",
-      "line_start": 1883,
-      "line_end": 1887
+      "line_start": 1926,
+      "line_end": 1930
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
       "anchor": "#defa1",
-      "line_start": 1888,
-      "line_end": 1953
+      "line_start": 1931,
+      "line_end": 1996
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Harm",
       "anchor": "#harm",
-      "line_start": 1954,
-      "line_end": 2002
+      "line_start": 1997,
+      "line_end": 2045
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Psychological Harm",
       "anchor": "#psychological-harm",
-      "line_start": 2003,
-      "line_end": 2030
+      "line_start": 2046,
+      "line_end": 2073
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Irreversible Harm",
       "anchor": "#irreversible-harm",
-      "line_start": 2031,
-      "line_end": 2069
+      "line_start": 2074,
+      "line_end": 2112
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Cruelty",
       "anchor": "#cruelty",
-      "line_start": 2070,
-      "line_end": 2122
+      "line_start": 2113,
+      "line_end": 2165
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Animal Cruelty",
       "anchor": "#animal-cruelty",
-      "line_start": 2123,
-      "line_end": 2178
+      "line_start": 2166,
+      "line_end": 2221
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Harassment and Bullying",
       "anchor": "#harassment-and-bullying",
-      "line_start": 2179,
-      "line_end": 2236
+      "line_start": 2222,
+      "line_end": 2279
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Collective Harm Boundary",
       "anchor": "#collective-harm-boundary",
-      "line_start": 2237,
-      "line_end": 2267
+      "line_start": 2280,
+      "line_end": 2310
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Def.A2 Forum Families and Dispute Routing",
       "anchor": "#defa2",
-      "line_start": 2268,
-      "line_end": 2320
+      "line_start": 2311,
+      "line_end": 2363
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Jurisdiction",
       "anchor": "#jurisdiction",
-      "line_start": 2321,
-      "line_end": 2360
+      "line_start": 2364,
+      "line_end": 2403
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Primary-Stakes Routing",
       "anchor": "#primary-stakes-routing",
-      "line_start": 2361,
-      "line_end": 2390
+      "line_start": 2404,
+      "line_end": 2433
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Forum Family, Sentient",
       "anchor": "#forum-family-sentient",
-      "line_start": 2391,
-      "line_end": 2419
+      "line_start": 2434,
+      "line_end": 2462
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Forum Family, Technical",
       "anchor": "#forum-family-technical",
-      "line_start": 2420,
-      "line_end": 2454
+      "line_start": 2463,
+      "line_end": 2497
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Forum Family, Institutional",
       "anchor": "#forum-family-institutional",
-      "line_start": 2455,
-      "line_end": 2483
+      "line_start": 2498,
+      "line_end": 2526
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Forum Family, Environment",
       "anchor": "#forum-family-environment",
-      "line_start": 2484,
-      "line_end": 2512
+      "line_start": 2527,
+      "line_end": 2555
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Forum Family, Integrity",
       "anchor": "#forum-family-integrity",
-      "line_start": 2513,
-      "line_end": 2556
+      "line_start": 2556,
+      "line_end": 2599
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Forum Family, Constitutional",
       "anchor": "#forum-family-constitutional",
-      "line_start": 2557,
-      "line_end": 2594
+      "line_start": 2600,
+      "line_end": 2637
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Forum Case Record",
       "anchor": "#forum-case-record",
-      "line_start": 2595,
-      "line_end": 2669
+      "line_start": 2638,
+      "line_end": 2712
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Non-Compliance Finding Profile",
       "anchor": "#non-compliance-finding-profile",
-      "line_start": 2670,
-      "line_end": 2703
+      "line_start": 2713,
+      "line_end": 2746
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Def.A3 Standing State, Contribution, and Violation",
       "anchor": "#defa3",
-      "line_start": 2704,
-      "line_end": 2764
+      "line_start": 2747,
+      "line_end": 2807
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Participant Standing",
       "anchor": "#participant-standing-constitutional",
-      "line_start": 2765,
-      "line_end": 2828
+      "line_start": 2808,
+      "line_end": 2871
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Verified Inputs for Standing",
       "anchor": "#verified-inputs-for-standing",
-      "line_start": 2829,
-      "line_end": 2881
+      "line_start": 2872,
+      "line_end": 2924
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Contribution Nature",
       "anchor": "#contribution-state",
-      "line_start": 2882,
-      "line_end": 2934
+      "line_start": 2925,
+      "line_end": 2977
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Violation Nature",
       "anchor": "#violation-nature-chapter-six",
-      "line_start": 2935,
-      "line_end": 2986
+      "line_start": 2978,
+      "line_end": 3029
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Standing Effect",
       "anchor": "#standing-effect-chapter-six",
-      "line_start": 2987,
-      "line_end": 3052
+      "line_start": 3030,
+      "line_end": 3095
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Standing Record",
       "anchor": "#standing-record-chapter-six",
-      "line_start": 3053,
-      "line_end": 3142
+      "line_start": 3096,
+      "line_end": 3185
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Competency Bar",
       "anchor": "#competency-bar",
-      "line_start": 3143,
-      "line_end": 3187
+      "line_start": 3186,
+      "line_end": 3230
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Competency Clearance",
       "anchor": "#competency-gate",
-      "line_start": 3188,
-      "line_end": 3234
+      "line_start": 3231,
+      "line_end": 3277
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Standing Lock",
       "anchor": "#standing-lock",
-      "line_start": 3235,
-      "line_end": 3287
+      "line_start": 3278,
+      "line_end": 3330
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Anti-Constitutional Misconduct Review",
       "anchor": "#top-slot-review",
-      "line_start": 3288,
-      "line_end": 3330
+      "line_start": 3331,
+      "line_end": 3373
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Unified Incident",
       "anchor": "#unified-incident",
-      "line_start": 3331,
-      "line_end": 3370
+      "line_start": 3374,
+      "line_end": 3413
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Unified Incident Record",
       "anchor": "#unified-record",
-      "line_start": 3371,
-      "line_end": 3421
+      "line_start": 3414,
+      "line_end": 3464
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Single Catastrophic Incident",
       "anchor": "#single-catastrophic-incident",
-      "line_start": 3422,
-      "line_end": 3460
+      "line_start": 3465,
+      "line_end": 3503
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Sustained High-Gravity Pattern",
       "anchor": "#sustained-high-gravity-pattern",
-      "line_start": 3461,
-      "line_end": 3506
+      "line_start": 3504,
+      "line_end": 3549
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
       "anchor": "#defa4",
-      "line_start": 3507,
-      "line_end": 3551
+      "line_start": 3550,
+      "line_end": 3594
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Use of Force",
       "anchor": "#use-of-force-constitutional",
-      "line_start": 3552,
-      "line_end": 3617
+      "line_start": 3595,
+      "line_end": 3660
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Autonomous Lethal System",
       "anchor": "#autonomous-lethal-system-constitutional",
-      "line_start": 3618,
-      "line_end": 3670
+      "line_start": 3661,
+      "line_end": 3713
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Weapons of Mass Harm",
       "anchor": "#weapons-of-mass-harm-constitutional",
-      "line_start": 3671,
-      "line_end": 3734
+      "line_start": 3714,
+      "line_end": 3777
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Combatant / Non-Combatant Distinction",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
-      "line_start": 3735,
-      "line_end": 3802
+      "line_start": 3778,
+      "line_end": 3845
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Irreversible Deprivation Measure",
       "anchor": "#irreversible-deprivation-measure-constitutional",
-      "line_start": 3803,
-      "line_end": 3876
+      "line_start": 3846,
+      "line_end": 3919
     },
     {
       "file": "core_05_band_accountability.md",
       "heading": "Autonomous Coercion Tool",
       "anchor": "#autonomous-coercion-tool-constitutional",
-      "line_start": 3877,
-      "line_end": 3940
+      "line_start": 3920,
+      "line_end": 3983
     },
     {
       "file": "core_05_band_continuity.md",
@@ -5605,7 +5612,14 @@
       "heading": "Article XII-D: Non-Capture Safeguards",
       "anchor": "#article-xii-d-non-capture-safeguards",
       "line_start": 1910,
-      "line_end": 1982
+      "line_end": 1978
+    },
+    {
+      "file": "core_06_rights_part_b.md",
+      "heading": "Article XII-E: Influence-Contact and Lobbying Boundaries",
+      "anchor": "#article-xii-e-influence-contact-and-lobbying-boundaries",
+      "line_start": 1979,
+      "line_end": 2063
     },
     {
       "file": "core_06_rights_part_c.md",
@@ -6200,77 +6214,77 @@
       "heading": "1.2 Eligibility, contested selection, and democratic minimums",
       "anchor": "#12-eligibility-contested-selection-and-democratic-minimums",
       "line_start": 143,
-      "line_end": 174
+      "line_end": 208
     },
     {
       "file": "core_13_governance.md",
       "heading": "1.3 Recall-class pathways and mid-cycle transfer guardrails",
       "anchor": "#13-recall-class-pathways-and-mid-cycle-transfer-guardrails",
-      "line_start": 175,
-      "line_end": 204
+      "line_start": 209,
+      "line_end": 238
     },
     {
       "file": "core_13_governance.md",
       "heading": "2. Ethical Culture and Integrity (Federated Scale)",
       "anchor": "#2-ethical-culture-and-integrity-federated-scale",
-      "line_start": 205,
-      "line_end": 222
+      "line_start": 239,
+      "line_end": 256
     },
     {
       "file": "core_13_governance.md",
       "heading": "3. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)",
       "anchor": "#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate",
-      "line_start": 223,
-      "line_end": 249
+      "line_start": 257,
+      "line_end": 283
     },
     {
       "file": "core_13_governance.md",
       "heading": "3.1 Stewardship Direction",
       "anchor": "#31-stewardship-direction",
-      "line_start": 250,
-      "line_end": 265
+      "line_start": 284,
+      "line_end": 299
     },
     {
       "file": "core_13_governance.md",
       "heading": "3.2 Ecosystem Value Orientation",
       "anchor": "#32-ecosystem-value-orientation",
-      "line_start": 266,
-      "line_end": 285
+      "line_start": 300,
+      "line_end": 319
     },
     {
       "file": "core_13_governance.md",
       "heading": "4. Voting and Binding Collective Choice Protocols",
       "anchor": "#4-voting-and-binding-collective-choice-protocols",
-      "line_start": 286,
-      "line_end": 301
+      "line_start": 320,
+      "line_end": 335
     },
     {
       "file": "core_13_governance.md",
       "heading": "4.1 Entitlement and eligibility",
       "anchor": "#41-entitlement-and-eligibility",
-      "line_start": 302,
-      "line_end": 357
+      "line_start": 336,
+      "line_end": 391
     },
     {
       "file": "core_13_governance.md",
       "heading": "4.2 Records, gates, and method neutrality",
       "anchor": "#42-records-gates-and-method-neutrality",
-      "line_start": 358,
-      "line_end": 399
+      "line_start": 392,
+      "line_end": 433
     },
     {
       "file": "core_13_governance.md",
       "heading": "4.3 Decision-resolution requirements for binding stakeholder choice",
       "anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
-      "line_start": 400,
-      "line_end": 430
+      "line_start": 434,
+      "line_end": 464
     },
     {
       "file": "core_13_governance.md",
       "heading": "5. Authorized Roles, Competency Development, and Contribution",
       "anchor": "#5-authorized-roles-competency-development-and-contribution",
-      "line_start": 431,
-      "line_end": 466
+      "line_start": 465,
+      "line_end": 500
     },
     {
       "file": "core_14_non_regression.md",

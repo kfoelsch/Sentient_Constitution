@@ -109,8 +109,10 @@ This subsection names institutional trigger labels for **CI-5** (*Conflict integ
 - self-dealing;
 - procurement capture;
 - assurance capture;
-- reporting suppression; and
-- conflict concealment.
+- reporting suppression;
+- conflict concealment;
+- influence-contact concealment; and
+- selection-funding circumvention.
 
 When a trigger fires, route it to the correct owner section — not every problem stays inside the institution that received it. Assign a **Notification Urgency Level** under **CJS-3.6** (*integrity assurance and resilience operations*) and publish notice through **CI-7.1** (*Controls declaration*) without waiting for routine attestation:
 - **CI-5** — receiving and opening reports;

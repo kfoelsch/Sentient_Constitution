@@ -956,6 +956,23 @@ Independent verification path integrity
 - **What must hold**
   - **Primary failure:** Require reliance on unverifiable, single-authority, or non-reproducible claims when independent verification is technically feasible.
 
+<a id="influence-contact-and-lobbying-boundaries"></a>
+Influence-contact and lobbying boundaries
+
+*In plain terms: where an interested party could materially shape a governing, adjudicative, interpretive, oversight, procurement, audit, agenda-setting, or appointment decision through contact with a member, panelist, staff member, facilitator, briefing…*
+
+- **What it is**
+  - **In scope:** Where an [interested party](../core_05_band_accountability.md#interested-party) could materially shape a governing, adjudicative, interpretive, oversight, procurement, audit, agenda-setting, or appointment decision through contact with a member, panelist, staff member, facilitator, briefing source, or appointing authority, the owner text must maintain published contact rules, an independent contact record, disclosure of material contacts in the matter record, routing of offers and pressure as integrity triggers, post-service and prospective-role conflict rules, rules for contact made by, through, or at the scale of a system (including approach aimed at systems the body uses), and a lawful-advocacy carve-out.
+  - **Out of scope:** open advocacy, petition, and public comment made on the matter record; ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in influence-contact and lobbying boundaries.
+<a id="influence-contact-and-lobbying-boundaries-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** published contact rules by body and matter type, the independent influence-contact record, time from contact to disclosure in the matter record, routed offers and pressure incidents, post-service and prospective-role disclosures and clearances, system-attributed contacts, the verified-distinct count for each bulk campaign, automated contact blocked on private channels, disclosures of inbound material that reached decision-support systems, and the open advocacy channels kept available
+
+    **Primary assessment:** Evaluation must verify the published contact rules by body and matter type, the independent influence-contact record, time from contact to disclosure in the matter record, routed offers and pressure incidents, post-service and prospective-role disclosures and clearances, system-attributed contacts, the verified-distinct count for each bulk campaign, automated contact blocked on private channels, disclosures of inbound material that reached decision-support systems, and the open advocacy channels kept available, and that a sample of decisions can be reconstructed against the contact record.
+<a id="influence-contact-and-lobbying-boundaries-c"></a>
+- **What must hold**
+  - **Primary failure:** Treat influence-contact boundaries as satisfied when the contact record is kept by the member or staff member contacted without an independence safeguard, when material contacts surface only after the decision, when an offer of benefit or a threat is handled as ordinary correspondence, when a decision relies on evidence or argument that arrived only through private contact, when volume is counted as support, when submitted material is treated as instructions, when system-to-system contact goes unrecorded, or when the rules are used to keep affected sentients away from a body that must hear them.
+
 <a id="integrity-trigger-routing-chain"></a>
 Integrity-trigger routing chain
 
@@ -990,6 +1007,23 @@ Property-custody and incentive-separation control chain
 - **What must hold**
   - **Primary failure:** A custody or incentive pathway if payout adjudication controls seizure execution without safeguards, if incentives reward accusation without verified predicate, if asset custody or fund disbursement cannot be reconstructed, if time limits or contest paths are absent, or if the implementation pathway is used as a pretext for retaliation, harassment, essential-access denial, or selective enforcement.
 
+<a id="selection-funding-integrity-controls"></a>
+Selection-funding integrity controls
+
+*In plain terms: where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment, the owner text must maintain an eligible-source rule, an outside-influence bar, anti-circumvention rules, a published…*
+
+- **What it is**
+  - **In scope:** Where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment, the owner text must maintain an eligible-source rule, an outside-influence bar, anti-circumvention rules, a published donor cap and third-party limit, a public register of real sources, independent audit, an outcome review, and routing of breaches as integrity triggers.
+  - **Out of scope:** sortition, which has its own integrity controls; ratification votes of member bodies in federated or treaty designs; ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in selection-funding integrity controls.
+<a id="selection-funding-integrity-controls-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the share of selection funds by source type, the share supplied by the largest donors, the donor cap and third-party limit against their defaults with published reasons for any departure, time from gift to public register entry, aggregation of related donors, protected-identity requests and their verification, audit, clawback, and disqualification outcomes, and the outcome review, including any shift of funding into channels the rules do not cover
+
+    **Primary assessment:** Evaluation must verify the the share of selection funds by source type, the share supplied by the largest donors, the donor cap and third-party limit against their defaults with published reasons for any departure, time from gift to public register entry, aggregation of related donors, protected-identity requests and their verification, audit, clawback, and disqualification outcomes, and the outcome review, including any shift of funding into channels the rules do not cover.
+<a id="selection-funding-integrity-controls-c"></a>
+- **What must hold**
+  - **Primary failure:** Treat selection funding as controlled when the register names only intermediaries, when institutional or outside money enters through owners, employees, loans, in-kind support, or third parties, when the audit body answers to the candidates or appointers it audits, when a protected-identity route hides the amount or the fact of a gift, when a cap or limit departs from its default without published reasons, or when the outcome review checks compliance only and never looks for leaks.
+
 <a id="shared-anti-capture-control-stack"></a>
 Shared anti-capture control stack
 
@@ -1013,7 +1047,7 @@ Sortition and civic-lottery integrity controls
 *In plain terms: where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must…*
 
 - **What it is**
-  - **In scope:** Where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must protect randomization integrity, eligibility and exclusion rules, replacement and rotation rules, participant access supports, briefing-source independence, facilitator and staff separation, contact and lobbying boundaries, intimidation safeguards, post-service benefit controls, and contest routes for selection failure, manipulation, capture, or procedural distortion.
+  - **In scope:** Where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must protect randomization integrity, eligibility and exclusion rules, replacement and rotation rules, participant access supports, briefing-source independence, facilitator and staff separation, contact and lobbying boundaries (the strictest tier of Influence-contact and lobbying boundaries), intimidation safeguards, post-service benefit controls, and contest routes for selection failure, manipulation, capture, or procedural distortion.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in sortition and civic-lottery integrity.
 <a id="sortition-and-civic-lottery-integrity-controls-a"></a>
 - **How to measure and assess**

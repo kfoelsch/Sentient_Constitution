@@ -69,6 +69,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
     "#### Governance architecture, decentralization, and concentration": [
         "Governance",
         "Material Control Line",
+        "Interested Party",
         "Initiating Seat",
         "Verify-or-Authorize Seat",
         "Record Seat",

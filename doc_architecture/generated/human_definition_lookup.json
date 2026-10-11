@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 260,
+  "term_count": 263,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -813,6 +813,13 @@
       "href": "../../core_05_band_oversight.md#gate-criteria"
     },
     {
+      "term": "Go-Live",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#go-live",
+      "plain_terms": "a **go-live** is the moment a system stops being something that is being built or tested and starts being something that actually affects sentients, or that sentients start to rely on. It is judged by what the system is really doing, not by what the launch is called.",
+      "href": "../../core_05_band_continuity.md#go-live"
+    },
+    {
       "term": "Good Faith",
       "file": "core_05_band_accountability.md",
       "anchor": "#good-faith",
@@ -972,6 +979,13 @@
       "anchor": "#institutional-development-constitutional",
       "plain_terms": null,
       "href": "../../core_05_band_continuity.md#institutional-development"
+    },
+    {
+      "term": "Interested Party",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#interested-party",
+      "plain_terms": "an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the record, and an interested party cannot also be the one who checks, records, or decides it.",
+      "href": "../../core_05_band_accountability.md#interested-party"
     },
     {
       "term": "Intergenerational Responsibility",
@@ -1266,6 +1280,13 @@
       "anchor": "#personhood",
       "plain_terms": "personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation.",
       "href": "../../core_05_band_participation.md#personhood"
+    },
+    {
+      "term": "Pilot",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#pilot",
+      "plain_terms": "a **pilot** is a real but deliberately limited launch. Real sentients are affected, or start to rely on the system, so it is not a test in a sandbox; and it is limited in advance by a stated scope, population, and length of time. Because it is real, it needs its own certification before it starts, and it may not quietly grow past the limits it was certified for.",
+      "href": "../../core_05_band_continuity.md#pilot"
     },
     {
       "term": "Press and Journalistic Activity",
