@@ -66,7 +66,7 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 - [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms) (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
 - **CS-10** (*Transition Constitution and Migration Governance*) in `corpus_systems.md` — system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 - **CJS-3.6** (*integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
-- **Scope of CI-14** (*Transitional governance and institutional evolution*) — does not repeat those floors; states institutional custody, authorization, oversight, and publication duties against **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*).
+- **Scope of CI-14** (*Transitional governance and institutional evolution*) — states institutional custody, authorization, oversight, and publication duties against **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*).
 **Apply**
 - Apply **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor.
 - Where the transition materially involves constitutional systems, institutions must read this section with **CS-10** (*Transition constitution and migration governance*).
@@ -120,7 +120,7 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 
 *In plain terms: **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*) turns **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary sentients and oversight bodies receive on a fixed schedule. The constitutional Rights Floor lives in **Chapter Six**; this subsection is implementation-only.*
 
-**Constitutional home:** **Chapter Six**, **Article XXVIII-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
+**Constitutional home:** **Chapter Six**, **Article XXVIII-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**.
 
 **Trigger catalog (for published transition and institution plans)**
 
@@ -167,7 +167,7 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 
 *In plain terms: **CI-14.3** (*operative transition-scoped remediation requirements*) is the operational half of **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XX-B** (*Restriction Floors*).*
 
-**Constitutional home:** **Chapter Six**, **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
+**Constitutional home:** **Chapter Six**, **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**.
 
 Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Property-custody and incentive-separation control chain** for the shared floor. Read with **CI-14.1** (*non-compliant property, seizure, voluntary incentives*) for role assignment and **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*) for trigger catalogs, anti-abuse metrics, and publication cadence.
 
@@ -239,7 +239,7 @@ Each institution in scope must publish local procedures for the following, and m
 
 *In plain terms: a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those take time to build. So **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) asks for two things: what the adopter must not do binds from day one, and what it must deliver becomes enforceable scope by scope as the enforcing machinery and culture are verified ready. **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*) is the scorecard and the readiness test. It says where each floor started, where it is now, where it must be and by when, which scopes it is already enforceable for, how the numbers are checked by someone other than the sentients being measured, and how the results reach the public — live as they change, with a major progress report every three months, bad news included. The constitutional floor lives in **Chapter Six**; this subsection is implementation-only.*
 
-**Constitutional home:** **Chapter Six**, **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), with **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) and **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*). This subsection is **implementation-only**; it does not restate the Rights Floor and must not narrow those Articles.
+**Constitutional home:** **Chapter Six**, **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), with **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) and **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*). This subsection is **implementation-only** and must not narrow those Articles.
 
 **Ledger structure**
 

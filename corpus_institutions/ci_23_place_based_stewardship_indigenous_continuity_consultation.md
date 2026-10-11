@@ -53,7 +53,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 - [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md#cjs-37-participation-quorum-and-participatory-legitimacy-terms) (*quorum and participatory legitimacy terms*) — **Stakeholder oversight and binding-governance pathway integrity**.
 - Chapter Five [*Indigenous Continuity*](../core_05_band_continuity.md#indigenous-continuity); [*Natural Systems Standing*](../core_05_band_participation.md#natural-systems-standing).
 - **Article I-A** (*Environmental Preconditions and Ecological Integrity*); **Article VI-C** (*Nondiscrimination*); **Article XXII-B** (*Refuge from Non-Compliance*) and **Article XXII-C** (*Non-Statelessness*); **Chapter Seventeen**.
-- **CI-7.2** (*External assurance triggers*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*). This file does not repeat those floors.
+- **CI-7.2** (*External assurance triggers*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 
 **Apply.** Apply **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) **Stakeholder oversight and binding-governance pathway integrity**. **CI-23** (*Place-based stewardship, Indigenous continuity, and consultation routes*) states only the local owner duties below — without creating an unbounded territorial-restitution mandate or reopening adoption-scope choices reserved to **Chapter Seventeen**.
 

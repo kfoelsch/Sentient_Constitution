@@ -74,7 +74,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
-*In plain terms: the human table of contents for this folder lives on the [Institutions landing page](../corpus_institutions.md). This annex does not duplicate that index.*
+*In plain terms: the human table of contents for this folder lives on the [Institutions landing page](../corpus_institutions.md).*
 
 *Filename note:* each `ci_NN_*` prefix matches its **CI-*NN*** section number (for example `ci_08_*` is **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) transparency). **CI-2** (*reserved family ID*) is unused; institutions domain routing lives in this annex under [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex). Grouped family list: [corpus_institutions.md](../corpus_institutions.md).
 

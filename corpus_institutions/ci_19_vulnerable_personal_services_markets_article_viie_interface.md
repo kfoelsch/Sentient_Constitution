@@ -56,7 +56,6 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
 - [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms) (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity.
 - **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*); **Articles XI-F**, **VI-C**, **I-C**, **V-A**, and **IV-C**; Chapter Five (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*).
 - **CS-3** (*System classification machinery*) classification examples; **CS-4** (*Critical system stewardship*) stewardship scaling where platform, data, or system stewardship is material.
-- This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) **High-vulnerability personal-service pathway integrity**. **CI-19** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) states only local **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
 

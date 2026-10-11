@@ -82,7 +82,7 @@ Where this file is silent, Sentient Constitution Chapters Two through Five gover
 
 *In plain terms: The reduced-requirement track: sandboxed operation, no shared-infrastructure dependencies, and no material effect on anyone else.*
 
-Rights-floor eligibility, reduced-requirement conditions, disclosure, containment, and prohibited externalization are owned by **[Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-sandboxed-scope) (*Sandboxed Scope*)** and **[Article XVIII-B](../core_06_rights_part_c.md#article-xviii-b-containment-disclosure-and-opt-in) (*Containment, Disclosure, and Opt-In*)**, read with valid **Class P** treatment under **CS-3 — System classification machinery**. This subsection does not restate those floors.
+Rights-floor eligibility, reduced-requirement conditions, disclosure, containment, and prohibited externalization are owned by **[Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-sandboxed-scope) (*Sandboxed Scope*)** and **[Article XVIII-B](../core_06_rights_part_c.md#article-xviii-b-containment-disclosure-and-opt-in) (*Containment, Disclosure, and Opt-In*)**, read with valid **Class P** treatment under **CS-3 — System classification machinery**.
 
 **Systems-layer profile (does not narrow XVIII):** sandboxed or controlled operation; no downstream dependencies on shared production infrastructure; no material effect on other sentients, shared infrastructure, or ecosystem stability. Where those conditions hold, environment separation, deployment rigor, and audit depth under **§7** (*Non-experimental systems*) may be lighter. Such systems may prioritize simplicity and rapid iteration and need not maintain full multi-environment deployment structures. Misrepresentation of isolation or impact is governed by **§4** (*Misclassification and evasion*) and **Article XVII-C** (*Misclassification and Evasion Consequences*).
 
@@ -91,7 +91,7 @@ Rights-floor eligibility, reduced-requirement conditions, disclosure, containmen
 
 *In plain terms: Creative and expressive systems get wider latitude on features, subject to containment, disclosure, and opt-in.*
 
-Rights-floor creative freedom, containment, disclosure, opt-in, and transition triggers are owned by **Article XVIII-A** (*Sandboxed Scope*) through **XVIII-C**. This subsection does not restate those floors.
+Rights-floor creative freedom, containment, disclosure, opt-in, and transition triggers are owned by **Article XVIII-A** (*Sandboxed Scope*) through **XVIII-C**.
 
 **Systems-layer profile (does not narrow XVIII):** systems primarily for creative expression, entertainment, artistic production, or stakeholder-driven experiential environments may use higher feature velocity and simplified environment structures only while risk remains demonstrably contained. Transition toward **§7** (*Non-experimental systems*) compliance is required when any of the following is present and not already covered by **Article XVIII-C** (*Transition to Higher-Obligation Regimes*)'s impact, dependency, irreversibility, or shared-system integration tests:
 
@@ -104,7 +104,7 @@ Rights-floor creative freedom, containment, disclosure, opt-in, and transition t
 
 *In plain terms: Claiming the light track while exerting real outside impact. The tell-tale signs are concealed dependencies, concealed stakeholders, and 'experimental' labels used as cover.*
 
-The prohibition on claiming reduced lifecycle or sandbox obligations while exerting undisclosed or material external impact, and the consequence chain under **Articles XV**, **XVI-A**, **XIX-A**, and **XX-A**, are owned by **[Article XVII-C](../core_06_rights_part_c.md#article-xvii-c-misclassification-and-evasion-consequences) (*Misclassification and Evasion Consequences*)**. This subsection does not restate that Article.
+The prohibition on claiming reduced lifecycle or sandbox obligations while exerting undisclosed or material external impact, and the consequence chain under **Articles XV**, **XVI-A**, **XIX-A**, and **XX-A**, are owned by **[Article XVII-C](../core_06_rights_part_c.md#article-xvii-c-misclassification-and-evasion-consequences) (*Misclassification and Evasion Consequences*)**.
 
 **Systems-layer indicators (non-exhaustive):** concealed dependencies; concealed stakeholders; concealed risk exposure; **Class P** or "experimental" labeling used to evade CS-4 (*Critical system stewardship*) class-scaled assurance, CS-4 (*Critical system stewardship*) stewardship, or **§7** (*Non-experimental systems*) environment and promotion controls. Detection and evidence packaging for forum or certification review remain operator duties under *Forum certification and lifecycle review* and the closing recertification block.
 
@@ -113,7 +113,7 @@ The prohibition on claiming reduced lifecycle or sandbox obligations while exert
 
 *In plain terms: When a system's impact, dependency, or shared-infrastructure integration grows, it must move up to the full track — openly and on time.*
 
-Transition floors — transparent, timely move toward **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5** (*User-facing capability surfaces*) **Non-experimental systems** when impact, dependency, irreversibility, or shared-system integration grows — are owned by **[Article XVIII-C](../core_06_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes) (*Transition to Higher-Obligation Regimes*)**. This subsection does not restate that Article.
+Transition floors — transparent, timely move toward **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5** (*User-facing capability surfaces*) **Non-experimental systems** when impact, dependency, irreversibility, or shared-system integration grows — are owned by **[Article XVIII-C](../core_06_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes) (*Transition to Higher-Obligation Regimes*)**.
 
 **Systems-layer triggers and duties (implement XVIII-C; do not narrow it):**
 
@@ -126,7 +126,7 @@ Transition floors — transparent, timely move toward **Article XVII-A** (*Lifec
 
 *In plain terms: Experiments close to foundational infrastructure carry stricter containment, rollback, and opt-in requirements than ordinary experiments.*
 
-Opt-in, disclosure, rollback, and containment floors for elevated-risk or substrate-proximate experimentation are owned by **Article XVIII-B** (*Containment, Disclosure, and Opt-In*), read with **Article XVII-A** (*Lifecycle Governance and Environment Separation*) boundary integrity. This subsection does not restate those floors.
+Opt-in, disclosure, rollback, and containment floors for elevated-risk or substrate-proximate experimentation are owned by **Article XVIII-B** (*Containment, Disclosure, and Opt-In*), read with **Article XVII-A** (*Lifecycle Governance and Environment Separation*) boundary integrity.
 
 **Systems-layer profile (does not narrow XVII/XVII):**
 

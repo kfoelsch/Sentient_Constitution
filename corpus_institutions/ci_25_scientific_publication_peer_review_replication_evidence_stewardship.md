@@ -57,7 +57,6 @@ This file is the institutional implementation home for **CI-25** (*Scientific pu
 - **Article XV-D** (*Scientific Publication, Review, and Replication Integrity*).
 - **Chapter One** (*Truth*, epistemic disclosure constraints); **Article XVII-A** (*Lifecycle Governance and Environment Separation*).
 - **CF-10** (*Technical specialist forums and specialist chambers*) under **CJS-R09**.
-- This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) for the shared claim-testing, review, reliance, correction, and incentive-integrity floors. **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*) states only the local owner duties in **CI-25.1** (*Publication intake and correction records*) through **CI-25.5** (*Ombuds, escalation, and technical forum referral*).
 

@@ -51,7 +51,7 @@ This file is the institutional implementation home for **CI-18** (*Collective pu
 - [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-312-accountability-burden-of-justification-and-constraint-terms) (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**.
 - **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
 - **CS-7** (*Justice safeguards, restitution, and rehabilitation*) **§11** (*Lived-condition floors, continuity, and re-entry alignment*); Chapter Five [*Emergency and Contingency*](../core_05_band_continuity.md#emergency-and-contingency-constitutional).
-- **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7** (*Oversight, assurance, controls, and evidence*). This file does not repeat those floors.
+- **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7** (*Oversight, assurance, controls, and evidence*).
 
 **Apply.** Apply **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*) **Collective-health and emergency support-bundle floor**. **CI-18** (*Collective public health, epidemic response, and addiction-informed care*) states only the local owner duties below.
 

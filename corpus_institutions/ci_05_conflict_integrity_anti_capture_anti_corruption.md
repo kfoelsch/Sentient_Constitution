@@ -61,7 +61,7 @@ This file is the institutional implementation home for **CI-5** (*Conflict integ
 
 <br>
 
-*In plain terms: cross-institution anti-capture rules live in **CJS-3.6** (*integrity assurance and resilience operations*) — including the shared control stack and sortition or civic-lottery integrity floors. **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) does not repeat those rules; each institution applies them locally.*
+*In plain terms: cross-institution anti-capture rules live in **CJS-3.6** (*integrity assurance and resilience operations*) — including the shared control stack and sortition or civic-lottery integrity floors. Each institution applies them locally.*
 
 Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors.
 

@@ -101,7 +101,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
-*In plain terms: the human table of contents for this folder lives on the [Systems and data landing page](../corpus_systems.md). This annex does not duplicate that index.*
+*In plain terms: the human table of contents for this folder lives on the [Systems and data landing page](../corpus_systems.md).*
 
 Grouped family list: [corpus_systems.md](../corpus_systems.md). Former protocol-letter aliases remain in the identifier table above.
 

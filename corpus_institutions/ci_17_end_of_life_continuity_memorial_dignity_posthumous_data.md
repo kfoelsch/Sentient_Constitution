@@ -50,7 +50,6 @@ This file is the institutional implementation home for **CI-17** (*End-of-life c
 *Shared rules live elsewhere.*
 - [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms) (*data-retention and lifecycle-integrity terms*).
 - **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*); **Article IX** (*Likeness, Experiential Data, and Publication Rights*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article XX-B** (*Restriction Floors*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) (not narrowed here).
-- This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) for the shared posthumous-data and continuity floor. **CI-17** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*) states only the local owner duties below.
 
