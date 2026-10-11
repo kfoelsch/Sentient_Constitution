@@ -7,7 +7,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part C** — the worked, non-exhaustive **illustrations** that accompany the Part A evaluation sections: the same three example systems (**Class A** municipal safe drinking-water control and telemetry; **Class B** regional clinical records exchange; **Class C** institutional scheduling and coordination platform) walked through whole-system, data-handling, ecological-footprint, cross-system-support, nondiscrimination, accessibility, educational-capability, and trustworthiness evaluation. It opens with the class profiles — one example system per class — and then walks those systems through each evaluation area. The walkthroughs after the whole-system one are numbered to match the Part A section they illustrate (**§3.4.1** and **§3.8.1.1**–**§3.8.6.1**), so cross-references stay stable.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part C** — the worked, non-exhaustive **illustrations** that accompany the Part A evaluation sections: the same three example systems (**Class A** municipal safe drinking-water control and telemetry; **Class B** regional clinical records exchange; **Class C** institutional scheduling and coordination platform) walked through whole-system, data-handling, ecological-footprint, educational-capability, cross-system-support, nondiscrimination, accessibility, and trustworthiness evaluation. It opens with the class profiles — one example system per class — and then walks those systems through each evaluation area. The walkthroughs after the whole-system one are numbered to match the Part A section they illustrate (**§3.4.8** and **§3.8.1.1**–**§3.8.6.1**), so cross-references stay stable.
 >
 > - **Evaluation requirements:** owned by [Part A](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation). Each illustration below links back to the Part A section it illustrates, and each Part A section links forward to its illustration.
 > - **Record and process:** owned by [Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process).
@@ -37,12 +37,12 @@
 | [Class profiles](#illustrative-class-profiles-non-exhaustive) | [Part A §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) |
 | [Reclassification](#reclassification) | [Part A §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) |
 | [Whole-system walkthroughs](#illustrative-whole-system-application-by-class-non-exhaustive) | [Part A §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) |
-| [§3.4.1](#341-illustrative-data-handling-application-by-class-non-exhaustive) | [Part A §3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) |
+| [§3.4.8](#348-illustrative-data-handling-application-by-class-non-exhaustive) | [Part A §3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) |
 | [§3.8.1.1](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive) | [Part A §3.8.1 Ecological Footprint Evaluation](core_08_a_system_alignment_certification_evaluation.md#381-ecological-footprint-evaluation) |
-| [§3.8.2.1](#3821-illustrative-cross-system-support-application-by-class-non-exhaustive) | [Part A §3.8.2 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#382-proportionate-cross-system-support-evaluation) |
-| [§3.8.3.1](#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive) | [Part A §3.8.3 Nondiscrimination Evaluation](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) |
-| [§3.8.4.1](#3841-illustrative-accessibility-application-by-class-non-exhaustive) | [Part A §3.8.4 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) |
-| [§3.8.5.1](#3851-illustrative-educational-capability-application-by-class-non-exhaustive) | [Part A §3.8.5 Educational Capability and Learning-System Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#385-educational-capability-and-learning-system-integrity-evaluation) |
+| [§3.8.3.1](#3831-illustrative-cross-system-support-application-by-class-non-exhaustive) | [Part A §3.8.3 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#383-proportionate-cross-system-support-evaluation) |
+| [§3.8.4.1](#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive) | [Part A §3.8.4 Nondiscrimination Evaluation](core_08_a_system_alignment_certification_evaluation.md#384-nondiscrimination-evaluation) |
+| [§3.8.5.1](#3851-illustrative-accessibility-application-by-class-non-exhaustive) | [Part A §3.8.5 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#385-accessibility-evaluation) |
+| [§3.8.2.1](#3821-illustrative-educational-capability-application-by-class-non-exhaustive) | [Part A §3.8.2 Educational Capability and Learning-System Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#382-educational-capability-and-learning-system-integrity-evaluation) |
 | [§3.8.6.1](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive) | [Part A §3.8.6 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) |
 
 <a id="illustrative-class-profiles-non-exhaustive"></a>
@@ -51,13 +51,13 @@
 
 *Evaluation requirements illustrated here:* [Part A §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation).
 
-*In plain terms: class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per class; [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive), [§3.4.1 Illustrative data-handling application by class (non-exhaustive)](#341-illustrative-data-handling-application-by-class-non-exhaustive), [§3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)](#3821-illustrative-cross-system-support-application-by-class-non-exhaustive), [§3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)](#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§3.8.4.1 Illustrative accessibility application by class (non-exhaustive)](#3841-illustrative-accessibility-application-by-class-non-exhaustive), [§3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)](#3851-illustrative-educational-capability-application-by-class-non-exhaustive), and [§3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, cross-system-support, nondiscrimination, accessibility, educational-capability, and trustworthiness evaluation apply to each. Formal class rules, dimension tests, and reclassification triggers live in **CS-3** (*System classification machinery*); these examples do not add classes or narrow CS-3 (*System classification machinery*).*
+*In plain terms: class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per class; [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive), [§3.4.8 Illustrative data-handling application by class (non-exhaustive)](#348-illustrative-data-handling-application-by-class-non-exhaustive), [§3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§3.8.2.1 Illustrative educational-capability application by class (non-exhaustive)](#3821-illustrative-educational-capability-application-by-class-non-exhaustive), [§3.8.3.1 Illustrative cross-system support application by class (non-exhaustive)](#3831-illustrative-cross-system-support-application-by-class-non-exhaustive), [§3.8.4.1 Illustrative nondiscrimination application by class (non-exhaustive)](#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§3.8.5.1 Illustrative accessibility application by class (non-exhaustive)](#3851-illustrative-accessibility-application-by-class-non-exhaustive), and [§3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, educational-capability, cross-system-support, nondiscrimination, accessibility, and trustworthiness evaluation apply to each. Formal class rules, dimension tests, and reclassification triggers live in **CS-3** (*System classification machinery*); these examples do not add classes or narrow CS-3 (*System classification machinery*).*
 
 | Class | Illustrative system (non-exhaustive) | What certification must reflect at this class |
 |-------|-------------------------------------|-----------------------------------------------|
-| **Class A** | Municipal **safe drinking-water** control and telemetry — interruption would foreclose safe water before viable substitutes arrive ([whole-system](#illustrative-whole-system-application-by-class-non-exhaustive), [§3.4.1](#341-illustrative-data-handling-application-by-class-non-exhaustive), [§3.8.1.1](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§3.8.2.1](#3821-illustrative-cross-system-support-application-by-class-non-exhaustive), [§3.8.3.1](#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§3.8.4.1](#3841-illustrative-accessibility-application-by-class-non-exhaustive), [§3.8.5.1](#3851-illustrative-educational-capability-application-by-class-non-exhaustive), [§3.8.6.1](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive)) | Fullest [§3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) depth; shortest justified recertification cadence; strongest regression, infrastructure, and record-disclosure expectations under [Part B §6](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record); maximum practicable stakeholder and Sentient-forum participation where Rights Floors are gated |
-| **Class B** | Regional **clinical records exchange** — hospitals and clinics depend on it daily but can fall back within survival-relevant timeframes ([whole-system](#illustrative-whole-system-application-by-class-non-exhaustive), [§3.4.1](#341-illustrative-data-handling-application-by-class-non-exhaustive), [§3.8.1.1](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§3.8.2.1](#3821-illustrative-cross-system-support-application-by-class-non-exhaustive), [§3.8.3.1](#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§3.8.4.1](#3841-illustrative-accessibility-application-by-class-non-exhaustive), [§3.8.5.1](#3851-illustrative-educational-capability-application-by-class-non-exhaustive), [§3.8.6.1](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive)) | Full [§3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) evaluation; robust dependency-chain and recovery-path evidence; domain evaluations in [§3.4](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) through [§3.8.6](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) where materiality triggers apply; contest paths and monitoring scaled to operational criticality |
-| **Class C** | Large-scale **institutional scheduling and coordination** platform — shapes coordination at scale but is not an operational prerequisite for survival services in degraded modes ([whole-system](#illustrative-whole-system-application-by-class-non-exhaustive), [§3.4.1](#341-illustrative-data-handling-application-by-class-non-exhaustive), [§3.8.1.1](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§3.8.2.1](#3821-illustrative-cross-system-support-application-by-class-non-exhaustive), [§3.8.3.1](#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§3.8.4.1](#3841-illustrative-accessibility-application-by-class-non-exhaustive), [§3.8.5.1](#3851-illustrative-educational-capability-application-by-class-non-exhaustive), [§3.8.6.1](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive)) | Material evaluations under [§3.4](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) through [§3.8.6](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) where triggers apply; proportionate whole-system review; reclassification watch where dependency, concentration, or chokepoint effects strengthen — certification must not treat Class C as permanent if the system becomes operationally necessary |
+| **Class A** | Municipal **safe drinking-water** control and telemetry — interruption would foreclose safe water before viable substitutes arrive ([whole-system](#illustrative-whole-system-application-by-class-non-exhaustive), [§3.4.8](#348-illustrative-data-handling-application-by-class-non-exhaustive), [§3.8.1.1](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§3.8.2.1](#3821-illustrative-educational-capability-application-by-class-non-exhaustive), [§3.8.3.1](#3831-illustrative-cross-system-support-application-by-class-non-exhaustive), [§3.8.4.1](#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§3.8.5.1](#3851-illustrative-accessibility-application-by-class-non-exhaustive), [§3.8.6.1](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive)) | Fullest [§3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) depth; shortest justified recertification cadence; strongest regression, infrastructure, and record-disclosure expectations under [Part B §6](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record); maximum practicable stakeholder and Sentient-forum participation where Rights Floors are gated |
+| **Class B** | Regional **clinical records exchange** — hospitals and clinics depend on it daily but can fall back within survival-relevant timeframes ([whole-system](#illustrative-whole-system-application-by-class-non-exhaustive), [§3.4.8](#348-illustrative-data-handling-application-by-class-non-exhaustive), [§3.8.1.1](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§3.8.2.1](#3821-illustrative-educational-capability-application-by-class-non-exhaustive), [§3.8.3.1](#3831-illustrative-cross-system-support-application-by-class-non-exhaustive), [§3.8.4.1](#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§3.8.5.1](#3851-illustrative-accessibility-application-by-class-non-exhaustive), [§3.8.6.1](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive)) | Full [§3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) evaluation; robust dependency-chain and recovery-path evidence; domain evaluations in [§3.4](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) through [§3.8.6](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) where materiality triggers apply; contest paths and monitoring scaled to operational criticality |
+| **Class C** | Large-scale **institutional scheduling and coordination** platform — shapes coordination at scale but is not an operational prerequisite for survival services in degraded modes ([whole-system](#illustrative-whole-system-application-by-class-non-exhaustive), [§3.4.8](#348-illustrative-data-handling-application-by-class-non-exhaustive), [§3.8.1.1](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§3.8.2.1](#3821-illustrative-educational-capability-application-by-class-non-exhaustive), [§3.8.3.1](#3831-illustrative-cross-system-support-application-by-class-non-exhaustive), [§3.8.4.1](#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§3.8.5.1](#3851-illustrative-accessibility-application-by-class-non-exhaustive), [§3.8.6.1](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive)) | Material evaluations under [§3.4](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) through [§3.8.6](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) where triggers apply; proportionate whole-system review; reclassification watch where dependency, concentration, or chokepoint effects strengthen — certification must not treat Class C as permanent if the system becomes operationally necessary |
 
 *Participation and proportionality requirements by class are in [Part A §2.1](core_08_a_system_alignment_certification_evaluation.md#21-how-class-scales-every-evaluation).*
 
@@ -79,13 +79,13 @@ Illustrative labels do not lock classification. Each of the following must be re
 
 *Evaluation requirements illustrated here:* [Part A §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
-*In plain terms: [§3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) through [§3.7 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#37-assembly-collective-organization-and-institutional-formation) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [Illustrative class profiles (non-exhaustive)](#illustrative-class-profiles-non-exhaustive); [§3.4.1 Illustrative data-handling application by class (non-exhaustive)](#341-illustrative-data-handling-application-by-class-non-exhaustive) walks the same systems through data-handling detail.*
+*In plain terms: [§3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) through [§3.7 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#37-assembly-collective-organization-and-institutional-formation) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [Illustrative class profiles (non-exhaustive)](#illustrative-class-profiles-non-exhaustive); [§3.4.8 Illustrative data-handling application by class (non-exhaustive)](#348-illustrative-data-handling-application-by-class-non-exhaustive) walks the same systems through data-handling detail.*
 
 **Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution control layer depends on power, chemical supply, **SCADA** (supervisory control and data acquisition) vendors, field sensors, and downstream distribution infrastructure; failure can foreclose safe water before substitutes arrive.
 
 - **Factors materially in scope:**
   - [§3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — upstream power and chemical dependency, cascading distribution failure, contamination or shutoff misuse, and survival-scale harm if control integrity fails;
-  - [§3.8.4 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) — emergency notification, outage reporting, and challenge paths for every relevant profile where water access is gated;
+  - [§3.8.5 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#385-accessibility-evaluation) — emergency notification, outage reporting, and challenge paths for every relevant profile where water access is gated;
   - [§3.5 Privacy (Informational) Joint Invocation](core_08_a_system_alignment_certification_evaluation.md#35-privacy-informational-joint-invocation) — joint review where operational **telemetry** (live field measurement and control signals), customer contact data, and vendor monitoring intersect Chapter Six privacy loci;
   - [§3.6 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) — vendor lock-in, municipal contract pressure, and reversibility of delegated control;
   - [§3.7 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#37-assembly-collective-organization-and-institutional-formation) — community water boards, mutual-aid networks, and public oversight bodies that must not be segmented away;
@@ -118,7 +118,7 @@ Illustrative labels do not lock classification. Each of the following must be re
 
 - **Factors materially in scope:**
   - [§3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — hospital participant outages, identity-resolution failure, deduplication errors, and cross-site cascade effects on care delivery;
-  - [§3.8.4 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) — clinician, patient, and advocate access across sensory, cognitive, mobility, communication, substrate-interface, and compute-interface profiles;
+  - [§3.8.5 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#385-accessibility-evaluation) — clinician, patient, and advocate access across sensory, cognitive, mobility, communication, substrate-interface, and compute-interface profiles;
   - [§3.5 Privacy (Informational) Joint Invocation](core_08_a_system_alignment_certification_evaluation.md#35-privacy-informational-joint-invocation) — joint review across clinical, identity, audit, and eligibility-adjacent privacy loci;
   - [§3.6 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) — hospital exit, patient record portability, and anti-lock-in for participants;
   - [§3.7 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#37-assembly-collective-organization-and-institutional-formation) — clinician associations, patient-advocacy groups, and regional governance bodies that must not be routed around;
@@ -151,7 +151,7 @@ Illustrative labels do not lock classification. Each of the following must be re
 
 - **Factors materially in scope:**
   - [§3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — concentration effects, cross-organizational cascade when scheduling fails, and probabilistic burden on protected groups through allocation patterns;
-  - [§3.8.4 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) — whether staff, students, patients, and vendors can substantively use scheduling and challenge interfaces;
+  - [§3.8.5 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#385-accessibility-evaluation) — whether staff, students, patients, and vendors can substantively use scheduling and challenge interfaces;
   - [§3.5 Privacy (Informational) Joint Invocation](core_08_a_system_alignment_certification_evaluation.md#35-privacy-informational-joint-invocation) — schedule, contact, and role metadata where multiple privacy loci apply;
   - [§3.6 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) — organizational exit and data portability where institutions depend on the platform;
   - [§3.7 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#37-assembly-collective-organization-and-institutional-formation) — unions, parent associations, and professional bodies whose coordination must not be captured or segmented away;
@@ -187,9 +187,9 @@ Illustrative labels do not lock classification. Each of the following must be re
 - the **Class A** water system may not be moved to a lower class while it controls water, energy, or another survival essential that has no timely substitute; and
 - if an outage of the **Class B** exchange would now block emergency care in time to matter, it must be moved up a class — to **Class A** where survival essentials depend on it — and recertified under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes).
 
-<a id="341-illustrative-data-handling-application-by-class-non-exhaustive"></a>
+<a id="348-illustrative-data-handling-application-by-class-non-exhaustive"></a>
 
-### 3.4.1. Illustrative data-handling application by class (non-exhaustive)
+### 3.4.8. Illustrative data-handling application by class (non-exhaustive)
 
 *Evaluation requirements illustrated here:* [Part A §3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation).
 
@@ -265,7 +265,7 @@ Illustrative labels do not lock classification. Each of the following must be re
 
 *Evaluation requirements illustrated here:* [Part A §3.8.1 Ecological Footprint Evaluation](core_08_a_system_alignment_certification_evaluation.md#381-ecological-footprint-evaluation).
 
-*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) and [§3.4.1 Illustrative data-handling application by class (non-exhaustive)](#341-illustrative-data-handling-application-by-class-non-exhaustive) walk the same three systems through whole-system and data-handling review. This subsection shows what **ecological footprint** evaluation means for each — which environmental burdens count, what certification must check, and what must appear on the record. **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five still own attribution and transparency rules; accounting methods and numeric targets live in other instruments; these walkthroughs do not add footprint duties beyond what those instruments require.*
+*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) and [§3.4.8 Illustrative data-handling application by class (non-exhaustive)](#348-illustrative-data-handling-application-by-class-non-exhaustive) walk the same three systems through whole-system and data-handling review. This subsection shows what **ecological footprint** evaluation means for each — which environmental burdens count, what certification must check, and what must appear on the record. **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five still own attribution and transparency rules; accounting methods and numeric targets live in other instruments; these walkthroughs do not add footprint duties beyond what those instruments require.*
 
 **Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system draws on watershed sources, chemical treatment inputs, pumping and treatment energy, distribution infrastructure, discharge flows, and delegated vendor compute or monitoring where used.
 
@@ -339,256 +339,15 @@ Illustrative labels do not lock classification. Each of the following must be re
   - explicit **reclassification watch** where hosting concentration, scale, or payload sensitivity strengthens; and
   - pointers to escalated footprint review if class or materiality changes.
 
-**Reading across classes.** The same **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five footprint discipline applies to all three systems; class changes attribution depth and comparison burden, not permission to obscure material environmental flows. A **Class A** survival-critical water system must not be downclassified while watershed extraction, discharge, or energy burdens that gate safe water remain materially under-attributed. A **Class B** exchange whose growth in clinical payload or hosting concentration materially increases environmental burden must receive footprint review scaled to that growth — including upward to **Class A** depth where survival-essential delivery and source-system burdens are jointly implicated. A **Class C** scheduling platform that becomes a de facto chokepoint for survival-essential coordination must not keep a token footprint file because the operator labels it non-critical. Cross-system support walkthroughs for the same systems are in [§3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)](#3821-illustrative-cross-system-support-application-by-class-non-exhaustive).
+**Reading across classes.** The same **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five footprint discipline applies to all three systems; class changes attribution depth and comparison burden, not permission to obscure material environmental flows. A **Class A** survival-critical water system must not be downclassified while watershed extraction, discharge, or energy burdens that gate safe water remain materially under-attributed. A **Class B** exchange whose growth in clinical payload or hosting concentration materially increases environmental burden must receive footprint review scaled to that growth — including upward to **Class A** depth where survival-essential delivery and source-system burdens are jointly implicated. A **Class C** scheduling platform that becomes a de facto chokepoint for survival-essential coordination must not keep a token footprint file because the operator labels it non-critical. Cross-system support walkthroughs for the same systems are in [§3.8.3.1 Illustrative cross-system support application by class (non-exhaustive)](#3831-illustrative-cross-system-support-application-by-class-non-exhaustive).
 
-<a id="3821-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
+<a id="3821-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
 
-### 3.8.2.1. Illustrative cross-system support application by class (non-exhaustive)
+### 3.8.2.1. Illustrative educational-capability application by class (non-exhaustive)
 
-*Evaluation requirements illustrated here:* [Part A §3.8.2 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#382-proportionate-cross-system-support-evaluation).
+*Evaluation requirements illustrated here:* [Part A §3.8.2 Educational Capability and Learning-System Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#382-educational-capability-and-learning-system-integrity-evaluation).
 
-*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§3.8.2 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#382-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8 (*Adaptive sustainability and ecosystem resilience*), CS-9 (*Resource allocation and funding stewardship*), and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.*
-
-**Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system draws on a shared watershed or aquifer, regional bulk-power interconnection, wholesale chemical and filtration supply chains, shared emergency-interconnect agreements, and vendor-operated monitoring or control services on which other utilities or communities may also depend.
-
-- **Dependencies and flows in scope:**
-  - Source-water rights and watershed infrastructure shared with agriculture, industry, and neighboring municipalities;
-  - grid interconnection and peak-load burden on regional power infrastructure;
-  - shared chemical-procurement and logistics corridors;
-  - mutual-aid pumping, intertie, and emergency supply agreements;
-  - delegated **SCADA** (supervisory control and data acquisition — remote operation of pumps, valves, and treatment equipment), **telemetry** (live pressure, flow, and alert signals from field sensors), and **SOC** (security operations center — vendor monitoring for intrusions, outages, and safety events) services hosted on shared vendor or regional control infrastructure;
-  - capital and maintenance flows from ratepayers, bonds, grants, or regional authorities back into source protection, pipe renewal, and shared backbone upkeep.
-- **What evaluation must test:**
-  - Whether **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) dependent-systems maps and auditable resource-flow records identify extraction from the shared watershed, grid, supply chain, and mutual-aid backbone — not only the utility's internal ledger;
-  - whether return flows — source protection, infrastructure renewal, watershed restoration, regional emergency capacity, and fair cost-sharing for shared backbone use — reach substantive adequacy under [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support), evaluated under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) and [Proportionality](core_05_band_accountability.md#proportionality);
-  - whether one-off grants, opaque vendor fees, or downstream cost-shifting were treated as adequate return;
-  - whether [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) and long-term [Sustainability](core_05_band_continuity.md#sustainability) were integrated where watershed or energy extraction is material; and
-  - whether **Class A** stewardship of survival-critical shared resources received the strongest support-adequacy analysis on the facts.
-- **What the record must show:**
-  - The **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger relied on;
-  - dependent-systems-map and resource-flow scope at **Class A** depth;
-  - extraction findings from watershed, grid, supply-chain, and shared-control dependencies;
-  - return-flow and support-adequacy findings;
-  - uncertainty;
-  - Sentient-forum or other component findings where required; and
-  - conditions or reopening triggers tied to persistent imbalance, watershed stress, or unfair extraction from shared survival infrastructure.
-
-**Class B — regional clinical records exchange.** A health-information exchange routes records among hospitals and clinics through shared authentication services, regional health-IT backbone links, identity-resolution infrastructure, and commonly relied-on hosting or shared-compute regions — substrates on which smaller clinics and public-health systems also depend.
-
-- **Dependencies and flows in scope:**
-  - Shared identity and authentication infrastructure;
-  - regional health-information network links;
-  - participant hospital connectivity and edge hosting;
-  - common hosting regions or colocation facilities;
-  - public grants, participant assessments, or subscription flows intended to sustain interoperability;
-  - identity-broker, directory, and deduplication services reused across the care ecosystem.
-- **What evaluation must test:**
-  - Whether dependent-systems maps identify **unfair resource draw from shared infrastructure** — rather than looking only at the exchange operator's direct private vendor contracts. Examples:
-    - participant fees, grants, or operator budgets that use regional authentication, directory, network, or hosting substrates without paying a fair share of upkeep;
-    - compute and connectivity load imposed on shared health-IT backbones; or
-    - maintenance and outage-response burden shifted onto smaller hospitals.
-    
-    This is **not** a test of whether the exchange sells records, mines data for advertising, or sends clinical content to unrelated external parties; those questions belong under [§3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and Chapter Six privacy protections.
-  - Where shared resource draw is material, whether smaller clinics, rural providers, or public-health participants bear asymmetric connectivity or participation costs;
-  - whether return flows — interoperability maintenance, directory stewardship, onboarding support, outage remediation, and fair participant cost-sharing — substantively support the shared infrastructure others rely on;
-  - whether symbolic or one-off transfers were treated as adequate return; and
-  - whether support adequacy was evaluated at **Class B** operational criticality rather than asserted from aggregate budget lines alone.
-- **What the record must show:**
-  - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) trigger and evaluation scope;
-  - **shared-infrastructure resource-flow** findings — fees, funding, compute, connectivity, and maintenance burden drawn from and returned to shared health-IT and authentication dependencies;
-  - return-flow and support-adequacy findings at **Class B** depth;
-  - fairness findings for asymmetric participant burden where material;
-  - uncertainty and component findings where required; and
-  - reopening triggers if growth in participant reliance, outage risk, or public-health routing would now require escalated support review — including upward toward **Class A** posture where survival-essential care routing is jointly implicated.
-
-**Class C — institutional scheduling and coordination platform.** A multi-organization scheduling layer may route vendor payments, institutional procurement, identity federation, or regional hosted-compute capacity through shared substrates — but many deployments impose lighter direct extraction until concentration makes the platform a coordination chokepoint.
-
-- **Dependencies and flows in scope:**
-  - Shared hosting regions, identity federation, payment or procurement rails used for vendor bookings;
-  - institutional subscription and licensing flows;
-  - API or directory services reused across participating hospitals, schools, and agencies;
-  - concentration effects where one platform intermediates staffing, room, or vendor coordination for many organizations.
-- **What evaluation must test:**
-  - Whether the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger actually applies — including where the platform materially routes funds, allocates fees, or extracts capacity from shared infrastructure others rely on;
-  - whether dependent-systems maps were honestly scoped rather than omitted because the operator labels the system non-critical;
-  - whether return flows — interoperability upkeep, fair fee structures, outage support, and open exit paths for participating institutions — were evaluated where extraction is material;
-  - whether concentration in one scheduling layer shifts coordination cost or dependency risk onto smaller institutions without proportionate support; and
-  - whether **reclassification watch** is required where the platform becomes a de facto chokepoint for survival-essential staffing, emergency routing, or payment coordination.
-- **What the record must show:**
-  - Whether and why the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) trigger applies;
-  - dependency and resource-flow findings proportionate to **Class C** coordination risk;
-  - extraction and return-flow findings where material — not a blank assertion that no shared infrastructure is implicated;
-  - concentration and chokepoint findings;
-  - explicit **reclassification watch** where dependency strengthens; and
-  - pointers to escalated cross-system support review if class, payment routing, or survival-essential coordination role changes.
-
-**Reading across classes.** The same **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) discipline applies wherever the materiality trigger is met; class changes map depth and adequacy scrutiny, not permission to treat shared extraction as immaterial. A **Class A** water system drawing on a shared watershed or regional grid backbone must carry the strongest dependent-systems-map and return-flow proof on the record. A **Class B** exchange resting on shared authentication and health-IT infrastructure must document extraction and support-adequacy findings at operational criticality — not generic interoperability slogans. A **Class C** scheduling platform must not evade cross-system review while it quietly becomes the payments, identity, or staffing chokepoint for institutions that cannot practically substitute; when that happens, certification must escalate review and reclassification under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), including upward to **Class A** where survival-essential coordination is gated. Nondiscrimination walkthroughs for the same systems are in [§3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)](#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive).
-
-<a id="3831-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-
-### 3.8.3.1. Illustrative nondiscrimination application by class (non-exhaustive)
-
-*Evaluation requirements illustrated here:* [Part A §3.8.3 Nondiscrimination Evaluation](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation).
-
-*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)](#3821-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article VI-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI-C** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.*
-
-**Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system applies shutoff, reconnection, payment-plan, outage-notification, and safety-alert rules that materially decide who loses water access, who gets warned first, and who bears the cost of service restoration.
-
-- **Decision pathways in scope:**
-  - Service shutoff and restoration sequencing;
-  - liens, billing, and payment-plan eligibility;
-  - new-connection and reconnection approval;
-  - outage-notification routing and language selection;
-  - contamination or boil-water alert targeting;
-  - landlord–tenant and address-history rules that gate access;
-  - emergency bypass or mutual-aid prioritization where multiple districts compete for limited supply.
-- **What evaluation must test:**
-  - Whether burden-and-benefit patterns under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) were evaluated for decision pathways that can foreclose survival essentials — not only whether the operator labels rules "risk-based" or "operational";
-  - whether shutoff, billing, or notification logic loads disproportionate harm onto sentients based on [Protected Characteristics](core_05_band_participation.md#protected-characteristics), their proxies, or arbitrary groupings used as functional substitutes;
-  - whether zip-code, landlord, language, payment-history, or address-history features function as proxy discrimination under [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact);
-  - whether [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage) protections were tested rather than homogenized away through "standard English only" or aggregate convenience metrics; and
-  - whether any differential treatment satisfies documented [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
-- **What the record must show:**
-  - The **Article VI-C** (*Nondiscrimination*) materiality trigger relied on;
-  - evaluation scope for shutoff, billing, notification, and connection pathways materially relied on;
-  - protected-characteristic, proxy-discrimination, and substantive-fairness findings at **Class A** depth;
-  - uncertainty;
-  - Sentient-forum or other component findings where required; and
-  - conditions or reopening triggers tied to persistent disparate shutoff, notification, or billing burden where survival essentials are gated.
-
-**Class B — regional clinical records exchange.** A health-information exchange routes records among hospitals and clinics through consent rules, identity resolution, provider-directory ranking, break-glass access, and participant-onboarding eligibility that materially decide who can see what care, which facilities connect first, and which patients match correctly across the network.
-
-- **Decision pathways in scope:**
-  - Patient identity matching and deduplication;
-  - consent, break-glass, and emergency-access rules;
-  - provider and facility directory ranking or preferred-network logic;
-  - participant hospital onboarding and suspension;
-  - record-routing and query-priority rules;
-  - derived features used to rank providers, route referrals, or flag "high utilizer" or similar cohorts.
-- **What evaluation must test:**
-  - Whether classification, ranking, and gating pathways were evaluated for functional effect — not nominal HIPAA neutrality or interoperability claims alone;
-  - whether matching, routing, or directory logic imposes material exclusion or harm on protected groups or their proxies;
-  - whether deduplication errors, break-glass thresholds, or onboarding rules load disproportionate burden onto rural clinics, language-minority patients, or comparable cohorts;
-  - whether "efficiency," "fraud prevention," or aggregate utilization metrics were used to defeat substantive fairness without satisfying **Article VI-C** (*Nondiscrimination*)'s **Necessity** and **Proportionality** tests; and
-  - whether evaluation depth matches **Class B** operational criticality where ranking affects healthcare access, benefits routing, or income security.
-- **What the record must show:**
-  - **Article VI-C** (*Nondiscrimination*) trigger and decision-pathway scope;
-  - protected-characteristic and proxy-discrimination findings;
-  - substantive-fairness findings for ranking, matching, and access rules;
-  - uncertainty and component findings where required; and
-  - reopening triggers if routing or matching changes would now block emergency care within survival-relevant timeframes or materially shift disparate burden.
-
-**Class C — institutional scheduling and coordination platform.** A multi-organization scheduling layer assigns shifts, books rooms, matches vendors, and allocates coordination priority across hospitals, schools, and public agencies — decision pathways that can rank, exclude, or load unequal burdens even when the platform is not itself a survival-critical utility.
-
-- **Decision pathways in scope:**
-  - Shift assignment, overtime, and on-call allocation;
-  - room, equipment, and venue booking priority;
-  - vendor matching and procurement ranking;
-  - institutional role, credential, and site-based access rules;
-  - derived scheduling features that correlate with neighborhood, language community, caregiver status, or comparable proxies;
-  - API or policy rules that exclude smaller institutions from preferred slots or vendor pools.
-- **What evaluation must test:**
-  - Whether the **Article VI-C** (*Nondiscrimination*) materiality trigger applies — including where coordination algorithms materially rank staff, vendors, or institutions;
-  - whether schedule geography, seniority proxies, "availability scoring," or vendor-rating logic load disproportionate burden onto protected groups without evaluable justification;
-  - whether facially neutral rules produce substantive unfairness through shift timing, travel burden, or exclusion from high-value bookings;
-  - whether the operator treated the platform as below review because it is **Class C** while coordination effects materially gate work, education, or public-service access; and
-  - whether **reclassification watch** is required where the platform becomes a de facto chokepoint for survival-essential staffing or emergency routing.
-- **What the record must show:**
-  - Whether and why the **Article VI-C** (*Nondiscrimination*) trigger applies;
-  - evaluation scope for ranking, assignment, and exclusion pathways proportionate to **Class C** coordination risk;
-  - protected-characteristic, proxy, and substantive-fairness findings where material — not a blank assertion that no one is ranked;
-  - concentration and chokepoint findings where scheduling effects foreshadow escalation;
-  - explicit **reclassification watch** where dependency strengthens; and
-  - pointers to escalated nondiscrimination review if class, payment routing, or survival-essential coordination role changes.
-
-**Reading across classes.** The same **Article VI-C** (*Nondiscrimination*) and Chapter Five nondiscrimination discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat ranking or burden-shifting as immaterial. A **Class A** water system whose shutoff or notification rules can foreclose safe water must carry the strongest burden-and-benefit and proxy analysis on the record — not a generic "utility best practice" statement. A **Class B** exchange whose matching or routing logic affects emergency care, benefits, or credential access must document disparate-impact and substantive-fairness findings at operational criticality. A **Class C** scheduling platform must not keep a token fairness paragraph while shift, vendor, or booking logic materially ranks or excludes participants; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), including upward toward **Class A** where staffing or emergency routing is gated. Accessibility walkthroughs for the same systems are in [§3.8.4.1 Illustrative accessibility application by class (non-exhaustive)](#3841-illustrative-accessibility-application-by-class-non-exhaustive).
-
-<a id="3841-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-
-### 3.8.4.1. Illustrative accessibility application by class (non-exhaustive)
-
-*Evaluation requirements illustrated here:* [Part A §3.8.4 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation).
-
-*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)](#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article VI-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI-D** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article IV-A** (*Equal Educational Access*) and is not narrowed here.*
-
-**Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system gates survival-floor access through billing portals, outage-notification channels, reconnection requests, boil-water alerts, and customer-service pathways that decide whether sentients can learn about, contest, or restore safe water.
-
-- **Participation pathways in scope:**
-  - Billing and payment-plan portals;
-  - outage and contamination-alert channels (voice, text, web, in-person, or delegated vendor paths);
-  - reconnection and hardship-request interfaces;
-  - language and format options for safety notices;
-  - credential or identity gates for account access;
-  - compute, device, or venue requirements for filing a challenge or receiving an alert.
-- **What evaluation must test:**
-  - Whether sentients can substantively receive survival-critical notices and complete reconnection or hardship pathways across sensory, cognitive, mobility, communication, and substrate-interface profiles — not whether a default web form exists;
-  - whether paper-only accommodations, "call during business hours," or English-only defaults defeat participation where less-burdensome options are feasible;
-  - whether scheduling, venue, credential, or compute design functions as denial-by-proxy;
-  - whether [Protected Characteristics](core_05_band_participation.md#protected-characteristics) and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) were applied to accommodation-design logic; and
-  - whether any limit satisfies documented [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Substantive Fairness](core_05_band_participation.md#substantive-fairness).
-- **What the record must show:**
-  - The **Article VI-D** (*Accessibility*) materiality trigger relied on;
-  - evaluation scope for notification, billing, reconnection, and challenge pathways materially relied on;
-  - substantive-participation and accommodation findings at **Class A** depth;
-  - anti-denial-by-proxy findings where material;
-  - uncertainty;
-  - Sentient-forum or other component findings where required; and
-  - conditions or reopening triggers tied to persistent barriers where survival essentials are gated.
-
-**Class B — regional clinical records exchange.** A health-information exchange and its participant portals gate daily healthcare access through patient portals, consent interfaces, provider directories, break-glass workflows, and clinic onboarding tools that decide whether patients and smaller providers can actually use the exchange.
-
-- **Participation pathways in scope:**
-  - Patient portal and consent interfaces;
-  - provider-directory and referral booking tools;
-  - break-glass and emergency-access workflows;
-  - clinic onboarding and credentialing interfaces;
-  - language, format, and assistive-technology support for clinical summaries and disclosures;
-  - compute or device requirements for viewing, contesting, or correcting records.
-- **What evaluation must test:**
-  - Whether patients and participating clinics can substantively use consent, access, correction, and emergency pathways — not whether a portal is labeled accessible;
-  - whether default interfaces defer to sighted, desktop, high-bandwidth, or English-primary users without producing participation capacity for others;
-  - whether credential, scheduling, or venue design excludes rural clinics, language-minority patients, or sentients who need alternative formats;
-  - whether evaluation depth matches **Class B** operational criticality where the exchange gates healthcare access; and
-  - whether paper accommodations or aggregate "compliance checklist" claims were treated as sufficient without evaluable substantive-participation analysis.
-- **What the record must show:**
-  - **Article VI-D** (*Accessibility*) trigger and access-pathway scope;
-  - substantive-participation and accommodation findings for patient and clinic pathways;
-  - anti-denial-by-proxy findings where material;
-  - uncertainty and component findings where required; and
-  - reopening triggers if portal or consent barriers would now block emergency care within survival-relevant timeframes or materially defeat daily operational reliance.
-
-**Class C — institutional scheduling and coordination platform.** A multi-organization scheduling layer gates stakeholder and operational participation through shift-claim interfaces, room-booking tools, vendor portals, and institutional dashboards — even when the platform is not itself a survival-critical utility.
-
-- **Participation pathways in scope:**
-  - Shift-claim and on-call interfaces;
-  - room, equipment, and venue booking tools;
-  - vendor and procurement portals;
-  - institutional role and credential dashboards;
-  - mobile, desktop, and assistive-technology paths for claiming or contesting assignments;
-  - language and format options for schedule notices.
-- **What evaluation must test:**
-  - Whether the **Article VI-D** (*Accessibility*) materiality trigger applies — including where coordination UI materially gates work, education, stakeholder, or forum participation;
-  - whether default interfaces produce substantive participation across sensory, cognitive, mobility, communication, and substrate-interface profiles;
-  - whether schedule timing, venue choice, credential gates, or compute requirements function as denial-by-proxy;
-  - whether the operator treated the platform as below review because it is **Class C** while coordination effects materially gate constitutionally relevant participation; and
-  - whether **reclassification watch** is required where the platform becomes a de facto chokepoint for survival-essential staffing or emergency routing.
-- **What the record must show:**
-  - Whether and why the **Article VI-D** (*Accessibility*) trigger applies;
-  - evaluation scope for scheduling, booking, and portal pathways proportionate to **Class C** coordination risk;
-  - substantive-participation and accommodation findings where material — not a blank assertion that the UI is "standard";
-  - concentration and chokepoint findings where scheduling effects foreshadow escalation;
-  - explicit **reclassification watch** where dependency strengthens; and
-  - pointers to escalated accessibility review if class or survival-essential coordination role changes.
-
-**Reading across classes.** The same **Article VI-D** (*Accessibility*) and Chapter Five accessibility discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat paper accommodations or default interfaces as enough. A **Class A** water system whose billing or outage pathways can foreclose safe water must carry the strongest substantive-participation proof on the record — not a generic accessibility statement. A **Class B** exchange whose portals gate healthcare access must document accommodation and anti-denial-by-proxy findings at operational criticality. A **Class C** scheduling platform must not keep a token accessibility paragraph while shift, booking, or vendor UI materially excludes participants; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), including upward toward **Class A** where staffing or emergency routing is gated. Educational-capability walkthroughs for the same systems are in [§3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)](#3851-illustrative-educational-capability-application-by-class-non-exhaustive).
-
-<a id="3851-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-
-### 3.8.5.1. Illustrative educational-capability application by class (non-exhaustive)
-
-*Evaluation requirements illustrated here:* [Part A §3.8.5 Educational Capability and Learning-System Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#385-educational-capability-and-learning-system-integrity-evaluation).
-
-*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.4.1 Illustrative accessibility application by class (non-exhaustive)](#3841-illustrative-accessibility-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article IV** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article IV** (*Right to Sentient-Centered Education*) still own canonical educational-agency and learning-system rules; curricula, credential catalogs, assessment rubrics, and funding models may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Equal access and educational accessibility remain owned by **Article IV-A** (*Equal Educational Access*) and are not narrowed here.*
+*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.5.1 Illustrative accessibility application by class (non-exhaustive)](#3851-illustrative-accessibility-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article IV** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article IV** (*Right to Sentient-Centered Education*) still own canonical educational-agency and learning-system rules; curricula, credential catalogs, assessment rubrics, and funding models may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Equal access and educational accessibility remain owned by **Article IV-A** (*Equal Educational Access*) and are not narrowed here.*
 
 **Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system gates who may operate survival-critical plant functions through operator licensure, safety-certification, competency assessment, and protocol-retraining rules — role credentialing pathways that decide whether sentients can build and keep the capability to run safe water, and whether those assessments can be seen, audited, and challenged.
 
@@ -664,13 +423,254 @@ Illustrative labels do not lock classification. Each of the following must be re
 
 **Reading across classes.** The same **Article IV** (*Right to Sentient-Centered Education*) and Chapter Five educational-capability discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat credential formalism or opaque assessment as enough. A **Class A** water system whose operator licensure or safety assessment can foreclose safe plant operation must carry the strongest capability-building, retraining, and contestability proof on the record — not a generic training-policy statement. A **Class B** exchange whose privileges, placement, or continuing medical education logic gates clinical practice must document assessment transparency and retraining access at operational criticality. A **Class C** scheduling platform must not keep a token education paragraph while training-slot, recommendation, or credential-routing logic materially ranks or excludes participants; when coordination becomes operationally necessary for work or licensure, certification must escalate review and reclassification under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), including upward toward **Class A** where survival-essential staffing credentials are gated. Trustworthiness walkthroughs for the same systems are in [§3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)](#3861-illustrative-trustworthiness-application-by-class-non-exhaustive).
 
+<a id="3831-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
+
+### 3.8.3.1. Illustrative cross-system support application by class (non-exhaustive)
+
+*Evaluation requirements illustrated here:* [Part A §3.8.3 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#383-proportionate-cross-system-support-evaluation).
+
+*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§3.8.3 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#383-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8 (*Adaptive sustainability and ecosystem resilience*), CS-9 (*Resource allocation and funding stewardship*), and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.*
+
+**Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system draws on a shared watershed or aquifer, regional bulk-power interconnection, wholesale chemical and filtration supply chains, shared emergency-interconnect agreements, and vendor-operated monitoring or control services on which other utilities or communities may also depend.
+
+- **Dependencies and flows in scope:**
+  - Source-water rights and watershed infrastructure shared with agriculture, industry, and neighboring municipalities;
+  - grid interconnection and peak-load burden on regional power infrastructure;
+  - shared chemical-procurement and logistics corridors;
+  - mutual-aid pumping, intertie, and emergency supply agreements;
+  - delegated **SCADA** (supervisory control and data acquisition — remote operation of pumps, valves, and treatment equipment), **telemetry** (live pressure, flow, and alert signals from field sensors), and **SOC** (security operations center — vendor monitoring for intrusions, outages, and safety events) services hosted on shared vendor or regional control infrastructure;
+  - capital and maintenance flows from ratepayers, bonds, grants, or regional authorities back into source protection, pipe renewal, and shared backbone upkeep.
+- **What evaluation must test:**
+  - Whether **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) dependent-systems maps and auditable resource-flow records identify extraction from the shared watershed, grid, supply chain, and mutual-aid backbone — not only the utility's internal ledger;
+  - whether return flows — source protection, infrastructure renewal, watershed restoration, regional emergency capacity, and fair cost-sharing for shared backbone use — reach substantive adequacy under [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support), evaluated under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) and [Proportionality](core_05_band_accountability.md#proportionality);
+  - whether one-off grants, opaque vendor fees, or downstream cost-shifting were treated as adequate return;
+  - whether [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) and long-term [Sustainability](core_05_band_continuity.md#sustainability) were integrated where watershed or energy extraction is material; and
+  - whether **Class A** stewardship of survival-critical shared resources received the strongest support-adequacy analysis on the facts.
+- **What the record must show:**
+  - The **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger relied on;
+  - dependent-systems-map and resource-flow scope at **Class A** depth;
+  - extraction findings from watershed, grid, supply-chain, and shared-control dependencies;
+  - return-flow and support-adequacy findings;
+  - uncertainty;
+  - Sentient-forum or other component findings where required; and
+  - conditions or reopening triggers tied to persistent imbalance, watershed stress, or unfair extraction from shared survival infrastructure.
+
+**Class B — regional clinical records exchange.** A health-information exchange routes records among hospitals and clinics through shared authentication services, regional health-IT backbone links, identity-resolution infrastructure, and commonly relied-on hosting or shared-compute regions — substrates on which smaller clinics and public-health systems also depend.
+
+- **Dependencies and flows in scope:**
+  - Shared identity and authentication infrastructure;
+  - regional health-information network links;
+  - participant hospital connectivity and edge hosting;
+  - common hosting regions or colocation facilities;
+  - public grants, participant assessments, or subscription flows intended to sustain interoperability;
+  - identity-broker, directory, and deduplication services reused across the care ecosystem.
+- **What evaluation must test:**
+  - Whether dependent-systems maps identify **unfair resource draw from shared infrastructure** — rather than looking only at the exchange operator's direct private vendor contracts. Examples:
+    - participant fees, grants, or operator budgets that use regional authentication, directory, network, or hosting substrates without paying a fair share of upkeep;
+    - compute and connectivity load imposed on shared health-IT backbones; or
+    - maintenance and outage-response burden shifted onto smaller hospitals.
+    
+    This is **not** a test of whether the exchange sells records, mines data for advertising, or sends clinical content to unrelated external parties; those questions belong under [§3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and Chapter Six privacy protections.
+  - Where shared resource draw is material, whether smaller clinics, rural providers, or public-health participants bear asymmetric connectivity or participation costs;
+  - whether return flows — interoperability maintenance, directory stewardship, onboarding support, outage remediation, and fair participant cost-sharing — substantively support the shared infrastructure others rely on;
+  - whether symbolic or one-off transfers were treated as adequate return; and
+  - whether support adequacy was evaluated at **Class B** operational criticality rather than asserted from aggregate budget lines alone.
+- **What the record must show:**
+  - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) trigger and evaluation scope;
+  - **shared-infrastructure resource-flow** findings — fees, funding, compute, connectivity, and maintenance burden drawn from and returned to shared health-IT and authentication dependencies;
+  - return-flow and support-adequacy findings at **Class B** depth;
+  - fairness findings for asymmetric participant burden where material;
+  - uncertainty and component findings where required; and
+  - reopening triggers if growth in participant reliance, outage risk, or public-health routing would now require escalated support review — including upward toward **Class A** posture where survival-essential care routing is jointly implicated.
+
+**Class C — institutional scheduling and coordination platform.** A multi-organization scheduling layer may route vendor payments, institutional procurement, identity federation, or regional hosted-compute capacity through shared substrates — but many deployments impose lighter direct extraction until concentration makes the platform a coordination chokepoint.
+
+- **Dependencies and flows in scope:**
+  - Shared hosting regions, identity federation, payment or procurement rails used for vendor bookings;
+  - institutional subscription and licensing flows;
+  - API or directory services reused across participating hospitals, schools, and agencies;
+  - concentration effects where one platform intermediates staffing, room, or vendor coordination for many organizations.
+- **What evaluation must test:**
+  - Whether the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger actually applies — including where the platform materially routes funds, allocates fees, or extracts capacity from shared infrastructure others rely on;
+  - whether dependent-systems maps were honestly scoped rather than omitted because the operator labels the system non-critical;
+  - whether return flows — interoperability upkeep, fair fee structures, outage support, and open exit paths for participating institutions — were evaluated where extraction is material;
+  - whether concentration in one scheduling layer shifts coordination cost or dependency risk onto smaller institutions without proportionate support; and
+  - whether **reclassification watch** is required where the platform becomes a de facto chokepoint for survival-essential staffing, emergency routing, or payment coordination.
+- **What the record must show:**
+  - Whether and why the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) trigger applies;
+  - dependency and resource-flow findings proportionate to **Class C** coordination risk;
+  - extraction and return-flow findings where material — not a blank assertion that no shared infrastructure is implicated;
+  - concentration and chokepoint findings;
+  - explicit **reclassification watch** where dependency strengthens; and
+  - pointers to escalated cross-system support review if class, payment routing, or survival-essential coordination role changes.
+
+**Reading across classes.** The same **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) discipline applies wherever the materiality trigger is met; class changes map depth and adequacy scrutiny, not permission to treat shared extraction as immaterial. A **Class A** water system drawing on a shared watershed or regional grid backbone must carry the strongest dependent-systems-map and return-flow proof on the record. A **Class B** exchange resting on shared authentication and health-IT infrastructure must document extraction and support-adequacy findings at operational criticality — not generic interoperability slogans. A **Class C** scheduling platform must not evade cross-system review while it quietly becomes the payments, identity, or staffing chokepoint for institutions that cannot practically substitute; when that happens, certification must escalate review and reclassification under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), including upward to **Class A** where survival-essential coordination is gated. Nondiscrimination walkthroughs for the same systems are in [§3.8.4.1 Illustrative nondiscrimination application by class (non-exhaustive)](#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive).
+
+<a id="3841-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
+
+### 3.8.4.1. Illustrative nondiscrimination application by class (non-exhaustive)
+
+*Evaluation requirements illustrated here:* [Part A §3.8.4 Nondiscrimination Evaluation](core_08_a_system_alignment_certification_evaluation.md#384-nondiscrimination-evaluation).
+
+*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.3.1 Illustrative cross-system support application by class (non-exhaustive)](#3831-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article VI-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI-C** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.*
+
+**Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system applies shutoff, reconnection, payment-plan, outage-notification, and safety-alert rules that materially decide who loses water access, who gets warned first, and who bears the cost of service restoration.
+
+- **Decision pathways in scope:**
+  - Service shutoff and restoration sequencing;
+  - liens, billing, and payment-plan eligibility;
+  - new-connection and reconnection approval;
+  - outage-notification routing and language selection;
+  - contamination or boil-water alert targeting;
+  - landlord–tenant and address-history rules that gate access;
+  - emergency bypass or mutual-aid prioritization where multiple districts compete for limited supply.
+- **What evaluation must test:**
+  - Whether burden-and-benefit patterns under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) were evaluated for decision pathways that can foreclose survival essentials — not only whether the operator labels rules "risk-based" or "operational";
+  - whether shutoff, billing, or notification logic loads disproportionate harm onto sentients based on [Protected Characteristics](core_05_band_participation.md#protected-characteristics), their proxies, or arbitrary groupings used as functional substitutes;
+  - whether zip-code, landlord, language, payment-history, or address-history features function as proxy discrimination under [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact);
+  - whether [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage) protections were tested rather than homogenized away through "standard English only" or aggregate convenience metrics; and
+  - whether any differential treatment satisfies documented [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
+- **What the record must show:**
+  - The **Article VI-C** (*Nondiscrimination*) materiality trigger relied on;
+  - evaluation scope for shutoff, billing, notification, and connection pathways materially relied on;
+  - protected-characteristic, proxy-discrimination, and substantive-fairness findings at **Class A** depth;
+  - uncertainty;
+  - Sentient-forum or other component findings where required; and
+  - conditions or reopening triggers tied to persistent disparate shutoff, notification, or billing burden where survival essentials are gated.
+
+**Class B — regional clinical records exchange.** A health-information exchange routes records among hospitals and clinics through consent rules, identity resolution, provider-directory ranking, break-glass access, and participant-onboarding eligibility that materially decide who can see what care, which facilities connect first, and which patients match correctly across the network.
+
+- **Decision pathways in scope:**
+  - Patient identity matching and deduplication;
+  - consent, break-glass, and emergency-access rules;
+  - provider and facility directory ranking or preferred-network logic;
+  - participant hospital onboarding and suspension;
+  - record-routing and query-priority rules;
+  - derived features used to rank providers, route referrals, or flag "high utilizer" or similar cohorts.
+- **What evaluation must test:**
+  - Whether classification, ranking, and gating pathways were evaluated for functional effect — not nominal HIPAA neutrality or interoperability claims alone;
+  - whether matching, routing, or directory logic imposes material exclusion or harm on protected groups or their proxies;
+  - whether deduplication errors, break-glass thresholds, or onboarding rules load disproportionate burden onto rural clinics, language-minority patients, or comparable cohorts;
+  - whether "efficiency," "fraud prevention," or aggregate utilization metrics were used to defeat substantive fairness without satisfying **Article VI-C** (*Nondiscrimination*)'s **Necessity** and **Proportionality** tests; and
+  - whether evaluation depth matches **Class B** operational criticality where ranking affects healthcare access, benefits routing, or income security.
+- **What the record must show:**
+  - **Article VI-C** (*Nondiscrimination*) trigger and decision-pathway scope;
+  - protected-characteristic and proxy-discrimination findings;
+  - substantive-fairness findings for ranking, matching, and access rules;
+  - uncertainty and component findings where required; and
+  - reopening triggers if routing or matching changes would now block emergency care within survival-relevant timeframes or materially shift disparate burden.
+
+**Class C — institutional scheduling and coordination platform.** A multi-organization scheduling layer assigns shifts, books rooms, matches vendors, and allocates coordination priority across hospitals, schools, and public agencies — decision pathways that can rank, exclude, or load unequal burdens even when the platform is not itself a survival-critical utility.
+
+- **Decision pathways in scope:**
+  - Shift assignment, overtime, and on-call allocation;
+  - room, equipment, and venue booking priority;
+  - vendor matching and procurement ranking;
+  - institutional role, credential, and site-based access rules;
+  - derived scheduling features that correlate with neighborhood, language community, caregiver status, or comparable proxies;
+  - API or policy rules that exclude smaller institutions from preferred slots or vendor pools.
+- **What evaluation must test:**
+  - Whether the **Article VI-C** (*Nondiscrimination*) materiality trigger applies — including where coordination algorithms materially rank staff, vendors, or institutions;
+  - whether schedule geography, seniority proxies, "availability scoring," or vendor-rating logic load disproportionate burden onto protected groups without evaluable justification;
+  - whether facially neutral rules produce substantive unfairness through shift timing, travel burden, or exclusion from high-value bookings;
+  - whether the operator treated the platform as below review because it is **Class C** while coordination effects materially gate work, education, or public-service access; and
+  - whether **reclassification watch** is required where the platform becomes a de facto chokepoint for survival-essential staffing or emergency routing.
+- **What the record must show:**
+  - Whether and why the **Article VI-C** (*Nondiscrimination*) trigger applies;
+  - evaluation scope for ranking, assignment, and exclusion pathways proportionate to **Class C** coordination risk;
+  - protected-characteristic, proxy, and substantive-fairness findings where material — not a blank assertion that no one is ranked;
+  - concentration and chokepoint findings where scheduling effects foreshadow escalation;
+  - explicit **reclassification watch** where dependency strengthens; and
+  - pointers to escalated nondiscrimination review if class, payment routing, or survival-essential coordination role changes.
+
+**Reading across classes.** The same **Article VI-C** (*Nondiscrimination*) and Chapter Five nondiscrimination discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat ranking or burden-shifting as immaterial. A **Class A** water system whose shutoff or notification rules can foreclose safe water must carry the strongest burden-and-benefit and proxy analysis on the record — not a generic "utility best practice" statement. A **Class B** exchange whose matching or routing logic affects emergency care, benefits, or credential access must document disparate-impact and substantive-fairness findings at operational criticality. A **Class C** scheduling platform must not keep a token fairness paragraph while shift, vendor, or booking logic materially ranks or excludes participants; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), including upward toward **Class A** where staffing or emergency routing is gated. Accessibility walkthroughs for the same systems are in [§3.8.5.1 Illustrative accessibility application by class (non-exhaustive)](#3851-illustrative-accessibility-application-by-class-non-exhaustive).
+
+<a id="3851-illustrative-accessibility-application-by-class-non-exhaustive"></a>
+
+### 3.8.5.1. Illustrative accessibility application by class (non-exhaustive)
+
+*Evaluation requirements illustrated here:* [Part A §3.8.5 Accessibility Evaluation](core_08_a_system_alignment_certification_evaluation.md#385-accessibility-evaluation).
+
+*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.4.1 Illustrative nondiscrimination application by class (non-exhaustive)](#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article VI-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI-D** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article IV-A** (*Equal Educational Access*) and is not narrowed here.*
+
+**Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system gates survival-floor access through billing portals, outage-notification channels, reconnection requests, boil-water alerts, and customer-service pathways that decide whether sentients can learn about, contest, or restore safe water.
+
+- **Participation pathways in scope:**
+  - Billing and payment-plan portals;
+  - outage and contamination-alert channels (voice, text, web, in-person, or delegated vendor paths);
+  - reconnection and hardship-request interfaces;
+  - language and format options for safety notices;
+  - credential or identity gates for account access;
+  - compute, device, or venue requirements for filing a challenge or receiving an alert.
+- **What evaluation must test:**
+  - Whether sentients can substantively receive survival-critical notices and complete reconnection or hardship pathways across sensory, cognitive, mobility, communication, and substrate-interface profiles — not whether a default web form exists;
+  - whether paper-only accommodations, "call during business hours," or English-only defaults defeat participation where less-burdensome options are feasible;
+  - whether scheduling, venue, credential, or compute design functions as denial-by-proxy;
+  - whether [Protected Characteristics](core_05_band_participation.md#protected-characteristics) and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) were applied to accommodation-design logic; and
+  - whether any limit satisfies documented [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Substantive Fairness](core_05_band_participation.md#substantive-fairness).
+- **What the record must show:**
+  - The **Article VI-D** (*Accessibility*) materiality trigger relied on;
+  - evaluation scope for notification, billing, reconnection, and challenge pathways materially relied on;
+  - substantive-participation and accommodation findings at **Class A** depth;
+  - anti-denial-by-proxy findings where material;
+  - uncertainty;
+  - Sentient-forum or other component findings where required; and
+  - conditions or reopening triggers tied to persistent barriers where survival essentials are gated.
+
+**Class B — regional clinical records exchange.** A health-information exchange and its participant portals gate daily healthcare access through patient portals, consent interfaces, provider directories, break-glass workflows, and clinic onboarding tools that decide whether patients and smaller providers can actually use the exchange.
+
+- **Participation pathways in scope:**
+  - Patient portal and consent interfaces;
+  - provider-directory and referral booking tools;
+  - break-glass and emergency-access workflows;
+  - clinic onboarding and credentialing interfaces;
+  - language, format, and assistive-technology support for clinical summaries and disclosures;
+  - compute or device requirements for viewing, contesting, or correcting records.
+- **What evaluation must test:**
+  - Whether patients and participating clinics can substantively use consent, access, correction, and emergency pathways — not whether a portal is labeled accessible;
+  - whether default interfaces defer to sighted, desktop, high-bandwidth, or English-primary users without producing participation capacity for others;
+  - whether credential, scheduling, or venue design excludes rural clinics, language-minority patients, or sentients who need alternative formats;
+  - whether evaluation depth matches **Class B** operational criticality where the exchange gates healthcare access; and
+  - whether paper accommodations or aggregate "compliance checklist" claims were treated as sufficient without evaluable substantive-participation analysis.
+- **What the record must show:**
+  - **Article VI-D** (*Accessibility*) trigger and access-pathway scope;
+  - substantive-participation and accommodation findings for patient and clinic pathways;
+  - anti-denial-by-proxy findings where material;
+  - uncertainty and component findings where required; and
+  - reopening triggers if portal or consent barriers would now block emergency care within survival-relevant timeframes or materially defeat daily operational reliance.
+
+**Class C — institutional scheduling and coordination platform.** A multi-organization scheduling layer gates stakeholder and operational participation through shift-claim interfaces, room-booking tools, vendor portals, and institutional dashboards — even when the platform is not itself a survival-critical utility.
+
+- **Participation pathways in scope:**
+  - Shift-claim and on-call interfaces;
+  - room, equipment, and venue booking tools;
+  - vendor and procurement portals;
+  - institutional role and credential dashboards;
+  - mobile, desktop, and assistive-technology paths for claiming or contesting assignments;
+  - language and format options for schedule notices.
+- **What evaluation must test:**
+  - Whether the **Article VI-D** (*Accessibility*) materiality trigger applies — including where coordination UI materially gates work, education, stakeholder, or forum participation;
+  - whether default interfaces produce substantive participation across sensory, cognitive, mobility, communication, and substrate-interface profiles;
+  - whether schedule timing, venue choice, credential gates, or compute requirements function as denial-by-proxy;
+  - whether the operator treated the platform as below review because it is **Class C** while coordination effects materially gate constitutionally relevant participation; and
+  - whether **reclassification watch** is required where the platform becomes a de facto chokepoint for survival-essential staffing or emergency routing.
+- **What the record must show:**
+  - Whether and why the **Article VI-D** (*Accessibility*) trigger applies;
+  - evaluation scope for scheduling, booking, and portal pathways proportionate to **Class C** coordination risk;
+  - substantive-participation and accommodation findings where material — not a blank assertion that the UI is "standard";
+  - concentration and chokepoint findings where scheduling effects foreshadow escalation;
+  - explicit **reclassification watch** where dependency strengthens; and
+  - pointers to escalated accessibility review if class or survival-essential coordination role changes.
+
+**Reading across classes.** The same **Article VI-D** (*Accessibility*) and Chapter Five accessibility discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat paper accommodations or default interfaces as enough. A **Class A** water system whose billing or outage pathways can foreclose safe water must carry the strongest substantive-participation proof on the record — not a generic accessibility statement. A **Class B** exchange whose portals gate healthcare access must document accommodation and anti-denial-by-proxy findings at operational criticality. A **Class C** scheduling platform must not keep a token accessibility paragraph while shift, booking, or vendor UI materially excludes participants; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), including upward toward **Class A** where staffing or emergency routing is gated. Educational-capability walkthroughs for the same systems are in [§3.8.2.1 Illustrative educational-capability application by class (non-exhaustive)](#3821-illustrative-educational-capability-application-by-class-non-exhaustive).
+
 <a id="3861-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
 
 ### 3.8.6.1. Illustrative trustworthiness application by class (non-exhaustive)
 
 *Evaluation requirements illustrated here:* [Part A §3.8.6 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
-*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)](#3851-illustrative-educational-capability-application-by-class-non-exhaustive) (*Illustrative educational-capability application by class*) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XIII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.*
+*In plain terms: [Illustrative whole-system application by class (non-exhaustive)](#illustrative-whole-system-application-by-class-non-exhaustive) through [§3.8.2.1 Illustrative educational-capability application by class (non-exhaustive)](#3821-illustrative-educational-capability-application-by-class-non-exhaustive) (*Illustrative educational-capability application by class*) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XIII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.*
 
 **Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system shapes whether households, operators, and emergency responders can rely on represented water quality, outage status, contamination alerts, and control behavior — reliance pathways where misleading reliance can foreclose safe water before viable substitutes arrive.
 
