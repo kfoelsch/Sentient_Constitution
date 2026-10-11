@@ -1944,8 +1944,23 @@ This Article sets out the non-capture safeguards for every body that decides for
   - independence from whoever controls the actor ([§3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)).
 
   Where one sentient, office, or bloc holds seats that must be separate, or controls those who hold them, that is also a sign of structural capture under this Article.
-- **Scope:** The safeguards below apply to every body that exercises decision, adjudicative, or interpretive authority over others — every **forum** family under **Chapter Twelve**, **Stakeholder System Participation** bodies under this Article, and the **appointing authorities** and **adopting institutions** that design, seat, rotate, and remove their members. Requirements scale with [material stake](core_00_preamble.md#material-stake) and dependency; the floors on disclosure, recusal, procedural gaming, and pretextual removal apply to every such body. **Constitutional forums** are held to these safeguards at their most stringent under [**Article XXV-C**](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*) and [**Article XXV-D**](core_06_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment) (*Removal for Cause and Non-Entrenchment*).
-- **Composition and conflict-control floor:** Covered bodies must be structured to preserve impartiality, prevent capture, and remain contestable. They, their **appointing authorities**, and **adopting institutions** must use transparent membership rules and conflict safeguards sufficient to prevent durable control by any single appointing authority, institution, or stakeholder bloc.
+- **Scope:**
+  - **Who is covered:** The safeguards below apply to every body that exercises decision, adjudicative, or interpretive authority over others:
+    - every **forum** family under **Chapter Twelve**;
+    - **Stakeholder System Participation** bodies under this Article; and
+    - the **appointing authorities** and **adopting institutions** that design, seat, rotate, and remove their members.
+  - **How requirements scale:** Requirements scale with [material stake](core_00_preamble.md#material-stake) and dependency.
+  - **Floors that apply to every such body:** disclosure, recusal, procedural gaming, and pretextual removal.
+  - **Constitutional forums:** Held to these safeguards at their most stringent under [**Article XXV-C**](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*) and [**Article XXV-D**](core_06_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment) (*Removal for Cause and Non-Entrenchment*).
+- **Composition and conflict-control floor:**
+  - **Structure:** Covered bodies must be structured to:
+    - preserve impartiality;
+    - prevent capture; and
+    - remain contestable.
+  - **Rules and safeguards:** They, their **appointing authorities**, and **adopting institutions** must use transparent membership rules and conflict safeguards sufficient to prevent durable control by any single:
+    - appointing authority;
+    - institution; or
+    - stakeholder bloc.
 - **Ongoing disclosure and recusal:** Members and panelists must disclose material affiliations, dependencies, and conflicts on an ongoing basis. **Recusal** must be available where impartiality is materially compromised.
 - **Influence contact and post-service conflicts:** Approach to these bodies by an [**interested party**](core_05_band_accountability.md#interested-party), and the conflicts that arise from later roles and benefits, are governed by [**Article XII-E**](core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
 - **Enforcement and routing:**
@@ -1955,10 +1970,19 @@ This Article sets out the non-capture safeguards for every body that decides for
 - **No procedural gaming:** Covered bodies and the bodies that govern vacancy, rotation, and recusal continuity must not use those levers to create:
   - selective paralysis;
   - covert control.
-- **Independent external review:** At defined intervals, independent external review of covered bodies is mandatory, with depth and frequency scaled to material stake and dependency. By default, **Integrity** forums conduct it under **[Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes)** (*Default venue and primary stakes*) and the **cross-forum anti-self-judging rule** in **[Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)** (*Transfer, consolidation, and coordination — continuity and anti-capture*). The reviewer must be structurally separate from the body under review and must not include overlapping decision-makers from its recent panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twelve §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*) applies without narrowing this obligation. The review must assess:
-  - capture indicators;
-  - decision quality;
-  - Rights-Floor integrity.
+- **Independent external review:**
+  - **Requirement:** At defined intervals, independent external review of covered bodies is mandatory, with depth and frequency scaled to material stake and dependency.
+  - **Default reviewer:** By default, **Integrity** forums conduct it under:
+    - **[Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes)** (*Default venue and primary stakes*); and
+    - the **cross-forum anti-self-judging rule** in **[Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)** (*Transfer, consolidation, and coordination — continuity and anti-capture*).
+  - **Reviewer independence:** The reviewer:
+    - must be structurally separate from the body under review; and
+    - must not include overlapping decision-makers from its recent panels.
+  - **Backup routing:** Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twelve §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*) applies without narrowing this obligation.
+  - **The review must assess:**
+    - capture indicators;
+    - decision quality;
+    - Rights-Floor integrity.
 - **Removal for cause:** Members and panelists are removable by their **appointing authorities** through transparent due-process procedures for:
   - material breach;
   - concealment;

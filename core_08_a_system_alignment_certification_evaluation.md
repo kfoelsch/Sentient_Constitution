@@ -322,7 +322,7 @@ A **[pilot](core_05_band_continuity.md#pilot)** is a [go-live](core_05_band_cont
 
 *In plain terms: you cannot green-light one piece of a system and ignore the rest. Reviewers need the full picture — what it depends on, what breaks when something upstream fails, harms that show up later or add up over time, whether sentients can actually use it (not just on paper), whether private information stays properly walled off, whether sentients can leave without being trapped, whether groups can still organize without the system splitting them apart, whether short-term wins hide long-term damage, and whether real oversight and accountability will still work when a lot is on the line.*
 
-*Worked examples: [Part C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-class-non-exhaustive) (*Illustrative whole-system application by class*) walks one example system per class through this section.*
+*Worked examples: [Part C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-class-non-exhaustive) shows how this section plays out in practice. It takes three sample systems, one for each class, and walks each through the checks above.*
 
 A system alignment certification evaluation is incomplete if it considers only immediate or local effects.
 
