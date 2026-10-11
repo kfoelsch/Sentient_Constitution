@@ -161,7 +161,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Rights-Floor: **[Article XXVIII-A](core_06_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)** (*Phased Adoption and Rights-Floor Continuity*).
+- Downstream: Rights-Floor: **[Article XXVIII-A](core_06_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**.
 - Canonical owner: this definition states what a gate is. [Gate Criteria](core_05_band_oversight.md#gate-criteria) states what must be shown for it to open. Implementation detail lives in **CS-10.3** (*Gate criteria and advancement rules*) and **CI-14** (*Transitional governance and institutional evolution*).
 - Read with: [Gate Criteria](core_05_band_oversight.md#gate-criteria), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Reversibility](core_05_band_continuity.md#reversibility).
 
@@ -198,7 +198,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Rights-Floor: **[Article XXVIII-A](core_06_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)** (*Phased Adoption and Rights-Floor Continuity*); **[Article XXVIII-B](core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) (*Transitional Authority Limits and Reauthorization*)** (*Transitional Authority Limits and Reauthorization*).
+- Downstream: Rights-Floor: **[Article XXVIII-A](core_06_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**; **[Article XXVIII-B](core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) (*Transitional Authority Limits and Reauthorization*)**.
 - Canonical owner: this definition states what gate criteria are. The contents of any particular plan's criteria stay with that plan under **CS-10.3** (*Gate criteria and advancement rules*) and **CI-14** (*Transitional governance and institutional evolution*), and may not narrow this definition.
 - Read with: [Gate](core_05_band_oversight.md#gate), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Reversibility](core_05_band_continuity.md#reversibility).
 

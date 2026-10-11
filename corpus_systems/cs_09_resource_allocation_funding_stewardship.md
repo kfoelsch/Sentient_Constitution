@@ -339,7 +339,7 @@ No minimum participation threshold is required to initiate review, though outcom
 **Challenges must**:
 - be documented and supported by evidence where feasible;
 - remain subject to audit and evaluation under **Article XVI-A** (*Auditability and Observable Evidence*);
-- be resolved through participatory processes (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, **Article XX-A** (*Justice Objective and Scope*)** (*Justice Objective and Scope*)** (justice objective and review scope).
+- be resolved through participatory processes (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, **Article XX-A** (*Justice Objective and Scope*)** (justice objective and review scope).
 
 <a id="cs-9-18-due-process-in-funding-changes"></a>
 ## CS-9.18 Due process in funding changes

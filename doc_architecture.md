@@ -1012,7 +1012,7 @@ Examples: `**Article XVI-C** (*Verification Accessibility*)`; `**Article XXVI-C*
 - **Headings** (`### Article …`, `#### Article …-…`) already carry the title; do not duplicate the gloss there.
 - **Dense routing lists** may omit the gloss only when every entry is a self-explanatory chapter name (for example **Chapter Eight**) or when the same block already states each title on the same line.
 
-**Source of truth:** Chapter Six part-file headings; verified by `make reference-audit`. `make article-cite-gloss-audit` flags a bare cite, a repeated title, and a cite wrapped in stray emphasis on lines changed versus HEAD; `python3 tools/apply_article_cite_gloss.py --check` reports the whole corpus. Tests: `make article-cite-gloss-audit-test`.
+**Source of truth:** Chapter Six part-file headings; verified by `make reference-audit`. `make article-cite-gloss-audit` flags a bare cite, a repeated title, and a cite wrapped in stray emphasis anywhere in the binding corpus (the corpus was cleaned on 2026-10-11, so the audit runs in full); `python3 tools/apply_article_cite_gloss.py` fixes them. Tests: `make article-cite-gloss-audit-test`.
 
 ### Section-number cite names (SECTION-CITE-NAME-01)
 

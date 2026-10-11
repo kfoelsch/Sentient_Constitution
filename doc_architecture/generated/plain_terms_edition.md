@@ -5450,13 +5450,13 @@ if a ruling affects you, you can ask a different body to look at it again — no
 
 ##### Article XXV-C: Constitutional Forum Independence and External Review
 
-the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.
+the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.
 
 [Source](../../core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review)
 
 ##### Article XXV-D: Removal for Cause and Non-Entrenchment
 
-**Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.
+**Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.
 
 [Source](../../core_06_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment)
 
