@@ -4,7 +4,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.08.09`
+> **Corpus edition pin:** `SC-Corpus-2026.10.12`
 > **Status:** current
 >
 > This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
@@ -57,7 +57,7 @@ See: [Article VIII-C](../../../core_06_rights_part_b.md#article-viii-c-derivatio
 - **Today:** A lab wants an AI-only extra rulebook so humans keep the bonus, the deadline, and “ignore it, I’ll take responsibility.” The model is constrained; the humans keep a way to skip the rules.
 - **With this Constitution:** Human and AI operators share one standard — no AI-only extra rulebook, no human exemption from costly constraints.
 
-See: [Chapter One §16.1.1](../../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+See: [Chapter One §17.1](../../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 
 **A trust score is not whether you count.**
 - **Today:** No score, or a low score, is treated as not counting.

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| **Corpus edition** | `SC-Corpus-2026.08.09` |
-| **Effective date** | 2026-08-09 |
+| **Corpus edition** | `SC-Corpus-2026.10.12` |
+| **Effective date** | 2026-10-12 |
 | **Status** | **Pre-release.** A working draft, not yet a final published edition. Section links may still change. |
 | **License** | [CC BY 4.0](LICENSE) |
 
@@ -27,7 +27,7 @@ What "not yet in effect" means: [Is this in effect? ↓](#is-this-in-effect)
 
 [Español](translations/es/README.md) · [हिन्दी](translations/hi/README.md) · [العربية](translations/ar/README.md) · [Bahasa Indonesia](translations/id/README.md) · [中文](translations/zh/README.md) · [Português](translations/pt/README.md) · [বাংলা](translations/bn/README.md) · [Français](translations/fr/README.md) · [اردو](translations/ur/README.md) · [Русский](translations/ru/README.md) · [日本語](translations/ja/README.md) · [Türkçe](translations/tr/README.md) · [मराठी](translations/mr/README.md) · [Tiếng Việt](translations/vi/README.md) · [فارسی](translations/fa/README.md) · [తెలుగు](translations/te/README.md) · [한국어](translations/ko/README.md) · [தமிழ்](translations/ta/README.md) · [ไทย](translations/th/README.md)
 
-These are early draft translations and do not cover every chapter yet. Where a translation and the English text differ, the English text is the one that counts. [All languages and what's available](translations/README.md) · [Help translate](CONTRIBUTING.md#lane-f--translations)
+These are early draft translations and do not cover every chapter yet. Translations are paused while the English text is still changing, so they trail it and do not reflect recent edits. Where a translation and the English text differ, the English text is the one that counts. [All languages and what's available](translations/README.md) · [Help translate](CONTRIBUTING.md#lane-f--translations)
 
 ## What is this?
 
@@ -42,7 +42,12 @@ The Sentient Constitution is a written framework meant to prevent that. It asks 
 
 The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 28 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems are held to the same standard.
 
-Two questions run through all of it, and anyone can put them to a system they know. Does it reward conduct that helps sentients flourish and endure, tells the truth, and repairs harm? Does it reward conduct that unjustifiably harms, misleads, excludes, delays, wastes, or shifts costs onto others? A system passes only if the first answer is yes and the second is no. What counts as helping, harming, fair, or justified is judged by the Constitution's own standards, not by the system. These are the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions); [What Systems Reward](core_00_preamble.md#what-systems-reward) explains them.
+Two questions run through all of it, and anyone can put them to a system they know:
+
+1. Does it reward conduct that helps sentients flourish and endure, tells the truth, and repairs harm?
+2. Does it reward conduct that unjustifiably harms, misleads, excludes, delays, wastes, or shifts costs onto others?
+
+A system passes only if the first answer is yes and the second is no. What counts as helping, harming, fair, or justified is judged by the Constitution's own standards, not by the system. These are the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions); [What Systems Reward](core_00_preamble.md#what-systems-reward) explains them.
 
 The Constitution calls everyone it protects **sentients**, because it does not assume that only humans count. See [Who counts, and who decides?](implementation/FAQ.md#3-who-counts-and-who-decides)
 
@@ -199,8 +204,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 ### Editor and operator resources
 
 - Editor map, ownership, stable IDs, and definition discipline: [doc_architecture.md](doc_architecture.md)
-- Reader-support pages and who each is for: this README (front door for everyone) · [START_HERE.md](START_HERE.md) (would-be adopters and operators) · [CONCEPTUAL_OVERVIEW.md](guides/CONCEPTUAL_OVERVIEW.md) (big-picture map, second step) · [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md) (record families and traceability)
-- Record map (record families, evidence, custody, challenge routes): [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md)
+- Reader-support pages and who each is for: this README (front door for everyone) · [START_HERE.md](START_HERE.md) (would-be adopters and operators) · [CONCEPTUAL_OVERVIEW.md](guides/CONCEPTUAL_OVERVIEW.md) (big-picture map, second step) · [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md) (record families, evidence, custody, challenge routes, and traceability)
 - Process map of certification, standing measurement, forums, and remedy: [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md)
 - Process guides (challenge, independent review, certification, help and harm, crisis clocks): [easy_entry process guides](implementation/adoption/easy_entry/README.md#process-guides)
 - Steward entry doors: [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md)

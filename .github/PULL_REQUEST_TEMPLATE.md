@@ -37,7 +37,7 @@ lane-specific targets    →  (steward-door-lockstep-audit, obligation-diff, ali
 - [ ] No duplicate definition or restated obligation; pointers used instead
 - [ ] Vocabulary guardrails followed (`doc_architecture.md` § Plain-Language Vocabulary Guardrails)
 - [ ] Derived artifacts regenerated and committed with the source change, or none affected
-- [ ] Edition label `SC-Corpus-2026.08.09` untouched; pre-release status untouched
+- [ ] Edition label moved only with `make edition-bump` (it is the current date until the announcement); pre-release status untouched
 - [ ] No fossil anchors; every inbound link to a renamed heading fixed
 - [ ] Evidence (if any) under `evidence/<YYYY-MM-DD>/` and linked below
 - [ ] Lane C / D only: `make obligation-snapshot` before and `make obligation-diff` after; diff linked below

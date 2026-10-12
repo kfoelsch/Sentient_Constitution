@@ -4,7 +4,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.08.09`
+> **Corpus edition pin:** `SC-Corpus-2026.10.12`
 > **Status:** current
 >
 > This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
@@ -61,7 +61,7 @@ See: [Preamble §3.3](../../../core_00_preamble.md#33-governance-layers).
 - **Today:** The plan is to buy so many of the other companies in the same business, or so much of the one marketplace others have to use, that rivals cannot really enter, customers cannot really switch, and workers cannot really leave. That is sold as ordinary returns.
 - **With this Constitution:** Getting big by building something useful is fine. Buying so much of a market that others cannot really enter, switch, or leave is still a failure — even if the shareholders of those companies voted yes on each buy.
 
-See: [Chapter One §9.2](../../../core_01_a_values_principles.md#112-pro-competition-and-anti-domination).
+See: [Chapter One §11.2](../../../core_01_a_values_principles.md#112-pro-competition-and-anti-domination).
 
 **Markets remain above the survival floor.**
 - **Today:** Any floor is “anti-investor.”
@@ -79,7 +79,7 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 
 - **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §16.1.1](../../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
+- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §17.1](../../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
 
 ## What this will not pretend to give you
 

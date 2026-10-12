@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the Charter fill-in, and the non-institution banner **cannot narrow core text**. A filled template that diverges from [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template), [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption), or [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start at [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) for two parties or a first qualifying body, or [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) for more than two. Use this page when cooperating sentients are ready to found an institution under that path. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Binding Charter fields: [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template).
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) (*Charter contents, review, and formation template*); [Charter](../../core_05_band_continuity.md#charter) (*Chapter Five scope instrument*); [System Creation](../../core_05_band_participation.md#system-creation); [Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) (*aligned self-organization; no self-appointment*); [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Preamble §3.3](../../core_00_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption); [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
+- Upstream: [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) (*Charter contents, review, and formation template*); [Charter](../../core_05_band_continuity.md#charter) (*Chapter Five scope instrument*); [System Creation](../../core_05_band_participation.md#system-creation); [Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) (*aligned self-organization; no self-appointment*); [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Preamble §3.3](../../core_00_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption); [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-two-tracks-do-not-merge); [§1.1](#11-track-b-function-pointers-same-kit); [§4](#4-formation-cliffs-not-a-slope); [§5](#5-chapter-five-charter-fill-in-not-a-live-charter).
 - Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation — not this kit*); [CI-3](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md); [CI-4](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md); [CI-6](../../corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md); [CI-7](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md); [CI-9.1](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-91-formation-proportionality); [CI-14](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role); [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) (*binding forum formation*).
 
@@ -55,7 +55,7 @@ This kit also does **not**:
 - **Create a real institution**
   - The form in [§5](#5-chapter-five-charter-fill-in-not-a-live-charter) is a draft. It is not a live Charter until the body that will actually run the institution publishes it in **its** records.
   - A shared note, group chat, or “we are the oversight body now” file does not make you one.
-  - Starting useful work does not make the founding group the boss of other people ([Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)).
+  - Starting useful work does not make the founding group the boss of other people ([Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - **Bind people who did not agree, or mint official files**
   - Host products, labs, vendors, platforms, and other sentients who did not consent are not bound.
   - This page does not create a Chapter Nine standing record (the formal file of contribution or harm), a Chapter Eight system-alignment certificate, or a final decision on the merits.
@@ -76,7 +76,7 @@ This kit also does **not**:
 | **A. Ordinary formation** | A cooperative, mutual-aid network, research body, commons body, or other non-commercial institution under [System Creation](../../core_05_band_participation.md#system-creation); or a commercial form under [Business Creation](../../core_05_band_participation.md#business-creation). Cooperatives and commons also read [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). | Not governing authority over non-consenters. Not a forum family. Not CS-10 phase entry. | A qualifying body can bind the named scope, publishes a Chapter Five Charter meeting [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) in **its** custody, and passes the [§4](#4-formation-cliffs-not-a-slope) cliffs. A Chapter Sixteen instrument is **not** required to exist as an ordinary institution. |
 | **B. Constitutional-function machinery** | Oversight, standing and challenge routes, amendment and oversight machinery, and other ordinary constitutional operations named in [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization). Name the function in [§1.1](#11-track-b-function-pointers-same-kit). | Not headcount of cooperating parties. Not interim authority dressed up as maturity. Not forums (those are [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) / [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) / [Chapter Twelve](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)). Not a new kit per function. | A qualifying adopter already holds a recorded [§10.1–§10.2](../../core_16_amendment_ratification.md#101-deliberate-adoption) instrument. Then the same Charter / lane / cliff path as Track A, scaled to the function’s class. Drafting Track B before an instrument is scaffolding only. |
 
-**Same duties for both kinds of steward.** [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 **Layer check.** Founding who may govern, by what legitimacy mechanism, on what durable terms, is [Constitutional Contract Layer](../../core_00_preamble.md#33-governance-layers) work. Giving affected sentients voice, contest, and due process *inside* an already-authorized body is Stakeholder System Participation. Do not use a participation vote as a substitute for authorization, and do not treat authorization as wiping participation duties.
 
@@ -136,7 +136,7 @@ The first-adopter kit’s [three substeps](FIRST_ADOPTER_KIT.md#1-three-substeps
 
 Use this after the parties know which track they are on. Two parties start from [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). More than two start from [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md).
 
-1. **Pin the edition.** Name `SC-Corpus-2026.08.09` unless a later publication cut exists. Do not mix editions.
+1. **Pin the edition.** Name `SC-Corpus-2026.10.12` unless a later publication cut exists. Do not mix editions.
 2. **Name the body and the track.** Ordinary formation (Track A) or constitutional-function machinery (Track B). If Track B, name the function in [§1.1](#11-track-b-function-pointers-same-kit) and read that owner. Do not open a new kit. If Track B and there is no recorded instrument, stop at scaffolding. Attach the [non-institution banner](#9-non-institution-banner).
 3. **Name classification honestly.** [CI-9.1](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-91-formation-proportionality): low-impact scopes stay simple; high-dependency **Class A** / **Class B** scopes take deeper diligence. Do not pick a lower class to dodge burden. If class is not yet known, say so; auditability still scales with material impact.
 4. **Fill the Chapter Five Charter fields** in [§5](#5-chapter-five-charter-fill-in-not-a-live-charter). Copy the completed block into the body’s custody. Leaving a filled copy in this repo is not publication.
@@ -145,7 +145,7 @@ Use this after the parties know which track they are on. Two parties start from 
 7. **If the work is a forum family, leave this kit.** Open [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Binding formation stays in [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md). See [§7](#7-forums-are-not-this-kit).
 8. **After a live Charter**, use [§8](#8-after-a-live-charter) for CS-10, CI-14, and the Article XXVIII-B progress measure.
 
-[Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) still lets sentients *start* low-risk work without incumbent permission. Starting that work is not appointment to governing authority.
+[Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) still lets sentients *start* low-risk work without incumbent permission. Starting that work is not appointment to governing authority.
 
 ---
 
@@ -165,7 +165,7 @@ Advancement from a draft to a live institution must **not** rest on elapsed time
 | **Independent review** | A published backup, external reviewer, or forum family the founding crew does not solely staff. [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture); [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity). Keep [Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. | The only merits path is the founding crew. |
 | **Legitimacy (if governing)** | If the body will exercise governing authority, a documented [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) mechanism is published. A polity also needs the [§10.1](../../core_16_amendment_ratification.md#101-deliberate-adoption) affected-sentient participation check. | Silence, usage, marketing alignment, or “more of us now.” A Chapter Five Charter offered as that mechanism. |
 | **Remedy capacity** | Practical capacity to deliver challenge and redress ([Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems)). | Named routes with no capacity. |
-| **No self-appointment** | Effects that bind others, certify, or decide merits use the separate lawful authority assigned by this Constitution ([Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)). | “We founded it, so we govern it.” |
+| **No self-appointment** | Effects that bind others, certify, or decide merits use the separate lawful authority assigned by this Constitution ([Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)). | “We founded it, so we govern it.” |
 
 Fail any row: attach the [non-institution banner](#9-non-institution-banner). Ordinary cooperation may continue as operations-guide use plus declarations.
 
@@ -201,7 +201,7 @@ It is not CS-10 phase entry.
 It is not a forum family.
 
 CHAPTER FIVE CHARTER (complete in the body's custody)
-Corpus edition pin: SC-Corpus-2026.08.09 (or later named publication cut)
+Corpus edition pin: SC-Corpus-2026.10.12 (or later named publication cut)
 Track: A ordinary formation / B constitutional-function machinery
 If Track B: recorded Chapter Sixteen instrument (where it lives):
 If Track B, function (pick one; same kit — §1.1):
@@ -288,7 +288,7 @@ Attach this to any working-group note, draft org chart, or “we are founding an
 
 ```text
 NON-INSTITUTION BANNER
-Corpus edition pin: SC-Corpus-2026.08.09
+Corpus edition pin: SC-Corpus-2026.10.12
 Date:
 
 This file is formation scaffolding and/or operations-guide cooperation.
