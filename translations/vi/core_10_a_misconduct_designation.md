@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Mười, Phần A tiếng Anh](../../core_11_a_misconduct_designation.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Mười, Phần A** — khung quyết định chỉ định, bộ tiêu chí, gắn chỉ định Trục Vi phạm `s = 7–9`, bảo vệ thủ tục đúng đắn, biện pháp khắc phục, khóa phòng, và biểu đạt trách nhiệm giải trình công tự nguyện. **Phần B** — ứng dụng mẫu đã đặt tên và định tuyến tiêu chí — nằm ở [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
@@ -33,8 +31,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): bản đồ xuyên chương và thứ tự đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Dưới [mục tiêu Liên tục](core_00_preamble.md#continuity), rà soát chỉ định bảo vệ vận hành hiến pháp tầm dài khi hành vi tác động cao nhất đe dọa làm rỗng [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **tham gia**, **giám sát**, **trách nhiệm giải trình**, và **kịp thời** — dưới yêu cầu [lợi hại vật chất](core_00_preamble.md#material-stake).
 >
 > **Bản đồ xuyên chương**

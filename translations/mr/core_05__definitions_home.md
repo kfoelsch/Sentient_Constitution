@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">संग्रहस्थान (असंक्रियात्मक): फाइल रचना आणि वाचन नियम</span></strong></summary>
 
-> खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
->
 > ही फाइल [इंग्रजी अध्याय पाच, भाग अ](../../core_05__definitions_home.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_05__definitions_home.md`](../../core_05__definitions_home.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
 > **मागील (या भाषेत):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">वाचक मार्गदर्शन (असंक्रियात्मक): वाचन क्रम आणि सोप्या-भाषा टीप</span></strong></summary>
 
-> खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या अध्यायात किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
->
 > सोप्या-भाषा वाचन टीप: उच्च-स्तरीय मूल्ये आणि दिशेसाठी **अध्याय एक** वाचा; व्याख्या रचना, सचोटी आणि सत्यापन यांत्रिकीसाठी **अध्याय दोन ते चार**; पायाभूत **अधिकार**-तळासाठी **अध्याय सहा**; मग अर्थनिर्णय, लेखापरीक्षण आणि न्यायनिर्णयात पद-अचूकतेसाठी या अध्यायाकडे परत या. (इतर अध्याय, **अध्याय दहा** *दुराचरण* आणि **अध्याय आठ** *प्रस्थिति* धरून, आपल्या स्वतःच्या वाचन मार्गांवर लागू होतात; ते अध्याय सहाच्या अधिकार-तळाची किंवा अध्याय दोन ते चारच्या व्याख्या-यांत्रिकीची जागा घेत नाहीत.)
 
 </details>
@@ -210,6 +206,7 @@
 - [संयोग खेळ](../../core_05_band_accountability.md#game-of-chance)
 - [गेट](../../core_05_band_oversight.md#gate)
 - [गेट निकष](../../core_05_band_oversight.md#gate-criteria)
+- [कार्यरत प्रारंभ](../../core_05_band_continuity.md#go-live)
 - [सद्भावना](../../core_05_band_accountability.md#good-faith)
 - [शासन](../../core_05_band_accountability.md#governance)
 - [श्रेणीबद्ध क्षमता](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -231,7 +228,9 @@
 - [नवोपक्रम बक्षीस आणि आच्छादन-निरोध](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [अंतर्गत लाभ](../../core_05_band_accountability.md#insider-advantage)
 - [अवतरण संमती](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [संस्था](../../core_05_band_continuity.md#institution)
 - [संस्थात्मक विकास](../../core_05_band_continuity.md#institutional-development)
+- [हितसंबंधित पक्ष](../../core_05_band_accountability.md#interested-party)
 - [आंतर-पिढी उत्तरदायित्व](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [अपरिवर्तनीय वंचितता माप](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [अपरिवर्तनीय हानी](../../core_05_band_accountability.md#irreversible-harm)
@@ -275,10 +274,12 @@
 - [सहभागी प्रस्थिति](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [सहभाग](core_05_apex_participation_leg.md#participation-constitutional)
 - [व्यक्तिमत्व](../../core_05_band_participation.md#personhood)
+- [पायलट](../../core_05_band_continuity.md#pilot)
 - [प्रेस आणि पत्रकारिता](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [प्राथमिक-दाव मार्गनिर्देशन](../../core_05_band_accountability.md#primary-stakes-routing)
 - [गोपनीयता (सूचनात्मक)](../../core_05_band_continuity.md#privacy-informational)
 - [प्रक्रियात्मक न्याय्यपणा](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [प्रक्रिया](../../core_05_band_continuity.md#process)
 - [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality)
 - [प्रमाणबद्ध आंतर-प्रणाली योगदान](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -436,8 +437,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">वाचक मार्गदर्शन (असंक्रियात्मक): प्रस्तावना मापन क्रॉसवॉक</span></strong></summary>
 
-> खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या अध्यायात किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
->
 > [प्रस्तावना §2](core_00_preamble.md#measurements-overview) सात संवैधानिक **मापन वर्ग** सूचीबद्ध करते — प्रणाली मूल्यमापन करताना संचालक विचारतात ते प्रश्न. अध्याय पाच **प्रामाणिक व्याख्या** चतुष्क पाया, **सातत्य** उद्दिष्ट, आणि **एकात्मक** क्रॉस-पाया मालकीनुसार संघटित करतो. खालील तक्ता प्रत्येक मापन वर्ग त्याच्या अध्याय-पाच घरांशी जोडतो. एक वर्ग एकाहून अधिक पट्टी फाइल व्यापू शकतो; मापन वर्ग एकमेकांवर येतात तेव्हा प्रामाणिक घर हलत नाहीत.
 >
 > **भौतिकता** ([भौतिकता निर्धारण](../../core_05_band_oversight.md#materiality-determination)) एकात्मक आहे — [भौतिक दाव](core_00_preamble.md#material-stake) खाली सर्व मापन कुटुंबांना प्रमाणित करणारे आडवे उंबरठा-द्वार; खालील तक्तात तो वेगळा वर्ग नाही.

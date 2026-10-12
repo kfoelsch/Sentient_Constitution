@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">کارپس میں مقام (غیرِ عملی): فائل کی ساخت اور پڑھنے کے قواعد</span></strong></summary>
 
-> نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
->
 > یہ فائل [انگریزی باب دوم](../../core_02_definition_structure.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_02_definition_structure.md`](../../core_02_definition_structure.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > **پچھلا (اس لوکیل):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">قارئین کی رہنمائی (غیرِ عملی): تعریف کا ڈھیر اور باب دوم کہاں رہتا ہے</span></strong></summary>
 
-> نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
->
 > باب **دوم تا پنجم** آئینی تعریف کا ڈھیر بناتے ہیں؛ **[CJS](../../corpus_joint_structure.md)** وہ عملی تعریفیں اٹھاتا ہے جو اسے لاگو کرتی ہیں:
 > - **باب دوم (یہ فائل)** — O/M/A/C تعریف کی ساخت اور اجزا کی ہم آہنگی: ہر تعریف **وجودی (O)** (یہ کیا ہے)، **پیمائش (M)** رجسٹر جو **جائزہ (A)** کے فرض کے ساتھ بُنا ہوا ہے (اسے کیسے ناپنا اور جانچنا چاہیے)، اور **اطاعت (C)** (کیا قائم رہنا چاہیے) کو جوڑتی ہے ([§1 مقصد اور کردار](core_02_definition_structure.md#1-purpose-and-role)؛ [§2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-definition-integrity-requirement))۔
 > - **باب سوم** — تعریف کی سالمیت، فرار، اور عدمِ اطاعت ([باب سوم](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance))۔

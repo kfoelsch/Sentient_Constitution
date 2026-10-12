@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">جایگاه در پیکره (غیرعملیاتی): ساختار پرونده و قواعد خواندن</span></strong></summary>
 
-> مطالب زیر **فقط راهنمای خواننده** است. این مطالب تعهدات الزام‌آور این پرونده یا فصل‌های دیگر را اضافه، حذف یا محدود نمی‌کند.
->
 > این پرونده **بخشی از قانون اساسی سنتینت** است و فقط هنگامی الزام‌آور است که همراه با دیگر پرونده‌های شماره‌دار `core_*` به‌عنوان یک سند واحد خوانده شود. این پرونده شامل **فصل یک، بخش C** است (§§16–20: سرپرستی، حکمرانی، همسوسازی مشوق‌ها و تسخیر سیستم، و جمع‌بندی کاربرد یکپارچه).
 >
 > **بخش پیشین:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (فصل یک، بخش B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">راهنمای خواننده (غیرعملیاتی): سلسله‌مراتب اصول و مسیر مطالعه (بخش C)</span></strong></summary>
 
-> مطالب زیر **فقط راهنمای خواننده** است. این مطالب تعهدات الزام‌آور این پرونده یا فصل‌های دیگر را اضافه، حذف یا محدود نمی‌کند. ابزارک‌های **ردیابی** و **تعاریف · ارزیابی · انطباق** در هر بخش، در نقطه‌ای مسیر را نشان می‌دهند که آن § اصطلاحی را به‌طور ماهوی به کار می‌گیرد؛ این بلوک پیش از §§16–20 نقشه‌ای در سطح بخش است.
+> ابزارک‌های **ردیابی** و **تعاریف · ارزیابی · انطباق** در هر بخش، در نقطه‌ای مسیر را نشان می‌دهند که آن § اصطلاحی را به‌طور ماهوی به کار می‌گیرد؛ این بلوک پیش از §§16–20 نقشه‌ای در سطح بخش است.
 
 **سلسله‌مراتب اصول (بخش C).** در سطح اصول:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - پیوندهای پیشین: [§۱۷ سرپرستیِ دارای پیامدهای مهم](#17-consequential-stewardship-the-steward-role) (*ستون ۱*); [§۱۶ بررسی ژرف‌نگرانه سرپرستی](#16-stewardship-in-depth) (بخش مادر، از جمله توضیح ساده و چارچوب ستون ۳ در بالا); [۵ حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [۶ اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - همراه با این بخش بخوانید: [چهارگانه قانون اساسی](core_00_preamble.md#constitutional-tetrad) — مؤلفه **مشارکت** ([خودآیینی معنادار](core_05_band_participation.md#meaningful-agency)، [خودآیینی آموزشی](core_05_band_participation.md#educational-agency))؛ مؤلفه **نظارت** ([شفافیت](core_05_band_oversight.md#transparency)، [ممیزی‌پذیری](core_05_band_oversight.md#auditability))؛ مقیاس‌بندی بر پایه [اهمیت مادی](core_00_preamble.md#material-stake).
-- مدخل سرپرست (غیرعملیاتی): کارت گام بعدی: [فهم‌پذیری](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). این کارت نمی‌تواند دامنه قانون اساسی را محدود کند.
+- مدخل سرپرست (غیرعملیاتی): کارت گام بعدی: [فهم‌پذیری](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - پیوندهای بعدی: [۱۳.۲ محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)؛ به‌ویژه سطح حقوق [ماده شانزدهم: ممیزی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) و [ماده بیست‌ودوم: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - پیشینه: [§۱۷ سرپرستی پیامدآفرین](#17-consequential-stewardship-the-steward-role)؛ [§۱۶ سرپرستی ژرف](#16-stewardship-in-depth)؛ [§۱۸ حکمرانی تحت انضباط سرپرستی](#18-governance-under-stewardship-discipline).
 - همراه با این بخش بخوانید: [عدم محروم‌سازی بر پایۀ ذی‌شعوربودن](core_05_band_participation.md#sentience-non-exclusion) و [طبقۀ بستر](core_05_band_participation.md#substrate-class) (*کاربرد مستقل از بستر — این زیربخش صاحبان وظیفه را مقید می‌کند، از جمله عاملان و اپراتورهایی که به‌عنوان موجودات ذی‌شعور شناخته نشده‌اند*); [زنجیرۀ اختیارات و سلسله‌مراتب داخلی](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [محدودیت قانون اساسی](core_05_band_integrative.md#constitutional-constraint)؛ [اعتراض‌پذیری](core_05_band_accountability.md#contestability)؛ [§۱۷.۵ وظیفۀ مقاومت](#175-duty-to-resist).
-- درگاه سرپرست (غیرعملیاتی): کارت گام بعد [سرپرستی مشترک](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). این کارت نمی‌تواند قانون اساسی را محدود کند.
+- درگاه سرپرست (غیرعملیاتی): کارت گام بعد [سرپرستی مشترک](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - مباحث بعدی: [§۱۷.۲ هم‌راستایی زیر فشار](#172-alignment-under-pressure)؛ [§۱۷.۳ ثبت نقش، نه سرپرست](#173-logging-the-role-not-the-steward)؛ [فصل سیزدهم §۵ — نقش‌های مجاز، توسعۀ شایستگی و مشارکت](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [فصل هفدهم](core_17_incorporation.md) (*متن اجراییِ مصوب، قواعد را اجرا می‌کند؛ جایگزین آن‌ها نمی‌شود*); [§۱۹.۱.۳ کاربرد سرپرستی و اپراتور](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - مبانی پیشین: [§17 سرپرستیِ پیامدآفرین](#17-consequential-stewardship-the-steward-role)؛ [§17.1 معیار مشترک سرپرستی](#171-shared-stewardship-standard) (*این وظیفه چه کسانی را ملزم می‌کند*)؛ [§17.2 هم‌سویی زیر فشار](#172-alignment-under-pressure) (*دستورِ پوششی به‌عنوان آزمونی ناموفق*)؛ [4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint) و [5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - همراه با این موارد بخوانید: [سلسله‌مراتب اختیارات و ترتیب داخلی](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [گزارش‌دهیِ حمایت‌شده (افشاگری)](core_05_band_accountability.md#protected-reporting-whistleblowing)؛ [مادهٔ XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*خط مبنای قابلیت اتکا و اعتمادپذیری*) — مسیرهای اعتراض هنگام مقاومت باز می‌مانند.
-- درگاه سرپرست (غیرعملیاتی): کارت گام بعدی: [دستور غیرقانونی](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). این کارت نمی‌تواند قانون اساسی را محدود کند.
+- درگاه سرپرست (غیرعملیاتی): کارت گام بعدی: [دستور غیرقانونی](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - پیامدهای بعدی: [فصل دهم §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*وظیفهٔ مقاومت — قاعدهٔ نقض و آثار بر جایگاه*)؛ [CS-4 §10 کنشِ قابل بازرسی و قابل انتساب](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*کنشِ قابل بازرسی و قابل انتساب — حداقل سابقهٔ امتناع*).
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - پایین‌دست: [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency) و [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - پایین‌دست: [§13.3 به‌حداقل‌رسانی بار قابل‌اجتناب](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)؛ [فصل سیزدهم §5 — نقش‌های مجاز، توسعه شایستگی و مشارکت](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](corpus_systems.md)، CS-4 — سرپرستی سامانه حیاتی**.
 - پایین‌دست: سطح حقوق مربوط به عاملیت، مشارکت، هم‌راستاسازی مشوق‌ها، سلامت حوزه اطلاعاتی، جایگاه حقوقی و بازبینی ضدتسخیر را در [فصل ششم: حقوق بنیادین](core_06_rights_part_a.md#chapter-six-foundational-rights) هدف می‌گیرد؛ به‌ویژه [ماده X: خودتعیین‌گری، عاملیت و مشارکت](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [ماده XII: مشارکت ذی‌نفعان در سامانه، نمایندگی و دادرسی منصفانه](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)، [ماده XIII-D: قید هم‌راستاسازی مشوق‌ها](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)، [ماده XV: سلامت حوزه اطلاعاتی](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [ماده XIX: جایگاه حقوقی و وضعیت مشارکت](core_06_rights_part_d.md#article-xix-standing-and-participation-status)، و [ماده XXIV: تفسیر قانون اساسی، بازبینی و تدابیر حفاظتی ضدتسخیر](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- درگاه سرپرست (غیرعملیاتی): کارت گام بعدی: [هم‌راستاسازی مشوق‌ها](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). این کارت نمی‌تواند قانون اساسی را محدود کند.
+- درگاه سرپرست (غیرعملیاتی): کارت گام بعدی: [هم‌راستاسازی مشوق‌ها](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

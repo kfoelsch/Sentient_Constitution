@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Bốn tiếng Anh](../../core_04_burden_traceability_verification.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > **Trước (ngôn ngữ này):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): nơi Chương Bốn sống và điều gì ở lại đây</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở chương này hay ở các chương khác.
->
 > Nơi cái này sống (điều hướng):
 > - **Bản đồ Tứ diện:** Phân bổ gánh, bằng chứng, truy vết, khả năng quan sát, và xác minh triển khai các trụ **giám sát** và **trách nhiệm giải trình** của [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) lập ở [Lời nói đầu](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **tham gia** nơi đòi có trọng qua khả năng quan sát thực tiễn và tranh biện độc lập dưới mục **3** và **4**. Yêu cầu chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake).
 > - **Chủ sở hữu hiến pháp:** phân bổ gánh, bằng chứng tuân thủ, truy vết định nghĩa, khả năng quan sát, và xác minh dưới giới hạn an ninh. **Chương Tám** nắm kỷ luật hồ sơ quỹ đạo và đầu vào đã xác minh đọc cùng chương này.

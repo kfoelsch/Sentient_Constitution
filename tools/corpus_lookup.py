@@ -17,6 +17,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+from section_crossref_format import expand_edges
+
 HYDRATE_CAP = 250
 CITATOR_CAP = 30
 PREFIX_CAP = 50
@@ -647,7 +649,7 @@ def cmd_citator(
     wanted = normalize_anchor(anchor) if anchor else None
     outbound: list[dict[str, Any]] = []
     inbound: list[dict[str, Any]] = []
-    for edge in indexes.crossref.get("edges", []):
+    for edge in expand_edges(indexes.crossref):
         if (
             edge.get("source_file") == source_file
             and (wanted is None or normalize_anchor(edge.get("source_anchor")) == wanted)

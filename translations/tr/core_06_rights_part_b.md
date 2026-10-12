@@ -1959,6 +1959,87 @@ Bu Madde, ele geçirmeye karşı güvenceyi ve bunun görevlerin ayrılığıyla
 
   Bir sentient, makam veya blok ayrılması gereken koltukları elinde tutarsa ya da bu koltukları tutanları kontrol ederse, bu durum da bu Madde kapsamında yapısal ele geçirme göstergesidir.
 
+
+#### Madde XII-E: Etki Teması ve Lobicilik Sınırları
+
+<details>
+<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+
+- Üst kaynaklar: Birinci Bölüm İlkeleri: [§5 Doğruluk](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Emanet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) ve [§19 Teşviklerin Uyumlaştırılması ve Sistem Ele Geçirme](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Birlikte okuyun: [Madde XII-D](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Ele Geçirmeyi Önleme Güvenceleri*); [Madde XII-B](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Ağırlıklı Katılım ve Sembolik Katılıma Karşı Kısıtlar*); [Madde X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Faillik ve Manipülasyondan Özgürlük*); [Madde IX-A](../../core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Görüntü ve İtibarın Öz Sahipliği*); [Madde XIII-E](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*Yüksek Özerklikli Sistemler ve Araç Aracılı Süreç Bütünlüğü*); [Madde XV](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Bilgi Alanı Bütünlüğü*); [On Birinci Bölüm §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*Alanı doldurma ve itiraz yolunu engelleme*), [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*Bilgi alanını doldurma*) ve [§5.5](../../core_11_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Rüşvet ve uygunsuz menfaat alışverişi*); [Yedinci Bölüm](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties); [On Üçüncü Bölüm §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Uygunluk, itirazlı seçim ve demokratik asgari standartlar*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyumluluk</span></strong></summary>
+
+- [Sistem Ele Geçirme](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Ele Geçirmeyi Önleme](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [İtiraz Edilebilirlik](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Denetlenebilirlik](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Usul Adaleti](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [İlgili Taraf](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+
+</details>
+
+<br>
+
+*Sade anlatımla: **Madde XII-E** (*Etki Teması ve Lobicilik Sınırları*), menfaati olan sentientlerin karar verenlere nasıl başvurabileceğine ilişkin asgari standardı belirler. Açık savunuculuk korunur. Özel, kayda alınmamış, satın alınmış, sahte veya makinelerle çoğaltılmış etki korunmaz: temas kayda alınır ve açıklanır; menfaat teklifleri ve tehditler çıkar çatışmasıdır; hakkında karar verdiğiniz taraftan sonradan iş almak için bekleme süresi geçmelidir; sistemin teması da ne olduğunu ve kimin adına hareket ettiğini belirtmelidir.*
+
+Bu Madde; karar veren, inceleyen, denetleyen, tedarik yapan veya kararı destekleyen sentientlere ve sistemlere **ilgili tarafların** nasıl başvuracağını düzenler. [**Madde XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Ele Geçirmeyi Önleme Güvenceleri*) kapsamında belirtilen kapsamdaki organlara, bunların **atama yetkililerine** ve **benimseyen kurumlarına**, [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) doğrultusunda uygulanır:
+
+- **Serpilme:** Etkilenen sentientler, parası, personeli veya araçları olmasa da dinlenmek için gerçek ve açık bir yola sahip olur; kararlar özel erişime değil açık kayda dayanır.
+- **Süreklilik:** Karar veren organlar; özel erişim, menfaat teklifleri, sonraki işler, sahte destek veya büyük ölçekli otomasyondan kaynaklanan örtülü etkiye zaman içinde dirençli kalır.
+
+Meşru savunuculuk [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) üzerinden yürür ve [maddi menfaate](core_00_preamble.md#material-stake) göre ölçeklenir:
+
+- **Katılım:** Açık savunuculuk, dilekçe ve kamuoyu görüşü korunur; etkilenen sentientler kendilerini dinlemesi gereken her organa erişebilir.
+- **Gözetim:** Temas kayıtları, konu kaydındaki açıklamalar ve karara katkı veren sistemlere ulaşan girdi malzemelerinin kayıtlarıyla sağlanır.
+- **Hesap Verebilirlik:** İlgili taraflar, operatörler ve organlar; özel başvurular, gizli temaslar, uydurulmuş sesler ve menfaat teklifleri için hesap verir.
+- **Zamanlılık:** Temas, diğer katılımcıların yanıt verebileceği zamanda açıklanır.
+
+*İlgili maddeler:*
+
+- **Ele geçirmeyi önleme tabanı:** [**Madde XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Ele Geçirmeyi Önleme Güvenceleri*) oluşumu, çıkar çatışmalarını, çekilmeyi, dış incelemeyi ve görevden almayı düzenler. Bu Madde, ilgili tarafların aynı organlara başvurmalarına ilişkin kuralları ekler.
+- **Katılımın ağırlığı:** [**Madde XII-B**](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Ağırlıklı Katılım ve Sembolik Katılıma Karşı Kısıtlar*) göstermelik katılımı yasaklar. Bu Madde uyarınca temas hacmi de destek anlamına gelmez.
+- **Sistemler ve bilgi:** [**Madde XIII-E**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*Yüksek Özerklikli Sistemler ve Araç Aracılı Süreç Bütünlüğü*) sistemleri herkesle aynı kurallara bağlar; [**Madde XV**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Bilgi Alanı Bütünlüğü*) paylaşılan bilgi ortamını düzenler.
+- **Seçim finansmanı:** [On Üçüncü Bölüm §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Uygunluk, itirazlı seçim ve demokratik asgari standartlar*) kampanya, aday gösterme veya rekabetçi atama yoluyla seçimlerin finansman sınırlarını belirler.
+
+Bu Madde aşağıdaki asgari standartları belirler:
+
+- **Kapsam:** Bu standartlar kapsamdaki organlara, **atama yetkililerine** ve **benimseyen kurumlara** uygulanır. Gereklilikler maddi menfaate göre ölçeklenir. Bir konunun açık kaydına sunulan belge etki teması değildir; kaydın kendisidir.
+- **Etki teması sınırları:** Kapsamdaki organlar, **atama yetkilileri** ve **benimseyen kurumları**, **etki teması** kurallarını yayımlamalıdır. Etki teması, derdest veya öngörülebilir bir konuyu açık kaydının dışında biçimlendirmek amacıyla bir [**ilgili tarafın**](../../core_05_band_accountability.md#interested-party) üyeye, paneliste, personel üyesine, kolaylaştırıcıya veya bilgilendirme kaynağına başvurmasıdır. Kurallar maddi menfaate göre ölçeklenmeli ve en azından şunları gerektirmelidir:
+  - her önemli etki temasını **kaydetmek**: kimin, ne zaman, hangi kanaldan, hangi konu hakkında temas kurduğu ve ne istendiği ya da teklif edildiğinin özeti;
+  - kaydı, temas kurulan üyeden, panelistten veya personel üyesinden bağımsız bir görev yerinde tutmak ([Yedinci Bölüm](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties));
+  - diğer katılımcıların yanıt verebilmesi için önemli temasları konu kaydında zamanında **açıklamak**;
+  - kanıt ve savları açık kayıtta tutmak: özel temas, kararın dayandığı kanıt veya savı sağlayamaz;
+  - herhangi bir hediye, menfaat veya gelecekteki rol teklifini ve her tehdidi, sıradan temas olarak değil; açıklanması, reddedilmesi ve **CI-5** (*Çıkar çatışması bütünlüğü, ele geçirmeyi önleme ve yolsuzlukla mücadele*) kapsamında yönlendirilmesi gereken bir çıkar çatışması saymak; ve
+  - kayda geçirilmiş açık savunuculuğu, dilekçeleri ve kamuoyu görüşlerini ve etkilenen sentientlerin kendilerini dinlemesi gereken organlara erişimini korumak. Bu kurallar, etkilenen sentientlerin kendi menfaatleri hakkında söyleyebileceklerini sınırlamak için kullanılamaz.
+- **Hizmet sonrası ve gelecekteki role ilişkin çıkar çatışmaları:**
+  - **Gelecekteki rol çatışması:** Bir üye, panelist veya personel üyesi önünde ilgili tarafın konusu açıkken o [tarafla](../../core_05_band_accountability.md#interested-party) gelecekteki rol, istihdam, sözleşme veya menfaat konusunu görüşmek çıkar çatışmasıdır. Açıklanmalı ve bağımsız bir görev yeri çatışmayı kaldırana kadar ilgili üye, panelist veya personel üyesi çekilmelidir.
+  - **Hizmet sonrası kuralları:** Kapsamdaki organlar ve **benimseyen kurumlar**, maddi menfaate göre ölçeklenen hizmet sonrası kuralları da yayımlamalıdır. Bu kurallar, kişinin ele aldığı bir konuyla bağlantılı olarak ilgili taraftan rol veya menfaat kabul etmesini; bekleme süresi dolana ya da bağımsız bir görev yeri yayımlanmış bir kararla teklifi uygun bulana kadar yasaklar.
+  - **Varsayılan bekleme süresi:** Üyenin, panelistin veya personel üyesinin konudaki son görevinin bitiminden itibaren **beş yıl**.
+  - **Sürenin değiştirilmesi:** Benimseyen kurum daha uzun bir süre belirleyebilir. Daha kısa süre ancak maddi menfaat düşük olduğunda belirlenebilir ve gerekçeleri yayımlanmalıdır.
+- **Otomatik, üretilmiş ve toplu başvurular:** Bir sistem tarafından, sistem aracılığıyla veya sistem ölçeğinde yapılan etki teması diğerleri gibi etki temasıdır; ayrıca şu kurallar uygulanır:
+  - **Atıf:** Sistem tarafından üretilen veya gönderilen temas, sistem aracılığıyla yapıldığını belirtmeli; sistemin adına hareket ettiği **ilgili tarafı** ve buna izin veren sentienti açıklamalıdır. Kendi adına konuşan sentetik sentient de diğer sentientler gibidir. Bir operatör veya başka bir asıl adına hareket ediyorsa temasın sorumluluğu asıl tarafa aittir.
+  - **Yalnızca gerçek sesler:** Hiç kimse kapsamdaki bir organa sahte kimlikle, uydurulmuş bir destekçiyle, taklit veya sentetik ifadeyle ya da icat edilmiş bir taban grubuyla başvuramaz. Bu, bir taraf tek başına ya da birkaç taraf birlikte hareket etse de geçerlidir.
+  - **Yardımcı kullanım:** Kendi mesajını taslak hâline getirmek, çevirmek veya göndermek için sistem kullanan ve mesajı onaylayan sentient kendi temasını kurmuş olur.
+  - **Toplu temas:** Aynı veya büyük ölçüde benzer başvuru bir organa çok sayıda ulaştığında organ bunu tek bir kampanya olarak bir kez kaydeder. Kayıt; sponsoru, finansmanı, yöntemi, hacmi ve doğrulanmış ayrı sentient sayısını belirtir. Hacim destek kanıtı değildir. Organ desteğe yalnızca doğrulanmış ayrı sentientler ölçüsünde dayanabilir.
+    - **“Çok sayıda” için varsayılan eşik:** Organ kendi eşiğini yayımlar. Bu yapılana kadar, aynı veya büyük ölçüde benzer başvurunun bir konuda organ üyelerinin dörtte birinden fazlasına ulaşması ya da aynı ilgili tarafça veya onun adına organa 50 veya daha fazla kez ulaşması çok sayıda sayılır.
+  - **Kanallar:** Kapsamdaki organ, kayda sunulacak girdiler için kimliği doğrulanmış bir kanal yayımlamalıdır. Bu kuralları ihlal eden girdilere hız sınırı koyabilir, kopyaları ayıklayabilir ve bunları ayrı tutabilir. Özel bir kanal üzerinden üye, panelist, personel üyesi, kolaylaştırıcı veya bilgilendirme kaynağına otomatik başvuru yasaktır.
+  - **Karar veren taraftaki sistemler:** Bir organ karar için sistem kullanarak girdi alıyor, sıralıyor, özetliyor veya taslak hazırlıyorsa, karar vericileri bilgilendirmek yerine sistemi yönlendirmeyi amaçlayan başvuru da etki temasıdır. Sunulan malzemede gizli talimatlar, zehirlenmiş veriler ve sıralamayı yanıltmak için tasarlanmış içerikler buna dahildir. Organ sunulan malzemeyi talimat değil kanıt olarak ele almalı, her çıktının kaynak kayda kadar izlenebilir olmasını sağlamalı ve karara katkı veren sisteme hangi gelen malzemelerin ulaştığını açıklamalıdır. İlgili tarafın sistemiyle organın sistemi arasındaki temas, sentientler arasındaki temas gibi kaydedilir.
+  - **Sorumluluk:** İlgili taraf ve sistemi devreye alan operatör temasın sorumluluğunu birlikte taşır. Açık bir risk göz ardı edilmişse bilgisizlik savunma değildir.
+- **Kura organları:** Kura ile seçilen bir organın üyelerine bu standartların en katı düzeyi uygulanır. [On Üçüncü Bölüm](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) gereği açık bilgilendirme kaydı üzerinden yapılan temaslar dışında, konuya ilişkin özel temas yasaktır.
+- **Uygulama ve yönlendirme:**
+  - **Bütünlük tetikleyicileri:** Gizli etki teması, menfaat teklifleri ve uydurulmuş sesler **CI-5** (*Çıkar çatışması bütünlüğü, ele geçirmeyi önleme ve yolsuzlukla mücadele*) ile **CJS-3.6** (*bütünlük güvencesi ve dayanıklılık operasyonları*) kapsamında bütünlük tetikleyicileri olarak yönlendirilir.
+  - **Usulsüzlük yolu:** Sahici olmayan seslerle kasıtlı veya pervasız biçimde alanı doldurma ile rüşvet veya uygunsuz menfaat alışverişi, **İkinci ila Dördüncü Bölümlerin** ve **On Birinci Bölümün** ölçütleriyle doğrulandığında, On Birinci Bölüm kapsamında **anayasa karşıtı usulsüzlük** olarak ileri sürülebilir.
+  - **Bütünlüğe öncelik ve kendi kendini yargılamama:** [**Madde XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Ele Geçirmeyi Önleme Güvenceleri*) içindeki yönlendirme ve kendi kendini yargılamayı önleme kuralları uygulanır. Hiçbir organ, kendi üyelerine veya personeline uygunsuz biçimde başvurulup başvurulmadığı konusunda tek ve nihai karar mercii olamaz.
+- **Kurumsal yönlendirme:** Ayrıntılı kurallar şunlarla düzenlenir:
+  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Atama, yetkinlik, rotasyon ve görevden alma*); hizmet sonrası kuralları için **CI-4.2** (*Rol ölçütleri, atama standartları ve görevden alma yolları*) dahil;
+  - **CI-5** (*Çıkar çatışması bütünlüğü, ele geçirmeyi önleme ve yolsuzlukla mücadele*);
+  - **CJS-3.6** (*bütünlük güvencesi ve dayanıklılık operasyonları*), *etki teması ve lobicilik sınırları*;
+  - forum panelleri için [corpus_forum.md](../../corpus_forum.md) içindeki **CF-4** (*Panel oluşumu, açıklama, çekilme ve hukuka uygun heyet teşkili*) ve **CF-7** (*Bütünlük güvenceleri, ele geçirmeyi önleme operasyonları ve kendi kendini yargılamama desteği*).
+
 ---
 
 **Önceki dosya:** [core_06_rights_part_a.md](core_06_rights_part_a.md)

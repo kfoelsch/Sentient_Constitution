@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > 本文件是[英语第三章](../../core_03_definition_integrity.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > **上一篇（本语种）：** [core_02_definition_structure.md](core_02_definition_structure.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：第三章所在位置与本章保留者</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本章或其他章节中有约束力的义务。
->
 > 本章所在位置（导航）：
 > - **宪法主责者：** 评估工作中的定义完整性、规避与不合规。**第二章**主责结构；**第四章**主责负担与追溯制品；**第五章**主责典范定义。
 > - **实施主责者：** 轨迹记录、评议所过程与实施协议把这些规则操作化，而不取代它们。

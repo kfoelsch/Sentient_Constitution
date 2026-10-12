@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [Capítulo Dez, Parte A em inglês](../../core_11_a_misconduct_designation.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > Contém o **Capítulo Dez, Parte A** — quadro de decisão de designação, conjunto de critérios, anexo de designação do Eixo de Infração `s = 7–9`, salvaguardas de devido processo, remédio, travas de prevenção e expressão pública voluntária de prestação de contas. A **Parte B** — aplicações de padrão nomeadas e roteamento de critérios — está em [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
@@ -33,8 +31,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): mapa entre capítulos e ordem de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Sob o [fim de Continuidade](core_00_preamble.md#continuity), a revisão de designação protege a operação constitucional de horizonte longo quando conduta de máximo impacto ameaça esvaziar a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **participação**, **supervisão**, **prestação de contas** e **atuação em tempo** — abaixo das exigências de [aposta material](core_00_preamble.md#material-stake).
 >
 > **Mapa entre capítulos**

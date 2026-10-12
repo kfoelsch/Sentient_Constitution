@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Position dans le corpus (non opératoire) : structure des fichiers et règles de lecture</span></strong></summary>
 
-> Le contenu qui suit constitue **uniquement un guide de lecture**. Il n’ajoute, ne supprime ni ne restreint aucune obligation contraignante ailleurs dans ce fichier ou dans d’autres chapitres.
->
 > Ce fichier **fait partie de la Constitution sentiente** et n’est **contraignant qu’avec** les autres fichiers numérotés `core_*`, lus comme un instrument unique. Il contient le **Chapitre Un, Partie B** (§§13–15 : Processus de résolution des collisions constitutionnelles, interdiction de la dérogation absolue et interprétation constitutionnelle) — la partie qui maintient intact le Tétrade constitutionnel lorsque des principes entrent en conflit et lors de la lecture de la Constitution.
 >
 > **Précédent :** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapitre Un, Partie A — §§1–12, les objectifs d’Épanouissement et de Continuité)  
@@ -19,7 +17,7 @@
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> Le contenu qui suit constitue **uniquement un guide de lecture**. Il n’ajoute, ne supprime ni ne restreint aucune obligation contraignante ailleurs dans ce fichier ou dans d’autres chapitres. Les widgets **Trace** et **Définitions · Évaluation · Conformité** de chaque section fournissent des liens de navigation et les liens O/M/A/C à l’endroit où chaque § invoque matériellement un terme. Ce bloc constitue plutôt une table de correspondance au niveau du chapitre pour les lecteurs qui terminent la Partie A.
+> **Trace** et **Définitions · Évaluation · Conformité** de chaque section fournissent des liens de navigation et les liens O/M/A/C à l’endroit où chaque § invoque matériellement un terme. Ce bloc constitue plutôt une table de correspondance au niveau du chapitre pour les lecteurs qui terminent la Partie A.
 
 **Vocabulaire de la couche des principes** (emplacements canoniques dans le Chapitre Un (Parties A et B)) :
 
@@ -49,7 +47,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guide de lecture (non opératoire) : comment la Partie B maintient intacte la Tétrade constitutionnelle</span></strong></summary>
 
-> Le contenu qui suit constitue **uniquement un guide de lecture**. Il n’ajoute, ne supprime ni ne restreint aucune obligation contraignante ailleurs dans ce fichier ou dans d’autres chapitres. Les widgets **Trace** de chaque section indiquent les composantes de la Tétrade qu’elle mobilise ; ce bloc est une carte de la Partie destinée aux lecteurs qui abordent la Partie B.
+> **Trace** de chaque section indiquent les composantes de la Tétrade qu’elle mobilise ; ce bloc est une carte de la Partie destinée aux lecteurs qui abordent la Partie B.
 
 **Rôle de la Partie B.** La [Partie A](core_01_a_values_principles.md) développe les [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims). La Partie B n’ajoute ni nouveau principe ni cinquième devoir. Elle maintient intacte la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **participation**, **supervision**, **responsabilité** et **ponctualité**, modulées selon l’[enjeu matériel](core_00_preamble.md#material-stake) — dans trois situations :
 

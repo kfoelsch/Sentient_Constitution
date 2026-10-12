@@ -1,7 +1,7 @@
 # S04 — Disability, an unusable challenge path, and a “you didn’t complete the form” cutoff
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.08.09`  
+**Corpus edition pin:** `SC-Corpus-2026.10.12`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 

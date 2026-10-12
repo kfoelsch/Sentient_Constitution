@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce Sekizinci Bölüm](../../core_09_standing_assessment.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > Güzergâh zincirinin üç sorusunu tanıtır, Soru 1'i (*ne oldu?*) yanıtlar ve Soru 2'yi (*ne kadar iyi ya da kötüydü?*) yanıtlar. Soru 3 (*bundan dolayı ne olur?*) [Dokuzuncu Bölüm](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)de sürer; nitelikli İhlal Ekseni `s` = 7–9 bulguları için [Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)de yalnızca atama incelemesi vardır.
@@ -21,8 +19,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değil): Sekizinci Bölümün nerede yaşadığı ve burada ne kaldığı</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu bölümde ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > | Soru | Sahip ve rol |
 > | --- | --- |
 > | **1. Ne oldu?** | Sınırlı, itiraz edilebilir bir kayıtta doğrulanmış olguları kurun. |

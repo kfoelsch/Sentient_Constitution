@@ -22,7 +22,6 @@ be generated now (advisory freshness gate; not in ``make regression``).
 from __future__ import annotations
 
 import argparse
-import json
 import re
 import sys
 from dataclasses import dataclass, field
@@ -33,6 +32,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_paths import CORE_FILES  # noqa: E402
+from json_rows import dumps_rows  # noqa: E402
 
 from heading_anchor_href import link_fragment
 
@@ -284,7 +284,7 @@ def main(argv: list[str] | None = None) -> int:
     reports = [parse_file(root, rel) for rel in CORE_FILES if (root / rel).is_file()]
     markdown = render_markdown(reports, edition, effective, prefix)
     payload = build_payload(reports, edition, effective)
-    payload_text = json.dumps(payload, indent=2, ensure_ascii=False) + "\n"
+    payload_text = dumps_rows(payload, row_depth=5)
 
     if args.check:
         stale: list[str] = []

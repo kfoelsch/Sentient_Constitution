@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [Capítulo Doze em inglês](../../core_13_governance.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_12_governance.md`](../../core_13_governance.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > Contém o **Capítulo Doze**, a **Camada do Contrato Constitucional** — requisitos de legitimidade constitucional e de administração responsável para a autoridade de governo, distintos da **Participação Sistêmica das Partes Afetadas** em sistemas já autorizados ([Preâmbulo](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Os controles de validade de emenda e de adoção continuam nos [Capítulos Treze a Quinze](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity). A numeração de capítulos e as referências cruzadas coincidem com o instrumento integrado.
@@ -21,14 +19,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): onde vive este capítulo e o que permanece aqui</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste capítulo nem em outros capítulos.
->
 > Onde isto vive (navegação):
 > - **Titular constitucional:** este capítulo define os requisitos de legitimidade e de administração responsável para a autoridade de governo.
 > - **Titular de implementação:** as camadas de implementação designadas proveem a mecânica procedimental de supervisão, o desenho de pessoal, os controles operativos e a mecânica institucional designada.
 > - **Regra antirrealocação:** os limiares de legitimidade constitucional permanecem aqui; o detalhe de fluxo de trabalho pertence às camadas titulares.
 >
-> **Arquitetura — colocação de *Em termos simples*:** Cada linha *Em termos simples* usa o mesmo layout do Capítulo Seis: aparece imediatamente após o bloco navegacional de Rastro (e a quebra de linha que o segue), e **antes** dos parágrafos operativos e das listas de marcadores daquela seção ou subseção. Onde uma subseção abre com frases de entrada antes de uma lista (por exemplo, **§§ 1.1–1.2** após a entrada da família de mecanismos, a seção 3 antes dos marcadores de índice de definição de administração responsável do **Capítulo Cinco**, e a seção 4.1 antes dos seus marcadores de piso de igualdade), a glosa senta-se imediatamente antes da lista ou do bloco que ela mais de perto acompanha. Só glosa voltada a quem lê; não acrescenta, retira nem estreita texto vinculante.
+> **Arquitetura — colocação de *Em termos simples*:** Cada linha *Em termos simples* usa o mesmo layout do Capítulo Seis: aparece imediatamente após o bloco navegacional de Rastro (e a quebra de linha que o segue), e **antes** dos parágrafos operativos e das listas de marcadores daquela seção ou subseção. Onde uma subseção abre com frases de entrada antes de uma lista (por exemplo, **§§ 1.1–1.2** após a entrada da família de mecanismos, a seção 3 antes dos marcadores de índice de definição de administração responsável do **Capítulo Cinco**, e a seção 4.1 antes dos seus marcadores de piso de igualdade), a glosa senta-se imediatamente antes da lista ou do bloco que ela mais de perto acompanha.
 
 </details>
 
@@ -110,7 +106,7 @@ Famílias de mecanismo, publicação, auditabilidade e pluralismo tratam-se no *
   - controles de conflito;
   - regras de briefing e de evidência;
   - controles de independência de facilitador ou de pessoal;
-  - salvaguardas antilobby e anti-intimidação; e
+  - salvaguardas antilobby e anti-intimidação, que aplicam no nível mais estrito os **limites de contato de influência** de [**Artigo XII-E**](../../core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Limites de contato de influência e lobby*): é proibido o contato privado com membros selecionados sobre o assunto, salvo por meio do registro aberto de briefing; e
   - rotas de impugnação para:
     - falha de seleção;
     - manipulação;
@@ -173,6 +169,40 @@ Famílias de mecanismo, publicação, auditabilidade e pluralismo tratam-se no *
     - Essas checagens aplicam-se à [**Escolha constitucional fundacional**](core_05_band_integrative.md#foundational-constitutional-choice) (Capítulo Cinco) e a qualquer outra ação de autorização dentro do alcance do mecanismo.
     - As checagens são **neutras quanto ao mecanismo**: não mandam um só tipo de polidade, e aplicam-se por igual a desenhos representativos, de sorteio, de ratificação federada, de **tratado, pacto ou carta**, e híbridos.
     - A preservação nominal da oposição emparelhada com exclusão funcional por dependência encoberta da esfera informacional, captura de administração responsável de autonomia do **Artigo XIII-E** (*Sistemas de alta autonomia e integridade de processo mediada por ferramenta*), ou meios estruturais comparáveis é não conforme sob esta checagem e sob a cláusula de **Pluralismo**.
+
+**Limites de financiamento da seleção**
+
+- **Escopo:** Estes limites aplicam-se quando um mecanismo de legitimidade seleciona autoridade de governo por campanha, indicação ou nomeação competitiva. Não se aplicam ao sorteio, que tem seu próprio piso de integridade acima, nem aos votos de ratificação dos corpos membros em desenhos federados ou de tratado.
+- **Divulgação:** Dinheiro material, apoio em espécie ou campanha organizada por uma [**parte interessada**](../../core_05_band_accountability.md#interested-party) em favor de candidato, indicado ou nomeador deve ser divulgado publicamente antes da decisão da seleção, com tempo para que a comunidade autorizadora o avalie.
+  - A divulgação deve nomear a fonte real, e não apenas o intermediário, e ser publicada em registro público, pesquisável e legível por máquina.
+  - Um doador que demonstre risco crível de retaliação pode usar uma **via de identidade protegida**. O valor e o fato da doação continuam públicos.
+    - **Risco crível:** O risco é crível quando há probabilidade razoável, não certeza, de que a divulgação exponha o doador ou pessoas próximas a ele a assédio, ameaças, violência ou perda de trabalho, moradia ou benefícios por causa da doação. Basta um padrão de retaliação contra apoiadores do destinatário, da causa ou do grupo, assim como uma ameaça específica. O doador não precisa provar dano passado.
+    - **Decisão:** Uma instância independente decide sem discriminação por ponto de vista e com registro, em tempo de a doação ser divulgada conforme a regra acima. Um pedido pendente nunca adia a divulgação do valor e do fato da doação. A decisão vale por um ciclo de seleção e pode ser renovada.
+    - **Verificações:** A instância verifica a identidade e elegibilidade do doador e o total doado em relação ao teto. A via não está disponível para candidatos, indicados, nomeadores ou quem atue por uma instituição.
+    - **Registros selados:** Auditores e o órgão de aplicação podem consultar os registros de identidade para suas verificações e apuração de violações. Fora disso, são confidenciais e serão apagados após o prazo de retenção publicado.
+- **Fontes elegíveis:** Somente sentients que pertençam à comunidade autorizadora e doem recursos próprios podem dar dinheiro ou apoio em espécie. Instituições (incluindo empresas, sindicatos, associações e fundos) e sistemas não podem.
+- **Fora da comunidade autorizadora:** Nenhum dinheiro, apoio em espécie ou atividade de campanha organizada pode vir de fora da comunidade autorizadora, diretamente, por terceiro ou por qualquer outro intermediário.
+- **Anticircunvenção:**
+  - Doações de proprietários, dirigentes ou empregados direcionadas ou reembolsadas por uma instituição contam como doações dessa instituição.
+  - São proibidos agrupamento de doações, doações reembolsadas e doações feitas em nome de outra pessoa.
+  - Empréstimos devem seguir condições comerciais comuns. O perdão do empréstimo conta como doação quando ocorre.
+  - Apoio em espécie inclui capacidade computacional, dados, espaço publicitário, conteúdo de campanha gerado e tempo pago ou dirigido de pessoal ou sistemas institucionais.
+- **Tetos:** O mecanismo publicado pela parte adotante deve estabelecer um teto para o total que um doador pode dar, em um ciclo de seleção, a todos os destinatários daquela seleção. Deve somar doações de doadores e contas relacionados, indexar o teto a uma medida publicada e divulgar suas razões.
+  - **Padrão:** um quarto da renda semanal mediana dos membros da comunidade autorizadora. Quando renda não for a medida adequada, o padrão é um quarto de medida publicada equivalente dos meios ordinários.
+  - A parte adotante pode estabelecer teto inferior. Só pode fixar um teto superior se publicar suas razões e uma instância independente as revisar.
+- **Gastos de terceiros:** Qualquer pessoa que não seja candidato ou indicado e gaste para influenciar a seleção deve registrar-se antes de gastar e identificar-se no que publicar. Também deve informar fontes e gastos, respeitar um limite publicado durante o período de seleção e não coordenar gastos com candidato, indicado ou nomeador. Todo financiador de terceiro está sujeito às regras de fontes elegíveis e ao teto acima.
+  - **Limite padrão:** dez por cento do limite de gastos aplicável ao candidato ou indicado visado.
+  - Se a parte adotante não estabelecer esse limite de gastos, deverá fixar um limite próprio para terceiros e publicar suas razões. Nesse caso, não há limite padrão.
+- **Apoio público (opcional):** A parte adotante pode compensar a perda de dinheiro institucional com fundos de contrapartida, vales ou reembolso parcial de despesas. Se fizer isso, suas regras de acesso não podem consolidar candidatos ou partidos estabelecidos. Não se exige financiamento público.
+  - **Desenho padrão:** reembolso de metade das despesas elegíveis de um candidato quando ele demonstrar apoio de um limiar publicado de no máximo um por cento dos membros elegíveis. Os mesmos termos aplicam-se a independentes e partidos novos.
+- **Aplicação:** A conformidade deve ser auditada por órgão estruturalmente separado dos candidatos e nomeadores, que seja um fórum de [**Integridade**](core_11_forum.md#45-integrity-forums) ou verificação independente equivalente. O órgão pode ordenar correção, recuperação de fundos inelegíveis e desqualificação quando a violação for material. Violações são encaminhadas como gatilhos de integridade segundo **CI-5** (*Integridade de conflitos, anticaptura e anticorrupção*) e **CJS-3.6** (*garantia de integridade e operações de resiliência*).
+- **Revisão de resultados:** Em cada revalidação periódica segundo o [**Artigo XXVII-A**](../../core_06_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) (*Não entrincheiramento e revisabilidade*), a parte adotante deve testar se estes limites reduzem a captura, e não apenas se são cumpridos.
+  - Deve publicar a parcela dos fundos de seleção por tipo de fonte, a parcela fornecida pelos maiores doadores, a parcela dos gastos de terceiros, o tempo entre a doação e sua inclusão no registro e os resultados de aplicação.
+  - Deve procurar brechas. O aumento de financiamento por canal que as regras não cobrem, ou decisões que favoreçam repetidamente financiadores com interesse material, é evidência de que as regras precisam mudar.
+  - Deve revisar as regras quando encontrar essas evidências.
+- **Dependência:** Apoio que crie dependência material entre o sentient selecionado e o apoiador constitui conflito segundo o **Artigo XII-D** (*Proteções anticaptura*). Deve ser divulgado, e o sentient selecionado deve se declarar impedido em assuntos nos quais o apoiador tenha interesse material.
+- **Neutralidade quanto ao mecanismo:** Estes limites não fixam teto de gastos nem exigem financiamento público. Um desenho em que financiamento não divulgado ou inelegível possa decidir uma seleção falha na verificação de **seleção contestada** acima. Quando a lei externa proibir um limite, a parte adotante deve aplicá-lo até onde a lei permitir e publicar a lacuna, conforme prevê o [Capítulo Quinze](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law).
+- **Proteção da oposição:** Estas regras não podem ser usadas para dissuadir a organização, a comunicação e a dissidência protegidas pela **proteção da oposição** acima.
 
 **Piso de independência de nomeação de fórum**
 

@@ -4,12 +4,12 @@
 from __future__ import annotations
 
 import argparse
-import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 from corpus_paths import source_markdown_files
+from json_rows import dumps_rows
 
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+)$")
@@ -108,7 +108,7 @@ def main() -> int:
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         "files": {path.relative_to(root).as_posix(): manifest_for(path) for path in source_markdown_files(root)},
     }
-    output.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    output.write_text(dumps_rows(payload, row_depth=5), encoding="utf-8")
     print(f"Wrote section manifest to {output}")
     return 0
 

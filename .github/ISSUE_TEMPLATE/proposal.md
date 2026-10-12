@@ -19,7 +19,7 @@ labels: ["proposal"]
 - File(s) / stack:
 - Section(s) / anchor(s):
 - Open item advanced (`implementation/PRE_PUBLICATION_SPEC.md` §4.2, §4.3, or §5 step):
-- Edition pin: `SC-Corpus-2026.08.09`
+- Edition pin: `SC-Corpus-2026.10.12`
 
 ## Problem
 

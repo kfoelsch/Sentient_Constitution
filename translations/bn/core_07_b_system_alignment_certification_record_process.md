@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">করপাসে অবস্থান (অ-কার্যকরী): ফাইলের গঠন ও পড়ার নিয়ম</span></strong></summary>
 
-> নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই ফাইল বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
->
 > এই ফাইল [ইংরেজি অধ্যায় সাত, অংশ খ](../../core_08_b_system_alignment_certification_record_process.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
 >
 > এতে আছে **অধ্যায় সাত, অংশ খ** — প্রত্যয়ন **নথি**র বিষয়বস্তু, স্বচ্ছতা ও চ্যালেঞ্জ-যোগ্যতা, মঞ্চ উপাদান ভূমিকা, তত্ত্বাবধান ক্রম, প্রস্থিতি সেতু, এবং পুনরায় খোলা (**§11–§16**, অংশ ক §1–§10 থেকে চালিয়ে)। **অংশ ক** — মূল্যায়ন প্রয়োজনীয়তা — আছে [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)-এ।

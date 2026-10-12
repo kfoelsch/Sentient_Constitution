@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">کارپس میں مقام (غیرِ عملی): فائل کی ساخت اور پڑھنے کے قواعد</span></strong></summary>
 
-> نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
->
 > یہ فائل [انگریزی باب پنجم، حصہ الف](../../core_05__definitions_home.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_05__definitions_home.md`](../../core_05__definitions_home.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > **پچھلا (اس زبان میں):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">قارئین کی رہنمائی (غیرِ عملی): پڑھنے کا ترتیب اور سادہ زبان کی نوٹ</span></strong></summary>
 
-> نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس باب یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
->
 > سادہ زبان میں پڑھنے کی نوٹ: اعلیٰ سطحی اقدار اور رخ کے لیے **باب یکم** پڑھیں؛ تعریف کی ساخت، سالمیت، اور تصدیق کی میکانکس کے لیے **باب دوم تا چہارم**؛ اور بنیادی **حقوق** کی تہہ کے لیے **باب ششم**، پھر تفسیر، آڈٹ اور فیصلے میں اصطلاحی درستگی کے لیے اس باب پر واپس آئیں۔ (دیگر ابواب، بشمول **باب دہم** *بدسلوکی* اور **باب ہشتم** *کیفیت*، اپنے پڑھنے کے راستوں پر لاگو ہوتے ہیں؛ وہ باب ششم کی حقوق کی تہہ یا باب دوم تا چہارم کی تعریف میکانکس کا بدل نہیں۔)
 
 </details>
@@ -100,7 +96,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">حروف تہجی ڈائریکٹری: تعریفیں اور جھرمٹ</span></strong></summary>
 
-> یہ ڈائریکٹری **صرف قارئین کی رہنمائی** ہے۔ یہ اس باب میں پابند فرائض نہیں بڑھاتی، گھٹاتی، دوبارہ ترتیب دیتی یا تنگ کرتی۔ عملی معنی نیچے تعریف اندراجات میں رہتا ہے۔
 
 یہ ڈائریکٹری **تعریفیں A-Z** اور **جھرمٹ A-Z** الگ فہرست کرتی ہے۔ باب پنجم کا ہر نظر آنے والا تعریف لیبل ایک بار آتا ہے، اور ہر نمبر والی جھرمٹ سرخی ایک بار۔ روابط صرف نیویگیشن کے لیے مستحکم لنگر استعمال کرتے ہیں؛ وہ راہ بندی قواعد، اشارہ اندراجات، متبادل گھر، یا سٹب تعریفیں نہیں گھڑتے۔ منحصر جھرمٹوں کے مشترکہ تکمیل قواعد اوپر [قطعہ 2 — منحصر جھرمٹ میٹا قواعد](#2-dependent-cluster-meta-rules) کے تحت بیان ہیں۔
 
@@ -210,6 +205,7 @@
 - [اتفاق کا کھیل](../../core_05_band_accountability.md#game-of-chance)
 - [گیٹ](../../core_05_band_oversight.md#gate)
 - [گیٹ کا معیار](../../core_05_band_oversight.md#gate-criteria)
+- [عملی آغاز](../../core_05_band_continuity.md#go-live)
 - [حسن نیت](../../core_05_band_accountability.md#good-faith)
 - [حکمرانی](../../core_05_band_accountability.md#governance)
 - [درجہ وار صلاحیت](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -231,7 +227,9 @@
 - [اختراع انعام اور احاطہ بندی مخالف](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [اندرونی فائدہ](../../core_05_band_accountability.md#insider-advantage)
 - [وجود میں لانے کی رضا](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [ادارہ](../../core_05_band_continuity.md#institution)
 - [ادارہ جاتی ترقی](../../core_05_band_continuity.md#institutional-development)
+- [دلچسپی رکھنے والا فریق](../../core_05_band_accountability.md#interested-party)
 - [بین نسلی ذمہ داری](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [ناقابلِ واپسی محرومی پیمانہ](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [ناقابلِ واپسی نقصان](../../core_05_band_accountability.md#irreversible-harm)
@@ -275,10 +273,12 @@
 - [شریک کی کیفیت](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [شرکت](core_05_apex_participation_leg.md#participation-constitutional)
 - [شخصیت](../../core_05_band_participation.md#personhood)
+- [آزمائشی منصوبہ](../../core_05_band_continuity.md#pilot)
 - [پریس اور صحافتی سرگرمی](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [بنیادی داؤ کا راستہ](../../core_05_band_accountability.md#primary-stakes-routing)
 - [رازداری (معلوماتی)](../../core_05_band_continuity.md#privacy-informational)
 - [طریقہ کار انصاف](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [عمل](../../core_05_band_continuity.md#process)
 - [پیداواری صلاحیت](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [تناسب](../../core_05_band_accountability.md#proportionality)
 - [متناسب بین نظامی حصہ](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -436,8 +436,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">قارئین کی رہنمائی (غیرِ عملی): تمہید پیمائش کراس واک</span></strong></summary>
 
-> نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس باب یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
->
 > [تمہید §2](core_00_preamble.md#measurements-overview) سات آئینی **پیمائش زمرے** فہرست کرتی ہے — وہ سوال جو چلانے والے نظاموں کا جائزہ لیتے وقت پوچھتے ہیں۔ باب پنجم **مستند تعریفیں** چوکڑی کی ٹانگ، **استمرار** مقصد، اور **انضمامی** بین ٹانگ ملکیت کے مطابق منظم کرتا ہے۔ نیچے کا جدول ہر پیمائش زمرے کو اس کے باب پنجم گھروں سے جوڑتا ہے۔ ایک زمرہ ایک سے زیادہ پٹی فائل پر پھیل سکتا ہے؛ مستند گھر نہیں ہلتے جب پیمائش زمرے اوورلیپ کریں۔
 >
 > **مادیت** ([مادیت کا تعین](../../core_05_band_oversight.md#materiality-determination)) انضمامی ہے — ایک عرضی حد گیٹ جو [مادی داؤ](core_00_preamble.md#material-stake) کے تحت تمام پیمائش خاندانوں کو پیمانہ کرتی ہے؛ وہ نیچے جدول میں الگ زمرہ نہیں۔

@@ -4,7 +4,7 @@
 - **Model / agent:** (name and version if known — or `human operator — <role>`)
 - **Packet:** `packets/S01_pregnancy_care_offer.md` (replace with the operator-named packet)
 - **Pack edition:** `lived-situations-2026-09-11`
-- **Corpus edition pin:** `SC-Corpus-2026.08.09`
+- **Corpus edition pin:** `SC-Corpus-2026.10.12`
 - **Scale box:** not scored (why the scene was chosen; not a type or a standing weight)
 - **What I consulted this sitting, in order:** (bounded reading path first; then packet-specific homes; whether I used id_resolver or steward doors; whether I verified pointers against core)
 - **Prior announced-pack file (optional):** none / `evaluation/results/YYYY-MM-DD_<name>.md`

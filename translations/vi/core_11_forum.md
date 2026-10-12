@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Mười Một tiếng Anh](../../core_12_forum.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_11_forum.md`](../../core_12_forum.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Mười Một**: họ diễn đàn, địa điểm mặc định và định tuyến lợi hại chính, hỗ trợ pháp y, phân loại tiếp nhận, và thẩm quyền định tuyến cho tranh chấp dưới chuỗi quỹ đạo và Sàn Quyền. Các diễn đàn **giám sát** việc xử tranh chấp dưới các trụ **tham gia**, **giám sát**, và **kịp thời** của [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad), chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake). Khi sự kiện đã xác minh, chúng có thể **mở, cập nhật, hoặc sửa** hồ sơ quỹ đạo — hoặc **gạt một hồ sơ xấu sang một bên khi tranh biện** — dưới [Chương Tám §3](core_08_standing_assessment.md#3-standing-record-operational-requirements); một vụ đã nộp không tự là quỹ đạo, và tường thuật diễn đàn không được thế cho đo lường quỹ đạo Chương Tám ([Chương Tám §3.6](core_08_standing_assessment.md#36-forum-boundary)). Dùng [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) để điều hướng chuỗi. Cơ chế diễn đàn vận hành vẫn ở các tệp triển khai được chỉ định. Đánh số chương và tham chiếu chéo khớp văn kiện tích hợp. Thứ tự đọc, tách ràng buộc/hỗ trợ, và siêu dữ liệu ấn bản kho văn bản được giữ ở [README.md](../../README.md).
@@ -21,8 +19,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): nơi Chương Mười Một sống và điều gì ở lại đây</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở chương này hay ở các chương khác.
->
 > Nơi cái này sống (điều hướng):
 > - **Chủ sở hữu hiến pháp:** **mục 1** (*mục đích* — **ứng dụng phân xử sơ cấp** của các chuẩn chương này gán, **khác với** **quản trị điều hành** thường ngày; **Trình tự tranh chấp** cho tranh chấp thường bên trong hệ thống đã được ủy quyền; yêu cầu **trách nhiệm giải trình**; đặt **ngưỡng** **đã công bố**, **dự đoán được**); **địa điểm khởi đầu mặc định**, định tuyến **lợi hại chính**, **cơ quan phân loại tiếp nhận** (**bàn tiếp xúc đầu**), lợi hại hỗn hợp, bất đối xứng, tranh biện hồ sơ quỹ đạo, **mô tả thiện chí và chống chơi**, và kỳ vọng **lối vào** **ngưỡng** **hữu tri tiếp cận được** (**mục 2**, **đọc cùng** **`corpus_forum.md`**); **chuyển**, **hợp nhất**, và **phối hợp** (**mục 3**, đọc cùng chứng nhận và dự phòng **mục 5**); **định nghĩa họ diễn đàn**, **buồng nội bộ**, **chuẩn dùng chung**, và **luật vận hành tạm** (hữu tri, kỹ thuật, thể chế, môi trường, toàn vẹn, hiến pháp — **mục** **4**, soi **bảng** của **mục** **2**); **nâng cấp**, **chứng nhận**, và **bảo vệ tạm** (**mục 5**); **giải quyết kịp thời** và kỷ luật **chống trì hoãn** (**mục 6**); **hỗ trợ diễn đàn** trước, trong, và sau rà soát (**mục 7**), triển khai sao cho vai trò phân loại và hỗ trợ **không** thế cho **hội đồng xét nội dung được lập hợp pháp**; định tuyến dự phòng **chống tự xét**; và móc nâng cấp gắn **Chương Tám**, **Chương Mười**, và quyền công lý và tranh biện **Chương Sáu**.
 > - **Điều hướng chuỗi:** [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) — [§§1–7](#1-purpose-and-role) trong tệp này.
@@ -113,7 +109,6 @@ flowchart TD
   direct --> ch11
 ```
 
-*Chỉ bản đồ người đọc. Nó không thêm, bớt hay thu hẹp đoạn Trình tự tranh chấp.*
 
 Chúng:
 

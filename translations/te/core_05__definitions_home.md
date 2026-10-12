@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">సంకలనంలో స్థానం (అసంచాలకం): ఫైల్ నిర్మాణం మరియు చదివే నియమాలు</span></strong></summary>
 
-> కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ ఫైల్‌లో లేదా ఇతర అధ్యాయాల్లో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు.
->
 > ఈ ఫైల్ [ఆంగ్ల అధ్యాయం ఐదు, భాగం ఎ](../../core_05__definitions_home.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_05__definitions_home.md`](../../core_05__definitions_home.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
 >
 > **మునుపటి (ఈ భాషలో):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">పాఠక మార్గదర్శకం (అసంచాలకం): చదివే క్రమం మరియు సాధారణ-భాష గమనిక</span></strong></summary>
 
-> కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ అధ్యాయంలో లేదా ఇతర అధ్యాయాల్లో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు.
->
 > సాధారణ-భాష చదివే గమనిక: ఉన్నత-స్థాయి విలువలు, దిశకు **అధ్యాయం ఒకటి** చదవండి; నిర్వచన నిర్మాణం, సమగ్రత, ధృవీకరణ యంత్రాంగానికి **అధ్యాయాలు రెండు నుండి నాలుగు**; పునాది **హక్కుల** నేలకు **అధ్యాయం ఆరు**; తర్వాత వ్యాఖ్యానం, ఆడిట్, తీర్పులో పద ఖచ్చితత్వానికి ఈ అధ్యాయానికి తిరిగి రండి. (ఇతర అధ్యాయాలు, **అధ్యాయం పది** *దుష్ప్రవర్తన* మరియు **అధ్యాయం ఎనిమిది** *ప్రస్థితి* సహా, తమ స్వంత చదివే మార్గాల్లో వర్తిస్తాయి; అవి అధ్యాయం ఆరు హక్కుల నేలకు లేదా అధ్యాయాలు రెండు నుండి నాలుగు నిర్వచన యంత్రాంగానికి ప్రత్యామ్నాయం కావు.)
 
 </details>
@@ -100,7 +96,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">అక్షరక్రమ డైరెక్టరీ: నిర్వచనాలు మరియు క్లస్టర్లు</span></strong></summary>
 
-> ఈ డైరెక్టరీ **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ అధ్యాయంలో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, తిరిగి క్రమం చేయదు, సంకుచితం చేయదు. సంచాలక అర్థం కింది నిర్వచన ప్రవేశాల్లోనే ఉంటుంది.
 
 ఈ డైరెక్టరీ **నిర్వచనాలు A-Z** మరియు **క్లస్టర్లు A-Z**ను వేరుగా జాబితా చేస్తుంది. ప్రతి కనిపించే అధ్యాయం ఐదు నిర్వచన లేబుల్ ఒక్కసారి కనిపిస్తుంది, ప్రతి సంఖ్యాత్మక క్లస్టర్ శీర్షిక ఒక్కసారి కనిపిస్తుంది. లింకులు నావిగేషన్ కోసం స్థిర లంగరులు మాత్రమే వాడతాయి; అవి మార్గనిర్దేశ నియమాలు, పాయింటర్ ప్రవేశాలు, ప్రత్యామ్నాయ ఇళ్ళు, లేదా స్టబ్ నిర్వచనాలు సృష్టించవు. ఆధారిత క్లస్టర్ల సంయుక్త-తీరిక నియమాలు పైన [విభాగం 2 — ఆధారిత-క్లస్టర్ మెటా నియమాలు](#2-dependent-cluster-meta-rules) కింద చెప్పబడ్డాయి.
 
@@ -209,6 +204,7 @@
 - [అవకాశ ఆట](../../core_05_band_accountability.md#game-of-chance)
 - [గేట్](../../core_05_band_oversight.md#gate)
 - [గేట్ ప్రమాణాలు](../../core_05_band_oversight.md#gate-criteria)
+- [ప్రత్యక్ష ప్రారంభం](../../core_05_band_continuity.md#go-live)
 - [సద్భావన](../../core_05_band_accountability.md#good-faith)
 - [పాలన](../../core_05_band_accountability.md#governance)
 - [క్రమ సామర్థ్యం](../../core_05_band_participation.md#graduated-capability)
@@ -230,7 +226,9 @@
 - [ఆవిష్కరణ బహుమతి మరియు మూసివేత-నిరోధం](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [లోపలి ప్రయోజనం](../../core_05_band_accountability.md#insider-advantage)
 - [ఉదాహరణీకరణ సమ్మతి](../../core_05_band_participation.md#instantiation-consent)
+- [సంస్థ](../../core_05_band_continuity.md#institution)
 - [సంస్థాగత అభివృద్ధి](../../core_05_band_continuity.md#institutional-development)
+- [ఆసక్తిగల పక్షం](../../core_05_band_accountability.md#interested-party)
 - [తరాల మధ్య బాధ్యత](../../core_05_band_continuity.md#intergenerational-responsibility)
 - [తిరుగులేని లేమి కొలత](../../core_05_band_accountability.md#irreversible-deprivation-measure)
 - [తిరుగులేని హాని](../../core_05_band_accountability.md#irreversible-harm)
@@ -274,10 +272,12 @@
 - [పాల్గొనేవారి ప్రస్థితి](../../core_05_band_accountability.md#participant-standing)
 - [పాల్గొనడం](../../core_05_apex_participation_leg.md#participation-constitutional)
 - [వ్యక్తిత్వం](../../core_05_band_participation.md#personhood)
+- [పైలట్ ప్రాజెక్టు](../../core_05_band_continuity.md#pilot)
 - [ప్రెస్ మరియు పాత్రికేయ కార్యకలాపం](../../core_05_band_oversight.md#press-and-journalistic-activity)
 - [ప్రాథమిక-పందెాల మార్గనిర్దేశం](../../core_05_band_accountability.md#primary-stakes-routing)
 - [గోప్యత (సమాచార)](../../core_05_band_continuity.md#privacy-informational)
 - [ప్రక్రియా న్యాయం](../../core_05_band_participation.md#procedural-fairness)
+- [ప్రక్రియ](../../core_05_band_continuity.md#process)
 - [ఉత్పాదక సామర్థ్యం](../../core_05_band_continuity.md#productive-capacity)
 - [అనుపాతత](../../core_05_band_accountability.md#proportionality)
 - [అనుపాత వ్యవస్థల మధ్య సహకారం](../../core_05_band_continuity.md#proportionate-cross-system-support)
@@ -436,8 +436,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">పాఠక మార్గదర్శకం (అసంచాలకం): ప్రస్తావన కొలత క్రాస్‌వాక్</span></strong></summary>
 
-> కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ అధ్యాయంలో లేదా ఇతర అధ్యాయాల్లో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు.
->
 > [ప్రస్తావన §2](core_00_preamble.md#measurements-overview) ఏడు రాజ్యాంగ **కొలత వర్గాలు** జాబితా చేస్తుంది — వ్యవస్థలు అంచనా వేసేటప్పుడు ఆపరేటర్లు అడిగే ప్రశ్నలు. అధ్యాయం ఐదు **ప్రామాణిక నిర్వచనాలు** చతుష్టయం కాలు, **కొనసాగింపు** లక్ష్యం, మరియు **సమగ్ర** క్రాస్-లెగ్ యజమానిత్వం ప్రకారం నిర్వహిస్తుంది. కింది పట్టిక ప్రతి కొలత వర్గాన్ని దాని అధ్యాయం ఐదు ఇళ్ళకు మ్యాప్ చేస్తుంది. ఒక వర్గం ఒకటి కంటే ఎక్కువ బ్యాండ్ ఫైళ్ళు కవర్ చేయవచ్చు; కొలత వర్గాలు అతివ్యాప్తి అయినప్పుడు ప్రామాణిక ఇళ్ళు కదలవు.
 >
 > **భౌతికత** ([భౌతికత నిర్ణయం](../../core_05_band_oversight.md#materiality-determination)) సమగ్రం — [భౌతిక పందెం](core_00_preamble.md#material-stake) కింద అన్ని కొలత కుటుంబాలను స్కేల్ చేసే అడ్డంగా ఉండే గడప గేట్; అది కింది పట్టికలో వేరు వర్గం కాదు.

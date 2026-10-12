@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Năm, Phần A tiếng Anh](../../core_05__definitions_home.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_05__definitions_home.md`](../../core_05__definitions_home.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > **Trước (ngôn ngữ này):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): thứ tự đọc và ghi chú ngôn ngữ thường</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở chương này hay ở các chương khác.
->
 > Ghi chú đọc ngôn ngữ thường: đọc **Chương Một** cho giá trị và hướng tầng cao; **Chương Hai đến Bốn** cho cấu trúc định nghĩa, tính toàn vẹn, và cơ học xác minh; và **Chương Sáu** cho sàn **quyền** nền tảng, rồi trở lại chương này cho độ chính xác thuật ngữ trong diễn giải, kiểm toán, và phân xử. (Các chương khác, kể cả **Chương Mười** *Hành vi sai* và **Chương Tám** *Quỹ đạo*, áp dụng trên đường đọc riêng của chúng; chúng không thay Sàn Quyền Chương Sáu hay cơ học định nghĩa của Chương Hai đến Bốn.)
 
 </details>
@@ -100,7 +96,6 @@ Gọi một định nghĩa là Độc lập hoặc Bán độc lập không cho 
 <details>
 <summary><strong><span style="color: #2563eb;">Mục lục theo bảng chữ cái: định nghĩa và cụm</span></strong></summary>
 
-> Mục lục này **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt, sắp lại, hay thu hẹp nghĩa vụ ràng buộc ở chương này. Nghĩa vận hành vẫn ở các mục định nghĩa bên dưới.
 
 Mục lục này liệt kê **Định nghĩa A-Z** và **Cụm A-Z** riêng. Mỗi nhãn định nghĩa Chương Năm hiện được xuất hiện một lần, và mỗi tiêu đề cụm đã đánh số xuất hiện một lần. Liên kết dùng neo ổn định chỉ để điều hướng; chúng không tạo quy tắc định tuyến, mục con trỏ, nhà thay, hay định nghĩa stub. Quy tắc thỏa chung cho cụm phụ thuộc được nêu dưới [mục 2 — Quy tắc meta cụm phụ thuộc](#2-dependent-cluster-meta-rules) ở trên.
 
@@ -209,6 +204,7 @@ Mục lục này liệt kê **Định nghĩa A-Z** và **Cụm A-Z** riêng. M�
 - [Trò chơi may rủi](../../core_05_band_accountability.md#game-of-chance)
 - [Cổng](../../core_05_band_oversight.md#gate)
 - [Tiêu chí cổng](../../core_05_band_oversight.md#gate-criteria)
+- [Đưa vào vận hành](../../core_05_band_continuity.md#go-live)
 - [Thiện chí](../../core_05_band_accountability.md#good-faith)
 - [Quản trị](../../core_05_band_accountability.md#governance)
 - [Năng lực phân bậc](../../core_05_band_participation.md#graduated-capability)
@@ -230,7 +226,9 @@ Mục lục này liệt kê **Định nghĩa A-Z** và **Cụm A-Z** riêng. M�
 - [Thưởng đổi mới và chống bao chiếm](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Lợi thế nội bộ](../../core_05_band_accountability.md#insider-advantage)
 - [Đồng thuận khởi tạo](../../core_05_band_participation.md#instantiation-consent)
+- [Thiết chế](../../core_05_band_continuity.md#institution)
 - [Phát triển thể chế](../../core_05_band_continuity.md#institutional-development)
+- [Bên quan tâm](../../core_05_band_accountability.md#interested-party)
 - [Trách nhiệm liên thế hệ](../../core_05_band_continuity.md#intergenerational-responsibility)
 - [Thước tước đoạt không đảo ngược](../../core_05_band_accountability.md#irreversible-deprivation-measure)
 - [Hại không đảo ngược](../../core_05_band_accountability.md#irreversible-harm)
@@ -274,10 +272,12 @@ Mục lục này liệt kê **Định nghĩa A-Z** và **Cụm A-Z** riêng. M�
 - [Quỹ đạo người tham gia](../../core_05_band_accountability.md#participant-standing)
 - [Tham gia](../../core_05_apex_participation_leg.md#participation-constitutional)
 - [Tư cách chủ thể](../../core_05_band_participation.md#personhood)
+- [Dự án thí điểm](../../core_05_band_continuity.md#pilot)
 - [Báo chí và hoạt động nhà báo](../../core_05_band_oversight.md#press-and-journalistic-activity)
 - [Định tuyến lợi hại chính](../../core_05_band_accountability.md#primary-stakes-routing)
 - [Quyền riêng tư (Thông tin)](../../core_05_band_continuity.md#privacy-informational)
 - [Công bằng thủ tục](../../core_05_band_participation.md#procedural-fairness)
+- [Quy trình](../../core_05_band_continuity.md#process)
 - [Năng lực sản xuất](../../core_05_band_continuity.md#productive-capacity)
 - [Tính tương xứng](../../core_05_band_accountability.md#proportionality)
 - [Đóng góp xuyên hệ thống tương xứng](../../core_05_band_continuity.md#proportionate-cross-system-support)
@@ -436,8 +436,6 @@ Các định nghĩa Chương Năm được sắp theo [Hai Mục tiêu Hiến ph
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): đối chiếu đo lường Lời nói đầu</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở chương này hay ở các chương khác.
->
 > [Lời nói đầu §2](core_00_preamble.md#measurements-overview) liệt kê bảy **nhóm đo lường** hiến pháp — các câu hỏi người vận hành hỏi khi đánh giá hệ thống. Chương Năm tổ chức **định nghĩa chuẩn** theo trụ Tứ diện, mục tiêu **Liên tục**, và chủ sở hữu **Tích hợp** cắt ngang trụ. Bảng dưới ánh xạ mỗi nhóm đo lường tới các nhà Chương Năm của nó. Một nhóm có thể trải hơn một tệp dải; nhà chuẩn không dời khi các nhóm đo lường chồng nhau.
 >
 > **Tính trọng yếu** ([Xác định tính trọng yếu](../../core_05_band_oversight.md#materiality-determination)) là Tích hợp — một cửa ngưỡng cắt ngang chia tỷ lệ mọi gia đình đo lường dưới [lợi hại vật chất](core_00_preamble.md#material-stake); nó không phải một nhóm riêng trong bảng dưới.

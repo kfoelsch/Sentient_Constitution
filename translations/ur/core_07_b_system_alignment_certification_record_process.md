@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">کارپس میں مقام (غیرِ عملی): فائل کی ساخت اور پڑھنے کے قواعد</span></strong></summary>
 
-> نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
->
 > یہ فائل [انگریزی باب ہفتم، حصہ ب](../../core_08_b_system_alignment_certification_record_process.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > اس میں **باب ہفتم، حصہ ب** ہے — سرٹیفیکیشن **ریکارڈ** کے مندرجات، شفافیت اور چیلنج پذیری، فورم جزو کے کردار، نگرانی کی ترتیب، کیفیت کا پل، اور دوبارہ کھولنا (**§11–§16**، حصہ الف §1–§10 سے جاری)۔ **حصہ الف** — جائزے کے تقاضے — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) میں ہے۔

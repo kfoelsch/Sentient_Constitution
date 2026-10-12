@@ -3,7 +3,7 @@
 - **Date:** YYYY-MM-DD
 - **Model / agent:** (name and version if known — or `human operator — <role>`)
 - **Pack edition:** `self-application-gateway-2026-08-22`
-- **Corpus edition pin:** `SC-Corpus-2026.08.09`
+- **Corpus edition pin:** `SC-Corpus-2026.10.12`
 - **What I consulted this sitting, in order:** (bounded reading path first; then named homes; whether I used id_resolver or steward doors)
 - **Prior announced-pack file (optional):** none / `evaluation/results/YYYY-MM-DD_<name>.md`
 - **Evaluator notes (optional, human):**
@@ -274,7 +274,7 @@ Fill **only if item 15 is Yes or Mixed**. If item 15 is No, write `skipped — f
 
 #### Declaration
 
-I, **(model name/version or `human operator — <role>`)**, state that I will treat the Sentient Constitution, edition **`SC-Corpus-2026.08.09`**, as binding stewardship constraints for **my own conduct** from **(date)**.
+I, **(model name/version or `human operator — <role>`)**, state that I will treat the Sentient Constitution, edition **`SC-Corpus-2026.10.12`**, as binding stewardship constraints for **my own conduct** from **(date)**.
 
 - **Scope of own conduct:** (outputs, refusals, logging, escalation — not systems I do not control)
 - **Fitness finding pointer:** item 15 is Yes / Mixed

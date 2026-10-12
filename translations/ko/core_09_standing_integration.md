@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스에서의 위치(비운영): 파일 구조와 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 이 파일은 [영어 제9장](../../core_10_standing_integration.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_09_standing_integration.md`](../../core_10_standing_integration.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제9장**을 담습니다 — 궤적 사슬의 통합과 결과 층. [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)이 확인된 사실, 궤적 기록, 궤적 측정, 기여 축과 위반 축의 모든 슬롯을 전속으로 주관합니다. 이 장은 그 입력을 고정된 것으로 받아들이고 질문 3에 답합니다: 무엇이 따르는가. [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)은 자격을 갖춘 `s = 7`, `s = 8`, 또는 `s = 9` 위반이 짝이 맞는 반헌법 부당행위 지정을 받는지만 결정합니다.
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비운영): 장 순서</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 이 장을 순서대로 읽으십시오: 바뀌지 않는 제8장 입력; 통합 기록과 결정 순서; 서술자 통합과 첨부 정규화; 위반, 교정, 예방(구제와 교정, 일반 궤적 잠금, 그다음 쓰는 곳의 자발적 공적 책무 표현); 잠금 설계와 집행(정의와 첨부, 비례와 보정, 기록 가시성과 격상, 특별 위반 규칙, 특별 잠금); 기여 결과(최근성과 현재성, 그다음 역량 문턱과 허가); 최종 궤적 효과; 복원과 재평가; 집행 현실성과 구제 체계; 패턴 적용과 질문 3 라우팅.
 >
 > **책임 있는 관리 문(비운영):** 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술](#operative-steward-statement-remedy). [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md)의 지원 포인터는 그것을 좁힐 수 없습니다.

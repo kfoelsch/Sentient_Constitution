@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">موضع الملف في المتن (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
->
 > هذا الملف **تجريب بلغة القارئ** لـ[الفصل السابع، الجزء ب بالإنجليزية](../../core_08_b_system_alignment_certification_record_process.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > يحتوي **الفصل السابع، الجزء ب** — محتويات **سجل** التصديق، والشفافية وقابلية الطعن، وأدوار مكوّنات المنتدى، وتسلسل الإشراف، وجسر الوضعية، وإعادة الفتح (**§11–§16**، استمرارًا من الجزء أ §1–§10). **الجزء أ** — متطلبات التقييم — في [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).

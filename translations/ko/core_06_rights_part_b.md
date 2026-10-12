@@ -1907,6 +1907,87 @@ flowchart TB
 
   분리되어야 할 자리를 한 감지자, 직책 또는 집단이 함께 보유하거나, 해당 자리를 맡은 사람들을 통제한다면, 이는 본 조항에 따른 구조적 장악의 징후이기도 합니다.
 
+
+#### 제XII-E조: 영향 접촉 및 로비 활동의 경계
+
+<details>
+<summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
+
+- 상위 근거: 제1장의 원칙 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 책임 있는 관리 아래의 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), [§19 유인 정렬과 시스템 장악](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- 함께 읽기: [제XII-D조](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*); [제XII-B조](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*); [제X-A조](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)(*행위 주체성과 조작으로부터의 자유*); [제IX-A조](../../core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)(*초상과 평판의 자기 소유*); [제XIII-E조](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*); [제XV조](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*); [제11장 §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)(*여론 공간 범람과 이의 제기 경로 차단*), [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)(*정보권 여론 공간 범람*), [§5.5](../../core_11_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)(*뇌물 및 부당한 이익 교환*); [제7장](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties); [제13장 §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
+
+- [시스템 장악](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [장악 방지](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [다툴 수 있음](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [감사 가능성](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [절차적 공정성](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [이해관계자](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+
+</details>
+
+<br>
+
+*쉬운 말로: **제XII-E조**(*영향 접촉 및 로비 활동의 경계*)는 이해관계가 있는 감지자가 결정권자에게 접근할 때 지켜야 할 최소 기준입니다. 공개적인 옹호는 보호됩니다. 비공개, 미기록, 매수, 조작 또는 기계적으로 증폭된 영향력은 보호되지 않습니다. 접촉은 기록하고 공개해야 하며, 이익 제안과 위협은 이해충돌이고, 결정 대상 당사자로부터 나중에 일자리를 얻으려면 냉각 기간을 거쳐야 합니다. 시스템이 접촉할 때는 자신이 무엇이며 누구를 위해 행동하는지 밝혀야 합니다.*
+
+이 조항은 결정·검토·감사·조달·결정 지원을 맡은 감지자와 시스템에 **이해관계자**가 접근하는 방법을 정합니다. [**제XII-D조**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)에 명시된 대상 기관, 그 **임명 권한자**, **채택 기관**에 적용되며, [두 헌법 목적](core_00_preamble.md#two-constitutional-aims)을 따릅니다.
+
+- **번영:** 영향을 받는 감지자는 돈, 직원 또는 도구가 없더라도 실제로 공개된 발언 기회를 보장받고, 결정은 사적인 접근이 아니라 공개 기록에 근거해야 합니다.
+- **연속성:** 결정 기관은 사적 접근, 이익 제안, 향후 일자리, 조작된 지지 또는 대규모 자동화에서 비롯되는 은밀한 영향에 시간이 지나도 흔들리지 않아야 합니다.
+
+정당한 의견 개진은 [헌법 사원](core_00_preamble.md#constitutional-tetrad)을 통해 이루어지며, [실질 이해관계](core_00_preamble.md#material-stake)에 비례해야 합니다.
+
+- **참여:** 공개 옹호, 청원, 공공 의견 제출은 보호됩니다. 영향을 받는 감지자는 의견을 들어야 할 모든 기관에 접근할 수 있어야 합니다.
+- **감독:** 접촉 기록, 사안 기록의 공개, 결정에 기여한 모든 시스템에 어떤 입력 자료가 전달되었는지 기록하는 방식으로 감독합니다.
+- **책무:** 이해관계자, 운영자, 기관은 비공개 접근, 은폐된 접촉, 조작된 목소리, 이익 제안에 답해야 합니다.
+- **적시성:** 다른 참여자가 응답할 수 있도록 접촉을 제때 공개해야 합니다.
+
+*인접 조항:*
+
+- **장악 방지 최소 기준:** [**제XII-D조**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)는 구성, 이해충돌, 회피, 외부 검토, 해임을 다룹니다. 이 조항은 같은 기관에 이해관계자가 접근하는 규칙을 더합니다.
+- **참여의 비중:** [**제XII-B조**](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*)는 형식적 참여를 금지합니다. 이 조항에서도 접촉량은 지지를 뜻하지 않습니다.
+- **시스템과 정보:** [**제XIII-E조**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*)는 시스템에도 다른 모든 주체와 같은 규칙을 적용합니다. [**제XV조**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*)는 공유 정보 환경을 다룹니다.
+- **선출 자금:** [제13장 §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*)는 선거운동, 지명 또는 경쟁 임명을 통한 선출의 자금 경계를 정합니다.
+
+이 조항은 다음 최소 기준을 정합니다.
+
+- **적용 범위:** 이 최소 기준은 대상 기관, 그 **임명 권한자**, **채택 기관**에 적용됩니다. 요건은 실질 이해관계에 비례합니다. 사안의 공개 기록에 제출한 문서는 영향 접촉이 아니라 기록 그 자체입니다.
+- **영향 접촉의 경계:** 대상 기관, 그 **임명 권한자**, **채택 기관**은 **영향 접촉** 규칙을 공개해야 합니다. 영향 접촉이란 계류 중이거나 예상 가능한 사안을 공개 기록 밖에서 좌우하려고 [**이해관계자**](../../core_05_band_accountability.md#interested-party)가 구성원, 패널 위원, 직원, 진행자 또는 브리핑 제공자에게 접근하는 것입니다. 규칙은 실질 이해관계에 비례해야 하며 최소한 다음을 정해야 합니다.
+  - 중요한 영향 접촉마다 접촉자, 시각, 경로, 관련 사안, 요청 또는 제안의 요약을 **기록**한다.
+  - 접촉받은 구성원, 패널 위원 또는 직원으로부터 독립된 자리에서 기록을 보관한다([제7장](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)).
+  - 다른 참여자가 응답할 수 있도록 중요한 접촉을 사안 기록에 제때 **공개**한다.
+  - 증거와 주장은 공개 기록에 둔다. 결정의 근거가 되는 증거나 주장을 비공개 접촉으로 제공해서는 안 된다.
+  - 선물, 이익, 향후 직책 제안과 모든 위협은 일반 접촉이 아니라 공개하고 거절한 뒤 **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*)에 따라 처리할 이해충돌로 다룬다.
+  - 기록에 남긴 공개 옹호, 청원, 공공 의견 제출 및 의견을 들어야 할 기관에 대한 영향을 받는 감지자의 접근을 보호한다. 이 규칙을 영향을 받는 감지자가 자신의 이해관계에 관해 말하는 것을 제한하는 데 사용해서는 안 된다.
+- **퇴직 후 및 장래 역할의 이해충돌:**
+  - **장래 역할 이해충돌:** 구성원, 패널 위원 또는 직원이 담당하는 사안이 계류 중인 동안 그 [당사자](../../core_05_band_accountability.md#interested-party)와 이후의 역할, 고용, 계약 또는 이익을 논의하는 것은 이해충돌입니다. 이를 공개해야 하며, 독립된 자리가 해제할 때까지 해당 구성원, 패널 위원 또는 직원은 회피해야 합니다.
+  - **퇴직 후 규칙:** 대상 기관과 **채택 기관**은 실질 이해관계에 비례한 퇴직 후 규칙도 공개해야 합니다. 이 규칙은 독립된 자리가 공개 결정으로 제안을 해제하거나 냉각 기간이 지날 때까지, 자신이 처리한 사안과 관련하여 이해관계자로부터 역할이나 이익을 받는 것을 금지합니다.
+  - **기본 냉각 기간:** 구성원, 패널 위원 또는 직원이 해당 사안에 마지막으로 관여한 날부터 **5년**입니다.
+  - **기간 변경:** 채택 기관은 더 긴 기간을 정할 수 있습니다. 실질 이해관계가 낮은 경우에만 더 짧은 기간을 정할 수 있으며, 그 이유를 공개해야 합니다.
+- **자동화·생성·대량 접근:** 시스템이 수행하거나 시스템을 통해 이루어지거나 시스템 규모로 이루어지는 영향 접촉도 다른 접촉과 마찬가지로 영향 접촉이며, 다음 규칙이 추가로 적용됩니다.
+  - **귀속 표시:** 시스템이 생성하거나 전송하는 접촉은 시스템을 통해 이루어진다는 점, 시스템이 대리하는 **이해관계자**, 이를 승인한 감지자를 밝혀야 합니다. 스스로를 대변하는 합성 감지자는 다른 감지자와 같습니다. 운영자나 다른 본인을 대리하는 경우 그 본인이 접촉에 책임집니다.
+  - **진짜 목소리만:** 누구든 허위 신원, 조작된 지지자, 사칭 또는 합성 증언, 꾸며낸 풀뿌리 단체를 통해 대상 기관에 접근해서는 안 됩니다. 한 당사자가 단독으로 행동하든 여러 당사자가 함께 행동하든 마찬가지입니다.
+  - **보조적 사용:** 시스템으로 자신의 메시지를 작성·번역·전송하고 이를 승인한 감지자는 직접 접촉한 것입니다.
+  - **대량 접촉:** 동일하거나 실질적으로 유사한 접근이 대량으로 기관에 도달하면, 기관은 이를 단일 캠페인으로 한 번 기록합니다. 기록에는 후원자, 자금, 방법, 규모, 확인된 서로 다른 감지자의 수를 기재합니다. 규모는 지지의 증거가 아닙니다. 기관은 확인된 서로 다른 감지자의 범위에서만 지지를 근거로 삼을 수 있습니다.
+    - **‘대량’의 기본 기준:** 기관은 자체 기준을 공개합니다. 공개 전까지는 동일하거나 실질적으로 유사한 접근이 한 사안에서 기관 구성원의 4분의 1을 초과해 도달하거나 50회 이상 기관에 도달하고, 같은 이해관계자에 의해 또는 그를 위해 이루어진 경우 대량으로 봅니다.
+  - **접수 경로:** 대상 기관은 기록에 남길 입력을 위한 인증된 경로를 공개해야 합니다. 규칙을 위반하는 입력에 속도 제한을 적용하거나 중복을 제거하거나 따로 분류할 수 있습니다. 비공개 경로로 구성원, 패널 위원, 직원, 진행자 또는 브리핑 제공자에게 자동화된 접근을 해서는 안 됩니다.
+  - **결정 측 시스템:** 기관이 결정을 위해 시스템으로 입력을 받고, 분류·요약·초안 작성을 하게 하는 경우, 결정권자에게 정보를 주는 것이 아니라 시스템을 유도하려는 접근도 영향 접촉입니다. 제출 자료에 숨겨진 지시, 오염된 데이터, 순위 조작을 노린 콘텐츠가 여기에 포함됩니다. 기관은 제출 자료를 지시가 아닌 증거로 다루고, 각 결과를 원본 기록까지 추적 가능하게 하며, 결정에 기여한 시스템에 어떤 입력 자료가 전달되었는지 공개해야 합니다. 이해관계자 측 시스템과 기관 측 시스템의 접촉도 감지자 간 접촉과 같은 방식으로 기록합니다.
+  - **책임:** 이해관계자와 시스템을 배치한 운영자 모두 접촉에 책임집니다. 명백한 위험을 무시했다면 몰랐다는 주장은 항변이 되지 않습니다.
+- **추첨 기관:** 추첨으로 선발된 기관의 구성원에게는 이 최소 기준 중 가장 엄격한 단계가 적용됩니다. [제13장](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)이 요구하는 공개 브리핑 기록을 통하는 경우를 제외하면, 사안에 관한 비공개 접촉은 금지됩니다.
+- **집행 및 경로 지정:**
+  - **무결성 발동 사유:** 은폐된 영향 접촉, 이익 제안, 조작된 목소리는 **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*)와 **CJS-3.6**(*무결성 보장 및 회복력 운영*)에 따른 무결성 발동 사유로 경로 지정합니다.
+  - **위반 경로:** 진정성 없는 목소리를 고의 또는 무모하게 쏟아붓는 행위, 뇌물 또는 부당한 이익 교환은 **제2장부터 제4장** 및 **제11장** 기준에 따라 입증되는 경우 제11장에 따라 **반헌법적 위법행위**로 주장할 수 있습니다.
+  - **무결성 우선 경로 지정과 자기 심판 금지:** [**제XII-D조**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)의 경로 지정 및 자기 심판 방지 규칙을 적용합니다. 자신의 구성원이나 직원이 부적절한 접근을 받았는지를 그 기관만이 최종 판단하는 포럼이 되어서는 안 됩니다.
+- **기관 경로 지정:** 세부 규칙은 다음에서 정합니다.
+  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)(*임명, 역량, 순환, 해임*). 퇴직 후 규칙에는 **CI-4.2**(*역할 기준, 임명 기준, 해임 경로*)도 포함됩니다.
+  - **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*).
+  - **CJS-3.6**(*무결성 보장 및 회복력 운영*), *영향 접촉 및 로비 활동의 경계*.
+  - 포럼 패널은 [corpus_forum.md](../../corpus_forum.md)의 **CF-4**(*패널 구성, 공개, 회피, 적법한 재판부 구성*) 및 **CF-7**(*무결성 보호장치, 장악 방지 운영, 자기 심판 방지 지원*).
+
 ---
 
 **이전 파일:** [core_06_rights_part_a.md](core_06_rights_part_a.md)

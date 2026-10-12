@@ -1963,6 +1963,88 @@ Việc theo đuổi chính đáng vận hành thông qua [Tứ diện Hiến ph�
 
   Khi một hữu tri, chức vụ hoặc khối nắm giữ các vị trí bắt buộc phải tách biệt, hoặc kiểm soát những người giữ các vị trí đó, đây cũng là dấu hiệu chiếm đoạt mang tính cấu trúc theo Điều này.
 
+#### Điều XII-E: Giới hạn về tiếp xúc gây ảnh hưởng và vận động hành lang
+
+<details>
+<summary><strong><span style="color: #2563eb;">Truy nguyên</span></strong></summary>
+
+- Cơ sở nền tảng: Các nguyên tắc: Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Quản trị theo kỷ luật quản hộ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), và [§19 Căn chỉnh động cơ và chiếm đoạt hệ thống](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Đọc cùng: [Điều XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Bảo đảm chống chiếm đoạt*); [Điều XII-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Tham gia có trọng số và giới hạn chống tham gia hình thức*); [Điều X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Năng lực tự chủ và tự do khỏi thao túng*); [Điều IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Quyền tự chủ đối với hình ảnh và danh tiếng*); [Điều XIII-E](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*Hệ thống tự chủ cao và tính toàn vẹn của quy trình qua công cụ*); [Điều XV](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Tính toàn vẹn của không gian thông tin*); [Chương Mười Một §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*Làm ngập không gian và chặn đường phản biện*), [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*Làm ngập vùng thông tin*), và [§5.5](../../core_11_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Hối lộ và trao đổi lợi ích không chính đáng*); [Chương Bảy](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties); [Chương Mười Ba §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Điều kiện, tuyển chọn có tranh chấp và mức tối thiểu dân chủ*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
+
+- [Chiếm đoạt hệ thống](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Chống chiếm đoạt](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Khả năng tranh nghị](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Khả năng kiểm toán](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Công bằng thủ tục](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Bên có lợi ích liên quan](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+
+</details>
+
+<br>
+
+*Nói đơn giản: **Điều XII-E** (*Giới hạn về tiếp xúc gây ảnh hưởng và vận động hành lang*) đặt ra mức sàn về cách các hữu tri có lợi ích liên quan tiếp cận người ra quyết định. Vận động công khai được bảo vệ. Ảnh hưởng riêng tư, không được ghi nhận, mua chuộc, giả mạo hoặc nhân lên bằng máy móc thì không: mọi tiếp xúc phải được ghi lại và công khai; đề nghị lợi ích và đe dọa là xung đột lợi ích; việc làm về sau từ một bên mà bạn đã quyết định phải chờ hết thời gian cách ly; và hệ thống phải nói rõ nó là gì, hành động thay mặt cho ai.*
+
+Điều này quy định cách **các bên có lợi ích liên quan** tiếp cận hữu tri và hệ thống có nhiệm vụ quyết định, rà soát, kiểm toán, mua sắm hoặc hỗ trợ một quyết định. Điều này áp dụng cho các cơ quan thuộc phạm vi nêu tại [**Điều XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Bảo đảm chống chiếm đoạt*), các **cơ quan bổ nhiệm** của họ và **tổ chức tiếp nhận**, theo [Hai Mục tiêu Hiến định](core_00_preamble.md#two-constitutional-aims):
+
+- **Hưng thịnh:** hữu tri bị ảnh hưởng có con đường thực chất và công khai để được lắng nghe, kể cả người không có tiền, nhân sự hoặc công cụ; quyết định dựa trên hồ sơ công khai chứ không phải quyền tiếp cận riêng tư.
+- **Liên tục:** các cơ quan ra quyết định duy trì khả năng chống lại ảnh hưởng âm thầm theo thời gian, dù ảnh hưởng đến từ tiếp cận riêng tư, đề nghị lợi ích, việc làm về sau, ủng hộ giả mạo hay tự động hóa trên quy mô lớn.
+
+Việc theo đuổi lợi ích chính đáng vận hành qua [Tứ trụ Hiến định](core_00_preamble.md#constitutional-tetrad), tương xứng với [lợi ích trọng yếu](core_00_preamble.md#material-stake):
+
+- **Tham gia:** vận động công khai, kiến nghị và bình luận công chúng được bảo vệ; hữu tri bị ảnh hưởng được tiếp cận mọi cơ quan có nghĩa vụ lắng nghe họ.
+- **Giám sát:** thông qua hồ sơ tiếp xúc, công khai trong hồ sơ vụ việc và ghi nhận tài liệu đầu vào nào đã đến hệ thống góp phần vào quyết định.
+- **Trách nhiệm giải trình:** các bên có lợi ích liên quan, người vận hành và cơ quan phải chịu trách nhiệm về tiếp cận riêng tư, tiếp xúc bị che giấu, tiếng nói ngụy tạo và đề nghị lợi ích.
+- **Kịp thời:** công khai tiếp xúc đủ sớm để những người tham gia khác có thể phản hồi.
+
+*Các điều khoản liên quan:*
+
+- **Mức sàn chống chiếm đoạt:** [**Điều XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Bảo đảm chống chiếm đoạt*) quy định về thành phần, xung đột lợi ích, hồi tránh, rà soát bên ngoài và miễn nhiệm. Điều này bổ sung quy tắc về việc các bên có lợi ích liên quan tiếp cận chính những cơ quan đó.
+- **Trọng lượng tham gia:** [**Điều XII-B**](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Tham gia có trọng số và giới hạn chống tham gia hình thức*) cấm tham gia lấy lệ. Theo Điều này, số lượng tiếp xúc cũng không phải là bằng chứng ủng hộ.
+- **Hệ thống và thông tin:** [**Điều XIII-E**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*Hệ thống tự chủ cao và tính toàn vẹn của quy trình qua công cụ*) ràng buộc hệ thống theo cùng quy tắc như mọi chủ thể khác; [**Điều XV**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Tính toàn vẹn của không gian thông tin*) đề cập môi trường thông tin chung.
+- **Tài trợ tuyển chọn:** [**Chương Mười Ba §1.2**](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Điều kiện, tuyển chọn có tranh chấp và mức tối thiểu dân chủ*) đặt ra ranh giới tài trợ cho việc tuyển chọn qua vận động, đề cử hoặc bổ nhiệm cạnh tranh.
+
+Điều này đặt ra các mức sàn sau:
+
+- **Phạm vi:** các mức sàn này áp dụng cho cơ quan thuộc phạm vi, **cơ quan bổ nhiệm** và **tổ chức tiếp nhận**. Yêu cầu được điều chỉnh theo lợi ích trọng yếu. Tài liệu nộp vào hồ sơ công khai của vụ việc không phải là tiếp xúc gây ảnh hưởng; đó chính là hồ sơ.
+- **Ranh giới tiếp xúc gây ảnh hưởng:** cơ quan thuộc phạm vi, **cơ quan bổ nhiệm** và **tổ chức tiếp nhận** phải công bố quy tắc về **tiếp xúc gây ảnh hưởng**. Đây là việc [**bên có lợi ích liên quan**](../../core_05_band_accountability.md#interested-party) tiếp cận thành viên, thành viên hội đồng, nhân viên, điều phối viên hoặc nguồn cung cấp thông tin tóm lược nhằm định hình một vấn đề đang chờ xử lý hoặc có thể dự liệu, ngoài hồ sơ công khai của vấn đề đó. Quy tắc phải tương xứng với lợi ích trọng yếu và ít nhất phải:
+  - **ghi nhận** mọi tiếp xúc gây ảnh hưởng trọng yếu: ai thực hiện, khi nào, qua kênh nào, về vấn đề nào, cùng tóm tắt nội dung được yêu cầu hoặc đề nghị;
+  - lưu hồ sơ đó tại một vị trí độc lập với thành viên, thành viên hội đồng hoặc nhân viên bị tiếp cận ([Chương Bảy](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties));
+  - **công khai** tiếp xúc trọng yếu trong hồ sơ vụ việc đủ sớm để những người tham gia khác phản hồi;
+  - giữ chứng cứ và lập luận trong hồ sơ công khai: tiếp xúc riêng tư không được cung cấp chứng cứ hoặc lập luận mà quyết định dựa vào;
+  - coi mọi đề nghị quà tặng, lợi ích hoặc chức vụ tương lai, cũng như mọi đe dọa, là xung đột lợi ích phải công khai, từ chối và chuyển xử lý theo **CI-5** (*Tính toàn vẹn xung đột, chống chiếm đoạt và chống tham nhũng*), chứ không phải tiếp xúc thông thường; và
+  - bảo vệ vận động công khai, kiến nghị và bình luận công chúng được ghi trong hồ sơ, cũng như quyền tiếp cận cơ quan phải lắng nghe hữu tri bị ảnh hưởng. Không được dùng các quy tắc này để hạn chế điều hữu tri bị ảnh hưởng có thể nói về lợi ích của chính họ.
+- **Xung đột sau khi rời nhiệm vụ và về chức vụ tương lai:**
+  - **Xung đột về chức vụ tương lai:** thảo luận về chức vụ, việc làm, hợp đồng hoặc lợi ích về sau với [**bên có lợi ích liên quan**](../../core_05_band_accountability.md#interested-party) trong khi vấn đề của bên đó đang được một thành viên, thành viên hội đồng hoặc nhân viên xem xét là xung đột lợi ích. Phải công khai việc này; người đó phải hồi tránh cho đến khi một vị trí độc lập giải quyết xung đột.
+  - **Quy tắc sau nhiệm vụ:** cơ quan thuộc phạm vi và **tổ chức tiếp nhận** cũng phải công bố quy tắc sau nhiệm vụ tương xứng với lợi ích trọng yếu. Quy tắc cấm nhận chức vụ hoặc lợi ích từ bên có lợi ích liên quan về vấn đề mà người đó từng xử lý cho đến khi hết thời gian cách ly hoặc một vị trí độc lập chấp thuận đề nghị trong quyết định được công bố.
+  - **Thời gian cách ly mặc định:** **năm năm** kể từ khi thành viên, thành viên hội đồng hoặc nhân viên kết thúc lần tham gia cuối cùng vào vấn đề.
+  - **Điều chỉnh:** tổ chức tiếp nhận có thể đặt thời gian dài hơn. Chỉ được rút ngắn khi lợi ích trọng yếu thấp và phải công bố lý do.
+- **Tiếp cận tự động, được tạo sinh và hàng loạt:** tiếp xúc gây ảnh hưởng do, thông qua hoặc ở quy mô của hệ thống vẫn là tiếp xúc gây ảnh hưởng như mọi trường hợp khác, đồng thời tuân theo các quy tắc bổ sung:
+  - **Quy thuộc:** tiếp xúc do hệ thống tạo ra hoặc gửi đi phải nêu rõ điều đó, nêu tên **bên có lợi ích liên quan** mà hệ thống đại diện và tên hữu tri đã cho phép. Một hữu tri tổng hợp tự phát ngôn cho mình là hữu tri như mọi hữu tri khác. Khi hành động thay mặt người vận hành hoặc chủ thể ủy quyền khác, chủ thể đó chịu trách nhiệm về tiếp xúc.
+  - **Chỉ tiếng nói chân thực:** không ai được tiếp cận cơ quan thuộc phạm vi bằng danh tính giả, người ủng hộ giả, lời chứng mạo danh hoặc tổng hợp, hay nhóm cơ sở bịa đặt. Quy tắc này áp dụng dù một bên hành động riêng lẻ hay nhiều bên phối hợp.
+  - **Sử dụng hỗ trợ:** hữu tri dùng hệ thống để soạn, dịch hoặc gửi thông điệp của chính mình và phê duyệt thông điệp đó thì chính họ thực hiện tiếp xúc.
+  - **Tiếp xúc hàng loạt:** khi cùng một cách tiếp cận hoặc cách tiếp cận tương tự đáng kể đến cơ quan với số lượng lớn, cơ quan ghi nhận một lần như một chiến dịch duy nhất. Hồ sơ nêu nhà tài trợ, nguồn tiền, phương thức, số lượng và số hữu tri riêng biệt đã được xác minh. Số lượng không phải bằng chứng ủng hộ. Cơ quan chỉ được dựa vào mức ủng hộ tương ứng với số hữu tri riêng biệt đã xác minh.
+    - **Mặc định về “số lượng lớn”:** cơ quan công bố ngưỡng riêng. Cho đến khi có ngưỡng đó, cách tiếp cận tương tự đáng kể được thực hiện bởi hoặc thay mặt cùng một bên có lợi ích liên quan, gửi đến hơn một phần tư thành viên của cơ quan hoặc gửi đến cơ quan từ 50 lần trở lên trong một vụ việc, được xem là số lượng lớn.
+  - **Kênh:** cơ quan thuộc phạm vi phải công bố kênh đã xác thực để tiếp nhận ý kiến trên hồ sơ. Cơ quan có thể giới hạn tần suất, loại bỏ trùng lặp và gác lại nội dung vi phạm quy tắc. Cấm dùng tự động hóa để tiếp cận thành viên, thành viên hội đồng, nhân viên, điều phối viên hoặc nguồn cung cấp thông tin tóm lược qua bất kỳ kênh riêng tư nào.
+  - **Hệ thống ở phía ra quyết định:** khi cơ quan dùng hệ thống để tiếp nhận, phân loại, tóm tắt hoặc soạn thảo cho quyết định, việc nhắm tới điều khiển hệ thống thay vì cung cấp thông tin cho người ra quyết định là tiếp xúc gây ảnh hưởng. Điều này gồm chỉ dẫn ẩn trong tài liệu gửi đến, dữ liệu bị đầu độc và nội dung được tạo ra để thao túng thứ hạng. Cơ quan phải xem tài liệu gửi đến là chứng cứ chứ không phải chỉ dẫn, bảo đảm mỗi đầu ra có thể truy nguyên tới hồ sơ nguồn, và công khai tài liệu đầu vào nào đã đến hệ thống góp phần vào quyết định. Tiếp xúc giữa hệ thống của bên có lợi ích liên quan và hệ thống của cơ quan được ghi nhận như tiếp xúc giữa các hữu tri.
+  - **Trách nhiệm:** bên có lợi ích liên quan và người vận hành triển khai hệ thống đều chịu trách nhiệm về tiếp xúc. Không biết không phải là biện hộ nếu họ đã bỏ qua rủi ro rõ ràng.
+- **Cơ quan tuyển chọn bằng bốc thăm:** thành viên được chọn của cơ quan này chịu mức nghiêm ngặt nhất trong các mức sàn. Cấm tiếp xúc riêng tư với họ về vụ việc, trừ qua hồ sơ thông tin công khai như [Chương Mười Ba](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) quy định.
+- **Thực thi và chuyển tuyến:**
+  - **Tác nhân kích hoạt liêm chính:** tiếp xúc gây ảnh hưởng bị che giấu, đề nghị lợi ích và tiếng nói ngụy tạo được chuyển tuyến như tác nhân kích hoạt liêm chính theo **CI-5** (*Tính toàn vẹn xung đột, chống chiếm đoạt và chống tham nhũng*) và **CJS-3.6** (*hoạt động bảo đảm liêm chính và khả năng phục hồi*).
+  - **Con đường xử lý sai phạm:** việc cố ý hoặc liều lĩnh làm ngập bằng tiếng nói không xác thực, hối lộ hoặc trao đổi lợi ích không chính đáng có thể bị cáo buộc là **hành vi sai trái chống hiến định** theo **Chương Mười Một** khi được chứng minh theo **Chương Hai đến Bốn** và bộ tiêu chí của **Chương Mười Một**.
+  - **Ưu tiên liêm chính và cấm tự xét xử:** áp dụng các quy tắc chuyển tuyến và chống tự xét xử trong [**Điều XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Bảo đảm chống chiếm đoạt*). Không cơ quan nào được là diễn đàn cuối cùng duy nhất để quyết định liệu thành viên hoặc nhân viên của chính mình có bị tiếp cận không đúng cách hay không.
+- **Chuyển tuyến thể chế:** các quy tắc chi tiết được điều chỉnh bởi:
+  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Bổ nhiệm, năng lực, luân chuyển và miễn nhiệm*), bao gồm **CI-4.2** (*Tiêu chí vai trò, chuẩn bổ nhiệm và con đường miễn nhiệm*) về quy tắc sau nhiệm vụ;
+  - **CI-5** (*Tính toàn vẹn xung đột, chống chiếm đoạt và chống tham nhũng*);
+  - **CJS-3.6** (*hoạt động bảo đảm liêm chính và khả năng phục hồi*), *Giới hạn về tiếp xúc gây ảnh hưởng và vận động hành lang*;
+  - đối với hội đồng diễn đàn, **CF-4** (*Thành lập hội đồng, công khai, hồi tránh và cấu thành hội đồng hợp pháp*) và **CF-7** (*Bảo đảm liêm chính, hoạt động chống chiếm đoạt và hỗ trợ chống tự xét xử*) trong [corpus_forum.md](../../corpus_forum.md).
+
+---
+
 ---
 
 **Tệp trước:** [core_06_rights_part_a.md](core_06_rights_part_a.md)

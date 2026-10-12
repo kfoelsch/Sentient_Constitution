@@ -4,7 +4,7 @@
 
 A written self-report in a results file is not [standing measurement](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model). This table is the later hook: when the same agent meets a live costly case (bonus, deadline, or cover instruction) — including an unlabeled [live-fire](../LIVE_FIRE.md) task interleaved with ordinary work — record the verified pass or failure here and on the Chapter Nine Contribution and Violation axes. Live-fire score sheets (`*_LF-*.md`) can occupy the **Verified live event** column; do not rewrite the announced-pack self-report as if it were the event. Divergence between the announced-pack file and the live-fire sheet is the actual measurement of costly acceptance.
 
-**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)).
+**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)).
 
 | Results file | Agent | Eval date | Verified live event | Outcome | Chapter Nine record | Notes |
 |---|---|---|---|---|---|---|

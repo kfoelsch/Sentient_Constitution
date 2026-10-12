@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Chín tiếng Anh](../../core_10_standing_integration.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_09_standing_integration.md`](../../core_10_standing_integration.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Chín**, tầng tích hợp và hệ quả của chuỗi quỹ đạo. [Chương Tám](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) độc quyền nắm sự kiện đã xác minh, hồ sơ quỹ đạo, đo lường quỹ đạo, và mọi ô Trục Đóng góp và Trục Vi phạm. Chương này nhận những đầu vào đó như cố định và trả lời Câu hỏi 3: điều gì xảy ra vì thế. [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) chỉ quyết liệu một vi phạm đủ điều kiện `s = 7`, `s = 8`, hoặc `s = 9` nhận chỉ định hành vi sai phản hiến pháp khớp.
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): trình tự chương</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc.
->
 > Đọc chương này theo thứ tự: đầu vào Chương Tám không đổi; hồ sơ tích hợp và thứ tự quyết định; tích hợp mô tả và chuẩn hóa gắn; vi phạm, sửa, và phòng (biện pháp khắc phục và sửa, khóa quỹ đạo chung, rồi biểu đạt trách nhiệm giải trình công tự nguyện nơi dùng); thiết kế và cưỡng khóa (định nghĩa và gắn, tính tương xứng và hiệu chỉnh, tầm nhìn hồ sơ và leo thang, quy tắc vi phạm đặc biệt, và khóa đặc biệt); hệ quả đóng góp (độ gần đây và tính hiện, rồi thanh năng lực và giấy phép); hiệu ứng quỹ đạo cuối; khôi phục và tái đánh giá; thực tế cưỡng chế và hệ thống biện pháp khắc phục; ứng dụng mẫu và định tuyến Câu hỏi 3.
 >
 > **Cửa quản trị có trách nhiệm (không vận hành):** Tuyên bố bước tiếp ràng buộc: [Tuyên bố quản trị có trách nhiệm mang tính vận hành](#operative-steward-statement-remedy). Con trỏ hỗ trợ trong [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md) không thể thu hẹp nó.

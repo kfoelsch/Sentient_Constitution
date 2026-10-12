@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > 本文件是[英语第十章，A 部分](../../core_11_a_misconduct_designation.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > 本文件包含**第十章，A 部分** — 指定决定框架、标准集、违规轴 `s = 7–9` 指定附着、正当程序保障、救济、预防锁定，以及自愿公开问责表达。**B 部分** — 具名模式应用与标准路由 — 在 [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)。
@@ -33,8 +31,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：跨章地图与阅读顺序</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > 在[延续宗旨](core_00_preamble.md#continuity)下，当最高影响行为威胁把[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**、**监督**、**问责**与**及时性** — 掏空到[实质利害](core_00_preamble.md#material-stake)要求之下时，指定审查保护长时段宪法运行。
 >
 > **跨章地图**

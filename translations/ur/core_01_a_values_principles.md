@@ -1463,7 +1463,7 @@ flowchart TB
 
 - بالائی تعلق: [§11 منڈی کی ساخت](#11-market-structure)؛ [منڈی کے ارتکاز کی حد](core_05_band_accountability.md#market-concentration-threshold)۔
 - زیریں تعلق: **CJS-3.11.1 — منڈی کے ارتکاز کی حد مقرر کرنے کا نظم (اختیار کرنے والا حسبِ حال بدل سکتا ہے)** (حد مقرر کرنے کے عملی قواعد)؛ [§11.2 مقابلے کا فروغ اور غلبے کی روک تھام](#112-pro-competition-and-anti-domination)؛ [§11.3 ادغام کی بالائی حد](#113-consolidation-ceiling)؛ [CJS-3.11.3 — ادغام کی بالائی حد مقرر کرنے کا نظم (اختیار کرنے والا حسبِ حال بدل سکتا ہے)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) کے عملی حد بندی کے قواعد)؛ [باب نہم §4 سوال 2 — یہ کتنا اچھا یا برا تھا؟](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it)؛ [باب یازدہم §5.1 ارتکاز پر مبنی تخریب](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)۔
-- نگہبان کا دروازہ (غیر عملی): اگلے قدم کا کارڈ: [منڈی کی ساخت](implementation/STEWARD_ENTRY_DOORS.md#market-structure)۔ یہ کارڈ آئین کا دائرہ محدود نہیں کر سکتا۔
+- نگہبان کا دروازہ (غیر عملی): اگلے قدم کا کارڈ: [منڈی کی ساخت](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - ذیلی حصے (مطالعے کی ترتیب): [§11.1.1 ارتکاز کی حد کے محرکات (اختیار کرنے والا حسبِ حال بدل سکتا ہے)](#1111-concentration-threshold-triggers-adopter-tunable)۔
 
 </details>

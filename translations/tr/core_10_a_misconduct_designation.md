@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce Onuncu Bölüm, A Kısmı](../../core_11_a_misconduct_designation.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Onuncu Bölüm, A Kısmı**nı içerir — atama karar çerçevesi, ölçüt kümesi, İhlal Ekseni `s = 7–9` atama iliştirmesi, usul güvencesi korumaları, çare, önleme kilitleri ve gönüllü kamusal hesap verebilirlik ifadesi. **B Kısmı** — adlandırılmış örüntü uygulamaları ve ölçüt yönlendirmesi — [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)dedir.
@@ -33,8 +31,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değil): bölümler-arası harita ve okuma sırası</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > [Süreklilik amacı](core_00_preamble.md#continuity) altında atama incelemesi, en yüksek etkili davranışın [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad)yü — **katılım**, **gözetim**, **hesap verebilirlik** ve **zamanındalık** — [maddi pay](core_00_preamble.md#material-stake) gereklerinin altına oyuklaştırmakla tehdit ettiği yerde uzun-ufuklu anayasal işlemi korur.
 >
 > **Bölümler-arası harita**

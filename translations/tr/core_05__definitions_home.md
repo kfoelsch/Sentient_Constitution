@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
+
 >
 > Bu dosya, [İngilizce Beşinci Bölüm, A Kısmı](../../core_05__definitions_home.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_05__definitions_home.md`](../../core_05__definitions_home.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değil): okuma sırası ve yalın dil notu</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu bölümde ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
+
 >
 > Yalın dil okuma notu: yüksek düzey değerler ve yön için **Birinci Bölümü**; tanım yapısı, bütünlük ve doğrulama mekaniği için **İkinci Bölümden Dördüncü Bölüme**; ve temel **haklar** tabanı için **Altıncı Bölümü** okuyun, sonra yorum, denetim ve hükme bağlamada terim kesinliği için bu bölüme dönün. (Diğer bölümler, **Onuncu Bölüm** *Kötü davranış* ve **Sekizinci Bölüm** *Güzergâh* dahil, kendi okuma yollarında uygulanır; Altıncı Bölüm Hak Tabanının ya da İkinci Bölümden Dördüncü Bölüme tanım mekaniğinin yerine geçmezler.)
 
@@ -100,7 +100,6 @@ Bir tanıma Bağımsız ya da Yarı-bağımsız demek, küme üyeliğini atlamas
 <details>
 <summary><strong><span style="color: #2563eb;">Alfabetik dizin: tanımlar ve kümeler</span></strong></summary>
 
-> Bu dizin **yalnızca okur rehberidir**. Bu bölümdeki bağlayıcı yükümlülükleri eklemez, çıkarmaz, yeniden sıralamaz ya da daraltmaz. İşlemsel anlam aşağıda tanım girdilerinde kalır.
 
 Bu dizin **Tanımlar A-Z** ve **Kümeler A-Z**yi ayrı listeler. Her görünür Beşinci Bölüm tanım etiketi bir kez, her numaralı küme başlığı bir kez görünür. Bağlantılar yalnızca gezinme için kararlı çıpalar kullanır; yönlendirme kuralları, işaretçi girdileri, alternatif evler ya da taslak tanımlar yaratmaz. Bağımlı kümeler için ortak-karşılama kuralları yukarıda [kesit 2 — Bağımlı küme meta kuralları](#2-dependent-cluster-meta-rules) altında belirtilir.
 
@@ -210,6 +209,7 @@ Bu dizin **Tanımlar A-Z** ve **Kümeler A-Z**yi ayrı listeler. Her görünür 
 - [Şans oyunu](../../core_05_band_accountability.md#game-of-chance)
 - [Geçit](../../core_05_band_oversight.md#gate)
 - [Kapı Kriterleri](../../core_05_band_oversight.md#gate-criteria)
+- [Canlıya Geçiş](../../core_05_band_continuity.md#go-live)
 - [İyi niyet](../../core_05_band_accountability.md#good-faith)
 - [Yönetişim](../../core_05_band_accountability.md#governance)
 - [Kademeli yetkinlik](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -231,7 +231,9 @@ Bu dizin **Tanımlar A-Z** ve **Kümeler A-Z**yi ayrı listeler. Her görünür 
 - [Yenilik ödülü ve kapatma karşıtı](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [İçeriden avantaj](../../core_05_band_accountability.md#insider-advantage)
 - [Örnekleme rızası](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [Kurum](../../core_05_band_continuity.md#institution)
 - [Kurumsal Gelişim](../../core_05_band_continuity.md#institutional-development)
+- [İlgili Taraf](../../core_05_band_accountability.md#interested-party)
 - [Kuşaklar arası sorumluluk](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [Geri döndürülemez yoksunluk ölçüsü](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [Geri döndürülemez zarar](../../core_05_band_accountability.md#irreversible-harm)
@@ -275,10 +277,12 @@ Bu dizin **Tanımlar A-Z** ve **Kümeler A-Z**yi ayrı listeler. Her görünür 
 - [Katılımcı güzergâhı](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [Katılım](core_05_apex_participation_leg.md#participation-constitutional)
 - [Kişilik](../../core_05_band_participation.md#personhood)
+- [Pilot Projesi](../../core_05_band_continuity.md#pilot)
 - [Basın ve gazetecilik etkinliği](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [Birincil pay yönlendirme](../../core_05_band_accountability.md#primary-stakes-routing)
 - [Mahremiyet (Bilgisel)](../../core_05_band_continuity.md#privacy-informational)
 - [Usul adilliği](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [Süreç](../../core_05_band_continuity.md#process)
 - [Üretken kapasite](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [Orantılılık](../../core_05_band_accountability.md#proportionality)
 - [Orantılı sistemler arası katkı](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -436,7 +440,7 @@ Beşinci Bölüm tanımları [İki Anayasal Amaç](core_00_preamble.md#two-const
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değil): Önsöz ölçüm çapraz yürüyüşü</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu bölümde ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
+
 >
 > [Önsöz §2](core_00_preamble.md#measurements-overview) yedi anayasal **ölçüm kategorisi** listeler — işletenlerin sistemleri değerlendirirken sorduğu sorular. Beşinci Bölüm **kanonik tanımları** Dörtlü bacağı, **Süreklilik** amacı ve **Bütünleştirici** bacaklar arası sahiplik ile düzenler. Aşağıdaki tablo her ölçüm kategorisini Beşinci Bölüm evlerine haritalar. Bir kategori birden çok bant dosyasını kapsayabilir; ölçüm kategorileri örtüştüğünde kanonik evler yer değiştirmez.
 >

@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">संग्रह में स्थान (गैर-संक्रियात्मक): फ़ाइल संरचना और पढ़ने के नियम</span></strong></summary>
 
-> नीचे की सामग्री **केवल पाठक मार्गदर्शन** है। यह इस फ़ाइल या अन्य अध्यायों में बाध्यकारी कर्तव्यों को जोड़ती, घटाती या संकीर्ण नहीं करती।
->
 > यह फ़ाइल [अंग्रेज़ी अध्याय पाँच, भाग क](../../core_05__definitions_home.md) का **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_05__definitions_home.md`](../../core_05__definitions_home.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
 >
 > **पिछला (इस लोकेल में):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">पाठक मार्गदर्शन (गैर-संक्रियात्मक): पढ़ने का क्रम और साधारण-भाषा टिप्पणी</span></strong></summary>
 
-> नीचे की सामग्री **केवल पाठक मार्गदर्शन** है। यह इस अध्याय या अन्य अध्यायों में बाध्यकारी कर्तव्यों को जोड़ती, घटाती या संकीर्ण नहीं करती।
->
 > साधारण-भाषा पढ़ने की टिप्पणी: उच्च-स्तरीय मूल्यों और दिशा के लिए **अध्याय एक** पढ़ें; परिभाषा संरचना, अखंडता और सत्यापन यांत्रिकी के लिए **अध्याय दो से चार**; और आधारभूत **अधिकार**-तल के लिए **अध्याय छह**, फिर व्याख्या, लेखापरीक्षा और न्यायनिर्णयन में पद-सटीकता के लिए इस अध्याय पर लौटें। (अन्य अध्याय, **अध्याय दस** *दुराचरण* और **अध्याय आठ** *प्रस्थिति* सहित, अपने पढ़ने के मार्गों पर लागू होते हैं; वे अध्याय छह के अधिकार-तल या अध्याय दो से चार की परिभाषा यांत्रिकी का स्थानापन्न नहीं हैं।)
 
 </details>
@@ -212,6 +208,7 @@
 - [संयोग का खेल](../../core_05_band_accountability.md#game-of-chance)
 - [द्वार](../../core_05_band_oversight.md#gate)
 - [द्वार मानदंड](../../core_05_band_oversight.md#gate-criteria)
+- [परिचालन प्रारंभ](../../core_05_band_continuity.md#go-live)
 - [सद्भाव](../../core_05_band_accountability.md#good-faith)
 - [शासन](../../core_05_band_accountability.md#governance)
 - [क्रमिक क्षमता](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -232,7 +229,9 @@
 - [आरंभिक आसन](../../core_05_band_accountability.md#initiating-seat)
 - [नवाचार पुरस्कार और घेरा-निरोध](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [आंतरिक लाभ](../../core_05_band_accountability.md#insider-advantage)
+- [संस्था](../../core_05_band_continuity.md#institution)
 - [इंस्टैंसिएशन सहमति](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [इच्छुक पक्ष](../../core_05_band_accountability.md#interested-party)
 - [संस्थागत विकास](../../core_05_band_continuity.md#institutional-development)
 - [अंतरपीढ़ी जिम्मेदारी](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [अपरिवर्तनीय वंचन माप](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
@@ -278,10 +277,12 @@
 - [सहभागी प्रस्थिति](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [सहभागिता](core_05_apex_participation_leg.md#participation-constitutional)
 - [व्यक्तित्व](../../core_05_band_participation.md#personhood)
+- [पायलट](../../core_05_band_continuity.md#pilot)
 - [प्रेस और पत्रकारीय गतिविधि](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [प्राथमिक-दाँव मार्गन](../../core_05_band_accountability.md#primary-stakes-routing)
 - [निजता (सूचनात्मक)](../../core_05_band_continuity.md#privacy-informational)
 - [प्रक्रियात्मक निष्पक्षता](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [प्रक्रिया](../../core_05_band_continuity.md#process)
 - [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [आनुपातिकता](../../core_05_band_accountability.md#proportionality)
 - [आनुपातिक अंतर-प्रणाली योगदान](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -442,8 +443,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">पाठक मार्गदर्शन (गैर-संक्रियात्मक): प्रस्तावना मापन-क्रॉसवॉक</span></strong></summary>
 
-> नीचे की सामग्री **केवल पाठक मार्गदर्शन** है। यह इस अध्याय या अन्य अध्यायों में बाध्यकारी कर्तव्यों को जोड़ती, घटाती या संकीर्ण नहीं करती।
->
 > [प्रस्तावना §2](core_00_preamble.md#measurements-overview) सात संवैधानिक **मापन श्रेणियाँ** सूचीबद्ध करती है — वे प्रश्न जो संचालक प्रणालियों का आकलन करते समय पूछते हैं। अध्याय पाँच **प्रामाणिक परिभाषाओं** को चतुष्क टाँग, **सातत्य** उद्देश्य, और **एकीकृत** क्रॉस-टाँग स्वामित्व के अनुसार संगठित करता है। नीचे की तालिका प्रत्येक मापन श्रेणी को उसके अध्याय-पाँच घरों से जोड़ती है। कोई श्रेणी एक से अधिक पट्टी फ़ाइलों पर फैल सकती है; प्रामाणिक घर नहीं खिसकते जब मापन श्रेणियाँ ओवरलैप करें।
 >
 > **तात्विकता** ([तात्विकता निर्धारण](../../core_05_band_oversight.md#materiality-determination)) एकीकृत है — [भौतिक दाँव](core_00_preamble.md#material-stake) के अधीन सभी मापन परिवारों को स्केल करने वाला अनुप्रस्थ देहलीज़ द्वार; वह नीचे की तालिका में अलग श्रेणी नहीं है।

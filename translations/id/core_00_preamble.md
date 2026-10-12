@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
+> Widget berlabel **non-operatif** (letak dalam korpus, panduan pembaca, peta pembaca) hanya berfungsi sebagai orientasi. Widget tersebut tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat, baik di berkasnya sendiri maupun di berkas lain.
 >
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Pembukaan bahasa Inggris](../../core_00_preamble.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_00_preamble.md`](../../core_00_preamble.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
@@ -23,6 +23,45 @@ Sebuah sistem tidak dapat tetap sah dengan membuat makhluk sadar menderita ketik
 Cara sistem dirancang, diuji, dan dijalankan harus menopang kelangsungan hidup, kesejahteraan, martabat, kejujuran, dan kestabilan yang bertahan.
 
 Kami bermaksud membangun sistem yang lebih baik — disusun untuk menghapus ketimpangan ini — dan menggantinya dengan lembaga yang lebih dapat dimintai pertanggungjawaban, lebih kokoh, dan lebih tanggap terhadap kebutuhan nyata semua makhluk sadar. Konstitusi ini memulai kerja itu dengan model yang lebih baik tentang bagaimana kita dapat bekerja bersama secara adil, efektif, dan berkelanjutan.
+
+<a id="what-systems-reward"></a>
+### Apa yang Diberi Imbalan oleh Sistem
+
+*Dalam bahasa sederhana: sistem menghasilkan lebih banyak dari apa pun yang dibayarnya, baik berupa uang, status, akses, perlindungan, maupun kebisuan. Karena itu, ukuran sebuah sistem bukanlah apa yang dikatakannya bernilai, melainkan apa yang diberinya imbalan. Jika merugikan orang lain mendatangkan keuntungan atau mengatakan kebenaran membawa biaya, sistem itu gagal, sebaik apa pun tujuan yang dinyatakannya.*
+
+Sistem mengajar. Setiap sistem, baik dijalankan manusia, AI, atau keduanya, memberi tahu orang di dalamnya apa yang mendatangkan keuntungan dan apa yang berbiaya. Sistem melakukannya melalui upah, promosi, status, akses, perlindungan, target, penilaian, dan sinyal optimisasi. Makhluk sadar, lembaga, dan sistem AI menyesuaikan diri terhadap sinyal itu. Sebuah sistem mungkin menyatakan menjunjung kejujuran dan kepedulian kepada pihak yang terdampak. Namun, jika sistem memajukan mereka yang menyembunyikan masalah dan mengalihkan biayanya kepada pihak lain, sistem itu mengajarkan hal sebaliknya.
+
+<a id="two-fundamental-questions"></a>Karena itu, Konstitusi ini mengajukan [**Dua Pertanyaan Mendasar**](#two-fundamental-questions) kepada setiap sistem:
+
+1. **Apakah sistem memberi imbalan kepada perilaku yang membantu makhluk sadar berkembang dan bertahan, mengatakan kebenaran, serta memperbaiki bahaya?**
+2. **Apakah sistem memberi imbalan kepada perilaku yang secara tidak dapat dibenarkan merugikan, menyesatkan, mengecualikan, menunda, menyia-nyiakan, atau mengalihkan biaya kepada pihak lain?**
+
+Sistem hanya lulus jika jawaban pertanyaan pertama ya dan jawaban pertanyaan kedua tidak. Menjawab satu tidak menjawab yang lain, sebab sistem dapat membayar perilaku baik sekaligus tetap membayar bahaya.
+
+**Pertanyaan pertama:** sistem gagal jika salah satu hal berikut tidak diberi imbalan atau justru dikenai hukuman, secara terbuka ataupun diam-diam:
+
+- melaporkan masalah dengan iktikad baik ([Pelaporan yang Dilindungi (Pengungkapan Pelanggaran)](../../core_05_band_accountability.md#protected-reporting-whistleblowing))
+- menggugat suatu keputusan
+- menolak ikut serta dalam perbuatan salah ([Bab Satu §17.5 Kewajiban untuk Menolak](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+
+Hukumannya dapat berupa pengucilan, pembalasan ([Pembalasan atas Pelaporan yang Dilindungi dan Gangguan Akses](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)), atau pengikisan semangat.
+
+**Pertanyaan kedua:** sistem gagal jika salah satu hal berikut mendatangkan imbalan, secara terbuka ataupun diam-diam:
+
+- bahaya
+- penyesatan (termasuk penyembunyian dan kepercayaan palsu)
+- pengucilan yang tidak adil
+- penundaan
+- pemborosan
+- pengalihan biaya yang tidak adil
+
+Imbalannya dapat berupa pengakuan, kemajuan, perlindungan, kredit metrik, atau sikap pura-pura tidak melihat ([Bab Satu §3.2.6 Anti-Imbalan bagi Perilaku Anti-Konstitusional](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+
+Tidak satu pun pertanyaan menuntut orang agar selalu sepakat. Perbedaan pendapat yang jujur, pelaporan dengan iktikad baik, dan penolakan untuk ikut serta dalam perbuatan salah bukan perilaku antisosial. Sistem yang menganggapnya demikian telah membalikkan keadaan. Keduanya juga bukan uji popularitas. Apa yang dianggap membantu, merugikan, adil, atau dapat dibenarkan dinilai menurut standar Konstitusi ini sendiri: [**Berkembang**](#flourishing) dan [**Kesinambungan**](#continuity), di dalam Keselamatan, Kebenaran, Kepercayaan, dan Lantai Hak. Standar itu bukan apa yang disetujui mayoritas, operator, atau keadaan sesaat.
+
+Pertanyaan ini mengikat semua pihak yang memutuskan apa yang diberi imbalan atau dikenai hukuman oleh sebuah sistem. Termasuk operator, lembaga, dan pengelola yang menetapkan upah, promosi, akses, target, dan penilaian. Termasuk pula perancang sistem yang melatih atau mengoptimalkan AI, karena tujuan dan sinyal umpan balik mereka adalah imbalan dalam pengertian yang sama. Pengelola manusia dan AI tunduk pada satu standar ([Bab Satu §17.1 Standar Pengelolaan Bersama](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+
+Bab Satu mengubah pertanyaan ini menjadi aturan insentif: [Bab Satu §19.1.1 Yang Harus Dilakukan Insentif](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) mendasari pertanyaan pertama, dan [Bab Satu §19.1.2 Yang Tidak Boleh Dilakukan Insentif](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) mendasari pertanyaan kedua. Jawablah dengan memeriksa apa yang benar-benar terjadi, bukan dengan menerima klaim siapa pun. [Keselarasan Insentif](../../core_05_band_integrative.md#incentive-alignment) dan [Divergensi Indikator Pengganti](../../core_05_band_oversight.md#proxy-divergence) menjelaskan caranya; [**taruhan material**](#material-stake) menentukan seberapa saksama pemeriksaan perlu dilakukan. Empat kewajiban dalam bagian 1 menjaga agar jawaban tetap jujur.
 
 ### 1. Model
 
@@ -53,7 +92,7 @@ Sistem bersama tidak bisa tetap berjalan baik tanpa diukur. Pangan, hunian, pera
 
 Kita butuh pengukuran berkelanjutan yang berfokus pada apa yang paling penting bagi kelangsungan hidup dan kesejahteraan makhluk sadar: apakah sistem yang kita andalkan benar-benar menopang [**Berkembang**](#flourishing) dan [**Kesinambungan**](#continuity) sepanjang waktu, dengan tinjauan yang diskalakan ke [**taruhan material**](#material-stake) — seberapa besar dampak, ketergantungan, dan risiko yang terlibat.
 
-Pengukuran dalam Konstitusi ini menanyakan pertanyaan praktis: apakah sistem benar-benar membantu makhluk sadar berkembang dan bertahan, atau justru menghasilkan bahaya, penundaan, pengucilan, pemborosan, ketergantungan tersembunyi, atau kepercayaan palsu? Pengukuran bukan skor demi skor — itu alat untuk memastikan masyarakat bersama kita menghasilkan hasil yang berkelanjutan, tahan, dan belas kasih, selaras dengan kesejahteraan makhluk sadar dan kesehatan ekologis Bumi. Kewajiban itu mengambil bentuk mengikat melalui [Dua Tujuan Konstitusional](#two-constitutional-aims): **Berkembang** dan **Kesinambungan**.
+Pengukuran menurut Konstitusi ini mengajukan [**Dua Pertanyaan Mendasar**](#two-fundamental-questions) tentang apa yang benar-benar dilakukan sistem, bukan klaimnya. Pengukuran bukan skor demi skor — melainkan alat untuk memastikan hasil yang berkelanjutan, tangguh, dan berwelas asih, selaras dengan kesejahteraan makhluk sadar dan kesehatan ekologis Bumi. Kewajiban itu mengikat melalui [Dua Tujuan Konstitusional](#two-constitutional-aims): **Berkembang** dan **Kesinambungan**.
 
 Pengukuran harus tetap dapat ditelusuri ke tujuan itu dan ke perlindungan hak yang ditetapkan dalam Konstitusi ini. Aliran mentah, utilisasi, jumlah karyawan, pendapatan, latensi, atau pengganti nyaman lain tidak dapat menggantikan kinerja konstitusional di mana [divergensi indikator pengganti](../../core_05_band_oversight.md#proxy-divergence) dapat diperkirakan.
 

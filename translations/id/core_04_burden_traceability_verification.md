@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Empat bahasa Inggris](../../core_04_burden_traceability_verification.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > **Sebelumnya (lokal ini):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): di mana Bab Empat hidup dan apa yang tetap di sini</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di bab ini atau di bab lain.
->
 > Di mana ini hidup (navigasi):
 > - **Peta Tetrad:** Alokasi beban, bukti, ketelusuran, observabilitas, dan verifikasi mengimplementasikan kaki **pengawasan** dan **pertanggungjawaban** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) yang ditetapkan dalam [Pembukaan](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **partisipasi** di mana dituntut secara material lewat observabilitas praktis dan gugatan independen di bawah bagian **3** dan **4**. Persyaratan diskalakan dengan [taruhan material](core_00_preamble.md#material-stake).
 > - **Pemilik konstitusional:** alokasi beban, bukti kepatuhan, ketelusuran definisi, observabilitas, dan verifikasi berbatas-keamanan. **Bab Delapan** memiliki disiplin catatan jejak dan masukan terverifikasi yang dibaca bersama bab ini.

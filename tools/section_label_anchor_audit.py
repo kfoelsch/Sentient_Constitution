@@ -43,6 +43,37 @@ RULE = "SECTION-LABEL-ANCHOR-01"
 RULE_CITE = "SECTION-CITE-MATCH-01"
 RULE_SEQ = "NAV-HEADING-SEQUENCE-01"
 
+# Public-facing pages that readers act on. Their section labels must match the
+# target headings like the core's do (FRONT-DOOR-LABEL-01 in doc_architecture.md),
+# even when they live under implementation/ or project/, which otherwise keep
+# fossil § labels by design.
+FRONT_DOOR_FILES = (
+    "START_HERE.md",
+    "AGENTS.md",
+    "CONTRIBUTING.md",
+    "docs/index.md",
+    "project/VISION.md",
+    "implementation/FAQ.md",
+    "implementation/STEWARD_ENTRY_DOORS.md",
+    "implementation/PROCESS_PIPELINES_READER.md",
+)
+FRONT_DOOR_GLOBS = (
+    "implementation/adoption/*.md",
+    "implementation/adoption/easy_entry/*.md",
+    "guides/*.md",
+)
+
+
+def front_door_files(root: Path) -> list[str]:
+    names = list(FRONT_DOOR_FILES)
+    for pattern in FRONT_DOOR_GLOBS:
+        names.extend(
+            path.relative_to(root).as_posix()
+            for path in sorted(root.glob(pattern))
+            if path.is_file()
+        )
+    return names
+
 ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
 ATX_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 NUM_RE = re.compile(r"^(\d+(?:\.\d+)*)\.?(?:\s+|$)")
@@ -300,11 +331,21 @@ def link_labels(text: str, line_no: int, fragment: str) -> list[str]:
 
 def audit(root: Path) -> list[str]:
     errors: list[str] = []
+    front_door_names = front_door_files(root)
+    front_door = set(front_door_names)
     cache: dict[Path, tuple[dict[str, dict], list[tuple[int, str, int]]]] = {}
     anchor_cache: dict[Path, set[str]] = {}
     root_resolved = root.resolve()
     sequenced: set[Path] = set()
-    for source in source_paths(root):
+    # Front-door pages are checked for label/anchor drift only; they stay out of
+    # source_paths() so the id resolver and the fossil-anchor audit keep their scope.
+    scanned = list(source_paths(root))
+    known = {path.relative_to(root).as_posix() for path in scanned}
+    for name in front_door_names:
+        path = root / name
+        if name not in known and path.is_file():
+            scanned.append(path)
+    for source in scanned:
         text = source.read_text(encoding="utf-8")
         rel = source.relative_to(root).as_posix()
         if source.name.startswith("core_") and source.suffix == ".md":
@@ -332,7 +373,9 @@ def audit(root: Path) -> list[str]:
             if not prose:
                 continue
             # Support/history files keep fossil § labels by design.
-            if rel.startswith(("implementation/", "evaluation/")):
+            if rel.startswith(("implementation/", "evaluation/")) and (
+                rel not in front_door
+            ):
                 continue
             if target_path not in anchor_cache:
                 anchor_cache[target_path] = anchors_in(

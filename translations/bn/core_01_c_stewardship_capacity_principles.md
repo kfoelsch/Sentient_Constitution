@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">করপাসে অবস্থান (কার্যকরী বিধান নয়): ফাইলের কাঠামো ও পাঠের নিয়ম</span></strong></summary>
 
-> নিম্নলিখিত বিষয়বস্তু কেবল পাঠকের দিকনির্দেশনা। এটি এই ফাইলের বা অন্য অধ্যায়ের কোথাও বাধ্যতামূলক দায়বদ্ধতা যোগ, অপসারণ বা সংকুচিত করে না।
->
 > এই ফাইলটি **Sentient Constitution**-এর অংশ এবং একক দলিল হিসেবে একত্রে পঠিত অন্যান্য নম্বরযুক্ত `core_*` ফাইলের সঙ্গে মিলেই কেবল বাধ্যতামূলক। এতে রয়েছে **অধ্যায় এক, অংশ C** (§§16–20: তত্ত্বাবধান, শাসনব্যবস্থা, প্রণোদনার সামঞ্জস্য ও দখল, এবং সমন্বিত প্রয়োগের সমাপনী অংশ)।
 >
 > **পূর্ববর্তী:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (অধ্যায় এক, অংশ B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">পাঠকের নির্দেশনা (কার্যকরী বিধান নয়): নীতির স্তরক্রম ও পাঠের ধারা (অংশ C)</span></strong></summary>
 
-> নিম্নলিখিত বিষয়বস্তু কেবল পাঠকের দিকনির্দেশনা। এটি এই ফাইলের বা অন্য অধ্যায়ের কোথাও বাধ্যতামূলক দায়বদ্ধতা যোগ, অপসারণ বা সংকুচিত করে না। প্রতিটি §-এ কোনো পরিভাষা গুরুত্বপূর্ণভাবে ব্যবহৃত হলে সেই স্থানে **Trace** এবং **Definitions · Assessment · Compliance** উইজেট পথনির্দেশ দেয়; §§16–20-এর আগে এই অংশটি সমগ্র অংশের জন্য একটি পারস্পরিক-সংযোগ মানচিত্র।
+> প্রতিটি §-এ কোনো পরিভাষা গুরুত্বপূর্ণভাবে ব্যবহৃত হলে সেই স্থানে **Trace** এবং **Definitions · Assessment · Compliance** উইজেট পথনির্দেশ দেয়; §§16–20-এর আগে এই অংশটি সমগ্র অংশের জন্য একটি পারস্পরিক-সংযোগ মানচিত্র।
 
 **নীতির স্তরক্রম (অংশ C)।** নীতির স্তরে:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - ঊর্ধ্বসূত্র: [§17 পরিণামমুখী তত্ত্বাবধান](#17-consequential-stewardship-the-steward-role) (*স্তম্ভ 1*); [§16 গভীরতায় তত্ত্বাবধান](#16-stewardship-in-depth) (মূল অংশ, ওপরের *সহজ ভাষায়* এবং স্তম্ভ 3-এর কাঠামোসহ); [5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)।
 - একসঙ্গে পড়ুন: [সাংবিধানিক চতুর্মাত্রা](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** উপাদান ([অর্থবহ সক্ষমতা](core_05_band_participation.md#meaningful-agency), [শিক্ষামূলক সক্ষমতা](core_05_band_participation.md#educational-agency)); **তদারকি** উপাদান ([স্বচ্ছতা](core_05_band_oversight.md#transparency), [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability)); [বস্তুগত স্বার্থ](core_00_preamble.md#material-stake) অনুযায়ী মাত্রা নির্ধারণ।
-- তত্ত্বাবধায়কদের প্রবেশদ্বার (কার্যকরী বিধান নয়): পরবর্তী ধাপের কার্ড: [বোধগম্যতা](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility)। কার্ডটি সংবিধানের পরিধি সংকুচিত করতে পারে না।
+- তত্ত্বাবধায়কদের প্রবেশদ্বার (কার্যকরী বিধান নয়): পরবর্তী ধাপের কার্ড: [বোধগম্যতা](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - নিম্নসূত্র: [13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সীমা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); অধিকার-ক্ষেত্র, বিশেষত [অনুচ্ছেদ XVI: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [অনুচ্ছেদ XXII: বোধগম্যতা ও জটিলতার তত্ত্বাবধান](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)।
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - ঊর্ধ্বসূত্র: [§17 পরিণামমুখী তত্ত্বাবধান](#17-consequential-stewardship-the-steward-role); [§16 গভীরতায় তত্ত্বাবধান](#16-stewardship-in-depth); [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](#18-governance-under-stewardship-discipline)।
 - সঙ্গে পড়ুন: [সেন্টিয়েন্সের ভিত্তিতে বর্জন নয়](core_05_band_participation.md#sentience-non-exclusion) এবং [ভিত্তি-শ্রেণি](core_05_band_participation.md#substrate-class) (*ভিত্তি-নিরপেক্ষ প্রয়োগ — এই উপধারা দায়িত্বধারীদের বাধ্য করে, যার মধ্যে স্বীকৃত সেন্টিয়েন্ট নয় এমন এজেন্ট ও পরিচালনাকারীরাও রয়েছেন*); [কর্তৃত্ব-ক্রম ও অভ্যন্তরীণ শ্রেণিবিন্যাস](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [সাংবিধানিক সীমাবদ্ধতা](core_05_band_integrative.md#constitutional-constraint); [আপত্তিযোগ্যতা](core_05_band_accountability.md#contestability); [§17.5 প্রতিরোধের কর্তব্য](#175-duty-to-resist)।
-- তত্ত্বাবধায়কদের প্রবেশদ্বার (কার্যকরী বিধান নয়): পরবর্তী ধাপের কার্ড: [যৌথ তত্ত্বাবধান](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship)। কার্ডটি সংবিধানের পরিধি সংকুচিত করতে পারে না।
+- তত্ত্বাবধায়কদের প্রবেশদ্বার (কার্যকরী বিধান নয়): পরবর্তী ধাপের কার্ড: [যৌথ তত্ত্বাবধান](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - নিম্নসূত্র: [§17.2 চাপের মধ্যে সামঞ্জস্য](#172-alignment-under-pressure); [§17.3 তত্ত্বাবধায়ক নয়, ভূমিকা নথিবদ্ধ করা](#173-logging-the-role-not-the-steward); [অধ্যায় তেরো §5 — অনুমোদিত ভূমিকা, সক্ষমতা বিকাশ ও অবদান](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [অধ্যায় সতেরো](core_17_incorporation.md) (*গৃহীত বাস্তবায়ন-পাঠ বাস্তবায়ন করে, প্রতিস্থাপন করে না*); [§19.1.3 তত্ত্বাবধান ও পরিচালনাকারীর ক্ষেত্রে প্রয়োগ](#1913-stewardship-and-operator-application)।
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - পূর্ববর্তী ভিত্তি: [§17 পরিণামসম্পন্ন Stewardship](#17-consequential-stewardship-the-steward-role); [§17.1 যৌথ Stewardship মানদণ্ড](#171-shared-stewardship-standard) (*কাদের ওপর কর্তব্যটি বাধ্যতামূলক*); [§17.2 চাপের মধ্যে সামঞ্জস্য](#172-alignment-under-pressure) (*আড়াল করার নির্দেশটি একটি ব্যর্থ পরীক্ষা*); [4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint) এবং [5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)।
 - পাশাপাশি পড়ুন: [কর্তৃত্বের স্তরবিন্যাস ও অভ্যন্তরীণ শ্রেণিবিন্যাস](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [সুরক্ষিত প্রতিবেদন (অনিয়ম প্রকাশ)](core_05_band_accountability.md#protected-reporting-whistleblowing); [অনুচ্ছেদ XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তিমাত্রা*) — প্রতিরোধের সময়ও আপত্তির পথ খোলা থাকে।
-- Steward প্রবেশদ্বার (অপারেশনাল নয়): পরবর্তী পদক্ষেপের কার্ড: [বেআইনি নির্দেশ](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction)। কার্ডটি সংবিধানের পরিসর সংকুচিত করতে পারে না।
+- Steward প্রবেশদ্বার (অপারেশনাল নয়): পরবর্তী পদক্ষেপের কার্ড: [বেআইনি নির্দেশ](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - পরবর্তী প্রভাব: [অধ্যায় দশ §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*প্রতিরোধের কর্তব্য — লঙ্ঘনের নিয়ম ও standing-এর প্রভাব*); [CS-4 §10 পরিদর্শনযোগ্য ও আরোপযোগ্য কাজ](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*পরিদর্শনযোগ্য, আরোপযোগ্য কাজ — প্রত্যাখ্যানের ন্যূনতম নথি*)।
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - নিম্নসূত্র: [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency) এবং [§14 পরম অগ্রাহ্যকরণের নিষেধাজ্ঞা](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 - নিম্নসূত্র: [§13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [অধ্যায় তেরো §5 — অনুমোদিত ভূমিকা, দক্ষতার বিকাশ ও অবদান](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — সংকটাপন্ন ব্যবস্থার স্টুয়ার্ডশিপ**।
 - নিম্নসূত্র: [অধ্যায় ছয়: মৌলিক অধিকার](core_06_rights_part_a.md#chapter-six-foundational-rights)-জুড়ে কর্মক্ষমতা, অংশগ্রহণ, প্রণোদনা-সামঞ্জস্য, তথ্য-পরিমণ্ডলের অখণ্ডতা, অবস্থান, এবং দখল-প্রতিরোধী পর্যালোচনার অধিকারক্ষেত্রকে লক্ষ্য করে; বিশেষত [অনুচ্ছেদ X: আত্মনিয়ন্ত্রণ, কর্মক্ষমতা ও অংশগ্রহণ](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [অনুচ্ছেদ XII: অংশীজন ব্যবস্থায় অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [অনুচ্ছেদ XIII-D: প্রণোদনা-সামঞ্জস্যের সীমাবদ্ধতা](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [অনুচ্ছেদ XV: তথ্য-পরিমণ্ডলের অখণ্ডতা](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [অনুচ্ছেদ XIX: অবস্থান ও অংশগ্রহণের মর্যাদা](core_06_rights_part_d.md#article-xix-standing-and-participation-status), এবং [অনুচ্ছেদ XXIV: সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-প্রতিরোধী সুরক্ষা](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)।
-- স্টুয়ার্ড প্রবেশদ্বার (কার্যকর নয়): পরবর্তী পদক্ষেপের কার্ড: [প্রণোদনা-সামঞ্জস্য](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment)। কার্ডটি সংবিধানের পরিসর সংকুচিত করতে পারে না।
+- স্টুয়ার্ড প্রবেশদ্বার (কার্যকর নয়): পরবর্তী পদক্ষেপের কার্ড: [প্রণোদনা-সামঞ্জস্য](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

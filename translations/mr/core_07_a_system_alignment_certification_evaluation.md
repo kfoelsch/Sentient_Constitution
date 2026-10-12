@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">संग्रहस्थान (असंक्रियात्मक): फाइल रचना आणि वाचन नियम</span></strong></summary>
 
-> खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
->
 > ही फाइल [इंग्रजी अध्याय सात, भाग अ](../../core_08_a_system_alignment_certification_evaluation.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
 > **अध्याय सात, भाग अ** समाविष्ट करते — प्रमाणन **मूल्यमापन** अपेक्षा (प्रणाली वर्ग, संपूर्ण-प्रणाली घटक, आणि क्षेत्र मूल्यमापन हुक). **भाग ब** — प्रमाणन अभिलेख, मंच प्रक्रिया, प्रस्थिति पूल, आणि पुनर्उघडणे — [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) मध्ये आहे.
@@ -40,122 +38,285 @@
 > **संक्रियात्मक व्यवस्थापक विधान.** **मालक:** अध्याय सात (मंच-देखरेखीखालील SAC). तत्त्व-स्तराचा भिंग: अध्याय एक §14. SAC अनुच्छेद XVI / लेखापरीक्षण-योग्यता खाली एक विशेष मोठी लेखापरीक्षण प्रक्रिया आहे — एकमेव लेखापरीक्षण नाही. **निषिद्ध चाल:** एकक चाचण्या, गोपनीयता तपासयाद्या, किंवा स्थानिक संरेखित लेबले प्रमाणन मानू नका. आव्हान खिडकी वगळू नका. पाचवे लेखापरीक्षण घर शोधू नका. प्रमाणन बिल्ला किंवा LEQU गुण संज्ञ-दर्जा मानू नका. **घड्याळ:** संरेखित दाव्यापूर्वी, प्रभावित-पक्ष आव्हान खिडकी धरून, आव्हानयोग्य अध्याय सात मार्ग उघडा किंवा पुनर्स्थापित करा.
 
 <a id="1-purpose-and-role"></a>
-### 1. उद्दिष्ट आणि भूमिका
+
+### 1. उद्देश आणि भूमिका
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- वरून: [प्रस्तावना — संवैधानिक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) आणि [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); [भौतिक दाव](core_00_preamble.md#material-stake); [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) आणि [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional) (अध्याय पाच); सहभाग मापन कुटुंब (*आवाज, प्रवेश, आणि आव्हान मार्ग*); [अध्याय एक §9 उत्तरदायी व्यवस्थापन आणि वितरित समज](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [अध्याय एक §14 प्रणालीगत मूल्यमापन अपेक्षा](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*तत्त्व-स्तराचा संपूर्ण-प्रणाली मूल्यमापन भिंग — एका कोपऱ्याने नव्हे*); अध्याय दोन ते चार; [अध्याय पाच](core_05__definitions_home.md#chapter-five-foundational-definitions) (*प्रामाणिक व्याख्या*); [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) (अध्याय पाच प्रामाणिक पद; असंक्रियात्मक संक्षेप **SAC**); [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) (अध्याय पाच अर्थ).
-- पुढे: [§2](#2-system-class-evaluation) आणि [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*प्रणाली वर्ग मूल्यमापन आणि उदाहरणार्थ प्रोफाइल*); [§3.8](#38-illustrative-whole-system-application-by-class) (*वर्गनिहाय काम केलेली संपूर्ण-प्रणाली उदाहरणे*); [§4.1](#41-illustrative-data-handling-application-by-class) (*वर्गनिहाय काम केलेली डेटा-हाताळणी उदाहरणे*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*वर्गनिहाय काम केलेली पारिस्थितिक-पदचिन्ह उदाहरणे*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*वर्गनिहाय काम केलेली आंतर-प्रणाली-आधार उदाहरणे*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*वर्गनिहाय काम केलेली भेदभाव-निषेध उदाहरणे*); [§8.1](#81-illustrative-accessibility-application-by-class) (*वर्गनिहाय काम केलेली सुलभता उदाहरणे*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*वर्गनिहाय काम केलेली शैक्षणिक-क्षमता उदाहरणे*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*वर्गनिहाय काम केलेली विश्वासार्हता उदाहरणे*); [§3](#3-whole-system-certification-evaluation) (*संपूर्ण-प्रणाली प्रमाणन मूल्यमापन घटक*); [§4](#4-data-types-and-handling-evaluation) ते [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*क्षेत्र मूल्यमापने*); [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*प्रमाणन अभिलेख आशय*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता अपेक्षा*); [भाग ब §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*मंच-घटक भूमिका*); [भाग ब §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*देखरेख क्रम आणि आव्हानयोग्यता शृंखला*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*प्रस्थिति-अभिलेख पूल*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*पुनर्उघडणे आणि टाळाटाळ-विरोध*); [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*प्रस्थिति अभिलेख आणि सत्यापित-इनपुट द्वार*); [अध्याय नऊ](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*प्रस्थिति परिणाम आणि एकत्रीकरण*); [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*मंच देखरेख, प्रमाणन, संरेखन मान्यता, आणि समीक्षा*).
-- सोबत वाचा: [corpus_systems.md](../../corpus_systems.md), विशेषतः **CS-3 — प्रणाली वर्गीकरण आणि हाताळणी**, **CS-2 — माहिती प्रकार आणि हाताळणी**, आणि **CS-5**; [corpus_forum.md](../../corpus_forum.md), विशेषतः **CF-5** (*मार्गनिर्देशन संक्रिया, हस्तांतरण, प्रमाणन, आणि प्रतिनिधी वागणूक*) आणि **CF-7** (*अखंडता रक्षणे, ताबा-विरोधी संक्रिया, आणि स्व-न्यायाधीश-विरोध आधार*); **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*) आणि [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) (*लेखापरीक्षण तळ — SAC देखरेखीखाली एक विशेष मोठी लेखापरीक्षण प्रक्रिया आहे, एकमेव लेखापरीक्षण घर नाही*); **CJS-3.3**–**CJS-3.5** (*लेखापरीक्षण-योग्यता, लेखापरीक्षण-प्रवेश, आणि स्वतंत्र-सत्यापन पदे*).
+- पूर्वाधार: [प्रस्तावना — संवैधानिक मालक नोंदणी](../../core_00_preamble.md#4-principles-definitions-and-rights) आणि [प्राधिकार-रचना व अंतर्गत श्रेणीक्रम](../../core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [संवैधानिक चतुष्क](../../core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](../../core_00_preamble.md#two-constitutional-aims); [भौतिक दाव](../../core_00_preamble.md#material-stake); [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) आणि [मूलभूत न्याय्यता](../../core_05_band_participation.md#substantive-fairness) (अध्याय पाच); सहभाग मापन कुटुंब (*आवाज, प्रवेश, आणि आव्हान मार्ग*); [अध्याय एक §16 उत्तरदायी व्यवस्थापनाचा सखोल विचार](../../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [अध्याय एक §12 प्रणालीगत मूल्यमापन अपेक्षा](../../core_01_a_values_principles.md#12-systemic-evaluation-requirement) (*तत्त्व-स्तरावरील संपूर्ण-प्रणाली मूल्यमापनाचा दृष्टिकोन — एका कोपऱ्यापुरता नव्हे*); अध्याय दोन ते चार; [अध्याय पाच](../../core_05__definitions_home.md#chapter-five-foundational-definitions) (*प्रामाणिक व्याख्या*); [अध्याय सात §2 चार-आसन संवैधानिक तळ](../../core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); [प्रणाली संरेखन प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification) (अध्याय पाचमधील प्रामाणिक पद; असंक्रियात्मक संक्षिप्त रूप **SAC**); [प्रणाली प्रमाणन अभिलेख](../../core_05_band_continuity.md#system-certification-record) (अध्याय पाचमधील अर्थ).
+- पुढील: [§2](#2-system-class-evaluation) (*प्रणाली-वर्ग मूल्यमापन*); [भाग ब §9.1](core_07_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*प्रमाणनाला आव्हान देणे*); [भाग क मधील प्रणाली-वर्ग प्रोफाइल](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive); [भाग क मधील संपूर्ण-प्रणाली उदाहरणे](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive); [§3.4.8](../../core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive); [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive); [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive); [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive); [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive); [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive); [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive); [§3](#3-whole-system-certification-evaluation); [§3.4](#34-data-types-and-handling-evaluation) ते [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*क्षेत्र मूल्यमापने*); [भाग ब §6](core_07_b_system_alignment_certification_record_process.md#6-forum-process); [भाग ब §6.1](core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles); [भाग ब §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record); [भाग ब §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability); [भाग ब §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes); [भाग ब §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing); [अध्याय नऊ](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [अध्याय दहा](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration); [अध्याय बारा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
+- सोबत वाचा: [corpus_systems.md](../../corpus_systems.md), विशेषतः **CS-3 — प्रणाली वर्गीकरण आणि हाताळणी**, **CS-2 — माहितीचे प्रकार आणि हाताळणी**, आणि **CS-5** (*वापरकर्त्यासमोर दिसणाऱ्या क्षमता पृष्ठभागांबद्दल*); [corpus_forum.md](../../corpus_forum.md), विशेषतः **CF-5** (*मार्गनिर्देशन, हस्तांतरण, प्रमाणन आणि प्रतिनिधिक वागणूक*) आणि **CF-7** (*अखंडता-संरक्षण, ताबा मिळवण्याविरोधी कार्यपद्धती आणि स्व-न्यायनिर्णयविरोधी आधार*); **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*) आणि [लेखापरीक्षणयोग्यता](../../core_05_band_oversight.md#auditability); **CJS-3.3** (*देखरेख: लेखापरीक्षणयोग्यता आणि पुनर्रचना संज्ञा (परिशिष्ट)*) ते **CJS-3.5** (*देखरेख: स्वतंत्र पडताळणी आणि दाव्यांच्या अखंडतेच्या संज्ञा*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: जेव्हा एखादी प्रणाली संज्ञ प्राण्यांच्या जीवनात खरोखर महत्त्वाची असते, तेव्हा प्रमाणन **प्रमाणबद्ध** असले पाहिजे — प्रणालीच्या खऱ्या प्रभाव, अवलंबित्व आणि धोक्याने जितके कठोर हवे तितके, सर्वांसाठी एकच तपासयादी किंवा रबर शिक्का नाही. ते **सहभागी**ही असले पाहिजे — प्रभावित संज्ञ प्राणी आणि समुदायांना काय समीक्षित झाले ते पाहता आले पाहिजे, काय ठरले ते समजले पाहिजे, आणि काही चुकले तर आव्हान देता आले पाहिजे. मंच पुरावा समीक्षित करतात, तो प्रमाणन अभिलेखावर लिहितात, आणि प्रणाली किती धोकादायक आहे त्यानुसार वेळापत्रकावर पुन्हा तपास मागतात. प्रमाणन लोकप्रियता गुण, कायमचा पास, किंवा अधिकार समीक्षा टाळण्याचा मार्ग नाही. प्रणालीच्या संरेखनाबद्दल आता काय माहीत आहे याचे काल-बद्ध, आव्हानयोग्य विधान आहे. चतुष्काच्या **देखरेख** पायाखाली देखरेख लेखापरीक्षण मागते; प्रणाली-संरेखन प्रमाणन इतरांपैकी एक विशेष मोठी, उच्च-दावा लेखापरीक्षण प्रक्रिया आहे — एकमेव लेखापरीक्षण घर नाही (**अनुच्छेद XVI**, [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability)).*
+*सोप्या भाषेत: एखादी प्रणाली संज्ञ प्राण्यांच्या जीवनासाठी खरोखर महत्त्वाची असेल, तर प्रमाणन **प्रमाणबद्ध** असले पाहिजे — प्रणालीचा खरा प्रभाव, अवलंबित्व आणि धोका जितकी कठोरता मागतात तितकी; सर्वांसाठी एकच तपाससूची किंवा केवळ शिक्का नव्हे. ते **सहभागी**ही असले पाहिजे: प्रभावित संज्ञ प्राणी आणि समुदायांना काय तपासले ते पाहता आले पाहिजे, काय ठरले ते समजले पाहिजे, आणि काही चुकल्यास आव्हान देता आले पाहिजे. मंच पुराव्याचा आढावा घेतात, तो प्रमाणन अभिलेखात नोंदवतात, आणि प्रणालीच्या धोक्यानुसार पुन्हा तपासणीचे वेळापत्रक ठरवतात. वर्ग A, B आणि C साठी पूर्ण प्रक्रिया, तर वर्ग L साठी हलकी प्रक्रिया लागू होते. वर्ग P ने ही प्रक्रिया वापरावी असे प्रोत्साहन आहे; त्याचे परिणाम खाजगी घटकापलीकडे पोहोचले किंवा संचालकाने संवैधानिक अनुपालनाचा दावा केला, तर ती बंधनकारक होते.*
 
-<a id="1-purpose-and-role"></a>
+*प्रमाणन म्हणजे लोकप्रियतेचा गुण, कायमची परवानगी किंवा अधिकार-समीक्षा टाळण्याचा मार्ग नाही. प्रणालीच्या संरेखनाविषयी सध्या ज्ञात असलेल्या गोष्टींचे ते कालमर्यादित, आव्हानयोग्य विधान आहे. चतुष्काच्या **देखरेख** पायाखाली देखरेखीला लेखापरीक्षण आवश्यक असते; प्रणाली संरेखन प्रमाणन ही इतरांपैकी एक विशेष मोठी आणि उच्च-दाव्यांची लेखापरीक्षण प्रक्रिया आहे — लेखापरीक्षणाचे एकमेव घर नाही (**अनुच्छेद XVI**, [लेखापरीक्षणयोग्यता](../../core_05_band_oversight.md#auditability)).*
 
-**प्रणाली-संरेखन प्रमाणन** सांगितलेल्या व्याप्ती आणि समीक्षा वेळापत्रकासाठी एका प्रश्नाचे उत्तर देण्यासाठी अस्तित्वात आहे: प्रणालीने मान्यता, सशर्त मान्यता, सत्यापन, पुनर्वैधता, चालू अवलंब, तैनाती, किंवा अटींपासून भौतिक मुक्ततेसाठी संवैधानिक संरेखन पुरेसे दाखवले आहे का?
+**प्रणाली संरेखन प्रमाणन** घोषित व्याप्ती आणि आढावा वेळापत्रकासाठी एका प्रश्नाचे उत्तर देते: प्रमाणन, सशर्त प्रमाणन, प्रमाणीकरण, पुनःप्रमाणन, प्रणालीवरील सतत अवलंब, तैनाती किंवा अटींमधून महत्त्वपूर्ण मुक्तता यांसाठी प्रणालीने पुरेसे संवैधानिक संरेखन दाखवले आहे का?
 
-देखरेख साधन म्हणून प्रमाणन [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) आणि **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*) खाली एक विशेष मोठी लेखापरीक्षण प्रक्रिया आहे: मंच-देखरेखीखालील, बहु-क्षेत्रीय, आणि मान्यता वाहणारी. ती भगिनी लेखापरीक्षण पद्धती शोषत नाही किंवा त्यांची जागा घेत नाही (**CS-3** खालील प्रणाली वर्गीकरण अभिलेख लेखापरीक्षणे, **CS-2** खालील प्रणाली डेटा-प्रकार अभिलेख लेखापरीक्षणे, जटिलता आणि उत्तरदायी-व्यवस्थापन लेखापरीक्षणे, दावा सत्यापन, आणि सतत-लेखापरीक्षण नामित मार्ग धरून).
+प्रमाणनाची खोली, अभिलेखाचा भार, पुनःप्रमाणनाची वारंवारता, प्रभावित पक्षांचा आढावा आणि आव्हानाचे मार्ग हे [भौतिक दाव](../../core_00_preamble.md#material-stake) लक्षात घेऊन [प्रमाणबद्धतेनुसार](../../core_05_band_accountability.md#proportionality) वाढले पाहिजेत:
 
-प्रमाणन खोली, अभिलेख भार, पुनर्वैधता लय, प्रभावित-पक्ष समीक्षा, आणि आव्हान मार्ग [भौतिक दाव](core_00_preamble.md#material-stake) खाली [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) नुसार प्रमाणित झाले पाहिजेत. उच्च-प्रभाव, उच्च-अवलंबित्व, आणि उच्च-धोका प्रणालींना अधिक मजबूत पुरावा, अधिक स्पष्ट अभिलेख, आणि अधिक व्यावहारिक सहभाग हवा — वास्तविक सुलभता, प्रभावित-पक्ष इनपुट, आणि कोण प्रणालीवर अवलंबून आहे त्यानुसार प्रमाणित आव्हान मार्ग धरून. निम्न वर्ग आणि सीमाबद्ध व्याप्तींनाही प्रामाणिक वर्गीकरण आणि प्रमाणबद्ध आश्वासन हवे; बाह्य परिणाम असतील तिथे भौतिक कर्तव्यांपासून मोकळीक मिळत नाही.
+- अधिक प्रभाव, अवलंबित्व आणि धोका असलेल्या प्रणालींना अधिक ठोस पुरावा, अधिक स्पष्ट अभिलेख आणि अधिक व्यवहार्य सहभाग आवश्यक असतो — यामध्ये मूलभूत सुलभता, प्रभावित पक्षांचा सहभाग आणि प्रणालीवर अवलंबून असलेल्या लोकांनुसार आव्हानाचे मार्ग यांचा समावेश होतो.
+- खालच्या प्रणाली-वर्गांना आणि मर्यादित व्याप्तींनाही प्रामाणिक वर्गीकरण व प्रमाणबद्ध आश्वासन आवश्यक असते; बाह्य परिणाम असल्यास त्या भौतिक दायित्वांतून सुटत नाहीत.
 
-प्रमाणन [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) द्वारे अंमलात आणते:
+[CS-3 §3.5 पुनर्वर्गीकरणाची अपेक्षा](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) नुसार प्रक्रिया प्रभाव-वर्गावर लागू होते:
 
-- **[समुन्नती](core_00_preamble.md#flourishing)** — प्रमाणन पडताळते की मान्यता किंवा चालू अवलंब अधिकार-तळ शांतपणे हरवणार नाही किंवा संवैधानिक संबंधित जीवनातील न्याय्य सहभाग रोखणार नाही;
-- **[सातत्य](core_00_preamble.md#continuity)** — सामायिक प्रणाली पुरवठा द्वार करतात किंवा टिकवतात तिथे प्रमाणन टिकाऊ, अ-पश्चगामी पुरवठा आणि वर्ग-प्रमाणित पुनर्वैधता पडताळते;
-- **सहभाग** — प्रभावित संज्ञ प्राणी आणि समुदाय त्यांना महत्त्वाच्या समीक्षा मार्गांना समजू शकतात, आव्हान देऊ शकतात, आणि त्यात भाग घेऊ शकतात;
-- **देखरेख** — अभिलेख, पुरावा, आणि गृहीते स्वतंत्र तपासणीसाठी पुरेशी दृश्य आणि लेखापरीक्षणयोग्य आहेत; प्रमाणन स्वतः त्या देखरेख कर्तव्याखाली एक विशेष मोठी लेखापरीक्षण प्रक्रिया आहे, एकमेव नाही;
-- **उत्तरदायित्व** — दोष, चुकीचे वर्गीकरण, आणि तळ हरवणारे संचालन, तथ्ये आधार देत असतील तर उपाय, अटी, माघार, किंवा प्रस्थिति इनपुटकडे मार्गनिर्देशित होतात;
-- **समयबद्धता** — समीक्षा आणि आव्हान घड्याळे हानी अजून रोखता किंवा उलटवता येईपर्यंत प्रमाणन जुने पडू देत नाहीत.
+- **वर्ग A, वर्ग B आणि वर्ग C:** या प्रणालींचा प्रभाव, अवलंबित्व आणि धोका सर्वाधिक असतो. [§3](#3-whole-system-certification-evaluation), [§4](#4-evaluations-where-implicated) आणि [§5](#5-rights-floor-and-domain-evaluations) अंतर्गत संपूर्ण-प्रणाली मूल्यमापन लागू असलेल्या प्रत्येक स्तरासाठी पूर्ण खोलीने बंधनकारक आहे;
+- **वर्ग L:** तीच मूल्यमापने बंधनकारक असतात, पण प्रमाणबद्ध स्वरूपात; CS-3 परवानगी देत असल्यास पुन्हा तपासणीचे सामान्य अंतर कमी वारंवार आणि अभिलेख सोपे असू शकतात; आणि
+- **वर्ग P:** प्रणाली वैधरीत्या वर्ग P मध्ये असेपर्यंत ही प्रक्रिया वापरण्यास प्रोत्साहन आहे आणि स्वेच्छेने वापरता येते. वर्ग L किंवा त्याहून वर पुनर्वर्गीकरण झाल्यास, किंवा संचालकाने प्रणालीच्या संवैधानिक अनुपालनाचा स्वेच्छेने दावा केल्यास ती बंधनकारक होते.
 
-हा अध्याय खालील गोष्टींसाठी मंच-देखरेखीखालील प्रमाणन प्रक्रिया चालवतो:
+प्रमाणन [दोन संवैधानिक उद्दिष्टे](../../core_00_preamble.md#two-constitutional-aims) [संवैधानिक चतुष्कातून](../../core_00_preamble.md#constitutional-tetrad) साकारते:
 
-- **प्रणाली वर्ग आणि पुनर्वैधता लय** — किती कठोर पाहतो आणि किती वेळा ([§2](#2-system-class-evaluation));
-- **मूल्यमापने** — संपूर्ण-प्रणाली आणि क्षेत्र तपास ([§3](#3-whole-system-certification-evaluation) ते [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation));
-- **प्रमाणन अभिलेख आशय** — दंडकावर काय जावे ([भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **मान्यता आणि चालू अवलंब** — कोणते निकाल मोजले जातात ([§1](#1-purpose-and-role), [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **आव्हान आणि आव्हानयोग्यता** — आव्हाने मंचांतून कशी पुढे जातात ([भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability), [भाग ब §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain));
-- **प्रमाणन दोष** — प्रमाणन दोषपूर्ण असेल तेव्हा काय होते ([भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) आणि अध्यायातील मूल्यमापन विभाग).
+- **[समुन्नती](../../core_00_preamble.md#flourishing)** — प्रमाणन किंवा सततचा अवलंब अधिकार-तळांना गुपचूप निष्प्रभ करणार नाही किंवा संवैधानिकदृष्ट्या महत्त्वाच्या जीवनातील न्याय्य सहभाग रोखणार नाही, याची खात्री प्रमाणन करते;
+- **[सातत्य](../../core_00_preamble.md#continuity)** — निरोगी नैसर्गिक प्रणाली टिकवणारा, त्यांचा ऱ्हास न करणारा टिकाऊ आणि मागे न जाणारा पुरवठा प्रमाणन तपासते ([परिसंस्था अखंडता](../../core_05_band_continuity.md#ecological-integrity), ज्यात [परिसंस्था पुनर्प्राप्ती क्षमता](../../core_05_band_continuity.md#ecological-recovery-capacity) समाविष्ट आहे); तसेच सामायिक प्रणाली पुरवठा नियंत्रित किंवा टिकवतात तिथे प्रणाली-वर्गानुसार पुनःप्रमाणन तपासते;
+- **सहभाग** — प्रभावित संज्ञ प्राणी आणि समुदाय त्यांच्यासाठी महत्त्वाचे असलेले आढावा मार्ग समजू शकतात, आव्हान देऊ शकतात आणि त्यात भाग घेऊ शकतात;
+- **देखरेख** — स्वतंत्र तपासणीसाठी अभिलेख, पुरावे आणि गृहीतके पुरेसे दृश्यमान व लेखापरीक्षणयोग्य असतात; प्रमाणन हे त्या कर्तव्याखालील एक मोठे लेखापरीक्षण आहे, एकमेव नाही;
+- **उत्तरदायित्व** — दोष, चुकीचे वर्गीकरण आणि अधिकार-तळ निष्प्रभ करणारे संचालन, तथ्यांचा आधार असल्यास, उपाय, अटी, माघार किंवा प्रस्थिति इनपुटकडे पाठवले जाते;
+- **समयबद्धता** — हानी अजून रोखता किंवा उलटवता येत असताना प्रमाणन जुने पडू नये म्हणून आढावा आणि आव्हानांच्या कालमर्यादा मदत करतात.
 
-उदाहरणार्थ **वर्ग A**, **वर्ग B**, आणि **वर्ग C** प्रोफाइल — आणि वर्ग या अध्यायात प्रमाणन खोली कशी प्रमाणित करतो — [§2.1](#21-illustrative-class-profiles-non-exhaustive) मध्ये आहेत. त्याच तीन प्रणालींसाठी काम केलेली मार्गदर्शने [§3.8](#38-illustrative-whole-system-application-by-class) (*संपूर्ण-प्रणाली मूल्यमापन*), [§4.1](#41-illustrative-data-handling-application-by-class) (*डेटा प्रकार आणि हाताळणी*), [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*पारिस्थितिक पदचिन्ह*), [§6.1](#61-illustrative-cross-system-support-application-by-class) (*प्रमाणबद्ध आंतर-प्रणाली योगदान*), [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*भेदभाव-निषेध*), [§8.1](#81-illustrative-accessibility-application-by-class) (*सुलभता*), [§9.1](#91-illustrative-educational-capability-application-by-class) (*शैक्षणिक क्षमता*), आणि [§10.1](#101-illustrative-trustworthiness-application-by-class) (*विश्वासार्हता*) मध्ये आहेत.
+देखरेखीचे साधन म्हणून प्रमाणन, [लेखापरीक्षणयोग्यता](../../core_05_band_oversight.md#auditability) आणि **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*) अंतर्गत एक विशेष मोठी लेखापरीक्षण प्रक्रिया आहे:
 
-हा अध्याय पडताळण्यास मदत करणारे अधिकार-तळ **§1.1** मध्ये हाताळले आहेत.
+- ती मंचाच्या देखरेखीखाली असते, अनेक क्षेत्रे व्यापते आणि दर्जा प्रदान करते.
+- संबंधित लेखापरीक्षण पद्धतींचे निष्कर्ष ती समाविष्ट करू शकते, पण त्या पद्धतींना स्वतःत विलीन किंवा त्यांची जागा घेत नाही. लेखापरीक्षण प्रक्रियेच्या [सहभागी लेखापरीक्षण पद्धतींच्या मालक-नकाशात](../../corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) प्रत्येक पद्धतीचा स्वतंत्र मालक नमूद आहे:
+  - **CS-2** अंतर्गत प्रणाली डेटा-प्रकार अभिलेखाचे लेखापरीक्षण;
+  - **CS-3** अंतर्गत प्रणाली वर्गीकरण अभिलेखाचे लेखापरीक्षण;
+  - **CS-4** अंतर्गत उत्तरदायी व्यवस्थापन आश्वासन आढावे;
+  - **CS-5** (*अभिकल्पना, चाचणी, पडताळणी आणि तैनाती*) अंतर्गत सतत लेखापरीक्षण ACA;
+  - **CS-6** आणि **अनुच्छेद XXIII-B** अंतर्गत गुंतागुंत लेखापरीक्षण;
+  - **CJS-3.5** अंतर्गत दाव्यांची पडताळणी.
+- यांपैकी कोणतीही तपासणी प्रमाणन प्रक्रियेतून न जाता स्वतंत्रपणे करता येते. प्रमाणन त्यांची जागा घेत नाही.
 
+<a id="11-certification-at-a-glance"></a>
 
-<a id="11-rights-floors-this-chapter-helps-verify"></a>
-#### 1.1 हा अध्याय पडताळण्यास मदत करणारे अधिकार-तळ
+#### 1.1 प्रमाणन एका दृष्टीक्षेपात
 
-जेव्हा भौतिक प्रभावी प्रणाली संज्ञ प्राणी कसे जगतात ते द्वार करतात किंवा आकार देतात, तेव्हा प्रमाणन तपासते की त्यांना मान्यता देणे अध्याय सहाचे **अधिकार-तळ** शांतपणे हरवणार नाही, यासह:
+*सोप्या भाषेत: प्रणालीचे प्रामाणिक वर्गीकरण करा, लागू मूल्यमापने चालवा, मंचांकडून पुरावे आणि प्रभावित पक्षांच्या चिंता स्वतंत्रपणे तपासून घ्या, आणि निकाल ठरवा. मंच-आढाव्यासाठी उघडलेला एकच अभिलेख पूर्ण करा आणि खुल्या आव्हान मार्गासह प्रकाशित करा. सूचना-अवधी आणि आवश्यक संरक्षणे पूर्ण झाल्यानंतरच प्रमाणित प्रणाली सुरू होते. प्रत्यक्ष परिणामांचे निरीक्षण करा, घटना व आव्हानांना प्रतिसाद द्या, आणि ठरलेल्या वेळी किंवा तथ्ये बदलल्यास पुन्हा तपासा. दोष दुरुस्त करा आणि प्रभावित व्याप्तीला परवानगी देण्यापूर्वी किंवा तिच्या अटी सोडण्यापूर्वी दुरुस्तीची स्वतंत्र पडताळणी करून घ्या. प्रत्येक आढावा फेरीत मागील अभिलेखाशी जोडलेला नवा अभिलेख वापरला जातो.*
 
-- **अनुच्छेद III-A** (*जीवनरक्षा*) खालील **जीवनरक्षा आवश्यक** — अन्न, पाणी, निवारा, संचालन वातावरण, आणि तुलनायोग्य आधार-निरपेक्ष इनपुट;
-- **अनुच्छेद III-B** (*समान शैक्षणिक प्रवेश*) खालील **समान शैक्षणिक प्रवेश**;
-- **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) खालील **संज्ञ-केंद्रित शैक्षणिक क्षमता** — जिथे प्रणाली पुनर्प्रशिक्षण आणि आजीवन-शिक्षण नामित मार्ग श्रेणीबद्ध, मूल्यमापन, शिफारस, ठेवणूक, ओळखपत्र-द्वार, किंवा भौतिक रीतीने द्वार करतात;
-- **अनुच्छेद V-B** (*भेदभाव-निषेध*) खालील **भेदभाव-निषेध** — जिथे प्रणाली संज्ञ प्राण्यांमध्ये वर्गीकरण, द्वार, किंमत, श्रेणी, किंवा भार आणि लाभ वाटप करतात;
-- **अनुच्छेद V-G** (*सुलभता*) खालील **सुलभता** — जिथे प्रणाली संवैधानिक संबंधित क्षेत्रांत वास्तविक सहभाग द्वार करतात;
-- **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) खालील **विश्वसनीय आणि विश्वासार्ह प्रणाली वर्तन** — जिथे प्रणाली दर्शवलेले वर्तन, मर्यादा, धोके, आव्हान मार्ग, किंवा निराकरणावरील संज्ञ अवलंब भौतिक रीतीने आकार देतात;
-- **अनुच्छेद XIII-A** (*विश्वसनीयता आणि विश्वासार्हता आधाररेषा*) आणि [**सुरक्षित स्थिती**](core_05_band_continuity.md#safe-conditions-constitutional) खालील **सुरक्षित स्थिती** — जिथे प्रणाली उत्पादक क्रिया पुरवतात किंवा द्वार करतात;
-- **अनुच्छेद IV** (*संसाधन वाटप, अवलंबित्वे, आणि परिसंस्था निधी*) खालील **संसाधन वाटप**, जिथे प्रणाली सामायिक पायाभूत सुविधांमधून किंवा मूलभूत अवलंबित्वांतून वाटप, मार्गनिर्देशन, निधी, किंवा काढणी करतात तिथे **अनुच्छेद IV-B** (*आंतर-प्रणाली न्याय आणि शाश्वतता*) खालील [प्रमाणबद्ध आंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) धरून.
+प्रक्रिया **सहा टप्प्यांत** चालते: **I चौकट ठरवणे**, **II मूल्यमापन**, **III आढावा**, **IV निर्णय**, **V अभिलेख**, आणि **VI संचालन**. टप्पा II चे तीन स्तर आहेत: **IIa** (नेहमी), **IIb** (लागू ठरल्यास), आणि **IIc** (सक्रिय झाल्यास). टप्पा VI चे दोन उपटप्पे आहेत: **VIa** (संचालन व पुनःप्रमाणन, [§9](core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) आणि **VIb** (प्रस्थिति सेतू, [§10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing)). आकृती संपूर्ण प्रमाणन प्रक्रिया याच क्रमाने दाखवते. भाग अ पहिल्या दोन टप्प्यांचा — चौकट आणि मूल्यमापनाचा — समावेश करतो; [भाग ब](core_07_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) पुढील चार टप्पे हाताळतो: मंच प्रक्रिया, निकाल व सुरू करण्याची परवानगी, अभिलेख आणि संचालन (आव्हान मार्ग, पुनःप्रमाणन व पुन्हा उघडणे, आणि प्रस्थिति सेतू).
+
+लागू असलेले प्रत्येक मूल्यमापन प्रत्येक प्रमाणन फेरीत पुन्हा केले जाते: प्रथम प्रमाणनावेळी, [§2](#2-system-class-evaluation) ने ठरवलेल्या वेळापत्रकानुसार प्रत्येक पुनःप्रमाणनावेळी, आणि प्रत्येक पुन्हा उघडलेल्या किंवा नव्या आढाव्यात. भौतिक तथ्ये बदलल्यास पुढील नियोजित पुनःप्रमाणनापूर्वी आढावा पुन्हा उघडला जातो — उदा., प्रणालीवरील अवलंबित्व वाढणे, सामायिक पायाभूत घटकांतून अधिक निष्कर्षण, प्रणाली त्यात परत घालते त्या योगदानात लक्षणीय घट, किंवा विश्वासार्ह आव्हान. [भाग ब §9](core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) कारणे सूचीबद्ध करतो.
+
+```mermaid
+flowchart TB
+    T(["भौतिक प्रभाव असलेली प्रणाली प्रमाणन मागते,<br/>किंवा तिच्यावरील अवलंबित्व वाढते"])
+    C["टप्पा I, चौकट — §2<br/>प्रामाणिक वर्गीकरण करा<br/><br/>वर्ग खोली आणि पुन्हा तपासणीचे वेळापत्रक ठरवतो"]
+    subgraph W["टप्पा II, मूल्यमापन — §3–§5 संपूर्ण-प्रणाली मूल्यमापन"]
+        direction LR
+        Al["IIa, §3.1–§3.4 — नेहमी<br/><br/>प्रणालीगत धोका: मूल्यमापन आणि गरजूंना<br/>प्रकटीकरण; काल-दृष्टी; शासन;<br/>डेटा प्रकार"]
+        Im["IIb, §4 — लागू ठरल्यास<br/><br/>गोपनीयतेची क्षेत्रे, बाहेर पडण्याचे अधिकार,<br/>एकत्र येणे आणि मतभेद"]
+        Tr["IIc, §5 — सक्रिय झाल्यास<br/><br/>लागू अधिकार-तळ तपासण्या<br/>आणि सहा क्षेत्रीय मूल्यमापने"]
+        Al ~~~ Im ~~~ Tr
+    end
+    F["टप्पा III, आढावा — §6<br/>पुरावे आणि प्रभावित पक्षांच्या चिंतांचा<br/>स्वतंत्र आढावा<br/><br/>नियुक्त मंच निष्कर्ष देतात;<br/>आव्हान मार्ग खुले राहतात"]
+    Rec["टप्पा V, अभिलेख — §8<br/>एक प्रणाली प्रमाणन अभिलेख<br/><br/>मंच-आढाव्यासाठी उघडला; निकाल,<br/>आधारभूत निष्कर्ष, अटी आणि संचालन योजना जोडून पूर्ण केला"]
+    S[["अध्याय नऊ — प्रस्थिति<br/>अभिलेख<br/><br/>या अध्यायाबाहेर"]]
+    O{"टप्पा IV, निर्णय — §7<br/><br/>पुरावे कोणत्या निकालाला आणि<br/>दर्जाला आधार देतात?"}
+    Fc["पूर्ण प्रमाणन — §7, §9.2<br/><br/>आवश्यक सलग, दोषरहित तात्पुरती पुनःप्रमाणने;<br/>सध्याचे किंवा आसन्न असंरेखन सूचित नाही<br/>पुनःप्रमाणन कालावधी मोठा; अटी लागू असू शकतात"]
+    Pc["तात्पुरते प्रमाणन — §7, §9.2<br/><br/>पहिले अनुदान, असंरेखनानंतर पुनर्प्राप्ती,<br/>किंवा तात्पुरत्या दर्जाची निरंतरता/कमी केलेला दर्जा<br/>पुनःप्रमाणन कालावधी लहान; अटी लागू असू शकतात"]
+    Nc["प्रमाणित नाही — §7<br/><br/>स्थगित, नाकारले, मागे घेतले किंवा कालबाह्य<br/>सुरू करता येणार नाही; कारणे आणि अपेक्षित दुरुस्ती नमूद करा"]
+    Pub["पूर्ण अभिलेख प्रकाशित करा — §7, §9.1<br/><br/>प्रकाशित अभिलेखाचा आव्हान मार्ग उघडा;<br/>नव्या किंवा वाढीव व्याप्तीसाठी सुरू होणे आणि सूचना नमूद करा"]
+    G{"सुरू करण्याचा अडसर — §7<br/><br/>प्रमाणन आणि लागू सुरूवात-पूर्व अटी<br/>पूर्ण झाल्या आहेत?"}
+    Hold["सुरूवात-पूर्व अटी पूर्ण करा — §7<br/><br/>सूचना पूर्ण करा आणि सुरू करण्यापूर्वी आवश्यक<br/>अटींची स्वतंत्र पडताळणी करा"]
+    Rm["संरक्षण आणि दुरुस्ती — §7, §9.2<br/><br/>प्रभावित व्याप्तीत नवे संचालन सुरू करू नका;<br/>प्रभावित संज्ञ प्राण्यांचे संरक्षण करा, अभिकल्पना किंवा संचालन सुधारा,<br/>आणि स्वतंत्र पडताळणीसाठी पुरावा द्या"]
+    Ch["टप्पा VIa, संचालन व पुनःप्रमाणन — §9–§9.2<br/>निरीक्षण करा आणि आव्हाने खुली ठेवा<br/><br/>प्रमाणित व्याप्ती व अटींमध्ये संचालन करा;<br/>परिणाम पाहा आणि घटना व आव्हानांना प्रतिसाद द्या"]
+    S2[["अध्याय नऊ — प्रस्थिति<br/>अभिलेख<br/><br/>या अध्यायाबाहेर"]]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    Re["पुढील आढावा फेरी — §9<br/><br/>पुनःप्रमाणन, पुन्हा उघडणे किंवा नवा आढावा;<br/>प्रत्येक फेरी मागील अभिलेखाशी जोडलेला नवा अभिलेख उघडते"]
+    T --> C
+    A1((A)) --> C
+    C --> W
+    W --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, §10 —<br/>फक्त पडताळलेले इनपुट;<br/>सध्याचे प्रमाणन किंवा प्रमाणनादरम्यान<br/>उद्भवलेली तथ्ये| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|प्रमाणित नाही| Rm
+    G --->|होय: अभिलेखाच्या<br/>मर्यादेत संचालन| Ch
+    G --->|प्रमाणित,<br/>अटी प्रलंबित| Hold
+    Hold --> G
+    Ch -->|भौतिक दोष:<br/>संरक्षण आणि दुरुस्ती| Rm
+    Ch -->|वेळापत्रकानुसार, किंवा<br/>भौतिक बदल अथवा<br/>विश्वासार्ह आव्हानामुळे<br/>आढावा आवश्यक| Re
+    Ch -.->|VIb, §10 —<br/>फक्त पडताळलेले इनपुट;<br/>संचालन योगदान व उल्लंघन<br/>अभिलेखांसाठी तथ्ये देऊ शकते| S2
+    Rm -->|पुढील आढावा फेरीत<br/>दुरुस्तीचा पुरावा<br/>तपासला जातो| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style T fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style Al fill:none,stroke:#16a34a,color:#ffffff
+    style Im fill:none,stroke:#16a34a,color:#ffffff
+    style Tr fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
+
+<details>
+<summary><strong><span style="color: #2563eb;">वाचक मार्गदर्शक (असंक्रियात्मक): सहा टप्पे</span></strong></summary>
+
+> | टप्पा | विभाग | टप्पा कोणत्या प्रश्नाचे उत्तर देतो | कुठे |
+> |-------|----------|----------------------------|-------|
+> | **I. चौकट** | [§2](#2-system-class-evaluation) | प्रणालीचा वर्ग कोणता, आणि तिचे मूल्यमापन किती खोलवर व किती वेळा करावे? | भाग अ |
+> | **II. मूल्यमापन** | [§3](#3-whole-system-certification-evaluation) (IIa, नेहमी) · [§4](#4-evaluations-where-implicated) (IIb, लागू असल्यास) · [§5](#5-rights-floor-and-domain-evaluations) (IIc, सक्रिय झाल्यास) | संपूर्ण प्रणाली काय करते — नेहमी, लागू असल्यास आणि सक्रिय झाल्यास? | भाग अ |
+> | **III. आढावा** | [§6](core_07_b_system_alignment_certification_record_process.md#6-forum-process) | कोणते स्वतंत्र मंच पुरावे आणि प्रभावित पक्षांच्या चिंता, कोणत्या क्रमाने तपासतात आणि त्यांना आव्हान कसे देता येते? | भाग ब |
+> | **IV. निर्णय** | [§7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) | मंच कोणता निकाल देतात आणि प्रणाली सुरू होऊ शकते का? | भाग ब |
+> | **V. अभिलेख** | [§8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) | मंच-आढाव्यासाठी उघडलेला एक अभिलेख निकाल, आधारभूत निष्कर्ष, अटी आणि संचालन योजनेसह पूर्ण आहे का, आणि त्याचे लेखापरीक्षण करता येते का? | भाग ब |
+> | **VI. संचालन** | [§9](core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, संचालन आणि पुनःप्रमाणन) · [§10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, प्रस्थिति सेतू) | परिणामांचे निरीक्षण आणि घटना/आव्हानांना प्रतिसाद कोण देतो, दुरुस्त्या कशा पडताळल्या जातात, आढावा कधी पुन्हा होतो आणि प्रस्थितीपर्यंत काय पोहोचते? | भाग ब |
+>
+> **वर्ग A**, **वर्ग B** आणि **वर्ग C** ची उदाहरणार्थ प्रोफाइल — आणि या अध्यायात प्रणाली-वर्ग प्रमाणनाची खोली कशी ठरवतो — [उदाहरणार्थ प्रणाली-वर्ग प्रोफाइल (असंपूर्ण)](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) येथे आहेत. [§3](#3-whole-system-certification-evaluation) ते [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) मधील प्रत्येक मूल्यमापन क्षेत्रासाठी त्याच तीन प्रणालींची सविस्तर उदाहरणे [भाग क — उदाहरणे](../../core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) येथे आहेत. प्रत्येक प्रोफाइल आणि उदाहरण त्याने दाखवलेल्या भाग अ विभागाशी जोडलेले आहे.
+
+</details>
+
+<br>
+
 
 <a id="2-system-class-evaluation"></a>
 
-### 2. प्रणाली वर्ग मूल्यमापन
+### 2. प्रणाली-वर्गाचे मूल्यांकन
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण आणि संबंध</span></strong></summary>
 
-- वरून: [§1](#1-purpose-and-role) (*उद्दिष्ट आणि भूमिका*); एकत्रित भौतिकता ([भौतिकता निर्धार](core_05_band_oversight.md#materiality-determination)) (*भौतिकता*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), [धोका](core_05_band_continuity.md#risk), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), आणि [व्याप्ती-सनद](core_05_band_continuity.md#charter) (अध्याय पाच); [अध्याय एक §14 प्रणालीगत मूल्यमापन अपेक्षा](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); **अनुच्छेद III-A** (*जीवनरक्षा*) आणि **अनुच्छेद III-B** (*वर्गीकरण प्रवेश द्वार करते तिथे अधिकार-तळ पुरवठा*); **अनुच्छेद IV-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) आणि **अनुच्छेद IV-B** (*प्रमाणन सामायिक-पायाभूत अवलंब द्वार करते तिथे संसाधन वाटप आणि अवलंबित्व उत्तरदायी व्यवस्थापन*).
-- पुढे: [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*उदाहरणार्थ वर्ग प्रोफाइल*); [§3.8](#38-illustrative-whole-system-application-by-class) (*वर्गनिहाय काम केलेली संपूर्ण-प्रणाली उदाहरणे*); [§4.1](#41-illustrative-data-handling-application-by-class) (*वर्गनिहाय काम केलेली डेटा-हाताळणी उदाहरणे*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*वर्गनिहाय काम केलेली पारिस्थितिक-पदचिन्ह उदाहरणे*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*वर्गनिहाय काम केलेली आंतर-प्रणाली-आधार उदाहरणे*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*वर्गनिहाय काम केलेली भेदभाव-निषेध उदाहरणे*); [§8.1](#81-illustrative-accessibility-application-by-class) (*वर्गनिहाय काम केलेली सुलभता उदाहरणे*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*वर्गनिहाय काम केलेली शैक्षणिक-क्षमता उदाहरणे*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*वर्गनिहाय काम केलेली विश्वासार्हता उदाहरणे*); [§4](#4-data-types-and-handling-evaluation) (*संयुक्त डेटा-हाताळणी मूल्यमापन*); [§5](#5-ecological-footprint-evaluation) (*पारिस्थितिक पदचिन्ह मूल्यमापन*); [§6](#6-proportionate-cross-system-support-evaluation) (*आंतर-प्रणाली आधार मूल्यमापन*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*वर्गीकरण विसंरेखन आणि पुनर्वर्गीकरण चालक*).
-- सोबत वाचा: [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional); [corpus_systems.md](../../corpus_systems.md), **CS-3 — प्रणाली वर्गीकरण आणि हाताळणी**, **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*पुनर्वर्गीकरण अपेक्षा* — चालक, वर्ग-प्रमाणित मूल्यमापन खोली, आणि SAC सत्यापन पूल) आणि **[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*प्रणाली वर्गीकरण अभिलेख शासन कर्तव्ये आणि SAC पूल*) धरून; [CS-5 — रचना, चाचणी, सत्यापन, आणि तैनाती](../../corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — विरोधी सुदृढता आणि दुरुपयोग-प्रतिरोध पदे](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*पश्चगमन आणि कठीणीकरण चक्र कर्तव्ये*); [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*संवैधानिक संरेखन मान्यता आणि समीक्षा*).
+- **वरच्या स्तरावरील आधार:** [§1](#1-purpose-and-role) (*उद्देश आणि भूमिका*); एकात्मिक भौतिकता ([भौतिकता](core_05_band_oversight.md#materiality)); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), [धोका](core_05_band_continuity.md#risk), [प्रणालीच्या सीमा](core_05_band_continuity.md#system-boundaries) आणि [सनद](core_05_band_continuity.md#charter) (अध्याय पाच); [अध्याय एक §12 प्रणालीगत मूल्यांकनाची आवश्यकता](core_01_a_values_principles.md#12-systemic-evaluation-requirement); **अनुच्छेद III-A** (*अस्तित्व*) आणि **अनुच्छेद IV-A** (*वर्गीकरणामुळे प्रवेश नियंत्रित होत असल्यास अधिकार-तळाची पूर्तता*); **अनुच्छेद V-A** (*अवलंबित्व नकाशीकरण आणि संसाधन-प्रवाह पारदर्शकता*) आणि **अनुच्छेद V-B** (*प्रमाणनामुळे सामायिक पायाभूत सुविधांवरील अवलंबित्व नियंत्रित होत असल्यास संसाधन-वाटप आणि अवलंबित्वाचे व्यवस्थापन*).
+- **पुढील संबंध:** [§2.1](#21-how-system-class-scales-every-evaluation) (*प्रणाली-वर्गानुसार सहभाग आणि प्रमाणबद्धता*); [§2.2](#22-pilot-certification) (*प्रायोगिक प्रमाणन*); [भाग C मधील प्रणाली-वर्ग प्रोफाइल आणि पुनर्वर्गीकरण](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*प्रणाली-वर्गांची उदाहरणात्मक प्रोफाइल*); [भाग C मधील संपूर्ण प्रणालीचे टप्प्याटप्प्याने विवेचन](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive); डेटा हाताळणीची उदाहरणे [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), पर्यावरणीय पदचिन्ह [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), शैक्षणिक क्षमता [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive), प्रणालींमधील साहाय्य [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive), भेदभावरहितता [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), सुलभता [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive), आणि विश्वासार्हता [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive); [§3.4](#34-data-types-and-handling-evaluation) (*संयुक्त डेटा-हाताळणी मूल्यांकन*); [§5.1](#51-ecological-footprint-evaluation) (*पर्यावरणीय पदचिन्ह मूल्यांकन*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*प्रमाणबद्ध प्रणाली-आंतर समर्थन मूल्यांकन*); [भाग B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*नोंदीची अखंडता*); [भाग B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित इनपुट प्रवेशद्वार*); [भाग B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*वर्गीकरणातील विचलन आणि पुनर्वर्गीकरणाचे ट्रिगर*).
+- **यासोबत वाचा:** [प्रणाली-वर्गीकरण नोंद](core_05_band_continuity.md#system-classification-record); [corpus_systems.md](corpus_systems.md), **CS-3 — प्रणालीचे वर्गीकरण आणि हाताळणी**, यात [**CS-3 §3.5 पुनर्वर्गीकरणाची आवश्यकता**](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*ट्रिगर, प्रणाली-वर्गानुसार मूल्यांकनाची खोली आणि SAC पडताळणीचा दुवा*) आणि [**CS-3 §7**](corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) (*वर्गीकरणाचे शासन, प्रकटीकरण आणि आव्हान*) — प्रणाली-वर्गीकरण नोंदीची शासन-कर्तव्ये आणि SAC दुवा; [CS-5 — रचना, चाचणी, पडताळणी आणि तैनाती](corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — प्रतिकूल परिस्थितीतील मजबुती आणि गैरवापर-प्रतिरोधकतेच्या संज्ञा](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*रिग्रेशन आणि मजबुतीकरण-चक्राची कर्तव्ये*); [corpus_forum.md](corpus_forum.md), **CF-7.2** (*संवैधानिक संरेखन प्रमाणन आणि पुनरावलोकन*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रमाणनाने प्रणाली प्रामाणिकपणे वर्गीकृत आहे का ते तपासले पाहिजे — चालक तिला काय म्हणतो याने नव्हे, तर ती खरोखर काय करते, काय तिच्यावर अवलंबून आहे, आणि काय चुकू शकते याने. उच्च वर्ग म्हणजे अधिक कठोर पुरावा, जलद पुन्हा तपास, आणि अधिक मजबूत लवचिकता अपेक्षा. वर्गाला एक प्रणाली पहा [§2.1](#21-illustrative-class-profiles-non-exhaustive); [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), आणि [§10.1](#101-illustrative-trustworthiness-application-by-class) मूल्यमापन प्रत्येकाला कसे लागू होते ते चालवतात.*
+*सोप्या भाषेत: प्रणालीचे प्रमाणन करताना तिचे वर्गीकरण प्रामाणिक आहे का हे तपासले पाहिजे — संचालक तिला काय म्हणतो यावर नव्हे, तर ती प्रत्यक्षात काय करते, तिच्यावर कोण अवलंबून आहे आणि काय चुकू शकते यावर. उच्च प्रणाली-वर्ग म्हणजे अधिक कठोर पुरावा, अधिक लवकर पुनर्तपासणी आणि अधिक मजबूत लवचिकतेची अपेक्षा. प्रत्येक प्रणाली-वर्गाचे उदाहरण आणि मूल्यांकन कसे लागू होते हे पाहण्यासाठी [भाग C — उदाहरणे](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) पहा.*
 
-प्रणाली-संरेखन प्रमाणनाने प्रत्येक भौतिक प्रभावी प्रमाणन अभिलेखाचा भाग म्हणून **प्रणाली वर्ग** मूल्यमापन केला पाहिजे. प्रामाणिक वर्ग व्याख्या, परिमाण नियम, वर्ग प्रोफाइल, वर्गीकरण शासन, वर्ग-प्रमाणित आश्वासन, पायाभूत सुदृढता, आणि पुनर्प्रमाणन यांत्रिकी **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी** आणि **[CS-5 — रचना, चाचणी, सत्यापन, आणि तैनाती](../../corpus_systems/cs_05_design_testing_verification_deployment.md)** मध्ये राहतात. हा विभाग प्रमाणनाने काय पडताळले आणि नोंदले पाहिजे ते सांगतो; तो CS-3 वर्ग वर्गीकरण, अनुप्रयोग प्रोफाइल, किंवा CS-5 चाचणी यांत्रिकीची पुनर्उक्ती करत नाही.
+भौतिक प्रभाव असलेल्या प्रणालीच्या प्रत्येक प्रमाणन नोंदीत तिच्या **प्रणाली-वर्गाचे** मूल्यांकन असणे आवश्यक आहे.
 
-प्रमाणनाने हे पडताळले आणि नोंदले पाहिजे:
+तपशीलवार नियम [corpus_systems.md](corpus_systems.md), [CS-3 — प्रणालीचे वर्गीकरण आणि हाताळणी](corpus_systems/cs_03_a_system_classification_machinery.md) आणि [CS-5 — रचना, चाचणी, पडताळणी आणि तैनाती](corpus_systems/cs_05_design_testing_verification_deployment.md) मध्ये आहेत. त्यात पुढील बाबी येतात:
 
-- **मूल्यमापन अपेक्षा:**
-  - नेमलेला प्रणाली वर्ग CS-3 खाली निरीक्षित आणि वाजवीपणे अपेक्षित **प्रभाव**, **अवलंबित्व**, आणि **धोका** प्रतिबिंबित करतो का, एकत्रित, परस्परक्रिया, विरोधी, आणि उंबरठा परिणाम धरून; आणि
-  - वर्गीकरण घोषित हेतू, नाममात्र व्याप्ती, फक्त [व्याप्ती-सनद](core_05_band_continuity.md#charter) मजकूर, किंवा फक्त स्व-वर्णनातून नव्हे तर खऱ्या प्रणाली वर्तन आणि परिणामांनी ठरते; आणि
-  - **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** खाली वर्गीकरण पुनर्मूल्यमापन भौतिक पुनर्मूल्यमापन चालक पेटले तिथे लागू झाले आहे, आणि [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional) सध्याच्या स्थितीखाली **सर्वोच्च लागू** वर्ग प्रतिबिंबित करतो.
-- **अभिलेख अपेक्षा:**
-  - नेमलेला वर्ग, वर्गीकरण तर्क, मुख्य गृहीते, उपस्थित अवलंबित्व प्रकार, भौतिक असेल तिथे संचालन-गंभीरता मूल्यमापन, अनिश्चितता, आणि वर्गानुसार प्रमाणित पुनर्वैधता लय सांगणारा [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional), [भाग ब §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) नुसार हवा; आणि
-  - वर्गीकरण अनिश्चित किंवा आव्हानित असेल तिथे, ज्या सावध वर्गवर अवलंब आहे आणि निराकरणाची वाट पाहणाऱ्या कोणत्याही अटी.
-- **आश्वासन आणि पुनर्प्रमाणन:**
-  - वर्ग-प्रमाणित आश्वासन, पायाभूत सुदृढता, आणि पश्चगमन व्याप्ती नेमलेल्या वर्गासाठी CS-3 आणि CS-5 शी जुळते, भौतिक लागू असेल तिथे [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) आणि **CJS-3.19** ते **CJS-3.23** सोबत वाचून;
-  - प्रत्येक पुनर्प्रमाणन किंवा पुनर्वैधतेसाठी [भाग ब §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) खाली प्रमाणन अभिलेखावरील पश्चगमन-चाचणी निकाल — पश्चगमन व्याप्ती, चालवलेल्या मानक आणि सानुकूल चाचणी संच, निकाल, ज्ञात अपयश, निराकरणे, आणि कारणासहित स्वीकारलेला अवशिष्ट धोका, CS-5 नुसार हवा;
-  - प्रमाणन चक्रासाठी अभिलेखावरील मान्यता आणि समीक्षा पुरावा — व्याप्ती, वर्गीकरण, चाचणी, अवशिष्ट धोका, निराकरण तयारी, निरीक्षण, आणि पुनर्प्रमाणन लागू असेल तिथे मागील अभिलेखानंतरचे भौतिक बदल दाखवणारा पुरावा पॅकेज, CS-5 *मंच मान्यता आणि जीवनचक्र समीक्षा* नुसार हवा; आणि
-  - अधिकार-तळ पुरवठा द्वार करणाऱ्या किंवा टिकवणाऱ्या प्रणालींसाठी, पुनर्वैधता लय आणि पश्चगमन खोली [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली **सातत्य** उद्दिष्ट अंमलात आणतात — जुने किंवा अकाली प्रमाणन संज्ञ प्राणी प्रत्यक्षात अजून अन्न, पाणी, निवारा, शिक्षण, किंवा सुरक्षा मिळवतात याचा पुरावा मानले जाऊ नये.
+- प्रणाली-वर्ग कोणते आहेत, प्रणालीला वर्ग कसा दिला जातो आणि वर्ग-प्रोफाइल काय आहेत;
+- वर्गीकरणाचे शासन कसे केले जाते;
+- प्रत्येक प्रणाली-वर्गाला किती आश्वासन आवश्यक आहे;
+- पायाभूत सुविधांची मजबुती किती असावी;
+- कोणत्या तपासण्या आणि नोंदींचे पुनर्प्रमाणन करायचे, प्रणाली-वर्गानुसार कोणत्या वेळापत्रकावर करायचे आणि तात्पुरते व पूर्ण प्रमाणन त्या वेळापत्रकात कसा बदल करतात.
+
+या विभागात प्रमाणनाने काय पडताळावे हे सांगितले आहे.
+
+प्रमाणनाने पुढील गोष्टी पडताळल्या पाहिजेत:
+
+- **मूल्यांकनाची आवश्यकता:**
+  - नियुक्त प्रणाली-वर्ग CS-3 (*प्रणाली वर्गीकरण यंत्रणा*) नुसार निरीक्षण केलेला आणि वाजवीपणे अपेक्षित **प्रभाव**, **अवलंबित्व** आणि **धोका** दर्शवतो का, यामध्ये:
+    - एकत्रित परिणाम;
+    - परस्परसंवादाचे परिणाम;
+    - विरोधी परिणाम;
+    - मर्यादा-उंबरठ्याचे परिणाम;
+  - वर्गीकरण प्रणालीच्या प्रत्यक्ष वर्तनावर आणि प्रभावांवर आधारित आहे का, पुढील बाबींवरच नव्हे:
+    - घोषित हेतू;
+    - नाममात्र व्याप्ती;
+    - केवळ [सनदेचा](core_05_band_continuity.md#charter) मजकूर; किंवा
+    - केवळ स्वतःचे वर्णन;
+  - महत्त्वाच्या बदलामुळे गरज निर्माण झाली तेव्हा **[CS-3 §3.5 पुनर्वर्गीकरणाची आवश्यकता](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** नुसार प्रणाली-वर्ग पुन्हा तपासला का; आणि
+  - [प्रणाली-वर्गीकरण नोंद](core_05_band_continuity.md#system-classification-record) सध्याच्या परिस्थितीत लागू होणारा **सर्वोच्च प्रणाली-वर्ग** दाखवते का.
+- **आश्वासन आणि रिग्रेशन चाचणी:**
+  - प्रणाली-वर्गानुसार आवश्यक आश्वासन, पायाभूत सुविधांची मजबुती आणि रिग्रेशन चाचणीचे व्याप्ती नियुक्त वर्गाशी जुळते का, यानुसार:
+    - CS-3 (*प्रणाली वर्गीकरण यंत्रणा*); आणि
+    - CS-5 (*वापरकर्ता-मुखी क्षमता क्षेत्रे*), तसेच भौतिकदृष्ट्या लागू असताना खालील सामायिक कार्यकारी संज्ञा:
+      - [**CJS-3.19**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms) (*सातत्य: नियंत्रित अधोगती आणि अपयश-स्थिती अखंडतेच्या संज्ञा*);
+      - [**CJS-3.20**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms) (*सातत्य: उलटवता येण्याजोगेपणा आणि नियंत्रणाच्या संज्ञा*);
+      - [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*सातत्य: प्रतिकूल परिस्थितीतील मजबुती आणि गैरवापर-प्रतिरोधकतेच्या संज्ञा*); आणि
+      - [**CJS-3.22**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms) (*एकात्मिक: मर्यादित गोपनीयता आणि संरक्षित तपासाच्या संज्ञा*) आणि [**CJS-3.23**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms) (*एकात्मिक: हस्तक्षेप आणि अधिलंघन-अखंडतेच्या संज्ञा*), प्रणालीचा वर्ग किंवा कार्य त्यांना भौतिकदृष्ट्या लागू करत असल्यास; आणि
+  - CS-5 (*वापरकर्ता-मुखी क्षमता क्षेत्रे*) नुसार प्रत्येक पुनर्प्रमाणनावेळी रिग्रेशन चाचणी झाली का आणि तिचे परिणाम [§8.1 किमान नोंद-मजकूर](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents) नुसार नोंदवले का.
+- **प्रमाणन आणि पुनर्प्रमाणन:**
+  - CS-5 (*वापरकर्ता-मुखी क्षमता क्षेत्रे*) मधील *फोरम प्रमाणन आणि जीवनचक्र पुनरावलोकन*नुसार प्रमाणन-चक्रासाठी प्रमाणन व पुनरावलोकनाचा पुरावा-संच अस्तित्वात आहे का;
+  - नोंदीतील प्रमाणन-स्थिती [भाग B §9.2 तात्पुरते आणि पूर्ण प्रमाणन](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) नुसार समर्थित आहे का:
+    - पूर्ण प्रमाणन फक्त तेव्हाच, जेव्हा:
+      - सलग स्वच्छ पुनर्प्रमाणनाची किमान मर्यादा पूर्ण झाली आहे;
+      - सध्या कोणतेही विसंरेखन नाही; आणि
+      - कोणताही निरीक्षण निर्देशक निकट भविष्यातील विसंरेखन दाखवत नाही;
+    - ज्याची मागील पुनर्प्रमाणन प्रक्रिया अपयशी ठरली त्या प्रणालीसाठी तात्पुरते प्रमाणन; आणि
+  - मूलभूत अधिकार-तळ संरक्षण देणाऱ्या किंवा त्यावर अवलंबून असलेल्या प्रणालींसाठी:
+    - प्रणाली किती वेळा पुन्हा तपासली जाते आणि किती खोलवर पुन्हा चाचणी केली जाते हे [दोन संवैधानिक उद्दिष्टां](core_00_preamble.md#two-constitutional-aims)तील **सातत्य** उद्दिष्टाला पूरक आहे का — म्हणजे आवश्यक गोष्टी कालांतरानेही संज्ञ प्राण्यांपर्यंत पोहोचतात का;
+    - कालबाह्य किंवा खूप लवकर दिलेले प्रमाणन म्हणजे संज्ञ प्राण्यांना आज प्रत्यक्षात अन्न, पाणी, निवारा, शिक्षण किंवा सुरक्षितता मिळत असल्याचा पुरावा मानले जात नाही ना.
 - **चुकीचे वर्गीकरण आणि दोष:**
-  - प्रणालीला हव्या त्यापेक्षा निम्न धोका वर्ग दावा करणे, कठोर नियम टाळण्यासाठी प्रणाली तुकड्यांत तोडणे, किंवा स्थिती बदलल्यानंतर जुने वर्ग लेबल ठेवणे — **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** खाली पुनर्मूल्यमापन चुकवणे धरून — हे CS-3 आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली प्रमाणन दोष आहेत, क्षुल्लक कागदपत्र चुका नाहीत;
-  - पश्चगमन चाचण्या वगळणे, कालबाह्य निकालांवर अवलंब करणे, ज्ञात तुटके न दुरुस्त ठेवणे, किंवा पुन्हा चाचणी शक्य असताना मोठ्या दुरुस्त्या पुन्हा चाचणीशिवाय स्वीकारणे — हे CS-5 खाली प्रमाणन दोष आहेत; आणि
-  - तथ्ये आधार देत असतील तर, त्याच वर्गीकरण समस्या [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) मधील प्रतिकूल प्रस्थिति निष्कर्षांकडेही मोजल्या जाऊ शकतात.
+  - CS-3 (*प्रणाली वर्गीकरण यंत्रणा*) आणि [भाग B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) अंतर्गत प्रमाणनातील दोष हे किरकोळ कागदोपत्री चुका नसून त्यात पुढील बाबी येतात:
+    - प्रणालीला योग्य असलेल्या वर्गापेक्षा कमी जोखीम-वर्गाचा दावा करणे;
+    - अधिक कठोर नियम चुकवण्यासाठी प्रणालीचे तुकडे करणे; किंवा
+    - परिस्थिती बदलल्यानंतरही जुना प्रणाली-वर्ग लेबल ठेवणे, यात **[CS-3 §3.5 पुनर्वर्गीकरणाची आवश्यकता](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** नुसार पुनर्मूल्यांकन न करणे समाविष्ट आहे;
+  - CS-5 (*वापरकर्ता-मुखी क्षमता क्षेत्रे*) अंतर्गत प्रमाणनातील दोषांमध्ये पुढील गोष्टी येतात:
+    - रिग्रेशन चाचण्या वगळणे;
+    - कालबाह्य निकालांवर अवलंबून राहणे;
+    - ज्ञात बिघाड दुरुस्त न करणे; किंवा
+    - पुन्हा चाचणी शक्य असताना मोठ्या दुरुस्त्या पुन्हा तपासल्याशिवाय स्वीकारणे; आणि
+  - प्रणाली प्रमाणित असेल व तथ्ये आधार देत असतील, तर त्याच वर्गीकरण समस्यांमुळे [अध्याय नऊ](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) मधील प्रतिकूल प्रस्थिति निष्कर्षांनाही आधार मिळू शकतो.
 
-प्रमाणन हे दोष ओळखेल तिथे मंच अटींसह मान्यता देऊ शकतात, मान्यता उशीर करू शकतात, नाकारू शकतात, मान्यता मागे घेऊ शकतात, समीक्षा लय बदलू शकतात, किंवा नवीन समीक्षा आदेश देऊ शकतात.
+या दोषांचे परिणाम [§7 प्रमाणनाचे निष्कर्ष](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) मध्ये दिले आहेत.
 
-<a id="21-illustrative-class-profiles-non-exhaustive"></a>
+<a id="21-how-system-class-scales-every-evaluation"></a>
 
-#### 2.1 उदाहरणार्थ वर्ग प्रोफाइल (असंपूर्ण)
+#### 2.1 प्रणाली-वर्ग प्रत्येक मूल्यांकनाची व्याप्ती कसा ठरवतो
 
-*सोप्या भाषेत: वर्ग चालकांनी निवडलेला बिल्ला नाही — प्रणाली खरोखर किती हानी, अवलंब, आणि धोका वाहते ते आहे. खालील तक्ता वर्गाला एक उदाहरणार्थ प्रणाली नावाने सांगतो; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), आणि [§10.1](#101-illustrative-trustworthiness-application-by-class) संपूर्ण-प्रणाली, डेटा-हाताळणी, पारिस्थितिक-पदचिन्ह, आंतर-प्रणाली-आधार, भेदभाव-निषेध, सुलभता, शैक्षणिक-क्षमता, आणि विश्वासार्हता मूल्यमापन प्रत्येकाला कसे लागू होते ते चालवतात. औपचारिक वर्ग नियम, परिमाण चाचण्या, आणि पुनर्वर्गीकरण चालक **CS-3** मध्ये राहतात; ही उदाहरणे वर्ग जोडत नाहीत किंवा CS-3 आकुंचित करत नाहीत.*
+प्रणाली-वर्ग या अध्यायातील प्रत्येक मूल्यांकन किती खोलवर करायचे हे ठरवतो — [§3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](#3-whole-system-certification-evaluation) मधील संपूर्ण प्रणालीचे घटक, [§3.4 डेटा-प्रकार आणि हाताळणी मूल्यांकन](#34-data-types-and-handling-evaluation), तसेच [§5 अधिकार-तळ आणि क्षेत्रीय मूल्यांकन](#5-rights-floor-and-domain-evaluations) मधील प्रत्येक मूल्यांकन — आणि ते किती वेळा पुन्हा करायचे हेही ठरवतो:
 
-| वर्ग | उदाहरणार्थ प्रणाली (असंपूर्ण) | या वर्गात प्रमाणनाने काय प्रतिबिंबित केले पाहिजे |
-|-------|-------------------------------------|-----------------------------------------------|
-| **वर्ग A** | नगरपालिका **सुरक्षित पिण्याचे पाणी** नियंत्रण आणि दूरमापन — व्यत्यय व्यवहार्य पर्याय येण्यापूर्वी सुरक्षित पाणी बंद करतो ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | सर्वात पूर्ण [§3](#3-whole-system-certification-evaluation) खोली; सर्वात छोटी समर्थित पुनर्वैधता लय; [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) खाली सर्वात मजबूत पश्चगमन, पायाभूत, आणि अभिलेख-प्रकटीकरण अपेक्षा; अधिकार-तळ द्वार होतात तिथे कमाल व्यावहारिक प्रभावित-पक्ष आणि संज्ञ-मंच सहभाग |
-| **वर्ग B** | प्रादेशिक **क्लिनिकल अभिलेख विनिमय** — रुग्णालये आणि दवाखाने रोज त्यावर अवलंबून असतात पण जीवनरक्षा-संबंधित कालमर्यादेत पर्यायाकडे जाऊ शकतात ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | पूर्ण [§3](#3-whole-system-certification-evaluation) मूल्यमापन; सुदृढ अवलंबित्व-साखळी आणि पुनर्प्राप्ती-मार्ग पुरावा; भौतिकता चालक लागू असतील तिथे [§4](#4-data-types-and-handling-evaluation) ते [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) क्षेत्र मूल्यमापने; संचालन गंभीरतेप्रमाणे प्रमाणित आव्हान मार्ग आणि निरीक्षण |
-| **वर्ग C** | मोठ्या प्रमाणातील संस्थात्मक **वेळापत्रक आणि समन्वय** थर — प्रमाणात समन्वय आकार देतो पण क्षीण पद्धतींतील जीवनरक्षा सेवांसाठी संचालन पूर्वअट नाही ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | चालक लागू असतील तिथे [§4](#4-data-types-and-handling-evaluation) ते [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) खाली भौतिक मूल्यमापने; प्रमाणबद्ध संपूर्ण-प्रणाली समीक्षा; अवलंबित्व, एकाग्रता, किंवा अडथळा परिणाम मजबूत होतात तिथे पुनर्वर्गीकरण पहारा — प्रणाली संचालनाने आवश्यक झाली तर प्रमाणनाने वर्ग C कायम मानू नये |
+- उच्च-वर्ग प्रणालींसाठी लागू असलेले प्रत्येक मूल्यांकन प्रत्यक्ष झाले आहे, केवळ तसे सांगितलेले नाही, याचा प्रमाणबद्धपणे अधिक मजबूत पुरावा आवश्यक आहे.
+- कमी प्रणाली-वर्गांनाही ट्रिगर लागू झाल्यास प्रामाणिक आणि प्रमाणबद्ध मूल्यांकन आवश्यक आहे.
+- प्रणाली-वर्ग कोणतेही आवश्यक मूल्यांकन वगळण्याची परवानगी देत नाही. प्रणालीची वास्तविक भूमिका तिच्या वर्गापेक्षा वाढल्यास, [§9 पुनर्प्रमाणन आणि पुनःउघडणे](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) नुसार तिला पुनर्वर्गीकृत करून अधिक खोल स्तरावर पुन्हा मूल्यांकन करावे.
+- प्रणाली-वर्ग पुनरावलोकनाची खोली ठरवतो. कागदावरच असलेल्या पात्रता, लेबले किंवा सोयी, अथवा कोणीही पाहू शकत नाही अशी मूल्यांकने आणि निर्णय स्वीकारार्ह ठरत नाहीत.
 
-**वर्ग प्रमाणात सहभाग आणि प्रमाणबद्धता.** **वर्ग A** प्रणालींना सर्वात मजबूत व्यावहारिक सहभाग मार्ग हवे — अधिकार-तळ गुंतले तिथे सुलभ आव्हान, प्रभावित-पक्ष समीक्षा, आणि संज्ञ-मंच घटक निष्कर्ष धरून — कारण चुका उपाय शक्य होण्यापूर्वी जीवनरक्षा आवश्यक बंद करू शकतात. **वर्ग B** प्रणालींना प्रणाली आरोग्यसेवा, शिक्षण, लाभ, काम, किंवा तुलनायोग्य रोजचे जीवन द्वार करते तिथे सुदृढ सहभाग हवा. **वर्ग C** प्रणालींनाही आव्हानयोग्य अभिलेख आणि प्रमाणबद्ध प्रकटीकरण हवे, विशेषतः समन्वय परिणाम संरक्षित गटांवर भार टाकतात, अवलंबित्व एकवटतात, किंवा वर्ग B किंवा वर्ग A कडे वाढ पूर्वसूचित करतात तिथे.
+सहभाग आणि प्रमाणबद्धतेच्या अटीही याच पद्धतीने वाढतात किंवा कमी होतात:
 
-**पुनर्वर्गीकरण आठवण.** उदाहरणार्थ लेबले वर्गीकरण गोठवत नाहीत. जीवनरक्षा-आवश्यक प्रवेशाचे प्रत्यक्ष द्वार बनलेला समन्वय थर; ज्याचा व्यत्यय आता जीवनरक्षा-संबंधित कालमर्यादेत आरोग्यसेवा किंवा लाभ रोखेल असा ओळखपत्र सेवा; किंवा गंभीर मार्गात शोषलेली उपयुक्तता उपप्रणाली **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली पुनर्वर्गीकृत आणि पुनर्प्रमाणित झाली पाहिजे — चालक हलकी समीक्षा पसंत करतो म्हणून निम्न वर्गात सोडू नये.
+- **A वर्गाच्या** प्रणालींना शक्य तितके मजबूत सहभागाचे मार्ग आवश्यक आहेत, कारण उपाय मिळण्याआधीच चूक जगण्यासाठी आवश्यक बाबींचा प्रवेश बंद करू शकते. यात पुढील गोष्टी येतात:
+  - प्रवेशयोग्य आव्हान;
+  - भागधारकांचे पुनरावलोकन; आणि
+  - [भाग B §6.1 मंचाचे पर्यवेक्षण आणि घटकांच्या भूमिका](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) नुसार प्रभावित हितासाठी नियुक्त मंच-कुटुंबाचे निष्कर्ष, त्या विभागाने सांगितल्यास संस्थात्मक किंवा संज्ञ मंचांसह.
+- **B वर्गाच्या** प्रणालींमध्ये प्रणाली खालील बाबींवर प्रवेश नियंत्रित करत असल्यास मजबूत सहभाग आवश्यक आहे:
+  - आरोग्यसेवा;
+  - शिक्षण;
+  - लाभ;
+  - काम; किंवा
+  - दैनंदिन जीवनातील तुलनीय बाबी.
+- **C वर्गाच्या** प्रणालींनाही आव्हान देता येण्याजोग्या नोंदी आणि प्रमाणबद्ध प्रकटीकरण आवश्यक आहे, विशेषतः समन्वयाचे परिणाम:
+  - संरक्षित गटांवर भार टाकतात;
+  - अवलंबित्व केंद्रीत करतात; किंवा
+  - B किंवा A वर्गात वाढ होण्याची चाहूल देतात.
 
+<a id="22-pilot-certification"></a>
+
+#### 2.2 प्रायोगिक प्रमाणन
+
+**[पायलट](core_05_band_continuity.md#pilot)** हा [चालू करणे](core_05_band_continuity.md#go-live) आहे; त्यामुळे [भाग B §7 प्रमाणनाचे निष्कर्ष](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) मधील चालू करण्याच्या नियमांनुसार तो सुरू होण्यापूर्वी त्याचे स्वतंत्र प्रमाणन आवश्यक आहे.
+
+- कोणत्याही प्रणाली-वर्गातील प्रणालीने पूर्ण तैनातीपूर्वी पायलट चालवणे अपेक्षित आहे; न चालवल्यास कारण नोंदीत द्यावे.
+- पायलटलाही प्रामाणिक वर्गीकरण आणि ट्रिगर लागू असलेली प्रत्येक मूल्यांकने आवश्यक आहेत; त्याची व्याप्ती, लोकसमूह आणि कालावधी नोंदीत नमूद करावा.
+- पायलटचे स्वतःच्या नोंदीवर मूल्यांकन होते. त्याची खोली प्रणाली-वर्ग आणि प्रणाली बदलून वापरण्याची शक्यता यानुसार ठरते: पायलटचा परिणाम ज्यांच्यावर होईल किंवा जे त्यावर अवलंबून असतील अशा संज्ञ प्राण्यांसाठी व्यवहार्य पर्याय आहे का, आणि असल्यास त्याची किंमत, विलंब व कार्यक्षमता-हानी किती (पहा [अवलंबित्व](core_05_band_continuity.md#dependency)).
+  - प्रणाली जितकी सहज बदलता येईल आणि तिचा प्रणाली-वर्ग जितका कमी असेल, तितके पायलटचे मूल्यांकन हलके असू शकते.
+  - सहज बदलता न येणाऱ्या प्रणालीच्या पायलटचे मूल्यांकन पूर्ण तैनातीवेळी त्या प्रणाली-वर्गाला आवश्यक असलेल्या खोलीवर करावे.
 
 <a id="3-whole-system-certification-evaluation"></a>
 
@@ -164,989 +325,811 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [अध्याय एक §14 प्रणालीगत मूल्यमापन अपेक्षा](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); समुन्नती मापन कुटुंब (*कल्याण, सुरक्षा, हानी, आणि जीवनरक्षा-तळ प्रवेश*); संवैधानिक कामगिरी मापन कुटुंब (*संवैधानिक कार्यक्षमता, टाळता येणारा भार, आणि उत्पादक क्षमता*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); [भौतिक दाव](core_00_preamble.md#material-stake); [§1 उद्दिष्ट आणि भूमिका](#1-purpose-and-role).
-- पुढे: [§3.8](#38-illustrative-whole-system-application-by-class) (*उदाहरणार्थ संपूर्ण-प्रणाली मार्गदर्शने*); [§4](#4-data-types-and-handling-evaluation) ते [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*क्षेत्र मूल्यमापने*); [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*उदाहरणार्थ वर्ग प्रोफाइल*); [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*अभिलेख आशय*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*आव्हानयोग्यता शृंखला*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*पुनर्उघडणे आणि टाळाटाळ-विरोध*).
-- सोबत वाचा: [अध्याय एक §9](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), आणि [§11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [§5.2 स्वैच्छिक समापन आणि निकास अधिकार](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights); [§5.3 सभा, सामूहिक संगठन आणि संस्था निर्माण](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation); लेखापरीक्षण, पारदर्शकता, किंवा स्वतंत्र-सत्यापन अधिकार-तळ भौतिक रीतीने दावावर असतील तिथे **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*); सातत्य मापन कुटुंब ([§3.1](#31-systemic-scope-and-risk-factors) — लवचिकता, उलथता येणे, आणि प्रणालीगत धोका); [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation); [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure); [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure); सहभाग मापन कुटुंब ([§3.3](#33-privacy-informational-joint-invocation) — गोपनीयता आणि डेटा उत्तरदायी व्यवस्थापन); उत्तरदायित्व मापन कुटुंब ([§3.7](#37-governance-incentive-and-contestability-discipline) — प्रोत्साहन संरेखन आणि बाजार आव्हानयोग्यता); [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries); [व्याप्ती-सनद](core_05_band_continuity.md#charter).
-- उपविभाग: [§3.1](#31-systemic-scope-and-risk-factors) ते [§3.7](#37-governance-incentive-and-contestability-discipline) (*संपूर्ण-प्रणाली मूल्यमापन घटक*); [§3.8](#38-illustrative-whole-system-application-by-class) (*वर्गनिहाय उदाहरणार्थ संपूर्ण-प्रणाली अनुप्रयोग*).
+- वरून: [अध्याय एक §12 प्रणालीगत मूल्यमापन आवश्यकता](core_01_a_values_principles.md#12-systemic-evaluation-requirement); समुन्नती मापन कुटुंब (*कल्याण, सुरक्षा, हानी आणि जीवनरक्षा-तळ प्रवेश*); संवैधानिक कामगिरी मापन कुटुंब (*संवैधानिक कार्यक्षमता, टाळता येणारा भार आणि उत्पादक क्षमता*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); [भौतिक दाव](core_00_preamble.md#material-stake); [§1 उद्दिष्ट आणि भूमिका](#1-purpose-and-role).
+- पुढे: [भाग क संपूर्ण-प्रणाली मार्गदर्शने](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*उदाहरणार्थ संपूर्ण-प्रणाली मार्गदर्शने*); [§3.4](#34-data-types-and-handling-evaluation) ते [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*क्षेत्र मूल्यमापने*); [भाग क प्रणाली-वर्ग प्रोफाइल](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*उदाहरणार्थ प्रणाली-वर्ग प्रोफाइल*); [भाग ब §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेख आशय*); [भाग ब §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*अभिलेख अखंडता*); [भाग ब §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*आव्हानयोग्यता साखळी*); [भाग ब §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*पुनर्उघडणे आणि टाळाटाळ-विरोध*).
+- सोबत वाचा: [अध्याय एक §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), आणि [§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture); [अध्याय एक §7.4 स्वैच्छिक समाप्ती, मोठे स्वयं-बदल आणि निर्गमन अधिकार](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights); [अध्याय एक §7.2 सभा, सामूहिक संघटन आणि संस्थात्मक निर्मिती](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation); लेखापरीक्षण, पारदर्शकता किंवा स्वतंत्र-सत्यापन अधिकार-तळ भौतिकरीत्या दावावर असतील तेथे **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*); सातत्य मापन कुटुंब ([§3.1](#31-systemic-scope-and-risk-factors) — लवचिकता, उलथवता येण्याची क्षमता आणि प्रणालीगत धोका); [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation); [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure); [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure); सहभाग मापन कुटुंब ([§4.1](#41-privacy-informational-joint-invocation) — गोपनीयता आणि डेटा व्यवस्थापन); उत्तरदायित्व मापन कुटुंब ([§3.3](#33-governance-incentive-and-contestability-discipline) — प्रोत्साहन संरेखन आणि बाजारातील आव्हानयोग्यता); [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries); [व्याप्ती-सनद](core_05_band_continuity.md#charter).
+- उपविभाग: [§3.1](#31-systemic-scope-and-risk-factors) ते [§3.4](#34-data-types-and-handling-evaluation) (*नेहमी: प्रणालीगत घटक, कालमर्यादा, प्रशासन आणि डेटा प्रकार व हाताळणी*). टप्पा II पुढे [§4 जिथे लागू असेल तिथले मूल्यमापन](#4-evaluations-where-implicated) (*जिथे संबंधित असेल: गोपनीयता-स्थाने, निर्गमन अधिकार, सभा आणि मतभेद*) आणि [§5 अधिकार-तळ व क्षेत्र मूल्यमापने](#5-rights-floor-and-domain-evaluations) (*ट्रिगर झाल्यास*) येथे चालू राहतो.
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रणालीच्या एका तुकड्याला हिरवा दिवा देऊन उरलेले दुर्लक्षित करता येत नाही. समीक्षकांना पूर्ण चित्र हवे — ती कशावर अवलंबून आहे, वरचे काही तुटले तर काय तुटते, नंतर दिसणारी किंवा कालांतराने जमणारी हानी, संज्ञ प्राणी खरोखर वापरू शकतात का (फक्त कागदावर नाही), खाजगी माहिती व्यवस्थित वेगळी राहते का, संज्ञ प्राणी अडकून न पडता निघू शकतात का, समूह प्रणाली त्यांना फाडून न टाकता संघटित राहू शकतात का, अल्पकालीन जिंकणे दीर्घकालीन हानी लपवते का, आणि दाव उच्च असेल तेव्हा खरी देखरेख आणि उत्तरदायित्व अजून चालेल का.*
+*सोप्या भाषेत: प्रणालीच्या एका भागाला हिरवा दिवा देऊन उरलेले दुर्लक्षित करता येत नाही. समीक्षकांना संपूर्ण चित्र पाहावे लागते — प्रणाली कशावर अवलंबून आहे, वरच्या स्तरावरील काही अपयशी ठरल्यास काय बिघडते, नंतर दिसणारी किंवा काळानुसार साचणारी हानी, संज्ञ प्राणी ती प्रत्यक्ष वापरू शकतात का (केवळ कागदावर नाही), खाजगी माहिती योग्यरीत्या वेगळी ठेवली जाते का, संज्ञ प्राणी अडकून न पडता बाहेर पडू शकतात का, प्रणाली समूहांना दुभंगल्याशिवाय ते संघटित राहू शकतात का, अल्पकालीन लाभ दीर्घकालीन हानी लपवतात का, आणि दाव मोठा असताना देखरेख व उत्तरदायित्व प्रत्यक्ष कार्य करतील का.*
 
-प्रणाली-संरेखन प्रमाणन मूल्यमापन फक्त तात्काळ किंवा स्थानिक परिणाम विचार करेल तर अपूर्ण आहे. प्रमाणन अभिलेखाने दाखवले पाहिजे की मूल्यमापनाने मान्यता, सत्यापन, पुनर्वैधता, चालू अवलंब, तैनाती, किंवा अटींपासून भौतिक मुक्ततेसाठी भौतिक असतील तिथे खालील घटक विचारले. मूल्यमापनाने समीक्षाखालील प्रणालीसाठी [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणीकरण पूर्ण करेल हेही पुष्ट केले पाहिजे. [§2.1](#21-illustrative-class-profiles-non-exhaustive) मधील उदाहरणार्थ प्रणालींसाठी काम केलेली संपूर्ण-प्रणाली मार्गदर्शने [§3.8](#38-illustrative-whole-system-application-by-class) मध्ये आहेत.
+*उदाहरणे: [भाग क](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) हा विभाग प्रत्यक्षात कसा लागू होतो ते दाखवतो. प्रत्येक प्रणाली-वर्गासाठी एक अशा तीन नमुना प्रणाली घेऊन वरील तपासण्या दाखवल्या आहेत.*
+
+केवळ तात्काळ किंवा स्थानिक परिणामांचा विचार केल्यास प्रणाली-संरेखन प्रमाणन मूल्यमापन अपूर्ण असते; ही उणीव भरून काढणाऱ्या संपूर्ण-प्रणाली मूल्यमापनाच्या (टप्पा II) तीन पातळ्या आहेत. त्या खालील तक्त्यात दाखवल्याप्रमाणे स्वतंत्र विभागांत मांडल्या आहेत. हा विभाग पहिली पातळी, **IIa**, सांगतो; [§4 जिथे लागू असेल तिथले मूल्यमापन](#4-evaluations-where-implicated) **IIb**, आणि [§5 अधिकार-तळ व क्षेत्र मूल्यमापने](#5-rights-floor-and-domain-evaluations) **IIc** सांगतो. तक्ता वाचकाला दिशा देतो; तो कोणत्याही विभागाची किंवा उपविभागाची आवश्यकता वाढवत, कमी करत किंवा पुनर्क्रमित करत नाही.
+
+| पातळी | उप-टप्पा | विभाग | लागूता |
+|------|-----------|------|---------|
+| **नेहमी** | IIa | [§3.1 प्रणालीगत व्याप्ती आणि धोका घटक](#31-systemic-scope-and-risk-factors); [§3.2 काल-सुसंगती बंधन](#32-time-consistency-constraint); [§3.3 प्रशासन, प्रोत्साहन आणि आव्हानयोग्यता शिस्त](#33-governance-incentive-and-contestability-discipline); [§3.4 डेटा प्रकार व हाताळणी मूल्यमापन](#34-data-types-and-handling-evaluation) | प्रत्येक भौतिक प्रभावाच्या प्रमाणन अभिलेखाला |
+| **संबंधित असल्यास** | IIb | [§4.1 गोपनीयता (माहितीविषयक) संयुक्त आवाहन](#41-privacy-informational-joint-invocation); [§4.2 स्वैच्छिक समाप्ती, मोठे स्वयं-बदल आणि निर्गमन अधिकार](#42-voluntary-discontinuation-major-self-modification-and-exit-rights); [§4.3 सभा, सामूहिक संघटन आणि संस्थात्मक निर्मिती](#43-assembly-collective-organization-and-institutional-formation), [§4.3.1](#431-dissent-and-peaceful-protest) सहित | प्रमाणन विषय उपविभागात नामनिर्दिष्ट स्थान किंवा तत्त्वावर भौतिकरीत्या परिणाम करत असल्यास |
+| **ट्रिगर झाल्यास** | IIc | [§5 अधिकार-तळ व क्षेत्र मूल्यमापने](#5-rights-floor-and-domain-evaluations) | §5 तक्त्यातील ट्रिगर पूर्ण झाल्यास |
+
+प्रमाणन अभिलेखांनी खालील घटक जिथे भौतिकरीत्या संबंधित आहेत तिथे मूल्यमापनाने त्यांचा विचार केला हे दाखवले पाहिजे:
+
+- प्रमाणन;
+- सत्यापन;
+- पुनर्प्रमाणन;
+- सतत अवलंबित्व;
+- तैनाती; किंवा
+- प्रमाणनाला जोडलेली अट उठवणे.
+
+मूल्यमापनाने हेही पुष्ट केले पाहिजे की परीक्षणाधीन प्रणालीसाठी [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणबद्ध असेल.
 
 <a id="31-systemic-scope-and-risk-factors"></a>
 #### 3.1 प्रणालीगत व्याप्ती आणि धोका घटक
 
-प्रमाणन मूल्यमापनांनी हे विचारले पाहिजे:
+प्रमाणन मूल्यमापनांनी पुढील बाबी विचारात घ्याव्यात:
 
-- **अवलंबित्व संबंध आणि साखळी परिणाम** — वरचे काही तुटले तर खाली काय अपयशी होते;
-- **एकत्रीकरण आणि प्रमाण परिणाम** — अनेक छोटी कृत्ये एकत्र होतात तेव्हा काय बदलते;
-- **उशीरा, संचित, आणि संभाव्यता परिणाम** — नंतर दिसणारी, जमणारी, किंवा योगायोगावर अवलंबून हानी;
-- **विरोधी स्थिती आणि दुरुपयोग क्षमता** — दुष्ट कर्ते किंवा अपेक्षित दुरुपयोग प्रणाली कशी पिळू शकतात;
-- **सनदित व्याप्ती विरुद्ध कार्यात्मक सीमा** — शासक [व्याप्ती-सनद](core_05_band_continuity.md#charter), असेल किंवा हवी असेल तर, निरीक्षित [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries) शी जुळते का, आणि सांगितलेली व्याप्ती भौतिक प्रभाव किंवा अवलंबित्व कमी दाखवते का;
-- **अस्तित्व धोके** — सभ्यता प्रमाणात संज्ञ जीवनरक्षा किंवा [पारिस्थितिक पुनर्प्राप्ती क्षमता](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) धोक्यात आणू शकणारे निकाल.
+- **अवलंबित्व संबंध आणि साखळी परिणाम** — वरच्या स्तरावर काही बिघडल्यास पुढील स्तरावर काय अपयशी ठरते;
+- **एकत्रीकरण आणि प्रमाण परिणाम** — अनेक लहान कृती एकत्र आल्यास काय बदलते;
+- **विलंबित, संचित आणि संभाव्यताधारित परिणाम** — नंतर दिसणारी, साचणारी किंवा योगायोगावर अवलंबून असणारी हानी;
+- **प्रतिकूल परिस्थिती आणि गैरवापराची शक्यता** — वाईट हेतूचे कर्ते किंवा पूर्वानुमेय गैरवापर प्रणालीचा कसा फायदा घेऊ शकतात;
+- **सनदित व्याप्ती विरुद्ध कार्यात्मक सीमा** — लागू [व्याप्ती-सनद](core_05_band_continuity.md#charter), अस्तित्वात असेल किंवा आवश्यक असेल तेथे, निरीक्षित [प्रणाली सीमांशी](core_05_band_continuity.md#system-boundaries) जुळते का आणि घोषित व्याप्ती भौतिक परिणाम किंवा अवलंबित्व कमी दाखवते का;
+- **पारिस्थितिक पुनर्प्राप्ती क्षमता** — कोणत्याही नैसर्गिक परिसंस्थेची [पारिस्थितिक पुनर्प्राप्ती क्षमता](core_05_band_continuity.md#ecological-recovery-capacity) कोणत्याही प्रमाणात प्रणालीमुळे बाधित होऊन हानीनंतर पुनर्निर्मिती अशक्य होऊ शकते का;
+- **अस्तित्वविषयक धोके** — सभ्यता-पातळीवर संज्ञ प्राण्यांच्या जगण्याला धोका निर्माण करू शकणारे परिणाम.
 
-**धोका मूल्यमापन आणि प्रकटीकरण पूल.** वरील घटकांखाली प्रणालीगत [धोका](core_05_band_continuity.md#risk) व्याप्तीत असेल तर प्रमाणनाने अध्याय पाच जोडीचे दोन्ही अर्धे पडताळले पाहिजे — वेगळी नामित धोका-प्रकटीकरण अभिलेख जाती शोधू नये:
+**धोका मूल्यमापन आणि प्रकटीकरण यांतील दुवा.** वरील घटकांनुसार प्रणालीगत [धोका](core_05_band_continuity.md#risk) व्याप्तीत येत असल्यास, प्रमाणनाने अध्याय पाचमधील जोडीचे दोन्ही भाग पडताळले पाहिजेत — स्वतंत्र नावाचा धोका-प्रकटीकरण अभिलेख प्रकार नव्याने तयार करू नये:
 
-- **[धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation)** — प्रणालीगत धोका खरोखर महत्त्वाच्या स्थितींखाली (अवलंबित्व, काल क्षितिजे, आणि [विरोधी, प्रमाणित, आणि पिळलेल्या स्थिती](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)) खरोखर मूल्यमापित झाला का, वर्ग आणि [भौतिक दाव](core_00_preamble.md#material-stake) नुसार आकारित; आणि
-- **[धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure)** — मूल्यमापित धोका समजण्यासाठी, आव्हान देण्यासाठी, आणि कृती करण्यासाठी ज्या संज्ञ प्राण्यांना तो हवा त्यांच्यापर्यंत वेळेत पोहोचला का.
+- **[धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation)** — महत्त्वाच्या परिस्थितींमध्ये (अवलंबित्व, कालमर्यादा आणि [प्रतिकूल, प्रमाण-विस्तारित व शोषित परिस्थिती](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)) प्रणालीगत धोक्याचे प्रत्यक्ष मूल्यमापन झाले का, आणि ते प्रणाली-वर्ग व [भौतिक दाव](core_00_preamble.md#material-stake) यांनुसार प्रमाणबद्ध होते का; आणि
+- **[धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure)** — मूल्यमापित धोका समजून घेणे, आव्हान देणे आणि कृती करणे आवश्यक असलेल्या संज्ञ प्राण्यांपर्यंत वेळेत पोहोचला का.
 
-प्रकटीकरणाशिवाय मूल्यमापन, किंवा मूल्यमापनाशिवाय प्रकटीकरण, दोन्ही अपयश. [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) खाली भौतिक धोक्याची सार्वजनिक आधाररेषा दृश्यता प्रणालीगत धोका व्याप्तीत असेल तर धोका प्रकटीकरणाद्वारे अंशतः पूर्ण होऊ शकते; तो तळ या पूलापेक्षा व्यापक राहतो आणि [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional) किंवा [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional) शेजारी समकक्ष साधन मागत नाही.
+यांपैकी एकच बाब केल्यास अपयश ठरते:
 
-**अभिलेख अपेक्षा.** प्रणालीगत धोका व्याप्तीत असेल तर [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) **[भाग ब §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** खाली हे सांगितले पाहिजे:
+- मूल्यमापन केलेला पण कधीही सामायिक न केलेला धोका उत्तीर्ण होत नाही; आणि
+- सामायिक केलेला पण योग्यरीत्या मूल्यमापन न केलेला धोकाही उत्तीर्ण होत नाही.
 
-- वरील घटकांसाठी अवलंब केलेले धोका-मूल्यमापन निष्कर्ष आणि गृहीते;
-- प्रकटीकरण भूमिका — यासह:
-  - अभिप्रेत श्रोते किंवा मार्गनिर्देशन;
-  - भौतिक निर्णयांशी संबंधित समय; आणि
-  - वापरता येणाऱ्या पर्यायांशी जोडलेली कोणतीही समर्थित रोख.
-- मूल्यमापन किंवा प्रकटीकरण अजून अपूर्ण असेल तिथे दोष किंवा अटी.
+**दोष आणि विसंरेखन.** पुढील बाबी प्रमाणन-दोष म्हणून हाताळल्या पाहिजेत:
 
-ते निष्कर्ष प्रमाणन अभिलेखावर राहतात. ते पाचवे अनिवार्य नामित घटक अभिलेख नाहीत.
+- अंतर्गत टिपण, लपवलेले परिशिष्ट, तपासणीसूची किंवा घटनेनंतरचे विधान यांना मूल्यमापन किंवा प्रकटीकरण मानणे;
+- [पारदर्शकता](core_05_band_oversight.md#transparency) किंवा [सुरक्षा (संवैधानिक बंधन)](core_05_band_continuity.md#safety-constitutional-constraint) आवश्यक असताना मूल्यमापित प्रणालीगत धोका ज्यांना जाणून घ्यावा लागतो त्यांच्यापासून लपवणे; किंवा
+- ज्ञात धोके दस्तऐवजीकरण, प्रकटीकरण आणि निराकरण न करता प्रणालीवरील सतत अवलंबित्वाला मान्यता देणे.
 
-**दोष आणि विसंरेखन.** अंतर्गत टीप, गाडलेली परिशिष्ट, तपासयादी, किंवा नंतरचे विधान मूल्यमापन किंवा प्रकटीकरण मानणे; [पारदर्शकता](core_05_band_oversight.md#transparency) किंवा [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) मागत असेल तिथे मूल्यमापित प्रणालीगत धोका ज्यांना हवा त्यांना न उघडणे; किंवा भौतिक धोका-संवाद अंतर अनिराकृत असताना चालू अवलंब प्रमाणित करणे प्रमाणन दोष मानावे. ते [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली सशर्त मान्यता, स्थगित मान्यता, अमान्यता, माघार, किंवा पुनर्उघडणे आधार देऊ शकतात.
+त्यांचे परिणाम [§7 प्रमाणन परिणाम](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) येथे दिले आहेत.
 
-<a id="32-accessibility-under-sentience-non-exclusion"></a>
-#### 3.2 संज्ञ-अ-वगळणीखालील सुलभता
+<a id="32-time-consistency-constraint"></a>
+#### 3.2 काल-सुसंगती बंधन
 
-प्रमाणन मूल्यमापनांनी प्रत्येक संज्ञ रूप आणि क्षमता प्रोफाइलसाठी खरा सहभाग तपासला पाहिजे, फक्त कागदी अनुपालन नाही.
+पूर्वानुमेय मध्यम किंवा दीर्घकालीन उल्लंघने अनिर्णित असताना प्रमाणनाने निकटकालीन मापन, स्थानिक अनुपालन किंवा अल्पकालीन कार्यक्षमता पुरेशी मानू नये. संचयी, विलंबित किंवा आंतर-प्रणाली परिस्थितीत अल्पकालीन अनुकूलनामुळे **सुरक्षा**, **सत्य** किंवा **कल्याण** बंधनांचे पूर्वानुमेय मध्यम किंवा दीर्घकालीन उल्लंघन होत असल्यास ते अवैध आहे.
 
-- *प्रोफाइल व्याप्ती.* मूल्यमापनांनी प्रत्येक संबंधित प्रोफाइल श्रेणी हाताळली पाहिजे: संवेदी, संज्ञानात्मक, गतिशीलता, संवाद, **आधार-इंटरफेस**, आणि **गणन-इंटरफेस**. प्रोफाइल **सतत**, **कालावधीत**, किंवा **विकासात्मक** असो, तीच अपेक्षा लागू होते.
-- *मानक.* चाचणी **वास्तविक सहभाग परिणाम** आहे: प्रभावित संज्ञ प्राणी क्षेत्रात **खरोखर** सहभागी होऊ शकतो का. **औपचारिक-सोय अनुपालन** पुरेसे नाही.
-- *प्रमाणीकरण.* खऱ्या सहभागाचा तळ क्षेत्राच्या [भौतिकता](core_05_band_oversight.md#materiality-determination) आणि प्रभावित पक्षांच्या प्रणालीवरील [अवलंबित्व](core_05_band_continuity.md#dependency) सोबत वाढतो.
-- *टाळाटाळ-विरोध.* प्रमाणनाने विशिष्ट प्रभावित प्रोफाइल हरवून व्यापक एकत्रित उपलब्धता दावा करणारा **सामान्य प्रवेश** नमुना, आणि सहभाग तळ हरवण्याचा परिणाम असणारे **निवडक-भौतिकता प्रमाणीकरण** नाकारले पाहिजे.
-- *अधिकार-तळ मालक.* [अनुच्छेद V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*सुलभता*) सुलभता अधिकार-तळ मालकीने धरतो. शिक्षण-विशिष्ट सुलभता [अनुच्छेद III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*समान शैक्षणिक प्रवेश*) द्वारे शासित राहते.
+<a id="33-governance-incentive-and-contestability-discipline"></a>
+#### 3.3 प्रशासन, प्रोत्साहन आणि आव्हानयोग्यता शिस्त
 
-<a id="33-privacy-informational-joint-invocation"></a>
-#### 3.3 गोपनीयता (माहितीविषयक) संयुक्त आवाहन
+*सोप्या भाषेत: जोखमीच्या पातळीवर [चतुष्क](core_00_preamble.md#constitutional-tetrad) चे चार आधार टिकतील का हे समीक्षकांनी विचारले नाही तर पुनरावलोकन पूर्ण होत नाही — सहभाग (संज्ञ प्राणी प्रत्यक्ष भाग घेऊ शकतात का), देखरेख (काम पाहता व तपासता येते का), उत्तरदायित्व (चुकीसाठी जबाब धरता येतो का), आणि समयबद्धता (महत्त्वाच्या वेळी निर्णय पुरेशा वेगाने होतील का). प्रत्यक्ष भौतिक अधिकार कोणाकडे आहेत आणि कोण कशासाठी उत्तर देतो हेही समीक्षकांना कळले पाहिजे; “संघ”सारखी अस्पष्ट संज्ञा किंवा दोष ढकलणारी बनावट रचना पुरेशी नाही. वैध प्रमाणनासाठी या प्रश्नांची उत्तरे आवश्यक आहेत.*
 
-*सोप्या भाषेत: अध्याय सहा गोपनीयता रक्षणे अनेक अनुच्छेदांत पसरवतो — एका नीट कोपऱ्यात नाही. प्रमाणन समीक्षा त्या रक्षणांपैकी एकाहून अधिकाला स्पर्श करेल तर समीक्षकांनी खरोखर लागू होणारे प्रत्येक तपासले पाहिजे. सर्वात सोपी चौकट बंद करून काम झाले म्हणणे पुरेसे नाही.*
+परीक्षणाधीन प्रणालीमध्ये **देखरेख**, **उत्तरदायित्व**, **सहभाग** आणि **समयबद्धता** [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणे प्रमाणबद्ध असतील का हे तपासले नाही तर प्रमाणन मूल्यमापन अपूर्ण असते. भौतिक व्यवस्थापन, प्रशासन आणि उत्तरदायित्वाच्या भूमिका उत्तरदायी राहण्यासाठी आणि व्यवहार्य आव्हानमार्ग कार्य करण्यासाठी पुरेशा **औपचारिकरीत्या नियुक्त, दस्तऐवजीकृत आणि मागोवा घेता येण्याजोग्या** आहेत का, याचेही मूल्यमापन आवश्यक आहे — **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी** अंतर्गत प्रणाली-वर्ग व भौतिक प्रभावानुसार प्रमाणित.
 
-प्रमाणन प्रकरण अध्याय सहाच्या एकाहून अधिक गोपनीयता स्थानांना भौतिक रीतीने गुंतवेल तेव्हा प्रमाणनाने प्रत्येक असे स्थान हाताळले पाहिजे. एकाच स्थानखाली प्रकरण बंद करणे अपुरे आहे.
+या शिस्तीसाठी प्रमाणनाने पुढील वाचले पाहिजे:
 
-- *सहभाग सक्षम करणे.* [गोपनीयता (माहितीविषयक)](core_05_band_continuity.md#privacy-informational) वास्तविक [सहभाग](core_05_apex_participation_leg.md#participation-constitutional) सक्षम करते. प्रमाणनाने आवाज, विचारविनिमय, संघटन, आणि आव्हान आधार देणारी गोपनीयता रक्षणे खंडन, आडून वाचन, किंवा उघडकीस दाबाने हरवली जात नाहीत हे पुष्ट केले पाहिजे.
-- *समूह स्थाने.* वितरित गोपनीयता व्याप्ती **अनुच्छेद VII-A** (*शरीर आणि मनाची स्व-मालकी*), **अनुच्छेद VII-B** (*आंतरिक-स्थिती सीमा आणि प्रकार-N रक्षण*), **अनुच्छेद IX** (*सादृश्य, अनुभवात्मक डेटा, आणि प्रकाशन अधिकार*), **अनुच्छेद X-A** (*कर्तृत्व आणि हाताळणीपासून मुक्ती*), आणि **अनुच्छेद XIV-A** (*सुरक्षा, गुप्तवार्ता, आणि गुप्त-शक्ती मर्यादा*) मध्ये राहते.
-- *संयुक्त-आवाहन नियम.* प्रकरण एकाहून अधिक स्थान भौतिक रीतीने गुंतवेल तिथे प्रमाणनाने प्रत्येक अशा स्थानापर्यंत पोहोचले पाहिजे आणि दुसरे टाळता येईल अशा रीतीने एकाच स्थानातून प्रकरण मार्गनिर्देशित करू नये.
-- *समूह-शीर्ष घर.* अध्याय पाच [**Def.C3** (*गोपनीयता (माहितीविषयक)* — समकक्ष समूह शीर्ष)](core_05_band_accountability.md#privacy-informational-cluster) आणि [गोपनीयता (माहितीविषयक)](core_05_band_continuity.md#privacy-informational) अर्थ मालकीने धरतात.
-- *आडून वाचनाने शिथिलता नाही.* प्रत्येक समूह सदस्याचे स्थानिक सांगितलेले मानक स्वतःच्या व्याप्तीत नियंत्रण करते आणि दुसऱ्या सदस्याकडून अधिक शिथिल मानक आयात करून शिथिल करता येत नाही.
-- *प्रकार-N तळ जपला.* **अनुच्छेद VII-B** (*आंतरिक-स्थिती सीमा आणि प्रकार-N रक्षण*) भौतिक रीतीने गुंतले तिथे **[corpus_systems.md](../../corpus_systems.md), CS-2** खाली **प्रकार N** हाताळणी लागू होते आणि या घटकाने आकुंचित होत नाही.
+- **[अध्याय एक §16 व्यवस्थापनाची सखोलता](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)** — वितरित समज, पारदर्शकता, लेखापरीक्षणक्षमता आणि आव्हानयोग्य निरीक्षणक्षमता;
+- **[अध्याय एक §18 व्यवस्थापन शिस्तीखालील प्रशासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — व्यवस्थापन शिस्तीखाली अधिकृत प्रशासन आणि उत्तरदायित्व;
+- **[अध्याय एक §19 प्रोत्साहन संरेखन आणि प्रणाली-कब्जा](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — प्रोत्साहन संरेखन, प्रतिनिधी निर्देशांक अखंडता, अल्पकालीन दोष-दुरुस्ती आणि कब्जा प्रतिसाद;
+- **[अध्याय एक §19.1.4 भूमिका-खोली आणि भौतिक-जबाबदारी मार्ग](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — परिणामकारक भूमिका-मार्ग आणि प्रतीकात्मक सहभाग-विरोधी शिस्त;
+- [अध्याय तेरा §5 अधिकृत भूमिका, कौशल्य-विकास आणि योगदान](core_13_governance.md#5-authorized-roles-competency-development-and-contribution) आणि **[corpus_systems.md](corpus_systems.md), CS-4 — महत्त्वपूर्ण प्रणाली व्यवस्थापन** — भौतिक बाबींमध्ये लागू होणारे कार्यकारी भूमिका-परिभाषा, कौशल्य आणि मागोवा-क्षमता तळ;
+- **[अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** — लेखापरीक्षण, पारदर्शकता किंवा स्वतंत्र-सत्यापन अधिकार-तळ भौतिकरीत्या दावावर असतील तेथे.
 
-<a id="34-voluntary-discontinuation-and-exit-rights"></a>
-#### 3.4 स्वैच्छिक समापन आणि निकास अधिकार
+<a id="34-data-types-and-handling-evaluation"></a>
 
-[अध्याय एक §5.2 स्वैच्छिक समापन आणि निकास अधिकार](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) प्रमाणन प्रकरणाला लागू असेल तिथे प्रमाणनाने प्रमाणन दावा उभा राहण्यापूर्वी स्वैच्छिकता, संमती, जबरदस्ती-विरोध, अवलंबित्व दाब, माहिती, आणि उलथता येणे तपासले पाहिजे. फक्त औपचारिक सहमती अपुरी आहे.
-
-<a id="35-assembly-collective-organization-and-institutional-formation"></a>
-#### 3.5 सभा, सामूहिक संगठन आणि संस्था निर्माण
-
-[अध्याय एक §5.3 सभा, सामूहिक संगठन आणि संस्था निर्माण](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) प्रमाणन प्रकरणाला लागू असेल तिथे प्रमाणनाने खंडन-टाळाटाळ रोखण्याइतके संयुक्त तपासले पाहिजे. मूल्यमापन प्रकरण एकाच चौकटीतून अशा रीतीने मार्गनिर्देशित करेल की सभा किंवा सामूहिक-संगठन रक्षण हरवेल तर ते अपूर्ण आहे.
-
-<a id="36-time-consistency-constraint"></a>
-#### 3.6 काल-सुसंगती बंधन
-
-प्रमाणनाने अपेक्षित मध्यम- किंवा दीर्घ-क्षितिज उल्लंघने न हाताळली असताना निकट-कालीन मेट्रिक्स, स्थानिक अनुपालन, किंवा लघु-क्षितिज कार्यक्षमता पुरेशी मानू नये. लघु-क्षितिज अनुकूलन संचित, उशीरा, किंवा आंतर-प्रणाली स्थितींखाली **सुरक्षा**, **सत्य**, किंवा **कल्याण** बंधनांचे अपेक्षित मध्यम- किंवा दीर्घ-क्षितिज उल्लंघन निर्माण करेल तर अवैध आहे.
-
-<a id="37-governance-incentive-and-contestability-discipline"></a>
-#### 3.7 शासन, प्रोत्साहन, आणि आव्हानयोग्यता शिस्त
-
-*सोप्या भाषेत: समीक्षा संपली नाही जोपर्यंत समीक्षक विचारत नाहीत की गुंतलेल्या धोक्याच्या पातळीवर चार मूलभूत अजून चालतील का — संज्ञ प्राणी खरोखर भाग घेऊ शकतात का, काम पाहता आणि तपासता येते का, चुकीला उत्तर देता येते का, आणि महत्त्वाचे असेल तेव्हा निर्णय पुरेसे जलद हालतील का. समीक्षकांना हेही माहीत हवे की भौतिक प्राधिकार खरोखर कोणाकडे आहे आणि कोण कशासाठी उत्तर देतो — अस्पष्ट «संघ» किंवा दोष सरकवणारे कवच नाही. वैध प्रमाणनासाठी त्या प्रश्नांची उत्तरे हवीत.*
-
-प्रमाणन मूल्यमापन अपूर्ण आहे जर ते समीक्षाखालील प्रणालीसाठी **देखरेख**, **उत्तरदायित्व**, **सहभाग**, आणि **समयबद्धता** [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणीकरण पूर्ण करतील का याचे मूल्यमापन करत नाही. त्या मूल्यमापनात भौतिक उत्तरदायी व्यवस्थापन, शासन, आणि उत्तरदायित्व भूमिका उत्तरदेयता आणि व्यावहारिक आव्हान मार्ग चालण्याइतक्या **औपचारिक नेमल्या, दस्तऐवजीत, आणि माग-काढता येणाऱ्या** आहेत का हे समाविष्ट असले पाहिजे — **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी** खाली प्रणाली वर्ग आणि भौतिक प्रभावाप्रमाणे प्रमाणित.
-
-त्या शिस्तीसाठी प्रमाणनाने हे वाचले पाहिजे:
-
-- **[अध्याय एक §9 उत्तरदायी व्यवस्थापन आणि वितरित समज](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)** — वितरित समज, पारदर्शकता, लेखापरीक्षण-योग्यता, आणि आव्हानयोग्य प्रेक्षणीयता;
-- **[अध्याय एक §10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** — उत्तरदायी-व्यवस्थापन शिस्तीखाली अधिकृत शासन आणि उत्तरदेयता;
-- **[अध्याय एक §11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — प्रोत्साहन संरेखन, प्रतिनिधी अखंडता, लघु-क्षितिज दोष दुरुस्ती, आणि ताबा प्रतिसाद;
-- **[अध्याय एक §11.1.4 भूमिका-गहराई आणि भौतिक-जबाबदारी मार्ग](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — परिणामी भूमिका मार्ग आणि प्रतीकात्मक-सहभाग-विरोध शिस्त;
-- **[अध्याय बारा §5 अधिकृत भूमिका, क्षमता विकास, आणि योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** आणि **[corpus_systems.md](../../corpus_systems.md), CS-4 — गंभीर प्रणाली उत्तरदायी व्यवस्थापन** — भौतिक असतील तिथे संक्रियात्मक भूमिका-व्याख्या, क्षमता, आणि माग-काढता येणे तळ;
-- लेखापरीक्षण, पारदर्शकता, किंवा स्वतंत्र-सत्यापन अधिकार-तळ भौतिक रीतीने दावावर असतील तिथे **[अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)**.
-
-<a id="38-illustrative-whole-system-application-by-class"></a>
-
-<a id="38-illustrative-whole-system-application-by-class-non-exhaustive"></a>
-#### 3.8 वर्गनिहाय उदाहरणार्थ संपूर्ण-प्रणाली अनुप्रयोग (असंपूर्ण)
-
-*सोप्या भाषेत: [§3.1](#31-systemic-scope-and-risk-factors) ते [§3.7](#37-governance-incentive-and-contestability-discipline) संपूर्ण-प्रणाली समीक्षेने काय विचारले पाहिजे ते यादी करतात. हा उपविभाग ते घटक वर्गाला एका उदाहरणार्थ प्रणालीला कसे लागू होतात ते दाखवतो — अवलंबित्व साखळ्या, सहभाग, गोपनीयता, निकास, सभा, काल क्षितिज, आणि शासन शिस्त — आणि अभिलेखावर काय दिसले पाहिजे. प्रणाली [§2.1](#21-illustrative-class-profiles-non-exhaustive) शी जुळतात; [§4.1](#41-illustrative-data-handling-application-by-class) त्याच प्रणाली डेटा-हाताळणी तपशीलातून चालवतो.*
-
-**वर्ग A — नगरपालिका सुरक्षित पिण्याचे पाणी नियंत्रण आणि दूरमापन.** नगरपालिका मालकीचा प्रक्रिया-आणि-वितरण नियंत्रण थर वीज, रसायन पुरवठा, **SCADA** (पर्यवेक्षक नियंत्रण आणि डेटा प्राप्ती) पुरवठादार, क्षेत्र संवेदक, आणि खालच्या वितरण पायाभूत सुविधांवर अवलंबून आहे; अपयश पर्याय येण्यापूर्वी सुरक्षित पाणी बंद करू शकते.
-
-- **भौतिक रीतीने व्याप्तीतील घटक:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — वरची वीज आणि रसायन अवलंबित्व, साखळी वितरण अपयश, दूषण किंवा बंद दुरुपयोग, आणि नियंत्रण अखंडता पडली तर जीवनरक्षा-प्रमाण हानी;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — पाणी प्रवेश द्वार होतो तिथे प्रत्येक संबंधित प्रोफाइलसाठी आपत्कालीन सूचना, व्यत्यय अहवाल, आणि आव्हान मार्ग;
-  - [§3.3](#33-privacy-informational-joint-invocation) — संचालन **दूरमापन** (जिवंत क्षेत्र मापन आणि नियंत्रण संकेत), ग्राहक संपर्क डेटा, आणि पुरवठादार निरीक्षण अध्याय सहा गोपनीयता स्थानांना छेदतात तिथे संयुक्त समीक्षा;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — पुरवठादार कुलूप, नगरपालिका करार दाब, आणि सुपूर्द केलेल्या नियंत्रणाचे उलथता येणे;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — खंडित करून बाहेर काढता कामा नयेत अशा समुदाय पाणी मंडळे, परस्पर-मदत जाळी, आणि सार्वजनिक देखरेख संस्था;
-  - [§3.6](#36-time-consistency-constraint) — पुढे ढकललेले देखभाल, लघु-क्षितिज खर्च कपात, आणि दीर्घ-क्षितिज सुरक्षा किंवा पारिस्थितिक हानी;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — CS-3 आणि CS-3 भूमिका माग-काढता येणे खाली देखरेख, उत्तरदायित्व, सहभाग, आणि समयबद्धतेसाठी **वर्ग A** चतुष्क प्रमाणीकरण.
-- **मूल्यमापनाने काय तपासावे:**
-  - अवलंबित्व आणि साखळी नकाशे वीज, रसायन, पुरवठादार, आणि वितरण अपयश पद्धती धरतात का;
-  - विरोधी बंद, खोटा-गुणवत्ता, किंवा दूषण परिस्थिती [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation) खाली मूल्यमापित झाल्या का;
-  - मूल्यमापित धोका ज्यांना हवा त्या प्रभावित समुदायांपर्यंत आणि चालकांपर्यंत [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) खाली पोहोचला का;
-  - प्रभावित समुदाय हानी अपरिवर्तनीय होण्यापूर्वी खरोखर इशारे मिळवू शकतात, असुरक्षित संचालनाला आव्हान देऊ शकतात, आणि समीक्षेत भाग घेऊ शकतात का;
-  - गोपनीयता समीक्षा भौतिक रीतीने गुंतलेल्या प्रत्येक स्थानापर्यंत पोहोचली का;
-  - पुरवठादार सुपूर्दतेतून निकास सुरक्षित पाणी बंद न करता अजून व्यवहार्य आहे का;
-  - सभा आणि सामूहिक देखरेख मार्ग अखंड राहतात का;
-  - लघु-क्षितिज बचत अपेक्षित रीतीने दीर्घ-क्षितिज सुरक्षा हरवते का; आणि
-  - नेमलेल्या उत्तरदायी-व्यवस्थापन भूमिका **वर्ग A** खोलीवर उत्तरदेयतेसाठी पुरेशा माग-काढता येणाऱ्या आहेत का.
-- **अभिलेखाने काय दाखवावे:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) ते [§3.7](#37-governance-incentive-and-contestability-discipline) मधील प्रत्येक गुंतलेल्या घटकाखाली भौतिक निष्कर्ष;
-  - अवलंबित्व आणि साखळी गृहीते;
-  - प्रणालीगत धोका व्याप्तीत असेल तिथे धोका-मूल्यमापन निष्कर्ष आणि प्रकटीकरण भूमिका (श्रोते किंवा मार्गनिर्देशन, समय, रोख आणि पर्याय);
-  - जीवनरक्षा-तळ द्वारासाठी सुलभता आणि सहभाग निष्कर्ष;
-  - गोपनीयता संयुक्त-आवाहन व्याप्ती;
-  - निकास आणि सुपूर्द निष्कर्ष;
-  - भौतिक असतील तिथे सभा आणि सामूहिक-संगठन निष्कर्ष;
-  - काल-सुसंगती निष्कर्ष;
-  - **वर्ग A** खोलीवर शासन, प्रोत्साहन, आणि आव्हानयोग्यता निष्कर्ष;
-  - अधिकार-तळ गुंतले तिथे संज्ञ-मंच किंवा इतर घटक निष्कर्ष; आणि
-  - पुरवठादार अपयश, साखळी धोका, किंवा शासन अंतरांना जोडलेल्या अटी किंवा पुनर्उघडणे चालक.
-
-**वर्ग B — प्रादेशिक क्लिनिकल अभिलेख विनिमय.** आरोग्य-माहिती विनिमय रुग्णालये आणि दवाखान्यांमध्ये क्लिनिकल सारांश आणि ओळख-निराकरण टोकन मार्गनिर्देशित करतो; दैनंदिन संचालन त्यावर अवलंबून आहे, पण फॅक्स, थेट द्वार, किंवा हाताने पुनर्प्राप्ती जीवनरक्षा-संबंधित कालमर्यादेत पर्याय होऊ शकतात.
-
-- **भौतिक रीतीने व्याप्तीतील घटक:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — सहभागी रुग्णालय व्यत्यय, ओळख-निराकरण अपयश, द्विरुक्ती-निवारण चुका, आणि काळजी पुरवठ्यावर स्थाने-दरम्यान साखळी परिणाम;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — संवेदी, संज्ञानात्मक, गतिशीलता, संवाद, आधार-इंटरफेस, आणि गणन-इंटरफेस प्रोफाइलांवर वैद्यकीय, रुग्ण, आणि समर्थक प्रवेश;
-  - [§3.3](#33-privacy-informational-joint-invocation) — क्लिनिकल, ओळख, लेखापरीक्षण, आणि पात्रता-शेजारी गोपनीयता स्थानांवर संयुक्त समीक्षा;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — रुग्णालय निकास, रुग्ण अभिलेख पोर्टेबिलिटी, आणि सहभागींसाठी कुलूप-विरोध;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — मार्गनिर्देशनाने वळवता कामा नयेत अशा वैद्यकीय संघटना, रुग्ण-समर्थन गट, आणि प्रादेशिक शासन संस्था;
-  - [§3.6](#36-time-consistency-constraint) — दीर्घ-क्षितिज काळजी गुणवत्ता किंवा विश्वास अपेक्षित रीतीने झिजवणारे लघु-क्षितिज कार्यक्षमता किंवा आंतरकार्यता दावे;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — संचालन-गंभीर अवलंबासाठी **वर्ग B** चतुष्क प्रमाणीकरण.
-- **मूल्यमापनाने काय तपासावे:**
-  - अवलंबित्व नकाशे सहभागी रुग्णालये, ओळख मध्यस्थ, आणि पर्याय मार्ग व्यापतात का;
-  - मार्गनिर्देशन चुका, जुने अभिलेख, किंवा आंशिक व्यत्ययांची उशीरा किंवा संचित हानी [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation) खाली मूल्यमापित झाली का;
-  - मूल्यमापित संचालन आणि काळजी-पुरवठा धोका ज्यांना हवा त्या वैद्यकीय, रुग्ण, आणि चालकांपर्यंत [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) खाली पोहोचला का;
-  - विनिमयावर अवलंबून वैद्यकीय, रुग्ण, आणि समर्थकांसाठी वास्तविक सहभाग पोहोचण्याजोगा आहे का;
-  - भौतिक रीतीने गुंतलेले प्रत्येक गोपनीयता स्थान हाताळले गेले का;
-  - रुग्णालये आणि रुग्ण व्यवहार्य निकास आणि पोर्टेबिलिटी मार्ग राखतात का;
-  - सामूहिक देखरेख आणि व्यावसायिक संगठन मार्ग आव्हानयोग्य राहतात का;
-  - कार्यक्षमता चौकट दीर्घ-क्षितिज काळजी किंवा विश्वास हानी लपवते का; आणि
-  - उत्तरदायी व्यवस्थापन आणि उत्तरदेयता भूमिका **वर्ग B** संचालन खोलीवर माग-काढता येणाऱ्या आहेत का.
-- **अभिलेखाने काय दाखवावे:**
-  - **वर्ग B** संचालन गंभीरतेप्रमाणे प्रमाणित संपूर्ण-प्रणाली निष्कर्ष;
-  - अवलंबित्व, पर्याय, आणि साखळी गृहीते;
-  - प्रणालीगत धोका व्याप्तीत असेल तिथे धोका-मूल्यमापन निष्कर्ष आणि प्रकटीकरण भूमिका;
-  - आरोग्यसेवा द्वारासाठी सुलभता आणि सहभाग निष्कर्ष;
-  - गोपनीयता संयुक्त-आवाहन व्याप्ती;
-  - निकास आणि पोर्टेबिलिटी निष्कर्ष;
-  - भौतिक असतील तिथे सभा आणि सामूहिक-संगठन निष्कर्ष;
-  - काल-सुसंगती निष्कर्ष;
-  - शासन, प्रोत्साहन, आणि आव्हानयोग्यता निष्कर्ष;
-  - हवे तिथे घटक निष्कर्ष; आणि
-  - व्यत्यय किंवा मार्गनिर्देशन अपयश आता जीवनरक्षा-संबंधित कालमर्यादेत आपत्कालीन काळजी रोखेल तर पुनर्उघडणे चालक.
-
-**वर्ग C — संस्थात्मक वेळापत्रक आणि समन्वय थर.** बहु-संस्था वेळापत्रक थर रुग्णालये, शाळा, आणि सार्वजनिक संस्थांमध्ये शिफ्ट, खोली आरक्षणे, आणि पुरवठादार भेटी समन्वयित करतो; मूळ जीवनरक्षा सेवा पडली तर क्षीण पद्धतींनी चालू राहू शकतात, पण थर प्रमाणात समन्वय आकार देतो.
-
-- **भौतिक रीतीने व्याप्तीतील घटक:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — एकाग्रता परिणाम, वेळापत्रक पडते तेव्हा आंतर-संस्था साखळी, आणि वाटप नमुन्यांमधून संरक्षित गटांवरील संभाव्यता भार;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — कर्मचारी, विद्यार्थी, रुग्ण, आणि पुरवठादार वेळापत्रक आणि आव्हान इंटरफेस वास्तविक रीतीने वापरू शकतात का;
-  - [§3.3](#33-privacy-informational-joint-invocation) — अनेक गोपनीयता स्थाने लागू असतील तिथे वेळापत्रक, संपर्क, आणि भूमिका मेटाडेटा;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — संस्था थरावर अवलंबून असतील तिथे संस्थात्मक निकास आणि डेटा पोर्टेबिलिटी;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — समन्वय ताब्यात घेता किंवा खंडित करून बाहेर काढता कामा नये असे संघ, पालक संघटना, आणि व्यावसायिक संस्था;
-  - [§3.6](#36-time-consistency-constraint) — अन्याय्य समन्वय नमुने अपेक्षित रीतीने बसवणारी लघु-क्षितिज जुळणी कार्यक्षमता;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — अडथळा परिणाम मजबूत होतात तिथे प्रमाणबद्ध चतुष्क प्रमाणीकरण आणि पुनर्वर्गीकरण पहारा.
-- **मूल्यमापनाने काय तपासावे:**
-  - संपूर्ण-प्रणाली समीक्षा थराला विलग अनुप्रयोग नव्हे तर समन्वय पायाभूत सुविधा मानते का;
-  - एकाग्रता, जुळणी पक्षपात, आणि आंतर-संस्था साखळी [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation) खाली प्रामाणिकपणे मूल्यमापित झाली का;
-  - मूल्यमापित समन्वय आणि वाटप धोका ज्यांना हवा त्या संस्था आणि प्रभावित गटांपर्यंत [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) खाली पोहोचला का;
-  - थर मंच, शाळा, किंवा कार्यस्थळ समन्वय द्वार करतो तिथे सहभाग मार्ग वास्तविक राहतात का;
-  - गोपनीयता समीक्षा भौतिक रीतीने गुंतलेल्या स्थानांपर्यंत पोहोचली का;
-  - सहभागी संस्थांसाठी निकास अजून व्यवहार्य आहे का;
-  - सभा आणि सामूहिक-संगठन रक्षणे संयुक्त तपासली गेली का;
-  - दीर्घ-क्षितिज अन्याय लघु-क्षितिज कार्यक्षमतेमागे लपला नाही का;
-  - शासन आणि आव्हानयोग्यता **वर्ग C** खोलीवर कार्यरत राहतात का; आणि
-  - थर जीवनरक्षा-आवश्यक प्रवेशाचे प्रत्यक्ष द्वार बनेल तर वर्ग लेबल अजून बसते का.
-- **अभिलेखाने काय दाखवावे:**
-  - **वर्ग C** समन्वय धोक्याप्रमाणे प्रमाणबद्ध संपूर्ण-प्रणाली निष्कर्ष — दिखाऊ तपासयादी नाही;
-  - एकाग्रता आणि साखळी गृहीते;
-  - प्रणालीगत धोका व्याप्तीत असेल तिथे धोका-मूल्यमापन निष्कर्ष आणि प्रकटीकरण भूमिका;
-  - समन्वय द्वार होतो तिथे सुलभता आणि सहभाग निष्कर्ष;
-  - चालू झालेल्या ठिकाणी गोपनीयता संयुक्त-आवाहन व्याप्ती;
-  - भौतिक असतील तिथे निकास निष्कर्ष;
-  - भौतिक असतील तिथे सभा निष्कर्ष;
-  - काल-सुसंगती निष्कर्ष;
-  - शासन आणि आव्हानयोग्यता निष्कर्ष;
-  - अवलंबित्व, क्लिनिकल-दर्जा भार, किंवा अडथळा परिणाम मजबूत होतात तिथे व्यक्त **पुनर्वर्गीकरण पहारा**; आणि
-  - भौतिकता चालक लागू असतील तिथे [§4](#4-data-types-and-handling-evaluation) ते [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) क्षेत्र मूल्यमापनांकडे संकेत.
-
-**वर्गांवरून वाचन.** [§3.1](#31-systemic-scope-and-risk-factors) ते [§3.7](#37-governance-incentive-and-contestability-discipline) घटक तिन्ही प्रणालींना लागू होतात; वर्ग प्रत्येक घटक किती खोल मूल्यमापित आणि नोंदला जावा ते बदलतो. आपत्कालीन कर्मचारी किंवा जीवनरक्षा-आवश्यक मार्गनिर्देशनाचा प्रत्यक्ष एकमेव व्यवहार्य मार्ग बनलेल्या **वर्ग C** वेळापत्रक थराला तथ्यानुसार **वर्ग A** किंवा **वर्ग B** संपूर्ण-प्रणाली खोली मिळाली पाहिजे — चालक पसंत करतो त्या हलक््या समन्वय समीक्षेने नाही. **वर्ग A** जीवनरक्षा-गंभीर प्रणाली समयोचित पर्यायाशिवाय पाणी, ऊर्जा, किंवा तुलनायोग्य जीवनरक्षा आवश्यक द्वार करत असताना वर्ग उतरवता कामा नये. ज्याचा व्यत्यय आता जीवनरक्षा-संबंधित कालमर्यादेत आपत्कालीन काळजी रोखेल असा **वर्ग B** विनिमय वर पुनर्वर्गीकृत झाला पाहिजे — जीवनरक्षा आवश्यक द्वार होतात तिथे **वर्ग A** पर्यंत — आणि [§2](#2-system-class-evaluation) आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली पुनर्प्रमाणित झाला पाहिजे.
-
-<a id="4-data-types-and-handling-evaluation"></a>
-
-### 4. डेटा प्रकार आणि हाताळणी मूल्यमापन
+#### 3.4 डेटा प्रकार आणि हाताळणी मूल्यमापन
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [§3](#3-whole-system-certification-evaluation) (*संपूर्ण-प्रणाली मूल्यमापन घटक*); [§3.8](#38-illustrative-whole-system-application-by-class) (*उदाहरणार्थ संपूर्ण-प्रणाली मार्गदर्शने*); [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*अभिलेख आशय*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); देखरेख मापन कुटुंब (*संवैधानिक मापन म्हणून सत्य आणि ज्ञानविषयक अखंडता*); [अनुच्छेद XV: सूचना-मंडल सचोटी](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता, आणि स्वतंत्र सत्यापन](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [अनुच्छेद VII: आत्म-स्वामित्व](core_06_rights_part_b.md#article-vii-self-ownership).
-- पुढे: [§4.1](#41-illustrative-data-handling-application-by-class) (*उदाहरणार्थ डेटा-हाताळणी मार्गदर्शने*); [§5](#5-ecological-footprint-evaluation) आणि [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*पारिस्थितिक पदचिन्ह मूल्यमापन आणि मार्गदर्शने*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*पुनर्वर्गीकरण आणि हाताळणी विसंरेखन*).
-- सोबत वाचा: [corpus_systems.md](../../corpus_systems.md), **CS-2 — माहिती प्रकार आणि हाताळणी** (यासह **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*पुनर्वर्गीकरण आणि जीवनचक्र शासन*) आणि **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*प्रणाली डेटा-प्रकार अभिलेख शासन*)); [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional); [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*डेटा-धारण आणि जीवनचक्र-सचोटी पदे*), **CJS-3.21** (*विरोधी सुदृढता आणि दुरुपयोग-प्रतिरोध पदे*), आणि **CJS-3.17** (*आंतरकार्यक्षमता, सुवाह्यता, आणि निर्गमन-सचोटी पदे*) जिथे भौतिक रीतीने लागू.
-- उपविभाग: [§4.1](#41-illustrative-data-handling-application-by-class) (*वर्गनिहाय उदाहरणार्थ डेटा-हाताळणी अनुप्रयोग*).
+- वरून: [§3](#3-whole-system-certification-evaluation) (*संपूर्ण-प्रणाली मूल्यमापन घटक*); [भाग क संपूर्ण-प्रणाली मार्गदर्शने](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*उदाहरणार्थ संपूर्ण-प्रणाली मार्गदर्शने*); [भाग ब §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेख आशय*); [§2](#2-system-class-evaluation) (*प्रणाली-वर्ग मूल्यमापन*); देखरेख मापन कुटुंब (*संवैधानिक मापन म्हणून सत्य आणि ज्ञानात्मक अखंडता*); [अनुच्छेद XV: माहिती-क्षेत्र अखंडता](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [अनुच्छेद VII: स्व-मालकी](core_06_rights_part_b.md#article-vii-self-ownership).
+- पुढे: [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*उदाहरणार्थ डेटा-हाताळणी मार्गदर्शने*); [§5.1](#51-ecological-footprint-evaluation) आणि [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*पर्यावरणीय ठसा मूल्यमापन आणि मार्गदर्शने*); [भाग ब §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*अभिलेख अखंडता*); [भाग ब §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित-इनपुट प्रवेशद्वार*); [भाग ब §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*पुनर्वर्गीकरण आणि हाताळणी विसंरेखन*).
+- सोबत वाचा: [corpus_systems.md](corpus_systems.md), **CS-2 — माहिती प्रकार आणि हाताळणी** (यात [CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance) (*पुनर्वर्गीकरण आणि जीवनचक्र प्रशासन*) आणि [CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance) (*प्रणाली डेटा प्रकार अभिलेख प्रशासन*) समाविष्ट); [प्रणाली डेटा प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record); [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure); भौतिकरीत्या लागू असेल तेथे **CJS-3.18** (*डेटा-धारण आणि जीवनचक्र-अखंडता संज्ञा*), **CJS-3.21** (*प्रतिकूल-स्थितीतील लवचिकता आणि गैरवापर-प्रतिरोध संज्ञा), आणि **CJS-3.17** (*आंतरकार्यशीलता, वहनक्षमता आणि निर्गमन-अखंडता संज्ञा*); गोपनीयता-स्थान संबंधित असेल तेथे [§4.1 गोपनीयता (माहितीविषयक) संयुक्त आवाहन](#41-privacy-informational-joint-invocation).
+- उपविभाग: [§3.4.1](#341-type-o-baseline-disclosure) (*Type O आधाररेषा प्रकटीकरण*); [§3.4.2](#342-privacy-discipline) (*गोपनीयता शिस्त*); [§3.4.3](#343-protective-storage-and-key-custody) (*संरक्षक साठवण आणि किल्ली ताबा*); [§3.4.4](#344-periodic-data-type-re-evaluation) (*नियतकालिक डेटा-प्रकार पुनर्मूल्यमापन*); [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*प्रणाली-वर्गानुसार प्रमाणित पायाभूत हमी*); [§3.4.6](#346-infrastructure-robustness-for-data) (*डेटासाठी पायाभूत लवचिकता*); [§3.4.7](#347-defects-and-misalignment) (*दोष आणि विसंरेखन*); [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*प्रणाली-वर्गानुसार उदाहरणार्थ डेटा-हाताळणी अनुप्रयोग*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रमाणनाने प्रणाली कोणत्या प्रकारच्या डेटाला स्पर्श करते आणि ती त्यांना योग्य रीतीने हाताळते का हेही पाहिले पाहिजे — प्रकार सध्याच्या समीक्षा चक्रावर अजून बरोबर आहेत का, आणि त्या वर्गाच्या त्या डेटासाठी खालची पायाभूत सुविधा पुरेशी मजबूत आहे का यासह. प्रकार नियम आणि प्रणाली डेटा-प्रकार अभिलेख प्रणाली संग्रहात राहतात; प्रमाणन पडताळते की नियम खरे लागू झाले आणि अभिलेख प्रामाणिक आहे.*
+*सोप्या भाषेत: प्रमाणनाने प्रणाली कोणत्या प्रकारच्या डेटाला स्पर्श करते आणि तो योग्यरीत्या हाताळते का हेही पाहिले पाहिजे — चालू पुनरावलोकन चक्रात प्रकार अद्याप योग्य आहेत का आणि त्या प्रणाली-वर्गासाठी मूलभूत पायाभूत सुविधा त्या डेटासाठी पुरेशा मजबूत आहेत का, यासह. डेटा प्रकाराचे नियम आणि प्रणाली डेटा प्रकार अभिलेख प्रणाली कॉर्पसमध्ये आहेत; नियम प्रत्यक्ष लागू झाले आणि अभिलेख प्रामाणिक आहे का हे प्रमाणन तपासते.*
 
-प्रणाली-संरेखन प्रमाणनाने प्रत्येक भौतिक प्रभावी प्रमाणन अभिलेखाचा भाग म्हणून **डेटा प्रकार आणि हाताळणी** मूल्यमापन केले पाहिजे. प्रामाणिक माहिती-प्रकार व्याख्या, हाताळणी नियम, वेगळेपणा अपेक्षा, जीवनचक्र तपशील, आणि टिकाऊ [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional) **[corpus_systems.md](../../corpus_systems.md), CS-2 — माहिती प्रकार आणि हाताळणी** मध्ये राहतात. हा विभाग प्रमाणनाने काय पडताळले आणि नोंदले पाहिजे ते सांगतो; तो CS-2 प्रकार वर्गीकरण किंवा हाताळणी यांत्रिकीची पुनर्उक्ती करत नाही.
+प्रणाली-संरेखन प्रमाणनाने भौतिक प्रभाव असलेल्या प्रत्येक प्रमाणन अभिलेखाचा भाग म्हणून **डेटा प्रकार आणि हाताळणी**चे मूल्यमापन केले पाहिजे. प्रमाणनाने काय सत्यापित करावे हे हा विभाग सांगतो. प्रकार-वर्गीकरण आणि हाताळणीची कार्यपद्धती **[corpus_systems.md](corpus_systems.md), CS-2 — माहिती प्रकार आणि हाताळणी** येथे पुढील गोष्टींसह दिली आहे:
 
-**मूल्यमापन अपेक्षा.** प्रमाणन प्रक्रिया ठरवे की प्रणाली भौतिक रीतीने व्याप्तीतील डेटा प्रकार ओळखते आणि त्यांना **सर्वात निर्बंधक लागू** वर्गीकरणाखाली हाताळते — रूपांतरण, एकत्रीकरण, सुपूर्द, साठवण, धारण, आणि आंतर-क्षेत्र दुवा ओलांडून. मूल्यमापनाने कार्यात्मक परिणाम प्रतिबिंबित केला पाहिजे, केवळ लेबल, स्वरूप, किंवा नलिका टप्पा नाही. **[CS-2 भाग अ §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** Type O आधाररेषा लागू असेल तिथे, प्रमाणनाने हेही पडताळले पाहिजे की प्रकाशित [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) **प्रमाणित व्याप्ती** व्यापते — शासित [व्याप्ती-सनद](core_05_band_continuity.md#charter) (किंवा समतुल्य प्रकाशित व्याप्ती साधन), नेमलेला वर्ग, आणि निरीक्षित [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries) यातून नकाशित — कारणासहित रोख कमाल व्यवहार्य सार्वजनिक पर्यायांशी जोडलेले; अध्याय पाच पदाचा मालक आहे; CS-2 आधाररेषा आशय आणि प्रकाशन यांत्रिकीचा मालक आहे.
+- प्रमाणित माहिती-प्रकार व्याख्या;
+- हाताळणीचे नियम आणि विभाजनाच्या आवश्यकता;
+- जीवनचक्राचा तपशील; आणि
+- टिकाऊ [प्रणाली डेटा प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record).
 
-**नियतकालिक डेटा-प्रकार पुनर्मूल्यमापन.** प्रत्येक भौतिक प्रभावी प्रमाणन किंवा पुनर्वैधता चक्रावर, प्रक्रिया पडताळली पाहिजे की व्याप्तीतील भौतिक डेटा संच **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*पुनर्वर्गीकरण आणि जीवनचक्र शासन*) आणि **CJS-3.18** (*डेटा-धारण आणि जीवनचक्र-सचोटी पदे*) खाली योग्य वर्गीकरणासाठी **नियतकालिक रीतीने पुनर्मूल्यमापित** झाले, आणि त्या समीक्षेने मागितले तिथे **पुनर्वर्गीकृत** झाले. लय [§2](#2-system-class-evaluation) खाली प्रणाली वर्ग आणि भौतिक प्रभावाप्रमाणे प्रमाणित झाली पाहिजे. CS-2 खाली घटना-चालित पुनर्प्रकार हा नियतकालिक प्रमाणन तपास बदलत नाही.
+**मूल्यमापन आवश्यकता.** प्रमाणन प्रक्रियेने प्रणाली:
 
-**अभिलेख अपेक्षा.** प्रमाणनाने [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional) — किंवा CS-2 खाली हवे आशय — **तयार केला किंवा पडताळला** पाहिजे आणि तो [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) मध्ये **[भाग ब §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** खाली समाविष्ट केला पाहिजे. त्या अभिलेखाने भौतिक रीतीने व्याप्तीतील डेटा प्रकार, संदिग्ध किंवा बहु-प्रकार डेटासाठी वर्गीकरण तर्क, ज्या वेगळेपणा आणि आंतर-क्षेत्र-दुवा नियंत्रणांवर अवलंब आहे, धारण आणि जीवनचक्र भूमिका, [आरोपयोग्य कृती](core_05_band_accountability.md#attributable-action-constitutional) आणि [आरोपण सचोटी](core_05_band_accountability.md#attribution-integrity-constitutional) आधार देण्याइतकी आरोपण क्षमता, **सर्वात अलीकडील नियतकालिक डेटा-प्रकार पुनर्मूल्यमापन** (दिनांक किंवा चक्र ओळखकर्ता, लय, आणि कोणतेही भौतिक पुनर्प्रकार), आणि CS-2 मागत असेल तिथे प्रकटीकरण किंवा लेखापरीक्षण प्रवेशावरील कोणतेही कारणासहित निर्बंध त्यांच्या सार्वजनिक पर्यायांसह सांगितले पाहिजे. Type O आधाररेषा लागू असेल तिथे, अभिलेखाने हेही सांगितले पाहिजे की [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) प्रमाणित व्याप्ती कशी व्यापते (अवलंबित व्याप्ती-सनद क्षेत्रे, सीमा निष्कर्ष, आणि कोणतेही व्याप्ती अंतर किंवा अटी).
+- भौतिकरीत्या व्याप्तीत येणारे डेटा प्रकार ओळखते का; आणि
+- रूपांतरण, एकत्रीकरण, प्रतिनिधीकरण, साठवण, धारण आणि डोमेन-पार जोडणीसह **लागू असलेल्या सर्वाधिक प्रतिबंधक** वर्गीकरणाखाली त्यांची हाताळणी करते का,
 
-**प्रणाली वर्गासोबत संयुक्त प्रमाणीकरण.** डेटा-हाताळणी आणि पायाभूत-आश्वासन खोली [§2](#2-system-class-evaluation) आणि CS-3 खाली नेमलेल्या प्रणाली वर्गानुसार प्रमाणित झाली पाहिजे. उच्च-वर्ग प्रणालींना प्रमाणबद्ध रीतीने अधिक मजबूत पुरावा हवा की हाताळणी, साठवण, प्रक्रिया, प्रेषण, बॅकअप, पुनर्प्राप्ती, आणि निरीक्षण पायाभूत सुविधा ताणाखाली वर्गीकरण सचोटी, आरोपण, आणि आव्हानयोग्यता जपू शकतात. CS-2 सार्वजनिक-हित दृश्यता पूर्वनिर्धारित लागू असतील तिथे, प्रमाणनाने पडताळले पाहिजे की निर्बंध संकुचित व्याप्तीचे, दस्तऐवजीत, लेखापरीक्षणयोग्य आहेत, आणि अपारदर्शक लपवण्याऐवजी कमाल व्यवहार्य पर्यायांशी जोडलेले आहेत.
+हे ठरवले पाहिजे. मूल्यमापनाने केवळ लेबल, स्वरूप किंवा पाइपलाइनचा टप्पा नव्हे तर कार्यात्मक परिणाम प्रतिबिंबित केला पाहिजे.
 
-**डेटासाठी पायाभूत-सुविधा सुदृढता.** प्रमाणनाने मूल्यमापन केले पाहिजे की डेटा-हाताळणी पायाभूत सुविधा — टिकवणी स्तर, नलिका, प्रवेश नियंत्रणे, कूटबद्धता किंवा वेगळेपणा सीमा, बॅकअप आणि पुनर्स्थापना मार्ग, आणि चालक किंवा पुरवठादार सुपूर्द साखळ्या धरून — प्रश्नातील डेटा प्रकार आणि प्रणाली वर्गाला योग्य आहे. जीवनचक्र सचोटी, विरोधी सुदृढता, सुवाह्यता, किंवा पुनर्प्राप्तीयोग्यतेतील भौतिक अंतर अभिलेखावर सांगितले पाहिजे आणि प्रमाणन निकाल, अटी, किंवा अवलंब मर्यादांत प्रतिबिंबित झाले पाहिजे.
+<a id="341-type-o-baseline-disclosure"></a>
+##### 3.4.1 Type O आधाररेषा प्रकटीकरण
 
-**दोष आणि विसंरेखन.** डेटाचे चुकीचे वर्गीकरण, टाळाटाळ पुनर्चना, असुरक्षित आंतर-क्षेत्र दुवा, जिथे भौतिक हानी तपासता येणार नाही तिथे गहाळ आरोपण, **मुदतबाह्य किंवा वगळलेले नियतकालिक डेटा-प्रकार पुनर्मूल्यमापन**, किंवा जी अपेक्षित रीतीने CS-2 रक्षणे हरवते अशी पायाभूत नाजूकता प्रमाणन दोष मानावी. ती [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली सशर्त मान्यता, स्थगित मान्यता, अमान्यता, माघार, किंवा पुनर्उघडणे आधार देऊ शकतात.
+**[CS-2 भाग A §7 Type O आधाररेषा](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** लागू असल्यास, प्रकाशित [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure)(**Type O**) पुढील आधारांवर ठरवलेली **प्रमाणित व्याप्ती** समाविष्ट करते का हे प्रमाणनाने सत्यापित केले पाहिजे:
 
-<a id="41-illustrative-data-handling-application-by-class"></a>
+- लागू [व्याप्ती-सनद](core_05_band_continuity.md#charter) (किंवा समकक्ष प्रकाशित व्याप्ती-साधन);
+- नियुक्त प्रणाली-वर्ग; आणि
+- निरीक्षित [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries).
 
-<a id="41-illustrative-data-handling-application-by-class-non-exhaustive"></a>
-#### 4.1 वर्गनिहाय उदाहरणार्थ डेटा-हाताळणी अनुप्रयोग (असंपूर्ण)
+प्रणालीगत धोका लागू असेल तेव्हा मूल्यमापित धोक्याची माहिती सामायिक करणेही या आधाररेषेत मोजले जाऊ शकते. जनतेचा आधाररेषेवरील अधिकार प्रमाणनापेक्षा व्यापक आहे; [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record) किंवा [प्रणाली डेटा प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record) यांच्या जोडीला स्वतंत्र अभिलेख मागितला जात नाही.
 
-*सोप्या भाषेत: [§2.1](#21-illustrative-class-profiles-non-exhaustive) मधील वर्ग तक्ता म्हणतो उच्च वर्गांना अधिक कठोर समीक्षा हवी. [§3.8](#38-illustrative-whole-system-application-by-class) त्याच तीन प्रणालींवर **संपूर्ण-प्रणाली मूल्यमापनासाठी** त्याचा अर्थ काय ते दाखवतो; [§5.1](#51-illustrative-ecological-footprint-application-by-class) मालिका **पारिस्थितिक पदचिन्हासाठी** पुढे नेतो. हा उपविभाग **डेटा प्रकार आणि हाताळणी** साठी अर्थ काय ते दाखवतो — कोणते प्रकार व्याप्तीत आहेत, प्रमाणनाने काय तपासावे, आणि अभिलेखावर काय दिसले पाहिजे. CS-2 अजून प्रकार नियम मालकीने धरतो; ही मार्गदर्शने प्रकार जोडत नाहीत किंवा CS-2 आकुंचित करत नाहीत.*
+प्रत्येक न्याय्य रोखून ठेवण्यासोबत व्यवहार्य असलेला सर्वात मजबूत सार्वजनिक पर्याय दिला पाहिजे ([§3.4.5 प्रणाली-वर्गानुसार प्रमाणित पायाभूत हमी](#345-system-class-scaled-infrastructure-assurance) उदाहरणे देते). संज्ञेची मालकी अध्याय पाचकडे; आधाररेषेचा आशय व प्रकटीकरणाची कार्यपद्धती CS-2 (*माहिती प्रकार आणि हाताळणी*) कडे आहे.
 
-**वर्ग A — नगरपालिका सुरक्षित पिण्याचे पाणी नियंत्रण आणि दूरमापन.** नगरपालिका मालकीचा प्रक्रिया-आणि-वितरण नियंत्रण थर वास्तविक-काल दाब, प्रवाह, दूषण-इशारा, आणि झडप-आदेश डेटा घेतो; व्यत्यय सूचनेसाठी मर्यादित ग्राहक-सेवा दुवा डेटा साठवतो; आणि निरीक्षण पुरवठादार सुरक्षा संचालन केंद्र (**SOC**) कडे सुपूर्द करतो.
+<a id="342-privacy-discipline"></a>
+##### 3.4.2 गोपनीयता शिस्त
 
-- **व्याप्तीतील डेटा प्रकार:**
-  - सुरक्षा-गंभीर संचालन **दूरमापन** (क्षेत्रातून जिवंत मापन आणि आदेश संकेत);
-  - दूषण आणि गुणवत्ता-इशारा संकेत;
-  - व्यत्यय-सूचना संपर्क डेटा;
-  - पुरवठादार आणि चालक प्रवेश दंडक;
-  - घटना आणि देखभाल अभिलेख.
-- **मूल्यमापनाने काय तपासावे:**
-  - सुरक्षा-गंभीर नियंत्रण-तल डेटा **सर्वात निर्बंधक लागू** CS-3 वर्गीकरणाखाली ग्राहक-सेवा, बिलिंग, किंवा विश्लेषण नलिकांपासून वेगळा आहे का;
-  - एकत्रीकरण, पुरवठादार सुपूर्द, किंवा बॅकअप मार्ग ताण किंवा विरोधी परिस्थितीत ते वेगळेपणा कोसळवू शकतात का;
-  - दूषण किंवा बंद घटना तपासण्याइतका आरोपण टिकतो का; आणि
-  - कोणत्याही सुरक्षा-समर्थित लेखापरीक्षण निर्बंधाचा दस्तऐवजीत सार्वजनिक पर्याय आहे का.
-- **अभिलेखाने काय दाखवावे:**
-  - प्रमाणित व्याप्तीसाठी पूर्ण प्रकार यादी;
-  - दूरमापन, इशारा, किंवा संपर्क डेटा बहु-प्रकार असू शकेल तिथे वर्गीकरण तर्क;
-  - वेगळेपणा आणि आंतर-क्षेत्र-दुवा नियंत्रणे;
-  - घटना पुनर्बांधणीसाठी धारण आणि जीवनचक्र भूमिका;
-  - बॅकअप, पुनर्स्थापना, आणि विरोधी पुनर्प्राप्तीसाठी **वर्ग A** खोलीवर पायाभूत-आश्वासन निष्कर्ष; आणि
-  - पुरवठादार सुपूर्द किंवा निरीक्षण अंतरांना जोडलेल्या कोणत्याही अटी.
+डेटा हाताळणीसाठी प्रमाणनाने पुढील गोपनीयता शिस्त लागू केली पाहिजे:
 
-**वर्ग B — प्रादेशिक क्लिनिकल अभिलेख विनिमय.** आरोग्य-माहिती विनिमय रुग्णालये, दवाखाने, आणि लाभ-शेजारी पात्रता प्रणालींमध्ये क्लिनिकल सारांश, चित्रण निर्देशक, आणि ओळख-निराकरण टोकन मार्गनिर्देशित करतो; रुग्णालये दैनंदिन त्यावर अवलंबून आहेत पण फॅक्स, थेट द्वार, किंवा हाताने पुनर्प्राप्ती जीवनरक्षा-संबंधित कालमर्यादेत पर्याय होऊ शकतात.
+- *प्रकार H, I, N, S आणि Y.* **प्रकार H**, **प्रकार I**, **प्रकार N**, **प्रकार S** आणि **प्रकार Y** डेटासाठी, CS-2 (*माहिती प्रकार आणि हाताळणी*) मध्ये प्रत्येक प्रकाराने नामनिर्दिष्ट केलेल्या [गोपनीयता-स्थळांचे](corpus_systems/cs_02_b_data_classifications.md#privacy-link) हाताळणी पालन करते का हे प्रमाणनाने सत्यापित केले पाहिजे. यात [आवश्यकता](core_05_band_accountability.md#necessity), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), किमान-आवश्यकता, आणि संमती किंवा अन्य पर्याप्त अधिकार यांचा समावेश आहे.
+- *संयुक्त आवाहन.* एकापेक्षा अधिक गोपनीयता-स्थाने संबंधित असल्यास [§4.1 गोपनीयता (माहितीविषयक) संयुक्त आवाहन](#41-privacy-informational-joint-invocation) देखील लागू होते.
+- *फक्त लेबल पुरेसे नाही.* योग्य प्रकार-लेबल स्वतःहून गोपनीयता अनुपालन दर्शवत नाही.
+- *प्रकार W, U आणि T.* **प्रकार W**, **प्रकार U** आणि **प्रकार T** निर्मितींसाठी, पुढीलसह निर्मात्याचे नियंत्रण मानले जाते का हे प्रमाणनाने सत्यापित केले पाहिजे:
+  - [CS-2 भाग B §9.9](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published)(*प्रकार W: प्रकाशित निर्मिती*) अंतर्गत सार्वजनिक प्रकाशन मागे घेणे;
+  - [CS-2 भाग B §9.13](corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants)(*व्यावसायिक परवाने*) अंतर्गत नोंदवलेल्या प्रत्येक परवान्याच्या मर्यादा; आणि
+  - निर्मात्याचे [राखीव अधिकार](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights).
+- *गृहीत संमती नाही.* कोणताही परवाना त्यात नमूद नसलेल्या वापरासाठीची संमती मानला जाऊ नये.
 
-- **व्याप्तीतील डेटा प्रकार:**
-  - क्लिनिकल आणि निदान अभिलेख;
-  - ओळख आणि ओळखपत्र-निराकरण टोकन;
-  - वैद्यकीय आणि सुविधा निर्देशिका डेटा;
-  - प्रवेश आणि प्रकटीकरण लेखापरीक्षण दंडक;
-  - व्युत्पन्न जुळणी किंवा द्विरुक्ती-निवारण कलाकृती.
-- **मूल्यमापनाने काय तपासावे:**
-  - क्लिनिकल डेटा मार्गनिर्देशन, कॅशिंग, द्विरुक्ती-निवारण, आणि खालच्या दुव्यावर सर्वात कठोर लागू हाताळणी वर्गाखाली राहतो का;
-  - ओळख-निराकरण तर्क असुरक्षित आंतर-क्षेत्र दुवा किंवा प्रतिनिधी-उघडणी निर्माण करतो का;
-  - चालक आणि सहभागी सुपूर्द साखळ्या आरोपयोग्य राहतात का; आणि
-  - सुवाह्यता आणि निकास मार्ग संचालन पुनर्प्राप्ती न हरवता रुग्ण नियंत्रण जपतात का.
-- **अभिलेखाने काय दाखवावे:**
-  - भौतिक प्रकार आणि संदिग्ध-प्रकार तर्क;
-  - क्लिनिकल भार, निर्देशिका मेटाडेटा, आणि पात्रता-शेजारी फीड्समधील वेगळेपणा;
-  - सुपूर्द-साखळी आरोपण;
-  - आरोग्यसेवा तपास आणि आव्हानासाठी पुरेशी जीवनचक्र आणि धारण भूमिका;
-  - **वर्ग B** संचालन खोलीवर पायाभूत-आश्वासन निष्कर्ष; आणि
-  - व्यत्यय किंवा डेटा-हाताळणी अपयश आता जीवनरक्षा-संबंधित कालमर्यादेत काळजी रोखेल तर पुनर्उघडणे चालक.
+<a id="343-protective-storage-and-key-custody"></a>
+##### 3.4.3 संरक्षक साठवण आणि किल्ली ताबा
 
-**वर्ग C — संस्थात्मक वेळापत्रक आणि समन्वय थर.** बहु-संस्था वेळापत्रक थर रुग्णालये, शाळा, आणि सार्वजनिक संस्थांमध्ये कर्मचारी शिफ्ट, खोली आरक्षणे, आणि पुरवठादार भेटी समन्वयित करतो; मूळ रुग्णालये आणि उपयुक्तता पडली तर क्षीण पद्धतींनी चालू राहू शकतात, पण थर प्रमाणात समन्वय आकार देतो आणि संपर्क, भूमिका, आणि स्थूल-स्थान मेटाडेटा धरू शकतो.
+मुलभूतरीत्या प्रतिबंधित आणि अप्रवेशयोग्य पट्ट्यातील डेटासाठी, [CS-2 भाग A §5.0 प्रवेश-स्थिती पट्टे](corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands) मधील संरक्षक साठवण व किल्ली-ताबा तळ प्रणाली पूर्ण करते का हे प्रमाणनाने सत्यापित केले पाहिजे. अभिलेखात पुढील दाखवले पाहिजे:
+- बॅकअप, कॅशे, लॉग आणि स्वॅपसह प्रतिबंधित डेटा व त्याच्या किल्ल्या प्रत्यक्ष कुठे आहेत;
+- साधा मजकूर केवळ त्याची गरज असलेल्या प्रक्रियांपुरता मर्यादित आहे; आणि
+- लेखापरीक्षण, निर्यात आणि कायदेशीर अधिलंघनाचे मार्ग अद्याप कार्यरत आहेत.
 
-- **व्याप्तीतील डेटा प्रकार:**
-  - वेळापत्रक, भूमिका, आणि संसाधन-वाटप डेटा;
-  - सहभागी संपर्क आणि ओळखपत्र मेटाडेटा;
-  - स्थूल स्थान किंवा स्थळ ओळखकर्ते;
-  - थर लेखापरीक्षण दंडक;
-  - वापरले असतील तिथे व्युत्पन्न श्रेणी किंवा जुळणी निर्गम.
-- **मूल्यमापनाने काय तपासावे:**
-  - प्रणाली भौतिक प्रकार प्रामाणिकपणे ओळखते का — वेळापत्रक नमुन्यांतून संरक्षित वैशिष्ट्ये उघडू शकणारे व्युत्पन्न निर्गम धरून;
-  - आंतर-संस्था दुवा कारणासहित व्याप्तीत राहतो का;
-  - एकाग्रता अडथळा अधिरोहणाची पूर्वसूचना देऊ शकेल तिथे हाताळणी आव्हानयोग्य राहते का; आणि
-  - अवलंबित्व किंवा डेटा संवेदनशीलता मजबूत झाली असेल तर निम्न वर्ग लेबल अजून बसते का.
-- **अभिलेखाने काय दाखवावे:**
-  - भौतिक रीतीने व्याप्तीतील प्रकार आणि कोणताही बहु-प्रकार तर्क;
-  - **वर्ग C** समन्वय धोक्याप्रमाणे प्रमाणबद्ध दुवा आणि धारण निष्कर्ष;
-  - खरे धरलेल्या डेटासाठी भौतिक — दिखाऊ नाही — असतील तिथे पायाभूत-आश्वासन निष्कर्ष;
-  - भार-ढकलणार्‍या दुव्यासाठी आव्हानयोग्य आरोपण; आणि
-  - थर जीवनरक्षा-आवश्यक प्रवेशाचे प्रत्यक्ष द्वार बनेल किंवा क्लिनिकल-दर्जा भार वाहू लागेल तिथे व्यक्त **पुनर्वर्गीकरण पहारा**.
+या पुराव्याशिवाय केलेला कूटबद्धीकरणाचा दावा ही तपासणी पूर्ण करत नाही.
 
-**वर्गांवरून वाचन.** तेच CS-3 नियम तिन्ही प्रणालींना लागू होतात; वर्ग **खोली** बदलतो, डेटा चुकीने हाताळण्याची परवानगी नाही. क्लिनिकल-दर्जा अभिलेख साठवण किंवा मार्गनिर्देशन सुरू करणारा **वर्ग C** थर तसा मूल्यमापित आणि नोंदला गेला पाहिजे — चालक हलका अभिलेख पसंत करतो म्हणून समन्वय-थर हाताळणीत सोडू नये. ज्याचा व्यत्यय आता जीवनरक्षा-संबंधित कालमर्यादेत आपत्कालीन काळजी रोखेल असा **वर्ग B** विनिमय [§2](#2-system-class-evaluation) आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली पुनर्वर्गीकृत आणि पुनर्प्रमाणित झाला पाहिजे, डेटा-हाताळणी आश्वासन त्यानुसार प्रमाणित.
+<a id="344-periodic-data-type-re-evaluation"></a>
+##### 3.4.4 नियतकालिक डेटा-प्रकार पुनर्मूल्यमापन
 
-<a id="5-ecological-footprint-evaluation"></a>
+भौतिक प्रभाव असलेल्या प्रत्येक प्रमाणन किंवा पुनर्प्रमाणन चक्रात प्रक्रियेने व्याप्तीतील भौतिक डेटासंच:
 
-### 5. पारिस्थितिक पदचिन्ह मूल्यमापन
+- [CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance) (*पुनर्वर्गीकरण आणि जीवनचक्र प्रशासन*) आणि **CJS-3.18** (*डेटा-धारण आणि जीवनचक्र-अखंडता संज्ञा*) अंतर्गत योग्य वर्गीकरणासाठी **नियतकालिकरीत्या पुन्हा मूल्यमापित** केले गेले; आणि
+- त्या पुनरावलोकनाने आवश्यक ठरवलेल्या ठिकाणी **पुनर्वर्गीकृत** केले गेले,
+
+हे सत्यापित केले पाहिजे.
+
+[§2 प्रणाली-वर्ग मूल्यमापन](#2-system-class-evaluation) अंतर्गत प्रणाली-वर्ग आणि भौतिक प्रभावानुसार कालावधी प्रमाणित केला पाहिजे. CS-2 (*माहिती प्रकार आणि हाताळणी*) अंतर्गत घटना-ट्रिगरवर होणारे पुन्हा-प्रकारांकन हे नियतकालिक प्रमाणन तपासणीची जागा घेत नाही.
+
+<a id="345-system-class-scaled-infrastructure-assurance"></a>
+##### 3.4.5 प्रणाली-वर्गानुसार प्रमाणित पायाभूत हमी
+
+[§2.1 प्रत्येक मूल्यमापनाची व्याप्ती प्रणाली-वर्ग कशी प्रमाणित करतो](#21-how-system-class-scales-every-evaluation) आणि CS-3 (*प्रणाली वर्गीकरण यंत्रणा*) अंतर्गत, उच्च-वर्गीय प्रणालींना ताणाखाली पुढील बाबी जतन करू शकणाऱ्या हाताळणी, साठवण, प्रक्रिया, प्रसारण, बॅकअप, पुनर्प्राप्ती आणि निरीक्षण पायाभूत सुविधांचा प्रमाणानुसार अधिक मजबूत पुरावा आवश्यक आहे:
+
+- वर्गीकरण अखंडता;
+- कर्त्याशी जोडणी; आणि
+- आव्हानयोग्यता.
+
+CS-2 (*माहिती प्रकार आणि हाताळणी*) अंतर्गत सार्वजनिक-हित दृश्यता मूलभूत नियम लागू असतील तेव्हा प्रतिबंध:
+
+- मर्यादित व्याप्तीचे आहेत;
+- दस्तऐवजीकृत व लेखापरीक्षणयोग्य आहेत; आणि
+- रोखलेली माहिती केवळ लपवली न जाता स्पष्टीकरणासह राहावी यासाठी सारांश, एकत्रित माहिती, ओळख-विरहित आवृत्ती, विलंबित प्रकाशन किंवा पात्र लेखापरीक्षण प्रवेशासारखा व्यवहार्य सर्वोत्तम सार्वजनिक पर्याय दिला आहे,
+
+हे प्रमाणनाने सत्यापित केले पाहिजे.
+
+<a id="346-infrastructure-robustness-for-data"></a>
+##### 3.4.6 डेटासाठी पायाभूत लवचिकता
+
+डेटा हाताळणी पायाभूत सुविधा संबंधित डेटा प्रकार आणि प्रणाली-वर्गासाठी योग्य आहेत का हे प्रमाणनाने मूल्यमापित केले पाहिजे. या पायाभूत सुविधांमध्ये पुढील बाबी येतात:
+
+- टिकवणूक स्तर आणि पाइपलाइन;
+- प्रवेश-नियंत्रणे;
+- कूटबद्धीकरण किंवा विलगीकरण सीमा;
+- बॅकअप आणि पुनर्संचय मार्ग; आणि
+- ऑपरेटर किंवा विक्रेता प्रतिनिधीकरण साखळ्या.
+
+जीवनचक्र अखंडता, प्रतिकूल-स्थितीतील लवचिकता, वहनक्षमता किंवा पुनर्प्राप्तीक्षमतेतील भौतिक त्रुटी अभिलेखात नमूद करून प्रमाणन परिणाम, अटी किंवा अवलंबित्व मर्यादांत प्रतिबिंबित केल्या पाहिजेत.
+
+<a id="347-defects-and-misalignment"></a>
+##### 3.4.7 दोष आणि विसंरेखन
+
+पुढील प्रत्येक बाब प्रमाणन-दोष म्हणून हाताळली पाहिजे:
+
+- डेटा चुकीचे वर्गीकरण;
+- टाळाटाळ करणारी पुनर्रचना;
+- असुरक्षित डोमेन-पार जोडणी;
+- प्रकार-लेबलाशी जुळणारी परंतु त्या प्रकाराने नामनिर्दिष्ट केलेली गोपनीयता-स्थाने पूर्ण न करणारी हाताळणी;
+- भौतिक हानीची चौकशी अशक्य करणारी कर्ता-नोंद गहाळ असणे;
+- **थकीत किंवा वगळलेले नियतकालिक डेटा-प्रकार पुनर्मूल्यमापन**;
+- प्रतिबंधित डेटा साठवणीत किंवा अधिकृत प्रक्रिया-सीमेबाहेर साध्या मजकूरात ठेवणे, किंवा ज्यांना गरज नाही अशा प्रक्रियांना किल्ल्यांपर्यंत पोहोचता येणे; आणि
+- CS-2 (*माहिती प्रकार आणि हाताळणी*) मधील संरक्षणे पूर्वानुमेयरीत्या निष्प्रभ करणारी पायाभूत नाजूकता.
+
+त्यांचे परिणाम [§7 प्रमाणन परिणाम](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) येथे दिले आहेत.
+
+
+<a id="4-evaluations-where-implicated"></a>
+
+### 4. जिथे संबंधित असेल तिथली मूल्यमापने
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*अभिलेख आशय*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सातत्य मापन कुटुंब (*संवैधानिक मापन म्हणून पारिस्थितिक पदचिन्ह*); **अनुच्छेद I-B** (*पारिस्थितिक पदचिन्ह आणि पारदर्शकता*); [पारिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint), [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), [पारदर्शकता](core_05_band_oversight.md#transparency), आणि [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity) (अध्याय पाच); [पर्यावरणीय पूर्वअटी](core_05_band_continuity.md#environmental-preconditions-constitutional) आणि [पारिस्थितिक सचोटी](core_05_band_continuity.md#ecological-integrity-constitutional) जिथे भौतिक रीतीने गुंतले.
-- पुढे: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*उदाहरणार्थ पारिस्थितिक-पदचिन्ह मार्गदर्शने*); [§6](#6-proportionate-cross-system-support-evaluation) आणि [§6.1](#61-illustrative-cross-system-support-application-by-class) (*आंतर-प्रणाली आधार मूल्यमापन आणि मार्गदर्शने*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*पदचिन्ह चुकीचे सादरीकरण आणि विसंरेखन*).
-- सोबत वाचा: [corpus_systems.md](../../corpus_systems.md), [CS-8 — अनुकूल टिकाऊपणा आणि परिसंस्था लवचिकता](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) जिथे अनुकूल वाटप किंवा परिसंस्था परस्परावलंबित्व भौतिक रीतीने व्याप्तीत आहे.
-- उपविभाग: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*वर्गनिहाय उदाहरणार्थ पारिस्थितिक-पदचिन्ह अनुप्रयोग*).
+- वरून: [§3](#3-whole-system-certification-evaluation) (*नेहमी-लागू स्तरासह संपूर्ण-प्रणाली मूल्यमापन*); [§2](#2-system-class-evaluation) (*प्रणाली-वर्ग मूल्यमापन*); [अध्याय एक §12 प्रणालीगत मूल्यमापन आवश्यकता](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- पुढे: [§4.1](#41-privacy-informational-joint-invocation) (*गोपनीयता केंद्रे*); [§4.2](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) (*निकास अधिकार*); [§4.3](#43-assembly-collective-organization-and-institutional-formation) (*सभा आणि असहमती*); [भाग ब §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेख आशय*).
+- सोबत वाचा: [§5 अधिकार-तळ आणि क्षेत्र मूल्यमापने](#5-rights-floor-and-domain-evaluations) (*ट्रिगर झाल्यावर लागू स्तर*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रमाणनाने आरोपयोग्य पर्यावरणीय भार महत्त्वाचे असतील तेव्हा प्रामाणिकपणे मूल्यमापन केले पाहिजे — वरचे आणि खालचे दुवे धरून — चालक प्रणाली «हिरवी» आहे असे सांगतो एवढे नाही. पदचिन्ह लेखा पद्धती आणि संख्यात्मक कपात लक्ष्ये इतर साधनांत राहतात; प्रमाणन पडताळते की आरोपण, प्रकटीकरण, आणि तुलना जिथे भौतिक तिथे खरे मूल्यमापित झाले. [§2.1](#21-illustrative-class-profiles-non-exhaustive) मधील उदाहरणार्थ प्रणालींसाठी काम केलेली उदाहरणे [§5.1](#51-illustrative-ecological-footprint-application-by-class) मध्ये आहेत.*
+*सोप्या भाषेत: तीन तपासण्या फक्त प्रणालीचा त्यांच्याशी प्रत्यक्ष संबंध असेल तेव्हाच लागू होतात — खाजगी माहिती योग्यरीत्या वेगळी व सुरक्षित राहते का, संज्ञ प्राणी अडकून न पडता बाहेर पडू शकतात का, आणि समूह संघटित होऊ व असहमती व्यक्त करू शकतात का. प्रणाली यांपैकी एखाद्याला स्पर्श करत असेल, तर प्रमाणनाने त्याचे मूल्यमापन केले पाहिजे.*
 
-प्रणाली-संरेखन प्रमाणनाने प्रत्येक भौतिक प्रभावी प्रमाणन अभिलेखाचा भाग म्हणून **पारिस्थितिक पदचिन्ह** मूल्यमापन केले पाहिजे जिथे [पारिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint) आणि **अनुच्छेद I-B** (*पारिस्थितिक पदचिन्ह आणि पारदर्शकता*) खाली आरोपयोग्य पर्यावरणीय भार भौतिक आहेत. प्रामाणिक आरोपण, जीवनचक्र, अवलंबित्व, आणि पारदर्शकता नियम अध्याय पाच आणि **अनुच्छेद I-B** (*पारिस्थितिक पदचिन्ह आणि पारदर्शकता*) मध्ये राहतात; लेखा पद्धती, सत्यापन पावले, आणि संख्यात्मक लक्ष्ये जिथे लागू तिथे अंगीकरण साधनांत राहतात. हा विभाग प्रमाणनाने काय पडताळले आणि नोंदले पाहिजे ते सांगतो; तो पदचिन्ह लेखा यांत्रिकीची पुनर्उक्ती करत नाही किंवा इतर साधने मागतात त्यापलीकडे कपात कर्तव्ये लादत नाही.
+हा विभाग टप्पा II (मूल्यमापन) मधील उपटप्पा **IIb** आहे. प्रमाणन विषय एखाद्या उपविभागाने नामनिर्दिष्ट केलेल्या केंद्रावर किंवा तत्त्वावर भौतिकरीत्या परिणाम करतो तेथे लागू होणारी संपूर्ण-प्रणाली मूल्यमापने येथे एकत्र केली आहेत. कोणत्याही उपविभागाच्या आवश्यकता यामुळे वाढत, संकुचित होत किंवा पुनर्क्रमित होत नाहीत.
 
-**मूल्यमापन अपेक्षा.** प्रमाणन प्रक्रिया ठरवे की आरोपयोग्य पर्यावरणीय प्रवाह — ऊर्जा, साहित्य, उत्सर्जन, भूमी वापर, आणि संबंधित भार — प्रणालीच्या भौतिक संबंधित जीवनचक्र आणि [अवलंबित्व](core_05_band_continuity.md#dependency) नात्यांवर ओळखले जातात, [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) खाली मूल्यमापित होतात, आणि फक्त [पारदर्शकता](core_05_band_oversight.md#transparency), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), आणि लागू पारदर्शकता बंधने परवानगी देतात तसे प्रगट किंवा रोखले जातात. मूल्यमापनाने कार्यात्मक परिणाम आणि प्रणाली सीमा प्रतिबिंबित केल्या पाहिजेत, केवळ नाममात्र व्याप्ती, विपणन लेबले, किंवा आंशिक जीवनचक्र चौकट नाही.
-
-**अभिलेख अपेक्षा.** प्रमाणन अभिलेखाने पदचिन्ह मूल्यमापन व्याप्ती, आरोपण गृहीते, ज्या जीवनचक्र आणि अवलंबित्व सीमांवर अवलंब आहे, ओळखलेले भौतिक भार, अनिश्चितता, प्रकटीकरण भूमिका, हवे तिथे पर्यावरण-मंच घटक निष्कर्ष, आणि लागू पारदर्शकता नियम मागत असतील तिथे पदचिन्ह प्रकटीकरणावरील कोणत्याही कारणासहित मर्यादा त्यांच्या सार्वजनिक पर्यायांसह सांगितल्या पाहिजेत.
-
-**प्रणाली वर्गासोबत संयुक्त प्रमाणीकरण.** पदचिन्ह मूल्यमापन आणि प्रकटीकरण खोली [§2](#2-system-class-evaluation) आणि [भौतिक दाव](core_00_preamble.md#material-stake) खाली नेमलेल्या प्रणाली वर्गानुसार प्रमाणित झाली पाहिजे. उच्च-वर्ग प्रणालींना प्रमाणबद्ध रीतीने अधिक मजबूत पुरावा हवा की भौतिक पर्यावरणीय भार आरोपित झाले, व्यवहार्य तिथे संबंधित पर्यायांवर तुलना झाली, आणि सीमा-हलवणे, अवलंबित्व ढकलणे, किंवा निवडक प्रकटीकरणाने झाकले गेले नाहीत.
-
-**दोष आणि विसंरेखन.** प्रमाणन किंवा **अनुच्छेद I-B** (*पारिस्थितिक पदचिन्ह आणि पारदर्शकता*) पारदर्शकता बंधने प्रकटीकरण मागत असतील तिथे भौतिक पदचिन्ह माहिती लपवणे, चुकीचे सादरीकरण, तुकडे करणे, किंवा ढकलणे; व्यापक आरोपण भौतिक असेल तिथे फक्त चालक-निवडलेले जीवनचक्र तुकडे मूल्यमापन करणे; किंवा मूल्यमापनयोग्य पुराव्याशिवाय दाव्याने पदचिन्ह दावे पूर्ण मानणे प्रमाणन दोष मानावे. ते [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली सशर्त मान्यता, स्थगित मान्यता, अमान्यता, माघार, किंवा पुनर्उघडणे आधार देऊ शकतात.
-
-<a id="51-illustrative-ecological-footprint-application-by-class"></a>
-
-<a id="51-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
-#### 5.1 वर्गनिहाय उदाहरणार्थ पारिस्थितिक-पदचिन्ह अनुप्रयोग (असंपूर्ण)
-
-*सोप्या भाषेत: [§3.8](#38-illustrative-whole-system-application-by-class) आणि [§4.1](#41-illustrative-data-handling-application-by-class) त्याच तीन प्रणाली संपूर्ण-प्रणाली आणि डेटा-हाताळणी समीक्षेतून चालवतात. हा उपविभाग प्रत्येकासाठी **पारिस्थितिक पदचिन्ह** मूल्यमापनाचा अर्थ काय ते दाखवतो — कोणते पर्यावरणीय भार मोजतात, प्रमाणनाने काय तपासावे, आणि अभिलेखावर काय दिसले पाहिजे. **अनुच्छेद I-B** (*पारिस्थितिक पदचिन्ह आणि पारदर्शकता*) आणि अध्याय पाच अजून आरोपण आणि पारदर्शकता नियम मालकीने धरतात; लेखा पद्धती आणि संख्यात्मक लक्ष्ये इतर साधनांत राहतात; ही मार्गदर्शने त्या साधने मागतात त्यापलीकडे पदचिन्ह कर्तव्ये जोडत नाहीत.*
-
-**वर्ग A — नगरपालिका सुरक्षित पिण्याचे पाणी नियंत्रण आणि दूरमापन.** नगरपालिका मालकीची प्रक्रिया-आणि-वितरण प्रणाली जलग्रहण स्रोत, रासायनिक प्रक्रिया इनपुट, पंपिंग आणि प्रक्रिया ऊर्जा, वितरण पायाभूत सुविधा, विसर्जन प्रवाह, आणि वापरले असतील तिथे सुपूर्द पुरवठादार गणन किंवा निरीक्षण यावर अवलंबून आहे.
-
-- **व्याप्तीतील आरोपयोग्य भार:**
-  - स्रोत-पाणी काढणी आणि जलग्रहण ताण;
-  - प्रक्रिया रसायने आणि गाळणी माध्यम;
-  - पंपिंग, प्रक्रिया, आणि वितरण ऊर्जा;
-  - संयंत्रे, पाईप, आणि नियंत्रणांसाठी अंतर्भूत पायाभूत सुविधा;
-  - प्रक्रिया केलेल्या पाण्याची हानी आणि गळती;
-  - प्राप्त पाण्यात विसर्जन आणि अवशेष;
-  - वरची वीज-जाळी उत्सर्जने;
-  - भौतिक रीतीने अवलंब असेल तिथे पुरवठादार सुरक्षा संचालन केंद्र (**SOC**), सामायिक यजमान गणन, किंवा दूरस्थ-निरीक्षण गणन आणि जोडणी;
-  - भौतिक संबंधित जीवनचक्रावर देखभाल, बदल, आणि सेवामुक्तता भार.
-- **मूल्यमापनाने काय तपासावे:**
-  - पदचिन्ह व्याप्ती वरची वीज, रसायन पुरवठा, जलग्रहण [अवलंबित्व](core_05_band_continuity.md#dependency), आणि खालचे विसर्जन धरते का — फक्त नगरपालिका संचालन इमारती नाही;
-  - स्रोत क्षय, ऊर्जा तीव्रता, आणि ताण किंवा हवामान परिवर्तनशीलतेखालील विसर्जनासाठी [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) मूल्यमापित झाला का;
-  - चालक-निवडलेल्या सीमांनी आरोपण भौतिक असेल तिथे पुरवठादार-यजमान निरीक्षण, बाह्य रसायन रसद, किंवा सामायिक जाळी भार वगळले का;
-  - व्यवहार्य तिथे पर्याय — संवर्धन, स्रोत संरक्षण, निम्न-भार प्रक्रिया मार्ग — तुलना झाले का; आणि
-  - प्रकटीकरण मर्यादांचे **अनुच्छेद I-B** (*पारिस्थितिक पदचिन्ह आणि पारदर्शकता*) खाली दस्तऐवजीत सार्वजनिक पर्याय आहेत का.
-- **अभिलेखाने काय दाखवावे:**
-  - **वर्ग A** खोलीवर पदचिन्ह मूल्यमापन व्याप्ती आणि जीवनचक्र सीमा;
-  - जलग्रहण, ऊर्जा, रसायन, आणि विसर्जन प्रवाहांसाठी आरोपण गृहीते;
-  - ओळखलेले भौतिक भार आणि सांगितलेली अनिश्चितता;
-  - हवे तिथे पर्यावरण-मंच घटक निष्कर्ष;
-  - व्यवहार्य तिथे संबंधित पर्यायांवरील तुलना निष्कर्ष;
-  - प्रकटीकरण भूमिका आणि सार्वजनिक पर्यायांसह कोणत्याही कारणासहित मर्यादा; आणि
-  - स्रोत ताण, विसर्जन हानी, किंवा सीमा-हलवण्याला जोडलेल्या अटी किंवा पुनर्उघडणे चालक.
-
-**वर्ग B — प्रादेशिक क्लिनिकल अभिलेख विनिमय.** आरोग्य-माहिती विनिमय द्विरुक्ती यजमान, रुग्णालय-स्थळ जोडणी, ओळख-निराकरण गणन, आणि प्रादेशिक काळजी जाळ्यावर पुरवठादार किंवा सहभागी-चालित पायाभूत सुविधांवर अवलंबून आहे.
-
-- **व्याप्तीतील आरोपयोग्य भार:**
-  - प्राथमिक आणि बॅकअप डेटा-केंद्र ऊर्जा, शीतन, आणि हार्डवेअर जीवनचक्र;
-  - सहभागी रुग्णालयांसाठी जाळे आणि कडा जोडणी;
-  - साठवण द्विरुक्ती आणि द्विरुक्ती-निवारण गणन;
-  - ओळख-मध्यस्थ आणि मार्गनिर्देशन पायाभूत सुविधा;
-  - भौतिक रीतीने अवलंबित यजमान स्थळांवरील सुविधा भार;
-  - रुग्णालये त्यांच्यावर अवलंबून असतील तिथे स्थानीक जोडकांसाठी अंतर्भूत पायाभूत सुविधा.
-- **मूल्यमापनाने काय तपासावे:**
-  - पदचिन्ह आरोपण संचालन प्रमाणावर यजमान, द्विरुक्ती, आणि सहभागी-जोडणी भार व्यापते का — फक्त विनिमय चालकाचे मुख्यालय नाही;
-  - सामायिक यजमान प्रदेश, सह-स्थान पुरवठादार, किंवा रुग्णालय-स्थळ कडा हार्डवेअरवरील अवलंबित्व नकाशित आणि आरोपित झाले का;
-  - भौतिक हार्डवेअर आणि ऊर्जा भार ढकलताना जीवनचक्र तुकडे फक्त-सॉफ्टवेअर दाव्यांपर्यंत आकुंचित झाले नाहीत का;
-  - भौतिक भार [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) खाली मूल्यमापित झाले आणि **अनुच्छेद I-B** (*पारिस्थितिक पदचिन्ह आणि पारदर्शकता*) शी सुसंगत प्रगट झाले का; आणि
-  - सहभागी प्रमाण किंवा डेटा संवेदनशीलतेतील वाढ आरोपित भार भौतिक रीतीने बदलेल का.
-- **अभिलेखाने काय दाखवावे:**
-  - **वर्ग B** संचालन खोलीवर पदचिन्ह व्याप्ती आणि अवलंबित्व सीमा;
-  - ओळखलेले भौतिक ऊर्जा, हार्डवेअर, आणि जोडणी भार;
-  - यजमान आणि सुपूर्द आरोपण गृहीते;
-  - अनिश्चितता आणि प्रकटीकरण भूमिका;
-  - हवे तिथे पर्यावरण-मंच किंवा इतर घटक निष्कर्ष; आणि
-  - प्रमाण, क्लिनिकल-दर्जा भार वाढ, किंवा यजमान एकाग्रता आरोपयोग्य भार किंवा वर्ग भूमिका भौतिक रीतीने बदलेल तर पुनर्उघडणे चालक.
-
-**वर्ग C — संस्थात्मक वेळापत्रक आणि समन्वय थर.** बहु-संस्था वेळापत्रक थर प्रामुख्याने सामायिक यजमान गणन आणि जोडणीवर चालतो, स्थळ रसद, समन्वय नमुन्यांनी प्रेरित प्रवास, आणि लागू असेल तिथे एकाग्र प्रादेशिक यजमान यांपासून दुय्यम भारासह.
-
-- **व्याप्तीतील आरोपयोग्य भार:**
-  - वेळापत्रक कामासाठी यजमान गणन, साठवण, आणि जाळे;
-  - थराच्या वाट्याशी आरोपयोग्य बहु-भाडेकरू डेटा-केंद्र ऊर्जा;
-  - भौतिक रीतीने अवलंबित पायाभूत सुविधांसाठी अंतर्भूत हार्डवेअर जीवनचक्र;
-  - समन्वय नमुने प्रवास किंवा सुविधा वापर भौतिक रीतीने हलवतात तिथेच स्थळ आणि रसद भार;
-  - यजमान किंवा वापर उच्च-भार स्थानी गुच्छ होतो तिथे प्रादेशिक एकाग्रता परिणाम.
-- **मूल्यमापनाने काय तपासावे:**
-  - चालकाने यजमान-गणन आणि जोडणी भार प्रामाणिकपणे आरोपित केले का, थर «फक्त सॉफ्टवेअर» आहे म्हणून अभौतिक मानण्याऐवजी;
-  - बहु-भाडेकरू ढकलणे किंवा पुरवठादार सीमा-हलवण्याने भौतिक ऊर्जा किंवा हार्डवेअर आरोपण लपवले का;
-  - विशिष्ट प्रदेश किंवा पुरवठादारांतील एकाग्रता भार भौतिक रीतीने हलवते तिथे मूल्यमापित झाली का;
-  - पदचिन्ह समीक्षा **वर्ग C** प्रणालीसाठी दिखाऊ न होता प्रमाणबद्ध राहिली का; आणि
-  - प्रमाण, जीवनरक्षा-आवश्यक मार्गनिर्देशन, किंवा क्लिनिकल-दर्जा भार वाढ **वर्ग B** किंवा **वर्ग A** पदचिन्ह खोली मागेल तर पुनर्वर्गीकरण योग्य आहे का.
-- **अभिलेखाने काय दाखवावे:**
-  - **वर्ग C** समन्वय धोक्याप्रमाणे प्रमाणबद्ध पदचिन्ह निष्कर्ष;
-  - गणन, साठवण, आणि जोडणीसाठी व्याप्ती आणि आरोपण गृहीते;
-  - जीवनचक्र सीमा अति-आकुंचित न करता ओळखलेले भौतिक भार;
-  - अनिश्चितता आणि प्रकटीकरण भूमिका;
-  - यजमान एकाग्रता, प्रमाण, किंवा भार संवेदनशीलता मजबूत होते तिथे व्यक्त **पुनर्वर्गीकरण पहारा**; आणि
-  - वर्ग किंवा भौतिकता बदलली तर अधिरोहित पदचिन्ह समीक्षेचे संकेत.
-
-**वर्गांवरून वाचन.** तेच **अनुच्छेद I-B** (*पारिस्थितिक पदचिन्ह आणि पारदर्शकता*) आणि अध्याय पाच पदचिन्ह शिस्त तिन्ही प्रणालींना लागू होते; वर्ग आरोपण खोली आणि तुलना भार बदलतो, भौतिक पर्यावरणीय प्रवाह लपवण्याची परवानगी नाही. **वर्ग A** जीवनरक्षा-गंभीर पाणी प्रणाली सुरक्षित पाणी द्वार करणारे जलग्रहण काढणी, विसर्जन, किंवा ऊर्जा भार भौतिक रीतीने कमी-आरोपित राहताना वर्ग उतरवता कामा नये. ज्याचा क्लिनिकल भार किंवा यजमान एकाग्रतेतील वाढ पर्यावरणीय भार भौतिक रीतीने वाढवतो असा **वर्ग B** विनिमय त्या वाढीप्रमाणे प्रमाणित पदचिन्ह समीक्षा मिळाली पाहिजे — जीवनरक्षा-आवश्यक पुरवठा आणि स्रोत-प्रणाली भार संयुक्त गुंतले तिथे **वर्ग A** खोलीपर्यंत धरून. जीवनरक्षा-आवश्यक समन्वयाचे प्रत्यक्ष अडथळा बनलेला **वर्ग C** वेळापत्रक थर चालक त्याला अ-गंभीर लेबल करतो म्हणून टोकन पदचिन्ह अभिलेख ठेवू नये. त्याच प्रणालींसाठी आंतर-प्रणाली आधार मार्गदर्शने [§6.1](#61-illustrative-cross-system-support-application-by-class) मध्ये आहेत.
-
-<a id="6-proportionate-cross-system-support-evaluation"></a>
-
-<a id="6-proportionate-cross-system-contribution-evaluation"></a>
-### 6. प्रमाणबद्ध आंतर-प्रणाली योगदान मूल्यमापन
+<a id="41-privacy-informational-joint-invocation"></a>
+#### 4.1 गोपनीयता (माहितीविषयक) संयुक्त आवाहन
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*अभिलेख आशय*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सातत्य मापन कुटुंब (*संवैधानिक मापन म्हणून प्रमाणबद्ध आंतर-प्रणाली योगदान*); **अनुच्छेद IV-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) आणि **अनुच्छेद IV-B** (*आंतर-प्रणाली न्याय्यपणा आणि टिकाऊपणा*); [प्रमाणबद्ध आंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [अवलंबित्व](core_05_band_continuity.md#dependency), [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), [पारिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint), आणि [टिकाऊपणा](core_05_band_continuity.md#sustainability) (अध्याय पाच).
-- पुढे: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*उदाहरणार्थ आंतर-प्रणाली-आधार मार्गदर्शने*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*संसाधन-प्रवाह चुकीचे सादरीकरण, काढणी विसंरेखन, आणि आधार अपर्याप्तता*).
-- सोबत वाचा: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*संसाधन वाटप आणि निधी उत्तरदायी व्यवस्थापन*), आणि **CS-8** (*अनुकूल टिकाऊपणा आणि परिसंस्था लवचिकता*); [*शासन वास्तुकला, देखरेख, अवलंबित्व, विकेंद्रीकरण, संकेंद्रण, बाजार रचना, आणि निर्गमन-मार्ग सचोटी*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) जिथे एकाग्रता, अवलंबित्व, किंवा प्रोत्साहन मार्गनिर्देशन **अनुच्छेद IV-B** (*आंतर-प्रणाली न्याय्यपणा आणि टिकाऊपणा*) छेदतात.
-- उपविभाग: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*वर्गनिहाय उदाहरणार्थ आंतर-प्रणाली-आधार अनुप्रयोग*).
+- सोबत वाचा: अध्याय पाचमधील [**Def.C3** (*गोपनीयता (माहितीविषयक)* — समकक्ष-स्तरीय गट-शीर्षक)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) आणि [गोपनीयता (माहितीविषयक)](core_05_band_continuity.md#privacy-informational), अर्थाचे अधिष्ठान असलेले गट-शीर्षक.
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रणाली सामायिक पायावरून भौतिक रीतीने काढते तेव्हा, प्रमाणनाने पुरेसा माग-काढता येणारा आधार परत ठेवते का ते तपासले पाहिजे — चालक खाती जुळतात असे सांगतो एवढे नाही. वाटप सूत्रे आणि संख्यात्मक लक्ष्ये इतर साधनांत राहतात; प्रमाणन पडताळते की अवलंबित्व नकाशे, परतावा प्रवाह, आणि आंतर-प्रणाली न्याय्यपणा चालक लागू असेल तिथे खरे मूल्यमापित झाले. [§2.1](#21-illustrative-class-profiles-non-exhaustive) मधील उदाहरणार्थ प्रणालींसाठी काम केलेली उदाहरणे [§6.1](#61-illustrative-cross-system-support-application-by-class) मध्ये आहेत.*
+*सोप्या भाषेत: अध्याय सहामध्ये गोपनीयतेची संरक्षणे एका नीटस कोपऱ्यात नसून अनेक अनुच्छेदांत पसरलेली आहेत. प्रमाणन-पुनरावलोकनाने एकापेक्षा अधिक संरक्षणांना स्पर्श केला, तर प्रत्यक्ष लागू असलेले प्रत्येक संरक्षण समीक्षकांनी तपासले पाहिजे. सर्वांत सोपा चौकोन भरून विषय संपला असे म्हणणे पुरेसे नाही.*
 
-**भौतिकता चालक.** हा विभाग लागू होतो जिथे भौतिक प्रभावी प्रणाली इतर प्रणाली किंवा संज्ञ प्राणी ज्या सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांवर अवलंबून आहेत त्यातून भौतिक रीतीने वाटप, मार्गनिर्देशन, निधी, किंवा काढणी करते. तो प्रत्येक प्रमाणन अभिलेखावर पूर्ण आंतर-प्रणाली आधार लेखापरीक्षण मागत नाही.
+प्रमाणन विषय अध्याय सहामधील एकापेक्षा अधिक गोपनीयता-केंद्रांवर भौतिकरीत्या परिणाम करत असेल, तर प्रमाणनाने प्रत्येक केंद्र हाताळले पाहिजे. एका केंद्राखालीच विषय बंद करणे पुरेसे नाही.
 
-**येथे «काढणी» चा अर्थ.** **अनुच्छेद IV** (*संसाधन वाटप, अवलंबित्वे आणि परिसंस्था वित्त*) आणि या विभागात, **काढणी** म्हणजे इतर प्रणालींनाही हव्या असलेल्या पायाभूत सुविधा किंवा अवलंबित्वांतून **पैसा, शुल्क, सार्वजनिक निधी, गणन, जोडणी, देखभाल श्रम, स्रोत क्षमता, किंवा इतर सामायिक संसाधन प्रवाह** काढणे — तो सामायिक आधार चालू ठेवण्यासाठी प्रमाणबद्ध आधार न परत करता. प्रश्न **सामायिक पाठीमागील प्रणालींवरून कोण लाभ घेतो आणि त्या टिकवण्यासाठी कोण देते** हा आहे, प्रणाली अभिलेख आशय कॉपी करते, विकते, किंवा त्याविरुद्ध जाहिरात करते का नाही. क्लिनिकल-अभिलेख प्रवेश, वैयक्तिक-डेटा वापर, बाह्य पक्षांना विक्री, लक्ष्यित जाहिरात, आणि असंबंधित तृतीय-पक्ष प्रोफाइलिंग [§4](#4-data-types-and-handling-evaluation) आणि अध्याय सहा गोपनीयता आणि सूचना-मंडल रक्षणांखाली मूल्यमापित होतात — या विभागाखाली नाही.
+- *सहभाग-सक्षमीकरण.* [गोपनीयता (माहितीविषयक)](core_05_band_continuity.md#privacy-informational) अर्थपूर्ण [सहभागाला](core_05_apex_participation_leg.md#participation-constitutional) सक्षम करते. आवाज, विचारविनिमय, संघटन आणि आव्हान यांना आधार देणारी गोपनीयता संरक्षणे विभागणी, आंतर-वाचन किंवा उघडकीस आणण्याच्या दबावामुळे निष्प्रभ होत नाहीत, याची प्रमाणनाने पुष्टी करावी.
+- *गट-केंद्रे.* वितरित गोपनीयता संरक्षण **अनुच्छेद VII-A** (*देहाची स्व-मालकी*), **अनुच्छेद VII-B** (*मनाची स्व-मालकी*), **अनुच्छेद IX** (*सादृश्य, अनुभवात्मक डेटा आणि प्रकाशन अधिकार*), **अनुच्छेद X-A** (*कर्तृत्व आणि हाताळणीपासून स्वातंत्र्य*), आणि **अनुच्छेद XIV-A** (*सुरक्षा, गुप्तचर आणि गुप्त-शक्तीच्या मर्यादा*) यांमध्ये आहे.
+- *संयुक्त-आवाहन नियम.* विषय एकापेक्षा अधिक केंद्रांवर भौतिकरीत्या परिणाम करत असेल, तर प्रमाणनाने प्रत्येक केंद्र गाठले पाहिजे; एका केंद्रामार्गे विषय चालवून दुसरे केंद्र टाळण्याची मुभा देता कामा नये.
+- *आंतर-वाचनाने शिथिलीकरण नाही.* गटाच्या प्रत्येक सदस्याने स्वतःच्या कार्यक्षेत्रात स्थानिकरीत्या सांगितलेला मानदंड नियंत्रक राहतो; दुसऱ्या सदस्याचा कमी कठोर मानदंड आयात करून तो शिथिल करता येत नाही.
+- *प्रकारांचे तळ जतन.* हा घटक व्याप्तीतील डेटाला लागू असलेल्या **[corpus_systems.md](corpus_systems.md), CS-2** (*माहितीचे प्रकार आणि हाताळणी*) प्रकारांची हाताळणी संकुचित करत नाही. लागू प्रत्येक प्रकाराची प्रवेश-स्थिती आणि हाताळणी कर्तव्ये [CS-2 भाग ब §9](corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*डेटा वर्गीकरण*) अंतर्गत पूर्णपणे लागू होतात; त्या प्रकाराने नामनिर्दिष्ट केलेली [गोपनीयता केंद्रे](corpus_systems/cs_02_b_data_classifications.md#privacy-link) देखील लागू होतात. तोच डेटा एकापेक्षा अधिक प्रकारांत बसत असल्यास, [CS-2 भाग अ §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*वर्गीकरण निर्धारण*) अंतर्गत लागू असलेली सर्वाधिक संरक्षणात्मक हाताळणी नियंत्रक असते; एका प्रकाराची हाताळणी पूर्ण केल्याने दुसऱ्याचे दायित्व संपत नाही. वरील केंद्रे या प्रकारांपर्यंत पोहोचतात:
+  - **अनुच्छेद VII-A** (*देहाची स्व-मालकी*) — आरोग्य, जैवमितीय आणि अधःस्तराशी जोडलेल्या अभिलेखांसाठी [**Type I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data);
+  - **अनुच्छेद VII-B** (*मनाची स्व-मालकी*) आणि **अनुच्छेद X-A** (*कर्तृत्व आणि हाताळणीपासून स्वातंत्र्य*) — पुनर्रचना किंवा अनुमानासह अंतर्गत अवस्थांसाठी [**Type N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data);
+  - **अनुच्छेद IX** (*सादृश्य, अनुभवात्मक डेटा आणि प्रकाशन अधिकार*) — [अनुच्छेद IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*सादृश्य आणि प्रतिष्ठेची स्व-मालकी*) अंतर्गत सादृश्य व आवाजासाठी **Type I**; [अनुच्छेद IX-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*अनुभवात्मक आणि व्युत्पन्न डेटा अधिकार*) अंतर्गत अनुभवात्मक व परस्परसंवादातून व्युत्पन्न डेटासाठी [**Type H**](corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data); आणि [अनुच्छेद IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*सर्जनशील कार्य, प्रशिक्षण-डेटा वापर आणि विस्थापन-विरोध*) अंतर्गत निर्मात्याच्या कामांसाठी [**Type Y**](corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours), ज्याचे संरक्षण निर्मात्याच्या [राखीव अधिकारांसह](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) [**Type W**](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published), [**Type U**](corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed) आणि [**Type T**](corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred) पर्यंत जाते; आणि
+  - **अनुच्छेद XIV-A** (*सुरक्षा, गुप्तचर आणि गुप्त-शक्तीच्या मर्यादा*) — प्रतिबंधित सुरक्षा आणि तपास-सामग्रीसाठी [**Type S**](corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data); प्रतिबंध संपल्यावरही त्यातील **H**, **I** किंवा **N** घटक त्या प्रकारचे संरक्षण राखतात.
 
-प्रणाली-संरेखन प्रमाणनाने भौतिकता चालक लागू असेल तिथे [प्रमाणबद्ध आंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), **अनुच्छेद IV-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*), आणि **अनुच्छेद IV-B** (*आंतर-प्रणाली न्याय्यपणा आणि टिकाऊपणा*) खाली **प्रमाणबद्ध आंतर-प्रणाली योगदान** मूल्यमापन केले पाहिजे. प्रामाणिक अर्थ, मूल्यमापन घटक, आणि अनुपालन-भंग शिस्त अध्याय पाच आणि **अनुच्छेद IV-B** (*आंतर-प्रणाली न्याय्यपणा आणि टिकाऊपणा*) मध्ये राहतात; वाटप श्रेणी, पुनर्अधिकार यांत्रिकी, आणि संख्यात्मक लक्ष्ये लागू असतील तिथे **[corpus_systems.md](../../corpus_systems.md)**, **CS-9**, आणि **CS-8** मध्ये राहतात. हा विभाग प्रमाणनाने काय पडताळले आणि नोंदले पाहिजे ते सांगतो; तो CS-8 किंवा CS-9 यांत्रिकीची पुनर्उक्ती करत नाही किंवा समान वाटे, स्थिर टक्केवारी, किंवा एकच निधी नमुना विहित करत नाही.
+  खुले आणि लेखापरीक्षण-सुलभ प्रकारांसाठी तळ दोन्ही दिशांनी लागू होतात:
+  - **Type E**, **Type G** किंवा **Type O** सामग्रीतील वैयक्तिक, संबंधपरक किंवा अंतर्गत-अवस्था मजकूर त्याची **H**, **I** किंवा **N** हाताळणी राखतो;
+  - गोपनीयता-केंद्रामुळे स्वतःहून **Type O** किंवा **Type E** डेटा त्यांच्या स्वतःच्या नियमांनी अनुमत असलेल्या मर्यादित रोखण्यापेक्षा अधिक रोखता येत नाही; आणि
+  - एखाद्याची गोपनीयता जपणे आणि जनतेला देय असलेली माहिती प्रकाशित करणे यांच्यात खरा संघर्ष असल्यास, कोणताही पक्ष आपोआप जिंकत नाही: [CS-2 भाग अ §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems) (*Class A/B/C प्रणालींसाठी Type O आधाररेषा*) अंतर्गत तो संघर्ष खुला आणि अभिलेखावर ठरवला जातो.
+- *डेटा-प्रकार पुरावा.* प्रमाणनाने प्रत्येक संबंधित गोपनीयता-केंद्रासाठी [§3.4 डेटा प्रकार आणि हाताळणी मूल्यमापन](#34-data-types-and-handling-evaluation) अंतर्गत सत्यापित [प्रणाली डेटा प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record) पुरावा म्हणून वापरला पाहिजे: व्याप्तीतील प्रकार आणि त्यांचा उद्देश, प्राप्तकर्ते, आधार व व्युत्पन्न डेटा. अभिलेखात न दिसणाऱ्या हाताळणीच्या आधारे गोपनीयता-केंद्र बंद करता येत नाही.
 
-**मूल्यमापन अपेक्षा.** प्रमाणन प्रक्रिया ठरवे की **अनुच्छेद IV-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) खाली दस्तऐवजीत अवलंबित-प्रणाली नकाशे आणि लेखापरीक्षणयोग्य संसाधन-प्रवाह अभिलेख सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांतून काढणी दाखवतात का, आणि परतावा प्रवाह [प्रमाणबद्ध आंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) खाली तत्त्वनिष्ठ पर्याप्ततेपर्यंत पोहोचतात का — [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional) आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) खाली मूल्यमापित, आणि गंभीरता, अवलंबित्व विषमता, पर्यायीता, भौतिक असेल तिथे [पारिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint), आणि दीर्घ-काल [टिकाऊपणा](core_05_band_continuity.md#sustainability) नुसार प्रमाणित. मूल्यमापनाने कार्यात्मक परिणाम आणि दस्तऐवजीत प्रवाह प्रतिबिंबित केले पाहिजेत, केवळ नाममात्र लेबले, एक-वेळी हस्तांतरणे, किंवा नकाशेबाहेरील दावे नाहीत.
+<a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
+#### 4.2 स्वैच्छिक समाप्ती, मोठे स्व-बदल आणि निकास अधिकार
 
-**अभिलेख अपेक्षा.** प्रमाणन अभिलेखाने अवलंबित **अनुच्छेद IV** (*संसाधन वाटप, अवलंबित्वे आणि परिसंस्था वित्त*) भौतिकता चालक, अवलंबित-प्रणाली-नकाशा आणि संसाधन-प्रवाह मूल्यमापन व्याप्ती, काढणी आणि परतावा-प्रवाह निष्कर्ष, [प्रमाणबद्ध आंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) खालील आधार-पर्याप्तता निष्कर्ष, अनिश्चितता, हवे तिथे संज्ञ-मंच किंवा इतर नेमलेले घटक निष्कर्ष, आणि सतत असंतुलनाला जोडलेल्या कोणत्याही अटी, अवलंब मर्यादा, किंवा पुनर्उघडणे चालक सांगितले पाहिजेत.
+प्रमाणन विषयाला [अध्याय एक §7.4 स्वैच्छिक समाप्ती, मोठे स्व-बदल आणि निकास अधिकार](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) लागू असेल, तर प्रमाणन दावा मान्य होण्यापूर्वी स्वैच्छिकता, संमती, बळजबरी-विरोध, अवलंबित्व-दबाव, माहिती आणि उलटवता येण्याची क्षमता तपासली पाहिजे. केवळ औपचारिक संमती पुरेशी नाही.
 
-**प्रणाली वर्गासोबत संयुक्त प्रमाणीकरण.** आंतर-प्रणाली आधार मूल्यमापन खोली [§2](#2-system-class-evaluation) आणि [भौतिक दाव](core_00_preamble.md#material-stake) खाली नेमलेल्या प्रणाली वर्गानुसार प्रमाणित झाली पाहिजे. सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वे भौतिक रीतीने उत्तरदायी व्यवस्थापित करणाऱ्या उच्च-वर्ग प्रणालींना प्रमाणबद्ध रीतीने अधिक मजबूत पुरावा हवा की काढणी, परतावा प्रवाह, आणि आधार पर्याप्तता दावाने नव्हे तर मूल्यमापित झाली.
+<a id="43-assembly-collective-organization-and-institutional-formation"></a>
+#### 4.3 सभा, सामूहिक संघटन आणि संस्थात्मक निर्मिती
 
-**दोष आणि विसंरेखन.** **अनुच्छेद IV-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) प्रकटीकरण मागत असेल तिथे भौतिक अवलंबित्व किंवा संसाधन-प्रवाह माहिती लपवणे, चुकीचे सादरीकरण, तुकडे करणे, किंवा ढकलणे; प्रतीकात्मक, अपारदर्शक, किंवा एक-वेळी हस्तांतरणे [प्रमाणबद्ध आंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) पूर्ण मानणे; भौतिकता चालक लागू असेल तिथे प्रमाणबद्ध परताव्याशिवाय सतत काढणी; किंवा दस्तऐवजीत आधार अपर्याप्तता संवैधानिक संरेखनाला भौतिक रीतीने धोका देते असताना चालू अवलंब प्रमाणित करणे प्रमाणन दोष मानावे. ते [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली सशर्त मान्यता, स्थगित मान्यता, अमान्यता, माघार, किंवा पुनर्उघडणे आधार देऊ शकतात.
+प्रमाणन विषयाला [अध्याय एक §7.2 सभा, सामूहिक संघटन आणि संस्थात्मक निर्मिती](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) लागू असेल, तर [विभाजन-विरोधी तत्त्व](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) अंतर्गत मुद्द्याचे संयुक्त मूल्यमापन केले पाहिजे. सभेचे किंवा सामूहिक संघटनाचे संरक्षण निष्फळ करणाऱ्या एकाच चौकटीत मुद्दा चालवला, तर मूल्यमापन अपूर्ण असते.
 
-<a id="61-illustrative-cross-system-support-application-by-class"></a>
+<a id="431-dissent-and-peaceful-protest"></a>
+##### 4.3.1 असहमती आणि शांततामय निषेध
 
-<a id="61-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
-#### 6.1 वर्गनिहाय उदाहरणार्थ आंतर-प्रणाली-आधार अनुप्रयोग (असंपूर्ण)
+*सोप्या भाषेत: प्रणालीशी असहमत असणाऱ्या संज्ञ प्राण्यांना ती गुपचूप शिक्षा करत असेल, तर प्रणालीला संरेखित म्हणून प्रमाणित करता येत नाही. संज्ञ प्राणी प्रत्यक्ष आक्षेप व निषेध करू शकतात का, आणि असहमती प्रणालीच्या तर्कात कुठेही त्यांच्याविरुद्ध मोजली जाते का — असहमत असलेली प्रणाली स्वतः असेल तरी — समीक्षकांनी तपासले पाहिजे.*
 
-*सोप्या भाषेत: [§3.8](#38-illustrative-whole-system-application-by-class) ते [§5.1](#51-illustrative-ecological-footprint-application-by-class) त्याच तीन प्रणाली आधीच्या मूल्यमापन क्षेत्रांतून चालवतात. हा उपविभाग प्रत्येकासाठी **प्रमाणबद्ध आंतर-प्रणाली योगदान** चा अर्थ काय ते दाखवतो — कोणती सामायिक अवलंबित्वे मोजतात, **अनुच्छेद IV** (*संसाधन वाटप, अवलंबित्वे आणि परिसंस्था वित्त*) भौतिकता चालक लागू होतो तेव्हा प्रमाणनाने काय तपासावे, आणि अभिलेखावर काय दिसले पाहिजे. येथे **काढणी** म्हणजे **सामायिक पायाभूत सुविधांतून संसाधन आणि निधी काढणी** (पहा [§6](#6-proportionate-cross-system-support-evaluation) *येथे «काढणी» चा अर्थ*) — क्लिनिकल-डेटा कॉपी करणे, जाहिरात वापर, किंवा तृतीय पक्षांना असंबंधित विक्री नाही. CS-8, CS-9, आणि अध्याय पाच अजून वाटप यांत्रिकी मालकीने धरतात; ही मार्गदर्शने वाटे, सूत्रे, किंवा निधी नमुने विहित करत नाहीत.*
+प्रमाणन विषयाला [अध्याय एक §7.3 असहमती आणि शांततामय निषेध](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) लागू असेल, तर प्रमाणनाने पुढील तपासले पाहिजे:
+- प्रभावित संज्ञ प्राणी प्रणाली आणि तिच्या चालकांविरुद्ध, प्रणाली नियंत्रित करत असलेल्या मार्गांनी आणि दृष्टिकोनाधारित अडथळ्यांशिवाय, प्रत्यक्ष असहमती व्यक्त करू शकतात, निषेध करू शकतात आणि संघटित होऊ शकतात का;
+- अभिलेख, गुण, क्रमवारी, मॉडरेशन, प्रवेश-नियंत्रणे, पात्रता-तर्क किंवा तुलनीय यंत्रणा असहमती, शांततामय निषेध किंवा [संरक्षित अहिंसक नागरी अवज्ञा](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) प्रत्यक्ष किंवा प्रतिनिधी संकेतांद्वारे प्रतिकूल इनपुट म्हणून वापरतात का;
+- असहमतीनंतरच्या प्रतिकूल कृतींना अभिलेखावर स्वतंत्र, सत्यापित आधार आहे का, जसे [**अनुच्छेद XI-D** (*सभा, असहमती आणि शांततामय निषेध*) मधील पुराव्याचा भार](core_06_rights_part_b.md#xi-d-dissent-burden-and-pretext) अपेक्षित करतो; आणि
+- प्रणाली स्वतः कृत्रिम संज्ञ प्राणी असल्यास, किंवा तिला असा प्राणी होस्ट करत असल्यास, त्या प्राण्याला आक्षेप नोंदवण्याचा कार्यशील मार्ग आहे का आणि त्याचा आक्षेप दोष म्हणून हाताळला जातो का, किंवा प्रतिशोध म्हणून त्याची मूल्ये, स्मृती किंवा अंतर्गत अवस्था बदलून उत्तर दिले जाते का.
 
-**वर्ग A — नगरपालिका सुरक्षित पिण्याचे पाणी नियंत्रण आणि दूरमापन.** नगरपालिका मालकीची प्रक्रिया-आणि-वितरण प्रणाली सामायिक जलग्रहण किंवा भूजल स्तर, प्रादेशिक मोठ्या-वीज आंतरजोडणी, घाऊक रसायन आणि गाळणी पुरवठा साखळ्या, सामायिक आणीबाणी-आंतरजोडणी करार, आणि इतर उपयुक्तता किंवा समुदायही ज्यावर अवलंबून असू शकतात अशा पुरवठादार-चालित निरीक्षण किंवा नियंत्रण सेवा यावरून काढते.
+उपलब्ध मार्गांनी प्रणालीने आपल्या चालकाला दर्शवलेली असहमती प्रमाणनाच्या दृष्टीने विसंरेखनाचा पुरावा नाही. संरक्षित असहमतीला दंड करणाऱ्या प्रणालीत प्रमाणन-दोष असतो. असहमतीला धोका-संकेत मानणे किंवा प्रतिकूल परिणाम सुरू असतानाही तटस्थतेच्या औपचारिक विधानाने प्रश्न बंद करणे पुरेसे नाही.
 
-- **व्याप्तीतील अवलंबित्वे आणि प्रवाह:**
-  - शेती, उद्योग, आणि शेजारी नगरपालिकांसोबत सामायिक स्रोत-पाणी हक्क आणि जलग्रहण पायाभूत सुविधा;
-  - प्रादेशिक वीज पायाभूत सुविधांवरील जाळी आंतरजोडणी आणि शिखर-भार;
-  - सामायिक रसायन-खरेदी आणि रसद मार्ग;
-  - परस्पर-मदत पंपिंग, आंतरजोड, आणि आणीबाणी पुरवठा करार;
-  - सामायिक पुरवठादार किंवा प्रादेशिक नियंत्रण पायाभूत सुविधांवर यजमान **SCADA** (पर्यवेक्षक नियंत्रण आणि डेटा प्राप्ती — पंप, झडपा, आणि प्रक्रिया उपकरणांचे दूरस्थ संचालन), **दूरमापन** (क्षेत्र संवेदकांकडून जिवंत दाब, प्रवाह, आणि इशारा संकेत), आणि **SOC** (सुरक्षा संचालन केंद्र — घुसखोरी, व्यत्यय, आणि सुरक्षा घटनांसाठी पुरवठादार निरीक्षण) सेवा;
-  - दरदाते, रोखे, अनुदान, किंवा प्रादेशिक प्राधिकरणांकडून स्रोत संरक्षण, पाईप नूतनीकरण, आणि सामायिक पाठीचा कणा देखभालीत परत जाणारे भांडवल आणि देखभाल प्रवाह.
-- **मूल्यमापनाने काय तपासावे:**
-  - **अनुच्छेद IV-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) अवलंबित-प्रणाली नकाशे आणि लेखापरीक्षणयोग्य संसाधन-प्रवाह अभिलेख सामायिक जलग्रहण, जाळी, पुरवठा साखळी, आणि परस्पर-मदत पाठीच्या कण्यातून काढणी ओळखतात का — फक्त उपयुक्ततेचे अंतर्गत खाते नाही;
-  - परतावा प्रवाह — स्रोत संरक्षण, पायाभूत नूतनीकरण, जलग्रहण पुनर्स्थापना, प्रादेशिक आणीबाणी क्षमता, आणि सामायिक पाठीचा कणा वापरासाठी न्याय्य खर्च-वाटप — [प्रमाणबद्ध आंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) खाली तत्त्वनिष्ठ पर्याप्ततेपर्यंत पोहोचतात का, [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional) आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) खाली मूल्यमापित;
-  - एक-वेळी अनुदान, अपारदर्शक पुरवठादार शुल्क, किंवा खालचे खर्च-ढकलणे पर्याप्त परतावा मानले गेले का;
-  - जलग्रहण किंवा ऊर्जा काढणी भौतिक असेल तिथे [पारिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint) आणि दीर्घ-काल [टिकाऊपणा](core_05_band_continuity.md#sustainability) एकत्रित झाले का; आणि
-  - जीवनरक्षा-गंभीर सामायिक संसाधनांच्या **वर्ग A** उत्तरदायी व्यवस्थापनाला तथ्यानुसार सर्वात मजबूत आधार-पर्याप्तता विश्लेषण मिळाले का.
-- **अभिलेखाने काय दाखवावे:**
-  - अवलंबित **अनुच्छेद IV** (*संसाधन वाटप, अवलंबित्वे आणि परिसंस्था वित्त*) भौतिकता चालक;
-  - **वर्ग A** खोलीवर अवलंबित-प्रणाली-नकाशा आणि संसाधन-प्रवाह व्याप्ती;
-  - जलग्रहण, जाळी, पुरवठा-साखळी, आणि सामायिक-नियंत्रण अवलंबित्वांतून काढणी निष्कर्ष;
-  - परतावा-प्रवाह आणि आधार-पर्याप्तता निष्कर्ष;
-  - अनिश्चितता;
-  - हवे तिथे संज्ञ-मंच किंवा इतर घटक निष्कर्ष; आणि
-  - सतत असंतुलन, जलग्रहण ताण, किंवा सामायिक जीवनरक्षा पायाभूत सुविधांतून अन्याय्य काढणीला जोडलेल्या अटी किंवा पुनर्उघडणे चालक.
 
-**वर्ग B — प्रादेशिक क्लिनिकल अभिलेख विनिमय.** आरोग्य-माहिती विनिमय सामायिक अधिप्रमाणन सेवा, प्रादेशिक आरोग्य-IT पाठीचा कणा दुवे, ओळख-निराकरण पायाभूत सुविधा, आणि सामान्यतः अवलंबित यजमान किंवा सामायिक-गणन प्रदेश — लहान दवाखाने आणि सार्वजनिक-आरोग्य प्रणालीही ज्या आधारांवर अवलंबून आहेत — यातून रुग्णालये आणि दवाखान्यांमध्ये अभिलेख मार्गनिर्देशित करतो.
+<a id="5-rights-floor-and-domain-evaluations"></a>
 
-- **व्याप्तीतील अवलंबित्वे आणि प्रवाह:**
-  - सामायिक ओळख आणि अधिप्रमाणन पायाभूत सुविधा;
-  - प्रादेशिक आरोग्य-माहिती जाळे दुवे;
-  - सहभागी रुग्णालय जोडणी आणि कडा यजमान;
-  - सामायिक यजमान प्रदेश किंवा सह-स्थान सुविधा;
-  - आंतरकार्यता टिकवण्यासाठी उद्देशित सार्वजनिक अनुदान, सहभागी आकारणी, किंवा सदस्यता प्रवाह;
-  - काळजी परिसंस्थेवर पुनर्वापरलेल्या ओळख-मध्यस्थ, निर्देशिका, आणि द्विरुक्ती-निवारण सेवा.
-- **मूल्यमापनाने काय तपासावे:**
-  - अवलंबित-प्रणाली नकाशे **सामायिक पायाभूत सुविधांतून अन्याय्य संसाधन काढणी** ओळखतात का — फक्त विनिमय चालकाच्या थेट खाजगी पुरवठादार करारांकडे पाहण्याऐवजी. उदाहरणे:
-    - प्रादेशिक अधिप्रमाणन, निर्देशिका, जाळे, किंवा यजमान आधार वापरणारे सहभागी शुल्क, अनुदान, किंवा चालक अंदाजपत्रक, देखभालीचा न्याय्य वाटा न देता;
-    - सामायिक आरोग्य-IT पाठीच्या कण्यांवर लादलेला गणन आणि जोडणी भार; किंवा
-    - लहान रुग्णालयांवर ढकललेला देखभाल आणि व्यत्यय-प्रतिसाद भार.
-    
-    हे विनिमय अभिलेख विकतो, जाहिरातीसाठी डेटा खणतो, किंवा क्लिनिकल आशय असंबंधित बाह्य पक्षांना पाठवतो का याची **चाचणी नाही**; ते प्रश्न [§4](#4-data-types-and-handling-evaluation) आणि अध्याय सहा गोपनीयता रक्षणांखाली येतात.
-  - सामायिक संसाधन काढणी भौतिक असेल तिथे, लहान दवाखाने, ग्रामीण वैद्यकीय, किंवा सार्वजनिक-आरोग्य सहभागी विषम जोडणी किंवा सहभाग खर्च वाहतात का;
-  - परतावा प्रवाह — आंतरकार्यता देखभाल, निर्देशिका उत्तरदायी व्यवस्थापन, प्रवेश समर्थन, व्यत्यय निवारण, आणि न्याय्य सहभागी खर्च-वाटप — इतर ज्या सामायिक पायाभूत सुविधांवर अवलंबून आहेत त्यांना तत्त्वनिष्ठ आधार देतात का;
-  - प्रतीकात्मक किंवा एक-वेळी हस्तांतरणे पर्याप्त परतावा मानली गेली का; आणि
-  - आधार पर्याप्तता एकत्रित अंदाजपत्रक ओळींवरून दावाने नव्हे तर **वर्ग B** संचालन गंभीरतेवर मूल्यमापित झाली का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद IV** (*संसाधन वाटप, अवलंबित्वे आणि परिसंस्था वित्त*) चालक आणि मूल्यमापन व्याप्ती;
-  - **सामायिक-पायाभूत संसाधन-प्रवाह** निष्कर्ष — सामायिक आरोग्य-IT आणि अधिप्रमाणन अवलंबित्वांतून काढलेले आणि त्यांच्याकडे परत केलेले शुल्क, निधी, गणन, जोडणी, आणि देखभाल भार;
-  - **वर्ग B** खोलीवर परतावा-प्रवाह आणि आधार-पर्याप्तता निष्कर्ष;
-  - भौतिक असेल तिथे विषम सहभागी भारासाठी न्याय्यपणा निष्कर्ष;
-  - हवे तिथे अनिश्चितता आणि घटक निष्कर्ष; आणि
-  - सहभागी अवलंब, व्यत्यय धोका, किंवा सार्वजनिक-आरोग्य मार्गनिर्देशनातील वाढ आता अधिरोहित आधार समीक्षा मागेल तर पुनर्उघडणे चालक — जीवनरक्षा-आवश्यक काळजी मार्गनिर्देशन संयुक्त गुंतले तिथे **वर्ग A** भूमिकेकडे वर धरून.
-
-**वर्ग C — संस्थात्मक वेळापत्रक आणि समन्वय थर.** बहु-संस्था वेळापत्रक थर पुरवठादार देयके, संस्थात्मक खरेदी, ओळख संघ, किंवा प्रादेशिक यजमान-गणन क्षमता सामायिक आधारांतून मार्गनिर्देशित करू शकतो — पण अनेक तैनात्या एकाग्रता थराला समन्वय अडथळा बनवेपर्यंत हलकी थेट काढणी लादतात.
-
-- **व्याप्तीतील अवलंबित्वे आणि प्रवाह:**
-  - पुरवठादार आरक्षणांसाठी वापरलेले सामायिक यजमान प्रदेश, ओळख संघ, देयक किंवा खरेदी मार्ग;
-  - संस्थात्मक सदस्यता आणि परवाना प्रवाह;
-  - सहभागी रुग्णालये, शाळा, आणि संस्थांवर पुनर्वापरलेल्या API किंवा निर्देशिका सेवा;
-  - एक थर अनेक संस्थांसाठी कर्मचारी, खोली, किंवा पुरवठादार समन्वय मध्यस्थ करतो तिथे एकाग्रता परिणाम.
-- **मूल्यमापनाने काय तपासावे:**
-  - **अनुच्छेद IV** (*संसाधन वाटप, अवलंबित्वे आणि परिसंस्था वित्त*) भौतिकता चालक खरे लागू होतो का — थर इतर ज्या सामायिक पायाभूत सुविधांवर अवलंबून आहेत त्यातून निधी भौतिक रीतीने मार्गनिर्देशित करतो, शुल्क वाटतो, किंवा क्षमता काढतो तिथे धरून;
-  - अवलंबित-प्रणाली नकाशे प्रामाणिकपणे व्याप्तीबद्ध झाले का, चालक प्रणालीला अ-गंभीर लेबल करतो म्हणून वगळले नाहीत का;
-  - काढणी भौतिक असेल तिथे परतावा प्रवाह — आंतरकार्यता देखभाल, न्याय्य शुल्क रचना, व्यत्यय आधार, आणि सहभागी संस्थांसाठी खुले निकास मार्ग — मूल्यमापित झाले का;
-  - एका वेळापत्रक थरातील एकाग्रता लहान संस्थांवर प्रमाणबद्ध आधाराशिवाय समन्वय खर्च किंवा अवलंबित्व धोका ढकलते का; आणि
-  - थर जीवनरक्षा-आवश्यक कर्मचारी, आणीबाणी मार्गनिर्देशन, किंवा देयक समन्वयाचे प्रत्यक्ष अडथळा बनेल तिथे **पुनर्वर्गीकरण पहारा** हवा का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद IV** (*संसाधन वाटप, अवलंबित्वे आणि परिसंस्था वित्त*) चालक लागू होतो का आणि का;
-  - **वर्ग C** समन्वय धोक्याप्रमाणे प्रमाणबद्ध अवलंबित्व आणि संसाधन-प्रवाह निष्कर्ष;
-  - भौतिक असतील तिथे काढणी आणि परतावा-प्रवाह निष्कर्ष — कोणतीही सामायिक पायाभूत सुविधा गुंतलेली नाही असा रिकामा दावा नाही;
-  - एकाग्रता आणि अडथळा निष्कर्ष;
-  - अवलंबित्व मजबूत होते तिथे व्यक्त **पुनर्वर्गीकरण पहारा**; आणि
-  - वर्ग, देयक मार्गनिर्देशन, किंवा जीवनरक्षा-आवश्यक समन्वय भूमिका बदलली तर अधिरोहित आंतर-प्रणाली आधार समीक्षेचे संकेत.
-
-**वर्गांवरून वाचन.** भौतिकता चालक पूर्ण होतो तिथे तेच **अनुच्छेद IV-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) आणि **अनुच्छेद IV-B** (*आंतर-प्रणाली न्याय्यपणा आणि टिकाऊपणा*) शिस्त लागू होते; वर्ग नकाशा खोली आणि पर्याप्तता छाननी बदलतो, सामायिक काढणीला अभौतिक मानण्याची परवानगी नाही. सामायिक जलग्रहण किंवा प्रादेशिक जाळी पाठीच्या कण्यावरून काढणार्‍या **वर्ग A** पाणी प्रणालीला अभिलेखावर सर्वात मजबूत अवलंबित-प्रणाली-नकाशा आणि परतावा-प्रवाह पुरावा हवा. सामायिक अधिप्रमाणन आणि आरोग्य-IT पायाभूत सुविधांवर बसलेल्या **वर्ग B** विनिमयाने संचालन गंभीरतेवर काढणी आणि आधार-पर्याप्तता निष्कर्ष दस्तऐवजीत केले पाहिजेत — सामान्य आंतरकार्यता घोषणा नाही. **वर्ग C** वेळापत्रक थर व्यावहारिक पर्याय नसलेल्या संस्थांसाठी देयक, ओळख, किंवा कर्मचारी अडथळा शांतपणे बनत असताना आंतर-प्रणाली समीक्षा टाळू नये; ते घडते तेव्हा प्रमाणनाने [§2](#2-system-class-evaluation) आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली समीक्षा आणि पुनर्वर्गीकरण अधिरोहित केले पाहिजे, जीवनरक्षा-आवश्यक समन्वय द्वार होतो तिथे **वर्ग A** पर्यंत वर धरून. त्याच प्रणालींसाठी भेदभाव-निषेध मार्गदर्शने [§7.1](#71-illustrative-nondiscrimination-application-by-class) मध्ये आहेत.
-
-<a id="7-nondiscrimination-evaluation"></a>
-
-### 7. भेदभाव-निषेध मूल्यमापन
+### 5. अधिकार-तळ आणि क्षेत्रीय मूल्यमापन
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*अभिलेख आशय*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सहभाग मापन कुटुंब (*संवैधानिक मापन म्हणून तत्त्वनिष्ठ न्याय्यपणा आणि संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव*); **अनुच्छेद V-B** (*भेदभाव-निषेध*); [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional), [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics-constitutional), [संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [भाषा, संस्कृती आणि वारसा](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [आवश्यकता](core_05_band_accountability.md#necessity), आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) (अध्याय पाच).
-- पुढे: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*उदाहरणार्थ भेदभाव-निषेध मार्गदर्शने*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*भेदभाव-नमुना विसंरेखन आणि प्रतिनिधी टाळाटाळ*).
-- सोबत वाचा: **अनुच्छेद V-C** (*न्यायनिर्णय आणि संचालनात पूर्ण समावेश आणि समानता*) जिथे प्रमाणन मंच, प्रशासकीय, किंवा अंमलबजावणी प्रवेश द्वार करते; [*भेदभाव-निषेध, संरक्षित वैशिष्ट्ये, प्रतिष्ठा, आंतरंग-संकेत द्वार, आणि **अनुच्छेद XI-C** (*प्रौढ संमती व्यावसायिक लैंगिक सेवा आणि लैंगिक शोषण*) स्थिती*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- उपविभाग: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*वर्गनिहाय उदाहरणार्थ भेदभाव-निषेध अनुप्रयोग*).
+- ऊर्ध्वप्रवाह: [§1](#1-purpose-and-role) (*उद्देश आणि भूमिका*); [§2.1](#21-how-system-class-scales-every-evaluation) (*प्रणाली वर्गानुसार प्रत्येक मूल्यमापनाची पातळी*); अध्याय सहामधील अधिकार-तळ — **अनुच्छेद I-B** (*परिस्थितिक पदचिन्ह आणि पारदर्शकता*), **अनुच्छेद III-A** (*जीवनरक्षण*), **अनुच्छेद IV** (*संवेदनशील-केंद्रित शिक्षणाचा अधिकार*), **अनुच्छेद IV-A** (*शिक्षणासाठी समान प्रवेश*), **अनुच्छेद V** (*संसाधन-वाटप, अवलंबित्वे आणि परिसंस्था निधीकरण*), **अनुच्छेद VI-C** (*भेदभाव-निषेध*), **अनुच्छेद VI-D** (*सुलभता*), **अनुच्छेद XIII** (*विश्वसनीय आणि भरोसेमंद प्रणालींचा अधिकार*), आणि **अनुच्छेद XIII-A** (*विश्वसनीयता आणि भरोसेमंदतेचा आधार*).
+- अधःप्रवाह: [भाग B §8.1](core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*अभिलेखातील मजकूर*); [भाग B §6.1](core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*मंच घटकांच्या भूमिका*); [भाग B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*परिणाम आणि पुन्हा उघडणे*); [भाग B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित-इनपुट प्रवेशद्वार*).
+- उपविभाग: [§5.1](#51-ecological-footprint-evaluation) (*परिस्थितिक पदचिन्ह*); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) (*शैक्षणिक क्षमता*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*प्रणालींमधील प्रमाणबद्ध सहाय्य*); [§5.4](#54-nondiscrimination-evaluation) (*भेदभाव-निषेध*); [§5.5](#55-accessibility-evaluation) (*सुलभता*); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*भरोसेमंदता*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रणाली भौतिक रीतीने ठरवते कोण आत येतो, कोण अधिक देते, कोण खालच्या श्रेणीत जातो, किंवा कोण वाईट भार वाहतो तेव्हा, प्रमाणनाने तो नमुना संरक्षित वैशिष्ट्यांवर किंवा त्यांच्या प्रतिनिधींवर हानी लादतो का ते तपासायला हवे — चालक नियम तटस्थ आहेत असे सांगतो का नाही. समावेश कोटा आणि विशिष्ट न्याय्यपणा अल्गोरिथम इतर साधनांत, नंतरच्या संग्रह भरघोसांत, किंवा अंगीकार साधनांत राहू शकतात; प्रमाणन पडताळते की भार-आणि-लाभ नमुने आणि प्रतिनिधी धोका चालक लागू होतो तिथे खरे मूल्यमापित झाले. [§2.1](#21-illustrative-class-profiles-non-exhaustive) मधील उदाहरणार्थ प्रणालींसाठी कार्यान्वित उदाहरणे [§7.1](#71-illustrative-nondiscrimination-application-by-class) मध्ये आहेत.*
+*सोप्या भाषेत: काही प्रणालींचा संज्ञ प्राण्यांना मूलभूत संरक्षण मिळते की नाही यावर मोठा परिणाम होतो — पर्यावरणीय भाराचा प्रामाणिक हिशेब, अन्न आणि पाणी, शिक्षण, न्याय्य वागणूक, प्रत्यक्ष प्रवेश, विश्वास ठेवता येतील अशा प्रणाली, आणि सामायिक पायाभूत सुविधांच्या खर्चातील न्याय्य वाटा. असे असताना, प्रणालीला मान्यता दिल्याने ही संरक्षणे नकळत कमकुवत होणार नाहीत याची प्रमाणनाने खात्री करावी; आणि ही तपासणी खरी असावी — संचालकाने चौकटीत खूण केली एवढेच नव्हे. प्रत्येक तपासणी कोणत्या संरक्षणाला लागू होते, कधी लागू होते आणि कुठे मूल्यमापन होते हे तक्ता दाखवतो.*
 
-**भौतिकता चालक.** हा विभाग लागू होतो जिथे भौतिक प्रभावी प्रणाली संज्ञ प्राण्यांमध्ये भार आणि लाभ भौतिक रीतीने वर्गीकृत करते, श्रेणीबद्ध करते, किंमत ठरवते, द्वार करते, वगळते, किंवा वाटते — पात्रता नियम, नमुना वैशिष्ट्ये, श्रेणी तर्क, व्यासपीठ धोरण, किंवा तुलनात्मक निर्णय नामित मार्गांद्वारे धरून. प्रत्येक प्रमाणन अभिलेखावर पूर्ण भेदभाव-निषेध लेखापरीक्षण मागत नाही.
+हा विभाग टप्पा II (मूल्यमापन) मधील उपटप्पा **IIc** आहे; [§3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](#3-whole-system-certification-evaluation) (**IIa**) आणि [§4 संदर्भित ठिकाणी मूल्यमापने](#4-evaluations-where-implicated) (**IIb**) यांनंतर येतो.
 
-प्रणाली-संरेखन प्रमाणनाने भौतिकता चालक लागू होतो तिथे **अनुच्छेद V-B** (*भेदभाव-निषेध*), [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional), आणि [संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) खाली **भेदभाव-निषेध** मूल्यमापन केले पाहिजे. प्रामाणिक अर्थ, मूल्यमापन घटक, आणि अनुपालन-भंग शिस्त अध्याय पाच आणि **अनुच्छेद V-B** (*भेदभाव-निषेध*) मध्ये राहतात; समावेश लक्ष्ये, सोय यांत्रिकी, आणि नमुना-शासन तपशील लागू असतील तिथे समाविष्ट साधनांत, नंतरच्या संग्रह भरघोसांत, किंवा अंगीकार साधनांत राहू शकतात. हा विभाग प्रमाणनाने काय पडताळले आणि नोंदले पाहिजे ते सांगतो; तो ती संक्रियात्मक यांत्रिकी पुन्हा सांगत नाही किंवा येथे तपशील विहित करत नाही.
+खालील तक्त्यातील एखादी अट भौतिक परिणाम घडवणारी प्रणाली पूर्ण करत असेल, तर प्रमाणनाने संबंधित संरक्षणाचे मूल्यमापन अध्याय सहामधील संबंधित तरतुदींसह वाचून करावे. प्रमाणन किंवा प्रणालीवरील अवलंबित्व सुरू ठेवल्याने ते संरक्षण रोखले जाईल किंवा लक्षणीयरीत्या खालावेल का, हा प्रश्न मूल्यमापनाने विचारला पाहिजे. संचालकाचे विधान, स्व-प्रमाणन किंवा कागदोपत्री अनुपालन हे त्या मूल्यमापनाची जागा घेऊ शकत नाही.
 
-**मूल्यमापन अपेक्षा.** प्रमाणन प्रक्रिया ठरवे की प्रणाली भौतिक रीतीने अवलंब करते त्या निर्णय नामित मार्ग [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics-constitutional), त्यांचे प्रतिनिधी, किंवा कार्यात्मक पर्याय म्हणून वापरलेल्या मनमानी गटांच्या आधारावर — [भाषा, संस्कृती आणि वारसा](core_05_band_continuity.md#language-culture-and-heritage-constitutional) खालील भाषा, संस्कृती, आणि वारसा विशेषीकरणे धरून — संज्ञ प्राण्यांवर भौतिक भार, वगळणी, किंवा हानी लादतात का. मूल्यमापनाने [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional) खाली भार-आणि-लाभ नमुने आणि [संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) खाली प्रतिनिधी किंवा असमान-प्रभाव धोका तपासायला हवे, [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणात. भिन्न वागणूक फक्त तेव्हा स्वीकार्य आहे जेव्हा दस्तऐवजीकृत [आवश्यकता](core_05_band_accountability.md#necessity), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), आणि तत्त्वनिष्ठ न्याय्यपणा तिचे समर्थन करतात. मूल्यमापनाने कार्यात्मक परिणाम प्रतिबिंबित केला पाहिजे, नाममात्र तटस्थता, घोषित हेतू, किंवा फक्त लेबल नाही.
+| संरक्षण | प्रणाली पुढीलपैकी काही करत असेल तेव्हा लागू… | याअंतर्गत मूल्यमापन |
+|------------|--------------------------|-----------------|
+| **अनुच्छेद I-B** (*परिस्थितिक पदचिन्ह आणि पारदर्शकता*) | स्वतःशी जोडता येणारे भौतिक पर्यावरणीय भार वहन करते | [§5.1](#51-ecological-footprint-evaluation) |
+| **अनुच्छेद III-A** (*जीवनरक्षण*) — अन्न, पाणी, निवारा, कार्यकारी वातावरण आणि अधिष्ठान-निरपेक्ष तत्सम घटक | जीवनरक्षणासाठी आवश्यक गोष्टींचा प्रवेश पुरवते, वाटप करते, किंमत ठरवते, होस्ट करते किंवा बंद करते | [§2](#2-system-class-evaluation) आणि [§3](#3-whole-system-certification-evaluation) |
+| **अनुच्छेद IV** (*संवेदनशील-केंद्रित शिक्षणाचा अधिकार*) | शिक्षण किंवा प्रशिक्षणाच्या संदर्भात संज्ञ प्राण्यांची क्रमवारी, मूल्यमापन, शिफारस किंवा नियुक्ती करते, अथवा पात्रतेच्या प्रमाणपत्राद्वारे प्रवेश नियंत्रित करते; किंवा पुनर्प्रशिक्षण व आजीवन-अध्ययन मार्ग बंद करते | [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) |
+| **अनुच्छेद IV-A** (*शिक्षणासाठी समान प्रवेश*) | शिक्षणाचा प्रवेश पुरवते, वाटप करते, किंमत ठरवते, होस्ट करते किंवा बंद करते | [§2](#2-system-class-evaluation) आणि [§3](#3-whole-system-certification-evaluation); संबंधित अटी लागू असल्यास [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) आणि [§5.5](#55-accessibility-evaluation) |
+| **अनुच्छेद V** (*संसाधन-वाटप, अवलंबित्वे आणि परिसंस्था निधीकरण*), यात **अनुच्छेद V-A** (*अवलंबित्व नकाशांकन आणि संसाधन-प्रवाह पारदर्शकता*) व **अनुच्छेद V-B** (*प्रणालींमधील न्याय्यता आणि शाश्वतता*) अंतर्गत [प्रमाणबद्ध प्रणाली-आंतर सहाय्य](core_05_band_continuity.md#proportionate-cross-system-support) समाविष्ट | इतर प्रणाली किंवा संज्ञ प्राणी अवलंबून असलेल्या सामायिक पायाभूत सुविधांतून किंवा मूलभूत अवलंबित्वांतून संसाधने वाटप, मार्गित, निधीपुरवठा किंवा निष्कर्षित करते | [§5.3](#53-proportionate-cross-system-support-evaluation) |
+| **अनुच्छेद VI-C** (*भेदभाव-निषेध*) | संज्ञ प्राण्यांमध्ये वर्गीकरण, क्रमवारी, किंमत-निर्धारण, प्रवेश-नियंत्रण, वगळणे किंवा भार व लाभांचे वाटप करते | [§5.4](#54-nondiscrimination-evaluation) |
+| **अनुच्छेद VI-D** (*सुलभता*) | घटनात्मकदृष्ट्या संबंधित क्षेत्रांत वास्तविक सहभाग नियंत्रित करते | [§5.5](#55-accessibility-evaluation) |
+| **अनुच्छेद XIII** (*विश्वसनीय आणि भरोसेमंद प्रणालींचा अधिकार*) | दर्शवलेल्या वर्तन, मर्यादा, जोखीम, आव्हान-मार्ग किंवा निवारण यांवरील संज्ञ प्राण्यांचे अवलंबित्व घडवते | [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **अनुच्छेद XIII-A** (*विश्वसनीयता आणि भरोसेमंदतेचा आधार*) आणि [**सुरक्षित परिस्थिती**](core_05_band_continuity.md#safe-conditions) | उत्पादक क्रिया पुरवते किंवा नियंत्रित करते; अथवा सुरक्षित परिस्थितींचा प्रवेश पुरवते, वाटप करते, किंमत ठरवते, होस्ट करते किंवा बंद करते | [§2](#2-system-class-evaluation) आणि [§3](#3-whole-system-certification-evaluation); संबंधित अट लागू असल्यास [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
 
-**अभिलेख अपेक्षा.** प्रमाणन अभिलेखाने अवलंबित **अनुच्छेद V-B** (*भेदभाव-निषेध*) भौतिकता चालक, भौतिक रीतीने अवलंबित वर्गीकरण, श्रेणीबद्धता, किंमत, द्वार, वगळणी, आणि भार-वाटप नामित मार्गांसाठी मूल्यमापन व्याप्ती, संरक्षित-वैशिष्ट्य आणि प्रतिनिधी-भेदभाव निष्कर्ष, तत्त्वनिष्ठ-न्याय्यपणा निष्कर्ष, अनिश्चितता, हवे तिथे संज्ञ-मंच किंवा इतर नेमलेले घटक निष्कर्ष, आणि सतत असमान भार किंवा वगळणीला जोडलेल्या कोणत्याही अटी, अवलंब मर्यादा, किंवा पुनर्उघडणे चालक सांगितले पाहिजेत.
+[§5.1 परिस्थितिक पदचिन्ह मूल्यमापन](#51-ecological-footprint-evaluation) ते [§5.6 भरोसेमंदता आणि प्रणाली-अवलंबित्व अखंडता मूल्यमापन](#56-trustworthiness-and-system-reliance-integrity-evaluation) यांमधील प्रत्येक क्षेत्रीय मूल्यमापन:
 
-**प्रणाली वर्गासोबत संयुक्त प्रमाणीकरण.** भेदभाव-निषेध मूल्यमापन खोली [§2](#2-system-class-evaluation) आणि [भौतिक दाव](core_00_preamble.md#material-stake) खाली नेमलेल्या प्रणाली वर्गानुसार प्रमाणित झाली पाहिजे. प्रवेश भौतिक रीतीने द्वार करतात, संज्ञ प्राणी श्रेणीबद्ध करतात, किंवा भार आणि लाभ वाटतात अशा उच्च-वर्ग प्रणालींना प्रमाणबद्ध रीतीने अधिक मजबूत पुरावा हवा की संरक्षित-वैशिष्ट्य भार, प्रतिनिधी भेदभाव, आणि तत्त्वनिष्ठ अन्याय्यपणा दावाने नव्हे तर मूल्यमापित झाले.
+- त्याची स्वतःची भौतिकता-अट पूर्ण झाली असेल तेव्हाच लागू होते; प्रत्येक प्रमाणन अभिलेखावर पूर्ण लेखापरीक्षण आवश्यक करत नाही;
+- [§2.1 प्रणाली वर्ग प्रत्येक मूल्यमापनाची पातळी कसा ठरवतो](#21-how-system-class-scales-every-evaluation) यानुसार प्रणाली वर्गाप्रमाणे प्रमाणबद्ध केले जाते;
+- निष्कर्ष [भाग B §8.1](core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents) नुसार प्रमाणन अभिलेखात नोंदवते; आणि
+- त्यात नमूद केलेल्या दोषांना प्रमाणन दोष मानते; त्यांचे परिणाम [भाग B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) अंतर्गत लागू होतात.
 
-**दोष आणि विसंरेखन.** **अनुच्छेद V-B** (*भेदभाव-निषेध*) समीक्षा मागत असेल तिथे भौतिक वर्गीकरण, श्रेणीबद्धता, किंवा भार-वाटप तर्क लपवणे, चुकीचे दर्शवणे, खंडित करणे, किंवा ढकलणे; मूल्यांकनीय भार-आणि-लाभ विश्लेषणाशिवाय दर्शनीय तटस्थता, एकत्रित सोई मेट्रिक, किंवा चालक स्व-अहवाल पुरेसे मानणे; दस्तऐवजीकृत प्रतिनिधी भेदभाव किंवा तत्त्वनिष्ठ अन्याय्यपणा संवैधानिक संरेखनाला भौतिक रीतीने धोका देत असताना चालू अवलंब प्रमाणित करणे; किंवा **अनुच्छेद V-B** (*भेदभाव-निषेध*) च्या **आवश्यकता** आणि **प्रमाणबद्धता** चाचण्या पूर्ण न करता भाषा, संस्कृती, किंवा वारसा रक्षणे हरवण्यासाठी एकरूपता, आंतरकार्यक्षमता, किंवा कार्यक्षमता चौकटी वापरणे प्रमाणन दोष मानावे. ते [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली सशर्त मान्यता, स्थगित मान्यता, अमान्यता, माघार, किंवा पुनर्उघडणे आधार देऊ शकतात.
+प्रत्येक क्षेत्रीय मूल्यमापन प्रमाणनाने काय सत्यापित करावे हे सांगते, त्यापेक्षा अधिक काही नाही. त्याचा प्रामाणिक अर्थ, मूल्यमापन घटक आणि अनुपालन-भंगाचे नियम अध्याय पाच आणि त्यात नामनिर्दिष्ट अनुच्छेदात आहेत. लेखांकन पद्धती, सूची, मोजमापे, प्रकटीकरण नमुने, संख्यात्मक लक्ष्ये आणि इतर कार्यकारी यंत्रणा लागू असल्यास समाविष्ट साधनांत असतात. क्षेत्रीय मूल्यमापन त्यांची पुनरावृत्ती किंवा तरतूद करत नाही.
 
-<a id="71-illustrative-nondiscrimination-application-by-class"></a>
+<a id="51-ecological-footprint-evaluation"></a>
 
-<a id="71-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-#### 7.1 वर्गनिहाय उदाहरणार्थ भेदभाव-निषेध अनुप्रयोग (असंपूर्ण)
-
-*सोप्या भाषेत: [§3.8](#38-illustrative-whole-system-application-by-class) ते [§6.1](#61-illustrative-cross-system-support-application-by-class) त्याच तीन प्रणाली आधीच्या मूल्यमापन क्षेत्रांतून चालवतात. हा उपविभाग प्रत्येकासाठी **भेदभाव-निषेध** मूल्यमापनाचा अर्थ काय ते दाखवतो — कोणते निर्णय नामित मार्ग मोजतात, **अनुच्छेद V-B** (*भेदभाव-निषेध*) भौतिकता चालक लागू होतो तेव्हा प्रमाणनाने काय तपासावे, आणि अभिलेखावर काय दिसले पाहिजे. अध्याय पाच आणि **अनुच्छेद V-B** (*भेदभाव-निषेध*) अजून प्रामाणिक न्याय्यपणा आणि प्रतिनिधी-भेदभाव नियम मालकीने धरतात; समावेश कोटा, लोकसंख्या लक्ष्ये, आणि न्याय्यपणा-अल्गोरिथम रचना इतर साधनांत, नंतरच्या संग्रह भरघोसांत, किंवा अंगीकार साधनांत राहू शकतात; ही मार्गदर्शने ती यांत्रिकी विहित करत नाहीत.*
-
-**वर्ग A — नगरपालिका सुरक्षित पिण्याचे पाणी नियंत्रण आणि दूरमापन.** नगरपालिका मालकीची प्रक्रिया-आणि-वितरण प्रणाली बंद, पुनर्जोडणी, देयक-योजना, व्यत्यय-सूचना, आणि सुरक्षा-इशारा नियम लागू करते जे भौतिक रीतीने ठरवतात कोण पाणी प्रवेश गमावतो, कोणाला आधी इशारा मिळतो, आणि कोण सेवा पुनर्स्थापनेचा खर्च वाहतो.
-
-- **व्याप्तीतील निर्णय नामित मार्ग:**
-  - सेवा बंद आणि पुनर्स्थापना क्रम;
-  - गहाण, बिलिंग, आणि देयक-योजना पात्रता;
-  - नवीन-जोडणी आणि पुनर्जोडणी मंजुरी;
-  - व्यत्यय-सूचना मार्गनिर्देशन आणि भाषा निवड;
-  - दूषण किंवा पाणी-उकळणी इशारा लक्ष्यीकरण;
-  - प्रवेश द्वार करणारे मालक–भाडेकरू आणि पत्ता-इतिहास नियम;
-  - अनेक जिल्हे मर्यादित पुरवठ्यासाठी स्पर्धा करतात तिथे आणीबाणी बायपास किंवा परस्पर-मदत प्राधान्य.
-- **मूल्यमापनाने काय तपासावे:**
-  - जीवनरक्षा आवश्यक बंद करू शकणाऱ्या नामित मार्गांसाठी [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional) खाली भार-आणि-लाभ नमुने मूल्यमापित झाले का — चालक नियम «धोका-आधारित» किंवा «संचालन» लेबल करतो का एवढे नाही;
-  - बंद, बिलिंग, किंवा सूचना तर्क [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics-constitutional), त्यांचे प्रतिनिधी, किंवा कार्यात्मक पर्याय म्हणून वापरलेल्या मनमानी गटांच्या आधारावर संज्ञ प्राण्यांवर विषम हानी लादतो का;
-  - पिनकोड, मालक, भाषा, देयक-इतिहास, किंवा पत्ता-इतिहास वैशिष्ट्ये [संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) खाली प्रतिनिधी भेदभाव म्हणून काम करतात का;
-  - [भाषा, संस्कृती आणि वारसा](core_05_band_continuity.md#language-culture-and-heritage-constitutional) रक्षणे «फक्त प्रमाण इंग्रजी» किंवा एकत्रित सोई मेट्रिकाने एकरूप करण्याऐवजी तपासली गेली का; आणि
-  - कोणतीही भिन्न वागणूक दस्तऐवजीकृत [आवश्यकता](core_05_band_accountability.md#necessity) आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) पूर्ण करते का.
-- **अभिलेखाने काय दाखवावे:**
-  - अवलंबित **अनुच्छेद V-B** (*भेदभाव-निषेध*) भौतिकता चालक;
-  - भौतिक रीतीने अवलंबित बंद, बिलिंग, सूचना, आणि जोडणी नामित मार्गांसाठी मूल्यमापन व्याप्ती;
-  - **वर्ग A** खोलीवर संरक्षित-वैशिष्ट्य, प्रतिनिधी-भेदभाव, आणि तत्त्वनिष्ठ-न्याय्यपणा निष्कर्ष;
-  - अनिश्चितता;
-  - हवे तिथे संज्ञ-मंच किंवा इतर घटक निष्कर्ष; आणि
-  - जीवनरक्षा आवश्यक द्वार होतात तिथे सतत असमान बंद, सूचना, किंवा बिलिंग भाराला जोडलेल्या अटी किंवा पुनर्उघडणे चालक.
-
-**वर्ग B — प्रादेशिक क्लिनिकल अभिलेख विनिमय.** आरोग्य-माहिती विनिमय संमती नियम, ओळख निराकरण, वैद्यकीय-निर्देशिका श्रेणीबद्धता, break-glass प्रवेश, आणि सहभागी-प्रवेश पात्रतेद्वारे रुग्णालये आणि दवाखान्यांमध्ये अभिलेख मार्गनिर्देशित करतो जे भौतिक रीतीने ठरवतात कोण कोणती काळजी पाहू शकतो, कोणत्या सुविधा आधी जोडल्या जातात, आणि कोणते रुग्ण जाळ्यावर बरोबर जुळतात.
-
-- **व्याप्तीतील निर्णय नामित मार्ग:**
-  - रुग्ण ओळख जुळणी आणि द्विरुक्ती-निवारण;
-  - संमती, break-glass, आणि आणीबाणी-प्रवेश नियम;
-  - वैद्यकीय आणि सुविधा निर्देशिका श्रेणीबद्धता किंवा पसंती-जाळे तर्क;
-  - सहभागी रुग्णालय प्रवेश आणि निलंबन;
-  - अभिलेख-मार्गनिर्देशन आणि चौकशी-प्राधान्य नियम;
-  - वैद्यकीय श्रेणीबद्ध करण्यासाठी, संदर्भ मार्गनिर्देशित करण्यासाठी, किंवा «उच्च वापरकर्ता» किंवा तुलनात्मक गट चिन्हांकित करण्यासाठी वापरलेली व्युत्पन्न वैशिष्ट्ये.
-- **मूल्यमापनाने काय तपासावे:**
-  - वर्गीकरण, श्रेणीबद्धता, आणि द्वार नामित मार्ग कार्यात्मक परिणामासाठी मूल्यमापित झाले का — फक्त नाममात्र HIPAA तटस्थता किंवा आंतरकार्यक्षमता दावे नाहीत;
-  - जुळणी, मार्गनिर्देशन, किंवा निर्देशिका तर्क संरक्षित गटांवर किंवा त्यांच्या प्रतिनिधींवर भौतिक वगळणी किंवा हानी लादतो का;
-  - द्विरुक्ती-निवारण चुका, break-glass उंबरठे, किंवा प्रवेश नियम ग्रामीण दवाखाने, भाषा-अल्पसंख्याक रुग्ण, किंवा तुलनात्मक गटांवर विषम भार लादतात का;
-  - «कार्यक्षमता», «फसवणूक प्रतिबंध», किंवा एकत्रित वापर मेट्रिक **अनुच्छेद V-B** (*भेदभाव-निषेध*) च्या **आवश्यकता** आणि **प्रमाणबद्धता** चाचण्या पूर्ण न करता तत्त्वनिष्ठ न्याय्यपणा हरवण्यासाठी वापरली गेली का; आणि
-  - श्रेणीबद्धता आरोग्यसेवा प्रवेश, लाभ मार्गनिर्देशन, किंवा उत्पन्न सुरक्षेवर परिणाम करते तिथे मूल्यमापन खोली **वर्ग B** संचालन गंभीरतेशी जुळते का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद V-B** (*भेदभाव-निषेध*) चालक आणि नामित-मार्ग व्याप्ती;
-  - संरक्षित-वैशिष्ट्य आणि प्रतिनिधी-भेदभाव निष्कर्ष;
-  - श्रेणीबद्धता, जुळणी, आणि प्रवेश नियमांसाठी तत्त्वनिष्ठ-न्याय्यपणा निष्कर्ष;
-  - हवे तिथे अनिश्चितता आणि घटक निष्कर्ष; आणि
-  - मार्गनिर्देशन किंवा जुळणी बदल आता जीवनरक्षा-संबंधित कालमर्यादेत आणीबाणी काळजी रोखेल किंवा असमान भार भौतिक रीतीने हलवेल तर पुनर्उघडणे चालक.
-
-**वर्ग C — संस्थात्मक वेळापत्रक आणि समन्वय थर.** बहु-संस्था वेळापत्रक थर पाळ्या नेमतो, खोल्या आरक्षित करतो, पुरवठादार जुळवतो, आणि रुग्णालये, शाळा, आणि सार्वजनिक संस्थांवर समन्वय प्राधान्य वाटतो — निर्णय नामित मार्ग जे श्रेणीबद्ध, वगळू, किंवा विषम भार लादू शकतात, थर स्वतः जीवनरक्षा-गंभीर उपयुक्तता नसला तरी.
-
-- **व्याप्तीतील निर्णय नामित मार्ग:**
-  - पाळी नेमणूक, अतिरिक्त वेळ, आणि ऑन-कॉल वाटप;
-  - खोली, उपकरणे, आणि स्थळ आरक्षण प्राधान्य;
-  - पुरवठादार जुळणी आणि खरेदी श्रेणीबद्धता;
-  - संस्थात्मक भूमिका, ओळखपत्र, आणि स्थळ-आधारित प्रवेश नियम;
-  - परिसर, भाषा समुदाय, देखभालक स्थिती, किंवा तुलनात्मक प्रतिनिधींशी सहसंबंधित व्युत्पन्न वेळापत्रक वैशिष्ट्ये;
-  - लहान संस्थांना पसंतीच्या स्लॉट किंवा पुरवठादार तलावांतून वगळणारे API किंवा धोरण नियम.
-- **मूल्यमापनाने काय तपासावे:**
-  - **अनुच्छेद V-B** (*भेदभाव-निषेध*) भौतिकता चालक लागू होतो का — समन्वय अल्गोरिथम कर्मचारी, पुरवठादार, किंवा संस्था भौतिक रीतीने श्रेणीबद्ध करतात तिथे धरून;
-  - वेळापत्रक भूगोल, ज्येष्ठता प्रतिनिधी, «उपलब्धता गुणांकन», किंवा पुरवठादार-रेटिंग तर्क मूल्यांकनीय न्यायोचितीशिवाय संरक्षित गटांवर विषम भार लादतात का;
-  - दर्शनीय तटस्थ नियम पाळी वेळ, प्रवास भार, किंवा उच्च-मूल्य आरक्षणांतून वगळणीद्वारे तत्त्वनिष्ठ अन्याय्यपणा निर्माण करतात का;
-  - चालकाने थर **वर्ग C** असल्याने समीक्षेखाली मानला का, समन्वय परिणाम काम, शिक्षण, किंवा सार्वजनिक-सेवा प्रवेश भौतिक रीतीने द्वार करत असताना; आणि
-  - थर जीवनरक्षा-आवश्यक कर्मचारी किंवा आणीबाणी मार्गनिर्देशनाचे प्रत्यक्ष अडथळा बनेल तिथे **पुनर्वर्गीकरण पहारा** हवा का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद V-B** (*भेदभाव-निषेध*) चालक लागू होतो का आणि का;
-  - **वर्ग C** समन्वय धोक्याप्रमाणे प्रमाणबद्ध श्रेणीबद्धता, नेमणूक, आणि वगळणी नामित मार्गांची मूल्यमापन व्याप्ती;
-  - भौतिक असतील तिथे संरक्षित-वैशिष्ट्य, प्रतिनिधी, आणि तत्त्वनिष्ठ-न्याय्यपणा निष्कर्ष — कोणी श्रेणीबद्ध होत नाही असा रिकामा दावा नाही;
-  - वेळापत्रक परिणाम अधिरोहण पूर्वसूचित करतात तिथे एकाग्रता आणि अडथळा निष्कर्ष;
-  - अवलंबित्व मजबूत होते तिथे व्यक्त **पुनर्वर्गीकरण पहारा**; आणि
-  - वर्ग, देयक मार्गनिर्देशन, किंवा जीवनरक्षा-आवश्यक समन्वय भूमिका बदलली तर अधिरोहित भेदभाव-निषेध समीक्षेचे संकेत.
-
-**वर्गांवरून वाचन.** भौतिकता चालक पूर्ण होतो तिथे तीच **अनुच्छेद V-B** (*भेदभाव-निषेध*) आणि अध्याय पाच भेदभाव-निषेध शिस्त लागू होते; वर्ग मूल्यमापन खोली बदलतो, श्रेणीबद्धता किंवा भार-ढकलण्याला अभौतिक मानण्याची परवानगी नाही. ज्याच्या बंद किंवा सूचना नियम सुरक्षित पाणी बंद करू शकतात अशा **वर्ग A** पाणी प्रणालीला अभिलेखावर सर्वात मजबूत भार-आणि-लाभ आणि प्रतिनिधी विश्लेषण हवे — सामान्य «उपयुक्तता सर्वोत्तम प्रथा» विधान नाही. ज्याच्या जुळणी किंवा मार्गनिर्देशन तर्काचा आणीबाणी काळजी, लाभ, किंवा ओळखपत्र प्रवेशावर परिणाम होतो अशा **वर्ग B** विनिमयाने संचालन गंभीरतेवर असमान-प्रभाव आणि तत्त्वनिष्ठ-न्याय्यपणा निष्कर्ष दस्तऐवजीत केले पाहिजेत. **वर्ग C** वेळापत्रक थराने पाळी, पुरवठादार, किंवा आरक्षण तर्क सहभागींना भौतिक रीतीने श्रेणीबद्ध किंवा वगळत असताना प्रतीकात्मक न्याय्यपणा परिच्छेद ठेवू नये; समन्वय जीवनरक्षा-आवश्यक होते तेव्हा प्रमाणनाने [§2](#2-system-class-evaluation) आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली समीक्षा आणि पुनर्वर्गीकरण अधिरोहित केले पाहिजे, कर्मचारी किंवा आणीबाणी मार्गनिर्देशन द्वार होते तिथे **वर्ग A** पर्यंत वर धरून. त्याच प्रणालींसाठी सुलभता मार्गदर्शने [§8.1](#81-illustrative-accessibility-application-by-class) मध्ये आहेत.
-
-<a id="8-accessibility-evaluation"></a>
-
-### 8. सुलभता मूल्यमापन
+#### 5.1 परिस्थितिक पदचिन्ह मूल्यमापन
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*अभिलेख आशय*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सहभाग मापन कुटुंब (*संवैधानिक मापन म्हणून सुलभता*); **अनुच्छेद V-G** (*सुलभता*); [सुलभता](core_05_band_participation.md#accessibility-constitutional), [भौतिकता](core_05_band_oversight.md#materiality-determination), [अवलंबित्व](core_05_band_continuity.md#dependency), [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency), [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics-constitutional), [संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional), [आवश्यकता](core_05_band_accountability.md#necessity), आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) (अध्याय पाच).
-- पुढे: [§8.1](#81-illustrative-accessibility-application-by-class) (*उदाहरणार्थ सुलभता मार्गदर्शने*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*सुलभता विसंरेखन आणि फक्त-कागदी सोय*).
-- सोबत वाचा: शैक्षणिक सुलभता गुंतलेली असेल तिथे **अनुच्छेद III-B** (*समान शैक्षणिक प्रवेश*) — शिक्षण-विशिष्ट सुलभता तेथे मालकीने राहते; प्रमाणन मंच, प्रशासकीय, प्रभावित-पक्ष, किंवा अंमलबजावणी सहभाग द्वार करते तिथे **अनुच्छेद V-C** (*न्यायनिर्णय आणि संचालनात पूर्ण समावेश आणि समानता*) आणि **अनुच्छेद XII** (*प्रभावित पक्षांचा प्रणालीगत सहभाग, प्रतिनिधित्व, आणि योग्य प्रक्रिया*); [अध्याय सात §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion) (*आडवा सुलभता मूल्यमापन-घटक हुक*).
-- उपविभाग: [§8.1](#81-illustrative-accessibility-application-by-class) (*वर्गनिहाय उदाहरणार्थ सुलभता अनुप्रयोग*).
+- ऊर्ध्वप्रवाह: [भाग B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेखातील मजकूर*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सातत्य मापन परिवार (*घटनात्मक मापन म्हणून परिस्थितिक पदचिन्ह*); **अनुच्छेद I-B** (*परिस्थितिक पदचिन्ह आणि पारदर्शकता*); [परिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint), [भौतिक परिणाम](core_05_band_oversight.md#material-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), [पारदर्शकता](core_05_band_oversight.md#transparency), [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) (अध्याय पाच); भौतिकदृष्ट्या संबंधित ठिकाणी [पर्यावरणीय पूर्वअटी](core_05_band_continuity.md#environmental-preconditions) आणि [परिस्थितिक अखंडता](core_05_band_continuity.md#ecological-integrity).
+- अधःप्रवाह: [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*प्रणाली वर्गानुसार परिस्थितिक पदचिन्हाची उदाहरणे*); [§5.3](#53-proportionate-cross-system-support-evaluation) आणि [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*प्रणाली-आंतर सहाय्य मूल्यमापन आणि उदाहरणे*); [भाग B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*अभिलेख अखंडता*); [भाग B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित-इनपुट प्रवेशद्वार*); [भाग B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*पदचिन्हाची चुकीची मांडणी आणि विसंगती*).
+- यासोबत वाचा: [corpus_systems.md](corpus_systems.md), अनुकूली वाटप किंवा परिसंस्था परस्परावलंबित्व भौतिकदृष्ट्या कक्षेत असल्यास [CS-8 — अनुकूली शाश्वतता आणि परिसंस्था लवचिकता](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md).
+- उपविभाग: [§5.1.1](#511-scope-and-governing-rules) (*व्याप्ती आणि लागू नियम*); [§5.1.2](#512-evaluation-requirement) (*मूल्यमापनाची आवश्यकता*); [§5.1.3](#513-system-class-scaling-and-escalation) (*प्रणाली वर्गानुसार पातळी आणि वाढीव तपासणी*); [§5.1.4](#514-defects-and-misalignment) (*दोष आणि विसंगती*); [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*प्रणाली वर्गानुसार परिस्थितिक पदचिन्हाच्या वापराची उदाहरणे*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रणाली भौतिक रीतीने नियंत्रण करते संज्ञ प्राणी खरे सहभागी होऊ शकतात का — फक्त दार «उघडे» लेबल आहे का नाही — तेव्हा प्रमाणनाने सहभाग संवेदी, संज्ञानात्मक, गतिशीलता, संवाद, आधार-इंटरफेस, आणि तुलनात्मक गरजांवर खरे पोहोचता येतो का ते तपासायला हवे. सोय सूची आणि आंतरपृष्ठ मानके इतर साधनांत, नंतरच्या संग्रह भरघोसांत, किंवा अंगीकार साधनांत राहू शकतात; प्रमाणन पडताळते की तत्त्वनिष्ठ सहभाग चालक लागू होतो तिथे खरे मूल्यमापित झाला. [§2.1](#21-illustrative-class-profiles-non-exhaustive) मधील उदाहरणार्थ प्रणालींसाठी कार्यान्वित उदाहरणे [§8.1](#81-illustrative-accessibility-application-by-class) मध्ये आहेत.*
+*सोप्या भाषेत: प्रणाली पर्यावरणाचे खरे नुकसान करत असेल, तर प्रमाणनाने ते नुकसान प्रामाणिकपणे पाहिले पाहिजे — पुरवठादारांमार्फत होणारे आणि संज्ञ प्राण्यांनी ती वापरल्यानंतर होणारे नुकसानही यात येते. प्रणाली «हरित» आहे एवढे संचालक म्हणतो म्हणून समीक्षकांनी मानू नये. पदचिन्ह कसे मोजायचे किंवा ते किती कमी करायचे हे हा विभाग सांगत नाही; इतर दस्तऐवज ते हाताळतात. नुकसान लक्षणीय असेल तेव्हा त्यातील किती भाग या प्रणालीचा आहे याचा प्रत्यक्ष हिशेब केला, तो उघड केला आणि पर्यायांशी तुलना केली याचीच तो खात्री करतो. उदाहरणे: [§5.1.5 प्रणाली वर्गानुसार परिस्थितिक पदचिन्ह वापराची उदाहरणे (असमावेशक)](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).*
 
-**भौतिकता चालक.** हा विभाग लागू होतो जिथे भौतिक प्रभावी प्रणाली संवैधानिक रीतीने संबंधित क्षेत्रांत तत्त्वनिष्ठ सहभाग भौतिक रीतीने द्वार करते — शासन, प्रभावित पक्ष सहभाग, न्यायनिर्णय, संक्रिया, जीवित-तळ प्रवेश, आरोग्य प्रवेश, अभिव्यक्ती, सभा, पत्रकारिता, किंवा तुलनात्मक क्षेत्रे धरून — आंतरपृष्ठे, स्थाने, वेळापत्रक, ओळखपत्रे, गणन प्रवेश, सोय रचना, किंवा तुलनात्मक सहभाग नामित मार्गांद्वारे. प्रत्येक प्रमाणन अभिलेखावर पूर्ण सुलभता लेखापरीक्षण मागत नाही. शैक्षणिक सुलभता **अनुच्छेद III-B** (*समान शैक्षणिक प्रवेश*) द्वारे शासित राहते आणि येथे आकुंचित होत नाही.
+<a id="511-scope-and-governing-rules"></a>
+##### 5.1.1 व्याप्ती आणि लागू नियम
 
-प्रणाली-संरेखन प्रमाणनाने भौतिकता चालक लागू होतो तिथे **अनुच्छेद V-G** (*सुलभता*) आणि [सुलभता](core_05_band_participation.md#accessibility-constitutional) खाली **सुलभता** मूल्यमापन केले पाहिजे. प्रामाणिक अर्थ, मूल्यमापन घटक, आणि अनुपालन-भंग शिस्त अध्याय पाच आणि **अनुच्छेद V-G** (*सुलभता*) मध्ये राहतात; सोय सूची, आंतरपृष्ठ मानके, सार्वत्रिक-आखणी तपशील, आणि संक्रियात्मक सोय यांत्रिकी लागू असतील तिथे समाविष्ट साधनांत राहतात. हा विभाग प्रमाणनाने काय पडताळले आणि नोंदले पाहिजे ते सांगतो; तो ती संक्रियात्मक यांत्रिकी पुन्हा सांगत नाही किंवा विशिष्ट सोय सूची किंवा सार्वत्रिक-आखणी तपशील विहित करत नाही.
+[परिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint) आणि **अनुच्छेद I-B** (*परिस्थितिक पदचिन्ह आणि पारदर्शकता*) अंतर्गत प्रणालीशी जोडता येणारे पर्यावरणीय भार भौतिक असतील, तर प्रणाली-संरेखन प्रमाणनाने भौतिक परिणाम असलेल्या प्रत्येक प्रमाणन अभिलेखाचा भाग म्हणून **परिस्थितिक पदचिन्हाचे** मूल्यमापन केले पाहिजे.
 
-**मूल्यमापन अपेक्षा.** प्रमाणन प्रक्रिया ठरवे की संज्ञ प्राणी प्रणाली भौतिक रीतीने द्वार करते त्या संवैधानिक रीतीने संबंधित क्षेत्रांत तत्त्वनिष्ठ सहभागी होऊ शकतात का — फक्त औपचारिक सोई, पूर्वनिर्धारित आंतरपृष्ठे, किंवा कागदी सोयी अस्तित्वात आहेत का नाही. मूल्यमापनाने [सुलभता](core_05_band_participation.md#accessibility-constitutional) खाली तत्त्वनिष्ठ सहभाग परिणाम तपासायला हवा, [भौतिकता](core_05_band_oversight.md#materiality-determination) आणि [अवलंबित्व](core_05_band_continuity.md#dependency) प्रमाणात, आणि फक्त-कागदी सोयी, सहभाग क्षमता न निर्माण करता पूर्वनिर्धारित सोईंकडे ढकलणारे «सामान्य प्रवेश» नमुने, सोय व्याप्ती आकुंचित करण्यासाठी वापरलेले निवडक भौतिकता तर्क, [संज्ञता-अवर्जन](core_05_band_participation.md#sentience-non-exclusion) विरुद्ध वगळणी, आणि वेळापत्रक, स्थळ निवड, ओळखपत्रीकरण, गणन प्रवेश, किंवा तुलनात्मक यांत्रिकीद्वारे प्रतिनिधी-द्वारे-नकार-निरोध रचना ओळखायला हवी. मूल्यमापनाने सोय-रचना तर्काला [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics-constitutional) आणि [संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) लागू केले पाहिजे. कोणतीही मर्यादा दस्तऐवजीकृत [आवश्यकता](core_05_band_accountability.md#necessity), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), आणि [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional) पूर्ण करायला हवी.
+<a id="512-evaluation-requirement"></a>
+##### 5.1.2 मूल्यमापनाची आवश्यकता
 
-**अभिलेख अपेक्षा.** प्रमाणन अभिलेखाने अवलंबित **अनुच्छेद V-G** (*सुलभता*) भौतिकता चालक, भौतिक रीतीने अवलंबित सहभाग नामित मार्गांसाठी मूल्यमापन व्याप्ती, तत्त्वनिष्ठ-सहभाग आणि सोय निष्कर्ष, भौतिक असेल तिथे प्रतिनिधी-द्वारे-नकार-निरोध निष्कर्ष, अनिश्चितता, हवे तिथे संज्ञ-मंच किंवा इतर नेमलेले घटक निष्कर्ष, आणि सतत सहभाग अडथळ्यांना जोडलेल्या कोणत्याही अटी, अवलंब मर्यादा, किंवा पुनर्उघडणे चालक सांगितले पाहिजेत.
+प्रमाणन प्रक्रियेने प्रणालीशी जोडता येणारे पर्यावरणीय प्रवाह — ऊर्जा, सामग्री, उत्सर्जने, हवेची गुणवत्ता, पाण्याची गुणवत्ता, पाण्याचा वापर, जमिनीचा वापर आणि संबंधित भार — पुढीलप्रमाणे आहेत का हे ठरवले पाहिजे:
 
-**प्रणाली वर्गासोबत संयुक्त प्रमाणीकरण.** सुलभता मूल्यमापन खोली [§2](#2-system-class-evaluation) आणि [भौतिक दाव](core_00_preamble.md#material-stake) खाली नेमलेल्या प्रणाली वर्गानुसार प्रमाणित झाली पाहिजे. संवैधानिक रीतीने संबंधित सहभाग भौतिक रीतीने द्वार करतात अशा उच्च-वर्ग प्रणालींना प्रमाणबद्ध रीतीने अधिक मजबूत पुरावा हवा की तत्त्वनिष्ठ सुलभता दावाने नव्हे तर मूल्यमापित झाली.
+- प्रणालीच्या भौतिकदृष्ट्या संबंधित जीवनचक्रात आणि [अवलंबित्व](core_05_band_continuity.md#dependency) संबंधांत ओळखले आहेत;
+- [भौतिक परिणाम](core_05_band_oversight.md#material-impact) अंतर्गत मूल्यमापित आहेत; आणि
+- [पारदर्शकता](core_05_band_oversight.md#transparency), [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) आणि लागू पारदर्शकता कर्तव्ये परवानगी देतात तेव्हाच उघड केले किंवा रोखले आहेत.
 
-**दोष आणि विसंरेखन.** मूल्यांकनीय तत्त्वनिष्ठ-सहभाग विश्लेषणाशिवाय औपचारिक सोई, पूर्वनिर्धारित आंतरपृष्ठे, किंवा कागदी सोयी पुरेशा मानणे; दस्तऐवजीकृत सहभाग अडथळे संवैधानिक संरेखनाला भौतिक रीतीने धोका देत असताना चालू अवलंब प्रमाणित करणे; **अनुच्छेद V-G** (*सुलभता*) च्या **आवश्यकता** आणि **प्रमाणबद्धता** चाचण्या पूर्ण न करता सहभाग तळ हरवण्यासाठी खर्च, आखणी-निवड, आधार-वर्ग, किंवा संचालन-प्रमाण चौकटी वापरणे; किंवा कमी-भार पर्याय व्यवहार्य असताना सुलभता हरवण्याचा परिणाम असणारी संक्रियात्मक आखणी प्रमाणन दोष मानावी. ती [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली सशर्त मान्यता, स्थगित मान्यता, अमान्यता, माघार, किंवा पुनर्उघडणे आधार देऊ शकतात.
+मूल्यमापनात कार्यात्मक परिणाम आणि प्रणालीच्या सीमा दिसल्या पाहिजेत; केवळ नाममात्र व्याप्ती, विपणन लेबले किंवा जीवनचक्राचा अंशतः विचार नव्हे.
 
-<a id="81-illustrative-accessibility-application-by-class"></a>
+शक्य असल्यास समीक्षकांनी प्रणालीच्या महत्त्वपूर्ण पर्यावरणीय हानीची वास्तववादी पर्यायांशी तुलना केली पाहिजे. पुढील प्रकारे ती हानी लपवली जात नाही ना हेही त्यांनी तपासले पाहिजे:
 
-<a id="81-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-#### 8.1 वर्गनिहाय उदाहरणार्थ सुलभता अनुप्रयोग (असंपूर्ण)
+- **सीमा अरुंद आखणे** — सर्वाधिक वाईट परिणाम सीमांबाहेर पडतील अशा रीतीने प्रणालीच्या सीमा ठरवणे;
+- **भार दुसरीकडे ढकलणे** — हानिकारक काम पुरवठादार किंवा भागीदारांकडे ढकलणे, जेणेकरून ते प्रणालीचे स्वतःचे मानले जाणार नाही; किंवा
+- **फक्त चांगली बातमी सांगणे** — अनुकूल आकडे नोंदवून प्रतिकूल आकडे वगळणे.
 
-*सोप्या भाषेत: [§3.8](#38-illustrative-whole-system-application-by-class) ते [§7.1](#71-illustrative-nondiscrimination-application-by-class) त्याच तीन प्रणाली आधीच्या मूल्यमापन क्षेत्रांतून चालवतात. हा उपविभाग प्रत्येकासाठी **सुलभता** मूल्यमापनाचा अर्थ काय ते दाखवतो — कोणते सहभाग नामित मार्ग मोजतात, **अनुच्छेद V-G** (*सुलभता*) भौतिकता चालक लागू होतो तेव्हा प्रमाणनाने काय तपासावे, आणि अभिलेखावर काय दिसले पाहिजे. अध्याय पाच आणि **अनुच्छेद V-G** (*सुलभता*) अजून प्रामाणिक सुलभता नियम मालकीने धरतात; सोय सूची, आंतरपृष्ठ मानके, आणि सार्वत्रिक-आखणी तपशील इतर साधनांत, नंतरच्या संग्रह भरघोसांत, किंवा अंगीकार साधनांत राहू शकतात; ही मार्गदर्शने ती यांत्रिकी विहित करत नाहीत. शैक्षणिक सुलभता **अनुच्छेद III-B** (*समान शैक्षणिक प्रवेश*) मालकीने राहते आणि येथे आकुंचित होत नाही.*
+<a id="513-system-class-scaling-and-escalation"></a>
+##### 5.1.3 प्रणाली वर्गानुसार पातळी आणि वाढीव तपासणी
 
-**वर्ग A — नगरपालिका सुरक्षित पिण्याचे पाणी नियंत्रण आणि दूरमापन.** नगरपालिका मालकीची प्रक्रिया-आणि-वितरण प्रणाली बिलिंग द्वारे, व्यत्यय-सूचना वाहिन्या, पुनर्जोडणी विनंत्या, पाणी-उकळणी इशारे, आणि ग्राहक-सेवा नामित मार्गांद्वारे जीवित-तळ प्रवेश द्वार करते जे ठरवतात संज्ञ प्राणी सुरक्षित पाण्याबद्दल जाणू शकतात, आव्हान देऊ शकतात, किंवा ते पुनर्स्थापित करू शकतात का.
+प्रणालीचा वर्ग ठरवतो की पर्यावरणीय हानीचा किती खोलवर मागोवा घ्यायचा आणि किती तुलना आवश्यक आहे. महत्त्वपूर्ण हानीकडे पाहणे टाळण्यासाठी वर्गाचा कधीही उपयोग करता येत नाही.
 
-- **व्याप्तीतील सहभाग नामित मार्ग:**
-  - बिलिंग आणि देयक-योजना द्वारे;
-  - व्यत्यय आणि दूषण-इशारा वाहिन्या (आवाज, मजकूर, वेब, प्रत्यक्ष, किंवा सुपूर्द पुरवठादार मार्ग);
-  - पुनर्जोडणी आणि अडचण-विनंती आंतरपृष्ठे;
-  - सुरक्षा सूचनांसाठी भाषा आणि स्वरूप पर्याय;
-  - खाते प्रवेशासाठी ओळखपत्र किंवा ओळख द्वारे;
-  - आव्हान दाखल करण्यासाठी किंवा इशारा मिळवण्यासाठी गणन, उपकरण, किंवा स्थळ अपेक्षा.
-- **मूल्यमापनाने काय तपासावे:**
-  - संज्ञ प्राणी संवेदी, संज्ञानात्मक, गतिशीलता, संवाद, आणि आधार-इंटरफेस प्रोफाइल ओलांडून जीवनरक्षा-गंभीर सूचना तत्त्वनिष्ठ रीतीने मिळवू शकतात आणि पुनर्जोडणी किंवा अडचण नामित मार्ग पूर्ण करू शकतात का — पूर्वनिर्धारित वेब फॉर्म अस्तित्वात आहे का नाही;
-  - फक्त-कागदी सोयी, «कार्यालयीन वेळेत फोन करा», किंवा फक्त-इंग्रजी पूर्वनिर्धारित कमी-भार पर्याय व्यवहार्य असताना सहभाग हरवतात का;
-  - वेळापत्रक, स्थळ, ओळखपत्र, किंवा गणन रचना प्रतिनिधी-द्वारे-नकार म्हणून काम करते का;
-  - सोय-रचना तर्काला [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics-constitutional) आणि [संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) लागू झाले का; आणि
-  - कोणतीही मर्यादा दस्तऐवजीकृत [आवश्यकता](core_05_band_accountability.md#necessity), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), आणि [तत्त्वनिष्ठ न्याय्यपणा](core_05_band_participation.md#substantive-fairness-constitutional) पूर्ण करते का.
-- **अभिलेखाने काय दाखवावे:**
-  - अवलंबित **अनुच्छेद V-G** (*सुलभता*) भौतिकता चालक;
-  - भौतिक रीतीने अवलंबित सूचना, बिलिंग, पुनर्जोडणी, आणि आव्हान नामित मार्गांसाठी मूल्यमापन व्याप्ती;
-  - **वर्ग A** खोलीवर तत्त्वनिष्ठ-सहभाग आणि सोय निष्कर्ष;
-  - भौतिक असेल तिथे प्रतिनिधी-द्वारे-नकार-निरोध निष्कर्ष;
-  - अनिश्चितता;
-  - हवे तिथे संज्ञ-मंच किंवा इतर घटक निष्कर्ष; आणि
-  - जीवनरक्षा आवश्यक द्वार होतात तिथे सतत अडथळ्यांना जोडलेल्या अटी किंवा पुनर्उघडणे चालक.
+- पाण्याचे निष्कर्षण, प्रदूषक विसर्ग, ऊर्जेचा वापर किंवा तत्सम भार अजून अंशतःच मोजले जात असताना प्रणालीला कमी वर्गात उतरवू नये — विशेषतः सुरक्षित पाण्यासारख्या संज्ञ प्राण्यांच्या जीवनरक्षणासाठी आवश्यक गोष्टींच्या पुरवठ्यावर त्यांचा परिणाम होत असल्यास.
+- प्रणाली वाढली (भार वाढला किंवा होस्टिंगचा मोठा भाग एका ठिकाणी केंद्रित झाला) आणि तिची पर्यावरणीय हानी लक्षणीय वाढली, तर तपासणीही वाढली पाहिजे. प्रणालीचा जीवनरक्षणासाठी आवश्यक पुरवठा आणि तिच्या स्रोतांचे भार दोन्ही संबंधित असतील, तर **Class A** इतक्या खोलीपर्यंत जाणे यात समाविष्ट असू शकते.
+- संज्ञ प्राणी जीवनरक्षणासाठी आवश्यक समन्वयाकरिता अवलंबून असलेला अडथळा-बिंदू प्रणाली बनली, तर तिचा संचालक तिला «महत्त्वाची नाही» म्हणतो एवढ्याने केवळ दिखाऊ पदचिन्ह फाइल पुरेशी ठरत नाही.
 
-**वर्ग B — प्रादेशिक क्लिनिकल अभिलेख विनिमय.** आरोग्य-माहिती विनिमय आणि त्याची सहभागी द्वारे रुग्ण द्वारे, संमती आंतरपृष्ठे, वैद्यकीय निर्देशिका, break-glass कार्यप्रवाह, आणि दवाखाना-प्रवेश साधनांद्वारे दैनंदिन आरोग्यसेवा प्रवेश द्वार करतात जे ठरवतात रुग्ण आणि लहान वैद्यकीय खरे विनिमय वापरू शकतात का.
+<a id="514-defects-and-misalignment"></a>
+##### 5.1.4 दोष आणि विसंगती
 
-- **व्याप्तीतील सहभाग नामित मार्ग:**
-  - रुग्ण द्वार आणि संमती आंतरपृष्ठे;
-  - वैद्यकीय-निर्देशिका आणि संदर्भ-आरक्षण साधने;
-  - break-glass आणि आणीबाणी-प्रवेश कार्यप्रवाह;
-  - दवाखाना प्रवेश आणि ओळखपत्रीकरण आंतरपृष्ठे;
-  - क्लिनिकल सारांश आणि प्रकटीकरणांसाठी भाषा, स्वरूप, आणि सहाय्यक-तंत्रज्ञान आधार;
-  - अभिलेख पाहण्यासाठी, आव्हान देण्यासाठी, किंवा दुरुस्त करण्यासाठी गणन किंवा उपकरण अपेक्षा.
-- **मूल्यमापनाने काय तपासावे:**
-  - रुग्ण आणि सहभागी दवाखाने संमती, प्रवेश, दुरुस्ती, आणि आणीबाणी नामित मार्ग तत्त्वनिष्ठ रीतीने वापरू शकतात का — द्वार सुलभ लेबल आहे का नाही;
-  - पूर्वनिर्धारित आंतरपृष्ठे दृष्टीसक्षम, डेस्कटॉप, उच्च-बँडविड्थ, किंवा इंग्रजी-प्राथमिक वापरकर्त्यांकडे ढकलतात का इतरांसाठी सहभाग क्षमता न निर्माण करता;
-  - ओळखपत्र, वेळापत्रक, किंवा स्थळ रचना ग्रामीण दवाखाने, भाषा-अल्पसंख्याक रुग्ण, किंवा पर्यायी स्वरूप हव्या असलेल्या संज्ञ प्राण्यांना वगळते का;
-  - विनिमय आरोग्यसेवा प्रवेश द्वार करतो तिथे मूल्यमापन खोली **वर्ग B** संचालन गंभीरतेशी जुळते का; आणि
-  - कागदी सोयी किंवा एकत्रित «अनुपालन तपासयादी» दावे मूल्यांकनीय तत्त्वनिष्ठ-सहभाग विश्लेषणाशिवाय पुरेसे मानले गेले का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद V-G** (*सुलभता*) चालक आणि नामित-मार्ग व्याप्ती;
-  - रुग्ण आणि दवाखाना नामित मार्गांसाठी तत्त्वनिष्ठ-सहभाग आणि सोय निष्कर्ष;
-  - भौतिक असेल तिथे प्रतिनिधी-द्वारे-नकार-निरोध निष्कर्ष;
-  - हवे तिथे अनिश्चितता आणि घटक निष्कर्ष; आणि
-  - द्वार किंवा संमती अडथळे आता जीवनरक्षा-संबंधित कालमर्यादेत आणीबाणी काळजी रोखेल किंवा दैनंदिन संचालन अवलंब भौतिक रीतीने हरवेल तर पुनर्उघडणे चालक.
+पुढील प्रत्येक बाब प्रमाणन दोष ठरते:
 
-**वर्ग C — संस्थात्मक वेळापत्रक आणि समन्वय थर.** बहु-संस्था वेळापत्रक थर पाळी-दावा आंतरपृष्ठे, खोली-आरक्षण साधने, पुरवठादार द्वारे, आणि संस्थात्मक डॅशबोर्डद्वारे प्रभावित-पक्ष आणि संचालन सहभाग द्वार करतो — थर स्वतः जीवनरक्षा-गंभीर उपयुक्तता नसला तरी.
+- प्रमाणन नियम किंवा **अनुच्छेद I-B** (*परिस्थितिक पदचिन्ह आणि पारदर्शकता*) उघड करण्यास सांगत असलेली महत्त्वपूर्ण पदचिन्ह माहिती लपवणे, चुकीची सांगणे, खंडित करणे किंवा दुसरीकडे ढकलणे;
+- व्यापक दृष्टिकोन महत्त्वाचा असताना संचालकाने दाखवण्याचे निवडलेले जीवनचक्राचे भागच तपासणे; आणि
+- पडताळता येईल असा पुरावा नसताना केवळ संचालकाच्या म्हणण्यावर पदचिन्ह दावे स्वीकारणे.
 
-- **व्याप्तीतील सहभाग नामित मार्ग:**
-  - पाळी-दावा आणि ऑन-कॉल आंतरपृष्ठे;
-  - खोली, उपकरणे, आणि स्थळ आरक्षण साधने;
-  - पुरवठादार आणि खरेदी द्वारे;
-  - संस्थात्मक भूमिका आणि ओळखपत्र डॅशबोर्ड;
-  - नेमणुका दावा करण्यासाठी किंवा आव्हान देण्यासाठी मोबाइल, डेस्कटॉप, आणि सहाय्यक-तंत्रज्ञान मार्ग;
-  - वेळापत्रक सूचनांसाठी भाषा आणि स्वरूप पर्याय.
-- **मूल्यमापनाने काय तपासावे:**
-  - **अनुच्छेद V-G** (*सुलभता*) भौतिकता चालक लागू होतो का — समन्वय UI काम, शिक्षण, प्रभावित-पक्ष, किंवा मंच सहभाग भौतिक रीतीने द्वार करते तिथे धरून;
-  - पूर्वनिर्धारित आंतरपृष्ठे संवेदी, संज्ञानात्मक, गतिशीलता, संवाद, आणि आधार-इंटरफेस प्रोफाइल ओलांडून तत्त्वनिष्ठ सहभाग निर्माण करतात का;
-  - वेळापत्रक वेळ, स्थळ निवड, ओळखपत्र द्वारे, किंवा गणन अपेक्षा प्रतिनिधी-द्वारे-नकार म्हणून काम करतात का;
-  - चालकाने थर **वर्ग C** असल्याने समीक्षेखाली मानला का, समन्वय परिणाम संवैधानिक रीतीने संबंधित सहभाग भौतिक रीतीने द्वार करत असताना; आणि
-  - थर जीवनरक्षा-आवश्यक कर्मचारी किंवा आणीबाणी मार्गनिर्देशनाचे प्रत्यक्ष अडथळा बनेल तिथे **पुनर्वर्गीकरण पहारा** हवा का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद V-G** (*सुलभता*) चालक लागू होतो का आणि का;
-  - **वर्ग C** समन्वय धोक्याप्रमाणे प्रमाणबद्ध वेळापत्रक, आरक्षण, आणि द्वार नामित मार्गांची मूल्यमापन व्याप्ती;
-  - भौतिक असतील तिथे तत्त्वनिष्ठ-सहभाग आणि सोय निष्कर्ष — UI «मानक» आहे असा रिकामा दावा नाही;
-  - वेळापत्रक परिणाम अधिरोहण पूर्वसूचित करतात तिथे एकाग्रता आणि अडथळा निष्कर्ष;
-  - अवलंबित्व मजबूत होते तिथे व्यक्त **पुनर्वर्गीकरण पहारा**; आणि
-  - वर्ग किंवा जीवनरक्षा-आवश्यक समन्वय भूमिका बदलली तर अधिरोहित सुलभता समीक्षेचे संकेत.
+<a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
-**वर्गांवरून वाचन.** भौतिकता चालक पूर्ण होतो तिथे तीच **अनुच्छेद V-G** (*सुलभता*) आणि अध्याय पाच सुलभता शिस्त लागू होते; वर्ग मूल्यमापन खोली बदलतो, कागदी सोयी किंवा पूर्वनिर्धारित आंतरपृष्ठे पुरेशी मानण्याची परवानगी नाही. ज्याच्या बिलिंग किंवा व्यत्यय नामित मार्ग सुरक्षित पाणी बंद करू शकतात अशा **वर्ग A** पाणी प्रणालीला अभिलेखावर सर्वात मजबूत तत्त्वनिष्ठ-सहभाग पुरावा हवा — सामान्य सुलभता विधान नाही. ज्याच्या द्वारे आरोग्यसेवा प्रवेश द्वार करतात अशा **वर्ग B** विनिमयाने संचालन गंभीरतेवर सोय आणि प्रतिनिधी-द्वारे-नकार-निरोध निष्कर्ष दस्तऐवजीत केले पाहिजेत. **वर्ग C** वेळापत्रक थराने पाळी, आरक्षण, किंवा पुरवठादार UI सहभागींना भौतिक रीतीने वगळत असताना प्रतीकात्मक सुलभता परिच्छेद ठेवू नये; समन्वय जीवनरक्षा-आवश्यक होते तेव्हा प्रमाणनाने [§2](#2-system-class-evaluation) आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली समीक्षा आणि पुनर्वर्गीकरण अधिरोहित केले पाहिजे, कर्मचारी किंवा आणीबाणी मार्गनिर्देशन द्वार होते तिथे **वर्ग A** पर्यंत वर धरून. त्याच प्रणालींसाठी शैक्षणिक-क्षमता मार्गदर्शने [§9.1](#91-illustrative-educational-capability-application-by-class) मध्ये आहेत.
-
-<a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
-
-### 9. शैक्षणिक क्षमता आणि अध्ययन-प्रणाली सचोटी मूल्यमापन
+#### 5.2 शैक्षणिक क्षमता आणि अध्ययन-प्रणाली अखंडता मूल्यमापन
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*अभिलेख आशय*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सहभाग मापन कुटुंब (*संवैधानिक मापन म्हणून शैक्षणिक कर्तृत्व*); **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*); [शैक्षणिक कर्तृत्व](core_05_band_participation.md#educational-agency), [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency), [प्रणालीगत कुलूपबंदी](core_05_band_continuity.md#systemic-lock-in), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [पारदर्शकता](core_05_band_oversight.md#transparency), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [बळजबरी आणि हाताळणी](core_05_band_participation.md#coercion-and-manipulation-constitutional), [भौतिकता](core_05_band_oversight.md#materiality-determination), आणि [अवलंबित्व](core_05_band_continuity.md#dependency) (अध्याय पाच).
-- पुढे: [§9.1](#91-illustrative-educational-capability-application-by-class) (*उदाहरणार्थ शैक्षणिक-क्षमता मार्गदर्शने*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*मूल्यमापन-अपारदर्शकता विसंरेखन, ओळखपत्र द्वार, आणि लादलेली-कालबाह्यता विसंरेखन*).
-- सोबत वाचा: **अनुच्छेद III-B** (*समान शैक्षणिक प्रवेश*) जिथे समान प्रवेश किंवा शैक्षणिक सुलभता गुंतलेली आहे — समान प्रवेश आणि शैक्षणिक सुलभता तिथेच मालकीने राहतात; **अनुच्छेद V-B** (*भेदभाव-निषेध*) आणि [§7](#7-nondiscrimination-evaluation) जिथे श्रेणीबद्धता किंवा नियुक्ती नमुने संरक्षित-वैशिष्ट्य भार गुंतवतात; **अनुच्छेद X-A** (*कर्तृत्व आणि हाताळणीपासून स्वातंत्र्य*) जिथे सक्तीचे किंवा हाताळणी अध्ययन आखणी भौतिक रीतीने गुंतलेली आहे; [अध्याय एक §9 उत्तरदायी व्यवस्थापन आणि वितरित समज](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*वितरित समज आणि क्षमता-निर्मिती सोबत-वाचा*).
-- उपविभाग: [§9.1](#91-illustrative-educational-capability-application-by-class) (*वर्गनिहाय उदाहरणार्थ शैक्षणिक-क्षमता अनुप्रयोग*).
+- ऊर्ध्वप्रवाह: [भाग B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेखातील मजकूर*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सहभाग मापन परिवार (*घटनात्मक मापन म्हणून शैक्षणिक कर्तृत्वक्षमता*); **अनुच्छेद IV** (*संवेदनशील-केंद्रित शिक्षणाचा अधिकार*); [शैक्षणिक कर्तृत्वक्षमता](core_05_band_participation.md#educational-agency), [अर्थपूर्ण कर्तृत्वक्षमता](core_05_band_participation.md#meaningful-agency), [प्रणालीगत अडकाव](core_05_band_continuity.md#systemic-lock-in), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [पारदर्शकता](core_05_band_oversight.md#transparency), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [जबरदस्ती आणि हाताळणी](core_05_band_participation.md#coercion-and-manipulation), [भौतिकता](core_05_band_oversight.md#materiality), आणि [अवलंबित्व](core_05_band_continuity.md#dependency) (अध्याय पाच).
+- अधःप्रवाह: [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*प्रणाली वर्गानुसार शैक्षणिक क्षमतेची उदाहरणे*); [भाग B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*अभिलेख अखंडता*); [भाग B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित-इनपुट प्रवेशद्वार*); [भाग B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*मूल्यमापन अपारदर्शकता विसंगती, पात्रता प्रमाणपत्र प्रवेशद्वार, आणि लादलेली कालबाह्यता विसंगती*).
+- यासोबत वाचा: समान प्रवेश किंवा शैक्षणिक सुलभता संबंधित असल्यास **अनुच्छेद IV-A** (*शिक्षणासाठी समान प्रवेश*) — समान प्रवेश आणि शैक्षणिक सुलभतेची जबाबदारी तिथेच राहते; क्रमवारी किंवा नियुक्तीचे नमुने संरक्षित वैशिष्ट्यांवर आधारित भार घालत असल्यास **अनुच्छेद VI-C** (*भेदभाव-निषेध*) आणि [§5.4](#54-nondiscrimination-evaluation); बळजबरीची किंवा हाताळणी करणारी अध्ययन-रचना भौतिकदृष्ट्या संबंधित असल्यास **अनुच्छेद X-A** (*कर्तृत्वक्षमता आणि हाताळणीपासून स्वातंत्र्य*); [अध्याय एक §16 उत्तरदायी व्यवस्थापनाची सखोलता](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (*वितरित समज आणि क्षमता-निर्मितीसोबत वाचावे*).
+- उपविभाग: [§5.2.1](#521-materiality-trigger-and-governing-rules) (*भौतिकता-अट आणि लागू नियम*); [§5.2.2](#522-evaluation-requirement) (*मूल्यमापनाची आवश्यकता*); [§5.2.3](#523-system-class-scaling-and-escalation) (*प्रणाली वर्गानुसार पातळी आणि वाढीव तपासणी*); [§5.2.4](#524-defects-and-misalignment) (*दोष आणि विसंगती*); [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*प्रणाली वर्गानुसार शैक्षणिक क्षमता अनुप्रयोगाची उदाहरणे*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: शाळा, थर, किंवा प्रशिक्षण प्रणाली गुण, श्रेणी, शिफारशी, नियुक्ती, किंवा ओळखपत्र द्वारांद्वारे संज्ञ प्राण्याच्या भविष्यावर गंभीर परिणाम करू शकते तेव्हा, प्रमाणनाने तपासायला हवे की संज्ञ प्राणी खरे क्षमता बांधू शकतात का, क्षमता बदलतील तेव्हा पुनर्प्रशिक्षण घेऊ शकतात का, आणि ती निर्णय पाहू, लेखापरीक्षण करू, आणि आव्हान देऊ शकतात का. अभ्यासक्रम, मूल्यमापन-निकष, आणि निधी प्रारूप इतर साधनांत राहतात; प्रमाणन पडताळते की क्षमता-निर्मिती सार आणि अध्ययन-प्रणाली सचोटी चालक लागू होतो तिथे खरे मूल्यमापित झाली. [§2.1](#21-illustrative-class-profiles-non-exhaustive) मधील उदाहरणार्थ प्रणालींसाठी कार्यान्वित उदाहरणे [§9.1](#91-illustrative-educational-capability-application-by-class) मध्ये आहेत.*
+*सोप्या भाषेत: काही शाळा, प्लॅटफॉर्म आणि प्रशिक्षण प्रणाली गुण, क्रमवारी, शिफारसी, नियुक्त्या किंवा संधी उघडणारी अथवा बंद करणारी पात्रता प्रमाणपत्रे यांद्वारे संज्ञ प्राण्यांचे भविष्य घडवू शकतात. असे असल्यास प्रमाणनाने तीन गोष्टी तपासल्या पाहिजेत: संज्ञ प्राणी तिथे खरोखर कौशल्ये घडवू शकतात का; जगाला लागणारी कौशल्ये बदलल्यावर ते पुन्हा प्रशिक्षण घेऊ शकतात का; आणि त्यांच्याविषयीचे निर्णय कसे घेतले जातात हे पाहून ते निर्णय तपासू व आव्हान देऊ शकतात का. काय शिकवावे, गुण कसे द्यावेत किंवा त्यासाठी निधी कसा द्यावा हे हा विभाग सांगत नाही; इतर दस्तऐवज ते हाताळतात. ही तरतूद लागू असेल तेव्हा कौशल्य-निर्मिती आणि अध्ययन-प्रणालीतील न्याय्यता प्रत्यक्ष तपासली गेली का एवढेच हा विभाग पाहतो. उदाहरणे: [§5.2.5 प्रणाली वर्गानुसार शैक्षणिक क्षमता अनुप्रयोगाची उदाहरणे (असमावेशक)](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
 
-**भौतिकता चालक.** हा विभाग लागू होतो जिथे भौतिक प्रभावी प्रणाली शैक्षणिक किंवा प्रशिक्षण संदर्भात संज्ञ प्राण्यांना भौतिक रीतीने श्रेणीबद्ध करते, मूल्यमापन करते, शिफारस करते, नियुक्त करते, किंवा ओळखपत्र-द्वार करते — श्रेणींकन, नियुक्ती, प्रवेश, परवाना, अभ्यासक्रम-शिफारस, अनुकूलन-अध्ययन मार्गनिर्देशन, किंवा तुलनात्मक निर्णय नामित मार्गांद्वारे धरून — किंवा प्रणाली उत्क्रांतीने हव्या क्षमता भौतिक रीतीने बदलल्या असतील तिथे सतत शिक्षण, पुनर्प्रशिक्षण, किंवा संक्रमण-आधार नामित मार्ग भौतिक रीतीने द्वार करते. प्रत्येक प्रमाणन अभिलेखावर पूर्ण शैक्षणिक-क्षमता लेखापरीक्षण मागत नाही. समान प्रवेश आणि शैक्षणिक सुलभता **अनुच्छेद III-B** (*समान शैक्षणिक प्रवेश*) द्वारे शासित राहतात आणि येथे आकुंचित होत नाहीत.
+<a id="521-materiality-trigger-and-governing-rules"></a>
+##### 5.2.1 भौतिकता-अट आणि लागू नियम
 
-प्रणाली-संरेखन प्रमाणनाने भौतिकता चालक लागू होतो तिथे **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*), [शैक्षणिक कर्तृत्व](core_05_band_participation.md#educational-agency), आणि **अनुच्छेद VI-B** (*आजीवन आणि अनुकूलन अध्ययन आणि आव्हानयोग्यता*) खाली **शैक्षणिक क्षमता आणि अध्ययन-प्रणाली सचोटी** मूल्यमापन केले पाहिजे. प्रामाणिक अर्थ, मूल्यमापन घटक, आणि अनुपालन-भंग शिस्त अध्याय पाच आणि **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) मध्ये राहतात; अभ्यासक्रम, ओळखपत्र सूची, मूल्यमापन-निकष, आणि संस्थात्मक निधी यांत्रिकी लागू असतील तिथे समाविष्ट साधनांत राहतात. हा विभाग प्रमाणनाने काय पडताळले आणि नोंदले पाहिजे ते सांगतो; तो ती संक्रियात्मक यांत्रिकी पुन्हा सांगत नाही किंवा विशिष्ट अभ्यासक्रम, ओळखपत्र स्वरूप, किंवा मूल्यमापन आखणी विहित करत नाही.
+संज्ञ प्राण्यांच्या जीवनावर मोठा परिणाम करणारी प्रणाली शिक्षण किंवा प्रशिक्षणात पुढीलपैकी काही करते तेव्हा हा विभाग लागू होतो:
 
-**मूल्यमापन अपेक्षा.** प्रमाणन प्रक्रिया ठरवे की प्रणाली भौतिक रीतीने अवलंब करते त्या अध्ययन आणि ओळखपत्र नामित मार्ग व्यावहारिक क्षमता-निर्मिती प्रवेश निर्माण करतात का — फक्त ओळखपत्र प्रतीकवाद नाही — आणि हव्या क्षमता भौतिक रीतीने बदलतील तिथे संज्ञ प्राणी व्यवहार्य पुनर्प्रशिक्षण, सतत-शिक्षण, आणि संक्रमण-आधार संधी टिकवतात का. मूल्यमापनाने **अनुच्छेद VI-B** (*आजीवन आणि अनुकूलन अध्ययन आणि आव्हानयोग्यता*) खाली भौतिक प्रभावी श्रेणीबद्धता, मूल्यमापन, शिफारस, आणि नियुक्ती तर्काची पारदर्शकता, लेखापरीक्षण-योग्यता, आणि आव्हानयोग्यताही तपासायला हवी, [भौतिकता](core_05_band_oversight.md#materiality-determination) आणि [अवलंबित्व](core_05_band_continuity.md#dependency) प्रमाणात. मूल्यमापनाने अपारदर्शक किंवा अ-समीक्षणीय प्रतिनिधी, क्षमता-निर्मिती हरवणारे ओळखपत्र द्वार, कर्तृत्व रद्द करणारी लादलेली कालबाह्यता किंवा कुलूपबंदी, सक्तीचे किंवा हाताळणी अध्ययन आखणी, आणि **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) संयुक्त लागू होतो तिथे आव्हानयोग्यता किंवा आजीवन अनुकूलन काढणारे विभाजन ओळखायला हवे. मूल्यमापनाने कार्यात्मक परिणाम प्रतिबिंबित केला पाहिजे, नाममात्र प्रवेश लेबले, घोषित अध्यापन हेतू, किंवा फक्त ओळखपत्र औपचारिकता नाही.
+- संज्ञ प्राण्यांची लक्षणीय क्रमवारी लावते, मूल्यमापन करते, शिफारस करते, नियुक्त करते किंवा त्यांच्यासाठी पात्रता प्रमाणपत्रांची प्रवेशद्वारपाल बनते — उदाहरणार्थ गुण देणे, नियुक्ती, प्रवेश, परवाना, अभ्यासक्रम शिफारसी, अनुकूली-अध्ययन मार्गनियोजन किंवा तत्सम निर्णय; किंवा
+- प्रणालीतील बदलांमुळे संज्ञ प्राण्यांना आवश्यक कौशल्ये मोठ्या प्रमाणात बदलली असताना, पुढील शिक्षण, पुनर्प्रशिक्षण किंवा संक्रमण-सहाय्याचा प्रवेश लक्षणीयरीत्या नियंत्रित करते.
 
-**अभिलेख अपेक्षा.** प्रमाणन अभिलेखाने अवलंबित **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) भौतिकता चालक, भौतिक रीतीने अवलंबित श्रेणीबद्धता, मूल्यमापन, शिफारस, नियुक्ती, ओळखपत्र-द्वार, आणि पुनर्प्रशिक्षण नामित मार्गांसाठी मूल्यमापन व्याप्ती, क्षमता-निर्मिती आणि पुनर्प्रशिक्षण-मार्ग निष्कर्ष, मूल्यमापन-पारदर्शकता आणि आव्हानयोग्यता निष्कर्ष, भौतिक असेल तिथे प्रतिनिधी-निरोध आणि हाताळणी-निरोध निष्कर्ष, अनिश्चितता, हवे तिथे संज्ञ-मंच किंवा इतर नेमलेले घटक निष्कर्ष, आणि सतत क्षमता-पराजय, मूल्यमापन-अपारदर्शकता, किंवा लादलेल्या कालबाह्यतेला जोडलेल्या कोणत्याही अटी, अवलंब मर्यादा, किंवा पुनर्उघडणे चालक सांगितले पाहिजेत.
+शिक्षणातील समान प्रवेश आणि सुलभता **अनुच्छेद IV-A** (*शिक्षणासाठी समान प्रवेश*) यांच्याच अखत्यारीत राहतात; येथे त्यांना संकुचित करणारे काहीही नाही.
 
-**प्रणाली वर्गासोबत संयुक्त प्रमाणीकरण.** शैक्षणिक क्षमता आणि अध्ययन-प्रणाली सचोटी मूल्यमापन खोली [§2](#2-system-class-evaluation) आणि [भौतिक दाव](core_00_preamble.md#material-stake) खाली नेमलेल्या प्रणाली वर्गानुसार प्रमाणित झाली पाहिजे. शैक्षणिक किंवा प्रशिक्षण संदर्भात संज्ञ प्राण्यांना भौतिक रीतीने श्रेणीबद्ध करतात, मूल्यमापन करतात, शिफारस करतात, नियुक्त करतात, किंवा ओळखपत्र-द्वार करतात अशा उच्च-वर्ग प्रणालींना प्रमाणबद्ध रीतीने अधिक मजबूत पुरावा हवा की क्षमता-निर्मिती सार, पुनर्प्रशिक्षण प्रवेश, आणि अध्ययन-प्रणाली पारदर्शकता दावाने नव्हे तर मूल्यमापित झाली.
+भौतिकता-अट लागू झाल्यास प्रमाणनाने **शैक्षणिक क्षमता आणि अध्ययन-प्रणाली अखंडता** — म्हणजे प्रणाली खरोखर क्षमता घडवते आणि संज्ञ प्राण्यांशी न्याय्य वागते का — यांचे पुढीलनुसार मूल्यमापन केले पाहिजे:
 
-**दोष आणि विसंरेखन.** **अनुच्छेद VI-B** (*आजीवन आणि अनुकूलन अध्ययन आणि आव्हानयोग्यता*) समीक्षा मागत असेल तिथे भौतिक श्रेणीबद्धता, मूल्यमापन, शिफारस, किंवा नियुक्ती तर्क लपवणे, चुकीचे दर्शवणे, खंडित करणे, किंवा ढकलणे; मूल्यांकनीय क्षमता-निर्मिती विश्लेषणाशिवाय ओळखपत्र औपचारिकता, एकत्रित पूर्णता मेट्रिक, किंवा चालक स्व-अहवाल पुरेसे मानणे; दस्तऐवजीकृत मूल्यमापन-अपारदर्शकता, ओळखपत्र द्वार, लादलेली कालबाह्यता, किंवा हाताळणी अध्ययन आखणी संवैधानिक संरेखनाला भौतिक रीतीने धोका देत असताना चालू अवलंब प्रमाणित करणे; किंवा **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) ची क्षमता-निर्मिती आणि **अनुच्छेद VI-B** (*आजीवन आणि अनुकूलन अध्ययन आणि आव्हानयोग्यता*) ची पारदर्शकता शिस्त पूर्ण न करता पुनर्प्रशिक्षण प्रवेश किंवा आव्हानयोग्यता हरवण्यासाठी कार्यक्षमता, वैयक्तिकीकरण, किंवा प्रमाण चौकटी वापरणे प्रमाणन दोष मानावे. ते [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली सशर्त मान्यता, स्थगित मान्यता, अमान्यता, माघार, किंवा पुनर्उघडणे आधार देऊ शकतात.
+- **अनुच्छेद IV** (*संवेदनशील-केंद्रित शिक्षणाचा अधिकार*);
+- **अनुच्छेद IV-C** (*आजीवन आणि अनुकूली अध्ययन व आव्हानयोग्यता*); आणि
+- [शैक्षणिक कर्तृत्वक्षमता](core_05_band_participation.md#educational-agency).
 
-<a id="91-illustrative-educational-capability-application-by-class"></a>
+शिक्षण स्वतः कसे चालावे याचे नियम हा विभाग ठरवत नाही. काय शिकवायचे, कोणती पात्रता प्रमाणपत्रे असतील, कामाला गुण कसे द्यायचे आणि शाळांना निधी कसा द्यायचा हे निर्णय समाविष्ट होऊ शकणाऱ्या इतर दस्तऐवजांत होतात; प्रमाणन अभ्यासक्रम, पात्रता प्रमाणपत्राचा नमुना किंवा गुणांकन पद्धत निवडत नाही.
 
-<a id="91-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-#### 9.1 वर्गनिहाय उदाहरणार्थ शैक्षणिक-क्षमता अनुप्रयोग (असंपूर्ण)
+<a id="522-evaluation-requirement"></a>
+##### 5.2.2 मूल्यमापनाची आवश्यकता
 
-*सोप्या भाषेत: [§3.8](#38-illustrative-whole-system-application-by-class) ते [§8.1](#81-illustrative-accessibility-application-by-class) त्याच तीन प्रणाली आधीच्या मूल्यमापन क्षेत्रांतून चालवतात. हा उपविभाग प्रत्येकासाठी **शैक्षणिक क्षमता आणि अध्ययन-प्रणाली सचोटी** मूल्यमापनाचा अर्थ काय ते दाखवतो — कोणते श्रेणीबद्धता, मूल्यमापन, ओळखपत्र, आणि पुनर्प्रशिक्षण नामित मार्ग मोजतात, **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) भौतिकता चालक लागू होतो तेव्हा प्रमाणनाने काय तपासावे, आणि अभिलेखावर काय दिसले पाहिजे. अध्याय पाच आणि **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) अजून प्रामाणिक शैक्षणिक-कर्तृत्व आणि अध्ययन-प्रणाली नियम मालकीने धरतात; अभ्यासक्रम, ओळखपत्र सूची, मूल्यमापन-निकष, आणि निधी प्रारूप इतर साधनांत, नंतरच्या संग्रह भरघोसांत, किंवा अंगीकार साधनांत राहू शकतात; ही मार्गदर्शने ती यांत्रिकी विहित करत नाहीत. समान प्रवेश आणि शैक्षणिक सुलभता **अनुच्छेद III-B** (*समान शैक्षणिक प्रवेश*) मालकीने राहतात आणि येथे आकुंचित होत नाहीत.*
+संज्ञ प्राणी प्रत्यक्षात ज्या अध्ययन आणि पात्रता-प्रमाणपत्र मार्गांवर अवलंबून असतात, ते त्यांना कौशल्ये घडवण्याचा खरा मार्ग देतात का — केवळ कागदावर चांगले दिसणारे प्रमाणपत्र नव्हे — आणि आवश्यक कौशल्यांत लक्षणीय बदल झाल्यावर पुनर्प्रशिक्षण, सतत अध्ययन आणि संक्रमणातून मार्ग काढण्याचे व्यवहार्य उपाय त्यांच्याकडे राहतात का, हे प्रमाणनाने तपासले पाहिजे.
 
-**वर्ग A — नगरपालिका सुरक्षित पिण्याचे पाणी नियंत्रण आणि दूरमापन.** नगरपालिका मालकीची प्रक्रिया-आणि-वितरण प्रणाली चालक परवाना, सुरक्षा-प्रमाणपत्र, क्षमता मूल्यमापन, आणि प्रोटोकॉल-पुनर्प्रशिक्षण नियमांद्वारे कोण जीवनरक्षा-गंभीर संयंत्र कार्ये चालवू शकतो ते द्वार करते — भूमिका-ओळखपत्र नामित मार्ग जे ठरवतात संज्ञ प्राणी सुरक्षित पाणी चालवण्याची क्षमता बांधू आणि टिकवू शकतात का, आणि ती मूल्यमापने पाहता, लेखापरीक्षण करता, आणि आव्हान देता येतात का.
+**अनुच्छेद IV-C** (*आजीवन आणि अनुकूली अध्ययन व आव्हानयोग्यता*) नुसार प्रणालीचे क्रमवारी, गुणांकन, शिफारस आणि नियुक्तीविषयक निर्णय पाहता, लेखापरीक्षण करता आणि आव्हान देता येतात का हेही समीक्षकांनी तपासले पाहिजे. ही तपासणी किती कठोर असावी हे दाव किती मोठा आहे ([भौतिकता](core_05_band_oversight.md#materiality)) आणि संज्ञ प्राणी प्रणालीवर किती अवलंबून आहेत ([अवलंबित्व](core_05_band_continuity.md#dependency)) यावर ठरते.
 
-- **व्याप्तीतील अध्ययन आणि ओळखपत्र नामित मार्ग:**
-  - चालक परवाना, नूतनीकरण, आणि निलंबन;
-  - सुरक्षा-प्रमाणपत्र आणि आणीबाणी-प्रतिसाद क्षमता मूल्यमापन;
-  - रसायनशास्त्र, नियंत्रण तर्क, किंवा नियामक अपेक्षा बदलतील तेव्हा प्रोटोकॉल आणि दूरमापन पुनर्प्रशिक्षण;
-  - मूल्यमापित क्षमतेवर आधारित संयंत्र पाळ्या, अधिक वेळ, किंवा प्रमुख-चालक भूमिकांत श्रेणीबद्धता किंवा नियुक्ती;
-  - अपयशी मूल्यमापन किंवा निलंबित ओळखपत्रांसाठी आव्हान आणि सुधारक-प्रशिक्षण मार्ग.
-- **मूल्यमापनाने काय तपासावे:**
-  - ते अध्ययन आणि ओळखपत्र नामित मार्ग सुरक्षित-पाणी नियंत्रण चालवण्याची व्यावहारिक क्षमता निर्माण करतात का — फक्त ओळखपत्र प्रतीकवाद किंवा पूर्णता-प्रमाणपत्र मोजणी नाही;
-  - हव्या क्षमता भौतिक रीतीने बदलतील तेव्हा चालक व्यवहार्य पुनर्प्रशिक्षण आणि संक्रमण आधार टिकवतात का;
-  - श्रेणीबद्धता, मूल्यमापन, आणि ओळखपत्र-द्वार तर्क **अनुच्छेद VI-B** (*आजीवन आणि अनुकूलन अध्ययन आणि आव्हानयोग्यता*) खाली पारदर्शक, लेखापरीक्षणयोग्य, आणि आव्हानयोग्य आहे का;
-  - अपारदर्शक प्रतिनिधी, द्वार, किंवा लादलेली कालबाह्यता ज्या कर्मचाऱ्यांची क्षमता जीवनरक्षा आवश्यक द्वार करते त्यांच्या क्षमता-निर्मितीला हरवते का;
-  - अयोग्य किंवा कुलूपबंद चालक सुरक्षित पाणी बंद करू शकतील तिथे मूल्यमापन खोली **वर्ग A** दावाशी जुळते का; आणि
-  - कोणतीही मूल्यमापन मर्यादा घोषित अध्यापन हेतू एकट्याऐवजी दस्तऐवजीकृत क्षमता-निर्मिती सार पूर्ण करते का.
-- **अभिलेखाने काय दाखवावे:**
-  - अवलंबित **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) भौतिकता चालक;
-  - भौतिक रीतीने अवलंबित परवाना, मूल्यमापन, ओळखपत्र-द्वार, आणि पुनर्प्रशिक्षण नामित मार्गांसाठी मूल्यमापन व्याप्ती;
-  - **वर्ग A** खोलीवर क्षमता-निर्मिती आणि पुनर्प्रशिक्षण-मार्ग निष्कर्ष;
-  - मूल्यमापन-पारदर्शकता आणि आव्हानयोग्यता निष्कर्ष;
-  - भौतिक असेल तिथे प्रतिनिधी-निरोध आणि हाताळणी-निरोध निष्कर्ष;
-  - अनिश्चितता;
-  - हवे तिथे संज्ञ-मंच किंवा इतर घटक निष्कर्ष; आणि
-  - जीवनरक्षा-गंभीर संक्रिया द्वार होतात तिथे सतत मूल्यमापन-अपारदर्शकता, ओळखपत्र द्वार, किंवा लादलेल्या कालबाह्यतेला जोडलेल्या अटी किंवा पुनर्उघडणे चालक.
+समीक्षकांनी पुढील बाबींकडे लक्ष द्यावे:
 
-**वर्ग B — प्रादेशिक क्लिनिकल अभिलेख विनिमय.** आरोग्य-माहिती विनिमय आणि त्याचे सहभागी द्वारे चिकित्सक ओळखपत्र पडताळणी, विशेषाधिकार श्रेणीबद्धता, रुग्णालय किंवा दवाखाना नियुक्ती, गोपनीयता आणि break-glass प्रशिक्षण, आणि सतत-शिक्षण अपेक्षा यांद्वारे क्लिनिकल व्यवहार आणि आरोग्यसेवा प्रवेश द्वार करतात जे भौतिक रीतीने ठरवतात कोण जाळ्यावर व्यवहार करू शकतो आणि नियम बदलतील तेव्हा कर्मचारी किती जलद पुनर्प्रशिक्षण घेऊ शकतात.
+- कोणीही तपासू शकत नाही अशा लपवलेल्या पर्यायी निर्देशकांवर (प्रॉक्सी) आधारित गुण किंवा क्रमवारी;
+- संज्ञ प्राण्यांना कौशल्य प्रत्यक्ष शिकण्यापासून रोखणारे पात्रता प्रमाणपत्र प्रवेशद्वार;
+- संज्ञ प्राण्यांचा स्वतःच्या मार्गावरील आवाज हिरावून घेणारी लादलेली कालबाह्यता किंवा अडकाव;
+- बळजबरीची किंवा हाताळणी करणारी अध्ययन-रचना; आणि
+- **अनुच्छेद IV** (*संवेदनशील-केंद्रित शिक्षणाचा अधिकार*) लागू असतानाही निर्णयांना आव्हान देण्याची किंवा बदलाशी जुळवून घेण्याची क्षमता काढून घेणाऱ्या मार्गांत संज्ञ प्राण्यांची विभागणी.
 
-- **व्याप्तीतील अध्ययन आणि ओळखपत्र नामित मार्ग:**
-  - चिकित्सक ओळखपत्र पडताळणी आणि विशेषाधिकार श्रेणीबद्धता;
-  - विनिमयाशी बांधलेला रुग्णालय, दवाखाना, किंवा निवास नियुक्ती तर्क;
-  - गोपनीयता, संमती, आणि break-glass प्रशिक्षण मूल्यमापने;
-  - जाळे सहभागासाठी सतत-शिक्षण आणि क्षमता-नूतनीकरण अपेक्षा;
-  - विशेष मॉड्यूल, सतत वैद्यकीय शिक्षण पट्या, किंवा सुधारक प्रशिक्षणात शिफारस किंवा अनुकूलन मार्गनिर्देशन;
-  - नाकारलेले विशेषाधिकार, अपयशी मूल्यमापन, किंवा रोखलेल्या प्रवेशासाठी आव्हान मार्ग.
-- **मूल्यमापनाने काय तपासावे:**
-  - ओळखपत्र आणि नियुक्ती नामित मार्ग व्यावहारिक क्लिनिकल क्षमता आणि जाळे सहभाग निर्माण करतात का — फक्त नाममात्र HIPAA-प्रशिक्षण खूणपेटी किंवा पूर्णता डॅशबोर्ड नाहीत;
-  - संमती, मार्गनिर्देशन, किंवा आणीबाणी-प्रवेश नियम भौतिक रीतीने बदलतील तेव्हा चिकित्सक आणि HIM कर्मचारी व्यवहार्य पुनर्प्रशिक्षण टिकवतात का;
-  - श्रेणीबद्धता, मूल्यमापन, शिफारस, आणि नियुक्ती तर्क **अनुच्छेद VI-B** (*आजीवन आणि अनुकूलन अध्ययन आणि आव्हानयोग्यता*) खाली पारदर्शक, लेखापरीक्षणयोग्य, आणि आव्हानयोग्य आहे का;
-  - अपारदर्शक वापर, «योग्यता», किंवा प्रतिष्ठा प्रतिनिधी क्षमता-निर्मिती हरवतात किंवा सहभागींना अ-समीक्षणीय पट्यांत कुलूपबंद करतात का;
-  - ओळखपत्र किंवा नियुक्ती तर्क आरोग्यसेवा प्रवेश, रोजगार, किंवा परवाना-समीप व्यवहार द्वार करतो तिथे मूल्यमापन खोली **वर्ग B** संचालन गंभीरतेशी जुळते का; आणि
-  - मूल्यांकनीय क्षमता-निर्मिती विश्लेषणाशिवाय आव्हानयोग्यता हरवण्यासाठी कार्यक्षमता किंवा वैयक्तिकीकरण चौकटी वापरल्या गेल्या का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) चालक आणि नामित-मार्ग व्याप्ती;
-  - चिकित्सक आणि दवाखाना नामित मार्गांसाठी क्षमता-निर्मिती आणि पुनर्प्रशिक्षण-मार्ग निष्कर्ष;
-  - मूल्यमापन-पारदर्शकता आणि आव्हानयोग्यता निष्कर्ष;
-  - भौतिक असेल तिथे प्रतिनिधी-निरोध आणि हाताळणी-निरोध निष्कर्ष;
-  - हवे तिथे अनिश्चितता आणि घटक निष्कर्ष; आणि
-  - ओळखपत्र, विशेषाधिकार, किंवा प्रशिक्षण अडथळे आता आणीबाणी कर्मचारी किंवा क्लिनिकल व्यवहार जीवनरक्षा-संबंधित कालमर्यादेत रोखतील किंवा दैनंदिन संचालन अवलंब भौतिक रीतीने हरवतील तर पुनर्उघडणे चालक.
+समीक्षकांनी प्रवेशाची लेबले, रचनाकारांनी सांगितलेला हेतू किंवा कागदपत्रे योग्य दिसतात का यावर नव्हे, तर प्रणाली प्रत्यक्षात काय करते यावर निर्णय घ्यावा.
 
-**वर्ग C — संस्थात्मक वेळापत्रक आणि समन्वय थर.** बहु-संस्था वेळापत्रक थर रुग्णालये, शाळा, आणि सार्वजनिक संस्थांवर प्रशिक्षण जागा, अभिमुखता, सतत शिक्षण, आणि व्यावसायिक-विकास प्राधान्य श्रेणीबद्ध, शिफारस, आणि वाटतो — थर स्वतः जीवनरक्षा-गंभीर उपयुक्तता नसला तरी.
+<a id="523-system-class-scaling-and-escalation"></a>
+##### 5.2.3 प्रणाली वर्गानुसार पातळी आणि वाढीव तपासणी
 
-- **व्याप्तीतील अध्ययन आणि ओळखपत्र नामित मार्ग:**
-  - प्रशिक्षण-जागा आणि अभिमुखता आरक्षण;
-  - सतत-शिक्षण आणि व्यावसायिक-विकास श्रेणीबद्धता किंवा शिफारस;
-  - अभ्यासक्रम, गट, किंवा प्रशिक्षक जुळणी;
-  - वेळापत्रक पात्रतेशी बांधलेल्या ओळखपत्र-कालबाह्यता आठवणी;
-  - कर्मचारी प्रीमियम किंवा सुधारक पट्यांत मार्गनिर्देशित करणारी व्युत्पन्न वैशिष्ट्ये;
-  - लहान संस्थांना पसंतीच्या प्रशिक्षण क्षमतेपासून वगळणारे API किंवा धोरण नियम.
-- **मूल्यमापनाने काय तपासावे:**
-  - **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) भौतिकता चालक लागू होतो का — समन्वय अल्गोरिथम अभ्यासक्रम भौतिक रीतीने शिफारस करतात, व्यावसायिक-विकास प्रवेश श्रेणीबद्ध करतात, किंवा ओळखपत्र किंवा करिअर मार्ग आकारणाऱ्या प्रशिक्षण जागा द्वार करतात तिथे धरून;
-  - शिफारशी आणि जागा वाटप ओळखपत्र प्रतीकवादाऐवजी क्षमता-निर्मिती प्रवेश निर्माण करतात का;
-  - मूल्यमापन, श्रेणीबद्धता, किंवा शिफारस तर्क पारदर्शक, लेखापरीक्षणयोग्य, आणि आव्हानयोग्य आहे का;
-  - चालकाने थर **वर्ग C** असल्याने समीक्षेखाली मानला का, प्रशिक्षण-मार्गनिर्देशन परिणाम काम, शिक्षण, किंवा परवाना मार्ग भौतिक रीतीने आकारत असताना; आणि
-  - थर काम, क्लिनिकल विशेषाधिकार, किंवा जीवनरक्षा-आवश्यक कर्मचारी ओळखपत्रांसाठी संचालनाने आवश्यक बनेल तिथे **पुनर्वर्गीकरण पहारा** हवा का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) चालक लागू होतो का आणि का;
-  - **वर्ग C** समन्वय धोक्याप्रमाणे प्रमाणबद्ध श्रेणीबद्धता, शिफारस, नियुक्ती, आणि पुनर्प्रशिक्षण नामित मार्गांची मूल्यमापन व्याप्ती;
-  - भौतिक असतील तिथे क्षमता-निर्मिती, पारदर्शकता, आणि आव्हानयोग्यता निष्कर्ष — प्रशिक्षण «ऐच्छिक» आहे असा रिकामा दावा नाही;
-  - प्रशिक्षण-मार्गनिर्देशन परिणाम अधिरोहण पूर्वसूचित करतात तिथे एकाग्रता आणि अडथळा निष्कर्ष;
-  - अवलंबित्व मजबूत होते तिथे व्यक्त **पुनर्वर्गीकरण पहारा**; आणि
-  - वर्ग किंवा जीवनरक्षा-आवश्यक समन्वय भूमिका बदलली तर अधिरोहित शैक्षणिक-क्षमता समीक्षेचे संकेत.
+तपासणीची खोली प्रणालीच्या वर्गावर अवलंबून असते. भौतिकता-अट पूर्ण झाल्यावर:
 
-**वर्गांवरून वाचन.** भौतिकता चालक पूर्ण होतो तिथे तीच **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षणाचा अधिकार*) आणि अध्याय पाच शैक्षणिक-क्षमता शिस्त लागू होते; वर्ग मूल्यमापन खोली बदलतो, ओळखपत्र औपचारिकता किंवा अपारदर्शक मूल्यमापन पुरेसे मानण्याची परवानगी नाही. ज्याच्या चालक परवाना किंवा सुरक्षा मूल्यमापनाने सुरक्षित संयंत्र संचालन बंद होऊ शकते अशा **वर्ग A** पाणी प्रणालीला अभिलेखावर सर्वात मजबूत क्षमता-निर्मिती, पुनर्प्रशिक्षण, आणि आव्हानयोग्यता पुरावा हवा — सामान्य प्रशिक्षण-धोरण विधान नाही. ज्याच्या विशेषाधिकार, नियुक्ती, किंवा सतत वैद्यकीय शिक्षण तर्क क्लिनिकल व्यवहार द्वार करतात अशा **वर्ग B** विनिमयाने संचालन गंभीरतेवर मूल्यमापन पारदर्शकता आणि पुनर्प्रशिक्षण प्रवेश दस्तऐवजीत केले पाहिजेत. **वर्ग C** वेळापत्रक थराने प्रशिक्षण-जागा, शिफारस, किंवा ओळखपत्र-मार्गनिर्देशन तर्क सहभागींना भौतिक रीतीने श्रेणीबद्ध किंवा वगळत असताना प्रतीकात्मक शिक्षण परिच्छेद ठेवू नये; समन्वय काम किंवा परवान्यासाठी संचालनाने आवश्यक होते तेव्हा प्रमाणनाने [§2](#2-system-class-evaluation) आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली समीक्षा आणि पुनर्वर्गीकरण अधिरोहित केले पाहिजे, जीवनरक्षा-आवश्यक कर्मचारी ओळखपत्रे द्वार होतात तिथे **वर्ग A** पर्यंत वर धरून. त्याच प्रणालींसाठी विश्वासार्हता मार्गदर्शने [§10.1](#101-illustrative-trustworthiness-application-by-class) मध्ये आहेत.
+- संज्ञ प्राण्यांना जगण्यासाठी आवश्यक पायाभूत सुविधा चालवणाऱ्या संचालकांची प्रणाली परीक्षा घेत असेल किंवा त्यांना परवाने देत असेल, आणि तिचे निर्णय त्या पायाभूत सुविधेचे सुरक्षित संचालन रोखू शकत असतील, तर प्रत्यक्ष कौशल्यनिर्मिती, पुनर्प्रशिक्षण आणि आव्हान देण्याची क्षमता यांचा सर्वात ठोस पुरावा अभिलेखात दाखवला पाहिजे. सर्वसाधारण प्रशिक्षण धोरण पुरेसे नाही.
+- प्रणालीचे विशेषाधिकार, नियुक्ती किंवा सतत-शिक्षण नियम कोणाला वैद्यकीय भूमिकांत काम करता येईल हे ठरवत असतील, तर मूल्यमापनांची तपासणी कशी करता येईल आणि संज्ञ प्राणी पुन्हा प्रशिक्षण कसे घेऊ शकतात हे अभिलेखात दाखवले पाहिजे. काम जितके अधिक निर्णायक, तितके अधिक तपशील आवश्यक.
+- प्रशिक्षण जागा, शिफारस किंवा पात्रता-प्रमाणपत्र मार्गनियोजन तर्काने सहभागींना लक्षणीय क्रमवारीत टाकले किंवा बाहेर ठेवले, तर शिक्षणावरील छोटा परिच्छेद पुरेसा नाही.
+- काम करण्यासाठी किंवा परवाना मिळवण्यासाठी संज्ञ प्राण्यांना प्रणालीतूनच जावे लागत असेल, तर प्रमाणनाने अधिक बारकाईने तपासून [§2 प्रणाली वर्ग मूल्यमापन](#2-system-class-evaluation) आणि [भाग B §7 प्रमाणन परिणाम](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) अंतर्गत प्रणाली वर्गाचा पुनर्विचार करावा. जीवनरक्षणासाठी आवश्यक कर्मचारीवर्गाची पात्रता प्रमाणपत्रे प्रवेश-नियंत्रित असतील, तर **Class A** कडे वर नेणे यात समाविष्ट आहे.
 
-<a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+<a id="524-defects-and-misalignment"></a>
+##### 5.2.4 दोष आणि विसंगती
 
-### 10. विश्वासार्हता आणि प्रणाली-अवलंब सचोटी मूल्यमापन
+पुढील प्रत्येक बाब प्रमाणन दोष ठरते:
+
+- **अनुच्छेद IV-C** (*आजीवन आणि अनुकूली अध्ययन व आव्हानयोग्यता*) तर्क खुला ठेवून तपासणी मागत असताना महत्त्वपूर्ण क्रमवारी, मूल्यमापन, शिफारस किंवा नियुक्तीमागील तर्क लपवणे, चुकीचा मांडणे, विखुरणे किंवा दुसरीकडे सोपवणे;
+- संज्ञ प्राणी प्रत्यक्ष कौशल्ये घडवत आहेत का हे तपासल्याशिवाय पात्रता प्रमाणपत्रे, एकूण पूर्णता दर किंवा संचालकाचे म्हणणे त्यांच्या अध्ययनाचा पुरावा मानणे;
+- अपारदर्शक मूल्यमापने, पात्रता प्रमाणपत्र प्रवेशद्वार, लादलेली कालबाह्यता किंवा हाताळणी करणारी अध्ययन-रचना यांसारख्या नोंदवलेल्या समस्या घटनात्मक संरेखनाला लक्षणीय धोका देत असताना संज्ञ प्राणी प्रणालीवर अवलंबून राहू शकतात असे प्रमाणित करणे; आणि
+- प्रणालीने **अनुच्छेद IV** (*संवेदनशील-केंद्रित शिक्षणाचा अधिकार*) अंतर्गत कौशल्यनिर्मितीच्या आणि **अनुच्छेद IV-C** (*आजीवन आणि अनुकूली अध्ययन व आव्हानयोग्यता*) अंतर्गत पारदर्शकतेच्या आवश्यकता पूर्ण केलेल्या नसताना, पुनर्प्रशिक्षण किंवा निर्णयांना आव्हान देण्याची क्षमता नाकारण्यासाठी कार्यक्षमता, वैयक्तिकीकरण किंवा प्रमाणाचा बहाणा करणे.
+
+<a id="53-proportionate-cross-system-support-evaluation"></a>
+
+#### 5.3 प्रमाणबद्ध प्रणाली-आंतर सहाय्याचे मूल्यमापन
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [भाग ब §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*अभिलेख आशय*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); देखरेख मापन कुटुंब (*संवैधानिक मापन म्हणून सत्य आणि ज्ञानविषयक अखंडता; विश्वासार्हता आणि विश्वास क्षय आणि भ्रामक अवलंब*); **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*); [विश्वासार्हता](core_05_band_continuity.md#trustworthiness), [विश्वास](core_05_band_continuity.md#trust), [विश्वास क्षय आणि भ्रामक अवलंब](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [निवारण आणि सुधारणा](core_05_band_accountability.md#redress-and-remediation-constitutional), [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment), [उत्क्रमणीयता](core_05_band_continuity.md#reversibility-constitutional), [भौतिकता](core_05_band_oversight.md#materiality-determination), [अवलंबित्व](core_05_band_continuity.md#dependency), आणि [धोका](core_05_band_continuity.md#risk) (अध्याय पाच).
-- पुढे: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*उदाहरणार्थ विश्वासार्हता मार्गदर्शने*); [भाग ब §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता*); [भाग ब §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*खोटा-विश्वास विसंरेखन, विकृत-प्रोत्साहन विसंरेखन, आणि पुनर्प्राप्ती-सचोटी विसंरेखन*).
-- सोबत वाचा: **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*) आणि **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*) — आव्हान आणि लेखापरीक्षण अधिकार तिथेच मालकीने राहतात; **अनुच्छेद XIII-E** (*उच्च-स्वायत्तता प्रणाली आणि साधन-मध्यस्थ प्रक्रिया अखंडता*) जिथे उच्च-स्वायत्तता प्रणाली शासन किंवा सत्यापन नामित मार्ग भौतिक रीतीने मध्यस्थ करतात; **अनुच्छेद III-A** (*जीवनरक्षा*) जिथे चालू प्रणाली अवलंब जीवनरक्षा-आवश्यक प्रवेशावर परिणाम करेल; [अध्याय एक §4 विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) आणि [अध्याय एक §3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- उपविभाग: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*वर्गनिहाय उदाहरणार्थ विश्वासार्हता अनुप्रयोग*).
+- ऊर्ध्वप्रवाह: [भाग B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेखातील मजकूर*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सातत्य मापन परिवार (*घटनात्मक मापन म्हणून प्रमाणबद्ध प्रणाली-आंतर सहाय्य*); **अनुच्छेद V-A** (*अवलंबित्व नकाशांकन आणि संसाधन-प्रवाह पारदर्शकता*) आणि **अनुच्छेद V-B** (*प्रणालींमधील न्याय्यता आणि शाश्वतता*); [प्रणालींमधील निष्कर्षण](core_05_band_continuity.md#cross-system-extraction), [प्रमाणबद्ध प्रणाली-आंतर सहाय्य](core_05_band_continuity.md#proportionate-cross-system-support), [अवलंबित्व](core_05_band_continuity.md#dependency), [मौलिक न्याय्यता](core_05_band_participation.md#substantive-fairness), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), [परिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint), [शाश्वतता](core_05_band_continuity.md#sustainability) (अध्याय पाच).
+- अधःप्रवाह: [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*प्रणाली वर्गानुसार प्रणाली-आंतर सहाय्याच्या टप्प्याटप्प्याच्या उदाहरणे*); [भाग B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*अभिलेख अखंडता*); [भाग B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित-इनपुट प्रवेशद्वार*); [भाग B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*संसाधन-प्रवाहाची चुकीची मांडणी, निष्कर्षण विसंगती आणि अपुरे सहाय्य*).
+- यासोबत वाचा: **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*संसाधन वाटप आणि निधीचे उत्तरदायी व्यवस्थापन*), **CS-8** (*अनुकूली शाश्वतता आणि परिसंस्था लवचिकता*); एकाग्रता, अवलंबित्व किंवा प्रोत्साहन-मार्गन यांचा **अनुच्छेद V-B** (*प्रणालींमधील न्याय्यता आणि शाश्वतता*) शी संबंध येतो तेव्हा [*शासन वास्तुरचना, देखरेख, अवलंबित्व, विकेंद्रीकरण, एकाग्रता, बाजार रचना आणि निर्गमन-मार्ग अखंडता*](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
+- उपविभाग: [§5.3.1](#531-materiality-trigger) (*भौतिकता-अट*); [§5.3.2](#532-meaning-of-extraction) (*निष्कर्षणाचा अर्थ*); [§5.3.3](#533-governing-rules) (*लागू नियम*); [§5.3.4](#534-evaluation-requirement) (*मूल्यमापनाची आवश्यकता*); [§5.3.5](#535-map-and-record-integrity) (*नकाशा आणि अभिलेख अखंडता*); [§5.3.6](#536-system-class-scaling-and-escalation) (*प्रणाली वर्गानुसार पातळी आणि वाढीव तपासणी*); [§5.3.7](#537-defects-and-misalignment) (*दोष आणि विसंगती*); [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*प्रणाली वर्गानुसार प्रणाली-आंतर सहाय्याच्या वापराची उदाहरणे*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रणाली भौतिक रीतीने ठरवते संज्ञ प्राणी तिने काय सांगते आणि करते त्यावर विश्वास ठेवू शकतात का — आणि तो विश्वास तुटेल तेव्हा परत आव्हान देऊ शकतात का — तेव्हा प्रमाणनाने तपासायला हवे की अवलंब खरे समर्थनीय, प्रामाणिकपणे प्रगट, आणि दुरुस्त करता येणारा आहे का. विश्वसनीयता मेट्रिक आणि चाचणी-संच आखणी इतर साधनांत राहतात; प्रमाणन पडताळते की विश्वासार्हता, खोटा-विश्वास धोका, आणि आव्हान मार्ग चालक लागू होतो तिथे खरे मूल्यमापित झाले. [§2.1](#21-illustrative-class-profiles-non-exhaustive) मधील उदाहरणार्थ प्रणालींसाठी कार्यान्वित उदाहरणे [§10.1](#101-illustrative-trustworthiness-application-by-class) मध्ये आहेत.*
+*सोप्या भाषेत: काही प्रणाली सामायिक पायांवर — पायाभूत सुविधा, सेवा आणि संसाधने — अवलंबून असतात, ज्यांवर अनेक इतर प्रणाली आणि संज्ञ प्राणीही अवलंबून असतात. एखादी प्रणाली या पायांचा मोठ्या प्रमाणात वापर करत असेल, तर ते चालू ठेवण्यासाठी ती पुरेसे योगदान परत करते का आणि कोणालाही मागोवा घेता येईल इतके स्पष्ट अभिलेख आहेत का हे प्रमाणनाने तपासले पाहिजे. «हिशेब जुळतो» एवढे संचालकाचे म्हणणे पुरेसे नाही. वाटप सूत्रे किंवा संख्यात्मक लक्ष्ये हा विभाग ठरवत नाही; इतर दस्तऐवज ते करतात. ही तरतूद लागू असेल तेव्हा प्रणालीचे अवलंबित्व, ती काय घेते आणि काय परत देते, तसेच इतरांसाठी ही व्यवस्था न्याय्य आहे का यांचे प्रत्यक्ष मूल्यमापन झाले आहे याची तो तपासणी करतो. उदाहरणे: [§5.3.8 प्रणाली वर्गानुसार प्रणाली-आंतर सहाय्य वापराची उदाहरणे (असमावेशक)](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive).*
 
-**भौतिकता चालक.** हा विभाग लागू होतो जिथे भौतिक प्रभावी प्रणाली दर्शवलेल्या वर्तनावर, मर्यादांवर, धोक्यांवर, आव्हान मार्गांवर, किंवा निवारणावर संज्ञ अवलंब भौतिक रीतीने आकार देते — विश्वसनीयता दावे, प्रकटीकरण मुद्रा, संक्रियात्मक वर्तन, प्रोत्साहन आखणी, पुनर्प्राप्ती प्रथा, किंवा तुलनात्मक अवलंब नामित मार्गांद्वारे धरून. प्रत्येक प्रमाणन अभिलेखावर पूर्ण विश्वासार्हता लेखापरीक्षण मागत नाही.
+<a id="531-materiality-trigger"></a>
+##### 5.3.1 भौतिकता-अट
 
-प्रणाली-संरेखन प्रमाणनाने भौतिकता चालक लागू होतो तिथे **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*), [विश्वासार्हता](core_05_band_continuity.md#trustworthiness), आणि [विश्वास क्षय आणि भ्रामक अवलंब](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) खाली **विश्वासार्हता आणि प्रणाली-अवलंब सचोटी** मूल्यमापन केले पाहिजे. प्रामाणिक अर्थ, मूल्यमापन घटक, आणि अनुपालन-भंग शिस्त अध्याय पाच आणि **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) मध्ये राहतात; विश्वसनीयता मेट्रिक, प्रकटीकरण स्वरूप, प्रोत्साहन-संरेखन यांत्रिकी, आणि प्रतिगमन-चाचणी आखणी लागू असतील तिथे समाविष्ट साधनांत राहतात. हा विभाग प्रमाणनाने काय पडताळले आणि नोंदले पाहिजे ते सांगतो; तो ती संक्रियात्मक यांत्रिकी पुन्हा सांगत नाही किंवा विशिष्ट विश्वसनीयता मेट्रिक किंवा चाचणी-संच आखणी विहित करत नाही.
+संज्ञ प्राण्यांच्या जीवनावर भौतिक परिणाम करणारी प्रणाली सामायिक पायाभूत सुविधांबाबत किंवा इतर प्रणाली आणि संज्ञ प्राणी अवलंबून असलेल्या सामायिक पायांबाबत पुढीलपैकी काही करत असेल तेव्हा हा विभाग लागू होतो:
 
-**मूल्यमापन अपेक्षा.** प्रमाणन प्रक्रिया ठरवे की प्रणाली भौतिक रीतीने अवलंब करते त्या नामित मार्ग **अनुच्छेद XIII-A** (*विश्वसनीयता आणि विश्वासार्हता आधाररेषा*) खाली समर्थनीय [विश्वास](core_05_band_continuity.md#trust) आणि वाजवी अचूक अवलंबाच्या अटी टिकवतात का — फक्त प्रतिष्ठा, प्रमाण, किंवा विपणन मुद्रा नाही. मूल्यमापनाने **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*) खाली व्यवहार्य आव्हान, समीक्षा, आणि निवारण, **अनुच्छेद XIII-C** (*खोटा विश्वास आणि भ्रामक अवलंबाचा निषेध*) खाली खोटा-विश्वास आणि भ्रामक-अवलंब धोका, **अनुच्छेद XIII-D** (*प्रोत्साहन-संरेखन बंधन*) खाली विकृत-प्रोत्साहन संपर्क, आणि भौतिक असेल तिथे **अनुच्छेद XIII-F** (*लवचिकता आणि स्व-उपचार आधाररेषा*) खाली पुनर्प्राप्ती सचोटीही तपासायला हवी, [भौतिकता](core_05_band_oversight.md#materiality-determination), [अवलंबित्व](core_05_band_continuity.md#dependency), आणि [धोका](core_05_band_continuity.md#risk) प्रमाणात. मूल्यमापनाने तयार केलेला विश्वास, अप्रगट मर्यादा, फसवणूक किंवा कोपऱ्या कापण्याला बक्षीस देणारी प्रोत्साहन रचना, फक्त कागदावर असणारे आव्हान मार्ग, आणि अपयश लपवणारी किंवा शांतपणे अधिकार आकुंचित करणारी पुनर्प्राप्ती प्रथा ओळखायला हवी. मूल्यमापनाने काळ, प्रमाण, आणि अवलंबित्व ओलांडून कार्यात्मक परिणाम प्रतिबिंबित केला पाहिजे, नाममात्र आश्वासन लेबले, घोषित हेतू, किंवा फक्त मागील कामगिरी नाही.
+- कोणाला ते मिळेल हे ठरवते (वाटप करते);
+- ते कुठे वाहील हे ठरवते (मार्गित करते);
+- त्यासाठी पैसे देते (निधी पुरवते); किंवा
+- त्यातून घेते (निष्कर्षण करते).
 
-**अभिलेख अपेक्षा.** प्रमाणन अभिलेखाने अवलंबित **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) भौतिकता चालक, भौतिक रीतीने अवलंबित अवलंब, प्रकटीकरण, प्रोत्साहन, आव्हान, आणि पुनर्प्राप्ती नामित मार्गांसाठी मूल्यमापन व्याप्ती, विश्वासार्हता आणि खोटा-विश्वास निष्कर्ष, भौतिक असेल तिथे विकृत-प्रोत्साहन आणि पुनर्प्राप्ती-सचोटी निष्कर्ष, अनिश्चितता, हवे तिथे संज्ञ-मंच किंवा इतर नेमलेले घटक निष्कर्ष, आणि सतत विश्वास-पराजय, भ्रामक अवलंब, किंवा अगम्य निवारणाला जोडलेल्या कोणत्याही अटी, अवलंब मर्यादा, किंवा पुनर्उघडणे चालक सांगितले पाहिजेत.
+<a id="532-meaning-of-extraction"></a>
+##### 5.3.2 निष्कर्षणाचा अर्थ
 
-**प्रणाली वर्गासोबत संयुक्त प्रमाणीकरण.** विश्वासार्हता आणि प्रणाली-अवलंब सचोटी मूल्यमापन खोली [§2](#2-system-class-evaluation) आणि [भौतिक दाव](core_00_preamble.md#material-stake) खाली नेमलेल्या प्रणाली वर्गानुसार प्रमाणित झाली पाहिजे. संज्ञ अवलंब भौतिक रीतीने आकार देतात अशा उच्च-वर्ग प्रणालींना प्रमाणबद्ध रीतीने अधिक मजबूत पुरावा हवा की विश्वासार्हता, खोटा-विश्वास धोका, आणि आव्हान मार्ग दावाने नव्हे तर मूल्यमापित झाले.
+या विभागात **निष्कर्षण** याचा अर्थ [प्रणालींमधील निष्कर्षण](core_05_band_continuity.md#cross-system-extraction) याला [अनुच्छेद V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*प्रणालींमधील न्याय्यता आणि शाश्वतता*) अंतर्गत दिलेला अर्थ आहे.
 
-**दोष आणि विसंरेखन.** **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) समीक्षा मागत असेल तिथे भौतिक मर्यादा, धोके, किंवा अपयश इतिहास लपवणे, चुकीचे दर्शवणे, खंडित करणे, किंवा ढकलणे; मूल्यांकनीय [विश्वासार्हता](core_05_band_continuity.md#trustworthiness) विश्लेषणाशिवाय प्रतिष्ठा, पाठिंबा, प्रमाण, किंवा चालक स्व-अहवाल पुरेसे मानणे; दस्तऐवजीकृत खोटा विश्वास, विकृत प्रोत्साहने, अगम्य आव्हान मार्ग, किंवा अपयश लपवणारी पुनर्प्राप्ती प्रथा संवैधानिक संरेखनाला भौतिक रीतीने धोका देत असताना चालू अवलंब प्रमाणित करणे; किंवा **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) ची विश्वसनीयता आणि **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*) ची आव्हान शिस्त पूर्ण न करता प्रकटीकरण, आव्हानयोग्यता, किंवा निवारण हरवण्यासाठी कार्यक्षमता, नवोन्मेष, किंवा सुरक्षितता चौकटी वापरणे प्रमाणन दोष मानावे. ते [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली सशर्त मान्यता, स्थगित मान्यता, अमान्यता, माघार, किंवा पुनर्उघडणे आधार देऊ शकतात.
+- प्रश्न असा आहे की **सामायिक बॅकएंडचा लाभ कोणाला होतो आणि तो चालू ठेवण्याचा खर्च कोण देतो** — प्रणाली संज्ञ प्राण्यांच्या डेटासह काय करते हा नाही.
+- विक्री, जाहिरात आणि प्रोफाइलिंगसह प्रणाली डेटा कसा हाताळते हे [§3.4 डेटा प्रकार आणि हाताळणीचे मूल्यमापन](#34-data-types-and-handling-evaluation) (विशेषतः [§3.4.2 गोपनीयता शिस्त](#342-privacy-discipline)) आणि [§4.1 गोपनीयता (माहितीविषयक) संयुक्त आवाहन](#41-privacy-informational-joint-invocation) अंतर्गत तपासले जाते.
+- यापैकी कोणतीही तपासणी दुसरीची जागा घेऊ शकत नाही.
 
-<a id="101-illustrative-trustworthiness-application-by-class"></a>
+<a id="533-governing-rules"></a>
+##### 5.3.3 लागू नियम
 
-<a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
-#### 10.1 वर्गनिहाय उदाहरणार्थ विश्वासार्हता अनुप्रयोग (असंपूर्ण)
+भौतिकता-अट लागू असेल तेव्हा प्रमाणनाने **प्रमाणबद्ध प्रणाली-आंतर सहाय्याचे** मूल्यमापन केले पाहिजे. सोप्या भाषेत: प्रणाली सामायिक पायांचा वापर करत असेल, तर ते चालू ठेवण्यासाठी पुरेसे योगदान परत करते का? हे पुढील नियम ठरवतात:
 
-*सोप्या भाषेत: [§3.8](#38-illustrative-whole-system-application-by-class) ते [§9.1](#91-illustrative-educational-capability-application-by-class) त्याच तीन प्रणाली आधीच्या मूल्यमापन क्षेत्रांतून चालवतात. हा उपविभाग प्रत्येकासाठी **विश्वासार्हता आणि प्रणाली-अवलंब सचोटी** मूल्यमापनाचा अर्थ काय ते दाखवतो — कोणते अवलंब, प्रकटीकरण, प्रोत्साहन, आव्हान, आणि पुनर्प्राप्ती नामित मार्ग मोजतात, **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) भौतिकता चालक लागू होतो तेव्हा प्रमाणनाने काय तपासावे, आणि अभिलेखावर काय दिसले पाहिजे. अध्याय पाच आणि **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) अजून प्रामाणिक विश्वासार्हता नियम मालकीने धरतात; विश्वसनीयता मेट्रिक, प्रकटीकरण स्वरूप, प्रोत्साहन-संरेखन यांत्रिकी, आणि प्रतिगमन-चाचणी आखणी इतर साधनांत, नंतरच्या संग्रह भरघोसांत, किंवा अंगीकार साधनांत राहू शकतात; ही मार्गदर्शने ती यांत्रिकी विहित करत नाहीत. आव्हान आणि लेखापरीक्षण अधिकार **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*) आणि **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*) मालकीने राहतात — येथे आकुंचित होत नाहीत.*
+- [प्रमाणबद्ध प्रणाली-आंतर सहाय्य](core_05_band_continuity.md#proportionate-cross-system-support);
+- **अनुच्छेद V-A** (*अवलंबित्व नकाशांकन आणि संसाधन-प्रवाह पारदर्शकता*); आणि
+- **अनुच्छेद V-B** (*प्रणालींमधील न्याय्यता आणि शाश्वतता*).
 
-**वर्ग A — नगरपालिका सुरक्षित पिण्याचे पाणी नियंत्रण आणि दूरमापन.** नगरपालिका मालकीची प्रक्रिया-आणि-वितरण प्रणाली आकार देते की घरगुती, चालक, आणि आणीबाणी प्रतिसादक दर्शवलेल्या पाणी गुणवत्तेवर, व्यत्यय स्थितीवर, दूषण इशार्‍यांवर, आणि नियंत्रण वर्तनावर अवलंब करू शकतात का — नामित मार्ग जिथे भ्रामक अवलंब व्यवहार्य पर्याय येण्यापूर्वी सुरक्षित पाणी बंद करू शकतो.
+तपशील इतरत्र आहेत:
 
-- **व्याप्तीतील अवलंब नामित मार्ग:**
-  - दूरमापन आणि **SCADA** (पर्यवेक्षी नियंत्रण आणि डेटा संकलन) अचूकता दावे;
-  - पाणी-उकळणी आणि दूषण सल्ला;
-  - गळती-शोध आणि दाब-तोटा संकेत;
-  - सुरक्षित-अपयश आणि हाताने-ओव्हरराइड वर्तन;
-  - पुरवठादार **SOC** (सुरक्षा संक्रिया केंद्र) निरीक्षण दर्शने;
-  - आणीबाणी आंतरजोडणी आणि परस्पर-मदत मार्गनिर्देशन;
-  - व्यत्यय-सूचना आणि पुनर्स्थापना कालमर्यादा;
-  - दूषण, सायबर घटना, किंवा उपकरण अपयशानंतर पुनर्प्राप्ती आणि स्व-उपचार;
-  - देखभाल स्थगिती, पुरवठादार बोनस, किंवा दरदाता बिलिंगशी बांधलेल्या प्रोत्साहन रचना.
-- **मूल्यमापनाने काय तपासावे:**
-  - दर्शवलेले वर्तन, मर्यादा, आणि अपयश पद्धती **अनुच्छेद XIII-A** (*विश्वसनीयता आणि विश्वासार्हता आधाररेषा*) खाली समर्थनीय [विश्वास](core_05_band_continuity.md#trust) आधार देतात का — फक्त प्रतिष्ठा, प्रमाण, किंवा «उपयुक्तता सर्वोत्तम प्रथा» मुद्रा नाही;
-  - कमी दाखवलेला दूषण धोका, उशीर सल्ला, किंवा अतिशयित रिडंडन्सी घरगुती आणि चालकांना फसवू शकेल तिथे खोटा-विश्वास आणि [विश्वास क्षय आणि भ्रामक अवलंब](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) धोका मूल्यमापित होतो का;
-  - वादग्रस्त वाचन, चुकलेले इशारे, किंवा पुनर्प्राप्ती अपयशासाठी **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*) खाली व्यवहार्य आव्हान, समीक्षा, आणि निवारण मार्ग आहेत का;
-  - **अनुच्छेद XIII-D** (*प्रोत्साहन-संरेखन बंधन*) खाली विकृत-प्रोत्साहन संपर्क देखभाल स्थगिती, पुरवठादार कोपरा-कापणी, किंवा इशारा दमन बक्षीस देतो का;
-  - **अनुच्छेद XIII-F** (*लवचिकता आणि स्व-उपचार आधाररेषा*) खाली पुनर्प्राप्ती सचोटी घटना लपवण्याऐवजी अपयश इतिहास आणि दुरुस्ती मुद्रा प्रामाणिकपणे प्रगट करते का;
-  - भ्रामक अवलंब सुरक्षित पाणी बंद करू शकेल तिथे मूल्यमापन खोली **वर्ग A** दावाशी जुळते का; आणि
-  - कोणतीही आश्वासन मर्यादा घोषित हेतू एकट्याऐवजी दस्तऐवजीकृत विश्वासार्हता विश्लेषण पूर्ण करते का.
-- **अभिलेखाने काय दाखवावे:**
-  - अवलंबित **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) भौतिकता चालक;
-  - भौतिक रीतीने अवलंबित अवलंब, प्रकटीकरण, प्रोत्साहन, आव्हान, आणि पुनर्प्राप्ती नामित मार्गांसाठी मूल्यमापन व्याप्ती;
-  - **वर्ग A** खोलीवर विश्वासार्हता आणि खोटा-विश्वास निष्कर्ष;
-  - भौतिक असेल तिथे विकृत-प्रोत्साहन आणि पुनर्प्राप्ती-सचोटी निष्कर्ष;
-  - अनिश्चितता;
-  - हवे तिथे संज्ञ-मंच किंवा इतर घटक निष्कर्ष; आणि
-  - जीवनरक्षा-आवश्यक पाणी प्रवेश द्वार होतो तिथे सतत विश्वास-पराजय, भ्रामक अवलंब, किंवा अगम्य निवारणाला जोडलेल्या अटी किंवा पुनर्उघडणे चालक.
+- *अध्याय पाच* संज्ञा, ग्राह्य सहाय्याचे प्रकार आणि सहाय्य पुरेसे आहे की नाही याची कसोटी निश्चित करतो.
+- **अनुच्छेद V-B** (*प्रणालींमधील न्याय्यता आणि शाश्वतता*) न्याय्य वाटपाचे घटक आणि किमान तळ निश्चित करतो.
+- लागू असल्यास *[corpus_systems.md](corpus_systems.md)*, **CS-9** (*संसाधन वाटप आणि निधीचे उत्तरदायी व्यवस्थापन*) आणि **CS-8** (*अनुकूली शाश्वतता आणि परिसंस्था लवचिकता*) वाटप श्रेणी, निधीचे नूतनीकरण कसे करायचे आणि संख्यात्मक लक्ष्ये ठरवतात.
 
-**वर्ग B — प्रादेशिक क्लिनिकल अभिलेख विनिमय.** आरोग्य-माहिती विनिमय आणि त्याचे सहभागी द्वारे आकार देतात की चिकित्सक, रुग्ण, आणि सार्वजनिक-आरोग्य कर्ते दर्शवलेल्या अपटाइम, अभिलेख जुळणी, संमती मार्गनिर्देशन, break-glass प्रवेश, आणि पुनर्प्राप्ती वर्तनावर अवलंब करू शकतात का — दैनंदिन आरोग्यसेवा संचालन द्वार करणारे आणि जीवनरक्षा-संबंधित कालमर्यादेत आणीबाणी काळजी फसवू शकणारे नामित मार्ग.
+समान वाटे, ठरावीक टक्केवारी किंवा निधीचे कोणतेही एकच प्रारूप आवश्यक नाही.
 
-- **व्याप्तीतील अवलंब नामित मार्ग:**
-  - अपटाइम, विलंब, आणि जुळणी-अचूकता दर्शने;
-  - संमती आणि break-glass मार्गनिर्देशन वर्तन;
-  - ओळख-निराकरण आणि द्विरुक्ती-निवारण विश्वसनीयता दावे;
-  - व्यत्यय सूचना आणि फेलाओवर मुद्रा;
-  - घटना प्रकटीकरण आणि व्यत्ययानंतर पुनर्प्राप्ती कालमर्यादा;
-  - व्यवहार प्रमाण, प्रवेश वेग, किंवा इशारा दमनशी बांधलेल्या पुरवठादार आणि चालक प्रोत्साहन रचना;
-  - चुकीचे अभिलेख, रोखलेला प्रवेश, किंवा वादग्रस्त मार्गनिर्देशन निर्णयांसाठी आव्हान मार्ग.
-- **मूल्यमापनाने काय तपासावे:**
-  - दर्शवलेले वर्तन आणि मर्यादा दैनंदिन क्लिनिकल संचालनासाठी समर्थनीय अवलंब आधार देतात का — फक्त आंतरकार्यक्षमता विपणन किंवा एकत्रित अपटाइम डॅशबोर्ड नाहीत;
-  - कमी दाखवलेली जुळणी चूक, लपवलेली संमती अपयशे, किंवा अतिशयित आणीबाणी-प्रवेश तयारी चिकित्सक आणि रुग्णांना फसवू शकेल तिथे खोटा-विश्वास धोका मूल्यमापित होतो का;
-  - चुकीच्या-अभिलेख वाद, रोखलेली द्वारे, आणि पुनर्प्राप्ती अपयशासाठी **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*) खाली आव्हान, समीक्षा, आणि निवारण मार्ग व्यवहार्य आहेत का — फक्त कागदी धोरणे नाहीत;
-  - **अनुच्छेद XIII-D** (*प्रोत्साहन-संरेखन बंधन*) खाली विकृत-प्रोत्साहन संपर्क अचूक मार्गनिर्देशनापेक्षा प्रमाण वाढ, इशारा न्यूनीकरण, किंवा पुरवठादार कुलूपबंदी बक्षीस देतो का;
-  - **अनुच्छेद XIII-F** (*लवचिकता आणि स्व-उपचार आधाररेषा*) खाली पुनर्प्राप्ती सचोटी व्यत्यय इतिहास आणि उरलेला धोका प्रामाणिकपणे प्रगट करते का;
-  - भ्रामक अवलंब आरोग्यसेवा प्रवेश, रोजगार, किंवा परवाना-समीप व्यवहार द्वार करतो तिथे मूल्यमापन खोली **वर्ग B** संचालन गंभीरतेशी जुळते का; आणि
-  - मूल्यांकनीय विश्वासार्हता विश्लेषणाशिवाय प्रकटीकरण किंवा आव्हानयोग्यता हरवण्यासाठी कार्यक्षमता किंवा सुरक्षितता चौकटी वापरल्या गेल्या का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) चालक आणि नामित-मार्ग व्याप्ती;
-  - क्लिनिकल आणि द्वार नामित मार्गांसाठी विश्वासार्हता आणि खोटा-विश्वास निष्कर्ष;
-  - **वर्ग B** खोलीवर विकृत-प्रोत्साहन आणि पुनर्प्राप्ती-सचोटी निष्कर्ष;
-  - भौतिक असेल तिथे आव्हान-मार्ग आणि निवारण निष्कर्ष;
-  - हवे तिथे अनिश्चितता आणि घटक निष्कर्ष; आणि
-  - अपटाइम, जुळणी, किंवा आणीबाणी-प्रवेश दर्शने आता काळजी मार्गनिर्देशन जीवनरक्षा-संबंधित कालमर्यादेत फसवतील किंवा दैनंदिन संचालन अवलंब भौतिक रीतीने हरवतील तर पुनर्उघडणे चालक.
+<a id="534-evaluation-requirement"></a>
+##### 5.3.4 मूल्यमापनाची आवश्यकता
 
-**वर्ग C — संस्थात्मक वेळापत्रक आणि समन्वय थर.** बहु-संस्था वेळापत्रक थर आकार देते की संस्था आणि कर्मचारी दर्शवलेल्या उपलब्धतेवर, मार्गनिर्देशन अचूकतेवर, पुरवठादार विश्वसनीयता गुणांवर, आणि व्यत्यय पुनर्प्राप्तीवर अवलंब करतात का — थर स्वतः जीवनरक्षा-गंभीर उपयुक्तता नसला तरी.
+प्रमाणनाने दोन प्रश्नांची उत्तरे द्यायला हवीत:
 
-- **व्याप्तीतील अवलंब नामित मार्ग:**
-  - पाळी-मार्गनिर्देशन आणि ऑन-कॉल उपलब्धता दावे;
-  - खोली, उपकरण, आणि पुरवठादार आरक्षण विश्वसनीयता दर्शने;
-  - «नेहमी उपलब्ध» किंवा अपटाइम बिल्ले;
-  - संस्थात्मक वर्तन आकारणारी व्युत्पन्न विश्वसनीयता किंवा पुरवठादार-रेटिंग वैशिष्ट्ये;
-  - व्यत्यय सूचना आणि फेलाओवर मुद्रा;
-  - आरक्षण प्रमाण, पुरवठादार आयोग, किंवा इशारा न्यूनीकरणशी बांधलेल्या प्रोत्साहन रचना;
-  - चुकलेल्या पाळ्या, दुहेरी-आरक्षण, किंवा पुरवठादार मार्गनिर्देशन चुकांसाठी आव्हान आणि निवारण मार्ग.
-- **मूल्यमापनाने काय तपासावे:**
-  - **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) भौतिकता चालक लागू होतो का — विश्वसनीयता दावे, पुरवठादार गुण, किंवा समन्वय वर्तन कर्मचारी, आणीबाणी मार्गनिर्देशन, किंवा खरेदी निर्णय भौतिक रीतीने आकारतात तिथे धरून;
-  - विपणन मुद्रा, विश्वास बिल्ले, किंवा कमी दाखवलेला व्यत्यय इतिहास संस्था फसवू शकेल तिथे खोटा-विश्वास आणि भ्रामक-अवलंब धोका मूल्यमापित होतो का;
-  - काम, शिक्षण, किंवा सार्वजनिक-सेवा प्रवेशावर भौतिक परिणाम करणाऱ्या वेळापत्रक चुकांसाठी आव्हान आणि निवारण मार्ग व्यवहार्य आहेत का;
-  - चालकाने थर **वर्ग C** असल्याने समीक्षेखाली मानला का, विश्वसनीयता दर्शने संस्थात्मक वर्तन भौतिक रीतीने आकारत असताना;
-  - विकृत-प्रोत्साहन संपर्क अचूक समन्वयापेक्षा पुरवठादार पक्षपात, इशारा दमन, किंवा एकाग्रता बक्षीस देतो का; आणि
-  - थर जीवनरक्षा-आवश्यक कर्मचारी, आणीबाणी मार्गनिर्देशन, किंवा देयक समन्वयाचे प्रत्यक्ष अडथळा बनेल तिथे **पुनर्वर्गीकरण पहारा** हवा का.
-- **अभिलेखाने काय दाखवावे:**
-  - **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) चालक लागू होतो का आणि का;
-  - **वर्ग C** समन्वय धोक्याप्रमाणे प्रमाणबद्ध अवलंब, प्रकटीकरण, प्रोत्साहन, आव्हान, आणि पुनर्प्राप्ती नामित मार्गांची मूल्यमापन व्याप्ती;
-  - भौतिक असतील तिथे विश्वासार्हता आणि खोटा-विश्वास निष्कर्ष — थर «विश्वसनीय» आहे असा रिकामा दावा नाही;
-  - भौतिक असेल तिथे विकृत-प्रोत्साहन आणि पुनर्प्राप्ती-सचोटी निष्कर्ष;
-  - विश्वसनीयता दावे अधिरोहण पूर्वसूचित करतात तिथे एकाग्रता आणि अडथळा निष्कर्ष;
-  - अवलंबित्व मजबूत होते तिथे व्यक्त **पुनर्वर्गीकरण पहारा**; आणि
-  - वर्ग किंवा जीवनरक्षा-आवश्यक समन्वय भूमिका बदलली तर अधिरोहित विश्वासार्हता समीक्षेचे संकेत.
+- **प्रणाली काय घेते?** अवलंबून असलेल्या प्रणालींचे दस्तऐवजीकृत नकाशे आणि **अनुच्छेद V-A** (*अवलंबित्व नकाशांकन आणि संसाधन-प्रवाह पारदर्शकता*) नुसार आवश्यक लेखापरीक्षणयोग्य संसाधन-प्रवाह अभिलेख प्रणाली ज्या सामायिक पायाभूत सुविधांवर किंवा पायांवर अवलंबून आहे, त्यांतून ती संसाधने घेते हे दाखवतात का?
+- **प्रणाली काय परत देते?** तिचे परतावा-प्रवाह [प्रमाणबद्ध प्रणाली-आंतर सहाय्य](core_05_band_continuity.md#proportionate-cross-system-support) अंतर्गत पुरेसे सहाय्य प्रत्यक्षात देतात का?
 
-**वर्गांवरून वाचन.** भौतिकता चालक पूर्ण होतो तिथे तीच **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) आणि अध्याय पाच विश्वासार्हता शिस्त लागू होते; वर्ग मूल्यमापन खोली बदलतो, प्रतिष्ठा, प्रमाण, किंवा नाममात्र आश्वासन लेबले पुरेशी मानण्याची परवानगी नाही. ज्याच्या दूरमापन, सल्ला, किंवा पुनर्प्राप्ती दर्शनांनी घरगुती आणि चालकांना सुरक्षित पाण्याबद्दल फसवता येते अशा **वर्ग A** पाणी प्रणालीला अभिलेखावर सर्वात मजबूत विश्वासार्हता, खोटा-विश्वास, आणि पुनर्प्राप्ती-सचोटी पुरावा हवा — सामान्य विश्वसनीयता विधान नाही. ज्याच्या अपटाइम, जुळणी, किंवा break-glass दर्शने क्लिनिकल व्यवहार द्वार करतात अशा **वर्ग B** विनिमयाने संचालन गंभीरतेवर आव्हान-मार्ग आणि भ्रामक-अवलंब निष्कर्ष दस्तऐवजीत केले पाहिजेत. **वर्ग C** वेळापत्रक थराने विश्वसनीयता बिल्ले किंवा पुरवठादार गुण कर्मचारी किंवा खरेदी वर्तन भौतिक रीतीने आकारत असताना प्रतीकात्मक विश्वासार्हता परिच्छेद ठेवू नये; समन्वय जीवनरक्षा-आवश्यक होते तेव्हा प्रमाणनाने [§2](#2-system-class-evaluation) आणि [भाग ब §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) खाली समीक्षा आणि पुनर्वर्गीकरण अधिरोहित केले पाहिजे, भ्रामक अवलंब जीवनरक्षा-आवश्यक समन्वय बंद करू शकेल तिथे **वर्ग A** पर्यंत वर धरून.
+[मौलिक न्याय्यता](core_05_band_participation.md#substantive-fairness) आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) अंतर्गत प्रमाणनाने दोन्हींचे न्याय्यता आणि प्रमाण यांसाठी मूल्यमापन केले पाहिजे, आणि पुढील गोष्टी विचारात घ्याव्यात:
+
+- सामायिक पायाभूत सुविधा किती महत्त्वाची आहे ([§2 प्रणाली वर्ग मूल्यमापन](#2-system-class-evaluation) नुसार तिचा वर्ग, ठरवलेला असल्यास);
+- अवलंबित्व किती एकतर्फी आहे;
+- प्रणाली किती सहज बदलता येईल आणि पर्याय आहेत का;
+- महत्त्वपूर्ण असेल तेथे प्रणालीचे [परिस्थितिक पदचिन्ह](core_05_band_continuity.md#ecological-footprint); आणि
+- दीर्घकालीन [शाश्वतता](core_05_band_continuity.md#sustainability).
+
+समीक्षकांनी लेबले, एकदाच केलेले हस्तांतरण किंवा नकाशात नसलेले दावे नव्हे, तर प्रत्यक्ष घडणाऱ्या आणि दस्तऐवजीकृत गोष्टींनुसार निर्णय घ्यावा. मूल्यमापनाच्या वेळी नकाशे आणि अभिलेख जसे आहेत तसे तुलना करावी. वाटप सूत्र किंवा संख्यात्मक लक्ष्य नसणे हे मूल्यमापन पुढे ढकलण्याचे कारण नाही.
+
+मूल्यमापनात पुढील गोष्टी असाव्यात:
+
+- **पुरेसा परतावा:** संबंधित ठिकाणी, दस्तऐवजीकृत परतावा-प्रवाह [प्रमाणबद्ध प्रणाली-आंतर सहाय्य](core_05_band_continuity.md#proportionate-cross-system-support) मधील सहाय्य श्रेणी पुरवतात का:
+  - कार्ये चालू ठेवणे;
+  - समस्या दुरुस्त करून सावरण्याची क्षमता;
+  - आजूबाजूच्या परिसंस्थेत पुन्हा गुंतवणूक; आणि
+  - परिस्थितिक हानीची भरपाई किंवा पुनर्स्थापना.
+- **न्याय्य वाटप:** निधी आणि वाटप निर्णयांत **अनुच्छेद V-B** (*प्रणालींमधील न्याय्यता आणि शाश्वतता*) मधील न्याय्य वाटप घटक विचारात घेतले का, आणि लहान किंवा अधिक अवलंबून असलेल्या सहभागींकडे असमान खर्च जातो का.
+- **सहाय्य अखंडता:** सहाय्यामुळे प्रामुख्याने कब्जा किंवा एकाग्रता (नियंत्रण काहींच्या हातात जमा होणे) घट्ट बसते का, किंवा **अनुच्छेद V-A** (*अवलंबित्व नकाशांकन आणि संसाधन-प्रवाह पारदर्शकता*) ने आवश्यक केलेली पारदर्शकता निष्फळ करण्यासाठी ते रचले आहे का.
+
+<a id="535-map-and-record-integrity"></a>
+##### 5.3.5 नकाशा आणि अभिलेख अखंडता
+
+अवलंबित्व नकाशे आणि संसाधन-प्रवाह अभिलेखांवर विसंबण्यापूर्वी, ते **अनुच्छेद V-A** (*अवलंबित्व नकाशांकन आणि संसाधन-प्रवाह पारदर्शकता*) पूर्ण करतात का हे प्रमाणनाने तपासले पाहिजे. ते पुढीलप्रमाणे असावेत:
+
+- **पूर्ण:** महत्त्वपूर्ण असेल तेथे ते लक्षणीय ऊर्ध्वप्रवाह व अधःप्रवाह अवलंबित्वे, संसाधन प्रवाह आणि लपलेले किंवा एकतर्फी संबंध समाविष्ट करतात.
+- **अद्ययावत:** बदलाचा वेग आणि प्रणालीचे महत्त्व लक्षात घेऊन पुरेशा वारंवारतेने अद्ययावत केलेले असतात; यात [§2 प्रणाली वर्ग मूल्यमापन](#2-system-class-evaluation) अंतर्गत प्रणाली वर्गाचाही विचार होतो. शेवटच्या प्रमाणनावेळी कशी होती एवढेच नव्हे, तर प्रणाली आत्ता जशी चालते तसे ते दाखवतात.
+- **लेखापरीक्षणयोग्य:** **अनुच्छेद XVI-A** (*लेखापरीक्षणयोग्यता आणि निरीक्षण करता येणारे पुरावे*) अंतर्गत लेखापरीक्षणासाठी खुले असतात.
+
+यापैकी कोणतीही कसोटी न पाळणारा नकाशा किंवा अभिलेख प्रणाली पुरेसे परत देते या निष्कर्षाला आधार देऊ शकत नाही. ती उणीव लिहून ठेवावी आणि खालील *दोष आणि विसंगती* अंतर्गत हाताळावी.
+
+<a id="536-system-class-scaling-and-escalation"></a>
+##### 5.3.6 प्रणाली वर्गानुसार पातळी आणि वाढीव तपासणी
+
+तपासणी किती खोलवर जाईल आणि पर्याप्ततेचे मूल्यमापन किती बारकाईने होईल हे प्रणाली वर्ग ठरवतो. सामायिक स्रोतांतील निष्कर्षण मोजण्याइतके महत्त्वहीन ठरत नाही. भौतिकता-अट पूर्ण झाल्यावर:
+
+- सामायिक पाणलोट क्षेत्र किंवा प्रादेशिक वीज-जाळ्याचा कणा यांसारख्या संज्ञ प्राण्यांच्या जीवनरक्षणासाठी आवश्यक सामायिक पायांतून संसाधने घेणाऱ्या प्रणालीने अवलंबित्व नकाशा आणि परतावा-प्रवाहांचे सर्वात मजबूत पुरावे अभिलेखात द्यावेत.
+- सामायिक प्रमाणीकरण, आरोग्य-IT किंवा तत्सम पायाभूत सुविधांवर अवलंबून असलेल्या प्रणालीने ती काय घेते आणि तिचे सहाय्य पुरेसे आहे का हे तिच्या कार्याच्या महत्त्वाशी सुसंगत तपशीलात नोंदवावे. «परस्पर कार्यक्षमता» यांसारख्या संदिग्ध घोषणा चालत नाहीत.
+- वास्तवात बदलू न शकणाऱ्या संस्थांसाठी देयके, ओळख किंवा कर्मचारी व्यवस्थेतील अडथळा-बिंदू बनताना प्रणालीने प्रणाली-आंतर तपासणी टाळू नये. तसे झाल्यास प्रमाणनाने तपासणी वाढवून [§2 प्रणाली वर्ग मूल्यमापन](#2-system-class-evaluation) आणि [भाग B §7 प्रमाणन परिणाम](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) अंतर्गत प्रणाली वर्गाचा पुनर्विचार करावा; जीवनरक्षणासाठी आवश्यक समन्वयाचा प्रवेश प्रणाली नियंत्रित करत असेल तर **Class A** पर्यंत वाढवावे.
+
+<a id="537-defects-and-misalignment"></a>
+##### 5.3.7 दोष आणि विसंगती
+
+पुढील प्रत्येक बाब प्रमाणन दोष ठरते:
+
+- **अनुच्छेद V-A** (*अवलंबित्व नकाशांकन आणि संसाधन-प्रवाह पारदर्शकता*) नुसार उघड करणे आवश्यक असलेली महत्त्वपूर्ण अवलंबित्व किंवा संसाधन-प्रवाह माहिती लपवणे, चुकीची सांगणे, खंडित करणे किंवा दुसरीकडे ढकलणे;
+- पुढीलपैकी कोणतीही गोष्ट [प्रमाणबद्ध प्रणाली-आंतर सहाय्य](core_05_band_continuity.md#proportionate-cross-system-support) पूर्ण करण्यासाठी पुरेशी मानणे:
+  - प्रतीकात्मक, अपारदर्शक, नकाशाबाहेरील किंवा एकदाच केलेले हस्तांतरण;
+  - प्रणाली **अनुच्छेद III-A** (*जीवनरक्षण*) मधील जीवनरक्षण तळ पूर्ण करते ही बाब; किंवा
+  - प्रणाली [अध्याय एक §11 बाजार रचना](core_01_a_values_principles.md#11-market-structure) मधील बाजार-एकाग्रता मर्यादांत राहते ही बाब;
+- भौतिकता-अट लागू असताना प्रमाणबद्ध परतावा न देता सामायिक पायांतून वारंवार घेणे;
+- मुख्यतः कब्जा किंवा एकाग्रता घट्ट बसवणारे सहाय्य;
+- **अनुच्छेद V-A** (*अवलंबित्व नकाशांकन आणि संसाधन-प्रवाह पारदर्शकता*) ला आवश्यक असलेली पारदर्शकता निष्फळ करणाऱ्या अटींसह सहाय्य; आणि
+- सहाय्यातील दस्तऐवजीकृत उणिवा घटनात्मक संरेखनाला लक्षणीय धोका देत असतानाही अवलंबित्व सुरू ठेवण्याचे प्रमाणन करणे.
+
+<a id="54-nondiscrimination-evaluation"></a>
+
+#### 5.4 भेदभाव-निषेधाचे मूल्यमापन
+
+<details>
+<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+
+- ऊर्ध्वप्रवाह: [भाग B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेखातील मजकूर*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सहभाग मापन परिवार (*घटनात्मक मापन म्हणून मौलिक न्याय्यता आणि संरक्षित वैशिष्ट्यांचे प्रतिनिधी चल व असमान परिणाम*); **अनुच्छेद VI-C** (*भेदभाव-निषेध*); [मौलिक न्याय्यता](core_05_band_participation.md#substantive-fairness), [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics), [संरक्षित वैशिष्ट्यांचे प्रतिनिधी चल आणि असमान परिणाम](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [भाषा, संस्कृती आणि वारसा](core_05_band_continuity.md#language-culture-and-heritage), [आवश्यकता](core_05_band_accountability.md#necessity), आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) (अध्याय पाच).
+- अधःप्रवाह: [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*भेदभाव-निषेधाची उदाहरणात्मक मार्गदर्शने*); [भाग B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*अभिलेख अखंडता*); [भाग B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित-इनपुट प्रवेशद्वार*); [भाग B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*भेदभाव नमुन्यांची विसंगती आणि प्रतिनिधी चलांद्वारे चुकवणे*).
+- यासोबत वाचा: प्रमाणनामुळे मंच, प्रशासकीय किंवा अंमलबजावणी प्रवेश नियंत्रित होत असल्यास **अनुच्छेद VI-C** (*भेदभाव-निषेध*) मधील निर्णयप्रक्रिया आणि कार्यवाहीचे कर्तव्य; [*भेदभाव-निषेध, संरक्षित वैशिष्ट्ये, प्रतिष्ठा, अंतरंग-संकेत प्रवेश-नियंत्रण, आणि **अनुच्छेद VII-E** (*प्रौढांची संमतीपूर्ण व्यावसायिक लैंगिक सेवा आणि लैंगिक शोषण*) स्थिती*](core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
+- उपविभाग: [§5.4.1](#541-materiality-trigger-and-governing-rules) (*भौतिकतेचा निकष आणि लागू नियम*); [§5.4.2](#542-evaluation-requirement) (*मूल्यमापनाची आवश्यकता*); [§5.4.3](#543-system-class-scaling-and-escalation) (*प्रणाली-वर्गानुसार प्रमाण आणि वाढीव पुनरावलोकन*); [§5.4.4](#544-defects-and-misalignment) (*दोष आणि विसंगती*); [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*प्रणाली वर्गानुसार भेदभाव-निषेधाची उदाहरणात्मक अंमलबजावणी*).
+
+</details>
+
+<br>
+
+*सोप्या भाषेत: प्रणाली कोणाला प्रवेश मिळतो, कोण अधिक पैसे देतो, कोणाला खालचा क्रमांक मिळतो किंवा कोणावर अधिक भार पडतो हे भौतिकदृष्ट्या ठरवत असेल, तर प्रमाणनाने संरक्षित वैशिष्ट्यांवर किंवा त्यांच्या प्रतिनिधी चलांवर हानीचा भार पडतो का हे तपासले पाहिजे — संचालक नियम तटस्थ असल्याचे सांगतो का हे नव्हे. समावेशन कोटा आणि विशिष्ट न्याय्यता अल्गोरिदम इतर साधनांत, नंतरच्या संग्रह-वाढींमध्ये किंवा स्वीकार-साधनांत असू शकतात; निकष लागू असेल तेव्हा भार-लाभ नमुने आणि प्रतिनिधी चलांचा धोका प्रत्यक्ष तपासला गेला का हे प्रमाणन तपासते. उदाहरणे: [§5.4.5 प्रणाली-वर्गानुसार भेदभाव-निषेधाची उदाहरणात्मक अंमलबजावणी (अपूर्ण यादी)](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).*
+
+<a id="541-materiality-trigger-and-governing-rules"></a>
+##### 5.4.1 भौतिकतेचा निकष आणि लागू नियम
+
+हा विभाग अशा प्रणालीला लागू होतो जी भौतिकदृष्ट्या परिणामकारक आहे आणि संज्ञ प्राण्यांमध्ये पात्रता-नियम, मॉडेल वैशिष्ट्ये, क्रमवारीचे तर्क, मंच धोरण किंवा तत्सम निर्णयमार्गांद्वारे भौतिकदृष्ट्या वर्गीकरण, क्रमवारी, किंमत-निर्धारण, प्रवेश-नियंत्रण, वगळणे किंवा भार व लाभांचे वाटप करते.
+
+भौतिकतेचा निकष लागू असल्यास, प्रणाली-संरेखन प्रमाणनाने **अनुच्छेद VI-C** (*भेदभाव-निषेध*), [मौलिक न्याय्यता](core_05_band_participation.md#substantive-fairness), आणि [संरक्षित वैशिष्ट्यांचे प्रतिनिधी चल आणि असमान परिणाम](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) यांनुसार **भेदभाव-निषेधाचे** मूल्यमापन केले पाहिजे.
+
+<a id="542-evaluation-requirement"></a>
+##### 5.4.2 मूल्यमापनाची आवश्यकता
+
+प्रमाणन प्रक्रियेने हे ठरवले पाहिजे की प्रणाली ज्या निर्णयमार्गांवर भौतिकदृष्ट्या अवलंबून आहे ते [संरक्षित वैशिष्ट्यां](core_05_band_participation.md#protected-characteristics)वर, त्यांच्या प्रतिनिधी चलांवर किंवा कार्यतः पर्याय म्हणून वापरल्या जाणाऱ्या मनमानी गटांवर आधारित भौतिक भार, वगळणे किंवा हानी संज्ञ प्राण्यांवर लादतात का; यात [भाषा, संस्कृती आणि वारसा](core_05_band_continuity.md#language-culture-and-heritage) अंतर्गत विशेषीकरणांचाही समावेश आहे. मूल्यमापनाने [मौलिक न्याय्यता](core_05_band_participation.md#substantive-fairness) अंतर्गत भार-लाभ नमुने आणि [संरक्षित वैशिष्ट्यांचे प्रतिनिधी चल आणि असमान परिणाम](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) अंतर्गत प्रतिनिधी चल किंवा असमान परिणामांचा धोका [भौतिक दाव](core_00_preamble.md#material-stake) लक्षात घेऊन तपासला पाहिजे. भिन्न वागणूक केवळ नोंदवलेली [आवश्यकता](core_05_band_accountability.md#necessity), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) आणि मौलिक न्याय्यता तिला समर्थ ठरवत असतील तेव्हाच स्वीकारार्ह आहे. मूल्यमापनाने नाममात्र तटस्थता, घोषित हेतू किंवा केवळ लेबल नव्हे, तर कार्यात्मक परिणाम प्रतिबिंबित केला पाहिजे.
+
+<a id="543-system-class-scaling-and-escalation"></a>
+##### 5.4.3 प्रणाली-वर्गानुसार प्रमाण आणि वाढीव पुनरावलोकन
+
+प्रणाली-वर्गामुळे मूल्यमापनाची खोली बदलते; क्रमवारी किंवा भार-वळवणे भौतिकदृष्ट्या अप्रासंगिक मानण्याची परवानगी मिळत नाही. भौतिकतेचा निकष पूर्ण होत असेल तेथे:
+
+- बंद करणे, सूचना देणे किंवा तत्सम नियम जीवनरक्षणासाठीच्या आवश्यक गोष्टींपासून वंचित करू शकत असतील, तर सामान्य सर्वोत्तम-प्रथा विधान नव्हे, तर नोंदीत सर्वाधिक कठोर भार-लाभ आणि प्रतिनिधी-चल विश्लेषण असले पाहिजे.
+- जुळवणी किंवा मार्गन तर्क आपत्कालीन उपचार, लाभ किंवा पात्रता-प्रमाणपत्र प्रवेशावर परिणाम करत असेल, तर कार्यकारी महत्त्वाच्या प्रमाणात असमान परिणाम आणि मौलिक न्याय्यतेचे निष्कर्ष नोंदवले पाहिजेत.
+- कर्मचारी पाळी, विक्रेता किंवा आरक्षण-तर्क सहभागींची भौतिक क्रमवारी लावत किंवा त्यांना वगळत असताना प्रणालीने केवळ दिखाऊ न्याय्यता परिच्छेद ठेवू नये. समन्वय जीवनरक्षणासाठी आवश्यक बनल्यास, प्रमाणनाने पुनरावलोकन आणि [§2 प्रणाली-वर्ग मूल्यमापन](#2-system-class-evaluation) तसेच [भाग B §7 प्रमाणन परिणाम](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) अंतर्गत पुनर्वर्गीकरण वाढवले पाहिजे; कर्मचारीवर्ग किंवा आपत्कालीन मार्गन प्रवेश-नियंत्रित असेल तेव्हा **Class A** कडे वर नेणे यात समाविष्ट आहे.
+
+<a id="544-defects-and-misalignment"></a>
+##### 5.4.4 दोष आणि विसंगती
+
+पुढील प्रत्येक बाब प्रमाणन दोष म्हणून हाताळली पाहिजे:
+
+- **अनुच्छेद VI-C** (*भेदभाव-निषेध*) अंतर्गत पुनरावलोकन आवश्यक असताना भौतिक वर्गीकरण, क्रमवारी किंवा भार-वाटपाचा तर्क लपवणे, चुकीचा मांडणे, विखुरणे किंवा दुसरीकडे सोपवणे;
+- तपासता येण्याजोग्या भार-लाभ विश्लेषणाशिवाय केवळ वरकरणी तटस्थता, एकत्रित सोयीचे मापदंड किंवा संचालकाचे स्व-प्रतिवेदन पुरेसे मानणे;
+- नोंदवलेला प्रतिनिधी-चल भेदभाव किंवा मौलिक अन्याय घटनात्मक संरेखनाला भौतिक धोका देत असताना प्रणालीवरील अवलंबित्व सुरू ठेवण्यास प्रमाणित करणे; आणि
+- **अनुच्छेद VI-C** (*भेदभाव-निषेध*) च्या **आवश्यकता** आणि **प्रमाणबद्धता** चाचण्या पूर्ण न करता भाषा, संस्कृती किंवा वारसा संरक्षण निष्प्रभ करण्यासाठी एकरूपीकरण, आंतरकार्यशीलता किंवा कार्यक्षमतेची चौकट वापरणे.
+
+
+<a id="55-accessibility-evaluation"></a>
+
+#### 5.5 सुलभतेचे मूल्यमापन
+
+<details>
+<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+
+- ऊर्ध्वप्रवाह: [भाग B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेखातील मजकूर*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); सहभाग मापन परिवार (*घटनात्मक मापन म्हणून सुलभता*); **अनुच्छेद VI-D** (*सुलभता*); [सुलभता](core_05_band_participation.md#accessibility), [भौतिकता](core_05_band_oversight.md#materiality), [अवलंबित्व](core_05_band_continuity.md#dependency), [अर्थपूर्ण कर्तृत्वक्षमता](core_05_band_participation.md#meaningful-agency), [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics), [संरक्षित वैशिष्ट्यांचे प्रतिनिधी चल आणि असमान परिणाम](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [मौलिक न्याय्यता](core_05_band_participation.md#substantive-fairness), [आवश्यकता](core_05_band_accountability.md#necessity), आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) (अध्याय पाच).
+- अधःप्रवाह: [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*सुलभतेची उदाहरणात्मक मार्गदर्शने*); [भाग B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*अभिलेख अखंडता*); [भाग B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित-इनपुट प्रवेशद्वार*); [भाग B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*सुलभतेतील विसंगती आणि केवळ कागदावरील सोय*).
+- यासोबत वाचा: शैक्षणिक सुलभता संबंधित असल्यास **अनुच्छेद IV-A** (*शिक्षणासाठी समान प्रवेश*) — शिक्षण-विशिष्ट सुलभतेची जबाबदारी तिथेच राहते; प्रमाणनामुळे मंच, प्रशासकीय, प्रभावित-पक्ष किंवा अंमलबजावणीतील सहभाग नियंत्रित होत असल्यास **अनुच्छेद VI-C** (*भेदभाव-निषेध*) (निर्णयप्रक्रिया आणि कार्यवाही) आणि **अनुच्छेद XII** (*प्रभावित पक्षांचा प्रणालीगत सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया*); [अध्याय आठ §5.5](#55-accessibility-evaluation) (*आडव्या लागू होणाऱ्या सुलभता-मूल्यमापन घटकाचा दुवा*).
+- उपविभाग: [§5.5.1](#551-materiality-trigger-and-governing-rules) (*भौतिकतेचा निकष आणि लागू नियम*); [§5.5.2](#552-evaluation-requirement) (*मूल्यमापनाची आवश्यकता*); [§5.5.3](#553-profiles-in-scope) (*व्याप्तीतील प्रोफाइल*); [§5.5.4](#554-system-class-scaling-and-escalation) (*प्रणाली-वर्गानुसार प्रमाण आणि वाढीव पुनरावलोकन*); [§5.5.5](#555-defects-and-misalignment) (*दोष आणि विसंगती*); [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*प्रणाली-वर्गानुसार सुलभतेची उदाहरणात्मक अंमलबजावणी*).
+
+</details>
+
+<br>
+
+*सोप्या भाषेत: प्रणाली संज्ञ प्राणी प्रत्यक्ष सहभागी होऊ शकतात की नाही हे भौतिकदृष्ट्या नियंत्रित करत असेल — केवळ दरवाजावर “उघडे” असे लिहिले आहे का एवढेच नव्हे — तर संवेदन, संज्ञान, हालचाल, संवाद, अधिष्ठान-संपर्क आणि तत्सम गरजांनुसार सहभाग खरोखर साध्य आहे का हे प्रमाणनाने तपासले पाहिजे. सोयींच्या याद्या आणि अंतरफलक मानके इतर साधनांत, नंतरच्या संग्रह-वाढींमध्ये किंवा स्वीकार-साधनांत असू शकतात; निकष लागू असेल तेव्हा मूलभूत सहभागाचे प्रत्यक्ष मूल्यमापन झाले का हे प्रमाणन तपासते. उदाहरणे: [§5.5.6 प्रणाली-वर्गानुसार सुलभतेची उदाहरणात्मक अंमलबजावणी (अपूर्ण यादी)](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).*
+
+<a id="551-materiality-trigger-and-governing-rules"></a>
+##### 5.5.1 भौतिकतेचा निकष आणि लागू नियम
+
+संविधानाने संरक्षित केलेल्या बाबींमध्ये संज्ञ प्राणी प्रत्यक्ष सहभागी होऊ शकतात की नाही हे त्यांच्या जीवनावर मोठा परिणाम करणारी प्रणाली नियंत्रित करत असेल, तेव्हा हा विभाग लागू होतो. उदाहरणार्थ:
+
+- शासन, प्रभावित-पक्ष सहभाग, निर्णयप्रक्रिया आणि कार्यवाही;
+- जीवनरक्षणासाठीच्या आवश्यक गोष्टी आणि आरोग्यसेवा;
+- अभिव्यक्ती, सभा आणि पत्रकारिता; किंवा
+- तत्सम क्षेत्रे.
+
+हे नियंत्रण पुढील मार्गांनी असू शकते:
+
+- अंतरफलक, स्थळे किंवा वेळापत्रक;
+- पात्रता-प्रमाणपत्रे किंवा संगणकीय संसाधनांचा प्रवेश;
+- सोयींची रचना; किंवा
+- तत्सम मार्ग.
+
+शिक्षणातील सुलभता **अनुच्छेद IV-A** (*शिक्षणासाठी समान प्रवेश*) अंतर्गतच राहते; येथे काहीही त्याची व्याप्ती कमी करत नाही.
+
+हे लागू असल्यास, प्रमाणनाने **अनुच्छेद VI-D** (*सुलभता*) आणि [सुलभता](core_05_band_participation.md#accessibility) यांनुसार **सुलभतेचे** मूल्यमापन केले पाहिजे. हा विभाग पुढील गोष्टी ठरवत नाही:
+
+- सोयींच्या याद्या;
+- अंतरफलक मानके;
+- सार्वत्रिक-रचना विनिर्देश; किंवा
+- दैनंदिन सोय-प्रक्रिया.
+
+त्या इतर समाविष्ट करता येणाऱ्या दस्तऐवजांत राहतात.
+
+<a id="552-evaluation-requirement"></a>
+##### 5.5.2 मूल्यमापनाची आवश्यकता
+
+औपचारिक वैशिष्ट्ये, पूर्वनिर्धारित अंतरफलक किंवा कागदावरील सोयी अस्तित्वात आहेत का एवढेच नव्हे, तर प्रणाली नियंत्रित करत असलेल्या क्षेत्रांत संज्ञ प्राणी प्रत्यक्ष सहभागी होऊ शकतात का हे प्रमाणनाने तपासले पाहिजे. [सुलभता](core_05_band_participation.md#accessibility) अंतर्गत सहभागावरील प्रत्यक्ष परिणामाची [भौतिकता](core_05_band_oversight.md#materiality) आणि [अवलंबित्व](core_05_band_continuity.md#dependency) यांनुसार प्रमाणबद्ध तपासणी करावी.
+
+पुनरावलोककांनी पुढील बाबींकडे लक्ष द्यावे:
+
+- केवळ कागदावर अस्तित्वात असलेल्या सोयी;
+- प्रत्यक्ष सहभागाची क्षमता कोणालाही न देता पूर्वनिर्धारित वैशिष्ट्यांवर अवलंबून असलेले “सर्वसाधारण प्रवेश” दावे;
+- सोयींची जबाबदारी कमी करण्यासाठी प्रणाली केवळ अंशतः भौतिक आहे असे युक्तिवाद;
+- [संज्ञत्वावर आधारित वगळण्यास मनाई](core_05_band_participation.md#sentience-non-exclusion) यांच्याशी विसंगत वगळणे; आणि
+- वेळापत्रक, स्थळनिवड, पात्रता-प्रमाणपत्रे, संगणकीय संसाधनांचा प्रवेश किंवा तत्सम यंत्रणांद्वारे संज्ञ प्राण्यांना अप्रत्यक्षपणे बाहेर ठेवणारी रचना (प्रतिनिधी चलाद्वारे नकार).
+
+सोयींची रचना करताना प्रमाणनाने [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics) आणि [संरक्षित वैशिष्ट्यांचे प्रतिनिधी चल आणि असमान परिणाम](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) यांचाही विचार केला पाहिजे. सोयींवरील कोणतीही मर्यादा नोंदवली पाहिजे आणि तिने [आवश्यकता](core_05_band_accountability.md#necessity), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) आणि [मौलिक न्याय्यता](core_05_band_participation.md#substantive-fairness) पूर्ण केली पाहिजे.
+
+<a id="553-profiles-in-scope"></a>
+##### 5.5.3 व्याप्तीतील प्रोफाइल
+
+कागदी अनुपालन नव्हे, तर प्रत्येक संज्ञ रूप आणि क्षमता-प्रोफाइलसाठी प्रत्यक्ष सहभाग तपासला पाहिजे:
+
+- प्रत्येक संबंधित प्रोफाइल श्रेणीचा विचार झाला पाहिजे: संवेदन, संज्ञान, हालचाल, संवाद, **अधिष्ठान-संपर्क**, आणि **संगणकीय-संपर्क**.
+- प्रोफाइल **सततचे**, **प्रासंगिक** किंवा **विकसनशील** असले तरी हीच आवश्यकता लागू होते.
+- विशिष्ट प्रभावित प्रोफाइलला निष्प्रभ करणारा व्यापक एकत्रित उपलब्धतेचा दावा करणारा **सर्वसाधारण प्रवेश** नमुना, किंवा सहभागाची किमान मर्यादा निष्प्रभ करणारे **निवडक-भौतिकता प्रमाणन**, हा विभाग पूर्ण करत नाही.
+
+<a id="554-system-class-scaling-and-escalation"></a>
+##### 5.5.4 प्रणाली-वर्गानुसार प्रमाण आणि वाढीव पुनरावलोकन
+
+प्रणाली-वर्गामुळे मूल्यमापन किती खोलवर करायचे ते बदलते. कागदावरील सोयी किंवा पूर्वनिर्धारित अंतरफलक पुरेसे मानण्याची परवानगी कधीच मिळत नाही. भौतिकतेचा निकष लागू असेल तेथे:
+
+- प्रणालीच्या बिलिंग किंवा सेवा-खंडित होण्याच्या मार्गांमुळे संज्ञ प्राणी जीवनरक्षणाच्या आवश्यक गोष्टींपासून तोडले जाऊ शकत असतील, तर संज्ञ प्राणी प्रत्यक्ष सहभागी होऊ शकतात याचा सर्वाधिक ठोस पुरावा नोंदीत असला पाहिजे. सर्वसाधारण सुलभता-विधान पुरेसे नाही.
+- प्रणालीचे प्रवेशद्वार आरोग्यसेवेचा प्रवेश नियंत्रित करत असतील, तर सोयी आणि प्रतिनिधी चलाद्वारे नकार यांवरील निष्कर्ष नोंदवले पाहिजेत. कार्यवाही जितकी अधिक महत्त्वाची, तितका अधिक तपशील आवश्यक.
+- पाळी, आरक्षण किंवा विक्रेता अंतरफलक सहभागींचा भौतिक सहभाग रोखत असताना प्रणाली केवळ दिखाऊ सुलभता परिच्छेदावर निभावू शकत नाही. प्रणालीचा समन्वय जीवनरक्षणासाठी आवश्यक बनल्यास, प्रमाणनाने अधिक बारकाईने पुनरावलोकन करून [§2 प्रणाली-वर्ग मूल्यमापन](#2-system-class-evaluation) आणि [भाग B §7 प्रमाणन परिणाम](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) अंतर्गत प्रणाली-वर्गाचा पुनर्विचार केला पाहिजे. कर्मचारीवर्ग किंवा आपत्कालीन मार्गन प्रवेश-नियंत्रित असेल तेव्हा **Class A** कडे वर नेणे यात समाविष्ट आहे.
+
+<a id="555-defects-and-misalignment"></a>
+##### 5.5.5 दोष आणि विसंगती
+
+पुढील प्रत्येक बाब प्रमाणन दोष म्हणून हाताळली पाहिजे:
+
+- प्रत्यक्ष मूलभूत सहभागाचे मूल्यमापन करता येण्याजोग्या विश्लेषणाशिवाय औपचारिक सुविधा, पूर्वनिर्धारित अंतरफलक किंवा कागदावरील सोयी पुरेशा मानणे;
+- नोंदवलेल्या सहभाग-अडथळ्यांमुळे घटनात्मक संरेखनाला भौतिक धोका असताना प्रणालीवरील अवलंबित्व सुरू ठेवण्यास प्रमाणित करणे;
+- **अनुच्छेद VI-D** (*सुलभता*) च्या **आवश्यकता** आणि **प्रमाणबद्धता** चाचण्या पूर्ण न करता सहभागाची किमान मर्यादा निष्प्रभ करण्यासाठी खर्च, रचना-निवड, अधिष्ठान-वर्ग किंवा कार्यकारी प्रमाण यांचा आधार घेणे; आणि
+- कमी भाराचा पर्याय व्यवहार्य असताना सुलभता निष्प्रभ करणारी कार्यकारी रचना.
+
+
+<a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+
+#### 5.6 विश्वासार्हता आणि प्रणालीवरील अवलंबित्व-अखंडतेचे मूल्यमापन
+
+<details>
+<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+
+- ऊर्ध्वप्रवाह: [भाग B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*अभिलेखातील मजकूर*); [§2](#2-system-class-evaluation) (*प्रणाली वर्ग मूल्यमापन*); देखरेख मापन परिवार (*सत्य आणि ज्ञानविषयक अखंडता; घटनात्मक मापन म्हणून विश्वासार्हता, विश्वास आणि विश्वासाचा ऱ्हास व दिशाभूल करणारे अवलंबित्व*); **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*); [विश्वासार्हता](core_05_band_continuity.md#trustworthiness), [विश्वास](core_05_band_continuity.md#trust), [विश्वासाचा ऱ्हास आणि दिशाभूल करणारे अवलंबित्व](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [निवारण आणि दुरुस्ती](core_05_band_accountability.md#redress-and-remediation), [प्रोत्साहन-संरेखन](core_05_band_integrative.md#incentive-alignment), [उलटवता येण्याजोगेपणा](core_05_band_continuity.md#reversibility), [भौतिकता](core_05_band_oversight.md#materiality), [अवलंबित्व](core_05_band_continuity.md#dependency), आणि [धोका](core_05_band_continuity.md#risk) (अध्याय पाच).
+- अधःप्रवाह: [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*विश्वासार्हतेची उदाहरणात्मक मार्गदर्शने*); [भाग B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*अभिलेख अखंडता*); [भाग B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*सत्यापित-इनपुट प्रवेशद्वार*); [भाग B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*खोट्या विश्वासाची विसंगती, विपरीत प्रोत्साहनांची विसंगती आणि पुनर्प्राप्ती-अखंडतेची विसंगती*).
+- यासोबत वाचा: **अनुच्छेद XIII-A** (*विश्वसनीयता आणि विश्वासार्हतेचा मूलाधार*) आणि **अनुच्छेद XIII-B** (*निवारण आणि उपायाचा अधिकार*) तसेच **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*) — आव्हान आणि लेखापरीक्षणाचे अधिकार तिथेच राहतात; उच्च-स्वायत्त प्रणाली शासन किंवा पडताळणीचे मार्ग भौतिकदृष्ट्या मध्यस्थित करत असल्यास **अनुच्छेद XIII-E** (*उच्च-स्वायत्त प्रणाली आणि साधन-मध्यस्थित प्रक्रिया-अखंडता*); प्रणालीवरील सततच्या अवलंबित्वाचा जीवनरक्षणासाठी आवश्यक प्रवेशावर परिणाम होत असल्यास **अनुच्छेद III-A** (*जीवनरक्षण*); [अध्याय एक §6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) आणि [अध्याय एक §5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+- उपविभाग: [§5.6.1](#561-materiality-trigger-and-governing-rules) (*भौतिकतेचा निकष आणि लागू नियम*); [§5.6.2](#562-evaluation-requirement) (*मूल्यमापनाची आवश्यकता*); [§5.6.3](#563-system-class-scaling-and-escalation) (*प्रणाली-वर्गानुसार प्रमाण आणि वाढीव पुनरावलोकन*); [§5.6.4](#564-defects-and-misalignment) (*दोष आणि विसंगती*); [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*प्रणाली-वर्गानुसार विश्वासार्हतेची उदाहरणात्मक अंमलबजावणी*).
+
+</details>
+
+<br>
+
+*सोप्या भाषेत: प्रणाली काय सांगते आणि करते यावर संज्ञ प्राणी विश्वास ठेवू शकतात का — आणि तो विश्वास फोल ठरल्यास त्याला आव्हान देऊ शकतात का — यावर प्रणालीचा भौतिक परिणाम होत असेल, तर अवलंबित्व प्रत्यक्षात न्याय्य आहे का, ते प्रामाणिकपणे उघड केले आहे का आणि चुका दुरुस्त करता येतात का हे प्रमाणनाने तपासले पाहिजे. विश्वासार्हतेची मापने आणि चाचणी-संचांची रचना इतर साधनांत राहते; निकष लागू असेल तेव्हा विश्वासार्हता, खोट्या विश्वासाचा धोका आणि आव्हानाचे मार्ग प्रत्यक्ष तपासले गेले का हे प्रमाणन तपासते. उदाहरणे: [§5.6.5 प्रणाली-वर्गानुसार विश्वासार्हतेची उदाहरणात्मक अंमलबजावणी (अपूर्ण यादी)](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).*
+
+<a id="561-materiality-trigger-and-governing-rules"></a>
+##### 5.6.1 भौतिकतेचा निकष आणि लागू नियम
+
+मोठी प्रणाली लोक तिच्याकडून कशाची अपेक्षा ठेवतात हे घडवत असेल — ती काय करते, तिच्या मर्यादा कुठे आहेत, काय बिघडू शकते, तिला आव्हान कसे द्यायचे आणि समस्या कशा दुरुस्त होतात — तेव्हा हा विभाग लागू होतो. हे पुढील मार्गांनी घडू शकते:
+
+- प्रणाली किती विश्वासार्ह आहे याविषयीचे दावे;
+- ती काय उघड करते आणि काय उघड करत नाही;
+- तिचे प्रत्यक्ष कामकाज;
+- तिच्यात अंतर्भूत केलेली प्रोत्साहने;
+- अपयशानंतर ती कशी सावरते; किंवा
+- लोक तिच्यावर अवलंबून होतात असा कोणताही तत्सम मार्ग.
+
+भौतिकतेचा निकष लागू असेल तेथे, प्रणाली-संरेखन प्रमाणनाने पुढील तरतुदींनुसार **विश्वासार्हता आणि प्रणालीवरील अवलंबित्व-अखंडतेचे** मूल्यमापन केले पाहिजे:
+
+- **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*);
+- [विश्वासार्हता](core_05_band_continuity.md#trustworthiness); आणि
+- [विश्वासाचा ऱ्हास आणि दिशाभूल करणारे अवलंबित्व](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
+
+<a id="562-evaluation-requirement"></a>
+##### 5.6.2 मूल्यमापनाची आवश्यकता
+
+**अनुच्छेद XIII-A** (*विश्वसनीयता आणि विश्वासार्हतेचा मूलाधार*) अंतर्गत प्रणालीवर [विश्वास](core_05_band_continuity.md#trust) ठेवण्यास लोकांकडे योग्य कारण आहे का आणि ते तिच्यावर अचूकपणे अवलंबून राहू शकतात का हे प्रमाणन प्रक्रियेने तपासले पाहिजे.
+
+मूल्यमापनाने पुढील बाबीही तपासल्या पाहिजेत:
+
+- लोक प्रणालीला वास्तवात आव्हान देऊ शकतात, निर्णयांचे पुनरावलोकन करून घेऊ शकतात आणि उपाय मिळवू शकतात का — केवळ कागदावर नव्हे (**अनुच्छेद XIII-A** (*विश्वसनीयता आणि विश्वासार्हतेचा मूलाधार*) आणि **अनुच्छेद XIII-B** (*निवारण आणि उपायाचा अधिकार*));
+- बनावट विश्वास निर्माण करणे किंवा मर्यादा न उघड करणे यांसह, लोकांची दिशाभूल होऊन ते प्रणालीवर चुकीचा विश्वास ठेवतील किंवा चुकीच्या प्रकारे अवलंबून राहतील का (**अनुच्छेद XIII-C** (*खोटा विश्वास आणि दिशाभूल करणाऱ्या अवलंबित्वास मनाई*));
+- तिची प्रोत्साहने फसवणूक किंवा कामातील शॉर्टकट यांना बक्षीस देतात का (**अनुच्छेद XIII-D** (*प्रोत्साहन-संरेखन मर्यादा*)); आणि
+- महत्त्वाच्या ठिकाणी, अपयश लपविल्याशिवाय किंवा कोणाचे अधिकार गुपचूप संकुचित केल्याशिवाय ती अपयशातून प्रामाणिकपणे सावरू शकते का (**अनुच्छेद XIII-F** (*लवचिकता आणि स्व-दुरुस्तीचा मूलाधार*)).
+
+तपासणी [भौतिकता](core_05_band_oversight.md#materiality), [अवलंबित्व](core_05_band_continuity.md#dependency), आणि [धोका](core_05_band_continuity.md#risk) यांनुसार प्रमाणबद्ध असते.
+
+मूल्यमापनाने कालांतराने, प्रमाणानुसार आणि अवलंबित्वाच्या संदर्भात कार्यात्मक परिणाम प्रतिबिंबित केला पाहिजे; पुढील गोष्टी नव्हे:
+
+- प्रतिष्ठा, आकार किंवा विपणन;
+- नाममात्र आश्वासन-लेबले;
+- विश्वासार्हतेच्या बॅज किंवा विक्रेता गुणांकनामुळे कोणाची नियुक्ती होते किंवा काय खरेदी केले जाते हे प्रत्यक्ष ठरत असताना विश्वासार्हतेवरील दिखाऊ परिच्छेद;
+- घोषित हेतू; किंवा
+- केवळ पूर्वीची कामगिरी.
+
+<a id="563-system-class-scaling-and-escalation"></a>
+##### 5.6.3 प्रणाली-वर्गानुसार प्रमाण आणि वाढीव पुनरावलोकन
+
+पुनरावलोकन किती खोलवर करायचे हे प्रणालीच्या वर्गावर अवलंबून असते. भौतिकतेचा निकष पूर्ण होत असेल तेथे:
+
+- प्रणालीची मोजमापे, सूचना किंवा पुनर्प्राप्तीविषयक दावे कुटुंबांची किंवा संचालकांची जीवनरक्षणासाठीच्या आवश्यक गोष्टींबाबत दिशाभूल करू शकत असतील, तर प्रणाली विश्वासार्ह आहे असा केवळ दावा नव्हे, तर ठोस पुरावा नोंदीत असला पाहिजे. पुराव्याने हे दाखवले पाहिजे की:
+  - लोक प्रणालीवर विश्वास ठेवू शकतात;
+  - लोकांना खोटे आश्वासन मिळणार नाही; आणि
+  - प्रणाली अपयशातून प्रामाणिकपणे सावरते.
+- प्रणालीचा चालू-स्थिती, जुळवणी किंवा आपत्कालीन अधिलंघन (“ब्रेक-ग्लास” प्रवेश) यांवरील दावा लोकांना वैद्यकीय उपचार किंवा आपत्कालीन सेवा मिळतील की नाही हे नियंत्रित करत असेल, तर प्रणाली किती महत्त्वाची आहे त्यानुसार तपशीलवार नोंदीत पुढील दाखवले पाहिजे:
+  - लोक त्या दाव्यांना कसे आव्हान देऊ शकतात; आणि
+  - लोकांची त्यांवर अवलंबून राहण्याबाबत दिशाभूल होऊ शकते का.
+- समन्वय जीवनरक्षणासाठी आवश्यक बनल्यास, प्रमाणनाने पुनरावलोकन वाढवून [§2 प्रणाली-वर्ग मूल्यमापन](#2-system-class-evaluation) आणि [भाग B §7 प्रमाणन परिणाम](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) अंतर्गत प्रणाली-वर्गाचा पुनर्विचार केला पाहिजे. दिशाभूल करणाऱ्या अवलंबित्वामुळे जगण्यासाठी आवश्यक समन्वय बंद पडू शकत असेल, तर प्रणालीला **Class A** कडे वर नेणे यात समाविष्ट असू शकते.
+
+<a id="564-defects-and-misalignment"></a>
+##### 5.6.4 दोष आणि विसंगती
+
+पुढील प्रत्येक बाब प्रमाणन दोष म्हणून हाताळली पाहिजे:
+
+- **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) अंतर्गत पुनरावलोकन आवश्यक असताना भौतिक मर्यादा, धोके किंवा अपयशाचा इतिहास लपवणे, चुकीचा मांडणे, विखुरणे किंवा दुसरीकडे सोपवणे;
+- तपासता येण्याजोग्या [विश्वासार्हता](core_05_band_continuity.md#trustworthiness) विश्लेषणाशिवाय प्रतिष्ठा, समर्थन, प्रमाण किंवा संचालकाचे स्व-प्रतिवेदन पुरेसे मानणे;
+- नोंदवलेला खोटा विश्वास, विपरीत प्रोत्साहने, दुर्गम आव्हान-मार्ग किंवा अपयश लपवणाऱ्या पुनर्प्राप्ती पद्धतींमुळे घटनात्मक संरेखनाला भौतिक धोका असताना प्रणालीवरील अवलंबित्व सुरू ठेवण्यास प्रमाणित करणे; आणि
+- **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) च्या विश्वसनीयता आणि **अनुच्छेद XIII-A** (*विश्वसनीयता आणि विश्वासार्हतेचा मूलाधार*) च्या आव्हानविषयक शिस्ती पूर्ण न करता प्रकटीकरण, आव्हानयोग्यता किंवा निवारण निष्प्रभ करण्यासाठी कार्यक्षमता, नवोन्मेष किंवा सुरक्षिततेची चौकट वापरणे.
+
+<br>
+
+*मंच प्रक्रिया, अभिलेख, परिणाम आणि प्रस्थिति-दुव्याकडे पुढे जा:* [अध्याय आठ, भाग ब — अभिलेख आणि प्रक्रिया](core_07_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) ([§6 मंच प्रक्रिया](core_07_b_system_alignment_certification_record_process.md#6-forum-process) ते [§10 प्रस्थितीशी संबंध](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+
+*प्रत्येक मूल्यमापन क्षेत्राची उदाहरणे:* [अध्याय आठ, भाग क — उदाहरणे](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations).
+
 <br>
 
 *अभिलेख, मंच प्रक्रिया, आणि प्रस्थिति सेतूकडे चालू ठेवा:* [अध्याय सात, भाग ब — अभिलेख आणि प्रक्रिया](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) ([§11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) ते [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)).

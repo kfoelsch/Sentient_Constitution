@@ -101,7 +101,7 @@ Article XXVII-B is already lean. No migration beyond the first pass.
 | **CS-10.5** | Add: unreliability indicators (shared with **CI-14.4**). |
 | **CS-10.8** (new) | Preservation during transition: archiving on deprecation, retirement, rollback, migration, and replacement; sealed custody under independent control; evidence preservation. |
 | Chapter Five (optional) | Definitions for **Gate** and **Gate Criteria**. |
-| `Article_XXVII_plain_language.md` | Re-sync after the core edits. |
+| `project/plain_language/Article_XXVII_plain_language.md` | Re-sync after the core edits. |
 
 ## Open decisions
 

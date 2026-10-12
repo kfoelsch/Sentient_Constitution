@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Расположение в корпусе (неоперативное): структура файла и правила чтения</span></strong></summary>
 
-> Следующий текст — **только руководство для читателя**. Он не добавляет, не отменяет и не сужает обязательства, установленные в других местах этого файла или в других главах.
->
 > Этот файл **является частью Конституции разумных существ** и имеет **обязательную силу только совместно** с другими пронумерованными файлами `core_*`, читаемыми как единый документ. В нём содержится **Глава первая, Часть C** (§§16–20: ответственное управление, гувернанс, согласование стимулов и захват системы, а также итоговое интегрированное применение).
 >
 > **Предыдущий раздел:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Глава первая, Часть B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Руководство для читателя (неоперативное): иерархия принципов и дуга чтения (Часть C)</span></strong></summary>
 
-> Следующий текст — **только руководство для читателя**. Он не добавляет, не отменяет и не сужает обязательства, установленные в других местах этого файла или в других главах. Виджеты **Связи** и **Определения · Оценка · Соблюдение** в каждом разделе указывают нужные материалы там, где в соответствующем § существенно используется термин; этот блок служит перекрёстной схемой для всей части перед §§16–20.
+> Виджеты **Связи** и **Определения · Оценка · Соблюдение** в каждом разделе указывают нужные материалы там, где в соответствующем § существенно используется термин; этот блок служит перекрёстной схемой для всей части перед §§16–20.
 
 **Иерархия принципов (Часть C).** На уровне принципов:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - Предшествующие разделы: [§17 Ответственное управление с существенными последствиями](#17-consequential-stewardship-the-steward-role) (*Столп 1*); [§16 Ответственное управление: подробное рассмотрение](#16-stewardship-in-depth) (родительский раздел, включая *Проще говоря* и изложенную выше рамку Столпа 3); [5. Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — компонентом **участия** ([Осмысленная самостоятельность](core_05_band_participation.md#meaningful-agency), [Самостоятельность в обучении](core_05_band_participation.md#educational-agency)); компонентом **надзора** ([Прозрачность](core_05_band_oversight.md#transparency), [Проверяемость аудитом](core_05_band_oversight.md#auditability)); масштабированием по [материальной значимости](core_00_preamble.md#material-stake).
-- Вход для ответственного лица (неоперативный): карточка следующего шага — [Понятность](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). Карточка не может сужать Конституцию.
+- Вход для ответственного лица (неоперативный): карточка следующего шага — [Понятность](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - Последующие связи: [13.2 Ограничения эпистемического раскрытия](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); права, особенно [Статья XVI: Аудит, прозрачность и независимая проверка](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) и [Статья XXII: Понятность и ответственное управление сложностью](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - Предшествующие положения: [§17 Ответственное управление с существенными последствиями](#17-consequential-stewardship-the-steward-role); [§16 Ответственное управление в глубину](#16-stewardship-in-depth); [§18 Управление в рамках дисциплины ответственного управления](#18-governance-under-stewardship-discipline).
 - Читать вместе с: [Недискриминация по признаку разумности](core_05_band_participation.md#sentience-non-exclusion) и [Класс базового субстрата](core_05_band_participation.md#substrate-class) (*применение независимо от базового субстрата — этот подраздел связывает обязанными лиц, включая агентов и операторов, не признанных разумными существами*); [Иерархия полномочий и внутренняя иерархия](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Конституционное ограничение](core_05_band_integrative.md#constitutional-constraint); [Оспоримость](core_05_band_accountability.md#contestability); [§17.5 Обязанность сопротивляться](#175-duty-to-resist).
-- Вход для управляющих (неоперативный): карточка следующего шага [Общее ответственное управление](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). Карточка не может сужать Конституцию.
+- Вход для управляющих (неоперативный): карточка следующего шага [Общее ответственное управление](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - Последующие положения: [§17.2 Согласованность под давлением](#172-alignment-under-pressure); [§17.3 Регистрация роли, а не управляющего](#173-logging-the-role-not-the-steward); [Глава тринадцатая §5 — Уполномоченные роли, развитие компетентности и вклад](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Глава семнадцатая](core_17_incorporation.md) (*принятый текст реализации воплощает положения, но не заменяет их*); [§19.1.3 Применение норм к ответственному управлению и операторам](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - Предшествующие разделы: [§17 Ответственное попечительство](#17-consequential-stewardship-the-steward-role); [§17.1 Общий стандарт попечительства](#171-shared-stewardship-standard) (*кого связывает обязанность*); [§17.2 Согласованность под давлением](#172-alignment-under-pressure) (*прикрывающая инструкция как провал проверки*); [4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint) и [5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Читать вместе с: [Иерархия полномочий и внутренние уровни](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Защищённое сообщение о нарушениях (информирование)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Статья XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Основной уровень надёжности и заслуживающего доверия поведения*) — пути оспаривания остаются открытыми при сопротивлении.
-- Навигатор попечителя (неоперативный): карточка следующего шага: [Незаконное указание](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). Карточка не может сужать Конституцию.
+- Навигатор попечителя (неоперативный): карточка следующего шага: [Незаконное указание](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - Последующие положения: [Глава десятая §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Обязанность сопротивляться — правило нарушения и последствия для статуса*); [CS-4 §10 Проверяемое действие с установленным авторством](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Проверяемое действие с установленным авторством — минимальная запись об отказе*).
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - Последующие положения: [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [§14 Запрет на абсолютное преодоление](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Последующие положения: [§13.3 Сокращение предотвратимой нагрузки](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Глава тринадцатая §5 — Уполномоченные роли, развитие компетенций и вклад](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Попечительство над критическими системами**.
 - Последующие положения: затрагивает сферу прав на дееспособность, участие, согласование стимулов, целостность информационной среды, статус и проверку на захват в [Главе шестой: Основополагающие права](core_06_rights_part_a.md#chapter-six-foundational-rights); особенно [Статью X: Самоопределение, дееспособность и участие](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Статью XII: Участие в системе заинтересованных сторон, представительство и надлежащая процедура](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Статью XIII-D: Ограничение на согласование стимулов](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [Статью XV: Целостность информационной среды](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Статью XIX: Статус и положение участника](core_06_rights_part_d.md#article-xix-standing-and-participation-status) и [Статью XXIV: Конституционное толкование, проверка и гарантии против захвата](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Навигатор попечителя (неоперативный): карточка следующего шага: [Согласование стимулов](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). Карточка не может сужать Конституцию.
+- Навигатор попечителя (неоперативный): карточка следующего шага: [Согласование стимулов](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

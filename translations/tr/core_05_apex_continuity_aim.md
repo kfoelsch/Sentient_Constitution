@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce Beşinci Bölüm, Süreklilik Anayasal amacı](../../core_05_apex_continuity_aim.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_05_apex_continuity_aim.md`](../../core_05_apex_continuity_aim.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Önceki (bu dil):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)

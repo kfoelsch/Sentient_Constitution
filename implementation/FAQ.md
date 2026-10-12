@@ -1,7 +1,7 @@
 # Everyday questions
 
 **Status:** Process / handbook support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. If this page and a numbered `core_*` file disagree, the `core_*` file wins.  
-**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)).  
+**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../README.md)).  
 **Job:** Ten questions people actually ask. Each answer ends at a real home. This page is not a second morals stack.
 
 <a id="questions"></a>
@@ -29,7 +29,7 @@ See: [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-ad
 
 Using the ideas as a handbook is **operations-guide** use. “We adopted” is honest only after a qualifying body records a Chapter Sixteen instrument. Attach the non-adoption banner when that is the actual situation.
 
-See: [START_HERE.md §5](../START_HERE.md#2-two-ways-to-use-it); [FIT_SITUATIONS.md §2](adoption/FIT_SITUATIONS.md#2-two-modes); [non-adoption banner](adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner).
+See: [START_HERE.md §2](../START_HERE.md#2-two-ways-to-use-it); [FIT_SITUATIONS.md §2](adoption/FIT_SITUATIONS.md#2-two-modes); [non-adoption banner](adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner).
 
 ### 5. If I am being harmed, what do I do *here* vs in ordinary law?
 
@@ -47,7 +47,7 @@ See: [README — What counts as the Constitution](../README.md#binding-vs-suppor
 
 No. Human and AI stewards share one standard. Do not invent an AI-only overlay. Do not exempt humans from the costly cases.
 
-See: [Chapter One §16.1.1](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [§17.2 Alignment Under Pressure](../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
+See: [Chapter One §17.1](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [§17.2 Alignment Under Pressure](../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
 
 ### 8. What is the Rights Floor?
 

@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Derlemdeki konum (işletimsel değildir): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okura yönelik rehberliktir**. Bu dosyada veya diğer bölümlerde yer alan bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz.
->
 > Bu dosya **Sentient Constitution'ın bir parçasıdır** ve tek bir belge olarak okunan diğer numaralı `core_*` dosyalarıyla **birlikte bağlayıcıdır**. **Birinci Bölüm, Kısım A**'yı (§§1–12: amaç ve rol; §2'de tanıtılan ve esenlik, Güvenlik, Gerçek, Güven ve Özgürlük üzerinden geliştirilen Gelişim amacı; §8'de tanıtılan ve ortak sistem kapasitesi, dayanıklılık, piyasa yapısı ve sistemik değerlendirme üzerinden geliştirilen Süreklilik amacı) içerir.
 >
 > **Önceki:** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işletimsel değildir): Birinci Bölümün amaçlar, Tetrad, Maddeler ve tanımlarla bağlantısı</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okura yönelik rehberliktir**. Bu dosyada veya diğer bölümlerde yer alan bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz. Her bölümün **İz** ve **Tanımlar · Değerlendirme · Uyum** bileşenleri bağlayıcı yönlendirmeyi taşır; bu blok, Birinci Bölüm'e başlayan okurlar için kısım düzeyinde bir haritadır.
+> Her bölümün **İz** ve **Tanımlar · Değerlendirme · Uyum** bileşenleri bağlayıcı yönlendirmeyi taşır; bu blok, Birinci Bölüm'e başlayan okurlar için kısım düzeyinde bir haritadır.
 
 **Katmanlar nasıl bağlanır.** Her katman farklı bir soruya yanıt verir ve Birinci Bölüm'deki her ilke diğer üç katmana işaret eder:
 
@@ -1463,7 +1461,7 @@ Operasyonel ayrıntılar — kurtarma tespiti, sınırlandırma, güvenli arıza
 
 - Üst kaynak: [§11 Piyasa Yapısı](#11-market-structure); [Piyasa Yoğunlaşma Eşiği](core_05_band_accountability.md#market-concentration-threshold).
 - Alt kaynak: **CJS-3.11.1 — Piyasa yoğunlaşma eşiği belirleme disiplini (uygulayıcı tarafından ayarlanabilir)** (yürürlükteki eşik belirleme kuralları); [§11.2 Rekabeti Teşvik ve Tahakküme Karşı Koyma](#112-pro-competition-and-anti-domination); [§11.3 Birleşme Üst Sınırı](#113-consolidation-ceiling); [CJS-3.11.3 — Birleşme üst sınırı belirleme disiplini (uygulayıcı tarafından ayarlanabilir)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) yürürlükteki üst sınır belirleme kuralları); [Dokuzuncu Bölüm §4 Soru 2 — ne kadar iyi ya da kötüydü?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [On Birinci Bölüm §5.1 Yoğunlaşmaya dayalı bozma](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- Emanet yöneticisi kapısı (işletimsel değildir): Sonraki adım kartı: [Piyasa yapısı](implementation/STEWARD_ENTRY_DOORS.md#market-structure). Kart Anayasa'yı daraltamaz.
+- Emanet yöneticisi kapısı (işletimsel değildir): Sonraki adım kartı: [Piyasa yapısı](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Alt bölümler (okuma sırası): [§11.1.1 Yoğunlaşma Eşiği Tetikleyicileri (Uygulayıcı Ayarlı)](#1111-concentration-threshold-triggers-adopter-tunable).
 
 </details>

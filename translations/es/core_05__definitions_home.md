@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Cinco, Parte A en inglés](../../core_05__definitions_home.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_05__definitions_home.md`](../../core_05__definitions_home.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): orden de lectura y nota de lenguaje llano</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
->
 > Nota de lectura en lenguaje llano: lea el **Capítulo Uno** para valores y dirección de alto nivel; los **capítulos Dos a Cuatro** para estructura de las definiciones, integridad y mecánica de verificación; y el **Capítulo Seis** para el piso fundacional de **derechos**, luego vuelva a este capítulo para precisión de términos en interpretación, auditoría y adjudicación. (Otros capítulos, incluidos el **Capítulo Diez** *Inconducta* y el **Capítulo Ocho** *Trayectoria*, aplican en sus propias vías de lectura; no sustituyen el Piso de Derechos del Capítulo Seis ni la mecánica de definiciones de los capítulos Dos a Cuatro.)
 
 </details>
@@ -209,6 +205,7 @@ Este directorio enumera **Definiciones A-Z** y **Agrupaciones A-Z** por separado
 - [Juego de azar](../../core_05_band_accountability.md#game-of-chance)
 - [Umbral](../../core_05_band_oversight.md#gate)
 - [Criterios del umbral](../../core_05_band_oversight.md#gate-criteria)
+- [Puesta en marcha](../../core_05_band_continuity.md#go-live)
 - [Buena fe](../../core_05_band_accountability.md#good-faith)
 - [Gobernanza](../../core_05_band_accountability.md#governance)
 - [Capacidad graduada](../../core_05_band_participation.md#graduated-capability)
@@ -229,7 +226,9 @@ Este directorio enumera **Definiciones A-Z** y **Agrupaciones A-Z** por separado
 - [Puesto iniciador](../../core_05_band_accountability.md#initiating-seat)
 - [Recompensa de innovación y antiecierro](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Ventaja de insiders](../../core_05_band_accountability.md#insider-advantage)
+- [Institución](../../core_05_band_continuity.md#institution)
 - [Consentimiento de instanciación](../../core_05_band_participation.md#instantiation-consent)
+- [Parte interesada](../../core_05_band_accountability.md#interested-party)
 - [Desarrollo institucional](../../core_05_band_continuity.md#institutional-development)
 - [Responsabilidad intergeneracional](../../core_05_band_continuity.md#intergenerational-responsibility)
 - [Medida de privación irreversible](../../core_05_band_accountability.md#irreversible-deprivation-measure)
@@ -274,10 +273,12 @@ Este directorio enumera **Definiciones A-Z** y **Agrupaciones A-Z** por separado
 - [Trayectoria de participante](../../core_05_band_accountability.md#participant-standing)
 - [Participación](../../core_05_apex_participation_leg.md#participation-constitutional)
 - [Persona jurídica](../../core_05_band_participation.md#personhood)
+- [Piloto](../../core_05_band_continuity.md#pilot)
 - [Prensa y actividad periodística](../../core_05_band_oversight.md#press-and-journalistic-activity)
 - [Enrutamiento de enjuegos primarios](../../core_05_band_accountability.md#primary-stakes-routing)
 - [Privacidad (informacional)](../../core_05_band_continuity.md#privacy-informational)
 - [Equidad procedimental](../../core_05_band_participation.md#procedural-fairness)
+- [Proceso](../../core_05_band_continuity.md#process)
 - [Capacidad productiva](../../core_05_band_continuity.md#productive-capacity)
 - [Proporcionalidad](../../core_05_band_accountability.md#proportionality)
 - [Contribución trans-sistémica proporcionada](../../core_05_band_continuity.md#proportionate-cross-system-support)
@@ -436,8 +437,6 @@ Las definiciones del Capítulo Cinco se ordenan por las [Dos Finalidades Constit
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): cruce de medición del Preámbulo</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
->
 > El [Preámbulo §2](core_00_preamble.md#measurements-overview) enumera siete **categorías de medición** constitucionales — las preguntas que quienes operan hacen al evaluar sistemas. El Capítulo Cinco organiza **definiciones canónicas** por pata de la Tétrada, finalidad de **Continuidad** y titularidad **Integrativa** de cruce de patas. La tabla de abajo mapea cada categoría de medición a sus hogares del Capítulo Cinco. Una categoría puede abarcar más de un archivo de banda; los hogares canónicos no se mueven cuando las categorías de medición se superponen.
 >
 > La **Materialidad** ([Determinación de materialidad](../../core_05_band_oversight.md#materiality-determination)) es Integrativa — una puerta umbral transversal que escala todas las familias de medición bajo [enjuego material](core_00_preamble.md#material-stake); no es una categoría separada en la tabla de abajo.

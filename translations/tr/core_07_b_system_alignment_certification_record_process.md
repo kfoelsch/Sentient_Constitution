@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce Yedinci Bölüm, B Kısmı](../../core_08_b_system_alignment_certification_record_process.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Yedinci Bölüm, B Kısmı**nı içerir — belgelendirme **kaydı** içerikleri, şeffaflık ve itiraz edilebilirlik, forum bileşen rolleri, gözetim sırası, güzergâh köprüsü ve yeniden açma (**§11–§16**, A Kısmı §1–§10dan devam). **A Kısmı** — değerlendirme gerekleri — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)dedir.

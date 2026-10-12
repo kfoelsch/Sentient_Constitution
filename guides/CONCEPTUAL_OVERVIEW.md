@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to use this overview</span></strong></summary>
 
-> **Reader orientation · `SC-Corpus-2026.08.09` · pre-release.** This map is reader-oriented conceptual support. It introduces relationships between components; it adds no definitions or duties and cannot narrow the numbered core text. Reading it is not adoption.
+> **Reader orientation · `SC-Corpus-2026.10.12` · pre-release.** This map is reader-oriented conceptual support. It introduces relationships between components; it adds no definitions or duties and cannot narrow the numbered core text. Reading it is not adoption.
 
 </details>
 
@@ -890,7 +890,7 @@ When a record does exist, its effects remain bounded to named pathways. The syst
 
 Restoration is a real route, not automatic forgiveness or record erasure. Correction, remedy, restitution, safeguards, monitoring, or requalification may be required. Once restoration is complete and no lock, remedy duty, or correction duty remains open, slots 1–3 archive; slots 4–6 archive after a published period capped by the contribution half-life in Chapter Ten §6.1. Slots 7–9 remain active indefinitely, subject to their special restoration rules and Chapter Eleven.
 
-Archival preserves evidence while ending ordinary active use. A forum may access an archived record on a documented showing that it bears on recurrence risk in a live matter. Archived records produce no named-pathway effect, are not disclosed to named-pathway gatekeepers, and do not count toward competency bars, except where a published bar for a specific high-sensitivity named pathway states a longer look-back that itself satisfies Necessity and Proportionality. The forum-access showing alone does not authorize gatekeeper disclosure. See [Chapter Ten §8.1](../core_10_standing_integration.md#81-rest-state-and-archival).
+Archival preserves evidence while ending ordinary active use. A forum may access an archived record on a documented showing that it bears on recurrence risk in a live matter. Archived records produce no named-pathway effect, are not disclosed to named-pathway gatekeepers, and do not count toward competency bars, except where a published bar for a specific high-sensitivity named pathway states a longer look-back that itself satisfies Necessity and Proportionality. The forum-access showing alone does not authorize gatekeeper disclosure. See [Chapter Ten, Rest state and archival](../core_10_standing_integration.md#81-rest-state-and-archival).
 
 ### Protection while sentience is uncertain
 

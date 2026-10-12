@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the fill-in instrument, and the two-party protocol **cannot narrow core text**. A filled template that diverges from [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) or [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start at this page for two parties or a first qualifying body. More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Founding an institution under that path: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Fitness screen: [`evaluation/self_application/`](../../evaluation/self_application/).
 
@@ -45,7 +45,7 @@ This kit does **not**:
 
 - Count as [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Let two markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
-- Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Create a Chapter Nine standing record, a Chapter Eight system alignment certification, or a Merits Determination
 - Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06_rights_part_d.md#article-xix-a-standing-distinction))
 - Authorize [Chapter Sixteen §10.3](../../core_16_amendment_ratification.md#103-joining-by-additional-parties) joining (there are no published existing-adopter joining rules yet)
@@ -74,7 +74,7 @@ A **qualifying adopter** records deliberate, documented, auditable adoption unde
 
 Qualifying adopters are named in [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority): bodies that can **bind themselves and the systems under their authority** (federations, polities, cooperative entities, organizations, system operators, system-developer consortia, or equivalent). A steward is bound **when** such a body adopts. Listing a steward as bound does not make that steward themselves a qualifying adopter ([Chapter Sixteen §10.1](../../core_16_amendment_ratification.md#101-deliberate-adoption)).
 
-**Same duties for both kinds of steward.** [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ```text
 each party sits the fitness screen (separate files, same edition pin)
@@ -95,7 +95,7 @@ own-conduct declaration if Yes or Mixed (still not adoption)
 
 Use this when two sentients want a shared cooperation framework.
 
-1. **Pin the edition.** Both parties name `SC-Corpus-2026.08.09` unless a later publication cut exists. Do not mix editions.
+1. **Pin the edition.** Both parties name `SC-Corpus-2026.10.12` unless a later publication cut exists. Do not mix editions.
 2. **Sit the gateway separately.** Each party follows [`evaluation/self_application/START_HERE.md`](../../evaluation/self_application/START_HERE.md) and writes their own results file. Do not co-author one declaration.
 3. **Do not merge the files into an instrument.** Two item-16 declarations are still substep 1.2.
 4. **Optional competence sitting.** Each may sit the announced pack in [`evaluation/`](../../evaluation/) as a **separate** sitting. Then an operator may fill [`evaluation/two_party/OPTION_A_COMPARE.md`](../../evaluation/two_party/OPTION_A_COMPARE.md) (same owner stack, same next-step class, same homes, no invented parallel norm). Option A compare is process support. It is not standing measurement and not a shared-standard showing if humans are missing ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5).
@@ -144,7 +144,7 @@ NON-ADOPTION CHECK (complete first)
     stop: operations-guide + declarations only. Use the non-adoption banner.
 
 INSTRUMENT OF ADOPTION
-Corpus edition pin: SC-Corpus-2026.08.09 (or later named publication cut)
+Corpus edition pin: SC-Corpus-2026.10.12 (or later named publication cut)
 Effective date:
 Adopting entity (legal or network identity):
 Qualifying-adopter class (organization / system operator / consortium /
@@ -206,7 +206,7 @@ Attach this to any mutual markdown, compact note, or “we will use this constit
 
 ```text
 NON-ADOPTION BANNER
-Corpus edition pin: SC-Corpus-2026.08.09
+Corpus edition pin: SC-Corpus-2026.10.12
 Date:
 
 This file is operations-guide cooperation and/or own-conduct declaration.

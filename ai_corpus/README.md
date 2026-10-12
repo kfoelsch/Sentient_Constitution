@@ -33,8 +33,8 @@ ai_corpus/
 │   ├── id_resolver.json        # Compact locator (CLI input; not duty text)
 │   ├── section_manifest.json   # Heading line ranges
 │   ├── definition_registry.json
-│   ├── crossref_matrix.json    # File-to-file
-│   └── section_crossref.json   # Section-to-section
+│   ├── crossref_matrix.json    # File-to-file (compact tables; read via tools/crossref_matrix_format.py)
+│   └── section_crossref.json   # Section-to-section (compact tables; read via tools/section_crossref_format.py)
 ├── visualization/
 │   └── dependency_map.mmd      # Generated file inventory
 └── schemas/

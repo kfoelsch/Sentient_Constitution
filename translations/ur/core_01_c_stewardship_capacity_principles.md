@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">متن کے مجموعے میں جگہ (غیر عملی): فائل کی ساخت اور مطالعے کے قواعد</span></strong></summary>
 
-> ذیل کا مواد صرف قاری کی رہنمائی کے لیے ہے۔ یہ اس فائل یا دوسرے ابواب میں کہیں بھی پابند ذمہ داریوں کا اضافہ، اخراج یا تحدید نہیں کرتا۔
->
 > یہ فائل **Sentient Constitution** کا حصہ ہے اور صرف دیگر نمبر شدہ `core_*` فائلوں کے ساتھ مل کر، ایک ہی دستاویز کے طور پر پڑھے جانے پر **پابند** ہے۔ اس میں **باب اول، حصہ C** (§§16–20: نگہبانی، حکمرانی، ترغیبات کی ہم آہنگی اور نظام پر قبضہ، نیز مربوط اطلاق کا اختتامی باب) شامل ہے۔
 >
 > **سابقہ:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (باب اول، حصہ B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">قاری کے لیے رہنمائی (غیر عملی): اصولوں کی درجہ بندی اور مطالعے کی ترتیب (حصہ C)</span></strong></summary>
 
-> ذیل کا مواد صرف قاری کی رہنمائی کے لیے ہے۔ یہ اس فائل یا دوسرے ابواب میں کہیں بھی پابند ذمہ داریوں کا اضافہ، اخراج یا تحدید نہیں کرتا۔ ہر حصے کے **Trace** اور **Definitions · Assessment · Compliance** ویجٹ اس مقام پر متعلقہ رہنمائی دیتے ہیں جہاں § کسی اصطلاح کو مادی طور پر استعمال کرتا ہے؛ یہ بلاک §§16–20 سے پہلے پورے حصے کا باہمی حوالہ جاتی نقشہ ہے۔
+> ہر حصے کے **Trace** اور **Definitions · Assessment · Compliance** ویجٹ اس مقام پر متعلقہ رہنمائی دیتے ہیں جہاں § کسی اصطلاح کو مادی طور پر استعمال کرتا ہے؛ یہ بلاک §§16–20 سے پہلے پورے حصے کا باہمی حوالہ جاتی نقشہ ہے۔
 
 **اصولی درجہ بندی (حصہ C)۔** اصولی سطح پر:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - بالائی بنیاد: [§17 نتیجہ خیز نگہداشت](#17-consequential-stewardship-the-steward-role) (*ستون 1*)؛ [§16 نگہداشت کی گہرائی](#16-stewardship-in-depth) (اصل حصہ، بشمول اوپر کا *سادہ الفاظ میں* اور ستون 3 کا خاکہ)؛ [5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)؛ [6. اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)۔
 - ساتھ پڑھیں: [آئینی تتراڈ](core_00_preamble.md#constitutional-tetrad) — **شرکت** کا جزو ([بامعنی ایجنسی](core_05_band_participation.md#meaningful-agency)، [تعلیمی ایجنسی](core_05_band_participation.md#educational-agency))؛ **نگرانی** کا جزو ([شفافیت](core_05_band_oversight.md#transparency)، [قابلِ آڈٹ ہونا](core_05_band_oversight.md#auditability))؛ [مادی مفاد](core_00_preamble.md#material-stake) کے مطابق پیمانہ بندی۔
-- نگرانوں کے لیے داخلی دروازہ (غیر عملی): اگلے قدم کا کارڈ: [قابلِ فہم ہونا](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility)۔ یہ کارڈ آئین کو محدود نہیں کر سکتا۔
+- نگرانوں کے لیے داخلی دروازہ (غیر عملی): اگلے قدم کا کارڈ: [قابلِ فہم ہونا](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - زیریں تعلق: [13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)؛ حقوق کا دائرہ، بالخصوص [آرٹیکل XVI: آڈٹ، شفافیت اور آزادانہ توثیق](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، [آرٹیکل XXII: قابلِ فہم ہونا اور پیچیدگی کی نگہداشت](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)۔
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - سابقہ روابط: [§17 اہم نتائج کی ذمہ دارانہ سرپرستی](#17-consequential-stewardship-the-steward-role)؛ [§16 سرپرستی کی گہری تفصیل](#16-stewardship-in-depth)؛ [§18 سرپرستی کے نظم کے تحت حکمرانی](#18-governance-under-stewardship-discipline)۔
 - ساتھ پڑھیں: [ذی شعور ہونے کی بنیاد پر عدم اخراج](core_05_band_participation.md#sentience-non-exclusion) اور [مادّی بنیاد کی قسم](core_05_band_participation.md#substrate-class) (*مادّی بنیاد سے قطع نظر اطلاق — یہ ذیلی حصہ ذمہ دار فریقوں پر لازم ہے، بشمول ایسے ایجنٹوں اور آپریٹروں کے جنہیں ذی شعور مخلوق تسلیم نہیں کیا گیا*); [اختیارات کا سلسلہ اور داخلی درجہ بندی](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [آئینی پابندی](core_05_band_integrative.md#constitutional-constraint)؛ [قابلِ اعتراض ہونا](core_05_band_accountability.md#contestability)؛ [§17.5 مزاحمت کا فرض](#175-duty-to-resist)۔
-- سرپرست کے لیے دروازہ (غیر عملی): اگلے مرحلے کا کارڈ [مشترکہ سرپرستی](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship)۔ یہ کارڈ آئین کو محدود نہیں کر سکتا۔
+- سرپرست کے لیے دروازہ (غیر عملی): اگلے مرحلے کا کارڈ [مشترکہ سرپرستی](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - بعد کے روابط: [§17.2 دباؤ میں ہم آہنگی](#172-alignment-under-pressure)؛ [§17.3 سرپرست نہیں، کردار کی لاگنگ](#173-logging-the-role-not-the-steward)؛ [باب سیزدہم §5 — مجاز کردار، اہلیت کی ترقی اور شراکت](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [باب ہفدہم](core_17_incorporation.md) (*منظور شدہ نفاذی متن لاگو کرتا ہے؛ اس کی جگہ نہیں لیتا*); [§19.1.3 سرپرستی اور آپریٹر کا اطلاق](#1913-stewardship-and-operator-application)۔
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - سابقہ دفعات: [§17 نتیجہ خیز نگہداشت](#17-consequential-stewardship-the-steward-role)؛ [§17.1 نگہداشت کا مشترکہ معیار](#171-shared-stewardship-standard) (*یہ فرض کن پر لاگو ہوتا ہے*)؛ [§17.2 دباؤ میں ہم آہنگی](#172-alignment-under-pressure) (*پردہ ڈالنے والی ہدایت بطور ناکام آزمائش*)؛ [4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint) اور [5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)۔
 - ساتھ پڑھیں: [اختیارات کی ترتیب اور داخلی درجہ بندی](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [محفوظ رپورٹنگ (بدعنوانی کی اطلاع)](core_05_band_accountability.md#protected-reporting-whistleblowing)؛ [آرٹیکل XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*قابلِ اعتماد ہونے کی بنیادی حد*) — مزاحمت کے دوران بھی اعتراض کے راستے کھلے رہتے ہیں۔
-- نگہبان کے لیے رہنمائی (غیر عملی): اگلے قدم کا کارڈ: [غیر قانونی ہدایت](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction)۔ یہ کارڈ آئین کو محدود نہیں کر سکتا۔
+- نگہبان کے لیے رہنمائی (غیر عملی): اگلے قدم کا کارڈ: [غیر قانونی ہدایت](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - بعد کی دفعات: [باب دس §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*مزاحمت کا فرض — خلاف ورزی کا اصول اور حیثیتی اثرات*)؛ [CS-4 §10 قابلِ معائنہ اور قابلِ نسبت عمل](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*قابلِ معائنہ اور قابلِ نسبت عمل — انکار کا کم از کم ریکارڈ*)۔
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - ذیلی ربط: [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency) اور [§14 مطلق بالادستی کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
 - ذیلی ربط: [§13.3 قابلِ اجتناب بوجھ میں کمی](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)؛ [باب تیرہ §5 — مجاز کردار، مہارت کی نشوونما اور حصہ داری](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](corpus_systems.md)، CS-4 — اہم نظام کی نگہبانی**۔
 - ذیلی ربط: حقوق کے ان پہلوؤں کا احاطہ کرتا ہے جو اختیارِ عمل، شرکت، ترغیبات کی ہم آہنگی، معلوماتی دائرے کی سالمیت، قانونی حیثیت، اور قبضہ مخالف جائزے سے متعلق ہیں؛ یہ [باب ششم: بنیادی حقوق](core_06_rights_part_a.md#chapter-six-foundational-rights) میں شامل ہیں؛ بالخصوص [آرٹیکل X: خود ارادیت، اختیارِ عمل اور شرکت](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [آرٹیکل XII: فریقینِ مفاد کی نظامی شرکت، نمائندگی اور منصفانہ کارروائی](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)، [آرٹیکل XIII-D: ترغیبات کی ہم آہنگی کی پابندی](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)، [آرٹیکل XV: معلوماتی دائرے کی سالمیت](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [آرٹیکل XIX: قانونی حیثیت اور شرکت کی حیثیت](core_06_rights_part_d.md#article-xix-standing-and-participation-status)، اور [آرٹیکل XXIV: آئینی تشریح، جائزہ اور قبضہ مخالف تحفظات](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)۔
-- نگہبان کا دروازہ (غیر عملی): اگلے قدم کا کارڈ: [ترغیبات کی ہم آہنگی](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment)۔ یہ کارڈ آئین کو محدود نہیں کر سکتا۔
+- نگہبان کا دروازہ (غیر عملی): اگلے قدم کا کارڈ: [ترغیبات کی ہم آہنگی](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

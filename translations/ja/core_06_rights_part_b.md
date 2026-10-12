@@ -1956,6 +1956,87 @@ flowchart TB
 
   ある知性体、役職、または派閥が分離すべき担当席を兼ねる場合、またはその担当者を支配する場合も、本条にいう構造的支配の兆候です。
 
+
+#### 第XII-E条：影響接触とロビー活動の境界
+
+<details>
+<summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
+
+- 上流：原則：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 スチュワードシップの規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)、および[§19 インセンティブの整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)。
+- あわせて読む：[第XII-D条](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_11_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)、[第十三章 §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*適格性、異議を伴う選出、民主主義の最低基準*）。
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
+
+- [システム捕捉](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [捕捉防止](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [異議申立て可能性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [監査可能性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [手続的公正](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [利害関係者](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+
+</details>
+
+<br>
+
+*平たい言葉で言えば：**第XII-E条**（*影響接触とロビー活動の境界*）は、利害を持つ感知者が決定を行う感知者やシステムにどのように接触できるか、その最低基準を定めます。公開の意見表明は保護されます。非公開、記録なし、買収、偽装、または機械によって増幅された影響は保護されません。接触は記録・開示され、利益の申し出と脅迫は利益相反となり、自ら決定した相手方から後に職を得る場合はクーリングオフ期間を経なければならず、システムによる接触では、それが何であり誰のために行動するのかを示さなければなりません。*
+
+本条は、**利害関係者**が、決定、審査、監査、調達、または決定の支援を行う感知者やシステムにどのように接触できるかを定めます。[**第XII-D条**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）に挙げられた対象機関、その**任命権者**、および**採択機関**に適用され、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)に従います。
+
+- **繁栄：**影響を受ける感知者は、資金、人員、ツールを持たない者も含め、意見を聞いてもらうための実効的で開かれた経路を保ちます。決定は非公開の接触ではなく公開記録に基づきます。
+- **継続：**決定機関は、非公開接触、利益の申し出、後日の雇用、偽の支持、または大規模な自動化を通じた静かな影響に、時間を経ても耐えられる状態を保ちます。
+
+正当な働きかけは、[憲法四元](core_00_preamble.md#constitutional-tetrad)を通じて行い、[実質的利害](core_00_preamble.md#material-stake)に応じて調整します。
+
+- **参加：**公開の意見表明、請願、パブリックコメントは保護され、聞く義務のある機関に影響を受ける感知者がアクセスできる状態を保ちます。
+- **監督：**接触記録、案件記録での開示、および決定に関与したシステムに届いた受信資料の記録を通じて行います。
+- **説明責任：**利害関係者、運営者、機関は、非公開接触、隠された接触、捏造された声、利益の申し出について責任を負います。
+- **適時性：**他の参加者が応答できる時点までに接触を開示します。
+
+*関連条項：*
+
+- **捕捉防止の最低基準：**[**第XII-D条**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）は、構成、利益相反、忌避、外部審査、解任を扱います。本条は、同じ機関に利害関係者が接触する際の規則を追加します。
+- **参加の重み：**[**第XII-B条**](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）は、形だけの参加を禁じます。本条でも接触件数は支持を意味しません。
+- **システムと情報：**[**第XIII-E条**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）は、システムにも他のすべての者と同じ規則を課します。[**第XV条**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）は共有情報環境を扱います。
+- **選出資金：**[第十三章 §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*適格性、異議を伴う選出、民主主義の最低基準*）は、選挙運動、推薦、競争的任命による選出の資金境界を定めます。
+
+本条は、次の最低基準を定めます。
+
+- **適用範囲：**これらの最低基準は、対象機関、その**任命権者**、および**採択機関**に適用されます。要件は実質的利害に応じて調整されます。案件の公開記録に提出された文書は影響接触ではなく、それ自体が記録です。
+- **影響接触の境界：**対象機関、その**任命権者**、および**採択機関**は、**影響接触**に関する規則を公開しなければなりません。[**利害関係者**](../../core_05_band_accountability.md#interested-party)が、係属中または予見可能な案件をその公開記録の外から形づくるため、構成員、パネリスト、職員、進行役、または説明提供者に接触することを影響接触といいます。規則は実質的利害に応じて調整し、少なくとも次を定めます。
+  - 重要な影響接触ごとに、接触者、日時、経路、案件、求めたことや提案したことの概要を**記録**する。
+  - その記録を、接触された構成員、パネリスト、職員から独立した席で保管する（[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)）。
+  - 他の参加者が応答できる時点までに、案件記録で重要な接触を**開示**する。
+  - 証拠と主張を公開記録に置く。非公開接触によって、決定が依拠する証拠や主張を提供してはならない。
+  - 贈答、利益、将来の役職の申し出、および脅迫はすべて利益相反として扱い、通常の接触ではなく、開示、拒否のうえ**CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）に従って処理する。
+  - 記録上の公開意見表明、請願、パブリックコメント、および聞く義務のある機関への影響を受ける感知者のアクセスを保護する。影響を受ける感知者が自らの利害について述べる内容を制限するために、これらの規則を使ってはなりません。
+- **退任後および将来の役割に関する利益相反：**
+  - **将来の役割に関する利益相反：**構成員、パネリスト、職員の前で[利害関係者](../../core_05_band_accountability.md#interested-party)の案件が係属している間に、その利害関係者と後の役割、雇用、契約、利益について話し合うことは利益相反です。開示し、独立した席が解除するまで当該構成員、パネリスト、職員は忌避しなければなりません。
+  - **退任後の規則：**対象機関と**採択機関**は、実質的利害に応じて調整した退任後の規則も公開しなければなりません。担当した案件に関連して利害関係者から役職や利益を受け入れることを、クーリングオフ期間の経過または独立した席による公開決定での承認まで禁じます。
+  - **標準クーリングオフ期間：**構成員、パネリスト、職員がその案件に最後に関与した時点から**5年間**です。
+  - **変更：**採択機関は期間を延長できます。短縮できるのは実質的利害が小さい場合だけであり、その理由を公開しなければなりません。
+- **自動化・生成・大量の働きかけ：**システムによって、システムを通じて、またはシステムの規模で行われる影響接触も、他の影響接触と同じです。さらに次の規則が適用されます。
+  - **帰属の明示：**システムが生成または送信した接触は、その旨を示し、システムが誰の**利害関係者**のために動くのか、および承認した感知者を明記しなければなりません。自らのために発言する合成感知者も、他の感知者と同じ感知者です。運営者その他の本人のために動く場合、その本人が接触に責任を負います。
+  - **実在する声のみ：**偽の身元、捏造された支持者、なりすましまたは合成された証言、捏造された草の根団体を通じて対象機関に接触してはなりません。一者だけで行う場合も、複数者が共同で行う場合も同じです。
+  - **補助的な利用：**感知者が自分のメッセージを作成、翻訳、送信するためにシステムを使い、その内容を承認する場合、接触はその感知者自身によるものです。
+  - **大量接触：**同一または実質的に同一の働きかけが機関に大量に届いた場合、機関はそれを一つのキャンペーンとして一度記録します。記録にはスポンサー、資金、方法、件数、確認済みの個別感知者の数を記します。件数は支持の証拠ではありません。機関が支持とみなせるのは、確認済みの個別感知者の範囲に限ります。
+    - **「大量」の既定値：**機関は独自の基準を公開します。公開するまでは、同一または実質的に同一の働きかけが、同じ案件について、同じ利害関係者によって、またはその代理で、機関の構成員の4分の1を超える者に届くか、機関に50回以上届けば大量とします。
+  - **経路：**対象機関は、記録上の意見提出に用いる認証済み経路を公開しなければなりません。規則に違反する提出は、レート制限、重複排除、または別扱いにできます。非公開経路を通じて構成員、パネリスト、職員、進行役、説明提供者に自動化された働きかけを行うことは禁止されます。
+  - **決定側のシステム：**機関が決定のために受信、選別、要約、草案作成をシステムに行わせる場合、意思決定者に情報を提供するのではなく、そのシステムを誘導する働きかけも影響接触です。提出資料に隠された指示、汚染データ、ランキング攻略を狙ったコンテンツも含みます。機関は提出資料を指示ではなく証拠として扱い、各出力を元の記録まで追跡可能にし、決定に寄与したシステムに届いた受信資料を開示しなければなりません。利害関係者側のシステムと機関側のシステムの接触も、感知者同士の接触と同じように記録します。
+  - **責任：**利害関係者とシステムを導入した運営者の双方が接触に責任を負います。明白なリスクを無視した場合、「知らなかった」は抗弁になりません。
+- **くじ引きで選ばれる機関：**くじ引きで選ばれる機関の選任メンバーには、これらの最低基準の最も厳しい段階が適用されます。[第十三章](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)が求める公開ブリーフィング記録を通じる場合を除き、案件に関する非公開接触は禁止されます。
+- **執行と経路づけ：**
+  - **完全性の発動要件：**隠された影響接触、利益の申し出、捏造された声は、**CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）と**CJS-3.6**（*完全性保証とレジリエンス運用*）の下で完全性の発動要件として処理します。
+  - **不正行為の経路：**真正でない声を意図的または無謀に大量投入すること、贈収賄や不適切な利益交換は、**第二章から第四章**および**第十一章**の基準で裏付けられる場合、**反憲法的不正行為**として第十一章の下で申し立てることができます。
+  - **完全性を先行させ、自己審理をしない：**[**第XII-D条**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）の経路づけと自己審理防止の規則が適用されます。自らの構成員や職員が不適切な接触を受けたかどうかを、その機関だけが最終判断する場となってはなりません。
+- **制度上の経路づけ：**詳細な規則は次によって定められます。
+  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（*任命、能力、交代、解任*）。退任後の規則については **CI-4.2**（*役割基準、任命基準、解任経路*）を含みます。
+  - **CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）。
+  - **CJS-3.6**（*完全性保証とレジリエンス運用*）、*影響接触とロビー活動の境界*。
+  - フォーラムのパネルについては、[corpus_forum.md](../../corpus_forum.md)の**CF-4**（*パネルの構成、開示、忌避、適法な法廷構成*）および**CF-7**（*完全性保護策、捕捉防止運用、自己審理防止の支援*）。
+
 ---
 
 **前のファイル：** [core_06_rights_part_a.md](core_06_rights_part_a.md)

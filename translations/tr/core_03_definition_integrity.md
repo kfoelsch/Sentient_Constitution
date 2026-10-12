@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce Üçüncü Bölüm](../../core_03_definition_integrity.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Önceki (bu dil):** [core_02_definition_structure.md](core_02_definition_structure.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değil): Üçüncü Bölümün nerede yaşadığı ve burada neyin kaldığı</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu bölümde ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Nerede yaşar (gezinme):
 > - **Anayasal sahip:** değerlendirme işi için tanım bütünlüğü, kaçınma ve uyumsuzluk. **İkinci Bölüm** yapıyı sahiplenir; **Dördüncü Bölüm** yükü ve iz artefaktlarını sahiplenir; **Beşinci Bölüm** kanonik tanımları sahiplenir.
 > - **Uygulama sahibi:** güzergâh kayıtları, forum süreci ve uygulama protokolleri bu kuralları onların yerine geçmeden işlemsel kılar.

@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không có hiệu lực vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ nhằm hướng dẫn người đọc**. Nội dung không bổ sung, loại bỏ hoặc thu hẹp nghĩa vụ có tính ràng buộc ở nơi khác trong tệp này hoặc trong các chương khác.
->
 > Tệp này **là một phần của Hiến pháp Sentient** và chỉ **có tính ràng buộc khi được đọc cùng** các tệp `core_*` được đánh số khác như một văn kiện thống nhất. Tệp này chứa **Chương Bảy**: chuẩn nền xuyên quy trình về tính độc lập chức năng và phân tách nhiệm vụ. Chương này đứng sau Tầng quyền Chương Sáu và trước các chương về quy trình hiến pháp bắt đầu với [chứng nhận sự phù hợp của hệ thống thuộc Chương Tám](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
 >
 > - **Chủ thể phụ trách theo Hiến pháp:** chuẩn nền về các vị trí riêng biệt đối với hành vi có hiệu lực ràng buộc trọng yếu; nội dung tối thiểu áp dụng cho mọi [Hồ sơ Hành vi Ràng buộc Trọng yếu](../../core_05_band_accountability.md#materially-binding-act-record); sự độc lập với chủ thể hành động và [Tuyến Kiểm soát Trọng yếu](../../core_05_band_accountability.md#material-control-line) của chủ thể đó; việc công bố phân công làn và vai trò; định tuyến xung đột, vị trí khuyết, thay thế và phân công sai vị trí; việc bố trí chung theo tỷ lệ; bàn giao có thể quy trách nhiệm; và các điều kiện độc lập tối thiểu mà mọi quy trình hiến pháp về sau phải áp dụng.
@@ -86,8 +84,6 @@ Chương này quy định chuẩn nền phân tách nhiệm vụ xuyên quy trì
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn người đọc (không có hiệu lực vận hành): sơ đồ bốn vị trí</span></strong></summary>
 
-> Nội dung sau đây **chỉ nhằm hướng dẫn người đọc**. Nội dung không bổ sung, loại bỏ hoặc thu hẹp nghĩa vụ có tính ràng buộc ở nơi khác trong chương này hoặc trong các chương khác.
->
 > **Sơ đồ cho người đọc (không có hiệu lực vận hành).** Sơ đồ này thể hiện bốn vị trí và một vòng đời hồ sơ điển hình. Sơ đồ không bổ sung vị trí triển khai thứ năm, không yêu cầu mọi hành động phải chờ rà soát hoàn tất, và không thay đổi các quy tắc vận hành trong mục này và §§3–6.
 
 </details>

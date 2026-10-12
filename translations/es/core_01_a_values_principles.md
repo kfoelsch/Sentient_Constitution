@@ -3,8 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativa): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni restringe obligaciones vinculantes en este archivo ni en otros capítulos.
->
+> Los widgets marcados como **no operativos** (ubicación en el corpus, orientación para quien lee y mapas de lectura) son solo orientativos. No añaden, eliminan ni restringen ninguna obligación vinculante, ni en su propio archivo ni en ningún otro.
 > Este archivo **forma parte de la Constitución Senciente** y **solo es vinculante junto con** los demás archivos numerados `core_*`, leídos como un único instrumento. Contiene el **Capítulo Uno, Parte A** (§§1–12: finalidad y función; el objetivo de Florecimiento, introducido en §2 y desarrollado mediante bienestar, Seguridad, Verdad, Confianza y Libertad; y el objetivo de Continuidad, introducido en §8 y desarrollado mediante la capacidad de los sistemas compartidos, la resiliencia, la estructura del mercado y la evaluación sistémica).
 >
 > **Anterior:** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +15,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativa): cómo conecta el Capítulo Uno los objetivos, la Tétrada, los Artículos y las definiciones</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni restringe obligaciones vinculantes en este archivo ni en otros capítulos. Los módulos **Rastro** y **Definiciones · Evaluación · Cumplimiento** de cada sección contienen las referencias vinculantes; este bloque es un mapa de la parte para quienes comienzan a leer el Capítulo Uno.
+> Los elementos de **Rastro** y **Definiciones · Evaluación · Cumplimiento** de cada sección contienen las referencias vinculantes; este bloque es un mapa de la parte para quienes comienzan a leer el Capítulo Uno.
 
 **Cómo se conectan las capas.** Cada capa responde a una pregunta distinta, y cada principio del Capítulo Uno remite a las otras tres:
 
@@ -1463,7 +1462,7 @@ Las afirmaciones sobre **[Capacidad productiva](core_05_band_continuity.md#produ
 
 - Ascendente: [§11 Estructura del mercado](#11-market-structure); [Umbral de concentración del mercado](core_05_band_accountability.md#market-concentration-threshold).
 - Descendente: **CJS-3.11.1 — Disciplina para fijar umbrales de concentración del mercado (ajustable por quienes adoptan)** (reglas operativas para fijar umbrales); [§11.2 Promoción de la competencia y prevención del dominio](#112-pro-competition-and-anti-domination); [§11.3 Límite de consolidación](#113-consolidation-ceiling); [CJS-3.11.3 — Disciplina para fijar el límite de consolidación (ajustable por quienes adoptan)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (reglas operativas para fijar el límite de [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)); [Capítulo Nueve §4 Pregunta 2 — ¿qué tan bueno o malo fue?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Capítulo Once §5.1 Subversión basada en la concentración](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- Puerta de administración (no operativa): tarjeta de siguiente paso: [Estructura del mercado](implementation/STEWARD_ENTRY_DOORS.md#market-structure). La tarjeta no puede restringir la Constitución.
+- Puerta de administración (no operativa): tarjeta de siguiente paso: [Estructura del mercado](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subsecciones (orden de lectura): [§11.1.1 Activadores de umbrales de concentración (ajustables por quienes adoptan)](#1111-concentration-threshold-triggers-adopter-tunable).
 
 </details>

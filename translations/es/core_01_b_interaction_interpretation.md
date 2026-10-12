@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativa): estructura de archivos y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo una guía para lectores**. No añade, elimina ni restringe obligaciones vinculantes en ninguna otra parte de este archivo ni en otros capítulos.
->
 > Este archivo **forma parte de la Constitución Sentiente** y es **vinculante únicamente junto con** los demás archivos numerados `core_*`, leídos como un único instrumento. Contiene el **Capítulo Uno, Parte B** (§§13–15: Proceso de Resolución de Colisiones Constitucionales, prohibición de anulación absoluta e interpretación constitucional): la parte que mantiene intacto el Tetrad Constitucional cuando los principios entran en conflicto y cuando se lee la Constitución.
 >
 > **Anterior:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Capítulo Uno, Parte A — §§1–12, los fines de Florecimiento y Continuidad)  
@@ -19,8 +17,7 @@
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> El contenido siguiente es **solo una guía para lectores**. No añade, elimina ni restringe obligaciones vinculantes en ninguna otra parte de este archivo ni en otros capítulos. Los widgets **Traza** y **Definiciones · Evaluación · Cumplimiento** de cada sección incluyen enlaces de navegación y O/M/A/C allí donde cada § invoca materialmente un término. Este bloque, en cambio, es una tabla de correspondencias a nivel de capítulo para quienes terminan la Parte A.
-
+> Los elementos de **Rastro** y **Definiciones · Evaluación · Cumplimiento** de cada sección proporcionan referencias y enlaces O/M/A/C en el punto donde cada § invoca materialmente un término. En cambio, este bloque es una correspondencia a nivel de capítulo para quienes terminan la Parte A.
 **Vocabulario de la capa de principios** (ubicaciones canónicas en el Capítulo Uno (Partes A y B)):
 
 - [Tetrad Constitucional](core_00_preamble.md#constitutional-tetrad) — **participación**, **supervisión**, **rendición de cuentas** y **puntualidad**, escaladas según el [interés material en juego](core_00_preamble.md#material-stake)
@@ -49,8 +46,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guía para lectores (no operativa): cómo la Parte B mantiene intacto el Tetrad Constitucional</span></strong></summary>
 
-> El contenido siguiente es **solo una guía para lectores**. No añade, elimina ni restringe obligaciones vinculantes en ninguna otra parte de este archivo ni en otros capítulos. Los widgets **Traza** de cada sección indican los componentes del Tetrad que esta aborda; este bloque ofrece un mapa de la Parte para quienes comienzan la Parte B.
-
+> Los elementos de **Rastro** de cada sección nombran los componentes de la Tétrada que aborda; este bloque es un mapa de la parte para quienes comienzan la Parte B.
 **Qué hace la Parte B.** La [Parte A](core_01_a_values_principles.md) desarrolla los [Dos fines constitucionales](core_00_preamble.md#two-constitutional-aims). La Parte B no añade ningún principio ni un quinto deber. Mantiene intacto el [Tetrad Constitucional](core_00_preamble.md#constitutional-tetrad) —**participación**, **supervisión**, **rendición de cuentas** y **puntualidad**, escaladas según el [interés material en juego](core_00_preamble.md#material-stake)— en tres situaciones:
 
 - **Cuando los principios chocan** ([§13 Proceso de Resolución de Colisiones Constitucionales](#13-constitutional-collision-resolution-process)): la Seguridad y la Verdad tienen prioridad, y toda otra ponderación debe preservar el Tetrad en vez de debilitarlo para alcanzar una resolución fácil.

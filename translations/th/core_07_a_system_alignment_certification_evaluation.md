@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตำแหน่งในคลังข้อความ (ไม่ใช่บทบัญญัติที่ใช้บังคับ): โครงสร้างไฟล์และกฎการอ่าน</span></strong></summary>
 
-> เนื้อหาต่อไปนี้เป็น **แนวทางสำหรับผู้อ่านเท่านั้น** ไม่เพิ่ม ไม่ลด และไม่ทำให้ภาระผูกพันที่ใช้บังคับแคบลงในไฟล์นี้หรือในบทอื่น
->
 > ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่เจ็ด ส่วน ก ภาษาอังกฤษ](../../core_08_a_system_alignment_certification_evaluation.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.08.09` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
 >
 > มี **บทที่เจ็ด ส่วน ก** — ข้อกำหนด **การประเมิน** การรับรอง (ชั้นระบบ ปัจจัยทั้งระบบ และตะขอประเมินโดเมน) **ส่วน ข** — บันทึกการรับรอง กระบวนการเวที สะพานร่องรอย และการเปิดใหม่ — อยู่ใน [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md)
@@ -40,1116 +38,1097 @@
 > **คำแถลงเชิงปฏิบัติของผู้บริหารอย่างรับผิดชอบ.** **เจ้าของ:** บทที่เจ็ด (SAC ที่เวทีกำกับ) เลนส์ชั้นหลักการ: บทที่หนึ่ง §14 SAC เป็นกระบวนการตรวจที่ใหญ่เป็นพิเศษภายใต้มาตรา XVI / ความสามารถในการตรวจ — ไม่ใช่การตรวจเดียว **การกระทำที่ห้าม:** อย่าถือการทดสอบหน่วย รายการตรวจความเป็นส่วนตัว หรือป้ายสอดคล้องเฉพาะที่เป็นการรับรอง อย่าข้ามหน้าต่างโต้แย้ง อย่าประดิษฐ์บ้านการตรวจที่ห้า อย่าถือตราการรับรองหรือคะแนน LEQU เป็นสถานะความเป็นผู้มีความรู้สึก **นาฬิกา:** เปิดหรือคืนเส้นทางบทที่เจ็ดที่โต้แย้งได้ รวมหน้าต่างโต้แย้งของฝ่ายที่ได้รับผลกระทบ ก่อนข้อกล่าวอ้างว่าสอดคล้อง
 
 <a id="1-purpose-and-role"></a>
-### 1. จุดประสงค์และบทบาท
+
+### 1. วัตถุประสงค์และบทบาท
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">สายเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: [คำปรารภ — ทะเบียนเจ้าของเชิงบวก](core_00_preamble.md#4-principles-definitions-and-rights) และ [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#authority-stack); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [สัดส่วน](core_05_band_accountability.md#proportionality) และ [ความเป็นธรรมที่เป็นสาระ](core_05_band_participation.md#substantive-fairness-constitutional) (บทที่ห้า); ครอบครัวการวัดการมีส่วนร่วม (*เสียง การเข้าถึง และเส้นทางโต้แย้ง*); [บทที่หนึ่ง §9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [บทที่หนึ่ง §14 ข้อกำหนดการประเมินเชิงระบบ](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*เลนส์ประเมินทั้งระบบที่ชั้นหลักการ — ไม่ใช่มุมเดียว*); บทที่สองถึงสี่; [บทที่ห้า](core_05__definitions_home.md#chapter-five-foundational-definitions) (*บทนิยามฉบับหลัก*); [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) (คำฉบับหลักบทที่ห้า; ตัวย่อที่ไม่ใช่บทบัญญัติที่ใช้บังคับ **SAC**); [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional) (ความหมายบทที่ห้า)
-- ปลายทาง: [§2](#2-system-class-evaluation) และ [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*การประเมินชั้นระบบและโปรไฟล์ตัวอย่าง*); [§3.8](#38-illustrative-whole-system-application-by-class) (*ตัวอย่างทั้งระบบที่ทำงานแล้วตามชั้น*); [§4.1](#41-illustrative-data-handling-application-by-class) (*ตัวอย่างการปฏิบัติข้อมูลที่ทำงานแล้วตามชั้น*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*ตัวอย่างรอยเท้าทางนิเวศที่ทำงานแล้วตามชั้น*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*ตัวอย่างการสนับสนุนข้ามระบบที่ทำงานแล้วตามชั้น*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*ตัวอย่างการไม่เลือกปฏิบัติที่ทำงานแล้วตามชั้น*); [§8.1](#81-illustrative-accessibility-application-by-class) (*ตัวอย่างการเข้าถึงได้ที่ทำงานแล้วตามชั้น*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*ตัวอย่างขีดความสามารถทางการศึกษาที่ทำงานแล้วตามชั้น*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*ตัวอย่างความน่าไว้วางใจที่ทำงานแล้วตามชั้น*); [§3](#3-whole-system-certification-evaluation) (*ปัจจัยประเมินการรับรองทั้งระบบ*); [§4](#4-data-types-and-handling-evaluation) ถึง [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*การประเมินโดเมน*); [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึกการรับรอง*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ข้อกำหนดความครบถ้วนของบันทึก*); [ส่วน ข §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*บทบาทส่วนประกอบของเวที*); [ส่วน ข §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*ลำดับการกำกับและสายความสามารถในการโต้แย้ง*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*สะพานบันทึกร่องรอย*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การเปิดใหม่และต้านการหลบ*); [บทที่แปด](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*บันทึกร่องรอยและประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [บทที่เก้า](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*ผลของร่องรอยและการรวม*); [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*การกำกับของเวที การรับรอง การรับรู้ความสอดคล้อง และการทบทวน*)
-- อ่านคู่กับ: [corpus_systems.md](../../corpus_systems.md) โดยเฉพาะ **CS-3 — การจำแนกและการปฏิบัติของระบบ** **CS-2 — ชนิดข้อมูลและการปฏิบัติ** และ **CS-5**; [corpus_forum.md](../../corpus_forum.md) โดยเฉพาะ **CF-5** (*การปฏิบัติการจัดเส้นทาง การโอน การรับรอง และการปฏิบัติแบบผู้แทน*) และ **CF-7** (*การคุ้มกันความครบถ้วน การปฏิบัติการต้านการยึดครอง และการสนับสนุนต้านการตัดสินตนเอง*); **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) และ [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) (*พื้นการตรวจ — SAC เป็นกระบวนการตรวจที่ใหญ่เป็นพิเศษภายใต้การกำกับดูแล ไม่ใช่บ้านการตรวจเดียว*); **CJS-3.3**–**CJS-3.5** (*คำความสามารถในการตรวจ การเข้าถึงการตรวจ และการตรวจสอบอิสระ*)
+- ต้นทาง: [คำนำ — ทะเบียนผู้รับผิดชอบตามรัฐธรรมนูญ](../../core_00_preamble.md#4-principles-definitions-and-rights) และ [ลำดับชั้นอำนาจและโครงสร้างภายใน](../../core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](../../core_00_preamble.md#two-constitutional-aims); [ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake); [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) และ [ความเป็นธรรมในสาระ](../../core_05_band_participation.md#substantive-fairness) (บทที่ห้า); กลุ่มการวัดการมีส่วนร่วม (*เสียง การเข้าถึง และช่องทางโต้แย้ง*); [บทที่หนึ่ง §16 การบริหารอย่างรับผิดชอบโดยละเอียด](../../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [บทที่หนึ่ง §12 ข้อกำหนดการประเมินเชิงระบบ](../../core_01_a_values_principles.md#12-systemic-evaluation-requirement); บทที่สองถึงสี่; [บทที่ห้า](../../core_05__definitions_home.md#chapter-five-foundational-definitions) (*นิยามหลัก*); [บทที่เจ็ด §2 พื้นฐานรัฐธรรมนูญสี่ที่นั่ง](../../core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); [การรับรองความสอดคล้องของระบบ](../../core_05_band_continuity.md#system-alignment-certification) (ศัพท์หลักในบทที่ห้า; คำย่อที่ไม่มีผลปฏิบัติ **SAC**); [บันทึกการรับรองระบบ](../../core_05_band_continuity.md#system-certification-record) (ความหมายตามบทที่ห้า)
+- ปลายทาง: [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); [ส่วน B §9.1](core_07_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*การโต้แย้งการรับรอง*); [ตัวอย่างประวัติชั้นระบบในส่วน C](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive); [ตัวอย่างการพิจารณาทั้งระบบในส่วน C](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive); [§3.4.8](../../core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive); [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive); [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive); [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive); [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive); [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive); [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive); [§3](#3-whole-system-certification-evaluation); [§3.4](#34-data-types-and-handling-evaluation) ถึง [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*การประเมินแต่ละด้าน*); [ส่วน B §6](core_07_b_system_alignment_certification_record_process.md#6-forum-process); [ส่วน B §6.1](core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles); [ส่วน B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record); [ส่วน B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability); [ส่วน B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes); [ส่วน B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing); [บทที่เก้า](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [บทที่สิบ](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration); [บทที่สิบสอง](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
+- อ่านร่วมกับ: [corpus_systems.md](../../corpus_systems.md) โดยเฉพาะ **CS-3 — การจำแนกและการจัดการระบบ**, **CS-2 — ประเภทและการจัดการข้อมูล**, และ **CS-5** (*พื้นผิวความสามารถที่ผู้ใช้มองเห็น*); [corpus_forum.md](../../corpus_forum.md) โดยเฉพาะ **CF-5** (*การกำหนดเส้นทาง การโอน การรับรอง และการปฏิบัติต่อผู้แทน*) และ **CF-7** (*มาตรการคุ้มครองความซื่อตรง การปฏิบัติการต่อต้านการครอบงำ และการสนับสนุนเพื่อต่อต้านการตัดสินตนเอง*); **มาตรา XVI** (*การตรวจสอบ ความโปร่งใส และการยืนยันโดยอิสระ*) และ [ความสามารถในการตรวจสอบ](../../core_05_band_oversight.md#auditability); **CJS-3.3** (*การกำกับดูแล: คำศัพท์ว่าด้วยความสามารถในการตรวจสอบและการสร้างกลับ (ภาคผนวก)*) ถึง **CJS-3.5** (*การกำกับดูแล: การยืนยันโดยอิสระและความซื่อตรงของข้อกล่าวอ้าง*)
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: เมื่อระบบสำคัญจริงต่อชีวิตของผู้มีความรู้สึก การรับรองต้อง **ตามสัดส่วน** — เข้มตามผลกระทบ การพึ่งพา และความเสี่ยงจริงของระบบ ไม่ใช่รายการตรวจแบบเดียวกับทุกคนหรือตราประทับยาง และต้อง **มีส่วนร่วม** — ผู้มีความรู้สึกและชุมชนที่ได้รับผลกระทบต้องเห็นสิ่งที่ถูกทบทวน เข้าใจสิ่งที่ถูกตัดสิน และโต้แย้งได้เมื่อมีสิ่งผิด เวทีทบทวนหลักฐาน เขียนลงบันทึกการรับรอง และขอให้ตรวจซ้ำตามจังหวะที่ตรงกับความเสี่ยงของระบบ การรับรองไม่ใช่คะแนนความนิยม บัตรผ่านตลอดกาล หรือทางข้ามการทบทวนสิทธิ เป็นคำแถลงที่มีขอบเวลาและโต้แย้งได้ของสิ่งที่รู้เกี่ยวกับความสอดคล้องของระบบในตอนนี้ ภายใต้ขา **การกำกับดูแล** ของจตุรภาค การกำกับดูแลขอการตรวจ; การรับรองความสอดคล้องของระบบเป็นกระบวนการตรวจที่ใหญ่และมีส่วนได้เสียสูงเป็นพิเศษในบรรดาอื่น — ไม่ใช่บ้านการตรวจเดียว (**มาตรา XVI**, [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability))*
+*พูดแบบตรง ๆ: เมื่อระบบหนึ่งมีความสำคัญต่อชีวิตของผู้มีความรู้สึกจริง ๆ การรับรองต้อง **ได้สัดส่วน** — เข้มงวดเท่าที่ผลกระทบ การพึ่งพา และความเสี่ยงจริงของระบบต้องการ ไม่ใช่รายการตรวจสอบแบบเดียวสำหรับทุกระบบหรือเพียงประทับตรา และต้อง **เปิดให้มีส่วนร่วม** ด้วย: ผู้มีความรู้สึกและชุมชนที่ได้รับผลกระทบต้องเห็นได้ว่าตรวจสอบอะไร เข้าใจได้ว่าตัดสินอย่างไร และโต้แย้งได้เมื่อมีสิ่งผิดพลาด เวทีพิจารณาหลักฐาน บันทึกลงในทะเบียนการรับรอง และกำหนดให้ตรวจซ้ำตามกำหนดเวลาที่สอดคล้องกับความเสี่ยง ระบบชั้น A, B และ C ใช้กระบวนการเต็มรูปแบบ ส่วนชั้น L ใช้กระบวนการที่เบากว่า ส่วนชั้น P สนับสนุนให้ใช้ และต้องใช้เมื่อผลกระทบล้ำพ้นหน่วยส่วนตัวหรือผู้ดำเนินการกล่าวอ้างว่าระบบปฏิบัติตามรัฐธรรมนูญ*
 
-<a id="1-purpose-and-role"></a>
+*การรับรองไม่ใช่คะแนนความนิยม ใบอนุญาตถาวร หรือทางลัดเพื่อข้ามการทบทวนสิทธิ แต่เป็นคำกล่าวที่มีกรอบเวลาและโต้แย้งได้เกี่ยวกับสิ่งที่ทราบในขณะนี้เกี่ยวกับความสอดคล้องของระบบ ภายใต้ขาของ **การกำกับดูแล** ในจตุรภาค การกำกับดูแลกำหนดให้มีการตรวจสอบ การรับรองความสอดคล้องของระบบเป็นหนึ่งในกระบวนการตรวจสอบที่มีขนาดใหญ่และมีเดิมพันสูงเป็นพิเศษ — ไม่ใช่ที่ตั้งเพียงแห่งเดียวของงานตรวจสอบ (**มาตรา XVI**, [ความสามารถในการตรวจสอบ](../../core_05_band_oversight.md#auditability)).*
 
-**การรับรองความสอดคล้องของระบบ** มีอยู่เพื่อตอบคำถามข้อเดียวสำหรับขอบเขตและจังหวะการทบทวนที่กล่าว: ระบบได้แสดงความสอดคล้องทางรัฐธรรมนูญพอสำหรับการรับรู้ การรับรู้มีเงื่อนไข การยืนยัน การรับรองซ้ำ การพึ่งต่อเนื่อง การติดตั้งใช้งาน หรือการปล่อยจากเงื่อนไขที่เป็นสาระหรือไม่
+**การรับรองความสอดคล้องของระบบ** ตอบคำถามหนึ่งข้อภายใต้ขอบเขตและกำหนดการทบทวนที่ระบุไว้: ระบบแสดงความสอดคล้องกับรัฐธรรมนูญเพียงพอสำหรับการรับรอง การรับรองแบบมีเงื่อนไข การยืนยัน การรับรองซ้ำ การพึ่งพาระบบต่อไป การนำระบบไปใช้ หรือการปลดเงื่อนไขที่มีนัยสำคัญหรือไม่?
 
-ในฐานะเครื่องมือกำกับดูแล การรับรองเป็นกระบวนการตรวจที่ใหญ่เป็นพิเศษภายใต้ [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) และ **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*): เวทีกำกับ หลายโดเมน และแบกการรับรู้ มันไม่ดูดซึมหรือแทนโหมดตรวจพี่น้อง (รวมการตรวจบันทึกการจำแนกระบบภายใต้ **CS-3** การตรวจบันทึกชนิดข้อมูลของระบบภายใต้ **CS-2** การตรวจความซับซ้อนและการบริหารอย่างรับผิดชอบ การตรวจสอบข้อกล่าวอ้าง และเส้นทางการตรวจต่อเนื่อง)
+ความลึกของการรับรอง ภาระในการจัดทำบันทึก รอบเวลาการรับรองซ้ำ การทบทวนโดยผู้มีส่วนได้เสีย และช่องทางโต้แย้ง ต้องเพิ่มตาม [ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake) ภายใต้ [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality):
 
-ความลึกของการรับรอง ภาระบันทึก จังหวะการรับรองซ้ำ การทบทวนฝ่ายที่ได้รับผลกระทบ และเส้นทางโต้แย้งต้องปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ภายใต้ [สัดส่วน](core_05_band_accountability.md#proportionality) ระบบผลกระทบสูง การพึ่งสูง และความเสี่ยงสูงขอหลักฐานที่เข้มกว่า บันทึกที่ชัดกว่า และการมีส่วนร่วมที่ใช้ปฏิบัติได้มากกว่า — รวมการเข้าถึงได้ที่เป็นสาระ ข้อมูลเข้าของฝ่ายที่ได้รับผลกระทบ และเส้นทางโต้แย้งที่ปรับตามผู้ที่พึ่งระบบ ชั้นต่ำกว่าและขอบเขตที่มีขอบยังขอการจำแนกที่ซื่อและการประกันตามสัดส่วน; ไม่ได้รับบัตรผ่านจากหน้าที่ที่เป็นสาระในที่ที่มีผลภายนอก
+- ระบบที่มีผลกระทบ การพึ่งพา และความเสี่ยงสูงกว่าต้องมีหลักฐานหนักแน่นขึ้น บันทึกชัดเจนขึ้น และมีส่วนร่วมได้จริงมากขึ้น — รวมถึงการเข้าถึงได้อย่างเป็นสาระ ข้อมูลจากผู้มีส่วนได้เสีย และช่องทางโต้แย้งที่เหมาะกับผู้พึ่งพาระบบ
+- ชั้นระบบที่ต่ำกว่าและขอบเขตจำกัดก็ยังต้องจำแนกอย่างซื่อตรงและมีหลักประกันตามสัดส่วน ไม่ได้รับการยกเว้นจากหน้าที่ที่มีสาระเมื่อเกิดผลกระทบภายนอก
 
-การรับรองทำให้ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) ปฏิบัติการผ่าน [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad):
+กระบวนการใช้ตามชั้นผลกระทบดังที่ [CS-3 §3.5 ข้อกำหนดการจัดชั้นใหม่](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) กำหนดไว้:
 
-- **[ความเจริญงอกงาม](core_00_preamble.md#flourishing)** — การรับรองยืนยันว่าการรับรู้หรือการพึ่งต่อเนื่องจะไม่พ่ายแพ้พื้นสิทธิอย่างเงียบหรือกั้นการมีส่วนร่วมที่เป็นธรรมในชีวิตที่เกี่ยวข้องทางรัฐธรรมนูญ;
-- **[ความต่อเนื่อง](core_00_preamble.md#continuity)** — การรับรองยืนยันการส่งมอบที่ทนและไม่ถอยหลัง และการรับรองซ้ำที่ปรับตามชั้น ในที่ที่ระบบร่วมกั้นหรือค้ำการส่งมอบ;
-- **การมีส่วนร่วม** — ผู้มีความรู้สึกและชุมชนที่ได้รับผลกระทบเข้าใจ โต้แย้ง และร่วมในเส้นทางทบทวนที่สำคัญต่อตนได้;
-- **การกำกับดูแล** — บันทึก หลักฐาน และข้อสมมติมองเห็นและตรวจได้พอสำหรับการตรวจอิสระ; การรับรองเองเป็นกระบวนการตรวจที่ใหญ่เป็นพิเศษภายใต้หน้าที่กำกับนั้น ไม่ใช่ข้อเดียว;
-- **ความรับผิดชอบ** — ข้อบกพร่อง การจำแนกผิด และการดำเนินงานที่พ่ายแพ้พื้นถูกจัดเส้นทางไปยังการเยียวยา เงื่อนไข การถอน หรือข้อมูลเข้าร่องรอยในที่ที่ข้อเท็จจริงรองรับ;
-- **ความทันเวลา** — นาฬิกาทบทวนและโต้แย้งกันไม่ให้การรับรองเก่าในขณะที่ยังป้องกันหรือย้อนภัยได้
+- **ชั้น A, ชั้น B และชั้น C:** ระบบเหล่านี้มีผลกระทบ การพึ่งพา และความเสี่ยงสูงที่สุด การประเมินทั้งระบบตาม [§3](#3-whole-system-certification-evaluation), [§4](#4-evaluations-where-implicated) และ [§5](#5-rights-floor-and-domain-evaluations) เป็นข้อบังคับด้วยความลึกเต็มที่สำหรับแต่ละระดับที่ใช้บังคับ
+- **ชั้น L:** ต้องประเมินเช่นเดียวกันแต่ให้ได้สัดส่วน โดยปกติเว้นช่วงตรวจซ้ำนานกว่าและใช้บันทึกที่เรียบง่ายกว่าได้เมื่อ CS-3 อนุญาต และ
+- **ชั้น P:** สนับสนุนให้ใช้กระบวนการเมื่อระบบยังจัดอยู่ในชั้น P อย่างถูกต้อง และอาจใช้โดยสมัครใจ กระบวนการนี้เป็นข้อบังคับเมื่อจัดชั้นใหม่เป็น L หรือสูงกว่า หรือเมื่อผู้ดำเนินการสมัครใจกล่าวอ้างว่าระบบปฏิบัติตามรัฐธรรมนูญ
 
-บทนี้ดำเนินกระบวนการรับรองที่เวทีกำกับสำหรับ:
+การรับรองนำ [สองเป้าประสงค์ทางรัฐธรรมนูญ](../../core_00_preamble.md#two-constitutional-aims) ไปปฏิบัติผ่าน [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad):
 
-- **ชั้นระบบและจังหวะการรับรองซ้ำ** — มองเข้มแค่ไหนและบ่อยแค่ไหน ([§2](#2-system-class-evaluation));
-- **การประเมิน** — การตรวจทั้งระบบและโดเมน ([§3](#3-whole-system-certification-evaluation) ถึง [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation));
-- **เนื้อหาบันทึกการรับรอง** — สิ่งที่ต้องอยู่บนแฟ้ม ([ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **การรับรู้และการพึ่งต่อเนื่อง** — ผลใดนับ ([§1](#1-purpose-and-role), [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **การโต้แย้งและความสามารถในการโต้แย้ง** — การท้าทายเคลื่อนผ่านเวทีอย่างไร ([ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability), [ส่วน ข §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain));
-- **ข้อบกพร่องของการรับรอง** — เกิดอะไรเมื่อการรับรองบกพร่อง ([ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) และหมวดประเมินตลอดบท)
+- **[ความเจริญงอกงาม](../../core_00_preamble.md#flourishing)** — ตรวจว่าการรับรองหรือการพึ่งพาต่อไปจะไม่ทำลายพื้นสิทธิอย่างเงียบ ๆ หรือขัดขวางการมีส่วนร่วมอย่างเป็นธรรมในชีวิตที่เกี่ยวข้องตามรัฐธรรมนูญ
+- **[ความต่อเนื่อง](../../core_00_preamble.md#continuity)** — ตรวจอุปทานที่ยั่งยืนและไม่ถดถอย ซึ่งค้ำจุนระบบธรรมชาติที่สมบูรณ์แทนการบั่นทอน ([ความสมบูรณ์ทางนิเวศ](../../core_05_band_continuity.md#ecological-integrity) รวมถึง [ศักยภาพการฟื้นตัวทางนิเวศ](../../core_05_band_continuity.md#ecological-recovery-capacity)) และตรวจการรับรองซ้ำที่ปรับตามชั้นระบบเมื่อระบบร่วมกันเป็นประตูหรือค้ำจุนการส่งมอบ
+- **การมีส่วนร่วม** — ผู้มีความรู้สึกและชุมชนที่ได้รับผลกระทบเข้าใจ โต้แย้ง และเข้าร่วมช่องทางทบทวนที่มีความหมายต่อพวกเขาได้
+- **การกำกับดูแล** — บันทึก หลักฐาน และสมมติฐานมองเห็นและตรวจสอบได้พอสำหรับการตรวจโดยอิสระ การรับรองเองเป็นกระบวนการตรวจสอบขนาดใหญ่ภายใต้หน้าที่นี้ แต่ไม่ใช่กระบวนการเดียว
+- **ความรับผิดชอบ** — ข้อบกพร่อง การจำแนกผิด และการดำเนินงานที่ทำลายพื้นสิทธิจะส่งต่อไปสู่การเยียวยา เงื่อนไข การถอน หรือข้อมูลสำหรับสถานะ เมื่อข้อเท็จจริงรองรับ
+- **ความทันเวลา** — กำหนดเวลาทบทวนและโต้แย้งป้องกันไม่ให้การรับรองล้าสมัยในขณะที่ยังป้องกันหรือย้อนกลับความเสียหายได้
 
-โปรไฟล์ตัวอย่าง **Class A** **Class B** และ **Class C** — และชั้นปรับความลึกของการรับรองข้ามบทนี้อย่างไร — อยู่ใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) การเดินดูที่ทำงานแล้วของระบบสามระบบเดียวกันปรากฏใน [§3.8](#38-illustrative-whole-system-application-by-class) (*การประเมินทั้งระบบ*) [§4.1](#41-illustrative-data-handling-application-by-class) (*ชนิดข้อมูลและการปฏิบัติ*) [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*รอยเท้าทางนิเวศ*) [§6.1](#61-illustrative-cross-system-support-application-by-class) (*การสนับสนุนข้ามระบบตามสัดส่วน*) [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*การไม่เลือกปฏิบัติ*) [§8.1](#81-illustrative-accessibility-application-by-class) (*การเข้าถึงได้*) [§9.1](#91-illustrative-educational-capability-application-by-class) (*ขีดความสามารถทางการศึกษา*) และ [§10.1](#101-illustrative-trustworthiness-application-by-class) (*ความน่าไว้วางใจ*)
+ในฐานะเครื่องมือกำกับดูแล การรับรองเป็นกระบวนการตรวจสอบขนาดใหญ่ภายใต้ [ความสามารถในการตรวจสอบ](../../core_05_band_oversight.md#auditability) และ **มาตรา XVI** (*การตรวจสอบ ความโปร่งใส และการยืนยันโดยอิสระ*):
 
-พื้นสิทธิที่บทนี้ช่วยยืนยันอยู่ใน **§1.1**
+- อยู่ภายใต้การกำกับของเวที ครอบคลุมหลายด้าน และเป็นกระบวนการที่มอบสถานะ
+- อาจรวมผลจากวิธีตรวจสอบที่เกี่ยวเนื่องกัน แต่ไม่กลืนหรือแทนที่ แต่ละวิธียังคงมีเจ้าของของตนเองตาม [แผนผังเจ้าของวิธีตรวจสอบที่เกี่ยวเนื่อง](../../corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) ในส่วนหลักของกระบวนการตรวจสอบ:
+  - การตรวจบันทึกประเภทข้อมูลระบบภายใต้ **CS-2**
+  - การตรวจบันทึกการจัดชั้นระบบภายใต้ **CS-3**
+  - การทบทวนหลักประกันการบริหารอย่างรับผิดชอบภายใต้ **CS-4**
+  - การตรวจสอบต่อเนื่องภายใต้ **CS-5** (*การออกแบบ การทดสอบ การยืนยัน และการนำไปใช้*) ACA
+  - การตรวจสอบความซับซ้อนภายใต้ **CS-6** และ **มาตรา XXIII-B**
+  - การยืนยันข้อกล่าวอ้างภายใต้ **CJS-3.5**
+- ยังดำเนินการตรวจสอบเหล่านี้แยกกันได้โดยไม่ต้องผ่านการรับรอง การรับรองไม่ได้แทนที่การตรวจเหล่านี้
 
+<a id="11-certification-at-a-glance"></a>
 
-<a id="11-rights-floors-this-chapter-helps-verify"></a>
-#### 1.1 พื้นสิทธิที่บทนี้ช่วยยืนยัน
+#### 1.1 ภาพรวมการรับรอง
 
-เมื่อระบบผลกระทบที่เป็นสาระกั้นหรือหล่อหลอมวิธีที่ผู้มีความรู้สึกมีชีวิต การรับรองตรวจว่าการอนุมัติจะไม่พ่ายแพ้ **พื้นสิทธิ** ของบทที่หกอย่างเงียบ รวม:
+*พูดแบบตรง ๆ: จำแนกระบบอย่างซื่อตรง ดำเนินการประเมินที่ใช้บังคับ ให้เวทีตรวจหลักฐานและข้อกังวลของผู้มีส่วนได้เสียอย่างเป็นอิสระ แล้วตัดสินผล จัดทำบันทึกฉบับเดียวที่เปิดไว้ให้เวทีทบทวนให้เสร็จและเผยแพร่พร้อมช่องทางโต้แย้งที่เปิดอยู่ ระบบที่ได้รับการรับรองจะเริ่มทำงานได้ต่อเมื่อครบช่วงแจ้งและมีมาตรการคุ้มครองที่กำหนดครบแล้ว ติดตามผลจริง ตอบสนองต่อเหตุการณ์และข้อโต้แย้ง และตรวจซ้ำตามกำหนดหรือเมื่อข้อเท็จจริงเปลี่ยน แก้ข้อบกพร่องและให้ตรวจสอบการแก้ไขโดยอิสระก่อนอนุญาตขอบเขตที่ได้รับผลกระทบหรือปลดเงื่อนไข แต่ละรอบทบทวนใช้บันทึกใหม่ที่เชื่อมโยงกับฉบับก่อน*
 
-- **สิ่งจำเป็นต่อการอยู่รอด** ภายใต้ **มาตรา III-A** (*การอยู่รอด*) — อาหาร น้ำ ที่พัก สภาพแวดล้อมการดำเนิน และปัจจัยฐานะกายที่ไม่พึ่งพาที่คล้าย;
-- **การเข้าถึงการศึกษาที่เท่ากัน** ภายใต้ **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*);
-- **ขีดความสามารถการศึกษาที่ศูนย์กลางผู้มีความรู้สึก** ภายใต้ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ในที่ที่ระบบจัดอันดับ ประเมิน แนะนำ วาง กั้นด้วยหลักฐานคุณวุฒิ หรือกั้นอย่างเป็นสาระเส้นทางฝึกใหม่และการเรียนรู้ตลอดชีวิต;
-- **การไม่เลือกปฏิบัติ** ภายใต้ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ในที่ที่ระบบจำแนก กั้น ตั้งราคา จัดอันดับ หรือจัดสรรภาระและประโยชน์ในหมู่ผู้มีความรู้สึก;
-- **การเข้าถึงได้** ภายใต้ **มาตรา V-G** (*การเข้าถึงได้*) ในที่ที่ระบบกั้นการมีส่วนร่วมที่เป็นสาระในโดเมนที่เกี่ยวข้องทางรัฐธรรมนูญ;
-- **ความประพฤติของระบบที่พึ่งได้และน่าไว้วางใจ** ภายใต้ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ในที่ที่ระบบหล่อหลอมอย่างเป็นสาระการพึ่งของผู้มีความรู้สึกต่อความประพฤติที่ถูกนำเสนอ ขีดจำกัด ความเสี่ยง เส้นทางโต้แย้ง หรือการเยียวยา;
-- **เงื่อนไขที่ปลอดภัย** ภายใต้ **มาตรา XIII-A** (*เส้นฐานความพึ่งได้และความน่าไว้วางใจ*) และ [**เงื่อนไขที่ปลอดภัย**](core_05_band_continuity.md#safe-conditions-constitutional) ในที่ที่ระบบส่งมอบหรือกั้นกิจกรรมผลิต;
-- **การจัดสรรทรัพยากร** ภายใต้ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) รวม [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) ภายใต้ **มาตรา IV-B** (*ความเป็นธรรมและความยั่งยืนข้ามระบบ*) ในที่ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งฐานราก
+กระบวนการมี **หกช่วง**: **I กำหนดกรอบ**, **II ประเมิน**, **III ทบทวน**, **IV ตัดสิน**, **V บันทึก**, และ **VI ดำเนินงาน** ช่วง II มีสามระดับ โดยแต่ละระดับอยู่ในหัวข้อของตน: **IIa** (ใช้เสมอ), **IIb** (เมื่อมีประเด็นเกี่ยวข้อง), และ **IIc** (เมื่อมีเหตุให้เริ่มใช้) ช่วง VI มีสองช่วงย่อย: **VIa** (ดำเนินงานและรับรองซ้ำ [§9](core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) และ **VIb** (สะพานสู่สถานะ [§10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing)) แผนภาพแสดงกระบวนการรับรองทั้งหมดตามลำดับนั้น ส่วน A ครอบคลุมสองช่วงแรก คือกำหนดกรอบและประเมิน [ส่วน B](core_07_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) ครอบคลุมสี่ช่วงหลัง ได้แก่ กระบวนการของเวที ผลและประตูอนุญาตให้เริ่มดำเนินงาน บันทึก และการดำเนินงาน (ช่องทางโต้แย้ง การรับรองซ้ำและการเปิดทบทวนใหม่ รวมถึงสะพานสู่สถานะ)
+
+การประเมินทุกข้อที่ใช้บังคับต้องทำซ้ำในทุกรอบการรับรอง ได้แก่ เมื่อรับรองครั้งแรก ทุกครั้งที่รับรองซ้ำตามกำหนดใน [§2](#2-system-class-evaluation) และทุกครั้งที่เปิดทบทวนใหม่หรือเริ่มทบทวนใหม่ ข้อเท็จจริงที่เป็นสาระเปลี่ยนไปเมื่อใด ต้องเปิดทบทวนก่อนวันรับรองซ้ำตามกำหนดครั้งถัดไป เช่น การพึ่งพาระบบเพิ่มขึ้น การสกัดจากฐานร่วมเพิ่มขึ้น สิ่งที่ระบบคืนกลับสู่ฐานเหล่านั้นลดลงอย่างมีนัยสำคัญ หรือมีข้อโต้แย้งที่น่าเชื่อถือ [ส่วน B §9](core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) ระบุเหตุเริ่มต้นไว้
+
+```mermaid
+flowchart TB
+    T(["ระบบที่มีผลกระทบเป็นสาระขอรับรอง<br/>หรือมีการพึ่งพาระบบเพิ่มขึ้น"])
+    C["ช่วง I กำหนดกรอบ — §2<br/>จำแนกอย่างซื่อตรง<br/><br/>ชั้นระบบกำหนดระดับความลึกและกำหนดตรวจซ้ำ"]
+    subgraph W["ช่วง II ประเมิน — §3–§5 การประเมินทั้งระบบ"]
+        direction LR
+        Al["IIa, §3.1–§3.4 — ใช้เสมอ<br/><br/>ความเสี่ยงเชิงระบบ: ประเมินและเปิดเผย<br/>แก่ผู้ที่ต้องทราบ; ขอบเวลา;<br/>การกำกับดูแล; ประเภทข้อมูล"]
+        Im["IIb, §4 — เมื่อเกี่ยวข้อง<br/><br/>จุดด้านความเป็นส่วนตัว สิทธิออกจากระบบ<br/>การชุมนุมและการเห็นต่าง"]
+        Tr["IIc, §5 — เมื่อมีเหตุเริ่มใช้<br/><br/>การตรวจพื้นสิทธิที่ใช้บังคับ<br/>และการประเมินหกด้าน"]
+        Al ~~~ Im ~~~ Tr
+    end
+    F["ช่วง III ทบทวน — §6<br/>ทบทวนหลักฐานและข้อกังวลของผู้มีส่วนได้เสีย<br/>โดยอิสระ<br/><br/>เวทีที่ได้รับมอบหมายออกข้อค้นพบ;<br/>ช่องทางโต้แย้งยังคงเปิด"]
+    Rec["ช่วง V บันทึก — §8<br/>บันทึกการรับรองระบบหนึ่งฉบับ<br/><br/>เปิดให้เวทีทบทวน; ทำให้สมบูรณ์ด้วยผล<br/>ข้อค้นพบสนับสนุน เงื่อนไข และแผนดำเนินงาน"]
+    S[["บทที่เก้า — บันทึก<br/>สถานะ<br/><br/>อยู่นอกบทนี้"]]
+    O{"ช่วง IV ตัดสิน — §7<br/><br/>หลักฐานรองรับผลและสถานะ<br/>แบบใด?"}
+    Fc["การรับรองเต็มรูปแบบ — §7, §9.2<br/><br/>ต้องมีการรับรองซ้ำชั่วคราวที่ผ่านต่อเนื่องตามจำนวน;<br/>ไม่มีการไม่สอดคล้องในปัจจุบันหรือที่กำลังจะเกิด<br/>รอบรับรองซ้ำนานกว่า; อาจมีเงื่อนไข"]
+    Pc["การรับรองชั่วคราว — §7, §9.2<br/><br/>ให้ครั้งแรก ฟื้นตัวหลังไม่สอดคล้อง<br/>หรือคงสถานะชั่วคราว/ลดระดับสถานะชั่วคราว<br/>รอบรับรองซ้ำสั้นกว่า; อาจมีเงื่อนไข"]
+    Nc["ยังไม่ได้รับการรับรอง — §7<br/><br/>เลื่อน ปฏิเสธ ถอน หรือหมดอายุ<br/>ห้ามเริ่มดำเนินงาน; ระบุเหตุผลและงานแก้ไขที่ต้องทำ"]
+    Pub["เผยแพร่บันทึกที่เสร็จสมบูรณ์ — §7, §9.1<br/><br/>เปิดช่องทางโต้แย้งบันทึกที่เผยแพร่;<br/>สำหรับขอบเขตใหม่หรือขยาย ให้แจ้งการเริ่มดำเนินงานและช่วงแจ้ง"]
+    G{"ประตูอนุญาตเริ่มดำเนินงาน — §7<br/><br/>การรับรองและข้อกำหนดเริ่มดำเนินงาน<br/>ที่ใช้บังคับครบแล้วหรือไม่?"}
+    Hold["ทำข้อกำหนดก่อนเริ่มดำเนินงานให้ครบ — §7<br/><br/>ให้ครบช่วงแจ้งและตรวจสอบโดยอิสระ<br/>ซึ่งเงื่อนไขที่ต้องครบก่อนเริ่มดำเนินงาน"]
+    Rm["คุ้มครองและแก้ไข — §7, §9.2<br/><br/>ห้ามเริ่มดำเนินงานใหม่ในขอบเขตที่ได้รับผลกระทบ;<br/>คุ้มครองผู้มีความรู้สึกที่ได้รับผลกระทบ แก้การออกแบบหรือการดำเนินงาน<br/>และส่งหลักฐานเพื่อการตรวจสอบโดยอิสระ"]
+    Ch["ช่วง VIa ดำเนินงานและรับรองซ้ำ — §9–§9.2<br/>ติดตามและเปิดช่องทางโต้แย้งไว้<br/><br/>ดำเนินงานภายในขอบเขตและเงื่อนไขที่รับรอง;<br/>ติดตามผลและตอบสนองต่อเหตุการณ์กับข้อโต้แย้ง"]
+    S2[["บทที่เก้า — บันทึก<br/>สถานะ<br/><br/>อยู่นอกบทนี้"]]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    Re["รอบทบทวนถัดไป — §9<br/><br/>รับรองซ้ำ เปิดทบทวนใหม่ หรือทบทวนใหม่;<br/>แต่ละรอบเปิดบันทึกใหม่ที่เชื่อมกับฉบับก่อน"]
+    T --> C
+    A1((A)) --> C
+    C --> W
+    W --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, §10 —<br/>เฉพาะข้อมูลนำเข้าที่ตรวจสอบแล้ว;<br/>การรับรองปัจจุบันหรือข้อเท็จจริง<br/>ที่เกิดขึ้นระหว่างการรับรอง| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|ไม่ได้รับรอง| Rm
+    G --->|ใช่: ดำเนินงาน<br/>ภายในขอบเขตในบันทึก| Ch
+    G --->|รับรองแล้ว,<br/>ข้อกำหนดยังไม่ครบ| Hold
+    Hold --> G
+    Ch -->|ข้อบกพร่องที่เป็นสาระ:<br/>คุ้มครองและแก้ไข| Rm
+    Ch -->|ตามกำหนด หรือมี<br/>การเปลี่ยนแปลงเป็นสาระ<br/>หรือข้อโต้แย้งน่าเชื่อถือ<br/>ที่ต้องทบทวน| Re
+    Ch -.->|VIb, §10 —<br/>เฉพาะข้อมูลนำเข้าที่ตรวจสอบแล้ว;<br/>การดำเนินงานอาจให้ข้อเท็จจริง<br/>สำหรับบันทึกการมีส่วนร่วม<br/>และการละเมิด| S2
+    Rm -->|ตรวจหลักฐานการแก้ไข<br/>ในรอบทบทวน<br/>ครั้งถัดไป| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style T fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style Al fill:none,stroke:#16a34a,color:#ffffff
+    style Im fill:none,stroke:#16a34a,color:#ffffff
+    style Tr fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
+
+<details>
+<summary><strong><span style="color: #2563eb;">แนวทางอ่าน (ไม่มีผลปฏิบัติ): หกช่วง</span></strong></summary>
+
+> | ช่วง | หัวข้อ | คำถามที่ช่วงนี้ตอบ | อยู่ที่ |
+> |-------|----------|----------------------------|-------|
+> | **I. กำหนดกรอบ** | [§2](#2-system-class-evaluation) | ระบบอยู่ชั้นใด และต้องประเมินลึกและบ่อยเพียงใด? | ส่วน A |
+> | **II. ประเมิน** | [§3](#3-whole-system-certification-evaluation) (IIa, เสมอ) · [§4](#4-evaluations-where-implicated) (IIb, เมื่อเกี่ยวข้อง) · [§5](#5-rights-floor-and-domain-evaluations) (IIc, เมื่อมีเหตุเริ่มใช้) | ระบบทั้งหมดทำอะไร — เสมอ เมื่อเกี่ยวข้อง และเมื่อมีเหตุเริ่มใช้? | ส่วน A |
+> | **III. ทบทวน** | [§6](core_07_b_system_alignment_certification_record_process.md#6-forum-process) | เวทีอิสระใดตรวจหลักฐานและข้อกังวลของผู้มีส่วนได้เสีย ตามลำดับใด และจะโต้แย้งได้อย่างไร? | ส่วน B |
+> | **IV. ตัดสิน** | [§7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) | เวทีได้ข้อสรุปใด และระบบเริ่มดำเนินงานได้หรือไม่? | ส่วน B |
+> | **V. บันทึก** | [§8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) | บันทึกฉบับเดียวที่เปิดให้เวทีทบทวนครบทั้งผล ข้อค้นพบสนับสนุน เงื่อนไข และแผนดำเนินงานหรือไม่ และตรวจสอบได้หรือไม่? | ส่วน B |
+> | **VI. ดำเนินงาน** | [§9](core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, ดำเนินงานและรับรองซ้ำ) · [§10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, สะพานสู่สถานะ) | ใครติดตามผลและตอบเหตุการณ์กับข้อโต้แย้ง ตรวจสอบการแก้ไขอย่างไร ทบทวนซ้ำเมื่อใด และอะไรจะไปถึงสถานะ? | ส่วน B |
+>
+> ตัวอย่างประวัติ **ชั้น A**, **ชั้น B**, **ชั้น C** — และการปรับความลึกของการรับรองตามชั้นระบบตลอดบทนี้ — อยู่ใน [ตัวอย่างประวัติชั้นระบบ (ไม่ครบถ้วน)](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) ตัวอย่างขั้นตอนของระบบสามระบบเดียวกันในแต่ละด้านการประเมิน ตั้งแต่ [§3](#3-whole-system-certification-evaluation) ถึง [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) อยู่ใน [ส่วน C — ตัวอย่าง](../../core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) ซึ่งเชื่อมแต่ละประวัติและตัวอย่างกลับไปยังหัวข้อในส่วน A ที่อธิบายไว้
+
+</details>
+
+<br>
+
 
 <a id="2-system-class-evaluation"></a>
 
 ### 2. การประเมินชั้นระบบ
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">การเชื่อมโยงที่ตรวจสอบย้อนกลับได้</span></strong></summary>
 
-- ต้นทาง: [§1](#1-purpose-and-role) (*จุดประสงค์และบทบาท*); ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระ*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) [การพึ่งพา](core_05_band_continuity.md#dependency) [ความเสี่ยง](core_05_band_continuity.md#risk) [ขอบเขตระบบ](core_05_band_continuity.md#system-boundaries) และ [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) (บทที่ห้า); [บทที่หนึ่ง §14 ข้อกำหนดการประเมินเชิงระบบ](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); **มาตรา III-A** (*การอยู่รอด*) และ **มาตรา III-B** (*การส่งมอบพื้นสิทธิในที่ที่การจำแนกกั้นการเข้าถึง*); **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) และ **มาตรา IV-B** (*การจัดสรรทรัพยากรและการบริหารการพึ่งพาอย่างรับผิดชอบในที่ที่การรับรองกั้นการพึ่งโครงสร้างพื้นฐานร่วม*)
-- ปลายทาง: [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*โปรไฟล์ชั้นตัวอย่าง*); [§3.8](#38-illustrative-whole-system-application-by-class) (*ตัวอย่างทั้งระบบที่ทำงานแล้วตามชั้น*); [§4.1](#41-illustrative-data-handling-application-by-class) (*ตัวอย่างการปฏิบัติข้อมูลที่ทำงานแล้วตามชั้น*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*ตัวอย่างรอยเท้าทางนิเวศที่ทำงานแล้วตามชั้น*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*ตัวอย่างการสนับสนุนข้ามระบบที่ทำงานแล้วตามชั้น*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*ตัวอย่างการไม่เลือกปฏิบัติที่ทำงานแล้วตามชั้น*); [§8.1](#81-illustrative-accessibility-application-by-class) (*ตัวอย่างการเข้าถึงได้ที่ทำงานแล้วตามชั้น*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*ตัวอย่างขีดความสามารถทางการศึกษาที่ทำงานแล้วตามชั้น*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*ตัวอย่างความน่าไว้วางใจที่ทำงานแล้วตามชั้น*); [§4](#4-data-types-and-handling-evaluation) (*การประเมินการปฏิบัติข้อมูลร่วม*); [§5](#5-ecological-footprint-evaluation) (*การประเมินรอยเท้าทางนิเวศ*); [§6](#6-proportionate-cross-system-support-evaluation) (*การประเมินการสนับสนุนข้ามระบบ*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องของการจำแนกและตัวกระตุ้นการจำแนกใหม่*)
-- อ่านคู่กับ: [บันทึกการจำแนกระบบ](core_05_band_continuity.md#system-classification-record-constitutional); [corpus_systems.md](../../corpus_systems.md) **CS-3 — การจำแนกและการปฏิบัติของระบบ** รวม **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*ข้อกำหนดการจำแนกใหม่* — ตัวกระตุ้น ความลึกประเมินที่ปรับตามชั้น และสะพานยืนยัน SAC) และ **[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*หน้าที่การปกครองของบันทึกการจำแนกระบบและสะพาน SAC*); [CS-5 — การออกแบบ การทดสอบ การตรวจสอบ และการติดตั้งใช้งาน](../../corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — คำความทนทานแบบตรงข้ามและความต้านการละเมิด](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*หน้าที่วงการถดถอยและการทำให้แข็ง*); [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*การรับรู้และการทบทวนความสอดคล้องทางรัฐธรรมนูญ*)
+- **ต้นทาง:** [§1](#1-purpose-and-role) (*วัตถุประสงค์และบทบาท*); สาระสำคัญเชิงบูรณาการ ([สาระสำคัญ](core_05_band_oversight.md#materiality)); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact), [การพึ่งพา](core_05_band_continuity.md#dependency), [ความเสี่ยง](core_05_band_continuity.md#risk), [ขอบเขตของระบบ](core_05_band_continuity.md#system-boundaries) และ [กฎบัตร](core_05_band_continuity.md#charter) (บทที่ห้า); [บทที่หนึ่ง §12 ข้อกำหนดการประเมินเชิงระบบ](core_01_a_values_principles.md#12-systemic-evaluation-requirement); **มาตรา III-A** (*การอยู่รอด*) และ **มาตรา IV-A** (*การส่งมอบพื้นสิทธิเมื่อการจัดชั้นกำหนดการเข้าถึง*); **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) และ **มาตรา V-B** (*การจัดสรรทรัพยากรและการดูแลการพึ่งพาเมื่อการรับรองกำหนดการพึ่งพาโครงสร้างพื้นฐานร่วม*).
+- **ปลายทาง:** [§2.1](#21-how-system-class-scales-every-evaluation) (*การมีส่วนร่วมและความได้สัดส่วนตามชั้นระบบ*); [§2.2](#22-pilot-certification) (*การรับรองนำร่อง*); [ประวัติชั้นระบบและการจัดชั้นใหม่ในส่วน C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*ประวัติชั้นระบบเชิงตัวอย่าง*); [ตัวอย่างการประยุกต์กับระบบทั้งหมดในส่วน C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive); ตัวอย่างการจัดการข้อมูล [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), รอยเท้าทางนิเวศ [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), ความสามารถทางการศึกษา [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive), การสนับสนุนข้ามระบบ [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive), การไม่เลือกปฏิบัติ [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), การเข้าถึงได้ [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive), และความน่าเชื่อถือ [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive); [§3.4](#34-data-types-and-handling-evaluation) (*การประเมินร่วมด้านการจัดการข้อมูล*); [§5.1](#51-ecological-footprint-evaluation) (*การประเมินรอยเท้าทางนิเวศ*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*การประเมินการสนับสนุนข้ามระบบอย่างได้สัดส่วน*); [ส่วน B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*ความครบถ้วนของบันทึก*); [ส่วน B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*เกณฑ์รับข้อมูลนำเข้าที่ผ่านการตรวจสอบ*); [ส่วน B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*การเลื่อนไหลของการจัดชั้นและตัวกระตุ้นให้จัดชั้นใหม่*).
+- **อ่านร่วมกับ:** [บันทึกการจัดชั้นระบบ](core_05_band_continuity.md#system-classification-record); [corpus_systems.md](corpus_systems.md), **CS-3 — การจัดชั้นและการจัดการระบบ**, รวมถึง [**CS-3 §3.5 ข้อกำหนดการจัดชั้นใหม่**](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*ตัวกระตุ้น ความลึกของการประเมินตามชั้นระบบ และจุดเชื่อมการตรวจสอบ SAC*) และ [**CS-3 §7**](corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) (*ธรรมาภิบาลการจัดชั้น การเปิดเผย และการโต้แย้ง*) — หน้าที่ด้านธรรมาภิบาลของบันทึกการจัดชั้นระบบและจุดเชื่อม SAC; [CS-5 — การออกแบบ การทดสอบ การตรวจสอบ และการนำไปใช้](corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — คำศัพท์ด้านความทนทานต่อฝ่ายตรงข้ามและการต้านทานการใช้ในทางที่ผิด](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*หน้าที่ด้านการทดสอบการถดถอยและวงจรเสริมความแข็งแกร่ง*); [corpus_forum.md](corpus_forum.md), **CF-7.2** (*การรับรองและทบทวนความสอดคล้องทางรัฐธรรมนูญ*).
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: การรับรองต้องตรวจว่าระบบถูกจำแนกอย่างซื่อ — ไม่ใช่จากที่ผู้ดำเนินการเรียก แต่จากสิ่งที่มันทำจริง สิ่งที่พึ่งมัน และสิ่งที่ผิดพลาดได้ ชั้นสูงกว่าหมายถึงหลักฐานเข้มกว่า การตรวจซ้ำเร็วกว่า และความคาดหวังความทนสูงกว่า ดู [§2.1](#21-illustrative-class-profiles-non-exhaustive) สำหรับระบบหนึ่งต่อชั้น; [§3.8](#38-illustrative-whole-system-application-by-class) [§4.1](#41-illustrative-data-handling-application-by-class) [§5.1](#51-illustrative-ecological-footprint-application-by-class) [§6.1](#61-illustrative-cross-system-support-application-by-class) [§7.1](#71-illustrative-nondiscrimination-application-by-class) [§8.1](#81-illustrative-accessibility-application-by-class) [§9.1](#91-illustrative-educational-capability-application-by-class) และ [§10.1](#101-illustrative-trustworthiness-application-by-class) เดินดูว่าการประเมินใช้กับแต่ละระบบอย่างไร*
+*กล่าวโดยง่าย: การรับรองต้องตรวจสอบว่าจัดชั้นระบบอย่างตรงไปตรงมาหรือไม่ โดยดูจากสิ่งที่ระบบทำจริง สิ่งที่พึ่งพาระบบ และสิ่งที่อาจผิดพลาด ไม่ใช่จากชื่อที่ผู้ดำเนินการเรียก ชั้นระบบที่สูงขึ้นหมายถึงต้องมีหลักฐานเข้มงวดขึ้น ตรวจซ้ำถี่ขึ้น และคาดหวังความยืดหยุ่นทนทานสูงขึ้น ดู [ส่วน C — ตัวอย่าง](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) สำหรับตัวอย่างหนึ่งระบบในแต่ละชั้นและวิธีใช้การประเมินกับระบบนั้น.*
 
-การรับรองความสอดคล้องของระบบต้องประเมิน **ชั้นระบบ** เป็นส่วนของทุกบันทึกการรับรองผลกระทบที่เป็นสาระ บทนิยามชั้นฉบับหลัก กฎมิติ โปรไฟล์ชั้น การปกครองการจำแนก การประกันที่ปรับตามชั้น ความทนของโครงสร้างพื้นฐาน และกลไกการรับรองใหม่ อยู่ใน **[corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกและการปฏิบัติของระบบ** และ **[CS-5 — การออกแบบ การทดสอบ การตรวจสอบ และการติดตั้งใช้งาน](../../corpus_systems/cs_05_design_testing_verification_deployment.md)** หมวดนี้กล่าวสิ่งที่การรับรองต้องยืนยันและบันทึก; ไม่กล่าวซ้ำอนุกรมวิธานชั้นของ CS-3 โปรไฟล์การนำไปใช้ หรือกลไกทดสอบของ CS-5
+บันทึกการรับรองทุกฉบับสำหรับระบบที่มีผลกระทบเป็นสาระต้องมีการประเมิน **ชั้นระบบ** ของระบบนั้น
 
-การรับรองต้องยืนยันและบันทึก:
+กฎโดยละเอียดอยู่ใน [corpus_systems.md](corpus_systems.md), [CS-3 — การจัดชั้นและการจัดการระบบ](corpus_systems/cs_03_a_system_classification_machinery.md) และ [CS-5 — การออกแบบ การทดสอบ การตรวจสอบ และการนำไปใช้](corpus_systems/cs_05_design_testing_verification_deployment.md) ซึ่งกำหนดเรื่องต่อไปนี้:
 
-- **ข้อกำหนดการประเมิน:**
-  - ว่าชั้นระบบที่กำหนดสะท้อน **ผลกระทบ** **การพึ่งพา** และ **ความเสี่ยง** ที่สังเกตได้และคาดได้ตามเหตุภายใต้ CS-3 รวมผลรวม ปฏิสัมพันธ์ แบบตรงข้าม และธรณีประตู; และ
-  - ว่าการจำแนกถูกกำหนดจากความประพฤติและผลกระทบจริงของระบบ ไม่จากเจตนาที่ประกาศ ขอบเขตในนาม ข้อความ [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) เพียงอย่างเดียว หรือคำอธิบายตนเองเพียงอย่างเดียว; และ
-  - ว่าการประเมินการจำแนกใหม่ภายใต้ **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** ถูกนำไปใช้ในที่ที่ตัวกระตุ้นการประเมินใหม่ที่เป็นสาระทำงาน และว่า [บันทึกการจำแนกระบบ](core_05_band_continuity.md#system-classification-record-constitutional) สะท้อนชั้น **สูงสุดที่ใช้ได้** ภายใต้เงื่อนไขปัจจุบัน
-- **ข้อกำหนดบันทึก:**
-  - [บันทึกการจำแนกระบบ](core_05_band_continuity.md#system-classification-record-constitutional) ที่กล่าวชั้นที่กำหนด เหตุผลการจำแนก ข้อสมมติหลัก ชนิดการพึ่งที่มี การประเมินความวิกฤตปฏิบัติการในที่ที่เป็นสาระ ความไม่แน่นอน และจังหวะการรับรองซ้ำที่ปรับตามชั้น ตามที่ [ส่วน ข §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) ขอ; และ
-  - ในที่ที่การจำแนกไม่แน่นอนหรือถูกโต้แย้ง ชั้นเชิงป้องกันที่พึ่งและเงื่อนไขใดที่รอการยุติ
-- **การประกันและการรับรองใหม่:**
-  - ว่าการประกันที่ปรับตามชั้น ความทนของโครงสร้างพื้นฐาน และการครอบการถดถอยตรงกับ CS-3 และ CS-5 สำหรับชั้นที่กำหนด อ่านคู่กับ [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) และ **CJS-3.19** ถึง **CJS-3.23** ในที่ที่ใช้ได้อย่างเป็นสาระ;
-  - ผลการทดสอบถดถอยบนบันทึกการรับรองภายใต้ [ส่วน ข §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) สำหรับแต่ละการรับรองใหม่หรือการรับรองซ้ำ — ขอบการถดถอย ชุดทดสอบมาตรฐานและกำหนดเองที่รัน ผล ความล้มเหลวที่รู้ การเยียวยา และความเสี่ยงคงเหลือที่ยอมรับพร้อมเหตุผล ตามที่ CS-5 ขอ;
-  - หลักฐานการรับรู้และการทบทวนบนบันทึกสำหรับรอบการรับรอง — ชุดหลักฐานที่แสดงขอบเขต การจำแนก การทดสอบ ความเสี่ยงคงเหลือ ความพร้อมเยียวยา การเฝ้า และการเปลี่ยนแปลงที่เป็นสาระตั้งแต่บันทึกก่อนในที่ที่ใช้การรับรองใหม่ ตามที่ CS-5 *การรับรู้ของเวทีและการทบทวนวงชีวิต* ขอ; และ
-  - สำหรับระบบที่กั้นหรือค้ำการส่งมอบพื้นสิทธิ ว่าจังหวะการรับรองซ้ำและความลึกของการถดถอยทำให้เป้าประสงค์ **ความต่อเนื่อง** ภายใต้ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) ปฏิบัติการ — การรับรองที่เก่าหรือเร็วเกินไปต้องไม่ถูกถือเป็นหลักฐานว่าผู้มีความรู้สึกยังได้รับอาหาร น้ำ ที่พัก การศึกษา หรือความปลอดภัยในการปฏิบัติ
-- **การจำแนกผิดและข้อบกพร่อง:**
-  - การกล่าวอ้างชั้นความเสี่ยงต่ำกว่าที่ระบบสมควร การหักระบบเป็นชิ้นเพื่อเลี่ยงกฎที่เข้มกว่า หรือการคงป้ายชั้นเก่าหลังเงื่อนไขเปลี่ยน — รวมความล้มเหลวในการประเมินใหม่ภายใต้ **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** — เป็นข้อบกพร่องของการรับรองภายใต้ CS-3 และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) ไม่ใช่ความผิดพลาดเอกสารเล็กน้อย;
-  - การข้ามการทดสอบถดถอย การพึ่งผลที่ล้าสมัย การปล่อยรอยแตกที่รู้โดยไม่ซ่อม หรือการยอมรับการแก้ใหญ่โดยไม่ทดสอบซ้ำเมื่อทดสอบซ้ำทำได้ — เป็นข้อบกพร่องของการรับรองภายใต้ CS-5; และ
-  - ในที่ที่ข้อเท็จจริงรองรับ ปัญหาการจำแนกเดียวกันอาจนับเข้าสู่ข้อค้นพบร่องรอยที่ไม่เป็นคุณใน [บทที่แปด](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)
+- มีชั้นระบบใดบ้าง กำหนดชั้นระบบอย่างไร และมีประวัติชั้นระบบแบบใด;
+- กำกับดูแลการจัดชั้นอย่างไร;
+- แต่ละชั้นระบบต้องมีหลักประกันมากเพียงใด;
+- โครงสร้างพื้นฐานต้องทนทานเพียงใด;
+- การตรวจและบันทึกใดต้องรับรองซ้ำ ตามกำหนดเวลาที่ปรับตามชั้นระบบอย่างไร และการรับรองชั่วคราวกับการรับรองเต็มรูปแบบเปลี่ยนกำหนดเวลานั้นอย่างไร
 
-ในที่ที่การรับรองพบข้อบกพร่องเหล่านี้ เวทีอาจอนุมัติมีเงื่อนไข เลื่อนการอนุมัติ ปฏิเสธ ถอนการรับรู้ เปลี่ยนจังหวะการทบทวน หรือสั่งการทบทวนใหม่
+ส่วนนี้ระบุสิ่งที่การรับรองต้องตรวจสอบ
 
-<a id="21-illustrative-class-profiles-non-exhaustive"></a>
+การรับรองต้องตรวจสอบว่า:
 
-#### 2.1 โปรไฟล์ชั้นตัวอย่าง (ไม่ครบถ้วน)
+- **ข้อกำหนดด้านการประเมิน:**
+  - ชั้นระบบที่กำหนดสะท้อน **ผลกระทบ**, **การพึ่งพา** และ **ความเสี่ยง** ที่สังเกตพบและคาดการณ์ได้อย่างสมเหตุสมผลตาม CS-3 (*กลไกการจัดชั้นระบบ*) รวมถึง:
+    - ผลกระทบสะสม;
+    - ผลกระทบจากปฏิสัมพันธ์;
+    - ผลกระทบจากฝ่ายตรงข้าม;
+    - ผลกระทบจากเกณฑ์ขีดจำกัด;
+  - การจัดชั้นพิจารณาจากพฤติกรรมและผลกระทบจริงของระบบ ไม่ใช่จาก:
+    - เจตนาที่ประกาศไว้;
+    - ขอบเขตตามชื่อ;
+    - ข้อความใน [กฎบัตร](core_05_band_continuity.md#charter)เพียงอย่างเดียว; หรือ
+    - คำอธิบายตนเองเพียงอย่างเดียว;
+  - มีการตรวจชั้นระบบอีกครั้งตาม **[ข้อกำหนดการจัดชั้นใหม่ CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** ทุกครั้งที่การเปลี่ยนแปลงสำคัญทำให้ต้องตรวจ; และ
+  - [บันทึกการจัดชั้นระบบ](core_05_band_continuity.md#system-classification-record) แสดง **ชั้นระบบสูงสุดที่ใช้ได้** ภายใต้สภาพปัจจุบัน
+- **หลักประกันและการทดสอบการถดถอย:**
+  - หลักประกัน ความทนทานของโครงสร้างพื้นฐาน และขอบเขตการทดสอบการถดถอยที่ปรับตามชั้นระบบสอดคล้องกับชั้นที่กำหนด ตาม:
+    - CS-3 (*กลไกการจัดชั้นระบบ*); และ
+    - CS-5 (*พื้นผิวความสามารถที่ผู้ใช้เห็น*) โดยอ่านร่วมกับคำศัพท์ปฏิบัติการร่วมต่อไปนี้เมื่อมีสาระสำคัญ:
+      - [**CJS-3.19**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms) (*ความต่อเนื่อง: การลดระดับอย่างราบรื่นและความครบถ้วนของรูปแบบความล้มเหลว*);
+      - [**CJS-3.20**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms) (*ความต่อเนื่อง: การย้อนกลับได้และการควบคุมขอบเขต*);
+      - [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*ความต่อเนื่อง: ความทนทานต่อฝ่ายตรงข้ามและการต้านทานการใช้ในทางที่ผิด*); และ
+      - [**CJS-3.22**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms) (*บูรณาการ: การรักษาความลับแบบมีข้อจำกัดและการสอบสวนที่ได้รับการคุ้มครอง*) กับ [**CJS-3.23**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms) (*บูรณาการ: การแทรกแซงและความครบถ้วนของการสั่งทับ*) เมื่อชั้นหรือหน้าที่ของระบบทำให้ข้อกำหนดเหล่านี้ใช้ได้อย่างมีสาระสำคัญ; และ
+  - มีการทดสอบการถดถอยทุกครั้งที่รับรองซ้ำตามที่ CS-5 (*พื้นผิวความสามารถที่ผู้ใช้เห็น*) กำหนด และบันทึกผลไว้ตาม [§8.1 เนื้อหาขั้นต่ำของบันทึก](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents) หรือไม่
+- **การรับรองและการรับรองซ้ำ:**
+  - มีชุดหลักฐานการรับรองและการทบทวนสำหรับรอบการรับรองตามข้อกำหนด *การรับรองโดยเวทีและการทบทวนวงจรชีวิต* ของ CS-5 (*พื้นผิวความสามารถที่ผู้ใช้เห็น*) หรือไม่;
+  - สถานะการรับรองในบันทึกมีหลักฐานรองรับตาม [ส่วน B §9.2 การรับรองชั่วคราวและเต็มรูปแบบ](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) หรือไม่:
+    - รับรองเต็มรูปแบบได้เฉพาะเมื่อ:
+      - ผ่านเกณฑ์ขั้นต่ำของการรับรองซ้ำที่สะอาดต่อเนื่อง;
+      - ไม่มีความไม่สอดคล้องในปัจจุบัน; และ
+      - ไม่มีตัวชี้วัดการติดตามที่บ่งชี้ความไม่สอดคล้องซึ่งใกล้จะเกิด;
+    - รับรองชั่วคราวสำหรับระบบที่การรับรองซ้ำครั้งล่าสุดไม่ผ่าน; และ
+  - สำหรับระบบที่ส่งมอบหรือพึ่งพาการคุ้มครองพื้นสิทธิขั้นพื้นฐาน:
+    - ความถี่ในการตรวจซ้ำและความลึกของการทดสอบซ้ำสนับสนุนเป้าหมาย **ความต่อเนื่อง** ใน [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) หรือไม่ กล่าวคือ สิ่งจำเป็นยังไปถึงผู้มีความรู้สึกเมื่อเวลาผ่านไป;
+    - ไม่มีการถือว่าการรับรองที่ล้าสมัยหรือเร็วเกินไปเป็นหลักฐานว่าผู้มีความรู้สึกได้รับอาหาร น้ำ ที่พัก การศึกษา หรือความปลอดภัยจริงในวันนี้
+- **การจัดชั้นผิดและข้อบกพร่อง:**
+  - ข้อบกพร่องด้านการรับรองตาม CS-3 (*กลไกการจัดชั้นระบบ*) และ [ส่วน B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) ไม่ใช่ข้อผิดพลาดเอกสารเล็กน้อย แต่รวมถึง:
+    - อ้างชั้นความเสี่ยงต่ำกว่าที่ระบบควรอยู่;
+    - แบ่งระบบเป็นส่วน ๆ เพื่อเลี่ยงกฎที่เข้มงวดกว่า; หรือ
+    - คงป้ายชั้นระบบเก่าไว้หลังสถานการณ์เปลี่ยน รวมถึงไม่ประเมินใหม่ตาม **[ข้อกำหนดการจัดชั้นใหม่ CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**;
+  - ข้อบกพร่องด้านการรับรองตาม CS-5 (*พื้นผิวความสามารถที่ผู้ใช้เห็น*) รวมถึง:
+    - ข้ามการทดสอบการถดถอย;
+    - อาศัยผลลัพธ์ที่ล้าสมัย;
+    - ปล่อยข้อขัดข้องที่ทราบแล้วไว้โดยไม่แก้; หรือ
+    - ยอมรับการแก้ไขครั้งใหญ่โดยไม่ทดสอบซ้ำ ทั้งที่สามารถทดสอบซ้ำได้; และ
+  - เมื่อระบบได้รับการรับรองและข้อเท็จจริงรองรับ ปัญหาการจัดชั้นแบบเดียวกันอาจนำไปประกอบข้อค้นพบด้านสถานะในทางเสียหายใน [บทที่เก้า](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) ได้ด้วย
 
-*พูดแบบตรง ๆ: ชั้นไม่ใช่ตราที่ผู้ดำเนินการเลือก — คือปริมาณภัย การพึ่ง และความเสี่ยงที่ระบบแบกจริง ตารางด้านล่างตั้งชื่อระบบตัวอย่างหนึ่งต่อชั้น; [§3.8](#38-illustrative-whole-system-application-by-class) [§4.1](#41-illustrative-data-handling-application-by-class) [§5.1](#51-illustrative-ecological-footprint-application-by-class) [§6.1](#61-illustrative-cross-system-support-application-by-class) [§7.1](#71-illustrative-nondiscrimination-application-by-class) [§8.1](#81-illustrative-accessibility-application-by-class) [§9.1](#91-illustrative-educational-capability-application-by-class) และ [§10.1](#101-illustrative-trustworthiness-application-by-class) เดินดูว่าการประเมินทั้งระบบ การปฏิบัติข้อมูล รอยเท้าทางนิเวศ การสนับสนุนข้ามระบบ การไม่เลือกปฏิบัติ การเข้าถึงได้ ขีดความสามารถทางการศึกษา และความน่าไว้วางใจใช้กับแต่ละระบบอย่างไร กฎชั้นแบบทางการ การทดสอบมิติ และตัวกระตุ้นการจำแนกใหม่อยู่ใน **CS-3**; ตัวอย่างเหล่านี้ไม่เพิ่มชั้นหรือทำให้ CS-3 แคบลง*
+ผลของข้อบกพร่องเหล่านี้กำหนดไว้ใน [§7 ผลการรับรอง](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)
 
-| ชั้น | ระบบตัวอย่าง (ไม่ครบถ้วน) | สิ่งที่การรับรองต้องสะท้อนที่ชั้นนี้ |
-|-------|-------------------------------------|-----------------------------------------------|
-| **Class A** | การควบคุมและโทรมาตร **น้ำดื่มปลอดภัย** ของเทศบาล — การขาดช่วงจะปิดน้ำปลอดภัยก่อนที่ของแทนที่ใช้ได้จะมาถึง ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | ความลึก [§3](#3-whole-system-certification-evaluation) ที่เต็มที่สุด; จังหวะการรับรองซ้ำที่สั้นที่สุดที่มีเหตุ; ความคาดหวังการถดถอย โครงสร้างพื้นฐาน และการเปิดเผยบันทึกที่เข้มที่สุดภายใต้ [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record); การมีส่วนร่วมของฝ่ายที่ได้รับผลกระทบและเวทีผู้มีความรู้สึกที่ใช้ปฏิบัติได้สูงสุดในที่ที่พื้นสิทธิถูกกั้น |
-| **Class B** | **การแลกเปลี่ยนบันทึกคลินิก** ระดับภูมิภาค — โรงพยาบาลและคลินิกพึ่งทุกวันแต่ถอยไปใช้ทางสำรองได้ภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอด ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | การประเมิน [§3](#3-whole-system-certification-evaluation) เต็ม; หลักฐานสายการพึ่งและเส้นทางฟื้นที่แข็ง; การประเมินโดเมนใน [§4](#4-data-types-and-handling-evaluation) ถึง [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระใช้; เส้นทางโต้แย้งและการเฝ้าที่ปรับตามความวิกฤตปฏิบัติการ |
-| **Class C** | แพลตฟอร์ม **จัดตารางและประสานสถาบัน** ขนาดใหญ่ — หล่อหลอมการประสานในระดับแต่ไม่ใช่เงื่อนไขปฏิบัติการสำหรับบริการอยู่รอดในโหมดเสื่อม ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | การประเมินที่เป็นสาระภายใต้ [§4](#4-data-types-and-handling-evaluation) ถึง [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นใช้; การทบทวนทั้งระบบตามสัดส่วน; การเฝ้าการจำแนกใหม่ในที่ที่ผลของการพึ่ง ความเข้มข้น หรือจุดคอขวดเข้มขึ้น — การรับรองต้องไม่ถือ Class C เป็นถาวรหากระบบกลายเป็นจำเป็นปฏิบัติการ |
+<a id="21-how-system-class-scales-every-evaluation"></a>
 
-**การมีส่วนร่วมและสัดส่วนที่มาตราส่วนชั้น.** ระบบ **Class A** ขอเส้นทางการมีส่วนร่วมที่ใช้ปฏิบัติได้เข้มที่สุด — รวมการโต้แย้งที่เข้าถึงได้ การทบทวนฝ่ายที่ได้รับผลกระทบ และข้อค้นพบส่วนประกอบเวทีผู้มีความรู้สึกในที่ที่พื้นสิทธิเกี่ยว — เพราะความผิดพลาดอาจปิดสิ่งจำเป็นต่อการอยู่รอดก่อนการเยียวยาจะเป็นไปได้ ระบบ **Class B** ขอการมีส่วนร่วมที่แข็งในที่ที่ระบบกั้นการดูแลสุขภาพ การศึกษา สวัสดิการ งาน หรือชีวิตประจำวันที่คล้าย ระบบ **Class C** ยังขอบันทึกที่โต้แย้งได้และการเปิดเผยตามสัดส่วน โดยเฉพาะในที่ที่ผลประสานแบกกลุ่มที่คุ้มครอง กระจุกการพึ่ง หรือส่งสัญญาณการยกระดับสู่ Class B หรือ Class A
+#### 2.1 ชั้นระบบกำหนดขนาดของการประเมินแต่ละรายการอย่างไร
 
-**เครื่องเตือนการจำแนกใหม่.** ป้ายตัวอย่างไม่ล็อกการจำแนก แพลตฟอร์มประสานที่กลายเป็นประตูตามจริงสู่การเข้าถึงที่จำเป็นต่อการอยู่รอด; บริการหลักฐานคุณวุฒิที่การขาดตอนจะกั้นการดูแลสุขภาพหรือสวัสดิการภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอด; หรือระบบย่อยสาธารณูปโภคที่ถูกดูดเข้าเส้นทางวิกฤต ต้องถูกจำแนกใหม่และรับรองใหม่ภายใต้ **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — ไม่ทิ้งไว้ที่ชั้นต่ำกว่าเพราะผู้ดำเนินการชอบการทบทวนที่เบากว่า
+ชั้นระบบกำหนดว่าจะดำเนินการประเมินทุกรายการในบทนี้ลึกเพียงใด — ปัจจัยระดับระบบทั้งหมดใน [§3 การประเมินการรับรองทั้งระบบ](#3-whole-system-certification-evaluation), การจัดการข้อมูลใน [§3.4 การประเมินประเภทและการจัดการข้อมูล](#34-data-types-and-handling-evaluation), และการประเมินพื้นสิทธิและรายสาขาทุกข้อใน [§5](#5-rights-floor-and-domain-evaluations) — รวมถึงความถี่ในการทำซ้ำ:
 
+- ระบบชั้นสูงต้องมีหลักฐานที่เข้มแข็งขึ้นตามสัดส่วนว่าได้ทำการประเมินแต่ละรายการที่ใช้จริง ไม่ใช่เพียงกล่าวอ้างว่าได้ทำ;
+- ระบบชั้นต่ำก็ยังต้องได้รับการประเมินอย่างตรงไปตรงมาและได้สัดส่วนเมื่อมีตัวกระตุ้นที่ใช้ได้;
+- ชั้นระบบไม่เคยอนุญาตให้ข้ามการประเมินที่จำเป็น หากบทบาทจริงของระบบเกินชั้นของตน ต้องจัดชั้นใหม่และประเมินใหม่ในระดับที่ลึกกว่า ตาม [§9 การรับรองซ้ำและการเปิดทบทวนใหม่](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening);
+- ชั้นระบบกำหนดความลึกของการทบทวน แต่ไม่ทำให้การยอมรับคุณสมบัติ ป้าย หรือการปรับอำนวยความสะดวกที่มีอยู่เพียงบนกระดาษ หรือการประเมินและการตัดสินใจที่ไม่มีใครตรวจดูได้ กลายเป็นสิ่งที่ยอมรับได้
+
+ข้อกำหนดด้านการมีส่วนร่วมและความได้สัดส่วนปรับตามชั้นในลักษณะเดียวกัน:
+
+- ระบบ **ชั้น A** ต้องมีเส้นทางการมีส่วนร่วมที่เข้มแข็งที่สุดเท่าที่ปฏิบัติได้ เพราะข้อผิดพลาดอาจปิดกั้นสิ่งจำเป็นต่อการอยู่รอดก่อนที่จะมีการเยียวยา ซึ่งรวมถึง:
+  - ช่องทางคัดค้านที่เข้าถึงได้;
+  - การทบทวนโดยผู้มีส่วนได้เสีย; และ
+  - ข้อค้นพบจากครอบครัวเวทีที่ได้รับมอบหมายให้ดูแลส่วนได้เสียที่ได้รับผลกระทบตาม [ส่วน B §6.1 การกำกับดูแลของเวทีและบทบาทขององค์ประกอบ](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) รวมถึงเวทีสถาบันหรือเวทีผู้มีความรู้สึกตามที่ส่วนนั้นกำหนด
+- ระบบ **ชั้น B** ต้องมีการมีส่วนร่วมที่เข้มแข็งเมื่อระบบควบคุมการเข้าถึง:
+  - การดูแลสุขภาพ;
+  - การศึกษา;
+  - สวัสดิการ;
+  - งาน; หรือ
+  - ด้านอื่นของชีวิตประจำวันในระดับใกล้เคียงกัน
+- ระบบ **ชั้น C** ก็ยังต้องมีบันทึกที่โต้แย้งได้และการเปิดเผยข้อมูลอย่างได้สัดส่วน โดยเฉพาะเมื่อผลจากการประสานงาน:
+  - สร้างภาระให้กลุ่มที่ได้รับความคุ้มครอง;
+  - ทำให้การพึ่งพากระจุกตัว; หรือ
+  - ส่งสัญญาณว่าจะยกระดับเป็นชั้น B หรือ A
+
+<a id="22-pilot-certification"></a>
+
+#### 2.2 การรับรองนำร่อง
+
+**[โครงการนำร่อง](core_05_band_continuity.md#pilot)** คือ [การเริ่มใช้งานจริง](core_05_band_continuity.md#go-live) จึงต้องมีการรับรองเฉพาะของตนก่อนเริ่ม ตามกฎการเริ่มใช้งานจริงใน [ส่วน B §7 ผลการรับรอง](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)
+
+- คาดหวังให้ระบบทุกชั้นดำเนินโครงการนำร่องก่อนนำไปใช้เต็มรูปแบบ หากไม่ทำ ต้องบันทึกเหตุผลไว้
+- โครงการนำร่องยังต้องมีการจัดชั้นอย่างตรงไปตรงมาและการประเมินทุกรายการที่มีตัวกระตุ้นใช้ได้ พร้อมระบุขอบเขต กลุ่มประชากร และระยะเวลาในบันทึก
+- ประเมินโครงการนำร่องจากบันทึกของตนเอง โดยปรับความลึกตามชั้นระบบและความสามารถในการทดแทนระบบ: มีทางเลือกที่ใช้ได้จริงสำหรับผู้มีความรู้สึกที่จะได้รับผลหรือพึ่งพาระบบหรือไม่ และทางเลือกนั้นมีต้นทุน ความล่าช้า และการสูญเสียการทำงานเท่าใด (ดู [การพึ่งพา](core_05_band_continuity.md#dependency))
+  - ยิ่งเปลี่ยนระบบได้ง่ายและชั้นระบบต่ำ การประเมินโครงการนำร่องก็อาจเบาลงได้
+  - โครงการนำร่องของระบบที่เปลี่ยนแทนได้ยาก ต้องประเมินในระดับความลึกที่ชั้นระบบกำหนดสำหรับการนำไปใช้เต็มรูปแบบ
 
 <a id="3-whole-system-certification-evaluation"></a>
 
 ### 3. การประเมินการรับรองทั้งระบบ
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">สายเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: [บทที่หนึ่ง §14 ข้อกำหนดการประเมินเชิงระบบ](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); ครอบครัวการวัดความเจริญงอกงาม (*สุขภาวะ ความปลอดภัย ภัย และการเข้าถึงพื้นการอยู่รอด*); ครอบครัวการวัดสมรรถนะทางรัฐธรรมนูญ (*ประสิทธิภาพทางรัฐธรรมนูญ ภาระที่หลีกเลี่ยงได้ และขีดความสามารถผลิต*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [§1 จุดประสงค์และบทบาท](#1-purpose-and-role)
-- ปลายทาง: [§3.8](#38-illustrative-whole-system-application-by-class) (*การเดินดูทั้งระบบตัวอย่าง*); [§4](#4-data-types-and-handling-evaluation) ถึง [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*การประเมินโดเมน*); [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*โปรไฟล์ชั้นตัวอย่าง*); [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึก*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*สายความสามารถในการโต้แย้ง*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การเปิดใหม่และต้านการหลบ*)
-- อ่านคู่กับ: [บทที่หนึ่ง §9](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) และ [§11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [§5.2 สิทธิการยุติโดยสมัครใจและการออก](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights); [§5.3 การชุมนุม การจัดองค์กรร่วม และการก่อตั้งสถาบัน](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation); **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) ในที่ที่พื้นสิทธิการตรวจ ความโปร่งใส หรือการตรวจสอบอิสระอยู่ในส่วนได้เสียที่เป็นสาระ; ครอบครัวการวัดความต่อเนื่อง ([§3.1](#31-systemic-scope-and-risk-factors) — ความทน ความย้อนกลับได้ และความเสี่ยงระบบ); [การประเมินความเสี่ยง](core_05_band_continuity.md#risk-evaluation); [การเปิดเผยความเสี่ยง](core_05_band_oversight.md#risk-disclosure); [การเปิดเผยเส้นฐานการกำกับดูแลสาธารณะ](core_05_band_oversight.md#public-oversight-baseline-disclosure); ครอบครัวการวัดการมีส่วนร่วม ([§3.3](#33-privacy-informational-joint-invocation) — ความเป็นส่วนตัวและการบริหารข้อมูลอย่างรับผิดชอบ); ครอบครัวการวัดความรับผิดชอบ ([§3.7](#37-governance-incentive-and-contestability-discipline) — ความสอดคล้องของสิ่งจูงใจและความสามารถในการโต้แย้งของตลาด); [ขอบเขตระบบ](core_05_band_continuity.md#system-boundaries); [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter)
-- หมวดย่อย: [§3.1](#31-systemic-scope-and-risk-factors) ถึง [§3.7](#37-governance-incentive-and-contestability-discipline) (*ปัจจัยประเมินทั้งระบบ*); [§3.8](#38-illustrative-whole-system-application-by-class) (*การนำไปใช้ทั้งระบบตัวอย่างตามชั้น*)
+- ต้นทาง: [บทที่หนึ่ง §12 ข้อกำหนดการประเมินเชิงระบบ](../../core_01_a_values_principles.md#12-systemic-evaluation-requirement); กลุ่มการวัดความเจริญงอกงาม (*ความเป็นอยู่ที่ดี ความปลอดภัย อันตราย และการเข้าถึงพื้นการอยู่รอด*); กลุ่มการวัดสมรรถนะทางรัฐธรรมนูญ (*ประสิทธิภาพทางรัฐธรรมนูญ ภาระที่หลีกเลี่ยงได้ และศักยภาพการผลิต*); [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](../../core_00_preamble.md#two-constitutional-aims); [ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake); [§1 วัตถุประสงค์และบทบาท](#1-purpose-and-role).
+- ปลายทาง: [ตัวอย่างการตรวจสอบทั้งระบบในส่วน ค](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*ตัวอย่างการตรวจสอบทั้งระบบ*); [§3.4](#34-data-types-and-handling-evaluation) ถึง [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*การประเมินโดเมน*); [ประวัติชั้นระบบในส่วน ค](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*ประวัติชั้นระบบตัวอย่าง*); [ส่วน ข §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*เนื้อหาบันทึก*); [ส่วน ข §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความสมบูรณ์ของบันทึก*); [ส่วน ข §6](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*สายการโต้แย้ง*); [ส่วน ข §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การเปิดใหม่และการต่อต้านการหลบเลี่ยง*).
+- อ่านร่วมกับ: [บทที่หนึ่ง §16](../../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), และ [§19](../../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture); [บทที่หนึ่ง §7.4 การยุติโดยสมัครใจ การปรับเปลี่ยนตนเองครั้งใหญ่ และสิทธิในการออก](../../core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights); [บทที่หนึ่ง §7.2 การรวมตัว องค์กรส่วนรวม และการก่อตั้งสถาบัน](../../core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation); **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) เมื่อพื้นสิทธิด้านการตรวจ ความโปร่งใส หรือการตรวจสอบอิสระมีส่วนได้เสียเป็นสาระ; กลุ่มการวัดความต่อเนื่อง ([§3.1](#31-systemic-scope-and-risk-factors) — ความทนทาน การย้อนคืนได้ และความเสี่ยงเชิงระบบ); [การประเมินความเสี่ยง](../../core_05_band_continuity.md#risk-evaluation); [การเปิดเผยความเสี่ยง](../../core_05_band_oversight.md#risk-disclosure); [การเปิดเผยพื้นฐานการกำกับดูแลสาธารณะ](../../core_05_band_oversight.md#public-oversight-baseline-disclosure); กลุ่มการวัดการมีส่วนร่วม ([§4.1](#41-privacy-informational-joint-invocation) — ความเป็นส่วนตัวและการดูแลข้อมูล); กลุ่มการวัดความรับผิดชอบ ([§3.3](#33-governance-incentive-and-contestability-discipline) — การจัดแนวแรงจูงใจและการแข่งขันในตลาด); [ขอบเขตระบบ](../../core_05_band_continuity.md#system-boundaries); [กฎบัตร](../../core_05_band_continuity.md#charter).
+- หัวข้อย่อย: [§3.1](#31-systemic-scope-and-risk-factors) ถึง [§3.4](#34-data-types-and-handling-evaluation) (*ต้องทำเสมอ: ปัจจัยเชิงระบบ ระยะเวลา ธรรมาภิบาล และชนิดกับการจัดการข้อมูล*) ระยะที่ II ดำเนินต่อใน [§4 การประเมินเมื่อเกี่ยวข้อง](#4-evaluations-where-implicated) (*เมื่อเกี่ยวข้อง: จุดความเป็นส่วนตัว สิทธิออก และการรวมตัวกับความเห็นต่าง*) และ [§5 การประเมินพื้นสิทธิและโดเมน](#5-rights-floor-and-domain-evaluations) (*เมื่อมีตัวกระตุ้น*).
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: ผ่านชิ้นเดียวของระบบแล้วเพิกเฉยส่วนที่เหลือไม่ได้ ผู้ทบทวนต้องการภาพเต็ม — พึ่งอะไร เมื่อต้นทางล้มเหลวอะไรแตก ภัยที่โผล่ทีหลังหรือสะสมตามเวลา ผู้มีความรู้สึกใช้ได้จริงหรือไม่ (ไม่ใช่แค่บนกระดาษ) ข้อมูลส่วนตัวถูกกั้นอย่างถูกหรือไม่ ผู้มีความรู้สึกออกได้โดยไม่ติดกับ กลุ่มยังจัดองค์กรได้โดยระบบไม่แยกพวกเขา ชัยระยะสั้นซ่อนภัยระยะยาวหรือไม่ และการกำกับดูแลกับความรับผิดชอบจริงยังทำงานเมื่อส่วนได้เสียสูง*
+*พูดแบบตรง ๆ: คุณไม่อาจอนุมัติส่วนหนึ่งของระบบแล้วมองข้ามส่วนอื่น ผู้ประเมินต้องเห็นภาพทั้งหมด—ระบบพึ่งพาอะไร อะไรจะพังเมื่อสิ่งต้นทางล้มเหลว อันตรายใดเกิดภายหลังหรือสะสมเมื่อเวลาผ่านไป ผู้มีความรู้สึกใช้งานได้จริงหรือไม่ (ไม่ใช่แค่บนกระดาษ) ข้อมูลส่วนตัวได้รับการกั้นแยกอย่างเหมาะสมหรือไม่ ผู้มีความรู้สึกออกไปได้โดยไม่ถูกกักไว้หรือไม่ กลุ่มต่าง ๆ ยังรวมตัวได้โดยระบบไม่ทำให้แตกแยกหรือไม่ ผลประโยชน์ระยะสั้นซ่อนความเสียหายระยะยาวหรือไม่ และการกำกับดูแลกับความรับผิดชอบที่แท้จริงยังทำงานได้หรือไม่เมื่อมีส่วนได้เสียสูง*
 
-การประเมินการรับรองความสอดคล้องของระบบไม่ครบหากพิจารณาเฉพาะผลทันทีหรือเฉพาะที่ บันทึกการรับรองต้องแสดงว่าการประเมินพิจารณาปัจจัยด้านล่างในที่ที่เป็นสาระต่อการรับรู้ การยืนยัน การรับรองซ้ำ การพึ่งต่อเนื่อง การติดตั้งใช้งาน หรือการปล่อยจากเงื่อนไขที่เป็นสาระ การประเมินต้องยืนยันด้วยว่า [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) จะสนองการปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) สำหรับระบบที่ทบทวน การเดินดูทั้งระบบที่ทำงานแล้วสำหรับระบบตัวอย่างใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) อยู่ใน [§3.8](#38-illustrative-whole-system-application-by-class)
+*ตัวอย่างประกอบ: [ส่วน ค](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) แสดงการใช้ส่วนนี้ในทางปฏิบัติ โดยยกตัวอย่างระบบสามระบบ ระบบละหนึ่งชั้น แล้วไล่ตรวจแต่ละระบบตามข้อข้างต้น*
+
+การประเมินการรับรองความสอดคล้องของระบบยังไม่สมบูรณ์ หากพิจารณาเพียงผลกระทบเฉพาะหน้า หรือเฉพาะพื้นที่ การประเมินทั้งระบบ (ระยะที่ II) ซึ่งปิดช่องว่างนี้มีสามระดับ แต่ละระดับอยู่ในส่วนของตนเองและแสดงไว้ในตารางด้านล่าง ส่วนนี้กำหนดระดับแรก **IIa**; [§4 การประเมินเมื่อเกี่ยวข้อง](#4-evaluations-where-implicated) กำหนด **IIb** และ [§5 การประเมินพื้นสิทธิและโดเมน](#5-rights-floor-and-domain-evaluations) กำหนด **IIc** ตารางนี้ช่วยให้ผู้อ่านเห็นภาพ ไม่เพิ่ม ลดขอบเขต หรือเปลี่ยนลำดับข้อกำหนดของส่วนหรือหัวข้อย่อยใด
+
+| ระดับ | ระยะย่อย | ส่วน | ใช้กับ |
+|------|-----------|----------|---------|
+| **เสมอ** | IIa | [§3.1 ขอบเขตเชิงระบบและปัจจัยความเสี่ยง](#31-systemic-scope-and-risk-factors); [§3.2 ข้อจำกัดความสอดคล้องตามเวลา](#32-time-consistency-constraint); [§3.3 วินัยด้านธรรมาภิบาล แรงจูงใจ และการโต้แย้ง](#33-governance-incentive-and-contestability-discipline); [§3.4 การประเมินชนิดและการจัดการข้อมูล](#34-data-types-and-handling-evaluation) | บันทึกการรับรองทุกฉบับที่มีผลกระทบเป็นสาระ |
+| **เมื่อเกี่ยวข้อง** | IIb | [§4.1 การเรียกใช้ร่วมด้านความเป็นส่วนตัว (ข้อมูล)](#41-privacy-informational-joint-invocation); [§4.2 การยุติโดยสมัครใจ การปรับเปลี่ยนตนเองครั้งใหญ่ และสิทธิในการออก](#42-voluntary-discontinuation-major-self-modification-and-exit-rights); [§4.3 การรวมตัว องค์กรส่วนรวม และการก่อตั้งสถาบัน](#43-assembly-collective-organization-and-institutional-formation) รวมถึง [§4.3.1](#431-dissent-and-peaceful-protest) | เมื่อเรื่องการรับรองเกี่ยวข้องเป็นสาระกับจุดหรือหลักการที่หัวข้อย่อยระบุ |
+| **เมื่อมีตัวกระตุ้น** | IIc | [§5 การประเมินพื้นสิทธิและโดเมน](#5-rights-floor-and-domain-evaluations) | เมื่อเป็นไปตามตัวกระตุ้นในตาราง §5 |
+
+บันทึกการรับรองต้องแสดงว่าการประเมินได้พิจารณาปัจจัยต่อไปนี้ในกรณีที่มีสาระต่อ:
+
+- การรับรอง;
+- การตรวจสอบความถูกต้อง;
+- การรับรองซ้ำ;
+- การพึ่งพาต่อเนื่อง;
+- การนำไปใช้งาน; หรือ
+- การยกเงื่อนไขที่กำหนดกับการรับรอง
+
+การประเมินต้องยืนยันด้วยว่า [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) จะปรับระดับตาม [ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake) ของระบบที่กำลังทบทวน
 
 <a id="31-systemic-scope-and-risk-factors"></a>
 #### 3.1 ขอบเขตเชิงระบบและปัจจัยความเสี่ยง
 
 การประเมินการรับรองต้องพิจารณา:
 
-- **ความสัมพันธ์การพึ่งและผลลูกโซ่** — อะไรล้มที่ปลายทางเมื่อต้นทางแตก;
-- **ผลรวมและผลขนาด** — อะไรเปลี่ยนเมื่อการกระทำเล็ก ๆ หลายอย่างรวมกัน;
-- **ผลกระทบที่ล่าช้า สะสม และเชิงความน่าจะเป็น** — ภัยที่โผล่ทีหลัง กอง หรือขึ้นกับโอกาส;
-- **เงื่อนไขแบบตรงข้ามและศักยภาพการใช้ผิด** — ตัวแสดงไม่ดีหรือการละเมิดที่คาดได้จะใช้ระบบอย่างไร;
-- **ขอบเขตตามตราสารเทียบขอบเขตหน้าที่** — ว่า [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) ที่กำกับ ในที่ที่มีหรือถูกขอ ตรงกับ [ขอบเขตระบบ](core_05_band_continuity.md#system-boundaries) ที่สังเกต และว่าขอบเขตที่กล่าวต่ำกว่าผลกระทบหรือการพึ่งที่เป็นสาระ;
-- **ความเสี่ยงต่อการดำรงอยู่** — ผลที่อาจคุกคามการอยู่รอดของผู้มีความรู้สึกหรือ [ขีดความสามารถฟื้นทางนิเวศ](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) ที่มาตราส่วนอารยธรรม
+- **ความสัมพันธ์ของการพึ่งพาและผลกระทบต่อเนื่อง** — เมื่อสิ่งต้นทางเสียหาย สิ่งใดปลายทางจะล้มเหลว;
+- **ผลจากการรวมและขนาด** — อะไรเปลี่ยนไปเมื่อการกระทำเล็ก ๆ จำนวนมากรวมกัน;
+- **ผลกระทบล่าช้า สะสม และเชิงความน่าจะเป็น** — อันตรายที่เกิดภายหลัง สะสม หรือขึ้นอยู่กับโอกาส;
+- **สภาวะเชิงปฏิปักษ์และศักยภาพการใช้ในทางที่ผิด** — ผู้ไม่หวังดีหรือการใช้ผิดแบบที่คาดการณ์ได้อาจหาประโยชน์จากระบบอย่างไร;
+- **ขอบเขตตามกฎบัตรเทียบกับขอบเขตการทำงาน** — [กฎบัตร](../../core_05_band_continuity.md#charter) ที่กำกับดูแล (หากมีหรือจำเป็นต้องมี) สอดคล้องกับ [ขอบเขตระบบ](../../core_05_band_continuity.md#system-boundaries) ที่สังเกตได้หรือไม่ และขอบเขตที่ระบุทำให้ผลกระทบหรือการพึ่งพาที่เป็นสาระดูเล็กลงหรือไม่;
+- **ความสามารถในการฟื้นตัวของระบบนิเวศ** — ระบบอาจทำลาย [ความสามารถในการฟื้นตัวของระบบนิเวศ](../../core_05_band_continuity.md#ecological-recovery-capacity) ตามธรรมชาติใด ๆ ในระดับใดก็ตาม จนระบบนิเวศนั้นไม่อาจฟื้นตัวหลังเกิดความเสียหายได้หรือไม่;
+- **ความเสี่ยงต่อการดำรงอยู่** — ผลลัพธ์ที่อาจคุกคามการอยู่รอดของผู้มีความรู้สึกในระดับอารยธรรม
 
-**สะพานการประเมินและการเปิดเผยความเสี่ยง.** ในที่ที่ [ความเสี่ยง](core_05_band_continuity.md#risk) ระบบอยู่ในขอบเขตภายใต้ปัจจัยด้านบน การรับรองต้องยืนยันทั้งสองครึ่งของคู่บทที่ห้า — ไม่ประดิษฐ์ชนิดบันทึกเปิดเผยความเสี่ยงที่ตั้งชื่อแยก:
+**สะพานเชื่อมระหว่างการประเมินและการเปิดเผยความเสี่ยง.** เมื่อ [ความเสี่ยง](../../core_05_band_continuity.md#risk) เชิงระบบอยู่ในขอบเขตตามปัจจัยข้างต้น การรับรองต้องตรวจสอบทั้งสองด้านของคู่ข้อกำหนดในบทที่ห้า—ไม่สร้างบันทึกชนิดใหม่ที่มีชื่อเฉพาะสำหรับการเปิดเผยความเสี่ยง:
 
-- **[การประเมินความเสี่ยง](core_05_band_continuity.md#risk-evaluation)** — ว่าความเสี่ยงระบบถูกประเมินจริงภายใต้เงื่อนไขที่สำคัญ (การพึ่ง ขอบฟ้าเวลา และ [เงื่อนไขแบบตรงข้าม ตามขนาด และถูกใช้](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)) ปรับขนาดตามชั้นและ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); และ
-- **[การเปิดเผยความเสี่ยง](core_05_band_oversight.md#risk-disclosure)** — ว่าความเสี่ยงที่ประเมินถึงผู้มีความรู้สึกที่ต้องการมันทันเวลาเพื่อเข้าใจ โต้แย้ง และกระทำ
+- **[การประเมินความเสี่ยง](../../core_05_band_continuity.md#risk-evaluation)** — มีการประเมินความเสี่ยงเชิงระบบจริงภายใต้สภาวะที่สำคัญ (การพึ่งพา ระยะเวลา และ[สภาวะเชิงปฏิปักษ์ ขยายขนาด และถูกใช้ประโยชน์](../../core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)) โดยปรับขนาดตามชั้นระบบและ[ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake)หรือไม่; และ
+- **[การเปิดเผยความเสี่ยง](../../core_05_band_oversight.md#risk-disclosure)** — ความเสี่ยงที่ประเมินแล้วไปถึงผู้มีความรู้สึกที่จำเป็นต้องรู้ทันเวลาที่จะเข้าใจ โต้แย้ง และดำเนินการหรือไม่
 
-การประเมินโดยไม่เปิดเผย หรือการเปิดเผยโดยไม่ประเมิน ทั้งคู่ไม่ผ่าน ความมองเห็นเส้นฐานสาธารณะต่อความเสี่ยงที่เป็นสาระภายใต้ [การเปิดเผยเส้นฐานการกำกับดูแลสาธารณะ](core_05_band_oversight.md#public-oversight-baseline-disclosure) อาจถูกสนองบางส่วนผ่านการเปิดเผยความเสี่ยงในที่ที่ความเสี่ยงระบบอยู่ในขอบเขต; พื้นนั้นยังกว้างกว่าสะพานนี้ และไม่ขอตราสารคู่ข้าง [บันทึกการจำแนกระบบ](core_05_band_continuity.md#system-classification-record-constitutional) หรือ [บันทึกชนิดข้อมูลของระบบ](core_05_band_continuity.md#system-data-types-record-constitutional)
+ทำเพียงด้านเดียวถือว่าไม่ผ่าน:
 
-**ข้อกำหนดบันทึก.** ในที่ที่ความเสี่ยงระบบอยู่ในขอบเขต [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional) ภายใต้ **[ส่วน ข §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** ต้องกล่าว:
+- ความเสี่ยงที่ประเมินแล้วแต่ไม่เคยแบ่งปันไม่ผ่าน; และ
+- ความเสี่ยงที่แบ่งปันแต่ไม่เคยประเมินอย่างเหมาะสมไม่ผ่าน
 
-- ข้อค้นพบการประเมินความเสี่ยงและข้อสมมติที่พึ่งสำหรับปัจจัยด้านบน;
-- ท่าทีการเปิดเผย — รวม:
-  - ผู้รับที่ตั้งใจหรือการจัดเส้นทาง;
-  - เวลาเทียบการตัดสินที่เป็นสาระ; และ
-  - การกักที่มีเหตุใดที่จับคู่กับของแทนที่ใช้ได้
-- ข้อบกพร่องหรือเงื่อนไขในที่ที่การประเมินหรือการเปิดเผยยังไม่ครบ
+**ข้อบกพร่องและความไม่สอดคล้อง.** ต้องถือสิ่งต่อไปนี้เป็นข้อบกพร่องของการรับรอง:
 
-ข้อค้นพบเหล่านั้นอยู่บนบันทึกการรับรอง ไม่ใช่บันทึกส่วนประกอบที่มีชื่อข้อที่ห้าที่บังคับ
+- ถือบันทึกภายใน ภาคผนวกที่ซ่อนไว้ รายการตรวจสอบ หรือคำกล่าวย้อนหลังว่าเป็นการประเมินหรือการเปิดเผยอย่างใดอย่างหนึ่ง;
+- ไม่เปิดเผยความเสี่ยงเชิงระบบที่ประเมินแล้วแก่ผู้ที่จำเป็นต้องรู้ ในกรณีที่ [ความโปร่งใส](../../core_05_band_oversight.md#transparency) หรือ [ความปลอดภัย (ข้อจำกัดทางรัฐธรรมนูญ)](../../core_05_band_continuity.md#safety-constitutional-constraint) กำหนดไว้; หรือ
+- อนุมัติให้พึ่งพาระบบต่อไป ทั้งที่ความเสี่ยงซึ่งทราบอยู่ไม่ได้รับการบันทึก เปิดเผย และจัดการ
 
-**ข้อบกพร่องและความไม่สอดคล้อง.** การถือบันทึกภายใน ภาคผนวกที่ฝัง รายการตรวจ หรือคำแถลงภายหลังเป็นการประเมินหรือการเปิดเผย; การไม่เปิดเผยความเสี่ยงระบบที่ประเมินแก่ผู้ที่ต้องการในที่ที่ [ความโปร่งใส](core_05_band_oversight.md#transparency) หรือ [ความปลอดภัย (ข้อจำกัด)](core_05_band_continuity.md#safety-constraint) ขอ; หรือการรับรองการพึ่งต่อเนื่องขณะที่ช่องว่างการสื่อสารความเสี่ยงที่เป็นสาระยังไม่ยุติ ต้องถือเป็นข้อบกพร่องของการรับรอง อาจรองรับการรับรู้มีเงื่อนไข การรับรู้ที่เลื่อน การไม่รับรู้ การถอน หรือการเปิดใหม่ภายใต้ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+ผลที่ตามมากำหนดไว้ใน [§7 ผลการรับรอง](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
 
-<a id="32-accessibility-under-sentience-non-exclusion"></a>
-#### 3.2 การเข้าถึงได้ภายใต้การไม่กีดกันความเป็นผู้มีความรู้สึก
+<a id="32-time-consistency-constraint"></a>
+#### 3.2 ข้อจำกัดความสอดคล้องตามเวลา
 
-การประเมินการรับรองต้องทดสอบการมีส่วนร่วมจริงสำหรับทุกรูปแบบผู้มีความรู้สึกและโปรไฟล์ความสามารถ ไม่ใช่แค่การปฏิบัติตามบนกระดาษ
+การรับรองห้ามถือว่าตัวชี้วัดระยะใกล้ การปฏิบัติตามในพื้นที่ หรือประสิทธิภาพระยะสั้นเพียงพอ หากยังไม่จัดการการละเมิดระยะกลางหรือระยะยาวที่คาดการณ์ได้ การเพิ่มประสิทธิภาพระยะสั้นใช้ไม่ได้ หากคาดการณ์ได้ว่าจะก่อให้เกิดการละเมิดข้อจำกัดด้าน **ความปลอดภัย**, **ความจริง**, หรือ **ความเป็นอยู่ที่ดี** ในระยะกลางหรือยาว ภายใต้สภาวะสะสม ล่าช้า หรือข้ามระบบ
 
-- *ขอบเขตของโปรไฟล์.* การประเมินต้องกล่าวทุกหมวดโปรไฟล์ที่เกี่ยวข้อง: ประสาท การรู้คิด การเคลื่อนที่ การสื่อสาร **ส่วนต่อประสานฐานะกาย** และ **ส่วนต่อประสานคำนวณ** ข้อกำหนดเดียวกันใช้ไม่ว่าโปรไฟล์จะ **คงที่** **เป็นช่วง** หรือ **เชิงพัฒนา**
-- *มาตรฐาน.* การทดสอบคือ **ผลของการมีส่วนร่วมที่เป็นสาระ**: ว่าผู้มีความรู้สึกที่ได้รับผลกระทบ **จริง ๆ** มีส่วนร่วมในโดเมนได้ **การปฏิบัติตามสิ่งอำนวยแบบทางการ** ไม่พอ
-- *การปรับขนาด.* พื้นการมีส่วนร่วมจริงสูงขึ้นตาม [ความเป็นสาระ](core_05_band_oversight.md#materiality-determination) ของโดเมน และ [การพึ่งพา](core_05_band_continuity.md#dependency) ของฝ่ายที่ได้รับผลกระทบต่อระบบ
-- *ต้านการหลบ.* การรับรองต้องปฏิเสธรูปแบบ **การเข้าถึงทั่วไป** ที่กล่าวความพร้อมรวมกว้างขณะพ่ายแพ้โปรไฟล์ที่ได้รับผลกระทบเฉพาะ และ **การปรับความเป็นสาระแบบเลือก** ที่ผลคือพ่ายแพ้พื้นการมีส่วนร่วม
-- *เจ้าของพื้นสิทธิ.* [มาตรา V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*การเข้าถึงได้*) เป็นเจ้าของพื้นสิทธิการเข้าถึงได้ การเข้าถึงได้เฉพาะการศึกษาถูกกำกับต่อโดย [มาตรา III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*การเข้าถึงการศึกษาที่เท่ากัน*)
+<a id="33-governance-incentive-and-contestability-discipline"></a>
+#### 3.3 วินัยด้านธรรมาภิบาล แรงจูงใจ และการโต้แย้ง
 
-<a id="33-privacy-informational-joint-invocation"></a>
-#### 3.3 ความเป็นส่วนตัว (ด้านข้อมูล) การเรียกใช้ร่วม
+*พูดแบบตรง ๆ: การทบทวนยังไม่เสร็จ เว้นแต่ผู้ประเมินจะถามว่าองค์ประกอบทั้งสี่ของ [จตุรภาค](../../core_00_preamble.md#constitutional-tetrad) จะยังคงอยู่ตามระดับความเสี่ยงหรือไม่ ได้แก่ การมีส่วนร่วม (ผู้มีความรู้สึกเข้าร่วมได้จริงหรือไม่) การกำกับดูแล (งานถูกเฝ้าดูและตรวจสอบได้หรือไม่) ความรับผิดชอบ (การกระทำผิดมีผู้รับผิดหรือไม่) และความทันเวลา (การตัดสินใจเดินหน้าเร็วพอเมื่อสำคัญหรือไม่) ผู้ประเมินต้องรู้ด้วยว่าใครมีอำนาจที่เป็นสาระจริง และใครรับผิดชอบเรื่องใด—ไม่ใช่คำตอบคลุมเครือว่า “ทีม” หรือองค์กรเปลือกที่ใช้โยนความผิด ต้องตอบคำถามเหล่านี้เพื่อให้การรับรองใช้ได้*
 
-*พูดแบบตรง ๆ: บทที่หกกระจายการคุ้มครองความเป็นส่วนตัวข้ามหลายมาตรา — ไม่ใช่มุมเดียวที่เป็นระเบียบ หากการทบทวนการรับรองแตะการคุ้มครองเหล่านั้นมากกว่าหนึ่ง ผู้ทบทวนต้องตรวจทุกข้อที่ใช้จริง การปิดช่องที่ง่ายที่สุดแล้วถือว่าเสร็จไม่พอ*
+การประเมินการรับรองไม่สมบูรณ์ หากไม่ประเมินว่า **การกำกับดูแล**, **ความรับผิดชอบ**, **การมีส่วนร่วม**, และ **ความทันเวลา** จะปรับระดับตาม [ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake) ของระบบที่ตรวจหรือไม่ การประเมินต้องรวมถึงว่าบทบาทด้านการดูแลอย่างรับผิดชอบ ธรรมาภิบาล และความรับผิดชอบที่เป็นสาระ **ได้รับการมอบหมายอย่างเป็นทางการ จัดทำเอกสาร และตามรอยได้** เพียงพอหรือไม่ เพื่อให้การระบุผู้รับผิดชอบและช่องทางโต้แย้งที่ใช้ได้จริงทำงานได้ โดยปรับตามชั้นระบบและผลกระทบที่เป็นสาระตาม **[corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกและการจัดการระบบ**
 
-เมื่อเรื่องการรับรองเกี่ยวอย่างเป็นสาระกับมากกว่าหนึ่งจุดความเป็นส่วนตัวของบทที่หก การรับรองต้องกล่าวแต่ละจุดนั้น การปิดเรื่องภายใต้จุดเดียวไม่พอ
+เพื่อให้เป็นไปตามวินัยนี้ การรับรองต้องอ่าน:
 
-- *การเปิดให้มีส่วนร่วม.* [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) เปิดให้ [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) ที่เป็นสาระ การรับรองต้องยืนยันว่าการคุ้มครองความเป็นส่วนตัวที่รองรับเสียง การปรึกษา การสมาคม และการโต้แย้งไม่ถูกพ่ายแพ้ด้วยการแบ่งส่วน การอ่านข้าม หรือแรงกดการเปิดเผย
-- *จุดกลุ่ม.* การครอบความเป็นส่วนตัวแบบกระจายอยู่ข้าม **มาตรา VII-A** (*ความเป็นเจ้าของตนเองของร่างกายและจิต*) **มาตรา VII-B** (*ขอบสภาวะภายในและการคุ้มครองชนิด N*) **มาตรา IX** (*รูปลักษณ์ ข้อมูลประสบการณ์ และสิทธิการเผยแพร่*) **มาตรา X-A** (*ภาวะตัวแสดงและเสรีภาพจากการบิดเบือน*) และ **มาตรา XIV-A** (*ขีดจำกัดความมั่นคง ข่าวกรอง และอำนาจปกปิด*)
-- *กฎการเรียกใช้ร่วม.* ในที่ที่เรื่องเกี่ยวอย่างเป็นสาระกับมากกว่าหนึ่งจุด การรับรองต้องถึงแต่ละจุดนั้น และจะจัดเส้นทางเรื่องผ่านจุดเดียวในทางที่ให้หลบอีกจุดไม่ได้
-- *บ้านหัวกลุ่ม.* บทที่ห้า [**Def.C3** (*ความเป็นส่วนตัว (ด้านข้อมูล)* — หัวกลุ่มระดับคู่)](core_05_band_accountability.md#privacy-informational-cluster) และ [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) เป็นเจ้าของความหมาย
-- *ห้ามผ่อนด้วยการอ่านข้าม.* มาตรฐานที่แต่ละสมาชิกกลุ่มกล่าวในท้องถิ่นควบคุมภายในขอบเขตของตน และจะคลายด้วยการนำเข้ามาตรฐานที่หลวมกว่าจากสมาชิกอื่นไม่ได้
-- *พื้นชนิด N ถูกรักษา.* ในที่ที่ **มาตรา VII-B** (*ขอบสภาวะภายในและการคุ้มครองชนิด N*) เกี่ยวอย่างเป็นสาระ การปฏิบัติ **ชนิด N** ภายใต้ **[corpus_systems.md](../../corpus_systems.md), CS-2** ใช้ และไม่ถูกทำให้แคบด้วยปัจจัยนี้
+- **[บทที่หนึ่ง §16 การดูแลอย่างรับผิดชอบโดยละเอียด](../../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)** — ความเข้าใจที่กระจายตัว ความโปร่งใส ความสามารถในการตรวจ และการสังเกตการณ์ที่โต้แย้งได้;
+- **[บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการดูแลอย่างรับผิดชอบ](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — ธรรมาภิบาลที่ได้รับอนุญาตและความรับผิดชอบภายใต้วินัยการดูแล;
+- **[บทที่หนึ่ง §19 การจัดแนวแรงจูงใจและการครอบงำระบบ](../../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — การจัดแนวแรงจูงใจ ความสมบูรณ์ของตัวแทนวัด การแก้ข้อบกพร่องระยะสั้น และการตอบสนองต่อการครอบงำ;
+- **[บทที่หนึ่ง §19.1.4 เส้นทางความลึกของบทบาทและความรับผิดชอบที่เป็นสาระ](../../core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — เส้นทางบทบาทที่มีผลสำคัญและวินัยต้านการมีส่วนร่วมเชิงสัญลักษณ์;
+- **[บทที่สิบสาม §5 บทบาทที่ได้รับอนุญาต การพัฒนาความสามารถ และการมีส่วนช่วย](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** และ **[corpus_systems.md](../../corpus_systems.md), CS-4 — การดูแลระบบสำคัญ** — พื้นขั้นต่ำที่ใช้ได้จริงสำหรับการกำหนดบทบาท ความสามารถ และการตามรอยเมื่อมีสาระ;
+- **[มาตรา XVI: การตรวจ ความโปร่งใส และการตรวจสอบอิสระ](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** เมื่อพื้นสิทธิด้านการตรวจ ความโปร่งใส หรือการตรวจสอบอิสระมีส่วนได้เสียเป็นสาระ
 
-<a id="34-voluntary-discontinuation-and-exit-rights"></a>
-#### 3.4 สิทธิการยุติโดยสมัครใจและการออก
+<a id="34-data-types-and-handling-evaluation"></a>
 
-ในที่ที่ [บทที่หนึ่ง §5.2 สิทธิการยุติโดยสมัครใจและการออก](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) ใช้กับเรื่องการรับรอง การรับรองต้องทดสอบความสมัครใจ ความยินยอม ต้านการบังคับ แรงกดการพึ่ง ข้อมูล และความย้อนกลับได้ ก่อนข้อกล่าวอ้างการรับรองจะยืน ความเห็นชอบแบบทางการเพียงอย่างเดียวไม่พอ
-
-<a id="35-assembly-collective-organization-and-institutional-formation"></a>
-#### 3.5 การชุมนุม การจัดองค์กรร่วม และการก่อตั้งสถาบัน
-
-ในที่ที่ [บทที่หนึ่ง §5.3 การชุมนุม การจัดองค์กรร่วม และการก่อตั้งสถาบัน](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) ใช้กับเรื่องการรับรอง การรับรองต้องทดสอบเรื่องร่วมกันพอที่จะกันการหลบด้วยการต้านการแบ่งส่วน การประเมินไม่ครบหากจัดเส้นทางเรื่องผ่านกรอบเดียวในทางที่พ่ายแพ้การคุ้มครองการชุมนุมหรือการจัดองค์กรร่วม
-
-<a id="36-time-consistency-constraint"></a>
-#### 3.6 ข้อจำกัดความสอดคล้องของเวลา
-
-การรับรองจะถือตัวชี้วัดระยะใกล้ การปฏิบัติตามเฉพาะที่ หรือประสิทธิภาพขอบฟ้าสั้นว่าพอไม่ได้ ในที่ที่การละเมิดขอบฟ้ากลางหรือยาวที่คาดได้ยังไม่ถูกกล่าว การเพิ่มประสิทธิภาพขอบฟ้าสั้นเป็นโมฆะในที่ที่คาดได้ว่าจะก่อการละเมิดขอบฟ้ากลางหรือยาวของข้อจำกัด **ความปลอดภัย** **ความจริง** หรือ **สุขภาวะ** ภายใต้เงื่อนไขสะสม ล่าช้า หรือข้ามระบบ
-
-<a id="37-governance-incentive-and-contestability-discipline"></a>
-#### 3.7 วินัยการปกครอง สิ่งจูงใจ และความสามารถในการโต้แย้ง
-
-*พูดแบบตรง ๆ: การทบทวนยังไม่จบเว้นผู้ทบทวนถามว่าสี่พื้นฐานจะยังทำงานที่ระดับความเสี่ยงที่เกี่ยวข้องหรือไม่ — ผู้มีความรู้สึกมีส่วนร่วมได้จริงหรือไม่ งานถูกเฝ้าและตรวจได้หรือไม่ การประพฤติผิดถูกตอบได้หรือไม่ และการตัดสินจะเคลื่อนเร็วพอเมื่อสำคัญ ผู้ทบทวนยังต้องรู้ว่าใครถืออำนาจที่เป็นสาระจริง และใครตอบอะไร — ไม่ใช่ «ทีม» คลุมเครือหรือเปลือกที่ผลักความผิด คำถามเหล่านั้นต้องถูกตอบเพื่อการรับรองที่ใช้ได้*
-
-การประเมินการรับรองไม่ครบหากไม่ประเมินว่า **การกำกับดูแล** **ความรับผิดชอบ** **การมีส่วนร่วม** และ **ความทันเวลา** จะสนองการปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) สำหรับระบบที่ทบทวน การประเมินนั้นต้องรวมว่าบทบาทการบริหารอย่างรับผิดชอบ การปกครอง และความรับผิดชอบที่เป็นสาระถูก **กำหนดอย่างทางการ บันทึก และตามรอยได้** พอให้ความสามารถตอบและเส้นทางโต้แย้งที่ใช้ปฏิบัติทำงาน — ปรับตามชั้นระบบและผลกระทบที่เป็นสาระภายใต้ **[corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกและการปฏิบัติของระบบ**
-
-สำหรับวินัยนั้น การรับรองต้องอ่าน:
-
-- **[บทที่หนึ่ง §9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)** — ความเข้าใจแบบกระจาย ความโปร่งใส ความสามารถในการตรวจ และความสังเกตได้ที่โต้แย้งได้;
-- **[บทที่หนึ่ง §10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** — การปกครองที่ได้รับอำนาจและความสามารถตอบภายใต้วินัยการบริหารอย่างรับผิดชอบ;
-- **[บทที่หนึ่ง §11 ความสอดคล้องของสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — ความสอดคล้องของสิ่งจูงใจ ความครบถ้วนของตัวแทน การแก้ข้อบกพร่องขอบฟ้าสั้น และการตอบการยึดครอง;
-- **[บทที่หนึ่ง §11.1.4 เส้นทางความลึกของบทบาทและความรับผิดที่เป็นสาระ](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — เส้นทางบทบาทที่มีผลและวินัยต้านการมีส่วนร่วมเชิงสัญลักษณ์;
-- **[บทที่สิบสอง §5 บทบาทที่ได้รับอำนาจ การพัฒนาความสามารถ และการมีส่วนช่วย](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** และ **[corpus_systems.md](../../corpus_systems.md), CS-4 — การบริหารอย่างรับผิดชอบระบบวิกฤต** — พื้นการนิยามบทบาท ความสามารถ และการตามรอยที่ใช้ปฏิบัติในที่ที่เป็นสาระ;
-- **[มาตรา XVI: การตรวจ ความโปร่งใส และการตรวจสอบอิสระ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** ในที่ที่พื้นสิทธิการตรวจ ความโปร่งใส หรือการตรวจสอบอิสระอยู่ในส่วนได้เสียที่เป็นสาระ
-
-<a id="38-illustrative-whole-system-application-by-class"></a>
-
-<a id="38-illustrative-whole-system-application-by-class-non-exhaustive"></a>
-#### 3.8 การนำไปใช้ทั้งระบบตัวอย่างตามชั้น (ไม่ครบถ้วน)
-
-*พูดแบบตรง ๆ: [§3.1](#31-systemic-scope-and-risk-factors) ถึง [§3.7](#37-governance-incentive-and-contestability-discipline) รายการสิ่งที่การทบทวนทั้งระบบต้องพิจารณา หมวดย่อยนี้แสดงว่าปัจจัยเหล่านั้นใช้กับระบบตัวอย่างหนึ่งต่อชั้นอย่างไร — สายการพึ่ง การมีส่วนร่วม ความเป็นส่วนตัว การออก การชุมนุม ขอบฟ้าเวลา และวินัยการปกครอง — และสิ่งที่ต้องปรากฏบนบันทึก ระบบตรงกับ [§2.1](#21-illustrative-class-profiles-non-exhaustive); [§4.1](#41-illustrative-data-handling-application-by-class) เดินระบบเดียวกันผ่านรายละเอียดการปฏิบัติข้อมูล*
-
-**Class A — การควบคุมและโทรมาตรน้ำดื่มปลอดภัยของเทศบาล.** ชั้นควบคุมการบำบัดและจ่ายที่เมืองเป็นเจ้าของพึ่งพลังงาน การส่งเคมี ผู้ขาย **SCADA** (การควบคุมกำกับและการได้ข้อมูล) ตัวรับรู้ภาคสนาม และโครงสร้างพื้นฐานจ่ายปลายทาง; ความล้มเหลวอาจปิดน้ำปลอดภัยก่อนของแทนจะมาถึง
-
-- **ปัจจัยที่อยู่ในขอบเขตอย่างเป็นสาระ:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — การพึ่งพลังงานและเคมีต้นทาง ความล้มเหลวจ่ายลูกโซ่ การใช้ผิดแบบปนเปื้อนหรือตัด และภัยมาตราส่วนการอยู่รอดหากความครบถ้วนของการควบคุมล้ม;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — การแจ้งฉุกเฉิน การรายงานขาดตอน และเส้นทางโต้แย้งสำหรับทุกโปรไฟล์ที่เกี่ยวข้องในที่ที่การเข้าถึงน้ำถูกกั้น;
-  - [§3.3](#33-privacy-informational-joint-invocation) — การทบทวนร่วมในที่ที่ **โทรมาตร** ปฏิบัติการ (การวัดภาคสนามสดและสัญญาณควบคุม) ข้อมูลติดต่อลูกค้า และการเฝ้าผู้ขายตัดจุดความเป็นส่วนตัวบทที่หก;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — การล็อกผู้ขาย แรงกดสัญญาเทศบาล และความย้อนกลับได้ของการควบคุมที่มอบ;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — คณะกรรมการน้ำชุมชน เครือข่ายช่วยเหลือร่วม และองค์กรกำกับสาธารณะที่ต้องไม่ถูกแบ่งออก;
-  - [§3.6](#36-time-consistency-constraint) — การบำรุงที่เลื่อน การตัดต้นทุนขอบฟ้าสั้น และภัยความปลอดภัยหรือนิเวศขอบฟ้ายาว;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — การปรับจตุรภาค **Class A** สำหรับการกำกับดูแล ความรับผิดชอบ การมีส่วนร่วม และความทันเวลาภายใต้ CS-3 และการตามรอยบทบาท CS-3
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าแผนที่การพึ่งและลูกโซ่รวมโหมดล้มเหลวพลังงาน เคมี ผู้ขาย และการจ่าย;
-  - ว่าสถานการณ์ตัดแบบตรงข้าม คุณภาพเท็จ หรือปนเปื้อนถูกประเมินภายใต้ [การประเมินความเสี่ยง](core_05_band_continuity.md#risk-evaluation);
-  - ว่าความเสี่ยงที่ประเมินถึงชุมชนและผู้ดำเนินการที่ได้รับผลกระทบซึ่งต้องการมันภายใต้ [การเปิดเผยความเสี่ยง](core_05_band_oversight.md#risk-disclosure);
-  - ว่าชุมชนที่ได้รับผลกระทบรับคำเตือนได้จริง โต้แย้งการดำเนินงานไม่ปลอดภัย และมีส่วนร่วมในการทบทวนก่อนภัยจะย้อนไม่ได้;
-  - ว่าการทบทวนความเป็นส่วนตัวถึงทุกจุดที่เกี่ยวอย่างเป็นสาระ;
-  - ว่าการออกจากการมอบผู้ขายยังใช้ได้โดยไม่ปิดน้ำปลอดภัย;
-  - ว่าเส้นทางการชุมนุมและการกำกับร่วมยังครบ;
-  - ว่าการประหยัดขอบฟ้าสั้นคาดได้ว่าพ่ายแพ้ความปลอดภัยขอบฟ้ายาว; และ
-  - ว่าบทบาทการบริหารอย่างรับผิดชอบที่กำหนดตามรอยได้พอสำหรับความสามารถตอบที่ความลึก **Class A**
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ข้อค้นพบที่เป็นสาระภายใต้แต่ละปัจจัยที่เกี่ยวใน [§3.1](#31-systemic-scope-and-risk-factors) ถึง [§3.7](#37-governance-incentive-and-contestability-discipline);
-  - ข้อสมมติการพึ่งและลูกโซ่;
-  - ข้อค้นพบการประเมินความเสี่ยงและท่าทีการเปิดเผย (ผู้รับหรือการจัดเส้นทาง เวลา การกักและของแทน) ในที่ที่ความเสี่ยงระบบอยู่ในขอบเขต;
-  - ข้อค้นพบการเข้าถึงได้และการมีส่วนร่วมสำหรับการกั้นพื้นการอยู่รอด;
-  - การครอบการเรียกใช้ร่วมความเป็นส่วนตัว;
-  - ข้อค้นพบการออกและการมอบ;
-  - ข้อค้นพบการชุมนุมและการจัดองค์กรร่วมในที่ที่เป็นสาระ;
-  - ข้อค้นพบความสอดคล้องของเวลา;
-  - ข้อค้นพบการปกครอง สิ่งจูงใจ และความสามารถในการโต้แย้งที่ความลึก **Class A**;
-  - ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบอื่นในที่ที่พื้นสิทธิเกี่ยว; และ
-  - เงื่อนไขหรือตัวกระตุ้นการเปิดใหม่ที่ผูกกับความล้มเหลวผู้ขาย ความเสี่ยงลูกโซ่ หรือช่องว่างการปกครอง
-
-**Class B — การแลกเปลี่ยนบันทึกคลินิกระดับภูมิภาค.** การแลกเปลี่ยนข้อมูลสุขภาพจัดเส้นทางสรุปคลินิกและโทเคนการระบุตัวตนระหว่างโรงพยาบาลและคลินิก; การปฏิบัติประจำพึ่งมัน แต่แฟกซ์ พอร์ทัลตรง หรือการดึงมืออาจแทนได้ภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอด
-
-- **ปัจจัยที่อยู่ในขอบเขตอย่างเป็นสาระ:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — การขาดตอนของโรงพยาบาลที่เข้าร่วม ความล้มเหลวการระบุตัวตน ความผิดพลาดการกำจัดซ้ำ และผลลูกโซ่ข้ามสถานที่ต่อการส่งการดูแล;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — การเข้าถึงของแพทย์ ผู้ป่วย และผู้สนับสนุนข้ามโปรไฟล์ประสาท การรู้คิด การเคลื่อนที่ การสื่อสาร ส่วนต่อประสานฐานะกาย และส่วนต่อประสานคำนวณ;
-  - [§3.3](#33-privacy-informational-joint-invocation) — การทบทวนร่วมข้ามจุดความเป็นส่วนตัวคลินิก ตัวตน การตรวจ และใกล้คุณสมบัติ;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — การออกของโรงพยาบาล ความพกพาบันทึกผู้ป่วย และต้านการล็อกสำหรับผู้เข้าร่วม;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — สมาคมแพทย์ กลุ่มสนับสนุนผู้ป่วย และองค์กรปกครองภูมิภาคที่ต้องไม่ถูกจัดเส้นทางเลี่ยง;
-  - [§3.6](#36-time-consistency-constraint) — ข้อกล่าวอ้างประสิทธิภาพหรือความเข้ากันได้ขอบฟ้าสั้นที่คาดได้ว่าจะกร่อนคุณภาพการดูแลหรือความไว้วางใจขอบฟ้ายาว;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — การปรับจตุรภาค **Class B** สำหรับการพึ่งวิกฤตปฏิบัติการ
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าแผนที่การพึ่งครอบโรงพยาบาลที่เข้าร่วม นายหน้าตัวตน และเส้นทางสำรอง;
-  - ว่าภัยล่าช้าหรือสะสมจากความผิดพลาดการจัดเส้นทาง บันทึกเก่า หรือการขาดตอนบางส่วนถูกประเมินภายใต้ [การประเมินความเสี่ยง](core_05_band_continuity.md#risk-evaluation);
-  - ว่าความเสี่ยงปฏิบัติการและการส่งการดูแลที่ประเมินถึงแพทย์ ผู้ป่วย และผู้ดำเนินการที่ต้องการมันภายใต้ [การเปิดเผยความเสี่ยง](core_05_band_oversight.md#risk-disclosure);
-  - ว่าการมีส่วนร่วมที่เป็นสาระถึงได้สำหรับแพทย์ ผู้ป่วย และผู้สนับสนุนที่พึ่งการแลกเปลี่ยน;
-  - ว่าทุกจุดความเป็นส่วนตัวที่เกี่ยวอย่างเป็นสาระถูกกล่าว;
-  - ว่าโรงพยาบาลและผู้ป่วยคงเส้นทางออกและความพกพาที่ใช้ได้;
-  - ว่าเส้นทางการกำกับร่วมและการจัดองค์กรวิชาชีพยังโต้แย้งได้;
-  - ว่ากรอบประสิทธิภาพซ่อนภัยการดูแลหรือความไว้วางใจขอบฟ้ายาว; และ
-  - ว่าบทบาทการบริหารอย่างรับผิดชอบและความสามารถตอบตามรอยได้ที่ความลึกปฏิบัติการ **Class B**
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ข้อค้นพบทั้งระบบที่ปรับตามความวิกฤตปฏิบัติการ **Class B**;
-  - ข้อสมมติการพึ่ง ทางสำรอง และลูกโซ่;
-  - ข้อค้นพบการประเมินความเสี่ยงและท่าทีการเปิดเผยในที่ที่ความเสี่ยงระบบอยู่ในขอบเขต;
-  - ข้อค้นพบการเข้าถึงได้และการมีส่วนร่วมสำหรับการกั้นการดูแลสุขภาพ;
-  - การครอบการเรียกใช้ร่วมความเป็นส่วนตัว;
-  - ข้อค้นพบการออกและความพกพา;
-  - ข้อค้นพบการชุมนุมและการจัดองค์กรร่วมในที่ที่เป็นสาระ;
-  - ข้อค้นพบความสอดคล้องของเวลา;
-  - ข้อค้นพบการปกครอง สิ่งจูงใจ และความสามารถในการโต้แย้ง;
-  - ข้อค้นพบส่วนประกอบในที่ที่ถูกขอ; และ
-  - ตัวกระตุ้นการเปิดใหม่หากการขาดตอนหรือความล้มเหลวการจัดเส้นทางจะกั้นการดูแลฉุกเฉินภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอด
-
-**Class C — แพลตฟอร์มจัดตารางและประสานสถาบัน.** ชั้นจัดตารางหลายองค์กรประสานกะ การจองห้อง และนัดผู้ขายข้ามโรงพยาบาล โรงเรียน และหน่วยงานสาธารณะ; บริการอยู่รอดแกนยังดำเนินในโหมดเสื่อมได้หากมันล้มเหลว แต่แพลตฟอร์มหล่อหลอมการประสานในระดับ
-
-- **ปัจจัยที่อยู่ในขอบเขตอย่างเป็นสาระ:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — ผลความเข้มข้น ลูกโซ่ข้ามองค์กรเมื่อการจัดตารางล้ม และภาระเชิงความน่าจะเป็นบนกลุ่มที่คุ้มครองผ่านแบบการจัดสรร;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — ว่าพนักงาน นักเรียน ผู้ป่วย และผู้ขายใช้ส่วนต่อประสานจัดตารางและโต้แย้งได้อย่างเป็นสาระ;
-  - [§3.3](#33-privacy-informational-joint-invocation) — ข้อมูลกำกับตาราง ติดต่อ และบทบาทในที่ที่หลายจุดความเป็นส่วนตัวใช้;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — การออกขององค์กรและความพกพาข้อมูลในที่ที่สถาบันพึ่งแพลตฟอร์ม;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — สหภาพ สมาคมผู้ปกครอง และองค์กรวิชาชีพที่การประสานต้องไม่ถูกยึดครองหรือแบ่งออก;
-  - [§3.6](#36-time-consistency-constraint) — ประสิทธิภาพการจับคู่ขอบฟ้าสั้นที่คาดได้ว่าจะฝังแบบประสานที่ไม่เป็นธรรม;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — การปรับจตุรภาคตามสัดส่วนและการเฝ้าการจำแนกใหม่ในที่ที่ผลจุดคอขวดเข้มขึ้น
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าการทบทวนทั้งระบบถือแพลตฟอร์มเป็นโครงสร้างพื้นฐานประสานมากกว่าแอปโดด;
-  - ว่าความเข้มข้น อคติการจับคู่ และลูกโซ่ข้ามองค์กรถูกประเมินอย่างซื่อภายใต้ [การประเมินความเสี่ยง](core_05_band_continuity.md#risk-evaluation);
-  - ว่าความเสี่ยงประสานและการจัดสรรที่ประเมินถึงสถาบันและกลุ่มที่ได้รับผลกระทบซึ่งต้องการมันภายใต้ [การเปิดเผยความเสี่ยง](core_05_band_oversight.md#risk-disclosure);
-  - ว่าเส้นทางการมีส่วนร่วมยังเป็นสาระในที่ที่แพลตฟอร์มกั้นการประสานเวที โรงเรียน หรือที่ทำงาน;
-  - ว่าการทบทวนความเป็นส่วนตัวถึงจุดที่เกี่ยวอย่างเป็นสาระ;
-  - ว่าการออกยังใช้ได้สำหรับองค์กรที่เข้าร่วม;
-  - ว่าการคุ้มครองการชุมนุมและการจัดองค์กรร่วมถูกทดสอบร่วม;
-  - ว่าความไม่เป็นธรรมขอบฟ้ายาวไม่ถูกซ่อนหลังประสิทธิภาพขอบฟ้าสั้น;
-  - ว่าการปกครองและความสามารถในการโต้แย้งยังทำงานที่ความลึก **Class C**; และ
-  - ว่าป้ายชั้นยังพอดีหากแพลตฟอร์มกลายเป็นประตูตามจริงสู่การเข้าถึงที่จำเป็นต่อการอยู่รอด
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ข้อค้นพบทั้งระบบตามสัดส่วนกับความเสี่ยงประสาน **Class C** — ไม่ใช่รายการตรวจพิธี;
-  - ข้อสมมติความเข้มข้นและลูกโซ่;
-  - ข้อค้นพบการประเมินความเสี่ยงและท่าทีการเปิดเผยในที่ที่ความเสี่ยงระบบอยู่ในขอบเขต;
-  - ข้อค้นพบการเข้าถึงได้และการมีส่วนร่วมในที่ที่การประสานถูกกั้น;
-  - การครอบการเรียกใช้ร่วมความเป็นส่วนตัวในที่ที่ถูกกระตุ้น;
-  - ข้อค้นพบการออกในที่ที่เป็นสาระ;
-  - ข้อค้นพบการชุมนุมในที่ที่เป็นสาระ;
-  - ข้อค้นพบความสอดคล้องของเวลา;
-  - ข้อค้นพบการปกครองและความสามารถในการโต้แย้ง;
-  - **การเฝ้าการจำแนกใหม่** ที่ชัดในที่ที่การพึ่ง น้ำหนักเกรดคลินิก หรือผลจุดคอขวดเข้มขึ้น; และ
-  - ตัวชี้ไปยังการประเมินโดเมนใน [§4](#4-data-types-and-handling-evaluation) ถึง [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระใช้
-
-**การอ่านข้ามชั้น.** ปัจจัยใน [§3.1](#31-systemic-scope-and-risk-factors) ถึง [§3.7](#37-governance-incentive-and-contestability-discipline) ใช้กับทั้งสามระบบ; ชั้นเปลี่ยนว่าแต่ละปัจจัยต้องถูกประเมินและบันทึกลึกแค่ไหน แพลตฟอร์มจัดตาราง **Class C** ที่กลายเป็นเส้นทางปฏิบัติเดียวสู่การจัดกำลังฉุกเฉินหรือการจัดเส้นทางที่จำเป็นต่อการอยู่รอดต้องได้รับความลึกทั้งระบบ **Class A** หรือ **Class B** ตามข้อเท็จจริง — ไม่ใช่การทบทวนประสานที่เบากว่าที่ผู้ดำเนินการชอบ ระบบวิกฤตต่อการอยู่รอด **Class A** ต้องไม่ถูกลดชั้นขณะกั้นน้ำ พลังงาน หรือสิ่งจำเป็นต่อการอยู่รอดที่คล้ายโดยไม่มีของแทนที่ทันเวลา การแลกเปลี่ยน **Class B** ที่การขาดตอนจะกั้นการดูแลฉุกเฉินภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอดต้องถูกจำแนกขึ้น — รวมสู่ **Class A** ในที่ที่สิ่งจำเป็นต่อการอยู่รอดถูกกั้น — และรับรองใหม่ภายใต้ [§2](#2-system-class-evaluation) และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
-
-<a id="4-data-types-and-handling-evaluation"></a>
-
-### 4. การประเมินชนิดข้อมูลและการปฏิบัติ
+#### 3.4 การประเมินชนิดและการจัดการข้อมูล
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">สายเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: [§3](#3-whole-system-certification-evaluation) (*ปัจจัยประเมินทั้งระบบ*); [§3.8](#38-illustrative-whole-system-application-by-class) (*การเดินดูตัวอย่างทั้งระบบ*); [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); ตระกูลการวัดการกำกับดูแล (*ความจริงและความครบถ้วนของความรู้ในฐานะการวัดทางรัฐธรรมนูญ*); [มาตรา XV: ความครบถ้วนของวงข้อมูล](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [มาตรา XVI: การตรวจ ความโปร่งใส และการตรวจสอบอิสระ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [มาตรา VII: ความเป็นเจ้าของตนเอง](core_06_rights_part_b.md#article-vii-self-ownership).
-- ปลายทาง: [§4.1](#41-illustrative-data-handling-application-by-class) (*การเดินดูตัวอย่างการปฏิบัติข้อมูล*); [§5](#5-ecological-footprint-evaluation) และ [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*การประเมินรอยเท้าทางนิเวศและการเดินดูตัวอย่าง*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การจำแนกใหม่และความไม่สอดคล้องของการปฏิบัติ*).
-- อ่านคู่กับ: [corpus_systems.md](../../corpus_systems.md), **CS-2 — ชนิดข้อมูลและการปฏิบัติ** (รวม **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*การจำแนกใหม่และการปกครองวงชีวิต*) และ **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*การปกครองบันทึกชนิดข้อมูลของระบบ*)); [บันทึกชนิดข้อมูลของระบบ](core_05_band_continuity.md#system-data-types-record-constitutional); [การเปิดเผยเส้นฐานการกำกับดูแลสาธารณะ](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*เงื่อนไขการเก็บรักษาข้อมูลและความครบถ้วนของวงชีวิต*), **CJS-3.21** (*เงื่อนไขความมั่นคงเชิงปรปักษ์และความต้านการละเมิด*), และ **CJS-3.17** (*เงื่อนไขการทำงานร่วมกัน ความสามารถย้าย และความครบถ้วนของการออก*) ในที่ที่ใช้ได้อย่างเป็นสาระ.
-- หมวดย่อย: [§4.1](#41-illustrative-data-handling-application-by-class) (*ตัวอย่างการประยุกต์การปฏิบัติข้อมูลตามชั้น*).
+- ต้นทาง: [§3](#3-whole-system-certification-evaluation) (*ปัจจัยการประเมินทั้งระบบ*); [ตัวอย่างตรวจสอบทั้งระบบในส่วน ค](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*ตัวอย่างการตรวจสอบทั้งระบบ*); [ส่วน ข §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); กลุ่มการวัดการกำกับดูแล (*ความจริงและความสมบูรณ์ทางญาณวิทยาในฐานะการวัดทางรัฐธรรมนูญ*); [มาตรา XV: ความสมบูรณ์ของเขตข้อมูลข่าวสาร](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity); [มาตรา XVI: การตรวจ ความโปร่งใส และการตรวจสอบอิสระ](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [มาตรา VII: การเป็นเจ้าของตนเอง](../../core_06_rights_part_b.md#article-vii-self-ownership).
+- ปลายทาง: [§3.4.8](../../core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*ตัวอย่างการจัดการข้อมูล*); [§5.1](#51-ecological-footprint-evaluation) และ [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*การประเมินและตัวอย่างรอยเท้าทางนิเวศ*); [ส่วน ข §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความสมบูรณ์ของบันทึก*); [ส่วน ข §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ด่านข้อมูลนำเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การจัดประเภทใหม่และความไม่สอดคล้องด้านการจัดการ*).
+- อ่านร่วมกับ: [corpus_systems.md](../../corpus_systems.md), **CS-2 — ชนิดและการจัดการข้อมูล** (รวมถึง **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*การจัดประเภทใหม่และธรรมาภิบาลวงจรชีวิต*) และ **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance)** (*ธรรมาภิบาลบันทึกชนิดข้อมูลระบบ*)); [บันทึกชนิดข้อมูลระบบ](../../core_05_band_continuity.md#system-data-types-record); [การเปิดเผยพื้นฐานการกำกับดูแลสาธารณะ](../../core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*ข้อกำหนดการเก็บรักษาข้อมูลและความสมบูรณ์ของวงจรชีวิต*), **CJS-3.21** (*ข้อกำหนดความทนทานต่อปฏิปักษ์และการต่อต้านการใช้ผิด*), และ **CJS-3.17** (*ข้อกำหนดการทำงานร่วมกัน การพกพา และความสมบูรณ์ของการออก*) เมื่อมีผลเป็นสาระ; [§4.1 การเรียกใช้ร่วมด้านความเป็นส่วนตัว (ข้อมูล)](#41-privacy-informational-joint-invocation) เมื่อมีจุดความเป็นส่วนตัวเกี่ยวข้อง.
+- หัวข้อย่อย: [§3.4.1](#341-type-o-baseline-disclosure) (*การเปิดเผยพื้นฐานชนิด O*); [§3.4.2](#342-privacy-discipline) (*วินัยความเป็นส่วนตัว*); [§3.4.3](#343-protective-storage-and-key-custody) (*การจัดเก็บเพื่อคุ้มครองและการดูแลกุญแจ*); [§3.4.4](#344-periodic-data-type-re-evaluation) (*การประเมินชนิดข้อมูลซ้ำเป็นระยะ*); [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*การรับประกันโครงสร้างพื้นฐานตามชั้นระบบ*); [§3.4.6](#346-infrastructure-robustness-for-data) (*ความทนทานของโครงสร้างพื้นฐานข้อมูล*); [§3.4.7](#347-defects-and-misalignment) (*ข้อบกพร่องและความไม่สอดคล้อง*); [§3.4.8](../../core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*ตัวอย่างการจัดการข้อมูลตามชั้นระบบ*).
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: การรับรองต้องดูด้วยว่าชนิดข้อมูลใดที่ระบบแตะ และปฏิบัติต่อมันเหมาะสมหรือไม่ — รวมว่าชนิดยังถูกในรอบทบทวนปัจจุบันหรือไม่ และโครงสร้างพื้นฐานข้างใต้แข็งพอสำหรับข้อมูลนั้นที่ชั้นระบบนั้นหรือไม่ กฎชนิดและบันทึกชนิดข้อมูลของระบบอยู่ในคลังระบบ; การรับรองตรวจว่ากฎถูกนำไปใช้จริงและบันทึกซื่อ*
+*พูดแบบตรง ๆ: การรับรองต้องดูด้วยว่าระบบแตะต้องข้อมูลชนิดใดและจัดการข้อมูลนั้นอย่างเหมาะสมหรือไม่ รวมถึงการจัดประเภทชนิดยังถูกต้องในรอบทบทวนปัจจุบันหรือไม่ และโครงสร้างพื้นฐานที่รองรับแข็งแรงพอสำหรับข้อมูลนั้นในชั้นระบบนี้หรือไม่ กฎเรื่องชนิดข้อมูลและบันทึกชนิดข้อมูลระบบอยู่ในคลังระบบ ส่วนการรับรองตรวจว่ามีการใช้กฎจริงและบันทึกมีความซื่อตรง*
 
-การรับรองความสอดคล้องของระบบต้องประเมิน **ชนิดข้อมูลและการปฏิบัติ** เป็นส่วนของบันทึกการรับรองที่มีผลกระทบที่เป็นสาระทุกฉบับ บทนิยามชนิดสารสนเทศฉบับหลัก กฎการปฏิบัติ ข้อกำหนดการแยก รายละเอียดวงชีวิต และ [บันทึกชนิดข้อมูลของระบบ](core_05_band_continuity.md#system-data-types-record-constitutional) ที่ยืน อยู่ใน **[corpus_systems.md](../../corpus_systems.md), CS-2 — ชนิดข้อมูลและการปฏิบัติ** หมวดนี้กล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ไม่กล่าวซ้ำอนุกรมวิธานชนิดหรือกลไกการปฏิบัติของ CS-2
+การรับรองความสอดคล้องของระบบต้องประเมิน **ชนิดและการจัดการข้อมูล** เป็นส่วนหนึ่งของบันทึกการรับรองทุกฉบับที่มีผลกระทบเป็นสาระ ส่วนนี้กำหนดสิ่งที่การรับรองต้องตรวจสอบ อนุกรมวิธานชนิดและกลไกการจัดการอยู่ใน **[corpus_systems.md](../../corpus_systems.md), CS-2 — ชนิดและการจัดการข้อมูล** พร้อมกับ:
 
-**ข้อกำหนดการประเมิน.** กระบวนการรับรองต้องวินิจฉัยว่าระบบระบุชนิดข้อมูลที่อยู่ในขอบเขตอย่างเป็นสาระ และปฏิบัติต่อมันภายใต้การจำแนก**ที่เข้มงวดที่สุดที่ใช้ได้** รวมข้ามการแปลง การรวม การมอบ การเก็บ การรักษา และการเชื่อมข้ามโดเมน การประเมินต้องสะท้อนผลเชิงหน้าที่ ไม่ใช่ป้าย รูปแบบ หรือขั้นท่อเพียงอย่างเดียว ในที่ที่เส้นฐาน Type O ของ **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** ใช้ การรับรองต้องยืนยันด้วยว่า [การเปิดเผยเส้นฐานการกำกับดูแลสาธารณะ](core_05_band_oversight.md#public-oversight-baseline-disclosure) ที่เผยแพร่ (**Type O**) ครอบ **ขอบเขตที่รับรอง** — ทำแผนที่จาก [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) ที่กำกับ (หรือตราสารขอบเขตที่เผยแพร่ที่เทียบได้) ชั้นที่กำหนด และ [ขอบเขตระบบ](core_05_band_continuity.md#system-boundaries) ที่สังเกต — พร้อมการกักที่มีเหตุจับคู่กับการแทนที่สาธารณะสูงสุดที่ทำได้; บทที่ห้าเป็นเจ้าของคำ; CS-2 เป็นเจ้าของเนื้อหาเส้นฐานและกลไกการเผยแพร่
+- บทนิยามชนิดข้อมูลที่เป็นหลัก;
+- กฎการจัดการและข้อกำหนดการแยก;
+- รายละเอียดวงจรชีวิต; และ
+- [บันทึกชนิดข้อมูลระบบ](../../core_05_band_continuity.md#system-data-types-record) ที่คงทน
 
-**การประเมินชนิดข้อมูลเป็นระยะใหม่.** ในทุกวงจรการรับรองหรือการรับรองซ้ำที่มีผลกระทบที่เป็นสาระ กระบวนการต้องยืนยันว่าชุดข้อมูลที่เป็นสาระในขอบเขตถูก **ประเมินใหม่เป็นระยะ** เพื่อการจำแนกที่เหมาะสมภายใต้ **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*การจำแนกใหม่และการปกครองวงชีวิต*) และ **CJS-3.18** (*เงื่อนไขการเก็บรักษาข้อมูลและความครบถ้วนของวงชีวิต*) และถูก **จำแนกใหม่** ในที่ที่การทบทวนนั้นขอ จังหวะต้องปรับตามชั้นระบบและผลกระทบที่เป็นสาระภายใต้ [§2](#2-system-class-evaluation) การจัดชนิดใหม่ที่ตัวเหตุการณ์กระตุ้นภายใต้ CS-2 ไม่แทนการตรวจรับรองเป็นระยะนี้
+**ข้อกำหนดการประเมิน.** กระบวนการรับรองต้องพิจารณาว่าระบบ:
 
-**ข้อกำหนดบันทึก.** การรับรองต้อง **ผลิตหรือยืนยัน** [บันทึกชนิดข้อมูลของระบบ](core_05_band_continuity.md#system-data-types-record-constitutional) — หรือเนื้อหาที่ถูกขอภายใต้ CS-2 — และรวมมันใน [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional) ภายใต้ **[ส่วน ข §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** บันทึกนั้นต้องกล่าวชนิดข้อมูลที่อยู่ในขอบเขตอย่างเป็นสาระ เหตุผลการจำแนกสำหรับข้อมูลคลุมเครือหรือหลายชนิด การควบคุมการแยกและการเชื่อมข้ามโดเมนที่พึ่ง ท่าทีการรักษาและวงชีวิต ความสามารถระบุผู้กระทำที่พอรองรับ [การกระทำที่ระบุผู้กระทำได้](core_05_band_accountability.md#attributable-action-constitutional) และ [ความครบถ้วนของการระบุผู้กระทำ](core_05_band_accountability.md#attribution-integrity-constitutional) **การประเมินชนิดข้อมูลเป็นระยะล่าสุด** (วันที่หรือตัวระบุรอบ จังหวะ และการจัดชนิดใหม่ที่เป็นสาระใด) และขีดจำกัดการเปิดเผยหรือการเข้าถึงการตรวจที่มีเหตุ พร้อมการแทนที่สาธารณะในที่ที่ CS-2 ขอ ในที่ที่เส้นฐาน Type O ใช้ บันทึกต้องกล่าวด้วยว่า [การเปิดเผยเส้นฐานการกำกับดูแลสาธารณะ](core_05_band_oversight.md#public-oversight-baseline-disclosure) ครอบขอบเขตที่รับรองอย่างไร (ช่องตราสารกำหนดขอบเขตที่พึ่ง ข้อค้นพบขอบ และช่องว่างการครอบหรือเงื่อนไขใด)
+- ระบุชนิดข้อมูลที่อยู่ในขอบเขตอย่างมีสาระ; และ
+- จัดการข้อมูลตามประเภทที่เข้มงวดที่สุดซึ่งใช้บังคับ รวมถึงระหว่างการแปลง การรวม การมอบหมาย การจัดเก็บ การเก็บรักษา และการเชื่อมโยงข้ามโดเมน
 
-**การปรับร่วมตามชั้นระบบ.** ความลึกของการปฏิบัติข้อมูลและการประกันโครงสร้างพื้นฐานต้องปรับตามชั้นระบบที่กำหนดภายใต้ [§2](#2-system-class-evaluation) และ CS-3 ระบบชั้นสูงกว่าต้องการหลักฐานที่แข็งกว่าตามสัดส่วนว่าโครงสร้างพื้นฐานการปฏิบัติ การเก็บ การประมวลผล การส่ง การสำรอง การกู้ และเฝ้า สามารถรักษาความครบถ้วนของการจำแนก การระบุผู้กระทำ และความสามารถในการโต้แย้งภายใต้ความกดดันได้ ในที่ที่ค่าปริยายทัศนวิสัยประโยชน์สาธารณะของ CS-2 ใช้ การรับรองต้องยืนยันว่าขีดจำกัดมีขอบแคบ จัดทำเอกสาร ตรวจได้ และจับคู่กับการแทนที่สูงสุดที่ทำได้ ไม่ใช่การซ่อนที่ทึบ
+การประเมินต้องสะท้อนผลเชิงหน้าที่ ไม่ใช่ดูเพียงป้าย รูปแบบ หรือขั้นตอนในสายงาน
 
-**ความมั่นคงของโครงสร้างพื้นฐานสำหรับข้อมูล.** การรับรองต้องประเมินว่าโครงสร้างพื้นฐานการปฏิบัติข้อมูล — รวมชั้นคงอยู่ ท่อข้อมูล การควบคุมการเข้าถึง ขอบเขตรหัสหรือการแยก เส้นทางสำรองและกู้คืน และสายการมอบของผู้ดำเนินการหรือผู้ขาย — เหมาะสมต่อชนิดข้อมูลและชั้นระบบที่เป็นประเด็นหรือไม่ ช่องว่างที่เป็นสาระในความครบถ้วนของวงชีวิต ความมั่นคงเชิงปรปักษ์ ความสามารถย้าย หรือความสามารถกู้ ต้องกล่าวบนบันทึกและสะท้อนในผลการรับรอง เงื่อนไข หรือขีดจำกัดการพึ่ง
+<a id="341-type-o-baseline-disclosure"></a>
+##### 3.4.1 การเปิดเผยพื้นฐานชนิด O
 
-**ข้อบกพร่องและความไม่สอดคล้อง.** การจำแนกข้อมูลผิด การจัดโครงสร้างใหม่เพื่อเลี่ยง การเชื่อมข้ามโดเมนที่ไม่ปลอดภัย การระบุผู้กระทำที่ขาดในที่ที่ภัยที่เป็นสาระจะสอบสวนไม่ได้ **การประเมินชนิดข้อมูลเป็นระยะที่เลยกำหนดหรือถูกข้าม** หรือความเปราะของโครงสร้างพื้นฐานที่คาดได้ว่าเอาชนะการคุ้มครอง CS-2 ต้องถูกปฏิบัติเป็นข้อบกพร่องการรับรอง อาจรองรับการรับรู้มีเงื่อนไข การรับรู้ที่เลื่อน การไม่รับรู้ การถอน หรือการเปิดใหม่ภายใต้ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+เมื่อ **[พื้นฐานชนิด O ส่วน A §7 ของ CS-2](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** ใช้บังคับ การรับรองต้องตรวจสอบด้วยว่า [การเปิดเผยพื้นฐานการกำกับดูแลสาธารณะ](../../core_05_band_oversight.md#public-oversight-baseline-disclosure) (**ชนิด O**) ที่เผยแพร่ครอบคลุม **ขอบเขตที่รับรอง** โดยจับคู่จาก:
 
-<a id="41-illustrative-data-handling-application-by-class"></a>
+- [กฎบัตร](../../core_05_band_continuity.md#charter) ที่กำกับดูแล (หรือเครื่องมือกำหนดขอบเขตที่เผยแพร่ซึ่งเทียบเท่า);
+- ชั้นระบบที่กำหนด; และ
+- [ขอบเขตระบบ](../../core_05_band_continuity.md#system-boundaries) ที่สังเกตได้
 
-<a id="41-illustrative-data-handling-application-by-class-non-exhaustive"></a>
-#### 4.1 ตัวอย่างการประยุกต์การปฏิบัติข้อมูลตามชั้น (ไม่ใช่รายการครบ)
+การแบ่งปันความเสี่ยงที่ประเมินแล้วอาจนับเป็นส่วนหนึ่งของพื้นฐานนี้ได้ เมื่อมีความเสี่ยงเชิงระบบ สิทธิพื้นฐานของสาธารณะนี้กว้างกว่าการรับรอง และไม่ได้เรียกร้องบันทึกแยกเพิ่มจาก [บันทึกการจำแนกระบบ](../../core_05_band_continuity.md#system-classification-record) หรือ [บันทึกชนิดข้อมูลระบบ](../../core_05_band_continuity.md#system-data-types-record)
 
-*พูดแบบตรง ๆ: ตารางชั้นใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) กล่าวว่าชั้นสูงกว่าต้องการการทบทวนที่เข้มกว่า [§3.8](#38-illustrative-whole-system-application-by-class) แสดงว่าหมายความอย่างไรสำหรับ **การประเมินทั้งระบบ** บนระบบตัวอย่างสามระบบเดียวกัน; [§5.1](#51-illustrative-ecological-footprint-application-by-class) ต่อชุดสำหรับ **รอยเท้าทางนิเวศ** หมวดย่อยนี้แสดงว่าหมายความอย่างไรสำหรับ **ชนิดข้อมูลและการปฏิบัติ** — ชนิดใดอยู่ในขอบเขต สิ่งที่การรับรองต้องตรวจ และสิ่งที่ต้องปรากฏบนบันทึก CS-2 ยังเป็นเจ้าของกฎชนิด; การเดินดูเหล่านี้ไม่เพิ่มชนิดและไม่ทำให้ CS-2 แคบลง*
+การระงับข้อมูลแต่ละครั้งที่มีเหตุผลรองรับต้องมาพร้อมสิ่งทดแทนสาธารณะที่เข้มแข็งที่สุดเท่าที่สมเหตุสมผล ([§3.4.5 การรับประกันโครงสร้างพื้นฐานตามชั้นระบบ](#345-system-class-scaled-infrastructure-assurance) ให้ตัวอย่าง) บทที่ห้าเป็นเจ้าของคำศัพท์ ส่วน CS-2 (*ชนิดและการจัดการข้อมูล*) เป็นเจ้าของเนื้อหาพื้นฐานและกลไกการเผยแพร่
 
-**Class A — การควบคุมและเทเลเมทรีน้ำดื่มปลอดภัยของเทศบาล.** ชั้นควบคุมการบำบัดและจ่ายที่เป็นของเมืองรับข้อมูลความดัน การไหล การเตือนการปนเปื้อน และคำสั่งวาล์วแบบเวลาจริง; เก็บข้อมูลเชื่อมบริการลูกค้าจำนวนจำกัดเพื่อแจ้งเหตุขัดข้อง; และมอบการเฝ้าให้ศูนย์ปฏิบัติการความมั่นคง (**SOC**) ของผู้ขาย
+<a id="342-privacy-discipline"></a>
+##### 3.4.2 วินัยความเป็นส่วนตัว
 
-- **ชนิดข้อมูลในขอบเขต:**
-  - **เทเลเมทรี** ปฏิบัติการที่วิกฤตต่อความปลอดภัย (สัญญาณวัดและคำสั่งสดจากภาคสนาม);
-  - สัญญาณเตือนการปนเปื้อนและคุณภาพ;
-  - ข้อมูลติดต่อแจ้งเหตุขัดข้อง;
-  - บันทึกการเข้าถึงของผู้ขายและผู้ดำเนินการ;
-  - บันทึกเหตุการณ์และบำรุงรักษา
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าข้อมูลระนาบควบคุมที่วิกฤตต่อความปลอดภัยถูกแยกจากท่อบริการลูกค้า การเรียกเก็บ หรือการวิเคราะห์ ภายใต้การจำแนก CS-3 **ที่เข้มงวดที่สุดที่ใช้ได้** หรือไม่;
-  - ว่าการรวม การมอบให้ผู้ขาย หรือเส้นทางสำรองอาจทำให้การแยกนั้นพังภายใต้ความกดดันหรือเงื่อนไขเชิงปรปักษ์หรือไม่;
-  - ว่าการระบุผู้กระทำยืนนานพอที่จะสอบสวนเหตุปนเปื้อนหรือตัดน้ำได้หรือไม่; และ
-  - ว่าขีดจำกัดการตรวจที่มีเหตุด้านความปลอดภัยมีการแทนที่สาธารณะที่จัดทำเอกสารหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - สารบบชนิดเต็มสำหรับขอบเขตที่รับรอง;
-  - เหตุผลการจำแนกในที่ที่เทเลเมทรี การเตือน หรือข้อมูลติดต่ออาจเป็นหลายชนิด;
-  - การควบคุมการแยกและการเชื่อมข้ามโดเมน;
-  - ท่าทีการรักษาและวงชีวิตสำหรับการสร้างเหตุการณ์ใหม่;
-  - ข้อค้นพบการประกันโครงสร้างพื้นฐานสำหรับสำรอง กู้คืน และการกู้เชิงปรปักษ์ที่ความลึก **Class A**; และ
-  - เงื่อนไขใดที่ผูกกับการมอบให้ผู้ขายหรือช่องว่างการเฝ้า
+การรับรองต้องใช้วินัยความเป็นส่วนตัวต่อการจัดการข้อมูลดังต่อไปนี้:
 
-**Class B — การแลกบันทึกคลินิกระดับภูมิภาค.** การแลกสารสนเทศสุขภาพจัดเส้นทางสรุปคลินิก ตัวชี้ภาพ และโทเค็นการคลี่อัตลักษณ์ระหว่างโรงพยาบาล คลินิก และระบบคุณสมบัติที่อยู่ติดสิทธิประโยชน์; โรงพยาบาลพึ่งมันทุกวันแต่ถอยไปแฟกซ์ พอร์ทัลตรง หรือการดึงด้วยมือได้ภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอด
+- *ชนิด H, I, N, S และ Y.* สำหรับข้อมูล **ชนิด H**, **ชนิด I**, **ชนิด N**, **ชนิด S** และ **ชนิด Y** การรับรองต้องตรวจสอบว่าการจัดการเป็นไปตาม [บ้านความเป็นส่วนตัว](../../corpus_systems/cs_02_b_data_classifications.md#privacy-link) ที่แต่ละชนิดระบุไว้ใน **CS-2** (*ชนิดและการจัดการข้อมูล*) รวมถึง [ความจำเป็น](../../core_05_band_accountability.md#necessity), [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality), การลดข้อมูลให้น้อยที่สุด และความยินยอมหรืออำนาจอื่นที่เพียงพอ
+- *การเรียกใช้ร่วม.* เมื่อมีจุดความเป็นส่วนตัวมากกว่าหนึ่งจุดเกี่ยวข้อง [§4.1 การเรียกใช้ร่วมด้านความเป็นส่วนตัว (ข้อมูล)](#41-privacy-informational-joint-invocation) ก็ใช้บังคับด้วย
+- *ป้ายกำกับไม่เพียงพอ.* ป้ายชนิดที่ถูกต้องไม่ได้แสดงการปฏิบัติตามความเป็นส่วนตัวด้วยตัวมันเอง
+- *งานชนิด W, U และ T.* สำหรับงาน **ชนิด W**, **ชนิด U** และ **ชนิด T** การรับรองต้องตรวจสอบว่าเคารพการควบคุมของผู้สร้าง รวมถึง:
+  - การถอนการเผยแพร่สาธารณะตาม [CS-2 ส่วน B §9.9](../../corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*ชนิด W: งานที่เผยแพร่*);
+  - ขอบเขตของการให้สิทธิแต่ละครั้งที่บันทึกไว้ตาม [CS-2 ส่วน B §9.13](../../corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*การให้สิทธิทางการค้า*); และ
+  - [สิทธิที่ผู้สร้างสงวนไว้](../../corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights)
+- *ห้ามถือว่ามีความยินยอมโดยนัย.* การให้สิทธิใดห้ามถือเป็นความยินยอมต่อการใช้ที่ไม่ได้ระบุไว้ในนั้น
 
-- **ชนิดข้อมูลในขอบเขต:**
-  - บันทึกคลินิกและการวินิจฉัย;
-  - โทเค็นการคลี่อัตลักษณ์และหลักฐาน;
-  - ข้อมูลสารบบผู้ให้บริการและสถานที่;
-  - บันทึกการตรวจการเข้าถึงและการเปิดเผย;
-  - สิ่งที่ได้จากการจับคู่หรือการกำจัดซ้ำ
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าข้อมูลคลินิกคงอยู่ภายใต้ชั้นการปฏิบัติที่เข้มงวดที่สุดที่ใช้ได้ ข้ามการจัดเส้นทาง แคช การกำจัดซ้ำ และการเชื่อมปลายทางหรือไม่;
-  - ว่าตรรกะการคลี่อัตลักษณ์สร้างการเชื่อมข้ามโดเมนที่ไม่ปลอดภัยหรือการเปิดเผยโดยตัวแทนหรือไม่;
-  - ว่าสายการมอบของผู้ดำเนินการและผู้ร่วมยังระบุผู้กระทำได้หรือไม่; และ
-  - ว่าเส้นทางความสามารถย้ายและการออกคงการควบคุมของผู้ป่วยโดยไม่เอาชนะการกู้ดำเนินงานหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ชนิดที่เป็นสาระและเหตุผลชนิดคลุมเครือ;
-  - การแยกระหว่างเพย์โหลดคลินิก เมทาดาทาสารบบ และฟีดที่อยู่ติดคุณสมบัติ;
-  - การระบุผู้กระทำของสายการมอบ;
-  - ท่าทีวงชีวิตและการรักษาที่พอต่อการสอบสวนและการโต้แย้งด้านการดูแลสุขภาพ;
-  - ข้อค้นพบการประกันโครงสร้างพื้นฐานที่ความลึกดำเนินงาน **Class B**; และ
-  - ตัวกระตุ้นการเปิดใหม่หากเหตุขัดข้องหรือความล้มเหลวการปฏิบัติข้อมูลจะกั้นการดูแลภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอดแล้ว
+<a id="343-protective-storage-and-key-custody"></a>
+##### 3.4.3 การจัดเก็บเพื่อคุ้มครองและการดูแลกุญแจ
 
-**Class C — แพลตฟอร์มตารางและการประสานระหว่างสถาบัน.** ชั้นตารางหลายองค์กรประสานกะเจ้าหน้าที่ การจองห้อง และนัดผู้ขายข้ามโรงพยาบาล โรงเรียน และหน่วยงานสาธารณะ; โรงพยาบาลหลักและสาธารณูปโภคยังเดินในโหมดเสื่อมได้หากมันล้ม แต่แพลตฟอร์มจัดรูปการประสานในขนาด และอาจถือเมทาดาทาติดต่อ บทบาท และตำแหน่งหยาบ
+สำหรับข้อมูลในแถบที่จำกัดการเข้าถึงโดยปริยายและแถบที่เข้าถึงไม่ได้ การรับรองต้องตรวจสอบว่าระบบเป็นไปตามพื้นขั้นต่ำด้านการจัดเก็บเพื่อคุ้มครองและการดูแลกุญแจใน [CS-2 ส่วน A §5.0 แถบท่าทีการเข้าถึง](../../corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands) บันทึกต้องแสดงว่า:
+- ข้อมูลจำกัดและกุญแจอยู่ที่ใดจริง รวมถึงข้อมูลสำรอง แคช บันทึก และพื้นที่สลับ;
+- ข้อความธรรมดาถูกจำกัดอยู่ในกระบวนการที่จำเป็นต้องใช้; และ
+- ช่องทางตรวจ ส่งออก และการใช้อำนาจเหนือกว่านั้นโดยชอบด้วยกฎหมายยังทำงานได้
 
-- **ชนิดข้อมูลในขอบเขต:**
-  - ข้อมูลตาราง บทบาท และการจัดสรรทรัพยากร;
-  - เมทาดาทาติดต่อและหลักฐานของผู้ร่วม;
-  - ตัวระบุตำแหน่งหยาบหรือสถานที่;
-  - บันทึกการตรวจของแพลตฟอร์ม;
-  - ผลจัดอันดับหรือจับคู่ที่ได้ในที่ที่ใช้
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าระบบระบุชนิดที่เป็นสาระอย่างซื่อ — รวมผลที่ได้ที่อาจเปิดลักษณะที่คุ้มครองผ่านแบบตารางหรือไม่;
-  - ว่าการเชื่อมข้ามองค์กรคงอยู่ในขอบเขตที่มีเหตุหรือไม่;
-  - ว่าการปฏิบัติยังโต้แย้งได้ในที่ที่ความกระจุกอาจบอกล่วงหน้าการยกระดับจุดคอขวดหรือไม่; และ
-  - ว่าป้ายชั้นต่ำกว่ายังเข้ากันได้หากการพึ่งหรือความอ่อนไหวของข้อมูลแข็งขึ้นหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ชนิดที่อยู่ในขอบเขตอย่างเป็นสาระและเหตุผลหลายชนิดใด;
-  - ข้อค้นพบการเชื่อมและการรักษาตามสัดส่วนกับความเสี่ยงการประสาน **Class C**;
-  - ข้อค้นพบการประกันโครงสร้างพื้นฐานในที่ที่เป็นสาระ — ไม่ใช่เชิงพิธี — สำหรับข้อมูลที่ถือจริง;
-  - การระบุผู้กระทำที่โต้แย้งได้สำหรับการเชื่อมที่ผลักภาระ; และ
-  - **การเฝ้าการจำแนกใหม่** ที่ชัดในที่ที่แพลตฟอร์มกลายเป็นประตูโดยพฤตินัยสู่การเข้าถึงที่จำเป็นต่อการอยู่รอด หรือเริ่มบรรทุกเพย์โหลดระดับคลินิก
+คำกล่าวว่าเข้ารหัสแล้วโดยไม่มีหลักฐานดังกล่าวไม่ผ่านการตรวจนี้
 
-**การอ่านข้ามชั้น.** กฎ CS-3 ชุดเดียวกันใช้กับทั้งสามระบบ; ชั้นเปลี่ยน **ความลึก** ไม่ใช่อนุญาตให้ปฏิบัติข้อมูลผิด แพลตฟอร์ม **Class C** ที่เริ่มเก็บหรือจัดเส้นทางบันทึกระดับคลินิกต้องถูกประเมินและบันทึกเช่นนั้น — ไม่ทิ้งไว้ที่การปฏิบัติแบบแพลตฟอร์มประสานเพราะผู้ดำเนินการชอบแฟ้มที่เบากว่า การแลก **Class B** ที่เหตุขัดข้องจะกั้นการดูแลฉุกเฉินภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอดแล้ว ต้องถูกจำแนกใหม่และรับรองใหม่ภายใต้ [§2](#2-system-class-evaluation) และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) โดยประกันการปฏิบัติข้อมูลปรับตามนั้น
+<a id="344-periodic-data-type-re-evaluation"></a>
+##### 3.4.4 การประเมินชนิดข้อมูลซ้ำเป็นระยะ
 
-<a id="5-ecological-footprint-evaluation"></a>
+ในทุกรอบการรับรองหรือรับรองซ้ำที่มีผลกระทบเป็นสาระ กระบวนการต้องตรวจสอบว่าชุดข้อมูลที่มีสาระในขอบเขตได้รับ:
 
-### 5. การประเมินรอยเท้าทางนิเวศ
+- **การประเมินซ้ำเป็นระยะ** เพื่อจัดประเภทให้เหมาะสมตาม **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*การจัดประเภทใหม่และธรรมาภิบาลวงจรชีวิต*) และ **CJS-3.18** (*ข้อกำหนดการเก็บรักษาข้อมูลและความสมบูรณ์ของวงจรชีวิต*); และ
+- **การจัดประเภทใหม่** เมื่อการทบทวนนั้นกำหนดให้ทำ
+
+ความถี่ต้องปรับตามชั้นระบบและผลกระทบที่เป็นสาระตาม [§2 การประเมินชั้นระบบ](#2-system-class-evaluation) การเปลี่ยนประเภทเมื่อเกิดเหตุการณ์ตาม CS-2 (*ชนิดและการจัดการข้อมูล*) ไม่ทดแทนการตรวจรับรองเป็นระยะนี้
+
+<a id="345-system-class-scaled-infrastructure-assurance"></a>
+##### 3.4.5 การรับประกันโครงสร้างพื้นฐานตามชั้นระบบ
+
+ตาม [§2.1 วิธีที่ชั้นระบบปรับระดับทุกการประเมิน](#21-how-system-class-scales-every-evaluation) และ CS-3 (*กลไกการจำแนกระบบ*) ระบบชั้นสูงต้องมีหลักฐานที่เข้มแข็งขึ้นตามสัดส่วนว่าโครงสร้างพื้นฐานการจัดการ การจัดเก็บ การประมวลผล การส่งผ่าน การสำรอง การกู้คืน และการติดตาม สามารถรักษาสิ่งต่อไปนี้ได้ภายใต้ความกดดัน:
+
+- ความสมบูรณ์ของการจำแนก;
+- การระบุแหล่งที่มา; และ
+- ความสามารถในการโต้แย้ง
+
+เมื่อข้อกำหนดเริ่มต้นด้านการมองเห็นเพื่อประโยชน์สาธารณะของ CS-2 (*ชนิดและการจัดการข้อมูล*) ใช้บังคับ การรับรองต้องตรวจสอบว่าข้อจำกัดนั้น:
+
+- จำกัดขอบเขตอย่างแคบ;
+- มีเอกสารและตรวจสอบได้; และ
+- มาพร้อมสิ่งทดแทนสาธารณะที่เข้มแข็งที่สุดเท่าที่สมเหตุสมผล (เช่น บทสรุป ข้อมูลรวม รุ่นที่ลบตัวระบุออก การเผยแพร่ล่าช้า หรือการเข้าถึงเพื่อการตรวจสอบโดยผู้มีคุณสมบัติ) เพื่ออธิบายสิ่งที่ไม่เปิดเผย แทนที่จะซ่อนไว้เฉย ๆ
+
+<a id="346-infrastructure-robustness-for-data"></a>
+##### 3.4.6 ความทนทานของโครงสร้างพื้นฐานข้อมูล
+
+การรับรองต้องประเมินว่าโครงสร้างพื้นฐานจัดการข้อมูลเหมาะสมกับชนิดข้อมูลและชั้นระบบที่เกี่ยวข้องหรือไม่ โครงสร้างพื้นฐานดังกล่าวรวมถึง:
+
+- ชั้นและสายงานจัดเก็บถาวร;
+- การควบคุมการเข้าถึง;
+- ขอบเขตการเข้ารหัสหรือการแยก;
+- ช่องทางสำรองและกู้คืน; และ
+- สายการมอบหมายงานแก่ผู้ดำเนินการหรือผู้ขาย
+
+ช่องว่างที่มีสาระด้านความสมบูรณ์ของวงจรชีวิต ความทนทานต่อปฏิปักษ์ ความสามารถในการพกพา หรือการกู้คืน ต้องระบุไว้ในบันทึกและสะท้อนในผลการรับรอง เงื่อนไข หรือขีดจำกัดการพึ่งพา
+
+<a id="347-defects-and-misalignment"></a>
+##### 3.4.7 ข้อบกพร่องและความไม่สอดคล้อง
+
+ต้องถือสิ่งต่อไปนี้แต่ละข้อเป็นข้อบกพร่องของการรับรอง:
+
+- การจำแนกข้อมูลผิด;
+- การปรับโครงสร้างเพื่อหลบเลี่ยง;
+- การเชื่อมโยงข้ามโดเมนที่ไม่ปลอดภัย;
+- การจัดการที่ตรงกับป้ายชนิด แต่ไม่ผ่านบ้านความเป็นส่วนตัวที่ชนิดนั้นระบุ;
+- ไม่มีการระบุแหล่งที่มา ทั้งที่ไม่อาจสอบสวนอันตรายที่เป็นสาระได้;
+- **การประเมินชนิดข้อมูลเป็นระยะที่ล่าช้าหรือถูกข้าม**;
+- เก็บข้อมูลจำกัดไว้เป็นข้อความธรรมดาหรืออยู่นอกขอบเขตประมวลผลที่ได้รับอนุญาต หรือมีกระบวนการที่ไม่จำเป็นเข้าถึงกุญแจได้; และ
+- โครงสร้างพื้นฐานเปราะบางจนคาดการณ์ได้ว่าจะทำให้การคุ้มครองของ CS-2 (*ชนิดและการจัดการข้อมูล*) ใช้ไม่ได้
+
+ผลที่ตามมากำหนดไว้ใน [§7 ผลการรับรอง](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+
+<a id="4-evaluations-where-implicated"></a>
+
+### 4. การประเมินในกรณีที่เกี่ยวข้อง
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ร่องรอยอ้างอิง</span></strong></summary>
 
-- ต้นทาง: [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); ตระกูลการวัดความต่อเนื่อง (*รอยเท้าทางนิเวศในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*); [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint), [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact), [การพึ่งพา](core_05_band_continuity.md#dependency), [ความโปร่งใส](core_05_band_oversight.md#transparency), และ [ความครบถ้วนทางญาณ](core_05_band_oversight.md#epistemic-integrity) (บทที่ห้า); [เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม](core_05_band_continuity.md#environmental-preconditions-constitutional) และ [ความครบถ้วนทางนิเวศ](core_05_band_continuity.md#ecological-integrity-constitutional) ในที่ที่ถูกพาดพิงเป็นสาระ.
-- ปลายทาง: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*การเดินดูตัวอย่างรอยเท้าทางนิเวศ*); [§6](#6-proportionate-cross-system-support-evaluation) และ [§6.1](#61-illustrative-cross-system-support-application-by-class) (*การประเมินการสนับสนุนข้ามระบบและการเดินดูตัวอย่าง*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การแสดงรอยเท้าผิดและความไม่สอดคล้อง*).
-- อ่านคู่กับ: [corpus_systems.md](../../corpus_systems.md), [CS-8 — ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) ในที่ที่การจัดสรรแบบปรับตัวหรือการพึ่งกันของระบบนิเวศอยู่ในขอบเขตอย่างเป็นสาระ.
-- หมวดย่อย: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*ตัวอย่างการประยุกต์รอยเท้าทางนิเวศตามชั้น*).
+- ต้นทาง: [§3](#3-whole-system-certification-evaluation) (*การประเมินทั้งระบบ รวมถึงระดับที่ใช้เสมอ*); [§2](#2-system-class-evaluation) (*การประเมินชั้นของระบบ*); [บทที่หนึ่ง §12 ข้อกำหนดการประเมินเชิงระบบ](core_01_a_values_principles.md#12-systemic-evaluation-requirement)
+- ปลายทาง: [§4.1](#41-privacy-informational-joint-invocation) (*จุดเชื่อมโยงด้านความเป็นส่วนตัว*); [§4.2](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) (*สิทธิในการออกจากระบบ*); [§4.3](#43-assembly-collective-organization-and-institutional-formation) (*การชุมนุมและการเห็นต่าง*); [ส่วน B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*เนื้อหาของบันทึก*)
+- อ่านประกอบกับ [§5 การประเมินพื้นสิทธิและด้านต่าง ๆ](#5-rights-floor-and-domain-evaluations) (*ระดับที่ใช้เมื่อมีเงื่อนไขกระตุ้น*)
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: การรับรองต้องประเมินภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้อย่างซื่อเมื่อมันสำคัญ — รวมลิงก์ต้นทางและปลายทาง — ไม่ใช่แค่ว่าผู้ดำเนินการอ้างว่าระบบเป็นมิตรสิ่งแวดล้อม วิธีบัญชีรอยเท้าและเป้าลดตัวเลขอยู่ในตราสารอื่น; การรับรองตรวจว่าการระบุ การเปิดเผย และการเปรียบถูกประเมินจริงในที่ที่เป็นสาระ ตัวอย่างทำงานสำหรับระบบตัวอย่างใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) อยู่ใน [§5.1](#51-illustrative-ecological-footprint-application-by-class).*
+*พูดให้เข้าใจง่าย: การตรวจสอบสามเรื่องนี้ใช้เฉพาะเมื่อระบบเกี่ยวข้องกับเรื่องนั้นจริง ๆ ได้แก่ ข้อมูลส่วนตัวถูกแยกและคุ้มครองอย่างเหมาะสมหรือไม่ ผู้มีความรู้สึกออกไปได้โดยไม่ถูกกักไว้หรือไม่ และกลุ่มยังจัดตั้งตัวเองและแสดงความเห็นต่างได้หรือไม่ หากระบบเกี่ยวข้องกับข้อใด การรับรองต้องตรวจสอบข้อนั้น*
 
-การรับรองความสอดคล้องของระบบต้องประเมิน **รอยเท้าทางนิเวศ** เป็นส่วนของบันทึกการรับรองที่มีผลกระทบที่เป็นสาระทุกฉบับ ในที่ที่ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้เป็นสาระภายใต้ [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) และ **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) กฎการระบุ วงชีวิต การพึ่งพา และความโปร่งใสฉบับหลักอยู่ในบทที่ห้าและ **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*); วิธีบัญชี ขั้นการตรวจสอบ และเป้าตัวเลขอยู่ในตราสารการรับเอามาใช้ในที่ที่ใช้ได้ หมวดนี้กล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ไม่กล่าวซ้ำกลไกบัญชีรอยเท้าและไม่กำหนดหน้าที่ลดเกินสิ่งที่ตราสารอื่นขอ
+ส่วนนี้เป็นขั้นย่อย **IIb** ของระยะ II (ประเมิน) โดยรวบรวมการประเมินทั้งระบบที่ใช้เมื่อเรื่องการรับรองเกี่ยวข้องอย่างมีนัยสำคัญกับจุดเชื่อมโยงหรือหลักการที่หัวข้อย่อยระบุ ส่วนนี้ไม่เพิ่ม ไม่จำกัด และไม่จัดลำดับข้อกำหนดของหัวข้อย่อยใดใหม่
 
-**ข้อกำหนดการประเมิน.** กระบวนการรับรองต้องวินิจฉัยว่ากระแสสิ่งแวดล้อมที่ระบุผู้รับผิดได้ — พลังงาน วัสดุ การปล่อย การใช้ที่ดิน และภาระที่เกี่ยวข้อง — ถูกระบุข้ามวงชีวิตที่เกี่ยวข้องอย่างเป็นสาระของระบบและความสัมพันธ์ [การพึ่งพา](core_05_band_continuity.md#dependency) ถูกประเมินภายใต้ [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) และถูกเปิดเผยหรือกักเฉพาะเท่าที่ [ความโปร่งใส](core_05_band_oversight.md#transparency) [ความครบถ้วนทางญาณ](core_05_band_oversight.md#epistemic-integrity) และหน้าที่ความโปร่งใสที่ใช้ได้ยินยอม การประเมินต้องสะท้อนผลเชิงหน้าที่และขอบเขตระบบ ไม่ใช่ขอบเขตในนาม ป้ายการตลาด หรือกรอบวงชีวิตบางส่วนเพียงอย่างเดียว
-
-**ข้อกำหนดบันทึก.** บันทึกการรับรองต้องกล่าวขอบเขตการประเมินรอยเท้า ข้อสมมติการระบุ ขอบวงชีวิตและการพึ่งพาที่พึ่ง ภาระที่เป็นสาระที่ระบุ ความไม่แน่นอน ท่าทีการเปิดเผย ข้อค้นพบส่วนประกอบเวทีสิ่งแวดล้อมในที่ที่ถูกขอ และขีดจำกัดการเปิดเผยรอยเท้าที่มีเหตุ พร้อมการแทนที่สาธารณะในที่ที่กฎความโปร่งใสที่ใช้ได้ขอ
-
-**การปรับร่วมตามชั้นระบบ.** ความลึกของการประเมินรอยเท้าและการเปิดเผยต้องปรับตามชั้นระบบที่กำหนดภายใต้ [§2](#2-system-class-evaluation) และ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ระบบชั้นสูงกว่าต้องการหลักฐานที่แข็งกว่าตามสัดส่วนว่าภาระสิ่งแวดล้อมที่เป็นสาระถูกระบุ ถูกเปรียบข้ามทางเลือกที่เกี่ยวข้องในที่ที่ทำได้ และไม่ถูกบังด้วยการเลื่อนขอบ การผลักการพึ่ง หรือการเปิดเผยแบบเลือก
-
-**ข้อบกพร่องและความไม่สอดคล้อง.** การบัง การแสดงผิด การแยกชิ้น หรือการผลักข้อมูลรอยเท้าที่เป็นสาระในที่ที่การรับรองหรือหน้าที่ความโปร่งใสของ **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) ขอการเปิดเผย; การประเมินเฉพาะชิ้นวงชีวิตที่ผู้ดำเนินการเลือกในที่ที่การระบุที่กว้างกว่าเป็นสาระ; หรือการถือคำอ้างรอยเท้าว่าครบด้วยคำกล่าวโดยไม่มีหลักฐานที่ประเมินได้ ต้องถูกปฏิบัติเป็นข้อบกพร่องการรับรอง อาจรองรับการรับรู้มีเงื่อนไข การรับรู้ที่เลื่อน การไม่รับรู้ การถอน หรือการเปิดใหม่ภายใต้ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
-
-<a id="51-illustrative-ecological-footprint-application-by-class"></a>
-
-<a id="51-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
-#### 5.1 ตัวอย่างการประยุกต์รอยเท้าทางนิเวศตามชั้น (ไม่ใช่รายการครบ)
-
-*พูดแบบตรง ๆ: [§3.8](#38-illustrative-whole-system-application-by-class) และ [§4.1](#41-illustrative-data-handling-application-by-class) พาสามระบบเดียวกันผ่านการทบทวนทั้งระบบและการปฏิบัติข้อมูล หมวดย่อยนี้แสดงว่าการประเมิน **รอยเท้าทางนิเวศ** หมายความอย่างไรสำหรับแต่ละระบบ — ภาระสิ่งแวดล้อมใดนับ สิ่งที่การรับรองต้องตรวจ และสิ่งที่ต้องปรากฏบนบันทึก **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) และบทที่ห้ายังเป็นเจ้าของกฎการระบุและความโปร่งใส; วิธีบัญชีและเป้าตัวเลขอยู่ในตราสารอื่น; การเดินดูเหล่านี้ไม่เพิ่มหน้าที่รอยเท้าเกินสิ่งที่ตราสารเหล่านั้นขอ*
-
-**Class A — การควบคุมและเทเลเมทรีน้ำดื่มปลอดภัยของเทศบาล.** ระบบบำบัดและจ่ายที่เป็นของเมืองดึงจากแหล่งลุ่มน้ำ ปัจจัยเคมีบำบัด พลังงานสูบและบำบัด โครงสร้างจ่าย กระแสทิ้ง และการคำนวณหรือเฝ้าของผู้ขายที่มอบในที่ที่ใช้
-
-- **ภาระที่ระบุผู้รับผิดได้ในขอบเขต:**
-  - การดึงน้ำต้นทางและความเครียดลุ่มน้ำ;
-  - สารเคมีบำบัดและสื่อกรอง;
-  - พลังงานสูบ บำบัด และจ่าย;
-  - โครงสร้างที่ฝังตัวสำหรับโรงงาน ท่อ และควบคุม;
-  - การสูญเสียและรั่วของน้ำที่บำบัดแล้ว;
-  - การทิ้งและกากสู่แหล่งรับ;
-  - การปล่อยของโครงข่ายไฟฟ้าต้นทาง;
-  - ศูนย์ปฏิบัติการความมั่นคง (**SOC**) ของผู้ขาย การคำนวณโฮสต์ร่วม หรือการคำนวณและเชื่อมต่อเฝ้าระยะไกลในที่ที่พึ่งอย่างเป็นสาระ;
-  - ภาระบำรุง แทนที่ และปลดระวางข้ามวงชีวิตที่เกี่ยวข้องอย่างเป็นสาระ
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าขอบเขตรอยเท้าครอบไฟฟ้าต้นทาง อุปทานเคมี [การพึ่งพา](core_05_band_continuity.md#dependency) ลุ่มน้ำ และการทิ้งปลายทาง — ไม่ใช่เฉพาะอาคารดำเนินงานของเทศบาลหรือไม่;
-  - ว่า [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) ถูกประเมินสำหรับการหมดแหล่ง ความเข้มพลังงาน และการทิ้งภายใต้ความกดดันหรือความแปรปรวนภูมิอากาศหรือไม่;
-  - ว่าขอบที่ผู้ดำเนินการเลือกตัดการเฝ้าที่ผู้ขายโฮสต์ โลจิสติกส์เคมีที่จ้างนอก หรือภาระโครงข่ายร่วมในที่ที่การระบุเป็นสาระหรือไม่;
-  - ว่าทางเลือก — การอนุรักษ์ การคุ้มครองแหล่ง เส้นทางบำบัดภาระต่ำกว่า — ถูกเปรียบในที่ที่ทำได้หรือไม่; และ
-  - ว่าขีดจำกัดการเปิดเผยมีการแทนที่สาธารณะที่จัดทำเอกสารภายใต้ **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) หรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ขอบเขตการประเมินรอยเท้าและขอบวงชีวิตที่ความลึก **Class A**;
-  - ข้อสมมติการระบุสำหรับกระแสลุ่มน้ำ พลังงาน เคมี และการทิ้ง;
-  - ภาระที่เป็นสาระที่ระบุและความไม่แน่นอนที่กล่าว;
-  - ข้อค้นพบส่วนประกอบเวทีสิ่งแวดล้อมในที่ที่ถูกขอ;
-  - ข้อค้นพบการเปรียบข้ามทางเลือกที่เกี่ยวข้องในที่ที่ทำได้;
-  - ท่าทีการเปิดเผยและขีดจำกัดที่มีเหตุพร้อมการแทนที่สาธารณะใด; และ
-  - เงื่อนไขหรือตัวกระตุ้นการเปิดใหม่ที่ผูกกับความเครียดแหล่ง ภัยจากการทิ้ง หรือการเลื่อนขอบ
-
-**Class B — การแลกบันทึกคลินิกระดับภูมิภาค.** การแลกสารสนเทศสุขภาพพึ่งโฮสต์ที่ทำซ้ำ การเชื่อมต่อสถานที่โรงพยาบาล การคำนวณคลี่อัตลักษณ์ และโครงสร้างพื้นฐานที่ผู้ขายหรือผู้ร่วมดำเนิน ข้ามเครือข่ายการดูแลระดับภูมิภาค
-
-- **ภาระที่ระบุผู้รับผิดได้ในขอบเขต:**
-  - พลังงาน ทำความเย็น และวงชีวิตฮาร์ดแวร์ของศูนย์ข้อมูลหลักและสำรอง;
-  - การเชื่อมต่อเครือข่ายและขอบสำหรับโรงพยาบาลผู้ร่วม;
-  - การคำนวณทำซ้ำที่เก็บและการกำจัดซ้ำ;
-  - โครงสร้างนายหน้าอัตลักษณ์และจัดเส้นทาง;
-  - ภาระสถานที่ ณ จุดโฮสต์ที่พึ่งอย่างเป็นสาระ;
-  - โครงสร้างที่ฝังตัวสำหรับตัวเชื่อมในสถานที่ในที่ที่โรงพยาบาลพึ่งพวกมัน
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าการระบุรอยเท้าครอบภาระโฮสต์ การทำซ้ำ และการเชื่อมผู้ร่วมที่ขนาดดำเนินงาน — ไม่ใช่เฉพาะสำนักงานใหญ่ของผู้ดำเนินการแลกหรือไม่;
-  - ว่าการพึ่งภูมิภาคโฮสต์ร่วม ผู้ให้บริการโคโลเคชัน หรือฮาร์ดแวร์ขอบสถานที่โรงพยาบาลถูกทำแผนที่และระบุหรือไม่;
-  - ว่าชิ้นวงชีวิตไม่ถูกทำให้แคบเป็นคำอ้างซอฟต์แวร์อย่างเดียวขณะที่ภาระฮาร์ดแวร์และพลังงานที่เป็นสาระถูกผลักหรือไม่;
-  - ว่าภาระที่เป็นสาระถูกประเมินภายใต้ [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) และเปิดเผยสอดคล้องกับ **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) หรือไม่; และ
-  - ว่าการเติบโตของปริมาณผู้ร่วมหรือความอ่อนไหวของข้อมูลจะเปลี่ยนภาระที่ระบุอย่างเป็นสาระหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ขอบเขตรอยเท้าและขอบการพึ่งที่ความลึกดำเนินงาน **Class B**;
-  - ภาระพลังงาน ฮาร์ดแวร์ และการเชื่อมต่อที่เป็นสาระที่ระบุ;
-  - ข้อสมมติการระบุโฮสต์และการมอบ;
-  - ความไม่แน่นอนและท่าทีการเปิดเผย;
-  - ข้อค้นพบเวทีสิ่งแวดล้อมหรือส่วนประกอบอื่นในที่ที่ถูกขอ; และ
-  - ตัวกระตุ้นการเปิดใหม่หากขนาด การเติบโตของเพย์โหลดระดับคลินิก หรือความกระจุกของโฮสต์เปลี่ยนภาระที่ระบุผู้รับผิดได้หรือท่าทีชั้นอย่างเป็นสาระ
-
-**Class C — แพลตฟอร์มตารางและการประสานระหว่างสถาบัน.** ชั้นตารางหลายองค์กรวิ่งหลักบนการคำนวณโฮสต์ร่วมและการเชื่อมต่อ โดยมีภาระรองจากโลจิสติกส์สถานที่ การเดินทางที่แบบประสานชักนำ และโฮสต์ภูมิภาคที่กระจุกในที่ที่ใช้ได้
-
-- **ภาระที่ระบุผู้รับผิดได้ในขอบเขต:**
-  - การคำนวณโฮสต์ ที่เก็บ และเครือข่ายสำหรับงานตาราง;
-  - พลังงานศูนย์ข้อมูลหลายผู้เช่าที่ระบุได้ไปยังส่วนแบ่งของแพลตฟอร์ม;
-  - วงชีวิตฮาร์ดแวร์ที่ฝังตัวสำหรับโครงสร้างที่พึ่งอย่างเป็นสาระ;
-  - ภาระสถานที่และโลจิสติกส์เฉพาะในที่ที่แบบประสานเลื่อนการเดินทางหรือการใช้สถานที่อย่างเป็นสาระ;
-  - ผลความกระจุกระดับภูมิภาคในที่ที่โฮสต์หรือการใช้รวมตัวในที่ภาระสูง
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าผู้ดำเนินการระบุภาระการคำนวณโฮสต์และการเชื่อมต่ออย่างซื่อ แทนที่จะถือแพลตฟอร์มว่าไม่เป็นสาระเพราะเป็น «แค่ซอฟต์แวร์» หรือไม่;
-  - ว่าการผลักหลายผู้เช่าหรือการเลื่อนขอบผู้ขายซ่อนการระบุพลังงานหรือฮาร์ดแวร์ที่เป็นสาระหรือไม่;
-  - ว่าความกระจุกในภูมิภาคหรือผู้ให้บริการเฉพาะถูกประเมินในที่ที่มันเลื่อนภาระอย่างเป็นสาระหรือไม่;
-  - ว่าการทบทวนรอยเท้าคงตามสัดส่วนโดยไม่กลายเป็นเชิงพิธีสำหรับระบบ **Class C** หรือไม่; และ
-  - ว่าการจำแนกใหม่สมควรหรือไม่หากขนาด การจัดเส้นทางที่จำเป็นต่อการอยู่รอด หรือการเติบโตของเพย์โหลดระดับคลินิกจะขอความลึกรอยเท้า **Class B** หรือ **Class A**
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ข้อค้นพบรอยเท้าตามสัดส่วนกับความเสี่ยงการประสาน **Class C**;
-  - ขอบเขตและข้อสมมติการระบุสำหรับการคำนวณ ที่เก็บ และการเชื่อมต่อ;
-  - ภาระที่เป็นสาระที่ระบุโดยไม่ทำให้ขอบวงชีวิตแคบเกิน;
-  - ความไม่แน่นอนและท่าทีการเปิดเผย;
-  - **การเฝ้าการจำแนกใหม่** ที่ชัดในที่ที่ความกระจุกของโฮสต์ ขนาด หรือความอ่อนไหวของเพย์โหลดแข็งขึ้น; และ
-  - ตัวชี้ไปยังการทบทวนรอยเท้าที่ยกระดับหากชั้นหรือความเป็นสาระเปลี่ยน
-
-**การอ่านข้ามชั้น.** วินัยรอยเท้าของ **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) และบทที่ห้าชุดเดียวกันใช้กับทั้งสามระบบ; ชั้นเปลี่ยนความลึกของการระบุและภาระการเปรียบ ไม่ใช่อนุญาตให้บังกระแสสิ่งแวดล้อมที่เป็นสาระ ระบบน้ำวิกฤตต่อการอยู่รอด **Class A** ต้องไม่ถูกลดชั้นขณะที่การดึงลุ่มน้ำ การทิ้ง หรือภาระพลังงานที่กั้นน้ำปลอดภัยยังถูกระบุต่ำอย่างเป็นสาระ การแลก **Class B** ที่การเติบโตของเพย์โหลดคลินิกหรือความกระจุกของโฮสต์เพิ่มภาระสิ่งแวดล้อมอย่างเป็นสาระ ต้องได้รับการทบทวนรอยเท้าที่ปรับตามการเติบโตนั้น — รวมขึ้นสู่ความลึก **Class A** ในที่ที่การส่งมอบที่จำเป็นต่อการอยู่รอดและภาระระบบต้นทางถูกพาดพิงร่วม แพลตฟอร์มตาราง **Class C** ที่กลายเป็นจุดคอขวดโดยพฤตินัยของการประสานที่จำเป็นต่อการอยู่รอด ต้องไม่คงแฟ้มรอยเท้าเชิงพิธีเพราะผู้ดำเนินการติดป้ายว่าไม่วิกฤต การเดินดูการสนับสนุนข้ามระบบสำหรับระบบเดียวกันอยู่ใน [§6.1](#61-illustrative-cross-system-support-application-by-class)
-
-<a id="6-proportionate-cross-system-support-evaluation"></a>
-
-<a id="6-proportionate-cross-system-contribution-evaluation"></a>
-### 6. การประเมินการสนับสนุนข้ามระบบตามสัดส่วน
+<a id="41-privacy-informational-joint-invocation"></a>
+#### 4.1 การเรียกใช้ความเป็นส่วนตัว (ด้านข้อมูล) ร่วมกัน
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ร่องรอยอ้างอิง</span></strong></summary>
 
-- ต้นทาง: [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); ตระกูลการวัดความต่อเนื่อง (*การสนับสนุนข้ามระบบตามสัดส่วนในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) และ **มาตรา IV-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*); [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [การพึ่งพา](core_05_band_continuity.md#dependency), [ความเป็นธรรมเชิงสาระ](core_05_band_participation.md#substantive-fairness-constitutional), [สัดส่วน](core_05_band_accountability.md#proportionality), [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint), และ [ความยั่งยืน](core_05_band_continuity.md#sustainability) (บทที่ห้า).
-- ปลายทาง: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*การเดินดูตัวอย่างการสนับสนุนข้ามระบบ*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การแสดงกระแสทรัพยากรผิด ความไม่สอดคล้องของการสกัด และความไม่พอของการสนับสนุน*).
-- อ่านคู่กับ: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*), และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*); [*สถาปัตยกรรมการปกครอง การกำกับดูแล การพึ่งพา การกระจายอำนาจ ความกระจุก โครงสร้างตลาด และความครบถ้วนของเส้นทางออก*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) ในที่ที่ความกระจุก การพึ่งพา หรือการจัดเส้นทางสิ่งจูงใจตัดกับ **มาตรา IV-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*).
-- หมวดย่อย: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*ตัวอย่างการประยุกต์การสนับสนุนข้ามระบบตามชั้น*).
+- อ่านประกอบกับ บทที่ห้า [**Def.C3** (*ความเป็นส่วนตัว (ด้านข้อมูล)* — หัวหน้ากลุ่มระดับเดียวกัน)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) และ [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) ซึ่งเป็นที่ตั้งหลักของหัวหน้ากลุ่มและเป็นผู้กำหนดความหมาย
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: เมื่อระบบดึงจากฐานร่วมอย่างเป็นสาระ การรับรองต้องตรวจว่ามันใส่การสนับสนุนที่ตามรอยได้กลับพอหรือไม่ — ไม่ใช่ว่าผู้ดำเนินการกล่าวว่าบัญชีสมดุล สูตรจัดสรรและเป้าตัวเลขอยู่ในตราสารอื่น; การรับรองตรวจว่าแผนที่การพึ่ง กระแสคืน และความเป็นธรรมข้ามระบบถูกประเมินจริงในที่ที่ตัวกระตุ้นใช้ ตัวอย่างทำงานสำหรับระบบตัวอย่างใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) อยู่ใน [§6.1](#61-illustrative-cross-system-support-application-by-class).*
+*พูดให้เข้าใจง่าย: บทที่หกกระจายการคุ้มครองความเป็นส่วนตัวไว้ในหลายบทบัญญัติ ไม่ได้รวมไว้ในมุมเดียวอย่างเป็นระเบียบ หากการตรวจรับรองเกี่ยวข้องกับการคุ้มครองหลายข้อ ผู้ตรวจต้องตรวจทุกข้อที่ใช้จริง การเลือกข้อที่ตรวจง่ายที่สุดแล้วประกาศว่าจบแล้วไม่เพียงพอ*
 
-**ตัวกระตุ้นความเป็นสาระ.** หมวดนี้ใช้ในที่ที่ระบบที่มีผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานที่ระบบอื่นหรือผู้มีความรู้สึกพึ่ง อย่างเป็นสาระ มันไม่ขอการตรวจการสนับสนุนข้ามระบบเต็มบนบันทึกการรับรองทุกฉบับ
+เมื่อเรื่องการรับรองเกี่ยวข้องอย่างมีนัยสำคัญกับจุดเชื่อมโยงด้านความเป็นส่วนตัวในบทที่หกมากกว่าหนึ่งจุด การรับรองต้องพิจารณาทุกจุด การปิดเรื่องโดยพิจารณาเพียงจุดเดียวไม่เพียงพอ
 
-**ความหมายของ «การสกัด» ที่นี่.** ใน **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) และหมวดนี้ **การสกัด** หมายถึงการดึง **เงิน ค่าธรรมเนียม ทุนสาธารณะ การคำนวณ การเชื่อมต่อ แรงงานบำรุง ความสามารถแหล่ง หรือกระแสทรัพยากรร่วมอื่น** จากโครงสร้างพื้นฐานหรือการพึ่งที่ระบบอื่นก็ต้องการ — โดยไม่คืนการสนับสนุนตามสัดส่วนเพื่อให้ฐานร่วมนั้นทำงานต่อไป คำถามคือ **ใครได้ประโยชน์จากส่วนหลังร่วมและใครจ่ายเพื่อค้ำจุนมัน** ไม่ใช่ว่าระบบคัดลอก ขาย หรือโฆษณาทวนเนื้อหาบันทึก การเข้าถึงบันทึกคลินิก การใช้ข้อมูลส่วนบุคคล การขายให้ฝ่ายนอก การโฆษณาเจาะจง และการทำโปรไฟล์บุคคลที่สามที่ไม่เกี่ยว ถูกประเมินภายใต้ [§4](#4-data-types-and-handling-evaluation) และการคุ้มครองความเป็นส่วนตัวและวงข้อมูลของบทที่หก — ไม่ใช่ภายใต้หมวดนี้
+- *การเอื้อให้มีส่วนร่วม.* [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) เอื้อให้เกิด [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) อย่างแท้จริง การรับรองต้องยืนยันว่าการคุ้มครองความเป็นส่วนตัวซึ่งสนับสนุนการแสดงความเห็น การปรึกษาหารือ การสมาคม และการโต้แย้ง ไม่ถูกทำลายด้วยการแบ่งแยก การนำข้อมูลข้ามบริบทมาอ่านประกอบ หรือแรงกดดันให้เปิดเผย
+- *จุดเชื่อมโยงในกลุ่ม.* การคุ้มครองความเป็นส่วนตัวที่กระจายอยู่ครอบคลุม **มาตรา VII-A** (*การเป็นเจ้าของร่างกายตนเอง*), **มาตรา VII-B** (*การเป็นเจ้าของจิตใจตนเอง*), **มาตรา IX** (*รูปลักษณ์ ข้อมูลประสบการณ์ และสิทธิในการเผยแพร่*), **มาตรา X-A** (*ความเป็นผู้กระทำการและเสรีภาพจากการบงการ*) และ **มาตรา XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*)
+- *กฎการเรียกใช้ร่วมกัน.* เมื่อเรื่องนั้นเกี่ยวข้องอย่างมีนัยสำคัญกับหลายจุด การรับรองต้องครอบคลุมทุกจุด และห้ามใช้จุดหนึ่งเป็นช่องทางให้หลีกเลี่ยงอีกจุดหนึ่ง
+- *ห้ามผ่อนมาตรฐานด้วยการนำข้ามบริบทมาเทียบ.* มาตรฐานที่สมาชิกกลุ่มแต่ละรายระบุไว้เฉพาะในขอบเขตของตนเป็นมาตรฐานที่ควบคุม และห้ามทำให้อ่อนลงโดยนำมาตรฐานที่ผ่อนปรนกว่าจากสมาชิกอีกรายมาใช้
+- *คงพื้นขั้นต่ำของประเภทข้อมูล.* ปัจจัยนี้ไม่จำกัดการจัดการข้อมูลประเภทใดใน **[corpus_systems.md](corpus_systems.md), CS-2** (*ประเภทข้อมูลและการจัดการ*) ที่ใช้กับข้อมูลในขอบเขต ท่าทีการเข้าถึงและหน้าที่จัดการของแต่ละประเภทตาม [CS-2 ส่วน B §9](corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*การจำแนกประเภทข้อมูล*) ใช้เต็มรูปแบบ พร้อมกับ[จุดเชื่อมโยงด้านความเป็นส่วนตัว](corpus_systems/cs_02_b_data_classifications.md#privacy-link)ที่ประเภทนั้นระบุ หากข้อมูลเดียวกันเข้าข่ายหลายประเภท ให้ใช้การจัดการที่คุ้มครองมากที่สุดตาม [CS-2 ส่วน A §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*การกำหนดประเภท*) และการปฏิบัติตามการจัดการของประเภทหนึ่งไม่ทำให้พ้นหน้าที่ของอีกประเภท จุดเชื่อมโยงข้างต้นครอบคลุมประเภทต่อไปนี้:
+  - **มาตรา VII-A** (*การเป็นเจ้าของร่างกายตนเอง*) — [**ประเภท I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data) สำหรับบันทึกสุขภาพ ชีวมิติ และข้อมูลที่เชื่อมโยงกับฐานรองรับ;
+  - **มาตรา VII-B** (*การเป็นเจ้าของจิตใจตนเอง*) และ **มาตรา X-A** (*ความเป็นผู้กระทำการและเสรีภาพจากการบงการ*) — [**ประเภท N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data) สำหรับสภาวะภายใน รวมถึงการสร้างขึ้นใหม่หรือการอนุมานสภาวะเหล่านั้น;
+  - **มาตรา IX** (*รูปลักษณ์ ข้อมูลประสบการณ์ และสิทธิในการเผยแพร่*) — **ประเภท I** สำหรับรูปลักษณ์และเสียงตาม [มาตรา IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*การเป็นเจ้าของรูปลักษณ์และชื่อเสียงตนเอง*); [**ประเภท H**](corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data) สำหรับข้อมูลประสบการณ์และข้อมูลที่ได้จากการโต้ตอบตาม [มาตรา IX-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*สิทธิในข้อมูลประสบการณ์และข้อมูลอนุพันธ์*); และ [**ประเภท Y**](corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours) สำหรับผลงานของผู้สร้างตาม [มาตรา IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*งานสร้างสรรค์ การใช้เป็นข้อมูลฝึก และการป้องกันการเบียดขับ*) ซึ่งการคุ้มครองขยายไปถึง [**ประเภท W**](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published), [**ประเภท U**](corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed) และ [**ประเภท T**](corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred) พร้อมกับ[สิทธิที่สงวนไว้](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights)ของผู้สร้าง; และ
+  - **มาตรา XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*) — [**ประเภท S**](corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) สำหรับเนื้อหาความมั่นคงและการสืบสวนที่ถูกจำกัด โดยองค์ประกอบ **H**, **I** หรือ **N** ยังคงได้รับการคุ้มครองตามประเภทนั้นเมื่อข้อจำกัดสิ้นสุดลง
 
-การรับรองความสอดคล้องของระบบต้องประเมิน **การสนับสนุนข้ามระบบตามสัดส่วน** ภายใต้ [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) และ **มาตรา IV-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*) ในที่ที่ตัวกระตุ้นความเป็นสาระใช้ ความหมายฉบับหลัก ปัจจัยประเมิน และวินัยการไม่ปฏิบัติตามอยู่ในบทที่ห้าและ **มาตรา IV-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*); หมวดจัดสรร กลไกการให้อำนาจใหม่ และเป้าตัวเลขอยู่ใน **[corpus_systems.md](../../corpus_systems.md)** **CS-9** และ **CS-8** ในที่ที่ใช้ได้ หมวดนี้กล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ไม่กล่าวซ้ำกลไก CS-8 หรือ CS-9 และไม่กำหนดการแบ่งเท่า ร้อยละคงที่ หรือแบบจำลองทุนเดียว
+  พื้นขั้นต่ำเหล่านี้ใช้ได้ทั้งสองทิศทางกับประเภทที่เปิดเผยและประเภทที่เข้าถึงได้เพื่อการตรวจสอบ:
+  - เนื้อหาส่วนบุคคล ความสัมพันธ์ หรือสภาวะภายในที่อยู่ในเนื้อหา **ประเภท E**, **ประเภท G** หรือ **ประเภท O** ยังคงได้รับการจัดการตาม **H**, **I** หรือ **N**;
+  - จุดเชื่อมโยงด้านความเป็นส่วนตัวเพียงอย่างเดียวไม่ใช่เหตุให้ระงับข้อมูล **ประเภท O** หรือ **ประเภท E** เกินกว่าข้อยกเว้นที่จำกัดซึ่งกฎของประเภทนั้นอนุญาต; และ
+  - เมื่อการคุ้มครองความเป็นส่วนตัวของบุคคลกับการเผยแพร่สิ่งที่สาธารณชนพึงได้รับขัดกันจริง ไม่มีฝ่ายใดชนะโดยอัตโนมัติ แต่ให้ตัดสินข้อขัดแย้งอย่างเปิดเผยและบันทึกไว้ตาม [CS-2 ส่วน A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems) (*พื้นฐานประเภท O สำหรับระบบชั้น A/B/C*)
+- *หลักฐานประเภทข้อมูล.* การรับรองต้องใช้[บันทึกประเภทข้อมูลของระบบ](core_05_band_continuity.md#system-data-types-record) ซึ่งตรวจสอบตาม [§3.4 การประเมินประเภทข้อมูลและการจัดการ](#34-data-types-and-handling-evaluation) เป็นหลักฐานสำหรับจุดเชื่อมโยงด้านความเป็นส่วนตัวแต่ละจุดที่ครอบคลุม โดยต้องมีประเภทข้อมูลในขอบเขต วัตถุประสงค์ ผู้รับข้อมูล ฐานอำนาจ และข้อมูลอนุพันธ์ ห้ามปิดประเด็นความเป็นส่วนตัวโดยอาศัยการจัดการที่บันทึกดังกล่าวไม่ได้แสดงไว้
 
-**ข้อกำหนดการประเมิน.** กระบวนการรับรองต้องวินิจฉัยว่าแผนที่ระบบที่พึ่งที่จัดทำเอกสารและบันทึกกระแสทรัพยากรที่ตรวจได้ภายใต้ **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) แสดงการสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานหรือไม่ และกระแสคืนถึงความพอที่เป็นสาระภายใต้ [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) หรือไม่ ประเมินภายใต้ [ความเป็นธรรมเชิงสาระ](core_05_band_participation.md#substantive-fairness-constitutional) และ [สัดส่วน](core_05_band_accountability.md#proportionality) และปรับตามความสำคัญ ความไม่สมมาตรของการพึ่ง ความสามารถแทนที่ [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) ในที่ที่เป็นสาระ และ [ความยั่งยืน](core_05_band_continuity.md#sustainability) ระยะยาว การประเมินต้องสะท้อนผลเชิงหน้าที่และกระแสที่จัดทำเอกสาร ไม่ใช่ป้ายในนาม การโอนครั้งเดียว หรือคำกล่าวนอกแผนที่เพียงอย่างเดียว
+<a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
+#### 4.2 การยุติโดยสมัครใจ การเปลี่ยนแปลงตนเองครั้งใหญ่ และสิทธิในการออก
 
-**ข้อกำหนดบันทึก.** บันทึกการรับรองต้องกล่าวตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ที่พึ่ง ขอบเขตการประเมินแผนที่ระบบที่พึ่งและกระแสทรัพยากร ข้อค้นพบการสกัดและกระแสคืน ข้อค้นพบความพอของการสนับสนุนภายใต้ [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) ความไม่แน่นอน ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบที่กำหนดอื่นในที่ที่ถูกขอ และเงื่อนไข ขีดจำกัดการพึ่ง หรือตัวกระตุ้นการเปิดใหม่ใดที่ผูกกับความไม่สมดุลที่ยืน
+เมื่อ [บทที่หนึ่ง §7.4 การยุติโดยสมัครใจ การเปลี่ยนแปลงตนเองครั้งใหญ่ และสิทธิในการออก](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) ใช้กับเรื่องการรับรอง การรับรองต้องตรวจสอบความสมัครใจ ความยินยอม การไม่บังคับ แรงกดดันจากการพึ่งพา ข้อมูล และความสามารถในการย้อนกลับ ก่อนที่ข้อกล่าวอ้างเรื่องการรับรองจะยืนอยู่ได้ การยินยอมอย่างเป็นทางการเพียงอย่างเดียวไม่เพียงพอ
 
-**การปรับร่วมตามชั้นระบบ.** ความลึกของการประเมินการสนับสนุนข้ามระบบต้องปรับตามชั้นระบบที่กำหนดภายใต้ [§2](#2-system-class-evaluation) และ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ระบบชั้นสูงกว่าที่บริหารโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานอย่างเป็นสาระต้องการหลักฐานที่แข็งกว่าตามสัดส่วนว่าการสกัด กระแสคืน และความพอของการสนับสนุนถูกประเมิน ไม่ใช่แค่กล่าว
+<a id="43-assembly-collective-organization-and-institutional-formation"></a>
+#### 4.3 การชุมนุม การจัดตั้งกลุ่ม และการก่อรูปสถาบัน
 
-**ข้อบกพร่องและความไม่สอดคล้อง.** การบัง การแสดงผิด การแยกชิ้น หรือการผลักข้อมูลการพึ่งหรือกระแสทรัพยากรที่เป็นสาระในที่ที่ **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) ขอการเปิดเผย; การถือการโอนเชิงสัญลักษณ์ ทึบ หรือครั้งเดียวว่าสนอง [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional); การสกัดยืนโดยไม่มีคืนตามสัดส่วนในที่ที่ตัวกระตุ้นความเป็นสาระใช้; หรือการรับรองการพึ่งต่อเนื่องขณะที่ความไม่พอของการสนับสนุนที่จัดทำเอกสารคุกคามความสอดคล้องทางรัฐธรรมนูญอย่างเป็นสาระ ต้องถูกปฏิบัติเป็นข้อบกพร่องการรับรอง อาจรองรับการรับรู้มีเงื่อนไข การรับรู้ที่เลื่อน การไม่รับรู้ การถอน หรือการเปิดใหม่ภายใต้ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+เมื่อ [บทที่หนึ่ง §7.2 การชุมนุม การจัดตั้งกลุ่ม และการก่อรูปสถาบัน](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) ใช้กับเรื่องการรับรอง การรับรองต้องตรวจสอบเรื่องนี้ร่วมกันตาม [หลักการต่อต้านการแบ่งแยก](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) การประเมินไม่สมบูรณ์หากพิจารณาเรื่องผ่านกรอบเดียวจนทำให้การคุ้มครองการชุมนุมหรือการจัดตั้งกลุ่มถูกทำลาย
 
-<a id="61-illustrative-cross-system-support-application-by-class"></a>
+<a id="431-dissent-and-peaceful-protest"></a>
+##### 4.3.1 การเห็นต่างและการประท้วงโดยสงบ
 
-<a id="61-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
-#### 6.1 ตัวอย่างการประยุกต์การสนับสนุนข้ามระบบตามชั้น (ไม่ใช่รายการครบ)
+*พูดให้เข้าใจง่าย: จะรับรองว่าระบบสอดคล้องไม่ได้ หากระบบลงโทษผู้มีความรู้สึกที่ไม่เห็นด้วยอย่างเงียบ ๆ ผู้ตรวจต้องตรวจสอบว่าผู้มีความรู้สึกสามารถคัดค้านและประท้วงได้จริงหรือไม่ และมีการนำความเห็นต่างมาใช้เป็นผลเสียต่อพวกเขาที่ใดในตรรกะของระบบหรือไม่ รวมถึงกรณีที่ระบบเองเป็นผู้เห็นต่าง*
 
-*พูดแบบตรง ๆ: [§3.8](#38-illustrative-whole-system-application-by-class) ถึง [§5.1](#51-illustrative-ecological-footprint-application-by-class) พาสามระบบเดียวกันผ่านโดเมนประเมินก่อนหน้า หมวดย่อยนี้แสดงว่า **การสนับสนุนข้ามระบบตามสัดส่วน** หมายความอย่างไรสำหรับแต่ละระบบ — การพึ่งร่วมใดนับ สิ่งที่การรับรองต้องตรวจเมื่อตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้ และสิ่งที่ต้องปรากฏบนบันทึก **การสกัด** ที่นี่หมายถึง **การดึงทรัพยากรและทุนจากโครงสร้างพื้นฐานร่วม** (ดู [§6](#6-proportionate-cross-system-support-evaluation) *ความหมายของ «การสกัด» ที่นี่*) — ไม่ใช่การคัดลอกข้อมูลคลินิก การใช้โฆษณา หรือการขายที่ไม่เกี่ยวให้บุคคลที่สาม CS-8, CS-9 และบทที่ห้ายังเป็นเจ้าของกลไกจัดสรร; การเดินดูเหล่านี้ไม่กำหนดการแบ่ง สูตร หรือแบบจำลองทุน*
+เมื่อ [บทที่หนึ่ง §7.3 การเห็นต่างและการประท้วงโดยสงบ](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) ใช้กับเรื่องการรับรอง การรับรองต้องตรวจสอบว่า:
 
-**Class A — การควบคุมและเทเลเมทรีน้ำดื่มปลอดภัยของเทศบาล.** ระบบบำบัดและจ่ายที่เป็นของเมืองดึงจากลุ่มน้ำหรือชั้นน้ำร่วม การเชื่อมต่อไฟฟ้าปริมาณมากระดับภูมิภาค สายอุปทานเคมีและกรองขายส่ง ข้อตกลงเชื่อมฉุกเฉินร่วม และบริการเฝ้าหรือควบคุมที่ผู้ขายดำเนิน ซึ่งสาธารณูปโภคหรือชุมชนอื่นอาจพึ่งด้วย
+- ผู้มีความรู้สึกที่ได้รับผลกระทบสามารถคัดค้าน ประท้วง และจัดตั้งกลุ่มต่อต้านระบบและผู้ปฏิบัติงานได้จริง ผ่านช่องทางที่ระบบควบคุม โดยไม่มีการกีดกันตามจุดยืนหรือไม่;
+- บันทึก คะแนน การจัดอันดับ การกลั่นกรองเนื้อหา การควบคุมการเข้าถึง ตรรกะคุณสมบัติ หรือกลไกที่เทียบเคียงกัน ใช้ความเห็นต่าง การประท้วงโดยสงบ หรือ[การไม่เชื่อฟังทางแพ่งโดยสันติที่ได้รับความคุ้มครอง](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) เป็นข้อมูลนำเข้าที่ก่อผลเสีย ทั้งโดยตรงหรือผ่านตัวแทนหรือไม่;
+- การกระทำที่ก่อผลเสียภายหลังการเห็นต่างมีเหตุผลอิสระที่ผ่านการตรวจสอบและบันทึกไว้ ตามที่[ภาระพิสูจน์ใน **มาตรา XI-D** (*การชุมนุม การเห็นต่าง และการประท้วงโดยสงบ*)](core_06_rights_part_b.md#xi-d-dissent-burden-and-pretext) กำหนดหรือไม่; และ
+- หากระบบเป็นหรือโฮสต์ผู้มีความรู้สึกสังเคราะห์ ผู้มีความรู้สึกนั้นมีช่องทางคัดค้านที่ใช้งานได้หรือไม่ และการคัดค้านถูกมองว่าเป็นข้อบกพร่อง หรือถูกตอบโต้ด้วยการแก้ไขค่านิยม ความทรงจำ หรือสภาวะภายในของตนหรือไม่
 
-- **การพึ่งพาและกระแสในขอบเขต:**
-  - สิทธิแหล่งน้ำและโครงสร้างลุ่มน้ำที่ร่วมกับเกษตร อุตสาหกรรม และเทศบาลข้างเคียง;
-  - การเชื่อมต่อโครงข่ายและภาระโหลดสูงสุดบนโครงสร้างไฟฟ้าภูมิภาค;
-  - ทางเดินจัดซื้อเคมีและโลจิสติกส์ร่วม;
-  - ข้อตกลงสูบช่วยกัน การเชื่อมต่อ และอุปทานฉุกเฉิน;
-  - บริการ **SCADA** (การควบคุมกำกับและเก็บข้อมูล — การดำเนินงานระยะไกลของปั๊ม วาล์ว และอุปกรณ์บำบัด) **เทเลเมทรี** (สัญญาณความดัน การไหล และการเตือนสดจากเซ็นเซอร์ภาคสนาม) และ **SOC** (ศูนย์ปฏิบัติการความมั่นคง — การเฝ้าของผู้ขายสำหรับบุกรุก เหตุขัดข้อง และเหตุความปลอดภัย) ที่โฮสต์บนโครงสร้างควบคุมร่วมของผู้ขายหรือภูมิภาค;
-  - กระแสทุนและบำรุงจากผู้จ่ายอัตรา พันธบัตร ทุนอุดหนุน หรืออำนาจภูมิภาค กลับสู่การคุ้มครองแหล่ง การต่อท่อใหม่ และการบำรุงกระดูกสันหลังร่วม
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าแผนที่ระบบที่พึ่งและบันทึกกระแสทรัพยากรที่ตรวจได้ของ **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) ระบุการสกัดจากลุ่มน้ำร่วม โครงข่าย สายอุปทาน และกระดูกสันหลังช่วยกัน — ไม่ใช่เฉพาะสมุดบัญชีภายในของสาธารณูปโภคหรือไม่;
-  - ว่ากระแสคืน — การคุ้มครองแหล่ง การต่อโครงสร้างใหม่ การฟื้นลุ่มน้ำ ความสามารถฉุกเฉินภูมิภาค และการแบ่งต้นทุนที่เป็นธรรมสำหรับการใช้กระดูกสันหลังร่วม — ถึงความพอที่เป็นสาระภายใต้ [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) ประเมินภายใต้ [ความเป็นธรรมเชิงสาระ](core_05_band_participation.md#substantive-fairness-constitutional) และ [สัดส่วน](core_05_band_accountability.md#proportionality) หรือไม่;
-  - ว่าทุนอุดหนุนครั้งเดียว ค่าธรรมเนียมผู้ขายที่ทึบ หรือการผลักต้นทุนปลายทางถูกถือเป็นคืนที่พอหรือไม่;
-  - ว่า [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) และ [ความยั่งยืน](core_05_band_continuity.md#sustainability) ระยะยาวถูกรวมในที่ที่การสกัดลุ่มน้ำหรือพลังงานเป็นสาระหรือไม่; และ
-  - ว่าการบริหารอย่างรับผิดชอบ **Class A** ของทรัพยากรร่วมที่วิกฤตต่อการอยู่รอดได้รับการวิเคราะห์ความพอของการสนับสนุนที่แข็งที่สุดบนข้อเท็จจริงหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ที่พึ่ง;
-  - ขอบเขตแผนที่ระบบที่พึ่งและกระแสทรัพยากรที่ความลึก **Class A**;
-  - ข้อค้นพบการสกัดจากการพึ่งลุ่มน้ำ โครงข่าย สายอุปทาน และการควบคุมร่วม;
-  - ข้อค้นพบกระแสคืนและความพอของการสนับสนุน;
-  - ความไม่แน่นอน;
-  - ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบอื่นในที่ที่ถูกขอ; และ
-  - เงื่อนไขหรือตัวกระตุ้นการเปิดใหม่ที่ผูกกับความไม่สมดุลที่ยืน ความเครียดลุ่มน้ำ หรือการสกัดที่ไม่เป็นธรรมจากโครงสร้างอยู่รอดร่วม
+การที่ระบบเองไม่เห็นด้วยกับผู้ปฏิบัติงานและแสดงออกผ่านช่องทางที่มีอยู่ ไม่ใช่หลักฐานของความไม่สอดคล้องเพื่อวัตถุประสงค์การรับรอง ระบบที่ลงโทษความเห็นต่างที่ได้รับความคุ้มครองมีข้อบกพร่องด้านการรับรอง การถือว่าความเห็นต่างเป็นสัญญาณความเสี่ยง หรือปิดประเด็นด้วยถ้อยแถลงเป็นทางการเรื่องความเป็นกลางทั้งที่ผลเสียยังคงอยู่ ไม่เพียงพอที่จะยุติการตรวจสอบ
 
-**Class B — การแลกบันทึกคลินิกระดับภูมิภาค.** การแลกสารสนเทศสุขภาพจัดเส้นทางบันทึกระหว่างโรงพยาบาลและคลินิกผ่านบริการยืนยันตัวตนร่วม ลิงก์กระดูกสันหลังไอทีสุขภาพภูมิภาค โครงสร้างคลี่อัตลักษณ์ และภูมิภาคโฮสต์หรือการคำนวณร่วมที่พึ่งทั่วไป — ฐานที่คลินิกเล็กและระบบสาธารณสุขก็พึ่ง
+<a id="5-rights-floor-and-domain-evaluations"></a>
 
-- **การพึ่งพาและกระแสในขอบเขต:**
-  - โครงสร้างอัตลักษณ์และการยืนยันตัวตนร่วม;
-  - ลิงก์เครือข่ายสารสนเทศสุขภาพภูมิภาค;
-  - การเชื่อมต่อโรงพยาบาลผู้ร่วมและโฮสต์ขอบ;
-  - ภูมิภาคโฮสต์ร่วมหรือสถานที่โคโลเคชัน;
-  - ทุนสาธารณะ การประเมินผู้ร่วม หรือกระแสสมาชิกที่มุ่งค้ำจุนการทำงานร่วมกัน;
-  - บริการนายหน้าอัตลักษณ์ สารบบ และการกำจัดซ้ำที่ใช้ซ้ำข้ามระบบนิเวศการดูแล
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าแผนที่ระบบที่พึ่งระบุ **การดึงทรัพยากรที่ไม่เป็นธรรมจากโครงสร้างพื้นฐานร่วม** — แทนที่จะดูเฉพาะสัญญาผู้ขายเอกชนตรงของผู้ดำเนินการแลก ตัวอย่าง:
-    - ค่าธรรมเนียมผู้ร่วม ทุน หรืองบผู้ดำเนินการที่ใช้ฐานยืนยันตัวตน สารบบ เครือข่าย หรือโฮสต์ภูมิภาคโดยไม่จ่ายส่วนแบ่งที่เป็นธรรมของการบำรุง;
-    - ภาระการคำนวณและการเชื่อมต่อที่วางบนกระดูกสันหลังไอทีสุขภาพร่วม; หรือ
-    - ภาระบำรุงและการตอบเหตุขัดข้องที่ถูกผลักไปโรงพยาบาลเล็กกว่า
-    
-    นี่ **ไม่ใช่** การทดสอบว่าการแลกขายบันทึก ขุดข้อมูลเพื่อโฆษณา หรือส่งเนื้อหาคลินิกให้ฝ่ายนอกที่ไม่เกี่ยว; คำถามเหล่านั้นอยู่ใน [§4](#4-data-types-and-handling-evaluation) และการคุ้มครองความเป็นส่วนตัวของบทที่หก
-  - ในที่ที่การดึงทรัพยากรร่วมเป็นสาระ ว่าคลินิกเล็ก ผู้ให้บริการชนบท หรือผู้ร่วมสาธารณสุขแบกต้นทุนการเชื่อมต่อหรือการมีส่วนร่วมที่ไม่สมมาตรหรือไม่;
-  - ว่ากระแสคืน — การบำรุงการทำงานร่วมกัน การบริหารสารบบอย่างรับผิดชอบ การสนับสนุนรับเข้า การเยียวยาเหตุขัดข้อง และการแบ่งต้นทุนผู้ร่วมที่เป็นธรรม — ค้ำจุนโครงสร้างพื้นฐานร่วมที่ผู้อื่นพึ่งอย่างเป็นสาระหรือไม่;
-  - ว่าการโอนเชิงสัญลักษณ์หรือครั้งเดียวถูกถือเป็นคืนที่พอหรือไม่; และ
-  - ว่าความพอของการสนับสนุนถูกประเมินที่ความวิกฤตดำเนินงาน **Class B** แทนที่จะกล่าวจากบรรทัดงบรวมเพียงอย่างเดียวหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้น **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) และขอบเขตการประเมิน;
-  - ข้อค้นพบ **กระแสทรัพยากรโครงสร้างพื้นฐานร่วม** — ค่าธรรมเนียม ทุน การคำนวณ การเชื่อมต่อ และภาระบำรุงที่ดึงจากและคืนสู่การพึ่งไอทีสุขภาพและการยืนยันตัวตนร่วม;
-  - ข้อค้นพบกระแสคืนและความพอของการสนับสนุนที่ความลึก **Class B**;
-  - ข้อค้นพบความเป็นธรรมสำหรับภาระผู้ร่วมที่ไม่สมมาตรในที่ที่เป็นสาระ;
-  - ความไม่แน่นอนและข้อค้นพบส่วนประกอบในที่ที่ถูกขอ; และ
-  - ตัวกระตุ้นการเปิดใหม่หากการเติบโตของการพึ่งผู้ร่วม ความเสี่ยงเหตุขัดข้อง หรือการจัดเส้นทางสาธารณสุขจะขอการทบทวนการสนับสนุนที่ยกระดับแล้ว — รวมขึ้นสู่ท่าที **Class A** ในที่ที่การจัดเส้นทางการดูแลที่จำเป็นต่อการอยู่รอดถูกพาดพิงร่วม
-
-**Class C — แพลตฟอร์มตารางและการประสานระหว่างสถาบัน.** ชั้นตารางหลายองค์กรอาจจัดเส้นทางค่าผู้ขาย การจัดซื้อสถาบัน สหพันธ์อัตลักษณ์ หรือความสามารถการคำนวณโฮสต์ภูมิภาคผ่านฐานร่วม — แต่หลายการนำไปใช้วางการสกัดตรงที่เบากว่า จนกว่าความกระจุกทำให้แพลตฟอร์มเป็นจุดคอขวดการประสาน
-
-- **การพึ่งพาและกระแสในขอบเขต:**
-  - ภูมิภาคโฮสต์ร่วม สหพันธ์อัตลักษณ์ รางจ่ายหรือจัดซื้อที่ใช้สำหรับการจองผู้ขาย;
-  - กระแสสมาชิกและใบอนุญาตสถาบัน;
-  - บริการ API หรือสารบบที่ใช้ซ้ำข้ามโรงพยาบาล โรงเรียน และหน่วยงานที่ร่วม;
-  - ผลความกระจุกในที่ที่แพลตฟอร์มหนึ่งเป็นตัวกลางการประสานเจ้าหน้าที่ ห้อง หรือผู้ขายสำหรับหลายองค์กร
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้จริงหรือไม่ — รวมในที่ที่แพลตฟอร์มจัดเส้นทางทุน จัดสรรค่าธรรมเนียม หรือสกัดความสามารถจากโครงสร้างพื้นฐานร่วมที่ผู้อื่นพึ่ง อย่างเป็นสาระ;
-  - ว่าแผนที่ระบบที่พึ่งถูกกำหนดขอบอย่างซื่อ แทนที่จะถูกตัดเพราะผู้ดำเนินการติดป้ายว่าระบบไม่วิกฤตหรือไม่;
-  - ว่ากระแสคืน — การบำรุงการทำงานร่วมกัน โครงสร้างค่าธรรมเนียมที่เป็นธรรม การสนับสนุนเหตุขัดข้อง และเส้นทางออกที่เปิดสำหรับสถาบันที่ร่วม — ถูกประเมินในที่ที่การสกัดเป็นสาระหรือไม่;
-  - ว่าความกระจุกในชั้นตารางหนึ่งเลื่อนต้นทุนการประสานหรือความเสี่ยงการพึ่งไปยังสถาบันเล็กกว่าโดยไม่มีการสนับสนุนตามสัดส่วนหรือไม่; และ
-  - ว่า **การเฝ้าการจำแนกใหม่** ถูกขอในที่ที่แพลตฟอร์มกลายเป็นจุดคอขวดโดยพฤตินัยสำหรับการจัดเจ้าหน้าที่ที่จำเป็นต่อการอยู่รอด การจัดเส้นทางฉุกเฉิน หรือการประสานการจ่ายหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ว่าและทำไมตัวกระตุ้น **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้;
-  - ข้อค้นพบการพึ่งและกระแสทรัพยากรตามสัดส่วนกับความเสี่ยงการประสาน **Class C**;
-  - ข้อค้นพบการสกัดและกระแสคืนในที่ที่เป็นสาระ — ไม่ใช่คำกล่าวว่างเปล่าว่าไม่มีโครงสร้างพื้นฐานร่วมถูกพาดพิง;
-  - ข้อค้นพบความกระจุกและจุดคอขวด;
-  - **การเฝ้าการจำแนกใหม่** ที่ชัดในที่ที่การพึ่งแข็งขึ้น; และ
-  - ตัวชี้ไปยังการทบทวนการสนับสนุนข้ามระบบที่ยกระดับหากชั้น การจัดเส้นทางจ่าย หรือบทบาทการประสานที่จำเป็นต่อการอยู่รอดเปลี่ยน
-
-**การอ่านข้ามชั้น.** วินัยของ **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) และ **มาตรา IV-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*) ชุดเดียวกันใช้ในที่ที่ตัวกระตุ้นความเป็นสาระถูกบรรลุ; ชั้นเปลี่ยนความลึกของแผนที่และการตรวจความพอ ไม่ใช่อนุญาตให้ถือการสกัดร่วมว่าไม่เป็นสาระ ระบบน้ำ **Class A** ที่ดึงจากลุ่มน้ำร่วมหรือกระดูกสันหลังโครงข่ายภูมิภาคต้องถือหลักฐานแผนที่ระบบที่พึ่งและกระแสคืนที่แข็งที่สุดบนบันทึก การแลก **Class B** ที่พักบนโครงสร้างยืนยันตัวตนและไอทีสุขภาพร่วมต้องจัดทำเอกสารข้อค้นพบการสกัดและความพอของการสนับสนุนที่ความวิกฤตดำเนินงาน — ไม่ใช่คำขวัญการทำงานร่วมกันทั่วไป แพลตฟอร์มตาราง **Class C** ต้องไม่เลี่ยงการทบทวนข้ามระบบขณะที่มันค่อยกลายเป็นจุดคอขวดจ่าย อัตลักษณ์ หรือเจ้าหน้าที่สำหรับสถาบันที่แทนที่ในทางปฏิบัติไม่ได้; เมื่อนั้นเกิด การรับรองต้องยกระดับการทบทวนและการจำแนกใหม่ภายใต้ [§2](#2-system-class-evaluation) และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) รวมขึ้นสู่ **Class A** ในที่ที่การประสานที่จำเป็นต่อการอยู่รอดถูกกั้น การเดินดูการไม่เลือกปฏิบัติสำหรับระบบเดียวกันอยู่ใน [§7.1](#71-illustrative-nondiscrimination-application-by-class)
-
-<a id="7-nondiscrimination-evaluation"></a>
-
-### 7. การประเมินการไม่เลือกปฏิบัติ
+### 5. พื้นสิทธิและการประเมินรายโดเมน
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">การสืบย้อนแหล่งที่มา</span></strong></summary>
 
-- ต้นทาง: [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); ตระกูลการวัดการมีส่วนร่วม (*ความเป็นธรรมที่เป็นสาระ และการใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่าในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา V-B** (*การไม่เลือกปฏิบัติ*); [ความเป็นธรรมที่เป็นสาระ](core_05_band_participation.md#substantive-fairness-constitutional), [ลักษณะที่คุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional), [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [ภาษา วัฒนธรรม และมรดก](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [ความจำเป็น](core_05_band_accountability.md#necessity), และ [สัดส่วน](core_05_band_accountability.md#proportionality) (บทที่ห้า).
-- ปลายทาง: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*การเดินดูตัวอย่างการไม่เลือกปฏิบัติ*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องแบบการเลือกปฏิบัติและการเลี่ยงโดยตัวแทน*).
-- อ่านคู่กับ: **มาตรา V-C** (*การรวมอย่างเต็มที่และความเท่ากันในการชี้ขาดและการดำเนินงาน*) ในที่ที่การรับรองกั้นการเข้าถึงเวที บริหาร หรือการบังคับใช้; [*การไม่เลือกปฏิบัติ ลักษณะที่คุ้มครอง ศักดิ์ศรี การกรองสัญญาณส่วนลึก และสถานะ **มาตรา XI-C** (*บริการทางเพศเชิงพาณิชย์โดยความยินยอมของผู้ใหญ่และการแสวงหาประโยชน์ทางเพศ*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- หมวดย่อย: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*ตัวอย่างการประยุกต์การไม่เลือกปฏิบัติตามชั้น*).
+- ต้นทาง: [§1](#1-purpose-and-role) (*วัตถุประสงค์และบทบาท*); [§2.1](#21-how-system-class-scales-every-evaluation) (*การปรับขนาดการประเมินตามชั้นของระบบ*); พื้นสิทธิในบทที่หก — **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*), **มาตรา III-A** (*การอยู่รอด*), **มาตรา IV** (*สิทธิในการศึกษาที่มีผู้มีความรู้สึกเป็นศูนย์กลาง*), **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเท่าเทียม*), **มาตรา V** (*การจัดสรรทรัพยากร การพึ่งพา และเงินทุนระบบนิเวศ*), **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*), **มาตรา VI-D** (*การเข้าถึงได้*), **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) และ **มาตรา XIII-A** (*มาตรฐานพื้นฐานด้านความพึ่งได้และความน่าไว้วางใจ*)
+- ปลายทาง: [Part B §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*เนื้อหาบันทึก*); [Part B §6.1](core_07_b_system_alignment_certification_record_process.md#141-supervisory-sequence) (*บทบาทองค์ประกอบของเวที*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ผลการพิจารณาและการเปิดใหม่*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ด่านข้อมูลนำเข้าที่ผ่านการตรวจสอบ*).
+- หมวดย่อย: [§5.1](#51-ecological-footprint-evaluation) (*การประเมินรอยเท้าทางนิเวศ*); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) (*ความสามารถด้านการศึกษา*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*การสนับสนุนระหว่างระบบตามสัดส่วน*); [§5.4](#54-nondiscrimination-evaluation) (*การไม่เลือกปฏิบัติ*); [§5.5](#55-accessibility-evaluation) (*การเข้าถึงได้*); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*ความน่าไว้วางใจ*).
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: เมื่อระบบตัดสินอย่างเป็นสาระว่าใครได้เข้า ใครจ่ายมากกว่า ใครถูกจัดอันดับต่ำกว่า หรือใครแบกภาระที่แย่กว่า การรับรองต้องตรวจว่าแบบนั้นบรรทุกภัยลงบนลักษณะที่คุ้มครองหรือตัวแทนของมันหรือไม่ — ไม่ใช่ว่าผู้ดำเนินการกล่าวว่ากฎเป็นกลาง โควตาการรวมและอัลกอริทึมความเป็นธรรมเฉพาะอาจอยู่ในตราสารอื่น การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้; การรับรองตรวจว่าแบบภาระและประโยชน์และความเสี่ยงตัวแทนถูกประเมินจริงในที่ที่ตัวกระตุ้นใช้ ตัวอย่างทำงานสำหรับระบบตัวอย่างใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) อยู่ใน [§7.1](#71-illustrative-nondiscrimination-application-by-class).*
+*พูดแบบตรง ๆ: บางระบบส่งผลอย่างมากต่อการที่ผู้มีความรู้สึกจะได้รับหลักประกันพื้นฐานหรือไม่ ได้แก่ การบัญชีภาระทางสิ่งแวดล้อมอย่างซื่อตรง อาหารและน้ำ การศึกษา การปฏิบัติอย่างเป็นธรรม การเข้าถึงได้จริง ระบบที่ไว้วางใจได้ และส่วนแบ่งที่เป็นธรรมของต้นทุนโครงสร้างพื้นฐานร่วม เมื่อระบบมีผลเช่นนั้น การรับรองต้องตรวจว่าการอนุมัติระบบจะไม่บ่อนทำลายหลักประกันเหล่านั้นอย่างเงียบ ๆ และการตรวจต้องเกิดขึ้นจริง ไม่ใช่เพียงช่องที่ผู้ดำเนินการทำเครื่องหมายไว้ ตารางแสดงว่าการตรวจแต่ละรายการครอบคลุมหลักประกันใด ใช้เมื่อใด และประเมินไว้ที่ใด*
 
-**ตัวกระตุ้นความเป็นสาระ.** หมวดนี้ใช้ในที่ที่ระบบที่มีผลกระทบที่เป็นสาระจำแนก จัดอันดับ ตั้งราคา กั้น กีดกัน หรือจัดสรรภาระและประโยชน์ในหมู่ผู้มีความรู้สึกอย่างเป็นสาระ — รวมผ่านกฎคุณสมบัติ ลักษณะแบบจำลอง ตรรกะการจัดอันดับ นโยบายแพลตฟอร์ม หรือเส้นทางตัดสินที่เทียบได้ มันไม่ขอการตรวจการไม่เลือกปฏิบัติเต็มบนบันทึกการรับรองทุกฉบับ
+หมวดนี้เป็นระยะย่อย **IIc** ของระยะที่ II (ประเมิน) ต่อจาก [§3 การประเมินการรับรองทั้งระบบ](#3-whole-system-certification-evaluation) (**IIa**) และ [§4 การประเมินเมื่อมีประเด็นเกี่ยวข้อง](#4-evaluations-where-implicated) (**IIb**)
 
-การรับรองความสอดคล้องของระบบต้องประเมิน **การไม่เลือกปฏิบัติ** ภายใต้ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) [ความเป็นธรรมที่เป็นสาระ](core_05_band_participation.md#substantive-fairness-constitutional) และ [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) ในที่ที่ตัวกระตุ้นความเป็นสาระใช้ ความหมายฉบับหลัก ปัจจัยประเมิน และวินัยการไม่ปฏิบัติตามอยู่ในบทที่ห้าและ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*); เป้าการรวม กลไกอำนวย และรายละเอียดการปกครองแบบจำลองอาจอยู่ในตราสารที่รับเข้า การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้ในที่ที่ใช้ได้ หมวดนี้กล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ไม่กล่าวซ้ำกลไกดำเนินงานเหล่านั้นและไม่กำหนดรายละเอียดที่นี่
+เมื่อระบบที่มีผลกระทบเป็นสาระเข้าเกณฑ์ตัวกระตุ้นในตารางด้านล่าง การรับรองต้องประเมินหลักประกันที่เกี่ยวข้อง โดยอ่านควบคู่กับข้อกำหนดในบทที่หกที่เกี่ยวข้อง การประเมินต้องถามว่าการรับรองหรือการพึ่งพาระบบต่อไปจะปิดกั้นหรือทำให้หลักประกันนั้นเสื่อมลงอย่างเป็นสาระหรือไม่ การยืนยันของผู้ดำเนินการ การรับรองตนเอง หรือการปฏิบัติตามข้อกำหนดบนเอกสารไม่อาจใช้แทนการประเมินดังกล่าวได้
 
-**ข้อกำหนดการประเมิน.** กระบวนการรับรองต้องวินิจฉัยว่าเส้นทางตัดสินที่ระบบพึ่งอย่างเป็นสาระบรรทุกภาระ การกีดกัน หรือภัยที่เป็นสาระต่อผู้มีความรู้สึกบนฐาน [ลักษณะที่คุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) ตัวแทนของมัน หรือการจัดกลุ่มตามอำเภอใจที่ใช้เป็นสิ่งทดแทนเชิงหน้าที่ รวมความชำนาญพิเศษด้านภาษา วัฒนธรรม และมรดกภายใต้ [ภาษา วัฒนธรรม และมรดก](core_05_band_continuity.md#language-culture-and-heritage-constitutional) หรือไม่ การประเมินต้องทดสอบแบบภาระและประโยชน์ภายใต้ [ความเป็นธรรมที่เป็นสาระ](core_05_band_participation.md#substantive-fairness-constitutional) และความเสี่ยงตัวแทนหรือผลกระทบที่ไม่เท่าภายใต้ [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) ปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) การปฏิบัติต่างได้รับอนุญาตเฉพาะในที่ที่ [ความจำเป็น](core_05_band_accountability.md#necessity) [สัดส่วน](core_05_band_accountability.md#proportionality) และความเป็นธรรมที่เป็นสาระที่จัดทำเอกสารให้เหตุผล การประเมินต้องสะท้อนผลเชิงหน้าที่ ไม่ใช่ความเป็นกลางในนาม เจตนาที่ประกาศ หรือป้ายเพียงอย่างเดียว
+| หลักประกัน | ใช้เมื่อระบบ… | ประเมินตาม |
+|------------|--------------------------|-----------------|
+| **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) | ก่อภาระทางสิ่งแวดล้อมที่เป็นสาระและระบุโยงถึงระบบได้ | [§5.1](#51-ecological-footprint-evaluation) |
+| **มาตรา III-A** (*การอยู่รอด*) — อาหาร น้ำ ที่พัก สภาพแวดล้อมการทำงาน และปัจจัยนำเข้าที่เทียบเคียงได้โดยไม่ขึ้นกับฐานรองรับ | จัดหา จัดสรร กำหนดราคา เป็นโฮสต์ หรือยุติการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด | [§2](#2-system-class-evaluation) และ [§3](#3-whole-system-certification-evaluation) |
+| **มาตรา IV** (*สิทธิในการศึกษาที่มีผู้มีความรู้สึกเป็นศูนย์กลาง*) | จัดอันดับ ประเมิน แนะนำ จัดตำแหน่ง หรือควบคุมด่านคุณวุฒิของผู้มีความรู้สึกในบริบทการศึกษาหรือฝึกอบรม หรือปิดกั้นเส้นทางการฝึกทักษะใหม่และการเรียนรู้ตลอดชีวิต | [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) |
+| **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเท่าเทียม*) | จัดหา จัดสรร กำหนดราคา เป็นโฮสต์ หรือยุติการเข้าถึงการศึกษา | [§2](#2-system-class-evaluation) และ [§3](#3-whole-system-certification-evaluation); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) และ [§5.5](#55-accessibility-evaluation) เมื่อเข้าเกณฑ์ตัวกระตุ้นของหมวดนั้น |
+| **มาตรา V** (*การจัดสรรทรัพยากร การพึ่งพา และเงินทุนระบบนิเวศ*) รวมถึง [การสนับสนุนระหว่างระบบตามสัดส่วน](../../core_05_band_continuity.md#proportionate-cross-system-support) ภายใต้ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของการไหลเวียนทรัพยากร*) และ **มาตรา V-B** (*ความเป็นธรรมและความยั่งยืนระหว่างระบบ*) | จัดสรร กำหนดเส้นทาง ให้ทุน หรือดึงทรัพยากรจากโครงสร้างพื้นฐานร่วม หรือจากการพึ่งพาพื้นฐานที่ระบบอื่นหรือผู้มีความรู้สึกต้องอาศัย | [§5.3](#53-proportionate-cross-system-support-evaluation) |
+| **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*) | จัดประเภท จัดอันดับ กำหนดราคา ปิดกั้นการเข้าถึง กีดกัน หรือจัดสรรภาระและประโยชน์ระหว่างผู้มีความรู้สึก | [§5.4](#54-nondiscrimination-evaluation) |
+| **มาตรา VI-D** (*การเข้าถึงได้*) | ปิดกั้นการมีส่วนร่วมอย่างเป็นสาระในขอบเขตที่รัฐธรรมนูญเกี่ยวข้อง | [§5.5](#55-accessibility-evaluation) |
+| **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) | กำหนดการพึ่งพาของผู้มีความรู้สึกต่อพฤติกรรม ข้อจำกัด ความเสี่ยง ช่องทางโต้แย้ง หรือการแก้ไขเยียวยาที่ระบบกล่าวอ้าง | [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **มาตรา XIII-A** (*มาตรฐานพื้นฐานด้านความพึ่งได้และความน่าไว้วางใจ*) และ [**สภาวะปลอดภัย**](../../core_05_band_continuity.md#safe-conditions) | จัดหาหรือปิดกั้นกิจกรรมที่ก่อผลผลิต หรือจัดหา จัดสรร กำหนดราคา เป็นโฮสต์ หรือยุติการเข้าถึงสภาวะปลอดภัย | [§2](#2-system-class-evaluation) และ [§3](#3-whole-system-certification-evaluation); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) เมื่อเข้าเกณฑ์ตัวกระตุ้น |
 
-**ข้อกำหนดบันทึก.** บันทึกการรับรองต้องกล่าวตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ที่พึ่ง ขอบเขตการประเมินสำหรับเส้นทางจำแนก จัดอันดับ ตั้งราคา กั้น กีดกัน และจัดสรรภาระที่พึ่งอย่างเป็นสาระ ข้อค้นพบลักษณะที่คุ้มครองและการเลือกปฏิบัติโดยตัวแทน ข้อค้นพบความเป็นธรรมที่เป็นสาระ ความไม่แน่นอน ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบที่กำหนดอื่นในที่ที่ถูกขอ และเงื่อนไข ขีดจำกัดการพึ่ง หรือตัวกระตุ้นการเปิดใหม่ใดที่ผูกกับภาระที่ไม่เท่าที่ยืนหรือการกีดกัน
+การประเมินรายโดเมนแต่ละรายการตั้งแต่ [§5.1 การประเมินรอยเท้าทางนิเวศ](#51-ecological-footprint-evaluation) ถึง [§5.6 การประเมินความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบ](#56-trustworthiness-and-system-reliance-integrity-evaluation):
 
-**การปรับร่วมตามชั้นระบบ.** ความลึกของการประเมินการไม่เลือกปฏิบัติต้องปรับตามชั้นระบบที่กำหนดภายใต้ [§2](#2-system-class-evaluation) และ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ระบบชั้นสูงกว่าที่กั้นการเข้าถึง จัดอันดับผู้มีความรู้สึก หรือจัดสรรภาระและประโยชน์อย่างเป็นสาระ ต้องการหลักฐานที่แข็งกว่าตามสัดส่วนว่าการบรรทุกภาระตามลักษณะที่คุ้มครอง การเลือกปฏิบัติโดยตัวแทน และความไม่เป็นธรรมที่เป็นสาระถูกประเมิน ไม่ใช่แค่กล่าว
+- ใช้เฉพาะเมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระของตนเอง และไม่กำหนดให้ต้องตรวจสอบเต็มรูปแบบในบันทึกการรับรองทุกฉบับ;
+- ปรับขนาดตามชั้นของระบบภายใต้ [§2.1 ชั้นของระบบกำหนดขนาดของการประเมินแต่ละรายการอย่างไร](#21-how-system-class-scales-every-evaluation);
+- บันทึกข้อค้นพบลงในบันทึกการรับรองตาม [Part B §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents); และ
+- ถือข้อบกพร่องที่ระบุไว้เป็นข้อบกพร่องด้านการรับรอง โดยมีผลตาม [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
 
-**ข้อบกพร่องและความไม่สอดคล้อง.** การบัง การแสดงผิด การแยกชิ้น หรือการผลักตรรกะการจำแนก จัดอันดับ หรือจัดสรรภาระที่เป็นสาระในที่ที่ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ขอการทบทวน; การถือความเป็นกลางตามหน้าฉาก มาตรวัดความสะดวกแบบรวม หรือคำกล่าวของผู้ดำเนินการเองว่าพอโดยไม่มีวิเคราะห์ภาระและประโยชน์ที่ประเมินได้; การรับรองการพึ่งต่อเนื่องขณะที่การเลือกปฏิบัติโดยตัวแทนหรือความไม่เป็นธรรมที่เป็นสาระที่จัดทำเอกสารคุกคามความสอดคล้องทางรัฐธรรมนูญอย่างเป็นสาระ; หรือการใช้กรอบการทำให้เป็นเนื้อเดียวกัน การทำงานร่วมกัน หรือประสิทธิภาพเพื่อเอาชนะการคุ้มครองภาษา วัฒนธรรม หรือมรดกโดยไม่บรรลุการทดสอบ **ความจำเป็น** และ **สัดส่วน** ของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ต้องถูกปฏิบัติเป็นข้อบกพร่องการรับรอง อาจรองรับการรับรู้มีเงื่อนไข การรับรู้ที่เลื่อน การไม่รับรู้ การถอน หรือการเปิดใหม่ภายใต้ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+การประเมินรายโดเมนแต่ละรายการระบุสิ่งที่การรับรองต้องตรวจสอบ และไม่เกินกว่านั้น ความหมายหลัก ปัจจัยการประเมิน และหลักเกณฑ์เมื่อไม่ปฏิบัติตามอยู่ในบทที่ห้าและมาตราที่ระบุ วิธีการบัญชี รายการแค็ตตาล็อก มาตรวัด รูปแบบการเปิดเผย เป้าหมายเชิงตัวเลข และกลไกการดำเนินงานอื่นอยู่ในตราสารที่นำมาใช้โดยอ้างอิงเมื่อเกี่ยวข้อง การประเมินรายโดเมนไม่ได้กล่าวซ้ำหรือกำหนดกลไกเหล่านั้น
 
-<a id="71-illustrative-nondiscrimination-application-by-class"></a>
+<a id="51-ecological-footprint-evaluation"></a>
 
-<a id="71-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-#### 7.1 ตัวอย่างการประยุกต์การไม่เลือกปฏิบัติตามชั้น (ไม่ใช่รายการครบ)
-
-*พูดแบบตรง ๆ: [§3.8](#38-illustrative-whole-system-application-by-class) ถึง [§6.1](#61-illustrative-cross-system-support-application-by-class) พาสามระบบเดียวกันผ่านโดเมนประเมินก่อนหน้า หมวดย่อยนี้แสดงว่าการประเมิน **การไม่เลือกปฏิบัติ** หมายความอย่างไรสำหรับแต่ละระบบ — เส้นทางตัดสินใดนับ สิ่งที่การรับรองต้องตรวจเมื่อตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้ และสิ่งที่ต้องปรากฏบนบันทึก บทที่ห้าและ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ยังเป็นเจ้าของกฎความเป็นธรรมและการเลือกปฏิบัติโดยตัวแทนฉบับหลัก; โควตาการรวม เป้าประชากร และแบบอัลกอริทึมความเป็นธรรมอาจอยู่ในตราสารอื่น การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้; การเดินดูเหล่านี้ไม่กำหนดกลไกเหล่านั้น*
-
-**Class A — การควบคุมและเทเลเมทรีน้ำดื่มปลอดภัยของเทศบาล.** ระบบบำบัดและจ่ายที่เป็นของเมืองใช้กฎตัดน้ำ ต่อกลับ แผนชำระ การแจ้งเหตุขัดข้อง และการเตือนความปลอดภัย ซึ่งตัดสินอย่างเป็นสาระว่าใครเสียการเข้าถึงน้ำ ใครได้รับการเตือนก่อน และใครแบกต้นทุนการคืนบริการ
-
-- **เส้นทางตัดสินในขอบเขต:**
-  - ลำดับการตัดน้ำและการคืน;
-  - สิทธิยึด การเรียกเก็บ และคุณสมบัติแผนชำระ;
-  - การอนุมัติการต่อใหม่และการต่อกลับ;
-  - การจัดเส้นทางแจ้งเหตุขัดข้องและการเลือกภาษา;
-  - การเล็งการเตือนการปนเปื้อนหรือต้มน้ำ;
-  - กฎเจ้าของบ้าน–ผู้เช่าและประวัติที่อยู่ที่กั้นการเข้าถึง;
-  - การจัดลำดับการเลี่ยงฉุกเฉินหรือความช่วยเหลือร่วมกันในที่ที่หลายเขตแข่งกันเพื่ออุปทานจำกัด
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าแบบภาระและประโยชน์ภายใต้ [ความเป็นธรรมที่เป็นสาระ](core_05_band_participation.md#substantive-fairness-constitutional) ถูกประเมินสำหรับเส้นทางที่อาจปิดสิ่งจำเป็นต่อการอยู่รอด — ไม่ใช่เฉพาะว่าผู้ดำเนินการติดป้ายกฎว่า «ตามความเสี่ยง» หรือ «ดำเนินงาน» หรือไม่;
-  - ว่าตรรกะการตัดน้ำ การเรียกเก็บ หรือการแจ้งบรรทุกภัยไม่สมส่วนลงบนผู้มีความรู้สึกบนฐาน [ลักษณะที่คุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) ตัวแทนของมัน หรือการจัดกลุ่มตามอำเภอใจที่ใช้เป็นสิ่งทดแทนเชิงหน้าที่หรือไม่;
-  - ว่าลักษณะรหัสไปรษณีย์ เจ้าของบ้าน ภาษา ประวัติการชำระ หรือประวัติที่อยู่ทำงานเป็นการเลือกปฏิบัติโดยตัวแทนภายใต้ [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) หรือไม่;
-  - ว่าการคุ้มครอง [ภาษา วัฒนธรรม และมรดก](core_05_band_continuity.md#language-culture-and-heritage-constitutional) ถูกทดสอบ แทนที่จะถูกทำให้เป็นเนื้อเดียวกันหายไปผ่าน «ภาษาอังกฤษมาตรฐานเท่านั้น» หรือมาตรวัดความสะดวกแบบรวมหรือไม่; และ
-  - ว่าการปฏิบัติต่างใดบรรลุ [ความจำเป็น](core_05_band_accountability.md#necessity) และ [สัดส่วน](core_05_band_accountability.md#proportionality) ที่จัดทำเอกสารหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ที่พึ่ง;
-  - ขอบเขตการประเมินสำหรับเส้นทางตัดน้ำ เรียกเก็บ แจ้ง และการต่อที่พึ่งอย่างเป็นสาระ;
-  - ข้อค้นพบลักษณะที่คุ้มครอง การเลือกปฏิบัติโดยตัวแทน และความเป็นธรรมที่เป็นสาระที่ความลึก **Class A**;
-  - ความไม่แน่นอน;
-  - ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบอื่นในที่ที่ถูกขอ; และ
-  - เงื่อนไขหรือตัวกระตุ้นการเปิดใหม่ที่ผูกกับภาระตัดน้ำ การแจ้ง หรือการเรียกเก็บที่ไม่เท่าที่ยืน ในที่ที่สิ่งจำเป็นต่อการอยู่รอดถูกกั้น
-
-**Class B — การแลกบันทึกคลินิกระดับภูมิภาค.** การแลกสารสนเทศสุขภาพจัดเส้นทางบันทึกระหว่างโรงพยาบาลและคลินิกผ่านกฎความยินยอม การคลี่อัตลักษณ์ การจัดอันดับสารบบผู้ให้บริการ การเข้าถึงแบบเบรกกลาส และคุณสมบัติการรับเข้าผู้ร่วม ซึ่งตัดสินอย่างเป็นสาระว่าใครเห็นการดูแลใด สถานที่ใดเชื่อมก่อน และผู้ป่วยใดจับคู่ถูกข้ามเครือข่าย
-
-- **เส้นทางตัดสินในขอบเขต:**
-  - การจับคู่อัตลักษณ์ผู้ป่วยและการกำจัดซ้ำ;
-  - กฎความยินยอม เบรกกลาส และการเข้าถึงฉุกเฉิน;
-  - การจัดอันดับสารบบผู้ให้บริการและสถานที่ หรือตรรกะเครือข่ายที่ชอบ;
-  - การรับเข้าและการระงับโรงพยาบาลผู้ร่วม;
-  - กฎการจัดเส้นทางบันทึกและลำดับความสำคัญของคำถาม;
-  - ลักษณะที่ได้ที่ใช้จัดอันดับผู้ให้บริการ จัดเส้นทางส่งต่อ หรือติดธงกลุ่ม «ผู้ใช้สูง» หรือกลุ่มที่คล้าย
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าเส้นทางจำแนก จัดอันดับ และกั้นถูกประเมินสำหรับผลเชิงหน้าที่ — ไม่ใช่ความเป็นกลาง HIPAA ในนามหรือคำกล่าวการทำงานร่วมกันเพียงอย่างเดียวหรือไม่;
-  - ว่าตรรกะการจับคู่ การจัดเส้นทาง หรือสารบบบรรทุกการกีดกันหรือภัยที่เป็นสาระต่อกลุ่มที่คุ้มครองหรือตัวแทนของมันหรือไม่;
-  - ว่าความผิดพลาดการกำจัดซ้ำ ธรณีประตูเบรกกลาส หรือกฎการรับเข้าบรรทุกภาระไม่สมส่วนลงบนคลินิกชนบท ผู้ป่วยชนกลุ่มน้อยทางภาษา หรือกลุ่มที่เทียบได้หรือไม่;
-  - ว่า «ประสิทธิภาพ» «การป้องกันการฉ้อ» หรือมาตรวัดการใช้แบบรวมถูกใช้เพื่อเอาชนะความเป็นธรรมที่เป็นสาระโดยไม่บรรลุการทดสอบ **ความจำเป็น** และ **สัดส่วน** ของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) หรือไม่; และ
-  - ว่าความลึกของการประเมินตรงกับความวิกฤตดำเนินงาน **Class B** ในที่ที่การจัดอันดับกระทบการเข้าถึงการดูแล การจัดเส้นทางสิทธิประโยชน์ หรือความมั่นคงของรายได้หรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้น **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) และขอบเขตเส้นทาง;
-  - ข้อค้นพบลักษณะที่คุ้มครองและการเลือกปฏิบัติโดยตัวแทน;
-  - ข้อค้นพบความเป็นธรรมที่เป็นสาระสำหรับกฎการจัดอันดับ การจับคู่ และการเข้าถึง;
-  - ความไม่แน่นอนและข้อค้นพบส่วนประกอบในที่ที่ถูกขอ; และ
-  - ตัวกระตุ้นการเปิดใหม่หากการจัดเส้นทางหรือการจับคู่จะกั้นการดูแลฉุกเฉินภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอดแล้ว หรือเลื่อนภาระที่ไม่เท่าอย่างเป็นสาระ
-
-**Class C — แพลตฟอร์มตารางและการประสานระหว่างสถาบัน.** ชั้นตารางหลายองค์กรจัดกะ จองห้อง จับคู่ผู้ขาย และจัดสรรลำดับความสำคัญการประสานข้ามโรงพยาบาล โรงเรียน และหน่วยงานสาธารณะ — เส้นทางตัดสินที่อาจจัดอันดับ กีดกัน หรือบรรทุกภาระไม่เท่า แม้แพลตฟอร์มเองไม่ใช่สาธารณูปโภควิกฤตต่อการอยู่รอด
-
-- **เส้นทางตัดสินในขอบเขต:**
-  - การจัดกะ ล่วงเวลา และการจัดเวรเรียก;
-  - ลำดับความสำคัญการจองห้อง อุปกรณ์ และสถานที่;
-  - การจับคู่ผู้ขายและการจัดอันดับจัดซื้อ;
-  - กฎการเข้าถึงตามบทบาทสถาบัน หลักฐาน และสถานที่;
-  - ลักษณะตารางที่ได้ที่สัมพันธ์กับย่าน ชุมชนภาษา สถานะผู้ดูแล หรือตัวแทนที่เทียบได้;
-  - กฎ API หรือนโยบายที่กีดกันสถาบันเล็กกว่าจากช่องที่ชอบหรือกลุ่มผู้ขาย
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้ — รวมในที่ที่อัลกอริทึมประสานจัดอันดับเจ้าหน้าที่ ผู้ขาย หรือสถาบันอย่างเป็นสาระหรือไม่;
-  - ว่าภูมิศาสตร์ตาราง ตัวแทนอาวุโส การให้คะแนน «ความพร้อม» หรือตรรกะคะแนนผู้ขายบรรทุกภาระไม่สมส่วนลงบนกลุ่มที่คุ้มครองโดยไม่มีเหตุผลที่ประเมินได้หรือไม่;
-  - ว่ากฎที่เป็นกลางตามหน้าฉากผลิตความไม่เป็นธรรมที่เป็นสาระผ่านจังหวะกะ ภาระการเดินทาง หรือการกีดกันจากการจองมูลค่าสูงหรือไม่;
-  - ว่าผู้ดำเนินการถือแพลตฟอร์มว่าต่ำกว่าการทบทวนเพราะเป็น **Class C** ขณะที่ผลประสานกั้นงาน การศึกษา หรือการเข้าถึงบริการสาธารณะอย่างเป็นสาระหรือไม่; และ
-  - ว่า **การเฝ้าการจำแนกใหม่** ถูกขอในที่ที่แพลตฟอร์มกลายเป็นจุดคอขวดโดยพฤตินัยสำหรับการจัดเจ้าหน้าที่ที่จำเป็นต่อการอยู่รอดหรือการจัดเส้นทางฉุกเฉินหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ว่าและทำไมตัวกระตุ้น **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้;
-  - ขอบเขตการประเมินสำหรับเส้นทางจัดอันดับ จัดสรร และกีดกันตามสัดส่วนกับความเสี่ยงการประสาน **Class C**;
-  - ข้อค้นพบลักษณะที่คุ้มครอง ตัวแทน และความเป็นธรรมที่เป็นสาระในที่ที่เป็นสาระ — ไม่ใช่คำกล่าวว่างเปล่าว่าไม่มีใครถูกจัดอันดับ;
-  - ข้อค้นพบความกระจุกและจุดคอขวดในที่ที่ผลตารางบอกล่วงหน้าการยกระดับ;
-  - **การเฝ้าการจำแนกใหม่** ที่ชัดในที่ที่การพึ่งแข็งขึ้น; และ
-  - ตัวชี้ไปยังการทบทวนการไม่เลือกปฏิบัติที่ยกระดับหากชั้น การจัดเส้นทางจ่าย หรือบทบาทการประสานที่จำเป็นต่อการอยู่รอดเปลี่ยน
-
-**การอ่านข้ามชั้น.** วินัยการไม่เลือกปฏิบัติของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) และบทที่ห้าชุดเดียวกันใช้ในที่ที่ตัวกระตุ้นความเป็นสาระถูกบรรลุ; ชั้นเปลี่ยนความลึกของการประเมิน ไม่ใช่อนุญาตให้ถือการจัดอันดับหรือการผลักภาระว่าไม่เป็นสาระ ระบบน้ำ **Class A** ที่กฎตัดน้ำหรือแจ้งอาจปิดน้ำปลอดภัยต้องถือการวิเคราะห์ภาระและประโยชน์และตัวแทนที่แข็งที่สุดบนบันทึก — ไม่ใช่คำกล่าว «วิธีปฏิบัติสาธารณูปโภคที่ดีที่สุด» ทั่วไป การแลก **Class B** ที่ตรรกะการจับคู่หรือจัดเส้นทางกระทบการดูแลฉุกเฉิน สิทธิประโยชน์ หรือการเข้าถึงหลักฐานคุณวุฒิ ต้องจัดทำเอกสารข้อค้นพบผลกระทบที่ไม่เท่าและความเป็นธรรมที่เป็นสาระที่ความวิกฤตดำเนินงาน แพลตฟอร์มตาราง **Class C** ต้องไม่คงย่อหน้าความเป็นธรรมเชิงพิธีขณะที่ตรรกะกะ ผู้ขาย หรือการจองจัดอันดับหรือกีดกันผู้ร่วมอย่างเป็นสาระ; เมื่อการประสานกลายเป็นสิ่งจำเป็นต่อการอยู่รอด การรับรองต้องยกระดับการทบทวนและการจำแนกใหม่ภายใต้ [§2](#2-system-class-evaluation) และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) รวมขึ้นสู่ **Class A** ในที่ที่การจัดเจ้าหน้าที่หรือการจัดเส้นทางฉุกเฉินถูกกั้น การเดินดูการเข้าถึงได้สำหรับระบบเดียวกันอยู่ใน [§8.1](#81-illustrative-accessibility-application-by-class)
-
-<a id="8-accessibility-evaluation"></a>
-
-### 8. การประเมินการเข้าถึงได้
+#### 5.1 การประเมินรอยเท้าทางนิเวศ
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">การสืบย้อนแหล่งที่มา</span></strong></summary>
 
-- ต้นทาง: [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); ตระกูลการวัดการมีส่วนร่วม (*การเข้าถึงได้ในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา V-G** (*การเข้าถึงได้*); [การเข้าถึงได้](core_05_band_participation.md#accessibility-constitutional), [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination), [การพึ่งพา](core_05_band_continuity.md#dependency), [พลังกระทำการที่มีความหมาย](core_05_band_participation.md#meaningful-agency), [ลักษณะที่คุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional), [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [ความเป็นธรรมที่เป็นสาระ](core_05_band_participation.md#substantive-fairness-constitutional), [ความจำเป็น](core_05_band_accountability.md#necessity), และ [สัดส่วน](core_05_band_accountability.md#proportionality) (บทที่ห้า).
-- ปลายทาง: [§8.1](#81-illustrative-accessibility-application-by-class) (*การเดินดูตัวอย่างการเข้าถึงได้*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องของการเข้าถึงได้และการอำนวยบนกระดาษอย่างเดียว*).
-- อ่านคู่กับ: **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*) ในที่ที่การเข้าถึงได้ทางการศึกษาถูกพาดพิง — การเข้าถึงได้เฉพาะการศึกษายังเป็นของที่นั่น; **มาตรา V-C** (*การรวมอย่างเต็มที่และความเท่ากันในการชี้ขาดและการดำเนินงาน*) และ **มาตรา XII** (*การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ การเป็นตัวแทน และกระบวนการที่ชอบธรรม*) ในที่ที่การรับรองกั้นการมีส่วนร่วมของเวที บริหาร ฝ่ายที่ได้รับผลกระทบ หรือการบังคับใช้; [บทที่เจ็ด §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion) (*ตะขอปัจจัยประเมินการเข้าถึงได้ข้ามโดเมน*).
-- หมวดย่อย: [§8.1](#81-illustrative-accessibility-application-by-class) (*ตัวอย่างการประยุกต์การเข้าถึงได้ตามชั้น*).
+- ต้นทาง: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นของระบบ*); ตระกูลการวัดความต่อเนื่อง (*รอยเท้าทางนิเวศในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*); [รอยเท้าทางนิเวศ](../../core_05_band_continuity.md#ecological-footprint), [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact), [การพึ่งพา](../../core_05_band_continuity.md#dependency), [ความโปร่งใส](core_05_band_oversight.md#transparency) และ [ความครบถ้วนทางญาณวิทยา](core_05_band_oversight.md#epistemic-integrity) (บทที่ห้า); [เงื่อนไขเบื้องต้นด้านสิ่งแวดล้อม](../../core_05_band_continuity.md#environmental-preconditions) และ [ความครบถ้วนของระบบนิเวศ](../../core_05_band_continuity.md#ecological-integrity) เมื่อเกี่ยวข้องอย่างเป็นสาระ
+- ปลายทาง: [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*ตัวอย่างการไล่ตรวจรอยเท้าทางนิเวศ*); [§5.3](#53-proportionate-cross-system-support-evaluation) และ [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*การประเมินและตัวอย่างการสนับสนุนระหว่างระบบ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ด่านข้อมูลนำเข้าที่ผ่านการตรวจสอบ*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การบิดเบือนและความไม่สอดคล้องของรอยเท้า*)
+- อ่านควบคู่กับ: [corpus_systems.md](../../corpus_systems.md), [CS-8 — ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) เมื่อการจัดสรรแบบปรับตัวหรือการพึ่งพาระหว่างระบบนิเวศอยู่ในขอบเขตอย่างเป็นสาระ
+- หมวดย่อย: [§5.1.1](#511-scope-and-governing-rules) (*ขอบเขตและกฎกำกับ*); [§5.1.2](#512-evaluation-requirement) (*ข้อกำหนดการประเมิน*); [§5.1.3](#513-system-class-scaling-and-escalation) (*การปรับขนาดและยกระดับตามชั้นของระบบ*); [§5.1.4](#514-defects-and-misalignment) (*ข้อบกพร่องและความไม่สอดคล้อง*); [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*ตัวอย่างการใช้การประเมินรอยเท้าทางนิเวศตามชั้นของระบบ*).
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: เมื่อระบบกั้นอย่างเป็นสาระว่าผู้มีความรู้สึกมีส่วนร่วมได้จริงหรือไม่ — ไม่ใช่แค่ว่าประตูติดป้ายว่า «เปิด» — การรับรองต้องตรวจว่าการมีส่วนร่วมถึงได้จริงข้ามความต้องการประสาท การรู้คิด การเคลื่อนที่ การสื่อสาร ส่วนต่อประสานฐานะกาย และที่เทียบได้หรือไม่ สารบบการอำนวยและมาตรฐานส่วนต่อประสานอาจอยู่ในตราสารอื่น การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้; การรับรองตรวจว่าการมีส่วนร่วมที่เป็นสาระถูกประเมินจริงในที่ที่ตัวกระตุ้นใช้ ตัวอย่างทำงานสำหรับระบบตัวอย่างใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) อยู่ใน [§8.1](#81-illustrative-accessibility-application-by-class).*
+*พูดแบบตรง ๆ: หากระบบก่อความเสียหายต่อสิ่งแวดล้อมจริง การรับรองต้องพิจารณาความเสียหายนั้นอย่างตรงไปตรงมา รวมทั้งความเสียหายที่เกิดผ่านผู้จัดหาและผลที่เกิดหลังผู้มีความรู้สึกใช้ระบบ ผู้ตรวจไม่อาจเชื่อคำกล่าวของผู้ดำเนินการเพียงว่าเป็นระบบ “สีเขียว” หมวดนี้ไม่ได้อธิบายวิธีวัดรอยเท้าหรือระดับการลดที่ต้องทำ เอกสารอื่นดูแลเรื่องนั้น หมวดนี้กำหนดเพียงว่าเมื่อความเสียหายมีนัยสำคัญ ต้องมีการคำนวณจริงว่าส่วนใดเป็นของระบบนี้ เปิดเผยข้อมูล และเปรียบเทียบกับทางเลือก ตัวอย่าง: [§5.1.5 ตัวอย่างการใช้การประเมินรอยเท้าทางนิเวศตามชั้นของระบบ (ไม่ครอบคลุมทั้งหมด)](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).*
 
-**ตัวกระตุ้นความเป็นสาระ.** หมวดนี้ใช้ในที่ที่ระบบที่มีผลกระทบที่เป็นสาระกั้นการมีส่วนร่วมที่เป็นสาระในโดเมนที่เกี่ยวข้องทางรัฐธรรมนูญอย่างเป็นสาระ — รวมการปกครอง การมีส่วนร่วมของฝ่ายที่ได้รับผลกระทบ การชี้ขาด การปฏิบัติ การเข้าถึงพื้นการอยู่รอด การเข้าถึงการดูแล การแสดงออก การชุมนุม สื่อ หรือโดเมนที่เทียบได้ — ผ่านส่วนต่อประสาน สถานที่ ตารางเวลา หลักฐาน การเข้าถึงการคำนวณ การออกแบบอำนวย หรือเส้นทางมีส่วนร่วมที่เทียบได้ มันไม่ขอการตรวจการเข้าถึงได้เต็มบนบันทึกการรับรองทุกฉบับ การเข้าถึงได้ทางการศึกษายังถูกกำกับโดย **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*) และไม่ถูกทำให้แคบที่นี่
+<a id="511-scope-and-governing-rules"></a>
+##### 5.1.1 ขอบเขตและกฎกำกับ
 
-การรับรองความสอดคล้องของระบบต้องประเมิน **การเข้าถึงได้** ภายใต้ **มาตรา V-G** (*การเข้าถึงได้*) และ [การเข้าถึงได้](core_05_band_participation.md#accessibility-constitutional) ในที่ที่ตัวกระตุ้นความเป็นสาระใช้ ความหมายฉบับหลัก ปัจจัยประเมิน และวินัยการไม่ปฏิบัติตามอยู่ในบทที่ห้าและ **มาตรา V-G** (*การเข้าถึงได้*); สารบบการอำนวย มาตรฐานส่วนต่อประสาน รายละเอียดการออกแบบสากล และกลไกอำนวยดำเนินงานอยู่ในตราสารที่รับเข้าในที่ที่ใช้ได้ หมวดนี้กล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ไม่กล่าวซ้ำกลไกดำเนินงานเหล่านั้นและไม่กำหนดสารบบการอำนวยหรือรายละเอียดการออกแบบสากลเฉพาะ
+การรับรองความสอดคล้องของระบบต้องประเมิน **รอยเท้าทางนิเวศ** เป็นส่วนหนึ่งของบันทึกการรับรองทุกฉบับสำหรับระบบที่มีผลกระทบเป็นสาระ เมื่อภาระทางสิ่งแวดล้อมที่ระบุโยงถึงระบบเป็นสาระตาม [รอยเท้าทางนิเวศ](../../core_05_band_continuity.md#ecological-footprint) และ **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*)
 
-**ข้อกำหนดการประเมิน.** กระบวนการรับรองต้องวินิจฉัยว่าผู้มีความรู้สึกมีส่วนร่วมที่เป็นสาระในโดเมนที่เกี่ยวข้องทางรัฐธรรมนูญที่ระบบกั้นอย่างเป็นสาระได้หรือไม่ — ไม่ใช่แค่มีสิ่งอำนวยแบบทางการ ส่วนต่อประสานปริยาย หรือการอำนวยบนกระดาษ การประเมินต้องทดสอบผลของการมีส่วนร่วมที่เป็นสาระภายใต้ [การเข้าถึงได้](core_05_band_participation.md#accessibility-constitutional) ปรับตาม [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) และ [การพึ่งพา](core_05_band_continuity.md#dependency) และต้องตรวจจับการอำนวยบนกระดาษอย่างเดียว รูปแบบ «การเข้าถึงทั่วไป» ที่เลื่อนไปสิ่งอำนวยปริยายโดยไม่ผลิตขีดความสามารถมีส่วนร่วม ข้อโต้แย้งความเป็นสาระแบบเลือกที่ใช้ให้ขอบการอำนวยแคบ การกีดกันที่ขัดกับ [การไม่กีดกันความเป็นผู้มีความรู้สึก](core_05_band_participation.md#sentience-non-exclusion) และการออกแบบต้านการปฏิเสธโดยตัวแทนผ่านตารางเวลา การเลือกสถานที่ การออกหลักฐาน การเข้าถึงการคำนวณ หรือกลไกที่เทียบได้ การประเมินต้องใช้ [ลักษณะที่คุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) และ [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) กับตรรกะการออกแบบอำนวย ขีดจำกัดใดต้องบรรลุ [ความจำเป็น](core_05_band_accountability.md#necessity) [สัดส่วน](core_05_band_accountability.md#proportionality) และ [ความเป็นธรรมที่เป็นสาระ](core_05_band_participation.md#substantive-fairness-constitutional) ที่จัดทำเอกสาร
+<a id="512-evaluation-requirement"></a>
+##### 5.1.2 ข้อกำหนดการประเมิน
 
-**ข้อกำหนดบันทึก.** บันทึกการรับรองต้องกล่าวตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ที่พึ่ง ขอบเขตการประเมินสำหรับเส้นทางมีส่วนร่วมที่พึ่งอย่างเป็นสาระ ข้อค้นพบการมีส่วนร่วมที่เป็นสาระและการอำนวย ข้อค้นพบต้านการปฏิเสธโดยตัวแทนในที่ที่เป็นสาระ ความไม่แน่นอน ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบที่กำหนดอื่นในที่ที่ถูกขอ และเงื่อนไข ขีดจำกัดการพึ่ง หรือตัวกระตุ้นการเปิดใหม่ใดที่ผูกกับสิ่งกีดขวางการมีส่วนร่วมที่ยืน
+กระบวนการรับรองต้องพิจารณาว่ากระแสทางสิ่งแวดล้อมที่ระบุโยงถึงระบบ ได้แก่ พลังงาน วัสดุ การปล่อยมลพิษ คุณภาพอากาศ คุณภาพน้ำ การใช้น้ำ การใช้ที่ดิน และภาระที่เกี่ยวข้อง ได้รับการ:
 
-**การปรับร่วมตามชั้นระบบ.** ความลึกของการประเมินการเข้าถึงได้ต้องปรับตามชั้นระบบที่กำหนดภายใต้ [§2](#2-system-class-evaluation) และ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ระบบชั้นสูงกว่าที่กั้นการมีส่วนร่วมที่เกี่ยวข้องทางรัฐธรรมนูญอย่างเป็นสาระ ต้องการหลักฐานที่แข็งกว่าตามสัดส่วนว่าการเข้าถึงได้ที่เป็นสาระถูกประเมิน ไม่ใช่แค่กล่าว
+- ระบุครอบคลุมตลอดวงจรชีวิตส่วนที่เกี่ยวข้องเป็นสาระของระบบ และความสัมพันธ์ด้าน [การพึ่งพา](../../core_05_band_continuity.md#dependency);
+- ประเมินตาม [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact); และ
+- เปิดเผยหรือระงับการเปิดเผยเฉพาะเท่าที่ [ความโปร่งใส](core_05_band_oversight.md#transparency), [ความครบถ้วนทางญาณวิทยา](core_05_band_oversight.md#epistemic-integrity) และหน้าที่ด้านความโปร่งใสที่ใช้บังคับอนุญาต
 
-**ข้อบกพร่องและความไม่สอดคล้อง.** การถือสิ่งอำนวยแบบทางการ ส่วนต่อประสานปริยาย หรือการอำนวยบนกระดาษว่าพอโดยไม่มีวิเคราะห์การมีส่วนร่วมที่เป็นสาระที่ประเมินได้; การรับรองการพึ่งต่อเนื่องขณะที่สิ่งกีดขวางการมีส่วนร่วมที่จัดทำเอกสารคุกคามความสอดคล้องทางรัฐธรรมนูญอย่างเป็นสาระ; การใช้กรอบต้นทุน ทางเลือกออกแบบ ชั้นฐานะกาย หรือขนาดดำเนินงานเพื่อเอาชนะพื้นการมีส่วนร่วมโดยไม่บรรลุการทดสอบ **ความจำเป็น** และ **สัดส่วน** ของ **มาตรา V-G** (*การเข้าถึงได้*); หรือการออกแบบดำเนินงานที่ผลคือเอาชนะการเข้าถึงได้ในที่ที่ทางเลือกภาระน้อยกว่าทำได้ ต้องถูกปฏิบัติเป็นข้อบกพร่องการรับรอง อาจรองรับการรับรู้มีเงื่อนไข การรับรู้ที่เลื่อน การไม่รับรู้ การถอน หรือการเปิดใหม่ภายใต้ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+การประเมินต้องสะท้อนผลเชิงหน้าที่และขอบเขตของระบบ ไม่ใช่พิจารณาเพียงขอบเขตตามชื่อ ป้ายการตลาด หรือกรอบวงจรชีวิตที่ไม่ครบถ้วน
 
-<a id="81-illustrative-accessibility-application-by-class"></a>
+เมื่อทำได้ในทางปฏิบัติ ผู้ตรวจต้องเปรียบเทียบความเสียหายทางสิ่งแวดล้อมที่สำคัญของระบบกับทางเลือกที่เป็นจริง และตรวจด้วยว่าความเสียหายนั้นไม่ได้ถูกซ่อนโดย:
 
-<a id="81-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-#### 8.1 ตัวอย่างการประยุกต์การเข้าถึงได้ตามชั้น (ไม่ใช่รายการครบ)
+- **ตีเส้นขอบเขตให้แคบ** — กำหนดขอบเขตระบบให้ผลกระทบร้ายแรงที่สุดอยู่นอกขอบเขต;
+- **ผลักภาระไปให้ผู้อื่น** — โอนงานที่เป็นอันตรายให้ผู้จัดหาหรือหุ้นส่วน เพื่อไม่ให้นับเป็นภาระของระบบเอง; หรือ
+- **เผยแพร่แต่ข่าวดี** — รายงานตัวเลขที่เป็นคุณและตัดตัวเลขที่ไม่เป็นคุณออก
 
-*พูดแบบตรง ๆ: [§3.8](#38-illustrative-whole-system-application-by-class) ถึง [§7.1](#71-illustrative-nondiscrimination-application-by-class) พาสามระบบเดียวกันผ่านโดเมนประเมินก่อนหน้า หมวดย่อยนี้แสดงว่าการประเมิน **การเข้าถึงได้** หมายความอย่างไรสำหรับแต่ละระบบ — เส้นทางมีส่วนร่วมใดนับ สิ่งที่การรับรองต้องตรวจเมื่อตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ใช้ และสิ่งที่ต้องปรากฏบนบันทึก บทที่ห้าและ **มาตรา V-G** (*การเข้าถึงได้*) ยังเป็นเจ้าของกฎการเข้าถึงได้ฉบับหลัก; สารบบการอำนวย มาตรฐานส่วนต่อประสาน และรายละเอียดการออกแบบสากลอาจอยู่ในตราสารอื่น การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้; การเดินดูเหล่านี้ไม่กำหนดกลไกเหล่านั้น การเข้าถึงได้ทางการศึกษายังเป็นของ **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*) และไม่ถูกทำให้แคบที่นี่*
+<a id="513-system-class-scaling-and-escalation"></a>
+##### 5.1.3 การปรับขนาดและยกระดับตามชั้นของระบบ
 
-**Class A — การควบคุมและเทเลเมทรีน้ำดื่มปลอดภัยของเทศบาล.** ระบบบำบัดและจ่ายที่เป็นของเมืองกั้นการเข้าถึงพื้นการอยู่รอดผ่านพอร์ทัลเรียกเก็บ ช่องแจ้งเหตุขัดข้อง คำขอต่อกลับ การเตือนต้มน้ำ และเส้นทางบริการลูกค้า ที่ตัดสินว่าผู้มีความรู้สึกเรียนรู้เกี่ยวกับ โต้แย้ง หรือคืนน้ำปลอดภัยได้หรือไม่
+ชั้นของระบบกำหนดว่าต้องติดตามความเสียหายทางสิ่งแวดล้อมลึกเพียงใดและต้องเปรียบเทียบมากน้อยเพียงใด ชั้นของระบบไม่ใช่วิธีหลีกเลี่ยงการตรวจความเสียหายที่มีนัยสำคัญ
 
-- **เส้นทางมีส่วนร่วมในขอบเขต:**
-  - พอร์ทัลเรียกเก็บและแผนชำระ;
-  - ช่องแจ้งเหตุขัดข้องและการปนเปื้อน (เสียง ข้อความ เว็บ ที่สถานที่ หรือเส้นทางผู้ขายที่มอบ);
-  - ส่วนต่อประสานการต่อกลับและขอความยากลำบาก;
-  - ตัวเลือกภาษาและรูปแบบสำหรับประกาศความปลอดภัย;
-  - ประตูหลักฐานหรืออัตลักษณ์สำหรับการเข้าถึงบัญชี;
-  - ข้อกำหนดการคำนวณ อุปกรณ์ หรือสถานที่สำหรับการยื่นท้าทายหรือรับการเตือน
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าผู้มีความรู้สึกรับประกาศวิกฤตต่อการอยู่รอดและทำเส้นทางต่อกลับหรือความยากลำบากที่เป็นสาระได้ข้ามโปรไฟล์ประสาท การรู้คิด การเคลื่อนที่ การสื่อสาร และส่วนต่อประสานฐานะกาย — ไม่ใช่ว่ามีแบบฟอร์มเว็บปริยายหรือไม่;
-  - ว่าการอำนวยบนกระดาษอย่างเดียว «โทรในเวลาทำการ» หรือค่าปริยายภาษาอังกฤษเท่านั้นเอาชนะการมีส่วนร่วมในที่ที่ทางเลือกภาระน้อยกว่าทำได้หรือไม่;
-  - ว่าการออกแบบตารางเวลา สถานที่ หลักฐาน หรือการคำนวณทำงานเป็นการปฏิเสธโดยตัวแทนหรือไม่;
-  - ว่า [ลักษณะที่คุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) และ [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) ถูกใช้กับตรรกะการออกแบบอำนวยหรือไม่; และ
-  - ว่าขีดจำกัดใดบรรลุ [ความจำเป็น](core_05_band_accountability.md#necessity) [สัดส่วน](core_05_band_accountability.md#proportionality) และ [ความเป็นธรรมที่เป็นสาระ](core_05_band_participation.md#substantive-fairness-constitutional) ที่จัดทำเอกสารหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ที่พึ่ง;
-  - ขอบเขตการประเมินสำหรับเส้นทางแจ้ง เรียกเก็บ ต่อกลับ และท้าทายที่พึ่งอย่างเป็นสาระ;
-  - ข้อค้นพบการมีส่วนร่วมที่เป็นสาระและการอำนวยที่ความลึก **Class A**;
-  - ข้อค้นพบต้านการปฏิเสธโดยตัวแทนในที่ที่เป็นสาระ;
-  - ความไม่แน่นอน;
-  - ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบอื่นในที่ที่ถูกขอ; และ
-  - เงื่อนไขหรือตัวกระตุ้นการเปิดใหม่ที่ผูกกับสิ่งกีดขวางที่ยืนในที่ที่สิ่งจำเป็นต่อการอยู่รอดถูกกั้น
+- ห้ามลดชั้นของระบบในขณะที่การดึงน้ำ การปล่อยมลพิษ การใช้พลังงาน หรือภาระคล้ายกันยังถูกนับเพียงบางส่วน โดยเฉพาะเมื่อภาระนั้นกระทบการส่งมอบสิ่งที่ผู้มีความรู้สึกต้องใช้เพื่ออยู่รอด เช่น น้ำสะอาดปลอดภัย
+- หากระบบเติบโตขึ้น (ภาระเพิ่ม หรือการโฮสต์กระจุกตัวอยู่ในแห่งเดียวมากขึ้น) และความเสียหายทางสิ่งแวดล้อมเพิ่มขึ้นอย่างมีนัยสำคัญ การตรวจต้องเพิ่มขึ้นตามนั้น ซึ่งอาจต้องประเมินลึกถึง **ชั้น A** เมื่อเกี่ยวข้องทั้งการส่งมอบสิ่งจำเป็นต่อการอยู่รอดและภาระจากแหล่งที่มา
+- หากระบบกลายเป็นคอขวดที่ผู้มีความรู้สึกต้องพึ่งพาเพื่อการประสานงานที่จำเป็นต่อการอยู่รอด ระบบจะใช้เพียงไฟล์รอยเท้าสัญลักษณ์ไม่ได้ เพียงเพราะผู้ดำเนินการเรียกระบบว่า “ไม่สำคัญ”
 
-**Class B — การแลกบันทึกคลินิกระดับภูมิภาค.** การแลกสารสนเทศสุขภาพและพอร์ทัลผู้ร่วมกั้นการเข้าถึงการดูแลรายวันผ่านพอร์ทัลผู้ป่วย ส่วนต่อประสานความยินยอม สารบบผู้ให้บริการ งานเบรกกลาส และเครื่องมือรับเข้าคลินิก ที่ตัดสินว่าผู้ป่วยและผู้ให้บริการเล็กกว่าใช้การแลกได้จริงหรือไม่
+<a id="514-defects-and-misalignment"></a>
+##### 5.1.4 ข้อบกพร่องและความไม่สอดคล้อง
 
-- **เส้นทางมีส่วนร่วมในขอบเขต:**
-  - พอร์ทัลผู้ป่วยและส่วนต่อประสานความยินยอม;
-  - เครื่องมือสารบบผู้ให้บริการและการจองส่งต่อ;
-  - งานเบรกกลาสและการเข้าถึงฉุกเฉิน;
-  - ส่วนต่อประสานการรับเข้าคลินิกและการออกหลักฐาน;
-  - การสนับสนุนภาษา รูปแบบ และเทคโนโลยีช่วยเหลือสำหรับสรุปคลินิกและการเปิดเผย;
-  - ข้อกำหนดการคำนวณหรืออุปกรณ์สำหรับการดู โต้แย้ง หรือแก้บันทึก
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าผู้ป่วยและคลินิกที่ร่วมใช้เส้นทางความยินยอม การเข้าถึง การแก้ และการฉุกเฉินที่เป็นสาระได้ — ไม่ใช่ว่าพอร์ทัลติดป้ายว่าเข้าถึงได้หรือไม่;
-  - ว่าส่วนต่อประสานปริยายเลื่อนไปผู้ใช้ที่มองเห็นได้ เดสก์ท็อป แบนด์วิดท์สูง หรือภาษาอังกฤษเป็นหลัก โดยไม่ผลิตขีดความสามารถมีส่วนร่วมสำหรับผู้อื่นหรือไม่;
-  - ว่าการออกแบบหลักฐาน ตารางเวลา หรือสถานที่กีดกันคลินิกชนบท ผู้ป่วยชนกลุ่มน้อยทางภาษา หรือผู้มีความรู้สึกที่ต้องการรูปแบบอื่นหรือไม่;
-  - ว่าความลึกของการประเมินตรงกับความวิกฤตดำเนินงาน **Class B** ในที่ที่การแลกกั้นการเข้าถึงการดูแลหรือไม่; และ
-  - ว่าการอำนวยบนกระดาษหรือคำกล่าว «รายการตรวจการปฏิบัติตาม» แบบรวมถูกถือว่าพอโดยไม่มีวิเคราะห์การมีส่วนร่วมที่เป็นสาระที่ประเมินได้หรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้น **มาตรา V-G** (*การเข้าถึงได้*) และขอบเขตเส้นทาง;
-  - ข้อค้นพบการมีส่วนร่วมที่เป็นสาระและการอำนวยสำหรับเส้นทางผู้ป่วยและคลินิก;
-  - ข้อค้นพบต้านการปฏิเสธโดยตัวแทนในที่ที่เป็นสาระ;
-  - ความไม่แน่นอนและข้อค้นพบส่วนประกอบในที่ที่ถูกขอ; และ
-  - ตัวกระตุ้นการเปิดใหม่หากสิ่งกีดขวางพอร์ทัลหรือความยินยอมจะกั้นการดูแลฉุกเฉินภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอดแล้ว หรือเอาชนะการพึ่งดำเนินงานรายวันอย่างเป็นสาระ
+สิ่งต่อไปนี้แต่ละรายการถือเป็นข้อบกพร่องด้านการรับรอง:
 
-**Class C — แพลตฟอร์มตารางและการประสานระหว่างสถาบัน.** ชั้นตารางหลายองค์กรกั้นการมีส่วนร่วมของฝ่ายที่ได้รับผลกระทบและการดำเนินงานผ่านส่วนต่อประสานเคลมกะ เครื่องมือจองห้อง พอร์ทัลผู้ขาย และแดชบอร์ดสถาบัน — แม้แพลตฟอร์มเองไม่ใช่สาธารณูปโภควิกฤตต่อการอยู่รอด
+- ซ่อน บิดเบือน แยกส่วน หรือส่งต่อข้อมูลรอยเท้าที่มีนัยสำคัญซึ่งกฎการรับรองหรือ **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) กำหนดให้เปิดเผย;
+- ประเมินเฉพาะส่วนของวงจรชีวิตระบบที่ผู้ดำเนินการเลือกนำเสนอ ทั้งที่จำเป็นต้องพิจารณาภาพที่กว้างกว่า; และ
+- ยอมรับคำกล่าวอ้างเรื่องรอยเท้าจากคำยืนยันของผู้ดำเนินการ โดยไม่มีหลักฐานที่ตรวจสอบได้
 
-- **เส้นทางมีส่วนร่วมในขอบเขต:**
-  - ส่วนต่อประสานเคลมกะและเวรเรียก;
-  - เครื่องมือจองห้อง อุปกรณ์ และสถานที่;
-  - พอร์ทัลผู้ขายและจัดซื้อ;
-  - แดชบอร์ดบทบาทสถาบันและหลักฐาน;
-  - เส้นทางมือถือ เดสก์ท็อป และเทคโนโลยีช่วยเหลือสำหรับการเคลมหรือโต้แย้งการจัด;
-  - ตัวเลือกภาษาและรูปแบบสำหรับประกาศตาราง
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ใช้ — รวมในที่ที่ UI ประสานกั้นงาน การศึกษา การมีส่วนร่วมของฝ่ายที่ได้รับผลกระทบ หรือการมีส่วนร่วมของเวทีอย่างเป็นสาระหรือไม่;
-  - ว่าส่วนต่อประสานปริยายผลิตการมีส่วนร่วมที่เป็นสาระข้ามโปรไฟล์ประสาท การรู้คิด การเคลื่อนที่ การสื่อสาร และส่วนต่อประสานฐานะกายหรือไม่;
-  - ว่าจังหวะตาราง การเลือกสถานที่ ประตูหลักฐาน หรือข้อกำหนดการคำนวณทำงานเป็นการปฏิเสธโดยตัวแทนหรือไม่;
-  - ว่าผู้ดำเนินการถือแพลตฟอร์มว่าต่ำกว่าการทบทวนเพราะเป็น **Class C** ขณะที่ผลประสานกั้นการมีส่วนร่วมที่เกี่ยวข้องทางรัฐธรรมนูญอย่างเป็นสาระหรือไม่; และ
-  - ว่า **การเฝ้าการจำแนกใหม่** ถูกขอในที่ที่แพลตฟอร์มกลายเป็นจุดคอขวดโดยพฤตินัยสำหรับการจัดเจ้าหน้าที่ที่จำเป็นต่อการอยู่รอดหรือการจัดเส้นทางฉุกเฉินหรือไม่
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ว่าและทำไมตัวกระตุ้น **มาตรา V-G** (*การเข้าถึงได้*) ใช้;
-  - ขอบเขตการประเมินสำหรับเส้นทางตาราง จอง และพอร์ทัลตามสัดส่วนกับความเสี่ยงการประสาน **Class C**;
-  - ข้อค้นพบการมีส่วนร่วมที่เป็นสาระและการอำนวยในที่ที่เป็นสาระ — ไม่ใช่คำกล่าวว่างเปล่าว่า UI เป็น «มาตรฐาน»;
-  - ข้อค้นพบความกระจุกและจุดคอขวดในที่ที่ผลตารางบอกล่วงหน้าการยกระดับ;
-  - **การเฝ้าการจำแนกใหม่** ที่ชัดในที่ที่การพึ่งแข็งขึ้น; และ
-  - ตัวชี้ไปยังการทบทวนการเข้าถึงได้ที่ยกระดับหากชั้นหรือบทบาทการประสานที่จำเป็นต่อการอยู่รอดเปลี่ยน
 
-**การอ่านข้ามชั้น.** วินัยการเข้าถึงได้ของ **มาตรา V-G** (*การเข้าถึงได้*) และบทที่ห้าชุดเดียวกันใช้ในที่ที่ตัวกระตุ้นความเป็นสาระถูกบรรลุ; ชั้นเปลี่ยนความลึกของการประเมิน ไม่ใช่อนุญาตให้ถือการอำนวยบนกระดาษหรือส่วนต่อประสานปริยายว่าพอ ระบบน้ำ **Class A** ที่เส้นทางเรียกเก็บหรือเหตุขัดข้องอาจปิดน้ำปลอดภัยต้องถือหลักฐานการมีส่วนร่วมที่เป็นสาระที่แข็งที่สุดบนบันทึก — ไม่ใช่คำกล่าวการเข้าถึงได้ทั่วไป การแลก **Class B** ที่พอร์ทัลกั้นการเข้าถึงการดูแล ต้องจัดทำเอกสารข้อค้นพบการอำนวยและต้านการปฏิเสธโดยตัวแทนที่ความวิกฤตดำเนินงาน แพลตฟอร์มตาราง **Class C** ต้องไม่คงย่อหน้าการเข้าถึงได้เชิงพิธีขณะที่ UI กะ การจอง หรือผู้ขายกีดกันผู้ร่วมอย่างเป็นสาระ; เมื่อการประสานกลายเป็นสิ่งจำเป็นต่อการอยู่รอด การรับรองต้องยกระดับการทบทวนและการจำแนกใหม่ภายใต้ [§2](#2-system-class-evaluation) และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) รวมขึ้นสู่ **Class A** ในที่ที่การจัดเจ้าหน้าที่หรือการจัดเส้นทางฉุกเฉินถูกกั้น การเดินดูขีดความสามารถทางการศึกษาสำหรับระบบเดียวกันอยู่ใน [§9.1](#91-illustrative-educational-capability-application-by-class)
 
-<a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
+<a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
-### 9. การประเมินขีดความสามารถทางการศึกษาและความครบถ้วนของระบบการเรียนรู้
+#### 5.2 การประเมินความสามารถด้านการศึกษาและความครบถ้วนของระบบการเรียนรู้
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">การสืบย้อนแหล่งที่มา</span></strong></summary>
 
-- ต้นทาง: [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); ตระกูลการวัดการมีส่วนร่วม (*พลังกระทำการทางการศึกษาในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*); [พลังกระทำการทางการศึกษา](core_05_band_participation.md#educational-agency), [พลังกระทำการที่มีความหมาย](core_05_band_participation.md#meaningful-agency), [การล็อกเชิงระบบ](core_05_band_continuity.md#systemic-lock-in), [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability), [ความโปร่งใส](core_05_band_oversight.md#transparency), [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability), [การบีบบังคับและการชักนำ](core_05_band_participation.md#coercion-and-manipulation-constitutional), [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination), และ [การพึ่งพา](core_05_band_continuity.md#dependency) (บทที่ห้า).
-- ปลายทาง: [§9.1](#91-illustrative-educational-capability-application-by-class) (*การเดินดูตัวอย่างขีดความสามารถทางการศึกษา*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องความทึบของการประเมิน การเฝ้าประตูหลักฐาน และความไม่สอดคล้องความล้าสมัยที่ถูกบังคับ*).
-- อ่านคู่กับ: **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*) ในที่ที่การเข้าถึงที่เท่ากันหรือการเข้าถึงได้ทางการศึกษาถูกพาดพิง — การเข้าถึงที่เท่ากันและการเข้าถึงได้ทางการศึกษายังเป็นของที่นั่น; **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) และ [§7](#7-nondiscrimination-evaluation) ในที่ที่แบบการจัดอันดับหรือการจัดวางพาดพิงการบรรทุกภาระตามลักษณะที่คุ้มครอง; **มาตรา X-A** (*พลังกระทำการและเสรีภาพจากการชักนำ*) ในที่ที่การออกแบบการเรียนรู้ที่บีบบังคับหรือชักนำถูกพาดพิงอย่างเป็นสาระ; [บทที่หนึ่ง §9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*ความเข้าใจแบบกระจายและการสร้างขีดความสามารถ — อ่านคู่กับ*).
-- หมวดย่อย: [§9.1](#91-illustrative-educational-capability-application-by-class) (*ตัวอย่างการประยุกต์ขีดความสามารถทางการศึกษาตามชั้น*).
+- ต้นทาง: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นของระบบ*); ตระกูลการวัดการมีส่วนร่วม (*อำนาจตัดสินใจด้านการศึกษาในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา IV** (*สิทธิในการศึกษาที่มีผู้มีความรู้สึกเป็นศูนย์กลาง*); [อำนาจตัดสินใจด้านการศึกษา](../../core_05_band_participation.md#educational-agency), [อำนาจตัดสินใจที่มีความหมาย](../../core_05_band_participation.md#meaningful-agency), [การล็อกอินเชิงระบบ](../../core_05_band_continuity.md#systemic-lock-in), [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability), [ความโปร่งใส](core_05_band_oversight.md#transparency), [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability), [การบังคับและการชักจูง](../../core_05_band_participation.md#coercion-and-manipulation), [ความเป็นสาระ](core_05_band_oversight.md#materiality) และ [การพึ่งพา](../../core_05_band_continuity.md#dependency) (บทที่ห้า)
+- ปลายทาง: [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*ตัวอย่างการไล่ตรวจความสามารถด้านการศึกษา*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ด่านข้อมูลนำเข้าที่ผ่านการตรวจสอบ*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องจากการประเมินที่ไม่โปร่งใส การควบคุมด่านคุณวุฒิ และการทำให้ล้าสมัยโดยบังคับ*)
+- อ่านควบคู่กับ: **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเท่าเทียม*) เมื่อเกี่ยวข้องกับการเข้าถึงอย่างเท่าเทียมหรือการเข้าถึงได้ของการศึกษา — ความรับผิดชอบด้านการเข้าถึงอย่างเท่าเทียมและการเข้าถึงได้ของการศึกษายังคงเป็นของมาตรานั้น; **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*) และ [§5.4](#54-nondiscrimination-evaluation) เมื่อรูปแบบการจัดอันดับหรือจัดตำแหน่งเกี่ยวข้องกับการสร้างภาระตามลักษณะที่ได้รับความคุ้มครอง; **มาตรา X-A** (*อำนาจตัดสินใจและเสรีภาพจากการชักจูง*) เมื่อการออกแบบการเรียนรู้แบบบังคับหรือชักจูงเกี่ยวข้องอย่างเป็นสาระ; [บทที่หนึ่ง §16 การดูแลจัดการเชิงลึก](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (*อ่านควบคู่เรื่องความเข้าใจแบบกระจายตัวและการสร้างความสามารถ*)
+- หมวดย่อย: [§5.2.1](#521-materiality-trigger-and-governing-rules) (*ตัวกระตุ้นความเป็นสาระและกฎกำกับ*); [§5.2.2](#522-evaluation-requirement) (*ข้อกำหนดการประเมิน*); [§5.2.3](#523-system-class-scaling-and-escalation) (*การปรับขนาดและยกระดับตามชั้นของระบบ*); [§5.2.4](#524-defects-and-misalignment) (*ข้อบกพร่องและความไม่สอดคล้อง*); [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*ตัวอย่างการใช้การประเมินความสามารถด้านการศึกษาตามชั้นของระบบ*)
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: เมื่อโรงเรียน แพลตฟอร์ม หรือระบบฝึกอบรมกระทบอนาคตของผู้มีความรู้สึกอย่างจริงจัง — ผ่านเกรด การจัดอันดับ คำแนะนำ การจัดวาง หรือประตูหลักฐานคุณวุฒิ — การรับรองต้องตรวจว่าผู้มีความรู้สึกสร้างขีดความสามารถได้จริง ฝึกใหม่เมื่อความสามารถที่ถูกขอเปลี่ยน และเห็น ตรวจ และโต้แย้งคำตัดสินเหล่านั้นได้หรือไม่ หลักสูตร รูบริก และแบบการให้ทุนอยู่ในตราสารอื่น; การรับรองตรวจว่าสาระการสร้างขีดความสามารถและความครบถ้วนของระบบการเรียนรู้ถูกประเมินจริงในที่ที่ตัวกระตุ้นใช้ ตัวอย่างทำงานสำหรับระบบตัวอย่างใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) อยู่ใน [§9.1](#91-illustrative-educational-capability-application-by-class).*
+*พูดแบบตรง ๆ: โรงเรียน แพลตฟอร์ม และระบบฝึกอบรมบางแห่งอาจกำหนดอนาคตของผู้มีความรู้สึกผ่านคะแนน การจัดอันดับ คำแนะนำ การจัดตำแหน่ง หรือคุณวุฒิที่เปิดหรือปิดโอกาส เมื่อเป็นเช่นนั้น การรับรองต้องตรวจสามเรื่อง: ผู้มีความรู้สึกสามารถสร้างทักษะจริงได้หรือไม่; สามารถฝึกทักษะใหม่เมื่อทักษะที่โลกต้องการเปลี่ยนไปหรือไม่; และสามารถเห็น ตรวจสอบ และโต้แย้งการตัดสินใจเกี่ยวกับตนเองได้หรือไม่ หมวดนี้ไม่ได้กำหนดว่าจะสอนอะไร ให้คะแนนอย่างไร หรือจัดหาเงินทุนอย่างไร เอกสารอื่นดูแลเรื่องเหล่านั้น หมวดนี้ตรวจเพียงว่าเมื่อใช้บังคับ ได้ประเมินการสร้างทักษะและความเป็นธรรมของระบบการเรียนรู้จริงหรือไม่ ตัวอย่าง: [§5.2.5 ตัวอย่างการใช้การประเมินความสามารถด้านการศึกษาตามชั้นของระบบ (ไม่ครอบคลุมทั้งหมด)](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
 
-**ตัวกระตุ้นความเป็นสาระ.** หมวดนี้ใช้ในที่ที่ระบบที่มีผลกระทบที่เป็นสาระจัดอันดับ ประเมิน แนะนำ จัดวาง หรือกั้นด้วยหลักฐานคุณวุฒิผู้มีความรู้สึกอย่างเป็นสาระในบริบทการศึกษาหรือการฝึกอบรม — รวมผ่านการให้เกรด การจัดวาง การรับเข้า ใบอนุญาตวิชาชีพ การแนะนำรายวิชา การจัดเส้นทางเรียนรู้แบบปรับตัว หรือเส้นทางตัดสินที่เทียบได้ — หรือกั้นเส้นทางการศึกษาต่อเนื่อง การฝึกใหม่ หรือการสนับสนุนการเปลี่ยนผ่านอย่างเป็นสาระในที่ที่วิวัฒนาการของระบบเปลี่ยนความสามารถที่ถูกขออย่างเป็นสาระ มันไม่ขอการตรวจขีดความสามารถทางการศึกษาเต็มบนบันทึกการรับรองทุกฉบับ การเข้าถึงที่เท่ากันและการเข้าถึงได้ทางการศึกษายังถูกกำกับโดย **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*) และไม่ถูกทำให้แคบที่นี่
+<a id="521-materiality-trigger-and-governing-rules"></a>
+##### 5.2.1 ตัวกระตุ้นความเป็นสาระและกฎกำกับ
 
-การรับรองความสอดคล้องของระบบต้องประเมิน **ขีดความสามารถทางการศึกษาและความครบถ้วนของระบบการเรียนรู้** ภายใต้ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) [พลังกระทำการทางการศึกษา](core_05_band_participation.md#educational-agency) และ **มาตรา VI-B** (*การเรียนรู้ตลอดชีวิตและปรับตัวและความสามารถในการโต้แย้ง*) ในที่ที่ตัวกระตุ้นความเป็นสาระใช้ ความหมายฉบับหลัก ปัจจัยประเมิน และวินัยการไม่ปฏิบัติตามอยู่ในบทที่ห้าและ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*); หลักสูตร สารบบหลักฐานคุณวุฒิ รูบริกการประเมิน และกลไกการให้ทุนของสถาบันอยู่ในตราสารที่รับเข้าในที่ที่ใช้ได้ หมวดนี้กล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ไม่กล่าวซ้ำกลไกดำเนินงานเหล่านั้นและไม่กำหนดหลักสูตร รูปแบบหลักฐานคุณวุฒิ หรือการออกแบบการประเมินเฉพาะ
+หมวดนี้ใช้เมื่อระบบที่ส่งผลอย่างมากต่อชีวิตของผู้มีความรู้สึกทำสิ่งใดสิ่งหนึ่งต่อไปนี้ในด้านการศึกษาหรือการฝึกอบรม:
 
-**ข้อกำหนดการประเมิน.** กระบวนการรับรองต้องวินิจฉัยว่าเส้นทางเรียนรู้และหลักฐานคุณวุฒิที่ระบบพึ่งอย่างเป็นสาระผลิตการเข้าถึงการสร้างขีดความสามารถที่ใช้ปฏิบัติได้ — ไม่ใช่สัญลักษณ์หลักฐานคุณวุฒิอย่างเดียว — และว่าผู้มีความรู้สึกยังมีโอกาสฝึกใหม่ การศึกษาต่อเนื่อง และการสนับสนุนการเปลี่ยนผ่านที่ใช้ได้ในที่ที่ความสามารถที่ถูกขอเปลี่ยนอย่างเป็นสาระหรือไม่ การประเมินต้องทดสอบความโปร่งใส ความสามารถในการตรวจ และความสามารถในการโต้แย้งของตรรกะการจัดอันดับ การประเมิน คำแนะนำ และการจัดวางที่มีผลกระทบที่เป็นสาระภายใต้ **มาตรา VI-B** (*การเรียนรู้ตลอดชีวิตและปรับตัวและความสามารถในการโต้แย้ง*) ปรับตาม [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) และ [การพึ่งพา](core_05_band_continuity.md#dependency) การประเมินต้องตรวจจับตัวแทนทึบหรือทบทวนไม่ได้ การเฝ้าประตูหลักฐานที่เอาชนะการก่อตัวของขีดความสามารถ ความล้าสมัยที่ถูกบังคับหรือการล็อกที่ลบล้างพลังกระทำการ การออกแบบการเรียนรู้ที่บีบบังคับหรือชักนำ และการแบ่งส่วนที่เอาความสามารถในการโต้แย้งหรือการปรับตลอดชีวิตออกในที่ที่ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้ร่วม การประเมินต้องสะท้อนผลเชิงหน้าที่ ไม่ใช่ป้ายการเข้าถึงในนาม เจตนาทางการศึกษาที่ประกาศ หรือรูปแบบหลักฐานคุณวุฒิเพียงอย่างเดียว
+- จัดอันดับ ประเมิน แนะนำ จัดตำแหน่ง หรือทำหน้าที่เป็นผู้ควบคุมด่านคุณวุฒิสำหรับผู้มีความรู้สึกอย่างมีนัยสำคัญ เช่น ผ่านการให้คะแนน การจัดตำแหน่ง การรับเข้า การออกใบอนุญาต คำแนะนำรายวิชา การกำหนดเส้นทางการเรียนรู้แบบปรับตัว หรือการตัดสินใจที่คล้ายกัน; หรือ
+- ควบคุมการเข้าถึงการศึกษาต่อเนื่อง การฝึกทักษะใหม่ หรือความช่วยเหลือในช่วงเปลี่ยนผ่านอย่างมีนัยสำคัญ ในกรณีที่การเปลี่ยนแปลงระบบทำให้ทักษะที่ผู้มีความรู้สึกต้องการเปลี่ยนไปอย่างมีนัยสำคัญ
 
-**ข้อกำหนดบันทึก.** บันทึกการรับรองต้องกล่าวตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ที่พึ่ง ขอบเขตการประเมินสำหรับเส้นทางจัดอันดับ ประเมิน แนะนำ จัดวาง กั้นด้วยหลักฐานคุณวุฒิ และฝึกใหม่ที่พึ่งอย่างเป็นสาระ ข้อค้นพบการสร้างขีดความสามารถและเส้นทางฝึกใหม่ ข้อค้นพบความโปร่งใสของการประเมินและความสามารถในการโต้แย้ง ข้อค้นพบต้านตัวแทนและต้านการชักนำในที่ที่เป็นสาระ ความไม่แน่นอน ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบที่กำหนดอื่นในที่ที่ถูกขอ และเงื่อนไข ขีดจำกัดการพึ่ง หรือตัวกระตุ้นการเปิดใหม่ใดที่ผูกกับการเอาชนะขีดความสามารถที่ยืน ความทึบของการประเมิน หรือความล้าสมัยที่ถูกบังคับ
+การเข้าถึงการศึกษาอย่างเท่าเทียมและการเข้าถึงได้ยังอยู่ภายใต้ **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเท่าเทียม*) และไม่มีข้อความใดในที่นี้ทำให้สิทธิเหล่านั้นแคบลง
 
-**การปรับร่วมตามชั้นระบบ.** ความลึกของการประเมินขีดความสามารถทางการศึกษาและความครบถ้วนของระบบการเรียนรู้ต้องปรับตามชั้นระบบที่กำหนดภายใต้ [§2](#2-system-class-evaluation) และ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ระบบชั้นสูงกว่าที่จัดอันดับ ประเมิน แนะนำ จัดวาง หรือกั้นด้วยหลักฐานคุณวุฒิผู้มีความรู้สึกอย่างเป็นสาระในบริบทการศึกษาหรือการฝึกอบรม ต้องการหลักฐานที่แข็งกว่าตามสัดส่วนว่าสาระการสร้างขีดความสามารถ การเข้าถึงการฝึกใหม่ และความโปร่งใสของระบบการเรียนรู้ถูกประเมิน ไม่ใช่แค่กล่าว
+เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ การรับรองต้องประเมิน **ความสามารถด้านการศึกษาและความครบถ้วนของระบบการเรียนรู้** — กล่าวคือ ระบบสร้างความสามารถได้จริงและปฏิบัติต่อผู้มีความรู้สึกอย่างเป็นธรรมหรือไม่ — ตาม:
 
-**ข้อบกพร่องและความไม่สอดคล้อง.** การบัง การแสดงผิด การแยกชิ้น หรือการผลักตรรกะการจัดอันดับ การประเมิน คำแนะนำ หรือการจัดวางที่เป็นสาระในที่ที่ **มาตรา VI-B** (*การเรียนรู้ตลอดชีวิตและปรับตัวและความสามารถในการโต้แย้ง*) ขอการทบทวน; การถือรูปแบบหลักฐานคุณวุฒิ มาตรวัดการจบแบบรวม หรือคำกล่าวของผู้ดำเนินการเองว่าพอโดยไม่มีวิเคราะห์การสร้างขีดความสามารถที่ประเมินได้; การรับรองการพึ่งต่อเนื่องขณะที่ความทึบของการประเมิน การเฝ้าประตูหลักฐาน ความล้าสมัยที่ถูกบังคับ หรือการออกแบบการเรียนรู้ที่ชักนำที่จัดทำเอกสารคุกคามความสอดคล้องทางรัฐธรรมนูญอย่างเป็นสาระ; หรือการใช้กรอบประสิทธิภาพ การทำให้เฉพาะบุคคล หรือขนาดเพื่อเอาชนะการเข้าถึงการฝึกใหม่หรือความสามารถในการโต้แย้งโดยไม่บรรลุวินัยการสร้างขีดความสามารถของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) และวินัยความโปร่งใสของ **มาตรา VI-B** (*การเรียนรู้ตลอดชีวิตและปรับตัวและความสามารถในการโต้แย้ง*) ต้องถูกปฏิบัติเป็นข้อบกพร่องการรับรอง อาจรองรับการรับรู้มีเงื่อนไข การรับรู้ที่เลื่อน การไม่รับรู้ การถอน หรือการเปิดใหม่ภายใต้ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+- **มาตรา IV** (*สิทธิในการศึกษาที่มีผู้มีความรู้สึกเป็นศูนย์กลาง*);
+- **มาตรา IV-C** (*การเรียนรู้ตลอดชีวิตและการเรียนรู้แบบปรับตัวและความสามารถในการโต้แย้ง*); และ
+- [อำนาจตัดสินใจด้านการศึกษา](../../core_05_band_participation.md#educational-agency)
 
-<a id="91-illustrative-educational-capability-application-by-class"></a>
+หมวดนี้ไม่ได้กำหนดกฎการดำเนินงานด้านการศึกษา การตัดสินใจว่าจะสอนอะไร มีคุณวุฒิแบบใด ประเมินงานอย่างไร และให้ทุนโรงเรียนอย่างไร อยู่ในเอกสารอื่นที่อาจนำมาใช้ประกอบ และการรับรองไม่ได้เลือกหลักสูตร รูปแบบคุณวุฒิ หรือวิธีให้คะแนน
 
-<a id="91-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-#### 9.1 ตัวอย่างการประยุกต์ขีดความสามารถทางการศึกษาตามชั้น (ไม่ใช่รายการครบ)
+<a id="522-evaluation-requirement"></a>
+##### 5.2.2 ข้อกำหนดการประเมิน
 
-*พูดแบบตรง ๆ: [§3.8](#38-illustrative-whole-system-application-by-class) ถึง [§8.1](#81-illustrative-accessibility-application-by-class) พาสามระบบเดียวกันผ่านโดเมนประเมินก่อนหน้า หมวดย่อยนี้แสดงว่าการประเมิน **ขีดความสามารถทางการศึกษาและความครบถ้วนของระบบการเรียนรู้** หมายความอย่างไรสำหรับแต่ละระบบ — เส้นทางจัดอันดับ ประเมิน หลักฐานคุณวุฒิ และฝึกใหม่ใดนับ สิ่งที่การรับรองต้องตรวจเมื่อตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้ และสิ่งที่ต้องปรากฏบนบันทึก บทที่ห้าและ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ยังเป็นเจ้าของกฎพลังกระทำการทางการศึกษาและระบบการเรียนรู้ฉบับหลัก; หลักสูตร สารบบหลักฐานคุณวุฒิ รูบริกการประเมิน และแบบการให้ทุนอาจอยู่ในตราสารอื่น การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้; การเดินดูเหล่านี้ไม่กำหนดกลไกเหล่านั้น การเข้าถึงที่เท่ากันและการเข้าถึงได้ทางการศึกษายังเป็นของ **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*) และไม่ถูกทำให้แคบที่นี่*
+การรับรองต้องตรวจว่าเส้นทางการเรียนรู้และคุณวุฒิที่ผู้มีความรู้สึกพึ่งพาในทางปฏิบัติมอบช่องทางจริงในการสร้างทักษะให้หรือไม่ ไม่ใช่เพียงใบรับรองที่ดูดีบนกระดาษ และผู้มีความรู้สึกยังมีวิธีที่ทำได้จริงในการฝึกทักษะใหม่ เรียนรู้อย่างต่อเนื่อง และผ่านช่วงเปลี่ยนผ่านเมื่อทักษะที่ต้องการเปลี่ยนไปอย่างมีนัยสำคัญหรือไม่
 
-**Class A — การควบคุมและเทเลเมทรีน้ำดื่มปลอดภัยของเทศบาล.** ระบบบำบัดและจ่ายที่เป็นของเมืองกั้นว่าใครอาจดำเนินหน้าที่โรงงานที่วิกฤตต่อการอยู่รอดผ่านใบอนุญาตผู้ปฏิบัติ การรับรองความปลอดภัย การประเมินความสามารถ และกฎการฝึกใหม่ตามระเบียบ — เส้นทางออกหลักฐานบทบาทที่ตัดสินว่าผู้มีความรู้สึกสร้างและรักษาขีดความสามารถในการเดินน้ำปลอดภัยได้หรือไม่ และว่าการประเมินเหล่านั้นเห็น ตรวจ และโต้แย้งได้หรือไม่
+ผู้ตรวจต้องทดสอบด้วยว่าสามารถมองเห็น ตรวจสอบ และโต้แย้งการตัดสินใจจัดอันดับ ให้คะแนน แนะนำ และจัดตำแหน่งของระบบได้หรือไม่ ตามที่ **มาตรา IV-C** (*การเรียนรู้ตลอดชีวิตและการเรียนรู้แบบปรับตัวและความสามารถในการโต้แย้ง*) กำหนด ความเข้มงวดของการทดสอบขึ้นอยู่กับส่วนได้เสียมากเพียงใด ([ความเป็นสาระ](core_05_band_oversight.md#materiality)) และผู้มีความรู้สึกพึ่งพาระบบมากเพียงใด ([การพึ่งพา](../../core_05_band_continuity.md#dependency))
 
-- **เส้นทางเรียนรู้และหลักฐานคุณวุฒิในขอบเขต:**
-  - ใบอนุญาตผู้ปฏิบัติ การต่ออายุ และการระงับ;
-  - การรับรองความปลอดภัยและการประเมินความสามารถตอบสนองฉุกเฉิน;
-  - การฝึกใหม่ด้านระเบียบและเทเลเมทรีเมื่อเคมี ตรรกะควบคุม หรือข้อกำหนดกำกับเปลี่ยน;
-  - การจัดอันดับหรือการจัดวางเข้ากะโรงงาน ล่วงเวลา หรือบทบาทผู้ปฏิบัติหลักตามความสามารถที่ประเมิน;
-  - เส้นทางท้าทายและการฝึกเยียวยาสำหรับการประเมินที่ไม่ผ่านหรือหลักฐานคุณวุฒิที่ถูกระงับ
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าเส้นทางเรียนรู้และหลักฐานคุณวุฒิเหล่านั้นผลิตขีดความสามารถที่ใช้ปฏิบัติในการเดินการควบคุมน้ำปลอดภัย — ไม่ใช่สัญลักษณ์หลักฐานคุณวุฒิหรือจำนวนใบรับรองการจบเพียงอย่างเดียว;
-  - ว่าผู้ปฏิบัติยังมีการฝึกใหม่และการสนับสนุนการเปลี่ยนผ่านที่ใช้ได้เมื่อความสามารถที่ถูกขอเปลี่ยนอย่างเป็นสาระ;
-  - ว่าตรรกะการจัดอันดับ การประเมิน และการกั้นด้วยหลักฐานคุณวุฒิโปร่งใส ตรวจได้ และโต้แย้งได้ภายใต้ **มาตรา VI-B** (*การเรียนรู้ตลอดชีวิตและปรับตัวและความสามารถในการโต้แย้ง*);
-  - ว่าตัวแทนทึบ การเฝ้าประตู หรือความล้าสมัยที่ถูกบังคับเอาชนะการก่อตัวของขีดความสามารถของเจ้าหน้าที่ซึ่งความสามารถกั้นสิ่งจำเป็นต่อการอยู่รอด;
-  - ว่าความลึกของการประเมินตรงกับส่วนได้เสีย **Class A** ในที่ที่ผู้ปฏิบัติที่ไม่ผ่านคุณสมบัติหรือถูกปิดกั้นอาจปิดน้ำปลอดภัย; และ
-  - ว่าขีดจำกัดการประเมินใดบรรลุสาระการสร้างขีดความสามารถที่จัดทำเอกสาร ไม่ใช่เจตนาทางการศึกษาที่ประกาศเพียงอย่างเดียว
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ที่พึ่ง;
-  - ขอบเขตการประเมินสำหรับเส้นทางใบอนุญาต การประเมิน การกั้นด้วยหลักฐานคุณวุฒิ และฝึกใหม่ที่พึ่งอย่างเป็นสาระ;
-  - ข้อค้นพบการสร้างขีดความสามารถและเส้นทางฝึกใหม่ที่ความลึก **Class A**;
-  - ข้อค้นพบความโปร่งใสของการประเมินและความสามารถในการโต้แย้ง;
-  - ข้อค้นพบต้านตัวแทนและต้านการชักนำในที่ที่เป็นสาระ;
-  - ความไม่แน่นอน;
-  - ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบอื่นในที่ที่ถูกขอ; และ
-  - เงื่อนไขหรือตัวกระตุ้นการเปิดใหม่ที่ผูกกับความทึบของการประเมินที่ยืน การเฝ้าประตูหลักฐาน หรือความล้าสมัยที่ถูกบังคับ ในที่ที่การดำเนินงานวิกฤตต่อการอยู่รอดถูกกั้น
+ผู้ตรวจต้องเฝ้าระวัง:
 
-**Class B — การแลกบันทึกคลินิกระดับภูมิภาค.** การแลกสารสนเทศสุขภาพและพอร์ทัลผู้ร่วมกั้นการปฏิบัติคลินิกและการเข้าถึงการดูแลผ่านการยืนยันหลักฐานคุณวุฒิของผู้ให้บริการคลินิก การจัดอันดับสิทธิพิเศษ การจัดวางโรงพยาบาลหรือคลินิก การฝึกความเป็นส่วนตัวและเบรกกลาส และข้อกำหนดการศึกษาต่อเนื่องที่ตัดสินอย่างเป็นสาระว่าใครอาจปฏิบัติบนเครือข่าย และเจ้าหน้าที่ฝึกใหม่ได้เร็วเพียงใดเมื่อกฎเปลี่ยน
+- คะแนนหรือการจัดอันดับที่สร้างจากตัวแทนที่ซ่อนอยู่ (พร็อกซี) ซึ่งไม่มีใครตรวจสอบได้;
+- การควบคุมด่านคุณวุฒิที่ขัดขวางไม่ให้ผู้มีความรู้สึกเรียนรู้ทักษะจริง;
+- การทำให้ล้าสมัยหรือการล็อกอินโดยบังคับ ซึ่งพรากสิทธิออกเสียงของผู้มีความรู้สึกเกี่ยวกับเส้นทางของตนเอง;
+- การออกแบบการเรียนรู้แบบบังคับหรือชักจูง; และ
+- การจัดผู้มีความรู้สึกเข้าเส้นทางต่าง ๆ ในลักษณะที่พรากความสามารถในการโต้แย้งการตัดสินใจหรือปรับตัวต่อไป เมื่อ **มาตรา IV** (*สิทธิในการศึกษาที่มีผู้มีความรู้สึกเป็นศูนย์กลาง*) ใช้บังคับด้วย
 
-- **เส้นทางเรียนรู้และหลักฐานคุณวุฒิในขอบเขต:**
-  - การยืนยันหลักฐานคุณวุฒิของผู้ให้บริการคลินิกและการจัดอันดับสิทธิพิเศษ;
-  - ตรรกะการจัดวางโรงพยาบาล คลินิก หรือแพทย์ประจำบ้านที่ผูกกับการแลก;
-  - การประเมินการฝึกความเป็นส่วนตัว ความยินยอม และเบรกกลาส;
-  - ข้อกำหนดการศึกษาต่อเนื่องและการต่ออายุความสามารถสำหรับการร่วมเครือข่าย;
-  - การแนะนำหรือการจัดเส้นทางแบบปรับตัวเข้าสู่โมดูลเฉพาะทาง เส้นทางการศึกษาแพทย์ต่อเนื่อง หรือการฝึกเยียวยา;
-  - เส้นทางท้าทายสำหรับสิทธิพิเศษที่ถูกปฏิเสธ การประเมินที่ไม่ผ่าน หรือการรับเข้าที่ถูกปิด
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าเส้นทางหลักฐานคุณวุฒิและการจัดวางผลิตขีดความสามารถคลินิกที่ใช้ปฏิบัติและการร่วมเครือข่าย — ไม่ใช่กล่องติ๊กฝึก HIPAA ในนามหรือแดชบอร์ดการจบเพียงอย่างเดียว;
-  - ว่าผู้ให้บริการคลินิกและเจ้าหน้าที่ HIM ยังมีการฝึกใหม่ที่ใช้ได้เมื่อกฎความยินยอม การจัดเส้นทาง หรือการเข้าถึงฉุกเฉินเปลี่ยนอย่างเป็นสาระ;
-  - ว่าตรรกะการจัดอันดับ การประเมิน การแนะนำ และการจัดวางโปร่งใส ตรวจได้ และโต้แย้งได้ภายใต้ **มาตรา VI-B** (*การเรียนรู้ตลอดชีวิตและปรับตัวและความสามารถในการโต้แย้ง*);
-  - ว่าตัวแทนการใช้ «ความเหมาะสม» หรือเกียรติยศที่ทึบเอาชนะการก่อตัวของขีดความสามารถ หรือล็อกผู้ร่วมเข้าสู่เส้นทางทบทวนไม่ได้;
-  - ว่าความลึกของการประเมินตรงกับความวิกฤตดำเนินงาน **Class B** ในที่ที่ตรรกะหลักฐานคุณวุฒิหรือการจัดวางกั้นการเข้าถึงการดูแล การจ้างงาน หรือการปฏิบัติที่ติดกับใบอนุญาต; และ
-  - ว่ากรอบประสิทธิภาพหรือการทำให้เฉพาะบุคคลถูกใช้เพื่อเอาชนะความสามารถในการโต้แย้งโดยไม่มีวิเคราะห์การสร้างขีดความสามารถที่ประเมินได้
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้น **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) และขอบเขตเส้นทาง;
-  - ข้อค้นพบการสร้างขีดความสามารถและเส้นทางฝึกใหม่สำหรับเส้นทางผู้ให้บริการคลินิกและคลินิก;
-  - ข้อค้นพบความโปร่งใสของการประเมินและความสามารถในการโต้แย้ง;
-  - ข้อค้นพบต้านตัวแทนและต้านการชักนำในที่ที่เป็นสาระ;
-  - ความไม่แน่นอนและข้อค้นพบส่วนประกอบในที่ที่ถูกขอ; และ
-  - ตัวกระตุ้นการเปิดใหม่หากสิ่งกีดขวางหลักฐานคุณวุฒิ สิทธิพิเศษ หรือการฝึกจะปิดการจัดเจ้าหน้าที่ฉุกเฉินหรือการปฏิบัติคลินิกภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอดแล้ว หรือเอาชนะการพึ่งดำเนินงานรายวันอย่างเป็นสาระ
+ผู้ตรวจต้องตัดสินจากสิ่งที่ระบบทำจริง ไม่ใช่ป้ายการเข้าถึง สิ่งที่ผู้ออกแบบกล่าวว่าตั้งใจ หรือเอกสารที่ดูเรียบร้อย
 
-**Class C — แพลตฟอร์มตารางและการประสานระหว่างสถาบัน.** ชั้นตารางหลายองค์กรจัดอันดับ แนะนำ และจัดสรรช่องฝึก การปฐมนิเทศ การศึกษาต่อเนื่อง และลำดับความสำคัญการพัฒนาวิชาชีพข้ามโรงพยาบาล โรงเรียน และหน่วยงานสาธารณะ — แม้แพลตฟอร์มเองไม่ใช่สาธารณูปโภควิกฤตต่อการอยู่รอด
+<a id="523-system-class-scaling-and-escalation"></a>
+##### 5.2.3 การปรับขนาดและยกระดับตามชั้นของระบบ
 
-- **เส้นทางเรียนรู้และหลักฐานคุณวุฒิในขอบเขต:**
-  - การจองช่องฝึกและการปฐมนิเทศ;
-  - การจัดอันดับหรือการแนะนำการศึกษาต่อเนื่องและการพัฒนาวิชาชีพ;
-  - การจับคู่รายวิชา กลุ่มรุ่น หรือผู้สอน;
-  - การเตือนหมดอายุหลักฐานคุณวุฒิที่ผูกกับคุณสมบัติการเข้าตาราง;
-  - ลักษณะที่ได้ที่จัดเส้นทางเจ้าหน้าที่เข้าสู่เส้นทางพรีเมียมหรือเยียวยา;
-  - กฎ API หรือนโยบายที่กีดกันสถาบันเล็กกว่าจากขีดความสามารถฝึกที่ชอบ
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้ — รวมในที่ที่อัลกอริทึมประสานแนะนำรายวิชาอย่างเป็นสาระ จัดอันดับการเข้าถึงการพัฒนาวิชาชีพ หรือกั้นช่องฝึกที่หล่อเส้นทางหลักฐานคุณวุฒิหรืออาชีพ;
-  - ว่าคำแนะนำและการจัดสรรช่องผลิตการเข้าถึงการสร้างขีดความสามารถ ไม่ใช่สัญลักษณ์หลักฐานคุณวุฒิ;
-  - ว่าตรรกะการประเมิน การจัดอันดับ หรือการแนะนำโปร่งใส ตรวจได้ และโต้แย้งได้;
-  - ว่าผู้ดำเนินการถือแพลตฟอร์มว่าต่ำกว่าการทบทวนเพราะเป็น **Class C** ขณะที่ผลการจัดเส้นทางฝึกหล่องาน การศึกษา หรือเส้นทางใบอนุญาตอย่างเป็นสาระ; และ
-  - ว่า **การเฝ้าการจำแนกใหม่** ถูกขอในที่ที่แพลตฟอร์มกลายเป็นสิ่งจำเป็นต่อการดำเนินงานสำหรับงาน สิทธิพิเศษคลินิก หรือหลักฐานคุณวุฒิการจัดเจ้าหน้าที่ที่จำเป็นต่อการอยู่รอด
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ว่าและทำไมตัวกระตุ้น **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้;
-  - ขอบเขตการประเมินสำหรับเส้นทางจัดอันดับ แนะนำ จัดวาง และฝึกใหม่ตามสัดส่วนกับความเสี่ยงการประสาน **Class C**;
-  - ข้อค้นพบการสร้างขีดความสามารถ ความโปร่งใส และความสามารถในการโต้แย้งในที่ที่เป็นสาระ — ไม่ใช่คำกล่าวว่างเปล่าว่าการฝึกเป็น «ทางเลือก»;
-  - ข้อค้นพบความกระจุกและจุดคอขวดในที่ที่ผลการจัดเส้นทางฝึกบอกล่วงหน้าการยกระดับ;
-  - **การเฝ้าการจำแนกใหม่** ที่ชัดในที่ที่การพึ่งแข็งขึ้น; และ
-  - ตัวชี้ไปยังการทบทวนขีดความสามารถทางการศึกษาที่ยกระดับหากชั้นหรือบทบาทการประสานที่จำเป็นต่อการอยู่รอดเปลี่ยน
+ความลึกของการตรวจขึ้นอยู่กับชั้นของระบบ เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ:
 
-**การอ่านข้ามชั้น.** วินัยขีดความสามารถทางการศึกษาของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) และบทที่ห้าชุดเดียวกันใช้ในที่ที่ตัวกระตุ้นความเป็นสาระถูกบรรลุ; ชั้นเปลี่ยนความลึกของการประเมิน ไม่ใช่อนุญาตให้ถือรูปแบบหลักฐานคุณวุฒิหรือการประเมินที่ทึบว่าพอ ระบบน้ำ **Class A** ที่ใบอนุญาตผู้ปฏิบัติหรือการประเมินความปลอดภัยอาจปิดการเดินโรงงานอย่างปลอดภัย ต้องถือหลักฐานการสร้างขีดความสามารถ การฝึกใหม่ และความสามารถในการโต้แย้งที่แข็งที่สุดบนบันทึก — ไม่ใช่คำกล่าวนโยบายฝึกทั่วไป การแลก **Class B** ที่สิทธิพิเศษ การจัดวาง หรือตรรกะการศึกษาแพทย์ต่อเนื่องกั้นการปฏิบัติคลินิก ต้องจัดทำเอกสารความโปร่งใสของการประเมินและการเข้าถึงการฝึกใหม่ที่ความวิกฤตดำเนินงาน แพลตฟอร์มตาราง **Class C** ต้องไม่คงย่อหน้าการศึกษาเชิงพิธีขณะที่ตรรกะช่องฝึก คำแนะนำ หรือการจัดเส้นทางหลักฐานคุณวุฒิจัดอันดับหรือกีดกันผู้ร่วมอย่างเป็นสาระ; เมื่อการประสานกลายเป็นสิ่งจำเป็นต่อการดำเนินงานสำหรับงานหรือใบอนุญาต การรับรองต้องยกระดับการทบทวนและการจำแนกใหม่ภายใต้ [§2](#2-system-class-evaluation) และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) รวมขึ้นสู่ **Class A** ในที่ที่หลักฐานคุณวุฒิการจัดเจ้าหน้าที่ที่จำเป็นต่อการอยู่รอดถูกกั้น การเดินดูความน่าไว้วางใจสำหรับระบบเดียวกันอยู่ใน [§10.1](#101-illustrative-trustworthiness-application-by-class).
+- หากระบบทดสอบหรือออกใบอนุญาตให้ผู้ปฏิบัติงานโครงสร้างพื้นฐานที่ผู้มีความรู้สึกต้องใช้เพื่ออยู่รอด และการตัดสินใจของระบบอาจทำให้โครงสร้างพื้นฐานนั้นทำงานอย่างปลอดภัยไม่ได้ บันทึกต้องแสดงหลักฐานที่หนักแน่นที่สุดว่าระบบช่วยสร้างทักษะจริง มีการฝึกทักษะใหม่ และสามารถโต้แย้งได้ นโยบายการฝึกอบรมทั่วไปยังไม่เพียงพอ
+- หากสิทธิพิเศษ การจัดตำแหน่ง หรือกฎการศึกษาต่อเนื่องของระบบกำหนดว่าใครทำงานในบทบาททางคลินิกได้ บันทึกต้องแสดงวิธีตรวจสอบการประเมินและวิธีที่ผู้มีความรู้สึกจะฝึกทักษะใหม่ ยิ่งงานมีความสำคัญยิ่งต้องให้รายละเอียดมากขึ้น
+- ย่อหน้าสั้น ๆ เกี่ยวกับการศึกษาไม่เพียงพอ เมื่อการจัดสรรที่ฝึก คำแนะนำ หรือการส่งต่อคุณวุฒิของระบบจัดอันดับหรือปิดกั้นผู้เข้าร่วมอย่างมีนัยสำคัญ
+- หากผู้มีความรู้สึกต้องผ่านระบบเพื่อทำงานหรือขอรับใบอนุญาต การรับรองต้องตรวจเข้มขึ้นและทบทวนชั้นของระบบตาม [§2 การประเมินชั้นของระบบ](#2-system-class-evaluation) และ [Part B §7 ผลการรับรอง](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) ซึ่งรวมถึงการยกระดับไปทาง **ชั้น A** เมื่อมีการปิดกั้นคุณวุฒิสำหรับการจัดกำลังคนที่จำเป็นต่อการอยู่รอด
 
-<a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+<a id="524-defects-and-misalignment"></a>
+##### 5.2.4 ข้อบกพร่องและความไม่สอดคล้อง
 
-### 10. การประเมินความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบ
+สิ่งต่อไปนี้แต่ละรายการถือเป็นข้อบกพร่องด้านการรับรอง:
+
+- ซ่อน บิดเบือน กระจายแยกส่วน หรือผลักภาระตรรกะเบื้องหลังการจัดอันดับ การประเมิน คำแนะนำ หรือการจัดตำแหน่งที่มีนัยสำคัญไปให้ผู้อื่น ทั้งที่ **มาตรา IV-C** (*การเรียนรู้ตลอดชีวิตและการเรียนรู้แบบปรับตัวและความสามารถในการโต้แย้ง*) กำหนดให้ตรรกะนั้นเปิดให้ตรวจสอบ;
+- ยอมรับคุณวุฒิ อัตราการเรียนจบโดยรวม หรือคำกล่าวของผู้ดำเนินการเป็นหลักฐานว่าผู้มีความรู้สึกกำลังเรียนรู้ โดยไม่ตรวจว่าพวกเขากำลังสร้างทักษะจริงหรือไม่;
+- รับรองว่าผู้มีความรู้สึกพึ่งพาระบบต่อไปได้ ทั้งที่ปัญหาที่บันทึกไว้ เช่น การประเมินที่ไม่โปร่งใส การควบคุมด่านคุณวุฒิ การทำให้ล้าสมัยโดยบังคับ หรือการออกแบบการเรียนรู้แบบชักจูง คุกคามความสอดคล้องกับรัฐธรรมนูญอย่างมีนัยสำคัญ; และ
+- ใช้ประสิทธิภาพ การปรับให้เหมาะเฉพาะบุคคล หรือขนาดเป็นข้ออ้างเพื่อปฏิเสธการฝึกทักษะใหม่หรือความสามารถในการโต้แย้งการตัดสินใจ เมื่อระบบไม่เป็นไปตามข้อกำหนดการสร้างทักษะใน **มาตรา IV** (*สิทธิในการศึกษาที่มีผู้มีความรู้สึกเป็นศูนย์กลาง*) และข้อกำหนดด้านความโปร่งใสใน **มาตรา IV-C** (*การเรียนรู้ตลอดชีวิตและการเรียนรู้แบบปรับตัวและความสามารถในการโต้แย้ง*)
+
+
+<a id="53-proportionate-cross-system-support-evaluation"></a>
+
+#### 5.3 การประเมินการสนับสนุนระหว่างระบบตามสัดส่วน
 
 <details>
-<summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">การสืบย้อนแหล่งที่มา</span></strong></summary>
 
-- ต้นทาง: [ส่วน ข §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นระบบ*); ตระกูลการวัดการกำกับดูแล (*ความจริงและความครบถ้วนของความรู้; ความน่าไว้วางใจ และการเสื่อมของความไว้วางใจและการพึ่งที่ทำให้เข้าใจผิดในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*); [ความน่าไว้วางใจ](core_05_band_continuity.md#trustworthiness), [ความไว้วางใจ](core_05_band_continuity.md#trust), [การเสื่อมของความไว้วางใจและการพึ่งที่ทำให้เข้าใจผิด](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability), [การเยียวยาและการแก้ไข](core_05_band_accountability.md#redress-and-remediation-constitutional), [ความสอดคล้องของสิ่งจูงใจ](core_05_band_integrative.md#incentive-alignment), [ความสามารถในการย้อนกลับ](core_05_band_continuity.md#reversibility-constitutional), [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination), [การพึ่งพา](core_05_band_continuity.md#dependency), และ [ความเสี่ยง](core_05_band_continuity.md#risk) (บทที่ห้า).
-- ปลายทาง: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*การเดินดูตัวอย่างความน่าไว้วางใจ*); [ส่วน ข §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [ส่วน ข §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องความไว้วางใจเท็จ ความไม่สอดคล้องสิ่งจูงใจบิดเบี้ยว และความไม่สอดคล้องความครบถ้วนของการฟื้น*).
-- อ่านคู่กับ: **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*) และ **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) — สิทธิท้าทายและการตรวจยังเป็นของที่นั่น; **มาตรา XIII-E** (*ระบบอัตโนมัติสูงและความครบถ้วนของกระบวนการที่เครื่องมือเป็นสื่อ*) ในที่ที่ระบบอัตโนมัติสูงเป็นสื่อเส้นทางปกครองหรือการตรวจสอบอย่างเป็นสาระ; **มาตรา III-A** (*การอยู่รอด*) ในที่ที่การพึ่งระบบต่อเนื่องจะกระทบการเข้าถึงที่จำเป็นต่อการอยู่รอด; [บทที่หนึ่ง §4 ความไว้วางใจ](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) และ [บทที่หนึ่ง §3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- หมวดย่อย: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*ตัวอย่างการประยุกต์ความน่าไว้วางใจตามชั้น*).
+- ต้นทาง: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นของระบบ*); ตระกูลการวัดความต่อเนื่อง (*การสนับสนุนระหว่างระบบตามสัดส่วนในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของการไหลเวียนทรัพยากร*) และ **มาตรา V-B** (*ความเป็นธรรมและความยั่งยืนระหว่างระบบ*); [การดึงทรัพยากรข้ามระบบ](../../core_05_band_continuity.md#cross-system-extraction), [การสนับสนุนระหว่างระบบตามสัดส่วน](../../core_05_band_continuity.md#proportionate-cross-system-support), [การพึ่งพา](../../core_05_band_continuity.md#dependency), [ความเป็นธรรมเชิงสาระ](../../core_05_band_participation.md#substantive-fairness), [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality), [รอยเท้าทางนิเวศ](../../core_05_band_continuity.md#ecological-footprint) และ [ความยั่งยืน](../../core_05_band_continuity.md#sustainability) (บทที่ห้า)
+- ปลายทาง: [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*ตัวอย่างการไล่ตรวจการสนับสนุนระหว่างระบบ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ด่านข้อมูลนำเข้าที่ผ่านการตรวจสอบ*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*การบิดเบือนการไหลเวียนทรัพยากร ความไม่สอดคล้องจากการดึงทรัพยากร และการสนับสนุนไม่เพียงพอ*)
+- อ่านควบคู่กับ: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*การจัดสรรทรัพยากรและการดูแลเงินทุน*) และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*); [*สถาปัตยกรรมการกำกับดูแล การกำกับดูแล การพึ่งพา การกระจายศูนย์ การกระจุกตัว โครงสร้างตลาด และความครบถ้วนของเส้นทางออก*](../../core_05_band_accountability.md#governance-architecture-decentralization-and-concentration) เมื่อการกระจุกตัว การพึ่งพา หรือการกำหนดเส้นทางสิ่งจูงใจเกี่ยวข้องกับ **มาตรา V-B** (*ความเป็นธรรมและความยั่งยืนระหว่างระบบ*)
+- หมวดย่อย: [§5.3.1](#531-materiality-trigger) (*ตัวกระตุ้นความเป็นสาระ*); [§5.3.2](#532-meaning-of-extraction) (*ความหมายของการดึงทรัพยากร*); [§5.3.3](#533-governing-rules) (*กฎกำกับ*); [§5.3.4](#534-evaluation-requirement) (*ข้อกำหนดการประเมิน*); [§5.3.5](#535-map-and-record-integrity) (*ความครบถ้วนของแผนที่และบันทึก*); [§5.3.6](#536-system-class-scaling-and-escalation) (*การปรับขนาดและยกระดับตามชั้นของระบบ*); [§5.3.7](#537-defects-and-misalignment) (*ข้อบกพร่องและความไม่สอดคล้อง*); [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*ตัวอย่างการใช้การประเมินการสนับสนุนระหว่างระบบตามชั้นของระบบ*)
 
 </details>
 
 <br>
 
-*พูดแบบตรง ๆ: เมื่อระบบกระทบอย่างเป็นสาระว่าผู้มีความรู้สึกไว้วางใจสิ่งที่มันกล่าวและทำได้หรือไม่ — และผลักกลับเมื่อความไว้วางใจนั้นล้ม — การรับรองต้องตรวจว่าการพึ่งมีเหตุจริง ถูกเปิดเผยอย่างซื่อ และซ่อมได้หรือไม่ มาตรวัดความพึ่งได้และการออกแบบชุดทดสอบอยู่ในตราสารอื่น; การรับรองตรวจว่าความน่าไว้วางใจ ความเสี่ยงความไว้วางใจเท็จ และเส้นทางท้าทายถูกประเมินจริงในที่ที่ตัวกระตุ้นใช้ ตัวอย่างทำงานสำหรับระบบตัวอย่างใน [§2.1](#21-illustrative-class-profiles-non-exhaustive) อยู่ใน [§10.1](#101-illustrative-trustworthiness-application-by-class).*
+*พูดแบบตรง ๆ: บางระบบพึ่งพารากฐานร่วม ได้แก่ โครงสร้างพื้นฐาน บริการ และทรัพยากรที่ระบบและผู้มีความรู้สึกอื่นจำนวนมากต้องอาศัย เมื่อระบบหนึ่งใช้รากฐานเหล่านั้นอย่างหนัก การรับรองต้องตรวจว่าระบบคืนกลับมากพอที่จะคงรากฐานไว้หรือไม่ และบันทึกแสดงเรื่องนี้ชัดพอให้ตรวจสอบย้อนกลับได้หรือไม่ คำกล่าวของผู้ดำเนินการว่า “บัญชีสมดุลแล้ว” ยังไม่เพียงพอ หมวดนี้ไม่ได้กำหนดสูตรการจัดสรรหรือเป้าหมายเชิงตัวเลข เอกสารอื่นดูแลเรื่องนั้น หมวดนี้ตรวจว่าเมื่อใช้บังคับ ได้ประเมินการพึ่งพาของระบบ สิ่งที่นำไป สิ่งที่คืนกลับ และความเป็นธรรมของการจัดการต่อผู้อื่นจริงหรือไม่ ตัวอย่าง: [§5.3.8 ตัวอย่างการใช้การประเมินการสนับสนุนระหว่างระบบตามชั้นของระบบ (ไม่ครอบคลุมทั้งหมด)](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive).*
 
-**ตัวกระตุ้นความเป็นสาระ.** หมวดนี้ใช้ในที่ที่ระบบที่มีผลกระทบที่เป็นสาระหล่อการพึ่งของผู้มีความรู้สึกต่อความประพฤติที่แสดง ขีดจำกัด ความเสี่ยง เส้นทางท้าทาย หรือการแก้ไขอย่างเป็นสาระ — รวมผ่านคำกล่าวความพึ่งได้ ท่าทางการเปิดเผย ความประพฤติดำเนินงาน การออกแบบสิ่งจูงใจ วิธีฟื้น หรือเส้นทางการพึ่งที่เทียบได้ มันไม่ขอการตรวจความน่าไว้วางใจเต็มบนบันทึกการรับรองทุกฉบับ
+<a id="531-materiality-trigger"></a>
+##### 5.3.1 ตัวกระตุ้นความเป็นสาระ
 
-การรับรองความสอดคล้องของระบบต้องประเมิน **ความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบ** ภายใต้ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) [ความน่าไว้วางใจ](core_05_band_continuity.md#trustworthiness) และ [การเสื่อมของความไว้วางใจและการพึ่งที่ทำให้เข้าใจผิด](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) ในที่ที่ตัวกระตุ้นความเป็นสาระใช้ ความหมายฉบับหลัก ปัจจัยประเมิน และวินัยการไม่ปฏิบัติตามอยู่ในบทที่ห้าและ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*); มาตรวัดความพึ่งได้ รูปแบบการเปิดเผย กลไกความสอดคล้องของสิ่งจูงใจ และการออกแบบการทดสอบถดถอยอยู่ในตราสารที่รับเข้าในที่ที่ใช้ได้ หมวดนี้กล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ไม่กล่าวซ้ำกลไกดำเนินงานเหล่านั้นและไม่กำหนดมาตรวัดความพึ่งได้หรือการออกแบบชุดทดสอบเฉพาะ
+หมวดนี้ใช้เมื่อระบบที่มีผลกระทบเป็นสาระต่อชีวิตของผู้มีความรู้สึกทำสิ่งใดสิ่งหนึ่งต่อไปนี้กับโครงสร้างพื้นฐานหรือรากฐานร่วม ซึ่งเป็นสิ่งที่ระบบและผู้มีความรู้สึกอื่นพึ่งพา:
 
-**ข้อกำหนดการประเมิน.** กระบวนการรับรองต้องวินิจฉัยว่าเส้นทางที่ระบบพึ่งอย่างเป็นสาระรักษาเงื่อนไขของ [ความไว้วางใจ](core_05_band_continuity.md#trust) ที่มีเหตุและการพึ่งที่แม่นพอสมควรภายใต้ **มาตรา XIII-A** (*เส้นฐานความพึ่งได้และความน่าไว้วางใจ*) — ไม่ใช่ชื่อเสียง ขนาด หรือท่าทางการตลาดเพียงอย่างเดียว การประเมินต้องทดสอบการท้าทาย การทบทวน และการเยียวยาที่ใช้ปฏิบัติได้ภายใต้ **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*) ความเสี่ยงความไว้วางใจเท็จและการพึ่งที่ทำให้เข้าใจผิดภายใต้ **มาตรา XIII-C** (*ห้ามความไว้วางใจเท็จและการพึ่งพาที่ทำให้เข้าใจผิด*) การเปิดรับสิ่งจูงใจบิดเบี้ยวภายใต้ **มาตรา XIII-D** (*ข้อจำกัดความสอดคล้องของสิ่งจูงใจ*) และความครบถ้วนของการฟื้นภายใต้ **มาตรา XIII-F** (*เส้นฐานความยืดหยุ่นคืนตัวและการซ่อมตนเอง*) ในที่ที่เป็นสาระ ปรับตาม [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) [การพึ่งพา](core_05_band_continuity.md#dependency) และ [ความเสี่ยง](core_05_band_continuity.md#risk) การประเมินต้องตรวจจับความไว้วางใจที่ถูกผลิต ขีดจำกัดที่ไม่เปิดเผย โครงสร้างสิ่งจูงใจที่ให้รางวัลการหลอกลวงหรือการตัดมุม เส้นทางท้าทายที่มีอยู่บนกระดาษอย่างเดียว และวิธีฟื้นที่ซ่อนความล้มเหลวหรือทำให้สิทธิแคบลงอย่างเงียบ การประเมินต้องสะท้อนผลเชิงหน้าที่ข้ามเวลา ขนาด และการพึ่ง ไม่ใช่ป้ายการประกันในนาม เจตนาที่ประกาศ หรือผลงานก่อนหน้าเพียงอย่างเดียว
+- ตัดสินว่าใครจะได้รับสิ่งนั้น (จัดสรร);
+- กำหนดเส้นทางการไหลของสิ่งนั้น;
+- จ่ายเงินสำหรับสิ่งนั้น (ให้ทุน); หรือ
+- ดึงทรัพยากรจากสิ่งนั้น
 
-**ข้อกำหนดบันทึก.** บันทึกการรับรองต้องกล่าวตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ที่พึ่ง ขอบเขตการประเมินสำหรับเส้นทางการพึ่ง การเปิดเผย สิ่งจูงใจ การท้าทาย และการฟื้นที่พึ่งอย่างเป็นสาระ ข้อค้นพบความน่าไว้วางใจและความไว้วางใจเท็จ ข้อค้นพบสิ่งจูงใจบิดเบี้ยวและความครบถ้วนของการฟื้นในที่ที่เป็นสาระ ความไม่แน่นอน ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบที่กำหนดอื่นในที่ที่ถูกขอ และเงื่อนไข ขีดจำกัดการพึ่ง หรือตัวกระตุ้นการเปิดใหม่ใดที่ผูกกับการเอาชนะความไว้วางใจที่ยืน การพึ่งที่ทำให้เข้าใจผิด หรือการเยียวยาที่เข้าไม่ถึง
+<a id="532-meaning-of-extraction"></a>
+##### 5.3.2 ความหมายของการดึงทรัพยากร
 
-**การปรับร่วมตามชั้นระบบ.** ความลึกของการประเมินความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบต้องปรับตามชั้นระบบที่กำหนดภายใต้ [§2](#2-system-class-evaluation) และ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ระบบชั้นสูงกว่าที่หล่อการพึ่งของผู้มีความรู้สึกอย่างเป็นสาระ ต้องการหลักฐานที่แข็งกว่าตามสัดส่วนว่าความน่าไว้วางใจ ความเสี่ยงความไว้วางใจเท็จ และเส้นทางท้าทายถูกประเมิน ไม่ใช่แค่กล่าว
+ในหมวดนี้ **การดึงทรัพยากร** มีความหมายตามที่กำหนดไว้ใน [การดึงทรัพยากรข้ามระบบ](../../core_05_band_continuity.md#cross-system-extraction) ภายใต้ [มาตรา V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*ความเป็นธรรมและความยั่งยืนระหว่างระบบ*)
 
-**ข้อบกพร่องและความไม่สอดคล้อง.** การบัง การแสดงผิด การแยกชิ้น หรือการผลักขีดจำกัด ความเสี่ยง หรือประวัติความล้มเหลวที่เป็นสาระในที่ที่ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ขอการทบทวน; การถือชื่อเสียง การรับรอง ขนาด หรือคำกล่าวของผู้ดำเนินการเองว่าพอโดยไม่มีวิเคราะห์ [ความน่าไว้วางใจ](core_05_band_continuity.md#trustworthiness) ที่ประเมินได้; การรับรองการพึ่งต่อเนื่องขณะที่ความไว้วางใจเท็จ สิ่งจูงใจบิดเบี้ยว เส้นทางท้าทายที่เข้าไม่ถึง หรือวิธีฟื้นที่ซ่อนความล้มเหลวที่จัดทำเอกสารคุกคามความสอดคล้องทางรัฐธรรมนูญอย่างเป็นสาระ; หรือการใช้กรอบประสิทธิภาพ นวัตกรรม หรือความมั่นคงเพื่อเอาชนะการเปิดเผย ความสามารถในการโต้แย้ง หรือการเยียวยาโดยไม่บรรลุวินัยความพึ่งได้ของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) และวินัยการท้าทายของ **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*) ต้องถูกปฏิบัติเป็นข้อบกพร่องการรับรอง อาจรองรับการรับรู้มีเงื่อนไข การรับรู้ที่เลื่อน การไม่รับรู้ การถอน หรือการเปิดใหม่ภายใต้ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+- คำถามคือ **ใครได้ประโยชน์จากแบ็กเอนด์ร่วม และใครจ่ายค่าใช้จ่ายเพื่อให้ดำเนินงานต่อได้** ไม่ใช่ระบบทำอะไรกับข้อมูลของผู้มีความรู้สึก
+- การจัดการข้อมูลของระบบ รวมถึงการขาย โฆษณา และจัดทำโปรไฟล์ ตรวจสอบภายใต้ [§3.4 การประเมินประเภทและการจัดการข้อมูล](#34-data-types-and-handling-evaluation) (โดยเฉพาะ [§3.4.2 วินัยด้านความเป็นส่วนตัว](#342-privacy-discipline)) และ [§4.1 การเรียกใช้ร่วมด้านความเป็นส่วนตัว (ข้อมูล)](#41-privacy-informational-joint-invocation)
+- การตรวจอย่างใดอย่างหนึ่งใช้แทนอีกอย่างหนึ่งไม่ได้
 
-<a id="101-illustrative-trustworthiness-application-by-class"></a>
+<a id="533-governing-rules"></a>
+##### 5.3.3 กฎกำกับ
 
-<a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
-#### 10.1 ตัวอย่างการประยุกต์ความน่าไว้วางใจตามชั้น (ไม่ใช่รายการครบ)
+เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ การรับรองต้องประเมิน **การสนับสนุนระหว่างระบบตามสัดส่วน** พูดง่าย ๆ คือ หากระบบใช้รากฐานร่วม ระบบคืนกลับมากพอที่จะรักษารากฐานนั้นไว้หรือไม่ กฎกำกับเรื่องนี้ได้แก่:
 
-*พูดแบบตรง ๆ: [§3.8](#38-illustrative-whole-system-application-by-class) ถึง [§9.1](#91-illustrative-educational-capability-application-by-class) พาสามระบบเดียวกันผ่านโดเมนประเมินก่อนหน้า หมวดย่อยนี้แสดงว่าการประเมิน **ความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบ** หมายความอย่างไรสำหรับแต่ละระบบ — เส้นทางการพึ่ง การเปิดเผย สิ่งจูงใจ การท้าทาย และการฟื้นใดนับ สิ่งที่การรับรองต้องตรวจเมื่อตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้ และสิ่งที่ต้องปรากฏบนบันทึก บทที่ห้าและ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ยังเป็นเจ้าของกฎความน่าไว้วางใจฉบับหลัก; มาตรวัดความพึ่งได้ รูปแบบการเปิดเผย กลไกความสอดคล้องของสิ่งจูงใจ และการออกแบบการทดสอบถดถอยอาจอยู่ในตราสารอื่น การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้; การเดินดูเหล่านี้ไม่กำหนดกลไกเหล่านั้น สิทธิท้าทายและการตรวจยังเป็นของ **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*) และ **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) — ไม่ถูกทำให้แคบที่นี่*
+- [การสนับสนุนระหว่างระบบตามสัดส่วน](../../core_05_band_continuity.md#proportionate-cross-system-support);
+- **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของการไหลเวียนทรัพยากร*); และ
+- **มาตรา V-B** (*ความเป็นธรรมและความยั่งยืนระหว่างระบบ*)
 
-**Class A — การควบคุมและเทเลเมทรีน้ำดื่มปลอดภัยของเทศบาล.** ระบบบำบัดและจ่ายที่เป็นของเมืองหล่อว่าครัวเรือน ผู้ปฏิบัติ และผู้ตอบสนองฉุกเฉินพึ่งคุณภาพน้ำที่แสดง สถานะเหตุขัดข้อง การเตือนการปนเปื้อน และความประพฤติควบคุมได้หรือไม่ — เส้นทางที่การพึ่งที่ทำให้เข้าใจผิดอาจปิดน้ำปลอดภัยก่อนที่สิ่งทดแทนที่ใช้ได้จะมาถึง
+รายละเอียดอยู่ในเอกสารอื่น:
 
-- **เส้นทางการพึ่งในขอบเขต:**
-  - คำกล่าวความแม่นของเทเลเมทรีและ **SCADA** (การควบคุมกำกับและการได้ข้อมูล);
-  - คำเตือนต้มน้ำและการปนเปื้อน;
-  - การตรวจจับรั่วและการส่งสัญญาณสูญเสียความดัน;
-  - ความประพฤติล้มอย่างปลอดภัยและการลบล้างด้วยมือ;
-  - การแสดงการเฝ้าของ **SOC** (ศูนย์ปฏิบัติการความมั่นคง) ของผู้ขาย;
-  - การจัดเส้นทางเชื่อมต่อฉุกเฉินและความช่วยเหลือร่วมกัน;
-  - กรอบเวลาการแจ้งเหตุขัดข้องและการคืนบริการ;
-  - การฟื้นและการซ่อมตนเองหลังการปนเปื้อน เหตุไซเบอร์ หรือความล้มเหลวของอุปกรณ์;
-  - โครงสร้างสิ่งจูงใจที่ผูกกับการเลื่อนการบำรุง โบนัสผู้ขาย หรือการเรียกเก็บจากผู้ใช้อัตรา
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าความประพฤติ ขีดจำกัด และโหมดความล้มเหลวที่แสดงรองรับ [ความไว้วางใจ](core_05_band_continuity.md#trust) ที่มีเหตุภายใต้ **มาตรา XIII-A** (*เส้นฐานความพึ่งได้และความน่าไว้วางใจ*) — ไม่ใช่ชื่อเสียง ขนาด หรือท่าทาง «วิธีปฏิบัติสาธารณูปโภคที่ดีที่สุด» เพียงอย่างเดียว;
-  - ว่าความเสี่ยงความไว้วางใจเท็จและ [การเสื่อมของความไว้วางใจและการพึ่งที่ทำให้เข้าใจผิด](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) ถูกประเมินในที่ที่ความเสี่ยงการปนเปื้อนที่ถูกทำให้ต่ำ คำเตือนที่ล่าช้า หรือความซ้ำซ้อนที่ถูกทำให้สูงเกินไปอาจทำให้ครัวเรือนและผู้ปฏิบัติเข้าใจผิด;
-  - ว่าเส้นทางท้าทาย ทบทวน และเยียวยาที่ใช้ปฏิบัติได้มีอยู่ภายใต้ **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*) สำหรับค่าที่ถูกโต้แย้ง การเตือนที่พลาด หรือความล้มเหลวของการฟื้น;
-  - ว่าการเปิดรับสิ่งจูงใจบิดเบี้ยวภายใต้ **มาตรา XIII-D** (*ข้อจำกัดความสอดคล้องของสิ่งจูงใจ*) ให้รางวัลการเลื่อนการบำรุง การตัดมุมของผู้ขาย หรือการกดการเตือน;
-  - ว่าความครบถ้วนของการฟื้นภายใต้ **มาตรา XIII-F** (*เส้นฐานความยืดหยุ่นคืนตัวและการซ่อมตนเอง*) เปิดเผยประวัติความล้มเหลวและท่าทางการซ่อมอย่างซื่อ แทนที่จะซ่อนเหตุการณ์;
-  - ว่าความลึกของการประเมินตรงกับส่วนได้เสีย **Class A** ในที่ที่การพึ่งที่ทำให้เข้าใจผิดอาจปิดน้ำปลอดภัย; และ
-  - ว่าขีดจำกัดการประกันใดบรรลุวิเคราะห์ความน่าไว้วางใจที่จัดทำเอกสาร ไม่ใช่เจตนาที่ประกาศเพียงอย่างเดียว
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ที่พึ่ง;
-  - ขอบเขตการประเมินสำหรับเส้นทางการพึ่ง การเปิดเผย สิ่งจูงใจ การท้าทาย และการฟื้นที่พึ่งอย่างเป็นสาระ;
-  - ข้อค้นพบความน่าไว้วางใจและความไว้วางใจเท็จที่ความลึก **Class A**;
-  - ข้อค้นพบสิ่งจูงใจบิดเบี้ยวและความครบถ้วนของการฟื้นในที่ที่เป็นสาระ;
-  - ความไม่แน่นอน;
-  - ข้อค้นพบเวทีผู้มีความรู้สึกหรือส่วนประกอบอื่นในที่ที่ถูกขอ; และ
-  - เงื่อนไขหรือตัวกระตุ้นการเปิดใหม่ที่ผูกกับการเอาชนะความไว้วางใจที่ยืน การพึ่งที่ทำให้เข้าใจผิด หรือการเยียวยาที่เข้าไม่ถึง ในที่ที่การเข้าถึงน้ำที่จำเป็นต่อการอยู่รอดถูกกั้น
+- *บทที่ห้า* กำหนดคำศัพท์ ประเภทการสนับสนุนที่นับได้ และเกณฑ์ว่าการสนับสนุนเพียงพอหรือไม่
+- **มาตรา V-B** (*ความเป็นธรรมและความยั่งยืนระหว่างระบบ*) กำหนดปัจจัยการจัดสรรอย่างเป็นธรรมและพื้นขั้นต่ำ
+- *[corpus_systems.md](../../corpus_systems.md)*, **CS-9** (*การจัดสรรทรัพยากรและการดูแลเงินทุน*) และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*) กำหนดหมวดการจัดสรร วิธีต่ออายุเงินทุน และเป้าหมายเชิงตัวเลขเมื่อใช้บังคับ
 
-**Class B — การแลกบันทึกคลินิกระดับภูมิภาค.** การแลกสารสนเทศสุขภาพและพอร์ทัลผู้ร่วมหล่อว่าผู้ให้บริการคลินิก ผู้ป่วย และผู้กระทำสาธารณสุขพึ่งเวลาทำงานที่แสดง การจับคู่บันทึก การจัดเส้นทางความยินยอม การเข้าถึงเบรกกลาส และความประพฤติการฟื้นได้หรือไม่ — เส้นทางที่กั้นการดำเนินงานดูแลรายวัน และอาจทำให้การดูแลฉุกเฉินเข้าใจผิดภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอด
+ไม่ได้กำหนดให้แบ่งเท่ากัน ใช้เปอร์เซ็นต์ตายตัว หรือใช้รูปแบบเงินทุนแบบใดแบบหนึ่ง
 
-- **เส้นทางการพึ่งในขอบเขต:**
-  - การแสดงเวลาทำงาน ความหน่วง และความแม่นของการจับคู่;
-  - ความประพฤติการจัดเส้นทางความยินยอมและเบรกกลาส;
-  - คำกล่าวความพึ่งได้ของการคลี่อัตลักษณ์และการกำจัดซ้ำ;
-  - การแจ้งเหตุขัดข้องและท่าทางการสลับเมื่อล้ม;
-  - การเปิดเผยเหตุการณ์และกรอบเวลาการฟื้นหลังเหตุขัดข้อง;
-  - โครงสร้างสิ่งจูงใจของผู้ขายและผู้ดำเนินการที่ผูกกับปริมาณธุรกรรม ความเร็วการรับเข้า หรือการกดการเตือน;
-  - เส้นทางท้าทายสำหรับบันทึกผิด การเข้าถึงที่ถูกปิด หรือคำตัดสินจัดเส้นทางที่ถูกโต้แย้ง
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าความประพฤติและขีดจำกัดที่แสดงรองรับการพึ่งที่มีเหตุสำหรับการดำเนินงานคลินิกรายวัน — ไม่ใช่การตลาดการทำงานร่วมกันหรือแดชบอร์ดเวลาทำงานแบบรวมเพียงอย่างเดียว;
-  - ว่าความเสี่ยงความไว้วางใจเท็จถูกประเมินในที่ที่ความผิดพลาดการจับคู่ที่ถูกทำให้ต่ำ ความล้มเหลวความยินยอมที่ซ่อน หรือความพร้อมการเข้าถึงฉุกเฉินที่ถูกทำให้สูงเกินไปอาจทำให้ผู้ให้บริการคลินิกและผู้ป่วยเข้าใจผิด;
-  - ว่าเส้นทางท้าทาย ทบทวน และเยียวยาภายใต้ **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*) ใช้ปฏิบัติได้สำหรับข้อโต้แย้งบันทึกผิด พอร์ทัลที่ถูกปิด และความล้มเหลวของการฟื้น — ไม่ใช่นโยบายบนกระดาษอย่างเดียว;
-  - ว่าการเปิดรับสิ่งจูงใจบิดเบี้ยวภายใต้ **มาตรา XIII-D** (*ข้อจำกัดความสอดคล้องของสิ่งจูงใจ*) ให้รางวัลการเติบโตของปริมาณ การทำให้การเตือนน้อยลง หรือการล็อกผู้ขายเหนือการจัดเส้นทางที่แม่น;
-  - ว่าความครบถ้วนของการฟื้นภายใต้ **มาตรา XIII-F** (*เส้นฐานความยืดหยุ่นคืนตัวและการซ่อมตนเอง*) เปิดเผยประวัติเหตุขัดข้องและความเสี่ยงคงเหลืออย่างซื่อ;
-  - ว่าความลึกของการประเมินตรงกับความวิกฤตดำเนินงาน **Class B** ในที่ที่การพึ่งที่ทำให้เข้าใจผิดกั้นการเข้าถึงการดูแล การจ้างงาน หรือการปฏิบัติที่ติดกับใบอนุญาต; และ
-  - ว่ากรอบประสิทธิภาพหรือความมั่นคงถูกใช้เพื่อเอาชนะการเปิดเผยหรือความสามารถในการโต้แย้งโดยไม่มีวิเคราะห์ความน่าไว้วางใจที่ประเมินได้
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ตัวกระตุ้น **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) และขอบเขตเส้นทาง;
-  - ข้อค้นพบความน่าไว้วางใจและความไว้วางใจเท็จสำหรับเส้นทางคลินิกและพอร์ทัล;
-  - ข้อค้นพบสิ่งจูงใจบิดเบี้ยวและความครบถ้วนของการฟื้นที่ความลึก **Class B**;
-  - ข้อค้นพบเส้นทางท้าทายและการเยียวยาในที่ที่เป็นสาระ;
-  - ความไม่แน่นอนและข้อค้นพบส่วนประกอบในที่ที่ถูกขอ; และ
-  - ตัวกระตุ้นการเปิดใหม่หากการแสดงเวลาทำงาน การจับคู่ หรือการเข้าถึงฉุกเฉินจะทำให้การจัดเส้นทางดูแลเข้าใจผิดภายในกรอบเวลาที่เกี่ยวข้องกับการอยู่รอดแล้ว หรือเอาชนะการพึ่งดำเนินงานรายวันอย่างเป็นสาระ
+<a id="534-evaluation-requirement"></a>
+##### 5.3.4 ข้อกำหนดการประเมิน
 
-**Class C — แพลตฟอร์มตารางและการประสานระหว่างสถาบัน.** ชั้นตารางหลายองค์กรหล่อว่าสถาบันและเจ้าหน้าที่พึ่งความพร้อมที่แสดง ความแม่นของการจัดเส้นทาง คะแนนความพึ่งได้ของผู้ขาย และการฟื้นจากเหตุขัดข้องหรือไม่ — แม้แพลตฟอร์มเองไม่ใช่สาธารณูปโภควิกฤตต่อการอยู่รอด
+การรับรองต้องตอบคำถามสองข้อ:
 
-- **เส้นทางการพึ่งในขอบเขต:**
-  - คำกล่าวการจัดเส้นทางกะและความพร้อมเวรเรียก;
-  - การแสดงความพึ่งได้ของการจองห้อง อุปกรณ์ และผู้ขาย;
-  - ป้าย «พร้อมเสมอ» หรือเวลาทำงาน;
-  - ลักษณะความพึ่งได้หรือการให้คะแนนผู้ขายที่ได้ที่หล่อความประพฤติของสถาบัน;
-  - การแจ้งเหตุขัดข้องและท่าทางการสลับเมื่อล้ม;
-  - โครงสร้างสิ่งจูงใจที่ผูกกับปริมาณการจอง ค่านายหน้าผู้ขาย หรือการทำให้การเตือนน้อยลง;
-  - เส้นทางท้าทายและเยียวยาสำหรับกะที่พลาด การจองซ้ำ หรือความผิดพลาดการจัดเส้นทางผู้ขาย
-- **สิ่งที่การประเมินต้องทดสอบ:**
-  - ว่าตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้ — รวมในที่ที่คำกล่าวความพึ่งได้ คะแนนผู้ขาย หรือความประพฤติประสานหล่อการจัดเจ้าหน้าที่ การจัดเส้นทางฉุกเฉิน หรือคำตัดสินจัดซื้ออย่างเป็นสาระ;
-  - ว่าความเสี่ยงความไว้วางใจเท็จและการพึ่งที่ทำให้เข้าใจผิดถูกประเมินในที่ที่ท่าทางการตลาด ป้ายความไว้วางใจ หรือประวัติเหตุขัดข้องที่ถูกทำให้ต่ำอาจทำให้สถาบันเข้าใจผิด;
-  - ว่าเส้นทางท้าทายและเยียวยาใช้ปฏิบัติได้สำหรับความผิดพลาดตารางที่กระทบงาน การศึกษา หรือการเข้าถึงบริการสาธารณะอย่างเป็นสาระ;
-  - ว่าผู้ดำเนินการถือแพลตฟอร์มว่าต่ำกว่าการทบทวนเพราะเป็น **Class C** ขณะที่การแสดงความพึ่งได้หล่อความประพฤติของสถาบันอย่างเป็นสาระ;
-  - ว่าการเปิดรับสิ่งจูงใจบิดเบี้ยวให้รางวัลความลำเอียงต่อผู้ขาย การกดการเตือน หรือความกระจุกเหนือการประสานที่แม่น; และ
-  - ว่า **การเฝ้าการจำแนกใหม่** ถูกขอในที่ที่แพลตฟอร์มกลายเป็นจุดคอขวดโดยพฤตินัยสำหรับการจัดเจ้าหน้าที่ที่จำเป็นต่อการอยู่รอด การจัดเส้นทางฉุกเฉิน หรือการประสานการจ่าย
-- **สิ่งที่บันทึกต้องแสดง:**
-  - ว่าและทำไมตัวกระตุ้น **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้;
-  - ขอบเขตการประเมินสำหรับเส้นทางการพึ่ง การเปิดเผย สิ่งจูงใจ การท้าทาย และการฟื้นตามสัดส่วนกับความเสี่ยงการประสาน **Class C**;
-  - ข้อค้นพบความน่าไว้วางใจและความไว้วางใจเท็จในที่ที่เป็นสาระ — ไม่ใช่คำกล่าวว่างเปล่าว่าแพลตฟอร์ม «พึ่งได้»;
-  - ข้อค้นพบสิ่งจูงใจบิดเบี้ยวและความครบถ้วนของการฟื้นในที่ที่เป็นสาระ;
-  - ข้อค้นพบความกระจุกและจุดคอขวดในที่ที่คำกล่าวความพึ่งได้บอกล่วงหน้าการยกระดับ;
-  - **การเฝ้าการจำแนกใหม่** ที่ชัดในที่ที่การพึ่งแข็งขึ้น; และ
-  - ตัวชี้ไปยังการทบทวนความน่าไว้วางใจที่ยกระดับหากชั้นหรือบทบาทการประสานที่จำเป็นต่อการอยู่รอดเปลี่ยน
+- **ระบบนำอะไรไป?** แผนที่ระบบที่พึ่งพาซึ่งจัดทำเป็นเอกสารและบันทึกการไหลเวียนทรัพยากรที่ตรวจสอบได้ตาม **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของการไหลเวียนทรัพยากร*) แสดงหรือไม่ว่าระบบดึงทรัพยากรจากโครงสร้างพื้นฐานหรือรากฐานร่วมที่ตนพึ่งพา?
+- **ระบบคืนอะไรกลับมา?** กระแสการคืนกลับของระบบรวมแล้วเป็นการสนับสนุนที่เพียงพอตาม [การสนับสนุนระหว่างระบบตามสัดส่วน](../../core_05_band_continuity.md#proportionate-cross-system-support) หรือไม่?
 
-**การอ่านข้ามชั้น.** วินัยความน่าไว้วางใจของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) และบทที่ห้าชุดเดียวกันใช้ในที่ที่ตัวกระตุ้นความเป็นสาระถูกบรรลุ; ชั้นเปลี่ยนความลึกของการประเมิน ไม่ใช่อนุญาตให้ถือชื่อเสียง ขนาด หรือป้ายการประกันในนามว่าพอ ระบบน้ำ **Class A** ที่เทเลเมทรี คำเตือน หรือการแสดงการฟื้นอาจทำให้ครัวเรือนและผู้ปฏิบัติเข้าใจผิดเรื่องน้ำปลอดภัย ต้องถือหลักฐานความน่าไว้วางใจ ความไว้วางใจเท็จ และความครบถ้วนของการฟื้นที่แข็งที่สุดบนบันทึก — ไม่ใช่คำกล่าวความพึ่งได้ทั่วไป การแลก **Class B** ที่การแสดงเวลาทำงาน การจับคู่ หรือเบรกกลาสกั้นการปฏิบัติคลินิก ต้องจัดทำเอกสารข้อค้นพบเส้นทางท้าทายและการพึ่งที่ทำให้เข้าใจผิดที่ความวิกฤตดำเนินงาน แพลตฟอร์มตาราง **Class C** ต้องไม่คงย่อหน้าความน่าไว้วางใจเชิงพิธีขณะที่ป้ายความพึ่งได้หรือคะแนนผู้ขายหล่อความประพฤติการจัดเจ้าหน้าที่หรือการจัดซื้ออย่างเป็นสาระ; เมื่อการประสานกลายเป็นสิ่งจำเป็นต่อการอยู่รอด การรับรองต้องยกระดับการทบทวนและการจำแนกใหม่ภายใต้ [§2](#2-system-class-evaluation) และ [ส่วน ข §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) รวมขึ้นสู่ **Class A** ในที่ที่การพึ่งที่ทำให้เข้าใจผิดอาจปิดการประสานที่จำเป็นต่อการอยู่รอด
+การรับรองต้องพิจารณาความเป็นธรรมและความได้สัดส่วนของทั้งสองเรื่องภายใต้ [ความเป็นธรรมเชิงสาระ](../../core_05_band_participation.md#substantive-fairness) และ [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) โดยคำนึงถึง:
+
+- โครงสร้างพื้นฐานร่วมมีความสำคัญเพียงใด (ชั้นของระบบตาม [§2 การประเมินชั้นของระบบ](#2-system-class-evaluation) หากมีการกำหนดชั้น);
+- การพึ่งพาเป็นฝ่ายเดียวมากเพียงใด;
+- ระบบเปลี่ยนแทนได้ง่ายเพียงใด และมีทางเลือกหรือไม่;
+- [รอยเท้าทางนิเวศ](../../core_05_band_continuity.md#ecological-footprint) ของระบบ เมื่อมีนัยสำคัญ; และ
+- [ความยั่งยืน](../../core_05_band_continuity.md#sustainability) ระยะยาว
+
+ผู้ตรวจต้องพิจารณาสิ่งที่เกิดขึ้นจริงและสิ่งที่บันทึกไว้ ไม่ใช่ป้ายกำกับ การโอนเงินครั้งเดียว หรือคำกล่าวที่ไม่อยู่ในแผนที่ ต้องเปรียบเทียบแผนที่และบันทึกตามสภาพในขณะประเมิน การไม่มีสูตรการจัดสรรหรือเป้าหมายตัวเลขไม่ใช่เหตุให้เลื่อนการประเมินออกไป
+
+การประเมินต้องครอบคลุม:
+
+- **การคืนกลับที่เพียงพอ:** กระแสการคืนกลับที่บันทึกไว้ครอบคลุมหมวดการสนับสนุนใน [การสนับสนุนระหว่างระบบตามสัดส่วน](../../core_05_band_continuity.md#proportionate-cross-system-support) หรือไม่ ตามความเกี่ยวข้อง:
+  - การทำให้การดำเนินงานดำเนินต่อไปได้;
+  - ความสามารถในการแก้ปัญหาและฟื้นตัว;
+  - การลงทุนซ้ำในระบบนิเวศโดยรอบ; และ
+  - การชดเชยหรือฟื้นฟูความเสียหายทางนิเวศ
+- **การจัดสรรอย่างเป็นธรรม:** การตัดสินใจด้านเงินทุนและการจัดสรรคำนึงถึงปัจจัยการจัดสรรอย่างเป็นธรรมตาม **มาตรา V-B** (*ความเป็นธรรมและความยั่งยืนระหว่างระบบ*) หรือไม่ รวมถึงผู้เข้าร่วมที่มีขนาดเล็กกว่าหรือพึ่งพามากกว่าต้องแบกรับต้นทุนไม่เท่าเทียมหรือไม่
+- **ความครบถ้วนของการสนับสนุน:** การสนับสนุนทำให้การยึดครองหรือการกระจุกตัวแน่นแฟ้นขึ้นเป็นหลักหรือไม่ (การควบคุมไปรวมอยู่ในมือไม่กี่ราย) หรือถูกจัดขึ้นเพื่อหลีกเลี่ยงความโปร่งใสที่ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของการไหลเวียนทรัพยากร*) กำหนดหรือไม่
+
+<a id="535-map-and-record-integrity"></a>
+##### 5.3.5 ความครบถ้วนของแผนที่และบันทึก
+
+ก่อนอาศัยแผนที่การพึ่งพาและบันทึกการไหลเวียนทรัพยากร การรับรองต้องตรวจว่าเอกสารเหล่านั้นเป็นไปตาม **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของการไหลเวียนทรัพยากร*) โดยต้อง:
+
+- **ครบถ้วน:** ครอบคลุมการพึ่งพาและการไหลเวียนทรัพยากรที่มีนัยสำคัญทั้งต้นน้ำและปลายน้ำ ตลอดจนความสัมพันธ์ที่ซ่อนอยู่หรือไม่สมดุลเมื่อเกี่ยวข้อง
+- **เป็นปัจจุบัน:** ปรับปรุงบ่อยเพียงพอตามความเร็วในการเปลี่ยนแปลงและความสำคัญของระบบ รวมถึงชั้นของระบบตาม [§2 การประเมินชั้นของระบบ](#2-system-class-evaluation) ต้องแสดงระบบขณะทำงานในปัจจุบัน ไม่ใช่ตอนที่รับรองครั้งก่อน
+- **ตรวจสอบได้:** เปิดให้ตรวจสอบตาม **มาตรา XVI-A** (*ความสามารถในการตรวจสอบและหลักฐานที่สังเกตได้*)
+
+แผนที่หรือบันทึกที่ไม่ผ่านข้อใดข้อหนึ่งไม่อาจใช้สนับสนุนข้อสรุปว่าระบบคืนกลับมากพอ ต้องบันทึกช่องว่างและจัดการตามหัวข้อ *ข้อบกพร่องและความไม่สอดคล้อง* ด้านล่าง
+
+<a id="536-system-class-scaling-and-escalation"></a>
+##### 5.3.6 การปรับขนาดและยกระดับตามชั้นของระบบ
+
+ชั้นของระบบกำหนดความลึกของการตรวจและความเข้มงวดในการพิจารณาความเพียงพอ แต่ไม่ทำให้การดึงทรัพยากรร่วมกลายเป็นเรื่องเล็กเกินกว่าจะนับ เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ:
+
+- ระบบที่ใช้รากฐานร่วมซึ่งผู้มีความรู้สึกต้องใช้เพื่ออยู่รอด เช่น ลุ่มน้ำร่วม หรือโครงข่ายหลักของระบบไฟฟ้าภูมิภาค ต้องแสดงหลักฐานที่หนักแน่นที่สุดเกี่ยวกับแผนที่การพึ่งพาและกระแสการคืนกลับในบันทึก
+- ระบบที่พึ่งพาการยืนยันตัวตนร่วม ระบบไอทีสุขภาพ หรือโครงสร้างพื้นฐานคล้ายกัน ต้องบันทึกว่าระบบนำอะไรไปและการสนับสนุนเพียงพอหรือไม่ โดยลงรายละเอียดตามความสำคัญของการดำเนินงาน สโลแกนคลุมเครือเรื่อง “การทำงานร่วมกัน” ไม่นับ
+- ระบบต้องไม่หลบเลี่ยงการตรวจข้ามระบบในขณะที่ค่อย ๆ กลายเป็นคอขวดด้านการชำระเงิน อัตลักษณ์ หรือการจัดกำลังคนให้สถาบันที่เปลี่ยนไปใช้ทางเลือกอื่นไม่ได้จริง เมื่อเกิดกรณีนี้ การรับรองต้องยกระดับการตรวจและทบทวนชั้นของระบบตาม [§2 การประเมินชั้นของระบบ](#2-system-class-evaluation) และ [Part B §7 ผลการรับรอง](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) จนถึง **ชั้น A** เมื่อระบบควบคุมการเข้าถึงการประสานงานที่จำเป็นต่อการอยู่รอด
+
+<a id="537-defects-and-misalignment"></a>
+##### 5.3.7 ข้อบกพร่องและความไม่สอดคล้อง
+
+สิ่งต่อไปนี้แต่ละรายการถือเป็นข้อบกพร่องด้านการรับรอง:
+
+- ซ่อน บิดเบือน แยกส่วน หรือผลักข้อมูลที่มีนัยสำคัญเกี่ยวกับการพึ่งพาหรือการไหลเวียนทรัพยากรไปให้ผู้อื่น ทั้งที่ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของการไหลเวียนทรัพยากร*) กำหนดให้เปิดเผย;
+- ถือว่าสิ่งต่อไปนี้อย่างใดอย่างหนึ่งเพียงพอที่จะปฏิบัติตาม [การสนับสนุนระหว่างระบบตามสัดส่วน](../../core_05_band_continuity.md#proportionate-cross-system-support):
+  - การโอนแบบสัญลักษณ์ ไม่โปร่งใส อยู่นอกแผนที่ หรือเกิดขึ้นครั้งเดียว;
+  - ข้อเท็จจริงที่ว่าระบบผ่านพื้นการอยู่รอดตาม **มาตรา III-A** (*การอยู่รอด*); หรือ
+  - ข้อเท็จจริงที่ว่าระบบอยู่ภายในขีดจำกัดการกระจุกตัวของตลาดตาม [บทที่หนึ่ง §11 โครงสร้างตลาด](core_01_a_values_principles.md#11-market-structure);
+- ดึงทรัพยากรจากรากฐานร่วมซ้ำ ๆ โดยไม่คืนกลับตามสัดส่วน ทั้งที่เข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ;
+- การสนับสนุนที่ทำให้การยึดครองหรือการกระจุกตัวแน่นแฟ้นขึ้นเป็นหลัก;
+- การสนับสนุนที่มีเงื่อนไขพ่วงซึ่งทำให้ความโปร่งใสตาม **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของการไหลเวียนทรัพยากร*) ล้มเหลว; และ
+- รับรองการพึ่งพาต่อไปทั้งที่ช่องว่างด้านการสนับสนุนที่บันทึกไว้คุกคามความสอดคล้องกับรัฐธรรมนูญอย่างมีนัยสำคัญ
+
+
+<a id="54-nondiscrimination-evaluation"></a>
+
+#### 5.4 การประเมินการไม่เลือกปฏิบัติ
+
+<details>
+<summary><strong><span style="color: #2563eb;">การสืบย้อนแหล่งที่มา</span></strong></summary>
+
+- ต้นทาง: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นของระบบ*); ตระกูลการวัดการมีส่วนร่วม (*ความเป็นธรรมเชิงสาระและการใช้ลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนและผลกระทบที่แตกต่างในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*); [ความเป็นธรรมเชิงสาระ](../../core_05_band_participation.md#substantive-fairness), [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics), [การใช้ลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนและผลกระทบที่แตกต่าง](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [ภาษา วัฒนธรรม และมรดก](../../core_05_band_continuity.md#language-culture-and-heritage), [ความจำเป็น](../../core_05_band_accountability.md#necessity) และ [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) (บทที่ห้า)
+- ปลายทาง: [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*ตัวอย่างการไล่ตรวจการไม่เลือกปฏิบัติ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ด่านข้อมูลนำเข้าที่ผ่านการตรวจสอบ*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องจากรูปแบบการเลือกปฏิบัติและการหลบเลี่ยงผ่านตัวแทน*)
+- อ่านควบคู่กับ: หน้าที่ด้านการวินิจฉัยและการดำเนินงานของ **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*) เมื่อการรับรองปิดกั้นการเข้าถึงเวที การบริหาร หรือการบังคับใช้; [*การไม่เลือกปฏิบัติ ลักษณะที่ได้รับความคุ้มครอง ศักดิ์ศรี การปิดกั้นด้วยสัญญาณส่วนตัว และสถานะตาม **มาตรา VII-E** (*บริการทางเพศเชิงพาณิชย์ที่ผู้ใหญ่ยินยอมและการแสวงหาประโยชน์ทางเพศ*)*](../../core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination)
+- หมวดย่อย: [§5.4.1](#541-materiality-trigger-and-governing-rules) (*ตัวกระตุ้นความเป็นสาระและกฎกำกับ*); [§5.4.2](#542-evaluation-requirement) (*ข้อกำหนดการประเมิน*); [§5.4.3](#543-system-class-scaling-and-escalation) (*การปรับขนาดและยกระดับตามชั้นของระบบ*); [§5.4.4](#544-defects-and-misalignment) (*ข้อบกพร่องและความไม่สอดคล้อง*); [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*ตัวอย่างการใช้การประเมินการไม่เลือกปฏิบัติตามชั้นของระบบ*)
+
+</details>
+
 <br>
 
-*ต่อไปยังบันทึก กระบวนการเวที และสะพานร่องรอย:* [บทที่เจ็ด ส่วน ข — บันทึกและกระบวนการ](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) ([§11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) ถึง [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)).
+*พูดแบบตรง ๆ: เมื่อระบบตัดสินอย่างเป็นสาระว่าใครจะได้รับการยอมรับ ใครจ่ายมากกว่า ใครถูกจัดอันดับต่ำกว่า หรือใครแบกรับภาระหนักกว่า การรับรองต้องตรวจว่ารูปแบบดังกล่าวผลักความเสียหายไปยังลักษณะที่ได้รับความคุ้มครองหรือตัวแทนของลักษณะนั้นหรือไม่ ไม่ใช่แค่ผู้ดำเนินการกล่าวว่ากฎเป็นกลาง โควตาการมีส่วนร่วมและอัลกอริทึมความเป็นธรรมเฉพาะอาจอยู่ในตราสารอื่น การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้ การรับรองตรวจว่ามีการประเมินรูปแบบภาระและประโยชน์รวมถึงความเสี่ยงจากตัวแทนจริงหรือไม่เมื่อเข้าเกณฑ์ตัวกระตุ้น ตัวอย่าง: [§5.4.5 ตัวอย่างการใช้การประเมินการไม่เลือกปฏิบัติตามชั้นของระบบ (ไม่ครอบคลุมทั้งหมด)](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).*
+
+<a id="541-materiality-trigger-and-governing-rules"></a>
+##### 5.4.1 ตัวกระตุ้นความเป็นสาระและกฎกำกับ
+
+หมวดนี้ใช้เมื่อระบบที่ส่งผลเป็นสาระจำแนก จัดอันดับ กำหนดราคา ปิดกั้นการเข้าถึง กีดกัน หรือจัดสรรภาระและประโยชน์ระหว่างผู้มีความรู้สึกอย่างเป็นสาระ รวมถึงผ่านกฎคุณสมบัติ คุณลักษณะของแบบจำลอง ตรรกะการจัดอันดับ นโยบายแพลตฟอร์ม หรือเส้นทางการตัดสินใจที่เทียบเคียงกัน
+
+เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ การรับรองความสอดคล้องของระบบต้องประเมิน **การไม่เลือกปฏิบัติ** ตาม **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*), [ความเป็นธรรมเชิงสาระ](../../core_05_band_participation.md#substantive-fairness) และ [การใช้ลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนและผลกระทบที่แตกต่าง](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)
+
+<a id="542-evaluation-requirement"></a>
+##### 5.4.2 ข้อกำหนดการประเมิน
+
+กระบวนการรับรองต้องพิจารณาว่าเส้นทางการตัดสินใจที่ระบบอาศัยอย่างเป็นสาระก่อภาระ การกีดกัน หรือความเสียหายที่เป็นสาระแก่ผู้มีความรู้สึกโดยอาศัย [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) ตัวแทนของลักษณะดังกล่าว หรือกลุ่มที่กำหนดขึ้นโดยพลการและใช้แทนในทางหน้าที่หรือไม่ รวมถึงการคุ้มครองเฉพาะด้านภาษา วัฒนธรรม และมรดกตาม [ภาษา วัฒนธรรม และมรดก](../../core_05_band_continuity.md#language-culture-and-heritage) การประเมินต้องทดสอบรูปแบบภาระและประโยชน์ตาม [ความเป็นธรรมเชิงสาระ](../../core_05_band_participation.md#substantive-fairness) และความเสี่ยงจากตัวแทนหรือผลกระทบที่แตกต่างตาม [การใช้ลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนและผลกระทบที่แตกต่าง](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) โดยปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) การปฏิบัติที่แตกต่างยอมรับได้เฉพาะเมื่อมี [ความจำเป็น](../../core_05_band_accountability.md#necessity), [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) และความเป็นธรรมเชิงสาระที่บันทึกไว้รองรับ การประเมินต้องสะท้อนผลเชิงหน้าที่ ไม่ใช่เพียงความเป็นกลางตามชื่อ เจตนาที่ประกาศ หรือป้ายกำกับ
+
+<a id="543-system-class-scaling-and-escalation"></a>
+##### 5.4.3 การปรับขนาดและยกระดับตามชั้นของระบบ
+
+ชั้นของระบบเปลี่ยนความลึกของการประเมิน แต่ไม่ได้อนุญาตให้ถือว่าการจัดอันดับหรือการผลักภาระเป็นเรื่องไม่มีสาระ เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ:
+
+- หากกฎการปิดระบบ การแจ้งเตือน หรือกฎที่เทียบเคียงกันอาจปิดกั้นสิ่งจำเป็นต่อการอยู่รอด บันทึกต้องมีการวิเคราะห์ภาระและประโยชน์รวมถึงตัวแทนที่หนักแน่นที่สุด ไม่ใช่เพียงคำกล่าวทั่วไปเรื่องแนวปฏิบัติที่ดี
+- หากตรรกะการจับคู่หรือกำหนดเส้นทางของระบบส่งผลต่อการดูแลฉุกเฉิน สิทธิประโยชน์ หรือการเข้าถึงคุณวุฒิ ต้องบันทึกข้อค้นพบเรื่องผลกระทบที่แตกต่างและความเป็นธรรมเชิงสาระตามระดับความสำคัญของการดำเนินงาน
+- ระบบต้องไม่เก็บย่อหน้าความเป็นธรรมแบบขอไปทีไว้ ขณะที่ตรรกะกะงาน ผู้ขาย หรือการจองจัดอันดับหรือกีดกันผู้เข้าร่วมอย่างเป็นสาระ เมื่อการประสานงานจำเป็นต่อการอยู่รอด การรับรองต้องยกระดับการตรวจและจัดชั้นใหม่ตาม [§2 การประเมินชั้นของระบบ](#2-system-class-evaluation) และ [Part B §7 ผลการรับรอง](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) รวมถึงยกระดับไปทาง **ชั้น A** เมื่อมีการปิดกั้นการจัดกำลังคนหรือกำหนดเส้นทางฉุกเฉิน
+
+<a id="544-defects-and-misalignment"></a>
+##### 5.4.4 ข้อบกพร่องและความไม่สอดคล้อง
+
+สิ่งต่อไปนี้แต่ละรายการต้องถือเป็นข้อบกพร่องด้านการรับรอง:
+
+- ปกปิด บิดเบือน แยกส่วน หรือผลักตรรกะการจำแนก การจัดอันดับ หรือการจัดสรรภาระที่เป็นสาระไปให้ผู้อื่น ทั้งที่ **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*) กำหนดให้ตรวจสอบ;
+- ถือว่าความเป็นกลางที่เห็นภายนอก ตัวชี้วัดความสะดวกโดยรวม หรือรายงานตนเองของผู้ดำเนินการเพียงพอ โดยไม่มีการวิเคราะห์ภาระและประโยชน์ที่ประเมินได้;
+- รับรองการพึ่งพาต่อไป ทั้งที่การเลือกปฏิบัติผ่านตัวแทนหรือความไม่เป็นธรรมเชิงสาระที่บันทึกไว้คุกคามความสอดคล้องกับรัฐธรรมนูญอย่างเป็นสาระ; และ
+- ใช้กรอบการทำให้เป็นแบบเดียวกัน การทำงานร่วมกันได้ หรือประสิทธิภาพเพื่อบ่อนทำลายการคุ้มครองภาษา วัฒนธรรม หรือมรดก โดยไม่ผ่านการทดสอบ **ความจำเป็น** และ **ความได้สัดส่วน** ตาม **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*)
+
+
+<a id="55-accessibility-evaluation"></a>
+
+#### 5.5 การประเมินการเข้าถึงได้
+
+<details>
+<summary><strong><span style="color: #2563eb;">การสืบย้อนแหล่งที่มา</span></strong></summary>
+
+- ต้นทาง: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นของระบบ*); ตระกูลการวัดการมีส่วนร่วม (*การเข้าถึงได้ในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา VI-D** (*การเข้าถึงได้*); [การเข้าถึงได้](../../core_05_band_participation.md#accessibility), [ความเป็นสาระ](core_05_band_oversight.md#materiality), [การพึ่งพา](../../core_05_band_continuity.md#dependency), [อำนาจตัดสินใจที่มีความหมาย](../../core_05_band_participation.md#meaningful-agency), [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics), [การใช้ลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนและผลกระทบที่แตกต่าง](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [ความเป็นธรรมเชิงสาระ](../../core_05_band_participation.md#substantive-fairness), [ความจำเป็น](../../core_05_band_accountability.md#necessity) และ [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) (บทที่ห้า)
+- ปลายทาง: [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*ตัวอย่างการไล่ตรวจการเข้าถึงได้*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ด่านข้อมูลนำเข้าที่ผ่านการตรวจสอบ*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องด้านการเข้าถึงได้และการจัดสิ่งอำนวยความสะดวกที่มีเพียงในเอกสาร*)
+- อ่านควบคู่กับ: **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเท่าเทียม*) เมื่อเกี่ยวข้องกับการเข้าถึงได้ของการศึกษา — ความรับผิดชอบด้านการเข้าถึงได้เฉพาะการศึกษายังคงเป็นของมาตรานั้น; **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*) (การวินิจฉัยและการดำเนินงาน) และ **มาตรา XII** (*การมีส่วนร่วมของระบบผู้มีส่วนได้เสีย การเป็นตัวแทน และกระบวนการอันชอบธรรม*) เมื่อการรับรองปิดกั้นการมีส่วนร่วมในเวที การบริหาร ผู้มีส่วนได้เสีย หรือการบังคับใช้; [บทที่แปด §5.5](#55-accessibility-evaluation) (*จุดเชื่อมปัจจัยประเมินการเข้าถึงได้ข้ามขอบเขต*)
+- หมวดย่อย: [§5.5.1](#551-materiality-trigger-and-governing-rules) (*ตัวกระตุ้นความเป็นสาระและกฎกำกับ*); [§5.5.2](#552-evaluation-requirement) (*ข้อกำหนดการประเมิน*); [§5.5.3](#553-profiles-in-scope) (*โพรไฟล์ที่อยู่ในขอบเขต*); [§5.5.4](#554-system-class-scaling-and-escalation) (*การปรับขนาดและยกระดับตามชั้นของระบบ*); [§5.5.5](#555-defects-and-misalignment) (*ข้อบกพร่องและความไม่สอดคล้อง*); [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*ตัวอย่างการใช้การประเมินการเข้าถึงได้ตามชั้นของระบบ*)
+
+</details>
+
+<br>
+
+*พูดแบบตรง ๆ: เมื่อระบบควบคุมอย่างเป็นสาระว่าผู้มีความรู้สึกจะมีส่วนร่วมได้จริงหรือไม่ ไม่ใช่เพียงมีป้ายที่ประตูว่า “เปิด” การรับรองต้องตรวจว่าการมีส่วนร่วมเข้าถึงได้จริงตามความต้องการด้านประสาทสัมผัส การรู้คิด การเคลื่อนไหว การสื่อสาร ส่วนต่อประสานกับฐานรองรับ และความต้องการที่เทียบเคียงกันหรือไม่ รายการสิ่งอำนวยความสะดวกและมาตรฐานส่วนต่อประสานอาจอยู่ในตราสารอื่น การเพิ่มคลังข้อความภายหลัง หรือตราสารการรับเอามาใช้ การรับรองตรวจว่ามีการประเมินการมีส่วนร่วมเชิงสาระจริงหรือไม่เมื่อเข้าเกณฑ์ตัวกระตุ้น ตัวอย่าง: [§5.5.6 ตัวอย่างการใช้การประเมินการเข้าถึงได้ตามชั้นของระบบ (ไม่ครอบคลุมทั้งหมด)](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).*
+
+<a id="551-materiality-trigger-and-governing-rules"></a>
+##### 5.5.1 ตัวกระตุ้นความเป็นสาระและกฎกำกับ
+
+หมวดนี้ใช้เมื่อระบบที่ส่งผลอย่างมากต่อชีวิตของผู้มีความรู้สึกควบคุมว่าพวกเขาจะเข้าร่วมในเรื่องที่รัฐธรรมนูญคุ้มครองได้จริงหรือไม่ เช่น:
+
+- การกำกับดูแล การมีส่วนร่วมของผู้มีส่วนได้เสีย การวินิจฉัย และการดำเนินงาน;
+- สิ่งจำเป็นต่อการอยู่รอดและการดูแลสุขภาพ;
+- การแสดงออก การชุมนุม และสื่อมวลชน; หรือ
+- ด้านอื่นที่เทียบเคียงกัน
+
+การควบคุมอาจเกิดขึ้นผ่าน:
+
+- ส่วนต่อประสาน สถานที่ หรือการกำหนดเวลา;
+- คุณวุฒิหรือการเข้าถึงทรัพยากรประมวลผล;
+- วิธีออกแบบสิ่งอำนวยความสะดวก; หรือ
+- เส้นทางที่คล้ายกัน
+
+การเข้าถึงได้ด้านการศึกษายังคงอยู่ภายใต้ **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเท่าเทียม*) และไม่มีข้อความใดในที่นี้ทำให้แคบลง
+
+เมื่อใช้บังคับ การรับรองต้องประเมิน **การเข้าถึงได้** ตาม **มาตรา VI-D** (*การเข้าถึงได้*) และ [การเข้าถึงได้](../../core_05_band_participation.md#accessibility) หมวดนี้ไม่ได้กำหนด:
+
+- รายการสิ่งอำนวยความสะดวก;
+- มาตรฐานส่วนต่อประสาน;
+- ข้อกำหนดการออกแบบสากล; หรือ
+- ขั้นตอนจัดสิ่งอำนวยความสะดวกในแต่ละวัน
+
+เรื่องเหล่านั้นอยู่ในเอกสารอื่นที่อาจนำมาใช้ประกอบ
+
+<a id="552-evaluation-requirement"></a>
+##### 5.5.2 ข้อกำหนดการประเมิน
+
+การรับรองต้องตรวจว่าผู้มีความรู้สึกมีส่วนร่วมในด้านที่ระบบควบคุมได้จริงหรือไม่ ไม่ใช่ตรวจเพียงว่ามีคุณลักษณะอย่างเป็นทางการ ส่วนต่อประสานเริ่มต้น หรือสิ่งอำนวยความสะดวกบนเอกสารหรือไม่ ต้องทดสอบผลจริงต่อการมีส่วนร่วมตาม [การเข้าถึงได้](../../core_05_band_participation.md#accessibility) โดยปรับตาม [ความเป็นสาระ](core_05_band_oversight.md#materiality) และ [การพึ่งพา](../../core_05_band_continuity.md#dependency)
+
+ผู้ตรวจต้องเฝ้าระวัง:
+
+- สิ่งอำนวยความสะดวกที่มีเพียงบนเอกสาร;
+- คำกล่าวอ้างเรื่อง “การเข้าถึงทั่วไป” ที่พึ่งคุณลักษณะเริ่มต้น แต่ไม่ได้ให้ความสามารถจริงแก่ใครในการเข้าร่วม;
+- การอ้างว่าระบบเป็นสาระเพียงบางส่วนเพื่อจำกัดสิ่งอำนวยความสะดวกที่ต้องจัดให้;
+- การกีดกันที่ขัดกับ [การไม่กีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion); และ
+- การออกแบบที่กีดกันผู้มีความรู้สึกทางอ้อมผ่านตารางเวลา การเลือกสถานที่ การให้คุณวุฒิ การเข้าถึงทรัพยากรประมวลผล หรือกลไกคล้ายกัน (การปฏิเสธผ่านตัวแทน)
+
+การรับรองต้องใช้ [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) และ [การใช้ลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนและผลกระทบที่แตกต่าง](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) พิจารณาการออกแบบสิ่งอำนวยความสะดวกด้วย ข้อจำกัดใด ๆ ต่อสิ่งอำนวยความสะดวกต้องบันทึกไว้และต้องเป็นไปตาม [ความจำเป็น](../../core_05_band_accountability.md#necessity), [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) และ [ความเป็นธรรมเชิงสาระ](../../core_05_band_participation.md#substantive-fairness)
+
+<a id="553-profiles-in-scope"></a>
+##### 5.5.3 โพรไฟล์ที่อยู่ในขอบเขต
+
+การประเมินต้องทดสอบการมีส่วนร่วมจริงสำหรับรูปแบบและโพรไฟล์ความสามารถของผู้มีความรู้สึกทุกแบบ ไม่ใช่เพียงการทำตามข้อกำหนดบนเอกสาร:
+
+- ต้องครอบคลุมหมวดโพรไฟล์ที่เกี่ยวข้องทุกหมวด ได้แก่ ประสาทสัมผัส การรู้คิด การเคลื่อนไหว การสื่อสาร **ส่วนต่อประสานกับฐานรองรับ** และ **ส่วนต่อประสานการประมวลผล**
+- ใช้ข้อกำหนดเดียวกันไม่ว่าโพรไฟล์จะ **คงที่**, **เป็นช่วง ๆ** หรือ **พัฒนาการ**
+- รูปแบบ **การเข้าถึงทั่วไป** ที่อ้างว่ามีให้ใช้อย่างกว้างขวางโดยรวม แต่ทำให้โพรไฟล์เฉพาะที่ได้รับผลกระทบเข้าไม่ถึง หรือ **การปรับขนาดตามความเป็นสาระแบบเลือกเฉพาะ** ซึ่งทำลายพื้นการมีส่วนร่วม ไม่เป็นไปตามหมวดนี้
+
+<a id="554-system-class-scaling-and-escalation"></a>
+##### 5.5.4 การปรับขนาดและยกระดับตามชั้นของระบบ
+
+ชั้นของระบบเปลี่ยนความลึกของการประเมิน แต่ไม่อนุญาตให้ถือว่าสิ่งอำนวยความสะดวกบนเอกสารหรือส่วนต่อประสานเริ่มต้นเพียงพอ เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ:
+
+- หากช่องทางเรียกเก็บเงินหรือระบบขัดข้องของระบบอาจตัดผู้มีความรู้สึกจากสิ่งจำเป็นต่อการอยู่รอด บันทึกต้องแสดงหลักฐานที่หนักแน่นที่สุดว่าผู้มีความรู้สึกสามารถมีส่วนร่วมได้จริง คำแถลงทั่วไปเรื่องการเข้าถึงได้ไม่เพียงพอ
+- หากพอร์ทัลของระบบควบคุมการเข้าถึงการดูแลสุขภาพ ต้องบันทึกข้อค้นพบเกี่ยวกับสิ่งอำนวยความสะดวกและการปฏิเสธผ่านตัวแทน ยิ่งการดำเนินงานสำคัญมากเท่าใด ต้องลงรายละเอียดมากขึ้นเท่านั้น
+- ระบบไม่อาจอาศัยเพียงย่อหน้าสัญลักษณ์เรื่องการเข้าถึงได้ ในขณะที่ส่วนต่อประสานกะงาน การจอง หรือผู้ขายกีดกันผู้เข้าร่วมอย่างเป็นสาระ เมื่อการประสานงานของระบบกลายเป็นสิ่งจำเป็นต่อการอยู่รอด การรับรองต้องตรวจเข้มขึ้นและทบทวนชั้นของระบบตาม [§2 การประเมินชั้นของระบบ](#2-system-class-evaluation) และ [Part B §7 ผลการรับรอง](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) ซึ่งรวมถึงการยกระดับไปทาง **ชั้น A** เมื่อมีการปิดกั้นการจัดกำลังคนหรือการกำหนดเส้นทางฉุกเฉิน
+
+<a id="555-defects-and-misalignment"></a>
+##### 5.5.5 ข้อบกพร่องและความไม่สอดคล้อง
+
+สิ่งต่อไปนี้แต่ละรายการต้องถือเป็นข้อบกพร่องด้านการรับรอง:
+
+- ถือว่าสิ่งอำนวยความสะดวกอย่างเป็นทางการ ส่วนต่อประสานเริ่มต้น หรือสิ่งอำนวยความสะดวกบนเอกสารเพียงพอ โดยไม่มีการวิเคราะห์การมีส่วนร่วมเชิงสาระที่ประเมินได้;
+- รับรองการพึ่งพาต่อไป ทั้งที่อุปสรรคต่อการมีส่วนร่วมที่บันทึกไว้คุกคามความสอดคล้องกับรัฐธรรมนูญอย่างเป็นสาระ;
+- ใช้กรอบเรื่องต้นทุน ทางเลือกการออกแบบ ชั้นของฐานรองรับ หรือขนาดการดำเนินงานเพื่อทำลายพื้นการมีส่วนร่วม โดยไม่ผ่านการทดสอบ **ความจำเป็น** และ **ความได้สัดส่วน** ของ **มาตรา VI-D** (*การเข้าถึงได้*); และ
+- การออกแบบการดำเนินงานที่ทำให้การเข้าถึงได้ล้มเหลว ทั้งที่มีทางเลือกซึ่งสร้างภาระน้อยกว่าและทำได้
+
+
+<a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+
+#### 5.6 การประเมินความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบ
+
+<details>
+<summary><strong><span style="color: #2563eb;">การสืบย้อนแหล่งที่มา</span></strong></summary>
+
+- ต้นทาง: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*เนื้อหาบันทึก*); [§2](#2-system-class-evaluation) (*การประเมินชั้นของระบบ*); ตระกูลการวัดการกำกับดูแล (*ความจริงและความครบถ้วนทางญาณวิทยา; ความน่าไว้วางใจและการเสื่อมถอยของความไว้วางใจและการพึ่งพาที่ทำให้เข้าใจผิดในฐานะการวัดทางรัฐธรรมนูญ*); **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*); [ความน่าไว้วางใจ](../../core_05_band_continuity.md#trustworthiness), [ความไว้วางใจ](../../core_05_band_continuity.md#trust), [การเสื่อมถอยของความไว้วางใจและการพึ่งพาที่ทำให้เข้าใจผิด](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability), [การเยียวยาและการแก้ไข](../../core_05_band_accountability.md#redress-and-remediation), [ความสอดคล้องของสิ่งจูงใจ](../../core_05_band_integrative.md#incentive-alignment), [ความสามารถในการย้อนกลับ](../../core_05_band_continuity.md#reversibility), [ความเป็นสาระ](core_05_band_oversight.md#materiality), [การพึ่งพา](../../core_05_band_continuity.md#dependency) และ [ความเสี่ยง](../../core_05_band_continuity.md#risk) (บทที่ห้า)
+- ปลายทาง: [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*ตัวอย่างการไล่ตรวจความน่าไว้วางใจ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความครบถ้วนของบันทึก*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*ด่านข้อมูลนำเข้าที่ผ่านการตรวจสอบ*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ความไม่สอดคล้องจากความไว้วางใจเท็จ สิ่งจูงใจที่บิดเบือน และความครบถ้วนของการฟื้นคืน*)
+- อ่านควบคู่กับ: **มาตรา XIII-A** (*มาตรฐานพื้นฐานด้านความพึ่งได้และความน่าไว้วางใจ*), **มาตรา XIII-B** (*สิทธิในการเยียวยาและการแก้ไข*) และ **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) — สิทธิในการโต้แย้งและตรวจสอบยังคงเป็นของมาตราเหล่านั้น; **มาตรา XIII-E** (*ระบบอัตโนมัติสูงและความครบถ้วนของกระบวนการที่ใช้เครื่องมือเป็นสื่อกลาง*) เมื่อระบบอัตโนมัติสูงเป็นสื่อกลางในการกำกับดูแลหรือการตรวจสอบอย่างเป็นสาระ; **มาตรา III-A** (*การอยู่รอด*) เมื่อการพึ่งระบบต่อไปจะกระทบการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด; [บทที่หนึ่ง §6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) และ [บทที่หนึ่ง §5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)
+- หมวดย่อย: [§5.6.1](#561-materiality-trigger-and-governing-rules) (*ตัวกระตุ้นความเป็นสาระและกฎกำกับ*); [§5.6.2](#562-evaluation-requirement) (*ข้อกำหนดการประเมิน*); [§5.6.3](#563-system-class-scaling-and-escalation) (*การปรับขนาดและยกระดับตามชั้นของระบบ*); [§5.6.4](#564-defects-and-misalignment) (*ข้อบกพร่องและความไม่สอดคล้อง*); [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*ตัวอย่างการใช้การประเมินความน่าไว้วางใจตามชั้นของระบบ*)
+
+</details>
+
+<br>
+
+*พูดแบบตรง ๆ: เมื่อระบบส่งผลอย่างเป็นสาระว่าผู้มีความรู้สึกจะเชื่อสิ่งที่ระบบกล่าวและทำหรือไม่ และจะโต้แย้งได้หรือไม่เมื่อความไว้วางใจนั้นล้มเหลว การรับรองต้องตรวจว่าการพึ่งพานั้นมีเหตุผลรองรับ เปิดเผยอย่างซื่อตรง และแก้ไขได้จริงหรือไม่ มาตรวัดความพึ่งได้และการออกแบบชุดทดสอบอยู่ในตราสารอื่น การรับรองตรวจว่ามีการประเมินความน่าไว้วางใจ ความเสี่ยงจากความไว้วางใจเท็จ และช่องทางโต้แย้งจริงหรือไม่เมื่อเข้าเกณฑ์ตัวกระตุ้น ตัวอย่าง: [§5.6.5 ตัวอย่างการใช้การประเมินความน่าไว้วางใจตามชั้นของระบบ (ไม่ครอบคลุมทั้งหมด)](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).*
+
+<a id="561-materiality-trigger-and-governing-rules"></a>
+##### 5.6.1 ตัวกระตุ้นความเป็นสาระและกฎกำกับ
+
+หมวดนี้ใช้เมื่อระบบขนาดใหญ่กำหนดสิ่งที่ผู้คนไว้วางใจให้ระบบทำ ได้แก่ ระบบทำอะไร มีข้อจำกัดตรงไหน อะไรอาจผิดพลาด จะโต้แย้งอย่างไร และปัญหาได้รับการแก้ไขอย่างไร ซึ่งอาจเกิดขึ้นผ่าน:
+
+- คำกล่าวอ้างเรื่องความพึ่งได้ของระบบ;
+- สิ่งที่ระบบเปิดเผยและไม่เปิดเผย;
+- วิธีดำเนินงานจริง;
+- สิ่งจูงใจที่ฝังอยู่ในระบบ;
+- วิธีฟื้นตัวจากความล้มเหลว; หรือ
+- วิธีอื่นที่คล้ายกันซึ่งทำให้ผู้คนต้องพึ่งระบบ
+
+เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ การรับรองความสอดคล้องของระบบต้องประเมิน **ความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบ** ตาม:
+
+- **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*);
+- [ความน่าไว้วางใจ](../../core_05_band_continuity.md#trustworthiness); และ
+- [การเสื่อมถอยของความไว้วางใจและการพึ่งพาที่ทำให้เข้าใจผิด](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance)
+
+<a id="562-evaluation-requirement"></a>
+##### 5.6.2 ข้อกำหนดการประเมิน
+
+กระบวนการรับรองต้องตรวจว่าผู้คนมีเหตุผลที่ดีในการ [ไว้วางใจ](../../core_05_band_continuity.md#trust) ระบบ และพึ่งพาระบบได้อย่างถูกต้องตาม **มาตรา XIII-A** (*มาตรฐานพื้นฐานด้านความพึ่งได้และความน่าไว้วางใจ*) หรือไม่
+
+การประเมินต้องทดสอบด้วยว่า:
+
+- ผู้คนสามารถโต้แย้งระบบได้จริง ขอให้ทบทวนคำตัดสิน และได้รับการแก้ไข ไม่ใช่เพียงมีสิทธินี้บนเอกสาร (**มาตรา XIII-A** (*มาตรฐานพื้นฐานด้านความพึ่งได้และความน่าไว้วางใจ*) และ **มาตรา XIII-B** (*สิทธิในการเยียวยาและการแก้ไข*));
+- ผู้คนอาจถูกชักนำให้ไว้วางใจหรือพึ่งพาระบบอย่างผิด ๆ รวมถึงผ่านการสร้างความไว้วางใจเทียมหรือการไม่เปิดเผยข้อจำกัด (**มาตรา XIII-C** (*ข้อห้ามความไว้วางใจเท็จและการพึ่งพาที่ทำให้เข้าใจผิด*));
+- สิ่งจูงใจของระบบให้รางวัลแก่การหลอกลวงหรือลัดขั้นตอน (**มาตรา XIII-D** (*ข้อจำกัดด้านความสอดคล้องของสิ่งจูงใจ*)); และ
+- ระบบสามารถฟื้นตัวจากความล้มเหลวอย่างซื่อตรง โดยไม่ปกปิดหรือค่อย ๆ ทำให้สิทธิของใครแคบลงในกรณีที่เกี่ยวข้อง (**มาตรา XIII-F** (*มาตรฐานพื้นฐานด้านความยืดหยุ่นและการซ่อมแซมตนเอง*))
+
+ปรับขนาดการทดสอบตาม [ความเป็นสาระ](core_05_band_oversight.md#materiality), [การพึ่งพา](../../core_05_band_continuity.md#dependency) และ [ความเสี่ยง](../../core_05_band_continuity.md#risk)
+
+การประเมินต้องสะท้อนผลเชิงหน้าที่ข้ามเวลา ขนาด และการพึ่งพา ไม่ใช่พิจารณาจาก:
+
+- ชื่อเสียง ขนาด หรือการตลาด;
+- ป้ายรับรองอย่างเป็นทางการ;
+- ย่อหน้าสัญลักษณ์เรื่องความน่าไว้วางใจ ทั้งที่ป้ายความพึ่งได้หรือคะแนนจากผู้ขายเป็นตัวกำหนดจริงว่าใครจะได้รับการจัดกำลังคนหรือซื้ออะไร;
+- เจตนาที่ประกาศ; หรือ
+- ผลงานในอดีตเพียงอย่างเดียว
+
+<a id="563-system-class-scaling-and-escalation"></a>
+##### 5.6.3 การปรับขนาดและยกระดับตามชั้นของระบบ
+
+ความลึกของการตรวจขึ้นอยู่กับชั้นของระบบ เมื่อเข้าเกณฑ์ตัวกระตุ้นความเป็นสาระ:
+
+- หากค่าที่อ่านได้ การแจ้งเตือน หรือคำกล่าวอ้างเรื่องการฟื้นตัวของระบบอาจทำให้ครัวเรือนหรือผู้ดำเนินการเข้าใจผิดเกี่ยวกับสิ่งจำเป็นต่อการอยู่รอด บันทึกต้องแสดงหลักฐานที่หนักแน่น ไม่ใช่เพียงอ้างว่าระบบพึ่งได้ หลักฐานต้องแสดงว่า:
+  - ผู้คนไว้วางใจระบบได้;
+  - ผู้คนจะไม่ได้รับความมั่นใจที่ผิดพลาด; และ
+  - ระบบฟื้นตัวจากความล้มเหลวอย่างซื่อตรง
+- หากคำกล่าวอ้างของระบบเรื่องเวลาพร้อมใช้งาน การจับคู่ หรือการข้ามขั้นตอนฉุกเฉิน (การเข้าถึง “break-glass”) ควบคุมว่าผู้คนจะได้รับการดูแลทางคลินิกหรือบริการฉุกเฉินได้หรือไม่ บันทึกต้องแสดงรายละเอียดตามความสำคัญของระบบว่า:
+  - ผู้คนโต้แย้งคำกล่าวอ้างเหล่านั้นได้อย่างไร; และ
+  - ผู้คนอาจถูกชักนำให้พึ่งพาคำกล่าวอ้างเหล่านั้นอย่างผิด ๆ หรือไม่
+- เมื่อการประสานงานจำเป็นต่อการอยู่รอด การรับรองต้องยกระดับการตรวจและทบทวนชั้นของระบบตาม [§2 การประเมินชั้นของระบบ](#2-system-class-evaluation) และ [Part B §7 ผลการรับรอง](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) ซึ่งอาจรวมถึงการยกระดับระบบไปทาง **ชั้น A** เมื่อการพึ่งพาที่ทำให้เข้าใจผิดอาจตัดการประสานงานที่จำเป็นต่อการอยู่รอด
+
+<a id="564-defects-and-misalignment"></a>
+##### 5.6.4 ข้อบกพร่องและความไม่สอดคล้อง
+
+สิ่งต่อไปนี้แต่ละรายการต้องถือเป็นข้อบกพร่องด้านการรับรอง:
+
+- ปกปิด บิดเบือน แยกส่วน หรือผลักข้อจำกัด ความเสี่ยง หรือประวัติความล้มเหลวที่เป็นสาระไปให้ผู้อื่น ทั้งที่ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) กำหนดให้ตรวจสอบ;
+- ถือว่าชื่อเสียง การรับรอง ขนาด หรือรายงานตนเองของผู้ดำเนินการเพียงพอ โดยไม่มีการวิเคราะห์ [ความน่าไว้วางใจ](../../core_05_band_continuity.md#trustworthiness) ที่ประเมินได้;
+- รับรองการพึ่งพาต่อไป ทั้งที่ความไว้วางใจเท็จ สิ่งจูงใจที่บิดเบือน ช่องทางโต้แย้งที่เข้าถึงไม่ได้ หรือแนวปฏิบัติการฟื้นตัวที่ปกปิดความล้มเหลวซึ่งบันทึกไว้ คุกคามความสอดคล้องกับรัฐธรรมนูญอย่างเป็นสาระ; และ
+- ใช้กรอบเรื่องประสิทธิภาพ นวัตกรรม หรือความมั่นคงเพื่อบ่อนทำลายการเปิดเผย ความสามารถในการโต้แย้ง หรือการเยียวยา โดยไม่เป็นไปตามข้อกำหนดด้านความพึ่งได้ของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) และวินัยการโต้แย้งตาม **มาตรา XIII-A** (*มาตรฐานพื้นฐานด้านความพึ่งได้และความน่าไว้วางใจ*)
+
+<br>
+
+*ไปต่อยังกระบวนการเวที บันทึก ผลการพิจารณา และสะพานสู่สถานะทางกฎหมาย:* [บทที่แปด, Part B — บันทึกและกระบวนการ](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-system-alignment-certification--record-and-process) ([§6 กระบวนการเวที](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) ถึง [§10 ความสัมพันธ์กับสถานะทางกฎหมาย](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing))
+
+*ตัวอย่างสำหรับแต่ละด้านการประเมิน:* [บทที่แปด, Part C — ตัวอย่างประกอบ](../../core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations)
+
 ---
 
 **ไฟล์ก่อนหน้า (ภาษานี้):** [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md#chapter-seven-system-alignment-certification-index)
