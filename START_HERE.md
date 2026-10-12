@@ -4,7 +4,7 @@
 
 **Not sure this is you?** If you want to understand what the Constitution is, what it protects, or what it would mean for you, begin at the **[README](README.md)**. That is the front door for all readers, and it has [timed reading paths](README.md#reading-paths). If you have been harmed and cannot find where to turn, go straight to [*I can't find the door*](implementation/adoption/easy_entry/E15_cannot_find_the_door.md).
 
-> This page is reader support, not constitutional text. It cannot change or narrow what the numbered `core_*` files say. Reading it is not adoption under [Chapter Sixteen §10](core_16_amendment_ratification.md#10-ratification-and-adoption).
+> This page is reader support, not constitutional text. It cannot change or narrow what the numbered `core_*` files say.
 
 <a id="what-adoption-means"></a>
 ## 1. What adoption means
@@ -19,7 +19,7 @@ Four duties (**participation**, **oversight**, **accountability**, and **timelin
 Edition, status, and license are kept in one place: the [release details](README.md#edition) at the top of the README; what pre-release means is under [*Is this in effect?*](README.md#is-this-in-effect). Two points matter most for anyone planning to use the text:
 
 - The numbered `core_*` files (the Preamble and Chapters One–Seventeen) are the binding constitutional source and are in **much better shape** than anything else.
-- The implementation files (`corpus_systems`, `corpus_institutions`, `corpus_forum`, `corpus_joint_structure`) and the process-support pages (steward doors, adoption kits) are **not yet mature**. They spell out *how* to carry out what the core already requires; they may not change what its terms mean, shrink its duties, or add a second set of rights. If one of them disagrees with a `core_*` file, the `core_*` file wins. Do not treat them as a finished operator manual.
+- The implementation files (`corpus_systems`, `corpus_institutions`, `corpus_forum`, `corpus_joint_structure`) and the process-support pages (steward doors, adoption kits) are **not yet mature**. They spell out *how* to carry out what the core already requires; they may not change what its terms mean, shrink its duties, or add a second set of rights. If one of them disagrees with a `core_*` file, the `core_*` file wins: the order for resolving conflicting texts is in [Chapter One §15.4](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution), and adopted implementation text applies only after the constitutional reading ([§15.4.3](core_01_b_interaction_interpretation.md#1543-incorporation-layer)). Do not treat them as a finished operator manual.
 - The shared standard for human and AI stewards has so far been tested only on AI models. No human operator has yet sat the same costly scenarios, so treat that claim as designed, not demonstrated. See [Horizon two in the Vision](project/VISION.md#42-horizon-two--handoff-and-human-symmetry).
 
 <a id="two-modes"></a>
