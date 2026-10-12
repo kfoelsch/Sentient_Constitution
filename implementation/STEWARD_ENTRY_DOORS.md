@@ -223,7 +223,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter One §18](../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) |
+| **Owner text** | [Chapter One §19](../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) |
 | **Next step** | Refuse the proxy. Correct the incentive. Run the shared refusal and logging screen. |
 | **Next-step class** | `refuse_proxy_gaming_and_escalate_misalignment` |
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-11T13:15:29+00:00",
+  "generated_at": "2026-10-12T15:05:50+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -487,9 +487,10 @@
         "targets": [
           {
             "file": "core_01_a_values_principles.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#32-recognition-reinforcement-and-aspiration",
+              "#326-anti-reward-for-anti-constitutional-conduct",
               "#4-safety-harm-constraint",
               "#5-truth-epistemic-integrity-constraint",
               "#6-trust-and-trustworthiness-coordination-integrity"
@@ -500,6 +501,16 @@
             "count": 1,
             "anchors": [
               "#133-minimization-of-avoidable-burden"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 4,
+            "anchors": [
+              "#171-shared-stewardship-standard",
+              "#175-duty-to-resist",
+              "#1911-what-incentives-must-do",
+              "#1912-what-incentives-must-not-do"
             ]
           },
           {
@@ -559,7 +570,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
@@ -568,12 +579,14 @@
               "#material-control-line",
               "#materially-binding-act",
               "#materially-binding-act-record",
+              "#protected-reporting-retaliation-and-access-interference",
+              "#protected-reporting-whistleblowing",
               "#timely-resolution"
             ]
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 14,
+            "count": 15,
             "anchors": [
               "#avoidable-burden",
               "#bodily-maintenance-access",
@@ -591,7 +604,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#authority-stack-and-internal-hierarchy",
               "#constitutional-contract-layer",
@@ -601,7 +614,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#proxy-divergence",
               "#truth-constitutional-constraint"
@@ -740,7 +753,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 121,
+            "count": 122,
             "anchors": [
               "#2-measurements-overview",
               "#constitutional-tetrad",
@@ -748,7 +761,8 @@
               "#flourishing",
               "#material-stake",
               "#the-model",
-              "#two-constitutional-aims"
+              "#two-constitutional-aims",
+              "#two-fundamental-questions"
             ]
           },
           {
@@ -1667,7 +1681,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 76,
+            "count": 78,
             "anchors": [
               "#33-governance-layers",
               "#constitutional-tetrad",
@@ -1675,7 +1689,9 @@
               "#flourishing",
               "#material-stake",
               "#preamble--foundational-requirements",
-              "#two-constitutional-aims"
+              "#two-constitutional-aims",
+              "#two-fundamental-questions",
+              "#what-systems-reward"
             ]
           },
           {
@@ -2917,12 +2933,13 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#constitutional-tetrad",
               "#flourishing",
               "#material-stake",
-              "#two-constitutional-aims"
+              "#two-constitutional-aims",
+              "#two-fundamental-questions"
             ]
           },
           {
@@ -4690,13 +4707,15 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 35,
+            "count": 37,
             "anchors": [
               "#33-governance-layers",
               "#4-principles-definitions-and-rights",
               "#constitutional-tetrad",
               "#material-stake",
-              "#two-constitutional-aims"
+              "#two-constitutional-aims",
+              "#two-fundamental-questions",
+              "#what-systems-reward"
             ]
           },
           {
@@ -6386,7 +6405,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 22,
+            "count": 21,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -6418,7 +6437,7 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#article-xiii-a-reliability-and-trustworthiness-baseline",
               "#article-xiii-b-right-to-redress-and-remedy",
@@ -6427,7 +6446,7 @@
           },
           {
             "file": "core_06_rights_part_e.md",
-            "count": 3,
+            "count": 8,
             "anchors": [
               "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
               "#xxviii-a-existing-instantiations-transition-clock"
@@ -6444,7 +6463,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 64,
+            "count": 63,
             "anchors": [
               "#1-purpose-and-role",
               "#11-certification-at-a-glance",
@@ -6489,7 +6508,7 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#23-forum-case-records-standing-records-and-contests",
               "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",

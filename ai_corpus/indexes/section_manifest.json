@@ -1,120 +1,127 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-11T13:15:28+00:00",
+  "generated_at": "2026-10-12T15:05:49+00:00",
   "files": {
     "core_00_preamble.md": {
-      "total_lines": 473,
+      "total_lines": 496,
       "sections": [
         {
           "header": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
           "level": 1,
           "line_start": 2,
-          "line_end": 473,
+          "line_end": 496,
           "anchor": "#chapter-00-preamble--foundational-requirements"
+        },
+        {
+          "header": "What Systems Reward",
+          "level": 3,
+          "line_start": 28,
+          "line_end": 49,
+          "anchor": "#what-systems-reward"
         },
         {
           "header": "1. The Model",
           "level": 3,
-          "line_start": 27,
-          "line_end": 74,
-          "anchor": "#complexity-orientation"
+          "line_start": 50,
+          "line_end": 97,
+          "anchor": "#two-fundamental-questions"
         },
         {
           "header": "2. Measurements Overview",
           "level": 3,
-          "line_start": 75,
-          "line_end": 102,
+          "line_start": 98,
+          "line_end": 125,
           "anchor": "#2-measurements-overview"
         },
         {
           "header": "3. Governance and Stewardship",
           "level": 3,
-          "line_start": 103,
-          "line_end": 152,
+          "line_start": 126,
+          "line_end": 175,
           "anchor": null
         },
         {
           "header": "3.1 Using Measurements in Governance",
           "level": 4,
-          "line_start": 112,
-          "line_end": 120,
+          "line_start": 135,
+          "line_end": 143,
           "anchor": "#31-using-measurements-in-governance"
         },
         {
           "header": "3.2 Key Governance Processes",
           "level": 4,
-          "line_start": 121,
-          "line_end": 136,
+          "line_start": 144,
+          "line_end": 159,
           "anchor": "#32-key-governance-processes"
         },
         {
           "header": "3.3 Governance Layers",
           "level": 4,
-          "line_start": 137,
-          "line_end": 152,
+          "line_start": 160,
+          "line_end": 175,
           "anchor": "#33-governance-layers"
         },
         {
           "header": "4. Principles, Definitions, and Rights",
           "level": 3,
-          "line_start": 153,
-          "line_end": 217,
+          "line_start": 176,
+          "line_end": 240,
           "anchor": "#4-principles-definitions-and-rights"
         },
         {
           "header": "5. Functional Independence and Segregation of Duties",
           "level": 3,
-          "line_start": 218,
-          "line_end": 273,
+          "line_start": 241,
+          "line_end": 296,
           "anchor": "#5-functional-independence-and-segregation-of-duties"
         },
         {
           "header": "5.1 Four-seat separation map",
           "level": 4,
-          "line_start": 239,
-          "line_end": 273,
+          "line_start": 262,
+          "line_end": 296,
           "anchor": null
         },
         {
           "header": "6. Key Practical Process Pipelines",
           "level": 3,
-          "line_start": 274,
-          "line_end": 363,
+          "line_start": 297,
+          "line_end": 386,
           "anchor": "#6-key-practical-process-pipelines"
         },
         {
           "header": "6.1 Process map",
           "level": 4,
-          "line_start": 294,
-          "line_end": 345,
+          "line_start": 317,
+          "line_end": 368,
           "anchor": null
         },
         {
           "header": "6.2 How the full chain fits together",
           "level": 4,
-          "line_start": 346,
-          "line_end": 363,
+          "line_start": 369,
+          "line_end": 386,
           "anchor": "#62-how-the-full-chain-fits-together"
         },
         {
           "header": "7. Process Ownership and Outputs",
           "level": 3,
-          "line_start": 364,
-          "line_end": 420,
+          "line_start": 387,
+          "line_end": 443,
           "anchor": "#7-process-ownership-and-outputs"
         },
         {
           "header": "8. Governance, Change, and Incorporation",
           "level": 3,
-          "line_start": 421,
-          "line_end": 453,
+          "line_start": 444,
+          "line_end": 476,
           "anchor": "#8-governance-change-and-incorporation"
         },
         {
           "header": "9. Adopted Implementation Corpus",
           "level": 3,
-          "line_start": 454,
-          "line_end": 473,
+          "line_start": 477,
+          "line_end": 496,
           "anchor": null
         }
       ]
@@ -711,13 +718,13 @@
       ]
     },
     "core_01_c_stewardship_capacity_principles.md": {
-      "total_lines": 1573,
+      "total_lines": 1575,
       "sections": [
         {
           "header": "CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE",
           "level": 1,
           "line_start": 4,
-          "line_end": 1573,
+          "line_end": 1575,
           "anchor": "#chapter-01-part-c-stewardship-and-governance"
         },
         {
@@ -843,126 +850,126 @@
           "header": "19. Incentive Alignment and System Capture",
           "level": 3,
           "line_start": 993,
-          "line_end": 1524,
+          "line_end": 1526,
           "anchor": "#19-incentive-alignment-and-system-capture"
         },
         {
           "header": "19.1 Alignment Requirement",
           "level": 4,
-          "line_start": 1048,
-          "line_end": 1171,
+          "line_start": 1050,
+          "line_end": 1173,
           "anchor": "#191-alignment-requirement"
         },
         {
           "header": "19.1.1 What Incentives Must Do",
           "level": 5,
-          "line_start": 1074,
-          "line_end": 1092,
+          "line_start": 1076,
+          "line_end": 1094,
           "anchor": "#1911-what-incentives-must-do"
         },
         {
           "header": "19.1.2 What Incentives Must Not Do",
           "level": 5,
-          "line_start": 1093,
-          "line_end": 1114,
+          "line_start": 1095,
+          "line_end": 1116,
           "anchor": "#1912-what-incentives-must-not-do"
         },
         {
           "header": "19.1.3 Stewardship and Operator Application",
           "level": 5,
-          "line_start": 1115,
-          "line_end": 1123,
+          "line_start": 1117,
+          "line_end": 1125,
           "anchor": "#1913-stewardship-and-operator-application"
         },
         {
           "header": "19.1.4 Role-Depth and Material-Responsibility Pathways",
           "level": 5,
-          "line_start": 1124,
-          "line_end": 1148,
+          "line_start": 1126,
+          "line_end": 1150,
           "anchor": "#1914-role-depth-and-material-responsibility-pathways"
         },
         {
           "header": "19.1.5 Constitutional Outcome Claims Discipline",
           "level": 5,
-          "line_start": 1149,
-          "line_end": 1171,
+          "line_start": 1151,
+          "line_end": 1173,
           "anchor": "#1915-constitutional-outcome-claims-discipline"
         },
         {
           "header": "19.2 Convenient Proxies and Proxy Divergence",
           "level": 4,
-          "line_start": 1172,
-          "line_end": 1203,
+          "line_start": 1174,
+          "line_end": 1205,
           "anchor": "#192-convenient-proxies-and-proxy-divergence"
         },
         {
           "header": "19.3 Misalignment Detection",
           "level": 4,
-          "line_start": 1204,
-          "line_end": 1276,
+          "line_start": 1206,
+          "line_end": 1278,
           "anchor": "#193-misalignment-detection"
         },
         {
           "header": "19.3.1 Capture Escalation Triggers",
           "level": 5,
-          "line_start": 1245,
-          "line_end": 1276,
+          "line_start": 1247,
+          "line_end": 1278,
           "anchor": "#1931-capture-escalation-triggers"
         },
         {
           "header": "19.4 Misalignment Correction and Capture Response",
           "level": 4,
-          "line_start": 1277,
-          "line_end": 1325,
+          "line_start": 1279,
+          "line_end": 1327,
           "anchor": "#194-misalignment-correction-and-capture-response"
         },
         {
           "header": "19.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
           "level": 4,
-          "line_start": 1326,
-          "line_end": 1469,
+          "line_start": 1328,
+          "line_end": 1471,
           "anchor": "#195-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "19.5.1 What May Not Be Rewarded",
           "level": 5,
-          "line_start": 1368,
-          "line_end": 1389,
+          "line_start": 1370,
+          "line_end": 1391,
           "anchor": "#1951-what-may-not-be-rewarded"
         },
         {
           "header": "19.5.2 Who Decides Outcomes",
           "level": 5,
-          "line_start": 1390,
-          "line_end": 1409,
+          "line_start": 1392,
+          "line_end": 1411,
           "anchor": "#1952-who-decides-outcomes"
         },
         {
           "header": "19.5.3 Market Signals Are Not Constitutional Proof",
           "level": 5,
-          "line_start": 1410,
-          "line_end": 1431,
+          "line_start": 1412,
+          "line_end": 1433,
           "anchor": "#1953-market-signals-are-not-constitutional-proof"
         },
         {
           "header": "19.5.4 Proportionate Controls and Implementation Custody",
           "level": 5,
-          "line_start": 1432,
-          "line_end": 1469,
+          "line_start": 1434,
+          "line_end": 1471,
           "anchor": "#1954-proportionate-controls-and-implementation-custody"
         },
         {
           "header": "19.6 Keeping Responsibility When Ownership or Structure Changes",
           "level": 4,
-          "line_start": 1470,
-          "line_end": 1524,
+          "line_start": 1472,
+          "line_end": 1526,
           "anchor": "#196-keeping-responsibility-when-ownership-or-structure-changes"
         },
         {
           "header": "20. Integrated Application",
           "level": 3,
-          "line_start": 1525,
-          "line_end": 1573,
+          "line_start": 1527,
+          "line_end": 1575,
           "anchor": "#20-integrated-application"
         }
       ]
@@ -3811,13 +3818,13 @@
       ]
     },
     "core_08_a_system_alignment_certification_evaluation.md": {
-      "total_lines": 1082,
+      "total_lines": 1112,
       "sections": [
         {
           "header": "CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION",
           "level": 1,
           "line_start": 4,
-          "line_end": 1082,
+          "line_end": 1112,
           "anchor": "#chapter-eight-part-a-certification-evaluation"
         },
         {
@@ -3978,362 +3985,362 @@
           "header": "5. Rights-Floor and Domain Evaluations",
           "level": 3,
           "line_start": 600,
-          "line_end": 1082,
+          "line_end": 1112,
           "anchor": "#5-rights-floor-and-domain-evaluations"
         },
         {
           "header": "5.1 Ecological Footprint Evaluation",
           "level": 4,
           "line_start": 642,
-          "line_end": 702,
+          "line_end": 699,
           "anchor": "#51-ecological-footprint-evaluation"
         },
         {
           "header": "5.1.1 Scope and Governing Rules",
           "level": 5,
           "line_start": 659,
-          "line_end": 666,
+          "line_end": 663,
           "anchor": "#511-scope-and-governing-rules"
         },
         {
           "header": "5.1.2 Evaluation Requirement",
           "level": 5,
-          "line_start": 667,
-          "line_end": 683,
+          "line_start": 664,
+          "line_end": 680,
           "anchor": "#512-evaluation-requirement"
         },
         {
           "header": "5.1.3 System Class Scaling and Escalation",
           "level": 5,
-          "line_start": 684,
-          "line_end": 692,
+          "line_start": 681,
+          "line_end": 689,
           "anchor": "#513-system-class-scaling-and-escalation"
         },
         {
           "header": "5.1.4 Defects and Misalignment",
           "level": 5,
-          "line_start": 693,
-          "line_end": 702,
+          "line_start": 690,
+          "line_end": 699,
           "anchor": "#514-defects-and-misalignment"
         },
         {
           "header": "5.2 Educational Capability and Learning-System Integrity Evaluation",
           "level": 4,
-          "line_start": 703,
-          "line_end": 775,
+          "line_start": 700,
+          "line_end": 772,
           "anchor": "#52-educational-capability-and-learning-system-integrity-evaluation"
         },
         {
           "header": "5.2.1 Materiality Trigger and Governing Rules",
           "level": 5,
-          "line_start": 720,
-          "line_end": 737,
+          "line_start": 717,
+          "line_end": 734,
           "anchor": "#521-materiality-trigger-and-governing-rules"
         },
         {
           "header": "5.2.2 Evaluation Requirement",
           "level": 5,
-          "line_start": 738,
-          "line_end": 754,
+          "line_start": 735,
+          "line_end": 751,
           "anchor": "#522-evaluation-requirement"
         },
         {
           "header": "5.2.3 System Class Scaling and Escalation",
           "level": 5,
-          "line_start": 755,
-          "line_end": 764,
+          "line_start": 752,
+          "line_end": 761,
           "anchor": "#523-system-class-scaling-and-escalation"
         },
         {
           "header": "5.2.4 Defects and Misalignment",
           "level": 5,
-          "line_start": 765,
-          "line_end": 775,
+          "line_start": 762,
+          "line_end": 772,
           "anchor": "#524-defects-and-misalignment"
         },
         {
           "header": "5.3 Proportionate Cross-System Support Evaluation",
           "level": 4,
-          "line_start": 776,
-          "line_end": 892,
+          "line_start": 773,
+          "line_end": 889,
           "anchor": "#53-proportionate-cross-system-support-evaluation"
         },
         {
           "header": "5.3.1 Materiality Trigger",
           "level": 5,
-          "line_start": 793,
-          "line_end": 802,
+          "line_start": 790,
+          "line_end": 799,
           "anchor": "#531-materiality-trigger"
         },
         {
           "header": "5.3.2 Meaning of Extraction",
           "level": 5,
-          "line_start": 803,
-          "line_end": 811,
+          "line_start": 800,
+          "line_end": 808,
           "anchor": "#532-meaning-of-extraction"
         },
         {
           "header": "5.3.3 Governing Rules",
           "level": 5,
-          "line_start": 812,
-          "line_end": 828,
+          "line_start": 809,
+          "line_end": 825,
           "anchor": "#533-governing-rules"
         },
         {
           "header": "5.3.4 Evaluation Requirement",
           "level": 5,
-          "line_start": 829,
-          "line_end": 856,
+          "line_start": 826,
+          "line_end": 853,
           "anchor": "#534-evaluation-requirement"
         },
         {
           "header": "5.3.5 Map and Record Integrity",
           "level": 5,
-          "line_start": 857,
-          "line_end": 867,
+          "line_start": 854,
+          "line_end": 864,
           "anchor": "#535-map-and-record-integrity"
         },
         {
           "header": "5.3.6 System Class Scaling and Escalation",
           "level": 5,
-          "line_start": 868,
-          "line_end": 876,
+          "line_start": 865,
+          "line_end": 873,
           "anchor": "#536-system-class-scaling-and-escalation"
         },
         {
           "header": "5.3.7 Defects and Misalignment",
           "level": 5,
-          "line_start": 877,
-          "line_end": 892,
+          "line_start": 874,
+          "line_end": 889,
           "anchor": "#537-defects-and-misalignment"
         },
         {
           "header": "5.4 Nondiscrimination Evaluation",
           "level": 4,
-          "line_start": 893,
-          "line_end": 941,
+          "line_start": 890,
+          "line_end": 938,
           "anchor": "#54-nondiscrimination-evaluation"
         },
         {
           "header": "5.4.1 Materiality Trigger and Governing Rules",
           "level": 5,
-          "line_start": 910,
-          "line_end": 916,
+          "line_start": 907,
+          "line_end": 913,
           "anchor": "#541-materiality-trigger-and-governing-rules"
         },
         {
           "header": "5.4.2 Evaluation Requirement",
           "level": 5,
-          "line_start": 917,
-          "line_end": 921,
+          "line_start": 914,
+          "line_end": 918,
           "anchor": "#542-evaluation-requirement"
         },
         {
           "header": "5.4.3 System Class Scaling and Escalation",
           "level": 5,
-          "line_start": 922,
-          "line_end": 930,
+          "line_start": 919,
+          "line_end": 927,
           "anchor": "#543-system-class-scaling-and-escalation"
         },
         {
           "header": "5.4.4 Defects and Misalignment",
           "level": 5,
-          "line_start": 931,
-          "line_end": 941,
+          "line_start": 928,
+          "line_end": 938,
           "anchor": "#544-defects-and-misalignment"
         },
         {
           "header": "5.5 Accessibility Evaluation",
           "level": 4,
-          "line_start": 942,
-          "line_end": 1030,
+          "line_start": 939,
+          "line_end": 1027,
           "anchor": "#55-accessibility-evaluation"
         },
         {
           "header": "5.5.1 Materiality Trigger and Governing Rules",
           "level": 5,
-          "line_start": 959,
-          "line_end": 986,
+          "line_start": 956,
+          "line_end": 983,
           "anchor": "#551-materiality-trigger-and-governing-rules"
         },
         {
           "header": "5.5.2 Evaluation Requirement",
           "level": 5,
-          "line_start": 987,
-          "line_end": 1001,
+          "line_start": 984,
+          "line_end": 998,
           "anchor": "#552-evaluation-requirement"
         },
         {
           "header": "5.5.3 Profiles in Scope",
           "level": 5,
-          "line_start": 1002,
-          "line_end": 1010,
+          "line_start": 999,
+          "line_end": 1007,
           "anchor": "#553-profiles-in-scope"
         },
         {
           "header": "5.5.4 System Class Scaling and Escalation",
           "level": 5,
-          "line_start": 1011,
-          "line_end": 1019,
+          "line_start": 1008,
+          "line_end": 1016,
           "anchor": "#554-system-class-scaling-and-escalation"
         },
         {
           "header": "5.5.5 Defects and Misalignment",
           "level": 5,
-          "line_start": 1020,
-          "line_end": 1030,
+          "line_start": 1017,
+          "line_end": 1027,
           "anchor": "#555-defects-and-misalignment"
         },
         {
           "header": "5.6 Trustworthiness and System-Reliance Integrity Evaluation",
           "level": 4,
-          "line_start": 1031,
-          "line_end": 1082,
+          "line_start": 1028,
+          "line_end": 1112,
           "anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation"
         },
         {
           "header": "5.6.1 Materiality Trigger and Governing Rules",
           "level": 5,
-          "line_start": 1048,
-          "line_end": 1054,
+          "line_start": 1045,
+          "line_end": 1062,
           "anchor": "#561-materiality-trigger-and-governing-rules"
         },
         {
           "header": "5.6.2 Evaluation Requirement",
           "level": 5,
-          "line_start": 1055,
-          "line_end": 1059,
+          "line_start": 1063,
+          "line_end": 1084,
           "anchor": "#562-evaluation-requirement"
         },
         {
           "header": "5.6.3 System Class Scaling and Escalation",
           "level": 5,
-          "line_start": 1060,
-          "line_end": 1068,
+          "line_start": 1085,
+          "line_end": 1098,
           "anchor": "#563-system-class-scaling-and-escalation"
         },
         {
           "header": "5.6.4 Defects and Misalignment",
           "level": 5,
-          "line_start": 1069,
-          "line_end": 1082,
+          "line_start": 1099,
+          "line_end": 1112,
           "anchor": "#564-defects-and-misalignment"
         }
       ]
     },
     "core_08_b_system_alignment_certification_record_process.md": {
-      "total_lines": 593,
+      "total_lines": 751,
       "sections": [
         {
           "header": "CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS",
           "level": 1,
           "line_start": 2,
-          "line_end": 593,
+          "line_end": 751,
           "anchor": "#chapter-eight-part-b-certification-record-and-process"
         },
         {
           "header": "6. Forum Process",
           "level": 3,
-          "line_start": 39,
-          "line_end": 156,
+          "line_start": 54,
+          "line_end": 200,
           "anchor": "#6-forum-process"
         },
         {
           "header": "6.1 Forum supervision and component roles",
           "level": 4,
-          "line_start": 70,
-          "line_end": 110,
+          "line_start": 85,
+          "line_end": 140,
           "anchor": "#61-forum-supervision-and-component-roles"
         },
         {
           "header": "6.2 Supervisory sequence",
           "level": 4,
-          "line_start": 111,
-          "line_end": 134,
+          "line_start": 141,
+          "line_end": 172,
           "anchor": "#62-supervisory-sequence"
         },
         {
           "header": "6.3 Contestability chain",
           "level": 4,
-          "line_start": 135,
-          "line_end": 148,
+          "line_start": 173,
+          "line_end": 186,
           "anchor": "#63-contestability-chain"
         },
         {
           "header": "6.4 Anti-bypass",
           "level": 4,
-          "line_start": 149,
-          "line_end": 156,
+          "line_start": 187,
+          "line_end": 200,
           "anchor": "#64-anti-bypass"
         },
         {
           "header": "7. Certification Outcomes",
           "level": 3,
-          "line_start": 157,
-          "line_end": 219,
+          "line_start": 201,
+          "line_end": 315,
           "anchor": "#7-certification-outcomes"
         },
         {
           "header": "8. System Certification Record",
           "level": 3,
-          "line_start": 220,
-          "line_end": 368,
+          "line_start": 316,
+          "line_end": 501,
           "anchor": "#8-system-certification-record"
         },
         {
           "header": "8.1 Minimum record contents",
           "level": 4,
-          "line_start": 242,
-          "line_end": 321,
+          "line_start": 338,
+          "line_end": 453,
           "anchor": "#81-minimum-record-contents"
         },
         {
           "header": "8.2 Record integrity: transparency and auditability",
           "level": 4,
-          "line_start": 322,
-          "line_end": 368,
+          "line_start": 454,
+          "line_end": 501,
           "anchor": "#82-record-integrity-transparency-and-auditability"
         },
         {
           "header": "9. Recertification and Reopening",
           "level": 3,
-          "line_start": 369,
-          "line_end": 517,
+          "line_start": 502,
+          "line_end": 670,
           "anchor": "#9-recertification-and-reopening"
         },
         {
           "header": "9.1 Challenging a Certification",
           "level": 4,
-          "line_start": 411,
-          "line_end": 465,
+          "line_start": 557,
+          "line_end": 618,
           "anchor": "#91-challenging-a-certification"
         },
         {
           "header": "9.1.1 Contestability paths",
           "level": 5,
-          "line_start": 446,
-          "line_end": 465,
+          "line_start": 592,
+          "line_end": 618,
           "anchor": "#911-contestability-paths"
         },
         {
           "header": "9.2 Provisional and full certification",
           "level": 4,
-          "line_start": 466,
-          "line_end": 507,
+          "line_start": 619,
+          "line_end": 660,
           "anchor": "#92-provisional-and-full-certification"
         },
         {
           "header": "9.3 Non-evasion",
           "level": 4,
-          "line_start": 508,
-          "line_end": 517,
+          "line_start": 661,
+          "line_end": 670,
           "anchor": "#93-non-evasion"
         },
         {
           "header": "10. Relationship to Standing",
           "level": 3,
-          "line_start": 518,
-          "line_end": 593,
+          "line_start": 671,
+          "line_end": 751,
           "anchor": "#10-relationship-to-standing"
         }
       ]
@@ -7909,13 +7916,13 @@
       ]
     },
     "corpus_joint_structure/cjs_reader_guide.md": {
-      "total_lines": 118,
+      "total_lines": 117,
       "sections": [
         {
           "header": "Joint-structure reader guide",
           "level": 1,
           "line_start": 1,
-          "line_end": 118,
+          "line_end": 117,
           "anchor": null
         },
         {
@@ -7943,28 +7950,28 @@
           "header": "When more than one layer applies",
           "level": 2,
           "line_start": 78,
-          "line_end": 83,
+          "line_end": 82,
           "anchor": null
         },
         {
           "header": "How to read an oDef entry",
           "level": 2,
-          "line_start": 84,
-          "line_end": 95,
+          "line_start": 83,
+          "line_end": 94,
           "anchor": null
         },
         {
           "header": "Map of CJS files",
           "level": 2,
-          "line_start": 96,
-          "line_end": 109,
+          "line_start": 95,
+          "line_end": 108,
           "anchor": null
         },
         {
           "header": "Editors and auditors",
           "level": 2,
-          "line_start": 110,
-          "line_end": 118,
+          "line_start": 109,
+          "line_end": 117,
           "anchor": null
         }
       ]
@@ -10167,13 +10174,13 @@
       ]
     },
     "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md": {
-      "total_lines": 71,
+      "total_lines": 70,
       "sections": [
         {
           "header": "CI-17: End-of-life continuity, memorial dignity, and posthumous-data stewardship",
           "level": 1,
           "line_start": 1,
-          "line_end": 71,
+          "line_end": 70,
           "anchor": null
         }
       ]
@@ -10191,13 +10198,13 @@
       ]
     },
     "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md": {
-      "total_lines": 80,
+      "total_lines": 79,
       "sections": [
         {
           "header": "CI-19: Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface",
           "level": 1,
           "line_start": 1,
-          "line_end": 80,
+          "line_end": 79,
           "anchor": null
         }
       ]
@@ -10215,34 +10222,34 @@
       ]
     },
     "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md": {
-      "total_lines": 124,
+      "total_lines": 123,
       "sections": [
         {
           "header": "CI-21: Community life, voluntary association, and non-instrumental time",
           "level": 1,
           "line_start": 1,
-          "line_end": 124,
+          "line_end": 123,
           "anchor": null
         },
         {
           "header": "CI-21.1: Civic infrastructure and non-instrumental time",
           "level": 2,
-          "line_start": 59,
-          "line_end": 77,
+          "line_start": 58,
+          "line_end": 76,
           "anchor": null
         },
         {
           "header": "CI-21.2: Voluntary association and anti-coercion guardrails",
           "level": 2,
-          "line_start": 78,
-          "line_end": 97,
+          "line_start": 77,
+          "line_end": 96,
           "anchor": null
         },
         {
           "header": "CI-21.3: Referral and escalation interfaces",
           "level": 2,
-          "line_start": 98,
-          "line_end": 124,
+          "line_start": 97,
+          "line_end": 123,
           "anchor": null
         }
       ]
@@ -10272,60 +10279,60 @@
       ]
     },
     "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md": {
-      "total_lines": 88,
+      "total_lines": 87,
       "sections": [
         {
           "header": "CI-24: Innovation reward, disclosure, and anti-enclosure",
           "level": 1,
           "line_start": 1,
-          "line_end": 88,
+          "line_end": 87,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md": {
-      "total_lines": 160,
+      "total_lines": 159,
       "sections": [
         {
           "header": "CI-25: Scientific publication, peer review, replication, and evidence stewardship",
           "level": 1,
           "line_start": 1,
-          "line_end": 160,
+          "line_end": 159,
           "anchor": null
         },
         {
           "header": "CI-25.1: Publication intake and correction records",
           "level": 2,
-          "line_start": 64,
-          "line_end": 81,
+          "line_start": 63,
+          "line_end": 80,
           "anchor": null
         },
         {
           "header": "CI-25.2: Evidence, review, and reviewer custody",
           "level": 2,
-          "line_start": 82,
-          "line_end": 100,
+          "line_start": 81,
+          "line_end": 99,
           "anchor": null
         },
         {
           "header": "CI-25.3: Challenge, correction, and access",
           "level": 2,
-          "line_start": 101,
-          "line_end": 119,
+          "line_start": 100,
+          "line_end": 118,
           "anchor": null
         },
         {
           "header": "CI-25.4: Incentive criteria",
           "level": 2,
-          "line_start": 120,
-          "line_end": 135,
+          "line_start": 119,
+          "line_end": 134,
           "anchor": null
         },
         {
           "header": "CI-25.5: Ombuds, escalation, and technical forum referral",
           "level": 2,
-          "line_start": 136,
-          "line_end": 160,
+          "line_start": 135,
+          "line_end": 159,
           "anchor": null
         }
       ]

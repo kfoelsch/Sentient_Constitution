@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-11T13:15:30+00:00",
+  "generated_at": "2026-10-12T15:05:50+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16977,
+  "edge_count": 16998,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -641,7 +641,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#complexity-orientation",
+      "source_anchor": "#two-fundamental-questions",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
       "count": 1
@@ -649,7 +649,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#complexity-orientation",
+      "source_anchor": "#two-fundamental-questions",
       "target_file": "core_05_apex_continuity_aim.md",
       "target_anchor": "#chapter-five-definitions-continuity-constitutional-aim",
       "count": 1
@@ -657,7 +657,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#complexity-orientation",
+      "source_anchor": "#two-fundamental-questions",
       "target_file": "core_05_apex_flourishing_aim.md",
       "target_anchor": "#flourishing-constitutional",
       "count": 1
@@ -665,7 +665,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#complexity-orientation",
+      "source_anchor": "#two-fundamental-questions",
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
       "count": 1
@@ -673,7 +673,7 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#complexity-orientation",
+      "source_anchor": "#two-fundamental-questions",
       "target_file": "core_05_apex_participation_leg.md",
       "target_anchor": "#participation-constitutional",
       "count": 1
@@ -681,9 +681,89 @@
     {
       "source_file": "core_00_preamble.md",
       "source_header": "1. The Model",
-      "source_anchor": "#complexity-orientation",
+      "source_anchor": "#two-fundamental-questions",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#326-anti-reward-for-anti-constitutional-conduct",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#175-duty-to-resist",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#171-shared-stewardship-standard",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#1911-what-incentives-must-do",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#1912-what-incentives-must-not-do",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-retaliation-and-access-interference",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#incentive-alignment",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "What Systems Reward",
+      "source_anchor": "#what-systems-reward",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#proxy-divergence",
       "count": 1
     },
     {
@@ -5956,6 +6036,14 @@
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "3.2 Recognition, Reinforcement, and Aspiration",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-fundamental-questions",
       "count": 1
     },
     {
@@ -16154,6 +16242,22 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "19. Incentive Alignment and System Capture",
       "source_anchor": "#19-incentive-alignment-and-system-capture",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-fundamental-questions",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "19. Incentive Alignment and System Capture",
+      "source_anchor": "#19-incentive-alignment-and-system-capture",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#what-systems-reward",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "19. Incentive Alignment and System Capture",
+      "source_anchor": "#19-incentive-alignment-and-system-capture",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#3-foundational-objective-wellbeing-flourishing-aim",
       "count": 1
@@ -22780,6 +22884,14 @@
       "source_anchor": "#accountability-measurement-family",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_accountability_leg.md",
+      "source_header": "Measuring Accountability",
+      "source_anchor": "#accountability-measurement-family",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-fundamental-questions",
       "count": 1
     },
     {
@@ -46804,6 +46916,22 @@
       "source_anchor": "#incentive-alignment",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Incentive Alignment",
+      "source_anchor": "#incentive-alignment",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-fundamental-questions",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Incentive Alignment",
+      "source_anchor": "#incentive-alignment",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#what-systems-reward",
       "count": 1
     },
     {
@@ -85820,7 +85948,7 @@
       "source_anchor": "#61-forum-supervision-and-component-roles",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#5-rights-floor-and-domain-evaluations",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
@@ -85828,7 +85956,7 @@
       "source_anchor": "#61-forum-supervision-and-component-roles",
       "target_file": "core_12_forum.md",
       "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
@@ -85980,6 +86108,14 @@
       "source_anchor": "#7-certification-outcomes",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#pilot",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "7. Certification Outcomes",
+      "source_anchor": "#7-certification-outcomes",
+      "target_file": "core_06_rights_part_e.md",
+      "target_anchor": "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
       "count": 1
     },
     {
@@ -86532,7 +86668,7 @@
       "source_anchor": "#82-record-integrity-transparency-and-auditability",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
@@ -86540,6 +86676,22 @@
       "source_anchor": "#82-record-integrity-transparency-and-auditability",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#evidence-preservation",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "8.2 Record integrity: transparency and auditability",
+      "source_anchor": "#82-record-integrity-transparency-and-auditability",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xvi-audit-transparency-and-independent-verification",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "8.2 Record integrity: transparency and auditability",
+      "source_anchor": "#82-record-integrity-transparency-and-auditability",
+      "target_file": "core_06_rights_part_e.md",
+      "target_anchor": "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
       "count": 1
     },
     {
@@ -86696,6 +86848,14 @@
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "9.1 Challenging a Certification",
+      "source_anchor": "#91-challenging-a-certification",
+      "target_file": "core_06_rights_part_e.md",
+      "target_anchor": "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "9.1.1 Contestability paths",
       "source_anchor": "#911-contestability-paths",
       "target_file": "core_05_band_participation.md",
@@ -86709,6 +86869,14 @@
       "target_file": "core_06_rights_part_e.md",
       "target_anchor": "#xxviii-a-existing-instantiations-transition-clock",
       "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "9.1.1 Contestability paths",
+      "source_anchor": "#911-contestability-paths",
+      "target_file": "core_06_rights_part_e.md",
+      "target_anchor": "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
+      "count": 2
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",

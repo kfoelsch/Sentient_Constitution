@@ -24,6 +24,29 @@ A system cannot remain legitimate if it causes preventable suffering, ignores re
 
 How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability. This Constitution intends to eliminate the harms described above by building better systems, and to replace the systems that created them with institutions that are more accountable, robust, and responsive to the real needs of all sentients. It begins that work by offering a better model for how we can work together justly, effectively, and sustainably.
 
+<a id="what-systems-reward"></a>
+### What Systems Reward
+
+*In plain terms: a system gets more of whatever it pays for, whether in money, status, access, protection, or silence. So the test of a system is not what it says it values but what it rewards. If harming others pays, or telling the truth costs, the system is failing, however good its stated aims.*
+
+Systems teach. Every system, whether run by humans, by AI, or by both, tells those inside it what pays and what costs. It does so through pay, promotion, status, access, protection, targets, ratings, and optimization signals. Sentients, institutions, and AI systems adjust to those signals. A system may profess honesty and care for those it affects. If it advances those who hide problems and shift the cost onto others, it is teaching the opposite.
+
+<a id="two-fundamental-questions"></a>So this Constitution puts the [**Two Fundamental Questions**](#two-fundamental-questions) to every system:
+
+1. **Does it reward conduct that helps sentients flourish and endure, tells the truth, and repairs harm?**
+2. **Does it reward conduct that unjustifiably harms, misleads, excludes, delays, wastes, or shifts costs onto others?**
+
+A system passes only if the answer to the first is yes and the answer to the second is no. Answering one does not answer the other, because a system can pay for good conduct and still pay for harm. Each can fail quietly:
+
+- **First question:** a system fails it when doing right goes unrewarded or is penalized. It fails when sentients who report a problem in good faith ([Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing)), contest a decision, or refuse to take part in wrongdoing ([Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)) are sidelined, retaliated against ([Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)), or worn down.
+- **Second question:** a system fails it when harm, misleading (including concealment and false trust), unfair exclusion, delay, waste, or unfair cost-shifting pays, openly or quietly. The reward can be recognition, advancement, protection, metric credit, or looking the other way ([Chapter One §3.2.6 Anti-Reward for Anti-Constitutional Conduct](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+
+Neither question is a demand to be agreeable. Honest dissent, good-faith reporting, and refusing to take part in wrongdoing are not anti-social. A system that treats them so has it backwards. Nor is either a popularity test. What counts as helping, harming, fair, or justified is judged by this Constitution's own standards. Those are [**Flourishing**](#flourishing) and [**Continuity**](#continuity), within Safety, Truth, Trust, and the Rights Floor. They are not whatever a majority, an operator, or a moment approves.
+
+The questions bind everyone who shapes the signals. That includes operators, institutions, stewards, and the designers of systems that train or optimize AI, whose objectives and feedback signals are rewards in exactly this sense. Human and AI stewards stand under one standard ([Chapter One §17.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+
+Chapter One turns the questions into rules for incentives: [Chapter One §19.1.1 What Incentives Must Do](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) sits behind the first, and [Chapter One §19.1.2 What Incentives Must Not Do](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) behind the second. Answer them by measurement, not assertion. [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) say how, and [**material stake**](#material-stake) sets how hard to look. A small, informal group needs a plain check, not machinery ([Avoidable Burden](core_05_band_continuity.md#avoidable-burden)). The four duties in section 1 are how the answers are kept honest.
+
 ### 1. The Model
 
 *In plain terms: four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.*
@@ -80,7 +103,7 @@ Shared systems cannot work well without measurement. Food, shelter, care, infras
 
 Ongoing measurement must focus on what matters most for sentient survival and wellbeing. The question is whether the systems we depend on truly support [**Flourishing**](#flourishing) and [**Continuity**](#continuity) over time. That review scales to [**material stake**](#material-stake) — how much impact, dependence, and risk are involved.
 
-Measurement under this Constitution asks two practical questions: do systems actually help sentients flourish and endure, or do they produce harm, delay, exclusion, waste, hidden dependency, or false trust? Measurements are not scores for their own sake — they are tools for ensuring sustainable, resilient, and compassionate outcomes that align with sentient wellbeing and Earth's ecological health. That duty takes binding form through the [Two Constitutional Aims](#two-constitutional-aims): **Flourishing** and **Continuity**.
+Measurement under this Constitution puts the [**Two Fundamental Questions**](#two-fundamental-questions) to what systems actually do, not to what they claim. Measurements are not scores for their own sake — they are tools for ensuring sustainable, resilient, and compassionate outcomes that align with sentient wellbeing and Earth's ecological health. That duty takes binding form through the [Two Constitutional Aims](#two-constitutional-aims): **Flourishing** and **Continuity**.
 
 Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, and other convenient proxies cannot substitute for constitutional performance. This prohibition applies wherever [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is foreseeable.
 

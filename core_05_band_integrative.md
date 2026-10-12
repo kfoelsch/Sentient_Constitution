@@ -647,7 +647,7 @@ The short form for **Constitutional Collision Record** in this instrument is **C
     - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements).
 <a id="incentive-alignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether payoffs, targets, and governance signals still push toward real constitutional outcomes — not toward proxy scores, loopholes, or capture.
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether payoffs, targets, and governance signals still push toward real constitutional outcomes — not toward proxy scores, loopholes, or capture. This is the measurement form of the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) (see [What Systems Reward](core_00_preamble.md#what-systems-reward)).
 
     **Primary assessment:** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on:
     - [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint);
