@@ -84,7 +84,7 @@ As an oversight instrument, certification is one especially large audit process 
 
 *In plain terms: classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its conditions. Each review pass uses a new record linked to the last.*
 
-The process runs in **six phases**: **I Frame**, **II Evaluate**, **III Review**, **IV Decide**, **V Record**, and **VI Operate**. Phase II runs in three tiers, each its own section: **IIa** (always), **IIb** (when implicated), and **IIc** (when triggered). The chart shows the whole certification process in that order. Part A covers the first two phases, framing and evaluation; [Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) covers the last four: the forum process, the outcome and the go-live gate, the record, and operation (the challenge path, recertification and reopening, and the standing bridge).
+The process runs in **six phases**: **I Frame**, **II Evaluate**, **III Review**, **IV Decide**, **V Record**, and **VI Operate**. Phase II runs in three tiers, each its own section: **IIa** (always), **IIb** (when implicated), and **IIc** (when triggered). Phase VI runs in two sub-phases, each its own section: **VIa** (operate and recertify, [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) and **VIb** (the standing bridge, [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)). The chart shows the whole certification process in that order. Part A covers the first two phases, framing and evaluation; [Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) covers the last four: the forum process, the outcome and the go-live gate, the record, and operation (the challenge path, recertification and reopening, and the standing bridge).
 
 Every evaluation that applies is carried out again on each certification pass: at first certification, at each recertification on the schedule set by [§2 System Class Evaluation](#2-system-class-evaluation), and at each reopened or fresh review. Review reopens before the next scheduled recertification when material facts change, such as growing reliance on the system, growing extraction from shared foundations, a significant fall in what the system puts back into them, or a credible challenge. [Part B §9 Recertification and Reopening](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) lists the triggers.
 
@@ -110,7 +110,7 @@ flowchart TB
     G{"Go-live gate — §7<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
     Hold["Meet go-live prerequisites — §7<br/><br/>Complete notice and independently verify<br/>conditions required before go-live"]
     Rm["Protect and correct — §7, §9.2<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
-    Ch["Phase VI, Operate — §9–§9.2<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
+    Ch["Phase VIa, Operate and recertify — §9–§9.2<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
     S2[["Chapter Nine — Standing<br/>records<br/><br/>Outside this chapter"]]
     Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
@@ -127,7 +127,7 @@ flowchart TB
     Fc --> Rec
     Pc --> Rec
     Nc --> Rec
-    Rec -.->|§10 — verified inputs only;<br/>current certification or facts<br/>arising during certification| S
+    Rec -.->|VIb, §10 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
     Rec --> Pub
     Rec ~~~ Sp
     Pub --> G
@@ -138,7 +138,7 @@ flowchart TB
     Hold --> G
     Ch -->|Material defect:<br/>protect and correct| Rm
     Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
-    Ch -.->|§10 — verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
+    Ch -.->|VIb, §10 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
     Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
     S2 ~~~~ SpA
     SpA ~~~ Re
@@ -181,7 +181,7 @@ flowchart TB
 > | **III. Review** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | Which independent forums review the evidence and stakeholder concerns, in what order, and how can they be contested? | Part B |
 > | **IV. Decide** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | What outcome do the forums reach, and may the system go live? | Part B |
 > | **V. Record** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | Is the one record opened for forum review complete with the outcome, supporting findings, conditions, and operating plan, and can it be audited? | Part B |
-> | **VI. Operate** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) | Who monitors outcomes and responds to incidents and challenges, how are corrections verified, when is review repeated, and what reaches standing? | Part B |
+> | **VI. Operate** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, operate and recertify) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, standing bridge) | Who monitors outcomes and responds to incidents and challenges, how are corrections verified, when is review repeated, and what reaches standing? | Part B |
 >
 > Illustrative **Class A**, **Class B**, and **Class C** profiles — and how system class scales certification depth across this chapter — are in [Illustrative System Class Profiles (Non-Exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive). Worked walkthroughs of the same three systems for each evaluation area in [§3 Whole-System Certification Evaluation](#3-whole-system-certification-evaluation) through [§5.6 Trustworthiness and System-Reliance Integrity Evaluation](#56-trustworthiness-and-system-reliance-integrity-evaluation) follow there, in [Part C — Illustrations](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations), which links each profile and walkthrough back to the Part A section it illustrates.
 
