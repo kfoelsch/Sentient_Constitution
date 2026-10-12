@@ -10,6 +10,7 @@ from pathlib import Path
 
 from generate_id_resolver import build_payload
 from generate_section_crossref import build_payload as build_section_crossref
+from section_crossref_format import expand_edges
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -87,7 +88,7 @@ class SectionCrossrefTests(unittest.TestCase):
         self.assertGreater(payload["edge_count"], 0)
         sample = next(
             edge
-            for edge in payload["edges"]
+            for edge in expand_edges(payload)
             if edge["source_file"].endswith(
                 "cf_10_technical_specialist_forums_specialist_chambers.md"
             )

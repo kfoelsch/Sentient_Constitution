@@ -1,57 +1,57 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "crossref_matrix.schema.json",
-  "title": "AI corpus cross-reference matrix",
+  "title": "AI corpus file-to-file cross-reference matrix (interned format)",
+  "description": "Each distinct anchor is listed once and files are referred to by node index. Read the original nodes/edges objects with tools/crossref_matrix_format.py expand_graph().",
   "type": "object",
-  "required": ["generated_at", "description", "graph"],
+  "required": ["generated_at", "description", "format", "nodes", "anchors", "edges"],
   "properties": {
     "generated_at": { "type": "string" },
     "description": { "type": "string" },
-    "graph": {
-      "type": "object",
-      "required": ["nodes", "edges"],
-      "properties": {
-        "nodes": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "required": ["id", "type"],
-            "properties": {
-              "id": { "type": "string" },
-              "type": { "enum": ["core", "companion"] }
-            },
-            "additionalProperties": false
+    "format": { "const": "interned-v1" },
+    "layout": { "type": "object" },
+    "nodes": {
+      "description": "One per corpus file: [id, type]; type is core or adopted-implementation.",
+      "type": "array",
+      "items": {
+        "type": "array",
+        "prefixItems": [
+          { "type": "string" },
+          { "enum": ["core", "adopted-implementation"] }
+        ],
+        "minItems": 2,
+        "maxItems": 2
+      }
+    },
+    "anchors": {
+      "description": "Distinct anchor strings, in first-use order.",
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "edges": {
+      "description": "[source_index, [[target_index, count, [anchor_index, ...]], ...]]; indexes point into nodes and anchors.",
+      "type": "array",
+      "items": {
+        "type": "array",
+        "prefixItems": [
+          { "type": "integer", "minimum": 0 },
+          {
+            "type": "array",
+            "items": {
+              "type": "array",
+              "prefixItems": [
+                { "type": "integer", "minimum": 0 },
+                { "type": "integer", "minimum": 1 },
+                { "type": "array", "items": { "type": "integer", "minimum": 0 } }
+              ],
+              "minItems": 3,
+              "maxItems": 3
+            }
           }
-        },
-        "edges": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "required": ["source", "targets"],
-            "properties": {
-              "source": { "type": "string" },
-              "targets": {
-                "type": "array",
-                "items": {
-                  "type": "object",
-                  "required": ["file", "count", "anchors"],
-                  "properties": {
-                    "file": { "type": "string" },
-                    "count": { "type": "integer", "minimum": 1 },
-                    "anchors": {
-                      "type": "array",
-                      "items": { "type": "string" }
-                    }
-                  },
-                  "additionalProperties": false
-                }
-              }
-            },
-            "additionalProperties": false
-          }
-        }
-      },
-      "additionalProperties": false
+        ],
+        "minItems": 2,
+        "maxItems": 2
+      }
     }
   },
   "additionalProperties": true
