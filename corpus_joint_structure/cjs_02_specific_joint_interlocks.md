@@ -176,6 +176,7 @@ Trust claims must remain consistent with [Chapter One §15.4.4 Combined satisfac
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Upstream: [Chapter One §17.6 Portable Competence](../core_01_c_stewardship_capacity_principles.md#176-portable-competence) (*the principle this subsection carries out*).
 - Read with: **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*); **CJS-3.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*).
 - Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*); primary owners **CI-3** (*Institutional design, separation of powers, and authority custody*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Cross-institution coordination and escalation*).
 

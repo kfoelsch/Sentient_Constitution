@@ -64,6 +64,7 @@ This file is the institutional implementation home for **CI-4** (*Appointment, c
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [Chapter One §17.6 Portable Competence](../core_01_c_stewardship_capacity_principles.md#176-portable-competence) (*the principle behind the staffing and cross-training floor*).
 - Read with: **CI-4.1** (*Shared staffing and competency floor*); **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*); **CJS-3.11** (*distributed and proportional authority terms*).
 
 </details>
