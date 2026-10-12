@@ -1,29 +1,62 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "section_crossref.schema.json",
-  "title": "AI corpus section-to-section cross-reference graph",
+  "title": "AI corpus section-to-section cross-reference graph (interned format)",
+  "description": "Distinct files, source sections, and targets are listed once; each edge is [source_index, target_index, count]. Read edge objects with tools/section_crossref_format.py expand_edges().",
   "type": "object",
-  "required": ["generated_at", "description", "edges"],
+  "required": ["generated_at", "description", "format", "files", "sources", "targets", "edges"],
   "properties": {
     "generated_at": { "type": "string" },
     "status": { "type": "string" },
     "cannot_narrow_core": { "type": "boolean" },
     "description": { "type": "string" },
+    "format": { "const": "interned-v1" },
+    "layout": { "type": "object" },
     "edge_count": { "type": "integer", "minimum": 0 },
-    "edges": {
+    "files": {
+      "description": "Sorted file names; sources and targets refer to these by index.",
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "sources": {
+      "description": "Distinct source sections: [file_index, anchor, header].",
       "type": "array",
       "items": {
-        "type": "object",
-        "required": ["source_file", "target_file", "count"],
-        "properties": {
-          "source_file": { "type": "string" },
-          "source_header": { "type": ["string", "null"] },
-          "source_anchor": { "type": ["string", "null"] },
-          "target_file": { "type": "string" },
-          "target_anchor": { "type": ["string", "null"] },
-          "count": { "type": "integer", "minimum": 1 }
-        },
-        "additionalProperties": false
+        "type": "array",
+        "prefixItems": [
+          { "type": "integer", "minimum": 0 },
+          { "type": ["string", "null"] },
+          { "type": ["string", "null"] }
+        ],
+        "minItems": 3,
+        "maxItems": 3
+      }
+    },
+    "targets": {
+      "description": "Distinct link targets: [file_index, anchor].",
+      "type": "array",
+      "items": {
+        "type": "array",
+        "prefixItems": [
+          { "type": "integer", "minimum": 0 },
+          { "type": ["string", "null"] }
+        ],
+        "minItems": 2,
+        "maxItems": 2
+      }
+    },
+    "edges": {
+      "description": "[source_index, target_index, count]; count is the number of links.",
+      "type": "array",
+      "items": {
+        "type": "array",
+        "prefixItems": [
+          { "type": "integer", "minimum": 0 },
+          { "type": "integer", "minimum": 0 },
+          { "type": "integer", "minimum": 1 }
+        ],
+        "minItems": 3,
+        "maxItems": 3
       }
     }
   },

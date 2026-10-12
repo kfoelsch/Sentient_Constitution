@@ -1,16 +1,26 @@
 #!/usr/bin/env python3
-"""Generate a compact Markdown cross-reference matrix."""
+"""Generate a compact Markdown cross-reference matrix.
+
+The output uses the compact "interned" format (see crossref_matrix_format.py):
+each distinct anchor is listed once and files are referred to by node index. Use
+crossref_matrix_format.expand_graph() to read the original nodes/edges objects.
+"""
 
 from __future__ import annotations
 
 import argparse
-import json
 import re
+import sys
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
-from corpus_paths import source_markdown_files
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from corpus_paths import source_markdown_files  # noqa: E402
+from crossref_matrix_format import build_payload, dumps_payload  # noqa: E402
 
 
 LINK_RE = re.compile(r"\]\(([^)#]+\.md)(#[^)]+)?\)")
@@ -67,13 +77,9 @@ def main() -> int:
                     ],
                 }
             )
-    payload = {
-        "$schema": "../schemas/crossref_matrix.schema.json",
-        "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-        "description": "Source-derived file-to-file Markdown reference graph.",
-        "graph": {"nodes": nodes, "edges": edges},
-    }
-    output.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    generated_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    payload = build_payload(nodes, edges, generated_at)
+    output.write_text(dumps_payload(payload), encoding="utf-8")
     print(f"Wrote cross-reference matrix to {output}")
     return 0
 

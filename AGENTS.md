@@ -28,6 +28,8 @@ Spine pack (generated pointers, not duties): `doc_architecture/generated/spine_p
 
 Patterns: `ai_corpus/AI_NAVIGATION_GUIDE.md`.
 
+Working files stay out of the repo root: plain-language companions go in `project/plain_language/`, drafts and WIP under `project/`, and `*.bundle` patch-transfer files are deleted once pushed. No file may exceed 1 MB (**FILE-SIZE-01**; `make file-size-audit`): split it, compact it, or keep it out of the repo. `make root-layout-audit` enforces this (**ROOT-LAYOUT-01**); `python3 tools/root_layout_audit.py --fix` moves plain-language files.
+
 Renumbering or renaming Articles: also update the Mermaid charts that list them (**VIS-CHART-SYNC-03** in [doc_architecture.md](doc_architecture.md#chart-sync-on-renumbering-vis-chart-sync-03)).
 
 New session: check that the git branch name matches the work, and rename it when it does not (**GIT-BRANCH-NAME-01** in [doc_architecture.md](doc_architecture.md#branch-naming-git-branch-name-01)).

@@ -11,6 +11,14 @@ import tempfile
 from pathlib import Path
 from typing import Any
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from section_crossref_format import expand_edges, validation_errors  # noqa: E402
+from crossref_matrix_format import (  # noqa: E402
+    expand_graph as matrix_expand_graph,
+    is_interned as matrix_is_interned,
+    validation_errors as matrix_validation_errors,
+)
+
 
 EXPECTED_OUTPUTS = {
     "section_manifest": "ai_corpus/indexes/section_manifest.json",
@@ -106,8 +114,10 @@ def validate_definition_registry(payload: dict[str, Any]) -> None:
 
 
 def validate_section_crossref(payload: dict[str, Any]) -> None:
-    edges = payload.get("edges")
-    require(isinstance(edges, list), "section_crossref.json must contain edges")
+    require(isinstance(payload.get("edges"), list), "section_crossref.json must contain edges")
+    errors = validation_errors(payload)
+    require(not errors, f"section_crossref (interned format) invalid: {errors[:3]}")
+    edges = expand_edges(payload)
     require(
         payload.get("edge_count") in (None, len(edges)),
         "section_crossref edge_count does not match edges",
@@ -138,7 +148,10 @@ def validate_id_resolver(payload: dict[str, Any]) -> None:
 
 
 def validate_crossref_matrix(payload: dict[str, Any]) -> None:
-    graph = payload.get("graph")
+    if matrix_is_interned(payload):
+        errors = matrix_validation_errors(payload)
+        require(not errors, f"crossref_matrix (interned format) invalid: {errors[:3]}")
+    graph = matrix_expand_graph(payload)
     require(isinstance(graph, dict), "crossref_matrix.json must contain graph")
     nodes = graph.get("nodes")
     edges = graph.get("edges")

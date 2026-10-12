@@ -4,7 +4,6 @@
 from __future__ import annotations
 
 import argparse
-import json
 import re
 from collections import defaultdict
 from dataclasses import asdict, dataclass
@@ -17,6 +16,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from ch5_paths import CH5_ALL, CH5_INDEX as CH5_PART_A, CH5_BANDS  # noqa: E402
+from json_rows import dumps_rows  # noqa: E402
 from ch5_single_definition_audit import (  # noqa: E402
     HEADING_RE,
     collect_cluster_members,
@@ -182,7 +182,7 @@ def main() -> int:
         "definition_count": len(entries),
         "definitions": [asdict(entry) for entry in entries],
     }
-    output.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    output.write_text(dumps_rows(payload), encoding="utf-8")
     print(f"Wrote {len(entries)} definitions to {output}")
     return 0
 
