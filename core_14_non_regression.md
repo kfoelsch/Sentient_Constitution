@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Fourteen**: substantive non-regression and substantive amendment validity (Test 1). **Chapter Fifteen** is in [`core_15_expansion_supremacy.md`](core_15_expansion_supremacy.md). **Chapter Sixteen** is in [`core_16_amendment_ratification.md`](core_16_amendment_ratification.md). Amendment validity must preserve both [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity** — and must not hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below [material stake](core_00_preamble.md#material-stake) requirements. Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -13,14 +11,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Fourteen lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Where this lives (navigation):
 > - **Constitutional owner:** substantive non-regression floor; Test 1 (substantive non-regression invalidity); anti-evasion; regressive-deception referral triggers. Procedural validity, ratification, and amendment procedure requirements are in **Chapter Sixteen**. Supremacy relative to other norms and external legal orders are in **Chapter Fifteen**.
 > - **Implementation owner:** designated implementation text governs execution mechanics for review operations, publication workflows, designated institutional procedure, forum operations where designated, and cross-implementation joint structure where designated.
 > - **Anti-relocation rule:** this chapter does not assign final offense labels, numeric slots, or sanction taxonomy. Numeric Contribution and Violation slots remain measured on the [Chapter Nine §7 unified proportional LEQU scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), with separate axis records and Violation slots controlled only by verified impact. **Chapter Eleven** of [core_11_a_misconduct_designation.md](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation to a Chapter Nine Violation Axis slot 7, 8, or 9 record but does not assign the numeric slot.
 >
-> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only; it does not add, remove, or narrow binding text.
+> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
 </details>
 
@@ -170,8 +166,6 @@ Future additions that touch offense-flavored, sanction-flavored, or classificati
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Fourteen layer routing index</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Canonical owner routing lives in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the substantive change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Nine** in [core_09_standing_assessment.md](core_09_standing_assessment.md); **standing effects and integration** — **Chapter Ten** in [core_10_standing_integration.md](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration);
 > - **numeric Contribution and Violation Axis slots** — the **Chapter Nine §7 unified scale**, with separate records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for a qualifying Violation Axis slot 7, 8, or 9 — **Chapter Eleven** in [core_11_a_misconduct_designation.md](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct);

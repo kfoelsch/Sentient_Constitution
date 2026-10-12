@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+> Widgets marked **non-operative** (corpus placement, reader guidance, reader maps) are orientation only. They add, remove, or narrow no binding obligation, in their own file or in any other.
 >
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains the **Preamble** (foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
 >
@@ -36,16 +36,32 @@ Systems teach. Every system, whether run by humans, by AI, or by both, tells tho
 1. **Does it reward conduct that helps sentients flourish and endure, tells the truth, and repairs harm?**
 2. **Does it reward conduct that unjustifiably harms, misleads, excludes, delays, wastes, or shifts costs onto others?**
 
-A system passes only if the answer to the first is yes and the answer to the second is no. Answering one does not answer the other, because a system can pay for good conduct and still pay for harm. Each can fail quietly:
+A system passes only if the answer to the first is yes and the answer to the second is no. Answering one does not answer the other, because a system can pay for good conduct and still pay for harm.
 
-- **First question:** a system fails it when doing right goes unrewarded or is penalized. It fails when sentients who report a problem in good faith ([Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing)), contest a decision, or refuse to take part in wrongdoing ([Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)) are sidelined, retaliated against ([Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)), or worn down.
-- **Second question:** a system fails it when harm, misleading (including concealment and false trust), unfair exclusion, delay, waste, or unfair cost-shifting pays, openly or quietly. The reward can be recognition, advancement, protection, metric credit, or looking the other way ([Chapter One §3.2.6 Anti-Reward for Anti-Constitutional Conduct](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+**First question:** a system fails it when any of the following goes unrewarded or is penalized, openly or quietly:
+
+- reporting a problem in good faith ([Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing))
+- contesting a decision
+- refusing to take part in wrongdoing ([Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+
+The penalty can be sidelining, retaliation ([Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)), or being worn down.
+
+**Second question:** a system fails it when any of the following pays, openly or quietly:
+
+- harm
+- misleading (including concealment and false trust)
+- unfair exclusion
+- delay
+- waste
+- unfair cost-shifting
+
+The reward can be recognition, advancement, protection, metric credit, or looking the other way ([Chapter One §3.2.6 Anti-Reward for Anti-Constitutional Conduct](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
 
 Neither question is a demand to be agreeable. Honest dissent, good-faith reporting, and refusing to take part in wrongdoing are not anti-social. A system that treats them so has it backwards. Nor is either a popularity test. What counts as helping, harming, fair, or justified is judged by this Constitution's own standards. Those are [**Flourishing**](#flourishing) and [**Continuity**](#continuity), within Safety, Truth, Trust, and the Rights Floor. They are not whatever a majority, an operator, or a moment approves.
 
-The questions bind everyone who shapes the signals. That includes operators, institutions, stewards, and the designers of systems that train or optimize AI, whose objectives and feedback signals are rewards in exactly this sense. Human and AI stewards stand under one standard ([Chapter One §17.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+The questions bind everyone who decides what a system rewards or penalizes. That includes operators, institutions, and stewards who set pay, promotion, access, targets, and ratings. It also includes the designers of systems that train or optimize AI, whose objectives and feedback signals are rewards in exactly this sense. Human and AI stewards stand under one standard ([Chapter One §17.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-Chapter One turns the questions into rules for incentives: [Chapter One §19.1.1 What Incentives Must Do](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) sits behind the first, and [Chapter One §19.1.2 What Incentives Must Not Do](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) behind the second. Answer them by measurement, not assertion. [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) say how, and [**material stake**](#material-stake) sets how hard to look. A small, informal group needs a plain check, not machinery ([Avoidable Burden](core_05_band_continuity.md#avoidable-burden)). The four duties in section 1 are how the answers are kept honest.
+Chapter One turns the questions into rules for incentives: [Chapter One §19.1.1 What Incentives Must Do](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) sits behind the first, and [Chapter One §19.1.2 What Incentives Must Not Do](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) behind the second. Answer them by checking what actually happens, not by taking anyone's word for it. [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) say how, and [**material stake**](#material-stake) sets how hard to look. The four duties in section 1 are how the answers are kept honest.
 
 ### 1. The Model
 
@@ -56,8 +72,6 @@ Chapter One turns the questions into rules for incentives: [Chapter One §19.1.1
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): section 1 model chart</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > **Reader map (non-operative):** This chart summarizes the relationships in this section. It adds no definitions or duties, establishes no precedence, and cannot replace the source text.
 
 </details>

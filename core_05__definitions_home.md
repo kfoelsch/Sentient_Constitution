@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, Independent Definitions meta rules, dependent-cluster meta rules, alphabetical directory, and the constitutional compass.
 
 </details>
@@ -13,8 +11,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): reading order and plain-language note</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Plain-language reading note: Read **Chapter One** for high-level values and direction; **Chapters Two through Four** for definition structure, integrity, and verification mechanics; and **Chapter Six** for the foundational **rights** floor, then return to this chapter for term precision in interpretation, audit, and adjudication. (Other chapters, including **Chapter Eleven** *Misconduct* and **Chapter Nine** *Standing*, apply on their own reading paths; they are not a substitute for the Rights Floor in Chapter Six or for definition mechanics in Chapters Two through Four.)
 
 </details>
@@ -439,8 +435,6 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](core_00_pre
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Preamble measurement crosswalk</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > [Preamble §2](core_00_preamble.md#2-measurements-overview) lists seven constitutional **measurement categories** — the questions operators ask when evaluating systems. Chapter Five organizes **canonical definitions** by Tetrad leg, **Continuity** aim, and **Integrative** cross-leg ownership. The table below maps each measurement category to its Chapter Five homes. A category may span more than one band file; canonical homes do not move when measurement categories overlap.
 >
 > **Materiality** ([Materiality](core_05_band_oversight.md#materiality)) is Integrative — a cross-cutting threshold gate that scales all measurement families under [material stake](core_00_preamble.md#material-stake); it is not a separate category in the table below.

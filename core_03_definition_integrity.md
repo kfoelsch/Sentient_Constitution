@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Three**: definition integrity, evasion, and non-compliance. **Chapter Two** — definition structure and component alignment — is in [`core_02_definition_structure.md`](core_02_definition_structure.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
 > **Upstream:** [Chapter Two](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements).
@@ -16,8 +14,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Three lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Where this lives (navigation):
 > - **Constitutional owner:** definition integrity, evasion, and non-compliance for assessment work. **Chapter Two** owns structure; **Chapter Four** owns burden and trace artifacts; **Chapter Five** owns canonical definitions.
 > - **Implementation owner:** standing records, forum process, and implementation protocols operationalize these rules without replacing them.

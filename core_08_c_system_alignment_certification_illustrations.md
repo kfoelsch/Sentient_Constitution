@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part C** — the worked, non-exhaustive **illustrations** that accompany the Part A evaluation sections: the same three example systems (**Class A** municipal safe drinking-water control and telemetry; **Class B** regional clinical records exchange; **Class C** institutional scheduling and coordination platform) walked through whole-system, data-handling, ecological-footprint, educational-capability, cross-system-support, nondiscrimination, accessibility, and trustworthiness evaluation. It opens with the system class profiles — one example system per system class — and then walks those systems through each evaluation area. The walkthroughs after the whole-system one are numbered to match the Part A section they illustrate (**§3.4.8**, **§5.1.5**, **§5.2.5**, **§5.3.8**, **§5.4.5**, **§5.5.6**, and **§5.6.5**), so cross-references stay stable.
 >
 > - **Evaluation requirements:** owned by [Part A](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation). Each illustration below links back to the Part A section it illustrates, and each Part A section links forward to its illustration.

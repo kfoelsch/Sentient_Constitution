@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It introduces the standing pipeline's three questions, answers Question 1 (*what happened?*), and answers Question 2 (*how good or bad was it?*). Question 3 (*what happens because of it?*) continues in [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration), with designation-only review in [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -13,8 +11,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Nine lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > | Question | Owner and role |
 > | --- | --- |
 > | **1. What happened?** | Establish verified facts in a bounded, contestable record. |
@@ -889,8 +885,6 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how the five-times progression works</span></strong></summary>
 
-> This guidance helps readers interpret the scale. It does not add, remove, or narrow binding obligations.
->
 > The scale uses a five-times progression anchored at `s` = 7 = one LEQU. For either axis, the minimum magnitude for slot `s` is `5^(s−7)` LEQU for slots 2 through 9; slot 1 begins at zero. Adopted implementation may publish the resulting numeric thresholds and calibration examples. Slot 1 includes a verified constitutional baseline on the Contribution Axis and verified loss below the first positive threshold on the Violation Axis; absence of a contribution or absence of a violation is not itself an `s` = 1 record.
 >
 > **Human-readable anchor.** Using an 80-year human lifespan as a calibration example, read the middle column upward as full-life-equivalent benefit, usable time, or rights-consistent resources and capacity added; read it downward as equivalent loss, deprivation, waste, or foreclosure. Resource quantity does not count by itself—the constitutional outcome it produces or prevents controls.

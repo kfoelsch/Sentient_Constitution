@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Constitutional Performance band** — the Chapter Five **measurement-family home** for the cross-cutting Constitutional Performance category. Constitutional performance is instrumental to both the [**Flourishing**](core_00_preamble.md#flourishing) and [**Continuity**](core_00_preamble.md#continuity) aims and is **not** a Tetrad leg. Its leaf definitions (Constitutional Efficiency, Avoidable Burden, Productive Capacity, Burden-Reduction Duty) keep their **canonical homes in the [Continuity band](core_05_band_continuity.md)** by design: they are Continuity-band cluster members under Stewardship / Shared-System Capacity and the [proportionality–burden–efficiency dependent cluster](core_05_band_accountability.md#proportionality), where durable capacity, waste, and outcome-per-resource delivery sit with Continuity themes. This file routes the Preamble measurement category; it does not hold those leaf bodies. Leaves relocate here only on an express, dated placement decision. Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>

@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Sixteen**: amendment, ratification, and procedural validity (Tests 2–4). **Chapter Fourteen** is in [`core_14_non_regression.md`](core_14_non_regression.md). **Chapter Fifteen** is in [`core_15_expansion_supremacy.md`](core_15_expansion_supremacy.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -13,13 +11,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Sixteen lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Where this lives (navigation):
 > - **Constitutional owner:** amendment and adoption procedure; procedural and custody validity tests (Tests 2–4); review triggers; provisional effect; invalid-change handling; ratification instruments; amendment procedure requirements.
 > - **Substantive non-regression:** **Chapter Fourteen**. **Supremacy** and **external legal orders:** **Chapter Fifteen**.
 >
-> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only; it does not add, remove, or narrow binding text.
+> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
 </details>
 
@@ -348,8 +344,6 @@ Future additions that touch offense-flavored or sanction-flavored language must 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Sixteen layer routing index</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Canonical owner routing lives in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the procedural change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Nine** in [core_09_standing_assessment.md](core_09_standing_assessment.md); **standing effects and integration** — **Chapter Ten** in [core_10_standing_integration.md](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration);
 > - **numeric Contribution and Violation Axis slots** — the **Chapter Nine §7 unified scale**, with separate records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for qualifying Violation Axis slots 7–9 — **Chapter Eleven** in [core_11_a_misconduct_designation.md](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct); and

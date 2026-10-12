@@ -135,9 +135,6 @@ def placement_widget(layer: str, title: str, ident: str | None, phrase: str) -> 
         "<details>",
         PLACEMENT_SUMMARY,
         "",
-        "> The following content is **reader guidance only**. It does not add, "
-        "remove, or narrow binding obligations in this file or elsewhere.",
-        ">",
         f"> This file is **binding incorporated implementation text** where "
         f"[`{meta['wrapper']}`](../{meta['wrapper']}) is incorporated under "
         f"[Chapter Seventeen](../core_17_incorporation.md). It must satisfy the "

@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Two**: definition structure and component alignment (O/M/A/C). **Chapter Three** — definition integrity, evasion, and non-compliance — is in [`core_03_definition_integrity.md`](core_03_definition_integrity.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
 > **Upstream:** [Chapter One, Part C](core_01_c_stewardship_capacity_principles.md).
@@ -16,8 +14,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): definition stack and where Chapter Two lives</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > Chapters **Two through Five** form the constitutional definition stack; **[CJS](corpus_joint_structure.md)** carries operational definitions that apply it:
 > - **Chapter Two (this file)** — O/M/A/C definition structure and component alignment: every definition links **Ontological (O)** (what it is), the **Measurement (M)** register interwoven with the **Assessment (A)** duty (how it must be measured and assessed), and **Compliance (C)** (what must hold) ([§1 Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [§2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **Chapter Three** — definition integrity, evasion, and non-compliance ([Chapter Three](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).

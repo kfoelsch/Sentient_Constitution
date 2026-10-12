@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seventeen**, the constitutional bridge to incorporated implementation files. Read with the [**Corpus**](core_05_band_integrative.md#corpus) entry in [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) and [Chapters Fourteen through Sixteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) for adoption and validity controls. Incorporated implementation text must not narrow substantive constitutional meaning in Chapters One through Twelve — including the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -12,14 +10,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Seventeen lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Where this lives (navigation):
 > - **Constitutional owner:** which **implementation text** files count as **binding incorporated implementation text** when adopted; **edition pinning** and **custody chain**; **safeguards** against silent drift and evasion; **invocation** of adopted implementation obligations within stated adoption scope; and the instrument’s **adoption framing** (what the text says versus what a particular adopter can enforce). Source-layer status lives under the **[Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Five**; textual and incorporation-layer conflict procedure lives in **[Chapter One — §15.4 Constitutional Meaning Conflict Resolution](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)** — neither is restated here.
 > - **Implementation owner:** designated **implementation text** files (`corpus_*.md` and further listings in the **Chapter Five** [**Corpus**](core_05_band_integrative.md#corpus) entry) supply the operating detail; this chapter **does not** copy that layer into a second constitutional source.
 > - **Anti-relocation rule:** adopters must not satisfy incorporated obligations through [**Safety (Constitutional Constraint)**](core_05_band_continuity.md#safety-constitutional-constraint) or [**Truth (Constitutional Constraint)**](core_05_band_oversight.md#truth-constitutional-constraint) violations; implementation-file obligations apply **together with Chapter One** and remain subject to **Chapter One** proportionality, necessity, systemic evaluation, and interaction rules where those govern.
 >
-> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section. Reader-facing gloss only; it does not add, remove, or narrow binding text.
+> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section. Reader-facing gloss only.
 
 </details>
 

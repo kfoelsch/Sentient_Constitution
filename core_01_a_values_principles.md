@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part A** (§§1–12: purpose and role; the Flourishing aim, introduced in §2 and developed through wellbeing, Safety, Truth, Trust, and Freedom; and the Continuity aim, introduced in §8 and developed through shared-system capacity, resilience, market structure, and systemic evaluation).
 >
 > **Upstream:** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how Chapter One connects the aims, the Tetrad, Articles, and definitions</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry the binding routing; this block is a part-level map for readers entering Chapter One.
+> Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry the binding routing; this block is a part-level map for readers entering Chapter One.
 
 **How the layers connect.** Each layer answers a different question, and every Chapter One principle points to the other three:
 
@@ -1468,7 +1466,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 - Upstream: [§11 Market Structure](#11-market-structure); [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold).
 - Downstream: **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules); [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules); [Chapter Nine §4 Question 2 — how good or bad was it?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Chapter Eleven §5.1 Concentration-based subversion](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure). The card cannot narrow the Constitution.
+- Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subsections (reading order): [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
 
 </details>

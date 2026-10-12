@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > This page is **adopted implementation / process support** — **not** binding constitutional or incorporated text. The method, substrate table, and worked slot assignments **cannot narrow core text**. They do not add a second LEQU unit, a species-bound metric, a net score, or a sentience-status test. Numeric estimates on this page are **reference workings** for the stated facts. They are not a standing record and not a Merits Determination.
 >
 > **Authoritative meaning** remains in [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome), [§5.2 shared impact scaling](../core_09_standing_assessment.md#52-shared-impact-scaling-rules), and the [§7 unified proportional LEQU scale](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); in [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_05_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).

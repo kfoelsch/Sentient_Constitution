@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > This page is a **reader handbook**. These briefs are **not** the Constitution itself and **cannot change** numbered `core_*` files. They do not add duties, new legal types, or a second morals stack that sorts readers into types. Reading a brief is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption), not bringing it into a body's own rules ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)), and not an official record of verified help or harm.
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.

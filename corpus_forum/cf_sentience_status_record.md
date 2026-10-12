@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > This file is **designated implementation text** for the [Sentience-Status Adjudication Record](../core_05_band_participation.md#sentience-status-adjudication-record) format. It is binding incorporated implementation text where enumerated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It implements, and does **not** narrow, [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 >
 > Machine-checkable form: [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../implementation/schemas/sentience_status_adjudication_record.schema.json). Start at the [Forums landing page](../corpus_forum.md) for the numbered CF families; this file is the dedicated record-format protocol, not a CF family replacement.

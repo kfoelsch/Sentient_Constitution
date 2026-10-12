@@ -16,8 +16,6 @@ PART_A_HEADER = """# Values Principles (Chapter One, Part A)
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part A** (§§1–8: purpose, values, bounded agency, tradeoffs, override prohibition, and constitutional interpretation).
 >
 > **Upstream:** [core_00_preamble.md](core_00_preamble.md)  
@@ -37,8 +35,6 @@ PART_B_HEADER = """# Stewardship and Governance (Chapter One, Part B)
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§11–16: stewardship, governance, capacity, market structure, systemic evaluation, and integrated application capstone).
 >
 > **Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A)  

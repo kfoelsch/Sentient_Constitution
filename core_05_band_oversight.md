@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Oversight band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Oversight** constitutional band (**Def.O1–Def.O2**). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
@@ -1009,7 +1007,7 @@ See **Anti-Segmentation Principle**.
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint).
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- Steward door (non-operative): Next-step card: [Audit](implementation/STEWARD_ENTRY_DOORS.md#audit). The card cannot narrow the Constitution. This definition is the property layer of the audit stack; three-layer picture: [Article XVI](core_06_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*).
+- Steward door (non-operative): Next-step card: [Audit](implementation/STEWARD_ENTRY_DOORS.md#audit). This definition is the property layer of the audit stack; three-layer picture: [Article XVI](core_06_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*).
 
 </details>
 

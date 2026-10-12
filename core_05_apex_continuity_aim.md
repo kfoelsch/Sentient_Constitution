@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical home and hierarchy map for the **Continuity** constitutional aim. Read the definition below first (**What it is** / **How to measure and assess** / **What must hold**). Detailed definitions for Continuity topics and measurement families live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#constitutional-aim-decomposition). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>

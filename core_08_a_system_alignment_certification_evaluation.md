@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part A** — certification purpose, the process overview, and the first two phases of the process — **Frame** (system class) and **Evaluate** (whole-system evaluation in three tiers: the always-applicable evaluations, including data types and handling, in **§3**; the evaluations that apply where implicated in **§4**; and the Rights-Floor and domain evaluations that apply where triggered in **§5**) — **§1–§5**. The worked **Class A / B / C illustrations** (the system class profiles, §3.4.8, §5.1.5, §5.2.5, §5.3.8, §5.4.5, §5.5.6, and §5.6.5), including each one's **Reading across system classes** paragraph, are in [`core_08_c_system_alignment_certification_illustrations.md`](core_08_c_system_alignment_certification_illustrations.md); each keeps its Part A section number. The binding system-class-scaling and escalation rules those paragraphs illustrate stay in this file: system class scaling, including participation and proportionality, in §2.1; data-handling scaling in §3.4; and the **System class scaling and escalation** paragraph in each of §5.1–§5.6. **Part B** — the last four phases: forum process and supervisory sequence, outcomes (including the go-live gate), the certification record, and operation — the challenge path, recertification and reopening, and the standing bridge (**§6–§10**) — is in [`core_08_b_system_alignment_certification_record_process.md`](core_08_b_system_alignment_certification_record_process.md).
 >
 > - **Constitutional owner (joint with Part B):** forum-supervised **system alignment certification and related records** — evaluation domains (Part A); forum process, supervisory sequence, certification-record duties, certification outcomes and the go-live gate, the challenge path, recertification and reopening, and verified-input bridge to Chapter Nine (Part B). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05_band_oversight.md#auditability).
@@ -172,8 +170,6 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guide (non-operative): the six phases</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this chapter or in other chapters.
->
 > | Phase | Sections | Question the phase answers | Where |
 > |-------|----------|----------------------------|-------|
 > | **I. Frame** | [§2](#2-system-class-evaluation) | What system class is the system, and how deeply and how often must it be evaluated? | Part A |

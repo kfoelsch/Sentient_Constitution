@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the fill-in instrument, and the two-party protocol **cannot narrow core text**. A filled template that diverges from [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) or [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.

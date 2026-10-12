@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part C**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -12,8 +10,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part C position in Chapter Six</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > **Part A** in [core_06_rights_part_a.md](core_06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part C** presents **Articles XIII–XVIII** in that order.
 
 </details>
@@ -29,8 +25,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part C article map</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > **Reader map (non-operative).** This chart shows how the source groups this Part's articles and subarticles. The grid is source grouping, not a process sequence: the articles are not procedural steps, so the map carries no arrows. Subarticle labels are shortened to themes; the numbered articles and subarticles below govern. The chart adds no definitions or duties, establishes no precedence, and cannot replace the source text.
 
 </details>
@@ -961,8 +955,6 @@ This Article sets out the floors for scientific publication, review, replication
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): three-layer audit stack</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this Article or elsewhere.
 
 <a id="audit-three-layers"></a>
 

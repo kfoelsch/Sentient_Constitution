@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Timeliness** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions that implement Timeliness (including resolution-pathway leaves) live in [core_05_band_accountability.md](core_05_band_accountability.md). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>

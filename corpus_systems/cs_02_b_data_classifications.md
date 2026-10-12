@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-2 parts.
->
 > This file contains **CS-2, Part B** — data classifications (**Type E** through **Type T**, including **Type O**) as **§9**. Purpose and scope (including identity self-ownership and continuity-critical export), classification determination, anti-circumvention, cross-domain principles, data separation / attribution, the Type O baseline, and System Data Types Record governance (**§§1–8**) are in [`cs_02_a_information_types_and_handling.md`](cs_02_a_information_types_and_handling.md).
 
 </details>

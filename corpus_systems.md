@@ -34,13 +34,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in the linked subfiles.
->
 > *(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `corpus_joint_structure.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the systems implementation file. Substantive CS text lives in the `corpus_systems/` subfiles. Broad references to `corpus_systems.md` continue to mean the systems implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Seventeen. This wrapper is an index and does not restate or narrow the subfile text.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Seventeen. This wrapper is an index.
 
 </details>
 

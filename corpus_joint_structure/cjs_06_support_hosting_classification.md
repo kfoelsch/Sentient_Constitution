@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-1.9** (*support-versus-merits boundary, host independence, and classification alignment*), **CJS-1.10**, and **CJS-1.11**. Public IDs remain **CJS-1.9**–**CJS-1.11**. The filename is `cjs_06_*` because these sections are not the **CJS-2** chapter; they are joint seams that **CJS-2** still points to.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or [CJS-2](cjs_02_specific_joint_interlocks.md). Most readers reach this file from a citation rather than reading the folder front to back.
