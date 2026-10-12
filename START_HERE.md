@@ -4,14 +4,14 @@
 
 **Not sure this is you?** If you want to understand what the Constitution is, what it protects, or what it would mean for you, begin at the **[README](README.md)**. That is the front door for all readers, and it has [timed reading paths](README.md#reading-paths). If you have been harmed and cannot find where to turn, go straight to [*I can't find the door*](implementation/adoption/easy_entry/E15_cannot_find_the_door.md).
 
-> This page is reader support, not constitutional text. It cannot change or narrow what the numbered `core_*` files say. Reading it is not adoption under [Chapter Sixteen §10](core_16_amendment_ratification.md#10-ratification-and-adoption).
+> This page is reader support, not constitutional text. It cannot change or narrow what the numbered `core_*` files say.
 
-<a id="what-it-is"></a>
+<a id="what-adoption-means"></a>
 ## 1. What adoption means
 
 This is a **model constitution**. It becomes **enforceable** for a particular body only after that body validly adopts it under [Chapter Sixteen](core_16_amendment_ratification.md#10-ratification-and-adoption) and [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference; it has no power to enforce against anyone who has not adopted it. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework ([Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-Four duties (**participation**, **oversight**, **accountability**, and **timeliness**) grow stronger as a system's [material stake](core_00_preamble.md#material-stake) grows ([Preamble §1](core_00_preamble.md#constitutional-tetrad)). Human and AI stewards are held to one shared standard ([Chapter One §16.1.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)): there is no AI-only rulebook, and no exemption for humans.
+Four duties (**participation**, **oversight**, **accountability**, and **timeliness**) grow stronger as a system's [material stake](core_00_preamble.md#material-stake) grows ([Preamble §1](core_00_preamble.md#constitutional-tetrad)). Human and AI stewards are held to one shared standard ([Chapter One §17.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)): there is no AI-only rulebook, and no exemption for humans.
 
 <a id="pre-release-status"></a><a id="core-vs-operational"></a>
 ### Pre-release status, and which parts are mature
@@ -19,7 +19,8 @@ Four duties (**participation**, **oversight**, **accountability**, and **timelin
 Edition, status, and license are kept in one place: the [release details](README.md#edition) at the top of the README; what pre-release means is under [*Is this in effect?*](README.md#is-this-in-effect). Two points matter most for anyone planning to use the text:
 
 - The numbered `core_*` files (the Preamble and Chapters One–Seventeen) are the binding constitutional source and are in **much better shape** than anything else.
-- The implementation files (`corpus_systems`, `corpus_institutions`, `corpus_forum`, `corpus_joint_structure`) and the process-support pages (steward doors, adoption kits) are **not yet mature**. They spell out *how* to carry out what the core already requires; they may not change what its terms mean, shrink its duties, or add a second set of rights. If one of them disagrees with a `core_*` file, the `core_*` file wins. Do not treat them as a finished operator manual.
+- The implementation files (`corpus_systems`, `corpus_institutions`, `corpus_forum`, `corpus_joint_structure`) and the process-support pages (steward doors, adoption kits) are **not yet mature**. They spell out *how* to carry out what the core already requires; they may not change what its terms mean, shrink its duties, or add a second set of rights. If one of them disagrees with a `core_*` file, the `core_*` file wins: the order for resolving conflicting texts is in [Chapter One §15.4](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution), and adopted implementation text applies only after the constitutional reading ([§15.4.3](core_01_b_interaction_interpretation.md#1543-incorporation-layer)). Do not treat them as a finished operator manual.
+- The shared standard for human and AI stewards has so far been tested only on AI models. No human operator has yet sat the same costly scenarios, so treat that claim as designed, not demonstrated. See [Horizon two in the Vision](project/VISION.md#42-horizon-two--handoff-and-human-symmetry).
 
 <a id="two-modes"></a>
 ## 2. Two ways to use it
@@ -69,15 +70,15 @@ Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5
 - Retrofitting an existing national constitution as drop-in law.
 - Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 - Marketing "we follow it" while dodging the matching obligations ([Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)).
-- Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §16.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)).
+- Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §17.4](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
-- An AI-only rulebook ([§9.1.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)), or exempting humans from the costly cases ([§9.1.2](core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)).
+- An AI-only rulebook ([§17.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)), or exempting humans from the costly cases ([§17.2](core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)).
 - Treating a participation vote, token vote, or standing score as authorization, or as a finding about sentience ([Preamble §3.3](core_00_preamble.md#33-governance-layers); [Article XIX-A](core_06_rights_part_d.md#article-xix-a-standing-distinction)).
 - Staffing Chapter Twelve review forums from the cooperating crew and calling that independent review ([FORUM_FOUNDATION_KIT.md](implementation/adoption/FORUM_FOUNDATION_KIT.md)).
 
 If any "cannot bind" row in the first-adopter kit's [scope honesty](implementation/adoption/FIRST_ADOPTER_KIT.md#3-scope-honesty) block describes your situation, do not claim Chapter Sixteen adoption.
 
-<a id="three-doors"></a>
+<a id="where-to-go-next"></a>
 ## 6. Where to go next
 
 | If you need to… | Open |
@@ -96,9 +97,9 @@ If any "cannot bind" row in the first-adopter kit's [scope honesty](implementati
 <a id="reading-paths"></a>
 ### Reading paths
 
-The timed reading paths (15 minutes, 45 minutes, 2 hours) now live in the [README](README.md#reading-paths). For adopters, add this page and [FIT_SITUATIONS.md](implementation/adoption/FIT_SITUATIONS.md) to whichever path you choose.
+The timed reading paths (15 minutes, 45 minutes, 2 hours) are in the [README](README.md#reading-paths). For adopters, add this page and [FIT_SITUATIONS.md](implementation/adoption/FIT_SITUATIONS.md) to whichever path you choose.
 
-<a id="canonical"></a>
+<a id="adopter-resources"></a>
 ## 7. Adopter resources
 
 | | |
