@@ -12,6 +12,8 @@ from pathlib import Path
 import corpus_lookup
 
 ROOT = Path(__file__).resolve().parents[1]
+# The README edition table is the source of truth; `make edition-bump` moves it.
+EDITION, EFFECTIVE = corpus_lookup.read_edition(ROOT)
 CF10 = "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md"
 CF10_ANCHOR = "#cf-10-technical-specialist-forums-and-specialist-chambers"
 GLOSS_NEEDLE = "unaccountable parallel judiciary"
@@ -33,9 +35,9 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertEqual(code, 0)
         self.assertEqual(payload["status"], "process_support_not_binding")
         self.assertTrue(payload["cannot_narrow_core"])
-        self.assertEqual(payload["result"]["edition"], "SC-Corpus-2026.08.09")
-        self.assertEqual(payload["result"]["effective_date"], "2026-08-09")
-        self.assertEqual(payload["edition"], "SC-Corpus-2026.08.09")
+        self.assertEqual(payload["result"]["edition"], EDITION)
+        self.assertEqual(payload["result"]["effective_date"], EFFECTIVE)
+        self.assertEqual(payload["edition"], EDITION)
 
     def test_resolve_def_p1(self) -> None:
         code, payload = run_cli("resolve", "Def.P1")
@@ -150,7 +152,7 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertNotIn("gloss", dumped)
         self.assertNotIn("conflict_rule", dumped)
         self.assertIn("citation", result)
-        self.assertEqual(result["citation"]["edition"], "SC-Corpus-2026.08.09")
+        self.assertEqual(result["citation"]["edition"], EDITION)
 
     def test_route_unknown_exits_nonzero(self) -> None:
         code, payload = run_cli("route", "zzzz-not-a-real-constitutional-query")
@@ -180,7 +182,7 @@ class CorpusLookupTests(unittest.TestCase):
             self.assertNotIn("gloss", span)
             if span.get("hydrated"):
                 self.assertIn("citation", span)
-                self.assertEqual(span["citation"]["edition"], "SC-Corpus-2026.08.09")
+                self.assertEqual(span["citation"]["edition"], EDITION)
                 self.assertIn("text", span)
                 self.assertLessEqual(
                     span["line_end"] - span["line_start"] + 1,
@@ -202,7 +204,7 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertIn("Next step", card["text"])
         owner = next(span for span in result["spans"] if span["role"] == "door_owner")
         self.assertTrue(owner["hydrated"])
-        self.assertEqual(owner["citation"]["edition"], "SC-Corpus-2026.08.09")
+        self.assertEqual(owner["citation"]["edition"], EDITION)
 
     def test_cite_pins_edition_and_validity(self) -> None:
         code, payload = run_cli("cite", "--file", CF10, "--anchor", CF10_ANCHOR)
@@ -210,10 +212,10 @@ class CorpusLookupTests(unittest.TestCase):
         result = payload["result"]
         self.assertEqual(result["file"], CF10)
         self.assertEqual(result["anchor"], CF10_ANCHOR)
-        self.assertEqual(result["edition"], "SC-Corpus-2026.08.09")
+        self.assertEqual(result["edition"], EDITION)
         self.assertEqual(result["validity"], "current")
         self.assertIn(CF10, result["citation"])
-        self.assertIn("SC-Corpus-2026.08.09", result["citation"])
+        self.assertIn(EDITION, result["citation"])
         self.assertNotIn("gloss", result)
 
     def test_classes_are_not_gold_key(self) -> None:

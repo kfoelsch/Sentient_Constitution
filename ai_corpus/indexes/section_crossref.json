@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-12T15:15:42+00:00",
+  "generated_at": "2026-10-12T20:10:26+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 17037,
+  "edge_count": 17036,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -740,14 +740,6 @@
       "source_anchor": "#what-systems-reward",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#protected-reporting-retaliation-and-access-interference",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "What Systems Reward",
-      "source_anchor": "#what-systems-reward",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#avoidable-burden",
       "count": 1
     },
     {

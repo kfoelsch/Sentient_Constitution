@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to use this overview</span></strong></summary>
 
-> **Reader orientation · `SC-Corpus-2026.08.09` · pre-release.** This map is reader-oriented process support. It introduces relationships between record families; it adds no record type, definition, duty, or sequence and cannot narrow the numbered core text. Reading it is not adoption.
+> **Reader orientation · `SC-Corpus-2026.10.12` · pre-release.** This map is reader-oriented process support. It introduces relationships between record families; it adds no record type, definition, duty, or sequence and cannot narrow the numbered core text. Reading it is not adoption.
 
 </details>
 

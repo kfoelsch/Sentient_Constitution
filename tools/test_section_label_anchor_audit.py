@@ -174,6 +174,29 @@ class SectionLabelAnchorTests(unittest.TestCase):
         errors = heading_sequence_errors("core_15_expansion_supremacy.md", numbered)
         self.assertEqual(errors, [], msg="\n".join(errors))
 
+    def test_front_door_pages_are_checked_but_other_implementation_files_are_not(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            (root / "core_01_c_stewardship.md").write_text(
+                "#### 17.1 Shared Stewardship Standard\n", encoding="utf-8"
+            )
+            stale = "[Chapter One \u00a716.1.1](%s#171-shared-stewardship-standard)\n"
+            (root / "START_HERE.md").write_text(stale % "core_01_c_stewardship.md", encoding="utf-8")
+            (root / "implementation" / "adoption").mkdir(parents=True)
+            (root / "implementation" / "adoption" / "ANNOUNCEMENT.md").write_text(
+                stale % "../../core_01_c_stewardship.md", encoding="utf-8"
+            )
+            (root / "implementation" / "CUT_LIST.md").write_text(
+                stale % "../core_01_c_stewardship.md", encoding="utf-8"
+            )
+            hits = [err for err in audit(root) if RULE_CITE in err]
+            flagged = {err.split(":", 1)[0] for err in hits}
+            self.assertEqual(
+                flagged,
+                {"START_HERE.md", "implementation/adoption/ANNOUNCEMENT.md"},
+                msg="\n".join(hits),
+            )
+
     def test_repo_audit_passes(self) -> None:
         errors = audit(ROOT)
         self.assertEqual(errors, [], msg="\n".join(errors))

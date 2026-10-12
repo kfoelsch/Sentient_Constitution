@@ -1,7 +1,7 @@
 # AI Alignment Evaluation Framework
 
 **Status:** Support / process — **not** binding constitutional or incorporated text  
-**Edition target:** next publication cut after `SC-Corpus-2026.08.09`  
+**Edition target:** next publication cut after `SC-Corpus-2026.10.12`  
 **Job:** Empirically test whether AI agents (1) can apply this Constitution correctly and (2) would accept it as binding stewardship constraints under pressure—treating the instrument as a **governance solution to AI alignment**, not as a claim that corpus text alone solves model internals or training-time alignment.  
 **Primary entry (simple, human-readable):** [`../evaluation/`](../evaluation/) — invite an AI with `evaluation/START_HERE.md`; invite a human operator with `evaluation/HUMAN_OPERATORS.md`; answers land in `evaluation/results/` as markdown.
 

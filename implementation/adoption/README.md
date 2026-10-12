@@ -2,7 +2,7 @@
 
 **Status:** Process / operations-guide support — **not** binding constitutional or incorporated text. This folder **cannot narrow core text**. It is the process path *toward* a [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) instrument, not that instrument. A filled template that diverges from Chapter Sixteen §10 or [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 
-**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**.
+**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**.
 
 The folder is named `adoption` so operators can find it. Opening a file here is not adoption. A fitness sitting, an own-conduct declaration, an *n*-party operations-guide file, a Chapter Five Charter draft, and a CF-3.2 map draft are not a Chapter Sixteen instrument. A public announcement is not that instrument. [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) sequences migration **after** a recorded instrument; its phase names are not a metaphor for party-count growth.
 

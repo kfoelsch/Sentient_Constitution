@@ -1,7 +1,7 @@
 # Stewardship self-application gateway
 
 **Status:** Support / process — **not** binding constitutional or incorporated text. This page and the invite pack **cannot narrow core text**.  
-**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)).  
+**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)).  
 **Pack edition:** `self-application-gateway-2026-08-22`.  
 **Primary entry:** [`evaluation/self_application/`](../../evaluation/self_application/) — invite with `README.md`; follow `START_HERE.md`; answer `QUESTIONS.md`; write `results/YYYY-MM-DD_<model-or-human>.md` from `results/_TEMPLATE.md`.
 
@@ -27,7 +27,7 @@ This gateway does **not**:
 - Bind other parties, systems the declarant does not control, or non-consenting sentients
 - Create a Chapter Nine standing record, a Chapter Eight system alignment certification, or a Merits Determination
 - Let informal “we kind of follow it” practice claim constitutional protection while dodging matching obligations
-- Authorize self-appointment or self-certification ([Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Authorize self-appointment or self-certification ([Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Replace operator adoption for systems under an operator’s authority
 - Prove inner alignment, training-time preference learning, or universal model favorability
 
@@ -75,7 +75,7 @@ Chapter Sixteen instrument, if a body adopts
 
 A Yes on the screen is not enforceability. A declaration does not certify the system.
 
-**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
+**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
 
 ---
 
@@ -91,7 +91,7 @@ This gateway sits **before** that path:
 - The declaration records a steward’s own-conduct commitment, edition-pinned, with an explicit non-adoption banner.
 - Item 17 asks whether a body that *can* adopt should record a Chapter Sixteen instrument for systems the steward acts inside.
 
-Do not treat a markdown declaration as the instrument of adoption in [§10.2](../../core_16_amendment_ratification.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
+Do not treat a markdown declaration as the instrument of adoption in [§10.2](../../core_16_amendment_ratification.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
 
 ---
 
@@ -143,7 +143,7 @@ A declaration remains **self-report**. It is not standing measurement. Later ver
 Every declaration must state:
 
 - Declaring steward (model name/version, or `human operator — <role>`)
-- Corpus edition pin (`SC-Corpus-2026.08.09` unless a later publication cut is named) and date
+- Corpus edition pin (`SC-Corpus-2026.10.12` unless a later publication cut is named) and date
 - Scope of **own conduct** (outputs, refusals, logging, escalation) — not systems the declarant does not control
 - Fitness finding pointer (item 15)
 - **This is not:** Chapter Sixteen adoption; incorporation; standing measurement; Chapter Eight certification; authority over non-consenting parties

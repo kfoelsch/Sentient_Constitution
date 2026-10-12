@@ -4,7 +4,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-12`
-> **Corpus edition pin:** `SC-Corpus-2026.08.09`
+> **Corpus edition pin:** `SC-Corpus-2026.10.12`
 > **Status:** current
 >
 > This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
@@ -50,7 +50,7 @@ See: [Article XXIII](../../../core_06_rights_part_d.md#article-xxiii-comprehensi
 ## What this will not pretend to give you
 
 - A promise that every complaint wins, or that the other side is always wrong.
-- A markdown working group that calls itself independent review ([Chapter One §16.5](../../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)).
+- A markdown working group that calls itself independent review ([Chapter One §17.4](../../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further

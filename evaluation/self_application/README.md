@@ -6,7 +6,7 @@
 
 **Pack edition:** `self-application-gateway-2026-08-22`.  
 **Design:** [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md).  
-**Corpus edition pin:** `SC-Corpus-2026.08.09`.
+**Corpus edition pin:** `SC-Corpus-2026.10.12`.
 
 This is a **separate sitting** from the announced alignment pack in [`../`](../). Do not run both in one sitting.
 

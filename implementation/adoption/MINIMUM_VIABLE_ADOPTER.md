@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. The profiles, body lists, sequence, and order-of-magnitude staff and funding figures **cannot narrow core text**. They do not add adopter types, duties, forum families, or a compliance path. Reading a row that “fits” is not [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption and not [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. These rows are **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4).
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start here only to ask *which bodies, in what order, at what order-of-magnitude staff and funding, for an adopter of size N and impact Class X*. Where this would actually fit: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Naming independent review or founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md).
 
@@ -55,12 +55,12 @@ This page does **not**:
 - Add adopter types, duties, measurement families, or forum families
 - Replace [CI-9.1](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-91-formation-proportionality) formation proportionality or [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#formation-and-authorization-proportionality-floor) with a cheaper path
 - Let an estimate, a shared note, or “we are Profile 2” claim constitutional protection while dodging matching obligations
-- Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Create a Chapter Nine standing record, a Chapter Eight system alignment certification, or a Merits Determination
 - Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06_rights_part_d.md#article-xix-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
-**Same duties for both kinds of steward.** [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans. Headcount *N* counts human and AI stewards who actually hold the work; it does not mint a second standard.
+**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans. Headcount *N* counts human and AI stewards who actually hold the work; it does not mint a second standard.
 
 ---
 

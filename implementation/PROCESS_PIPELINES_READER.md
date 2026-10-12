@@ -1,7 +1,7 @@
 # Key Practical Process Pipelines — public map
 
 **Status:** Process / map support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. It does not add, remove, or relocate duties. If this page and core diverge, core wins. This page is not a compliance path.
-**Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)).
+**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../README.md)).
 **Job:** One page so a public reader can see the chain — certification → standing measurement → forums → remedy — without opening companion procedure.
 
 ## Doors
