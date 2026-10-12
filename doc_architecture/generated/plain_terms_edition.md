@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.12` · effective **2026-10-12**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **682** of **992** headings carry a gloss (69%).
+Coverage: **683** of **993** headings carry a gloss (69%).
 
 ## Contents
 
@@ -25,7 +25,7 @@ Coverage: **682** of **992** headings carry a gloss (69%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (79/91 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (32/93 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (33/94 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
@@ -1764,7 +1764,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 32/93 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 33/94 headings glossed
 
 #### Continuity: Independent terms
 
@@ -2113,6 +2113,12 @@ an **Institution** is a lasting holder of authority, such as an office, agency, 
 a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.
 
 [Source](../../core_05_band_continuity.md#charter)
+
+##### Charter Role Map
+
+a **Charter Role Map** is the published list, kept with a Charter, of who may hold which seat in the work that Charter covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.
+
+[Source](../../core_05_band_continuity.md#charter-role-map)
 
 ##### Systemic Lock-In
 

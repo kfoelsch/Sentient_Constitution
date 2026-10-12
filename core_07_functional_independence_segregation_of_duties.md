@@ -101,7 +101,7 @@ flowchart TB
         H --> M
     end
     X["The initiating seat cannot verify its own act;<br/><br/>the verifier cannot also keep the record<br/>or hear the challenge"]
-    Map["Published role map<br/><br/>assigns seats for this act"]
+    Map["Charter Role Map<br/><br/>assigns seats for this act"]
     subgraph Seats["Four core seats"]
         direction TB
         I["Initiating seat<br/><br/>Request, propose, operate,<br/>claim, or begin the act"]
@@ -226,13 +226,14 @@ That response is performance of duty, not abandonment of the act. The act procee
 
 *In plain terms: an organization must say who holds each job before the hard case arrives, including who takes over when the ordinary holder is absent or conflicted.*
 
-Every adopter that takes materially binding acts must maintain a published, auditable, and contestable map that identifies:
+Every adopter that takes materially binding acts must maintain a published, auditable, and contestable [Charter Role Map](core_05_band_continuity.md#charter-role-map) that identifies:
 
 - which lane, office, role, or process hosts each seat;
 - the acts and scope for which that placement applies;
 - every permitted merged-hosting arrangement and its independence safeguard;
-- the substitute for an absent, excluded, captured, or conflicted holder; and
-- the independent route when no qualified substitute is available.
+- the substitute for an absent, excluded, captured, or conflicted holder;
+- the independent route when no qualified substitute is available; and
+- its version and effective date, so that an act is judged against the map in force when it was taken.
 
 An unplaced, vacant, or conflicted seat is a governance defect to log and correct. It does not pass automatically to the initiating seat, an interested party, an operator, or a superior in their [Material Control Line](core_05_band_accountability.md#material-control-line). Until corrected, the act routes to the published substitute or independent path. You can't bypass the independence requirement just because you're in a hurry.
 
