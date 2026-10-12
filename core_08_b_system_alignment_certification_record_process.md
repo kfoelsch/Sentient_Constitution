@@ -30,13 +30,13 @@
 
 Chapter Eight, **Part B**, is the constitutional owner of these parts of system alignment certification:
 
-- the **forum-supervised process** ([§6 Forum Process](#6-forum-process));
-- the **outcomes** ([§7 Certification Outcomes](#7-certification-outcomes));
-- the **certification record** ([§8 System Certification Record](#8-system-certification-record));
-- **recertification and reopening** ([§9 Recertification and Reopening](#9-recertification-and-reopening)); and
-- the **standing bridge** ([§10 Relationship to Standing](#10-relationship-to-standing)).
+- **Phase III, Review:** the **forum-supervised process** ([§6 Forum Process](#6-forum-process));
+- **Phase IV, Decide:** the **outcomes** ([§7 Certification Outcomes](#7-certification-outcomes));
+- **Phase V, Record:** the **certification record** ([§8 System Certification Record](#8-system-certification-record));
+- **Phase VIa, Operate and recertify:** **recertification and reopening** ([§9 Recertification and Reopening](#9-recertification-and-reopening)); and
+- **Phase VIb, Standing bridge:** the **standing bridge** ([§10 Relationship to Standing](#10-relationship-to-standing)).
 
-Evaluation requirements are in **[Part A](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation)**, which ends at [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). This Part continues the chapter at **§6** (*Forum Process*). [Part A §1.1 Certification at a glance](core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance) charts the whole process.
+Evaluation requirements are in **[Part A](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**), which ends at [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). This Part continues the chapter at **§6** (*Forum Process*). [Part A §1.1 Certification at a glance](core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance) charts the whole process.
 
 *In plain terms: Part A explains how to **frame** and **evaluate** a system. Part B explains what happens next. Forums review the findings and reach an **outcome**, and nothing goes live until the system is certified. The findings and the decision go on the **record**. Sentients (the beings the Constitution covers) can **challenge** the outcome. The certification is kept current, and review **reopens** when it needs to. Certification can also feed **standing**, but it never replaces standing measurement or standing effects.*
 
@@ -48,6 +48,75 @@ Certification under this Part:
 - is kept current under [§9 Recertification and Reopening](#9-recertification-and-reopening).
 
 It may supply verified inputs to Chapter Nine only through [§10 Relationship to Standing](#10-relationship-to-standing).
+
+The chart below is the Part B portion of the process chart in [Part A §1.1 Certification at a glance](core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance): **Phase III Review** through **Phase VI Operate** ([§6](#6-forum-process)–[§10](#10-relationship-to-standing)). It starts from the framing and evaluation work in Part A, and each new review pass returns there at connector A.
+
+```mermaid
+flowchart TB
+    PA["Part A — Phases I–II, §2–§5<br/><br/>System classified and evaluated;<br/>evaluation findings carried forward"]
+    F["Phase III, Review — §6<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>review challenge paths remain available"]
+    Rec["Phase V, Record — §8<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, conditions, and operating plan"]
+    S[["Chapter Nine — Standing<br/>records<br/><br/>Outside this chapter"]]
+    O{"Phase IV, Decide — §7<br/><br/>What outcome and status<br/>does the evidence support?"}
+    Fc["Full Certification — §7, §9.2<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Longer recertification clock; conditions may apply"]
+    Pc["Provisional Certification — §7, §9.2<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Shorter recertification clock; conditions may apply"]
+    Nc["Not Certified — §7<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
+    Pub["Publish the completed record — §7, §9.1<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
+    G{"Go-live gate — §7<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
+    Hold["Meet go-live prerequisites — §7<br/><br/>Complete notice and independently verify<br/>conditions required before go-live"]
+    Rm["Protect and correct — §7, §9.2<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
+    Ch["Phase VIa, Operate and recertify — §9–§9.2<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
+    S2[["Chapter Nine — Standing<br/>records<br/><br/>Outside this chapter"]]
+    Re["Next review pass — §9<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new record linked to the last"]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    A1((A)) --> PA
+    PA --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, §10 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|Not Certified| Rm
+    G --->|Yes: operate<br/>within the record| Ch
+    G --->|Certified,<br/>prerequisites pending| Hold
+    Hold --> G
+    Ch -->|Material defect:<br/>protect and correct| Rm
+    Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
+    Ch -.->|VIb, §10 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
+    Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style PA fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
 
 <a id="6-forum-process"></a>
 
@@ -515,6 +584,8 @@ This section applies [Transparency](core_05_band_oversight.md#transparency) and 
 
 *In plain terms: no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the conditions on the record. A certified system is checked again on schedule. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.*
 
+This section is sub-phase **VIa** of Phase VI (Operate), operate and recertify. It covers operating the certified system, keeping it current, and reopening review.
+
 **Monitoring and response.** Operators and stewards must carry out the operating plan on the record under [§8.1 Minimum record contents](#81-minimum-record-contents). Named owners must:
 
 - preserve monitoring evidence;
@@ -682,6 +753,8 @@ Evasion of this chapter's obligations is governed by Chapter Three — this chap
 <br>
 
 *In plain terms: certification can feed standing, but it is not standing. The record of a certified system, good or bad, may supply verified facts to Chapter Nine, but only through a strict gate. Chapters Nine and Ten alone decide standing records and their effects.*
+
+This section is sub-phase **VIb** of Phase VI (Operate), after [§9 Recertification and Reopening](#9-recertification-and-reopening) (**VIa**). It is the standing bridge.
 
 **What certification may supply.** Only the record of a certified system may supply input, under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and only through Chapter Nine's verified-input gate below:
 
