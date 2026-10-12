@@ -2717,6 +2717,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - [Process](core_05_band_continuity.md#process) — a repeatable sequence of steps, decisions, records, clocks, or handoffs by which a duty is carried out, judged as part of its system;
 - [Institution](core_05_band_continuity.md#institution) — a durable holder of authority or of an organized role, defined by function and continuing through turnover of its occupants;
 - [Charter](core_05_band_continuity.md#charter) — the published, amendable scope instrument stating what a system, institution, or business claims authority to do, subject to periodic alignment review;
+- [Charter Role Map](core_05_band_continuity.md#charter-role-map) — the published, versioned placement of seats kept with a Charter, naming who may hold each seat, who substitutes, and the independent route;
 - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) — conditions where exit or corrective action is foreclosed, negating meaningful agency or contestability.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
@@ -2944,6 +2945,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - affected communities or dependencies where material;
     - amendment authority;
     - periodic-review cadence scaled to [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance);
+    - the [Charter Role Map](core_05_band_continuity.md#charter-role-map), or a pointer to the published instrument that is the Charter Role Map;
     - the **record-opening authority** and **record custodian** for [Standing Records](core_05_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, or a pointer to the published instrument that names them, together with the independent route that applies when the chartered entity is itself the subject ([Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority)); and
     - where [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, **pointers** to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) participation-window / decision-path materials and the **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*) weighting publication file).
 
@@ -2969,8 +2971,63 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Primary failure:**
     - operating materially outside chartered scope while the Charter is offered as current authorization; or
     - Charter text offered as a substitute for [System Boundaries](core_05_band_continuity.md#system-boundaries) or as proof of classification under CS-3 (*System classification machinery*);
-  - **Secondary failure:** overdue periodic charter review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, or — where Def.P2 admission scope applies — missing or dead pointers to the published binding stakeholder-choice process rules;
+  - **Secondary failure:** overdue periodic charter review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, a missing, dead, or stale Charter Role Map, or — where Def.P2 admission scope applies — missing or dead pointers to the published binding stakeholder-choice process rules;
   - **Tertiary failure:** Charter text used to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](core_05_band_participation.md#system-creation) / [Business Creation](core_05_band_participation.md#business-creation) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
+
+---
+
+<a id="charter-role-map"></a>
+
+#### Charter Role Map
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
+- Downstream: [Chapter Seven §5 Published Placement, Vacancy, and Substitution](core_07_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) (*the published map of seats*); [Chapter Eight Part B §6.1.1 Four seats in a certification](core_08_b_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) and [§8.1 Minimum record contents](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*certification seats and the record of them*); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*Charter contents, review, and formation template*), **CI-4.5** (*Authorized roles and accountability chains*), and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*).
+- Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
+- Read with: [Charter](core_05_band_continuity.md#charter), [Institution](core_05_band_continuity.md#institution), [System](core_05_band_continuity.md#system), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Material Control Line](core_05_band_accountability.md#material-control-line), [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), [Attributable Action](core_05_band_accountability.md#attributable-action), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
+- Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*), not in this entry. The mechanics of keeping the map current live in [corpus_institutions.md](corpus_institutions.md), not here.
+
+</details>
+
+<br>
+
+*In plain terms: a **Charter Role Map** is the published list, kept with a Charter, of who may hold which seat in the work that Charter covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.*
+
+- **What it is**
+  - **In scope:** The published, versioned placement of seats, named in or kept with a [Charter](core_05_band_continuity.md#charter), for the materially binding acts taken within the chartered scope. For each seat it states:
+    - the acts and scope for which the placement applies;
+    - the offices or roles eligible to hold the seat, and the stewards currently authorized to hold them;
+    - every permitted merged-hosting arrangement and its independence safeguard;
+    - the substitute for an absent, excluded, captured, or conflicted holder, and the independent route when no qualified substitute is available; and
+    - the version, the effective date, and the change history.
+  - **Out of scope:**
+    - the seat types and their boundaries, which are fixed in [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*);
+    - an organization chart, staff directory, or list of titles that places no seat;
+    - the standards for qualifying a steward, which the map records the results of but does not set; and
+    - a seat that constitutional routing assigns and the Charter does not. In a system alignment certification, the forums that hold the verify-or-authorize seat are assigned under Chapter Eight and Chapter Twelve, so the map does not choose them.
+<a id="charter-role-map-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
+
+    **Primary assessment:** Take a materially binding act within the chartered scope and test whether:
+    1. the act can be traced to the version of the map in force when it was taken, and each seat's holder was listed for it;
+    2. the verify-or-authorize, record, and contest seats resolve to offices outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of the party whose act it is;
+    3. each placed office and substitute is live, qualified, and unconflicted on the act;
+    4. the change history shows who changed the map, under what authority, and when; and
+    5. an unplaced, vacant, or conflicted seat was logged and routed to the substitute or independent route, not to the requester.
+  - **Secondary measure:** [Material Control Line](core_05_band_accountability.md#material-control-line) and [Auditability](core_05_band_oversight.md#auditability) — co-measures that test who actually directs a placement.
+
+    **Secondary assessment:** When evaluating the primary trace, identify any actor that shapes a placement without holding the authority to change it, and evaluate the map by where authority actually sits.
+<a id="charter-role-map-c"></a>
+- **What must hold**
+  - A seat in the chartered scope is placed, versioned, and traceable, and the placement does not depend on who happens to be present.
+  - **Primary failure:**
+    - placing the verify-or-authorize, record, or contest seat inside the control line of the party whose act it is;
+    - letting that party change those placements alone; or
+    - treating an entry that is dead, stale, or inconsistent with a competency clearance or standing lock as authority for an act.
+  - **Secondary failure:** an undated or unattributed change; a seat moved on a pending act without a recorded reason; an unplaced seat left unlogged; or a map that is overdue for review.
 
 ---
 

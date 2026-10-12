@@ -130,6 +130,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways)
 - [Cascading Failure](core_05_band_continuity.md#cascading-failure)
 - [Charter](core_05_band_continuity.md#charter)
+- [Charter Role Map](core_05_band_continuity.md#charter-role-map)
 - [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance)
 - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation)
 - [Collective Accountability Failure](core_05_band_accountability.md#collective-accountability-failure)
