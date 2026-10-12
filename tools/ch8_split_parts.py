@@ -63,8 +63,6 @@ def part_a_header_block() -> str:
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part A** — certification **evaluation** requirements (system class, whole-system factors, and domain evaluation hooks). **Part B** — certification record, forum process, standing bridge, and reopening — is in [`core_08_b_system_alignment_certification_record_process.md`](core_08_b_system_alignment_certification_record_process.md).
 >
 > - **Constitutional owner (joint with Part B):** forum-supervised **system alignment certification and related records** — evaluation domains (Part A); certification-record duties, recognition outcomes, revalidation cadence, supervisory sequence, contestability chain, and verified-input bridge to Chapter Nine (Part B).
@@ -92,8 +90,6 @@ def part_b_header_block() -> str:
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part B** — certification **record** contents, transparency and contestability, forum component roles, supervisory sequence, standing bridge, and reopening. **Part A** — evaluation requirements — is in [`core_08_a_system_alignment_certification_evaluation.md`](core_08_a_system_alignment_certification_evaluation.md).
 >
 > - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**.
@@ -139,8 +135,6 @@ def stub_content() -> str:
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > **Chapter Eight** is split across two binding files read as one instrument:
 >
 > | Part | File | Owns |

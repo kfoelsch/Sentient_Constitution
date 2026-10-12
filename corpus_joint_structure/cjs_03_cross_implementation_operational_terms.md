@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3** (*operational cluster library* / **oDef** home).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
@@ -366,7 +364,7 @@ Use this compass before applying any **oDef** / **CJS-3** (*operational cluster 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): full cluster map</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this section or in other corpus files. Per-cluster constitutional framing lives in each cluster's Trace block; use this map for cross-cluster lookup, audits, and migration reference.
+> Per-cluster constitutional framing lives in each cluster's Trace block; use this map for cross-cluster lookup, audits, and migration reference.
 
 **Finding profile shorthand (non-operative).** Each cluster's **Default profile** is a starter label for a material **non-compliance** finding that arises under that cluster's operational constraints. The code names which constitutional leg and aim the finding most concerns and which governance layer it primarily sits in — for routing and audits, not as a pass/fail or standing verdict. Code key: **O** Oversight · **P** Participation · **A** Accountability · **T** Timeliness · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical field rules: [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile). Constitutional frame: [Chapter Three, section 3](../core_03_definition_integrity.md#3-non-compliance-finding-profiles). Adjust the default when facts require; add **failure character** and **severity tier** per finding.
 

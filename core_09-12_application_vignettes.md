@@ -6,17 +6,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Nine through Twelve and adopted layers; they do **not** add, remove, or narrow binding obligations. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Nine through Twelve and adopted layers. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to use these vignettes</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Each vignette follows the same spine:
 >
 > 1. **Situation** — actors and stakes (illustrative facts only).
@@ -33,7 +29,7 @@
 
 <br>
 
-*In plain terms: these are worked examples of the standing pipeline in named situations. They illustrate Chapters Nine through Twelve; they do not add, remove, or narrow those chapters.*
+*In plain terms: these are worked examples of the standing pipeline in named situations. They illustrate Chapters Nine through Twelve.*
 
 <a id="1-child-neglect--care-duty-failure-tier-a"></a>
 ### 1. Child neglect / care-duty failure (Tier A)

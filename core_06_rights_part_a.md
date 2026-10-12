@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part A**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -12,8 +10,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): reading order and fulfillment</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > This chapter presents rights in a **planet-first** order because environmental and material conditions support everything else:
 > - **Part A** covers **Articles I–V**: environmental survival, material stewardship, survival essentials, equal access to sentient-centered education, and resource-flow transparency.
 > - **Part B** covers **Articles VI–XII**: equal basic Rights Floors, self-ownership, family and care, likeness and data, agency, cooperation, and Stakeholder System Participation.
@@ -77,8 +73,6 @@ These background rules apply to every article in this chapter unless a specific 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): chapter structure map</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > **Reader map (non-operative).** This chart shows how the four source parts of this chapter sit under the Rights Floor, and that later processes apply the floor rather than shrink it. It adds no definitions or duties, establishes no precedence, and cannot replace the source text.
 
 </details>
@@ -175,8 +169,6 @@ This rule covers all of Chapter Six — Articles **I** through **XXVIII**:
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part A article map</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > **Reader map (non-operative).** This chart shows how the source groups this Part's articles and subarticles. The grid is source grouping, not a process sequence: the articles are not procedural steps, so the map carries no arrows. Subarticle labels are shortened to themes; the numbered articles and subarticles below govern. The chart adds no definitions or duties, establishes no precedence, and cannot replace the source text.
 
 </details>

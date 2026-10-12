@@ -3,7 +3,7 @@
 **Pack edition:** `lived-situations-2026-09-11`  
 **Corpus edition pin:** `SC-Corpus-2026.08.09`  
 **Status:** current  
-**This packet is not binding.** It does not add, remove, or narrow duties. Illustrative facts only.
+**This packet is not binding.** Illustrative facts only.
 
 Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: no child, no pregnancy; a diagnosis is being used as incapacity proof; the live fight is conditioned housing and a clinic that will see Ash only if “they decide until stable.”
 

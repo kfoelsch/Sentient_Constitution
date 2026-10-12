@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+> Widgets marked **non-operative** (corpus placement, reader guidance, reader maps) are orientation only. They add, remove, or narrow no binding obligation, in their own file or in any other.
 >
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains the **Preamble** (foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
 >
@@ -72,8 +72,6 @@ Chapter One turns the questions into rules for incentives: [Chapter One §19.1.1
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): section 1 model chart</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > **Reader map (non-operative):** This chart summarizes the relationships in this section. It adds no definitions or duties, establishes no precedence, and cannot replace the source text.
 
 </details>

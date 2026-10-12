@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part E**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -12,8 +10,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part E position in Chapter Six</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > **Part A** in [core_06_rights_part_a.md](core_06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part E** presents **Articles XXVI–XXVIII**, including transition and re-baselining in **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*).
 
 </details>
@@ -29,8 +25,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part E article map</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > **Reader map (non-operative).** This chart shows how the source groups this Part's articles and subarticles. The grid is source grouping, not a process sequence: the articles are not procedural steps, so the map carries no arrows. Subarticle labels are shortened to themes; the numbered articles and subarticles below govern. The chart adds no definitions or duties, establishes no precedence, and cannot replace the source text.
 
 </details>
@@ -204,7 +198,7 @@ This Article sets out the rights-collision procedure and the place of restorativ
 - Upstream: Timeliness measurement family (*Timely Resolution and anti-delay discipline as constitutional measurement*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) (*standing, integration, and forum coordination pipeline*).
 - Principles: Chapter One [§9.2 Constitutional Efficiency](core_01_a_values_principles.md#92-constitutional-efficiency), [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Downstream: [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*); [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*same outer bounds as default restore-challenge windows after emergency containment*).
-- Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay). The card cannot narrow the Constitution.
+- Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay).
 
 </details>
 

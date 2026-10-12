@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
->
 > **Edition and alignment**
 > - **Corpus edition and effective date:** inherit from [README.md](../README.md). Do not stamp a second edition in this annex.
 >
@@ -219,8 +217,6 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
->
 > **Drafting priority (suggested):**
 >
 > 1. Extend **CJS-0.1** (*Cross-implementation read-with contract*) with new rows only when the [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights) or cross-file overlap changes; keep row IDs **stable** — append new IDs, do not renumber. When a row changes, update the **primary owner** and each **mandatory read-with** section so routing stays **bidirectional** (row ↔ owner ↔ read-with).

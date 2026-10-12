@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Fifteen**: additive expansion of protection, supremacy, and external legal orders. **Chapter Fourteen** (non-regression) is in [`core_14_non_regression.md`](core_14_non_regression.md). **Chapter Sixteen** (ratification and procedural validity) is in [`core_16_amendment_ratification.md`](core_16_amendment_ratification.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -13,13 +11,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Fifteen lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Where this lives (navigation):
 > - **Constitutional owner:** additive expansion of protection; continuity of supremacy and challenge rights during amendment processes; source-layer authority and internal hierarchy relative to incorporated corpus and external law; non-displacement of applicable external law of its own force; alignment of constitutional processes with external legal frameworks in which they are used; cooperation with external tribunals while preserving internal review pathways.
 > - **Non-regression:** substantive floors remain in **Chapter Fourteen**. Ratification, custody instruments, and procedural amendment validity remain in **Chapter Sixteen**.
 >
-> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only; it does not add, remove, or narrow binding text.
+> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
 </details>
 

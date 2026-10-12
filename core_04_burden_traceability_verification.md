@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Four**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
 >
 > **Upstream:** [Chapters Two and Three — Definition mechanics](core_02_definition_structure.md); Chapter Five definitions.
@@ -16,8 +14,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Four lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Where this lives (navigation):
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Preamble](core_00_preamble.md#preamble--foundational-requirements); **participation** where materially required through practical observability and independent challenge under sections **3** and **4**. Requirements scale with [material stake](core_00_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Nine** owns standing-record and verified-input discipline read with this chapter.

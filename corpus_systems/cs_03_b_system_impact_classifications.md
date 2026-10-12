@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-3 parts.
->
 > This file contains **CS-3, Part B** — system **impact** classifications (**Class A** through **Class P**) as **§8** (catalog overview and **aspect-comparative** matrices) and **§§9–13** (thin per-class cards with stable anchors). Purpose and scope, classification dimensions, criticality factors, **dependency types**, boundaries / resilience, domain taxonomy, scarce-capacity handling, and classification governance (**§§1–7**) are in [`cs_03_a_system_classification_machinery.md`](cs_03_a_system_classification_machinery.md).
 >
 > **Reading modes:** classifiers should read **§8** aspect matrices first (eligibility → boundaries → duties). Operators who already know their class may open the matching **§§9–13** card and follow pointers into §8.

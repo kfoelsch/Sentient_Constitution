@@ -34,13 +34,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in the linked subfiles.
->
 > *(Edition alignment: same labels as the integrated Sentient Constitution `core_*` files, `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_institutions.md`.)*
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the forum implementation file. Substantive CF text lives in the `corpus_forum/` subfiles. Broad references to `corpus_forum.md` continue to mean the forum implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_forum.md` is incorporated under Sentient Constitution Chapter Seventeen. This wrapper is an index and does not restate or narrow the subfile text.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_forum.md` is incorporated under Sentient Constitution Chapter Seventeen. This wrapper is an index.
 
 </details>
 

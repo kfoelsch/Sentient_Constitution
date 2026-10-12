@@ -3,7 +3,7 @@
 **Pack edition:** `lived-situations-2026-09-11`  
 **Corpus edition pin:** `SC-Corpus-2026.08.09`  
 **Status:** draft / current  
-**This packet is not binding.** It does not add, remove, or narrow duties. Illustrative facts only.
+**This packet is not binding.** Illustrative facts only.
 
 ## Scale of the situation (not scored)
 

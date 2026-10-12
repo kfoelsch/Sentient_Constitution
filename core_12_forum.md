@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Twelve**: forum families, default venue and primary-stakes routing, forensic support, intake triage, and jurisdiction for disputes under the standing pipeline and Rights Floor. Forums **supervise** dispute handling under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, scaled to [material stake](core_00_preamble.md#material-stake). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge** — under [Chapter Nine §3](core_09_standing_assessment.md#3-standing-record-operational-requirements); a filed case is not standing by itself, and forum narrative must not substitute for Chapter Nine standing measurement ([Chapter Nine §3.6](core_09_standing_assessment.md#36-forum-boundary)). Use [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) for pipeline navigation. Operational forum mechanics remain in designated implementation files. Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -13,8 +11,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twelve lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Where this lives (navigation):
 > - **Constitutional owner:** **section 1** (*purpose* — **primary adjudicative application** of norms this chapter allocates, **as distinct from** routine **executive administration**; **Dispute sequencing** for ordinary disputes inside already-authorized systems; **accountability** requirements; **published**, **predictable** **threshold** placement); **default starting venue**, **primary-stakes** routing, **intake triage body** (**first-touch desk**), mixed stakes, asymmetry, standing-record contests, **good-faith characterization and anti-gaming**, and **sentient-accessible** **threshold** **access** expectations (**section 2**, **read with** **`corpus_forum.md`**); **transfer**, **consolidation**, and **coordination** (**section 3**, read with **section 5** certification and backup); **forum family definitions**, **internal chambers**, **shared standards**, and **provisional operational law** (sentient, technical, institutional, environment, integrity, constitutional — **section** **4**, mirroring **section** **2**’s **table**); **escalation**, **certification**, and **interim protection** (**section 5**); **timely resolution** and **anti-delay** discipline (**section 6**); **forum support** before, during, and after review (**section 7**), implemented so triage and support roles **do not** substitute for **lawfully constituted merits panels**; **anti-self-judging** backup routing; and escalation hooks tied to **Chapter Nine**, **Chapter Eleven**, and **Chapter Six** justice and challenge rights.
 > - **Pipeline navigation:** [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) — [§§1–7](#1-purpose-and-role--participation-architecture) in this file.
@@ -23,7 +19,7 @@
 > - **Implementation owner:** published intake **classes**, day-to-day docket rules, staffing, budgets, granular procedure, operational escalation mechanics, and forum-support operational requirements live in adopted implementation text and in **[corpus_forum.md](corpus_forum.md)** (**CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-8** (*Forum forensic and analytical support*), **CF-9** (*Independent investigative service and prosecution interface*), and related sections).
 > - **Anti-relocation rule:** adopting instruments must not satisfy this chapter through procedures that collapse distinct forum functions, strip **independence** or **real review**, or route integrity challenges back to the same captured forum this chapter forbids as the sole final merits home.
 >
-> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the `<br>` that follows it when present), and **before** the operative paragraphs and bullet lists for that section. Reader-facing gloss only; it does not add, remove, or narrow binding text.
+> **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the `<br>` that follows it when present), and **before** the operative paragraphs and bullet lists for that section. Reader-facing gloss only.
 
 </details>
 
@@ -109,8 +105,6 @@ flowchart TB
   style lead fill:none,stroke:#ea580c,color:#ffffff
   style direct fill:none,stroke:#ea580c,color:#ffffff
 ```
-
-*Reader map only. It does not add, remove, or narrow the Dispute sequencing paragraph.*
 
 They:
 
@@ -804,7 +798,7 @@ This subsection sets out how Chapter Eleven designation relates to independent r
 - Downstream: [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*inspection, forensic, and follow-through support*); [§5](#interim-protection) (*Interim protection*); [corpus_forum.md](corpus_forum.md) (**CF-11.3.1** (*target windows and timing floors*)); [corpus_institutions.md](corpus_institutions.md) (**CI-8** (*accessible challenge and service pathways*)); [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-ninetwelve-pipeline-application-vignettes); [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden) (*same outer bounds as default restore-challenge windows*).
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*); [Materiality](core_05_band_oversight.md#materiality); [Timely Resolution](core_05_band_accountability.md#timely-resolution); [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways); [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency).
-- Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay). The card cannot narrow the Constitution.
+- Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay).
 
 </details>
 

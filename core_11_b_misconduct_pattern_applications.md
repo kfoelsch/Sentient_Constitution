@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eleven, Part B** — named pattern applications and criteria routing for recurring anti-constitutional misconduct patterns. **Part A** — designation decision framework, criteria set, designation attachment, and due-process safeguards — is in [`core_11_a_misconduct_designation.md`](core_11_a_misconduct_designation.md#chapter-eleven-part-a-anti-constitutional-misconduct--designation).
 >
 > - **Constitutional owner (joint with Part A):** final anti-constitutional-misconduct designation for Violation Axis `s = 7`, `s = 8`, or `s = 9` findings. Part B routes named patterns into Part A §§2–4; it does **not** add designation criteria or Chapter Ten lock types.

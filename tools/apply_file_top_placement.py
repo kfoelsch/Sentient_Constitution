@@ -11,8 +11,6 @@ ROOT = Path(__file__).resolve().parents[1]
 PLACEMENT_OPEN = """<details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 """
 PLACEMENT_CLOSE = """
 </details>

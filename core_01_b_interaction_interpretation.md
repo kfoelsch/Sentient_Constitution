@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§13–15: Constitutional Collision Resolution Process, prohibition on absolute override, and constitutional interpretation) — the part that keeps the Constitutional Tetrad intact when principles collide and when the Constitution is read.
 >
 > **Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — §§1–12, the Flourishing and Continuity aims)  
@@ -19,7 +17,7 @@
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing and O/M/A/C links at the point each § materially invokes a term. This block, by contrast, is a chapter-level crosswalk for readers finishing Part A.
+> Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing and O/M/A/C links at the point each § materially invokes a term. This block, by contrast, is a chapter-level crosswalk for readers finishing Part A.
 
 **Principle-layer vocabulary** (canonical homes in Chapter One (Parts A and B)):
 
@@ -49,7 +47,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how Part B keeps the Constitutional Tetrad intact</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** widgets name the Tetrad legs each section engages; this block is a part-level map for readers entering Part B.
+> Per-section **Trace** widgets name the Tetrad legs each section engages; this block is a part-level map for readers entering Part B.
 
 **What Part B does.** [Part A](core_01_a_values_principles.md) develops the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Part B adds no new principle and no fifth duty. It keeps the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**, scaled to [material stake](core_00_preamble.md#material-stake) — intact in three situations:
 

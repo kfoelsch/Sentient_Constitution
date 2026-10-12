@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > **Chapter Eight** is split across three binding files read as one instrument:
 >
 > | Part | File | Owns |
@@ -26,7 +24,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guide (non-operative): the six phases</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this chapter or in other chapters. The sections it links control.
+> The sections it links control.
 >
 > | Phase | Sections | Question the phase answers | Part |
 > |-------|----------|----------------------------|------|
@@ -44,7 +42,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guide (non-operative): run sheet</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this chapter or in other chapters. Where this sheet and a linked section differ, the section controls.
+> Where this sheet and a linked section differ, the section controls.
 >
 > | Step | Do | Where |
 > |------|----|-------|
@@ -71,7 +69,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guide (non-operative): record checklist</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this chapter or in other chapters. [Part B §8.1](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents) controls what the record must identify; this checklist only names its headings, in order, with the phase that produces each.
+> [Part B §8.1](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents) controls what the record must identify; this checklist only names its headings, in order, with the phase that produces each.
 >
 > | Record heading in §8.1 | Produced in |
 > |------------------------|-------------|
@@ -96,7 +94,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guide (non-operative): certification status</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this chapter or in other chapters. [Part B §9.2](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) controls.
+> [Part B §9.2](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) controls.
 >
 > | | Provisional certification | Full certification |
 > |---|-------------------------|------------------|

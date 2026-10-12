@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-1** (*Scope, purpose, and legitimacy interface*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
@@ -14,8 +12,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Read next</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > **Read next**
 > - Label map, section registry, and institutions-only domain routing: [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md) (*Institutions domain routing (integrator annex)*).
 > - Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations).

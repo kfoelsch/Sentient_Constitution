@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-1** (*Scope, purpose, and boundary interface*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
@@ -15,8 +13,6 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): joint reading and Read next</span></strong></summary>
 
 <a id="operates-in-conjunction-with"></a>
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > **Joint reading.** CS families work together — typing, classification, stewardship, and the CS-5–CS-12 engineering families — and they read with joint-structure clusters and Chapter Five meanings. No CS family stands alone. Apply them so systems and data are judged by what they do, not by siloed labels.
 >
 > Family-specific Trace blocks and mandatory read-withs remain in each CS file. Cross-layer topic routing remains in **CJS-0.1**. Implementation-corpus gateway and shared contract remain in **CJS-1.0**, **CJS-1.1**, and **CJS-1.3**. Default reading stack: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations).

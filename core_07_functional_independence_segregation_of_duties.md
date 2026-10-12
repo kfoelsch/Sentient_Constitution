@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: the cross-process floor for functional independence and segregation of duties. It follows the Chapter Six Rights Floor and precedes the constitutional process chapters beginning with [Chapter Eight system alignment certification](core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
 >
 > - **Constitutional owner:** the distinct-seat floor for materially binding acts; the universal minimum contents of each [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; and the minimum independence conditions that every later constitutional process must apply.
@@ -86,8 +84,6 @@ This chapter states the cross-process segregation-of-duties floor. It does not r
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): four-seat map</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > **Reader map (non-operative).** This diagram shows the four seats and a typical record lifecycle. It does not add a fifth implementation seat, require review to finish before every action, or alter the operative rules in this section and §§3–6.
 
 </details>

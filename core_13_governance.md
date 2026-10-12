@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Thirteen**, the **Constitutional Contract Layer** — constitutional legitimacy and stewardship requirements for governing authority, distinct from **Stakeholder System Participation** in already-authorized systems ([Preamble](core_00_preamble.md#preamble--foundational-requirements)). Amendment and adoption validity controls continue in [Chapters Fourteen through Sixteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
@@ -13,14 +11,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where this chapter lives and what stays here</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
 > Where this lives (navigation):
 > - **Constitutional owner:** this chapter defines legitimacy and stewardship requirements for governing authority.
 > - **Implementation owner:** designated implementation layers provide procedural oversight mechanics, staffing design, operational controls, and designated institutional mechanics.
 > - **Anti-relocation rule:** constitutional legitimacy thresholds remain here; workflow detail belongs to owner layers.
 >
-> **Architecture — *In plain terms* placement:** Each *In plain terms* line uses the same layout as Chapter Six: it appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Where a subsection opens with lead-in sentences before a list (for example, **§§ 1.1–1.2** after the mechanism-family lead-in, section 3 before its **Chapter Five** stewardship-definition index bullets, and section 4.1 before its equality-floor bullets), the gloss sits immediately before the list or the block it most closely tracks. Reader-facing gloss only; it does not add, remove, or narrow binding text.
+> **Architecture — *In plain terms* placement:** Each *In plain terms* line uses the same layout as Chapter Six: it appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Where a subsection opens with lead-in sentences before a list (for example, **§§ 1.1–1.2** after the mechanism-family lead-in, section 3 before its **Chapter Five** stewardship-definition index bullets, and section 4.1 before its equality-floor bullets), the gloss sits immediately before the list or the block it most closely tracks. Reader-facing gloss only.
 
 </details>
 

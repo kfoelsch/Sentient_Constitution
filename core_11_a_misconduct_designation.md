@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eleven, Part A** — designation decision framework, criteria set, Violation Axis `s = 7–9` designation attachment, due-process safeguards, remedy, prevention locks, and voluntary public accountability expression. **Part B** — named pattern applications and criteria routing — is in [`core_11_b_misconduct_pattern_applications.md`](core_11_b_misconduct_pattern_applications.md#chapter-eleven-part-b-anti-constitutional-misconduct--pattern-applications).
 >
 > - **Constitutional owner (joint with Part B):** final anti-constitutional-misconduct designation for Violation Axis `s = 7`, `s = 8`, or `s = 9` findings. Part A owns the designation decision model; Part B routes named patterns into that model without adding criteria.
@@ -24,8 +22,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map and reading order</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > Under the [Continuity aim](core_00_preamble.md#continuity), designation review protects long-horizon constitutional operation when top-impact conduct threatens to hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — below [material stake](core_00_preamble.md#material-stake) requirements.
 >
 > **Cross-chapter map**

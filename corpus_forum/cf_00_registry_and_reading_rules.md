@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
->
 > **Edition and alignment**
 > - **Corpus edition and effective date:** inherit from [README.md](../README.md). Do not stamp a second edition in this annex.
 >

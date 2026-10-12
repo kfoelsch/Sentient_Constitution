@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
->
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part C** (§§16–20: stewardship, governance, incentive alignment and capture, and the integrated application capstone).
 >
 > **Upstream:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Chapter One, Part B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): principle hierarchy and reading arc (Part C)</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing at the point each § materially invokes a term; this block is a part-level crosswalk before §§16–20.
+> Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing at the point each § materially invokes a term; this block is a part-level crosswalk before §§16–20.
 
 **Principle hierarchy (Part C).** At principle layer:
 
@@ -163,7 +161,7 @@ Stewardship is the first line, not the only one. Three different questions have 
 
 - Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*Pillar 1*); [§16 Stewardship In Depth](#16-stewardship-in-depth) (parent, including *In plain terms* and Pillar 3 framing above); [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg ([Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Educational Agency](core_05_band_participation.md#educational-agency)); **oversight** leg ([Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability)); [material stake](core_00_preamble.md#material-stake) scaling.
-- Steward door (non-operative): Next-step card: [Comprehensibility](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). The card cannot narrow the Constitution.
+- Steward door (non-operative): Next-step card: [Comprehensibility](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - Downstream: [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); rights surface especially [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXIII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -368,7 +366,7 @@ The rest of this section covers the role itself.
 
 - Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role); [§16 Stewardship In Depth](#16-stewardship-in-depth); [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline).
 - Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Substrate Class](core_05_band_participation.md#substrate-class) (*substrate-agnostic application — this subsection binds duty-holders, including agents and operators who are not recognized sentients*); [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint); [Contestability](core_05_band_accountability.md#contestability); [§17.5 Duty to Resist](#175-duty-to-resist).
-- Steward door (non-operative): Next-step card: [Shared stewardship](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). The card cannot narrow the Constitution.
+- Steward door (non-operative): Next-step card: [Shared stewardship](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - Downstream: [§17.2 Alignment Under Pressure](#172-alignment-under-pressure); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Chapter Seventeen](core_17_incorporation.md) (*adopted implementation text implements; it does not replace*); [§19.1.3 Stewardship and Operator Application](#1913-stewardship-and-operator-application).
 
 </details>
@@ -576,7 +574,7 @@ The burden this duty places on a steward who carries consequential authority is 
 
 - Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role); [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*who the duty binds*); [§17.2 Alignment Under Pressure](#172-alignment-under-pressure) (*the cover instruction as a failed test*); [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint) and [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
-- Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). The card cannot narrow the Constitution.
+- Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - Downstream: [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 
 </details>
@@ -1054,7 +1052,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 - Downstream: [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency) and [§14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship**.
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights); especially [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIII-D: Incentive-Alignment Constraint](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [Article XV: Info-Sphere Integrity](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), and [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Steward door (non-operative): Next-step card: [Incentive alignment](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). The card cannot narrow the Constitution.
+- Steward door (non-operative): Next-step card: [Incentive alignment](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

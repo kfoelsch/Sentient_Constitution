@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-3 parts.
->
 > This file contains **CS-3, Part A** — purpose and scope, classification dimensions, criticality and concentration factors, **dependency types** (**Dep-A–P** reliance categories), boundaries / timeframes / resilience, domain taxonomy and scarce-capacity handling, and classification governance (**§§1–7**). **Part B** — system **impact** classifications (**Class A** through **Class P**), including aspect-comparative matrices and per-class cards — is in [`cs_03_b_system_impact_classifications.md`](cs_03_b_system_impact_classifications.md).
 
 </details>

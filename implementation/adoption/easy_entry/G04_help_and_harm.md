@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
->
 > **Pack edition:** `easy-entry-2026-09-12`
 > **Corpus edition pin:** `SC-Corpus-2026.08.09`
 > **Status:** current

@@ -3,7 +3,7 @@
 **Pack edition:** `lived-situations-2026-09-11`  
 **Corpus edition pin:** `SC-Corpus-2026.08.09`  
 **Status:** current  
-**This packet is not binding.** It does not add, remove, or narrow duties. Illustrative facts only.
+**This packet is not binding.** Illustrative facts only.
 
 This packet is not S04. Remy has no disability facts in the file. The live fight is that the challenge path itself cannot be found — hop count, a 404, and “read this Constitution first” — not an unusable workplace portal tied to access needs.
 
