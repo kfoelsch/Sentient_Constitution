@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [índice de leitura do Capítulo Sete em inglês](../../core_08_system_alignment_certification.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > O **Capítulo Sete** está dividido em dois arquivos vinculantes lidos como um só instrumento:

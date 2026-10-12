@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Penempatan dalam korpus (nonoperatif): struktur berkas dan aturan membaca</span></strong></summary>
 
-> Konten berikut **hanya panduan bagi pembaca**. Konten ini tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat di bagian lain berkas ini atau di bab lain.
->
 > Berkas ini **merupakan bagian dari Konstitusi Sentien** dan **mengikat hanya bersama-sama** dengan berkas bernomor `core_*` lainnya yang dibaca sebagai satu instrumen. Berkas ini memuat **Bab Satu, Bagian B** (§§13–15: Proses Penyelesaian Benturan Konstitusional, larangan pengesampingan mutlak, dan interpretasi konstitusional)—bagian yang menjaga Tetrad Konstitusional tetap utuh ketika prinsip-prinsip berbenturan dan ketika Konstitusi dibaca.
 >
 > **Sebelumnya:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Bab Satu, Bagian A — §§1–12, tujuan Pemekaran dan Kesinambungan)  
@@ -19,7 +17,7 @@
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> Konten berikut **hanya panduan bagi pembaca**. Konten ini tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat di bagian lain berkas ini atau di bab lain. Widget **Jejak** dan **Definisi · Penilaian · Kepatuhan** pada setiap bagian menyediakan tautan navigasi dan tautan O/M/A/C pada bagian yang secara material menggunakan suatu istilah. Sebaliknya, blok ini merupakan peta silang tingkat bab bagi pembaca yang menyelesaikan Bagian A.
+> Widget **Jejak** dan **Definisi · Penilaian · Kepatuhan** pada setiap bagian menyediakan tautan navigasi dan tautan O/M/A/C pada bagian yang secara material menggunakan suatu istilah. Sebaliknya, blok ini merupakan peta silang tingkat bab bagi pembaca yang menyelesaikan Bagian A.
 
 **Kosakata lapisan prinsip** (lokasi kanonis di Bab Satu (Bagian A dan B)):
 
@@ -49,7 +47,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (nonoperatif): cara Bagian B menjaga Tetrad Konstitusional tetap utuh</span></strong></summary>
 
-> Konten berikut **hanya panduan bagi pembaca**. Konten ini tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat di bagian lain berkas ini atau di bab lain. Widget **Jejak** pada tiap bagian menyebut komponen Tetrad yang dibahasnya; blok ini merupakan peta tingkat Bagian bagi pembaca yang memasuki Bagian B.
+> Widget **Jejak** pada tiap bagian menyebut komponen Tetrad yang dibahasnya; blok ini merupakan peta tingkat Bagian bagi pembaca yang memasuki Bagian B.
 
 **Fungsi Bagian B.** [Bagian A](core_01_a_values_principles.md) mengembangkan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims). Bagian B tidak menambahkan prinsip baru maupun kewajiban kelima. Bagian ini menjaga [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad)—**partisipasi**, **pengawasan**, **akuntabilitas**, dan **ketepatan waktu**, disesuaikan dengan [taruhan material](core_00_preamble.md#material-stake)—tetap utuh dalam tiga keadaan:
 

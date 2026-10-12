@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Posicionamento no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes em outras partes deste arquivo ou de outros capítulos.
->
 > Este arquivo **faz parte da Sentient Constitution** e é **vinculante somente em conjunto** com os demais arquivos numerados `core_*`, lidos como um único instrumento. Ele contém o **Capítulo Sete**: o piso transversal aos processos para independência funcional e separação de deveres. Ele vem após o Piso de Direitos do Capítulo Seis e antes dos capítulos de processos constitucionais iniciados pela [certificação de alinhamento do sistema do Capítulo Oito](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
 >
 > - **Titular constitucional:** o piso de assentos distintos para atos materialmente vinculantes; o conteúdo mínimo universal de cada [Registro de Ato Materialmente Vinculante](../../core_05_band_accountability.md#materially-binding-act-record); a independência em relação ao agente e à sua [Linha de Controle Material](../../core_05_band_accountability.md#material-control-line); a alocação publicada de vias e funções; conflitos, vacâncias, substituições e encaminhamento ao assento errado; hospedagem combinada proporcional; transferências atribuíveis; e as condições mínimas de independência que todo processo constitucional posterior deve aplicar.
@@ -86,8 +84,6 @@ Este capítulo estabelece o piso transversal aos processos para a separação de
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação ao leitor (não operativa): mapa dos quatro assentos</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes em outras partes deste capítulo ou de outros capítulos.
->
 > **Mapa do leitor (não operativo).** Este diagrama mostra os quatro assentos e um ciclo de vida típico de registro. Não acrescenta um quinto assento de implementação, não exige que a revisão termine antes de toda ação e não altera as regras operativas desta seção e dos §§3–6.
 
 </details>

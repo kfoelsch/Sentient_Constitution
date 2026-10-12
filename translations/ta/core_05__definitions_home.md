@@ -100,7 +100,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">அகரவரிசை அடைவு: வரையறைகளும் தொகுதிகளும்</span></strong></summary>
 
-> இந்த அடைவு **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்த அத்தியாயத்தில் பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, மறுவரிசைப்படுத்தவோ, சுருக்கவோ செய்யாது. செயல் பொருள் கீழே உள்ள வரையறை உள்ளீடுகளில் இருக்கிறது.
 
 இந்த அடைவு **வரையறைகள் A-Z** மற்றும் **தொகுதிகள் A-Z** தனியாகப் பட்டியலிடுகிறது. ஒவ்வொரு தெரியும் அத்தியாயம் ஐந்து வரையறைச் சிட்டையும் ஒருமுறை தோன்றும், ஒவ்வொரு எண்ணிடப்பட்ட தொகுதித் தலைப்பும் ஒருமுறை தோன்றும். இணைப்புகள் வழிசெலுத்தலுக்கு மட்டும் நிலையான நங்கூரங்களைப் பயன்படுத்துகின்றன; அவை வழிமாற்று விதிகள், சுட்டி உள்ளீடுகள், மாற்று இல்லங்கள், அல்லது முளை வரையறைகளை உருவாக்கா. சார்ந்த தொகுதிகளுக்கான கூட்டு-நிறைவேற்று விதிகள் மேலே [பிரிவு 2 — சார்ந்த-தொகுதி மீவிதிகள்](#2-dependent-cluster-meta-rules) கீழ் கூறப்படுகின்றன.
 
@@ -209,6 +208,7 @@
 - [வாய்ப்பு விளையாட்டு](../../core_05_band_accountability.md#game-of-chance)
 - [வாயில்](../../core_05_band_oversight.md#gate)
 - [வாயில் அளவுகோல்கள்](../../core_05_band_oversight.md#gate-criteria)
+- [தொடக்க நேரடி செயல்பாடு](../../core_05_band_continuity.md#go-live)
 - [நல்லெண்ணம்](../../core_05_band_accountability.md#good-faith)
 - [ஆட்சி](../../core_05_band_accountability.md#governance)
 - [படிநிலைத் திறன்](../../core_05_band_participation.md#graduated-capability)
@@ -230,7 +230,9 @@
 - [புத்தாக்க வெகுமதியும் அடைப்பு எதிர்ப்பும்](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [உள்ளார்ந்தோர் நன்மை](../../core_05_band_accountability.md#insider-advantage)
 - [உருவாக்கச் சம்மதம்](../../core_05_band_participation.md#instantiation-consent)
+- [நிறுவனம்](../../core_05_band_continuity.md#institution)
 - [நிறுவன மேம்பாடு](../../core_05_band_continuity.md#institutional-development)
+- [ஆர்வமுள்ள தரப்பு](../../core_05_band_accountability.md#interested-party)
 - [தலைமுறைகளுக்கு இடையிலான பொறுப்பு](../../core_05_band_continuity.md#intergenerational-responsibility)
 - [மீளமுடியாத பறிப்பு அளவீடு](../../core_05_band_accountability.md#irreversible-deprivation-measure)
 - [மீளமுடியாத தீங்கு](../../core_05_band_accountability.md#irreversible-harm)
@@ -274,10 +276,12 @@
 - [பங்கேற்பாளர் நிலைத்தடம்](../../core_05_band_accountability.md#participant-standing)
 - [பங்கேற்பு](../../core_05_apex_participation_leg.md#participation-constitutional)
 - [ஆளுமை](../../core_05_band_participation.md#personhood)
+- [முன்னோட்டத் திட்டம்](../../core_05_band_continuity.md#pilot)
 - [அச்சகமும் இதழியல் செயல்பாடும்](../../core_05_band_oversight.md#press-and-journalistic-activity)
 - [முதன்மை-பங்கு வழிமாற்றம்](../../core_05_band_accountability.md#primary-stakes-routing)
 - [தனியுரிமை (தகவல்)](../../core_05_band_continuity.md#privacy-informational)
 - [நடைமுறை நியாயம்](../../core_05_band_participation.md#procedural-fairness)
+- [செயல்முறை](../../core_05_band_continuity.md#process)
 - [உற்பத்தித் திறன்](../../core_05_band_continuity.md#productive-capacity)
 - [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality)
 - [விகிதாசார குறுக்கு-அமைப்பு ஆதரவு](../../core_05_band_continuity.md#proportionate-cross-system-support)

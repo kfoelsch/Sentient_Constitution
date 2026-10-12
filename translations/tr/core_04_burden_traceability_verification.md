@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce Dördüncü Bölüm](../../core_04_burden_traceability_verification.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Önceki (bu dil):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değil): Dördüncü Bölümün nerede yaşadığı ve burada neyin kaldığı</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu bölümde ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Nerede yaşar (gezinme):
 > - **Dörtlü haritası:** Yük tahsisi, kanıt, izlenebilirlik, gözlemlenebilirlik ve doğrulama, [Önsöz](core_00_preamble.md#chapter-00-preamble--foundational-requirements)de kurulan [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **gözetim** ve **hesap verebilirlik** bacaklarını işlemsel kılar; maddi olarak gerektiğinde **katılım**, **3** ve **4**. kesitler altında pratik gözlemlenebilirlik ve bağımsız itiraz yoluyla. Gerekler [maddi pay](core_00_preamble.md#material-stake) ile ölçeklenir.
 > - **Anayasal sahip:** yük tahsisi, uyum kanıtı, tanım izlenebilirliği, gözlemlenebilirlik ve güvenlik-kısıtlı doğrulama. **Sekizinci Bölüm** bu bölümle birlikte okunan güzergâh-kayıt ve doğrulanmış-girdi disiplinini sahiplenir.

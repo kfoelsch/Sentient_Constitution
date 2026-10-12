@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스에서의 위치(비운영): 파일 구조와 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 이 파일은 [영어 제10장, A부분](../../core_11_a_misconduct_designation.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제10장, A부분**을 담습니다 — 지정 결정 틀, 기준 집합, 위반 축 `s = 7–9` 지정 첨부, 적법절차 안전장치, 구제, 예방 잠금, 자발적 공적 책무 표현. **B부분** — 명명된 패턴 적용과 기준 라우팅 — 은 [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)에 있습니다.
@@ -33,8 +31,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비운영): 장 사이 지도와 읽기 순서</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > [연속 목적](core_00_preamble.md#continuity) 아래, 지정 검토는 최고영향 행위가 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여**, **감독**, **책무**, **적시성** — 을 [실질 이해관계](core_00_preamble.md#material-stake) 요건 아래로 비우겠다고 위협할 때, 긴 지평의 헌법 운영을 지킵니다.
 >
 > **장 사이 지도**

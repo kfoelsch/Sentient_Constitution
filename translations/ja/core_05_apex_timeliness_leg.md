@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス上の位置（非操作性）：ファイル構造と読み方</span></strong></summary>
 
-> 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
->
 > 本ファイルは[英語第五章、適時性の四元脚](../../core_05_apex_timeliness_leg.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_05_apex_timeliness_leg.md`](../../core_05_apex_timeliness_leg.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **前（本言語）：** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)

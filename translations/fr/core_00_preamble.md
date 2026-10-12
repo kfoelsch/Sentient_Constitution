@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Place dans le corpus (non opératoire) : structure du fichier et règles de lecture</span></strong></summary>
 
-> Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
+> Les widgets marqués **non opératoires** (place dans le corpus, guide de lecture, cartes de lecture) servent uniquement d’orientation. Ils n’ajoutent, ne retirent ni ne resserrent aucune obligation contraignante, dans leur propre fichier ou ailleurs.
 >
 > Ce fichier est un **pilote de langue de lecture** du [Préambule anglais](../../core_00_preamble.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_00_preamble.md`](../../core_00_preamble.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
 >
@@ -23,6 +23,45 @@ Un système ne peut rester légitime en faisant souffrir les êtres sentients lo
 La façon dont les systèmes sont conçus, testés et exploités doit soutenir la survie, le bien-être, la dignité, l’honnêteté et la stabilité durable.
 
 Nous entendons construire de meilleurs systèmes — structurés pour éliminer ces déséquilibres — et les remplacer par des institutions plus responsables, plus robustes et plus sensibles aux besoins réels de tous les êtres sentients. Cette Constitution commence ce travail par un meilleur modèle de la façon dont nous pouvons travailler ensemble avec justice, efficacité et de façon durable.
+
+<a id="what-systems-reward"></a>
+### Ce que récompensent les systèmes
+
+*En termes simples : un système obtient davantage de tout ce qu’il rémunère, qu’il s’agisse d’argent, de statut, d’accès, de protection ou de silence. Le critère d’un système n’est donc pas ce qu’il dit valoriser, mais ce qu’il récompense. Si nuire aux autres rapporte ou si dire la vérité coûte, le système échoue, aussi bonnes que soient ses finalités affichées.*
+
+Les systèmes enseignent. Chaque système, qu’il soit géré par des humains, par l’IA ou par les deux, indique à ceux qui y évoluent ce qui rapporte et ce qui coûte. Il le fait par les salaires, les promotions, le statut, l’accès, la protection, les objectifs, les évaluations et les signaux d’optimisation. Les êtres sentients, les institutions et les systèmes d’IA s’ajustent à ces signaux. Un système peut proclamer l’honnêteté et le souci des personnes qu’il affecte. S’il fait avancer ceux qui dissimulent les problèmes et en transfèrent le coût à autrui, il enseigne le contraire.
+
+<a id="two-fundamental-questions"></a>Cette Constitution pose donc à chaque système les [**Deux questions fondamentales**](#two-fundamental-questions) :
+
+1. **Récompense-t-il les comportements qui aident les êtres sentients à s’épanouir et à durer, à dire la vérité et à réparer les préjudices ?**
+2. **Récompense-t-il les comportements qui, sans justification, nuisent, induisent en erreur, excluent, retardent, gaspillent ou transfèrent les coûts à autrui ?**
+
+Un système ne réussit que si la réponse à la première est oui et à la seconde non. Répondre à l’une ne répond pas à l’autre, car un système peut récompenser les bons comportements tout en récompensant aussi les préjudices.
+
+**Première question :** le système échoue si l’un des actes suivants n’est pas récompensé ou est pénalisé, ouvertement ou discrètement :
+
+- signaler un problème de bonne foi ([Signalement protégé (lanceur d’alerte)](../../core_05_band_accountability.md#protected-reporting-whistleblowing))
+- contester une décision
+- refuser de participer à une faute ([Chapitre Un §17.5 Devoir de résister](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+
+La pénalité peut prendre la forme d’une mise à l’écart, de représailles ([Représailles contre les signalements protégés et entrave à l’accès](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)) ou d’un épuisement progressif.
+
+**Deuxième question :** le système échoue si l’un des actes suivants rapporte, ouvertement ou discrètement :
+
+- nuire
+- induire en erreur (y compris par dissimulation et fausse confiance)
+- exclure injustement
+- retarder
+- gaspiller
+- transférer injustement les coûts
+
+La récompense peut être une reconnaissance, une promotion, une protection, un crédit métrique ou le fait de fermer les yeux ([Chapitre Un §3.2.6 Ne pas récompenser les conduites anticonstitutionnelles](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+
+Aucune des deux questions n’exige de plaire à tout le monde. Le désaccord honnête, le signalement de bonne foi et le refus de participer à une faute ne sont pas antisociaux. Un système qui les traite ainsi inverse les choses. Ce ne sont pas non plus des tests de popularité. Cette Constitution fixe ses propres critères pour juger ce qui aide, nuit, est juste ou justifié : [**Épanouissement**](#flourishing) et [**Continuité**](#continuity), dans le cadre de la Sécurité, de la Vérité, de la Confiance et du Plancher de droits. Ces critères ne dépendent pas de ce qu’approuve une majorité, un opérateur ou le moment.
+
+Ces questions lient toute personne qui décide de ce qu’un système récompense ou pénalise. Cela comprend les opérateurs, institutions et intendants qui fixent les salaires, promotions, accès, objectifs et évaluations. Cela comprend aussi les concepteurs de systèmes qui entraînent ou optimisent l’IA, car leurs objectifs et signaux de rétroaction sont des récompenses en ce sens précis. Les intendants humains et ceux de l’IA relèvent de la même norme ([Chapitre Un §17.1 Norme d’intendance partagée](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+
+Le Chapitre Un transforme ces questions en règles d’incitation : [Chapitre Un §19.1.1 Ce que les incitations doivent faire](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) sous-tend la première, et [Chapitre Un §19.1.2 Ce que les incitations ne doivent pas faire](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) la seconde. Répondez en vérifiant ce qui se passe réellement, et non en vous fiant aux déclarations. [Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment) et [Divergence des indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) indiquent comment procéder, et l’[**enjeu matériel**](#material-stake) détermine le niveau d’examen. Les quatre devoirs de la section 1 maintiennent l’honnêteté des réponses.
 
 ### 1. Le modèle
 
@@ -53,7 +92,7 @@ On ne peut pas bien faire fonctionner les systèmes partagés sans les mesurer. 
 
 Nous avons besoin d’une mesure continue centrée sur ce qui importe le plus pour la survie et le bien-être sentients : si les systèmes dont nous dépendons soutiennent vraiment l’[**Épanouissement**](#flourishing) et la [**Continuité**](#continuity) dans le temps, avec un examen mis à l’échelle de l’[**enjeu matériel**](#material-stake) — combien d’impact, de dépendance et de risque sont en cause.
 
-La mesure dans cette Constitution pose une question pratique : les systèmes aident-ils vraiment les êtres sentients à s’épanouir et à durer, ou produisent-ils préjudice, retard, exclusion, gaspillage, dépendance cachée ou fausse confiance ? Les mesures ne sont pas des scores pour eux-mêmes — ce sont des outils pour assurer que nos sociétés partagées produisent des résultats durables, résilients et compatissants, alignés sur le bien-être sentient et la santé écologique de la Terre. Ce devoir prend forme contraignante par les [Deux fins constitutionnelles](#two-constitutional-aims) : **Épanouissement** et **Continuité**.
+La mesure au titre de cette Constitution pose les [**Deux questions fondamentales**](#two-fundamental-questions) à propos de ce que les systèmes font réellement, et non de ce qu’ils prétendent faire. Les mesures ne sont pas des scores pour eux-mêmes : ce sont des outils pour garantir des résultats durables, résilients et compatissants, alignés sur le bien-être des êtres sentients et la santé écologique de la Terre. Ce devoir prend une forme contraignante par les [Deux fins constitutionnelles](#two-constitutional-aims) : **Épanouissement** et **Continuité**.
 
 Les mesures doivent rester traçables jusqu’à ces fins et jusqu’aux protections de droits établies dans cette Constitution. Le débit brut, l’utilisation, les effectifs, les recettes, la latence ou d’autres substituts commodes ne peuvent pas remplacer la performance constitutionnelle là où la [divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence) est prévisible.
 

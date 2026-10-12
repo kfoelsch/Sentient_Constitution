@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [Capítulo Oito em inglês](../../core_09_standing_assessment.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > Introduz as três perguntas da cadeia de trajetória, responde a Pergunta 1 (*o que aconteceu?*) e responde a Pergunta 2 (*quão bom ou quão ruim foi?*). A Pergunta 3 (*o que acontece por causa disso?*) continua no [Capítulo Nove](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration), com revisão só de designação no [Capítulo Dez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) para achados qualificadores do Eixo de Infração `s` = 7–9.
@@ -21,8 +19,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): onde vive o Capítulo Oito e o que permanece aqui</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste capítulo nem em outros capítulos.
->
 > | Pergunta | Titular e papel |
 > | --- | --- |
 > | **1. O que aconteceu?** | Estabelecer fatos verificados num registro delimitado e impugnável. |
@@ -907,8 +903,6 @@ As tabelas de roteamento abaixo não são exaustivas. Toda definição, princíp
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): como a progressão de cinco vezes funciona</span></strong></summary>
 
-> Esta orientação ajuda quem lê a interpretar a escala. Não acrescenta, retira nem estreita obrigações vinculantes.
->
 > A escala usa uma progressão de cinco vezes ancorada em `s` = 7 = um LEQU. Para qualquer eixo, a magnitude mínima da vaga `s` é `5^(s−7)` LEQU para as vagas 2 a 9; a vaga 1 começa em zero. A implementação adotada pode publicar os limiares numéricos resultantes e exemplos de calibração. A vaga 1 inclui uma linha de base constitucional verificada no Eixo de Contribuição e perda verificada abaixo do primeiro limiar positivo no Eixo de Infração; ausência de contribuição ou ausência de infração não é em si um registro `s` = 1.
 >
 > **Âncora legível para humanos.** Usando um tempo de vida humano de 80 anos como exemplo de calibração, leia a coluna do meio para cima como benefício equivalente a vida plena, tempo usável ou recursos e capacidade consistentes com os direitos acrescentados; leia-a para baixo como perda, privação, desperdício ou preclusão equivalentes. A quantidade de recurso não conta por si — controla o resultado constitucional que produz ou impede.

@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Posição no corpus (não operativa): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes neste arquivo ou em outros capítulos.
->
 > Este arquivo **faz parte da Constituição Senciente** e só é **vinculante quando lido em conjunto** com os demais arquivos numerados `core_*`, como um único instrumento. Ele contém o **Capítulo Um, Parte C** (§§16–20: zeladoria, governança, alinhamento de incentivos e captura, e o capítulo de aplicação integrada).
 >
 > **Anterior:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Capítulo Um, Parte B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação ao leitor (não operativa): hierarquia de princípios e percurso de leitura (Parte C)</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes neste arquivo ou em outros capítulos. Os componentes de **Rastreamento** e **Definições · Avaliação · Conformidade** de cada seção indicam o encaminhamento quando um § invoca materialmente um termo; este bloco apresenta um quadro de referência para toda a parte antes dos §§16–20.
+> Os componentes de **Rastreamento** e **Definições · Avaliação · Conformidade** de cada seção indicam o encaminhamento quando um § invoca materialmente um termo; este bloco apresenta um quadro de referência para toda a parte antes dos §§16–20.
 
 **Hierarquia de princípios (Parte C).** No nível dos princípios:
 
@@ -162,7 +160,7 @@ A tutela é a primeira linha, não a única. Três perguntas diferentes têm tr�
 
 - Antecedentes: [§17 Tutela Consequencial](#17-consequential-stewardship-the-steward-role) (*Pilar 1*); [§16 Tutela em Profundidade](#16-stewardship-in-depth) (seção matriz, incluindo *Em termos simples* e o enquadramento do Pilar 3 acima); [5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Confiança](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Leia em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — componente de **participação** ([Agência Significativa](core_05_band_participation.md#meaningful-agency), [Agência Educacional](core_05_band_participation.md#educational-agency)); componente de **supervisão** ([Transparência](core_05_band_oversight.md#transparency), [Auditabilidade](core_05_band_oversight.md#auditability)); escala conforme o [interesse material](core_00_preamble.md#material-stake).
-- Porta de entrada para responsáveis pela tutela (não operativa): cartão de próxima etapa: [Compreensibilidade](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). O cartão não pode restringir a Constituição.
+- Porta de entrada para responsáveis pela tutela (não operativa): cartão de próxima etapa: [Compreensibilidade](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - Desdobramentos: [13.2 Restrições à Divulgação Epistêmica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); âmbito de direitos, especialmente [Artigo XVI: Auditoria, Transparência e Verificação Independente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artigo XXII: Compreensibilidade e Tutela da Complexidade](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ O restante desta seção trata do próprio papel.
 
 - Referências anteriores: [§17 Stewardship com consequências significativas](#17-consequential-stewardship-the-steward-role); [§16 Stewardship em Profundidade](#16-stewardship-in-depth); [§18 Governança sob a Disciplina de Stewardship](#18-governance-under-stewardship-discipline).
 - Leia em conjunto com: [Não Exclusão por Senciência](core_05_band_participation.md#sentience-non-exclusion) e [Classe de Substrato](core_05_band_participation.md#substrate-class) (*aplicação independente do substrato — este subtópico vincula titulares de deveres, inclusive agentes e operadores que não são reconhecidos como sencientes*); [Hierarquia de Autoridade e Hierarquia Interna](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Restrição Constitucional](core_05_band_integrative.md#constitutional-constraint); [Contestabilidade](core_05_band_accountability.md#contestability); [§17.5 Dever de Resistir](#175-duty-to-resist).
-- Porta de entrada para stewards (não operativa): cartão de próxima etapa [Stewardship compartilhado](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). O cartão não pode restringir a Constituição.
+- Porta de entrada para stewards (não operativa): cartão de próxima etapa [Stewardship compartilhado](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - Aplicações posteriores: [§17.2 Alinhamento sob Pressão](#172-alignment-under-pressure); [§17.3 Registro do Papel, não do Steward](#173-logging-the-role-not-the-steward); [Capítulo Treze §5 — Funções Autorizadas, Desenvolvimento de Competência e Contribuição](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Capítulo Dezessete](core_17_incorporation.md) (*o texto de implementação adotado implementa as regras; não as substitui*); [§19.1.3 Aplicação do Stewardship e da Operação](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ O ônus que esse dever impõe a um steward com autoridade de consequências sign
 
 - Antecedentes: [§17 Tutela Consequencial](#17-consequential-stewardship-the-steward-role); [§17.1 Padrão Compartilhado de Tutela](#171-shared-stewardship-standard) (*a quem o dever vincula*); [§17.2 Alinhamento sob Pressão](#172-alignment-under-pressure) (*a instrução de cobertura como teste fracassado*); [4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint) e [5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Leia com: [Hierarquia de Autoridade e Hierarquia Interna](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Denúncia Protegida (Denúncia de Irregularidades)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Artigo XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Padrão Básico de Confiabilidade e Merecimento de Confiança*) — as vias de contestação permanecem abertas durante a resistência.
-- Porta de entrada para tutores (não operativa): cartão de próxima etapa: [Instrução ilegal](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). O cartão não pode restringir a Constituição.
+- Porta de entrada para tutores (não operativa): cartão de próxima etapa: [Instrução ilegal](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - Desdobramentos: [Capítulo Dez §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Dever de resistir — regra de violação e efeitos sobre o status*); [CS-4 §10 ação inspecionável e atribuível](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Ação inspecionável e atribuível — registro mínimo da recusa*).
 
 </details>
@@ -1002,7 +1000,7 @@ Este princípio vincula igualmente tutores humanos e de IA nos termos do [§17.1
 - Desdobramentos: [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§14 Proibição de Sobreposição Absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Desdobramentos: [§13.3 Minimização do Ônus Evitável](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Capítulo Treze §5 — Funções Autorizadas, Desenvolvimento de Competências e Contribuição](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Tutela de sistemas críticos**.
 - Desdobramentos: afeta a superfície de direitos relativa a agência, participação, alinhamento de incentivos, integridade da esfera informacional, status e revisão anticaptura em todo o [Capítulo Seis: Direitos Fundamentais](core_06_rights_part_a.md#chapter-six-foundational-rights); especialmente o [Artigo X: Autodeterminação, Agência e Participação](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), o [Artigo XII: Participação no Sistema de Partes Interessadas, Representação e Devido Processo](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), o [Artigo XIII-D: Restrição de Alinhamento de Incentivos](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), o [Artigo XV: Integridade da Esfera Informacional](core_06_rights_part_c.md#article-xv-info-sphere-integrity), o [Artigo XIX: Status e Situação de Participação](core_06_rights_part_d.md#article-xix-standing-and-participation-status) e o [Artigo XXIV: Interpretação Constitucional, Revisão e Salvaguardas Anticaptura](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Porta de entrada para tutores (não operativa): cartão de próxima etapa: [Alinhamento de incentivos](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). O cartão não pode restringir a Constituição.
+- Porta de entrada para tutores (não operativa): cartão de próxima etapa: [Alinhamento de incentivos](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

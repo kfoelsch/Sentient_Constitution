@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > 本文件是[英语第五章 A 部分](../../core_05__definitions_home.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_05__definitions_home.md`](../../core_05__definitions_home.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > **上一篇（本语种）：** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：阅读顺序与直白语言说明</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本章或其他章节中有约束力的义务。
->
 > 直白阅读说明：先读**第一章**以把握高层价值与方向；读**第二至四章**以把握定义结构、完整性与核验机制；读**第六章**以把握基础**权利**底线，然后再回到本章，求解释、审计与裁决中的用语精度。（其他章节，包括**第十章** *不当行为* 与**第八章** *轨迹*，走各自的阅读路径；它们不能替代第六章的权利底线，也不能替代第二至四章的定义机制。）
 
 </details>
@@ -100,7 +96,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">字母目录：定义与簇</span></strong></summary>
 
-> 本目录**仅为读者指引**。不增加、减少、重排或收窄本章中有约束力的义务。操作性含义仍在下面的定义条目中。
 
 本目录分开列出**定义 A-Z**与**簇 A-Z**。第五章每一项可见定义标签出现一次，每一个编号簇标题出现一次。链接仅使用稳定锚点供导航；它们不创造路由规则、指针条目、替代家园或桩定义。依赖簇的联合满足规则，陈述于上文[第 2 节 — 依赖簇元规则](#2-dependent-cluster-meta-rules)。
 
@@ -212,6 +207,7 @@
 - [机会博弈](../../core_05_band_accountability.md#game-of-chance)
 - [门槛](../../core_05_band_oversight.md#gate)
 - [门槛标准](../../core_05_band_oversight.md#gate-criteria)
+- [上线](../../core_05_band_continuity.md#go-live)
 - [善意](../../core_05_band_accountability.md#good-faith)
 - [治理](../../core_05_band_accountability.md#governance)
 - [分级能力](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -233,7 +229,9 @@
 - [创新奖赏与反圈占](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [内部人优势](../../core_05_band_accountability.md#insider-advantage)
 - [实例化同意](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [机构](../../core_05_band_continuity.md#institution)
 - [制度发展](../../core_05_band_continuity.md#institutional-development)
+- [利害关系方](../../core_05_band_accountability.md#interested-party)
 - [代际责任](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [不可逆剥夺度量](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [不可逆伤害](../../core_05_band_accountability.md#irreversible-harm)
@@ -278,10 +276,12 @@
 - [参与者轨迹](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [参与](core_05_apex_participation_leg.md#participation-constitutional)
 - [人格](../../core_05_band_participation.md#personhood)
+- [试点项目](../../core_05_band_continuity.md#pilot)
 - [出版与新闻活动](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [首要利害路由](../../core_05_band_accountability.md#primary-stakes-routing)
 - [隐私（信息）](../../core_05_band_continuity.md#privacy-informational)
 - [程序公平](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [流程](../../core_05_band_continuity.md#process)
 - [生产能力](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [相称性](../../core_05_band_accountability.md#proportionality)
 - [相称跨系统贡献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -442,8 +442,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：序言测量对照</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本章或其他章节中有约束力的义务。
->
 > [序言 §2](core_00_preamble.md#measurements-overview)列出七个宪法**测量类别** — 运营者在评价系统时提出的问题。第五章按四元腿、**延续**宗旨与**整合**跨腿主责组织**典范定义**。下表把每个测量类别映射到其第五章家园。一个类别可以跨越不止一个带文件；当测量类别重叠时，典范家园并不移动。
 >
 > **实质性**（[实质性认定](../../core_05_band_oversight.md#materiality-determination)）是整合性的 — 一道横断的阈值门，在[实质利害](core_00_preamble.md#material-stake)下缩放全部测量族；它不是下表中的单独类别。

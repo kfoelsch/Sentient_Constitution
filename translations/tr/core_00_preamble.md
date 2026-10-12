@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
+> İşlemsel olmadığı belirtilen bileşenler (corpus konumu, okur rehberi ve okur haritaları) yalnızca yönlendirme amaçlıdır. Kendi dosyalarında ya da başka herhangi bir dosyada bağlayıcı yükümlülük eklemez, çıkarmaz veya daraltmazlar.
 >
 > Bu dosya, [İngilizce Önsöz](../../core_00_preamble.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_00_preamble.md`](../../core_00_preamble.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
@@ -23,6 +23,45 @@ Bir sistem, o acı önlenebilirken algılayanları acı çektirerek, yinelenen s
 Sistemlerin nasıl tasarlandığı, denendiği ve işletildiği hayatta kalmayı, esenliği, onuru, dürüstlüğü ve kalıcı istikrarı desteklemelidir.
 
 Daha iyi sistemler kurmayı — bu dengesizlikleri ortadan kaldıracak biçimde yapılandırılmış — ve bunları tüm algılayanların gerçek ihtiyaçlarına daha hesap verebilir, daha sağlam ve daha duyarlı kurumlarla değiştirmeyi amaçlıyoruz. Bu Anayasa o işe, birlikte adil, etkili ve sürdürülebilir biçimde nasıl çalışabileceğimize dair daha iyi bir modelle başlar.
+
+<a id="what-systems-reward"></a>
+### Sistemler Neyi Ödüllendirir
+
+*Yalın dille: Bir sistem neye para, statü, erişim, koruma ya da sessizlik sağlıyorsa ondan daha fazlasını alır. Bu yüzden sistemin sınaması, değer verdiğini söylediği şey değil, ödüllendirdiği şeydir. Başkalarına zarar vermek kazandırıyor ya da doğruyu söylemek bedel getiriyorsa, belirtilen amaçları ne kadar iyi olursa olsun sistem başarısızdır.*
+
+Sistemler öğretir. İnsanlar, AI ya da her ikisi tarafından işletilen her sistem, içindekilere neyin kazandırdığını ve neyin bedel getirdiğini anlatır. Bunu ücret, terfi, statü, erişim, koruma, hedefler, puanlamalar ve optimizasyon sinyalleriyle yapar. Sentientler, kurumlar ve AI sistemleri bu sinyallere uyum sağlar. Bir sistem dürüstlüğü ve etkilediği kişileri gözetmeyi savunabilir. Sorunları gizleyen ve maliyeti başkalarına aktaranları ilerletiyorsa, tersini öğretiyor demektir.
+
+<a id="two-fundamental-questions"></a>Bu nedenle Anayasa her sisteme [**İki Temel Soruyu**](#two-fundamental-questions) yöneltir:
+
+1. **Sentientlerin gelişmesine ve dayanmasına, doğruyu söylemesine ve zararı onarmasına yardımcı olan davranışları ödüllendiriyor mu?**
+2. **Haklı bir neden olmaksızın zarar veren, yanıltan, dışlayan, geciktiren, israf eden ya da maliyeti başkalarına aktaran davranışları ödüllendiriyor mu?**
+
+Bir sistem ancak ilk sorunun yanıtı evet, ikincinin yanıtı hayırsa geçer. Birine verilen yanıt diğerini yanıtlamaz; sistem iyi davranışın yanı sıra zararı da ödüllendirebilir.
+
+**Birinci soru:** Aşağıdakilerden herhangi biri açıkça ya da sessizce ödüllendirilmez veya cezalandırılırsa sistem bu soruda başarısızdır:
+
+- iyi niyetle sorun bildirmek ([Korunan Bildirim (İhbar)](../../core_05_band_accountability.md#protected-reporting-whistleblowing))
+- bir karara itiraz etmek
+- suça ortak olmayı reddetmek ([Birinci Bölüm §17.5 Direnme Görevi](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+
+Ceza; kenara itme, misilleme ([Korunan Bildirime Misilleme ve Erişime Müdahale](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)) veya yıldırıp yıpratma olabilir.
+
+**İkinci soru:** Aşağıdakilerden herhangi biri açıkça ya da sessizce ödüllendirilirse sistem bu soruda başarısızdır:
+
+- zarar
+- yanıltma (gizleme ve sahte güven dâhil)
+- haksız dışlama
+- gecikme
+- israf
+- maliyetin haksız biçimde aktarılması
+
+Ödül; tanınma, ilerleme, koruma, ölçüt kredisi ya da görmezden gelme olabilir ([Birinci Bölüm §3.2.6 Anayasaya Aykırı Davranışı Ödüllendirmeme](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+
+Bu sorular herkesten uyumlu olmasını istemez. Dürüst muhalefet, iyi niyetli bildirim ve suça katılmayı reddetmek toplum karşıtı değildir; bunları öyle gören sistem tersini yapıyordur. Sorular popülerlik testi de değildir. Yardımın, zararın, adaletin veya haklılığın ölçüsü bu Anayasanın kendi standartlarıdır: [**Gelişim**](#flourishing) ve [**Süreklilik**](#continuity); Güvenlik, Doğruluk, Güven ve Haklar Tabanı içinde. Çoğunluğun, operatörün ya da anın onayı bunların yerini alamaz.
+
+Sorular, bir sistemin neyi ödüllendirip cezalandıracağına karar veren herkesi bağlar. Ücreti, terfiyi, erişimi, hedefleri ve puanlamayı belirleyen operatörler, kurumlar ve sorumlular buna dâhildir. AI'ı eğiten veya optimize eden sistemlerin tasarımcıları da buna dâhildir; amaçları ve geri bildirim sinyalleri tam da bu anlamda ödüldür. İnsan ve AI sorumlular aynı standarda tabidir ([Birinci Bölüm §17.1 Ortak Sorumluluk Standardı](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+
+Birinci Bölüm bu soruları teşvik kurallarına dönüştürür: [§19.1.1 Teşviklerin Yapması Gerekenler](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) ilk sorunun, [§19.1.2 Teşviklerin Yapmaması Gerekenler](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) ikincinin temelidir. Söylenene inanmak yerine gerçekte ne olduğunu denetleyerek yanıtlayın. [Teşvik Uyumu](../../core_05_band_integrative.md#incentive-alignment) ve [Vekil Sapması](../../core_05_band_oversight.md#proxy-divergence) yöntemi açıklar; [**maddi menfaat**](#material-stake) ne kadar derine bakılacağını belirler. Bölüm 1'deki dört görev, yanıtların dürüst kalmasını sağlar.
 
 ### 1. Model
 
@@ -53,7 +92,7 @@ Paylaşılan sistemleri ölçmeden iyi çalışır durumda tutamazsınız. Gıda
 
 Algılayan hayatta kalması ve esenliği için en çok önemli olana odaklanan süregelen ölçüme ihtiyacımız var: bağımlı olduğumuz sistemlerin zaman içinde gerçekten [**Gelişim**](#flourishing) ve [**Süreklilik**](#continuity)i destekleyip desteklemediği, [**maddi pay**](#material-stake)a — ne kadar etki, bağımlılık ve riskin söz konusu olduğuna — ölçeklenmiş inceleme ile.
 
-Bu Anayasada ölçüm pratik bir soru sorar: sistemler algılayanların gelişmesine ve dayanmasına gerçekten yardım mı ediyor, yoksa zarar, gecikme, dışlama, israf, gizli bağımlılık ya da sahte güven mi üretiyor? Ölçümler kendi başına puan değildir — paylaşılan toplumlarımızın algılayan esenliği ve Dünya'nın ekolojik sağlığıyla hizalı sürdürülebilir, dayanıklı ve şefkatli sonuçlar üretmesini sağlayan araçlardır. Bu ödev bağlayıcı biçimini [İki Anayasal Amaç](#two-constitutional-aims) üzerinden alır: **Gelişim** ve **Süreklilik**.
+Bu Anayasa kapsamındaki ölçüm, sistemlerin iddialarını değil gerçekte yaptıklarını [**İki Temel Soru**](#two-fundamental-questions) ile sınar. Ölçümler kendi başına puan değildir; sentientlerin esenliğine ve Dünya’nın ekolojik sağlığına uyumlu, sürdürülebilir, dirençli ve şefkatli sonuçlar sağlamanın araçlarıdır. Bu görev [İki Anayasal Amaç](#two-constitutional-aims) aracılığıyla bağlayıcı biçim kazanır: **Gelişim** ve **Süreklilik**.
 
 Ölçümler bu amaçlara ve bu Anayasada kurulan hak korumalarına izlenebilir kalmalıdır. Ham çıktı, kullanım, kadro, gelir, gecikme ya da diğer elverişli vekiller, [Vekil sapması](../../core_05_band_oversight.md#proxy-divergence) öngörülebilir olduğunda anayasal performansın yerine geçemez.
 

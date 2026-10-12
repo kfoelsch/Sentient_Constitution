@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Lima, tujuan Kesinambungan bahasa Inggris](../../core_05_apex_continuity_aim.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_05_apex_continuity_aim.md`](../../core_05_apex_continuity_aim.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > **Sebelumnya (lokal ini):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)

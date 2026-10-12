@@ -4,8 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">موضع الملف في المتن (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
->
+> لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 > هذا الملف **تجريب بلغة القارئ** لـ[الفصل الخامس، الجزء أ بالإنجليزية](../../core_05__definitions_home.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_05__definitions_home.md`](../../core_05__definitions_home.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > **السابق (هذه اللغة):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">توجيه للقارئ (غير تشغيلي): ترتيب القراءة وملاحظة اللغة البسيطة</span></strong></summary>
 
-> المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الفصل أو في فصول أخرى.
->
+> لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الفصل أو في فصول أخرى.
 > ملاحظة قراءة بلغة بسيطة: اقرأ **الفصل الأول** للقيم والاتجاه عالي المستوى؛ و**الفصول من الثاني إلى الرابع** لبنية التعريفات والسلامة وميكانيكا التحقق؛ و**الفصل السادس** لأرضية **الحقوق** التأسيسية، ثم عُد إلى هذا الفصل لدقة المصطلحات في التفسير والتدقيق والبتّ. (فصول أخرى، ومنها **الفصل العاشر** *سوء السلوك* و**الفصل الثامن** *الوضعية*، تنطبق على مسارات قراءتها الخاصة؛ وهي ليست بديلًا عن أرضية الحقوق في الفصل السادس ولا عن ميكانيكا التعريفات في الفصول من الثاني إلى الرابع.)
 
 </details>
@@ -212,6 +210,7 @@
 - [لعبة الحظ](../../core_05_band_accountability.md#game-of-chance)
 - [البوابة](../../core_05_band_oversight.md#gate)
 - [معايير البوابة](../../core_05_band_oversight.md#gate-criteria)
+- [بدء التشغيل](../../core_05_band_continuity.md#go-live)
 - [حسن النية](../../core_05_band_accountability.md#good-faith)
 - [الحوكمة](../../core_05_band_accountability.md#governance)
 - [القدرة المتدرجة](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -232,7 +231,9 @@
 - [مقعد المبادرة](../../core_05_band_accountability.md#initiating-seat)
 - [مكافأة الابتكار ومنع الإغلاق](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [ميزة المطلع](../../core_05_band_accountability.md#insider-advantage)
+- [مؤسسة](../../core_05_band_continuity.md#institution)
 - [موافقة الاستحداث](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [الطرف المعني](../../core_05_band_accountability.md#interested-party)
 - [التطور المؤسسي](../../core_05_band_continuity.md#institutional-development)
 - [المسؤولية بين الأجيال](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [مقياس الحرمان غير القابل للعكس](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
@@ -278,10 +279,12 @@
 - [وضعية المشارك](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [المشاركة](core_05_apex_participation_leg.md#participation-constitutional)
 - [الشخصية](../../core_05_band_participation.md#personhood)
+- [مشروع تجريبي](../../core_05_band_continuity.md#pilot)
 - [الصحافة والنشاط الصحفي](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [توجيه الرهانات الأولية](../../core_05_band_accountability.md#primary-stakes-routing)
 - [الخصوصية (معلوماتية)](../../core_05_band_continuity.md#privacy-informational)
 - [الإنصاف الإجرائي](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [العملية](../../core_05_band_continuity.md#process)
 - [القدرة الإنتاجية](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [التناسب](../../core_05_band_accountability.md#proportionality)
 - [الإسهام المتناسب عبر الأنظمة](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -442,8 +445,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">توجيه للقارئ (غير تشغيلي): معبر قياسات الديباجة</span></strong></summary>
 
-> المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الفصل أو في فصول أخرى.
->
+> لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الفصل أو في فصول أخرى.
 > تسرد [الديباجة §2](core_00_preamble.md#measurements-overview) سبع **فئات قياس** دستورية — الأسئلة التي يطرحها من يشغّلون الأنظمة عند تقييمها. ينظّم الفصل الخامس **التعريفات القانونية** بحسب رجل الرباعية ومقصد **الاستمرارية** والملكية **التكاملية** العابرة للأرجل. يربط الجدول أدناه كل فئة قياس بمواطنها في الفصل الخامس. يجوز لفئة أن تمتد عبر أكثر من ملف نطاق؛ ولا تنتقل المواطن القانونية حين تتداخل فئات القياس.
 >
 > **الأهمية المادية** ([تحديد الأهمية المادية](../../core_05_band_oversight.md#materiality-determination)) تكاملية — بوابة عتبة عابرة تُقاس بها جميع أسر القياس تحت [الرهان المادي](core_00_preamble.md#material-stake)؛ وهي ليست فئة منفصلة في الجدول أدناه.

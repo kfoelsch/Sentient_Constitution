@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">موضع المتن (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> المحتوى التالي **إرشادات للقراء فحسب**. ولا يضيف الالتزامات الملزمة الواردة في مواضع أخرى من هذا الملف أو في فصول أخرى، ولا يلغيها أو يضيّق نطاقها.
->
 > هذا الملف **جزء من دستور الكائنات الواعية**، ولا يكون ملزماً إلا بالاقتران مع ملفات `core_*` المرقمة الأخرى التي تُقرأ بوصفها وثيقة واحدة. وهو يتضمن **الفصل الأول، الجزء ج** (§§16–20: الرعاية والحوكمة ومواءمة الحوافز والاستحواذ والتطبيق التكاملي الختامي).
 >
 > **السابق:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (الفصل الأول، الجزء ب)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">إرشادات للقراء (غير تشغيلية): تراتبية المبادئ ومسار القراءة (الجزء ج)</span></strong></summary>
 
-> المحتوى التالي **إرشادات للقراء فحسب**. ولا يضيف الالتزامات الملزمة الواردة في مواضع أخرى من هذا الملف أو في فصول أخرى، ولا يلغيها أو يضيّق نطاقها. وتوفر أدوات **التتبّع** و**التعريفات · التقييم · الامتثال** لكل قسم توجيهاً عند الموضع الذي يستدعي فيه القسم مصطلحاً استدعاءً جوهرياً؛ أما هذه الكتلة فهي خريطة تقاطعية على مستوى الجزء قبل §§16–20.
+> وتوفر أدوات **التتبّع** و**التعريفات · التقييم · الامتثال** لكل قسم توجيهاً عند الموضع الذي يستدعي فيه القسم مصطلحاً استدعاءً جوهرياً؛ أما هذه الكتلة فهي خريطة تقاطعية على مستوى الجزء قبل §§16–20.
 
 **تراتبية المبادئ (الجزء ج).** على مستوى المبادئ:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - من المنبع: [§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role) (*الركيزة 1*)؛ [§16 التعمق في الرعاية](#16-stewardship-in-depth) (القسم الأم، بما فيه فقرة *بعبارات بسيطة* وإطار الركيزة 3 أعلاه)؛ [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)؛ [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** ([الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency)، [الفاعلية التعليمية](core_05_band_participation.md#educational-agency))؛ ضلع **الرقابة** ([الشفافية](core_05_band_oversight.md#transparency)، [قابلية التدقيق](core_05_band_oversight.md#auditability))؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake).
-- مدخل الرعاية (غير تشغيلي): بطاقة الخطوة التالية: [قابلية الفهم](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). لا يجوز للبطاقة تضييق نطاق الدستور.
+- مدخل الرعاية (غير تشغيلي): بطاقة الخطوة التالية: [قابلية الفهم](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - إلى المصب: [13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)؛ وضمن نطاق الحقوق خصوصًا [المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، و[المادة XXII: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - من المنبع: [§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role)؛ [§16 التعمق في الرعاية](#16-stewardship-in-depth)؛ [§18 الحوكمة تحت انضباط الرعاية](#18-governance-under-stewardship-discipline).
 - يُقرأ مع: [عدم استبعاد الكائنات الواعية](core_05_band_participation.md#sentience-non-exclusion) و[فئة الأساس](core_05_band_participation.md#substrate-class) (*تطبيق لا يتوقف على الأساس — يُلزم هذا القسم أصحاب الواجب، ومنهم الوكلاء والمشغلون الذين لا يُعترف بهم ككائنات واعية*)؛ [تدرج السلطة والهرمية الداخلية](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [القيد الدستوري](core_05_band_integrative.md#constitutional-constraint)؛ [قابلية الاعتراض](core_05_band_accountability.md#contestability)؛ [§17.5 واجب المقاومة](#175-duty-to-resist).
-- مدخل القائم بالرعاية (غير تشغيلي): بطاقة الخطوة التالية: [الرعاية المشتركة](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). لا يجوز للبطاقة تضييق الدستور.
+- مدخل القائم بالرعاية (غير تشغيلي): بطاقة الخطوة التالية: [الرعاية المشتركة](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - إلى المصب: [§17.2 الاتساق تحت الضغط](#172-alignment-under-pressure)؛ [§17.3 تسجيل الدور لا القائم بالرعاية](#173-logging-the-role-not-the-steward)؛ [الفصل الثالث عشر §5 — الأدوار المخولة وتطوير الكفاءة والمساهمة](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [الفصل السابع عشر](core_17_incorporation.md) (*ينفذ نص التنفيذ المعتمد هذا المعيار ولا يحل محله*)؛ [§19.1.3 تطبيق الرعاية على المشغلين](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - سابقًا: [§17 الإشراف ذو العواقب](#17-consequential-stewardship-the-steward-role)؛ [§17.1 معيار الإشراف المشترك](#171-shared-stewardship-standard) (*من يلزمه الواجب*)؛ [§17.2 المواءمة تحت الضغط](#172-alignment-under-pressure) (*تعليمات التستر بوصفها اختبارًا فاشلًا*)؛ [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint) و[5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - يُقرأ مع: [تسلسل السلطات والتراتبية الداخلية](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [الإبلاغ المحمي (كشف المخالفات)](core_05_band_accountability.md#protected-reporting-whistleblowing)؛ [المادة XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*خط أساس الموثوقية والجدارة بالثقة*) — تظل مسارات الاعتراض مفتوحة أثناء المقاومة.
-- مدخل الأمين (غير تشغيلي): بطاقة الخطوة التالية: [تعليمات غير قانونية](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). لا يجوز للبطاقة تضييق الدستور.
+- مدخل الأمين (غير تشغيلي): بطاقة الخطوة التالية: [تعليمات غير قانونية](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - لاحقًا: [الفصل العاشر §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*واجب المقاومة — قاعدة الانتهاك وآثار المكانة*)؛ [CS-4 §10 الفعل المنسوب القابل للفحص](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*فعل قابل للفحص والإسناد — الحد الأدنى لسجل الرفض*).
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - الأساس اللاحق: [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency) و[§14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - الأساس اللاحق: [§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)؛ [الفصل الثالث عشر §5 — الأدوار المفوضة وتنمية الكفاءة والمساهمة](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](corpus_systems.md)، CS-4 — الرعاية المسؤولة للأنظمة الحرجة**.
 - الأساس اللاحق: يستهدف نطاق الحقوق المتعلق بالفاعلية والمشاركة ومواءمة الحوافز ونزاهة مجال المعلومات وstanding ومراجعة منع التسخير عبر [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#chapter-six-foundational-rights)؛ ولا سيما [المادة X: تقرير المصير والفاعلية والمشاركة](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، و[المادة XII: مشاركة أصحاب المصلحة في الأنظمة والتمثيل والإجراءات القانونية الواجبة](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)، و[المادة XIII-D: قيد مواءمة الحوافز](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)، و[المادة XV: نزاهة مجال المعلومات](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XIX: standing وحالة المشاركة](core_06_rights_part_d.md#article-xix-standing-and-participation-status)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع التسخير](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- مدخل المشرف (غير تشغيلي): بطاقة الخطوة التالية: [مواءمة الحوافز](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). لا يجوز للبطاقة تضييق الدستور.
+- مدخل المشرف (غير تشغيلي): بطاقة الخطوة التالية: [مواءمة الحوافز](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

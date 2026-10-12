@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">语料库位置（不具操作效力）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。它不会增添、删除或缩小本文件或其他章节中的任何约束性义务。
->
 > 本文件是**《感知者宪章》的一部分**，只有与其他编号的 `core_*` 文件作为同一文本一并阅读时才具有约束力。本文件包含**第一章 C 部分**（§§16–20：受托管理、治理、激励协调与俘获，以及综合应用总结）。
 >
 > **上游：** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)（第一章 B 部分）  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（不具操作效力）：原则层级与阅读脉络（C 部分）</span></strong></summary>
 
-> 以下内容**仅为读者指引**。它不会增添、删除或缩小本文件或其他章节中的任何约束性义务。各节中的**追踪**及**定义 · 评估 · 合规**组件，会在每个 § 实质性援引某术语时提供定位；本段则是在 §§16–20 之前提供的部分级交叉索引。
+> 各节中的**追踪**及**定义 · 评估 · 合规**组件，会在每个 § 实质性援引某术语时提供定位；本段则是在 §§16–20 之前提供的部分级交叉索引。
 
 **原则层级（C 部分）。**在原则层面：
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - 上游依据：[§17 后果导向的治理](#17-consequential-stewardship-the-steward-role)（*支柱 1*）；[§16 深入治理](#16-stewardship-in-depth)（上位章节，包括上文的*简言之*及支柱 3 的框架）；[5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)；[6. 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)。
 - 搭配阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad)——**参与**支柱（[实质性自主能力](core_05_band_participation.md#meaningful-agency)、[教育自主能力](core_05_band_participation.md#educational-agency)）；**监督**支柱（[透明度](core_05_band_oversight.md#transparency)、[可审计性](core_05_band_oversight.md#auditability)）；按[实质利益](core_00_preamble.md#material-stake)调整规模。
-- 治理者入口（非操作性）：下一步卡片：[可理解性](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility)。该卡片不能缩小宪法的适用范围。
+- 治理者入口（非操作性）：下一步卡片：[可理解性](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - 下游依据：[13.2 认知披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)；权利范围，尤其是[第十六条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第二十二条：可理解性与复杂性治理](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)。
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - 上游依据：[§17 后果导向的治理](#17-consequential-stewardship-the-steward-role)；[§16 深入治理](#16-stewardship-in-depth)；[§18 受托管纪律约束的治理](#18-governance-under-stewardship-discipline)。
 - 搭配阅读：[不因感知能力而排除](core_05_band_participation.md#sentience-non-exclusion)和[基底类别](core_05_band_participation.md#substrate-class)（*不依赖基底的适用方式——本小节约束义务承担者，包括未被承认为 sentients 的代理和运营者*）；[权限栈与内部层级](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)；[宪法约束](core_05_band_integrative.md#constitutional-constraint)；[可争辩性](core_05_band_accountability.md#contestability)；[§17.5 抵制义务](#175-duty-to-resist)。
-- 治理者入口（非操作性）：下一步卡片：[共同治理](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship)。该卡片不能缩小宪法的适用范围。
+- 治理者入口（非操作性）：下一步卡片：[共同治理](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - 下游依据：[§17.2 压力下保持一致](#172-alignment-under-pressure)；[§17.3 记录角色，而非治理者](#173-logging-the-role-not-the-steward)；[第十三章 §5——授权角色、能力发展与贡献](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；[第十七章](core_17_incorporation.md)（*经采纳的实施文本负责落实，而不是取代*）；[§19.1.3 治理与运营者适用条款](#1913-stewardship-and-operator-application)。
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - 上游：[§17 重大后果 stewardship](#17-consequential-stewardship-the-steward-role)；[§17.1 共同 stewardship 标准](#171-shared-stewardship-standard)（*义务约束哪些人*）；[§17.2 压力下的对齐](#172-alignment-under-pressure)（*掩盖指令作为一次失败的测试*）；[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)与[5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)。
 - 配合阅读：[权限栈与内部层级](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)；[受保护的报告（举报）](core_05_band_accountability.md#protected-reporting-whistleblowing)；[第十三-A 条](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)（*可靠性与可信赖性基线*）——抵制期间，异议途径仍然开放。
-- Steward 入口（非操作性）：下一步卡片：[非法指令](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction)。该卡片不得缩限宪章。
+- Steward 入口（非操作性）：下一步卡片：[非法指令](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - 下游：[第十章 §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵制义务——违规规则与 standing 效果*）；[CS-4 §10 可检查、可归因的行动](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*可检查、可归因的行动——拒绝行为的最低记录*）。
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - 下游：[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)和[§14 禁止绝对性覆盖](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下游：[§13.3 尽量减轻可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)；[第十三章 §5——授权角色、能力发展与贡献](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；**[corpus_systems.md](corpus_systems.md)，CS-4——关键系统监管**。
 - 下游：针对[第六章：基本权利](core_06_rights_part_a.md#chapter-six-foundational-rights)中的权利范围，涵盖能动性、参与、激励协调、信息领域完整性、资格地位及反俘获审查；尤其是[第 X 条：自我决定、能动性与参与](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第 XII 条：利益相关者系统参与、代表与正当程序](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)、[第 XIII-D 条：激励协调约束](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)、[第 XV 条：信息领域完整性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第 XIX 条：资格地位与参与身份](core_06_rights_part_d.md#article-xix-standing-and-participation-status)，以及[第 XXIV 条：宪制解释、审查与反俘获保障](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)。
-- 监管者入口（非执行性）：下一步卡片：[激励协调](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment)。该卡片不能缩窄宪法。
+- 监管者入口（非执行性）：下一步卡片：[激励协调](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

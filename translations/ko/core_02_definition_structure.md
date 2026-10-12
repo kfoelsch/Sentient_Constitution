@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스에서의 위치(비운영): 파일 구조와 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 이 파일은 [영어 제2장](../../core_02_definition_structure.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_02_definition_structure.md`](../../core_02_definition_structure.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **이전(이 언어):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비운영): 정의 스택과 제2장이 사는 곳</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > **제2장부터 제5장**은 헌법 정의 스택을 이룬다. **[CJS](../../corpus_joint_structure.md)** 는 그것을 적용하는 운영 정의를 운반한다:
 > - **제2장 (이 파일)** — O/M/A/C 정의 구조와 구성 정합: 모든 정의는 **존재론 (O)** (그것이 무엇인가), **평가 (A)** 의무와 엮인 **측정 (M)** 등록 (어떻게 측정되고 평가되어야 하는가), 그리고 **준수 (C)** (무엇이 버티어야 하는가)를 잇는다 ([§1 목적과 역할](core_02_definition_structure.md#1-purpose-and-role); [§2 정의 완전성 요건](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **제3장** — 정의 완전성, 회피, 비준수 ([제3장](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).

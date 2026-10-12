@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativa): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para el lector**. No añade, elimina ni restringe obligaciones vinculantes en otras partes de este archivo ni en otros capítulos.
->
 > Este archivo **forma parte de la Constitución Sentiente** y es **vinculante únicamente junto con** los demás archivos numerados `core_*`, leídos como un solo instrumento. Contiene el **Capítulo Uno, Parte C** (§§16–20: custodia, gobernanza, alineación de incentivos y captura, y el capítulo final de aplicación integrada).
 >
 > **Anterior:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Capítulo Uno, Parte B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para el lector (no operativa): jerarquía de principios y recorrido de lectura (Parte C)</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para el lector**. No añade, elimina ni restringe obligaciones vinculantes en otras partes de este archivo ni en otros capítulos. Los elementos de **Trazabilidad** y **Definiciones · Evaluación · Cumplimiento** de cada sección proporcionan referencias en el punto donde cada § invoca materialmente un término; este bloque ofrece una correspondencia para toda la parte antes de §§16–20.
+> Los elementos de **Trazabilidad** y **Definiciones · Evaluación · Cumplimiento** de cada sección proporcionan referencias en el punto donde cada § invoca materialmente un término; este bloque ofrece una correspondencia para toda la parte antes de §§16–20.
 
 **Jerarquía de principios (Parte C).** En el nivel de los principios:
 
@@ -162,7 +160,7 @@ La administración es la primera línea, no la única. Tres preguntas distintas 
 
 - Antecedentes: [§17 Administración consecuente](#17-consequential-stewardship-the-steward-role) (*Pilar 1*); [§16 Administración en profundidad](#16-stewardship-in-depth) (sección matriz, incluidos *En términos sencillos* y el marco del Pilar 3 anterior); [5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — faceta de **participación** ([Agencia significativa](core_05_band_participation.md#meaningful-agency), [Agencia educativa](core_05_band_participation.md#educational-agency)); faceta de **supervisión** ([Transparencia](core_05_band_oversight.md#transparency), [Auditabilidad](core_05_band_oversight.md#auditability)); escala según el [interés material](core_00_preamble.md#material-stake).
-- Puerta para administradores (no operativa): tarjeta de siguiente paso: [Comprensibilidad](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). La tarjeta no puede restringir la Constitución.
+- Puerta para administradores (no operativa): tarjeta de siguiente paso: [Comprensibilidad](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - Consecuencias: [13.2 Restricciones a la divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); superficie de derechos, en especial [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XXII: Comprensibilidad y administración de la complejidad](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -367,7 +365,7 @@ El resto de esta sección trata de la propia función.
 
 - Antecedentes: [§17 Administración consecuente](#17-consequential-stewardship-the-steward-role); [§16 Administración en profundidad](#16-stewardship-in-depth); [§18 Gobernanza sujeta a disciplina de administración](#18-governance-under-stewardship-discipline).
 - Leer junto con: [No exclusión por sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Clase de sustrato](core_05_band_participation.md#substrate-class) (*aplicación independiente del sustrato: esta subsección vincula a los titulares de deberes, incluidos agentes y operadores que no sean reconocidos como sentientes*); [Jerarquía interna y de autoridades](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Restricción constitucional](core_05_band_integrative.md#constitutional-constraint); [Posibilidad de impugnar](core_05_band_accountability.md#contestability); [§17.5 Deber de resistir](#175-duty-to-resist).
-- Puerta para administradores (no operativa): tarjeta de siguiente paso: [Administración compartida](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). La tarjeta no puede restringir la Constitución.
+- Puerta para administradores (no operativa): tarjeta de siguiente paso: [Administración compartida](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - Consecuencias: [§17.2 Alineación bajo presión](#172-alignment-under-pressure); [§17.3 Registrar la función, no al administrador](#173-logging-the-role-not-the-steward); [Capítulo Trece §5 — Funciones autorizadas, desarrollo de competencias y contribución](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Capítulo Diecisiete](core_17_incorporation.md) (*el texto de implementación adoptado implementa, no reemplaza*); [§19.1.3 Aplicación a la administración y a los operadores](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ La **autoorganización alineada** conecta el **Pilar 1** con el **Pilar 3**: ext
 
 - Antecedentes: [§17 Stewardship con consecuencias importantes](#17-consequential-stewardship-the-steward-role); [§17.1 Norma compartida de stewardship](#171-shared-stewardship-standard) (*a quién obliga el deber*); [§17.2 Alineación bajo presión](#172-alignment-under-pressure) (*la instrucción de encubrimiento como prueba fallida*); [4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint) y [5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Léase junto con: [Jerarquía interna y de autoridad](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Denuncia protegida](core_05_band_accountability.md#protected-reporting-whistleblowing); [Artículo XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Base de fiabilidad y confiabilidad*) — las vías de impugnación permanecen abiertas al resistir.
-- Punto de acceso para stewards (no operativo): Tarjeta de próximo paso: [Instrucción ilícita](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). La tarjeta no puede restringir la Constitución.
+- Punto de acceso para stewards (no operativo): Tarjeta de próximo paso: [Instrucción ilícita](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - Consecuencias posteriores: [Capítulo diez §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Deber de resistir — regla de infracción y efectos sobre standing*); [CS-4 §10 acción atribuible e inspeccionable](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Acción inspeccionable y atribuible — registro mínimo de la negativa*).
 
 </details>
@@ -1002,7 +1000,7 @@ Este principio obliga por igual a los stewards humanos y de IA conforme a la [§
 - Consecuencias posteriores: [§7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [§14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Consecuencias posteriores: [§13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Capítulo trece §5 — Roles autorizados, desarrollo de competencias y contribución](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Stewardship de sistemas críticos**.
 - Consecuencias posteriores: Se dirige a la superficie de derechos relativa a agencia, participación, alineación de incentivos, integridad de la esfera informativa, standing y revisión anticaptura en el [Capítulo seis: Derechos fundamentales](core_06_rights_part_a.md#chapter-six-foundational-rights); especialmente el [Artículo X: Autodeterminación, agencia y participación](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XII: Participación de las partes interesadas en sistemas, representación y debido proceso](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Artículo XIII-D: Restricción a la alineación de incentivos](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [Artículo XV: Integridad de la esfera informativa](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Artículo XIX: Standing y condición de participación](core_06_rights_part_d.md#article-xix-standing-and-participation-status) y [Artículo XXIV: Interpretación constitucional, revisión y salvaguardias contra la captura](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Punto de acceso para stewards (no operativo): Tarjeta de próximo paso: [Alineación de incentivos](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). La tarjeta no puede restringir la Constitución.
+- Punto de acceso para stewards (no operativo): Tarjeta de próximo paso: [Alineación de incentivos](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

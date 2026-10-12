@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス上の位置（非規範）：ファイル構造と読解規則</span></strong></summary>
 
-> 以下は**読者向け案内のみ**である。本ファイルまたは他の章にある拘束的義務を追加、削除、または限定するものではない。
->
 > 本ファイルは**感知者憲法の一部**であり、番号付きの他の `core_*` ファイルと一体の文書として読まれる場合にのみ拘束力を持つ。本ファイルは**第一章 A部**（§§1–12：目的と役割、§2で導入され、福祉、安全、真理、信頼、自由を通じて展開される繁栄の目的、ならびに§8で導入され、共有システムの能力、レジリエンス、市場構造、システム評価を通じて展開される継続の目的）を含む。
 >
 > **上流：** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">読者向け案内（非規範）：第一章が目的、四元、条項、定義をどう結び付けるか</span></strong></summary>
 
-> 以下は**読者向け案内のみ**である。本ファイルまたは他の章にある拘束的義務を追加、削除、または限定するものではない。各節の**追跡**および**定義・評価・遵守**ウィジェットが拘束的な参照先を示す。このブロックは、第一章を読む人のための部全体の案内図である。
+> 各節の**追跡**および**定義・評価・遵守**ウィジェットが拘束的な参照先を示す。このブロックは、第一章を読む人のための部全体の案内図である。
 
 **各層のつながり。** 各層は異なる問いに答え、第一章の各原則は他の三層を参照する。
 
@@ -1463,7 +1461,7 @@ flowchart TB
 
 - 前提：[§11 市場構造](#11-market-structure)、[市場集中の閾値](core_05_band_accountability.md#market-concentration-threshold)。
 - 下流への影響：**CJS-3.11.1 — 市場集中の閾値設定規律（採択主体による調整可）**（閾値設定の運用規則）、[§11.2 競争促進と支配の防止](#112-pro-competition-and-anti-domination)、[§11.3 統合上限](#113-consolidation-ceiling)、[CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)の上限設定運用規則）、[第九章 §4 質問2 — どの程度よかったか、悪かったか](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it)、[第十一章 §5.1 集中による転覆](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
-- スチュワードの案内口（運用規則ではない）：次の手順カード：[市場構造](implementation/STEWARD_ENTRY_DOORS.md#market-structure)。このカードは憲法の適用範囲を狭めることはできない。
+- スチュワードの案内口（運用規則ではない）：次の手順カード：[市場構造](implementation/STEWARD_ENTRY_DOORS.md#market-structure)。
 - 小節（読書順）：[§11.1.1 集中閾値トリガー（採択主体による調整可）](#1111-concentration-threshold-triggers-adopter-tunable)。
 
 </details>

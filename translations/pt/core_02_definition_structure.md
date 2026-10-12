@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [Capítulo Dois em inglês](../../core_02_definition_structure.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_02_definition_structure.md`](../../core_02_definition_structure.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): pilha de definições e onde vive o Capítulo Dois</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Os capítulos **Dois a Cinco** formam a pilha constitucional de definições; o **[CJS](../../corpus_joint_structure.md)** carrega as definições operacionais que a aplicam:
 > - **Capítulo Dois (este arquivo)** — estrutura das definições O/M/A/C e alinhamento de componentes: cada definição liga **Ontológico (O)** (o que é), o registro de **Medição (M)** entretecido com o dever de **Avaliação (A)** (como deve ser medido e avaliado), e **Conformidade (C)** (o que deve sustentar-se) ([§1 Propósito e papel](core_02_definition_structure.md#1-purpose-and-role); [§2 Exigência de integridade da definição](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **Capítulo Três** — integridade da definição, evasão e não conformidade ([Capítulo Três](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).

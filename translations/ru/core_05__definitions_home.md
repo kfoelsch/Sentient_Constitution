@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Место в корпусе (неоперативное): структура файла и правила чтения</span></strong></summary>
 
-> Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этом файле или в других главах.
->
 > Этот файл — **пилот читательского языка** [английской Главы пятой, Части A](../../core_05__definitions_home.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_05__definitions_home.md`](../../core_05__definitions_home.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
 >
 > **Предыдущий (этот язык):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ориентир для читателя (неоперативный): порядок чтения и заметка простым языком</span></strong></summary>
 
-> Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этой главе или в других главах.
->
 > Заметка чтения простым языком: читайте **Главу первую** для ценностей и направления высокого уровня; **главы со второй по четвёртую** для структуры определений, целостности и механики верификации; и **Главу шестую** для основополагающего Пола **прав**, затем вернитесь к этой главе за точностью терминов в толковании, аудите и разбирательстве. (Другие главы, включая **Главу десятую** *Проступок* и **Главу восьмую** *Траектория*, применяются на своих собственных путях чтения; они не заменяют Пол прав Главы шестой и не механику определений глав со второй по четвёртую.)
 
 </details>
@@ -210,6 +206,7 @@
 - [Игра случая](../../core_05_band_accountability.md#game-of-chance)
 - [Ворота](../../core_05_band_oversight.md#gate)
 - [Критерии ворот](../../core_05_band_oversight.md#gate-criteria)
+- [Запуск в эксплуатацию](../../core_05_band_continuity.md#go-live)
 - [Добросовестность](../../core_05_band_accountability.md#good-faith)
 - [Управление](../../core_05_band_accountability.md#governance)
 - [Градуированная способность](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -231,7 +228,9 @@
 - [Вознаграждение инновации и антиогораживание](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Инсайдерское преимущество](../../core_05_band_accountability.md#insider-advantage)
 - [Согласие на инстанциацию](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [Учреждение](../../core_05_band_continuity.md#institution)
 - [Институциональное развитие](../../core_05_band_continuity.md#institutional-development)
+- [Заинтересованная сторона](../../core_05_band_accountability.md#interested-party)
 - [Межпоколенческая ответственность](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [Мера необратимого лишения](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [Необратимый вред](../../core_05_band_accountability.md#irreversible-harm)
@@ -275,10 +274,12 @@
 - [Траектория участника](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [Участие](core_05_apex_participation_leg.md#participation-constitutional)
 - [Личность](../../core_05_band_participation.md#personhood)
+- [Пилот](../../core_05_band_continuity.md#pilot)
 - [Пресса и журналистская деятельность](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [Маршрутизация первичных ставок](../../core_05_band_accountability.md#primary-stakes-routing)
 - [Приватность (информационная)](../../core_05_band_continuity.md#privacy-informational)
 - [Процедурная справедливость](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [Процесс](../../core_05_band_continuity.md#process)
 - [Производительная способность](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [Соразмерность](../../core_05_band_accountability.md#proportionality)
 - [Соразмерный межсистемный вклад](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -436,8 +437,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ориентир для читателя (неоперативный): перекрёсток измерений Преамбулы</span></strong></summary>
 
-> Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этой главе или в других главах.
->
 > [Преамбула §2](core_00_preamble.md#measurements-overview) перечисляет семь конституционных **категорий измерения** — вопросы, которые задают операторы, оценивая системы. Глава пятая организует **канонические определения** по ноге Тетрады, цели **Преемственности** и **интегративному** межножному владению. Таблица ниже сопоставляет каждую категорию измерения с её домами Главы пятой. Категория может охватывать более чем один файл полосы; канонические дома не двигаются, когда категории измерения перекрываются.
 >
 > **Материальность** ([Определение материальности](../../core_05_band_oversight.md#materiality-determination)) — интегративная — сквозная пороговая дверь, которая масштабирует все семьи измерений под [материальной ставкой](core_00_preamble.md#material-stake); она не отдельная категория в таблице ниже.

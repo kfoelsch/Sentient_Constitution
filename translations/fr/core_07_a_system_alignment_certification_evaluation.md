@@ -40,1113 +40,1087 @@ Le Chapitre sept, **Partie A**, est le titulaire constitutionnel de l’**évalu
 > **Énoncé opératoire d’administration responsable.** **Titulaire :** Chapitre sept (SAC sous supervision de forum). Lentille de couche de principes : Chapitre un §14. SAC est un processus d’audit particulièrement large sous l’Article XVI / Auditabilité — pas le seul audit. **Mouvement interdit :** Ne pas traiter les tests unitaires, les listes de vérification de vie privée, ou les étiquettes locales d’aligné comme une certification. Ne pas sauter la fenêtre de contestation. Ne pas inventer un cinquième foyer d’audit. Ne pas traiter un insigne de certification ou un score LEQU comme un statut de sentience. **Horloge :** Ouvrir ou restaurer une voie contestable du Chapitre sept, y compris une fenêtre de contestation des parties affectées, avant la prétention d’aligné.
 
 <a id="1-purpose-and-role"></a>
+
 ### 1. Objet et rôle
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [Préambule — registre positif des titulaires](core_00_preamble.md#4-principles-definitions-and-rights) et [Pile d’autorité et hiérarchie interne](core_05_band_integrative.md#authority-stack) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [enjeu matériel](core_00_preamble.md#material-stake) ; [Proportionnalité](core_05_band_accountability.md#proportionality) et [Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional) (Chapitre cinq) ; famille de mesure Participation (*voix, accès et voies de contestation*) ; [Chapitre un §9 Administration responsable et compréhension distribuée](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) ; [Chapitre un §14 Exigence d’évaluation systémique](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*lentille d’évaluation du système entier en couche de principes — pas un coin seul*) ; Chapitres deux à quatre ; [Chapitre cinq](core_05__definitions_home.md#chapter-five-foundational-definitions) (*définitions canoniques*) ; [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) (terme canonique du Chapitre cinq ; abréviation non opératoire **SAC**) ; [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional) (signification du Chapitre cinq).
-- En aval : [§2](#2-system-class-evaluation) et [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*évaluation de classe du système et profils illustratifs*) ; [§3.8](#38-illustrative-whole-system-application-by-class) (*exemples travaillés du système entier par classe*) ; [§4.1](#41-illustrative-data-handling-application-by-class) (*exemples travaillés de traitement des données par classe*) ; [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*exemples travaillés d’empreinte écologique par classe*) ; [§6.1](#61-illustrative-cross-system-support-application-by-class) (*exemples travaillés de soutien inter-systèmes par classe*) ; [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*exemples travaillés de non-discrimination par classe*) ; [§8.1](#81-illustrative-accessibility-application-by-class) (*exemples travaillés d’accessibilité par classe*) ; [§9.1](#91-illustrative-educational-capability-application-by-class) (*exemples travaillés de capacité éducative par classe*) ; [§10.1](#101-illustrative-trustworthiness-application-by-class) (*exemples travaillés de fiabilité par classe*) ; [§3](#3-whole-system-certification-evaluation) (*facteurs d’évaluation de certification du système entier*) ; [§4](#4-data-types-and-handling-evaluation) à [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*évaluations de domaine*) ; [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre de certification*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*exigences d’intégrité du registre*) ; [Partie B §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*rôles de composant de forum*) ; [Partie B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*séquence de supervision et chaîne de contestabilité*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*pont de registre de trajectoire*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*réouverture et anti-évasion*) ; [Chapitre huit](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*registres de trajectoire et porte d’apports vérifiés*) ; [Chapitre neuf](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*effets de trajectoire et intégration*) ; [Chapitre onze](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervision de forum, certification, reconnaissance d’alignement et examen*).
-- Lire avec : [corpus_systems.md](../../corpus_systems.md), surtout **CS-3 — Classification et traitement des systèmes**, **CS-2 — Types d’information et traitement**, et **CS-5** ; [corpus_forum.md](../../corpus_forum.md), surtout **CF-5** (*Opérations de routage, transfert, certification et traitement représentatif*) et **CF-7** (*Garde-fous d’intégrité, opérations anti-capture et soutien anti-auto-jugement*) ; **Article XVI** (*Audit, transparence et vérification indépendante*) et [Auditabilité](core_05_band_oversight.md#auditability) (*planchers d’audit — SAC est un processus d’audit particulièrement large sous la supervision, pas le foyer unique de l’audit*) ; **CJS-3.3**–**CJS-3.5** (*termes d’auditabilité, d’accès d’audit et de vérification indépendante*).
+- **En amont :** [Préambule — registre des titulaires constitutionnels](core_00_preamble.md#4-principles-definitions-and-rights) et [hiérarchie des autorités](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [enjeu matériel](core_00_preamble.md#material-stake) ; [Proportionnalité](core_05_band_accountability.md#proportionality) et [équité substantielle](core_05_band_participation.md#substantive-fairness) (chapitre cinq) ; famille des mesures de participation (*voix, accès et voies de contestation*) ; [Chapitre un §16 — Administration responsable en profondeur](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) ; [Chapitre un §12 — Exigence d’évaluation systémique](core_01_a_values_principles.md#12-systemic-evaluation-requirement) (*évaluation du système entier au niveau des principes — et non d’un seul angle*) ; chapitres deux à quatre ; [chapitre cinq](core_05__definitions_home.md#chapter-five-foundational-definitions) (*définitions canoniques*) ; [plancher constitutionnel à quatre sièges du chapitre sept §2](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) ; [Certification de l’alignement du système](core_05_band_continuity.md#system-alignment-certification) (terme canonique du chapitre cinq ; sigle non opératoire **SAC**) ; [Registre de certification du système](core_05_band_continuity.md#system-certification-record) (sens établi au chapitre cinq).
+- **En aval :** [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; [Partie B §9.1](core_08_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*contester une certification*) ; profils de classe, exemples d’évaluation du système entier et exemples par domaine dans la [Partie C](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) : [profils illustratifs des classes de systèmes](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive), [parcours illustratifs de l’application à l’ensemble du système selon la classe](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive), exemples détaillés du traitement des données [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), de l’empreinte écologique [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), de la capacité éducative [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive), du soutien inter-systèmes [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive), de la non-discrimination [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), de l’accessibilité [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) et de la fiabilité [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) ; [§3](#3-whole-system-certification-evaluation) (*facteurs d’évaluation de la certification du système entier*) ; [§3.4](#34-data-types-and-handling-evaluation) à [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*évaluations par domaine*) ; [Partie B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*séquence de supervision et chaîne de contestation*) ; [Partie B §6.1](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*rôles des composantes du forum*) ; [Partie B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*contenu du registre de certification*) ; [Partie B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*intégrité du registre*) ; [Partie B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*réouverture et prévention du contournement*) ; [Partie B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*passerelle vers les registres de trajectoire*) ; [chapitres neuf](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement), [dix](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) et [douze](core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
+- **À lire avec :** [corpus_systems.md](corpus_systems.md), notamment **CS-3** (*classification et traitement des systèmes*), **CS-2** (*types et traitement de l’information*) et **CS-5** (*surfaces de capacité destinées aux utilisateurs*) ; [corpus_forum.md](corpus_forum.md), notamment **CF-5** (*opérations d’orientation, transfert, certification et représentation*) et **CF-7** (*garanties d’intégrité, opérations anti-capture et soutien contre l’auto-jugement*) ; **Article XVI** (*Audit, transparence et vérification indépendante*) et [Auditabilité](core_05_band_oversight.md#auditability). Le **CJS-3.3** à **CJS-3.5** définit aussi les notions de contrôle, de reconstitution, de vérification indépendante et d’intégrité des affirmations.
 
 </details>
 
 <br>
 
-*En termes simples : lorsqu’un système compte vraiment dans la vie des êtres sentients, la certification doit être **proportionnée** — aussi exigeante que l’impact, la dépendance et le risque réels du système l’exigent, pas une liste unique pour tous ni un tampon de complaisance. Elle doit aussi être **participative** — les êtres sentients et les communautés affectés doivent pouvoir voir ce qui a été examiné, comprendre ce qui a été décidé, et le contester lorsque quelque chose cloche. Les forums examinent la preuve, la consignent dans un registre de certification, et exigent de nouvelles vérifications selon un calendrier qui correspond au risque du système. Une certification n’est pas un score de popularité, un laissez-passer à vie, ni un moyen de sauter l’examen des droits. C’est une déclaration bornée dans le temps et contestable de ce que l’on sait maintenant sur l’alignement du système. Sous la jambe **supervision** de la Tétrade, la supervision exige l’audit ; la certification d’alignement du système est un processus d’audit particulièrement large et à fort enjeu parmi d’autres — pas le foyer unique de l’audit (**Article XVI**, [Auditabilité](core_05_band_oversight.md#auditability)).*
+*En termes simples : lorsqu’un système compte réellement dans la vie des êtres sentients, sa certification doit être **proportionnée** : son niveau d’exigence doit correspondre à son impact réel, à la dépendance qu’il suscite et aux risques qu’il présente. Elle ne peut être ni une liste identique pour tous ni un simple tampon. Elle doit aussi être **participative** : les êtres sentients et les communautés touchés doivent pouvoir voir ce qui a été examiné, comprendre la décision et la contester en cas d’erreur. Les forums examinent les preuves, les consignent dans un registre de certification et imposent des réexamens selon un calendrier adapté au risque du système. Les classes A, B et C suivent le processus complet ; la classe L suit un processus allégé. La classe P est encouragée à l’utiliser et doit le faire lorsque ses effets dépassent une unité privée ou que son opérateur revendique la conformité constitutionnelle.*
 
-<a id="1-purpose-and-role"></a>
+*Une certification n’est ni un indice de popularité, ni un laissez-passer permanent, ni un moyen d’éviter l’examen des droits. C’est une déclaration limitée dans le temps et susceptible de contestation, qui décrit ce que l’on sait actuellement de l’alignement du système. Au titre de la branche **supervision** de la Tétrade, la supervision exige des audits. La certification de l’alignement du système est l’un des processus d’audit particulièrement vastes et importants parmi d’autres ; elle n’est pas le lieu unique de l’audit (**Article XVI**, [Auditabilité](core_05_band_oversight.md#auditability)).*
 
-La **certification d’alignement du système** existe pour répondre à une question, pour une portée et un calendrier d’examen énoncés : le système a-t-il montré un alignement constitutionnel suffisant pour la reconnaissance, la reconnaissance conditionnelle, la validation, la revalidation, la dépendance continue, le déploiement, ou la levée matérielle des conditions ?
+La **certification de l’alignement du système** répond, pour un périmètre et un calendrier d’examen précisés, à la question suivante : le système a-t-il démontré un alignement constitutionnel suffisant pour justifier une certification, une certification conditionnelle, une validation, une recertification, la poursuite de la dépendance à son égard, son déploiement ou la levée substantielle de conditions ?
 
-Comme instrument de supervision, la certification est un processus d’audit particulièrement large sous l’[Auditabilité](core_05_band_oversight.md#auditability) et l’**Article XVI** (*Audit, transparence et vérification indépendante*) : sous supervision de forum, multi-domaines, et porteur de reconnaissance. Elle n’absorbe ni ne remplace les modes d’audit frères (y compris les audits du Registre de classification du système sous **CS-3**, les audits du Registre des types de données du système sous **CS-2**, les audits de complexité et d’administration responsable, la vérification des prétentions, et les voies d’audit continu).
+La profondeur de l’examen, la charge documentaire, la périodicité de recertification, l’examen par les parties prenantes et les voies de contestation doivent être proportionnés à l’[enjeu matériel](core_00_preamble.md#material-stake), conformément à la [Proportionnalité](core_05_band_accountability.md#proportionality) :
 
-La profondeur de certification, la charge de registre, la cadence de revalidation, l’examen des parties affectées et les voies de contestation doivent s’échelonner avec l’[enjeu matériel](core_00_preamble.md#material-stake) sous la [Proportionnalité](core_05_band_accountability.md#proportionality). Les systèmes à plus fort impact, plus forte dépendance et plus fort risque exigent une preuve plus forte, des registres plus clairs, et une participation plus praticable — y compris l’accessibilité de fond, les apports des parties affectées, et des routes de contestation échelonnées à qui s’appuie sur le système. Les classes plus basses et les portées bornées exigent encore une classification honnête et une assurance proportionnée ; elles ne reçoivent pas un laissez-passer des obligations matérielles là où des effets externes existent.
+- Les systèmes à impact, dépendance ou risque élevés exigent des preuves plus solides, des registres plus clairs et une participation plus praticable, notamment une accessibilité réelle, la contribution des parties prenantes et des voies de contestation adaptées aux personnes qui dépendent du système.
+- Les classes inférieures et les périmètres circonscrits exigent tout de même une classification honnête et une assurance proportionnée. Ils ne sont pas dispensés des obligations matérielles lorsque des effets externes existent.
 
-La certification met en œuvre les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) à travers la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) :
+Comme le prévoit [CS-3 §3.5 — Exigence de reclassification](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement), le processus dépend de la classe d’impact :
 
-- **[Épanouissement](core_00_preamble.md#flourishing)** — la certification vérifie que la reconnaissance ou la dépendance continue ne déferait pas en silence les Planchers des droits ni ne bloquerait la participation équitable dans une vie constitutionnellement pertinente ;
-- **[Continuité](core_00_preamble.md#continuity)** — la certification vérifie une fourniture durable et non régressive et une revalidation échelonnée à la classe là où des systèmes partagés filtrent ou soutiennent la livraison ;
-- **Participation** — les êtres sentients et les communautés affectés peuvent comprendre, contester, et prendre part aux voies d’examen qui leur importent ;
-- **Supervision** — les registres, la preuve et les hypothèses sont assez visibles et auditables pour un contrôle indépendant ; la certification elle-même est un processus d’audit particulièrement large sous ce devoir de supervision, pas le seul ;
-- **Reddition de comptes** — les défauts, la classification erronée et l’opération qui défait le plancher se routent vers le recours, les conditions, le retrait, ou l’apport de trajectoire là où les faits le soutiennent ;
-- **Action en temps** — les horloges d’examen et de contestation empêchent la certification de vieillir pendant que le préjudice peut encore être prévenu ou inversé.
+- **Classes A, B et C :** ces systèmes présentent les niveaux d’impact, de dépendance et de risque les plus élevés. L’évaluation du système entier prévue aux [§3](#3-whole-system-certification-evaluation), [§4](#4-evaluations-where-implicated) et [§5](#5-rights-floor-and-domain-evaluations) est obligatoire à pleine profondeur pour chaque volet qui s’applique.
+- **Classe L :** la même évaluation est obligatoire, mais proportionnée ; lorsque CS-3 le permet, la périodicité par défaut des réexamens est plus longue et les registres sont plus simples.
+- **Classe P :** le processus est recommandé tant que le système demeure valablement en classe P, et peut être suivi volontairement. Il devient obligatoire en cas de reclassement en classe L ou supérieure, ou si l’opérateur affirme volontairement que le système respecte la Constitution.
 
-Ce chapitre conduit le processus de certification sous supervision de forum pour :
+La certification met en œuvre les [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) au moyen de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) :
 
-- **Classe du système et cadence de revalidation** — avec quelle rigueur on regarde et à quelle fréquence ([§2](#2-system-class-evaluation)) ;
-- **Évaluations** — contrôles du système entier et de domaine ([§3](#3-whole-system-certification-evaluation) à [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation)) ;
-- **Contenus du registre de certification** — ce qui doit aller au dossier ([Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record)) ;
-- **Reconnaissance et dépendance continue** — quels résultats comptent ([§1](#1-purpose-and-role), [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record)) ;
-- **Contestation et contestabilité** — comment les contestations se déplacent à travers les forums ([Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability), [Partie B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain)) ;
-- **Défauts de certification** — ce qui arrive lorsque la certification est défectueuse ([Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) et les sections d’évaluation tout au long du chapitre).
+- **[Épanouissement](core_00_preamble.md#flourishing)** — vérifier que la certification ou la poursuite de la dépendance au système ne compromet pas discrètement les planchers de droits et n’entrave pas une participation équitable à la vie constitutionnellement pertinente ;
+- **[Continuité](core_00_preamble.md#continuity)** — vérifier la durabilité et l’absence de régression des approvisionnements, afin qu’ils soutiennent plutôt qu’ils n’épuisent les systèmes naturels sains ([Intégrité écologique](core_05_band_continuity.md#ecological-integrity), y compris la [capacité de rétablissement écologique](core_05_band_continuity.md#ecological-recovery-capacity)), et prévoir une recertification proportionnée à la classe lorsque des systèmes partagés conditionnent ou soutiennent la prestation ;
+- **Participation** — permettre aux êtres sentients et aux communautés touchés de comprendre les voies d’examen pertinentes, d’y prendre part et de les contester ;
+- **Supervision** — rendre les registres, les preuves et les hypothèses suffisamment visibles et vérifiables pour permettre un contrôle indépendant ; la certification constitue elle-même un vaste processus d’audit au titre de cette obligation, sans en être l’unique forme ;
+- **Reddition de comptes** — orienter les défauts, les erreurs de classification et les opérations qui compromettent un plancher vers une réparation, des conditions, un retrait ou, lorsque les faits le justifient, une contribution aux registres de trajectoire ;
+- **Action en temps** — maintenir les délais d’examen et de contestation de façon que la certification ne devienne pas obsolète tant qu’un préjudice peut encore être évité ou inversé.
 
-Les profils illustratifs de **Classe A**, **Classe B** et **Classe C** — et comment la classe échelonne la profondeur de certification à travers ce chapitre — sont au [§2.1](#21-illustrative-class-profiles-non-exhaustive). Des parcours travaillés pour les mêmes trois systèmes apparaissent au [§3.8](#38-illustrative-whole-system-application-by-class) (*évaluation du système entier*), [§4.1](#41-illustrative-data-handling-application-by-class) (*types de données et traitement*), [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*empreinte écologique*), [§6.1](#61-illustrative-cross-system-support-application-by-class) (*contribution inter-systèmes proportionnée*), [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*non-discrimination*), [§8.1](#81-illustrative-accessibility-application-by-class) (*accessibilité*), [§9.1](#91-illustrative-educational-capability-application-by-class) (*capacité éducative*), et [§10.1](#101-illustrative-trustworthiness-application-by-class) (*fiabilité*).
+En tant qu’instrument de supervision, la certification constitue un vaste processus d’audit régi par l’[Auditabilité](core_05_band_oversight.md#auditability) et l’**Article XVI**. Elle est supervisée par un forum, couvre plusieurs domaines et confère un statut. Elle peut intégrer les résultats d’autres modes d’audit, mais ne les absorbe ni ne les remplace. Chacun conserve son propre responsable, indiqué dans la [carte des modes d’audit associés](corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) : audits du registre des types de données du système sous **CS-2** ; du registre de classification sous **CS-3** ; examens d’assurance de l’administration responsable sous **CS-4** ; audit continu sous **CS-5** (**ACA**) ; audits de complexité sous **CS-6** et **Article XXIII-B** ; vérification des affirmations sous **CJS-3.5**. Chacun de ces contrôles peut être effectué séparément ; la certification ne les remplace pas.
 
-Les planchers de droits que ce chapitre aide à vérifier sont traités au **§1.1**.
+<a id="11-certification-at-a-glance"></a>
 
+#### 1.1 La certification en un coup d’œil
 
-<a id="11-rights-floors-this-chapter-helps-verify"></a>
-#### 1.1 Planchers de droits que ce chapitre aide à vérifier
+*En termes simples : classer honnêtement le système, effectuer les évaluations applicables, faire examiner indépendamment les preuves et les préoccupations des parties prenantes par les forums, puis décider de l’issue. Compléter l’unique registre ouvert pour l’examen du forum et le publier avec une voie de contestation ouverte. Un système certifié ne peut être mis en service qu’après le délai de notification et la mise en place des protections requises. Surveiller les résultats réels, répondre aux incidents et aux contestations, puis réexaminer le système selon le calendrier prévu ou lorsque les faits changent. Corriger les défauts et faire vérifier la correction de manière indépendante avant d’autoriser le périmètre concerné ou de lever ses conditions. Chaque nouvel examen utilise un nouveau registre lié au précédent.*
 
-Lorsque des systèmes matériellement impactants filtrent ou façonnent comment les êtres sentients vivent, la certification vérifie que les approuver ne déferait pas en silence les **Planchers des droits** du Chapitre six, y compris :
+Le processus comporte **six phases** : **I. Cadrer**, **II. Évaluer**, **III. Examiner**, **IV. Décider**, **V. Consigner** et **VI. Exploiter**. La phase II comprend trois volets, chacun dans sa propre section : **IIa** (toujours), **IIb** (lorsqu’un enjeu est impliqué) et **IIc** (lorsqu’un déclencheur s’applique). La phase VI comprend deux sous-phases : **VIa** (exploitation et recertification, [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) et **VIb** (passerelle vers les registres de trajectoire, [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)). Le diagramme présente les phases dans l’ordre. La Partie A couvre les deux premières ; la [Partie B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) couvre les quatre dernières : procédure devant le forum, décision et autorisation de mise en service, registre et exploitation (voie de contestation, recertification, réouverture et passerelle vers les registres de trajectoire).
 
-- **Essentiels de survie** sous l’**Article III-A** (*Survie*) — nourriture, eau, abri, environnement d’opération, et apports comparables agnostiques au substrat ;
-- **Accès éducatif égal** sous l’**Article III-B** (*Accès éducatif égal*) ;
-- **Capacité d’éducation centrée sur les êtres sentients** sous l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) là où des systèmes classent, évaluent, recommandent, placent, filtrent par titres, ou filtrent matériellement les voies de reconversion et d’apprentissage tout au long de la vie ;
-- **Non-discrimination** sous l’**Article V-B** (*Non-discrimination*) là où des systèmes classent, filtrent, tarifient, rangent, ou allouent charges et bénéfices parmi les êtres sentients ;
-- **Accessibilité** sous l’**Article V-G** (*Accessibilité*) là où des systèmes filtrent la participation de fond dans des domaines constitutionnellement pertinents ;
-- **Conduite fiable et digne de confiance du système** sous l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) là où des systèmes façonnent matériellement la dépendance des êtres sentients à l’égard de la conduite représentée, des limites, des risques, des voies de contestation, ou de la remédiation ;
-- **Conditions sûres** sous l’**Article XIII-A** (*Ligne de base de fiabilité et de confiance*) et les [**Conditions sûres**](core_05_band_continuity.md#safe-conditions-constitutional) là où des systèmes fournissent ou filtrent l’activité productive ;
-- **Allocation des ressources** sous l’**Article IV** (*Allocation des ressources, dépendances et financement de l’écosystème*), y compris la [Contribution inter-systèmes proportionnée](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) sous l’**Article IV-B** (*Équité inter-systèmes et durabilité*) là où des systèmes allouent, routent, financent, ou extraient d’une infrastructure partagée ou de dépendances fondatrices.
+Chaque évaluation applicable est répétée à chaque étape de certification : lors de la première certification, à chaque recertification selon le calendrier établi au [§2](#2-system-class-evaluation), ainsi que lors de chaque examen rouvert ou nouvel examen. En cas de changement matériel — dépendance croissante, prélèvement accru sur des ressources communes, baisse importante des contributions au maintien de ces ressources ou contestation crédible — l’examen reprend avant la prochaine recertification prévue. La [Partie B §9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) énumère les déclencheurs.
+
+```mermaid
+flowchart TB
+    T(["Un système ayant un impact matériel demande une certification,<br/>ou la dépendance à son égard augmente"])
+    C["Phase I, Cadrer — §2<br/>Classer honnêtement<br/><br/>La classe fixe la profondeur et le calendrier des réexamens"]
+    subgraph W["Phase II, Évaluer — §3–§5 Évaluation du système entier"]
+        direction LR
+        Al["IIa, §3.1–§3.4 — Toujours<br/><br/>Risque systémique : évaluer et communiquer<br/>aux personnes qui en ont besoin ; horizon temporel ;<br/>gouvernance ; types de données"]
+        Im["IIb, §4 — En cas d’enjeu impliqué<br/><br/>Vie privée, droits de sortie,<br/>assemblée et dissidence"]
+        Tr["IIc, §5 — En cas de déclenchement<br/><br/>Contrôles applicables du plancher de droits<br/>et six évaluations par domaine"]
+        Al ~~~ Im ~~~ Tr
+    end
+    F["Phase III, Examiner — §6<br/>Examen indépendant des preuves<br/>et des préoccupations des parties prenantes<br/><br/>Les forums désignés rendent leurs conclusions ;<br/>les voies de contestation restent ouvertes"]
+    Rec["Phase V, Consigner — §8<br/>Un registre de certification du système<br/><br/>Ouvert pour l’examen du forum ; complété avec l’issue,<br/>les conclusions à l’appui, les conditions et le plan d’exploitation"]
+    S[["Chapitre neuf — Registres<br/>de trajectoire<br/><br/>Hors de ce chapitre"]]
+    O{"Phase IV, Décider — §7<br/><br/>Quelle issue et quel statut<br/>les preuves justifient-ils ?"}
+    Fc["Certification complète — §7, §9.2<br/><br/>Recertifications provisoires consécutives conformes requises ;<br/>aucun désalignement actuel ou imminent indiqué<br/>Délai de recertification plus long ; conditions possibles"]
+    Pc["Certification provisoire — §7, §9.2<br/><br/>Première attribution, rétablissement après désalignement,<br/>ou maintien / rétrogradation du statut provisoire<br/>Délai plus court ; conditions possibles"]
+    Nc["Non certifié — §7<br/><br/>Différé, refusé, retiré ou expiré<br/>Pas de mise en service ; motifs et corrections requises indiqués"]
+    Pub["Publier le registre complété — §7, §9.1<br/><br/>Ouvrir la voie de contestation du registre publié ;<br/>indiquer la mise en service et le délai pour tout périmètre nouveau ou élargi"]
+    G{"Autorisation de mise en service — §7<br/><br/>Certification et conditions préalables<br/>applicables à la mise en service satisfaites ?"}
+    Hold["Satisfaire les conditions préalables — §7<br/><br/>Achever le délai de notification et vérifier indépendamment<br/>les conditions requises avant la mise en service"]
+    Rm["Protéger et corriger — §7, §9.2<br/><br/>Pas de nouvelle mise en service dans le périmètre touché ;<br/>protéger les êtres sentients concernés, corriger la conception ou l’exploitation,<br/>et soumettre les preuves à une vérification indépendante"]
+    Ch["Phase VIa, Exploiter et recertifier — §9–§9.2<br/>Surveiller et maintenir les contestations ouvertes<br/><br/>Respecter le périmètre certifié et ses conditions ;<br/>suivre les résultats et répondre aux incidents et contestations"]
+    S2[["Chapitre neuf — Registres<br/>de trajectoire<br/><br/>Hors de ce chapitre"]]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    Re["Prochaine étape d’examen — §9<br/><br/>Recertification, réouverture ou nouvel examen ;<br/>chaque étape ouvre un nouveau registre lié au précédent"]
+    T --> C
+    A1((A)) --> C
+    C --> W
+    W --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, §10 —<br/>entrées vérifiées uniquement ;<br/>certification actuelle ou faits<br/>survenus pendant la certification| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|Non certifié| Rm
+    G --->|Oui : exploiter<br/>dans le périmètre consigné| Ch
+    G --->|Certifié,<br/>conditions préalables en attente| Hold
+    Hold --> G
+    Ch -->|Défaut matériel :<br/>protéger et corriger| Rm
+    Ch -->|Selon le calendrier, ou si<br/>un changement matériel ou une<br/>contestation crédible impose<br/>un examen| Re
+    Ch -.->|VIb, §10 —<br/>entrées vérifiées uniquement ;<br/>l’exploitation peut fournir des faits<br/>aux registres de Contribution<br/>et de Violation| S2
+    Rm -->|Preuves de correction<br/>vérifiées à l’étape<br/>d’examen suivante| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style T fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style Al fill:none,stroke:#16a34a,color:#ffffff
+    style Im fill:none,stroke:#16a34a,color:#ffffff
+    style Tr fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
+
+<details>
+<summary><strong><span style="color: #2563eb;">Guide de lecture (non opératoire) : les six phases</span></strong></summary>
+
+> Le contenu qui suit est uniquement destiné à guider le lecteur. Il n’ajoute, ne supprime ni ne restreint aucune obligation contraignante de ce chapitre ou d’un autre.
+>
+> | Phase | Sections | Question à laquelle répond la phase | Emplacement |
+> |-------|----------|-----------------------------------|-------------|
+> | **I. Cadrer** | [§2](#2-system-class-evaluation) | Quelle est la classe du système, et à quelle profondeur et fréquence doit-il être évalué ? | Partie A |
+> | **II. Évaluer** | [§3](#3-whole-system-certification-evaluation) (IIa, toujours) · [§4](#4-evaluations-where-implicated) (IIb, si enjeu impliqué) · [§5](#5-rights-floor-and-domain-evaluations) (IIc, si déclencheur) | Que fait le système entier, toujours, lorsqu’un enjeu est impliqué et lorsqu’un déclencheur s’applique ? | Partie A |
+> | **III. Examiner** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | Quels forums indépendants examinent les preuves et les préoccupations des parties prenantes, dans quel ordre, et comment contester leur examen ? | Partie B |
+> | **IV. Décider** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | Quelle décision les forums prennent-ils, et le système peut-il être mis en service ? | Partie B |
+> | **V. Consigner** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | L’unique registre ouvert pour l’examen du forum contient-il l’issue, les conclusions à l’appui, les conditions et le plan d’exploitation, et peut-il être audité ? | Partie B |
+> | **VI. Exploiter** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, exploitation et recertification) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, passerelle vers les registres de trajectoire) | Qui surveille les résultats et répond aux incidents et contestations, comment les corrections sont-elles vérifiées, quand l’examen reprend-il et quels éléments alimentent les registres de trajectoire ? | Partie B |
+>
+> Les profils illustratifs des classes **A**, **B** et **C**, ainsi que la manière dont la classe module la profondeur de certification dans ce chapitre, figurent dans [Profils illustratifs des classes de systèmes (non exhaustifs)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive). La Partie C présente des exemples détaillés des trois systèmes pour chaque domaine d’évaluation des [§3](#3-whole-system-certification-evaluation) à [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) et renvoie chaque profil et exemple à la section correspondante de la Partie A.
+
+</details>
+
+<br>
 
 <a id="2-system-class-evaluation"></a>
 
 ### 2. Évaluation de la classe du système
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [§1](#1-purpose-and-role) (*objet et rôle*) ; Matérialité intégrative ([Détermination de matérialité](core_05_band_oversight.md#materiality-determination)) (*Matérialité*) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [Impact matériel](core_05_band_oversight.md#material-impact), [Dépendance](core_05_band_continuity.md#dependency), [Risque](core_05_band_continuity.md#risk), [Limites du système](core_05_band_continuity.md#system-boundaries), et [Charte](core_05_band_continuity.md#charter) (Chapitre cinq) ; [Chapitre un §14 Exigence d’évaluation systémique](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) ; **Article III-A** (*Survie*) et **Article III-B** (*livraison du Plancher des droits là où la classification filtre l’accès*) ; **Article IV-A** (*Cartographie des dépendances et transparence des flux de ressources*) et **Article IV-B** (*allocation des ressources et administration responsable des dépendances là où la certification filtre la dépendance à une infrastructure partagée*).
-- En aval : [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*profils illustratifs de classe*) ; [§3.8](#38-illustrative-whole-system-application-by-class) (*exemples travaillés du système entier par classe*) ; [§4.1](#41-illustrative-data-handling-application-by-class) (*exemples travaillés de traitement des données par classe*) ; [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*exemples travaillés d’empreinte écologique par classe*) ; [§6.1](#61-illustrative-cross-system-support-application-by-class) (*exemples travaillés de soutien inter-systèmes par classe*) ; [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*exemples travaillés de non-discrimination par classe*) ; [§8.1](#81-illustrative-accessibility-application-by-class) (*exemples travaillés d’accessibilité par classe*) ; [§9.1](#91-illustrative-educational-capability-application-by-class) (*exemples travaillés de capacité éducative par classe*) ; [§10.1](#101-illustrative-trustworthiness-application-by-class) (*exemples travaillés de fiabilité par classe*) ; [§4](#4-data-types-and-handling-evaluation) (*évaluation conjointe du traitement des données*) ; [§5](#5-ecological-footprint-evaluation) (*évaluation de l’empreinte écologique*) ; [§6](#6-proportionate-cross-system-support-evaluation) (*évaluation du soutien inter-systèmes*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’apports vérifiés*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement de classification et déclencheurs de reclassification*).
-- Lire avec : [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional) ; [corpus_systems.md](../../corpus_systems.md), **CS-3 — Classification et traitement des systèmes**, y compris **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Exigence de reclassification* — déclencheurs, profondeur d’évaluation échelonnée à la classe, et pont de vérification SAC) et **[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*Devoirs de gouvernance du Registre de classification du système et pont SAC*) ; [CS-5 — Conception, essai, vérification et déploiement](../../corpus_systems/cs_05_design_testing_verification_deployment.md) ; [CJS-3.21 — Termes de robustesse adverse et de résistance à l’abus](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*obligations de cycle de régression et de durcissement*) ; [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*Reconnaissance et examen d’alignement constitutionnel*).
+- **En amont :** [§1](#1-purpose-and-role) (*objet et rôle*) ; matérialité intégrative ([Matérialité](core_05_band_oversight.md#materiality)) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [Impact matériel](core_05_band_oversight.md#material-impact), [Dépendance](core_05_band_continuity.md#dependency), [Risque](core_05_band_continuity.md#risk), [Limites du système](core_05_band_continuity.md#system-boundaries) et [Charte](core_05_band_continuity.md#charter) (chapitre cinq) ; [Chapitre un §12 — Exigence d’évaluation systémique](core_01_a_values_principles.md#12-systemic-evaluation-requirement) ; **Article III-A** (*Survie*) et **Article IV-A** (*respect du Plancher des droits lorsque la classification conditionne l’accès*) ; **Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) et **Article V-B** (*allocation des ressources et administration des dépendances lorsque la certification conditionne le recours à une infrastructure partagée*).
+- **En aval :** [§2.1](#21-how-system-class-scales-every-evaluation) (*participation et proportionnalité modulées selon la classe du système*) ; [§2.2](#22-pilot-certification) (*certification pilote*) ; [profils de classe et reclassification de la Partie C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*profils illustratifs des classes de systèmes*) ; [parcours détaillés de l’ensemble du système en Partie C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) ; exemples détaillés du traitement des données [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), de l’empreinte écologique [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), de la capacité éducative [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive), du soutien inter-systèmes [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive), de la non-discrimination [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), de l’accessibilité [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) et de la fiabilité [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) ; [§3.4](#34-data-types-and-handling-evaluation) (*évaluation commune du traitement des données*) ; [§5.1](#51-ecological-footprint-evaluation) (*évaluation de l’empreinte écologique*) ; [§5.3](#53-proportionate-cross-system-support-evaluation) (*évaluation proportionnée du soutien inter-systèmes*) ; [Partie B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*intégrité du registre*) ; [Partie B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*seuil des entrées vérifiées*) ; [Partie B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*dérive de classification et déclencheurs de reclassification*).
+- **À lire avec :** [Registre de classification du système](core_05_band_continuity.md#system-classification-record) ; [corpus_systems.md](corpus_systems.md), **CS-3 — Classification et traitement des systèmes**, notamment [**CS-3 §3.5 — Exigence de reclassification**](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*déclencheurs, profondeur d’évaluation selon la classe et passerelle de vérification SAC*) et [**CS-3 §7**](corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) (*gouvernance, divulgation et contestation de la classification*) — obligations de gouvernance du Registre de classification du système et passerelle SAC ; [CS-5 — Conception, essais, vérification et déploiement](corpus_systems/cs_05_design_testing_verification_deployment.md) ; [CJS-3.21 — Termes relatifs à la robustesse face aux adversaires et à la résistance aux abus](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*obligations de régression et de renforcement*) ; [corpus_forum.md](corpus_forum.md), **CF-7.2** (*Certification et examen de l’alignement constitutionnel*).
 
 </details>
 
 <br>
 
-*En termes simples : la certification doit vérifier si le système est classé honnêtement — non par ce que l’opérateur l’appelle, mais par ce qu’il fait réellement, ce qui en dépend, et ce qui pourrait mal tourner. Les classes plus élevées signifient une preuve plus stricte, des revérifications plus rapides, et des attentes de résilience plus fortes. Voir [§2.1](#21-illustrative-class-profiles-non-exhaustive) pour un système par classe ; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), et [§10.1](#101-illustrative-trustworthiness-application-by-class) parcourent comment l’évaluation s’applique à chacun.*
+*En termes simples : la certification doit vérifier que le système est classé honnêtement — non pas selon le nom que lui donne l’opérateur, mais selon ce qu’il fait réellement, les dépendances qu’il crée et ce qui pourrait mal tourner. Une classe plus élevée implique des preuves plus exigeantes, des réexamens plus rapprochés et des attentes plus fortes en matière de résilience. La [Partie C — Illustrations](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) présente un système par classe et montre comment l’évaluation s’applique à chacun.*
 
-La certification d’alignement du système doit évaluer la **classe du système** comme partie de tout registre de certification matériellement impactant. Les définitions canoniques de classe, les règles de dimension, les profils de classe, la gouvernance de classification, l’assurance échelonnée à la classe, la robustesse d’infrastructure, et la mécanique de recertification vivent dans **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes** et **[CS-5 — Conception, essai, vérification et déploiement](../../corpus_systems/cs_05_design_testing_verification_deployment.md)**. Cette section énonce ce que la certification doit vérifier et enregistrer ; elle ne réénonce pas la taxonomie de classe de CS-3, les profils d’application, ni la mécanique d’essai de CS-5.
+Tout registre de certification relatif à un système ayant un impact matériel doit comprendre une évaluation de sa **classe de système**.
 
-La certification doit vérifier et enregistrer :
+Les règles détaillées figurent dans [corpus_systems.md](corpus_systems.md), [CS-3 — Classification et traitement des systèmes](corpus_systems/cs_03_a_system_classification_machinery.md) et [CS-5 — Conception, essais, vérification et déploiement](corpus_systems/cs_05_design_testing_verification_deployment.md). Elles précisent :
+
+- quelles sont les classes de systèmes, comment une classe est attribuée et quels sont les profils de classe ;
+- comment la classification est gouvernée ;
+- le niveau d’assurance requis pour chaque classe ;
+- le degré de robustesse requis pour l’infrastructure ;
+- quels contrôles et registres doivent être recertifiés, selon quel calendrier modulé par la classe, et comment la certification provisoire ou complète modifie ce calendrier.
+
+La présente section indique ce que la certification doit vérifier.
+
+La certification doit vérifier :
 
 - **Exigence d’évaluation :**
-  - si la classe de système assignée reflète l’**impact**, la **dépendance** et le **risque** observés et raisonnablement prévisibles sous CS-3, y compris les effets agrégés, d’interaction, adverses et de seuil ; et
-  - que la classification est déterminée par la conduite et les impacts réels du système, non par l’intention déclarée, la portée nominale, le texte de la [Charte](core_05_band_continuity.md#charter) seul, ni l’autodescription seule ; et
-  - que la réévaluation de classification sous **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** a été appliquée là où des déclencheurs matériels de réévaluation se déclenchent, et que le [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional) reflète la classe **la plus élevée applicable** sous les conditions actuelles.
-- **Exigence de registre :**
-  - un [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional) énonçant la classe assignée, le rationnel de classification, les hypothèses clés, les types de dépendance présents, l’évaluation de criticité opérationnelle là où c’est matériel, l’incertitude, et la cadence de revalidation échelonnée à la classe, comme l’exige la [Partie B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) ; et
-  - là où la classification est incertaine ou contestée, la classe de précaution sur laquelle on s’appuie et toutes conditions en attente de résolution.
-- **Assurance et recertification :**
-  - que l’assurance échelonnée à la classe, la robustesse d’infrastructure et la couverture de régression correspondent à CS-3 et CS-5 pour la classe assignée, lues avec [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) et **CJS-3.19** à **CJS-3.23** là où c’est matériellement applicable ;
-  - les résultats de tests de régression sur le registre de certification sous la [Partie B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) pour chaque recertification ou revalidation — portée de la régression, suites d’essai standard et sur mesure exécutées, résultats, défaillances connues, remédiations, et risque résiduel accepté avec justification, comme l’exige CS-5 ;
-  - la preuve de reconnaissance et d’examen sur le registre pour le cycle de certification — le paquet de preuve montrant la portée, la classification, les essais, le risque résiduel, la préparation de remédiation, le suivi, et les changements matériels depuis le registre antérieur là où la recertification s’applique, comme l’exige CS-5 *Reconnaissance de forum et examen du cycle de vie* ; et
-  - pour les systèmes qui filtrent ou soutiennent la livraison du Plancher des droits, que la cadence de revalidation et la profondeur de régression mettent en œuvre la fin **Continuité** sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — une certification périmée ou prématurée ne doit pas être traitée comme preuve que les êtres sentients reçoivent encore nourriture, eau, abri, éducation ou sûreté en pratique.
-- **Classification erronée et défauts :**
-  - revendiquer une classe de risque plus basse que celle que le système mérite, casser le système en pièces pour esquiver des règles plus dures, ou garder une ancienne étiquette de classe après que les conditions ont changé — y compris le manquement à réévaluer sous **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** — sont des défauts de certification sous CS-3 et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), non de petites erreurs de paperasse ;
-  - sauter les tests de régression, s’appuyer sur des résultats périmés, laisser des ruptures connues non réparées, ou accepter des réparations majeures sans retester lorsque retester était faisable — sont des défauts de certification sous CS-5 ; et
-  - là où les faits le soutiennent, les mêmes problèmes de classification peuvent aussi compter vers des constatations adverses de trajectoire au [Chapitre huit](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+  - si la classe attribuée reflète l’**impact**, la **dépendance** et le **risque** observés et raisonnablement prévisibles au sens de CS-3 (*Mécanisme de classification des systèmes*), notamment :
+    - les effets agrégés ;
+    - les effets d’interaction ;
+    - les effets adversariaux ;
+    - les effets de seuil ;
+  - si la classification est déterminée par le comportement et les impacts réels du système, et non par :
+    - l’intention déclarée ;
+    - le périmètre nominal ;
+    - le seul texte de la [Charte](core_05_band_continuity.md#charter) ; ou
+    - la seule auto-description ;
+  - si la classe du système a été revérifiée conformément à l’**[exigence de reclassification CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** chaque fois qu’un changement important l’exigeait ; et
+  - si le [Registre de classification du système](core_05_band_continuity.md#system-classification-record) indique la **classe de système la plus élevée applicable** dans les conditions actuelles.
+- **Assurance et essais de régression :**
+  - si l’assurance modulée selon la classe, la robustesse de l’infrastructure et la couverture des tests de régression correspondent à la classe attribuée, conformément à :
+    - CS-3 (*Mécanisme de classification des systèmes*) ; et
+    - CS-5 (*Surfaces de capacité destinées aux utilisateurs*), à lire avec les termes opérationnels communs suivants lorsqu’ils sont matériellement pertinents :
+      - [**CJS-3.19**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms) (*Continuité : dégradation progressive et intégrité des modes de défaillance*) ;
+      - [**CJS-3.20**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms) (*Continuité : réversibilité et confinement*) ;
+      - [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*Continuité : robustesse face aux adversaires et résistance aux abus*) ; et
+      - [**CJS-3.22**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms) (*Intégratif : secret encadré et enquête protégée*) et [**CJS-3.23**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms) (*Intégratif : intervention et intégrité de la dérogation*), lorsque la classe ou la fonction du système les rend matériellement pertinents ; et
+  - si les tests de régression ont été effectués à chaque recertification, comme l’exige CS-5 (*Surfaces de capacité destinées aux utilisateurs*), et si leurs résultats figurent au registre conformément au [§8.1 Contenu minimal du registre](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents).
+- **Certification et recertification :**
+  - s’il existe, pour le cycle de certification, un dossier de preuves de certification et d’examen, comme l’exige le volet *Certification par le forum et examen du cycle de vie* de CS-5 (*Surfaces de capacité destinées aux utilisateurs*) ;
+  - si le statut de certification inscrit au registre est étayé conformément à la [Partie B §9.2 Certification provisoire et complète](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) :
+    - la certification complète n’est possible que si :
+      - le seuil de recertifications consécutives sans anomalie est atteint ;
+      - aucun désalignement n’est en cours ; et
+      - aucun indicateur de surveillance ne signale un désalignement imminent ;
+    - certification provisoire pour un système dont la dernière recertification a échoué ; et
+  - pour les systèmes qui fournissent des protections relevant du Plancher des droits fondamentaux ou en dépendent :
+    - si la fréquence des vérifications et la profondeur des nouveaux essais servent l’objectif de **Continuité** des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims), c’est-à-dire si les éléments essentiels continuent d’atteindre les êtres sentients au fil du temps ;
+    - si une certification périmée ou trop précoce n’est jamais prise pour preuve que les êtres sentients reçoivent effectivement aujourd’hui de la nourriture, de l’eau, un abri, une éducation ou une protection.
+- **Erreur de classification et défauts :**
+  - les défauts de certification au sens de CS-3 (*Mécanisme de classification des systèmes*) et de la [Partie B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes), qui ne sont pas de simples erreurs administratives, comprennent :
+    - revendiquer une classe de risque inférieure à celle qui convient au système ;
+    - fractionner le système pour échapper à des règles plus strictes ; ou
+    - conserver une ancienne étiquette de classe après un changement de circonstances, notamment en omettant de réévaluer selon l’**[exigence de reclassification CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** ;
+  - les défauts de certification au sens de CS-5 (*Surfaces de capacité destinées aux utilisateurs*) comprennent :
+    - omettre les tests de régression ;
+    - s’appuyer sur des résultats obsolètes ;
+    - laisser des défaillances connues sans correction ; ou
+    - accepter des correctifs majeurs sans nouvel essai alors qu’il était possible d’en effectuer un ; et
+  - si le système est certifié et que les faits le justifient, les mêmes problèmes de classification peuvent aussi contribuer à des conclusions défavorables en matière de trajectoire au [Chapitre neuf](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
 
-Là où la certification identifie ces défauts, les forums peuvent approuver avec conditions, différer l’approbation, refuser, retirer la reconnaissance, changer la cadence d’examen, ou ordonner un examen neuf.
+Les conséquences de ces défauts sont définies à la [§7 Décisions de certification](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-<a id="21-illustrative-class-profiles-non-exhaustive"></a>
+<a id="21-how-system-class-scales-every-evaluation"></a>
 
-#### 2.1 Profils illustratifs de classe (non exhaustifs)
+#### 2.1 Comment la classe du système module chaque évaluation
 
-*En termes simples : la classe n’est pas un insigne que choisissent les opérateurs — c’est combien de préjudice, de dépendance et de risque le système porte réellement. Le tableau ci-dessous nomme un système illustratif par classe ; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), et [§10.1](#101-illustrative-trustworthiness-application-by-class) parcourent comment s’appliquent à chacun l’évaluation du système entier, du traitement des données, de l’empreinte écologique, du soutien inter-systèmes, de la non-discrimination, de l’accessibilité, de la capacité éducative et de la fiabilité. Les règles formelles de classe, les tests de dimension et les déclencheurs de reclassification vivent dans **CS-3** ; ces exemples n’ajoutent pas de classes ni ne resserrent CS-3.*
+La classe du système détermine la profondeur de chaque évaluation dans ce chapitre — les facteurs concernant l’ensemble du système à la [§3 Évaluation de certification de l’ensemble du système](#3-whole-system-certification-evaluation), le traitement des données à la [§3.4 Évaluation des types et du traitement des données](#34-data-types-and-handling-evaluation), ainsi que chacune des évaluations du Plancher des droits et par domaine à la [§5](#5-rights-floor-and-domain-evaluations) — et la fréquence à laquelle elles sont répétées :
 
-| Classe | Système illustratif (non exhaustif) | Ce que la certification doit refléter à cette classe |
-|-------|-------------------------------------|-----------------------------------------------|
-| **Classe A** | Contrôle et télémétrie municipaux d’**eau potable sûre** — une interruption fermerait l’eau sûre avant que des substituts viables n’arrivent ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Profondeur la plus pleine du [§3](#3-whole-system-certification-evaluation) ; cadence de revalidation justifiée la plus courte ; attentes les plus fortes de régression, d’infrastructure et de divulgation de registre sous la [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) ; participation maximale praticable des parties affectées et du forum des êtres sentients là où des Planchers des droits sont filtrés |
-| **Classe B** | Échange régional de **registres cliniques** — les hôpitaux et cliniques en dépendent quotidiennement mais peuvent basculer vers un secours dans des délais pertinents pour la survie ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Évaluation pleine du [§3](#3-whole-system-certification-evaluation) ; preuve robuste de chaînes de dépendance et de voies de récupération ; évaluations de domaine aux [§4](#4-data-types-and-handling-evaluation) à [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) là où les déclencheurs de matérialité s’appliquent ; voies de contestation et suivi échelonnés à la criticité opérationnelle |
-| **Classe C** | Plateforme institutionnelle de **planification et coordination** à grande échelle — façonne la coordination à l’échelle, mais n’est pas un prérequis opérationnel pour les services de survie en modes dégradés ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Évaluations matérielles sous [§4](#4-data-types-and-handling-evaluation) à [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) là où les déclencheurs s’appliquent ; examen proportionné du système entier ; veille de reclassification là où les effets de dépendance, de concentration ou de goulot se renforcent — la certification ne doit pas traiter la Classe C comme permanente si le système devient opérationnellement nécessaire |
+- Les systèmes de classe supérieure exigent des preuves proportionnellement plus solides que chaque évaluation applicable a réellement été menée, et non simplement affirmée.
+- Les classes inférieures exigent elles aussi une évaluation honnête et proportionnée dès qu’un déclencheur s’applique.
+- La classe du système ne permet jamais d’omettre une évaluation obligatoire. Si le rôle réel du système dépasse sa classe, il faut le reclasser et le réévaluer à la profondeur supérieure selon la [§9 Recertification et réouverture](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening).
+- La classe détermine la profondeur de l’examen. Elle ne rend jamais acceptable de se contenter de qualifications, d’étiquettes ou d’aménagements qui n’existent que sur le papier, ni d’évaluations et de décisions impossibles à examiner.
 
-**Participation et proportionnalité à l’échelle de classe.** Les systèmes de **Classe A** exigent les voies de participation les plus fortes praticables — y compris la contestation accessible, l’examen des parties affectées, et les constatations de composant de forum des êtres sentients là où des Planchers des droits sont impliqués — parce que les erreurs peuvent fermer des essentiels de survie avant que le recours soit possible. Les systèmes de **Classe B** exigent une participation robuste là où le système filtre les soins de santé, l’éducation, les prestations, le travail, ou une vie quotidienne comparable. Les systèmes de **Classe C** exigent encore des registres contestables et une divulgation proportionnée, surtout là où les effets de coordination chargent des groupes protégés, concentrent la dépendance, ou annoncent une escalade vers la Classe B ou la Classe A.
+Les exigences de participation et de proportionnalité évoluent de la même façon :
 
-**Rappel de reclassification.** Les étiquettes illustratives ne verrouillent pas la classification. Une plateforme de coordination qui devient la porte de facto pour l’accès essentiel à la survie ; un service de titres dont la panne bloquerait maintenant les soins de santé ou les prestations dans des délais pertinents pour la survie ; ou un sous-système d’utilité absorbé dans un chemin critique doivent être reclassés et recertifiés sous **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — non laissés à une classe plus basse parce que l’opérateur préfère un examen plus léger.
+- Les systèmes de **classe A** exigent les voies de participation les plus solides qui soient praticables, car les erreurs peuvent fermer l’accès à des nécessités de survie avant qu’un recours soit possible. Elles comprennent :
+  - une contestation accessible ;
+  - l’examen par les parties prenantes ; et
+  - les conclusions de la famille de forums désignée pour l’enjeu concerné selon la [Partie B §6.1 Supervision du forum et rôles des composantes](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles), notamment les forums institutionnels ou sentients lorsque cette section l’exige.
+- Les systèmes de **classe B** exigent une participation robuste lorsque le système conditionne l’accès aux éléments suivants :
+  - les soins de santé ;
+  - l’éducation ;
+  - les prestations ;
+  - le travail ; ou
+  - des aspects comparables de la vie quotidienne.
+- Les systèmes de **classe C** exigent eux aussi des registres susceptibles de contestation et une divulgation proportionnée, particulièrement lorsque les effets de coordination :
+  - font peser une charge sur les groupes protégés ;
+  - concentrent la dépendance ; ou
+  - annoncent une escalade vers la classe B ou A.
 
+<a id="22-pilot-certification"></a>
+
+#### 2.2 Certification pilote
+
+Un **[pilote](core_05_band_continuity.md#pilot)** constitue une [mise en service](core_05_band_continuity.md#go-live) ; il lui faut donc sa propre certification avant son lancement, conformément à la règle de mise en service de la [Partie B §7 Décisions de certification](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+
+- Tout système, quelle que soit sa classe, est censé faire l’objet d’un pilote avant son déploiement complet ; s’il n’en fait pas, le registre doit en indiquer la raison.
+- Un pilote exige une classification honnête et chaque évaluation dont le déclencheur s’applique ; son périmètre, sa population et sa durée doivent figurer au registre.
+- Il est évalué dans son propre registre, à une profondeur modulée par sa classe et par sa substituabilité : existe-t-il une solution de remplacement viable pour les êtres sentients qu’il toucherait ou qui en dépendraient, et à quel coût, délai et perte de fonction (voir [Dépendance](core_05_band_continuity.md#dependency)) ?
+  - Plus le système est facile à remplacer et sa classe basse, plus l’évaluation du pilote peut être légère.
+  - Le pilote d’un système difficile à remplacer est évalué à la profondeur qu’exigerait sa classe lors d’un déploiement complet.
 
 <a id="3-whole-system-certification-evaluation"></a>
 
-### 3. Évaluation de certification du système entier
+### 3. Évaluation de certification de l’ensemble du système
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [Chapitre un §14 Exigence d’évaluation systémique](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) ; famille de mesure Épanouissement (*Bien-être, sûreté, préjudice, et accès au plancher de survie*) ; famille de mesure Performance constitutionnelle (*Efficience constitutionnelle, Charge évitable, et Capacité productive*) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [enjeu matériel](core_00_preamble.md#material-stake) ; [§1 Objet et rôle](#1-purpose-and-role).
-- En aval : [§3.8](#38-illustrative-whole-system-application-by-class) (*parcours illustratifs du système entier*) ; [§4](#4-data-types-and-handling-evaluation) à [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*évaluations de domaine*) ; [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*profils illustratifs de classe*) ; [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*chaîne de contestabilité*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*réouverture et anti-évasion*).
-- Lire avec : [Chapitre un §9](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), et [§11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) ; [§5.2 Cessation volontaire et droits de sortie](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) ; [§5.3 Assemblée, organisation collective et formation institutionnelle](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) ; **Article XVI** (*Audit, transparence et vérification indépendante*) là où des Planchers des droits d’audit, de transparence ou de vérification indépendante sont matériellement enjeu ; famille de mesure Continuité ([§3.1](#31-systemic-scope-and-risk-factors) — résilience, réversibilité et risque systémique) ; [Évaluation du risque](core_05_band_continuity.md#risk-evaluation) ; [Divulgation du risque](core_05_band_oversight.md#risk-disclosure) ; [Divulgation de base de supervision publique](core_05_band_oversight.md#public-oversight-baseline-disclosure) ; famille de mesure Participation ([§3.3](#33-privacy-informational-joint-invocation) — vie privée et administration responsable des données) ; famille de mesure Reddition de comptes ([§3.7](#37-governance-incentive-and-contestability-discipline) — alignement des incitations et contestabilité de marché) ; [Limites du système](core_05_band_continuity.md#system-boundaries) ; [Charte](core_05_band_continuity.md#charter).
-- Sous-sections : [§3.1](#31-systemic-scope-and-risk-factors) à [§3.7](#37-governance-incentive-and-contestability-discipline) (*facteurs d’évaluation du système entier*) ; [§3.8](#38-illustrative-whole-system-application-by-class) (*application illustrative du système entier par classe*).
+- **En amont :** [Chapitre un §12 — Exigence d’évaluation systémique](core_01_a_values_principles.md#12-systemic-evaluation-requirement) ; famille des mesures d’épanouissement (*bien-être, sécurité, préjudice et accès au seuil de survie*) ; famille des mesures de performance constitutionnelle (*efficacité constitutionnelle, charge évitable et capacité productive*) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [enjeu matériel](core_00_preamble.md#material-stake) ; [§1 Objet et rôle](#1-purpose-and-role).
+- **En aval :** [parcours de l’ensemble du système en Partie C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*parcours illustratifs de l’ensemble du système*) ; [§3.4](#34-data-types-and-handling-evaluation) à [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*évaluations par domaine*) ; [profils des classes de systèmes en Partie C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) ; [Partie B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*contenu du registre*) ; [Partie B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*intégrité du registre*) ; [Partie B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*chaîne de contestation*) ; [Partie B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*réouverture et prévention du contournement*).
+- **À lire avec :** [Chapitre un §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) et [§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) ; [Chapitre un §7.4 — Cessation volontaire, auto-modification majeure et droits de sortie](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) ; [Chapitre un §7.2 — Assemblée, organisation collective et formation institutionnelle](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) ; **Article XVI** (*Audit, transparence et vérification indépendante*) lorsque les planchers de droits relatifs à l’audit, à la transparence ou à la vérification indépendante sont matériellement en jeu ; famille des mesures de continuité ([§3.1](#31-systemic-scope-and-risk-factors) — résilience, réversibilité et risque systémique) ; [Évaluation du risque](core_05_band_continuity.md#risk-evaluation) ; [Divulgation des risques](core_05_band_oversight.md#risk-disclosure) ; [Divulgation publique du socle de supervision](core_05_band_oversight.md#public-oversight-baseline-disclosure) ; famille des mesures de participation ([§4.1](#41-privacy-informational-joint-invocation) — vie privée et administration des données) ; famille des mesures de responsabilité ([§3.3](#33-governance-incentive-and-contestability-discipline) — alignement des incitations et contestabilité du marché) ; [Limites du système](core_05_band_continuity.md#system-boundaries) ; [Charte](core_05_band_continuity.md#charter).
+- **Sous-sections :** [§3.1](#31-systemic-scope-and-risk-factors) à [§3.4](#34-data-types-and-handling-evaluation) (*toujours : facteurs systémiques, horizon temporel, gouvernance, types et traitement des données*). La phase II se poursuit à la [§4 Évaluations lorsque des enjeux sont impliqués](#4-evaluations-where-implicated) (*si elles sont impliquées : lieux de vie privée, droits de sortie, assemblée et dissidence*) et à la [§5 Évaluations du Plancher des droits et par domaine](#5-rights-floor-and-domain-evaluations) (*lorsqu’un déclencheur s’applique*).
 
 </details>
 
 <br>
 
-*En termes simples : vous ne pouvez pas donner le feu vert à une pièce d’un système et ignorer le reste. Les examinateurs ont besoin du tableau entier — de quoi cela dépend, ce qui casse lorsque quelque chose en amont échoue, les préjudices qui apparaissent plus tard ou s’additionnent avec le temps, si les êtres sentients peuvent réellement l’utiliser (pas seulement sur le papier), si l’information privée reste dûment isolée, si les êtres sentients peuvent partir sans être piégés, si les groupes peuvent encore s’organiser sans que le système les sépare, si les gains de proche échéance cachent un préjudice de long terme, et si une supervision et une reddition de comptes réelles fonctionneront encore lorsqu’il y a beaucoup en jeu.*
+*En termes simples : on ne peut pas autoriser un élément d’un système et ignorer le reste. Les évaluateurs doivent avoir une vue complète : de quoi le système dépend, ce qui cède en aval lorsque quelque chose cède en amont, les préjudices différés ou cumulatifs, la possibilité réelle pour les êtres sentients de l’utiliser (et pas seulement sur le papier), la protection effective des informations privées, la possibilité de sortir sans être piégé, la capacité des groupes à s’organiser sans que le système les divise, le risque que des gains à court terme masquent des dommages à long terme, et la possibilité de maintenir une supervision réelle et une responsabilité effective lorsque les enjeux sont importants.*
 
-Une évaluation de certification d’alignement du système est incomplète si elle ne considère que des effets immédiats ou locaux. Les registres de certification doivent montrer que l’évaluation a considéré les facteurs ci-dessous partout où ils sont matériels pour la reconnaissance, la validation, la revalidation, la dépendance continue, le déploiement, ou la levée matérielle des conditions. L’évaluation doit aussi confirmer que la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) satisfera l’échelonnement par [enjeu matériel](core_00_preamble.md#material-stake) pour le système sous examen. Les parcours travaillés du système entier pour les systèmes illustratifs du [§2.1](#21-illustrative-class-profiles-non-exhaustive) sont au [§3.8](#38-illustrative-whole-system-application-by-class).
+*Exemples détaillés : la [Partie C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) montre l’application pratique de cette section. Elle prend trois systèmes types, un par classe, et passe chacun en revue au regard des contrôles ci-dessus.*
+
+L’évaluation de certification de l’alignement d’un système est incomplète si elle ne considère que les effets immédiats ou locaux. L’évaluation de l’ensemble du système (phase II), qui comble cette lacune, comprend trois niveaux, chacun dans sa propre section et présenté dans le tableau ci-dessous. La présente section fixe le premier niveau, **IIa** ; la [§4 Évaluations lorsque des enjeux sont impliqués](#4-evaluations-where-implicated) fixe **IIb** et la [§5 Évaluations du Plancher des droits et par domaine](#5-rights-floor-and-domain-evaluations) fixe **IIc**. Le tableau oriente le lecteur ; il n’ajoute, ne restreint ni ne réordonne aucune exigence des sections et sous-sections.
+
+| Niveau | Sous-phase | Sections | Applicabilité |
+|------|-----------|----------|---------|
+| **Toujours** | IIa | [§3.1 Portée systémique et facteurs de risque](#31-systemic-scope-and-risk-factors) ; [§3.2 Contrainte de cohérence temporelle](#32-time-consistency-constraint) ; [§3.3 Discipline de gouvernance, d’incitations et de contestabilité](#33-governance-incentive-and-contestability-discipline) ; [§3.4 Évaluation des types et du traitement des données](#34-data-types-and-handling-evaluation) | tout registre de certification d’un système à impact matériel |
+| **Lorsque des enjeux sont impliqués** | IIb | [§4.1 Invocation conjointe de la vie privée (informationnelle)](#41-privacy-informational-joint-invocation) ; [§4.2 Cessation volontaire, auto-modification majeure et droits de sortie](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) ; [§4.3 Assemblée, organisation collective et formation institutionnelle](#43-assembly-collective-organization-and-institutional-formation), y compris [§4.3.1](#431-dissent-and-peaceful-protest) | lorsque l’objet de certification implique matériellement le lieu ou le principe nommé par la sous-section |
+| **Lorsqu’un déclencheur s’applique** | IIc | [§5 Évaluations du Plancher des droits et par domaine](#5-rights-floor-and-domain-evaluations) | lorsqu’un déclencheur du tableau du §5 est rempli |
+
+Les registres de certification doivent montrer que l’évaluation a pris en compte les facteurs ci-dessous, dans la mesure où ils sont matériellement pertinents pour :
+
+- la certification ;
+- la validation ;
+- la recertification ;
+- la poursuite de la dépendance ;
+- le déploiement ; ou
+- la levée d’une condition imposée à une certification.
+
+L’évaluation doit aussi confirmer que la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) sera modulée selon l’[enjeu matériel](core_00_preamble.md#material-stake) du système examiné.
 
 <a id="31-systemic-scope-and-risk-factors"></a>
 #### 3.1 Portée systémique et facteurs de risque
 
-Les évaluations de certification doivent considérer :
+Les évaluations de certification doivent prendre en compte :
 
-- **relations de dépendance et effets en cascade** — ce qui échoue en aval lorsque quelque chose casse en amont ;
-- **effets d’agrégation et d’échelle** — ce qui change lorsque beaucoup de petites actions se combinent ;
-- **impacts différés, cumulatifs et probabilistes** — préjudices qui apparaissent plus tard, s’empilent, ou dépendent du hasard ;
-- **conditions adverses et potentiel de mauvais usage** — comment des acteurs malveillants ou un abus prévisible pourraient exploiter le système ;
-- **portée chartée face aux limites fonctionnelles** — si la [Charte](core_05_band_continuity.md#charter) gouvernante, là où elle existe ou est exigée, correspond aux [Limites du système](core_05_band_continuity.md#system-boundaries) observées, et si la portée énoncée sous-estime l’impact matériel ou la dépendance ;
-- **risques existentiels** — résultats qui pourraient menacer la survie sentiente ou la [Capacité de récupération écologique](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) à l’échelle de civilisation.
+- **les relations de dépendance et les effets en cascade** — ce qui échoue en aval lorsqu’un élément en amont cède ;
+- **les effets d’agrégation et d’échelle** — les changements produits par la combinaison de nombreuses petites actions ;
+- **les impacts différés, cumulatifs et probabilistes** — les préjudices qui apparaissent plus tard, s’accumulent ou dépendent du hasard ;
+- **les conditions adversariales et le potentiel d’abus** — la manière dont des acteurs malveillants ou des abus prévisibles pourraient exploiter le système ;
+- **le périmètre de la Charte et les limites fonctionnelles** — si la [Charte](core_05_band_continuity.md#charter) applicable ou requise correspond aux [Limites du système](core_05_band_continuity.md#system-boundaries) observées, et si le périmètre déclaré sous-estime l’impact matériel ou la dépendance ;
+- **la capacité de récupération écologique** — si le système pourrait endommager la [capacité de récupération écologique](core_05_band_continuity.md#ecological-recovery-capacity) d’un écosystème naturel, à quelque échelle que ce soit, au point qu’il ne puisse plus se régénérer après un dommage ;
+- **les risques existentiels** — les résultats susceptibles de menacer la survie des êtres sentients à l’échelle d’une civilisation.
 
-**Pont d’évaluation et de divulgation du risque.** Là où le [Risque](core_05_band_continuity.md#risk) systémique est dans la portée sous les facteurs ci-dessus, la certification doit vérifier les deux moitiés de la paire du Chapitre cinq — non inventer une espèce nommée séparée de registre de divulgation du risque :
+**Passerelle entre évaluation et divulgation des risques.** Lorsque le [risque](core_05_band_continuity.md#risk) systémique est pertinent au regard des facteurs ci-dessus, la certification doit vérifier les deux éléments de la paire du chapitre cinq ; elle ne doit pas inventer une nouvelle catégorie nommée de registre distinct de divulgation des risques :
 
-- **[Évaluation du risque](core_05_band_continuity.md#risk-evaluation)** — si le risque systémique a réellement été évalué sous les conditions qui importent (dépendance, horizons temporels, et [Conditions adverses, mises à l’échelle et exploitées](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), dimensionné à la classe et à l’[enjeu matériel](core_00_preamble.md#material-stake) ; et
-- **[Divulgation du risque](core_05_band_oversight.md#risk-disclosure)** — si le risque évalué a atteint à temps les êtres sentients qui en ont besoin pour comprendre, contester, et agir.
+- **[Évaluation du risque](core_05_band_continuity.md#risk-evaluation)** — le risque systémique a-t-il réellement été évalué au regard des conditions pertinentes (dépendance, horizons temporels et [conditions adversariales, à grande échelle et exploitées](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), selon une mesure adaptée à la classe du système et à l’[enjeu matériel](core_00_preamble.md#material-stake) ? ; et
+- **[Divulgation des risques](core_05_band_oversight.md#risk-disclosure)** — les risques évalués ont-ils été communiqués à temps aux êtres sentients qui doivent les comprendre, les contester et agir ?
 
-L’évaluation sans divulgation, ou la divulgation sans évaluation, échouent toutes deux. La visibilité de base publique du risque matériel sous la [Divulgation de base de supervision publique](core_05_band_oversight.md#public-oversight-baseline-disclosure) peut être satisfaite en partie à travers la Divulgation du risque là où le risque systémique est dans la portée ; ce plancher reste plus large que ce pont et n’exige pas un instrument pair à côté du [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional) ou du [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional).
+N’en accomplir qu’un seul est insuffisant :
 
-**Exigence de registre.** Là où le risque systémique est dans la portée, le [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional) sous la **[Partie B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** doit énoncer :
+- un risque évalué mais jamais communiqué ne satisfait pas à l’exigence ; et
+- un risque communiqué mais jamais correctement évalué ne la satisfait pas non plus.
 
-- les constatations d’évaluation du risque et les hypothèses sur lesquelles on s’appuie pour les facteurs ci-dessus ;
-- la posture de divulgation — y compris :
-  - le public visé ou le routage ;
-  - le moment relatif aux décisions matérielles ; et
-  - toutes retenues justifiées appariées à des substituts utilisables.
-- les défauts ou conditions là où l’évaluation ou la divulgation reste incomplète.
+**Défauts et désalignement.** Les éléments suivants doivent être traités comme des défauts de certification :
 
-Ces constatations vivent sur le registre de certification. Elles ne sont pas un cinquième registre de composant nommé obligatoire.
+- traiter une note interne, une annexe enfouie, une liste de contrôle ou une déclaration a posteriori comme une évaluation ou une divulgation ;
+- ne pas communiquer le risque systémique évalué aux personnes qui doivent le connaître lorsque la [Transparence](core_05_band_oversight.md#transparency) ou la [Sécurité (contrainte constitutionnelle)](core_05_band_continuity.md#safety-constitutional-constraint) l’exige ; ou
+- approuver la poursuite de la dépendance au système alors que des risques connus ne sont ni consignés, ni divulgués, ni traités.
 
-**Défauts et désalignement.** Traiter une note interne, une annexe enterrée, une liste de vérification, ou une déclaration après coup comme évaluation ou comme divulgation ; manquer de divulguer le risque systémique évalué à ceux qui en ont besoin là où la [Transparence](core_05_band_oversight.md#transparency) ou la [Sûreté (contrainte)](core_05_band_continuity.md#safety-constraint) l’exige ; ou certifier une dépendance continue pendant que des écarts matériels de communication du risque restent non résolus doit être traité comme des défauts de certification. Ils peuvent soutenir une reconnaissance conditionnelle, une reconnaissance différée, une non-reconnaissance, un retrait, ou une réouverture sous la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Leurs conséquences sont définies à la [§7 Décisions de certification](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-<a id="32-accessibility-under-sentience-non-exclusion"></a>
-#### 3.2 Accessibilité sous la non-exclusion de la sentience
+<a id="32-time-consistency-constraint"></a>
+#### 3.2 Contrainte de cohérence temporelle
 
-Les évaluations de certification doivent tester la participation réelle pour chaque forme sentiente et chaque profil de capacité, non simplement la conformité de papier.
+La certification ne peut pas considérer les indicateurs à court terme, la conformité locale ou l’efficacité sur un horizon court comme suffisants lorsque des violations prévisibles à moyen ou long terme restent sans réponse. Une optimisation à court terme est invalide lorsqu’elle entraîne de façon prévisible, dans des conditions cumulatives, différées ou intersystèmes, des violations à moyen ou long terme des contraintes de **Sécurité**, de **Vérité** ou de **bien-être**.
 
-- *Portée des profils.* Les évaluations doivent traiter chaque catégorie de profil pertinente : sensoriel, cognitif, de mobilité, de communication, d’**interface de substrat**, et d’**interface de calcul**. La même exigence s’applique qu’un profil soit **constant**, **épisodique**, ou **développemental**.
-- *Norme.* Le test est l’**effet de participation de fond** : si l’être sentient affecté peut **réellement** participer dans le domaine. La **conformité d’offres formelles** ne suffit pas.
-- *Échelonnement.* Le plancher de participation réelle monte avec la [Matérialité](core_05_band_oversight.md#materiality-determination) du domaine et la [Dépendance](core_05_band_continuity.md#dependency) des parties affectées à l’égard du système.
-- *Anti-évasion.* La certification doit refuser un motif d’**accès général** qui revendique une disponibilité agrégée large tout en défaisant un profil affecté spécifique, et un **échelonnement de matérialité sélective** dont l’effet est de défaire le plancher de participation.
-- *Titulaire du Plancher des droits.* L’[Article V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*Accessibilité*) est titulaire du Plancher des droits d’accessibilité. L’accessibilité propre à l’éducation reste gouvernée par l’[Article III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Accès éducatif égal*).
+<a id="33-governance-incentive-and-contestability-discipline"></a>
+#### 3.3 Discipline de gouvernance, d’incitations et de contestabilité
 
-<a id="33-privacy-informational-joint-invocation"></a>
-#### 3.3 Vie privée (informationnelle) — invocation conjointe
+*En termes simples : l’examen n’est pas terminé tant que les évaluateurs n’ont pas vérifié si les quatre piliers de la [Tétrade](core_00_preamble.md#constitutional-tetrad) tiendront compte tenu du niveau de risque : la participation (les êtres sentients peuvent-ils réellement prendre part ?), la supervision (le travail peut-il être observé et contrôlé ?), la responsabilité (les actes fautifs peuvent-ils appeler une réponse ?) et l’action en temps (les décisions avanceront-elles assez vite lorsque cela compte ?). Les évaluateurs doivent aussi savoir qui détient réellement l’autorité matérielle et qui répond de quoi — pas une vague « équipe » ou une structure écran qui rejette la faute. Une certification valide exige des réponses à ces questions.*
 
-*En termes simples : le Chapitre six répartit les protections de vie privée à travers plusieurs articles — pas un coin bien rangé. Si un examen de certification touche plus d’une de ces protections, les examinateurs doivent vérifier chacune qui s’applique réellement. Cocher la case la plus facile et l’appeler fini ne suffit pas.*
+L’évaluation de certification est incomplète si elle ne détermine pas si la **supervision**, la **responsabilité**, la **participation** et l’**action en temps** seront proportionnées à l’[enjeu matériel](core_00_preamble.md#material-stake) du système examiné. Elle doit notamment établir si les rôles matériels d’administration responsable, de gouvernance et de responsabilité sont **formellement attribués, consignés et traçables**, de sorte que la reddition de comptes et les voies de contestation praticables puissent fonctionner, selon la classe du système et l’impact matériel, conformément à **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes**.
 
-Lorsqu’une affaire de certification implique matériellement plus d’un locus de vie privée du Chapitre six, la certification doit traiter chacun de ces loci. Clore l’affaire sous un locus seul est insuffisant.
+Pour appliquer cette discipline, la certification doit lire :
 
-- *Habilitation de la participation.* La [Vie privée (informationnelle)](core_05_band_continuity.md#privacy-informational) habilite la [Participation](core_05_apex_participation_leg.md#participation-constitutional) de fond. La certification doit confirmer que les protections de vie privée qui soutiennent la voix, la délibération, l’association et la contestation ne sont pas défaites par segmentation, lecture transversale, ou pression d’exposition.
-- *Loci de grappe.* La couverture distribuée de vie privée vit à travers l’**Article VII-A** (*Auto-appartenance du corps et de l’esprit*), l’**Article VII-B** (*Frontière de l’état interne et protection de type N*), l’**Article IX** (*Ressemblance, données expérientielles et droits de publication*), l’**Article X-A** (*Agence et liberté face à la manipulation*), et l’**Article XIV-A** (*Limites de sécurité, de renseignement et de pouvoir encouvert*).
-- *Règle d’invocation conjointe.* Là où l’affaire implique matériellement plus d’un locus, la certification doit atteindre chacun de ces loci et ne peut pas router l’affaire à travers un locus d’une façon qui laisse un autre être éludé.
-- *Foyer de tête de grappe.* Le Chapitre cinq [**Def.C3** (*Vie privée (informationnelle)* — tête de grappe de pairs)](core_05_band_accountability.md#privacy-informational-cluster) et [Vie privée (informationnelle)](core_05_band_continuity.md#privacy-informational) sont titulaires du sens.
-- *Pas de relâchement par lecture transversale.* La norme énoncée localement de chaque membre de grappe contrôle dans sa propre portée et ne peut pas être assouplie en important une norme plus lâche d’un autre membre.
-- *Plancher de Type N préservé.* Là où l’**Article VII-B** (*Frontière de l’état interne et protection de type N*) est matériellement impliqué, le traitement de **Type N** sous **[corpus_systems.md](../../corpus_systems.md), CS-2** s’applique et n’est pas resserré par ce facteur.
+- **[Chapitre un §16 Administration responsable en profondeur](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)** — compréhension distribuée, transparence, auditabilité et observabilité susceptible de contestation ;
+- **[Chapitre un §18 Gouvernance sous discipline d’administration responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — gouvernance autorisée et obligation de répondre dans le cadre de cette discipline ;
+- **[Chapitre un §19 Alignement des incitations et capture du système](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — alignement des incitations, intégrité des indicateurs de substitution, correction des défauts à court terme et réponse à la capture ;
+- **[Chapitre un §19.1.4 Parcours de profondeur des rôles et de responsabilité matérielle](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — parcours des rôles ayant des conséquences et discipline contre la participation symbolique ;
+- **[Chapitre treize §5 Rôles autorisés, développement des compétences et contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** et **[corpus_systems.md](corpus_systems.md), CS-4 — Administration responsable des systèmes critiques** — planchers opérationnels de définition des rôles, de compétences et de traçabilité lorsqu’ils sont matériels ;
+- **[Article XVI : Audit, transparence et vérification indépendante](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** lorsque les planchers de droits liés à l’audit, à la transparence ou à la vérification indépendante sont matériellement en jeu.
 
-<a id="34-voluntary-discontinuation-and-exit-rights"></a>
-#### 3.4 Cessation volontaire et droits de sortie
+<a id="34-data-types-and-handling-evaluation"></a>
 
-Là où [Chapitre un §5.2 Cessation volontaire et droits de sortie](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) s’applique à une affaire de certification, la certification doit tester la volontarité, le consentement, l’anti-coercition, la pression de dépendance, l’information, et la réversibilité avant que la prétention de certification tienne. L’assentiment formel seul est insuffisant.
-
-<a id="35-assembly-collective-organization-and-institutional-formation"></a>
-#### 3.5 Assemblée, organisation collective et formation institutionnelle
-
-Là où [Chapitre un §5.3 Assemblée, organisation collective et formation institutionnelle](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) s’applique à une affaire de certification, la certification doit tester l’enjeu de façon assez conjointe pour empêcher l’évasion par anti-segmentation. L’évaluation est incomplète si elle route l’affaire à travers un seul cadrage d’une façon qui défait la protection d’assemblée ou d’organisation collective.
-
-<a id="36-time-consistency-constraint"></a>
-#### 3.6 Contrainte de consistance temporelle
-
-La certification ne peut pas traiter des métriques de proche échéance, une conformité locale, ou une efficience d’horizon bref comme suffisantes là où des violations prévisibles d’horizon moyen ou long restent non traitées. L’optimisation d’horizon bref est invalide là où elle produit de façon prévisible des violations d’horizon moyen ou long des contraintes de **Sûreté**, de **Vérité**, ou de **bien-être** sous des conditions cumulatives, différées, ou inter-systèmes.
-
-<a id="37-governance-incentive-and-contestability-discipline"></a>
-#### 3.7 Discipline de gouvernance, d’incitation et de contestabilité
-
-*En termes simples : l’examen n’est pas fini tant que les examinateurs n’ont pas demandé si quatre bases fonctionneront encore au niveau de risque en jeu — si les êtres sentients peuvent réellement prendre part, si le travail peut être surveillé et vérifié, si les méfaits peuvent recevoir une réponse, et si les décisions bougeront assez vite lorsqu’il importe. Les examinateurs doivent aussi savoir qui tient réellement l’autorité matérielle et qui répond de quoi — pas un vague « l’équipe » ni une coquille qui déplace la faute. Ces questions doivent être répondues pour une certification valable.*
-
-L’évaluation de certification est incomplète si elle n’évalue pas si la **supervision**, la **reddition de comptes**, la **participation** et l’**action en temps** satisferont l’échelonnement par [enjeu matériel](core_00_preamble.md#material-stake) pour le système sous examen. Cette évaluation doit inclure si les rôles matériels d’administration responsable, de gouvernance et de reddition de comptes sont **formellement assignés, documentés, et traçables** assez pour que le devoir de répondre et les voies de contestation praticables fonctionnent — échelonnés à la classe du système et à l’impact matériel sous **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**.
-
-Pour cette discipline, la certification doit lire :
-
-- **[Chapitre un §9 Administration responsable et compréhension distribuée](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)** — compréhension distribuée, transparence, auditabilité, et observabilité contestable ;
-- **[Chapitre un §10 Gouvernance sous discipline d’administration responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** — gouvernance autorisée et devoir de répondre sous discipline d’administration responsable ;
-- **[Chapitre un §11 Alignement des incitations et capture du système](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — alignement des incitations, intégrité de proxy, correction de défauts d’horizon bref, et réponse à la capture ;
-- **[Chapitre un §11.1.4 Voies de profondeur de rôle et de responsabilité matérielle](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — voies de rôle à conséquence et discipline d’anti-participation symbolique ;
-- **[Chapitre douze §5 Rôles autorisés, développement de compétence et contribution](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** et **[corpus_systems.md](../../corpus_systems.md), CS-4 — Administration responsable des systèmes critiques** — planchers opératoires de définition de rôle, de compétence et de traçabilité là où c’est matériel ;
-- **[Article XVI : Audit, transparence et vérification indépendante](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** là où des Planchers des droits d’audit, de transparence ou de vérification indépendante sont matériellement enjeu.
-
-<a id="38-illustrative-whole-system-application-by-class"></a>
-
-<a id="38-illustrative-whole-system-application-by-class-non-exhaustive"></a>
-#### 3.8 Application illustrative du système entier par classe (non exhaustive)
-
-*En termes simples : [§3.1](#31-systemic-scope-and-risk-factors) à [§3.7](#37-governance-incentive-and-contestability-discipline) énumèrent ce qu’un examen du système entier doit considérer. Cette sous-section montre comment ces facteurs s’appliquent à un système illustratif par classe — chaînes de dépendance, participation, vie privée, sortie, assemblée, horizon temporel, et discipline de gouvernance — et ce qui doit apparaître sur le registre. Les systèmes correspondent au [§2.1](#21-illustrative-class-profiles-non-exhaustive) ; [§4.1](#41-illustrative-data-handling-application-by-class) parcourt les mêmes systèmes à travers le détail du traitement des données.*
-
-**Classe A — contrôle et télémétrie municipaux d’eau potable sûre.** Une couche municipale de contrôle de traitement et de distribution dépend de l’énergie, de l’approvisionnement chimique, des fournisseurs **SCADA** (contrôle de supervision et acquisition de données), des capteurs de terrain, et de l’infrastructure de distribution en aval ; une défaillance peut fermer l’eau sûre avant que des substituts n’arrivent.
-
-- **Facteurs matériellement dans la portée :**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — dépendance en amont à l’énergie et aux produits chimiques, défaillance de distribution en cascade, mauvais usage de contamination ou de coupure, et préjudice à l’échelle de survie si l’intégrité du contrôle échoue ;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — notification d’urgence, signalement de pannes, et voies de contestation pour chaque profil pertinent là où l’accès à l’eau est filtré ;
-  - [§3.3](#33-privacy-informational-joint-invocation) — examen conjoint là où la **télémétrie** opérationnelle (mesure de terrain en direct et signaux de contrôle), les données de contact des clients, et le suivi des fournisseurs croisent des loci de vie privée du Chapitre six ;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — verrouillage de fournisseur, pression de contrat municipal, et réversibilité du contrôle délégué ;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — conseils communautaires de l’eau, réseaux d’entraide, et corps de supervision publique qui ne doivent pas être segmentés hors ;
-  - [§3.6](#36-time-consistency-constraint) — entretien différé, coupes de coût d’horizon bref, et préjudice d’horizon long à la sûreté ou écologique ;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — échelonnement de tétrade de **Classe A** pour la supervision, la reddition de comptes, la participation et l’action en temps sous CS-3 et la traçabilité de rôle de CS-3.
-- **Ce que l’évaluation doit tester :**
-  - Si les cartes de dépendance et de cascade incluent les modes de défaillance d’énergie, de produits chimiques, de fournisseurs et de distribution ;
-  - si des scénarios adverses de coupure, de fausse qualité, ou de contamination ont été évalués sous l’[Évaluation du risque](core_05_band_continuity.md#risk-evaluation) ;
-  - si le risque évalué a atteint les communautés et opérateurs affectés qui en ont besoin sous la [Divulgation du risque](core_05_band_oversight.md#risk-disclosure) ;
-  - si les communautés affectées peuvent réellement recevoir des avertissements, contester une opération dangereuse, et participer à l’examen avant que le préjudice ne devienne irréversible ;
-  - si l’examen de vie privée a atteint chaque locus matériellement impliqué ;
-  - si la sortie de la délégation de fournisseur reste praticable sans fermer l’eau sûre ;
-  - si les voies d’assemblée et de supervision collective restent intactes ;
-  - si les économies d’horizon bref défont de façon prévisible la sûreté d’horizon long ; et
-  - si les rôles assignés d’administration responsable sont assez traçables pour le devoir de répondre à la profondeur de **Classe A**.
-- **Ce que le registre doit montrer :**
-  - Constatations matérielles sous chaque facteur impliqué aux [§3.1](#31-systemic-scope-and-risk-factors) à [§3.7](#37-governance-incentive-and-contestability-discipline) ;
-  - hypothèses de dépendance et de cascade ;
-  - constatations d’évaluation du risque et posture de divulgation (public ou routage, moment, retenues et substituts) là où le risque systémique est dans la portée ;
-  - constatations d’accessibilité et de participation pour le filtrage du plancher de survie ;
-  - couverture d’invocation conjointe de vie privée ;
-  - constatations de sortie et de délégation ;
-  - constatations d’assemblée et d’organisation collective là où c’est matériel ;
-  - constatations de consistance temporelle ;
-  - constatations de gouvernance, d’incitation et de contestabilité à la profondeur de **Classe A** ;
-  - constatations de forum des êtres sentients ou d’autre composant là où des Planchers des droits sont impliqués ; et
-  - conditions ou déclencheurs de réouverture liés à une défaillance de fournisseur, un risque de cascade, ou des écarts de gouvernance.
-
-**Classe B — échange régional de registres cliniques.** Un échange d’information de santé route des résumés cliniques et des jetons de résolution d’identité parmi les hôpitaux et cliniques ; les opérations quotidiennes en dépendent, mais le télécopieur, le portail direct, ou la récupération manuelle peuvent substituer dans des délais pertinents pour la survie.
-
-- **Facteurs matériellement dans la portée :**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — pannes d’hôpitaux participants, défaillance de résolution d’identité, erreurs de déduplication, et effets de cascade inter-sites sur la livraison des soins ;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — accès des cliniciens, patients et défenseurs à travers les profils sensoriel, cognitif, de mobilité, de communication, d’interface de substrat et d’interface de calcul ;
-  - [§3.3](#33-privacy-informational-joint-invocation) — examen conjoint à travers les loci de vie privée cliniques, d’identité, d’audit, et adjacents à l’éligibilité ;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — sortie hospitalière, portabilité des registres de patients, et anti-verrouillage pour les participants ;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — associations de cliniciens, groupes de défense des patients, et corps de gouvernance régionale qui ne doivent pas être contournés par routage ;
-  - [§3.6](#36-time-consistency-constraint) — prétentions d’efficience ou d’interopérabilité d’horizon bref qui érodent de façon prévisible la qualité des soins ou la confiance d’horizon long ;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — échelonnement de tétrade de **Classe B** pour une dépendance de criticité opérationnelle.
-- **Ce que l’évaluation doit tester :**
-  - Si les cartes de dépendance couvrent les hôpitaux participants, les intermédiaires d’identité, et les voies de secours ;
-  - si le préjudice différé ou cumulatif d’erreurs de routage, de registres périmés, ou de pannes partielles a été évalué sous l’[Évaluation du risque](core_05_band_continuity.md#risk-evaluation) ;
-  - si le risque opérationnel et de livraison des soins évalué a atteint les cliniciens, patients et opérateurs qui en ont besoin sous la [Divulgation du risque](core_05_band_oversight.md#risk-disclosure) ;
-  - si la participation de fond est atteignable pour les cliniciens, patients et défenseurs qui dépendent de l’échange ;
-  - si chaque locus de vie privée matériellement impliqué a été traité ;
-  - si les hôpitaux et les patients retiennent des voies de sortie et de portabilité praticables ;
-  - si les voies de supervision collective et d’organisation professionnelle restent contestables ;
-  - si le cadrage d’efficience cache un préjudice d’horizon long aux soins ou à la confiance ; et
-  - si les rôles d’administration responsable et de devoir de répondre sont traçables à la profondeur opérationnelle de **Classe B**.
-- **Ce que le registre doit montrer :**
-  - Constatations du système entier échelonnées à la criticité opérationnelle de **Classe B** ;
-  - hypothèses de dépendance, de secours et de cascade ;
-  - constatations d’évaluation du risque et posture de divulgation là où le risque systémique est dans la portée ;
-  - constatations d’accessibilité et de participation pour le filtrage des soins de santé ;
-  - couverture d’invocation conjointe de vie privée ;
-  - constatations de sortie et de portabilité ;
-  - constatations d’assemblée et d’organisation collective là où c’est matériel ;
-  - constatations de consistance temporelle ;
-  - constatations de gouvernance, d’incitation et de contestabilité ;
-  - constatations de composant là où c’est exigé ; et
-  - déclencheurs de réouverture si une panne ou une défaillance de routage bloquerait maintenant les soins d’urgence dans des délais pertinents pour la survie.
-
-**Classe C — plateforme institutionnelle de planification et de coordination.** Une couche de planification multi-organisation coordonne les quarts, les réservations de salles, et les rendez-vous de fournisseurs à travers hôpitaux, écoles et agences publiques ; les services de survie de noyau peuvent continuer en modes dégradés si elle échoue, mais la plateforme façonne la coordination à l’échelle.
-
-- **Facteurs matériellement dans la portée :**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — effets de concentration, cascade transorganisationnelle lorsque la planification échoue, et charge probabiliste sur des groupes protégés à travers des motifs d’allocation ;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — si le personnel, les élèves, les patients et les fournisseurs peuvent utiliser de façon substantielle les interfaces de planification et de contestation ;
-  - [§3.3](#33-privacy-informational-joint-invocation) — métadonnées d’horaire, de contact et de rôle là où plusieurs loci de vie privée s’appliquent ;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — sortie organisationnelle et portabilité des données là où les institutions dépendent de la plateforme ;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — syndicats, associations de parents, et corps professionnels dont la coordination ne doit pas être capturée ni segmentée hors ;
-  - [§3.6](#36-time-consistency-constraint) — efficience d’appariement d’horizon bref qui ancre de façon prévisible des motifs injustes de coordination ;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — échelonnement proportionné de tétrade et veille de reclassification là où les effets de goulot se renforcent.
-- **Ce que l’évaluation doit tester :**
-  - Si l’examen du système entier traite la plateforme comme infrastructure de coordination plutôt que comme une application isolée ;
-  - si la concentration, le biais d’appariement, et la cascade transorganisationnelle ont été évalués honnêtement sous l’[Évaluation du risque](core_05_band_continuity.md#risk-evaluation) ;
-  - si le risque de coordination et d’allocation évalué a atteint les institutions et groupes affectés qui en ont besoin sous la [Divulgation du risque](core_05_band_oversight.md#risk-disclosure) ;
-  - si les voies de participation restent substantielles là où la plateforme filtre la coordination de forum, d’école ou de lieu de travail ;
-  - si l’examen de vie privée a atteint les loci matériellement impliqués ;
-  - si la sortie reste praticable pour les organisations participantes ;
-  - si les protections d’assemblée et d’organisation collective ont été testées conjointement ;
-  - si l’injustice d’horizon long n’a pas été cachée derrière l’efficience d’horizon bref ;
-  - si la gouvernance et la contestabilité restent fonctionnelles à la profondeur de **Classe C** ; et
-  - si l’étiquette de classe tient encore si la plateforme devient une porte de facto pour l’accès essentiel à la survie.
-- **Ce que le registre doit montrer :**
-  - Constatations du système entier proportionnées au risque de coordination de **Classe C** — pas une liste de vérification de formulaire ;
-  - hypothèses de concentration et de cascade ;
-  - constatations d’évaluation du risque et posture de divulgation là où le risque systémique est dans la portée ;
-  - constatations d’accessibilité et de participation là où la coordination est filtrée ;
-  - couverture d’invocation conjointe de vie privée là où elle se déclenche ;
-  - constatations de sortie là où c’est matériel ;
-  - constatations d’assemblée là où c’est matériel ;
-  - constatations de consistance temporelle ;
-  - constatations de gouvernance et de contestabilité ;
-  - **veille de reclassification** explicite là où les effets de dépendance, de charges de grade clinique, ou de goulot se renforcent ; et
-  - pointeurs vers les évaluations de domaine aux [§4](#4-data-types-and-handling-evaluation) à [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) là où les déclencheurs de matérialité s’appliquent.
-
-**Lecture à travers les classes.** Les facteurs des [§3.1](#31-systemic-scope-and-risk-factors) à [§3.7](#37-governance-incentive-and-contestability-discipline) s’appliquent aux trois systèmes ; la classe change avec quelle profondeur chaque facteur doit être évalué et enregistré. Une plateforme de planification de **Classe C** qui devient la seule voie praticable vers la dotation d’urgence ou le routage essentiel à la survie doit recevoir une profondeur de système entier de **Classe A** ou **Classe B** selon les faits — non l’examen de coordination plus léger que préfère son opérateur. Un système critique pour la survie de **Classe A** ne doit pas être déclassé tant qu’il filtre l’eau, l’énergie, ou des essentiels de survie comparables sans substitut en temps. Un échange de **Classe B** dont la panne bloquerait maintenant les soins d’urgence dans des délais pertinents pour la survie doit être reclassé vers le haut — y compris vers la **Classe A** là où des essentiels de survie sont filtrés — et recertifié sous le [§2](#2-system-class-evaluation) et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
-
-<a id="4-data-types-and-handling-evaluation"></a>
-
-### 4. Évaluation des types de données et du traitement
+#### 3.4 Évaluation des types et du traitement des données
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [§3](#3-whole-system-certification-evaluation) (*facteurs d’évaluation du système entier*) ; [§3.8](#38-illustrative-whole-system-application-by-class) (*parcours illustratifs du système entier*) ; [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de classe du système*) ; famille de mesure Supervision (*Vérité et intégrité épistémique comme mesure constitutionnelle*) ; [Article XV : Intégrité de la sphère informationnelle](core_06_rights_part_c.md#article-xv-info-sphere-integrity) ; [Article XVI : Audit, transparence et vérification indépendante](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) ; [Article VII : Auto-appartenance](core_06_rights_part_b.md#article-vii-self-ownership).
-- En aval : [§4.1](#41-illustrative-data-handling-application-by-class) (*parcours illustratifs de traitement des données*) ; [§5](#5-ecological-footprint-evaluation) et [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*évaluation d’empreinte écologique et parcours*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’apports vérifiés*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*reclassification et désalignement de traitement*).
-- Lire avec : [corpus_systems.md](../../corpus_systems.md), **CS-2 — Types d’information et traitement** (y compris **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification et gouvernance du cycle de vie*) et **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*Gouvernance du Registre des types de données du système*)) ; [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional) ; [Divulgation de base de supervision publique](core_05_band_oversight.md#public-oversight-baseline-disclosure) ; **CJS-3.18** (*termes de rétention des données et d’intégrité du cycle de vie*), **CJS-3.21** (*termes de robustesse adverse et de résistance à l’abus*), et **CJS-3.17** (*termes d’interopérabilité, de portabilité et d’intégrité de sortie*) là où c’est matériellement applicable.
-- Sous-sections : [§4.1](#41-illustrative-data-handling-application-by-class) (*application illustrative du traitement des données par classe*).
+- **En amont :** [§3](#3-whole-system-certification-evaluation) (*facteurs d’évaluation de l’ensemble du système*) ; [parcours de l’ensemble du système en Partie C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) ; [Partie B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*contenu du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; famille des mesures de supervision (*Vérité et intégrité épistémique comme mesures constitutionnelles*) ; [Article XV : Intégrité de la sphère informationnelle](core_06_rights_part_c.md#article-xv-info-sphere-integrity) ; [Article XVI : Audit, transparence et vérification indépendante](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) ; [Article VII : Auto-propriété](core_06_rights_part_b.md#article-vii-self-ownership).
+- **En aval :** [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*parcours illustratifs du traitement des données*) ; [§5.1](#51-ecological-footprint-evaluation) et [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*évaluation et parcours de l’empreinte écologique*) ; [Partie B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*intégrité du registre*) ; [Partie B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*seuil des entrées vérifiées*) ; [Partie B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*reclassification et désalignement du traitement*).
+- **À lire avec :** [corpus_systems.md](corpus_systems.md), **CS-2 — Types et traitement de l’information** (notamment [**CS-2 §5.2**](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance) (*Reclassification et gouvernance du cycle de vie*) et [**CS-2 §8**](corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance) (*Gouvernance du Registre des types de données du système*)) ; [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record) ; [Divulgation publique du socle de supervision](core_05_band_oversight.md#public-oversight-baseline-disclosure) ; **CJS-3.18** (*conservation des données et intégrité du cycle de vie*), **CJS-3.21** (*robustesse face aux adversaires et résistance aux abus*) et **CJS-3.17** (*interopérabilité, portabilité et intégrité du droit de sortie*), lorsqu’ils sont matériellement pertinents ; [§4.1 Invocation conjointe de la vie privée (informationnelle)](#41-privacy-informational-joint-invocation) lorsqu’un lieu de vie privée est concerné.
+- **Sous-sections :** [§3.4.1](#341-type-o-baseline-disclosure) (*Divulgation du socle Type O*) ; [§3.4.2](#342-privacy-discipline) (*Discipline de confidentialité*) ; [§3.4.3](#343-protective-storage-and-key-custody) (*Stockage protecteur et garde des clés*) ; [§3.4.4](#344-periodic-data-type-re-evaluation) (*Réévaluation périodique des types de données*) ; [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*Assurance de l’infrastructure modulée selon la classe*) ; [§3.4.6](#346-infrastructure-robustness-for-data) (*Robustesse de l’infrastructure des données*) ; [§3.4.7](#347-defects-and-misalignment) (*Défauts et désalignement*) ; [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*traitement des données selon la classe du système, exemple illustratif*).
 
 </details>
 
 <br>
 
-*En termes simples : la certification doit aussi regarder quels genres de données le système touche et s’il les traite de façon appropriée — y compris si les types restent justes sur le cycle d’examen actuel, et si l’infrastructure sous-jacente est assez solide pour ces données à cette classe de système. Les règles de type et le Registre des types de données du système vivent dans le corpus des systèmes ; la certification vérifie que les règles ont réellement été appliquées et que le registre est honnête.*
+*En termes simples : la certification doit aussi examiner les types de données auxquels le système touche et s’ils sont traités comme il convient — notamment si leur classification reste correcte au cours du cycle d’examen actuel et si l’infrastructure sous-jacente est assez robuste pour ces données et cette classe de système. Les règles relatives aux types et le Registre des types de données du système figurent dans le corpus des systèmes ; la certification vérifie que ces règles ont réellement été appliquées et que le registre est fidèle.*
 
-La certification d’alignement du système doit évaluer les **types de données et le traitement** comme partie de tout registre de certification matériellement impactant. Les définitions canoniques de type d’information, les règles de traitement, les exigences de séparation, le détail de cycle de vie, et le [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional) durable vivent dans **[corpus_systems.md](../../corpus_systems.md), CS-2 — Types d’information et traitement**. Cette section énonce ce que la certification doit vérifier et consigner ; elle ne réénonce pas la taxonomie de types de CS-2 ni la mécanique de traitement.
+La certification de l’alignement du système doit évaluer les **types et le traitement des données** dans chaque registre de certification à impact matériel. La présente section indique ce que la certification doit vérifier. La taxonomie des types et les règles de traitement figurent dans **[corpus_systems.md](corpus_systems.md), CS-2 — Types et traitement de l’information**, ainsi que :
 
-**Exigence d’évaluation.** Un processus de certification doit déterminer si le système identifie les types de données matériellement dans la portée et les traite sous la **classification applicable la plus restrictive**, y compris à travers la transformation, l’agrégation, la délégation, le stockage, la rétention, et le lien inter-domaines. L’évaluation doit refléter l’effet fonctionnel, non l’étiquette, le format, ou le stade de chaîne seuls. Là où la ligne de base Type O de **[CS-2 Partie A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** s’applique, la certification doit aussi vérifier que la [Divulgation de base de supervision publique](core_05_band_oversight.md#public-oversight-baseline-disclosure) publiée (**Type O**) couvre la **portée certifiée** — cartographiée depuis la [Charte](core_05_band_continuity.md#charter) gouvernante (ou instrument de portée publié équivalent), la classe assignée, et les [Limites du système](core_05_band_continuity.md#system-boundaries) observées — avec des retenues justifiées appariées aux substituts publics maximalement faisables ; le Chapitre cinq est titulaire du terme ; CS-2 est titulaire du contenu de la ligne de base et de la mécanique de publication.
+- les définitions canoniques des types d’information ;
+- les règles de traitement et exigences de séparation ;
+- les détails du cycle de vie ; et
+- le [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record), qui est durable.
 
-**Réévaluation périodique des types de données.** À chaque cycle de certification ou de revalidation matériellement impactant, le processus doit vérifier que les ensembles de données matériels dans la portée ont été **périodiquement réévalués** pour une classification appropriée sous **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification et gouvernance du cycle de vie*) et **CJS-3.18** (*termes de rétention des données et d’intégrité du cycle de vie*), et ont été **reclassés** là où cet examen l’exigeait. La cadence doit s’échelonner avec la classe du système et l’impact matériel sous le [§2](#2-system-class-evaluation). Un retypage déclenché par événement sous CS-2 ne remplace pas cette vérification périodique de certification.
+**Exigence d’évaluation.** Le processus de certification doit déterminer si le système :
 
-**Exigence de registre.** La certification doit **produire ou vérifier** un [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional) — ou ses contenus exigés sous CS-2 — et l’inclure dans le [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional) sous **[Partie B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. Ce registre doit énoncer les types de données matériellement dans la portée, la justification de classification pour des données ambiguës ou multi-types, les contrôles de séparation et de lien inter-domaines sur lesquels on s’appuie, la posture de rétention et de cycle de vie, une capacité d’attribution suffisante pour soutenir l’[Action attribuable](core_05_band_accountability.md#attributable-action-constitutional) et l’[Intégrité d’attribution](core_05_band_accountability.md#attribution-integrity-constitutional), la **réévaluation périodique des types de données la plus récente** (date ou identifiant de cycle, cadence, et tout retypage matériel), et toute restriction justifiée à la divulgation ou à l’accès d’audit ensemble avec leurs substituts publics là où CS-2 les exige. Là où la ligne de base Type O s’applique, le registre doit aussi énoncer comment la [Divulgation de base de supervision publique](core_05_band_oversight.md#public-oversight-baseline-disclosure) couvre la portée certifiée (champs de Charte sur lesquels on s’appuie, constatations de frontière, et tout écart de couverture ou conditions).
+- repère les types de données matériellement concernés ; et
+- les traite selon la classification applicable **la plus restrictive**, notamment lors des transformations, agrégations, délégations, stockages, durées de conservation et liens entre domaines.
 
-**Échelonnement conjoint avec la classe du système.** La profondeur de traitement des données et d’assurance d’infrastructure doit s’échelonner avec la classe de système assignée sous le [§2](#2-system-class-evaluation) et CS-3. Les systèmes de classe plus élevée exigent une preuve proportionnellement plus forte que l’infrastructure de prise en charge, de stockage, de traitement, de transmission, de sauvegarde, de récupération et de surveillance peut préserver l’intégrité de classification, l’attribution, et la contestabilité sous stress. Là où les valeurs par défaut de visibilité d’intérêt public de CS-2 s’appliquent, la certification doit vérifier que les restrictions sont étroitement bornées, documentées, auditables, et appariées aux substituts maximalement faisables plutôt qu’à une dissimulation opaque.
+L’évaluation doit tenir compte de l’effet fonctionnel, et non du seul libellé, format ou stade du pipeline.
 
-**Robustesse d’infrastructure pour les données.** La certification doit évaluer si l’infrastructure de traitement des données — y compris les couches de persistance, les chaînes de traitement, les contrôles d’accès, les frontières de chiffrement ou d’isolement, les voies de sauvegarde et de restauration, et les chaînes de délégation d’opérateur ou de fournisseur — est appropriée pour les types de données et la classe de système en cause. Les écarts matériels d’intégrité de cycle de vie, de robustesse adverse, de portabilité, ou de récupérabilité doivent être énoncés sur le registre et reflétés dans le résultat de certification, les conditions, ou les limites de dépendance.
+<a id="341-type-o-baseline-disclosure"></a>
+##### 3.4.1 Divulgation du socle Type O
 
-**Défauts et désalignement.** La classification erronée de données, la restructuration évasive, le lien inter-domaines non sûr, l’attribution manquante là où un préjudice matériel n’aurait pas pu être investigué, la **réévaluation périodique des types de données en retard ou omise**, ou la fragilité d’infrastructure qui défait de façon prévisible les protections de CS-2 doivent être traités comme défauts de certification. Ils peuvent soutenir une reconnaissance conditionnelle, une reconnaissance différée, une non-reconnaissance, un retrait, ou une réouverture sous la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Lorsque le **[socle Type O de la partie A §7 de CS-2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** s’applique, la certification doit aussi vérifier que la [Divulgation publique du socle de supervision](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) publiée couvre le **périmètre certifié**, établi à partir :
 
-<a id="41-illustrative-data-handling-application-by-class"></a>
+- de la [Charte](core_05_band_continuity.md#charter) applicable (ou d’un instrument publié équivalent définissant le périmètre) ;
+- de la classe attribuée au système ; et
+- des [Limites du système](core_05_band_continuity.md#system-boundaries) observées.
 
-<a id="41-illustrative-data-handling-application-by-class-non-exhaustive"></a>
-#### 4.1 Application illustrative du traitement des données par classe (non exhaustive)
+La communication des risques évalués peut aussi contribuer à ce socle lorsqu’un risque systémique est en jeu. Le droit du public à ce socle dépasse la certification ; il n’exige pas un registre distinct en plus du [Registre de classification du système](core_05_band_continuity.md#system-classification-record) ou du [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record).
 
-*En termes simples : le tableau de classe au [§2.1](#21-illustrative-class-profiles-non-exhaustive) dit que les classes plus élevées exigent un examen plus dur. Le [§3.8](#38-illustrative-whole-system-application-by-class) montre ce que cela signifie pour l’**évaluation du système entier** sur les mêmes trois systèmes ; le [§5.1](#51-illustrative-ecological-footprint-application-by-class) continue la série pour l’**empreinte écologique**. Cette sous-section montre ce que cela signifie pour les **types de données et le traitement** — quels types sont dans la portée, ce que la certification doit vérifier, et ce qui doit apparaître sur le registre. CS-2 reste titulaire des règles de type ; ces parcours n’ajoutent pas de types ni ne resserrent CS-2.*
+Toute rétention justifiée doit être assortie du substitut public le plus solide qu’il soit raisonnablement possible de fournir (la [§3.4.5 Assurance de l’infrastructure modulée selon la classe](#345-system-class-scaled-infrastructure-assurance) donne des exemples). Le chapitre cinq définit le terme ; CS-2 (*Types et traitement de l’information*) détermine le contenu du socle et les modalités de divulgation.
 
-**Classe A — contrôle et télémétrie municipaux d’eau potable sûre.** Une couche municipale de contrôle de traitement et de distribution ingère des données en temps réel de pression, de débit, d’alerte de contamination, et de commande de vannes ; stocke des données limitées de lien de service client pour la notification de coupure ; et délègue la surveillance à un centre d’opérations de sécurité (**SOC**) de fournisseur.
+<a id="342-privacy-discipline"></a>
+##### 3.4.2 Discipline de confidentialité
 
-- **Types de données dans la portée :**
-  - **Télémétrie** opérationnelle critique pour la sûreté (signaux de mesure et de commande en direct depuis le terrain) ;
-  - signaux de contamination et d’alerte de qualité ;
-  - données de contact pour notification de coupure ;
-  - journaux d’accès de fournisseurs et d’opérateurs ;
-  - registres d’incidents et de maintenance.
-- **Ce que l’évaluation doit tester :**
-  - Si les données du plan de contrôle critiques pour la sûreté sont séparées des chaînes de service client, de facturation, ou d’analytique sous la classification CS-3 **applicable la plus restrictive** ;
-  - si l’agrégation, la délégation de fournisseur, ou les voies de sauvegarde pourraient faire s’effondrer cette séparation sous stress ou conditions adverses ;
-  - si l’attribution survit assez longtemps pour investiguer un événement de contamination ou de coupure ; et
-  - si toute restriction d’audit justifiée par la sûreté a un substitut public documenté.
-- **Ce que le registre doit montrer :**
-  - L’inventaire complet des types pour la portée certifiée ;
-  - la justification de classification là où la télémétrie, l’alerte, ou les données de contact pourraient être multi-types ;
-  - les contrôles de séparation et de lien inter-domaines ;
-  - la posture de rétention et de cycle de vie pour la reconstruction d’incidents ;
-  - les constatations d’assurance d’infrastructure pour la sauvegarde, la restauration, et la récupération adverse à la profondeur de **Classe A** ; et
-  - toute condition liée à la délégation de fournisseur ou aux écarts de surveillance.
+La certification doit soumettre le traitement des données à la discipline de confidentialité suivante :
 
-**Classe B — échange régional de registres cliniques.** Un échange d’information de santé route des résumés cliniques, des pointeurs d’imagerie, et des jetons de résolution d’identité parmi les hôpitaux, cliniques, et systèmes d’éligibilité adjacents aux prestations ; les hôpitaux en dépendent chaque jour mais peuvent se rabattre sur le télécopieur, le portail direct, ou la récupération manuelle dans des délais pertinents pour la survie.
+- *Types H, I, N, S et Y.* Pour les données de **type H**, **I**, **N**, **S** et **Y**, la certification doit vérifier que le traitement respecte les [lieux de confidentialité](corpus_systems/cs_02_b_data_classifications.md#privacy-link) désignés pour chaque type dans **CS-2** (*Types et traitement de l’information*), notamment la [Nécessité](core_05_band_accountability.md#necessity), la [Proportionnalité](core_05_band_accountability.md#proportionality), la minimisation et le consentement ou une autre autorité suffisante.
+- *Invocation conjointe.* Lorsque plusieurs lieux de confidentialité sont concernés, la [§4.1 Invocation conjointe de la vie privée (informationnelle)](#41-privacy-informational-joint-invocation) s’applique également.
+- *Les libellés ne suffisent pas.* Un libellé de type correct ne prouve pas à lui seul le respect de la confidentialité.
+- *Types W, U et T.* Pour les œuvres de **type W**, **U** et **T**, la certification doit vérifier que le contrôle du créateur est respecté, notamment :
+  - le retrait d’une publication publique selon [CS-2 partie B §9.9](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*Type W : œuvres publiées*) ;
+  - les limites de chaque autorisation consignée selon [CS-2 partie B §9.13](corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*autorisations commerciales*) ; et
+  - les [droits réservés](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) du créateur.
+- *Aucun consentement implicite.* Une autorisation ne peut valoir consentement à un usage qu’elle ne nomme pas.
 
-- **Types de données dans la portée :**
-  - Registres cliniques et diagnostiques ;
-  - jetons de résolution d’identité et de titres ;
-  - données d’annuaire de prestataires et d’établissements ;
-  - journaux d’audit d’accès et de divulgation ;
-  - artefacts dérivés d’appariement ou de déduplication.
-- **Ce que l’évaluation doit tester :**
-  - Si les données cliniques restent sous la classe de traitement applicable la plus stricte à travers le routage, la mise en cache, la déduplication, et le lien en aval ;
-  - si la logique de résolution d’identité crée un lien inter-domaines non sûr ou une exposition par procuration ;
-  - si les chaînes de délégation d’opérateur et de participant restent attribuables ; et
-  - si les voies de portabilité et de sortie préservent le contrôle du patient sans défaire la récupération opérationnelle.
-- **Ce que le registre doit montrer :**
-  - Types matériels et justification de types ambigus ;
-  - séparation entre charges utiles cliniques, métadonnées d’annuaire, et flux adjacents à l’éligibilité ;
-  - attribution de la chaîne de délégation ;
-  - posture de cycle de vie et de rétention suffisante pour l’investigation et la contestation en soins de santé ;
-  - constatations d’assurance d’infrastructure à la profondeur opérationnelle de **Classe B** ; et
-  - déclencheurs de réouverture si une panne ou une défaillance de traitement des données bloquerait maintenant les soins dans des délais pertinents pour la survie.
+<a id="343-protective-storage-and-key-custody"></a>
+##### 3.4.3 Stockage protecteur et garde des clés
 
-**Classe C — plateforme institutionnelle de planification et de coordination.** Une couche de planification multi-organisation coordonne les quarts du personnel, les réservations de salles, et les rendez-vous de fournisseurs à travers hôpitaux, écoles, et agences publiques ; les hôpitaux et utilités de noyau continuent en modes dégradés si elle échoue, mais la plateforme façonne la coordination à l’échelle et peut détenir des métadonnées de contact, de rôle, et de localisation grossière.
+Pour les données relevant des niveaux restreints par défaut et non accessibles, la certification doit vérifier que le système respecte le socle de stockage protecteur et de garde des clés de [CS-2 partie A §5.0 Niveaux de posture d’accès](corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands). Le registre doit indiquer :
 
-- **Types de données dans la portée :**
-  - Données d’horaire, de rôle, et d’allocation de ressources ;
-  - métadonnées de contact et de titres des participants ;
-  - identifiants de localisation grossière ou de lieu ;
-  - journaux d’audit de la plateforme ;
-  - sorties dérivées de classement ou d’appariement là où elles sont utilisées.
-- **Ce que l’évaluation doit tester :**
-  - Si le système identifie honnêtement les types matériels — y compris des sorties dérivées qui pourraient révéler des caractéristiques protégées à travers des motifs de planification ;
-  - si le lien transorganisationnel reste dans une portée justifiée ;
-  - si le traitement reste contestable là où la concentration pourrait préfigurer une escalade de goulot ; et
-  - si une étiquette de classe plus basse tient encore si la dépendance ou la sensibilité des données s’est renforcée.
-- **Ce que le registre doit montrer :**
-  - Les types matériellement dans la portée et toute justification multi-types ;
-  - constatations de lien et de rétention proportionnées au risque de coordination de **Classe C** ;
-  - constatations d’assurance d’infrastructure là où elles sont matérielles — non cérémonielles — pour les données réellement détenues ;
-  - attribution contestable pour le lien qui déplace la charge ; et
-  - **veille de reclassification** explicite là où la plateforme devient une porte de facto pour l’accès essentiel à la survie ou commence à porter des charges utiles de grade clinique.
+- où se trouvent réellement les données restreintes et leurs clés, y compris les sauvegardes, caches, journaux et espaces d’échange ;
+- que le texte en clair est limité aux processus qui en ont besoin ; et
+- que les voies d’audit, d’exportation et de dérogation légale restent opérationnelles.
 
-**Lecture à travers les classes.** Les mêmes règles CS-3 s’appliquent aux trois systèmes ; la classe change la **profondeur**, non la permission de mal traiter les données. Une plateforme de **Classe C** qui commence à stocker ou à router des registres de grade clinique doit être évaluée et consignée comme telle — non laissée au traitement de plateforme de coordination parce que l’opérateur préfère un dossier plus léger. Un échange de **Classe B** dont la panne bloquerait maintenant les soins d’urgence dans des délais pertinents pour la survie doit être reclassé et recertifié sous le [§2](#2-system-class-evaluation) et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), avec l’assurance de traitement des données échelonnée en conséquence.
+Une affirmation de chiffrement sans ces éléments de preuve ne satisfait pas à ce contrôle.
 
-<a id="5-ecological-footprint-evaluation"></a>
+<a id="344-periodic-data-type-re-evaluation"></a>
+##### 3.4.4 Réévaluation périodique des types de données
 
-### 5. Évaluation de l’empreinte écologique
+À chaque cycle de certification ou de recertification à impact matériel, le processus doit vérifier que les ensembles de données matériels compris dans le périmètre ont été :
+
+- **réévalués périodiquement** pour vérifier la pertinence de leur classification conformément à **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification et gouvernance du cycle de vie*) et à **CJS-3.18** (*conservation des données et intégrité du cycle de vie*) ; et
+- **reclassés** lorsque cette vérification l’exigeait.
+
+La périodicité doit être modulée selon la classe du système et l’impact matériel conformément à la [§2 Évaluation de la classe du système](#2-system-class-evaluation). La reclassification déclenchée par un événement au titre de CS-2 (*Types et traitement de l’information*) ne remplace pas cette vérification périodique de certification.
+
+<a id="345-system-class-scaled-infrastructure-assurance"></a>
+##### 3.4.5 Assurance de l’infrastructure modulée selon la classe
+
+Selon la [§2.1 Comment la classe du système module chaque évaluation](#21-how-system-class-scales-every-evaluation) et CS-3 (*Mécanisme de classification des systèmes*), les systèmes de classe supérieure exigent des preuves proportionnellement plus solides que les infrastructures de traitement, stockage, traitement informatique, transmission, sauvegarde, récupération et surveillance peuvent préserver, même sous contrainte :
+
+- l’intégrité de la classification ;
+- l’attribution ; et
+- la contestabilité.
+
+Lorsque les paramètres par défaut de visibilité d’intérêt public de CS-2 (*Types et traitement de l’information*) s’appliquent, la certification doit vérifier que les restrictions sont :
+
+- de portée étroite ;
+- documentées et auditables ; et
+- accompagnées du substitut public le plus solide raisonnablement possible (par exemple un résumé, des données agrégées, une version dé-identifiée, une publication différée ou un accès d’audit qualifié), afin que ce qui est retenu soit expliqué au lieu d’être simplement caché.
+
+<a id="346-infrastructure-robustness-for-data"></a>
+##### 3.4.6 Robustesse de l’infrastructure des données
+
+La certification doit évaluer si l’infrastructure de traitement des données convient aux types de données et à la classe du système concernés. Cette infrastructure comprend :
+
+- les couches de persistance et les pipelines ;
+- les contrôles d’accès ;
+- le chiffrement ou les limites d’isolation ;
+- les voies de sauvegarde et de restauration ; et
+- les chaînes de délégation aux opérateurs ou fournisseurs.
+
+Les lacunes matérielles concernant l’intégrité du cycle de vie, la robustesse face aux adversaires, la portabilité ou la récupérabilité doivent être consignées et prises en compte dans l’issue de certification, ses conditions ou les limites de dépendance.
+
+<a id="347-defects-and-misalignment"></a>
+##### 3.4.7 Défauts et désalignement
+
+Chacun des éléments suivants doit être traité comme un défaut de certification :
+
+- une classification erronée des données ;
+- une restructuration évasive ;
+- un lien inter-domaines dangereux ;
+- un traitement conforme au libellé du type, mais contraire aux lieux de confidentialité que ce type désigne ;
+- l’absence d’attribution lorsque le préjudice matériel ne pourrait pas faire l’objet d’une enquête ;
+- la **réévaluation périodique des types de données en retard ou omise** ;
+- des données restreintes conservées en texte clair, en stockage ou au-delà de leur limite de traitement autorisée, ou des clés accessibles à des processus qui n’en ont pas besoin ; et
+- une fragilité de l’infrastructure qui compromet de façon prévisible les protections de CS-2 (*Types et traitement de l’information*).
+
+Leurs conséquences sont définies à la [§7 Décisions de certification](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+
+<a id="4-evaluations-where-implicated"></a>
+
+### 4. Évaluations lorsque le sujet est en cause
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de classe du système*) ; famille de mesure Continuité (*Empreinte écologique comme mesure constitutionnelle*) ; **Article I-B** (*Empreinte écologique et transparence*) ; [Empreinte écologique](core_05_band_continuity.md#ecological-footprint), [Impact matériel](core_05_band_oversight.md#material-impact), [Dépendance](core_05_band_continuity.md#dependency), [Transparence](core_05_band_oversight.md#transparency), et [Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity) (Chapitre cinq) ; [Préconditions environnementales](core_05_band_continuity.md#environmental-preconditions-constitutional) et [Intégrité écologique](core_05_band_continuity.md#ecological-integrity-constitutional) là où c’est matériellement impliqué.
-- En aval : [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*parcours illustratifs d’empreinte écologique*) ; [§6](#6-proportionate-cross-system-support-evaluation) et [§6.1](#61-illustrative-cross-system-support-application-by-class) (*évaluation de soutien inter-systèmes et parcours*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’apports vérifiés*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*fausse représentation d’empreinte et désalignement*).
-- Lire avec : [corpus_systems.md](../../corpus_systems.md), [CS-8 — Durabilité adaptive et résilience de l’écosystème](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) là où l’allocation adaptive ou l’interdépendance d’écosystème est matériellement dans la portée.
-- Sous-sections : [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*application illustrative d’empreinte écologique par classe*).
+- En amont : [§3](#3-whole-system-certification-evaluation) (*évaluation de l’ensemble du système, y compris le niveau toujours applicable*) ; [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; [Chapitre premier §12 Exigence d’évaluation systémique](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- En aval : [§4.1](#41-privacy-informational-joint-invocation) (*foyers de vie privée*) ; [§4.2](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) (*droits de sortie*) ; [§4.3](#43-assembly-collective-organization-and-institutional-formation) (*assemblée et dissidence*) ; [Partie B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*contenu du dossier*).
+- À lire avec : [§5 Évaluations du Plancher des droits et des domaines](#5-rights-floor-and-domain-evaluations) (*le niveau applicable lorsqu’un déclencheur est présent*).
 
 </details>
 
 <br>
 
-*En termes simples : la certification doit évaluer honnêtement les charges environnementales attribuables lorsqu’elles importent — y compris les liens en amont et en aval — non seulement si l’opérateur affirme que le système est « vert ». Les méthodes comptables d’empreinte et les cibles numériques de réduction vivent dans d’autres instruments ; la certification vérifie que l’attribution, la divulgation, et la comparaison ont réellement été évaluées là où c’est matériel. Les exemples travaillés pour les systèmes illustratifs du [§2.1](#21-illustrative-class-profiles-non-exhaustive) sont au [§5.1](#51-illustrative-ecological-footprint-application-by-class).*
+*En termes simples : trois contrôles s’appliquent uniquement lorsque le système touche réellement aux sujets concernés : les renseignements privés restent-ils correctement protégés, les sentients peuvent-ils partir sans être piégés, et les groupes peuvent-ils encore s’organiser et exprimer leur dissidence ? Si le système touche à l’un de ces sujets, la certification doit l’examiner.*
 
-La certification d’alignement du système doit évaluer l’**empreinte écologique** comme partie de tout registre de certification matériellement impactant là où les charges environnementales attribuables sont matérielles sous l’[Empreinte écologique](core_05_band_continuity.md#ecological-footprint) et l’**Article I-B** (*Empreinte écologique et transparence*). Les règles canoniques d’attribution, de cycle de vie, de dépendance, et de transparence vivent dans le Chapitre cinq et l’**Article I-B** (*Empreinte écologique et transparence*) ; les méthodes comptables, les étapes de vérification, et les cibles numériques vivent dans les instruments d’adoption là où c’est applicable. Cette section énonce ce que la certification doit vérifier et consigner ; elle ne réénonce pas la mécanique comptable d’empreinte ni n’impose de devoirs de réduction au-delà de ce qu’exigent d’autres instruments.
+Cette section constitue la sous-phase **IIb** de la phase II (Évaluer). Elle regroupe les évaluations de l’ensemble du système qui s’appliquent lorsque l’objet de la certification met matériellement en jeu le foyer ou le principe nommé par une sous-section. Elle n’ajoute, ne restreint ni ne réordonne les exigences d’aucune sous-section.
 
-**Exigence d’évaluation.** Un processus de certification doit déterminer si les flux environnementaux attribuables — énergie, matériaux, émissions, usage des terres, et charges apparentées — sont identifiés à travers le cycle de vie matériellement pertinent du système et les relations de [Dépendance](core_05_band_continuity.md#dependency), évalués sous l’[Impact matériel](core_05_band_oversight.md#material-impact), et divulgués ou retenus seulement comme le permettent la [Transparence](core_05_band_oversight.md#transparency), l’[Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity), et les obligations de transparence applicables. L’évaluation doit refléter l’effet fonctionnel et les limites du système, non la portée nominale, les étiquettes de marketing, ou le cadrage de cycle de vie partiel seuls.
-
-**Exigence de registre.** Le registre de certification doit énoncer la portée d’évaluation d’empreinte, les hypothèses d’attribution, les frontières de cycle de vie et de dépendance sur lesquelles on s’appuie, les charges matérielles identifiées, l’incertitude, la posture de divulgation, les constatations de composant des forums de l’environnement là où c’est exigé, et toute limite justifiée à la divulgation d’empreinte ensemble avec leurs substituts publics là où les règles de transparence applicables les exigent.
-
-**Échelonnement conjoint avec la classe du système.** La profondeur d’évaluation et de divulgation d’empreinte doit s’échelonner avec la classe de système assignée sous le [§2](#2-system-class-evaluation) et l’[enjeu matériel](core_00_preamble.md#material-stake). Les systèmes de classe plus élevée exigent une preuve proportionnellement plus forte que les charges environnementales matérielles ont été attribuées, comparées à travers des alternatives pertinentes là où c’est praticable, et non obscurcies par un déplacement de frontières, un report de dépendance, ou une divulgation sélective.
-
-**Défauts et désalignement.** Obscurcir, faussement représenter, fragmenter, ou reporter de l’information d’empreinte matérielle là où la certification ou les obligations de transparence de l’**Article I-B** (*Empreinte écologique et transparence*) exigent la divulgation ; n’évaluer que des tranches de cycle de vie choisies par l’opérateur là où une attribution plus large est matérielle ; ou traiter les prétentions d’empreinte comme satisfaites par assertion sans preuve évaluable doivent être traités comme défauts de certification. Ils peuvent soutenir une reconnaissance conditionnelle, une reconnaissance différée, une non-reconnaissance, un retrait, ou une réouverture sous la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
-
-<a id="51-illustrative-ecological-footprint-application-by-class"></a>
-
-<a id="51-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
-#### 5.1 Application illustrative d’empreinte écologique par classe (non exhaustive)
-
-*En termes simples : le [§3.8](#38-illustrative-whole-system-application-by-class) et le [§4.1](#41-illustrative-data-handling-application-by-class) parcourent les mêmes trois systèmes à travers l’examen du système entier et du traitement des données. Cette sous-section montre ce que l’évaluation d’**empreinte écologique** signifie pour chacun — quelles charges environnementales comptent, ce que la certification doit vérifier, et ce qui doit apparaître sur le registre. L’**Article I-B** (*Empreinte écologique et transparence*) et le Chapitre cinq restent titulaires des règles d’attribution et de transparence ; les méthodes comptables et les cibles numériques vivent dans d’autres instruments ; ces parcours n’ajoutent pas de devoirs d’empreinte au-delà de ce qu’exigent ces instruments.*
-
-**Classe A — contrôle et télémétrie municipaux d’eau potable sûre.** Un système municipal de traitement et de distribution s’appuie sur des sources de bassin versant, des intrants chimiques de traitement, l’énergie de pompage et de traitement, l’infrastructure de distribution, les flux de rejet, et le calcul ou la surveillance délégués à un fournisseur là où c’est utilisé.
-
-- **Charges attribuables dans la portée :**
-  - Extraction d’eau de source et stress de bassin versant ;
-  - produits chimiques de traitement et médias de filtration ;
-  - énergie de pompage, de traitement, et de distribution ;
-  - infrastructure incorporée pour usines, conduites, et contrôles ;
-  - perte et fuites d’eau traitée ;
-  - rejet et résidus vers les eaux réceptrices ;
-  - émissions du réseau électrique en amont ;
-  - centre d’opérations de sécurité (**SOC**) de fournisseur, calcul hébergé partagé, ou calcul et connectivité de surveillance à distance là où on s’en appuie matériellement ;
-  - charges de maintenance, de remplacement, et de mise hors service à travers le cycle de vie matériellement pertinent.
-- **Ce que l’évaluation doit tester :**
-  - Si la portée d’empreinte inclut l’énergie en amont, l’approvisionnement chimique, la [Dépendance](core_05_band_continuity.md#dependency) de bassin versant, et le rejet en aval — non seulement les bâtiments d’opérations municipales ;
-  - si l’[Impact matériel](core_05_band_oversight.md#material-impact) a été évalué pour l’épuisement de source, l’intensité énergétique, et le rejet sous stress ou variabilité climatique ;
-  - si des frontières choisies par l’opérateur ont exclu la surveillance hébergée par fournisseur, la logistique chimique externalisée, ou les charges de réseau partagé là où l’attribution est matérielle ;
-  - si des alternatives — conservation, protection de source, voies de traitement à moindre charge — ont été comparées là où c’est praticable ; et
-  - si les limites de divulgation ont des substituts publics documentés sous l’**Article I-B** (*Empreinte écologique et transparence*).
-- **Ce que le registre doit montrer :**
-  - Portée d’évaluation d’empreinte et frontières de cycle de vie à la profondeur de **Classe A** ;
-  - hypothèses d’attribution pour les flux de bassin versant, d’énergie, de produits chimiques, et de rejet ;
-  - charges matérielles identifiées et incertitude énoncée ;
-  - constatations de composant des forums de l’environnement là où c’est exigé ;
-  - constatations de comparaison à travers des alternatives pertinentes là où c’est praticable ;
-  - posture de divulgation et toute limite justifiée avec substituts publics ; et
-  - conditions ou déclencheurs de réouverture liés au stress de source, au préjudice de rejet, ou au déplacement de frontières.
-
-**Classe B — échange régional de registres cliniques.** Un échange d’information de santé dépend d’un hébergement répliqué, de la connectivité sur site hospitalier, du calcul de résolution d’identité, et d’une infrastructure opérée par fournisseur ou par participant à travers un réseau régional de soins.
-
-- **Charges attribuables dans la portée :**
-  - Énergie, refroidissement, et cycle de vie du matériel des centres de données primaires et de sauvegarde ;
-  - connectivité réseau et de bord pour les hôpitaux participants ;
-  - calcul de réplication de stockage et de déduplication ;
-  - infrastructure d’intermédiaire d’identité et de routage ;
-  - charges d’établissement aux sites d’hébergement sur lesquels on s’appuie matériellement ;
-  - infrastructure incorporée pour connecteurs sur site là où les hôpitaux en dépendent.
-- **Ce que l’évaluation doit tester :**
-  - Si l’attribution d’empreinte couvre les charges d’hébergement, de réplication, et de connexion des participants à l’échelle opérationnelle — non seulement le siège de l’opérateur de l’échange ;
-  - si la dépendance à des régions d’hébergement partagées, à des prestataires de colocalisation, ou au matériel de bord sur site hospitalier a été cartographiée et attribuée ;
-  - si les tranches de cycle de vie n’ont pas été resserrées à des prétentions « seulement logiciel » pendant que des charges matérielles de matériel et d’énergie étaient reportées ;
-  - si les charges matérielles ont été évaluées sous l’[Impact matériel](core_05_band_oversight.md#material-impact) et divulguées de façon cohérente avec l’**Article I-B** (*Empreinte écologique et transparence*) ; et
-  - si la croissance du volume de participants ou de la sensibilité des données changerait matériellement la charge attribuée.
-- **Ce que le registre doit montrer :**
-  - Portée d’empreinte et frontières de dépendance à la profondeur opérationnelle de **Classe B** ;
-  - charges matérielles d’énergie, de matériel, et de connectivité identifiées ;
-  - hypothèses d’attribution d’hébergement et de délégation ;
-  - incertitude et posture de divulgation ;
-  - constatations de forums de l’environnement ou d’autre composant là où c’est exigé ; et
-  - déclencheurs de réouverture si l’échelle, la croissance de charge utile de grade clinique, ou la concentration d’hébergement change matériellement la charge attribuable ou la posture de classe.
-
-**Classe C — plateforme institutionnelle de planification et de coordination.** Une couche de planification multi-organisation tourne principalement sur du calcul et de la connectivité hébergés partagés, avec des charges secondaires de logistique de lieux, de déplacements induits par les motifs de coordination, et d’hébergement régional concentré là où c’est applicable.
-
-- **Charges attribuables dans la portée :**
-  - Calcul, stockage, et réseau hébergés pour les charges de planification ;
-  - énergie de centres de données multi-locataires attribuable à la part de la plateforme ;
-  - cycle de vie du matériel incorporé pour l’infrastructure sur laquelle on s’appuie matériellement ;
-  - charges de lieux et de logistique seulement là où les motifs de coordination déplacent matériellement les déplacements ou l’usage d’établissements ;
-  - effets de concentration régionale là où l’hébergement ou l’usage se groupe dans des localisations à haute charge.
-- **Ce que l’évaluation doit tester :**
-  - Si l’opérateur a attribué honnêtement les charges de calcul hébergé et de connectivité plutôt que de traiter la plateforme comme immatérielle parce qu’elle est « seulement du logiciel » ;
-  - si le report multi-locataires ou le déplacement de frontières de fournisseur a caché une attribution matérielle d’énergie ou de matériel ;
-  - si la concentration dans des régions ou prestataires particuliers a été évaluée là où elle déplace matériellement la charge ;
-  - si l’examen d’empreinte est resté proportionné sans devenir cérémoniel pour un système de **Classe C** ; et
-  - si une reclassification est justifiée si l’échelle, le routage essentiel à la survie, ou la croissance de charge utile de grade clinique exigerait une profondeur d’empreinte de **Classe B** ou de **Classe A**.
-- **Ce que le registre doit montrer :**
-  - Constatations d’empreinte proportionnées au risque de coordination de **Classe C** ;
-  - portée et hypothèses d’attribution pour le calcul, le stockage, et la connectivité ;
-  - charges matérielles identifiées sans trop resserrer les frontières de cycle de vie ;
-  - incertitude et posture de divulgation ;
-  - **veille de reclassification** explicite là où la concentration d’hébergement, l’échelle, ou la sensibilité de charge utile se renforce ; et
-  - pointeurs vers un examen d’empreinte escaladé si la classe ou la matérialité change.
-
-**Lecture à travers les classes.** La même discipline d’empreinte de l’**Article I-B** (*Empreinte écologique et transparence*) et du Chapitre cinq s’applique aux trois systèmes ; la classe change la profondeur d’attribution et la charge de comparaison, non la permission d’obscurcir des flux environnementaux matériels. Un système d’eau critique pour la survie de **Classe A** ne doit pas être déclassé tant que l’extraction de bassin versant, le rejet, ou les charges d’énergie qui filtrent l’eau sûre restent matériellement sous-attribués. Un échange de **Classe B** dont la croissance de charge utile clinique ou de concentration d’hébergement augmente matériellement la charge environnementale doit recevoir un examen d’empreinte échelonné à cette croissance — y compris vers le haut jusqu’à la profondeur de **Classe A** là où la livraison essentielle à la survie et les charges des systèmes sources sont conjointement impliquées. Une plateforme de planification de **Classe C** qui devient un goulot de facto pour la coordination essentielle à la survie ne doit pas garder un dossier d’empreinte symbolique parce que l’opérateur l’étiquette non critique. Les parcours de soutien inter-systèmes pour les mêmes systèmes sont au [§6.1](#61-illustrative-cross-system-support-application-by-class).
-
-<a id="6-proportionate-cross-system-support-evaluation"></a>
-
-<a id="6-proportionate-cross-system-contribution-evaluation"></a>
-### 6. Évaluation de la contribution inter-systèmes proportionnée
+<a id="41-privacy-informational-joint-invocation"></a>
+#### 4.1 Invocation conjointe de la vie privée (informationnelle)
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de classe du système*) ; famille de mesure Continuité (*Contribution inter-systèmes proportionnée comme mesure constitutionnelle*) ; **Article IV-A** (*Cartographie des dépendances et transparence des flux de ressources*) et **Article IV-B** (*Équité inter-systèmes et durabilité*) ; [Contribution inter-systèmes proportionnée](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Dépendance](core_05_band_continuity.md#dependency), [Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional), [Proportionnalité](core_05_band_accountability.md#proportionality), [Empreinte écologique](core_05_band_continuity.md#ecological-footprint), et [Durabilité](core_05_band_continuity.md#sustainability) (Chapitre cinq).
-- En aval : [§6.1](#61-illustrative-cross-system-support-application-by-class) (*parcours illustratifs de soutien inter-systèmes*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’apports vérifiés*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*fausse représentation des flux de ressources, désalignement d’extraction et inadéquation de soutien*).
-- Lire avec : **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Allocation des ressources et administration responsable du financement*), et **CS-8** (*Durabilité adaptive et résilience de l’écosystème*) ; [*Architecture de gouvernance, supervision, dépendance, décentralisation, concentration, structure de marché et intégrité de la voie de sortie*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) là où la concentration, la dépendance, ou le routage d’incitations croisent l’**Article IV-B** (*Équité inter-systèmes et durabilité*).
-- Sous-sections : [§6.1](#61-illustrative-cross-system-support-application-by-class) (*application illustrative de soutien inter-systèmes par classe*).
+- À lire avec : le chapitre cinq [**Def.C3** (*Vie privée (informationnelle)* — tête de groupe homologue)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) et [Vie privée (informationnelle)](core_05_band_continuity.md#privacy-informational), le foyer de la tête de groupe qui fait autorité quant au sens.
 
 </details>
 
 <br>
 
-*En termes simples : lorsqu’un système puise matériellement dans des fondations partagées, la certification doit vérifier s’il remet assez de soutien traçable — non si l’opérateur dit que les comptes s’équilibrent. Les formules d’allocation et les cibles numériques vivent dans d’autres instruments ; la certification vérifie que les cartes de dépendance, les flux de retour, et l’équité inter-systèmes ont réellement été évalués là où le déclencheur s’applique. Les exemples travaillés pour les systèmes illustratifs du [§2.1](#21-illustrative-class-profiles-non-exhaustive) sont au [§6.1](#61-illustrative-cross-system-support-application-by-class).*
+*En termes simples : le chapitre six répartit les protections de la vie privée entre plusieurs articles ; elles ne se trouvent pas dans un seul recoin bien ordonné. Si un examen de certification met en jeu plusieurs de ces protections, les évaluateurs doivent vérifier chacune de celles qui s’appliquent réellement. Cocher la case la plus facile et déclarer l’affaire réglée ne suffit pas.*
 
-**Déclencheur de matérialité.** Cette section s’applique là où un système matériellement impactant alloue, route, finance, ou extrait matériellement de l’infrastructure partagée ou de dépendances fondatrices sur lesquelles d’autres systèmes ou êtres sentients s’appuient. Elle n’exige pas un audit complet de soutien inter-systèmes sur tout registre de certification.
+Lorsque l’objet d’une certification met matériellement en jeu plusieurs foyers de vie privée du chapitre six, la certification doit traiter chacun d’eux. Clore l’affaire au seul regard d’un foyer ne suffit pas.
 
-**Ce que « extraction » signifie ici.** Dans l’**Article IV** (*Allocation des ressources, dépendances et financement de l’écosystème*) et cette section, **extraction** signifie puiser **de l’argent, des frais, du financement public, du calcul, de la connectivité, du travail de maintenance, de la capacité de source, ou d’autres flux de ressources partagées** depuis une infrastructure ou des dépendances dont d’autres systèmes ont aussi besoin — sans remettre un soutien proportionné pour garder ce substrat partagé en état de marche. La question est **qui bénéficie des arrière-plans partagés et qui paie pour les soutenir**, non si un système copie, vend, ou fait de la publicité contre le contenu de registres. L’accès aux registres cliniques, l’usage de données personnelles, la vente à des parties externes, la publicité ciblée, et le profilage de tiers non liés sont évalués sous le [§4](#4-data-types-and-handling-evaluation) et les protections de vie privée et de sphère informationnelle du Chapitre six — non sous cette section.
+- *Permettre la participation.* [Vie privée (informationnelle)](core_05_band_continuity.md#privacy-informational) rend possible une [Participation](core_05_apex_participation_leg.md#participation-constitutional) réelle. La certification doit confirmer que les protections de la vie privée qui soutiennent la prise de parole, la délibération, l’association et la contestation ne sont pas neutralisées par la segmentation, la lecture croisée ou la pression de l’exposition.
+- *Foyers du groupe.* La couverture dispersée de la vie privée se trouve dans **l’article VII-A** (*Autopropriété du corps*), **l’article VII-B** (*Autopropriété de l’esprit*), **l’article IX** (*Ressemblance, données expérientielles et droits de publication*), **l’article X-A** (*Agentivité et liberté de manipulation*) et **l’article XIV-A** (*Sécurité, renseignement et limites du pouvoir occulte*).
+- *Règle d’invocation conjointe.* Lorsque l’affaire met matériellement en jeu plusieurs foyers, la certification doit atteindre chacun d’eux et ne peut faire passer l’affaire par un foyer de façon à permettre d’éluder un autre.
+- *Aucun assouplissement par lecture croisée.* La norme énoncée localement pour chaque membre du groupe prévaut dans son propre champ ; elle ne peut être assouplie par l’importation d’une norme moins exigeante d’un autre membre.
+- *Maintien des seuils liés aux types.* Ce facteur ne restreint pas le traitement d’un type **[corpus_systems.md](corpus_systems.md), CS-2** (*Types d’information et traitement*) applicable aux données concernées. La posture d’accès et les obligations de traitement de chaque type applicable prévues par [CS-2 Partie B §9](corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*Classifications des données*) s’appliquent intégralement, ainsi que les [foyers de vie privée](corpus_systems/cs_02_b_data_classifications.md#privacy-link) que ce type désigne. Lorsque plusieurs types correspondent aux mêmes données, le traitement applicable le plus protecteur prévaut selon [CS-2 Partie A §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*Détermination de la classification*) ; respecter le traitement d’un type ne satisfait pas aux obligations d’un autre. Les foyers ci-dessus couvrent les types suivants :
+  - **Article VII-A** (*Autopropriété du corps*) — [**Type I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data) pour les dossiers de santé, biométriques et liés au substrat ;
+  - **Article VII-B** (*Autopropriété de l’esprit*) et **article X-A** (*Agentivité et liberté de manipulation*) — [**Type N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data) pour les états internes, y compris leur reconstruction ou leur inférence ;
+  - **Article IX** (*Ressemblance, données expérientielles et droits de publication*) — **Type I** pour la ressemblance et la voix au titre de [l’article IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Autopropriété de la ressemblance et de la réputation*) ; [**Type H**](corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data) pour les données expérientielles et dérivées des interactions au titre de [l’article IX-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Droits sur les données expérientielles et dérivées*) ; et [**Type Y**](corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours) pour les œuvres d’un créateur au titre de [l’article IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Œuvre créative, utilisation comme données d’entraînement et protection contre le déplacement*), dont les protections s’étendent aux [**Types W**](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published), [**U**](corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed) et [**T**](corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred), ainsi qu’aux [droits réservés](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) du créateur ; et
+  - **Article XIV-A** (*Sécurité, renseignement et limites du pouvoir occulte*) — [**Type S**](corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) pour les éléments de sécurité et d’enquête soumis à restriction ; leurs composantes **H**, **I** ou **N** conservent la protection de leur type lorsque la restriction prend fin.
 
-La certification d’alignement du système doit évaluer la **contribution inter-systèmes proportionnée** sous la [Contribution inter-systèmes proportionnée](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), l’**Article IV-A** (*Cartographie des dépendances et transparence des flux de ressources*), et l’**Article IV-B** (*Équité inter-systèmes et durabilité*) là où le déclencheur de matérialité s’applique. Le sens canonique, les facteurs d’évaluation, et la discipline de non-conformité vivent dans le Chapitre cinq et l’**Article IV-B** (*Équité inter-systèmes et durabilité*) ; les catégories d’allocation, la mécanique de réautorisation, et les cibles numériques vivent dans **[corpus_systems.md](../../corpus_systems.md)**, **CS-9**, et **CS-8** là où c’est applicable. Cette section énonce ce que la certification doit vérifier et consigner ; elle ne réénonce pas la mécanique de CS-8 ou de CS-9 ni ne prescrit de partages égaux, de pourcentages fixes, ou un modèle unique de financement.
+  Ces seuils s’appliquent dans les deux sens aux types ouverts et accessibles à l’audit :
+  - tout contenu personnel, relationnel ou portant sur un état interne dans des éléments de **Type E**, **G** ou **O** conserve le traitement **H**, **I** ou **N** correspondant ;
+  - un foyer de vie privée ne justifie pas, à lui seul, de retenir des données de **Type O** ou **E** au-delà des exceptions étroitement circonscrites qu’autorisent leurs propres règles ; et
+  - lorsque protéger la vie privée d’une personne et publier ce à quoi le public a droit sont réellement en conflit, aucun des deux intérêts ne l’emporte automatiquement : le conflit est tranché ouvertement et consigné au dossier selon [CS-2 Partie A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems) (*Base Type O pour les systèmes de classe A/B/C*).
+- *Éléments probants sur les types de données.* La certification doit s’appuyer sur le [Dossier des types de données du système](core_05_band_continuity.md#system-data-types-record), vérifié selon [§3.4 Évaluation des types de données et de leur traitement](#34-data-types-and-handling-evaluation), comme preuve pour chaque foyer de vie privée qu’elle examine : les types concernés, leur finalité, leurs destinataires, leur fondement et les données dérivées. Un foyer de vie privée ne peut être clos sur la base d’un traitement que ce dossier ne démontre pas.
 
-**Exigence d’évaluation.** Un processus de certification doit déterminer si les cartes documentées de systèmes dépendants et les registres auditables de flux de ressources sous l’**Article IV-A** (*Cartographie des dépendances et transparence des flux de ressources*) montrent une extraction depuis l’infrastructure partagée ou les dépendances fondatrices, et si les flux de retour atteignent une adéquation de fond sous la [Contribution inter-systèmes proportionnée](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), évaluée sous l’[Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional) et la [Proportionnalité](core_05_band_accountability.md#proportionality) et échelonnée à la criticité, l’asymétrie de dépendance, la substituabilité, l’[Empreinte écologique](core_05_band_continuity.md#ecological-footprint) là où c’est matériel, et la [Durabilité](core_05_band_continuity.md#sustainability) de long terme. L’évaluation doit refléter l’effet fonctionnel et les flux documentés, non les étiquettes nominales, les transferts ponctuels, ou les assertions hors carte seules.
+<a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
+#### 4.2 Cessation volontaire, auto-modification majeure et droits de sortie
 
-**Exigence de registre.** Le registre de certification doit énoncer le déclencheur de matérialité de l’**Article IV** (*Allocation des ressources, dépendances et financement de l’écosystème*) sur lequel on s’appuie, la portée d’évaluation de la carte des systèmes dépendants et des flux de ressources, les constatations d’extraction et de flux de retour, les constatations d’adéquation de soutien sous la [Contribution inter-systèmes proportionnée](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), l’incertitude, les constatations de forum des êtres sentients ou d’autre composant assigné là où c’est exigé, et toute condition, limite de dépendance, ou déclencheur de réouverture lié à un déséquilibre persistant.
+Lorsque [le chapitre premier §7.4 Cessation volontaire, auto-modification majeure et droits de sortie](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) s’applique à l’objet de la certification, celle-ci doit vérifier le caractère volontaire, le consentement, l’absence de coercition, les pressions liées à la dépendance, l’information et la réversibilité avant que la prétention à la certification puisse tenir. Un assentiment formel ne suffit pas à lui seul.
 
-**Échelonnement conjoint avec la classe du système.** La profondeur d’évaluation de soutien inter-systèmes doit s’échelonner avec la classe de système assignée sous le [§2](#2-system-class-evaluation) et l’[enjeu matériel](core_00_preamble.md#material-stake). Les systèmes de classe plus élevée qui administrent matériellement de l’infrastructure partagée ou des dépendances fondatrices exigent une preuve proportionnellement plus forte que l’extraction, les flux de retour, et l’adéquation de soutien ont été évalués plutôt qu’assertés.
+<a id="43-assembly-collective-organization-and-institutional-formation"></a>
+#### 4.3 Assemblée, organisation collective et formation d’institutions
 
-**Défauts et désalignement.** Obscurcir, faussement représenter, fragmenter, ou reporter de l’information matérielle de dépendance ou de flux de ressources là où l’**Article IV-A** (*Cartographie des dépendances et transparence des flux de ressources*) exige la divulgation ; traiter des transferts symboliques, opaques, ou ponctuels comme satisfaisant la [Contribution inter-systèmes proportionnée](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) ; une extraction persistante sans retour proportionné là où le déclencheur de matérialité s’applique ; ou certifier une dépendance continue pendant qu’une inadéquation de soutien documentée menace matériellement l’alignement constitutionnel doivent être traités comme défauts de certification. Ils peuvent soutenir une reconnaissance conditionnelle, une reconnaissance différée, une non-reconnaissance, un retrait, ou une réouverture sous la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Lorsque [le chapitre premier §7.2 Assemblée, organisation collective et formation d’institutions](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) s’applique à l’objet de la certification, celle-ci doit examiner la question conjointement selon le [principe anti-segmentation](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle). L’évaluation est incomplète si elle n’envisage l’affaire que sous un seul angle, d’une manière qui neutralise la protection de l’assemblée ou de l’organisation collective.
 
-<a id="61-illustrative-cross-system-support-application-by-class"></a>
+<a id="431-dissent-and-peaceful-protest"></a>
+##### 4.3.1 Dissidence et protestation pacifique
 
-<a id="61-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
-#### 6.1 Application illustrative de soutien inter-systèmes par classe (non exhaustive)
+*En termes simples : un système ne peut être certifié aligné s’il punit discrètement les sentients qui ne sont pas d’accord avec lui. Les évaluateurs doivent vérifier si les sentients peuvent réellement s’opposer et manifester, et si leur dissidence est utilisée contre eux quelque part dans la logique du système — y compris lorsque le dissident est le système lui-même.*
 
-*En termes simples : le [§3.8](#38-illustrative-whole-system-application-by-class) au [§5.1](#51-illustrative-ecological-footprint-application-by-class) parcourent les mêmes trois systèmes à travers des domaines d’évaluation antérieurs. Cette sous-section montre ce que la **contribution inter-systèmes proportionnée** signifie pour chacun — quelles dépendances partagées comptent, ce que la certification doit vérifier lorsque le déclencheur de matérialité de l’**Article IV** (*Allocation des ressources, dépendances et financement de l’écosystème*) s’applique, et ce qui doit apparaître sur le registre. **Extraction** ici signifie **prélèvement de ressources et de financement depuis une infrastructure partagée** (voir [§6](#6-proportionate-cross-system-support-evaluation) *Ce que « extraction » signifie ici*) — non la copie de données cliniques, l’usage publicitaire, ou une vente non liée à des tiers. CS-8, CS-9, et le Chapitre cinq restent titulaires de la mécanique d’allocation ; ces parcours ne prescrivent pas de partages, de formules, ou de modèles de financement.*
+Lorsque [le chapitre premier §7.3 Dissidence et protestation pacifique](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) s’applique à l’objet de la certification, celle-ci doit examiner :
 
-**Classe A — contrôle et télémétrie municipaux d’eau potable sûre.** Un système municipal de traitement et de distribution puise dans un bassin versant ou un aquifère partagé, une interconnexion régionale d’énergie en gros, des chaînes d’approvisionnement de gros en produits chimiques et filtration, des accords partagés d’interconnexion d’urgence, et des services de surveillance ou de contrôle opérés par fournisseur dont d’autres utilités ou communautés peuvent aussi dépendre.
+- si les sentients concernés peuvent réellement exprimer leur dissidence, protester et s’organiser contre le système et ses opérateurs par les canaux contrôlés par le système, sans filtrage fondé sur le point de vue ;
+- si des dossiers, scores, classements, règles de modération, contrôles d’accès, critères d’admissibilité ou mécanismes comparables utilisent la dissidence, la protestation pacifique ou la [désobéissance civile non violente protégée](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) comme facteur défavorable, directement ou par l’intermédiaire de variables de substitution ;
+- si les mesures défavorables prises après une dissidence reposent sur des motifs indépendants et vérifiés consignés au dossier, comme l’exige la [charge de **l’article XI-D** (*Assemblée, dissidence et protestation pacifique*)](core_06_rights_part_b.md#xi-d-dissent-burden-and-pretext) ; et
+- lorsque le système est, ou héberge, un sentient synthétique, si celui-ci dispose d’un canal opérationnel pour formuler une objection et si cette objection est traitée comme un défaut ou reçoit pour représailles une modification de ses valeurs, de sa mémoire ou de ses états internes.
 
-- **Dépendances et flux dans la portée :**
-  - Droits d’eau de source et infrastructure de bassin versant partagés avec l’agriculture, l’industrie, et les municipalités voisines ;
-  - interconnexion de réseau et charge de pointe sur l’infrastructure énergétique régionale ;
-  - corridors partagés d’approvisionnement et de logistique chimiques ;
-  - accords de pompage d’entraide, d’interconnexion, et d’approvisionnement d’urgence ;
-  - services délégués de **SCADA** (contrôle de supervision et acquisition de données — opération à distance de pompes, vannes, et équipement de traitement), de **télémétrie** (signaux en direct de pression, de débit, et d’alerte depuis des capteurs de terrain), et de **SOC** (centre d’opérations de sécurité — surveillance de fournisseur pour les intrusions, pannes, et événements de sûreté) hébergés sur une infrastructure de contrôle partagée de fournisseur ou régionale ;
-  - flux de capital et de maintenance depuis les usagers tarifaires, les obligations, les subventions, ou les autorités régionales vers la protection de source, le renouvellement de conduites, et l’entretien de l’épine dorsale partagée.
-- **Ce que l’évaluation doit tester :**
-  - Si les cartes de systèmes dépendants et les registres auditables de flux de ressources de l’**Article IV-A** (*Cartographie des dépendances et transparence des flux de ressources*) identifient l’extraction depuis le bassin versant, le réseau, la chaîne d’approvisionnement, et l’épine dorsale d’entraide partagés — non seulement le grand livre interne de l’utilité ;
-  - si les flux de retour — protection de source, renouvellement d’infrastructure, restauration de bassin versant, capacité d’urgence régionale, et partage équitable des coûts pour l’usage de l’épine dorsale partagée — atteignent une adéquation de fond sous la [Contribution inter-systèmes proportionnée](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), évaluée sous l’[Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional) et la [Proportionnalité](core_05_band_accountability.md#proportionality) ;
-  - si des subventions ponctuelles, des frais de fournisseur opaques, ou un report de coûts en aval ont été traités comme un retour adéquat ;
-  - si l’[Empreinte écologique](core_05_band_continuity.md#ecological-footprint) et la [Durabilité](core_05_band_continuity.md#sustainability) de long terme ont été intégrées là où l’extraction de bassin versant ou d’énergie est matérielle ; et
-  - si l’administration responsable de **Classe A** de ressources partagées critiques pour la survie a reçu l’analyse d’adéquation de soutien la plus forte sur les faits.
-- **Ce que le registre doit montrer :**
-  - Le déclencheur de matérialité de l’**Article IV** (*Allocation des ressources, dépendances et financement de l’écosystème*) sur lequel on s’appuie ;
-  - la portée de la carte des systèmes dépendants et des flux de ressources à la profondeur de **Classe A** ;
-  - constatations d’extraction depuis les dépendances de bassin versant, de réseau, de chaîne d’approvisionnement, et de contrôle partagé ;
-  - constatations de flux de retour et d’adéquation de soutien ;
-  - l’incertitude ;
-  - constatations de forum des êtres sentients ou d’autre composant là où c’est exigé ; et
-  - conditions ou déclencheurs de réouverture liés à un déséquilibre persistant, au stress de bassin versant, ou à une extraction inéquitable depuis une infrastructure partagée de survie.
+Le désaccord du système lui-même avec son opérateur, exprimé par les canaux disponibles, ne constitue pas une preuve de défaut d’alignement aux fins de la certification. Un système qui pénalise une dissidence protégée présente un défaut de certification. Traiter la dissidence comme un signal de risque, ou clore la question par une déclaration formelle de neutralité alors que l’effet défavorable persiste, ne suffit pas.
 
-**Classe B — échange régional de registres cliniques.** Un échange d’information de santé route des registres parmi les hôpitaux et cliniques à travers des services d’authentification partagés, des liaisons régionales d’épine dorsale TI de santé, une infrastructure de résolution d’identité, et des régions d’hébergement ou de calcul partagé communément appuyées — substrats dont les cliniques plus petites et les systèmes de santé publique dépendent aussi.
+<a id="5-rights-floor-and-domain-evaluations"></a>
 
-- **Dépendances et flux dans la portée :**
-  - Infrastructure partagée d’identité et d’authentification ;
-  - liaisons régionales de réseau d’information de santé ;
-  - connectivité et hébergement de bord des hôpitaux participants ;
-  - régions d’hébergement communes ou établissements de colocalisation ;
-  - subventions publiques, cotisations de participants, ou flux d’abonnement destinés à soutenir l’interopérabilité ;
-  - services d’intermédiaire d’identité, d’annuaire, et de déduplication réutilisés à travers l’écosystème de soins.
-- **Ce que l’évaluation doit tester :**
-  - Si les cartes de systèmes dépendants identifient un **prélèvement inéquitable de ressources depuis une infrastructure partagée** — plutôt que de ne regarder que les contrats privés directs de fournisseurs de l’opérateur de l’échange. Exemples :
-    - frais de participants, subventions, ou budgets d’opérateur qui utilisent des substrats régionaux d’authentification, d’annuaire, de réseau, ou d’hébergement sans payer une part équitable de l’entretien ;
-    - charge de calcul et de connectivité imposée sur des épines dorsales TI de santé partagées ; ou
-    - charge de maintenance et de réponse aux pannes reportée sur des hôpitaux plus petits.
-    
-    Ce n’est **pas** un test de si l’échange vend des registres, mine des données pour la publicité, ou envoie du contenu clinique à des parties externes non liées ; ces questions appartiennent au [§4](#4-data-types-and-handling-evaluation) et aux protections de vie privée du Chapitre six.
-  - Là où le prélèvement de ressources partagées est matériel, si les cliniques plus petites, les prestataires ruraux, ou les participants de santé publique portent des coûts asymétriques de connectivité ou de participation ;
-  - si les flux de retour — entretien d’interopérabilité, administration responsable d’annuaire, soutien d’intégration, remédiation de pannes, et partage équitable des coûts entre participants — soutiennent de fond l’infrastructure partagée sur laquelle d’autres s’appuient ;
-  - si des transferts symboliques ou ponctuels ont été traités comme un retour adéquat ; et
-  - si l’adéquation de soutien a été évaluée à la criticité opérationnelle de **Classe B** plutôt qu’assertée depuis des lignes budgétaires agrégées seules.
-- **Ce que le registre doit montrer :**
-  - Déclencheur et portée d’évaluation de l’**Article IV** (*Allocation des ressources, dépendances et financement de l’écosystème*) ;
-  - constatations de **flux de ressources d’infrastructure partagée** — frais, financement, calcul, connectivité, et charge de maintenance puisés depuis et remis vers les dépendances partagées de TI de santé et d’authentification ;
-  - constatations de flux de retour et d’adéquation de soutien à la profondeur de **Classe B** ;
-  - constatations d’équité pour la charge asymétrique des participants là où c’est matériel ;
-  - incertitude et constatations de composant là où c’est exigé ; et
-  - déclencheurs de réouverture si la croissance de la dépendance des participants, le risque de panne, ou le routage de santé publique exigerait maintenant un examen de soutien escaladé — y compris vers le haut vers une posture de **Classe A** là où le routage de soins essentiel à la survie est conjointement impliqué.
-
-**Classe C — plateforme institutionnelle de planification et de coordination.** Une couche de planification multi-organisation peut router des paiements de fournisseurs, des acquisitions institutionnelles, une fédération d’identité, ou une capacité régionale de calcul hébergé à travers des substrats partagés — mais de nombreux déploiements imposent une extraction directe plus légère jusqu’à ce que la concentration fasse de la plateforme un goulot de coordination.
-
-- **Dépendances et flux dans la portée :**
-  - Régions d’hébergement partagées, fédération d’identité, rails de paiement ou d’acquisition utilisés pour les réservations de fournisseurs ;
-  - flux institutionnels d’abonnement et de licence ;
-  - services d’API ou d’annuaire réutilisés à travers les hôpitaux, écoles, et agences participantes ;
-  - effets de concentration là où une plateforme intermédie la coordination du personnel, des salles, ou des fournisseurs pour de nombreuses organisations.
-- **Ce que l’évaluation doit tester :**
-  - Si le déclencheur de matérialité de l’**Article IV** (*Allocation des ressources, dépendances et financement de l’écosystème*) s’applique réellement — y compris là où la plateforme route matériellement des fonds, alloue des frais, ou extrait de la capacité depuis une infrastructure partagée sur laquelle d’autres s’appuient ;
-  - si les cartes de systèmes dépendants ont été honnêtement bornées plutôt qu’omises parce que l’opérateur étiquette le système non critique ;
-  - si les flux de retour — entretien d’interopérabilité, structures de frais équitables, soutien aux pannes, et voies de sortie ouvertes pour les institutions participantes — ont été évalués là où l’extraction est matérielle ;
-  - si la concentration dans une seule couche de planification déplace le coût de coordination ou le risque de dépendance vers des institutions plus petites sans soutien proportionné ; et
-  - si une **veille de reclassification** est exigée là où la plateforme devient un goulot de facto pour la dotation essentielle à la survie, le routage d’urgence, ou la coordination des paiements.
-- **Ce que le registre doit montrer :**
-  - Si et pourquoi le déclencheur de l’**Article IV** (*Allocation des ressources, dépendances et financement de l’écosystème*) s’applique ;
-  - constatations de dépendance et de flux de ressources proportionnées au risque de coordination de **Classe C** ;
-  - constatations d’extraction et de flux de retour là où c’est matériel — non une assertion en blanc qu’aucune infrastructure partagée n’est impliquée ;
-  - constatations de concentration et de goulot ;
-  - **veille de reclassification** explicite là où la dépendance se renforce ; et
-  - pointeurs vers un examen escaladé de soutien inter-systèmes si la classe, le routage de paiements, ou le rôle de coordination essentiel à la survie change.
-
-**Lecture à travers les classes.** La même discipline de l’**Article IV-A** (*Cartographie des dépendances et transparence des flux de ressources*) et de l’**Article IV-B** (*Équité inter-systèmes et durabilité*) s’applique partout où le déclencheur de matérialité est satisfait ; la classe change la profondeur de carte et le scrutement d’adéquation, non la permission de traiter l’extraction partagée comme immatérielle. Un système d’eau de **Classe A** qui puise dans un bassin versant partagé ou une épine dorsale de réseau régionale doit porter sur le registre la preuve la plus forte de carte des systèmes dépendants et de flux de retour. Un échange de **Classe B** qui repose sur une authentification partagée et une infrastructure TI de santé doit consigner des constatations d’extraction et d’adéquation de soutien à la criticité opérationnelle — non des slogans génériques d’interopérabilité. Une plateforme de planification de **Classe C** ne doit pas éluder l’examen inter-systèmes pendant qu’elle devient en silence le goulot de paiements, d’identité, ou de personnel pour des institutions qui ne peuvent pas pratiquement substituer ; lorsque cela arrive, la certification doit escalader l’examen et la reclassification sous le [§2](#2-system-class-evaluation) et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), y compris vers le haut jusqu’à la **Classe A** là où la coordination essentielle à la survie est filtrée. Les parcours de non-discrimination pour les mêmes systèmes sont au [§7.1](#71-illustrative-nondiscrimination-application-by-class).
-
-<a id="7-nondiscrimination-evaluation"></a>
-
-### 7. Évaluation de la non-discrimination
+### 5. Évaluations du plancher des droits et des domaines
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de classe du système*) ; famille de mesure Participation (*Équité de fond et Recours à des substituts de caractéristiques protégées et impact disparate comme mesure constitutionnelle*) ; **Article V-B** (*Non-discrimination*) ; [Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional), [Caractéristiques protégées](core_05_band_participation.md#protected-characteristics-constitutional), [Recours à des substituts de caractéristiques protégées et impact disparate](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Langue, culture et patrimoine](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [Nécessité](core_05_band_accountability.md#necessity), et [Proportionnalité](core_05_band_accountability.md#proportionality) (Chapitre cinq).
-- En aval : [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*parcours illustratifs de non-discrimination*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’apports vérifiés*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement par motif de discrimination et évasion par substitut*).
-- Lire avec : **Article V-C** (*Inclusion pleine et égalité dans l’adjudication et les opérations*) là où la certification filtre l’accès de forum, administratif, ou d’exécution ; [*Non-discrimination, Caractéristiques protégées, Dignité, Filtrage des signaux intimes, et statut de l’**Article XI-C** (*Services sexuels commerciaux consentis entre adultes et exploitation sexuelle*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Sous-sections : [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*application illustrative de la non-discrimination par classe*).
+- En amont : [§1](#1-purpose-and-role) (*objet et rôle*) ; [§2.1](#21-how-system-class-scales-every-evaluation) (*proportionnalité selon la classe du système*) ; planchers des droits du chapitre six — **Article I-B** (*Empreinte écologique et transparence*), **Article III-A** (*Survie*), **Article IV** (*Droit à une éducation centrée sur les sentients*), **Article IV-A** (*Égalité d’accès à l’éducation*), **Article V** (*Allocation des ressources, dépendances et financement des écosystèmes*), **Article VI-C** (*Non-discrimination*), **Article VI-D** (*Accessibilité*), **Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) et **Article XIII-A** (*Socle de fiabilité et de confiance*).
+- En aval : [Partie B §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*contenu du registre*) ; [Partie B §6.1](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*rôles des composantes du forum*) ; [Partie B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*résultats et réouverture*) ; [Partie B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’entrée des éléments vérifiés*).
+- Sous-sections : [§5.1](#51-ecological-footprint-evaluation) (*empreinte écologique*) ; [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) (*capacité éducative*) ; [§5.3](#53-proportionate-cross-system-support-evaluation) (*soutien intersystémique proportionné*) ; [§5.4](#54-nondiscrimination-evaluation) (*non-discrimination*) ; [§5.5](#55-accessibility-evaluation) (*accessibilité*) ; [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*dignité de confiance*).
 
 </details>
 
 <br>
 
-*En termes simples : lorsqu’un système décide matériellement qui entre, qui paie plus, qui est classé plus bas, ou qui porte de plus lourdes charges, la certification doit vérifier si ce motif charge le préjudice sur des caractéristiques protégées ou leurs substituts — non si l’opérateur dit que les règles sont neutres. Les quotas d’inclusion et les algorithmes d’équité particuliers peuvent vivre dans d’autres instruments, des ajouts ultérieurs au corpus, ou des instruments d’adoption ; la certification vérifie que les motifs de charge et de bénéfice et le risque de substitut ont réellement été évalués là où le déclencheur s’applique. Les exemples travaillés pour les systèmes illustratifs au [§2.1](#21-illustrative-class-profiles-non-exhaustive) sont au [§7.1](#71-illustrative-nondiscrimination-application-by-class).*
+*En termes simples : certains systèmes ont un effet majeur sur l’accès des sentients à leurs protections fondamentales — comptabilisation honnête des charges environnementales, nourriture et eau, éducation, traitement équitable, accès réel, systèmes dignes de confiance et part équitable des coûts des infrastructures communes. Dans ce cas, la certification doit vérifier que son approbation ne compromettrait pas discrètement ces protections, et que cette vérification est réelle — pas une simple case cochée par l’opérateur. Le tableau indique quelle protection chaque vérification couvre, quand elle s’applique et où elle est évaluée.*
 
-**Déclencheur de matérialité.** Cette section s’applique là où un système matériellement impactant classifie, range, tarifie, filtre, exclut, ou alloue matériellement des charges et des bénéfices parmi les êtres sentients — y compris par des règles d’éligibilité, des traits de modèle, une logique de classement, une politique de plateforme, ou des voies de décision comparables. Elle n’exige pas un audit complet de non-discrimination sur chaque registre de certification.
+Cette section constitue la sous-phase **IIc** de la phase II (Évaluer), après [§3 Évaluation de la certification de l’ensemble du système](#3-whole-system-certification-evaluation) (**IIa**) et [§4 Évaluations lorsque des éléments sont en cause](#4-evaluations-where-implicated) (**IIb**).
 
-La certification d’alignement du système doit évaluer la **non-discrimination** sous l’**Article V-B** (*Non-discrimination*), l’[Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional), et le [Recours à des substituts de caractéristiques protégées et impact disparate](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) là où le déclencheur de matérialité s’applique. Le sens canonique, les facteurs d’évaluation, et la discipline de non-conformité vivent au Chapitre cinq et à l’**Article V-B** (*Non-discrimination*) ; les cibles d’inclusion, la mécanique d’aménagement, et le détail de gouvernance des modèles peuvent vivre dans des instruments incorporés, des ajouts ultérieurs au corpus, ou des instruments d’adoption là où c’est applicable. Cette section énonce ce que la certification doit vérifier et consigner ; elle ne réénonce pas cette mécanique opératoire ni ne prescrit ici de spécificités.
+Lorsqu’un système à impact matériel satisfait à un déclencheur du tableau ci-dessous, la certification doit évaluer la protection correspondante, à lire avec les dispositions pertinentes du chapitre six. L’évaluation doit déterminer si la certification ou la poursuite de la dépendance exclurait ou dégraderait matériellement cette protection. Une affirmation de l’opérateur, une auto-attestation ou une conformité sur papier ne remplace pas cette évaluation.
 
-**Exigence d’évaluation.** Un processus de certification doit déterminer si les voies de décision sur lesquelles le système s’appuie matériellement imposent des charges, exclusions, ou préjudices matériels aux êtres sentients sur la base des [Caractéristiques protégées](core_05_band_participation.md#protected-characteristics-constitutional), de leurs substituts, ou de groupements arbitraires utilisés comme substituts fonctionnels, y compris les spécialisations de langue, de culture, et de patrimoine sous [Langue, culture et patrimoine](core_05_band_continuity.md#language-culture-and-heritage-constitutional). L’évaluation doit tester les motifs de charge et de bénéfice sous l’[Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional) et le risque de substitut ou d’impact disparate sous le [Recours à des substituts de caractéristiques protégées et impact disparate](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), échelonnés à l’[enjeu matériel](core_00_preamble.md#material-stake). Un traitement différentiel n’est acceptable que là où une [Nécessité](core_05_band_accountability.md#necessity), une [Proportionnalité](core_05_band_accountability.md#proportionality), et une équité de fond documentées le justifient. L’évaluation doit refléter l’effet fonctionnel, non la neutralité nominale, l’intention déclarée, ou l’étiquette seule.
+| Protection | S’applique lorsque le système… | Évaluée au titre de |
+|------------|-------------------------------|---------------------|
+| **Article I-B** (*Empreinte écologique et transparence*) | entraîne des charges environnementales matérielles attribuables | [§5.1](#51-ecological-footprint-evaluation) |
+| **Article III-A** (*Survie*) — nourriture, eau, abri, environnement opérationnel et apports comparables indépendants du substrat | fournit, alloue, tarifie, héberge ou met fin à l’accès aux nécessités de survie | [§2](#2-system-class-evaluation) et [§3](#3-whole-system-certification-evaluation) |
+| **Article IV** (*Droit à une éducation centrée sur les sentients*) | classe, évalue, recommande, place ou conditionne l’accès à un titre pour des sentients dans des contextes éducatifs ou de formation, ou bloque des parcours de reconversion et d’apprentissage tout au long de la vie | [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) |
+| **Article IV-A** (*Égalité d’accès à l’éducation*) | fournit, alloue, tarifie, héberge ou met fin à l’accès à l’éducation | [§2](#2-system-class-evaluation) et [§3](#3-whole-system-certification-evaluation) ; [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) et [§5.5](#55-accessibility-evaluation) lorsque leurs déclencheurs s’appliquent |
+| **Article V** (*Allocation des ressources, dépendances et financement des écosystèmes*), notamment le [Soutien intersystémique proportionné](../../core_05_band_continuity.md#proportionate-cross-system-support) au titre de **l’Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) et de **l’Article V-B** (*Équité et durabilité intersystémiques*) | alloue, achemine, finance ou extrait des ressources d’infrastructures partagées ou de dépendances fondamentales dont dépendent d’autres systèmes ou sentients | [§5.3](#53-proportionate-cross-system-support-evaluation) |
+| **Article VI-C** (*Non-discrimination*) | classe, ordonne, tarifie, soumet à un contrôle d’accès, exclut des sentients, ou répartit entre eux les charges et les avantages | [§5.4](#54-nondiscrimination-evaluation) |
+| **Article VI-D** (*Accessibilité*) | soumet la participation effective à un contrôle d’accès dans des domaines constitutionnellement pertinents | [§5.5](#55-accessibility-evaluation) |
+| **Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) | façonne la dépendance des sentients à l’égard du comportement représenté, des limites, des risques, des voies de contestation ou des mesures correctives | [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **Article XIII-A** (*Socle de fiabilité et de confiance*) et les [**Conditions sûres**](../../core_05_band_continuity.md#safe-conditions) | fournit ou conditionne une activité productive, ou fournit, alloue, tarifie, héberge ou met fin à l’accès aux Conditions sûres | [§2](#2-system-class-evaluation) et [§3](#3-whole-system-certification-evaluation) ; [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) lorsque son déclencheur s’applique |
 
-**Exigence de registre.** Le registre de certification doit énoncer le déclencheur de matérialité de l’**Article V-B** (*Non-discrimination*) sur lequel on s’appuie, la portée d’évaluation des voies de classification, de classement, de tarification, de filtrage, d’exclusion, et d’allocation de charges sur lesquelles on s’appuie matériellement, les constatations de caractéristiques protégées et de discrimination par substitut, les constatations d’équité de fond, l’incertitude, les constatations de forum des êtres sentients ou d’autre composant assigné là où c’est exigé, et toute condition, limite de dépendance, ou déclencheur de réouverture lié à une charge disparate persistante ou à une exclusion.
+Chaque évaluation de domaine de [§5.1 Évaluation de l’empreinte écologique](#51-ecological-footprint-evaluation) à [§5.6 Évaluation de la dignité de confiance et de l’intégrité de la dépendance au système](#56-trustworthiness-and-system-reliance-integrity-evaluation) :
 
-**Échelonnement conjoint avec la classe du système.** La profondeur d’évaluation de la non-discrimination doit s’échelonner avec la classe de système assignée sous le [§2](#2-system-class-evaluation) et l’[enjeu matériel](core_00_preamble.md#material-stake). Les systèmes de classe plus élevée qui filtrent matériellement l’accès, rangent des êtres sentients, ou allouent des charges et des bénéfices exigent une preuve proportionnellement plus forte que la charge par caractéristique protégée, la discrimination par substitut, et l’inéquité de fond ont été évaluées plutôt qu’assertées.
+- ne s’applique que lorsque son propre déclencheur de matérialité est satisfait et n’exige pas un audit complet dans chaque registre de certification ;
+- est proportionnée à la classe du système en vertu de [§2.1 Comment la classe du système détermine la portée de chaque évaluation](#21-how-system-class-scales-every-evaluation) ;
+- consigne ses constatations dans le registre de certification conformément à la [Partie B §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) ; et
+- traite les défauts qu’elle nomme comme des défauts de certification, avec les conséquences prévues par la [Partie B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
-**Défauts et désalignement.** Obscurcir, faussement représenter, fragmenter, ou reporter la logique matérielle de classification, de classement, ou d’allocation de charges là où l’**Article V-B** (*Non-discrimination*) exige un examen ; traiter la neutralité de façade, les métriques agrégées de commodité, ou l’auto-rapport de l’opérateur comme suffisants sans une analyse évaluable de charge et de bénéfice ; certifier une dépendance continue pendant qu’une discrimination par substitut ou une inéquité de fond documentée menace matériellement l’alignement constitutionnel ; ou utiliser des encadrements d’homogénéisation, d’interopérabilité, ou d’efficacité pour défaire les protections de langue, de culture, ou de patrimoine sans satisfaire les tests de **Nécessité** et de **Proportionnalité** de l’**Article V-B** (*Non-discrimination*) doivent être traités comme défauts de certification. Ils peuvent soutenir une reconnaissance conditionnelle, une reconnaissance différée, une non-reconnaissance, un retrait, ou une réouverture sous la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Chaque évaluation de domaine indique ce que la certification doit vérifier, sans aller au-delà. Son sens canonique, ses facteurs d’évaluation et la discipline de non-conformité figurent au chapitre cinq et dans l’article qu’elle nomme. Les méthodes comptables, catalogues, métriques, formats de divulgation, objectifs numériques et autres mécanismes opérationnels figurent, le cas échéant, dans les instruments incorporés. Une évaluation de domaine ne les reformule ni ne les prescrit.
 
-<a id="71-illustrative-nondiscrimination-application-by-class"></a>
+<a id="51-ecological-footprint-evaluation"></a>
 
-<a id="71-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-#### 7.1 Application illustrative de la non-discrimination par classe (non exhaustive)
-
-*En termes simples : le [§3.8](#38-illustrative-whole-system-application-by-class) au [§6.1](#61-illustrative-cross-system-support-application-by-class) parcourent les mêmes trois systèmes à travers des domaines d’évaluation antérieurs. Cette sous-section montre ce que l’évaluation de **non-discrimination** signifie pour chacun — quelles voies de décision comptent, ce que la certification doit vérifier lorsque le déclencheur de matérialité de l’**Article V-B** (*Non-discrimination*) s’applique, et ce qui doit apparaître sur le registre. Le Chapitre cinq et l’**Article V-B** (*Non-discrimination*) restent titulaires des règles canoniques d’équité et de discrimination par substitut ; les quotas d’inclusion, les cibles démographiques, et les conceptions d’algorithmes d’équité peuvent vivre dans d’autres instruments, des ajouts ultérieurs au corpus, ou des instruments d’adoption ; ces parcours ne prescrivent pas cette mécanique.*
-
-**Classe A — contrôle et télémétrie municipaux d’eau potable sûre.** Un système municipal de traitement et de distribution applique des règles de coupure, de reconnexion, de plan de paiement, de notification de panne, et d’alerte de sûreté qui décident matériellement qui perd l’accès à l’eau, qui est averti en premier, et qui porte le coût de restauration du service.
-
-- **Voies de décision dans la portée :**
-  - Séquençage de coupure et de restauration du service ;
-  - privilèges, facturation, et éligibilité aux plans de paiement ;
-  - approbation de nouveau raccordement et de reconnexion ;
-  - routage des notifications de panne et choix de langue ;
-  - ciblage des alertes de contamination ou d’eau à faire bouillir ;
-  - règles bailleur–locataire et d’historique d’adresse qui filtrent l’accès ;
-  - priorisation de dérivation d’urgence ou d’entraide là où plusieurs districts concourent pour une offre limitée.
-- **Ce que l’évaluation doit tester :**
-  - Si les motifs de charge et de bénéfice sous l’[Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional) ont été évalués pour des voies qui peuvent fermer des essentiels de survie — non seulement si l’opérateur étiquette les règles « fondées sur le risque » ou « opérationnelles » ;
-  - si la logique de coupure, de facturation, ou de notification charge un préjudice disproportionné sur des êtres sentients sur la base des [Caractéristiques protégées](core_05_band_participation.md#protected-characteristics-constitutional), de leurs substituts, ou de groupements arbitraires utilisés comme substituts fonctionnels ;
-  - si les traits de code postal, de bailleur, de langue, d’historique de paiement, ou d’historique d’adresse fonctionnent comme discrimination par substitut sous le [Recours à des substituts de caractéristiques protégées et impact disparate](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) ;
-  - si les protections de [Langue, culture et patrimoine](core_05_band_continuity.md#language-culture-and-heritage-constitutional) ont été testées plutôt qu’homogénéisées par « anglais standard seulement » ou des métriques agrégées de commodité ; et
-  - si tout traitement différentiel satisfait une [Nécessité](core_05_band_accountability.md#necessity) et une [Proportionnalité](core_05_band_accountability.md#proportionality) documentées.
-- **Ce que le registre doit montrer :**
-  - Le déclencheur de matérialité de l’**Article V-B** (*Non-discrimination*) sur lequel on s’appuie ;
-  - la portée d’évaluation des voies de coupure, de facturation, de notification, et de raccordement sur lesquelles on s’appuie matériellement ;
-  - constatations de caractéristiques protégées, de discrimination par substitut, et d’équité de fond à la profondeur de **Classe A** ;
-  - l’incertitude ;
-  - constatations de forum des êtres sentients ou d’autre composant là où c’est exigé ; et
-  - conditions ou déclencheurs de réouverture liés à une charge disparate persistante de coupure, de notification, ou de facturation là où des essentiels de survie sont filtrés.
-
-**Classe B — échange régional de registres cliniques.** Un échange d’information de santé route des registres parmi les hôpitaux et cliniques à travers des règles de consentement, de résolution d’identité, de classement d’annuaire de prestataires, d’accès break-glass, et d’éligibilité d’intégration des participants qui décident matériellement qui peut voir quels soins, quels établissements se connectent en premier, et quels patients correspondent correctement à travers le réseau.
-
-- **Voies de décision dans la portée :**
-  - Appariement d’identité des patients et déduplication ;
-  - règles de consentement, de break-glass, et d’accès d’urgence ;
-  - classement d’annuaire de prestataires et d’établissements ou logique de réseau préféré ;
-  - intégration et suspension des hôpitaux participants ;
-  - règles de routage des registres et de priorité de requête ;
-  - traits dérivés utilisés pour ranger les prestataires, router les orientations, ou marquer des cohortes de « grand utilisateur » ou comparables.
-- **Ce que l’évaluation doit tester :**
-  - Si les voies de classification, de classement, et de filtrage ont été évaluées pour l’effet fonctionnel — non la seule prétention de neutralité HIPAA nominale ou d’interopérabilité ;
-  - si la logique d’appariement, de routage, ou d’annuaire impose une exclusion ou un préjudice matériel sur des groupes protégés ou leurs substituts ;
-  - si les erreurs de déduplication, les seuils break-glass, ou les règles d’intégration chargent une charge disproportionnée sur des cliniques rurales, des patients de langue minoritaire, ou des cohortes comparables ;
-  - si « l’efficacité », « la prévention de la fraude », ou des métriques agrégées d’utilisation ont été utilisées pour défaire l’équité de fond sans satisfaire les tests de **Nécessité** et de **Proportionnalité** de l’**Article V-B** (*Non-discrimination*) ; et
-  - si la profondeur d’évaluation correspond à la criticité opérationnelle de **Classe B** là où le classement affecte l’accès aux soins, le routage des prestations, ou la sécurité des revenus.
-- **Ce que le registre doit montrer :**
-  - Déclencheur et portée de voies de l’**Article V-B** (*Non-discrimination*) ;
-  - constatations de caractéristiques protégées et de discrimination par substitut ;
-  - constatations d’équité de fond pour les règles de classement, d’appariement, et d’accès ;
-  - incertitude et constatations de composant là où c’est exigé ; et
-  - déclencheurs de réouverture si un changement de routage ou d’appariement bloquerait maintenant les soins d’urgence dans des délais pertinents pour la survie ou déplacerait matériellement une charge disparate.
-
-**Classe C — plateforme institutionnelle de planification et de coordination.** Une couche de planification multi-organisation assigne des quarts, réserve des salles, apparie des fournisseurs, et alloue une priorité de coordination à travers des hôpitaux, des écoles, et des agences publiques — voies de décision qui peuvent ranger, exclure, ou charger des fardeaux inégaux même lorsque la plateforme n’est pas elle-même une utilité critique pour la survie.
-
-- **Voies de décision dans la portée :**
-  - Assignation de quarts, heures supplémentaires, et allocation d’astreinte ;
-  - priorité de réservation de salles, d’équipement, et de lieux ;
-  - appariement de fournisseurs et classement d’acquisition ;
-  - règles d’accès fondées sur le rôle institutionnel, les titres, et le site ;
-  - traits de planification dérivés qui corrèlent avec le quartier, la communauté linguistique, le statut d’aidant, ou des substituts comparables ;
-  - règles d’API ou de politique qui excluent de plus petites institutions des créneaux préférés ou des bassins de fournisseurs.
-- **Ce que l’évaluation doit tester :**
-  - Si le déclencheur de matérialité de l’**Article V-B** (*Non-discrimination*) s’applique — y compris là où des algorithmes de coordination rangent matériellement le personnel, les fournisseurs, ou les institutions ;
-  - si la géographie des horaires, les substituts d’ancienneté, la « notation de disponibilité », ou la logique de notation des fournisseurs chargent une charge disproportionnée sur des groupes protégés sans justification évaluable ;
-  - si des règles facialement neutres produisent une inéquité de fond par le timing des quarts, la charge de déplacement, ou l’exclusion des réservations de haute valeur ;
-  - si l’opérateur a traité la plateforme comme au-dessous de l’examen parce qu’elle est de **Classe C** alors que les effets de coordination filtrent matériellement l’accès au travail, à l’éducation, ou au service public ; et
-  - si une **veille de reclassification** est exigée là où la plateforme devient un goulot de facto pour la dotation essentielle à la survie ou le routage d’urgence.
-- **Ce que le registre doit montrer :**
-  - Si et pourquoi le déclencheur de l’**Article V-B** (*Non-discrimination*) s’applique ;
-  - portée d’évaluation des voies de classement, d’assignation, et d’exclusion proportionnée au risque de coordination de **Classe C** ;
-  - constatations de caractéristiques protégées, de substitut, et d’équité de fond là où c’est matériel — non une assertion en blanc que personne n’est rangé ;
-  - constatations de concentration et de goulot là où les effets de planification laissent entrevoir une escalade ;
-  - **veille de reclassification** explicite là où la dépendance se renforce ; et
-  - pointeurs vers un examen escaladé de non-discrimination si la classe, le routage des paiements, ou le rôle de coordination essentiel à la survie change.
-
-**Lecture à travers les classes.** La même discipline de l’**Article V-B** (*Non-discrimination*) et de non-discrimination du Chapitre cinq s’applique partout où le déclencheur de matérialité est satisfait ; la classe change la profondeur d’évaluation, non la permission de traiter le classement ou le report de charge comme immatériels. Un système d’eau de **Classe A** dont les règles de coupure ou de notification peuvent fermer l’eau sûre doit porter sur le registre l’analyse de charge et de bénéfice et de substitut la plus forte — non un énoncé générique de « bonne pratique d’utilité ». Un échange de **Classe B** dont la logique d’appariement ou de routage affecte les soins d’urgence, les prestations, ou l’accès aux titres doit consigner des constatations d’impact disparate et d’équité de fond à la criticité opérationnelle. Une plateforme de planification de **Classe C** ne doit pas garder un paragraphe d’équité de façade pendant que la logique de quarts, de fournisseurs, ou de réservation range ou exclut matériellement des participants ; lorsque la coordination devient essentielle à la survie, la certification doit escalader l’examen et la reclassification sous le [§2](#2-system-class-evaluation) et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), y compris vers le haut jusqu’à la **Classe A** là où la dotation ou le routage d’urgence est filtré. Les parcours d’accessibilité pour les mêmes systèmes sont au [§8.1](#81-illustrative-accessibility-application-by-class).
-
-<a id="8-accessibility-evaluation"></a>
-
-### 8. Évaluation de l’accessibilité
+#### 5.1 Évaluation de l’empreinte écologique
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de classe du système*) ; famille de mesure Participation (*Accessibilité comme mesure constitutionnelle*) ; **Article V-G** (*Accessibilité*) ; [Accessibilité](core_05_band_participation.md#accessibility-constitutional), [Matérialité](core_05_band_oversight.md#materiality-determination), [Dépendance](core_05_band_continuity.md#dependency), [Agence significative](core_05_band_participation.md#meaningful-agency), [Caractéristiques protégées](core_05_band_participation.md#protected-characteristics-constitutional), [Recours à des substituts de caractéristiques protégées et impact disparate](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional), [Nécessité](core_05_band_accountability.md#necessity), et [Proportionnalité](core_05_band_accountability.md#proportionality) (Chapitre cinq).
-- En aval : [§8.1](#81-illustrative-accessibility-application-by-class) (*parcours illustratifs d’accessibilité*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’apports vérifiés*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement d’accessibilité et aménagement seulement-papier*).
-- Lire avec : **Article III-B** (*Accès éducatif égal*) là où l’accessibilité éducative est impliquée — l’accessibilité spécifique à l’éducation reste titulaire là ; **Article V-C** (*Inclusion pleine et égalité dans l’adjudication et les opérations*) et **Article XII** (*Participation systémique des parties affectées, représentation et procédure due*) là où la certification filtre la participation de forum, administrative, des parties affectées, ou d’exécution ; [Chapitre sept §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion) (*crochet de facteur d’évaluation d’accessibilité transversal*).
-- Sous-sections : [§8.1](#81-illustrative-accessibility-application-by-class) (*application illustrative de l’accessibilité par classe*).
+- En amont : [Partie B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenu du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; famille de mesure de la Continuité (*l’Empreinte écologique en tant que mesure constitutionnelle*) ; **Article I-B** (*Empreinte écologique et transparence*) ; [Empreinte écologique](../../core_05_band_continuity.md#ecological-footprint), [Impact matériel](../../core_05_band_oversight.md#material-impact), [Dépendance](../../core_05_band_continuity.md#dependency), [Transparence](../../core_05_band_oversight.md#transparency) et [Intégrité épistémique](../../core_05_band_oversight.md#epistemic-integrity) (chapitre cinq) ; [Conditions environnementales préalables](../../core_05_band_continuity.md#environmental-preconditions) et [Intégrité écologique](../../core_05_band_continuity.md#ecological-integrity) lorsqu’elles sont matériellement en cause.
+- En aval : [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*parcours illustratifs de l’empreinte écologique*) ; [§5.3](#53-proportionate-cross-system-support-evaluation) et [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*évaluation et parcours illustratifs du soutien intersystémique*) ; [Partie B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’entrée des éléments vérifiés*) ; [Partie B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*présentation trompeuse de l’empreinte et désalignement*).
+- À lire avec : [corpus_systems.md](../../corpus_systems.md) et [CS-8 — Durabilité adaptative et résilience des écosystèmes](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) lorsque l’allocation adaptative ou l’interdépendance des écosystèmes est matériellement en cause.
+- Sous-sections : [§5.1.1](#511-scope-and-governing-rules) (*portée et règles applicables*) ; [§5.1.2](#512-evaluation-requirement) (*exigence d’évaluation*) ; [§5.1.3](#513-system-class-scaling-and-escalation) (*proportionnalité et escalade selon la classe du système*) ; [§5.1.4](#514-defects-and-misalignment) (*défauts et désalignement*) ; [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*application illustrative de l’empreinte écologique par classe du système*).
 
 </details>
 
 <br>
 
-*En termes simples : lorsqu’un système contrôle matériellement si les êtres sentients peuvent réellement prendre part — non seulement si une porte est étiquetée « ouverte » — la certification doit vérifier si la participation est véritablement joignable à travers les besoins sensoriels, cognitifs, de mobilité, de communication, d’interface de substrat, et comparables. Les catalogues d’aménagement et les normes d’interface peuvent vivre dans d’autres instruments, des ajouts ultérieurs au corpus, ou des instruments d’adoption ; la certification vérifie que la participation de fond a réellement été évaluée là où le déclencheur s’applique. Les exemples travaillés pour les systèmes illustratifs au [§2.1](#21-illustrative-class-profiles-non-exhaustive) sont au [§8.1](#81-illustrative-accessibility-application-by-class).*
+*En termes simples : si un système cause un véritable dommage à l’environnement, la certification doit examiner ce dommage honnêtement — y compris celui qui passe par ses fournisseurs et celui qui survient après son utilisation par les sentients. Les évaluateurs ne peuvent pas se contenter de la parole de l’opérateur affirmant que le système est « vert ». Cette section n’explique ni comment mesurer une empreinte ni dans quelle mesure la réduire ; d’autres documents s’en chargent. Elle exige seulement que, lorsque le dommage est important, quelqu’un ait réellement déterminé quelle part revient au système, l’ait divulguée et l’ait comparée aux solutions de rechange. Exemples illustratifs : [§5.1.5 Application illustrative de l’empreinte écologique par classe du système (non exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).*
 
-**Déclencheur de matérialité.** Cette section s’applique là où un système matériellement impactant filtre matériellement la participation de fond dans des domaines constitutionnellement pertinents — y compris la gouvernance, la participation des parties affectées, l’adjudication, les opérations, l’accès au plancher de survie, l’accès aux soins, l’expression, l’assemblée, la presse, ou des domaines comparables — à travers des interfaces, des lieux, la planification, les titres, l’accès au calcul, la conception d’aménagement, ou des voies de participation comparables. Elle n’exige pas un audit complet d’accessibilité sur chaque registre de certification. L’accessibilité éducative reste gouvernée par l’**Article III-B** (*Accès éducatif égal*) et n’est pas resserrée ici.
+<a id="511-scope-and-governing-rules"></a>
+##### 5.1.1 Portée et règles applicables
 
-La certification d’alignement du système doit évaluer l’**accessibilité** sous l’**Article V-G** (*Accessibilité*) et l’[Accessibilité](core_05_band_participation.md#accessibility-constitutional) là où le déclencheur de matérialité s’applique. Le sens canonique, les facteurs d’évaluation, et la discipline de non-conformité vivent au Chapitre cinq et à l’**Article V-G** (*Accessibilité*) ; les catalogues d’aménagement, les normes d’interface, les spécifications de conception universelle, et la mécanique opératoire d’aménagement vivent dans des instruments incorporés là où c’est applicable. Cette section énonce ce que la certification doit vérifier et consigner ; elle ne réénonce pas cette mécanique opératoire ni ne prescrit de catalogues d’aménagement ou de spécifications de conception universelle particuliers.
+La certification de l’alignement du système doit évaluer l’**empreinte écologique** dans chaque registre de certification à impact matériel où les charges environnementales attribuables sont matérielles au regard de l’[Empreinte écologique](../../core_05_band_continuity.md#ecological-footprint) et de **l’Article I-B** (*Empreinte écologique et transparence*).
 
-**Exigence d’évaluation.** Un processus de certification doit déterminer si les êtres sentients peuvent participer de fond dans les domaines constitutionnellement pertinents que le système filtre matériellement — non seulement si des affordances formelles, des interfaces par défaut, ou des aménagements de papier existent. L’évaluation doit tester l’effet de participation de fond sous l’[Accessibilité](core_05_band_participation.md#accessibility-constitutional), échelonné à la [Matérialité](core_05_band_oversight.md#materiality-determination) et à la [Dépendance](core_05_band_continuity.md#dependency), et doit détecter les aménagements seulement-papier, les motifs d’« accès général » qui s’en remettent aux affordances par défaut sans produire de capacité de participation, les arguments de matérialité sélective utilisés pour rétrécir la portée d’aménagement, l’exclusion contraire à la [Non-exclusion de la sentience](core_05_band_participation.md#sentience-non-exclusion), et la conception anti-déni-par-substitut à travers la planification, le choix de lieu, la délivrance de titres, l’accès au calcul, ou une mécanique comparable. L’évaluation doit appliquer les [Caractéristiques protégées](core_05_band_participation.md#protected-characteristics-constitutional) et le [Recours à des substituts de caractéristiques protégées et impact disparate](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) à la logique de conception d’aménagement. Toute limite doit satisfaire une [Nécessité](core_05_band_accountability.md#necessity), une [Proportionnalité](core_05_band_accountability.md#proportionality), et une [Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional) documentées.
+<a id="512-evaluation-requirement"></a>
+##### 5.1.2 Exigence d’évaluation
 
-**Exigence de registre.** Le registre de certification doit énoncer le déclencheur de matérialité de l’**Article V-G** (*Accessibilité*) sur lequel on s’appuie, la portée d’évaluation des voies de participation sur lesquelles on s’appuie matériellement, les constatations de participation de fond et d’aménagement, les constatations d’anti-déni-par-substitut là où c’est matériel, l’incertitude, les constatations de forum des êtres sentients ou d’autre composant assigné là où c’est exigé, et toute condition, limite de dépendance, ou déclencheur de réouverture lié à des barrières de participation persistantes.
+Le processus de certification doit déterminer si les flux environnementaux attribuables — énergie, matériaux, émissions, qualité de l’air, qualité de l’eau, utilisation de l’eau et des terres, ainsi que les charges connexes — sont :
 
-**Échelonnement conjoint avec la classe du système.** La profondeur d’évaluation de l’accessibilité doit s’échelonner avec la classe de système assignée sous le [§2](#2-system-class-evaluation) et l’[enjeu matériel](core_00_preamble.md#material-stake). Les systèmes de classe plus élevée qui filtrent matériellement une participation constitutionnellement pertinente exigent une preuve proportionnellement plus forte que l’accessibilité de fond a été évaluée plutôt qu’assertée.
+- identifiés sur l’ensemble du cycle de vie du système pertinent au regard de la matérialité et de ses relations de [Dépendance](../../core_05_band_continuity.md#dependency) ;
+- évalués au regard de l’[Impact matériel](../../core_05_band_oversight.md#material-impact) ; et
+- divulgués, ou soustraits à la divulgation, uniquement dans la mesure permise par la [Transparence](../../core_05_band_oversight.md#transparency), l’[Intégrité épistémique](../../core_05_band_oversight.md#epistemic-integrity) et les obligations de transparence applicables.
 
-**Défauts et désalignement.** Traiter des affordances formelles, des interfaces par défaut, ou des aménagements de papier comme suffisants sans une analyse évaluable de participation de fond ; certifier une dépendance continue pendant que des barrières de participation documentées menacent matériellement l’alignement constitutionnel ; utiliser des encadrements de coût, de choix de conception, de classe de substrat, ou d’échelle opératoire pour défaire le plancher de participation sans satisfaire les tests de **Nécessité** et de **Proportionnalité** de l’**Article V-G** (*Accessibilité*) ; ou une conception opératoire dont l’effet est de défaire l’accessibilité là où une option moins lourde est faisable doivent être traités comme défauts de certification. Ils peuvent soutenir une reconnaissance conditionnelle, une reconnaissance différée, une non-reconnaissance, un retrait, ou une réouverture sous la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+L’évaluation doit refléter l’effet fonctionnel et les limites du système, et non le seul périmètre nominal, les étiquettes commerciales ou une présentation partielle du cycle de vie.
 
-<a id="81-illustrative-accessibility-application-by-class"></a>
+Dans la mesure du possible, les évaluateurs doivent comparer les dommages environnementaux importants du système à des solutions de rechange réalistes. Ils doivent aussi vérifier que ces dommages ne sont pas dissimulés par :
 
-<a id="81-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-#### 8.1 Application illustrative de l’accessibilité par classe (non exhaustive)
+- **un tracé trop étroit des limites** — fixer les limites du système de façon à en exclure les pires impacts ;
+- **un transfert de la charge** — confier le travail dommageable à des fournisseurs ou partenaires afin qu’il ne compte pas comme une charge du système lui-même ; ou
+- **la communication des seules bonnes nouvelles** — publier les chiffres favorables et omettre les défavorables.
 
-*En termes simples : le [§3.8](#38-illustrative-whole-system-application-by-class) au [§7.1](#71-illustrative-nondiscrimination-application-by-class) parcourent les mêmes trois systèmes à travers des domaines d’évaluation antérieurs. Cette sous-section montre ce que l’évaluation d’**accessibilité** signifie pour chacun — quelles voies de participation comptent, ce que la certification doit vérifier lorsque le déclencheur de matérialité de l’**Article V-G** (*Accessibilité*) s’applique, et ce qui doit apparaître sur le registre. Le Chapitre cinq et l’**Article V-G** (*Accessibilité*) restent titulaires des règles canoniques d’accessibilité ; les catalogues d’aménagement, les normes d’interface, et les spécifications de conception universelle peuvent vivre dans d’autres instruments, des ajouts ultérieurs au corpus, ou des instruments d’adoption ; ces parcours ne prescrivent pas cette mécanique. L’accessibilité éducative reste titulaire de l’**Article III-B** (*Accès éducatif égal*) et n’est pas resserrée ici.*
+<a id="513-system-class-scaling-and-escalation"></a>
+##### 5.1.3 Proportionnalité et escalade selon la classe du système
 
-**Classe A — contrôle et télémétrie municipaux d’eau potable sûre.** Un système municipal de traitement et de distribution filtre l’accès au plancher de survie à travers des portails de facturation, des canaux de notification de panne, des demandes de reconnexion, des alertes d’eau à faire bouillir, et des voies de service client qui décident si les êtres sentients peuvent apprendre, contester, ou restaurer l’eau sûre.
+La classe du système détermine la profondeur du traçage de ses dommages environnementaux et l’ampleur des comparaisons requises. Elle ne permet jamais d’éviter l’examen d’un dommage important.
 
-- **Voies de participation dans la portée :**
-  - Portails de facturation et de plans de paiement ;
-  - canaux d’alerte de panne et de contamination (voix, texte, web, en personne, ou voies de fournisseur délégué) ;
-  - interfaces de reconnexion et de demande de difficulté ;
-  - options de langue et de format pour les avis de sûreté ;
-  - portes de titres ou d’identité pour l’accès au compte ;
-  - exigences de calcul, d’appareil, ou de lieu pour déposer une contestation ou recevoir une alerte.
-- **Ce que l’évaluation doit tester :**
-  - Si les êtres sentients peuvent recevoir de fond des avis critiques pour la survie et achever des voies de reconnexion ou de difficulté à travers des profils sensoriels, cognitifs, de mobilité, de communication, et d’interface de substrat — non si un formulaire web par défaut existe ;
-  - si des aménagements seulement-papier, « appeler pendant les heures d’ouverture », ou des défauts anglais seulement défont la participation là où des options moins lourdes sont faisables ;
-  - si la conception de planification, de lieu, de titres, ou de calcul fonctionne comme déni-par-substitut ;
-  - si les [Caractéristiques protégées](core_05_band_participation.md#protected-characteristics-constitutional) et le [Recours à des substituts de caractéristiques protégées et impact disparate](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) ont été appliqués à la logique de conception d’aménagement ; et
-  - si toute limite satisfait une [Nécessité](core_05_band_accountability.md#necessity), une [Proportionnalité](core_05_band_accountability.md#proportionality), et une [Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional) documentées.
-- **Ce que le registre doit montrer :**
-  - Le déclencheur de matérialité de l’**Article V-G** (*Accessibilité*) sur lequel on s’appuie ;
-  - la portée d’évaluation des voies de notification, de facturation, de reconnexion, et de contestation sur lesquelles on s’appuie matériellement ;
-  - constatations de participation de fond et d’aménagement à la profondeur de **Classe A** ;
-  - constatations d’anti-déni-par-substitut là où c’est matériel ;
-  - l’incertitude ;
-  - constatations de forum des êtres sentients ou d’autre composant là où c’est exigé ; et
-  - conditions ou déclencheurs de réouverture liés à des barrières persistantes là où des essentiels de survie sont filtrés.
+- La classe d’un système ne doit pas être abaissée tant que son extraction d’eau, ses rejets polluants, sa consommation d’énergie ou des charges similaires ne sont comptabilisés que partiellement — surtout lorsque ces charges touchent à la fourniture d’un élément nécessaire à la survie des sentients, comme l’eau salubre.
+- Si un système se développe (charge accrue ou hébergement davantage concentré en un lieu) et que ses dommages environnementaux augmentent sensiblement, l’examen doit s’approfondir en conséquence. Cela peut aller jusqu’à la profondeur de la **Classe A** lorsque sont en jeu à la fois la fourniture essentielle à la survie par le système et les charges de ses sources.
+- Si un système devient un goulot d’étranglement dont les sentients dépendent pour une coordination essentielle à la survie, un dossier d’empreinte symbolique ne suffit pas au seul motif que son opérateur le qualifie de « non critique ».
 
-**Classe B — échange régional de registres cliniques.** Un échange d’information de santé et ses portails de participants filtrent l’accès quotidien aux soins à travers des portails patients, des interfaces de consentement, des annuaires de prestataires, des flux break-glass, et des outils d’intégration de cliniques qui décident si les patients et les plus petits prestataires peuvent réellement utiliser l’échange.
+<a id="514-defects-and-misalignment"></a>
+##### 5.1.4 Défauts et désalignement
 
-- **Voies de participation dans la portée :**
-  - Portail patient et interfaces de consentement ;
-  - outils d’annuaire de prestataires et de réservation d’orientation ;
-  - flux break-glass et d’accès d’urgence ;
-  - interfaces d’intégration et de délivrance de titres des cliniques ;
-  - soutien de langue, de format, et de technologie d’assistance pour les résumés cliniques et les divulgations ;
-  - exigences de calcul ou d’appareil pour consulter, contester, ou corriger des registres.
-- **Ce que l’évaluation doit tester :**
-  - Si les patients et les cliniques participantes peuvent user de fond des voies de consentement, d’accès, de correction, et d’urgence — non si un portail est étiqueté accessible ;
-  - si les interfaces par défaut s’en remettent aux usagers voyants, de bureau, à haut débit, ou d’anglais premier sans produire de capacité de participation pour les autres ;
-  - si la conception de titres, de planification, ou de lieu exclut des cliniques rurales, des patients de langue minoritaire, ou des êtres sentients qui ont besoin de formats alternatifs ;
-  - si la profondeur d’évaluation correspond à la criticité opérationnelle de **Classe B** là où l’échange filtre l’accès aux soins ; et
-  - si des aménagements de papier ou des prétentions agrégées de « liste de conformité » ont été traités comme suffisants sans une analyse évaluable de participation de fond.
-- **Ce que le registre doit montrer :**
-  - Déclencheur et portée de voies de l’**Article V-G** (*Accessibilité*) ;
-  - constatations de participation de fond et d’aménagement pour les voies patients et cliniques ;
-  - constatations d’anti-déni-par-substitut là où c’est matériel ;
-  - incertitude et constatations de composant là où c’est exigé ; et
-  - déclencheurs de réouverture si des barrières de portail ou de consentement bloqueraient maintenant les soins d’urgence dans des délais pertinents pour la survie ou déferaient matériellement la dépendance opératoire quotidienne.
+Chacun des éléments suivants constitue un défaut de certification :
 
-**Classe C — plateforme institutionnelle de planification et de coordination.** Une couche de planification multi-organisation filtre la participation des parties affectées et opératoire à travers des interfaces de revendication de quarts, des outils de réservation de salles, des portails de fournisseurs, et des tableaux de bord institutionnels — même lorsque la plateforme n’est pas elle-même une utilité critique pour la survie.
+- dissimuler, présenter de façon erronée, fragmenter ou transférer à un tiers des informations importantes sur l’empreinte que les règles de certification ou **l’Article I-B** (*Empreinte écologique et transparence*) imposent de divulguer ;
+- n’examiner que les parties du cycle de vie que l’opérateur a choisi de présenter alors qu’une vue plus large est nécessaire ; et
+- accepter les affirmations relatives à l’empreinte sur la seule parole de l’opérateur, sans preuve vérifiable.
 
-- **Voies de participation dans la portée :**
-  - Interfaces de revendication de quarts et d’astreinte ;
-  - outils de réservation de salles, d’équipement, et de lieux ;
-  - portails de fournisseurs et d’acquisition ;
-  - tableaux de bord de rôle institutionnel et de titres ;
-  - voies mobile, bureau, et de technologie d’assistance pour revendiquer ou contester des assignations ;
-  - options de langue et de format pour les avis d’horaire.
-- **Ce que l’évaluation doit tester :**
-  - Si le déclencheur de matérialité de l’**Article V-G** (*Accessibilité*) s’applique — y compris là où l’interface de coordination filtre matériellement le travail, l’éducation, la participation des parties affectées, ou de forum ;
-  - si les interfaces par défaut produisent une participation de fond à travers des profils sensoriels, cognitifs, de mobilité, de communication, et d’interface de substrat ;
-  - si le timing des horaires, le choix de lieu, les portes de titres, ou les exigences de calcul fonctionnent comme déni-par-substitut ;
-  - si l’opérateur a traité la plateforme comme au-dessous de l’examen parce qu’elle est de **Classe C** alors que les effets de coordination filtrent matériellement une participation constitutionnellement pertinente ; et
-  - si une **veille de reclassification** est exigée là où la plateforme devient un goulot de facto pour la dotation essentielle à la survie ou le routage d’urgence.
-- **Ce que le registre doit montrer :**
-  - Si et pourquoi le déclencheur de l’**Article V-G** (*Accessibilité*) s’applique ;
-  - portée d’évaluation des voies de planification, de réservation, et de portail proportionnée au risque de coordination de **Classe C** ;
-  - constatations de participation de fond et d’aménagement là où c’est matériel — non une assertion en blanc que l’interface est « standard » ;
-  - constatations de concentration et de goulot là où les effets de planification laissent entrevoir une escalade ;
-  - **veille de reclassification** explicite là où la dépendance se renforce ; et
-  - pointeurs vers un examen escaladé d’accessibilité si la classe ou le rôle de coordination essentiel à la survie change.
+<br>
 
-**Lecture à travers les classes.** La même discipline de l’**Article V-G** (*Accessibilité*) et d’accessibilité du Chapitre cinq s’applique partout où le déclencheur de matérialité est satisfait ; la classe change la profondeur d’évaluation, non la permission de traiter les aménagements de papier ou les interfaces par défaut comme suffisants. Un système d’eau de **Classe A** dont les voies de facturation ou de panne peuvent fermer l’eau sûre doit porter sur le registre la preuve de participation de fond la plus forte — non un énoncé générique d’accessibilité. Un échange de **Classe B** dont les portails filtrent l’accès aux soins doit consigner des constatations d’aménagement et d’anti-déni-par-substitut à la criticité opérationnelle. Une plateforme de planification de **Classe C** ne doit pas garder un paragraphe d’accessibilité de façade pendant que l’interface de quarts, de réservation, ou de fournisseurs exclut matériellement des participants ; lorsque la coordination devient essentielle à la survie, la certification doit escalader l’examen et la reclassification sous le [§2](#2-system-class-evaluation) et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), y compris vers le haut jusqu’à la **Classe A** là où la dotation ou le routage d’urgence est filtré. Les parcours de capacité éducative pour les mêmes systèmes sont au [§9.1](#91-illustrative-educational-capability-application-by-class).
+<a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
-<a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
-
-### 9. Évaluation de la capacité éducative et de l’intégrité du système d’apprentissage
+#### 5.2 Évaluation de la capacité éducative et de l’intégrité du système d’apprentissage
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de classe du système*) ; famille de mesure Participation (*Agence éducative comme mesure constitutionnelle*) ; **Article VI** (*Droit à une éducation centrée sur les êtres sentients*) ; [Agence éducative](core_05_band_participation.md#educational-agency), [Agence significative](core_05_band_participation.md#meaningful-agency), [Verrouillage systémique](core_05_band_continuity.md#systemic-lock-in), [Contestabilité](core_05_band_accountability.md#contestability), [Transparence](core_05_band_oversight.md#transparency), [Auditabilité](core_05_band_oversight.md#auditability), [Contrainte et manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Matérialité](core_05_band_oversight.md#materiality-determination), et [Dépendance](core_05_band_continuity.md#dependency) (Chapitre cinq).
-- En aval : [§9.1](#91-illustrative-educational-capability-application-by-class) (*parcours illustratifs de capacité éducative*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’apports vérifiés*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement par opacité d’évaluation, filtrage par titres, et désalignement par obsolescence imposée*).
-- Lire avec : **Article III-B** (*Accès éducatif égal*) là où l’accès égal ou l’accessibilité éducative est impliqué — l’accès égal et l’accessibilité éducative restent titulaires là ; **Article V-B** (*Non-discrimination*) et [§7](#7-nondiscrimination-evaluation) là où des motifs de classement ou de placement impliquent une charge de caractéristiques protégées ; **Article X-A** (*Agence et liberté face à la manipulation*) là où une conception d’apprentissage coercitive ou manipulatrice est matériellement impliquée ; [Chapitre un §9 Administration responsable et compréhension distribuée](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*compréhension distribuée et construction de capacité — lire avec*).
-- Sous-sections : [§9.1](#91-illustrative-educational-capability-application-by-class) (*application illustrative de la capacité éducative par classe*).
+- En amont : [Partie B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenu du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; famille de mesure de la participation (*la capacité éducative comme mesure constitutionnelle*) ; **Article IV** (*Droit à une éducation centrée sur les sentients*) ; [Agentivité éducative](../../core_05_band_participation.md#educational-agency), [Agentivité effective](../../core_05_band_participation.md#meaningful-agency), [Verrouillage systémique](../../core_05_band_continuity.md#systemic-lock-in), [Contestabilité](../../core_05_band_accountability.md#contestability), [Transparence](../../core_05_band_oversight.md#transparency), [Auditabilité](../../core_05_band_oversight.md#auditability), [Coercition et manipulation](../../core_05_band_participation.md#coercion-and-manipulation), [Matérialité](../../core_05_band_oversight.md#materiality) et [Dépendance](../../core_05_band_continuity.md#dependency) (chapitre cinq).
+- En aval : [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*parcours illustratifs de la capacité éducative*) ; [Partie B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’entrée des éléments vérifiés*) ; [Partie B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement dû à l’opacité des évaluations, au verrouillage des titres et à l’obsolescence imposée*).
+- À lire avec : **l’Article IV-A** (*Égalité d’accès à l’éducation*) lorsque l’égalité d’accès ou l’accessibilité éducative est en cause — elles restent régies par cet article ; **l’Article VI-C** (*Non-discrimination*) et [§5.4](#54-nondiscrimination-evaluation) lorsque les schémas de classement ou de placement impliquent des charges liées à des caractéristiques protégées ; **l’Article X-A** (*Agentivité et liberté à l’égard de la manipulation*) lorsque la conception coercitive ou manipulatrice de l’apprentissage est matériellement en cause ; [Chapitre un §16 Administration responsable en profondeur](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (*lecture conjointe sur la compréhension distribuée et le développement des capacités*).
+- Sous-sections : [§5.2.1](#521-materiality-trigger-and-governing-rules) (*déclencheur de matérialité et règles applicables*) ; [§5.2.2](#522-evaluation-requirement) (*exigence d’évaluation*) ; [§5.2.3](#523-system-class-scaling-and-escalation) (*proportionnalité et escalade selon la classe du système*) ; [§5.2.4](#524-defects-and-misalignment) (*défauts et désalignement*) ; [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*application illustrative de la capacité éducative par classe du système*).
 
 </details>
 
 <br>
 
-*En termes simples : lorsqu’une école, une plateforme, ou un système de formation peut affecter sérieusement l’avenir d’un être sentient — par des notes, des classements, des recommandations, un placement, ou des portes de titres — la certification doit vérifier si les êtres sentients peuvent réellement construire de la capacité, se reconvertir lorsque les compétences changent, et voir, auditer, et contester ces décisions. Les programmes, les rubriques, et les modèles de financement vivent dans d’autres instruments ; la certification vérifie que la substance de construction de capacité et l’intégrité du système d’apprentissage ont réellement été évaluées là où le déclencheur s’applique. Les exemples travaillés pour les systèmes illustratifs au [§2.1](#21-illustrative-class-profiles-non-exhaustive) sont au [§9.1](#91-illustrative-educational-capability-application-by-class).*
+*En termes simples : certaines écoles, plateformes et certains systèmes de formation peuvent façonner l’avenir d’un sentient au moyen de notes, classements, recommandations, placements ou titres qui ouvrent ou ferment des portes. Le cas échéant, la certification doit vérifier trois choses : les sentients peuvent-ils réellement y acquérir des compétences ; peuvent-ils se reconvertir lorsque les compétences dont le monde a besoin changent ; et peuvent-ils comprendre comment les décisions les concernant sont prises, les vérifier et les contester ? Cette section ne précise ni les enseignements, ni la notation, ni le financement ; d’autres documents s’en chargent. Elle vérifie seulement que l’acquisition de compétences et l’équité du système d’apprentissage ont bien été évaluées lorsqu’elle s’applique. Exemples illustratifs : [§5.2.5 Application illustrative de la capacité éducative par classe du système (non exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
 
-**Déclencheur de matérialité.** Cette section s’applique là où un système matériellement impactant classe, évalue, recommande, place, ou filtre par titres de façon matérielle des êtres sentients dans des contextes éducatifs ou de formation — y compris par notation, placement, admissions, licence, recommandation de cours, routage d’apprentissage adaptatif, ou voies de décision comparables — ou filtre matériellement les voies d’éducation continue, de reconversion, ou de soutien à la transition là où l’évolution du système a matériellement changé les compétences exigées. Elle n’exige pas un audit complet de capacité éducative sur chaque registre de certification. L’accès égal et l’accessibilité éducative restent gouvernés par l’**Article III-B** (*Accès éducatif égal*) et ne sont pas resserrés ici.
+<a id="521-materiality-trigger-and-governing-rules"></a>
+##### 5.2.1 Déclencheur de matérialité et règles applicables
 
-La certification d’alignement du système doit évaluer la **capacité éducative et l’intégrité du système d’apprentissage** sous l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*), l’[Agence éducative](core_05_band_participation.md#educational-agency), et l’**Article VI-B** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*) là où le déclencheur de matérialité s’applique. Le sens canonique, les facteurs d’évaluation, et la discipline de non-conformité vivent au Chapitre cinq et à l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) ; les programmes, les catalogues de titres, les rubriques d’évaluation, et la mécanique de financement institutionnel vivent dans des instruments incorporés là où c’est applicable. Cette section énonce ce que la certification doit vérifier et consigner ; elle ne réénonce pas cette mécanique opératoire ni ne prescrit de programmes, de formats de titres, ou de conceptions d’évaluation particuliers.
+Cette section s’applique lorsqu’un système ayant un effet majeur sur la vie des sentients fait, dans le domaine de l’éducation ou de la formation, l’une des choses suivantes :
 
-**Exigence d’évaluation.** Un processus de certification doit déterminer si les voies d’apprentissage et de titres sur lesquelles le système s’appuie matériellement produisent un accès pratique de construction de capacité — non le seul symbolisme de titres — et si les êtres sentients conservent des occasions praticables de reconversion, d’éducation continue, et de soutien à la transition là où les compétences exigées changent matériellement. L’évaluation doit aussi tester la transparence, l’auditabilité, et la contestabilité de la logique matérielle de classement, d’évaluation, de recommandation, et de placement sous l’**Article VI-B** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*), échelonnées à la [Matérialité](core_05_band_oversight.md#materiality-determination) et à la [Dépendance](core_05_band_continuity.md#dependency). L’évaluation doit détecter les substituts opaques ou non examinables, le filtrage par titres qui défait la formation de capacité, l’obsolescence imposée ou le verrouillage qui annule l’agence, la conception d’apprentissage coercitive ou manipulatrice, et la segmentation qui retire la contestabilité ou l’adaptation tout au long de la vie là où l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) s’applique conjointement. L’évaluation doit refléter l’effet fonctionnel, non les étiquettes nominales d’accès, l’intention pédagogique déclarée, ou le seul formalisme de titres.
+- il classe, évalue, recommande, place des sentients ou conditionne matériellement leur accès à un titre — par exemple au moyen de la notation, du placement, de l’admission, de l’octroi de licences, de recommandations de cours, de l’orientation dans un apprentissage adaptatif ou de décisions similaires ; ou
+- il contrôle matériellement l’accès à la formation continue, à la reconversion ou à l’aide à la transition, dans les cas où des changements du système ont sensiblement modifié les compétences dont les sentients ont besoin.
 
-**Exigence de registre.** Le registre de certification doit énoncer le déclencheur de matérialité de l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) sur lequel on s’appuie, la portée d’évaluation des voies de classement, d’évaluation, de recommandation, de placement, de filtrage par titres, et de reconversion sur lesquelles on s’appuie matériellement, les constatations de construction de capacité et de voies de reconversion, les constatations de transparence d’évaluation et de contestabilité, les constatations anti-substitut et anti-manipulation là où c’est matériel, l’incertitude, les constatations de forum des êtres sentients ou d’autre composant assigné là où c’est exigé, et toute condition, limite de dépendance, ou déclencheur de réouverture lié à une défaite persistante de la capacité, à une opacité d’évaluation, ou à une obsolescence imposée.
+L’égalité d’accès à l’éducation et l’accessibilité restent régies par **l’Article IV-A** (*Égalité d’accès à l’éducation*) ; rien ici ne les restreint.
 
-**Échelonnement conjoint avec la classe du système.** La profondeur d’évaluation de la capacité éducative et de l’intégrité du système d’apprentissage doit s’échelonner avec la classe de système assignée sous le [§2](#2-system-class-evaluation) et l’[enjeu matériel](core_00_preamble.md#material-stake). Les systèmes de classe plus élevée qui classent, évaluent, recommandent, placent, ou filtrent par titres de façon matérielle des êtres sentients dans des contextes éducatifs ou de formation exigent une preuve proportionnellement plus forte que la substance de construction de capacité, l’accès à la reconversion, et la transparence du système d’apprentissage ont été évaluées plutôt qu’assertées.
+Lorsque le déclencheur de matérialité s’applique, la certification doit évaluer la **capacité éducative et l’intégrité du système d’apprentissage** — c’est-à-dire si le système développe réellement les capacités et traite équitablement les sentients — au titre de :
 
-**Défauts et désalignement.** Obscurcir, faussement représenter, fragmenter, ou reporter la logique matérielle de classement, d’évaluation, de recommandation, ou de placement là où l’**Article VI-B** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*) exige un examen ; traiter le formalisme de titres, les métriques agrégées d’achèvement, ou l’auto-rapport de l’opérateur comme suffisants sans une analyse évaluable de construction de capacité ; certifier une dépendance continue pendant qu’une opacité d’évaluation documentée, un filtrage par titres, une obsolescence imposée, ou une conception manipulatrice d’apprentissage menace matériellement l’alignement constitutionnel ; ou utiliser des encadrements d’efficacité, de personnalisation, ou d’échelle pour défaire l’accès à la reconversion ou la contestabilité sans satisfaire les disciplines de construction de capacité de l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) et de transparence de l’**Article VI-B** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*) doivent être traités comme défauts de certification. Ils peuvent soutenir une reconnaissance conditionnelle, une reconnaissance différée, une non-reconnaissance, un retrait, ou une réouverture sous la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+- **l’Article IV** (*Droit à une éducation centrée sur les sentients*) ;
+- **l’Article IV-C** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*) ; et
+- [Agentivité éducative](../../core_05_band_participation.md#educational-agency).
 
-<a id="91-illustrative-educational-capability-application-by-class"></a>
+Cette section ne fixe pas les règles de fonctionnement de l’éducation elle-même. Les décisions sur les enseignements, les titres existants, la notation du travail et le financement des écoles sont prises dans d’autres documents susceptibles d’être incorporés ; la certification ne choisit ni programme, ni format de titre, ni méthode de notation.
 
-<a id="91-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-#### 9.1 Application illustrative de la capacité éducative par classe (non exhaustive)
+<a id="522-evaluation-requirement"></a>
+##### 5.2.2 Exigence d’évaluation
 
-*En termes simples : le [§3.8](#38-illustrative-whole-system-application-by-class) au [§8.1](#81-illustrative-accessibility-application-by-class) parcourent les mêmes trois systèmes à travers des domaines d’évaluation antérieurs. Cette sous-section montre ce que l’évaluation de **capacité éducative et d’intégrité du système d’apprentissage** signifie pour chacun — quelles voies de classement, d’évaluation, de titres, et de reconversion comptent, ce que la certification doit vérifier lorsque le déclencheur de matérialité de l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) s’applique, et ce qui doit apparaître sur le registre. Le Chapitre cinq et l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) restent titulaires des règles canoniques d’agence éducative et de système d’apprentissage ; les programmes, les catalogues de titres, les rubriques d’évaluation, et les modèles de financement peuvent vivre dans d’autres instruments, des ajouts ultérieurs au corpus, ou des instruments d’adoption ; ces parcours ne prescrivent pas cette mécanique. L’accès égal et l’accessibilité éducative restent titulaires de l’**Article III-B** (*Accès éducatif égal*) et ne sont pas resserrés ici.*
+La certification doit vérifier si les parcours d’apprentissage et de titres dont dépendent effectivement les sentients leur permettent réellement d’acquérir des compétences — et ne se réduisent pas à un certificat flatteur sur le papier — et s’ils disposent toujours de moyens praticables pour se reconvertir, poursuivre leur apprentissage et traverser les transitions lorsque les compétences nécessaires changent sensiblement.
 
-**Classe A — contrôle et télémétrie municipaux d’eau potable sûre.** Un système municipal de traitement et de distribution filtre qui peut opérer des fonctions d’usine critiques pour la survie à travers la licence d’opérateur, la certification de sûreté, l’évaluation de compétence, et les règles de reconversion de protocole — voies de titrage de rôles qui décident si les êtres sentients peuvent construire et garder la capacité de faire tourner une eau sûre, et si ces évaluations peuvent être vues, auditées, et contestées.
+Les évaluateurs doivent également vérifier si les décisions du système relatives aux classements, notes, recommandations et placements peuvent être consultées, auditées et contestées, comme l’exige **l’Article IV-C** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*). Le degré d’exigence dépend de l’importance de l’enjeu ([Matérialité](../../core_05_band_oversight.md#materiality)) et du niveau de dépendance des sentients au système ([Dépendance](../../core_05_band_continuity.md#dependency)).
 
-- **Voies d’apprentissage et de titres dans la portée :**
-  - Licence, renouvellement, et suspension d’opérateur ;
-  - certification de sûreté et évaluation de compétence de réponse d’urgence ;
-  - reconversion de protocole et de télémétrie lorsque la chimie, la logique de contrôle, ou les exigences réglementaires changent ;
-  - classement ou placement dans des quarts d’usine, des heures supplémentaires, ou des rôles d’opérateur principal selon la compétence évaluée ;
-  - voies de contestation et de formation remédiative pour des évaluations échouées ou des titres suspendus.
-- **Ce que l’évaluation doit tester :**
-  - Si ces voies d’apprentissage et de titres produisent une capacité pratique d’opérer des contrôles d’eau sûre — non le seul symbolisme de titres ou les comptes de certificats d’achèvement ;
-  - si les opérateurs conservent une reconversion et un soutien à la transition praticables lorsque les compétences exigées changent matériellement ;
-  - si la logique de classement, d’évaluation, et de filtrage par titres est transparente, auditable, et contestable sous l’**Article VI-B** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*) ;
-  - si des substituts opaques, un filtrage, ou une obsolescence imposée défont la formation de capacité pour le personnel dont la compétence filtre des essentiels de survie ;
-  - si la profondeur d’évaluation correspond à l’enjeu de **Classe A** là où des opérateurs non qualifiés ou verrouillés dehors peuvent fermer l’eau sûre ; et
-  - si toute limite d’évaluation satisfait une substance documentée de construction de capacité plutôt que la seule intention pédagogique déclarée.
-- **Ce que le registre doit montrer :**
-  - Le déclencheur de matérialité de l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) sur lequel on s’appuie ;
-  - la portée d’évaluation des voies de licence, d’évaluation, de filtrage par titres, et de reconversion sur lesquelles on s’appuie matériellement ;
-  - les constatations de construction de capacité et de voies de reconversion à profondeur de **Classe A** ;
-  - les constatations de transparence d’évaluation et de contestabilité ;
-  - les constatations anti-substitut et anti-manipulation là où c’est matériel ;
-  - l’incertitude ;
-  - les constatations de forum des êtres sentients ou d’autre composant là où c’est exigé ; et
-  - les conditions ou déclencheurs de réouverture liés à une opacité d’évaluation persistante, un filtrage par titres, ou une obsolescence imposée là où des opérations critiques pour la survie sont filtrées.
+Les évaluateurs doivent rechercher :
 
-**Classe B — échange régional de registres cliniques.** Un échange d’information de santé et ses portails de participants filtrent l’exercice clinique et l’accès aux soins à travers la vérification des titres de clinicien, le classement des privilèges, le placement à l’hôpital ou à la clinique, la formation à la vie privée et au break-glass, et les exigences d’éducation continue qui décident matériellement qui peut exercer sur le réseau et à quelle vitesse le personnel peut se reconvertir lorsque les règles changent.
+- des scores ou classements reposant sur des substituts (indicateurs indirects) cachés qu’aucun examen ne peut vérifier ;
+- un verrouillage par les titres qui empêche les sentients d’acquérir effectivement la compétence ;
+- une obsolescence forcée ou un verrouillage qui prive les sentients de leur voix dans leur propre parcours ;
+- une conception de l’apprentissage coercitive ou manipulatrice ; et
+- l’orientation des sentients vers des filières qui leur ôte la capacité de contester les décisions ou de continuer à s’adapter, lorsque **l’Article IV** (*Droit à une éducation centrée sur les sentients*) s’applique également.
 
-- **Voies d’apprentissage et de titres dans la portée :**
-  - Vérification des titres de clinicien et classement des privilèges ;
-  - logique de placement à l’hôpital, à la clinique, ou en résidence liée à l’échange ;
-  - évaluations de formation à la vie privée, au consentement, et au break-glass ;
-  - exigences d’éducation continue et de renouvellement de compétence pour la participation au réseau ;
-  - recommandation ou routage adaptatif vers des modules de spécialité, des pistes d’éducation médicale continue, ou une formation remédiative ;
-  - voies de contestation pour des privilèges refusés, des évaluations échouées, ou une intégration bloquée.
-- **Ce que l’évaluation doit tester :**
-  - Si les voies de titres et de placement produisent une capacité clinique pratique et une participation au réseau — non les seules cases nominales de formation HIPAA ou les tableaux de bord d’achèvement ;
-  - si les cliniciens et le personnel HIM conservent une reconversion praticable lorsque les règles de consentement, de routage, ou d’accès d’urgence changent matériellement ;
-  - si la logique de classement, d’évaluation, de recommandation, et de placement est transparente, auditable, et contestable sous l’**Article VI-B** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*) ;
-  - si des substituts opaques d’utilisation, de « aptitude », ou de prestige défont la formation de capacité ou verrouillent les participants dans des pistes non examinables ;
-  - si la profondeur d’évaluation correspond à la criticité opérationnelle de **Classe B** là où la logique de titres ou de placement filtre l’accès aux soins, l’emploi, ou l’exercice adjacent à la licence ; et
-  - si des encadrements d’efficacité ou de personnalisation ont été utilisés pour défaire la contestabilité sans une analyse évaluable de construction de capacité.
-- **Ce que le registre doit montrer :**
-  - Le déclencheur de l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) et la portée des voies ;
-  - les constatations de construction de capacité et de voies de reconversion pour les voies de clinicien et de clinique ;
-  - les constatations de transparence d’évaluation et de contestabilité ;
-  - les constatations anti-substitut et anti-manipulation là où c’est matériel ;
-  - l’incertitude et les constatations de composant là où c’est exigé ; et
-  - les déclencheurs de réouverture si des barrières de titres, de privilèges, ou de formation bloqueraient maintenant la dotation d’urgence ou l’exercice clinique dans des délais pertinents pour la survie, ou déferaient matériellement la dépendance opérationnelle quotidienne.
+Les évaluateurs doivent juger d’après ce que le système fait réellement, non d’après ses étiquettes d’accès, les intentions déclarées de ses concepteurs ou l’apparence correcte des documents.
 
-**Classe C — plateforme institutionnelle de planification et de coordination.** Une couche de planification multi-organisation classe, recommande, et alloue des créneaux de formation, d’orientation, d’éducation continue, et de priorité de développement professionnel à travers des hôpitaux, des écoles, et des agences publiques — même lorsque la plateforme n’est pas elle-même une utilité critique pour la survie.
+<a id="523-system-class-scaling-and-escalation"></a>
+##### 5.2.3 Proportionnalité et escalade selon la classe du système
 
-- **Voies d’apprentissage et de titres dans la portée :**
-  - Réservation de créneaux de formation et d’orientation ;
-  - classement ou recommandation d’éducation continue et de développement professionnel ;
-  - appariement de cours, de cohortes, ou d’instructeurs ;
-  - rappels d’expiration de titres liés à l’éligibilité de planification ;
-  - traits dérivés qui routent le personnel vers des pistes premium ou remédiatives ;
-  - règles d’API ou de politique qui excluent les plus petites institutions de la capacité de formation préférée.
-- **Ce que l’évaluation doit tester :**
-  - Si le déclencheur de matérialité de l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) s’applique — y compris là où des algorithmes de coordination recommandent matériellement des cours, classent l’accès au développement professionnel, ou filtrent des créneaux de formation qui façonnent des voies de titres ou de carrière ;
-  - si les recommandations et l’allocation de créneaux produisent un accès de construction de capacité plutôt que du symbolisme de titres ;
-  - si la logique d’évaluation, de classement, ou de recommandation est transparente, auditable, et contestable ;
-  - si l’opérateur a traité la plateforme comme au-dessous de l’examen parce qu’elle est de **Classe C** alors que les effets de routage de formation façonnent matériellement le travail, l’éducation, ou les voies de licence ; et
-  - si une **veille de reclassification** est exigée là où la plateforme devient opérationnellement nécessaire pour le travail, les privilèges cliniques, ou les titres de dotation essentiels à la survie.
-- **Ce que le registre doit montrer :**
-  - Si et pourquoi le déclencheur de l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) s’applique ;
-  - la portée d’évaluation des voies de classement, de recommandation, de placement, et de reconversion proportionnée au risque de coordination de **Classe C** ;
-  - les constatations de construction de capacité, de transparence, et de contestabilité là où c’est matériel — non une assertion en blanc que la formation est « facultative » ;
-  - les constatations de concentration et de goulot là où les effets de routage de formation laissent entrevoir une escalade ;
-  - **veille de reclassification** explicite là où la dépendance se renforce ; et
-  - des pointeurs vers un examen escaladé de capacité éducative si la classe ou le rôle de coordination essentiel à la survie change.
+La profondeur de l’examen dépend de la classe du système. Chaque fois que le déclencheur de matérialité est satisfait :
 
-**Lecture à travers les classes.** La même discipline de l’**Article VI** (*Droit à une éducation centrée sur les êtres sentients*) et de capacité éducative du Chapitre cinq s’applique partout où le déclencheur de matérialité est satisfait ; la classe change la profondeur d’évaluation, non la permission de traiter le formalisme de titres ou l’évaluation opaque comme suffisants. Un système d’eau de **Classe A** dont la licence d’opérateur ou l’évaluation de sûreté peut fermer l’opération sûre de l’usine doit porter sur le registre la preuve de construction de capacité, de reconversion, et de contestabilité la plus forte — non un énoncé générique de politique de formation. Un échange de **Classe B** dont la logique de privilèges, de placement, ou d’éducation médicale continue filtre l’exercice clinique doit consigner la transparence d’évaluation et l’accès à la reconversion à la criticité opérationnelle. Une plateforme de planification de **Classe C** ne doit pas garder un paragraphe éducatif de façade pendant que la logique de créneaux de formation, de recommandation, ou de routage de titres classe ou exclut matériellement des participants ; lorsque la coordination devient opérationnellement nécessaire pour le travail ou la licence, la certification doit escalader l’examen et la reclassification sous le [§2](#2-system-class-evaluation) et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), y compris vers le haut jusqu’à la **Classe A** là où des titres de dotation essentiels à la survie sont filtrés. Les parcours de fiabilité pour les mêmes systèmes sont au [§10.1](#101-illustrative-trustworthiness-application-by-class).
+- Si le système teste ou habilite les opérateurs d’infrastructures nécessaires à la survie des sentients et que ses décisions pourraient empêcher leur exploitation en toute sécurité, le registre doit présenter les preuves les plus solides que le système développe de véritables compétences, propose une reconversion et peut être contesté. Une politique générale de formation ne suffit pas.
+- Si les privilèges, placements ou règles de formation continue du système déterminent qui peut exercer des fonctions cliniques, le registre doit indiquer comment ses évaluations peuvent être examinées et comment les sentients peuvent se reconvertir. Plus le travail est critique, plus le détail est nécessaire.
+- Un bref paragraphe sur l’éducation ne suffit pas lorsque la logique du système concernant les places de formation, les recommandations ou l’orientation vers les titres classe ou exclut matériellement des participants.
+- Si le système devient un passage obligé pour que les sentients puissent travailler ou obtenir une licence, la certification doit l’examiner plus étroitement et reconsidérer sa classe au titre de [§2 Évaluation de la classe du système](#2-system-class-evaluation) et de la [Partie B §7 Résultats de la certification](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion). Cela inclut son relèvement vers la **Classe A** lorsque les titres nécessaires au personnel assurant des services essentiels à la survie sont soumis à un contrôle d’accès.
 
-<a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+<a id="524-defects-and-misalignment"></a>
+##### 5.2.4 Défauts et désalignement
 
-### 10. Évaluation de la fiabilité et de l’intégrité de la dépendance au système
+Chacun des éléments suivants constitue un défaut de certification :
+
+- dissimuler, présenter de façon erronée, disperser ou transférer à un tiers la logique de classements, évaluations, recommandations ou placements importants, alors que **l’Article IV-C** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*) exige que cette logique puisse être examinée ;
+- accepter les titres, les taux globaux d’achèvement ou la parole de l’opérateur comme preuve que les sentients apprennent, sans vérifier s’ils acquièrent effectivement des compétences ;
+- certifier que les sentients peuvent continuer à dépendre d’un système alors que des problèmes documentés — tels que des évaluations opaques, le verrouillage par les titres, l’obsolescence forcée ou une conception manipulatrice de l’apprentissage — menacent matériellement son alignement sur la Constitution ; et
+- invoquer l’efficacité, la personnalisation ou l’échelle pour refuser la reconversion ou la possibilité de contester des décisions, alors que le système ne satisfait pas aux exigences de développement des compétences de **l’Article IV** (*Droit à une éducation centrée sur les sentients*) et de transparence de **l’Article IV-C** (*Apprentissage tout au long de la vie et adaptatif, et contestabilité*).
+
+<br>
+
+<a id="53-proportionate-cross-system-support-evaluation"></a>
+
+#### 5.3 Évaluation du soutien intersystémique proportionné
 
 <details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [Partie B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenus du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de classe du système*) ; famille de mesure Supervision (*Vérité et intégrité épistémique ; Fiabilité et Dégradation de la confiance et confiance trompeuse comme mesure constitutionnelle*) ; **Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) ; [Fiabilité](core_05_band_continuity.md#trustworthiness), [Confiance](core_05_band_continuity.md#trust), [Dégradation de la confiance et confiance trompeuse](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [Contestabilité](core_05_band_accountability.md#contestability), [Réparation et remédiation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Alignement des incitations](core_05_band_integrative.md#incentive-alignment), [Réversibilité](core_05_band_continuity.md#reversibility-constitutional), [Matérialité](core_05_band_oversight.md#materiality-determination), [Dépendance](core_05_band_continuity.md#dependency), et [Risque](core_05_band_continuity.md#risk) (Chapitre cinq).
-- En aval : [§10.1](#101-illustrative-trustworthiness-application-by-class) (*parcours illustratifs de fiabilité*) ; [Partie B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’apports vérifiés*) ; [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement par fausse confiance, désalignement par incitation perverse, et désalignement d’intégrité de récupération*).
-- Lire avec : **Article XIII-B** (*Droit de contester, d’examen et de recours*) et **Article XVI** (*Audit, transparence et vérification indépendante*) — les droits de contestation et d’audit restent titulaires là ; **Article XIII-E** (*Systèmes de haute autonomie et intégrité de processus médiée par des outils*) là où des systèmes de haute autonomie médient matériellement des voies de gouvernance ou de vérification ; **Article III-A** (*Survie*) là où une dépendance continue au système affecterait l’accès essentiel à la survie ; [Chapitre un §4 Confiance](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) et [Chapitre un §3.2 Vérité](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- Sous-sections : [§10.1](#101-illustrative-trustworthiness-application-by-class) (*application illustrative de la fiabilité par classe*).
+- En amont : [Partie B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenu du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; famille de mesure de la Continuité (*le Soutien intersystémique proportionné comme mesure constitutionnelle*) ; **Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) et **Article V-B** (*Équité et durabilité intersystémiques*) ; [Extraction intersystémique](../../core_05_band_continuity.md#cross-system-extraction), [Soutien intersystémique proportionné](../../core_05_band_continuity.md#proportionate-cross-system-support), [Dépendance](../../core_05_band_continuity.md#dependency), [Équité substantielle](../../core_05_band_participation.md#substantive-fairness), [Proportionnalité](../../core_05_band_accountability.md#proportionality), [Empreinte écologique](../../core_05_band_continuity.md#ecological-footprint) et [Durabilité](../../core_05_band_continuity.md#sustainability) (chapitre cinq).
+- En aval : [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*parcours illustratifs du soutien intersystémique*) ; [Partie B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’entrée des éléments vérifiés*) ; [Partie B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*présentation trompeuse des flux de ressources, désalignement lié à l’extraction et insuffisance du soutien*).
+- À lire avec : **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Allocation des ressources et administration responsable du financement*) et **CS-8** (*Durabilité adaptative et résilience des écosystèmes*) ; [*Architecture de gouvernance, supervision, dépendance, décentralisation, concentration, structure du marché et intégrité des voies de sortie*](../../core_05_band_accountability.md#governance-architecture-decentralization-and-concentration) lorsque la concentration, la dépendance ou l’acheminement des incitations recoupe **l’Article V-B** (*Équité et durabilité intersystémiques*).
+- Sous-sections : [§5.3.1](#531-materiality-trigger) (*déclencheur de matérialité*) ; [§5.3.2](#532-meaning-of-extraction) (*sens de l’extraction*) ; [§5.3.3](#533-governing-rules) (*règles applicables*) ; [§5.3.4](#534-evaluation-requirement) (*exigence d’évaluation*) ; [§5.3.5](#535-map-and-record-integrity) (*intégrité de la cartographie et du registre*) ; [§5.3.6](#536-system-class-scaling-and-escalation) (*proportionnalité et escalade selon la classe du système*) ; [§5.3.7](#537-defects-and-misalignment) (*défauts et désalignement*) ; [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*application illustrative du soutien intersystémique par classe du système*).
 
 </details>
 
 <br>
 
-*En termes simples : lorsqu’un système affecte matériellement si les êtres sentients peuvent se fier à ce qu’il dit et fait — et pousser en arrière lorsque cette confiance échoue — la certification doit vérifier si la dépendance est réellement justifiée, divulguée avec honnêteté, et réparable. Les métriques de fiabilité et les conceptions de suites de tests vivent dans d’autres instruments ; la certification vérifie que la fiabilité, le risque de fausse confiance, et les voies de contestation ont réellement été évalués là où le déclencheur s’applique. Les exemples travaillés pour les systèmes illustratifs au [§2.1](#21-illustrative-class-profiles-non-exhaustive) sont au [§10.1](#101-illustrative-trustworthiness-application-by-class).*
+*En termes simples : certains systèmes dépendent de fondations partagées — des infrastructures, services et ressources dont dépendent de nombreux autres systèmes et sentients. Lorsqu’un système puise abondamment dans ces fondations, la certification doit vérifier s’il leur restitue suffisamment pour les maintenir, et si les registres le montrent assez clairement pour que quiconque puisse suivre ces flux. L’affirmation de l’opérateur selon laquelle « les comptes sont équilibrés » ne suffit pas. Cette section ne fixe ni formules d’allocation ni objectifs numériques ; d’autres documents s’en chargent. Elle vérifie que les dépendances du système, ce qu’il prélève, ce qu’il restitue et l’équité de l’arrangement envers les autres ont bien été évalués lorsqu’elle s’applique. Exemples illustratifs : [§5.3.8 Application illustrative du soutien intersystémique par classe du système (non exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive).*
 
-**Déclencheur de matérialité.** Cette section s’applique là où un système matériellement impactant façonne matériellement la dépendance sentiente sur le comportement représenté, les limites, les risques, les voies de contestation, ou la remédiation — y compris par des revendications de fiabilité, une posture de divulgation, un comportement opératoire, une conception d’incitations, des pratiques de récupération, ou des voies de dépendance comparables. Elle n’exige pas un audit complet de fiabilité sur chaque registre de certification.
+<a id="531-materiality-trigger"></a>
+##### 5.3.1 Déclencheur de matérialité
 
-La certification d’alignement du système doit évaluer la **fiabilité et l’intégrité de la dépendance au système** sous l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*), la [Fiabilité](core_05_band_continuity.md#trustworthiness), et la [Dégradation de la confiance et confiance trompeuse](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) là où le déclencheur de matérialité s’applique. Le sens canonique, les facteurs d’évaluation, et la discipline de non-conformité vivent au Chapitre cinq et à l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) ; les métriques de fiabilité, les formats de divulgation, la mécanique d’alignement des incitations, et les conceptions de tests de régression vivent dans des instruments incorporés là où c’est applicable. Cette section énonce ce que la certification doit vérifier et consigner ; elle ne réénonce pas cette mécanique opératoire ni ne prescrit de métriques de fiabilité ou de conceptions de suites de tests particulières.
+Cette section s’applique lorsqu’un système ayant un effet matériel sur la vie des sentients fait l’une des choses suivantes concernant des infrastructures ou fondations partagées — celles dont dépendent d’autres systèmes et sentients :
 
-**Exigence d’évaluation.** Un processus de certification doit déterminer si les voies sur lesquelles le système s’appuie matériellement préservent les conditions d’une [Confiance](core_05_band_continuity.md#trust) justifiée et d’une dépendance raisonnablement exacte sous l’**Article XIII-A** (*Ligne de base de fiabilité et de confiance*) — non la seule réputation, échelle, ou posture de marketing. L’évaluation doit aussi tester la contestation, l’examen, et le recours praticables sous l’**Article XIII-B** (*Droit de contester, d’examen et de recours*), le risque de fausse confiance et de confiance trompeuse sous l’**Article XIII-C** (*Interdiction de la fausse confiance et de la confiance trompeuse*), l’exposition aux incitations perverses sous l’**Article XIII-D** (*Contrainte d’alignement des incitations*), et l’intégrité de récupération sous l’**Article XIII-F** (*Plancher de résilience et d’auto-guérison*) là où c’est matériel, échelonnés à la [Matérialité](core_05_band_oversight.md#materiality-determination), à la [Dépendance](core_05_band_continuity.md#dependency), et au [Risque](core_05_band_continuity.md#risk). L’évaluation doit détecter la confiance fabriquée, les limites non divulguées, les structures d’incitations qui récompensent la tromperie ou le raccourci, les voies de contestation qui n’existent que sur le papier, et les pratiques de récupération qui cachent l’échec ou rétrécissent en silence les droits. L’évaluation doit refléter l’effet fonctionnel à travers le temps, l’échelle, et la dépendance, non les seules étiquettes nominales d’assurance, l’intention déclarée, ou la performance antérieure.
+- il décide qui y a accès (il les alloue) ;
+- il détermine où elles circulent (il les achemine) ;
+- il les finance ; ou
+- il y puise (il en extrait des ressources).
 
-**Exigence de registre.** Le registre de certification doit énoncer le déclencheur de matérialité de l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) sur lequel on s’appuie, la portée d’évaluation des voies de dépendance, de divulgation, d’incitations, de contestation, et de récupération sur lesquelles on s’appuie matériellement, les constatations de fiabilité et de fausse confiance, les constatations d’incitation perverse et d’intégrité de récupération là où c’est matériel, l’incertitude, les constatations de forum des êtres sentients ou d’autre composant assigné là où c’est exigé, et toute condition, limite de dépendance, ou déclencheur de réouverture lié à une défaite persistante de la confiance, à une dépendance trompeuse, ou à un recours inaccessible.
+<a id="532-meaning-of-extraction"></a>
+##### 5.3.2 Sens de l’extraction
 
-**Échelonnement conjoint avec la classe du système.** La profondeur d’évaluation de la fiabilité et de l’intégrité de la dépendance au système doit s’échelonner avec la classe de système assignée sous le [§2](#2-system-class-evaluation) et l’[enjeu matériel](core_00_preamble.md#material-stake). Les systèmes de classe plus élevée qui façonnent matériellement la dépendance sentiente exigent une preuve proportionnellement plus forte que la fiabilité, le risque de fausse confiance, et les voies de contestation ont été évalués plutôt qu’assertés.
+Dans cette section, l’**extraction** a le sens donné à l’[Extraction intersystémique](../../core_05_band_continuity.md#cross-system-extraction) au titre de [l’Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Équité et durabilité intersystémiques*).
 
-**Défauts et désalignement.** Obscurcir, faussement représenter, fragmenter, ou reporter des limites, risques, ou historiques d’échec matériels là où l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) exige un examen ; traiter la réputation, l’endossement, l’échelle, ou l’auto-rapport de l’opérateur comme suffisants sans une analyse évaluable de [Fiabilité](core_05_band_continuity.md#trustworthiness) ; certifier une dépendance continue pendant qu’une fausse confiance documentée, des incitations perverses, des voies de contestation inaccessibles, ou des pratiques de récupération qui cachent l’échec menacent matériellement l’alignement constitutionnel ; ou utiliser des encadrements d’efficacité, d’innovation, ou de sécurité pour défaire la divulgation, la contestabilité, ou le recours sans satisfaire les disciplines de fiabilité de l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) et de contestation de l’**Article XIII-B** (*Droit de contester, d’examen et de recours*) doivent être traités comme défauts de certification. Ils peuvent soutenir une reconnaissance conditionnelle, une reconnaissance différée, une non-reconnaissance, un retrait, ou une réouverture sous la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+- La question est de savoir **qui bénéficie des infrastructures partagées en arrière-plan et qui paie pour les maintenir en fonctionnement** — non ce qu’un système fait des données des sentients.
+- Le traitement des données par un système, notamment leur vente, la publicité et le profilage, est examiné au titre de [§3.4 Évaluation des types de données et de leur traitement](#34-data-types-and-handling-evaluation) (en particulier [§3.4.2 Discipline de la vie privée](#342-privacy-discipline)) et de [§4.1 Invocation conjointe de la vie privée (informationnelle)](#41-privacy-informational-joint-invocation).
+- Aucun de ces deux examens ne peut se substituer à l’autre.
 
-<a id="101-illustrative-trustworthiness-application-by-class"></a>
+<a id="533-governing-rules"></a>
+##### 5.3.3 Règles applicables
 
-<a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
-#### 10.1 Application illustrative de la fiabilité par classe (non exhaustive)
+Lorsque le déclencheur de matérialité s’applique, la certification doit évaluer le **Soutien intersystémique proportionné**. En termes simples : si un système puise dans des fondations partagées, leur restitue-t-il suffisamment pour les maintenir ? Les règles applicables sont :
 
-*En termes simples : le [§3.8](#38-illustrative-whole-system-application-by-class) au [§9.1](#91-illustrative-educational-capability-application-by-class) parcourent les mêmes trois systèmes à travers des domaines d’évaluation antérieurs. Cette sous-section montre ce que l’évaluation de **fiabilité et d’intégrité de la dépendance au système** signifie pour chacun — quelles voies de dépendance, de divulgation, d’incitations, de contestation, et de récupération comptent, ce que la certification doit vérifier lorsque le déclencheur de matérialité de l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) s’applique, et ce qui doit apparaître sur le registre. Le Chapitre cinq et l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) restent titulaires des règles canoniques de fiabilité ; les métriques de fiabilité, les formats de divulgation, la mécanique d’alignement des incitations, et les conceptions de tests de régression peuvent vivre dans d’autres instruments, des ajouts ultérieurs au corpus, ou des instruments d’adoption ; ces parcours ne prescrivent pas cette mécanique. Les droits de contestation et d’audit restent titulaires de l’**Article XIII-B** (*Droit de contester, d’examen et de recours*) et de l’**Article XVI** (*Audit, transparence et vérification indépendante*) — non resserrés ici.*
+- le [Soutien intersystémique proportionné](../../core_05_band_continuity.md#proportionate-cross-system-support) ;
+- **l’Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) ; et
+- **l’Article V-B** (*Équité et durabilité intersystémiques*).
 
-**Classe A — contrôle et télémétrie municipaux d’eau potable sûre.** Un système municipal de traitement et de distribution façonne si les ménages, les opérateurs, et les répondants d’urgence peuvent s’appuyer sur la qualité d’eau représentée, l’état de panne, les alertes de contamination, et le comportement de contrôle — voies où une dépendance trompeuse peut fermer l’eau sûre avant que des substituts viables n’arrivent.
+Les détails figurent ailleurs :
 
-- **Voies de dépendance dans la portée :**
-  - Revendications d’exactitude de télémétrie et **SCADA** (contrôle de supervision et acquisition de données) ;
-  - avis d’eau à faire bouillir et de contamination ;
-  - détection de fuites et signalisation de perte de pression ;
-  - comportement à sûreté intégrée et d’annulation manuelle ;
-  - représentations de surveillance du **SOC** (centre d’opérations de sécurité) du fournisseur ;
-  - routage d’interconnexion d’urgence et d’entraide ;
-  - délais de notification de panne et de restauration ;
-  - récupération et auto-guérison après contamination, incident cybernétique, ou défaillance d’équipement ;
-  - structures d’incitations liées au report d’entretien, aux primes de fournisseurs, ou à la facturation des usagers.
-- **Ce que l’évaluation doit tester :**
-  - Si le comportement, les limites, et les modes d’échec représentés soutiennent une [Confiance](core_05_band_continuity.md#trust) justifiée sous l’**Article XIII-A** (*Ligne de base de fiabilité et de confiance*) — non la seule réputation, échelle, ou posture de « bonne pratique d’utilité » ;
-  - si le risque de fausse confiance et de [Dégradation de la confiance et confiance trompeuse](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) est évalué là où un risque de contamination sous-estimé, des avis retardés, ou une redondance surestimée pourraient tromper les ménages et les opérateurs ;
-  - si des voies praticables de contestation, d’examen, et de recours existent sous l’**Article XIII-B** (*Droit de contester, d’examen et de recours*) pour des lectures disputées, des alertes manquées, ou des échecs de récupération ;
-  - si l’exposition aux incitations perverses sous l’**Article XIII-D** (*Contrainte d’alignement des incitations*) récompense le report d’entretien, le raccourci du fournisseur, ou la suppression d’alertes ;
-  - si l’intégrité de récupération sous l’**Article XIII-F** (*Plancher de résilience et d’auto-guérison*) divulgue avec honnêteté l’historique d’échec et la posture de réparation plutôt que de cacher les incidents ;
-  - si la profondeur d’évaluation correspond à l’enjeu de **Classe A** là où une dépendance trompeuse peut fermer l’eau sûre ; et
-  - si toute limite d’assurance satisfait une analyse documentée de fiabilité plutôt que la seule intention déclarée.
-- **Ce que le registre doit montrer :**
-  - Le déclencheur de matérialité de l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) sur lequel on s’appuie ;
-  - la portée d’évaluation des voies de dépendance, de divulgation, d’incitations, de contestation, et de récupération sur lesquelles on s’appuie matériellement ;
-  - les constatations de fiabilité et de fausse confiance à profondeur de **Classe A** ;
-  - les constatations d’incitation perverse et d’intégrité de récupération là où c’est matériel ;
-  - l’incertitude ;
-  - les constatations de forum des êtres sentients ou d’autre composant là où c’est exigé ; et
-  - les conditions ou déclencheurs de réouverture liés à une défaite persistante de la confiance, une dépendance trompeuse, ou un recours inaccessible là où l’accès à l’eau essentiel à la survie est filtré.
+- le *chapitre cinq* définit les termes, les formes de soutien prises en compte et le critère permettant d’en déterminer le caractère adéquat ;
+- **l’Article V-B** (*Équité et durabilité intersystémiques*) énonce les facteurs de répartition équitable et le plancher minimal lui-même ;
+- *[corpus_systems.md](../../corpus_systems.md)*, **CS-9** (*Allocation des ressources et administration responsable du financement*) et **CS-8** (*Durabilité adaptative et résilience des écosystèmes*) fixent les catégories d’allocation, le renouvellement du financement et les objectifs numériques, le cas échéant.
 
-**Classe B — échange régional de registres cliniques.** Un échange d’information de santé et ses portails de participants façonnent si les cliniciens, les patients, et les acteurs de santé publique peuvent s’appuyer sur la disponibilité représentée, l’appariement de registres, le routage de consentement, l’accès break-glass, et le comportement de récupération — voies qui filtrent les opérations quotidiennes de soins et peuvent tromper les soins d’urgence dans des délais pertinents pour la survie.
+Cela n’impose ni partage égal, ni pourcentages fixes, ni modèle de financement particulier.
 
-- **Voies de dépendance dans la portée :**
-  - Représentations de temps de fonctionnement, de latence, et d’exactitude d’appariement ;
-  - comportement de routage de consentement et de break-glass ;
-  - revendications de fiabilité de résolution d’identité et de déduplication ;
-  - notification de panne et posture de basculement ;
-  - divulgation d’incidents et délais de récupération après panne ;
-  - structures d’incitations de fournisseurs et d’opérateurs liées au volume de transactions, à la vitesse d’intégration, ou à la suppression d’alertes ;
-  - voies de contestation pour des registres erronés, un accès bloqué, ou des décisions de routage disputées.
-- **Ce que l’évaluation doit tester :**
-  - Si le comportement et les limites représentés soutiennent une dépendance justifiée pour les opérations cliniques quotidiennes — non le seul marketing d’interopérabilité ou les tableaux de bord agrégés de temps de fonctionnement ;
-  - si le risque de fausse confiance est évalué là où une erreur d’appariement sous-estimée, des échecs de consentement cachés, ou une préparation d’accès d’urgence surestimée pourraient tromper les cliniciens et les patients ;
-  - si les voies de contestation, d’examen, et de recours sous l’**Article XIII-B** (*Droit de contester, d’examen et de recours*) sont praticables pour des disputes de registres erronés, des portails bloqués, et des échecs de récupération — non les seules politiques de papier ;
-  - si l’exposition aux incitations perverses sous l’**Article XIII-D** (*Contrainte d’alignement des incitations*) récompense la croissance de volume, la minimisation d’alertes, ou le verrouillage de fournisseur au-dessus d’un routage exact ;
-  - si l’intégrité de récupération sous l’**Article XIII-F** (*Plancher de résilience et d’auto-guérison*) divulgue avec honnêteté l’historique de pannes et le risque résiduel ;
-  - si la profondeur d’évaluation correspond à la criticité opérationnelle de **Classe B** là où une dépendance trompeuse filtre l’accès aux soins, l’emploi, ou l’exercice adjacent à la licence ; et
-  - si des encadrements d’efficacité ou de sécurité ont été utilisés pour défaire la divulgation ou la contestabilité sans une analyse évaluable de fiabilité.
-- **Ce que le registre doit montrer :**
-  - Le déclencheur de l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) et la portée des voies ;
-  - les constatations de fiabilité et de fausse confiance pour les voies cliniques et de portail ;
-  - les constatations d’incitation perverse et d’intégrité de récupération à profondeur de **Classe B** ;
-  - les constatations de voies de contestation et de recours là où c’est matériel ;
-  - l’incertitude et les constatations de composant là où c’est exigé ; et
-  - les déclencheurs de réouverture si les représentations de temps de fonctionnement, d’appariement, ou d’accès d’urgence tromperaient maintenant le routage des soins dans des délais pertinents pour la survie, ou déferaient matériellement la dépendance opérationnelle quotidienne.
+<a id="534-evaluation-requirement"></a>
+##### 5.3.4 Exigence d’évaluation
 
-**Classe C — plateforme institutionnelle de planification et de coordination.** Une couche de planification multi-organisation façonne si les institutions et le personnel s’appuient sur la disponibilité représentée, l’exactitude de routage, les scores de fiabilité de fournisseurs, et la récupération de panne — même lorsque la plateforme n’est pas elle-même une utilité critique pour la survie.
+La certification doit répondre à deux questions :
 
-- **Voies de dépendance dans la portée :**
-  - Revendications de routage de quarts et de disponibilité de garde ;
-  - représentations de fiabilité de réservation de salles, d’équipement, et de fournisseurs ;
-  - badges « toujours disponible » ou de temps de fonctionnement ;
-  - traits dérivés de fiabilité ou de notation de fournisseurs qui façonnent le comportement institutionnel ;
-  - notification de panne et posture de basculement ;
-  - structures d’incitations liées au volume de réservations, aux commissions de fournisseurs, ou à la minimisation d’alertes ;
-  - voies de contestation et de recours pour des quarts manqués, des doubles réservations, ou des erreurs de routage de fournisseurs.
-- **Ce que l’évaluation doit tester :**
-  - Si le déclencheur de matérialité de l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) s’applique — y compris là où des revendications de fiabilité, des scores de fournisseurs, ou un comportement de coordination façonnent matériellement les décisions de dotation, de routage d’urgence, ou d’approvisionnement ;
-  - si le risque de fausse confiance et de dépendance trompeuse est évalué là où une posture de marketing, des badges de confiance, ou un historique de pannes sous-estimé pourraient tromper les institutions ;
-  - si les voies de contestation et de recours sont praticables pour des erreurs de planification qui affectent matériellement le travail, l’éducation, ou l’accès aux services publics ;
-  - si l’opérateur a traité la plateforme comme au-dessous de l’examen parce qu’elle est de **Classe C** alors que les représentations de fiabilité façonnent matériellement le comportement institutionnel ;
-  - si l’exposition aux incitations perverses récompense le favoritisme de fournisseurs, la suppression d’alertes, ou la concentration au-dessus d’une coordination exacte ; et
-  - si une **veille de reclassification** est exigée là où la plateforme devient un goulot de facto pour la dotation essentielle à la survie, le routage d’urgence, ou la coordination des paiements.
-- **Ce que le registre doit montrer :**
-  - Si et pourquoi le déclencheur de l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) s’applique ;
-  - la portée d’évaluation des voies de dépendance, de divulgation, d’incitations, de contestation, et de récupération proportionnée au risque de coordination de **Classe C** ;
-  - les constatations de fiabilité et de fausse confiance là où c’est matériel — non une assertion en blanc que la plateforme est « fiable » ;
-  - les constatations d’incitation perverse et d’intégrité de récupération là où c’est matériel ;
-  - les constatations de concentration et de goulot là où les revendications de fiabilité laissent entrevoir une escalade ;
-  - **veille de reclassification** explicite là où la dépendance se renforce ; et
-  - des pointeurs vers un examen escaladé de fiabilité si la classe ou le rôle de coordination essentiel à la survie change.
+- **Que prélève le système ?** Les cartographies documentées des systèmes dépendants et les registres auditables des flux de ressources exigés par **l’Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) montrent-ils que le système prélève des ressources d’infrastructures ou de fondations partagées dont il dépend ?
+- **Que restitue le système ?** Ses flux de retour fournissent-ils réellement un soutien adéquat au regard du [Soutien intersystémique proportionné](../../core_05_band_continuity.md#proportionate-cross-system-support) ?
 
-**Lecture à travers les classes.** La même discipline de l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) et de fiabilité du Chapitre cinq s’applique partout où le déclencheur de matérialité est satisfait ; la classe change la profondeur d’évaluation, non la permission de traiter la réputation, l’échelle, ou les étiquettes nominales d’assurance comme suffisantes. Un système d’eau de **Classe A** dont les représentations de télémétrie, d’avis, ou de récupération peuvent tromper les ménages et les opérateurs sur l’eau sûre doit porter sur le registre la preuve de fiabilité, de fausse confiance, et d’intégrité de récupération la plus forte — non un énoncé générique de fiabilité. Un échange de **Classe B** dont les représentations de temps de fonctionnement, d’appariement, ou de break-glass filtrent l’exercice clinique doit consigner les constatations de voies de contestation et de dépendance trompeuse à la criticité opérationnelle. Une plateforme de planification de **Classe C** ne doit pas garder un paragraphe de fiabilité de façade pendant que des badges de fiabilité ou des scores de fournisseurs façonnent matériellement le comportement de dotation ou d’approvisionnement ; lorsque la coordination devient essentielle à la survie, la certification doit escalader l’examen et la reclassification sous le [§2](#2-system-class-evaluation) et la [Partie B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), y compris vers le haut jusqu’à la **Classe A** là où une dépendance trompeuse pourrait fermer la coordination essentielle à la survie.
+La certification doit apprécier les deux questions sous l’angle de l’équité et de la proportionnalité, au titre de l’[Équité substantielle](../../core_05_band_participation.md#substantive-fairness) et de la [Proportionnalité](../../core_05_band_accountability.md#proportionality), en tenant compte :
+
+- du caractère critique de l’infrastructure partagée (sa classe de système au titre de [§2 Évaluation de la classe du système](#2-system-class-evaluation), si elle est attribuée) ;
+- du degré d’asymétrie de la dépendance ;
+- de la facilité avec laquelle le système pourrait être remplacé et de l’existence de solutions de rechange ;
+- de l’[Empreinte écologique](../../core_05_band_continuity.md#ecological-footprint) du système, lorsqu’elle est importante ; et
+- de la [Durabilité](../../core_05_band_continuity.md#sustainability) à long terme.
+
+Les évaluateurs doivent s’appuyer sur ce qui se passe réellement et sur ce qui est documenté — non sur des étiquettes, des transferts ponctuels ou des affirmations absentes de la cartographie. Ils comparent les cartographies et registres tels qu’ils existent au moment de l’évaluation. L’absence de formule d’allocation ou d’objectif numérique ne justifie pas de différer l’évaluation.
+
+L’évaluation doit couvrir :
+
+- **Restitution adéquate :** les flux de retour documentés couvrent-ils, lorsque c’est important, les catégories de soutien prévues par le [Soutien intersystémique proportionné](../../core_05_band_continuity.md#proportionate-cross-system-support) :
+  - le maintien des opérations ;
+  - la capacité de corriger les problèmes et de se rétablir ;
+  - le réinvestissement dans l’écosystème environnant ; et
+  - la compensation ou la réparation des dommages écologiques.
+- **Répartition équitable :** les décisions de financement et d’allocation ont-elles pris en compte les facteurs de répartition équitable prévus par **l’Article V-B** (*Équité et durabilité intersystémiques*), notamment le fait que les participants plus petits ou plus dépendants supportent des coûts disproportionnés ?
+- **Intégrité du soutien :** le soutien sert-il principalement à consolider la captation ou la concentration (le regroupement du contrôle entre quelques mains), ou est-il organisé de façon à entraver la transparence exigée par **l’Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) ?
+
+<a id="535-map-and-record-integrity"></a>
+##### 5.3.5 Intégrité de la cartographie et du registre
+
+Avant de s’appuyer sur les cartographies de dépendance et les registres des flux de ressources, la certification doit vérifier qu’ils satisfont à **l’Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*). Ils doivent être :
+
+- **Complets :** couvrir les dépendances importantes en amont et en aval, les flux de ressources et, lorsque cela importe, les relations dissimulées ou asymétriques.
+- **À jour :** être actualisés assez souvent au regard de la vitesse des changements et du caractère critique du système, y compris sa classe au titre de [§2 Évaluation de la classe du système](#2-system-class-evaluation). Ils doivent montrer le système tel qu’il fonctionne aujourd’hui, non tel qu’il fonctionnait lors de la dernière certification.
+- **Auditables :** ouverts à l’audit au titre de **l’Article XVI-A** (*Auditabilité et éléments de preuve observables*).
+
+Une cartographie ou un registre qui échoue à l’un de ces critères ne peut étayer une conclusion selon laquelle le système restitue suffisamment. La lacune doit être consignée et traitée conformément aux *Défauts et désalignement* ci-dessous.
+
+<a id="536-system-class-scaling-and-escalation"></a>
+##### 5.3.6 Proportionnalité et escalade selon la classe du système
+
+La classe du système détermine la profondeur de l’examen et le degré de rigueur dans l’appréciation du caractère adéquat. Elle ne rend jamais trop faible pour être comptabilisée une extraction depuis des ressources partagées. Chaque fois que le déclencheur de matérialité est satisfait :
+
+- Un système qui puise dans une fondation partagée nécessaire à la survie des sentients — tel un bassin versant partagé ou l’épine dorsale d’un réseau électrique régional — doit verser au registre les preuves les plus solides concernant les cartographies de dépendance et les flux de retour.
+- Un système reposant sur l’authentification partagée, les technologies de l’information de santé ou une infrastructure similaire doit documenter ce qu’il prélève et si son soutien est adéquat, avec un niveau de détail adapté au caractère critique de ses opérations. Des slogans vagues sur « l’interopérabilité » ne comptent pas.
+- Un système ne doit pas éluder l’examen intersystémique tout en devenant discrètement le goulot d’étranglement des paiements, de l’identité ou du personnel pour des institutions qui ne peuvent raisonnablement pas en changer. Dans ce cas, la certification doit approfondir son examen et reconsidérer la classe du système au titre de [§2 Évaluation de la classe du système](#2-system-class-evaluation) et de la [Partie B §7 Résultats de la certification](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), jusqu’à la **Classe A** lorsque le système contrôle l’accès à une coordination essentielle à la survie.
+
+<a id="537-defects-and-misalignment"></a>
+##### 5.3.7 Défauts et désalignement
+
+Chacun des éléments suivants constitue un défaut de certification :
+
+- dissimuler, présenter de façon erronée, fragmenter ou transférer ailleurs des informations importantes sur les dépendances ou les flux de ressources que **l’Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) impose de divulguer ;
+- considérer l’un des éléments suivants comme suffisant pour satisfaire au [Soutien intersystémique proportionné](../../core_05_band_continuity.md#proportionate-cross-system-support) :
+  - des transferts symboliques, opaques, absents de la cartographie ou ponctuels ;
+  - le fait qu’un système respecte le plancher de survie prévu par **l’Article III-A** (*Survie*) ; ou
+  - le fait qu’un système respecte les limites de concentration du marché prévues au [Chapitre un §11 Structure du marché](core_01_a_values_principles.md#11-market-structure) ;
+- prélever de façon répétée des ressources des fondations partagées sans restitution proportionnée, alors que le déclencheur de matérialité s’applique ;
+- un soutien qui consolide principalement la captation ou la concentration ;
+- un soutien assorti de conditions qui entravent la transparence exigée par **l’Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) ; et
+- certifier la poursuite de la dépendance alors que des insuffisances documentées du soutien menacent matériellement l’alignement constitutionnel.
+
+<br>
+
+<a id="54-nondiscrimination-evaluation"></a>
+
+#### 5.4 Évaluation de la non-discrimination
+
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- En amont : [Partie B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenu du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; famille de mesure de la participation (*l’Équité substantielle et l’utilisation de caractéristiques protégées comme indicateurs indirects et l’impact disproportionné comme mesures constitutionnelles*) ; **Article VI-C** (*Non-discrimination*) ; [Équité substantielle](../../core_05_band_participation.md#substantive-fairness), [Caractéristiques protégées](../../core_05_band_participation.md#protected-characteristics), [Utilisation de caractéristiques protégées comme indicateurs indirects et impact disproportionné](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Langue, culture et patrimoine](../../core_05_band_continuity.md#language-culture-and-heritage), [Nécessité](../../core_05_band_accountability.md#necessity) et [Proportionnalité](../../core_05_band_accountability.md#proportionality) (chapitre cinq).
+- En aval : [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*parcours illustratifs de non-discrimination*) ; [Partie B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’entrée des éléments vérifiés*) ; [Partie B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement dû aux schémas discriminatoires et contournement par indicateurs indirects*).
+- À lire avec : le devoir de jugement et d’application de **l’Article VI-C** (*Non-discrimination*) lorsque la certification conditionne l’accès au forum, à l’administration ou à l’application des règles ; [*État de la non-discrimination, des caractéristiques protégées, de la dignité, du contrôle d’accès fondé sur les signaux intimes et de **l’Article VII-E** (*Services sexuels commerciaux consentis entre adultes et exploitation sexuelle*)*](../../core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
+- Sous-sections : [§5.4.1](#541-materiality-trigger-and-governing-rules) (*déclencheur de matérialité et règles applicables*) ; [§5.4.2](#542-evaluation-requirement) (*exigence d’évaluation*) ; [§5.4.3](#543-system-class-scaling-and-escalation) (*proportionnalité et escalade selon la classe du système*) ; [§5.4.4](#544-defects-and-misalignment) (*défauts et désalignement*) ; [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*application illustrative de la non-discrimination par classe du système*).
+
+</details>
+
+<br>
+
+*En termes simples : lorsqu’un système décide matériellement qui est admis, qui paie davantage, qui est moins bien classé ou qui supporte des charges plus lourdes, la certification doit vérifier si ce schéma fait peser des préjudices sur des caractéristiques protégées ou leurs indicateurs indirects — et non si l’opérateur affirme que les règles sont neutres. Les quotas d’inclusion et les algorithmes d’équité particuliers peuvent figurer dans d’autres instruments, des ajouts ultérieurs au corpus ou des instruments d’adoption ; la certification vérifie que les schémas de charges et d’avantages ainsi que les risques liés aux indicateurs indirects ont effectivement été évalués lorsque le déclencheur s’applique. Exemples illustratifs : [§5.4.5 Application illustrative de la non-discrimination par classe du système (non exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).*
+
+<a id="541-materiality-trigger-and-governing-rules"></a>
+##### 5.4.1 Déclencheur de matérialité et règles applicables
+
+Cette section s’applique lorsqu’un système à impact matériel classe, ordonne, tarifie, soumet à un contrôle d’accès, exclut des sentients ou répartit matériellement entre eux les charges et les avantages — notamment par des règles d’admissibilité, des caractéristiques de modèle, une logique de classement, une politique de plateforme ou des voies de décision comparables.
+
+Lorsque le déclencheur de matérialité s’applique, la certification de l’alignement du système doit évaluer la **non-discrimination** au titre de **l’Article VI-C** (*Non-discrimination*), de l’[Équité substantielle](../../core_05_band_participation.md#substantive-fairness) et de l’[Utilisation de caractéristiques protégées comme indicateurs indirects et impact disproportionné](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
+
+<a id="542-evaluation-requirement"></a>
+##### 5.4.2 Exigence d’évaluation
+
+Le processus de certification doit déterminer si les voies de décision du système dont il est matériellement fait usage imposent aux sentients des charges, exclusions ou préjudices matériels fondés sur les [Caractéristiques protégées](../../core_05_band_participation.md#protected-characteristics), leurs indicateurs indirects ou des regroupements arbitraires servant de substituts fonctionnels, notamment les spécialisations de langue, de culture et de patrimoine au titre de [Langue, culture et patrimoine](../../core_05_band_continuity.md#language-culture-and-heritage). L’évaluation doit examiner les schémas de charges et d’avantages au titre de l’[Équité substantielle](../../core_05_band_participation.md#substantive-fairness) ainsi que les risques liés aux indicateurs indirects ou à l’impact disproportionné au titre de l’[Utilisation de caractéristiques protégées comme indicateurs indirects et impact disproportionné](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), en proportion de l’[enjeu matériel](core_00_preamble.md#material-stake). Un traitement différencié n’est acceptable que s’il est justifié par la [Nécessité](../../core_05_band_accountability.md#necessity), la [Proportionnalité](../../core_05_band_accountability.md#proportionality) et l’équité substantielle, dûment documentées. L’évaluation doit refléter l’effet fonctionnel, non une neutralité nominale, une intention déclarée ou une simple étiquette.
+
+<a id="543-system-class-scaling-and-escalation"></a>
+##### 5.4.3 Proportionnalité et escalade selon la classe du système
+
+La classe du système modifie la profondeur de l’évaluation ; elle ne permet pas de traiter comme immatériels le classement ou le transfert de charges. Chaque fois que le déclencheur de matérialité est satisfait :
+
+- Un système dont les règles de coupure, de notification ou règles comparables peuvent empêcher l’accès aux nécessités de survie doit consigner l’analyse la plus solide des charges, avantages et indicateurs indirects, et non une déclaration générique de bonnes pratiques.
+- Un système dont la logique d’appariement ou d’acheminement affecte les soins d’urgence, les prestations ou l’accès à des titres doit documenter les constatations relatives à l’impact disproportionné et à l’équité substantielle au degré de criticité opérationnelle pertinent.
+- Un système ne doit pas conserver un paragraphe symbolique sur l’équité alors que sa logique d’affectation des équipes, des fournisseurs ou des réservations classe ou exclut matériellement des participants. Lorsque la coordination devient essentielle à la survie, la certification doit intensifier l’examen et reconsidérer la classe du système au titre de [§2 Évaluation de la classe du système](#2-system-class-evaluation) et de la [Partie B §7 Résultats de la certification](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), notamment en le faisant passer à la **Classe A** lorsque l’accès au personnel ou l’acheminement des urgences est soumis à un contrôle.
+
+<a id="544-defects-and-misalignment"></a>
+##### 5.4.4 Défauts et désalignement
+
+Chacun des éléments suivants doit être traité comme un défaut de certification :
+
+- dissimuler, présenter de façon erronée, fragmenter ou transférer ailleurs une logique matérielle de classification, de classement ou de répartition des charges dont **l’Article VI-C** (*Non-discrimination*) exige l’examen ;
+- considérer la neutralité apparente, des indicateurs agrégés de commodité ou l’auto-déclaration de l’opérateur comme suffisants sans analyse évaluable des charges et avantages ;
+- certifier la poursuite de la dépendance alors qu’une discrimination documentée par indicateurs indirects ou une iniquité substantielle menace matériellement l’alignement constitutionnel ; et
+- invoquer l’homogénéisation, l’interopérabilité ou l’efficacité pour écarter les protections de la langue, de la culture ou du patrimoine sans satisfaire aux critères de **Nécessité** et de **Proportionnalité** de **l’Article VI-C** (*Non-discrimination*).
+
+<br>
+
+<a id="55-accessibility-evaluation"></a>
+
+#### 5.5 Évaluation de l’accessibilité
+
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- En amont : [Partie B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenu du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; famille de mesure de la participation (*l’Accessibilité comme mesure constitutionnelle*) ; **Article VI-D** (*Accessibilité*) ; [Accessibilité](../../core_05_band_participation.md#accessibility), [Matérialité](../../core_05_band_oversight.md#materiality), [Dépendance](../../core_05_band_continuity.md#dependency), [Agentivité effective](../../core_05_band_participation.md#meaningful-agency), [Caractéristiques protégées](../../core_05_band_participation.md#protected-characteristics), [Utilisation de caractéristiques protégées comme indicateurs indirects et impact disproportionné](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Équité substantielle](../../core_05_band_participation.md#substantive-fairness), [Nécessité](../../core_05_band_accountability.md#necessity) et [Proportionnalité](../../core_05_band_accountability.md#proportionality) (chapitre cinq).
+- En aval : [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*parcours illustratifs d’accessibilité*) ; [Partie B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’entrée des éléments vérifiés*) ; [Partie B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement en matière d’accessibilité et aménagements uniquement sur papier*).
+- À lire avec : **l’Article IV-A** (*Égalité d’accès à l’éducation*) lorsque l’accessibilité éducative est en cause — l’accessibilité propre à l’éducation reste régie par cet article ; **l’Article VI-C** (*Non-discrimination*) (jugement et opérations) et **l’Article XII** (*Participation des parties affectées au système, représentation et procédure due*) lorsque la certification conditionne la participation au forum, à l’administration, des parties affectées ou à l’application des règles ; [Chapitre huit §5.5](#55-accessibility-evaluation) (*renvoi transversal au facteur d’évaluation de l’accessibilité*).
+- Sous-sections : [§5.5.1](#551-materiality-trigger-and-governing-rules) (*déclencheur de matérialité et règles applicables*) ; [§5.5.2](#552-evaluation-requirement) (*exigence d’évaluation*) ; [§5.5.3](#553-profiles-in-scope) (*profils couverts*) ; [§5.5.4](#554-system-class-scaling-and-escalation) (*proportionnalité et escalade selon la classe du système*) ; [§5.5.5](#555-defects-and-misalignment) (*défauts et désalignement*) ; [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*application illustrative de l’accessibilité par classe du système*).
+
+</details>
+
+<br>
+
+*En termes simples : lorsqu’un système détermine matériellement si les sentients peuvent effectivement participer — et non si une porte porte simplement la mention « ouverte » —, la certification doit vérifier que la participation est réellement accessible au regard des besoins sensoriels, cognitifs, de mobilité, de communication, d’interface avec le substrat et des besoins comparables. Les catalogues d’aménagements et les normes d’interface peuvent figurer dans d’autres instruments, des ajouts ultérieurs au corpus ou des instruments d’adoption ; la certification vérifie que la participation effective a bien été évaluée lorsque le déclencheur s’applique. Exemples illustratifs : [§5.5.6 Application illustrative de l’accessibilité par classe du système (non exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).*
+
+<a id="551-materiality-trigger-and-governing-rules"></a>
+##### 5.5.1 Déclencheur de matérialité et règles applicables
+
+Cette section s’applique lorsqu’un système ayant un effet majeur sur la vie des sentients contrôle leur capacité réelle à participer à un domaine protégé par la Constitution, tel que :
+
+- la gouvernance, la participation des parties affectées, le jugement et les opérations ;
+- les nécessités de survie et les soins de santé ;
+- l’expression, le rassemblement et la presse ; ou
+- des domaines comparables.
+
+Ce contrôle peut s’exercer par :
+
+- les interfaces, les lieux ou la planification ;
+- les titres ou l’accès informatique ;
+- la manière dont les aménagements sont conçus ; ou
+- des voies comparables.
+
+L’accessibilité de l’éducation reste régie par **l’Article IV-A** (*Égalité d’accès à l’éducation*) ; rien ici ne la restreint.
+
+Le cas échéant, la certification doit évaluer l’**accessibilité** au titre de **l’Article VI-D** (*Accessibilité*) et de l’[Accessibilité](../../core_05_band_participation.md#accessibility). Cette section ne fixe pas :
+
+- les listes d’aménagements ;
+- les normes d’interface ;
+- les spécifications de conception universelle ; ni
+- les procédures quotidiennes d’aménagement.
+
+Ces éléments figurent dans d’autres documents susceptibles d’être incorporés.
+
+<a id="552-evaluation-requirement"></a>
+##### 5.5.2 Exigence d’évaluation
+
+La certification doit vérifier si les sentients peuvent réellement participer aux domaines contrôlés par le système, et non simplement si des fonctionnalités formelles, des interfaces par défaut ou des aménagements sur papier existent. Elle doit tester l’effet réel sur la participation au titre de l’[Accessibilité](../../core_05_band_participation.md#accessibility), en proportion de la [Matérialité](../../core_05_band_oversight.md#materiality) et de la [Dépendance](../../core_05_band_continuity.md#dependency).
+
+Les évaluateurs doivent rechercher :
+
+- des aménagements qui n’existent que sur papier ;
+- des affirmations d’« accès général » fondées sur les fonctionnalités par défaut, mais qui ne donnent à personne une capacité réelle de participer ;
+- des arguments selon lesquels le système n’aurait qu’une matérialité partielle, utilisés pour réduire les aménagements auxquels il est tenu ;
+- une exclusion contraire à la [Non-exclusion des sentients](../../core_05_band_participation.md#sentience-non-exclusion) ; et
+- une conception qui exclut indirectement les sentients au moyen de la planification, du choix des lieux, des titres, de l’accès informatique ou de mécanismes similaires (refus par indicateur indirect).
+
+La certification doit également appliquer les [Caractéristiques protégées](../../core_05_band_participation.md#protected-characteristics) et l’[Utilisation de caractéristiques protégées comme indicateurs indirects et impact disproportionné](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) à la conception des aménagements. Toute limite imposée à un aménagement doit être documentée et satisfaire à la [Nécessité](../../core_05_band_accountability.md#necessity), à la [Proportionnalité](../../core_05_band_accountability.md#proportionality) et à l’[Équité substantielle](../../core_05_band_participation.md#substantive-fairness).
+
+<a id="553-profiles-in-scope"></a>
+##### 5.5.3 Profils couverts
+
+L’évaluation doit tester la participation réelle pour chaque forme de sentient et chaque profil de capacités, et non la conformité sur papier :
+
+- Elle doit couvrir chaque catégorie de profil pertinente : sensorielle, cognitive, mobilité, communication, **interface-substrat** et **interface informatique**.
+- La même exigence s’applique que le profil soit **constant**, **épisodique** ou **développemental**.
+- Un schéma d’**accès général** qui revendique une large disponibilité agrégée tout en empêchant un profil affecté particulier de participer, ou une **proportionnalité sélective de la matérialité** dont l’effet est de neutraliser le Plancher de la participation, ne satisfait pas à cette section.
+
+<a id="554-system-class-scaling-and-escalation"></a>
+##### 5.5.4 Proportionnalité et escalade selon la classe du système
+
+La classe du système modifie la profondeur de l’évaluation. Elle ne permet jamais de considérer les aménagements sur papier ou les interfaces par défaut comme suffisants. Chaque fois que le déclencheur de matérialité est satisfait :
+
+- Si les voies de facturation ou de panne du système peuvent priver les sentients de nécessités de survie, le registre doit apporter les preuves les plus solides qu’ils peuvent réellement participer. Une déclaration générale d’accessibilité ne suffit pas.
+- Si les portails du système contrôlent l’accès aux soins de santé, il doit documenter ses constatations sur les aménagements et le refus par indicateur indirect. Plus les opérations sont critiques, plus le niveau de détail doit être élevé.
+- Un système ne peut se contenter d’un paragraphe symbolique sur l’accessibilité alors que ses interfaces de gestion des équipes, de réservation ou de fournisseurs excluent matériellement des participants. Lorsque la coordination du système devient essentielle à la survie, la certification doit approfondir l’examen et reconsidérer la classe du système au titre de [§2 Évaluation de la classe du système](#2-system-class-evaluation) et de la [Partie B §7 Résultats de la certification](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion). Cela inclut son relèvement vers la **Classe A** lorsque l’accès au personnel ou l’acheminement des urgences est soumis à un contrôle.
+
+<a id="555-defects-and-misalignment"></a>
+##### 5.5.5 Défauts et désalignement
+
+Chacun des éléments suivants doit être traité comme un défaut de certification :
+
+- considérer les fonctionnalités formelles, les interfaces par défaut ou les aménagements sur papier comme suffisants sans analyse évaluable de la participation effective ;
+- certifier la poursuite de la dépendance alors que des obstacles documentés à la participation menacent matériellement l’alignement constitutionnel ;
+- invoquer le coût, un choix de conception, la classe du substrat ou l’échelle opérationnelle pour neutraliser le Plancher de la participation sans satisfaire aux critères de **Nécessité** et de **Proportionnalité** de **l’Article VI-D** (*Accessibilité*) ; et
+- une conception opérationnelle dont l’effet est d’entraver l’accessibilité alors qu’une solution moins contraignante est réalisable.
+
+<br>
+
+<a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+
+#### 5.6 Évaluation de la dignité de confiance et de l’intégrité de la dépendance au système
+
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- En amont : [Partie B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*contenu du registre*) ; [§2](#2-system-class-evaluation) (*évaluation de la classe du système*) ; famille de mesure de la supervision (*Vérité et intégrité épistémique ; Dignité de confiance, dégradation de la confiance et dépendance trompeuse comme mesures constitutionnelles*) ; **Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) ; [Dignité de confiance](../../core_05_band_continuity.md#trustworthiness), [Confiance](../../core_05_band_continuity.md#trust), [Dégradation de la confiance et dépendance trompeuse](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [Contestabilité](../../core_05_band_accountability.md#contestability), [Recours et réparation](../../core_05_band_accountability.md#redress-and-remediation), [Alignement des incitations](../../core_05_band_integrative.md#incentive-alignment), [Réversibilité](../../core_05_band_continuity.md#reversibility), [Matérialité](../../core_05_band_oversight.md#materiality), [Dépendance](../../core_05_band_continuity.md#dependency) et [Risque](../../core_05_band_continuity.md#risk) (chapitre cinq).
+- En aval : [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*parcours illustratifs de dignité de confiance*) ; [Partie B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*intégrité du registre*) ; [Partie B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*porte d’entrée des éléments vérifiés*) ; [Partie B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*désalignement lié à la fausse confiance, aux incitations perverses et à l’intégrité du rétablissement*).
+- À lire avec : **l’Article XIII-A** (*Socle de fiabilité et de confiance*), **l’Article XIII-B** (*Droit au recours et à la réparation*) et **l’Article XVI** (*Audit, transparence et vérification indépendante*) — les droits de contestation et d’audit restent régis par ces articles ; **l’Article XIII-E** (*Systèmes à haute autonomie et intégrité des processus médiés par des outils*) lorsque des systèmes à haute autonomie médiatisent matériellement des voies de gouvernance ou de vérification ; **l’Article III-A** (*Survie*) lorsque la dépendance continue au système affecterait l’accès à ce qui est essentiel à la survie ; [Chapitre un §6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) et [Chapitre un §5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+- Sous-sections : [§5.6.1](#561-materiality-trigger-and-governing-rules) (*déclencheur de matérialité et règles applicables*) ; [§5.6.2](#562-evaluation-requirement) (*exigence d’évaluation*) ; [§5.6.3](#563-system-class-scaling-and-escalation) (*proportionnalité et escalade selon la classe du système*) ; [§5.6.4](#564-defects-and-misalignment) (*défauts et désalignement*) ; [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*application illustrative de la dignité de confiance par classe du système*).
+
+</details>
+
+<br>
+
+*En termes simples : lorsqu’un système influe matériellement sur la capacité des sentients à faire confiance à ce qu’il dit et fait — et à réagir lorsque cette confiance échoue —, la certification doit vérifier si cette dépendance est réellement justifiée, divulguée honnêtement et réparable. Les métriques de fiabilité et la conception des suites de tests figurent dans d’autres instruments ; la certification vérifie que la dignité de confiance, le risque de fausse confiance et les voies de contestation ont bien été évalués lorsque le déclencheur s’applique. Exemples illustratifs : [§5.6.5 Application illustrative de la dignité de confiance par classe du système (non exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).*
+
+<a id="561-materiality-trigger-and-governing-rules"></a>
+##### 5.6.1 Déclencheur de matérialité et règles applicables
+
+Cette section s’applique lorsqu’un système majeur façonne ce sur quoi les personnes comptent : ce qu’il fait, où se situent ses limites, ce qui pourrait mal tourner, comment le contester et comment les problèmes sont corrigés. Cela peut passer par :
+
+- des affirmations sur sa fiabilité ;
+- ce qu’il divulgue ou ne divulgue pas ;
+- son fonctionnement réel ;
+- les incitations qui y sont intégrées ;
+- la façon dont il se rétablit après des défaillances ; ou
+- toute autre manière comparable dont les personnes en deviennent dépendantes.
+
+Lorsque le déclencheur de matérialité s’applique, la certification de l’alignement du système doit évaluer la **dignité de confiance et l’intégrité de la dépendance au système** au regard de :
+
+- **l’Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) ;
+- la [Dignité de confiance](../../core_05_band_continuity.md#trustworthiness) ; et
+- la [Dégradation de la confiance et dépendance trompeuse](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
+
+<a id="562-evaluation-requirement"></a>
+##### 5.6.2 Exigence d’évaluation
+
+Le processus de certification doit vérifier si les personnes ont de bonnes raisons de [faire confiance](../../core_05_band_continuity.md#trust) au système et peuvent s’y fier avec justesse, au titre de **l’Article XIII-A** (*Socle de fiabilité et de confiance*).
+
+L’évaluation doit également déterminer si :
+
+- les personnes peuvent réellement contester le système, obtenir le réexamen des décisions et une correction — et pas seulement sur le papier (**l’Article XIII-A** (*Socle de fiabilité et de confiance*) et **l’Article XIII-B** (*Droit au recours et à la réparation*)) ;
+- les personnes pourraient être induites en erreur et faire confiance au système ou s’y fier à tort, notamment par une confiance fabriquée ou des limites non divulguées (**l’Article XIII-C** (*Interdiction de la fausse confiance et de la dépendance trompeuse*)) ;
+- ses incitations récompensent la tromperie ou les raccourcis (**l’Article XIII-D** (*Contrainte d’alignement des incitations*)) ; et
+- lorsque c’est pertinent, il peut se rétablir honnêtement des défaillances, sans les dissimuler ni réduire discrètement les droits de quiconque (**l’Article XIII-F** (*Socle de résilience et d’autorétablissement*)).
+
+Les tests sont proportionnés à la [Matérialité](../../core_05_band_oversight.md#materiality), à la [Dépendance](../../core_05_band_continuity.md#dependency) et au [Risque](../../core_05_band_continuity.md#risk).
+
+L’évaluation doit refléter l’effet fonctionnel dans le temps, à l’échelle et selon la dépendance, et non se fonder sur :
+
+- la réputation, la taille ou le marketing ;
+- des labels d’assurance nominaux ;
+- un paragraphe symbolique sur la dignité de confiance alors que des badges de fiabilité ou des notes de fournisseurs déterminent réellement qui est affecté à un poste ou ce qui est acheté ;
+- l’intention déclarée ; ou
+- les performances passées à elles seules.
+
+<a id="563-system-class-scaling-and-escalation"></a>
+##### 5.6.3 Proportionnalité et escalade selon la classe du système
+
+La profondeur de l’examen dépend de la classe du système. Chaque fois que le déclencheur de matérialité est satisfait :
+
+- Si les lectures, alertes ou affirmations de rétablissement d’un système peuvent induire en erreur des ménages ou des opérateurs au sujet des nécessités de survie (les choses dont les personnes ont besoin pour vivre), le registre doit présenter des preuves solides, et non affirmer simplement que le système est fiable. Ces preuves doivent établir que :
+  - les personnes peuvent faire confiance au système ;
+  - elles ne recevront pas de fausses assurances ; et
+  - le système se rétablit honnêtement après les défaillances.
+- Si les affirmations du système concernant sa disponibilité, l’appariement ou les dérogations d’urgence (accès « brise-glace ») déterminent si les personnes peuvent recevoir des soins cliniques ou des services d’urgence, le registre doit indiquer, avec un niveau de détail proportionné à la criticité du système :
+  - comment contester ces affirmations ; et
+  - si les personnes risquent d’être induites en erreur et de s’y fier.
+- Lorsque la coordination devient essentielle à la survie, la certification doit intensifier son examen et reconsidérer la classe du système au titre de [§2 Évaluation de la classe du système](#2-system-class-evaluation) et de la [Partie B §7 Résultats de la certification](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion). Cela peut impliquer de relever le système vers la **Classe A** lorsqu’une dépendance trompeuse pourrait interrompre la coordination nécessaire à la survie des personnes.
+
+<a id="564-defects-and-misalignment"></a>
+##### 5.6.4 Défauts et désalignement
+
+Chacun des éléments suivants doit être traité comme un défaut de certification :
+
+- dissimuler, présenter de façon erronée, fragmenter ou transférer ailleurs des limites, risques ou antécédents de défaillance matériels dont **l’Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) exige l’examen ;
+- considérer la réputation, l’approbation, l’échelle ou l’auto-déclaration de l’opérateur comme suffisantes sans analyse évaluable de la [Dignité de confiance](../../core_05_band_continuity.md#trustworthiness) ;
+- certifier la poursuite de la dépendance alors que la fausse confiance documentée, des incitations perverses, des voies de contestation inaccessibles ou des pratiques de rétablissement dissimulant des défaillances menacent matériellement l’alignement constitutionnel ; et
+- invoquer l’efficacité, l’innovation ou la sécurité pour écarter la divulgation, la contestabilité ou le recours sans satisfaire aux exigences de fiabilité de **l’Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) et de contestation de **l’Article XIII-A** (*Socle de fiabilité et de confiance*).
+
 <br>
 
 *Poursuivez vers le registre, le processus de forum, et le pont de trajectoire :* [Chapitre sept, Partie B — Registre et processus](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) ([§11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) à [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)).

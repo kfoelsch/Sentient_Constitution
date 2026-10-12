@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">করপাসে অবস্থান (অ-কার্যকরী): ফাইলের গঠন ও পড়ার নিয়ম</span></strong></summary>
 
-> নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই ফাইল বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
->
 > এই ফাইল [ইংরেজি অধ্যায় পাঁচ, অংশ ক](../../core_05__definitions_home.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_05__definitions_home.md`](../../core_05__definitions_home.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
 >
 > **আগেরটি (এই ভাষায়):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">পাঠক নির্দেশনা (অ-কার্যকরী): পড়ার ক্রম ও সহজ-ভাষার নোট</span></strong></summary>
 
-> নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই অধ্যায় বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
->
 > সহজ-ভাষার পড়ার নোট: উচ্চ-স্তরের মূল্য ও দিকের জন্য **অধ্যায় এক** পড়ুন; সংজ্ঞার গঠন, সততা ও যাচাই যন্ত্রের জন্য **অধ্যায় দুই থেকে চার**; এবং ভিত্তিগত **অধিকার**-তলের জন্য **অধ্যায় ছয়**, তারপর ব্যাখ্যা, নিরীক্ষা ও নিষ্পত্তিতে পদের নির্ভুলতার জন্য এই অধ্যায়ে ফিরুন। (অন্য অধ্যায়, **অধ্যায় দশ** *অসদাচরণ* ও **অধ্যায় আট** *প্রস্থিতি* সহ, নিজেদের পড়ার পথে প্রযোজ্য; তারা অধ্যায় ছয়ের অধিকার-তল বা অধ্যায় দুই থেকে চারের সংজ্ঞা যন্ত্রের স্থলাভিষিক্ত নয়।)
 
 </details>
@@ -212,6 +208,7 @@
 - [সুযোগের খেলা](../../core_05_band_accountability.md#game-of-chance)
 - [গেট](../../core_05_band_oversight.md#gate)
 - [গেটের মানদণ্ড](../../core_05_band_oversight.md#gate-criteria)
+- [সরাসরি চালু হওয়া](../../core_05_band_continuity.md#go-live)
 - [সদ্বিশ্বাস](../../core_05_band_accountability.md#good-faith)
 - [শাসন](../../core_05_band_accountability.md#governance)
 - [ক্রমবর্ধমান ক্ষমতা](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -232,7 +229,9 @@
 - [সূচনাকারী আসন](../../core_05_band_accountability.md#initiating-seat)
 - [উদ্ভাবন পুরস্কার ও ঘেরাও-নিরোধ](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [অভ্যন্তরীণ সুবিধা](../../core_05_band_accountability.md#insider-advantage)
+- [প্রতিষ্ঠান](../../core_05_band_continuity.md#institution)
 - [তাৎক্ষণিককরণ সম্মতি](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [আগ্রহী পক্ষ](../../core_05_band_accountability.md#interested-party)
 - [প্রাতিষ্ঠানিক বিকাশ](../../core_05_band_continuity.md#institutional-development)
 - [আন্তঃপ্রজন্ম দায়িত্ব](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [অপরিবর্তনীয় বঞ্চনা মাপ](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
@@ -278,10 +277,12 @@
 - [অংশগ্রহণকারীর প্রস্থিতি](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional)
 - [ব্যক্তিসত্তা](../../core_05_band_participation.md#personhood)
+- [পাইলট](../../core_05_band_continuity.md#pilot)
 - [সংবাদমাধ্যম ও সাংবাদিক কার্যকলাপ](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [প্রাথমিক-বাজি রাউটিং](../../core_05_band_accountability.md#primary-stakes-routing)
 - [গোপনীয়তা (তথ্যগত)](../../core_05_band_continuity.md#privacy-informational)
 - [প্রক্রিয়াগত ন্যায্যতা](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [প্রক্রিয়া](../../core_05_band_continuity.md#process)
 - [উৎপাদন ক্ষমতা](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality)
 - [আনুপাতিক আন্তঃব্যবস্থা অবদান](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -442,8 +443,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">পাঠক নির্দেশনা (অ-কার্যকরী): প্রস্তাবনার পরিমাপ-ক্রসওয়াক</span></strong></summary>
 
-> নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই অধ্যায় বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
->
 > [প্রস্তাবনা §2](core_00_preamble.md#measurements-overview) সাত সাংবিধানিক **পরিমাপ শ্রেণি** তালিকা করে — যে প্রশ্ন পরিচালকেরা ব্যবস্থা মূল্যায়নে করে। অধ্যায় পাঁচ **প্রামাণিক সংজ্ঞা** সাজায় চতুষ্কের পা, **সাতত্য** উদ্দেশ্য, এবং পা-পেরিয়ে **সমন্বিত** স্বত্বাধিকার অনুসারে। নিচের সারণি প্রতি পরিমাপ শ্রেণিকে তার অধ্যায় পাঁচ ঘরে ম্যাপ করে। এক শ্রেণি একাধিক পটি ফাইল জুড়ে থাকতে পারে; প্রামাণিক ঘর সরে না যখন পরিমাপ শ্রেণি ওভারল্যাপ করে।
 >
 > **তাৎপর্য** ([তাৎপর্য নির্ণয়](../../core_05_band_oversight.md#materiality-determination)) সমন্বিত — এক আড়াআড়ি সীমা-ফটক যা [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে সব পরিমাপ পরিবার স্কেল করে; এটি নিচের সারণিতে আলাদা শ্রেণি নয়।

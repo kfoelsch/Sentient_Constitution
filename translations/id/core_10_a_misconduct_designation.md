@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Sepuluh, Bagian A bahasa Inggris](../../core_11_a_misconduct_designation.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > Berisi **Bab Sepuluh, Bagian A** — kerangka keputusan penunjukan, himpunan kriteria, pelekatan penunjukan Sumbu Pelanggaran `s = 7–9`, pagar pengaman proses yang semestinya, pemulihan, kunci pencegahan, dan ungkapan pertanggungjawaban publik sukarela. **Bagian B** — penerapan pola bernama dan perutean kriteria — ada di [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
@@ -33,8 +31,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): peta lintas-bab dan urutan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Di bawah [tujuan Kesinambungan](core_00_preamble.md#continuity), tinjauan penunjukan melindungi operasi konstitusional cakrawala-panjang ketika perilaku berdampak tertinggi mengancam mengosongkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **partisipasi**, **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu** — di bawah persyaratan [taruhan material](core_00_preamble.md#material-stake).
 >
 > **Peta lintas-bab**

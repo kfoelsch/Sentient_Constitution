@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Siete, Parte B en inglés](../../core_08_b_system_alignment_certification_record_process.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > Contiene el **Capítulo Siete, Parte B** — contenidos del **registro** de certificación, transparencia e impugnabilidad, roles de componente de foro, secuencia de supervisión, puente de trayectoria y reapertura (**§11–§16**, continuando desde la Parte A §1–§10). **Parte A** — requisitos de evaluación — está en [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).

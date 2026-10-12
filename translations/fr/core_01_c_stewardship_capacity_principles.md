@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Place dans le corpus (non opératoire) : structure des fichiers et règles de lecture</span></strong></summary>
 
-> Le contenu qui suit sert uniquement de guide au lecteur. Il n’ajoute, ne supprime ni ne restreint aucune obligation contraignante ailleurs dans ce fichier ou dans les autres chapitres.
->
 > Ce fichier fait **partie de la Sentient Constitution** et n’est **contraignant qu’avec** les autres fichiers numérotés `core_*`, lus ensemble comme un seul instrument. Il contient le **chapitre un, partie C** (§§16–20 : intendance, gouvernance, alignement des incitations et captation, ainsi que le volet final d’application intégrée).
 >
 > **En amont :** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (chapitre un, partie B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guide du lecteur (non opératoire) : hiérarchie des principes et parcours de lecture (partie C)</span></strong></summary>
 
-> Le contenu qui suit sert uniquement de guide au lecteur. Il n’ajoute, ne supprime ni ne restreint aucune obligation contraignante ailleurs dans ce fichier ou dans les autres chapitres. Les modules **Trace** et **Definitions · Assessment · Compliance** de chaque section indiquent les renvois au moment où un § invoque matériellement un terme ; le présent bloc établit une table de correspondance pour toute la partie avant les §§16–20.
+> Les modules **Trace** et **Definitions · Assessment · Compliance** de chaque section indiquent les renvois au moment où un § invoque matériellement un terme ; le présent bloc établit une table de correspondance pour toute la partie avant les §§16–20.
 
 **Hiérarchie des principes (partie C).** Au niveau des principes :
 
@@ -162,7 +160,7 @@ La gestion est la première ligne de défense, mais pas la seule. Trois question
 
 - En amont : [§17 Gestion conséquente](#17-consequential-stewardship-the-steward-role) (*Pilier 1*) ; [§16 Gestion approfondie](#16-stewardship-in-depth) (section parente, y compris *En termes simples* et le cadrage du Pilier 3 ci-dessus) ; [5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ; [6. Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — volet **participation** ([Agentivité réelle](core_05_band_participation.md#meaningful-agency), [Agentivité éducative](core_05_band_participation.md#educational-agency)) ; volet **supervision** ([Transparence](core_05_band_oversight.md#transparency), [Auditabilité](core_05_band_oversight.md#auditability)) ; mise à l’échelle selon l’[enjeu matériel](core_00_preamble.md#material-stake).
-- Point d’accès pour les responsables (non opératoire) : carte de prochaine étape : [Compréhensibilité](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). La carte ne peut restreindre la Constitution.
+- Point d’accès pour les responsables (non opératoire) : carte de prochaine étape : [Compréhensibilité](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - En aval : [13.2 Contraintes à la divulgation épistémique](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ; champ des droits, notamment [Article XVI : Audit, transparence et vérification indépendante](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXII : Compréhensibilité et gestion de la complexité](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ Le reste de cette section porte sur le rôle lui-même.
 
 - En amont : [§17 Gestion conséquente](#17-consequential-stewardship-the-steward-role) ; [§16 Gestion approfondie](#16-stewardship-in-depth) ; [§18 Gouvernance sous discipline de gestion](#18-governance-under-stewardship-discipline).
 - À lire avec : [Non-exclusion fondée sur la sentience](core_05_band_participation.md#sentience-non-exclusion) et [Classe de substrat](core_05_band_participation.md#substrate-class) (*application indépendante du substrat : cette sous-section lie les titulaires de devoirs, y compris les agents et opérateurs qui ne sont pas reconnus comme sentients*) ; [Pile d’autorité et hiérarchie interne](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) ; [Contrainte constitutionnelle](core_05_band_integrative.md#constitutional-constraint) ; [Possibilité de contestation](core_05_band_accountability.md#contestability) ; [§17.5 Devoir de résistance](#175-duty-to-resist).
-- Point d’accès pour les responsables (non opératoire) : carte de prochaine étape : [Gestion partagée](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). La carte ne peut restreindre la Constitution.
+- Point d’accès pour les responsables (non opératoire) : carte de prochaine étape : [Gestion partagée](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - En aval : [§17.2 Alignement sous pression](#172-alignment-under-pressure) ; [§17.3 Consigner le rôle, pas le responsable](#173-logging-the-role-not-the-steward) ; [Chapitre Treize §5 — Rôles autorisés, développement des compétences et contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution) ; [Chapitre Dix-sept](core_17_incorporation.md) (*le texte de mise en œuvre adopté met en œuvre, il ne remplace pas*) ; [§19.1.3 Application aux responsables et opérateurs](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ La charge que ce devoir impose à un steward investi d’une autorité lourde de
 
 - En amont : [§17 Tutelle à conséquences](#17-consequential-stewardship-the-steward-role) ; [§17.1 Norme commune de tutelle](#171-shared-stewardship-standard) (*qui est lié par le devoir*) ; [§17.2 Alignement sous pression](#172-alignment-under-pressure) (*l’instruction de couverture comme échec du test*) ; [4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint) et [5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - À lire avec : [Hiérarchie des autorités et ordre interne](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) ; [Signalement protégé (alerte éthique)](core_05_band_accountability.md#protected-reporting-whistleblowing) ; [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Socle de fiabilité et de confiance*) — les voies de contestation restent ouvertes pendant la résistance.
-- Point d’entrée du tuteur (non opérant) : fiche de prochaine étape : [Instruction illégale](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). La fiche ne peut pas restreindre la Constitution.
+- Point d’entrée du tuteur (non opérant) : fiche de prochaine étape : [Instruction illégale](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - En aval : [Chapitre dix, §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Devoir de résistance — règle de violation et effets sur le statut*) ; [CS-4 §10 action inspectable et attribuable](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Action inspectable et attribuable — compte rendu minimal du refus*).
 
 </details>
@@ -1002,7 +1000,7 @@ Ce principe lie également les responsables humains et les responsables IA en ve
 - En aval : [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§14 Interdiction du remplacement absolu](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - En aval : [§13.3 Réduction de la charge évitable](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) ; [Chapitre Treize §5 — Rôles autorisés, développement des compétences et contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution) ; **[corpus_systems.md](corpus_systems.md), CS-4 — Responsabilité des systèmes critiques**.
 - En aval : Vise le champ des droits relatif à la capacité d’agir, à la participation, à l’alignement des incitations, à l’intégrité de la sphère informationnelle, au statut et à l’examen anti-captation dans l’ensemble du [Chapitre Six : Droits fondamentaux](core_06_rights_part_a.md#chapter-six-foundational-rights) ; en particulier [Article X : Autodétermination, capacité d’agir et participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XII : Participation au système des parties prenantes, représentation et procédure régulière](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIII-D : Contrainte d’alignement des incitations](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [Article XV : Intégrité de la sphère informationnelle](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Article XIX : Statut et qualité de participant](core_06_rights_part_d.md#article-xix-standing-and-participation-status), et [Article XXIV : Interprétation constitutionnelle, examen et garanties anti-captation](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Portail des responsables (non normatif) : Carte de prochaine étape : [Alignement des incitations](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). Cette carte ne peut restreindre la Constitution.
+- Portail des responsables (non normatif) : Carte de prochaine étape : [Alignement des incitations](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

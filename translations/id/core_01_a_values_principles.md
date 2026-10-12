@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Posisi dalam korpus (non-normatif): struktur berkas dan aturan pembacaan</span></strong></summary>
 
-> Konten berikut **hanya merupakan panduan bagi pembaca**. Konten ini tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat di bagian lain dalam berkas ini maupun bab lain.
->
 > Berkas ini **merupakan bagian dari Konstitusi Sentien** dan **hanya mengikat jika dibaca bersama** berkas bernomor `core_*` lainnya sebagai satu instrumen. Berkas ini memuat **Bab Satu, Bagian A** (§§1–12: tujuan dan peran; tujuan Keberkembangan, yang diperkenalkan pada §2 dan dikembangkan melalui kesejahteraan, Keselamatan, Kebenaran, Kepercayaan, dan Kebebasan; serta tujuan Kesinambungan, yang diperkenalkan pada §8 dan dikembangkan melalui kapasitas sistem bersama, ketahanan, struktur pasar, dan evaluasi sistemik).
 >
 > **Sebelumnya:** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-normatif): cara Bab Satu menghubungkan tujuan, Tetrad, Pasal, dan definisi</span></strong></summary>
 
-> Konten berikut **hanya merupakan panduan bagi pembaca**. Konten ini tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat di bagian lain dalam berkas ini maupun bab lain. Widget **Pelacakan** dan **Definisi · Penilaian · Kepatuhan** pada setiap bagian memuat rujukan yang mengikat; blok ini merupakan peta tingkat bagian bagi pembaca yang mulai memasuki Bab Satu.
+> Widget **Pelacakan** dan **Definisi · Penilaian · Kepatuhan** pada setiap bagian memuat rujukan yang mengikat; blok ini merupakan peta tingkat bagian bagi pembaca yang mulai memasuki Bab Satu.
 
 **Hubungan antar-lapisan.** Setiap lapisan menjawab pertanyaan yang berbeda, dan setiap prinsip Bab Satu menunjuk ke tiga lapisan lainnya:
 
@@ -1463,7 +1461,7 @@ Klaim **[Kapasitas Produktif](core_05_band_continuity.md#productive-capacity)** 
 
 - Hulu: [§11 Struktur Pasar](#11-market-structure); [Ambang Konsentrasi Pasar](core_05_band_accountability.md#market-concentration-threshold).
 - Hilir: **CJS-3.11.1 — Disiplin penetapan ambang konsentrasi pasar (dapat disesuaikan oleh pengadopsi)** (aturan operasional penetapan ambang); [§11.2 Persaingan Pro dan Anti-Dominasi](#112-pro-competition-and-anti-domination); [§11.3 Batas Konsolidasi](#113-consolidation-ceiling); [CJS-3.11.3 — Disiplin penetapan batas konsolidasi (dapat disesuaikan oleh pengadopsi)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (aturan operasional penetapan batas [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)); [Bab Sembilan §4 Pertanyaan 2 — seberapa baik atau buruk hasilnya?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Bab Sebelas §5.1 Subversi berbasis konsentrasi](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- Pintu penatalayanan (non-operasional): Kartu langkah berikutnya: [Struktur pasar](implementation/STEWARD_ENTRY_DOORS.md#market-structure). Kartu tersebut tidak dapat mempersempit Konstitusi.
+- Pintu penatalayanan (non-operasional): Kartu langkah berikutnya: [Struktur pasar](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subbagian (urutan baca): [§11.1.1 Pemicu Ambang Konsentrasi (Dapat Disesuaikan oleh Pengadopsi)](#1111-concentration-threshold-triggers-adopter-tunable).
 
 </details>

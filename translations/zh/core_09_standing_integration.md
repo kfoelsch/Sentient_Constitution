@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > 本文件是[英语第九章](../../core_10_standing_integration.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_09_standing_integration.md`](../../core_10_standing_integration.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > 本文件包含**第九章**，即轨迹链的整合与后果层。[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)排他主责经核实事实、轨迹记录、轨迹测量，以及贡献轴与违规轴的每一个槽位。本章接受那些输入为固定，并回答问题 3：随之而来的是什么。[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)只决定一项合格的 `s = 7`、`s = 8` 或 `s = 9` 违规是否获得相匹配的反宪法不当行为指定。
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：本章顺序</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄有约束力的义务。
->
 > 按顺序阅读本章：不可更改的第八章输入；整合记录与决定顺序；描述符整合与附着归一化；违规、纠正与预防（救济与纠正，一般轨迹锁定，然后在使用处的自愿公开问责表达）；锁定设计与执行（定义与附着、相称性与校准、记录可见性与升级、特殊违规规则，以及特殊锁定）；贡献后果（近时性与当前性，然后能力门槛与许可）；最终轨迹效果；恢复与再评估；执行现实性与救济系统；模式应用与问题 3 路由。
 >
 > **尽责管理入口（非操作性）：** 有约束力的下一步声明：[操作性尽责管理声明](#operative-steward-statement-remedy)。[`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md) 中的支持性指针不得收窄它。

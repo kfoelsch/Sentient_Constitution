@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce İkinci Bölüm](../../core_02_definition_structure.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_02_definition_structure.md`](../../core_02_definition_structure.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Önceki (bu dil):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değil): tanım yığını ve İkinci Bölümün nerede yaşadığı</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > **İkinci Bölümden Beşinci Bölüme** anayasal tanım yığınını oluşturur; **[CJS](../../corpus_joint_structure.md)** onu uygulayan işlemsel tanımları taşır:
 > - **İkinci Bölüm (bu dosya)** — O/M/A/C tanım yapısı ve bileşen hizalaması: her tanım **Ontolojik (O)** (nedir) ile **Ölçüm (M)** sicilini **Değerlendirme (A)** ödevine örülü (nasıl ölçülmeli ve değerlendirilmeli) ve **Uyum (C)** (neyin geçerli kalması gerekir) ile bağlar ([§1 Amaç ve rol](core_02_definition_structure.md#1-purpose-and-role); [§2 Tanım bütünlüğü gereği](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **Üçüncü Bölüm** — tanım bütünlüğü, kaçınma ve uyumsuzluk ([Üçüncü Bölüm](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).

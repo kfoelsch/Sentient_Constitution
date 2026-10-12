@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스에서의 위치(비운영): 파일 구조와 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 이 파일은 [영어 제7장 B부분](../../core_08_b_system_alignment_certification_record_process.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제7장, B부분**을 담습니다 — 인증 **기록** 내용, 투명과 다툴 수 있음, 포럼 구성 요소 역할, 감독 순서, 궤적 다리, 재개방 (**§11–§16**, A부분 §1–§10에서 이어짐). **A부분** — 평가 요건 — 은 [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)에 있습니다.

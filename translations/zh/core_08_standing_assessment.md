@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > 本文件是[英语第八章](../../core_09_standing_assessment.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > 本文件引入轨迹链的三个问题，回答问题 1（*发生了什么？*），并回答问题 2（*有多好或多坏？*）。问题 3（*因此发生什么？*）续见于[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)；对违规轴 `s` = 7–9 的合格认定，仅指定审查见[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)。
@@ -21,8 +19,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：第八章所在位置与本章保留者</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本章或其他章节中有约束力的义务。
->
 > | 问题 | 主责与角色 |
 > | --- | --- |
 > | **1. 发生了什么？** | 在一份有界、可质疑的记录中确立经核实事实。 |

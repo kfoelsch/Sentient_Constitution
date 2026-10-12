@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Delapan bahasa Inggris](../../core_09_standing_assessment.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > Memperkenalkan tiga pertanyaan rantai jejak, menjawab Pertanyaan 1 (*apa yang terjadi?*), dan menjawab Pertanyaan 2 (*seberapa baik atau seberapa buruk?*). Pertanyaan 3 (*apa yang terjadi karenanya?*) berlanjut di [Bab Sembilan](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration), dengan tinjauan hanya-penunjukan di [Bab Sepuluh](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) bagi temuan Sumbu Pelanggaran yang memenuhi syarat `s` = 7–9.
@@ -21,8 +19,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): di mana Bab Delapan hidup dan apa yang tetap di sini</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di bab ini atau di bab lain.
->
 > | Pertanyaan | Pemilik dan peran |
 > | --- | --- |
 > | **1. Apa yang terjadi?** | Tetapkan fakta terverifikasi dalam catatan berbatas yang dapat digugat. |
@@ -907,8 +903,6 @@ Tabel perutean di bawah tidak lengkap. Setiap definisi, prinsip, atau Pasal tamb
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): bagaimana progresi lima-kali bekerja</span></strong></summary>
 
-> Panduan ini membantu pembaca menafsir skala. Ia tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat.
->
 > Skala memakai progresi lima-kali yang dijangkar pada `s` = 7 = satu LEQU. Bagi kedua sumbu, magnitudo minimum bagi slot `s` adalah `5^(s−7)` LEQU bagi slot 2 sampai 9; slot 1 mulai pada nol. Implementasi yang diadopsi boleh menerbitkan ambang numerik yang dihasilkan dan contoh kalibrasi. Slot 1 mencakup garis dasar konstitusional terverifikasi pada Sumbu Kontribusi dan kerugian terverifikasi di bawah ambang positif pertama pada Sumbu Pelanggaran; ketiadaan kontribusi atau ketiadaan pelanggaran bukan sendiri catatan `s` = 1.
 >
 > **Jangkar yang dapat dibaca manusia.** Memakai masa hidup manusia 80 tahun sebagai contoh kalibrasi, baca kolom tengah ke atas sebagai manfaat setara-masa-hidup-penuh, waktu yang dapat dipakai, atau sumber daya dan kapasitas konsisten-hak yang ditambahkan; baca ke bawah sebagai kerugian, perampasan, pemborosan, atau penutupan setara. Kuantitas sumber daya tidak dihitung dengan sendirinya—hasil konstitusional yang ia hasilkan atau cegah yang menguasai.

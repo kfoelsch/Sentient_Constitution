@@ -1819,6 +1819,87 @@ Pasal ini menetapkan perlindungan dari penguasaan dan kaitannya dengan pemisahan
 
   Jika satu makhluk sadar, jabatan, atau blok memegang kursi-kursi yang wajib dipisahkan, atau mengendalikan pemegang kursi tersebut, hal itu juga merupakan tanda penguasaan struktural menurut Pasal ini.
 
+
+#### Pasal XII-E: Batas Kontak Pengaruh dan Lobi
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
+
+- Prinsip hulu: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Pemerintahan di Bawah Disiplin Pengelolaan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), dan [§19 Penyelarasan Insentif dan Penguasaan Sistem](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Baca bersama: [Pasal XII-D](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Perlindungan Anti-Penguasaan*); [Pasal XII-B](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Partisipasi Berbobot dan Batas Anti-Partisipasi Simbolis*); [Pasal X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agensi dan Kebebasan dari Manipulasi*); [Pasal IX-A](../../core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Kepemilikan Diri atas Rupa dan Reputasi*); [Pasal XIII-E](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*Sistem Otonomi Tinggi dan Integritas Proses Bermediasi Alat*); [Pasal XV](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Integritas Ruang Informasi*); [Bab Sebelas §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*Membanjiri ruang dan menutup jalur sanggahan*), [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*Pembanjiran ruang informasi*), dan [§5.5](../../core_11_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Suap dan pertukaran manfaat yang tidak patut*); [Bab Tujuh](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties); [Bab Tiga Belas §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Kelayakan, pemilihan yang disengketakan, dan minimum demokratis*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Penguasaan Sistem](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anti-Penguasaan](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Dapat Disanggah](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Dapat Diaudit](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Keadilan Prosedural](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Pihak Berkepentingan](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+
+</details>
+
+<br>
+
+*Secara sederhana: **Pasal XII-E** (*Batas Kontak Pengaruh dan Lobi*) menetapkan standar minimum tentang cara sentient yang berkepentingan dapat mendekati pihak yang mengambil keputusan. Advokasi terbuka dilindungi. Pengaruh pribadi, tanpa pencatatan, dibeli, dipalsukan, atau diperbesar oleh mesin tidak dilindungi: kontak dicatat dan diungkapkan, tawaran manfaat dan ancaman merupakan konflik kepentingan, pekerjaan di kemudian hari dari pihak yang pernah Anda putuskan harus menunggu masa jeda, dan sistem yang menghubungi harus menyatakan apa dirinya dan untuk siapa ia bertindak.*
+
+Pasal ini mengatur cara **pihak berkepentingan** mendekati sentient dan sistem yang memutuskan, meninjau, mengaudit, melakukan pengadaan, atau mendukung keputusan. Pasal ini berlaku bagi badan yang tercakup dan disebut dalam [**Pasal XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Perlindungan Anti-Penguasaan*), **otoritas pengangkat** dan **lembaga pengadopsi** mereka, berdasarkan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims):
+
+- **Pemekaran:** sentient yang terdampak memiliki cara nyata dan terbuka untuk didengar, termasuk yang tidak memiliki uang, staf, atau alat; keputusan bertumpu pada catatan terbuka, bukan akses pribadi.
+- **Keberlanjutan:** badan pengambil keputusan tetap tahan terhadap pengaruh diam-diam dari waktu ke waktu, baik melalui akses pribadi, tawaran manfaat, pekerjaan kemudian, dukungan palsu, atau otomatisasi berskala besar.
+
+Upaya yang sah berlangsung melalui [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), dengan skala sesuai [kepentingan material](core_00_preamble.md#material-stake):
+
+- **Partisipasi:** advokasi terbuka, petisi, dan komentar publik dilindungi; sentient yang terdampak tetap dapat mengakses badan mana pun yang wajib mendengar mereka.
+- **Pengawasan:** melalui catatan kontak, pengungkapan dalam catatan perkara, serta catatan tentang materi masuk yang diterima setiap sistem yang berkontribusi pada keputusan.
+- **Akuntabilitas:** pihak berkepentingan, operator, dan badan harus bertanggung jawab atas pendekatan pribadi, kontak yang disembunyikan, suara yang direkayasa, dan tawaran manfaat.
+- **Ketepatan waktu:** kontak diungkapkan tepat waktu agar peserta lain dapat menanggapi.
+
+*Pasal terkait:*
+
+- **Standar minimum anti-penguasaan:** [**Pasal XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Perlindungan Anti-Penguasaan*) mengatur komposisi, konflik kepentingan, pengunduran diri, peninjauan eksternal, dan pemberhentian. Pasal ini menambahkan aturan pendekatan pihak berkepentingan kepada badan yang sama.
+- **Bobot partisipasi:** [**Pasal XII-B**](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Partisipasi Berbobot dan Batas Anti-Partisipasi Simbolis*) melarang partisipasi simbolis. Banyaknya kontak juga bukan bukti dukungan menurut Pasal ini.
+- **Sistem dan informasi:** [**Pasal XIII-E**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*Sistem Otonomi Tinggi dan Integritas Proses Bermediasi Alat*) mengikat sistem pada aturan yang sama seperti pihak lain; [**Pasal XV**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Integritas Ruang Informasi*) mengatur lingkungan informasi bersama.
+- **Pendanaan pemilihan:** [Bab Tiga Belas §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Kelayakan, pemilihan yang disengketakan, dan minimum demokratis*) menetapkan batas pendanaan pemilihan melalui kampanye, nominasi, atau pengangkatan kompetitif.
+
+Pasal ini menetapkan standar minimum berikut:
+
+- **Cakupan:** standar ini berlaku untuk badan yang tercakup, **otoritas pengangkat**, dan **lembaga pengadopsi** mereka. Persyaratan disesuaikan dengan kepentingan material. Dokumen yang diajukan dalam catatan terbuka suatu perkara bukanlah kontak pengaruh; dokumen itu merupakan catatan.
+- **Batas kontak pengaruh:** badan yang tercakup, **otoritas pengangkat**, dan **lembaga pengadopsi** mereka harus menerbitkan aturan tentang **kontak pengaruh**. Kontak pengaruh adalah pendekatan oleh [**pihak berkepentingan**](../../core_05_band_accountability.md#interested-party) kepada anggota, anggota panel, staf, fasilitator, atau sumber pengarahan untuk memengaruhi perkara yang sedang atau dapat diperkirakan akan ditangani, di luar catatan terbuka perkara itu. Aturan disesuaikan dengan kepentingan material dan sekurang-kurangnya harus:
+  - **mencatat** setiap kontak pengaruh yang material: siapa yang menghubungi, kapan, melalui saluran apa, tentang perkara apa, serta ringkasan permintaan atau tawarannya;
+  - menyimpan catatan itu pada posisi yang independen dari anggota, anggota panel, atau staf yang dihubungi ([Bab Tujuh](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties));
+  - **mengungkapkan** kontak material dalam catatan perkara pada waktunya agar peserta lain dapat menanggapi;
+  - menjaga bukti dan argumen tetap berada dalam catatan terbuka: kontak pribadi tidak boleh memasok bukti atau argumen yang menjadi dasar keputusan;
+  - memperlakukan setiap tawaran hadiah, manfaat, atau peran di masa depan, serta setiap ancaman, sebagai konflik kepentingan yang harus diungkapkan, ditolak, dan dirujuk menurut **CI-5** (*Integritas konflik kepentingan, anti-penguasaan, dan anti-korupsi*), bukan sebagai kontak biasa; dan
+  - melindungi advokasi terbuka, petisi, dan komentar publik yang tercatat, serta akses sentient terdampak ke badan mana pun yang wajib mendengar mereka. Aturan ini tidak boleh digunakan untuk membatasi hal yang dapat dikatakan sentient terdampak tentang kepentingannya sendiri.
+- **Konflik pascalayanan dan peran mendatang:**
+  - **Konflik peran mendatang:** membahas peran, pekerjaan, kontrak, atau manfaat di kemudian hari dengan [**pihak berkepentingan**](../../core_05_band_accountability.md#interested-party) ketika perkaranya sedang ditangani oleh seorang anggota, anggota panel, atau staf merupakan konflik kepentingan. Konflik harus diungkapkan, dan orang tersebut harus mengundurkan diri sampai posisi independen menyatakan konflik selesai.
+  - **Aturan pascalayanan:** badan yang tercakup dan **lembaga pengadopsi** juga harus menerbitkan aturan pascalayanan yang disesuaikan dengan kepentingan material. Aturan ini melarang penerimaan peran atau manfaat dari pihak berkepentingan sehubungan dengan perkara yang pernah ditangani, sampai masa jeda berakhir atau posisi independen mengizinkan tawaran tersebut melalui keputusan yang diterbitkan.
+  - **Masa jeda standar:** **lima tahun** sejak keterlibatan terakhir anggota, anggota panel, atau staf dalam perkara tersebut berakhir.
+  - **Perubahan masa:** lembaga pengadopsi dapat menetapkan masa yang lebih lama. Masa yang lebih singkat hanya dapat ditetapkan jika kepentingan material rendah, dan alasannya harus diterbitkan.
+- **Pendekatan otomatis, buatan, dan massal:** kontak pengaruh yang dilakukan oleh, melalui, atau pada skala sistem tetap merupakan kontak pengaruh seperti yang lain, dengan aturan tambahan berikut:
+  - **Atribusi:** kontak yang dibuat atau dikirim oleh sistem harus menyatakan hal itu, menyebut **pihak berkepentingan** yang diwakilinya, dan menyebut sentient yang mengizinkannya. Sentient sintetis yang berbicara untuk dirinya sendiri setara dengan sentient lain. Jika bertindak untuk operator atau prinsipal lain, prinsipal tersebut bertanggung jawab atas kontak itu.
+  - **Hanya suara nyata:** tidak seorang pun boleh mendekati badan yang tercakup dengan identitas palsu, pendukung rekaan, kesaksian yang ditiru atau sintetis, atau kelompok akar rumput yang dibuat-buat. Larangan ini berlaku baik satu pihak bertindak sendiri maupun beberapa pihak bertindak bersama.
+  - **Penggunaan asistif:** sentient yang menggunakan sistem untuk menyusun, menerjemahkan, atau mengirim pesannya sendiri dan menyetujuinya melakukan kontak atas namanya sendiri.
+  - **Kontak massal:** jika pendekatan yang sama atau secara substansial serupa mencapai badan dalam jumlah besar, badan mencatatnya sekali sebagai satu kampanye. Catatan menyebut sponsor, pendanaan, metode, volume, dan jumlah sentient unik yang telah diverifikasi. Volume bukan bukti dukungan. Badan hanya boleh mengandalkan dukungan sebatas jumlah sentient unik yang terverifikasi.
+    - **Batas standar untuk “jumlah besar”:** badan menerbitkan ambangnya sendiri. Sampai ambang itu ditetapkan, pendekatan yang sama atau secara substansial serupa dianggap massal jika menjangkau lebih dari seperempat anggota badan, atau mencapai badan 50 kali atau lebih dalam satu perkara, oleh atau untuk pihak berkepentingan yang sama.
+  - **Saluran:** badan yang tercakup harus menerbitkan saluran terautentikasi untuk masukan pada catatan. Badan dapat membatasi laju, menghapus duplikasi, dan memisahkan masukan yang melanggar aturan ini. Pendekatan otomatis kepada anggota, anggota panel, staf, fasilitator, atau sumber pengarahan melalui saluran pribadi dilarang.
+  - **Sistem di pihak pengambil keputusan:** jika badan menggunakan sistem untuk menerima, memilah, merangkum, atau menyusun draf bagi keputusan, pendekatan yang bertujuan mengarahkan sistem itu alih-alih memberi informasi kepada pengambil keputusan merupakan kontak pengaruh. Ini termasuk instruksi tersembunyi dalam materi yang diajukan, data beracun, dan konten yang dirancang untuk memanipulasi peringkat. Badan harus memperlakukan materi yang diajukan sebagai bukti, bukan instruksi; menjaga agar setiap keluaran dapat ditelusuri ke catatan sumber; dan mengungkapkan materi masuk yang diterima sistem yang berkontribusi pada keputusan. Kontak antara sistem pihak berkepentingan dan sistem badan dicatat seperti kontak antarsentient.
+  - **Tanggung jawab:** pihak berkepentingan dan operator yang menerapkan sistem sama-sama bertanggung jawab atas kontak itu. Ketidaktahuan bukan pembelaan jika risiko yang jelas diabaikan.
+- **Badan yang dipilih melalui undian:** anggota terpilih pada badan undian dikenai tingkat standar paling ketat. Kontak pribadi tentang perkara dilarang kecuali melalui catatan pengarahan terbuka sebagaimana diwajibkan [Bab Tiga Belas](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
+- **Penegakan dan perujukan:**
+  - **Pemicu integritas:** kontak pengaruh tersembunyi, tawaran manfaat, dan suara rekaan dirujuk sebagai pemicu integritas menurut **CI-5** (*Integritas konflik kepentingan, anti-penguasaan, dan anti-korupsi*) serta **CJS-3.6** (*jaminan integritas dan operasi ketahanan*).
+  - **Jalur pelanggaran:** pembanjiran dengan suara tidak autentik secara sengaja atau ceroboh, serta suap atau pertukaran manfaat yang tidak patut, dapat diajukan sebagai **pelanggaran anti-konstitusional** menurut Bab Sebelas apabila dibuktikan berdasarkan kriteria **Bab Dua sampai Empat** dan **Bab Sebelas**.
+  - **Integritas didahulukan dan larangan mengadili diri sendiri:** aturan perujukan dan anti-pengadilan-diri dalam [**Pasal XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Perlindungan Anti-Penguasaan*) berlaku. Tidak satu pun badan boleh menjadi satu-satunya forum final yang memutuskan apakah anggota atau stafnya sendiri telah didekati secara tidak patut.
+- **Perujukan kelembagaan:** aturan terperinci ditetapkan oleh:
+  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Pengangkatan, kompetensi, rotasi, dan pemberhentian*), termasuk **CI-4.2** (*Kriteria peran, standar pengangkatan, dan jalur pemberhentian*) untuk aturan pascalayanan;
+  - **CI-5** (*Integritas konflik kepentingan, anti-penguasaan, dan anti-korupsi*);
+  - **CJS-3.6** (*jaminan integritas dan operasi ketahanan*), *batas kontak pengaruh dan lobi*;
+  - untuk panel forum, **CF-4** (*Pembentukan panel, pengungkapan, pengunduran diri, dan pembentukan majelis yang sah*) serta **CF-7** (*Perlindungan integritas, operasi anti-penguasaan, dan dukungan anti-pengadilan-diri*) dalam [corpus_forum.md](../../corpus_forum.md).
+
 ---
 
 **Berkas sebelumnya:** [core_06_rights_part_a.md](core_06_rights_part_a.md)

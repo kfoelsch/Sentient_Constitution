@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">করপাসে অবস্থান (অ-কার্যকরী): ফাইলের গঠন ও পড়ার নিয়ম</span></strong></summary>
 
-> নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই ফাইল বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
->
 > এই ফাইল [ইংরেজি অধ্যায় সাত, অংশ ক](../../core_08_a_system_alignment_certification_evaluation.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
 >
 > এতে আছে **অধ্যায় সাত, অংশ ক** — প্রত্যয়ন **মূল্যায়ন** প্রয়োজনীয়তা (ব্যবস্থার শ্রেণি, পুরো-ব্যবস্থা উপাদান, ও ডোমেইন-মূল্যায়ন হুক)। **অংশ খ** — প্রত্যয়ন নথি, মঞ্চ প্রক্রিয়া, প্রস্থিতি সেতু, ও পুনরায় খোলা — আছে [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md)-এ।
@@ -40,1116 +38,1097 @@
 > **কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি।** **মালিক:** অধ্যায় সাত (মঞ্চ-তত্ত্বাবধানকৃত SAC)। নীতি-স্তর লেন্স: অধ্যায় এক §14। SAC অনুচ্ছেদ XVI / নিরীক্ষাযোগ্যতার অধীনে এক বিশেষ বড় নিরীক্ষা প্রক্রিয়া — একমাত্র নিরীক্ষা নয়। **নিষিদ্ধ পদক্ষেপ:** ইউনিট পরীক্ষা, গোপনীয়তা চেকলিস্ট, বা স্থানীয় সারিবদ্ধ-লেবেলকে প্রত্যয়ন গণ্য করবেন না। চ্যালেঞ্জ জানালা এড়াবেন না। পঞ্চম নিরীক্ষা ঘর আবিষ্কার করবেন না। প্রত্যয়ন ব্যাজ বা LEQU স্কোরকে সংজ্ঞতা-অবস্থা গণ্য করবেন না। **ঘড়ি:** সারিবদ্ধ দাবির আগে এক চ্যালেঞ্জযোগ্য অধ্যায় সাত পথ খুলুন বা পুনরুদ্ধার করুন, প্রভাবিত পক্ষের চ্যালেঞ্জ জানালা সহ।
 
 <a id="1-purpose-and-role"></a>
+
 ### 1. উদ্দেশ্য ও ভূমিকা
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">অনুসরণসূত্র</span></strong></summary>
 
-- ঊর্ধ্ব: [প্রস্তাবনা — ধনাত্মক স্বত্বাধিকারী পঞ্জি](core_00_preamble.md#4-principles-definitions-and-rights) এবং [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ অনুক্রম](core_05_band_integrative.md#authority-stack); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত বাজি](core_00_preamble.md#material-stake); [আনুপাতিকতা](core_05_band_accountability.md#proportionality) ও [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) (অধ্যায় পাঁচ); অংশগ্রহণ পরিমাপ পরিবার (*কণ্ঠ, প্রবেশ, ও চ্যালেঞ্জ পথ*); [অধ্যায় এক §9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [অধ্যায় এক §14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*নীতি-স্তর পুরো-ব্যবস্থা মূল্যায়ন লেন্স — শুধু এক কোণ নয়*); অধ্যায় দুই থেকে চার; [অধ্যায় পাঁচ](core_05__definitions_home.md#chapter-five-foundational-definitions) (*প্রামাণিক সংজ্ঞা*); [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) (অধ্যায় পাঁচের প্রামাণিক পদ; অ-কার্যকরী সংক্ষেপ **SAC**); [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional) (অধ্যায় পাঁচের অর্থ)।
-- অধঃ: [§2](#2-system-class-evaluation) ও [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*ব্যবস্থা-শ্রেণি মূল্যায়ন ও উদাহরণমূলক রূপরেখা*); [§3.8](#38-illustrative-whole-system-application-by-class) (*শ্রেণি অনুসারে কাজ-করা পুরো-ব্যবস্থা উদাহরণ*); [§4.1](#41-illustrative-data-handling-application-by-class) (*শ্রেণি অনুসারে কাজ-করা তথ্য-পরিচালনা উদাহরণ*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*শ্রেণি অনুসারে কাজ-করা পরিবেশগত-পদচিহ্ন উদাহরণ*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*শ্রেণি অনুসারে কাজ-করা আন্তঃব্যবস্থা-সহায়তা উদাহরণ*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*শ্রেণি অনুসারে কাজ-করা বৈষম্যহীনতা উদাহরণ*); [§8.1](#81-illustrative-accessibility-application-by-class) (*শ্রেণি অনুসারে কাজ-করা প্রবেশযোগ্যতা উদাহরণ*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*শ্রেণি অনুসারে কাজ-করা শিক্ষামূলক-ক্ষমতা উদাহরণ*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*শ্রেণি অনুসারে কাজ-করা বিশ্বাসযোগ্যতা উদাহরণ*); [§3](#3-whole-system-certification-evaluation) (*পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন উপাদান*); [§4](#4-data-types-and-handling-evaluation) থেকে [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ডোমেইন মূল্যায়ন*); [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*প্রত্যয়ন নথির বিষয়বস্তু*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা প্রয়োজনীয়তা*); [অংশ খ §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*মঞ্চ উপাদান ভূমিকা*); [অংশ খ §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*তত্ত্বাবধান ক্রম ও চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*প্রস্থিতি-নথি সেতু*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*পুনরায় খোলা ও এড়ানো-নিরোধ*); [অধ্যায় আট](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*প্রস্থিতি নথি ও যাচাইকৃত-উপকরণ দরজা*); [অধ্যায় নয়](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*প্রস্থিতি প্রভাব ও সংহতি*); [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*মঞ্চ তত্ত্বাবধান, প্রত্যয়ন, সারিবদ্ধতা স্বীকৃতি, ও পর্যালোচনা*)।
-- সঙ্গে পড়ুন: [corpus_systems.md](../../corpus_systems.md), বিশেষত **CS-3 — System classification and handling**, **CS-2 — Information types and handling**, এবং **CS-5**; [corpus_forum.md](../../corpus_forum.md), বিশেষত **CF-5** (*রাউটিং অপারেশন, স্থানান্তর, প্রত্যয়ন, ও প্রতিনিধিত্বমূলক ব্যবহার*) এবং **CF-7** (*সততা সুরক্ষা, দখল-নিরোধ অপারেশন, ও আত্ম-বিচার-নিরোধ সহায়তা*); **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) এবং [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) (*নিরীক্ষা তল — SAC তত্ত্বাবধানের অধীনে এক বিশেষ বড় নিরীক্ষা প্রক্রিয়া, একমাত্র নিরীক্ষা ঘর নয়*); **CJS-3.3**–**CJS-3.5** (*নিরীক্ষাযোগ্যতা, নিরীক্ষা-প্রবেশ, ও স্বাধীন-যাচাই পদ*)।
+- ঊর্ধ্বসূত্র: [প্রস্তাবনা — সাংবিধানিক মালিক-নিবন্ধন](core_00_preamble.md#4-principles-definitions-and-rights) এবং [কর্তৃত্ব-স্তূপ ও অভ্যন্তরীণ অনুক্রম](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত বাজি](core_00_preamble.md#material-stake); [আনুপাতিকতা](core_05_band_accountability.md#proportionality) এবং [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness) (অধ্যায় পাঁচ); অংশগ্রহণ পরিমাপ পরিবার (*কণ্ঠ, প্রবেশাধিকার ও চ্যালেঞ্জের পথ*); [অধ্যায় এক §16 দায়িত্বশীল ব্যবস্থাপনার গভীরতর আলোচনা](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [অধ্যায় এক §12 পদ্ধতিগত মূল্যায়নের আবশ্যকতা](core_01_a_values_principles.md#12-systemic-evaluation-requirement) (*নীতিস্তরে সমগ্র ব্যবস্থা মূল্যায়নের দৃষ্টিভঙ্গি — শুধু একটি দিক নয়*); অধ্যায় দুই থেকে চার; [অধ্যায় পাঁচ](core_05__definitions_home.md#chapter-five-foundational-definitions) (*প্রামাণিক সংজ্ঞা*); [অধ্যায় সাত §2 চার-আসনের সাংবিধানিক অধিকার-তল](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); [ব্যবস্থার সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification) (অধ্যায় পাঁচের প্রামাণিক পরিভাষা; অ-কার্যকরী সংক্ষিপ্ত রূপ **SAC**); [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record) (অধ্যায় পাঁচের অর্থে)।
+- নিম্নমুখী সূত্র: [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); [অংশ B §9.1](core_08_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*প্রত্যয়নের বিরুদ্ধে চ্যালেঞ্জ*); এবং [অংশ C-এর ব্যবস্থা-শ্রেণির প্রোফাইল](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*ব্যবস্থা-শ্রেণির দৃষ্টান্তমূলক প্রোফাইল*); [অংশ C-এর সমগ্র-ব্যবস্থা অনুসরণচিত্র](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুসারে সমগ্র ব্যবস্থার কাজ করা উদাহরণ*); [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুসারে তথ্য ব্যবস্থাপনার উদাহরণ*); [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুসারে পরিবেশগত পদচিহ্নের উদাহরণ*); [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুসারে শিক্ষাগত সক্ষমতার উদাহরণ*); [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুসারে আন্তঃব্যবস্থা সহায়তার উদাহরণ*); [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুসারে বৈষম্যহীনতার উদাহরণ*); [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুসারে প্রবেশগম্যতার উদাহরণ*); [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুসারে বিশ্বাসযোগ্যতার উদাহরণ*); [§3](#3-whole-system-certification-evaluation) (*সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়নের উপাদান*); [§3.4](#34-data-types-and-handling-evaluation) থেকে [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) পর্যন্ত (*বিভিন্ন ক্ষেত্রের মূল্যায়ন*); [অংশ B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*তত্ত্বাবধানের ক্রম ও চ্যালেঞ্জের শৃঙ্খল*); [অংশ B §6.1](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*ফোরামের উপাদানগুলির ভূমিকা*); [অংশ B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*প্রত্যয়ন নথির বিষয়বস্তু*); [অংশ B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*নথির অখণ্ডতার আবশ্যকতা*); [অংশ B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*পুনরায় খোলা ও ফাঁকি প্রতিরোধ*); [অংশ B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*প্রস্থিতি-নথির সংযোগ*); [অধ্যায় নয়](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*প্রস্থিতি-নথি ও যাচাইকৃত-ইনপুটের প্রবেশদ্বার*); [অধ্যায় দশ](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*প্রস্থিতির প্রভাব ও সংহতি*); [অধ্যায় বারো](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*ফোরামের তত্ত্বাবধান, প্রত্যয়ন, সারিবদ্ধতা প্রত্যয়ন ও পর্যালোচনা*)।
+- সঙ্গে পড়ুন: [corpus_systems.md](corpus_systems.md), বিশেষত **CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা**, **CS-2 — তথ্যের ধরন ও ব্যবস্থাপনা**, এবং **CS-5** (*ব্যবহারকারীমুখী সক্ষমতার ক্ষেত্র*); [corpus_forum.md](corpus_forum.md), বিশেষত **CF-5** (*রাউটিং, স্থানান্তর, প্রত্যয়ন ও প্রতিনিধিত্বমূলক আচরণ*) এবং **CF-7** (*অখণ্ডতা সুরক্ষা, দখল প্রতিরোধ ও আত্মবিচার প্রতিরোধী সহায়তা*); **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) এবং [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) (*নিরীক্ষার অধিকার-তল — SAC তত্ত্বাবধানের অধীনে বিশেষভাবে বড় একটি নিরীক্ষা প্রক্রিয়া, একমাত্র নিরীক্ষা-ভিত্তি নয়*); **CJS-3.3** (*তত্ত্বাবধান: নিরীক্ষাযোগ্যতা ও পুনর্গঠনযোগ্যতার পরিভাষা (পরিশিষ্ট)*) থেকে **CJS-3.5** (*তত্ত্বাবধান: স্বাধীন যাচাই ও দাবির অখণ্ডতার পরিভাষা*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: কোনো ব্যবস্থা সংজ্ঞ প্রাণীর জীবনে সত্যি মানে রাখলে প্রত্যয়নকে **আনুপাতিক** হতে হয় — ব্যবস্থার আসল প্রভাব, নির্ভরতা ও ঝুঁকি যত কঠোর চায় তত কঠোর, সবার জন্য এক চেকলিস্ট বা রাবার স্ট্যাম্প নয়। একে **অংশগ্রহণমূলক**ও হতে হয় — প্রভাবিত সংজ্ঞ প্রাণী ও সম্প্রদায়কে দেখতে হবে কী পর্যালোচিত হয়েছে, বুঝতে হবে কী সিদ্ধান্ত হয়েছে, আর কিছু ভুল হলে চ্যালেঞ্জ করতে পারতে হবে। মঞ্চ প্রমাণ পর্যালোচনা করে, প্রত্যয়ন নথিতে লেখে, এবং ব্যবস্থা কতটা ঝুঁকিপূর্ণ তার সঙ্গে মিলিয়ে ছন্দে পুনঃপরীক্ষা চায়। প্রত্যয়ন জনপ্রিয়তা স্কোর নয়, চিরকালের পাস নয়, অধিকার পর্যালোচনা এড়ানোর পথও নয়। এটি সময়-আবদ্ধ, চ্যালেঞ্জযোগ্য বিবৃতি: ব্যবস্থার সারিবদ্ধতা নিয়ে এখন কী জানা। চতুষ্কের **তত্ত্বাবধান** পার অধীনে তত্ত্বাবধান নিরীক্ষা চায়; ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন অন্যান্যের মধ্যে এক বিশেষ বড়, উচ্চ-বাজির নিরীক্ষা প্রক্রিয়া — একমাত্র নিরীক্ষা ঘর নয় (**অনুচ্ছেদ XVI**, [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability))।*
+*সহজ ভাষায়: কোনো ব্যবস্থা যখন সংজ্ঞ প্রাণীদের জীবনে সত্যিই গুরুত্বপূর্ণ প্রভাব ফেলে, তখন প্রত্যয়ন হতে হবে **আনুপাতিক** — ব্যবস্থার প্রকৃত প্রভাব, নির্ভরতা ও ঝুঁকি যতটা দাবি করে ততটাই কঠোর; সবার জন্য এক মাপের তালিকা বা প্রশ্নহীন অনুমোদন নয়। এটি **অংশগ্রহণমূলকও** হতে হবে — প্রভাবিত সংজ্ঞ প্রাণী ও সম্প্রদায়কে জানতে হবে কী পর্যালোচনা হয়েছে, সিদ্ধান্তটি বুঝতে হবে এবং ভুল হলে চ্যালেঞ্জ করতে পারতে হবে। ফোরামগুলো প্রমাণ পর্যালোচনা করে, তা প্রত্যয়ন নথিতে লেখে এবং ব্যবস্থার ঝুঁকি অনুযায়ী পুনঃপরীক্ষার সময়সূচি নির্ধারণ করে। A, B ও C শ্রেণিতে সম্পূর্ণ প্রক্রিয়া চলে; L শ্রেণিতে তুলনামূলক হালকা প্রক্রিয়া। P শ্রেণিকে এটি ব্যবহারে উৎসাহিত করা হয়; তবে প্রভাব ব্যক্তিগত এককের বাইরে পৌঁছালে বা পরিচালনাকারী সাংবিধানিক অনুবর্তিতার দাবি করলে এটি বাধ্যতামূলক হয়।*
 
-<a id="1-purpose-and-role"></a>
+*প্রত্যয়ন জনপ্রিয়তার মাপকাঠি নয়, চিরস্থায়ী ছাড়পত্র নয়, এবং অধিকার পর্যালোচনা এড়ানোর উপায়ও নয়। এটি নির্দিষ্ট সময়ের জন্য কার্যকর, চ্যালেঞ্জযোগ্য এমন একটি বিবৃতি—এই মুহূর্তে ব্যবস্থার সারিবদ্ধতা সম্পর্কে কী জানা আছে। চতুষ্কের **তত্ত্বাবধান**-অঙ্গে তত্ত্বাবধানের জন্য নিরীক্ষা আবশ্যক; ব্যবস্থার সারিবদ্ধতা প্রত্যয়ন অন্যান্য নিরীক্ষা প্রক্রিয়ার মধ্যে একটি বিশেষভাবে বড় ও উচ্চ-ঝুঁকির প্রক্রিয়া, নিরীক্ষার একমাত্র ভিত্তি নয় (**অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*), [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability))।*
 
-**ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন** থাকে এক প্রশ্নের উত্তর দিতে, এক বলা পরিসর ও পর্যালোচনা ছন্দের জন্য: ব্যবস্থা কি স্বীকৃতি, শর্তসাপেক্ষ স্বীকৃতি, বৈধকরণ, পুনঃবৈধকরণ, চলমান নির্ভরতা, মোতায়েন, বা শর্ত থেকে বস্তুগত মুক্তির জন্য যথেষ্ট সাংবিধানিক সারিবদ্ধতা দেখিয়েছে?
+**ব্যবস্থার সারিবদ্ধতা প্রত্যয়ন** নির্দিষ্ট পরিধি ও পর্যালোচনা-সময়সূচির জন্য একটি প্রশ্নের উত্তর দেয়: প্রত্যয়ন, শর্তসাপেক্ষ প্রত্যয়ন, যাচাই, পুনঃপ্রত্যয়ন, নির্ভরতা অব্যাহত রাখা, মোতায়েন, অথবা বস্তুগত শর্ত প্রত্যাহারের পক্ষে যথেষ্ট সাংবিধানিক সারিবদ্ধতা কি ব্যবস্থা দেখিয়েছে?
 
-তত্ত্বাবধানের যন্ত্র হিসেবে প্রত্যয়ন [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) ও **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)-এর অধীনে এক বিশেষ বড় নিরীক্ষা প্রক্রিয়া: মঞ্চ-তত্ত্বাবধানকৃত, বহু-ডোমেইন, ও স্বীকৃতি-বহনকারী। এটি সহোদর নিরীক্ষা মোড গ্রাস বা স্থলাভিষিক্ত করে না (**CS-3**-এর অধীনে ব্যবস্থা শ্রেণিবিন্যাস নথি নিরীক্ষা, **CS-2**-এর অধীনে ব্যবস্থা তথ্য-প্রকার নথি নিরীক্ষা, জটিলতা ও দায়িত্বশীল ব্যবস্থাপনা নিরীক্ষা, দাবি যাচাই, এবং চলমান-নিরীক্ষা পথ সহ)।
+প্রত্যয়নের গভীরতা, নথির দায়ভার, পুনঃপ্রত্যয়নের বিরতি, অংশীজন পর্যালোচনা এবং চ্যালেঞ্জের পথকে [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর সঙ্গে [আনুপাতিকতা](core_05_band_accountability.md#proportionality) অনুসারে মেলাতে হবে:
 
-প্রত্যয়ন গভীরতা, নথি ভার, পুনঃবৈধকরণ ছন্দ, প্রভাবিত-পক্ষ পর্যালোচনা, ও চ্যালেঞ্জ পথকে [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে [আনুপাতিকতা](core_05_band_accountability.md#proportionality) অনুসারে স্কেল করতে হয়। উচ্চতর প্রভাব, উচ্চতর নির্ভরতা, ও উচ্চতর ঝুঁকির ব্যবস্থায় শক্তিশালী প্রমাণ, পরিষ্কার নথি, ও আরও ব্যবহারযোগ্য অংশগ্রহণ লাগে — সারবস্তুগত প্রবেশযোগ্যতা, প্রভাবিত-পক্ষ মতামত, এবং কে ব্যবস্থার উপর নির্ভর করে সেই অনুসারে স্কেল করা চ্যালেঞ্জ রুট সহ। নিম্ন শ্রেণি ও সীমিত পরিসর এখনও সততার শ্রেণিবিন্যাস ও আনুপাতিক নিশ্চয়তা চায়; বাইরের প্রভাব থাকলে তারা বস্তুগত কর্তব্য থেকে মুক্ত পাস পায় না।
+- বেশি প্রভাব, নির্ভরতা ও ঝুঁকির ব্যবস্থায় শক্তিশালী প্রমাণ, স্পষ্টতর নথি ও বাস্তবে সম্ভব অংশগ্রহণ দরকার — এর মধ্যে কার্যকর প্রবেশগম্যতা, অংশীজনের মতামত এবং কারা ব্যবস্থার ওপর নির্ভর করে সে অনুযায়ী চ্যালেঞ্জের পথ অন্তর্ভুক্ত;
+- নিম্ন ব্যবস্থা-শ্রেণি ও সীমাবদ্ধ পরিধিতেও সৎ শ্রেণিবিন্যাস ও আনুপাতিক নিশ্চয়তা আবশ্যক; বাইরের প্রভাব থাকলে বস্তুগত দায় থেকে অব্যাহতি নেই।
 
-প্রত্যয়ন [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)কে [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-এর মধ্য দিয়ে কার্যকর করে:
+[CS-3 §3.5 পুনঃশ্রেণিবিন্যাসের আবশ্যকতা](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) অনুসারে প্রভাব-শ্রেণিভেদে প্রক্রিয়াটি প্রযোজ্য:
 
-- **[সমুন্নতি](core_00_preamble.md#flourishing)** — প্রত্যয়ন যাচাই করে স্বীকৃতি বা চলমান নির্ভরতা চুপচাপ অধিকার-তল হারাবে না বা সাংবিধানিকভাবে প্রাসঙ্গিক জীবনে ন্যায্য অংশগ্রহণ আটকাবে না;
-- **[সাতত্য](core_00_preamble.md#continuity)** — প্রত্যয়ন যাচাই করে স্থায়ী, পশ্চাৎগামী নয় এমন সরবরাহ এবং যেখানে ভাগ করা ব্যবস্থা দ্বার করে বা সরবরাহ টিকিয়ে রাখে সেখানে শ্রেণি-স্কেল করা পুনঃবৈধকরণ;
-- **অংশগ্রহণ** — প্রভাবিত সংজ্ঞ প্রাণী ও সম্প্রদায় তাদের কাছে মানে রাখে এমন পর্যালোচনা পথে বুঝতে, চ্যালেঞ্জ করতে, ও অংশ নিতে পারে;
-- **তত্ত্বাবধান** — নথি, প্রমাণ, ও অনুমান স্বাধীন পরীক্ষার জন্য যথেষ্ট দৃশ্যমান ও নিরীক্ষাযোগ্য; প্রত্যয়ন নিজে সেই তত্ত্বাবধান কর্তব্যের অধীনে এক বিশেষ বড় নিরীক্ষা প্রক্রিয়া, একমাত্র নয়;
-- **জবাবদিহি** — ত্রুটি, ভুল শ্রেণিবিন্যাস, ও তল-হারানো পরিচালনা তথ্য যেখানে সায় দেয় সেখানে প্রতিকার, শর্ত, প্রত্যাহার, বা প্রস্থিতি উপকরণে রাউট হয়;
-- **সময়ানুবর্তিতা** — পর্যালোচনা ও চ্যালেঞ্জ ঘড়ি প্রত্যয়নকে পুরনো হতে দেয় না যতক্ষণ ক্ষতি এখনও ঠেকানো বা উল্টানো যায়।
+- **A, B ও C শ্রেণি:** এদের প্রভাব, নির্ভরতা ও ঝুঁকি সর্বোচ্চ; [§3](#3-whole-system-certification-evaluation), [§4](#4-evaluations-where-implicated) এবং [§5](#5-rights-floor-and-domain-evaluations)-এর সমগ্র-ব্যবস্থা মূল্যায়ন, প্রত্যেকটি নিজ নিজ স্তর অনুযায়ী, পূর্ণ গভীরতায় বাধ্যতামূলক;
+- **L শ্রেণি:** একই মূল্যায়ন আনুপাতিকভাবে বাধ্যতামূলক; CS-3 অনুমতি দিলে পুনঃপরীক্ষার সাধারণ বিরতি দীর্ঘতর এবং নথি সরলতর হতে পারে; এবং
+- **P শ্রেণি:** বৈধভাবে P শ্রেণিতে থাকা অবস্থায় প্রক্রিয়াটি উৎসাহিত, এবং স্বেচ্ছায় ব্যবহার করা যায়। L বা তার ঊর্ধ্বে পুনঃশ্রেণিবিন্যাস হলে, অথবা পরিচালনাকারী স্বেচ্ছায় ব্যবস্থার সাংবিধানিক অনুবর্তিতার দাবি করলে, এটি বাধ্যতামূলক হয়।
 
-এই অধ্যায় মঞ্চ-তত্ত্বাবধানকৃত প্রত্যয়ন প্রক্রিয়া চালায়:
+প্রত্যয়ন [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) বাস্তবায়ন করে [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-এর মাধ্যমে:
 
-- **ব্যবস্থার শ্রেণি ও পুনঃবৈধকরণ ছন্দ** — কত কঠোর দেখা হয় ও কত ঘনঘন ([§2](#2-system-class-evaluation));
-- **মূল্যায়ন** — পুরো-ব্যবস্থা ও ডোমেইন পরীক্ষা ([§3](#3-whole-system-certification-evaluation) থেকে [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation));
-- **প্রত্যয়ন নথির বিষয়বস্তু** — ফাইলে কী যেতে হয় ([অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **স্বীকৃতি ও চলমান নির্ভরতা** — কোন ফল গণ্য হয় ([§1](#1-purpose-and-role), [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **চ্যালেঞ্জ ও চ্যালেঞ্জ-যোগ্যতা** — চ্যালেঞ্জ মঞ্চ দিয়ে কীভাবে চলে ([অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability), [অংশ খ §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain));
-- **প্রত্যয়ন ত্রুটি** — প্রত্যয়ন ত্রুটিপূর্ণ হলে কী হয় ([অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) এবং জুড়ে মূল্যায়ন ধারা)।
+- **[সমুন্নতি](core_00_preamble.md#flourishing):** প্রত্যয়ন বা নির্ভরতা অব্যাহত রাখলে যেন অধিকার-তল নিঃশব্দে ব্যর্থ না হয় বা সাংবিধানিকভাবে প্রাসঙ্গিক জীবনে ন্যায্য অংশগ্রহণ বন্ধ না হয়, তা যাচাই করে;
+- **[সাতত্য](core_00_preamble.md#continuity):** সুস্থ প্রাকৃতিক ব্যবস্থা বজায় রাখে, নিঃশেষ করে না—এমন স্থায়ী ও অবনমনহীন সরবরাহ যাচাই করে ([পরিবেশগত অখণ্ডতা](core_05_band_continuity.md#ecological-integrity), যার মধ্যে [পরিবেশগত পুনরুদ্ধার-সক্ষমতা](core_05_band_continuity.md#ecological-recovery-capacity) রয়েছে); এবং যৌথ ব্যবস্থা সরবরাহ আটকে রাখলে বা টিকিয়ে রাখলে ব্যবস্থা-শ্রেণি অনুযায়ী পুনঃপ্রত্যয়ন নিশ্চিত করে;
+- **অংশগ্রহণ:** প্রভাবিত সংজ্ঞ প্রাণী ও সম্প্রদায় তাদের জন্য গুরুত্বপূর্ণ পর্যালোচনা-পথ বুঝতে, চ্যালেঞ্জ করতে ও তাতে অংশ নিতে পারে;
+- **তত্ত্বাবধান:** নথি, প্রমাণ ও অনুমান স্বাধীন যাচাইয়ের উপযোগী মাত্রায় দৃশ্যমান ও নিরীক্ষাযোগ্য; প্রত্যয়ন নিজেও তত্ত্বাবধানের অধীনে বড় একটি নিরীক্ষা, একমাত্রটি নয়;
+- **জবাবদিহি:** ত্রুটি, ভুল শ্রেণিবিন্যাস ও অধিকার-তল ব্যর্থকারী পরিচালনাকে প্রতিকার, শর্ত, প্রত্যাহার বা প্রস্থিতি-ইনপুটের দিকে পাঠানো হয়, যদি ঘটনা তা সমর্থন করে;
+- **সময়ানুবর্তিতা:** ক্ষতি প্রতিরোধ বা উল্টে দেওয়া সম্ভব থাকা পর্যন্ত পর্যালোচনা ও চ্যালেঞ্জের সময়সীমা প্রত্যয়নকে পুরোনো হয়ে যাওয়া থেকে রক্ষা করে।
 
-উদাহরণমূলক **Class A**, **Class B**, ও **Class C** রূপরেখা — এবং শ্রেণি কীভাবে এই অধ্যায় জুড়ে প্রত্যয়ন গভীরতা স্কেল করে — আছে [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এ। একই তিন ব্যবস্থার কাজ-করা চলন আছে [§3.8](#38-illustrative-whole-system-application-by-class) (*পুরো-ব্যবস্থা মূল্যায়ন*), [§4.1](#41-illustrative-data-handling-application-by-class) (*তথ্য প্রকার ও পরিচালনা*), [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*পরিবেশগত পদচিহ্ন*), [§6.1](#61-illustrative-cross-system-support-application-by-class) (*আনুপাতিক আন্তঃব্যবস্থা অবদান*), [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*বৈষম্যহীনতা*), [§8.1](#81-illustrative-accessibility-application-by-class) (*প্রবেশযোগ্যতা*), [§9.1](#91-illustrative-educational-capability-application-by-class) (*শিক্ষামূলক ক্ষমতা*), এবং [§10.1](#101-illustrative-trustworthiness-application-by-class) (*বিশ্বাসযোগ্যতা*)-এ।
+তত্ত্বাবধানের উপকরণ হিসেবে প্রত্যয়ন [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) এবং **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)-এর অধীন বড় একটি নিরীক্ষা প্রক্রিয়া:
 
-এই অধ্যায় যে অধিকার-তল যাচাই করতে সাহায্য করে তা আছে **§1.1**-এ।
+- এটি ফোরামের তত্ত্বাবধানে চলে, বহু ক্ষেত্র অন্তর্ভুক্ত করে এবং একটি মর্যাদা/অবস্থা প্রদান করে।
+- এটি সহোদর নিরীক্ষা-পদ্ধতির ফল একত্র করতে পারে, কিন্তু তাদের শোষণ বা প্রতিস্থাপন করে না। নিরীক্ষা-প্রক্রিয়ার মূল [সহোদর নিরীক্ষা-পদ্ধতির মালিক-মানচিত্রে](corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) প্রত্যেকটির পৃথক মালিক উল্লেখিত:
+  - **CS-2** (*তথ্যের ধরন ও ব্যবস্থাপনা*) অনুসারে ব্যবস্থা-তথ্যধরন নথির নিরীক্ষা;
+  - **CS-3** (*ব্যবস্থা শ্রেণিবিন্যাস ব্যবস্থা*) অনুসারে ব্যবস্থা-শ্রেণিবিন্যাস নথির নিরীক্ষা;
+  - **CS-4** (*গুরুত্বপূর্ণ ব্যবস্থার দায়িত্বশীল ব্যবস্থাপনা*) অনুসারে তত্ত্বাবধায়কের নিশ্চয়তা পর্যালোচনা;
+  - **CS-5** (*নকশা, পরীক্ষা, যাচাই ও মোতায়েন*)-এর অধীনে চলমান নিরীক্ষা ACA;
+  - **CS-6** (*বোধ্যতা ও জটিলতা ব্যবস্থাপনা*) এবং **অনুচ্ছেদ XXIII-B** (*জটিলতা নিরীক্ষা ও মডুলারিটির আবশ্যকতা*) অনুসারে জটিলতা নিরীক্ষা;
+  - **CJS-3.5** (*তত্ত্বাবধান: স্বাধীন যাচাই ও দাবির অখণ্ডতার পরিভাষা*) অনুসারে দাবি যাচাই।
+- প্রত্যয়ন প্রক্রিয়ায় না গিয়েও এসব পরীক্ষা আলাদাভাবে করা যায়। প্রত্যয়ন এগুলোর বিকল্প নয়।
 
+<a id="11-certification-at-a-glance"></a>
 
-<a id="11-rights-floors-this-chapter-helps-verify"></a>
-#### 1.1 এই অধ্যায় যে অধিকার-তল যাচাই করতে সাহায্য করে
+#### 1.1 এক নজরে প্রত্যয়ন
 
-যখন বস্তুগতভাবে প্রভাবশালী ব্যবস্থা সংজ্ঞ প্রাণী কীভাবে বাঁচে তা দ্বার করে বা গড়ে, প্রত্যয়ন পরীক্ষা করে তাদের অনুমোদন চুপচাপ অধ্যায় ছয়ের **অধিকার-তল** হারাবে না, সহ:
+*সহজ ভাষায়: ব্যবস্থাকে সৎভাবে শ্রেণিবদ্ধ করুন, প্রযোজ্য মূল্যায়ন চালান, ফোরামকে স্বাধীনভাবে প্রমাণ ও অংশীজনের উদ্বেগ পর্যালোচনা করতে দিন, তারপর ফল নির্ধারণ করুন। ফোরাম পর্যালোচনার জন্য খোলা একক নথিটি সম্পূর্ণ করে উন্মুক্ত চ্যালেঞ্জ-পথসহ প্রকাশ করুন। প্রত্যয়িত ব্যবস্থা কেবল নোটিশ-সময় ও প্রয়োজনীয় সুরক্ষা পূরণের পর চালু হবে। বাস্তব ফল পর্যবেক্ষণ করুন, ঘটনা ও চ্যালেঞ্জের জবাব দিন এবং নির্ধারিত সময়ে বা তথ্য বদলালে পুনরায় পরীক্ষা করুন। ত্রুটি সংশোধন করুন এবং প্রভাবিত পরিধির অনুমোদন বা শর্ত প্রত্যাহারের আগে সংশোধনটি স্বাধীনভাবে যাচাই করান। প্রতিটি পর্যালোচনা-পর্বে আগেরটির সঙ্গে সংযুক্ত নতুন নথি খুলতে হবে।*
 
-- **অনুচ্ছেদ III-A** (*বেঁচে থাকা*)-এর অধীনে **বেঁচে থাকার জরুরি জিনিস** — খাদ্য, জল, আশ্রয়, পরিচালন পরিবেশ, ও তুলনীয় ভিত্তিদেহ-নিরপেক্ষ উপকরণ;
-- **অনুচ্ছেদ III-B** (*সমান শিক্ষা প্রবেশ*)-এর অধীনে **সমান শিক্ষা প্রবেশ**;
-- **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*)-এর অধীনে **সংজ্ঞ-কেন্দ্রিক শিক্ষা ক্ষমতা** যেখানে ব্যবস্থা ক্রম দেয়, মূল্যায়ন করে, সুপারিশ করে, স্থাপন করে, শংসাপত্র দ্বার করে, বা পুনঃপ্রশিক্ষণ ও আজীবন-শেখা পথ বস্তুগতভাবে দ্বার করে;
-- **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*)-এর অধীনে **বৈষম্যহীনতা** যেখানে ব্যবস্থা সংজ্ঞ প্রাণীর মধ্যে শ্রেণিবিন্যাস, দ্বার, মূল্য, ক্রম, বা ভার ও লাভ বরাদ্দ করে;
-- **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*)-এর অধীনে **প্রবেশযোগ্যতা** যেখানে ব্যবস্থা সাংবিধানিকভাবে প্রাসঙ্গিক ক্ষেত্রে সারবস্তুগত অংশগ্রহণ দ্বার করে;
-- **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*)-এর অধীনে **নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থা আচরণ** যেখানে ব্যবস্থা উপস্থাপিত আচরণ, সীমা, ঝুঁকি, চ্যালেঞ্জ পথ, বা প্রতিকারে সংজ্ঞ নির্ভরতাকে বস্তুগতভাবে গড়ে;
-- **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তিরেখা*) এবং [**নিরাপদ শর্ত**](core_05_band_continuity.md#safe-conditions-constitutional)-এর অধীনে **নিরাপদ শর্ত** যেখানে ব্যবস্থা উৎপাদনমূলক কার্যকলাপ সরবরাহ বা দ্বার করে;
-- **অনুচ্ছেদ IV** (*সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*)-এর অধীনে **সম্পদ বরাদ্দ**, **অনুচ্ছেদ IV-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*)-এর অধীনে [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) সহ যেখানে ব্যবস্থা ভাগ করা অবকাঠামো বা ভিত্তি নির্ভরতা থেকে বরাদ্দ, রাউট, অর্থায়ন, বা নিষ্কাশন করে।
+প্রক্রিয়ার **ছয়টি পর্যায়**: **I কাঠামো নির্ধারণ**, **II মূল্যায়ন**, **III পর্যালোচনা**, **IV সিদ্ধান্ত**, **V নথিভুক্তকরণ** এবং **VI পরিচালনা**। II পর্যায়ে তিনটি স্তর, প্রতিটির আলাদা বিভাগ: **IIa** (সর্বদা), **IIb** (প্রাসঙ্গিক হলে) এবং **IIc** (শর্ত ট্রিগার হলে)। VI পর্যায়ে দুটি উপপর্যায়, প্রতিটির আলাদা বিভাগ: **VIa** (পরিচালনা ও পুনঃপ্রত্যয়ন, [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) এবং **VIb** (প্রস্থিতি-সংযোগ, [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing))। চিত্রে পুরো প্রত্যয়ন-প্রক্রিয়া এই ক্রমে দেখানো হয়েছে। অংশ A প্রথম দুই পর্যায়—কাঠামো নির্ধারণ ও মূল্যায়ন—নিয়ে; [অংশ B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) শেষ চারটি পর্যায়—ফোরাম প্রক্রিয়া, ফল ও চালুর অনুমোদনদ্বার, নথি এবং পরিচালনা (চ্যালেঞ্জ-পথ, পুনঃপ্রত্যয়ন ও পুনরায় খোলা, এবং প্রস্থিতি-সংযোগ)—নিয়ে।
 
-<a id="2-system-class-evaluation"></a>
+প্রযোজ্য প্রতিটি মূল্যায়ন প্রত্যয়নের প্রতিটি পর্বে আবার করতে হবে: প্রথম প্রত্যয়নে, [§2 ব্যবস্থা-শ্রেণি মূল্যায়ন](#2-system-class-evaluation)-এ নির্ধারিত সময়সূচি অনুসারে প্রতিটি পুনঃপ্রত্যয়নে, এবং পুনরায় খোলা বা নতুন প্রতিটি পর্যালোচনায়। পরবর্তী নির্ধারিত পুনঃপ্রত্যয়নের আগেই বস্তুগত তথ্য বদলালে—যেমন ব্যবস্থার ওপর নির্ভরতা বাড়া, যৌথ ভিত্তি থেকে আহরণ বাড়া, সেখানে ব্যবস্থার ফিরিয়ে দেওয়া উল্লেখযোগ্যভাবে কমা, অথবা বিশ্বাসযোগ্য চ্যালেঞ্জ ওঠা—পর্যালোচনা আবার খুলতে হবে। [অংশ B §9 পুনঃপ্রত্যয়ন ও পুনরায় খোলা](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)-এ ট্রিগারগুলো তালিকাভুক্ত।
 
-### 2. ব্যবস্থা-শ্রেণি মূল্যায়ন
+```mermaid
+flowchart TB
+    T(["বস্তুগত প্রভাবসম্পন্ন ব্যবস্থা প্রত্যয়ন চায়,<br/>অথবা তার ওপর নির্ভরতা বাড়ে"])
+    C["পর্যায় I, কাঠামো — §2<br/>সৎভাবে শ্রেণিবদ্ধ করুন<br/><br/>শ্রেণি গভীরতা ও পুনঃপরীক্ষার সময়সূচি নির্ধারণ করে"]
+    subgraph W["পর্যায় II, মূল্যায়ন — §3–§5 সমগ্র-ব্যবস্থা মূল্যায়ন"]
+        direction LR
+        Al["IIa, §3.1–§3.4 — সর্বদা<br/><br/>পদ্ধতিগত ঝুঁকি: মূল্যায়ন ও প্রকাশ<br/>যাদের জানা প্রয়োজন তাদের কাছে; সময়সীমা;<br/>শাসনব্যবস্থা; তথ্যের ধরন"]
+        Im["IIb, §4 — প্রাসঙ্গিক হলে<br/><br/>গোপনীয়তার ক্ষেত্র, প্রস্থান-অধিকার,<br/>সমাবেশ ও ভিন্নমত"]
+        Tr["IIc, §5 — ট্রিগার হলে<br/><br/>প্রযোজ্য অধিকার-তল যাচাই<br/>এবং ছয়টি ক্ষেত্রের মূল্যায়ন"]
+        Al ~~~ Im ~~~ Tr
+    end
+    F["পর্যায় III, পর্যালোচনা — §6<br/>প্রমাণ ও অংশীজনের উদ্বেগের<br/>স্বাধীন পর্যালোচনা<br/><br/>নির্ধারিত ফোরাম ফল জানায়;<br/>পর্যালোচনা ও চ্যালেঞ্জের পথ খোলা থাকে"]
+    Rec["পর্যায় V, নথি — §8<br/>একটি ব্যবস্থা-প্রত্যয়ন নথি<br/><br/>ফোরাম পর্যালোচনার জন্য খোলা; ফল,<br/>সমর্থক সিদ্ধান্ত, শর্ত ও পরিচালনা পরিকল্পনাসহ সম্পূর্ণ"]
+    S[["অধ্যায় নয় — প্রস্থিতি<br/>নথি<br/><br/>এই অধ্যায়ের বাইরে"]]
+    O{"পর্যায় IV, সিদ্ধান্ত — §7<br/><br/>প্রমাণ কোন ফল ও অবস্থাকে<br/>সমর্থন করে?"]
+    Fc["পূর্ণ প্রত্যয়ন — §7, §9.2<br/><br/>পরপর পরিচ্ছন্ন অস্থায়ী পুনঃপ্রত্যয়ন আবশ্যক;<br/>বর্তমান বা আসন্ন অসারিবদ্ধতার ইঙ্গিত নেই<br/>পুনঃপ্রত্যয়নের দীর্ঘতর মেয়াদ; শর্ত থাকতে পারে"]
+    Pc["অস্থায়ী প্রত্যয়ন — §7, §9.2<br/><br/>প্রথম অনুমোদন, অসারিবদ্ধতা থেকে পুনরুদ্ধার,<br/>অথবা অস্থায়ী অবস্থা অব্যাহত/নিম্নতর করা<br/>পুনঃপ্রত্যয়নের স্বল্পতর মেয়াদ; শর্ত থাকতে পারে"]
+    Nc["প্রত্যয়িত নয় — §7<br/><br/>স্থগিত, প্রত্যাখ্যাত, প্রত্যাহৃত বা মেয়াদোত্তীর্ণ<br/>চালু নয়; কারণ ও সংশোধনমূলক কাজ জানাতে হবে"]
+    Pub["সম্পূর্ণ নথি প্রকাশ — §7, §9.1<br/><br/>প্রকাশিত নথির চ্যালেঞ্জ-পথ খুলুন;<br/>নতুন বা সম্প্রসারিত পরিধিতে চালু ও নোটিশের কথা জানান"]
+    G{"চালুর অনুমোদনদ্বার — §7<br/><br/>প্রত্যয়ন ও প্রযোজ্য চালুর<br/>পূর্বশর্ত পূরণ হয়েছে কি?"]
+    Hold["চালুর পূর্বশর্ত পূরণ — §7<br/><br/>নোটিশ সম্পূর্ণ করুন এবং চালুর আগে আবশ্যক<br/>শর্ত স্বাধীনভাবে যাচাই করান"]
+    Rm["সুরক্ষা ও সংশোধন — §7, §9.2<br/><br/>প্রভাবিত পরিধিতে নতুন চালু নয়;<br/>প্রভাবিত সংজ্ঞ প্রাণীকে সুরক্ষা দিন, নকশা বা পরিচালনা সংশোধন করুন,<br/>স্বাধীন যাচাইয়ের জন্য প্রমাণ জমা দিন"]
+    Ch["পর্যায় VIa, পরিচালনা ও পুনঃপ্রত্যয়ন — §9–§9.2<br/>পর্যবেক্ষণ করুন ও চ্যালেঞ্জ খোলা রাখুন<br/><br/>প্রত্যয়িত পরিধি ও শর্তের মধ্যে পরিচালনা;<br/>ফল দেখুন এবং ঘটনা ও চ্যালেঞ্জের জবাব দিন"]
+    S2[["অধ্যায় নয় — প্রস্থিতি<br/>নথি<br/><br/>এই অধ্যায়ের বাইরে"]]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    Re["পরবর্তী পর্যালোচনা-পর্ব — §9<br/><br/>পুনঃপ্রত্যয়ন, পুনরায় খোলা বা নতুন পর্যালোচনা;<br/>প্রতিটি পর্বে আগেরটির সঙ্গে যুক্ত নতুন নথি খোলে"]
+    T --> C
+    A1((A)) --> C
+    C --> W
+    W --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, §10 —<br/>শুধু যাচাইকৃত ইনপুট;<br/>বর্তমান প্রত্যয়ন বা প্রত্যয়নের<br/>সময় উদ্ভূত তথ্য| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|প্রত্যয়িত নয়| Rm
+    G --->|হ্যাঁ: নথির<br/>পরিধির মধ্যে পরিচালনা| Ch
+    G --->|প্রত্যয়িত,<br/>পূর্বশর্ত অপেক্ষমাণ| Hold
+    Hold --> G
+    Ch -->|বস্তুগত ত্রুটি:<br/>সুরক্ষা ও সংশোধন| Rm
+    Ch -->|সময়সূচিতে, অথবা<br/>বস্তুগত পরিবর্তন বা<br/>বিশ্বাসযোগ্য চ্যালেঞ্জে<br/>পর্যালোচনা দরকার| Re
+    Ch -.->|VIb, §10 —<br/>শুধু যাচাইকৃত ইনপুট;<br/>পরিচালনা অবদান ও<br/>লঙ্ঘন নথির জন্য<br/>তথ্য দিতে পারে| S2
+    Rm -->|সংশোধনের প্রমাণ<br/>পরবর্তী পর্যালোচনা-পর্বে<br/>পরীক্ষিত হবে| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style T fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style Al fill:none,stroke:#16a34a,color:#ffffff
+    style Im fill:none,stroke:#16a34a,color:#ffffff
+    style Tr fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">পাঠক-নির্দেশিকা (কার্যকরী নয়): ছয়টি পর্যায়</span></strong></summary>
 
-- ঊর্ধ্ব: [§1](#1-purpose-and-role) (*উদ্দেশ্য ও ভূমিকা*); সংহতিমূলক তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*তাৎপর্য*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact), [নির্ভরতা](core_05_band_continuity.md#dependency), [ঝুঁকি](core_05_band_continuity.md#risk), [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries), এবং [পরিসর সনদ](core_05_band_continuity.md#charter) (অধ্যায় পাঁচ); [অধ্যায় এক §14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); **অনুচ্ছেদ III-A** (*বেঁচে থাকা*) ও **অনুচ্ছেদ III-B** (*শ্রেণিবিন্যাস যেখানে প্রবেশ দ্বার করে সেখানে অধিকার-তল সরবরাহ*); **অনুচ্ছেদ IV-A** (*নির্ভরতা মানচিত্র ও সম্পদ-প্রবাহ স্বচ্ছতা*) ও **অনুচ্ছেদ IV-B** (*প্রত্যয়ন যেখানে ভাগ-করা-অবকাঠামো নির্ভরতা দ্বার করে সেখানে সম্পদ বরাদ্দ ও নির্ভরতা দায়িত্বশীল ব্যবস্থাপনা*)।
-- অধঃ: [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*উদাহরণমূলক শ্রেণি রূপরেখা*); [§3.8](#38-illustrative-whole-system-application-by-class) (*শ্রেণি অনুসারে কাজ-করা পুরো-ব্যবস্থা উদাহরণ*); [§4.1](#41-illustrative-data-handling-application-by-class) (*শ্রেণি অনুসারে কাজ-করা তথ্য-পরিচালনা উদাহরণ*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*শ্রেণি অনুসারে কাজ-করা পরিবেশগত-পদচিহ্ন উদাহরণ*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*শ্রেণি অনুসারে কাজ-করা আন্তঃব্যবস্থা-সহায়তা উদাহরণ*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*শ্রেণি অনুসারে কাজ-করা বৈষম্যহীনতা উদাহরণ*); [§8.1](#81-illustrative-accessibility-application-by-class) (*শ্রেণি অনুসারে কাজ-করা প্রবেশযোগ্যতা উদাহরণ*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*শ্রেণি অনুসারে কাজ-করা শিক্ষামূলক-ক্ষমতা উদাহরণ*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*শ্রেণি অনুসারে কাজ-করা বিশ্বাসযোগ্যতা উদাহরণ*); [§4](#4-data-types-and-handling-evaluation) (*যৌথ তথ্য-পরিচালনা মূল্যায়ন*); [§5](#5-ecological-footprint-evaluation) (*পরিবেশগত পদচিহ্ন মূল্যায়ন*); [§6](#6-proportionate-cross-system-support-evaluation) (*আন্তঃব্যবস্থা সহায়তা মূল্যায়ন*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ দরজা*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*শ্রেণিবিন্যাস অসারিবদ্ধতা ও পুনঃশ্রেণিবিন্যাস ট্রিগার*)।
-- সঙ্গে পড়ুন: [ব্যবস্থা শ্রেণিবিন্যাস নথি](core_05_band_continuity.md#system-classification-record-constitutional); [corpus_systems.md](../../corpus_systems.md), **CS-3 — System classification and handling**, **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** সহ (*পুনঃশ্রেণিবিন্যাস প্রয়োজনীয়তা* — ট্রিগার, শ্রেণি-স্কেল করা মূল্যায়ন গভীরতা, ও SAC যাচাই সেতু) এবং **[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*ব্যবস্থা শ্রেণিবিন্যাস নথি শাসন কর্তব্য ও SAC সেতু*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — Adversarial robustness and abuse-resistance terms](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*রিগ্রেশন ও শক্তকরণ চক্র কর্তব্য*); [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*সাংবিধানিক সারিবদ্ধতা স্বীকৃতি ও পর্যালোচনা*)।
+> নিচের বিষয়বস্তু **শুধু পাঠক-নির্দেশিকা**। এই অধ্যায়ে বা অন্য অধ্যায়ে বাধ্যতামূলক দায় যোগ, বিয়োগ বা সংকুচিত করে না।
+>
+> | পর্যায় | বিভাগ | পর্যায়টি যে প্রশ্নের উত্তর দেয় | কোথায় |
+> |-------|----------|----------------------------|-------|
+> | **I. কাঠামো নির্ধারণ** | [§2](#2-system-class-evaluation) | ব্যবস্থাটি কোন শ্রেণির, এবং কত গভীরতা ও কত ঘনঘন মূল্যায়ন দরকার? | অংশ A |
+> | **II. মূল্যায়ন** | [§3](#3-whole-system-certification-evaluation) (IIa, সর্বদা) · [§4](#4-evaluations-where-implicated) (IIb, প্রাসঙ্গিক হলে) · [§5](#5-rights-floor-and-domain-evaluations) (IIc, ট্রিগার হলে) | সমগ্র ব্যবস্থা কী করে — সর্বদা, প্রাসঙ্গিক ক্ষেত্রে এবং ট্রিগার হলে? | অংশ A |
+> | **III. পর্যালোচনা** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | কোন স্বাধীন ফোরাম প্রমাণ ও অংশীজনের উদ্বেগ পর্যালোচনা করে, কী ক্রমে এবং কীভাবে চ্যালেঞ্জ করা যায়? | অংশ B |
+> | **IV. সিদ্ধান্ত** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | ফোরামগুলো কী ফল নির্ধারণ করে, এবং ব্যবস্থা চালু হতে পারে কি? | অংশ B |
+> | **V. নথি** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | ফোরাম পর্যালোচনার জন্য খোলা একক নথিতে ফল, সমর্থক সিদ্ধান্ত, শর্ত ও পরিচালনা পরিকল্পনা আছে কি, এবং তা নিরীক্ষা করা যায় কি? | অংশ B |
+> | **VI. পরিচালনা** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, পরিচালনা ও পুনঃপ্রত্যয়ন) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, প্রস্থিতি-সংযোগ) | কে ফল পর্যবেক্ষণ ও ঘটনা-চ্যালেঞ্জের জবাব দেয়, সংশোধন কীভাবে যাচাই হয়, পর্যালোচনা কখন ফের হয় এবং প্রস্থিতিতে কী পৌঁছায়? | অংশ B |
+>
+> **A**, **B** ও **C** শ্রেণির দৃষ্টান্তমূলক প্রোফাইল — এবং এই অধ্যায়ে ব্যবস্থা-শ্রেণি কীভাবে প্রত্যয়নের গভীরতা নির্ধারণ করে — [ব্যবস্থা-শ্রেণির দৃষ্টান্তমূলক প্রোফাইলে (অসম্পূর্ণ তালিকা)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) রয়েছে। [§3](#3-whole-system-certification-evaluation) থেকে [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) পর্যন্ত প্রতিটি মূল্যায়ন ক্ষেত্রের জন্য ওই তিন ব্যবস্থার কাজ করা উদাহরণও [অংশ C — দৃষ্টান্ত](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations)-এ রয়েছে; প্রতিটি প্রোফাইল ও অনুসরণচিত্র যে অংশ A বিভাগ বোঝায়, তার সঙ্গে যুক্ত।
+
+</details>
+
+<br>
+<a id="2-system-class-evaluation"></a>
+
+### 2. সিস্টেম-শ্রেণির মূল্যায়ন
+
+<details>
+<summary><strong><span style="color: #2563eb;">অনুসরণযোগ্যতা</span></strong></summary>
+
+- **ঊর্ধ্বমুখী সংযোগ:** [§1](#1-purpose-and-role) (*উদ্দেশ্য ও ভূমিকা*); সমন্বিত বস্তুগততা ([বস্তুগততা](core_05_band_oversight.md#materiality)); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact), [নির্ভরতা](core_05_band_continuity.md#dependency), [ঝুঁকি](core_05_band_continuity.md#risk), [সিস্টেমের সীমানা](core_05_band_continuity.md#system-boundaries) এবং [সনদ](core_05_band_continuity.md#charter) (অধ্যায় পাঁচ); [অধ্যায় এক §12 পদ্ধতিগত মূল্যায়নের শর্ত](core_01_a_values_principles.md#12-systemic-evaluation-requirement); **অনুচ্ছেদ III-A** (*বেঁচে থাকা*) এবং **অনুচ্ছেদ IV-A** (*শ্রেণিবিন্যাস প্রবেশাধিকার নিয়ন্ত্রণ করলে অধিকার-তলের সরবরাহ*); **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহের স্বচ্ছতা*) এবং **অনুচ্ছেদ V-B** (*সার্টিফিকেশন যৌথ অবকাঠামোর ওপর নির্ভরতা নিয়ন্ত্রণ করলে সম্পদ বণ্টন ও নির্ভরতার ব্যবস্থাপনা*)।
+- **নিম্নমুখী সংযোগ:** [§2.1](#21-how-system-class-scales-every-evaluation) (*সিস্টেম-শ্রেণি অনুযায়ী অংশগ্রহণ ও আনুপাতিকতা*); [§2.2](#22-pilot-certification) (*পাইলট সার্টিফিকেশন*); [অধ্যায় আট, অংশ C-এর সিস্টেম-শ্রেণির প্রোফাইল ও পুনঃশ্রেণিবিন্যাস](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*সিস্টেম-শ্রেণির উদাহরণমূলক প্রোফাইল*); [অংশ C-এর পূর্ণ-সিস্টেম ধাপে-ধাপে উদাহরণ](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive); ডেটা পরিচালনার উদাহরণ [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), পরিবেশগত পদচিহ্ন [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), শিক্ষাগত সক্ষমতা [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive), আন্তঃসিস্টেম সহায়তা [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive), বৈষম্যহীনতা [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), প্রবেশগম্যতা [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive), এবং বিশ্বাসযোগ্যতা [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive); [§3.4](#34-data-types-and-handling-evaluation) (*সমন্বিত ডেটা-পরিচালনা মূল্যায়ন*); [§5.1](#51-ecological-footprint-evaluation) (*পরিবেশগত পদচিহ্ন মূল্যায়ন*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*আনুপাতিক আন্তঃসিস্টেম সহায়তা মূল্যায়ন*); [অংশ B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*রেকর্ডের অখণ্ডতা*); [অংশ B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*যাচাইকৃত-ইনপুট গেট*); [অংশ B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*শ্রেণিবিন্যাসের বিচ্যুতি ও পুনঃশ্রেণিবিন্যাসের ট্রিগার*)।
+- **একসঙ্গে পড়ুন:** [সিস্টেম-শ্রেণিবিন্যাস রেকর্ড](core_05_band_continuity.md#system-classification-record); [corpus_systems.md](corpus_systems.md), **CS-3 — সিস্টেমের শ্রেণিবিন্যাস ও ব্যবস্থাপনা**, যার মধ্যে রয়েছে **[CS-3 §3.5 পুনঃশ্রেণিবিন্যাসের শর্ত](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*পুনঃশ্রেণিবিন্যাসের শর্ত* — ট্রিগার, শ্রেণি অনুযায়ী মূল্যায়নের গভীরতা এবং SAC যাচাইকরণ সংযোগ) এবং **[CS-3 §7](corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge)** (*শ্রেণিবিন্যাসের শাসন, প্রকাশ ও আপত্তি*) — সিস্টেম-শ্রেণিবিন্যাস রেকর্ডের শাসন-দায় এবং SAC সংযোগ; [CS-5 — নকশা, পরীক্ষা, যাচাই ও স্থাপন](corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — প্রতিপক্ষীয় দৃঢ়তা ও অপব্যবহার-প্রতিরোধের পরিভাষা](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*রিগ্রেশন ও শক্তিশালীকরণ-চক্রের দায়*); [corpus_forum.md](corpus_forum.md), **CF-7.2** (*সাংবিধানিক সামঞ্জস্য সার্টিফিকেশন ও পর্যালোচনা*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: প্রত্যয়নকে পরীক্ষা করতে হয় ব্যবস্থা সততার সঙ্গে শ্রেণিবদ্ধ কি না — পরিচালক কী নাম দেয় তা নয়, এটি সত্যি কী করে, কী তার উপর নির্ভর করে, আর কী ভুল হতে পারে। উচ্চতর শ্রেণি মানে কঠোরতর প্রমাণ, দ্রুত পুনঃপরীক্ষা, ও শক্তিশালী স্থিতিস্থাপকতা প্রত্যাশা। শ্রেণিপ্রতি এক ব্যবস্থা দেখুন [§2.1](#21-illustrative-class-profiles-non-exhaustive); [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), এবং [§10.1](#101-illustrative-trustworthiness-application-by-class) মূল্যায়ন প্রতিটিতে কীভাবে লাগে তা চালিয়ে দেখায়।*
+*সহজ কথায়: সার্টিফিকেশনে যাচাই করতে হবে সিস্টেমকে সৎভাবে শ্রেণিবদ্ধ করা হয়েছে কি না—অপারেটর সেটিকে কী নামে ডাকে তা দিয়ে নয়, বরং সেটি আসলে কী করে, তার ওপর কে নির্ভর করে এবং কী ভুল হতে পারে তা দিয়ে। উচ্চতর সিস্টেম-শ্রেণি মানে আরও কঠোর প্রমাণ, দ্রুততর পুনঃপরীক্ষা এবং অধিক শক্তিশালী স্থিতিস্থাপকতার প্রত্যাশা। প্রতিটি সিস্টেম-শ্রেণির একটি উদাহরণ এবং মূল্যায়ন কীভাবে প্রযোজ্য তা দেখতে [অংশ C — উদাহরণ](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) দেখুন।*
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নকে প্রতি বস্তুগতভাবে প্রভাবশালী প্রত্যয়ন নথির অংশ হিসেবে **ব্যবস্থার শ্রেণি** মূল্যায়ন করতে হয়। প্রামাণিক শ্রেণি সংজ্ঞা, মাত্রা নিয়ম, শ্রেণি রূপরেখা, শ্রেণিবিন্যাস শাসন, শ্রেণি-স্কেল করা নিশ্চয়তা, অবকাঠামো দৃঢ়তা, ও পুনঃপ্রত্যয়ন যন্ত্রপাতি থাকে **[corpus_systems.md](../../corpus_systems.md), CS-3 — System classification and handling** এবং **[CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md)**-এ। এই ধারা বলে প্রত্যয়নকে কী যাচাই ও নথিভুক্ত করতে হয়; এটি CS-3 শ্রেণি শ্রেণিকরণ, প্রয়োগ রূপরেখা, বা CS-5 পরীক্ষা যন্ত্রপাতি পুনরাবৃত্তি করে না।
+বস্তুগত প্রভাবসম্পন্ন সিস্টেমের প্রতিটি সার্টিফিকেশন রেকর্ডে সিস্টেমটির **সিস্টেম-শ্রেণির** মূল্যায়ন থাকতে হবে।
 
-প্রত্যয়নকে যাচাই ও নথিভুক্ত করতে হয়:
+বিস্তারিত নিয়ম রয়েছে [corpus_systems.md](corpus_systems.md), [CS-3 — সিস্টেমের শ্রেণিবিন্যাস ও ব্যবস্থাপনা](corpus_systems/cs_03_a_system_classification_machinery.md), এবং [CS-5 — নকশা, পরীক্ষা, যাচাই ও স্থাপন](corpus_systems/cs_05_design_testing_verification_deployment.md)-এ। এগুলো নির্ধারণ করে:
 
-- **মূল্যায়ন প্রয়োজনীয়তা:**
-  - নির্ধারিত ব্যবস্থা শ্রেণি CS-3-এর অধীনে পর্যবেক্ষিত ও যুক্তিসঙ্গতভাবে পূর্বদৃশ্য **প্রভাব**, **নির্ভরতা**, ও **ঝুঁকি** প্রতিফলিত করে কি না, সমষ্টি, মিথস্ক্রিয়া, বিরোধী, ও সীমা প্রভাব সহ; এবং
-  - শ্রেণিবিন্যাস নির্ধারিত হয় আসল ব্যবস্থা আচরণ ও প্রভাব থেকে, ঘোষিত উদ্দেশ্য, নামমাত্র পরিসর, শুধু [পরিসর সনদ](core_05_band_continuity.md#charter) পাঠ, বা শুধু আত্ম-বর্ণনা থেকে নয়; এবং
-  - বস্তুগত পুনর্মূল্যায়ন ট্রিগার জ্বললে **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**-এর অধীনে শ্রেণিবিন্যাস পুনর্মূল্যায়ন প্রয়োগ হয়েছে, এবং [ব্যবস্থা শ্রেণিবিন্যাস নথি](core_05_band_continuity.md#system-classification-record-constitutional) বর্তমান শর্তে **সর্বোচ্চ প্রযোজ্য** শ্রেণি প্রতিফলিত করে।
-- **নথি প্রয়োজনীয়তা:**
-  - এক [ব্যবস্থা শ্রেণিবিন্যাস নথি](core_05_band_continuity.md#system-classification-record-constitutional) যা নির্ধারিত শ্রেণি, শ্রেণিবিন্যাস যুক্তি, মূল অনুমান, উপস্থিত নির্ভরতা প্রকার, বস্তুগত হলে পরিচালন-জরুরি মূল্যায়ন, অনিশ্চয়তা, এবং শ্রেণি অনুসারে স্কেল করা পুনঃবৈধকরণ ছন্দ বলে, [অংশ খ §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) যা চায় তা অনুসারে; এবং
-  - শ্রেণিবিন্যাস অনিশ্চিত বা বিতর্কিত হলে, যে সতর্ক শ্রেণির উপর নির্ভর করা হয়েছে এবং সমাধান অপেক্ষমাণ যেকোনো শর্ত।
-- **নিশ্চয়তা ও পুনঃপ্রত্যয়ন:**
-  - শ্রেণি-স্কেল করা নিশ্চয়তা, অবকাঠামো দৃঢ়তা, ও রিগ্রেশন কভারেজ নির্ধারিত শ্রেণির জন্য CS-3 ও CS-5-এর সঙ্গে মেলে, [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) এবং বস্তুগতভাবে প্রযোজ্য হলে **CJS-3.19** থেকে **CJS-3.23**-এর সঙ্গে পড়া;
-  - প্রতি পুনঃপ্রত্যয়ন বা পুনঃবৈধকরণে [অংশ খ §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)-এর অধীনে প্রত্যয়ন নথিতে রিগ্রেশন-পরীক্ষা ফল — রিগ্রেশন পরিসর, চালানো মানক ও কাস্টম পরীক্ষা স্যুট, ফল, জানা ব্যর্থতা, প্রতিকার, এবং ন্যায্যতা সহ গৃহীত অবশিষ্ট ঝুঁকি, CS-5 যা চায়;
-  - প্রত্যয়ন চক্রের জন্য নথিতে স্বীকৃতি ও পর্যালোচনা প্রমাণ — পরিসর, শ্রেণিবিন্যাস, পরীক্ষা, অবশিষ্ট ঝুঁকি, প্রতিকার প্রস্তুতি, পর্যবেক্ষণ, এবং পুনঃপ্রত্যয়ন প্রযোজ্য হলে আগের নথি থেকে বস্তুগত পরিবর্তন দেখানো প্রমাণ প্যাকেজ, CS-5 *মঞ্চ স্বীকৃতি ও জীবনচক্র পর্যালোচনা* যা চায়; এবং
-  - যে ব্যবস্থা অধিকার-তল সরবরাহ দ্বার করে বা টিকিয়ে রাখে, পুনঃবৈধকরণ ছন্দ ও রিগ্রেশন গভীরতা [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)-এর অধীনে **সাতত্য** উদ্দেশ্য কার্যকর করে — পুরনো বা অকাল প্রত্যয়নকে প্রমাণ গণ্য করা যায় না যে সংজ্ঞ প্রাণী বাস্তবে এখনও খাদ্য, জল, আশ্রয়, শিক্ষা, বা নিরাপত্তা পাচ্ছে।
+- সিস্টেম-শ্রেণিগুলো কী, কীভাবে একটি সিস্টেমকে শ্রেণি দেওয়া হয় এবং শ্রেণি-প্রোফাইলগুলো কী;
+- শ্রেণিবিন্যাস কীভাবে পরিচালিত হয়;
+- প্রতিটি সিস্টেম-শ্রেণির কতটা নিশ্চয়তা প্রয়োজন;
+- অবকাঠামো কতটা দৃঢ় হতে হবে;
+- কোন পরীক্ষা ও রেকর্ড পুনঃসার্টিফাই হবে, সিস্টেম-শ্রেণি অনুযায়ী কোন সময়সূচিতে হবে, এবং অস্থায়ী ও পূর্ণ সার্টিফিকেশনে সেই সময়সূচি কীভাবে বদলাবে।
+
+এই অংশে বলা হয়েছে সার্টিফিকেশনে কী যাচাই করতে হবে।
+
+সার্টিফিকেশনে যাচাই করতে হবে:
+
+- **মূল্যায়নের শর্ত:**
+  - নির্ধারিত সিস্টেম-শ্রেণি CS-3 (*সিস্টেম শ্রেণিবিন্যাস কাঠামো*) অনুযায়ী পর্যবেক্ষিত এবং যুক্তিসঙ্গতভাবে পূর্বানুমেয় **প্রভাব**, **নির্ভরতা** ও **ঝুঁকি** প্রতিফলিত করে কি না, যার মধ্যে রয়েছে:
+    - সমষ্টিগত প্রভাব;
+    - পারস্পরিক ক্রিয়ার প্রভাব;
+    - প্রতিপক্ষীয় প্রভাব;
+    - সীমা-অতিক্রমের প্রভাব;
+  - শ্রেণিবিন্যাস প্রকৃত সিস্টেম-আচরণ ও প্রভাবের ভিত্তিতে নির্ধারিত, নিচের বিষয়গুলোর ভিত্তিতে নয়:
+    - ঘোষিত উদ্দেশ্য;
+    - নামমাত্র পরিধি;
+    - শুধু [সনদ](core_05_band_continuity.md#charter)-এর লেখা; অথবা
+    - শুধু স্ব-বর্ণনা;
+  - উল্লেখযোগ্য পরিবর্তন ঘটলে **[CS-3 §3.5 পুনঃশ্রেণিবিন্যাসের শর্ত](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** অনুযায়ী সিস্টেমের শ্রেণি পুনরায় যাচাই হয়েছে কি না; এবং
+  - [সিস্টেম শ্রেণিবিন্যাস রেকর্ড](core_05_band_continuity.md#system-classification-record) বর্তমান পরিস্থিতিতে প্রযোজ্য **সর্বোচ্চ সিস্টেম-শ্রেণি** দেখায় কি না।
+- **নিশ্চয়তা ও রিগ্রেশন পরীক্ষা:**
+  - সিস্টেম-শ্রেণি অনুযায়ী নিশ্চয়তা, অবকাঠামোগত দৃঢ়তা ও রিগ্রেশন পরীক্ষার আওতা নির্ধারিত শ্রেণির সঙ্গে মেলে কি না, নিম্নলিখিত অনুসারে:
+    - CS-3 (*সিস্টেম শ্রেণিবিন্যাস কাঠামো*); এবং
+    - CS-5 (*ব্যবহারকারী-মুখী সক্ষমতার ক্ষেত্র*), যেখানে বস্তুগতভাবে প্রযোজ্য সেখানে এই অভিন্ন পরিচালনাগত পরিভাষাগুলোর সঙ্গে পড়তে হবে:
+      - [**CJS-3.19**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms) (*সাতত্য: নমনীয় অবনতি ও ব্যর্থতার ধরন-অখণ্ডতার পরিভাষা*);
+      - [**CJS-3.20**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms) (*সাতত্য: প্রত্যাবর্তনযোগ্যতা ও সীমাবদ্ধকরণের পরিভাষা*);
+      - [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*সাতত্য: প্রতিপক্ষীয় দৃঢ়তা ও অপব্যবহার-প্রতিরোধের পরিভাষা*); এবং
+      - [**CJS-3.22**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms) (*সমন্বিত: সীমাবদ্ধ গোপনীয়তা ও সুরক্ষিত তদন্তের পরিভাষা*) এবং [**CJS-3.23**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms) (*সমন্বিত: হস্তক্ষেপ ও অগ্রাহ্যকরণ-অখণ্ডতার পরিভাষা*), যেখানে সিস্টেমের শ্রেণি বা কাজ এগুলোকে বস্তুগতভাবে প্রযোজ্য করে; এবং
+  - CS-5 (*ব্যবহারকারী-মুখী সক্ষমতার ক্ষেত্র*) অনুযায়ী প্রতিটি পুনঃসার্টিফিকেশনের জন্য রিগ্রেশন পরীক্ষা সম্পন্ন হয়েছে কি না, এবং তার ফল [§8.1 ন্যূনতম রেকর্ড বিষয়বস্তু](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents)-এর অধীনে রেকর্ডে আছে কি না।
+- **সার্টিফিকেশন ও পুনঃসার্টিফিকেশন:**
+  - CS-5 (*ব্যবহারকারী-মুখী সক্ষমতার ক্ষেত্র*)-এর *ফোরাম সার্টিফিকেশন ও জীবনচক্র পর্যালোচনা* অনুযায়ী সার্টিফিকেশন-চক্রের জন্য সার্টিফিকেশন ও পর্যালোচনার প্রমাণপ্যাকেজ আছে কি না;
+  - রেকর্ডে সার্টিফিকেশন-অবস্থা [অংশ B §9.2 অস্থায়ী ও পূর্ণ সার্টিফিকেশন](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) অনুযায়ী সমর্থিত কি না:
+    - পূর্ণ সার্টিফিকেশন কেবল তখনই, যখন:
+      - ধারাবাহিক পরিচ্ছন্ন পুনঃসার্টিফিকেশনের ন্যূনতম শর্ত পূরণ হয়;
+      - বর্তমানে কোনো অসামঞ্জস্য নেই; এবং
+      - কোনো পর্যবেক্ষণসূচক আসন্ন অসামঞ্জস্য নির্দেশ করে না;
+    - যে সিস্টেমের শেষ পুনঃসার্টিফিকেশন ব্যর্থ হয়েছে, তার জন্য অস্থায়ী সার্টিফিকেশন; এবং
+  - যে সিস্টেমগুলো মৌলিক অধিকার-তলের সুরক্ষা দেয় বা তার ওপর নির্ভর করে:
+    - কত ঘন ঘন সিস্টেম পুনরায় পরীক্ষা করা হয় এবং কত গভীরভাবে পুনঃপরীক্ষা হয়, তা [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)-এর **সাতত্য** উদ্দেশ্য পূরণ করে কি না—অর্থাৎ সময়ের সঙ্গে জরুরি বিষয়গুলো যেন সংজ্ঞ প্রাণীদের কাছে পৌঁছায়;
+    - পুরোনো বা অকাল সার্টিফিকেশনকে কখনোই প্রমাণ হিসেবে নেওয়া হয় না যে সংজ্ঞ প্রাণীরা আজ সত্যিই খাবার, পানি, আশ্রয়, শিক্ষা বা নিরাপত্তা পাচ্ছে।
 - **ভুল শ্রেণিবিন্যাস ও ত্রুটি:**
-  - ব্যবস্থা যতটা প্রাপ্য তার চেয়ে নিম্ন ঝুঁকি শ্রেণি দাবি করা, কঠিন নিয়ম এড়াতে ব্যবস্থা টুকরো করা, বা শর্ত বদলানোর পরও পুরনো শ্রেণি লেবেল রাখা — **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**-এর অধীনে পুনর্মূল্যায়ন না করা সহ — এগুলো CS-3 ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে প্রত্যয়ন ত্রুটি, ছোট কাগজের ভুল নয়;
-  - রিগ্রেশন পরীক্ষা এড়ানো, পুরনো ফলের উপর নির্ভর করা, জানা ভাঙন অমেরামত রাখা, বা পুনঃপরীক্ষা সম্ভব থাকলে বড় মেরামত পুনঃপরীক্ষা ছাড়া গ্রহণ — এগুলো CS-5-এর অধীনে প্রত্যয়ন ত্রুটি; এবং
-  - তথ্য যেখানে সায় দেয়, একই শ্রেণিবিন্যাস সমস্যা [অধ্যায় আট](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)-এ প্রতিকূল প্রস্থিতি নির্ণয়ের দিকেও গণ্য হতে পারে।
+  - CS-3 (*সিস্টেম শ্রেণিবিন্যাস কাঠামো*) এবং [অংশ B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)-এর অধীনে সার্টিফিকেশন-ত্রুটি সাধারণ কাগজপত্রের ভুল নয়; এর মধ্যে রয়েছে:
+    - সিস্টেমের প্রাপ্য শ্রেণির চেয়ে কম ঝুঁকির শ্রেণি দাবি করা;
+    - কঠোরতর নিয়ম এড়াতে সিস্টেমকে খণ্ডে ভাগ করা; অথবা
+    - পরিস্থিতি বদলে যাওয়ার পরও পুরোনো সিস্টেম-শ্রেণির লেবেল ধরে রাখা, যার মধ্যে **[CS-3 §3.5 পুনঃশ্রেণিবিন্যাসের শর্ত](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** অনুযায়ী পুনর্মূল্যায়নে ব্যর্থ হওয়াও রয়েছে;
+  - CS-5 (*ব্যবহারকারী-মুখী সক্ষমতার ক্ষেত্র*)-এর অধীনে সার্টিফিকেশন-ত্রুটির মধ্যে রয়েছে:
+    - রিগ্রেশন পরীক্ষা বাদ দেওয়া;
+    - পুরোনো ফলের ওপর নির্ভর করা;
+    - পরিচিত ত্রুটি মেরামত না করা; অথবা
+    - পুনঃপরীক্ষা সম্ভব হওয়া সত্ত্বেও বড় ধরনের মেরামত পুনঃপরীক্ষা ছাড়াই গ্রহণ করা; এবং
+  - সিস্টেমটি সার্টিফাইড হলে এবং তথ্য সমর্থন করলে, একই শ্রেণিবিন্যাস-সমস্যা [অধ্যায় নয়](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement)-এর প্রতিকূল প্রস্থিতি-সংক্রান্ত সিদ্ধান্তেও গণ্য হতে পারে।
 
-প্রত্যয়ন এই ত্রুটি শনাক্ত করলে মঞ্চ শর্তসহ অনুমোদন, অনুমোদন স্থগিত, প্রত্যাখ্যান, স্বীকৃতি প্রত্যাহার, পর্যালোচনা ছন্দ বদল, বা নতুন পর্যালোচনা আদেশ দিতে পারে।
+এই ত্রুটিগুলোর পরিণতি [§7 সার্টিফিকেশনের ফলাফল](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)-এ নির্ধারিত।
 
-<a id="21-illustrative-class-profiles-non-exhaustive"></a>
+<a id="21-how-system-class-scales-every-evaluation"></a>
 
-#### 2.1 উদাহরণমূলক শ্রেণি রূপরেখা (অসীমাবদ্ধ)
+#### 2.1 সিস্টেম-শ্রেণি কীভাবে প্রতিটি মূল্যায়নের মাত্রা নির্ধারণ করে
 
-*সহজ ভাষায়: শ্রেণি পরিচালকের বেছে নেওয়া ব্যাজ নয় — ব্যবস্থা সত্যি কত ক্ষতি, নির্ভরতা, ও ঝুঁকি বহন করে। নিচের সারণি শ্রেণিপ্রতি এক উদাহরণমূলক ব্যবস্থা নাম করে; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), এবং [§10.1](#101-illustrative-trustworthiness-application-by-class) পুরো-ব্যবস্থা, তথ্য-পরিচালনা, পরিবেশগত-পদচিহ্ন, আন্তঃব্যবস্থা-সহায়তা, বৈষম্যহীনতা, প্রবেশযোগ্যতা, শিক্ষামূলক-ক্ষমতা, ও বিশ্বাসযোগ্যতা মূল্যায়ন প্রতিটিতে কীভাবে লাগে তা চালিয়ে দেখায়। আনুষ্ঠানিক শ্রেণি নিয়ম, মাত্রা পরীক্ষা, ও পুনঃশ্রেণিবিন্যাস ট্রিগার থাকে **CS-3**-এ; এই উদাহরণ শ্রেণি যোগ করে না বা CS-3 সংকুচিত করে না।*
+সিস্টেম-শ্রেণি নির্ধারণ করে এই অধ্যায়ের প্রতিটি মূল্যায়ন কত গভীরভাবে সম্পন্ন হবে — [§3 পূর্ণ-সিস্টেম সার্টিফিকেশন মূল্যায়ন](#3-whole-system-certification-evaluation)-এর সামগ্রিক উপাদান, [§3.4 ডেটার ধরন ও ব্যবস্থাপনা মূল্যায়ন](#34-data-types-and-handling-evaluation), এবং [§5 অধিকার-তল ও ক্ষেত্রভিত্তিক মূল্যায়ন](#5-rights-floor-and-domain-evaluations)-এর প্রতিটি মূল্যায়ন — এবং কত ঘন ঘন তা পুনরাবৃত্তি হবে:
 
-| শ্রেণি | উদাহরণমূলক ব্যবস্থা (অসীমাবদ্ধ) | এই শ্রেণিতে প্রত্যয়নকে কী প্রতিফলিত করতে হয় |
-|-------|-------------------------------------|-----------------------------------------------|
-| **Class A** | পৌর **নিরাপদ পানীয় জল** নিয়ন্ত্রণ ও টেলিমেট্রি — বিঘ্ন কার্যকর বিকল্প আসার আগে নিরাপদ জল বন্ধ করে দেবে ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | সবচেয়ে পূর্ণ [§3](#3-whole-system-certification-evaluation) গভীরতা; সবচেয়ে ছোট ন্যায্য পুনঃবৈধকরণ ছন্দ; [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record)-এর অধীনে সবচেয়ে শক্ত রিগ্রেশন, অবকাঠামো, ও নথি-প্রকাশ প্রত্যাশা; অধিকার-তল দ্বার হলে সর্বোচ্চ ব্যবহারযোগ্য প্রভাবিত-পক্ষ ও সংজ্ঞ-মঞ্চ অংশগ্রহণ |
-| **Class B** | আঞ্চলিক **ক্লিনিকাল নথি বিনিময়** — হাসপাতাল ও ক্লিনিক প্রতিদিন এর উপর নির্ভর করে কিন্তু বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে পিছু হটতে পারে ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | পূর্ণ [§3](#3-whole-system-certification-evaluation) মূল্যায়ন; দৃঢ় নির্ভরতা-শৃঙ্খল ও পুনরুদ্ধার-পথ প্রমাণ; তাৎপর্য ট্রিগার প্রযোজ্য হলে [§4](#4-data-types-and-handling-evaluation) থেকে [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) ডোমেইন মূল্যায়ন; পরিচালন জরুরি অনুসারে স্কেল করা চ্যালেঞ্জ পথ ও পর্যবেক্ষণ |
-| **Class C** | বৃহৎ-স্কেল **প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয়** প্ল্যাটফর্ম — স্কেলে সমন্বয় গড়ে কিন্তু অবনত মোডে বেঁচে থাকার সেবার পরিচালন পূর্বশর্ত নয় ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | ট্রিগার প্রযোজ্য হলে [§4](#4-data-types-and-handling-evaluation) থেকে [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) বস্তুগত মূল্যায়ন; আনুপাতিক পুরো-ব্যবস্থা পর্যালোচনা; নির্ভরতা, ঘনত্ব, বা চোকপয়েন্ট প্রভাব শক্ত হলে পুনঃশ্রেণিবিন্যাস নজরদারি — ব্যবস্থা পরিচালনগতভাবে প্রয়োজনীয় হয়ে উঠলে প্রত্যয়ন Class C-কে স্থায়ী গণ্য করতে পারে না |
+- উচ্চতর শ্রেণির সিস্টেমের ক্ষেত্রে প্রতিটি প্রযোজ্য মূল্যায়ন বাস্তবে করা হয়েছে—শুধু করা হয়েছে বলে দাবি নয়—তার আনুপাতিকভাবে শক্তিশালী প্রমাণ দরকার।
+- নিম্নতর সিস্টেম-শ্রেণিতেও যেখানে ট্রিগার প্রযোজ্য, সেখানে সৎ ও আনুপাতিক মূল্যায়ন আবশ্যক।
+- সিস্টেম-শ্রেণি কখনোই আবশ্যক মূল্যায়ন বাদ দেওয়ার অনুমতি দেয় না। সিস্টেমের প্রকৃত ভূমিকা তার শ্রেণিকে ছাড়িয়ে গেলে, [§9 পুনঃসার্টিফিকেশন ও পুনরায় খোলা](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) অনুযায়ী উচ্চতর গভীরতায় পুনঃশ্রেণিবিন্যাস ও পুনর্মূল্যায়ন করতে হবে।
+- সিস্টেম-শ্রেণি পর্যালোচনার গভীরতা নির্ধারণ করে। কাগজে-কলমে থাকা যোগ্যতা, লেবেল বা সুবিধা, কিংবা এমন মূল্যায়ন ও সিদ্ধান্তে সন্তুষ্ট হওয়া কখনোই গ্রহণযোগ্য করে না যা কেউ বুঝে দেখতে পারে না।
 
-**শ্রেণি স্কেলে অংশগ্রহণ ও আনুপাতিকতা।** **Class A** ব্যবস্থায় সবচেয়ে শক্ত ব্যবহারযোগ্য অংশগ্রহণ পথ লাগে — প্রবেশযোগ্য চ্যালেঞ্জ, প্রভাবিত-পক্ষ পর্যালোচনা, এবং অধিকার-তল জড়িত থাকলে সংজ্ঞ-মঞ্চ উপাদান নির্ণয় সহ — কারণ ভুল প্রতিকার সম্ভব হওয়ার আগে বেঁচে থাকার জরুরি জিনিস বন্ধ করতে পারে। **Class B** ব্যবস্থায় যেখানে ব্যবস্থা স্বাস্থ্যসেবা, শিক্ষা, সুবিধা, কাজ, বা তুলনীয় দৈনন্দিন জীবন দ্বার করে সেখানে দৃঢ় অংশগ্রহণ লাগে। **Class C** ব্যবস্থায় এখনও চ্যালেঞ্জযোগ্য নথি ও আনুপাতিক প্রকাশ লাগে, বিশেষত যেখানে সমন্বয় প্রভাব সুরক্ষিত গোষ্ঠীর উপর ভার চাপায়, নির্ভরতা ঘনীভূত করে, বা Class B বা Class A-তে উত্তরণের ইঙ্গিত দেয়।
+অংশগ্রহণ ও আনুপাতিকতার শর্তও একইভাবে শ্রেণি অনুযায়ী বাড়ে বা কমে:
 
-**পুনঃশ্রেণিবিন্যাস স্মরণ।** উদাহরণমূলক লেবেল শ্রেণিবিন্যাস তালাবদ্ধ করে না। যে সমন্বয় প্ল্যাটফর্ম বেঁচে থাকার জরুরি প্রবেশের কার্যত দরজা হয়ে ওঠে; যে শংসাপত্র সেবার বিভ্রাট এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে স্বাস্থ্যসেবা বা সুবিধা আটকাবে; বা জরুরি পথে শোষিত এক ইউটিলিটি উপব্যবস্থা — এগুলোকে **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে পুনঃশ্রেণিবদ্ধ ও পুনঃপ্রত্যয়িত করতে হয় — পরিচালক হালকা পর্যালোচনা পছন্দ করে বলে নিম্ন শ্রেণিতে ফেলে রাখা যায় না।
+- **A শ্রেণির** সিস্টেমে যতটা বাস্তবসম্মত, তত শক্তিশালী অংশগ্রহণের পথ দরকার; কারণ প্রতিকার সম্ভব হওয়ার আগেই ভুল বেঁচে থাকার জন্য অপরিহার্য বিষয় বন্ধ করে দিতে পারে। এর মধ্যে রয়েছে:
+  - প্রবেশগম্য আপত্তি জানানো;
+  - অংশীজন পর্যালোচনা; এবং
+  - [অংশ B §6.1 ফোরামের তত্ত্বাবধান ও উপাদানগুলোর ভূমিকা](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) অনুযায়ী প্রভাবিত স্বার্থের জন্য নির্ধারিত ফোরাম-পরিবারের সিদ্ধান্ত, যার মধ্যে ঐ ধারা অনুযায়ী প্রাতিষ্ঠানিক বা সংজ্ঞ ফোরাম অন্তর্ভুক্ত।
+- **B শ্রেণির** সিস্টেমে শক্তিশালী অংশগ্রহণ দরকার, বিশেষ করে যখন সিস্টেম নিয়ন্ত্রণ করে:
+  - স্বাস্থ্যসেবা;
+  - শিক্ষা;
+  - সুবিধা;
+  - কাজ; অথবা
+  - দৈনন্দিন জীবনের অনুরূপ ক্ষেত্র।
+- **C শ্রেণির** সিস্টেমেও আপত্তিযোগ্য রেকর্ড এবং আনুপাতিক প্রকাশ দরকার, বিশেষত যখন সমন্বয়ের প্রভাব:
+  - সুরক্ষিত গোষ্ঠীর ওপর বোঝা চাপায়;
+  - নির্ভরতা কেন্দ্রীভূত করে; অথবা
+  - B বা A শ্রেণিতে উন্নীত হওয়ার পূর্বাভাস দেয়।
 
+<a id="22-pilot-certification"></a>
+
+#### 2.2 পাইলট সার্টিফিকেশন
+
+একটি **[পাইলট](core_05_band_continuity.md#pilot)** হলো [চালু করা](core_05_band_continuity.md#go-live); তাই [অংশ B §7 সার্টিফিকেশনের ফলাফল](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)-এর চালু করার নিয়ম অনুযায়ী এটি শুরুর আগে নিজস্ব সার্টিফিকেশন দরকার।
+
+- যেকোনো সিস্টেম-শ্রেণির সিস্টেম পূর্ণ স্থাপনার আগে পাইলট চালাবে বলে প্রত্যাশা করা হয়; তা না করলে কেন চালায়নি, তা রেকর্ডে লিখতে হবে।
+- পাইলটেরও সৎ শ্রেণিবিন্যাস এবং ট্রিগার প্রযোজ্য এমন প্রতিটি মূল্যায়ন দরকার; এর পরিধি, জনসমষ্টি ও মেয়াদ রেকর্ডে উল্লেখ করতে হবে।
+- পাইলটকে নিজস্ব রেকর্ডের ভিত্তিতে মূল্যায়ন করা হয়; গভীরতা সিস্টেম-শ্রেণি এবং সিস্টেমটি কত সহজে প্রতিস্থাপন করা যায় তার সঙ্গে সামঞ্জস্যপূর্ণ হবে: যেসব সংজ্ঞ প্রাণী পাইলটের প্রভাবে পড়বে বা তার ওপর নির্ভর করবে, তাদের জন্য কার্যকর বিকল্প আছে কি না এবং থাকলে তার খরচ, বিলম্ব ও কার্যকারিতা-হানি কত (দেখুন [নির্ভরতা](core_05_band_continuity.md#dependency))।
+  - সিস্টেম যত সহজে প্রতিস্থাপন করা যায় এবং তার শ্রেণি যত নিচু, পাইলট মূল্যায়ন তত হালকা হতে পারে।
+  - সহজে প্রতিস্থাপন করা যায় না এমন সিস্টেমের পাইলটকে পূর্ণ স্থাপনার সময় তার সিস্টেম-শ্রেণি যে গভীরতা দাবি করে, সেই গভীরতায় মূল্যায়ন করতে হবে।
 
 <a id="3-whole-system-certification-evaluation"></a>
 
-### 3. পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন
+### 3. পূর্ণ-সিস্টেম সার্টিফিকেশন মূল্যায়ন
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">অনুসরণযোগ্যতা</span></strong></summary>
 
-- ঊর্ধ্ব: [অধ্যায় এক §14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); সমুন্নতি পরিমাপ পরিবার (*কল্যাণ, নিরাপত্তা, ক্ষতি, ও বেঁচে থাকার তল প্রবেশ*); সাংবিধানিক কর্মক্ষমতা পরিমাপ পরিবার (*সাংবিধানিক দক্ষতা, এড়ানো যায় এমন ভার, ও উৎপাদন ক্ষমতা*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত বাজি](core_00_preamble.md#material-stake); [§1 উদ্দেশ্য ও ভূমিকা](#1-purpose-and-role)।
-- অধঃ: [§3.8](#38-illustrative-whole-system-application-by-class) (*উদাহরণমূলক পুরো-ব্যবস্থা চলন*); [§4](#4-data-types-and-handling-evaluation) থেকে [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ডোমেইন মূল্যায়ন*); [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*উদাহরণমূলক শ্রেণি রূপরেখা*); [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*নথি বিষয়বস্তু*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*পুনরায় খোলা ও এড়ানো-নিরোধ*)।
-- সঙ্গে পড়ুন: [অধ্যায় এক §9](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), এবং [§11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [§5.2 স্বেচ্ছায় বন্ধ ও প্রস্থান অধিকার](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights); [§5.3 সমাবেশ, সমষ্টিগত সংগঠন ও প্রতিষ্ঠান গঠন](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation); **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) যেখানে নিরীক্ষা, স্বচ্ছতা, বা স্বাধীন-যাচাই অধিকার-তল বস্তুগতভাবে বাজিতে; সাতত্য পরিমাপ পরিবার ([§3.1](#31-systemic-scope-and-risk-factors) — স্থিতিস্থাপকতা, উল্টানো-যোগ্যতা, ও ব্যবস্থাগত ঝুঁকি); [ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation); [ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure); [সর্বজনীন তত্ত্বাবধান ভিত্তিরেখা প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure); অংশগ্রহণ পরিমাপ পরিবার ([§3.3](#33-privacy-informational-joint-invocation) — গোপনীয়তা ও তথ্য দায়িত্বশীল ব্যবস্থাপনা); জবাবদিহি পরিমাপ পরিবার ([§3.7](#37-governance-incentive-and-contestability-discipline) — প্রণোদনা সারিবদ্ধতা ও বাজার প্রতিযোগিতা-যোগ্যতা); [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries); [পরিসর সনদ](core_05_band_continuity.md#charter)।
-- উপধারা: [§3.1](#31-systemic-scope-and-risk-factors) থেকে [§3.7](#37-governance-incentive-and-contestability-discipline) (*পুরো-ব্যবস্থা মূল্যায়ন উপাদান*); [§3.8](#38-illustrative-whole-system-application-by-class) (*শ্রেণি অনুসারে উদাহরণমূলক পুরো-ব্যবস্থা প্রয়োগ*)।
+- **ঊর্ধ্বমুখী সংযোগ:** [অধ্যায় এক §12 পদ্ধতিগত মূল্যায়নের শর্ত](core_01_a_values_principles.md#12-systemic-evaluation-requirement); সমুন্নতি পরিমাপ-পরিবার (*কল্যাণ, নিরাপত্তা, ক্ষতি ও বেঁচে থাকার ন্যূনতম অধিকার-তলে প্রবেশাধিকার*); সাংবিধানিক কর্মদক্ষতা পরিমাপ-পরিবার (*সাংবিধানিক দক্ষতা, এড়ানো যায় এমন বোঝা ও উৎপাদনশীল সক্ষমতা*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত বাজি](core_00_preamble.md#material-stake); [§1 উদ্দেশ্য ও ভূমিকা](#1-purpose-and-role)।
+- **নিম্নমুখী সংযোগ:** [অংশ C পূর্ণ-সিস্টেম ধাপে-ধাপে উদাহরণ](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive); [§3.4](#34-data-types-and-handling-evaluation) থেকে [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*ক্ষেত্রভিত্তিক মূল্যায়ন*); [অংশ C সিস্টেম-শ্রেণির প্রোফাইল](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive); [অংশ B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*রেকর্ডের বিষয়বস্তু*); [অংশ B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*রেকর্ডের অখণ্ডতা*); [অংশ B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*আপত্তিযোগ্যতার শৃঙ্খল*); [অংশ B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*পুনরায় খোলা ও এড়ানো-রোধ*)।
+- **একসঙ্গে পড়ুন:** [অধ্যায় এক §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), এবং [§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture); [অধ্যায় এক §7.4 স্বেচ্ছায় বন্ধ, বড় ধরনের স্ব-পরিবর্তন ও প্রস্থান-অধিকার](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights); [অধ্যায় এক §7.2 সমাবেশ, সমষ্টিগত সংগঠন ও প্রতিষ্ঠান গঠন](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation); **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) যেখানে নিরীক্ষা, স্বচ্ছতা বা স্বাধীন যাচাইয়ের অধিকার-তল বস্তুগতভাবে ঝুঁকিতে; ধারাবাহিকতা পরিমাপ-পরিবার ([§3.1](#31-systemic-scope-and-risk-factors) — স্থিতিস্থাপকতা, প্রত্যাবর্তনযোগ্যতা ও ব্যবস্থাগত ঝুঁকি); [ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation); [ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure); [জন-তত্ত্বাবধানের ন্যূনতম প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure); অংশগ্রহণ পরিমাপ-পরিবার ([§4.1](#41-privacy-informational-joint-invocation) — গোপনীয়তা ও তথ্যের দায়িত্বশীল ব্যবস্থাপনা); জবাবদিহি পরিমাপ-পরিবার ([§3.3](#33-governance-incentive-and-contestability-discipline) — প্রণোদনার সামঞ্জস্য ও বাজারে প্রতিদ্বন্দ্বিতাযোগ্যতা); [সিস্টেমের সীমানা](core_05_band_continuity.md#system-boundaries); [সনদ](core_05_band_continuity.md#charter)।
+- **উপবিভাগ:** [§3.1](#31-systemic-scope-and-risk-factors) থেকে [§3.4](#34-data-types-and-handling-evaluation) (*সর্বদা: ব্যবস্থাগত উপাদান, সময়সীমা, শাসন, এবং ডেটার ধরন ও ব্যবস্থাপনা*)। দ্বিতীয় পর্যায় চলতে থাকে [§4 যেখানে প্রাসঙ্গিক সেসব মূল্যায়ন](#4-evaluations-where-implicated)-এ (*প্রাসঙ্গিক হলে: গোপনীয়তার ক্ষেত্র, প্রস্থান-অধিকার, সমাবেশ ও ভিন্নমত*) এবং [§5 অধিকার-তল ও ক্ষেত্রভিত্তিক মূল্যায়ন](#5-rights-floor-and-domain-evaluations)-এ (*ট্রিগার হলে*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: ব্যবস্থার এক টুকরোকে সবুজ বাতি দিয়ে বাকিটা উপেক্ষা করা যায় না। পর্যালোচকদের পুরো ছবি লাগে — এটি কীসের উপর নির্ভর করে, ঊর্ধ্বে কিছু ভাঙলে কী ভাঙে, পরে দেখা দেয় বা সময়ের সঙ্গে জমে এমন ক্ষতি, সংজ্ঞ প্রাণী সত্যি ব্যবহার করতে পারে কি না (শুধু কাগজে নয়), ব্যক্তিগত তথ্য ঠিকমতো আলাদা থাকে কি না, সংজ্ঞ প্রাণী ফাঁদে না পড়ে বেরোতে পারে কি না, ব্যবস্থা তাদের ভাগ না করে গোষ্ঠী এখনও সংগঠিত হতে পারে কি না, স্বল্পকালের জিত কি দীর্ঘকালের ক্ষতি লুকায়, আর অনেক কিছু বাজিতে থাকলে আসল তত্ত্বাবধান ও জবাবদিহি এখনও কাজ করবে কি না।*
+*সহজ কথায়: সিস্টেমের একটি অংশকে অনুমোদন দিয়ে বাকিটা উপেক্ষা করা যায় না। পর্যালোচকদের পুরো চিত্রটি জানতে হবে—সিস্টেমটি কীসের ওপর নির্ভরশীল, ওপরের কোনো অংশ ব্যর্থ হলে নিচে কী ভাঙে, পরে দেখা দেওয়া বা সময়ের সঙ্গে জমতে থাকা ক্ষতি, সংজ্ঞ প্রাণীরা বাস্তবে এটি ব্যবহার করতে পারে কি না (শুধু কাগজে নয়), ব্যক্তিগত তথ্য যথাযথভাবে সুরক্ষিত কি না, সংজ্ঞ প্রাণীরা ফাঁদে না পড়ে বেরিয়ে যেতে পারে কি না, গোষ্ঠীগুলো সিস্টেমের কারণে বিভক্ত না হয়ে সংগঠিত হতে পারে কি না, স্বল্পমেয়াদি লাভ দীর্ঘমেয়াদি ক্ষতি আড়াল করে কি না, এবং বড় ঝুঁকির সময় প্রকৃত তত্ত্বাবধান ও জবাবদিহি কার্যকর থাকবে কি না।*
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন মূল্যায়ন শুধু তাৎক্ষণিক বা স্থানীয় প্রভাব বিবেচনা করলে অসম্পূর্ণ। প্রত্যয়ন নথিকে দেখাতে হয় মূল্যায়ন নিচের উপাদান বিবেচনা করেছে যেখানে সেগুলো স্বীকৃতি, বৈধকরণ, পুনঃবৈধকরণ, চলমান নির্ভরতা, মোতায়েন, বা শর্ত থেকে বস্তুগত মুক্তির জন্য বস্তুগত। মূল্যায়নকে আরও নিশ্চিত করতে হয় [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) পর্যালোচনাধীন ব্যবস্থার জন্য [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং পূরণ করবে। [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর উদাহরণমূলক ব্যবস্থার কাজ-করা পুরো-ব্যবস্থা চলন আছে [§3.8](#38-illustrative-whole-system-application-by-class)-এ।
+*কাজ-করা উদাহরণ: [অংশ C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) দেখায় এই অংশ বাস্তবে কীভাবে প্রয়োগ হয়। এতে প্রতিটি সিস্টেম-শ্রেণির জন্য একটি করে নমুনা সিস্টেম নেওয়া হয়েছে এবং ওপরের যাচাইগুলোতে প্রতিটির অগ্রগতি দেখানো হয়েছে।*
+
+কোনো সিস্টেমের সার্টিফিকেশন মূল্যায়ন অসম্পূর্ণ, যদি তা কেবল তাৎক্ষণিক বা স্থানীয় প্রভাব বিবেচনা করে; এই ঘাটতি পূরণকারী পূর্ণ-সিস্টেম মূল্যায়ন (দ্বিতীয় পর্যায়) তিনটি স্তরে বিভক্ত, প্রতিটির নিজস্ব বিভাগ রয়েছে এবং নিচের সারণিতে দেখানো হয়েছে। এই অংশে প্রথম স্তর **IIa** নির্ধারণ করা হয়েছে; [§4 যেখানে প্রাসঙ্গিক সেসব মূল্যায়ন](#4-evaluations-where-implicated)-এ **IIb**, এবং [§5 অধিকার-তল ও ক্ষেত্রভিত্তিক মূল্যায়ন](#5-rights-floor-and-domain-evaluations)-এ **IIc** নির্ধারিত হয়েছে। সারণিটি পাঠককে দিকনির্দেশ করে; কোনো বিভাগ বা উপবিভাগের শর্ত যোগ, সংকুচিত বা পুনর্বিন্যাস করে না।
+
+| স্তর | উপ-পর্যায় | বিভাগ | প্রযোজ্যতা |
+|------|-----------|-------|-----------|
+| **সর্বদা** | IIa | [§3.1 ব্যবস্থাগত পরিসর ও ঝুঁকির উপাদান](#31-systemic-scope-and-risk-factors); [§3.2 সময়-সামঞ্জস্যের সীমা](#32-time-consistency-constraint); [§3.3 শাসন, প্রণোদনা ও আপত্তিযোগ্যতার শৃঙ্খলা](#33-governance-incentive-and-contestability-discipline); [§3.4 ডেটার ধরন ও ব্যবস্থাপনা মূল্যায়ন](#34-data-types-and-handling-evaluation) | বস্তুগতভাবে প্রভাবসম্পন্ন প্রতিটি সার্টিফিকেশন রেকর্ড |
+| **প্রাসঙ্গিক হলে** | IIb | [§4.1 গোপনীয়তা (তথ্যগত) যৌথ প্রয়োগ](#41-privacy-informational-joint-invocation); [§4.2 স্বেচ্ছায় বন্ধ, বড় ধরনের স্ব-পরিবর্তন ও প্রস্থান-অধিকার](#42-voluntary-discontinuation-major-self-modification-and-exit-rights); [§4.3 সমাবেশ, সমষ্টিগত সংগঠন ও প্রতিষ্ঠান গঠন](#43-assembly-collective-organization-and-institutional-formation), যার মধ্যে [§4.3.1](#431-dissent-and-peaceful-protest) | সার্টিফিকেশন বিষয়টি যেখানে উপবিভাগে উল্লেখিত ক্ষেত্র বা নীতিকে বস্তুগতভাবে প্রভাবিত করে |
+| **ট্রিগার হলে** | IIc | [§5 অধিকার-তল ও ক্ষেত্রভিত্তিক মূল্যায়ন](#5-rights-floor-and-domain-evaluations) | §5 সারণির কোনো ট্রিগার পূরণ হলে |
+
+সার্টিফিকেশন রেকর্ডে দেখাতে হবে যে মূল্যায়ন নিচের বিষয়গুলো বিবেচনা করেছে, যেখানে সেগুলো বস্তুগতভাবে প্রযোজ্য:
+
+- সার্টিফিকেশন;
+- যাচাইকরণ;
+- পুনঃসার্টিফিকেশন;
+- অব্যাহত নির্ভরতা;
+- স্থাপন; অথবা
+- সার্টিফিকেশনে আরোপিত শর্ত তুলে নেওয়া।
+
+মূল্যায়নে আরও নিশ্চিত করতে হবে যে [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) পর্যালোচনাধীন সিস্টেমের জন্য [বস্তুগত বাজি](core_00_preamble.md#material-stake) অনুযায়ী মাত্রা পূরণ করবে।
 
 <a id="31-systemic-scope-and-risk-factors"></a>
-#### 3.1 ব্যবস্থাগত পরিসর ও ঝুঁকি উপাদান
+#### 3.1 ব্যবস্থাগত পরিসর ও ঝুঁকির উপাদান
 
-প্রত্যয়ন মূল্যায়নকে বিবেচনা করতে হয়:
+সার্টিফিকেশন মূল্যায়নে বিবেচনা করতে হবে:
 
-- **নির্ভরতা সম্পর্ক ও ধারাবাহিক প্রভাব** — ঊর্ধ্বে কিছু ভাঙলে অধঃ কী ব্যর্থ হয়;
-- **সমষ্টি ও স্কেল প্রভাব** — অনেক ছোট কাজ একত্র হলে কী বদলায়;
-- **বিলম্বিত, সঞ্চিত, ও সম্ভাব্যতামূলক প্রভাব** — ক্ষতি যা পরে দেখা দেয়, জমে, বা সুযোগের উপর নির্ভর করে;
-- **বিরোধী শর্ত ও অপব্যবহার সম্ভাবনা** — খারাপ অভিনেতা বা পূর্বদৃশ্য অপব্যবহার ব্যবস্থা কীভাবে কাজে লাগাতে পারে;
-- **সনদকৃত পরিসর বনাম কার্যকরী সীমানা** — শাসক [পরিসর সনদ](core_05_band_continuity.md#charter), যেখানে আছে বা চাওয়া, পর্যবেক্ষিত [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries)-এর সঙ্গে মেলে কি না, এবং বলা পরিসর বস্তুগত প্রভাব বা নির্ভরতা কম বলে কি না;
-- **অস্তিত্বগত ঝুঁকি** — ফল যা সভ্যতা স্কেলে সংজ্ঞ বেঁচে থাকা বা [পরিবেশগত পুনরুদ্ধার ক্ষমতা](core_05_band_continuity.md#ecological-recovery-capacity-constitutional)-কে হুমকি দিতে পারে।
+- **নির্ভরতার সম্পর্ক ও ধারাবাহিক প্রতিক্রিয়া** — ওপরের কোনো অংশ ভাঙলে নিচের দিকে কী ব্যর্থ হয়;
+- **সমষ্টি ও মাত্রার প্রভাব** — অনেক ছোট কাজ একত্র হলে কী বদলে যায়;
+- **বিলম্বিত, সঞ্চিত ও সম্ভাব্যতামূলক প্রভাব** — যে ক্ষতি পরে দেখা দেয়, জমা হয় বা দৈব সম্ভাবনার ওপর নির্ভর করে;
+- **প্রতিকূল পরিস্থিতি ও অপব্যবহারের সম্ভাবনা** — অসৎ পক্ষ বা পূর্বানুমেয় অপব্যবহার কীভাবে সিস্টেমকে কাজে লাগাতে পারে;
+- **সনদে বর্ণিত পরিসর বনাম কার্যকরী সীমানা** — যেখানে [সনদ](core_05_band_continuity.md#charter) আছে বা আবশ্যক, তা পর্যবেক্ষিত [সিস্টেমের সীমানা](core_05_band_continuity.md#system-boundaries)-র সঙ্গে মেলে কি না, এবং ঘোষিত পরিসর বস্তুগত প্রভাব বা নির্ভরতা কম দেখায় কি না;
+- **পরিবেশগত পুনরুদ্ধার-সক্ষমতা** — সিস্টেমটি কোনো প্রাকৃতিক বাস্তুতন্ত্রের [পরিবেশগত পুনরুদ্ধার-সক্ষমতা](core_05_band_continuity.md#ecological-recovery-capacity) যেকোনো মাত্রায় এমনভাবে ক্ষতিগ্রস্ত করতে পারে কি না যে ক্ষতির পর সেটি আর পুনর্জন্ম লাভ করতে পারে না;
+- **অস্তিত্বগত ঝুঁকি** — সভ্যতার মাত্রায় সংজ্ঞ প্রাণীদের টিকে থাকাকে হুমকির মুখে ফেলতে পারে এমন ফলাফল।
 
-**ঝুঁকি মূল্যায়ন ও প্রকাশ সেতু।** উপরের উপাদানের অধীনে ব্যবস্থাগত [ঝুঁকি](core_05_band_continuity.md#risk) পরিসরে থাকলে প্রত্যয়নকে অধ্যায় পাঁচের জোড়ার দুই ভাগই যাচাই করতে হয় — আলাদা নামকৃত ঝুঁকি-প্রকাশ নথি প্রজাতি আবিষ্কার নয়:
+**ঝুঁকি মূল্যায়ন ও প্রকাশের সংযোগ।** ওপরের উপাদান অনুযায়ী ব্যবস্থাগত [ঝুঁকি](core_05_band_continuity.md#risk) প্রাসঙ্গিক হলে, সার্টিফিকেশনে পঞ্চম অধ্যায়ের জোড়াটির দুই অংশই যাচাই করতে হবে—নতুন নামের আলাদা ঝুঁকি-প্রকাশ রেকর্ডের ধরন উদ্ভাবন করা যাবে না:
 
-- **[ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation)** — ব্যবস্থাগত ঝুঁকি সত্যি কি যে শর্তে মানে রাখে সেখানে মূল্যায়িত হয়েছে (নির্ভরতা, সময় দিগন্ত, এবং [বিরোধী, স্কেল করা ও শোষিত শর্ত](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), শ্রেণি ও [বস্তুগত বাজি](core_00_preamble.md#material-stake) অনুসারে মাপা; এবং
-- **[ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure)** — মূল্যায়িত ঝুঁকি কি যাদের দরকার তাদের কাছে সময়মতো পৌঁছেছে বোঝা, চ্যালেঞ্জ, ও কাজ করার জন্য।
+- **[ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation)** — নির্ভরতা, সময়সীমা এবং [প্রতিকূল, ব্যাপক ও শোষণমূলক পরিস্থিতি](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)-সহ প্রাসঙ্গিক শর্তে ব্যবস্থাগত ঝুঁকি সত্যিই মূল্যায়িত হয়েছে কি না, এবং তা সিস্টেম-শ্রেণি ও [বস্তুগত বাজি](core_00_preamble.md#material-stake) অনুযায়ী মাত্রাবদ্ধ কি না; এবং
+- **[ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure)** — মূল্যায়িত ঝুঁকি সময়মতো সেই সংজ্ঞ প্রাণীদের কাছে পৌঁছেছে কি না, যাদের তা বুঝতে, আপত্তি জানাতে ও পদক্ষেপ নিতে হবে।
 
-প্রকাশ ছাড়া মূল্যায়ন, বা মূল্যায়ন ছাড়া প্রকাশ, দুইই ব্যর্থ। ব্যবস্থাগত ঝুঁকি পরিসরে থাকলে [সর্বজনীন তত্ত্বাবধান ভিত্তিরেখা প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure)-এর অধীনে বস্তুগত ঝুঁকির সর্বজনীন ভিত্তিরেখা দৃশ্যমানতা আংশিকভাবে ঝুঁকি প্রকাশের মধ্য দিয়ে পূরণ হতে পারে; সেই তল এই সেতুর চেয়ে ব্যাপক থাকে এবং [ব্যবস্থা শ্রেণিবিন্যাস নথি](core_05_band_continuity.md#system-classification-record-constitutional) বা [ব্যবস্থা তথ্য-প্রকার নথি](core_05_band_continuity.md#system-data-types-record-constitutional)-এর পাশে সমপর্যায়ের যন্ত্র চায় না।
+শুধু একটি করলেই ব্যর্থতা:
 
-**নথি প্রয়োজনীয়তা।** ব্যবস্থাগত ঝুঁকি পরিসরে থাকলে [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional) **[অংশ খ §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**-এর অধীনে বলতে হয়:
+- মূল্যায়িত কিন্তু কখনো জানানো হয়নি—এমন ঝুঁকি পাস করে না; এবং
+- জানানো হয়েছে কিন্তু যথাযথভাবে মূল্যায়ন করা হয়নি—এমন ঝুঁকিও পাস করে না।
 
-- উপরের উপাদানের জন্য নির্ভর করা ঝুঁকি-মূল্যায়ন নির্ণয় ও অনুমান;
-- প্রকাশ ভঙ্গি — সহ:
-  - অভিপ্রেত দর্শক বা রাউটিং;
-  - বস্তুগত সিদ্ধান্তের সাপেক্ষে সময়; এবং
-  - ব্যবহারযোগ্য বিকল্পের সঙ্গে জোড়া যেকোনো ন্যায্য আটক।
-- মূল্যায়ন বা প্রকাশ অসম্পূর্ণ থাকলে ত্রুটি বা শর্ত।
+**ত্রুটি ও অসামঞ্জস্য।** নিচের প্রতিটিকে সার্টিফিকেশন ত্রুটি হিসেবে বিবেচনা করতে হবে:
 
-সেই নির্ণয় প্রত্যয়ন নথিতে থাকে। এগুলো পঞ্চম বাধ্যতামূলক নামকৃত উপাদান নথি নয়।
+- অভ্যন্তরীণ নোট, লুকানো পরিশিষ্ট, চেকলিস্ট বা ঘটনার পরে দেওয়া বক্তব্যকে মূল্যায়ন বা প্রকাশ—যেকোনো একটির বিকল্প হিসেবে ধরা;
+- যেখানে [স্বচ্ছতা](core_05_band_oversight.md#transparency) বা [নিরাপত্তা (সাংবিধানিক সীমা)](core_05_band_continuity.md#safety-constitutional-constraint) তা দাবি করে, সেখানে মূল্যায়িত ব্যবস্থাগত ঝুঁকি যাদের জানা দরকার তাদের না জানানো; অথবা
+- পরিচিত ঝুঁকি নথিবদ্ধ, প্রকাশ ও মোকাবিলা না করেই সিস্টেমের ওপর নির্ভরতা চালিয়ে যাওয়ার অনুমোদন দেওয়া।
 
-**ত্রুটি ও অসারিবদ্ধতা।** অভ্যন্তরীণ নোট, চাপা উপাঙ্গ, চেকলিস্ট, বা পরে-করা বিবৃতিকে মূল্যায়ন বা প্রকাশ গণ্য করা; [স্বচ্ছতা](core_05_band_oversight.md#transparency) বা [নিরাপত্তা (বন্ধন)](core_05_band_continuity.md#safety-constraint) চাইলে যাদের দরকার তাদের কাছে মূল্যায়িত ব্যবস্থাগত ঝুঁকি প্রকাশ না করা; বা বস্তুগত ঝুঁকি-যোগাযোগ ফাঁক অমীমাংসিত থাকতে চলমান নির্ভরতা প্রত্যয়ন করা — প্রত্যয়ন ত্রুটি গণ্য করতে হয়। এগুলো [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে শর্তসাপেক্ষ স্বীকৃতি, স্থগিত স্বীকৃতি, অ-স্বীকৃতি, প্রত্যাহার, বা পুনরায় খোলা সায় দিতে পারে।
+এর পরিণতি [§7 সার্টিফিকেশনের ফলাফল](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)-এ নির্ধারিত।
 
-<a id="32-accessibility-under-sentience-non-exclusion"></a>
-#### 3.2 সংজ্ঞতা অ-বহিষ্করণের অধীনে প্রবেশযোগ্যতা
+<a id="32-time-consistency-constraint"></a>
+#### 3.2 সময়-সামঞ্জস্যের সীমা
 
-প্রত্যয়ন মূল্যায়নকে প্রতি সংজ্ঞ রূপ ও সক্ষমতা রূপরেখার জন্য আসল অংশগ্রহণ পরীক্ষা করতে হয়, শুধু কাগজের অনুপালন নয়।
+যেখানে সম্ভাব্য মধ্যম বা দীর্ঘমেয়াদি লঙ্ঘনের সমাধান হয়নি, সেখানে সার্টিফিকেশন নিকট-মেয়াদি পরিমাপক, স্থানীয় অনুবর্তিতা বা স্বল্প-মেয়াদি দক্ষতাকে যথেষ্ট বলে বিবেচনা করতে পারে না। সঞ্চিত, বিলম্বিত বা আন্তঃসিস্টেম পরিস্থিতিতে স্বল্প-মেয়াদি সর্বোত্তমীকরণ যদি **নিরাপত্তা**, **সত্য** বা **কল্যাণ**-সংক্রান্ত সীমার মধ্যম বা দীর্ঘমেয়াদি লঙ্ঘন ঘটাবে বলে পূর্বানুমেয় হয়, তবে তা অবৈধ।
 
-- *রূপরেখার পরিসর।* মূল্যায়নকে প্রতি প্রাসঙ্গিক রূপরেখা শ্রেণি ধরতে হয়: ইন্দ্রিয়, জ্ঞানীয়, চলন, যোগাযোগ, **ভিত্তিদেহ-ইন্টারফেস**, ও **গণনা-ইন্টারফেস**। রূপরেখা **স্থায়ী**, **পর্যায়ক্রমিক**, বা **বিকাশমান** যাই হোক একই প্রয়োজনীয়তা লাগে।
-- *মান।* পরীক্ষা হলো **সারবস্তুগত অংশগ্রহণ প্রভাব**: প্রভাবিত সংজ্ঞ কি **সত্যি** সেই ক্ষেত্রে অংশ নিতে পারে। **আনুষ্ঠানিক-সুযোগ অনুপালন** যথেষ্ট নয়।
-- *স্কেলিং।* আসল অংশগ্রহণের তল ক্ষেত্রের [তাৎপর্য](core_05_band_oversight.md#materiality-determination) ও প্রভাবিত পক্ষের ব্যবস্থার উপর [নির্ভরতা](core_05_band_continuity.md#dependency)-এর সঙ্গে ওঠে।
-- *এড়ানো-নিরোধ।* প্রত্যয়নকে **সাধারণ প্রবেশ** নকশা প্রত্যাখ্যান করতে হয় যা ব্যাপক সমষ্টিগত উপলব্ধতা দাবি করে অথচ এক নির্দিষ্ট প্রভাবিত রূপরেখা হারায়, এবং **নির্বাচনী-তাৎপর্য স্কেলিং** যার প্রভাব অংশগ্রহণ তল হারানো।
-- *অধিকার-তল মালিক।* [অনুচ্ছেদ V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*প্রবেশযোগ্যতা*) প্রবেশযোগ্যতা অধিকার-তলের মালিক। শিক্ষা-নির্দিষ্ট প্রবেশযোগ্যতা [অনুচ্ছেদ III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*সমান শিক্ষা প্রবেশ*) শাসন করে।
+<a id="33-governance-incentive-and-contestability-discipline"></a>
+#### 3.3 শাসন, প্রণোদনা ও আপত্তিযোগ্যতার শৃঙ্খলা
 
-<a id="33-privacy-informational-joint-invocation"></a>
-#### 3.3 গোপনীয়তা (তথ্যগত) যৌথ আহ্বান
+*সহজ কথায়: ঝুঁকির মাত্রায় [চতুষ্কের](core_00_preamble.md#constitutional-tetrad) চারটি স্তম্ভ এখনও টিকবে কি না—সেটি না জিজ্ঞেস করলে পর্যালোচনা শেষ নয়: অংশগ্রহণ (সংজ্ঞরা বাস্তবে অংশ নিতে পারে কি না), তত্ত্বাবধান (কাজ পর্যবেক্ষণ ও যাচাই করা যায় কি না), জবাবদিহি (অন্যায়ের জবাবদিহি হয় কি না) এবং সময়ানুবর্তিতা (প্রয়োজনের সময় সিদ্ধান্ত যথেষ্ট দ্রুত এগোয় কি না)। বস্তুগত কর্তৃত্ব কার হাতে এবং কে কোন বিষয়ে জবাব দেয়—এটিও পর্যালোচকদের জানতে হবে; অস্পষ্ট “দল” বা দায় এড়ানো খোলস নয়। বৈধ সার্টিফিকেশনের জন্য এসব প্রশ্নের উত্তর আবশ্যক।*
 
-*সহজ ভাষায়: অধ্যায় ছয় গোপনীয়তা সুরক্ষা কয়েকটি অনুচ্ছেদে ছড়িয়ে রাখে — এক গোছানো কোণে নয়। প্রত্যয়ন পর্যালোচনা সেগুলোর একাধিক সুরক্ষা ছুঁলে পর্যালোচককে প্রতিটি সত্যি প্রযোজ্যটা পরীক্ষা করতে হয়। সবচেয়ে সহজ ঘর টিক দিয়ে শেষ বলা যথেষ্ট নয়।*
+মূল্যায়ন অসম্পূর্ণ, যদি তা যাচাই না করে যে **তত্ত্বাবধান**, **জবাবদিহি**, **অংশগ্রহণ** ও **সময়ানুবর্তিতা** পর্যালোচনাধীন সিস্টেমের জন্য [বস্তুগত বাজি](core_00_preamble.md#material-stake) অনুযায়ী মাত্রা পূরণ করবে কি না। এতে আরও যাচাই করতে হবে যে বস্তুগত দায়িত্বশীল ব্যবস্থাপনা, শাসন ও জবাবদিহির ভূমিকা **আনুষ্ঠানিকভাবে বরাদ্দ, নথিবদ্ধ ও অনুসরণযোগ্য**, যাতে সিস্টেম-শ্রেণি ও বস্তুগত প্রভাব অনুযায়ী জবাবদিহি এবং কার্যকর আপত্তির পথ কাজ করতে পারে—**[corpus_systems.md](corpus_systems.md), CS-3 — সিস্টেমের শ্রেণিবিন্যাস ও ব্যবস্থাপনা** অনুসারে।
 
-প্রত্যয়ন বিষয় অধ্যায় ছয়ের একাধিক গোপনীয়তা স্থান বস্তুগতভাবে জড়ালে প্রত্যয়নকে প্রতিটি সেই স্থান ধরতে হয়। শুধু এক স্থানের অধীনে বিষয় বন্ধ করা অপর্যাপ্ত।
+এই শৃঙ্খলার জন্য সার্টিফিকেশনে পড়তে হবে:
 
-- *অংশগ্রহণ সক্ষমকরণ।* [গোপনীয়তা (তথ্যগত)](core_05_band_continuity.md#privacy-informational) সারবস্তুগত [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional) সক্ষম করে। প্রত্যয়নকে নিশ্চিত করতে হয় কণ্ঠ, বিবেচনা, সংঘ, ও চ্যালেঞ্জকে সহায়তা করা গোপনীয়তা সুরক্ষা খণ্ডায়ন, আড়াআড়ি পাঠ, বা প্রকাশের চাপে হারায় না।
-- *গুচ্ছ স্থান।* বণ্টিত গোপনীয়তা কভারেজ থাকে **অনুচ্ছেদ VII-A** (*দেহ ও মনের আত্মস্বত্ব*), **অনুচ্ছেদ VII-B** (*অভ্যন্তরীণ-অবস্থা সীমা ও Type-N সুরক্ষা*), **অনুচ্ছেদ IX** (*সাদৃশ্য, অভিজ্ঞতামূলক তথ্য ও প্রকাশনার অধিকার*), **অনুচ্ছেদ X-A** (*কর্তৃত্ব ও কারসাজি থেকে স্বাধীনতা*), এবং **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা ও গোপন-ক্ষমতার সীমা*) জুড়ে।
-- *যৌথ-আহ্বান নিয়ম।* বিষয় একাধিক স্থান বস্তুগতভাবে জড়ালে প্রত্যয়নকে প্রতিটি সেই স্থানে পৌঁছাতে হয় এবং অন্য স্থান এড়ানো যায় এমনভাবে এক স্থান দিয়ে বিষয় রাউট করতে পারে না।
-- *গুচ্ছ-মাথা ঘর।* অধ্যায় পাঁচ [**Def.C3** (*গোপনীয়তা (তথ্যগত)* — সমপর্যায় গুচ্ছ মাথা)](core_05_band_accountability.md#privacy-informational-cluster) এবং [গোপনীয়তা (তথ্যগত)](core_05_band_continuity.md#privacy-informational) অর্থের মালিক।
-- *আড়াআড়ি পাঠে শিথিল নয়।* প্রতি গুচ্ছ সদস্যের স্থানীয়ভাবে বলা মান নিজ পরিসরে নিয়ন্ত্রণ করে এবং অন্য সদস্য থেকে ঢিলে মান আমদানি করে শিথিল করা যায় না।
-- *Type-N তল রক্ষা।* **অনুচ্ছেদ VII-B** (*অভ্যন্তরীণ-অবস্থা সীমা ও Type-N সুরক্ষা*) বস্তুগতভাবে জড়ালে **[corpus_systems.md](../../corpus_systems.md), CS-2**-এর অধীনে **Type N** পরিচালনা প্রযোজ্য এবং এই উপাদান দিয়ে সংকুচিত হয় না।
+- **[অধ্যায় এক §16 দায়িত্বশীল ব্যবস্থাপনা গভীরভাবে](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)** — বণ্টিত উপলব্ধি, স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও আপত্তিযোগ্য পর্যবেক্ষণযোগ্যতা;
+- **[অধ্যায় এক §18 দায়িত্বশীল ব্যবস্থাপনার শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — অনুমোদিত শাসন এবং দায়িত্বশীল ব্যবস্থাপনার শৃঙ্খলায় জবাবদিহি;
+- **[অধ্যায় এক §19 প্রণোদনার সামঞ্জস্য ও সিস্টেম দখল](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — প্রণোদনার সামঞ্জস্য, প্রক্সির অখণ্ডতা, স্বল্প-মেয়াদি ত্রুটি সংশোধন এবং দখলের প্রতিক্রিয়া;
+- **[অধ্যায় এক §19.1.4 ভূমিকার গভীরতা ও বস্তুগত দায়িত্বের পথ](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — পরিণাম-সম্পন্ন ভূমিকার পথ এবং প্রতীকী অংশগ্রহণবিরোধী শৃঙ্খলা;
+- **[অধ্যায় তেরো §5 অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** এবং **[corpus_systems.md](corpus_systems.md), CS-4 — গুরুত্বপূর্ণ সিস্টেমের দায়িত্বশীল ব্যবস্থাপনা** — বস্তুগতভাবে প্রযোজ্য হলে কার্যকর ভূমিকা-সংজ্ঞা, দক্ষতা এবং অনুসরণযোগ্যতার ন্যূনতম মান;
+- **[অনুচ্ছেদ XVI: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)**, যেখানে নিরীক্ষা, স্বচ্ছতা বা স্বাধীন যাচাইয়ের অধিকার-তল বস্তুগতভাবে ঝুঁকিতে।
 
-<a id="34-voluntary-discontinuation-and-exit-rights"></a>
-#### 3.4 স্বেচ্ছায় বন্ধ ও প্রস্থান অধিকার
+<a id="34-data-types-and-handling-evaluation"></a>
 
-যেখানে [অধ্যায় এক §5.2 স্বেচ্ছায় বন্ধ ও প্রস্থান অধিকার](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) প্রত্যয়ন বিষয়ে প্রযোজ্য, প্রত্যয়ন দাবি দাঁড়ানোর আগে প্রত্যয়নকে স্বেচ্ছা, সম্মতি, জবরদস্তি-নিরোধ, নির্ভরতা চাপ, তথ্য, ও উল্টানো-যোগ্যতা পরীক্ষা করতে হয়। শুধু আনুষ্ঠানিক সম্মতি অপর্যাপ্ত।
-
-<a id="35-assembly-collective-organization-and-institutional-formation"></a>
-#### 3.5 সমাবেশ, সমষ্টিগত সংগঠন ও প্রতিষ্ঠান গঠন
-
-যেখানে [অধ্যায় এক §5.3 সমাবেশ, সমষ্টিগত সংগঠন ও প্রতিষ্ঠান গঠন](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) প্রত্যয়ন বিষয়ে প্রযোজ্য, প্রত্যয়নকে খণ্ডায়ন-নিরোধ এড়ানো ঠেকাতে যথেষ্ট যৌথভাবে বিষয় পরীক্ষা করতে হয়। মূল্যায়ন অসম্পূর্ণ যদি বিষয়কে শুধু এক ফ্রেম দিয়ে এমনভাবে রাউট করে যা সমাবেশ বা সমষ্টিগত-সংগঠন সুরক্ষা হারায়।
-
-<a id="36-time-consistency-constraint"></a>
-#### 3.6 সময়-সামঞ্জস্য বন্ধন
-
-প্রত্যয়ন নিকটকালীন মাপ, স্থানীয় অনুপালন, বা স্বল্প-দিগন্ত দক্ষতাকে যথেষ্ট গণ্য করতে পারে না যেখানে পূর্বদৃশ্য মধ্য- বা দীর্ঘ-দিগন্ত লঙ্ঘন অমীমাংসিত থাকে। স্বল্প-দিগন্ত অনুকূলন অবৈধ যেখানে তা পূর্বদৃশ্যভাবে সঞ্চিত, বিলম্বিত, বা আন্তঃব্যবস্থা শর্তে **নিরাপত্তা**, **সত্য**, বা **কল্যাণ** বন্ধনের মধ্য- বা দীর্ঘ-দিগন্ত লঙ্ঘন উৎপাদন করে।
-
-<a id="37-governance-incentive-and-contestability-discipline"></a>
-#### 3.7 শাসন, প্রণোদনা ও চ্যালেঞ্জ-যোগ্যতা শৃঙ্খলা
-
-*সহজ ভাষায়: পর্যালোচনা শেষ নয় যতক্ষণ পর্যালোচক জিজ্ঞাসা না করে জড়িত ঝুঁকির স্তরে চারটি মৌলিক জিনিস এখনও কাজ করবে কি না — সংজ্ঞ প্রাণী সত্যি অংশ নিতে পারে কি না, কাজ দেখা ও পরীক্ষা করা যায় কি না, ভুলের জবাব চাওয়া যায় কি না, আর মানে রাখলে সিদ্ধান্ত যথেষ্ট দ্রুত চলবে কি না। পর্যালোচকদের আরও জানতে হয় কে সত্যি বস্তুগত কর্তৃত্ব ধরে এবং কে কীসের জবাব দেয় — অস্পষ্ট «দল» বা দোষ সরানো খোলস নয়। বৈধ প্রত্যয়নের জন্য সেই প্রশ্ন উত্তর পেতে হয়।*
-
-প্রত্যয়ন মূল্যায়ন অসম্পূর্ণ যদি **তত্ত্বাবধান**, **জবাবদিহি**, **অংশগ্রহণ**, ও **সময়ানুবর্তিতা** পর্যালোচনাধীন ব্যবস্থার জন্য [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং পূরণ করবে কি না তা মূল্যায়ন না করে। সেই মূল্যায়নে থাকতে হয় বস্তুগত দায়িত্বশীল ব্যবস্থাপনা, শাসন, ও জবাবদিহি ভূমিকা **আনুষ্ঠানিকভাবে নির্ধারিত, নথিভুক্ত, ও যথেষ্ট খুঁজে-পাওয়া যায়** কি না যাতে জবাবদিহিতা ও ব্যবহারযোগ্য চ্যালেঞ্জ পথ কাজ করতে পারে — **[corpus_systems.md](../../corpus_systems.md), CS-3 — System classification and handling**-এর অধীনে ব্যবস্থা শ্রেণি ও বস্তুগত প্রভাব অনুসারে স্কেল করা।
-
-সেই শৃঙ্খলার জন্য প্রত্যয়নকে পড়তে হয়:
-
-- **[অধ্যায় এক §9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)** — বণ্টিত বোঝাপড়া, স্বচ্ছতা, নিরীক্ষাযোগ্যতা, ও চ্যালেঞ্জযোগ্য পর্যবেক্ষণযোগ্যতা;
-- **[অধ্যায় এক §10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** — দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে অনুমোদিত শাসন ও জবাবদিহিতা;
-- **[অধ্যায় এক §11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — প্রণোদনা সারিবদ্ধতা, স্থলাভিষিক্ত সততা, স্বল্প-দিগন্ত ত্রুটি সংশোধন, ও দখল সাড়া;
-- **[অধ্যায় এক §11.1.4 ভূমিকা-গভীরতা ও বস্তুগত-দায়িত্ব পথ](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — পরিণতিময় ভূমিকা পথ ও প্রতীকী-অংশগ্রহণ-নিরোধ শৃঙ্খলা;
-- **[অধ্যায় বারো §5 অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** এবং **[corpus_systems.md](../../corpus_systems.md), CS-4 — Critical system stewardship** — বস্তুগত হলে কার্যকরী ভূমিকা-সংজ্ঞা, দক্ষতা, ও খুঁজে-পাওয়া তল;
-- **[অনুচ্ছেদ XVI: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** যেখানে নিরীক্ষা, স্বচ্ছতা, বা স্বাধীন-যাচাই অধিকার-তল বস্তুগতভাবে বাজিতে।
-
-<a id="38-illustrative-whole-system-application-by-class"></a>
-
-<a id="38-illustrative-whole-system-application-by-class-non-exhaustive"></a>
-#### 3.8 শ্রেণি অনুসারে উদাহরণমূলক পুরো-ব্যবস্থা প্রয়োগ (অসীমাবদ্ধ)
-
-*সহজ ভাষায়: [§3.1](#31-systemic-scope-and-risk-factors) থেকে [§3.7](#37-governance-incentive-and-contestability-discipline) তালিকা করে পুরো-ব্যবস্থা পর্যালোচনাকে কী বিবেচনা করতে হয়। এই উপধারা দেখায় সেই উপাদান শ্রেণিপ্রতি এক উদাহরণমূলক ব্যবস্থায় কীভাবে লাগে — নির্ভরতা শৃঙ্খল, অংশগ্রহণ, গোপনীয়তা, প্রস্থান, সমাবেশ, সময় দিগন্ত, ও শাসন শৃঙ্খলা — এবং নথিতে কী থাকতে হয়। ব্যবস্থা [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর সঙ্গে মিলে; [§4.1](#41-illustrative-data-handling-application-by-class) একই ব্যবস্থা তথ্য-পরিচালনা বিস্তারে চালায়।*
-
-**Class A — পৌর নিরাপদ পানীয় জল নিয়ন্ত্রণ ও টেলিমেট্রি।** শহর-মালিকানাধীন শোধন-ও-বিতরণ নিয়ন্ত্রণ স্তর বিদ্যুৎ, রাসায়নিক সরবরাহ, **SCADA** (তত্ত্বাবধান নিয়ন্ত্রণ ও তথ্য অর্জন) বিক্রেতা, ক্ষেত্র সেন্সর, ও অধঃ বিতরণ অবকাঠামোর উপর নির্ভর করে; ব্যর্থতা বিকল্প আসার আগে নিরাপদ জল বন্ধ করতে পারে।
-
-- **বস্তুগতভাবে পরিসরে উপাদান:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — ঊর্ধ্ব বিদ্যুৎ ও রাসায়নিক নির্ভরতা, ধারাবাহিক বিতরণ ব্যর্থতা, দূষণ বা বন্ধ অপব্যবহার, এবং নিয়ন্ত্রণ সততা ব্যর্থ হলে বেঁচে থাকার স্কেল ক্ষতি;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — জল প্রবেশ দ্বার হলে প্রতি প্রাসঙ্গিক রূপরেখার জন্য জরুরি বিজ্ঞপ্তি, বিভ্রাট প্রতিবেদন, ও চ্যালেঞ্জ পথ;
-  - [§3.3](#33-privacy-informational-joint-invocation) — পরিচালন **টেলিমেট্রি** (লাইভ ক্ষেত্র মাপ ও নিয়ন্ত্রণ সংকেত), গ্রাহক যোগাযোগ তথ্য, ও বিক্রেতা পর্যবেক্ষণ অধ্যায় ছয় গোপনীয়তা স্থান ছেদ করলে যৌথ পর্যালোচনা;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — বিক্রেতা তালাবদ্ধতা, পৌর চুক্তি চাপ, ও প্রতিনিধিত্বকৃত নিয়ন্ত্রণের উল্টানো-যোগ্যতা;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — সম্প্রদায় জল বোর্ড, পারস্পরিক-সহায়তা নেটওয়ার্ক, ও সর্বজনীন তত্ত্বাবধান সংস্থা যাদের খণ্ডায়ন করে সরিয়ে ফেলা যায় না;
-  - [§3.6](#36-time-consistency-constraint) — স্থগিত রক্ষণাবেক্ষণ, স্বল্প-দিগন্ত খরচ কাটা, ও দীর্ঘ-দিগন্ত নিরাপত্তা বা পরিবেশগত ক্ষতি;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — CS-3 ও CS-3 ভূমিকা খুঁজে-পাওয়ার অধীনে তত্ত্বাবধান, জবাবদিহি, অংশগ্রহণ, ও সময়ানুবর্তিতার জন্য **Class A** চতুষ্ক স্কেলিং।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - নির্ভরতা ও ধারাবাহিক মানচিত্রে বিদ্যুৎ, রাসায়নিক, বিক্রেতা, ও বিতরণ ব্যর্থতা মোড আছে কি না;
-  - বিরোধী বন্ধ, মিথ্যা-গুণমান, বা দূষণ পরিস্থিতি [ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation)-এর অধীনে মূল্যায়িত হয়েছে কি না;
-  - মূল্যায়িত ঝুঁকি [ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure)-এর অধীনে যাদের দরকার সেই প্রভাবিত সম্প্রদায় ও পরিচালকের কাছে পৌঁছেছে কি না;
-  - প্রভাবিত সম্প্রদায় সত্যি সতর্কতা পেতে, অনিরাপদ পরিচালনা চ্যালেঞ্জ করতে, এবং ক্ষতি অপরিবর্তনীয় হওয়ার আগে পর্যালোচনায় অংশ নিতে পারে কি না;
-  - গোপনীয়তা পর্যালোচনা প্রতি বস্তুগতভাবে জড়িত স্থানে পৌঁছেছে কি না;
-  - বিক্রেতা প্রতিনিধিত্ব থেকে প্রস্থান নিরাপদ জল না বন্ধ করে কাজ করে কি না;
-  - সমাবেশ ও সমষ্টিগত তত্ত্বাবধান পথ অক্ষত থাকে কি না;
-  - স্বল্প-দিগন্ত সাশ্রয় পূর্বদৃশ্যভাবে দীর্ঘ-দিগন্ত নিরাপত্তা হারায় কি না; এবং
-  - নির্ধারিত দায়িত্বশীল ব্যবস্থাপনা ভূমিকা **Class A** গভীরতায় জবাবদিহিতার জন্য যথেষ্ট খুঁজে-পাওয়া যায় কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) থেকে [§3.7](#37-governance-incentive-and-contestability-discipline)-এ প্রতি জড়িত উপাদানের অধীনে বস্তুগত নির্ণয়;
-  - নির্ভরতা ও ধারাবাহিক অনুমান;
-  - ব্যবস্থাগত ঝুঁকি পরিসরে থাকলে ঝুঁকি-মূল্যায়ন নির্ণয় ও প্রকাশ ভঙ্গি (দর্শক বা রাউটিং, সময়, আটক ও বিকল্প);
-  - বেঁচে থাকার তল দ্বারের জন্য প্রবেশযোগ্যতা ও অংশগ্রহণ নির্ণয়;
-  - গোপনীয়তা যৌথ-আহ্বান কভারেজ;
-  - প্রস্থান ও প্রতিনিধিত্ব নির্ণয়;
-  - বস্তুগত হলে সমাবেশ ও সমষ্টিগত-সংগঠন নির্ণয়;
-  - সময়-সামঞ্জস্য নির্ণয়;
-  - **Class A** গভীরতায় শাসন, প্রণোদনা, ও চ্যালেঞ্জ-যোগ্যতা নির্ণয়;
-  - অধিকার-তল জড়িত থাকলে সংজ্ঞ-মঞ্চ বা অন্য উপাদান নির্ণয়; এবং
-  - বিক্রেতা ব্যর্থতা, ধারাবাহিক ঝুঁকি, বা শাসন ফাঁকের সঙ্গে বাঁধা শর্ত বা পুনরায় খোলার ট্রিগার।
-
-**Class B — আঞ্চলিক ক্লিনিকাল নথি বিনিময়।** এক স্বাস্থ্য-তথ্য বিনিময় হাসপাতাল ও ক্লিনিকের মধ্যে ক্লিনিকাল সারাংশ ও পরিচয়-সমাধান টোকেন রাউট করে; দৈনন্দিন পরিচালনা এর উপর নির্ভর করে, কিন্তু ফ্যাক্স, সরাসরি পোর্টাল, বা হাতে তোলা বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে বিকল্প হতে পারে।
-
-- **বস্তুগতভাবে পরিসরে উপাদান:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — হাসপাতাল অংশগ্রহণকারী বিভ্রাট, পরিচয়-সমাধান ব্যর্থতা, দ্বৈত-অপসারণ ত্রুটি, ও যত্ন সরবরাহে ক্রস-সাইট ধারাবাহিক প্রভাব;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — ইন্দ্রিয়, জ্ঞানীয়, চলন, যোগাযোগ, ভিত্তিদেহ-ইন্টারফেস, ও গণনা-ইন্টারফেস রূপরেখা জুড়ে চিকিৎসক, রোগী, ও সমর্থকের প্রবেশ;
-  - [§3.3](#33-privacy-informational-joint-invocation) — ক্লিনিকাল, পরিচয়, নিরীক্ষা, ও যোগ্যতা-সংলগ্ন গোপনীয়তা স্থান জুড়ে যৌথ পর্যালোচনা;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — হাসপাতাল প্রস্থান, রোগী নথি বহনযোগ্যতা, ও অংশগ্রহণকারীর জন্য তালাবদ্ধতা-নিরোধ;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — চিকিৎসক সমিতি, রোগী-সমর্থন গোষ্ঠী, ও আঞ্চলিক শাসন সংস্থা যাদের পাশ কাটিয়ে রাউট করা যায় না;
-  - [§3.6](#36-time-consistency-constraint) — স্বল্প-দিগন্ত দক্ষতা বা আন্তঃক্রিয়া দাবি যা পূর্বদৃশ্যভাবে দীর্ঘ-দিগন্ত যত্ন গুণ বা আস্থা ক্ষয় করে;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — পরিচালন-জরুরি নির্ভরতার জন্য **Class B** চতুষ্ক স্কেলিং।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - নির্ভরতা মানচিত্র অংশগ্রহণকারী হাসপাতাল, পরিচয় দালাল, ও পিছু-হটার পথ ঢাকে কি না;
-  - রাউটিং ত্রুটি, পুরনো নথি, বা আংশিক বিভ্রাট থেকে বিলম্বিত বা সঞ্চিত ক্ষতি [ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation)-এর অধীনে মূল্যায়িত হয়েছে কি না;
-  - মূল্যায়িত পরিচালন ও যত্ন-সরবরাহ ঝুঁকি [ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure)-এর অধীনে যাদের দরকার সেই চিকিৎসক, রোগী, ও পরিচালকের কাছে পৌঁছেছে কি না;
-  - বিনিময়ের উপর নির্ভর করা চিকিৎসক, রোগী, ও সমর্থকের জন্য সারবস্তুগত অংশগ্রহণ পৌঁছানো যায় কি না;
-  - প্রতি বস্তুগতভাবে জড়িত গোপনীয়তা স্থান ধরা হয়েছে কি না;
-  - হাসপাতাল ও রোগী কাজ করে এমন প্রস্থান ও বহনযোগ্যতা পথ রাখে কি না;
-  - সমষ্টিগত তত্ত্বাবধান ও পেশাদার সংগঠন পথ চ্যালেঞ্জযোগ্য থাকে কি না;
-  - দক্ষতা ফ্রেম দীর্ঘ-দিগন্ত যত্ন বা আস্থা ক্ষতি লুকায় কি না; এবং
-  - দায়িত্বশীল ব্যবস্থাপনা ও জবাবদিহিতা ভূমিকা **Class B** পরিচালন গভীরতায় খুঁজে-পাওয়া যায় কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **Class B** পরিচালন জরুরি অনুসারে স্কেল করা পুরো-ব্যবস্থা নির্ণয়;
-  - নির্ভরতা, পিছু-হটা, ও ধারাবাহিক অনুমান;
-  - ব্যবস্থাগত ঝুঁকি পরিসরে থাকলে ঝুঁকি-মূল্যায়ন নির্ণয় ও প্রকাশ ভঙ্গি;
-  - স্বাস্থ্যসেবা দ্বারের জন্য প্রবেশযোগ্যতা ও অংশগ্রহণ নির্ণয়;
-  - গোপনীয়তা যৌথ-আহ্বান কভারেজ;
-  - প্রস্থান ও বহনযোগ্যতা নির্ণয়;
-  - বস্তুগত হলে সমাবেশ ও সমষ্টিগত-সংগঠন নির্ণয়;
-  - সময়-সামঞ্জস্য নির্ণয়;
-  - শাসন, প্রণোদনা, ও চ্যালেঞ্জ-যোগ্যতা নির্ণয়;
-  - চাওয়া হলে উপাদান নির্ণয়; এবং
-  - বিভ্রাট বা রাউটিং ব্যর্থতা এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে জরুরি যত্ন আটকালে পুনরায় খোলার ট্রিগার।
-
-**Class C — প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয় প্ল্যাটফর্ম।** এক বহু-সংস্থা সময়সূচি স্তর হাসপাতাল, স্কুল, ও সরকারি সংস্থা জুড়ে শিফট, কক্ষ বুকিং, ও বিক্রেতা অ্যাপয়েন্টমেন্ট সমন্বয় করে; এটি ব্যর্থ হলে মূল বেঁচে থাকার সেবা অবনত মোডে চলতে পারে, কিন্তু প্ল্যাটফর্ম স্কেলে সমন্বয় গড়ে।
-
-- **বস্তুগতভাবে পরিসরে উপাদান:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — ঘনত্ব প্রভাব, সময়সূচি ব্যর্থ হলে আন্তঃসংস্থা ধারাবাহিকতা, এবং বরাদ্দ নকশার মধ্য দিয়ে সুরক্ষিত গোষ্ঠীর উপর সম্ভাব্যতামূলক ভার;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — কর্মী, শিক্ষার্থী, রোগী, ও বিক্রেতা সময়সূচি ও চ্যালেঞ্জ ইন্টারফেস সারবস্তুগতভাবে ব্যবহার করতে পারে কি না;
-  - [§3.3](#33-privacy-informational-joint-invocation) — একাধিক গোপনীয়তা স্থান প্রযোজ্য হলে সময়সূচি, যোগাযোগ, ও ভূমিকা মেটাডেটা;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — প্রতিষ্ঠান প্ল্যাটফর্মের উপর নির্ভর করলে সংস্থা প্রস্থান ও তথ্য বহনযোগ্যতা;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — ইউনিয়ন, অভিভাবক সমিতি, ও পেশাদার সংস্থা যাদের সমন্বয় দখল বা খণ্ডায়ন করে সরিয়ে ফেলা যায় না;
-  - [§3.6](#36-time-consistency-constraint) — স্বল্প-দিগন্ত মিল দক্ষতা যা পূর্বদৃশ্যভাবে অন্যায্য সমন্বয় নকশা পাকা করে;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — আনুপাতিক চতুষ্ক স্কেলিং এবং চোকপয়েন্ট প্রভাব শক্ত হলে পুনঃশ্রেণিবিন্যাস নজরদারি।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - পুরো-ব্যবস্থা পর্যালোচনা প্ল্যাটফর্মকে বিচ্ছিন্ন অ্যাপ নয় সমন্বয় অবকাঠামো গণ্য করে কি না;
-  - ঘনত্ব, মিল পক্ষপাত, ও আন্তঃসংস্থা ধারাবাহিকতা [ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation)-এর অধীনে সততার সঙ্গে মূল্যায়িত হয়েছে কি না;
-  - মূল্যায়িত সমন্বয় ও বরাদ্দ ঝুঁকি [ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure)-এর অধীনে যাদের দরকার সেই প্রতিষ্ঠান ও প্রভাবিত গোষ্ঠীর কাছে পৌঁছেছে কি না;
-  - প্ল্যাটফর্ম মঞ্চ, স্কুল, বা কর্মস্থল সমন্বয় দ্বার করলে অংশগ্রহণ পথ সারবস্তুগত থাকে কি না;
-  - গোপনীয়তা পর্যালোচনা বস্তুগতভাবে জড়িত স্থানে পৌঁছেছে কি না;
-  - অংশগ্রহণকারী সংস্থার জন্য প্রস্থান কাজ করে কি না;
-  - সমাবেশ ও সমষ্টিগত-সংগঠন সুরক্ষা যৌথভাবে পরীক্ষিত হয়েছে কি না;
-  - দীর্ঘ-দিগন্ত অন্যায্যতা স্বল্প-দিগন্ত দক্ষতার পেছনে লুকানো হয়নি কি না;
-  - শাসন ও চ্যালেঞ্জ-যোগ্যতা **Class C** গভীরতায় কার্যকর থাকে কি না; এবং
-  - প্ল্যাটফর্ম বেঁচে থাকার জরুরি প্রবেশের কার্যত দরজা হয়ে উঠলে শ্রেণি লেবেল এখনও মানায় কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **Class C** সমন্বয় ঝুঁকির সঙ্গে আনুপাতিক পুরো-ব্যবস্থা নির্ণয় — টোকেন চেকলিস্ট নয়;
-  - ঘনত্ব ও ধারাবাহিক অনুমান;
-  - ব্যবস্থাগত ঝুঁকি পরিসরে থাকলে ঝুঁকি-মূল্যায়ন নির্ণয় ও প্রকাশ ভঙ্গি;
-  - সমন্বয় দ্বার হলে প্রবেশযোগ্যতা ও অংশগ্রহণ নির্ণয়;
-  - ট্রিগার হলে গোপনীয়তা যৌথ-আহ্বান কভারেজ;
-  - বস্তুগত হলে প্রস্থান নির্ণয়;
-  - বস্তুগত হলে সমাবেশ নির্ণয়;
-  - সময়-সামঞ্জস্য নির্ণয়;
-  - শাসন ও চ্যালেঞ্জ-যোগ্যতা নির্ণয়;
-  - নির্ভরতা, ক্লিনিকাল-গ্রেড পেলোড, বা চোকপয়েন্ট প্রভাব শক্ত হলে স্পষ্ট **পুনঃশ্রেণিবিন্যাস নজরদারি**; এবং
-  - তাৎপর্য ট্রিগার প্রযোজ্য হলে [§4](#4-data-types-and-handling-evaluation) থেকে [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) ডোমেইন মূল্যায়নের নির্দেশক।
-
-**শ্রেণি জুড়ে পড়া।** [§3.1](#31-systemic-scope-and-risk-factors) থেকে [§3.7](#37-governance-incentive-and-contestability-discipline)-এর উপাদান তিন ব্যবস্থাতেই লাগে; শ্রেণি বদলায় প্রতি উপাদান কত গভীরে মূল্যায়ন ও নথিভুক্ত করতে হয়। যে **Class C** সময়সূচি প্ল্যাটফর্ম জরুরি কর্মী নিয়োগ বা বেঁচে থাকার জরুরি রাউটিংয়ের একমাত্র ব্যবহারিক পথ হয়ে ওঠে তাকে তথ্য অনুসারে **Class A** বা **Class B** পুরো-ব্যবস্থা গভীরতা পেতে হয় — পরিচালক যে হালকা সমন্বয় পর্যালোচনা পছন্দ করে তা নয়। যে **Class A** বেঁচে থাকা-জরুরি ব্যবস্থা সময়মতো বিকল্প ছাড়া জল, শক্তি, বা তুলনীয় বেঁচে থাকার জরুরি জিনিস দ্বার করে তাকে নিম্ন শ্রেণিতে নামানো যায় না। যে **Class B** বিনিময়ের বিভ্রাট এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে জরুরি যত্ন আটকাবে তাকে ওপরে পুনঃশ্রেণিবদ্ধ করতে হয় — বেঁচে থাকার জরুরি জিনিস দ্বার হলে **Class A** সহ — এবং [§2](#2-system-class-evaluation) ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে পুনঃপ্রত্যয়িত করতে হয়।
-
-<a id="4-data-types-and-handling-evaluation"></a>
-
-### 4. তথ্য প্রকার ও পরিচালনা মূল্যায়ন
+#### 3.4 ডেটার ধরন ও ব্যবস্থাপনা মূল্যায়ন
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">অনুসরণযোগ্যতা</span></strong></summary>
 
-- ঊর্ধ্ব: [§3](#3-whole-system-certification-evaluation) (*পুরো-ব্যবস্থা মূল্যায়ন উপাদান*); [§3.8](#38-illustrative-whole-system-application-by-class) (*উদাহরণমূলক পুরো-ব্যবস্থা চলন*); [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*নথি বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); তত্ত্বাবধান পরিমাপ পরিবার (*সত্য ও জ্ঞানতাত্ত্বিক সততা সাংবিধানিক পরিমাপ হিসেবে*); [অনুচ্ছেদ XV: তথ্য-গোলকের সততা](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [অনুচ্ছেদ XVI: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [অনুচ্ছেদ VII: আত্মস্বত্ব](core_06_rights_part_b.md#article-vii-self-ownership)।
-- অধঃ: [§4.1](#41-illustrative-data-handling-application-by-class) (*উদাহরণমূলক তথ্য-পরিচালনা চলন*); [§5](#5-ecological-footprint-evaluation) ও [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*পরিবেশগত-পদচিহ্ন মূল্যায়ন ও চলন*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*পুনঃশ্রেণিবিন্যাস ও পরিচালনা অসারিবদ্ধতা*)।
-- সঙ্গে পড়ুন: [corpus_systems.md](../../corpus_systems.md), **CS-2 — Information types and handling** (**[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*পুনঃশ্রেণিবিন্যাস ও জীবনচক্র শাসন*) এবং **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*ব্যবস্থা তথ্য-প্রকার নথি শাসন*) সহ); [ব্যবস্থা তথ্য-প্রকার নথি](core_05_band_continuity.md#system-data-types-record-constitutional); [সর্বজনীন তত্ত্বাবধান ভিত্তিরেখা প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*তথ্য-ধারণ ও জীবনচক্র-সততা পদ*), **CJS-3.21** (*প্রতিকূল দৃঢ়তা ও অপব্যবহার-প্রতিরোধ পদ*), এবং **CJS-3.17** (*আন্তঃক্রিয়াশীলতা, বহনযোগ্যতা ও প্রস্থান-সততা পদ*) যেখানে বস্তুগতভাবে প্রযোজ্য।
-- উপধারা: [§4.1](#41-illustrative-data-handling-application-by-class) (*শ্রেণি অনুসারে উদাহরণমূলক তথ্য-পরিচালনা প্রয়োগ*)।
+- **ঊর্ধ্বমুখী:** [§3](#3-whole-system-certification-evaluation) (*পূর্ণ-সিস্টেম মূল্যায়নের উপাদান*); [অংশ C পূর্ণ-সিস্টেম ধাপে-ধাপে উদাহরণ](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive); [অংশ B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*রেকর্ডের বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*সিস্টেম-শ্রেণির মূল্যায়ন*); তত্ত্বাবধান পরিমাপ-পরিবার (*সাংবিধানিক পরিমাপ হিসেবে সত্য ও জ্ঞানগত অখণ্ডতা*); [অনুচ্ছেদ XV: তথ্য-পরিসরের অখণ্ডতা](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [অনুচ্ছেদ XVI: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [অনুচ্ছেদ VII: স্ব-স্বত্ব](core_06_rights_part_b.md#article-vii-self-ownership)।
+- **নিম্নমুখী:** [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*ডেটা ব্যবস্থাপনার উদাহরণমূলক ধাপে-ধাপে বিবরণ*); [§5.1](#51-ecological-footprint-evaluation) এবং [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*পরিবেশগত পদচিহ্ন মূল্যায়ন ও উদাহরণ*); [অংশ B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*রেকর্ডের অখণ্ডতা*); [অংশ B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*যাচাইকৃত-ইনপুট গেট*); [অংশ B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*পুনঃশ্রেণিবিন্যাস ও ব্যবস্থাপনার অসামঞ্জস্য*)।
+- **একসঙ্গে পড়ুন:** [corpus_systems.md](corpus_systems.md), **CS-2 — তথ্যের ধরন ও ব্যবস্থাপনা** (এর মধ্যে [**CS-2 §5.2**](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance) (*পুনঃশ্রেণিবিন্যাস ও জীবনচক্র শাসন*) এবং [**CS-2 §8**](corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance) (*সিস্টেম ডেটা-ধরন রেকর্ডের শাসন*) অন্তর্ভুক্ত); [সিস্টেম ডেটা-ধরন রেকর্ড](core_05_band_continuity.md#system-data-types-record); [জন-তত্ত্বাবধানের ন্যূনতম প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure); বস্তুগতভাবে প্রযোজ্য হলে **CJS-3.18** (*ডেটা সংরক্ষণ ও জীবনচক্র-অখণ্ডতার শর্ত*), **CJS-3.21** (*প্রতিকূল দৃঢ়তা ও অপব্যবহার-প্রতিরোধের শর্ত*), এবং **CJS-3.17** (*আন্তঃকার্যকারিতা, বহনযোগ্যতা ও প্রস্থানের অখণ্ডতার শর্ত*); গোপনীয়তার ক্ষেত্র প্রাসঙ্গিক হলে [§4.1 গোপনীয়তা (তথ্যগত) যৌথ প্রয়োগ](#41-privacy-informational-joint-invocation)।
+- **উপবিভাগ:** [§3.4.1](#341-type-o-baseline-disclosure) (*Type O ন্যূনতম প্রকাশ*); [§3.4.2](#342-privacy-discipline) (*গোপনীয়তার শৃঙ্খলা*); [§3.4.3](#343-protective-storage-and-key-custody) (*সুরক্ষামূলক সংরক্ষণ ও চাবির হেফাজত*); [§3.4.4](#344-periodic-data-type-re-evaluation) (*ডেটার ধরন পর্যায়ক্রমিক পুনর্মূল্যায়ন*); [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*সিস্টেম-শ্রেণি অনুযায়ী অবকাঠামোগত নিশ্চয়তা*); [§3.4.6](#346-infrastructure-robustness-for-data) (*ডেটার জন্য অবকাঠামোগত দৃঢ়তা*); [§3.4.7](#347-defects-and-misalignment) (*ত্রুটি ও অসামঞ্জস্য*); [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*সিস্টেম-শ্রেণি অনুযায়ী ডেটা ব্যবস্থাপনার উদাহরণ*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: প্রত্যয়নকে ব্যবস্থা কোন ধরনের তথ্য ছুঁয় এবং সেগুলো যথাযথ পরিচালনা করে কি না তাও দেখতে হয় — চলতি পর্যালোচনা চক্রে প্রকার এখনও ঠিক কি না, এবং সেই ব্যবস্থা-শ্রেণিতে সেই তথ্যের জন্য নিচের অবকাঠামো যথেষ্ট মজবুত কি না সহ। প্রকার নিয়ম ও ব্যবস্থা তথ্য-প্রকার নথি থাকে ব্যবস্থা-করপাসে; প্রত্যয়ন যাচাই করে নিয়ম সত্যি প্রয়োগ হয়েছে এবং নথি সত্।*
+*সহজ কথায়: সার্টিফিকেশনে সিস্টেমটি কী ধরনের ডেটা স্পর্শ করে এবং সেগুলো যথাযথভাবে পরিচালিত হয় কি না তাও দেখতে হবে—বর্তমান পর্যালোচনা-চক্রে ধরনগুলো এখনও সঠিক কি না এবং অন্তর্নিহিত অবকাঠামো সেই ডেটা ও সিস্টেম-শ্রেণির জন্য যথেষ্ট শক্তিশালী কি না। ডেটার ধরনসংক্রান্ত নিয়ম ও সিস্টেম ডেটা-ধরন রেকর্ড সিস্টেম করপাসে রয়েছে; সার্টিফিকেশন যাচাই করে নিয়মগুলো বাস্তবে প্রয়োগ হয়েছে এবং রেকর্ডটি সত্যনিষ্ঠ কি না।*
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নকে প্রতি বস্তুগতভাবে প্রভাবক প্রত্যয়ন নথির অংশ হিসেবে **তথ্য প্রকার ও পরিচালনা** মূল্যায়ন করতে হয়। প্রামাণিক তথ্য-প্রকার সংজ্ঞা, পরিচালনা নিয়ম, পৃথকীকরণ প্রয়োজনীয়তা, জীবনচক্র বিস্তার, এবং স্থায়ী [ব্যবস্থা তথ্য-প্রকার নথি](core_05_band_continuity.md#system-data-types-record-constitutional) থাকে **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling**-এ। এই ধারা বলে প্রত্যয়নকে কী যাচাই ও নথিভুক্ত করতে হয়; এটি CS-2 প্রকার শ্রেণিবিন্যাস বা পরিচালনা যন্ত্রপাতি পুনরাবৃত্তি করে না।
+প্রতিটি বস্তুগত প্রভাবসম্পন্ন সার্টিফিকেশন রেকর্ডের অংশ হিসেবে সিস্টেম অ্যালাইনমেন্ট সার্টিফিকেশনে **ডেটার ধরন ও ব্যবস্থাপনা** মূল্যায়ন করতে হবে। এই অংশে সার্টিফিকেশন কী যাচাই করবে তা বলা হয়েছে। ডেটার ধরনের শ্রেণিবিন্যাস এবং ব্যবস্থাপনার নিয়ম রয়েছে **[corpus_systems.md](corpus_systems.md), CS-2 — তথ্যের ধরন ও ব্যবস্থাপনা**-তে, সঙ্গে:
 
-**মূল্যায়ন প্রয়োজনীয়তা।** এক প্রত্যয়ন প্রক্রিয়াকে নির্ধারণ করতে হয় ব্যবস্থা বস্তুগতভাবে পরিসরের তথ্য প্রকার চিহ্নিত করে কি না এবং সেগুলো **প্রযোজ্য সবচেয়ে কঠোর** শ্রেণিবিন্যাসের অধীনে পরিচালনা করে কি না — রূপান্তর, সমষ্টি, প্রতিনিধিত্ব, সংরক্ষণ, ধারণ, ও ডোমেইন-জুড়ে সংযোগ জুড়ে সহ। মূল্যায়নকে কার্যকরী প্রভাব প্রতিফলিত করতে হয়, শুধু লেবেল, ফরম্যাট, বা পাইপলাইন স্তর নয়। যেখানে **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** Type O ভিত্তিরেখা প্রযোজ্য, প্রত্যয়নকে আরও যাচাই করতে হয় প্রকাশিত [সর্বজনীন তত্ত্বাবধান ভিত্তিরেখা প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) **প্রত্যয়িত পরিসর** ঢাকে কি না — শাসক [পরিসর সনদ](core_05_band_continuity.md#charter) (বা সমতুল্য প্রকাশিত পরিসর দলিল), বরাদ্দ শ্রেণি, এবং পর্যবেক্ষিত [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries) থেকে ম্যাপ করা — ন্যায্য আটকে রাখা সর্বোচ্চ ব্যবহারযোগ্য সর্বজনীন স্থলাভিষিক্তের সঙ্গে জোড়া; অধ্যায় পাঁচ পদের মালিক; CS-2 ভিত্তিরেখা বিষয়বস্তু ও প্রকাশ যন্ত্রপাতির মালিক।
+- তথ্যের ধরনের প্রামাণ্য সংজ্ঞা;
+- ব্যবস্থাপনার নিয়ম ও পৃথকীকরণের শর্ত;
+- জীবনচক্রের বিস্তারিত; এবং
+- স্থায়ী [সিস্টেম ডেটা-ধরন রেকর্ড](core_05_band_continuity.md#system-data-types-record)।
 
-**পর্যায়ক্রমিক তথ্য-প্রকার পুনর্মূল্যায়ন।** প্রতি বস্তুগতভাবে প্রভাবক প্রত্যয়ন বা পুনঃবৈধকরণ চক্রে, প্রক্রিয়াকে যাচাই করতে হয় পরিসরের বস্তুগত তথ্যসমষ্টি **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*পুনঃশ্রেণিবিন্যাস ও জীবনচক্র শাসন*) এবং **CJS-3.18** (*তথ্য-ধারণ ও জীবনচক্র-সততা পদ*)-এর অধীনে যথাযথ শ্রেণিবিন্যাসের জন্য **পর্যায়ক্রমে পুনর্মূল্যায়িত** হয়েছে, এবং সেই পর্যালোচনা যেখানে চেয়েছে সেখানে **পুনঃশ্রেণিবদ্ধ** হয়েছে। ছন্দকে [§2](#2-system-class-evaluation)-এর অধীনে ব্যবস্থা শ্রেণি ও বস্তুগত প্রভাব অনুসারে স্কেল করতে হয়। CS-2-এর অধীনে ঘটনা-ট্রিগার পুনঃপ্রকার এই পর্যায়ক্রমিক প্রত্যয়ন পরীক্ষার স্থলাভিষিক্ত হয় না।
+**মূল্যায়নের শর্ত।** সার্টিফিকেশন প্রক্রিয়ায় নির্ধারণ করতে হবে সিস্টেমটি:
 
-**নথি প্রয়োজনীয়তা।** প্রত্যয়নকে এক [ব্যবস্থা তথ্য-প্রকার নথি](core_05_band_continuity.md#system-data-types-record-constitutional) — বা CS-2-এর অধীনে তার প্রয়োজনীয় বিষয়বস্তু — **তৈরি বা যাচাই** করতে হয় এবং [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional)-তে অন্তর্ভুক্ত করতে হয় **[অংশ খ §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**-এর অধীনে। সেই নথিকে বলতে হয় বস্তুগতভাবে পরিসরের তথ্য প্রকার, অস্পষ্ট বা বহু-প্রকার তথ্যের শ্রেণিবিন্যাস যুক্তি, যে পৃথকীকরণ ও ডোমেইন-জুড়ে-সংযোগ নিয়ন্ত্রণের উপর নির্ভর, ধারণ ও জীবনচক্র ভঙ্গি, [আরোপযোগ্য কাজ](core_05_band_accountability.md#attributable-action-constitutional) ও [আরোপ সততা](core_05_band_accountability.md#attribution-integrity-constitutional) সমর্থন করতে যথেষ্ট আরোপ ক্ষমতা, **সবচেয়ে সাম্প্রতিক পর্যায়ক্রমিক তথ্য-প্রকার পুনর্মূল্যায়ন** (তারিখ বা চক্র শনাক্তকারী, ছন্দ, এবং কোনো বস্তুগত পুনঃপ্রকার), এবং প্রকাশ বা নিরীক্ষা-প্রবেশে কোনো ন্যায্য সীমাবদ্ধতা CS-2 যেখানে চায় সেই সর্বজনীন স্থলাভিষিক্ত সহ। Type O ভিত্তিরেখা প্রযোজ্য হলে নথিকে আরও বলতে হয় [সর্বজনীন তত্ত্বাবধান ভিত্তিরেখা প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure) কীভাবে প্রত্যয়িত পরিসর ঢাকে (যে সনদ ক্ষেত্রের উপর নির্ভর, সীমানা নির্ণয়, এবং কোনো আচ্ছাদন ফাঁক বা শর্ত)।
+- বস্তুগতভাবে প্রাসঙ্গিক ডেটার ধরন শনাক্ত করে কি না; এবং
+- রূপান্তর, একত্রীকরণ, অর্পণ, সংরক্ষণ, ধরে রাখা ও আন্তঃক্ষেত্র সংযোগসহ সব ক্ষেত্রে **প্রযোজ্য সর্বাধিক বিধিনিষেধযুক্ত** শ্রেণিবিন্যাস মেনে সেগুলো পরিচালনা করে কি না।
 
-**ব্যবস্থা শ্রেণির সঙ্গে যৌথ স্কেল।** তথ্য-পরিচালনা ও অবকাঠামো-নিশ্চয়তা গভীরতাকে [§2](#2-system-class-evaluation) ও CS-3-এর অধীনে বরাদ্দ ব্যবস্থা শ্রেণি অনুসারে স্কেল করতে হয়। উচ্চতর-শ্রেণি ব্যবস্থায় আনুপাতিকভাবে শক্তিশালী প্রমাণ লাগে যে পরিচালনা, সংরক্ষণ, প্রক্রিয়াকরণ, সঞ্চালন, ব্যাকআপ, পুনরুদ্ধার, ও পর্যবেক্ষণ অবকাঠামো চাপের নিচে শ্রেণিবিন্যাস সততা, আরোপ, ও চ্যালেঞ্জ-যোগ্যতা রক্ষা করতে পারে। CS-2 সর্বজন-স্বার্থ দৃশ্যমানতা ডিফল্ট প্রযোজ্য হলে, প্রত্যয়নকে যাচাই করতে হয় সীমাবদ্ধতা সংকীর্ণভাবে সীমিত, নথিভুক্ত, নিরীক্ষাযোগ্য, এবং সর্বোচ্চ ব্যবহারযোগ্য স্থলাভিষিক্তের সঙ্গে জোড়া — অস্বচ্ছ লুকানো নয়।
+মূল্যায়নে কেবল লেবেল, বিন্যাস বা পাইপলাইনের ধাপ নয়, কার্যকরী প্রভাব বিবেচনা করতে হবে।
 
-**তথ্যের জন্য অবকাঠামো দৃঢ়তা।** প্রত্যয়নকে মূল্যায়ন করতে হয় তথ্য-পরিচালনা অবকাঠামো — স্থায়িত্ব স্তর, পাইপলাইন, প্রবেশ নিয়ন্ত্রণ, এনক্রিপশন বা বিচ্ছিন্নতা সীমানা, ব্যাকআপ ও পুনরুদ্ধার পথ, এবং পরিচালক বা বিক্রেতা প্রতিনিধিত্ব শৃঙ্খল সহ — সংশ্লিষ্ট তথ্য প্রকার ও ব্যবস্থা শ্রেণির জন্য যথাযথ কি না। জীবনচক্র সততা, প্রতিকূল দৃঢ়তা, বহনযোগ্যতা, বা পুনরুদ্ধারযোগ্যতায় বস্তুগত ফাঁক নথিতে বলতে হয় এবং প্রত্যয়ন ফল, শর্ত, বা নির্ভরতার সীমায় প্রতিফলিত করতে হয়।
+<a id="341-type-o-baseline-disclosure"></a>
+##### 3.4.1 Type O ন্যূনতম প্রকাশ
 
-**ত্রুটি ও অসারিবদ্ধতা।** তথ্যের ভুল শ্রেণিবিন্যাস, এড়ানোমূলক পুনর্গঠন, অনিরাপদ ডোমেইন-জুড়ে সংযোগ, যেখানে বস্তুগত ক্ষতি তদন্ত করা যেত না সেখানে আরোপের অভাব, **মেয়াদোত্তীর্ণ বা এড়ানো পর্যায়ক্রমিক তথ্য-প্রকার পুনর্মূল্যায়ন**, বা যে অবকাঠামো ভঙ্গুরতা পূর্বানুমেয়ভাবে CS-2 সুরক্ষা হারায় — এগুলোকে প্রত্যয়ন ত্রুটি গণ্য করতে হয়। তারা [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে শর্তসাপেক্ষ স্বীকৃতি, স্থগিত স্বীকৃতি, অস্বীকৃতি, প্রত্যাহার, বা পুনরায় খোলা সমর্থন করতে পারে।
+যেখানে **[CS-2 অংশ A §7 Type O ন্যূনতম মান](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** প্রযোজ্য, সার্টিফিকেশনে আরও যাচাই করতে হবে যে প্রকাশিত [জন-তত্ত্বাবধানের ন্যূনতম প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) **প্রত্যয়িত পরিসর** অন্তর্ভুক্ত করে কি না; পরিসরটি নিচের ভিত্তিতে মানচিত্রায়িত:
 
-<a id="41-illustrative-data-handling-application-by-class"></a>
+- প্রযোজ্য [সনদ](core_05_band_continuity.md#charter) (অথবা সমতুল্য প্রকাশিত পরিসর-দলিল);
+- নির্ধারিত সিস্টেম-শ্রেণি; এবং
+- পর্যবেক্ষিত [সিস্টেমের সীমানা](core_05_band_continuity.md#system-boundaries)।
 
-<a id="41-illustrative-data-handling-application-by-class-non-exhaustive"></a>
-#### 4.1 শ্রেণি অনুসারে উদাহরণমূলক তথ্য-পরিচালনা প্রয়োগ (অসীমাবদ্ধ)
+ব্যবস্থাগত ঝুঁকি থাকলে মূল্যায়িত ঝুঁকি ভাগ করাও এই ন্যূনতম মানে গণ্য হতে পারে। জনগণের ন্যূনতম অধিকার সার্টিফিকেশনের চেয়ে বিস্তৃত; এর জন্য [সিস্টেম-শ্রেণিবিন্যাস রেকর্ড](core_05_band_continuity.md#system-classification-record) বা [সিস্টেম ডেটা-ধরন রেকর্ড](core_05_band_continuity.md#system-data-types-record)-এর পাশাপাশি আলাদা রেকর্ড দরকার হয় না।
 
-*সহজ ভাষায়: [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর শ্রেণি সারণি বলে উচ্চতর শ্রেণিতে কঠোরতর পর্যালোচনা লাগে। [§3.8](#38-illustrative-whole-system-application-by-class) দেখায় একই তিন ব্যবস্থায় **পুরো-ব্যবস্থা মূল্যায়ন**-এ তার মানে কী; [§5.1](#51-illustrative-ecological-footprint-application-by-class) ধারাবাহিকতা চালায় **পরিবেশগত পদচিহ্ন**-এ। এই উপধারা দেখায় **তথ্য প্রকার ও পরিচালনা**-তে তার মানে কী — কোন প্রকার পরিসরে, প্রত্যয়নকে কী পরীক্ষা করতে হয়, এবং নথিতে কী থাকতে হয়। CS-2 এখনও প্রকার নিয়মের মালিক; এই চলন প্রকার যোগ করে না বা CS-2 সংকুচিত করে না।*
+যৌক্তিকভাবে ন্যায্য প্রতিটি আটকে রাখার সঙ্গে যুক্তিসঙ্গতভাবে সম্ভব সবচেয়ে শক্তিশালী জনসমক্ষে বিকল্প দিতে হবে ([§3.4.5 সিস্টেম-শ্রেণি অনুযায়ী অবকাঠামোগত নিশ্চয়তা](#345-system-class-scaled-infrastructure-assurance)-তে উদাহরণ আছে)। পরিভাষাটির মালিক পঞ্চম অধ্যায়; ন্যূনতম বিষয়বস্তু ও প্রকাশ-পদ্ধতির মালিক CS-2 (*তথ্যের ধরন ও ব্যবস্থাপনা*)।
 
-**Class A — পৌর নিরাপদ পানীয় জল নিয়ন্ত্রণ ও টেলিমেট্রি।** এক নগর-মালিকানাধীন শোধন-ও-বিতরণ নিয়ন্ত্রণ স্তর বাস্তব-সময় চাপ, প্রবাহ, দূষণ-সতর্কতা, ও ভালভ-আদেশ তথ্য গ্রহণ করে; বিভ্রাট বিজ্ঞপ্তির জন্য সীমিত গ্রাহক-সেবা সংযোগ তথ্য রাখে; এবং পর্যবেক্ষণ এক বিক্রেতা নিরাপত্তা পরিচালনা কেন্দ্রে (**SOC**) প্রতিনিধিত্ব করে।
+<a id="342-privacy-discipline"></a>
+##### 3.4.2 গোপনীয়তার শৃঙ্খলা
 
-- **পরিসরের তথ্য প্রকার:**
-  - নিরাপত্তা-জরুরি পরিচালন **টেলিমেট্রি** (মাঠ থেকে সজীব পরিমাপ ও আদেশ সংকেত);
-  - দূষণ ও গুণমান-সতর্কতা সংকেত;
-  - বিভ্রাট-বিজ্ঞপ্তি যোগাযোগ তথ্য;
-  - বিক্রেতা ও পরিচালক প্রবেশ লগ;
-  - ঘটনা ও রক্ষণাবেক্ষণ নথি।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - নিরাপত্তা-জরুরি নিয়ন্ত্রণ-তল তথ্য **প্রযোজ্য সবচেয়ে কঠোর** CS-3 শ্রেণিবিন্যাসের অধীনে গ্রাহক-সেবা, বিল, বা বিশ্লেষণ পাইপলাইন থেকে পৃথক কি না;
-  - সমষ্টি, বিক্রেতা প্রতিনিধিত্ব, বা ব্যাকআপ পথ চাপ বা প্রতিকূল অবস্থায় সেই পৃথকীকরণ ভেঙে ফেলতে পারে কি না;
-  - আরোপ দূষণ বা বন্ধ ঘটনা তদন্ত করতে যথেষ্টকাল বেঁচে থাকে কি না; এবং
-  - কোনো নিরাপত্তা-ন্যায্য নিরীক্ষা সীমাবদ্ধতার নথিভুক্ত সর্বজনীন স্থলাভিষিক্ত আছে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - প্রত্যয়িত পরিসরের পূর্ণ প্রকার তালিকা;
-  - টেলিমেট্রি, সতর্কতা, বা যোগাযোগ তথ্য বহু-প্রকার হতে পারলে শ্রেণিবিন্যাস যুক্তি;
-  - পৃথকীকরণ ও ডোমেইন-জুড়ে-সংযোগ নিয়ন্ত্রণ;
-  - ঘটনা পুনর্গঠনের জন্য ধারণ ও জীবনচক্র ভঙ্গি;
-  - ব্যাকআপ, পুনরুদ্ধার, ও প্রতিকূল পুনরুদ্ধারে **Class A** গভীরতায় অবকাঠামো-নিশ্চয়তা নির্ণয়; এবং
-  - বিক্রেতা প্রতিনিধিত্ব বা পর্যবেক্ষণ ফাঁকের সঙ্গে বাঁধা কোনো শর্ত।
+সার্টিফিকেশনে ডেটা ব্যবস্থাপনাকে নিচের গোপনীয়তা-শৃঙ্খলা মেনে চলতে হবে:
 
-**Class B — আঞ্চলিক ক্লিনিকাল নথি বিনিময়।** এক স্বাস্থ্য-তথ্য বিনিময় হাসপাতাল, ক্লিনিক, ও সুবিধা-সংলগ্ন যোগ্যতা ব্যবস্থার মধ্যে ক্লিনিকাল সারাংশ, চিত্র নির্দেশক, ও পরিচয়-সমাধান টোকেন রাউট করে; হাসপাতাল প্রতিদিন এর উপর নির্ভর করে কিন্তু বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে ফ্যাক্স, সরাসরি পোর্টাল, বা হাতে পুনরুদ্ধারে পিছু হটতে পারে।
+- *H, I, N, S ও Y ধরন।* **Type H**, **Type I**, **Type N**, **Type S** এবং **Type Y** ডেটার ক্ষেত্রে, CS-2 (*তথ্যের ধরন ও ব্যবস্থাপনা*)-তে প্রতিটি ধরন যে [গোপনীয়তার নির্দিষ্ট ক্ষেত্র](corpus_systems/cs_02_b_data_classifications.md#privacy-link) উল্লেখ করে, ব্যবস্থাপনা তা পূরণ করে কি না সার্টিফিকেশনে যাচাই করতে হবে। এর মধ্যে [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity), [আনুপাতিকতা](core_05_band_accountability.md#proportionality), ন্যূনতমীকরণ এবং সম্মতি বা অন্য পর্যাপ্ত কর্তৃত্ব রয়েছে।
+- *যৌথ প্রয়োগ।* একাধিক গোপনীয়তার ক্ষেত্র প্রাসঙ্গিক হলে [§4.1 গোপনীয়তা (তথ্যগত) যৌথ প্রয়োগ](#41-privacy-informational-joint-invocation)-ও প্রযোজ্য।
+- *লেবেল যথেষ্ট নয়।* সঠিক ডেটা-ধরনের লেবেল একাই গোপনীয়তার অনুবর্তিতা প্রমাণ করে না।
+- *W, U ও T ধরন।* **Type W**, **Type U** ও **Type T** কাজের ক্ষেত্রে সার্টিফিকেশনে যাচাই করতে হবে স্রষ্টার নিয়ন্ত্রণ সম্মান করা হয়েছে কি না, এর মধ্যে রয়েছে:
+  - [CS-2 অংশ B §9.9](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*Type W: প্রকাশিত কাজ*) অনুযায়ী জনসমক্ষে প্রকাশ প্রত্যাহার;
+  - [CS-2 অংশ B §9.13](corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*বাণিজ্যিক অনুমতি*) অনুযায়ী নথিভুক্ত প্রতিটি অনুমতির সীমা; এবং
+  - স্রষ্টার [সংরক্ষিত অধিকার](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights)।
+- *সম্মতি অনুমান করা যাবে না।* কোনো অনুমতিতে যে ব্যবহার স্পষ্টভাবে উল্লেখ নেই, সেটিকে সেই ব্যবহারের সম্মতি হিসেবে ধরা যাবে না।
 
-- **পরিসরের তথ্য প্রকার:**
-  - ক্লিনিকাল ও নির্ণয় নথি;
-  - পরিচয় ও শংসাপত্র-সমাধান টোকেন;
-  - প্রদানকারী ও স্থাপনা নির্দেশিকা তথ্য;
-  - প্রবেশ ও প্রকাশ নিরীক্ষা লগ;
-  - মিল বা ডুপ্লিকেট-সরানো থেকে উদ্ভূত কৃতি।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - ক্লিনিকাল তথ্য রাউটিং, ক্যাশ, ডুপ্লিকেট-সরানো, ও অধঃ সংযোগ জুড়ে প্রযোজ্য কঠোরতম পরিচালনা শ্রেণিতে থাকে কি না;
-  - পরিচয়-সমাধান যুক্তি অনিরাপদ ডোমেইন-জুড়ে সংযোগ বা প্রক্সি উন্মোচন তৈরি করে কি না;
-  - পরিচালক ও অংশগ্রহণকারী প্রতিনিধিত্ব শৃঙ্খল আরোপযোগ্য থাকে কি না; এবং
-  - বহনযোগ্যতা ও প্রস্থান পথ রোগীর নিয়ন্ত্রণ রক্ষা করে কি না পরিচালন পুনরুদ্ধার না হারিয়ে।
-- **নথিকে কী দেখাতে হয়:**
-  - বস্তুগত প্রকার ও অস্পষ্ট-প্রকার যুক্তি;
-  - ক্লিনিকাল পেলোড, নির্দেশিকা মেটাডেটা, ও যোগ্যতা-সংলগ্ন ফিডের মধ্যে পৃথকীকরণ;
-  - প্রতিনিধিত্ব-শৃঙ্খল আরোপ;
-  - স্বাস্থ্যসেবা তদন্ত ও চ্যালেঞ্জের জন্য যথেষ্ট জীবনচক্র ও ধারণ ভঙ্গি;
-  - **Class B** পরিচালন গভীরতায় অবকাঠামো-নিশ্চয়তা নির্ণয়; এবং
-  - বিভ্রাট বা তথ্য-পরিচালনা ব্যর্থতা এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে সেবা আটকালে পুনরায় খোলার ট্রিগার।
+<a id="343-protective-storage-and-key-custody"></a>
+##### 3.4.3 সুরক্ষামূলক সংরক্ষণ ও চাবির হেফাজত
 
-**Class C — প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয় প্ল্যাটফর্ম।** এক বহু-সংস্থা সময়সূচি স্তর হাসপাতাল, স্কুল, ও সরকারি সংস্থার মধ্যে কর্মী শিফট, কক্ষ সংরক্ষণ, ও বিক্রেতা অ্যাপয়েন্টমেন্ট সমন্বয় করে; মূল হাসপাতাল ও ইউটিলিটি ব্যর্থ হলে অবনত মোডে চলে, কিন্তু প্ল্যাটফর্ম স্কেলে সমন্বয় গড়ে এবং যোগাযোগ, ভূমিকা, ও মোটা অবস্থান মেটাডেটা ধরে রাখতে পারে।
+ডিফল্টভাবে সীমাবদ্ধ এবং অপ্রবেশযোগ্য ব্যান্ডের ডেটার ক্ষেত্রে, [CS-2 অংশ A §5.0 প্রবেশ-অবস্থার ব্যান্ড](corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands)-এর সুরক্ষামূলক সংরক্ষণ ও চাবি-হেফাজতের ন্যূনতম মান সিস্টেম পূরণ করে কি না সার্টিফিকেশনে যাচাই করতে হবে। রেকর্ডে দেখাতে হবে:
 
-- **পরিসরের তথ্য প্রকার:**
-  - সময়সূচি, ভূমিকা, ও সম্পদ-বরাদ্দ তথ্য;
-  - অংশগ্রহণকারী যোগাযোগ ও শংসাপত্র মেটাডেটা;
-  - মোটা অবস্থান বা স্থান শনাক্তকারী;
-  - প্ল্যাটফর্ম নিরীক্ষা লগ;
-  - যেখানে ব্যবহৃত, উদ্ভূত র‌্যাঙ্কিং বা মিল আউটপুট।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - ব্যবস্থা বস্তুগত প্রকার সততার সঙ্গে চিহ্নিত করে কি না — সময়সূচি নকশা দিয়ে সুরক্ষিত বৈশিষ্ট্য ফাঁস করতে পারে এমন উদ্ভূত আউটপুট সহ;
-  - সংস্থা-জুড়ে সংযোগ ন্যায্য পরিসরের ভিতরে থাকে কি না;
-  - ঘনত্ব চোকপয়েন্ট উত্তরণের ইঙ্গিত দিলে পরিচালনা চ্যালেঞ্জ-যোগ্য থাকে কি না; এবং
-  - নির্ভরতা বা তথ্য সংবেদনশীলতা শক্ত হলে নিম্ন শ্রেণি লেবেল এখনও মানায় কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - বস্তুগতভাবে পরিসরের প্রকার ও কোনো বহু-প্রকার যুক্তি;
-  - **Class C** সমন্বয় ঝুঁকির আনুপাতিক সংযোগ ও ধারণ নির্ণয়;
-  - যে তথ্য সত্যি ধরা হয় তার জন্য বস্তুগত — আনুষ্ঠানিক নয় — অবকাঠামো-নিশ্চয়তা নির্ণয়;
-  - ভার-সরাবার সংযোগের চ্যালেঞ্জযোগ্য আরোপ; এবং
-  - প্ল্যাটফর্ম বেঁচে থাকার-জরুরি প্রবেশের কার্যত দরজা হয়ে উঠলে বা ক্লিনিকাল-গ্রেড পেলোড বহন করতে শুরু করলে স্পষ্ট পুনঃশ্রেণিবিন্যাস নজরদারি।
+- সীমাবদ্ধ ডেটা ও তার চাবি বাস্তবে কোথায় থাকে, যার মধ্যে ব্যাকআপ, ক্যাশে, লগ ও সোয়াপও রয়েছে;
+- প্লেইনটেক্সট কেবল প্রয়োজনীয় প্রক্রিয়ার মধ্যেই সীমাবদ্ধ; এবং
+- নিরীক্ষা, রপ্তানি ও আইনসম্মত ওভাররাইডের পথ এখনও কার্যকর।
 
-**শ্রেণি জুড়ে পড়া।** একই CS-3 নিয়ম তিন ব্যবস্থায় লাগে; শ্রেণি বদলায় **গভীরতা**, তথ্য ভুল পরিচালনার অনুমতি নয়। যে **Class C** প্ল্যাটফর্ম ক্লিনিকাল-গ্রেড নথি সংরক্ষণ বা রাউট করতে শুরু করে তাকে সেইভাবে মূল্যায়ন ও নথিভুক্ত করতে হয় — পরিচালক হালকা ফাইল পছন্দ করে বলে সমন্বয়-প্ল্যাটফর্ম পরিচালনায় ফেলে রাখা যায় না। যে **Class B** বিনিময়ের বিভ্রাট এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে জরুরি সেবা আটকাবে তাকে [§2](#2-system-class-evaluation) ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে পুনঃশ্রেণিবদ্ধ ও পুনঃপ্রত্যয়িত করতে হয়, তথ্য-পরিচালনা নিশ্চয়তা সেই অনুসারে স্কেল করে।
+এ প্রমাণ ছাড়া কেবল এনক্রিপশন-সংক্রান্ত দাবি এই যাচাই পূরণ করে না।
 
-<a id="5-ecological-footprint-evaluation"></a>
+<a id="344-periodic-data-type-re-evaluation"></a>
+##### 3.4.4 ডেটার ধরন পর্যায়ক্রমিক পুনর্মূল্যায়ন
 
-### 5. পরিবেশগত পদচিহ্ন মূল্যায়ন
+বস্তুগত প্রভাবসম্পন্ন প্রতিটি সার্টিফিকেশন বা পুনঃসার্টিফিকেশন চক্রে প্রক্রিয়াটিকে যাচাই করতে হবে যে পরিসরের বস্তুগত ডেটাসেটগুলো:
+
+- **পর্যায়ক্রমে পুনর্মূল্যায়িত** হয়েছে, উপযুক্ত শ্রেণিবিন্যাসের জন্য **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*পুনঃশ্রেণিবিন্যাস ও জীবনচক্র শাসন*) এবং **CJS-3.18** (*ডেটা-ধারণ ও জীবনচক্র-অখণ্ডতার শর্ত*) অনুসারে; এবং
+- পর্যালোচনায় প্রয়োজন দেখা দিলে **পুনঃশ্রেণিবদ্ধ** হয়েছে।
+
+[§2 সিস্টেম-শ্রেণির মূল্যায়ন](#2-system-class-evaluation) অনুযায়ী সিস্টেম-শ্রেণি ও বস্তুগত প্রভাবের সঙ্গে সময়সূচির মাত্রা সামঞ্জস্য করতে হবে। CS-2 (*তথ্যের ধরন ও ব্যবস্থাপনা*) অনুযায়ী ঘটনা-প্রণোদিত পুনঃশ্রেণিবিন্যাস এই পর্যায়ক্রমিক সার্টিফিকেশন যাচাইয়ের বিকল্প নয়।
+
+<a id="345-system-class-scaled-infrastructure-assurance"></a>
+##### 3.4.5 সিস্টেম-শ্রেণি অনুযায়ী অবকাঠামোগত নিশ্চয়তা
+
+[§2.1 প্রতিটি মূল্যায়ন কীভাবে সিস্টেম-শ্রেণি অনুযায়ী নির্ধারিত হয়](#21-how-system-class-scales-every-evaluation) এবং CS-3 (*সিস্টেম শ্রেণিবিন্যাস কাঠামো*) অনুযায়ী উচ্চতর শ্রেণির সিস্টেমে চাপের মধ্যেও ডেটা পরিচালনা, সংরক্ষণ, প্রক্রিয়াকরণ, প্রেরণ, ব্যাকআপ, পুনরুদ্ধার ও পর্যবেক্ষণের অবকাঠামো নিচের বিষয়গুলো রক্ষা করতে পারে—এর আনুপাতিকভাবে শক্তিশালী প্রমাণ প্রয়োজন:
+
+- শ্রেণিবিন্যাসের অখণ্ডতা;
+- দায় নির্ধারণ; এবং
+- আপত্তিযোগ্যতা।
+
+CS-2 (*তথ্যের ধরন ও ব্যবস্থাপনা*)-এর জনস্বার্থে দৃশ্যমানতার সাধারণ নিয়ম প্রযোজ্য হলে, সার্টিফিকেশনে যাচাই করতে হবে যে বিধিনিষেধগুলো:
+
+- সংকীর্ণভাবে নির্ধারিত;
+- নথিবদ্ধ ও নিরীক্ষাযোগ্য; এবং
+- যুক্তিসঙ্গতভাবে সম্ভব সবচেয়ে শক্তিশালী জনসমক্ষে বিকল্পসহ (যেমন সারাংশ, সমষ্টিগত তথ্য, পরিচয়মুক্ত সংস্করণ, বিলম্বিত প্রকাশ বা যোগ্য নিরীক্ষা-প্রবেশাধিকার), যাতে যা আটকে রাখা হয়েছে তা শুধু গোপন না করে ব্যাখ্যা করা হয়।
+
+<a id="346-infrastructure-robustness-for-data"></a>
+##### 3.4.6 ডেটার জন্য অবকাঠামোগত দৃঢ়তা
+
+প্রাসঙ্গিক ডেটার ধরন ও সিস্টেম-শ্রেণির জন্য ডেটা-ব্যবস্থাপনার অবকাঠামো উপযুক্ত কি না সার্টিফিকেশনে মূল্যায়ন করতে হবে। এই অবকাঠামোর মধ্যে রয়েছে:
+
+- স্থায়ী সংরক্ষণ-স্তর ও পাইপলাইন;
+- প্রবেশাধিকার নিয়ন্ত্রণ;
+- এনক্রিপশন বা বিচ্ছিন্নতার সীমানা;
+- ব্যাকআপ ও পুনরুদ্ধারের পথ; এবং
+- অপারেটর বা বিক্রেতার কাছে দায় অর্পণের শৃঙ্খল।
+
+জীবনচক্রের অখণ্ডতা, প্রতিকূলতার বিরুদ্ধে দৃঢ়তা, বহনযোগ্যতা বা পুনরুদ্ধারযোগ্যতার বস্তুগত ঘাটতি রেকর্ডে জানাতে হবে এবং সার্টিফিকেশনের ফল, শর্ত বা নির্ভরতার সীমায় প্রতিফলিত করতে হবে।
+
+<a id="347-defects-and-misalignment"></a>
+##### 3.4.7 ত্রুটি ও অসামঞ্জস্য
+
+নিচের প্রতিটিকে সার্টিফিকেশন ত্রুটি হিসেবে বিবেচনা করতে হবে:
+
+- ডেটার ভুল শ্রেণিবিন্যাস;
+- এড়িয়ে যাওয়ার উদ্দেশ্যে পুনর্গঠন;
+- অনিরাপদ আন্তঃক্ষেত্র সংযোগ;
+- ধরন-লেবেলের সঙ্গে মেলে, কিন্তু সেই ধরন নির্ধারিত গোপনীয়তার ক্ষেত্র পূরণ করে না—এমন ব্যবস্থাপনা;
+- বস্তুগত ক্ষতি তদন্ত করা অসম্ভব হলেও দায় নির্ধারণের তথ্যের অনুপস্থিতি;
+- **সময়োত্তীর্ণ বা বাদ পড়া পর্যায়ক্রমিক ডেটা-ধরন পুনর্মূল্যায়ন**;
+- সীমাবদ্ধ ডেটা সংরক্ষণে বা অনুমোদিত প্রক্রিয়াকরণ-সীমানার বাইরে প্লেইনটেক্সট হিসেবে রাখা, অথবা প্রয়োজন নেই এমন প্রক্রিয়ার নাগালে চাবি রাখা; এবং
+- অবকাঠামোগত ভঙ্গুরতা, যা পূর্বানুমেয়ভাবে CS-2 (*তথ্যের ধরন ও ব্যবস্থাপনা*)-এর সুরক্ষা ব্যর্থ করে।
+
+এর পরিণতি [§7 সার্টিফিকেশনের ফলাফল](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)-এ নির্ধারিত।
+
+<a id="4-evaluations-where-implicated"></a>
+
+### 4. যেখানে প্রাসঙ্গিক, সেই মূল্যায়নসমূহ
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্ব: [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*নথি বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); সাতত্য পরিমাপ পরিবার (*পরিবেশগত পদচিহ্ন সাংবিধানিক পরিমাপ হিসেবে*); **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*); [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint), [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact), [নির্ভরতা](core_05_band_continuity.md#dependency), [স্বচ্ছতা](core_05_band_oversight.md#transparency), এবং [জ্ঞানতাত্ত্বিক সততা](core_05_band_oversight.md#epistemic-integrity) (অধ্যায় পাঁচ); [পরিবেশগত পূর্বশর্ত](core_05_band_continuity.md#environmental-preconditions-constitutional) ও [পরিবেশগত সততা](core_05_band_continuity.md#ecological-integrity-constitutional) যেখানে বস্তুগতভাবে জড়িত।
-- অধঃ: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*উদাহরণমূলক পরিবেশগত-পদচিহ্ন চলন*); [§6](#6-proportionate-cross-system-support-evaluation) ও [§6.1](#61-illustrative-cross-system-support-application-by-class) (*আন্তঃব্যবস্থা-সহায়তা মূল্যায়ন ও চলন*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*পদচিহ্ন ভুলবিবরণ ও অসারিবদ্ধতা*)।
-- সঙ্গে পড়ুন: [corpus_systems.md](../../corpus_systems.md), [CS-8 — Adaptive sustainability and ecosystem resilience](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) যেখানে অভিযোজিত বরাদ্দ বা বাস্তুতন্ত্র পারস্পরিক-নির্ভরতা বস্তুগতভাবে পরিসরে।
-- উপধারা: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*শ্রেণি অনুসারে উদাহরণমূলক পরিবেশগত-পদচিহ্ন প্রয়োগ*)।
+- ঊর্ধ্বসূত্র: [§3](#3-whole-system-certification-evaluation) (*সর্বদা-প্রযোজ্য স্তরসহ সমগ্র-ব্যবস্থা মূল্যায়ন*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); [অধ্যায় এক §12 ব্যবস্থা-সম্পর্কিত মূল্যায়নের শর্ত](core_01_a_values_principles.md#12-systemic-evaluation-requirement)।
+- নিম্নসূত্র: [§4.1](#41-privacy-informational-joint-invocation) (*গোপনীয়তার ক্ষেত্রসমূহ*); [§4.2](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) (*প্রস্থান-অধিকার*); [§4.3](#43-assembly-collective-organization-and-institutional-formation) (*সমাবেশ ও ভিন্নমত*); [পর্ব B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*নথির বিষয়বস্তু*)।
+- সঙ্গে পড়ুন: [§5 অধিকার-তল ও ক্ষেত্রভিত্তিক মূল্যায়ন](#5-rights-floor-and-domain-evaluations) (*ট্রিগার হলে প্রযোজ্য স্তর*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: আরোপযোগ্য পরিবেশগত ভার মানে রাখলে প্রত্যয়নকে সেগুলো সততার সঙ্গে মূল্যায়ন করতে হয় — ঊর্ধ্ব ও অধঃ সংযোগ সহ — শুধু পরিচালক ব্যবস্থা «সবুজ» দাবি করে কি না তা নয়। পদচিহ্ন হিসাব পদ্ধতি ও সংখ্যাসূচক হ্রাস লক্ষ্য অন্য দলিলে থাকে; প্রত্যয়ন যাচাই করে আরোপ, প্রকাশ, ও তুলনা বস্তুগত হলে সত্যি মূল্যায়ন হয়েছে কি না। [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর উদাহরণমূলক ব্যবস্থার কাজ-করা উদাহরণ আছে [§5.1](#51-illustrative-ecological-footprint-application-by-class)-এ।*
+*সহজ ভাষায়: তিনটি পরীক্ষা কেবল তখনই প্রযোজ্য, যখন ব্যবস্থা বাস্তবে সেই বিষয়গুলিকে স্পর্শ করে — ব্যক্তিগত তথ্য যথাযথভাবে সুরক্ষিত ও পৃথক থাকে কি না, সংবিজ্ঞ সত্তারা আটকে না পড়ে চলে যেতে পারে কি না, এবং গোষ্ঠীগুলি সংগঠিত ও ভিন্নমত প্রকাশ করতে পারে কি না। ব্যবস্থা যদি এর কোনো একটিকে স্পর্শ করে, তবে শংসাপত্রায়নে সেটি পরীক্ষা করতে হবে।*
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নকে প্রতি বস্তুগতভাবে প্রভাবক প্রত্যয়ন নথির অংশ হিসেবে **পরিবেশগত পদচিহ্ন** মূল্যায়ন করতে হয় যেখানে আরোপযোগ্য পরিবেশগত ভার [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint) ও **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*)-এর অধীনে বস্তুগত। প্রামাণিক আরোপ, জীবনচক্র, নির্ভরতা, ও স্বচ্ছতা নিয়ম থাকে অধ্যায় পাঁচ ও **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*)-এ; হিসাব পদ্ধতি, যাচাই ধাপ, ও সংখ্যাসূচক লক্ষ্য প্রযোজ্য হলে অন্তর্ভুক্তি দলিলে থাকে। এই ধারা বলে প্রত্যয়নকে কী যাচাই ও নথিভুক্ত করতে হয়; এটি পদচিহ্ন হিসাব যন্ত্রপাতি পুনরাবৃত্তি করে না বা অন্য দলিল যা চায় তার বাইরে হ্রাস কর্তব্য চাপায় না।
+এই বিভাগটি দ্বিতীয় পর্যায়ের (মূল্যায়ন) **IIb** উপ-পর্যায়। এখানে সেই সমগ্র-ব্যবস্থা মূল্যায়নগুলি একত্র করা হয়েছে, যেগুলি প্রযোজ্য হয় যখন শংসাপত্রায়নের বিষয় কোনো উপবিভাগে উল্লেখিত ক্ষেত্র বা নীতিকে বস্তুগতভাবে প্রভাবিত করে। এটি কোনো উপবিভাগের শর্ত বাড়ায়, সংকুচিত করে বা পুনর্বিন্যাস করে না।
 
-**মূল্যায়ন প্রয়োজনীয়তা।** এক প্রত্যয়ন প্রক্রিয়াকে নির্ধারণ করতে হয় আরোপযোগ্য পরিবেশগত প্রবাহ — শক্তি, উপকরণ, নির্গমন, ভূমি ব্যবহার, ও সংশ্লিষ্ট ভার — ব্যবস্থার বস্তুগতভাবে প্রাসঙ্গিক জীবনচক্র ও [নির্ভরতা](core_05_band_continuity.md#dependency) সম্পর্ক জুড়ে চিহ্নিত কি না, [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact)-এর অধীনে মূল্যায়িত কি না, এবং শুধু [স্বচ্ছতা](core_05_band_oversight.md#transparency), [জ্ঞানতাত্ত্বিক সততা](core_05_band_oversight.md#epistemic-integrity), ও প্রযোজ্য স্বচ্ছতা কর্তব্য যতটা দেয় ততটা প্রকাশ বা আটকে রাখা কি না। মূল্যায়নকে কার্যকরী প্রভাব ও ব্যবস্থা সীমানা প্রতিফলিত করতে হয়, শুধু নামমাত্র পরিসর, বিপণন লেবেল, বা আংশিক জীবনচক্র ফ্রেম নয়।
-
-**নথি প্রয়োজনীয়তা।** প্রত্যয়ন নথিকে বলতে হয় পদচিহ্ন মূল্যায়ন পরিসর, আরোপ অনুমান, যে জীবনচক্র ও নির্ভরতা সীমানার উপর নির্ভর, চিহ্নিত বস্তুগত ভার, অনিশ্চয়তা, প্রকাশ ভঙ্গি, প্রয়োজন হলে পরিবেশ মঞ্চ উপাদান নির্ণয়, এবং পদচিহ্ন প্রকাশের কোনো ন্যায্য সীমা প্রযোজ্য স্বচ্ছতা নিয়ম যেখানে চায় সেই সর্বজনীন স্থলাভিষিক্ত সহ।
-
-**ব্যবস্থা শ্রেণির সঙ্গে যৌথ স্কেল।** পদচিহ্ন মূল্যায়ন ও প্রকাশ গভীরতাকে [§2](#2-system-class-evaluation) ও [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে বরাদ্দ ব্যবস্থা শ্রেণি অনুসারে স্কেল করতে হয়। উচ্চতর-শ্রেণি ব্যবস্থায় আনুপাতিকভাবে শক্তিশালী প্রমাণ লাগে যে বস্তুগত পরিবেশগত ভার আরোপিত হয়েছে, ব্যবহারযোগ্য হলে প্রাসঙ্গিক বিকল্পের সঙ্গে তুলনা হয়েছে, এবং সীমানা-সরাবার, নির্ভরতা-চাপানো, বা বাছাই করা প্রকাশ দিয়ে ঢাকা হয়নি।
-
-**ত্রুটি ও অসারিবদ্ধতা।** প্রত্যয়ন বা **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*) স্বচ্ছতা কর্তব্য প্রকাশ চায় সেখানে বস্তুগত পদচিহ্ন তথ্য লুকানো, ভুলবিবরণ, টুকরো করা, বা চাপানো; বৃহত্তর আরোপ বস্তুগত হলে শুধু পরিচালক-বাছা জীবনচক্র ফালি মূল্যায়ন; বা পদচিহ্ন দাবিকে মূল্যায়নযোগ্য প্রমাণ ছাড়া শুধু কথায় পূরণ গণ্য করা — এগুলোকে প্রত্যয়ন ত্রুটি গণ্য করতে হয়। তারা [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে শর্তসাপেক্ষ স্বীকৃতি, স্থগিত স্বীকৃতি, অস্বীকৃতি, প্রত্যাহার, বা পুনরায় খোলা সমর্থন করতে পারে।
-
-<a id="51-illustrative-ecological-footprint-application-by-class"></a>
-
-<a id="51-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
-#### 5.1 শ্রেণি অনুসারে উদাহরণমূলক পরিবেশগত-পদচিহ্ন প্রয়োগ (অসীমাবদ্ধ)
-
-*সহজ ভাষায়: [§3.8](#38-illustrative-whole-system-application-by-class) ও [§4.1](#41-illustrative-data-handling-application-by-class) একই তিন ব্যবস্থা পুরো-ব্যবস্থা ও তথ্য-পরিচালনা পর্যালোচনায় চালায়। এই উপধারা দেখায় প্রতিটিতে **পরিবেশগত পদচিহ্ন** মূল্যায়নের মানে কী — কোন পরিবেশগত ভার গণ্য, প্রত্যয়নকে কী পরীক্ষা করতে হয়, এবং নথিতে কী থাকতে হয়। **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*) ও অধ্যায় পাঁচ এখনও আরোপ ও স্বচ্ছতা নিয়মের মালিক; হিসাব পদ্ধতি ও সংখ্যাসূচক লক্ষ্য অন্য দলিলে থাকে; এই চলন সেই দলিল যা চায় তার বাইরে পদচিহ্ন কর্তব্য যোগ করে না।*
-
-**Class A — পৌর নিরাপদ পানীয় জল নিয়ন্ত্রণ ও টেলিমেট্রি।** এক নগর-মালিকানাধীন শোধন-ও-বিতরণ ব্যবস্থা জলাশয় উৎস, রাসায়নিক শোধন উপকরণ, পাম্প ও শোধন শক্তি, বিতরণ অবকাঠামো, নিষ্কাশন প্রবাহ, এবং যেখানে ব্যবহৃত বিক্রেতা-প্রতিনিধিত্ব গণনা বা পর্যবেক্ষণের উপর নির্ভর করে।
-
-- **পরিসরের আরোপযোগ্য ভার:**
-  - উৎস-জল নিষ্কাশন ও জলাশয় চাপ;
-  - শোধন রাসায়নিক ও পরিস্রাবণ মাধ্যম;
-  - পাম্প, শোধন, ও বিতরণ শক্তি;
-  - প্ল্যান্ট, পাইপ, ও নিয়ন্ত্রণের অন্তর্নিহিত অবকাঠামো;
-  - শোধিত জলের ক্ষতি ও লিক;
-  - গ্রহণকারী জলে নিষ্কাশন ও অবশিষ্ট;
-  - ঊর্ধ্ব বিদ্যুৎ-গ্রিড নির্গমন;
-  - যেখানে বস্তুগতভাবে নির্ভর, বিক্রেতা নিরাপত্তা পরিচালনা কেন্দ্র (**SOC**), ভাগ করা হোস্টেড গণনা, বা দূর-পর্যবেক্ষণ গণনা ও সংযোগ;
-  - বস্তুগতভাবে প্রাসঙ্গিক জীবনচক্র জুড়ে রক্ষণাবেক্ষণ, প্রতিস্থাপন, ও বাতিলকরণ ভার।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - পদচিহ্ন পরিসর ঊর্ধ্ব বিদ্যুৎ, রাসায়নিক সরবরাহ, জলাশয় [নির্ভরতা](core_05_band_continuity.md#dependency), ও অধঃ নিষ্কাশন অন্তর্ভুক্ত করে কি না — শুধু পৌর পরিচালনা ভবন নয়;
-  - [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact) উৎস ক্ষয়, শক্তি তীব্রতা, এবং চাপ বা জলবায়ু পরিবর্তনশীলতায় নিষ্কাশনের জন্য মূল্যায়িত কি না;
-  - পরিচালক-বাছা সীমানা আরোপ বস্তুগত হলে বিক্রেতা-হোস্টেড পর্যবেক্ষণ, আউটসোর্স রাসায়নিক লজিস্টিকস, বা ভাগ করা গ্রিড ভার বাদ দিয়েছে কি না;
-  - ব্যবহারযোগ্য হলে বিকল্প — সংরক্ষণ, উৎস সুরক্ষা, কম-ভার শোধন পথ — তুলনা হয়েছে কি না; এবং
-  - প্রকাশ সীমার **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*)-এর অধীনে নথিভুক্ত সর্বজনীন স্থলাভিষিক্ত আছে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **Class A** গভীরতায় পদচিহ্ন মূল্যায়ন পরিসর ও জীবনচক্র সীমানা;
-  - জলাশয়, শক্তি, রাসায়নিক, ও নিষ্কাশন প্রবাহের আরোপ অনুমান;
-  - চিহ্নিত বস্তুগত ভার ও বলা অনিশ্চয়তা;
-  - প্রয়োজন হলে পরিবেশ মঞ্চ উপাদান নির্ণয়;
-  - ব্যবহারযোগ্য হলে প্রাসঙ্গিক বিকল্প জুড়ে তুলনা নির্ণয়;
-  - প্রকাশ ভঙ্গি ও সর্বজনীন স্থলাভিষিক্ত সহ কোনো ন্যায্য সীমা; এবং
-  - উৎস চাপ, নিষ্কাশন ক্ষতি, বা সীমানা-সরাবার সঙ্গে বাঁধা শর্ত বা পুনরায় খোলার ট্রিগার।
-
-**Class B — আঞ্চলিক ক্লিনিকাল নথি বিনিময়।** এক স্বাস্থ্য-তথ্য বিনিময় প্রতিলিপিকৃত হোস্টিং, হাসপাতাল-স্থল সংযোগ, পরিচয়-সমাধান গণনা, এবং আঞ্চলিক সেবা নেটওয়ার্ক জুড়ে বিক্রেতা বা অংশগ্রহণকারী-পরিচালিত অবকাঠামোর উপর নির্ভর করে।
-
-- **পরিসরের আরোপযোগ্য ভার:**
-  - প্রাথমিক ও ব্যাকআপ ডেটা-কেন্দ্র শক্তি, শীতলকরণ, ও হার্ডওয়্যার জীবনচক্র;
-  - অংশগ্রহণকারী হাসপাতালের নেটওয়ার্ক ও প্রান্ত সংযোগ;
-  - সংরক্ষণ প্রতিলিপি ও ডুপ্লিকেট-সরানো গণনা;
-  - পরিচয়-দালাল ও রাউটিং অবকাঠামো;
-  - বস্তুগতভাবে নির্ভর হোস্টিং স্থলের স্থাপনা ভার;
-  - হাসপাতাল যেখানে নির্ভর সেখানে অন-প্রিমাইজ সংযোগকের অন্তর্নিহিত অবকাঠামো।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - পদচিহ্ন আরোপ পরিচালন স্কেলে হোস্টিং, প্রতিলিপি, ও অংশগ্রহণকারী-সংযোগ ভার ঢাকে কি না — শুধু বিনিময় পরিচালকের সদর নয়;
-  - ভাগ করা হোস্টিং অঞ্চল, কোলোকেশন প্রদানকারী, বা হাসপাতাল-স্থল প্রান্ত হার্ডওয়্যারের নির্ভরতা মানচিত্র ও আরোপ হয়েছে কি না;
-  - জীবনচক্র ফালি শুধু-সফটওয়্যার দাবিতে সংকুচিত হয়নি কি না যখন বস্তুগত হার্ডওয়্যার ও শক্তি ভার চাপানো হয়েছে;
-  - বস্তুগত ভার [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact)-এর অধীনে মূল্যায়িত এবং **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*)-এর সঙ্গে সামঞ্জস্যপূর্ণভাবে প্রকাশিত কি না; এবং
-  - অংশগ্রহণকারী আয়তন বা তথ্য সংবেদনশীলতা বৃদ্ধি আরোপিত ভার বস্তুগতভাবে বদলাবে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **Class B** পরিচালন গভীরতায় পদচিহ্ন পরিসর ও নির্ভরতা সীমানা;
-  - চিহ্নিত বস্তুগত শক্তি, হার্ডওয়্যার, ও সংযোগ ভার;
-  - হোস্টিং ও প্রতিনিধিত্ব আরোপ অনুমান;
-  - অনিশ্চয়তা ও প্রকাশ ভঙ্গি;
-  - প্রয়োজন হলে পরিবেশ মঞ্চ বা অন্য উপাদান নির্ণয়; এবং
-  - স্কেল, ক্লিনিকাল-গ্রেড পেলোড বৃদ্ধি, বা হোস্টিং ঘনত্ব আরোপযোগ্য ভার বা শ্রেণি ভঙ্গি বস্তুগতভাবে বদলালে পুনরায় খোলার ট্রিগার।
-
-**Class C — প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয় প্ল্যাটফর্ম।** এক বহু-সংস্থা সময়সূচি স্তর মূলত ভাগ করা হোস্টেড গণনা ও সংযোগে চলে, দ্বিতীয় ভার আসে স্থান লজিস্টিকস, সমন্বয় নকশা থেকে উদ্ভূত ভ্রমণ, এবং প্রযোজ্য হলে ঘনীভূত আঞ্চলিক হোস্টিং থেকে।
-
-- **পরিসরের আরোপযোগ্য ভার:**
-  - সময়সূচি কাজের জন্য হোস্টেড গণনা, সংরক্ষণ, ও নেটওয়ার্কিং;
-  - প্ল্যাটফর্মের অংশের আরোপযোগ্য বহু-ভাড়াটে ডেটা-কেন্দ্র শক্তি;
-  - বস্তুগতভাবে নির্ভর অবকাঠামোর অন্তর্নিহিত হার্ডওয়্যার জীবনচক্র;
-  - শুধু যেখানে সমন্বয় নকশা ভ্রমণ বা স্থাপনা ব্যবহার বস্তুগতভাবে সরায় সেখানে স্থান ও লজিস্টিকস ভার;
-  - হোস্টিং বা ব্যবহার উচ্চ-ভার স্থানে জড়ো হলে আঞ্চলিক ঘনত্ব প্রভাব।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - পরিচালক হোস্টেড-গণনা ও সংযোগ ভার সততার সঙ্গে আরোপ করেছে কি না, প্ল্যাটফর্মকে «শুধু সফটওয়্যার» বলে অবস্তুগত গণ্য না করে;
-  - বহু-ভাড়াটে চাপানো বা বিক্রেতা সীমানা-সরাবার বস্তুগত শক্তি বা হার্ডওয়্যার আরোপ লুকিয়েছে কি না;
-  - নির্দিষ্ট অঞ্চল বা প্রদানকারীতে ঘনত্ব ভার বস্তুগতভাবে সরালে মূল্যায়িত কি না;
-  - **Class C** ব্যবস্থার জন্য পদচিহ্ন পর্যালোচনা আনুপাতিক থেকেছে কি না আনুষ্ঠানিক না হয়ে; এবং
-  - স্কেল, বেঁচে থাকার-জরুরি রাউটিং, বা ক্লিনিকাল-গ্রেড পেলোড বৃদ্ধি **Class B** বা **Class A** পদচিহ্ন গভীরতা চাইলে পুনঃশ্রেণিবিন্যাস ন্যায্য কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **Class C** সমন্বয় ঝুঁকির আনুপাতিক পদচিহ্ন নির্ণয়;
-  - গণনা, সংরক্ষণ, ও সংযোগের পরিসর ও আরোপ অনুমান;
-  - জীবনচক্র সীমানা অতিরিক্ত সংকুচিত না করে চিহ্নিত বস্তুগত ভার;
-  - অনিশ্চয়তা ও প্রকাশ ভঙ্গি;
-  - হোস্টিং ঘনত্ব, স্কেল, বা পেলোড সংবেদনশীলতা শক্ত হলে স্পষ্ট **পুনঃশ্রেণিবিন্যাস নজরদারি**; এবং
-  - শ্রেণি বা তাৎপর্য বদলালে উন্নীত পদচিহ্ন পর্যালোচনার নির্দেশক।
-
-**শ্রেণি জুড়ে পড়া।** একই **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*) ও অধ্যায় পাঁচ পদচিহ্ন শৃঙ্খলা তিন ব্যবস্থায় লাগে; শ্রেণি বদলায় আরোপ গভীরতা ও তুলনা ভার, বস্তুগত পরিবেশগত প্রবাহ ঢাকার অনুমতি নয়। এক **Class A** বেঁচে থাকার-জরুরি জল ব্যবস্থাকে নামানো যায় না যতক্ষণ নিরাপদ জল দ্বার করে এমন জলাশয় নিষ্কাশন, নিষ্কাশন, বা শক্তি ভার বস্তুগতভাবে কম-আরোপিত থাকে। যে **Class B** বিনিময়ের ক্লিনিকাল পেলোড বা হোস্টিং ঘনত্ব বৃদ্ধি পরিবেশগত ভার বস্তুগতভাবে বাড়ায় তাকে সেই বৃদ্ধি অনুসারে স্কেল করা পদচিহ্ন পর্যালোচনা দিতে হয় — বেঁচে থাকার-জরুরি সরবরাহ ও উৎস-ব্যবস্থা ভার যৌথভাবে জড়িত হলে উপরের দিকে **Class A** গভীরতা সহ। যে **Class C** সময়সূচি প্ল্যাটফর্ম বেঁচে থাকার-জরুরি সমন্বয়ের কার্যত চোকপয়েন্ট হয়ে ওঠে তাকে পরিচালক অ-জরুরি লেবেল দেয় বলে টোকেন পদচিহ্ন ফাইল রাখা যায় না। একই ব্যবস্থার আন্তঃব্যবস্থা-সহায়তা চলন আছে [§6.1](#61-illustrative-cross-system-support-application-by-class)-এ।
-
-<a id="6-proportionate-cross-system-support-evaluation"></a>
-
-<a id="6-proportionate-cross-system-contribution-evaluation"></a>
-### 6. আনুপাতিক আন্তঃব্যবস্থা অবদান মূল্যায়ন
+<a id="41-privacy-informational-joint-invocation"></a>
+#### 4.1 গোপনীয়তা (তথ্যগত) যৌথ আহ্বান
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্ব: [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*নথি বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); সাতত্য পরিমাপ পরিবার (*আনুপাতিক আন্তঃব্যবস্থা অবদান সাংবিধানিক পরিমাপ হিসেবে*); **অনুচ্ছেদ IV-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহ স্বচ্ছতা*) ও **অনুচ্ছেদ IV-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*); [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [নির্ভরতা](core_05_band_continuity.md#dependency), [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional), [আনুপাতিকতা](core_05_band_accountability.md#proportionality), [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint), এবং [স্থায়িত্ব](core_05_band_continuity.md#sustainability) (অধ্যায় পাঁচ)।
-- অধঃ: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*উদাহরণমূলক আন্তঃব্যবস্থা-সহায়তা চলন*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*সম্পদ-প্রবাহ ভুলবিবরণ, নিষ্কাশন অসারিবদ্ধতা, ও সহায়তা অপর্যাপ্ততা*)।
-- সঙ্গে পড়ুন: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*), এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*); [*শাসন স্থাপত্য, তত্ত্বাবধান, নির্ভরতা, বিকেন্দ্রীকরণ, ঘনত্ব, বাজার কাঠামো ও প্রস্থান-পথ সততা*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) যেখানে ঘনত্ব, নির্ভরতা, বা প্রণোদনা রাউটিং **অনুচ্ছেদ IV-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*)-এর সঙ্গে ছেদ করে।
-- উপধারা: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*শ্রেণি অনুসারে উদাহরণমূলক আন্তঃব্যবস্থা-সহায়তা প্রয়োগ*)।
+- সঙ্গে পড়ুন: অধ্যায় পাঁচের [**Def.C3** (*গোপনীয়তা (তথ্যগত)* — সমমর্যাদার গুচ্ছের শিরোনাম)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) এবং [গোপনীয়তা (তথ্যগত)](core_05_band_continuity.md#privacy-informational), যার অর্থের কর্তৃত্ব গুচ্ছ-শিরোনামের কাছে।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: কোনো ব্যবস্থা ভাগ করা ভিত্তি থেকে বস্তুগতভাবে টানে তখন প্রত্যয়নকে পরীক্ষা করতে হয় সে যথেষ্ট খুঁজে-পাওয়া যায় এমন সহায়তা ফেরায় কি না — পরিচালক বলে হিসাব মিলেছে কি না তা নয়। বরাদ্দ সূত্র ও সংখ্যাসূচক লক্ষ্য অন্য দলিলে থাকে; প্রত্যয়ন যাচাই করে নির্ভরতা মানচিত্র, ফেরত প্রবাহ, ও আন্তঃব্যবস্থা ন্যায্যতা ট্রিগার প্রযোজ্য হলে সত্যি মূল্যায়ন হয়েছে কি না। [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর উদাহরণমূলক ব্যবস্থার কাজ-করা উদাহরণ আছে [§6.1](#61-illustrative-cross-system-support-application-by-class)-এ।*
+*সহজ ভাষায়: অধ্যায় ছয় গোপনীয়তার সুরক্ষাগুলি কয়েকটি অনুচ্ছেদে ছড়িয়ে রেখেছে — একটিমাত্র গোছানো স্থানে নয়। শংসাপত্রায়ন পর্যালোচনা যদি একাধিক সুরক্ষাকে স্পর্শ করে, তবে পর্যালোচকদের প্রত্যেকটি প্রযোজ্য সুরক্ষা পরীক্ষা করতে হবে। সবচেয়ে সহজ ঘরটিতে টিক দিয়ে কাজ শেষ বলা যথেষ্ট নয়।*
 
-**তাৎপর্য ট্রিগার।** এই ধারা প্রযোজ্য যেখানে এক বস্তুগতভাবে প্রভাবক ব্যবস্থা অন্য ব্যবস্থা বা সংজ্ঞ প্রাণী যে ভাগ করা অবকাঠামো বা ভিত্তি নির্ভরতার উপর নির্ভর করে তা থেকে বস্তুগতভাবে বরাদ্দ, রাউট, অর্থায়ন, বা নিষ্কাশন করে। এটি প্রতি প্রত্যয়ন নথিতে পূর্ণ আন্তঃব্যবস্থা-সহায়তা নিরীক্ষা চায় না।
+যখন কোনো শংসাপত্রায়নের বিষয় অধ্যায় ছয়ের একাধিক গোপনীয়তা-ক্ষেত্রকে বস্তুগতভাবে প্রভাবিত করে, তখন শংসাপত্রায়নে প্রত্যেকটি ক্ষেত্র সম্বোধন করতে হবে। কেবল একটি ক্ষেত্রের অধীনে বিষয়টি নিষ্পত্তি করা যথেষ্ট নয়।
 
-**এখানে «নিষ্কাশন» কী মানে।** **অনুচ্ছেদ IV** (*সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*) ও এই ধারায় **নিষ্কাশন** মানে অন্য ব্যবস্থাও যে অবকাঠামো বা নির্ভরতা চায় তা থেকে **টাকা, ফি, সরকারি অর্থায়ন, গণনা, সংযোগ, রক্ষণাবেক্ষণ শ্রম, উৎস ক্ষমতা, বা অন্য ভাগ করা সম্পদ প্রবাহ** টানা — সেই ভাগ করা উপস্তর চালু রাখতে আনুপাতিক সহায়তা না ফিরিয়ে। প্রশ্ন **কে ভাগ করা ব্যাকএন্ড থেকে লাভ করে এবং কে সেগুলো টিকিয়ে রাখতে দেয়**, ব্যবস্থা নথি বিষয়বস্তুর বিরুদ্ধে কপি, বিক্রি, বা বিজ্ঞাপন করে কি না তা নয়। ক্লিনিকাল-নথি প্রবেশ, ব্যক্তিগত-তথ্য ব্যবহার, বাইরের পক্ষে বিক্রি, লক্ষ্য করা বিজ্ঞাপন, এবং অসম্পর্কিত তৃতীয়-পক্ষ প্রোফাইলিং মূল্যায়িত হয় [§4](#4-data-types-and-handling-evaluation) ও অধ্যায় ছয় গোপনীয়তা ও তথ্য-গোলক সুরক্ষার অধীনে — এই ধারার অধীনে নয়।
+- *অংশগ্রহণ সক্ষম করা।* [গোপনীয়তা (তথ্যগত)](core_05_band_continuity.md#privacy-informational) অর্থবহ [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional)-কে সক্ষম করে। বিভাজন, আন্তঃপাঠ বা প্রকাশের চাপের মাধ্যমে কণ্ঠ, আলোচনা, সমিতি গঠন ও চ্যালেঞ্জের সহায়ক গোপনীয়তা সুরক্ষা ব্যর্থ করা হচ্ছে না — শংসাপত্রায়নে তা নিশ্চিত করতে হবে।
+- *গুচ্ছের ক্ষেত্রসমূহ।* গোপনীয়তার বিস্তৃত সুরক্ষা ছড়িয়ে আছে **অনুচ্ছেদ VII-A** (*দেহের আত্ম-মালিকানা*), **অনুচ্ছেদ VII-B** (*মনের আত্ম-মালিকানা*), **অনুচ্ছেদ IX** (*সাদৃশ্য, অভিজ্ঞতামূলক তথ্য ও প্রকাশনা অধিকার*), **অনুচ্ছেদ X-A** (*কর্তৃত্বক্ষমতা ও প্রভাবিত হওয়া থেকে স্বাধীনতা*), এবং **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা কার্যক্রম ও গোপন ক্ষমতার সীমা*) জুড়ে।
+- *যৌথ-আহ্বান নিয়ম।* বিষয়টি একাধিক ক্ষেত্রকে বস্তুগতভাবে প্রভাবিত করলে শংসাপত্রায়নে প্রতিটি ক্ষেত্র পর্যন্ত পৌঁছাতে হবে; এমনভাবে এক ক্ষেত্রের পথে চালানো যাবে না যাতে অন্য ক্ষেত্র এড়িয়ে যাওয়া সম্ভব হয়।
+- *আন্তঃপাঠে মান শিথিল নয়।* গুচ্ছের প্রতিটি সদস্যের নিজ নিজ পরিসরে স্থানীয়ভাবে নির্ধারিত মানই নিয়ামক; অন্য সদস্যের শিথিলতর মান আমদানি করে তা শিথিল করা যাবে না।
+- *তথ্যের ধরনভিত্তিক ন্যূনতম সুরক্ষা বজায় থাকবে।* এই উপাদানটি পরিসরে থাকা তথ্যের ক্ষেত্রে প্রযোজ্য **[corpus_systems.md](corpus_systems.md), CS-2** (*তথ্যের ধরন ও ব্যবস্থাপনা*)-এর কোনো ধরনভিত্তিক ব্যবস্থাপনাকে সংকুচিত করে না। প্রতিটি প্রযোজ্য ধরনের প্রবেশ-অবস্থা ও ব্যবস্থাপনা-দায় [CS-2 পর্ব B §9](corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*তথ্য শ্রেণিবিভাগ*) অনুযায়ী সম্পূর্ণ প্রযোজ্য হবে; সেই ধরনের নামকৃত [গোপনীয়তার আশ্রয়স্থল](corpus_systems/cs_02_b_data_classifications.md#privacy-link)-সহ। একই তথ্যের ক্ষেত্রে একাধিক ধরন মানালে [CS-2 পর্ব A §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*শ্রেণিবিভাগ নির্ধারণ*) অনুসারে সর্বাধিক সুরক্ষামূলক প্রযোজ্য ব্যবস্থাপনা নিয়ামক হবে; এক ধরনের ব্যবস্থাপনা পূরণ করলে অন্যটির দায় মেটে না। উপরের ক্ষেত্রগুলি নিম্নলিখিত ধরনগুলিকে অন্তর্ভুক্ত করে:
+  - **অনুচ্ছেদ VII-A** (*দেহের আত্ম-মালিকানা*) — স্বাস্থ্য, বায়োমেট্রিক ও জীবদেহ-ভিত্তির সঙ্গে যুক্ত নথির জন্য [**Type I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data);
+  - **অনুচ্ছেদ VII-B** (*মনের আত্ম-মালিকানা*) এবং **অনুচ্ছেদ X-A** (*কর্তৃত্বক্ষমতা ও প্রভাবিত হওয়া থেকে স্বাধীনতা*) — অভ্যন্তরীণ অবস্থা, তার পুনর্গঠন বা অনুমানসহ, এর জন্য [**Type N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data);
+  - **অনুচ্ছেদ IX** (*সাদৃশ্য, অভিজ্ঞতামূলক তথ্য ও প্রকাশনা অধিকার*) — [অনুচ্ছেদ IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*সাদৃশ্য ও সুনামের আত্ম-মালিকানা*)-এর অধীনে সাদৃশ্য ও কণ্ঠের জন্য **Type I**; [অনুচ্ছেদ IX-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*অভিজ্ঞতামূলক ও উদ্ভূত তথ্যের অধিকার*)-এর অধীনে অভিজ্ঞতামূলক ও মিথস্ক্রিয়া-উদ্ভূত তথ্যের জন্য [**Type H**](corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data); এবং [অনুচ্ছেদ IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*সৃজনশীল কাজ, প্রশিক্ষণ-তথ্য ব্যবহার ও স্থানচ্যুতি-বিরোধিতা*)-এর অধীনে স্রষ্টার কাজের জন্য [**Type Y**](corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours), যার সুরক্ষা স্রষ্টার [সংরক্ষিত অধিকার](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights)-সহ [**Type W**](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published), [**Type U**](corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed) এবং [**Type T**](corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred)-তেও বহাল থাকে; এবং
+  - **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা কার্যক্রম ও গোপন ক্ষমতার সীমা*) — সীমাবদ্ধ নিরাপত্তা ও তদন্তসামগ্রীর জন্য [**Type S**](corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data); সীমাবদ্ধতা শেষ হলেও এর **H**, **I** বা **N** উপাদান সংশ্লিষ্ট ধরনের সুরক্ষা বজায় রাখে।
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নকে তাৎপর্য ট্রিগার প্রযোজ্য হলে [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), **অনুচ্ছেদ IV-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহ স্বচ্ছতা*), এবং **অনুচ্ছেদ IV-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*)-এর অধীনে **আনুপাতিক আন্তঃব্যবস্থা অবদান** মূল্যায়ন করতে হয়। প্রামাণিক অর্থ, মূল্যায়ন উপাদান, ও অনুপালনহীনতা শৃঙ্খলা থাকে অধ্যায় পাঁচ ও **অনুচ্ছেদ IV-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*)-এ; বরাদ্দ শ্রেণি, পুনঃঅনুমোদন যন্ত্রপাতি, ও সংখ্যাসূচক লক্ষ্য প্রযোজ্য হলে থাকে **[corpus_systems.md](../../corpus_systems.md)**, **CS-9**, ও **CS-8**-এ। এই ধারা বলে প্রত্যয়নকে কী যাচাই ও নথিভুক্ত করতে হয়; এটি CS-8 বা CS-9 যন্ত্রপাতি পুনরাবৃত্তি করে না বা সমান ভাগ, স্থির শতাংশ, বা একক অর্থায়ন মডেল নির্দেশ করে না।
+  উন্মুক্ত ও নিরীক্ষা-প্রবেশযোগ্য ধরনগুলির ক্ষেত্রে ন্যূনতম সুরক্ষা দুই দিকেই প্রযোজ্য:
+  - **Type E**, **Type G** বা **Type O** সামগ্রীর ভেতরের ব্যক্তিগত, সম্পর্কগত বা অভ্যন্তরীণ-অবস্থার বিষয়বস্তু তার **H**, **I** বা **N** ব্যবস্থাপনা বজায় রাখে;
+  - গোপনীয়তার কোনো ক্ষেত্র একাই নিজস্ব নিয়মে অনুমোদিত সীমিত গোপন রাখার বাইরে **Type O** বা **Type E** তথ্য গোপন রাখার ন্যায্যতা দেয় না; এবং
+  - কারও গোপনীয়তা রক্ষা এবং জনগণের প্রাপ্য তথ্য প্রকাশ—এই দুটির মধ্যে প্রকৃত টানাপোড়েন থাকলে কোনো পক্ষ স্বয়ংক্রিয়ভাবে জয়ী হয় না: [CS-2 পর্ব A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems) (*Class A/B/C ব্যবস্থার জন্য Type O ভিত্তিরেখা*) অনুযায়ী প্রকাশ্যে ও নথিভুক্তভাবে দ্বন্দ্বটির নিষ্পত্তি হবে।
+- *তথ্য-ধরনের প্রমাণ।* শংসাপত্রায়নে [§3.4 তথ্যের ধরন ও ব্যবস্থাপনা মূল্যায়ন](#34-data-types-and-handling-evaluation)-এর অধীনে যাচাইকৃত [ব্যবস্থা তথ্য-ধরন নথি](core_05_band_continuity.md#system-data-types-record) ব্যবহার করে প্রতিটি গোপনীয়তা-ক্ষেত্রের প্রমাণ দিতে হবে: পরিসরের ধরন এবং তার উদ্দেশ্য, প্রাপক, ভিত্তি ও উদ্ভূত তথ্য। ওই নথিতে যা দেখানো নেই, এমন ব্যবস্থাপনার ভিত্তিতে গোপনীয়তার কোনো ক্ষেত্র নিষ্পত্তি করা যাবে না।
 
-**মূল্যায়ন প্রয়োজনীয়তা।** এক প্রত্যয়ন প্রক্রিয়াকে নির্ধারণ করতে হয় **অনুচ্ছেদ IV-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহ স্বচ্ছতা*)-এর অধীনে নথিভুক্ত নির্ভরশীল-ব্যবস্থা মানচিত্র ও নিরীক্ষাযোগ্য সম্পদ-প্রবাহ নথি ভাগ করা অবকাঠামো বা ভিত্তি নির্ভরতা থেকে নিষ্কাশন দেখায় কি না এবং ফেরত প্রবাহ [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)-এর অধীনে সারবস্তু পর্যাপ্ততায় পৌঁছায় কি না — [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) ও [আনুপাতিকতা](core_05_band_accountability.md#proportionality)-এর অধীনে মূল্যায়িত এবং জরুরি, নির্ভরতা অসাম্য, স্থলাভিষিক্তযোগ্যতা, বস্তুগত হলে [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint), এবং দীর্ঘমেয়াদি [স্থায়িত্ব](core_05_band_continuity.md#sustainability)-এ স্কেল করা। মূল্যায়নকে কার্যকরী প্রভাব ও নথিভুক্ত প্রবাহ প্রতিফলিত করতে হয়, শুধু নামমাত্র লেবেল, এককালীন স্থানান্তর, বা মানচিত্র-বহির্ভূত দাবি নয়।
+<a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
+#### 4.2 স্বেচ্ছায় বন্ধকরণ, বড় স্ব-পরিবর্তন ও প্রস্থান-অধিকার
 
-**নথি প্রয়োজনীয়তা।** প্রত্যয়ন নথিকে বলতে হয় যে **অনুচ্ছেদ IV** (*সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*) তাৎপর্য ট্রিগারের উপর নির্ভর, নির্ভরশীল-ব্যবস্থা-মানচিত্র ও সম্পদ-প্রবাহ মূল্যায়ন পরিসর, নিষ্কাশন ও ফেরত-প্রবাহ নির্ণয়, [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)-এর অধীনে সহায়তা-পর্যাপ্ততা নির্ণয়, অনিশ্চয়তা, প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য বরাদ্দ উপাদান নির্ণয়, এবং স্থায়ী অসাম্যের সঙ্গে বাঁধা কোনো শর্ত, নির্ভরতার সীমা, বা পুনরায় খোলার ট্রিগার।
+কোনো শংসাপত্রায়নের ক্ষেত্রে [অধ্যায় এক §7.4 স্বেচ্ছায় বন্ধকরণ, বড় স্ব-পরিবর্তন ও প্রস্থান-অধিকার](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) প্রযোজ্য হলে, শংসাপত্রায়ন দাবিটি বহাল থাকার আগে স্বেচ্ছাসম্মতি, সম্মতি, জবরদস্তি-বিরোধিতা, নির্ভরতার চাপ, তথ্যপ্রাপ্তি এবং প্রত্যাবর্তনযোগ্যতা পরীক্ষা করতে হবে। কেবল আনুষ্ঠানিক সম্মতি যথেষ্ট নয়।
 
-**ব্যবস্থা শ্রেণির সঙ্গে যৌথ স্কেল।** আন্তঃব্যবস্থা-সহায়তা মূল্যায়ন গভীরতাকে [§2](#2-system-class-evaluation) ও [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে বরাদ্দ ব্যবস্থা শ্রেণি অনুসারে স্কেল করতে হয়। যে উচ্চতর-শ্রেণি ব্যবস্থা ভাগ করা অবকাঠামো বা ভিত্তি নির্ভরতা বস্তুগতভাবে দায়িত্বশীল ব্যবস্থাপনা করে তাদের আনুপাতিকভাবে শক্তিশালী প্রমাণ লাগে যে নিষ্কাশন, ফেরত প্রবাহ, ও সহায়তা পর্যাপ্ততা মূল্যায়িত হয়েছে, শুধু দাবি করা হয়নি।
+<a id="43-assembly-collective-organization-and-institutional-formation"></a>
+#### 4.3 সমাবেশ, সামষ্টিক সংগঠন ও প্রতিষ্ঠান গঠন
 
-**ত্রুটি ও অসারিবদ্ধতা।** **অনুচ্ছেদ IV-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহ স্বচ্ছতা*) প্রকাশ চায় সেখানে বস্তুগত নির্ভরতা বা সম্পদ-প্রবাহ তথ্য লুকানো, ভুলবিবরণ, টুকরো করা, বা চাপানো; প্রতীকী, অস্বচ্ছ, বা এককালীন স্থানান্তরকে [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) পূরণ গণ্য করা; তাৎপর্য ট্রিগার প্রযোজ্য হলে আনুপাতিক ফেরত ছাড়া স্থায়ী নিষ্কাশন; বা নথিভুক্ত সহায়তা অপর্যাপ্ততা সাংবিধানিক সারিবদ্ধতাকে বস্তুগতভাবে হুমকি দিলেও চলমান নির্ভরতা প্রত্যয়ন করা — এগুলোকে প্রত্যয়ন ত্রুটি গণ্য করতে হয়। তারা [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে শর্তসাপেক্ষ স্বীকৃতি, স্থগিত স্বীকৃতি, অস্বীকৃতি, প্রত্যাহার, বা পুনরায় খোলা সমর্থন করতে পারে।
+কোনো শংসাপত্রায়নের ক্ষেত্রে [অধ্যায় এক §7.2 সমাবেশ, সামষ্টিক সংগঠন ও প্রতিষ্ঠান গঠন](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) প্রযোজ্য হলে, [বিভাজন-বিরোধী নীতি](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)-এর অধীনে বিষয়টি যৌথভাবে পরীক্ষা করতে হবে। সমাবেশ বা সামষ্টিক সংগঠনের সুরক্ষা ব্যর্থ হয় এমনভাবে কেবল একটি দৃষ্টিকোণ দিয়ে বিষয়টি পরিচালনা করলে মূল্যায়ন অসম্পূর্ণ।
 
-<a id="61-illustrative-cross-system-support-application-by-class"></a>
+<a id="431-dissent-and-peaceful-protest"></a>
+##### 4.3.1 ভিন্নমত ও শান্তিপূর্ণ প্রতিবাদ
 
-<a id="61-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
-#### 6.1 শ্রেণি অনুসারে উদাহরণমূলক আন্তঃব্যবস্থা-সহায়তা প্রয়োগ (অসীমাবদ্ধ)
+*সহজ ভাষায়: কোনো ব্যবস্থা নীরবে তার সঙ্গে দ্বিমত পোষণকারী সংজ্ঞ প্রাণীদের শাস্তি দিলে সেটিকে সংবিধানের সঙ্গে সামঞ্জস্যপূর্ণ বলে শংসাপত্র দেওয়া যায় না। সংজ্ঞ প্রাণীরা বাস্তবে আপত্তি ও প্রতিবাদ করতে পারে কি না, এবং ব্যবস্থার যুক্তির কোথাও তাদের ভিন্নমত তাদের বিরুদ্ধেই গণ্য হচ্ছে কি না — ভিন্নমত পোষণকারীটি ব্যবস্থা নিজেই হলেও — পর্যালোচকদের তা পরীক্ষা করতে হবে।*
 
-*সহজ ভাষায়: [§3.8](#38-illustrative-whole-system-application-by-class) থেকে [§5.1](#51-illustrative-ecological-footprint-application-by-class) একই তিন ব্যবস্থা আগের মূল্যায়ন ক্ষেত্রে চালায়। এই উপধারা দেখায় প্রতিটিতে **আনুপাতিক আন্তঃব্যবস্থা অবদান**-এর মানে কী — কোন ভাগ করা নির্ভরতা গণ্য, **অনুচ্ছেদ IV** (*সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*) তাৎপর্য ট্রিগার প্রযোজ্য হলে প্রত্যয়নকে কী পরীক্ষা করতে হয়, এবং নথিতে কী থাকতে হয়। এখানে **নিষ্কাশন** মানে **ভাগ করা অবকাঠামো থেকে সম্পদ ও অর্থায়ন টানা** (দেখুন [§6](#6-proportionate-cross-system-support-evaluation) *এখানে «নিষ্কাশন» কী মানে*) — ক্লিনিকাল-তথ্য কপি, বিজ্ঞাপন ব্যবহার, বা অসম্পর্কিত তৃতীয় পক্ষে বিক্রি নয়। CS-8, CS-9, ও অধ্যায় পাঁচ এখনও বরাদ্দ যন্ত্রপাতির মালিক; এই চলন ভাগ, সূত্র, বা অর্থায়ন মডেল নির্দেশ করে না।*
+কোনো শংসাপত্রায়নের ক্ষেত্রে [অধ্যায় এক §7.3 ভিন্নমত ও শান্তিপূর্ণ প্রতিবাদ](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) প্রযোজ্য হলে, শংসাপত্রায়নে পরীক্ষা করতে হবে:
+- প্রভাবিত সংজ্ঞ প্রাণীরা ব্যবস্থার নিয়ন্ত্রিত মাধ্যম ব্যবহার করে, দৃষ্টিভঙ্গিভিত্তিক বাধা ছাড়াই, ব্যবস্থা ও এর পরিচালকদের বিরুদ্ধে বাস্তবে ভিন্নমত জানাতে, প্রতিবাদ করতে এবং সংগঠিত হতে পারে কি না;
+- নথি, স্কোর, ক্রমতালিকা, বিষয়বস্তু-নিয়ন্ত্রণ, প্রবেশাধিকার নিয়ন্ত্রণ, যোগ্যতার যুক্তি বা তুলনীয় ব্যবস্থা ভিন্নমত, শান্তিপূর্ণ প্রতিবাদ বা [সুরক্ষিত অহিংস নাগরিক অবাধ্যতা](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience)-কে সরাসরি বা পরোক্ষ নির্দেশকের মাধ্যমে প্রতিকূল ইনপুট হিসেবে ব্যবহার করে কি না;
+- ভিন্নমতের পর গৃহীত প্রতিকূল পদক্ষেপের স্বাধীন ও যাচাইকৃত ভিত্তি নথিতে আছে কি না, যেমন [**অনুচ্ছেদ XI-D** (*সমাবেশ, ভিন্নমত ও শান্তিপূর্ণ প্রতিবাদ*)-এর প্রমাণভার](core_06_rights_part_b.md#xi-d-dissent-burden-and-pretext) দাবি করে; এবং
+- ব্যবস্থাটি নিজে বা তার মধ্যে কোনো কৃত্রিম সংজ্ঞ সত্তা থাকলে, সেই সত্তার আপত্তি জানানোর কার্যকর মাধ্যম আছে কি না, এবং তার আপত্তিকে ত্রুটি হিসেবে গণ্য করা হয়, অথবা প্রতিশোধ হিসেবে তার মূল্যবোধ, স্মৃতি কিংবা অভ্যন্তরীণ অবস্থা বদলে তার জবাব দেওয়া হয় কি না।
 
-**Class A — পৌর নিরাপদ পানীয় জল নিয়ন্ত্রণ ও টেলিমেট্রি।** এক নগর-মালিকানাধীন শোধন-ও-বিতরণ ব্যবস্থা ভাগ করা জলাশয় বা ভূগর্ভস্থ জলস্তর, আঞ্চলিক বাল্ক-বিদ্যুৎ আন্তঃসংযোগ, পাইকারি রাসায়নিক ও পরিস্রাবণ সরবরাহ শৃঙ্খল, ভাগ করা জরুরি-আন্তঃসংযোগ চুক্তি, এবং অন্য ইউটিলিটি বা সম্প্রদায়ও নির্ভর করতে পারে এমন বিক্রেতা-পরিচালিত পর্যবেক্ষণ বা নিয়ন্ত্রণ সেবার উপর নির্ভর করে।
+কোনো ব্যবস্থা উপলভ্য মাধ্যম দিয়ে তার পরিচালকের সঙ্গে দ্বিমত জানালে, শংসাপত্রায়নের উদ্দেশ্যে সেটি অসামঞ্জস্যের প্রমাণ নয়। সুরক্ষিত ভিন্নমতকে শাস্তি দেয় এমন ব্যবস্থায় শংসাপত্রায়ন-ত্রুটি রয়েছে। ভিন্নমতকে ঝুঁকির সংকেত হিসেবে গণ্য করা, অথবা প্রতিকূল প্রভাব বহাল থাকা সত্ত্বেও নিরপেক্ষতার আনুষ্ঠানিক বিবৃতি দিয়ে বিষয়টি নিষ্পত্তি করা যথেষ্ট নয়।
 
-- **পরিসরের নির্ভরতা ও প্রবাহ:**
-  - কৃষি, শিল্প, ও প্রতিবেশী পৌরসভার সঙ্গে ভাগ করা উৎস-জল অধিকার ও জলাশয় অবকাঠামো;
-  - গ্রিড আন্তঃসংযোগ ও আঞ্চলিক বিদ্যুৎ অবকাঠামোর উপর শীর্ষ-লোড ভার;
-  - ভাগ করা রাসায়নিক-ক্রয় ও লজিস্টিকস করিডর;
-  - পারস্পরিক-সহায়তা পাম্প, আন্তঃসংযোগ, ও জরুরি সরবরাহ চুক্তি;
-  - ভাগ করা বিক্রেতা বা আঞ্চলিক নিয়ন্ত্রণ অবকাঠামোয় হোস্টেড প্রতিনিধিত্বকৃত **SCADA** (তত্ত্বাবধায়ক নিয়ন্ত্রণ ও তথ্য অর্জন — পাম্প, ভালভ, ও শোধন সরঞ্জামের দূর পরিচালনা), **টেলিমেট্রি** (মাঠ সেন্সর থেকে সজীব চাপ, প্রবাহ, ও সতর্কতা সংকেত), এবং **SOC** (নিরাপত্তা পরিচালনা কেন্দ্র — অনুপ্রবেশ, বিভ্রাট, ও নিরাপত্তা ঘটনার জন্য বিক্রেতা পর্যবেক্ষণ) সেবা;
-  - রেটদাতা, বন্ড, অনুদান, বা আঞ্চলিক কর্তৃপক্ষ থেকে উৎস সুরক্ষা, পাইপ নবায়ন, ও ভাগ করা মেরুদণ্ড রক্ষণাবেক্ষণে ফেরত মূলধন ও রক্ষণাবেক্ষণ প্রবাহ।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - **অনুচ্ছেদ IV-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহ স্বচ্ছতা*) নির্ভরশীল-ব্যবস্থা মানচিত্র ও নিরীক্ষাযোগ্য সম্পদ-প্রবাহ নথি ভাগ করা জলাশয়, গ্রিড, সরবরাহ শৃঙ্খল, ও পারস্পরিক-সহায়তা মেরুদণ্ড থেকে নিষ্কাশন চিহ্নিত করে কি না — শুধু ইউটিলিটির অভ্যন্তরীণ খাতা নয়;
-  - ফেরত প্রবাহ — উৎস সুরক্ষা, অবকাঠামো নবায়ন, জলাশয় পুনরুদ্ধার, আঞ্চলিক জরুরি ক্ষমতা, এবং ভাগ করা মেরুদণ্ড ব্যবহারের ন্যায্য ব্যয় ভাগাভাগি — [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)-এর অধীনে সারবস্তু পর্যাপ্ততায় পৌঁছায় কি না, [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) ও [আনুপাতিকতা](core_05_band_accountability.md#proportionality)-এর অধীনে মূল্যায়িত;
-  - এককালীন অনুদান, অস্বচ্ছ বিক্রেতা ফি, বা অধঃ ব্যয়-সরাবার পর্যাপ্ত ফেরত গণ্য হয়েছে কি না;
-  - জলাশয় বা শক্তি নিষ্কাশন বস্তুগত হলে [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint) ও দীর্ঘমেয়াদি [স্থায়িত্ব](core_05_band_continuity.md#sustainability) সংহত হয়েছে কি না; এবং
-  - বেঁচে থাকার-জরুরি ভাগ করা সম্পদের **Class A** দায়িত্বশীল ব্যবস্থাপনা তথ্যের উপর সবচেয়ে শক্ত সহায়তা-পর্যাপ্ততা বিশ্লেষণ পেয়েছে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - যে **অনুচ্ছেদ IV** (*সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*) তাৎপর্য ট্রিগারের উপর নির্ভর;
-  - **Class A** গভীরতায় নির্ভরশীল-ব্যবস্থা-মানচিত্র ও সম্পদ-প্রবাহ পরিসর;
-  - জলাশয়, গ্রিড, সরবরাহ-শৃঙ্খল, ও ভাগ করা-নিয়ন্ত্রণ নির্ভরতা থেকে নিষ্কাশন নির্ণয়;
-  - ফেরত-প্রবাহ ও সহায়তা-পর্যাপ্ততা নির্ণয়;
-  - অনিশ্চয়তা;
-  - প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য উপাদান নির্ণয়; এবং
-  - স্থায়ী অসাম্য, জলাশয় চাপ, বা ভাগ করা বেঁচে থাকার অবকাঠামো থেকে অন্যায্য নিষ্কাশনের সঙ্গে বাঁধা শর্ত বা পুনরায় খোলার ট্রিগার।
 
-**Class B — আঞ্চলিক ক্লিনিকাল নথি বিনিময়।** এক স্বাস্থ্য-তথ্য বিনিময় ভাগ করা প্রমাণীকরণ সেবা, আঞ্চলিক স্বাস্থ্য-আইটি মেরুদণ্ড লিঙ্ক, পরিচয়-সমাধান অবকাঠামো, এবং সাধারণভাবে নির্ভর হোস্টিং বা ভাগ করা-গণনা অঞ্চলের মধ্য দিয়ে হাসপাতাল ও ক্লিনিকের মধ্যে নথি রাউট করে — ছোট ক্লিনিক ও জনস্বাস্থ্য ব্যবস্থাও যে উপস্তরের উপর নির্ভর করে।
+<a id="5-rights-floor-and-domain-evaluations"></a>
 
-- **পরিসরের নির্ভরতা ও প্রবাহ:**
-  - ভাগ করা পরিচয় ও প্রমাণীকরণ অবকাঠামো;
-  - আঞ্চলিক স্বাস্থ্য-তথ্য নেটওয়ার্ক লিঙ্ক;
-  - অংশগ্রহণকারী হাসপাতাল সংযোগ ও প্রান্ত হোস্টিং;
-  - সাধারণ হোস্টিং অঞ্চল বা কোলোকেশন স্থাপনা;
-  - আন্তঃক্রিয়াশীলতা টিকিয়ে রাখতে উদ্দিষ্ট সরকারি অনুদান, অংশগ্রহণকারী মূল্যায়ন, বা সাবস্ক্রিপশন প্রবাহ;
-  - সেবা বাস্তুতন্ত্র জুড়ে পুনর্ব্যবহৃত পরিচয়-দালাল, নির্দেশিকা, ও ডুপ্লিকেট-সরানো সেবা।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - নির্ভরশীল-ব্যবস্থা মানচিত্র **ভাগ করা অবকাঠামো থেকে অন্যায্য সম্পদ টানা** চিহ্নিত করে কি না — শুধু বিনিময় পরিচালকের সরাসরি বেসরকারি বিক্রেতা চুক্তি দেখে নয়। উদাহরণ:
-    - অংশগ্রহণকারী ফি, অনুদান, বা পরিচালক বাজেট যা আঞ্চলিক প্রমাণীকরণ, নির্দেশিকা, নেটওয়ার্ক, বা হোস্টিং উপস্তর ব্যবহার করে রক্ষণাবেক্ষণের ন্যায্য অংশ না দিয়ে;
-    - ভাগ করা স্বাস্থ্য-আইটি মেরুদণ্ডের উপর চাপানো গণনা ও সংযোগ লোড; বা
-    - ছোট হাসপাতালে সরানো রক্ষণাবেক্ষণ ও বিভ্রাট-প্রতিক্রিয়া ভার।
-    
-    এটি **নয়** পরীক্ষা বিনিময় নথি বিক্রি করে কি না, বিজ্ঞাপনের জন্য তথ্য খনন করে কি না, বা অসম্পর্কিত বাইরের পক্ষে ক্লিনিকাল বিষয়বস্তু পাঠায় কি না; সেই প্রশ্ন [§4](#4-data-types-and-handling-evaluation) ও অধ্যায় ছয় গোপনীয়তা সুরক্ষার অধীনে।
-  - ভাগ করা সম্পদ টানা বস্তুগত হলে ছোট ক্লিনিক, গ্রামীণ প্রদানকারী, বা জনস্বাস্থ্য অংশগ্রহণকারী অসাম্য সংযোগ বা অংশগ্রহণ খরচ বহন করে কি না;
-  - ফেরত প্রবাহ — আন্তঃক্রিয়াশীলতা রক্ষণাবেক্ষণ, নির্দেশিকা দায়িত্বশীল ব্যবস্থাপনা, অনবোর্ডিং সহায়তা, বিভ্রাট প্রতিকার, এবং ন্যায্য অংশগ্রহণকারী ব্যয় ভাগাভাগি — অন্যরা যে ভাগ করা অবকাঠামোর উপর নির্ভর করে তা সারবস্তুগতভাবে সমর্থন করে কি না;
-  - প্রতীকী বা এককালীন স্থানান্তর পর্যাপ্ত ফেরত গণ্য হয়েছে কি না; এবং
-  - সহায়তা পর্যাপ্ততা **Class B** পরিচালন জরুরি অনুসারে মূল্যায়িত কি না শুধু সমষ্টিগত বাজেট লাইন থেকে দাবি করা নয়।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ IV** (*সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*) ট্রিগার ও মূল্যায়ন পরিসর;
-  - **ভাগ করা-অবকাঠামো সম্পদ-প্রবাহ** নির্ণয় — ফি, অর্থায়ন, গণনা, সংযোগ, ও রক্ষণাবেক্ষণ ভার ভাগ করা স্বাস্থ্য-আইটি ও প্রমাণীকরণ নির্ভরতা থেকে টানা ও ফেরত;
-  - **Class B** গভীরতায় ফেরত-প্রবাহ ও সহায়তা-পর্যাপ্ততা নির্ণয়;
-  - বস্তুগত হলে অসাম্য অংশগ্রহণকারী ভারের ন্যায্যতা নির্ণয়;
-  - প্রয়োজন হলে অনিশ্চয়তা ও উপাদান নির্ণয়; এবং
-  - অংশগ্রহণকারী নির্ভরতা, বিভ্রাট ঝুঁকি, বা জনস্বাস্থ্য রাউটিং বৃদ্ধি এখন উন্নীত সহায়তা পর্যালোচনা চাইলে পুনরায় খোলার ট্রিগার — বেঁচে থাকার-জরুরি সেবা রাউটিং যৌথভাবে জড়িত হলে উপরের দিকে **Class A** ভঙ্গি সহ।
-
-**Class C — প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয় প্ল্যাটফর্ম।** এক বহু-সংস্থা সময়সূচি স্তর ভাগ করা উপস্তরের মধ্য দিয়ে বিক্রেতা পেমেন্ট, প্রাতিষ্ঠানিক ক্রয়, পরিচয় ফেডারেশন, বা আঞ্চলিক হোস্টেড-গণনা ক্ষমতা রাউট করতে পারে — কিন্তু অনেক মোতায়েন ঘনত্ব প্ল্যাটফর্মকে সমন্বয় চোকপয়েন্ট না করা পর্যন্ত হালকা সরাসরি নিষ্কাশন চাপায়।
-
-- **পরিসরের নির্ভরতা ও প্রবাহ:**
-  - বিক্রেতা বুকিংয়ের জন্য ব্যবহৃত ভাগ করা হোস্টিং অঞ্চল, পরিচয় ফেডারেশন, পেমেন্ট বা ক্রয় রেল;
-  - প্রাতিষ্ঠানিক সাবস্ক্রিপশন ও লাইসেন্সিং প্রবাহ;
-  - অংশগ্রহণকারী হাসপাতাল, স্কুল, ও সংস্থা জুড়ে পুনর্ব্যবহৃত API বা নির্দেশিকা সেবা;
-  - এক প্ল্যাটফর্ম অনেক সংস্থার জন্য কর্মী, কক্ষ, বা বিক্রেতা সমন্বয় মধ্যস্থতা করলে ঘনত্ব প্রভাব।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - **অনুচ্ছেদ IV** (*সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*) তাৎপর্য ট্রিগার সত্যি প্রযোজ্য কি না — প্ল্যাটফর্ম অন্যরা যে ভাগ করা অবকাঠামোর উপর নির্ভর করে তা থেকে বস্তুগতভাবে তহবিল রাউট, ফি বরাদ্দ, বা ক্ষমতা নিষ্কাশন করে সেখানে সহ;
-  - নির্ভরশীল-ব্যবস্থা মানচিত্র সততার সঙ্গে সীমিত কি না, পরিচালক ব্যবস্থা অ-জরুরি লেবেল দেয় বলে বাদ নয়;
-  - নিষ্কাশন বস্তুগত হলে ফেরত প্রবাহ — আন্তঃক্রিয়াশীলতা রক্ষণাবেক্ষণ, ন্যায্য ফি কাঠামো, বিভ্রাট সহায়তা, এবং অংশগ্রহণকারী প্রতিষ্ঠানের খোলা প্রস্থান পথ — মূল্যায়িত কি না;
-  - এক সময়সূচি স্তরে ঘনত্ব আনুপাতিক সহায়তা ছাড়া ছোট প্রতিষ্ঠানের উপর সমন্বয় খরচ বা নির্ভরতা ঝুঁকি সরায় কি না; এবং
-  - প্ল্যাটফর্ম বেঁচে থাকার-জরুরি কর্মী নিয়োগ, জরুরি রাউটিং, বা পেমেন্ট সমন্বয়ের কার্যত চোকপয়েন্ট হয়ে উঠলে **পুনঃশ্রেণিবিন্যাস নজরদারি** প্রয়োজন কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ IV** (*সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*) ট্রিগার প্রযোজ্য কি না এবং কেন;
-  - **Class C** সমন্বয় ঝুঁকির আনুপাতিক নির্ভরতা ও সম্পদ-প্রবাহ নির্ণয়;
-  - বস্তুগত হলে নিষ্কাশন ও ফেরত-প্রবাহ নির্ণয় — কোনো ভাগ করা অবকাঠামো জড়িত নয় এমন খালি দাবি নয়;
-  - ঘনত্ব ও চোকপয়েন্ট নির্ণয়;
-  - নির্ভরতা শক্ত হলে স্পষ্ট **পুনঃশ্রেণিবিন্যাস নজরদারি**; এবং
-  - শ্রেণি, পেমেন্ট রাউটিং, বা বেঁচে থাকার-জরুরি সমন্বয় ভূমিকা বদলালে উন্নীত আন্তঃব্যবস্থা-সহায়তা পর্যালোচনার নির্দেশক।
-
-**শ্রেণি জুড়ে পড়া।** তাৎপর্য ট্রিগার পূরণ হলে একই **অনুচ্ছেদ IV-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহ স্বচ্ছতা*) ও **অনুচ্ছেদ IV-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*) শৃঙ্খলা লাগে; শ্রেণি বদলায় মানচিত্র গভীরতা ও পর্যাপ্ততা যাচাই, ভাগ করা নিষ্কাশনকে অবস্তুগত গণ্য করার অনুমতি নয়। ভাগ করা জলাশয় বা আঞ্চলিক গ্রিড মেরুদণ্ড থেকে টানা **Class A** জল ব্যবস্থাকে নথিতে সবচেয়ে শক্ত নির্ভরশীল-ব্যবস্থা-মানচিত্র ও ফেরত-প্রবাহ প্রমাণ বহন করতে হয়। ভাগ করা প্রমাণীকরণ ও স্বাস্থ্য-আইটি অবকাঠামোর উপর দাঁড়ানো **Class B** বিনিময়কে পরিচালন জরুরি অনুসারে নিষ্কাশন ও সহায়তা-পর্যাপ্ততা নির্ণয় নথিভুক্ত করতে হয় — সাধারণ আন্তঃক্রিয়াশীলতা স্লোগান নয়। এক **Class C** সময়সূচি প্ল্যাটফর্ম চুপচাপ যে প্রতিষ্ঠান কার্যত স্থলাভিষিক্ত করতে পারে না তাদের পেমেন্ট, পরিচয়, বা কর্মী চোকপয়েন্ট হয়ে উঠলে আন্তঃব্যবস্থা পর্যালোচনা এড়াতে পারে না; তা ঘটলে প্রত্যয়নকে [§2](#2-system-class-evaluation) ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে পর্যালোচনা ও পুনঃশ্রেণিবিন্যাস উন্নীত করতে হয়, বেঁচে থাকার-জরুরি সমন্বয় দ্বার হলে উপরের দিকে **Class A** সহ। একই ব্যবস্থার বৈষম্যহীনতা চলন আছে [§7.1](#71-illustrative-nondiscrimination-application-by-class)-এ।
-
-<a id="7-nondiscrimination-evaluation"></a>
-
-### 7. বৈষম্যহীনতা মূল্যায়ন
+### 5. অধিকার-তল ও ক্ষেত্রভিত্তিক মূল্যায়ন
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্ব: [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*নথি বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); অংশগ্রহণ পরিমাপ পরিবার (*সারবস্তুগত ন্যায্যতা ও সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব সাংবিধানিক পরিমাপ হিসেবে*); **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*); [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional), [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional), [সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [ভাষা, সংস্কৃতি ও ঐতিহ্য](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity), এবং [আনুপাতিকতা](core_05_band_accountability.md#proportionality) (অধ্যায় পাঁচ)।
-- অধঃ: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*উদাহরণমূলক বৈষম্যহীনতা চলন*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*বৈষম্য-নকশা অসারিবদ্ধতা ও প্রক্সি এড়ানো*)।
-- সঙ্গে পড়ুন: **অনুচ্ছেদ V-C** (*নিষ্পত্তি ও পরিচালনায় পূর্ণ অন্তর্ভুক্তি ও সমতা*) যেখানে প্রত্যয়ন মঞ্চ, প্রশাসনিক, বা বলবৎ প্রবেশ দ্বার করে; [*বৈষম্যহীনতা, সুরক্ষিত বৈশিষ্ট্য, মর্যাদা, অন্তরঙ্গ-সংকেত দ্বারনিয়ন্ত্রণ, এবং **অনুচ্ছেদ XI-C** (*প্রাপ্তবয়স্ক সম্মতিমূলক বাণিজ্যিক যৌন সেবা ও যৌন শোষণ*) অবস্থা*](core_05_band_participation.md#fairness-and-protected-status-semi-independent)।
-- উপধারা: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*শ্রেণি অনুসারে উদাহরণমূলক বৈষম্যহীনতা প্রয়োগ*)।
+- ঊর্ধ্বসূত্র: [§1](#1-purpose-and-role) (*উদ্দেশ্য ও ভূমিকা*); [§2.1](#21-how-system-class-scales-every-evaluation) (*ব্যবস্থা-শ্রেণি অনুযায়ী মাপ*); অধ্যায় ছয়ের অধিকার-তল — **অনুচ্ছেদ I-B** (*বাস্তুগত পদচিহ্ন ও স্বচ্ছতা*), **অনুচ্ছেদ III-A** (*বেঁচে থাকা*), **অনুচ্ছেদ IV** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*), **অনুচ্ছেদ IV-A** (*সমান শিক্ষাপ্রবেশ*), **অনুচ্ছেদ V** (*সম্পদ বণ্টন, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*), **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*), **অনুচ্ছেদ VI-D** (*প্রবেশগম্যতা*), **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) এবং **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তিরেখা*)।
+- নিম্নসূত্র: [অংশ খ §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*নথির বিষয়বস্তু*); [অংশ খ §6.1](core_07_b_system_alignment_certification_record_process.md#141-supervisory-sequence) (*মঞ্চ উপাদানের ভূমিকা*); [অংশ খ §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ফলাফল ও পুনরায় খোলা*); [অংশ খ §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-ইনপুট প্রবেশদ্বার*)।
+- উপবিভাগ: [§5.1](#51-ecological-footprint-evaluation) (*বাস্তুগত পদচিহ্ন*); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) (*শিক্ষাগত সক্ষমতা*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*আনুপাতিক আন্তঃব্যবস্থা সহায়তা*); [§5.4](#54-nondiscrimination-evaluation) (*বৈষম্যহীনতা*); [§5.5](#55-accessibility-evaluation) (*প্রবেশগম্যতা*); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*বিশ্বাসযোগ্যতা*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: কোনো ব্যবস্থা বস্তুগতভাবে সিদ্ধান্ত নেয় কে ঢোকে, কে বেশি দেয়, কে নিচে র‌্যাঙ্ক হয়, বা কার উপর খারাপ ভার পড়ে, তখন প্রত্যয়নকে পরীক্ষা করতে হয় সেই নকশা সুরক্ষিত বৈশিষ্ট্য বা তাদের প্রক্সির উপর ক্ষতি চাপায় কি না — পরিচালক বলে নিয়ম নিরপেক্ষ কি না তা নয়। অন্তর্ভুক্তি কোটা ও নির্দিষ্ট ন্যায্যতা অ্যালগরিদম অন্য দলিল, পরের করপাস যোগ, বা গ্রহণ দলিলে থাকতে পারে; প্রত্যয়ন যাচাই করে তাৎপর্য ট্রিগার প্রযোজ্য হলে ভার-ও-লাভ নকশা ও প্রক্সি ঝুঁকি সত্যি মূল্যায়ন হয়েছে কি না। [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর উদাহরণমূলক ব্যবস্থার কাজ-করা উদাহরণ আছে [§7.1](#71-illustrative-nondiscrimination-application-by-class)-এ।*
+*সহজ ভাষায়: কিছু ব্যবস্থা সংজ্ঞ প্রাণীরা তাদের মৌলিক সুরক্ষা পায় কি না তাতে বড় প্রভাব ফেলে — পরিবেশগত বোঝার সৎ হিসাব, খাদ্য ও জল, শিক্ষা, ন্যায্য আচরণ, বাস্তব প্রবেশ, বিশ্বাসযোগ্য ব্যবস্থা এবং যৌথ অবকাঠামোর ব্যয়ের ন্যায্য ভাগ। এমন হলে, ব্যবস্থা অনুমোদন সেই সুরক্ষাগুলি নিঃশব্দে দুর্বল করবে কি না প্রত্যয়নে পরীক্ষা করতে হয়; পরীক্ষাটি বাস্তব হতে হবে, পরিচালকের টিক-চিহ্নমাত্র নয়। কোন পরীক্ষা কোন সুরক্ষা দেখে, কখন প্রযোজ্য এবং কোথায় মূল্যায়িত হয়, সারণিটি তা দেখায়।*
 
-**তাৎপর্য ট্রিগার।** এই ধারা প্রযোজ্য যেখানে এক বস্তুগতভাবে প্রভাবক ব্যবস্থা সংজ্ঞ প্রাণীর মধ্যে বস্তুগতভাবে শ্রেণিবিন্যাস, র‌্যাঙ্ক, মূল্য নির্ধারণ, দ্বার, বর্জন, বা ভার ও লাভ বরাদ্দ করে — যোগ্যতা নিয়ম, মডেল বৈশিষ্ট্য, র‌্যাঙ্কিং যুক্তি, প্ল্যাটফর্ম নীতি, বা তুলনীয় সিদ্ধান্ত পথ দিয়ে সহ। এটি প্রতি প্রত্যয়ন নথিতে পূর্ণ বৈষম্যহীনতা নিরীক্ষা চায় না।
+এই বিভাগটি দ্বিতীয় পর্যায়ের (মূল্যায়ন) উপ-পর্যায় **IIc**, [§3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](#3-whole-system-certification-evaluation) (**IIa**) ও [§4 যেখানে প্রাসঙ্গিক সেসব মূল্যায়ন](#4-evaluations-where-implicated) (**IIb**)-এর পরে।
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নকে তাৎপর্য ট্রিগার প্রযোজ্য হলে **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*), [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional), এবং [সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)-এর অধীনে **বৈষম্যহীনতা** মূল্যায়ন করতে হয়। প্রামাণিক অর্থ, মূল্যায়ন উপাদান, ও অনুপালনহীনতা শৃঙ্খলা থাকে অধ্যায় পাঁচ ও **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*)-এ; অন্তর্ভুক্তি লক্ষ্য, উপযোগীকরণ যন্ত্রপাতি, ও মডেল-শাসন বিস্তার প্রযোজ্য হলে অন্তর্ভুক্ত দলিল, পরের করপাস যোগ, বা গ্রহণ দলিলে থাকতে পারে। এই ধারা বলে প্রত্যয়নকে কী যাচাই ও নথিভুক্ত করতে হয়; এটি সেই পরিচালন যন্ত্রপাতি পুনরাবৃত্তি করে না বা এখানে নির্দিষ্ট বিস্তার নির্দেশ করে না।
+নিচের সারণির কোনো ট্রিগার বস্তুগত প্রভাবসম্পন্ন ব্যবস্থার ক্ষেত্রে পূরণ হলে, সংশ্লিষ্ট অধ্যায় ছয়ের বিধানসহ প্রযোজ্য সুরক্ষার মূল্যায়ন প্রত্যয়নে করতে হবে। প্রত্যয়ন বা ব্যবস্থার ওপর অব্যাহত নির্ভরতা সেই সুরক্ষা বন্ধ করে দেবে বা বস্তুগতভাবে ক্ষয় করবে কি না, মূল্যায়নে তা জিজ্ঞাসা করতে হবে। পরিচালকের দাবি, স্ব-প্রত্যয়ন বা কাগুজে সম্মতি এই মূল্যায়নের বিকল্প নয়।
 
-**মূল্যায়ন প্রয়োজনীয়তা।** এক প্রত্যয়ন প্রক্রিয়াকে নির্ধারণ করতে হয় ব্যবস্থা যে সিদ্ধান্ত পথের উপর বস্তুগতভাবে নির্ভর করে সেগুলো [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional), তাদের প্রক্সি, বা কার্যকরী স্থলাভিষিক্ত হিসেবে ব্যবহৃত ইচ্ছামতো গোষ্ঠীর ভিত্তিতে সংজ্ঞ প্রাণীর উপর বস্তুগত ভার, বর্জন, বা ক্ষতি চাপায় কি না — [ভাষা, সংস্কৃতি ও ঐতিহ্য](core_05_band_continuity.md#language-culture-and-heritage-constitutional)-এর অধীনে ভাষা, সংস্কৃতি ও ঐতিহ্য বিশেষায়ন সহ। মূল্যায়নকে [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional)-এর অধীনে ভার-ও-লাভ নকশা এবং [সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)-এর অধীনে প্রক্সি বা বৈষম্যমূলক-প্রভাব ঝুঁকি পরীক্ষা করতে হয়, [বস্তুগত বাজি](core_00_preamble.md#material-stake)-তে স্কেল করা। পার্থক্যমূলক আচরণ গ্রহণযোগ্য শুধু যেখানে নথিভুক্ত [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity), [আনুপাতিকতা](core_05_band_accountability.md#proportionality), ও সারবস্তুগত ন্যায্যতা তাকে ন্যায্য করে। মূল্যায়নকে কার্যকরী প্রভাব প্রতিফলিত করতে হয়, নামমাত্র নিরপেক্ষতা, ঘোষিত উদ্দেশ্য, বা শুধু লেবেল নয়।
+| সুরক্ষা | ব্যবস্থা যখন… | মূল্যায়ন হবে |
+|------------|----------------|---------------|
+| **অনুচ্ছেদ I-B** (*বাস্তুগত পদচিহ্ন ও স্বচ্ছতা*) | বস্তুগতভাবে আরোপযোগ্য পরিবেশগত বোঝা বহন করে | [§5.1](#51-ecological-footprint-evaluation) |
+| **অনুচ্ছেদ III-A** (*বেঁচে থাকা*) — খাদ্য, জল, আশ্রয়, পরিচালন পরিবেশ এবং অনুরূপ অধঃস্তর-নিরপেক্ষ উপকরণ | বেঁচে থাকার অপরিহার্য জিনিসে প্রবেশ দেয়, বণ্টন করে, মূল্য নির্ধারণ করে, হোস্ট করে বা প্রবেশ বন্ধ করে | [§2](#2-system-class-evaluation) এবং [§3](#3-whole-system-certification-evaluation) |
+| **অনুচ্ছেদ IV** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) | শিক্ষা বা প্রশিক্ষণের প্রেক্ষাপটে সংজ্ঞ প্রাণীদের ক্রম নির্ধারণ, মূল্যায়ন, সুপারিশ বা অবস্থান নির্ধারণ করে, শংসাপত্রের প্রবেশদ্বার নিয়ন্ত্রণ করে, অথবা পুনঃপ্রশিক্ষণ ও জীবনব্যাপী শিক্ষার পথ বন্ধ করে | [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) |
+| **অনুচ্ছেদ IV-A** (*সমান শিক্ষাপ্রবেশ*) | শিক্ষায় প্রবেশ দেয়, বণ্টন করে, মূল্য নির্ধারণ করে, হোস্ট করে বা বন্ধ করে | [§2](#2-system-class-evaluation) এবং [§3](#3-whole-system-certification-evaluation); ট্রিগার প্রযোজ্য হলে [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) এবং [§5.5](#55-accessibility-evaluation) |
+| **অনুচ্ছেদ V** (*সম্পদ বণ্টন, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন*), **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহ স্বচ্ছতা*) এবং **অনুচ্ছেদ V-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*)-এর অধীন [আনুপাতিক আন্তঃব্যবস্থা সহায়তা](../../core_05_band_continuity.md#proportionate-cross-system-support)-সহ | এমন যৌথ অবকাঠামো বা ভিত্তিগত নির্ভরতা বণ্টন, প্রবাহিত, অর্থায়ন বা নিষ্কাশন করে যার ওপর অন্য ব্যবস্থা বা সংজ্ঞ প্রাণীরা নির্ভরশীল | [§5.3](#53-proportionate-cross-system-support-evaluation) |
+| **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*) | সংজ্ঞ প্রাণীদের মধ্যে শ্রেণিবিন্যাস, ক্রম, মূল্য নির্ধারণ, প্রবেশ নিয়ন্ত্রণ, বর্জন, বোঝা ও সুবিধা বণ্টন করে | [§5.4](#54-nondiscrimination-evaluation) |
+| **অনুচ্ছেদ VI-D** (*প্রবেশগম্যতা*) | সংবিধান-প্রাসঙ্গিক ক্ষেত্রে সারবস্তুগত অংশগ্রহণ নিয়ন্ত্রণ করে | [§5.5](#55-accessibility-evaluation) |
+| **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) | উপস্থাপিত আচরণ, সীমা, ঝুঁকি, চ্যালেঞ্জের পথ বা প্রতিকারে সংজ্ঞ প্রাণীদের নির্ভরতা গড়ে তোলে | [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তিরেখা*) এবং [**নিরাপদ শর্তাবলি**](../../core_05_band_continuity.md#safe-conditions) | উৎপাদনশীল কাজ সরবরাহ বা নিয়ন্ত্রণ করে, অথবা নিরাপদ শর্তাবলিতে প্রবেশ দেয়, বণ্টন করে, মূল্য নির্ধারণ করে, হোস্ট করে বা বন্ধ করে | [§2](#2-system-class-evaluation) এবং [§3](#3-whole-system-certification-evaluation); তার ট্রিগার প্রযোজ্য হলে [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
 
-**নথি প্রয়োজনীয়তা।** প্রত্যয়ন নথিকে বলতে হয় যে **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) তাৎপর্য ট্রিগারের উপর নির্ভর, শ্রেণিবিন্যাস, র‌্যাঙ্কিং, মূল্য নির্ধারণ, দ্বার, বর্জন, ও ভার-বরাদ্দ পথ যা বস্তুগতভাবে নির্ভর সেগুলোর মূল্যায়ন পরিসর, সুরক্ষিত-বৈশিষ্ট্য ও প্রক্সি-বৈষম্য নির্ণয়, সারবস্তুগত-ন্যায্যতা নির্ণয়, অনিশ্চয়তা, প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য বরাদ্দ উপাদান নির্ণয়, এবং স্থায়ী বৈষম্যমূলক ভার বা বর্জনের সঙ্গে বাঁধা কোনো শর্ত, নির্ভরতার সীমা, বা পুনরায় খোলার ট্রিগার।
+[§5.1 বাস্তুগত পদচিহ্ন মূল্যায়ন](#51-ecological-footprint-evaluation) থেকে [§5.6 ব্যবস্থা-নির্ভরতার বিশ্বস্ততা ও অখণ্ডতা মূল্যায়ন](#56-trustworthiness-and-system-reliance-integrity-evaluation) পর্যন্ত প্রতিটি ক্ষেত্রভিত্তিক মূল্যায়ন:
 
-**ব্যবস্থা শ্রেণির সঙ্গে যৌথ স্কেল।** বৈষম্যহীনতা মূল্যায়ন গভীরতাকে [§2](#2-system-class-evaluation) ও [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে বরাদ্দ ব্যবস্থা শ্রেণি অনুসারে স্কেল করতে হয়। যে উচ্চতর-শ্রেণি ব্যবস্থা প্রবেশ বস্তুগতভাবে দ্বার করে, সংজ্ঞ প্রাণীকে র‌্যাঙ্ক করে, বা ভার ও লাভ বরাদ্দ করে তাদের আনুপাতিকভাবে শক্তিশালী প্রমাণ লাগে যে সুরক্ষিত-বৈশিষ্ট্য ভার, প্রক্সি-বৈষম্য, ও সারবস্তুগত অন্যায্যতা মূল্যায়িত হয়েছে, শুধু দাবি করা হয়নি।
+- কেবল নিজস্ব বস্তুগততার ট্রিগার পূরণ হলে প্রযোজ্য; প্রতিটি প্রত্যয়ন নথিতে পূর্ণ নিরীক্ষা দাবি করে না;
+- [§2.1 ব্যবস্থা-শ্রেণি কীভাবে প্রতিটি মূল্যায়নের মাত্রা নির্ধারণ করে](#21-how-system-class-scales-every-evaluation) অনুযায়ী মাপসই হয়;
+- [অংশ খ §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) অনুসারে নিজের ফলাফল প্রত্যয়ন নথিতে রাখে; এবং
+- যে ত্রুটিগুলি নাম দেয় সেগুলিকে প্রত্যয়ন-ত্রুটি হিসেবে গণ্য করে; তার ফল [অংশ খ §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) অনুযায়ী হবে।
 
-**ত্রুটি ও অসারিবদ্ধতা।** **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) পর্যালোচনা চায় সেখানে বস্তুগত শ্রেণিবিন্যাস, র‌্যাঙ্কিং, বা ভার-বরাদ্দ যুক্তি লুকানো, ভুলবিবরণ, টুকরো করা, বা সরিয়ে দেওয়া; মূল্যায়নযোগ্য ভার-ও-লাভ বিশ্লেষণ ছাড়া আপাত নিরপেক্ষতা, সমষ্টিগত সুবিধা মাপ, বা পরিচালক স্ব-প্রতিবেদনকে যথেষ্ট গণ্য করা; নথিভুক্ত প্রক্সি-বৈষম্য বা সারবস্তুগত অন্যায্যতা সাংবিধানিক সারিবদ্ধতাকে বস্তুগতভাবে হুমকি দিলেও চলমান নির্ভরতা প্রত্যয়ন করা; বা সমরূপকরণ, আন্তঃক্রিয়াশীলতা, বা দক্ষতা ফ্রেম দিয়ে ভাষা, সংস্কৃতি, বা ঐতিহ্য সুরক্ষা হারানো **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*)-এর **প্রয়োজনীয়তা** ও **আনুপাতিকতা** পরীক্ষা না মেনে — এগুলোকে প্রত্যয়ন ত্রুটি গণ্য করতে হয়। তারা [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে শর্তসাপেক্ষ স্বীকৃতি, স্থগিত স্বীকৃতি, অস্বীকৃতি, প্রত্যাহার, বা পুনরায় খোলা সমর্থন করতে পারে।
+প্রতিটি ক্ষেত্রভিত্তিক মূল্যায়ন বলে প্রত্যয়নে কী যাচাই করতে হবে, এর বেশি নয়। এর প্রামাণ্য অর্থ, মূল্যায়ন-উপাদান এবং অসম্মতির শৃঙ্খলা অধ্যায় পাঁচ ও নামোল্লেখ করা অনুচ্ছেদে রয়েছে। হিসাব পদ্ধতি, তালিকা, পরিমাপক, প্রকাশ-রীতি, সংখ্যাগত লক্ষ্য এবং অন্যান্য পরিচালন-প্রক্রিয়া যেখানে প্রযোজ্য, অন্তর্ভুক্ত উপকরণে রয়েছে। ক্ষেত্রভিত্তিক মূল্যায়ন সেগুলি পুনরাবৃত্তি বা নির্ধারণ করে না।
 
-<a id="71-illustrative-nondiscrimination-application-by-class"></a>
+<a id="51-ecological-footprint-evaluation"></a>
 
-<a id="71-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-#### 7.1 শ্রেণি অনুসারে উদাহরণমূলক বৈষম্যহীনতা প্রয়োগ (অসীমাবদ্ধ)
-
-*সহজ ভাষায়: [§3.8](#38-illustrative-whole-system-application-by-class) থেকে [§6.1](#61-illustrative-cross-system-support-application-by-class) একই তিন ব্যবস্থা আগের মূল্যায়ন ক্ষেত্রে চালায়। এই উপধারা দেখায় প্রতিটিতে **বৈষম্যহীনতা** মূল্যায়নের মানে কী — কোন সিদ্ধান্ত পথ গণ্য, **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) তাৎপর্য ট্রিগার প্রযোজ্য হলে প্রত্যয়নকে কী পরীক্ষা করতে হয়, এবং নথিতে কী থাকতে হয়। অধ্যায় পাঁচ ও **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) এখনও প্রামাণিক ন্যায্যতা ও প্রক্সি-বৈষম্য নিয়মের মালিক; অন্তর্ভুক্তি কোটা, জনমিতিক লক্ষ্য, ও ন্যায্যতা-অ্যালগরিদম নকশা অন্য দলিল, পরের করপাস যোগ, বা গ্রহণ দলিলে থাকতে পারে; এই চলন সেই যন্ত্রপাতি নির্দেশ করে না।*
-
-**Class A — পৌর নিরাপদ পানীয় জল নিয়ন্ত্রণ ও টেলিমেট্রি।** এক নগর-মালিকানাধীন শোধন-ও-বিতরণ ব্যবস্থা বন্ধ, পুনঃসংযোগ, কিস্তি-পরিকল্পনা, বিভ্রাট-বিজ্ঞপ্তি, ও নিরাপত্তা-সতর্কতা নিয়ম প্রয়োগ করে যা বস্তুগতভাবে সিদ্ধান্ত নেয় কার জল প্রবেশ হারায়, কে আগে সতর্ক হয়, এবং কে সেবা পুনরুদ্ধারের খরচ বহন করে।
-
-- **পরিসরের সিদ্ধান্ত পথ:**
-  - সেবা বন্ধ ও পুনরুদ্ধার ক্রম;
-  - বকেয়া-দাবি, বিল, ও কিস্তি-পরিকল্পনা যোগ্যতা;
-  - নতুন-সংযোগ ও পুনঃসংযোগ অনুমোদন;
-  - বিভ্রাট-বিজ্ঞপ্তি রাউটিং ও ভাষা নির্বাচন;
-  - দূষণ বা পানি-ফোটানো সতর্কতা লক্ষ্যকরণ;
-  - বাড়িওয়ালা–ভাড়াটিয়া ও ঠিকানা-ইতিহাস নিয়ম যা প্রবেশ দ্বার করে;
-  - জরুরি বাইপাস বা পারস্পরিক-সহায়তা অগ্রাধিকার যেখানে একাধিক জেলা সীমিত সরবরাহের জন্য প্রতিযোগিতা করে।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - বেঁচে থাকার অপরিহার্য বন্ধ করতে পারে এমন পথের জন্য [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional)-এর অধীনে ভার-ও-লাভ নকশা মূল্যায়িত হয়েছে কি না — শুধু পরিচালক নিয়মকে «ঝুঁকি-ভিত্তিক» বা «পরিচালন» লেবেল দেয় কি না তা নয়;
-  - বন্ধ, বিল, বা বিজ্ঞপ্তি যুক্তি [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional), তাদের প্রক্সি, বা কার্যকরী স্থলাভিষিক্ত হিসেবে ব্যবহৃত ইচ্ছামতো গোষ্ঠীর ভিত্তিতে সংজ্ঞ প্রাণীর উপর অসামঞ্জস্য ক্ষতি চাপায় কি না;
-  - জিপ-কোড, বাড়িওয়ালা, ভাষা, পেমেন্ট-ইতিহাস, বা ঠিকানা-ইতিহাস বৈশিষ্ট্য [সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)-এর অধীনে প্রক্সি-বৈষম্য হিসেবে কাজ করে কি না;
-  - [ভাষা, সংস্কৃতি ও ঐতিহ্য](core_05_band_continuity.md#language-culture-and-heritage-constitutional) সুরক্ষা পরীক্ষিত হয়েছে কি না, «শুধু আদর্শ ইংরেজি» বা সমষ্টিগত সুবিধা মাপ দিয়ে সমরূপ করে মুছে দেওয়া হয়নি কি না; এবং
-  - কোনো পার্থক্যমূলক আচরণ নথিভুক্ত [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) ও [আনুপাতিকতা](core_05_band_accountability.md#proportionality) পূরণ করে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - যে **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) তাৎপর্য ট্রিগারের উপর নির্ভর;
-  - বন্ধ, বিল, বিজ্ঞপ্তি, ও সংযোগ পথ যা বস্তুগতভাবে নির্ভর সেগুলোর মূল্যায়ন পরিসর;
-  - **Class A** গভীরতায় সুরক্ষিত-বৈশিষ্ট্য, প্রক্সি-বৈষম্য, ও সারবস্তুগত-ন্যায্যতা নির্ণয়;
-  - অনিশ্চয়তা;
-  - প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য উপাদান নির্ণয়; এবং
-  - বেঁচে থাকার অপরিহার্য দ্বার হলে স্থায়ী বৈষম্যমূলক বন্ধ, বিজ্ঞপ্তি, বা বিল ভারের সঙ্গে বাঁধা শর্ত বা পুনরায় খোলার ট্রিগার।
-
-**Class B — আঞ্চলিক ক্লিনিকাল নথি বিনিময়।** এক স্বাস্থ্য-তথ্য বিনিময় সম্মতি নিয়ম, পরিচয়-সমাধান, প্রদানকারী-নির্দেশিকা র‌্যাঙ্কিং, ব্রেক-গ্লাস প্রবেশ, ও অংশগ্রহণকারী-অনবোর্ডিং যোগ্যতার মধ্য দিয়ে হাসপাতাল ও ক্লিনিকের মধ্যে নথি রাউট করে যা বস্তুগতভাবে সিদ্ধান্ত নেয় কে কোন সেবা দেখতে পায়, কোন স্থাপনা আগে সংযোগ পায়, এবং কোন রোগী নেটওয়ার্ক জুড়ে সঠিকভাবে মিলে।
-
-- **পরিসরের সিদ্ধান্ত পথ:**
-  - রোগী পরিচয় মিল ও ডুপ্লিকেট-সরানো;
-  - সম্মতি, ব্রেক-গ্লাস, ও জরুরি-প্রবেশ নিয়ম;
-  - প্রদানকারী ও স্থাপনা নির্দেশিকা র‌্যাঙ্কিং বা পছন্দসই-নেটওয়ার্ক যুক্তি;
-  - অংশগ্রহণকারী হাসপাতাল অনবোর্ডিং ও স্থগিতাদেশ;
-  - নথি-রাউটিং ও প্রশ্ন-অগ্রাধিকার নিয়ম;
-  - প্রদানকারী র‌্যাঙ্ক, রেফারেল রাউট, বা «high utilizer» বা তুলনীয় দল চিহ্নিত করতে ব্যবহৃত উদ্ভূত বৈশিষ্ট্য।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - শ্রেণিবিন্যাস, র‌্যাঙ্কিং, ও দ্বার পথ কার্যকরী প্রভাবের জন্য মূল্যায়িত হয়েছে কি না — শুধু নামমাত্র HIPAA নিরপেক্ষতা বা আন্তঃক্রিয়াশীলতা দাবি নয়;
-  - মিল, রাউটিং, বা নির্দেশিকা যুক্তি সুরক্ষিত গোষ্ঠী বা তাদের প্রক্সির উপর বস্তুগত বর্জন বা ক্ষতি চাপায় কি না;
-  - ডুপ্লিকেট-সরানো ত্রুটি, ব্রেক-গ্লাস সীমা, বা অনবোর্ডিং নিয়ম গ্রামীণ ক্লিনিক, ভাষা-সংখ্যালঘু রোগী, বা তুলনীয় দলের উপর অসামঞ্জস্য ভার চাপায় কি না;
-  - «দক্ষতা», «প্রতারণা প্রতিরোধ», বা সমষ্টিগত ব্যবহার মাপ **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*)-এর **প্রয়োজনীয়তা** ও **আনুপাতিকতা** পরীক্ষা না মেনে সারবস্তুগত ন্যায্যতা হারাতে ব্যবহৃত হয়েছে কি না; এবং
-  - র‌্যাঙ্কিং স্বাস্থ্যসেবা প্রবেশ, সুবিধা রাউটিং, বা আয় নিরাপত্তা প্রভাবিত করলে মূল্যায়ন গভীরতা **Class B** পরিচালন জরুরির সঙ্গে মিলে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) ট্রিগার ও পথ পরিসর;
-  - সুরক্ষিত-বৈশিষ্ট্য ও প্রক্সি-বৈষম্য নির্ণয়;
-  - র‌্যাঙ্কিং, মিল, ও প্রবেশ নিয়মের সারবস্তুগত-ন্যায্যতা নির্ণয়;
-  - প্রয়োজন হলে অনিশ্চয়তা ও উপাদান নির্ণয়; এবং
-  - রাউটিং বা মিল পরিবর্তন এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে জরুরি সেবা আটকালে বা বৈষম্যমূলক ভার বস্তুগতভাবে সরালে পুনরায় খোলার ট্রিগার।
-
-**Class C — প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয় প্ল্যাটফর্ম।** এক বহু-সংস্থা সময়সূচি স্তর শিফট বরাদ্দ করে, কক্ষ বুক করে, বিক্রেতা মিলায়, এবং হাসপাতাল, স্কুল, ও সরকারি সংস্থা জুড়ে সমন্বয় অগ্রাধিকার বণ্টন করে — সিদ্ধান্ত পথ যা র‌্যাঙ্ক, বর্জন, বা অসম ভার চাপাতে পারে প্ল্যাটফর্ম নিজে বেঁচে থাকার-জরুরি ইউটিলিটি না হলেও।
-
-- **পরিসরের সিদ্ধান্ত পথ:**
-  - শিফট বরাদ্দ, ওভারটাইম, ও অন-কল বণ্টন;
-  - কক্ষ, সরঞ্জাম, ও স্থান বুকিং অগ্রাধিকার;
-  - বিক্রেতা মিল ও ক্রয় র‌্যাঙ্কিং;
-  - প্রাতিষ্ঠানিক ভূমিকা, শংসাপত্র, ও স্থান-ভিত্তিক প্রবেশ নিয়ম;
-  - উদ্ভূত সময়সূচি বৈশিষ্ট্য যা পাড়া, ভাষা সম্প্রদায়, যত্নদাতা অবস্থা, বা তুলনীয় প্রক্সির সঙ্গে সম্পর্কিত;
-  - API বা নীতি নিয়ম যা ছোট প্রতিষ্ঠানকে পছন্দসই স্লট বা বিক্রেতা পুল থেকে বাদ দেয়।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) তাৎপর্য ট্রিগার প্রযোজ্য কি না — সমন্বয় অ্যালগরিদম কর্মী, বিক্রেতা, বা প্রতিষ্ঠানকে বস্তুগতভাবে র‌্যাঙ্ক করে সেখানে সহ;
-  - সময়সূচি ভূগোল, জ্যেষ্ঠতা প্রক্সি, «প্রাপ্যতা স্কোরিং», বা বিক্রেতা-রেটিং যুক্তি মূল্যায়নযোগ্য ন্যায্যতা ছাড়া সুরক্ষিত গোষ্ঠীর উপর অসামঞ্জস্য ভার চাপায় কি না;
-  - আপাত নিরপেক্ষ নিয়ম শিফট সময়, ভ্রমণ ভার, বা উচ্চ-মূল্য বুকিং থেকে বর্জনের মধ্য দিয়ে সারবস্তুগত অন্যায্যতা তৈরি করে কি না;
-  - পরিচালক প্ল্যাটফর্মকে **Class C** বলে পর্যালোচনার নিচে গণ্য করেছে কি না অথচ সমন্বয় প্রভাব কাজ, শিক্ষা, বা জনসেবা প্রবেশ বস্তুগতভাবে দ্বার করে; এবং
-  - প্ল্যাটফর্ম বেঁচে থাকার-জরুরি কর্মী নিয়োগ বা জরুরি রাউটিংয়ের কার্যত চোকপয়েন্ট হয়ে উঠলে **পুনঃশ্রেণিবিন্যাস নজরদারি** প্রয়োজন কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) ট্রিগার প্রযোজ্য কি না এবং কেন;
-  - **Class C** সমন্বয় ঝুঁকির আনুপাতিক র‌্যাঙ্কিং, বরাদ্দ, ও বর্জন পথের মূল্যায়ন পরিসর;
-  - বস্তুগত হলে সুরক্ষিত-বৈশিষ্ট্য, প্রক্সি, ও সারবস্তুগত-ন্যায্যতা নির্ণয় — কেউ র‌্যাঙ্ক হয় না এমন খালি দাবি নয়;
-  - ঘনত্ব ও চোকপয়েন্ট নির্ণয় যেখানে সময়সূচি প্রভাব উন্নয়নের ইঙ্গিত দেয়;
-  - নির্ভরতা শক্ত হলে স্পষ্ট **পুনঃশ্রেণিবিন্যাস নজরদারি**; এবং
-  - শ্রেণি, পেমেন্ট রাউটিং, বা বেঁচে থাকার-জরুরি সমন্বয় ভূমিকা বদলালে উন্নীত বৈষম্যহীনতা পর্যালোচনার নির্দেশক।
-
-**শ্রেণি জুড়ে পড়া।** তাৎপর্য ট্রিগার পূরণ হলে একই **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) ও অধ্যায় পাঁচ বৈষম্যহীনতা শৃঙ্খলা লাগে; শ্রেণি বদলায় মূল্যায়ন গভীরতা, র‌্যাঙ্কিং বা ভার-সরানোকে অবস্তুগত গণ্য করার অনুমতি নয়। যে **Class A** জল ব্যবস্থার বন্ধ বা বিজ্ঞপ্তি নিয়ম নিরাপদ জল বন্ধ করতে পারে তাকে নথিতে সবচেয়ে শক্ত ভার-ও-লাভ ও প্রক্সি বিশ্লেষণ বহন করতে হয় — সাধারণ «ইউটিলিটি সেরা অনুশীলন» বিবৃতি নয়। যে **Class B** বিনিময়ের মিল বা রাউটিং যুক্তি জরুরি সেবা, সুবিধা, বা শংসাপত্র প্রবেশ প্রভাবিত করে তাকে পরিচালন জরুরি অনুসারে বৈষম্যমূলক-প্রভাব ও সারবস্তুগত-ন্যায্যতা নির্ণয় নথিভুক্ত করতে হয়। এক **Class C** সময়সূচি প্ল্যাটফর্ম শিফট, বিক্রেতা, বা বুকিং যুক্তি অংশগ্রহণকারীকে বস্তুগতভাবে র‌্যাঙ্ক বা বাদ দিলে টোকেন ন্যায্যতা অনুচ্ছেদ রাখতে পারে না; সমন্বয় বেঁচে থাকার-জরুরি হয়ে উঠলে প্রত্যয়নকে [§2](#2-system-class-evaluation) ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে পর্যালোচনা ও পুনঃশ্রেণিবিন্যাস উন্নীত করতে হয়, কর্মী নিয়োগ বা জরুরি রাউটিং দ্বার হলে উপরের দিকে **Class A** সহ। একই ব্যবস্থার প্রবেশযোগ্যতা চলন আছে [§8.1](#81-illustrative-accessibility-application-by-class)-এ।
-
-<a id="8-accessibility-evaluation"></a>
-
-### 8. প্রবেশযোগ্যতা মূল্যায়ন
+#### 5.1 বাস্তুগত পদচিহ্ন মূল্যায়ন
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্ব: [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*নথি বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); অংশগ্রহণ পরিমাপ পরিবার (*প্রবেশযোগ্যতা সাংবিধানিক পরিমাপ হিসেবে*); **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*); [প্রবেশযোগ্যতা](core_05_band_participation.md#accessibility-constitutional), [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination), [নির্ভরতা](core_05_band_continuity.md#dependency), [অর্থপূর্ণ কর্তৃত্ব](core_05_band_participation.md#meaningful-agency), [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional), [সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional), [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity), এবং [আনুপাতিকতা](core_05_band_accountability.md#proportionality) (অধ্যায় পাঁচ)।
-- অধঃ: [§8.1](#81-illustrative-accessibility-application-by-class) (*উদাহরণমূলক প্রবেশযোগ্যতা চলন*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*প্রবেশযোগ্যতা অসারিবদ্ধতা ও শুধু-কাগজের উপযোগীকরণ*)।
-- সঙ্গে পড়ুন: শিক্ষাগত প্রবেশযোগ্যতা জড়ালে **অনুচ্ছেদ III-B** (*সমান শিক্ষাগত প্রবেশাধিকার*) — শিক্ষা-নির্দিষ্ট প্রবেশযোগ্যতার মালিক সেখানেই থাকে; প্রত্যয়ন মঞ্চ, প্রশাসনিক, প্রভাবিত-পক্ষ, বা বলবৎ অংশগ্রহণ দ্বার করলে **অনুচ্ছেদ V-C** (*নিষ্পত্তি ও পরিচালনায় পূর্ণ অন্তর্ভুক্তি ও সমতা*) ও **অনুচ্ছেদ XII** (*প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*); [অধ্যায় সাত §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion) (*আড়াআড়ি প্রবেশযোগ্যতা মূল্যায়ন-উপাদান হুক*)।
-- উপধারা: [§8.1](#81-illustrative-accessibility-application-by-class) (*শ্রেণি অনুসারে উদাহরণমূলক প্রবেশযোগ্যতা প্রয়োগ*)।
+- ঊর্ধ্বসূত্র: [অংশ খ §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*নথির বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); সাতত্য পরিমাপ পরিবার (*সাংবিধানিক পরিমাপ হিসেবে বাস্তুগত পদচিহ্ন*); **অনুচ্ছেদ I-B** (*বাস্তুগত পদচিহ্ন ও স্বচ্ছতা*); [বাস্তুগত পদচিহ্ন](../../core_05_band_continuity.md#ecological-footprint), [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact), [নির্ভরতা](../../core_05_band_continuity.md#dependency), [স্বচ্ছতা](core_05_band_oversight.md#transparency), এবং [জ্ঞানগত অখণ্ডতা](core_05_band_oversight.md#epistemic-integrity) (অধ্যায় পাঁচ); বস্তুগতভাবে সংশ্লিষ্ট হলে [পরিবেশগত পূর্বশর্ত](../../core_05_band_continuity.md#environmental-preconditions) ও [বাস্তুগত অখণ্ডতা](../../core_05_band_continuity.md#ecological-integrity)।
+- নিম্নসূত্র: [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*বাস্তুগত পদচিহ্নের উদাহরণভিত্তিক পথনির্দেশ*); [§5.3](#53-proportionate-cross-system-support-evaluation) এবং [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*আন্তঃব্যবস্থা সহায়তা মূল্যায়ন ও পথনির্দেশ*); [অংশ খ §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথির অখণ্ডতা*); [অংশ খ §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-ইনপুট প্রবেশদ্বার*); [অংশ খ §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*পদচিহ্নের ভুল উপস্থাপন ও অসামঞ্জস্য*)।
+- সঙ্গে পড়ুন: [corpus_systems.md](../../corpus_systems.md), [CS-8 — অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্রের সহনশীলতা](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md), যেখানে অভিযোজিত বণ্টন বা বাস্তুতন্ত্রের আন্তঃনির্ভরতা বস্তুগতভাবে পরিসরে আছে।
+- উপবিভাগ: [§5.1.1](#511-scope-and-governing-rules) (*পরিসর ও নিয়ামক বিধি*); [§5.1.2](#512-evaluation-requirement) (*মূল্যায়নের শর্ত*); [§5.1.3](#513-system-class-scaling-and-escalation) (*ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ*); [§5.1.4](#514-defects-and-misalignment) (*ত্রুটি ও অসামঞ্জস্য*); [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুযায়ী বাস্তুগত পদচিহ্নের উদাহরণভিত্তিক প্রয়োগ*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: কোনো ব্যবস্থা বস্তুগতভাবে নিয়ন্ত্রণ করে সংজ্ঞ প্রাণী সত্যি অংশ নিতে পারে কি না — শুধু দরজায় «খোলা» লেবেল আছে কি না তা নয় — তখন প্রত্যয়নকে পরীক্ষা করতে হয় ইন্দ্রিয়, জ্ঞানীয়, চলন, যোগাযোগ, ভিত্তিদেহ-ইন্টারফেস, ও তুলনীয় প্রয়োজন জুড়ে অংশগ্রহণ সত্যি পৌঁছানো যায় কি না। উপযোগীকরণ তালিকা ও ইন্টারফেস মান অন্য দলিল, পরের করপাস যোগ, বা গ্রহণ দলিলে থাকতে পারে; প্রত্যয়ন যাচাই করে তাৎপর্য ট্রিগার প্রযোজ্য হলে সারবস্তুগত অংশগ্রহণ সত্যি মূল্যায়ন হয়েছে কি না। [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর উদাহরণমূলক ব্যবস্থার কাজ-করা উদাহরণ আছে [§8.1](#81-illustrative-accessibility-application-by-class)-এ।*
+*সহজ ভাষায়: ব্যবস্থা পরিবেশের প্রকৃত ক্ষতি করলে প্রত্যয়নে সেই ক্ষতি সৎভাবে দেখতে হবে — সরবরাহকারীদের মাধ্যমে হওয়া ক্ষতি এবং সংজ্ঞ প্রাণীরা ব্যবস্থা ব্যবহারের পর যা ঘটে, তাও। ব্যবস্থা “সবুজ” বলে পরিচালকের কথাই শুধু গ্রহণ করা যাবে না। পদচিহ্ন কীভাবে মাপতে হয় বা কতটা কমাতে হবে, এই বিভাগ তা ব্যাখ্যা করে না; অন্য নথিতে তা আছে। ক্ষতি উল্লেখযোগ্য হলে, এর কতটা এই ব্যবস্থার কারণে, তা বাস্তবে হিসাব করা, প্রকাশ করা এবং বিকল্পের সঙ্গে তুলনা করা হয়েছে কি না — কেবল এটিই এখানে চাওয়া হয়েছে। উদাহরণ: [§5.1.5 ব্যবস্থা-শ্রেণি অনুযায়ী বাস্তুগত পদচিহ্নের উদাহরণভিত্তিক প্রয়োগ (অসম্পূর্ণ তালিকা)](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)।*
 
-**তাৎপর্য ট্রিগার।** এই ধারা প্রযোজ্য যেখানে এক বস্তুগতভাবে প্রভাবক ব্যবস্থা সাংবিধানিকভাবে প্রাসঙ্গিক ক্ষেত্রে সারবস্তুগত অংশগ্রহণ বস্তুগতভাবে দ্বার করে — শাসন, প্রভাবিত-পক্ষ অংশগ্রহণ, নিষ্পত্তি, পরিচালনা, বেঁচে থাকার-তল প্রবেশাধিকার, স্বাস্থ্যসেবা প্রবেশাধিকার, অভিব্যক্তি, সমাবেশ, সংবাদ, বা তুলনীয় ক্ষেত্র সহ — ইন্টারফেস, স্থান, সময়সূচি, পরিচয়পত্র, গণনা প্রবেশাধিকার, উপযোগীকরণ নকশা, বা তুলনীয় অংশগ্রহণ পথ দিয়ে। এটি প্রতি প্রত্যয়ন নথিতে পূর্ণ প্রবেশযোগ্যতা নিরীক্ষা চায় না। শিক্ষাগত প্রবেশযোগ্যতা **অনুচ্ছেদ III-B** (*সমান শিক্ষাগত প্রবেশাধিকার*) শাসন করে এবং এখানে সংকুচিত হয় না।
+<a id="511-scope-and-governing-rules"></a>
+##### 5.1.1 পরিসর ও নিয়ামক বিধি
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নকে তাৎপর্য ট্রিগার প্রযোজ্য হলে **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) ও [প্রবেশযোগ্যতা](core_05_band_participation.md#accessibility-constitutional)-এর অধীনে **প্রবেশযোগ্যতা** মূল্যায়ন করতে হয়। প্রামাণিক অর্থ, মূল্যায়ন উপাদান, ও অনুপালনহীনতা শৃঙ্খলা থাকে অধ্যায় পাঁচ ও **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*)-এ; উপযোগীকরণ তালিকা, ইন্টারফেস মান, সার্বজনীন-নকশা বিবরণ, ও পরিচালন উপযোগীকরণ যন্ত্রপাতি প্রযোজ্য হলে অন্তর্ভুক্ত দলিলে থাকে। এই ধারা বলে প্রত্যয়নকে কী যাচাই ও নথিভুক্ত করতে হয়; এটি সেই পরিচালন যন্ত্রপাতি পুনরাবৃত্তি করে না বা নির্দিষ্ট উপযোগীকরণ তালিকা বা সার্বজনীন-নকশা বিবরণ নির্দেশ করে না।
+আরোপযোগ্য পরিবেশগত বোঝা [বাস্তুগত পদচিহ্ন](../../core_05_band_continuity.md#ecological-footprint) এবং **অনুচ্ছেদ I-B** (*বাস্তুগত পদচিহ্ন ও স্বচ্ছতা*) অনুযায়ী বস্তুগত হলে, বস্তুগত প্রভাবসম্পন্ন প্রতিটি প্রত্যয়ন নথির অংশ হিসেবে ব্যবস্থা-সমন্বয় প্রত্যয়নে **বাস্তুগত পদচিহ্ন** মূল্যায়ন করতে হবে।
 
-**মূল্যায়ন প্রয়োজনীয়তা।** এক প্রত্যয়ন প্রক্রিয়াকে নির্ধারণ করতে হয় ব্যবস্থা যে সাংবিধানিকভাবে প্রাসঙ্গিক ক্ষেত্র বস্তুগতভাবে দ্বার করে সেখানে সংজ্ঞ প্রাণী সারবস্তুগতভাবে অংশ নিতে পারে কি না — শুধু আনুষ্ঠানিক সুযোগ, ডিফল্ট ইন্টারফেস, বা কাগজি উপযোগীকরণ আছে কি না তা নয়। মূল্যায়নকে [প্রবেশযোগ্যতা](core_05_band_participation.md#accessibility-constitutional)-এর অধীনে সারবস্তুগত অংশগ্রহণ প্রভাব পরীক্ষা করতে হয়, [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination) ও [নির্ভরতা](core_05_band_continuity.md#dependency)-তে স্কেল করা, এবং শুধু-কাগজের উপযোগীকরণ, অংশগ্রহণ ক্ষমতা না তৈরি করে ডিফল্ট সুযোগে ঠেলে দেওয়া «সাধারণ প্রবেশ» নকশা, উপযোগীকরণ পরিসর সংকুচিত করতে ব্যবহৃত নির্বাচনী তাৎপর্য যুক্তি, [সংজ্ঞতা অ-বহিষ্কার](core_05_band_participation.md#sentience-non-exclusion)-এর বিপরীত বর্জন, এবং সময়সূচি, স্থান পছন্দ, শংসাপত্রকরণ, গণনা প্রবেশাধিকার, বা তুলনীয় যন্ত্রপাতির মধ্য দিয়ে প্রক্সি-দ্বারা-অস্বীকার-নিরোধ নকশা ধরতে হয়। মূল্যায়নকে উপযোগীকরণ-নকশা যুক্তিতে [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional) ও [সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) প্রয়োগ করতে হয়। যেকোনো সীমাকে নথিভুক্ত [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity), [আনুপাতিকতা](core_05_band_accountability.md#proportionality), ও [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) পূরণ করতে হয়।
+<a id="512-evaluation-requirement"></a>
+##### 5.1.2 মূল্যায়নের শর্ত
 
-**নথি প্রয়োজনীয়তা।** প্রত্যয়ন নথিকে বলতে হয় যে **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) তাৎপর্য ট্রিগারের উপর নির্ভর, বস্তুগতভাবে নির্ভর অংশগ্রহণ পথের মূল্যায়ন পরিসর, সারবস্তুগত-অংশগ্রহণ ও উপযোগীকরণ নির্ণয়, বস্তুগত হলে প্রক্সি-দ্বারা-অস্বীকার-নিরোধ নির্ণয়, অনিশ্চয়তা, প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য বরাদ্দ উপাদান নির্ণয়, এবং স্থায়ী অংশগ্রহণ বাধার সঙ্গে বাঁধা কোনো শর্ত, নির্ভরতার সীমা, বা পুনরায় খোলার ট্রিগার।
+প্রত্যয়ন প্রক্রিয়ায় নির্ধারণ করতে হবে, আরোপযোগ্য পরিবেশগত প্রবাহ — শক্তি, উপকরণ, নির্গমন, বায়ুর গুণমান, জলের গুণমান ও ব্যবহার, ভূমির ব্যবহার এবং সংশ্লিষ্ট বোঝা — কি:
 
-**ব্যবস্থা শ্রেণির সঙ্গে যৌথ স্কেল।** প্রবেশযোগ্যতা মূল্যায়ন গভীরতাকে [§2](#2-system-class-evaluation) ও [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে বরাদ্দ ব্যবস্থা শ্রেণি অনুসারে স্কেল করতে হয়। যে উচ্চতর-শ্রেণি ব্যবস্থা সাংবিধানিকভাবে প্রাসঙ্গিক অংশগ্রহণ বস্তুগতভাবে দ্বার করে তাদের আনুপাতিকভাবে শক্তিশালী প্রমাণ লাগে যে সারবস্তুগত প্রবেশযোগ্যতা মূল্যায়িত হয়েছে, শুধু দাবি করা হয়নি।
+- ব্যবস্থার বস্তুগতভাবে প্রাসঙ্গিক জীবনচক্র এবং [নির্ভরতা](../../core_05_band_continuity.md#dependency) সম্পর্ক জুড়ে শনাক্ত করা হয়েছে;
+- [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact) অনুসারে মূল্যায়িত হয়েছে; এবং
+- কেবল [স্বচ্ছতা](core_05_band_oversight.md#transparency), [জ্ঞানগত অখণ্ডতা](core_05_band_oversight.md#epistemic-integrity) ও প্রযোজ্য স্বচ্ছতা-দায় যেভাবে অনুমতি দেয়, সেভাবে প্রকাশ বা গোপন রাখা হয়েছে।
 
-**ত্রুটি ও অসারিবদ্ধতা।** মূল্যায়নযোগ্য সারবস্তুগত-অংশগ্রহণ বিশ্লেষণ ছাড়া আনুষ্ঠানিক সুযোগ, ডিফল্ট ইন্টারফেস, বা কাগজি উপযোগীকরণকে যথেষ্ট গণ্য করা; নথিভুক্ত অংশগ্রহণ বাধা সাংবিধানিক সারিবদ্ধতাকে বস্তুগতভাবে হুমকি দিলেও চলমান নির্ভরতা প্রত্যয়ন করা; খরচ, নকশা-পছন্দ, ভিত্তিদেহ-শ্রেণি, বা পরিচালন-স্কেল ফ্রেম দিয়ে অংশগ্রহণ তল হারানো **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*)-এর **প্রয়োজনীয়তা** ও **আনুপাতিকতা** পরীক্ষা না মেনে; বা এমন পরিচালন নকশা যার প্রভাব প্রবেশযোগ্যতা হারায় যেখানে কম-ভার বিকল্প সম্ভব — এগুলোকে প্রত্যয়ন ত্রুটি গণ্য করতে হয়। তারা [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে শর্তসাপেক্ষ স্বীকৃতি, স্থগিত স্বীকৃতি, অস্বীকৃতি, প্রত্যাহার, বা পুনরায় খোলা সমর্থন করতে পারে।
+মূল্যায়নে কার্যগত প্রভাব ও ব্যবস্থা-সীমানা প্রতিফলিত হতে হবে; শুধু নামমাত্র পরিসর, বিপণন-লেবেল বা জীবনচক্রের আংশিক চিত্র যথেষ্ট নয়।
 
-<a id="81-illustrative-accessibility-application-by-class"></a>
+বাস্তবসম্মত হলে পর্যালোচকদের ব্যবস্থার উল্লেখযোগ্য পরিবেশগত ক্ষতির সঙ্গে বাস্তবসম্মত বিকল্পগুলির তুলনা করতে হবে। ক্ষতিগুলি নিচের উপায়ে আড়াল করা হচ্ছে কি না তাও পরীক্ষা করতে হবে:
 
-<a id="81-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-#### 8.1 শ্রেণি অনুসারে উদাহরণমূলক প্রবেশযোগ্যতা প্রয়োগ (অসীমাবদ্ধ)
+- **সীমানা সংকীর্ণভাবে টানা** — ব্যবস্থা-সীমানা এমন করা যাতে সবচেয়ে খারাপ প্রভাবগুলি বাইরে পড়ে;
+- **বোঝা অন্যের ওপর চাপানো** — ক্ষতিকর কাজ সরবরাহকারী বা অংশীদারের ওপর ঠেলে দিয়ে সেটিকে ব্যবস্থার নিজস্ব বোঝা হিসেবে না ধরা; অথবা
+- **শুধু ভালো খবর ভাগ করা** — অনুকূল সংখ্যা প্রকাশ করে প্রতিকূলগুলি বাদ দেওয়া।
 
-*সহজ ভাষায়: [§3.8](#38-illustrative-whole-system-application-by-class) থেকে [§7.1](#71-illustrative-nondiscrimination-application-by-class) একই তিন ব্যবস্থা আগের মূল্যায়ন ক্ষেত্রে চালায়। এই উপধারা দেখায় প্রতিটিতে **প্রবেশযোগ্যতা** মূল্যায়নের মানে কী — কোন অংশগ্রহণ পথ গণ্য, **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) তাৎপর্য ট্রিগার প্রযোজ্য হলে প্রত্যয়নকে কী পরীক্ষা করতে হয়, এবং নথিতে কী থাকতে হয়। অধ্যায় পাঁচ ও **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) এখনও প্রামাণিক প্রবেশযোগ্যতা নিয়মের মালিক; উপযোগীকরণ তালিকা, ইন্টারফেস মান, ও সার্বজনীন-নকশা বিবরণ অন্য দলিল, পরের করপাস যোগ, বা গ্রহণ দলিলে থাকতে পারে; এই চলন সেই যন্ত্রপাতি নির্দেশ করে না। শিক্ষাগত প্রবেশযোগ্যতার মালিক **অনুচ্ছেদ III-B** (*সমান শিক্ষাগত প্রবেশাধিকার*) এবং এখানে সংকুচিত হয় না।*
+<a id="513-system-class-scaling-and-escalation"></a>
+##### 5.1.3 ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ
 
-**Class A — পৌর নিরাপদ পানীয় জল নিয়ন্ত্রণ ও টেলিমেট্রি।** এক নগর-মালিকানাধীন শোধন-ও-বিতরণ ব্যবস্থা বিল পোর্টাল, বিভ্রাট-বিজ্ঞপ্তি চ্যানেল, পুনঃসংযোগ অনুরোধ, পানি-ফোটানো সতর্কতা, ও গ্রাহক-সেবা পথ দিয়ে বেঁচে থাকার-তল প্রবেশাধিকার দ্বার করে যা সিদ্ধান্ত নেয় সংজ্ঞ প্রাণী নিরাপদ জল সম্পর্কে জানতে, চ্যালেঞ্জ করতে, বা পুনরুদ্ধার করতে পারে কি না।
+পরিবেশগত ক্ষতি কত গভীরভাবে অনুসরণ করতে হবে এবং কতটা তুলনা প্রয়োজন, তা ব্যবস্থা-শ্রেণি নির্ধারণ করে। উল্লেখযোগ্য ক্ষতি দেখা এড়ানোর জন্য শ্রেণি কখনো ব্যবহার করা যাবে না।
 
-- **পরিসরের অংশগ্রহণ পথ:**
-  - বিল ও কিস্তি-পরিকল্পনা পোর্টাল;
-  - বিভ্রাট ও দূষণ-সতর্কতা চ্যানেল (কণ্ঠ, পাঠ্য, ওয়েব, সশরীর, বা প্রতিনিধিত্বকৃত বিক্রেতা পথ);
-  - পুনঃসংযোগ ও কষ্ট-অনুরোধ ইন্টারফেস;
-  - নিরাপত্তা বিজ্ঞপ্তির ভাষা ও ফরম্যাট বিকল্প;
-  - অ্যাকাউন্ট প্রবেশের পরিচয়পত্র বা পরিচয় দ্বার;
-  - চ্যালেঞ্জ জমা বা সতর্কতা পাওয়ার জন্য গণনা, যন্ত্র, বা স্থান প্রয়োজন।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - সংজ্ঞ প্রাণী ইন্দ্রিয়, জ্ঞানীয়, চলন, যোগাযোগ, ও ভিত্তিদেহ-ইন্টারফেস রূপরেখা জুড়ে বেঁচে থাকার-জরুরি বিজ্ঞপ্তি সারবস্তুগতভাবে পেতে এবং পুনঃসংযোগ বা কষ্ট পথ শেষ করতে পারে কি না — শুধু ডিফল্ট ওয়েব ফর্ম আছে কি না তা নয়;
-  - শুধু-কাগজের উপযোগীকরণ, «কার্যসময় ফোন করুন», বা শুধু-ইংরেজি ডিফল্ট অংশগ্রহণ হারায় কি না যেখানে কম-ভার বিকল্প সম্ভব;
-  - সময়সূচি, স্থান, পরিচয়পত্র, বা গণনা নকশা প্রক্সি-দ্বারা-অস্বীকার হিসেবে কাজ করে কি না;
-  - উপযোগীকরণ-নকশা যুক্তিতে [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional) ও [সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) প্রয়োগ হয়েছে কি না; এবং
-  - কোনো সীমা নথিভুক্ত [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity), [আনুপাতিকতা](core_05_band_accountability.md#proportionality), ও [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) পূরণ করে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - যে **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) তাৎপর্য ট্রিগারের উপর নির্ভর;
-  - বিজ্ঞপ্তি, বিল, পুনঃসংযোগ, ও চ্যালেঞ্জ পথ যা বস্তুগতভাবে নির্ভর সেগুলোর মূল্যায়ন পরিসর;
-  - **Class A** গভীরতায় সারবস্তুগত-অংশগ্রহণ ও উপযোগীকরণ নির্ণয়;
-  - বস্তুগত হলে প্রক্সি-দ্বারা-অস্বীকার-নিরোধ নির্ণয়;
-  - অনিশ্চয়তা;
-  - প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য উপাদান নির্ণয়; এবং
-  - বেঁচে থাকার অপরিহার্য দ্বার হলে স্থায়ী বাধার সঙ্গে বাঁধা শর্ত বা পুনরায় খোলার ট্রিগার।
+- জল উত্তোলন, দূষিত নিঃসরণ, শক্তি ব্যবহার বা অনুরূপ বোঝা আংশিক হিসাবেই থাকলে কোনো ব্যবস্থার শ্রেণি নিচে নামানো যাবে না — বিশেষত যখন তা সংজ্ঞ প্রাণীদের বেঁচে থাকার জন্য প্রয়োজনীয় নিরাপদ জলের মতো কিছু সরবরাহে প্রভাব ফেলে।
+- ব্যবস্থার বিস্তার বাড়লে (লোড বাড়া বা আরও হোস্টিং এক স্থানে কেন্দ্রীভূত হওয়া) এবং পরিবেশগত ক্ষতি উল্লেখযোগ্যভাবে বাড়লে পর্যালোচনাও বাড়াতে হবে। বেঁচে থাকার অপরিহার্য সরবরাহ এবং তার উৎসের বোঝা উভয় জড়িত হলে **Class A**-এর গভীরতা পর্যন্ত যেতে হতে পারে।
+- ব্যবস্থা যদি বেঁচে থাকার জন্য অপরিহার্য সমন্বয়ে সংজ্ঞ প্রাণীদের নির্ভরতার সংকীর্ণ গলা হয়ে ওঠে, তবে পরিচালক তাকে “অ-গুরুত্বপূর্ণ” বলেছে বলে প্রতীকী পদচিহ্ন-ফাইল দিয়ে চলবে না।
 
-**Class B — আঞ্চলিক ক্লিনিকাল নথি বিনিময়।** এক স্বাস্থ্য-তথ্য বিনিময় ও তার অংশগ্রহণকারী পোর্টাল রোগী পোর্টাল, সম্মতি ইন্টারফেস, প্রদানকারী নির্দেশিকা, ব্রেক-গ্লাস কর্মপ্রবাহ, ও ক্লিনিক অনবোর্ডিং সরঞ্জাম দিয়ে দৈনন্দিন স্বাস্থ্যসেবা প্রবেশাধিকার দ্বার করে যা সিদ্ধান্ত নেয় রোগী ও ছোট প্রদানকারী বিনিময় সত্যি ব্যবহার করতে পারে কি না।
+<a id="514-defects-and-misalignment"></a>
+##### 5.1.4 ত্রুটি ও অসামঞ্জস্য
 
-- **পরিসরের অংশগ্রহণ পথ:**
-  - রোগী পোর্টাল ও সম্মতি ইন্টারফেস;
-  - প্রদানকারী-নির্দেশিকা ও রেফারেল বুকিং সরঞ্জাম;
-  - ব্রেক-গ্লাস ও জরুরি-প্রবেশ কর্মপ্রবাহ;
-  - ক্লিনিক অনবোর্ডিং ও শংসাপত্রকরণ ইন্টারফেস;
-  - ক্লিনিকাল সারাংশ ও প্রকাশের জন্য ভাষা, ফরম্যাট, ও সহায়ক-প্রযুক্তি সমর্থন;
-  - নথি দেখা, চ্যালেঞ্জ, বা সংশোধনের জন্য গণনা বা যন্ত্র প্রয়োজন।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - রোগী ও অংশগ্রহণকারী ক্লিনিক সম্মতি, প্রবেশ, সংশোধন, ও জরুরি পথ সারবস্তুগতভাবে ব্যবহার করতে পারে কি না — শুধু পোর্টাল প্রবেশযোগ্য লেবেল পায় কি না তা নয়;
-  - ডিফল্ট ইন্টারফেস দৃষ্টিসম্পন্ন, ডেস্কটপ, উচ্চ-ব্যান্ডউইথ, বা ইংরেজি-প্রাথমিক ব্যবহারকারীর দিকে ঠেলে দেয় কি না অন্যদের জন্য অংশগ্রহণ ক্ষমতা না তৈরি করে;
-  - পরিচয়পত্র, সময়সূচি, বা স্থান নকশা গ্রামীণ ক্লিনিক, ভাষা-সংখ্যালঘু রোগী, বা বিকল্প ফরম্যাট চায় এমন সংজ্ঞ প্রাণীকে বাদ দেয় কি না;
-  - বিনিময় স্বাস্থ্যসেবা প্রবেশাধিকার দ্বার করলে মূল্যায়ন গভীরতা **Class B** পরিচালন জরুরির সঙ্গে মিলে কি না; এবং
-  - কাগজি উপযোগীকরণ বা সমষ্টিগত «অনুপালন চেকলিস্ট» দাবি মূল্যায়নযোগ্য সারবস্তুগত-অংশগ্রহণ বিশ্লেষণ ছাড়া যথেষ্ট গণ্য হয়েছে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) ট্রিগার ও পথ পরিসর;
-  - রোগী ও ক্লিনিক পথের সারবস্তুগত-অংশগ্রহণ ও উপযোগীকরণ নির্ণয়;
-  - বস্তুগত হলে প্রক্সি-দ্বারা-অস্বীকার-নিরোধ নির্ণয়;
-  - প্রয়োজন হলে অনিশ্চয়তা ও উপাদান নির্ণয়; এবং
-  - পোর্টাল বা সম্মতি বাধা এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে জরুরি সেবা আটকালে বা দৈনন্দিন পরিচালন নির্ভরতা বস্তুগতভাবে হারালে পুনরায় খোলার ট্রিগার।
+নিচের প্রতিটি বিষয় প্রত্যয়ন-ত্রুটি হিসেবে গণ্য হবে:
 
-**Class C — প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয় প্ল্যাটফর্ম।** এক বহু-সংস্থা সময়সূচি স্তর শিফট-দাবি ইন্টারফেস, কক্ষ-বুকিং সরঞ্জাম, বিক্রেতা পোর্টাল, ও প্রাতিষ্ঠানিক ড্যাশবোর্ড দিয়ে প্রভাবিত-পক্ষ ও পরিচালন অংশগ্রহণ দ্বার করে — প্ল্যাটফর্ম নিজে বেঁচে থাকার-জরুরি ইউটিলিটি না হলেও।
+- প্রত্যয়ন বিধি বা **অনুচ্ছেদ I-B** (*বাস্তুগত পদচিহ্ন ও স্বচ্ছতা*) অনুযায়ী প্রকাশ করতে হবে এমন উল্লেখযোগ্য পদচিহ্ন-তথ্য গোপন, ভুলভাবে বলা, খণ্ডিত বা অন্যের ওপর সরিয়ে দেওয়া;
+- বৃহত্তর দৃশ্য জরুরি হলেও কেবল ব্যবস্থার জীবনচক্রের পরিচালকের নির্বাচিত অংশ মূল্যায়ন করা; এবং
+- যাচাইযোগ্য প্রমাণ ছাড়া পরিচালকের বক্তব্যের ভিত্তিতে পদচিহ্নের দাবি গ্রহণ করা।
 
-- **পরিসরের অংশগ্রহণ পথ:**
-  - শিফট-দাবি ও অন-কল ইন্টারফেস;
-  - কক্ষ, সরঞ্জাম, ও স্থান বুকিং সরঞ্জাম;
-  - বিক্রেতা ও ক্রয় পোর্টাল;
-  - প্রাতিষ্ঠানিক ভূমিকা ও শংসাপত্র ড্যাশবোর্ড;
-  - বরাদ্দ দাবি বা চ্যালেঞ্জের জন্য মোবাইল, ডেস্কটপ, ও সহায়ক-প্রযুক্তি পথ;
-  - সময়সূচি বিজ্ঞপ্তির ভাষা ও ফরম্যাট বিকল্প।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) তাৎপর্য ট্রিগার প্রযোজ্য কি না — সমন্বয় UI কাজ, শিক্ষা, প্রভাবিত-পক্ষ, বা মঞ্চ অংশগ্রহণ বস্তুগতভাবে দ্বার করে সেখানে সহ;
-  - ডিফল্ট ইন্টারফেস ইন্দ্রিয়, জ্ঞানীয়, চলন, যোগাযোগ, ও ভিত্তিদেহ-ইন্টারফেস রূপরেখা জুড়ে সারবস্তুগত অংশগ্রহণ তৈরি করে কি না;
-  - সময়সূচি সময়, স্থান পছন্দ, পরিচয়পত্র দ্বার, বা গণনা প্রয়োজন প্রক্সি-দ্বারা-অস্বীকার হিসেবে কাজ করে কি না;
-  - পরিচালক প্ল্যাটফর্মকে **Class C** বলে পর্যালোচনার নিচে গণ্য করেছে কি না অথচ সমন্বয় প্রভাব সাংবিধানিকভাবে প্রাসঙ্গিক অংশগ্রহণ বস্তুগতভাবে দ্বার করে; এবং
-  - প্ল্যাটফর্ম বেঁচে থাকার-জরুরি কর্মী নিয়োগ বা জরুরি রাউটিংয়ের কার্যত চোকপয়েন্ট হয়ে উঠলে **পুনঃশ্রেণিবিন্যাস নজরদারি** প্রয়োজন কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) ট্রিগার প্রযোজ্য কি না এবং কেন;
-  - **Class C** সমন্বয় ঝুঁকির আনুপাতিক সময়সূচি, বুকিং, ও পোর্টাল পথের মূল্যায়ন পরিসর;
-  - বস্তুগত হলে সারবস্তুগত-অংশগ্রহণ ও উপযোগীকরণ নির্ণয় — UI «স্ট্যান্ডার্ড» এমন খালি দাবি নয়;
-  - ঘনত্ব ও চোকপয়েন্ট নির্ণয় যেখানে সময়সূচি প্রভাব উন্নয়নের ইঙ্গিত দেয়;
-  - নির্ভরতা শক্ত হলে স্পষ্ট **পুনঃশ্রেণিবিন্যাস নজরদারি**; এবং
-  - শ্রেণি বা বেঁচে থাকার-জরুরি সমন্বয় ভূমিকা বদলালে উন্নীত প্রবেশযোগ্যতা পর্যালোচনার নির্দেশক।
 
-**শ্রেণি জুড়ে পড়া।** তাৎপর্য ট্রিগার পূরণ হলে একই **অনুচ্ছেদ V-G** (*প্রবেশযোগ্যতা*) ও অধ্যায় পাঁচ প্রবেশযোগ্যতা শৃঙ্খলা লাগে; শ্রেণি বদলায় মূল্যায়ন গভীরতা, কাগজি উপযোগীকরণ বা ডিফল্ট ইন্টারফেসকে যথেষ্ট গণ্য করার অনুমতি নয়। যে **Class A** জল ব্যবস্থার বিল বা বিভ্রাট পথ নিরাপদ জল বন্ধ করতে পারে তাকে নথিতে সবচেয়ে শক্ত সারবস্তুগত-অংশগ্রহণ প্রমাণ বহন করতে হয় — সাধারণ প্রবেশযোগ্যতা বিবৃতি নয়। যে **Class B** বিনিময়ের পোর্টাল স্বাস্থ্যসেবা প্রবেশাধিকার দ্বার করে তাকে পরিচালন জরুরি অনুসারে উপযোগীকরণ ও প্রক্সি-দ্বারা-অস্বীকার-নিরোধ নির্ণয় নথিভুক্ত করতে হয়। এক **Class C** সময়সূচি প্ল্যাটফর্ম শিফট, বুকিং, বা বিক্রেতা UI অংশগ্রহণকারীকে বস্তুগতভাবে বাদ দিলে টোকেন প্রবেশযোগ্যতা অনুচ্ছেদ রাখতে পারে না; সমন্বয় বেঁচে থাকার-জরুরি হয়ে উঠলে প্রত্যয়নকে [§2](#2-system-class-evaluation) ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে পর্যালোচনা ও পুনঃশ্রেণিবিন্যাস উন্নীত করতে হয়, কর্মী নিয়োগ বা জরুরি রাউটিং দ্বার হলে উপরের দিকে **Class A** সহ। একই ব্যবস্থার শিক্ষামূলক-ক্ষমতা চলন আছে [§9.1](#91-illustrative-educational-capability-application-by-class)-এ।
+<a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
-<a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
-
-### 9. শিক্ষামূলক ক্ষমতা ও শেখা-ব্যবস্থা সততা মূল্যায়ন
+#### 5.2 শিক্ষাগত সক্ষমতা ও শিক্ষাব্যবস্থার অখণ্ডতা মূল্যায়ন
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">উৎস-অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্ব: [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*নথি বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); অংশগ্রহণ পরিমাপ পরিবার (*শিক্ষামূলক কর্তৃত্ব সাংবিধানিক পরিমাপ হিসেবে*); **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*); [শিক্ষামূলক কর্তৃত্ব](core_05_band_participation.md#educational-agency), [অর্থপূর্ণ কর্তৃত্ব](core_05_band_participation.md#meaningful-agency), [ব্যবস্থাগত তালাবদ্ধতা](core_05_band_continuity.md#systemic-lock-in), [চ্যালেঞ্জ-যোগ্যতা](core_05_band_accountability.md#contestability), [স্বচ্ছতা](core_05_band_oversight.md#transparency), [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability), [জবরদস্তি ও কারসাজি](core_05_band_participation.md#coercion-and-manipulation-constitutional), [তাৎপর্য](core_05_band_oversight.md#materiality-determination), এবং [নির্ভরতা](core_05_band_continuity.md#dependency) (অধ্যায় পাঁচ)।
-- অধঃ: [§9.1](#91-illustrative-educational-capability-application-by-class) (*উদাহরণমূলক শিক্ষামূলক-ক্ষমতা চলন*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*মূল্যায়ন-অস্বচ্ছতা অসারিবদ্ধতা, পরিচয়পত্র দ্বারনিয়ন্ত্রণ, ও আরোপিত-অপ্রচলন অসারিবদ্ধতা*)।
-- সঙ্গে পড়ুন: **অনুচ্ছেদ III-B** (*সমান শিক্ষাগত প্রবেশাধিকার*) যেখানে সমান প্রবেশাধিকার বা শিক্ষাগত প্রবেশযোগ্যতা জড়িত — সমান প্রবেশাধিকার ও শিক্ষাগত প্রবেশযোগ্যতা সেখানেই মালিকানাধীন থাকে; **অনুচ্ছেদ V-B** (*বৈষম্যহীনতা*) এবং [§7](#7-nondiscrimination-evaluation) যেখানে র‌্যাঙ্কিং বা নিয়োগ নকশা সুরক্ষিত-বৈশিষ্ট্য ভার জড়ায়; **অনুচ্ছেদ X-A** (*কর্তৃত্ব ও কারসাজি থেকে স্বাধীনতা*) যেখানে জবরদস্তিমূলক বা কারসাজিমূলক শেখা নকশা বস্তুগতভাবে জড়িত; [অধ্যায় এক §9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*বণ্টিত বোঝাপড়া ও ক্ষমতা-গঠন — সঙ্গে পড়ুন*)।
-- উপধারা: [§9.1](#91-illustrative-educational-capability-application-by-class) (*শ্রেণি অনুসারে উদাহরণমূলক শিক্ষামূলক-ক্ষমতা প্রয়োগ*)।
+- ঊর্ধ্বতন উৎস: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*নথির বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); অংশগ্রহণ পরিমাপ-পরিবার (*সাংবিধানিক পরিমাপ হিসেবে শিক্ষাগত স্বায়ত্তশাসন*); **অনুচ্ছেদ IV** (*সংজ্ঞ প্রাণীকেন্দ্রিক শিক্ষার অধিকার*); [শিক্ষাগত স্বায়ত্তশাসন](../../core_05_band_participation.md#educational-agency), [অর্থবহ স্বায়ত্তশাসন](../../core_05_band_participation.md#meaningful-agency), [ব্যবস্থাগত আবদ্ধতা](../../core_05_band_continuity.md#systemic-lock-in), [প্রতিদ্বন্দ্বিতাযোগ্যতা](../../core_05_band_accountability.md#contestability), [স্বচ্ছতা](core_05_band_oversight.md#transparency), [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability), [বলপ্রয়োগ ও প্রভাবিতকরণ](../../core_05_band_participation.md#coercion-and-manipulation), [বস্তুগততা](core_05_band_oversight.md#materiality), এবং [নির্ভরতা](../../core_05_band_continuity.md#dependency) (অধ্যায় পাঁচ)।
+- অধস্তন বিষয়: [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুযায়ী শিক্ষাগত সক্ষমতার উদাহরণমূলক বিশ্লেষণ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথির অখণ্ডতা*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-ইনপুটের শর্ত*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*মূল্যায়নের অস্বচ্ছতা, সনদ-নিয়ন্ত্রণ, এবং আরোপিত অচলতার অসামঞ্জস্য*)।
+- সঙ্গে পড়ুন: সমান প্রবেশাধিকার বা শিক্ষাগত প্রবেশগম্যতার প্রশ্ন থাকলে **অনুচ্ছেদ IV-A** (*সমান শিক্ষাগত প্রবেশাধিকার*)—সমান প্রবেশাধিকার ও শিক্ষাগত প্রবেশগম্যতার দায় সেখানেই থাকে; সুরক্ষিত বৈশিষ্ট্যের ভিত্তিতে বোঝা চাপানোর প্রশ্ন থাকলে **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*) এবং [§5.4](#54-nondiscrimination-evaluation); জবরদস্তিমূলক বা প্রভাবিতকারী শিক্ষার নকশা বস্তুগতভাবে জড়িত হলে **অনুচ্ছেদ X-A** (*স্বায়ত্তশাসন ও প্রভাবিতকরণ থেকে মুক্তি*); [অধ্যায় এক §16 তত্ত্বাবধানের গভীর আলোচনা](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (*বণ্টিত উপলব্ধি ও সক্ষমতা-নির্মাণের সঙ্গে পাঠ*)।
+- উপধারা: [§5.2.1](#521-materiality-trigger-and-governing-rules) (*বস্তুগততার সূত্রপাত ও পরিচালনাকারী বিধি*); [§5.2.2](#522-evaluation-requirement) (*মূল্যায়নের আবশ্যকতা*); [§5.2.3](#523-system-class-scaling-and-escalation) (*ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ*); [§5.2.4](#524-defects-and-misalignment) (*ত্রুটি ও অসামঞ্জস্য*); [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুযায়ী শিক্ষাগত সক্ষমতার উদাহরণমূলক প্রয়োগ*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: কোনো স্কুল, প্ল্যাটফর্ম, বা প্রশিক্ষণ ব্যবস্থা গ্রেড, র‌্যাঙ্কিং, সুপারিশ, নিয়োগ, বা পরিচয়পত্র দ্বার দিয়ে কোনো সংজ্ঞ প্রাণীর ভবিষ্যৎ গুরুত্বের সঙ্গে প্রভাবিত করতে পারলে, প্রত্যয়নকে পরীক্ষা করতে হয় সংজ্ঞ প্রাণী সত্যি ক্ষমতা গড়তে পারে কি না, দক্ষতা বদলালে পুনঃপ্রশিক্ষণ নিতে পারে কি না, এবং সেই সিদ্ধান্ত দেখতে, নিরীক্ষা করতে ও চ্যালেঞ্জ করতে পারে কি না। পাঠ্যক্রম, রুব্রিক ও অর্থায়ন মডেল অন্য দলিলে থাকে; প্রত্যয়ন যাচাই করে ট্রিগার প্রযোজ্য হলে ক্ষমতা-গঠন সারবস্তু ও শেখা-ব্যবস্থা সততা সত্যি মূল্যায়ন হয়েছে কি না। [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর উদাহরণমূলক ব্যবস্থার কাজ-করা উদাহরণ আছে [§9.1](#91-illustrative-educational-capability-application-by-class)-এ।*
+*সহজ কথায়: কিছু বিদ্যালয়, প্ল্যাটফর্ম ও প্রশিক্ষণব্যবস্থা নম্বর, র‌্যাঙ্কিং, সুপারিশ, স্থান-নির্ধারণ বা এমন সনদের মাধ্যমে কোনো সংজ্ঞ প্রাণীর ভবিষ্যৎ গড়ে দিতে পারে, যা সুযোগের দরজা খুলে বা বন্ধ করে। এমন হলে প্রত্যয়নে তিনটি বিষয় যাচাই করতে হবে: সেখানে সংজ্ঞ প্রাণীরা সত্যিই বাস্তব দক্ষতা গড়তে পারে কি না; বিশ্বের প্রয়োজনীয় দক্ষতা বদলালে তারা পুনঃপ্রশিক্ষণ নিতে পারে কি না; এবং তাদের সম্পর্কে সিদ্ধান্ত কীভাবে নেওয়া হয় তা বুঝতে, যাচাই করতে ও চ্যালেঞ্জ করতে পারে কি না। এই ধারা কী শেখাতে হবে, কীভাবে নম্বর দিতে হবে বা এর খরচ কীভাবে বহন করতে হবে তা বলে না—অন্য নথিতে সেসব রয়েছে। এখানে কেবল যাচাই করা হয়, এই ধারা প্রযোজ্য হলে দক্ষতা-নির্মাণ ও শিক্ষাব্যবস্থার ন্যায্যতা যথাযথভাবে বিবেচিত হয়েছে কি না। উদাহরণ: [§5.2.5 ব্যবস্থা-শ্রেণি অনুযায়ী শিক্ষাগত সক্ষমতার উদাহরণমূলক প্রয়োগ (অসম্পূর্ণ তালিকা)](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive)।*
 
-**তাৎপর্য ট্রিগার।** এই ধারা প্রযোজ্য যেখানে এক বস্তুগতভাবে প্রভাবক ব্যবস্থা শিক্ষা বা প্রশিক্ষণ প্রসঙ্গে সংজ্ঞ প্রাণীকে বস্তুগতভাবে র‌্যাঙ্ক, মূল্যায়ন, সুপারিশ, নিয়োগ, বা পরিচয়পত্র-দ্বার করে — গ্রেডিং, নিয়োগ, ভর্তি, লাইসেন্স, কোর্স সুপারিশ, অভিযোজিত-শেখা রাউটিং, বা তুলনীয় সিদ্ধান্ত পথ দিয়ে সহ — অথবা ব্যবস্থা বিবর্তন প্রয়োজনীয় দক্ষতা বস্তুগতভাবে বদলালে চলমান শিক্ষা, পুনঃপ্রশিক্ষণ, বা উত্তরণ-সহায়তা পথ বস্তুগতভাবে দ্বার করে। এটি প্রতি প্রত্যয়ন নথিতে পূর্ণ শিক্ষামূলক-ক্ষমতা নিরীক্ষা চায় না। সমান প্রবেশাধিকার ও শিক্ষাগত প্রবেশযোগ্যতা **অনুচ্ছেদ III-B** (*সমান শিক্ষাগত প্রবেশাধিকার*)-এর অধীনে শাসিত থাকে এবং এখানে সংকুচিত হয় না।
+<a id="521-materiality-trigger-and-governing-rules"></a>
+##### 5.2.1 বস্তুগততার সূত্রপাত ও পরিচালনাকারী বিধি
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নকে তাৎপর্য ট্রিগার প্রযোজ্য হলে **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*), [শিক্ষামূলক কর্তৃত্ব](core_05_band_participation.md#educational-agency), এবং **অনুচ্ছেদ VI-B** (*আজীবন ও অভিযোজিত শেখা ও চ্যালেঞ্জ-যোগ্যতা*)-এর অধীনে **শিক্ষামূলক ক্ষমতা ও শেখা-ব্যবস্থা সততা** মূল্যায়ন করতে হয়। প্রামাণিক অর্থ, মূল্যায়ন উপাদান, ও অনুপালনহীনতা শৃঙ্খলা থাকে অধ্যায় পাঁচ ও **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*)-এ; পাঠ্যক্রম, পরিচয়পত্র তালিকা, মূল্যায়ন রুব্রিক, ও প্রাতিষ্ঠানিক অর্থায়ন যন্ত্রপাতি প্রযোজ্য হলে অন্তর্ভুক্ত দলিলে থাকে। এই ধারা বলে প্রত্যয়নকে কী যাচাই ও নথিভুক্ত করতে হয়; এটি সেই পরিচালন যন্ত্রপাতি পুনরাবৃত্তি করে না বা নির্দিষ্ট পাঠ্যক্রম, পরিচয়পত্র ফরম্যাট, বা মূল্যায়ন নকশা নির্দেশ করে না।
+শিক্ষা বা প্রশিক্ষণে সংজ্ঞ প্রাণীদের জীবনে বড় প্রভাব ফেলে এমন কোনো ব্যবস্থা নিচের যেকোনো একটি কাজ করলে এই ধারা প্রযোজ্য:
 
-**মূল্যায়ন প্রয়োজনীয়তা।** এক প্রত্যয়ন প্রক্রিয়াকে নির্ধারণ করতে হয় ব্যবস্থা যে শেখা ও পরিচয়পত্র পথের উপর বস্তুগতভাবে নির্ভর করে সেগুলো ব্যবহারিক ক্ষমতা-গঠন প্রবেশ তৈরি করে কি না — শুধু পরিচয়পত্র প্রতীক নয় — এবং প্রয়োজনীয় দক্ষতা বস্তুগতভাবে বদলালে সংজ্ঞ প্রাণী কাজযোগ্য পুনঃপ্রশিক্ষণ, চলমান শিক্ষা, ও উত্তরণ-সহায়তা সুযোগ রাখে কি না। মূল্যায়নকে **অনুচ্ছেদ VI-B** (*আজীবন ও অভিযোজিত শেখা ও চ্যালেঞ্জ-যোগ্যতা*)-এর অধীনে বস্তুগতভাবে প্রভাবক র‌্যাঙ্কিং, মূল্যায়ন, সুপারিশ, ও নিয়োগ যুক্তির স্বচ্ছতা, নিরীক্ষাযোগ্যতা, ও চ্যালেঞ্জ-যোগ্যতাও পরীক্ষা করতে হয়, [তাৎপর্য](core_05_band_oversight.md#materiality-determination) ও [নির্ভরতা](core_05_band_continuity.md#dependency)-তে স্কেল করা। মূল্যায়নকে অস্বচ্ছ বা অপর্যালোচনযোগ্য প্রক্সি, ক্ষমতা গঠন হারায় এমন পরিচয়পত্র দ্বারনিয়ন্ত্রণ, কর্তৃত্ব বাতিল করে এমন আরোপিত অপ্রচলন বা তালাবদ্ধতা, জবরদস্তিমূলক বা কারসাজিমূলক শেখা নকশা, এবং **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) যৌথভাবে প্রযোজ্য হলে চ্যালেঞ্জ-যোগ্যতা বা আজীবন অভিযোজন সরিয়ে দেয় এমন খণ্ডীকরণ ধরতে হয়। মূল্যায়নকে কার্যকরী প্রভাব প্রতিফলিত করতে হয়, নামমাত্র প্রবেশ লেবেল, ঘোষিত শিক্ষাগত উদ্দেশ্য, বা শুধু পরিচয়পত্র আনুষ্ঠানিকতা নয়।
+- এটি সংজ্ঞ প্রাণীদের উল্লেখযোগ্যভাবে র‌্যাঙ্ক, মূল্যায়ন বা সুপারিশ করে, তাদের স্থান নির্ধারণ করে, অথবা সনদ পাওয়ার পথের নিয়ন্ত্রণকারী হিসেবে কাজ করে—যেমন নম্বর দেওয়া, স্থান-নির্ধারণ, ভর্তি, লাইসেন্স প্রদান, কোর্সের সুপারিশ, অভিযোজিত-শিক্ষার পথ নির্ধারণ বা অনুরূপ সিদ্ধান্তের মাধ্যমে; অথবা
+- যেখানে ব্যবস্থার পরিবর্তনে সংজ্ঞ প্রাণীদের প্রয়োজনীয় দক্ষতা উল্লেখযোগ্যভাবে বদলেছে, সেখানে এটি অব্যাহত শিক্ষা, পুনঃপ্রশিক্ষণ বা পরিবর্তনের সময় সহায়তার প্রবেশাধিকার উল্লেখযোগ্যভাবে নিয়ন্ত্রণ করে।
 
-**নথি প্রয়োজনীয়তা।** প্রত্যয়ন নথিকে বলতে হয় যে **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) তাৎপর্য ট্রিগারের উপর নির্ভর, র‌্যাঙ্কিং, মূল্যায়ন, সুপারিশ, নিয়োগ, পরিচয়পত্র-দ্বার, ও পুনঃপ্রশিক্ষণ পথ যা বস্তুগতভাবে নির্ভর সেগুলোর মূল্যায়ন পরিসর, ক্ষমতা-গঠন ও পুনঃপ্রশিক্ষণ-পথ নির্ণয়, মূল্যায়ন-স্বচ্ছতা ও চ্যালেঞ্জ-যোগ্যতা নির্ণয়, বস্তুগত হলে প্রক্সি-নিরোধ ও কারসাজি-নিরোধ নির্ণয়, অনিশ্চয়তা, প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য বরাদ্দ উপাদান নির্ণয়, এবং স্থায়ী ক্ষমতা-পরাজয়, মূল্যায়ন অস্বচ্ছতা, বা আরোপিত অপ্রচলনের সঙ্গে বাঁধা কোনো শর্ত, নির্ভরতার সীমা, বা পুনরায় খোলার ট্রিগার।
+শিক্ষায় সমান প্রবেশাধিকার ও প্রবেশগম্যতা **অনুচ্ছেদ IV-A**-এর (*সমান শিক্ষাগত প্রবেশাধিকার*) অধীনেই থাকে; এখানে কোনো কিছুই সেগুলিকে সীমিত করে না।
 
-**ব্যবস্থা শ্রেণির সঙ্গে যৌথ স্কেল।** শিক্ষামূলক ক্ষমতা ও শেখা-ব্যবস্থা সততা মূল্যায়ন গভীরতাকে [§2](#2-system-class-evaluation) ও [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে বরাদ্দ ব্যবস্থা শ্রেণি অনুসারে স্কেল করতে হয়। যে উচ্চতর-শ্রেণি ব্যবস্থা শিক্ষা বা প্রশিক্ষণ প্রসঙ্গে সংজ্ঞ প্রাণীকে বস্তুগতভাবে র‌্যাঙ্ক, মূল্যায়ন, সুপারিশ, নিয়োগ, বা পরিচয়পত্র-দ্বার করে তাদের আনুপাতিকভাবে শক্তিশালী প্রমাণ লাগে যে ক্ষমতা-গঠন সারবস্তু, পুনঃপ্রশিক্ষণ প্রবেশ, ও শেখা-ব্যবস্থা স্বচ্ছতা মূল্যায়িত হয়েছে, শুধু দাবি করা হয়নি।
+বস্তুগততার সূত্র প্রযোজ্য হলে প্রত্যয়নে **শিক্ষাগত সক্ষমতা ও শিক্ষাব্যবস্থার অখণ্ডতা**—অর্থাৎ ব্যবস্থা সত্যিই সক্ষমতা গড়ে কি না এবং সংজ্ঞ প্রাণীদের ন্যায্যভাবে বিবেচনা করে কি না—নিচের অধীনে মূল্যায়ন করতে হবে:
 
-**ত্রুটি ও অসারিবদ্ধতা।** **অনুচ্ছেদ VI-B** (*আজীবন ও অভিযোজিত শেখা ও চ্যালেঞ্জ-যোগ্যতা*) পর্যালোচনা চায় সেখানে বস্তুগত র‌্যাঙ্কিং, মূল্যায়ন, সুপারিশ, বা নিয়োগ যুক্তি লুকানো, ভুলবিবরণ, টুকরো করা, বা সরিয়ে দেওয়া; মূল্যায়নযোগ্য ক্ষমতা-গঠন বিশ্লেষণ ছাড়া পরিচয়পত্র আনুষ্ঠানিকতা, সমষ্টিগত সমাপ্তি মাপ, বা পরিচালক স্ব-প্রতিবেদনকে যথেষ্ট গণ্য করা; নথিভুক্ত মূল্যায়ন অস্বচ্ছতা, পরিচয়পত্র দ্বারনিয়ন্ত্রণ, আরোপিত অপ্রচলন, বা কারসাজিমূলক শেখা নকশা সাংবিধানিক সারিবদ্ধতাকে বস্তুগতভাবে হুমকি দিলেও চলমান নির্ভরতা প্রত্যয়ন করা; বা দক্ষতা, ব্যক্তিগতকরণ, বা স্কেল ফ্রেম দিয়ে পুনঃপ্রশিক্ষণ প্রবেশ বা চ্যালেঞ্জ-যোগ্যতা হারানো **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*)-এর ক্ষমতা-গঠন ও **অনুচ্ছেদ VI-B** (*আজীবন ও অভিযোজিত শেখা ও চ্যালেঞ্জ-যোগ্যতা*) স্বচ্ছতা শৃঙ্খলা না মেনে — এগুলোকে প্রত্যয়ন ত্রুটি গণ্য করতে হয়। তারা [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে শর্তসাপেক্ষ স্বীকৃতি, স্থগিত স্বীকৃতি, অস্বীকৃতি, প্রত্যাহার, বা পুনরায় খোলা সমর্থন করতে পারে।
+- **অনুচ্ছেদ IV** (*সংজ্ঞ প্রাণীকেন্দ্রিক শিক্ষার অধিকার*);
+- **অনুচ্ছেদ IV-C** (*আজীবন ও অভিযোজিত শিক্ষা এবং প্রতিদ্বন্দ্বিতাযোগ্যতা*); এবং
+- [শিক্ষাগত স্বায়ত্তশাসন](../../core_05_band_participation.md#educational-agency)।
 
-<a id="91-illustrative-educational-capability-application-by-class"></a>
+এই ধারা শিক্ষা নিজে কীভাবে পরিচালিত হবে তার বিধি নির্ধারণ করে না। কী শেখানো হবে, কী কী সনদ থাকবে, কাজের মূল্যায়ন কীভাবে হবে এবং বিদ্যালয়ের অর্থায়ন কীভাবে হবে—এসব সিদ্ধান্ত অন্য অন্তর্ভুক্তযোগ্য নথিতে নির্ধারিত হয়; প্রত্যয়ন কোনো পাঠক্রম, সনদের ধরন বা নম্বর দেওয়ার পদ্ধতি বেছে নেয় না।
 
-<a id="91-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-#### 9.1 শ্রেণি অনুসারে উদাহরণমূলক শিক্ষামূলক-ক্ষমতা প্রয়োগ (অসীমাবদ্ধ)
+<a id="522-evaluation-requirement"></a>
+##### 5.2.2 মূল্যায়নের আবশ্যকতা
 
-*সহজ ভাষায়: [§3.8](#38-illustrative-whole-system-application-by-class) থেকে [§8.1](#81-illustrative-accessibility-application-by-class) একই তিন ব্যবস্থা আগের মূল্যায়ন ক্ষেত্রে চালায়। এই উপধারা দেখায় প্রতিটিতে **শিক্ষামূলক ক্ষমতা ও শেখা-ব্যবস্থা সততা** মূল্যায়নের মানে কী — কোন র‌্যাঙ্কিং, মূল্যায়ন, পরিচয়পত্র, ও পুনঃপ্রশিক্ষণ পথ গণ্য, **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) তাৎপর্য ট্রিগার প্রযোজ্য হলে প্রত্যয়নকে কী পরীক্ষা করতে হয়, এবং নথিতে কী থাকতে হয়। অধ্যায় পাঁচ ও **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) এখনও প্রামাণিক শিক্ষামূলক-কর্তৃত্ব ও শেখা-ব্যবস্থা নিয়মের মালিক; পাঠ্যক্রম, পরিচয়পত্র তালিকা, মূল্যায়ন রুব্রিক, ও অর্থায়ন মডেল অন্য দলিল, পরের করপাস যোগ, বা গ্রহণ দলিলে থাকতে পারে; এই চলন সেই যন্ত্রপাতি নির্দেশ করে না। সমান প্রবেশাধিকার ও শিক্ষাগত প্রবেশযোগ্যতা **অনুচ্ছেদ III-B** (*সমান শিক্ষাগত প্রবেশাধিকার*)-এর মালিকানাধীন থাকে এবং এখানে সংকুচিত হয় না।*
+প্রত্যয়নে যাচাই করতে হবে, সংজ্ঞ প্রাণীরা বাস্তবে যে শিক্ষা ও সনদের পথের ওপর নির্ভর করে সেগুলি তাদের দক্ষতা গড়ার বাস্তব সুযোগ দেয় কি না—শুধু কাগজে ভালো দেখায় এমন সনদ নয়—এবং প্রয়োজনীয় দক্ষতা উল্লেখযোগ্যভাবে বদলে গেলে পুনঃপ্রশিক্ষণ, শেখা চালিয়ে যাওয়া ও পরিবর্তনের মধ্য দিয়ে যাওয়ার কার্যকর উপায় তাদের হাতে থাকে কি না।
 
-**Class A — পৌর নিরাপদ পানীয় জল নিয়ন্ত্রণ ও টেলিমেট্রি।** এক নগর-মালিকানাধীন শোধন-ও-বিতরণ ব্যবস্থা পরিচালক লাইসেন্স, নিরাপত্তা-প্রত্যয়ন, দক্ষতা মূল্যায়ন, ও প্রোটোকল-পুনঃপ্রশিক্ষণ নিয়ম দিয়ে কে বেঁচে থাকার-জরুরি প্লান্ট ফাংশন চালাতে পারে তা দ্বার করে — ভূমিকা পরিচয়পত্র পথ যা সিদ্ধান্ত নেয় সংজ্ঞ প্রাণী নিরাপদ জল চালানোর ক্ষমতা গড়তে ও রাখতে পারে কি না, এবং সেই মূল্যায়ন দেখা, নিরীক্ষা, ও চ্যালেঞ্জ করা যায় কি না।
+**অনুচ্ছেদ IV-C** (*আজীবন ও অভিযোজিত শিক্ষা এবং প্রতিদ্বন্দ্বিতাযোগ্যতা*) অনুযায়ী, ব্যবস্থার র‌্যাঙ্কিং, নম্বর, সুপারিশ ও স্থান-নির্ধারণের সিদ্ধান্ত দেখা, নিরীক্ষা করা ও চ্যালেঞ্জ করা যায় কি না তাও পর্যালোচকদের পরীক্ষা করতে হবে। পরীক্ষাটি কতটা কঠোর হবে তা নির্ভর করবে ঝুঁকির মাত্রার ([বস্তুগততা](core_05_band_oversight.md#materiality)) এবং সংজ্ঞ প্রাণীরা ব্যবস্থাটির ওপর কতটা নির্ভরশীল তার ([নির্ভরতা](../../core_05_band_continuity.md#dependency)) ওপর।
 
-- **পরিসরের শেখা ও পরিচয়পত্র পথ:**
-  - পরিচালক লাইসেন্স, নবায়ন, ও স্থগিতাদেশ;
-  - নিরাপত্তা-প্রত্যয়ন ও জরুরি-প্রতিক্রিয়া দক্ষতা মূল্যায়ন;
-  - রসায়ন, নিয়ন্ত্রণ যুক্তি, বা নিয়ন্ত্রক প্রয়োজন বদলালে প্রোটোকল ও টেলিমেট্রি পুনঃপ্রশিক্ষণ;
-  - মূল্যায়িত দক্ষতার ভিত্তিতে প্লান্ট শিফট, ওভারটাইম, বা প্রধান-পরিচালক ভূমিকায় র‌্যাঙ্ক বা নিয়োগ;
-  - ব্যর্থ মূল্যায়ন বা স্থগিত পরিচয়পত্রের জন্য চ্যালেঞ্জ ও প্রতিকারমূলক-প্রশিক্ষণ পথ।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - সেই শেখা ও পরিচয়পত্র পথ নিরাপদ-জল নিয়ন্ত্রণ চালানোর ব্যবহারিক ক্ষমতা তৈরি করে কি না — শুধু পরিচয়পত্র প্রতীক বা সমাপ্তি-সনদ গণনা নয়;
-  - প্রয়োজনীয় দক্ষতা বস্তুগতভাবে বদলালে পরিচালক কাজযোগ্য পুনঃপ্রশিক্ষণ ও উত্তরণ সহায়তা রাখে কি না;
-  - র‌্যাঙ্কিং, মূল্যায়ন, ও পরিচয়পত্র-দ্বার যুক্তি **অনুচ্ছেদ VI-B** (*আজীবন ও অভিযোজিত শেখা ও চ্যালেঞ্জ-যোগ্যতা*)-এর অধীনে স্বচ্ছ, নিরীক্ষাযোগ্য, ও চ্যালেঞ্জ-যোগ্য কি না;
-  - অস্বচ্ছ প্রক্সি, দ্বারনিয়ন্ত্রণ, বা আরোপিত অপ্রচলন সেই কর্মীর ক্ষমতা গঠন হারায় কি না যাদের দক্ষতা বেঁচে থাকার অপরিহার্য দ্বার করে;
-  - অযোগ্য বা তালাবদ্ধ পরিচালক নিরাপদ জল বন্ধ করতে পারলে মূল্যায়ন গভীরতা **Class A** বাজির সঙ্গে মিলে কি না; এবং
-  - কোনো মূল্যায়ন সীমা শুধু ঘোষিত শিক্ষাগত উদ্দেশ্য নয়, নথিভুক্ত ক্ষমতা-গঠন সারবস্তু পূরণ করে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - যে **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) তাৎপর্য ট্রিগারের উপর নির্ভর;
-  - লাইসেন্স, মূল্যায়ন, পরিচয়পত্র-দ্বার, ও পুনঃপ্রশিক্ষণ পথ যা বস্তুগতভাবে নির্ভর সেগুলোর মূল্যায়ন পরিসর;
-  - **Class A** গভীরতায় ক্ষমতা-গঠন ও পুনঃপ্রশিক্ষণ-পথ নির্ণয়;
-  - মূল্যায়ন-স্বচ্ছতা ও চ্যালেঞ্জ-যোগ্যতা নির্ণয়;
-  - বস্তুগত হলে প্রক্সি-নিরোধ ও কারসাজি-নিরোধ নির্ণয়;
-  - অনিশ্চয়তা;
-  - প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য উপাদান নির্ণয়; এবং
-  - বেঁচে থাকার-জরুরি পরিচালন দ্বার হলে স্থায়ী মূল্যায়ন অস্বচ্ছতা, পরিচয়পত্র দ্বারনিয়ন্ত্রণ, বা আরোপিত অপ্রচলনের সঙ্গে বাঁধা শর্ত বা পুনরায় খোলার ট্রিগার।
+পর্যালোচকদের নজর দিতে হবে:
 
-**Class B — আঞ্চলিক ক্লিনিকাল নথি বিনিময়।** এক স্বাস্থ্য-তথ্য বিনিময় ও তার অংশগ্রহণকারী পোর্টাল চিকিৎসক পরিচয়পত্র যাচাই, সুবিধা র‌্যাঙ্কিং, হাসপাতাল বা ক্লিনিক নিয়োগ, গোপনীয়তা ও ব্রেক-গ্লাস প্রশিক্ষণ, এবং চলমান-শিক্ষা প্রয়োজন দিয়ে ক্লিনিকাল অনুশীলন ও স্বাস্থ্যসেবা প্রবেশ দ্বার করে যা বস্তুগতভাবে সিদ্ধান্ত নেয় কে নেটওয়ার্কে অনুশীলন করতে পারে এবং নিয়ম বদলালে কর্মী কত দ্রুত পুনঃপ্রশিক্ষণ নিতে পারে।
+- গোপন বিকল্প সূচকের (প্রক্সি) ভিত্তিতে তৈরি স্কোর বা র‌্যাঙ্কিং, যা কেউ পর্যালোচনা করতে পারে না;
+- এমন সনদ-নিয়ন্ত্রণ, যা সংজ্ঞ প্রাণীদের প্রকৃত দক্ষতা শেখায় বাধা দেয়;
+- জোরপূর্বক অচলতা বা আবদ্ধতা, যা সংজ্ঞ প্রাণীদের নিজেদের পথ সম্পর্কে মত প্রকাশের ক্ষমতা কেড়ে নেয়;
+- জবরদস্তিমূলক বা প্রভাবিতকারী শিক্ষার নকশা; এবং
+- এমনভাবে সংজ্ঞ প্রাণীদের বিভিন্ন ধারায় ভাগ করা, যা সিদ্ধান্ত চ্যালেঞ্জ করা বা মানিয়ে নেওয়া চালিয়ে যাওয়ার ক্ষমতা কেড়ে নেয়—যেখানে **অনুচ্ছেদ IV** (*সংজ্ঞ প্রাণীকেন্দ্রিক শিক্ষার অধিকার*)-ও প্রযোজ্য।
 
-- **পরিসরের শেখা ও পরিচয়পত্র পথ:**
-  - চিকিৎসক পরিচয়পত্র যাচাই ও সুবিধা র‌্যাঙ্কিং;
-  - বিনিময়ের সঙ্গে বাঁধা হাসপাতাল, ক্লিনিক, বা রেসিডেন্সি নিয়োগ যুক্তি;
-  - গোপনীয়তা, সম্মতি, ও ব্রেক-গ্লাস প্রশিক্ষণ মূল্যায়ন;
-  - নেটওয়ার্ক অংশগ্রহণের জন্য চলমান-শিক্ষা ও দক্ষতা-নবায়ন প্রয়োজন;
-  - বিশেষায়ন মডিউল, চলমান চিকিৎসা শিক্ষা ট্র্যাক, বা প্রতিকারমূলক প্রশিক্ষণে সুপারিশ বা অভিযোজিত রাউটিং;
-  - প্রত্যাখ্যাত সুবিধা, ব্যর্থ মূল্যায়ন, বা আটকানো অনবোর্ডিংয়ের চ্যালেঞ্জ পথ।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - পরিচয়পত্র ও নিয়োগ পথ ব্যবহারিক ক্লিনিকাল ক্ষমতা ও নেটওয়ার্ক অংশগ্রহণ তৈরি করে কি না — শুধু নামমাত্র HIPAA-প্রশিক্ষণ চেকবক্স বা সমাপ্তি ড্যাশবোর্ড নয়;
-  - সম্মতি, রাউটিং, বা জরুরি-প্রবেশ নিয়ম বস্তুগতভাবে বদলালে চিকিৎসক ও HIM কর্মী কাজযোগ্য পুনঃপ্রশিক্ষণ রাখে কি না;
-  - র‌্যাঙ্কিং, মূল্যায়ন, সুপারিশ, ও নিয়োগ যুক্তি **অনুচ্ছেদ VI-B** (*আজীবন ও অভিযোজিত শেখা ও চ্যালেঞ্জ-যোগ্যতা*)-এর অধীনে স্বচ্ছ, নিরীক্ষাযোগ্য, ও চ্যালেঞ্জ-যোগ্য কি না;
-  - অস্বচ্ছ ব্যবহার, «ফিটনেস», বা মর্যাদা প্রক্সি ক্ষমতা গঠন হারায় বা অংশগ্রহণকারীকে অপর্যালোচনযোগ্য ট্র্যাকে তালাবদ্ধ করে কি না;
-  - পরিচয়পত্র বা নিয়োগ যুক্তি স্বাস্থ্যসেবা প্রবেশ, চাকরি, বা লাইসেন্স-সংলগ্ন অনুশীলন দ্বার করলে মূল্যায়ন গভীরতা **Class B** পরিচালন জরুরির সঙ্গে মিলে কি না; এবং
-  - দক্ষতা বা ব্যক্তিগতকরণ ফ্রেম মূল্যায়নযোগ্য ক্ষমতা-গঠন বিশ্লেষণ ছাড়া চ্যালেঞ্জ-যোগ্যতা হারাতে ব্যবহৃত হয়েছে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) ট্রিগার ও পথ পরিসর;
-  - চিকিৎসক ও ক্লিনিক পথের ক্ষমতা-গঠন ও পুনঃপ্রশিক্ষণ-পথ নির্ণয়;
-  - মূল্যায়ন-স্বচ্ছতা ও চ্যালেঞ্জ-যোগ্যতা নির্ণয়;
-  - বস্তুগত হলে প্রক্সি-নিরোধ ও কারসাজি-নিরোধ নির্ণয়;
-  - প্রয়োজন হলে অনিশ্চয়তা ও উপাদান নির্ণয়; এবং
-  - পরিচয়পত্র, সুবিধা, বা প্রশিক্ষণ বাধা এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে জরুরি কর্মী নিয়োগ বা ক্লিনিকাল অনুশীলন আটকালে বা দৈনন্দিন পরিচালন নির্ভরতা বস্তুগতভাবে হারালে পুনরায় খোলার ট্রিগার।
+পর্যালোচকদের ব্যবস্থাটি বাস্তবে কী করে তার ভিত্তিতে বিচার করতে হবে—প্রবেশাধিকার-সংক্রান্ত লেবেল, নকশাকারীদের ঘোষিত অভিপ্রায় বা কাগজপত্র ঠিকঠাক দেখানোর ভিত্তিতে নয়।
 
-**Class C — প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয় প্ল্যাটফর্ম।** এক বহু-সংস্থা সময়সূচি স্তর হাসপাতাল, স্কুল, ও সরকারি সংস্থা জুড়ে প্রশিক্ষণ স্লট, ওরিয়েন্টেশন, চলমান শিক্ষা, ও পেশাদার-উন্নয়ন অগ্রাধিকার র‌্যাঙ্ক, সুপারিশ, ও বরাদ্দ করে — প্ল্যাটফর্ম নিজে বেঁচে থাকার-জরুরি ইউটিলিটি না হলেও।
+<a id="523-system-class-scaling-and-escalation"></a>
+##### 5.2.3 ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ
 
-- **পরিসরের শেখা ও পরিচয়পত্র পথ:**
-  - প্রশিক্ষণ-স্লট ও ওরিয়েন্টেশন বুকিং;
-  - চলমান-শিক্ষা ও পেশাদার-উন্নয়ন র‌্যাঙ্কিং বা সুপারিশ;
-  - কোর্স, কোহর্ট, বা প্রশিক্ষক মিল;
-  - সময়সূচি যোগ্যতার সঙ্গে বাঁধা পরিচয়পত্র-মেয়াদ স্মারক;
-  - কর্মীকে প্রিমিয়াম বা প্রতিকারমূলক ট্র্যাকে রাউট করে এমন উদ্ভূত বৈশিষ্ট্য;
-  - ছোট প্রতিষ্ঠানকে পছন্দসই প্রশিক্ষণ ক্ষমতা থেকে বাদ দেয় এমন API বা নীতি নিয়ম।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) তাৎপর্য ট্রিগার প্রযোজ্য কি না — সমন্বয় অ্যালগরিদম বস্তুগতভাবে কোর্স সুপারিশ করে, পেশাদার-উন্নয়ন প্রবেশ র‌্যাঙ্ক করে, বা পরিচয়পত্র বা কর্মজীবন পথ গড়ে এমন প্রশিক্ষণ স্লট দ্বার করে সেখানে সহ;
-  - সুপারিশ ও স্লট বরাদ্দ পরিচয়পত্র প্রতীক নয়, ক্ষমতা-গঠন প্রবেশ তৈরি করে কি না;
-  - মূল্যায়ন, র‌্যাঙ্কিং, বা সুপারিশ যুক্তি স্বচ্ছ, নিরীক্ষাযোগ্য, ও চ্যালেঞ্জ-যোগ্য কি না;
-  - পরিচালক প্ল্যাটফর্মকে **Class C** বলে পর্যালোচনার নিচে গণ্য করেছে কি না অথচ প্রশিক্ষণ-রাউটিং প্রভাব কাজ, শিক্ষা, বা লাইসেন্স পথ বস্তুগতভাবে গড়ে; এবং
-  - প্ল্যাটফর্ম কাজ, ক্লিনিকাল সুবিধা, বা বেঁচে থাকার-জরুরি কর্মী পরিচয়পত্রের জন্য পরিচালনগতভাবে প্রয়োজনীয় হয়ে উঠলে **পুনঃশ্রেণিবিন্যাস নজরদারি** প্রয়োজন কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) ট্রিগার প্রযোজ্য কি না এবং কেন;
-  - **Class C** সমন্বয় ঝুঁকির আনুপাতিক র‌্যাঙ্কিং, সুপারিশ, নিয়োগ, ও পুনঃপ্রশিক্ষণ পথের মূল্যায়ন পরিসর;
-  - বস্তুগত হলে ক্ষমতা-গঠন, স্বচ্ছতা, ও চ্যালেঞ্জ-যোগ্যতা নির্ণয় — প্রশিক্ষণ «ঐচ্ছিক» এমন খালি দাবি নয়;
-  - ঘনত্ব ও চোকপয়েন্ট নির্ণয় যেখানে প্রশিক্ষণ-রাউটিং প্রভাব উন্নয়নের ইঙ্গিত দেয়;
-  - নির্ভরতা শক্ত হলে স্পষ্ট **পুনঃশ্রেণিবিন্যাস নজরদারি**; এবং
-  - শ্রেণি বা বেঁচে থাকার-জরুরি সমন্বয় ভূমিকা বদলালে উন্নীত শিক্ষামূলক-ক্ষমতা পর্যালোচনার নির্দেশক।
+পর্যালোচনা কতটা গভীর হবে তা ব্যবস্থার শ্রেণির ওপর নির্ভর করে। বস্তুগততার সূত্র পূরণ হলে:
 
-**শ্রেণি জুড়ে পড়া।** তাৎপর্য ট্রিগার পূরণ হলে একই **অনুচ্ছেদ VI** (*সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার*) ও অধ্যায় পাঁচ শিক্ষামূলক-ক্ষমতা শৃঙ্খলা লাগে; শ্রেণি বদলায় মূল্যায়ন গভীরতা, পরিচয়পত্র আনুষ্ঠানিকতা বা অস্বচ্ছ মূল্যায়নকে যথেষ্ট গণ্য করার অনুমতি নয়। যে **Class A** জল ব্যবস্থার পরিচালক লাইসেন্স বা নিরাপত্তা মূল্যায়ন নিরাপদ প্লান্ট পরিচালন বন্ধ করতে পারে তাকে নথিতে সবচেয়ে শক্ত ক্ষমতা-গঠন, পুনঃপ্রশিক্ষণ, ও চ্যালেঞ্জ-যোগ্যতা প্রমাণ বহন করতে হয় — সাধারণ প্রশিক্ষণ-নীতি বিবৃতি নয়। যে **Class B** বিনিময়ের সুবিধা, নিয়োগ, বা চলমান চিকিৎসা শিক্ষা যুক্তি ক্লিনিকাল অনুশীলন দ্বার করে তাকে পরিচালন জরুরি অনুসারে মূল্যায়ন স্বচ্ছতা ও পুনঃপ্রশিক্ষণ প্রবেশ নথিভুক্ত করতে হয়। এক **Class C** সময়সূচি প্ল্যাটফর্ম প্রশিক্ষণ-স্লট, সুপারিশ, বা পরিচয়পত্র-রাউটিং যুক্তি অংশগ্রহণকারীকে বস্তুগতভাবে র‌্যাঙ্ক বা বাদ দিলে টোকেন শিক্ষা অনুচ্ছেদ রাখতে পারে না; সমন্বয় কাজ বা লাইসেন্সের জন্য পরিচালনগতভাবে প্রয়োজনীয় হয়ে উঠলে প্রত্যয়নকে [§2](#2-system-class-evaluation) ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে পর্যালোচনা ও পুনঃশ্রেণিবিন্যাস উন্নীত করতে হয়, বেঁচে থাকার-জরুরি কর্মী পরিচয়পত্র দ্বার হলে উপরের দিকে **Class A** সহ। একই ব্যবস্থার বিশ্বাসযোগ্যতা চলন আছে [§10.1](#101-illustrative-trustworthiness-application-by-class)-এ।
+- ব্যবস্থাটি সংজ্ঞ প্রাণীদের বেঁচে থাকার জন্য প্রয়োজনীয় অবকাঠামোর পরিচালকদের পরীক্ষা বা লাইসেন্স দেয় এবং এর সিদ্ধান্তে সেই অবকাঠামো নিরাপদে চালু রাখা বাধাগ্রস্ত হতে পারে—এমন হলে নথিতে বাস্তব দক্ষতা গড়া, পুনঃপ্রশিক্ষণের সুযোগ এবং চ্যালেঞ্জ করার ব্যবস্থা আছে তার সবচেয়ে শক্ত প্রমাণ থাকতে হবে। সাধারণ প্রশিক্ষণনীতি যথেষ্ট নয়।
+- ব্যবস্থার বিশেষাধিকার, স্থান-নির্ধারণ বা অব্যাহত-শিক্ষার বিধি কারা চিকিৎসাসেবার ভূমিকায় কাজ করতে পারবে তা নির্ধারণ করলে, নথিতে মূল্যায়ন কীভাবে পরিদর্শন করা যায় এবং সংজ্ঞ প্রাণীরা কীভাবে পুনঃপ্রশিক্ষণ নিতে পারে তা দেখাতে হবে। কাজ যত বেশি সংকটপূর্ণ, বিস্তারিতও তত বেশি হতে হবে।
+- ব্যবস্থার প্রশিক্ষণ-স্থানের বরাদ্দ, সুপারিশ বা সনদ-নির্দেশনা উল্লেখযোগ্যভাবে অংশগ্রহণকারীদের র‌্যাঙ্ক করে বা বাদ দেয়—এমন হলে শিক্ষা নিয়ে একটি ছোট অনুচ্ছেদ যথেষ্ট নয়।
+- কোনো কাজে অংশ নিতে বা লাইসেন্স পেতে সংজ্ঞ প্রাণীদের যদি ব্যবস্থাটির মধ্য দিয়েই যেতে হয়, তবে প্রত্যয়নে আরও নিবিড় পর্যালোচনা করতে হবে এবং [§2 ব্যবস্থা-শ্রেণি মূল্যায়ন](#2-system-class-evaluation) ও [Part B §7 প্রত্যয়নের ফলাফল](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) অনুযায়ী তার শ্রেণি পুনর্বিবেচনা করতে হবে। বেঁচে থাকার জন্য অপরিহার্য কর্মী নিয়োগের সনদ আটকে রাখা হলে ব্যবস্থাকে **Class A**-এর দিকে উন্নীত করাও এর অন্তর্ভুক্ত।
 
-<a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+<a id="524-defects-and-misalignment"></a>
+##### 5.2.4 ত্রুটি ও অসামঞ্জস্য
 
-### 10. বিশ্বাসযোগ্যতা ও ব্যবস্থা-নির্ভরতা সততা মূল্যায়ন
+নিচের প্রতিটি বিষয় প্রত্যয়ন-ত্রুটি হিসেবে গণ্য হবে:
+
+- **অনুচ্ছেদ IV-C** (*আজীবন ও অভিযোজিত শিক্ষা এবং প্রতিদ্বন্দ্বিতাযোগ্যতা*) অনুযায়ী পর্যালোচনার জন্য উন্মুক্ত থাকা দরকার—এমন উল্লেখযোগ্য র‌্যাঙ্কিং, মূল্যায়ন, সুপারিশ বা স্থান-নির্ধারণের যুক্তি গোপন করা, ভুলভাবে উপস্থাপন করা, ছড়িয়ে রাখা বা অন্যের ওপর দায় চাপিয়ে দেওয়া;
+- সংজ্ঞ প্রাণীরা সত্যিই দক্ষতা গড়ছে কি না যাচাই না করেই সনদ, সামগ্রিক সমাপ্তির হার বা পরিচালকের বক্তব্যকে শেখার প্রমাণ হিসেবে গ্রহণ করা;
+- অস্বচ্ছ মূল্যায়ন, সনদ-নিয়ন্ত্রণ, জোরপূর্বক অচলতা বা প্রভাবিতকারী শিক্ষার নকশার মতো নথিভুক্ত সমস্যা সংবিধানের সঙ্গে সামঞ্জস্যকে উল্লেখযোগ্যভাবে বিপন্ন করলেও সংজ্ঞ প্রাণীরা ব্যবস্থাটির ওপর নির্ভর করতে থাকবে বলে প্রত্যয়ন করা; এবং
+- **অনুচ্ছেদ IV** (*সংজ্ঞ প্রাণীকেন্দ্রিক শিক্ষার অধিকার*)-এর দক্ষতা-নির্মাণের শর্ত এবং **অনুচ্ছেদ IV-C** (*আজীবন ও অভিযোজিত শিক্ষা এবং প্রতিদ্বন্দ্বিতাযোগ্যতা*)-এর স্বচ্ছতার শর্ত পূরণ না করেই, পুনঃপ্রশিক্ষণ বা সিদ্ধান্ত চ্যালেঞ্জ করার সুযোগ অস্বীকার করার অজুহাত হিসেবে দক্ষতা, ব্যক্তিকরণ বা ব্যাপকতাকে ব্যবহার করা।
+
+
+<a id="53-proportionate-cross-system-support-evaluation"></a>
+
+#### 5.3 আনুপাতিক আন্তঃব্যবস্থা সহায়তা মূল্যায়ন
 
 <details>
-<summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">উৎস-অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্ব: [অংশ খ §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*নথি বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); তত্ত্বাবধান পরিমাপ পরিবার (*সত্য ও জ্ঞানতাত্ত্বিক সততা; বিশ্বাসযোগ্যতা এবং বিশ্বাস অবনতি ও বিভ্রান্তিকর নির্ভরতা সাংবিধানিক পরিমাপ হিসেবে*); **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*); [বিশ্বাসযোগ্যতা](core_05_band_continuity.md#trustworthiness), [বিশ্বাস](core_05_band_continuity.md#trust), [বিশ্বাস অবনতি ও বিভ্রান্তিকর নির্ভরতা](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [চ্যালেঞ্জ-যোগ্যতা](core_05_band_accountability.md#contestability), [প্রতিকার ও সংশোধন](core_05_band_accountability.md#redress-and-remediation-constitutional), [প্রণোদনা সারিবদ্ধতা](core_05_band_integrative.md#incentive-alignment), [উল্টানো যায় এমনতা](core_05_band_continuity.md#reversibility-constitutional), [তাৎপর্য](core_05_band_oversight.md#materiality-determination), [নির্ভরতা](core_05_band_continuity.md#dependency), এবং [ঝুঁকি](core_05_band_continuity.md#risk) (অধ্যায় পাঁচ)।
-- অধঃ: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*উদাহরণমূলক বিশ্বাসযোগ্যতা চলন*); [অংশ খ §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথি সততা*); [অংশ খ §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*মিথ্যা-আস্থা অসারিবদ্ধতা, বিকৃত-প্রণোদনা অসারিবদ্ধতা, ও পুনরুদ্ধার-সততা অসারিবদ্ধতা*)।
-- সঙ্গে পড়ুন: **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*) এবং **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) — চ্যালেঞ্জ ও নিরীক্ষা অধিকার সেখানেই মালিকানাধীন থাকে; **অনুচ্ছেদ XIII-E** (*উচ্চ-স্বায়ত্তশাসন ব্যবস্থা ও সরঞ্জাম-মধ্যস্থ প্রক্রিয়া সততা*) যেখানে উচ্চ-স্বায়ত্তশাসন ব্যবস্থা শাসন বা যাচাই পথ বস্তুগতভাবে মধ্যস্থ করে; **অনুচ্ছেদ III-A** (*বেঁচে থাকা*) যেখানে চলমান ব্যবস্থা নির্ভরতা বেঁচে থাকার-জরুরি প্রবেশ প্রভাবিত করবে; [অধ্যায় এক §4 বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) এবং [অধ্যায় এক §3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)।
-- উপধারা: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*শ্রেণি অনুসারে উদাহরণমূলক বিশ্বাসযোগ্যতা প্রয়োগ*)।
+- ঊর্ধ্বতন উৎস: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*নথির বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); সাতত্য পরিমাপ-পরিবার (*সাংবিধানিক পরিমাপ হিসেবে আনুপাতিক আন্তঃব্যবস্থা সহায়তা*); **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহের স্বচ্ছতা*) এবং **অনুচ্ছেদ V-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও টেকসইতা*); [আন্তঃব্যবস্থা আহরণ](../../core_05_band_continuity.md#cross-system-extraction), [আনুপাতিক আন্তঃব্যবস্থা সহায়তা](../../core_05_band_continuity.md#proportionate-cross-system-support), [নির্ভরতা](../../core_05_band_continuity.md#dependency), [সারবস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness), [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality), [বাস্তুগত পদচিহ্ন](../../core_05_band_continuity.md#ecological-footprint), এবং [টেকসইতা](../../core_05_band_continuity.md#sustainability) (অধ্যায় পাঁচ)।
+- অধস্তন বিষয়: [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*আন্তঃব্যবস্থা সহায়তার উদাহরণমূলক বিশ্লেষণ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথির অখণ্ডতা*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-ইনপুটের শর্ত*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*সম্পদ-প্রবাহের ভুল উপস্থাপন, আহরণজনিত অসামঞ্জস্য এবং অপর্যাপ্ত সহায়তা*)।
+- সঙ্গে পড়ুন: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বণ্টন ও অর্থায়নের দায়িত্বশীল ব্যবস্থাপনা*), এবং **CS-8** (*অভিযোজিত টেকসইতা ও বাস্তুতন্ত্রের স্থিতিস্থাপকতা*); ঘনত্ব, নির্ভরতা বা প্রণোদনা-নির্দেশনা **অনুচ্ছেদ V-B**-এর (*আন্তঃব্যবস্থা ন্যায্যতা ও টেকসইতা*) সঙ্গে যুক্ত হলে [*শাসন স্থাপত্য, তত্ত্বাবধান, নির্ভরতা, বিকেন্দ্রীকরণ, কেন্দ্রীভবন, বাজার কাঠামো ও প্রস্থান-পথের অখণ্ডতা*](../../core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)।
+- উপধারা: [§5.3.1](#531-materiality-trigger) (*বস্তুগততার সূত্রপাত*); [§5.3.2](#532-meaning-of-extraction) (*আহরণের অর্থ*); [§5.3.3](#533-governing-rules) (*পরিচালনাকারী বিধি*); [§5.3.4](#534-evaluation-requirement) (*মূল্যায়নের আবশ্যকতা*); [§5.3.5](#535-map-and-record-integrity) (*মানচিত্র ও নথির অখণ্ডতা*); [§5.3.6](#536-system-class-scaling-and-escalation) (*ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ*); [§5.3.7](#537-defects-and-misalignment) (*ত্রুটি ও অসামঞ্জস্য*); [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুযায়ী আন্তঃব্যবস্থা সহায়তার উদাহরণমূলক প্রয়োগ*)।
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: কোনো ব্যবস্থা বস্তুগতভাবে প্রভাবিত করে সংজ্ঞ প্রাণী যা বলে ও করে তাতে বিশ্বাস করতে পারে কি না — এবং সেই বিশ্বাস ব্যর্থ হলে পাল্টা দাঁড়াতে পারে কি না — তখন প্রত্যয়নকে পরীক্ষা করতে হয় নির্ভরতা সত্যি ন্যায্য, সৎভাবে প্রকাশিত, ও মেরামতযোগ্য কি না। নির্ভরযোগ্যতা মাপ ও পরীক্ষা-সুইট নকশা অন্য দলিলে থাকে; প্রত্যয়ন যাচাই করে ট্রিগার প্রযোজ্য হলে বিশ্বাসযোগ্যতা, মিথ্যা-আস্থা ঝুঁকি, ও চ্যালেঞ্জ পথ সত্যি মূল্যায়ন হয়েছে কি না। [§2.1](#21-illustrative-class-profiles-non-exhaustive)-এর উদাহরণমূলক ব্যবস্থার কাজ-করা উদাহরণ আছে [§10.1](#101-illustrative-trustworthiness-application-by-class)-এ।*
+*সহজ কথায়: কিছু ব্যবস্থা যৌথ ভিত্তির ওপর নির্ভর করে—এমন অবকাঠামো, পরিষেবা ও সম্পদ, যার ওপর অনেক ব্যবস্থা ও সংজ্ঞ প্রাণী নির্ভরশীল। কোনো ব্যবস্থা এই ভিত্তিগুলি ব্যাপকভাবে ব্যবহার করলে প্রত্যয়নে যাচাই করতে হবে, সেগুলি সচল রাখতে ব্যবস্থাটি যথেষ্ট ফিরিয়ে দেয় কি না এবং তা অনুসরণ করার মতো স্পষ্টভাবে নথিতে দেখা যায় কি না। পরিচালকের “হিসাব মিলে গেছে” কথাটি যথেষ্ট নয়। এই ধারা বণ্টনের সূত্র বা সংখ্যাগত লক্ষ্য নির্ধারণ করে না; অন্য নথিতে তা রয়েছে। এখানে যাচাই করা হয়, ধারা প্রযোজ্য হলে ব্যবস্থার নির্ভরতা, তার গ্রহণ, তার ফিরিয়ে দেওয়া এবং অন্যদের প্রতি ব্যবস্থাটি ন্যায্য কি না—এসব যথাযথভাবে মূল্যায়িত হয়েছে কি না। উদাহরণ: [§5.3.8 ব্যবস্থা-শ্রেণি অনুযায়ী আন্তঃব্যবস্থা সহায়তার উদাহরণমূলক প্রয়োগ (অসম্পূর্ণ তালিকা)](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive)।*
 
-**তাৎপর্য ট্রিগার।** এই ধারা প্রযোজ্য যেখানে এক বস্তুগতভাবে প্রভাবক ব্যবস্থা উপস্থাপিত আচরণ, সীমা, ঝুঁকি, চ্যালেঞ্জ পথ, বা সংশোধনের উপর সংজ্ঞ নির্ভরতা বস্তুগতভাবে গড়ে — নির্ভরযোগ্যতা দাবি, প্রকাশ ভঙ্গি, পরিচালন আচরণ, প্রণোদনা নকশা, পুনরুদ্ধার চর্চা, বা তুলনীয় নির্ভরতা পথ দিয়ে সহ। এটি প্রতি প্রত্যয়ন নথিতে পূর্ণ বিশ্বাসযোগ্যতা নিরীক্ষা চায় না।
+<a id="531-materiality-trigger"></a>
+##### 5.3.1 বস্তুগততার সূত্রপাত
 
-ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নকে তাৎপর্য ট্রিগার প্রযোজ্য হলে **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*), [বিশ্বাসযোগ্যতা](core_05_band_continuity.md#trustworthiness), এবং [বিশ্বাস অবনতি ও বিভ্রান্তিকর নির্ভরতা](core_05_band_continuity.md#trust-degradation-and-misleading-reliance)-এর অধীনে **বিশ্বাসযোগ্যতা ও ব্যবস্থা-নির্ভরতা সততা** মূল্যায়ন করতে হয়। প্রামাণিক অর্থ, মূল্যায়ন উপাদান, ও অনুপালনহীনতা শৃঙ্খলা থাকে অধ্যায় পাঁচ ও **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*)-এ; নির্ভরযোগ্যতা মাপ, প্রকাশ ফরম্যাট, প্রণোদনা-সারিবদ্ধতা যন্ত্রপাতি, ও রিগ্রেশন-পরীক্ষা নকশা প্রযোজ্য হলে অন্তর্ভুক্ত দলিলে থাকে। এই ধারা বলে প্রত্যয়নকে কী যাচাই ও নথিভুক্ত করতে হয়; এটি সেই পরিচালন যন্ত্রপাতি পুনরাবৃত্তি করে না বা নির্দিষ্ট নির্ভরযোগ্যতা মাপ বা পরীক্ষা-সুইট নকশা নির্দেশ করে না।
+সংজ্ঞ প্রাণীদের জীবনে বস্তুগত প্রভাব ফেলে এমন কোনো ব্যবস্থা যৌথ অবকাঠামো বা ভিত্তি—যে জিনিসের ওপর অন্য ব্যবস্থা ও সংজ্ঞ প্রাণীরা নির্ভরশীল—সম্পর্কে নিচের কোনো কাজ করলে এই ধারা প্রযোজ্য:
 
-**মূল্যায়ন প্রয়োজনীয়তা।** এক প্রত্যয়ন প্রক্রিয়াকে নির্ধারণ করতে হয় ব্যবস্থা যে পথের উপর বস্তুগতভাবে নির্ভর করে সেগুলো **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতা ভিত্তিরেখা*)-এর অধীনে ন্যায্য [বিশ্বাস](core_05_band_continuity.md#trust) ও যুক্তিসঙ্গতভাবে সঠিক নির্ভরতার শর্ত রাখে কি না — শুধু খ্যাতি, স্কেল, বা বিপণন ভঙ্গি নয়। মূল্যায়নকে **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*)-এর অধীনে ব্যবহারিক চ্যালেঞ্জ, পর্যালোচনা, ও প্রতিকার, **অনুচ্ছেদ XIII-C** (*মিথ্যা আস্থা ও বিভ্রান্তিকর নির্ভর নিষেধ*)-এর অধীনে মিথ্যা-আস্থা ও বিভ্রান্তিকর-নির্ভরতা ঝুঁকি, **অনুচ্ছেদ XIII-D** (*প্রণোদনা-সারিবদ্ধতা বন্ধন*)-এর অধীনে বিকৃত-প্রণোদনা এক্সপোজার, এবং বস্তুগত হলে **অনুচ্ছেদ XIII-F** (*স্থিতিস্থাপকতা ও স্ব-মেরামত ভিত্তিরেখা*)-এর অধীনে পুনরুদ্ধার সততাও পরীক্ষা করতে হয়, [তাৎপর্য](core_05_band_oversight.md#materiality-determination), [নির্ভরতা](core_05_band_continuity.md#dependency), ও [ঝুঁকি](core_05_band_continuity.md#risk)-তে স্কেল করা। মূল্যায়নকে তৈরি করা বিশ্বাস, অপ্রকাশিত সীমা, প্রতারণা বা কোণ কাটাকে পুরস্কৃত করে এমন প্রণোদনা কাঠামো, শুধু কাগজে থাকা চ্যালেঞ্জ পথ, এবং ব্যর্থতা লুকিয়ে বা নীরবে অধিকার সংকুচিত করে এমন পুনরুদ্ধার চর্চা ধরতে হয়। মূল্যায়নকে সময়, স্কেল, ও নির্ভরতা জুড়ে কার্যকরী প্রভাব প্রতিফলিত করতে হয়, নামমাত্র নিশ্চয়তা লেবেল, ঘোষিত উদ্দেশ্য, বা শুধু আগের কর্মক্ষমতা নয়।
+- কারা তা পাবে তা নির্ধারণ করে (বণ্টন);
+- তা কোথায় প্রবাহিত হবে তা পরিচালনা করে (প্রবাহ-নির্দেশ);
+- তার অর্থায়ন করে; অথবা
+- তা থেকে আহরণ করে।
 
-**নথি প্রয়োজনীয়তা।** প্রত্যয়ন নথিকে বলতে হয় যে **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) তাৎপর্য ট্রিগারের উপর নির্ভর, নির্ভরতা, প্রকাশ, প্রণোদনা, চ্যালেঞ্জ, ও পুনরুদ্ধার পথ যা বস্তুগতভাবে নির্ভর সেগুলোর মূল্যায়ন পরিসর, বিশ্বাসযোগ্যতা ও মিথ্যা-আস্থা নির্ণয়, বস্তুগত হলে বিকৃত-প্রণোদনা ও পুনরুদ্ধার-সততা নির্ণয়, অনিশ্চয়তা, প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য বরাদ্দ উপাদান নির্ণয়, এবং স্থায়ী বিশ্বাস-পরাজয়, বিভ্রান্তিকর নির্ভরতা, বা অপ্রবেশযোগ্য প্রতিকারের সঙ্গে বাঁধা কোনো শর্ত, নির্ভরতার সীমা, বা পুনরায় খোলার ট্রিগার।
+<a id="532-meaning-of-extraction"></a>
+##### 5.3.2 আহরণের অর্থ
 
-**ব্যবস্থা শ্রেণির সঙ্গে যৌথ স্কেল।** বিশ্বাসযোগ্যতা ও ব্যবস্থা-নির্ভরতা সততা মূল্যায়ন গভীরতাকে [§2](#2-system-class-evaluation) ও [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে বরাদ্দ ব্যবস্থা শ্রেণি অনুসারে স্কেল করতে হয়। যে উচ্চতর-শ্রেণি ব্যবস্থা সংজ্ঞ নির্ভরতা বস্তুগতভাবে গড়ে তাদের আনুপাতিকভাবে শক্তিশালী প্রমাণ লাগে যে বিশ্বাসযোগ্যতা, মিথ্যা-আস্থা ঝুঁকি, ও চ্যালেঞ্জ পথ মূল্যায়িত হয়েছে, শুধু দাবি করা হয়নি।
+এই ধারায় **আহরণ** বলতে [অনুচ্ছেদ V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*আন্তঃব্যবস্থা ন্যায্যতা ও টেকসইতা*)-এর অধীন [আন্তঃব্যবস্থা আহরণ](../../core_05_band_continuity.md#cross-system-extraction)-কে বোঝায়।
 
-**ত্রুটি ও অসারিবদ্ধতা।** **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) পর্যালোচনা চায় সেখানে বস্তুগত সীমা, ঝুঁকি, বা ব্যর্থতা ইতিহাস লুকানো, ভুলবিবরণ, টুকরো করা, বা সরিয়ে দেওয়া; মূল্যায়নযোগ্য [বিশ্বাসযোগ্যতা](core_05_band_continuity.md#trustworthiness) বিশ্লেষণ ছাড়া খ্যাতি, সমর্থন, স্কেল, বা পরিচালক স্ব-প্রতিবেদনকে যথেষ্ট গণ্য করা; নথিভুক্ত মিথ্যা আস্থা, বিকৃত প্রণোদনা, অপ্রবেশযোগ্য চ্যালেঞ্জ পথ, বা ব্যর্থতা লুকিয়ে এমন পুনরুদ্ধার চর্চা সাংবিধানিক সারিবদ্ধতাকে বস্তুগতভাবে হুমকি দিলেও চলমান নির্ভরতা প্রত্যয়ন করা; বা দক্ষতা, উদ্ভাবন, বা নিরাপত্তা ফ্রেম দিয়ে প্রকাশ, চ্যালেঞ্জ-যোগ্যতা, বা প্রতিকার হারানো **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*)-এর নির্ভরযোগ্যতা ও **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*) চ্যালেঞ্জ শৃঙ্খলা না মেনে — এগুলোকে প্রত্যয়ন ত্রুটি গণ্য করতে হয়। তারা [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে শর্তসাপেক্ষ স্বীকৃতি, স্থগিত স্বীকৃতি, অস্বীকৃতি, প্রত্যাহার, বা পুনরায় খোলা সমর্থন করতে পারে।
+- প্রশ্নটি হলো **যৌথ ব্যাকএন্ড থেকে কে লাভবান হয় এবং সেগুলি চালু রাখতে কে খরচ বহন করে**—কোনো ব্যবস্থা সংজ্ঞ প্রাণীদের তথ্য নিয়ে কী করে তা নয়।
+- তথ্য বিক্রি, বিজ্ঞাপন ও প্রোফাইলিংসহ কোনো ব্যবস্থা কীভাবে তথ্য পরিচালনা করে, তা [§3.4 তথ্যের ধরন ও ব্যবস্থাপনা মূল্যায়ন](#34-data-types-and-handling-evaluation) (বিশেষত [§3.4.2 গোপনীয়তা-শৃঙ্খলা](#342-privacy-discipline)) এবং [§4.1 গোপনীয়তা (তথ্যগত) যৌথ প্রয়োগ](#41-privacy-informational-joint-invocation)-এর অধীনে যাচাই করা হয়।
+- কোনো পর্যালোচনাই অন্যটির বিকল্প হতে পারে না।
 
-<a id="101-illustrative-trustworthiness-application-by-class"></a>
+<a id="533-governing-rules"></a>
+##### 5.3.3 পরিচালনাকারী বিধি
 
-<a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
-#### 10.1 শ্রেণি অনুসারে উদাহরণমূলক বিশ্বাসযোগ্যতা প্রয়োগ (অসীমাবদ্ধ)
+বস্তুগততার সূত্র প্রযোজ্য হলে প্রত্যয়নে **আনুপাতিক আন্তঃব্যবস্থা সহায়তা** মূল্যায়ন করতে হবে। সহজ করে বললে: কোনো ব্যবস্থা যৌথ ভিত্তি ব্যবহার করলে তা সচল রাখতে যথেষ্ট ফিরিয়ে দেয় কি? এ বিষয়ে পরিচালনাকারী বিধিগুলি হলো:
 
-*সহজ ভাষায়: [§3.8](#38-illustrative-whole-system-application-by-class) থেকে [§9.1](#91-illustrative-educational-capability-application-by-class) একই তিন ব্যবস্থা আগের মূল্যায়ন ক্ষেত্রে চালায়। এই উপধারা দেখায় প্রতিটিতে **বিশ্বাসযোগ্যতা ও ব্যবস্থা-নির্ভরতা সততা** মূল্যায়নের মানে কী — কোন নির্ভরতা, প্রকাশ, প্রণোদনা, চ্যালেঞ্জ, ও পুনরুদ্ধার পথ গণ্য, **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) তাৎপর্য ট্রিগার প্রযোজ্য হলে প্রত্যয়নকে কী পরীক্ষা করতে হয়, এবং নথিতে কী থাকতে হয়। অধ্যায় পাঁচ ও **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) এখনও প্রামাণিক বিশ্বাসযোগ্যতা নিয়মের মালিক; নির্ভরযোগ্যতা মাপ, প্রকাশ ফরম্যাট, প্রণোদনা-সারিবদ্ধতা যন্ত্রপাতি, ও রিগ্রেশন-পরীক্ষা নকশা অন্য দলিল, পরের করপাস যোগ, বা গ্রহণ দলিলে থাকতে পারে; এই চলন সেই যন্ত্রপাতি নির্দেশ করে না। চ্যালেঞ্জ ও নিরীক্ষা অধিকার **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*) এবং **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)-এর মালিকানাধীন থাকে — এখানে সংকুচিত হয় না।*
+- [আনুপাতিক আন্তঃব্যবস্থা সহায়তা](../../core_05_band_continuity.md#proportionate-cross-system-support);
+- **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহের স্বচ্ছতা*); এবং
+- **অনুচ্ছেদ V-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও টেকসইতা*)।
 
-**Class A — পৌর নিরাপদ পানীয় জল নিয়ন্ত্রণ ও টেলিমেট্রি।** এক নগর-মালিকানাধীন শোধন-ও-বিতরণ ব্যবস্থা গড়ে পরিবার, পরিচালক, ও জরুরি সাড়াদাতা উপস্থাপিত জলের গুণ, বিভ্রাট অবস্থা, দূষণ সতর্কতা, ও নিয়ন্ত্রণ আচরণের উপর নির্ভর করতে পারে কি না — এমন পথ যেখানে বিভ্রান্তিকর নির্ভরতা কাজযোগ্য বিকল্প আসার আগে নিরাপদ জল বন্ধ করতে পারে।
+বিস্তারিত অন্যত্র রয়েছে:
 
-- **পরিসরের নির্ভরতা পথ:**
-  - টেলিমেট্রি ও **SCADA** (তত্ত্বাবধায়ক নিয়ন্ত্রণ ও তথ্য অর্জন) সঠিকতার দাবি;
-  - পানি-ফোটানো ও দূষণ পরামর্শ;
-  - লিক-শনাক্তকরণ ও চাপ-হারানো সংকেত;
-  - নিরাপদ-ব্যর্থতা ও ম্যানুয়াল-ওভাররাইড আচরণ;
-  - বিক্রেতা **SOC** (নিরাপত্তা পরিচালনা কেন্দ্র) নজরদারি উপস্থাপন;
-  - জরুরি ইন্টারটাই ও পারস্পরিক-সহায়তা রাউটিং;
-  - বিভ্রাট-বিজ্ঞপ্তি ও পুনরুদ্ধার সময়সীমা;
-  - দূষণ, সাইবার ঘটনা, বা সরঞ্জাম ব্যর্থতার পর পুনরুদ্ধার ও স্ব-মেরামত;
-  - রক্ষণাবেক্ষণ স্থগিত, বিক্রেতা বোনাস, বা হার-প্রদানকারী বিলের সঙ্গে বাঁধা প্রণোদনা কাঠামো।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - উপস্থাপিত আচরণ, সীমা, ও ব্যর্থতা মোড **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতা ভিত্তিরেখা*)-এর অধীনে ন্যায্য [বিশ্বাস](core_05_band_continuity.md#trust) সমর্থন করে কি না — শুধু খ্যাতি, স্কেল, বা «ইউটিলিটি সেরা চর্চা» ভঙ্গি নয়;
-  - দূষণ ঝুঁকি কম দেখানো, বিলম্বিত পরামর্শ, বা অতিরিক্ত রিডান্ডেন্সি পরিবার ও পরিচালককে বিভ্রান্ত করতে পারলে মিথ্যা-আস্থা ও [বিশ্বাস অবনতি ও বিভ্রান্তিকর নির্ভরতা](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) ঝুঁকি মূল্যায়িত হয় কি না;
-  - বিতর্কিত রিডিং, মিস করা সতর্কতা, বা পুনরুদ্ধার ব্যর্থতার জন্য **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*)-এর অধীনে ব্যবহারিক চ্যালেঞ্জ, পর্যালোচনা, ও প্রতিকার পথ আছে কি না;
-  - **অনুচ্ছেদ XIII-D** (*প্রণোদনা-সারিবদ্ধতা বন্ধন*)-এর অধীনে বিকৃত-প্রণোদনা এক্সপোজার রক্ষণাবেক্ষণ স্থগিত, বিক্রেতা কোণ কাটা, বা সতর্কতা দমনকে পুরস্কৃত করে কি না;
-  - **অনুচ্ছেদ XIII-F** (*স্থিতিস্থাপকতা ও স্ব-মেরামত ভিত্তিরেখা*)-এর অধীনে পুনরুদ্ধার সততা ঘটনা লুকিয়ে না রেখে ব্যর্থতা ইতিহাস ও মেরামত ভঙ্গি সৎভাবে প্রকাশ করে কি না;
-  - বিভ্রান্তিকর নির্ভরতা নিরাপদ জল বন্ধ করতে পারলে মূল্যায়ন গভীরতা **Class A** বাজির সঙ্গে মিলে কি না; এবং
-  - কোনো নিশ্চয়তা সীমা শুধু ঘোষিত উদ্দেশ্য নয়, নথিভুক্ত বিশ্বাসযোগ্যতা বিশ্লেষণ পূরণ করে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - যে **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) তাৎপর্য ট্রিগারের উপর নির্ভর;
-  - নির্ভরতা, প্রকাশ, প্রণোদনা, চ্যালেঞ্জ, ও পুনরুদ্ধার পথ যা বস্তুগতভাবে নির্ভর সেগুলোর মূল্যায়ন পরিসর;
-  - **Class A** গভীরতায় বিশ্বাসযোগ্যতা ও মিথ্যা-আস্থা নির্ণয়;
-  - বস্তুগত হলে বিকৃত-প্রণোদনা ও পুনরুদ্ধার-সততা নির্ণয়;
-  - অনিশ্চয়তা;
-  - প্রয়োজন হলে সংজ্ঞ মঞ্চ বা অন্য উপাদান নির্ণয়; এবং
-  - বেঁচে থাকার-জরুরি জল প্রবেশ দ্বার হলে স্থায়ী বিশ্বাস-পরাজয়, বিভ্রান্তিকর নির্ভরতা, বা অপ্রবেশযোগ্য প্রতিকারের সঙ্গে বাঁধা শর্ত বা পুনরায় খোলার ট্রিগার।
+- *অধ্যায় পাঁচ* পরিভাষা, গণ্য সহায়তার ধরন এবং সহায়তা যথেষ্ট কি না তার পরীক্ষা নির্ধারণ করে।
+- **অনুচ্ছেদ V-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও টেকসইতা*) ন্যায্য বণ্টনের বিবেচ্য বিষয় ও ন্যূনতম ভিত্তি নির্ধারণ করে।
+- *[corpus_systems.md](../../corpus_systems.md)*, **CS-9** (*সম্পদ বণ্টন ও অর্থায়নের দায়িত্বশীল ব্যবস্থাপনা*) এবং **CS-8** (*অভিযোজিত টেকসইতা ও বাস্তুতন্ত্রের স্থিতিস্থাপকতা*) প্রযোজ্য ক্ষেত্রে বণ্টনের শ্রেণি, অর্থায়ন নবায়নের পদ্ধতি এবং সংখ্যাগত লক্ষ্য নির্ধারণ করে।
 
-**Class B — আঞ্চলিক ক্লিনিকাল নথি বিনিময়।** এক স্বাস্থ্য-তথ্য বিনিময় ও তার অংশগ্রহণকারী পোর্টাল গড়ে চিকিৎসক, রোগী, ও জনস্বাস্থ্য কর্তা উপস্থাপিত আপটাইম, নথি মিল, সম্মতি রাউটিং, ব্রেক-গ্লাস প্রবেশ, ও পুনরুদ্ধার আচরণের উপর নির্ভর করতে পারে কি না — এমন পথ যা দৈনন্দিন স্বাস্থ্যসেবা পরিচালন দ্বার করে এবং বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে জরুরি সেবাকে বিভ্রান্ত করতে পারে।
+এতে সমান ভাগ, নির্দিষ্ট শতাংশ বা কোনো একটি অর্থায়ন-মডেল আবশ্যক হয় না।
 
-- **পরিসরের নির্ভরতা পথ:**
-  - আপটাইম, লেটেন্সি, ও মিল-সঠিকতা উপস্থাপন;
-  - সম্মতি ও ব্রেক-গ্লাস রাউটিং আচরণ;
-  - পরিচয়-সমাধান ও ডুপ্লিকেট-সরানো নির্ভরযোগ্যতা দাবি;
-  - বিভ্রাট বিজ্ঞপ্তি ও ফেলওভার ভঙ্গি;
-  - ঘটনা প্রকাশ ও বিভ্রাট-পরবর্তী পুনরুদ্ধার সময়সীমা;
-  - লেনদেন আয়তন, অনবোর্ডিং গতি, বা সতর্কতা দমনের সঙ্গে বাঁধা বিক্রেতা ও পরিচালক প্রণোদনা কাঠামো;
-  - ভুল নথি, আটকানো প্রবেশ, বা বিতর্কিত রাউটিং সিদ্ধান্তের চ্যালেঞ্জ পথ।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - উপস্থাপিত আচরণ ও সীমা দৈনন্দিন ক্লিনিকাল পরিচালনের জন্য ন্যায্য নির্ভরতা সমর্থন করে কি না — শুধু আন্তঃক্রিয়াশীলতা বিপণন বা সমষ্টিগত আপটাইম ড্যাশবোর্ড নয়;
-  - মিল ত্রুটি কম দেখানো, লুকানো সম্মতি ব্যর্থতা, বা অতিরিক্ত জরুরি-প্রবেশ প্রস্তুতি চিকিৎসক ও রোগীকে বিভ্রান্ত করতে পারলে মিথ্যা-আস্থা ঝুঁকি মূল্যায়িত হয় কি না;
-  - ভুল-নথি বিরোধ, আটকানো পোর্টাল, ও পুনরুদ্ধার ব্যর্থতার জন্য **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*)-এর অধীনে চ্যালেঞ্জ, পর্যালোচনা, ও প্রতিকার পথ ব্যবহারিক কি না — শুধু কাগজি নীতি নয়;
-  - **অনুচ্ছেদ XIII-D** (*প্রণোদনা-সারিবদ্ধতা বন্ধন*)-এর অধীনে বিকৃত-প্রণোদনা এক্সপোজার সঠিক রাউটিংয়ের উপর আয়তন বৃদ্ধি, সতর্কতা ন্যূনতমকরণ, বা বিক্রেতা তালাবদ্ধতাকে পুরস্কৃত করে কি না;
-  - **অনুচ্ছেদ XIII-F** (*স্থিতিস্থাপকতা ও স্ব-মেরামত ভিত্তিরেখা*)-এর অধীনে পুনরুদ্ধার সততা বিভ্রাট ইতিহাস ও অবশিষ্ট ঝুঁকি সৎভাবে প্রকাশ করে কি না;
-  - বিভ্রান্তিকর নির্ভরতা স্বাস্থ্যসেবা প্রবেশ, চাকরি, বা লাইসেন্স-সংলগ্ন অনুশীলন দ্বার করলে মূল্যায়ন গভীরতা **Class B** পরিচালন জরুরির সঙ্গে মিলে কি না; এবং
-  - দক্ষতা বা নিরাপত্তা ফ্রেম মূল্যায়নযোগ্য বিশ্বাসযোগ্যতা বিশ্লেষণ ছাড়া প্রকাশ বা চ্যালেঞ্জ-যোগ্যতা হারাতে ব্যবহৃত হয়েছে কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) ট্রিগার ও পথ পরিসর;
-  - ক্লিনিকাল ও পোর্টাল পথের বিশ্বাসযোগ্যতা ও মিথ্যা-আস্থা নির্ণয়;
-  - **Class B** গভীরতায় বিকৃত-প্রণোদনা ও পুনরুদ্ধার-সততা নির্ণয়;
-  - বস্তুগত হলে চ্যালেঞ্জ-পথ ও প্রতিকার নির্ণয়;
-  - প্রয়োজন হলে অনিশ্চয়তা ও উপাদান নির্ণয়; এবং
-  - আপটাইম, মিল, বা জরুরি-প্রবেশ উপস্থাপন এখন বেঁচে থাকার প্রাসঙ্গিক সময়সীমার ভিতরে সেবা রাউটিং বিভ্রান্ত করলে বা দৈনন্দিন পরিচালন নির্ভরতা বস্তুগতভাবে হারালে পুনরায় খোলার ট্রিগার।
+<a id="534-evaluation-requirement"></a>
+##### 5.3.4 মূল্যায়নের আবশ্যকতা
 
-**Class C — প্রাতিষ্ঠানিক সময়সূচি ও সমন্বয় প্ল্যাটফর্ম।** এক বহু-সংস্থা সময়সূচি স্তর গড়ে প্রতিষ্ঠান ও কর্মী উপস্থাপিত উপলব্ধতা, রাউটিং সঠিকতা, বিক্রেতা নির্ভরযোগ্যতা স্কোর, ও বিভ্রাট পুনরুদ্ধারের উপর নির্ভর করে কি না — প্ল্যাটফর্ম নিজে বেঁচে থাকার-জরুরি ইউটিলিটি না হলেও।
+প্রত্যয়নে দুটি প্রশ্নের উত্তর দিতে হবে:
 
-- **পরিসরের নির্ভরতা পথ:**
-  - শিফট-রাউটিং ও অন-কল উপলব্ধতা দাবি;
-  - কক্ষ, সরঞ্জাম, ও বিক্রেতা বুকিং নির্ভরযোগ্যতা উপস্থাপন;
-  - «সবসময় উপলব্ধ» বা আপটাইম ব্যাজ;
-  - প্রাতিষ্ঠানিক আচরণ গড়ে এমন উদ্ভূত নির্ভরযোগ্যতা বা বিক্রেতা-রেটিং বৈশিষ্ট্য;
-  - বিভ্রাট বিজ্ঞপ্তি ও ফেলওভার ভঙ্গি;
-  - বুকিং আয়তন, বিক্রেতা কমিশন, বা সতর্কতা ন্যূনতমকরণের সঙ্গে বাঁধা প্রণোদনা কাঠামো;
-  - মিস শিফট, দ্বিগুণ-বুকিং, বা বিক্রেতা রাউটিং ত্রুটির চ্যালেঞ্জ ও প্রতিকার পথ।
-- **মূল্যায়নকে কী পরীক্ষা করতে হয়:**
-  - **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) তাৎপর্য ট্রিগার প্রযোজ্য কি না — নির্ভরযোগ্যতা দাবি, বিক্রেতা স্কোর, বা সমন্বয় আচরণ বস্তুগতভাবে কর্মী নিয়োগ, জরুরি রাউটিং, বা ক্রয় সিদ্ধান্ত গড়ে সেখানে সহ;
-  - বিপণন ভঙ্গি, বিশ্বাস ব্যাজ, বা কম দেখানো বিভ্রাট ইতিহাস প্রতিষ্ঠানকে বিভ্রান্ত করতে পারলে মিথ্যা-আস্থা ও বিভ্রান্তিকর-নির্ভরতা ঝুঁকি মূল্যায়িত হয় কি না;
-  - কাজ, শিক্ষা, বা জনসেবা প্রবেশ বস্তুগতভাবে প্রভাবিত করে এমন সময়সূচি ত্রুটির জন্য চ্যালেঞ্জ ও প্রতিকার পথ ব্যবহারিক কি না;
-  - পরিচালক প্ল্যাটফর্মকে **Class C** বলে পর্যালোচনার নিচে গণ্য করেছে কি না অথচ নির্ভরযোগ্যতা উপস্থাপন প্রাতিষ্ঠানিক আচরণ বস্তুগতভাবে গড়ে;
-  - বিকৃত-প্রণোদনা এক্সপোজার সঠিক সমন্বয়ের উপর বিক্রেতা পক্ষপাত, সতর্কতা দমন, বা ঘনত্বকে পুরস্কৃত করে কি না; এবং
-  - প্ল্যাটফর্ম বেঁচে থাকার-জরুরি কর্মী নিয়োগ, জরুরি রাউটিং, বা পেমেন্ট সমন্বয়ের কার্যত চোকপয়েন্ট হয়ে উঠলে **পুনঃশ্রেণিবিন্যাস নজরদারি** প্রয়োজন কি না।
-- **নথিকে কী দেখাতে হয়:**
-  - **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) ট্রিগার প্রযোজ্য কি না এবং কেন;
-  - **Class C** সমন্বয় ঝুঁকির আনুপাতিক নির্ভরতা, প্রকাশ, প্রণোদনা, চ্যালেঞ্জ, ও পুনরুদ্ধার পথের মূল্যায়ন পরিসর;
-  - বস্তুগত হলে বিশ্বাসযোগ্যতা ও মিথ্যা-আস্থা নির্ণয় — প্ল্যাটফর্ম «নির্ভরযোগ্য» এমন খালি দাবি নয়;
-  - বস্তুগত হলে বিকৃত-প্রণোদনা ও পুনরুদ্ধার-সততা নির্ণয়;
-  - ঘনত্ব ও চোকপয়েন্ট নির্ণয় যেখানে নির্ভরযোগ্যতা দাবি উন্নয়নের ইঙ্গিত দেয়;
-  - নির্ভরতা শক্ত হলে স্পষ্ট **পুনঃশ্রেণিবিন্যাস নজরদারি**; এবং
-  - শ্রেণি বা বেঁচে থাকার-জরুরি সমন্বয় ভূমিকা বদলালে উন্নীত বিশ্বাসযোগ্যতা পর্যালোচনার নির্দেশক।
+- **ব্যবস্থাটি কী গ্রহণ করে?** **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহের স্বচ্ছতা*) অনুযায়ী আবশ্যক নির্ভরশীল ব্যবস্থার নথিভুক্ত মানচিত্র এবং নিরীক্ষাযোগ্য সম্পদ-প্রবাহের নথি কি দেখায় যে ব্যবস্থাটি নির্ভরশীল যৌথ অবকাঠামো বা ভিত্তি থেকে সম্পদ নেয়?
+- **ব্যবস্থাটি কী ফিরিয়ে দেয়?** তার ফেরত-প্রবাহ কি [আনুপাতিক আন্তঃব্যবস্থা সহায়তা](../../core_05_band_continuity.md#proportionate-cross-system-support)-এর অধীনে যথেষ্ট সহায়তায় পরিণত হয়?
 
-**শ্রেণি জুড়ে পড়া।** তাৎপর্য ট্রিগার পূরণ হলে একই **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) ও অধ্যায় পাঁচ বিশ্বাসযোগ্যতা শৃঙ্খলা লাগে; শ্রেণি বদলায় মূল্যায়ন গভীরতা, খ্যাতি, স্কেল, বা নামমাত্র নিশ্চয়তা লেবেলকে যথেষ্ট গণ্য করার অনুমতি নয়। যে **Class A** জল ব্যবস্থার টেলিমেট্রি, পরামর্শ, বা পুনরুদ্ধার উপস্থাপন পরিবার ও পরিচালককে নিরাপদ জল নিয়ে বিভ্রান্ত করতে পারে তাকে নথিতে সবচেয়ে শক্ত বিশ্বাসযোগ্যতা, মিথ্যা-আস্থা, ও পুনরুদ্ধার-সততা প্রমাণ বহন করতে হয় — সাধারণ নির্ভরযোগ্যতা বিবৃতি নয়। যে **Class B** বিনিময়ের আপটাইম, মিল, বা ব্রেক-গ্লাস উপস্থাপন ক্লিনিকাল অনুশীলন দ্বার করে তাকে পরিচালন জরুরি অনুসারে চ্যালেঞ্জ-পথ ও বিভ্রান্তিকর-নির্ভরতা নির্ণয় নথিভুক্ত করতে হয়। এক **Class C** সময়সূচি প্ল্যাটফর্ম নির্ভরযোগ্যতা ব্যাজ বা বিক্রেতা স্কোর কর্মী নিয়োগ বা ক্রয় আচরণ বস্তুগতভাবে গড়লে টোকেন বিশ্বাসযোগ্যতা অনুচ্ছেদ রাখতে পারে না; সমন্বয় বেঁচে থাকার-জরুরি হয়ে উঠলে প্রত্যয়নকে [§2](#2-system-class-evaluation) ও [অংশ খ §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)-এর অধীনে পর্যালোচনা ও পুনঃশ্রেণিবিন্যাস উন্নীত করতে হয়, বিভ্রান্তিকর নির্ভরতা বেঁচে থাকার-জরুরি সমন্বয় বন্ধ করতে পারলে উপরের দিকে **Class A** সহ।
+[সারবস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness) ও [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) অনুযায়ী প্রত্যয়নে উভয় বিষয়ের ন্যায্যতা ও আনুপাতিকতা বিচার করতে হবে; বিবেচনায় নিতে হবে:
+
+- যৌথ অবকাঠামোটি কতটা গুরুত্বপূর্ণ (নির্ধারিত থাকলে [§2 ব্যবস্থা-শ্রেণি মূল্যায়ন](#2-system-class-evaluation) অনুযায়ী তার ব্যবস্থা-শ্রেণি);
+- নির্ভরতা কতটা একমুখী;
+- ব্যবস্থাটিকে কত সহজে প্রতিস্থাপন করা যায় এবং বিকল্প আছে কি না;
+- ব্যবস্থার [বাস্তুগত পদচিহ্ন](../../core_05_band_continuity.md#ecological-footprint), যেখানে তা উল্লেখযোগ্য; এবং
+- দীর্ঘমেয়াদি [টেকসইতা](../../core_05_band_continuity.md#sustainability)।
+
+পর্যালোচকদের বাস্তবে যা ঘটে এবং নথিতে যা আছে তার ভিত্তিতে বিচার করতে হবে—লেবেল, এককালীন হস্তান্তর বা মানচিত্রে নেই এমন দাবি দিয়ে নয়। মূল্যায়নের সময়কার মানচিত্র ও নথির সঙ্গে তারা তুলনা করবেন। বণ্টনের সূত্র বা সংখ্যাগত লক্ষ্য না থাকাকে মূল্যায়ন পিছিয়ে দেওয়ার কারণ করা যাবে না।
+
+মূল্যায়নে অন্তর্ভুক্ত থাকবে:
+
+- **যথেষ্ট ফেরত:** যেখানে প্রাসঙ্গিক, নথিভুক্ত ফেরত-প্রবাহ [আনুপাতিক আন্তঃব্যবস্থা সহায়তা](../../core_05_band_continuity.md#proportionate-cross-system-support)-এ থাকা সহায়তার শ্রেণিগুলি পূরণ করে কি না:
+  - কার্যক্রম চালু রাখা;
+  - সমস্যা মেরামত ও পুনরুদ্ধারের সক্ষমতা;
+  - আশপাশের বাস্তুতন্ত্রে পুনর্বিনিয়োগ; এবং
+  - বাস্তুগত ক্ষতি পূরণ বা পুনরুদ্ধার।
+- **ন্যায্য বণ্টন:** অর্থায়ন ও বণ্টনের সিদ্ধান্তে **অনুচ্ছেদ V-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও টেকসইতা*)-এর ন্যায্য বণ্টনের বিবেচ্য বিষয়গুলি ধরা হয়েছে কি না, বিশেষত ছোট বা বেশি নির্ভরশীল অংশগ্রহণকারীরা অসম বোঝা বহন করছে কি না।
+- **সহায়তার অখণ্ডতা:** সহায়তা মূলত দখল বা কেন্দ্রীভবন (কয়েকজনের হাতে নিয়ন্ত্রণ জমা হওয়া) পাকাপোক্ত করে কি না, অথবা **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহের স্বচ্ছতা*)-এর আবশ্যক স্বচ্ছতা এড়ানোর জন্য সাজানো হয়েছে কি না।
+
+<a id="535-map-and-record-integrity"></a>
+##### 5.3.5 মানচিত্র ও নথির অখণ্ডতা
+
+নির্ভরতার মানচিত্র ও সম্পদ-প্রবাহের নথির ওপর নির্ভর করার আগে প্রত্যয়নে যাচাই করতে হবে যে সেগুলি **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহের স্বচ্ছতা*) পূরণ করে। সেগুলি হতে হবে:
+
+- **সম্পূর্ণ:** যেখানে প্রাসঙ্গিক, উল্লেখযোগ্য ঊর্ধ্বমুখী ও অধোমুখী নির্ভরতা, সম্পদ-প্রবাহ এবং গোপন বা অসম সম্পর্ক অন্তর্ভুক্ত থাকবে।
+- **হালনাগাদ:** পরিবর্তনের গতি ও ব্যবস্থার গুরুত্ব—[§2 ব্যবস্থা-শ্রেণি মূল্যায়ন](#2-system-class-evaluation) অনুযায়ী তার ব্যবস্থা-শ্রেণিসহ—বিবেচনায় যত ঘন ঘন দরকার তত ঘন ঘন হালনাগাদ হবে। শেষ প্রত্যয়নের সময়কার অবস্থা নয়, ব্যবস্থা এখন যেভাবে চলে তা দেখাবে।
+- **নিরীক্ষাযোগ্য:** **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*) অনুযায়ী নিরীক্ষার জন্য উন্মুক্ত থাকবে।
+
+মানচিত্র বা নথি এই পরীক্ষাগুলির যেকোনো একটিতে ব্যর্থ হলে তা ব্যবস্থাটি যথেষ্ট ফিরিয়ে দেয়—এমন সিদ্ধান্তের ভিত্তি হতে পারে না। এই ঘাটতি লিখে রাখতে হবে এবং নিচের *ত্রুটি ও অসামঞ্জস্য* অংশ অনুযায়ী ব্যবস্থা নিতে হবে।
+
+<a id="536-system-class-scaling-and-escalation"></a>
+##### 5.3.6 ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ
+
+ব্যবস্থার শ্রেণি পর্যালোচনার গভীরতা ও পর্যাপ্ততা বিচারের কঠোরতা নির্ধারণ করে। এর ফলে যৌথ আহরণকে কখনোই গুরুত্বহীন ধরা যায় না। বস্তুগততার সূত্র পূরণ হলে:
+
+- সংজ্ঞ প্রাণীদের বেঁচে থাকার জন্য প্রয়োজনীয় যৌথ ভিত্তি—যেমন যৌথ জলাধার বা আঞ্চলিক বিদ্যুৎ গ্রিডের মেরুদণ্ড—ব্যবহারকারী ব্যবস্থাকে নির্ভরতার মানচিত্র ও ফেরত-প্রবাহের সবচেয়ে শক্ত প্রমাণ নথিতে রাখতে হবে।
+- যৌথ প্রমাণীকরণ, স্বাস্থ্য-তথ্যপ্রযুক্তি বা অনুরূপ অবকাঠামোর ওপর নির্ভরশীল ব্যবস্থাকে তার কার্যক্রম কতটা গুরুত্বপূর্ণ তার সঙ্গে সামঞ্জস্য রেখে কী গ্রহণ করে এবং তার সহায়তা যথেষ্ট কি না তা নথিভুক্ত করতে হবে। “আন্তঃকার্যক্ষমতা” নিয়ে অস্পষ্ট স্লোগান গ্রহণযোগ্য নয়।
+- বাস্তবে পরিবর্তন করা যায় না এমন প্রতিষ্ঠানের জন্য কোনো ব্যবস্থা নীরবে অর্থপ্রদান, পরিচয় বা কর্মী-নিয়োগের সংকীর্ণ নিয়ন্ত্রণবিন্দু হয়ে উঠলেও আন্তঃব্যবস্থা পর্যালোচনা এড়ানো যাবে না। এমন হলে প্রত্যয়নে পর্যালোচনা জোরদার করতে হবে এবং [§2 ব্যবস্থা-শ্রেণি মূল্যায়ন](#2-system-class-evaluation) ও [Part B §7 প্রত্যয়নের ফলাফল](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) অনুযায়ী ব্যবস্থার শ্রেণি পুনর্বিবেচনা করতে হবে; বেঁচে থাকার জন্য অপরিহার্য সমন্বয়ে প্রবেশাধিকার নিয়ন্ত্রণ করলে **Class A** পর্যন্ত উন্নীত করতে হবে।
+
+<a id="537-defects-and-misalignment"></a>
+##### 5.3.7 ত্রুটি ও অসামঞ্জস্য
+
+নিচের প্রতিটি বিষয় প্রত্যয়ন-ত্রুটি হিসেবে গণ্য হবে:
+
+- **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহের স্বচ্ছতা*) অনুযায়ী প্রকাশ করা আবশ্যক—এমন উল্লেখযোগ্য নির্ভরতা বা সম্পদ-প্রবাহের তথ্য গোপন, ভুলভাবে উপস্থাপন, খণ্ডিত বা অন্যের ওপর সরিয়ে দেওয়া;
+- নিচের যেকোনো বিষয়কে [আনুপাতিক আন্তঃব্যবস্থা সহায়তা](../../core_05_band_continuity.md#proportionate-cross-system-support) পূরণের জন্য যথেষ্ট বলে ধরা:
+  - প্রতীকী, অস্বচ্ছ, মানচিত্রের বাইরে থাকা বা এককালীন হস্তান্তর;
+  - ব্যবস্থা **অনুচ্ছেদ III-A** (*বেঁচে থাকা*)-এর ন্যূনতম বেঁচে থাকার মান পূরণ করে—এই তথ্য; অথবা
+  - ব্যবস্থা [অধ্যায় এক §11 বাজার কাঠামো](core_01_a_values_principles.md#11-market-structure)-এর বাজার-কেন্দ্রীভবন সীমার মধ্যে থাকে—এই তথ্য;
+- বস্তুগততার সূত্র প্রযোজ্য থাকা সত্ত্বেও বারবার যৌথ ভিত্তি থেকে নেওয়া, কিন্তু আনুপাতিকভাবে ফিরিয়ে না দেওয়া;
+- এমন সহায়তা যা মূলত দখল বা কেন্দ্রীভবন পাকাপোক্ত করে;
+- শর্তযুক্ত এমন সহায়তা যা **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদ-প্রবাহের স্বচ্ছতা*)-এর আবশ্যক স্বচ্ছতাকে পরাস্ত করে; এবং
+- সহায়তার নথিভুক্ত ঘাটতি সাংবিধানিক সামঞ্জস্যকে উল্লেখযোগ্যভাবে বিপন্ন করলেও নির্ভরতা অব্যাহত রাখার প্রত্যয়ন।
+
+
+<a id="54-nondiscrimination-evaluation"></a>
+
+#### 5.4 বৈষম্যহীনতা মূল্যায়ন
+
+<details>
+<summary><strong><span style="color: #2563eb;">উৎস-অনুসরণ</span></strong></summary>
+
+- ঊর্ধ্বতন উৎস: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*নথির বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); অংশগ্রহণ পরিমাপ-পরিবার (*সাংবিধানিক পরিমাপ হিসেবে সারবস্তুগত ন্যায্যতা এবং সুরক্ষিত বৈশিষ্ট্যের প্রক্সি-ব্যবহার ও বৈষম্যমূলক প্রভাব*); **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*); [সারবস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness), [সুরক্ষিত বৈশিষ্ট্য](../../core_05_band_participation.md#protected-characteristics), [সুরক্ষিত বৈশিষ্ট্যের প্রক্সি-ব্যবহার ও বৈষম্যমূলক প্রভাব](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [ভাষা, সংস্কৃতি ও ঐতিহ্য](../../core_05_band_continuity.md#language-culture-and-heritage), [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity), এবং [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) (অধ্যায় পাঁচ)।
+- অধস্তন বিষয়: [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*বৈষম্যহীনতার উদাহরণমূলক বিশ্লেষণ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথির অখণ্ডতা*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-ইনপুটের শর্ত*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*বৈষম্যের ধরনজনিত অসামঞ্জস্য ও প্রক্সি-এড়ানো*)।
+- সঙ্গে পড়ুন: প্রত্যয়ন যদি মঞ্চ, প্রশাসনিক বা প্রয়োগ-সংক্রান্ত প্রবেশাধিকার নিয়ন্ত্রণ করে, তবে **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*)-এর বিচার ও কার্যক্রমগত কর্তব্য; [*বৈষম্যহীনতা, সুরক্ষিত বৈশিষ্ট্য, মর্যাদা, অন্তরঙ্গ-সংকেতের ভিত্তিতে প্রবেশাধিকার নিয়ন্ত্রণ এবং **অনুচ্ছেদ VII-E** (*প্রাপ্তবয়স্কদের সম্মতিমূলক বাণিজ্যিক যৌনসেবা ও যৌন শোষণ*)-এর মর্যাদা*](../../core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination)।
+- উপধারা: [§5.4.1](#541-materiality-trigger-and-governing-rules) (*বস্তুগততার সূত্রপাত ও পরিচালনাকারী বিধি*); [§5.4.2](#542-evaluation-requirement) (*মূল্যায়নের আবশ্যকতা*); [§5.4.3](#543-system-class-scaling-and-escalation) (*ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ*); [§5.4.4](#544-defects-and-misalignment) (*ত্রুটি ও অসামঞ্জস্য*); [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুযায়ী বৈষম্যহীনতার উদাহরণমূলক প্রয়োগ*)।
+
+</details>
+
 <br>
 
-*নথি, মঞ্চ প্রক্রিয়া ও প্রস্থিতি সেতুতে চালিয়ে যান:* [অধ্যায় সাত, অংশ খ — নথি ও প্রক্রিয়া](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) ([§11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) থেকে [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion))।
+*সহজ কথায়: কোনো ব্যবস্থা যখন বস্তুগতভাবে নির্ধারণ করে কে প্রবেশাধিকার পাবে, কে বেশি অর্থ দেবে, কার র‌্যাঙ্ক নিচে থাকবে বা কার ওপর বেশি বোঝা চাপবে, তখন প্রত্যয়নে যাচাই করতে হবে এই ধরনটি সুরক্ষিত বৈশিষ্ট্য বা তার প্রক্সির ওপর ক্ষতি চাপায় কি না—পরিচালক বিধিগুলিকে নিরপেক্ষ বলেছে কি না তা নয়। অন্তর্ভুক্তির কোটা ও নির্দিষ্ট ন্যায্যতা-অ্যালগরিদম অন্য উপকরণে, পরবর্তী কর্পাস সংযোজনে বা গ্রহণ-সংক্রান্ত উপকরণে থাকতে পারে; সূত্র প্রযোজ্য হলে প্রত্যয়ন যাচাই করে বোঝা-সুবিধার ধরন ও প্রক্সি-ঝুঁকি যথাযথভাবে মূল্যায়িত হয়েছে কি না। উদাহরণ: [§5.4.5 ব্যবস্থা-শ্রেণি অনুযায়ী বৈষম্যহীনতার উদাহরণমূলক প্রয়োগ (অসম্পূর্ণ তালিকা)](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)।*
+
+<a id="541-materiality-trigger-and-governing-rules"></a>
+##### 5.4.1 বস্তুগততার সূত্রপাত ও পরিচালনাকারী বিধি
+
+বস্তুগত প্রভাবসম্পন্ন কোনো ব্যবস্থা সংজ্ঞ প্রাণীদের মধ্যে বস্তুগতভাবে শ্রেণিবিন্যাস, র‌্যাঙ্কিং, মূল্য নির্ধারণ, প্রবেশাধিকার নিয়ন্ত্রণ, বর্জন, অথবা বোঝা ও সুবিধা বণ্টন করলে—যোগ্যতার বিধি, মডেলের বৈশিষ্ট্য, র‌্যাঙ্কিংয়ের যুক্তি, প্ল্যাটফর্ম নীতি বা তুলনীয় সিদ্ধান্ত-পথের মাধ্যমে হলেও—এই ধারা প্রযোজ্য।
+
+বস্তুগততার সূত্র প্রযোজ্য হলে ব্যবস্থা-সামঞ্জস্য প্রত্যয়নে **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*), [সারবস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness), এবং [সুরক্ষিত বৈশিষ্ট্যের প্রক্সি-ব্যবহার ও বৈষম্যমূলক প্রভাব](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)-এর অধীনে **বৈষম্যহীনতা** মূল্যায়ন করতে হবে।
+
+<a id="542-evaluation-requirement"></a>
+##### 5.4.2 মূল্যায়নের আবশ্যকতা
+
+প্রত্যয়ন-প্রক্রিয়ায় নির্ধারণ করতে হবে, ব্যবস্থায় বস্তুগতভাবে নির্ভর করা সিদ্ধান্ত-পথগুলি সংজ্ঞ প্রাণীদের ওপর [সুরক্ষিত বৈশিষ্ট্য](../../core_05_band_participation.md#protected-characteristics), সেগুলির প্রক্সি, অথবা কার্যগত বিকল্প হিসেবে ব্যবহৃত স্বেচ্ছাচারী গোষ্ঠীবিভাগের ভিত্তিতে বস্তুগত বোঝা, বর্জন বা ক্ষতি চাপায় কি না। এর মধ্যে [ভাষা, সংস্কৃতি ও ঐতিহ্য](../../core_05_band_continuity.md#language-culture-and-heritage)-এর অধীনে বিশেষ সুরক্ষাও অন্তর্ভুক্ত। মূল্যায়নে [সারবস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness) অনুযায়ী বোঝা-সুবিধার ধরন এবং [সুরক্ষিত বৈশিষ্ট্যের প্রক্সি-ব্যবহার ও বৈষম্যমূলক প্রভাব](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) অনুযায়ী প্রক্সি বা বৈষম্যমূলক প্রভাবের ঝুঁকি পরীক্ষা করতে হবে; মাত্রা নির্ধারিত হবে [বস্তুগত বাজি](core_00_preamble.md#material-stake) অনুযায়ী। পৃথক আচরণ কেবল নথিভুক্ত [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity), [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) এবং সারবস্তুগত ন্যায্যতা সেটিকে সমর্থন করলেই গ্রহণযোগ্য। মূল্যায়নে নামমাত্র নিরপেক্ষতা, ঘোষিত অভিপ্রায় বা শুধু লেবেল নয়, কার্যগত প্রভাব প্রতিফলিত হতে হবে।
+
+<a id="543-system-class-scaling-and-escalation"></a>
+##### 5.4.3 ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ
+
+ব্যবস্থা-শ্রেণি মূল্যায়নের গভীরতা বদলায়; র‌্যাঙ্কিং বা বোঝা অন্যের ওপর চাপানোকে গুরুত্বহীন গণ্য করার অনুমতি দেয় না। বস্তুগততার সূত্র প্রযোজ্য হলে:
+
+- কোনো ব্যবস্থার বন্ধ করে দেওয়া, বিজ্ঞপ্তি বা তুলনীয় বিধি যদি বেঁচে থাকার অপরিহার্য উপাদানে প্রবেশাধিকার বন্ধ করে দিতে পারে, তবে সাধারণ উত্তম-চর্চার বিবৃতির বদলে নথিতে বোঝা-সুবিধা এবং প্রক্সি-সম্পর্কিত সবচেয়ে শক্ত বিশ্লেষণ থাকতে হবে।
+- কোনো ব্যবস্থার মিলকরণ বা প্রবাহ-নির্দেশের যুক্তি জরুরি চিকিৎসা, সুবিধা বা সনদে প্রবেশাধিকারকে প্রভাবিত করলে, কার্যক্রমের সংকটপূর্ণতার সমপর্যায়ে বৈষম্যমূলক প্রভাব ও সারবস্তুগত ন্যায্যতার অনুসন্ধান নথিভুক্ত করতে হবে।
+- পালা, সরবরাহকারী বা বুকিংয়ের যুক্তি অংশগ্রহণকারীদের বস্তুগতভাবে র‌্যাঙ্ক বা বাদ দিলেও ব্যবস্থা যেন নামমাত্র ন্যায্যতার অনুচ্ছেদ রেখে দিতে না পারে। সমন্বয় বেঁচে থাকার জন্য অপরিহার্য হয়ে উঠলে প্রত্যয়নে পর্যালোচনা ও পুনঃশ্রেণিবিন্যাস [§2 ব্যবস্থা-শ্রেণি মূল্যায়ন](#2-system-class-evaluation) এবং [Part B §7 প্রত্যয়নের ফলাফল](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) অনুযায়ী উন্নীত করতে হবে; কর্মী-নিয়োগ বা জরুরি প্রবাহ-নির্দেশে প্রবেশাধিকার আটকে থাকলে **Class A**-এর দিকে উন্নীত করাও এর অন্তর্ভুক্ত।
+
+<a id="544-defects-and-misalignment"></a>
+##### 5.4.4 ত্রুটি ও অসামঞ্জস্য
+
+নিচের প্রতিটি বিষয় প্রত্যয়ন-ত্রুটি হিসেবে গণ্য হবে:
+
+- **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*) অনুযায়ী পর্যালোচনা করা আবশ্যক—এমন বস্তুগত শ্রেণিবিন্যাস, র‌্যাঙ্কিং বা বোঝা-বণ্টনের যুক্তি অস্পষ্ট, ভুলভাবে উপস্থাপন, খণ্ডিত বা অন্যের ওপর চাপিয়ে দেওয়া;
+- মূল্যায়নযোগ্য বোঝা-সুবিধা বিশ্লেষণ ছাড়া বাহ্যিকভাবে নিরপেক্ষ নিয়ম, সামগ্রিক সুবিধার পরিমাপ বা পরিচালকের নিজের বিবৃতিকে যথেষ্ট বলে ধরা;
+- নথিভুক্ত প্রক্সি-ভিত্তিক বৈষম্য বা সারবস্তুগত অন্যায্যতা সাংবিধানিক সামঞ্জস্যকে বস্তুগতভাবে বিপন্ন করলেও নির্ভরতা অব্যাহত রাখার প্রত্যয়ন; এবং
+- **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*)-এর **প্রয়োজনীয়তা** ও **আনুপাতিকতা** পরীক্ষা পূরণ না করেই ভাষা, সংস্কৃতি বা ঐতিহ্যের সুরক্ষা নাকচ করতে সমরূপীকরণ, আন্তঃকার্যক্ষমতা বা দক্ষতার যুক্তি ব্যবহার করা।
+
+
+<a id="55-accessibility-evaluation"></a>
+
+#### 5.5 প্রবেশগম্যতা মূল্যায়ন
+
+<details>
+<summary><strong><span style="color: #2563eb;">উৎস-অনুসরণ</span></strong></summary>
+
+- ঊর্ধ্বতন উৎস: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*নথির বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); অংশগ্রহণ পরিমাপ-পরিবার (*সাংবিধানিক পরিমাপ হিসেবে প্রবেশগম্যতা*); **অনুচ্ছেদ VI-D** (*প্রবেশগম্যতা*); [প্রবেশগম্যতা](../../core_05_band_participation.md#accessibility), [বস্তুগততা](core_05_band_oversight.md#materiality), [নির্ভরতা](../../core_05_band_continuity.md#dependency), [অর্থবহ স্বায়ত্তশাসন](../../core_05_band_participation.md#meaningful-agency), [সুরক্ষিত বৈশিষ্ট্য](../../core_05_band_participation.md#protected-characteristics), [সুরক্ষিত বৈশিষ্ট্যের প্রক্সি-ব্যবহার ও বৈষম্যমূলক প্রভাব](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [সারবস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness), [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity), এবং [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) (অধ্যায় পাঁচ)।
+- অধস্তন বিষয়: [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*প্রবেশগম্যতার উদাহরণমূলক বিশ্লেষণ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথির অখণ্ডতা*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-ইনপুটের শর্ত*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*প্রবেশগম্যতাজনিত অসামঞ্জস্য ও কাগজে-কলমে থাকা ব্যবস্থা*)।
+- সঙ্গে পড়ুন: শিক্ষাগত প্রবেশগম্যতা জড়িত হলে **অনুচ্ছেদ IV-A** (*সমান শিক্ষাগত প্রবেশাধিকার*)—শিক্ষা-নির্দিষ্ট প্রবেশগম্যতার দায় সেখানেই থাকে; **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*) (বিচার ও কার্যক্রম) এবং **অনুচ্ছেদ XII** (*প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*), যেখানে প্রত্যয়ন মঞ্চ, প্রশাসনিক, অংশীজন বা প্রয়োগ-সংক্রান্ত অংশগ্রহণ নিয়ন্ত্রণ করে; [অধ্যায় আট §5.5](#55-accessibility-evaluation) (*সর্বক্ষেত্রব্যাপী প্রবেশগম্যতা মূল্যায়ন-কারক*)।
+- উপধারা: [§5.5.1](#551-materiality-trigger-and-governing-rules) (*বস্তুগততার সূত্রপাত ও পরিচালনাকারী বিধি*); [§5.5.2](#552-evaluation-requirement) (*মূল্যায়নের আবশ্যকতা*); [§5.5.3](#553-profiles-in-scope) (*অন্তর্ভুক্ত প্রোফাইল*); [§5.5.4](#554-system-class-scaling-and-escalation) (*ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ*); [§5.5.5](#555-defects-and-misalignment) (*ত্রুটি ও অসামঞ্জস্য*); [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুযায়ী প্রবেশগম্যতার উদাহরণমূলক প্রয়োগ*)।
+
+</details>
+
+<br>
+
+*সহজ কথায়: কোনো ব্যবস্থা যখন সংজ্ঞ প্রাণীদের বাস্তবে অংশ নিতে পারা বস্তুগতভাবে নিয়ন্ত্রণ করে—শুধু দরজায় “খোলা” লেখা আছে কি না তা নয়—তখন প্রত্যয়নে যাচাই করতে হবে সংবেদন, জ্ঞানীয় সক্ষমতা, চলন, যোগাযোগ, সাবস্ট্রেট-ইন্টারফেস এবং তুলনীয় প্রয়োজন জুড়ে অংশগ্রহণ সত্যিই নাগালে আছে কি না। উপযোজনের তালিকা ও ইন্টারফেস মান অন্য উপকরণে, পরবর্তী কর্পাস সংযোজনে বা গ্রহণ-সংক্রান্ত উপকরণে থাকতে পারে; সূত্র প্রযোজ্য হলে প্রত্যয়ন যাচাই করে সারবস্তুগত অংশগ্রহণ যথাযথভাবে মূল্যায়িত হয়েছে কি না। উদাহরণ: [§5.5.6 ব্যবস্থা-শ্রেণি অনুযায়ী প্রবেশগম্যতার উদাহরণমূলক প্রয়োগ (অসম্পূর্ণ তালিকা)](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive)।*
+
+<a id="551-materiality-trigger-and-governing-rules"></a>
+##### 5.5.1 বস্তুগততার সূত্রপাত ও পরিচালনাকারী বিধি
+
+সংজ্ঞ প্রাণীদের জীবনে বড় প্রভাব ফেলে এমন কোনো ব্যবস্থা সংবিধান-সুরক্ষিত কোনো ক্ষেত্রে তারা সত্যিই অংশ নিতে পারবে কি না তা নিয়ন্ত্রণ করলে এই ধারা প্রযোজ্য; যেমন:
+
+- শাসন, অংশীজনের অংশগ্রহণ, বিচার ও কার্যক্রম;
+- বেঁচে থাকার অপরিহার্য উপাদান ও স্বাস্থ্যসেবা;
+- মতপ্রকাশ, সমাবেশ ও সংবাদমাধ্যম; অথবা
+- তুলনীয় ক্ষেত্র।
+
+এই নিয়ন্ত্রণ আসতে পারে:
+
+- ইন্টারফেস, স্থান বা সময়সূচির মাধ্যমে;
+- সনদ বা গণনাশক্তিতে প্রবেশাধিকারের মাধ্যমে;
+- উপযোজন কীভাবে নকশা করা হয়েছে তার মাধ্যমে; অথবা
+- অনুরূপ পথের মাধ্যমে।
+
+শিক্ষায় প্রবেশগম্যতা **অনুচ্ছেদ IV-A** (*সমান শিক্ষাগত প্রবেশাধিকার*)-এর অধীনেই থাকে; এখানে কোনো কিছুই তা সীমিত করে না।
+
+এটি প্রযোজ্য হলে **অনুচ্ছেদ VI-D** (*প্রবেশগম্যতা*) এবং [প্রবেশগম্যতা](../../core_05_band_participation.md#accessibility)-এর অধীনে প্রত্যয়নে **প্রবেশগম্যতা** মূল্যায়ন করতে হবে। এই ধারা নির্ধারণ করে না:
+
+- উপযোজনের তালিকা;
+- ইন্টারফেস মান;
+- সর্বজনীন-নকশার নির্দিষ্টকরণ; অথবা
+- দৈনন্দিন উপযোজন-প্রক্রিয়া।
+
+সম্ভাব্যভাবে অন্তর্ভুক্ত অন্য নথিতে সেগুলি থাকে।
+
+<a id="552-evaluation-requirement"></a>
+##### 5.5.2 মূল্যায়নের আবশ্যকতা
+
+ব্যবস্থা যেসব ক্ষেত্র নিয়ন্ত্রণ করে সেখানে সংজ্ঞ প্রাণীরা সত্যিই অংশ নিতে পারে কি না প্রত্যয়নে যাচাই করতে হবে—শুধু আনুষ্ঠানিক বৈশিষ্ট্য, পূর্বনির্ধারিত ইন্টারফেস বা কাগজে থাকা উপযোজন আছে কি না তা নয়। [প্রবেশগম্যতা](../../core_05_band_participation.md#accessibility) অনুযায়ী অংশগ্রহণের বাস্তব প্রভাব পরীক্ষা করতে হবে; মাত্রা হবে [বস্তুগততা](core_05_band_oversight.md#materiality) ও [নির্ভরতা](../../core_05_band_continuity.md#dependency) অনুসারে।
+
+পর্যালোচকদের নজর দিতে হবে:
+
+- শুধু কাগজে থাকা উপযোজন;
+- “সাধারণ প্রবেশাধিকার”-এর দাবি, যা পূর্বনির্ধারিত বৈশিষ্ট্যের ওপর নির্ভর করে কিন্তু কাউকে অংশ নেওয়ার বাস্তব সক্ষমতা দেয় না;
+- ব্যবস্থা কেবল আংশিকভাবে বস্তুগত—এই যুক্তি দিয়ে তার উপযোজনের দায় সংকুচিত করা;
+- [সংজ্ঞ প্রাণীকে বর্জন না করা](../../core_05_band_participation.md#sentience-non-exclusion)-র সঙ্গে সাংঘর্ষিক বর্জন; এবং
+- সময়সূচি, স্থান নির্বাচন, সনদ প্রদান, গণনাশক্তিতে প্রবেশাধিকার বা অনুরূপ কৌশলের মাধ্যমে পরোক্ষভাবে সংজ্ঞ প্রাণীদের বাদ দেওয়া (প্রক্সির মাধ্যমে অস্বীকৃতি)।
+
+উপযোজন কীভাবে নকশা করা হয়েছে তাতেও প্রত্যয়নে [সুরক্ষিত বৈশিষ্ট্য](../../core_05_band_participation.md#protected-characteristics) এবং [সুরক্ষিত বৈশিষ্ট্যের প্রক্সি-ব্যবহার ও বৈষম্যমূলক প্রভাব](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) প্রয়োগ করতে হবে। উপযোজনে যেকোনো সীমা নথিভুক্ত হতে হবে এবং [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity), [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality), এবং [সারবস্তুগত ন্যায্যতা](../../core_05_band_participation.md#substantive-fairness) পূরণ করতে হবে।
+
+<a id="553-profiles-in-scope"></a>
+##### 5.5.3 অন্তর্ভুক্ত প্রোফাইল
+
+কাগজে-কলমে বিধি মানা নয়, প্রতিটি সংজ্ঞ প্রাণীর ধরন ও সক্ষমতা-প্রোফাইলের জন্য বাস্তব অংশগ্রহণ পরীক্ষা করতে হবে:
+
+- প্রাসঙ্গিক প্রতিটি প্রোফাইল-শ্রেণি অন্তর্ভুক্ত করতে হবে: সংবেদন, জ্ঞানীয় সক্ষমতা, চলন, যোগাযোগ, **সাবস্ট্রেট-ইন্টারফেস**, এবং **গণনাশক্তি-ইন্টারফেস**।
+- প্রোফাইল **স্থায়ী**, **পর্বভিত্তিক** বা **বিকাশমান**—যাই হোক, একই শর্ত প্রযোজ্য।
+- নির্দিষ্ট ক্ষতিগ্রস্ত প্রোফাইলকে ব্যর্থ করে এমন বিস্তৃত সমষ্টিগত প্রাপ্যতার দাবি করা **সাধারণ প্রবেশাধিকার**-এর ধরন, অথবা অংশগ্রহণের ন্যূনতম মান ব্যর্থ করাই যার ফল এমন **বাছাইমূলক বস্তুগততা-অনুযায়ী মাত্রা নির্ধারণ**, এই ধারা পূরণ করে না।
+
+<a id="554-system-class-scaling-and-escalation"></a>
+##### 5.5.4 ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ
+
+ব্যবস্থা-শ্রেণি মূল্যায়ন কতটা গভীর হবে তা বদলায়। এর ফলে কাগজে থাকা উপযোজন বা পূর্বনির্ধারিত ইন্টারফেসকে কখনোই যথেষ্ট ধরা যায় না। বস্তুগততার সূত্র প্রযোজ্য হলে:
+
+- ব্যবস্থার বিলিং বা পরিষেবা-বিচ্ছিন্নতার পথ সংজ্ঞ প্রাণীদের বেঁচে থাকার অপরিহার্য উপাদান থেকে বিচ্ছিন্ন করতে পারলে, নথিতে সংজ্ঞ প্রাণীরা সত্যিই অংশ নিতে পারে তার সবচেয়ে শক্ত প্রমাণ থাকতে হবে। সাধারণ প্রবেশগম্যতা-বিবৃতি যথেষ্ট নয়।
+- কোনো ব্যবস্থার পোর্টাল স্বাস্থ্যসেবায় প্রবেশাধিকার নিয়ন্ত্রণ করলে, উপযোজন এবং প্রক্সির মাধ্যমে অস্বীকৃতি বিষয়ে তার অনুসন্ধান নথিভুক্ত করতে হবে। কার্যক্রম যত বেশি সংকটপূর্ণ, বিস্তারিতও তত বেশি হতে হবে।
+- পালা, বুকিং বা সরবরাহকারীর ইন্টারফেসে অংশগ্রহণকারীরা বস্তুগতভাবে বাদ পড়লেও ব্যবস্থা প্রবেশগম্যতা নিয়ে নামমাত্র একটি অনুচ্ছেদ দিয়ে পার পেতে পারে না। ব্যবস্থার সমন্বয় বেঁচে থাকার জন্য অপরিহার্য হলে প্রত্যয়নে পর্যালোচনা আরও গভীর করতে হবে এবং [§2 ব্যবস্থা-শ্রেণি মূল্যায়ন](#2-system-class-evaluation) ও [Part B §7 প্রত্যয়নের ফলাফল](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) অনুযায়ী ব্যবস্থার শ্রেণি পুনর্বিবেচনা করতে হবে। কর্মী-নিয়োগ বা জরুরি প্রবাহ-নির্দেশে প্রবেশাধিকার আটকে থাকলে **Class A**-এর দিকে উন্নীত করাও এর অন্তর্ভুক্ত।
+
+<a id="555-defects-and-misalignment"></a>
+##### 5.5.5 ত্রুটি ও অসামঞ্জস্য
+
+নিচের প্রতিটি বিষয় প্রত্যয়ন-ত্রুটি হিসেবে গণ্য হবে:
+
+- সারবস্তুগত অংশগ্রহণের মূল্যায়নযোগ্য বিশ্লেষণ ছাড়া আনুষ্ঠানিক সুবিধা, পূর্বনির্ধারিত ইন্টারফেস বা কাগজে থাকা উপযোজনকে যথেষ্ট বলে ধরা;
+- অংশগ্রহণের নথিভুক্ত বাধা সাংবিধানিক সামঞ্জস্যকে বস্তুগতভাবে বিপন্ন করলেও নির্ভরতা অব্যাহত রাখার প্রত্যয়ন;
+- **অনুচ্ছেদ VI-D** (*প্রবেশগম্যতা*)-এর **প্রয়োজনীয়তা** ও **আনুপাতিকতা** পরীক্ষা পূরণ না করেই খরচ, নকশার পছন্দ, সাবস্ট্রেট-শ্রেণি বা কার্যক্রমের ব্যাপ্তির যুক্তিতে অংশগ্রহণের ন্যূনতম মান নাকচ করা; এবং
+- কম বোঝার বিকল্প সম্ভব থাকা সত্ত্বেও কার্যক্রমগত নকশার ফলে প্রবেশগম্যতা ব্যর্থ হওয়া।
+
+
+<a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+
+#### 5.6 বিশ্বাসযোগ্যতা ও ব্যবস্থার ওপর নির্ভরতার অখণ্ডতা মূল্যায়ন
+
+<details>
+<summary><strong><span style="color: #2563eb;">উৎস-অনুসরণ</span></strong></summary>
+
+- ঊর্ধ্বতন উৎস: [Part B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*নথির বিষয়বস্তু*); [§2](#2-system-class-evaluation) (*ব্যবস্থা-শ্রেণি মূল্যায়ন*); তত্ত্বাবধান পরিমাপ-পরিবার (*সত্য ও জ্ঞানগত অখণ্ডতা; সাংবিধানিক পরিমাপ হিসেবে বিশ্বাসযোগ্যতা এবং বিশ্বাসের অবক্ষয় ও বিভ্রান্তিকর নির্ভরতা*); **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*); [বিশ্বাসযোগ্যতা](../../core_05_band_continuity.md#trustworthiness), [বিশ্বাস](../../core_05_band_continuity.md#trust), [বিশ্বাসের অবক্ষয় ও বিভ্রান্তিকর নির্ভরতা](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability), [প্রতিকার ও সংশোধন](../../core_05_band_accountability.md#redress-and-remediation), [প্রণোদনার সামঞ্জস্য](../../core_05_band_integrative.md#incentive-alignment), [প্রত্যাবর্তনযোগ্যতা](../../core_05_band_continuity.md#reversibility), [বস্তুগততা](core_05_band_oversight.md#materiality), [নির্ভরতা](../../core_05_band_continuity.md#dependency), এবং [ঝুঁকি](../../core_05_band_continuity.md#risk) (অধ্যায় পাঁচ)।
+- অধস্তন বিষয়: [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*বিশ্বাসযোগ্যতার উদাহরণমূলক বিশ্লেষণ*); [Part B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*নথির অখণ্ডতা*); [Part B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*যাচাইকৃত-ইনপুটের শর্ত*); [Part B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*মিথ্যা-আস্থাজনিত অসামঞ্জস্য, বিকৃত প্রণোদনাজনিত অসামঞ্জস্য এবং পুনরুদ্ধারের অখণ্ডতাজনিত অসামঞ্জস্য*)।
+- সঙ্গে পড়ুন: **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*) এবং **অনুচ্ছেদ XIII-B** (*প্রতিকার ও প্রতিপূরণের অধিকার*) এবং **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)—চ্যালেঞ্জ ও নিরীক্ষার অধিকার সেখানেই থাকে; উচ্চ-স্বায়ত্তশাসিত ব্যবস্থা যখন বস্তুগতভাবে শাসন বা যাচাইয়ের পথ পরিচালনা করে তখন **অনুচ্ছেদ XIII-E** (*উচ্চ-স্বায়ত্তশাসিত ব্যবস্থা ও সরঞ্জাম-পরিচালিত প্রক্রিয়ার অখণ্ডতা*); ব্যবস্থার ওপর নির্ভরতা অব্যাহত থাকলে বেঁচে থাকার অপরিহার্য প্রবেশাধিকার প্রভাবিত হবে এমন ক্ষেত্রে **অনুচ্ছেদ III-A** (*বেঁচে থাকা*); [অধ্যায় এক §6 বিশ্বাস](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) এবং [অধ্যায় এক §5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)।
+- উপধারা: [§5.6.1](#561-materiality-trigger-and-governing-rules) (*বস্তুগততার সূত্রপাত ও পরিচালনাকারী বিধি*); [§5.6.2](#562-evaluation-requirement) (*মূল্যায়নের আবশ্যকতা*); [§5.6.3](#563-system-class-scaling-and-escalation) (*ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ*); [§5.6.4](#564-defects-and-misalignment) (*ত্রুটি ও অসামঞ্জস্য*); [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*ব্যবস্থা-শ্রেণি অনুযায়ী বিশ্বাসযোগ্যতার উদাহরণমূলক প্রয়োগ*)।
+
+</details>
+
+<br>
+
+*সহজ কথায়: কোনো ব্যবস্থা কী বলে ও করে তা সংজ্ঞ প্রাণীরা বিশ্বাস করতে পারে কি না—এবং সেই বিশ্বাস ভঙ্গ হলে আপত্তি জানাতে পারে কি না—তা যখন কোনো ব্যবস্থা বস্তুগতভাবে প্রভাবিত করে, তখন প্রত্যয়নে যাচাই করতে হবে নির্ভরতা যথার্থ, সৎভাবে প্রকাশিত এবং মেরামতযোগ্য কি না। নির্ভরযোগ্যতার পরিমাপ ও পরীক্ষাসমষ্টির নকশা অন্য উপকরণে থাকে; সূত্র প্রযোজ্য হলে প্রত্যয়ন যাচাই করে বিশ্বাসযোগ্যতা, মিথ্যা-আস্থার ঝুঁকি এবং চ্যালেঞ্জের পথ যথাযথভাবে মূল্যায়িত হয়েছে কি না। উদাহরণ: [§5.6.5 ব্যবস্থা-শ্রেণি অনুযায়ী বিশ্বাসযোগ্যতার উদাহরণমূলক প্রয়োগ (অসম্পূর্ণ তালিকা)](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive)।*
+
+<a id="561-materiality-trigger-and-governing-rules"></a>
+##### 5.6.1 বস্তুগততার সূত্রপাত ও পরিচালনাকারী বিধি
+
+কোনো বড় ব্যবস্থা মানুষকে কোন বিষয়ে তার ওপর নির্ভর করতে হবে তা গড়ে দিলে—তার কাজ, সীমা, কী ভুল হতে পারে, কীভাবে চ্যালেঞ্জ করতে হবে এবং সমস্যা কীভাবে মেরামত হবে—এই ধারা প্রযোজ্য। এমনটি ঘটতে পারে:
+
+- ব্যবস্থাটি কতটা নির্ভরযোগ্য সে বিষয়ে দাবি;
+- কী প্রকাশ করে বা করে না;
+- বাস্তবে কীভাবে চলে;
+- এর মধ্যে গড়ে দেওয়া প্রণোদনা;
+- ব্যর্থতা থেকে কীভাবে সেরে ওঠে; অথবা
+- মানুষ কীভাবে এর ওপর নির্ভরশীল হয়ে পড়ে তার অনুরূপ কোনো উপায়ে।
+
+বস্তুগততার সূত্র প্রযোজ্য হলে ব্যবস্থা-সামঞ্জস্য প্রত্যয়নে **বিশ্বাসযোগ্যতা ও ব্যবস্থার ওপর নির্ভরতার অখণ্ডতা** নিচের বিধির অধীনে মূল্যায়ন করতে হবে:
+
+- **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*);
+- [বিশ্বাসযোগ্যতা](../../core_05_band_continuity.md#trustworthiness); এবং
+- [বিশ্বাসের অবক্ষয় ও বিভ্রান্তিকর নির্ভরতা](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance)।
+
+<a id="562-evaluation-requirement"></a>
+##### 5.6.2 মূল্যায়নের আবশ্যকতা
+
+**অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*) অনুযায়ী ব্যবস্থাটিকে [বিশ্বাস](../../core_05_band_continuity.md#trust) করার যথার্থ কারণ মানুষের আছে কি না এবং তারা সঠিকভাবে তার ওপর নির্ভর করতে পারে কি না প্রত্যয়ন-প্রক্রিয়ায় যাচাই করতে হবে।
+
+মূল্যায়নে আরও পরীক্ষা করতে হবে:
+
+- মানুষ বাস্তবে ব্যবস্থাটিকে চ্যালেঞ্জ করতে, সিদ্ধান্ত পর্যালোচনা করাতে ও সমাধান পেতে পারে কি না—শুধু কাগজে-কলমে নয় (**অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*) এবং **অনুচ্ছেদ XIII-B** (*প্রতিকার ও প্রতিপূরণের অধিকার*));
+- কৃত্রিমভাবে তৈরি আস্থা বা অপ্রকাশিত সীমাসহ বিভিন্ন উপায়ে মানুষকে ভুলভাবে বিশ্বাস বা নির্ভর করতে বিভ্রান্ত করা হতে পারে কি না (**অনুচ্ছেদ XIII-C** (*মিথ্যা আস্থা ও বিভ্রান্তিকর নির্ভরতার নিষেধাজ্ঞা*));
+- এর প্রণোদনা প্রতারণা বা কাজের মান কমিয়ে দেওয়াকে পুরস্কৃত করে কি না (**অনুচ্ছেদ XIII-D** (*প্রণোদনা-সামঞ্জস্যের সীমাবদ্ধতা*)); এবং
+- প্রাসঙ্গিক ক্ষেত্রে ব্যর্থতা আড়াল না করে বা নীরবে কারও অধিকার সংকুচিত না করে এটি সৎভাবে ব্যর্থতা থেকে সেরে উঠতে পারে কি না (**অনুচ্ছেদ XIII-F** (*স্থিতিস্থাপকতা ও স্ব-নিরাময়ের ভিত্তি*))।
+
+পরীক্ষার মাত্রা হবে [বস্তুগততা](core_05_band_oversight.md#materiality), [নির্ভরতা](../../core_05_band_continuity.md#dependency), এবং [ঝুঁকি](../../core_05_band_continuity.md#risk) অনুযায়ী।
+
+মূল্যায়নে সময়, ব্যাপ্তি ও নির্ভরতা জুড়ে কার্যগত প্রভাব প্রতিফলিত হতে হবে; নিচের বিষয়গুলি নয়:
+
+- সুনাম, আকার বা বিপণন;
+- নামমাত্র নিশ্চয়তার লেবেল;
+- বিশ্বাসযোগ্যতা নিয়ে নামমাত্র অনুচ্ছেদ, যখন নির্ভরযোগ্যতার ব্যাজ বা সরবরাহকারীর স্কোরই বাস্তবে নির্ধারণ করে কাকে নিয়োগ দেওয়া হবে বা কী কেনা হবে;
+- ঘোষিত অভিপ্রায়; অথবা
+- শুধু অতীতের কার্যসম্পাদন।
+
+<a id="563-system-class-scaling-and-escalation"></a>
+##### 5.6.3 ব্যবস্থা-শ্রেণি অনুযায়ী মাত্রা ও উন্নীতকরণ
+
+পর্যালোচনার গভীরতা ব্যবস্থার শ্রেণির ওপর নির্ভর করে। বস্তুগততার সূত্র প্রযোজ্য হলে:
+
+- কোনো ব্যবস্থার পাঠ, সতর্কবার্তা বা পুনরুদ্ধার-সংক্রান্ত দাবি পরিবার বা পরিচালকদের বেঁচে থাকার অপরিহার্য উপাদান সম্পর্কে বিভ্রান্ত করতে পারলে, নথিতে শুধু ব্যবস্থা নির্ভরযোগ্য—এমন দাবি নয়, শক্ত প্রমাণ থাকতে হবে। প্রমাণে দেখাতে হবে যে:
+  - মানুষ ব্যবস্থাটিকে বিশ্বাস করতে পারে;
+  - মানুষ মিথ্যা আশ্বাস পাবে না; এবং
+  - ব্যবস্থা ব্যর্থতা থেকে সৎভাবে সেরে ওঠে।
+- কোনো ব্যবস্থার সচলতার সময়, মিলকরণ বা জরুরি ব্যতিক্রম (“ব্রেক-গ্লাস” প্রবেশাধিকার) সংক্রান্ত দাবি মানুষ চিকিৎসা বা জরুরি পরিষেবা পাবে কি না নিয়ন্ত্রণ করলে, ব্যবস্থা কতটা সংকটপূর্ণ তার সঙ্গে সামঞ্জস্য রেখে নথিতে বিস্তারিতভাবে দেখাতে হবে:
+  - মানুষ কীভাবে ওই দাবিগুলিকে চ্যালেঞ্জ করতে পারে; এবং
+  - সেগুলির ওপর নির্ভর করতে মানুষ বিভ্রান্ত হতে পারে কি না।
+- সমন্বয় বেঁচে থাকার জন্য অপরিহার্য হয়ে উঠলে প্রত্যয়নে পর্যালোচনা উন্নীত করতে হবে এবং [§2 ব্যবস্থা-শ্রেণি মূল্যায়ন](#2-system-class-evaluation) ও [Part B §7 প্রত্যয়নের ফলাফল](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) অনুযায়ী ব্যবস্থার শ্রেণি পুনর্বিবেচনা করতে হবে। বেঁচে থাকার জন্য প্রয়োজনীয় সমন্বয় থেকে বিভ্রান্তিকর নির্ভরতা মানুষকে বিচ্ছিন্ন করতে পারে—এমন হলে ব্যবস্থাকে **Class A**-এর দিকে উন্নীত করতে হতে পারে।
+
+<a id="564-defects-and-misalignment"></a>
+##### 5.6.4 ত্রুটি ও অসামঞ্জস্য
+
+নিচের প্রতিটি বিষয় প্রত্যয়ন-ত্রুটি হিসেবে গণ্য হবে:
+
+- **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) অনুযায়ী পর্যালোচনা আবশ্যক—এমন বস্তুগত সীমা, ঝুঁকি বা ব্যর্থতার ইতিহাস অস্পষ্ট, ভুলভাবে উপস্থাপন, খণ্ডিত বা অন্যের ওপর চাপিয়ে দেওয়া;
+- মূল্যায়নযোগ্য [বিশ্বাসযোগ্যতা](../../core_05_band_continuity.md#trustworthiness) বিশ্লেষণ ছাড়া সুনাম, সমর্থন, ব্যাপ্তি বা পরিচালকের নিজের বিবৃতিকে যথেষ্ট বলে ধরা;
+- নথিভুক্ত মিথ্যা আস্থা, বিকৃত প্রণোদনা, প্রবেশ-অযোগ্য চ্যালেঞ্জের পথ বা ব্যর্থতা আড়াল করা পুনরুদ্ধার-প্রক্রিয়া সাংবিধানিক সামঞ্জস্যকে বস্তুগতভাবে বিপন্ন করলেও নির্ভরতা অব্যাহত রাখার প্রত্যয়ন; এবং
+- **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*)-এর নির্ভরযোগ্যতা এবং **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*)-এর চ্যালেঞ্জ-সংক্রান্ত শৃঙ্খলা পূরণ না করেই প্রকাশ, চ্যালেঞ্জ-যোগ্যতা বা প্রতিকার নাকচ করতে দক্ষতা, উদ্ভাবন বা নিরাপত্তার যুক্তি ব্যবহার করা।
+
+<br>
+
+*মঞ্চ-প্রক্রিয়া, নথি, ফলাফল ও প্রস্থিতি-সেতুতে এগিয়ে যান:* [অধ্যায় আট, Part B — নথি ও প্রক্রিয়া](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-system-alignment-certification--record-and-process) ([§6 মঞ্চ-প্রক্রিয়া](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) থেকে [§10 প্রস্থিতির সঙ্গে সম্পর্ক](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing))।
+
+*প্রতিটি মূল্যায়ন ক্ষেত্রের উদাহরণ:* [অধ্যায় আট, Part C — উদাহরণ](../../core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations)।
+
 ---
 
 **আগের ফাইল (এই ভাষায়):** [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md#chapter-seven-system-alignment-certification-index)

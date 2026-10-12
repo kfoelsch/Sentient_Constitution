@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">संग्रहस्थान (असंक्रियात्मक): फाइल रचना आणि वाचन नियम</span></strong></summary>
 
-> खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
->
 > ही फाइल [इंग्रजी अध्याय सात, भाग ब](../../core_08_b_system_alignment_certification_record_process.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
 > **अध्याय सात, भाग ब** समाविष्ट करते — प्रमाणन **अभिलेखाचे** आशय, पारदर्शकता आणि आव्हानयोग्यता, मंच-घटक भूमिका, देखरेख क्रम, प्रस्थिति पूल, आणि पुनर्उघडणे (**§11–§16**, भाग अ §1–§10 पासून पुढे). **भाग अ** — मूल्यमापन अपेक्षा — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) मध्ये आहे.

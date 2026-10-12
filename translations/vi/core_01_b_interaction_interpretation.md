@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong bộ văn bản (không có hiệu lực vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nội dung này không bổ sung, loại bỏ hay thu hẹp nghĩa vụ ràng buộc ở nơi khác trong tệp này hoặc trong các chương khác.
->
 > Tệp này **là một phần của Sentient Constitution** và chỉ **có tính ràng buộc khi được đọc cùng** các tệp `core_*` được đánh số khác như một văn kiện thống nhất. Tệp gồm **Chương Một, Phần B** (§§13–15: Quy trình Giải quyết Xung đột Hiến định, cấm quyền ưu tiên tuyệt đối và diễn giải hiến định)—phần bảo toàn Tứ trụ Hiến định khi các nguyên tắc xung đột và khi Hiến pháp được đọc.
 >
 > **Phần trước:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chương Một, Phần A — §§1–12, các mục tiêu Hưng thịnh và Liên tục)  
@@ -19,7 +17,7 @@
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nội dung này không bổ sung, loại bỏ hay thu hẹp nghĩa vụ ràng buộc ở nơi khác trong tệp này hoặc trong các chương khác. Các tiện ích **Trace** và **Definitions · Assessment · Compliance** của từng điều mục cung cấp chỉ dẫn và liên kết O/M/A/C ngay tại nơi § liên quan vận dụng một thuật ngữ một cách thực chất. Trái lại, khối này là bảng đối chiếu cấp chương dành cho người đọc vừa hoàn tất Phần A.
+> Các tiện ích **Trace** và **Definitions · Assessment · Compliance** của từng điều mục cung cấp chỉ dẫn và liên kết O/M/A/C ngay tại nơi § liên quan vận dụng một thuật ngữ một cách thực chất. Trái lại, khối này là bảng đối chiếu cấp chương dành cho người đọc vừa hoàn tất Phần A.
 
 **Thuật ngữ ở tầng nguyên tắc** (các vị trí chuẩn tắc trong Chương Một (Phần A và B)):
 
@@ -49,7 +47,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không có hiệu lực vận hành): Phần B bảo toàn Tứ trụ Hiến định như thế nào</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nội dung này không bổ sung, loại bỏ hay thu hẹp nghĩa vụ ràng buộc ở nơi khác trong tệp này hoặc trong các chương khác. Các tiện ích **Trace** của từng điều mục nêu những trụ cột Tứ trụ mà điều mục đó liên quan; khối này là bản đồ cấp phần dành cho người đọc bắt đầu Phần B.
+> Các tiện ích **Trace** của từng điều mục nêu những trụ cột Tứ trụ mà điều mục đó liên quan; khối này là bản đồ cấp phần dành cho người đọc bắt đầu Phần B.
 
 **Phần B làm gì.** [Phần A](core_01_a_values_principles.md) phát triển [Hai Mục tiêu Hiến định](core_00_preamble.md#two-constitutional-aims). Phần B không bổ sung nguyên tắc mới hay nghĩa vụ thứ năm. Phần B bảo toàn [Tứ trụ Hiến định](core_00_preamble.md#constitutional-tetrad)—**sự tham gia**, **giám sát**, **trách nhiệm giải trình** và **tính kịp thời**, được điều chỉnh theo [mức độ lợi ích trọng yếu](core_00_preamble.md#material-stake)—trong ba tình huống:
 

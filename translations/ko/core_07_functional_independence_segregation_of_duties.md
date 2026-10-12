@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스 내 위치(비작동 규정): 파일 구조 및 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐**입니다. 이 파일의 다른 부분이나 다른 장에 있는 구속력 있는 의무를 추가하거나 삭제하거나 축소하지 않습니다.
->
 > 이 파일은 **Sentient Constitution의 일부**이며, 하나의 문서로 함께 읽는 다른 번호가 붙은 `core_*` 파일들과 **함께 읽을 때에만 구속력**을 가집니다. 이 파일에는 **제7장**이 담겨 있습니다. 즉, 기능적 독립성과 직무 분리에 관해 모든 절차에 공통으로 적용되는 기준선입니다. 이 장은 제6장의 권리 기준선 다음에 오며, [제8장 시스템 정렬 인증](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index)으로 시작하는 헌법 절차 장들보다 앞섭니다.
 >
 > - **헌법상 소관:** 실질적으로 구속력 있는 행위를 위한 별도 좌석 기준선, 모든 [실질적 구속 행위 기록](../../core_05_band_accountability.md#materially-binding-act-record)의 보편적 최소 내용, 행위자와 행위자의 [중요 통제선](../../core_05_band_accountability.md#material-control-line)으로부터의 독립성, 공표된 경로 및 역할 배치, 이해충돌·공석·대체 및 잘못된 좌석으로의 이관, 비례적인 통합 운영, 귀속 가능한 인계, 그리고 이후 모든 헌법 절차가 적용해야 하는 최소 독립 조건.
@@ -86,8 +84,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비작동 규정): 4좌석 지도</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐**입니다. 이 장이나 다른 장의 구속력 있는 의무를 추가하거나 삭제하거나 축소하지 않습니다.
->
 > **독자 지도(비작동 규정).** 이 도표는 네 좌석과 일반적인 기록 수명주기를 보여줍니다. 다섯 번째 이행 좌석을 추가하지 않고, 모든 조치 전에 검토를 마치도록 요구하지 않으며, 이 절과 §§3–6의 작동 규칙을 변경하지 않습니다.
 
 </details>

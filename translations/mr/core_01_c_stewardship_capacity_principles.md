@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">कॉर्पसमधील स्थान (कार्यकारी नाही): फाइलची रचना आणि वाचनाचे नियम</span></strong></summary>
 
-> पुढील मजकूर केवळ वाचकांसाठी मार्गदर्शन आहे. या फाइलमध्ये किंवा इतर अध्यायांत अन्यत्र असलेल्या बंधनकारक जबाबदाऱ्यांमध्ये तो भर घालत नाही, त्यांना काढून टाकत नाही किंवा त्यांची व्याप्ती कमी करत नाही.
->
 > ही फाइल **Sentient Constitution** चा भाग आहे आणि इतर क्रमांकित `core_*` फाइल्ससोबत एकच दस्तऐवज म्हणून वाचल्यावरच **बंधनकारक** ठरते. यात **अध्याय एक, भाग C** (§§16–20: देखरेख, शासन, प्रोत्साहन-सुसंगती आणि हस्तगत करणे, तसेच एकात्मिक अनुप्रयोगाचा समारोप) समाविष्ट आहे.
 >
 > **मागील:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (अध्याय एक, भाग B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">वाचकांसाठी मार्गदर्शन (कार्यकारी नाही): तत्त्वांची श्रेणी आणि वाचनक्रम (भाग C)</span></strong></summary>
 
-> पुढील मजकूर केवळ वाचकांसाठी मार्गदर्शन आहे. या फाइलमध्ये किंवा इतर अध्यायांत अन्यत्र असलेल्या बंधनकारक जबाबदाऱ्यांमध्ये तो भर घालत नाही, त्यांना काढून टाकत नाही किंवा त्यांची व्याप्ती कमी करत नाही. प्रत्येक विभागातील **Trace** आणि **Definitions · Assessment · Compliance** विजेट संबंधित § एखादी संज्ञा महत्त्वपूर्णरीत्या वापरतो त्या ठिकाणी मार्गदर्शन करतात; §§16–20 आधीचा हा भाग संपूर्ण भागासाठी परस्परसंदर्भ नकाशा आहे.
+> प्रत्येक विभागातील **Trace** आणि **Definitions · Assessment · Compliance** विजेट संबंधित § एखादी संज्ञा महत्त्वपूर्णरीत्या वापरतो त्या ठिकाणी मार्गदर्शन करतात; §§16–20 आधीचा हा भाग संपूर्ण भागासाठी परस्परसंदर्भ नकाशा आहे.
 
 **तत्त्वांची श्रेणी (भाग C).** तत्त्वांच्या स्तरावर:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - ऊर्ध्व: [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role) (*स्तंभ 1*); [§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth) (मूळ विभाग, वरचा *सोप्या शब्दांत* मजकूर आणि स्तंभ 3 ची मांडणी यांसह); [5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **सहभाग** बाजू ([अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency), [शैक्षणिक कर्तृत्व](core_05_band_participation.md#educational-agency)); **देखरेख** बाजू ([पारदर्शकता](core_05_band_oversight.md#transparency), [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability)); [भौतिक हित](core_00_preamble.md#material-stake) यानुसार प्रमाण.
-- संरक्षक प्रवेशद्वार (कार्यकारी स्वरूपाचे नाही): पुढील पायरीचे कार्ड: [समजण्यायोग्यता](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). हे कार्ड संविधानाचा आवाका कमी करू शकत नाही.
+- संरक्षक प्रवेशद्वार (कार्यकारी स्वरूपाचे नाही): पुढील पायरीचे कार्ड: [समजण्यायोग्यता](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - अधोमुख: [13.2 ज्ञानमीमांसात्मक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); अधिकार-क्षेत्रात विशेषतः [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [अनुच्छेद XXII: समजण्यायोग्यता आणि गुंतागुंतीचे संरक्षकत्व](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - ऊर्ध्व: [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role); [§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth); [§18 संरक्षकत्वाच्या शिस्तीखालील शासन](#18-governance-under-stewardship-discipline).
 - यासोबत वाचा: [sentience चे अपवर्जन न करणे](core_05_band_participation.md#sentience-non-exclusion), [आधारमाध्यम वर्ग](core_05_band_participation.md#substrate-class) (*आधारमाध्यम-निरपेक्ष लागूकरण — हा उपविभाग कर्तव्यधारकांना बांधतो; मान्यताप्राप्त sentient नसलेले एजंट आणि परिचालकही यात येतात*); [अधिकार-रचना आणि अंतर्गत श्रेणी](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [संवैधानिक बंधन](core_05_band_integrative.md#constitutional-constraint); [आव्हानक्षमता](core_05_band_accountability.md#contestability); [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist).
-- संरक्षक प्रवेशद्वार (कार्यकारी स्वरूपाचे नाही): पुढील पायरीचे कार्ड: [सामायिक संरक्षकत्व](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). कार्ड संविधानाचा आवाका कमी करू शकत नाही.
+- संरक्षक प्रवेशद्वार (कार्यकारी स्वरूपाचे नाही): पुढील पायरीचे कार्ड: [सामायिक संरक्षकत्व](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - अधोमुख: [§17.2 दबावाखाली संरेखन](#172-alignment-under-pressure); [§17.3 संरक्षकाची नव्हे, भूमिकेची नोंद](#173-logging-the-role-not-the-steward); [अध्याय तेरा §5 — अधिकृत भूमिका, कौशल्य विकास आणि योगदान](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [अध्याय सतरा](core_17_incorporation.md) (*स्वीकारलेला अंमलबजावणी मजकूर हे लागू करतो; त्याची जागा घेत नाही*); [§19.1.3 संरक्षकत्व आणि परिचालकांसाठी लागूकरण](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - पूर्वसंदर्भ: [§17 परिणामकारी संरक्षकता](#17-consequential-stewardship-the-steward-role); [§17.1 सामायिक संरक्षकता मानक](#171-shared-stewardship-standard) (*हे कर्तव्य कोणावर बंधनकारक आहे*); [§17.2 दबावाखाली संरेखन](#172-alignment-under-pressure) (*लपवाछपवीचे निर्देश ही अपयशी कसोटी*); [4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint) आणि [5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - सोबत वाचा: [अधिकारांचा क्रम व अंतर्गत श्रेणी](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [संरक्षित अहवाल (व्हिसलब्लोइंग)](core_05_band_accountability.md#protected-reporting-whistleblowing); [कलम XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*विश्वसनीयता आणि विश्वासार्हतेची मूलभूत मर्यादा*) — प्रतिकार करताना आव्हानाचे मार्ग खुले राहतात.
-- संरक्षक प्रवेश-द्वार (कार्यकारी नाही): पुढील पाऊल कार्ड: [बेकायदेशीर निर्देश](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). हे कार्ड संविधान संकुचित करू शकत नाही.
+- संरक्षक प्रवेश-द्वार (कार्यकारी नाही): पुढील पाऊल कार्ड: [बेकायदेशीर निर्देश](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - पुढील: [अध्याय दहा §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*प्रतिकाराचे कर्तव्य — उल्लंघन नियम आणि स्थिती परिणाम*); [CS-4 §10 तपासता येणारी श्रेय-निश्चित कृती](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*तपासता येणारी, श्रेय-निश्चित कृती — नकाराची किमान नोंद*).
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - पुढील: [§7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency) आणि [§14 निरपेक्ष अध्यारोपणास प्रतिबंध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - पुढील: [§13.3 टाळता येण्याजोगा भार कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [अध्याय तेरा §5 — अधिकृत भूमिका, क्षमता विकास आणि योगदान](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — निर्णायक प्रणालीचे संरक्षकत्व**.
 - कर्तृत्व, सहभाग, प्रोत्साहन संरेखन, माहिती-क्षेत्र अखंडता, कायदेशीर स्थान आणि कब्जाकरण-विरोधी पुनरावलोकन या हक्कांच्या क्षेत्रांना लक्ष्य करते; ते [अध्याय सहा: मूलभूत हक्क](core_06_rights_part_a.md#chapter-six-foundational-rights)मध्ये आहेत; विशेषतः [कलम X: स्वनिर्णय, कर्तृत्व आणि सहभाग](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [कलम XII: हितधारक प्रणाली सहभाग, प्रतिनिधित्व आणि न्याय्य प्रक्रिया](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [कलम XIII-D: प्रोत्साहन संरेखनावरील बंधन](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [कलम XV: माहिती-क्षेत्राची अखंडता](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [कलम XIX: कायदेशीर स्थान आणि सहभाग स्थिती](core_06_rights_part_d.md#article-xix-standing-and-participation-status), आणि [कलम XXIV: संवैधानिक अर्थनिर्णयन, पुनरावलोकन आणि कब्जाकरण-विरोधी संरक्षक उपाय](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- संरक्षक प्रवेशद्वार (कार्यकारी नाही): पुढील पायरीचे कार्ड: [प्रोत्साहन संरेखन](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). हे कार्ड संविधान संकुचित करू शकत नाही.
+- संरक्षक प्रवेशद्वार (कार्यकारी नाही): पुढील पायरीचे कार्ड: [प्रोत्साहन संरेखन](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

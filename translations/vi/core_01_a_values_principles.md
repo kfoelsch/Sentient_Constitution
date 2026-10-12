@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không có hiệu lực quy phạm): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ nhằm hướng dẫn người đọc**. Nội dung này không bổ sung, loại bỏ hay thu hẹp bất kỳ nghĩa vụ ràng buộc nào ở nơi khác trong tệp này hoặc trong các chương khác.
->
 > Tệp này **là một phần của Hiến pháp dành cho các hữu thể có tri giác** và **chỉ có tính ràng buộc khi được đọc cùng** các tệp `core_*` được đánh số khác như một văn kiện thống nhất. Tệp này gồm **Chương Một, Phần A** (§§1–12: mục đích và vai trò; mục tiêu Hưng thịnh, được giới thiệu tại §2 và triển khai thông qua phúc lợi, An toàn, Sự thật, Niềm tin và Tự do; cùng mục tiêu Liên tục, được giới thiệu tại §8 và triển khai thông qua năng lực của hệ thống dùng chung, khả năng phục hồi, cấu trúc thị trường và đánh giá hệ thống).
 >
 > **Phần trước:** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn người đọc (không có hiệu lực quy phạm): Chương Một kết nối các mục tiêu, Tứ trụ, Điều khoản và định nghĩa như thế nào</span></strong></summary>
 
-> Nội dung sau đây **chỉ nhằm hướng dẫn người đọc**. Nội dung này không bổ sung, loại bỏ hay thu hẹp bất kỳ nghĩa vụ ràng buộc nào ở nơi khác trong tệp này hoặc trong các chương khác. Các tiện ích **Truy vết** và **Định nghĩa · Đánh giá · Tuân thủ** theo từng mục quy định lộ trình tham chiếu có tính ràng buộc; khối này là bản đồ cấp phần dành cho độc giả bắt đầu đọc Chương Một.
+> Các tiện ích **Truy vết** và **Định nghĩa · Đánh giá · Tuân thủ** theo từng mục quy định lộ trình tham chiếu có tính ràng buộc; khối này là bản đồ cấp phần dành cho độc giả bắt đầu đọc Chương Một.
 
 **Các tầng kết nối với nhau ra sao.** Mỗi tầng trả lời một câu hỏi khác nhau, và mỗi nguyên tắc của Chương Một đều dẫn chiếu đến ba tầng còn lại:
 
@@ -1463,7 +1461,7 @@ Chi tiết vận hành — phát hiện nhu cầu phục hồi, khống chế, �
 
 - Thượng nguồn: [§11 Cấu trúc thị trường](#11-market-structure); [Ngưỡng tập trung thị trường](core_05_band_accountability.md#market-concentration-threshold).
 - Hạ nguồn: **CJS-3.11.1 — Kỷ luật thiết lập ngưỡng tập trung thị trường (bên áp dụng có thể điều chỉnh)** (quy tắc thiết lập ngưỡng có hiệu lực); [§11.2 Thúc đẩy cạnh tranh và chống thống trị](#112-pro-competition-and-anti-domination); [§11.3 Trần hợp nhất](#113-consolidation-ceiling); [CJS-3.11.3 — Kỷ luật thiết lập trần hợp nhất (bên áp dụng có thể điều chỉnh)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (quy tắc thiết lập trần có hiệu lực tại [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)); [Chương Chín §4 Câu hỏi 2 — mức độ tốt hay xấu ra sao?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Chương Mười Một §5.1 Sự phá hoại dựa trên tập trung](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- Cửa dẫn cho người quản lý (không có hiệu lực vận hành): Thẻ bước tiếp theo: [Cấu trúc thị trường](implementation/STEWARD_ENTRY_DOORS.md#market-structure). Thẻ này không thể thu hẹp Hiến pháp.
+- Cửa dẫn cho người quản lý (không có hiệu lực vận hành): Thẻ bước tiếp theo: [Cấu trúc thị trường](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Các tiểu mục (theo thứ tự đọc): [§11.1.1 Ngưỡng kích hoạt tập trung (bên áp dụng có thể điều chỉnh)](#1111-concentration-threshold-triggers-adopter-tunable).
 
 </details>

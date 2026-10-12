@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தொகுப்பில் இடம் (செயல்பாட்டு அதிகாரமற்றது): கோப்பு அமைப்பும் வாசிப்பு விதிகளும்</span></strong></summary>
 
-> பின்வரும் உள்ளடக்கம் **வாசகர் வழிகாட்டுதல் மட்டுமே**. இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ உள்ள கட்டுப்படுத்தும் கடமைகளை இது சேர்க்கவோ நீக்கவோ குறுக்கவோ இல்லை.
->
 > இந்தக் கோப்பு **உணர்வுள்ள உயிரினங்களுக்கான அரசியலமைப்பின் ஒரு பகுதி**; எண் குறிக்கப்பட்ட பிற `core_*` கோப்புகளுடன் ஒரே ஆவணமாகப் படிக்கும்போதுதான் இது கட்டுப்படுத்தும் ஆற்றல் பெறும். இதில் **அத்தியாயம் ஒன்று, பகுதி C** (§§16–20: பொறுப்புக் காப்பு, நிர்வாகம், ஊக்கத்தொகை ஒத்திசைவு மற்றும் அமைப்பைக் கைப்பற்றுதல், ஒருங்கிணைந்த பயன்பாட்டின் நிறைவுப் பகுதி) இடம்பெறுகின்றன.
 >
 > **முன்பகுதி:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (அத்தியாயம் ஒன்று, பகுதி B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">வாசகர் வழிகாட்டுதல் (செயல்பாட்டு அதிகாரமற்றது): கொள்கை அடுக்குமுறையும் வாசிப்பு ஓட்டமும் (பகுதி C)</span></strong></summary>
 
-> பின்வரும் உள்ளடக்கம் **வாசகர் வழிகாட்டுதல் மட்டுமே**. இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ உள்ள கட்டுப்படுத்தும் கடமைகளை இது சேர்க்கவோ நீக்கவோ குறுக்கவோ இல்லை. ஒவ்வொரு § ஒரு சொல்லை முக்கியமாகப் பயன்படுத்தும் இடத்தில், அப்பிரிவின் **தடமறிதல்** மற்றும் **வரையறைகள் · மதிப்பீடு · இணக்கம்** கருவிகள் வழிகாட்டலை வழங்குகின்றன; §§16–20க்கு முன் இந்தத் தொகுதி அளவிலான இணைப்புப் பட்டியல் தரப்படுகிறது.
+> ஒவ்வொரு § ஒரு சொல்லை முக்கியமாகப் பயன்படுத்தும் இடத்தில், அப்பிரிவின் **தடமறிதல்** மற்றும் **வரையறைகள் · மதிப்பீடு · இணக்கம்** கருவிகள் வழிகாட்டலை வழங்குகின்றன; §§16–20க்கு முன் இந்தத் தொகுதி அளவிலான இணைப்புப் பட்டியல் தரப்படுகிறது.
 
 **கொள்கை அடுக்குமுறை (பகுதி C).** கொள்கை நிலையில்:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - மேல்நிலை: [§17 குறிப்பிடத்தக்க விளைவுள்ள பொறுப்புப் பராமரிப்பு](#17-consequential-stewardship-the-steward-role) (*தூண் 1*); [§16 பொறுப்புப் பராமரிப்பின் ஆழமான விளக்கம்](#16-stewardship-in-depth) (தாய் பகுதி; மேலுள்ள *எளிய சொற்களில்* பகுதியும் தூண் 3 அமைப்பும் உட்பட); [5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - இதனுடன் படிக்கவும்: [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) — **பங்கேற்பு** பக்கம் ([பொருளுள்ள செயல்திறன்](core_05_band_participation.md#meaningful-agency), [கல்விசார் செயல்திறன்](core_05_band_participation.md#educational-agency)); **மேற்பார்வை** பக்கம் ([வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency), [தணிக்கைத் திறன்](core_05_band_oversight.md#auditability)); [பொருள்சார் பங்கு](core_00_preamble.md#material-stake) அடிப்படையில் அளவமைத்தல்.
-- பொறுப்புப் பராமரிப்பு நுழைவாயில் (செயல்பாட்டுரீதியானது அல்ல): அடுத்த படிக் குறிப்பு: [புரிந்துகொள்ளத்தன்மை](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). அந்தக் குறிப்பு அரசியலமைப்பைக் குறுகலாக்க முடியாது.
+- பொறுப்புப் பராமரிப்பு நுழைவாயில் (செயல்பாட்டுரீதியானது அல்ல): அடுத்த படிக் குறிப்பு: [புரிந்துகொள்ளத்தன்மை](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - கீழ்நிலை: [13.2 அறிவுசார் வெளிப்படுத்தல் வரம்புகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); உரிமைப் பரப்பில் குறிப்பாக [பிரிவு XVI: தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீனச் சரிபார்ப்பு](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [பிரிவு XXII: புரிந்துகொள்ளத்தன்மை மற்றும் சிக்கலுக்கான பொறுப்புப் பராமரிப்பு](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - முந்தைய தொடர்புகள்: [§17 குறிப்பிடத்தக்க விளைவுகளைக் கொண்ட பொறுப்புக் காப்பு](#17-consequential-stewardship-the-steward-role); [§16 ஆழமான பொறுப்புக் காப்பு](#16-stewardship-in-depth); [§18 பொறுப்புக் காப்பு ஒழுங்கின்கீழ் ஆளுகை](#18-governance-under-stewardship-discipline).
 - இதனுடன் படிக்கவும்: [உணர்வுத்திறன் அடிப்படையிலான விலக்காமை](core_05_band_participation.md#sentience-non-exclusion), [அடித்தள வகுப்பு](core_05_band_participation.md#substrate-class) (*அடித்தளத்தைப் பொருட்படுத்தாத பயன்பாடு — உணர்வுள்ள உயிர்களாக அங்கீகரிக்கப்படாத முகவர்களும் இயக்குநர்களும் உட்பட கடமைதாரர்களை இத்துணைப்பிரிவு கட்டுப்படுத்துகிறது*); [அதிகார அடுக்கு மற்றும் உள் படிநிலை](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [அரசியலமைப்புக் கட்டுப்பாடு](core_05_band_integrative.md#constitutional-constraint); [கேள்விக்குட்படுத்தும் திறன்](core_05_band_accountability.md#contestability); [§17.5 எதிர்ப்பதற்கான கடமை](#175-duty-to-resist).
-- பொறுப்பாளர் நுழைவாயில் (செயல்பாட்டுத் தன்மையற்றது): அடுத்த படிக் குறிப்பு [பகிரப்பட்ட பொறுப்புக் காப்பு](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). இக்குறிப்பு அரசியலமைப்பைக் குறுக்க முடியாது.
+- பொறுப்பாளர் நுழைவாயில் (செயல்பாட்டுத் தன்மையற்றது): அடுத்த படிக் குறிப்பு [பகிரப்பட்ட பொறுப்புக் காப்பு](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - அடுத்தடுத்த தொடர்புகள்: [§17.2 அழுத்தத்தின்கீழ் ஒத்திசைவு](#172-alignment-under-pressure); [§17.3 பொறுப்பாளரை அல்ல, பங்கைப் பதிவு செய்தல்](#173-logging-the-role-not-the-steward); [அத்தியாயம் பதின்மூன்று §5 — அங்கீகரிக்கப்பட்ட பங்குகள், திறன் வளர்ச்சி, பங்களிப்பு](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [அத்தியாயம் பதினேழு](core_17_incorporation.md) (*ஏற்றுக்கொள்ளப்பட்ட செயலாக்க உரை நடைமுறைப்படுத்துகிறது; மாற்றீடு செய்யாது*); [§19.1.3 பொறுப்புக் காப்பு மற்றும் இயக்குநர் பயன்பாடு](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - முன்வரும் பிரிவுகள்: [§17 விளைவுசார் பொறுப்புக் காப்பு](#17-consequential-stewardship-the-steward-role); [§17.1 பகிரப்பட்ட பொறுப்புக் காப்புத் தரநிலை](#171-shared-stewardship-standard) (*யாரை இந்தக் கடமை கட்டுப்படுத்துகிறது*); [§17.2 அழுத்தத்தின் கீழ் ஒத்திசைவு](#172-alignment-under-pressure) (*மறைப்புக்கான அறிவுறுத்தல் தோல்வியடைந்த சோதனை*); [4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint) மற்றும் [5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - இதனுடன் படிக்கவும்: [அதிகார அடுக்கு மற்றும் உள் வரிசைமுறை](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [பாதுகாக்கப்பட்ட புகாரளித்தல் (தவறுகளை வெளிப்படுத்துதல்)](core_05_band_accountability.md#protected-reporting-whistleblowing); [கட்டுரை XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*நம்பகத்தன்மை மற்றும் நம்பத்தகுதிக்கான அடிப்படைத் தரநிலை*) — எதிர்க்கும் போதும் முறையீட்டுப் பாதைகள் திறந்தே இருக்கும்.
-- பொறுப்புக் காப்பாளருக்கான நுழைவாயில் (செயல்பாட்டு விதி அல்ல): அடுத்த படி அட்டை: [சட்டவிரோத அறிவுறுத்தல்](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). இந்த அட்டை அரசியலமைப்பின் வரம்பைக் குறைக்க முடியாது.
+- பொறுப்புக் காப்பாளருக்கான நுழைவாயில் (செயல்பாட்டு விதி அல்ல): அடுத்த படி அட்டை: [சட்டவிரோத அறிவுறுத்தல்](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - தொடரும் பிரிவுகள்: [அத்தியாயம் பத்து §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*எதிர்க்கும் கடமை — மீறல் விதி மற்றும் நிலை விளைவுகள்*); [CS-4 §10 ஆய்வு செய்யவும் பொறுப்பைச் சுட்டவும் இயலும் செயல்](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*ஆய்வு செய்யவும் பொறுப்பைச் சுட்டவும் இயலும் செயல் — மறுப்பின் குறைந்தபட்சப் பதிவு*).
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - கீழ்நிலை: [§7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency) மற்றும் [§14 முழுமையான மேலிடைத் தலையீட்டுத் தடை](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - கீழ்நிலை: [§13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [அத்தியாயம் பதின்மூன்று §5 — அங்கீகரிக்கப்பட்ட பங்குகள், திறன் மேம்பாடு மற்றும் பங்களிப்பு](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — முக்கிய அமைப்புக் காப்பாண்மை**.
 - செயற்பாட்டுத்திறன், பங்கேற்பு, ஊக்கத்தொகை ஒத்திசைவு, தகவல்-வெளி ஒருமைப்பாடு, சட்டநிலை மற்றும் கைப்பற்றல் எதிர்ப்பு மதிப்பாய்வு தொடர்பான உரிமைப் பரப்பை இலக்காகக் கொண்டது; இவை [அத்தியாயம் ஆறு: அடிப்படை உரிமைகள்](core_06_rights_part_a.md#chapter-six-foundational-rights) முழுவதும் உள்ளன; குறிப்பாக [கட்டுரை X: சுயநிர்ணயம், செயற்பாட்டுத்திறன் மற்றும் பங்கேற்பு](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [கட்டுரை XII: பங்குதாரர் அமைப்புப் பங்கேற்பு, பிரதிநிதித்துவம் மற்றும் உரிய நடைமுறை](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [கட்டுரை XIII-D: ஊக்கத்தொகை ஒத்திசைவுக் கட்டுப்பாடு](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [கட்டுரை XV: தகவல்-வெளி ஒருமைப்பாடு](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [கட்டுரை XIX: சட்டநிலை மற்றும் பங்கேற்பு நிலை](core_06_rights_part_d.md#article-xix-standing-and-participation-status), மற்றும் [கட்டுரை XXIV: அரசியலமைப்பு விளக்கம், மதிப்பாய்வு மற்றும் கைப்பற்றல் எதிர்ப்பு பாதுகாப்புகள்](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- காப்பாளர் நுழைவுவழி (செயல்பாட்டு உரிமை இல்லை): அடுத்த படிக் கையேடு: [ஊக்கத்தொகை ஒத்திசைவு](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). அந்தக் கையேடு அரசியலமைப்பைச் சுருக்க முடியாது.
+- காப்பாளர் நுழைவுவழி (செயல்பாட்டு உரிமை இல்லை): அடுத்த படிக் கையேடு: [ஊக்கத்தொகை ஒத்திசைவு](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

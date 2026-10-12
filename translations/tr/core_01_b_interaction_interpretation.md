@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Külliyattaki yeri (işlemsel değildir): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyanın veya diğer bölümlerin başka yerlerindeki bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz.
->
 > Bu dosya **Sentient Constitution'ın bir parçasıdır** ve ancak numaralı diğer `core_*` dosyalarıyla birlikte tek bir belge olarak okunduğunda **bağlayıcıdır**. **Birinci Bölüm, Kısım B**'yi (§§13–15: Anayasal Çatışma Çözüm Süreci, mutlak üstün kılma yasağı ve anayasal yorum) içerir; ilkeler çatıştığında ve Anayasa okunurken Anayasal Dörtlü'yü koruyan kısım budur.
 >
 > **Önceki:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Birinci Bölüm, Kısım A — §§1–12, Esenlik ve Süreklilik amaçları)  
@@ -19,7 +17,7 @@
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyanın veya diğer bölümlerin başka yerlerindeki bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz. Her bölümdeki **Trace** ve **Tanımlar · Değerlendirme · Uyum** bileşenleri, ilgili § bir terimi esaslı biçimde devreye soktuğu noktada yönlendirme ve O/M/A/C bağlantılarını sunar. Buna karşılık bu blok, Kısım A'yı tamamlayan okurlar için bölüm düzeyinde bir çapraz başvuru listesidir.
+> Her bölümdeki **Trace** ve **Tanımlar · Değerlendirme · Uyum** bileşenleri, ilgili § bir terimi esaslı biçimde devreye soktuğu noktada yönlendirme ve O/M/A/C bağlantılarını sunar. Buna karşılık bu blok, Kısım A'yı tamamlayan okurlar için bölüm düzeyinde bir çapraz başvuru listesidir.
 
 **İlke katmanı terimleri** (Birinci Bölümdeki (Kısım A ve B) yetkili yerler):
 
@@ -49,7 +47,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değildir): Kısım B Anayasal Dörtlü'yü nasıl korur?</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyanın veya diğer bölümlerin başka yerlerindeki bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz. Her bölümün **Trace** bileşenleri, o bölümün Dörtlü'nün hangi bacaklarını ele aldığını belirtir; bu blok Kısım B'ye giren okurlar için kısım düzeyinde bir haritadır.
+> Her bölümün **Trace** bileşenleri, o bölümün Dörtlü'nün hangi bacaklarını ele aldığını belirtir; bu blok Kısım B'ye giren okurlar için kısım düzeyinde bir haritadır.
 
 **Kısım B ne yapar?** [Kısım A](core_01_a_values_principles.md), [İki Anayasal Amacı](core_00_preamble.md#two-constitutional-aims) geliştirir. Kısım B yeni bir ilke veya beşinci bir yükümlülük eklemez. [Anayasal Dörtlü'yü](core_00_preamble.md#constitutional-tetrad)—[maddi çıkarın ağırlığına](core_00_preamble.md#material-stake) göre ölçeklenen **katılım**, **gözetim**, **hesap verebilirlik** ve **zamanlılığı**—üç durumda korur:
 

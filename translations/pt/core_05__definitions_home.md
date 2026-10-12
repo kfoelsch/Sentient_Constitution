@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [Capítulo Cinco, Parte A em inglês](../../core_05__definitions_home.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_05__definitions_home.md`](../../core_05__definitions_home.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): ordem de leitura e nota de linguagem simples</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste capítulo nem em outros capítulos.
->
 > Nota de leitura em linguagem simples: leia o **Capítulo Um** para valores e direção de alto nível; os **capítulos Dois a Quatro** para estrutura das definições, integridade e mecânica de verificação; e o **Capítulo Seis** para o piso fundacional de **direitos**, depois volte a este capítulo para precisão de termos em interpretação, auditoria e adjudicação. (Outros capítulos, inclusive o **Capítulo Dez** *Má conduta* e o **Capítulo Oito** *Trajetória*, aplicam-se em suas próprias vias de leitura; não substituem o Piso de Direitos do Capítulo Seis nem a mecânica de definições dos capítulos Dois a Quatro.)
 
 </details>
@@ -212,6 +208,7 @@ Este diretório enumera **Definições A-Z** e **Aglomerados A-Z** em separado. 
 - [Jogo de azar](../../core_05_band_accountability.md#game-of-chance)
 - [Porta de Controle](../../core_05_band_oversight.md#gate)
 - [Critérios do Gate](../../core_05_band_oversight.md#gate-criteria)
+- [Entrada em operação](../../core_05_band_continuity.md#go-live)
 - [Boa-fé](../../core_05_band_accountability.md#good-faith)
 - [Governança](../../core_05_band_accountability.md#governance)
 - [Capacidade graduada](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -233,7 +230,9 @@ Este diretório enumera **Definições A-Z** e **Aglomerados A-Z** em separado. 
 - [Recompensa de inovação e anticercamento](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Vantagem privilegiada](../../core_05_band_accountability.md#insider-advantage)
 - [Consentimento de instanciação](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [Instituição](../../core_05_band_continuity.md#institution)
 - [Desenvolvimento Institucional](../../core_05_band_continuity.md#institutional-development)
+- [Parte interessada](../../core_05_band_accountability.md#interested-party)
 - [Responsabilidade intergeracional](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [Medida de privação irreversível](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [Dano irreversível](../../core_05_band_accountability.md#irreversible-harm)
@@ -278,10 +277,12 @@ Este diretório enumera **Definições A-Z** e **Aglomerados A-Z** em separado. 
 - [Trajetória de participante](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [Participação](core_05_apex_participation_leg.md#participation-constitutional)
 - [Personalidade](../../core_05_band_participation.md#personhood)
+- [Piloto](../../core_05_band_continuity.md#pilot)
 - [Imprensa e atividade jornalística](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [Roteamento de apostas primárias](../../core_05_band_accountability.md#primary-stakes-routing)
 - [Privacidade (informacional)](../../core_05_band_continuity.md#privacy-informational)
 - [Equidade procedimental](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [Processo](../../core_05_band_continuity.md#process)
 - [Capacidade produtiva](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [Proporcionalidade](../../core_05_band_accountability.md#proportionality)
 - [Contribuição transistêmica proporcionada](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -442,8 +443,6 @@ As definições do Capítulo Cinco ordenam-se pelos [Dois Fins Constitucionais](
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): cruzamento de medição do Preâmbulo</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste capítulo nem em outros capítulos.
->
 > O [Preâmbulo §2](core_00_preamble.md#measurements-overview) enumera sete **categorias de medição** constitucionais — as perguntas que quem opera faz ao avaliar sistemas. O Capítulo Cinco organiza **definições canônicas** por perna da Tétrade, fim de **Continuidade** e titularidade **Integrativa** de cruza entre pernas. A tabela abaixo mapeia cada categoria de medição aos seus lares do Capítulo Cinco. Uma categoria pode abranger mais de um arquivo de faixa; os lares canônicos não se movem quando as categorias de medição se sobrepõem.
 >
 > A **Materialidade** ([Determinação de materialidade](../../core_05_band_oversight.md#materiality-determination)) é Integrativa — uma porta-limiar transversal que escala todas as famílias de medição sob [aposta material](core_00_preamble.md#material-stake); não é uma categoria separada na tabela abaixo.

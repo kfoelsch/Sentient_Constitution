@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Posicionamento no corpus (não operativo): estrutura dos arquivos e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes em nenhuma outra parte deste arquivo ou em outros capítulos.
->
 > Este arquivo **faz parte da Constituição Sentiente** e é **vinculante somente em conjunto com** os demais arquivos numerados `core_*`, lidos como um único instrumento. Ele contém o **Capítulo Um, Parte B** (§§13–15: Processo de Resolução de Colisões Constitucionais, proibição de anulação absoluta e interpretação constitucional) — a parte que mantém intacta a Tétrade Constitucional quando princípios colidem e quando a Constituição é lida.
 >
 > **Anterior:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Capítulo Um, Parte A — §§1–12, os objetivos de Florescimento e Continuidade)  
@@ -19,7 +17,7 @@
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes em nenhuma outra parte deste arquivo ou em outros capítulos. Os widgets de **Rastreio** e **Definições · Avaliação · Conformidade** de cada seção apresentam links de navegação e O/M/A/C no ponto em que cada § invoca materialmente um termo. Este bloco, por sua vez, é um quadro de correspondência no nível do capítulo para leitores que estão concluindo a Parte A.
+> Os widgets de **Rastreio** e **Definições · Avaliação · Conformidade** de cada seção apresentam links de navegação e O/M/A/C no ponto em que cada § invoca materialmente um termo. Este bloco, por sua vez, é um quadro de correspondência no nível do capítulo para leitores que estão concluindo a Parte A.
 
 **Vocabulário da camada de princípios** (localizações canônicas no Capítulo Um (Partes A e B)):
 
@@ -49,7 +47,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação ao leitor (não operativa): como a Parte B mantém intacta a Tétrade Constitucional</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes em nenhuma outra parte deste arquivo ou em outros capítulos. Os widgets de **Rastreio** de cada seção indicam os componentes da Tétrade que ela aborda; este bloco é um mapa da Parte para leitores que estão iniciando a Parte B.
+> Os widgets de **Rastreio** de cada seção indicam os componentes da Tétrade que ela aborda; este bloco é um mapa da Parte para leitores que estão iniciando a Parte B.
 
 **O que a Parte B faz.** A [Parte A](core_01_a_values_principles.md) desenvolve os [Dois objetivos constitucionais](core_00_preamble.md#two-constitutional-aims). A Parte B não acrescenta nenhum princípio nem um quinto dever. Ela mantém intacta a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **participação**, **supervisão**, **responsabilização** e **tempestividade**, dimensionadas segundo o [interesse material em jogo](core_00_preamble.md#material-stake) — em três situações:
 

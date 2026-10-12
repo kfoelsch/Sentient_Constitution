@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Place dans le corpus (non opératoire) : structure du fichier et règles de lecture</span></strong></summary>
 
-> Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
->
 > Ce fichier est un **pilote de langue de lecture** du [Chapitre douze en anglais](../../core_13_governance.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_12_governance.md`](../../core_13_governance.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
 >
 > Il contient le **Chapitre douze**, la **Couche du contrat constitutionnel** — exigences de légitimité constitutionnelle et d’administration responsable pour l’autorité de gouverner, distinctes de la **Participation systémique des parties affectées** dans des systèmes déjà autorisés ([Préambule](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Les contrôles de validité d’amendement et d’adoption continuent dans les [Chapitres treize à quinze](core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity). La numérotation des chapitres et les renvois correspondent à l’instrument intégré.
@@ -21,14 +19,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guide de lecture (non opératoire) : où vit ce chapitre et ce qui reste ici</span></strong></summary>
 
-> Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce chapitre ni dans d’autres chapitres.
->
 > Où cela vit (navigation) :
 > - **Titulaire constitutionnel :** ce chapitre définit les exigences de légitimité et d’administration responsable pour l’autorité de gouverner.
 > - **Titulaire de la mise en œuvre :** les couches de mise en œuvre désignées fournissent la mécanique procédurale de supervision, la conception du personnel, les contrôles opératoires et la mécanique institutionnelle désignée.
 > - **Règle anti-relocalisation :** les seuils de légitimité constitutionnelle restent ici ; le détail de flux de travail appartient aux couches titulaires.
 >
-> **Architecture — placement de *En termes simples* :** Chaque ligne *En termes simples* utilise la même disposition que le Chapitre six : elle apparaît immédiatement après le bloc de navigation Trace (et le saut de ligne qui le suit), et **avant** les paragraphes opératoires et les listes à puces de cette section ou sous-section. Lorsqu’une sous-section s’ouvre par des phrases d’entrée avant une liste (par exemple, **§§ 1.1–1.2** après l’entrée des familles de mécanisme, la section 3 avant ses puces d’index de définitions d’administration responsable du **Chapitre cinq**, et la section 4.1 avant ses puces de plancher d’égalité), la glose se place immédiatement avant la liste ou le bloc qu’elle suit le plus près. Glose tournée vers le lecteur seulement ; elle n’ajoute, n’ôte ni ne resserre le texte contraignant.
+> **Architecture — placement de *En termes simples* :** Chaque ligne *En termes simples* utilise la même disposition que le Chapitre six : elle apparaît immédiatement après le bloc de navigation Trace (et le saut de ligne qui le suit), et **avant** les paragraphes opératoires et les listes à puces de cette section ou sous-section. Lorsqu’une sous-section s’ouvre par des phrases d’entrée avant une liste (par exemple, **§§ 1.1–1.2** après l’entrée des familles de mécanisme, la section 3 avant ses puces d’index de définitions d’administration responsable du **Chapitre cinq**, et la section 4.1 avant ses puces de plancher d’égalité), la glose se place immédiatement avant la liste ou le bloc qu’elle suit le plus près.
 
 </details>
 
@@ -110,7 +106,7 @@ Les familles de mécanisme, la publication, l’auditabilité et le pluralisme s
   - des contrôles de conflit ;
   - des règles de briefing et de preuve ;
   - des contrôles d’indépendance des facilitateurs ou du personnel ;
-  - des sauvegardes anti-lobbying et anti-intimidation ; et
+  - des sauvegardes anti-lobbying et anti-intimidation, qui appliquent les **Limites au contact d’influence** de [**l’Article XII-E**](../../core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Limites au contact d’influence et au lobbying*) à leur niveau le plus strict : tout contact privé avec les membres sélectionnés au sujet de l’affaire est interdit, sauf par le registre public des briefings ; et
   - des voies de contestation pour :
     - l’échec de sélection ;
     - la manipulation ;
@@ -173,6 +169,40 @@ Les familles de mécanisme, la publication, l’auditabilité et le pluralisme s
     - Ces contrôles s’appliquent au [**Choix constitutionnel fondationnel**](core_05_band_integrative.md#foundational-constitutional-choice) (Chapitre cinq) et à toute autre action d’autorisation dans la portée du mécanisme.
     - Les contrôles sont **neutres quant au mécanisme** : ils n’imposent pas un type de polity unique, et ils s’appliquent également aux conceptions représentatives, de sortition, de ratification fédérée, de **traité, pacte ou charte**, et hybrides.
     - La préservation nominale de l’opposition couplée à une exclusion fonctionnelle par dépendance covert à la sphère informationnelle, capture d’administration responsable de l’autonomie sous l’**Article XIII-E** (*Systèmes de haute autonomie et intégrité de processus médiée par des outils*), ou moyens structurels comparables, est non conforme sous ce contrôle et sous la clause de **Pluralisme**.
+
+**Limites au financement de la sélection**
+
+- **Portée :** Ces limites s’appliquent lorsqu’un mécanisme de légitimité choisit l’autorité de gouverner par campagne, nomination ou nomination compétitive. Elles ne s’appliquent pas à la sortition, qui dispose plus haut de son propre plancher d’intégrité, ni aux votes de ratification des corps membres dans les conceptions fédérées ou de traité.
+- **Divulgation :** L’argent matériel, le soutien en nature ou la campagne organisée par une [**partie intéressée**](../../core_05_band_accountability.md#interested-party) en faveur d’un candidat, d’un candidat nommé ou d’un appointant doit être divulgué publiquement avant que la sélection soit décidée, assez tôt pour que la communauté habilitante puisse l’évaluer.
+    - La divulgation doit nommer la véritable source, et pas seulement l’intermédiaire, et être publiée dans un registre public, consultable et lisible par machine.
+    - Un donateur qui démontre un risque crédible de représailles peut utiliser une **voie d’identité protégée**. Le montant et le fait du don restent publics.
+        - **Risque crédible :** Le risque est crédible s’il existe une probabilité raisonnable, sans qu’elle soit certaine, que la divulgation expose le donateur ou ses proches au harcèlement, aux menaces, à la violence, ou à la perte d’un emploi, d’un logement ou d’avantages en raison du don. Un schéma de représailles visant les soutiens du bénéficiaire, de la cause ou du groupe suffit, tout comme une menace précise. Le donateur n’a pas à prouver un préjudice passé.
+        - **Décision :** Un siège indépendant statue sans parti pris quant aux points de vue et sur une base consignée, en temps utile pour divulguer le don selon la règle ci-dessus. Une demande en attente ne retarde jamais la divulgation du montant et du fait du don. La décision vaut pour un cycle de sélection et peut être renouvelée.
+        - **Contrôles :** Le siège vérifie l’identité et l’admissibilité du donateur ainsi que le total de ses dons au regard du plafond. Cette voie n’est ouverte ni aux candidats, ni aux candidats nommés, ni aux appointants, ni à quiconque agit pour une institution.
+        - **Registres scellés :** Les auditeurs et l’organisme chargé de l’application peuvent consulter les registres d’identité pour leurs contrôles et en cas de violation. Ils sont autrement confidentiels et supprimés après une période de conservation publiée.
+- **Sources admissibles :** Seuls les sentients appartenant à la communauté habilitante, donnant leurs propres ressources, peuvent apporter de l’argent ou un soutien en nature. Les institutions (y compris les entreprises, syndicats, associations et fonds) et les systèmes ne le peuvent pas.
+- **Hors de la communauté habilitante :** Aucun argent, soutien en nature ou activité de campagne organisée ne peut provenir de l’extérieur de la communauté habilitante, que ce soit directement, par un tiers ou par tout autre intermédiaire.
+- **Anti-contournement :**
+    - Les dons des propriétaires, dirigeants ou employés qu’une institution dirige ou rembourse sont considérés comme des dons de cette institution.
+    - Le regroupement de dons, les dons remboursés et les dons faits au nom d’autrui sont interdits.
+    - Les prêts doivent respecter les conditions commerciales ordinaires. L’abandon d’un prêt constitue un don au moment où il est abandonné.
+    - Le soutien en nature comprend la puissance de calcul, les données, les emplacements publicitaires, le contenu de campagne généré, ainsi que le temps payé ou dirigé du personnel ou des systèmes d’une institution.
+- **Plafonds :** Le mécanisme publié de l’adoptant doit plafonner ce qu’un donateur peut donner au cours d’un cycle de sélection, tous bénéficiaires de cette sélection confondus. Il doit cumuler les dons de donateurs et de comptes liés, indexer le plafond sur une mesure publiée et en publier les motifs.
+    - **Valeur par défaut :** un quart du revenu hebdomadaire médian des membres de la communauté habilitante. Lorsque le revenu n’est pas une mesure pertinente, la valeur par défaut est un quart d’une mesure publiée équivalente des moyens ordinaires.
+    - L’adoptant peut fixer un plafond inférieur. Il ne peut en fixer un supérieur que s’il en publie les motifs et qu’un siège indépendant les examine.
+- **Dépenses de tiers :** Toute personne autre qu’un candidat ou un candidat nommé qui dépense pour influencer la sélection doit s’enregistrer avant de dépenser et s’identifier dans ses publications. Elle doit aussi déclarer ses sources et ses dépenses, respecter une limite publiée pendant la période de sélection et ne pas coordonner ses dépenses avec un candidat, un candidat nommé ou un appointant. Chaque financeur d’un tiers est soumis aux règles sur les sources admissibles et au plafond ci-dessus.
+    - **Limite par défaut :** dix pour cent de la limite de dépenses applicable au candidat ou au candidat nommé visé par la dépense.
+    - Si l’adoptant ne fixe aucune limite de dépenses de ce type, il doit fixer lui-même une limite pour les tiers et en publier les motifs. Il n’existe alors aucune valeur par défaut.
+- **Soutien public (facultatif) :** Un adoptant peut compenser la perte d’argent institutionnel par des fonds de contrepartie, des bons ou le remboursement partiel des dépenses. Dans ce cas, ses règles d’accès ne doivent pas verrouiller les candidats ou partis établis. Aucun financement public n’est exigé.
+    - **Conception par défaut :** remboursement de la moitié des dépenses admissibles d’un candidat lorsque celui-ci démontre un soutien correspondant à un seuil publié ne dépassant pas un pour cent des membres admissibles. Les mêmes conditions s’appliquent aux indépendants et aux nouveaux partis.
+- **Application :** La conformité doit être auditée par un organisme structurellement distinct des candidats et des appointants, qui est un forum d’[**Intégrité**](core_11_forum.md#45-integrity-forums) ou un contrôle indépendant équivalent. En cas de violation matérielle, il peut ordonner une correction, la récupération de fonds inadmissibles et la disqualification. Les violations sont acheminées comme déclencheurs d’intégrité sous **CI-5** (*Intégrité des conflits, anti-capture et anti-corruption*) et **CJS-3.6** (*opérations d’assurance d’intégrité et de résilience*).
+- **Examen des résultats :** À chaque revalidation périodique sous [**l’Article XXVII-A**](../../core_06_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) (*Non-enracinement et révisabilité*), l’adoptant doit vérifier si ces limites réduisent la capture, et pas seulement si elles sont respectées.
+    - Il doit publier la part des fonds de sélection par type de source, la part fournie par les plus grands donateurs, la part des dépenses de tiers, le délai entre le don et son inscription au registre, et les résultats de l’application.
+    - Il doit rechercher les fuites. Une hausse du financement par un canal que les règles ne couvrent pas, ou des décisions qui favorisent de manière répétée des financeurs ayant un intérêt matériel, prouve qu’il faut modifier les règles.
+    - Il doit réviser les règles lorsqu’il trouve de tels éléments.
+- **Dépendance :** Le soutien qui crée une dépendance matérielle entre le sentient sélectionné et le soutien constitue un conflit sous **l’Article XII-D** (*Garanties anti-capture*). Il doit être divulgué, et le sentient sélectionné doit se récuser des affaires dans lesquelles le soutien a un intérêt matériel.
+- **Neutralité du mécanisme :** Ces limites ne fixent aucun plafond de dépenses et n’exigent aucun financement public. Une conception où des fonds non divulgués ou inadmissibles peuvent décider d’une sélection échoue au contrôle de **sélection contestée** ci-dessus. Lorsque le droit externe interdit une limite, l’adoptant l’applique dans toute la mesure permise par ce droit et publie l’écart, comme le prévoit le [Chapitre quinze](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law).
+- **Protection de l’opposition :** Ces règles ne doivent pas servir à décourager l’organisation, la communication et la dissidence protégées par la **protection de l’opposition** ci-dessus.
 
 **Plancher d’indépendance de nomination des forums**
 

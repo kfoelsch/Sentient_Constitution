@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스에서의 위치(비운영): 파일 구조와 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 이 파일은 [영어 제4장](../../core_04_burden_traceability_verification.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **이전(이 언어):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비운영): 제4장이 사는 곳과 여기에 남는 것</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 장이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 이것이 사는 곳 (안내):
 > - **사원(四元) 지도:** 부담 배분, 증거, 추적 가능성, 관찰 가능성, 확인은 [전문](core_00_preamble.md#chapter-00-preamble--foundational-requirements)에서 세운 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **감독** 다리와 **책무** 다리를 시행한다; **참여**는 **3**절과 **4**절 아래의 실무 관찰 가능성과 독립 이의를 통해, 실질로 요구되는 곳에서. 요건은 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절된다.
 > - **헌법 주관자:** 부담 배분, 준수 증거, 정의 추적 가능성, 관찰 가능성, 보안 제약 확인. **제8장**은 이 장과 함께 읽는 궤적 기록과 확인된 입력 규율을 주관한다.

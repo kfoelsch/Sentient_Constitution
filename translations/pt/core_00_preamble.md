@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
+> Widgets marcados como **não operativos** (localização no corpus, orientação para quem lê, mapas de leitura) servem apenas para orientação. Eles não acrescentam, removem nem restringem obrigações vinculantes, nem no próprio arquivo nem em qualquer outro.
 >
 > Este arquivo é um **piloto de idioma de leitura** do [Preâmbulo em inglês](../../core_00_preamble.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_00_preamble.md`](../../core_00_preamble.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
@@ -23,6 +23,45 @@ Um sistema não pode continuar legítimo fazendo os sencientes sofrerem quando e
 O modo como os sistemas são desenhados, testados e operados deve sustentar a sobrevivência, o bem-estar, a dignidade, a honestidade e a estabilidade duradoura.
 
 Pretendemos construir sistemas melhores — estruturados para eliminar esses desequilíbrios — e substituí-los por instituições mais responsáveis, mais robustas e mais sensíveis às necessidades reais de todos os sencientes. Esta Constituição começa esse trabalho com um modelo melhor de como podemos colaborar com justiça, eficácia e de forma sustentável.
+
+<a id="what-systems-reward"></a>
+### O que os sistemas recompensam
+
+*Em termos simples: um sistema obtém mais daquilo pelo que paga, seja dinheiro, status, acesso, proteção ou silêncio. Portanto, o teste de um sistema não é o que ele diz valorizar, mas o que recompensa. Se prejudicar outras pessoas dá retorno, ou dizer a verdade custa caro, o sistema está falhando, por melhores que sejam seus objetivos declarados.*
+
+Os sistemas ensinam. Todo sistema, seja operado por humanos, por IA ou por ambos, informa a quem está dentro dele o que compensa e o que tem custo. Faz isso por meio de pagamento, promoção, status, acesso, proteção, metas, avaliações e sinais de otimização. Sencientes, instituições e sistemas de IA se ajustam a esses sinais. Um sistema pode afirmar que valoriza a honestidade e o cuidado com quem afeta. Se promove quem esconde problemas e transfere o custo a outras pessoas, ensina o contrário.
+
+<a id="two-fundamental-questions"></a>Por isso, esta Constituição apresenta as [**Duas Perguntas Fundamentais**](#two-fundamental-questions) a todo sistema:
+
+1. **Ele recompensa condutas que ajudam sencientes a florescer e perdurar, dizem a verdade e reparam danos?**
+2. **Ele recompensa condutas que prejudicam sem justificativa, induzem ao erro, excluem, atrasam, desperdiçam ou transferem custos a outras pessoas?**
+
+Um sistema só passa se a resposta à primeira pergunta for sim e à segunda for não. Responder a uma não responde à outra, pois um sistema pode pagar por boas condutas e ainda pagar por danos.
+
+**Primeira pergunta:** o sistema falha nela se qualquer uma destas ações deixar de ser recompensada ou for penalizada, de forma aberta ou discreta:
+
+- relatar um problema de boa-fé ([Relato Protegido (Denúncia)](../../core_05_band_accountability.md#protected-reporting-whistleblowing))
+- contestar uma decisão
+- recusar-se a participar de uma irregularidade ([Capítulo Um §17.5 Dever de Resistir](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+
+A penalidade pode ser marginalização, retaliação ([Retaliação contra Relato Protegido e Interferência de Acesso](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)) ou desgaste.
+
+**Segunda pergunta:** o sistema falha nela se qualquer uma destas ações trouxer benefício, de forma aberta ou discreta:
+
+- dano
+- indução ao erro (incluindo ocultação e confiança falsa)
+- exclusão injusta
+- atraso
+- desperdício
+- transferência injusta de custos
+
+A recompensa pode ser reconhecimento, avanço, proteção, crédito em métricas ou fazer vista grossa ([Capítulo Um §3.2.6 Não Recompensar Condutas Anticonstitucionais](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+
+Nenhuma das perguntas exige que todos concordem. Discordância honesta, relato de boa-fé e recusa em participar de irregularidades não são antissociais. Um sistema que os trata assim está invertendo as coisas. Nenhuma das perguntas é um teste de popularidade. O que conta como ajuda, dano, justiça ou justificativa é julgado pelos próprios padrões desta Constituição: [**Florescimento**](#flourishing) e [**Continuidade**](#continuity), dentro de Segurança, Verdade, Confiança e do Piso de Direitos. Não depende do que uma maioria, um operador ou o momento aprova.
+
+As perguntas vinculam todas as pessoas que decidem o que um sistema recompensa ou penaliza. Isso inclui operadores, instituições e responsáveis que definem pagamento, promoção, acesso, metas e avaliações. Inclui também quem projeta sistemas que treinam ou otimizam IA, pois seus objetivos e sinais de retorno são recompensas exatamente nesse sentido. Responsáveis humanos e de IA estão sob o mesmo padrão ([Capítulo Um §17.1 Padrão de Administração Compartilhada](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+
+O Capítulo Um transforma essas perguntas em regras para incentivos: [Capítulo Um §19.1.1 O que os Incentivos Devem Fazer](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) sustenta a primeira, e [Capítulo Um §19.1.2 O que os Incentivos Não Devem Fazer](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) sustenta a segunda. Responda verificando o que realmente acontece, não aceitando a palavra de alguém. [Alinhamento de Incentivos](../../core_05_band_integrative.md#incentive-alignment) e [Divergência de Indicadores Substitutos](../../core_05_band_oversight.md#proxy-divergence) explicam como; a [**aposta material**](#material-stake) define quanto investigar. Os quatro deveres da seção 1 mantêm as respostas honestas.
 
 ### 1. O modelo
 
@@ -53,7 +92,7 @@ Não se consegue manter bem o funcionamento dos sistemas compartilhados sem medi
 
 Precisamos de medição contínua focada no que mais importa para a sobrevivência e o bem-estar sencientes: se os sistemas dos quais dependemos de verdade sustentam o [**Florescimento**](#flourishing) e a [**Continuidade**](#continuity) ao longo do tempo, com revisão escalada à [**aposta material**](#material-stake) — quanto impacto, dependência e risco estão envolvidos.
 
-A medição nesta Constituição faz uma pergunta prática: os sistemas estão de fato ajudando os sencientes a florescer e a durar, ou estão produzindo dano, atraso, exclusão, desperdício, dependência oculta ou falsa confiança? As medições não são pontuações por si — são ferramentas para assegurar que nossas sociedades compartilhadas produzam resultados sustentáveis, resilientes e compassivos, alinhados ao bem-estar senciente e à saúde ecológica da Terra. Esse dever toma forma vinculante pelos [Dois Fins Constitucionais](#two-constitutional-aims): **Florescimento** e **Continuidade**.
+A medição nesta Constituição apresenta as [**Duas Perguntas Fundamentais**](#two-fundamental-questions) ao que os sistemas realmente fazem, e não ao que alegam. Medições não são notas por si mesmas — são ferramentas para assegurar resultados sustentáveis, resilientes e compassivos, alinhados ao bem-estar senciente e à saúde ecológica da Terra. Esse dever assume forma vinculante pelos [Dois Fins Constitucionais](#two-constitutional-aims): **Florescimento** e **Continuidade**.
 
 As medições devem permanecer rastreáveis a esses fins e às proteções de direitos estabelecidas nesta Constituição. Vazão bruta, utilização, quadro de pessoal, receita, latência ou outros substitutos convenientes não podem substituir o desempenho constitucional onde a [divergência de indicadores substitutos](../../core_05_band_oversight.md#proxy-divergence) é previsível.
 

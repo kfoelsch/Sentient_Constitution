@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Cinco, pata Actuación a tiempo de la Tétrada en inglés](../../core_05_apex_timeliness_leg.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_05_apex_timeliness_leg.md`](../../core_05_apex_timeliness_leg.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)

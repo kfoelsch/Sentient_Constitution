@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Posição no corpus (não operacional): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes neste arquivo ou em outros capítulos.
->
 > Este arquivo **faz parte da Constituição Senciente** e **só é vinculante em conjunto com** os demais arquivos numerados `core_*`, lidos como um único instrumento. Ele contém o **Capítulo Um, Parte A** (§§1–12: finalidade e função; o objetivo de Florescimento, introduzido em §2 e desenvolvido por meio de bem-estar, Segurança, Verdade, Confiança e Liberdade; e o objetivo de Continuidade, introduzido em §8 e desenvolvido por meio da capacidade dos sistemas compartilhados, resiliência, estrutura de mercado e avaliação sistêmica).
 >
 > **Anterior:** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação ao leitor (não operacional): como o Capítulo Um conecta os objetivos, a Tétrade, os Artigos e as definições</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação ao leitor**. Ele não acrescenta, remove nem restringe obrigações vinculantes neste arquivo ou em outros capítulos. Os componentes **Rastro** e **Definições · Avaliação · Conformidade** de cada seção contêm o encaminhamento vinculante; este bloco é um mapa da parte para leitores que estão começando o Capítulo Um.
+> Os componentes **Rastro** e **Definições · Avaliação · Conformidade** de cada seção contêm o encaminhamento vinculante; este bloco é um mapa da parte para leitores que estão começando o Capítulo Um.
 
 **Como as camadas se conectam.** Cada camada responde a uma pergunta diferente, e cada princípio do Capítulo Um aponta para as outras três:
 
@@ -1463,7 +1461,7 @@ Alegações de **[Capacidade Produtiva](core_05_band_continuity.md#productive-ca
 
 - Princípios a montante: [§11 Estrutura de Mercado](#11-market-structure); [Limiar de Concentração de Mercado](core_05_band_accountability.md#market-concentration-threshold).
 - Princípios a jusante: **CJS-3.11.1 — disciplina para definir limiares de concentração de mercado (ajustável pelo adotante)** (regras operativas para definir limiares); [§11.2 Promoção da Concorrência e Combate à Dominação](#112-pro-competition-and-anti-domination); [§11.3 Limite de Consolidação](#113-consolidation-ceiling); [CJS-3.11.3 — disciplina para definir o limite de consolidação (ajustável pelo adotante)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (regras operativas para definir o limite em [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)); [Capítulo Nove §4 Pergunta 2 — quão bom ou ruim foi?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Capítulo Onze §5.1 Subversão baseada em concentração](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- Porta para tutores (não operativa): Cartão de próximos passos: [Estrutura de mercado](implementation/STEWARD_ENTRY_DOORS.md#market-structure). O cartão não pode restringir a Constituição.
+- Porta para tutores (não operativa): Cartão de próximos passos: [Estrutura de mercado](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subseções (ordem de leitura): [§11.1.1 Acionadores do Limiar de Concentração (Ajustável pelo Adotante)](#1111-concentration-threshold-triggers-adopter-tunable).
 
 </details>
