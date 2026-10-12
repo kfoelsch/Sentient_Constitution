@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-12T15:05:51+00:00",
+  "generated_at": "2026-10-12T15:15:42+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1595,35 +1595,35 @@
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-42-role-criteria-appointment-standards-and-removal-pathways",
       "heading": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "line": 77,
+      "line": 78,
       "kind": "section"
     },
     "CI-4.3": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-43-periodic-performance-and-capability-review",
       "heading": "CI-4.3: Periodic performance and capability review",
-      "line": 100,
+      "line": 101,
       "kind": "section"
     },
     "CI-4.4": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-44-interpretive-body-composition-controls",
       "heading": "CI-4.4: Interpretive-body composition controls",
-      "line": 114,
+      "line": 115,
       "kind": "section"
     },
     "CI-4.5": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-45-authorized-roles-and-accountability-chains",
       "heading": "CI-4.5: Authorized roles and accountability chains",
-      "line": 133,
+      "line": 134,
       "kind": "section"
     },
     "CI-4.6": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-46-seat-catalog",
       "heading": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
-      "line": 171,
+      "line": 172,
       "kind": "section"
     },
     "CI-5": {
@@ -1951,7 +1951,7 @@
       "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
       "anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing",
       "heading": "CJS-2.5 Shared procedural abstractions for delegated bodies and forum routing",
-      "line": 205,
+      "line": 206,
       "kind": "section"
     },
     "CJS-3": {

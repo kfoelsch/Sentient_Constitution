@@ -35,7 +35,7 @@
 > | **III. Review** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | Which independent forums review the evidence and stakeholder concerns, in what order, and how can they be contested? | B |
 > | **IV. Decide** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | What outcome do the forums reach, and may the system go live? | B |
 > | **V. Record** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | Is the one record opened for forum review complete with the outcome, supporting findings, conditions, and operating plan, and can it be audited? | B |
-> | **VI. Operate** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening), [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) | Who monitors outcomes and responds to incidents and challenges, how are corrections verified, when is review repeated, and what reaches standing? | B |
+> | **VI. Operate** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, operate and recertify) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, standing bridge) | Who monitors outcomes and responds to incidents and challenges, how are corrections verified, when is review repeated, and what reaches standing? | B |
 >
 > The chart of the whole process is [Part A §1.1 Certification at a glance](core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance).
 

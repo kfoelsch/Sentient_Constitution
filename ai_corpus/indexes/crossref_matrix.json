@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-12T15:05:50+00:00",
+  "generated_at": "2026-10-12T15:15:42+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1681,7 +1681,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 78,
+            "count": 80,
             "anchors": [
               "#33-governance-layers",
               "#constitutional-tetrad",
@@ -1718,7 +1718,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 24,
+            "count": 26,
             "anchors": [
               "#13-constitutional-collision-resolution-process",
               "#1313-proportionality",
@@ -1786,7 +1786,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 338,
+            "count": 344,
             "anchors": [
               "#attributable-action",
               "#attributable-action-constitutional-a",
@@ -1858,7 +1858,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 320,
+            "count": 353,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -1949,7 +1949,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 195,
+            "count": 201,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -2073,8 +2073,9 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
+              "#2-four-seat-constitutional-floor",
               "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
@@ -2102,11 +2103,12 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 13,
+            "count": 15,
             "anchors": [
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#54-special-violation-rules",
               "#6-contribution-consequences-second",
+              "#62-competency-bars-and-clearances",
               "#71-anti-aggregation-of-named-pathway-effects",
               "#72-plain-statement-of-effect-and-burden",
               "#91-remediation-capacity-and-funding",
@@ -2136,7 +2138,7 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 9,
+            "count": 11,
             "anchors": [
               "#1-authorization-and-legitimacy-of-governing-authority",
               "#5-authorized-roles-competency-development-and-contribution"
@@ -2158,6 +2160,20 @@
             "anchors": []
           },
           {
+            "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+            "count": 2,
+            "anchors": [
+              "#ci-41-shared-staffing-and-competency-floor"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
             "anchors": [
@@ -2176,9 +2192,10 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 5,
+            "count": 7,
             "anchors": [
-              "#10-inspectable-attributable-action"
+              "#10-inspectable-attributable-action",
+              "#cs-410-competency-succession-and-oversight-effectiveness"
             ]
           },
           {
@@ -6190,7 +6207,7 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 78,
+            "count": 80,
             "anchors": [
               "#10-relationship-to-standing",
               "#6-forum-process",
@@ -6463,7 +6480,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 63,
+            "count": 64,
             "anchors": [
               "#1-purpose-and-role",
               "#11-certification-at-a-glance",
@@ -10172,12 +10189,13 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#16-stewardship-in-depth",
               "#171-shared-stewardship-standard",
               "#172-alignment-under-pressure",
               "#175-duty-to-resist",
+              "#176-portable-competence",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -12027,6 +12045,13 @@
             "anchors": [
               "#1543-incorporation-layer",
               "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 1,
+            "anchors": [
+              "#176-portable-competence"
             ]
           },
           {
@@ -14696,12 +14721,13 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#171-shared-stewardship-standard",
               "#172-alignment-under-pressure",
               "#173-logging-the-role-not-the-steward",
-              "#175-duty-to-resist"
+              "#175-duty-to-resist",
+              "#176-portable-competence"
             ]
           },
           {
@@ -16427,11 +16453,12 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#171-shared-stewardship-standard",
               "#172-alignment-under-pressure",
-              "#175-duty-to-resist"
+              "#175-duty-to-resist",
+              "#176-portable-competence"
             ]
           },
           {

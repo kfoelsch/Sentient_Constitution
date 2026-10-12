@@ -6,14 +6,14 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **681** of **984** headings carry a gloss (69%).
+Coverage: **682** of **985** headings carry a gloss (69%).
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (15/17 glossed)
 - [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (38/54 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (19/29 glossed)
-- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (29/36 glossed)
+- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (30/37 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/15 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04_burden_traceability_verification.md` (7/7 glossed)
@@ -648,7 +648,7 @@ when one situation touches more than one incorporated how-to file — or when yo
 
 ## CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE
 
-Source file: [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) · 29/36 headings glossed
+Source file: [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) · 30/37 headings glossed
 
 #### 16. Stewardship In Depth
 
@@ -676,7 +676,7 @@ when safety, truth, and legitimate confidentiality allow, shared systems should 
 
 #### 17. Consequential Stewardship: The Steward Role
 
-a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](../../core_01_c_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)), and what it must refuse ([§17.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../../core_01_c_stewardship_capacity_principles.md#162-institutional-development).
+a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](../../core_01_c_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)), what it must refuse ([§17.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)), and how its competence stays portable so no one steward is indispensable ([§17.6 Portable Competence](../../core_01_c_stewardship_capacity_principles.md#176-portable-competence)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../../core_01_c_stewardship_capacity_principles.md#162-institutional-development).
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)
 
@@ -709,6 +709,12 @@ no incumbent owns the right to begin useful constitutional work. A sentient or c
 "I was only following instructions" is no defense — for a human or an AI. If you are told to do something unlawful or unconstitutional, you refuse, write it down, and raise it. Someone offering to take the blame does not take the duty off you. An instruction you merely dislike is not one you get to refuse.
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)
+
+##### 17.6 Portable Competence
+
+no consequential job should depend on one sentient's head. The more a system matters and the more others rely on it, the more those who run it must be able to hand it over, explain it, and check each other's work — and know enough about the neighboring jobs to see trouble where the jobs meet. This sets a floor on coverage and understanding. It does not make everyone rotate through everything.
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#176-portable-competence)
 
 #### 18. Governance Under Stewardship Discipline
 

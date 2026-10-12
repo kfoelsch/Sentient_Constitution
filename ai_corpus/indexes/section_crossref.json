@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-12T15:05:50+00:00",
+  "generated_at": "2026-10-12T15:15:42+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16998,
+  "edge_count": 17037,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -14684,6 +14684,286 @@
       "source_anchor": "#175-duty-to-resist",
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": "#10-inspectable-attributable-action",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#132-epistemic-disclosure-constraints",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#strategic-stewardship-obligation",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#strategic-stewardship-obligation-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#strategic-stewardship-obligation-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#distributed-understanding",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#distributed-understanding-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#distributed-understanding-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#anti-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#2-four-seat-constitutional-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#chapter-seven-functional-independence-and-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#5-authorized-roles-competency-development-and-contribution",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-41-shared-staffing-and-competency-floor",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "target_anchor": "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.6 Portable Competence",
+      "source_anchor": "#176-portable-competence",
+      "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "target_anchor": "#cs-410-competency-succession-and-oversight-effectiveness",
       "count": 2
     },
     {
@@ -83131,16 +83411,24 @@
       "source_header": "1.1 Certification at a glance",
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#chapter-eight-part-b-system-alignment-certification--record-and-process",
-      "count": 1
+      "target_anchor": "#9-recertification-and-reopening",
+      "count": 3
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1.1 Certification at a glance",
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#9-recertification-and-reopening",
+      "target_anchor": "#10-relationship-to-standing",
       "count": 2
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1.1 Certification at a glance",
+      "source_anchor": "#11-certification-at-a-glance",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#chapter-eight-part-b-system-alignment-certification--record-and-process",
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -83164,14 +83452,6 @@
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#8-system-certification-record",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#10-relationship-to-standing",
       "count": 1
     },
     {
@@ -87012,7 +87292,7 @@
       "source_anchor": "#chapter-eight-part-b-certification-record-and-process",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#11-certification-at-a-glance",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
@@ -95701,6 +95981,14 @@
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#172-alignment-under-pressure",
       "count": 2
+    },
+    {
+      "source_file": "core_13_governance.md",
+      "source_header": "5. Authorized Roles, Competency Development, and Contribution",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#176-portable-competence",
+      "count": 1
     },
     {
       "source_file": "core_13_governance.md",
@@ -110522,6 +110810,14 @@
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "source_header": "CI-4.1: Shared staffing and competency floor",
       "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#176-portable-competence",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.1: Shared staffing and competency floor",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
@@ -120652,6 +120948,14 @@
       "source_anchor": "#cjs-23-cross-implementation-trust-integrity-joint-operation-model",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "source_header": "CJS-2.4 Class-scaled lane staffing and competency redundancy",
+      "source_anchor": "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#176-portable-competence",
       "count": 1
     },
     {
@@ -132636,6 +132940,14 @@
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#173-logging-the-role-not-the-steward",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#176-portable-competence",
       "count": 1
     },
     {

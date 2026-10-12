@@ -320,7 +320,7 @@ Maintain **ongoing** proficiency as conditions evolve.
 
 **Track**, **disclose**, **remediate** material gaps on timelines scaled by class and tier (**Article XVI-A** (*Auditability and Observable Evidence*)).
 
-**Succession:** Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. That aligns with continuity/transfer above and **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*); stricter for **Class A** / **CSS-A**.
+**Succession** (principle: [Chapter One §17.6 Portable Competence](../core_01_c_stewardship_capacity_principles.md#176-portable-competence)): Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. That aligns with continuity/transfer above and **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*); stricter for **Class A** / **CSS-A**.
 
 <a id="cs-4-11-integrated-risk-governance-class-a-b"></a>
 ## CS-4.11 Integrated risk governance (Class A/B)
