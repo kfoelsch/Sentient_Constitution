@@ -5,119 +5,126 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 975,
+  "chunk_count": 976,
   "chunks": [
     {
       "file": "core_00_preamble.md",
       "heading": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
       "anchor": "#chapter-00-preamble--foundational-requirements",
       "line_start": 2,
-      "line_end": 26
+      "line_end": 27
+    },
+    {
+      "file": "core_00_preamble.md",
+      "heading": "What Systems Reward",
+      "anchor": "#what-systems-reward",
+      "line_start": 28,
+      "line_end": 49
     },
     {
       "file": "core_00_preamble.md",
       "heading": "1. The Model",
       "anchor": "#1-the-model",
-      "line_start": 27,
-      "line_end": 74
+      "line_start": 50,
+      "line_end": 97
     },
     {
       "file": "core_00_preamble.md",
       "heading": "2. Measurements Overview",
       "anchor": "#2-measurements-overview",
-      "line_start": 75,
-      "line_end": 102
+      "line_start": 98,
+      "line_end": 125
     },
     {
       "file": "core_00_preamble.md",
       "heading": "3. Governance and Stewardship",
       "anchor": "#3-governance-and-stewardship",
-      "line_start": 103,
-      "line_end": 111
+      "line_start": 126,
+      "line_end": 134
     },
     {
       "file": "core_00_preamble.md",
       "heading": "3.1 Using Measurements in Governance",
       "anchor": "#31-using-measurements-in-governance",
-      "line_start": 112,
-      "line_end": 120
+      "line_start": 135,
+      "line_end": 143
     },
     {
       "file": "core_00_preamble.md",
       "heading": "3.2 Key Governance Processes",
       "anchor": "#32-key-governance-processes",
-      "line_start": 121,
-      "line_end": 136
+      "line_start": 144,
+      "line_end": 159
     },
     {
       "file": "core_00_preamble.md",
       "heading": "3.3 Governance Layers",
       "anchor": "#33-governance-layers",
-      "line_start": 137,
-      "line_end": 152
+      "line_start": 160,
+      "line_end": 175
     },
     {
       "file": "core_00_preamble.md",
       "heading": "4. Principles, Definitions, and Rights",
       "anchor": "#4-principles-definitions-and-rights",
-      "line_start": 153,
-      "line_end": 217
+      "line_start": 176,
+      "line_end": 240
     },
     {
       "file": "core_00_preamble.md",
       "heading": "5. Functional Independence and Segregation of Duties",
       "anchor": "#5-functional-independence-and-segregation-of-duties",
-      "line_start": 218,
-      "line_end": 238
+      "line_start": 241,
+      "line_end": 261
     },
     {
       "file": "core_00_preamble.md",
       "heading": "5.1 Four-seat separation map",
       "anchor": "#51-four-seat-separation-map",
-      "line_start": 239,
-      "line_end": 273
+      "line_start": 262,
+      "line_end": 296
     },
     {
       "file": "core_00_preamble.md",
       "heading": "6. Key Practical Process Pipelines",
       "anchor": "#6-key-practical-process-pipelines",
-      "line_start": 274,
-      "line_end": 293
+      "line_start": 297,
+      "line_end": 316
     },
     {
       "file": "core_00_preamble.md",
       "heading": "6.1 Process map",
       "anchor": "#61-process-map",
-      "line_start": 294,
-      "line_end": 345
+      "line_start": 317,
+      "line_end": 368
     },
     {
       "file": "core_00_preamble.md",
       "heading": "6.2 How the full chain fits together",
       "anchor": "#62-how-the-full-chain-fits-together",
-      "line_start": 346,
-      "line_end": 363
+      "line_start": 369,
+      "line_end": 386
     },
     {
       "file": "core_00_preamble.md",
       "heading": "7. Process Ownership and Outputs",
       "anchor": "#7-process-ownership-and-outputs",
-      "line_start": 364,
-      "line_end": 420
+      "line_start": 387,
+      "line_end": 443
     },
     {
       "file": "core_00_preamble.md",
       "heading": "8. Governance, Change, and Incorporation",
       "anchor": "#8-governance-change-and-incorporation",
-      "line_start": 421,
-      "line_end": 453
+      "line_start": 444,
+      "line_end": 476
     },
     {
       "file": "core_00_preamble.md",
       "heading": "9. Adopted Implementation Corpus",
       "anchor": "#9-adopted-implementation-corpus",
-      "line_start": 454,
-      "line_end": 473
+      "line_start": 477,
+      "line_end": 496
     },
     {
       "file": "core_01_a_values_principles.md",
@@ -838,126 +845,126 @@
       "heading": "19. Incentive Alignment and System Capture",
       "anchor": "#19-incentive-alignment-and-system-capture",
       "line_start": 1045,
-      "line_end": 1099
+      "line_end": 1101
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.1 Alignment Requirement",
       "anchor": "#191-alignment-requirement",
-      "line_start": 1100,
-      "line_end": 1125
+      "line_start": 1102,
+      "line_end": 1127
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.1.1 What Incentives Must Do",
       "anchor": "#1911-what-incentives-must-do",
-      "line_start": 1126,
-      "line_end": 1144
+      "line_start": 1128,
+      "line_end": 1146
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.1.2 What Incentives Must Not Do",
       "anchor": "#1912-what-incentives-must-not-do",
-      "line_start": 1145,
-      "line_end": 1166
+      "line_start": 1147,
+      "line_end": 1168
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.1.3 Stewardship and Operator Application",
       "anchor": "#1913-stewardship-and-operator-application",
-      "line_start": 1167,
-      "line_end": 1175
+      "line_start": 1169,
+      "line_end": 1177
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.1.4 Role-Depth and Material-Responsibility Pathways",
       "anchor": "#1914-role-depth-and-material-responsibility-pathways",
-      "line_start": 1176,
-      "line_end": 1200
+      "line_start": 1178,
+      "line_end": 1202
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.1.5 Constitutional Outcome Claims Discipline",
       "anchor": "#1915-constitutional-outcome-claims-discipline",
-      "line_start": 1201,
-      "line_end": 1223
+      "line_start": 1203,
+      "line_end": 1225
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.2 Convenient Proxies and Proxy Divergence",
       "anchor": "#192-convenient-proxies-and-proxy-divergence",
-      "line_start": 1224,
-      "line_end": 1255
+      "line_start": 1226,
+      "line_end": 1257
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.3 Misalignment Detection",
       "anchor": "#193-misalignment-detection",
-      "line_start": 1256,
-      "line_end": 1296
+      "line_start": 1258,
+      "line_end": 1298
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.3.1 Capture Escalation Triggers",
       "anchor": "#1931-capture-escalation-triggers",
-      "line_start": 1297,
-      "line_end": 1328
+      "line_start": 1299,
+      "line_end": 1330
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.4 Misalignment Correction and Capture Response",
       "anchor": "#194-misalignment-correction-and-capture-response",
-      "line_start": 1329,
-      "line_end": 1377
+      "line_start": 1331,
+      "line_end": 1379
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
       "anchor": "#195-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 1378,
-      "line_end": 1419
+      "line_start": 1380,
+      "line_end": 1421
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.5.1 What May Not Be Rewarded",
       "anchor": "#1951-what-may-not-be-rewarded",
-      "line_start": 1420,
-      "line_end": 1441
+      "line_start": 1422,
+      "line_end": 1443
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.5.2 Who Decides Outcomes",
       "anchor": "#1952-who-decides-outcomes",
-      "line_start": 1442,
-      "line_end": 1461
+      "line_start": 1444,
+      "line_end": 1463
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.5.3 Market Signals Are Not Constitutional Proof",
       "anchor": "#1953-market-signals-are-not-constitutional-proof",
-      "line_start": 1462,
-      "line_end": 1483
+      "line_start": 1464,
+      "line_end": 1485
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.5.4 Proportionate Controls and Implementation Custody",
       "anchor": "#1954-proportionate-controls-and-implementation-custody",
-      "line_start": 1484,
-      "line_end": 1521
+      "line_start": 1486,
+      "line_end": 1523
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "19.6 Keeping Responsibility When Ownership or Structure Changes",
       "anchor": "#196-keeping-responsibility-when-ownership-or-structure-changes",
-      "line_start": 1522,
-      "line_end": 1576
+      "line_start": 1524,
+      "line_end": 1578
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "20. Integrated Application",
       "anchor": "#20-integrated-application",
-      "line_start": 1577,
-      "line_end": 1625
+      "line_start": 1579,
+      "line_end": 1627
     },
     {
       "file": "core_02_definition_structure.md",
@@ -4051,112 +4058,112 @@
       "heading": "CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS",
       "anchor": "#chapter-eight-part-b-certification-record-and-process",
       "line_start": 2,
-      "line_end": 53
+      "line_end": 122
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "6. Forum Process",
       "anchor": "#6-forum-process",
-      "line_start": 54,
-      "line_end": 84
+      "line_start": 123,
+      "line_end": 153
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "6.1 Forum supervision and component roles",
       "anchor": "#61-forum-supervision-and-component-roles",
-      "line_start": 85,
-      "line_end": 140
+      "line_start": 154,
+      "line_end": 209
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "6.2 Supervisory sequence",
       "anchor": "#62-supervisory-sequence",
-      "line_start": 141,
-      "line_end": 172
+      "line_start": 210,
+      "line_end": 241
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "6.3 Contestability chain",
       "anchor": "#63-contestability-chain",
-      "line_start": 173,
-      "line_end": 186
+      "line_start": 242,
+      "line_end": 255
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "6.4 Anti-bypass",
       "anchor": "#64-anti-bypass",
-      "line_start": 187,
-      "line_end": 200
+      "line_start": 256,
+      "line_end": 269
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "7. Certification Outcomes",
       "anchor": "#7-certification-outcomes",
-      "line_start": 201,
-      "line_end": 315
+      "line_start": 270,
+      "line_end": 384
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "8. System Certification Record",
       "anchor": "#8-system-certification-record",
-      "line_start": 316,
-      "line_end": 337
+      "line_start": 385,
+      "line_end": 406
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "8.1 Minimum record contents",
       "anchor": "#81-minimum-record-contents",
-      "line_start": 338,
-      "line_end": 453
+      "line_start": 407,
+      "line_end": 522
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "8.2 Record integrity: transparency and auditability",
       "anchor": "#82-record-integrity-transparency-and-auditability",
-      "line_start": 454,
-      "line_end": 501
+      "line_start": 523,
+      "line_end": 570
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "9. Recertification and Reopening",
       "anchor": "#9-recertification-and-reopening",
-      "line_start": 502,
-      "line_end": 556
+      "line_start": 571,
+      "line_end": 627
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "9.1 Challenging a Certification",
       "anchor": "#91-challenging-a-certification",
-      "line_start": 557,
-      "line_end": 591
+      "line_start": 628,
+      "line_end": 662
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "9.1.1 Contestability paths",
       "anchor": "#911-contestability-paths",
-      "line_start": 592,
-      "line_end": 618
+      "line_start": 663,
+      "line_end": 689
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "9.2 Provisional and full certification",
       "anchor": "#92-provisional-and-full-certification",
-      "line_start": 619,
-      "line_end": 660
+      "line_start": 690,
+      "line_end": 731
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "9.3 Non-evasion",
       "anchor": "#93-non-evasion",
-      "line_start": 661,
-      "line_end": 670
+      "line_start": 732,
+      "line_end": 741
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "10. Relationship to Standing",
       "anchor": "#10-relationship-to-standing",
-      "line_start": 671,
-      "line_end": 751
+      "line_start": 742,
+      "line_end": 824
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",

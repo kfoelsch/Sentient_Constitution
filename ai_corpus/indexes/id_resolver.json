@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-11T13:15:31+00:00",
+  "generated_at": "2026-10-12T15:15:42+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1395,21 +1395,21 @@
       "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
       "anchor": "#ci-211-civic-infrastructure-and-non-instrumental-time",
       "heading": "CI-21.1: Civic infrastructure and non-instrumental time",
-      "line": 59,
+      "line": 58,
       "kind": "section"
     },
     "CI-21.2": {
       "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
       "anchor": "#ci-212-voluntary-association-and-anti-coercion-guardrails",
       "heading": "CI-21.2: Voluntary association and anti-coercion guardrails",
-      "line": 78,
+      "line": 77,
       "kind": "section"
     },
     "CI-21.3": {
       "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
       "anchor": "#ci-213-referral-and-escalation-interfaces",
       "heading": "CI-21.3: Referral and escalation interfaces",
-      "line": 98,
+      "line": 97,
       "kind": "section"
     },
     "CI-22": {
@@ -1444,35 +1444,35 @@
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-251-publication-intake-and-correction-records",
       "heading": "CI-25.1: Publication intake and correction records",
-      "line": 64,
+      "line": 63,
       "kind": "section"
     },
     "CI-25.2": {
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-252-evidence-review-and-reviewer-custody",
       "heading": "CI-25.2: Evidence, review, and reviewer custody",
-      "line": 82,
+      "line": 81,
       "kind": "section"
     },
     "CI-25.3": {
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-253-challenge-correction-and-access",
       "heading": "CI-25.3: Challenge, correction, and access",
-      "line": 101,
+      "line": 100,
       "kind": "section"
     },
     "CI-25.4": {
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-254-incentive-criteria",
       "heading": "CI-25.4: Incentive criteria",
-      "line": 120,
+      "line": 119,
       "kind": "section"
     },
     "CI-25.5": {
       "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "anchor": "#ci-255-ombuds-escalation-and-technical-forum-referral",
       "heading": "CI-25.5: Ombuds, escalation, and technical forum referral",
-      "line": 136,
+      "line": 135,
       "kind": "section"
     },
     "CI-26": {
@@ -1595,35 +1595,35 @@
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-42-role-criteria-appointment-standards-and-removal-pathways",
       "heading": "CI-4.2: Role criteria, appointment standards, and removal pathways",
-      "line": 77,
+      "line": 78,
       "kind": "section"
     },
     "CI-4.3": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-43-periodic-performance-and-capability-review",
       "heading": "CI-4.3: Periodic performance and capability review",
-      "line": 100,
+      "line": 101,
       "kind": "section"
     },
     "CI-4.4": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-44-interpretive-body-composition-controls",
       "heading": "CI-4.4: Interpretive-body composition controls",
-      "line": 114,
+      "line": 115,
       "kind": "section"
     },
     "CI-4.5": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-45-authorized-roles-and-accountability-chains",
       "heading": "CI-4.5: Authorized roles and accountability chains",
-      "line": 133,
+      "line": 134,
       "kind": "section"
     },
     "CI-4.6": {
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-46-seat-catalog",
       "heading": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
-      "line": 171,
+      "line": 172,
       "kind": "section"
     },
     "CI-5": {
@@ -1951,7 +1951,7 @@
       "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
       "anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing",
       "heading": "CJS-2.5 Shared procedural abstractions for delegated bodies and forum routing",
-      "line": 205,
+      "line": 206,
       "kind": "section"
     },
     "CJS-3": {
@@ -4335,8 +4335,8 @@
       "term": "Constitutional Tetrad",
       "file": "core_00_preamble.md",
       "anchor": "#constitutional-tetrad",
-      "line_start": 31,
-      "line_end": 35
+      "line_start": 54,
+      "line_end": 58
     },
     {
       "term": "Contest Seat",
@@ -5007,8 +5007,8 @@
       "term": "material stake",
       "file": "core_00_preamble.md",
       "anchor": "#material-stake",
-      "line_start": 31,
-      "line_end": 31
+      "line_start": 54,
+      "line_end": 54
     },
     {
       "term": "Materiality",

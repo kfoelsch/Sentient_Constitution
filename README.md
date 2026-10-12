@@ -42,6 +42,8 @@ The Sentient Constitution is a written framework meant to prevent that. It asks 
 
 The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 28 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems are held to the same standard.
 
+Two questions run through all of it, and anyone can put them to a system they know. Does it reward conduct that helps sentients flourish and endure, tells the truth, and repairs harm? Does it reward conduct that unjustifiably harms, misleads, excludes, delays, wastes, or shifts costs onto others? A system passes only if the first answer is yes and the second is no. What counts as helping, harming, fair, or justified is judged by the Constitution's own standards, not by the system. These are the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions); [What Systems Reward](core_00_preamble.md#what-systems-reward) explains them.
+
 The Constitution calls everyone it protects **sentients**, because it does not assume that only humans count. See [Who counts, and who decides?](implementation/FAQ.md#3-who-counts-and-who-decides)
 
 It is a *model* constitution. An organization (for example a cooperative, a research lab, an open-source community, or an AI institution) can choose to adopt it. Until one does, it is a proposal to read, test, and discuss.

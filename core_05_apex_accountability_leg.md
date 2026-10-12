@@ -92,7 +92,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
-| Incentive alignment and proxy integrity | Do rewards and metrics track real constitutional outcomes? | Detects perverse incentives, capture, and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) |
+| Incentive alignment and proxy integrity | Do rewards and metrics track real constitutional outcomes? | Detects perverse incentives, capture, and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence); the measurement form of the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) |
 | Market structure and contestability | Can entry, exit, bargaining, and alternatives remain real? | Applies anti-concentration and anti-domination discipline where capacity claims depend on open markets |
 
 These measures ask whether reward structures, market power, and answerability keep the **accountability** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) real in practice — not merely present on paper.

@@ -68,6 +68,13 @@ and timeliness — that grow with how much is at stake. Human and AI
 stewards are held to the same standard: no separate rulebook for AI,
 no exemption for humans.
 
+It puts two questions to every system: "Does it reward conduct that
+helps sentients flourish and endure, tells the truth, and repairs
+harm?" and "Does it reward conduct that unjustifiably harms, misleads,
+excludes, delays, wastes, or shifts costs onto others?" What counts as
+helping, harming, fair, or justified is judged by this Constitution's
+own standards. (Preamble)
+
 How it works
 
 The Constitution defines every term it relies on — more than two
@@ -87,7 +94,7 @@ On that base, three processes carry most of the weight:
   verified help and verified harm — is kept on the record as separate
   entries, so neither erases the other. Consequences follow from the
   record, not from reputation or a popularity score. (Chapters Nine
-  and Nine)
+  and Ten)
 - Contestability. Anyone affected by a system or a decision can
   challenge it, have it reviewed by people who did not make it, and
   get it corrected within set time limits. (Chapter Twelve)

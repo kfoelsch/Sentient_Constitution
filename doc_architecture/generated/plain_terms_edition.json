@@ -3,14 +3,14 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 984,
-  "glossed_count": 681,
+  "heading_count": 985,
+  "glossed_count": 682,
   "files": [
     {
       "file": "core_00_preamble.md",
       "title": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
-      "heading_count": 16,
-      "glossed_count": 14,
+      "heading_count": 17,
+      "glossed_count": 15,
       "sections": [
         {
           "file": "core_00_preamble.md",
@@ -24,81 +24,90 @@
         {
           "file": "core_00_preamble.md",
           "level": 3,
+          "title": "What Systems Reward",
+          "anchor": "what-systems-reward",
+          "line": 28,
+          "gloss": "a system gets more of whatever it pays for, whether in money, status, access, protection, or silence. So the test of a system is not what it says it values but what it rewards. If harming others pays, or telling the truth costs, the system is failing, however good its stated aims.",
+          "gloss_line": 30
+        },
+        {
+          "file": "core_00_preamble.md",
+          "level": 3,
           "title": "1. The Model",
           "anchor": "1-the-model",
-          "line": 27,
+          "line": 50,
           "gloss": "four duties — participation, oversight, accountability, and timeliness — scale with how much impact, dependence, and risk are on the line, and they serve two aims together: Flourishing and Continuity, inside a Rights Floor that does not move.",
-          "gloss_line": 29
+          "gloss_line": 52
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "2. Measurements Overview",
           "anchor": "2-measurements-overview",
-          "line": 75,
+          "line": 98,
           "gloss": "shared systems cannot run on guesswork or vanity metrics. Measure whether sentients actually flourish and endure. Scale review with impact, dependence, and risk.",
-          "gloss_line": 77
+          "gloss_line": 100
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "3. Governance and Stewardship",
           "anchor": "3-governance-and-stewardship",
-          "line": 103,
+          "line": 126,
           "gloss": "legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And sentients like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.",
-          "gloss_line": 105
+          "gloss_line": 128
         },
         {
           "file": "core_00_preamble.md",
           "level": 4,
           "title": "3.1 Using Measurements in Governance",
           "anchor": "31-using-measurements-in-governance",
-          "line": 112,
+          "line": 135,
           "gloss": "first name the problem and the stake. Then choose the matching measurement category and use shared technical standards — not convenience numbers — as evidence.",
-          "gloss_line": 114
+          "gloss_line": 137
         },
         {
           "file": "core_00_preamble.md",
           "level": 4,
           "title": "3.2 Key Governance Processes",
           "anchor": "32-key-governance-processes",
-          "line": 121,
+          "line": 144,
           "gloss": "when the text requires it, first separate the sentients or systems that act, check, record, and hear challenges. Material issues then go through certification, written records of help and harm, correction and remedy, and forum review with clocks. Ordinary disputes use the published challenge path first. These processes test authorized governance; they do not create governing authority by themselves.",
-          "gloss_line": 123
+          "gloss_line": 146
         },
         {
           "file": "core_00_preamble.md",
           "level": 4,
           "title": "3.3 Governance Layers",
           "anchor": "33-governance-layers",
-          "line": 137,
+          "line": 160,
           "gloss": "who may govern is a different question from who has a voice within an already-authorized system. A participation vote or trust score does not grant governing authority. For ordinary disputes, the published participation challenge path is the ordinary first step, but it does not replace independent forum review when it fails.",
-          "gloss_line": 139
+          "gloss_line": 162
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "4. Principles, Definitions, and Rights",
           "anchor": "4-principles-definitions-and-rights",
-          "line": 153,
+          "line": 176,
           "gloss": "Chapters One through Six own values, how words are built and checked, the dictionary, and the Rights Floor; later chapters must respect those homes, not quietly move them.",
-          "gloss_line": 155
+          "gloss_line": 178
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "5. Functional Independence and Segregation of Duties",
           "anchor": "5-functional-independence-and-segregation-of-duties",
-          "line": 218,
+          "line": 241,
           "gloss": "before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.",
-          "gloss_line": 220
+          "gloss_line": 243
         },
         {
           "file": "core_00_preamble.md",
           "level": 4,
           "title": "5.1 Four-seat separation map",
           "anchor": "51-four-seat-separation-map",
-          "line": 239,
+          "line": 262,
           "gloss": null,
           "gloss_line": null
         },
@@ -107,16 +116,16 @@
           "level": 3,
           "title": "6. Key Practical Process Pipelines",
           "anchor": "6-key-practical-process-pipelines",
-          "line": 274,
+          "line": 297,
           "gloss": "Chapters Eight through Twelve apply Chapter Seven's separation-of-duties floor in one chain: certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.",
-          "gloss_line": 276
+          "gloss_line": 299
         },
         {
           "file": "core_00_preamble.md",
           "level": 4,
           "title": "6.1 Process map",
           "anchor": "61-process-map",
-          "line": 294,
+          "line": 317,
           "gloss": null,
           "gloss_line": null
         },
@@ -125,36 +134,36 @@
           "level": 4,
           "title": "6.2 How the full chain fits together",
           "anchor": "62-how-the-full-chain-fits-together",
-          "line": 346,
+          "line": 369,
           "gloss": "first separate the seats. Then follow the path from system check to remedy, with forums supervising the dispute and standing steps throughout.",
-          "gloss_line": 348
+          "gloss_line": 371
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "7. Process Ownership and Outputs",
           "anchor": "7-process-ownership-and-outputs",
-          "line": 364,
+          "line": 387,
           "gloss": "the process map and [how the full chain fits together](#62-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.",
-          "gloss_line": 366
+          "gloss_line": 389
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "8. Governance, Change, and Incorporation",
           "anchor": "8-governance-change-and-incorporation",
-          "line": 421,
+          "line": 444,
           "gloss": "Chapters Thirteen through Seventeen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.",
-          "gloss_line": 423
+          "gloss_line": 446
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
           "title": "9. Adopted Implementation Corpus",
           "anchor": "9-adopted-implementation-corpus",
-          "line": 454,
+          "line": 477,
           "gloss": "four adopted corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.",
-          "gloss_line": 456
+          "gloss_line": 479
         }
       ]
     },
@@ -1112,7 +1121,7 @@
           "level": 4,
           "title": "19.1 Alignment Requirement",
           "anchor": "191-alignment-requirement",
-          "line": 1100,
+          "line": 1102,
           "gloss": null,
           "gloss_line": null
         },
@@ -1121,7 +1130,7 @@
           "level": 5,
           "title": "19.1.1 What Incentives Must Do",
           "anchor": "1911-what-incentives-must-do",
-          "line": 1126,
+          "line": 1128,
           "gloss": null,
           "gloss_line": null
         },
@@ -1130,7 +1139,7 @@
           "level": 5,
           "title": "19.1.2 What Incentives Must Not Do",
           "anchor": "1912-what-incentives-must-not-do",
-          "line": 1145,
+          "line": 1147,
           "gloss": null,
           "gloss_line": null
         },
@@ -1139,7 +1148,7 @@
           "level": 5,
           "title": "19.1.3 Stewardship and Operator Application",
           "anchor": "1913-stewardship-and-operator-application",
-          "line": 1167,
+          "line": 1169,
           "gloss": null,
           "gloss_line": null
         },
@@ -1148,16 +1157,16 @@
           "level": 5,
           "title": "19.1.4 Role-Depth and Material-Responsibility Pathways",
           "anchor": "1914-role-depth-and-material-responsibility-pathways",
-          "line": 1176,
+          "line": 1178,
           "gloss": "sentients who run shared systems need real jobs with real skill and real say — not titles, suggestion boxes, or committees that cannot change anything. How those jobs are defined, who can grow into them, and how they are held to account is spelled out later. This subsection only says what those paths have to do: they have to make participation real, and the more that is actually at stake, the more real they have to be.",
-          "gloss_line": 1187
+          "gloss_line": 1189
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "19.1.5 Constitutional Outcome Claims Discipline",
           "anchor": "1915-constitutional-outcome-claims-discipline",
-          "line": 1201,
+          "line": 1203,
           "gloss": null,
           "gloss_line": null
         },
@@ -1166,7 +1175,7 @@
           "level": 4,
           "title": "19.2 Convenient Proxies and Proxy Divergence",
           "anchor": "192-convenient-proxies-and-proxy-divergence",
-          "line": 1224,
+          "line": 1226,
           "gloss": null,
           "gloss_line": null
         },
@@ -1175,90 +1184,90 @@
           "level": 4,
           "title": "19.3 Misalignment Detection",
           "anchor": "193-misalignment-detection",
-          "line": 1256,
+          "line": 1258,
           "gloss": "no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§19.3.1 Capture Escalation Triggers](#1931-capture-escalation-triggers).",
-          "gloss_line": 1281
+          "gloss_line": 1283
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "19.3.1 Capture Escalation Triggers",
           "anchor": "1931-capture-escalation-triggers",
-          "line": 1297,
+          "line": 1299,
           "gloss": "spotting capture is not treating it as ordinary operations. Once it shows up, it is an escalation trigger — prove it under Chapters Two through Five, and if the system cannot fix it in place, send it to the correction and standing homes named below.",
-          "gloss_line": 1310
+          "gloss_line": 1312
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "19.4 Misalignment Correction and Capture Response",
           "anchor": "194-misalignment-correction-and-capture-response",
-          "line": 1329,
+          "line": 1331,
           "gloss": "once misalignment or capture is detected, systems must actually fix it — modify bad incentives, constrain concentrated control, and restore alignment. Concentrated or hidden control that defeats challenge, oversight, accountability, or durable **Continuity** must be disclosed, mitigated, and escalated — not absorbed as ordinary operation.",
-          "gloss_line": 1354
+          "gloss_line": 1356
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "19.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
           "anchor": "195-contingent-claims-games-of-chance-and-event-contract-markets",
-          "line": 1378,
+          "line": 1380,
           "gloss": "betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§19.5.1 What May Not Be Rewarded](#1951-what-may-not-be-rewarded). Who decides outcomes is [§19.5.2 Who Decides Outcomes](#1952-who-decides-outcomes). What signals count is [§19.5.3 Market Signals Are Not Constitutional Proof](#1953-market-signals-are-not-constitutional-proof). Where detailed rules live is [§19.5.4 Proportionate Controls and Implementation Custody](#1954-proportionate-controls-and-implementation-custody).",
-          "gloss_line": 1411
+          "gloss_line": 1413
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "19.5.1 What May Not Be Rewarded",
           "anchor": "1951-what-may-not-be-rewarded",
-          "line": 1420,
+          "line": 1422,
           "gloss": "these systems may not be built so that the payout, the bonus, or the business model gets better when someone is harmed, coerced, or corrupted — or when whoever decides the outcome is captured.",
-          "gloss_line": 1432
+          "gloss_line": 1434
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "19.5.2 Who Decides Outcomes",
           "anchor": "1952-who-decides-outcomes",
-          "line": 1442,
+          "line": 1444,
           "gloss": "whoever decides whether the bet paid out cannot be captured.",
-          "gloss_line": 1454
+          "gloss_line": 1456
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "19.5.3 Market Signals Are Not Constitutional Proof",
           "anchor": "1953-market-signals-are-not-constitutional-proof",
-          "line": 1462,
+          "line": 1464,
           "gloss": "odds and prices are not proof of what is true or what this Constitution requires.",
-          "gloss_line": 1473
+          "gloss_line": 1475
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "19.5.4 Proportionate Controls and Implementation Custody",
           "anchor": "1954-proportionate-controls-and-implementation-custody",
-          "line": 1484,
+          "line": 1486,
           "gloss": "how tightly you run these systems has to match how much is actually at stake. This chapter does not write the gambling code — adopting law and the systems and institutions adopted corpora do that.",
-          "gloss_line": 1496
+          "gloss_line": 1498
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "19.6 Keeping Responsibility When Ownership or Structure Changes",
           "anchor": "196-keeping-responsibility-when-ownership-or-structure-changes",
-          "line": 1522,
+          "line": 1524,
           "gloss": "bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.",
-          "gloss_line": 1545
+          "gloss_line": 1547
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 3,
           "title": "20. Integrated Application",
           "anchor": "20-integrated-application",
-          "line": 1577,
+          "line": 1579,
           "gloss": "every later chapter, institutional design, and system is read through this chapter's principles — and those principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.",
-          "gloss_line": 1609
+          "gloss_line": 1611
         }
       ]
     },
@@ -5476,34 +5485,34 @@
           "level": 3,
           "title": "6. Forum Process",
           "anchor": "6-forum-process",
-          "line": 54,
+          "line": 123,
           "gloss": "certification is not a pile of opinions from different corners. Each kind of forum handles a defined piece of the work. One lawful review order decides what counts and in what order. A matching set of challenge routes lets affected parties push back at each step, without getting lost in internal bureaucracy or bounced between forums.",
-          "gloss_line": 68
+          "gloss_line": 137
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "6.1 Forum supervision and component roles",
           "anchor": "61-forum-supervision-and-component-roles",
-          "line": 85,
+          "line": 154,
           "gloss": "certifying that a system meets constitutional alignment requires an independent look at the evidence and at stakeholders' concerns. Different kinds of forums each handle an assigned piece of that work. Affected sentients can add evidence and challenge the review before the outcome is published, through the component and integrity challenge routes. No single specialty can run the whole process alone, not even technical review or Integrity coordination.",
-          "gloss_line": 87
+          "gloss_line": 156
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "6.2 Supervisory sequence",
           "anchor": "62-supervisory-sequence",
-          "line": 141,
+          "line": 210,
           "gloss": "a **stay** is a temporary pause. It holds off final approval, reliance, or the next review step until the right forum finishes its review. A stay is not a final yes or no.",
-          "gloss_line": 143
+          "gloss_line": 212
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "6.3 Contestability chain",
           "anchor": "63-contestability-chain",
-          "line": 173,
+          "line": 242,
           "gloss": null,
           "gloss_line": null
         },
@@ -5512,7 +5521,7 @@
           "level": 4,
           "title": "6.4 Anti-bypass",
           "anchor": "64-anti-bypass",
-          "line": 187,
+          "line": 256,
           "gloss": null,
           "gloss_line": null
         },
@@ -5521,25 +5530,25 @@
           "level": 3,
           "title": "7. Certification Outcomes",
           "anchor": "7-certification-outcomes",
-          "line": 201,
+          "line": 270,
           "gloss": "every certification review ends in a stated outcome, backed by evidence and by the concerns raised along the way. Nothing goes live until it is certified, the published outcome has given affected sentients a practicable chance to challenge it, and the protections required before go-live have been checked.",
-          "gloss_line": 214
+          "gloss_line": 283
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
           "title": "8. System Certification Record",
           "anchor": "8-system-certification-record",
-          "line": 316,
+          "line": 385,
           "gloss": "a certification record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [Illustrative System Class Profiles (Non-Exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.",
-          "gloss_line": 330
+          "gloss_line": 399
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "8.1 Minimum record contents",
           "anchor": "81-minimum-record-contents",
-          "line": 338,
+          "line": 407,
           "gloss": null,
           "gloss_line": null
         },
@@ -5548,34 +5557,34 @@
           "level": 4,
           "title": "8.2 Record integrity: transparency and auditability",
           "anchor": "82-record-integrity-transparency-and-auditability",
-          "line": 454,
+          "line": 523,
           "gloss": "a certification record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§9.1 Challenging a Certification](#91-challenging-a-certification).",
-          "gloss_line": 466
+          "gloss_line": 535
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
           "title": "9. Recertification and Reopening",
           "anchor": "9-recertification-and-reopening",
-          "line": 502,
+          "line": 571,
           "gloss": "no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the conditions on the record. A certified system is checked again on schedule. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.",
-          "gloss_line": 516
+          "gloss_line": 585
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "9.1 Challenging a Certification",
           "anchor": "91-challenging-a-certification",
-          "line": 557,
+          "line": 628,
           "gloss": "a certification record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.",
-          "gloss_line": 568
+          "gloss_line": 639
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 5,
           "title": "9.1.1 Contestability paths",
           "anchor": "911-contestability-paths",
-          "line": 592,
+          "line": 663,
           "gloss": null,
           "gloss_line": null
         },
@@ -5584,16 +5593,16 @@
           "level": 4,
           "title": "9.2 Provisional and full certification",
           "anchor": "92-provisional-and-full-certification",
-          "line": 619,
+          "line": 690,
           "gloss": "a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing a check sends it back to the short leash.",
-          "gloss_line": 621
+          "gloss_line": 692
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "9.3 Non-evasion",
           "anchor": "93-non-evasion",
-          "line": 661,
+          "line": 732,
           "gloss": null,
           "gloss_line": null
         },
@@ -5602,9 +5611,9 @@
           "level": 3,
           "title": "10. Relationship to Standing",
           "anchor": "10-relationship-to-standing",
-          "line": 671,
+          "line": 742,
           "gloss": "certification can feed standing, but it is not standing. The record of a certified system, good or bad, may supply verified facts to Chapter Nine, but only through a strict gate. Chapters Nine and Ten alone decide standing records and their effects.",
-          "gloss_line": 684
+          "gloss_line": 755
         }
       ]
     },

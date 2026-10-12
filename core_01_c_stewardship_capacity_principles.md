@@ -1082,6 +1082,8 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing out safety, truth, participation, or the future is not "working governance." It is a defect this Constitution names and corrects through the incentive and capture discipline below. Rewards for operators, agents, and system components, including pay, promotion, and equity, must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency. That holds whether the reward comes directly, through delay, through aggregation, or through arrangements that depend on misconduct or its concealment.*
 
+The Preamble states this chapter's incentive discipline as the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) (see [What Systems Reward](core_00_preamble.md#what-systems-reward)). [§19.1.1 What Incentives Must Do](#1911-what-incentives-must-do) is the rule behind the first, and [§19.1.2 What Incentives Must Not Do](#1912-what-incentives-must-not-do) is the rule behind the second.
+
 **Systems must:**
 
 - align incentive structures acting on agents, operators, or constituent components with the values and constraints defined in this Constitution;

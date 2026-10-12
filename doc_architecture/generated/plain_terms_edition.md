@@ -6,11 +6,11 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **681** of **984** headings carry a gloss (69%).
+Coverage: **682** of **985** headings carry a gloss (69%).
 
 ## Contents
 
-- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
+- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (15/17 glossed)
 - [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (38/54 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (19/29 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (30/37 glossed)
@@ -54,7 +54,13 @@ Coverage: **681** of **984** headings carry a gloss (69%).
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
-Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 14/16 headings glossed
+Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 15/17 headings glossed
+
+#### What Systems Reward
+
+a system gets more of whatever it pays for, whether in money, status, access, protection, or silence. So the test of a system is not what it says it values but what it rewards. If harming others pays, or telling the truth costs, the system is failing, however good its stated aims.
+
+[Source](../../core_00_preamble.md#what-systems-reward)
 
 #### 1. The Model
 
