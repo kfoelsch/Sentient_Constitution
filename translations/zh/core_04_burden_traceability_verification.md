@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > 本文件是[英语第四章](../../core_04_burden_traceability_verification.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > **上一篇（本语种）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：第四章所在位置与本章保留者</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本章或其他章节中有约束力的义务。
->
 > 本章所在位置（导航）：
 > - **四元地图：** 负担分配、证据、可追溯性、可观察性与核验，实施[序言](core_00_preamble.md#chapter-00-preamble--foundational-requirements)所确立的[宪法四元](core_00_preamble.md#constitutional-tetrad)**监督**与**问责**腿；凡具实质性要求之处，通过第 **3** 节与第 **4** 节下的实践可观察性与独立质疑实施**参与**。要求按[实质利害](core_00_preamble.md#material-stake)缩放。
 > - **宪法主责者：** 负担分配、合规证据、定义可追溯性、可观察性，以及受安全约束的核验。**第八章**主责与本章一并阅读的轨迹记录与经核实输入纪律。

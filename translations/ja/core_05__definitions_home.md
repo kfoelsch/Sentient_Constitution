@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス上の位置（非操作性）：ファイル構造と読み方</span></strong></summary>
 
-> 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
->
 > 本ファイルは[英語第五章、A部](../../core_05__definitions_home.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_05__definitions_home.md`](../../core_05__definitions_home.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **前（本言語）：** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">読者案内（非操作性）：読み順と平たい言葉の注</span></strong></summary>
 
-> 以下の内容は**読者向け案内にすぎない**。本章または他の章にある拘束力のある義務を加え、除き、または狭めない。
->
 > 平たい言葉の読みの注：**第一章**を高水準の価値と方向のために読め；**第二から第四章**を定義の構造、誠実性、検証の仕組みのために読め；**第六章**を基礎の**権利**の床のために読め。その後、解釈、監査、裁定における用語の精度のために本章へ戻れ。（他の章 — **第十章** *不正行為* と **第八章** *軌跡* を含む — はそれぞれの読みの経路で適用される。それらは第六章の権利の床、または第二から第四章の定義の仕組みの代替ではない。）
 
 </details>
@@ -210,6 +206,7 @@
 - [機会のゲーム](../../core_05_band_accountability.md#game-of-chance)
 - [ゲート](../../core_05_band_oversight.md#gate)
 - [ゲート基準](../../core_05_band_oversight.md#gate-criteria)
+- [本番稼働](../../core_05_band_continuity.md#go-live)
 - [善意](../../core_05_band_accountability.md#good-faith)
 - [統治](../../core_05_band_accountability.md#governance)
 - [段階的能力](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -231,7 +228,9 @@
 - [革新の報酬と反囲い込み](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [内部者優位](../../core_05_band_accountability.md#insider-advantage)
 - [実体化の同意](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [制度](../../core_05_band_continuity.md#institution)
 - [制度開発](../../core_05_band_continuity.md#institutional-development)
+- [利害関係者](../../core_05_band_accountability.md#interested-party)
 - [世代間責任](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [不可逆的剥奪の尺度](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [不可逆的危害](../../core_05_band_accountability.md#irreversible-harm)
@@ -275,10 +274,12 @@
 - [参加者の軌跡](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [参加](core_05_apex_participation_leg.md#participation-constitutional)
 - [人柄](../../core_05_band_participation.md#personhood)
+- [パイロット](../../core_05_band_continuity.md#pilot)
 - [報道とジャーナリズム活動](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [第一次利害の経路づけ](../../core_05_band_accountability.md#primary-stakes-routing)
 - [プライバシー（情報的）](../../core_05_band_continuity.md#privacy-informational)
 - [手続的公正](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [プロセス](../../core_05_band_continuity.md#process)
 - [生産能力](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [比例性](../../core_05_band_accountability.md#proportionality)
 - [比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -436,8 +437,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">読者案内（非操作性）：前文の測定クロスウォーク</span></strong></summary>
 
-> 以下の内容は**読者向け案内にすぎない**。本章または他の章にある拘束力のある義務を加え、除き、または狭めない。
->
 > [前文 §2](core_00_preamble.md#measurements-overview) は七つの憲法上の**測定カテゴリ**を列挙する — 運用者がシステムを評価するときに立てる問いである。第五章は**典範定義**を四元の脚、**継続**目的、および**統合**の横断脚の所管によって編成する。下の表は、各測定カテゴリをその第五章の本拠へ地図づける。一つのカテゴリが複数の帯ファイルにまたがってよい。測定カテゴリが重なっても、典範の本拠は動かない。
 >
 > **実質性**（[実質性の判定](../../core_05_band_oversight.md#materiality-determination)）は統合的である — [実質的利害](core_00_preamble.md#material-stake)のもとですべての測定ファミリーの尺度を合わせる横断の閾ゲート。下の表における別個のカテゴリではない。

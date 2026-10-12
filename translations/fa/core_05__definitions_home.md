@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">جایگاه در پیکره (غیرعملیاتی): ساختار پرونده و قواعد خواندن</span></strong></summary>
 
-> محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این پرونده یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
->
 > این پرونده **آزمایش زبان خواننده** برای [فصل پنجم، بخش الف به انگلیسی](../../core_05__definitions_home.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_05__definitions_home.md`](../../core_05__definitions_home.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
 > **قبلی (این زبان):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">راهنمای خواننده (غیرعملیاتی): ترتیب خواندن و یادداشت زبان ساده</span></strong></summary>
 
-> محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این فصل یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
->
 > یادداشت خواندن به زبان ساده: **فصل یکم** را برای ارزش‌ها و جهت سطح بالا بخوانید؛ **فصل‌های دوم تا چهارم** را برای ساختار تعریف، یکپارچگی و مکانیک راستی‌آزمایی؛ و **فصل ششم** را برای کف بنیادین **حقوق**، سپس برای دقت اصطلاح در تفسیر، حسابرسی و داوری به این فصل برگردید. (فصل‌های دیگر، از جمله **فصل دهم** *سوءرفتار* و **فصل هشتم** *ردپا*، در مسیرهای خواندن خود اعمال می‌شوند؛ جانشین کف حقوق فصل ششم یا مکانیک تعریف فصل‌های دوم تا چهارم نیستند.)
 
 </details>
@@ -209,6 +205,7 @@
 - [بازی بخت](../../core_05_band_accountability.md#game-of-chance)
 - [دروازه](../../core_05_band_oversight.md#gate)
 - [معیارهای دروازه](../../core_05_band_oversight.md#gate-criteria)
+- [راه‌اندازی عملیاتی](../../core_05_band_continuity.md#go-live)
 - [حسن نیت](../../core_05_band_accountability.md#good-faith)
 - [حکمرانی](../../core_05_band_accountability.md#governance)
 - [ظرفیت درجه‌بندی‌شده](../../core_05_band_participation.md#graduated-capability)
@@ -229,7 +226,9 @@
 - [جایگاه آغازگر](../../core_05_band_accountability.md#initiating-seat)
 - [پاداش نوآوری و ضدمحصورسازی](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [مزیت خودی](../../core_05_band_accountability.md#insider-advantage)
+- [نهاد](../../core_05_band_continuity.md#institution)
 - [رضایت نمونه‌سازی](../../core_05_band_participation.md#instantiation-consent)
+- [طرف ذی‌علاقه](../../core_05_band_accountability.md#interested-party)
 - [توسعهٔ نهادی](../../core_05_band_continuity.md#institutional-development)
 - [مسئولیت میان‌نسلی](../../core_05_band_continuity.md#intergenerational-responsibility)
 - [سنجهٔ محرومیت برگشت‌ناپذیر](../../core_05_band_accountability.md#irreversible-deprivation-measure)
@@ -274,10 +273,12 @@
 - [ردپای مشارکت‌کننده](../../core_05_band_accountability.md#participant-standing)
 - [مشارکت](../../core_05_apex_participation_leg.md#participation-constitutional)
 - [شخصیت حقوقی](../../core_05_band_participation.md#personhood)
+- [پایلوت](../../core_05_band_continuity.md#pilot)
 - [مطبوعات و فعالیت روزنامه‌نگاری](../../core_05_band_oversight.md#press-and-journalistic-activity)
 - [مسیرگذاری منافع اولیه](../../core_05_band_accountability.md#primary-stakes-routing)
 - [حریم خصوصی (اطلاعاتی)](../../core_05_band_continuity.md#privacy-informational)
 - [انصاف رویه‌ای](../../core_05_band_participation.md#procedural-fairness)
+- [فرایند](../../core_05_band_continuity.md#process)
 - [ظرفیت مولد](../../core_05_band_continuity.md#productive-capacity)
 - [تناسب](../../core_05_band_accountability.md#proportionality)
 - [همیاری متناسب میان‌سیستمی](../../core_05_band_continuity.md#proportionate-cross-system-support)
@@ -436,8 +437,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">راهنمای خواننده (غیرعملیاتی): جدول تقاطع اندازه‌گیری دیباچه</span></strong></summary>
 
-> محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این فصل یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
->
 > [دیباچه §2](core_00_preamble.md#measurements-overview) هفت **ردهٔ اندازه‌گیری** قانون اساسی را فهرست می‌کند — پرسش‌هایی که گردانندگان هنگام ارزیابی نظام‌ها می‌پرسند. فصل پنجم **تعریف‌های معیار** را بر پایهٔ پای چهارگانه، هدف **پیوستگی**، و مالکیت **یکپارچهٔ** میان‌پا سازمان می‌دهد. جدول زیر هر ردهٔ اندازه‌گیری را به خانه‌های فصل پنجمش می‌نگارد. یک رده می‌تواند بیش از یک پروندهٔ نوار را بپوشاند؛ خانه‌های معیار وقتی رده‌های اندازه‌گیری همپوشانی کنند جابه‌جا نمی‌شوند.
 >
 > **اهمیت مادی** ([تعیین اهمیت مادی](../../core_05_band_oversight.md#materiality-determination)) یکپارچه است — دروازهٔ آستانهٔ عرضی که همهٔ خانواده‌های اندازه‌گیری را زیر [منافع مادی](core_00_preamble.md#material-stake) مقیاس می‌کند؛ ردهٔ جدا در جدول زیر نیست.

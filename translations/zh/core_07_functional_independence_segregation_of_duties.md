@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">语料库定位（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指南**。它不会增加、删除或缩小本文件其他位置或其他章节中的约束性义务。
->
 > 本文件是 **Sentient Constitution 的一部分**，并且只有与其他编号的 `core_*` 文件作为一部文书共同阅读时，才具有约束力。本文件包含**第七章**：适用于跨流程职能独立与职责分离的底线。本章位于第六章权利底线之后，并在以[第八章系统协调认证](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index)开篇的宪法程序章节之前。
 >
 > - **宪法所有者：**针对实质性约束行为的不同席位底线；每份[实质性约束行为记录](../../core_05_band_accountability.md#materially-binding-act-record)的普遍最低内容；独立于行为者及其[实质控制线](../../core_05_band_accountability.md#material-control-line)；公开发布的流程与角色配置；冲突、空缺、替代及错误席位转交；合乎比例的合并承载；可归责的交接；以及每项后续宪法程序都必须适用的最低独立条件。
@@ -86,8 +84,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指南（非操作性）：四席图</span></strong></summary>
 
-> 以下内容**仅为读者指南**。它不会增加、删除或缩小本章或其他章节中的约束性义务。
->
 > **读者图示（非操作性）。**此图展示四个席位和一种常见的记录生命周期。它不会增加第五个实施席位，不要求每项行动前都完成审查，也不改变本节及 §§3–6 中的操作规则。
 
 </details>

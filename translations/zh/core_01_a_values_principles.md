@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">语料库位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。它不会增加、删除或缩窄本文件或其他章节中的任何约束性义务。
->
 > 本文件**属于有感知者宪章**，且**只有与**其他编号的 `core_*` 文件作为同一文书一并阅读时才具有约束力。本文件包含**第一章 A部分**（§§1–12：宗旨与作用；繁荣目标，该目标在§2引入，并通过福祉、安全、真相、信任与自由展开；以及连续性目标，该目标在§8引入，并通过共享系统能力、韧性、市场结构和系统评估展开）。
 >
 > **上游：** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +14,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：第一章如何连接目标、四柱、条款与定义</span></strong></summary>
 
-> 以下内容**仅为读者指引**。它不会增加、删除或缩窄本文件或其他章节中的任何约束性义务。各节的**追溯**和**定义 · 评估 · 合规**组件承载约束性引导；本段是供开始阅读第一章的读者使用的部分级地图。
 
 **各层如何连接。**每一层回答不同的问题，而第一章的每项原则都会指向另外三层：
 
@@ -1463,7 +1460,7 @@ flowchart TB
 
 - 上游：[§11 市场结构](#11-market-structure)；[市场集中阈值](core_05_band_accountability.md#market-concentration-threshold)。
 - 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（有效的阈值设定规则）；[§11.2 促进竞争与防止支配](#112-pro-competition-and-anti-domination)；[§11.3 整合上限](#113-consolidation-ceiling)；[CJS-3.11.3 — 整合上限设定规约（由采纳方调整）](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)规定的有效上限设定规则）；[第九章 §4 问题2——结果有多好或多坏？](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it)；[第十一章 §5.1 基于集中的颠覆](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
-- 管理者入口（不具规范效力）：下一步卡片：[市场结构](implementation/STEWARD_ENTRY_DOORS.md#market-structure)。该卡片不得缩小宪法的范围。
+- 管理者入口（不具规范效力）：下一步卡片：[市场结构](implementation/STEWARD_ENTRY_DOORS.md#market-structure)。
 - 子节（阅读顺序）：[§11.1.1 集中阈值触发条件（由采纳方调整）](#1111-concentration-threshold-triggers-adopter-tunable)。
 
 </details>

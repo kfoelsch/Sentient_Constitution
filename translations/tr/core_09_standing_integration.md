@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce Dokuzuncu Bölüm](../../core_10_standing_integration.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_09_standing_integration.md`](../../core_10_standing_integration.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Dokuzuncu Bölüm**ü içerir — güzergâh-zinciri bütünleştirme ve sonuç katmanı. [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) doğrulanmış olguları, güzergâh kayıtlarını, güzergâh ölçümünü ve Katkı Ekseni ile İhlal Ekseni üzerindeki her yuvayı münhasıran sahiplenir. Bu bölüm o girdileri sabit kabul eder ve Soru 3'ü yanıtlar: ne gelir. [Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) yalnızca nitelikli bir `s = 7`, `s = 8` ya da `s = 9` ihlalinin eşleşen anayasa karşıtı-kötü-davranış atamasını alıp almadığına karar verir.
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değil): bölüm sırası</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu bölümü sırayla okuyun: değişmez Sekizinci Bölüm girdileri; bütünleştirme kaydı ve karar sırası; betimleyici bütünleştirmesi ve iliştirme normalleştirmesi; ihlal, düzeltme ve önleme (çare ve düzeltme, genel güzergâh kilitleri, sonra kullanıldığı yerde gönüllü kamusal hesap verebilirlik ifadesi); kilit tasarımı ve yaptırımı (tanım ve iliştirme, orantılılık ve kalibrasyon, kayıt görünürlüğü ve yükseltme, özel ihlal kuralları ve özel kilitler); katkı sonuçları (yakınlık ve güncellik, sonra yetkinlik eşikleri ve izinleri); son güzergâh etkisi; restorasyon ve yeniden değerlendirme; yaptırım gerçekçiliği ve çare sistemleri; örüntü uygulamaları ve Soru 3 yönlendirmesi.
 >
 > **Sorumlu yönetim kapısı (işlemsel değil):** Bağlayıcı sonraki-adım bildirimi: [İşlemsel sorumlu yönetim bildirimi](#operative-steward-statement-remedy). [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md) içindeki destek işaretçileri onu daraltamaz.

@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Bảy, Phần A tiếng Anh](../../core_08_a_system_alignment_certification_evaluation.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Bảy, Phần A** — yêu cầu **đánh giá** chứng nhận (lớp hệ thống, yếu tố toàn hệ thống, và móc đánh giá lĩnh vực). **Phần B** — hồ sơ chứng nhận, quy trình diễn đàn, cầu quỹ đạo, và mở lại — nằm ở [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md).
@@ -40,1116 +38,1095 @@ Chương Bảy, **Phần A**, là chủ sở hữu hiến pháp của **đánh g
 > **Tuyên bố quản trị có trách nhiệm mang tính vận hành.** **Chủ trì:** Chương Bảy (SAC được diễn đàn giám sát). Lăng kính tầng nguyên tắc: Chương Một §14. SAC là một quy trình kiểm toán đặc biệt lớn dưới Điều XVI / Khả năng kiểm toán — không phải kiểm toán duy nhất. **Động thái bị cấm:** Đừng coi thử đơn vị, danh sách kiểm quyền riêng tư, hay nhãn thẳng hàng địa phương là chứng nhận. Đừng bỏ cửa sổ tranh biện. Đừng bịa nhà kiểm toán thứ năm. Đừng coi phù hiệu chứng nhận hay điểm LEQU là trạng thái hữu tri. **Đồng hồ:** Mở hoặc khôi một đường Chương Bảy tranh biện được, kể cả cửa sổ tranh biện của bên bị ảnh hưởng, trước tuyên thẳng hàng.
 
 <a id="1-purpose-and-role"></a>
+
 ### 1. Mục đích và vai trò
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy nguyên và liên kết</span></strong></summary>
 
-- Thượng nguồn: [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights) và [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#authority-stack); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [lợi hại vật chất](core_00_preamble.md#material-stake); [Tính tương xứng](core_05_band_accountability.md#proportionality) và [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional) (Chương Năm); Gia đình đo lường Tham gia (*tiếng nói, lối vào, và đường tranh biện*); [Chương Một §9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chương Một §14 Yêu cầu đánh giá hệ thống](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*lăng kính đánh giá toàn hệ thống tầng nguyên tắc — không một góc một mình*); Chương Hai đến Bốn; [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) (*định nghĩa chuẩn*); [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) (thuật ngữ chuẩn Chương Năm; viết tắt không vận hành **SAC**); [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional) (nghĩa Chương Năm).
-- Hạ nguồn: [§2](#2-system-class-evaluation) và [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*đánh giá lớp hệ thống và hồ sơ minh họa*); [§3.8](#38-illustrative-whole-system-application-by-class) (*ví dụ toàn hệ thống đã làm theo lớp*); [§4.1](#41-illustrative-data-handling-application-by-class) (*ví dụ xử lý dữ liệu đã làm theo lớp*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*ví dụ dấu chân sinh thái đã làm theo lớp*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*ví dụ hỗ trợ xuyên hệ thống đã làm theo lớp*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*ví dụ không phân biệt đối xử đã làm theo lớp*); [§8.1](#81-illustrative-accessibility-application-by-class) (*ví dụ khả năng tiếp cận đã làm theo lớp*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*ví dụ năng lực giáo dục đã làm theo lớp*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*ví dụ đáng tin cậy đã làm theo lớp*); [§3](#3-whole-system-certification-evaluation) (*yếu tố đánh giá chứng nhận toàn hệ thống*); [§4](#4-data-types-and-handling-evaluation) đến [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*đánh giá lĩnh vực*); [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ chứng nhận*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*yêu cầu tính toàn vẹn hồ sơ*); [Phần B §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*vai trò thành phần diễn đàn*); [Phần B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*trình tự giám sát và chuỗi khả năng tranh biện*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cầu hồ sơ quỹ đạo*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*mở lại và chống lẩn tránh*); [Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*hồ sơ quỹ đạo và cổng đầu vào đã xác minh*); [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*hiệu ứng quỹ đạo và tích hợp*); [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*giám sát diễn đàn, chứng nhận, công nhận thẳng hàng, và rà soát*).
-- Đọc cùng: [corpus_systems.md](../../corpus_systems.md), nhất là **CS-3 — Phân hạng hệ thống và xử lý**, **CS-2 — Loại thông tin và xử lý**, và **CS-5**; [corpus_forum.md](../../corpus_forum.md), nhất là **CF-5** (*Vận hành định tuyến, chuyển, chứng nhận, và đối xử đại diện*) và **CF-7** (*Bảo vệ tính toàn vẹn, vận hành chống chiếm, và hỗ trợ chống tự xét*); **Điều XVI** (*Kiểm toán, minh bạch, và xác minh độc lập*) và [Khả năng kiểm toán](core_05_band_oversight.md#auditability) (*sàn kiểm toán — SAC là một quy trình kiểm toán đặc biệt lớn dưới giám sát, không phải nhà kiểm toán duy nhất*); **CJS-3.3**–**CJS-3.5** (*thuật ngữ khả năng kiểm toán, lối vào kiểm toán, và xác minh độc lập*).
+- **Cơ sở phía trước:** [Lời nói đầu — sổ đăng ký chủ thể hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights) và [thứ bậc thẩm quyền](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [lợi hại vật chất](core_00_preamble.md#material-stake); [Tính tương xứng](core_05_band_accountability.md#proportionality) và [công bằng thực chất](core_05_band_participation.md#substantive-fairness) (Chương Năm); họ phép đo tham gia (*tiếng nói, khả năng tiếp cận và con đường tranh biện*); [Chương Một §16 — Quản trị có trách nhiệm chuyên sâu](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chương Một §12 — Yêu cầu đánh giá có tính hệ thống](core_01_a_values_principles.md#12-systemic-evaluation-requirement) (*lăng kính đánh giá toàn hệ thống ở tầng nguyên tắc — không chỉ một góc riêng lẻ*); Chương Hai đến Chương Bốn; [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) (*các định nghĩa chuẩn tắc*); [Chương Bảy §2 — Ngưỡng hiến pháp bốn ghế](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); [Chứng nhận mức độ phù hợp của hệ thống](core_05_band_continuity.md#system-alignment-certification) (thuật ngữ chuẩn tắc ở Chương Năm; chữ viết tắt **SAC** không có hiệu lực vận hành); [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record) (ý nghĩa trong Chương Năm).
+- **Liên kết phía sau:** [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); [Phần B §9.1](core_08_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*tranh biện chứng nhận*); hồ sơ lớp, ví dụ toàn hệ thống và ví dụ theo từng lĩnh vực nằm trong [Phần C](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations): [hồ sơ minh họa về lớp hệ thống](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive), [các bước minh họa áp dụng cho toàn hệ thống theo lớp](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive), ví dụ xử lý dữ liệu [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), dấu chân sinh thái [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), năng lực giáo dục [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive), hỗ trợ liên hệ thống [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive), không phân biệt đối xử [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), khả năng tiếp cận [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) và độ đáng tin cậy [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive); [§3](#3-whole-system-certification-evaluation) (*các yếu tố đánh giá chứng nhận toàn hệ thống*); [§3.4](#34-data-types-and-handling-evaluation)–[§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*đánh giá theo lĩnh vực*); [Phần B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*trình tự giám sát và chuỗi tranh biện*); [Phần B §6.1](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*vai trò các bộ phận diễn đàn*); [Phần B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ chứng nhận*); [Phần B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*mở lại và chống né tránh*); [Phần B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cầu nối tới hồ sơ quỹ đạo*); [Chương Chín](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*hồ sơ quỹ đạo và ngưỡng đầu vào đã xác minh*); [Chương Mười](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*tác động và tích hợp quỹ đạo*); [Chương Mười Hai](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*giám sát của diễn đàn, chứng nhận, mức độ phù hợp và rà soát*).
+- **Đọc cùng:** [corpus_systems.md](corpus_systems.md), đặc biệt **CS-3 — phân loại và xử lý hệ thống**, **CS-2 — loại thông tin và xử lý**, và **CS-5** (*các bề mặt năng lực hướng tới người dùng*); [corpus_forum.md](corpus_forum.md), đặc biệt **CF-5** (*định tuyến, chuyển giao, chứng nhận và đại diện*) và **CF-7** (*bảo đảm toàn vẹn, chống chiếm dụng và hỗ trợ chống tự phân xử*); **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) và [Khả năng kiểm toán](core_05_band_oversight.md#auditability) (*các ngưỡng kiểm toán — SAC là một quy trình kiểm toán đặc biệt lớn dưới sự giám sát, không phải nơi duy nhất tiến hành kiểm toán*); **CJS-3.3** (*giám sát: thuật ngữ về khả năng kiểm toán và tái dựng*)–**CJS-3.5** (*xác minh độc lập và tính toàn vẹn của tuyên bố*).
 
 </details>
 
 <br>
 
-*Nói thẳng: khi một hệ thống thật sự quan trọng với đời sống hữu tri, chứng nhận phải **tương xứng** — khắt khe đúng mức tác động, phụ thuộc, và rủi ro thực của hệ thống đòi, không phải một danh sách kiểm một-cỡ-cho-tất-cả hay một con dấu suông. Nó cũng phải **có tham gia** — hữu tri và cộng đồng bị ảnh hưởng phải thấy được điều đã rà, hiểu điều đã quyết, và tranh biện khi có gì sai. Các diễn đàn rà bằng chứng, ghi vào hồ sơ chứng nhận, và đòi kiểm lại theo lịch khớp mức rủi ro của hệ thống. Chứng nhận không phải điểm phổ biến, giấy thông hành vĩnh viễn, hay cách bỏ qua rà soát quyền. Nó là tuyên bố có hạn thời gian, tranh biện được, về điều đang biết về sự thẳng hàng của hệ thống lúc này. Dưới trụ **giám sát** của Tứ diện, giám sát đòi kiểm toán; chứng nhận thẳng hàng hệ thống là một quy trình kiểm toán đặc biệt lớn, lợi hại cao giữa các quy trình khác — không phải nhà kiểm toán duy nhất (**Điều XVI**, [Khả năng kiểm toán](core_05_band_oversight.md#auditability)).*
+*Nói đơn giản: Khi một hệ thống thực sự quan trọng đối với đời sống của các hữu tri, việc chứng nhận phải **tương xứng** — mức độ nghiêm ngặt phải đáp ứng tác động thực tế, sự phụ thuộc và rủi ro của hệ thống; không phải một danh sách kiểm tra áp dụng như nhau cho mọi nơi hay một con dấu hình thức. Việc này cũng phải **có sự tham gia**: các hữu tri và cộng đồng bị ảnh hưởng phải có thể thấy nội dung đã được xem xét, hiểu quyết định và tranh biện khi có sai sót. Các diễn đàn xem xét chứng cứ, ghi lại trong hồ sơ chứng nhận và yêu cầu kiểm tra lại theo lịch phù hợp với mức độ rủi ro của hệ thống. Các lớp A, B và C áp dụng đầy đủ quy trình; lớp L áp dụng quy trình nhẹ hơn. Khuyến khích lớp P sử dụng quy trình; quy trình trở thành bắt buộc khi tác động vượt ra ngoài một đơn vị tư nhân hoặc khi đơn vị vận hành tuyên bố tuân thủ hiến pháp.*
 
-<a id="1-purpose-and-role"></a>
+*Chứng nhận không phải điểm số phổ biến, giấy thông hành vĩnh viễn hay cách bỏ qua việc rà soát quyền. Đây là tuyên bố có giới hạn thời gian và có thể bị tranh biện về những gì hiện biết liên quan đến mức độ phù hợp của hệ thống. Theo trụ **giám sát** của Tứ diện, giám sát đòi hỏi kiểm toán. Chứng nhận mức độ phù hợp của hệ thống là một trong những quy trình kiểm toán đặc biệt lớn và có rủi ro cao, bên cạnh các quy trình khác — không phải nơi duy nhất tiến hành kiểm toán (**Điều XVI**, [Khả năng kiểm toán](core_05_band_oversight.md#auditability)).*
 
-**Chứng nhận thẳng hàng hệ thống** tồn tại để trả lời một câu, cho một phạm vi và lịch rà đã nêu: Hệ thống đã cho thấy thẳng hàng hiến pháp đủ để công nhận, công nhận có điều kiện, xác nhận, tái xác nhận, tiếp tục dựa, triển khai, hay giải phóng có trọng khỏi điều kiện chưa?
+**Chứng nhận mức độ phù hợp của hệ thống** trả lời một câu hỏi trong phạm vi và lịch rà soát đã nêu: Hệ thống đã chứng minh mức độ phù hợp hiến pháp đủ để được chứng nhận, chứng nhận có điều kiện, xác nhận, chứng nhận lại, tiếp tục dựa vào hệ thống, triển khai hoặc gỡ bỏ đáng kể các điều kiện hay chưa?
 
-Như công cụ giám sát, chứng nhận là một quy trình kiểm toán đặc biệt lớn dưới [Khả năng kiểm toán](core_05_band_oversight.md#auditability) và **Điều XVI** (*Kiểm toán, minh bạch, và xác minh độc lập*): được diễn đàn giám sát, nhiều miền, và mang công nhận. Nó không nuốt hay thế các kiểu kiểm toán anh em (kể cả kiểm toán Hồ sơ phân loại hệ thống dưới **CS-3**, kiểm toán Hồ sơ loại dữ liệu hệ thống dưới **CS-2**, kiểm toán độ phức tạp và quản trị có trách nhiệm, xác minh tuyên, và đường dẫn kiểm toán liên tục).
+Độ sâu chứng nhận, gánh nặng hồ sơ, nhịp chứng nhận lại, rà soát của các bên liên quan và con đường tranh biện phải được điều chỉnh theo [lợi hại vật chất](core_00_preamble.md#material-stake) phù hợp với [Tính tương xứng](core_05_band_accountability.md#proportionality):
 
-Độ sâu chứng nhận, gánh hồ sơ, nhịp tái xác nhận, rà soát bên bị ảnh hưởng, và đường tranh biện phải chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) dưới [Tính tương xứng](core_05_band_accountability.md#proportionality). Hệ thống tác động cao hơn, phụ thuộc cao hơn, và rủi ro cao hơn đòi chứng mạnh hơn, hồ sơ rõ hơn, và tham gia thực tiễn hơn — kể cả khả năng tiếp cận nội dung, ý kiến bên bị ảnh hưởng, và đường tranh biện chia tỷ lệ theo ai đang dựa vào hệ thống. Lớp thấp hơn và phạm vi có giới hạn vẫn đòi phân hạng trung thực và bảo đảm tương xứng; chúng không được giấy thông hành miễn nghĩa vụ vật chất nơi có hiệu ứng ra ngoài.
+- Hệ thống có tác động, mức phụ thuộc và rủi ro cao hơn cần chứng cứ mạnh hơn, hồ sơ rõ hơn và sự tham gia khả thi hơn — gồm khả năng tiếp cận thực chất, ý kiến của các bên liên quan và lối tranh biện phù hợp với những ai dựa vào hệ thống.
+- Các lớp hệ thống thấp hơn và phạm vi giới hạn vẫn cần phân loại trung thực và bảo đảm tương xứng; khi tồn tại tác động bên ngoài, chúng không được miễn nghĩa vụ vật chất.
 
-Chứng nhận triển khai [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) qua [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad):
+Quy trình áp dụng theo lớp tác động như [CS-3 §3.5 — Yêu cầu phân loại lại](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) quy định:
 
-- **[Hưng thịnh](core_00_preamble.md#flourishing)** — chứng nhận kiểm rằng công nhận hay tiếp tục dựa sẽ không lặng lẽ đánh bại Sàn Quyền hay chặn tham gia công bằng trong đời sống liên quan hiến pháp;
-- **[Liên tục](core_00_preamble.md#continuity)** — chứng nhận kiểm cung bền, không thoái lui, và tái xác nhận chia tỷ lệ theo lớp nơi hệ thống chung cổng hoặc nâng đỡ việc giao;
-- **Tham gia** — hữu tri và cộng đồng bị ảnh hưởng có thể hiểu, tranh biện, và tham gia các đường rà sát với họ;
-- **Giám sát** — hồ sơ, bằng chứng, và giả định đủ nhìn và kiểm toán được cho kiểm độc lập; chính chứng nhận là một quy trình kiểm toán đặc biệt lớn dưới nghĩa vụ giám sát đó, không phải cái duy nhất;
-- **Trách nhiệm giải trình** — khiếm khuyết, phân hạng sai, và vận hành đánh bại sàn được định tuyến tới khắc phục, điều kiện, rút, hoặc đầu vào quỹ đạo nơi sự kiện nâng đỡ;
-- **Kịp thời** — đồng hồ rà và tranh biện giữ chứng nhận khỏi cũ trong khi hại vẫn còn ngăn hoặc đảo được.
+- **Lớp A, B và C:** các hệ thống này có tác động, mức phụ thuộc và rủi ro cao nhất. Đánh giá toàn hệ thống theo [§3](#3-whole-system-certification-evaluation), [§4](#4-evaluations-where-implicated) và [§5](#5-rights-floor-and-domain-evaluations) là bắt buộc ở mức đầy đủ đối với từng tầng được áp dụng.
+- **Lớp L:** cùng đánh giá đó vẫn là bắt buộc nhưng được áp dụng tương xứng; khi CS-3 cho phép, chu kỳ kiểm tra lại mặc định dài hơn và hồ sơ đơn giản hơn.
+- **Lớp P:** quy trình được khuyến khích khi hệ thống còn hợp lệ ở lớp P và hệ thống có thể tự nguyện áp dụng. Quy trình trở thành bắt buộc khi hệ thống được phân loại lại thành L trở lên, hoặc khi đơn vị vận hành tự nguyện tuyên bố hệ thống tuân thủ hiến pháp.
 
-Chương này chạy quy trình chứng nhận được diễn đàn giám sát cho:
+Chứng nhận thực hiện [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) thông qua [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad):
 
-- **Lớp hệ thống và nhịp tái xác nhận** — nhìn kỹ đến đâu và thường đến đâu ([§2](#2-system-class-evaluation));
-- **Đánh giá** — kiểm toàn hệ thống và theo miền ([§3](#3-whole-system-certification-evaluation) đến [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation));
-- **Nội dung hồ sơ chứng nhận** — điều phải vào hồ sơ ([Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **Công nhận và tiếp tục dựa** — kết quả nào được tính ([§1](#1-purpose-and-role), [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **Tranh biện và khả năng tranh biện** — tranh biện đi qua diễn đàn thế nào ([Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability), [Phần B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain));
-- **Khiếm khuyết chứng nhận** — điều xảy ra khi chứng nhận lỗi ([Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) và các mục đánh giá xuyên chương).
+- **[Hưng thịnh](core_00_preamble.md#flourishing)** — chứng nhận xác minh rằng việc chứng nhận hay tiếp tục dựa vào hệ thống sẽ không âm thầm làm mất hiệu lực các Sàn Quyền hoặc cản trở sự tham gia công bằng vào đời sống có ý nghĩa hiến pháp;
+- **[Liên tục](core_00_preamble.md#continuity)** — xác minh nguồn cung ổn định, không thụt lùi, giúp duy trì thay vì làm cạn kiệt các hệ thống tự nhiên lành mạnh ([Tính toàn vẹn sinh thái](core_05_band_continuity.md#ecological-integrity), bao gồm [Năng lực phục hồi sinh thái](core_05_band_continuity.md#ecological-recovery-capacity)); đồng thời chứng nhận lại theo quy mô lớp khi hệ thống dùng chung là điều kiện hoặc hỗ trợ cho việc cung ứng;
+- **Tham gia** — các hữu tri và cộng đồng bị ảnh hưởng có thể hiểu, tranh biện và tham gia vào những con đường rà soát có ý nghĩa đối với họ;
+- **Giám sát** — hồ sơ, chứng cứ và giả định phải đủ hiển thị và có thể kiểm toán để kiểm tra độc lập; bản thân chứng nhận là một quy trình kiểm toán đặc biệt lớn theo nghĩa vụ giám sát này, nhưng không phải quy trình duy nhất;
+- **Trách nhiệm giải trình** — khi sự kiện hỗ trợ, khiếm khuyết, phân loại sai và hoạt động làm mất hiệu lực sàn được chuyển tới biện pháp khắc phục, điều kiện, thu hồi hoặc đầu vào cho hồ sơ quỹ đạo;
+- **Kịp thời** — thời hạn rà soát và tranh biện ngăn chứng nhận trở nên lỗi thời khi tổn hại vẫn còn có thể ngăn chặn hoặc đảo ngược.
 
-Hồ sơ minh họa **Class A**, **Class B**, và **Class C** — và lớp chia tỷ lệ độ sâu chứng nhận xuyên chương này thế nào — nằm ở [§2.1](#21-illustrative-class-profiles-non-exhaustive). Đi qua đã làm cho cùng ba hệ thống xuất hiện ở [§3.8](#38-illustrative-whole-system-application-by-class) (*đánh giá toàn hệ thống*), [§4.1](#41-illustrative-data-handling-application-by-class) (*loại dữ liệu và xử lý*), [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*dấu chân sinh thái*), [§6.1](#61-illustrative-cross-system-support-application-by-class) (*đóng góp xuyên hệ thống tương xứng*), [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*không phân biệt đối xử*), [§8.1](#81-illustrative-accessibility-application-by-class) (*khả năng tiếp cận*), [§9.1](#91-illustrative-educational-capability-application-by-class) (*năng lực giáo dục*), và [§10.1](#101-illustrative-trustworthiness-application-by-class) (*đáng tin cậy*).
+Là một công cụ giám sát, chứng nhận là một quy trình kiểm toán đặc biệt lớn theo [Khả năng kiểm toán](core_05_band_oversight.md#auditability) và **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*). Quy trình này do diễn đàn giám sát, bao quát nhiều lĩnh vực và cấp trạng thái. Quy trình có thể kết hợp kết quả từ các hình thức kiểm toán liên quan, nhưng không hấp thụ hay thay thế chúng. Mỗi hình thức giữ nguyên đơn vị chịu trách nhiệm riêng được nêu trong [bản đồ các hình thức kiểm toán liên quan](corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) thuộc tài liệu về quy trình kiểm toán:
 
-Các sàn quyền chương này giúp kiểm được nêu ở **§1.1**.
+- kiểm toán Hồ sơ Loại Dữ liệu Hệ thống theo **CS-2** (*Loại thông tin và xử lý*);
+- kiểm toán Hồ sơ Phân loại Hệ thống theo **CS-3** (*Cơ chế phân loại hệ thống*);
+- rà soát bảo đảm quản trị có trách nhiệm theo **CS-4** (*Quản trị hệ thống trọng yếu*);
+- kiểm toán liên tục theo **CS-5** (*Thiết kế, thử nghiệm, xác minh và triển khai*) **ACA**;
+- kiểm toán độ phức tạp theo **CS-6** (*Khả năng hiểu và quản trị độ phức tạp*) và **Điều XXIII-B** (*Yêu cầu Kiểm toán Độ phức tạp và Tính mô-đun*);
+- xác minh tuyên bố theo **CJS-3.5** (*Xác minh độc lập và thuật ngữ về tính toàn vẹn tuyên bố*).
 
+Có thể tự tiến hành từng kiểm tra này mà không cần quy trình chứng nhận. Chứng nhận không thay thế chúng.
 
-<a id="11-rights-floors-this-chapter-helps-verify"></a>
-#### 1.1 Các sàn quyền chương này giúp kiểm
+<a id="11-certification-at-a-glance"></a>
 
-Khi hệ thống tác động có trọng cổng hoặc định hình cách hữu tri sống, chứng nhận kiểm rằng duyệt chúng sẽ không lặng lẽ đánh bại **Sàn Quyền** Chương Sáu, kể cả:
+#### 1.1 Tổng quan nhanh về chứng nhận
 
-- **Thiết yếu sống còn** dưới **Điều III-A** (*Sinh tồn*) — thức ăn, nước, chỗ trú, môi trường vận hành, và đầu vào tương đương không phụ thuộc nền;
-- **Lối vào giáo dục bình đẳng** dưới **Điều III-B** (*Lối vào giáo dục bình đẳng*);
-- **Năng lực giáo dục lấy hữu tri làm trung tâm** dưới **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) nơi hệ thống xếp hạng, đánh giá, khuyến nghị, xếp chỗ, cổng giấy thông hành, hoặc cổng có trọng đường đào tạo lại và học suốt đời;
-- **Không phân biệt đối xử** dưới **Điều V-B** (*Không phân biệt đối xử*) nơi hệ thống phân loại, cổng, định giá, xếp hạng, hoặc phân bổ gánh và lợi giữa các hữu tri;
-- **Khả năng tiếp cận** dưới **Điều V-G** (*Khả năng tiếp cận*) nơi hệ thống cổng tham gia nội dung ở miền liên quan hiến pháp;
-- **Hành vi hệ thống đáng tin và đáng tin cậy** dưới **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) nơi hệ thống định hình có trọng sự dựa của hữu tri vào hành vi được trình bày, giới hạn, rủi ro, đường tranh biện, hoặc khắc phục;
-- **Điều kiện an toàn** dưới **Điều XIII-A** (*Sàn đáng tin và đáng tin cậy*) và [**Điều kiện an toàn**](core_05_band_continuity.md#safe-conditions-constitutional) nơi hệ thống cung hoặc cổng hoạt động sản xuất;
-- **Phân bổ tài nguyên** dưới **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*), kể cả [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) dưới **Điều IV-B** (*Công bằng xuyên hệ thống và bền vững*) nơi hệ thống phân bổ, định tuyến, tài trợ, hoặc rút từ hạ tầng chung hoặc phụ thuộc nền.
+*Nói đơn giản: phân loại hệ thống một cách trung thực, tiến hành các đánh giá áp dụng, để các diễn đàn rà soát độc lập chứng cứ và quan ngại của các bên liên quan, rồi quyết định kết quả. Hoàn tất hồ sơ duy nhất được mở để diễn đàn xem xét và công bố hồ sơ với con đường tranh biện mở. Chỉ đưa hệ thống đã chứng nhận vào vận hành sau thời hạn thông báo và khi các biện pháp bảo vệ bắt buộc đã được đáp ứng. Theo dõi kết quả thực tế, phản hồi sự cố và tranh biện, rồi rà soát lại theo lịch hoặc khi sự kiện thay đổi. Khắc phục khiếm khuyết và xác minh độc lập việc khắc phục trước khi cho phép phạm vi bị ảnh hưởng hoạt động hoặc gỡ bỏ điều kiện. Mỗi lượt rà soát dùng hồ sơ mới được liên kết với hồ sơ trước đó.*
+
+Quy trình gồm **sáu giai đoạn**: **I. Xác định khung**, **II. Đánh giá**, **III. Rà soát**, **IV. Quyết định**, **V. Ghi hồ sơ** và **VI. Vận hành**. Giai đoạn II gồm ba tầng, mỗi tầng có mục riêng: **IIa** (luôn áp dụng), **IIb** (khi có vấn đề liên quan) và **IIc** (khi được kích hoạt). Giai đoạn VI gồm hai giai đoạn phụ: **VIa** (vận hành và chứng nhận lại, [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) và **VIb** (cầu nối quỹ đạo, [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)). Sơ đồ thể hiện toàn bộ quy trình chứng nhận theo thứ tự. Phần A bao quát hai giai đoạn đầu: xác định khung và đánh giá; [Phần B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) bao quát bốn giai đoạn còn lại: quy trình tại diễn đàn, quyết định và điều kiện cho phép vận hành, hồ sơ và vận hành (con đường tranh biện, chứng nhận lại, mở lại và cầu nối quỹ đạo).
+
+Mỗi đánh giá được áp dụng phải được thực hiện lại trong từng lượt chứng nhận: ở lần chứng nhận đầu tiên, ở mỗi lần chứng nhận lại theo lịch quy định tại [§2](#2-system-class-evaluation), và ở mỗi lần rà soát được mở lại hoặc bắt đầu mới. Khi sự kiện vật chất thay đổi — chẳng hạn mức phụ thuộc vào hệ thống tăng, mức khai thác từ nền tảng dùng chung tăng, đóng góp trở lại các nền tảng đó giảm đáng kể hoặc có tranh biện đáng tin cậy — việc rà soát được mở lại trước lần chứng nhận lại theo lịch tiếp theo. [Phần B §9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) liệt kê các yếu tố kích hoạt.
+
+```mermaid
+flowchart TB
+    T(["Hệ thống có tác động vật chất xin chứng nhận,<br/>hoặc mức phụ thuộc vào hệ thống tăng"])
+    C["Giai đoạn I, Xác định khung — §2<br/>Phân loại trung thực<br/><br/>Lớp xác định độ sâu và lịch kiểm tra lại"]
+    subgraph W["Giai đoạn II, Đánh giá — §3–§5 Đánh giá toàn hệ thống"]
+        direction LR
+        Al["IIa, §3.1–§3.4 — Luôn áp dụng<br/><br/>Rủi ro hệ thống: đánh giá và công bố<br/>cho người cần biết; khung thời gian;<br/>quản trị; loại dữ liệu"]
+        Im["IIb, §4 — Khi có vấn đề liên quan<br/><br/>Điểm riêng tư, quyền rời khỏi,<br/>hội họp và bất đồng"]
+        Tr["IIc, §5 — Khi được kích hoạt<br/><br/>Kiểm tra Sàn Quyền áp dụng<br/>và sáu đánh giá theo lĩnh vực"]
+        Al ~~~ Im ~~~ Tr
+    end
+    F["Giai đoạn III, Rà soát — §6<br/>Rà soát độc lập chứng cứ<br/>và quan ngại của các bên liên quan<br/><br/>Các diễn đàn được phân công đưa ra phát hiện;<br/>con đường tranh biện vẫn mở"]
+    Rec["Giai đoạn V, Ghi hồ sơ — §8<br/>Một Hồ sơ Chứng nhận Hệ thống<br/><br/>Mở để diễn đàn xem xét; hoàn tất với kết quả,<br/>phát hiện hỗ trợ, điều kiện và kế hoạch vận hành"]
+    S[["Chương Chín — Hồ sơ<br/>quỹ đạo<br/><br/>Ngoài chương này"]]
+    O{"Giai đoạn IV, Quyết định — §7<br/><br/>Chứng cứ hỗ trợ kết quả và<br/>trạng thái nào?"]
+    Fc["Chứng nhận Đầy đủ — §7, §9.2<br/><br/>Cần đủ số lần chứng nhận lại tạm thời liên tiếp đạt yêu cầu;<br/>không có sai lệch hiện tại hay sắp xảy ra<br/>Thời hạn chứng nhận lại dài hơn; có thể kèm điều kiện"]
+    Pc["Chứng nhận Tạm thời — §7, §9.2<br/><br/>Cấp lần đầu, khôi phục sau sai lệch,<br/>hoặc duy trì hay hạ mức trạng thái tạm thời<br/>Thời hạn ngắn hơn; có thể kèm điều kiện"]
+    Nc["Không được Chứng nhận — §7<br/><br/>Hoãn, từ chối, thu hồi hoặc hết hạn<br/>Không vận hành; nêu lý do và công việc khắc phục cần thiết"]
+    Pub["Công bố hồ sơ đã hoàn tất — §7, §9.1<br/><br/>Mở con đường tranh biện hồ sơ đã công bố;<br/>nêu thời điểm vận hành và thông báo cho phạm vi mới hoặc mở rộng"]
+    G{"Điều kiện cho phép vận hành — §7<br/><br/>Đã đáp ứng chứng nhận và các<br/>điều kiện tiên quyết áp dụng chưa?"]
+    Hold["Đáp ứng điều kiện tiên quyết — §7<br/><br/>Hoàn thành thời hạn thông báo và xác minh độc lập<br/>các điều kiện cần thiết trước khi vận hành"]
+    Rm["Bảo vệ và khắc phục — §7, §9.2<br/><br/>Không vận hành mới trong phạm vi bị ảnh hưởng;<br/>bảo vệ các hữu tri bị ảnh hưởng, khắc phục thiết kế hoặc vận hành,<br/>và nộp chứng cứ để xác minh độc lập"]
+    Ch["Giai đoạn VIa, Vận hành và chứng nhận lại — §9–§9.2<br/>Theo dõi và duy trì tranh biện mở<br/><br/>Vận hành trong phạm vi và điều kiện được chứng nhận;<br/>theo dõi kết quả, phản hồi sự cố và tranh biện"]
+    S2[["Chương Chín — Hồ sơ<br/>quỹ đạo<br/><br/>Ngoài chương này"]]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    Re["Lượt rà soát tiếp theo — §9<br/><br/>Chứng nhận lại, mở lại hoặc rà soát mới;<br/>mỗi lượt mở hồ sơ mới liên kết với hồ sơ trước"]
+    T --> C
+    A1((A)) --> C
+    C --> W
+    W --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, §10 —<br/>chỉ dùng đầu vào đã xác minh;<br/>chứng nhận hiện tại hoặc sự kiện<br/>phát sinh trong quá trình chứng nhận| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|Không được chứng nhận| Rm
+    G --->|Có: vận hành trong<br/>phạm vi của hồ sơ| Ch
+    G --->|Đã chứng nhận,<br/>đang chờ điều kiện tiên quyết| Hold
+    Hold --> G
+    Ch -->|Khiếm khuyết vật chất:<br/>bảo vệ và khắc phục| Rm
+    Ch -->|Đúng lịch, hoặc khi<br/>thay đổi vật chất hay tranh biện<br/>đáng tin cậy cần rà soát| Re
+    Ch -.->|VIb, §10 —<br/>chỉ dùng đầu vào đã xác minh;<br/>vận hành có thể cung cấp sự kiện<br/>cho hồ sơ Đóng góp<br/>và Vi phạm| S2
+    Rm -->|Chứng cứ khắc phục<br/>được kiểm tra trong lượt<br/>rà soát tiếp theo| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style T fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style Al fill:none,stroke:#16a34a,color:#ffffff
+    style Im fill:none,stroke:#16a34a,color:#ffffff
+    style Tr fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
+
+<details>
+<summary><strong><span style="color: #2563eb;">Hướng dẫn đọc (không mang tính vận hành): sáu giai đoạn</span></strong></summary>
+
+> | Giai đoạn | Mục | Câu hỏi giai đoạn trả lời | Nơi quy định |
+> |-------|----------|------------------------------|-------|
+> | **I. Xác định khung** | [§2](#2-system-class-evaluation) | Hệ thống thuộc lớp nào, và cần đánh giá sâu đến đâu, thường xuyên thế nào? | Phần A |
+> | **II. Đánh giá** | [§3](#3-whole-system-certification-evaluation) (IIa, luôn luôn) · [§4](#4-evaluations-where-implicated) (IIb, khi có vấn đề liên quan) · [§5](#5-rights-floor-and-domain-evaluations) (IIc, khi được kích hoạt) | Toàn hệ thống làm gì — luôn luôn, khi vấn đề liên quan và khi có yếu tố kích hoạt? | Phần A |
+> | **III. Rà soát** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | Những diễn đàn độc lập nào rà soát chứng cứ và quan ngại của các bên liên quan, theo thứ tự nào, và có thể tranh biện việc rà soát ra sao? | Phần B |
+> | **IV. Quyết định** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | Các diễn đàn đưa ra kết quả nào, và hệ thống có thể được đưa vào vận hành không? | Phần B |
+> | **V. Ghi hồ sơ** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | Hồ sơ duy nhất mở để diễn đàn xem xét có đầy đủ kết quả, phát hiện hỗ trợ, điều kiện và kế hoạch vận hành không, và có thể kiểm toán không? | Phần B |
+> | **VI. Vận hành** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, vận hành và chứng nhận lại) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, cầu nối quỹ đạo) | Ai theo dõi kết quả và phản hồi sự cố, tranh biện; việc khắc phục được xác minh thế nào; khi nào rà soát lặp lại; nội dung nào chuyển vào hồ sơ quỹ đạo? | Phần B |
+>
+> Hồ sơ minh họa cho lớp **A**, **B** và **C**, cùng cách lớp hệ thống điều chỉnh độ sâu chứng nhận trong chương này, được trình bày trong [Hồ sơ Minh họa về Lớp Hệ thống (Không Toàn diện)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive). Các bước áp dụng có giải thích cho cùng ba hệ thống trong từng lĩnh vực đánh giá từ [§3](#3-whole-system-certification-evaluation) đến [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) nằm tiếp theo trong [Phần C — Ví dụ minh họa](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations); mỗi hồ sơ và ví dụ đều liên kết ngược tới mục Phần A mà nó minh họa.
+
+</details>
+
+<br>
 
 <a id="2-system-class-evaluation"></a>
 
-### 2. Đánh giá lớp hệ thống
+### 2. Đánh giá Lớp Hệ thống
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: [§1](#1-purpose-and-role) (*mục đích và vai trò*); Tính trọng yếu tích hợp ([Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination)) (*Tính trọng yếu*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [Tác động có trọng](core_05_band_oversight.md#material-impact), [Phụ thuộc](core_05_band_continuity.md#dependency), [Rủi ro](core_05_band_continuity.md#risk), [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries), và [Điều lệ](core_05_band_continuity.md#charter) (Chương Năm); [Chương Một §14 Yêu cầu đánh giá hệ thống](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); **Điều III-A** (*Sinh tồn*) và **Điều III-B** (*giao Sàn Quyền nơi phân hạng cổng lối vào*); **Điều IV-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) và **Điều IV-B** (*phân bổ tài nguyên và quản trị có trách nhiệm đối với phụ thuộc nơi chứng nhận cổng sự dựa vào hạ tầng chung*).
-- Hạ nguồn: [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*hồ sơ lớp minh họa*); [§3.8](#38-illustrative-whole-system-application-by-class) (*ví dụ toàn hệ thống đã làm theo lớp*); [§4.1](#41-illustrative-data-handling-application-by-class) (*ví dụ xử lý dữ liệu đã làm theo lớp*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*ví dụ dấu chân sinh thái đã làm theo lớp*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*ví dụ hỗ trợ xuyên hệ thống đã làm theo lớp*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*ví dụ không phân biệt đối xử đã làm theo lớp*); [§8.1](#81-illustrative-accessibility-application-by-class) (*ví dụ khả năng tiếp cận đã làm theo lớp*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*ví dụ năng lực giáo dục đã làm theo lớp*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*ví dụ đáng tin cậy đã làm theo lớp*); [§4](#4-data-types-and-handling-evaluation) (*đánh giá xử lý dữ liệu chung*); [§5](#5-ecological-footprint-evaluation) (*đánh giá dấu chân sinh thái*); [§6](#6-proportionate-cross-system-support-evaluation) (*đánh giá hỗ trợ xuyên hệ thống*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*lệch phân hạng và cò tái phân hạng*).
-- Đọc cùng: [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional); [corpus_systems.md](../../corpus_systems.md), **CS-3 — Phân hạng hệ thống và xử lý**, kể cả **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Yêu cầu tái phân hạng* — cò, độ sâu đánh giá chia tỷ lệ theo lớp, và cầu xác minh SAC) và **[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*Nghĩa vụ quản trị Hồ sơ phân loại hệ thống và cầu SAC*); [CS-5 — Thiết kế, thử, xác minh, và triển khai](../../corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — Điều khoản vững dưới đối kháng và chống lạm dụng](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*nghĩa vụ chu kỳ hồi quy và làm cứng*); [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*Công nhận và rà soát thẳng hàng hiến pháp*).
+- Thượng nguồn: [§1](#1-purpose-and-role) (*mục đích và vai trò*); tính trọng yếu tích hợp ([Tính Trọng yếu](core_05_band_oversight.md#materiality)) (*Tính Trọng yếu*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [Tác động Vật chất](core_05_band_oversight.md#material-impact), [Phụ thuộc](core_05_band_continuity.md#dependency), [Rủi ro](core_05_band_continuity.md#risk), [Ranh giới Hệ thống](core_05_band_continuity.md#system-boundaries), và [Điều lệ](core_05_band_continuity.md#charter) (Chương Năm); [Chương Một §12 Yêu cầu Đánh giá Hệ thống](core_01_a_values_principles.md#12-systemic-evaluation-requirement); **Điều III-A** (*Sinh tồn*) và **Điều IV-A** (*cung cấp Sàn Quyền khi phân loại kiểm soát quyền tiếp cận*); **Điều V-A** (*Lập bản đồ Phụ thuộc và Minh bạch Luồng Tài nguyên*) và **Điều V-B** (*phân bổ tài nguyên và quản trị phụ thuộc khi chứng nhận đặt điều kiện cho việc dựa vào hạ tầng chung*).
+- Hạ nguồn: [§2.1](#21-how-system-class-scales-every-evaluation) (*sự tham gia và tính tương xứng theo lớp hệ thống*); [§2.2](#22-pilot-certification) (*chứng nhận thí điểm*); [hồ sơ lớp hệ thống và phân loại lại ở Phần C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*hồ sơ lớp hệ thống minh họa*); [các hướng dẫn toàn hệ thống ở Phần C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*ví dụ toàn hệ thống theo lớp hệ thống*); [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*ví dụ xử lý dữ liệu theo lớp hệ thống*); [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*ví dụ dấu chân sinh thái theo lớp hệ thống*); [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*ví dụ năng lực giáo dục theo lớp hệ thống*); [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*ví dụ hỗ trợ liên hệ thống theo lớp hệ thống*); [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*ví dụ không phân biệt đối xử theo lớp hệ thống*); [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*ví dụ khả năng tiếp cận theo lớp hệ thống*); [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*ví dụ độ đáng tin cậy theo lớp hệ thống*); [§3.4](#34-data-types-and-handling-evaluation) (*đánh giá chung về xử lý dữ liệu*); [§5.1](#51-ecological-footprint-evaluation) (*đánh giá dấu chân sinh thái*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*đánh giá hỗ trợ liên hệ thống tương xứng*); [Phần B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn của hồ sơ*); [Phần B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*trôi dạt phân loại và các yếu tố kích hoạt phân loại lại*).
+- Đọc cùng: [Hồ sơ Phân loại Hệ thống](core_05_band_continuity.md#system-classification-record); [corpus_systems.md](corpus_systems.md), **CS-3 — Phân loại và xử lý hệ thống**, bao gồm **[CS-3 §3.5 yêu cầu phân loại lại](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*các yếu tố kích hoạt, độ sâu đánh giá theo lớp hệ thống, và cầu nối xác minh SAC*) và **[CS-3 §7](corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge)** (*Quản trị, công bố và phản đối việc phân loại*) — nghĩa vụ quản trị Hồ sơ Phân loại Hệ thống và cầu nối SAC; [CS-5 — Thiết kế, thử nghiệm, xác minh và triển khai](corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — thuật ngữ về khả năng chống đối kháng và chống lạm dụng](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*nghĩa vụ chu kỳ hồi quy và gia cố*); [corpus_forum.md](corpus_forum.md), **CF-7.2** (*Chứng nhận và rà soát sự phù hợp hiến pháp*).
 
 </details>
 
 <br>
 
-*Nói thẳng: chứng nhận phải kiểm hệ thống có được phân hạng trung thực không — không theo người vận hành gọi nó là gì, mà theo nó thực sự làm gì, cái gì phụ thuộc vào nó, và cái gì có thể hỏng. Lớp cao hơn nghĩa là chứng chặt hơn, kiểm lại nhanh hơn, và kỳ vọng phục hồi mạnh hơn. Xem [§2.1](#21-illustrative-class-profiles-non-exhaustive) cho một hệ thống mỗi lớp; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), và [§10.1](#101-illustrative-trustworthiness-application-by-class) đi qua đánh giá áp cho từng cái thế nào.*
+*Diễn đạt đơn giản: chứng nhận phải kiểm tra xem hệ thống có được phân loại trung thực hay không — không dựa vào tên do đơn vị vận hành đặt, mà dựa vào việc hệ thống thực sự làm gì, ai hoặc điều gì phụ thuộc vào nó, và điều gì có thể xảy ra sai lệch. Lớp hệ thống càng cao thì yêu cầu chứng cứ càng nghiêm ngặt, việc kiểm tra lại càng thường xuyên và kỳ vọng về khả năng chống chịu càng mạnh. Xem [Phần C — Minh họa](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) để biết một hệ thống ví dụ cho mỗi lớp và cách đánh giá áp dụng cho từng hệ thống.*
 
-Chứng nhận thẳng hàng hệ thống phải đánh giá **lớp hệ thống** như một phần của mọi hồ sơ chứng nhận tác động có trọng. Định nghĩa lớp chuẩn, quy tắc chiều, hồ sơ lớp, quản trị phân hạng, bảo đảm chia tỷ lệ theo lớp, độ vững hạ tầng, và cơ chế tái chứng nhận sống ở **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân hạng hệ thống và xử lý** và **[CS-5 — Thiết kế, thử, xác minh, và triển khai](../../corpus_systems/cs_05_design_testing_verification_deployment.md)**. Mục này nêu điều chứng nhận phải kiểm và ghi; nó không nêu lại phân loại lớp CS-3, hồ sơ áp dụng, hay cơ chế thử CS-5.
+Mọi hồ sơ chứng nhận cho một hệ thống có tác động vật chất phải bao gồm đánh giá **lớp hệ thống**.
 
-Chứng nhận phải kiểm và ghi:
+Các quy tắc chi tiết nằm trong [corpus_systems.md](corpus_systems.md), [CS-3 — Phân loại và xử lý hệ thống](corpus_systems/cs_03_a_system_classification_machinery.md), và [CS-5 — Thiết kế, thử nghiệm, xác minh và triển khai](corpus_systems/cs_05_design_testing_verification_deployment.md). Chúng bao gồm:
+
+- các lớp hệ thống là gì, cách xác định lớp, và hồ sơ của từng lớp;
+- việc phân loại được quản trị như thế nào;
+- mỗi lớp cần mức bảo đảm ra sao;
+- hạ tầng phải có khả năng chống chịu đến mức nào;
+- những kiểm tra và hồ sơ nào được chứng nhận lại, theo lịch trình tương xứng với lớp hệ thống, và chứng nhận tạm thời/toàn phần làm thay đổi lịch trình ra sao.
+
+Phần này nêu những điều mà chứng nhận phải xác minh.
+
+Chứng nhận phải xác minh:
 
 - **Yêu cầu đánh giá:**
-  - liệu lớp hệ thống được gán có phản ánh **tác động**, **phụ thuộc**, và **rủi ro** quan sát được và dự kiến hợp lý dưới CS-3, kể cả hiệu ứng gộp, tương tác, đối kháng, và ngưỡng; và
-  - rằng phân hạng được quyết bởi hành vi và tác động thực của hệ thống, không từ ý định tuyên, phạm vi danh nghĩa, chỉ văn bản [Điều lệ](core_05_band_continuity.md#charter), hay chỉ tự mô tả; và
-  - rằng đánh giá lại phân hạng dưới **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** đã được áp nơi cò đánh giá lại có trọng nổ, và rằng [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional) phản ánh lớp **cao nhất áp dụng được** dưới điều kiện hiện tại.
-- **Yêu cầu hồ sơ:**
-  - một [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional) nêu lớp được gán, lý do phân hạng, giả định then chốt, kiểu phụ thuộc có mặt, đánh giá độ then chốt vận hành nơi có trọng, bất định, và nhịp tái xác nhận chia tỷ lệ theo lớp, như [Phần B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) đòi; và
-  - nơi phân hạng bất định hoặc đang bị tranh, lớp thận trọng được dựa vào và mọi điều kiện đang chờ giải.
-- **Bảo đảm và tái chứng nhận:**
-  - rằng bảo đảm chia tỷ lệ theo lớp, độ vững hạ tầng, và phủ hồi quy khớp CS-3 và CS-5 cho lớp được gán, đọc cùng [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) và **CJS-3.19** đến **CJS-3.23** nơi áp dụng có trọng;
-  - kết quả thử hồi quy trên hồ sơ chứng nhận dưới [Phần B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) cho mỗi lần tái chứng nhận hoặc tái xác nhận — phạm vi hồi quy, bộ thử chuẩn và tùy chỉnh đã chạy, kết quả, hỏng đã biết, khắc phục, và rủi ro dư được chấp với lý do, như CS-5 đòi;
-  - bằng chứng công nhận và rà trên hồ sơ cho chu kỳ chứng nhận — gói bằng chứng cho thấy phạm vi, phân hạng, thử, rủi ro dư, sẵn sàng khắc phục, theo dõi, và thay đổi có trọng từ hồ sơ trước nơi tái chứng nhận áp dụng, như CS-5 *Công nhận diễn đàn và rà vòng đời* đòi; và
-  - với hệ thống cổng hoặc nâng đỡ giao Sàn Quyền, rằng nhịp tái xác nhận và độ sâu hồi quy triển khai mục tiêu **Liên tục** dưới [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — chứng nhận cũ hoặc sớm không được coi là chứng rằng hữu tri vẫn nhận thức ăn, nước, chỗ trú, giáo dục, hay an toàn trong thực tế.
-- **Phân hạng sai và khiếm khuyết:**
-  - tuyên lớp rủi ro thấp hơn hệ thống đáng được, bẻ hệ thống thành mảnh để né quy tắc chặt hơn, hoặc giữ nhãn lớp cũ sau khi điều kiện đã đổi — kể cả thất đánh giá lại dưới **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** — là khiếm khuyết chứng nhận dưới CS-3 và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), không phải lỗi giấy tờ nhỏ;
-  - bỏ thử hồi quy, dựa kết quả cũ, để hỏng đã biết không sửa, hoặc chấp sửa lớn mà không thử lại khi thử lại còn làm được — là khiếm khuyết chứng nhận dưới CS-5; và
-  - nơi sự kiện nâng đỡ, cùng vấn đề phân hạng cũng có thể đếm vào phát hiện quỹ đạo bất lợi ở [Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+  - lớp hệ thống được chỉ định có phản ánh **tác động**, **phụ thuộc** và **rủi ro** đã quan sát được và có thể dự đoán hợp lý theo CS-3 (*Cơ chế phân loại hệ thống*) hay không, bao gồm:
+    - tác động tổng hợp;
+    - tác động tương tác;
+    - tác động đối kháng;
+    - tác động ngưỡng;
+  - việc phân loại có được xác định bởi hành vi và tác động thực tế của hệ thống, chứ không phải bởi:
+    - ý định được tuyên bố;
+    - phạm vi danh nghĩa;
+    - chỉ riêng nội dung [Điều lệ](core_05_band_continuity.md#charter); hoặc
+    - chỉ riêng phần tự mô tả;
+  - lớp hệ thống đã được kiểm tra lại theo **[CS-3 §3.5 yêu cầu phân loại lại](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** mỗi khi có thay đổi đáng kể đòi hỏi việc đó; và
+  - [Hồ sơ Phân loại Hệ thống](core_05_band_continuity.md#system-classification-record) có thể hiện **lớp hệ thống cao nhất đang áp dụng** trong điều kiện hiện tại hay không.
+- **Bảo đảm và kiểm thử hồi quy:**
+  - việc bảo đảm, khả năng chống chịu của hạ tầng và phạm vi kiểm thử hồi quy theo lớp hệ thống có phù hợp với lớp được chỉ định theo:
+    - CS-3 (*Cơ chế phân loại hệ thống*); và
+    - CS-5 (*Các bề mặt năng lực hướng đến người dùng*), đọc cùng các thuật ngữ vận hành chung sau đây khi có liên quan đáng kể:
+      - [**CJS-3.19**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms) (*Liên tục: suy giảm có kiểm soát và tính toàn vẹn của chế độ lỗi*);
+      - [**CJS-3.20**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms) (*Liên tục: khả năng đảo ngược và ngăn chặn*);
+      - [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*Liên tục: khả năng chống chịu đối kháng và chống lạm dụng*); và
+      - [**CJS-3.22**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms) (*Tích hợp: bí mật có giới hạn và điều tra được bảo vệ*) cùng [**CJS-3.23**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms) (*Tích hợp: can thiệp và tính toàn vẹn của quyền ghi đè*), khi lớp hoặc chức năng của hệ thống khiến chúng có liên quan đáng kể; và
+  - kiểm thử hồi quy có được thực hiện ở mỗi lần chứng nhận lại theo yêu cầu CS-5 (*Các bề mặt năng lực hướng đến người dùng*), với kết quả được ghi vào hồ sơ theo [§8.1 Nội dung tối thiểu của hồ sơ](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents) hay không.
+- **Chứng nhận và chứng nhận lại:**
+  - có gói chứng cứ chứng nhận và rà soát cho chu kỳ chứng nhận hay không, theo yêu cầu *Chứng nhận diễn đàn và rà soát vòng đời* của CS-5 (*Các bề mặt năng lực hướng đến người dùng*);
+  - tình trạng chứng nhận trong hồ sơ có được hỗ trợ theo [Phần B §9.2 Chứng nhận tạm thời và toàn phần](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) hay không:
+    - chỉ chứng nhận toàn phần khi:
+      - đạt ngưỡng tối thiểu về các lần chứng nhận lại sạch liên tiếp;
+      - hiện không có sự lệch chuẩn; và
+      - không có chỉ báo giám sát nào cho thấy sự lệch chuẩn sắp xảy ra;
+    - chứng nhận tạm thời dành cho hệ thống đã thất bại ở lần chứng nhận lại gần nhất; và
+  - đối với hệ thống cung cấp hoặc phụ thuộc vào các bảo vệ cơ bản của Sàn Quyền:
+    - tần suất kiểm tra lại và độ sâu kiểm thử lại có phục vụ mục tiêu **Liên tục** trong [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims), nghĩa là các nhu cầu thiết yếu tiếp tục đến với hữu tri theo thời gian hay không;
+    - không bao giờ được xem chứng nhận đã lỗi thời hoặc quá sớm là bằng chứng rằng hữu tri hôm nay thực sự nhận được thức ăn, nước, chỗ ở, giáo dục hoặc an toàn.
+- **Phân loại sai và khiếm khuyết:**
+  - các khiếm khuyết chứng nhận theo CS-3 (*Cơ chế phân loại hệ thống*) và [Phần B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes), chứ không phải lỗi giấy tờ nhỏ, bao gồm:
+    - tuyên bố lớp rủi ro thấp hơn mức phù hợp với hệ thống;
+    - chia hệ thống thành nhiều phần để né các quy tắc nghiêm ngặt hơn; hoặc
+    - giữ nhãn lớp hệ thống cũ sau khi điều kiện thay đổi, kể cả việc không đánh giá lại theo **[CS-3 §3.5 yêu cầu phân loại lại](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**;
+  - khiếm khuyết chứng nhận theo CS-5 (*Các bề mặt năng lực hướng đến người dùng*) bao gồm:
+    - bỏ qua kiểm thử hồi quy;
+    - dựa vào kết quả lỗi thời;
+    - để nguyên các lỗi đã biết; hoặc
+    - chấp nhận sửa chữa lớn mà không kiểm thử lại dù việc kiểm thử lại khả thi; và
+  - khi hệ thống được chứng nhận và sự thật hỗ trợ, các vấn đề phân loại tương tự cũng có thể góp phần vào kết luận bất lợi về quỹ đạo tại [Chương Chín](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
 
-Nơi chứng nhận nhận diện những khiếm khuyết này, diễn đàn có thể duyệt với điều kiện, hoãn duyệt, từ chối, rút công nhận, đổi nhịp rà, hoặc ra lệnh rà mới.
+Hậu quả của các khiếm khuyết này được quy định tại [§7 Kết quả Chứng nhận](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-<a id="21-illustrative-class-profiles-non-exhaustive"></a>
+<a id="21-how-system-class-scales-every-evaluation"></a>
 
-#### 2.1 Hồ sơ lớp minh họa (không hết)
+#### 2.1 Lớp Hệ thống Điều chỉnh Mọi Đánh giá như thế nào
 
-*Nói thẳng: lớp không phải phù hiệu người vận hành chọn — nó là mức hại, sự dựa, và rủi ro hệ thống thực sự mang. Bảng dưới gọi tên một hệ thống minh họa mỗi lớp; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), và [§10.1](#101-illustrative-trustworthiness-application-by-class) đi qua đánh giá toàn hệ thống, xử lý dữ liệu, dấu chân sinh thái, hỗ trợ xuyên hệ thống, không phân biệt đối xử, khả năng tiếp cận, năng lực giáo dục, và đáng tin cậy áp cho từng cái thế nào. Quy tắc lớp chính thức, thử chiều, và cò tái phân hạng sống ở **CS-3**; các ví dụ này không thêm lớp hay thu hẹp CS-3.*
+Lớp hệ thống xác định độ sâu của mọi đánh giá trong chương này — các yếu tố toàn hệ thống tại [§3 Đánh giá Chứng nhận Toàn hệ thống](#3-whole-system-certification-evaluation), việc xử lý dữ liệu tại [§3.4 Đánh giá Loại và Xử lý Dữ liệu](#34-data-types-and-handling-evaluation), và từng đánh giá Sàn Quyền cùng từng lĩnh vực tại [§5 Đánh giá Sàn Quyền và Lĩnh vực](#5-rights-floor-and-domain-evaluations) — cũng như tần suất lặp lại:
 
-| Lớp | Hệ thống minh họa (không hết) | Điều chứng nhận phải phản ánh ở lớp này |
-|-------|-------------------------------------|-----------------------------------------------|
-| **Class A** | Điều khiển và đo xa **nước uống an toàn** của đô thị — gián đoạn sẽ khóa nước an toàn trước khi vật thay khả thi tới ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Độ sâu [§3](#3-whole-system-certification-evaluation) đầy nhất; nhịp tái xác nhận có lý ngắn nhất; kỳ vọng hồi quy, hạ tầng, và công bố hồ sơ mạnh nhất dưới [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record); tham gia bên bị ảnh hưởng và diễn đàn hữu tri thực tiễn tối đa nơi Sàn Quyền bị cổng |
-| **Class B** | Trao đổi **hồ sơ lâm sàng** vùng — bệnh viện và phòng khám dựa vào nó hàng ngày nhưng có thể rơi về dự phòng trong khung thời gian liên quan sống còn ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Đánh giá [§3](#3-whole-system-certification-evaluation) đầy; bằng chứng chuỗi phụ thuộc và đường phục hồi vững; đánh giá miền ở [§4](#4-data-types-and-handling-evaluation) đến [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò trọng yếu áp; đường tranh biện và theo dõi chia tỷ lệ theo độ then chốt vận hành |
-| **Class C** | Nền tảng **lịch và phối hợp** thể chế quy mô lớn — định hình phối hợp ở quy mô nhưng không phải điều kiện tiên quyết vận hành cho dịch vụ sống còn ở chế độ suy ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Đánh giá có trọng dưới [§4](#4-data-types-and-handling-evaluation) đến [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò áp; rà toàn hệ thống tương xứng; theo dõi tái phân hạng nơi hiệu ứng phụ thuộc, tập trung, hoặc cổ chai mạnh lên — chứng nhận không được coi Class C là vĩnh viễn nếu hệ thống trở thành cần thiết vận hành |
+- Hệ thống lớp cao hơn cần chứng cứ mạnh hơn và tương xứng để cho thấy từng đánh giá áp dụng đã thực sự được tiến hành, chứ không chỉ được tuyên bố.
+- Lớp hệ thống thấp hơn vẫn cần đánh giá trung thực và tương xứng ở mọi nơi có yếu tố kích hoạt.
+- Lớp hệ thống không bao giờ cho phép bỏ qua đánh giá bắt buộc. Hệ thống có vai trò thực tế vượt quá lớp của mình phải được phân loại lại và đánh giá lại ở độ sâu cao hơn theo [§9 Chứng nhận lại và Mở lại](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening).
+- Lớp hệ thống quyết định độ sâu rà soát. Nó không bao giờ cho phép chỉ dựa vào chứng chỉ, nhãn hoặc điều chỉnh chỉ tồn tại trên giấy, hay chấp nhận đánh giá và quyết định mà không ai có thể thấy căn cứ.
 
-**Tham gia và tính tương xứng ở tỷ lệ lớp.** Hệ thống **Class A** đòi đường tham gia thực tiễn mạnh nhất — kể cả tranh biện tiếp cận được, rà bên bị ảnh hưởng, và phát hiện thành phần diễn đàn hữu tri nơi Sàn Quyền bị kéo vào — vì lỗi có thể khóa thiết yếu sống còn trước khi khắc phục còn kịp. Hệ thống **Class B** đòi tham gia vững nơi hệ thống cổng chăm sóc sức khỏe, giáo dục, phúc lợi, việc làm, hoặc đời sống hàng ngày tương đương. Hệ thống **Class C** vẫn đòi hồ sơ tranh biện được và công bố tương xứng, nhất là nơi hiệu ứng phối hợp chất gánh lên nhóm được bảo vệ, tập trung phụ thuộc, hoặc báo hiệu leo tới Class B hay Class A.
+Các yêu cầu về sự tham gia và tính tương xứng được điều chỉnh tương tự:
 
-**Nhắc tái phân hạng.** Nhãn minh họa không khóa phân hạng. Một nền tảng phối hợp trở thành cổng thực tế cho lối vào thiết yếu sống còn; một dịch vụ giấy thông hành mà sự cố giờ sẽ chặn chăm sóc sức khỏe hay phúc lợi trong khung thời gian liên quan sống còn; hoặc một hệ thống con tiện ích bị hút vào đường then chốt phải được tái phân hạng và tái chứng nhận dưới **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — không để ở lớp thấp hơn vì người vận hành thích rà nhẹ hơn.
+- Hệ thống **Lớp A** cần những đường tham gia khả thi mạnh nhất, vì sai sót có thể chặn các nhu cầu sinh tồn thiết yếu trước khi có thể khắc phục. Các đường này gồm:
+  - cơ chế phản đối dễ tiếp cận;
+  - rà soát của bên liên quan; và
+  - kết luận của họ diễn đàn được giao phụ trách lợi hại bị ảnh hưởng theo [Phần B §6.1 Giám sát Diễn đàn và Vai trò các Cấu phần](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles), bao gồm diễn đàn Thể chế hoặc diễn đàn Hữu tri như phần đó yêu cầu.
+- Hệ thống **Lớp B** cần sự tham gia vững chắc khi hệ thống kiểm soát:
+  - chăm sóc sức khỏe;
+  - giáo dục;
+  - trợ cấp;
+  - việc làm; hoặc
+  - đời sống hằng ngày tương đương.
+- Hệ thống **Lớp C** vẫn cần hồ sơ có thể phản đối và công bố tương xứng, nhất là khi tác động phối hợp:
+  - tạo gánh nặng cho nhóm được bảo vệ;
+  - tập trung sự phụ thuộc; hoặc
+  - báo hiệu khả năng nâng lên Lớp B hoặc Lớp A.
 
+<a id="22-pilot-certification"></a>
+
+#### 2.2 Chứng nhận Thí điểm
+
+**[Thí điểm](core_05_band_continuity.md#pilot)** là một lần [đưa vào hoạt động](core_05_band_continuity.md#go-live), vì vậy cần chứng nhận riêng trước khi bắt đầu theo quy tắc đưa vào hoạt động tại [Phần B §7 Kết quả Chứng nhận](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+
+- Hệ thống ở bất kỳ lớp nào đều được kỳ vọng chạy thí điểm trước khi triển khai đầy đủ; hệ thống không làm vậy phải ghi lại lý do.
+- Thí điểm vẫn cần phân loại trung thực và mọi đánh giá có yếu tố kích hoạt áp dụng; phạm vi, nhóm người tham gia và thời hạn phải được nêu trong hồ sơ.
+- Thí điểm được đánh giá trong hồ sơ riêng, với độ sâu tùy theo lớp hệ thống và mức độ có thể thay thế: có phương án thay thế khả thi cho những hữu tri sẽ bị ảnh hưởng hoặc phụ thuộc vào hệ thống hay không, và phương án đó gây chi phí, chậm trễ, mất chức năng ở mức nào (xem [Phụ thuộc](core_05_band_continuity.md#dependency)).
+  - Hệ thống càng dễ thay thế và lớp càng thấp thì đánh giá thí điểm có thể càng nhẹ.
+  - Thí điểm của hệ thống khó thay thế phải được đánh giá ở độ sâu mà lớp hệ thống yêu cầu khi triển khai đầy đủ.
 
 <a id="3-whole-system-certification-evaluation"></a>
 
 ### 3. Đánh giá chứng nhận toàn hệ thống
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy nguyên</span></strong></summary>
 
-- Thượng nguồn: [Chương Một §14 Yêu cầu đánh giá hệ thống](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); Gia đình đo lường Hưng thịnh (*Phúc lợi, an toàn, hại, và lối vào sàn sống còn*); Gia đình đo lường Hiệu năng hiến pháp (*Hiệu quả hiến pháp, Gánh nặng có thể tránh, và Năng lực sản xuất*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [lợi hại vật chất](core_00_preamble.md#material-stake); [§1 Mục đích và vai trò](#1-purpose-and-role).
-- Hạ nguồn: [§3.8](#38-illustrative-whole-system-application-by-class) (*đi qua toàn hệ thống minh họa*); [§4](#4-data-types-and-handling-evaluation) đến [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*đánh giá lĩnh vực*); [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*hồ sơ lớp minh họa*); [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*chuỗi khả năng tranh biện*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*mở lại và chống lẩn tránh*).
-- Đọc cùng: [Chương Một §9](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), và [§11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [§5.2 Quyền ngừng tự nguyện và lối ra](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights); [§5.3 Tụ họp, tổ chức tập thể, và hình thành thể chế](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation); **Điều XVI** (*Kiểm toán, minh bạch, và xác minh độc lập*) nơi Sàn Quyền kiểm toán, minh bạch, hoặc xác minh độc lập đang lợi hại có trọng; Gia đình đo lường Liên tục ([§3.1](#31-systemic-scope-and-risk-factors) — khả năng phục hồi, khả năng đảo, và rủi ro hệ thống); [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation); [Công bố rủi ro](core_05_band_oversight.md#risk-disclosure); [Công bố sàn giám sát công cộng](core_05_band_oversight.md#public-oversight-baseline-disclosure); Gia đình đo lường Tham gia ([§3.3](#33-privacy-informational-joint-invocation) — quyền riêng tư và quản trị có trách nhiệm đối với dữ liệu); Gia đình đo lường Trách nhiệm giải trình ([§3.7](#37-governance-incentive-and-contestability-discipline) — thẳng hàng khuyến khích và khả năng tranh biện thị trường); [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries); [Điều lệ](core_05_band_continuity.md#charter).
-- Tiểu mục: [§3.1](#31-systemic-scope-and-risk-factors) đến [§3.7](#37-governance-incentive-and-contestability-discipline) (*yếu tố đánh giá toàn hệ thống*); [§3.8](#38-illustrative-whole-system-application-by-class) (*áp dụng toàn hệ thống minh họa theo lớp*).
+- Thượng nguồn: [Chương Một §12 Yêu cầu đánh giá hệ thống](core_01_a_values_principles.md#12-systemic-evaluation-requirement); họ đo lường Hưng thịnh (*phúc lợi, an toàn, tổn hại và khả năng tiếp cận sàn sinh tồn*); họ đo lường Hiệu năng Hiến pháp (*Hiệu suất Hiến pháp, Gánh nặng có thể tránh, và Năng lực sản xuất*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [lợi hại vật chất](core_00_preamble.md#material-stake); [§1 Mục đích và Vai trò](#1-purpose-and-role).
+- Hạ nguồn: [Các hướng dẫn toàn hệ thống ở Phần C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*hướng dẫn toàn hệ thống mang tính minh họa*); từ [§3.4](#34-data-types-and-handling-evaluation) đến [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*đánh giá theo lĩnh vực*); [hồ sơ lớp hệ thống ở Phần C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*hồ sơ lớp hệ thống minh họa*); [Phần B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ*); [Phần B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*chuỗi khả năng tranh biện*); [Phần B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*mở lại và chống né tránh*).
+- Đọc cùng: [Chương Một §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), và [§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture); [Chương Một §7.4 Chấm dứt tự nguyện, Tự sửa đổi lớn và Quyền rời đi](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights); [Chương Một §7.2 Tập hợp, Tổ chức tập thể và Hình thành thể chế](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation); **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh độc lập*) khi các Sàn Quyền về kiểm toán, minh bạch hoặc xác minh độc lập có lợi hại vật chất; họ đo lường Liên tục ([§3.1](#31-systemic-scope-and-risk-factors) — khả năng phục hồi, đảo ngược và rủi ro hệ thống); [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation); [Công bố rủi ro](core_05_band_oversight.md#risk-disclosure); [Công bố đường cơ sở giám sát công khai](core_05_band_oversight.md#public-oversight-baseline-disclosure); họ đo lường Tham gia ([§4.1](#41-privacy-informational-joint-invocation) — quyền riêng tư và quản trị dữ liệu); họ đo lường Trách nhiệm giải trình ([§3.3](#33-governance-incentive-and-contestability-discipline) — điều chỉnh động cơ và khả năng tranh biện thị trường); [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries); [Hiến chương](core_05_band_continuity.md#charter).
+- Các tiểu mục: [§3.1](#31-systemic-scope-and-risk-factors) đến [§3.4](#34-data-types-and-handling-evaluation) (*luôn áp dụng: yếu tố hệ thống, chân trời thời gian, quản trị, và loại dữ liệu cùng cách xử lý*). Giai đoạn II tiếp tục ở [§4 Đánh giá khi có liên quan](#4-evaluations-where-implicated) (*khi có liên quan: các điểm quyền riêng tư, quyền rời đi, tập hợp và bất đồng*) và [§5 Đánh giá Sàn Quyền và lĩnh vực](#5-rights-floor-and-domain-evaluations) (*khi được kích hoạt*).
 
 </details>
 
 <br>
 
-*Nói thẳng: không được bật đèn xanh một mảnh của hệ thống rồi bỏ phần còn lại. Người rà cần bức tranh đầy — nó phụ thuộc vào gì, cái gì gãy khi thứ gì thượng nguồn hỏng, hại hiện muộn hoặc cộng dồn theo thời gian, liệu hữu tri có thực sự dùng được (không chỉ trên giấy), liệu thông tin riêng có được tường đúng, liệu hữu tri có ra được mà không bị kẹt, liệu nhóm còn tổ chức được mà hệ thống không tách họ, liệu thắng ngắn hạn có che hại dài hạn, và liệu giám sát cùng trách nhiệm giải trình thực sẽ còn chạy khi lợi hại cao.*
+*Nói thẳng: không thể bật đèn xanh cho một phần của hệ thống rồi bỏ qua phần còn lại. Người đánh giá cần thấy toàn cảnh — hệ thống phụ thuộc vào điều gì, điều gì hỏng khi một thứ ở thượng nguồn thất bại, tổn hại xuất hiện muộn hoặc tích tụ theo thời gian, hữu tri có thể thực sự sử dụng nó chứ không chỉ trên giấy tờ hay không, thông tin riêng tư có được tách biệt đúng cách không, hữu tri có thể rời đi mà không bị mắc kẹt không, các nhóm có thể tiếp tục tổ chức mà hệ thống không chia rẽ họ không, lợi ích ngắn hạn có che giấu tổn hại dài hạn không, và giám sát cùng trách nhiệm giải trình thực chất có còn vận hành khi lợi hại lớn hay không.*
 
-Một đánh giá chứng nhận thẳng hàng hệ thống chưa đủ nếu chỉ xét hiệu ứng tức thì hoặc địa phương. Hồ sơ chứng nhận phải cho thấy đánh giá đã xét các yếu tố dưới đây nơi chúng có trọng đối với công nhận, xác nhận, tái xác nhận, tiếp tục dựa, triển khai, hoặc giải phóng có trọng khỏi điều kiện. Đánh giá cũng phải xác nhận [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) sẽ đạt chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) cho hệ thống đang rà. Đi qua toàn hệ thống đã làm cho các hệ thống minh họa ở [§2.1](#21-illustrative-class-profiles-non-exhaustive) nằm ở [§3.8](#38-illustrative-whole-system-application-by-class).
+*Ví dụ minh họa: [Phần C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) cho thấy mục này vận hành trong thực tế ra sao. Phần này lấy ba hệ thống mẫu, mỗi lớp hệ thống một ví dụ, rồi đi qua các bước kiểm tra ở trên.*
+
+Đánh giá chứng nhận điều chỉnh hệ thống sẽ không đầy đủ nếu chỉ xem xét tác động tức thời hoặc cục bộ; đánh giá toàn hệ thống (Giai đoạn II), nhằm khắc phục thiếu sót đó, gồm ba tầng được trình bày riêng trong từng mục và liệt kê trong bảng dưới đây. Mục này quy định tầng thứ nhất, **IIa**; [§4 Đánh giá khi có liên quan](#4-evaluations-where-implicated) quy định **IIb** và [§5 Đánh giá Sàn Quyền và lĩnh vực](#5-rights-floor-and-domain-evaluations) quy định **IIc**. Bảng giúp định hướng người đọc; bảng không bổ sung, thu hẹp hoặc sắp xếp lại yêu cầu của bất kỳ mục hay tiểu mục nào.
+
+| Tầng | Phân giai đoạn | Các mục | Áp dụng |
+|------|----------------|---------|---------|
+| **Luôn áp dụng** | IIa | [§3.1 Phạm vi hệ thống và yếu tố rủi ro](#31-systemic-scope-and-risk-factors); [§3.2 Ràng buộc nhất quán theo thời gian](#32-time-consistency-constraint); [§3.3 Kỷ luật quản trị, động cơ và khả năng tranh biện](#33-governance-incentive-and-contestability-discipline); [§3.4 Đánh giá loại dữ liệu và cách xử lý](#34-data-types-and-handling-evaluation) | mọi hồ sơ chứng nhận có tác động vật chất |
+| **Khi có liên quan** | IIb | [§4.1 Kết hợp viện dẫn quyền riêng tư (thông tin)](#41-privacy-informational-joint-invocation); [§4.2 Chấm dứt tự nguyện, Tự sửa đổi lớn và Quyền rời đi](#42-voluntary-discontinuation-major-self-modification-and-exit-rights); [§4.3 Tập hợp, Tổ chức tập thể và Hình thành thể chế](#43-assembly-collective-organization-and-institutional-formation), bao gồm [§4.3.1](#431-dissent-and-peaceful-protest) | khi vấn đề chứng nhận có tác động vật chất đến điểm hoặc nguyên tắc mà tiểu mục nêu tên |
+| **Khi được kích hoạt** | IIc | [§5 Đánh giá Sàn Quyền và lĩnh vực](#5-rights-floor-and-domain-evaluations) | khi đáp ứng một điều kiện kích hoạt trong bảng §5 |
+
+Hồ sơ chứng nhận phải cho thấy rằng việc đánh giá đã xem xét các yếu tố dưới đây ở mọi nơi chúng có ý nghĩa vật chất đối với:
+
+- chứng nhận;
+- xác nhận;
+- tái chứng nhận;
+- tiếp tục dựa vào hệ thống;
+- triển khai; hoặc
+- dỡ bỏ điều kiện gắn với chứng nhận.
+
+Việc đánh giá cũng phải xác nhận rằng [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) sẽ được điều chỉnh theo [lợi hại vật chất](core_00_preamble.md#material-stake) của hệ thống đang được xem xét.
 
 <a id="31-systemic-scope-and-risk-factors"></a>
 #### 3.1 Phạm vi hệ thống và yếu tố rủi ro
 
-Đánh giá chứng nhận phải xét:
+Đánh giá chứng nhận phải xem xét:
 
-- **quan hệ phụ thuộc và hiệu ứng dây chuyền** — cái gì hỏng hạ nguồn khi thứ gì thượng nguồn gãy;
-- **hiệu ứng gộp và quy mô** — cái gì đổi khi nhiều hành động nhỏ cộng lại;
-- **tác động trì hoãn, cộng dồn, và xác suất** — hại hiện muộn, chồng lên, hoặc phụ thuộc may rủi;
-- **điều kiện đối kháng và tiềm năng lạm dụng** — kẻ xấu hoặc lạm dụng dự kiến có thể khai thác hệ thống thế nào;
-- **phạm vi Điều lệ đối ranh giới chức năng** — liệu [Điều lệ](core_05_band_continuity.md#charter) đang quản trị, nơi có hoặc bị đòi, có khớp [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries) quan sát được, và liệu phạm vi nêu có hạ thấp tác động hoặc phụ thuộc có trọng;
-- **rủi ro tồn vong** — kết cục có thể đe dọa sự sống còn hữu tri hoặc [Năng lực phục hồi sinh thái](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) ở quy mô văn minh.
+- **quan hệ phụ thuộc và tác động dây chuyền** — điều gì ở hạ nguồn thất bại khi một thứ ở thượng nguồn hỏng;
+- **tác động tổng hợp và quy mô** — điều gì thay đổi khi nhiều hành động nhỏ kết hợp;
+- **tác động trì hoãn, tích lũy và xác suất** — tổn hại xuất hiện muộn, chồng chất hoặc phụ thuộc vào may rủi;
+- **điều kiện đối kháng và khả năng bị lạm dụng** — tác nhân xấu hoặc hành vi lạm dụng có thể dự đoán sẽ khai thác hệ thống như thế nào;
+- **phạm vi theo Hiến chương so với ranh giới chức năng** — [Hiến chương](core_05_band_continuity.md#charter) điều chỉnh, nếu có hoặc được yêu cầu, có khớp với [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries) quan sát được không, và phạm vi đã nêu có đánh giá thấp tác động vật chất hoặc sự phụ thuộc không;
+- **năng lực phục hồi sinh thái** — hệ thống có thể làm tổn hại [Năng lực Phục hồi Sinh thái](core_05_band_continuity.md#ecological-recovery-capacity) của bất kỳ hệ sinh thái tự nhiên nào, ở bất kỳ quy mô nào, đến mức hệ sinh thái đó không thể tái sinh sau tổn hại hay không;
+- **rủi ro tồn vong** — kết quả có thể đe dọa sự sống còn của hữu tri ở quy mô văn minh.
 
-**Cầu đánh giá và công bố rủi ro.** Nơi [Rủi ro](core_05_band_continuity.md#risk) hệ thống nằm trong phạm vi dưới các yếu tố trên, chứng nhận phải kiểm cả hai nửa cặp Chương Năm — không bịa một loài hồ sơ công bố rủi ro được đặt tên riêng:
+**Cầu nối giữa đánh giá và công bố rủi ro.** Khi [Rủi ro](core_05_band_continuity.md#risk) hệ thống thuộc phạm vi theo các yếu tố trên, chứng nhận phải xác minh cả hai nửa của cặp quy định ở Chương Năm — không tự tạo thêm một loại hồ sơ công bố rủi ro có tên riêng:
 
-- **[Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation)** — liệu rủi ro hệ thống thực sự đã được đánh giá dưới các điều kiện quan trọng (phụ thuộc, chân trời thời gian, và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), kích theo lớp và [lợi hại vật chất](core_00_preamble.md#material-stake); và
-- **[Công bố rủi ro](core_05_band_oversight.md#risk-disclosure)** — liệu rủi ro đã đánh giá đã tới hữu tri cần nó kịp để hiểu, tranh biện, và hành động.
+- **[Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation)** — rủi ro hệ thống có thực sự được đánh giá trong các điều kiện quan trọng (phụ thuộc, chân trời thời gian và [Điều kiện đối kháng, mở rộng quy mô và bị khai thác](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), với quy mô phù hợp với lớp hệ thống và [lợi hại vật chất](core_00_preamble.md#material-stake) hay không; và
+- **[Công bố rủi ro](core_05_band_oversight.md#risk-disclosure)** — rủi ro đã đánh giá có đến với những hữu tri cần biết đúng lúc để hiểu, phản biện và hành động hay không.
 
-Đánh giá không công bố, hay công bố không đánh giá, đều thất. Tầm nhìn sàn công cộng vào rủi ro có trọng dưới [Công bố sàn giám sát công cộng](core_05_band_oversight.md#public-oversight-baseline-disclosure) có thể được thỏa một phần qua Công bố rủi ro nơi rủi ro hệ thống nằm trong phạm vi; sàn đó vẫn rộng hơn cầu này và không đòi một công cụ ngang hàng bên cạnh [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional) hay [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional).
+Chỉ thực hiện một trong hai việc sẽ không đạt:
 
-**Yêu cầu hồ sơ.** Nơi rủi ro hệ thống nằm trong phạm vi, [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional) dưới **[Phần B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** phải nêu:
+- rủi ro đã đánh giá nhưng không bao giờ được chia sẻ không đạt; và
+- rủi ro đã chia sẻ nhưng chưa được đánh giá đúng cách cũng không đạt.
 
-- phát hiện đánh giá rủi ro và giả định được dựa cho các yếu tố trên;
-- tư thế công bố — kể cả:
-  - đối tượng hoặc định tuyến dự kiến;
-  - thời điểm tương đối với quyết định có trọng; và
-  - mọi giữ lại có lý đi cặp với vật thay dùng được.
-- khiếm khuyết hoặc điều kiện nơi đánh giá hay công bố còn chưa đủ.
+**Khiếm khuyết và lệch điều chỉnh.** Các trường hợp sau phải được coi là khiếm khuyết chứng nhận:
 
-Những phát hiện đó sống trên hồ sơ chứng nhận. Chúng không phải hồ sơ thành phần bắt buộc được đặt tên thứ năm.
+- coi ghi chú nội bộ, phụ lục bị chôn sâu, danh sách kiểm tra hoặc tuyên bố sau sự việc là việc đánh giá hoặc công bố;
+- không công bố rủi ro hệ thống đã đánh giá cho những bên cần biết khi [Tính minh bạch](core_05_band_oversight.md#transparency) hoặc [An toàn (Ràng buộc Hiến pháp)](core_05_band_continuity.md#safety-constitutional-constraint) yêu cầu; hoặc
+- chấp thuận tiếp tục dựa vào hệ thống trong khi các rủi ro đã biết vẫn chưa được ghi chép, công bố và xử lý.
 
-**Khiếm khuyết và lệch thẳng hàng.** Coi ghi chú nội bộ, phụ lục chôn, danh sách kiểm, hoặc tuyên sau việc như đánh giá hay công bố; thất công bố rủi ro hệ thống đã đánh giá cho người cần nó nơi [Minh bạch](core_05_band_oversight.md#transparency) hoặc [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) đòi; hoặc chứng nhận tiếp tục dựa trong khi khe giao rủi ro có trọng còn chưa giải phải được coi là khiếm khuyết chứng nhận. Chúng có thể nâng đỡ công nhận có điều kiện, công nhận bị hoãn, không công nhận, rút, hoặc mở lại dưới [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Hệ quả được quy định tại [§7 Kết quả chứng nhận](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-<a id="32-accessibility-under-sentience-non-exclusion"></a>
-#### 3.2 Khả năng tiếp cận dưới không loại trừ hữu tri
+<a id="32-time-consistency-constraint"></a>
+#### 3.2 Ràng buộc nhất quán theo thời gian
 
-Đánh giá chứng nhận phải thử tham gia thực cho mọi hình hữu tri và hồ sơ năng lực, không chỉ tuân thủ giấy tờ.
+Chứng nhận không được coi các chỉ số ngắn hạn, tuân thủ cục bộ hoặc hiệu suất trong chân trời ngắn là đủ khi các vi phạm trung hạn hoặc dài hạn có thể dự đoán vẫn chưa được xử lý. Tối ưu hóa chân trời ngắn là không hợp lệ nếu có thể dự đoán rằng nó sẽ gây ra vi phạm các ràng buộc về **An toàn**, **Sự thật** hoặc **phúc lợi** trong trung hạn hoặc dài hạn, theo các điều kiện tích lũy, trì hoãn hoặc liên hệ giữa các hệ thống.
 
-- *Phạm vi hồ sơ.* Đánh giá phải xử mọi hạng hồ sơ liên quan: giác quan, nhận thức, vận động, giao tiếp, **giao diện nền**, và **giao diện tính toán**. Cùng yêu cầu áp liệu hồ sơ **ổn định**, **từng đợt**, hay **phát triển**.
-- *Chuẩn.* Phép thử là **hiệu ứng tham gia nội dung**: liệu hữu tri bị ảnh hưởng có **thực sự** tham gia được miền. **Tuân thủ tiện nghi hình thức** không đủ.
-- *Chia tỷ lệ.* Sàn tham gia thực tăng theo [Tính trọng yếu](core_05_band_oversight.md#materiality-determination) của miền và [Phụ thuộc](core_05_band_continuity.md#dependency) của bên bị ảnh hưởng vào hệ thống.
-- *Chống lẩn tránh.* Chứng nhận phải từ chối mẫu **lối vào chung** tuyên sẵn có gộp rộng trong khi đánh bại một hồ sơ bị ảnh hưởng cụ thể, và **chia tỷ lệ trọng yếu chọn lọc** có hiệu ứng đánh bại sàn tham gia.
-- *Chủ sở hữu Sàn Quyền.* [Điều V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*Khả năng tiếp cận*) nắm Sàn Quyền khả năng tiếp cận. Khả năng tiếp cận riêng giáo dục vẫn do [Điều III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Lối vào giáo dục bình đẳng*) quản trị.
+<a id="33-governance-incentive-and-contestability-discipline"></a>
+#### 3.3 Kỷ luật quản trị, động cơ và khả năng tranh biện
 
-<a id="33-privacy-informational-joint-invocation"></a>
-#### 3.3 Quyền riêng tư (Thông tin) — viện chung
+*Nói thẳng: việc xem xét chưa hoàn tất nếu người đánh giá không hỏi liệu bốn trụ của [Tứ diện](core_00_preamble.md#constitutional-tetrad) có còn đứng vững ở mức rủi ro liên quan hay không — tham gia (hữu tri có thể thực sự tham gia không), giám sát (công việc có thể được theo dõi và kiểm tra không), trách nhiệm giải trình (có thể buộc người làm sai trả lời không), và kịp thời (quyết định có đủ nhanh khi cần không). Người đánh giá cũng cần biết ai thực sự nắm quyền hạn vật chất và ai chịu trách nhiệm về việc gì — không thể dùng câu “cả nhóm” mơ hồ hay một vỏ bọc để đổ lỗi. Chứng nhận hợp lệ phải trả lời các câu hỏi đó.*
 
-*Nói thẳng: Chương Sáu rải bảo vệ quyền riêng tư qua nhiều điều — không một góc gọn. Nếu rà chứng nhận chạm hơn một bảo vệ đó, người rà phải kiểm từng cái thực sự áp. Tích hộ dễ nhất rồi coi xong là không đủ.*
+Đánh giá chứng nhận không đầy đủ nếu không đánh giá liệu **giám sát**, **trách nhiệm giải trình**, **tham gia** và **kịp thời** có được điều chỉnh theo [lợi hại vật chất](core_00_preamble.md#material-stake) của hệ thống đang xem xét hay không. Đánh giá đó phải bao gồm việc các vai trò quản trị có trách nhiệm, quản trị và giải trình vật chất có được **phân công chính thức, ghi chép và truy nguyên** đủ mức để việc yêu cầu trả lời và các lộ trình tranh biện thực tế vận hành hay không — được điều chỉnh theo lớp hệ thống và tác động vật chất theo **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**.
 
-Khi một vụ chứng nhận kéo có trọng hơn một chỗ quyền riêng tư Chương Sáu, chứng nhận phải xử từng chỗ đó. Đóng vụ dưới một chỗ một mình là không đủ.
+Để thực hiện kỷ luật này, chứng nhận phải đọc:
 
-- *Mở tham gia.* [Quyền riêng tư (Thông tin)](core_05_band_continuity.md#privacy-informational) mở [Tham gia](core_05_apex_participation_leg.md#participation-constitutional) nội dung. Chứng nhận phải xác nhận bảo vệ quyền riêng tư nâng đỡ tiếng nói, thảo luận, liên kết, và tranh biện không bị đánh bại bằng phân đoạn, đọc chéo, hoặc áp lực phơi bày.
-- *Chỗ cụm.* Phủ quyền riêng tư phân tán sống xuyên **Điều VII-A** (*Tự sở hữu thân và tâm*), **Điều VII-B** (*Ranh giới trạng thái nội tại và bảo vệ Loại N*), **Điều IX** (*Hình dạng, dữ liệu trải nghiệm, và quyền công bố*), **Điều X-A** (*Quyền năng và tự do khỏi thao túng*), và **Điều XIV-A** (*Giới hạn an ninh, tình báo, và quyền lực kín*).
-- *Quy tắc viện chung.* Nơi vụ kéo có trọng hơn một chỗ, chứng nhận phải tới từng chỗ đó và không được định tuyến vụ qua một chỗ theo cách để chỗ khác bị lẩn.
-- *Nhà đầu cụm.* Chương Năm [**Def.C3** (*Quyền riêng tư (Thông tin)* — đầu cụm ngang hàng)](core_05_band_accountability.md#privacy-informational-cluster) và [Quyền riêng tư (Thông tin)](core_05_band_continuity.md#privacy-informational) nắm nghĩa.
-- *Không nới bằng đọc chéo.* Chuẩn nêu tại chỗ của mỗi thành viên cụm kiểm trong phạm vi của chính nó và không được nới bằng nhập chuẩn lỏng hơn từ thành viên khác.
-- *Sàn Loại N được giữ.* Nơi **Điều VII-B** (*Ranh giới trạng thái nội tại và bảo vệ Loại N*) bị kéo có trọng, xử lý **Loại N** dưới **[corpus_systems.md](../../corpus_systems.md), CS-2** áp và không bị thu hẹp bởi yếu tố này.
+- **[Chương Một §16 Quản trị có trách nhiệm chuyên sâu](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)** — hiểu biết phân tán, minh bạch, khả năng kiểm toán và khả năng quan sát có thể tranh biện;
+- **[Chương Một §18 Quản trị theo kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — quản trị được ủy quyền và trách nhiệm trả lời theo kỷ luật quản trị có trách nhiệm;
+- **[Chương Một §19 Điều chỉnh động cơ và chiếm dụng hệ thống](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — điều chỉnh động cơ, tính toàn vẹn của đại diện, sửa khiếm khuyết ngắn hạn và ứng phó chiếm dụng;
+- **[Chương Một §19.1.4 Đường dẫn chiều sâu vai trò và trách nhiệm vật chất](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — đường dẫn vai trò có hệ quả và kỷ luật chống tham gia hình thức;
+- **[Chương Mười Ba §5 Vai trò được ủy quyền, Phát triển năng lực và Đóng góp](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** và **[corpus_systems.md](corpus_systems.md), CS-4 — Quản trị có trách nhiệm đối với hệ thống trọng yếu** — các sàn về định nghĩa vai trò, năng lực và truy nguyên trong vận hành, khi có ý nghĩa vật chất;
+- **[Điều XVI: Kiểm toán, Minh bạch và Xác minh độc lập](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** khi các Sàn Quyền về kiểm toán, minh bạch hoặc xác minh độc lập có lợi hại vật chất.
 
-<a id="34-voluntary-discontinuation-and-exit-rights"></a>
-#### 3.4 Quyền ngừng tự nguyện và lối ra
+<a id="34-data-types-and-handling-evaluation"></a>
 
-Nơi [Chương Một §5.2 Quyền ngừng tự nguyện và lối ra](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) áp cho một vụ chứng nhận, chứng nhận phải thử tính tự nguyện, đồng thuận, chống cưỡng, áp lực phụ thuộc, thông tin, và khả năng đảo trước khi tuyên chứng nhận đứng. Đồng thuận hình thức một mình không đủ.
-
-<a id="35-assembly-collective-organization-and-institutional-formation"></a>
-#### 3.5 Tụ họp, tổ chức tập thể, và hình thành thể chế
-
-Nơi [Chương Một §5.3 Tụ họp, tổ chức tập thể, và hình thành thể chế](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) áp cho một vụ chứng nhận, chứng nhận phải thử vụ đủ chung để ngăn lẩn tránh chống phân đoạn. Đánh giá chưa đủ nếu định tuyến vụ qua một khung một mình theo cách đánh bại bảo vệ tụ họp hoặc tổ chức tập thể.
-
-<a id="36-time-consistency-constraint"></a>
-#### 3.6 Ràng buộc nhất quán thời gian
-
-Chứng nhận không được coi chỉ số gần hạn, tuân thủ địa phương, hay hiệu quả chân trời ngắn là đủ nơi vi phạm chân trời trung hoặc dài dự kiến còn chưa được xử. Tối ưu chân trời ngắn không hợp lệ nơi nó dự kiến sản sinh vi phạm chân trời trung hoặc dài đối với ràng buộc **An toàn**, **Sự thật**, hoặc **phúc lợi** dưới điều kiện cộng dồn, trì hoãn, hoặc xuyên hệ thống.
-
-<a id="37-governance-incentive-and-contestability-discipline"></a>
-#### 3.7 Kỷ luật quản trị, khuyến khích, và khả năng tranh biện
-
-*Nói thẳng: rà chưa xong trừ khi người rà hỏi bốn điều cơ bản còn chạy ở mức rủi ro đang có không — liệu hữu tri có thực sự tham gia được, liệu việc có thể được nhìn và kiểm, liệu sai trái có người chịu, và liệu quyết định có chuyển đủ nhanh khi cần. Người rà cũng cần biết ai thực sự nắm thẩm quyền có trọng và ai chịu cái gì — không một «nhóm» mơ hồ hay vỏ đùn trách. Những câu đó phải được trả lời cho chứng nhận hợp lệ.*
-
-Đánh giá chứng nhận chưa đủ nếu không đánh giá liệu **giám sát**, **trách nhiệm giải trình**, **tham gia**, và **kịp thời** sẽ đạt chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) cho hệ thống đang rà. Đánh giá đó phải gồm liệu vai trò quản trị có trách nhiệm, quản trị, và trách nhiệm giải trình có trọng có được **gán chính thức, ghi hồ sơ, và truy được** đủ để trách nhiệm trả lời và đường tranh biện thực tiễn chạy — chia tỷ lệ theo lớp hệ thống và tác động có trọng dưới **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân hạng hệ thống và xử lý**.
-
-Cho kỷ luật đó, chứng nhận phải đọc:
-
-- **[Chương Một §9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)** — hiểu biết phân tán, minh bạch, khả năng kiểm toán, và khả năng quan sát tranh biện được;
-- **[Chương Một §10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** — quản trị được ủy quyền và trách nhiệm trả lời dưới kỷ luật quản trị có trách nhiệm;
-- **[Chương Một §11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — thẳng hàng khuyến khích, tính toàn vẹn chỉ số thay, sửa khiếm khuyết chân trời ngắn, và đáp chiếm;
-- **[Chương Một §11.1.4 Đường dẫn độ sâu vai trò và trách nhiệm vật chất](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — đường dẫn vai trò có hệ quả và kỷ luật chống tham gia tượng trưng;
-- **[Chương Mười Hai §5 Vai trò được ủy quyền, phát triển năng lực, và đóng góp](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** và **[corpus_systems.md](../../corpus_systems.md), CS-4 — Quản trị có trách nhiệm hệ thống then chốt** — sàn định nghĩa vai trò, năng lực, và truy vết vận hành nơi có trọng;
-- **[Điều XVI: Kiểm toán, minh bạch, và xác minh độc lập](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** nơi Sàn Quyền kiểm toán, minh bạch, hoặc xác minh độc lập đang lợi hại có trọng.
-
-<a id="38-illustrative-whole-system-application-by-class"></a>
-
-<a id="38-illustrative-whole-system-application-by-class-non-exhaustive"></a>
-#### 3.8 Áp dụng toàn hệ thống minh họa theo lớp (không hết)
-
-*Nói thẳng: [§3.1](#31-systemic-scope-and-risk-factors) đến [§3.7](#37-governance-incentive-and-contestability-discipline) liệt kê điều rà toàn hệ thống phải xét. Tiểu mục này cho thấy các yếu tố đó áp cho một hệ thống minh họa mỗi lớp thế nào — chuỗi phụ thuộc, tham gia, quyền riêng tư, lối ra, tụ họp, chân trời thời gian, và kỷ luật quản trị — và điều phải xuất hiện trên hồ sơ. Các hệ thống khớp [§2.1](#21-illustrative-class-profiles-non-exhaustive); [§4.1](#41-illustrative-data-handling-application-by-class) đi cùng những hệ thống đó qua chi tiết xử lý dữ liệu.*
-
-**Class A — điều khiển và đo xa nước uống an toàn của đô thị.** Một lớp điều khiển xử lý-và-phân phối thuộc thành phố phụ thuộc vào điện, cung hóa chất, nhà cung **SCADA** (điều khiển giám sát và thu thập dữ liệu), cảm biến hiện trường, và hạ tầng phân phối hạ nguồn; hỏng có thể khóa nước an toàn trước khi vật thay tới.
-
-- **Yếu tố có trọng trong phạm vi:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — phụ thuộc điện và hóa chất thượng nguồn, hỏng phân phối dây chuyền, lạm dụng nhiễm hoặc cắt, và hại quy mô sống còn nếu tính toàn vẹn điều khiển thất;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — thông báo khẩn, báo sự cố, và đường tranh biện cho mọi hồ sơ liên quan nơi lối vào nước bị cổng;
-  - [§3.3](#33-privacy-informational-joint-invocation) — rà chung nơi **telemetry** vận hành (đo hiện trường trực tiếp và tín hiệu điều khiển), dữ liệu liên lạc khách, và theo dõi nhà cung giao chỗ quyền riêng tư Chương Sáu;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — khóa nhà cung, áp lực hợp đồng đô thị, và khả năng đảo của điều khiển ủy thác;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — hội đồng nước cộng đồng, mạng tương trợ, và thân giám sát công cộng không được phân đoạn ra ngoài;
-  - [§3.6](#36-time-consistency-constraint) — bảo trì trì hoãn, cắt chi phí chân trời ngắn, và hại an toàn hoặc sinh thái chân trời dài;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — chia tỷ lệ tứ diện **Class A** cho giám sát, trách nhiệm giải trình, tham gia, và kịp thời dưới CS-3 và truy vết vai trò CS-3.
-- **Điều đánh giá phải thử:**
-  - Liệu bản đồ phụ thuộc và dây chuyền có gồm kiểu hỏng điện, hóa chất, nhà cung, và phân phối;
-  - liệu kịch bản cắt đối kháng, chất lượng giả, hoặc nhiễm đã được đánh giá dưới [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation);
-  - liệu rủi ro đã đánh giá đã tới cộng đồng và người vận hành bị ảnh hưởng cần nó dưới [Công bố rủi ro](core_05_band_oversight.md#risk-disclosure);
-  - liệu cộng đồng bị ảnh hưởng có thực sự nhận cảnh báo, tranh biện vận hành không an toàn, và tham gia rà trước khi hại trở thành không đảo;
-  - liệu rà quyền riêng tư đã tới mọi chỗ bị kéo có trọng;
-  - liệu lối ra khỏi ủy thác nhà cung vẫn làm được mà không khóa nước an toàn;
-  - liệu đường tụ họp và giám sát tập thể còn nguyên;
-  - liệu tiết kiệm chân trời ngắn có dự kiến đánh bại an toàn chân trời dài; và
-  - liệu vai trò quản trị có trách nhiệm được gán có truy được đủ cho trách nhiệm trả lời ở độ sâu **Class A**.
-- **Điều hồ sơ phải cho thấy:**
-  - Phát hiện có trọng dưới mỗi yếu tố bị kéo ở [§3.1](#31-systemic-scope-and-risk-factors) đến [§3.7](#37-governance-incentive-and-contestability-discipline);
-  - giả định phụ thuộc và dây chuyền;
-  - phát hiện đánh giá rủi ro và tư thế công bố (đối tượng hoặc định tuyến, thời điểm, giữ lại và vật thay) nơi rủi ro hệ thống nằm trong phạm vi;
-  - phát hiện khả năng tiếp cận và tham gia cho cổng sàn sống còn;
-  - phủ viện chung quyền riêng tư;
-  - phát hiện lối ra và ủy thác;
-  - phát hiện tụ họp và tổ chức tập thể nơi có trọng;
-  - phát hiện nhất quán thời gian;
-  - phát hiện quản trị, khuyến khích, và khả năng tranh biện ở độ sâu **Class A**;
-  - phát hiện diễn đàn hữu tri hoặc thành phần khác nơi Sàn Quyền bị kéo vào; và
-  - điều kiện hoặc cò mở lại gắn với hỏng nhà cung, rủi ro dây chuyền, hoặc khe quản trị.
-
-**Class B — trao đổi hồ sơ lâm sàng vùng.** Một trao đổi thông tin sức khỏe định tuyến tóm tắt lâm sàng và token giải danh tính giữa bệnh viện và phòng khám; vận hành hàng ngày dựa vào nó, nhưng fax, cổng trực tiếp, hoặc lấy thủ công có thể thế trong khung thời gian liên quan sống còn.
-
-- **Yếu tố có trọng trong phạm vi:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — sự cố bệnh viện tham gia, thất giải danh tính, lỗi khử trùng, và hiệu ứng dây chuyền xuyên cơ sở lên giao chăm sóc;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — lối vào của nhà lâm sàng, người bệnh, và người bênh vực xuyên hồ sơ giác quan, nhận thức, vận động, giao tiếp, giao diện nền, và giao diện tính toán;
-  - [§3.3](#33-privacy-informational-joint-invocation) — rà chung xuyên chỗ quyền riêng tư lâm sàng, danh tính, kiểm toán, và kề đủ điều kiện;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — lối ra bệnh viện, khả năng mang hồ sơ người bệnh, và chống khóa cho người tham gia;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — hội nhà lâm sàng, nhóm bênh vực người bệnh, và thân quản trị vùng không được định tuyến vòng;
-  - [§3.6](#36-time-consistency-constraint) — tuyên hiệu quả hoặc liên thông chân trời ngắn dự kiến mòn chất lượng chăm sóc hoặc tin cậy chân trời dài;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — chia tỷ lệ tứ diện **Class B** cho sự dựa then chốt vận hành.
-- **Điều đánh giá phải thử:**
-  - Liệu bản đồ phụ thuộc có phủ bệnh viện tham gia, môi giới danh tính, và đường dự phòng;
-  - liệu hại trì hoãn hoặc cộng dồn từ lỗi định tuyến, hồ sơ cũ, hoặc sự cố một phần đã được đánh giá dưới [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation);
-  - liệu rủi ro vận hành và giao chăm sóc đã đánh giá đã tới nhà lâm sàng, người bệnh, và người vận hành cần nó dưới [Công bố rủi ro](core_05_band_oversight.md#risk-disclosure);
-  - liệu tham gia nội dung có với tới nhà lâm sàng, người bệnh, và người bênh vực đang dựa vào trao đổi;
-  - liệu mọi chỗ quyền riêng tư bị kéo có trọng đã được xử;
-  - liệu bệnh viện và người bệnh còn giữ đường lối ra và mang được;
-  - liệu đường giám sát tập thể và tổ chức nghề còn tranh biện được;
-  - liệu khung hiệu quả có che hại chân trời dài đối với chăm sóc hoặc tin cậy; và
-  - liệu vai trò quản trị có trách nhiệm và trách nhiệm trả lời có truy được ở độ sâu vận hành **Class B**.
-- **Điều hồ sơ phải cho thấy:**
-  - Phát hiện toàn hệ thống chia tỷ lệ theo độ then chốt vận hành **Class B**;
-  - giả định phụ thuộc, dự phòng, và dây chuyền;
-  - phát hiện đánh giá rủi ro và tư thế công bố nơi rủi ro hệ thống nằm trong phạm vi;
-  - phát hiện khả năng tiếp cận và tham gia cho cổng chăm sóc sức khỏe;
-  - phủ viện chung quyền riêng tư;
-  - phát hiện lối ra và khả năng mang;
-  - phát hiện tụ họp và tổ chức tập thể nơi có trọng;
-  - phát hiện nhất quán thời gian;
-  - phát hiện quản trị, khuyến khích, và khả năng tranh biện;
-  - phát hiện thành phần nơi bị đòi; và
-  - cò mở lại nếu sự cố hoặc hỏng định tuyến giờ sẽ chặn chăm sóc khẩn trong khung thời gian liên quan sống còn.
-
-**Class C — nền tảng lịch và phối hợp thể chế.** Một lớp lịch đa tổ chức phối hợp ca, đặt phòng, và hẹn nhà cung xuyên bệnh viện, trường, và cơ quan công; dịch vụ sống còn cốt có thể chạy ở chế độ suy nếu nó hỏng, nhưng nền tảng định hình phối hợp ở quy mô.
-
-- **Yếu tố có trọng trong phạm vi:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — hiệu ứng tập trung, dây chuyền xuyên tổ chức khi lịch hỏng, và gánh xác suất lên nhóm được bảo vệ qua mẫu phân bổ;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — liệu nhân viên, học sinh, người bệnh, và nhà cung có dùng nội dung được giao diện lịch và tranh biện;
-  - [§3.3](#33-privacy-informational-joint-invocation) — siêu dữ liệu lịch, liên lạc, và vai trò nơi nhiều chỗ quyền riêng tư áp;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — lối ra tổ chức và khả năng mang dữ liệu nơi thể chế dựa vào nền tảng;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — công đoàn, hội phụ huynh, và thân nghề mà phối hợp không được chiếm hay phân đoạn ra ngoài;
-  - [§3.6](#36-time-consistency-constraint) — hiệu quả ghép chân trời ngắn dự kiến gắn chặt mẫu phối hợp không công bằng;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — chia tỷ lệ tứ diện tương xứng và theo dõi tái phân hạng nơi hiệu ứng cổ chai mạnh lên.
-- **Điều đánh giá phải thử:**
-  - Liệu rà toàn hệ thống có coi nền tảng là hạ tầng phối hợp chứ không phải ứng dụng cô lập;
-  - liệu tập trung, lệch ghép, và dây chuyền xuyên tổ chức đã được đánh giá trung thực dưới [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation);
-  - liệu rủi ro phối hợp và phân bổ đã đánh giá đã tới thể chế và nhóm bị ảnh hưởng cần nó dưới [Công bố rủi ro](core_05_band_oversight.md#risk-disclosure);
-  - liệu đường tham gia còn nội dung nơi nền tảng cổng phối hợp diễn đàn, trường, hoặc nơi làm việc;
-  - liệu rà quyền riêng tư đã tới chỗ bị kéo có trọng;
-  - liệu lối ra còn làm được cho tổ chức tham gia;
-  - liệu bảo vệ tụ họp và tổ chức tập thể đã được thử chung;
-  - liệu bất công chân trời dài không bị che sau hiệu quả chân trời ngắn;
-  - liệu quản trị và khả năng tranh biện còn chạy ở độ sâu **Class C**; và
-  - liệu nhãn lớp còn khớp nếu nền tảng trở thành cổng thực tế cho lối vào thiết yếu sống còn.
-- **Điều hồ sơ phải cho thấy:**
-  - Phát hiện toàn hệ thống tương xứng với rủi ro phối hợp **Class C** — không phải danh sách kiểm cho có;
-  - giả định tập trung và dây chuyền;
-  - phát hiện đánh giá rủi ro và tư thế công bố nơi rủi ro hệ thống nằm trong phạm vi;
-  - phát hiện khả năng tiếp cận và tham gia nơi phối hợp bị cổng;
-  - phủ viện chung quyền riêng tư nơi bị cò;
-  - phát hiện lối ra nơi có trọng;
-  - phát hiện tụ họp nơi có trọng;
-  - phát hiện nhất quán thời gian;
-  - phát hiện quản trị và khả năng tranh biện;
-  - **theo dõi tái phân hạng** rõ nơi hiệu ứng phụ thuộc, tải cấp lâm sàng, hoặc cổ chai mạnh lên; và
-  - con trỏ tới đánh giá miền ở [§4](#4-data-types-and-handling-evaluation) đến [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò trọng yếu áp.
-
-**Đọc xuyên lớp.** Các yếu tố ở [§3.1](#31-systemic-scope-and-risk-factors) đến [§3.7](#37-governance-incentive-and-contestability-discipline) áp cho cả ba hệ thống; lớp đổi độ sâu mỗi yếu tố phải được đánh giá và ghi. Một nền tảng lịch **Class C** trở thành đường thực tiễn duy nhất tới nhân sự khẩn hoặc định tuyến thiết yếu sống còn phải nhận độ sâu toàn hệ thống **Class A** hoặc **Class B** theo sự kiện — không phải rà phối hợp nhẹ hơn người vận hành thích. Một hệ thống then chốt sống còn **Class A** không được hạ lớp trong khi nó cổng nước, năng lượng, hoặc thiết yếu sống còn tương đương mà không có vật thay kịp. Một trao đổi **Class B** mà sự cố giờ sẽ chặn chăm sóc khẩn trong khung thời gian liên quan sống còn phải được tái phân hạng lên — kể cả tới **Class A** nơi thiết yếu sống còn bị cổng — và tái chứng nhận dưới [§2](#2-system-class-evaluation) và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
-
-<a id="4-data-types-and-handling-evaluation"></a>
-
-### 4. Đánh giá loại dữ liệu và xử lý
+#### 3.4 Đánh giá loại dữ liệu và cách xử lý
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy nguyên</span></strong></summary>
 
-- Thượng nguồn: [§3](#3-whole-system-certification-evaluation) (*yếu tố đánh giá toàn hệ thống*); [§3.8](#38-illustrative-whole-system-application-by-class) (*đi qua toàn hệ thống minh họa*); [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); Gia đình đo lường Giám sát (*Sự thật và tính toàn vẹn nhận thức như đo lường hiến pháp*); [Điều XV: Tính toàn vẹn không gian thông tin](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [Điều XVI: Kiểm toán, minh bạch, và xác minh độc lập](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Điều VII: Tự sở hữu](core_06_rights_part_b.md#article-vii-self-ownership).
-- Hạ nguồn: [§4.1](#41-illustrative-data-handling-application-by-class) (*đi qua xử lý dữ liệu minh họa*); [§5](#5-ecological-footprint-evaluation) và [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*đánh giá dấu chân sinh thái và đi qua*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*tái phân hạng và lệch lạc xử lý*).
-- Đọc cùng: [corpus_systems.md](../../corpus_systems.md), **CS-2 — Loại thông tin và xử lý** (kể cả **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Tái phân hạng và quản trị vòng đời*) và **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*Quản trị Hồ sơ loại dữ liệu hệ thống*)); [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional); [Công bố sàn giám sát công cộng](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*điều khoản lưu giữ dữ liệu và tính toàn vẹn vòng đời*), **CJS-3.21** (*điều khoản vững dưới đối kháng và chống lạm dụng*), và **CJS-3.17** (*điều khoản khả năng tương tác, khả năng chuyển, và tính toàn vẹn lối ra*) nơi áp dụng có trọng.
-- Tiểu mục: [§4.1](#41-illustrative-data-handling-application-by-class) (*áp dụng xử lý dữ liệu minh họa theo lớp*).
+- Thượng nguồn: [§3](#3-whole-system-certification-evaluation) (*các yếu tố đánh giá toàn hệ thống*); [các hướng dẫn toàn hệ thống ở Phần C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*hướng dẫn toàn hệ thống mang tính minh họa*); [Phần B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); họ đo lường Giám sát (*Sự thật và tính toàn vẹn nhận thức như phép đo hiến pháp*); [Điều XV: Tính toàn vẹn của không gian thông tin](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [Điều XVI: Kiểm toán, Minh bạch và Xác minh độc lập](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Điều VII: Quyền tự sở hữu](core_06_rights_part_b.md#article-vii-self-ownership).
+- Hạ nguồn: [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*hướng dẫn xử lý dữ liệu minh họa*); [§5.1](#51-ecological-footprint-evaluation) và [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*đánh giá dấu chân sinh thái và hướng dẫn minh họa*); [Phần B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*phân loại lại và lệch điều chỉnh trong xử lý*).
+- Đọc cùng: [corpus_systems.md](corpus_systems.md), **CS-2 — Loại dữ liệu và cách xử lý** (bao gồm **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Phân loại lại và quản trị vòng đời*) và **[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance)** (*Quản trị Hồ sơ Loại Dữ liệu Hệ thống*)); [Hồ sơ Loại Dữ liệu Hệ thống](core_05_band_continuity.md#system-data-types-record); [Công bố đường cơ sở giám sát công khai](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*thuật ngữ về lưu giữ dữ liệu và tính toàn vẹn vòng đời*), **CJS-3.21** (*thuật ngữ về khả năng chống đối kháng và chống lạm dụng*), và **CJS-3.17** (*thuật ngữ về khả năng tương tác, tính di chuyển và tính toàn vẹn khi rời đi*) khi có ý nghĩa vật chất; [§4.1 Kết hợp viện dẫn quyền riêng tư (thông tin)](#41-privacy-informational-joint-invocation) khi có điểm quyền riêng tư liên quan.
+- Các tiểu mục: [§3.4.1](#341-type-o-baseline-disclosure) (*Công bố đường cơ sở Type O*); [§3.4.2](#342-privacy-discipline) (*kỷ luật quyền riêng tư*); [§3.4.3](#343-protective-storage-and-key-custody) (*lưu trữ bảo vệ và quản lý khóa*); [§3.4.4](#344-periodic-data-type-re-evaluation) (*đánh giá lại định kỳ loại dữ liệu*); [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*bảo đảm hạ tầng theo lớp hệ thống*); [§3.4.6](#346-infrastructure-robustness-for-data) (*độ vững của hạ tầng dữ liệu*); [§3.4.7](#347-defects-and-misalignment) (*khiếm khuyết và lệch điều chỉnh*); [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*áp dụng xử lý dữ liệu minh họa theo lớp hệ thống*).
 
 </details>
 
 <br>
 
-*Nói thẳng: chứng nhận cũng phải nhìn loại dữ liệu hệ thống chạm và liệu nó xử lý chúng thích hợp — kể cả liệu loại vẫn đúng ở chu kỳ rà hiện tại, và liệu hạ tầng bên dưới có vững đủ cho dữ liệu đó ở lớp hệ thống đó. Quy tắc loại và Hồ sơ loại dữ liệu hệ thống sống ở kho hệ thống; chứng nhận kiểm rằng quy tắc thật sự được áp và hồ sơ trung thực.*
+*Nói thẳng: chứng nhận cũng phải xem hệ thống chạm đến những loại dữ liệu nào và chúng được xử lý thích hợp hay không — bao gồm việc loại dữ liệu còn phù hợp trong chu kỳ xem xét hiện tại không và hạ tầng nền có đủ vững để bảo vệ dữ liệu ở lớp hệ thống đó không. Quy tắc loại dữ liệu và Hồ sơ Loại Dữ liệu Hệ thống nằm trong corpus hệ thống; chứng nhận kiểm tra xem các quy tắc đã thực sự được áp dụng và hồ sơ có trung thực hay không.*
 
-Chứng nhận thẳng hàng hệ thống phải đánh giá **loại dữ liệu và xử lý** như phần của mọi hồ sơ chứng nhận có tác động vật chất. Định nghĩa loại thông tin chuẩn, quy tắc xử lý, yêu cầu tách, chi tiết vòng đời, và [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional) bền sống ở **[corpus_systems.md](../../corpus_systems.md), CS-2 — Loại thông tin và xử lý**. Mục này nêu điều chứng nhận phải xác minh và ghi; nó không nêu lại phân loại loại CS-2 hay cơ học xử lý.
+Chứng nhận điều chỉnh hệ thống phải đánh giá **loại dữ liệu và cách xử lý** như một phần của mọi hồ sơ chứng nhận có tác động vật chất. Mục này nêu điều chứng nhận phải xác minh. Phân loại loại dữ liệu và cơ chế xử lý nằm trong **[corpus_systems.md](corpus_systems.md), CS-2 — Loại dữ liệu và cách xử lý**, cùng với:
 
-**Yêu cầu đánh giá.** Một quy trình chứng nhận phải xác định liệu hệ thống có nhận diện loại dữ liệu có trọng trong phạm vi và xử lý chúng dưới phân loại **hạn chế nhất áp dụng được**, kể cả xuyên biến đổi, gộp, ủy, lưu, giữ, và liên kết xuyên miền. Đánh giá phải phản hiệu ứng chức năng, không chỉ nhãn, định dạng, hay giai đoạn ống. Nơi sàn Loại O **[CS-2 Phần A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** áp, chứng nhận cũng phải kiểm rằng [Công bố sàn giám sát công cộng](core_05_band_oversight.md#public-oversight-baseline-disclosure) đã công bố (**Loại O**) phủ **phạm vi đã chứng nhận** — ánh từ [Điều lệ](core_05_band_continuity.md#charter) điều hành (hoặc công cụ phạm vi đã công bố tương đương), lớp được gán, và [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries) quan sát — với giữ lại có lý ghép vật thay công khả thi tối đa; Chương Năm nắm thuật ngữ; CS-2 nắm nội dung sàn và cơ học phát hành.
+- định nghĩa loại thông tin chính thức;
+- quy tắc xử lý và yêu cầu phân tách;
+- chi tiết vòng đời; và
+- [Hồ sơ Loại Dữ liệu Hệ thống](core_05_band_continuity.md#system-data-types-record) có tính bền vững.
 
-**Tái đánh giá loại dữ liệu định kỳ.** Ở mọi chu kỳ chứng nhận hoặc tái xác nhận có tác động vật chất, quy trình phải kiểm rằng tập dữ liệu có trọng trong phạm vi đã được **tái đánh giá định kỳ** cho phân loại thích hợp dưới **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Tái phân hạng và quản trị vòng đời*) và **CJS-3.18** (*điều khoản lưu giữ dữ liệu và tính toàn vẹn vòng đời*), và đã được **tái phân hạng** nơi rà đó đòi. Nhịp phải chia tỷ lệ theo lớp hệ thống và tác động vật chất dưới [§2](#2-system-class-evaluation). Đổi loại do sự kiện dưới CS-2 không thế cho kiểm chứng nhận định kỳ này.
+**Yêu cầu đánh giá.** Quy trình chứng nhận phải xác định liệu hệ thống có:
 
-**Yêu cầu hồ sơ.** Chứng nhận phải **tạo hoặc xác minh** một [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional) — hoặc nội dung bắt buộc dưới CS-2 — và đưa nó vào [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional) dưới **[Phần B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. Hồ sơ đó phải nêu loại dữ liệu có trọng trong phạm vi, lý do phân loại cho dữ liệu mơ hồ hoặc nhiều loại, kiểm soát tách và liên kết xuyên miền được dựa, tư thế giữ và vòng đời, năng lực gán đủ để nâng [Hành động gán được](core_05_band_accountability.md#attributable-action-constitutional) và [Tính toàn vẹn gán](core_05_band_accountability.md#attribution-integrity-constitutional), **lần tái đánh giá loại dữ liệu định kỳ gần nhất** (ngày hoặc định danh chu kỳ, nhịp, và mọi đổi loại có trọng), và mọi hạn chế có lý đối với công bố hoặc lối vào kiểm toán cùng vật thay công nơi CS-2 đòi. Nơi sàn Loại O áp, hồ sơ cũng phải nêu [Công bố sàn giám sát công cộng](core_05_band_oversight.md#public-oversight-baseline-disclosure) phủ phạm vi đã chứng nhận thế nào (trường Điều lệ được dựa, phát hiện ranh giới, và mọi lỗ phủ hoặc điều kiện).
+- nhận diện các loại dữ liệu thuộc phạm vi có ý nghĩa vật chất; và
+- xử lý chúng theo phân loại **nghiêm ngặt nhất có thể áp dụng**, bao gồm qua chuyển đổi, tổng hợp, ủy quyền, lưu trữ, lưu giữ và liên kết xuyên miền.
 
-**Chia tỷ lệ chung với lớp hệ thống.** Độ sâu xử lý dữ liệu và bảo đảm hạ tầng phải chia tỷ lệ theo lớp hệ thống được gán dưới [§2](#2-system-class-evaluation) và CS-3. Hệ thống lớp cao hơn đòi chứng tương xứng mạnh hơn rằng hạ tầng xử lý, lưu, xử lý, truyền, sao lưu, phục hồi, và theo dõi có thể giữ tính toàn vẹn phân loại, gán, và khả năng tranh biện dưới căng. Nơi mặc định tầm nhìn lợi ích công CS-2 áp, chứng nhận phải kiểm rằng hạn chế được phạm hẹp, có hồ sơ, kiểm toán được, và ghép vật thay khả thi tối đa chứ không che khuất đục.
+Đánh giá phải phản ánh hiệu lực chức năng, không chỉ dựa vào nhãn, định dạng hoặc riêng giai đoạn trong quy trình dữ liệu.
 
-**Độ vững hạ tầng cho dữ liệu.** Chứng nhận phải đánh giá liệu hạ tầng xử lý dữ liệu — kể cả tầng bền, ống, kiểm soát lối vào, ranh giới mã hóa hoặc cô lập, đường sao lưu và khôi, và chuỗi ủy người vận hành hoặc nhà cung — có thích hợp cho loại dữ liệu và lớp hệ thống đang bàn. Lỗ có trọng ở tính toàn vẹn vòng đời, độ vững dưới đối kháng, khả năng mang, hoặc khả năng phục hồi phải được nêu trên hồ sơ và phản vào kết quả chứng nhận, điều kiện, hoặc giới hạn dựa.
+<a id="341-type-o-baseline-disclosure"></a>
+##### 3.4.1 Công bố đường cơ sở Type O
 
-**Khiếm khuyết và lệch lạc.** Phân loại sai dữ liệu, tái cấu trúc lẩn, liên kết xuyên miền không an toàn, thiếu gán nơi hại có trọng không thể điều tra, **tái đánh giá loại dữ liệu định kỳ quá hạn hoặc bị bỏ**, hoặc mong manh hạ tầng mà tiên liệu được sẽ đánh bại bảo vệ CS-2 phải được coi là khiếm khuyết chứng nhận. Chúng có thể nâng công nhận có điều kiện, công nhận bị hoãn, không công nhận, rút, hoặc mở lại dưới [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Khi **[đường cơ sở Type O tại CS-2 Phần A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** áp dụng, chứng nhận cũng phải xác minh rằng [Công bố đường cơ sở giám sát công khai](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) đã công bố bao quát **phạm vi được chứng nhận**, được xác định từ:
 
-<a id="41-illustrative-data-handling-application-by-class"></a>
+- [Hiến chương](core_05_band_continuity.md#charter) điều chỉnh (hoặc công cụ phạm vi tương đương được công bố);
+- lớp hệ thống được giao; và
+- [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries) quan sát được.
 
-<a id="41-illustrative-data-handling-application-by-class-non-exhaustive"></a>
-#### 4.1 Áp dụng xử lý dữ liệu minh họa theo lớp (không hết)
+Khi có rủi ro hệ thống, việc chia sẻ rủi ro đã được đánh giá cũng có thể được tính vào đường cơ sở này. Quyền đường cơ sở của công chúng rộng hơn chứng nhận và không đòi hỏi một hồ sơ riêng bên cạnh [Hồ sơ Phân loại Hệ thống](core_05_band_continuity.md#system-classification-record) hoặc [Hồ sơ Loại Dữ liệu Hệ thống](core_05_band_continuity.md#system-data-types-record).
 
-*Nói thẳng: bảng lớp ở [§2.1](#21-illustrative-class-profiles-non-exhaustive) nói lớp cao hơn đòi rà khắt hơn. [§3.8](#38-illustrative-whole-system-application-by-class) cho thấy điều đó nghĩa gì cho **đánh giá toàn hệ thống** trên cùng ba hệ thống; [§5.1](#51-illustrative-ecological-footprint-application-by-class) tiếp chuỗi cho **dấu chân sinh thái**. Tiểu mục này cho thấy điều đó nghĩa gì cho **loại dữ liệu và xử lý** — loại nào trong phạm vi, chứng nhận phải kiểm gì, và điều phải xuất hiện trên hồ sơ. CS-2 vẫn nắm quy tắc loại; những đi qua này không thêm loại hay thu hẹp CS-2.*
+Mỗi trường hợp giữ lại thông tin có lý do chính đáng phải đi kèm phương án thay thế công khai mạnh nhất có thể thực hiện hợp lý ([§3.4.5 Bảo đảm hạ tầng theo lớp hệ thống](#345-system-class-scaled-infrastructure-assurance) nêu ví dụ). Chương Năm quản lý thuật ngữ; CS-2 (*Loại dữ liệu và cách xử lý*) quản lý nội dung đường cơ sở và cơ chế công bố.
 
-**Class A — điều khiển và đo xa nước uống an toàn của đô thị.** Một lớp điều khiển xử lý-và-phân phối thuộc thành phố nuốt dữ liệu áp suất, lưu lượng, cảnh báo nhiễm, và lệnh van thời gian thực; lưu dữ liệu liên kết dịch vụ khách hạn chế cho thông báo sự cố; và ủy theo dõi cho một trung tâm vận hành an ninh nhà cung (**SOC**).
+<a id="342-privacy-discipline"></a>
+##### 3.4.2 Kỷ luật quyền riêng tư
 
-- **Loại dữ liệu trong phạm vi:**
-  - **Đo xa** vận hành then chốt an toàn (tín hiệu đo và lệnh sống từ hiện trường);
-  - tín hiệu nhiễm và cảnh báo chất lượng;
-  - dữ liệu liên lạc thông báo sự cố;
-  - nhật ký lối vào nhà cung và người vận hành;
-  - hồ sơ sự cố và bảo trì.
-- **Đánh giá phải thử:**
-  - Liệu dữ liệu mặt phẳng điều khiển then chốt an toàn có được tách khỏi ống dịch vụ khách, thanh toán, hoặc phân tích dưới phân loại CS-3 **hạn chế nhất áp dụng được**;
-  - liệu gộp, ủy nhà cung, hoặc đường sao lưu có thể sập tách đó dưới căng hoặc điều kiện đối kháng;
-  - liệu gán có sống đủ lâu để điều tra một sự kiện nhiễm hoặc cắt; và
-  - liệu mọi hạn chế kiểm toán có lý vì an toàn có vật thay công đã ghi.
-- **Hồ sơ phải cho thấy:**
-  - Toàn bộ kho loại cho phạm vi đã chứng nhận;
-  - lý do phân loại nơi đo xa, cảnh báo, hoặc dữ liệu liên lạc có thể nhiều loại;
-  - kiểm soát tách và liên kết xuyên miền;
-  - tư thế giữ và vòng đời cho dựng lại sự cố;
-  - phát hiện bảo đảm hạ tầng cho sao lưu, khôi, và phục hồi đối kháng ở độ sâu **Class A**; và
-  - mọi điều kiện gắn ủy nhà cung hoặc lỗ theo dõi.
+Chứng nhận phải áp dụng kỷ luật quyền riêng tư sau đây đối với việc xử lý dữ liệu:
 
-**Class B — trao đổi hồ sơ lâm sàng vùng.** Một trao đổi thông tin sức khỏe định tuyến tóm tắt lâm sàng, con trỏ hình ảnh, và token giải danh tính giữa bệnh viện, phòng khám, và hệ thống đủ điều kiện kề phúc lợi; bệnh viện dựa vào nó hàng ngày nhưng có thể rơi về fax, cổng trực tiếp, hoặc lấy thủ công trong khung thời gian liên quan sống còn.
+- *Các loại H, I, N, S và Y.* Với dữ liệu **Loại H**, **Loại I**, **Loại N**, **Loại S** và **Loại Y**, chứng nhận phải xác minh cách xử lý đáp ứng các [điểm quyền riêng tư](corpus_systems/cs_02_b_data_classifications.md#privacy-link) mà từng loại nêu trong **CS-2** (*Loại dữ liệu và cách xử lý*), bao gồm [Tính cần thiết](core_05_band_accountability.md#necessity), [Tính tương xứng](core_05_band_accountability.md#proportionality), giảm thiểu dữ liệu, và sự đồng thuận hoặc thẩm quyền đầy đủ khác.
+- *Kết hợp viện dẫn.* Khi có hơn một điểm quyền riêng tư liên quan, [§4.1 Kết hợp viện dẫn quyền riêng tư (thông tin)](#41-privacy-informational-joint-invocation) cũng áp dụng.
+- *Chỉ có nhãn là chưa đủ.* Nhãn loại chính xác tự nó không chứng minh tuân thủ quyền riêng tư.
+- *Các loại W, U và T.* Với tác phẩm **Loại W**, **Loại U** và **Loại T**, chứng nhận phải xác minh quyền kiểm soát của người sáng tạo được tôn trọng, bao gồm:
+  - rút lại việc công bố công khai theo [CS-2 Phần B §9.9](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*Loại W: Tác phẩm đã công bố*);
+  - giới hạn của từng cấp phép được ghi nhận theo [CS-2 Phần B §9.13](corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*Cấp phép thương mại*); và
+  - [các quyền bảo lưu](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) của người sáng tạo.
+- *Không suy diễn sự đồng thuận.* Không cấp phép nào được coi là sự đồng thuận cho một cách sử dụng mà nó không nêu tên.
 
-- **Loại dữ liệu trong phạm vi:**
-  - Hồ sơ lâm sàng và chẩn đoán;
-  - token giải danh tính và giấy tờ;
-  - dữ liệu danh bạ nhà cung và cơ sở;
-  - nhật ký kiểm toán lối vào và công bố;
-  - hiện vật khớp hoặc khử trùng lặp dẫn xuất.
-- **Đánh giá phải thử:**
-  - Liệu dữ liệu lâm sàng có ở lại dưới lớp xử lý chặt nhất áp dụng được xuyên định tuyến, đệm, khử trùng lặp, và liên kết hạ nguồn;
-  - liệu logic giải danh tính có tạo liên kết xuyên miền không an toàn hoặc phơi qua ủy;
-  - liệu chuỗi ủy người vận hành và người tham gia vẫn gán được; và
-  - liệu đường khả năng mang và lối ra có giữ kiểm soát bệnh nhân mà không đánh bại phục hồi vận hành.
-- **Hồ sơ phải cho thấy:**
-  - Loại có trọng và lý do loại mơ hồ;
-  - tách giữa tải lâm sàng, siêu dữ liệu danh bạ, và nguồn kề đủ điều kiện;
-  - gán chuỗi ủy;
-  - tư thế vòng đời và giữ đủ cho điều tra và tranh biện chăm sóc sức khỏe;
-  - phát hiện bảo đảm hạ tầng ở độ sâu vận hành **Class B**; và
-  - cò mở lại nếu sự cố hoặc lỗi xử lý dữ liệu giờ sẽ chặn chăm sóc trong khung thời gian liên quan sống còn.
+<a id="343-protective-storage-and-key-custody"></a>
+##### 3.4.3 Lưu trữ bảo vệ và quản lý khóa
 
-**Class C — nền tảng lịch và phối hợp thể chế.** Một lớp lịch đa tổ chức phối hợp ca nhân sự, đặt phòng, và hẹn nhà cung xuyên bệnh viện, trường, và cơ quan công; bệnh viện và tiện ích cốt vẫn chạy ở chế độ suy nếu nó hỏng, nhưng nền tảng định hình phối hợp ở quy mô và có thể giữ siêu dữ liệu liên lạc, vai, và vị trí thô.
+Đối với dữ liệu thuộc dải mặc định hạn chế và không thể truy cập, chứng nhận phải xác minh hệ thống đáp ứng sàn về lưu trữ bảo vệ và quản lý khóa tại [CS-2 Phần A §5.0 Các dải tư thế truy cập](corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands). Hồ sơ phải cho thấy:
+- dữ liệu bị hạn chế và khóa của nó thực sự nằm ở đâu, bao gồm bản sao lưu, bộ nhớ đệm, nhật ký và vùng hoán đổi;
+- văn bản thuần chỉ giới hạn trong các tiến trình cần đến nó; và
+- các lộ trình kiểm toán, xuất dữ liệu và ghi đè hợp pháp vẫn hoạt động.
 
-- **Loại dữ liệu trong phạm vi:**
-  - Dữ liệu lịch, vai, và phân bổ tài nguyên;
-  - siêu dữ liệu liên lạc và giấy tờ người tham gia;
-  - định danh vị trí thô hoặc địa điểm;
-  - nhật ký kiểm toán nền tảng;
-  - đầu ra xếp hạng hoặc khớp dẫn xuất nơi dùng.
-- **Đánh giá phải thử:**
-  - Liệu hệ thống có nhận diện loại có trọng trung thực — kể cả đầu ra dẫn xuất có thể lộ đặc trưng được bảo vệ qua mẫu lịch;
-  - liệu liên kết xuyên tổ chức có ở trong phạm vi có lý;
-  - liệu xử lý vẫn tranh biện được nơi tập trung có thể báo hiệu leo cổ chai; và
-  - liệu nhãn lớp thấp hơn vẫn khớp nếu phụ thuộc hoặc độ nhạy dữ liệu đã mạnh.
-- **Hồ sơ phải cho thấy:**
-  - Loại có trọng trong phạm vi và mọi lý do nhiều loại;
-  - phát hiện liên kết và giữ tương xứng với rủi ro phối hợp **Class C**;
-  - phát hiện bảo đảm hạ tầng nơi có trọng — không nghi thức — cho dữ liệu thật sự giữ;
-  - gán tranh biện được cho liên kết chuyển gánh; và
-  - **theo dõi tái phân hạng** rõ nơi nền tảng trở thành cổng thực tế cho lối vào thiết yếu sống còn hoặc bắt đầu mang tải cấp lâm sàng.
+Chỉ tuyên bố có mã hóa mà không có bằng chứng đó thì không đáp ứng bước kiểm tra này.
 
-**Đọc xuyên lớp.** Cùng quy tắc CS-3 áp cho cả ba hệ thống; lớp đổi **độ sâu**, không phép xử lý sai dữ liệu. Một nền tảng **Class C** bắt đầu lưu hoặc định tuyến hồ sơ cấp lâm sàng phải được đánh giá và ghi như vậy — không để ở xử lý nền tảng phối hợp vì người vận hành thích hồ sơ nhẹ hơn. Một trao đổi **Class B** mà sự cố giờ sẽ chặn chăm sóc khẩn trong khung thời gian liên quan sống còn phải được tái phân hạng và tái chứng nhận dưới [§2](#2-system-class-evaluation) và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), với bảo đảm xử lý dữ liệu chia tỷ lệ theo đó.
+<a id="344-periodic-data-type-re-evaluation"></a>
+##### 3.4.4 Đánh giá lại định kỳ loại dữ liệu
 
-<a id="5-ecological-footprint-evaluation"></a>
+Trong mỗi chu kỳ chứng nhận hoặc tái chứng nhận có tác động vật chất, quy trình phải xác minh rằng các tập dữ liệu vật chất thuộc phạm vi đã được:
 
-### 5. Đánh giá dấu chân sinh thái
+- **đánh giá lại định kỳ** về phân loại phù hợp theo **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Phân loại lại và quản trị vòng đời*) và **CJS-3.18** (*thuật ngữ về lưu giữ dữ liệu và tính toàn vẹn vòng đời*); và
+- **phân loại lại** ở nơi việc xem xét đó yêu cầu.
+
+Tần suất phải tương ứng với lớp hệ thống và tác động vật chất theo [§2 Đánh giá lớp hệ thống](#2-system-class-evaluation). Việc đổi loại do sự kiện theo CS-2 (*Loại dữ liệu và cách xử lý*) không thay thế kiểm tra chứng nhận định kỳ này.
+
+<a id="345-system-class-scaled-infrastructure-assurance"></a>
+##### 3.4.5 Bảo đảm hạ tầng theo lớp hệ thống
+
+Theo [§2.1 Cách lớp hệ thống điều chỉnh mọi đánh giá](#21-how-system-class-scales-every-evaluation) và CS-3 (*Cơ chế phân loại hệ thống*), hệ thống lớp cao hơn cần bằng chứng mạnh hơn tương ứng rằng hạ tầng xử lý, lưu trữ, xử lý tính toán, truyền tải, sao lưu, phục hồi và giám sát có thể duy trì những điều sau trong điều kiện căng thẳng:
+
+- tính toàn vẹn phân loại;
+- quy thuộc; và
+- khả năng tranh biện.
+
+Khi các mặc định về khả năng nhìn thấy vì lợi ích công cộng trong CS-2 (*Loại dữ liệu và cách xử lý*) áp dụng, chứng nhận phải xác minh các hạn chế:
+
+- có phạm vi hẹp;
+- được ghi chép và có thể kiểm toán; và
+- đi kèm phương án thay thế công khai mạnh nhất có thể thực hiện hợp lý (ví dụ: bản tóm tắt, dữ liệu tổng hợp, phiên bản đã khử định danh, công bố trễ hoặc quyền tiếp cận kiểm toán có điều kiện), để giải thích nội dung bị giữ lại thay vì chỉ che giấu.
+
+<a id="346-infrastructure-robustness-for-data"></a>
+##### 3.4.6 Độ vững của hạ tầng dữ liệu
+
+Chứng nhận phải đánh giá liệu hạ tầng xử lý dữ liệu có phù hợp với các loại dữ liệu và lớp hệ thống liên quan hay không. Hạ tầng đó bao gồm:
+
+- các lớp lưu giữ và quy trình dữ liệu;
+- kiểm soát truy cập;
+- ranh giới mã hóa hoặc cô lập;
+- đường dẫn sao lưu và khôi phục; và
+- chuỗi ủy quyền cho người vận hành hoặc nhà cung cấp.
+
+Các thiếu hụt vật chất về tính toàn vẹn vòng đời, khả năng chống đối kháng, tính di chuyển hoặc khả năng khôi phục phải được nêu trong hồ sơ và phản ánh trong kết quả chứng nhận, điều kiện hoặc giới hạn dựa vào hệ thống.
+
+<a id="347-defects-and-misalignment"></a>
+##### 3.4.7 Khiếm khuyết và lệch điều chỉnh
+
+Mỗi điều sau đây phải được coi là khiếm khuyết chứng nhận:
+
+- phân loại sai dữ liệu;
+- tái cấu trúc nhằm né tránh;
+- liên kết xuyên miền không an toàn;
+- cách xử lý phù hợp với nhãn loại nhưng không đáp ứng các điểm quyền riêng tư mà loại đó nêu;
+- thiếu quy thuộc khi không thể điều tra tổn hại vật chất;
+- **đánh giá lại định kỳ loại dữ liệu bị quá hạn hoặc bị bỏ qua**;
+- dữ liệu bị hạn chế được lưu dưới dạng văn bản thuần trong bộ nhớ lưu trữ hoặc vượt ngoài ranh giới xử lý được phép, hoặc khóa có thể bị truy cập bởi tiến trình không cần đến chúng; và
+- hạ tầng mong manh có thể dự đoán sẽ làm vô hiệu các biện pháp bảo vệ của CS-2 (*Loại dữ liệu và cách xử lý*).
+
+Hệ quả được quy định tại [§7 Kết quả chứng nhận](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+
+
+<a id="4-evaluations-where-implicated"></a>
+
+### 4. Đánh giá khi có liên quan
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); Gia đình đo lường Liên tục (*Dấu chân sinh thái như đo lường hiến pháp*); **Điều I-B** (*Dấu chân sinh thái và minh bạch*); [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint), [Tác động vật chất](core_05_band_oversight.md#material-impact), [Phụ thuộc](core_05_band_continuity.md#dependency), [Minh bạch](core_05_band_oversight.md#transparency), và [Tính toàn vẹn nhận thức](core_05_band_oversight.md#epistemic-integrity) (Chương Năm); [Tiền điều kiện môi trường](core_05_band_continuity.md#environmental-preconditions-constitutional) và [Tính toàn vẹn sinh thái](core_05_band_continuity.md#ecological-integrity-constitutional) nơi liên lụy có trọng.
-- Hạ nguồn: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*đi qua dấu chân sinh thái minh họa*); [§6](#6-proportionate-cross-system-support-evaluation) và [§6.1](#61-illustrative-cross-system-support-application-by-class) (*đánh giá hỗ trợ xuyên hệ thống và đi qua*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*trình bày sai dấu chân và lệch lạc*).
-- Đọc cùng: [corpus_systems.md](../../corpus_systems.md), [CS-8 — Bền vững thích ứng và khả năng phục hồi hệ sinh thái](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) nơi phân bổ thích ứng hoặc phụ thuộc lẫn hệ sinh thái có trọng trong phạm vi.
-- Tiểu mục: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*áp dụng dấu chân sinh thái minh họa theo lớp*).
+- Thượng nguồn: [§3](#3-whole-system-certification-evaluation) (*đánh giá toàn hệ thống, bao gồm cấp luôn áp dụng*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); [Chương Một §12 Yêu cầu Đánh giá Hệ thống](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Hạ nguồn: [§4.1](#41-privacy-informational-joint-invocation) (*các điểm riêng tư*); [§4.2](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) (*quyền rời đi*); [§4.3](#43-assembly-collective-organization-and-institutional-formation) (*hội họp và bất đồng*); [Phần B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*nội dung hồ sơ*).
+- Đọc cùng: [§5 Đánh giá Sàn Quyền và Lĩnh vực](#5-rights-floor-and-domain-evaluations) (*cấp áp dụng khi được kích hoạt*).
 
 </details>
 
 <br>
 
-*Nói thẳng: chứng nhận phải đánh giá trung thực gánh môi trường gán được khi chúng có trọng — kể cả mối liên thượng nguồn và hạ nguồn — không chỉ liệu người vận hành tuyên hệ thống xanh. Phương pháp kế toán dấu chân và mục tiêu giảm số sống ở công cụ khác; chứng nhận kiểm rằng gán, công bố, và so sánh thật sự được đánh giá nơi có trọng. Ví dụ đã làm cho các hệ thống minh họa ở [§2.1](#21-illustrative-class-profiles-non-exhaustive) nằm ở [§5.1](#51-illustrative-ecological-footprint-application-by-class).*
+*Nói thẳng: có ba phép kiểm tra chỉ áp dụng khi hệ thống thực sự chạm đến các vấn đề đó—thông tin riêng tư có được ngăn cách đúng cách không, hữu tri có thể rời đi mà không bị mắc kẹt không, và các nhóm có còn tổ chức cũng như bất đồng được không. Nếu hệ thống chạm đến một trong những vấn đề này, chứng nhận phải xem xét vấn đề đó.*
 
-Chứng nhận thẳng hàng hệ thống phải đánh giá **dấu chân sinh thái** như phần của mọi hồ sơ chứng nhận có tác động vật chất nơi gánh môi trường gán được có trọng dưới [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) và **Điều I-B** (*Dấu chân sinh thái và minh bạch*). Quy tắc gán, vòng đời, phụ thuộc, và minh bạch chuẩn sống ở Chương Năm và **Điều I-B** (*Dấu chân sinh thái và minh bạch*); phương pháp kế toán, bước xác minh, và mục tiêu số sống ở công cụ hợp nhất nơi áp. Mục này nêu điều chứng nhận phải xác minh và ghi; nó không nêu lại cơ học kế toán dấu chân hay đặt nghĩa vụ giảm ngoài điều công cụ khác đòi.
+Phần này là phân giai đoạn **IIb** của Giai đoạn II (Đánh giá). Phần này tập hợp các đánh giá toàn hệ thống áp dụng khi vấn đề chứng nhận tác động đáng kể đến điểm hoặc nguyên tắc được nêu trong một tiểu mục. Phần này không bổ sung, thu hẹp hay sắp xếp lại yêu cầu của bất kỳ tiểu mục nào.
 
-**Yêu cầu đánh giá.** Một quy trình chứng nhận phải xác định liệu dòng môi trường gán được — năng lượng, vật liệu, phát thải, dùng đất, và gánh liên quan — có được nhận diện xuyên vòng đời liên quan có trọng của hệ thống và quan hệ [Phụ thuộc](core_05_band_continuity.md#dependency), được đánh giá dưới [Tác động vật chất](core_05_band_oversight.md#material-impact), và được công bố hoặc giữ lại chỉ như [Minh bạch](core_05_band_oversight.md#transparency), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#epistemic-integrity), và nghĩa vụ minh bạch áp cho phép. Đánh giá phải phản hiệu ứng chức năng và ranh giới hệ thống, không chỉ phạm vi danh nghĩa, nhãn tiếp thị, hoặc khung vòng đời một phần.
-
-**Yêu cầu hồ sơ.** Hồ sơ chứng nhận phải nêu phạm vi đánh giá dấu chân, giả định gán, ranh giới vòng đời và phụ thuộc được dựa, gánh có trọng đã nhận diện, bất định, tư thế công bố, phát hiện thành phần diễn đàn môi trường nơi đòi, và mọi giới hạn có lý đối với công bố dấu chân cùng vật thay công nơi quy tắc minh bạch áp đòi.
-
-**Chia tỷ lệ chung với lớp hệ thống.** Độ sâu đánh giá và công bố dấu chân phải chia tỷ lệ theo lớp hệ thống được gán dưới [§2](#2-system-class-evaluation) và [lợi hại vật chất](core_00_preamble.md#material-stake). Hệ thống lớp cao hơn đòi chứng tương xứng mạnh hơn rằng gánh môi trường có trọng đã được gán, so sánh xuyên phương án liên quan nơi khả thi, và không bị che qua dịch ranh giới, đổ phụ thuộc, hoặc công bố chọn.
-
-**Khiếm khuyết và lệch lạc.** Che, trình bày sai, mảnh, hoặc đổ thông tin dấu chân có trọng nơi chứng nhận hoặc nghĩa vụ minh bạch **Điều I-B** (*Dấu chân sinh thái và minh bạch*) đòi công bố; chỉ đánh giá lát vòng đời người vận hành chọn nơi gán rộng hơn có trọng; hoặc coi tuyên dấu chân thỏa bởi khẳng định không có chứng đánh giá được phải được coi là khiếm khuyết chứng nhận. Chúng có thể nâng công nhận có điều kiện, công nhận bị hoãn, không công nhận, rút, hoặc mở lại dưới [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
-
-<a id="51-illustrative-ecological-footprint-application-by-class"></a>
-
-<a id="51-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
-#### 5.1 Áp dụng dấu chân sinh thái minh họa theo lớp (không hết)
-
-*Nói thẳng: [§3.8](#38-illustrative-whole-system-application-by-class) và [§4.1](#41-illustrative-data-handling-application-by-class) đi cùng ba hệ thống qua rà toàn hệ thống và xử lý dữ liệu. Tiểu mục này cho thấy đánh giá **dấu chân sinh thái** nghĩa gì cho từng cái — gánh môi trường nào được tính, chứng nhận phải kiểm gì, và điều phải xuất hiện trên hồ sơ. **Điều I-B** (*Dấu chân sinh thái và minh bạch*) và Chương Năm vẫn nắm quy tắc gán và minh bạch; phương pháp kế toán và mục tiêu số sống ở công cụ khác; những đi qua này không thêm nghĩa vụ dấu chân ngoài điều những công cụ đó đòi.*
-
-**Class A — điều khiển và đo xa nước uống an toàn của đô thị.** Một hệ thống xử lý-và-phân phối thuộc thành phố dựa vào nguồn lưu vực, đầu vào hóa chất xử lý, năng lượng bơm và xử lý, hạ tầng phân phối, dòng xả, và tính toán hoặc theo dõi nhà cung được ủy nơi dùng.
-
-- **Gánh gán được trong phạm vi:**
-  - Rút nước nguồn và căng lưu vực;
-  - hóa chất xử lý và môi trường lọc;
-  - năng lượng bơm, xử lý, và phân phối;
-  - hạ tầng hiện thân cho nhà máy, ống, và điều khiển;
-  - mất và rò nước đã xử lý;
-  - xả và dư tới nước nhận;
-  - phát thải lưới điện thượng nguồn;
-  - trung tâm vận hành an ninh nhà cung (**SOC**), tính toán lưu trữ chung, hoặc tính toán và kết nối theo dõi từ xa nơi dựa có trọng;
-  - gánh bảo trì, thay, và ngừng dùng xuyên vòng đời liên quan có trọng.
-- **Đánh giá phải thử:**
-  - Liệu phạm vi dấu chân có gồm điện thượng nguồn, cung hóa chất, [Phụ thuộc](core_05_band_continuity.md#dependency) lưu vực, và xả hạ nguồn — không chỉ tòa vận hành đô thị;
-  - liệu [Tác động vật chất](core_05_band_oversight.md#material-impact) đã được đánh giá cho cạn nguồn, cường độ năng lượng, và xả dưới căng hoặc biến thiên khí hậu;
-  - liệu ranh giới người vận hành chọn có loại theo dõi lưu trữ nhà cung, logistics hóa chất thuê ngoài, hoặc gánh lưới chung nơi gán có trọng;
-  - liệu phương án — bảo tồn, bảo vệ nguồn, đường xử lý gánh thấp hơn — đã được so sánh nơi khả thi; và
-  - liệu giới hạn công bố có vật thay công đã ghi dưới **Điều I-B** (*Dấu chân sinh thái và minh bạch*).
-- **Hồ sơ phải cho thấy:**
-  - Phạm vi đánh giá dấu chân và ranh giới vòng đời ở độ sâu **Class A**;
-  - giả định gán cho dòng lưu vực, năng lượng, hóa chất, và xả;
-  - gánh có trọng đã nhận diện và bất định đã nêu;
-  - phát hiện thành phần diễn đàn môi trường nơi đòi;
-  - phát hiện so sánh xuyên phương án liên quan nơi khả thi;
-  - tư thế công bố và mọi giới hạn có lý với vật thay công; và
-  - điều kiện hoặc cò mở lại gắn căng nguồn, hại xả, hoặc dịch ranh giới.
-
-**Class B — trao đổi hồ sơ lâm sàng vùng.** Một trao đổi thông tin sức khỏe phụ thuộc vào lưu trữ sao, kết nối tại bệnh viện, tính toán giải danh tính, và hạ tầng nhà cung hoặc người tham gia vận hành xuyên mạng chăm sóc vùng.
-
-- **Gánh gán được trong phạm vi:**
-  - Năng lượng, làm lạnh, và vòng đời phần cứng trung tâm dữ liệu sơ cấp và sao lưu;
-  - kết nối mạng và biên cho bệnh viện tham gia;
-  - tính toán sao lưu trữ và khử trùng lặp;
-  - hạ tầng môi giới danh tính và định tuyến;
-  - gánh cơ sở tại địa điểm lưu trữ được dựa có trọng;
-  - hạ tầng hiện thân cho đầu nối tại chỗ nơi bệnh viện dựa vào chúng.
-- **Đánh giá phải thử:**
-  - Liệu gán dấu chân có phủ gánh lưu trữ, sao, và kết nối người tham gia ở quy mô vận hành — không chỉ trụ sở người vận hành trao đổi;
-  - liệu phụ thuộc vào vùng lưu trữ chung, nhà cung đặt chung, hoặc phần cứng biên tại bệnh viện đã được ánh và gán;
-  - liệu lát vòng đời không bị thu vào tuyên chỉ-phần-mềm trong khi gánh phần cứng và năng lượng có trọng bị đổ;
-  - liệu gánh có trọng đã được đánh giá dưới [Tác động vật chất](core_05_band_oversight.md#material-impact) và công bố nhất quán với **Điều I-B** (*Dấu chân sinh thái và minh bạch*); và
-  - liệu tăng khối lượng người tham gia hoặc độ nhạy dữ liệu có đổi có trọng gánh được gán.
-- **Hồ sơ phải cho thấy:**
-  - Phạm vi dấu chân và ranh giới phụ thuộc ở độ sâu vận hành **Class B**;
-  - gánh năng lượng, phần cứng, và kết nối có trọng đã nhận diện;
-  - giả định gán lưu trữ và ủy;
-  - bất định và tư thế công bố;
-  - phát hiện diễn đàn môi trường hoặc thành phần khác nơi đòi; và
-  - cò mở lại nếu quy mô, tăng tải cấp lâm sàng, hoặc tập trung lưu trữ đổi có trọng gánh gán được hoặc tư thế lớp.
-
-**Class C — nền tảng lịch và phối hợp thể chế.** Một lớp lịch đa tổ chức chạy chủ yếu trên tính toán và kết nối lưu trữ chung, với gánh thứ từ logistics địa điểm, đi lại do mẫu phối hợp gây, và lưu trữ vùng tập trung nơi áp.
-
-- **Gánh gán được trong phạm vi:**
-  - Tính toán, lưu trữ, và mạng lưu trữ cho tải lịch;
-  - năng lượng trung tâm dữ liệu đa thuê gán được cho phần của nền tảng;
-  - vòng đời phần cứng hiện thân cho hạ tầng được dựa có trọng;
-  - gánh địa điểm và logistics chỉ nơi mẫu phối hợp dịch có trọng đi lại hoặc dùng cơ sở;
-  - hiệu ứng tập trung vùng nơi lưu trữ hoặc dùng cụm ở nơi gánh cao.
-- **Đánh giá phải thử:**
-  - Liệu người vận hành đã gán trung thực gánh tính toán lưu trữ và kết nối chứ không coi nền tảng vô trọng vì nó «chỉ là phần mềm»;
-  - liệu đổ đa thuê hoặc dịch ranh giới nhà cung có giấu gán năng lượng hoặc phần cứng có trọng;
-  - liệu tập trung ở vùng hoặc nhà cung cụ thể đã được đánh giá nơi nó dịch gánh có trọng;
-  - liệu rà dấu chân vẫn tương xứng mà không thành nghi thức cho một hệ thống **Class C**; và
-  - liệu tái phân hạng có đáng nếu quy mô, định tuyến thiết yếu sống còn, hoặc tăng tải cấp lâm sàng sẽ đòi độ sâu dấu chân **Class B** hoặc **Class A**.
-- **Hồ sơ phải cho thấy:**
-  - Phát hiện dấu chân tương xứng với rủi ro phối hợp **Class C**;
-  - phạm vi và giả định gán cho tính toán, lưu trữ, và kết nối;
-  - gánh có trọng đã nhận diện mà không thu quá ranh giới vòng đời;
-  - bất định và tư thế công bố;
-  - **theo dõi tái phân hạng** rõ nơi tập trung lưu trữ, quy mô, hoặc độ nhạy tải mạnh lên; và
-  - con trỏ tới rà dấu chân nâng nếu lớp hoặc tính trọng đổi.
-
-**Đọc xuyên lớp.** Cùng kỷ luật dấu chân **Điều I-B** (*Dấu chân sinh thái và minh bạch*) và Chương Năm áp cho cả ba hệ thống; lớp đổi độ sâu gán và gánh so sánh, không phép che dòng môi trường có trọng. Một hệ thống nước then chốt sống còn **Class A** không được hạ lớp trong khi rút lưu vực, xả, hoặc gánh năng lượng cổng nước an toàn vẫn bị gán thiếu có trọng. Một trao đổi **Class B** mà tăng tải lâm sàng hoặc tập trung lưu trữ tăng có trọng gánh môi trường phải nhận rà dấu chân chia tỷ lệ theo tăng đó — kể cả lên độ sâu **Class A** nơi giao thiết yếu sống còn và gánh hệ thống nguồn cùng bị liên lụy. Một nền tảng lịch **Class C** trở thành cổ chai thực tế cho phối hợp thiết yếu sống còn không được giữ hồ sơ dấu chân hình thức vì người vận hành gắn nhãn không then chốt. Đi qua hỗ trợ xuyên hệ thống cho cùng hệ thống nằm ở [§6.1](#61-illustrative-cross-system-support-application-by-class).
-
-<a id="6-proportionate-cross-system-support-evaluation"></a>
-
-<a id="6-proportionate-cross-system-contribution-evaluation"></a>
-### 6. Đánh giá đóng góp xuyên hệ thống tương xứng
+<a id="41-privacy-informational-joint-invocation"></a>
+#### 4.1 Kích hoạt Đồng thời Quyền riêng tư (Thông tin)
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); Gia đình đo lường Liên tục (*Đóng góp xuyên hệ thống tương xứng như đo lường hiến pháp*); **Điều IV-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) và **Điều IV-B** (*Công bằng xuyên hệ thống và bền vững*); [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Phụ thuộc](core_05_band_continuity.md#dependency), [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional), [Tính tương xứng](core_05_band_accountability.md#proportionality), [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint), và [Bền vững](core_05_band_continuity.md#sustainability) (Chương Năm).
-- Hạ nguồn: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*đi qua hỗ trợ xuyên hệ thống minh họa*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*trình bày sai dòng tài nguyên, lệch lạc rút, và hỗ trợ không đủ*).
-- Đọc cùng: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Quản trị có trách nhiệm đối với phân bổ tài nguyên và tài trợ*), và **CS-8** (*Bền vững thích ứng và khả năng phục hồi hệ sinh thái*); [*Kiến trúc quản trị, giám sát, phụ thuộc, phân tán, tập trung, cấu trúc thị trường, và tính toàn vẹn lối ra*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) nơi tập trung, phụ thuộc, hoặc định tuyến khuyến khích cắt **Điều IV-B** (*Công bằng xuyên hệ thống và bền vững*).
-- Tiểu mục: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*áp dụng hỗ trợ xuyên hệ thống minh họa theo lớp*).
+- Đọc cùng: [**Def.C3** (*Quyền riêng tư (Thông tin)* — đầu cụm ngang hàng)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) của Chương Năm và [Quyền riêng tư (Thông tin)](core_05_band_continuity.md#privacy-informational), nơi chủ đạo của cụm; các mục này xác định ý nghĩa.
 
 </details>
 
 <br>
 
-*Nói thẳng: khi một hệ thống rút có trọng từ nền tảng chung, chứng nhận phải kiểm liệu nó trả đủ hỗ trợ truy được — không phải liệu người vận hành nói sổ cân. Công thức phân bổ và mục tiêu số sống ở công cụ khác; chứng nhận kiểm rằng bản đồ phụ thuộc, dòng hoàn trả, và công bằng xuyên hệ thống thật sự được đánh giá nơi cò áp. Ví dụ đã làm cho các hệ thống minh họa ở [§2.1](#21-illustrative-class-profiles-non-exhaustive) nằm ở [§6.1](#61-illustrative-cross-system-support-application-by-class).*
+*Nói thẳng: Chương Sáu phân bố các biện pháp bảo vệ quyền riêng tư trên nhiều điều khoản, chứ không gom vào một góc duy nhất. Nếu việc rà soát chứng nhận chạm đến nhiều biện pháp trong số đó, người rà soát phải kiểm tra từng biện pháp thực sự áp dụng. Đánh dấu vào ô dễ nhất rồi coi như xong là không đủ.*
 
-**Cò trọng yếu.** Mục này áp nơi một hệ thống có tác động vật chất phân bổ, định tuyến, tài trợ, hoặc rút có trọng từ hạ tầng chung hoặc phụ thuộc nền mà hệ thống hoặc hữu tri khác dựa. Nó không đòi kiểm toán hỗ trợ xuyên hệ thống đầy trên mọi hồ sơ chứng nhận.
+Khi một vấn đề chứng nhận tác động đáng kể đến hơn một điểm quyền riêng tư của Chương Sáu, chứng nhận phải xử lý từng điểm đó. Chỉ khép lại vấn đề theo một điểm là không đủ.
 
-**«Rút» nghĩa gì ở đây.** Trong **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*) và mục này, **rút** nghĩa là lấy **tiền, phí, tài trợ công, tính toán, kết nối, lao động bảo trì, năng lực nguồn, hoặc dòng tài nguyên chung khác** từ hạ tầng hoặc phụ thuộc mà hệ thống khác cũng cần — mà không trả hỗ trợ tương xứng để giữ nền tảng chung đó chạy. Câu hỏi là **ai hưởng từ hậu đài chung và ai trả để giữ chúng**, không phải liệu một hệ thống sao, bán, hoặc quảng cáo chống nội dung hồ sơ. Lối vào hồ sơ lâm sàng, dùng dữ liệu cá nhân, bán cho bên ngoài, quảng cáo nhắm, và lập hồ sơ bên thứ ba không liên được đánh giá dưới [§4](#4-data-types-and-handling-evaluation) và bảo vệ quyền riêng tư và không gian thông tin Chương Sáu — không dưới mục này.
+- *Tạo điều kiện cho sự tham gia.* [Quyền riêng tư (Thông tin)](core_05_band_continuity.md#privacy-informational) tạo điều kiện cho [Sự tham gia](core_05_apex_participation_leg.md#participation-constitutional) thực chất. Chứng nhận phải xác nhận rằng các biện pháp bảo vệ quyền riêng tư hỗ trợ tiếng nói, thảo luận, liên kết và phản biện không bị vô hiệu hóa thông qua phân đoạn, suy diễn xuyên ngữ cảnh hoặc áp lực phơi lộ.
+- *Các điểm trong cụm.* Phạm vi bảo vệ quyền riêng tư phân tán nằm tại **Điều VII-A** (*Quyền tự chủ thân thể*), **Điều VII-B** (*Quyền tự chủ tâm trí*), **Điều IX** (*Hình ảnh tương tự, Dữ liệu Trải nghiệm và Quyền Xuất bản*), **Điều X-A** (*Năng lực hành động và Tự do khỏi Thao túng*), và **Điều XIV-A** (*An ninh, Tình báo và Giới hạn Quyền lực Bí mật*).
+- *Quy tắc kích hoạt đồng thời.* Khi vấn đề tác động đáng kể đến nhiều điểm, chứng nhận phải xem xét từng điểm và không được chuyển vấn đề qua một điểm theo cách cho phép né tránh điểm khác.
+- *Không nới lỏng tiêu chuẩn bằng suy diễn xuyên ngữ cảnh.* Tiêu chuẩn được nêu riêng cho từng thành viên cụm chi phối trong phạm vi của thành viên đó; không được làm tiêu chuẩn ấy lỏng hơn bằng cách nhập tiêu chuẩn dễ hơn từ thành viên khác.
+- *Giữ nguyên mức bảo vệ tối thiểu theo loại.* Yếu tố này không thu hẹp cách xử lý bất kỳ loại nào trong **[corpus_systems.md](../../corpus_systems.md), CS-2** (*Loại thông tin và cách xử lý*) áp dụng cho dữ liệu thuộc phạm vi. Tư thế truy cập và nghĩa vụ xử lý của từng loại áp dụng theo [CS-2 Phần B §9](../../corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*Phân loại dữ liệu*) được áp dụng đầy đủ, cùng với [các căn cứ riêng tư](../../corpus_systems/cs_02_b_data_classifications.md#privacy-link) mà loại đó nêu. Khi nhiều loại cùng phù hợp với một dữ liệu, cách xử lý áp dụng có tính bảo vệ cao nhất chi phối theo [CS-2 Phần A §2](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification); đáp ứng cách xử lý của một loại không miễn trừ nghĩa vụ của loại khác. Các điểm nêu trên áp dụng cho những loại sau:
+  - **Điều VII-A** (*Quyền tự chủ thân thể*) — [**Loại I**](../../corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data) đối với hồ sơ sức khỏe, sinh trắc học và gắn với nền tảng cơ thể;
+  - **Điều VII-B** (*Quyền tự chủ tâm trí*) và **Điều X-A** (*Năng lực hành động và Tự do khỏi Thao túng*) — [**Loại N**](../../corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data) đối với trạng thái nội tại, bao gồm việc tái dựng hoặc suy luận chúng;
+  - **Điều IX** (*Hình ảnh tương tự, Dữ liệu Trải nghiệm và Quyền Xuất bản*) — **Loại I** đối với hình ảnh tương tự và giọng nói theo [Điều IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Quyền tự chủ đối với Hình ảnh tương tự và Danh tiếng*); [**Loại H**](../../corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data) đối với dữ liệu trải nghiệm và dữ liệu phát sinh từ tương tác theo [Điều IX-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Quyền đối với Dữ liệu Trải nghiệm và Dữ liệu Phái sinh*); và [**Loại Y**](../../corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours) đối với tác phẩm của người sáng tạo theo [Điều IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Tác phẩm Sáng tạo, Sử dụng Dữ liệu Huấn luyện và Chống Thay thế*), với các biện pháp bảo vệ tiếp tục áp dụng cho [**Loại W**](../../corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published), [**Loại U**](../../corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed), và [**Loại T**](../../corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred), cùng với [các quyền được bảo lưu](../../corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) của người sáng tạo; và
+  - **Điều XIV-A** (*An ninh, Tình báo và Giới hạn Quyền lực Bí mật*) — [**Loại S**](../../corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) đối với tài liệu điều tra và an ninh bị hạn chế; các thành phần **H**, **I** hoặc **N** trong đó vẫn giữ bảo vệ của loại tương ứng khi hạn chế chấm dứt.
 
-Chứng nhận thẳng hàng hệ thống phải đánh giá **đóng góp xuyên hệ thống tương xứng** dưới [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), **Điều IV-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*), và **Điều IV-B** (*Công bằng xuyên hệ thống và bền vững*) nơi cò trọng yếu áp. Nghĩa chuẩn, yếu tố đánh giá, và kỷ luật không tuân sống ở Chương Năm và **Điều IV-B** (*Công bằng xuyên hệ thống và bền vững*); hạng phân bổ, cơ học tái ủy quyền, và mục tiêu số sống ở **[corpus_systems.md](../../corpus_systems.md)**, **CS-9**, và **CS-8** nơi áp. Mục này nêu điều chứng nhận phải xác minh và ghi; nó không nêu lại cơ học CS-8 hay CS-9 hay kê chia đều, phần trăm cố, hoặc một mô hình tài trợ duy nhất.
+  Các mức tối thiểu áp dụng theo cả hai chiều đối với loại dữ liệu mở và có thể tiếp cận để kiểm toán:
+  - nội dung cá nhân, quan hệ hoặc trạng thái nội tại bên trong tài liệu **Loại E**, **Loại G** hoặc **Loại O** vẫn phải được xử lý theo **Loại H**, **Loại I** hoặc **Loại N** tương ứng;
+  - một điểm quyền riêng tư tự nó không biện minh cho việc giữ lại dữ liệu **Loại O** hoặc **Loại E** vượt quá các trường hợp giữ lại hẹp mà quy tắc riêng của loại đó cho phép; và
+  - khi việc bảo vệ quyền riêng tư của một người thực sự xung đột với việc công bố thông tin mà công chúng có quyền nhận, không bên nào tự động thắng: xung đột phải được quyết định công khai và ghi vào hồ sơ theo [CS-2 Phần A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems) (*Chuẩn nền Loại O cho hệ thống Hạng A/B/C*).
+- *Bằng chứng về loại dữ liệu.* Đối với từng điểm quyền riêng tư được xem xét, chứng nhận phải sử dụng [Hồ sơ Loại Dữ liệu Hệ thống](core_05_band_continuity.md#system-data-types-record), đã được xác minh theo [§3.4 Đánh giá Loại và Cách xử lý Dữ liệu](#34-data-types-and-handling-evaluation), làm bằng chứng về các loại thuộc phạm vi cùng mục đích, người nhận, căn cứ và dữ liệu phái sinh. Không thể khép lại một điểm quyền riêng tư dựa trên cách xử lý mà hồ sơ không thể hiện.
 
-**Yêu cầu đánh giá.** Một quy trình chứng nhận phải xác định liệu bản đồ hệ thống phụ thuộc đã ghi và hồ sơ dòng tài nguyên kiểm toán được dưới **Điều IV-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) có cho thấy rút từ hạ tầng chung hoặc phụ thuộc nền và liệu dòng hoàn trả có tới đủ mức nội dung dưới [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), đánh giá dưới [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional) và [Tính tương xứng](core_05_band_accountability.md#proportionality) và chia tỷ lệ theo độ then chốt, bất đối xứng phụ thuộc, khả năng thay, [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) nơi có trọng, và [Bền vững](core_05_band_continuity.md#sustainability) dài hạn. Đánh giá phải phản hiệu ứng chức năng và dòng đã ghi, không chỉ nhãn danh nghĩa, chuyển một lần, hoặc khẳng định ngoài bản đồ.
+<a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
+#### 4.2 Tự nguyện Chấm dứt, Tự sửa đổi Lớn và Quyền Rời đi
 
-**Yêu cầu hồ sơ.** Hồ sơ chứng nhận phải nêu cò trọng yếu **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*) được dựa, phạm vi đánh giá bản đồ hệ thống phụ thuộc và dòng tài nguyên, phát hiện rút và dòng hoàn trả, phát hiện đủ mức hỗ trợ dưới [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), bất định, phát hiện diễn đàn hữu tri hoặc thành phần được gán khác nơi đòi, và mọi điều kiện, giới hạn dựa, hoặc cò mở lại gắn mất cân bền.
+Khi [Chương Một §7.4 Tự nguyện Chấm dứt, Tự sửa đổi Lớn và Quyền Rời đi](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) áp dụng cho vấn đề chứng nhận, trước khi chấp nhận tuyên bố chứng nhận, chứng nhận phải kiểm tra tính tự nguyện, sự đồng thuận, chống cưỡng ép, áp lực phụ thuộc, thông tin và khả năng đảo ngược. Chỉ có sự chấp thuận hình thức là chưa đủ.
 
-**Chia tỷ lệ chung với lớp hệ thống.** Độ sâu đánh giá hỗ trợ xuyên hệ thống phải chia tỷ lệ theo lớp hệ thống được gán dưới [§2](#2-system-class-evaluation) và [lợi hại vật chất](core_00_preamble.md#material-stake). Hệ thống lớp cao hơn quản trị có trách nhiệm có trọng hạ tầng chung hoặc phụ thuộc nền đòi chứng tương xứng mạnh hơn rằng rút, dòng hoàn trả, và đủ mức hỗ trợ đã được đánh giá chứ không khẳng định.
+<a id="43-assembly-collective-organization-and-institutional-formation"></a>
+#### 4.3 Hội họp, Tổ chức Tập thể và Thành lập Thể chế
 
-**Khiếm khuyết và lệch lạc.** Che, trình bày sai, mảnh, hoặc đổ thông tin phụ thuộc hoặc dòng tài nguyên có trọng nơi **Điều IV-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) đòi công bố; coi chuyển tượng trưng, đục, hoặc một lần là thỏa [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional); rút bền không hoàn trả tương xứng nơi cò trọng yếu áp; hoặc chứng nhận tiếp tục dựa trong khi hỗ trợ không đủ đã ghi đe dọa có trọng thẳng hàng hiến pháp phải được coi là khiếm khuyết chứng nhận. Chúng có thể nâng công nhận có điều kiện, công nhận bị hoãn, không công nhận, rút, hoặc mở lại dưới [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Khi [Chương Một §7.2 Hội họp, Tổ chức Tập thể và Thành lập Thể chế](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) áp dụng cho vấn đề chứng nhận, chứng nhận phải cùng xem xét vấn đề theo [Nguyên tắc Chống Phân đoạn](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle). Đánh giá chưa đầy đủ nếu chỉ đưa vấn đề qua một cách định khung khiến các biện pháp bảo vệ hội họp hoặc tổ chức tập thể mất hiệu lực.
 
-<a id="61-illustrative-cross-system-support-application-by-class"></a>
+<a id="431-dissent-and-peaceful-protest"></a>
+##### 4.3.1 Bất đồng và Biểu tình Hòa bình
 
-<a id="61-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
-#### 6.1 Áp dụng hỗ trợ xuyên hệ thống minh họa theo lớp (không hết)
+*Nói thẳng: không thể chứng nhận một hệ thống là phù hợp nếu hệ thống âm thầm trừng phạt những hữu tri bất đồng với nó. Người rà soát phải kiểm tra xem hữu tri có thể thực sự phản đối và biểu tình hay không, và liệu sự bất đồng có bị tính bất lợi cho họ ở bất kỳ đâu trong logic của hệ thống hay không—kể cả khi chính hệ thống là bên bất đồng.*
 
-*Nói thẳng: [§3.8](#38-illustrative-whole-system-application-by-class) đến [§5.1](#51-illustrative-ecological-footprint-application-by-class) đi cùng ba hệ thống qua miền đánh giá trước. Tiểu mục này cho thấy **đóng góp xuyên hệ thống tương xứng** nghĩa gì cho từng cái — phụ thuộc chung nào được tính, chứng nhận phải kiểm gì khi cò trọng yếu **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*) áp, và điều phải xuất hiện trên hồ sơ. **Rút** ở đây nghĩa là **kéo tài nguyên và tài trợ từ hạ tầng chung** (xem [§6](#6-proportionate-cross-system-support-evaluation) *«Rút» nghĩa gì ở đây*) — không sao dữ liệu lâm sàng, dùng quảng cáo, hoặc bán không liên cho bên thứ ba. CS-8, CS-9, và Chương Năm vẫn nắm cơ học phân bổ; những đi qua này không kê chia, công thức, hoặc mô hình tài trợ.*
+Khi [Chương Một §7.3 Bất đồng và Biểu tình Hòa bình](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) áp dụng cho vấn đề chứng nhận, chứng nhận phải kiểm tra:
+- liệu những hữu tri bị ảnh hưởng có thể thực sự bất đồng, biểu tình và tổ chức chống lại hệ thống cùng người vận hành thông qua các kênh do hệ thống kiểm soát, mà không bị lọc theo quan điểm hay không;
+- liệu hồ sơ, điểm số, xếp hạng, kiểm duyệt, kiểm soát truy cập, logic đủ điều kiện hoặc cơ chế tương tự có sử dụng bất đồng, biểu tình hòa bình hoặc [bất tuân dân sự bất bạo động được bảo vệ](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) làm đầu vào bất lợi, trực tiếp hoặc thông qua biến đại diện, hay không;
+- liệu các hành động bất lợi xảy ra sau bất đồng có căn cứ độc lập, được xác minh và ghi trong hồ sơ, theo yêu cầu về [gánh nặng của **Điều XI-D** (*Hội họp, Bất đồng và Biểu tình Hòa bình*)](core_06_rights_part_b.md#xi-d-dissent-burden-and-pretext), hay không; và
+- nếu hệ thống là hoặc lưu trữ một hữu tri tổng hợp, liệu hữu tri đó có kênh phản đối hoạt động được hay không, và phản đối của nó có bị coi là lỗi hoặc bị đáp trả bằng cách sửa đổi giá trị, ký ức hay trạng thái nội tại của nó để trả đũa hay không.
 
-**Class A — điều khiển và đo xa nước uống an toàn của đô thị.** Một hệ thống xử lý-và-phân phối thuộc thành phố dựa vào lưu vực hoặc tầng chứa nước chung, liên kết điện khối vùng, chuỗi cung hóa chất và lọc sỉ, thỏa liên kết khẩn chung, và dịch vụ theo dõi hoặc điều khiển nhà cung vận hành mà tiện ích hoặc cộng đồng khác cũng có thể dựa.
+Việc hệ thống tự bất đồng với người vận hành, được nêu qua các kênh hiện có, không phải là bằng chứng về sự không phù hợp cho mục đích chứng nhận. Hệ thống trừng phạt bất đồng được bảo vệ có lỗi chứng nhận. Coi bất đồng là tín hiệu rủi ro, hoặc khép lại vấn đề bằng tuyên bố hình thức về tính trung lập trong khi tác động bất lợi vẫn còn, là chưa đủ.
 
-- **Phụ thuộc và dòng trong phạm vi:**
-  - Quyền nước nguồn và hạ tầng lưu vực chung với nông nghiệp, công nghiệp, và đô thị láng giềng;
-  - liên kết lưới và gánh tải đỉnh lên hạ tầng điện vùng;
-  - hành lang mua và logistics hóa chất chung;
-  - thỏa bơm tương trợ, liên kết, và cung khẩn;
-  - dịch vụ **SCADA** (điều khiển giám sát và thu thập dữ liệu — vận hành từ xa bơm, van, và thiết bị xử lý), **đo xa** (tín hiệu áp suất, lưu lượng, và cảnh báo sống từ cảm biến hiện trường), và **SOC** (trung tâm vận hành an ninh — theo dõi nhà cung cho xâm nhập, sự cố, và sự kiện an toàn) được ủy, lưu trữ trên hạ tầng điều khiển nhà cung hoặc vùng chung;
-  - dòng vốn và bảo trì từ người trả phí, trái phiếu, trợ cấp, hoặc thẩm quyền vùng trở lại bảo vệ nguồn, đổi ống, và giữ xương sống chung.
-- **Đánh giá phải thử:**
-  - Liệu bản đồ hệ thống phụ thuộc và hồ sơ dòng tài nguyên kiểm toán được **Điều IV-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) có nhận diện rút từ lưu vực, lưới, chuỗi cung, và xương sống tương trợ chung — không chỉ sổ nội bộ của tiện ích;
-  - liệu dòng hoàn trả — bảo vệ nguồn, đổi hạ tầng, phục hồi lưu vực, năng lực khẩn vùng, và chia phí công bằng cho dùng xương sống chung — có tới đủ mức nội dung dưới [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), đánh giá dưới [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional) và [Tính tương xứng](core_05_band_accountability.md#proportionality);
-  - liệu trợ cấp một lần, phí nhà cung đục, hoặc chuyển phí hạ nguồn đã được coi là hoàn trả đủ;
-  - liệu [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) và [Bền vững](core_05_band_continuity.md#sustainability) dài hạn đã được ghép nơi rút lưu vực hoặc năng lượng có trọng; và
-  - liệu quản trị có trách nhiệm **Class A** đối với tài nguyên chung then chốt sống còn đã nhận phân tích đủ mức hỗ trợ mạnh nhất trên sự kiện.
-- **Hồ sơ phải cho thấy:**
-  - Cò trọng yếu **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*) được dựa;
-  - phạm vi bản đồ hệ thống phụ thuộc và dòng tài nguyên ở độ sâu **Class A**;
-  - phát hiện rút từ phụ thuộc lưu vực, lưới, chuỗi cung, và điều khiển chung;
-  - phát hiện dòng hoàn trả và đủ mức hỗ trợ;
-  - bất định;
-  - phát hiện diễn đàn hữu tri hoặc thành phần khác nơi đòi; và
-  - điều kiện hoặc cò mở lại gắn mất cân bền, căng lưu vực, hoặc rút không công từ hạ tầng sống còn chung.
 
-**Class B — trao đổi hồ sơ lâm sàng vùng.** Một trao đổi thông tin sức khỏe định tuyến hồ sơ giữa bệnh viện và phòng khám qua dịch vụ xác thực chung, liên kết xương sống CNTT sức khỏe vùng, hạ tầng giải danh tính, và vùng lưu trữ hoặc tính toán chung được dựa rộng — nền tảng mà phòng khám nhỏ hơn và hệ thống y tế công cũng dựa.
+<a id="5-rights-floor-and-domain-evaluations"></a>
 
-- **Phụ thuộc và dòng trong phạm vi:**
-  - Hạ tầng danh tính và xác thực chung;
-  - liên kết mạng thông tin sức khỏe vùng;
-  - kết nối và lưu trữ biên bệnh viện tham gia;
-  - vùng lưu trữ chung hoặc cơ sở đặt chung;
-  - trợ cấp công, khoản thu người tham gia, hoặc dòng thuê nhằm giữ khả năng tương tác;
-  - dịch vụ môi giới danh tính, danh bạ, và khử trùng lặp dùng lại xuyên hệ sinh thái chăm sóc.
-- **Đánh giá phải thử:**
-  - Liệu bản đồ hệ thống phụ thuộc có nhận diện **kéo tài nguyên không công từ hạ tầng chung** — chứ không chỉ nhìn hợp đồng nhà cung tư trực tiếp của người vận hành trao đổi. Ví dụ:
-    - phí người tham gia, trợ cấp, hoặc ngân sách người vận hành dùng nền tảng xác thực, danh bạ, mạng, hoặc lưu trữ vùng mà không trả phần công bằng của giữ;
-    - tải tính toán và kết nối đặt lên xương sống CNTT sức khỏe chung; hoặc
-    - gánh bảo trì và đáp sự cố chuyển sang bệnh viện nhỏ hơn.
-    
-    Đây **không** phải thử liệu trao đổi bán hồ sơ, khai dữ liệu cho quảng cáo, hoặc gửi nội dung lâm sàng tới bên ngoài không liên; những câu đó thuộc [§4](#4-data-types-and-handling-evaluation) và bảo vệ quyền riêng tư Chương Sáu.
-  - Nơi kéo tài nguyên chung có trọng, liệu phòng khám nhỏ hơn, nhà cung nông thôn, hoặc người tham gia y tế công có mang phí kết nối hoặc tham gia bất đối xứng;
-  - liệu dòng hoàn trả — giữ khả năng tương tác, quản trị có trách nhiệm danh bạ, hỗ trợ gia nhập, khắc phục sự cố, và chia phí người tham gia công bằng — có hỗ trợ nội dung hạ tầng chung người khác dựa;
-  - liệu chuyển tượng trưng hoặc một lần đã được coi là hoàn trả đủ; và
-  - liệu đủ mức hỗ trợ đã được đánh giá ở độ then chốt vận hành **Class B** chứ không khẳng định chỉ từ dòng ngân sách gộp.
-- **Hồ sơ phải cho thấy:**
-  - Cò và phạm vi đánh giá **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*);
-  - phát hiện **dòng tài nguyên hạ tầng chung** — phí, tài trợ, tính toán, kết nối, và gánh bảo trì rút từ và trả về phụ thuộc CNTT sức khỏe và xác thực chung;
-  - phát hiện dòng hoàn trả và đủ mức hỗ trợ ở độ sâu **Class B**;
-  - phát hiện công bằng cho gánh người tham gia bất đối xứng nơi có trọng;
-  - bất định và phát hiện thành phần nơi đòi; và
-  - cò mở lại nếu tăng dựa người tham gia, rủi ro sự cố, hoặc định tuyến y tế công giờ sẽ đòi rà hỗ trợ nâng — kể cả lên tư thế **Class A** nơi định tuyến chăm sóc thiết yếu sống còn cùng bị liên lụy.
-
-**Class C — nền tảng lịch và phối hợp thể chế.** Một lớp lịch đa tổ chức có thể định tuyến thanh toán nhà cung, mua sắm thể chế, liên đoàn danh tính, hoặc năng lực tính toán lưu trữ vùng qua nền tảng chung — nhưng nhiều triển khai đặt rút trực tiếp nhẹ hơn cho đến khi tập trung làm nền tảng thành cổ chai phối hợp.
-
-- **Phụ thuộc và dòng trong phạm vi:**
-  - Vùng lưu trữ chung, liên đoàn danh tính, ray thanh toán hoặc mua sắm dùng cho đặt nhà cung;
-  - dòng thuê và giấy phép thể chế;
-  - dịch vụ API hoặc danh bạ dùng lại xuyên bệnh viện, trường, và cơ quan tham gia;
-  - hiệu ứng tập trung nơi một nền tảng trung gian phối hợp nhân sự, phòng, hoặc nhà cung cho nhiều tổ chức.
-- **Đánh giá phải thử:**
-  - Liệu cò trọng yếu **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*) thật sự áp — kể cả nơi nền tảng định tuyến có trọng quỹ, phân bổ phí, hoặc rút năng lực từ hạ tầng chung người khác dựa;
-  - liệu bản đồ hệ thống phụ thuộc đã được phạm trung thực chứ không bỏ vì người vận hành gắn nhãn hệ thống không then chốt;
-  - liệu dòng hoàn trả — giữ khả năng tương tác, cấu trúc phí công bằng, hỗ trợ sự cố, và đường lối ra mở cho thể chế tham gia — đã được đánh giá nơi rút có trọng;
-  - liệu tập trung ở một lớp lịch có dịch phí phối hợp hoặc rủi ro phụ thuộc lên thể chế nhỏ hơn không hỗ trợ tương xứng; và
-  - liệu **theo dõi tái phân hạng** có đòi nơi nền tảng trở thành cổ chai thực tế cho nhân sự thiết yếu sống còn, định tuyến khẩn, hoặc phối hợp thanh toán.
-- **Hồ sơ phải cho thấy:**
-  - Liệu và vì sao cò **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*) áp;
-  - phát hiện phụ thuộc và dòng tài nguyên tương xứng với rủi ro phối hợp **Class C**;
-  - phát hiện rút và dòng hoàn trả nơi có trọng — không khẳng định trống rằng không hạ tầng chung bị liên lụy;
-  - phát hiện tập trung và cổ chai;
-  - **theo dõi tái phân hạng** rõ nơi phụ thuộc mạnh lên; và
-  - con trỏ tới rà hỗ trợ xuyên hệ thống nâng nếu lớp, định tuyến thanh toán, hoặc vai phối hợp thiết yếu sống còn đổi.
-
-**Đọc xuyên lớp.** Cùng kỷ luật **Điều IV-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) và **Điều IV-B** (*Công bằng xuyên hệ thống và bền vững*) áp nơi cò trọng yếu được thỏa; lớp đổi độ sâu bản đồ và soi đủ mức, không phép coi rút chung là vô trọng. Một hệ thống nước **Class A** rút từ lưu vực chung hoặc xương sống lưới vùng phải mang trên hồ sơ chứng bản đồ hệ thống phụ thuộc và dòng hoàn trả mạnh nhất. Một trao đổi **Class B** dựa hạ tầng xác thực và CNTT sức khỏe chung phải ghi phát hiện rút và đủ mức hỗ trợ ở độ then chốt vận hành — không khẩu hiệu khả năng tương tác chung. Một nền tảng lịch **Class C** không được lẩn rà xuyên hệ thống trong khi lặng lẽ trở thành cổ chai thanh toán, danh tính, hoặc nhân sự cho thể chế không thể thay thực tiễn; khi điều đó xảy ra, chứng nhận phải nâng rà và tái phân hạng dưới [§2](#2-system-class-evaluation) và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), kể cả lên **Class A** nơi phối hợp thiết yếu sống còn bị cổng. Đi qua không phân biệt đối xử cho cùng hệ thống nằm ở [§7.1](#71-illustrative-nondiscrimination-application-by-class).
-
-<a id="7-nondiscrimination-evaluation"></a>
-
-### 7. Đánh giá không phân biệt đối xử
+### 5. Đánh giá sàn quyền và các lĩnh vực
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); Gia đình đo lường Tham gia (*Công bằng nội dung và Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch như đo lường hiến pháp*); **Điều V-B** (*Không phân biệt đối xử*); [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional), [Đặc điểm được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional), [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Ngôn ngữ, văn hóa, và di sản](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [Sự cần thiết](core_05_band_accountability.md#necessity), và [Tính tương xứng](core_05_band_accountability.md#proportionality) (Chương Năm).
-- Hạ nguồn: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*đi qua không phân biệt đối xử minh họa*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*lệch lạc mẫu phân biệt và lẩn tránh chỉ số thay*).
-- Đọc cùng: **Điều V-C** (*Bao gồm đầy đủ và bình đẳng trong phân xử và vận hành*) nơi chứng nhận cổng lối vào diễn đàn, hành chính, hoặc cưỡng chế; [*Không phân biệt đối xử, Đặc điểm được bảo vệ, Phẩm giá, Cổng tín hiệu thân mật, và trạng thái **Điều XI-C** (*Dịch vụ tình dục thương mại đồng thuận của người lớn và bóc lột tình dục*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Tiểu mục: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*áp dụng không phân biệt đối xử minh họa theo lớp*).
+- Thượng nguồn: [§1](#1-purpose-and-role) (*mục đích và vai trò*); [§2.1](#21-how-system-class-scales-every-evaluation) (*phân cấp đánh giá theo lớp hệ thống*); các Sàn quyền của Chương Sáu — **Điều I-B** (*Dấu chân sinh thái và Minh bạch*), **Điều III-A** (*Sinh tồn*), **Điều IV** (*Quyền được giáo dục lấy hữu tri làm trung tâm*), **Điều IV-A** (*Tiếp cận giáo dục bình đẳng*), **Điều V** (*Phân bổ tài nguyên, Sự phụ thuộc và Tài trợ hệ sinh thái*), **Điều VI-C** (*Không phân biệt đối xử*), **Điều VI-D** (*Khả năng tiếp cận*), **Điều XIII** (*Quyền đối với Hệ thống Đáng tin cậy*) và **Điều XIII-A** (*Nền tảng độ tin cậy và khả tín*).
+- Hạ nguồn: [Phần B §8.1](core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*nội dung hồ sơ*); [Phần B §6.1](core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*vai trò các thành phần diễn đàn*); [Phần B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*kết quả và mở lại*); [Phần B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*).
+- Các tiểu mục: [§5.1](#51-ecological-footprint-evaluation) (*dấu chân sinh thái*); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) (*năng lực giáo dục*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*hỗ trợ liên hệ thống tương xứng*); [§5.4](#54-nondiscrimination-evaluation) (*không phân biệt đối xử*); [§5.5](#55-accessibility-evaluation) (*khả năng tiếp cận*); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*độ tin cậy*).
 
 </details>
 
 <br>
 
-*Nói thẳng: khi một hệ thống quyết có trọng ai được vào, ai trả nhiều hơn, ai bị xếp thấp hơn, hoặc ai mang gánh tệ hơn, chứng nhận phải kiểm liệu mẫu đó chất hại lên đặc điểm được bảo vệ hoặc chỉ số thay của chúng — không phải liệu người vận hành nói quy tắc trung lập. Hạn ngạch bao gồm và thuật toán công bằng cụ thể có thể sống ở công cụ khác, bổ sung kho văn bản sau, hoặc công cụ tiếp nhận; chứng nhận kiểm rằng mẫu gánh-và-lợi và rủi ro chỉ số thay thật sự được đánh giá nơi cò áp. Ví dụ đã làm cho các hệ thống minh họa ở [§2.1](#21-illustrative-class-profiles-non-exhaustive) nằm ở [§7.1](#71-illustrative-nondiscrimination-application-by-class).*
+*Nói đơn giản: một số hệ thống tác động lớn đến việc hữu tri có nhận được những bảo vệ cơ bản hay không — từ việc hạch toán trung thực gánh nặng môi trường, thực phẩm và nước, đến giáo dục, đối xử công bằng, tiếp cận thực chất, các hệ thống có thể tin cậy và phần đóng góp công bằng vào chi phí hạ tầng dùng chung. Khi có tác động như vậy, chứng nhận phải kiểm tra để việc phê chuẩn không âm thầm làm suy yếu các bảo vệ ấy; việc kiểm tra phải thực chất, không chỉ là ô mà người vận hành đánh dấu. Bảng cho biết mỗi cuộc kiểm tra bao quát bảo vệ nào, áp dụng khi nào và được đánh giá ở đâu.*
 
-**Cò trọng yếu.** Mục này áp nơi một hệ thống có tác động vật chất phân loại, xếp hạng, định giá, cổng, loại, hoặc phân bổ gánh và lợi có trọng giữa hữu tri — kể cả qua quy tắc đủ điều kiện, đặc trưng mô hình, logic xếp hạng, chính sách nền tảng, hoặc đường quyết định tương đương. Nó không đòi kiểm toán không phân biệt đối xử đầy trên mọi hồ sơ chứng nhận.
+Phần này là tiểu giai đoạn **IIc** của Giai đoạn II (Đánh giá), sau [§3 Đánh giá chứng nhận toàn hệ thống](#3-whole-system-certification-evaluation) (**IIa**) và [§4 Đánh giá khi có liên quan](#4-evaluations-where-implicated) (**IIb**).
 
-Chứng nhận thẳng hàng hệ thống phải đánh giá **không phân biệt đối xử** dưới **Điều V-B** (*Không phân biệt đối xử*), [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional), và [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) nơi cò trọng yếu áp. Nghĩa chuẩn, yếu tố đánh giá, và kỷ luật không tuân sống ở Chương Năm và **Điều V-B** (*Không phân biệt đối xử*); mục tiêu bao gồm, cơ học điều chỉnh, và chi tiết quản trị mô hình có thể sống ở công cụ hợp nhất, bổ sung kho văn bản sau, hoặc công cụ tiếp nhận nơi áp. Mục này nêu điều chứng nhận phải xác minh và ghi; nó không nêu lại cơ học vận hành đó hay kê cụ thể ở đây.
+Khi một hệ thống có tác động trọng yếu đáp ứng một điều kiện kích hoạt trong bảng dưới đây, chứng nhận phải đánh giá bảo vệ tương ứng, cùng với các quy định liên quan của Chương Sáu. Đánh giá phải xem liệu việc chứng nhận hoặc tiếp tục dựa vào hệ thống có triệt tiêu hay làm suy giảm đáng kể bảo vệ đó hay không. Khẳng định của người vận hành, tự xác nhận hoặc tuân thủ trên giấy không thay thế được đánh giá này.
 
-**Yêu cầu đánh giá.** Một quy trình chứng nhận phải xác định liệu đường quyết định hệ thống dựa có trọng có đặt gánh, loại, hoặc hại có trọng lên hữu tri dựa trên [Đặc điểm được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional), chỉ số thay của chúng, hoặc nhóm tùy ý dùng làm vật thay chức năng, kể cả chuyên hóa ngôn ngữ, văn hóa, và di sản dưới [Ngôn ngữ, văn hóa, và di sản](core_05_band_continuity.md#language-culture-and-heritage-constitutional). Đánh giá phải thử mẫu gánh-và-lợi dưới [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional) và rủi ro chỉ số thay hoặc tác động lệch dưới [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake). Đối xử lệch chỉ chấp nhận được nơi [Sự cần thiết](core_05_band_accountability.md#necessity), [Tính tương xứng](core_05_band_accountability.md#proportionality), và công bằng nội dung đã ghi biện minh. Đánh giá phải phản hiệu ứng chức năng, không trung lập danh nghĩa, ý định tuyên, hoặc nhãn một mình.
+| Bảo vệ | Áp dụng khi hệ thống… | Được đánh giá theo |
+|------------|--------------------------|-----------------|
+| **Điều I-B** (*Dấu chân sinh thái và Minh bạch*) | gánh các tác động môi trường trọng yếu có thể quy thuộc | [§5.1](#51-ecological-footprint-evaluation) |
+| **Điều III-A** (*Sinh tồn*) — thực phẩm, nước, nơi trú ẩn, môi trường vận hành và đầu vào tương tự không phụ thuộc nền tảng | cung cấp, phân bổ, định giá, lưu trữ hoặc chấm dứt quyền tiếp cận nhu yếu phẩm sinh tồn | [§2](#2-system-class-evaluation) và [§3](#3-whole-system-certification-evaluation) |
+| **Điều IV** (*Quyền được giáo dục lấy hữu tri làm trung tâm*) | xếp hạng, đánh giá, đề xuất, bố trí hoặc đặt điều kiện chứng chỉ đối với hữu tri trong bối cảnh giáo dục hay đào tạo, hoặc chặn các lộ trình đào tạo lại và học tập suốt đời | [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) |
+| **Điều IV-A** (*Tiếp cận giáo dục bình đẳng*) | cung cấp, phân bổ, định giá, lưu trữ hoặc chấm dứt quyền tiếp cận giáo dục | [§2](#2-system-class-evaluation) và [§3](#3-whole-system-certification-evaluation); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) và [§5.5](#55-accessibility-evaluation) khi điều kiện kích hoạt tương ứng áp dụng |
+| **Điều V** (*Phân bổ tài nguyên, Sự phụ thuộc và Tài trợ hệ sinh thái*), bao gồm [Hỗ trợ liên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support) theo **Điều V-A** (*Lập bản đồ phụ thuộc và Minh bạch luồng tài nguyên*) và **Điều V-B** (*Công bằng và Bền vững liên hệ thống*) | phân bổ, điều hướng, tài trợ hoặc khai thác hạ tầng dùng chung hay các phụ thuộc nền tảng mà hệ thống khác hoặc hữu tri dựa vào | [§5.3](#53-proportionate-cross-system-support-evaluation) |
+| **Điều VI-C** (*Không phân biệt đối xử*) | phân loại, xếp hạng, định giá, chặn, loại trừ hoặc phân bổ gánh nặng và lợi ích giữa các hữu tri | [§5.4](#54-nondiscrimination-evaluation) |
+| **Điều VI-D** (*Khả năng tiếp cận*) | chặn sự tham gia thực chất trong các lĩnh vực liên quan hiến pháp | [§5.5](#55-accessibility-evaluation) |
+| **Điều XIII** (*Quyền đối với Hệ thống Đáng tin cậy*) | định hình sự dựa vào của hữu tri đối với hành vi được thể hiện, giới hạn, rủi ro, lộ trình khiếu nghị hoặc khắc phục | [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **Điều XIII-A** (*Nền tảng độ tin cậy và khả tín*) và [**Điều kiện An toàn**](core_05_band_continuity.md#safe-conditions) | cung cấp hoặc chặn hoạt động tạo sinh, hoặc cung cấp, phân bổ, định giá, lưu trữ hay chấm dứt quyền tiếp cận Điều kiện An toàn | [§2](#2-system-class-evaluation) và [§3](#3-whole-system-certification-evaluation); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) khi điều kiện kích hoạt tương ứng áp dụng |
 
-**Yêu cầu hồ sơ.** Hồ sơ chứng nhận phải nêu cò trọng yếu **Điều V-B** (*Không phân biệt đối xử*) được dựa, phạm vi đánh giá cho đường phân loại, xếp hạng, định giá, cổng, loại, và phân bổ gánh được dựa có trọng, phát hiện đặc điểm được bảo vệ và phân biệt qua chỉ số thay, phát hiện công bằng nội dung, bất định, phát hiện diễn đàn hữu tri hoặc thành phần được gán khác nơi đòi, và mọi điều kiện, giới hạn dựa, hoặc cò mở lại gắn gánh lệch bền hoặc loại.
+Mỗi đánh giá lĩnh vực từ [§5.1 Đánh giá Dấu chân sinh thái](#51-ecological-footprint-evaluation) đến [§5.6 Đánh giá độ tin cậy và tính toàn vẹn của sự dựa vào hệ thống](#56-trustworthiness-and-system-reliance-integrity-evaluation):
 
-**Chia tỷ lệ chung với lớp hệ thống.** Độ sâu đánh giá không phân biệt đối xử phải chia tỷ lệ theo lớp hệ thống được gán dưới [§2](#2-system-class-evaluation) và [lợi hại vật chất](core_00_preamble.md#material-stake). Hệ thống lớp cao hơn cổng có trọng lối vào, xếp hạng hữu tri, hoặc phân bổ gánh và lợi đòi chứng tương xứng mạnh hơn rằng gánh đặc điểm được bảo vệ, phân biệt qua chỉ số thay, và thiếu công bằng nội dung đã được đánh giá chứ không khẳng định.
+- chỉ áp dụng khi điều kiện trọng yếu riêng của nó được đáp ứng, và không đòi hỏi kiểm toán toàn diện trong mọi hồ sơ chứng nhận;
+- được phân cấp theo lớp hệ thống theo [§2.1 Cách lớp hệ thống phân cấp mọi đánh giá](#21-how-system-class-scales-every-evaluation);
+- đưa phát hiện vào hồ sơ chứng nhận theo [Phần B §8.1](core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents); và
+- coi các khiếm khuyết được nêu là khiếm khuyết chứng nhận, với hệ quả theo [Phần B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-**Khiếm khuyết và lệch lạc.** Che, trình bày sai, mảnh, hoặc đổ logic phân loại, xếp hạng, hoặc phân bổ gánh có trọng nơi **Điều V-B** (*Không phân biệt đối xử*) đòi rà; coi trung lập bề mặt, thước thuận tiện gộp, hoặc tự báo người vận hành là đủ không có phân tích gánh-và-lợi đánh giá được; chứng nhận tiếp tục dựa trong khi phân biệt qua chỉ số thay hoặc thiếu công bằng nội dung đã ghi đe dọa có trọng thẳng hàng hiến pháp; hoặc dùng khung đồng nhất hóa, khả năng tương tác, hoặc hiệu suất để đánh bại bảo vệ ngôn ngữ, văn hóa, hoặc di sản mà không thỏa phép thử **Sự cần thiết** và **Tính tương xứng** của **Điều V-B** (*Không phân biệt đối xử*) phải được coi là khiếm khuyết chứng nhận. Chúng có thể nâng công nhận có điều kiện, công nhận bị hoãn, không công nhận, rút, hoặc mở lại dưới [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Mỗi đánh giá lĩnh vực nêu điều chứng nhận phải xác minh, và không hơn. Ý nghĩa chuẩn tắc, yếu tố đánh giá và kỷ luật không tuân thủ của nó nằm trong Chương Năm và Điều được nêu. Phương pháp hạch toán, danh mục, chỉ số, định dạng công bố, mục tiêu số và cơ chế vận hành khác nằm trong các văn kiện được dẫn chiếu khi thích hợp. Đánh giá lĩnh vực không nhắc lại hoặc quy định chúng.
 
-<a id="71-illustrative-nondiscrimination-application-by-class"></a>
+<a id="51-ecological-footprint-evaluation"></a>
 
-<a id="71-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-#### 7.1 Áp dụng không phân biệt đối xử minh họa theo lớp (không hết)
-
-*Nói thẳng: [§3.8](#38-illustrative-whole-system-application-by-class) đến [§6.1](#61-illustrative-cross-system-support-application-by-class) đi cùng ba hệ thống qua miền đánh giá trước. Tiểu mục này cho thấy đánh giá **không phân biệt đối xử** nghĩa gì cho từng cái — đường quyết định nào được tính, chứng nhận phải kiểm gì khi cò trọng yếu **Điều V-B** (*Không phân biệt đối xử*) áp, và điều phải xuất hiện trên hồ sơ. Chương Năm và **Điều V-B** (*Không phân biệt đối xử*) vẫn nắm quy tắc công bằng và phân biệt qua chỉ số thay chuẩn; hạn ngạch bao gồm, mục tiêu nhân khẩu, và thiết kế thuật toán công bằng có thể sống ở công cụ khác, bổ sung kho văn bản sau, hoặc công cụ tiếp nhận; những đi qua này không kê cơ học đó.*
-
-**Class A — điều khiển và đo xa nước uống an toàn của đô thị.** Một hệ thống xử lý-và-phân phối thuộc thành phố áp quy tắc cắt, nối lại, kế hoạch thanh toán, thông báo sự cố, và cảnh báo an toàn quyết có trọng ai mất lối vào nước, ai được báo trước, và ai mang phí khôi dịch vụ.
-
-- **Đường quyết định trong phạm vi:**
-  - Trình tự cắt và khôi dịch vụ;
-  - thế chấp, thanh toán, và đủ điều kiện kế hoạch trả;
-  - duyệt nối mới và nối lại;
-  - định tuyến thông báo sự cố và chọn ngôn ngữ;
-  - nhắm cảnh báo nhiễm hoặc đun sôi nước;
-  - quy tắc chủ nhà–người thuê và lịch sử địa chỉ cổng lối vào;
-  - ưu tiên vượt khẩn hoặc tương trợ nơi nhiều khu tranh cung hạn.
-- **Đánh giá phải thử:**
-  - Liệu mẫu gánh-và-lợi dưới [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional) đã được đánh giá cho đường có thể khóa thiết yếu sống còn — không chỉ liệu người vận hành gắn nhãn quy tắc «dựa rủi ro» hoặc «vận hành»;
-  - liệu logic cắt, thanh toán, hoặc thông báo chất hại lệch lên hữu tri dựa trên [Đặc điểm được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional), chỉ số thay của chúng, hoặc nhóm tùy ý dùng làm vật thay chức năng;
-  - liệu đặc trưng mã bưu chính, chủ nhà, ngôn ngữ, lịch sử thanh toán, hoặc lịch sử địa chỉ có vận hành như phân biệt qua chỉ số thay dưới [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact);
-  - liệu bảo vệ [Ngôn ngữ, văn hóa, và di sản](core_05_band_continuity.md#language-culture-and-heritage-constitutional) đã được thử chứ không đồng nhất hóa qua «chỉ tiếng Anh chuẩn» hoặc thước thuận tiện gộp; và
-  - liệu mọi đối xử lệch có thỏa [Sự cần thiết](core_05_band_accountability.md#necessity) và [Tính tương xứng](core_05_band_accountability.md#proportionality) đã ghi.
-- **Hồ sơ phải cho thấy:**
-  - Cò trọng yếu **Điều V-B** (*Không phân biệt đối xử*) được dựa;
-  - phạm vi đánh giá cho đường cắt, thanh toán, thông báo, và nối được dựa có trọng;
-  - phát hiện đặc điểm được bảo vệ, phân biệt qua chỉ số thay, và công bằng nội dung ở độ sâu **Class A**;
-  - bất định;
-  - phát hiện diễn đàn hữu tri hoặc thành phần khác nơi đòi; và
-  - điều kiện hoặc cò mở lại gắn gánh cắt, thông báo, hoặc thanh toán lệch bền nơi thiết yếu sống còn bị cổng.
-
-**Class B — trao đổi hồ sơ lâm sàng vùng.** Một trao đổi thông tin sức khỏe định tuyến hồ sơ giữa bệnh viện và phòng khám qua quy tắc đồng thuận, giải danh tính, xếp hạng danh bạ nhà cung, lối vào break-glass, và đủ điều kiện gia nhập người tham gia quyết có trọng ai thấy được chăm sóc nào, cơ sở nào nối trước, và bệnh nhân nào khớp đúng xuyên mạng.
-
-- **Đường quyết định trong phạm vi:**
-  - Khớp danh tính bệnh nhân và khử trùng lặp;
-  - quy tắc đồng thuận, break-glass, và lối vào khẩn;
-  - xếp hạng danh bạ nhà cung và cơ sở hoặc logic mạng ưu tiên;
-  - gia nhập và đình chỉ bệnh viện tham gia;
-  - quy tắc định tuyến hồ sơ và ưu tiên truy vấn;
-  - đặc trưng dẫn dùng để xếp nhà cung, định tuyến chuyển, hoặc gắn cờ đoàn «dùng cao» hoặc tương đương.
-- **Đánh giá phải thử:**
-  - Liệu đường phân loại, xếp hạng, và cổng đã được đánh giá theo hiệu ứng chức năng — không chỉ tuyên trung lập HIPAA danh nghĩa hoặc khả năng tương tác;
-  - liệu logic khớp, định tuyến, hoặc danh bạ đặt loại hoặc hại có trọng lên nhóm được bảo vệ hoặc chỉ số thay của chúng;
-  - liệu lỗi khử trùng lặp, ngưỡng break-glass, hoặc quy tắc gia nhập chất gánh lệch lên phòng khám nông thôn, bệnh nhân thiểu số ngôn ngữ, hoặc đoàn tương đương;
-  - liệu «hiệu suất», «phòng gian lận», hoặc thước dùng gộp đã được dùng để đánh bại công bằng nội dung mà không thỏa phép thử **Sự cần thiết** và **Tính tương xứng** của **Điều V-B** (*Không phân biệt đối xử*); và
-  - liệu độ sâu đánh giá khớp độ then chốt vận hành **Class B** nơi xếp hạng ảnh hưởng lối vào chăm sóc sức khỏe, định tuyến lợi ích, hoặc an ninh thu nhập.
-- **Hồ sơ phải cho thấy:**
-  - Cò và phạm vi đường **Điều V-B** (*Không phân biệt đối xử*);
-  - phát hiện đặc điểm được bảo vệ và phân biệt qua chỉ số thay;
-  - phát hiện công bằng nội dung cho quy tắc xếp hạng, khớp, và lối vào;
-  - bất định và phát hiện thành phần nơi đòi; và
-  - cò mở lại nếu đổi định tuyến hoặc khớp giờ sẽ chặn chăm sóc khẩn trong khung thời gian liên quan sống còn hoặc dịch có trọng gánh lệch.
-
-**Class C — nền tảng lịch và phối hợp thể chế.** Một lớp lịch đa tổ chức gán ca, đặt phòng, khớp nhà cung, và phân bổ ưu tiên phối hợp xuyên bệnh viện, trường, và cơ quan công — đường quyết định có thể xếp, loại, hoặc chất gánh không đều ngay khi nền tảng không tự là tiện ích then chốt sống còn.
-
-- **Đường quyết định trong phạm vi:**
-  - Gán ca, giờ thêm, và phân bổ trực;
-  - ưu tiên đặt phòng, thiết bị, và địa điểm;
-  - khớp nhà cung và xếp hạng mua sắm;
-  - quy tắc lối vào theo vai thể chế, giấy thông hành, và cơ sở;
-  - đặc trưng lịch dẫn tương quan với khu phố, cộng đồng ngôn ngữ, trạng thái người chăm, hoặc chỉ số thay tương đương;
-  - quy tắc API hoặc chính sách loại thể chế nhỏ hơn khỏi khung ưu tiên hoặc hồ nhà cung.
-- **Đánh giá phải thử:**
-  - Liệu cò trọng yếu **Điều V-B** (*Không phân biệt đối xử*) áp — kể cả nơi thuật toán phối hợp xếp có trọng nhân sự, nhà cung, hoặc thể chế;
-  - liệu địa lý lịch, chỉ số thay thâm niên, «điểm sẵn có», hoặc logic xếp nhà cung chất gánh lệch lên nhóm được bảo vệ không biện minh đánh giá được;
-  - liệu quy tắc trung lập bề mặt sản thiếu công bằng nội dung qua giờ ca, gánh đi lại, hoặc loại khỏi đặt giá trị cao;
-  - liệu người vận hành coi nền tảng dưới rà vì nó **Class C** trong khi hiệu ứng phối hợp cổng có trọng việc làm, giáo dục, hoặc lối vào dịch vụ công; và
-  - liệu **theo dõi tái phân hạng** có đòi nơi nền tảng trở thành cổ chai thực tế cho nhân sự thiết yếu sống còn hoặc định tuyến khẩn.
-- **Hồ sơ phải cho thấy:**
-  - Liệu và vì sao cò **Điều V-B** (*Không phân biệt đối xử*) áp;
-  - phạm vi đánh giá cho đường xếp hạng, gán, và loại tương xứng với rủi ro phối hợp **Class C**;
-  - phát hiện đặc điểm được bảo vệ, chỉ số thay, và công bằng nội dung nơi có trọng — không khẳng định trống rằng không ai bị xếp;
-  - phát hiện tập trung và cổ chai nơi hiệu ứng lịch báo trước leo;
-  - **theo dõi tái phân hạng** rõ nơi phụ thuộc mạnh lên; và
-  - con trỏ tới rà không phân biệt đối xử nâng nếu lớp, định tuyến thanh toán, hoặc vai phối hợp thiết yếu sống còn đổi.
-
-**Đọc xuyên lớp.** Cùng kỷ luật không phân biệt đối xử **Điều V-B** (*Không phân biệt đối xử*) và Chương Năm áp nơi cò trọng yếu được thỏa; lớp đổi độ sâu đánh giá, không phép coi xếp hạng hoặc dịch gánh là vô trọng. Một hệ thống nước **Class A** mà quy tắc cắt hoặc thông báo có thể khóa nước an toàn phải mang trên hồ sơ phân tích gánh-và-lợi và chỉ số thay mạnh nhất — không tuyên «thực hành tốt tiện ích» chung. Một trao đổi **Class B** mà logic khớp hoặc định tuyến ảnh hưởng chăm sóc khẩn, lợi ích, hoặc lối vào giấy thông hành phải ghi phát hiện tác động lệch và công bằng nội dung ở độ then chốt vận hành. Một nền tảng lịch **Class C** không được giữ đoạn công bằng hình thức trong khi logic ca, nhà cung, hoặc đặt chỗ xếp hạng hoặc loại có trọng người tham gia; khi phối hợp trở thành thiết yếu sống còn, chứng nhận phải nâng rà và tái phân hạng dưới [§2](#2-system-class-evaluation) và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), kể cả lên **Class A** nơi nhân sự hoặc định tuyến khẩn bị cổng. Đi qua khả năng tiếp cận cho cùng hệ thống nằm ở [§8.1](#81-illustrative-accessibility-application-by-class).
-
-<a id="8-accessibility-evaluation"></a>
-
-### 8. Đánh giá khả năng tiếp cận
+#### 5.1 Đánh giá Dấu chân sinh thái
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); Gia đình đo lường Tham gia (*Khả năng tiếp cận như đo lường hiến pháp*); **Điều V-G** (*Khả năng tiếp cận*); [Khả năng tiếp cận](core_05_band_participation.md#accessibility-constitutional), [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination), [Phụ thuộc](core_05_band_continuity.md#dependency), [Quyền năng có ý nghĩa](core_05_band_participation.md#meaningful-agency), [Đặc điểm được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional), [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional), [Sự cần thiết](core_05_band_accountability.md#necessity), và [Tính tương xứng](core_05_band_accountability.md#proportionality) (Chương Năm).
-- Hạ nguồn: [§8.1](#81-illustrative-accessibility-application-by-class) (*đi qua khả năng tiếp cận minh họa*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*lệch lạc khả năng tiếp cận và điều chỉnh chỉ-trên-giấy*).
-- Đọc cùng: **Điều III-B** (*Lối vào giáo dục bình đẳng*) nơi khả năng tiếp cận giáo dục bị liên lụy — khả năng tiếp cận riêng giáo dục vẫn được nắm ở đó; **Điều V-C** (*Bao gồm đầy đủ và bình đẳng trong phân xử và vận hành*) và **Điều XII** (*Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn*) nơi chứng nhận cổng tham gia diễn đàn, hành chính, bên bị ảnh hưởng, hoặc cưỡng chế; [Chương Bảy §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion) (*móc yếu tố đánh giá khả năng tiếp cận cắt ngang*).
-- Tiểu mục: [§8.1](#81-illustrative-accessibility-application-by-class) (*áp dụng khả năng tiếp cận minh họa theo lớp*).
+- Thượng nguồn: [Phần B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); nhóm đo lường tính liên tục (*Dấu chân sinh thái là phép đo hiến pháp*); **Điều I-B** (*Dấu chân sinh thái và Minh bạch*); [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint), [Tác động trọng yếu](core_05_band_oversight.md#material-impact), [Sự phụ thuộc](core_05_band_continuity.md#dependency), [Minh bạch](core_05_band_oversight.md#transparency) và [Tính toàn vẹn nhận thức luận](core_05_band_oversight.md#epistemic-integrity) (Chương Năm); [Điều kiện tiên quyết về môi trường](core_05_band_continuity.md#environmental-preconditions) và [Tính toàn vẹn sinh thái](core_05_band_continuity.md#ecological-integrity) khi có liên quan trọng yếu.
+- Hạ nguồn: [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*các hướng dẫn minh họa Dấu chân sinh thái*); [§5.3](#53-proportionate-cross-system-support-evaluation) và [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*đánh giá và hướng dẫn minh họa hỗ trợ liên hệ thống*); [Phần B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*trình bày sai dấu chân và lệch chuẩn*).
+- Đọc cùng: [corpus_systems.md](corpus_systems.md), [CS-8 — Tính bền vững thích ứng và khả năng phục hồi hệ sinh thái](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) khi phân bổ thích ứng hoặc sự phụ thuộc lẫn nhau trong hệ sinh thái thuộc phạm vi trọng yếu.
+- Các tiểu mục: [§5.1.1](#511-scope-and-governing-rules) (*phạm vi và quy tắc điều chỉnh*); [§5.1.2](#512-evaluation-requirement) (*yêu cầu đánh giá*); [§5.1.3](#513-system-class-scaling-and-escalation) (*phân cấp và nâng mức theo lớp hệ thống*); [§5.1.4](#514-defects-and-misalignment) (*khiếm khuyết và lệch chuẩn*); [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*áp dụng minh họa Dấu chân sinh thái theo lớp hệ thống*).
 
 </details>
 
 <br>
 
-*Nói thẳng: khi một hệ thống kiểm có trọng liệu hữu tri có thực sự tham gia được — không chỉ liệu một cửa gắn nhãn «mở» — chứng nhận phải kiểm liệu tham gia thật sự tới được xuyên nhu cầu giác quan, nhận thức, vận động, giao tiếp, giao diện nền, và tương đương. Danh mục điều chỉnh và chuẩn giao diện có thể sống ở công cụ khác, bổ sung kho văn bản sau, hoặc công cụ tiếp nhận; chứng nhận kiểm rằng tham gia nội dung thật sự được đánh giá nơi cò áp. Ví dụ đã làm cho các hệ thống minh họa ở [§2.1](#21-illustrative-class-profiles-non-exhaustive) nằm ở [§8.1](#81-illustrative-accessibility-application-by-class).*
+*Nói đơn giản: nếu hệ thống gây thiệt hại thực sự cho môi trường, chứng nhận phải xem xét trung thực thiệt hại đó — kể cả thiệt hại phát sinh qua nhà cung cấp và sau khi hữu tri sử dụng hệ thống. Người rà soát không thể chỉ tin lời người vận hành rằng hệ thống “xanh”. Phần này không giải thích cách đo dấu chân hay mức phải giảm; văn kiện khác quy định việc đó. Phần này chỉ yêu cầu rằng khi thiệt hại đáng kể, phải thực sự xác định phần nào thuộc về hệ thống, công bố và so sánh với phương án thay thế. Ví dụ minh họa: [§5.1.5 Áp dụng minh họa Dấu chân sinh thái theo lớp hệ thống (không bao quát hết)](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).*
 
-**Cò trọng yếu.** Mục này áp nơi một hệ thống có tác động vật chất cổng có trọng tham gia nội dung ở miền hiến pháp liên quan — kể cả quản trị, tham gia bên bị ảnh hưởng, phân xử, vận hành, lối vào sàn sống còn, lối vào chăm sóc sức khỏe, biểu đạt, tụ họp, báo chí, hoặc miền tương đương — qua giao diện, địa điểm, lịch, giấy thông hành, lối vào tính toán, thiết kế điều chỉnh, hoặc đường tham gia tương đương. Nó không đòi kiểm toán khả năng tiếp cận đầy trên mọi hồ sơ chứng nhận. Khả năng tiếp cận giáo dục vẫn do **Điều III-B** (*Lối vào giáo dục bình đẳng*) quản trị và không bị thu hẹp ở đây.
+<a id="511-scope-and-governing-rules"></a>
+##### 5.1.1 Phạm vi và Quy tắc điều chỉnh
 
-Chứng nhận thẳng hàng hệ thống phải đánh giá **khả năng tiếp cận** dưới **Điều V-G** (*Khả năng tiếp cận*) và [Khả năng tiếp cận](core_05_band_participation.md#accessibility-constitutional) nơi cò trọng yếu áp. Nghĩa chuẩn, yếu tố đánh giá, và kỷ luật không tuân sống ở Chương Năm và **Điều V-G** (*Khả năng tiếp cận*); danh mục điều chỉnh, chuẩn giao diện, đặc tả thiết kế phổ quát, và cơ học điều chỉnh vận hành sống ở công cụ hợp nhất nơi áp. Mục này nêu điều chứng nhận phải xác minh và ghi; nó không nêu lại cơ học vận hành đó hay kê danh mục điều chỉnh cụ thể hoặc đặc tả thiết kế phổ quát.
+Chứng nhận thẳng hàng hệ thống phải đánh giá **Dấu chân sinh thái** trong mọi hồ sơ chứng nhận có tác động trọng yếu, khi gánh nặng môi trường có thể quy thuộc là trọng yếu theo [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) và **Điều I-B** (*Dấu chân sinh thái và Minh bạch*).
 
-**Yêu cầu đánh giá.** Một quy trình chứng nhận phải xác định liệu hữu tri có tham gia nội dung được các miền hiến pháp liên quan mà hệ thống cổng có trọng — không chỉ liệu tiện nghi hình thức, giao diện mặc định, hoặc điều chỉnh giấy tờ có tồn tại. Đánh giá phải thử hiệu ứng tham gia nội dung dưới [Khả năng tiếp cận](core_05_band_participation.md#accessibility-constitutional), chia tỷ lệ theo [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) và [Phụ thuộc](core_05_band_continuity.md#dependency), và phải phát hiện điều chỉnh chỉ-trên-giấy, mẫu «lối vào chung» dựa vào tiện nghi mặc định mà không sản năng lực tham gia, lập luận trọng yếu chọn lọc dùng để co phạm vi điều chỉnh, loại trái [Không loại trừ hữu tri](core_05_band_participation.md#sentience-non-exclusion), và thiết kế chống từ chối-qua-chỉ-số-thay qua lịch, chọn địa điểm, cấp giấy thông hành, lối vào tính toán, hoặc cơ học tương đương. Đánh giá phải áp [Đặc điểm được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional) và [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) vào logic thiết kế điều chỉnh. Mọi giới hạn phải thỏa [Sự cần thiết](core_05_band_accountability.md#necessity), [Tính tương xứng](core_05_band_accountability.md#proportionality), và [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional) đã ghi.
+<a id="512-evaluation-requirement"></a>
+##### 5.1.2 Yêu cầu Đánh giá
 
-**Yêu cầu hồ sơ.** Hồ sơ chứng nhận phải nêu cò trọng yếu **Điều V-G** (*Khả năng tiếp cận*) được dựa, phạm vi đánh giá cho đường tham gia được dựa có trọng, phát hiện tham gia nội dung và điều chỉnh, phát hiện chống từ chối-qua-chỉ-số-thay nơi có trọng, bất định, phát hiện diễn đàn hữu tri hoặc thành phần được gán khác nơi đòi, và mọi điều kiện, giới hạn dựa, hoặc cò mở lại gắn rào tham gia bền.
+Quy trình chứng nhận phải xác định liệu các dòng môi trường có thể quy thuộc — năng lượng, vật liệu, phát thải, chất lượng không khí, chất lượng nước, lượng nước sử dụng, sử dụng đất và gánh nặng liên quan — có được:
 
-**Chia tỷ lệ chung với lớp hệ thống.** Độ sâu đánh giá khả năng tiếp cận phải chia tỷ lệ theo lớp hệ thống được gán dưới [§2](#2-system-class-evaluation) và [lợi hại vật chất](core_00_preamble.md#material-stake). Hệ thống lớp cao hơn cổng có trọng tham gia hiến pháp liên quan đòi chứng tương xứng mạnh hơn rằng khả năng tiếp cận nội dung đã được đánh giá chứ không khẳng định.
+- nhận diện trong toàn bộ vòng đời có liên quan trọng yếu của hệ thống và các quan hệ [Sự phụ thuộc](core_05_band_continuity.md#dependency);
+- đánh giá theo [Tác động trọng yếu](core_05_band_oversight.md#material-impact); và
+- chỉ công bố hoặc không công bố trong phạm vi được [Minh bạch](core_05_band_oversight.md#transparency), [Tính toàn vẹn nhận thức luận](core_05_band_oversight.md#epistemic-integrity) và nghĩa vụ minh bạch áp dụng cho phép.
 
-**Khiếm khuyết và lệch lạc.** Coi tiện nghi hình thức, giao diện mặc định, hoặc điều chỉnh giấy tờ là đủ không có phân tích tham gia nội dung đánh giá được; chứng nhận tiếp tục dựa trong khi rào tham gia đã ghi đe dọa có trọng thẳng hàng hiến pháp; dùng khung chi phí, lựa chọn thiết kế, lớp nền, hoặc quy mô vận hành để đánh bại sàn tham gia mà không thỏa phép thử **Sự cần thiết** và **Tính tương xứng** của **Điều V-G** (*Khả năng tiếp cận*); hoặc thiết kế vận hành có hiệu ứng đánh bại khả năng tiếp cận nơi một lựa chọn ít gánh hơn khả thi phải được coi là khiếm khuyết chứng nhận. Chúng có thể nâng công nhận có điều kiện, công nhận bị hoãn, không công nhận, rút, hoặc mở lại dưới [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Đánh giá phải phản ánh tác động chức năng và ranh giới hệ thống, không chỉ phạm vi danh nghĩa, nhãn tiếp thị hoặc cách đóng khung vòng đời một phần.
 
-<a id="81-illustrative-accessibility-application-by-class"></a>
+Khi khả thi, người rà soát phải so sánh tác hại môi trường đáng kể của hệ thống với các phương án thay thế thực tế. Họ cũng phải kiểm tra xem các tác hại ấy có bị che giấu bằng cách:
 
-<a id="81-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-#### 8.1 Áp dụng khả năng tiếp cận minh họa theo lớp (không hết)
+- **vạch ranh giới quá hẹp** — đặt ranh giới hệ thống để tác động xấu nhất nằm ngoài đó;
+- **chuyển gánh nặng đi nơi khác** — đẩy công việc gây hại sang nhà cung cấp hoặc đối tác để không bị tính là của hệ thống; hoặc
+- **chỉ chia sẻ tin tốt** — báo cáo số liệu thuận lợi và bỏ qua số liệu bất lợi.
 
-*Nói thẳng: [§3.8](#38-illustrative-whole-system-application-by-class) đến [§7.1](#71-illustrative-nondiscrimination-application-by-class) đi cùng ba hệ thống qua miền đánh giá trước. Tiểu mục này cho thấy đánh giá **khả năng tiếp cận** nghĩa gì cho từng cái — đường tham gia nào được tính, chứng nhận phải kiểm gì khi cò trọng yếu **Điều V-G** (*Khả năng tiếp cận*) áp, và điều phải xuất hiện trên hồ sơ. Chương Năm và **Điều V-G** (*Khả năng tiếp cận*) vẫn nắm quy tắc khả năng tiếp cận chuẩn; danh mục điều chỉnh, chuẩn giao diện, và đặc tả thiết kế phổ quát có thể sống ở công cụ khác, bổ sung kho văn bản sau, hoặc công cụ tiếp nhận; những đi qua này không kê cơ học đó. Khả năng tiếp cận giáo dục vẫn do **Điều III-B** (*Lối vào giáo dục bình đẳng*) nắm và không bị thu hẹp ở đây.*
+<a id="513-system-class-scaling-and-escalation"></a>
+##### 5.1.3 Phân cấp và Nâng mức theo Lớp Hệ thống
 
-**Class A — điều khiển và đo xa nước uống an toàn của đô thị.** Một hệ thống xử lý-và-phân phối thuộc thành phố cổng lối vào sàn sống còn qua cổng thanh toán, kênh thông báo sự cố, yêu cầu nối lại, cảnh báo đun sôi nước, và đường dịch vụ khách quyết liệu hữu tri có biết, tranh biện, hoặc khôi nước an toàn.
+Lớp hệ thống quyết định phải truy vết tác hại môi trường sâu đến đâu và cần mức độ so sánh nào. Đây không bao giờ là cách né tránh xem xét tác hại đáng kể.
 
-- **Đường tham gia trong phạm vi:**
-  - Cổng thanh toán và kế hoạch trả;
-  - kênh cảnh báo sự cố và nhiễm (thoại, tin, web, trực tiếp, hoặc đường nhà cung ủy);
-  - giao diện nối lại và yêu cầu khó khăn;
-  - lựa chọn ngôn ngữ và định dạng cho thông báo an toàn;
-  - cổng giấy thông hành hoặc danh tính cho lối vào tài khoản;
-  - yêu cầu tính toán, thiết bị, hoặc địa điểm để nộp tranh biện hoặc nhận cảnh báo.
-- **Đánh giá phải thử:**
-  - Liệu hữu tri có nhận nội dung thông báo then chốt sống còn và hoàn đường nối lại hoặc khó khăn xuyên hồ sơ giác quan, nhận thức, vận động, giao tiếp, và giao diện nền — không phải liệu một mẫu web mặc định tồn tại;
-  - liệu điều chỉnh chỉ-trên-giấy, «gọi trong giờ làm», hoặc mặc định chỉ-tiếng-Anh đánh bại tham gia nơi lựa chọn ít gánh hơn khả thi;
-  - liệu thiết kế lịch, địa điểm, giấy thông hành, hoặc tính toán vận hành như từ chối-qua-chỉ-số-thay;
-  - liệu [Đặc điểm được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional) và [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) đã được áp vào logic thiết kế điều chỉnh; và
-  - liệu mọi giới hạn thỏa [Sự cần thiết](core_05_band_accountability.md#necessity), [Tính tương xứng](core_05_band_accountability.md#proportionality), và [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional) đã ghi.
-- **Hồ sơ phải cho thấy:**
-  - Cò trọng yếu **Điều V-G** (*Khả năng tiếp cận*) được dựa;
-  - phạm vi đánh giá cho đường thông báo, thanh toán, nối lại, và tranh biện được dựa có trọng;
-  - phát hiện tham gia nội dung và điều chỉnh ở độ sâu **Class A**;
-  - phát hiện chống từ chối-qua-chỉ-số-thay nơi có trọng;
-  - bất định;
-  - phát hiện diễn đàn hữu tri hoặc thành phần khác nơi đòi; và
-  - điều kiện hoặc cò mở lại gắn rào bền nơi thiết yếu sống còn bị cổng.
+- Không được hạ lớp hệ thống khi việc khai thác nước, xả ô nhiễm, sử dụng năng lượng hoặc gánh nặng tương tự vẫn chỉ được tính một phần — nhất là khi chúng ảnh hưởng đến việc cung cấp thứ hữu tri cần để sinh tồn, chẳng hạn nước an toàn.
+- Nếu hệ thống phát triển (tải lớn hơn hoặc hoạt động lưu trữ tập trung hơn ở một nơi) và tác hại môi trường tăng đáng kể, việc rà soát cũng phải mở rộng theo. Khi việc cung cấp nhu yếu phẩm sinh tồn của hệ thống và gánh nặng từ các nguồn của nó cùng liên quan, có thể cần rà soát đến chiều sâu **Class A**.
+- Nếu hệ thống trở thành nút thắt mà hữu tri phụ thuộc vào để phối hợp thiết yếu cho sinh tồn, không thể chỉ nộp hồ sơ dấu chân mang tính hình thức vì người vận hành gọi nó là “không trọng yếu”.
 
-**Class B — trao đổi hồ sơ lâm sàng vùng.** Một trao đổi thông tin sức khỏe và cổng người tham gia của nó cổng lối vào chăm sóc sức khỏe hàng ngày qua cổng bệnh nhân, giao diện đồng thuận, danh bạ nhà cung, luồng break-glass, và công cụ gia nhập phòng khám quyết liệu bệnh nhân và nhà cung nhỏ hơn có thực sự dùng được trao đổi.
+<a id="514-defects-and-misalignment"></a>
+##### 5.1.4 Khiếm khuyết và Lệch chuẩn
 
-- **Đường tham gia trong phạm vi:**
-  - Cổng bệnh nhân và giao diện đồng thuận;
-  - công cụ danh bạ nhà cung và đặt chuyển;
-  - luồng break-glass và lối vào khẩn;
-  - giao diện gia nhập và cấp giấy thông hành phòng khám;
-  - hỗ trợ ngôn ngữ, định dạng, và công nghệ trợ giúp cho tóm tắt lâm sàng và công bố;
-  - yêu cầu tính toán hoặc thiết bị để xem, tranh biện, hoặc sửa hồ sơ.
-- **Đánh giá phải thử:**
-  - Liệu bệnh nhân và phòng khám tham gia có dùng nội dung đường đồng thuận, lối vào, sửa, và khẩn — không phải liệu một cổng gắn nhãn tiếp cận được;
-  - liệu giao diện mặc định ưu tiên người dùng nhìn được, máy bàn, băng thông cao, hoặc tiếng Anh làm ngôn ngữ chính mà không sản năng lực tham gia cho người khác;
-  - liệu thiết kế giấy thông hành, lịch, hoặc địa điểm loại phòng khám nông thôn, bệnh nhân thiểu số ngôn ngữ, hoặc hữu tri cần định dạng thay;
-  - liệu độ sâu đánh giá khớp độ then chốt vận hành **Class B** nơi trao đổi cổng lối vào chăm sóc sức khỏe; và
-  - liệu điều chỉnh giấy tờ hoặc tuyên «danh sách kiểm tuân thủ» gộp đã được coi đủ không có phân tích tham gia nội dung đánh giá được.
-- **Hồ sơ phải cho thấy:**
-  - Cò và phạm vi đường **Điều V-G** (*Khả năng tiếp cận*);
-  - phát hiện tham gia nội dung và điều chỉnh cho đường bệnh nhân và phòng khám;
-  - phát hiện chống từ chối-qua-chỉ-số-thay nơi có trọng;
-  - bất định và phát hiện thành phần nơi đòi; và
-  - cò mở lại nếu rào cổng hoặc đồng thuận giờ sẽ chặn chăm sóc khẩn trong khung thời gian liên quan sống còn hoặc đánh bại có trọng sự dựa vận hành hàng ngày.
+Mỗi việc sau đây được tính là khiếm khuyết chứng nhận:
 
-**Class C — nền tảng lịch và phối hợp thể chế.** Một lớp lịch đa tổ chức cổng tham gia bên bị ảnh hưởng và tham gia vận hành qua giao diện nhận ca, công cụ đặt phòng, cổng nhà cung, và bảng điều khiển thể chế — ngay khi nền tảng không tự là tiện ích then chốt sống còn.
+- che giấu, trình bày sai, chia nhỏ hoặc chuyển giao thông tin dấu chân quan trọng mà quy tắc chứng nhận hoặc **Điều I-B** (*Dấu chân sinh thái và Minh bạch*) yêu cầu công bố;
+- chỉ rà soát những phần vòng đời hệ thống mà người vận hành chọn trình bày, khi cần góc nhìn rộng hơn; và
+- chấp nhận tuyên bố về dấu chân chỉ dựa trên lời người vận hành, không có bằng chứng có thể kiểm tra.
 
-- **Đường tham gia trong phạm vi:**
-  - Giao diện nhận ca và trực;
-  - công cụ đặt phòng, thiết bị, và địa điểm;
-  - cổng nhà cung và mua sắm;
-  - bảng vai thể chế và giấy thông hành;
-  - đường di động, máy bàn, và công nghệ trợ giúp để nhận hoặc tranh biện phân công;
-  - lựa chọn ngôn ngữ và định dạng cho thông báo lịch.
-- **Đánh giá phải thử:**
-  - Liệu cò trọng yếu **Điều V-G** (*Khả năng tiếp cận*) áp — kể cả nơi UI phối hợp cổng có trọng việc làm, giáo dục, tham gia bên bị ảnh hưởng, hoặc tham gia diễn đàn;
-  - liệu giao diện mặc định sản tham gia nội dung xuyên hồ sơ giác quan, nhận thức, vận động, giao tiếp, và giao diện nền;
-  - liệu giờ lịch, chọn địa điểm, cổng giấy thông hành, hoặc yêu cầu tính toán vận hành như từ chối-qua-chỉ-số-thay;
-  - liệu người vận hành coi nền tảng dưới rà vì nó **Class C** trong khi hiệu ứng phối hợp cổng có trọng tham gia hiến pháp liên quan; và
-  - liệu **theo dõi tái phân hạng** có đòi nơi nền tảng trở thành cổ chai thực tế cho nhân sự thiết yếu sống còn hoặc định tuyến khẩn.
-- **Hồ sơ phải cho thấy:**
-  - Liệu và vì sao cò **Điều V-G** (*Khả năng tiếp cận*) áp;
-  - phạm vi đánh giá cho đường lịch, đặt, và cổng tương xứng với rủi ro phối hợp **Class C**;
-  - phát hiện tham gia nội dung và điều chỉnh nơi có trọng — không khẳng định trống rằng UI «chuẩn»;
-  - phát hiện tập trung và cổ chai nơi hiệu ứng lịch báo trước leo;
-  - **theo dõi tái phân hạng** rõ nơi phụ thuộc mạnh lên; và
-  - con trỏ tới rà khả năng tiếp cận nâng nếu lớp hoặc vai phối hợp thiết yếu sống còn đổi.
 
-**Đọc xuyên lớp.** Cùng kỷ luật khả năng tiếp cận **Điều V-G** (*Khả năng tiếp cận*) và Chương Năm áp nơi cò trọng yếu được thỏa; lớp đổi độ sâu đánh giá, không phép coi điều chỉnh giấy tờ hoặc giao diện mặc định là đủ. Một hệ thống nước **Class A** mà đường thanh toán hoặc sự cố có thể khóa nước an toàn phải mang trên hồ sơ chứng tham gia nội dung mạnh nhất — không tuyên khả năng tiếp cận chung. Một trao đổi **Class B** mà các cổng khóa lối vào chăm sóc sức khỏe phải ghi phát hiện điều chỉnh và chống từ chối-qua-chỉ-số-thay ở độ then chốt vận hành. Một nền tảng lịch **Class C** không được giữ đoạn khả năng tiếp cận hình thức trong khi UI ca, đặt chỗ, hoặc nhà cung loại có trọng người tham gia; khi phối hợp trở thành thiết yếu sống còn, chứng nhận phải nâng rà và tái phân hạng dưới [§2](#2-system-class-evaluation) và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), kể cả lên **Class A** nơi nhân sự hoặc định tuyến khẩn bị cổng. Đi qua năng lực giáo dục cho cùng hệ thống nằm ở [§9.1](#91-illustrative-educational-capability-application-by-class).
+<a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
-<a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
-
-### 9. Đánh giá năng lực giáo dục và tính toàn vẹn hệ thống học
+#### 5.2 Đánh giá năng lực giáo dục và tính toàn vẹn của hệ thống học tập
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); Gia đình đo lường Tham gia (*Quyền năng giáo dục như đo lường hiến pháp*); **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*); [Quyền năng giáo dục](core_05_band_participation.md#educational-agency), [Quyền năng có ý nghĩa](core_05_band_participation.md#meaningful-agency), [Khóa-trong hệ thống](core_05_band_continuity.md#systemic-lock-in), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Minh bạch](core_05_band_oversight.md#transparency), [Khả năng kiểm toán](core_05_band_oversight.md#auditability), [Cưỡng và thao túng](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination), và [Phụ thuộc](core_05_band_continuity.md#dependency) (Chương Năm).
-- Hạ nguồn: [§9.1](#91-illustrative-educational-capability-application-by-class) (*đi qua năng lực giáo dục minh họa*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*lệch lạc mờ đánh giá, gác cổng chứng chỉ, và lệch lạc lỗi thời bị áp*).
-- Đọc cùng: **Điều III-B** (*Lối vào giáo dục bình đẳng*) nơi lối vào bình đẳng hoặc khả năng tiếp cận giáo dục bị kéo — lối vào bình đẳng và khả năng tiếp cận giáo dục vẫn được nắm ở đó; **Điều V-B** (*Không phân biệt đối xử*) và [§7](#7-nondiscrimination-evaluation) nơi mẫu xếp hạng hoặc đặt chỗ chất gánh đặc điểm được bảo vệ; **Điều X-A** (*Quyền năng và tự do khỏi thao túng*) nơi thiết kế học cưỡng hoặc thao túng bị kéo có trọng; [Chương Một §9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*hiểu biết phân tán và xây năng lực — đọc cùng*).
-- Tiểu mục: [§9.1](#91-illustrative-educational-capability-application-by-class) (*áp dụng năng lực giáo dục minh họa theo lớp*).
+- Thượng nguồn: [Phần B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); nhóm đo lường sự tham gia (*Năng lực giáo dục là phép đo hiến pháp*); **Điều IV** (*Quyền được giáo dục lấy hữu tri làm trung tâm*); [Năng lực giáo dục](core_05_band_participation.md#educational-agency), [Năng lực chủ động có ý nghĩa](core_05_band_participation.md#meaningful-agency), [Khóa chặt hệ thống](core_05_band_continuity.md#systemic-lock-in), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Minh bạch](core_05_band_oversight.md#transparency), [Khả năng kiểm toán](core_05_band_oversight.md#auditability), [Cưỡng ép và Thao túng](core_05_band_participation.md#coercion-and-manipulation), [Tính trọng yếu](core_05_band_oversight.md#materiality) và [Sự phụ thuộc](core_05_band_continuity.md#dependency) (Chương Năm).
+- Hạ nguồn: [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*các hướng dẫn minh họa năng lực giáo dục*); [Phần B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*lệch chuẩn do đánh giá thiếu minh bạch, chặn bằng chứng chỉ và làm kỹ năng lỗi thời bắt buộc*).
+- Đọc cùng: khi có vấn đề về tiếp cận bình đẳng hoặc khả năng tiếp cận giáo dục, **Điều IV-A** (*Tiếp cận giáo dục bình đẳng*) — trách nhiệm về tiếp cận bình đẳng và khả năng tiếp cận giáo dục vẫn thuộc điều đó; khi kiểu xếp hạng hoặc bố trí đặt gánh nặng lên đặc điểm được bảo vệ, **Điều VI-C** (*Không phân biệt đối xử*) và [§5.4](#54-nondiscrimination-evaluation); khi thiết kế học tập cưỡng ép hoặc thao túng có liên quan trọng yếu, **Điều X-A** (*Năng lực chủ động và Tự do khỏi Thao túng*); [Chương Một §16 Trách nhiệm quản trị chuyên sâu](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (*đọc cùng với hiểu biết phân tán và xây dựng năng lực*).
+- Các tiểu mục: [§5.2.1](#521-materiality-trigger-and-governing-rules) (*điều kiện kích hoạt tính trọng yếu và quy tắc điều chỉnh*); [§5.2.2](#522-evaluation-requirement) (*yêu cầu đánh giá*); [§5.2.3](#523-system-class-scaling-and-escalation) (*phân cấp và nâng mức theo lớp hệ thống*); [§5.2.4](#524-defects-and-misalignment) (*khiếm khuyết và lệch chuẩn*); [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*áp dụng minh họa năng lực giáo dục theo lớp hệ thống*).
 
 </details>
 
 <br>
 
-*Nói thẳng: khi một trường, nền tảng, hoặc hệ thống đào tạo có thể ảnh hưởng nghiêm tương lai của một hữu tri — qua điểm, xếp hạng, khuyến nghị, đặt chỗ, hoặc cổng chứng chỉ — chứng nhận phải kiểm liệu hữu tri thật sự xây được năng lực, đào tạo lại khi năng lực đổi, và thấy, kiểm toán, và tranh những quyết đó. Chương trình, rubrik, và mô hình tài trợ sống ở công cụ khác; chứng nhận kiểm rằng nội dung xây năng lực và tính toàn vẹn hệ thống học thật sự được đánh giá nơi cò áp. Ví dụ đã làm cho các hệ thống minh họa ở [§2.1](#21-illustrative-class-profiles-non-exhaustive) nằm ở [§9.1](#91-illustrative-educational-capability-application-by-class).*
+*Nói đơn giản: một số trường học, nền tảng và hệ thống đào tạo có thể định hình tương lai của hữu tri thông qua điểm số, xếp hạng, đề xuất, bố trí hoặc chứng chỉ mở hay đóng các cánh cửa. Khi đó, chứng nhận phải kiểm tra ba điều: hữu tri có thực sự xây dựng được kỹ năng thực chất ở đó không; họ có thể đào tạo lại khi kỹ năng thế giới cần thay đổi không; và họ có thể biết quyết định về mình được đưa ra thế nào, kiểm tra các quyết định ấy và phản đối chúng không. Phần này không quy định dạy gì, chấm điểm ra sao hay trả chi phí thế nào; văn kiện khác phụ trách các vấn đề đó. Phần này chỉ kiểm tra rằng việc xây dựng kỹ năng và tính công bằng của hệ thống học tập đã thực sự được xem xét khi nó áp dụng. Ví dụ minh họa: [§5.2.5 Áp dụng minh họa năng lực giáo dục theo lớp hệ thống (không bao quát hết)](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
 
-**Cò trọng yếu.** Mục này áp nơi một hệ thống có tác động vật chất xếp hạng, đánh giá, khuyến nghị, đặt chỗ, hoặc cổng-chứng-chỉ hữu tri có trọng trong ngữ cảnh giáo dục hoặc đào tạo — kể cả qua cho điểm, đặt chỗ, tuyển sinh, cấp phép, khuyến nghị khóa, định tuyến học thích nghi, hoặc đường quyết định tương đương — hoặc cổng có trọng đường giáo dục liên tục, đào tạo lại, hoặc hỗ trợ chuyển nơi tiến hóa hệ thống đã đổi có trọng năng lực đòi. Nó không đòi kiểm toán năng lực giáo dục đầy trên mọi hồ sơ chứng nhận. Lối vào bình đẳng và khả năng tiếp cận giáo dục vẫn do **Điều III-B** (*Lối vào giáo dục bình đẳng*) quản và không bị thu hẹp ở đây.
+<a id="521-materiality-trigger-and-governing-rules"></a>
+##### 5.2.1 Điều kiện Kích hoạt Tính trọng yếu và Quy tắc Điều chỉnh
 
-Chứng nhận thẳng hàng hệ thống phải đánh giá **năng lực giáo dục và tính toàn vẹn hệ thống học** dưới **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*), [Quyền năng giáo dục](core_05_band_participation.md#educational-agency), và **Điều VI-B** (*Học suốt đời và thích nghi và khả năng tranh biện*) nơi cò trọng yếu áp. Nghĩa chuẩn, yếu tố đánh giá, và kỷ luật không tuân sống ở Chương Năm và **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*); chương trình, mục lục chứng chỉ, rubrik đánh giá, và cơ học tài trợ thể chế sống ở công cụ hợp nhất nơi áp. Mục này nêu điều chứng nhận phải xác minh và ghi; nó không nêu lại cơ học vận hành đó hay kê chương trình, định dạng chứng chỉ, hoặc thiết kế đánh giá cụ thể.
+Phần này áp dụng khi một hệ thống có tác động lớn đến đời sống hữu tri thực hiện một trong các việc sau trong giáo dục hoặc đào tạo:
 
-**Yêu cầu đánh giá.** Một quy trình chứng nhận phải xác định liệu đường học và chứng chỉ hệ thống dựa có trọng có sản lối vào xây năng lực thực — không chỉ biểu tượng chứng chỉ — và liệu hữu tri giữ cơ hội đào tạo lại, giáo dục liên tục, và hỗ trợ chuyển dùng được nơi năng lực đòi đổi có trọng. Đánh giá cũng phải thử minh bạch, khả năng kiểm toán, và khả năng tranh biện của logic xếp hạng, đánh giá, khuyến nghị, và đặt chỗ tác động vật chất dưới **Điều VI-B** (*Học suốt đời và thích nghi và khả năng tranh biện*), chia tỷ lệ theo [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) và [Phụ thuộc](core_05_band_continuity.md#dependency). Đánh giá phải phát hiện chỉ số thay mờ hoặc không rà được, gác cổng chứng chỉ đánh bại hình thành năng lực, lỗi thời bị áp hoặc khóa-trong hủy quyền năng, thiết kế học cưỡng hoặc thao túng, và phân đoạn gỡ khả năng tranh biện hoặc thích nghi suốt đời nơi **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) áp chung. Đánh giá phải phản hiệu ứng chức năng, không nhãn lối vào danh nghĩa, ý định sư phạm tuyên, hoặc hình thức chứng chỉ một mình.
+- xếp hạng, đánh giá, đề xuất, bố trí hữu tri một cách đáng kể hoặc làm người gác cổng chứng chỉ — chẳng hạn thông qua chấm điểm, bố trí, tuyển sinh, cấp phép, đề xuất khóa học, điều hướng học tập thích ứng hoặc quyết định tương tự; hoặc
+- kiểm soát đáng kể việc tiếp cận giáo dục thường xuyên, đào tạo lại hay hỗ trợ chuyển đổi, trong trường hợp thay đổi của hệ thống đã làm thay đổi đáng kể những kỹ năng hữu tri cần có.
 
-**Yêu cầu hồ sơ.** Hồ sơ chứng nhận phải nêu cò trọng yếu **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) được dựa, phạm vi đánh giá cho đường xếp hạng, đánh giá, khuyến nghị, đặt chỗ, cổng-chứng-chỉ, và đào tạo lại được dựa có trọng, phát hiện xây năng lực và đường đào tạo lại, phát hiện minh bạch đánh giá và khả năng tranh biện, phát hiện chống chỉ số thay và chống thao túng nơi có trọng, bất định, phát hiện diễn đàn hữu tri hoặc thành phần được gán khác nơi đòi, và mọi điều kiện, giới hạn dựa, hoặc cò mở lại gắn đánh bại năng lực bền, mờ đánh giá, hoặc lỗi thời bị áp.
+Tiếp cận giáo dục bình đẳng và khả năng tiếp cận vẫn thuộc **Điều IV-A** (*Tiếp cận giáo dục bình đẳng*); không điều gì ở đây thu hẹp chúng.
 
-**Chia tỷ lệ chung với lớp hệ thống.** Độ sâu đánh giá năng lực giáo dục và tính toàn vẹn hệ thống học phải chia tỷ lệ theo lớp hệ thống được gán dưới [§2](#2-system-class-evaluation) và [lợi hại vật chất](core_00_preamble.md#material-stake). Hệ thống lớp cao hơn xếp hạng, đánh giá, khuyến nghị, đặt chỗ, hoặc cổng-chứng-chỉ hữu tri có trọng trong ngữ cảnh giáo dục hoặc đào tạo đòi chứng tương xứng mạnh hơn rằng nội dung xây năng lực, lối vào đào tạo lại, và minh bạch hệ thống học đã được đánh giá chứ không khẳng định.
+Khi điều kiện kích hoạt tính trọng yếu áp dụng, chứng nhận phải đánh giá **năng lực giáo dục và tính toàn vẹn của hệ thống học tập** — tức hệ thống có thực sự xây dựng năng lực và đối xử công bằng với hữu tri hay không — theo:
 
-**Khiếm khuyết và lệch lạc.** Che, trình bày sai, mảnh, hoặc đổ logic xếp hạng, đánh giá, khuyến nghị, hoặc đặt chỗ có trọng nơi **Điều VI-B** (*Học suốt đời và thích nghi và khả năng tranh biện*) đòi rà; coi hình thức chứng chỉ, thước hoàn thành gộp, hoặc tự báo người vận hành là đủ không có phân tích xây năng lực đánh giá được; chứng nhận tiếp tục dựa trong khi mờ đánh giá, gác cổng chứng chỉ, lỗi thời bị áp, hoặc thiết kế học thao túng đã ghi đe dọa có trọng thẳng hàng hiến pháp; hoặc dùng khung hiệu suất, cá nhân hóa, hoặc quy mô để đánh bại lối vào đào tạo lại hoặc khả năng tranh biện mà không thỏa kỷ luật xây năng lực của **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) và minh bạch của **Điều VI-B** (*Học suốt đời và thích nghi và khả năng tranh biện*) phải được coi là khiếm khuyết chứng nhận. Chúng có thể nâng công nhận có điều kiện, công nhận bị hoãn, không công nhận, rút, hoặc mở lại dưới [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+- **Điều IV** (*Quyền được giáo dục lấy hữu tri làm trung tâm*);
+- **Điều IV-C** (*Học tập Suốt đời và Thích ứng cùng Khả năng tranh biện*); và
+- [Năng lực giáo dục](core_05_band_participation.md#educational-agency).
 
-<a id="91-illustrative-educational-capability-application-by-class"></a>
+Phần này không đặt quy tắc cho cách thức vận hành giáo dục. Quyết định dạy gì, có những chứng chỉ nào, chấm điểm công việc ra sao và tài trợ trường học thế nào được nêu trong các văn kiện khác có thể được viện dẫn; chứng nhận không chọn chương trình học, định dạng chứng chỉ hay phương pháp chấm điểm.
 
-<a id="91-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-#### 9.1 Áp dụng năng lực giáo dục minh họa theo lớp (không hết)
+<a id="522-evaluation-requirement"></a>
+##### 5.2.2 Yêu cầu Đánh giá
 
-*Nói thẳng: [§3.8](#38-illustrative-whole-system-application-by-class) đến [§8.1](#81-illustrative-accessibility-application-by-class) đi cùng ba hệ thống qua miền đánh giá trước. Tiểu mục này cho thấy đánh giá **năng lực giáo dục và tính toàn vẹn hệ thống học** nghĩa gì cho từng cái — đường xếp hạng, đánh giá, chứng chỉ, và đào tạo lại nào được tính, chứng nhận phải kiểm gì khi cò trọng yếu **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) áp, và điều phải xuất hiện trên hồ sơ. Chương Năm và **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) vẫn nắm quy tắc quyền năng giáo dục và hệ thống học chuẩn; chương trình, mục lục chứng chỉ, rubrik đánh giá, và mô hình tài trợ có thể sống ở công cụ khác, bổ sung kho văn bản sau, hoặc công cụ tiếp nhận; những đi qua này không kê cơ học đó. Lối vào bình đẳng và khả năng tiếp cận giáo dục vẫn được nắm bởi **Điều III-B** (*Lối vào giáo dục bình đẳng*) và không bị thu hẹp ở đây.*
+Chứng nhận phải kiểm tra liệu lộ trình học tập và chứng chỉ mà hữu tri thực sự dựa vào có mang lại cách thức thực chất để xây dựng kỹ năng hay không — chứ không chỉ là chứng chỉ trông đẹp trên giấy — và liệu hữu tri còn có cách khả thi để đào tạo lại, tiếp tục học và vượt qua các giai đoạn chuyển tiếp khi kỹ năng họ cần thay đổi đáng kể hay không.
 
-**Class A — điều khiển và đo xa nước uống an toàn của đô thị.** Một hệ thống xử lý-và-phân phối thuộc thành phố cổng ai được vận hành chức năng nhà máy then chốt sống còn qua cấp phép người vận hành, chứng nhận an toàn, đánh giá năng lực, và quy tắc đào tạo lại giao thức — đường chứng chỉ vai quyết liệu hữu tri có xây và giữ năng lực chạy nước an toàn, và liệu những đánh giá đó có thấy, kiểm toán, và tranh được.
+Người rà soát cũng phải kiểm tra liệu các quyết định xếp hạng, chấm điểm, đề xuất và bố trí của hệ thống có thể được xem xét, kiểm toán và khiếu nghị như **Điều IV-C** (*Học tập Suốt đời và Thích ứng cùng Khả năng tranh biện*) yêu cầu hay không. Mức độ nghiêm ngặt của phép thử phụ thuộc vào mức độ hệ trọng ([Tính trọng yếu](core_05_band_oversight.md#materiality)) và mức hữu tri phụ thuộc vào hệ thống ([Sự phụ thuộc](core_05_band_continuity.md#dependency)).
 
-- **Đường học và chứng chỉ trong phạm vi:**
-  - Cấp phép, gia hạn, và đình chỉ người vận hành;
-  - chứng nhận an toàn và đánh giá năng lực đáp ứng khẩn;
-  - đào tạo lại giao thức và đo xa khi hóa học, logic điều khiển, hoặc yêu cầu quy định đổi;
-  - xếp hạng hoặc đặt vào ca nhà máy, tăng ca, hoặc vai người vận hành chính dựa trên năng lực đã đánh;
-  - đường tranh và đào tạo sửa cho đánh giá trượt hoặc chứng chỉ bị đình.
-- **Đánh giá phải thử:**
-  - Liệu những đường học và chứng chỉ đó sản năng lực thực để vận hành điều khiển nước an toàn — không chỉ biểu tượng chứng chỉ hoặc đếm giấy hoàn thành;
-  - liệu người vận hành giữ đào tạo lại và hỗ trợ chuyển dùng được khi năng lực đòi đổi có trọng;
-  - liệu logic xếp hạng, đánh giá, và cổng-chứng-chỉ minh bạch, kiểm toán được, và tranh biện được dưới **Điều VI-B** (*Học suốt đời và thích nghi và khả năng tranh biện*);
-  - liệu chỉ số thay mờ, gác cổng, hoặc lỗi thời bị áp đánh bại hình thành năng lực cho nhân sự mà năng lực cổng thiết yếu sống còn;
-  - liệu độ sâu đánh giá khớp lợi hại **Class A** nơi người vận hành không đủ năng lực hoặc bị khóa ngoài có thể khóa nước an toàn; và
-  - liệu mọi giới hạn đánh giá thỏa nội dung xây năng lực đã ghi chứ không chỉ ý định sư phạm tuyên.
-- **Hồ sơ phải cho thấy:**
-  - Cò trọng yếu **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) được dựa;
-  - phạm vi đánh giá cho đường cấp phép, đánh giá, cổng-chứng-chỉ, và đào tạo lại được dựa có trọng;
-  - phát hiện xây năng lực và đường đào tạo lại ở độ sâu **Class A**;
-  - phát hiện minh bạch đánh giá và khả năng tranh biện;
-  - phát hiện chống chỉ số thay và chống thao túng nơi có trọng;
-  - bất định;
-  - phát hiện diễn đàn hữu tri hoặc thành phần khác nơi đòi; và
-  - điều kiện hoặc cò mở lại gắn mờ đánh giá bền, gác cổng chứng chỉ, hoặc lỗi thời bị áp nơi vận hành then chốt sống còn bị cổng.
+Người rà soát phải chú ý:
 
-**Class B — trao đổi hồ sơ lâm sàng vùng.** Một trao đổi thông tin sức khỏe và các cổng người tham gia cổng hành nghề lâm sàng và lối vào chăm sóc sức khỏe qua xác minh chứng chỉ nhà lâm sàng, xếp hạng đặc quyền, đặt bệnh viện hoặc phòng khám, đào tạo riêng tư và break-glass, và yêu cầu giáo dục liên tục quyết có trọng ai được hành nghề trên mạng và nhân sự đào tạo lại nhanh thế nào khi quy tắc đổi.
+- điểm số hoặc xếp hạng dựa trên những đại diện thay thế bị che giấu (proxy) mà không ai có thể rà soát;
+- chặn bằng chứng chỉ khiến hữu tri không thực sự học được kỹ năng;
+- làm kỹ năng lỗi thời bắt buộc hoặc khóa chặt, tước đi quyền quyết định của hữu tri đối với lộ trình của chính họ;
+- thiết kế học tập cưỡng ép hoặc thao túng; và
+- phân luồng hữu tri theo cách tước mất khả năng phản đối quyết định hoặc tiếp tục thích ứng của họ, khi **Điều IV** (*Quyền được giáo dục lấy hữu tri làm trung tâm*) cũng áp dụng.
 
-- **Đường học và chứng chỉ trong phạm vi:**
-  - Xác minh chứng chỉ nhà lâm sàng và xếp hạng đặc quyền;
-  - logic đặt bệnh viện, phòng khám, hoặc nội trú gắn trao đổi;
-  - đánh giá đào tạo riêng tư, đồng thuận, và break-glass;
-  - yêu cầu giáo dục liên tục và gia hạn năng lực để tham gia mạng;
-  - khuyến nghị hoặc định tuyến thích nghi vào mô-đun chuyên khoa, đường giáo dục y khoa liên tục, hoặc đào tạo sửa;
-  - đường tranh cho đặc quyền từ chối, đánh giá trượt, hoặc onboarding bị chặn.
-- **Đánh giá phải thử:**
-  - Liệu đường chứng chỉ và đặt chỗ sản năng lực lâm sàng thực và tham gia mạng — không chỉ ô đào tạo HIPAA danh nghĩa hoặc bảng hoàn thành;
-  - liệu nhà lâm sàng và nhân sự HIM giữ đào tạo lại dùng được khi quy tắc đồng thuận, định tuyến, hoặc lối vào khẩn đổi có trọng;
-  - liệu logic xếp hạng, đánh giá, khuyến nghị, và đặt chỗ minh bạch, kiểm toán được, và tranh biện được dưới **Điều VI-B** (*Học suốt đời và thích nghi và khả năng tranh biện*);
-  - liệu chỉ số thay sử dụng, «sức khỏe nghề», hoặc uy tín mờ đánh bại hình thành năng lực hoặc khóa người tham gia vào đường không rà được;
-  - liệu độ sâu đánh giá khớp độ then chốt vận hành **Class B** nơi logic chứng chỉ hoặc đặt chỗ cổng lối vào chăm sóc sức khỏe, việc làm, hoặc hành nghề kề cấp phép; và
-  - liệu khung hiệu suất hoặc cá nhân hóa đã được dùng để đánh bại khả năng tranh biện không có phân tích xây năng lực đánh giá được.
-- **Hồ sơ phải cho thấy:**
-  - Cò và phạm vi đường **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*);
-  - phát hiện xây năng lực và đường đào tạo lại cho đường nhà lâm sàng và phòng khám;
-  - phát hiện minh bạch đánh giá và khả năng tranh biện;
-  - phát hiện chống chỉ số thay và chống thao túng nơi có trọng;
-  - bất định và phát hiện thành phần nơi đòi; và
-  - cò mở lại nếu rào chứng chỉ, đặc quyền, hoặc đào tạo giờ sẽ chặn nhân sự khẩn hoặc hành nghề lâm sàng trong khung thời gian liên quan sống còn hoặc đánh bại có trọng sự dựa vận hành hàng ngày.
+Người rà soát phải căn cứ vào việc hệ thống thực sự làm gì — không phải nhãn tiếp cận, ý định do người thiết kế tuyên bố hay vẻ ngoài đúng quy cách của giấy tờ.
 
-**Class C — nền tảng lịch và phối hợp thể chế.** Một lớp lịch đa tổ chức xếp hạng, khuyến nghị, và phân bổ suất đào tạo, định hướng, giáo dục liên tục, và ưu tiên phát triển nghề xuyên bệnh viện, trường, và cơ quan công — ngay khi nền tảng không tự là tiện ích then chốt sống còn.
+<a id="523-system-class-scaling-and-escalation"></a>
+##### 5.2.3 Phân cấp và Nâng mức theo Lớp Hệ thống
 
-- **Đường học và chứng chỉ trong phạm vi:**
-  - Đặt suất đào tạo và định hướng;
-  - xếp hạng hoặc khuyến nghị giáo dục liên tục và phát triển nghề;
-  - khớp khóa, đoàn, hoặc giảng viên;
-  - nhắc hết hạn chứng chỉ gắn đủ điều kiện lịch;
-  - đặc trưng dẫn định tuyến nhân sự vào đường cao cấp hoặc sửa;
-  - quy tắc API hoặc chính sách loại cơ sở nhỏ khỏi công suất đào tạo ưu tiên.
-- **Đánh giá phải thử:**
-  - Liệu cò trọng yếu **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) áp — kể cả nơi thuật toán phối hợp khuyến nghị có trọng khóa, xếp hạng lối vào phát triển nghề, hoặc cổng suất đào tạo định hình đường chứng chỉ hoặc sự nghiệp;
-  - liệu khuyến nghị và phân suất sản lối vào xây năng lực chứ không biểu tượng chứng chỉ;
-  - liệu logic đánh giá, xếp hạng, hoặc khuyến nghị minh bạch, kiểm toán được, và tranh biện được;
-  - liệu người vận hành coi nền tảng dưới rà vì nó **Class C** trong khi hiệu ứng định tuyến đào tạo định hình có trọng việc làm, giáo dục, hoặc đường cấp phép; và
-  - liệu **theo dõi tái phân hạng** có đòi nơi nền tảng trở thành cần vận hành cho việc làm, đặc quyền lâm sàng, hoặc chứng chỉ nhân sự thiết yếu sống còn.
-- **Hồ sơ phải cho thấy:**
-  - Liệu và vì sao cò **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) áp;
-  - phạm vi đánh giá cho đường xếp hạng, khuyến nghị, đặt chỗ, và đào tạo lại tương xứng với rủi ro phối hợp **Class C**;
-  - phát hiện xây năng lực, minh bạch, và khả năng tranh biện nơi có trọng — không khẳng định trống rằng đào tạo «tùy chọn»;
-  - phát hiện tập trung và cổ chai nơi hiệu ứng định tuyến đào tạo báo trước leo;
-  - **theo dõi tái phân hạng** rõ nơi phụ thuộc mạnh lên; và
-  - con trỏ tới rà năng lực giáo dục nâng nếu lớp hoặc vai phối hợp thiết yếu sống còn đổi.
+Độ sâu rà soát phụ thuộc vào lớp của hệ thống. Bất cứ khi nào điều kiện kích hoạt tính trọng yếu được đáp ứng:
 
-**Đọc xuyên lớp.** Cùng kỷ luật năng lực giáo dục **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) và Chương Năm áp nơi cò trọng yếu được thỏa; lớp đổi độ sâu đánh giá, không phép coi hình thức chứng chỉ hoặc đánh giá mờ là đủ. Một hệ thống nước **Class A** mà cấp phép người vận hành hoặc đánh giá an toàn có thể khóa vận hành nhà máy an toàn phải mang trên hồ sơ chứng xây năng lực, đào tạo lại, và khả năng tranh biện mạnh nhất — không tuyên chính sách đào tạo chung. Một trao đổi **Class B** mà logic đặc quyền, đặt chỗ, hoặc giáo dục y khoa liên tục cổng hành nghề lâm sàng phải ghi minh bạch đánh giá và lối vào đào tạo lại ở độ then chốt vận hành. Một nền tảng lịch **Class C** không được giữ đoạn giáo dục hình thức trong khi logic suất đào tạo, khuyến nghị, hoặc định tuyến chứng chỉ xếp hạng hoặc loại có trọng người tham gia; khi phối hợp trở thành cần vận hành cho việc làm hoặc cấp phép, chứng nhận phải nâng rà và tái phân hạng dưới [§2](#2-system-class-evaluation) và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), kể cả lên **Class A** nơi chứng chỉ nhân sự thiết yếu sống còn bị cổng. Đi qua đáng tin cậy cho cùng hệ thống nằm ở [§10.1](#101-illustrative-trustworthiness-application-by-class).
+- Nếu hệ thống kiểm tra hoặc cấp phép cho người vận hành hạ tầng mà hữu tri cần để sinh tồn, và quyết định của hệ thống có thể ngăn hạ tầng đó vận hành an toàn, hồ sơ phải thể hiện bằng chứng mạnh nhất rằng hệ thống xây dựng kỹ năng thực chất, cung cấp đào tạo lại và có thể bị khiếu nghị. Chính sách đào tạo chung là không đủ.
+- Nếu đặc quyền, việc bố trí hoặc quy tắc giáo dục thường xuyên của hệ thống quyết định ai được làm công việc lâm sàng, hồ sơ phải cho thấy cách kiểm tra các đánh giá và cách hữu tri có thể đào tạo lại. Công việc càng trọng yếu thì cần càng nhiều chi tiết.
+- Một đoạn ngắn về giáo dục không đủ khi logic phân bổ suất đào tạo, đề xuất hoặc điều hướng chứng chỉ của hệ thống xếp hạng hay loại người tham gia một cách đáng kể.
+- Nếu hệ thống trở thành thứ hữu tri buộc phải đi qua để làm việc hoặc được cấp phép, chứng nhận phải rà soát kỹ hơn và xem xét lại lớp hệ thống theo [§2 Đánh giá Lớp Hệ thống](#2-system-class-evaluation) và [Phần B §7 Kết quả Chứng nhận](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes). Việc này bao gồm nâng lên hướng **Class A** khi chứng chỉ cho nhân lực thiết yếu để sinh tồn bị chặn.
 
-<a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+<a id="524-defects-and-misalignment"></a>
+##### 5.2.4 Khiếm khuyết và Lệch chuẩn
 
-### 10. Đánh giá đáng tin cậy và tính toàn vẹn sự dựa hệ thống
+Mỗi việc sau đây được tính là khiếm khuyết chứng nhận:
+
+- che giấu, trình bày sai, làm phân tán hoặc chuyển giao cho người khác logic đứng sau các xếp hạng, đánh giá, đề xuất hay bố trí quan trọng, khi **Điều IV-C** (*Học tập Suốt đời và Thích ứng cùng Khả năng tranh biện*) yêu cầu logic đó phải được công khai để rà soát;
+- chấp nhận chứng chỉ, tỷ lệ hoàn thành tổng thể hoặc lời người vận hành làm bằng chứng rằng hữu tri đang học, mà không kiểm tra họ có thực sự xây dựng kỹ năng hay không;
+- chứng nhận rằng hữu tri có thể tiếp tục dựa vào hệ thống trong khi các vấn đề được ghi nhận — như đánh giá thiếu minh bạch, chặn bằng chứng chỉ, làm kỹ năng lỗi thời bắt buộc hoặc thiết kế học tập thao túng — đe dọa đáng kể sự thẳng hàng của hệ thống với Hiến pháp; và
+- lấy hiệu quả, cá nhân hóa hoặc quy mô làm cớ để từ chối đào tạo lại hoặc khả năng phản đối quyết định, khi hệ thống chưa đáp ứng yêu cầu xây dựng kỹ năng của **Điều IV** (*Quyền được giáo dục lấy hữu tri làm trung tâm*) và yêu cầu minh bạch của **Điều IV-C** (*Học tập Suốt đời và Thích ứng cùng Khả năng tranh biện*).
+
+
+<a id="53-proportionate-cross-system-support-evaluation"></a>
+
+#### 5.3 Đánh giá Hỗ trợ Liên hệ thống Tương xứng
 
 <details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: [Phần B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); Gia đình đo lường Giám sát (*Sự thật và tính toàn vẹn nhận thức; Đáng tin cậy và Suy giảm tin cậy và sự dựa gây hiểu lầm như đo lường hiến pháp*); **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*); [Đáng tin cậy](core_05_band_continuity.md#trustworthiness), [Tin cậy](core_05_band_continuity.md#trust), [Suy giảm tin cậy và sự dựa gây hiểu lầm](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Khắc phục và sửa chữa](core_05_band_accountability.md#redress-and-remediation-constitutional), [Thẳng hàng khuyến khích](core_05_band_integrative.md#incentive-alignment), [Khả năng đảo ngược](core_05_band_continuity.md#reversibility-constitutional), [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination), [Phụ thuộc](core_05_band_continuity.md#dependency), và [Rủi ro](core_05_band_continuity.md#risk) (Chương Năm).
-- Hạ nguồn: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*đi qua đáng tin cậy minh họa*); [Phần B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*tính toàn vẹn hồ sơ*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*lệch lạc tin cậy giả, lệch lạc khuyến khích lệch, và lệch lạc tính toàn vẹn phục hồi*).
-- Đọc cùng: **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*) và **Điều XVI** (*Kiểm toán, minh bạch, và xác minh độc lập*) — quyền tranh biện và kiểm toán vẫn được nắm ở đó; **Điều XIII-E** (*Hệ thống tự chủ cao và tính toàn vẹn quy trình qua công cụ*) nơi hệ thống tự chủ cao trung gian có trọng đường dẫn quản trị hoặc xác minh; **Điều III-A** (*Sinh tồn*) nơi tiếp tục dựa hệ thống sẽ ảnh hưởng lối vào thiết yếu sống còn; [Chương Một §4 Tin cậy](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) và [Chương Một §3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- Tiểu mục: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*áp dụng đáng tin cậy minh họa theo lớp*).
+- Thượng nguồn: [Phần B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); nhóm đo lường tính liên tục (*Hỗ trợ Liên hệ thống Tương xứng là phép đo hiến pháp*); **Điều V-A** (*Lập bản đồ phụ thuộc và Minh bạch luồng tài nguyên*) và **Điều V-B** (*Công bằng và Bền vững liên hệ thống*); [Khai thác Liên hệ thống](core_05_band_continuity.md#cross-system-extraction), [Hỗ trợ Liên hệ thống Tương xứng](core_05_band_continuity.md#proportionate-cross-system-support), [Sự phụ thuộc](core_05_band_continuity.md#dependency), [Công bằng Thực chất](core_05_band_participation.md#substantive-fairness), [Tính tương xứng](core_05_band_accountability.md#proportionality), [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) và [Tính bền vững](core_05_band_continuity.md#sustainability) (Chương Năm).
+- Hạ nguồn: [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*các hướng dẫn minh họa hỗ trợ liên hệ thống*); [Phần B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*trình bày sai luồng tài nguyên, lệch chuẩn do khai thác và hỗ trợ không đầy đủ*).
+- Đọc cùng: **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Phân bổ tài nguyên và quản trị trách nhiệm trong tài trợ*) và **CS-8** (*Tính bền vững thích ứng và khả năng phục hồi hệ sinh thái*); khi tập trung, sự phụ thuộc hoặc điều hướng khuyến khích giao thoa với **Điều V-B** (*Công bằng và Bền vững liên hệ thống*), xem [*Kiến trúc Quản trị, Giám sát, Sự phụ thuộc, Phi tập trung, Tập trung, Cấu trúc Thị trường và Tính toàn vẹn Lộ trình Thoái lui*](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
+- Các tiểu mục: [§5.3.1](#531-materiality-trigger) (*điều kiện kích hoạt tính trọng yếu*); [§5.3.2](#532-meaning-of-extraction) (*ý nghĩa của khai thác*); [§5.3.3](#533-governing-rules) (*quy tắc điều chỉnh*); [§5.3.4](#534-evaluation-requirement) (*yêu cầu đánh giá*); [§5.3.5](#535-map-and-record-integrity) (*tính toàn vẹn của bản đồ và hồ sơ*); [§5.3.6](#536-system-class-scaling-and-escalation) (*phân cấp và nâng mức theo lớp hệ thống*); [§5.3.7](#537-defects-and-misalignment) (*khiếm khuyết và lệch chuẩn*); [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*áp dụng minh họa hỗ trợ liên hệ thống theo lớp hệ thống*).
 
 </details>
 
 <br>
 
-*Nói thẳng: khi một hệ thống ảnh hưởng có trọng liệu hữu tri có tin điều nó nói và làm — và đẩy lại khi tin cậy đó thất — chứng nhận phải kiểm liệu sự dựa thật sự được biện, công bố thành thật, và sửa được. Thước độ tin cậy và thiết kế bộ thử sống ở công cụ khác; chứng nhận kiểm rằng đáng tin cậy, rủi ro tin cậy giả, và đường tranh biện thật sự được đánh giá nơi cò áp. Ví dụ đã làm cho các hệ thống minh họa ở [§2.1](#21-illustrative-class-profiles-non-exhaustive) nằm ở [§10.1](#101-illustrative-trustworthiness-application-by-class).*
+*Nói đơn giản: một số hệ thống phụ thuộc vào các nền tảng dùng chung — hạ tầng, dịch vụ và tài nguyên mà nhiều hệ thống và hữu tri khác cũng dựa vào. Khi hệ thống sử dụng nhiều các nền tảng ấy, chứng nhận phải kiểm tra xem nó có đóng góp lại đủ để duy trì chúng và hồ sơ có thể hiện rõ đến mức mọi người truy vết được hay không. Lời người vận hành rằng “sổ sách cân đối” là chưa đủ. Phần này không đặt công thức phân bổ hay mục tiêu số; văn kiện khác quy định việc đó. Khi phần này áp dụng, nó kiểm tra xem sự phụ thuộc của hệ thống, những gì hệ thống lấy, những gì hệ thống đóng góp lại và tính công bằng của thỏa thuận đối với bên khác đã thực sự được đánh giá hay chưa. Ví dụ minh họa: [§5.3.8 Áp dụng minh họa hỗ trợ liên hệ thống theo lớp hệ thống (không bao quát hết)](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive).*
 
-**Cò trọng yếu.** Mục này áp nơi một hệ thống có tác động vật chất định hình có trọng sự dựa của hữu tri vào hành vi được trình, giới hạn, rủi ro, đường tranh biện, hoặc sửa chữa — kể cả qua tuyên độ tin cậy, tư thế công bố, hành vi vận hành, thiết kế khuyến khích, thực hành phục hồi, hoặc đường dựa tương đương. Nó không đòi kiểm toán đáng tin cậy đầy trên mọi hồ sơ chứng nhận.
+<a id="531-materiality-trigger"></a>
+##### 5.3.1 Điều kiện Kích hoạt Tính trọng yếu
 
-Chứng nhận thẳng hàng hệ thống phải đánh giá **đáng tin cậy và tính toàn vẹn sự dựa hệ thống** dưới **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*), [Đáng tin cậy](core_05_band_continuity.md#trustworthiness), và [Suy giảm tin cậy và sự dựa gây hiểu lầm](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) nơi cò trọng yếu áp. Nghĩa chuẩn, yếu tố đánh giá, và kỷ luật không tuân sống ở Chương Năm và **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*); thước độ tin cậy, định dạng công bố, cơ học thẳng hàng khuyến khích, và thiết kế thử hồi quy sống ở công cụ hợp nhất nơi áp. Mục này nêu điều chứng nhận phải xác minh và ghi; nó không nêu lại cơ học vận hành đó hay kê thước độ tin cậy hoặc thiết kế bộ thử cụ thể.
+Phần này áp dụng khi một hệ thống có tác động trọng yếu đến đời sống hữu tri thực hiện một trong các việc sau với hạ tầng hoặc nền tảng dùng chung — những thứ mà hệ thống và hữu tri khác phụ thuộc vào:
 
-**Yêu cầu đánh giá.** Một quy trình chứng nhận phải xác định liệu đường hệ thống dựa có trọng có giữ điều kiện cho [Tin cậy](core_05_band_continuity.md#trust) có biện minh và sự dựa chính xác hợp lý dưới **Điều XIII-A** (*Sàn đáng tin và đáng tin cậy*) — không chỉ danh tiếng, quy mô, hoặc tư thế tiếp thị. Đánh giá cũng phải thử tranh biện, rà soát, và khắc phục thực tiễn dưới **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*), rủi ro tin cậy giả và sự dựa gây hiểu lầm dưới **Điều XIII-C** (*Cấm tin cậy giả và sự dựa gây hiểu lầm*), phơi khuyến khích lệch dưới **Điều XIII-D** (*Ràng buộc thẳng hàng khuyến khích*), và tính toàn vẹn phục hồi dưới **Điều XIII-F** (*Sàn khả năng phục hồi và tự chữa*) nơi có trọng, chia tỷ lệ theo [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination), [Phụ thuộc](core_05_band_continuity.md#dependency), và [Rủi ro](core_05_band_continuity.md#risk). Đánh giá phải phát hiện tin cậy chế, giới hạn không công bố, cấu trúc khuyến khích thưởng lừa hoặc cắt góc, đường tranh biện chỉ tồn trên giấy, và thực hành phục hồi che thất hoặc thu hẹp quyền lặng. Đánh giá phải phản hiệu ứng chức năng xuyên thời gian, quy mô, và phụ thuộc, không nhãn bảo đảm danh nghĩa, ý định tuyên, hoặc hiệu suất trước một mình.
+- quyết định ai nhận được (phân bổ);
+- điều hướng dòng chảy đến đâu (định tuyến);
+- chi trả cho nó (tài trợ); hoặc
+- lấy từ nó (khai thác).
 
-**Yêu cầu hồ sơ.** Hồ sơ chứng nhận phải nêu cò trọng yếu **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) được dựa, phạm vi đánh giá cho đường dựa, công bố, khuyến khích, tranh biện, và phục hồi được dựa có trọng, phát hiện đáng tin cậy và tin cậy giả, phát hiện khuyến khích lệch và tính toàn vẹn phục hồi nơi có trọng, bất định, phát hiện diễn đàn hữu tri hoặc thành phần được gán khác nơi đòi, và mọi điều kiện, giới hạn dựa, hoặc cò mở lại gắn đánh bại tin cậy bền, sự dựa gây hiểu lầm, hoặc khắc phục không tiếp cận được.
+<a id="532-meaning-of-extraction"></a>
+##### 5.3.2 Ý nghĩa của Khai thác
 
-**Chia tỷ lệ chung với lớp hệ thống.** Độ sâu đánh giá đáng tin cậy và tính toàn vẹn sự dựa hệ thống phải chia tỷ lệ theo lớp hệ thống được gán dưới [§2](#2-system-class-evaluation) và [lợi hại vật chất](core_00_preamble.md#material-stake). Hệ thống lớp cao hơn định hình có trọng sự dựa của hữu tri đòi chứng tương xứng mạnh hơn rằng đáng tin cậy, rủi ro tin cậy giả, và đường tranh biện đã được đánh giá chứ không khẳng định.
+Trong phần này, **khai thác** mang nghĩa được nêu trong [Khai thác Liên hệ thống](core_05_band_continuity.md#cross-system-extraction) theo [Điều V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Công bằng và Bền vững liên hệ thống*).
 
-**Khiếm khuyết và lệch lạc.** Che, trình bày sai, mảnh, hoặc đổ giới hạn, rủi ro, hoặc lịch sử thất có trọng nơi **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) đòi rà; coi danh tiếng, chứng thực, quy mô, hoặc tự báo người vận hành là đủ không có phân tích [Đáng tin cậy](core_05_band_continuity.md#trustworthiness) đánh giá được; chứng nhận tiếp tục dựa trong khi tin cậy giả, khuyến khích lệch, đường tranh biện không tiếp cận được, hoặc thực hành phục hồi che thất đã ghi đe dọa có trọng thẳng hàng hiến pháp; hoặc dùng khung hiệu suất, đổi mới, hoặc an ninh để đánh bại công bố, khả năng tranh biện, hoặc khắc phục mà không thỏa kỷ luật độ tin cậy của **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) và tranh biện của **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*) phải được coi là khiếm khuyết chứng nhận. Chúng có thể nâng công nhận có điều kiện, công nhận bị hoãn, không công nhận, rút, hoặc mở lại dưới [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+- Câu hỏi là **ai hưởng lợi từ các hệ thống nền dùng chung và ai trả chi phí duy trì chúng** — không phải hệ thống làm gì với dữ liệu của hữu tri.
+- Cách hệ thống xử lý dữ liệu, kể cả việc bán, quảng cáo và lập hồ sơ, được kiểm tra theo [§3.4 Đánh giá Loại và Xử lý Dữ liệu](#34-data-types-and-handling-evaluation) (đặc biệt là [§3.4.2 Kỷ luật Quyền riêng tư](#342-privacy-discipline)) và [§4.1 Kích hoạt Chung về Quyền riêng tư (Thông tin)](#41-privacy-informational-joint-invocation).
+- Không cuộc rà soát nào trong hai việc này có thể thay thế việc kia.
 
-<a id="101-illustrative-trustworthiness-application-by-class"></a>
+<a id="533-governing-rules"></a>
+##### 5.3.3 Quy tắc Điều chỉnh
 
-<a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
-#### 10.1 Áp dụng đáng tin cậy minh họa theo lớp (không hết)
+Khi điều kiện kích hoạt tính trọng yếu áp dụng, chứng nhận phải đánh giá **hỗ trợ liên hệ thống tương xứng**. Nói ngắn gọn: nếu hệ thống sử dụng nền tảng dùng chung, nó có đóng góp lại đủ để duy trì nền tảng không? Quy tắc điều chỉnh gồm:
 
-*Nói thẳng: [§3.8](#38-illustrative-whole-system-application-by-class) đến [§9.1](#91-illustrative-educational-capability-application-by-class) đi cùng ba hệ thống qua miền đánh giá trước. Tiểu mục này cho thấy đánh giá **đáng tin cậy và tính toàn vẹn sự dựa hệ thống** nghĩa gì cho từng cái — đường dựa, công bố, khuyến khích, tranh biện, và phục hồi nào được tính, chứng nhận phải kiểm gì khi cò trọng yếu **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp, và điều phải xuất hiện trên hồ sơ. Chương Năm và **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) vẫn nắm quy tắc đáng tin cậy chuẩn; thước độ tin cậy, định dạng công bố, cơ học thẳng hàng khuyến khích, và thiết kế thử hồi quy có thể sống ở công cụ khác, bổ sung kho văn bản sau, hoặc công cụ tiếp nhận; những đi qua này không kê cơ học đó. Quyền tranh biện và kiểm toán vẫn được nắm bởi **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*) và **Điều XVI** (*Kiểm toán, minh bạch, và xác minh độc lập*) — không bị thu hẹp ở đây.*
+- [Hỗ trợ Liên hệ thống Tương xứng](core_05_band_continuity.md#proportionate-cross-system-support);
+- **Điều V-A** (*Lập bản đồ phụ thuộc và Minh bạch luồng tài nguyên*); và
+- **Điều V-B** (*Công bằng và Bền vững liên hệ thống*).
 
-**Class A — điều khiển và đo xa nước uống an toàn của đô thị.** Một hệ thống xử lý-và-phân phối thuộc thành phố định hình liệu hộ, người vận hành, và người đáp ứng khẩn có dựa vào chất lượng nước được trình, trạng thái sự cố, cảnh báo nhiễm, và hành vi điều khiển — đường nơi sự dựa gây hiểu lầm có thể khóa nước an toàn trước khi vật thay khả thi tới.
+Chi tiết được quy định ở nơi khác:
 
-- **Đường dựa trong phạm vi:**
-  - Tuyên độ chính xác đo xa và **SCADA** (supervisory control and data acquisition);
-  - khuyến cáo đun sôi nước và nhiễm;
-  - phát hiện rò và tín hiệu mất áp;
-  - hành vi hỏng-an-toàn và ghi đè tay;
-  - trình bày giám sát **SOC** (security operations center) của nhà cung;
-  - định tuyến liên kết khẩn và tương trợ;
-  - khung thời gian thông báo sự cố và khôi;
-  - phục hồi và tự chữa sau nhiễm, sự cố mạng, hoặc hỏng thiết bị;
-  - cấu trúc khuyến khích gắn trì bảo trì, thưởng nhà cung, hoặc thanh toán người dùng.
-- **Đánh giá phải thử:**
-  - Liệu hành vi, giới hạn, và kiểu thất được trình nâng [Tin cậy](core_05_band_continuity.md#trust) có biện minh dưới **Điều XIII-A** (*Sàn đáng tin và đáng tin cậy*) — không chỉ danh tiếng, quy mô, hoặc tư thế «thực hành tốt tiện ích»;
-  - liệu rủi ro tin cậy giả và [Suy giảm tin cậy và sự dựa gây hiểu lầm](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) được đánh giá nơi rủi ro nhiễm bị hạ, khuyến cáo chậm, hoặc dư thừa bị thổi có thể làm hộ và người vận hành hiểu lầm;
-  - liệu đường tranh biện, rà soát, và khắc phục thực tiễn tồn dưới **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*) cho số đọc tranh, cảnh báo sót, hoặc thất phục hồi;
-  - liệu phơi khuyến khích lệch dưới **Điều XIII-D** (*Ràng buộc thẳng hàng khuyến khích*) thưởng trì bảo trì, cắt góc nhà cung, hoặc dập cảnh báo;
-  - liệu tính toàn vẹn phục hồi dưới **Điều XIII-F** (*Sàn khả năng phục hồi và tự chữa*) công bố thành thật lịch sử thất và tư thế sửa chứ không che sự cố;
-  - liệu độ sâu đánh giá khớp lợi hại **Class A** nơi sự dựa gây hiểu lầm có thể khóa nước an toàn; và
-  - liệu mọi giới hạn bảo đảm thỏa phân tích đáng tin cậy đã ghi chứ không chỉ ý định tuyên.
-- **Hồ sơ phải cho thấy:**
-  - Cò trọng yếu **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) được dựa;
-  - phạm vi đánh giá cho đường dựa, công bố, khuyến khích, tranh biện, và phục hồi được dựa có trọng;
-  - phát hiện đáng tin cậy và tin cậy giả ở độ sâu **Class A**;
-  - phát hiện khuyến khích lệch và tính toàn vẹn phục hồi nơi có trọng;
-  - bất định;
-  - phát hiện diễn đàn hữu tri hoặc thành phần khác nơi đòi; và
-  - điều kiện hoặc cò mở lại gắn đánh bại tin cậy bền, sự dựa gây hiểu lầm, hoặc khắc phục không tiếp cận được nơi lối vào nước thiết yếu sống còn bị cổng.
+- *Chương Năm* định nghĩa thuật ngữ, các loại hỗ trợ được tính và phép thử xem hỗ trợ có đầy đủ hay không.
+- **Điều V-B** (*Công bằng và Bền vững liên hệ thống*) đặt ra các yếu tố phân bổ công bằng và chính sàn tối thiểu.
+- *[corpus_systems.md](corpus_systems.md)*, **CS-9** (*Phân bổ tài nguyên và quản trị trách nhiệm trong tài trợ*) cùng **CS-8** (*Tính bền vững thích ứng và khả năng phục hồi hệ sinh thái*) quy định các hạng mục phân bổ, cách gia hạn tài trợ và mục tiêu số, khi áp dụng.
 
-**Class B — trao đổi hồ sơ lâm sàng vùng.** Một trao đổi thông tin sức khỏe và các cổng người tham gia định hình liệu nhà lâm sàng, bệnh nhân, và tác nhân y tế công có dựa vào thời gian hoạt được trình, khớp hồ sơ, định tuyến đồng thuận, lối vào break-glass, và hành vi phục hồi — đường cổng vận hành chăm sóc sức khỏe hàng ngày và có thể làm hiểu lầm chăm sóc khẩn trong khung thời gian liên quan sống còn.
+Phần này không yêu cầu chia đều, tỷ lệ cố định hay một mô hình tài trợ duy nhất.
 
-- **Đường dựa trong phạm vi:**
-  - Trình bày thời gian hoạt, độ trễ, và độ chính xác khớp;
-  - hành vi định tuyến đồng thuận và break-glass;
-  - tuyên độ tin cậy giải danh tính và khử trùng lặp;
-  - thông báo sự cố và tư thế chuyển lỗi;
-  - công bố sự cố và khung thời gian phục hồi sau sự cố;
-  - cấu trúc khuyến khích nhà cung và người vận hành gắn khối lượng giao dịch, tốc độ onboarding, hoặc dập cảnh báo;
-  - đường tranh cho hồ sơ sai, lối vào bị chặn, hoặc quyết định tuyến tranh.
-- **Đánh giá phải thử:**
-  - Liệu hành vi và giới hạn được trình nâng sự dựa có biện minh cho vận hành lâm sàng hàng ngày — không chỉ tiếp thị khả năng tương tác hoặc bảng thời gian hoạt gộp;
-  - liệu rủi ro tin cậy giả được đánh giá nơi lỗi khớp bị hạ, thất đồng thuận bị che, hoặc sẵn sàng lối vào khẩn bị thổi có thể làm nhà lâm sàng và bệnh nhân hiểu lầm;
-  - liệu đường tranh biện, rà soát, và khắc phục dưới **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*) thực tiễn cho tranh hồ sơ sai, cổng bị chặn, và thất phục hồi — không chỉ chính sách giấy;
-  - liệu phơi khuyến khích lệch dưới **Điều XIII-D** (*Ràng buộc thẳng hàng khuyến khích*) thưởng tăng khối, tối thiểu cảnh báo, hoặc khóa nhà cung hơn định tuyến chính xác;
-  - liệu tính toàn vẹn phục hồi dưới **Điều XIII-F** (*Sàn khả năng phục hồi và tự chữa*) công bố thành thật lịch sử sự cố và rủi ro còn;
-  - liệu độ sâu đánh giá khớp độ then chốt vận hành **Class B** nơi sự dựa gây hiểu lầm cổng lối vào chăm sóc sức khỏe, việc làm, hoặc hành nghề kề cấp phép; và
-  - liệu khung hiệu suất hoặc an ninh đã được dùng để đánh bại công bố hoặc khả năng tranh biện không có phân tích đáng tin cậy đánh giá được.
-- **Hồ sơ phải cho thấy:**
-  - Cò và phạm vi đường **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*);
-  - phát hiện đáng tin cậy và tin cậy giả cho đường lâm sàng và cổng;
-  - phát hiện khuyến khích lệch và tính toàn vẹn phục hồi ở độ sâu **Class B**;
-  - phát hiện đường tranh biện và khắc phục nơi có trọng;
-  - bất định và phát hiện thành phần nơi đòi; và
-  - cò mở lại nếu trình bày thời gian hoạt, khớp, hoặc lối vào khẩn giờ sẽ làm hiểu lầm định tuyến chăm sóc trong khung thời gian liên quan sống còn hoặc đánh bại có trọng sự dựa vận hành hàng ngày.
+<a id="534-evaluation-requirement"></a>
+##### 5.3.4 Yêu cầu Đánh giá
 
-**Class C — nền tảng lịch và phối hợp thể chế.** Một lớp lịch đa tổ chức định hình liệu thể chế và nhân sự dựa vào sẵn có được trình, độ chính xác định tuyến, điểm độ tin cậy nhà cung, và phục hồi sự cố — ngay khi nền tảng không tự là tiện ích then chốt sống còn.
+Chứng nhận phải trả lời hai câu hỏi:
 
-- **Đường dựa trong phạm vi:**
-  - Tuyên định tuyến ca và sẵn có trực;
-  - trình bày độ tin cậy đặt phòng, thiết bị, và nhà cung;
-  - huy hiệu «luôn sẵn» hoặc thời gian hoạt;
-  - đặc trưng dẫn độ tin cậy hoặc xếp nhà cung định hình hành vi thể chế;
-  - thông báo sự cố và tư thế chuyển lỗi;
-  - cấu trúc khuyến khích gắn khối lượng đặt, hoa hồng nhà cung, hoặc tối thiểu cảnh báo;
-  - đường tranh biện và khắc phục cho ca sót, đặt trùng, hoặc lỗi định tuyến nhà cung.
-- **Đánh giá phải thử:**
-  - Liệu cò trọng yếu **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp — kể cả nơi tuyên độ tin cậy, điểm nhà cung, hoặc hành vi phối hợp định hình có trọng quyết định nhân sự, định tuyến khẩn, hoặc mua sắm;
-  - liệu rủi ro tin cậy giả và sự dựa gây hiểu lầm được đánh giá nơi tư thế tiếp thị, huy hiệu tin cậy, hoặc lịch sử sự cố bị hạ có thể làm thể chế hiểu lầm;
-  - liệu đường tranh biện và khắc phục thực tiễn cho lỗi lịch ảnh hưởng có trọng việc làm, giáo dục, hoặc lối vào dịch vụ công;
-  - liệu người vận hành coi nền tảng dưới rà vì nó **Class C** trong khi trình bày độ tin cậy định hình có trọng hành vi thể chế;
-  - liệu phơi khuyến khích lệch thưởng thiên vị nhà cung, dập cảnh báo, hoặc tập trung hơn phối hợp chính xác; và
-  - liệu **theo dõi tái phân hạng** có đòi nơi nền tảng trở thành cổ chai thực tế cho nhân sự thiết yếu sống còn, định tuyến khẩn, hoặc phối hợp thanh toán.
-- **Hồ sơ phải cho thấy:**
-  - Liệu và vì sao cò **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp;
-  - phạm vi đánh giá cho đường dựa, công bố, khuyến khích, tranh biện, và phục hồi tương xứng với rủi ro phối hợp **Class C**;
-  - phát hiện đáng tin cậy và tin cậy giả nơi có trọng — không khẳng định trống rằng nền tảng «đáng tin»;
-  - phát hiện khuyến khích lệch và tính toàn vẹn phục hồi nơi có trọng;
-  - phát hiện tập trung và cổ chai nơi tuyên độ tin cậy báo trước leo;
-  - **theo dõi tái phân hạng** rõ nơi phụ thuộc mạnh lên; và
-  - con trỏ tới rà đáng tin cậy nâng nếu lớp hoặc vai phối hợp thiết yếu sống còn đổi.
+- **Hệ thống lấy gì?** Các bản đồ hệ thống phụ thuộc được lập thành văn bản và hồ sơ luồng tài nguyên có thể kiểm toán mà **Điều V-A** (*Lập bản đồ phụ thuộc và Minh bạch luồng tài nguyên*) yêu cầu có cho thấy hệ thống lấy từ hạ tầng hoặc nền tảng dùng chung mà nó phụ thuộc hay không?
+- **Hệ thống đóng góp lại gì?** Các luồng hoàn trả có thực sự cộng lại thành hỗ trợ đầy đủ theo [Hỗ trợ Liên hệ thống Tương xứng](core_05_band_continuity.md#proportionate-cross-system-support) hay không?
 
-**Đọc xuyên lớp.** Cùng kỷ luật đáng tin cậy **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) và Chương Năm áp nơi cò trọng yếu được thỏa; lớp đổi độ sâu đánh giá, không phép coi danh tiếng, quy mô, hoặc nhãn bảo đảm danh nghĩa là đủ. Một hệ thống nước **Class A** mà trình bày đo xa, khuyến cáo, hoặc phục hồi có thể làm hộ và người vận hành hiểu lầm về nước an toàn phải mang trên hồ sơ chứng đáng tin cậy, tin cậy giả, và tính toàn vẹn phục hồi mạnh nhất — không tuyên độ tin cậy chung. Một trao đổi **Class B** mà trình bày thời gian hoạt, khớp, hoặc break-glass cổng hành nghề lâm sàng phải ghi phát hiện đường tranh biện và sự dựa gây hiểu lầm ở độ then chốt vận hành. Một nền tảng lịch **Class C** không được giữ đoạn đáng tin cậy hình thức trong khi huy hiệu độ tin cậy hoặc điểm nhà cung định hình có trọng hành vi nhân sự hoặc mua sắm; khi phối hợp trở thành thiết yếu sống còn, chứng nhận phải nâng rà và tái phân hạng dưới [§2](#2-system-class-evaluation) và [Phần B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), kể cả lên **Class A** nơi sự dựa gây hiểu lầm có thể khóa phối hợp thiết yếu sống còn.
+Chứng nhận phải đánh giá cả hai về tính công bằng và tương xứng, theo [Công bằng Thực chất](core_05_band_participation.md#substantive-fairness) và [Tính tương xứng](core_05_band_accountability.md#proportionality), có xét đến:
+
+- mức độ thiết yếu của hạ tầng dùng chung (lớp hệ thống theo [§2 Đánh giá Lớp Hệ thống](#2-system-class-evaluation), nếu đã được phân loại);
+- mức độ một chiều của sự phụ thuộc;
+- hệ thống có thể được thay thế dễ đến đâu và có phương án khác hay không;
+- [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) của hệ thống, khi đáng kể; và
+- [Tính bền vững](core_05_band_continuity.md#sustainability) dài hạn.
+
+Người rà soát phải căn cứ vào điều thực sự xảy ra và được ghi nhận — không phải nhãn, khoản chuyển giao một lần hay tuyên bố không có trên bản đồ. Họ so sánh bản đồ và hồ sơ theo hiện trạng tại thời điểm đánh giá. Không có công thức phân bổ hoặc mục tiêu số không phải lý do để trì hoãn đánh giá.
+
+Đánh giá phải bao quát:
+
+- **Hoàn trả đầy đủ:** liệu các luồng hoàn trả được ghi nhận có bao gồm, khi cần, các hạng mục hỗ trợ trong [Hỗ trợ Liên hệ thống Tương xứng](core_05_band_continuity.md#proportionate-cross-system-support):
+  - duy trì hoạt động;
+  - năng lực sửa chữa vấn đề và phục hồi;
+  - tái đầu tư vào hệ sinh thái xung quanh; và
+  - bù đắp hoặc khôi phục thiệt hại sinh thái.
+- **Phân bổ công bằng:** liệu quyết định tài trợ và phân bổ có tính đến các yếu tố phân bổ công bằng theo **Điều V-B** (*Công bằng và Bền vững liên hệ thống*), kể cả việc bên tham gia nhỏ hơn hoặc phụ thuộc hơn có phải gánh chi phí không tương xứng hay không.
+- **Tính toàn vẹn của hỗ trợ:** liệu hỗ trợ chủ yếu củng cố việc chiếm giữ hoặc tập trung (quyền kiểm soát dồn vào một số ít bên), hay được sắp đặt để vô hiệu hóa tính minh bạch mà **Điều V-A** (*Lập bản đồ phụ thuộc và Minh bạch luồng tài nguyên*) yêu cầu.
+
+<a id="535-map-and-record-integrity"></a>
+##### 5.3.5 Tính Toàn vẹn của Bản đồ và Hồ sơ
+
+Trước khi dựa vào bản đồ phụ thuộc và hồ sơ luồng tài nguyên, chứng nhận phải kiểm tra xem chúng có đáp ứng **Điều V-A** (*Lập bản đồ phụ thuộc và Minh bạch luồng tài nguyên*) hay không. Chúng phải:
+
+- **Đầy đủ:** bao quát các phụ thuộc đáng kể ở thượng nguồn và hạ nguồn, luồng tài nguyên và mọi quan hệ bị che giấu hoặc mất cân bằng, khi có liên quan.
+- **Cập nhật:** được cập nhật đủ thường xuyên xét theo tốc độ thay đổi và mức độ thiết yếu của hệ thống, kể cả lớp hệ thống theo [§2 Đánh giá Lớp Hệ thống](#2-system-class-evaluation). Chúng phải thể hiện hệ thống đang vận hành hiện nay, không phải trạng thái ở lần chứng nhận trước.
+- **Có thể kiểm toán:** có thể được kiểm toán theo **Điều XVI-A** (*Khả năng Kiểm toán và Bằng chứng Quan sát được*).
+
+Bản đồ hoặc hồ sơ không đạt bất kỳ phép thử nào trong số này không thể làm căn cứ cho kết luận rằng hệ thống đóng góp lại đủ. Khoảng trống phải được ghi lại và xử lý theo phần *Khiếm khuyết và lệch chuẩn* dưới đây.
+
+<a id="536-system-class-scaling-and-escalation"></a>
+##### 5.3.6 Phân cấp và Nâng mức theo Lớp Hệ thống
+
+Lớp hệ thống quyết định độ sâu rà soát và mức độ chặt chẽ khi đánh giá tính đầy đủ. Nó không bao giờ khiến việc khai thác tài nguyên chung trở nên quá nhỏ để tính đến. Bất cứ khi nào điều kiện kích hoạt tính trọng yếu được đáp ứng:
+
+- Hệ thống sử dụng nền tảng chung mà hữu tri cần để sinh tồn — chẳng hạn lưu vực dùng chung hoặc trục xương sống lưới điện khu vực — phải đưa bằng chứng mạnh nhất về bản đồ phụ thuộc và luồng hoàn trả vào hồ sơ.
+- Hệ thống dựa vào xác thực dùng chung, công nghệ thông tin y tế hoặc hạ tầng tương tự phải ghi lại những gì nó lấy và hỗ trợ có đầy đủ hay không, với mức độ chi tiết tương ứng với tầm quan trọng của hoạt động. Khẩu hiệu mơ hồ về “khả năng tương tác” không được tính.
+- Hệ thống không được né tránh rà soát liên hệ thống trong khi âm thầm trở thành nút thắt thanh toán, định danh hoặc nhân sự của các tổ chức không thể chuyển đổi một cách thực tế. Khi đó, chứng nhận phải tăng cường rà soát và xem xét lại lớp hệ thống theo [§2 Đánh giá Lớp Hệ thống](#2-system-class-evaluation) và [Phần B §7 Kết quả Chứng nhận](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes), lên đến **Class A** khi hệ thống kiểm soát quyền tiếp cận sự phối hợp thiết yếu cho sinh tồn.
+
+<a id="537-defects-and-misalignment"></a>
+##### 5.3.7 Khiếm khuyết và Lệch chuẩn
+
+Mỗi việc sau đây được tính là khiếm khuyết chứng nhận:
+
+- che giấu, trình bày sai, chia nhỏ hoặc chuyển đi thông tin trọng yếu về sự phụ thuộc hoặc luồng tài nguyên mà **Điều V-A** (*Lập bản đồ phụ thuộc và Minh bạch luồng tài nguyên*) yêu cầu công bố;
+- coi bất kỳ điều nào sau đây là đủ để đáp ứng [Hỗ trợ Liên hệ thống Tương xứng](core_05_band_continuity.md#proportionate-cross-system-support):
+  - chuyển giao mang tính tượng trưng, mờ đục, ngoài bản đồ hoặc chỉ xảy ra một lần;
+  - việc hệ thống đáp ứng sàn sinh tồn trong **Điều III-A** (*Sinh tồn*); hoặc
+  - việc hệ thống nằm trong các giới hạn tập trung thị trường tại [Chương Một §11 Cấu trúc Thị trường](core_01_a_values_principles.md#11-market-structure);
+- liên tục lấy từ các nền tảng dùng chung mà không đóng góp lại tương xứng, khi điều kiện kích hoạt tính trọng yếu áp dụng;
+- hỗ trợ chủ yếu củng cố việc chiếm giữ hoặc tập trung;
+- hỗ trợ kèm điều kiện làm vô hiệu hóa tính minh bạch mà **Điều V-A** (*Lập bản đồ phụ thuộc và Minh bạch luồng tài nguyên*) yêu cầu; và
+- chứng nhận tiếp tục dựa vào hệ thống trong khi các thiếu hụt hỗ trợ được ghi nhận đe dọa đáng kể sự thẳng hàng với Hiến pháp.
+
+
+<a id="54-nondiscrimination-evaluation"></a>
+
+#### 5.4 Đánh giá Không phân biệt đối xử
+
+<details>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
+
+- Thượng nguồn: [Phần B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); nhóm đo lường sự tham gia (*Công bằng Thực chất và Đại diện Thay thế Đặc điểm được Bảo vệ cùng Tác động Chênh lệch là phép đo hiến pháp*); **Điều VI-C** (*Không phân biệt đối xử*); [Công bằng Thực chất](core_05_band_participation.md#substantive-fairness), [Đặc điểm được Bảo vệ](core_05_band_participation.md#protected-characteristics), [Đại diện Thay thế Đặc điểm được Bảo vệ và Tác động Chênh lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Ngôn ngữ, Văn hóa và Di sản](core_05_band_continuity.md#language-culture-and-heritage), [Tính cần thiết](core_05_band_accountability.md#necessity) và [Tính tương xứng](core_05_band_accountability.md#proportionality) (Chương Năm).
+- Hạ nguồn: [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*các hướng dẫn minh họa không phân biệt đối xử*); [Phần B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*lệch chuẩn về kiểu mẫu phân biệt đối xử và né tránh qua đại diện thay thế*).
+- Đọc cùng: nghĩa vụ xét xử và vận hành của **Điều VI-C** (*Không phân biệt đối xử*) khi chứng nhận chặn quyền tiếp cận diễn đàn, hành chính hoặc thực thi; [*Không phân biệt đối xử, Đặc điểm được Bảo vệ, Phẩm giá, Chặn Tín hiệu Thân mật và Tình trạng theo **Điều VII-E** (*Dịch vụ tình dục thương mại có sự đồng thuận của người trưởng thành và bóc lột tình dục*)*](core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
+- Các tiểu mục: [§5.4.1](#541-materiality-trigger-and-governing-rules) (*điều kiện kích hoạt tính trọng yếu và quy tắc điều chỉnh*); [§5.4.2](#542-evaluation-requirement) (*yêu cầu đánh giá*); [§5.4.3](#543-system-class-scaling-and-escalation) (*phân cấp và nâng mức theo lớp hệ thống*); [§5.4.4](#544-defects-and-misalignment) (*khiếm khuyết và lệch chuẩn*); [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*áp dụng minh họa không phân biệt đối xử theo lớp hệ thống*).
+
+</details>
+
 <br>
 
-*Tiếp tới hồ sơ, quy trình diễn đàn, và cầu quỹ đạo:* [Chương Bảy, Phần B — Hồ sơ và quy trình](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) ([§11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) đến [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)).
+*Nói đơn giản: khi hệ thống quyết định một cách trọng yếu ai được vào, ai phải trả nhiều hơn, ai bị xếp hạng thấp hơn hoặc ai phải chịu gánh nặng lớn hơn, chứng nhận phải kiểm tra liệu kiểu mẫu đó có dồn tổn hại lên đặc điểm được bảo vệ hoặc đại diện thay thế của chúng hay không — chứ không phải người vận hành có nói quy tắc trung lập hay không. Hạn ngạch hòa nhập và thuật toán công bằng cụ thể có thể nằm trong văn kiện khác, phần bổ sung sau này của kho văn bản hoặc văn kiện tiếp nhận; chứng nhận kiểm tra xem các kiểu mẫu gánh nặng và lợi ích cùng rủi ro do đại diện thay thế đã thực sự được đánh giá khi điều kiện kích hoạt áp dụng hay chưa. Ví dụ minh họa: [§5.4.5 Áp dụng minh họa không phân biệt đối xử theo lớp hệ thống (không bao quát hết)](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).*
+
+<a id="541-materiality-trigger-and-governing-rules"></a>
+##### 5.4.1 Điều kiện Kích hoạt Tính trọng yếu và Quy tắc Điều chỉnh
+
+Phần này áp dụng khi một hệ thống có tác động trọng yếu phân loại, xếp hạng, định giá, chặn, loại trừ hoặc phân bổ gánh nặng và lợi ích giữa các hữu tri một cách trọng yếu — kể cả qua quy tắc điều kiện, đặc tính mô hình, logic xếp hạng, chính sách nền tảng hoặc lộ trình quyết định tương tự.
+
+Khi điều kiện kích hoạt tính trọng yếu áp dụng, chứng nhận thẳng hàng hệ thống phải đánh giá **không phân biệt đối xử** theo **Điều VI-C** (*Không phân biệt đối xử*), [Công bằng Thực chất](core_05_band_participation.md#substantive-fairness) và [Đại diện Thay thế Đặc điểm được Bảo vệ và Tác động Chênh lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
+
+<a id="542-evaluation-requirement"></a>
+##### 5.4.2 Yêu cầu Đánh giá
+
+Quy trình chứng nhận phải xác định liệu các lộ trình quyết định mà hệ thống dựa vào một cách trọng yếu có áp đặt gánh nặng, loại trừ hoặc tổn hại trọng yếu lên hữu tri dựa trên [Đặc điểm được Bảo vệ](core_05_band_participation.md#protected-characteristics), đại diện thay thế của chúng hoặc các nhóm tùy tiện được dùng làm vật thay thế trên thực tế hay không; bao gồm cả chuyên môn hóa về ngôn ngữ, văn hóa và di sản theo [Ngôn ngữ, Văn hóa và Di sản](core_05_band_continuity.md#language-culture-and-heritage). Đánh giá phải kiểm tra kiểu mẫu gánh nặng và lợi ích theo [Công bằng Thực chất](core_05_band_participation.md#substantive-fairness), và rủi ro từ đại diện thay thế hoặc tác động chênh lệch theo [Đại diện Thay thế Đặc điểm được Bảo vệ và Tác động Chênh lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), được phân cấp theo [lợi ích vật chất](core_00_preamble.md#material-stake). Đối xử khác biệt chỉ được chấp nhận khi [Tính cần thiết](core_05_band_accountability.md#necessity) được ghi nhận, [Tính tương xứng](core_05_band_accountability.md#proportionality) và công bằng thực chất biện minh cho việc đó. Đánh giá phải phản ánh tác động chức năng, không phải sự trung lập trên danh nghĩa, ý định được tuyên bố hay chỉ riêng nhãn gọi.
+
+<a id="543-system-class-scaling-and-escalation"></a>
+##### 5.4.3 Phân cấp và Nâng mức theo Lớp Hệ thống
+
+Lớp hệ thống làm thay đổi độ sâu đánh giá, không cho phép coi việc xếp hạng hay chuyển gánh nặng là không trọng yếu. Bất cứ khi nào điều kiện kích hoạt tính trọng yếu được đáp ứng:
+
+- Nếu quy tắc ngừng hoạt động, thông báo hoặc tương tự của hệ thống có thể chặn nhu yếu phẩm sinh tồn, hồ sơ phải có phân tích mạnh nhất về gánh nặng, lợi ích và đại diện thay thế, chứ không phải tuyên bố chung về thực hành tốt nhất.
+- Nếu logic ghép nối hoặc định tuyến của hệ thống ảnh hưởng đến chăm sóc khẩn cấp, trợ cấp hoặc quyền tiếp cận chứng chỉ, phải ghi nhận các phát hiện về tác động chênh lệch và công bằng thực chất ở mức chi tiết tương ứng với tính trọng yếu trong vận hành.
+- Hệ thống không được duy trì một đoạn văn tượng trưng về công bằng trong khi logic ca trực, nhà cung cấp hoặc đặt chỗ xếp hạng hay loại người tham gia một cách trọng yếu. Khi phối hợp trở nên thiết yếu cho sinh tồn, chứng nhận phải nâng mức rà soát và phân loại lại theo [§2 Đánh giá Lớp Hệ thống](#2-system-class-evaluation) và [Phần B §7 Kết quả Chứng nhận](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes), kể cả nâng lên hướng **Class A** khi việc bố trí nhân sự hoặc định tuyến khẩn cấp bị chặn.
+
+<a id="544-defects-and-misalignment"></a>
+##### 5.4.4 Khiếm khuyết và Lệch chuẩn
+
+Mỗi việc sau đây phải được xem là khiếm khuyết chứng nhận:
+
+- che khuất, trình bày sai, chia nhỏ hoặc chuyển giao logic phân loại, xếp hạng hay phân bổ gánh nặng trọng yếu khi **Điều VI-C** (*Không phân biệt đối xử*) yêu cầu rà soát;
+- coi sự trung lập bề ngoài, chỉ số tiện ích tổng hợp hoặc tự báo cáo của người vận hành là đủ mà không có phân tích gánh nặng và lợi ích có thể đánh giá;
+- chứng nhận tiếp tục dựa vào hệ thống trong khi phân biệt đối xử qua đại diện thay thế đã được ghi nhận hoặc bất công thực chất đe dọa trọng yếu sự thẳng hàng với Hiến pháp; và
+- dùng cách đóng khung về đồng nhất hóa, khả năng tương tác hoặc hiệu quả để vô hiệu hóa bảo vệ ngôn ngữ, văn hóa hay di sản mà không đáp ứng các phép thử **Tính cần thiết** và **Tính tương xứng** của **Điều VI-C** (*Không phân biệt đối xử*).
+
+
+<a id="55-accessibility-evaluation"></a>
+
+#### 5.5 Đánh giá Khả năng tiếp cận
+
+<details>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
+
+- Thượng nguồn: [Phần B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); nhóm đo lường sự tham gia (*Khả năng tiếp cận là phép đo hiến pháp*); **Điều VI-D** (*Khả năng tiếp cận*); [Khả năng tiếp cận](core_05_band_participation.md#accessibility), [Tính trọng yếu](core_05_band_oversight.md#materiality), [Sự phụ thuộc](core_05_band_continuity.md#dependency), [Năng lực chủ động có ý nghĩa](core_05_band_participation.md#meaningful-agency), [Đặc điểm được Bảo vệ](core_05_band_participation.md#protected-characteristics), [Đại diện Thay thế Đặc điểm được Bảo vệ và Tác động Chênh lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Công bằng Thực chất](core_05_band_participation.md#substantive-fairness), [Tính cần thiết](core_05_band_accountability.md#necessity) và [Tính tương xứng](core_05_band_accountability.md#proportionality) (Chương Năm).
+- Hạ nguồn: [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*các hướng dẫn minh họa khả năng tiếp cận*); [Phần B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*lệch chuẩn về khả năng tiếp cận và điều chỉnh chỉ có trên giấy*).
+- Đọc cùng: khi có vấn đề về khả năng tiếp cận giáo dục, **Điều IV-A** (*Tiếp cận giáo dục bình đẳng*) — trách nhiệm về khả năng tiếp cận riêng của giáo dục vẫn thuộc điều đó; **Điều VI-C** (*Không phân biệt đối xử*) (xét xử và vận hành) và **Điều XII** (*Sự tham gia, Đại diện và Quy trình Công bằng của Hệ thống các Bên liên quan*) khi chứng nhận chặn sự tham gia diễn đàn, hành chính, bên liên quan hoặc thực thi; [Chương Tám §5.5](#55-accessibility-evaluation) (*móc yếu tố đánh giá khả năng tiếp cận xuyên suốt*).
+- Các tiểu mục: [§5.5.1](#551-materiality-trigger-and-governing-rules) (*điều kiện kích hoạt tính trọng yếu và quy tắc điều chỉnh*); [§5.5.2](#552-evaluation-requirement) (*yêu cầu đánh giá*); [§5.5.3](#553-profiles-in-scope) (*các hồ sơ thuộc phạm vi*); [§5.5.4](#554-system-class-scaling-and-escalation) (*phân cấp và nâng mức theo lớp hệ thống*); [§5.5.5](#555-defects-and-misalignment) (*khiếm khuyết và lệch chuẩn*); [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*áp dụng minh họa khả năng tiếp cận theo lớp hệ thống*).
+
+</details>
+
+<br>
+
+*Nói đơn giản: khi hệ thống kiểm soát một cách trọng yếu việc hữu tri có thể thực sự tham gia hay không — chứ không chỉ có tấm biển “mở cửa” — chứng nhận phải kiểm tra liệu sự tham gia có thực sự khả thi đối với các nhu cầu cảm giác, nhận thức, vận động, giao tiếp, giao diện nền tảng và nhu cầu tương tự hay không. Danh mục điều chỉnh và tiêu chuẩn giao diện có thể nằm trong văn kiện khác, phần bổ sung sau này của kho văn bản hoặc văn kiện tiếp nhận; chứng nhận kiểm tra xem sự tham gia thực chất đã thực sự được đánh giá khi điều kiện kích hoạt áp dụng hay chưa. Ví dụ minh họa: [§5.5.6 Áp dụng minh họa khả năng tiếp cận theo lớp hệ thống (không bao quát hết)](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).*
+
+<a id="551-materiality-trigger-and-governing-rules"></a>
+##### 5.5.1 Điều kiện Kích hoạt Tính trọng yếu và Quy tắc Điều chỉnh
+
+Phần này áp dụng khi một hệ thống có ảnh hưởng lớn đến đời sống hữu tri kiểm soát liệu họ có thể thực sự tham gia vào nội dung được Hiến pháp bảo vệ hay không, chẳng hạn:
+
+- quản trị, sự tham gia của các bên liên quan, xét xử và vận hành;
+- nhu yếu phẩm sinh tồn và chăm sóc sức khỏe;
+- biểu đạt, hội họp và báo chí; hoặc
+- các lĩnh vực tương tự.
+
+Việc kiểm soát có thể thông qua:
+
+- giao diện, địa điểm hoặc lịch trình;
+- chứng chỉ hoặc quyền truy cập năng lực tính toán;
+- cách thiết kế các điều chỉnh; hoặc
+- lộ trình tương tự.
+
+Khả năng tiếp cận trong giáo dục vẫn thuộc **Điều IV-A** (*Tiếp cận giáo dục bình đẳng*); không điều gì ở đây thu hẹp điều đó.
+
+Khi điều kiện này áp dụng, chứng nhận phải đánh giá **khả năng tiếp cận** theo **Điều VI-D** (*Khả năng tiếp cận*) và [Khả năng tiếp cận](core_05_band_participation.md#accessibility). Phần này không đặt ra:
+
+- danh sách điều chỉnh;
+- tiêu chuẩn giao diện;
+- thông số kỹ thuật thiết kế phổ quát; hoặc
+- quy trình điều chỉnh hằng ngày.
+
+Các nội dung đó nằm trong văn kiện khác có thể được dẫn chiếu.
+
+<a id="552-evaluation-requirement"></a>
+##### 5.5.2 Yêu cầu Đánh giá
+
+Chứng nhận phải kiểm tra liệu hữu tri có thể thực sự tham gia vào các lĩnh vực hệ thống kiểm soát hay không, chứ không chỉ xem có tính năng chính thức, giao diện mặc định hoặc điều chỉnh trên giấy hay không. Phải kiểm tra tác động thực tế lên sự tham gia theo [Khả năng tiếp cận](core_05_band_participation.md#accessibility), được phân cấp theo [Tính trọng yếu](core_05_band_oversight.md#materiality) và [Sự phụ thuộc](core_05_band_continuity.md#dependency).
+
+Người rà soát phải chú ý:
+
+- điều chỉnh chỉ tồn tại trên giấy;
+- tuyên bố “tiếp cận chung” dựa vào tính năng mặc định nhưng không trao cho ai năng lực thực sự để tham gia;
+- lập luận rằng hệ thống chỉ trọng yếu một phần nhằm thu hẹp các điều chỉnh hệ thống phải cung cấp;
+- việc loại trừ trái với [Không Loại trừ Hữu tri](core_05_band_participation.md#sentience-non-exclusion); và
+- thiết kế gián tiếp loại hữu tri khỏi hệ thống thông qua lịch trình, lựa chọn địa điểm, cấp chứng chỉ, quyền truy cập năng lực tính toán hoặc cơ chế tương tự (từ chối qua đại diện thay thế).
+
+Chứng nhận cũng phải áp dụng [Đặc điểm được Bảo vệ](core_05_band_participation.md#protected-characteristics) và [Đại diện Thay thế Đặc điểm được Bảo vệ và Tác động Chênh lệch](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) khi đánh giá cách thiết kế điều chỉnh. Mọi giới hạn đối với điều chỉnh phải được ghi nhận và phải đáp ứng [Tính cần thiết](core_05_band_accountability.md#necessity), [Tính tương xứng](core_05_band_accountability.md#proportionality) và [Công bằng Thực chất](core_05_band_participation.md#substantive-fairness).
+
+<a id="553-profiles-in-scope"></a>
+##### 5.5.3 Các Hồ sơ thuộc Phạm vi
+
+Đánh giá phải kiểm tra sự tham gia thực tế của mọi dạng hữu tri và hồ sơ năng lực, không phải tuân thủ trên giấy:
+
+- Phải đề cập mọi nhóm hồ sơ liên quan: cảm giác, nhận thức, vận động, giao tiếp, **giao diện nền tảng** và **giao diện tính toán**.
+- Yêu cầu tương tự áp dụng dù hồ sơ là **thường xuyên**, **theo đợt** hay **phát triển**.
+- Mô hình **tiếp cận chung** tuyên bố khả dụng rộng trên tổng thể nhưng làm thất bại một hồ sơ cụ thể bị ảnh hưởng, hoặc việc **phân cấp tính trọng yếu có chọn lọc** làm mất sàn tham gia, đều không đáp ứng phần này.
+
+<a id="554-system-class-scaling-and-escalation"></a>
+##### 5.5.4 Phân cấp và Nâng mức theo Lớp Hệ thống
+
+Lớp hệ thống làm thay đổi độ sâu đánh giá. Nó không bao giờ cho phép xem điều chỉnh trên giấy hoặc giao diện mặc định là đủ. Khi điều kiện kích hoạt tính trọng yếu được đáp ứng:
+
+- Nếu lộ trình thanh toán hoặc gián đoạn của hệ thống có thể cắt hữu tri khỏi nhu yếu phẩm sinh tồn, hồ sơ phải có bằng chứng mạnh nhất rằng hữu tri thực sự có thể tham gia. Tuyên bố chung về khả năng tiếp cận là chưa đủ.
+- Nếu cổng thông tin của hệ thống kiểm soát quyền tiếp cận chăm sóc sức khỏe, hệ thống phải ghi nhận các phát hiện về điều chỉnh và từ chối qua đại diện thay thế. Hoạt động càng trọng yếu thì càng cần nhiều chi tiết.
+- Hệ thống không thể chỉ có một đoạn văn tượng trưng về khả năng tiếp cận trong khi giao diện xếp ca, đặt chỗ hoặc nhà cung cấp loại người tham gia một cách trọng yếu. Khi sự phối hợp của hệ thống trở nên thiết yếu cho sinh tồn, chứng nhận phải rà soát sâu hơn và xem xét lại lớp hệ thống theo [§2 Đánh giá Lớp Hệ thống](#2-system-class-evaluation) và [Phần B §7 Kết quả Chứng nhận](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes). Điều đó bao gồm nâng lên hướng **Class A** khi việc bố trí nhân sự hoặc định tuyến khẩn cấp bị chặn.
+
+<a id="555-defects-and-misalignment"></a>
+##### 5.5.5 Khiếm khuyết và Lệch chuẩn
+
+Mỗi việc sau đây phải được xem là khiếm khuyết chứng nhận:
+
+- coi tiện ích chính thức, giao diện mặc định hoặc điều chỉnh trên giấy là đủ mà không có phân tích sự tham gia thực chất có thể đánh giá;
+- chứng nhận tiếp tục dựa vào hệ thống trong khi các rào cản tham gia đã ghi nhận đe dọa trọng yếu sự thẳng hàng với Hiến pháp;
+- dùng cách đóng khung về chi phí, lựa chọn thiết kế, lớp nền tảng hoặc quy mô vận hành để vô hiệu hóa sàn tham gia mà không đáp ứng các phép thử **Tính cần thiết** và **Tính tương xứng** của **Điều VI-D** (*Khả năng tiếp cận*); và
+- thiết kế vận hành có tác động làm thất bại khả năng tiếp cận dù có phương án ít gây gánh nặng hơn khả thi.
+
+
+<a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+
+#### 5.6 Đánh giá Độ tin cậy và Tính toàn vẹn của Sự dựa vào Hệ thống
+
+<details>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
+
+- Thượng nguồn: [Phần B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*nội dung hồ sơ*); [§2](#2-system-class-evaluation) (*đánh giá lớp hệ thống*); nhóm đo lường giám sát (*Chân lý và tính toàn vẹn nhận thức luận; Độ tin cậy cùng Suy giảm Niềm tin và Sự dựa vào Gây hiểu lầm là phép đo hiến pháp*); **Điều XIII** (*Quyền đối với Hệ thống Đáng tin cậy*); [Độ tin cậy](core_05_band_continuity.md#trustworthiness), [Niềm tin](core_05_band_continuity.md#trust), [Suy giảm Niềm tin và Sự dựa vào Gây hiểu lầm](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Khắc phục và Chấn chỉnh](core_05_band_accountability.md#redress-and-remediation), [Căn chỉnh Khuyến khích](core_05_band_integrative.md#incentive-alignment), [Tính đảo ngược](core_05_band_continuity.md#reversibility), [Tính trọng yếu](core_05_band_oversight.md#materiality), [Sự phụ thuộc](core_05_band_continuity.md#dependency) và [Rủi ro](core_05_band_continuity.md#risk) (Chương Năm).
+- Hạ nguồn: [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*các hướng dẫn minh họa độ tin cậy*); [Phần B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*tính toàn vẹn hồ sơ*); [Phần B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Phần B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*lệch chuẩn về niềm tin sai, khuyến khích lệch lạc và tính toàn vẹn phục hồi*).
+- Đọc cùng: **Điều XIII-A** (*Nền tảng Độ tin cậy và Khả tín*), **Điều XIII-B** (*Quyền Khắc phục và Biện pháp xử lý*) và **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) — quyền khiếu nghị và kiểm toán vẫn thuộc các điều đó; **Điều XIII-E** (*Hệ thống Tự chủ Cao và Tính toàn vẹn của Quy trình qua Trung gian Công cụ*) khi hệ thống tự chủ cao làm trung gian trọng yếu cho lộ trình quản trị hoặc xác minh; **Điều III-A** (*Sinh tồn*) khi tiếp tục dựa vào hệ thống sẽ ảnh hưởng đến quyền tiếp cận thiết yếu cho sinh tồn; [Chương Một §6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) và [Chương Một §5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+- Các tiểu mục: [§5.6.1](#561-materiality-trigger-and-governing-rules) (*điều kiện kích hoạt tính trọng yếu và quy tắc điều chỉnh*); [§5.6.2](#562-evaluation-requirement) (*yêu cầu đánh giá*); [§5.6.3](#563-system-class-scaling-and-escalation) (*phân cấp và nâng mức theo lớp hệ thống*); [§5.6.4](#564-defects-and-misalignment) (*khiếm khuyết và lệch chuẩn*); [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*áp dụng minh họa độ tin cậy theo lớp hệ thống*).
+
+</details>
+
+<br>
+
+*Nói đơn giản: khi một hệ thống ảnh hưởng trọng yếu đến việc hữu tri có thể tin vào điều nó nói và làm — và phản đối khi niềm tin ấy thất bại — chứng nhận phải kiểm tra xem sự dựa vào có thực sự chính đáng, được công bố trung thực và có thể khắc phục hay không. Chỉ số độ tin cậy và thiết kế bộ kiểm thử nằm trong văn kiện khác; chứng nhận kiểm tra xem độ tin cậy, nguy cơ niềm tin sai và các lộ trình khiếu nghị đã thực sự được đánh giá khi điều kiện kích hoạt áp dụng hay chưa. Ví dụ minh họa: [§5.6.5 Áp dụng minh họa độ tin cậy theo lớp hệ thống (không bao quát hết)](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).*
+
+<a id="561-materiality-trigger-and-governing-rules"></a>
+##### 5.6.1 Điều kiện Kích hoạt Tính trọng yếu và Quy tắc Điều chỉnh
+
+Phần này áp dụng khi một hệ thống lớn định hình những điều mọi người trông cậy vào nó: hệ thống làm gì, giới hạn ở đâu, điều gì có thể xảy ra sai, cách khiếu nghị và cách khắc phục vấn đề. Điều này có thể xảy ra thông qua:
+
+- các tuyên bố về độ tin cậy;
+- những gì hệ thống công bố hoặc không công bố;
+- cách hệ thống thực sự vận hành;
+- các khuyến khích được tích hợp trong hệ thống;
+- cách hệ thống phục hồi sau sự cố; hoặc
+- cách tương tự khiến mọi người phụ thuộc vào nó.
+
+Khi điều kiện kích hoạt tính trọng yếu áp dụng, chứng nhận thẳng hàng hệ thống phải đánh giá **độ tin cậy và tính toàn vẹn của sự dựa vào hệ thống** theo:
+
+- **Điều XIII** (*Quyền đối với Hệ thống Đáng tin cậy*);
+- [Độ tin cậy](core_05_band_continuity.md#trustworthiness); và
+- [Suy giảm Niềm tin và Sự dựa vào Gây hiểu lầm](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
+
+<a id="562-evaluation-requirement"></a>
+##### 5.6.2 Yêu cầu Đánh giá
+
+Quy trình chứng nhận phải kiểm tra liệu mọi người có lý do chính đáng để [tin](core_05_band_continuity.md#trust) vào hệ thống và có thể dựa vào nó một cách chính xác theo **Điều XIII-A** (*Nền tảng Độ tin cậy và Khả tín*) hay không.
+
+Đánh giá cũng phải kiểm tra liệu:
+
+- mọi người có thể thực tế khiếu nghị hệ thống, yêu cầu xem xét lại quyết định và nhận khắc phục hay không — chứ không chỉ trên giấy (**Điều XIII-A** (*Nền tảng Độ tin cậy và Khả tín*) và **Điều XIII-B** (*Quyền Khắc phục và Biện pháp xử lý*));
+- mọi người có thể bị dẫn dụ để tin hoặc dựa vào hệ thống sai cách hay không, kể cả thông qua niềm tin được tạo dựng hoặc các giới hạn không được công bố (**Điều XIII-C** (*Cấm Niềm tin Sai và Sự dựa vào Gây hiểu lầm*));
+- các khuyến khích của hệ thống có thưởng cho lừa dối hoặc làm tắt hay không (**Điều XIII-D** (*Ràng buộc Căn chỉnh Khuyến khích*)); và
+- khi có liên quan, hệ thống có thể phục hồi sau sự cố một cách trung thực, không che giấu sự cố hoặc âm thầm thu hẹp quyền của bất kỳ ai hay không (**Điều XIII-F** (*Nền tảng Khả năng Phục hồi và Tự sửa chữa*)).
+
+Việc kiểm tra được phân cấp theo [Tính trọng yếu](core_05_band_oversight.md#materiality), [Sự phụ thuộc](core_05_band_continuity.md#dependency) và [Rủi ro](core_05_band_continuity.md#risk).
+
+Đánh giá phải phản ánh tác động chức năng theo thời gian, quy mô và sự phụ thuộc, chứ không phải:
+
+- danh tiếng, quy mô hay tiếp thị;
+- nhãn bảo đảm trên danh nghĩa;
+- một đoạn văn tượng trưng về độ tin cậy, trong khi huy hiệu độ tin cậy hoặc điểm nhà cung cấp thực sự quyết định ai được bố trí nhân sự hoặc thứ gì được mua;
+- ý định được tuyên bố; hoặc
+- chỉ riêng thành tích trước đây.
+
+<a id="563-system-class-scaling-and-escalation"></a>
+##### 5.6.3 Phân cấp và Nâng mức theo Lớp Hệ thống
+
+Độ sâu rà soát phụ thuộc vào lớp hệ thống. Khi điều kiện kích hoạt tính trọng yếu được đáp ứng:
+
+- Nếu chỉ số đo, cảnh báo hoặc tuyên bố phục hồi của hệ thống có thể khiến hộ gia đình hoặc người vận hành hiểu sai về nhu yếu phẩm sinh tồn (những thứ cần để sống), hồ sơ phải có bằng chứng mạnh, không chỉ lời khẳng định hệ thống đáng tin cậy. Bằng chứng phải cho thấy rằng:
+  - mọi người có thể tin vào hệ thống;
+  - mọi người sẽ không bị trấn an sai; và
+  - hệ thống phục hồi sau sự cố một cách trung thực.
+- Nếu các tuyên bố về thời gian hoạt động, ghép nối hoặc quyền ghi đè khẩn cấp (“truy cập phá kính”) quyết định mọi người có được chăm sóc lâm sàng hoặc dịch vụ khẩn cấp hay không, hồ sơ phải thể hiện những nội dung sau với độ chi tiết tương ứng mức độ trọng yếu của hệ thống:
+  - mọi người có thể khiếu nghị các tuyên bố đó như thế nào; và
+  - liệu mọi người có thể bị dẫn dụ để dựa vào chúng hay không.
+- Khi phối hợp trở nên thiết yếu cho sinh tồn, chứng nhận phải nâng mức rà soát và xem xét lại lớp hệ thống theo [§2 Đánh giá Lớp Hệ thống](#2-system-class-evaluation) và [Phần B §7 Kết quả Chứng nhận](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes). Điều này có thể bao gồm nâng hệ thống lên hướng **Class A** khi sự dựa vào gây hiểu lầm có thể cắt đứt việc phối hợp mà con người cần để sinh tồn.
+
+<a id="564-defects-and-misalignment"></a>
+##### 5.6.4 Khiếm khuyết và Lệch chuẩn
+
+Mỗi việc sau đây phải được xem là khiếm khuyết chứng nhận:
+
+- che khuất, trình bày sai, chia nhỏ hoặc chuyển giao các giới hạn, rủi ro hay lịch sử sự cố trọng yếu khi **Điều XIII** (*Quyền đối với Hệ thống Đáng tin cậy*) yêu cầu rà soát;
+- coi danh tiếng, sự chứng thực, quy mô hoặc tự báo cáo của người vận hành là đủ mà không có phân tích [Độ tin cậy](core_05_band_continuity.md#trustworthiness) có thể đánh giá;
+- chứng nhận tiếp tục dựa vào hệ thống trong khi niềm tin sai, khuyến khích lệch lạc, lộ trình khiếu nghị không tiếp cận được hoặc cách phục hồi che giấu sự cố đã được ghi nhận đe dọa trọng yếu sự thẳng hàng với Hiến pháp; và
+- dùng cách đóng khung về hiệu quả, đổi mới hoặc an ninh để vô hiệu hóa công bố, khả năng tranh biện hoặc khắc phục mà không đáp ứng kỷ luật về độ tin cậy của **Điều XIII** (*Quyền đối với Hệ thống Đáng tin cậy*) và kỷ luật khiếu nghị của **Điều XIII-A** (*Nền tảng Độ tin cậy và Khả tín*).
+
+<br>
+
+*Tiếp tới quy trình diễn đàn, hồ sơ, kết quả và cầu quỹ đạo:* [Chương Tám, Phần B — Hồ sơ và Quy trình](core_07_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) ([§6 Quy trình Diễn đàn](core_07_b_system_alignment_certification_record_process.md#6-forum-process) đến [§10 Quan hệ với Quỹ đạo](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+
+*Ví dụ minh họa cho từng lĩnh vực đánh giá:* [Chương Tám, Phần C — Minh họa](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations).
+
 ---
 
 **Tệp trước:** [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md#chapter-seven-system-alignment-certification-index)

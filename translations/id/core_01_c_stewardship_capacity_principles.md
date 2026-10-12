@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Penempatan dalam korpus (nonoperatif): struktur berkas dan aturan membaca</span></strong></summary>
 
-> Isi berikut **hanya panduan bagi pembaca**. Isi ini tidak menambah, menghapus, atau mempersempit kewajiban mengikat di berkas ini maupun bab lain.
->
 > Berkas ini **bagian dari Sentient Constitution** dan mengikat hanya jika dibaca bersama berkas `core_*` bernomor lainnya sebagai satu instrumen. Isinya adalah **Bab Satu, Bagian C** (§§16–20: pengampuan, tata kelola, penyelarasan insentif dan penguasaan sistem, serta puncak penerapan terpadu).
 >
 > **Sebelumnya:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Bab Satu, Bagian B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan bagi pembaca (nonoperatif): hierarki prinsip dan alur bacaan (Bagian C)</span></strong></summary>
 
-> Isi berikut **hanya panduan bagi pembaca**. Isi ini tidak menambah, menghapus, atau mempersempit kewajiban mengikat di berkas ini maupun bab lain. Widget **Penelusuran** dan **Definisi · Penilaian · Kepatuhan** pada tiap bagian memberi arah tepat saat suatu § secara substantif menggunakan istilah; blok ini merupakan peta silang tingkat bagian sebelum §§16–20.
+> Widget **Penelusuran** dan **Definisi · Penilaian · Kepatuhan** pada tiap bagian memberi arah tepat saat suatu § secara substantif menggunakan istilah; blok ini merupakan peta silang tingkat bagian sebelum §§16–20.
 
 **Hierarki prinsip (Bagian C).** Pada tingkat prinsip:
 
@@ -162,7 +160,7 @@ Pengampuan adalah garis pertama, bukan satu-satunya. Tiga pertanyaan berbeda mem
 
 - Hulu: [§17 Pengampuan yang Berdampak Penting](#17-consequential-stewardship-the-steward-role) (*Pilar 1*); [§16 Pengampuan Secara Mendalam](#16-stewardship-in-depth) (bagian induk, termasuk *Secara sederhana* dan kerangka Pilar 3 di atas); [5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — pilar **partisipasi** ([Daya Bertindak Bermakna](core_05_band_participation.md#meaningful-agency), [Daya Bertindak Edukatif](core_05_band_participation.md#educational-agency)); pilar **pengawasan** ([Transparansi](core_05_band_oversight.md#transparency), [Kemampuan Diaudit](core_05_band_oversight.md#auditability)); disesuaikan dengan [kepentingan material](core_00_preamble.md#material-stake).
-- Pintu akses pengampu (nonoperatif): kartu langkah berikutnya: [Keterpahaman](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). Kartu tersebut tidak dapat mempersempit Konstitusi.
+- Pintu akses pengampu (nonoperatif): kartu langkah berikutnya: [Keterpahaman](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - Hilir: [13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); ranah hak terutama [Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Pasal XXII: Keterpahaman dan Pengampuan Kompleksitas](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ Bagian selanjutnya membahas perannya sendiri.
 
 - Hulu: [§17 Pengampuan yang Berdampak Penting](#17-consequential-stewardship-the-steward-role); [§16 Pengampuan Secara Mendalam](#16-stewardship-in-depth); [§18 Tata Kelola di Bawah Disiplin Pengampuan](#18-governance-under-stewardship-discipline).
 - Baca bersama: [Non-Eksklusi Sentience](core_05_band_participation.md#sentience-non-exclusion) dan [Kelas Substrat](core_05_band_participation.md#substrate-class) (*penerapan tanpa memandang substrat — subbagian ini mengikat pemegang kewajiban, termasuk agen dan operator yang tidak diakui sebagai sentient*); [Tumpukan Kewenangan dan Hierarki Internal](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Kendala Konstitusional](core_05_band_integrative.md#constitutional-constraint); [Dapat Digugat](core_05_band_accountability.md#contestability); [§17.5 Kewajiban Menolak](#175-duty-to-resist).
-- Pintu akses pengampu (nonoperatif): kartu langkah berikutnya: [Pengampuan bersama](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). Kartu tersebut tidak dapat mempersempit Konstitusi.
+- Pintu akses pengampu (nonoperatif): kartu langkah berikutnya: [Pengampuan bersama](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - Hilir: [§17.2 Keselarasan di Bawah Tekanan](#172-alignment-under-pressure); [§17.3 Mencatat Peran, Bukan Pengampu](#173-logging-the-role-not-the-steward); [Bab Tiga Belas §5 — Peran Berwenang, Pengembangan Kompetensi, dan Kontribusi](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Bab Tujuh Belas](core_17_incorporation.md) (*teks pelaksanaan yang diadopsi menerapkan standar ini, bukan menggantikannya*); [§19.1.3 Penerapan Pengampuan dan Operator](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ Beban yang ditimbulkan kewajiban ini bagi steward yang memegang wewenang dengan 
 
 - Landasan sebelumnya: [§17 Stewardship yang Berdampak Penting](#17-consequential-stewardship-the-steward-role); [§17.1 Standar Stewardship Bersama](#171-shared-stewardship-standard) (*siapa yang terikat kewajiban*); [§17.2 Keselarasan di Bawah Tekanan](#172-alignment-under-pressure) (*instruksi untuk menutupi sebagai ujian yang gagal*); [4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint) dan [5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Baca bersama: [Susunan Kewenangan dan Hierarki Internal](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Pelaporan yang Dilindungi (Pelaporan Pelanggaran)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Pasal XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Landasan Keandalan dan Keterpercayaan*) — jalur untuk menggugat tetap terbuka saat melakukan penolakan.
-- Pintu masuk steward (non-operatif): Kartu langkah berikutnya: [Instruksi Melanggar Hukum](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). Kartu ini tidak dapat mempersempit Konstitusi.
+- Pintu masuk steward (non-operatif): Kartu langkah berikutnya: [Instruksi Melanggar Hukum](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - Dampak lanjutan: [Bab Sepuluh §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Kewajiban untuk menolak — aturan pelanggaran dan dampak standing*); [CS-4 §10 tindakan yang dapat diperiksa dan diatribusikan](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Tindakan yang dapat diperiksa dan diatribusikan — catatan minimum atas penolakan*).
 
 </details>
@@ -1002,7 +1000,7 @@ Prinsip ini mengikat steward manusia dan AI secara setara berdasarkan [§17.1 St
 - Hilir: [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency) dan [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Hilir: [§13.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Bab Tiga Belas §5 — Peran yang Berwenang, Pengembangan Kompetensi, dan Kontribusi](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Stewardship sistem kritis**.
 - Hilir: Menargetkan ranah hak untuk agensi, partisipasi, penyelarasan insentif, integritas infosfer, kedudukan, dan peninjauan anti-penguasaan di seluruh [Bab Enam: Hak-Hak Dasar](core_06_rights_part_a.md#chapter-six-foundational-rights); khususnya [Artikel X: Penentuan Nasib Sendiri, Agensi, dan Partisipasi](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artikel XII: Partisipasi Sistem Pemangku Kepentingan, Representasi, dan Proses Hukum yang Semestinya](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Artikel XIII-D: Batasan Penyelarasan Insentif](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [Artikel XV: Integritas Infosfer](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Artikel XIX: Kedudukan dan Status Partisipasi](core_06_rights_part_d.md#article-xix-standing-and-participation-status), dan [Artikel XXIV: Penafsiran Konstitusional, Peninjauan, dan Perlindungan Anti-Penguasaan](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Pintu steward (non-operatif): Kartu langkah berikutnya: [Penyelarasan insentif](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). Kartu tersebut tidak dapat mempersempit Konstitusi.
+- Pintu steward (non-operatif): Kartu langkah berikutnya: [Penyelarasan insentif](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

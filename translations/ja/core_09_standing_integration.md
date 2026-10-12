@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス上の位置（非操作性）：ファイル構造と読み方</span></strong></summary>
 
-> 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
->
 > 本ファイルは[英語第九章](../../core_10_standing_integration.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_09_standing_integration.md`](../../core_10_standing_integration.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **第九章**を含む — 軌跡の鎖の統合と帰結の層。 [第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) は、検証済み事実、軌跡記録、軌跡測定、および貢献軸と違反軸のすべての箱を排他的に所管する。本章はそれらの入力を固定として受け入れ、問い 3 に答える：何が続くか。[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) は、適格な `s = 7`、`s = 8`、または `s = 9` の違反が、対応する反憲法的不正行為の指定を受けるかどうかだけを決める。
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">読者案内（非操作性）：章の順序</span></strong></summary>
 
-> 以下の内容は**読者向け案内にすぎない**。拘束力のある義務を加え、除き、または狭めない。
->
 > 本章を順に読め：変わらない第八章の入力；統合記録と決定の順序；記述子の統合と添付の正規化；違反、是正、および予防（救済と是正、一般軌跡ロック、次いで用いられるところでの自発的な公開説明責任の表明）；ロックの設計と執行（定義と添付、比例性と尺度合わせ、記録の可視性と段階引き上げ、特別な違反規則、および特別ロック）；貢献の帰結（近時性と現在性、次いで能力の閾と許可）；最終軌跡効果；復元と再評価；執行の現実性と救済システム；パターン適用と問い 3 の経路づけ。
 >
 > **責務ある管理の入口（非操作性）：** 拘束力ある次の一歩の声明：[操作性の責務ある管理の声明](#operative-steward-statement-remedy)。支援の指針 [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md) はそれを狭められない。

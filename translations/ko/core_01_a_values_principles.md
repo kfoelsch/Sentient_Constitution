@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스 내 위치(비규범): 파일 구조와 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐**이다. 이 파일이나 다른 장의 구속력 있는 의무를 추가, 삭제하거나 축소하지 않는다.
->
 > 이 파일은 **감응자 헌법의 일부**이며, 번호가 매겨진 다른 `core_*` 파일과 하나의 문서로 함께 읽힐 때만 구속력을 가진다. 이 파일에는 **제1장 A부**(§§1–12: 목적과 역할, §2에서 도입되어 웰빙, 안전, 진실, 신뢰, 자유를 통해 전개되는 번영의 목표, 그리고 §8에서 도입되어 공유 시스템 역량, 회복탄력성, 시장 구조, 시스템 평가를 통해 전개되는 지속성의 목표)가 담겨 있다.
 >
 > **상위 문서:** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비규범): 제1장이 목표, 사원칙, 조항, 정의를 연결하는 방식</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐**이다. 이 파일이나 다른 장의 구속력 있는 의무를 추가, 삭제하거나 축소하지 않는다. 각 절의 **추적**과 **정의 · 평가 · 준수** 위젯이 구속력 있는 참조 경로를 제공한다. 이 블록은 제1장을 읽기 시작하는 독자를 위한 부 전체의 지도다.
+> 각 절의 **추적**과 **정의 · 평가 · 준수** 위젯이 구속력 있는 참조 경로를 제공한다. 이 블록은 제1장을 읽기 시작하는 독자를 위한 부 전체의 지도다.
 
 **각 층위의 연결.** 각 층위는 서로 다른 질문에 답하며, 제1장의 모든 원칙은 나머지 세 층위를 가리킨다.
 
@@ -1463,7 +1461,7 @@ flowchart TB
 
 - 상위 근거: [§11 시장 구조](#11-market-structure); [시장 집중 임계치](core_05_band_accountability.md#market-concentration-threshold).
 - 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**(효력 있는 임계치 설정 규칙); [§11.2 경쟁 촉진과 지배 방지](#112-pro-competition-and-anti-domination); [§11.3 통합 상한](#113-consolidation-ceiling); [CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)의 효력 있는 상한 설정 규칙); [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [제11장 §5.1 집중 기반 전복](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- 관리 안내문(효력 없음): 다음 단계 카드: [시장 구조](implementation/STEWARD_ENTRY_DOORS.md#market-structure). 이 카드는 헌법의 범위를 좁힐 수 없습니다.
+- 관리 안내문(효력 없음): 다음 단계 카드: [시장 구조](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - 하위 절(읽기 순서): [§11.1.1 집중 임계치 발동 기준(도입자가 조정 가능)](#1111-concentration-threshold-triggers-adopter-tunable).
 
 </details>

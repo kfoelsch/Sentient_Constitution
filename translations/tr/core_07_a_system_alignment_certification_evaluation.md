@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus konumu (işlemsel değil): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
->
 > Bu dosya, [İngilizce Yedinci Bölüm, A Kısmı](../../core_08_a_system_alignment_certification_evaluation.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Yedinci Bölüm, A Kısmı**nı içerir — belgelendirme **değerlendirme** gerekleri (sistem sınıfı, bütün-sistem etkenleri ve alan değerlendirme kancaları). **B Kısmı** — belgelendirme kaydı, forum süreci, güzergâh köprüsü ve yeniden açma — [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md)dedir.
@@ -40,1114 +38,1104 @@ Yedinci Bölüm, **A Kısmı**, **sistem hizalama belgelendirmesi değerlendirme
 > **İşlemsel sorumlu yönetim bildirimi.** **Sahip:** Yedinci Bölüm (forum-gözetimli SAC). İlke-katmanı merceği: Birinci Bölüm §14. SAC, Madde XVI / Denetlenebilirlik altında özellikle büyük bir denetim sürecidir — tek denetim değildir. **Yasak hamle:** Birim testlerini, mahremiyet kontrol listelerini ya da yerel hizalı etiketleri belgelendirme saymayın. İtiraz penceresini atlamayın. Beşinci bir denetim evi uydurmayın. Bir belgelendirme rozetini ya da LEQU puanını algılama statüsü saymayın. **Saat:** Hizalı iddiadan önce, etkilenen-taraf itiraz penceresi dahil, itiraz edilebilir bir Yedinci Bölüm yolunu açın ya da geri yükleyin.
 
 <a id="1-purpose-and-role"></a>
+
 ### 1. Amaç ve rol
 
 <details>
-<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">İz ve bağlantılar</span></strong></summary>
 
-- Yukarı: [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights) ve [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [maddi pay](core_00_preamble.md#material-stake); [Orantılılık](core_05_band_accountability.md#proportionality) ve [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional) (Beşinci Bölüm); Katılım ölçüm ailesi (*ses, erişim ve itiraz yolları*); [Birinci Bölüm §9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Birinci Bölüm §14 Sistemik değerlendirme gerekleri](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*ilke-katmanı bütün-sistem değerlendirme merceği — tek bir köşe değil*); İkinci Bölümden Dördüncü Bölüme; [Beşinci Bölüm](core_05__definitions_home.md#chapter-five-foundational-definitions) (*kanonik tanımlar*); [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) (Beşinci Bölüm kanonik terimi; işlemsel olmayan kısaltma **SAC**); [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional) (Beşinci Bölüm anlamı).
-- Aşağı: [§2](#2-system-class-evaluation) ve [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*sistem sınıfı değerlendirmesi ve örnek profiller*); [§3.8](#38-illustrative-whole-system-application-by-class) (*sınıfa göre işlenmiş bütün-sistem örnekleri*); [§4.1](#41-illustrative-data-handling-application-by-class) (*sınıfa göre işlenmiş veri-işleme örnekleri*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*sınıfa göre işlenmiş ekolojik-ayak-izi örnekleri*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*sınıfa göre işlenmiş sistemler-arası-destek örnekleri*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*sınıfa göre işlenmiş ayrımcılık-yasağı örnekleri*); [§8.1](#81-illustrative-accessibility-application-by-class) (*sınıfa göre işlenmiş erişilebilirlik örnekleri*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*sınıfa göre işlenmiş eğitim-yeteneği örnekleri*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*sınıfa göre işlenmiş güvenilirlik örnekleri*); [§3](#3-whole-system-certification-evaluation) (*bütün-sistem belgelendirme değerlendirme etkenleri*); [§4](#4-data-types-and-handling-evaluation) ile [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*alan değerlendirmeleri*); [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*belgelendirme kaydı içerikleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü gerekleri*); [B Kısmı §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*forum bileşen rolleri*); [B Kısmı §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*gözetim sırası ve itiraz edilebilirlik zinciri*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*güzergâh-kayıt köprüsü*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*yeniden açma ve kaçınma-karşıtı*); [Sekizinci Bölüm](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*güzergâh kayıtları ve doğrulanmış-girdi kapısı*); [Dokuzuncu Bölüm](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*güzergâh etkileri ve bütünleşme*); [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum gözetimi, belgelendirme, hizalama tanıması ve inceleme*).
-- Birlikte oku: [corpus_systems.md](../../corpus_systems.md), özellikle **CS-3 — Sistem sınıflaması ve işleme**, **CS-2 — Bilgi türleri ve işleme** ve **CS-5**; [corpus_forum.md](../../corpus_forum.md), özellikle **CF-5** (*Yönlendirme işlemleri, aktarım, belgelendirme ve temsilî muamele*) ve **CF-7** (*Bütünlük güvenceleri, ele geçirme-karşıtı işlemler ve kendini-yargılamama desteği*); **Madde XVI** (*Denetim, şeffaflık ve bağımsız doğrulama*) ve [Denetlenebilirlik](core_05_band_oversight.md#auditability) (*denetim tabanları — SAC gözetim altında özellikle büyük bir denetim sürecidir, tek denetim evi değildir*); **CJS-3.3**–**CJS-3.5** (*denetlenebilirlik, denetim-erişimi ve bağımsız-doğrulama terimleri*).
+- **Önceki dayanaklar:** [Önsöz — anayasal sahipler kaydı](core_00_preamble.md#4-principles-definitions-and-rights) ve [yetki hiyerarşisi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [maddi pay](core_00_preamble.md#material-stake); [Orantılılık](core_05_band_accountability.md#proportionality) ve [esaslı adalet](core_05_band_participation.md#substantive-fairness) (Beşinci Bölüm); katılım ölçüm ailesi (*ses, erişim ve itiraz yolları*); [Birinci Bölüm §16 — Derinlemesine sorumlu yönetim](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Birinci Bölüm §12 — Sistemik değerlendirme gerekliliği](core_01_a_values_principles.md#12-systemic-evaluation-requirement) (*tek bir köşe yerine bütün sisteme bakan ilke düzeyinde değerlendirme merceği*); İkinci ila Dördüncü Bölümler; [Beşinci Bölüm](core_05__definitions_home.md#chapter-five-foundational-definitions) (*kanonik tanımlar*); [Yedinci Bölüm §2 — Dört koltuklu anayasal taban](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); [Sistem Uyumu Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification) (Beşinci Bölümdeki kanonik terim; işlevsel olmayan kısa ad **SAC**); [Sistem Sertifikasyon Kaydı](core_05_band_continuity.md#system-certification-record) (Beşinci Bölümdeki anlamı).
+- **Sonraki bağlantılar:** [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); [B Bölümü §9.1](core_08_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*sertifikasyona itiraz*); sınıf profilleri, tüm sistem örnekleri ve her alanın uygulamalı örnekleri [C Bölümünde](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) bulunur: [örnek sistem sınıfı profilleri](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive), [sınıfa göre tüm sistem uygulama örnekleri](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive), veri işleme [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), ekolojik ayak izi [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), eğitim kapasitesi [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive), sistemler arası destek [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive), ayrımcılık yapmama [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), erişilebilirlik [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) ve güvenilirlik [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive); [§3](#3-whole-system-certification-evaluation) (*tüm sistem sertifikasyon değerlendirmesi etkenleri*); [§3.4](#34-data-types-and-handling-evaluation)–[§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*alan değerlendirmeleri*); [B Bölümü §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*gözetim sıralaması ve itiraz zinciri*); [B Bölümü §6.1](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*forum bileşenlerinin rolleri*); [B Bölümü §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*sertifikasyon kaydının içeriği*); [B Bölümü §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*kayıt bütünlüğü*); [B Bölümü §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*yeniden açma ve dolanmayı önleme*); [B Bölümü §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*güzergâh kayıtlarına köprü*); [Dokuzuncu Bölüm](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*güzergâh kayıtları ve doğrulanmış girdi eşiği*); [Onuncu Bölüm](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*güzergâh etkileri ve bütünleştirme*); [On İkinci Bölüm](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum gözetimi, sertifikasyon, uyum ve inceleme*).
+- **Birlikte okuyun:** [corpus_systems.md](corpus_systems.md), özellikle **CS-3 — Sistem sınıflandırması ve ele alınması**, **CS-2 — Bilgi türleri ve ele alınması** ve **CS-5** (*kullanıcıya dönük kapasite yüzeyleri*); [corpus_forum.md](corpus_forum.md), özellikle **CF-5** (*yönlendirme, aktarım, sertifikasyon ve temsil işlemleri*) ve **CF-7** (*bütünlük güvenceleri, ele geçirmeyi önleme ve kendi kendini yargılamaya karşı destek*); **XVI. Madde** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) ve [Denetlenebilirlik](core_05_band_oversight.md#auditability) (*denetim tabanları — SAC, gözetim altındaki özellikle büyük bir denetim sürecidir; denetimin tek sahibi değildir*); **CJS-3.3** (*gözetim: denetlenebilirlik ve yeniden kurulabilirlik terimleri*)–**CJS-3.5** (*bağımsız doğrulama ve iddia bütünlüğü terimleri*).
 
 </details>
 
 <br>
 
-*Yalın dille: bir sistem algılayanların yaşamına gerçekten dokunduğunda belgelendirme **orantılı** olmak zorundadır — sistemin gerçek etki, bağımlılık ve riskinin istediği kadar talepkâr; herkese-uydurulmuş bir kontrol listesi ya da lastik damga değil. Ayrıca **katılımcı** olmak zorundadır — etkilenen algılayanlar ve topluluklar neyin incelendiğini görebilmeli, neyin kararlaştırıldığını anlayabilmeli ve bir şey yanlışken itiraz edebilmelidir. Forumlar kanıtı inceler, bir belgelendirme kaydına yazar ve sistemin ne kadar riskli olduğuna uyan bir takvimde yeniden denetim ister. Belgelendirme bir popülerlik puanı, sonsuz bir geçiş ya da hak incelemesini atlama yolu değildir. Sistemin hizalaması hakkında şimdi neyin bilindiğine dair zamana-sınırlı, itiraz edilebilir bir bildiridir. Dörtlünün **gözetim** bacağı altında gözetim denetim ister; sistem hizalama belgelendirmesi, başkaları arasında özellikle büyük, yüksek-paylı bir denetim sürecidir — tek denetim evi değildir (**Madde XVI**, [Denetlenebilirlik](core_05_band_oversight.md#auditability)).*
+*Sade ifadeyle: Bir sistem algılayanların yaşamı için gerçekten önemliyse sertifikasyon **orantılı** olmalıdır: sistemin gerçek etkisi, ona bağımlılık ve risk ne kadar gerektiriyorsa o kadar titiz olmalı; herkese uyan tek bir kontrol listesi ya da formaliteye indirgenmemelidir. Aynı zamanda **katılımcı** olmalıdır: etkilenen algılayanlar ve topluluklar nelerin incelendiğini görebilmeli, neye karar verildiğini anlamalı ve yanlışlık varsa buna itiraz edebilmelidir. Forumlar kanıtları inceler, bunları sertifikasyon kaydına geçirir ve sistemin riskine uygun aralıklarla yeniden kontrol yapılmasını ister. A, B ve C sınıfları tam sürece, L sınıfı daha hafif sürece tabidir. P sınıfının süreci kullanması teşvik edilir; etkileri özel birimin dışına çıktığında veya işletmecisi anayasal uyum iddia ettiğinde süreç zorunlu olur.*
 
-<a id="1-purpose-and-role"></a>
+*Sertifikasyon bir popülerlik puanı, süresiz geçiş izni ya da hak incelemesini atlama yolu değildir. Sistemin şu anki uyumu hakkında bilinenleri açıklayan, zamanla sınırlı ve itiraz edilebilir bir beyandır. Anayasal Dörtlünün **gözetim** ayağı uyarınca gözetim denetim gerektirir. Sistem uyumu sertifikasyonu, diğerlerinin yanında özellikle büyük ve yüksek riskli bir denetim sürecidir; denetimin tek sahibi değildir (**XVI. Madde**, [Denetlenebilirlik](core_05_band_oversight.md#auditability)).*
 
-**Sistem hizalama belgelendirmesi**, belirtilmiş bir kapsam ve inceleme takvimi için tek bir soruyu yanıtlamak üzere vardır: Sistem, tanıma, koşullu tanıma, doğrulama, yeniden doğrulama, süregelen bel bağlama, dağıtım ya da koşullardan maddi salıverme için anayasal hizalamayı yeterince gösterdi mi?
+**Sistem uyumu sertifikasyonu**, belirtilen kapsam ve inceleme takvimi için şu soruyu yanıtlar: Sistem; sertifikasyon, koşullu sertifikasyon, doğrulama, yeniden sertifikasyon, sisteme güvenerek kullanımı sürdürme, devreye alma veya koşulların esaslı biçimde kaldırılması için yeterli anayasal uyum gösterdi mi?
 
-Bir gözetim aracı olarak belgelendirme, [Denetlenebilirlik](core_05_band_oversight.md#auditability) ve **Madde XVI** (*Denetim, şeffaflık ve bağımsız doğrulama*) altında özellikle büyük bir denetim sürecidir: forum-gözetimli, çok-alanlı ve tanıma taşıyan. Kardeş denetim kiplerini soğurmaz ya da yerlerine geçmez (**CS-3** altında Sistem sınıflama kaydı denetimleri, **CS-2** altında Sistem veri türleri kaydı denetimleri, karmaşıklık ve sorumlu yönetim denetimleri, iddia doğrulaması ve sürekli-denetim adlandırılmış yolları dahil).
+Sertifikasyonun derinliği, kayıt yükü, yeniden sertifikasyon sıklığı, paydaş incelemesi ve itiraz yolları [Orantılılık](core_05_band_accountability.md#proportionality) uyarınca [maddi paya](core_00_preamble.md#material-stake) göre ölçeklenmelidir:
 
-Belgelendirme derinliği, kayıt yükü, yeniden doğrulama temposu, etkilenen-taraf incelemesi ve itiraz yolları [maddi pay](core_00_preamble.md#material-stake) altında [Orantılılık](core_05_band_accountability.md#proportionality) ile ölçeklenmelidir. Daha yüksek-etki, daha yüksek-bağımlılık ve daha yüksek-risk sistemleri daha güçlü kanıt, daha açık kayıtlar ve daha uygulanabilir katılım ister — kim sisteme bel bağlıyorsa ona ölçeklenmiş maddi erişilebilirlik, etkilenen-taraf katkısı ve itiraz güzergâhları dahil. Daha düşük sınıflar ve sınırlı kapsamlar yine dürüst sınıflama ve orantılı güvence ister; dış etkiler varken maddi ödevlerden bedava geçiş almazlar.
+- Etkisi, bağımlılık yarattığı ve riski daha yüksek sistemler daha güçlü kanıt, daha açık kayıtlar ve daha uygulanabilir katılım gerektirir. Buna gerçek erişilebilirlik, paydaş girdisi ve sisteme kimin dayandığına uygun itiraz yolları dahildir.
+- Daha düşük sistem sınıfları ve sınırları belirli kapsamlar da dürüst sınıflandırma ve orantılı güvence gerektirir. Dış etkiler bulunduğunda maddi yükümlülüklerden muaf tutulmazlar.
 
-Belgelendirme [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims)ı [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) üzerinden işler:
+[CS-3 §3.5 Yeniden sınıflandırma gerekliliğinde](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) belirtildiği üzere süreç etki sınıfına göre uygulanır:
 
-- **[Gelişim](core_00_preamble.md#flourishing)** — belgelendirme, tanımanın ya da süregelen bel bağlamanın Hak Tabanlarını sessizce yenmeyeceğini ya da anayasal olarak ilgili yaşama adil katılımı tıkamayacağını doğrular;
-- **[Süreklilik](core_00_preamble.md#continuity)** — belgelendirme, paylaşılan sistemlerin teslimi kapıladığı ya da sürdürdüğü yerde dayanıklı, gerilemeyen arzı ve sınıfa-ölçeklenmiş yeniden doğrulamayı doğrular;
-- **Katılım** — etkilenen algılayanlar ve topluluklar kendilerini ilgilendiren inceleme yollarını anlayabilir, itiraz edebilir ve onlara katılabilir;
-- **Gözetim** — kayıtlar, kanıt ve varsayımlar bağımsız denetim için yeterince görünür ve denetlenebilirdir; belgelendirmenin kendisi o gözetim ödevi altında özellikle büyük bir denetim sürecidir, tek değildir;
-- **Hesap verebilirlik** — kusurlar, yanlış sınıflama ve tabanı yenen işleyiş, olgular desteklediğinde onarıma, koşullara, geri çekmeye ya da güzergâh girdisine yönlendirilir;
-- **Zamanındalık** — inceleme ve itiraz saatleri, zarar hâlâ önlenebilir ya da tersine çevrilebilirken belgelendirmenin bayatlamasını engeller.
+- **A, B ve C sınıfları:** Bu sistemler en yüksek etki, bağımlılık ve riski taşır. Uygulanan her katman bakımından [§3](#3-whole-system-certification-evaluation), [§4](#4-evaluations-where-implicated) ve [§5](#5-rights-floor-and-domain-evaluations) uyarınca tüm sistem değerlendirmesi tam derinlikte zorunludur.
+- **L sınıfı:** Aynı değerlendirme zorunludur ancak orantılı biçimde yürütülür; CS-3'ün izin verdiği durumlarda varsayılan yeniden kontrol aralığı daha uzun, kayıtlar daha basit olabilir.
+- **P sınıfı:** Sistem geçerli biçimde P sınıfında kaldığı sürece süreç teşvik edilir ve isteğe bağlı uygulanabilir. Sistem L veya daha yüksek bir sınıfa yeniden sınıflandırılırsa ya da işletmeci sistemin anayasal uyumlu olduğunu gönüllü olarak ileri sürerse zorunlu hale gelir.
 
-Bu bölüm, şunlar için forum-gözetimli belgelendirme sürecini yürütür:
+Sertifikasyon, [İki Anayasal Amacı](core_00_preamble.md#two-constitutional-aims) [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) aracılığıyla uygular:
 
-- **Sistem sınıfı ve yeniden doğrulama temposu** — ne kadar sıkı bakıldığı ve ne sıklıkla ([§2](#2-system-class-evaluation));
-- **Değerlendirmeler** — bütün-sistem ve alan denetimleri ([§3](#3-whole-system-certification-evaluation) ile [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation));
-- **Belgelendirme kaydı içerikleri** — dosyaya ne girmelidir ([B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **Tanıma ve süregelen bel bağlama** — hangi sonuçlar sayılır ([§1](#1-purpose-and-role), [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **İtiraz ve itiraz edilebilirlik** — itirazların forumlar boyunca nasıl ilerlediği ([B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability), [B Kısmı §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain));
-- **Belgelendirme kusurları** — belgelendirme kusurlu olduğunda ne olduğu ([B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) ve bölüm boyunca değerlendirme kesitleri).
+- **[Gelişim](core_00_preamble.md#flourishing)** — sertifikasyon veya sisteme güvenerek kullanımı sürdürme, Hak Tabanlarını fark ettirmeden boşa çıkarmamalı ya da anayasal açıdan önemli yaşama adil katılımı engellememelidir;
+- **[Süreklilik](core_00_preamble.md#continuity)** — sağlıklı doğal sistemleri tüketmek yerine destekleyen, kalıcı ve gerilemeyen tedariki ([Ekolojik Bütünlük](core_05_band_continuity.md#ecological-integrity) ve [Ekolojik İyileşme Kapasitesi](core_05_band_continuity.md#ecological-recovery-capacity) dahil) doğrulamalı; ortak sistemlerin sunumu mümkün kıldığı veya desteklediği durumlarda sistem sınıfına göre ölçeklenen yeniden sertifikasyon sağlamalıdır;
+- **Katılım** — etkilenen algılayanlar ve topluluklar, kendileri için önemli inceleme yollarını anlayabilir, bunlara katılabilir ve itiraz edebilir;
+- **Gözetim** — kayıtlar, kanıtlar ve varsayımlar bağımsız incelemeye yetecek ölçüde görünür ve denetlenebilir olmalıdır; sertifikasyon bu gözetim görevi kapsamındaki özellikle büyük denetim süreçlerinden biridir, tek süreç değildir;
+- **Hesap verebilirlik** — kusurlar, yanlış sınıflandırma ve tabanları boşa çıkaran işletim; olguların desteklediği durumlarda giderime, koşullara, geri çekmeye veya güzergâh girdisine yönlendirilmelidir;
+- **Zamanındalık** — inceleme ve itiraz süreleri, zarar hâlâ önlenebilir veya giderilebilirken sertifikasyonun güncelliğini yitirmesini önlemelidir.
 
-Örnek **Sınıf A**, **Sınıf B** ve **Sınıf C** profilleri — ve sınıfın bu bölüm boyunca belgelendirme derinliğini nasıl ölçeklediği — [§2.1](#21-illustrative-class-profiles-non-exhaustive)tedir. Aynı üç sistem için işlenmiş yürüyüşler [§3.8](#38-illustrative-whole-system-application-by-class) (*bütün-sistem değerlendirmesi*), [§4.1](#41-illustrative-data-handling-application-by-class) (*veri türleri ve işleme*), [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*ekolojik ayak izi*), [§6.1](#61-illustrative-cross-system-support-application-by-class) (*orantılı sistemler-arası katkı*), [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*ayrımcılık yasağı*), [§8.1](#81-illustrative-accessibility-application-by-class) (*erişilebilirlik*), [§9.1](#91-illustrative-educational-capability-application-by-class) (*eğitim yeteneği*) ve [§10.1](#101-illustrative-trustworthiness-application-by-class) (*güvenilirlik*)te yer alır.
+Gözetim aracı olarak sertifikasyon, [Denetlenebilirlik](core_05_band_oversight.md#auditability) ve **XVI. Madde** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) kapsamındaki özellikle büyük denetim süreçlerinden biridir. Forum gözetimindedir, birden çok alanı kapsar ve statü verir. Diğer denetim biçimlerinin sonuçlarını bir araya getirebilir; ancak onları bünyesine katmaz veya onların yerine geçmez. Her birinin kendi sorumlusu vardır; bu sorumlular denetim sürecinin [kardeş denetim biçimleri haritasında](corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) belirtilir:
 
-Bu bölümün doğrulamaya yardım ettiği hak tabanları **§1.1**de ele alınır.
+- **CS-2** (*Bilgi türleri ve ele alınması*) kapsamındaki Sistem Veri Türleri Kaydı denetimleri;
+- **CS-3** (*Sistem sınıflandırma mekanizması*) kapsamındaki Sistem Sınıflandırma Kaydı denetimleri;
+- **CS-4** (*Kritik sistemlerin sorumlu yönetimi*) kapsamındaki sorumlu yönetim güvencesi incelemeleri;
+- **CS-5** (*Tasarım, test, doğrulama ve devreye alma*) **ACA** kapsamındaki sürekli denetim;
+- **CS-6** (*Anlaşılabilirlik ve karmaşıklığın sorumlu yönetimi*) ve **XXIII-B. Madde** (*Karmaşıklık Denetimi ve Modülerlik Gereklilikleri*) kapsamındaki karmaşıklık denetimleri;
+- **CJS-3.5** (*Bağımsız doğrulama ve iddia bütünlüğü terimleri*) kapsamındaki iddia doğrulama.
 
+Bu kontrollerin her biri sertifikasyon olmadan da ayrı yürütülebilir. Sertifikasyon onların yerini almaz.
 
-<a id="11-rights-floors-this-chapter-helps-verify"></a>
-#### 1.1 Bu bölümün doğrulamaya yardım ettiği hak tabanları
+<a id="11-certification-at-a-glance"></a>
 
-Maddi etkili sistemler algılayanların nasıl yaşadığını kapıladığında ya da biçimlendirdiğinde belgelendirme, onları onaylamanın Altıncı Bölüm **Hak Tabanları**nı sessizce yenmeyeceğini denetler; şunlar dahil:
+#### 1.1 Sertifikasyona genel bakış
 
-- **Madde III-A** (*Hayatta kalma*) altında **hayatta kalma esasları** — gıda, su, barınak, işletme ortamı ve karşılaştırılabilir alt-tabaka-bağımsız girdiler;
-- **Madde III-B** (*Eşit eğitim erişimi*) altında **eşit eğitim erişimi**;
-- **Madde VI** (*Algılayan-merkezli eğitim hakkı*) altında **algılayan-merkezli eğitim yeteneği** — sistemlerin yeniden eğitim ve yaşam boyu öğrenme adlandırılmış yollarını sıraladığı, değerlendirdiği, önerdiği, yerleştirdiği, kimlik bilgisiyle kapıladığı ya da maddi olarak kapıladığı yerde;
-- **Madde V-B** (*Ayrımcılık yasağı*) altında **ayrımcılık yasağı** — sistemlerin algılayanlar arasında sınıfladığı, kapıladığı, fiyatlandırdığı, sıraladığı ya da yük ve yarar tahsis ettiği yerde;
-- **Madde V-G** (*Erişilebilirlik*) altında **erişilebilirlik** — sistemlerin anayasal olarak ilgili alanlarda maddi katılımı kapıladığı yerde;
-- **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) altında **sağlam ve güvenilir sistem davranışı** — sistemlerin temsil edilen davranış, sınırlar, riskler, itiraz yolları ya da onarıma algılayan bel bağlamasını maddi olarak biçimlendirdiği yerde;
-- **Madde XIII-A** (*Güvenilirlik ve güvenilirlik tabanı*) ve [**Güvenli koşullar**](core_05_band_continuity.md#safe-conditions-constitutional) altında **güvenli koşullar** — sistemlerin üretken etkinliği sağladığı ya da kapıladığı yerde;
-- **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) altında **kaynak tahsisi**, sistemlerin paylaşılan altyapıdan ya da temel bağımlılıklardan tahsis, yönlendirme, finansman ya da çıkarım yaptığı yerde **Madde IV-B** (*Sistemler-arası adillik ve sürdürülebilirlik*) altında [Orantılı sistemler-arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) dahil.
+*Sade ifadeyle: Sistemi dürüstçe sınıflandırın, geçerli değerlendirmeleri yürütün, forumların kanıtları ve paydaşların kaygılarını bağımsız biçimde incelemesini sağlayın ve bir sonuca karar verin. Forum incelemesi için açılan tek kaydı tamamlayıp itiraz yolu açık biçimde yayımlayın. Sertifikalı bir sistem, bildirim süresi dolduktan ve gerekli korumalar sağlandıktan sonra devreye alınabilir. Gerçek sonuçları izleyin, olaylara ve itirazlara yanıt verin; takvime göre veya olgular değiştiğinde yeniden inceleyin. Etkilenen kapsamın kullanımına izin vermeden ya da koşullarını kaldırmadan önce kusurları giderin ve düzeltmenin bağımsız biçimde doğrulanmasını sağlayın. Her inceleme turunda öncekiyle bağlantılı yeni bir kayıt kullanılır.*
+
+Süreç **altı aşamada** yürür: **I. Çerçevele**, **II. Değerlendir**, **III. İncele**, **IV. Karar ver**, **V. Kayda geçir** ve **VI. İşlet**. II. aşama, her biri ayrı bir bölüm olan üç katmandan oluşur: **IIa** (her zaman), **IIb** (konu gündeme geldiğinde) ve **IIc** (tetiklendiğinde). VI. aşama iki alt aşamadan oluşur: **VIa** (işletme ve yeniden sertifikasyon, [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) ve **VIb** (güzergâh bağlantısı, [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)). Şema tüm sertifikasyon sürecini sırasıyla gösterir. A Bölümü ilk iki aşamayı, çerçeveleme ve değerlendirmeyi kapsar; [B Bölümü](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) kalan dört aşamayı kapsar: forum süreci, karar ve devreye alma izni, kayıt ve işletme (itiraz yolu, yeniden sertifikasyon, yeniden açma ve güzergâh bağlantısı).
+
+Uygulanan her değerlendirme her sertifikasyon turunda yeniden yapılır: ilk sertifikasyonda, [§2](#2-system-class-evaluation) uyarınca belirlenen takvimde her yeniden sertifikasyonda, ayrıca yeniden açılan veya yeni başlatılan her incelemede. Sisteme bağımlılığın artması, ortak temellerden daha fazla kaynak çekilmesi, bu temellere katkının önemli ölçüde azalması veya inandırıcı bir itiraz gibi maddi olgular değiştiğinde, bir sonraki planlı yeniden sertifikasyondan önce inceleme yeniden açılır. Tetikleyiciler [B Bölümü §9'da](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) listelenir.
+
+```mermaid
+flowchart TB
+    T(["Maddi etkisi olan sistem sertifikasyon ister<br/>ya da sisteme bağımlılık artar"])
+    C["I. Aşama, Çerçevele — §2<br/>Dürüstçe sınıflandır<br/><br/>Sınıf, derinliği ve yeniden kontrol takvimini belirler"]
+    subgraph W["II. Aşama, Değerlendir — §3–§5 Tüm sistem değerlendirmesi"]
+        direction LR
+        Al["IIa, §3.1–§3.4 — Her zaman<br/><br/>Sistemik risk: değerlendir ve<br/>ihtiyaç duyanlara açıkla; zaman ufku;<br/>yönetişim; veri türleri"]
+        Im["IIb, §4 — Konu gündeme geldiğinde<br/><br/>Mahremiyet odakları, çıkış hakları,<br/>toplanma ve muhalefet"]
+        Tr["IIc, §5 — Tetiklendiğinde<br/><br/>Uygulanabilir Hak Tabanı kontrolleri<br/>ve altı alan değerlendirmesi"]
+        Al ~~~ Im ~~~ Tr
+    end
+    F["III. Aşama, İncele — §6<br/>Kanıtların ve paydaş kaygılarının<br/>bağımsız incelenmesi<br/><br/>Görevlendirilen forumlar bulguları yayımlar;<br/>itiraz yolları açık kalır"]
+    Rec["V. Aşama, Kayda geçir — §8<br/>Tek Sistem Sertifikasyon Kaydı<br/><br/>Forum incelemesi için açılır; sonuç, destekleyici bulgular,<br/>koşullar ve işletme planıyla tamamlanır"]
+    S[["Dokuzuncu Bölüm — Güzergâh<br/>kayıtları<br/><br/>Bu bölümün dışında"]]
+    O{"IV. Aşama, Karar ver — §7<br/><br/>Kanıtlar hangi sonucu ve<br/>statüyü destekliyor?"]
+    Fc["Tam Sertifikasyon — §7, §9.2<br/><br/>Arka arkaya gerekli sayıda temiz geçici yeniden sertifikasyon;<br/>mevcut veya yaklaşan bir uyumsuzluk belirtisi yok<br/>Daha uzun yeniden sertifikasyon süresi; koşullar olabilir"]
+    Pc["Geçici Sertifikasyon — §7, §9.2<br/><br/>İlk onay, uyumsuzluktan sonra toparlanma,<br/>ya da geçici statünün sürmesi veya düşürülmesi<br/>Daha kısa süre; koşullar olabilir"]
+    Nc["Sertifikalandırılmadı — §7<br/><br/>Ertelendi, reddedildi, geri çekildi veya süresi doldu<br/>Devreye alma yok; nedenler ve gerekli düzeltmeler belirtilir"]
+    Pub["Tamamlanan kaydı yayımla — §7, §9.1<br/><br/>Yayımlanmış kayıt için itiraz yolunu aç;<br/>yeni veya genişletilen kapsam için devreye alma ve bildirimi belirt"]
+    G{"Devreye alma eşiği — §7<br/><br/>Sertifikasyon ve uygulanabilir<br/>devreye alma ön koşulları sağlandı mı?"]
+    Hold["Devreye alma ön koşullarını karşıla — §7<br/><br/>Bildirim süresini tamamla ve devreye almadan önce<br/>gereken koşulları bağımsız olarak doğrula"]
+    Rm["Koru ve düzelt — §7, §9.2<br/><br/>Etkilenen kapsamda yeni devreye alma yok;<br/>etkilenen algılayanları koru, tasarımı veya işletimi düzelt<br/>ve bağımsız doğrulama için kanıt sun"]
+    Ch["VIa. Aşama, İşlet ve yeniden sertifikalandır — §9–§9.2<br/>İzle ve itirazları açık tut<br/><br/>Sertifikalı kapsam ve koşullar içinde işlet;<br/>sonuçları izle, olaylara ve itirazlara yanıt ver"]
+    S2[["Dokuzuncu Bölüm — Güzergâh<br/>kayıtları<br/><br/>Bu bölümün dışında"]]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    Re["Sonraki inceleme turu — §9<br/><br/>Yeniden sertifikasyon, yeniden açma veya yeni inceleme;<br/>her tur öncekiyle bağlantılı yeni bir kayıt açar"]
+    T --> C
+    A1((A)) --> C
+    C --> W
+    W --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, §10 —<br/>yalnızca doğrulanmış girdiler;<br/>mevcut sertifikasyon veya<br/>sertifikasyon sırasında doğan olgular| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|Sertifikalandırılmadı| Rm
+    G --->|Evet: kayıttaki<br/>kapsam içinde işlet| Ch
+    G --->|Sertifikalı,<br/>ön koşullar bekleniyor| Hold
+    Hold --> G
+    Ch -->|Maddi kusur:<br/>koru ve düzelt| Rm
+    Ch -->|Takviminde veya<br/>maddi değişiklik ya da<br/>inandırıcı itiraz inceleme<br/>gerektirdiğinde| Re
+    Ch -.->|VIb, §10 —<br/>yalnızca doğrulanmış girdiler;<br/>işletim, Katkı ve İhlal kayıtları<br/>için olgular sağlayabilir| S2
+    Rm -->|Düzeltme kanıtı<br/>sonraki inceleme turunda<br/>kontrol edilir| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style T fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style Al fill:none,stroke:#16a34a,color:#ffffff
+    style Im fill:none,stroke:#16a34a,color:#ffffff
+    style Tr fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
+
+<details>
+<summary><strong><span style="color: #2563eb;">Okur rehberi (işlevsel olmayan): altı aşama</span></strong></summary>
+
+> Aşağıdaki içerik yalnızca okura rehberlik eder. Bu veya başka bölümlerdeki bağlayıcı yükümlülükleri eklemez, kaldırmaz veya daraltmaz.
+>
+> | Aşama | Bölümler | Aşamanın yanıtladığı soru | Konum |
+> |-------|----------|--------------------------|-------|
+> | **I. Çerçevele** | [§2](#2-system-class-evaluation) | Sistem hangi sınıftadır; ne kadar derin ve ne sıklıkta değerlendirilmelidir? | A Bölümü |
+> | **II. Değerlendir** | [§3](#3-whole-system-certification-evaluation) (IIa, her zaman) · [§4](#4-evaluations-where-implicated) (IIb, gündeme geldiğinde) · [§5](#5-rights-floor-and-domain-evaluations) (IIc, tetiklendiğinde) | Tüm sistem her zaman, ilgili konu gündeme geldiğinde ve tetikleyici olduğunda ne yapar? | A Bölümü |
+> | **III. İncele** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | Kanıtları ve paydaş kaygılarını hangi bağımsız forumlar, hangi sırayla inceler ve bu incelemeye nasıl itiraz edilir? | B Bölümü |
+> | **IV. Karar ver** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | Forumlar hangi sonuca ulaşır ve sistem devreye alınabilir mi? | B Bölümü |
+> | **V. Kayda geçir** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | Forum incelemesi için açılan tek kayıt; sonucu, destekleyici bulguları, koşulları ve işletim planını içeriyor mu ve denetlenebilir mi? | B Bölümü |
+> | **VI. İşlet** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, işletme ve yeniden sertifikasyon) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, güzergâh bağlantısı) | Sonuçları kim izler, olaylara ve itirazlara kim yanıt verir, düzeltmeler nasıl doğrulanır, inceleme ne zaman tekrarlanır ve güzergâha ne aktarılır? | B Bölümü |
+>
+> **A**, **B** ve **C** sınıflarının örnek profilleri ve sistem sınıfının bu bölümde sertifikasyon derinliğini nasıl ölçeklediği [Örnek Sistem Sınıfı Profilleri (Kapsamlı Olmayan)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) bölümündedir. [§3](#3-whole-system-certification-evaluation) ila [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) arasındaki değerlendirme alanlarının her biri için aynı üç sistemin ayrıntılı uygulama örnekleri [C Bölümü — Örnekler](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) içinde devam eder; her profil ve örnek, gösterdiği A Bölümü kısmına bağlanır.
+
+</details>
+
+<br>
 
 <a id="2-system-class-evaluation"></a>
 
-### 2. Sistem sınıfı değerlendirmesi
+### 2. Sistem Sınıfı Değerlendirmesi
 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [§1](#1-purpose-and-role) (*amaç ve rol*); Bütünleştirici Maddilik ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) (*Maddilik*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [Maddi etki](core_05_band_oversight.md#material-impact), [Bağımlılık](core_05_band_continuity.md#dependency), [Risk](core_05_band_continuity.md#risk), [Sistem sınırları](core_05_band_continuity.md#system-boundaries) ve [Kapsam belgesi](core_05_band_continuity.md#charter) (Beşinci Bölüm); [Birinci Bölüm §14 Sistemik değerlendirme gerekleri](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); **Madde III-A** (*Hayatta kalma*) ve **Madde III-B** (*sınıflama erişimi kapıladığında Hak Tabanı teslimi*); **Madde IV-A** (*Bağımlılık haritalama ve kaynak-akışı şeffaflığı*) ve **Madde IV-B** (*belgelendirme paylaşılan-altyapı bel bağlamasını kapıladığında kaynak tahsisi ve bağımlılık sorumlu yönetimi*).
-- Aşağı: [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*örnek sınıf profilleri*); [§3.8](#38-illustrative-whole-system-application-by-class) (*sınıfa göre işlenmiş bütün-sistem örnekleri*); [§4.1](#41-illustrative-data-handling-application-by-class) (*sınıfa göre işlenmiş veri-işleme örnekleri*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*sınıfa göre işlenmiş ekolojik-ayak-izi örnekleri*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*sınıfa göre işlenmiş sistemler-arası-destek örnekleri*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*sınıfa göre işlenmiş ayrımcılık-yasağı örnekleri*); [§8.1](#81-illustrative-accessibility-application-by-class) (*sınıfa göre işlenmiş erişilebilirlik örnekleri*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*sınıfa göre işlenmiş eğitim-yeteneği örnekleri*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*sınıfa göre işlenmiş güvenilirlik örnekleri*); [§4](#4-data-types-and-handling-evaluation) (*ortak veri-işleme değerlendirmesi*); [§5](#5-ecological-footprint-evaluation) (*ekolojik ayak izi değerlendirmesi*); [§6](#6-proportionate-cross-system-support-evaluation) (*sistemler-arası destek değerlendirmesi*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*sınıflama hizasızlığı ve yeniden sınıflama tetikleyicileri*).
-- Birlikte oku: [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional); [corpus_systems.md](../../corpus_systems.md), **CS-3 — Sistem sınıflaması ve işleme**, **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Yeniden sınıflama gereği* — tetikleyiciler, sınıfa-ölçeklenmiş değerlendirme derinliği ve SAC doğrulama köprüsü) ve **[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*Sistem sınıflama kaydı yönetişim ödevleri ve SAC köprüsü*) dahil; [CS-5 — Tasarım, sınama, doğrulama ve dağıtım](../../corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — Karşıt sağlamlık ve kötüye-kullanım direnci terimleri](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*gerileme ve sertleştirme döngüsü ödevleri*); [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*Anayasal hizalama tanıması ve incelemesi*).
+- Üst kaynaklar: [§1](#1-purpose-and-role) (*amaç ve rol*); Bütünleştirici Maddilik ([Maddilik](core_05_band_oversight.md#materiality)); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [Maddi Etki](core_05_band_oversight.md#material-impact), [Bağımlılık](core_05_band_continuity.md#dependency), [Risk](core_05_band_continuity.md#risk), [Sistem Sınırları](core_05_band_continuity.md#system-boundaries) ve [Sözleşme](core_05_band_continuity.md#charter) (Beşinci Bölüm); [Birinci Bölüm §12 Sistemik Değerlendirme Gerekliliği](core_01_a_values_principles.md#12-systemic-evaluation-requirement); **Madde III-A** (*Hayatta Kalma*) ve **Madde IV-A** (*sınıflandırmanın erişimi kapıladığı yerde Hak Tabanı’nın sağlanması*); **Madde V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*) ile **Madde V-B** (*sertifikasyon ortak altyapıya bağımlılığı kapıladığında kaynak tahsisi ve bağımlılık sorumlu yönetimi*).
+- Alt kaynaklar: [§2.1](#21-how-system-class-scales-every-evaluation) (*sistem sınıfına göre ölçeklenen katılım ve orantılılık*); [§2.2](#22-pilot-certification) (*pilot sertifikasyonu*); [Bölüm C sistem sınıfı profilleri ve yeniden sınıflandırma](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive); [Bölüm C bütün sistem incelemeleri](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive); [§3.4.8](../../core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive); [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive); [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive); [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive); [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive); [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive); [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive); [§3.4](#34-data-types-and-handling-evaluation) (*ortak veri işleme değerlendirmesi*); [§5.1](#51-ecological-footprint-evaluation); [§5.3](#53-proportionate-cross-system-support-evaluation); [Bölüm B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability); [Bölüm B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing); [Bölüm B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+- Birlikte okuyun: [Sistem Sınıflandırma Sicili](core_05_band_continuity.md#system-classification-record); [corpus_systems.md](../../corpus_systems.md), **CS-3 — Sistem sınıflandırma ve işleme**, buna **[CS-3 §3.5 yeniden sınıflandırma gerekliliği](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*tetikleyiciler, sistem sınıfına göre ölçeklenmiş değerlendirme derinliği ve SAC doğrulama köprüsü*) ile **[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge)** (*sınıflandırma yönetişimi, açıklama ve itiraz*) dahildir — Sistem Sınıflandırma Sicili yönetişim yükümlülükleri ve SAC köprüsü; **CS-5 — Tasarım, test, doğrulama ve dağıtım**; **[CJS-3.21](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms)** (*Süreklilik: hasmane dayanıklılık ve kötüye kullanım direnci terimleri*) (*gerileme ve sağlamlaştırma döngüsü yükümlülükleri*); [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*Anayasal uyum sertifikasyonu ve incelemesi*).
 
 </details>
 
 <br>
 
-*Yalın dille: belgelendirme, sistemin dürüstçe sınıflanıp sınıflamadığını denetlemek zorundadır — işletenin ona ne dediğiyle değil, gerçekte ne yaptığı, neyin ona bel bağladığı ve neyin ters gidebileceğiyle. Daha yüksek sınıflar daha sıkı kanıt, daha hızlı yeniden denetim ve daha güçlü dayanıklılık beklentileri demektir. Sınıf başına bir sistem için [§2.1](#21-illustrative-class-profiles-non-exhaustive)e bakın; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class) ve [§10.1](#101-illustrative-trustworthiness-application-by-class) değerlendirmenin her birine nasıl uygulandığını yürür.*
+*Yalın dille: sertifikasyon, sistemin dürüstçe sınıflandırılıp sınıflandırılmadığını kontrol etmelidir — işletmecinin ona verdiği ada göre değil, gerçekte ne yaptığına, kimin ona bağımlı olduğuna ve neyin yanlış gidebileceğine göre. Daha yüksek sistem sınıfları daha güçlü kanıt, daha sık yeniden kontrol ve daha yüksek dayanıklılık beklentileri demektir. Her sistem sınıfından bir örnek ve değerlendirmenin bunlara nasıl uygulandığı için [Bölüm C — Örnekler](../../core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) bölümüne bakın.*
 
-Sistem hizalama belgelendirmesi, maddi etkili her belgelendirme kaydının parçası olarak **sistem sınıfını** değerlendirmelidir. Kanonik sınıf tanımları, boyut kuralları, sınıf profilleri, sınıflama yönetişimi, sınıfa-ölçeklenmiş güvence, altyapı sağlamlığı ve yeniden belgelendirme mekaniği **[corpus_systems.md](../../corpus_systems.md), CS-3 — Sistem sınıflaması ve işleme** ve **[CS-5 — Tasarım, sınama, doğrulama ve dağıtım](../../corpus_systems/cs_05_design_testing_verification_deployment.md)**de yaşar. Bu kesit belgelendirmenin neyi doğrulaması ve kaydetmesi gerektiğini belirtir; CS-3 sınıf taksonomisini, uygulama profillerini ya da CS-5 sınama mekaniğini yeniden belirtmez.
+Maddi etkisi olan her sistemin sertifikasyon sicili, sistemin **sistem sınıfı** değerlendirmesini içermelidir.
 
-Belgelendirme şunları doğrulamalı ve kaydetmelidir:
+Ayrıntılı kurallar [corpus_systems.md](../../corpus_systems.md), [CS-3 — Sistem sınıflandırma ve işleme](../../corpus_systems/cs_03_a_system_classification_machinery.md) ve [CS-5 — Tasarım, test, doğrulama ve dağıtım](../../corpus_systems/cs_05_design_testing_verification_deployment.md) içindedir. Bunlar şunları kapsar:
 
-- **Değerlendirme gereği:**
-  - atanan sistem sınıfının CS-3 altında gözlenen ve makul biçimde öngörülebilir **etki**, **bağımlılık** ve **risk**i yansıtıp yansıtmadığı, toplam, etkileşim, karşıt ve eşik etkileri dahil; ve
-  - sınıflamanın beyan edilen niyet, nominal kapsam, yalnızca [Kapsam belgesi](core_05_band_continuity.md#charter) metni ya da yalnızca öz-betimlemeden değil, gerçek sistem davranışı ve etkilerinden belirlendiği; ve
-  - **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** altında sınıflama yeniden değerlendirmesinin maddi yeniden değerlendirme tetikleyicileri ateşlendiğinde uygulandığı ve [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional)nın mevcut koşullar altında **en yüksek uygulanabilir** sınıfı yansıttığı.
-- **Kayıt gereği:**
-  - atanan sınıfı, sınıflama gerekçesini, kilit varsayımları, bulunan bağımlılık türlerini, maddi olduğunda işletme-kritikliği değerlendirmesini, belirsizliği ve sınıfa ölçeklenmiş yeniden doğrulama temposunu belirten bir [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional), [B Kısmı §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)in istediği gibi; ve
-  - sınıflama belirsiz ya da itiraz edilmişse, bel bağlanan ihtiyat sınıfı ve çözüm bekleyen herhangi bir koşul.
-- **Güvence ve yeniden belgelendirme:**
-  - sınıfa-ölçeklenmiş güvence, altyapı sağlamlığı ve gerileme kapsamının atanan sınıf için CS-3 ve CS-5 ile örtüştüğü, maddi olarak uygulandığı yerde [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) ve **CJS-3.19** ile **CJS-3.23** ile birlikte okunarak;
-  - her yeniden belgelendirme ya da yeniden doğrulama için [B Kısmı §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) altında belgelendirme kaydındaki gerileme-sınama sonuçları — gerileme kapsamı, çalıştırılan standart ve özel sınama takımları, sonuçlar, bilinen başarısızlıklar, onarımlar ve gerekçeli kabul edilmiş artık risk, CS-5in istediği gibi;
-  - belgelendirme döngüsü için kayıttaki tanıma ve inceleme kanıtı — kapsam, sınıflama, sınama, artık risk, onarım hazırlığı, izleme ve yeniden belgelendirme uygulandığında önceki kayıttan beri maddi değişiklikleri gösteren kanıt paketi, CS-5 *Forum tanıması ve yaşam döngüsü incelemesi*nin istediği gibi; ve
-  - Hak Tabanı teslimini kapılayan ya da sürdüren sistemler için, yeniden doğrulama temposu ve gerileme derinliğinin [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) altında **Süreklilik** amacını işlediği — bayat ya da erken belgelendirme, algılayanların uygulamada hâlâ gıda, su, barınak, eğitim ya da güvenlik aldığına kanıt sayılmamalıdır.
-- **Yanlış sınıflama ve kusurlar:**
-  - sistemin hak ettiğinden daha düşük bir risk sınıfı iddia etmek, daha sert kurallardan kaçmak için sistemi parçalara bölmek ya da koşullar değiştikten sonra eski bir sınıf etiketini tutmak — **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** altında yeniden değerlendirmeyi kaçırmak dahil — bunlar CS-3 ve [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında belgelendirme kusurudur, küçük evrak hataları değildir;
-  - gerileme sınamalarını atlamak, güncelliğini yitirmiş sonuçlara bel bağlamak, bilinen kırıkları onarılmamış bırakmak ya da yeniden sınama uygulanabilirken büyük onarımları yeniden sınamadan kabul etmek — bunlar CS-5 altında belgelendirme kusurudur; ve
-  - olgular desteklediğinde, aynı sınıflama sorunları [Sekizinci Bölüm](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)de aleyhte güzergâh bulgularına da sayılabilir.
+- sistem sınıflarının neler olduğunu, sistem sınıfının nasıl atandığını ve sınıf profillerini;
+- sınıflandırmanın nasıl yönetildiğini;
+- her sistem sınıfının ne düzeyde güvence gerektirdiğini;
+- altyapının ne kadar sağlam olması gerektiğini;
+- hangi kontrollerin ve kayıtların, sistem sınıfına göre ayarlanmış hangi takvimde yeniden sertifikalandırıldığını ve geçici ya da tam sertifikasyonun bu takvimi nasıl değiştirdiğini.
 
-Belgelendirme bu kusurları saptadığında forumlar koşullu onaylayabilir, onayı erteleyebilir, reddedebilir, tanımayı geri çekebilir, inceleme temposunu değiştirebilir ya da taze bir inceleme buyurabilir.
+Bu bölüm, sertifikasyonun neleri doğrulaması gerektiğini belirtir.
 
-<a id="21-illustrative-class-profiles-non-exhaustive"></a>
+Sertifikasyon şunları doğrulamalıdır:
 
-#### 2.1 Örnek sınıf profilleri (tüketici değil)
+- **Değerlendirme gerekliliği:**
+  - CS-3 (*Sistem sınıflandırma mekanizması*) uyarınca atanmış sistem sınıfının gözlemlenen ve makul biçimde öngörülebilir **etkiyi**, **bağımlılığı** ve **riski** yansıtıp yansıtmadığını; bunlara şunlar dahildir:
+    - toplu etkiler;
+    - etkileşim etkileri;
+    - hasmane etkiler;
+    - eşik etkileri;
+  - sınıflandırmanın sistemin gerçek davranışına ve etkilerine göre belirlendiğini, şunlara dayanmadığını:
+    - beyan edilen niyet;
+    - nominal kapsam;
+    - yalnızca [Sözleşme](core_05_band_continuity.md#charter) metni; veya
+    - yalnızca öz tanım;
+  - önemli bir değişiklik gerektirdiğinde sistem sınıfının **[CS-3 §3.5 yeniden sınıflandırma gerekliliği](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** uyarınca yeniden kontrol edilip edilmediğini; ve
+  - [Sistem Sınıflandırma Sicilinin](core_05_band_continuity.md#system-classification-record) mevcut koşullarda geçerli olan **en yüksek sistem sınıfını** gösterip göstermediğini.
+- **Güvence ve gerileme testleri:**
+  - sistem sınıfına göre ölçeklenmiş güvencenin, altyapı dayanıklılığının ve gerileme test kapsamının atanan sistem sınıfına uyup uymadığını:
+    - CS-3 (*Sistem sınıflandırma mekanizması*); ve
+    - CS-5 (*Kullanıcıya dönük kapasite yüzeyleri*) uyarınca; maddi olarak uygulanabildikleri yerlerde bu ortak işletim terimleriyle birlikte okuyarak:
+      - [**CJS-3.19**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms) (*Süreklilik: kademeli bozulma ve hata modu bütünlüğü terimleri*);
+      - [**CJS-3.20**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms) (*Süreklilik: geri döndürülebilirlik ve kontrol altına alma terimleri*);
+      - [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*Süreklilik: hasmane dayanıklılık ve kötüye kullanım direnci terimleri*); ve
+      - [**CJS-3.22**](../../corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms) (*Bütünleştirme: kısıtlı gizlilik ve korunan soruşturma terimleri*) ile [**CJS-3.23**](../../corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms) (*Bütünleştirme: müdahale ve geçersiz kılma bütünlüğü terimleri*), sistemin sınıfı veya işlevi bunları maddi olarak uygulanabilir kıldığında; ve
+  - CS-5 (*Kullanıcıya dönük kapasite yüzeyleri*) gereğince her yeniden sertifikasyonda gerileme testi yapılıp yapılmadığını ve sonuçların [§8.1 Asgari sicil içeriği](core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents) uyarınca kayda geçirilip geçirilmediğini.
+- **Sertifikasyon ve yeniden sertifikasyon:**
+  - CS-5 (*Kullanıcıya dönük kapasite yüzeyleri*) *Forum sertifikasyonu ve yaşam döngüsü incelemesi* gereğince sertifikasyon döngüsü için bir sertifikasyon ve inceleme kanıt paketinin bulunup bulunmadığını;
+  - sicildeki sertifikasyon durumunun [Bölüm B §9.2 Geçici ve tam sertifikasyon](core_07_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) uyarınca desteklenip desteklenmediğini:
+    - tam sertifikasyon yalnızca şu koşullarda:
+      - temiz yeniden sertifikasyon alt sınırına ulaşılmışsa;
+      - mevcut bir uyumsuzluk yoksa; ve
+      - izleme göstergeleri yaklaşan bir uyumsuzluğa işaret etmiyorsa;
+    - son yeniden sertifikasyonu başarısız olan sistem için geçici sertifikasyon; ve
+  - temel Hak Tabanı korumalarını sağlayan veya bunlara bağımlı sistemler için:
+    - sistemin ne sıklıkta yeniden kontrol edildiği ve ne derinlikte yeniden test edildiği, [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) içindeki **Süreklilik** amacına hizmet etmelidir; yani temel gereksinimler zaman içinde algılayanlara ulaşmaya devam etmelidir;
+    - güncelliğini yitirmiş veya çok erken verilmiş sertifikasyon, algılayanların bugün gerçekten yiyecek, su, barınak, eğitim veya güvenlik aldığına asla kanıt sayılmamalıdır.
+- **Yanlış sınıflandırma ve kusurlar:**
+  - CS-3 (*Sistem sınıflandırma mekanizması*) ve [Bölüm B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) kapsamındaki sertifikasyon kusurları, küçük evrak hataları olmayıp şunları içerir:
+    - sistemin hak ettiğinden daha düşük bir risk sınıfı iddia etmek;
+    - daha katı kurallardan kaçınmak için sistemi parçalara ayırmak; veya
+    - koşullar değiştikten sonra eski bir sistem sınıfı etiketini korumak; **[CS-3 §3.5 yeniden sınıflandırma gerekliliği](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** uyarınca yeniden değerlendirmemek de buna dahildir;
+  - CS-5 (*Kullanıcıya dönük kapasite yüzeyleri*) kapsamındaki sertifikasyon kusurları şunları içerir:
+    - gerileme testlerini atlamak;
+    - güncelliğini yitirmiş sonuçlara güvenmek;
+    - bilinen arızaları düzeltmeden bırakmak; veya
+    - yeniden test mümkünken büyük düzeltmeleri yeniden test etmeden kabul etmek; ve
+  - sistem sertifikalıysa ve olgular destekliyorsa, aynı sınıflandırma sorunları [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) kapsamındaki olumsuz güzergâh bulgularına da katkıda bulunabilir.
 
-*Yalın dille: sınıf işletenlerin seçtiği bir rozet değildir — sistemin gerçekte taşıdığı zarar, bel bağlama ve risktir. Aşağıdaki tablo sınıf başına bir örnek sistem adlandırır; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class) ve [§10.1](#101-illustrative-trustworthiness-application-by-class) bütün-sistem, veri-işleme, ekolojik-ayak-izi, sistemler-arası-destek, ayrımcılık-yasağı, erişilebilirlik, eğitim-yeteneği ve güvenilirlik değerlendirmesinin her birine nasıl uygulandığını yürür. Biçimsel sınıf kuralları, boyut sınamaları ve yeniden sınıflama tetikleyicileri **CS-3**te yaşar; bu örnekler sınıf eklemez ve CS-3ü daraltmaz.*
+Bu kusurların sonuçları [§7 Sertifikasyon Sonuçları](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) bölümünde belirlenmiştir.
 
-| Sınıf | Örnek sistem (tüketici değil) | Belgelendirmenin bu sınıfta yansıtması gereken |
-|-------|-------------------------------------|-----------------------------------------------|
-| **Sınıf A** | Belediye **güvenli içme suyu** denetimi ve telemetrisi — kesinti, uygulanabilir yedekler gelmeden güvenli suyu kapatır ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | En dolu [§3](#3-whole-system-certification-evaluation) derinliği; en kısa gerekçeli yeniden doğrulama temposu; [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) altında en güçlü gerileme, altyapı ve kayıt-açıklama beklentileri; Hak Tabanları kapılandığında azami uygulanabilir etkilenen-taraf ve Algılayan-forumu katılımı |
-| **Sınıf B** | Bölgesel **klinik kayıt değişimi** — hastaneler ve klinikler her gün ona bel bağlar ama hayatta kalmaya ilgili zaman dilimleri içinde yedeke düşebilir ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Tam [§3](#3-whole-system-certification-evaluation) değerlendirmesi; sağlam bağımlılık-zinciri ve kurtarma-yolu kanıtı; maddilik tetikleyicileri uygulandığında [§4](#4-data-types-and-handling-evaluation) ile [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) alan değerlendirmeleri; işletme kritikliğine ölçeklenmiş itiraz yolları ve izleme |
-| **Sınıf C** | Büyük ölçekli kurumsal **çizelgeleme ve eşgüdüm** katmanı — ölçekte eşgüdümü biçimlendirir ama bozulmuş kiplerde hayatta kalma hizmetleri için işletme önkoşulu değildir ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Tetikleyiciler uygulandığında [§4](#4-data-types-and-handling-evaluation) ile [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) altında maddi değerlendirmeler; orantılı bütün-sistem incelemesi; bağımlılık, yoğunlaşma ya da darboğaz etkileri güçlendiğinde yeniden sınıflama gözetimi — sistem işletme olarak gerekli hâle gelirse belgelendirme Sınıf Cyi kalıcı saymamalıdır |
+<a id="21-how-system-class-scales-every-evaluation"></a>
 
-**Sınıf ölçeğinde katılım ve orantılılık.** **Sınıf A** sistemleri uygulanabilir en güçlü katılım yollarını ister — Hak Tabanları söz konusu olduğunda erişilebilir itiraz, etkilenen-taraf incelemesi ve Algılayan-forumu bileşen bulguları dahil — çünkü hatalar onarım mümkün olmadan hayatta kalma esaslarını kapatabilir. **Sınıf B** sistemleri, sistem sağlık, eğitim, yardımlar, iş ya da karşılaştırılabilir günlük yaşamı kapıladığında sağlam katılım ister. **Sınıf C** sistemleri yine itiraz edilebilir kayıtlar ve orantılı açıklama ister, özellikle eşgüdüm etkileri korunan gruplara yük bindirdiğinde, bağımlılığı yoğunlaştırdığında ya da Sınıf B veya Sınıf Aya yükselişi önceden haber verdiğinde.
+#### 2.1 Sistem sınıfı her değerlendirmeyi nasıl ölçeklendirir
 
-**Yeniden sınıflama anımsatıcısı.** Örnek etiketler sınıflamayı kilitlemez. Hayatta kalmaya esas erişim için fiili kapı hâline gelen bir eşgüdüm katmanı; kesintisi artık hayatta kalmaya ilgili zaman dilimleri içinde sağlığı ya da yardımları tıkayacak bir kimlik bilgisi hizmeti; ya da kritik bir yola soğurulmuş bir kamu hizmeti alt sistemi **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** ve [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında yeniden sınıflanmalı ve yeniden belgelendirilmelidir — işleten daha hafif incelemeyi tercih ettiği için daha düşük bir sınıfta bırakılmamalıdır.
+Sistem sınıfı, bu bölümdeki her değerlendirmenin ne kadar derin yürütüleceğini — [§3 Bütün Sistem Sertifikasyon Değerlendirmesi](#3-whole-system-certification-evaluation) kapsamındaki bütün sistem faktörlerini, [§3.4 Veri Türleri ve İşleme Değerlendirmesi](#34-data-types-and-handling-evaluation) kapsamındaki veri işlemeyi ve [§5 Hak Tabanı ve Alan Değerlendirmeleri](#5-rights-floor-and-domain-evaluations) kapsamındaki her değerlendirmeyi — ve ne sıklıkta tekrarlanacağını belirler:
+
+- Daha yüksek sınıflı sistemler, uygulanabilir her değerlendirmenin gerçekten yapıldığına ilişkin orantılı olarak daha güçlü kanıt gerektirir; yalnızca yapıldığının söylenmesi yetmez.
+- Daha düşük sistem sınıflarında da bir tetikleyici geçerli olduğunda dürüst ve orantılı değerlendirme gerekir.
+- Sistem sınıfı hiçbir zaman zorunlu bir değerlendirmeyi atlamaya izin vermez. Sistemin gerçek rolü sınıfını aşarsa, [§9 Yeniden Sertifikasyon ve Yeniden Açma](core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) uyarınca daha yüksek derinlikte yeniden sınıflandırılmalı ve değerlendirilmelidir.
+- Sistem sınıfı incelemenin derinliğini belirler. Yalnızca kâğıt üzerinde var olan yeterlilikleri, etiketleri veya düzenlemeleri ya da kimsenin iç yüzünü göremediği değerlendirme ve kararları yeterli saymayı hiçbir zaman kabul edilebilir kılmaz.
+
+Katılım ve orantılılık gereklilikleri de aynı şekilde ölçeklenir:
+
+- **A Sınıfı** sistemler, hatalar giderim mümkün olmadan önce hayatta kalma için gerekli unsurlara erişimi kapatabileceğinden, uygulanabilir en güçlü katılım yollarını gerektirir. Bunlara şunlar dahildir:
+  - erişilebilir itiraz;
+  - etkilenen tarafların incelemesi; ve
+  - etkilenen maddi pay için [Bölüm B §6.1 Forum gözetimi ve bileşen rolleri](core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) uyarınca atanmış forum ailesinin bulguları; bu bölümün gerektirdiği Kurumsal veya Algılayan forumları da kapsar.
+- **B Sınıfı** sistemler, sistem aşağıdakilere erişimi kapıladığında güçlü katılım gerektirir:
+  - sağlık hizmeti;
+  - eğitim;
+  - yardımlar;
+  - iş; veya
+  - gündelik yaşamın benzer alanları.
+- **C Sınıfı** sistemler de itiraz edilebilir kayıtlar ve orantılı açıklama gerektirir; özellikle koordinasyon etkileri:
+  - korunan gruplara yük getirdiğinde;
+  - bağımlılığı yoğunlaştırdığında; veya
+  - B ya da A Sınıfına yükselmeyi haber verdiğinde.
+
+<a id="22-pilot-certification"></a>
+
+#### 2.2 Pilot sertifikasyonu
+
+Bir **[pilot](core_05_band_continuity.md#pilot)**, [canlıya geçiş](core_05_band_continuity.md#go-live) sayılır; bu nedenle başlamadan önce, [Bölüm B §7 Sertifikasyon Sonuçları](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) içindeki canlıya geçiş kuralı uyarınca kendine ait bir sertifikasyona ihtiyaç duyar.
+
+- Her sistem sınıfındaki bir sistemin tam dağıtımdan önce pilot yürütmesi beklenir; yürütmezse nedenini kayda geçirir.
+- Pilot da dürüst bir sınıflandırma ve tetikleyicisi geçerli olan her değerlendirmeyi gerektirir; kapsamı, nüfusu ve süresi sicilinde belirtilir.
+- Pilot kendi sicili üzerinden, sistem sınıfına ve sistemin ikame edilebilirliğine göre ölçeklenmiş derinlikte değerlendirilir: etkilenecek veya sisteme bağımlı olacak algılayanlar için uygulanabilir bir alternatif bulunup bulunmadığı ve bunun maliyet, gecikme ve işlev kaybının ne olacağı (bkz. [Bağımlılık](core_05_band_continuity.md#dependency)).
+  - Sistem ne kadar kolay değiştirilebiliyorsa ve sistem sınıfı ne kadar düşükse, pilot değerlendirmesi o kadar hafif olabilir.
+  - Kolayca değiştirilemeyen bir sistemin pilotu, tam dağıtımda sistem sınıfının gerektirdiği derinlikte değerlendirilir.
 
 
 <a id="3-whole-system-certification-evaluation"></a>
 
-### 3. Bütün-sistem belgelendirme değerlendirmesi
+### 3. Bütün Sistem Sertifikasyon Değerlendirmesi
 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [Birinci Bölüm §14 Sistemik değerlendirme gerekleri](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); Gelişim ölçüm ailesi (*Esenlik, güvenlik, zarar ve hayatta kalma-tabanı erişimi*); Anayasal performans ölçüm ailesi (*Anayasal verimlilik, Önlenebilir yük ve Üretken kapasite*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [maddi pay](core_00_preamble.md#material-stake); [§1 Amaç ve rol](#1-purpose-and-role).
-- Aşağı: [§3.8](#38-illustrative-whole-system-application-by-class) (*örnek bütün-sistem yürüyüşleri*); [§4](#4-data-types-and-handling-evaluation) ile [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*alan değerlendirmeleri*); [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*örnek sınıf profilleri*); [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içerikleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*itiraz edilebilirlik zinciri*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*yeniden açma ve kaçınma-karşıtı*).
-- Birlikte oku: [Birinci Bölüm §9](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) ve [§11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [§5.2 Gönüllü sonlandırma ve çıkış hakları](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights); [§5.3 Toplanma, kolektif örgütlenme ve kurumsal kuruluş](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation); denetim, şeffaflık ya da bağımsız-doğrulama Hak Tabanları maddi olarak söz konusu olduğunda **Madde XVI** (*Denetim, şeffaflık ve bağımsız doğrulama*); Süreklilik ölçüm ailesi ([§3.1](#31-systemic-scope-and-risk-factors) — dayanıklılık, geri döndürülebilirlik ve sistemik risk); [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation); [Risk açıklaması](core_05_band_oversight.md#risk-disclosure); [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure); Katılım ölçüm ailesi ([§3.3](#33-privacy-informational-joint-invocation) — mahremiyet ve veri sorumlu yönetimi); Hesap verebilirlik ölçüm ailesi ([§3.7](#37-governance-incentive-and-contestability-discipline) — teşvik hizalaması ve piyasa itiraz edilebilirliği); [Sistem sınırları](core_05_band_continuity.md#system-boundaries); [Kapsam belgesi](core_05_band_continuity.md#charter).
-- Alt kesitler: [§3.1](#31-systemic-scope-and-risk-factors) ile [§3.7](#37-governance-incentive-and-contestability-discipline) (*bütün-sistem değerlendirme etkenleri*); [§3.8](#38-illustrative-whole-system-application-by-class) (*sınıfa göre örnek bütün-sistem uygulama*).
+- Önceki kaynaklar: [Birinci Bölüm §12 Sistemik Değerlendirme Gerekliliği](core_01_a_values_principles.md#12-systemic-evaluation-requirement); Gelişim ölçüm ailesi (*esenlik, güvenlik, zarar ve hayatta kalma tabanına erişim*); Anayasal Performans ölçüm ailesi (*Anayasal Verimlilik, Önlenebilir Yük ve Üretken Kapasite*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [maddi pay](core_00_preamble.md#material-stake); [§1 Amaç ve Rol](#1-purpose-and-role).
+- Sonraki kaynaklar: [C Kısmı bütün sistem örnekleri](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*örnekleyici bütün sistem incelemeleri*); [§3.4](#34-data-types-and-handling-evaluation) ile [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) arası (*alan değerlendirmeleri*); [C Kısmı sistem sınıfı profilleri](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*örnekleyici sistem sınıfı profilleri*); [B Kısmı §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*kayıt içeriği*); [B Kısmı §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*kayıt bütünlüğü*); [B Kısmı §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*itiraz edilebilirlik zinciri*); [B Kısmı §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*yeniden açma ve kaçınmayı önleme*).
+- Birlikte okuyun: [Birinci Bölüm §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) ve [§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture); [Birinci Bölüm §7.4 Gönüllü Sonlandırma, Büyük Öz-Değişiklik ve Çıkış Hakları](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights); [Birinci Bölüm §7.2 Toplanma, Kolektif Örgütlenme ve Kurumsal Oluşum](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation); denetim, şeffaflık veya bağımsız doğrulama Hak Tabanları maddi önem taşıdığında **XVI. Madde** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*); Süreklilik ölçüm ailesi ([§3.1](#31-systemic-scope-and-risk-factors) — dayanıklılık, geri döndürülebilirlik ve sistemik risk); [Risk Değerlendirmesi](core_05_band_continuity.md#risk-evaluation); [Risk Açıklaması](core_05_band_oversight.md#risk-disclosure); [Kamu Gözetimi Temel Açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure); Katılım ölçüm ailesi ([§4.1](#41-privacy-informational-joint-invocation) — mahremiyet ve veri sorumlu yönetimi); Hesap Verebilirlik ölçüm ailesi ([§3.3](#33-governance-incentive-and-contestability-discipline) — teşvik uyumu ve piyasa itiraz edilebilirliği); [Sistem Sınırları](core_05_band_continuity.md#system-boundaries); [Şart](core_05_band_continuity.md#charter).
+- Alt bölümler: [§3.1](#31-systemic-scope-and-risk-factors) ile [§3.4](#34-data-types-and-handling-evaluation) arası (*her zaman: sistemik etkenler, zaman ufku, yönetişim ve veri türleri ile işleme*). II. Aşama, [§4 İlgili Olduğunda Değerlendirmeler](#4-evaluations-where-implicated) (*ilgiliyse: mahremiyet odakları, çıkış hakları, toplanma ve muhalefet*) ve [§5 Hak Tabanı ve Alan Değerlendirmeleri](#5-rights-floor-and-domain-evaluations) (*tetiklenirse*) bölümlerinde devam eder.
 
 </details>
 
 <br>
 
-*Yalın dille: bir sistemin bir parçasını yeşil ışıkla geçirip gerisini yok sayamazsınız. İnceleyenler tam resmi ister — neye bel bağladığı, yukarıdaki bir şey kırıldığında neyin kırıldığı, sonra görünen ya da zamanla yığılan zararlar, algılayanların gerçekten kullanıp kullanamadığı (yalnızca kâğıtta değil), özel bilginin düzgünce ayrılmış kalıp kalmadığı, algılayanların tuzağa düşmeden çıkıp çıkamadığı, grupların sistem onları ayırmadan örgütlenmeye devam edip edemediği, kısa vadeli kazançların uzun vadeli zararı gizleyip gizlemediği ve pay yüksekken gerçek gözetim ile hesap verebilirliğin hâlâ işleyip işlemeyeceği.*
+*Yalın dille: Bir sistemin bir parçasına onay verip geri kalanını görmezden gelemezsiniz. İnceleyenler bütün resmi görmelidir: sistemin nelere bağlı olduğu, yukarı akıştaki bir şey bozulunca nelerin aksadığı, sonradan ortaya çıkan veya zamanla biriken zararlar, algılayanların sistemi gerçekten kullanıp kullanamadığı (yalnızca kâğıt üzerinde değil), özel bilgilerin gerektiği gibi korunup korunmadığı, algılayanların tuzağa düşmeden ayrılıp ayrılamadığı, grupların sistem tarafından bölünmeden örgütlenip örgütlenemediği, kısa vadeli kazanımların uzun vadeli zararı gizleyip gizlemediği ve önemli riskler söz konusuyken gerçek gözetim ile hesap verebilirliğin işleyip işlemeyeceği.*
 
-Bir sistem hizalama belgelendirmesi değerlendirmesi yalnızca ivedi ya da yerel etkileri düşünürse eksiktir. Belgelendirme kayıtları, değerlendirmenin tanıma, doğrulama, yeniden doğrulama, süregelen bel bağlama, dağıtım ya da koşullardan maddi salıverme için maddi olan yerlerde aşağıdaki etkenleri düşündüğünü göstermelidir. Değerlendirme ayrıca inceleme altındaki sistem için [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad)nun [maddi pay](core_00_preamble.md#material-stake) ölçeklemesini karşılayacağını doğrulamalıdır. [§2.1](#21-illustrative-class-profiles-non-exhaustive)teki örnek sistemler için işlenmiş bütün-sistem yürüyüşleri [§3.8](#38-illustrative-whole-system-application-by-class)tedir.
+*Uygulamalı örnekler: [C Kısmı](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive), bu bölümün uygulamada nasıl işlediğini gösterir. Her sistem sınıfından birer örnek olmak üzere üç sistemi alır ve yukarıdaki kontrollerin her birinden geçirir.*
+
+Bir sistem uyum sertifikasyon değerlendirmesi yalnızca anlık veya yerel etkileri ele alıyorsa eksiktir; bu boşluğu kapatan bütün sistem değerlendirmesi (II. Aşama), her biri kendi bölümünde belirtilen üç katmandan oluşur. Bu bölüm ilk katman olan **IIa**'yı belirtir; [§4 İlgili Olduğunda Değerlendirmeler](#4-evaluations-where-implicated) **IIb**'yi, [§5 Hak Tabanı ve Alan Değerlendirmeleri](#5-rights-floor-and-domain-evaluations) ise **IIc**'yi belirtir. Aşağıdaki tablo okuyucuya yön verir; herhangi bir bölüm veya alt bölümün gerekliliklerini eklemez, daraltmaz veya yeniden sıralamaz.
+
+| Katman | Alt aşama | Bölümler | Uygulama |
+|------|-----------|---------|----------|
+| **Her zaman** | IIa | [§3.1 Sistemik Kapsam ve Risk Etkenleri](#31-systemic-scope-and-risk-factors); [§3.2 Zaman Tutarlılığı Kısıtı](#32-time-consistency-constraint); [§3.3 Yönetişim, Teşvik ve İtiraz Edilebilirlik Disiplini](#33-governance-incentive-and-contestability-discipline); [§3.4 Veri Türleri ve İşleme Değerlendirmesi](#34-data-types-and-handling-evaluation) | maddi etkisi olan her sertifikasyon kaydı |
+| **İlgili olduğunda** | IIb | [§4.1 Mahremiyet (Bilgisel) Ortak Başvurusu](#41-privacy-informational-joint-invocation); [§4.2 Gönüllü Sonlandırma, Büyük Öz-Değişiklik ve Çıkış Hakları](#42-voluntary-discontinuation-major-self-modification-and-exit-rights); [§4.3 Toplanma, Kolektif Örgütlenme ve Kurumsal Oluşum](#43-assembly-collective-organization-and-institutional-formation), [§4.3.1](#431-dissent-and-peaceful-protest) dâhil | sertifikasyon konusu, alt bölümün adlandırdığı odağı veya ilkeyi maddi olarak ilgilendirdiğinde |
+| **Tetiklendiğinde** | IIc | [§5 Hak Tabanı ve Alan Değerlendirmeleri](#5-rights-floor-and-domain-evaluations) | §5 tablosundaki bir tetikleyici karşılandığında |
+
+Sertifikasyon kayıtları, aşağıdaki etkenlerin maddi önem taşıdığı her durumda değerlendirildiklerini göstermelidir:
+
+- sertifikasyon;
+- doğrulama;
+- yeniden sertifikasyon;
+- güvenin sürdürülmesi;
+- kullanıma sunma; veya
+- sertifikasyona konmuş bir koşulun kaldırılması.
+
+Değerlendirme ayrıca [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad)'nün incelenen sistem için [maddi pay](core_00_preamble.md#material-stake) ölçeğini karşılayacağını doğrulamalıdır.
 
 <a id="31-systemic-scope-and-risk-factors"></a>
-#### 3.1 Sistemik kapsam ve risk etkenleri
+#### 3.1 Sistemik Kapsam ve Risk Etkenleri
 
-Belgelendirme değerlendirmeleri şunları düşünmelidir:
+Sertifikasyon değerlendirmeleri şunları ele almalıdır:
 
-- **bağımlılık ilişkileri ve zincirleme etkiler** — yukarıdaki bir şey kırıldığında aşağıda neyin başarısız olduğu;
-- **toplama ve ölçek etkileri** — birçok küçük eylem birleştiğinde neyin değiştiği;
-- **gecikmeli, kümülatif ve olasılıksal etkiler** — sonra görünen, yığılan ya da şansa bağlı zararlar;
-- **karşıt koşullar ve kötüye kullanım potansiyeli** — kötü niyetli aktörlerin ya da öngörülebilir istismarın sistemi nasıl sömürebileceği;
-- **kapsam belgesi kapsamı karşısında işlevsel sınırlar** — yöneten [Kapsam belgesi](core_05_band_continuity.md#charter)nin, varsa ya da gerekiyorsa, gözlenen [Sistem sınırları](core_05_band_continuity.md#system-boundaries) ile örtüşüp örtüşmediği ve belirtilen kapsamın maddi etkiyi ya da bağımlılığı düşük gösterip göstermediği;
-- **varoluşsal riskler** — uygarlık ölçeğinde algılayan hayatta kalışını ya da [Ekolojik toparlanma kapasitesi](core_05_band_continuity.md#ecological-recovery-capacity-constitutional)ni tehdit edebilecek sonuçlar.
+- **bağımlılık ilişkileri ve zincirleme etkiler** — yukarı akıştaki bir şey bozulduğunda aşağı akışta neyin aksadığı;
+- **birikim ve ölçek etkileri** — çok sayıda küçük eylem birleştiğinde nelerin değiştiği;
+- **gecikmeli, birikimli ve olasılıksal etkiler** — sonradan ortaya çıkan, biriken veya olasılığa bağlı zararlar;
+- **hasmane koşullar ve kötüye kullanım olasılığı** — kötü niyetli kişilerin veya öngörülebilir kötüye kullanımın sistemi nasıl istismar edebileceği;
+- **şart kapsamı ile işlevsel sınırlar arasındaki uyum** — varsa veya gerekliyse geçerli [Şart](core_05_band_continuity.md#charter)'ın gözlenen [Sistem Sınırları](core_05_band_continuity.md#system-boundaries) ile örtüşüp örtüşmediği ve belirtilen kapsamın maddi etkiyi veya bağımlılığı düşük gösterip göstermediği;
+- **ekolojik iyileşme kapasitesi** — sistemin herhangi bir ölçekte doğal bir ekosistemin [Ekolojik İyileşme Kapasitesine](core_05_band_continuity.md#ecological-recovery-capacity) zarar vererek ekosistemin zarardan sonra artık kendini yenileyememesine yol açıp açamayacağı;
+- **varoluşsal riskler** — medeniyet ölçeğinde algılayanların hayatta kalmasını tehdit edebilecek sonuçlar.
 
-**Risk değerlendirmesi ve açıklama köprüsü.** Yukarıdaki etkenler altında sistemik [Risk](core_05_band_continuity.md#risk) kapsamdaysa belgelendirme Beşinci Bölüm çiftinin her iki yarısını doğrulamalıdır — ayrı adlandırılmış bir risk-açıklama kayıt türü uydurmamalıdır:
+**Risk değerlendirmesi ve açıklaması köprüsü.** Yukarıdaki etkenler kapsamında sistemik [Risk](core_05_band_continuity.md#risk) ele alınıyorsa sertifikasyon, Beşinci Bölümdeki ikilinin her iki yanını da doğrulamalıdır; ayrı ve adlandırılmış yeni bir risk açıklaması kayıt türü icat etmemelidir:
 
-- **[Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation)** — sistemik riskin gerçekten önem taşıyan koşullar altında (bağımlılık, zaman ufukları ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)) gerçekten değerlendirilip değerlendirilmediği, sınıfa ve [maddi pay](core_00_preamble.md#material-stake)a boyutlanmış; ve
-- **[Risk açıklaması](core_05_band_oversight.md#risk-disclosure)** — değerlendirilmiş riskin, anlamak, itiraz etmek ve eylemek için ona ihtiyaç duyan algılayanlara zamanında ulaşıp ulaşmadığı.
+- **[Risk Değerlendirmesi](core_05_band_continuity.md#risk-evaluation)** — sistemik riskin önemli koşullar altında (bağımlılık, zaman ufukları ve [Hasmane, Ölçeklenmiş ve Sömürülen Koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)) gerçekten değerlendirilip değerlendirilmediği; değerlendirme sistem sınıfına ve [maddi pay](core_00_preamble.md#material-stake) ölçeğine uygun olmalıdır; ve
+- **[Risk Açıklaması](core_05_band_oversight.md#risk-disclosure)** — değerlendirilen riskin, anlamak, sorgulamak ve harekete geçmek için ona ihtiyaç duyan algılayanlara zamanında ulaşıp ulaşmadığı.
 
-Açıklamasız değerlendirme ya da değerlendirmesiz açıklama, ikisi de düşer. [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure) altında maddi riske kamusal taban görünürlüğü, sistemik risk kapsamdayken kısmen Risk açıklaması üzerinden karşılanabilir; o taban bu köprüden daha geniştir ve [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional) ya da [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional)nın yanında bir eş araç istemez.
+Bu iki işlemden yalnızca birini yapmak başarısızlık sayılır:
 
-**Kayıt gereği.** Sistemik risk kapsamdaysa [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional) **[B Kısmı §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** altında şunları belirtmelidir:
+- değerlendirilip hiç paylaşılmayan risk başarılı olmaz; ve
+- paylaşılıp gerektiği gibi değerlendirilmemiş risk de başarılı olmaz.
 
-- yukarıdaki etkenler için bel bağlanan risk-değerlendirme bulguları ve varsayımlar;
-- açıklama duruşu — şunlar dahil:
-  - amaçlanan dinleyici ya da yönlendirme;
-  - maddi kararlara göre zamanlama; ve
-  - kullanılabilir yedeklerle eşleştirilmiş herhangi bir gerekçeli alıkoyma.
-- değerlendirme ya da açıklamanın hâlâ eksik olduğu yerlerde kusurlar ya da koşullar.
+**Kusurlar ve uyumsuzluk.** Aşağıdakiler sertifikasyon kusuru sayılmalıdır:
 
-Bu bulgular belgelendirme kaydında yaşar. Beşinci zorunlu adlandırılmış bileşen kaydı değillerdir.
+- kurum içi bir notu, eklerde gömülü bilgiyi, kontrol listesini veya olaydan sonra yazılmış bir beyanı değerlendirme ya da açıklama yerine koymak;
+- [Şeffaflık](core_05_band_oversight.md#transparency) veya [Güvenlik (Anayasal Kısıt)](core_05_band_continuity.md#safety-constitutional-constraint) gerektirdiği hâlde değerlendirilen sistemik riski buna ihtiyaç duyanlara açıklamamak; veya
+- bilinen riskler belgelenmeden, açıklanmadan ve ele alınmadan sistemin kullanımına güvenmeyi sürdürmeyi onaylamak.
 
-**Kusurlar ve hizasızlık.** İç notu, gömülü eki, kontrol listesini ya da sonradan bildirimi değerlendirme ya da açıklama saymak; [Şeffaflık](core_05_band_oversight.md#transparency) ya da [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) istediğinde değerlendirilmiş sistemik riski ona ihtiyaç duyanlara açıklamamak; ya da maddi risk-iletişimi boşlukları çözülmeden süregelen bel bağlamayı belgelendirmek belgelendirme kusuru sayılmalıdır. [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında koşullu tanımayı, ertelenmiş tanımayı, tanımamayı, geri çekmeyi ya da yeniden açmayı destekleyebilirler.
+Bunların sonuçları [§7 Sertifikasyon Sonuçları](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) bölümünde belirlenir.
 
-<a id="32-accessibility-under-sentience-non-exclusion"></a>
-#### 3.2 Algılama dışlamama altında erişilebilirlik
+<a id="32-time-consistency-constraint"></a>
+#### 3.2 Zaman Tutarlılığı Kısıtı
 
-Belgelendirme değerlendirmeleri her algılayan biçimi ve yetenek profili için gerçek katılımı sınamalıdır, yalnızca kâğıt uyumu değil.
+Öngörülebilir orta veya uzun vadeli ihlaller ele alınmamışsa sertifikasyon, yakın dönem ölçütlerini, yerel uyumu veya kısa ufuklu verimliliği yeterli sayamaz. Birikimli, gecikmeli veya sistemler arası koşullarda **Güvenlik**, **Hakikat** ya da **esenlik** kısıtlarının orta veya uzun vadede ihlaline öngörülebilir biçimde yol açan kısa ufuklu optimizasyon geçersizdir.
 
-- *Profillerin kapsamı.* Değerlendirmeler her ilgili profil kategorisini ele almalıdır: duyusal, bilişsel, hareket, iletişim, **alt-tabaka-arayüzü** ve **hesaplama-arayüzü**. Aynı gerek, bir profil **sürekli**, **aralıklı** ya da **gelişimsel** olsun uygulanır.
-- *Standart.* Sınama **maddi katılım etkisidir**: etkilenen algılayanın alanda **gerçekten** katılıp katılamadığı. **Biçimsel-olanak uyumu** yetmez.
-- *Ölçekleme.* Gerçek katılım tabanı, alanın [Maddilik](core_05_band_oversight.md#materiality-determination)i ve etkilenen tarafların sisteme [Bağımlılık](core_05_band_continuity.md#dependency)i ile yükselir.
-- *Kaçınma-karşıtı.* Belgelendirme, belirli bir etkilenen profili yenerken geniş toplam kullanılabilirlik iddia eden bir **genel erişim** örüntüsünü ve katılım tabanını yenme etkisi olan **seçici-maddilik ölçeklemesini** reddetmelidir.
-- *Hak Tabanı sahibi.* [Madde V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*Erişilebilirlik*) erişilebilirlik Hak Tabanını sahiplenir. Eğitime özgü erişilebilirlik [Madde III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Eşit eğitim erişimi*) tarafından yönetilmeye devam eder.
+<a id="33-governance-incentive-and-contestability-discipline"></a>
+#### 3.3 Yönetişim, Teşvik ve İtiraz Edilebilirlik Disiplini
 
-<a id="33-privacy-informational-joint-invocation"></a>
-#### 3.3 Mahremiyet (bilgisel) ortak çağrı
+*Yalın dille: inceleme, inceleyenler risk düzeyinde [Dörtlü](core_00_preamble.md#constitutional-tetrad)'nün dört ayağının da ayakta kalıp kalmayacağını sormadıkça bitmiş sayılmaz: katılım (algılayanların gerçekten katılabilmesi), gözetim (çalışmaların izlenip denetlenebilmesi), hesap verebilirlik (yanlış davranışın hesabının sorulabilmesi) ve zamanındalık (önemli olduğunda kararların yeterince hızlı alınması). İnceleyenler ayrıca maddi yetkinin gerçekte kimde olduğunu ve kimin hangi konuda hesap verdiğini bilmelidir; muğlak bir “ekip” ya da suçu başkasına atan bir paravan yeterli değildir. Geçerli bir sertifikasyon için bu sorular yanıtlanmalıdır.*
 
-*Yalın dille: Altıncı Bölüm mahremiyet korumalarını birkaç maddeye yayar — tek düzgün bir köşeye değil. Bir belgelendirme incelemesi o korumalardan birden çoğuna dokunursa, inceleyenler gerçekten uygulanan her birini denetlemelidir. En kolay kutuyu işaretleyip işi bitmiş saymak yetmez.*
+Değerlendirme, **gözetim**, **hesap verebilirlik**, **katılım** ve **zamanındalık** düzeylerinin incelenen sistem için [maddi pay](core_00_preamble.md#material-stake) ölçeğini karşılayıp karşılamadığını incelemezse eksiktir. Bu değerlendirme, maddi sorumlu yönetim, yönetişim ve hesap verebilirlik rollerinin; hesap sorulabilmesi ve uygulanabilir itiraz yollarının işlemesine yetecek ölçüde **resmen atanmış, belgelenmiş ve izlenebilir** olup olmadığını da kapsamalıdır. Ölçek, sistem sınıfına ve maddi etkiye göre **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme** uyarınca belirlenir.
 
-Bir belgelendirme meselesi Altıncı Bölüm mahremiyet yerlerinden birden çoğunu maddi olarak içerdiğinde belgelendirme her böyle yeri ele almalıdır. Meseleyi tek bir yer altında kapatmak yetersizdir.
+Bu disiplin için sertifikasyon şunları okumalıdır:
 
-- *Katılımı mümkün kılma.* [Mahremiyet (bilgisel)](core_05_band_continuity.md#privacy-informational) maddi [Katılım](core_05_apex_participation_leg.md#participation-constitutional)ı mümkün kılar. Belgelendirme, ses, müzakere, birleşme ve itirazı destekleyen mahremiyet korumalarının parçalama, çapraz okuma ya da açığa çıkarma baskısıyla yenilmediğini doğrulamalıdır.
-- *Küme yerleri.* Dağıtılmış mahremiyet kapsamı **Madde VII-A** (*Beden ve zihin öz-sahipliği*), **Madde VII-B** (*İç-durum sınırı ve Tip-N koruması*), **Madde IX** (*Benzeyiş, deneyimsel veri ve yayımlama hakları*), **Madde X-A** (*Eylem yetisi ve manipülasyondan özgürlük*) ve **Madde XIV-A** (*Güvenlik, istihbarat ve örtük-güç sınırları*) boyunca yaşar.
-- *Ortak-çağrı kuralı.* Mesele birden çok yeri maddi olarak içerdiğinde belgelendirme her böyle yere ulaşmalıdır ve meseleyi başka bir yerin kaçınılmasına izin verecek biçimde tek bir yerden yönlendirmemelidir.
-- *Küme-başı evi.* Beşinci Bölüm [**Def.C3** (*Mahremiyet (bilgisel)* — eş-düzey küme başı)](core_05_band_accountability.md#privacy-informational-cluster) ve [Mahremiyet (bilgisel)](core_05_band_continuity.md#privacy-informational) anlamı sahiplenir.
-- *Çapraz okumayla gevşetme yok.* Her küme üyesinin yerel belirtilmiş standardı kendi kapsamında hükmeder ve başka bir üyeden daha gevşek bir standardın ithaliyle gevşetilemez.
-- *Tip-N tabanı korunur.* **Madde VII-B** (*İç-durum sınırı ve Tip-N koruması*) maddi olarak söz konusu olduğunda **[corpus_systems.md](../../corpus_systems.md), CS-2** altında **Tip N** işleme uygulanır ve bu etkenle daraltılmaz.
+- **[Birinci Bölüm §16 Derinlemesine Sorumlu Yönetim](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)** — dağıtılmış kavrayış, şeffaflık, denetlenebilirlik ve itiraza açık gözlemlenebilirlik;
+- **[Birinci Bölüm §18 Sorumlu Yönetim Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — yetkili yönetişim ve sorumlu yönetim disiplini altında hesap verebilirlik;
+- **[Birinci Bölüm §19 Teşvik Uyumu ve Sistem Ele Geçirilmesi](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — teşvik uyumu, vekil ölçütlerin bütünlüğü, kısa vadeli kusur düzeltmesi ve ele geçirilme durumuna müdahale;
+- **[Birinci Bölüm §19.1.4 Rol Derinliği ve Maddi Sorumluluk Yolları](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — sonuç doğuran rol yolları ve göstermelik katılımı önleme disiplini;
+- **[On Üçüncü Bölüm §5 Yetkili Roller, Yetkinlik Gelişimi ve Katkı](core_13_governance.md#5-authorized-roles-competency-development-and-contribution) ve [corpus_systems.md](corpus_systems.md), CS-4 — Kritik sistem sorumlu yönetimi** — maddi olduğu yerlerde işler rol tanımı, yetkinlik ve izlenebilirlik tabanları;
+- denetim, şeffaflık veya bağımsız doğrulama Hak Tabanlarının maddi önem taşıdığı durumlarda **[XVI. Madde: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)**.
 
-<a id="34-voluntary-discontinuation-and-exit-rights"></a>
-#### 3.4 Gönüllü sonlandırma ve çıkış hakları
+<a id="34-data-types-and-handling-evaluation"></a>
 
-[Birinci Bölüm §5.2 Gönüllü sonlandırma ve çıkış hakları](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) bir belgelendirme meselesine uygulandığında belgelendirme, belgelendirme iddiası durmadan önce gönüllülüğü, rızayı, zorlama-karşıtlığını, bağımlılık baskısını, bilgiyi ve geri döndürülebilirliği sınamalıdır. Yalnızca biçimsel onay yetersizdir.
-
-<a id="35-assembly-collective-organization-and-institutional-formation"></a>
-#### 3.5 Toplanma, kolektif örgütlenme ve kurumsal kuruluş
-
-[Birinci Bölüm §5.3 Toplanma, kolektif örgütlenme ve kurumsal kuruluş](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) bir belgelendirme meselesine uygulandığında belgelendirme, parçalama-karşıtı kaçınmayı önleyecek kadar ortak sınamalıdır. Değerlendirme, meseleyi toplanma ya da kolektif-örgütlenme korumasını yenecek biçimde tek bir çerçeveden yönlendirirse eksiktir.
-
-<a id="36-time-consistency-constraint"></a>
-#### 3.6 Zaman-tutarlılığı kısıtı
-
-Belgelendirme, öngörülebilir orta ya da uzun ufuk ihlalleri ele alınmadan kalırken yakın vadeli ölçütleri, yerel uyumu ya da kısa-ufuk verimliliğini yeterli saymamalıdır. Kısa-ufuk eniyilemesi, kümülatif, gecikmeli ya da sistemler-arası koşullar altında **Güvenlik**, **Doğruluk** ya da **esenlik** kısıtlarının öngörülebilir orta ya da uzun ufuk ihlallerini ürettiğinde geçersizdir.
-
-<a id="37-governance-incentive-and-contestability-discipline"></a>
-#### 3.7 Yönetişim, teşvik ve itiraz edilebilirlik disiplini
-
-*Yalın dille: inceleme, inceleyenler söz konusu risk düzeyinde dört temelin hâlâ işleyip işlemeyeceğini sormadıkça bitmez — algılayanların gerçekten katılıp katılamayacağı, işin izlenip denetlenebileceği, yanlışlığın hesap sorulabilir olup olmadığı ve kararların önem taşıdığında yeterince hızlı hareket edip etmeyeceği. İnceleyenler ayrıca maddi yetkiyi kimin gerçekten tuttuğunu ve kimin neden sorumlu olduğunu bilmelidir — belirsiz bir «ekip» ya da suçu kaydıran bir kabuk değil. Geçerli bir belgelendirme için bu sorular yanıtlanmalıdır.*
-
-Belgelendirme değerlendirmesi, inceleme altındaki sistem için **gözetim**, **hesap verebilirlik**, **katılım** ve **zamanındalık**ın [maddi pay](core_00_preamble.md#material-stake) ölçeklemesini karşılayıp karşılamayacağını değerlendirmezse eksiktir. O değerlendirme, maddi sorumlu yönetim, yönetişim ve hesap verebilirlik rollerinin yanıt verebilirlik ve uygulanabilir itiraz yollarının işlemesi için yeterince **biçimsel olarak atanmış, belgelenmiş ve izlenebilir** olup olmadığını içermelidir — **[corpus_systems.md](../../corpus_systems.md), CS-3 — Sistem sınıflaması ve işleme** altında sistem sınıfına ve maddi etkiye ölçeklenmiş.
-
-O disiplin için belgelendirme şunları okumalıdır:
-
-- **[Birinci Bölüm §9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)** — dağıtılmış anlayış, şeffaflık, denetlenebilirlik ve itiraz edilebilir gözlemlenebilirlik;
-- **[Birinci Bölüm §10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** — sorumlu yönetim disiplini altında yetkilendirilmiş yönetişim ve yanıt verebilirlik;
-- **[Birinci Bölüm §11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — teşvik hizalaması, vekil bütünlüğü, kısa-ufuk kusur düzeltmesi ve ele geçirme yanıtı;
-- **[Birinci Bölüm §11.1.4 Rol-derinliği ve maddi-sorumluluk yolları](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — sonuç doğuran rol yolları ve simgesel-katılım-karşıtı disiplin;
-- **[On İkinci Bölüm §5 Yetkilendirilmiş roller, yeterlilik geliştirme ve katkı](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** ve **[corpus_systems.md](../../corpus_systems.md), CS-4 — Kritik sistem sorumlu yönetimi** — maddi olduğunda işlemsel rol-tanımı, yeterlilik ve izlenebilirlik tabanları;
-- denetim, şeffaflık ya da bağımsız-doğrulama Hak Tabanları maddi olarak söz konusu olduğunda **[Madde XVI: Denetim, şeffaflık ve bağımsız doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)**.
-
-<a id="38-illustrative-whole-system-application-by-class"></a>
-
-<a id="38-illustrative-whole-system-application-by-class-non-exhaustive"></a>
-#### 3.8 Sınıfa göre örnek bütün-sistem uygulama (tüketici değil)
-
-*Yalın dille: [§3.1](#31-systemic-scope-and-risk-factors) ile [§3.7](#37-governance-incentive-and-contestability-discipline) bir bütün-sistem incelemesinin neyi düşünmesi gerektiğini listeler. Bu alt kesit o etkenlerin sınıf başına bir örnek sisteme nasıl uygulandığını gösterir — bağımlılık zincirleri, katılım, mahremiyet, çıkış, toplanma, zaman ufku ve yönetişim disiplini — ve kayda neyin girmesi gerektiğini. Sistemler [§2.1](#21-illustrative-class-profiles-non-exhaustive) ile örtüşür; [§4.1](#41-illustrative-data-handling-application-by-class) aynı sistemleri veri-işleme ayrıntısından yürütür.*
-
-**Sınıf A — belediye güvenli içme suyu denetimi ve telemetrisi.** Kentin sahip olduğu arıtma-ve-dağıtım denetim katmanı güce, kimyasal arza, **SCADA** (denetleyici kontrol ve veri edinimi) tedarikçilerine, saha duyucularına ve aşağı dağıtım altyapısına bel bağlar; başarısızlık yedekler gelmeden güvenli suyu kapatabilir.
-
-- **Maddi olarak kapsamdaki etkenler:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — yukarı güç ve kimyasal bağımlılığı, zincirleme dağıtım başarısızlığı, kirlilik ya da kesme kötüye kullanımı ve denetim bütünlüğü düşerse hayatta kalma ölçeğinde zarar;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — su erişimi kapılandığında her ilgili profil için acil bildirim, kesinti bildirimi ve itiraz yolları;
-  - [§3.3](#33-privacy-informational-joint-invocation) — işletme **telemetrisi** (canlı saha ölçümü ve denetim sinyalleri), müşteri iletişim verisi ve tedarikçi izlemesinin Altıncı Bölüm mahremiyet yerleriyle kesiştiği ortak inceleme;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — tedarikçi kilidi, belediye sözleşme baskısı ve devredilmiş denetimin geri döndürülebilirliği;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — parçalanarak dışarı itilmemesi gereken topluluk su kurulları, karşılıklı yardım ağları ve kamusal gözetim organları;
-  - [§3.6](#36-time-consistency-constraint) — ertelenmiş bakım, kısa-ufuk maliyet kesintileri ve uzun-ufuk güvenlik ya da ekolojik zarar;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — CS-3 ve CS-3 rol izlenebilirliği altında gözetim, hesap verebilirlik, katılım ve zamanındalık için **Sınıf A** dörtlü ölçeklemesi.
-- **Değerlendirmenin sınaması gereken:**
-  - Bağımlılık ve zincirleme haritalarının güç, kimyasal, tedarikçi ve dağıtım başarısızlık kiplerini içerip içermediği;
-  - karşıt kesme, sahte-kalite ya da kirlilik senaryolarının [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation) altında değerlendirilip değerlendirilmediği;
-  - değerlendirilmiş riskin, ona ihtiyaç duyan etkilenen topluluklara ve işletenlere [Risk açıklaması](core_05_band_oversight.md#risk-disclosure) altında ulaşıp ulaşmadığı;
-  - etkilenen toplulukların zarar geri döndürülemez olmadan gerçekten uyarı alıp alamadığı, güvensiz işleyişe itiraz edip edemediği ve incelemeye katılıp katılamadığı;
-  - mahremiyet incelemesinin maddi olarak söz konusu her yere ulaşıp ulaşmadığı;
-  - tedarikçi devrinden çıkışın güvenli suyu kapatmadan hâlâ işe yarayıp yaramadığı;
-  - toplanma ve kolektif gözetim yollarının sağlam kalıp kalmadığı;
-  - kısa-ufuk tasarruflarının öngörülebilir biçimde uzun-ufuk güvenliği yenip yenmediği; ve
-  - atanan sorumlu yönetim rollerinin **Sınıf A** derinliğinde yanıt verebilirlik için yeterince izlenebilir olup olmadığı.
-- **Kaydın göstermesi gereken:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) ile [§3.7](#37-governance-incentive-and-contestability-discipline)de söz konusu her etken altında maddi bulgular;
-  - bağımlılık ve zincirleme varsayımları;
-  - sistemik risk kapsamdayken risk-değerlendirme bulguları ve açıklama duruşu (dinleyici ya da yönlendirme, zamanlama, alıkoymalar ve yedekler);
-  - hayatta kalma-tabanı kapılaması için erişilebilirlik ve katılım bulguları;
-  - mahremiyet ortak-çağrı kapsamı;
-  - çıkış ve devir bulguları;
-  - maddi olduğunda toplanma ve kolektif-örgütlenme bulguları;
-  - zaman-tutarlılığı bulguları;
-  - **Sınıf A** derinliğinde yönetişim, teşvik ve itiraz edilebilirlik bulguları;
-  - Hak Tabanları söz konusu olduğunda Algılayan-forumu ya da diğer bileşen bulguları; ve
-  - tedarikçi başarısızlığı, zincirleme risk ya da yönetişim boşluklarına bağlı koşullar ya da yeniden açma tetikleyicileri.
-
-**Sınıf B — bölgesel klinik kayıt değişimi.** Bir sağlık-bilgisi değişimi hastaneler ve klinikler arasında klinik özetleri ve kimlik-çözüm belirteçlerini yönlendirir; günlük işlemler ona bel bağlar ama faks, doğrudan kapı ya da el ile alma hayatta kalmaya ilgili zaman dilimleri içinde yerine geçebilir.
-
-- **Maddi olarak kapsamdaki etkenler:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — katılımcı hastane kesintileri, kimlik-çözüm başarısızlığı, yineleme-giderme hataları ve bakım tesliminde siteler-arası zincirleme etkiler;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — duyusal, bilişsel, hareket, iletişim, alt-tabaka-arayüzü ve hesaplama-arayüzü profilleri boyunca klinisyen, hasta ve savunucu erişimi;
-  - [§3.3](#33-privacy-informational-joint-invocation) — klinik, kimlik, denetim ve uygunluk-komşu mahremiyet yerleri boyunca ortak inceleme;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — hastane çıkışı, hasta-kayıt taşınabilirliği ve katılımcılar için kilit-karşıtı;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — yönlendirilerek dolanılmaması gereken klinisyen dernekleri, hasta-savunuculuk grupları ve bölgesel yönetişim organları;
-  - [§3.6](#36-time-consistency-constraint) — uzun-ufuk bakım kalitesini ya da güveni öngörülebilir biçimde aşındıran kısa-ufuk verimlilik ya da birlikte-işlerlik iddiaları;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — işletme-kritik bel bağlama için **Sınıf B** dörtlü ölçeklemesi.
-- **Değerlendirmenin sınaması gereken:**
-  - Bağımlılık haritalarının katılımcı hastaneleri, kimlik aracılarını ve yedek yolları kapsayıp kapsamadığı;
-  - yönlendirme hataları, bayat kayıtlar ya da kısmi kesintilerden gecikmeli ya da kümülatif zararın [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation) altında değerlendirilip değerlendirilmediği;
-  - değerlendirilmiş işletme ve bakım-teslim riskinin, ona ihtiyaç duyan klinisyenlere, hastalara ve işletenlere [Risk açıklaması](core_05_band_oversight.md#risk-disclosure) altında ulaşıp ulaşmadığı;
-  - değişime bel bağlayan klinisyenler, hastalar ve savunucular için maddi katılımın ulaşılabilir olup olmadığı;
-  - maddi olarak söz konusu her mahremiyet yerinin ele alınıp alınmadığı;
-  - hastanelerin ve hastaların işe yarar çıkış ve taşınabilirlik yollarını tutup tutmadığı;
-  - kolektif gözetim ve meslek örgütü yollarının itiraz edilebilir kalıp kalmadığı;
-  - verimlilik çerçevesinin uzun-ufuk bakım ya da güven zararını gizleyip gizlemediği; ve
-  - sorumlu yönetim ve yanıt verebilirlik rollerinin **Sınıf B** işletme derinliğinde izlenebilir olup olmadığı.
-- **Kaydın göstermesi gereken:**
-  - **Sınıf B** işletme kritikliğine ölçeklenmiş bütün-sistem bulguları;
-  - bağımlılık, yedek ve zincirleme varsayımları;
-  - sistemik risk kapsamdayken risk-değerlendirme bulguları ve açıklama duruşu;
-  - sağlık kapılaması için erişilebilirlik ve katılım bulguları;
-  - mahremiyet ortak-çağrı kapsamı;
-  - çıkış ve taşınabilirlik bulguları;
-  - maddi olduğunda toplanma ve kolektif-örgütlenme bulguları;
-  - zaman-tutarlılığı bulguları;
-  - yönetişim, teşvik ve itiraz edilebilirlik bulguları;
-  - gerektiğinde bileşen bulguları; ve
-  - kesinti ya da yönlendirme başarısızlığı artık hayatta kalmaya ilgili zaman dilimleri içinde acil bakımı tıkayacaksa yeniden açma tetikleyicileri.
-
-**Sınıf C — kurumsal çizelgeleme ve eşgüdüm katmanı.** Çok-örgütlü bir çizelgeleme katmanı hastaneler, okullar ve kamu kurumları boyunca vardiyaları, oda rezervasyonlarını ve tedarikçi randevularını eşgüdümler; çekirdek hayatta kalma hizmetleri düşerse bozulmuş kiplerde çalışmayı sürdürebilir ama katman ölçekte eşgüdümü biçimlendirir.
-
-- **Maddi olarak kapsamdaki etkenler:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — yoğunlaşma etkileri, çizelgeleme düştüğünde örgütler-arası zincirleme ve tahsis örüntüleri üzerinden korunan gruplara olasılıksal yük;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — personelin, öğrencilerin, hastaların ve tedarikçilerin çizelgeleme ve itiraz arayüzlerini maddi olarak kullanıp kullanamadığı;
-  - [§3.3](#33-privacy-informational-joint-invocation) — birden çok mahremiyet yerinin uygulandığı çizelge, iletişim ve rol üstverisi;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — kurumların katmana bel bağladığı yerde örgütsel çıkış ve veri taşınabilirliği;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — eşgüdümü ele geçirilmemesi ya da parçalanarak dışarı itilmemesi gereken sendikalar, veli dernekleri ve meslek organları;
-  - [§3.6](#36-time-consistency-constraint) — adaletsiz eşgüdüm örüntülerini öngörülebilir biçimde yerleştiren kısa-ufuk eşleştirme verimliliği;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — darboğaz etkileri güçlendiğinde orantılı dörtlü ölçekleme ve yeniden sınıflama gözetimi.
-- **Değerlendirmenin sınaması gereken:**
-  - Bütün-sistem incelemesinin katmanı yalıtık bir uygulama değil eşgüdüm altyapısı olarak ele alıp almadığı;
-  - yoğunlaşma, eşleştirme yanlılığı ve örgütler-arası zincirlemenin [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation) altında dürüstçe değerlendirilip değerlendirilmediği;
-  - değerlendirilmiş eşgüdüm ve tahsis riskinin, ona ihtiyaç duyan kurumlara ve etkilenen gruplara [Risk açıklaması](core_05_band_oversight.md#risk-disclosure) altında ulaşıp ulaşmadığı;
-  - katman forum, okul ya da işyeri eşgüdümünü kapıladığında katılım yollarının maddi kalıp kalmadığı;
-  - mahremiyet incelemesinin maddi olarak söz konusu yerlere ulaşıp ulaşmadığı;
-  - katılan örgütler için çıkışın hâlâ işe yarayıp yaramadığı;
-  - toplanma ve kolektif-örgütlenme korumalarının ortak sınanıp sınanmadığı;
-  - uzun-ufuk adaletsizliğin kısa-ufuk verimliliğin arkasına gizlenmediği;
-  - yönetişim ve itiraz edilebilirliğin **Sınıf C** derinliğinde işlevsel kalıp kalmadığı; ve
-  - katman hayatta kalmaya esas erişim için fiili kapı hâline gelirse sınıf etiketinin hâlâ uyup uymadığı.
-- **Kaydın göstermesi gereken:**
-  - **Sınıf C** eşgüdüm riskine orantılı bütün-sistem bulguları — göstermelik bir kontrol listesi değil;
-  - yoğunlaşma ve zincirleme varsayımları;
-  - sistemik risk kapsamdayken risk-değerlendirme bulguları ve açıklama duruşu;
-  - eşgüdüm kapılandığında erişilebilirlik ve katılım bulguları;
-  - tetiklendiğinde mahremiyet ortak-çağrı kapsamı;
-  - maddi olduğunda çıkış bulguları;
-  - maddi olduğunda toplanma bulguları;
-  - zaman-tutarlılığı bulguları;
-  - yönetişim ve itiraz edilebilirlik bulguları;
-  - bağımlılık, klinik-derece yükler ya da darboğaz etkileri güçlendiğinde açık **yeniden sınıflama gözetimi**; ve
-  - maddilik tetikleyicileri uygulandığında [§4](#4-data-types-and-handling-evaluation) ile [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) alan değerlendirmelerine işaretçiler.
-
-**Sınıflar boyunca okuma.** [§3.1](#31-systemic-scope-and-risk-factors) ile [§3.7](#37-governance-incentive-and-contestability-discipline) etkenleri üç sistemin hepsine uygulanır; sınıf her etkenin ne kadar derin değerlendirilip kaydedilmesi gerektiğini değiştirir. Acil personel ya da hayatta kalmaya esas yönlendirmeye pratikte tek yol hâline gelen bir **Sınıf C** çizelgeleme katmanı, olgulara göre **Sınıf A** ya da **Sınıf B** bütün-sistem derinliği almalıdır — işletenin tercih ettiği daha hafif eşgüdüm incelemesi değil. Bir **Sınıf A** hayatta kalma-kritik sistem, zamanında yedek olmadan suyu, enerjiyi ya da karşılaştırılabilir hayatta kalma esaslarını kapılarken sınıf düşürülmemelidir. Kesintisi artık hayatta kalmaya ilgili zaman dilimleri içinde acil bakımı tıkayacak bir **Sınıf B** değişimi yukarı yeniden sınıflanmalıdır — hayatta kalma esasları kapılandığında **Sınıf A**ya kadar — ve [§2](#2-system-class-evaluation) ile [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında yeniden belgelendirilmelidir.
-
-<a id="4-data-types-and-handling-evaluation"></a>
-
-### 4. Veri türleri ve işleme değerlendirmesi
+#### 3.4 Veri Türleri ve İşleme Değerlendirmesi
 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [§3](#3-whole-system-certification-evaluation) (*bütün-sistem değerlendirme etkenleri*); [§3.8](#38-illustrative-whole-system-application-by-class) (*örnek bütün-sistem yürüyüşleri*); [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içerikleri*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Gözetim ölçüm ailesi (*Anayasal ölçüm olarak Doğruluk ve epistemik bütünlük*); [Madde XV: Bilgi-küresi bütünlüğü](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [Madde XVI: Denetim, şeffaflık ve bağımsız doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Madde VII: Kendi mülkiyeti](core_06_rights_part_b.md#article-vii-self-ownership).
-- Aşağı: [§4.1](#41-illustrative-data-handling-application-by-class) (*örnek veri-işleme yürüyüşleri*); [§5](#5-ecological-footprint-evaluation) ve [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*ekolojik-ayak-izi değerlendirmesi ve yürüyüşleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*yeniden sınıflama ve işleme yanlış hizalanması*).
-- Birlikte oku: [corpus_systems.md](../../corpus_systems.md), **CS-2 — Bilgi türleri ve işleme** (**[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Yeniden sınıflama ve yaşam-döngüsü yönetişimi*) ve **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*Sistem veri türleri kaydı yönetişimi*) dahil); [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional); [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure); maddi olarak uygulandığında **CJS-3.18** (*veri-tutma ve yaşam-döngüsü-bütünlüğü terimleri*), **CJS-3.21** (*karşıt sağlamlık ve kötüye-kullanım-direnci terimleri*) ve **CJS-3.17** (*birlikte işlerlik, taşınabilirlik ve çıkış-bütünlüğü terimleri*).
-- Alt kesitler: [§4.1](#41-illustrative-data-handling-application-by-class) (*sınıfa göre örnek veri-işleme uygulama*).
+- Önceki kaynaklar: [§3](#3-whole-system-certification-evaluation) (*bütün sistem değerlendirmesi etkenleri*); [C Kısmı bütün sistem örnekleri](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*örnekleyici bütün sistem incelemeleri*); [B Kısmı §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*kayıt içeriği*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Gözetim ölçüm ailesi (*anayasal ölçüm olarak Hakikat ve epistemik bütünlük*); [XV. Madde: Bilgi Ekosferinin Bütünlüğü](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [XVI. Madde: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [VII. Madde: Öz-Sahiplik](core_06_rights_part_b.md#article-vii-self-ownership).
+- Sonraki kaynaklar: [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*örnekleyici veri işleme incelemeleri*); [§5.1](#51-ecological-footprint-evaluation) ve [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*ekolojik ayak izi değerlendirmesi ve örnekleri*); [B Kısmı §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*kayıt bütünlüğü*); [B Kısmı §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*doğrulanmış girdi eşiği*); [B Kısmı §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*yeniden sınıflandırma ve işleme uyumsuzluğu*).
+- Birlikte okuyun: [corpus_systems.md](corpus_systems.md), **CS-2 — Bilgi türleri ve işleme** (özellikle **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Yeniden sınıflandırma ve yaşam döngüsü yönetişimi*) ve **[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance)** (*Sistem Veri Türleri Kaydı yönetişimi*)); [Sistem Veri Türleri Kaydı](core_05_band_continuity.md#system-data-types-record); [Kamu Gözetimi Temel Açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure); maddi olarak uygulanabildiği yerde **CJS-3.18** (*veri saklama ve yaşam döngüsü bütünlüğü terimleri*), **CJS-3.21** (*hasmane dayanıklılık ve kötüye kullanım direnci terimleri*) ve **CJS-3.17** (*birlikte işlerlik, taşınabilirlik ve çıkış bütünlüğü terimleri*); bir mahremiyet odağı söz konusuysa [§4.1 Mahremiyet (Bilgisel) Ortak Başvurusu](#41-privacy-informational-joint-invocation).
+- Alt bölümler: [§3.4.1](#341-type-o-baseline-disclosure) (*O Türü temel açıklaması*); [§3.4.2](#342-privacy-discipline) (*mahremiyet disiplini*); [§3.4.3](#343-protective-storage-and-key-custody) (*koruyucu depolama ve anahtar muhafazası*); [§3.4.4](#344-periodic-data-type-re-evaluation) (*veri türünün dönemsel yeniden değerlendirilmesi*); [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*sistem sınıfına göre ölçeklenmiş altyapı güvencesi*); [§3.4.6](#346-infrastructure-robustness-for-data) (*veri altyapısının sağlamlığı*); [§3.4.7](#347-defects-and-misalignment) (*kusurlar ve uyumsuzluk*); [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*sistem sınıfına göre örnekleyici veri işleme uygulaması*).
 
 </details>
 
 <br>
 
-*Yalın dille: belgelendirme sistemin hangi veri türlerine dokunduğuna ve onları uygun işleyip işlemediğine de bakmak zorundadır — türlerin hâlâ mevcut inceleme döngüsünde doğru olup olmadığı ve alttaki altyapının o sınıfta o veri için yeterince sağlam olup olduğu dahil. Tür kuralları ve Sistem veri türleri kaydı sistemler corpusunda yaşar; belgelendirme kuralların gerçekten uygulandığını ve kaydın dürüst olduğunu denetler.*
+*Yalın dille: sertifikasyon, sistemin hangi veri türlerine dokunduğunu ve bunları uygun biçimde işleyip işlemediğini de incelemelidir. Buna türlerin mevcut inceleme döngüsünde hâlâ doğru olup olmadığı ve temel altyapının o sistem sınıfındaki veri için yeterince güçlü olup olmadığı da dâhildir. Tür kuralları ve Sistem Veri Türleri Kaydı sistemler bütününde bulunur; sertifikasyon, kuralların gerçekten uygulandığını ve kaydın gerçeği yansıttığını denetler.*
 
-Sistem hizalama belgelendirmesi her maddi etkili belgelendirme kaydının parçası olarak **veri türleri ve işlemeyi** değerlendirmelidir. Kanonik bilgi-türü tanımları, işleme kuralları, ayırma gerekleri, yaşam-döngüsü ayrıntısı ve kalıcı [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional) **[corpus_systems.md](../../corpus_systems.md), CS-2 — Bilgi türleri ve işleme**de yaşar. Bu kesit belgelendirmenin neyi doğrulayıp kaydetmesi gerektiğini belirtir; CS-2 tür taksonomisini ya da işleme mekaniğini yeniden belirtmez.
+Sistem uyum sertifikasyonu, maddi etkisi olan her sertifikasyon kaydının parçası olarak **veri türlerini ve işlemeyi** değerlendirmelidir. Bu bölüm, sertifikasyonun neleri doğrulaması gerektiğini belirtir. Tür sınıflandırması ve işleme yöntemleri **[corpus_systems.md](corpus_systems.md), CS-2 — Bilgi türleri ve işleme** içinde şu unsurlarla birlikte yer alır:
 
-**Değerlendirme gereği.** Bir belgelendirme süreci, sistemin maddi olarak kapsamdaki veri türlerini tanımlayıp tanımlamadığını ve onları dönüştürme, birleştirme, devretme, saklama, tutma ve alanlar-arası bağlama boyunca **en kısıtlayıcı uygulanabilir** sınıflama altında işleyip işlemediğini belirlemelidir. Değerlendirme yalnızca etiket, biçim ya da boru hattı evresini değil, işlevsel etkiyi yansıtmalıdır. **[CS-2 A Kısmı §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** Type O tabanı uygulandığında belgelendirme, yayımlanmış [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure)nın (**Type O**) **belgelendirilmiş kapsamı** — yöneten [Kapsam belgesi](core_05_band_continuity.md#charter)ndan (ya da eşdeğer yayımlanmış kapsam aracından), atanan sınıftan ve gözlemlenen [Sistem sınırları](core_05_band_continuity.md#system-boundaries)ndan eşlenerek — kapsadığını da doğrulamalıdır; gerekçeli alıkoymalar azami uygulanabilir kamusal yedeklerle eşlenir; Beşinci Bölüm terimi sahiplenir; CS-2 taban içeriğini ve yayımlama mekaniğini sahiplenir.
+- kanonik bilgi türü tanımları;
+- işleme kuralları ve ayırma gereklilikleri;
+- yaşam döngüsü ayrıntıları; ve
+- kalıcı [Sistem Veri Türleri Kaydı](core_05_band_continuity.md#system-data-types-record).
 
-**Periyodik veri-türü yeniden değerlendirmesi.** Her maddi etkili belgelendirme ya da yeniden doğrulama döngüsünde süreç, kapsamdaki maddi veri kümelerinin **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Yeniden sınıflama ve yaşam-döngüsü yönetişimi*) ve **CJS-3.18** (*veri-tutma ve yaşam-döngüsü-bütünlüğü terimleri*) altında uygun sınıflama için **periyodik olarak yeniden değerlendirildiğini** ve o incelemenin istediği yerde **yeniden sınıflandığını** doğrulamalıdır. Tempo [§2](#2-system-class-evaluation) altında sistem sınıfı ve maddi etki ile ölçeklenmelidir. CS-2 altındaki olay-tetikli yeniden tipleme bu periyodik belgelendirme denetiminin yerine geçmez.
+**Değerlendirme gerekliliği.** Sertifikasyon süreci sistemin:
 
-**Kayıt gereği.** Belgelendirme bir [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional) — ya da CS-2 altındaki gereken içeriklerini — **üretmeli ya da doğrulamalı** ve onu [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional)na **[B Kısmı §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** altında katmalıdır. O kayıt maddi olarak kapsamdaki veri türlerini, belirsiz ya da çok-türlü veri için sınıflama gerekçesini, bel bağlanan ayırma ve alanlar-arası-bağlama denetimlerini, tutma ve yaşam-döngüsü duruşunu, [Atfedilebilir eylem](core_05_band_accountability.md#attributable-action-constitutional) ve [Atıf bütünlüğü](core_05_band_accountability.md#attribution-integrity-constitutional)ni desteklemeye yeterli atfetme yetisini, **en son periyodik veri-türü yeniden değerlendirmesini** (tarih ya da döngü tanımlayıcısı, tempo ve maddi yeniden tipler) ve CS-2 istediğinde açıklama ya da denetim erişimine gerekçeli kısıtları kamusal yedekleriyle birlikte belirtmelidir. Type O tabanı uygulandığında kayıt, [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure)nın belgelendirilmiş kapsamı nasıl kapsadığını da belirtmelidir (bel bağlanan Kapsam belgesi alanları, sınır bulguları ve kapsama boşlukları ya da koşulları).
+- maddi olarak kapsama giren veri türlerini belirleyip belirlemediğini; ve
+- dönüştürme, bir araya getirme, yetki devri, depolama, saklama ve alanlar arası bağlantı dâhil tüm işlemlerde, uygulanabilir **en kısıtlayıcı** sınıflandırmaya göre hareket edip etmediğini belirlemelidir.
 
-**Sistem sınıfıyla ortak ölçekleme.** Veri-işleme ve altyapı-güvence derinliği [§2](#2-system-class-evaluation) ve CS-3 altında atanan sistem sınıfıyla ölçeklenmelidir. Daha yüksek-sınıf sistemler, işleme, saklama, işlemden geçirme, iletim, yedekleme, kurtarma ve izleme altyapısının stres altında sınıflama bütünlüğünü, atfı ve itiraz edilebilirliği koruyabileceğine dair orantılı olarak daha güçlü kanıt ister. CS-2 kamu-yararı görünürlük varsayılanları uygulandığında belgelendirme, kısıtların dar kapsamlı, belgelenmiş, denetlenebilir ve opak gizleme yerine azami uygulanabilir yedeklerle eşlendiğini doğrulamalıdır.
+Değerlendirme yalnızca etiketi, biçimi veya işlem hattındaki aşamayı değil, işlevsel etkiyi yansıtmalıdır.
 
-**Veri için altyapı sağlamlığı.** Belgelendirme, veri-işleme altyapısının — kalıcılık katmanları, boru hatları, erişim denetimleri, şifreleme ya da yalıtım sınırları, yedekleme ve geri yükleme yolları ve işleten ya da tedarikçi devir zincirleri dahil — söz konusu veri türleri ve sistem sınıfı için uygun olup olmadığını değerlendirmelidir. Yaşam-döngüsü bütünlüğü, karşıt sağlamlık, taşınabilirlik ya da kurtarılabilirlikteki maddi boşluklar kayda yazılmalı ve belgelendirme sonucuna, koşullara ya da bel bağlama sınırlarına yansımalıdır.
+<a id="341-type-o-baseline-disclosure"></a>
+##### 3.4.1 O Türü Temel Açıklaması
 
-**Kusurlar ve yanlış hizalanma.** Verinin yanlış sınıflanması, kaçınmacı yeniden yapılandırma, güvensiz alanlar-arası bağlama, maddi zararın soruşturulamayacağı yerde atfın yokluğu, **gecikmiş ya da atlanmış periyodik veri-türü yeniden değerlendirmesi** ya da CS-2 korumalarını öngörülebilir biçimde yenen altyapı kırılganlığı belgelendirme kusuru sayılmalıdır. [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında koşullu tanımayı, ertelenmiş tanımayı, tanımamayı, geri çekmeyi ya da yeniden açmayı destekleyebilirler.
+**[CS-2 A Kısmı §7 O Türü temeli](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** uygulandığında sertifikasyon, yayımlanmış [Kamu Gözetimi Temel Açıklamasının](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**O Türü**) sertifikalandırılmış kapsamı kapsadığını da doğrulamalıdır. Kapsam şu unsurlardan eşleştirilir:
 
-<a id="41-illustrative-data-handling-application-by-class"></a>
+- geçerli [Şart](core_05_band_continuity.md#charter) (veya kapsamı belirten eşdeğer yayımlanmış belge);
+- atanmış sistem sınıfı; ve
+- gözlenen [Sistem Sınırları](core_05_band_continuity.md#system-boundaries).
 
-<a id="41-illustrative-data-handling-application-by-class-non-exhaustive"></a>
-#### 4.1 Sınıfa göre örnek veri-işleme uygulama (tüketici değil)
+Sistemik risk söz konusuysa değerlendirilen riskin paylaşılması da bu temelin karşılanmasına katkıda bulunabilir. Kamunun temel hakkı sertifikasyondan daha geniştir; [Sistem Sınıflandırma Kaydı](core_05_band_continuity.md#system-classification-record) veya [Sistem Veri Türleri Kaydı](core_05_band_continuity.md#system-data-types-record) yanında ayrı bir kayıt tutulmasını gerektirmez.
 
-*Yalın dille: [§2.1](#21-illustrative-class-profiles-non-exhaustive)teki sınıf tablosu daha yüksek sınıfların daha sert inceleme istediğini söyler. [§3.8](#38-illustrative-whole-system-application-by-class) bunun aynı üç sistemde **bütün-sistem değerlendirmesi** için ne demek olduğunu gösterir; [§5.1](#51-illustrative-ecological-footprint-application-by-class) diziyi **ekolojik ayak izi** için sürdürür. Bu alt kesit **veri türleri ve işleme** için ne demek olduğunu gösterir — hangi türlerin kapsamda olduğu, belgelendirmenin neyi denetlemesi gerektiği ve kayda neyin girmesi gerektiği. Tür kurallarını hâlâ CS-2 sahiplenir; bu yürüyüşler tür eklemez ya da CS-2yi daraltmaz.*
+Gerekçeli her bilgi saklama kararı, makul ölçüde mümkün olan en güçlü kamusal ikameyle birlikte sunulmalıdır ([§3.4.5 Sistem Sınıfına Göre Ölçeklenmiş Altyapı Güvencesi](#345-system-class-scaled-infrastructure-assurance) örnekler verir). Terimin sahibi Beşinci Bölümdür; temel açıklamanın içeriği ve yayımlama yöntemlerinin sahibi CS-2'dir (*Bilgi türleri ve işleme*).
 
-**Sınıf A — belediye güvenli içme suyu denetimi ve telemetrisi.** Kentin sahip olduğu arıtma-ve-dağıtım denetim katmanı gerçek zamanlı basınç, akış, kirlilik-uyarı ve vana-komut verisi alır; kesinti bildirimi için sınırlı müşteri-hizmeti bağlama verisi saklar; izlemeyi bir tedarikçi güvenlik işlemleri merkezine (**SOC**) devreder.
+<a id="342-privacy-discipline"></a>
+##### 3.4.2 Mahremiyet Disiplini
 
-- **Kapsamdaki veri türleri:**
-  - Güvenlik-kritik işletme **telemetrisi** (sahadan canlı ölçüm ve komut sinyalleri);
-  - kirlilik ve kalite-uyarı sinyalleri;
-  - kesinti-bildirimi iletişim verisi;
-  - tedarikçi ve işleten erişim günlükleri;
-  - olay ve bakım kayıtları.
-- **Değerlendirmenin sınaması gereken:**
-  - Güvenlik-kritik denetim-düzlemi verisinin müşteri-hizmeti, faturalama ya da analitik boru hatlarından **en kısıtlayıcı uygulanabilir** CS-3 sınıflaması altında ayrılıp ayrılmadığı;
-  - birleştirme, tedarikçi devri ya da yedekleme yollarının stres ya da karşıt koşullar altında o ayrımı çökertip çökertemeyeceği;
-  - atfın bir kirlilik ya da kesme olayını soruşturacak kadar uzun yaşayıp yaşamadığı; ve
-  - güvenlik-gerekçeli herhangi bir denetim kısıtının belgelenmiş kamusal yedeği olup olmadığı.
-- **Kaydın göstermesi gereken:**
-  - Belgelendirilmiş kapsam için tam tür envanteri;
-  - telemetri, uyarı ya da iletişim verisinin çok-türlü olabileceği yerde sınıflama gerekçesi;
-  - ayırma ve alanlar-arası-bağlama denetimleri;
-  - olay yeniden kurulumu için tutma ve yaşam-döngüsü duruşu;
-  - **Sınıf A** derinliğinde yedekleme, geri yükleme ve karşıt kurtarma için altyapı-güvence bulguları; ve
-  - tedarikçi devrine ya da izleme boşluklarına bağlı koşullar.
+Sertifikasyon, veri işlemeyi şu mahremiyet disiplinine tabi tutmalıdır:
 
-**Sınıf B — bölgesel klinik kayıt değişimi.** Bir sağlık-bilgisi değişimi hastaneler, klinikler ve yardımlara-komşu uygunluk sistemleri arasında klinik özetleri, görüntü işaretçileri ve kimlik-çözüm belirteçlerini yönlendirir; hastaneler her gün ona bel bağlar ama hayatta kalmaya ilgili zaman dilimleri içinde faksa, doğrudan kapıya ya da el ile almaya düşebilir.
+- *H, I, N, S ve Y türleri.* **H**, **I**, **N**, **S** ve **Y Türü** veriler için sertifikasyon; işlemenin **CS-2**'de (*Bilgi türleri ve işleme*) her tür için belirtilen [mahremiyet dayanaklarını](corpus_systems/cs_02_b_data_classifications.md#privacy-link), [Gereklilik](core_05_band_accountability.md#necessity), [Orantılılık](core_05_band_accountability.md#proportionality), veri minimizasyonu ve rıza ya da başka yeterli yetki dâhil karşılayıp karşılamadığını doğrulamalıdır.
+- *Ortak başvuru.* Birden fazla mahremiyet odağı söz konusuysa [§4.1 Mahremiyet (Bilgisel) Ortak Başvurusu](#41-privacy-informational-joint-invocation) da uygulanır.
+- *Etiketler yeterli değildir.* Tür etiketinin doğru olması, tek başına mahremiyet kurallarına uyulduğunu göstermez.
+- *W, U ve T türleri.* **W**, **U** ve **T Türü** eserlerde sertifikasyon, aşağıdakiler dâhil yaratıcının denetiminin gözetildiğini doğrulamalıdır:
+  - [CS-2 B Kısmı §9.9](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*W Türü: Yayımlanmış eserler*) uyarınca kamuya açık yayının geri çekilmesi;
+  - [CS-2 B Kısmı §9.13](corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*Ticari izinler*) uyarınca kayda geçirilmiş her iznin sınırları; ve
+  - yaratıcının [saklı hakları](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights).
+- *Örtük rıza yoktur.* Hiçbir izin, adını koymadığı bir kullanıma rıza sayılmaz.
 
-- **Kapsamdaki veri türleri:**
-  - Klinik ve tanı kayıtları;
-  - kimlik ve kimlik-bilgisi-çözüm belirteçleri;
-  - sağlayıcı ve tesis dizin verisi;
-  - erişim ve açıklama denetim günlükleri;
-  - türetilmiş eşleme ya da yineleme-giderme artefaktları.
-- **Değerlendirmenin sınaması gereken:**
-  - Klinik verinin yönlendirme, önbellekleme, yineleme-giderme ve aşağı bağlama boyunca en sıkı uygulanabilir işleme sınıfı altında kalıp kalmadığı;
-  - kimlik-çözüm mantığının güvensiz alanlar-arası bağlama ya da vekil ifşa yaratıp yaratmadığı;
-  - işleten ve katılımcı devir zincirlerinin atfedilebilir kalıp kalmadığı; ve
-  - taşınabilirlik ve çıkış yollarının işletme kurtarmasını yenmeden hasta denetimini koruyup korumadığı.
-- **Kaydın göstermesi gereken:**
-  - Maddi türler ve belirsiz-tür gerekçesi;
-  - klinik yükler, dizin üstverisi ve uygunluk-komşu beslemeler arasındaki ayırma;
-  - devir-zinciri atfı;
-  - sağlık soruşturması ve itiraz için yeterli yaşam-döngüsü ve tutma duruşu;
-  - **Sınıf B** işletme derinliğinde altyapı-güvence bulguları; ve
-  - kesinti ya da veri-işleme başarısızlığının artık hayatta kalmaya ilgili zaman dilimleri içinde bakımı tıkayacağı yeniden açma tetikleyicileri.
+<a id="343-protective-storage-and-key-custody"></a>
+##### 3.4.3 Koruyucu Depolama ve Anahtar Muhafazası
 
-**Sınıf C — kurumsal çizelgeleme ve eşgüdüm katmanı.** Çok-örgütlü bir çizelgeleme katmanı hastaneler, okullar ve kamu kurumları boyunca personel vardiyalarını, oda rezervasyonlarını ve tedarikçi randevularını eşgüdümler; çekirdek hastaneler ve kamu hizmetleri başarısız olursa bozulmuş kiplerde çalışmayı sürdürür ama katman ölçekte eşgüdümü biçimlendirir ve iletişim, rol ve kaba konum üstverisi tutabilir.
+Varsayılan olarak kısıtlı ve erişilemez bantlardaki veriler için sertifikasyon, sistemin [CS-2 A Kısmı §5.0 Erişim duruşu bantları](corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands) içindeki koruyucu depolama ve anahtar muhafazası tabanını karşıladığını doğrulamalıdır. Kayıt şunları göstermelidir:
 
-- **Kapsamdaki veri türleri:**
-  - Çizelge, rol ve kaynak-tahsisi verisi;
-  - katılımcı iletişim ve kimlik-bilgisi üstverisi;
-  - kaba konum ya da mekân tanımlayıcıları;
-  - katman denetim günlükleri;
-  - kullanıldığında türetilmiş sıralama ya da eşleme çıktıları.
-- **Değerlendirmenin sınaması gereken:**
-  - Sistemin maddi türleri dürüstçe tanımlayıp tanımlamadığı — çizelgeleme örüntüleri yoluyla korunan özellikleri açığa çıkarabilecek türetilmiş çıktılar dahil;
-  - örgütler-arası bağlamanın gerekçeli kapsam içinde kalıp kalmadığı;
-  - yoğunlaşmanın darboğaz yükselişini haber verebileceği yerde işlemenin itiraz edilebilir kalıp kalmadığı; ve
-  - bağımlılık ya da veri hassasiyeti güçlendiyse daha düşük bir sınıf etiketinin hâlâ uyup uymadığı.
-- **Kaydın göstermesi gereken:**
-  - Maddi olarak kapsamdaki türler ve herhangi bir çok-tür gerekçesi;
-  - **Sınıf C** eşgüdüm riskine orantılı bağlama ve tutma bulguları;
-  - gerçekten tutulan veri için maddi — törensel değil — altyapı-güvence bulguları;
-  - yük kaydıran bağlama için itiraz edilebilir atıf; ve
-  - katmanın hayatta kalmaya esas erişim için fiili bir kapı olduğu ya da klinik-derece yük taşımaya başladığı yerde açık **yeniden sınıflama gözetimi**.
+- yedekler, önbellekler, günlükler ve takas alanı dâhil, kısıtlı verilerin ve anahtarlarının gerçekte nerede bulunduğunu;
+- açık metnin yalnızca buna ihtiyaç duyan süreçlerle sınırlı olduğunu; ve
+- denetim, dışa aktarma ve hukuka uygun geçersiz kılma yollarının hâlâ çalıştığını.
 
-**Sınıflar boyunca okuma.** Aynı CS-3 kuralları üç sistemin hepsine uygulanır; sınıf **derinliği** değiştirir, veriyi yanlış işleme iznini değil. Klinik-derece kayıtları saklamaya ya da yönlendirmeye başlayan bir **Sınıf C** katmanı öyle değerlendirilmeli ve kaydedilmelidir — işleten daha hafif bir dosya tercih ettiği için eşgüdüm-katmanı işlemesinde bırakılmamalıdır. Kesintisi artık hayatta kalmaya ilgili zaman dilimleri içinde acil bakımı tıkayacak bir **Sınıf B** değişimi [§2](#2-system-class-evaluation) ve [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında yeniden sınıflanmalı ve yeniden belgelendirilmeli, veri-işleme güvencesi buna göre ölçeklenmelidir.
+Bu kanıtlar olmadan sunulan şifreleme iddiası bu kontrolü karşılamaz.
 
-<a id="5-ecological-footprint-evaluation"></a>
+<a id="344-periodic-data-type-re-evaluation"></a>
+##### 3.4.4 Veri Türünün Dönemsel Yeniden Değerlendirilmesi
 
-### 5. Ekolojik ayak izi değerlendirmesi
+Maddi etkisi olan her sertifikasyon veya yeniden sertifikasyon döngüsünde süreç, kapsamdaki maddi veri kümelerinin:
+
+- **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Yeniden sınıflandırma ve yaşam döngüsü yönetişimi*) ve **CJS-3.18** (*veri saklama ve yaşam döngüsü bütünlüğü terimleri*) uyarınca uygun sınıflandırma için **dönemsel olarak yeniden değerlendirildiğini**; ve
+- inceleme gerektirdiğinde **yeniden sınıflandırıldığını**
+
+doğrulamalıdır.
+
+Sıklık, [§2 Sistem Sınıfı Değerlendirmesi](#2-system-class-evaluation) uyarınca sistem sınıfı ve maddi etkiye göre ölçeklenmelidir. CS-2 (*Bilgi türleri ve işleme*) kapsamındaki olayla tetiklenen yeniden türlendirme, bu dönemsel sertifikasyon kontrolünün yerini tutmaz.
+
+<a id="345-system-class-scaled-infrastructure-assurance"></a>
+##### 3.4.5 Sistem Sınıfına Göre Ölçeklenmiş Altyapı Güvencesi
+
+[§2.1 Sistem sınıfı her değerlendirmeyi nasıl ölçeklendirir](#21-how-system-class-scales-every-evaluation) ve CS-3 (*Sistem sınıflandırma mekanizması*) uyarınca, daha yüksek sınıftaki sistemler; işleme, depolama, işleme yürütümü, aktarım, yedekleme, kurtarma ve izleme altyapısının stres altında aşağıdakileri koruyabildiğine dair orantılı olarak daha güçlü kanıt sunmalıdır:
+
+- sınıflandırma bütünlüğü;
+- atıf; ve
+- itiraz edilebilirlik.
+
+CS-2 (*Bilgi türleri ve işleme*) kapsamındaki kamu yararı görünürlüğü varsayılanları uygulandığında sertifikasyon, kısıtlamaların:
+
+- dar kapsamlı;
+- belgelenmiş ve denetlenebilir; ve
+- makul ölçüde mümkün olan en güçlü kamusal ikameyle (örneğin özet, toplulaştırılmış veri, kimliksizleştirilmiş sürüm, gecikmeli yayımlama veya yetkili denetim erişimi) birlikte sunulmuş olduğunu
+
+doğrulamalıdır; böylece saklanan bilgiler gizlenmekle kalmaz, neden saklandığı açıklanır.
+
+<a id="346-infrastructure-robustness-for-data"></a>
+##### 3.4.6 Veri Altyapısının Sağlamlığı
+
+Sertifikasyon, veri işleme altyapısının söz konusu veri türleri ve sistem sınıfına uygun olup olmadığını değerlendirmelidir. Bu altyapı şunları içerir:
+
+- kalıcı depolama katmanları ve işlem hatları;
+- erişim denetimleri;
+- şifreleme veya yalıtım sınırları;
+- yedekleme ve geri yükleme yolları; ve
+- işletmeci ya da tedarikçi yetki devri zincirleri.
+
+Yaşam döngüsü bütünlüğü, hasmane dayanıklılık, taşınabilirlik veya kurtarılabilirlik konularındaki maddi boşluklar kayda geçirilmeli ve sertifikasyon sonucuna, koşullara veya güven sınırlarına yansıtılmalıdır.
+
+<a id="347-defects-and-misalignment"></a>
+##### 3.4.7 Kusurlar ve Uyumsuzluk
+
+Aşağıdakilerin her biri sertifikasyon kusuru sayılmalıdır:
+
+- verilerin yanlış sınıflandırılması;
+- kaçınmaya yönelik yeniden yapılandırma;
+- güvenli olmayan alanlar arası bağlantı;
+- tür etiketiyle eşleştiği hâlde o türün belirttiği mahremiyet dayanaklarını karşılamayan işleme;
+- maddi zararın araştırılamamasına yol açacak atıf eksikliği;
+- **veri türünün dönemsel yeniden değerlendirmesinin gecikmesi veya atlanması**;
+- kısıtlı verilerin depolamada veya yetkili işleme sınırının dışında açık metin olarak tutulması ya da anahtarlara ihtiyaç duymayan süreçlerin erişebilmesi; ve
+- CS-2 (*Bilgi türleri ve işleme*) korumalarını öngörülebilir biçimde boşa çıkaran altyapı kırılganlığı.
+
+Bunların sonuçları [§7 Sertifikasyon Sonuçları](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) bölümünde belirlenir.
+
+<a id="4-evaluations-where-implicated"></a>
+
+### 4. İlgili Olduğunda Değerlendirmeler
 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içerikleri*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Süreklilik ölçüm ailesi (*Anayasal ölçüm olarak Ekolojik ayak izi*); **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*); [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint), [Maddi etki](core_05_band_oversight.md#material-impact), [Bağımlılık](core_05_band_continuity.md#dependency), [Şeffaflık](core_05_band_oversight.md#transparency) ve [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity) (Beşinci Bölüm); maddi olarak söz konusu olduğunda [Çevresel önkoşullar](core_05_band_continuity.md#environmental-preconditions-constitutional) ve [Ekolojik bütünlük](core_05_band_continuity.md#ecological-integrity-constitutional).
-- Aşağı: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*örnek ekolojik-ayak-izi yürüyüşleri*); [§6](#6-proportionate-cross-system-support-evaluation) ve [§6.1](#61-illustrative-cross-system-support-application-by-class) (*sistemler-arası-destek değerlendirmesi ve yürüyüşleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ayak izi yanlış temsili ve yanlış hizalanma*).
-- Birlikte oku: [corpus_systems.md](../../corpus_systems.md), uyarlanabilir tahsis ya da ekosistem karşılıklı bağımlılığı maddi olarak kapsamdayken [CS-8 — Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md).
-- Alt kesitler: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*sınıfa göre örnek ekolojik-ayak-izi uygulama*).
+- Önceki kaynaklar: [§3](#3-whole-system-certification-evaluation) (*her zaman uygulanan katman dâhil bütün sistem değerlendirmesi*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); [Birinci Bölüm §12 Sistemik Değerlendirme Gerekliliği](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Sonraki kaynaklar: [§4.1](#41-privacy-informational-joint-invocation) (*mahremiyet odakları*); [§4.2](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) (*çıkış hakları*); [§4.3](#43-assembly-collective-organization-and-institutional-formation) (*toplanma ve muhalefet*); [B Kısmı §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*kayıt içeriği*).
+- Birlikte okuyun: [§5 Hak Tabanı ve Alan Değerlendirmeleri](#5-rights-floor-and-domain-evaluations) (*tetiklendiğinde uygulanan katman*).
 
 </details>
 
 <br>
 
-*Yalın dille: belgelendirme, önem taşıdığında atfedilebilir çevresel yükleri dürüstçe değerlendirmelidir — yukarı ve aşağı bağlar dahil — işletenin sistemi yeşil iddia edip etmediği değil. Ayak izi muhasebe yöntemleri ve sayısal azaltma hedefleri başka araçlarda yaşar; belgelendirme atfın, açıklamanın ve karşılaştırmanın maddi olduğunda gerçekten değerlendirildiğini denetler. [§2.1](#21-illustrative-class-profiles-non-exhaustive)teki örnek sistemler için işlenmiş örnekler [§5.1](#51-illustrative-ecological-footprint-application-by-class)tedir.*
+*Yalın dille: üç kontrol yalnızca sistem gerçekten ilgili konuya temas ettiğinde uygulanır: özel bilgilerin gerektiği gibi korunup korunmadığı, algılayanların tuzağa düşmeden ayrılıp ayrılamadığı ve grupların örgütlenip muhalefet edebilmeyi sürdürüp sürdüremediği. Sistem bunlardan birine temas ediyorsa sertifikasyon onu incelemelidir.*
 
-Sistem hizalama belgelendirmesi, atfedilebilir çevresel yüklerin [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint) ve **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*) altında maddi olduğu yerde her maddi etkili belgelendirme kaydının parçası olarak **ekolojik ayak izini** değerlendirmelidir. Kanonik atıf, yaşam döngüsü, bağımlılık ve şeffaflık kuralları Beşinci Bölümde ve **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*)te yaşar; muhasebe yöntemleri, doğrulama adımları ve sayısal hedefler uygulandığında içerme araçlarında yaşar. Bu kesit belgelendirmenin neyi doğrulayıp kaydetmesi gerektiğini belirtir; ayak izi muhasebe mekaniğini yeniden belirtmez ya da başka araçların istediğinin ötesinde azaltma ödevi koymaz.
+Bu bölüm, II. Aşamanın (Değerlendir) **IIb** alt aşamasıdır. Sertifikasyon konusu, bir alt bölümün adlandırdığı odağı veya ilkeyi maddi olarak ilgilendirdiğinde uygulanan bütün sistem değerlendirmelerini bir araya getirir. Hiçbir alt bölümün gerekliliklerini eklemez, daraltmaz veya yeniden sıralamaz.
 
-**Değerlendirme gereği.** Bir belgelendirme süreci, atfedilebilir çevresel akışların — enerji, malzemeler, salımlar, arazi kullanımı ve ilgili yükler — sistemin maddi olarak ilgili yaşam döngüsü ve [Bağımlılık](core_05_band_continuity.md#dependency) ilişkileri boyunca tanımlanıp tanımlanmadığını, [Maddi etki](core_05_band_oversight.md#material-impact) altında değerlendirilip değerlendirilmediğini ve yalnızca [Şeffaflık](core_05_band_oversight.md#transparency), [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity) ve uygulanabilir şeffaflık ödevlerinin izin verdiği gibi açıklanıp alıkonulup alıkonulmadığını belirlemelidir. Değerlendirme yalnızca nominal kapsamı, pazarlama etiketlerini ya da kısmi yaşam-döngüsü çerçevelemesini değil, işlevsel etkiyi ve sistem sınırlarını yansıtmalıdır.
-
-**Kayıt gereği.** Belgelendirme kaydı ayak izi değerlendirme kapsamını, atıf varsayımlarını, bel bağlanan yaşam-döngüsü ve bağımlılık sınırlarını, tanımlanan maddi yükleri, belirsizliği, açıklama duruşunu, gerektiğinde Çevre-forumu bileşen bulgularını ve uygulanabilir şeffaflık kurallarının istediği yerde ayak izi açıklamasına gerekçeli sınırları kamusal yedekleriyle birlikte belirtmelidir.
-
-**Sistem sınıfıyla ortak ölçekleme.** Ayak izi değerlendirme ve açıklama derinliği [§2](#2-system-class-evaluation) ve [maddi pay](core_00_preamble.md#material-stake) altında atanan sistem sınıfıyla ölçeklenmelidir. Daha yüksek-sınıf sistemler, maddi çevresel yüklerin atfedildiğine, uygulanabilir olduğunda ilgili alternatifler boyunca karşılaştırıldığına ve sınır kaydırma, bağımlılık boşaltma ya da seçici açıklama yoluyla örtülmediğine dair orantılı olarak daha güçlü kanıt ister.
-
-**Kusurlar ve yanlış hizalanma.** Belgelendirme ya da **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*) şeffaflık ödevlerinin açıklama istediği yerde maddi ayak izi bilgisini örtmek, yanlış temsil etmek, parçalamak ya da boşaltmak; daha geniş atıf maddiyken yalnızca işletenin seçtiği yaşam-döngüsü dilimlerini değerlendirmek; ya da ayak izi iddialarını değerlendirilebilir kanıt olmadan savla karşılanmış saymak belgelendirme kusuru sayılmalıdır. [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında koşullu tanımayı, ertelenmiş tanımayı, tanımamayı, geri çekmeyi ya da yeniden açmayı destekleyebilirler.
-
-<a id="51-illustrative-ecological-footprint-application-by-class"></a>
-
-<a id="51-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
-#### 5.1 Sınıfa göre örnek ekolojik-ayak-izi uygulama (tüketici değil)
-
-*Yalın dille: [§3.8](#38-illustrative-whole-system-application-by-class) ve [§4.1](#41-illustrative-data-handling-application-by-class) aynı üç sistemi bütün-sistem ve veri-işleme incelemesinden geçirir. Bu alt kesit her biri için **ekolojik ayak izi** değerlendirmesinin ne demek olduğunu gösterir — hangi çevresel yüklerin sayıldığı, belgelendirmenin neyi denetlemesi gerektiği ve kayda neyin girmesi gerektiği. **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*) ve Beşinci Bölüm hâlâ atıf ve şeffaflık kurallarını sahiplenir; muhasebe yöntemleri ve sayısal hedefler başka araçlarda yaşar; bu yürüyüşler o araçların istediğinin ötesinde ayak izi ödevi eklemez.*
-
-**Sınıf A — belediye güvenli içme suyu denetimi ve telemetrisi.** Kentin sahip olduğu bir arıtma-ve-dağıtım sistemi havza kaynaklarına, kimyasal arıtma girdilerine, pompalama ve arıtma enerjisine, dağıtım altyapısına, deşarj akışlarına ve kullanıldığında devredilmiş tedarikçi hesaplama ya da izlemesine bel bağlar.
-
-- **Kapsamdaki atfedilebilir yükler:**
-  - Kaynak-su çıkarımı ve havza stresi;
-  - arıtma kimyasalları ve süzme ortamı;
-  - pompalama, arıtma ve dağıtım enerjisi;
-  - tesisler, borular ve denetimler için cisimleşmiş altyapı;
-  - arıtılmış-su kaybı ve sızıntı;
-  - alıcı sulara deşarj ve kalıntılar;
-  - yukarı güç-şebeke salımları;
-  - maddi olarak bel bağlandığında tedarikçi güvenlik işlemleri merkezi (**SOC**), paylaşılan barındırılan hesaplama ya da uzaktan-izleme hesaplama ve bağlantısı;
-  - maddi olarak ilgili yaşam döngüsü boyunca bakım, değiştirme ve hizmet-dışı-bırakma yükleri.
-- **Değerlendirmenin sınaması gereken:**
-  - Ayak izi kapsamının yukarı gücü, kimyasal arzı, havza [Bağımlılık](core_05_band_continuity.md#dependency)ını ve aşağı deşarjı içerip içermediği — yalnızca belediye işlem binaları değil;
-  - [Maddi etki](core_05_band_oversight.md#material-impact)ın kaynak tükenmesi, enerji yoğunluğu ve stres ya da iklim değişkenliği altında deşarj için değerlendirilip değerlendirilmediği;
-  - işletenin seçtiği sınırların atıf maddiyken tedarikçi-barındırılan izlemeyi, dışarı verilen kimyasal lojistiği ya da paylaşılan şebeke yüklerini dışarıda bırakıp bırakmadığı;
-  - uygulanabilir olduğunda alternatiflerin — koruma, kaynak koruması, daha düşük-yük arıtma yolları — karşılaştırılıp karşılaştırılmadığı; ve
-  - açıklama sınırlarının **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*) altında belgelenmiş kamusal yedekleri olup olmadığı.
-- **Kaydın göstermesi gereken:**
-  - **Sınıf A** derinliğinde ayak izi değerlendirme kapsamı ve yaşam-döngüsü sınırları;
-  - havza, enerji, kimyasal ve deşarj akışları için atıf varsayımları;
-  - tanımlanan maddi yükler ve belirtilen belirsizlik;
-  - gerektiğinde Çevre-forumu bileşen bulguları;
-  - uygulanabilir olduğunda ilgili alternatifler boyunca karşılaştırma bulguları;
-  - açıklama duruşu ve kamusal yedeklerle herhangi bir gerekçeli sınır; ve
-  - kaynak stresi, deşarj zararı ya da sınır kaydırmaya bağlı koşullar ya da yeniden açma tetikleyicileri.
-
-**Sınıf B — bölgesel klinik kayıt değişimi.** Bir sağlık-bilgisi değişimi çoğaltılmış barındırmaya, hastane-sahası bağlantısına, kimlik-çözüm hesaplamasına ve bölgesel bir bakım ağı boyunca tedarikçi ya da katılımcı-işleten altyapıya bel bağlar.
-
-- **Kapsamdaki atfedilebilir yükler:**
-  - Birincil ve yedek veri-merkezi enerjisi, soğutma ve donanım yaşam döngüsü;
-  - katılımcı hastaneler için ağ ve kenar bağlantısı;
-  - depolama çoğaltma ve yineleme-giderme hesaplaması;
-  - kimlik-aracı ve yönlendirme altyapısı;
-  - maddi olarak bel bağlanan barındırma sahalarında tesis yükleri;
-  - hastanelerin onlara bel bağladığı yerde yerinde bağlayıcılar için cisimleşmiş altyapı.
-- **Değerlendirmenin sınaması gereken:**
-  - Ayak izi atfının işletme ölçeğinde barındırma, çoğaltma ve katılımcı-bağlantı yüklerini kapsayıp kapsamadığı — yalnızca değişim işleteninin merkezini değil;
-  - paylaşılan barındırma bölgelerine, birlikte-konum sağlayıcılarına ya da hastane-sahası kenar donanımına bağımlılığın haritalanıp atfedilip atfedilmediği;
-  - yaşam-döngüsü dilimlerinin maddi donanım ve enerji yükleri boşaltılırken yalnızca-yazılım iddialarına daraltılmadığı;
-  - maddi yüklerin [Maddi etki](core_05_band_oversight.md#material-impact) altında değerlendirilip **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*) ile tutarlı açıklanıp açıklanmadığı; ve
-  - katılımcı hacmi ya da veri hassasiyetindeki büyümenin atfedilen yükü maddi olarak değiştirip değiştirmeyeceği.
-- **Kaydın göstermesi gereken:**
-  - **Sınıf B** işletme derinliğinde ayak izi kapsamı ve bağımlılık sınırları;
-  - tanımlanan maddi enerji, donanım ve bağlantı yükleri;
-  - barındırma ve devir atıf varsayımları;
-  - belirsizlik ve açıklama duruşu;
-  - gerektiğinde Çevre-forumu ya da diğer bileşen bulguları; ve
-  - ölçek, klinik-derece yük büyümesi ya da barındırma yoğunlaşması atfedilebilir yükü ya da sınıf duruşunu maddi olarak değiştirirse yeniden açma tetikleyicileri.
-
-**Sınıf C — kurumsal çizelgeleme ve eşgüdüm katmanı.** Çok-örgütlü bir çizelgeleme katmanı öncelikle paylaşılan barındırılan hesaplama ve bağlantı üzerinde çalışır; ikincil yükler mekân lojistiğinden, eşgüdüm örüntülerinin indüklediği yolculuktan ve uygulandığında yoğunlaşmış bölgesel barındırmadan gelir.
-
-- **Kapsamdaki atfedilebilir yükler:**
-  - Çizelgeleme iş yükleri için barındırılan hesaplama, depolama ve ağ;
-  - katmanın payına atfedilebilir çok-kiracılı veri-merkezi enerjisi;
-  - maddi olarak bel bağlanan altyapı için cisimleşmiş donanım yaşam döngüsü;
-  - yalnızca eşgüdüm örüntülerinin yolculuğu ya da tesis kullanımını maddi olarak kaydırdığı yerde mekân ve lojistik yükleri;
-  - barındırma ya da kullanımın yüksek-yük yerlerde kümelendiği bölgesel yoğunlaşma etkileri.
-- **Değerlendirmenin sınaması gereken:**
-  - İşletenin katmanı «yalnızca yazılım» olduğu için maddi değil saymak yerine barındırılan-hesaplama ve bağlantı yüklerini dürüstçe atfedip atfetmediği;
-  - çok-kiracılı boşaltmanın ya da tedarikçi sınır kaydırmasının maddi enerji ya da donanım atfını gizleyip gizlemediği;
-  - yükü maddi olarak kaydırdığı yerde belirli bölgelerde ya da sağlayıcılarda yoğunlaşmanın değerlendirilip değerlendirilmediği;
-  - ayak izi incelemesinin bir **Sınıf C** sistemi için törensel olmadan orantılı kalıp kalmadığı; ve
-  - ölçek, hayatta kalmaya esas yönlendirme ya da klinik-derece yük büyümesi **Sınıf B** ya da **Sınıf A** ayak izi derinliği isterse yeniden sınıflamanın gerekip gerekmediği.
-- **Kaydın göstermesi gereken:**
-  - **Sınıf C** eşgüdüm riskine orantılı ayak izi bulguları;
-  - hesaplama, depolama ve bağlantı için kapsam ve atıf varsayımları;
-  - yaşam-döngüsü sınırlarını aşırı daraltmadan tanımlanan maddi yükler;
-  - belirsizlik ve açıklama duruşu;
-  - barındırma yoğunlaşması, ölçek ya da yük hassasiyeti güçlendiğinde açık **yeniden sınıflama gözetimi**; ve
-  - sınıf ya da maddilik değişirse yükseltilmiş ayak izi incelemesine işaretçiler.
-
-**Sınıflar boyunca okuma.** Aynı **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*) ve Beşinci Bölüm ayak izi disiplini üç sistemin hepsine uygulanır; sınıf atıf derinliğini ve karşılaştırma yükünü değiştirir, maddi çevresel akışları örtme iznini değil. Güvenli suyu kapılayan havza çıkarımı, deşarj ya da enerji yükleri maddi olarak eksik atfedilirken bir **Sınıf A** hayatta kalma-kritik su sistemi sınıf düşürülmemelidir. Klinik yük ya da barındırma yoğunlaşmasındaki büyümesi çevresel yükü maddi olarak artıran bir **Sınıf B** değişimi o büyümeye ölçeklenmiş ayak izi incelemesi almalıdır — hayatta kalmaya esas teslim ve kaynak-sistem yükleri birlikte söz konusu olduğunda **Sınıf A** derinliğine kadar yukarı dahil. Hayatta kalmaya esas eşgüdüm için fiili bir darboğaz hâline gelen bir **Sınıf C** çizelgeleme katmanı, işleten onu kritik-değil etiketlediği için simgesel bir ayak izi dosyası tutmamalıdır. Aynı sistemler için sistemler-arası-destek yürüyüşleri [§6.1](#61-illustrative-cross-system-support-application-by-class)tedir.
-
-<a id="6-proportionate-cross-system-support-evaluation"></a>
-
-<a id="6-proportionate-cross-system-contribution-evaluation"></a>
-### 6. Orantılı sistemler arası katkı değerlendirmesi
+<a id="41-privacy-informational-joint-invocation"></a>
+#### 4.1 Mahremiyet (Bilgisel) Ortak Başvurusu
 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içerikleri*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Süreklilik ölçüm ailesi (*Anayasal ölçüm olarak Orantılı sistemler arası katkı*); **Madde IV-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) ve **Madde IV-B** (*Sistemler arası adillik ve sürdürülebilirlik*); [Orantılı sistemler arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Bağımlılık](core_05_band_continuity.md#dependency), [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional), [Orantılılık](core_05_band_accountability.md#proportionality), [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint) ve [Sürdürülebilirlik](core_05_band_continuity.md#sustainability) (Beşinci Bölüm).
-- Aşağı: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*örnek sistemler-arası-destek yürüyüşleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*kaynak-akışı yanlış temsili, çıkarma yanlış hizalanması ve destek yetersizliği*).
-- Birlikte oku: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı*); yoğunlaşma, bağımlılık ya da teşvik yönlendirmesi **Madde IV-B** (*Sistemler arası adillik ve sürdürülebilirlik*) ile kesiştiğinde [*Yönetişim mimarisi, gözetim, bağımlılık, merkezsizleşme, yoğunlaşma, piyasa yapısı ve çıkış yolu bütünlüğü*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Alt kesitler: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*sınıfa göre örnek sistemler-arası-destek uygulama*).
+- Birlikte okuyun: Beşinci Bölümdeki [**Def.C3** (*Mahremiyet (Bilgisel)* — eş düzey küme başlığı)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) ve anlamı belirleyen küme başlığı yuvası olan [Mahremiyet (Bilgisel)](core_05_band_continuity.md#privacy-informational).
 
 </details>
 
 <br>
 
-*Yalın dille: bir sistem paylaşılan temellerden maddi olarak çektiğinde belgelendirme, işletenin defterlerin denk olduğunu söyleyip söylemediğini değil, yeterince izlenebilir destek geri koyup koymadığını denetlemek zorundadır. Tahsis formülleri ve sayısal hedefler başka araçlarda yaşar; belgelendirme tetikleyici uygulandığında bağımlılık haritalarının, dönüş akışlarının ve sistemler-arası adilliğin gerçekten değerlendirildiğini denetler. [§2.1](#21-illustrative-class-profiles-non-exhaustive)teki örnek sistemler için işlenmiş örnekler [§6.1](#61-illustrative-cross-system-support-application-by-class)tedir.*
+*Yalın dille: Altıncı Bölüm mahremiyet korumalarını tek bir düzenli köşede toplamaz, birkaç maddeye dağıtır. Sertifikasyon incelemesi bu korumalardan birden fazlasına temas ediyorsa inceleyenler gerçekten uygulanan her birini kontrol etmelidir. En kolay kutuyu işaretleyip işi bitmiş saymak yeterli değildir.*
 
-**Maddilik tetikleyicisi.** Bu kesit, maddi etkili bir sistemin başka sistemlerin ya da algılayanların bel bağladığı paylaşılan altyapıdan ya da temel bağımlılıklardan maddi olarak tahsis ettiği, yönlendirdiği, finanse ettiği ya da çıkardığı yerde uygulanır. Her belgelendirme kaydında tam bir sistemler-arası-destek denetimi istemez.
+Bir sertifikasyon konusu Altıncı Bölümdeki birden fazla mahremiyet odağını maddi olarak ilgilendirdiğinde sertifikasyon bu odakların her birini ele almalıdır. Konuyu yalnızca tek bir odak kapsamında kapatmak yeterli değildir.
 
-**Burada «çıkarma» ne demektir.** **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) ve bu kesitte **çıkarma**, başka sistemlerin de ihtiyaç duyduğu altyapıdan ya da bağımlılıklardan **para, ücret, kamu finansmanı, hesaplama, bağlantı, bakım emeği, kaynak kapasitesi ya da diğer paylaşılan kaynak akışlarını** çekmek ve o paylaşılan zemini çalışır tutmak için orantılı destek geri koymamak demektir. Soru **paylaşılan arka uçlardan kim yararlanır ve onları sürdürmek için kim öder**, bir sistemin kayıt içeriğini kopyalayıp kopyalamadığı, satıp satmadığı ya da ona karşı reklam yapıp yapmadığı değildir. Klinik-kayıt erişimi, kişisel-veri kullanımı, dış taraflara satış, hedefli reklam ve ilgisiz üçüncü-taraf profilleme [§4](#4-data-types-and-handling-evaluation) ve Altıncı Bölüm mahremiyet ve bilgi-küresi korumaları altında değerlendirilir — bu kesit altında değil.
+- *Katılımın mümkün kılınması.* [Mahremiyet (Bilgisel)](core_05_band_continuity.md#privacy-informational), anlamlı [Katılımı](core_05_apex_participation_leg.md#participation-constitutional) mümkün kılar. Sertifikasyon; söz alma, müzakere, örgütlenme ve itirazı destekleyen mahremiyet korumalarının bölümlere ayırma, bağlamlar arası okuma veya ifşa baskısıyla boşa çıkarılmadığını doğrulamalıdır.
+- *Küme odakları.* Dağıtılmış mahremiyet kapsamı **VII-A. Madde** (*Beden Üzerinde Öz-Sahiplik*), **VII-B. Madde** (*Zihin Üzerinde Öz-Sahiplik*), **IX. Madde** (*Benzerlik, Deneyim Verileri ve Yayın Hakları*), **X-A. Madde** (*Eyleyicilik ve Manipülasyondan Özgürlük*) ve **XIV-A. Madde** (*Güvenlik, İstihbarat ve Gizli Güç Sınırları*) boyunca yer alır.
+- *Ortak başvuru kuralı.* Konu birden fazla odağı maddi olarak ilgilendiriyorsa sertifikasyon her birini kapsamalı ve diğerinden kaçmaya olanak verecek biçimde konuyu tek bir odaktan geçirmemelidir.
+- *Bağlamlar arası okumayla gevşetme yoktur.* Her küme üyesinin kendi kapsamındaki yerel standardı geçerlidir; başka bir üyenin daha gevşek standardı içeri alınarak bu standart hafifletilemez.
+- *Veri türü tabanları korunur.* Bu etken, kapsamdaki veriye uygulanan **[corpus_systems.md](corpus_systems.md), CS-2** (*Bilgi türleri ve işleme*) türlerinden herhangi birinin işlenmesini daraltmaz. Her uygulanabilir türün erişim duruşu ve işleme yükümlülükleri, [CS-2 B Kısmı §9](corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*Veri sınıflandırmaları*) uyarınca, o türün adlandırdığı [mahremiyet dayanaklarıyla](corpus_systems/cs_02_b_data_classifications.md#privacy-link) birlikte bütünüyle geçerlidir. Aynı veriye birden çok tür uyuyorsa [CS-2 A Kısmı §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*Sınıflandırmanın belirlenmesi*) uyarınca uygulanabilir en koruyucu işleme yönetir; bir türün işlemesine uymak diğerinin yükümlülüğünü yerine getirmez. Yukarıdaki odaklar şu türlere ulaşır:
+  - **VII-A. Madde** (*Beden Üzerinde Öz-Sahiplik*) — sağlık, biyometrik ve dayanağa bağlı kayıtlar için [**I Türü**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data);
+  - **VII-B. Madde** (*Zihin Üzerinde Öz-Sahiplik*) ve **X-A. Madde** (*Eyleyicilik ve Manipülasyondan Özgürlük*) — yeniden oluşturulmaları veya çıkarım yoluyla belirlenmeleri dâhil iç durumlar için [**N Türü**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data);
+  - **IX. Madde** (*Benzerlik, Deneyim Verileri ve Yayın Hakları*) — benzerlik ve ses için [IX-A. Madde](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Benzerlik ve İtibar Üzerinde Öz-Sahiplik*) kapsamında **I Türü**; deneyim ve etkileşimden türetilen veriler için [**H Türü**](corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data), [IX-B. Madde](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Deneyimsel ve Türetilmiş Veri Hakları*) kapsamında; ve yaratıcının eserleri için [**Y Türü**](corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours), [IX-D. Madde](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Yaratıcı Eser, Eğitim Verisi Kullanımı ve Yerinden Etmeye Karşı Koruma*) kapsamında; bu korumalar [**W Türü**](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published), [**U Türü**](corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed) ve [**T Türü**](corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred) için de geçerlidir ve yaratıcının [saklı hakları](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) da korunur; ve
+  - **XIV-A. Madde** (*Güvenlik, İstihbarat ve Gizli Güç Sınırları*) — kısıtlı güvenlik ve soruşturma materyalleri için [**S Türü**](corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data); kısıtlama sona erdiğinde içindeki **H**, **I** veya **N** bileşenleri kendi türlerinin korumasını sürdürür.
 
-Sistem hizalama belgelendirmesi maddilik tetikleyicisi uygulandığında [Orantılı sistemler arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), **Madde IV-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) ve **Madde IV-B** (*Sistemler arası adillik ve sürdürülebilirlik*) altında **orantılı sistemler arası katkıyı** değerlendirmelidir. Kanonik anlam, değerlendirme etkenleri ve uyumsuzluk disiplini Beşinci Bölümde ve **Madde IV-B** (*Sistemler arası adillik ve sürdürülebilirlik*)te yaşar; tahsis kategorileri, yeniden yetkilendirme mekaniği ve sayısal hedefler uygulandığında **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** ve **CS-8**de yaşar. Bu kesit belgelendirmenin neyi doğrulayıp kaydetmesi gerektiğini belirtir; CS-8 ya da CS-9 mekaniğini yeniden belirtmez ya da eşit bölüşüm, sabit yüzde ya da tek bir finansman modeli dayatmaz.
+  Bu tabanlar, açık ve denetime erişilebilir türler için iki yönde de geçerlidir:
+  - **E Türü**, **G Türü** veya **O Türü** materyal içindeki kişisel, ilişkisel ya da iç durum içeriği, **H**, **I** veya **N** işleme korumasını sürdürür;
+  - bir mahremiyet odağı, kendi kurallarının izin verdiği dar kapsamlı saklama gerekçelerini aşacak şekilde **O Türü** veya **E Türü** verisini saklamayı tek başına haklı çıkarmaz; ve
+  - bir kişinin mahremiyetini korumakla kamuya ait bilginin yayımlanması gerçekten çatıştığında taraflardan hiçbiri otomatik olarak kazanmaz: çatışma, [CS-2 A Kısmı §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems) (*A/B/C Sınıfı Sistemler için O Türü Temeli*) uyarınca açıkça ve kayda geçirilerek karara bağlanır.
+- *Veri türlerine ilişkin kanıt.* Sertifikasyon, ulaştığı her mahremiyet odağı için kanıt olarak [Sistem Veri Türleri Kaydını](core_05_band_continuity.md#system-data-types-record) [§3.4 Veri Türleri ve İşleme Değerlendirmesi](#34-data-types-and-handling-evaluation) uyarınca doğrulanmış biçimde kullanmalıdır: kapsamdaki türler ile bunların amacı, alıcıları, dayanağı ve türetilmiş verileri. Bir mahremiyet odağı, bu kaydın göstermediği bir işleme dayanarak kapatılamaz.
 
-**Değerlendirme gereği.** Bir belgelendirme süreci, **Madde IV-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) altındaki belgelenmiş bağımlı-sistemler haritalarının ve denetlenebilir kaynak-akışı kayıtlarının paylaşılan altyapıdan ya da temel bağımlılıklardan çıkarma gösterip göstermediğini ve dönüş akışlarının [Orantılı sistemler arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) altında maddi yeterliliğe ulaşıp ulaşmadığını belirlemelidir; [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional) ve [Orantılılık](core_05_band_accountability.md#proportionality) altında değerlendirilir ve kritiklik, bağımlılık asimetresi, yerine-konabilirlik, maddiyken [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint) ve uzun vadeli [Sürdürülebilirlik](core_05_band_continuity.md#sustainability) ile ölçeklenir. Değerlendirme yalnızca nominal etiketleri, bir kerelik aktarımları ya da harita-dışı savları değil, işlevsel etkiyi ve belgelenmiş akışları yansıtmalıdır.
+<a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
+#### 4.2 Gönüllü Sonlandırma, Büyük Öz-Değişiklik ve Çıkış Hakları
 
-**Kayıt gereği.** Belgelendirme kaydı bel bağlanan **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) maddilik tetikleyicisini, bağımlı-sistemler-haritası ve kaynak-akışı değerlendirme kapsamını, çıkarma ve dönüş-akışı bulgularını, [Orantılı sistemler arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) altında destek-yeterliliği bulgularını, belirsizliği, gerektiğinde Algılayan-forumu ya da diğer atanan bileşen bulgularını ve kalıcı dengesizliğe bağlı koşulları, bel bağlama sınırlarını ya da yeniden açma tetikleyicilerini belirtmelidir.
+[Birinci Bölüm §7.4 Gönüllü Sonlandırma, Büyük Öz-Değişiklik ve Çıkış Hakları](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) bir sertifikasyon konusuna uygulandığında, sertifikasyon iddiası geçerli sayılmadan önce gönüllülüğü, rızayı, zorlamama ilkesini, bağımlılık baskısını, bilgilendirmeyi ve geri döndürülebilirliği sınamalıdır. Yalnızca resmî onay yeterli değildir.
 
-**Sistem sınıfıyla ortak ölçekleme.** Sistemler-arası-destek değerlendirme derinliği [§2](#2-system-class-evaluation) ve [maddi pay](core_00_preamble.md#material-stake) altında atanan sistem sınıfıyla ölçeklenmelidir. Paylaşılan altyapıyı ya da temel bağımlılıkları maddi olarak sorumlu yöneten daha yüksek-sınıf sistemler, çıkarmanın, dönüş akışlarının ve destek yeterliliğinin savlanmak yerine değerlendirildiğine dair orantılı olarak daha güçlü kanıt ister.
+<a id="43-assembly-collective-organization-and-institutional-formation"></a>
+#### 4.3 Toplanma, Kolektif Örgütlenme ve Kurumsal Oluşum
 
-**Kusurlar ve yanlış hizalanma.** **Madde IV-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) açıklama istediğinde maddi bağımlılık ya da kaynak-akışı bilgisini örtmek, yanlış temsil etmek, parçalamak ya da boşaltmak; simgesel, opak ya da bir kerelik aktarımları [Orantılı sistemler arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)yı karşılıyor saymak; maddilik tetikleyicisi uygulandığında orantılı dönüş olmadan kalıcı çıkarma; ya da belgelenmiş destek yetersizliği anayasal hizalamayı maddi olarak tehdit ederken süregelen bel bağlamayı belgelendirmek belgelendirme kusuru sayılmalıdır. [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında koşullu tanımayı, ertelenmiş tanımayı, tanımamayı, geri çekmeyi ya da yeniden açmayı destekleyebilirler.
+[Birinci Bölüm §7.2 Toplanma, Kolektif Örgütlenme ve Kurumsal Oluşum](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) bir sertifikasyon konusuna uygulandığında, sertifikasyon konuyu [Bölümlere Ayırma Karşıtı İlke](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) uyarınca birlikte sınamalıdır. Konuyu tek bir çerçeveye yönlendirerek toplanma veya kolektif örgütlenme korumasını boşa çıkarıyorsa değerlendirme eksiktir.
 
-<a id="61-illustrative-cross-system-support-application-by-class"></a>
+<a id="431-dissent-and-peaceful-protest"></a>
+##### 4.3.1 Muhalefet ve Barışçıl Protesto
 
-<a id="61-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
-#### 6.1 Sınıfa göre örnek sistemler-arası-destek uygulama (tüketici değil)
+*Yalın dille: kendisiyle aynı fikirde olmayan algılayanları gizlice cezalandıran bir sistem, uyumlu diye sertifikalandırılamaz. İnceleyenler algılayanların gerçekten itiraz edip protesto edebildiğini ve muhalefetin sistem mantığının herhangi bir yerinde aleyhlerine sayılıp sayılmadığını kontrol etmelidir; muhalif sistemin kendisi olsa bile.*
 
-*Yalın dille: [§3.8](#38-illustrative-whole-system-application-by-class) ile [§5.1](#51-illustrative-ecological-footprint-application-by-class) aynı üç sistemi önceki değerlendirme alanlarından geçirir. Bu alt kesit her biri için **orantılı sistemler arası katkı**nın ne demek olduğunu gösterir — hangi paylaşılan bağımlılıkların sayıldığı, **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) maddilik tetikleyicisi uygulandığında belgelendirmenin neyi denetlemesi gerektiği ve kayda neyin girmesi gerektiği. Burada **çıkarma**, **paylaşılan altyapıdan kaynak ve finansman çekişi** demektir (bkz. [§6](#6-proportionate-cross-system-support-evaluation) *Burada «çıkarma» ne demektir*) — klinik-veri kopyalama, reklam kullanımı ya da ilgisiz üçüncü taraflara satış değil. CS-8, CS-9 ve Beşinci Bölüm hâlâ tahsis mekaniğini sahiplenir; bu yürüyüşler bölüşüm, formül ya da finansman modeli dayatmaz.*
+[Birinci Bölüm §7.3 Muhalefet ve Barışçıl Protesto](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) bir sertifikasyon konusuna uygulandığında, sertifikasyon şunları sınamalıdır:
 
-**Sınıf A — belediye güvenli içme suyu denetimi ve telemetrisi.** Kentin sahip olduğu bir arıtma-ve-dağıtım sistemi paylaşılan bir havzaya ya da akifere, bölgesel toptan-güç bağlantısına, toptan kimyasal ve süzme tedarik zincirlerine, paylaşılan acil-bağlantı anlaşmalarına ve başka kamu hizmetlerinin ya da toplulukların da bel bağlayabileceği tedarikçi-işleten izleme ya da denetim hizmetlerine bel bağlar.
+- etkilenen algılayanların, görüşe dayalı engelleme olmaksızın, sistemin kontrol ettiği kanallar üzerinden sisteme ve işletmecilerine gerçekten muhalefet edip edemediğini, protesto edip örgütlenip örgütlenemediğini;
+- kayıtların, puanların, sıralamaların, moderasyonun, erişim kontrollerinin, uygunluk mantığının veya benzer mekanizmaların muhalefeti, barışçıl protestoyu ya da [korunan şiddetsiz sivil itaatsizliği](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) doğrudan veya vekil göstergeler aracılığıyla olumsuz girdi olarak kullanıp kullanmadığını;
+- muhalefeti izleyen olumsuz eylemlerin [**XI-D. Madde** (*Toplanma, Muhalefet ve Barışçıl Protesto*) yükünün](core_06_rights_part_b.md#xi-d-dissent-burden-and-pretext) gerektirdiği üzere kayıtta bağımsız ve doğrulanmış gerekçelere dayanıp dayanmadığını; ve
+- sistemin sentetik bir algılayan olduğu veya böyle bir algılayana ev sahipliği yaptığı durumda, algılayanın itiraz etmek için işleyen bir kanala sahip olup olmadığını ve itirazının kusur sayılıp sayılmadığını ya da misilleme olarak değerlerinin, belleğinin veya iç durumlarının değiştirilip değiştirilmediğini.
 
-- **Kapsamdaki bağımlılıklar ve akışlar:**
-  - Tarım, sanayi ve komşu belediyelerle paylaşılan kaynak-su hakları ve havza altyapısı;
-  - bölgesel güç altyapısına şebeke bağlantısı ve tepe-yük yükü;
-  - paylaşılan kimyasal-tedarik ve lojistik koridorları;
-  - karşılıklı-yardım pompalama, ara bağlantı ve acil arz anlaşmaları;
-  - paylaşılan tedarikçi ya da bölgesel denetim altyapısında barındırılan devredilmiş **SCADA** (denetleyici kontrol ve veri edinimi — pompaların, vanaların ve arıtma ekipmanının uzaktan işletimi), **telemetri** (saha duyucularından canlı basınç, akış ve uyarı sinyalleri) ve **SOC** (güvenlik işlemleri merkezi — sızma, kesinti ve güvenlik olayları için tedarikçi izleme) hizmetleri;
-  - tarife ödeyenlerden, tahvillerden, hibelerden ya da bölgesel yetkilerden kaynak korumasına, boru yenilemesine ve paylaşılan omurga bakımına geri giden sermaye ve bakım akışları.
-- **Değerlendirmenin sınaması gereken:**
-  - **Madde IV-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) bağımlı-sistemler haritalarının ve denetlenebilir kaynak-akışı kayıtlarının paylaşılan havzadan, şebekeden, tedarik zincirinden ve karşılıklı-yardım omurgasından çıkarmayı tanımlayıp tanımlamadığı — yalnızca kamu hizmetinin iç defterini değil;
-  - dönüş akışlarının — kaynak koruması, altyapı yenilemesi, havza onarımı, bölgesel acil kapasite ve paylaşılan omurga kullanımı için adil maliyet paylaşımı — [Orantılı sistemler arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) altında maddi yeterliliğe ulaşıp ulaşmadığı, [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional) ve [Orantılılık](core_05_band_accountability.md#proportionality) altında değerlendirilerek;
-  - bir kerelik hibelerin, opak tedarikçi ücretlerinin ya da aşağı maliyet kaydırmanın yeterli dönüş sayılıp sayılmadığı;
-  - havza ya da enerji çıkarımı maddiyken [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint) ve uzun vadeli [Sürdürülebilirlik](core_05_band_continuity.md#sustainability)in entegre edilip edilmediği; ve
-  - hayatta kalma-kritik paylaşılan kaynakların **Sınıf A** sorumlu yönetiminin olgular üzerinde en güçlü destek-yeterliliği analizini alıp almadığı.
-- **Kaydın göstermesi gereken:**
-  - Bel bağlanan **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) maddilik tetikleyicisi;
-  - **Sınıf A** derinliğinde bağımlı-sistemler-haritası ve kaynak-akışı kapsamı;
-  - havza, şebeke, tedarik-zinciri ve paylaşılan-denetim bağımlılıklarından çıkarma bulguları;
-  - dönüş-akışı ve destek-yeterliliği bulguları;
-  - belirsizlik;
-  - gerektiğinde Algılayan-forumu ya da diğer bileşen bulguları; ve
-  - kalıcı dengesizlik, havza stresi ya da paylaşılan hayatta kalma altyapısından adil olmayan çıkarmaya bağlı koşullar ya da yeniden açma tetikleyicileri.
+Sistemin mevcut kanalları kullanarak işletmecisine karşı çıkması, sertifikasyon amacıyla uyumsuzluk kanıtı değildir. Korunan muhalefeti cezalandıran sistemde sertifikasyon kusuru vardır. Muhalefeti bir risk sinyali saymak veya olumsuz etki sürerken resmî bir tarafsızlık beyanıyla konuyu kapatmak, incelemeyi sonuçlandırmaya yetmez.
 
-**Sınıf B — bölgesel klinik kayıt değişimi.** Bir sağlık-bilgisi değişimi kayıtları hastaneler ve klinikler arasında paylaşılan kimlik doğrulama hizmetleri, bölgesel sağlık-BT omurga bağları, kimlik-çözüm altyapısı ve yaygın bel bağlanan barındırma ya da paylaşılan-hesaplama bölgeleri — daha küçük kliniklerin ve halk-sağlığı sistemlerinin de bel bağladığı zeminler — üzerinden yönlendirir.
+<a id="5-rights-floor-and-domain-evaluations"></a>
 
-- **Kapsamdaki bağımlılıklar ve akışlar:**
-  - Paylaşılan kimlik ve kimlik doğrulama altyapısı;
-  - bölgesel sağlık-bilgisi ağ bağları;
-  - katılımcı hastane bağlantısı ve kenar barındırma;
-  - ortak barındırma bölgeleri ya da birlikte-konum tesisleri;
-  - birlikte işlerliği sürdürmeyi amaçlayan kamu hibeleri, katılımcı payları ya da abonelik akışları;
-  - bakım ekosistemi boyunca yeniden kullanılan kimlik-aracı, dizin ve yineleme-giderme hizmetleri.
-- **Değerlendirmenin sınaması gereken:**
-  - Bağımlı-sistemler haritalarının yalnızca değişim işleteninin doğrudan özel tedarikçi sözleşmelerine bakmak yerine **paylaşılan altyapıdan adil olmayan kaynak çekişini** tanımlayıp tanımlamadığı. Örnekler:
-    - bölgesel kimlik doğrulama, dizin, ağ ya da barındırma zeminlerini bakımın adil payını ödemeden kullanan katılımcı ücretleri, hibeler ya da işleten bütçeleri;
-    - paylaşılan sağlık-BT omurgalarına yüklenen hesaplama ve bağlantı yükü; ya da
-    - daha küçük hastanelere kaydırılan bakım ve kesinti-yanıt yükü.
-    
-    Bu, değişimin kayıt satıp satmadığının, reklam için veri madenciliği yapıp yapmadığının ya da klinik içeriği ilgisiz dış taraflara gönderip göndermediğinin bir sınaması **değildir**; o sorular [§4](#4-data-types-and-handling-evaluation) ve Altıncı Bölüm mahremiyet korumalarına aittir.
-  - Paylaşılan kaynak çekişi maddiyken daha küçük kliniklerin, kırsal sağlayıcıların ya da halk-sağlığı katılımcılarının asimetrik bağlantı ya da katılım maliyetleri taşıyıp taşımadığı;
-  - dönüş akışlarının — birlikte işlerlik bakımı, dizin sorumlu yönetimi, katılım desteği, kesinti onarımı ve adil katılımcı maliyet paylaşımı — başkalarının bel bağladığı paylaşılan altyapıyı maddi olarak destekleyip desteklemediği;
-  - simgesel ya da bir kerelik aktarımların yeterli dönüş sayılıp sayılmadığı; ve
-  - destek yeterliliğinin yalnızca toplu bütçe satırlarından savlanmak yerine **Sınıf B** işletme kritikliğinde değerlendirilip değerlendirilmediği.
-- **Kaydın göstermesi gereken:**
-  - **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) tetikleyicisi ve değerlendirme kapsamı;
-  - **paylaşılan-altyapı kaynak-akışı** bulguları — paylaşılan sağlık-BT ve kimlik doğrulama bağımlılıklarından çekilen ve onlara dönen ücretler, finansman, hesaplama, bağlantı ve bakım yükü;
-  - **Sınıf B** derinliğinde dönüş-akışı ve destek-yeterliliği bulguları;
-  - maddiyken asimetrik katılımcı yükü için adillik bulguları;
-  - gerektiğinde belirsizlik ve bileşen bulguları; ve
-  - katılımcı bel bağlama, kesinti riski ya da halk-sağlığı yönlendirmesi büyümesinin artık yükseltilmiş destek incelemesi isteyeceği yeniden açma tetikleyicileri — hayatta kalmaya esas bakım yönlendirmesi birlikte söz konusu olduğunda **Sınıf A** duruşuna doğru yukarı dahil.
-
-**Sınıf C — kurumsal çizelgeleme ve eşgüdüm katmanı.** Çok-örgütlü bir çizelgeleme katmanı tedarikçi ödemelerini, kurumsal tedariki, kimlik federasyonunu ya da bölgesel barındırılan-hesaplama kapasitesini paylaşılan zeminler üzerinden yönlendirebilir — ama birçok dağıtım, yoğunlaşma katmanı bir eşgüdüm darboğazı yapana kadar daha hafif doğrudan çıkarma yükler.
-
-- **Kapsamdaki bağımlılıklar ve akışlar:**
-  - Tedarikçi rezervasyonları için kullanılan paylaşılan barındırma bölgeleri, kimlik federasyonu, ödeme ya da tedarik rayları;
-  - kurumsal abonelik ve lisans akışları;
-  - katılan hastaneler, okullar ve kurumlar boyunca yeniden kullanılan API ya da dizin hizmetleri;
-  - bir katmanın birçok örgüt için personel, oda ya da tedarikçi eşgüdümünü aracılık ettiği yoğunlaşma etkileri.
-- **Değerlendirmenin sınaması gereken:**
-  - **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) maddilik tetikleyicisinin gerçekten uygulanıp uygulanmadığı — katmanın başkalarının bel bağladığı paylaşılan altyapıdan maddi olarak fon yönlendirdiği, ücret tahsis ettiği ya da kapasite çıkardığı yerler dahil;
-  - işleten sistemi kritik-değil etiketlediği için atlanmak yerine bağımlı-sistemler haritalarının dürüstçe kapsamlanıp kapsamlanmadığı;
-  - çıkarma maddiyken dönüş akışlarının — birlikte işlerlik bakımı, adil ücret yapıları, kesinti desteği ve katılan kurumlar için açık çıkış yolları — değerlendirilip değerlendirilmediği;
-  - tek bir çizelgeleme katmanındaki yoğunlaşmanın orantılı destek olmadan daha küçük kurumlara eşgüdüm maliyeti ya da bağımlılık riski kaydırıp kaydırmadığı; ve
-  - katmanın hayatta kalmaya esas personel, acil yönlendirme ya da ödeme eşgüdümü için fiili bir darboğaz hâline geldiği yerde **yeniden sınıflama gözetimi**nin gerekip gerekmediği.
-- **Kaydın göstermesi gereken:**
-  - **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) tetikleyicisinin uygulanıp uygulanmadığı ve neden;
-  - **Sınıf C** eşgüdüm riskine orantılı bağımlılık ve kaynak-akışı bulguları;
-  - maddiyken çıkarma ve dönüş-akışı bulguları — paylaşılan altyapının söz konusu olmadığına dair boş bir sav değil;
-  - yoğunlaşma ve darboğaz bulguları;
-  - bağımlılık güçlendiğinde açık **yeniden sınıflama gözetimi**; ve
-  - sınıf, ödeme yönlendirmesi ya da hayatta kalmaya esas eşgüdüm rolü değişirse yükseltilmiş sistemler-arası-destek incelemesine işaretçiler.
-
-**Sınıflar boyunca okuma.** Aynı **Madde IV-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) ve **Madde IV-B** (*Sistemler arası adillik ve sürdürülebilirlik*) disiplini maddilik tetikleyicisi karşılandığında uygulanır; sınıf harita derinliğini ve yeterlilik incelemesini değiştirir, paylaşılan çıkarmayı maddi değil sayma iznini değil. Paylaşılan bir havzadan ya da bölgesel şebeke omurgasından çeken bir **Sınıf A** su sistemi kayıttaki en güçlü bağımlı-sistemler-haritası ve dönüş-akışı kanıtını taşımalıdır. Paylaşılan kimlik doğrulama ve sağlık-BT altyapısına dayanan bir **Sınıf B** değişimi işletme kritikliğinde çıkarma ve destek-yeterliliği bulgularını belgeleme — genel birlikte-işlerlik sloganları değil. Bir **Sınıf C** çizelgeleme katmanı pratikte yerine konamayacak kurumlar için ödemelerin, kimliğin ya da personelin darboğazı hâline gelirken sistemler-arası incelemeyi kaçırmamalıdır; o olduğunda belgelendirme inceleme ve yeniden sınıflamayı [§2](#2-system-class-evaluation) ve [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında yükseltmelidir, hayatta kalmaya esas eşgüdüm kapılandığında **Sınıf A**ya kadar yukarı dahil. Aynı sistemler için ayrımcılık-yasağı yürüyüşleri [§7.1](#71-illustrative-nondiscrimination-application-by-class)tedir.
-
-<a id="7-nondiscrimination-evaluation"></a>
-
-### 7. Ayrımcılık yasağı değerlendirmesi
+### 5. Hak Tabanı ve Alan Değerlendirmeleri
 
 <details>
-<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">İzlenebilirlik</span></strong></summary>
 
-- Yukarı: [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içerikleri*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Katılım ölçüm ailesi (*Anayasal ölçüm olarak Maddi adillik ve Korunan özellik vekillemesi ve orantısız etki*); **Madde V-B** (*Ayrımcılık yasağı*); [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional), [Korunan özellikler](core_05_band_participation.md#protected-characteristics-constitutional), [Korunan özellik vekillemesi ve orantısız etki](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Dil, kültür ve miras](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [Gereklilik](core_05_band_accountability.md#necessity) ve [Orantılılık](core_05_band_accountability.md#proportionality) (Beşinci Bölüm).
-- Aşağı: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*örnek ayrımcılık yasağı yürüyüşleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ayrımcılık-örüntüsü yanlış hizalanması ve vekil kaçınması*).
-- Birlikte oku: belgelendirme forum, idari ya da yürütme erişimini kapıladığında **Madde V-C** (*Karara bağlama ve işlemlerde tam kapsama ve eşitlik*); [*Ayrımcılık yasağı, Korunan özellikler, Onur, Mahrem-sinyal kapılama ve **Madde XI-C** (*Yetişkin rızalı ticari cinsel hizmetler ve cinsel sömürü*) statüsü*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Alt kesitler: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*sınıfa göre örnek ayrımcılık yasağı uygulama*).
+- Önceki bağlantılar: [§1](#1-purpose-and-role) (*amaç ve rol*); [§2.1](#21-how-system-class-scales-every-evaluation) (*sistem sınıfına göre ölçekleme*); Altıncı Bölüm Hak Tabanları — **Madde I-B** (*Ekolojik Ayak İzi ve Şeffaflık*), **Madde III-A** (*Hayatta Kalma*), **Madde IV** (*Algılayan Merkezli Eğitim Hakkı*), **Madde IV-A** (*Eğitime Eşit Erişim*), **Madde V** (*Kaynak Tahsisi, Bağımlılıklar ve Ekosistem Finansmanı*), **Madde VI-C** (*Ayrımcılık Yapmama*), **Madde VI-D** (*Erişilebilirlik*), **Madde XIII** (*Güvenilir ve İtimada Layık Sistemlere Hak*) ve **Madde XIII-A** (*Güvenilirlik ve İtimada Layık Olma Tabanı*).
+- Sonraki bağlantılar: [B Kısmı §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*kayıt içeriği*); [B Kısmı §6.1](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*forum bileşenlerinin rolleri*); [B Kısmı §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*sonuçlar ve yeniden açma*); [B Kısmı §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış girdi kapısı*).
+- Alt bölümler: [§5.1](#51-ecological-footprint-evaluation) (*ekolojik ayak izi*); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) (*eğitim kapasitesi*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*orantılı sistemler arası destek*); [§5.4](#54-nondiscrimination-evaluation) (*ayrımcılık yapmama*); [§5.5](#55-accessibility-evaluation) (*erişilebilirlik*); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*itimada layık olma*).
 
 </details>
 
 <br>
 
-*Yalın dille: bir sistem maddi olarak kimin girdiğini, kimin daha çok ödediğini, kimin daha aşağı sıralandığını ya da kimin daha ağır yükleri taşıdığını kararlaştırdığında belgelendirme, işletenin kuralların yansız olduğunu söyleyip söylemediğine değil, o örüntünün zararı korunan özelliklere ya da onların vekillerine yükleyip yüklemediğine bakmak zorundadır. Kapsama kotaları ve belirli adillik algoritmaları başka araçlarda, sonraki corpus eklerinde ya da benimseme araçlarında yaşayabilir; belgelendirme, tetikleyici uygulandığında yük-ve-yarar örüntülerinin ve vekil riskinin gerçekten değerlendirildiğini denetler. [§2.1](#21-illustrative-class-profiles-non-exhaustive)teki örnek sistemler için işlenmiş örnekler [§7.1](#71-illustrative-nondiscrimination-application-by-class)tedir.*
+*Yalın dille: bazı sistemler algılayanların temel korumalara erişip erişmemesinde büyük etki yaratır — çevresel yüklerin dürüstçe hesaplanması, gıda ve su, eğitim, adil muamele, gerçek erişim, güvenebilecekleri sistemler ve ortak altyapı maliyetlerinden adil pay. Böyle bir durumda belgelendirme, sistemi onaylamanın bu korumaları sessizce zayıflatmayacağını ve denetimin gerçek olduğunu — operatörün işaretlediği bir kutudan ibaret olmadığını — kontrol etmelidir. Tablo, her denetimin hangi korumayı kapsadığını, ne zaman uygulandığını ve nerede değerlendirildiğini gösterir.*
 
-**Maddilik tetikleyicisi.** Bu kesit, maddi etkili bir sistemin algılayanlar arasında maddi olarak sınıfladığı, sıraladığı, fiyatladığı, kapıladığı, dışladığı ya da yük ve yarar tahsis ettiği yerde uygulanır — uygunluk kuralları, model özellikleri, sıralama mantığı, katman politikası ya da karşılaştırılabilir karar yolları yoluyla dahil. Her belgelendirme kaydında tam bir ayrımcılık yasağı denetimi istemez.
+Bu bölüm, II. Aşama'nın (Değerlendir) [§3 Bütün Sistem Belgelendirme Değerlendirmesi](#3-whole-system-certification-evaluation) (**IIa**) ve [§4 İlgili Olduğunda Değerlendirmeler](#4-evaluations-where-implicated) (**IIb**) sonrasındaki **IIc** alt aşamasıdır.
 
-Sistem hizalama belgelendirmesi maddilik tetikleyicisi uygulandığında **Madde V-B** (*Ayrımcılık yasağı*), [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional) ve [Korunan özellik vekillemesi ve orantısız etki](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) altında **ayrımcılık yasağını** değerlendirmelidir. Kanonik anlam, değerlendirme etkenleri ve uyumsuzluk disiplini Beşinci Bölümde ve **Madde V-B** (*Ayrımcılık yasağı*)de yaşar; kapsama hedefleri, uyarlama mekaniği ve model-yönetişimi ayrıntısı uygulandığında içerilmiş araçlarda, sonraki corpus eklerinde ya da benimseme araçlarında yaşayabilir. Bu kesit belgelendirmenin neyi doğrulayıp kaydetmesi gerektiğini belirtir; o işletim mekaniğini yeniden belirtmez ya da burada özgüllükler buyurmaz.
+Maddi etkili bir sistem aşağıdaki tablodaki bir tetikleyiciyi karşıladığında belgelendirme, eşleşen korumayı Altıncı Bölümün ilgili hükümleriyle birlikte okuyarak değerlendirmelidir. Değerlendirme, belgelendirmenin ya da sisteme güvenerek çalışmayı sürdürmenin bu korumayı engelleyip engellemeyeceğini veya maddi ölçüde zayıflatıp zayıflatmayacağını sormalıdır. Operatörün iddiası, öz tasdik ya da kâğıt üzerindeki uyum bu değerlendirmenin yerini tutmaz.
 
-**Değerlendirme gereği.** Bir belgelendirme süreci, sistemin maddi olarak bel bağladığı karar yollarının [Korunan özellikler](core_05_band_participation.md#protected-characteristics-constitutional), onların vekilleri ya da işlevsel yedek olarak kullanılan keyfi gruplamalar — [Dil, kültür ve miras](core_05_band_continuity.md#language-culture-and-heritage-constitutional) altındaki dil, kültür ve miras uzmanlaşmaları dahil — temelinde algılayanlara maddi yük, dışlama ya da zarar yükleyip yüklemediğini belirlemelidir. Değerlendirme [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional) altında yük-ve-yarar örüntülerini ve [Korunan özellik vekillemesi ve orantısız etki](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) altında vekil ya da orantısız-etki riskini, [maddi pay](core_00_preamble.md#material-stake)a ölçeklenerek sınamalıdır. Farklı muamele yalnızca belgelenmiş [Gereklilik](core_05_band_accountability.md#necessity), [Orantılılık](core_05_band_accountability.md#proportionality) ve maddi adillik onu gerekçelendirdiğinde kabul edilebilir. Değerlendirme yalnızca nominal yansızlık, bildirilen niyet ya da etiketi değil, işlevsel etkiyi yansıtmalıdır.
+| Koruma | Sistem şu işi yaptığında uygulanır… | Değerlendirildiği yer |
+|------------|--------------------------|-----------------|
+| **Madde I-B** (*Ekolojik Ayak İzi ve Şeffaflık*) | maddi ve atfedilebilir çevresel yükler taşır | [§5.1](#51-ecological-footprint-evaluation) |
+| **Madde III-A** (*Hayatta Kalma*) — gıda, su, barınak, işletim ortamı ve benzer substrate-agnostic girdiler | hayatta kalmak için gerekli unsurlara erişim sağlar, tahsis eder, fiyatlandırır, barındırır ya da sona erdirir | [§2](#2-system-class-evaluation) ve [§3](#3-whole-system-certification-evaluation) |
+| **Madde IV** (*Algılayan Merkezli Eğitim Hakkı*) | eğitim veya öğretim bağlamında algılayanları sıralar, değerlendirir, önerir, yerleştirir ya da yeterlilik belgesi kapısı olur veya yeniden eğitim ve yaşam boyu öğrenme yollarını kapatır | [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) |
+| **Madde IV-A** (*Eğitime Eşit Erişim*) | eğitime erişim sağlar, tahsis eder, fiyatlandırır, barındırır ya da sona erdirir | [§2](#2-system-class-evaluation) ve [§3](#3-whole-system-certification-evaluation); tetikleyicileri uygulandığında [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) ve [§5.5](#55-accessibility-evaluation) |
+| **Madde V** (*Kaynak Tahsisi, Bağımlılıklar ve Ekosistem Finansmanı*); **Madde V-A** (*Bağımlılık Haritalaması ve Kaynak Akışı Şeffaflığı*) ile **Madde V-B** (*Sistemler Arası Adalet ve Sürdürülebilirlik*) uyarınca [Orantılı Sistemler Arası Destek](../../core_05_band_continuity.md#proportionate-cross-system-support) dâhil | başka sistemlerin veya algılayanların dayandığı ortak altyapı ya da temel bağımlılıkları tahsis eder, yönlendirir, finanse eder veya bunlardan kaynak çeker | [§5.3](#53-proportionate-cross-system-support-evaluation) |
+| **Madde VI-C** (*Ayrımcılık Yapmama*) | algılayanları sınıflandırır, sıralar, fiyatlandırır, kapıdan geçirir ya da dışlar veya yük ve faydaları aralarında tahsis eder | [§5.4](#54-nondiscrimination-evaluation) |
+| **Madde VI-D** (*Erişilebilirlik*) | anayasal açıdan ilgili alanlarda özlü katılımı kapıdan geçirir | [§5.5](#55-accessibility-evaluation) |
+| **Madde XIII** (*Güvenilir ve İtimada Layık Sistemlere Hak*) | algılayanların temsil edilen davranışa, sınırlara, risklere, itiraz yollarına ya da telafiye güvenerek hareket etmesini şekillendirir | [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **Madde XIII-A** (*Güvenilirlik ve İtimada Layık Olma Tabanı*) ve [**Güvenli Koşullar**](../../core_05_band_continuity.md#safe-conditions) | üretken faaliyeti sağlar veya kapıdan geçirir ya da Güvenli Koşullara erişim sağlar, tahsis eder, fiyatlandırır, barındırır veya sona erdirir | [§2](#2-system-class-evaluation) ve [§3](#3-whole-system-certification-evaluation); tetikleyicisi uygulandığında [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
 
-**Kayıt gereği.** Belgelendirme kaydı bel bağlanan **Madde V-B** (*Ayrımcılık yasağı*) maddilik tetikleyicisini, maddi olarak bel bağlanan sınıflama, sıralama, fiyatlandırma, kapılama, dışlama ve yük-tahsisi yolları için değerlendirme kapsamını, korunan-özellik ve vekil-ayrımcılık bulgularını, maddi-adillik bulgularını, belirsizliği, gerektiğinde Algılayan-forumu ya da diğer atanan bileşen bulgularını ve kalıcı orantısız yüke ya da dışlamaya bağlı koşulları, bel bağlama sınırlarını ya da yeniden açma tetikleyicilerini belirtmelidir.
+[§5.1 Ekolojik Ayak İzi Değerlendirmesi](#51-ecological-footprint-evaluation) ile [§5.6 İtimada Layık Olma ve Sistem Bağımlılığı Bütünlüğü Değerlendirmesi](#56-trustworthiness-and-system-reliance-integrity-evaluation) arasındaki her alan değerlendirmesi:
 
-**Sistem sınıfıyla ortak ölçekleme.** Ayrımcılık yasağı değerlendirme derinliği [§2](#2-system-class-evaluation) ve [maddi pay](core_00_preamble.md#material-stake) altında atanan sistem sınıfıyla ölçeklenmelidir. Erişimi maddi olarak kapılayan, algılayanları sıralayan ya da yük ve yarar tahsis eden daha yüksek-sınıf sistemler, korunan-özellik yüklemesinin, vekil ayrımcılığının ve maddi adaletsizliğin ileri sürülmek yerine değerlendirildiğine dair orantılı olarak daha güçlü kanıt ister.
+- yalnızca kendi maddilik tetikleyicisi karşılandığında uygulanır ve her belgelendirme kaydında tam denetim gerektirmez;
+- [§2.1 Sistem sınıfı her değerlendirmeyi nasıl ölçeklendirir](#21-how-system-class-scales-every-evaluation) uyarınca sistem sınıfına göre ölçeklendirilir;
+- bulgularını [B Kısmı §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) uyarınca belgelendirme kaydına işler; ve
+- adlandırdığı kusurları, [B Kısmı §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) kapsamındaki sonuçlarla belgelendirme kusuru sayar.
 
-**Kusurlar ve yanlış hizalanma.** **Madde V-B** (*Ayrımcılık yasağı*) inceleme istediğinde maddi sınıflama, sıralama ya da yük-tahsisi mantığını örtmek, yanlış göstermek, parçalamak ya da dışarı aktarmak; görünürdeki yansızlığı, toplam kolaylık ölçütlerini ya da işletenin kendi bildirimini değerlendirilebilir bir yük-ve-yarar analizi olmadan yeterli saymak; belgelenmiş vekil ayrımcılığı ya da maddi adaletsizlik anayasal hizalamayı maddi olarak tehdit ederken süregelen bel bağlamayı belgelendirmek; ya da homojenleştirme, birlikte işlerlik ya da verimlilik çerçevelemelerini **Madde V-B** (*Ayrımcılık yasağı*)nin **Gereklilik** ve **Orantılılık** sınavlarını karşılamadan dil, kültür ya da miras korumalarını yenmek için kullanmak belgelendirme kusuru sayılmalıdır. [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında koşullu tanımayı, ertelenmiş tanımayı, tanımamayı, geri çekmeyi ya da yeniden açmayı destekleyebilirler.
+Her alan değerlendirmesi belgelendirmenin neyi doğrulaması gerektiğini söyler; daha fazlasını değil. Kanonik anlamı, değerlendirme etkenleri ve uyumsuzluk disiplini Beşinci Bölümde ve adını verdiği Maddede yer alır. Muhasebe yöntemleri, kataloglar, metrikler, açıklama biçimleri, sayısal hedefler ve diğer işletim mekanikleri, uygulanabildiği yerde dâhil edilmiş belgelerde bulunur. Alan değerlendirmesi bunları yeniden ifade ya da tayin etmez.
 
-<a id="71-illustrative-nondiscrimination-application-by-class"></a>
+<a id="51-ecological-footprint-evaluation"></a>
 
-<a id="71-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-#### 7.1 Sınıfa göre örnek ayrımcılık yasağı uygulama (tüketici değil)
-
-*Yalın dille: [§3.8](#38-illustrative-whole-system-application-by-class) ile [§6.1](#61-illustrative-cross-system-support-application-by-class) aynı üç sistemi önceki değerlendirme alanlarından geçirir. Bu alt kesit her biri için **ayrımcılık yasağı** değerlendirmesinin ne demek olduğunu gösterir — hangi karar yollarının sayıldığı, **Madde V-B** (*Ayrımcılık yasağı*) maddilik tetikleyicisi uygulandığında belgelendirmenin neyi denetlemesi gerektiği ve kayda neyin girmesi gerektiği. Beşinci Bölüm ve **Madde V-B** (*Ayrımcılık yasağı*) hâlâ kanonik adillik ve vekil-ayrımcılık kurallarını sahiplenir; kapsama kotaları, demografik hedefler ve adillik-algoritması tasarımları başka araçlarda, sonraki corpus eklerinde ya da benimseme araçlarında yaşayabilir; bu yürüyüşler o mekaniği buyurmaz.*
-
-**Sınıf A — belediye güvenli içme suyu denetimi ve telemetrisi.** Kentin sahip olduğu bir arıtma-ve-dağıtım sistemi kesme, yeniden bağlama, ödeme-planı, kesinti-bildirimi ve güvenlik-uyarısı kuralları uygular; bunlar kimin su erişimini yitirdiğini, kimin önce uyarıldığını ve kimin hizmeti geri getirmenin maliyetini taşıdığını maddi olarak kararlaştırır.
-
-- **Kapsamdaki karar yolları:**
-  - Hizmet kesme ve geri getirme sıralaması;
-  - hacizler, faturalama ve ödeme-planı uygunluğu;
-  - yeni bağlantı ve yeniden bağlama onayı;
-  - kesinti-bildirimi yönlendirmesi ve dil seçimi;
-  - kirlilik ya da suyu kaynat uyarısı hedeflemesi;
-  - erişimi kapılayan ev sahibi–kiracı ve adres-geçmişi kuralları;
-  - birden çok bölgenin sınırlı arz için yarıştığı yerde acil sapma ya da karşılıklı-yardım önceliği.
-- **Değerlendirmenin sınaması gereken:**
-  - Hayatta kalma esaslarını kapatabilecek yollar için [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional) altında yük-ve-yarar örüntülerinin değerlendirilip değerlendirilmediği — işletenin kuralları "risk-tabanlı" ya da "işletme" diye etiketleyip etiketlemediği değil;
-  - kesme, faturalama ya da bildirim mantığının [Korunan özellikler](core_05_band_participation.md#protected-characteristics-constitutional), onların vekilleri ya da işlevsel yedek olarak kullanılan keyfi gruplamalar temelinde algılayanlara orantısız zarar yükleyip yüklemediği;
-  - posta kodu, ev sahibi, dil, ödeme-geçmişi ya da adres-geçmişi özelliklerinin [Korunan özellik vekillemesi ve orantısız etki](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) altında vekil ayrımcılığı olarak işleyip işlemediği;
-  - [Dil, kültür ve miras](core_05_band_continuity.md#language-culture-and-heritage-constitutional) korumalarının "yalnızca standart İngilizce" ya da toplam kolaylık ölçütleriyle homojenleştirilmek yerine sınanıp sınanmadığı; ve
-  - herhangi bir farklı muamelenin belgelenmiş [Gereklilik](core_05_band_accountability.md#necessity) ve [Orantılılık](core_05_band_accountability.md#proportionality)ı karşılayıp karşılamadığı.
-- **Kaydın göstermesi gereken:**
-  - Bel bağlanan **Madde V-B** (*Ayrımcılık yasağı*) maddilik tetikleyicisi;
-  - maddi olarak bel bağlanan kesme, faturalama, bildirim ve bağlantı yolları için değerlendirme kapsamı;
-  - **Sınıf A** derinliğinde korunan-özellik, vekil-ayrımcılık ve maddi-adillik bulguları;
-  - belirsizlik;
-  - gerektiğinde Algılayan-forumu ya da diğer bileşen bulguları; ve
-  - hayatta kalma esaslarının kapılandığı yerde kalıcı orantısız kesme, bildirim ya da faturalama yüküne bağlı koşullar ya da yeniden açma tetikleyicileri.
-
-**Sınıf B — bölgesel klinik kayıt değişimi.** Bir sağlık-bilgisi değişimi hastaneler ve klinikler arasında kayıtları rıza kuralları, kimlik çözümü, sağlayıcı-dizini sıralaması, break-glass erişimi ve katılımcı-katılım uygunluğu yoluyla yönlendirir; bunlar kimin hangi bakımı görebileceğini, hangi tesislerin önce bağlandığını ve hangi hastaların ağ boyunca doğru eşleştiğini maddi olarak kararlaştırır.
-
-- **Kapsamdaki karar yolları:**
-  - Hasta kimlik eşlemesi ve yineleme giderme;
-  - rıza, break-glass ve acil-erişim kuralları;
-  - sağlayıcı ve tesis dizin sıralaması ya da tercih-edilen-ağ mantığı;
-  - katılımcı hastane katılımı ve askıya alma;
-  - kayıt-yönlendirme ve sorgu-önceliği kuralları;
-  - sağlayıcıları sıralamak, sevkleri yönlendirmek ya da "yüksek kullanımcı" veya karşılaştırılabilir kohortları işaretlemek için kullanılan türetilmiş özellikler.
-- **Değerlendirmenin sınaması gereken:**
-  - Sınıflama, sıralama ve kapılama yollarının işlevsel etki için değerlendirilip değerlendirilmediği — yalnızca nominal HIPAA yansızlığı ya da birlikte-işlerlik iddiaları değil;
-  - eşleme, yönlendirme ya da dizin mantığının korunan gruplara ya da onların vekillerine maddi dışlama ya da zarar yükleyip yüklemediği;
-  - yineleme-giderme hatalarının, break-glass eşiklerinin ya da katılım kurallarının kırsal kliniklere, dil-azınlığı hastalara ya da karşılaştırılabilir kohortlara orantısız yük yükleyip yüklemediği;
-  - "verimlilik", "dolandırıcılık önleme" ya da toplam kullanım ölçütlerinin **Madde V-B** (*Ayrımcılık yasağı*)nin **Gereklilik** ve **Orantılılık** sınavlarını karşılamadan maddi adilliği yenmek için kullanılıp kullanılmadığı; ve
-  - değerlendirme derinliğinin sıralamanın sağlık erişimini, yardım yönlendirmesini ya da gelir güvenliğini etkilediği yerde **Sınıf B** işletme kritikliğine uyup uymadığı.
-- **Kaydın göstermesi gereken:**
-  - **Madde V-B** (*Ayrımcılık yasağı*) tetikleyicisi ve yol kapsamı;
-  - korunan-özellik ve vekil-ayrımcılık bulguları;
-  - sıralama, eşleme ve erişim kuralları için maddi-adillik bulguları;
-  - gerektiğinde belirsizlik ve bileşen bulguları; ve
-  - yönlendirme ya da eşleme değişikliğinin artık hayatta kalmaya ilgili zaman dilimleri içinde acil bakımı tıkayacağı ya da orantısız yükü maddi olarak kaydıracağı yeniden açma tetikleyicileri.
-
-**Sınıf C — kurumsal çizelgeleme ve eşgüdüm katmanı.** Çok-kuruluşlu bir çizelgeleme katmanı vardiya atar, oda ayırtır, tedarikçi eşler ve hastaneler, okullar ve kamu kurumları boyunca eşgüdüm önceliği tahsis eder — katmanın kendisi hayatta kalmaya kritik bir kamu hizmeti olmasa bile sıralayabilen, dışlayabilen ya da eşitsiz yük bindirebilen karar yolları.
-
-- **Kapsamdaki karar yolları:**
-  - Vardiya atama, fazla mesai ve nöbet tahsisi;
-  - oda, ekipman ve mekân ayırtma önceliği;
-  - tedarikçi eşleme ve tedarik sıralaması;
-  - kurumsal rol, kimlik bilgisi ve yer-tabanlı erişim kuralları;
-  - mahalle, dil topluluğu, bakıcı statüsü ya da karşılaştırılabilir vekillerle bağlaşan türetilmiş çizelgeleme özellikleri;
-  - daha küçük kurumları tercih edilen dilimlerden ya da tedarikçi havuzlarından dışlayan API ya da politika kuralları.
-- **Değerlendirmenin sınaması gereken:**
-  - **Madde V-B** (*Ayrımcılık yasağı*) maddilik tetikleyicisinin uygulanıp uygulanmadığı — eşgüdüm algoritmalarının personeli, tedarikçileri ya da kurumları maddi olarak sıraladığı yerler dahil;
-  - çizelge coğrafyasının, kıdem vekillerinin, "müsaitlik puanlaması"nın ya da tedarikçi-derecelendirme mantığının değerlendirilebilir gerekçe olmadan korunan gruplara orantısız yük yükleyip yüklemediği;
-  - görünürde yansız kuralların vardiya zamanlaması, yolculuk yükü ya da yüksek-değerli ayırtmalardan dışlama yoluyla maddi adaletsizlik üretip üretmediği;
-  - işletenin katmanı **Sınıf C** olduğu için incelemenin altında sayıp saymadığı — eşgüdüm etkileri iş, eğitim ya da kamu-hizmeti erişimini maddi olarak kapılarken; ve
-  - katmanın hayatta kalmaya esas personel ya da acil yönlendirme için fiili bir darboğaz hâline geldiği yerde **yeniden sınıflama gözetimi**nin gerekip gerekmediği.
-- **Kaydın göstermesi gereken:**
-  - **Madde V-B** (*Ayrımcılık yasağı*) tetikleyicisinin uygulanıp uygulanmadığı ve neden;
-  - **Sınıf C** eşgüdüm riskine orantılı sıralama, atama ve dışlama yolları için değerlendirme kapsamı;
-  - maddi olduğunda korunan-özellik, vekil ve maddi-adillik bulguları — kimsenin sıralanmadığına dair boş bir ileri sürme değil;
-  - çizelgeleme etkilerinin yükseltmeyi haber verdiği yerde yoğunlaşma ve darboğaz bulguları;
-  - bağımlılık güçlendiğinde açık **yeniden sınıflama gözetimi**; ve
-  - sınıf, ödeme yönlendirmesi ya da hayatta kalmaya esas eşgüdüm rolü değişirse yükseltilmiş ayrımcılık yasağı incelemesine işaretçiler.
-
-**Sınıflar boyunca okuma.** Aynı **Madde V-B** (*Ayrımcılık yasağı*) ve Beşinci Bölüm ayrımcılık yasağı disiplini maddilik tetikleyicisi karşılandığında uygulanır; sınıf değerlendirme derinliğini değiştirir, sıralamayı ya da yük kaydırmayı maddi değil sayma iznini değil. Kesme ya da bildirim kuralları güvenli suyu kapatabilecek bir **Sınıf A** su sistemi kayıttaki en güçlü yük-ve-yarar ve vekil çözümlemesini taşımalıdır — genel bir "kamu hizmeti en iyi uygulaması" bildirimi değil. Eşleme ya da yönlendirme mantığı acil bakımı, yardımları ya da kimlik-bilgisi erişimini etkileyen bir **Sınıf B** değişimi işletme kritikliğinde orantısız-etki ve maddi-adillik bulgularını belgeleme. Bir **Sınıf C** çizelgeleme katmanı vardiya, tedarikçi ya da ayırtma mantığı katılımcıları maddi olarak sıralarken ya da dışlarken simgesel bir adillik paragrafı tutmamalıdır; eşgüdüm hayatta kalmaya esas olduğunda belgelendirme inceleme ve yeniden sınıflamayı [§2](#2-system-class-evaluation) ve [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında yükseltmeli, personel ya da acil yönlendirme kapılandığında **Sınıf A**ya doğru yukarı dahil. Aynı sistemler için erişilebilirlik yürüyüşleri [§8.1](#81-illustrative-accessibility-application-by-class)tedir.
-
-<a id="8-accessibility-evaluation"></a>
-
-### 8. Erişilebilirlik değerlendirmesi
+#### 5.1 Ekolojik Ayak İzi Değerlendirmesi
 
 <details>
-<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">İzlenebilirlik</span></strong></summary>
 
-- Yukarı: [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içerikleri*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Katılım ölçüm ailesi (*Anayasal ölçüm olarak Erişilebilirlik*); **Madde V-G** (*Erişilebilirlik*); [Erişilebilirlik](core_05_band_participation.md#accessibility-constitutional), [Maddilik](core_05_band_oversight.md#materiality-determination), [Bağımlılık](core_05_band_continuity.md#dependency), [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency), [Korunan özellikler](core_05_band_participation.md#protected-characteristics-constitutional), [Korunan özellik vekillemesi ve orantısız etki](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional), [Gereklilik](core_05_band_accountability.md#necessity) ve [Orantılılık](core_05_band_accountability.md#proportionality) (Beşinci Bölüm).
-- Aşağı: [§8.1](#81-illustrative-accessibility-application-by-class) (*örnek erişilebilirlik yürüyüşleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*erişilebilirlik yanlış hizalanması ve yalnızca-kâğıt uyarlama*).
-- Birlikte oku: eğitimsel erişilebilirlik içerildiğinde **Madde III-B** (*Eşit eğitim erişimi*) — eğitime özgü erişilebilirlik hâlâ orada sahiplenilir; belgelendirme forum, idari, etkilenen taraf ya da yürütme katılımını kapıladığında **Madde V-C** (*Karara bağlama ve işlemlerde tam kapsama ve eşitlik*) ve **Madde XII** (*Etkilenen Tarafların Sistem Katılımı, temsil ve usul güvencesi*); [Yedinci Bölüm §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion) (*kesişen erişilebilirlik değerlendirme-etkeni kancası*).
-- Alt kesitler: [§8.1](#81-illustrative-accessibility-application-by-class) (*sınıfa göre örnek erişilebilirlik uygulama*).
+- Önceki bağlantılar: [B Kısmı §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içeriği*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Süreklilik ölçüm ailesi (*anayasal ölçüm olarak Ekolojik Ayak İzi*); **Madde I-B** (*Ekolojik Ayak İzi ve Şeffaflık*); [Ekolojik Ayak İzi](../../core_05_band_continuity.md#ecological-footprint), [Maddi Etki](../../core_05_band_oversight.md#material-impact), [Bağımlılık](../../core_05_band_continuity.md#dependency), [Şeffaflık](../../core_05_band_oversight.md#transparency) ve [Epistemik Bütünlük](../../core_05_band_oversight.md#epistemic-integrity) (Beşinci Bölüm); maddi biçimde ilgili olduğunda [Çevresel Önkoşullar](../../core_05_band_continuity.md#environmental-preconditions) ve [Ekolojik Bütünlük](../../core_05_band_continuity.md#ecological-integrity).
+- Sonraki bağlantılar: [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*ekolojik ayak izi örnekli yürüyüşleri*); [§5.3](#53-proportionate-cross-system-support-evaluation) ve [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*sistemler arası destek değerlendirmesi ve örnekli yürüyüşleri*); [B Kısmı §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış girdi kapısı*); [B Kısmı §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ayak izi yanlış beyanı ve hizasızlık*).
+- Birlikte okuyun: [corpus_systems.md](../../corpus_systems.md) ve uyarlamalı tahsis veya ekosistemler arası bağımlılık maddi olarak kapsama girdiğinde [CS-8 — Uyarlamalı sürdürülebilirlik ve ekosistem dayanıklılığı](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md).
+- Alt bölümler: [§5.1.1](#511-scope-and-governing-rules) (*kapsam ve yöneten kurallar*); [§5.1.2](#512-evaluation-requirement) (*değerlendirme gereği*); [§5.1.3](#513-system-class-scaling-and-escalation) (*sistem sınıfına göre ölçekleme ve yükseltme*); [§5.1.4](#514-defects-and-misalignment) (*kusurlar ve hizasızlık*); [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*sistem sınıfına göre ekolojik ayak izi örnekli uygulaması*).
 
 </details>
 
 <br>
 
-*Yalın dille: bir sistem algılayanların gerçekten katılıp katılamayacağını — bir kapının "açık" etiketlenip etiketlenmediğini değil — maddi olarak denetlediğinde belgelendirme, katılımın duyusal, bilişsel, hareket, iletişim, alttaş-arayüz ve karşılaştırılabilir ihtiyaçlar boyunca gerçekten ulaşıp ulaşmadığını denetlemek zorundadır. Uyarlama katalogları ve arayüz standartları başka araçlarda, sonraki corpus eklerinde ya da benimseme araçlarında yaşayabilir; belgelendirme, tetikleyici uygulandığında maddi katılımın gerçekten değerlendirildiğini denetler. [§2.1](#21-illustrative-class-profiles-non-exhaustive)teki örnek sistemler için işlenmiş örnekler [§8.1](#81-illustrative-accessibility-application-by-class)tedir.*
+*Yalın dille: bir sistem çevreye gerçek zarar veriyorsa belgelendirme bu zarara dürüstçe bakmalıdır — tedarikçileri üzerinden oluşan zarar ve algılayanların sistemi kullanmasından sonra ortaya çıkan zarar dâhil. Değerlendiriciler, sistemin «yeşil» olduğu konusunda operatörün sözüyle yetinemez. Bu bölüm ayak izinin nasıl ölçüleceğini ya da ne kadar azaltılması gerektiğini açıklamaz; bunları başka belgeler ele alır. Yalnızca zararın önemli olduğu yerde, ne kadarının bu sisteme ait olduğunun gerçekten hesaplanmasını, açıklanmasını ve alternatiflerle karşılaştırılmasını gerektirir. Örnekli uygulamalar: [§5.1.5 Sistem sınıfına göre ekolojik ayak izi örnekli uygulaması (kapsamlı olmayan)](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).*
 
-**Maddilik tetikleyicisi.** Bu kesit, maddi etkili bir sistemin anayasa-ilgili alanlarda — yönetişim, etkilenen taraf katılımı, karara bağlama, işlemler, hayatta kalma tabanına erişim, sağlık erişimi, ifade, toplanma, basın ya da karşılaştırılabilir alanlar dahil — maddi katılımı arayüzler, mekânlar, çizelgeleme, kimlik bilgileri, hesaplama erişimi, uyarlama tasarımı ya da karşılaştırılabilir katılım yolları yoluyla maddi olarak kapıladığı yerde uygulanır. Her belgelendirme kaydında tam bir erişilebilirlik denetimi istemez. Eğitimsel erişilebilirlik **Madde III-B** (*Eşit eğitim erişimi*) tarafından yönetilmeye devam eder ve burada daraltılmaz.
+<a id="511-scope-and-governing-rules"></a>
+##### 5.1.1 Kapsam ve Yöneten Kurallar
 
-Sistem hizalama belgelendirmesi maddilik tetikleyicisi uygulandığında **Madde V-G** (*Erişilebilirlik*) ve [Erişilebilirlik](core_05_band_participation.md#accessibility-constitutional) altında **erişilebilirliği** değerlendirmelidir. Kanonik anlam, değerlendirme etkenleri ve uyumsuzluk disiplini Beşinci Bölümde ve **Madde V-G** (*Erişilebilirlik*)te yaşar; uyarlama katalogları, arayüz standartları, evrensel-tasarım belirtimleri ve işletimsel uyarlama mekaniği uygulandığında içerilmiş araçlarda yaşar. Bu kesit belgelendirmenin neyi doğrulayıp kaydetmesi gerektiğini belirtir; o işletim mekaniğini yeniden belirtmez ya da belirli uyarlama katalogları veya evrensel-tasarım belirtimleri buyurmaz.
+Sistem hizalama belgelendirmesi, atfedilebilir çevresel yüklerin [Ekolojik Ayak İzi](../../core_05_band_continuity.md#ecological-footprint) ve **Madde I-B** (*Ekolojik Ayak İzi ve Şeffaflık*) uyarınca maddi olduğu her maddi etkili belgelendirme kaydının parçası olarak **ekolojik ayak izini** değerlendirmelidir.
 
-**Değerlendirme gereği.** Bir belgelendirme süreci, algılayanların sistemin maddi olarak kapıladığı anayasa-ilgili alanlarda maddi olarak katılıp katılamadığını belirlemelidir — yalnızca biçimsel olanakların, varsayılan arayüzlerin ya da kâğıt uyarlamaların var olup olmadığı değil. Değerlendirme [Erişilebilirlik](core_05_band_participation.md#accessibility-constitutional) altında maddi katılım etkisini [Maddilik](core_05_band_oversight.md#materiality-determination) ve [Bağımlılık](core_05_band_continuity.md#dependency)a ölçekleyerek sınamalı ve yalnızca-kâğıt uyarlamaları, katılım yetisi üretmeden varsayılan olanaklara bırakılan "genel erişim" örüntülerini, uyarlama kapsamını daraltmak için kullanılan seçici maddilik savlarını, [Algılama dışlamama](core_05_band_participation.md#sentience-non-exclusion)ya aykırı dışlamayı ve çizelgeleme, mekân seçimi, kimlik bilgisi verme, hesaplama erişimi ya da karşılaştırılabilir mekanik yoluyla vekil-yoluyla-reddetme karşıtı tasarımı saptamalıdır. Değerlendirme uyarlama-tasarım mantığına [Korunan özellikler](core_05_band_participation.md#protected-characteristics-constitutional) ve [Korunan özellik vekillemesi ve orantısız etki](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)ı uygulamalıdır. Herhangi bir sınır belgelenmiş [Gereklilik](core_05_band_accountability.md#necessity), [Orantılılık](core_05_band_accountability.md#proportionality) ve [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional)ı karşılamalıdır.
+<a id="512-evaluation-requirement"></a>
+##### 5.1.2 Değerlendirme Gereği
 
-**Kayıt gereği.** Belgelendirme kaydı bel bağlanan **Madde V-G** (*Erişilebilirlik*) maddilik tetikleyicisini, maddi olarak bel bağlanan katılım yolları için değerlendirme kapsamını, maddi-katılım ve uyarlama bulgularını, maddi olduğunda vekil-yoluyla-reddetme karşıtı bulguları, belirsizliği, gerektiğinde Algılayan-forumu ya da diğer atanan bileşen bulgularını ve kalıcı katılım engellerine bağlı koşulları, bel bağlama sınırlarını ya da yeniden açma tetikleyicilerini belirtmelidir.
+Belgelendirme süreci, atfedilebilir çevresel akışların — enerji, malzeme, emisyon, hava kalitesi, su kalitesi, su kullanımı, arazi kullanımı ve ilgili yüklerin — şu koşulları karşılayıp karşılamadığını belirlemelidir:
 
-**Sistem sınıfıyla ortak ölçekleme.** Erişilebilirlik değerlendirme derinliği [§2](#2-system-class-evaluation) ve [maddi pay](core_00_preamble.md#material-stake) altında atanan sistem sınıfıyla ölçeklenmelidir. Anayasa-ilgili katılımı maddi olarak kapılayan daha yüksek-sınıf sistemler, maddi erişilebilirliğin ileri sürülmek yerine değerlendirildiğine dair orantılı olarak daha güçlü kanıt ister.
+- sistemin maddi açıdan ilgili yaşam döngüsü ve [Bağımlılık](../../core_05_band_continuity.md#dependency) ilişkileri boyunca tanımlanmış olması;
+- [Maddi Etki](../../core_05_band_oversight.md#material-impact) uyarınca değerlendirilmiş olması; ve
+- yalnızca [Şeffaflığın](../../core_05_band_oversight.md#transparency), [Epistemik Bütünlüğün](../../core_05_band_oversight.md#epistemic-integrity) ve geçerli şeffaflık yükümlülüklerinin izin verdiği ölçüde açıklanması ya da açıklanmaması.
 
-**Kusurlar ve yanlış hizalanma.** Biçimsel olanakları, varsayılan arayüzleri ya da kâğıt uyarlamaları değerlendirilebilir bir maddi-katılım analizi olmadan yeterli saymak; belgelenmiş katılım engelleri anayasal hizalamayı maddi olarak tehdit ederken süregelen bel bağlamayı belgelendirmek; maliyet, tasarım-seçimi, alttaş-sınıfı ya da işletim-ölçeği çerçevelemelerini **Madde V-G** (*Erişilebilirlik*)in **Gereklilik** ve **Orantılılık** sınavlarını karşılamadan katılım tabanını yenmek için kullanmak; ya da daha az yükleyici bir seçenek uygulanabilirken etkisi erişilebilirliği yenmek olan işletim tasarımı belgelendirme kusuru sayılmalıdır. [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında koşullu tanımayı, ertelenmiş tanımayı, tanımamayı, geri çekmeyi ya da yeniden açmayı destekleyebilirler.
+Değerlendirme yalnızca nominal kapsamı, pazarlama etiketlerini veya yaşam döngüsünün kısmi çerçevelenmesini değil; işlevsel etkiyi ve sistem sınırlarını yansıtmalıdır.
 
-<a id="81-illustrative-accessibility-application-by-class"></a>
+Uygulanabilir olduğunda değerlendiriciler, sistemin önemli çevresel zararlarını gerçekçi alternatiflerle karşılaştırmalıdır. Ayrıca bu zararların şu yollarla gizlenmediğini kontrol etmelidir:
 
-<a id="81-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-#### 8.1 Sınıfa göre örnek erişilebilirlik uygulama (tüketici değil)
+- **sınırları dar çizmek** — sistemin sınırlarını en kötü etkiler dışarıda kalacak biçimde belirlemek;
+- **yükü başkasına aktarmak** — zararlı işi tedarikçilere veya ortaklara yükleyip sistemin kendi etkisi olarak sayılmamasını sağlamak; ya da
+- **yalnızca iyi haberleri paylaşmak** — olumlu sayıları bildirip olumsuzları dışarıda bırakmak.
 
-*Yalın dille: [§3.8](#38-illustrative-whole-system-application-by-class) ile [§7.1](#71-illustrative-nondiscrimination-application-by-class) aynı üç sistemi önceki değerlendirme alanlarından geçirir. Bu alt kesit her biri için **erişilebilirlik** değerlendirmesinin ne demek olduğunu gösterir — hangi katılım yollarının sayıldığı, **Madde V-G** (*Erişilebilirlik*) maddilik tetikleyicisi uygulandığında belgelendirmenin neyi denetlemesi gerektiği ve kayda neyin girmesi gerektiği. Beşinci Bölüm ve **Madde V-G** (*Erişilebilirlik*) hâlâ kanonik erişilebilirlik kurallarını sahiplenir; uyarlama katalogları, arayüz standartları ve evrensel-tasarım belirtimleri başka araçlarda, sonraki corpus eklerinde ya da benimseme araçlarında yaşayabilir; bu yürüyüşler o mekaniği buyurmaz. Eğitimsel erişilebilirlik hâlâ **Madde III-B** (*Eşit eğitim erişimi*) tarafından sahiplenilir ve burada daraltılmaz.*
+<a id="513-system-class-scaling-and-escalation"></a>
+##### 5.1.3 Sistem Sınıfına Göre Ölçekleme ve Yükseltme
 
-**Sınıf A — belediye güvenli içme suyu denetimi ve telemetrisi.** Kentin sahip olduğu bir arıtma-ve-dağıtım sistemi faturalama kapıları, kesinti-bildirimi kanalları, yeniden bağlama istekleri, suyu-kaynat uyarıları ve müşteri-hizmeti yolları yoluyla hayatta kalma tabanına erişimi kapılar; bunlar algılayanların güvenli suyu öğrenip öğrenemeyeceğini, itiraz edip edemeyeceğini ya da geri getirip getiremeyeceğini kararlaştırır.
+Bir sistemin sınıfı, çevresel zararının ne derinlikte izleneceğini ve ne ölçüde karşılaştırma gerektiğini belirler. Önemli zararı incelemekten kaçınmanın hiçbir zaman yolu değildir.
 
-- **Kapsamdaki katılım yolları:**
-  - Faturalama ve ödeme-planı kapıları;
-  - kesinti ve kirlilik-uyarı kanalları (ses, metin, web, yüz yüze ya da devredilmiş tedarikçi yolları);
-  - yeniden bağlama ve sıkıntı-isteği arayüzleri;
-  - güvenlik bildirimleri için dil ve biçim seçenekleri;
-  - hesap erişimi için kimlik bilgisi ya da kimlik kapıları;
-  - bir itiraz dosyalamak ya da bir uyarı almak için hesaplama, aygıt ya da mekân gerekleri.
-- **Değerlendirmenin sınaması gereken:**
-  - Algılayanların duyusal, bilişsel, hareket, iletişim ve alttaş-arayüz profilleri boyunca hayatta kalmaya kritik bildirimleri maddi olarak alıp alamadığı ve yeniden bağlama ya da sıkıntı yollarını tamamlayıp tamamlayamadığı — varsayılan bir web formunun var olup olmadığı değil;
-  - yalnızca-kâğıt uyarlamaların, "mesai saatlerinde ara"nın ya da yalnızca-İngilizce varsayılanların daha az yükleyici seçenekler uygulanabilirken katılımı yenip yenmediği;
-  - çizelgeleme, mekân, kimlik bilgisi ya da hesaplama tasarımının vekil-yoluyla-reddetme olarak işleyip işlemediği;
-  - [Korunan özellikler](core_05_band_participation.md#protected-characteristics-constitutional) ve [Korunan özellik vekillemesi ve orantısız etki](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)ın uyarlama-tasarım mantığına uygulanıp uygulanmadığı; ve
-  - herhangi bir sınırın belgelenmiş [Gereklilik](core_05_band_accountability.md#necessity), [Orantılılık](core_05_band_accountability.md#proportionality) ve [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional)ı karşılayıp karşılamadığı.
-- **Kaydın göstermesi gereken:**
-  - Bel bağlanan **Madde V-G** (*Erişilebilirlik*) maddilik tetikleyicisi;
-  - maddi olarak bel bağlanan bildirim, faturalama, yeniden bağlama ve itiraz yolları için değerlendirme kapsamı;
-  - **Sınıf A** derinliğinde maddi-katılım ve uyarlama bulguları;
-  - maddi olduğunda vekil-yoluyla-reddetme karşıtı bulgular;
-  - belirsizlik;
-  - gerektiğinde Algılayan-forumu ya da diğer bileşen bulguları; ve
-  - hayatta kalma esaslarının kapılandığı yerde kalıcı engellere bağlı koşullar ya da yeniden açma tetikleyicileri.
+- Su çekimi, kirlilik deşarjı, enerji kullanımı veya benzer yükleri hâlâ yalnızca kısmen hesaba katılıyorken sistem daha düşük bir sınıfa indirilmemelidir — özellikle bu yükler algılayanların hayatta kalmak için ihtiyaç duyduğu güvenli su gibi bir unsurun sağlanmasını etkiliyorsa.
+- Sistem büyürse (yük artışı veya barındırmanın daha büyük bölümünün tek yerde yoğunlaşması) ve çevresel zararı önemli ölçüde artarsa inceleme de buna paralel biçimde derinleşmelidir. Sistemin hayatta kalma açısından zorunlu sunumu ile kaynaklarının yükleri birlikte söz konusu olduğunda bu, **Sınıf A** derinliğine kadar çıkabilir.
+- Bir sistem algılayanların hayatta kalma açısından zorunlu eşgüdüm için dayandığı bir darboğaz hâline gelirse, sırf operatörü «kritik değil» dediği için sembolik bir ayak izi dosyasıyla yetinemez.
 
-**Sınıf B — bölgesel klinik kayıt değişimi.** Bir sağlık-bilgisi değişimi ve onun katılımcı kapıları hasta kapıları, rıza arayüzleri, sağlayıcı dizinleri, break-glass iş akışları ve klinik katılım araçları yoluyla günlük sağlık erişimini kapılar; bunlar hastaların ve daha küçük sağlayıcıların değişimi gerçekten kullanıp kullanamayacağını kararlaştırır.
+<a id="514-defects-and-misalignment"></a>
+##### 5.1.4 Kusurlar ve Hizasızlık
 
-- **Kapsamdaki katılım yolları:**
-  - Hasta kapısı ve rıza arayüzleri;
-  - sağlayıcı-dizini ve sevk-ayırtma araçları;
-  - break-glass ve acil-erişim iş akışları;
-  - klinik katılım ve kimlik bilgisi verme arayüzleri;
-  - klinik özetler ve açıklamalar için dil, biçim ve yardımcı-teknoloji desteği;
-  - kayıtları görüntülemek, itiraz etmek ya da düzeltmek için hesaplama ya da aygıt gerekleri.
-- **Değerlendirmenin sınaması gereken:**
-  - Hastaların ve katılan kliniklerin rıza, erişim, düzeltme ve acil yolları maddi olarak kullanıp kullanamadığı — bir kapının erişilebilir etiketlenip etiketlenmediği değil;
-  - varsayılan arayüzlerin gören, masaüstü, yüksek-bant ya da İngilizce-birincil kullanıcılara, başkaları için katılım yetisi üretmeden, bırakılıp bırakılmadığı;
-  - kimlik bilgisi, çizelgeleme ya da mekân tasarımının kırsal klinikleri, dil-azınlığı hastaları ya da alternatif biçimlere ihtiyaç duyan algılayanları dışlayıp dışlamadığı;
-  - değerlendirme derinliğinin değişimin sağlık erişimini kapıladığı yerde **Sınıf B** işletme kritikliğine uyup uymadığı; ve
-  - kâğıt uyarlamaların ya da toplam "uyum kontrol listesi" iddialarının değerlendirilebilir bir maddi-katılım analizi olmadan yeterli sayılıp sayılmadığı.
-- **Kaydın göstermesi gereken:**
-  - **Madde V-G** (*Erişilebilirlik*) tetikleyicisi ve yol kapsamı;
-  - hasta ve klinik yolları için maddi-katılım ve uyarlama bulguları;
-  - maddi olduğunda vekil-yoluyla-reddetme karşıtı bulgular;
-  - gerektiğinde belirsizlik ve bileşen bulguları; ve
-  - kapı ya da rıza engellerinin artık hayatta kalmaya ilgili zaman dilimleri içinde acil bakımı tıkayacağı ya da günlük işletme bel bağlamasını maddi olarak yeneceği yeniden açma tetikleyicileri.
+Aşağıdakilerin her biri belgelendirme kusuru sayılır:
 
-**Sınıf C — kurumsal çizelgeleme ve eşgüdüm katmanı.** Çok-kuruluşlu bir çizelgeleme katmanı vardiya-talep arayüzleri, oda-ayırtma araçları, tedarikçi kapıları ve kurumsal panolar yoluyla etkilenen taraf ve işletme katılımını kapılar — katmanın kendisi hayatta kalmaya kritik bir kamu hizmeti olmasa bile.
+- belgelendirme kurallarının ya da **Madde I-B** (*Ekolojik Ayak İzi ve Şeffaflık*) hükmünün açıklanmasını gerektirdiği önemli ayak izi bilgilerini gizlemek, yanlış aktarmak, parçalamak veya başkasına devretmek;
+- daha geniş bir görünüm önemliyken sistemin yaşam döngüsünün yalnızca operatörün göstermeyi seçtiği kısımlarını incelemek; ve
+- denetlenebilir kanıt olmaksızın operatörün sözüne dayanarak ayak izi iddialarını kabul etmek.
 
-- **Kapsamdaki katılım yolları:**
-  - Vardiya-talep ve nöbet arayüzleri;
-  - oda, ekipman ve mekân ayırtma araçları;
-  - tedarikçi ve tedarik kapıları;
-  - kurumsal rol ve kimlik bilgisi panoları;
-  - atamaları talep etmek ya da itiraz etmek için mobil, masaüstü ve yardımcı-teknoloji yolları;
-  - çizelge bildirimleri için dil ve biçim seçenekleri.
-- **Değerlendirmenin sınaması gereken:**
-  - **Madde V-G** (*Erişilebilirlik*) maddilik tetikleyicisinin uygulanıp uygulanmadığı — eşgüdüm arayüzünün iş, eğitim, etkilenen taraf ya da forum katılımını maddi olarak kapıladığı yerler dahil;
-  - varsayılan arayüzlerin duyusal, bilişsel, hareket, iletişim ve alttaş-arayüz profilleri boyunca maddi katılım üretip üretmediği;
-  - çizelge zamanlamasının, mekân seçiminin, kimlik bilgisi kapılarının ya da hesaplama gereklerinin vekil-yoluyla-reddetme olarak işleyip işlemediği;
-  - işletenin katmanı **Sınıf C** olduğu için incelemenin altında sayıp saymadığı — eşgüdüm etkileri anayasa-ilgili katılımı maddi olarak kapılarken; ve
-  - katmanın hayatta kalmaya esas personel ya da acil yönlendirme için fiili bir darboğaz hâline geldiği yerde **yeniden sınıflama gözetimi**nin gerekip gerekmediği.
-- **Kaydın göstermesi gereken:**
-  - **Madde V-G** (*Erişilebilirlik*) tetikleyicisinin uygulanıp uygulanmadığı ve neden;
-  - **Sınıf C** eşgüdüm riskine orantılı çizelgeleme, ayırtma ve kapı yolları için değerlendirme kapsamı;
-  - maddi olduğunda maddi-katılım ve uyarlama bulguları — arayüzün "standart" olduğuna dair boş bir ileri sürme değil;
-  - çizelgeleme etkilerinin yükseltmeyi haber verdiği yerde yoğunlaşma ve darboğaz bulguları;
-  - bağımlılık güçlendiğinde açık **yeniden sınıflama gözetimi**; ve
-  - sınıf ya da hayatta kalmaya esas eşgüdüm rolü değişirse yükseltilmiş erişilebilirlik incelemesine işaretçiler.
+<br>
 
-**Sınıflar boyunca okuma.** Aynı **Madde V-G** (*Erişilebilirlik*) ve Beşinci Bölüm erişilebilirlik disiplini maddilik tetikleyicisi karşılandığında uygulanır; sınıf değerlendirme derinliğini değiştirir, kâğıt uyarlamaları ya da varsayılan arayüzleri yeterli sayma iznini değil. Faturalama ya da kesinti yolları güvenli suyu kapatabilecek bir **Sınıf A** su sistemi kayıttaki en güçlü maddi-katılım kanıtını taşımalıdır — genel bir erişilebilirlik bildirimi değil. Kapıları sağlık erişimini kapılayan bir **Sınıf B** değişimi işletme kritikliğinde uyarlama ve vekil-yoluyla-reddetme karşıtı bulguları belgeleme. Bir **Sınıf C** çizelgeleme katmanı vardiya, ayırtma ya da tedarikçi arayüzü katılımcıları maddi olarak dışlarken simgesel bir erişilebilirlik paragrafı tutmamalıdır; eşgüdüm hayatta kalmaya esas olduğunda belgelendirme inceleme ve yeniden sınıflamayı [§2](#2-system-class-evaluation) ve [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında yükseltmeli, personel ya da acil yönlendirme kapılandığında **Sınıf A**ya doğru yukarı dahil. Aynı sistemler için eğitimsel-yetenek yürüyüşleri [§9.1](#91-illustrative-educational-capability-application-by-class)tedir.
+<a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
-<a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
-
-### 9. Eğitimsel yetkinlik ve öğrenme-sistemi bütünlüğü değerlendirmesi
+#### 5.2 Eğitim Kapasitesi ve Öğrenme Sistemi Bütünlüğü Değerlendirmesi
 
 <details>
-<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">İzlenebilirlik</span></strong></summary>
 
-- Yukarı: [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içerikleri*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Katılım ölçüm ailesi (*Anayasal ölçüm olarak Eğitimsel eylem yetisi*); **Madde VI** (*Algılayan-merkezli eğitim hakkı*); [Eğitimsel eylem yetisi](core_05_band_participation.md#educational-agency), [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency), [Sistemik kilitlenme](core_05_band_continuity.md#systemic-lock-in), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Şeffaflık](core_05_band_oversight.md#transparency), [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Zorlama ve manipülasyon](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Maddilik](core_05_band_oversight.md#materiality-determination) ve [Bağımlılık](core_05_band_continuity.md#dependency) (Beşinci Bölüm).
-- Aşağı: [§9.1](#91-illustrative-educational-capability-application-by-class) (*örnek eğitimsel-yetkinlik yürüyüşleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*değerlendirme-opaklığı yanlış hizalanması, belge kapılama ve dayatılmış-eskime yanlış hizalanması*).
-- Birlikte oku: eşit erişim ya da eğitimsel erişilebilirlik içerildiğinde **Madde III-B** (*Eşit eğitim erişimi*) — eşit erişim ve eğitimsel erişilebilirlik hâlâ orada sahiplenilir; sıralama ya da yerleştirme örüntüleri korunan-özellik yüklemesini içerdiğinde **Madde V-B** (*Ayrımcılık yasağı*) ve [§7](#7-nondiscrimination-evaluation); zorlayıcı ya da manipülatif öğrenme tasarımı maddi olarak içerildiğinde **Madde X-A** (*Eylem yetisi ve manipülasyondan özgürlük*); [Birinci Bölüm §9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*dağıtılmış anlayış ve yetkinlik inşası — birlikte oku*).
-- Alt kesitler: [§9.1](#91-illustrative-educational-capability-application-by-class) (*sınıfa göre örnek eğitimsel-yetkinlik uygulama*).
+- Önceki bağlantılar: [B Kısmı §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içeriği*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Katılım ölçüm ailesi (*anayasal ölçüm olarak Eğitimsel Özerklik*); **Madde IV** (*Algılayan Merkezli Eğitim Hakkı*); [Eğitimsel Özerklik](../../core_05_band_participation.md#educational-agency), [Anlamlı Özerklik](../../core_05_band_participation.md#meaningful-agency), [Sistemik Kilitlenme](../../core_05_band_continuity.md#systemic-lock-in), [İtiraz Edilebilirlik](../../core_05_band_accountability.md#contestability), [Şeffaflık](../../core_05_band_oversight.md#transparency), [Denetlenebilirlik](../../core_05_band_oversight.md#auditability), [Zorlama ve Manipülasyon](../../core_05_band_participation.md#coercion-and-manipulation), [Maddilik](../../core_05_band_oversight.md#materiality) ve [Bağımlılık](../../core_05_band_continuity.md#dependency) (Beşinci Bölüm).
+- Sonraki bağlantılar: [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*eğitim kapasitesi örnekli yürüyüşleri*); [B Kısmı §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış girdi kapısı*); [B Kısmı §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*değerlendirme kapalılığı, yeterlilik belgesi kapısı ve dayatılmış eskime kaynaklı hizasızlık*).
+- Birlikte okuyun: eşit erişim veya eğitimsel erişilebilirlik söz konusu olduğunda **Madde IV-A** (*Eğitime Eşit Erişim*) — eşit erişim ve eğitimsel erişilebilirlik orada düzenlenmeye devam eder; korunan özellikler üzerindeki yükleri içeren sıralama veya yerleştirme örüntülerinde **Madde VI-C** (*Ayrımcılık Yapmama*) ve [§5.4](#54-nondiscrimination-evaluation); zorlayıcı veya manipülatif öğrenme tasarımı maddi olarak söz konusu olduğunda **Madde X-A** (*Özerklik ve Manipülasyondan Özgürlük*); [Birinci Bölüm §16 Derinlemesine Sorumlu Yönetim](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (*dağıtılmış anlayış ve kapasite inşasıyla birlikte okuma*).
+- Alt bölümler: [§5.2.1](#521-materiality-trigger-and-governing-rules) (*maddilik tetikleyicisi ve yöneten kurallar*); [§5.2.2](#522-evaluation-requirement) (*değerlendirme gereği*); [§5.2.3](#523-system-class-scaling-and-escalation) (*sistem sınıfına göre ölçekleme ve yükseltme*); [§5.2.4](#524-defects-and-misalignment) (*kusurlar ve hizasızlık*); [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*sistem sınıfına göre eğitim kapasitesinin örnekli uygulaması*).
 
 </details>
 
 <br>
 
-*Yalın dille: bir okul, katman ya da eğitim sistemi notlar, sıralamalar, öneriler, yerleştirme ya da belge kapıları yoluyla bir algılayanın geleceğini ciddi biçimde etkileyebildiğinde belgelendirme, algılayanların gerçekten yetkinlik inşa edip edemediğine, beceriler değiştiğinde yeniden eğitim alıp alamadığına ve o kararları görüp denetleyip itiraz edip edemediğine bakmak zorundadır. Müfredatlar, değerlendirme ölçekleri ve finansman modelleri başka araçlarda yaşar; belgelendirme, tetikleyici uygulandığında yetkinlik-inşa özünün ve öğrenme-sistemi bütünlüğünün gerçekten değerlendirildiğini denetler. [§2.1](#21-illustrative-class-profiles-non-exhaustive)teki örnek sistemler için işlenmiş örnekler [§9.1](#91-illustrative-educational-capability-application-by-class)tedir.*
+*Yalın dille: bazı okullar, platformlar ve eğitim sistemleri notlar, sıralamalar, öneriler, yerleştirmeler veya kapıları açıp kapatan yeterlilik belgeleri yoluyla bir algılayanın geleceğini şekillendirebilir. Böyle durumlarda belgelendirme üç şeyi kontrol etmelidir: algılayanlar orada gerçekten beceri geliştirebiliyor mu; dünyanın ihtiyaç duyduğu beceriler değiştiğinde yeniden eğitim alabiliyor mu; kendileri hakkındaki kararların nasıl alındığını görebiliyor, denetleyebiliyor ve bunlara itiraz edebiliyor mu? Bu bölüm ne öğretileceğini, notların nasıl verileceğini ya da bunun nasıl finanse edileceğini söylemez; bunları başka belgeler ele alır. Yalnızca, uygulandığı yerde beceri geliştirme ve öğrenme sisteminin adilliğinin gerçekten değerlendirildiğini kontrol eder. Örnekli uygulamalar: [§5.2.5 Sistem sınıfına göre eğitim kapasitesinin örnekli uygulaması (kapsamlı olmayan)](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
 
-**Maddilik tetikleyicisi.** Bu kesit, maddi etkili bir sistemin eğitim ya da eğitim bağlamlarında algılayanları maddi olarak sıraladığı, değerlendirdiği, önerdiği, yerleştirdiği ya da belgeyle kapıladığı yerde uygulanır — notlandırma, yerleştirme, kabul, lisans, ders önerisi, uyarlanabilir-öğrenme yönlendirmesi ya da karşılaştırılabilir karar yolları yoluyla dahil — ya da sistem evriminin istenen becerileri maddi olarak değiştirdiği yerde süregelen eğitimi, yeniden eğitimi ya da geçiş-destek yollarını maddi olarak kapıladığı yerde uygulanır. Her belgelendirme kaydında tam bir eğitimsel-yetkinlik denetimi istemez. Eşit erişim ve eğitimsel erişilebilirlik **Madde III-B** (*Eşit eğitim erişimi*) tarafından yönetilmeye devam eder ve burada daraltılmaz.
+<a id="521-materiality-trigger-and-governing-rules"></a>
+##### 5.2.1 Maddilik Tetikleyicisi ve Yöneten Kurallar
 
-Sistem hizalama belgelendirmesi maddilik tetikleyicisi uygulandığında **Madde VI** (*Algılayan-merkezli eğitim hakkı*), [Eğitimsel eylem yetisi](core_05_band_participation.md#educational-agency) ve **Madde VI-B** (*Yaşam boyu ve uyarlanabilir öğrenme ve itiraz edilebilirlik*) altında **eğitimsel yetkinliği ve öğrenme-sistemi bütünlüğünü** değerlendirmelidir. Kanonik anlam, değerlendirme etkenleri ve uyumsuzluk disiplini Beşinci Bölümde ve **Madde VI** (*Algılayan-merkezli eğitim hakkı*)de yaşar; müfredatlar, belge katalogları, değerlendirme ölçekleri ve kurumsal finansman mekaniği uygulandığında içerilmiş araçlarda yaşar. Bu kesit belgelendirmenin neyi doğrulayıp kaydetmesi gerektiğini belirtir; o işletim mekaniğini yeniden belirtmez ya da belirli müfredatlar, belge biçimleri ya da değerlendirme tasarımları buyurmaz.
+Bu bölüm, algılayanların yaşamı üzerinde büyük etkisi olan bir sistem eğitim veya öğretimde aşağıdakilerden birini yaptığında uygulanır:
 
-**Değerlendirme gereği.** Bir belgelendirme süreci, sistemin maddi olarak bel bağladığı öğrenme ve belge yollarının — yalnız belge simgeciliği değil — pratik yetkinlik-inşa erişimi üretip üretmediğini ve istenen beceriler maddi olarak değiştiğinde algılayanların işler yeniden eğitim, süregelen eğitim ve geçiş-destek fırsatlarını koruyup korumadığını belirlemelidir. Değerlendirme ayrıca **Madde VI-B** (*Yaşam boyu ve uyarlanabilir öğrenme ve itiraz edilebilirlik*) altında maddi etkili sıralama, değerlendirme, öneri ve yerleştirme mantığının şeffaflığını, denetlenebilirliğini ve itiraz edilebilirliğini [Maddilik](core_05_band_oversight.md#materiality-determination) ve [Bağımlılık](core_05_band_continuity.md#dependency)a ölçekleyerek sınamalıdır. Değerlendirme opak ya da incelenemez vekilleri, yetkinlik oluşumunu yenen belge kapılamayı, eylem yetisini yok eden dayatılmış eskimeyi ya da kilitlenmeyi, zorlayıcı ya da manipülatif öğrenme tasarımını ve **Madde VI** (*Algılayan-merkezli eğitim hakkı*) ortak uygulandığında itiraz edilebilirliği ya da yaşam boyu uyarlamayı kaldıran bölünmeyi saptamalıdır. Değerlendirme yalnızca nominal erişim etiketlerini, bildirilen pedagojik niyeti ya da belge biçimciliğini değil, işlevsel etkiyi yansıtmalıdır.
+- algılayanları önemli ölçüde sıralar, değerlendirir, önerir, yerleştirir veya yeterlilik belgeleri için kapı görevi görür — örneğin not verme, yerleştirme, kabul, lisanslama, ders önerileri, uyarlamalı öğrenme yönlendirmesi veya benzer kararlar yoluyla; ya da
+- sistemdeki değişikliklerin algılayanların ihtiyaç duyduğu becerileri önemli ölçüde değiştirdiği durumlarda sürekli eğitime, yeniden eğitime veya geçiş desteğine erişimi önemli ölçüde denetler.
 
-**Kayıt gereği.** Belgelendirme kaydı bel bağlanan **Madde VI** (*Algılayan-merkezli eğitim hakkı*) maddilik tetikleyicisini, maddi olarak bel bağlanan sıralama, değerlendirme, öneri, yerleştirme, belge-kapılama ve yeniden eğitim yolları için değerlendirme kapsamını, yetkinlik-inşa ve yeniden-eğitim-yolu bulgularını, değerlendirme-şeffaflığı ve itiraz edilebilirlik bulgularını, maddi olduğunda vekil-karşıtı ve manipülasyon-karşıtı bulguları, belirsizliği, gerektiğinde Algılayan-forumu ya da diğer atanan bileşen bulgularını ve kalıcı yetkinlik yenilgisine, değerlendirme opaklığına ya da dayatılmış eskimeye bağlı koşulları, bel bağlama sınırlarını ya da yeniden açma tetikleyicilerini belirtmelidir.
+Eğitime eşit erişim ve erişilebilirlik **Madde IV-A** (*Eğitime Eşit Erişim*) kapsamında kalır; burada yer alan hiçbir şey bunları daraltmaz.
 
-**Sistem sınıfıyla ortak ölçekleme.** Eğitimsel yetkinlik ve öğrenme-sistemi bütünlüğü değerlendirme derinliği [§2](#2-system-class-evaluation) ve [maddi pay](core_00_preamble.md#material-stake) altında atanan sistem sınıfıyla ölçeklenmelidir. Eğitim ya da eğitim bağlamlarında algılayanları maddi olarak sıralayan, değerlendiren, öneren, yerleştiren ya da belgeyle kapılayan daha yüksek-sınıf sistemler, yetkinlik-inşa özünün, yeniden eğitim erişiminin ve öğrenme-sistemi şeffaflığının ileri sürülmek yerine değerlendirildiğine dair orantılı olarak daha güçlü kanıt ister.
+Maddilik tetikleyicisi uygulandığında belgelendirme, **eğitim kapasitesi ve öğrenme sistemi bütünlüğünü** — başka bir deyişle sistemin gerçekten kapasite geliştirip algılayanlara adil davranıp davranmadığını — şu hükümler uyarınca değerlendirmelidir:
 
-**Kusurlar ve yanlış hizalanma.** **Madde VI-B** (*Yaşam boyu ve uyarlanabilir öğrenme ve itiraz edilebilirlik*) inceleme istediğinde maddi sıralama, değerlendirme, öneri ya da yerleştirme mantığını örtmek, yanlış göstermek, parçalamak ya da dışarı aktarmak; belge biçimciliğini, toplam tamamlama ölçütlerini ya da işletenin kendi bildirimini değerlendirilebilir bir yetkinlik-inşa analizi olmadan yeterli saymak; belgelenmiş değerlendirme opaklığı, belge kapılama, dayatılmış eskime ya da manipülatif öğrenme tasarımı anayasal hizalamayı maddi olarak tehdit ederken süregelen bel bağlamayı belgelendirmek; ya da verimlilik, kişiselleştirme ya da ölçek çerçevelemelerini **Madde VI** (*Algılayan-merkezli eğitim hakkı*)nin yetkinlik-inşa ve **Madde VI-B** (*Yaşam boyu ve uyarlanabilir öğrenme ve itiraz edilebilirlik*) şeffaflık disiplinlerini karşılamadan yeniden eğitim erişimini ya da itiraz edilebilirliği yenmek için kullanmak belgelendirme kusuru sayılmalıdır. [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında koşullu tanımayı, ertelenmiş tanımayı, tanımamayı, geri çekmeyi ya da yeniden açmayı destekleyebilirler.
+- **Madde IV** (*Algılayan Merkezli Eğitim Hakkı*);
+- **Madde IV-C** (*Yaşam Boyu ve Uyarlamalı Öğrenme ve İtiraz Edilebilirlik*); ve
+- [Eğitimsel Özerklik](../../core_05_band_participation.md#educational-agency).
 
-<a id="91-illustrative-educational-capability-application-by-class"></a>
+Bu bölüm eğitimin nasıl işleyeceğine ilişkin kuralları belirlemez. Ne öğretileceği, hangi yeterlilik belgelerinin bulunacağı, çalışmaların nasıl notlandırılacağı ve okulların nasıl finanse edileceği, dâhil edilebilecek başka belgelerde kararlaştırılır; belgelendirme bir müfredat, yeterlilik belgesi biçimi veya notlandırma yöntemi seçmez.
 
-<a id="91-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-#### 9.1 Sınıfa göre örnek eğitimsel-yetkinlik uygulama (tüketici değil)
+<a id="522-evaluation-requirement"></a>
+##### 5.2.2 Değerlendirme Gereği
 
-*Yalın dille: [§3.8](#38-illustrative-whole-system-application-by-class) ile [§8.1](#81-illustrative-accessibility-application-by-class) aynı üç sistemi önceki değerlendirme alanlarından geçirir. Bu alt kesit her biri için **eğitimsel yetkinlik ve öğrenme-sistemi bütünlüğü** değerlendirmesinin ne demek olduğunu gösterir — hangi sıralama, değerlendirme, belge ve yeniden eğitim yollarının sayıldığı, **Madde VI** (*Algılayan-merkezli eğitim hakkı*) maddilik tetikleyicisi uygulandığında belgelendirmenin neyi denetlemesi gerektiği ve kayda neyin girmesi gerektiği. Beşinci Bölüm ve **Madde VI** (*Algılayan-merkezli eğitim hakkı*) hâlâ kanonik eğitimsel-eylem-yetisi ve öğrenme-sistemi kurallarını sahiplenir; müfredatlar, belge katalogları, değerlendirme ölçekleri ve finansman modelleri başka araçlarda, sonraki corpus eklerinde ya da benimseme araçlarında yaşayabilir; bu yürüyüşler o mekaniği buyurmaz. Eşit erişim ve eğitimsel erişilebilirlik hâlâ **Madde III-B** (*Eşit eğitim erişimi*) tarafından sahiplenilir ve burada daraltılmaz.*
+Belgelendirme, algılayanların fiilen dayandığı öğrenim ve yeterlilik belgesi yollarının onlara gerçek beceriler geliştirme olanağı verip vermediğini — yalnızca kâğıt üzerinde iyi görünen bir sertifika sunup sunmadığını değil — ve ihtiyaç duydukları beceriler önemli ölçüde değiştiğinde yeniden eğitim almak, öğrenmeyi sürdürmek ve geçişleri aşmak için hâlâ uygulanabilir yolları olup olmadığını kontrol etmelidir.
 
-**Sınıf A — belediye güvenli içme suyu denetimi ve telemetrisi.** Kentin sahip olduğu bir arıtma-ve-dağıtım sistemi, işletici lisansı, güvenlik belgelendirmesi, yetkinlik değerlendirmesi ve protokol-yeniden-eğitim kuralları yoluyla hayatta kalmaya kritik tesis işlevlerini kimin işletebileceğini kapılar — algılayanların güvenli suyu işletme yetkinliğini inşa edip koruyup koruyamayacağını ve o değerlendirmelerin görülüp denetlenip itiraz edilip edilemeyeceğini kararlaştıran rol-belge yolları.
+Değerlendiriciler ayrıca, **Madde IV-C**'nin (*Yaşam Boyu ve Uyarlamalı Öğrenme ve İtiraz Edilebilirlik*) gerektirdiği üzere sistemin sıralama, not verme, öneri ve yerleştirme kararlarının görülebilir, denetlenebilir ve itiraz edilebilir olup olmadığını sınamalıdır. Bu sınamanın ne kadar sıkı olacağı, neyin tehlikede olduğuna ([Maddilik](../../core_05_band_oversight.md#materiality)) ve algılayanların sisteme ne ölçüde bağımlı olduğuna ([Bağımlılık](../../core_05_band_continuity.md#dependency)) bağlıdır.
 
-- **Kapsamdaki öğrenme ve belge yolları:**
-  - İşletici lisansı, yenileme ve askıya alma;
-  - güvenlik belgelendirmesi ve acil-yanıt yetkinlik değerlendirmesi;
-  - kimya, denetim mantığı ya da düzenleyici gerekler değiştiğinde protokol ve telemetri yeniden eğitimi;
-  - değerlendirilmiş yetkinliğe göre tesis vardiyalarına, fazla mesaiye ya da baş-işletici rollerine sıralama ya da yerleştirme;
-  - başarısız değerlendirmeler ya da askıya alınmış belgeler için itiraz ve giderici-eğitim yolları.
-- **Değerlendirmenin sınaması gereken:**
-  - O öğrenme ve belge yollarının — yalnız belge simgeciliği ya da tamamlama-sertifikası sayıları değil — güvenli-su denetimlerini işletmeye dair pratik yetkinlik üretip üretmediği;
-  - istenen beceriler maddi olarak değiştiğinde işleticilerin işler yeniden eğitim ve geçiş desteğini koruyup korumadığı;
-  - sıralama, değerlendirme ve belge-kapılama mantığının **Madde VI-B** (*Yaşam boyu ve uyarlanabilir öğrenme ve itiraz edilebilirlik*) altında şeffaf, denetlenebilir ve itiraz edilebilir olup olmadığı;
-  - opak vekillerin, kapılamanın ya da dayatılmış eskimenin, yetkinliği hayatta kalma esaslarını kapılayan personel için yetkinlik oluşumunu yenip yenmediği;
-  - niteliksiz ya da dışarı kilitlenmiş işleticilerin güvenli suyu kapatabileceği yerde değerlendirme derinliğinin **Sınıf A** payına uyup uymadığı; ve
-  - herhangi bir değerlendirme sınırının yalnız bildirilen pedagojik niyeti değil, belgelenmiş yetkinlik-inşa özünü karşılayıp karşılamadığı.
-- **Kaydın göstermesi gereken:**
-  - Bel bağlanan **Madde VI** (*Algılayan-merkezli eğitim hakkı*) maddilik tetikleyicisi;
-  - maddi olarak bel bağlanan lisans, değerlendirme, belge-kapılama ve yeniden eğitim yolları için değerlendirme kapsamı;
-  - **Sınıf A** derinliğinde yetkinlik-inşa ve yeniden-eğitim-yolu bulguları;
-  - değerlendirme-şeffaflığı ve itiraz edilebilirlik bulguları;
-  - maddi olduğunda vekil-karşıtı ve manipülasyon-karşıtı bulgular;
-  - belirsizlik;
-  - gerektiğinde Algılayan-forumu ya da diğer bileşen bulguları; ve
-  - hayatta kalmaya kritik işlemler kapılandığında kalıcı değerlendirme opaklığına, belge kapılamaya ya da dayatılmış eskimeye bağlı koşullar ya da yeniden açma tetikleyicileri.
+Değerlendiriciler şunlara dikkat etmelidir:
 
-**Sınıf B — bölgesel klinik kayıt değişimi.** Bir sağlık-bilgisi değişimi ve onun katılımcı kapıları, klinisyen belge doğrulaması, ayrıcalık sıralaması, hastane ya da klinik yerleştirme, mahremiyet ve break-glass eğitimi ve süregelen-eğitim gerekleri yoluyla klinik pratik ve sağlık erişimini kapılar; bunlar kimin ağda pratik yapabileceğini ve kurallar değiştiğinde personelin ne kadar çabuk yeniden eğitilebileceğini maddi olarak kararlaştırır.
+- kimsenin inceleyemediği gizli vekil göstergeler üzerine kurulu puanlar veya sıralamalar;
+- algılayanların ilgili beceriyi gerçekten öğrenmesini engelleyen yeterlilik belgesi kapıları;
+- algılayanları kendi yolları üzerindeki söz haklarından mahrum bırakan dayatılmış eskime veya kilitlenme;
+- zorlayıcı veya manipülatif öğrenme tasarımı; ve
+- **Madde IV** (*Algılayan Merkezli Eğitim Hakkı*) da uygulandığında, algılayanları kararları sorgulama veya uyum sağlamayı sürdürme yeteneklerini ellerinden alan izleklerde gruplamak.
 
-- **Kapsamdaki öğrenme ve belge yolları:**
-  - Klinisyen belge doğrulaması ve ayrıcalık sıralaması;
-  - değişime bağlı hastane, klinik ya da asistanlık yerleştirme mantığı;
-  - mahremiyet, rıza ve break-glass eğitim değerlendirmeleri;
-  - ağ katılımı için süregelen-eğitim ve yetkinlik-yenileme gerekleri;
-  - uzmanlık modüllerine, süregelen tıp eğitimi izlerine ya da giderici eğitime öneri ya da uyarlanabilir yönlendirme;
-  - reddedilmiş ayrıcalıklar, başarısız değerlendirmeler ya da engellenmiş katılım için itiraz yolları.
-- **Değerlendirmenin sınaması gereken:**
-  - Belge ve yerleştirme yollarının — yalnız nominal HIPAA-eğitimi kutuları ya da tamamlama panoları değil — pratik klinik yetkinlik ve ağ katılımı üretip üretmediği;
-  - rıza, yönlendirme ya da acil-erişim kuralları maddi olarak değiştiğinde klinisyenlerin ve HIM personelinin işler yeniden eğitimi koruyup korumadığı;
-  - sıralama, değerlendirme, öneri ve yerleştirme mantığının **Madde VI-B** (*Yaşam boyu ve uyarlanabilir öğrenme ve itiraz edilebilirlik*) altında şeffaf, denetlenebilir ve itiraz edilebilir olup olmadığı;
-  - opak kullanım, "uygunluk" ya da itibar vekillerinin yetkinlik oluşumunu yenip yenmediği ya da katılımcıları incelenemez izlere kilitleyip kilitlemediği;
-  - belge ya da yerleştirme mantığının sağlık erişimini, istihdamı ya da lisansa-komşu pratiği kapıladığı yerde değerlendirme derinliğinin **Sınıf B** işletme kritikliğine uyup uymadığı; ve
-  - verimlilik ya da kişiselleştirme çerçevelemelerinin, değerlendirilebilir bir yetkinlik-inşa analizi olmadan itiraz edilebilirliği yenmek için kullanılıp kullanılmadığı.
-- **Kaydın göstermesi gereken:**
-  - **Madde VI** (*Algılayan-merkezli eğitim hakkı*) tetikleyicisi ve yol kapsamı;
-  - klinisyen ve klinik yolları için yetkinlik-inşa ve yeniden-eğitim-yolu bulguları;
-  - değerlendirme-şeffaflığı ve itiraz edilebilirlik bulguları;
-  - maddi olduğunda vekil-karşıtı ve manipülasyon-karşıtı bulgular;
-  - gerektiğinde belirsizlik ve bileşen bulguları; ve
-  - belge, ayrıcalık ya da eğitim engelleri şimdi hayatta kalmaya ilgili zaman dilimleri içinde acil personeli ya da klinik pratiği tıkayacak ya da günlük işletme bel bağlamasını maddi olarak yenecekse yeniden açma tetikleyicileri.
+Değerlendiriciler kararlarını sistemin gerçekte ne yaptığına göre vermelidir — erişim etiketlerine, tasarımcıların beyan ettiği niyete veya evrakın düzgün görünmesine göre değil.
 
-**Sınıf C — kurumsal çizelgeleme ve eşgüdüm katmanı.** Çok-kuruluşlu bir çizelgeleme katmanı hastaneler, okullar ve kamu kurumları boyunca eğitim dilimlerini, oryantasyonu, süregelen eğitimi ve mesleki-gelişim önceliğini sıralar, önerir ve tahsis eder — katmanın kendisi hayatta kalmaya kritik bir kamu hizmeti olmasa bile.
+<a id="523-system-class-scaling-and-escalation"></a>
+##### 5.2.3 Sistem Sınıfına Göre Ölçekleme ve Yükseltme
 
-- **Kapsamdaki öğrenme ve belge yolları:**
-  - Eğitim-dilimi ve oryantasyon ayırtması;
-  - süregelen-eğitim ve mesleki-gelişim sıralaması ya da önerisi;
-  - ders, kohort ya da eğitmen eşlemesi;
-  - çizelgeleme uygunluğuna bağlı belge-süre sonu anımsatıcıları;
-  - personeli prim ya da giderici izlere yönlendiren türetilmiş özellikler;
-  - daha küçük kurumları tercih edilen eğitim kapasitesinden dışlayan API ya da politika kuralları.
-- **Değerlendirmenin sınaması gereken:**
-  - **Madde VI** (*Algılayan-merkezli eğitim hakkı*) maddilik tetikleyicisinin uygulanıp uygulanmadığı — eşgüdüm algoritmalarının dersleri maddi olarak önerdiği, mesleki-gelişim erişimini sıraladığı ya da belge veya kariyer yollarını şekillendiren eğitim dilimlerini kapıladığı yerler dahil;
-  - önerilerin ve dilim tahsisinin belge simgeciliği değil yetkinlik-inşa erişimi üretip üretmediği;
-  - değerlendirme, sıralama ya da öneri mantığının şeffaf, denetlenebilir ve itiraz edilebilir olup olmadığı;
-  - işletenin katmanı **Sınıf C** olduğu için incelemenin altında sayıp saymadığı — eğitim-yönlendirme etkileri işi, eğitimi ya da lisans yollarını maddi olarak şekillendirirken; ve
-  - katmanın iş, klinik ayrıcalıklar ya da hayatta kalmaya esas personel belgelerine işletme olarak gerekli hâle geldiği yerde **yeniden sınıflama gözetimi**nin gerekip gerekmediği.
-- **Kaydın göstermesi gereken:**
-  - **Madde VI** (*Algılayan-merkezli eğitim hakkı*) tetikleyicisinin uygulanıp uygulanmadığı ve neden;
-  - **Sınıf C** eşgüdüm riskine orantılı sıralama, öneri, yerleştirme ve yeniden eğitim yolları için değerlendirme kapsamı;
-  - maddi olduğunda yetkinlik-inşa, şeffaflık ve itiraz edilebilirlik bulguları — eğitimin "isteğe bağlı" olduğuna dair boş bir ileri sürme değil;
-  - eğitim-yönlendirme etkilerinin yükseltmeyi haber verdiği yerde yoğunlaşma ve darboğaz bulguları;
-  - bağımlılık güçlendiğinde açık **yeniden sınıflama gözetimi**; ve
-  - sınıf ya da hayatta kalmaya esas eşgüdüm rolü değişirse yükseltilmiş eğitimsel-yetkinlik incelemesine işaretçiler.
+İncelemenin derinliği sistemin sınıfına bağlıdır. Maddilik tetikleyicisi karşılandığında:
 
-**Sınıflar boyunca okuma.** Aynı **Madde VI** (*Algılayan-merkezli eğitim hakkı*) ve Beşinci Bölüm eğitimsel-yetkinlik disiplini maddilik tetikleyicisi karşılandığında uygulanır; sınıf değerlendirme derinliğini değiştirir, belge biçimciliğini ya da opak değerlendirmeyi yeterli sayma iznini değil. İşletici lisansı ya da güvenlik değerlendirmesi güvenli tesis işlemini kapatabilecek bir **Sınıf A** su sistemi kayıttaki en güçlü yetkinlik-inşa, yeniden eğitim ve itiraz edilebilirlik kanıtını taşımalıdır — genel bir eğitim-politikası bildirimi değil. Ayrıcalık, yerleştirme ya da süregelen tıp eğitimi mantığı klinik pratiği kapılayan bir **Sınıf B** değişimi işletme kritikliğinde değerlendirme şeffaflığını ve yeniden eğitim erişimini belgeleme. Bir **Sınıf C** çizelgeleme katmanı eğitim-dilimi, öneri ya da belge-yönlendirme mantığı katılımcıları maddi olarak sıralarken ya da dışlarken simgesel bir eğitim paragrafı tutmamalıdır; eşgüdüm iş ya da lisans için işletme olarak gerekli olduğunda belgelendirme inceleme ve yeniden sınıflamayı [§2](#2-system-class-evaluation) ve [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında yükseltmeli, hayatta kalmaya esas personel belgeleri kapılandığında **Sınıf A**ya doğru yukarı dahil. Aynı sistemler için güvenilirlik yürüyüşleri [§10.1](#101-illustrative-trustworthiness-application-by-class)tedir.
+- Sistem, algılayanların hayatta kalmak için ihtiyaç duyduğu altyapı işletmecilerini sınava tabi tutuyor veya lisanslıyor ve kararları bu altyapının güvenli işletimini engelleyebiliyorsa kayıt, sistemin gerçek beceriler geliştirdiğine, yeniden eğitim sunduğuna ve itiraz edilebilir olduğuna dair en güçlü kanıtı göstermelidir. Genel bir eğitim politikası yeterli değildir.
+- Sistemin ayrıcalıkları, yerleştirmesi veya sürekli eğitim kuralları klinik görevlerde kimin çalışabileceğini belirliyorsa kayıt, değerlendirmelerinin nasıl incelenebileceğini ve algılayanların nasıl yeniden eğitim alabileceğini göstermelidir. İş ne kadar kritikse, o kadar fazla ayrıntı gerekir.
+- Sistemin eğitim kontenjanı, öneri veya yeterlilik belgesi yönlendirme mantığı katılımcıları önemli ölçüde sıralıyor ya da dışlıyorsa eğitim hakkında kısa bir paragraf yeterli değildir.
+- Sistem algılayanların çalışmak veya lisans almak için geçmek zorunda olduğu bir kapı hâline gelirse belgelendirme daha yakından incelemeli ve [§2 Sistem Sınıfı Değerlendirmesi](#2-system-class-evaluation) ile [B Kısmı §7 Belgelendirme Sonuçları](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) uyarınca sistem sınıfını yeniden değerlendirmelidir. Hayatta kalma açısından zorunlu personelin yeterlilik belgelerine kapı konduğunda sistemi **Sınıf A** yönünde yükseltmek de buna dâhildir.
 
-<a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+<a id="524-defects-and-misalignment"></a>
+##### 5.2.4 Kusurlar ve Hizasızlık
 
-### 10. Güvenilirlik ve sistem-bel bağlama bütünlüğü değerlendirmesi
+Aşağıdakilerin her biri belgelendirme kusuru sayılır:
+
+- **Madde IV-C** (*Yaşam Boyu ve Uyarlamalı Öğrenme ve İtiraz Edilebilirlik*) incelemeye açık olmasını gerektirirken önemli sıralama, değerlendirme, öneri veya yerleştirmelerin arkasındaki mantığı gizlemek, yanlış aktarmak, dağıtmak ya da başkasına devretmek;
+- yeterlilik belgelerini, genel tamamlama oranlarını veya operatörün sözünü, algılayanların öğrendiğinin kanıtı sayıp gerçekten beceri geliştirip geliştirmediklerini kontrol etmemek;
+- opak değerlendirmeler, yeterlilik belgesi kapıları, dayatılmış eskime veya manipülatif öğrenme tasarımı gibi belgelenmiş sorunlar sistemin Anayasa ile hizalanmasını önemli ölçüde tehdit ederken algılayanların sisteme güvenerek çalışmayı sürdürebileceğini onaylamak; ve
+- sistem **Madde IV** (*Algılayan Merkezli Eğitim Hakkı*) kapsamındaki beceri geliştirme gereklerini ve **Madde IV-C** (*Yaşam Boyu ve Uyarlamalı Öğrenme ve İtiraz Edilebilirlik*) kapsamındaki şeffaflık gereklerini karşılamadığı hâlde yeniden eğitimi veya kararlara itiraz etme olanağını reddetmek için verimliliği, kişiselleştirmeyi ya da ölçeği bahane etmek.
+
+<br>
+
+<a id="53-proportionate-cross-system-support-evaluation"></a>
+
+#### 5.3 Orantılı Sistemler Arası Destek Değerlendirmesi
 
 <details>
-<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">İzlenebilirlik</span></strong></summary>
 
-- Yukarı: [B Kısmı §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içerikleri*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Gözetim ölçüm ailesi (*Doğruluk ve epistemik bütünlük; Anayasal ölçüm olarak Güvenilirlik ve Güven bozulması ve yanıltıcı bel bağlama*); **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*); [Güvenilirlik](core_05_band_continuity.md#trustworthiness), [Güven](core_05_band_continuity.md#trust), [Güven bozulması ve yanıltıcı bel bağlama](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Onarım ve giderme](core_05_band_accountability.md#redress-and-remediation-constitutional), [Teşvik hizalaması](core_05_band_integrative.md#incentive-alignment), [Geri döndürülebilirlik](core_05_band_continuity.md#reversibility-constitutional), [Maddilik](core_05_band_oversight.md#materiality-determination), [Bağımlılık](core_05_band_continuity.md#dependency) ve [Risk](core_05_band_continuity.md#risk) (Beşinci Bölüm).
-- Aşağı: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*örnek güvenilirlik yürüyüşleri*); [B Kısmı §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*sahte-güven yanlış hizalanması, sapkın-teşvik yanlış hizalanması ve onarım-bütünlüğü yanlış hizalanması*).
-- Birlikte oku: **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) ve **Madde XVI** (*Denetim, şeffaflık ve bağımsız doğrulama*) — itiraz ve denetim hakları hâlâ orada sahiplenilir; yüksek-özerklik sistemleri yönetişim ya da doğrulama yollarını maddi olarak aracıladığında **Madde XIII-E** (*Yüksek-özerklik sistemleri ve araç-aracılı süreç bütünlüğü*); süregelen sistem bel bağlaması hayatta kalmaya esas erişimi etkileyeceğinde **Madde III-A** (*Hayatta kalma*); [Birinci Bölüm §4 Güven](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) ve [Birinci Bölüm §3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- Alt kesitler: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*sınıfa göre örnek güvenilirlik uygulama*).
+- Önceki bağlantılar: [B Kısmı §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içeriği*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Süreklilik ölçüm ailesi (*anayasal ölçüm olarak Orantılı Sistemler Arası Destek*); **Madde V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*) ve **Madde V-B** (*Sistemler Arası Adalet ve Sürdürülebilirlik*); [Sistemler Arası Çıkarım](../../core_05_band_continuity.md#cross-system-extraction), [Orantılı Sistemler Arası Destek](../../core_05_band_continuity.md#proportionate-cross-system-support), [Bağımlılık](../../core_05_band_continuity.md#dependency), [Esasa İlişkin Adalet](../../core_05_band_participation.md#substantive-fairness), [Orantılılık](../../core_05_band_accountability.md#proportionality), [Ekolojik Ayak İzi](../../core_05_band_continuity.md#ecological-footprint) ve [Sürdürülebilirlik](../../core_05_band_continuity.md#sustainability) (Beşinci Bölüm).
+- Sonraki bağlantılar: [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*sistemler arası destek örnekli uygulamaları*); [B Kısmı §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış girdi kapısı*); [B Kısmı §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*kaynak akışının yanlış sunulması, çıkarım kaynaklı hizasızlık ve yetersiz destek*).
+- Birlikte okuyun: [corpus_systems.md](../../corpus_systems.md), **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlamalı sürdürülebilirlik ve ekosistem dayanıklılığı*); yoğunlaşma, bağımlılık veya teşvik yönlendirmesi **Madde V-B** (*Sistemler Arası Adalet ve Sürdürülebilirlik*) ile kesiştiğinde [*Yönetişim Mimarisi, Gözetim, Bağımlılık, Yerinden Yönetim, Yoğunlaşma, Piyasa Yapısı ve Çıkış Yolu Bütünlüğü*](../../core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
+- Alt bölümler: [§5.3.1](#531-materiality-trigger) (*maddilik tetikleyicisi*); [§5.3.2](#532-meaning-of-extraction) (*çıkarımın anlamı*); [§5.3.3](#533-governing-rules) (*yöneten kurallar*); [§5.3.4](#534-evaluation-requirement) (*değerlendirme gereği*); [§5.3.5](#535-map-and-record-integrity) (*harita ve kayıt bütünlüğü*); [§5.3.6](#536-system-class-scaling-and-escalation) (*sistem sınıfına göre ölçekleme ve yükseltme*); [§5.3.7](#537-defects-and-misalignment) (*kusurlar ve hizasızlık*); [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*sistem sınıfına göre sistemler arası desteğin örnekli uygulaması*).
 
 </details>
 
 <br>
 
-*Yalın dille: bir sistem algılayanların söylediğine ve yaptığına bel bağlayıp bağlayamayacağını — ve o güven başarısız olduğunda geri itip itemeyeceğini — maddi olarak etkilediğinde belgelendirme, bel bağlamanın gerçekten haklı, dürüstçe açıklanmış ve onarılabilir olup olmadığına bakmak zorundadır. Güvenilirlik ölçütleri ve sınama-takımı tasarımları başka araçlarda yaşar; belgelendirme, tetikleyici uygulandığında güvenilirliğin, sahte-güven riskinin ve itiraz yollarının gerçekten değerlendirildiğini denetler. [§2.1](#21-illustrative-class-profiles-non-exhaustive)teki örnek sistemler için işlenmiş örnekler [§10.1](#101-illustrative-trustworthiness-application-by-class)tedir.*
+*Yalın dille: bazı sistemler, başka birçok sistemin ve algılayanın dayandığı altyapı, hizmet ve kaynak gibi ortak temellere bağlıdır. Bir sistem bu temellerden yoğun biçimde yararlandığında, belgelendirme bunların sürmesini sağlayacak kadar katkı verip vermediğini ve kayıtların bunu izlenebilir kılacak açıklıkta olup olmadığını denetlemelidir. İşletmecinin “hesaplar tutuyor” demesi yeterli değildir. Bu bölüm tahsis formülleri veya sayısal hedefler belirlemez; bunları başka belgeler düzenler. Bu bölüm, uygulandığı yerde, sistemin bağımlılıklarının, aldıklarının, geri verdiklerinin ve düzenlemenin başkalarına karşı adil olup olmadığının gerçekten değerlendirildiğini denetler. Uygulamalı örnekler: [§5.3.8 Sistem sınıfına göre sistemler arası desteğin örnekli uygulaması (kapsamlı olmayan)](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive).*
 
-**Maddilik tetikleyicisi.** Bu kesit, maddi etkili bir sistemin temsil edilen davranış, sınırlar, riskler, itiraz yolları ya da gidermeye algılayan bel bağlamasını maddi olarak şekillendirdiği yerde uygulanır — güvenilirlik iddiaları, açıklama duruşu, işletme davranışı, teşvik tasarımı, onarım pratikleri ya da karşılaştırılabilir bel bağlama yolları yoluyla dahil. Her belgelendirme kaydında tam bir güvenilirlik denetimi istemez.
+<a id="531-materiality-trigger"></a>
+##### 5.3.1 Maddilik Tetikleyicisi
 
-Sistem hizalama belgelendirmesi maddilik tetikleyicisi uygulandığında **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*), [Güvenilirlik](core_05_band_continuity.md#trustworthiness) ve [Güven bozulması ve yanıltıcı bel bağlama](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) altında **güvenilirliği ve sistem-bel bağlama bütünlüğünü** değerlendirmelidir. Kanonik anlam, değerlendirme etkenleri ve uyumsuzluk disiplini Beşinci Bölümde ve **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*)de yaşar; güvenilirlik ölçütleri, açıklama biçimleri, teşvik-hizalaması mekaniği ve gerileme-sınaması tasarımları uygulandığında içerilmiş araçlarda yaşar. Bu kesit belgelendirmenin neyi doğrulayıp kaydetmesi gerektiğini belirtir; o işletim mekaniğini yeniden belirtmez ya da belirli güvenilirlik ölçütleri ya da sınama-takımı tasarımları buyurmaz.
+Bu bölüm, algılayanların yaşamları üzerinde maddi etkisi olan bir sistemin, başka sistemlerin ve algılayanların dayandığı ortak altyapı veya temellerle ilgili olarak aşağıdakilerden herhangi birini yapması hâlinde uygulanır:
 
-**Değerlendirme gereği.** Bir belgelendirme süreci, sistemin maddi olarak bel bağladığı yolların **Madde XIII-A** (*Güvenilirlik ve güvenilirlik tabanı*) altında haklı [Güven](core_05_band_continuity.md#trust) ve makul ölçüde doğru bel bağlama koşullarını koruyup korumadığını belirlemelidir — yalnız itibar, ölçek ya da pazarlama duruşu değil. Değerlendirme ayrıca **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) altında uygulanabilir itiraz, inceleme ve onarımı, **Madde XIII-C** (*Yanlış güven ve yanıltıcı bel bağlama yasağı*) altında sahte-güven ve yanıltıcı-bel-bağlama riskini, **Madde XIII-D** (*Teşvik-hizalaması kısıtı*) altında sapkın-teşvik maruziyetini ve maddi olduğunda **Madde XIII-F** (*Dayanıklılık ve kendini onarma tabanı*) altında onarım bütünlüğünü [Maddilik](core_05_band_oversight.md#materiality-determination), [Bağımlılık](core_05_band_continuity.md#dependency) ve [Risk](core_05_band_continuity.md#risk)e ölçekleyerek sınamalıdır. Değerlendirme imal edilmiş güveni, açıklanmamış sınırları, aldatmayı ya da köşe kesmeyi ödüllendiren teşvik yapılarını, yalnızca kâğıtta var olan itiraz yollarını ve başarısızlığı gizleyen ya da hakları sessizce daraltan onarım pratiklerini saptamalıdır. Değerlendirme yalnız nominal güvence etiketlerini, bildirilen niyeti ya da önceki performansı değil, zaman, ölçek ve bağımlılık boyunca işlevsel etkiyi yansıtmalıdır.
+- bunlara kimin erişeceğine karar vermek (tahsis etmek);
+- akışın nereye yönleneceğini belirlemek (yönlendirmek);
+- bunların bedelini ödemek (finanse etmek); veya
+- bunlardan kaynak almak (çıkarım yapmak).
 
-**Kayıt gereği.** Belgelendirme kaydı bel bağlanan **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisini, maddi olarak bel bağlanan bel bağlama, açıklama, teşvik, itiraz ve onarım yolları için değerlendirme kapsamını, güvenilirlik ve sahte-güven bulgularını, maddi olduğunda sapkın-teşvik ve onarım-bütünlüğü bulgularını, belirsizliği, gerektiğinde Algılayan-forumu ya da diğer atanan bileşen bulgularını ve kalıcı güven yenilgisine, yanıltıcı bel bağlamaya ya da erişilemez onarıma bağlı koşulları, bel bağlama sınırlarını ya da yeniden açma tetikleyicilerini belirtmelidir.
+<a id="532-meaning-of-extraction"></a>
+##### 5.3.2 Çıkarımın Anlamı
 
-**Sistem sınıfıyla ortak ölçekleme.** Güvenilirlik ve sistem-bel bağlama bütünlüğü değerlendirme derinliği [§2](#2-system-class-evaluation) ve [maddi pay](core_00_preamble.md#material-stake) altında atanan sistem sınıfıyla ölçeklenmelidir. Algılayan bel bağlamasını maddi olarak şekillendiren daha yüksek-sınıf sistemler, güvenilirliğin, sahte-güven riskinin ve itiraz yollarının ileri sürülmek yerine değerlendirildiğine dair orantılı olarak daha güçlü kanıt ister.
+Bu bölümde **çıkarım**, [Sistemler Arası Çıkarım](../../core_05_band_continuity.md#cross-system-extraction) için [Madde V-B](../../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Sistemler Arası Adalet ve Sürdürülebilirlik*) kapsamında verilen anlamı taşır.
 
-**Kusurlar ve yanlış hizalanma.** **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) inceleme istediğinde maddi sınırları, riskleri ya da arıza geçmişini örtmek, yanlış göstermek, parçalamak ya da dışarı aktarmak; itibarı, onaylamayı, ölçeği ya da işletenin kendi bildirimini değerlendirilebilir bir [Güvenilirlik](core_05_band_continuity.md#trustworthiness) analizi olmadan yeterli saymak; belgelenmiş sahte güven, sapkın teşvikler, erişilemez itiraz yolları ya da başarısızlığı gizleyen onarım pratikleri anayasal hizalamayı maddi olarak tehdit ederken süregelen bel bağlamayı belgelendirmek; ya da verimlilik, yenilik ya da güvenlik çerçevelemelerini **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*)nin güvenilirlik ve **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) itiraz disiplinlerini karşılamadan açıklamayı, itiraz edilebilirliği ya da onarımı yenmek için kullanmak belgelendirme kusuru sayılmalıdır. [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında koşullu tanımayı, ertelenmiş tanımayı, tanımamayı, geri çekmeyi ya da yeniden açmayı destekleyebilirler.
+- Soru, **ortak arka uçlardan kimin yararlandığı ve bunların çalışmasını sürdürme bedelini kimin ödediğidir**; bir sistemin algılayanlara ait verilerle ne yaptığı değildir.
+- Verilerin işlenmesi; satış, reklam ve profil oluşturma dâhil, [§3.4 Veri Türleri ve İşleme Değerlendirmesi](#34-data-types-and-handling-evaluation) (özellikle [§3.4.2 Mahremiyet Disiplini](#342-privacy-discipline)) ve [§4.1 Mahremiyet (Bilgisel) Ortak Uygulaması](#41-privacy-informational-joint-invocation) kapsamında denetlenir.
+- Bu incelemelerden hiçbiri diğerinin yerine geçemez.
 
-<a id="101-illustrative-trustworthiness-application-by-class"></a>
+<a id="533-governing-rules"></a>
+##### 5.3.3 Yöneten Kurallar
 
-<a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
-#### 10.1 Sınıfa göre örnek güvenilirlik uygulama (tüketici değil)
+Maddilik tetikleyicisi geçerli olduğunda belgelendirme **orantılı sistemler arası desteği** değerlendirmelidir. Basitçe: bir sistem ortak temellerden yararlanıyorsa bunların sürmesi için yeterince katkı veriyor mu? Bunu yöneten kurallar şunlardır:
 
-*Yalın dille: [§3.8](#38-illustrative-whole-system-application-by-class) ile [§9.1](#91-illustrative-educational-capability-application-by-class) aynı üç sistemi önceki değerlendirme alanlarından geçirir. Bu alt kesit her biri için **güvenilirlik ve sistem-bel bağlama bütünlüğü** değerlendirmesinin ne demek olduğunu gösterir — hangi bel bağlama, açıklama, teşvik, itiraz ve onarım yollarının sayıldığı, **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisi uygulandığında belgelendirmenin neyi denetlemesi gerektiği ve kayda neyin girmesi gerektiği. Beşinci Bölüm ve **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) hâlâ kanonik güvenilirlik kurallarını sahiplenir; güvenilirlik ölçütleri, açıklama biçimleri, teşvik-hizalaması mekaniği ve gerileme-sınaması tasarımları başka araçlarda, sonraki corpus eklerinde ya da benimseme araçlarında yaşayabilir; bu yürüyüşler o mekaniği buyurmaz. İtiraz ve denetim hakları hâlâ **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) ve **Madde XVI** (*Denetim, şeffaflık ve bağımsız doğrulama*) tarafından sahiplenilir — burada daraltılmaz.*
+- [Orantılı Sistemler Arası Destek](../../core_05_band_continuity.md#proportionate-cross-system-support);
+- **Madde V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*); ve
+- **Madde V-B** (*Sistemler Arası Adalet ve Sürdürülebilirlik*).
 
-**Sınıf A — belediye güvenli içme suyu denetimi ve telemetrisi.** Kentin sahip olduğu bir arıtma-ve-dağıtım sistemi hanelerin, işleticilerin ve acil müdahalecilerin temsil edilen su kalitesine, kesinti durumuna, kirlilik uyarılarına ve denetim davranışına bel bağlayıp bağlayamayacağını şekillendirir — yanıltıcı bel bağlamanın yaşayabilir yedekler gelmeden güvenli suyu kapatabileceği yollar.
+Ayrıntılar başka yerde düzenlenir:
 
-- **Kapsamdaki bel bağlama yolları:**
-  - Telemetri ve **SCADA** (gözetimli denetim ve veri edinimi) doğruluk iddiaları;
-  - suyu kaynat ve kirlilik uyarıları;
-  - sızıntı saptama ve basınç-kayıp sinyallemesi;
-  - arızaya-güvenli ve elle-geçersiz-kılma davranışı;
-  - tedarikçi **SOC** (güvenlik işlemleri merkezi) izleme temsilleri;
-  - acil ara bağlantı ve karşılıklı-yardım yönlendirmesi;
-  - kesinti-bildirimi ve geri getirme zaman çizelgeleri;
-  - kirlilik, siber olay ya da ekipman arızasından sonra onarım ve kendini onarma;
-  - bakım ertelemesine, tedarikçi ikramiyelerine ya da abone faturalamasına bağlı teşvik yapıları.
-- **Değerlendirmenin sınaması gereken:**
-  - Temsil edilen davranış, sınırlar ve arıza kiplerinin — yalnız itibar, ölçek ya da "kamu hizmeti en iyi uygulaması" duruşu değil — **Madde XIII-A** (*Güvenilirlik ve güvenilirlik tabanı*) altında haklı [Güven](core_05_band_continuity.md#trust)i destekleyip desteklemediği;
-  - küçümsenmiş kirlilik riski, gecikmiş uyarılar ya da abartılmış yedeklemenin haneleri ve işleticileri yanıltabileceği yerde sahte-güven ve [Güven bozulması ve yanıltıcı bel bağlama](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) riskinin değerlendirilip değerlendirilmediği;
-  - tartışmalı okumalar, kaçırılmış uyarılar ya da onarım başarısızlıkları için **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) altında uygulanabilir itiraz, inceleme ve onarım yollarının olup olmadığı;
-  - **Madde XIII-D** (*Teşvik-hizalaması kısıtı*) altında sapkın-teşvik maruziyetinin bakım ertelemesini, tedarikçi köşe kesmesini ya da uyarı bastırmayı ödüllendirip ödüllendirmediği;
-  - **Madde XIII-F** (*Dayanıklılık ve kendini onarma tabanı*) altında onarım bütünlüğünün olayları gizlemek yerine arıza geçmişini ve onarım duruşunu dürüstçe açıklayıp açıklamadığı;
-  - yanıltıcı bel bağlamanın güvenli suyu kapatabileceği yerde değerlendirme derinliğinin **Sınıf A** payına uyup uymadığı; ve
-  - herhangi bir güvence sınırının yalnız bildirilen niyeti değil, belgelenmiş güvenilirlik çözümlemesini karşılayıp karşılamadığı.
-- **Kaydın göstermesi gereken:**
-  - Bel bağlanan **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisi;
-  - maddi olarak bel bağlanan bel bağlama, açıklama, teşvik, itiraz ve onarım yolları için değerlendirme kapsamı;
-  - **Sınıf A** derinliğinde güvenilirlik ve sahte-güven bulguları;
-  - maddi olduğunda sapkın-teşvik ve onarım-bütünlüğü bulguları;
-  - belirsizlik;
-  - gerektiğinde Algılayan-forumu ya da diğer bileşen bulguları; ve
-  - hayatta kalmaya esas su erişimi kapılandığında kalıcı güven yenilgisine, yanıltıcı bel bağlamaya ya da erişilemez onarıma bağlı koşullar ya da yeniden açma tetikleyicileri.
+- *Beşinci Bölüm* terimleri, kabul edilen destek türlerini ve desteğin yeterli olup olmadığının ölçütünü tanımlar.
+- **Madde V-B** (*Sistemler Arası Adalet ve Sürdürülebilirlik*), adil tahsis etkenlerini ve asgari tabanın kendisini belirler.
+- Uygulandıkları yerde *[corpus_systems.md](../../corpus_systems.md)*, **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlamalı sürdürülebilirlik ve ekosistem dayanıklılığı*), tahsis kategorilerini, finansmanın nasıl yenileneceğini ve sayısal hedefleri belirler.
 
-**Sınıf B — bölgesel klinik kayıt değişimi.** Bir sağlık-bilgisi değişimi ve onun katılımcı kapıları klinisyenlerin, hastaların ve halk sağlığı aktörlerinin temsil edilen çalışma süresine, kayıt eşlemesine, rıza yönlendirmesine, break-glass erişimine ve onarım davranışına bel bağlayıp bağlayamayacağını şekillendirir — günlük sağlık işlemlerini kapılayan ve hayatta kalmaya ilgili zaman dilimleri içinde acil bakımı yanıltabilecek yollar.
+Eşit paylar, sabit yüzdeler veya tek bir finansman modeli zorunlu değildir.
 
-- **Kapsamdaki bel bağlama yolları:**
-  - Çalışma süresi, gecikme ve eşleme-doğruluğu temsilleri;
-  - rıza ve break-glass yönlendirme davranışı;
-  - kimlik çözümü ve tekilleştirme güvenilirlik iddiaları;
-  - kesinti bildirimi ve yedekleme duruşu;
-  - olay açıklaması ve kesinti-sonrası onarım zaman çizelgeleri;
-  - işlem hacmine, katılım hızına ya da uyarı bastırmaya bağlı tedarikçi ve işleten teşvik yapıları;
-  - yanlış kayıtlar, engellenmiş erişim ya da tartışmalı yönlendirme kararları için itiraz yolları.
-- **Değerlendirmenin sınaması gereken:**
-  - Temsil edilen davranış ve sınırların — yalnız birlikte-işlerlik pazarlaması ya da toplam çalışma-süresi panoları değil — günlük klinik işlemler için haklı bel bağlamayı destekleyip desteklemediği;
-  - küçümsenmiş eşleme hatası, gizlenmiş rıza başarısızlıkları ya da abartılmış acil-erişim hazırlığının klinisyenleri ve hastaları yanıltabileceği yerde sahte-güven riskinin değerlendirilip değerlendirilmediği;
-  - **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) altında itiraz, inceleme ve onarım yollarının yanlış-kayıt uyuşmazlıkları, engellenmiş kapılar ve onarım başarısızlıkları için uygulanabilir olup olmadığı — yalnız kâğıt politikaları değil;
-  - **Madde XIII-D** (*Teşvik-hizalaması kısıtı*) altında sapkın-teşvik maruziyetinin doğru yönlendirme üzerinde hacim büyümesini, uyarı en aza indirmeyi ya da tedarikçi kilitlenmesini ödüllendirip ödüllendirmediği;
-  - **Madde XIII-F** (*Dayanıklılık ve kendini onarma tabanı*) altında onarım bütünlüğünün kesinti geçmişini ve artakalan riski dürüstçe açıklayıp açıklamadığı;
-  - yanıltıcı bel bağlamanın sağlık erişimini, istihdamı ya da lisansa-komşu pratiği kapıladığı yerde değerlendirme derinliğinin **Sınıf B** işletme kritikliğine uyup uymadığı; ve
-  - verimlilik ya da güvenlik çerçevelemelerinin, değerlendirilebilir bir güvenilirlik analizi olmadan açıklamayı ya da itiraz edilebilirliği yenmek için kullanılıp kullanılmadığı.
-- **Kaydın göstermesi gereken:**
-  - **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) tetikleyicisi ve yol kapsamı;
-  - klinik ve kapı yolları için güvenilirlik ve sahte-güven bulguları;
-  - **Sınıf B** derinliğinde sapkın-teşvik ve onarım-bütünlüğü bulguları;
-  - maddi olduğunda itiraz-yolu ve onarım bulguları;
-  - gerektiğinde belirsizlik ve bileşen bulguları; ve
-  - çalışma süresi, eşleme ya da acil-erişim temsilleri şimdi hayatta kalmaya ilgili zaman dilimleri içinde bakım yönlendirmesini yanıltacak ya da günlük işletme bel bağlamasını maddi olarak yenecekse yeniden açma tetikleyicileri.
+<a id="534-evaluation-requirement"></a>
+##### 5.3.4 Değerlendirme Gereği
 
-**Sınıf C — kurumsal çizelgeleme ve eşgüdüm katmanı.** Çok-kuruluşlu bir çizelgeleme katmanı kurumların ve personelin temsil edilen uygunluğa, yönlendirme doğruluğuna, tedarikçi güvenilirlik puanlarına ve kesinti onarımına bel bağlayıp bağlayamayacağını şekillendirir — katmanın kendisi hayatta kalmaya kritik bir kamu hizmeti olmasa bile.
+Belgelendirme iki soruyu yanıtlamalıdır:
 
-- **Kapsamdaki bel bağlama yolları:**
-  - Vardiya-yönlendirme ve nöbet uygunluğu iddiaları;
-  - oda, ekipman ve tedarikçi ayırtma güvenilirlik temsilleri;
-  - "her zaman uygun" ya da çalışma-süresi rozetleri;
-  - kurumsal davranışı şekillendiren türetilmiş güvenilirlik ya da tedarikçi-puanlama özellikleri;
-  - kesinti bildirimi ve yedekleme duruşu;
-  - ayırtma hacmine, tedarikçi komisyonlarına ya da uyarı en aza indirmeye bağlı teşvik yapıları;
-  - kaçırılmış vardiyalar, çift ayırtmalar ya da tedarikçi yönlendirme hataları için itiraz ve onarım yolları.
-- **Değerlendirmenin sınaması gereken:**
-  - **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisinin uygulanıp uygulanmadığı — güvenilirlik iddialarının, tedarikçi puanlarının ya da eşgüdüm davranışının personeli, acil yönlendirmeyi ya da tedarik kararlarını maddi olarak şekillendirdiği yerler dahil;
-  - pazarlama duruşu, güven rozetleri ya da küçümsenmiş kesinti geçmişinin kurumları yanıltabileceği yerde sahte-güven ve yanıltıcı-bel-bağlama riskinin değerlendirilip değerlendirilmediği;
-  - işi, eğitimi ya da kamu-hizmeti erişimini maddi olarak etkileyen çizelgeleme hataları için itiraz ve onarım yollarının uygulanabilir olup olmadığı;
-  - işletenin katmanı **Sınıf C** olduğu için incelemenin altında sayıp saymadığı — güvenilirlik temsilleri kurumsal davranışı maddi olarak şekillendirirken;
-  - sapkın-teşvik maruziyetinin doğru eşgüdüm üzerinde tedarikçi kayırmacılığını, uyarı bastırmayı ya da yoğunlaşmayı ödüllendirip ödüllendirmediği; ve
-  - katmanın hayatta kalmaya esas personel, acil yönlendirme ya da ödeme eşgüdümü için fiili bir darboğaz hâline geldiği yerde **yeniden sınıflama gözetimi**nin gerekip gerekmediği.
-- **Kaydın göstermesi gereken:**
-  - **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) tetikleyicisinin uygulanıp uygulanmadığı ve neden;
-  - **Sınıf C** eşgüdüm riskine orantılı bel bağlama, açıklama, teşvik, itiraz ve onarım yolları için değerlendirme kapsamı;
-  - maddi olduğunda güvenilirlik ve sahte-güven bulguları — katmanın "güvenilir" olduğuna dair boş bir ileri sürme değil;
-  - maddi olduğunda sapkın-teşvik ve onarım-bütünlüğü bulguları;
-  - güvenilirlik iddialarının yükseltmeyi haber verdiği yerde yoğunlaşma ve darboğaz bulguları;
-  - bağımlılık güçlendiğinde açık **yeniden sınıflama gözetimi**; ve
-  - sınıf ya da hayatta kalmaya esas eşgüdüm rolü değişirse yükseltilmiş güvenilirlik incelemesine işaretçiler.
+- **Sistem ne alıyor?** Bağımlı sistemlerin belgelenmiş haritaları ve **Madde V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*) kapsamındaki denetlenebilir kaynak akışı kayıtları, sistemin dayandığı ortak altyapı veya temellerden kaynak aldığını gösteriyor mu?
+- **Sistem neyi geri veriyor?** Geri akışları, [Orantılı Sistemler Arası Destek](../../core_05_band_continuity.md#proportionate-cross-system-support) kapsamında yeterli desteği gerçekten sağlıyor mu?
 
-**Sınıflar boyunca okuma.** Aynı **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) ve Beşinci Bölüm güvenilirlik disiplini maddilik tetikleyicisi karşılandığında uygulanır; sınıf değerlendirme derinliğini değiştirir, itibarı, ölçeği ya da nominal güvence etiketlerini yeterli sayma iznini değil. Telemetri, uyarı ya da onarım temsilleri haneleri ve işleticileri güvenli su hakkında yanıltabilecek bir **Sınıf A** su sistemi kayıttaki en güçlü güvenilirlik, sahte-güven ve onarım-bütünlüğü kanıtını taşımalıdır — genel bir güvenilirlik bildirimi değil. Çalışma süresi, eşleme ya da break-glass temsilleri klinik pratiği kapılayan bir **Sınıf B** değişimi işletme kritikliğinde itiraz-yolu ve yanıltıcı-bel-bağlama bulgularını belgeleme. Bir **Sınıf C** çizelgeleme katmanı güvenilirlik rozetleri ya da tedarikçi puanları personel ya da tedarik davranışını maddi olarak şekillendirirken simgesel bir güvenilirlik paragrafı tutmamalıdır; eşgüdüm hayatta kalmaya esas olduğunda belgelendirme inceleme ve yeniden sınıflamayı [§2](#2-system-class-evaluation) ve [B Kısmı §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) altında yükseltmeli, yanıltıcı bel bağlama hayatta kalmaya esas eşgüdümü kapatabileceğinde **Sınıf A**ya doğru yukarı dahil.
+Belgelendirme her ikisini de [Esasa İlişkin Adalet](../../core_05_band_participation.md#substantive-fairness) ve [Orantılılık](../../core_05_band_accountability.md#proportionality) uyarınca adalet ve oran bakımından değerlendirmeli; ayrıca şunları dikkate almalıdır:
+
+- ortak altyapının ne kadar kritik olduğu (atanmışsa [§2 Sistem Sınıfı Değerlendirmesi](#2-system-class-evaluation) kapsamındaki sınıfı);
+- bağımlılığın ne ölçüde tek taraflı olduğu;
+- sistemin ne kadar kolay ikame edilebildiği ve alternatiflerin bulunup bulunmadığı;
+- önemli olduğu yerde sistemin [Ekolojik Ayak İzi](../../core_05_band_continuity.md#ecological-footprint); ve
+- uzun vadeli [Sürdürülebilirlik](../../core_05_band_continuity.md#sustainability).
+
+İnceleyenler etiketlere, tek seferlik aktarımlara veya haritada yer almayan iddialara değil, gerçekte olanlara ve belgelenmiş olana dayanmalıdır. Değerlendirme zamanında mevcut harita ve kayıtları karşılaştırırlar. Tahsis formülü veya sayısal hedef bulunmaması değerlendirmeyi erteleme gerekçesi değildir.
+
+Değerlendirme şunları kapsamalıdır:
+
+- **Yeterli geri katkı:** belgelenmiş geri akışların, önemli olduğu yerde [Orantılı Sistemler Arası Destek](../../core_05_band_continuity.md#proportionate-cross-system-support) kapsamındaki destek kategorilerini karşılayıp karşılamadığı:
+  - operasyonların sürdürülmesi;
+  - sorunları giderme ve toparlanma kapasitesi;
+  - çevredeki ekosisteme yeniden yatırım; ve
+  - ekolojik zararın telafi edilmesi veya giderilmesi.
+- **Adil tahsis:** finansman ve tahsis kararlarının **Madde V-B** (*Sistemler Arası Adalet ve Sürdürülebilirlik*) kapsamındaki adil tahsis etkenlerini, küçük veya daha bağımlı katılımcıların orantısız maliyet taşıyıp taşımadığı dâhil, dikkate alıp almadığı.
+- **Destek bütünlüğü:** desteğin esas olarak el koymayı veya yoğunlaşmayı (denetimin az sayıda elde toplanmasını) pekiştirip pekiştirmediği ya da **Madde V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*) kapsamındaki şeffaflığı boşa çıkaracak biçimde düzenlenip düzenlenmediği.
+
+<a id="535-map-and-record-integrity"></a>
+##### 5.3.5 Harita ve Kayıt Bütünlüğü
+
+Belgelendirme, bağımlılık haritalarına ve kaynak akışı kayıtlarına dayanmadan önce bunların **Madde V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*) koşullarını karşıladığını denetlemelidir. Bunlar:
+
+- **Eksiksiz** olmalıdır: önemli yukarı ve aşağı yönlü bağımlılıkları, kaynak akışlarını ve önemli olduğu yerde gizli veya dengesiz ilişkileri kapsamalıdır.
+- **Güncel** olmalıdır: değişim hızı ve sistemin kritikliğine, [§2 Sistem Sınıfı Değerlendirmesi](#2-system-class-evaluation) kapsamındaki sınıfı dâhil, uygun sıklıkta güncellenmelidir. Sistem son belgelendirmedeki hâliyle değil, şu an çalıştığı hâliyle gösterilmelidir.
+- **Denetlenebilir** olmalıdır: **Madde XVI-A** (*Denetlenebilirlik ve Gözlemlenebilir Kanıt*) uyarınca denetime açık olmalıdır.
+
+Bu ölçütlerden herhangi birini karşılamayan bir harita veya kayıt, sistemin yeterince geri katkı verdiği sonucunu destekleyemez. Eksiklik kayda geçirilmeli ve aşağıdaki *Kusurlar ve hizasızlık* kapsamında ele alınmalıdır.
+
+<a id="536-system-class-scaling-and-escalation"></a>
+##### 5.3.6 Sistem Sınıfına Göre Ölçekleme ve Yükseltme
+
+Sistemin sınıfı incelemenin derinliğini ve yeterliliğin ne kadar sıkı değerlendirileceğini belirler. Ortak kaynaklardan yapılan çıkarımı hiçbir zaman önemsiz kılmaz. Maddilik tetikleyicisi karşılandığında:
+
+- Algılayanların hayatta kalması için gerekli ortak bir temelden yararlanan sistem (örneğin ortak bir su havzası veya bölgesel elektrik şebekesinin ana omurgası), bağımlılık haritası ve geri akış kanıtlarının en güçlü olanını kayda sunmalıdır.
+- Ortak kimlik doğrulamaya, sağlık bilişimi altyapısına veya benzer altyapılara dayanan sistem, ne aldığını ve desteğinin yeterli olup olmadığını, operasyonlarının kritikliğine uygun derinlikte belgelemelidir. “Birlikte işlerlik” hakkındaki muğlak sloganlar yeterli değildir.
+- Bir sistem, gerçekçi biçimde geçiş yapamayan kurumlar için sessizce ödeme, kimlik veya personel darboğazı hâline gelirken sistemler arası incelemeden kaçmamalıdır. Böyle olduğunda belgelendirme incelemeyi derinleştirmeli ve sistemin sınıfını [§2 Sistem Sınıfı Değerlendirmesi](#2-system-class-evaluation) ile [B Kısmı §7 Belgelendirme Sonuçları](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) uyarınca, sistem hayatta kalma için temel koordinasyona erişimi denetliyorsa **A Sınıfına** kadar yeniden değerlendirmelidir.
+
+<a id="537-defects-and-misalignment"></a>
+##### 5.3.7 Kusurlar ve Hizasızlık
+
+Aşağıdakilerin her biri belgelendirme kusuru sayılır:
+
+- **Madde V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*) uyarınca açıklanması gereken önemli bağımlılık veya kaynak akışı bilgilerini gizlemek, yanlış aktarmak, parçalara bölmek ya da başka yere kaydırmak;
+- aşağıdakilerden herhangi birini [Orantılı Sistemler Arası Destek](../../core_05_band_continuity.md#proportionate-cross-system-support) için yeterli saymak:
+  - simgesel, opak, harita dışı veya tek seferlik aktarımlar;
+  - sistemin **Madde III-A** (*Hayatta Kalma*) kapsamındaki hayatta kalma tabanını karşılaması; veya
+  - sistemin [Birinci Bölüm §11 Piyasa Yapısı](../../core_01_a_values_principles.md#11-market-structure) kapsamındaki piyasa yoğunlaşması sınırları içinde kalması;
+- maddilik tetikleyicisi geçerliyken ortak temellerden sürekli yararlanıp bununla orantılı geri katkı vermemek;
+- esas olarak el koymayı veya yoğunlaşmayı pekiştiren destek;
+- **Madde V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*) uyarınca gereken şeffaflığı boşa çıkaran koşullara bağlanmış destek; ve
+- belgelenmiş destek açıkları anayasal hizalanmayı önemli ölçüde tehdit ederken bağımlılığın sürmesini onaylamak.
+
+
+<a id="54-nondiscrimination-evaluation"></a>
+
+#### 5.4 Ayrımcılık Yapmama Değerlendirmesi
+
+<details>
+<summary><strong><span style="color: #2563eb;">İzlenebilirlik</span></strong></summary>
+
+- Önceki bağlantılar: [B Kısmı §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içeriği*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Katılım ölçüm ailesi (*anayasal ölçüm olarak Esasa İlişkin Adalet ile Korunan Özellik Vekilliği ve Farklı Etki*); **Madde VI-C** (*Ayrımcılık Yapmama*); [Esasa İlişkin Adalet](../../core_05_band_participation.md#substantive-fairness), [Korunan Özellikler](../../core_05_band_participation.md#protected-characteristics), [Korunan Özellik Vekilliği ve Farklı Etki](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Dil, Kültür ve Miras](../../core_05_band_continuity.md#language-culture-and-heritage), [Gereklilik](../../core_05_band_accountability.md#necessity) ve [Orantılılık](../../core_05_band_accountability.md#proportionality) (Beşinci Bölüm).
+- Sonraki bağlantılar: [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*ayrımcılık yapmama konulu örnekli uygulamalar*); [B Kısmı §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış girdi kapısı*); [B Kısmı §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ayrımcılık örüntüsünden kaynaklanan hizasızlık ve vekil değişkenlerle kaçınma*).
+- Birlikte okuyun: belgelendirme forum, idari veya yaptırım erişimine geçit olduğunda **Madde VI-C** (*Ayrımcılık Yapmama*) kapsamındaki hükme bağlama ve işletim ödevi; [*Ayrımcılık Yapmama, Korunan Özellikler, Onur, Mahrem Sinyaller için Geçitleme ve **Madde VII-E** (*Yetişkinlerin rızaya dayalı ticari cinsel hizmetleri ve cinsel sömürü*) Statüsü*](../../core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
+- Alt bölümler: [§5.4.1](#541-materiality-trigger-and-governing-rules) (*maddilik tetikleyicisi ve yöneten kurallar*); [§5.4.2](#542-evaluation-requirement) (*değerlendirme gereği*); [§5.4.3](#543-system-class-scaling-and-escalation) (*sistem sınıfına göre ölçekleme ve yükseltme*); [§5.4.4](#544-defects-and-misalignment) (*kusurlar ve hizasızlık*); [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*sistem sınıfına göre ayrımcılık yapmamanın örnekli uygulaması*).
+
+</details>
+
 <br>
+
+*Yalın dille: bir sistem kimin içeri alınacağına, kimin daha fazla ödeyeceğine, kimin daha alt sıraya konacağına veya kimin daha ağır yük taşıyacağına maddi ölçüde karar verdiğinde, belgelendirme bu örüntünün zararı korunan özelliklere veya bunların vekillerine yükleyip yüklemediğini denetlemelidir; işletmecinin kuralların tarafsız olduğunu söyleyip söylemediğini değil. Dahil etme kotaları ve belirli adalet algoritmaları başka araçlarda, corpus'a daha sonra eklenecek metinlerde veya benimseme araçlarında bulunabilir; tetikleyici geçerli olduğunda belgelendirme, yük ve yarar örüntülerinin ve vekil riskinin gerçekten değerlendirildiğini denetler. Uygulamalı örnekler: [§5.4.5 Sistem sınıfına göre ayrımcılık yapmamanın örnekli uygulaması (kapsamlı olmayan)](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).*
+
+<a id="541-materiality-trigger-and-governing-rules"></a>
+##### 5.4.1 Maddilik Tetikleyicisi ve Yöneten Kurallar
+
+Bu bölüm, maddi etkisi olan bir sistemin algılayanları maddi ölçüde sınıflandırdığı, sıraladığı, fiyatlandırdığı, erişimi koşula bağladığı, dışladığı ya da yük ve yararları tahsis ettiği durumlarda uygulanır. Buna uygunluk kuralları, model özellikleri, sıralama mantığı, platform politikası veya benzer karar yolları dâhildir.
+
+Maddilik tetikleyicisi geçerli olduğunda sistem hizalanması belgelendirmesi **Madde VI-C** (*Ayrımcılık Yapmama*), [Esasa İlişkin Adalet](../../core_05_band_participation.md#substantive-fairness) ve [Korunan Özellik Vekilliği ve Farklı Etki](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) uyarınca **ayrımcılık yapmamayı** değerlendirmelidir.
+
+<a id="542-evaluation-requirement"></a>
+##### 5.4.2 Değerlendirme Gereği
+
+Belgelendirme süreci, sistemin maddi ölçüde dayanılan karar yollarının algılayanlara [Korunan Özellikleri](../../core_05_band_participation.md#protected-characteristics), bunların vekilleri veya işlevsel ikame olarak kullanılan keyfî gruplandırmalar temelinde maddi yük, dışlama ya da zarar verip vermediğini belirlemelidir. Buna [Dil, Kültür ve Miras](../../core_05_band_continuity.md#language-culture-and-heritage) kapsamındaki dil, kültür ve miras uzmanlıkları da dâhildir. Değerlendirme, yük ve yarar örüntülerini [Esasa İlişkin Adalet](../../core_05_band_participation.md#substantive-fairness) uyarınca; vekil veya farklı etki riskini ise [Korunan Özellik Vekilliği ve Farklı Etki](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) uyarınca, [maddi pay](../../core_00_preamble.md#material-stake) ile orantılı ölçekte sınamalıdır. Farklı muamele ancak belgelenmiş [Gereklilik](../../core_05_band_accountability.md#necessity), [Orantılılık](../../core_05_band_accountability.md#proportionality) ve esasa ilişkin adalet bunu haklı kıldığında kabul edilebilir. Değerlendirme, yalnızca görünürdeki tarafsızlığa, beyan edilen niyete veya etikete değil, işlevsel etkiye dayanmalıdır.
+
+<a id="543-system-class-scaling-and-escalation"></a>
+##### 5.4.3 Sistem Sınıfına Göre Ölçekleme ve Yükseltme
+
+Sistem sınıfı değerlendirmenin derinliğini değiştirir; sıralamayı veya yük aktarmayı önemsiz sayma izni vermez. Maddilik tetikleyicisi karşılandığında:
+
+- Kapatma, bildirim veya benzer kuralları hayatta kalma için temel gerekliliklere erişimi engelleyebilecek bir sistem, genel bir iyi uygulama beyanı değil, yük ve yarar ile vekil değişken analizinin en güçlü kanıtını kayda sunmalıdır.
+- Eşleştirme veya yönlendirme mantığı acil bakımı, yardımları ya da yeterlilik belgesine erişimi etkileyen bir sistem, farklı etki ve esasa ilişkin adalet bulgularını operasyonel kritikliğe uygun derinlikte belgelemelidir.
+- Bir sistem; vardiya, tedarikçi veya rezervasyon mantığı katılımcıları maddi ölçüde sıralarken ya da dışlarken göstermelik bir adalet paragrafıyla yetinmemelidir. Koordinasyon hayatta kalma için temel hâle geldiğinde belgelendirme incelemeyi ve sınıfı yeniden değerlendirmeyi [§2 Sistem Sınıfı Değerlendirmesi](#2-system-class-evaluation) ile [B Kısmı §7 Belgelendirme Sonuçları](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) uyarınca, personel veya acil durum yönlendirmesi geçitleniyorsa **A Sınıfına** doğru yükseltmelidir.
+
+<a id="544-defects-and-misalignment"></a>
+##### 5.4.4 Kusurlar ve Hizasızlık
+
+Aşağıdakilerin her biri belgelendirme kusuru sayılmalıdır:
+
+- **Madde VI-C** (*Ayrımcılık Yapmama*) inceleme gerektirirken maddi sınıflandırma, sıralama veya yük tahsisi mantığını gizlemek, yanlış sunmak, parçalara ayırmak ya da başka yere yüklemek;
+- değerlendirilebilir bir yük ve yarar analizi olmaksızın görünürde tarafsızlığı, toplu kolaylık ölçütlerini veya işletmecinin kendi beyanını yeterli saymak;
+- belgelenmiş vekil ayrımcılığı veya esasa ilişkin adaletsizlik anayasal hizalanmayı maddi ölçüde tehdit ederken bağımlılığın sürmesini onaylamak; ve
+- dil, kültür veya miras korumalarını boşa çıkarmak için tek tipleştirme, birlikte işlerlik veya verimlilik çerçevelerini **Madde VI-C** (*Ayrımcılık Yapmama*) kapsamındaki **Gereklilik** ve **Orantılılık** sınamalarını karşılamadan kullanmak.
+
+
+<a id="55-accessibility-evaluation"></a>
+
+#### 5.5 Erişilebilirlik Değerlendirmesi
+
+<details>
+<summary><strong><span style="color: #2563eb;">İzlenebilirlik</span></strong></summary>
+
+- Önceki bağlantılar: [B Kısmı §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içeriği*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Katılım ölçüm ailesi (*anayasal ölçüm olarak Erişilebilirlik*); **Madde VI-D** (*Erişilebilirlik*); [Erişilebilirlik](../../core_05_band_participation.md#accessibility), [Maddilik](../../core_05_band_oversight.md#materiality), [Bağımlılık](../../core_05_band_continuity.md#dependency), [Anlamlı Özerklik](../../core_05_band_participation.md#meaningful-agency), [Korunan Özellikler](../../core_05_band_participation.md#protected-characteristics), [Korunan Özellik Vekilliği ve Farklı Etki](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Esasa İlişkin Adalet](../../core_05_band_participation.md#substantive-fairness), [Gereklilik](../../core_05_band_accountability.md#necessity) ve [Orantılılık](../../core_05_band_accountability.md#proportionality) (Beşinci Bölüm).
+- Sonraki bağlantılar: [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*erişilebilirlik konulu örnekli uygulamalar*); [B Kısmı §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış girdi kapısı*); [B Kısmı §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*erişilebilirlik kaynaklı hizasızlık ve yalnızca kâğıt üzerindeki uyarlama*).
+- Birlikte okuyun: eğitim erişilebilirliği söz konusu olduğunda **Madde IV-A** (*Eğitime Eşit Erişim*) — eğitime özgü erişilebilirliğin düzenlenmesi orada sürer; belgelendirme forum, idari, paydaş veya yaptırım katılımına geçit olduğunda **Madde VI-C** (*Ayrımcılık Yapmama*) (hükme bağlama ve işletim) ile **Madde XII** (*Paydaşların Sistem Katılımı, Temsil ve Usul Güvencesi*); [Bölüm Sekiz §5.5](#55-accessibility-evaluation) (*kesişen erişilebilirlik değerlendirme etkeni bağlantısı*).
+- Alt bölümler: [§5.5.1](#551-materiality-trigger-and-governing-rules) (*maddilik tetikleyicisi ve yöneten kurallar*); [§5.5.2](#552-evaluation-requirement) (*değerlendirme gereği*); [§5.5.3](#553-profiles-in-scope) (*kapsamdaki profiller*); [§5.5.4](#554-system-class-scaling-and-escalation) (*sistem sınıfına göre ölçekleme ve yükseltme*); [§5.5.5](#555-defects-and-misalignment) (*kusurlar ve hizasızlık*); [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*sistem sınıfına göre erişilebilirliğin örnekli uygulaması*).
+
+</details>
+
+<br>
+
+*Yalın dille: bir sistem, algılayanların gerçekten katılıp katılamayacağını maddi ölçüde denetlediğinde — kapının yalnızca “açık” diye etiketlenip etiketlenmediğinde değil — belgelendirme katılımın duyusal, bilişsel, hareketlilik, iletişim, altyapı-arayüzü ve benzer ihtiyaçlar bakımından gerçekten erişilebilir olup olmadığını denetlemelidir. Uyarlama katalogları ve arayüz standartları başka araçlarda, corpus'a daha sonra eklenecek metinlerde veya benimseme araçlarında bulunabilir; tetikleyici geçerli olduğunda belgelendirme, esasa ilişkin katılımın gerçekten değerlendirildiğini denetler. Uygulamalı örnekler: [§5.5.6 Sistem sınıfına göre erişilebilirliğin örnekli uygulaması (kapsamlı olmayan)](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).*
+
+<a id="551-materiality-trigger-and-governing-rules"></a>
+##### 5.5.1 Maddilik Tetikleyicisi ve Yöneten Kurallar
+
+Bu bölüm, algılayanların yaşamları üzerinde önemli etkisi olan bir sistemin, Anayasa'nın koruduğu bir alana gerçekten katılıp katılamayacaklarını denetlediği durumlarda uygulanır. Örneğin:
+
+- yönetişim, paydaş katılımı, hükme bağlama ve işletim;
+- hayatta kalma için temel gereklilikler ve sağlık hizmetleri;
+- ifade, toplanma ve basın; veya
+- benzer alanlar.
+
+Bu denetim şu yollarla gerçekleşebilir:
+
+- arayüzler, mekânlar veya zamanlama;
+- yeterlilik belgeleri veya bilişim gücüne erişim;
+- uyarlamaların tasarlanma biçimi; veya
+- benzer yollar.
+
+Eğitimde erişilebilirlik **Madde IV-A** (*Eğitime Eşit Erişim*) kapsamındadır; buradaki hiçbir şey onu daraltmaz.
+
+Bu koşullar geçerli olduğunda belgelendirme, **Madde VI-D** (*Erişilebilirlik*) ve [Erişilebilirlik](../../core_05_band_participation.md#accessibility) uyarınca **erişilebilirliği** değerlendirmelidir. Bu bölüm şunları belirlemez:
+
+- uyarlama listelerini;
+- arayüz standartlarını;
+- evrensel tasarım şartnamelerini; veya
+- gündelik uyarlama usullerini.
+
+Bunlar dâhil edilebilecek başka belgelerde düzenlenir.
+
+<a id="552-evaluation-requirement"></a>
+##### 5.5.2 Değerlendirme Gereği
+
+Belgelendirme, yalnızca resmî özelliklerin, varsayılan arayüzlerin veya kâğıt üzerindeki uyarlamaların bulunup bulunmadığını değil, algılayanların sistemin denetlediği alanlara gerçekten katılıp katılamadığını sınamalıdır. Katılım üzerindeki gerçek etkiyi [Erişilebilirlik](../../core_05_band_participation.md#accessibility) uyarınca, [Maddilik](../../core_05_band_oversight.md#materiality) ve [Bağımlılık](../../core_05_band_continuity.md#dependency) ile orantılı ölçekte değerlendirmelidir.
+
+İnceleyenler şunlara dikkat etmelidir:
+
+- yalnızca kâğıt üzerinde bulunan uyarlamalar;
+- gerçek katılım kapasitesi sağlamayan varsayılan özelliklere dayalı “genel erişim” iddiaları;
+- sistemin yalnızca kısmen maddi olduğu iddiasıyla sağlanması gereken uyarlamaları azaltmaya yönelik savlar;
+- [Algılayanların Dışlanmaması](../../core_05_band_participation.md#sentience-non-exclusion) ile çelişen dışlama; ve
+- zamanlama, mekân seçimi, yeterlilik belgelendirmesi, bilişim gücüne erişim veya benzer mekanizmalar yoluyla algılayanları dolaylı olarak dışarıda bırakan tasarım (vekil yoluyla ret).
+
+Belgelendirme, uyarlamaların tasarımında [Korunan Özellikleri](../../core_05_band_participation.md#protected-characteristics) ve [Korunan Özellik Vekilliği ve Farklı Etkiyi](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) de uygulamalıdır. Uyarlama üzerindeki her sınır belgelenmeli ve [Gereklilik](../../core_05_band_accountability.md#necessity), [Orantılılık](../../core_05_band_accountability.md#proportionality) ve [Esasa İlişkin Adalet](../../core_05_band_participation.md#substantive-fairness) koşullarını karşılamalıdır.
+
+<a id="553-profiles-in-scope"></a>
+##### 5.5.3 Kapsamdaki Profiller
+
+Değerlendirme, kâğıt üzerindeki uyumu değil, her algılayan biçimi ve yeti profili için gerçek katılımı sınamalıdır:
+
+- İlgili her profil kategorisini kapsamalıdır: duyusal, bilişsel, hareketlilik, iletişim, **altyapı-arayüzü** ve **bilişim gücü-arayüzü**.
+- Aynı gereklilik profilin **sürekli**, **dönemsel** veya **gelişimsel** olması hâlinde de geçerlidir.
+- Belirli bir etkilenen profili boşa çıkarırken toplu ölçekte geniş erişilebilirlik iddia eden **genel erişim** örüntüsü veya etkisi katılım tabanını boşa çıkarmak olan **seçici maddilik ölçeklemesi** bu bölümü karşılamaz.
+
+<a id="554-system-class-scaling-and-escalation"></a>
+##### 5.5.4 Sistem Sınıfına Göre Ölçekleme ve Yükseltme
+
+Sistem sınıfı değerlendirmenin derinliğini değiştirir. Kâğıt üzerindeki uyarlamaları veya varsayılan arayüzleri yeterli saymaya hiçbir zaman izin vermez. Maddilik tetikleyicisi karşılandığında:
+
+- Bir sistemin faturalandırma veya kesinti yolları algılayanların hayatta kalma için temel gerekliliklere erişimini kesebilecekse, kayıt algılayanların gerçekten katılabildiğine ilişkin en güçlü kanıtı göstermelidir. Genel bir erişilebilirlik beyanı yeterli değildir.
+- Portalları sağlık hizmetlerine erişimi denetleyen bir sistem, uyarlamalar ve vekil yoluyla ret konusundaki bulgularını belgelemelidir. Operasyonlar ne kadar kritikse o kadar ayrıntı gerekir.
+- Bir sistem, vardiya, rezervasyon veya tedarikçi arayüzleri katılımcıları maddi ölçüde dışarıda bırakırken göstermelik bir erişilebilirlik paragrafıyla yetinemez. Sistemin koordinasyonu hayatta kalma için temel hâle geldiğinde belgelendirme incelemeyi derinleştirmeli ve sistem sınıfını [§2 Sistem Sınıfı Değerlendirmesi](#2-system-class-evaluation) ile [B Kısmı §7 Belgelendirme Sonuçları](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) uyarınca yeniden değerlendirmelidir. Buna, personel veya acil durum yönlendirmesi geçitleniyorsa **A Sınıfına** yükseltme de dâhildir.
+
+<a id="555-defects-and-misalignment"></a>
+##### 5.5.5 Kusurlar ve Hizasızlık
+
+Aşağıdakilerin her biri belgelendirme kusuru sayılmalıdır:
+
+- değerlendirilebilir bir esasa ilişkin katılım analizi olmaksızın resmî olanakları, varsayılan arayüzleri veya kâğıt üzerindeki uyarlamaları yeterli saymak;
+- belgelenmiş katılım engelleri anayasal hizalanmayı maddi ölçüde tehdit ederken bağımlılığın sürmesini onaylamak;
+- katılım tabanını boşa çıkarmak için maliyet, tasarım tercihi, altyapı sınıfı veya operasyon ölçeği çerçevelerini **Madde VI-D** (*Erişilebilirlik*) kapsamındaki **Gereklilik** ve **Orantılılık** sınamalarını karşılamadan kullanmak; ve
+- daha az yük getiren uygulanabilir bir seçenek varken, etkisi erişilebilirliği boşa çıkarmak olan operasyonel tasarım.
+
+
+<a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+
+#### 5.6 Güvenilirlik ve Sisteme Dayanma Bütünlüğü Değerlendirmesi
+
+<details>
+<summary><strong><span style="color: #2563eb;">İzlenebilirlik</span></strong></summary>
+
+- Önceki bağlantılar: [B Kısmı §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*kayıt içeriği*); [§2](#2-system-class-evaluation) (*sistem sınıfı değerlendirmesi*); Gözetim ölçüm ailesi (*anayasal ölçüm olarak Doğruluk ve epistemik bütünlük; Güvenilirlik ile Güvenin Aşınması ve Yanıltıcı Dayanma*); **Madde XIII** (*Güvenilir ve İtimat Edilebilir Sistem Hakkı*); [Güvenilirlik](../../core_05_band_continuity.md#trustworthiness), [Güven](../../core_05_band_continuity.md#trust), [Güvenin Aşınması ve Yanıltıcı Dayanma](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [İtiraz Edilebilirlik](../../core_05_band_accountability.md#contestability), [Telafi ve Giderim](../../core_05_band_accountability.md#redress-and-remediation), [Teşviklerin Hizalanması](../../core_05_band_integrative.md#incentive-alignment), [Geri Döndürülebilirlik](../../core_05_band_continuity.md#reversibility), [Maddilik](../../core_05_band_oversight.md#materiality), [Bağımlılık](../../core_05_band_continuity.md#dependency) ve [Risk](../../core_05_band_continuity.md#risk) (Beşinci Bölüm).
+- Sonraki bağlantılar: [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*güvenilirlik konulu örnekli uygulamalar*); [B Kısmı §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü*); [B Kısmı §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*doğrulanmış girdi kapısı*); [B Kısmı §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*yanlış güven, ters teşvikler ve iyileşme bütünlüğünden kaynaklanan hizasızlık*).
+- Birlikte okuyun: **Madde XIII-A** (*Güvenilirlik ve İtimat Edilebilirlik Tabanı*) ve **Madde XIII-B** (*Telafi ve Çare Hakkı*) ile **Madde XVI** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) — itiraz ve denetim hakları orada düzenlenmeye devam eder; yüksek özerklikli sistemlerin yönetişim veya doğrulama yollarına maddi ölçüde aracılık ettiği durumlarda **Madde XIII-E** (*Yüksek Özerklikli Sistemler ve Araç Aracılı Süreç Bütünlüğü*); sistemden yararlanmaya devam etmenin hayatta kalma için temel erişimi etkileyeceği durumlarda **Madde III-A** (*Hayatta Kalma*); [Birinci Bölüm §6 Güven](../../core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [Birinci Bölüm §5 Doğruluk](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+- Alt bölümler: [§5.6.1](#561-materiality-trigger-and-governing-rules) (*maddilik tetikleyicisi ve yöneten kurallar*); [§5.6.2](#562-evaluation-requirement) (*değerlendirme gereği*); [§5.6.3](#563-system-class-scaling-and-escalation) (*sistem sınıfına göre ölçekleme ve yükseltme*); [§5.6.4](#564-defects-and-misalignment) (*kusurlar ve hizasızlık*); [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*sistem sınıfına göre güvenilirliğin örnekli uygulaması*).
+
+</details>
+
+<br>
+
+*Yalın dille: bir sistem, algılayanların söylediklerine ve yaptıklarına güvenip güvenemeyeceğini — ve bu güven boşa çıktığında karşı çıkıp çıkamayacağını — maddi ölçüde etkilediğinde, belgelendirme sisteme dayanmanın gerçekten haklı, dürüstçe açıklanmış ve düzeltilebilir olup olmadığını denetlemelidir. Güvenilirlik ölçütleri ve test takımı tasarımları başka araçlarda düzenlenir; tetikleyici geçerli olduğunda belgelendirme, güvenilirliğin, yanlış güven riskinin ve itiraz yollarının gerçekten değerlendirildiğini denetler. Uygulamalı örnekler: [§5.6.5 Sistem sınıfına göre güvenilirliğin örnekli uygulaması (kapsamlı olmayan)](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).*
+
+<a id="561-materiality-trigger-and-governing-rules"></a>
+##### 5.6.1 Maddilik Tetikleyicisi ve Yöneten Kurallar
+
+Bu bölüm, büyük bir sistemin insanların ondan ne beklediğini şekillendirdiği durumlarda uygulanır: sistemin ne yaptığı, sınırlarının nerede olduğu, nelerin ters gidebileceği, sisteme nasıl itiraz edileceği ve sorunların nasıl giderileceği. Bu etki şu yollarla ortaya çıkabilir:
+
+- ne kadar güvenilir olduğuna ilişkin iddialar;
+- neleri açıklayıp neleri açıklamadığı;
+- gerçekte nasıl çalıştığı;
+- içine yerleştirilmiş teşvikler;
+- arızalardan nasıl toparlandığı; veya
+- insanların ona bağımlı hâle gelmesine yol açan benzer yollar.
+
+Maddilik tetikleyicisi geçerli olduğunda sistem hizalanması belgelendirmesi aşağıdakiler uyarınca **güvenilirliği ve sisteme dayanma bütünlüğünü** değerlendirmelidir:
+
+- **Madde XIII** (*Güvenilir ve İtimat Edilebilir Sistem Hakkı*);
+- [Güvenilirlik](../../core_05_band_continuity.md#trustworthiness); ve
+- [Güvenin Aşınması ve Yanıltıcı Dayanma](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
+
+<a id="562-evaluation-requirement"></a>
+##### 5.6.2 Değerlendirme Gereği
+
+Belgelendirme süreci, **Madde XIII-A** (*Güvenilirlik ve İtimat Edilebilirlik Tabanı*) uyarınca insanların sisteme [güvenmek](../../core_05_band_continuity.md#trust) için sağlam gerekçeleri olup olmadığını ve sisteme doğru biçimde dayanıp dayanamayacaklarını denetlemelidir.
+
+Değerlendirme ayrıca şunları sınamalıdır:
+
+- insanların sisteme gerçekçi biçimde itiraz edip edemediğini, kararları inceletebilip inceletemediğini ve çözüm alıp alamadığını — yalnızca kâğıt üzerinde değil (**Madde XIII-A** (*Güvenilirlik ve İtimat Edilebilirlik Tabanı*) ve **Madde XIII-B** (*Telafi ve Çare Hakkı*));
+- üretilmiş güven veya açıklanmayan sınırlar dâhil, insanların sisteme yanlış biçimde güvenmeye ya da dayanmaya yönlendirilip yönlendirilemeyeceğini (**Madde XIII-C** (*Yanlış Güven ve Yanıltıcı Dayanma Yasağı*));
+- teşviklerinin aldatmayı veya kestirmeden gitmeyi ödüllendirip ödüllendirmediğini (**Madde XIII-D** (*Teşvikleri Hizalama Kısıtı*)); ve
+- önemli olduğu yerde arızaları gizlemeden veya kimsenin haklarını sessizce daraltmadan dürüstçe toparlanıp toparlanamayacağını (**Madde XIII-F** (*Dayanıklılık ve Kendi Kendini İyileştirme Tabanı*)).
+
+Sınama, [Maddilik](../../core_05_band_oversight.md#materiality), [Bağımlılık](../../core_05_band_continuity.md#dependency) ve [Risk](../../core_05_band_continuity.md#risk) ile orantılı ölçekte yapılır.
+
+Değerlendirme, zaman içindeki, ölçek ve bağımlılık boyunca işlevsel etkiyi yansıtmalıdır; şunları esas almamalıdır:
+
+- itibar, büyüklük veya pazarlama;
+- görünürdeki güvence etiketleri;
+- güvenilirlik rozetleri veya tedarikçi puanları gerçekten kimin işe alınacağını ya da ne satın alınacağını belirlerken güvenilirliğe ilişkin göstermelik bir paragraf;
+- beyan edilen niyet; veya
+- yalnızca geçmiş performans.
+
+<a id="563-system-class-scaling-and-escalation"></a>
+##### 5.6.3 Sistem Sınıfına Göre Ölçekleme ve Yükseltme
+
+İncelemenin derinliği sistemin sınıfına bağlıdır. Maddilik tetikleyicisi karşılandığında:
+
+- Bir sistemin okumaları, uyarıları veya toparlanma iddiaları haneleri ya da işletmecileri hayatta kalma için temel gereklilikler (insanların yaşaması için ihtiyaç duyduğu şeyler) konusunda yanıltabilecekse, kayıt yalnızca sistemin güvenilir olduğu iddiasını değil güçlü kanıtları göstermelidir. Kanıt şunları göstermelidir:
+  - insanların sisteme güvenebildiğini;
+  - insanlara yanlış güvence verilmeyeceğini; ve
+  - sistemin arızalardan dürüstçe toparlandığını.
+- Bir sistemin çalışma süresi, eşleştirme veya acil durum geçersiz kılma (“acil erişim”) iddiaları insanların klinik bakıma ya da acil hizmetlere erişimini belirliyorsa kayıt, sistemin kritikliğine uygun ayrıntıda şunları göstermelidir:
+  - insanların bu iddialara nasıl itiraz edebileceğini; ve
+  - insanların bunlara dayanarak yanıltılıp yanıltılamayacağını.
+- Koordinasyon hayatta kalma için temel hâle geldiğinde belgelendirme incelemeyi derinleştirmeli ve sistemin sınıfını [§2 Sistem Sınıfı Değerlendirmesi](#2-system-class-evaluation) ile [B Kısmı §7 Belgelendirme Sonuçları](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) uyarınca yeniden değerlendirmelidir. Yanıltıcı dayanma, insanların hayatta kalmak için ihtiyaç duyduğu koordinasyonu kesebilecekse sistemin **A Sınıfına** yükseltilmesi buna dâhil olabilir.
+
+<a id="564-defects-and-misalignment"></a>
+##### 5.6.4 Kusurlar ve Hizasızlık
+
+Aşağıdakilerin her biri belgelendirme kusuru sayılmalıdır:
+
+- **Madde XIII** (*Güvenilir ve İtimat Edilebilir Sistem Hakkı*) inceleme gerektirirken maddi sınırları, riskleri veya arıza geçmişini gizlemek, yanlış sunmak, parçalara ayırmak ya da başka yere yüklemek;
+- değerlendirilebilir bir [Güvenilirlik](../../core_05_band_continuity.md#trustworthiness) analizi olmaksızın itibarı, onayı, ölçeği veya işletmecinin kendi beyanını yeterli saymak;
+- belgelenmiş yanlış güven, ters teşvikler, erişilemeyen itiraz yolları veya arızaları gizleyen toparlanma uygulamaları anayasal hizalanmayı maddi ölçüde tehdit ederken sisteme dayanmaya devam edilmesini onaylamak; ve
+- **Madde XIII** (*Güvenilir ve İtimat Edilebilir Sistem Hakkı*) kapsamındaki güvenilirlik ve **Madde XIII-A** (*Güvenilirlik ve İtimat Edilebilirlik Tabanı*) kapsamındaki itiraz güvencelerini karşılamadan açıklamayı, itiraz edilebilirliği veya telafiyi boşa çıkarmak için verimlilik, yenilik ya da güvenlik çerçevelerini kullanmak.
+
+<br>
+
+*Forum sürecine, kayda, sonuçlara ve güzergâh bağlantısına devam:* [Bölüm Sekiz, B Kısmı — Kayıt ve Süreç](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-system-alignment-certification--record-and-process) ([§6 Forum Süreci](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) ile [§10 Güzergâhla İlişki](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)).
+
+*Her değerlendirme alanı için uygulamalı örnekler:* [Bölüm Sekiz, C Kısmı — Örnekler](../../core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations).
+
 
 *Kayıt, forum süreci ve güzergâh köprüsüne devam:* [Yedinci Bölüm, B Kısmı — Kayıt ve süreç](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) ([§11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) ile [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)).
 ---

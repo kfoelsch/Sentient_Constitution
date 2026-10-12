@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Cuatro en inglés](../../core_04_burden_traceability_verification.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): dónde vive el Capítulo Cuatro y qué se queda aquí</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
->
 > Dónde vive esto (navegación):
 > - **Mapa de la Tétrada:** La asignación de la carga, la evidencia, la trazabilidad, la observabilidad y la verificación implementan las patas de **supervisión** y **rendición de cuentas** de la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) establecidas en el [Preámbulo](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participación** donde se exija de forma material a través de la observabilidad práctica y la impugnación independiente bajo las secciones **3** y **4**. Los requisitos se escalan con el [enjuego material](core_00_preamble.md#material-stake).
 > - **Titular constitucional:** asignación de la carga, evidencia de cumplimiento, trazabilidad de la definición, observabilidad y verificación acotada por seguridad. El **Capítulo Ocho** es titular de la disciplina de registros de trayectoria y de insumos verificados leída con este capítulo.

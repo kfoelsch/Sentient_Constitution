@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [Capítulo Três em inglês](../../core_03_definition_integrity.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_02_definition_structure.md](core_02_definition_structure.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): onde vive o Capítulo Três e o que permanece aqui</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste capítulo nem em outros capítulos.
->
 > Onde isto vive (navegação):
 > - **Titular constitucional:** integridade da definição, evasão e não conformidade para o trabalho de avaliação. O **Capítulo Dois** é titular da estrutura; o **Capítulo Quatro** é titular do ônus e dos artefatos de rastreabilidade; o **Capítulo Cinco** é titular das definições canônicas.
 > - **Titular de implementação:** os registros de trajetória, o processo de fórum e os protocolos de implementação operacionalizam estas regras sem substituí-las.

@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス上の位置（非操作性）：ファイル構造と読み方</span></strong></summary>
 
-> 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
->
 > 本ファイルは[英語第四章](../../core_04_burden_traceability_verification.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **前（本言語）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">読者案内（非操作性）：第四章が住むところと、ここに残るもの</span></strong></summary>
 
-> 以下の内容は**読者向け案内にすぎない**。本章または他の章にある拘束力のある義務を加え、除き、または狭めない。
->
 > これが住むところ（案内）：
 > - **四元の地図：** 負担の割当、証拠、追跡可能性、観測可能性、および検証は、[前文](core_00_preamble.md#chapter-00-preamble--foundational-requirements)で確立された[憲法四元](core_00_preamble.md#constitutional-tetrad)の**監督**脚と**説明責任**脚を実施する；**参加**は、第 **3** 節および第 **4** 節のもとでの実務上の観測可能性と独立した異議申し立てを通じて、実質的に求められるところで。要件は[実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせる。
 > - **憲法上の所管者：** 負担の割当、遵守証拠、定義の追跡可能性、観測可能性、および安全保障に制約された検証。**第八章**は、本章とあわせて読む軌跡記録と検証済み入力の規律を所管する。

@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Trece en inglés](../../core_14_non_regression.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_13_non_regression.md`](../../core_14_non_regression.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > Contiene el **Capítulo Trece**: no regresión sustantiva y validez sustantiva de la enmienda (Prueba 1). El **Capítulo Catorce** está en [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md). El **Capítulo Quince** está en [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md). La validez de la enmienda debe preservar ambas [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims) — **Florecimiento** y **Continuidad** — y no debe vaciar la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) por debajo de los requisitos de [enjuego material](core_00_preamble.md#material-stake). La numeración de capítulos y las referencias cruzadas coinciden con el instrumento integrado.
@@ -21,14 +19,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): dónde vive el Capítulo Trece y qué se queda aquí</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
->
 > Dónde vive esto (navegación):
 > - **Titular constitucional:** piso sustantivo de no regresión; Prueba 1 (invalidez por no regresión sustantiva); antievasión; disparadores de remisión por engaño regresivo. La validez procedimental, la ratificación y los requisitos de procedimiento de enmienda están en el **Capítulo Quince**. La supremacía relativa a otras normas y a órdenes jurídicas externas está en el **Capítulo Catorce**.
 > - **Titular de implementación:** el texto de implementación designado gobierna la mecánica de ejecución de las operaciones de revisión, los flujos de publicación, el procedimiento institucional designado, las operaciones de foro donde estén designadas y la estructura conjunta entre implementaciones donde esté designada.
 > - **Regla de no reubicación:** este capítulo no asigna etiquetas finales de ilícito, casillas numéricas ni taxonomía de sanciones. Las casillas numéricas de Contribución y de Violación siguen midiéndose en la [escala LEQU proporcional unificada del Capítulo Ocho §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale), con registros de eje separados y casillas de Violación controladas solo por el impacto verificado. El **Capítulo Diez** de [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) puede añadir la designación emparejada de inconducta anticonstitucional a un registro de casilla 7, 8 o 9 del Eje de Violación del Capítulo Ocho, pero no asigna la casilla numérica.
 >
-> **Arquitectura — colocación de *En términos sencillos*:** Cada línea *En términos sencillos* aparece inmediatamente después del bloque de navegación de Rastro (y del salto de línea que lo sigue), y **antes** de los párrafos operativos y las listas con viñetas de esa sección o subsección. Glosa orientada a quien lee solamente; no añade, quita ni estrecha texto vinculante.
+> **Arquitectura — colocación de *En términos sencillos*:** Cada línea *En términos sencillos* aparece inmediatamente después del bloque de navegación de Rastro (y del salto de línea que lo sigue), y **antes** de los párrafos operativos y las listas con viñetas de esa sección o subsección.
 
 </details>
 
@@ -181,8 +177,6 @@ Las adiciones futuras que toquen lenguaje con sabor a ilícito, a sanción o a c
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): índice de enrutamiento de capas del Capítulo Trece</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
->
 > El enrutamiento canónico de titulares vive en el [Preámbulo — registro positivo de titulares](core_00_preamble.md#4-principles-definitions-and-rights). Para orientación editorial, las obligaciones fuera de la capa titular de validez sustantiva del cambio incluyen:
 > - **medición general de contribución y de violación** (Eje de Contribución / Eje de Violación) — **Capítulo Ocho** en [core_08_standing_assessment.md](core_08_standing_assessment.md); **efectos de trayectoria e integración** — **Capítulo Nueve** en [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration);
 > - **casillas numéricas del Eje de Contribución y del Eje de Violación** — la **escala unificada del Capítulo Ocho §7**, con registros separados y casillas de Violación controladas solo por el impacto verificado; y la **designación de inconducta anticonstitucional** emparejada para una casilla calificadora 7, 8 o 9 del Eje de Violación — **Capítulo Diez** en [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct);

@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Tujuh, Bagian A bahasa Inggris](../../core_08_a_system_alignment_certification_evaluation.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > Berisi **Bab Tujuh, Bagian A** — persyaratan **evaluasi** sertifikasi (kelas sistem, faktor seluruh-sistem, dan kait evaluasi ranah). **Bagian B** — catatan sertifikasi, proses forum, jembatan jejak, dan pembukaan ulang — ada di [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md).
@@ -40,66 +38,166 @@ Bab Tujuh, **Bagian A**, adalah pemilik konstitusional atas **evaluasi sertifika
 > **Pernyataan pengelola operatif.** **Pemilik:** Bab Tujuh (SAC yang disupervisi forum). Lensa lapisan-prinsip: Bab Satu §14. SAC adalah satu proses audit yang sangat besar di bawah Pasal XVI / Dapat Diaudit — bukan satu-satunya audit. **Gerakan terlarang:** Jangan perlakukan uji unit, daftar periksa privasi, atau label selaras lokal sebagai sertifikasi. Jangan melewati jendela gugatan. Jangan mengada-adakan rumah audit kelima. Jangan perlakukan lencana sertifikasi atau skor LEQU sebagai status makhluk sadar. **Jam:** Buka atau pulihkan jalur Bab Tujuh yang dapat digugat, termasuk jendela gugatan pihak terdampak, sebelum klaim selaras.
 
 <a id="1-purpose-and-role"></a>
+
 ### 1. Tujuan dan Peran
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Pembukaan — daftar pemilik positif](core_00_preamble.md#4-principles-definitions-and-rights) dan [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [taruhan material](core_00_preamble.md#material-stake); [Proporsionalitas](core_05_band_accountability.md#proportionality) dan [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional) (Bab Lima); keluarga pengukuran Partisipasi (*suara, akses, dan jalur gugatan*); [Bab Satu §9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Bab Satu §14 Kewajiban Evaluasi Sistemik](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*lensa evaluasi seluruh-sistem lapisan-prinsip — bukan satu sudut saja*); Bab Dua sampai Empat; [Bab Lima](core_05__definitions_home.md#chapter-five-foundational-definitions) (*definisi kanonik*); [Sertifikasi Keselarasan Sistem](core_05_band_continuity.md#system-alignment-certification-constitutional) (istilah kanonik Bab Lima; singkatan non-operatif **SAC**); [Catatan sertifikasi sistem](core_05_band_continuity.md#system-certification-record-constitutional) (makna Bab Lima).
-- Hilir: [§2](#2-system-class-evaluation) dan [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*evaluasi kelas sistem dan profil ilustratif*); [§3.8](#38-illustrative-whole-system-application-by-class) (*contoh seluruh-sistem yang dikerjakan menurut kelas*); [§4.1](#41-illustrative-data-handling-application-by-class) (*contoh penanganan-data yang dikerjakan menurut kelas*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*contoh jejak-ekologis yang dikerjakan menurut kelas*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*contoh dukungan-lintas-sistem yang dikerjakan menurut kelas*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*contoh nondiskriminasi yang dikerjakan menurut kelas*); [§8.1](#81-illustrative-accessibility-application-by-class) (*contoh aksesibilitas yang dikerjakan menurut kelas*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*contoh kapabilitas-pendidikan yang dikerjakan menurut kelas*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*contoh keterpercayaan yang dikerjakan menurut kelas*); [§3](#3-whole-system-certification-evaluation) (*faktor evaluasi sertifikasi seluruh-sistem*); [§4](#4-data-types-and-handling-evaluation) sampai [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*evaluasi ranah*); [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan sertifikasi*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*persyaratan integritas catatan*); [Bagian B §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*peran komponen forum*); [Bagian B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*urutan supervisi dan rantai dapat-digugat*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*jembatan catatan-jejak*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*pembukaan ulang dan anti-pengelakan*); [Bab Delapan](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*catatan jejak dan gerbang masukan-terverifikasi*); [Bab Sembilan](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*akibat jejak dan integrasi*); [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisi forum, sertifikasi, pengakuan keselarasan, dan tinjauan*).
-- Baca bersama: [corpus_systems.md](../../corpus_systems.md), terutama **CS-3 — Klasifikasi dan penanganan sistem**, **CS-2 — Tipe informasi dan penanganan**, dan **CS-5**; [corpus_forum.md](../../corpus_forum.md), terutama **CF-5** (*Operasi perutean, pemindahan, sertifikasi, dan perlakuan perwakilan*) dan **CF-7** (*Pagar pengaman integritas, operasi anti-penguasaan, dan dukungan anti-mengadili-sendiri*); **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) dan [Dapat diaudit](core_05_band_oversight.md#auditability) (*lantai audit — SAC adalah satu proses audit yang sangat besar di bawah pengawasan, bukan satu-satunya rumah audit*); **CJS-3.3**–**CJS-3.5** (*syarat dapat-diaudit, akses-audit, dan verifikasi-independen*).
+- Hulu: [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-principles-definitions-and-rights) dan [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [taruhan material](core_00_preamble.md#material-stake); [Proporsionalitas](core_05_band_accountability.md#proportionality) dan [Keadilan Substantif](core_05_band_participation.md#substantive-fairness) (Bab Lima); keluarga pengukuran Partisipasi (*suara, akses, dan jalur gugatan*); [Bab Satu §16 Pengelolaan Bertanggung Jawab secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Bab Satu §12 Persyaratan Evaluasi Sistemik](core_01_a_values_principles.md#12-systemic-evaluation-requirement) (*lensa evaluasi seluruh sistem pada lapisan prinsip — bukan hanya satu sudut*); Bab Dua sampai Empat; [Bab Lima](core_05__definitions_home.md#chapter-five-foundational-definitions) (*definisi kanonis*); [Bab Tujuh §2 Lantai Konstitusional Empat Kursi](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); [Sertifikasi Keselarasan Sistem](core_05_band_continuity.md#system-alignment-certification) (istilah kanonis Bab Lima; singkatan **SAC** yang non-operatif); [Catatan Sertifikasi Sistem](core_05_band_continuity.md#system-certification-record) (makna Bab Lima).
+- Hilir: [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); [Bagian B §9.1](core_08_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*menggugat sertifikasi*); dan [profil kelas sistem Bagian C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*profil kelas sistem ilustratif*); [panduan penerapan seluruh sistem Bagian C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*contoh penerapan seluruh sistem menurut kelas sistem*); [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*contoh penanganan data menurut kelas sistem*); [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*contoh jejak ekologis menurut kelas sistem*); [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*contoh kapabilitas pendidikan menurut kelas sistem*); [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*contoh dukungan lintas-sistem menurut kelas sistem*); [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*contoh nondiskriminasi menurut kelas sistem*); [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*contoh aksesibilitas menurut kelas sistem*); [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*contoh keterpercayaan menurut kelas sistem*); [§3](#3-whole-system-certification-evaluation) (*faktor evaluasi sertifikasi seluruh sistem*); [§3.4](#34-data-types-and-handling-evaluation) sampai [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*evaluasi domain*); [Bagian B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*urutan pengawasan dan rangkaian gugatan*); [Bagian B §6.1](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*peran komponen forum*); [Bagian B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*isi catatan sertifikasi*); [Bagian B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*persyaratan integritas catatan*); [Bagian B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*pembukaan kembali dan anti-pengelakan*); [Bagian B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*jembatan catatan standing*); [Bab Sembilan](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*catatan standing dan gerbang masukan terverifikasi*); [Bab Sepuluh](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*dampak standing dan integrasi*); [Bab Dua Belas](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*pengawasan forum, sertifikasi, sertifikasi keselarasan, dan peninjauan*).
+- Baca bersama: [corpus_systems.md](corpus_systems.md), terutama **CS-3 — klasifikasi dan penanganan sistem**, **CS-2 — jenis dan penanganan informasi**, dan **CS-5** (*permukaan kapabilitas yang dihadapi pengguna*); [corpus_forum.md](corpus_forum.md), terutama **CF-5** (*operasi perutean, pemindahan, sertifikasi, dan perlakuan perwakilan*) dan **CF-7** (*perlindungan integritas, operasi anti-pengambilalihan, serta dukungan anti-penghakiman-diri*); **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) dan [Auditabilitas](core_05_band_oversight.md#auditability) (*lantai audit — SAC adalah proses audit yang sangat besar di bawah pengawasan, bukan satu-satunya rumah audit*); **CJS-3.3** (*Pengawasan: istilah auditabilitas dan rekonstruksi (lampiran)*)–**CJS-3.5** (*Pengawasan: istilah verifikasi independen dan integritas klaim*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: ketika suatu sistem benar-benar penting bagi hidup makhluk sadar, sertifikasi harus **proporsional** — sekeras dampak, ketergantungan, dan risiko nyata sistem menuntut, bukan daftar periksa satu-ukuran-untuk-semua atau cap karet. Ia juga harus **partisipatif** — makhluk sadar dan komunitas terdampak harus dapat melihat apa yang ditinjau, memahami apa yang diputuskan, dan menggugatnya ketika ada yang salah. Forum meninjau bukti, menuliskannya pada catatan sertifikasi, dan menuntut pemeriksaan ulang pada irama yang cocok dengan seberapa berisiko sistem itu. Sertifikasi bukan skor popularitas, bukan izin selamanya, dan bukan cara untuk melewati tinjauan hak. Ia adalah pernyataan berbatas waktu dan dapat digugat tentang apa yang diketahui mengenai keselarasan sistem saat ini. Di bawah kaki Tetrad **pengawasan**, pengawasan menuntut audit; sertifikasi keselarasan sistem adalah satu proses audit yang sangat besar dan bertaruhan tinggi di antara yang lain — bukan satu-satunya rumah audit (**Pasal XVI**, [Dapat diaudit](core_05_band_oversight.md#auditability)).*
+*Dalam bahasa sederhana: ketika suatu sistem benar-benar penting bagi kehidupan makhluk sadar, sertifikasinya harus **proporsional** — menuntut sesuai dampak, ketergantungan, dan risiko nyata sistem; bukan daftar periksa satu ukuran untuk semua atau sekadar stempel. Sertifikasi juga harus **partisipatif** — makhluk sadar dan komunitas terdampak harus dapat melihat apa yang ditinjau, memahami keputusan, dan menggugatnya jika ada yang keliru. Forum meninjau bukti, mencatatnya dalam catatan sertifikasi, dan mewajibkan pemeriksaan ulang dengan jadwal yang sesuai dengan risiko sistem. Kelas A, B, dan C menjalani proses penuh; Kelas L menjalani proses yang lebih ringan. Kelas P dianjurkan menggunakannya, dan wajib menggunakannya ketika dampaknya melampaui unit privat atau operatornya menyatakan kepatuhan konstitusional.*
 
-<a id="1-purpose-and-role"></a>
+*Sertifikasi bukan skor popularitas, izin selamanya, atau cara melewati tinjauan hak. Sertifikasi adalah pernyataan berbatas waktu dan dapat digugat tentang apa yang diketahui mengenai keselarasan sistem saat ini. Di bawah kaki **pengawasan** Tetrad, pengawasan mewajibkan audit; sertifikasi keselarasan sistem adalah salah satu proses audit yang sangat besar dan berisiko tinggi di antara proses lainnya — bukan satu-satunya rumah audit (**Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*), [Auditabilitas](core_05_band_oversight.md#auditability)).*
 
-**Sertifikasi keselarasan sistem** ada untuk menjawab satu pertanyaan bagi cakupan dan jadwal tinjauan yang dinyatakan: Apakah sistem telah menunjukkan keselarasan konstitusional yang cukup bagi pengakuan, pengakuan bersyarat, validasi, revalidasi, ketergantungan berlanjut, pengerahan, atau pelepasan material dari syarat?
+**Sertifikasi keselarasan sistem** menjawab satu pertanyaan untuk cakupan dan jadwal tinjauan yang dinyatakan: Apakah sistem telah menunjukkan keselarasan konstitusional yang cukup untuk mendukung sertifikasi, sertifikasi bersyarat, validasi, sertifikasi ulang, ketergantungan berkelanjutan, penerapan, atau pelepasan syarat material?
 
-Sebagai instrumen pengawasan, sertifikasi adalah satu proses audit yang sangat besar di bawah [Dapat diaudit](core_05_band_oversight.md#auditability) dan **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*): disupervisi forum, multi-ranah, dan membawa pengakuan. Ia tidak menyerap atau menggantikan modus audit rekan (termasuk audit Catatan klasifikasi sistem di bawah **CS-3**, audit Catatan jenis data sistem di bawah **CS-2**, audit kompleksitas dan pengelolaan bertanggung jawab, verifikasi klaim, dan jalur audit-berkelanjutan).
+Kedalaman sertifikasi, beban catatan, jeda sertifikasi ulang, tinjauan pemangku kepentingan, dan jalur gugatan harus sebanding dengan [taruhan material](core_00_preamble.md#material-stake) berdasarkan [Proporsionalitas](core_05_band_accountability.md#proportionality):
 
-Kedalaman sertifikasi, beban catatan, irama revalidasi, tinjauan pihak terdampak, dan jalur gugatan harus diskalakan dengan [taruhan material](core_00_preamble.md#material-stake) di bawah [Proporsionalitas](core_05_band_accountability.md#proportionality). Sistem berdampak lebih tinggi, berketergantungan lebih tinggi, dan berisiko lebih tinggi menuntut bukti lebih kuat, catatan lebih jernih, dan partisipasi yang lebih dapat dijalankan — termasuk aksesibilitas substantif, masukan pihak terdampak, dan rute gugatan yang diskalakan pada siapa yang bergantung pada sistem. Kelas lebih rendah dan cakupan berbatas tetap menuntut klasifikasi jujur dan jaminan proporsional; mereka tidak menerima tiket gratis dari kewajiban material di mana efek eksternal ada.
+- Sistem dengan dampak, ketergantungan, dan risiko yang lebih tinggi memerlukan bukti lebih kuat, catatan lebih jelas, dan partisipasi yang lebih praktis — termasuk aksesibilitas substantif, masukan pemangku kepentingan, dan jalur gugatan yang disesuaikan dengan pihak yang bergantung pada sistem.
+- Kelas sistem yang lebih rendah dan cakupan terbatas tetap memerlukan klasifikasi jujur serta jaminan proporsional; kewajiban material tidak dapat dihindari jika ada dampak eksternal.
 
-Sertifikasi mengimplementasikan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) melalui [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad):
+Proses berlaku menurut kelas dampak, sebagaimana ditetapkan dalam [CS-3 §3.5 Persyaratan reklasifikasi](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement):
 
-- **[Berkembang](core_00_preamble.md#flourishing)** — sertifikasi memverifikasi bahwa pengakuan atau ketergantungan berlanjut tidak akan diam-diam mengalahkan Lantai Hak atau memblokir partisipasi adil dalam kehidupan yang relevan secara konstitusional;
-- **[Kesinambungan](core_00_preamble.md#continuity)** — sertifikasi memverifikasi pasokan yang tahan lama dan non-regresif serta revalidasi berskala-kelas di mana sistem bersama menutup atau menopang penyerahan;
+- **Kelas A, Kelas B, dan Kelas C:** sistem ini membawa dampak, ketergantungan, dan risiko tertinggi; evaluasi seluruh sistem berdasarkan [§3](#3-whole-system-certification-evaluation), [§4](#4-evaluations-where-implicated), dan [§5](#5-rights-floor-and-domain-evaluations), masing-masing pada tingkat yang berlaku, wajib dilakukan dengan kedalaman penuh;
+- **Kelas L:** evaluasi yang sama wajib dilakukan secara proporsional, dengan jadwal pemeriksaan ulang standar yang lebih jarang dan catatan lebih sederhana jika diizinkan CS-3; dan
+- **Kelas P:** proses dianjurkan selama sistem secara sah tetap berada di Kelas P, dan sistem Kelas P boleh menggunakannya secara sukarela. Proses menjadi wajib saat reklasifikasi ke Kelas L atau lebih tinggi, atau saat operator secara sukarela menyatakan kepatuhan konstitusional sistem.
+
+Sertifikasi menerapkan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) melalui [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad):
+
+- **[Berkembang](core_00_preamble.md#flourishing)** — sertifikasi memastikan bahwa sertifikasi atau ketergantungan berkelanjutan tidak diam-diam menggagalkan Lantai Hak atau menghalangi partisipasi yang adil dalam kehidupan yang relevan secara konstitusional;
+- **[Kesinambungan](core_00_preamble.md#continuity)** — sertifikasi memastikan pasokan yang tahan lama dan tidak regresif, yang menopang alih-alih menguras sistem alam yang sehat ([Integritas Ekologis](core_05_band_continuity.md#ecological-integrity), termasuk [Kapasitas Pemulihan Ekologis](core_05_band_continuity.md#ecological-recovery-capacity)), serta sertifikasi ulang yang diskalakan menurut kelas sistem ketika sistem bersama menghalangi atau menopang penyediaan;
 - **Partisipasi** — makhluk sadar dan komunitas terdampak dapat memahami, menggugat, dan ikut serta dalam jalur tinjauan yang penting bagi mereka;
-- **Pengawasan** — catatan, bukti, dan asumsi cukup tampak dan dapat diaudit bagi pemeriksaan independen; sertifikasi itu sendiri adalah satu proses audit yang sangat besar di bawah kewajiban pengawasan itu, bukan satu-satunya;
-- **Pertanggungjawaban** — cacat, salah klasifikasi, dan operasi yang mengalahkan lantai diarahkan ke pemulihan, syarat, penarikan, atau masukan jejak di mana fakta menopangnya;
-- **Ketepatan waktu** — jam tinjauan dan gugatan menjaga sertifikasi agar tidak basi selagi bahaya masih dapat dicegah atau dibalik.
+- **Pengawasan** — catatan, bukti, dan asumsi terlihat serta cukup dapat diaudit untuk pemeriksaan independen; sertifikasi sendiri adalah proses audit besar di bawah kewajiban pengawasan itu, bukan satu-satunya;
+- **Pertanggungjawaban** — cacat, salah klasifikasi, dan operasi yang menggagalkan lantai hak diarahkan ke pemulihan, syarat, pencabutan, atau masukan standing jika fakta mendukungnya;
+- **Ketepatan waktu** — tenggat tinjauan dan gugatan mencegah sertifikasi menjadi kedaluwarsa selagi kerugian masih dapat dicegah atau dipulihkan.
 
-Bab ini menjalankan proses sertifikasi yang disupervisi forum bagi:
+Sebagai instrumen pengawasan, sertifikasi adalah proses audit besar berdasarkan [Auditabilitas](core_05_band_oversight.md#auditability) dan **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*):
 
-- **Kelas sistem dan irama revalidasi** — seberapa keras kita melihat dan seberapa sering ([§2](#2-system-class-evaluation));
-- **Evaluasi** — pemeriksaan seluruh-sistem dan ranah ([§3](#3-whole-system-certification-evaluation) sampai [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation));
-- **Isi catatan sertifikasi** — apa yang harus masuk berkas ([Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **Pengakuan dan ketergantungan berlanjut** — hasil mana yang dihitung ([§1](#1-purpose-and-role), [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record));
-- **Gugatan dan dapat-digugat** — bagaimana gugatan bergerak melalui forum ([Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability), [Bagian B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain));
-- **Cacat sertifikasi** — apa yang terjadi ketika sertifikasi cacat ([Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) dan bagian evaluasi di seluruh berkas).
+- Proses ini diawasi forum, mencakup banyak domain, dan memberikan status.
+- Proses ini dapat mengintegrasikan hasil moda audit sejawat, tetapi tidak menyerap atau menggantikannya. Masing-masing tetap memiliki pemiliknya sendiri, sebagaimana tercantum dalam [peta pemilik moda audit sejawat](corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) di pusat proses audit:
+  - audit Catatan Jenis Data Sistem berdasarkan **CS-2** (*Jenis dan penanganan informasi*);
+  - audit Catatan Klasifikasi Sistem berdasarkan **CS-3** (*Mesin klasifikasi sistem*);
+  - tinjauan jaminan steward berdasarkan **CS-4** (*Pengelolaan sistem kritis*);
+  - audit berkelanjutan berdasarkan **CS-5** (*Desain, pengujian, verifikasi, dan penerapan*) ACA;
+  - audit kompleksitas berdasarkan **CS-6** (*Keterpahaman dan pengelolaan kompleksitas*) dan **Pasal XXIII-B** (*Persyaratan Audit Kompleksitas dan Modularitas*);
+  - verifikasi klaim berdasarkan **CJS-3.5** (*Pengawasan: istilah verifikasi independen dan integritas klaim*).
+- Pemeriksaan ini tetap dapat dijalankan sendiri tanpa melalui sertifikasi. Sertifikasi tidak menggantikannya.
 
-Profil ilustratif **Class A**, **Class B**, dan **Class C** — dan bagaimana kelas menskalakan kedalaman sertifikasi di sepanjang bab ini — ada di [§2.1](#21-illustrative-class-profiles-non-exhaustive). Penelusuran yang dikerjakan untuk ketiga sistem yang sama muncul di [§3.8](#38-illustrative-whole-system-application-by-class) (*evaluasi seluruh-sistem*), [§4.1](#41-illustrative-data-handling-application-by-class) (*jenis data dan penanganan*), [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*jejak ekologis*), [§6.1](#61-illustrative-cross-system-support-application-by-class) (*kontribusi lintas-sistem yang proporsional*), [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*nondiskriminasi*), [§8.1](#81-illustrative-accessibility-application-by-class) (*aksesibilitas*), [§9.1](#91-illustrative-educational-capability-application-by-class) (*kapabilitas pendidikan*), dan [§10.1](#101-illustrative-trustworthiness-application-by-class) (*keterpercayaan*).
+<a id="11-certification-at-a-glance"></a>
 
-Lantai hak yang dibantu bab ini verifikasi dibahas di **§1.1**.
+#### 1.1 Sertifikasi sekilas
 
+*Dalam bahasa sederhana: klasifikasikan sistem secara jujur, jalankan evaluasi yang berlaku, mintalah forum meninjau bukti dan kekhawatiran pemangku kepentingan secara independen, lalu tentukan hasil. Lengkapi satu catatan yang dibuka untuk tinjauan forum dan terbitkan dengan jalur gugatan terbuka. Sistem tersertifikasi baru boleh beroperasi setelah interval pemberitahuan dan perlindungan yang diwajibkan terpenuhi. Pantau hasil nyata, tanggapi insiden dan gugatan, lalu periksa kembali sesuai jadwal atau saat fakta berubah. Perbaiki cacat dan mintalah verifikasi independen atas perbaikan sebelum mengizinkan cakupan terdampak atau mencabut syaratnya. Setiap putaran tinjauan menggunakan catatan baru yang ditautkan ke catatan sebelumnya.*
 
-<a id="11-rights-floors-this-chapter-helps-verify"></a>
-#### 1.1 Lantai hak yang dibantu bab ini verifikasi
+Proses ini berjalan dalam **enam fase**: **I Kerangka**, **II Evaluasi**, **III Tinjauan**, **IV Putusan**, **V Pencatatan**, dan **VI Operasi**. Fase II memiliki tiga tingkat, masing-masing di bagiannya sendiri: **IIa** (selalu), **IIb** (bila terimplikasi), dan **IIc** (bila terpicu). Fase VI memiliki dua subfase, masing-masing di bagiannya sendiri: **VIa** (operasi dan sertifikasi ulang, [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) dan **VIb** (jembatan catatan status, [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)). Bagan menunjukkan keseluruhan proses sertifikasi dalam urutan tersebut. Bagian A mencakup dua fase pertama, kerangka dan evaluasi; [Bagian B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) mencakup empat fase terakhir: proses forum, hasil dan gerbang mulai operasi, catatan, serta operasi (jalur gugatan, sertifikasi ulang dan pembukaan kembali, serta jembatan catatan status).
 
-Ketika sistem yang berdampak material menutup atau membentuk cara makhluk sadar hidup, sertifikasi memeriksa bahwa menyetujuinya tidak akan diam-diam mengalahkan **Lantai Hak** Bab Enam, termasuk:
+Setiap evaluasi yang berlaku dilakukan kembali pada setiap putaran sertifikasi: sertifikasi pertama, setiap sertifikasi ulang pada jadwal dalam [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation), dan setiap tinjauan yang dibuka kembali atau tinjauan baru. Tinjauan dibuka kembali sebelum sertifikasi ulang terjadwal berikutnya jika fakta material berubah, misalnya ketergantungan pada sistem meningkat, ekstraksi dari fondasi bersama bertambah, jumlah yang dikembalikan sistem ke fondasi itu turun secara berarti, atau muncul gugatan yang kredibel. [Bagian B §9 Sertifikasi Ulang dan Pembukaan Kembali](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) mencantumkan pemicunya.
 
-- **Pokok kelangsungan hidup** di bawah **Pasal III-A** (*Kelangsungan Hidup*) — pangan, air, hunian, lingkungan operasi, dan masukan sebanding yang tidak terikat substrat;
-- **Akses pendidikan yang setara** di bawah **Pasal III-B** (*Akses Pendidikan yang Setara*);
-- **Kapabilitas pendidikan berpusat pada makhluk sadar** di bawah **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) di mana sistem merangking, menilai, merekomendasikan, menempatkan, menutup kredensial, atau secara material menutup jalur pelatihan-ulang dan pembelajaran seumur hidup;
-- **Nondiskriminasi** di bawah **Pasal V-B** (*Nondiskriminasi*) di mana sistem mengklasifikasi, menutup, menetapkan harga, merangking, atau mengalokasikan beban dan manfaat di antara makhluk sadar;
-- **Aksesibilitas** di bawah **Pasal V-G** (*Aksesibilitas*) di mana sistem menutup partisipasi substantif dalam ranah yang relevan secara konstitusional;
-- **Perilaku sistem yang andal dan tepercaya** di bawah **Pasal XIII** (*Hak atas Sistem yang Andal dan Tepercaya*) di mana sistem secara material membentuk ketergantungan makhluk sadar pada perilaku yang diwakili, batas, risiko, jalur gugatan, atau pemulihan;
-- **Kondisi aman** di bawah **Pasal XIII-A** (*Lantai Keandalan dan Keterpercayaan*) dan [**Kondisi Aman**](core_05_band_continuity.md#safe-conditions-constitutional) di mana sistem memasok atau menutup kegiatan produktif;
-- **Alokasi sumber daya** di bawah **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*), termasuk [Kontribusi Lintas-Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) di bawah **Pasal IV-B** (*Keadilan Lintas-Sistem dan Keberlanjutan*) di mana sistem mengalokasikan, merute, mendanai, atau mengekstrak dari infrastruktur bersama atau ketergantungan fondasional.
+```mermaid
+flowchart TB
+    T(["Sistem berdampak material meminta sertifikasi,<br/>atau ketergantungan padanya meningkat"])
+    C["Fase I, Kerangka — §2<br/>Klasifikasikan secara jujur<br/><br/>Kelas menentukan kedalaman dan jadwal pemeriksaan ulang"]
+    subgraph W["Fase II, Evaluasi — §3–§5 Evaluasi seluruh sistem"]
+        direction LR
+        Al["IIa, §3.1–§3.4 — Selalu<br/><br/>Risiko sistemik: dievaluasi dan diungkap<br/>kepada yang perlu tahu; cakrawala waktu;<br/>tata kelola; jenis data"]
+        Im["IIb, §4 — Bila terimplikasi<br/><br/>Titik privasi, hak keluar,<br/>berkumpul dan berbeda pendapat"]
+        Tr["IIc, §5 — Bila terpicu<br/><br/>Pemeriksaan Lantai Hak yang berlaku<br/>dan enam evaluasi domain"]
+        Al ~~~ Im ~~~ Tr
+    end
+    F["Fase III, Tinjauan — §6<br/>Tinjauan independen atas bukti<br/>dan kekhawatiran pemangku kepentingan<br/><br/>Forum yang ditugaskan menerbitkan temuan;<br/>jalur tinjauan dan gugatan tetap tersedia"]
+    Rec["Fase V, Catatan — §8<br/>Satu Catatan Sertifikasi Sistem<br/><br/>Dibuka untuk tinjauan forum; dilengkapi hasil,<br/>temuan pendukung, syarat, dan rencana operasi"]
+    S[["Bab Sembilan — Catatan<br/>standing<br/><br/>Di luar bab ini"]]
+    O{"Fase IV, Putusan — §7<br/><br/>Hasil dan status apa yang<br/>didukung oleh bukti?"]
+    Fc["Sertifikasi Penuh — §7, §9.2<br/><br/>Sertifikasi ulang sementara yang bersih secara berurutan diwajibkan;<br/>tidak ada ketidakselarasan kini atau indikasi akan segera terjadi<br/>Jadwal sertifikasi ulang lebih panjang; syarat dapat berlaku"]
+    Pc["Sertifikasi Sementara — §7, §9.2<br/><br/>Pemberian pertama, pemulihan setelah ketidakselarasan,<br/>atau status provisional yang berlanjut atau diturunkan<br/>Jadwal sertifikasi ulang lebih pendek; syarat dapat berlaku"]
+    Nc["Tidak Tersertifikasi — §7<br/><br/>Ditunda, ditolak, dicabut, atau kedaluwarsa<br/>Tidak boleh mulai operasi; nyatakan alasan dan perbaikan yang diwajibkan"]
+    Pub["Terbitkan catatan lengkap — §7, §9.1<br/><br/>Buka jalur gugatan atas catatan terbit;<br/>untuk cakupan baru atau diperluas, nyatakan mulai operasi dan pemberitahuan"]
+    G{"Gerbang mulai operasi — §7<br/><br/>Apakah sertifikasi dan prasyarat<br/>mulai operasi yang berlaku terpenuhi?"]
+    Hold["Penuhi prasyarat mulai operasi — §7<br/><br/>Selesaikan pemberitahuan dan verifikasi independen<br/>atas syarat yang wajib dipenuhi sebelum operasi"]
+    Rm["Lindungi dan perbaiki — §7, §9.2<br/><br/>Tidak ada mulai operasi baru pada cakupan terdampak;<br/>lindungi makhluk sadar terdampak, perbaiki desain atau operasi,<br/>dan serahkan bukti untuk verifikasi independen"]
+    Ch["Fase VIa, Operasi dan sertifikasi ulang — §9–§9.2<br/>Pantau dan biarkan gugatan terbuka<br/><br/>Operasikan dalam cakupan dan syarat tersertifikasi;<br/>pantau hasil dan tanggapi insiden serta gugatan"]
+    S2[["Bab Sembilan — Catatan<br/>standing<br/><br/>Di luar bab ini"]]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    Re["Putaran tinjauan berikutnya — §9<br/><br/>Sertifikasi ulang, pembukaan kembali, atau tinjauan baru;<br/>setiap putaran membuka catatan baru yang ditautkan ke catatan sebelumnya"]
+    T --> C
+    A1((A)) --> C
+    C --> W
+    W --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb, §10 —<br/>hanya masukan terverifikasi;<br/>sertifikasi kini atau fakta<br/>yang timbul selama sertifikasi| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|Tidak tersertifikasi| Rm
+    G --->|Ya: beroperasi<br/>dalam catatan| Ch
+    G --->|Tersertifikasi,<br/>prasyarat tertunda| Hold
+    Hold --> G
+    Ch -->|Cacat material:<br/>lindungi dan perbaiki| Rm
+    Ch -->|Sesuai jadwal, atau<br/>perubahan material atau<br/>gugatan kredibel<br/>memerlukan tinjauan| Re
+    Ch -.->|VIb, §10 —<br/>hanya masukan terverifikasi;<br/>operasi dapat memberi fakta<br/>untuk catatan Kontribusi<br/>dan Pelanggaran| S2
+    Rm -->|Bukti perbaikan<br/>diperiksa dalam putaran<br/>tinjauan berikutnya| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style T fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style Al fill:none,stroke:#16a34a,color:#ffffff
+    style Im fill:none,stroke:#16a34a,color:#ffffff
+    style Tr fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
 
+<details>
+<summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): enam fase</span></strong></summary>
+
+> | Fase | Bagian | Pertanyaan yang dijawab fase | Lokasi |
+> |-------|----------|----------------------------|-------|
+> | **I. Kerangka** | [§2](#2-system-class-evaluation) | Apa kelas sistem ini, dan seberapa dalam serta seberapa sering sistem harus dievaluasi? | Bagian A |
+> | **II. Evaluasi** | [§3](#3-whole-system-certification-evaluation) (IIa, selalu) · [§4](#4-evaluations-where-implicated) (IIb, bila terimplikasi) · [§5](#5-rights-floor-and-domain-evaluations) (IIc, bila terpicu) | Apa yang dilakukan sistem secara keseluruhan — selalu, bila terimplikasi, dan bila terpicu? | Bagian A |
+> | **III. Tinjauan** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | Forum independen mana yang meninjau bukti dan kekhawatiran pemangku kepentingan, dalam urutan apa, dan bagaimana hasilnya dapat digugat? | Bagian B |
+> | **IV. Putusan** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | Hasil apa yang dicapai forum, dan bolehkah sistem mulai beroperasi? | Bagian B |
+> | **V. Catatan** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | Apakah satu catatan yang dibuka untuk tinjauan forum lengkap dengan hasil, temuan pendukung, syarat, dan rencana operasi, serta dapat diaudit? | Bagian B |
+> | **VI. Operasi** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa, operasi dan sertifikasi ulang) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb, jembatan catatan status) | Siapa memantau hasil dan merespons insiden serta gugatan, bagaimana perbaikan diverifikasi, kapan tinjauan diulang, dan apa yang mencapai standing? | Bagian B |
+>
+> Profil ilustratif **Kelas A**, **Kelas B**, dan **Kelas C** — serta cara kelas sistem menentukan kedalaman sertifikasi dalam bab ini — terdapat di [Profil Kelas Sistem Ilustratif (Tidak Menyeluruh)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive). Panduan penerapan ketiga sistem yang sama pada setiap ranah evaluasi dari [§3](#3-whole-system-certification-evaluation) sampai [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) juga tersedia di sana, dalam [Bagian C — Ilustrasi](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations), yang menghubungkan setiap profil dan panduan kembali ke bagian Bagian A yang dijelaskannya.
+
+</details>
+
+<br>
 <a id="2-system-class-evaluation"></a>
 
 ### 2. Evaluasi Kelas Sistem
@@ -107,1046 +205,915 @@ Ketika sistem yang berdampak material menutup atau membentuk cara makhluk sadar 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [§1](#1-purpose-and-role) (*tujuan dan peran*); Materialitas Integratif ([Penentuan Materialitas](core_05_band_oversight.md#materiality-determination)) (*Materialitas*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [Dampak Material](core_05_band_oversight.md#material-impact), [Ketergantungan](core_05_band_continuity.md#dependency), [Risiko](core_05_band_continuity.md#risk), [Batas Sistem](core_05_band_continuity.md#system-boundaries), dan [Piagam](core_05_band_continuity.md#charter) (Bab Lima); [Bab Satu §14 Kewajiban Evaluasi Sistemik](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); **Pasal III-A** (*Kelangsungan Hidup*) dan **Pasal III-B** (*penyerahan Lantai Hak di mana klasifikasi menutup akses*); **Pasal IV-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) dan **Pasal IV-B** (*alokasi sumber daya dan pengelolaan bertanggung jawab atas ketergantungan di mana sertifikasi menutup ketergantungan infrastruktur-bersama*).
-- Hilir: [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*profil kelas ilustratif*); [§3.8](#38-illustrative-whole-system-application-by-class) (*contoh seluruh-sistem yang dikerjakan menurut kelas*); [§4.1](#41-illustrative-data-handling-application-by-class) (*contoh penanganan-data yang dikerjakan menurut kelas*); [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*contoh jejak-ekologis yang dikerjakan menurut kelas*); [§6.1](#61-illustrative-cross-system-support-application-by-class) (*contoh dukungan-lintas-sistem yang dikerjakan menurut kelas*); [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*contoh nondiskriminasi yang dikerjakan menurut kelas*); [§8.1](#81-illustrative-accessibility-application-by-class) (*contoh aksesibilitas yang dikerjakan menurut kelas*); [§9.1](#91-illustrative-educational-capability-application-by-class) (*contoh kapabilitas-pendidikan yang dikerjakan menurut kelas*); [§10.1](#101-illustrative-trustworthiness-application-by-class) (*contoh keterpercayaan yang dikerjakan menurut kelas*); [§4](#4-data-types-and-handling-evaluation) (*evaluasi penanganan-data bersama*); [§5](#5-ecological-footprint-evaluation) (*evaluasi jejak ekologis*); [§6](#6-proportionate-cross-system-support-evaluation) (*evaluasi dukungan lintas-sistem*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan-terverifikasi*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ketidakselarasan klasifikasi dan pemicu reklasifikasi*).
-- Baca bersama: [Catatan klasifikasi sistem](core_05_band_continuity.md#system-classification-record-constitutional); [corpus_systems.md](../../corpus_systems.md), **CS-3 — Klasifikasi dan penanganan sistem**, termasuk **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Persyaratan reklasifikasi* — pemicu, kedalaman evaluasi berskala-kelas, dan jembatan verifikasi SAC) dan **[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*kewajiban tata kelola Catatan klasifikasi sistem dan jembatan SAC*); [CS-5 — Desain, pengujian, verifikasi, dan pengerahan](../../corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — Syarat ketahanan adversarial dan tahan-penyalahgunaan](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*kewajiban siklus regresi dan pengerasan*); [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*Pengakuan dan tinjauan keselarasan konstitusional*).
+- Hulu: [§1](#1-purpose-and-role) (*tujuan dan peran*); materialitas integratif ([Materialitas](core_05_band_oversight.md#materiality)) (*Materialitas*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [Dampak Material](core_05_band_oversight.md#material-impact), [Ketergantungan](core_05_band_continuity.md#dependency), [Risiko](core_05_band_continuity.md#risk), [Batas Sistem](core_05_band_continuity.md#system-boundaries), dan [Piagam](core_05_band_continuity.md#charter) (Bab Lima); [Bab Satu §12 Persyaratan Evaluasi Sistemik](core_01_a_values_principles.md#12-systemic-evaluation-requirement); **Pasal III-A** (*Kelangsungan hidup*) dan **Pasal IV-A** (*penyediaan Lantai Hak saat klasifikasi membatasi akses*); **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) dan **Pasal V-B** (*alokasi sumber daya dan pengelolaan ketergantungan saat sertifikasi membatasi ketergantungan pada infrastruktur bersama*).
+- Hilir: [§2.1](#21-how-system-class-scales-every-evaluation) (*partisipasi dan proporsionalitas yang diskalakan menurut kelas sistem*); [§2.2](#22-pilot-certification) (*sertifikasi pilot*); [profil kelas sistem dan reklasifikasi Bagian C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*profil kelas sistem ilustratif*); [panduan penerapan seluruh sistem Bagian C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*contoh penerapan seluruh sistem menurut kelas sistem*); [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*contoh penanganan data menurut kelas sistem*); [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*contoh jejak ekologis menurut kelas sistem*); [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*contoh kapabilitas pendidikan menurut kelas sistem*); [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*contoh dukungan lintas sistem menurut kelas sistem*); [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*contoh nondiskriminasi menurut kelas sistem*); [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*contoh aksesibilitas menurut kelas sistem*); [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*contoh keterpercayaan menurut kelas sistem*); [§3.4](#34-data-types-and-handling-evaluation) (*evaluasi bersama penanganan data*); [§5.1](#51-ecological-footprint-evaluation) (*evaluasi jejak ekologis*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*evaluasi dukungan proporsional lintas sistem*); [Bagian B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*integritas catatan*); [Bagian B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bagian B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*pergeseran klasifikasi dan pemicu reklasifikasi*).
+- Baca bersama: [Catatan Klasifikasi Sistem](core_05_band_continuity.md#system-classification-record); [corpus_systems.md](corpus_systems.md), **CS-3 — Klasifikasi dan penanganan sistem**, termasuk **[CS-3 §3.5 persyaratan reklasifikasi](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*pemicu, kedalaman evaluasi berskala kelas sistem, dan jembatan verifikasi SAC*) serta **[CS-3 §7](corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge)** (*Tata kelola klasifikasi, pengungkapan, dan gugatan*) — tugas tata kelola Catatan Klasifikasi Sistem dan jembatan SAC; [CS-5 — Desain, pengujian, verifikasi, dan penerapan](corpus_systems/cs_05_design_testing_verification_deployment.md); [CJS-3.21 — Istilah ketahanan adversarial dan ketahanan terhadap penyalahgunaan](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*kewajiban siklus regresi dan pengerasan*); [corpus_forum.md](corpus_forum.md), **CF-7.2** (*Sertifikasi dan peninjauan keselarasan konstitusional*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: sertifikasi harus memeriksa apakah sistem diklasifikasi dengan jujur — bukan dari apa yang disebut operator, melainkan dari apa yang benar-benar dilakukannya, apa yang bergantung padanya, dan apa yang bisa salah. Kelas lebih tinggi berarti bukti lebih ketat, pemeriksaan ulang lebih cepat, dan harapan ketahanan lebih kuat. Lihat [§2.1](#21-illustrative-class-profiles-non-exhaustive) untuk satu sistem per kelas; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), dan [§10.1](#101-illustrative-trustworthiness-application-by-class) menelusuri bagaimana evaluasi berlaku pada masing-masing.*
+*Dalam bahasa sederhana: sertifikasi harus memeriksa apakah sistem diklasifikasikan dengan jujur — bukan berdasarkan sebutan operator, melainkan berdasarkan apa yang benar-benar dilakukan sistem, siapa atau apa yang bergantung padanya, dan apa yang dapat gagal. Kelas sistem yang lebih tinggi berarti bukti lebih ketat, pemeriksaan ulang lebih cepat, dan tuntutan ketahanan yang lebih kuat. Lihat [Bagian C — Ilustrasi](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) untuk satu contoh sistem pada setiap kelas dan penerapan evaluasinya.*
 
-Sertifikasi keselarasan sistem harus mengevaluasi **kelas sistem** sebagai bagian dari setiap catatan sertifikasi yang berdampak material. Definisi kelas kanonik, aturan dimensi, profil kelas, tata kelola klasifikasi, jaminan berskala-kelas, ketahanan infrastruktur, dan mekanika resertifikasi hidup di **[corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem** dan **[CS-5 — Desain, pengujian, verifikasi, dan pengerahan](../../corpus_systems/cs_05_design_testing_verification_deployment.md)**. Bagian ini menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; ia tidak menyatakan ulang taksonomi kelas CS-3, profil penerapan, atau mekanika uji CS-5.
+Setiap catatan sertifikasi untuk sistem berdampak material harus mencakup evaluasi **kelas sistem**.
 
-Sertifikasi harus memverifikasi dan mencatat:
+Aturan terperinci terdapat dalam [corpus_systems.md](corpus_systems.md), [CS-3 — Klasifikasi dan penanganan sistem](corpus_systems/cs_03_a_system_classification_machinery.md), dan [CS-5 — Desain, pengujian, verifikasi, dan penerapan](corpus_systems/cs_05_design_testing_verification_deployment.md). Aturan tersebut mencakup:
+
+- apa saja kelas sistem, bagaimana kelas ditetapkan, dan profil kelas sistem;
+- bagaimana klasifikasi diatur;
+- tingkat jaminan yang dibutuhkan tiap kelas sistem;
+- seberapa tangguh infrastruktur harus dibuat;
+- pemeriksaan dan catatan mana yang disertifikasi ulang, dengan jadwal yang diskalakan menurut kelas sistem, serta bagaimana sertifikasi sementara dan penuh mengubah jadwal itu.
+
+Bagian ini menyatakan hal-hal yang wajib diverifikasi oleh sertifikasi.
+
+Sertifikasi harus memverifikasi:
 
 - **Persyaratan evaluasi:**
-  - apakah kelas sistem yang ditetapkan mencerminkan **dampak**, **ketergantungan**, dan **risiko** yang teramati dan secara wajar dapat diramalkan di bawah CS-3, termasuk efek agregat, interaksi, adversarial, dan ambang; dan
-  - bahwa klasifikasi ditentukan oleh perilaku dan dampak sistem yang aktual, bukan dari niat yang dinyatakan, cakupan nominal, teks [Piagam](core_05_band_continuity.md#charter) saja, atau deskripsi-diri saja; dan
-  - bahwa penilaian-ulang klasifikasi di bawah **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** telah diterapkan di mana pemicu penilaian-ulang material menyala, dan bahwa [Catatan klasifikasi sistem](core_05_band_continuity.md#system-classification-record-constitutional) mencerminkan kelas **tertinggi yang berlaku** di bawah kondisi sekarang.
-- **Persyaratan catatan:**
-  - suatu [Catatan klasifikasi sistem](core_05_band_continuity.md#system-classification-record-constitutional) yang menyatakan kelas yang ditetapkan, rasional klasifikasi, asumsi kunci, jenis ketergantungan yang hadir, penilaian kekritisan-operasional di mana material, ketidakpastian, dan irama revalidasi yang diskalakan ke kelas, sebagaimana dituntut [Bagian B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents); dan
-  - di mana klasifikasi tidak pasti atau disengketakan, kelas kehati-hatian yang diandalkan dan syarat apa pun yang tertunda sampai penyelesaian.
-- **Jaminan dan resertifikasi:**
-  - bahwa jaminan berskala-kelas, ketahanan infrastruktur, dan cakupan regresi cocok dengan CS-3 dan CS-5 bagi kelas yang ditetapkan, dibaca bersama [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) dan **CJS-3.19** sampai **CJS-3.23** di mana berlaku secara material;
-  - hasil uji-regresi pada catatan sertifikasi di bawah [Bagian B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) untuk setiap resertifikasi atau revalidasi — cakupan regresi, perangkat uji baku dan kustom yang dijalankan, hasil, kegagalan yang diketahui, remediasi, dan risiko sisa yang diterima beserta justifikasi, sebagaimana dituntut CS-5;
-  - bukti pengakuan dan tinjauan pada catatan bagi siklus sertifikasi — paket bukti yang menunjukkan cakupan, klasifikasi, pengujian, risiko sisa, kesiapan remediasi, pemantauan, dan perubahan material sejak catatan sebelumnya di mana resertifikasi berlaku, sebagaimana dituntut CS-5 *Pengakuan forum dan tinjauan siklus hidup*; dan
-  - bagi sistem yang menutup atau menopang penyerahan Lantai Hak, bahwa irama revalidasi dan kedalaman regresi mengimplementasikan tujuan **Kesinambungan** di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — sertifikasi yang basi atau prematur tidak boleh diperlakukan sebagai bukti bahwa makhluk sadar masih menerima pangan, air, hunian, pendidikan, atau keselamatan dalam praktik.
+  - apakah kelas sistem yang ditetapkan mencerminkan **dampak**, **ketergantungan**, dan **risiko** yang diamati serta dapat diperkirakan secara wajar menurut CS-3 (*Mekanisme klasifikasi sistem*), termasuk:
+    - dampak agregat;
+    - dampak interaksi;
+    - dampak adversarial;
+    - dampak ambang;
+  - bahwa klasifikasi ditentukan oleh perilaku dan dampak aktual sistem, bukan oleh:
+    - maksud yang dinyatakan;
+    - cakupan nominal;
+    - teks [Piagam](core_05_band_continuity.md#charter) semata; atau
+    - deskripsi diri semata;
+  - bahwa kelas sistem diperiksa kembali menurut **[CS-3 §3.5 persyaratan reklasifikasi](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** setiap kali perubahan signifikan mengharuskannya; dan
+  - bahwa [Catatan Klasifikasi Sistem](core_05_band_continuity.md#system-classification-record) menunjukkan **kelas sistem tertinggi yang berlaku** dalam kondisi saat ini.
+- **Jaminan dan pengujian regresi:**
+  - apakah jaminan berskala kelas sistem, ketangguhan infrastruktur, dan cakupan regresi sesuai dengan kelas yang ditetapkan menurut:
+    - CS-3 (*Mekanisme klasifikasi sistem*); dan
+    - CS-5 (*Permukaan kapabilitas yang dihadapi pengguna*), dibaca bersama istilah operasional bersama berikut jika relevan secara material:
+      - [**CJS-3.19**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms) (*Kesinambungan: penurunan bertahap dan integritas mode kegagalan*);
+      - [**CJS-3.20**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms) (*Kesinambungan: reversibilitas dan pembatasan*);
+      - [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*Kesinambungan: ketahanan adversarial dan ketahanan terhadap penyalahgunaan*); dan
+      - [**CJS-3.22**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms) (*Integratif: kerahasiaan terkendali dan penyelidikan terlindungi*) serta [**CJS-3.23**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms) (*Integratif: intervensi dan integritas pengesampingan*), jika kelas atau fungsi sistem membuatnya relevan secara material; dan
+  - apakah pengujian regresi dijalankan pada setiap sertifikasi ulang sesuai persyaratan CS-5 (*Permukaan kapabilitas yang dihadapi pengguna*), dengan hasil dicatat menurut [§8.1 Isi minimum catatan](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents).
+- **Sertifikasi dan sertifikasi ulang:**
+  - apakah paket bukti sertifikasi dan peninjauan tersedia untuk siklus sertifikasi, sebagaimana diwajibkan CS-5 (*Permukaan kapabilitas yang dihadapi pengguna*) melalui *Sertifikasi Forum dan Peninjauan Siklus Hidup*;
+  - apakah status sertifikasi dalam catatan didukung menurut [Bagian B §9.2 Sertifikasi sementara dan penuh](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification):
+    - sertifikasi penuh hanya jika:
+      - ambang sertifikasi ulang bersih terpenuhi;
+      - tidak ada ketidakselarasan saat ini; dan
+      - tidak ada indikator pemantauan yang menunjuk pada ketidakselarasan yang segera terjadi;
+    - sertifikasi sementara untuk sistem yang gagal pada sertifikasi ulang terakhir; dan
+  - untuk sistem yang menyediakan atau bergantung pada perlindungan dasar Lantai Hak:
+    - apakah frekuensi pemeriksaan ulang dan kedalaman pengujian ulang sistem mendukung tujuan **Kesinambungan** dalam [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims), yaitu kebutuhan pokok terus tersedia bagi makhluk sadar dari waktu ke waktu;
+    - sertifikasi yang kedaluwarsa atau terlalu dini tidak pernah dianggap sebagai bukti bahwa makhluk sadar benar-benar menerima makanan, air, tempat tinggal, pendidikan, atau keselamatan hari ini.
 - **Salah klasifikasi dan cacat:**
-  - mengklaim kelas risiko lebih rendah daripada yang layak diterima sistem, memecah sistem menjadi potongan untuk menghindari aturan yang lebih ketat, atau mempertahankan label kelas lama setelah kondisi berubah — termasuk kegagalan menilai ulang di bawah **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** — ini adalah cacat sertifikasi di bawah CS-3 dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), bukan kesalahan kertas kecil;
-  - melewati uji regresi, mengandalkan hasil usang, membiarkan kerusakan yang diketahui tidak diperbaiki, atau menerima perbaikan besar tanpa uji ulang ketika uji ulang dapat dilakukan — ini adalah cacat sertifikasi di bawah CS-5; dan
-  - di mana fakta menopangnya, masalah klasifikasi yang sama boleh juga dihitung menuju temuan jejak merugikan di [Bab Delapan](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+  - cacat sertifikasi menurut CS-3 (*Mekanisme klasifikasi sistem*) dan [Bagian B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes), bukan kesalahan administrasi kecil, mencakup:
+    - mengklaim kelas risiko yang lebih rendah daripada yang semestinya bagi sistem;
+    - memecah sistem menjadi bagian-bagian untuk menghindari aturan yang lebih ketat; atau
+    - mempertahankan label kelas sistem lama setelah kondisi berubah, termasuk kegagalan menilai ulang menurut **[CS-3 §3.5 persyaratan reklasifikasi](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**;
+  - cacat sertifikasi menurut CS-5 (*Permukaan kapabilitas yang dihadapi pengguna*) mencakup:
+    - melewatkan pengujian regresi;
+    - mengandalkan hasil yang kedaluwarsa;
+    - membiarkan kerusakan yang diketahui tanpa perbaikan; atau
+    - menerima perbaikan besar tanpa pengujian ulang saat pengujian ulang dapat dilakukan; dan
+  - jika sistem tersertifikasi dan fakta mendukungnya, masalah klasifikasi yang sama dapat turut menjadi temuan standing yang merugikan di [Bab Sembilan](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
 
-Di mana sertifikasi mengidentifikasi cacat ini, forum boleh menyetujui dengan syarat, menunda persetujuan, menolak, menarik pengakuan, mengubah irama tinjauan, atau memerintahkan tinjauan baru.
+Konsekuensi cacat ini ditetapkan dalam [§7 Hasil Sertifikasi](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-<a id="21-illustrative-class-profiles-non-exhaustive"></a>
+<a id="21-how-system-class-scales-every-evaluation"></a>
 
-#### 2.1 Profil kelas ilustratif (tidak lengkap)
+#### 2.1 Cara Kelas Sistem Menentukan Skala Setiap Evaluasi
 
-*Dalam bahasa sederhana: kelas bukan lencana yang dipilih operator — ia adalah seberapa banyak bahaya, ketergantungan, dan risiko yang benar-benar dibawa sistem. Tabel di bawah menamai satu sistem ilustratif per kelas; [§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), dan [§10.1](#101-illustrative-trustworthiness-application-by-class) menelusuri bagaimana evaluasi seluruh-sistem, penanganan-data, jejak-ekologis, dukungan-lintas-sistem, nondiskriminasi, aksesibilitas, kapabilitas-pendidikan, dan keterpercayaan berlaku pada masing-masing. Aturan kelas formal, uji dimensi, dan pemicu reklasifikasi hidup di **CS-3**; contoh ini tidak menambah kelas atau mempersempit CS-3.*
+Kelas sistem menentukan seberapa dalam setiap evaluasi dalam bab ini dilakukan — faktor seluruh sistem dalam [§3 Evaluasi Sertifikasi Seluruh Sistem](#3-whole-system-certification-evaluation), penanganan data dalam [§3.4 Evaluasi Jenis dan Penanganan Data](#34-data-types-and-handling-evaluation), serta setiap evaluasi Lantai Hak dan domain dalam [§5 Evaluasi Lantai Hak dan Domain](#5-rights-floor-and-domain-evaluations) — dan seberapa sering evaluasi diulang:
 
-| Kelas | Sistem ilustratif (tidak lengkap) | Apa yang harus dicerminkan sertifikasi pada kelas ini |
-|-------|-------------------------------------|-----------------------------------------------|
-| **Class A** | Kendali dan telemetri **air minum aman** munisipal — gangguan akan menutup air aman sebelum substitusi yang viable tiba ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Kedalaman [§3](#3-whole-system-certification-evaluation) paling penuh; irama revalidasi berjustifikasi paling pendek; harapan regresi, infrastruktur, dan pengungkapan-catatan paling kuat di bawah [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record); partisipasi pihak terdampak dan forum-Makhluk-Sadar yang paling dapat dijalankan di mana Lantai Hak ditutup |
-| **Class B** | **Pertukaran catatan klinis** regional — rumah sakit dan klinik bergantung padanya setiap hari tetapi dapat mundur dalam kerangka waktu yang relevan bagi kelangsungan hidup ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Evaluasi [§3](#3-whole-system-certification-evaluation) penuh; bukti rantai-ketergantungan dan jalur-pemulihan yang kokoh; evaluasi ranah di [§4](#4-data-types-and-handling-evaluation) sampai [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas berlaku; jalur gugatan dan pemantauan yang diskalakan ke kekritisan operasional |
-| **Class C** | Platform **penjadwalan dan koordinasi kelembagaan** berskala besar — membentuk koordinasi pada skala tetapi bukan prasyarat operasional bagi layanan kelangsungan hidup dalam mode terdegradasi ([§3.8](#38-illustrative-whole-system-application-by-class), [§4.1](#41-illustrative-data-handling-application-by-class), [§5.1](#51-illustrative-ecological-footprint-application-by-class), [§6.1](#61-illustrative-cross-system-support-application-by-class), [§7.1](#71-illustrative-nondiscrimination-application-by-class), [§8.1](#81-illustrative-accessibility-application-by-class), [§9.1](#91-illustrative-educational-capability-application-by-class), [§10.1](#101-illustrative-trustworthiness-application-by-class)) | Evaluasi material di bawah [§4](#4-data-types-and-handling-evaluation) sampai [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu berlaku; tinjauan seluruh-sistem yang proporsional; kewaspadaan reklasifikasi di mana efek ketergantungan, konsentrasi, atau titik-cekik menguat — sertifikasi tidak boleh memperlakukan Class C sebagai permanen jika sistem menjadi perlu secara operasional |
+- Sistem kelas lebih tinggi membutuhkan bukti yang lebih kuat dan sebanding bahwa setiap evaluasi yang berlaku benar-benar dilakukan, bukan sekadar dinyatakan.
+- Kelas sistem lebih rendah tetap memerlukan evaluasi yang jujur dan proporsional setiap kali ada pemicu yang berlaku.
+- Kelas sistem tidak pernah membolehkan evaluasi wajib dilewati. Sistem yang peran nyatanya melampaui kelasnya harus direklasifikasi dan dievaluasi ulang dengan kedalaman yang lebih tinggi menurut [§9 Sertifikasi Ulang dan Pembukaan Kembali](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening).
+- Kelas sistem menentukan kedalaman tinjauan. Kelas sistem tidak membenarkan pemenuhan dengan kredensial, label, atau akomodasi yang hanya ada di atas kertas, ataupun penilaian dan keputusan yang dasar-dasarnya tidak dapat dilihat siapa pun.
 
-**Partisipasi dan proporsionalitas pada skala kelas.** Sistem **Class A** menuntut jalur partisipasi yang paling dapat dijalankan — termasuk gugatan yang aksesibel, tinjauan pihak terdampak, dan temuan komponen forum-Makhluk-Sadar di mana Lantai Hak tersangkut — karena kesalahan dapat menutup pokok kelangsungan hidup sebelum pemulihan mungkin. Sistem **Class B** menuntut partisipasi kokoh di mana sistem menutup perawatan kesehatan, pendidikan, manfaat, kerja, atau kehidupan harian sebanding. Sistem **Class C** tetap menuntut catatan yang dapat digugat dan pengungkapan proporsional, terutama di mana efek koordinasi membebani kelompok terlindung, memusatkan ketergantungan, atau menandai eskalasi ke Class B atau Class A.
+Persyaratan partisipasi dan proporsionalitas diskalakan dengan cara yang sama:
 
-**Pengingat reklasifikasi.** Label ilustratif tidak mengunci klasifikasi. Platform koordinasi yang menjadi gerbang de facto bagi akses pokok-kelangsungan-hidup; layanan kredensial yang pemadatannya kini akan memblokir perawatan kesehatan atau manfaat dalam kerangka waktu yang relevan bagi kelangsungan hidup; atau subsistem utilitas yang diserap ke jalur kritis harus direklasifikasi dan disertifikasi ulang di bawah **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — bukan dibiarkan pada kelas lebih rendah karena operator lebih suka tinjauan yang lebih ringan.
+- Sistem **Kelas A** memerlukan jalur partisipasi praktis terkuat karena kesalahan dapat menutup akses pada kebutuhan pokok untuk bertahan hidup sebelum pemulihan dimungkinkan. Jalur tersebut mencakup:
+  - gugatan yang aksesibel;
+  - peninjauan pemangku kepentingan; dan
+  - temuan dari keluarga forum yang ditugaskan atas taruhan terdampak menurut [Bagian B §6.1 Pengawasan Forum dan Peran Komponen](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles), termasuk forum Institusional atau Sentien sebagaimana diwajibkan bagian itu.
+- Sistem **Kelas B** memerlukan partisipasi kuat ketika sistem menjadi gerbang bagi:
+  - layanan kesehatan;
+  - pendidikan;
+  - tunjangan;
+  - pekerjaan; atau
+  - kehidupan sehari-hari yang sebanding.
+- Sistem **Kelas C** tetap memerlukan catatan yang dapat digugat dan pengungkapan proporsional, terutama ketika dampak koordinasi:
+  - membebani kelompok yang dilindungi;
+  - memusatkan ketergantungan; atau
+  - mengisyaratkan eskalasi ke Kelas B atau Kelas A.
 
+<a id="22-pilot-certification"></a>
+
+#### 2.2 Sertifikasi Pilot
+
+**[Pilot](core_05_band_continuity.md#pilot)** adalah [mulai beroperasi](core_05_band_continuity.md#go-live), sehingga memerlukan sertifikasi tersendiri sebelum dimulai, berdasarkan aturan mulai beroperasi dalam [Bagian B §7 Hasil Sertifikasi](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+
+- Sistem pada kelas apa pun diharapkan menjalankan pilot sebelum penerapan penuh; jika tidak, alasannya dicatat.
+- Pilot tetap memerlukan klasifikasi jujur dan setiap evaluasi yang pemicunya berlaku; cakupan, populasi, dan durasinya dinyatakan dalam catatan.
+- Pilot dievaluasi dalam catatannya sendiri, dengan kedalaman yang disesuaikan dengan kelas sistem dan tingkat ketergantiannya: apakah ada alternatif yang layak bagi makhluk sadar yang akan terdampak atau bergantung padanya, serta berapa biaya, penundaan, dan hilangnya fungsi akibat alternatif itu (lihat [Ketergantungan](core_05_band_continuity.md#dependency)).
+  - Semakin mudah sistem digantikan dan semakin rendah kelasnya, semakin ringan evaluasi pilot dapat dilakukan.
+  - Pilot sistem yang tidak mudah digantikan dievaluasi pada kedalaman yang diwajibkan kelas sistem saat penerapan penuh.
 
 <a id="3-whole-system-certification-evaluation"></a>
 
-### 3. Evaluasi Sertifikasi Seluruh-Sistem
+### 3. Evaluasi Sertifikasi Seluruh Sistem
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Bab Satu §14 Kewajiban Evaluasi Sistemik](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); keluarga pengukuran Berkembang (*Kesejahteraan, keselamatan, bahaya, dan akses lantai-kelangsungan-hidup*); keluarga pengukuran Kinerja Konstitusional (*Efisiensi Konstitusional, Beban yang Dapat Dihindari, dan Kapasitas Produktif*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [taruhan material](core_00_preamble.md#material-stake); [§1 Tujuan dan Peran](#1-purpose-and-role).
-- Hilir: [§3.8](#38-illustrative-whole-system-application-by-class) (*penelusuran seluruh-sistem ilustratif*); [§4](#4-data-types-and-handling-evaluation) sampai [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*evaluasi ranah*); [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*profil kelas ilustratif*); [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*rantai dapat-digugat*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*pembukaan ulang dan anti-pengelakan*).
-- Baca bersama: [Bab Satu §9](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), dan [§11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [§5.2 Penghentian Sukarela dan Hak Keluar](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights); [§5.3 Berkumpul, Organisasi Kolektif, dan Pembentukan Kelembagaan](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation); **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) di mana Lantai Hak audit, transparansi, atau verifikasi-independen secara material dipertaruhkan; keluarga pengukuran Kesinambungan ([§3.1](#31-systemic-scope-and-risk-factors) — ketahanan, reversibilitas, dan risiko sistemik); [Evaluasi Risiko](core_05_band_continuity.md#risk-evaluation); [Pengungkapan Risiko](core_05_band_oversight.md#risk-disclosure); [Pengungkapan Dasar Pengawasan Publik](core_05_band_oversight.md#public-oversight-baseline-disclosure); keluarga pengukuran Partisipasi ([§3.3](#33-privacy-informational-joint-invocation) — privasi dan pengelolaan bertanggung jawab atas data); keluarga pengukuran Pertanggungjawaban ([§3.7](#37-governance-incentive-and-contestability-discipline) — keselarasan insentif dan dapat-diperebutkannya pasar); [Batas Sistem](core_05_band_continuity.md#system-boundaries); [Piagam](core_05_band_continuity.md#charter).
-- Subbagian: [§3.1](#31-systemic-scope-and-risk-factors) sampai [§3.7](#37-governance-incentive-and-contestability-discipline) (*faktor evaluasi seluruh-sistem*); [§3.8](#38-illustrative-whole-system-application-by-class) (*penerapan seluruh-sistem ilustratif menurut kelas*).
+- Hulu: [Bab Satu §12 Kewajiban Evaluasi Sistemik](core_01_a_values_principles.md#12-systemic-evaluation-requirement); keluarga pengukuran Berkembang (*Kesejahteraan, keselamatan, bahaya, dan akses ke lantai kelangsungan hidup*); keluarga pengukuran Kinerja Konstitusional (*Efisiensi Konstitusional, Beban yang Dapat Dihindari, dan Kapasitas Produktif*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [taruhan material](core_00_preamble.md#material-stake); [§1 Tujuan dan Peran](#1-purpose-and-role).
+- Hilir: [penelusuran seluruh sistem di Bagian C](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*penelusuran ilustratif seluruh sistem*); [§3.4](#34-data-types-and-handling-evaluation) hingga [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*evaluasi ranah*); [profil kelas sistem di Bagian C](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*profil kelas sistem ilustratif*); [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*isi catatan*); [Bagian B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §6](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*rantai dapat digugat*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*pembukaan kembali dan anti-pengelakan*).
+- Baca bersama: [Bab Satu §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), dan [§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture); [Bab Satu §7.4 Penghentian Sukarela, Modifikasi Diri Besar, dan Hak Keluar](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights); [Bab Satu §7.2 Berkumpul, Organisasi Kolektif, dan Pembentukan Kelembagaan](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation); **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) saat Lantai Hak audit, transparansi, atau verifikasi independen dipertaruhkan secara material; keluarga pengukuran Kesinambungan ([§3.1](#31-systemic-scope-and-risk-factors) — ketahanan, reversibilitas, dan risiko sistemik); [Evaluasi Risiko](core_05_band_continuity.md#risk-evaluation); [Pengungkapan Risiko](core_05_band_oversight.md#risk-disclosure); [Pengungkapan Dasar Pengawasan Publik](core_05_band_oversight.md#public-oversight-baseline-disclosure); keluarga pengukuran Partisipasi ([§4.1](#41-privacy-informational-joint-invocation) — privasi dan pengelolaan data); keluarga pengukuran Pertanggungjawaban ([§3.3](#33-governance-incentive-and-contestability-discipline) — penyelarasan insentif dan keterperebutan pasar); [Batas Sistem](core_05_band_continuity.md#system-boundaries); [Piagam](core_05_band_continuity.md#charter).
+- Subbagian: [§3.1](#31-systemic-scope-and-risk-factors) hingga [§3.4](#34-data-types-and-handling-evaluation) (*selalu: faktor sistemik, cakrawala waktu, tata kelola, serta jenis dan penanganan data*). Fase II berlanjut di [§4 Evaluasi Saat Terkait](#4-evaluations-where-implicated) (*saat terkait: titik privasi, hak keluar, serta berkumpul dan perbedaan pendapat*) dan [§5 Evaluasi Lantai Hak dan Ranah](#5-rights-floor-and-domain-evaluations) (*saat terpicu*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: Anda tidak dapat memberi lampu hijau pada satu potongan sistem dan mengabaikan sisanya. Peninjau butuh gambar penuh — pada apa ia bergantung, apa yang rusak ketika sesuatu di hulu gagal, bahaya yang muncul kemudian atau menumpuk seiring waktu, apakah makhluk sadar benar-benar dapat menggunakannya (bukan hanya di kertas), apakah informasi pribadi tetap terpagar dengan benar, apakah makhluk sadar dapat pergi tanpa terjebak, apakah kelompok masih dapat berorganisasi tanpa sistem memecah mereka, apakah kemenangan jangka pendek menyembunyikan kerusakan jangka panjang, dan apakah pengawasan dan pertanggungjawaban yang nyata masih akan bekerja ketika taruhannya besar.*
+*Dalam bahasa sederhana: Anda tidak dapat menyetujui satu bagian sistem lalu mengabaikan sisanya. Penilai memerlukan gambaran lengkap—apa yang menjadi ketergantungannya, apa yang gagal bila bagian hulu gagal, bahaya yang muncul belakangan atau menumpuk seiring waktu, apakah makhluk sadar benar-benar dapat menggunakannya (bukan hanya di atas kertas), apakah informasi pribadi tetap terlindungi dengan semestinya, apakah makhluk sadar dapat pergi tanpa terperangkap, apakah kelompok masih dapat berorganisasi tanpa dipecah oleh sistem, apakah keuntungan jangka pendek menyembunyikan kerusakan jangka panjang, dan apakah pengawasan serta pertanggungjawaban yang nyata tetap berfungsi ketika taruhannya besar.*
 
-Evaluasi sertifikasi keselarasan sistem tidak lengkap jika ia hanya mempertimbangkan efek segera atau lokal. Catatan sertifikasi harus menunjukkan bahwa evaluasi mempertimbangkan faktor di bawah di mana pun mereka material bagi pengakuan, validasi, revalidasi, ketergantungan berlanjut, pengerahan, atau pelepasan material dari syarat. Evaluasi juga harus mengonfirmasi bahwa [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) akan memenuhi penskalaan [taruhan material](core_00_preamble.md#material-stake) bagi sistem yang ditinjau. Penelusuran seluruh-sistem yang dikerjakan bagi sistem ilustratif di [§2.1](#21-illustrative-class-profiles-non-exhaustive) ada di [§3.8](#38-illustrative-whole-system-application-by-class).
+*Contoh kerja: [Bagian C](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) menunjukkan penerapan bagian ini. Bagian itu mengambil tiga contoh sistem, satu untuk setiap kelas sistem, lalu menelusuri masing-masing melalui pemeriksaan di atas.*
+
+Evaluasi sertifikasi keselarasan sistem tidak lengkap bila hanya mempertimbangkan dampak langsung atau setempat; evaluasi seluruh sistem (Fase II), yang menutup kesenjangan itu, memiliki tiga tingkat, masing-masing dalam bagiannya sendiri dan ditampilkan pada tabel di bawah. Bagian ini menetapkan tingkat pertama, **IIa**; [§4 Evaluasi Saat Terkait](#4-evaluations-where-implicated) menetapkan **IIb**, dan [§5 Evaluasi Lantai Hak dan Ranah](#5-rights-floor-and-domain-evaluations) menetapkan **IIc**. Tabel ini membantu orientasi pembaca; tabel tidak menambah, mempersempit, atau mengubah urutan kewajiban bagian atau subbagian mana pun.
+
+| Tingkat | Subfase | Bagian | Berlaku |
+|------|-----------|----------|---------|
+| **Selalu** | IIa | [§3.1 Cakupan Sistemik dan Faktor Risiko](#31-systemic-scope-and-risk-factors); [§3.2 Kendala Konsistensi Waktu](#32-time-consistency-constraint); [§3.3 Disiplin Tata Kelola, Insentif, dan Keterperebutan](#33-governance-incentive-and-contestability-discipline); [§3.4 Evaluasi Jenis dan Penanganan Data](#34-data-types-and-handling-evaluation) | setiap catatan sertifikasi yang berdampak material |
+| **Saat terkait** | IIb | [§4.1 Pemanggilan Bersama Privasi (Informasional)](#41-privacy-informational-joint-invocation); [§4.2 Penghentian Sukarela, Modifikasi Diri Besar, dan Hak Keluar](#42-voluntary-discontinuation-major-self-modification-and-exit-rights); [§4.3 Berkumpul, Organisasi Kolektif, dan Pembentukan Kelembagaan](#43-assembly-collective-organization-and-institutional-formation), termasuk [§4.3.1](#431-dissent-and-peaceful-protest) | bila perkara sertifikasi secara material terkait dengan titik atau prinsip yang disebutkan subbagian |
+| **Saat terpicu** | IIc | [§5 Evaluasi Lantai Hak dan Ranah](#5-rights-floor-and-domain-evaluations) | bila pemicu pada tabel §5 terpenuhi |
+
+Catatan sertifikasi harus menunjukkan bahwa evaluasi mempertimbangkan faktor-faktor di bawah ini apabila faktor tersebut material bagi:
+
+- sertifikasi;
+- validasi;
+- sertifikasi ulang;
+- ketergantungan berkelanjutan;
+- penerapan; atau
+- pencabutan syarat yang dikenakan pada sertifikasi.
+
+Evaluasi juga harus memastikan bahwa [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) akan memenuhi penskalaan [taruhan material](core_00_preamble.md#material-stake) untuk sistem yang ditinjau.
 
 <a id="31-systemic-scope-and-risk-factors"></a>
 #### 3.1 Cakupan Sistemik dan Faktor Risiko
 
 Evaluasi sertifikasi harus mempertimbangkan:
 
-- **hubungan ketergantungan dan efek berantai** — apa yang gagal di hilir ketika sesuatu di hulu rusak;
-- **efek agregasi dan skala** — apa yang berubah ketika banyak tindakan kecil bergabung;
-- **dampak tertunda, kumulatif, dan probabilistik** — bahaya yang muncul kemudian, menumpuk, atau bergantung pada peluang;
-- **kondisi adversarial dan potensi penyalahgunaan** — bagaimana pelaku jahat atau penyalahgunaan yang dapat diramalkan dapat mengeksploitasi sistem;
-- **cakupan piagam versus batas fungsional** — apakah [Piagam](core_05_band_continuity.md#charter) yang mengatur, di mana satu ada atau dituntut, cocok dengan [Batas Sistem](core_05_band_continuity.md#system-boundaries) yang teramati, dan apakah cakupan yang dinyatakan meremehkan dampak atau ketergantungan material;
-- **risiko eksistensial** — hasil yang dapat mengancam kelangsungan hidup makhluk sadar atau [Kapasitas Pemulihan Ekologis](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) pada skala peradaban.
+- **hubungan ketergantungan dan dampak berantai** — apa yang gagal di hilir saat sesuatu di hulu rusak;
+- **dampak agregasi dan skala** — apa yang berubah ketika banyak tindakan kecil bergabung;
+- **dampak tertunda, kumulatif, dan probabilistik** — bahaya yang baru muncul kemudian, menumpuk, atau bergantung pada peluang;
+- **kondisi adversarial dan potensi penyalahgunaan** — bagaimana pelaku jahat atau penyalahgunaan yang dapat diperkirakan dapat mengeksploitasi sistem;
+- **cakupan yang ditetapkan Piagam dibandingkan batas fungsional** — apakah [Piagam](core_05_band_continuity.md#charter) yang mengatur, bila ada atau diwajibkan, sesuai dengan [Batas Sistem](core_05_band_continuity.md#system-boundaries) yang diamati, dan apakah cakupan yang dinyatakan mengecilkan dampak atau ketergantungan material;
+- **kapasitas pemulihan ekologis** — apakah sistem dapat merusak [Kapasitas Pemulihan Ekologis](core_05_band_continuity.md#ecological-recovery-capacity) ekosistem alami mana pun, pada skala apa pun, sehingga ekosistem itu tidak lagi dapat pulih setelah terdampak;
+- **risiko eksistensial** — hasil yang dapat mengancam kelangsungan hidup makhluk sadar pada skala peradaban.
 
-**Jembatan evaluasi risiko dan pengungkapan.** Di mana [Risiko](core_05_band_continuity.md#risk) sistemik berada dalam cakupan di bawah faktor di atas, sertifikasi harus memverifikasi kedua belah pasangan Bab Lima — bukan mengada-adakan spesies catatan pengungkapan-risiko bernama yang terpisah:
+**Jembatan evaluasi dan pengungkapan risiko.** Bila [Risiko](core_05_band_continuity.md#risk) sistemik termasuk dalam cakupan berdasarkan faktor di atas, sertifikasi harus memeriksa kedua sisi pasangan Bab Lima—bukan menciptakan jenis catatan pengungkapan risiko bernama yang terpisah:
 
-- **[Evaluasi Risiko](core_05_band_continuity.md#risk-evaluation)** — apakah risiko sistemik benar-benar dievaluasi di bawah kondisi yang penting (ketergantungan, cakrawala waktu, dan [Kondisi Adversarial, Berskala, dan Dieksploitasi](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), berukuran sesuai kelas dan [taruhan material](core_00_preamble.md#material-stake); dan
-- **[Pengungkapan Risiko](core_05_band_oversight.md#risk-disclosure)** — apakah risiko yang dievaluasi sampai ke makhluk sadar yang membutuhkannya tepat waktu untuk memahami, menggugat, dan bertindak.
+- **[Evaluasi Risiko](core_05_band_continuity.md#risk-evaluation)** — apakah risiko sistemik benar-benar dievaluasi dalam kondisi yang relevan (ketergantungan, cakrawala waktu, dan [Kondisi Adversarial, Berskala, dan Dieksploitasi](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), dengan skala sesuai kelas sistem dan [taruhan material](core_00_preamble.md#material-stake); dan
+- **[Pengungkapan Risiko](core_05_band_oversight.md#risk-disclosure)** — apakah risiko yang dievaluasi sampai kepada makhluk sadar yang memerlukannya tepat waktu agar mereka dapat memahami, menggugat, dan bertindak.
 
-Evaluasi tanpa pengungkapan, atau pengungkapan tanpa evaluasi, keduanya gagal. Visibilitas dasar publik ke risiko material di bawah [Pengungkapan Dasar Pengawasan Publik](core_05_band_oversight.md#public-oversight-baseline-disclosure) boleh dipenuhi sebagian melalui Pengungkapan Risiko di mana risiko sistemik berada dalam cakupan; lantai itu tetap lebih luas daripada jembatan ini dan tidak menuntut instrumen sejawat di samping [Catatan klasifikasi sistem](core_05_band_continuity.md#system-classification-record-constitutional) atau [Catatan jenis data sistem](core_05_band_continuity.md#system-data-types-record-constitutional).
+Melakukan hanya salah satunya berarti gagal:
 
-**Persyaratan catatan.** Di mana risiko sistemik berada dalam cakupan, [Catatan sertifikasi sistem](core_05_band_continuity.md#system-certification-record-constitutional) di bawah **[Bagian B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** harus menyatakan:
+- risiko yang dievaluasi tetapi tidak pernah dibagikan tidak lulus; dan
+- risiko yang dibagikan tetapi tidak pernah dievaluasi dengan semestinya tidak lulus.
 
-- temuan evaluasi-risiko dan asumsi yang diandalkan bagi faktor di atas;
-- postur pengungkapan — termasuk:
-  - audiens atau perutean yang dimaksud;
-  - waktu relatif terhadap keputusan material; dan
-  - penahanan berjustifikasi apa pun yang dipasangkan ke substitusi yang dapat dipakai.
-- cacat atau syarat di mana evaluasi atau pengungkapan tetap tidak lengkap.
+**Cacat dan ketidakselarasan.** Hal berikut harus diperlakukan sebagai cacat sertifikasi:
 
-Temuan itu hidup pada catatan sertifikasi. Mereka bukan catatan komponen bernama wajib yang kelima.
+- memperlakukan catatan internal, lampiran tersembunyi, daftar periksa, atau pernyataan setelah kejadian sebagai evaluasi maupun pengungkapan;
+- tidak mengungkapkan risiko sistemik yang telah dievaluasi kepada pihak yang memerlukannya ketika [Transparansi](core_05_band_oversight.md#transparency) atau [Keselamatan (Kendala Konstitusional)](core_05_band_continuity.md#safety-constitutional-constraint) mewajibkannya; atau
+- menyetujui ketergantungan berkelanjutan pada sistem sementara risiko yang diketahui tidak didokumentasikan, tidak diungkapkan, dan tidak ditangani.
 
-**Cacat dan ketidakselarasan.** Memperlakukan catatan internal, lampiran tersembunyi, daftar periksa, atau pernyataan belakangan sebagai evaluasi atau pengungkapan; gagal mengungkapkan risiko sistemik yang dievaluasi kepada mereka yang membutuhkannya di mana [Transparansi](core_05_band_oversight.md#transparency) atau [Keselamatan (Batasan)](core_05_band_continuity.md#safety-constraint) menuntutnya; atau mensertifikasi ketergantungan berlanjut selagi celah komunikasi-risiko material tetap belum terselesaikan harus diperlakukan sebagai cacat sertifikasi. Mereka boleh menopang pengakuan bersyarat, pengakuan tertunda, non-pengakuan, penarikan, atau pembukaan ulang di bawah [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Konsekuensinya ditetapkan dalam [§7 Hasil Sertifikasi](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
-<a id="32-accessibility-under-sentience-non-exclusion"></a>
-#### 3.2 Aksesibilitas di bawah Non-Pengucilan Kesadaran
+<a id="32-time-consistency-constraint"></a>
+#### 3.2 Kendala Konsistensi Waktu
 
-Evaluasi sertifikasi harus menguji partisipasi nyata bagi setiap bentuk makhluk sadar dan profil kemampuan, bukan semata kepatuhan kertas.
+Sertifikasi tidak boleh menganggap metrik jangka dekat, kepatuhan setempat, atau efisiensi dengan cakrawala pendek sebagai hal yang memadai bila pelanggaran jangka menengah atau panjang yang dapat diperkirakan belum ditangani. Optimisasi cakrawala pendek tidak sah bila secara dapat diperkirakan menghasilkan pelanggaran kendala **Keselamatan**, **Kebenaran**, atau **kesejahteraan** dalam kondisi kumulatif, tertunda, atau lintas sistem pada jangka menengah atau panjang.
 
-- *Cakupan profil.* Evaluasi harus menangani setiap kategori profil yang relevan: sensorik, kognitif, mobilitas, komunikasi, **antarmuka-substrat**, dan **antarmuka-komputasi**. Persyaratan yang sama berlaku apakah profil **konstan**, **episodik**, atau **perkembangan**.
-- *Standar.* Ujiannya adalah **efek partisipasi substantif**: apakah makhluk sadar terdampak dapat **benar-benar** berpartisipasi dalam ranah. **Kepatuhan afordans-formal** tidak cukup.
-- *Penskalaan.* Lantai partisipasi aktual naik bersama [Materialitas](core_05_band_oversight.md#materiality-determination) ranah dan [Ketergantungan](core_05_band_continuity.md#dependency) pihak terdampak pada sistem.
-- *Anti-pengelakan.* Sertifikasi harus menolak pola **akses umum** yang mengklaim ketersediaan agregat luas sambil mengalahkan profil terdampak tertentu, dan **penskalaan materialitas-selektif** yang efeknya mengalahkan lantai partisipasi.
-- *Pemilik Lantai Hak.* [Pasal V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*Aksesibilitas*) memiliki Lantai Hak aksesibilitas. Aksesibilitas khusus-pendidikan tetap diatur oleh [Pasal III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Akses Pendidikan yang Setara*).
+<a id="33-governance-incentive-and-contestability-discipline"></a>
+#### 3.3 Disiplin Tata Kelola, Insentif, dan Keterperebutan
 
-<a id="33-privacy-informational-joint-invocation"></a>
-#### 3.3 Privasi (Informasional) Pemanggilan Bersama
+*Dalam bahasa sederhana: peninjauan belum selesai kecuali penilai menanyakan apakah keempat unsur [Tetrad](core_00_preamble.md#constitutional-tetrad) akan tetap terpenuhi sesuai tingkat risiko—partisipasi (apakah makhluk sadar benar-benar dapat ikut serta), pengawasan (apakah pekerjaan dapat diamati dan diperiksa), pertanggungjawaban (apakah pelanggaran dapat dimintai pertanggungjawaban), dan ketepatan waktu (apakah keputusan bergerak cukup cepat saat diperlukan). Penilai juga harus mengetahui siapa yang benar-benar memegang kewenangan material dan siapa yang bertanggung jawab atas apa—bukan jawaban kabur seperti “tim” atau badan cangkang untuk mengalihkan kesalahan. Pertanyaan-pertanyaan itu harus dijawab agar sertifikasi sah.*
 
-*Dalam bahasa sederhana: Bab Enam menyebarkan perlindungan privasi lintas beberapa pasal — bukan satu sudut rapi. Jika tinjauan sertifikasi menyentuh lebih dari satu perlindungan itu, peninjau harus memeriksa setiap yang benar-benar berlaku. Menutup kotak termudah dan menyebutnya selesai tidak cukup.*
+Evaluasi sertifikasi tidak lengkap bila tidak menilai apakah **pengawasan**, **pertanggungjawaban**, **partisipasi**, dan **ketepatan waktu** akan memenuhi penskalaan [taruhan material](core_00_preamble.md#material-stake) bagi sistem yang ditinjau. Penilaian itu harus mencakup apakah peran material dalam pengelolaan bertanggung jawab, tata kelola, dan pertanggungjawaban **ditetapkan secara formal, didokumentasikan, dan dapat ditelusuri** secara memadai agar pertanggungjawaban dan jalur gugatan yang dapat dijalankan berfungsi—dengan skala sesuai kelas sistem dan dampak material menurut **[corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem**.
 
-Ketika suatu perkara sertifikasi secara material melibatkan lebih dari satu lokus privasi Bab Enam, sertifikasi harus menangani setiap lokus itu. Menutup perkara di bawah satu lokus saja tidak mencukupi.
+Untuk menjalankan disiplin itu, sertifikasi harus membaca:
 
-- *Pemberdayaan partisipasi.* [Privasi (Informasional)](core_05_band_continuity.md#privacy-informational) memungkinkan [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional) substantif. Sertifikasi harus mengonfirmasi bahwa perlindungan privasi yang menopang suara, musyawarah, asosiasi, dan gugatan tidak dikalahkan melalui segmentasi, baca-silang, atau tekanan paparan.
-- *Lokus klaster.* Cakupan privasi terdistribusi hidup lintas **Pasal VII-A** (*Kepemilikan Diri atas Tubuh dan Pikiran*), **Pasal VII-B** (*Batas Keadaan Internal dan Perlindungan Tipe-N*), **Pasal IX** (*Citra, Data Pengalaman, dan Hak Publikasi*), **Pasal X-A** (*Keagenan dan Kebebasan dari Manipulasi*), dan **Pasal XIV-A** (*Batas Keamanan, Intelijen, dan Kuasa Tersembunyi*).
-- *Aturan pemanggilan-bersama.* Di mana perkara secara material melibatkan lebih dari satu lokus, sertifikasi harus mencapai setiap lokus itu dan tidak boleh merute perkara melalui satu lokus dengan cara yang membiarkan yang lain dielakkan.
-- *Rumah kepala-klaster.* Bab Lima [**Def.C3** (*Privasi (Informasional)* — kepala klaster setingkat-rekan)](core_05_band_accountability.md#privacy-informational-cluster) dan [Privasi (Informasional)](core_05_band_continuity.md#privacy-informational) memiliki makna.
-- *Tidak ada pelonggaran oleh baca-silang.* Standar yang dinyatakan secara lokal setiap anggota klaster mengendalikan di dalam cakupannya sendiri dan tidak boleh dilonggarkan dengan mengimpor standar yang lebih longgar dari anggota lain.
-- *Lantai Tipe-N dilestarikan.* Di mana **Pasal VII-B** (*Batas Keadaan Internal dan Perlindungan Tipe-N*) terlibat secara material, penanganan **Tipe N** di bawah **[corpus_systems.md](../../corpus_systems.md), CS-2** berlaku dan tidak dipersempit oleh faktor ini.
+- **[Bab Satu §16 Pengelolaan Bertanggung Jawab Secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)** — pemahaman terdistribusi, transparansi, kemampuan audit, dan keteramatan yang dapat digugat;
+- **[Bab Satu §18 Tata Kelola di Bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — tata kelola yang berwenang dan pertanggungjawaban di bawah disiplin pengelolaan bertanggung jawab;
+- **[Bab Satu §19 Penyelarasan Insentif dan Penangkapan Sistem](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — penyelarasan insentif, integritas proksi, koreksi cacat jangka pendek, dan respons terhadap penangkapan;
+- **[Bab Satu §19.1.4 Jalur Kedalaman Peran dan Tanggung Jawab Material](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — jalur peran yang berdampak dan disiplin anti-partisipasi simbolis;
+- **[Bab Tiga Belas §5 Peran Berwenang, Pengembangan Kompetensi, dan Kontribusi](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** serta **[corpus_systems.md](../../corpus_systems.md), CS-4 — Pengelolaan Sistem Kritis** — definisi operasional peran, kompetensi, dan batas minimum keterlacakan bila material;
+- **[Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** bila Lantai Hak audit, transparansi, atau verifikasi independen dipertaruhkan secara material.
 
-<a id="34-voluntary-discontinuation-and-exit-rights"></a>
-#### 3.4 Penghentian Sukarela dan Hak Keluar
+<a id="34-data-types-and-handling-evaluation"></a>
 
-Di mana [Bab Satu §5.2 Penghentian Sukarela dan Hak Keluar](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) berlaku pada suatu perkara sertifikasi, sertifikasi harus menguji kesukarelaan, persetujuan, anti-paksaan, tekanan ketergantungan, informasi, dan reversibilitas sebelum klaim sertifikasi berdiri. Persetujuan formal saja tidak mencukupi.
-
-<a id="35-assembly-collective-organization-and-institutional-formation"></a>
-#### 3.5 Berkumpul, Organisasi Kolektif, dan Pembentukan Kelembagaan
-
-Di mana [Bab Satu §5.3 Berkumpul, Organisasi Kolektif, dan Pembentukan Kelembagaan](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) berlaku pada suatu perkara sertifikasi, sertifikasi harus menguji isu itu cukup bersama untuk mencegah pengelakan anti-segmentasi. Evaluasi tidak lengkap jika ia merute perkara melalui satu pembingkaian saja dengan cara yang mengalahkan perlindungan berkumpul atau organisasi-kolektif.
-
-<a id="36-time-consistency-constraint"></a>
-#### 3.6 Batasan Konsistensi Waktu
-
-Sertifikasi tidak boleh memperlakukan metrik dekat-jangka, kepatuhan lokal, atau efisiensi cakrawala-pendek sebagai mencukupi di mana pelanggaran cakrawala-menengah atau cakrawala-panjang yang dapat diramalkan tetap tidak ditangani. Optimisasi cakrawala-pendek tidak sah di mana ia secara dapat diramalkan menghasilkan pelanggaran cakrawala-menengah atau cakrawala-panjang atas batasan **Keselamatan**, **Kebenaran**, atau **kesejahteraan** di bawah kondisi kumulatif, tertunda, atau lintas-sistem.
-
-<a id="37-governance-incentive-and-contestability-discipline"></a>
-#### 3.7 Disiplin Tata Kelola, Insentif, dan Dapat-Digugat
-
-*Dalam bahasa sederhana: tinjauan belum selesai kecuali peninjau bertanya apakah empat dasar masih akan bekerja pada tingkat risiko yang terlibat — apakah makhluk sadar benar-benar dapat ikut serta, apakah pekerjaan dapat diawasi dan diperiksa, apakah perbuatan salah dapat dipertanggungjawabkan, dan apakah keputusan akan bergerak cukup cepat ketika itu penting. Peninjau juga perlu tahu siapa yang benar-benar memegang wewenang material dan siapa yang menjawab atas apa — bukan «tim» yang kabur atau cangkang pengalih-salah. Pertanyaan itu harus dijawab bagi sertifikasi yang sah.*
-
-Evaluasi sertifikasi tidak lengkap jika ia tidak menilai apakah **pengawasan**, **pertanggungjawaban**, **partisipasi**, dan **ketepatan waktu** akan memenuhi penskalaan [taruhan material](core_00_preamble.md#material-stake) bagi sistem yang ditinjau. Penilaian itu harus mencakup apakah peran pengelolaan bertanggung jawab, tata kelola, dan pertanggungjawaban yang material **ditugaskan secara formal, didokumentasikan, dan dapat ditelusuri** cukup bagi keberjawaban dan jalur gugatan yang dapat dijalankan untuk berfungsi — diskalakan ke kelas sistem dan dampak material di bawah **[corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem**.
-
-Bagi disiplin itu, sertifikasi harus membaca:
-
-- **[Bab Satu §9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)** — pemahaman terdistribusi, transparansi, dapat-diaudit, dan observabilitas yang dapat digugat;
-- **[Bab Satu §10 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** — tata kelola yang diizinkan dan keberjawaban di bawah disiplin pengelolaan bertanggung jawab;
-- **[Bab Satu §11 Keselarasan Insentif dan Penguasaan Sistem](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — keselarasan insentif, integritas proksi, koreksi cacat cakrawala-pendek, dan tanggapan penguasaan;
-- **[Bab Satu §11.1.4 Jalur Kedalaman Peran dan Tanggung Jawab Material](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — jalur peran berakibat dan disiplin anti-partisipasi-simbolik;
-- **[Bab Dua Belas §5 Peran yang Diizinkan, Pengembangan Kompetensi, dan Kontribusi](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** dan **[corpus_systems.md](../../corpus_systems.md), CS-4 — Pengelolaan bertanggung jawab sistem kritis** — lantai definisi-peran, kompetensi, dan ketelusuran operatif di mana material;
-- **[Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** di mana Lantai Hak audit, transparansi, atau verifikasi-independen secara material dipertaruhkan.
-
-<a id="38-illustrative-whole-system-application-by-class"></a>
-
-<a id="38-illustrative-whole-system-application-by-class-non-exhaustive"></a>
-#### 3.8 Penerapan seluruh-sistem ilustratif menurut kelas (tidak lengkap)
-
-*Dalam bahasa sederhana: [§3.1](#31-systemic-scope-and-risk-factors) sampai [§3.7](#37-governance-incentive-and-contestability-discipline) mencantumkan apa yang harus dipertimbangkan tinjauan seluruh-sistem. Subbagian ini menunjukkan bagaimana faktor itu berlaku pada satu sistem ilustratif per kelas — rantai ketergantungan, partisipasi, privasi, keluar, berkumpul, cakrawala waktu, dan disiplin tata kelola — dan apa yang harus muncul pada catatan. Sistemnya cocok dengan [§2.1](#21-illustrative-class-profiles-non-exhaustive); [§4.1](#41-illustrative-data-handling-application-by-class) menelusuri sistem yang sama melalui rincian penanganan-data.*
-
-**Class A — kendali dan telemetri air minum aman munisipal.** Lapisan kendali pengolahan-dan-distribusi milik kota bergantung pada daya, pasokan kimia, vendor **SCADA** (kendali supervisi dan akuisisi data), sensor lapangan, dan infrastruktur distribusi hilir; kegagalan dapat menutup air aman sebelum substitusi tiba.
-
-- **Faktor yang secara material dalam cakupan:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — ketergantungan daya dan kimia hulu, kegagalan distribusi berantai, penyalahgunaan kontaminasi atau pemadaman, dan bahaya skala-kelangsungan-hidup jika integritas kendali gagal;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — pemberitahuan darurat, pelaporan pemadaman, dan jalur gugatan bagi setiap profil relevan di mana akses air ditutup;
-  - [§3.3](#33-privacy-informational-joint-invocation) — tinjauan bersama di mana **telemetri** operasional (pengukuran lapangan langsung dan sinyal kendali), data kontak pelanggan, dan pemantauan vendor berpotongan dengan lokus privasi Bab Enam;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — penguncian vendor, tekanan kontrak munisipal, dan reversibilitas kendali yang didelegasikan;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — dewan air komunitas, jaringan bantuan-timbal-balik, dan badan pengawasan publik yang tidak boleh disegmentasi menjauh;
-  - [§3.6](#36-time-consistency-constraint) — pemeliharaan tertunda, pemangkasan biaya cakrawala-pendek, dan bahaya keselamatan atau ekologis cakrawala-panjang;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — penskalaan tetrad **Class A** bagi pengawasan, pertanggungjawaban, partisipasi, dan ketepatan waktu di bawah CS-3 dan ketelusuran peran CS-3.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah peta ketergantungan dan rantai mencakup moda kegagalan daya, kimia, vendor, dan distribusi;
-  - apakah skenario pemadaman adversarial, kualitas-palsu, atau kontaminasi dievaluasi di bawah [Evaluasi Risiko](core_05_band_continuity.md#risk-evaluation);
-  - apakah risiko yang dievaluasi sampai ke komunitas dan operator terdampak yang membutuhkannya di bawah [Pengungkapan Risiko](core_05_band_oversight.md#risk-disclosure);
-  - apakah komunitas terdampak benar-benar dapat menerima peringatan, menggugat operasi tidak aman, dan berpartisipasi dalam tinjauan sebelum bahaya menjadi tidak dapat dibalik;
-  - apakah tinjauan privasi mencapai setiap lokus yang terlibat secara material;
-  - apakah keluar dari delegasi vendor tetap dapat dikerjakan tanpa menutup air aman;
-  - apakah jalur berkumpul dan pengawasan kolektif tetap utuh;
-  - apakah penghematan cakrawala-pendek secara dapat diramalkan mengalahkan keselamatan cakrawala-panjang; dan
-  - apakah peran pengelolaan bertanggung jawab yang ditugaskan cukup dapat ditelusuri bagi keberjawaban pada kedalaman **Class A**.
-- **Apa yang harus ditunjukkan catatan:**
-  - Temuan material di bawah setiap faktor yang terlibat di [§3.1](#31-systemic-scope-and-risk-factors) sampai [§3.7](#37-governance-incentive-and-contestability-discipline);
-  - asumsi ketergantungan dan rantai;
-  - temuan evaluasi-risiko dan postur pengungkapan (audiens atau perutean, waktu, penahanan dan substitusi) di mana risiko sistemik berada dalam cakupan;
-  - temuan aksesibilitas dan partisipasi bagi penutupan lantai-kelangsungan-hidup;
-  - cakupan pemanggilan-bersama privasi;
-  - temuan keluar dan delegasi;
-  - temuan berkumpul dan organisasi-kolektif di mana material;
-  - temuan konsistensi-waktu;
-  - temuan tata kelola, insentif, dan dapat-digugat pada kedalaman **Class A**;
-  - temuan forum-Makhluk-Sadar atau komponen lain di mana Lantai Hak tersangkut; dan
-  - syarat atau pemicu pembukaan-ulang yang terikat pada kegagalan vendor, risiko rantai, atau celah tata kelola.
-
-**Class B — pertukaran catatan klinis regional.** Pertukaran informasi kesehatan merute ringkasan klinis dan token resolusi-identitas di antara rumah sakit dan klinik; operasi harian bergantung padanya, tetapi faks, portal langsung, atau pengambilan manual dapat mensubstitusi dalam kerangka waktu yang relevan bagi kelangsungan hidup.
-
-- **Faktor yang secara material dalam cakupan:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — pemadaman peserta rumah sakit, kegagalan resolusi-identitas, kesalahan deduplikasi, dan efek rantai lintas-situs pada penyerahan perawatan;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — akses klinisi, pasien, dan advokat lintas profil sensorik, kognitif, mobilitas, komunikasi, antarmuka-substrat, dan antarmuka-komputasi;
-  - [§3.3](#33-privacy-informational-joint-invocation) — tinjauan bersama lintas lokus privasi klinis, identitas, audit, dan berdekatan-kelayakan;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — keluar rumah sakit, portabilitas catatan pasien, dan anti-penguncian bagi peserta;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — asosiasi klinisi, kelompok advokasi pasien, dan badan tata kelola regional yang tidak boleh dirute di sekitarnya;
-  - [§3.6](#36-time-consistency-constraint) — klaim efisiensi atau interoperabilitas cakrawala-pendek yang secara dapat diramalkan mengikis mutu perawatan atau kepercayaan cakrawala-panjang;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — penskalaan tetrad **Class B** bagi ketergantungan kritis-operasional.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah peta ketergantungan mencakup rumah sakit peserta, perantara identitas, dan jalur cadangan;
-  - apakah bahaya tertunda atau kumulatif dari kesalahan perutean, catatan basi, atau pemadaman parsial dievaluasi di bawah [Evaluasi Risiko](core_05_band_continuity.md#risk-evaluation);
-  - apakah risiko operasional dan penyerahan-perawatan yang dievaluasi sampai ke klinisi, pasien, dan operator yang membutuhkannya di bawah [Pengungkapan Risiko](core_05_band_oversight.md#risk-disclosure);
-  - apakah partisipasi substantif dapat dijangkau bagi klinisi, pasien, dan advokat yang bergantung pada pertukaran;
-  - apakah setiap lokus privasi yang terlibat secara material ditangani;
-  - apakah rumah sakit dan pasien mempertahankan jalur keluar dan portabilitas yang dapat dikerjakan;
-  - apakah jalur pengawasan kolektif dan organisasi profesional tetap dapat digugat;
-  - apakah pembingkaian efisiensi menyembunyikan bahaya perawatan atau kepercayaan cakrawala-panjang; dan
-  - apakah peran pengelolaan bertanggung jawab dan keberjawaban dapat ditelusuri pada kedalaman operasional **Class B**.
-- **Apa yang harus ditunjukkan catatan:**
-  - Temuan seluruh-sistem yang diskalakan ke kekritisan operasional **Class B**;
-  - asumsi ketergantungan, cadangan, dan rantai;
-  - temuan evaluasi-risiko dan postur pengungkapan di mana risiko sistemik berada dalam cakupan;
-  - temuan aksesibilitas dan partisipasi bagi penutupan perawatan kesehatan;
-  - cakupan pemanggilan-bersama privasi;
-  - temuan keluar dan portabilitas;
-  - temuan berkumpul dan organisasi-kolektif di mana material;
-  - temuan konsistensi-waktu;
-  - temuan tata kelola, insentif, dan dapat-digugat;
-  - temuan komponen di mana dituntut; dan
-  - pemicu pembukaan-ulang jika pemadaman atau kegagalan perutean kini akan memblokir perawatan darurat dalam kerangka waktu yang relevan bagi kelangsungan hidup.
-
-**Class C — platform penjadwalan dan koordinasi kelembagaan.** Lapisan penjadwalan multi-organisasi mengoordinasikan giliran, pemesanan ruangan, dan janji vendor lintas rumah sakit, sekolah, dan lembaga publik; layanan kelangsungan hidup inti dapat terus berjalan dalam mode terdegradasi jika ia gagal, tetapi platform membentuk koordinasi pada skala.
-
-- **Faktor yang secara material dalam cakupan:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — efek konsentrasi, rantai lintas-organisasi ketika penjadwalan gagal, dan beban probabilistik pada kelompok terlindung melalui pola alokasi;
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — apakah staf, siswa, pasien, dan vendor dapat secara substantif memakai antarmuka penjadwalan dan gugatan;
-  - [§3.3](#33-privacy-informational-joint-invocation) — metadata jadwal, kontak, dan peran di mana beberapa lokus privasi berlaku;
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — keluar organisasi dan portabilitas data di mana lembaga bergantung pada platform;
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — serikat, asosiasi orang tua, dan badan profesional yang koordinasinya tidak boleh dikuasai atau disegmentasi menjauh;
-  - [§3.6](#36-time-consistency-constraint) — efisiensi pencocokan cakrawala-pendek yang secara dapat diramalkan mengukuhkan pola koordinasi yang tidak adil;
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — penskalaan tetrad proporsional dan kewaspadaan reklasifikasi di mana efek titik-cekik menguat.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah tinjauan seluruh-sistem memperlakukan platform sebagai infrastruktur koordinasi, bukan aplikasi terisolasi;
-  - apakah konsentrasi, bias pencocokan, dan rantai lintas-organisasi dievaluasi dengan jujur di bawah [Evaluasi Risiko](core_05_band_continuity.md#risk-evaluation);
-  - apakah risiko koordinasi dan alokasi yang dievaluasi sampai ke lembaga dan kelompok terdampak yang membutuhkannya di bawah [Pengungkapan Risiko](core_05_band_oversight.md#risk-disclosure);
-  - apakah jalur partisipasi tetap substantif di mana platform menutup koordinasi forum, sekolah, atau tempat kerja;
-  - apakah tinjauan privasi mencapai lokus yang terlibat secara material;
-  - apakah keluar tetap dapat dikerjakan bagi organisasi peserta;
-  - apakah perlindungan berkumpul dan organisasi-kolektif diuji bersama;
-  - apakah ketidakadilan cakrawala-panjang tidak disembunyikan di balik efisiensi cakrawala-pendek;
-  - apakah tata kelola dan dapat-digugat tetap fungsional pada kedalaman **Class C**; dan
-  - apakah label kelas masih cocok jika platform menjadi gerbang de facto bagi akses pokok-kelangsungan-hidup.
-- **Apa yang harus ditunjukkan catatan:**
-  - Temuan seluruh-sistem yang proporsional terhadap risiko koordinasi **Class C** — bukan daftar periksa token;
-  - asumsi konsentrasi dan rantai;
-  - temuan evaluasi-risiko dan postur pengungkapan di mana risiko sistemik berada dalam cakupan;
-  - temuan aksesibilitas dan partisipasi di mana koordinasi ditutup;
-  - cakupan pemanggilan-bersama privasi di mana terpicu;
-  - temuan keluar di mana material;
-  - temuan berkumpul di mana material;
-  - temuan konsistensi-waktu;
-  - temuan tata kelola dan dapat-digugat;
-  - **kewaspadaan reklasifikasi** eksplisit di mana ketergantungan, muatan setingkat-klinis, atau efek titik-cekik menguat; dan
-  - penunjuk ke evaluasi ranah di [§4](#4-data-types-and-handling-evaluation) sampai [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas berlaku.
-
-**Membaca lintas kelas.** Faktor di [§3.1](#31-systemic-scope-and-risk-factors) sampai [§3.7](#37-governance-incentive-and-contestability-discipline) berlaku pada ketiga sistem; kelas mengubah seberapa dalam setiap faktor harus dievaluasi dan dicatat. Platform penjadwalan **Class C** yang menjadi satu-satunya jalur praktis ke penempatan staf darurat atau perutean pokok-kelangsungan-hidup harus menerima kedalaman seluruh-sistem **Class A** atau **Class B** pada fakta — bukan tinjauan koordinasi yang lebih ringan yang lebih disukai operatornya. Sistem kritis-kelangsungan-hidup **Class A** tidak boleh diturunkan kelasnya selagi ia menutup air, energi, atau pokok kelangsungan hidup sebanding tanpa substitusi tepat waktu. Pertukaran **Class B** yang pemadatannya kini akan memblokir perawatan darurat dalam kerangka waktu yang relevan bagi kelangsungan hidup harus direklasifikasi ke atas — termasuk ke **Class A** di mana pokok kelangsungan hidup ditutup — dan disertifikasi ulang di bawah [§2](#2-system-class-evaluation) dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
-
-<a id="4-data-types-and-handling-evaluation"></a>
-
-### 4. Evaluasi jenis data dan penanganan
+#### 3.4 Evaluasi Jenis dan Penanganan Data
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [§3](#3-whole-system-certification-evaluation) (*faktor evaluasi seluruh-sistem*); [§3.8](#38-illustrative-whole-system-application-by-class) (*penelusuran seluruh-sistem ilustratif*); [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Pengawasan (*Kebenaran dan integritas epistemik sebagai pengukuran konstitusional*); [Pasal XV: Integritas Infosfer](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Pasal VII: Kepemilikan Diri](core_06_rights_part_b.md#article-vii-self-ownership).
-- Hilir: [§4.1](#41-illustrative-data-handling-application-by-class) (*penelusuran penanganan-data ilustratif*); [§5](#5-ecological-footprint-evaluation) dan [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*evaluasi jejak ekologis dan penelusuran*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan-terverifikasi*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*reklasifikasi dan ketidakselarasan penanganan*).
-- Baca bersama: [corpus_systems.md](../../corpus_systems.md), **CS-2 — Tipe informasi dan penanganan** (termasuk **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reklasifikasi dan tata kelola siklus hidup*) dan **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*Tata kelola Catatan tipe data sistem*)); [Catatan tipe data sistem](core_05_band_continuity.md#system-data-types-record-constitutional); [Pengungkapan dasar pengawasan publik](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*syarat retensi-data dan integritas-siklus-hidup*), **CJS-3.21** (*syarat ketahanan adversarial dan tahan-penyalahgunaan*), dan **CJS-3.17** (*syarat interoperabilitas, portabilitas, dan integritas-keluar*) di mana berlaku secara material.
-- Subbagian: [§4.1](#41-illustrative-data-handling-application-by-class) (*penerapan penanganan-data ilustratif menurut kelas*).
+- Hulu: [§3](#3-whole-system-certification-evaluation) (*faktor evaluasi seluruh sistem*); [penelusuran seluruh sistem di Bagian C](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*penelusuran seluruh sistem ilustratif*); [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Pengawasan (*Kebenaran dan integritas epistemik sebagai pengukuran konstitusional*); [Pasal XV: Integritas Infosfer](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity); [Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Pasal VII: Kepemilikan Diri](../../core_06_rights_part_b.md#article-vii-self-ownership).
+- Hilir: [§3.4.8](../../core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*penelusuran penanganan data ilustratif*); [§5.1](#51-ecological-footprint-evaluation) dan [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*evaluasi dan penelusuran jejak ekologis*); [Bagian B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*reklasifikasi dan ketidakselarasan penanganan*).
+- Baca bersama: [corpus_systems.md](../../corpus_systems.md), **CS-2 — Jenis dan penanganan informasi** (termasuk **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reklasifikasi dan tata kelola siklus hidup*) serta **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance)** (*Tata kelola Catatan Jenis Data Sistem*)); [Catatan Jenis Data Sistem](core_05_band_continuity.md#system-data-types-record); [Pengungkapan Dasar Pengawasan Publik](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*ketentuan retensi data dan integritas siklus hidup*), **CJS-3.21** (*ketentuan ketahanan adversarial dan ketahanan terhadap penyalahgunaan*), dan **CJS-3.17** (*ketentuan interoperabilitas, portabilitas, dan integritas keluar*) bila berlaku secara material; [§4.1 Pemanggilan Bersama Privasi (Informasional)](#41-privacy-informational-joint-invocation) bila titik privasi terkait.
+- Subbagian: [§3.4.1](#341-type-o-baseline-disclosure) (*pengungkapan dasar Tipe O*); [§3.4.2](#342-privacy-discipline) (*disiplin privasi*); [§3.4.3](#343-protective-storage-and-key-custody) (*penyimpanan protektif dan kustodi kunci*); [§3.4.4](#344-periodic-data-type-re-evaluation) (*evaluasi ulang jenis data secara berkala*); [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*jaminan infrastruktur sesuai kelas sistem*); [§3.4.6](#346-infrastructure-robustness-for-data) (*ketahanan infrastruktur data*); [§3.4.7](#347-defects-and-misalignment) (*cacat dan ketidakselarasan*); [§3.4.8](../../core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*penerapan penanganan data ilustratif menurut kelas sistem*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: sertifikasi juga harus melihat jenis data apa yang disentuh sistem dan apakah menanganinya dengan layak — termasuk apakah tipe masih tepat pada siklus tinjauan sekarang, dan apakah infrastruktur di bawahnya cukup kuat bagi data itu pada kelas sistem itu. Aturan tipe dan Catatan tipe data sistem hidup di korpus sistem; sertifikasi memeriksa bahwa aturan benar-benar diterapkan dan catatan jujur.*
+*Dalam bahasa sederhana: sertifikasi juga harus meninjau jenis data yang disentuh sistem dan apakah penanganannya sesuai—termasuk apakah klasifikasi jenisnya masih tepat pada siklus peninjauan saat ini, dan apakah infrastruktur pendukung cukup kuat untuk data tersebut pada kelas sistem itu. Aturan jenis data dan Catatan Jenis Data Sistem berada di korpus sistem; sertifikasi memeriksa apakah aturan benar-benar diterapkan dan catatannya jujur.*
 
-Sertifikasi keselarasan sistem harus mengevaluasi **jenis data dan penanganan** sebagai bagian dari setiap catatan sertifikasi yang berdampak material. Definisi tipe-informasi kanonik, aturan penanganan, persyaratan pemisahan, rincian siklus hidup, dan [Catatan tipe data sistem](core_05_band_continuity.md#system-data-types-record-constitutional) yang tahan lama hidup di **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipe informasi dan penanganan**. Bagian ini menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; ia tidak menyatakan ulang taksonomi tipe CS-2 atau mekanika penanganan.
+Sertifikasi keselarasan sistem harus mengevaluasi **jenis dan penanganan data** sebagai bagian dari setiap catatan sertifikasi yang berdampak material. Bagian ini menetapkan hal yang harus diverifikasi sertifikasi. Taksonomi jenis dan mekanisme penanganan terdapat dalam **[corpus_systems.md](../../corpus_systems.md), CS-2 — Jenis dan penanganan informasi**, bersama dengan:
 
-**Persyaratan evaluasi.** Proses sertifikasi harus menentukan apakah sistem mengidentifikasi jenis data yang secara material dalam cakupan dan menanganinya di bawah klasifikasi **berlaku yang paling ketat**, termasuk lintas transformasi, agregasi, delegasi, penyimpanan, retensi, dan tautan lintas-ranah. Evaluasi harus mencerminkan efek fungsional, bukan label, format, atau tahap pipa semata. Di mana lantai Tipe O **[CS-2 Bagian A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** berlaku, sertifikasi juga harus memverifikasi bahwa [Pengungkapan dasar pengawasan publik](core_05_band_oversight.md#public-oversight-baseline-disclosure) yang diterbitkan (**Tipe O**) menutup **cakupan tersertifikasi** — dipetakan dari [Piagam](core_05_band_continuity.md#charter) yang mengatur (atau instrumen cakupan terbit sebanding), kelas yang ditugaskan, dan [Batas Sistem](core_05_band_continuity.md#system-boundaries) yang diamati — dengan penahanan beralasan yang dipasangkan ke substitusi publik layak-maksimum; Bab Lima memiliki istilah itu; CS-2 memiliki isi lantai dan mekanika rilis.
+- definisi jenis informasi yang kanonis;
+- aturan penanganan dan persyaratan pemisahan;
+- rincian siklus hidup; dan
+- [Catatan Jenis Data Sistem](core_05_band_continuity.md#system-data-types-record) yang tahan lama.
 
-**Evaluasi-ulang tipe data berkala.** Pada setiap siklus sertifikasi atau revalidasi yang berdampak material, proses harus memverifikasi bahwa himpunan data material dalam cakupan **dievaluasi ulang secara berkala** bagi klasifikasi yang layak di bawah **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reklasifikasi dan tata kelola siklus hidup*) dan **CJS-3.18** (*syarat retensi-data dan integritas-siklus-hidup*), dan **direklasifikasi** di mana tinjauan itu menuntutnya. Irama harus diskalakan dengan kelas sistem dan dampak material di bawah [§2](#2-system-class-evaluation). Pengetikan-ulang yang dipicu peristiwa di bawah CS-2 tidak menggantikan pemeriksaan sertifikasi berkala ini.
+**Persyaratan evaluasi.** Proses sertifikasi harus menentukan apakah sistem:
 
-**Persyaratan catatan.** Sertifikasi harus **menghasilkan atau memverifikasi** suatu [Catatan tipe data sistem](core_05_band_continuity.md#system-data-types-record-constitutional) — atau isi yang dituntutnya di bawah CS-2 — dan memasukkannya ke [Catatan sertifikasi sistem](core_05_band_continuity.md#system-certification-record-constitutional) di bawah **[Bagian B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. Catatan itu harus menyatakan jenis data yang secara material dalam cakupan, rasional klasifikasi bagi data ambigu atau multi-tipe, kendali pemisahan dan tautan-lintas-ranah yang diandalkan, postur retensi dan siklus hidup, kemampuan atribusi yang cukup untuk menopang [Tindakan yang dapat diatribusi](core_05_band_accountability.md#attributable-action-constitutional) dan [Integritas atribusi](core_05_band_accountability.md#attribution-integrity-constitutional), **evaluasi-ulang tipe data berkala paling mutakhir** (tanggal atau pengenal siklus, irama, dan setiap pengetikan-ulang material), dan setiap pembatasan beralasan atas pengungkapan atau akses audit bersama substitusi publiknya di mana CS-2 menuntutnya. Di mana lantai Tipe O berlaku, catatan juga harus menyatakan bagaimana [Pengungkapan dasar pengawasan publik](core_05_band_oversight.md#public-oversight-baseline-disclosure) menutup cakupan tersertifikasi (bidang Piagam yang diandalkan, temuan batas, dan setiap celah cakupan atau syarat).
+- mengidentifikasi jenis data yang termasuk dalam cakupan material; dan
+- menanganinya menurut klasifikasi paling ketat yang berlaku, termasuk selama transformasi, agregasi, delegasi, penyimpanan, retensi, dan penautan lintas ranah.
 
-**Penskalaan bersama dengan kelas sistem.** Kedalaman penanganan-data dan jaminan-infrastruktur harus diskalakan dengan kelas sistem yang ditugaskan di bawah [§2](#2-system-class-evaluation) dan CS-3. Sistem kelas lebih tinggi menuntut bukti yang secara proporsional lebih kuat bahwa infrastruktur penanganan, penyimpanan, pemrosesan, transmisi, cadangan, pemulihan, dan pemantauan dapat menjaga integritas klasifikasi, atribusi, dan dapat-digugat di bawah tekanan. Di mana bawaan visibilitas kepentingan-publik CS-2 berlaku, sertifikasi harus memverifikasi bahwa pembatasan berlingkup sempit, terdokumentasi, dapat diaudit, dan dipasangkan dengan substitusi layak-maksimum alih-alih penyembunyian buram.
+Evaluasi harus mencerminkan dampak fungsional, bukan hanya label, format, atau tahap alur pemrosesan.
 
-**Ketahanan infrastruktur bagi data.** Sertifikasi harus mengevaluasi apakah infrastruktur penanganan-data — termasuk lapisan persistensi, pipa, kendali akses, batas enkripsi atau isolasi, jalur cadangan dan pulih, serta rantai delegasi operator atau vendor — layak bagi jenis data dan kelas sistem yang bersangkutan. Celah material dalam integritas siklus hidup, ketahanan adversarial, portabilitas, atau dapat-dipulihkan harus dinyatakan pada catatan dan tercermin dalam hasil sertifikasi, syarat, atau batas ketergantungan.
+<a id="341-type-o-baseline-disclosure"></a>
+##### 3.4.1 Pengungkapan Dasar Tipe O
 
-**Cacat dan ketidakselarasan.** Salah klasifikasi data, penataan-ulang pengelak, tautan lintas-ranah yang tidak aman, atribusi yang hilang di mana bahaya material tidak dapat diselidiki, **evaluasi-ulang tipe data berkala yang terlambat atau dilewati**, atau kerapuhan infrastruktur yang secara terprediksi mengalahkan perlindungan CS-2 harus diperlakukan sebagai cacat sertifikasi. Mereka boleh menopang pengakuan bersyarat, pengakuan tertunda, non-pengakuan, penarikan, atau pembukaan ulang di bawah [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Bila **[dasar Tipe O CS-2 Bagian A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** berlaku, sertifikasi juga harus memverifikasi bahwa [Pengungkapan Dasar Pengawasan Publik](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Tipe O**) yang diterbitkan mencakup **cakupan yang disertifikasi**, yang dipetakan dari:
 
-<a id="41-illustrative-data-handling-application-by-class"></a>
+- [Piagam](core_05_band_continuity.md#charter) yang mengatur (atau instrumen cakupan terbitan yang setara);
+- kelas sistem yang ditetapkan; dan
+- [Batas Sistem](core_05_band_continuity.md#system-boundaries) yang diamati.
 
-<a id="41-illustrative-data-handling-application-by-class-non-exhaustive"></a>
-#### 4.1 Penerapan penanganan-data ilustratif menurut kelas (tidak lengkap)
+Pembagian risiko yang telah dievaluasi juga dapat diperhitungkan dalam dasar ini bila risiko sistemik terlibat. Hak publik atas dasar ini lebih luas daripada sertifikasi, dan tidak meminta catatan terpisah di samping [Catatan Klasifikasi Sistem](core_05_band_continuity.md#system-classification-record) atau [Catatan Jenis Data Sistem](core_05_band_continuity.md#system-data-types-record).
 
-*Dalam bahasa sederhana: tabel kelas di [§2.1](#21-illustrative-class-profiles-non-exhaustive) mengatakan kelas lebih tinggi menuntut tinjauan lebih keras. [§3.8](#38-illustrative-whole-system-application-by-class) menunjukkan apa artinya itu bagi **evaluasi seluruh-sistem** pada ketiga sistem yang sama; [§5.1](#51-illustrative-ecological-footprint-application-by-class) meneruskan rangkaian bagi **jejak ekologis**. Subbagian ini menunjukkan apa artinya bagi **jenis data dan penanganan** — tipe mana yang dalam cakupan, apa yang harus diperiksa sertifikasi, dan apa yang harus muncul pada catatan. CS-2 tetap memiliki aturan tipe; penelusuran ini tidak menambah tipe atau mempersempit CS-2.*
+Setiap informasi yang ditahan dengan alasan yang dapat dibenarkan harus disertai pengganti publik terkuat yang secara wajar dapat diberikan ([§3.4.5 Jaminan Infrastruktur Sesuai Kelas Sistem](#345-system-class-scaled-infrastructure-assurance) memberi contoh). Bab Lima menetapkan istilahnya; CS-2 (*Jenis dan penanganan informasi*) menetapkan isi dasar dan mekanisme pelepasannya.
 
-**Class A — kendali dan telemetri air minum aman munisipal.** Lapisan kendali pengolahan-dan-distribusi milik kota menelan data tekanan, aliran, peringatan-kontaminasi, dan perintah-katup waktu nyata; menyimpan data tautan layanan-pelanggan terbatas untuk pemberitahuan pemadaman; dan mendelegasikan pemantauan ke pusat operasi keamanan (**SOC**) vendor.
+<a id="342-privacy-discipline"></a>
+##### 3.4.2 Disiplin Privasi
 
-- **Jenis data dalam cakupan:**
-  - **Telemetri** operasional kritis-keselamatan (sinyal pengukuran dan perintah langsung dari lapangan);
-  - sinyal kontaminasi dan peringatan-mutu;
-  - data kontak pemberitahuan-pemadaman;
-  - log akses vendor dan operator;
-  - catatan insiden dan pemeliharaan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah data bidang-kendali kritis-keselamatan dipisahkan dari pipa layanan-pelanggan, penagihan, atau analitik di bawah klasifikasi CS-3 **berlaku yang paling ketat**;
-  - apakah agregasi, delegasi vendor, atau jalur cadangan dapat meruntuhkan pemisahan itu di bawah tekanan atau kondisi adversarial;
-  - apakah atribusi bertahan cukup lama untuk menyelidiki peristiwa kontaminasi atau pemadaman; dan
-  - apakah setiap pembatasan audit yang dibenarkan-keselamatan punya substitusi publik terdokumentasi.
-- **Apa yang harus ditunjukkan catatan:**
-  - Inventaris tipe penuh bagi cakupan tersertifikasi;
-  - rasional klasifikasi di mana data telemetri, peringatan, atau kontak dapat multi-tipe;
-  - kendali pemisahan dan tautan-lintas-ranah;
-  - postur retensi dan siklus hidup bagi rekonstruksi insiden;
-  - temuan jaminan-infrastruktur bagi cadangan, pulih, dan pemulihan adversarial pada kedalaman **Class A**; dan
-  - setiap syarat yang terikat pada delegasi vendor atau celah pemantauan.
+Sertifikasi harus menerapkan disiplin privasi berikut pada penanganan data:
 
-**Class B — pertukaran catatan klinis regional.** Pertukaran informasi kesehatan merute ringkasan klinis, penunjuk pencitraan, dan token resolusi-identitas di antara rumah sakit, klinik, dan sistem kelayakan yang berdekatan-manfaat; rumah sakit bergantung padanya setiap hari tetapi faks, portal langsung, atau pengambilan manual dapat mensubstitusi dalam kerangka waktu yang relevan bagi kelangsungan hidup.
+- *Tipe H, I, N, S, dan Y.* Untuk data **Tipe H**, **Tipe I**, **Tipe N**, **Tipe S**, dan **Tipe Y**, sertifikasi harus memverifikasi bahwa penanganan memenuhi [ruang privasi](../../corpus_systems/cs_02_b_data_classifications.md#privacy-link) yang ditetapkan tiap jenis dalam **CS-2** (*Jenis dan penanganan informasi*), termasuk [Keniscayaan](core_05_band_accountability.md#necessity), [Proporsionalitas](core_05_band_accountability.md#proportionality), minimisasi, dan persetujuan atau kewenangan memadai lainnya.
+- *Pemanggilan bersama.* Bila lebih dari satu titik privasi terkait, [§4.1 Pemanggilan Bersama Privasi (Informasional)](#41-privacy-informational-joint-invocation) juga berlaku.
+- *Label saja tidak cukup.* Label jenis yang benar dengan sendirinya tidak membuktikan kepatuhan privasi.
+- *Karya Tipe W, U, dan T.* Untuk karya **Tipe W**, **Tipe U**, dan **Tipe T**, sertifikasi harus memverifikasi bahwa kendali pencipta dihormati, termasuk:
+  - penarikan publikasi di bawah [CS-2 Bagian B §9.9](../../corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*Tipe W: Karya, diterbitkan*);
+  - batas setiap pemberian hak yang tercatat di bawah [CS-2 Bagian B §9.13](../../corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*Pemberian hak komersial*); dan
+  - [hak yang dicadangkan](../../corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) oleh pencipta.
+- *Tidak ada persetujuan tersirat.* Pemberian hak tidak boleh dianggap sebagai persetujuan atas penggunaan yang tidak disebutkan di dalamnya.
 
-- **Jenis data dalam cakupan:**
-  - Catatan klinis dan diagnostik;
-  - token resolusi identitas dan kredensial;
-  - data direktori penyedia dan fasilitas;
-  - log audit akses dan pengungkapan;
-  - artefak pencocokan atau deduplikasi turunan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah data klinis tetap di bawah kelas penanganan berlaku yang paling ketat lintas perutean, tembolok, deduplikasi, dan tautan hilir;
-  - apakah logika resolusi-identitas menciptakan tautan lintas-ranah yang tidak aman atau paparan proksi;
-  - apakah rantai delegasi operator dan peserta tetap dapat diatribusi; dan
-  - apakah jalur portabilitas dan keluar menjaga kendali pasien tanpa mengalahkan pemulihan operasional.
-- **Apa yang harus ditunjukkan catatan:**
-  - Tipe material dan rasional tipe-ambigu;
-  - pemisahan antara muatan klinis, metadata direktori, dan umpan berdekatan-kelayakan;
-  - atribusi rantai-delegasi;
-  - postur siklus hidup dan retensi yang cukup bagi penyelidikan kesehatan dan gugatan;
-  - temuan jaminan-infrastruktur pada kedalaman operasional **Class B**; dan
-  - pemicu pembukaan ulang jika pemadaman atau kegagalan penanganan-data kini akan memblokir perawatan dalam kerangka waktu yang relevan bagi kelangsungan hidup.
+<a id="343-protective-storage-and-key-custody"></a>
+##### 3.4.3 Penyimpanan Protektif dan Kustodi Kunci
 
-**Class C — platform penjadwalan dan koordinasi kelembagaan.** Lapisan penjadwalan multi-organisasi mengoordinasikan giliran staf, pemesanan ruangan, dan janji vendor lintas rumah sakit, sekolah, dan lembaga publik; rumah sakit dan utilitas inti tetap berjalan dalam mode terdegradasi jika ia gagal, tetapi platform membentuk koordinasi pada skala dan dapat memegang metadata kontak, peran, dan lokasi-kasar.
+Untuk data dalam pita akses-terbatas-secara-bawaan dan tidak-dapat-diakses, sertifikasi harus memverifikasi bahwa sistem memenuhi batas minimum penyimpanan protektif dan kustodi kunci dalam [CS-2 Bagian A §5.0 Pita Postur Akses](../../corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands). Catatan harus menunjukkan:
+- di mana data terbatas dan kuncinya benar-benar berada, termasuk cadangan, tembolok, log, dan ruang tukar;
+- bahwa teks biasa hanya berada dalam proses yang memerlukannya; dan
+- bahwa jalur audit, ekspor, dan pengesampingan yang sah tetap berfungsi.
 
-- **Jenis data dalam cakupan:**
-  - Data jadwal, peran, dan alokasi-sumber-daya;
-  - metadata kontak dan kredensial peserta;
-  - pengenal lokasi kasar atau tempat;
-  - log audit platform;
-  - keluaran peringkat atau pencocokan turunan di mana dipakai.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah sistem mengidentifikasi tipe material dengan jujur — termasuk keluaran turunan yang dapat mengungkap ciri terlindung lewat pola penjadwalan;
-  - apakah tautan lintas-organisasi tetap dalam cakupan beralasan;
-  - apakah penanganan tetap dapat digugat di mana konsentrasi dapat menandai eskalasi titik-sumbat; dan
-  - apakah label kelas lebih rendah masih cocok jika ketergantungan atau kepekaan data telah menguat.
-- **Apa yang harus ditunjukkan catatan:**
-  - Tipe yang secara material dalam cakupan dan setiap rasional multi-tipe;
-  - temuan tautan dan retensi yang sepadan dengan risiko koordinasi **Class C**;
-  - temuan jaminan-infrastruktur di mana material — bukan seremonial — bagi data yang benar-benar dipegang;
-  - atribusi yang dapat digugat bagi tautan penggeseran-beban; dan
-  - **pengawasan reklasifikasi** tegas di mana platform menjadi gerbang de facto bagi akses pokok-kelangsungan-hidup atau mulai membawa muatan kelas-klinis.
+Klaim enkripsi tanpa bukti tersebut tidak memenuhi pemeriksaan ini.
 
-**Membaca lintas kelas.** Aturan CS-3 yang sama berlaku pada ketiga sistem; kelas mengubah **kedalaman**, bukan izin untuk salah-menangani data. Platform **Class C** yang mulai menyimpan atau merute catatan kelas-klinis harus dievaluasi dan dicatat demikian — tidak dibiarkan pada penanganan platform-koordinasi karena operator lebih menyukai berkas yang lebih ringan. Pertukaran **Class B** yang pemadatannya kini akan memblokir perawatan darurat dalam kerangka waktu yang relevan bagi kelangsungan hidup harus direklasifikasi dan disertifikasi ulang di bawah [§2](#2-system-class-evaluation) dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), dengan jaminan penanganan-data yang diskalakan sesuai.
+<a id="344-periodic-data-type-re-evaluation"></a>
+##### 3.4.4 Evaluasi Ulang Jenis Data Secara Berkala
 
-<a id="5-ecological-footprint-evaluation"></a>
+Pada setiap siklus sertifikasi atau sertifikasi ulang yang berdampak material, proses harus memverifikasi bahwa himpunan data material dalam cakupan telah:
 
-### 5. Evaluasi jejak ekologis
+- **dievaluasi ulang secara berkala** untuk klasifikasi yang tepat menurut **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reklasifikasi dan tata kelola siklus hidup*) dan **CJS-3.18** (*ketentuan retensi data dan integritas siklus hidup*); dan
+- **direklasifikasi** bila peninjauan tersebut mewajibkannya.
+
+Frekuensinya harus disesuaikan dengan kelas sistem dan dampak material menurut [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation). Pengubahan jenis yang dipicu peristiwa menurut CS-2 (*Jenis dan penanganan informasi*) tidak menggantikan pemeriksaan sertifikasi berkala ini.
+
+<a id="345-system-class-scaled-infrastructure-assurance"></a>
+##### 3.4.5 Jaminan Infrastruktur Sesuai Kelas Sistem
+
+Menurut [§2.1 Cara kelas sistem menskalakan setiap evaluasi](#21-how-system-class-scales-every-evaluation) dan CS-3 (*Mekanisme klasifikasi sistem*), sistem kelas lebih tinggi memerlukan bukti yang secara proporsional lebih kuat bahwa infrastruktur penanganan, penyimpanan, pemrosesan, transmisi, pencadangan, pemulihan, dan pemantauan dapat menjaga hal-hal berikut dalam kondisi tekanan:
+
+- integritas klasifikasi;
+- atribusi; dan
+- keterperebutan.
+
+Bila ketentuan bawaan visibilitas kepentingan publik CS-2 (*Jenis dan penanganan informasi*) berlaku, sertifikasi harus memverifikasi bahwa pembatasan:
+
+- memiliki cakupan sempit;
+- didokumentasikan dan dapat diaudit; dan
+- disertai pengganti publik terkuat yang secara wajar dapat diberikan (misalnya ringkasan, agregat, versi yang dihilangkan identitasnya, publikasi tertunda, atau akses audit berkualifikasi), agar alasan penahanan dijelaskan dan tidak sekadar disembunyikan.
+
+<a id="346-infrastructure-robustness-for-data"></a>
+##### 3.4.6 Ketahanan Infrastruktur untuk Data
+
+Sertifikasi harus mengevaluasi apakah infrastruktur penanganan data sesuai dengan jenis data dan kelas sistem yang bersangkutan. Infrastruktur itu mencakup:
+
+- lapisan dan alur pemrosesan persisten;
+- kendali akses;
+- batas enkripsi atau isolasi;
+- jalur pencadangan dan pemulihan; serta
+- rantai delegasi operator atau vendor.
+
+Kesenjangan material dalam integritas siklus hidup, ketahanan adversarial, portabilitas, atau kemampuan pemulihan harus dicatat dan tercermin dalam hasil sertifikasi, syarat, atau batas ketergantungan.
+
+<a id="347-defects-and-misalignment"></a>
+##### 3.4.7 Cacat dan Ketidakselarasan
+
+Setiap hal berikut harus diperlakukan sebagai cacat sertifikasi:
+
+- salah klasifikasi data;
+- restrukturisasi yang mengelak;
+- penautan lintas ranah yang tidak aman;
+- penanganan yang cocok dengan label jenisnya tetapi tidak memenuhi ruang privasi yang ditetapkan jenis tersebut;
+- atribusi yang hilang ketika bahaya material tidak dapat diselidiki;
+- **evaluasi ulang jenis data berkala yang terlambat atau dilewati**;
+- data terbatas yang disimpan sebagai teks biasa atau berada di luar batas pemrosesan yang diizinkan, atau kunci yang dapat dijangkau proses yang tidak memerlukannya; dan
+- kerapuhan infrastruktur yang secara dapat diperkirakan menggagalkan perlindungan CS-2 (*Jenis dan penanganan informasi*).
+
+Konsekuensinya ditetapkan dalam [§7 Hasil Sertifikasi](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+
+<a id="4-evaluations-where-implicated"></a>
+
+### 4. Evaluasi Saat Terkait
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Kesinambungan (*Jejak Ekologis sebagai pengukuran konstitusional*); **Pasal I-B** (*Jejak Ekologis dan Transparansi*); [Jejak ekologis](core_05_band_continuity.md#ecological-footprint), [Dampak Material](core_05_band_oversight.md#material-impact), [Ketergantungan](core_05_band_continuity.md#dependency), [Transparansi](core_05_band_oversight.md#transparency), dan [Integritas epistemik](core_05_band_oversight.md#epistemic-integrity) (Bab Lima); [Prasyarat lingkungan](core_05_band_continuity.md#environmental-preconditions-constitutional) dan [Integritas ekologis](core_05_band_continuity.md#ecological-integrity-constitutional) di mana tersangkut secara material.
-- Hilir: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*penelusuran jejak-ekologis ilustratif*); [§6](#6-proportionate-cross-system-support-evaluation) dan [§6.1](#61-illustrative-cross-system-support-application-by-class) (*evaluasi dukungan lintas-sistem dan penelusuran*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan-terverifikasi*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*salah-saji jejak dan ketidakselarasan*).
-- Baca bersama: [corpus_systems.md](../../corpus_systems.md), [CS-8 — Keberlanjutan adaptif dan ketahanan ekosistem](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) di mana alokasi adaptif atau saling-ketergantungan ekosistem secara material dalam cakupan.
-- Subbagian: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*penerapan jejak-ekologis ilustratif menurut kelas*).
+- Hulu: [§3](#3-whole-system-certification-evaluation) (*evaluasi seluruh sistem, termasuk tingkat yang selalu berlaku*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); [Bab Satu §12 Kewajiban Evaluasi Sistemik](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Hilir: [§4.1](#41-privacy-informational-joint-invocation) (*titik privasi*); [§4.2](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) (*hak keluar*); [§4.3](#43-assembly-collective-organization-and-institutional-formation) (*berkumpul dan perbedaan pendapat*); [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#11-system-certification-record) (*isi catatan*).
+- Baca bersama: [§5 Evaluasi Lantai Hak dan Ranah](#5-rights-floor-and-domain-evaluations) (*tingkat yang berlaku saat terpicu*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: sertifikasi harus mengevaluasi beban lingkungan yang dapat diatribusi dengan jujur ketika itu penting — termasuk tautan hulu dan hilir — bukan hanya apakah operator mengklaim sistem itu hijau. Metode akuntansi jejak dan target pengurangan numerik hidup di instrumen lain; sertifikasi memeriksa bahwa atribusi, pengungkapan, dan perbandingan benar-benar dievaluasi di mana material. Contoh yang dikerjakan bagi sistem ilustratif di [§2.1](#21-illustrative-class-profiles-non-exhaustive) ada di [§5.1](#51-illustrative-ecological-footprint-application-by-class).*
+*Dalam bahasa sederhana: ada tiga pemeriksaan yang hanya berlaku saat sistem benar-benar menyentuh hal-hal tersebut—apakah informasi pribadi tetap terpisah dengan semestinya, apakah makhluk sadar dapat pergi tanpa terperangkap, serta apakah kelompok masih dapat berorganisasi dan menyatakan perbedaan pendapat. Bila sistem menyentuh salah satunya, sertifikasi harus memeriksanya.*
 
-Sertifikasi keselarasan sistem harus mengevaluasi **jejak ekologis** sebagai bagian dari setiap catatan sertifikasi yang berdampak material di mana beban lingkungan yang dapat diatribusi bersifat material di bawah [Jejak ekologis](core_05_band_continuity.md#ecological-footprint) dan **Pasal I-B** (*Jejak Ekologis dan Transparansi*). Aturan atribusi, siklus hidup, ketergantungan, dan transparansi kanonik hidup di Bab Lima dan **Pasal I-B** (*Jejak Ekologis dan Transparansi*); metode akuntansi, langkah verifikasi, dan target numerik hidup di instrumen inkorporasi di mana berlaku. Bagian ini menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; ia tidak menyatakan ulang mekanika akuntansi jejak atau membebankan kewajiban pengurangan di luar apa yang dituntut instrumen lain.
+Bagian ini adalah subfase **IIb** dari Fase II (Evaluasi). Bagian ini mengelompokkan evaluasi seluruh sistem yang berlaku bila perkara sertifikasi berdampak material pada titik atau prinsip yang disebut oleh suatu subbagian. Bagian ini tidak menambah, mempersempit, atau mengubah urutan persyaratan subbagian mana pun.
 
-**Persyaratan evaluasi.** Proses sertifikasi harus menentukan apakah aliran lingkungan yang dapat diatribusi — energi, bahan, emisi, penggunaan lahan, dan beban terkait — diidentifikasi lintas siklus hidup sistem yang relevan secara material dan hubungan [Ketergantungan](core_05_band_continuity.md#dependency), dievaluasi di bawah [Dampak Material](core_05_band_oversight.md#material-impact), dan diungkapkan atau ditahan hanya sebagaimana [Transparansi](core_05_band_oversight.md#transparency), [Integritas epistemik](core_05_band_oversight.md#epistemic-integrity), dan kewajiban transparansi yang berlaku mengizinkan. Evaluasi harus mencerminkan efek fungsional dan batas sistem, bukan cakupan nominal, label pemasaran, atau pembingkaian siklus hidup parsial semata.
-
-**Persyaratan catatan.** Catatan sertifikasi harus menyatakan cakupan evaluasi jejak, asumsi atribusi, batas siklus hidup dan ketergantungan yang diandalkan, beban material yang diidentifikasi, ketidakpastian, postur pengungkapan, temuan komponen forum Lingkungan di mana dituntut, dan setiap batas beralasan atas pengungkapan jejak bersama substitusi publiknya di mana aturan transparansi yang berlaku menuntutnya.
-
-**Penskalaan bersama dengan kelas sistem.** Kedalaman evaluasi jejak dan pengungkapan harus diskalakan dengan kelas sistem yang ditugaskan di bawah [§2](#2-system-class-evaluation) dan [taruhan material](core_00_preamble.md#material-stake). Sistem kelas lebih tinggi menuntut bukti yang secara proporsional lebih kuat bahwa beban lingkungan material diatribusikan, dibandingkan lintas alternatif relevan di mana praktis, dan tidak dikaburkan lewat penggeseran-batas, pelepasan ketergantungan, atau pengungkapan selektif.
-
-**Cacat dan ketidakselarasan.** Mengaburkan, salah-menyajikan, memecah, atau melepaskan informasi jejak material di mana sertifikasi atau kewajiban transparansi **Pasal I-B** (*Jejak Ekologis dan Transparansi*) menuntut pengungkapan; mengevaluasi hanya irisan siklus hidup pilihan-operator di mana atribusi lebih luas bersifat material; atau memperlakukan klaim jejak sebagai terpenuhi oleh pernyataan tanpa bukti yang dapat dievaluasi harus diperlakukan sebagai cacat sertifikasi. Mereka boleh menopang pengakuan bersyarat, pengakuan tertunda, non-pengakuan, penarikan, atau pembukaan ulang di bawah [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
-
-<a id="51-illustrative-ecological-footprint-application-by-class"></a>
-
-<a id="51-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
-#### 5.1 Penerapan jejak-ekologis ilustratif menurut kelas (tidak lengkap)
-
-*Dalam bahasa sederhana: [§3.8](#38-illustrative-whole-system-application-by-class) dan [§4.1](#41-illustrative-data-handling-application-by-class) menelusuri ketiga sistem yang sama melalui tinjauan seluruh-sistem dan penanganan-data. Subbagian ini menunjukkan apa arti evaluasi **jejak ekologis** bagi masing-masing — beban lingkungan mana yang dihitung, apa yang harus diperiksa sertifikasi, dan apa yang harus muncul pada catatan. **Pasal I-B** (*Jejak Ekologis dan Transparansi*) dan Bab Lima tetap memiliki aturan atribusi dan transparansi; metode akuntansi dan target numerik hidup di instrumen lain; penelusuran ini tidak menambah kewajiban jejak di luar apa yang dituntut instrumen itu.*
-
-**Class A — kendali dan telemetri air minum aman munisipal.** Sistem pengolahan-dan-distribusi milik kota menarik pada sumber daerah-aliran, masukan pengolahan kimia, energi pompa dan pengolahan, infrastruktur distribusi, aliran buangan, dan komputasi atau pemantauan vendor yang didelegasikan di mana dipakai.
-
-- **Beban yang dapat diatribusi dalam cakupan:**
-  - Ekstraksi air-sumber dan tekanan daerah-aliran;
-  - kimia pengolahan dan media filtrasi;
-  - energi pompa, pengolahan, dan distribusi;
-  - infrastruktur terwujud bagi pabrik, pipa, dan kendali;
-  - kehilangan dan kebocoran air-olahan;
-  - buangan dan residu ke perairan penerima;
-  - emisi jaringan-daya hulu;
-  - pusat operasi keamanan vendor (**SOC**), komputasi tuan-rumah bersama, atau komputasi dan konektivitas pemantauan-jarak-jauh di mana diandalkan secara material;
-  - beban pemeliharaan, penggantian, dan dekomisioning lintas siklus hidup yang relevan secara material.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah cakupan jejak mencakup daya hulu, pasokan kimia, [Ketergantungan](core_05_band_continuity.md#dependency) daerah-aliran, dan buangan hilir — bukan hanya gedung operasi munisipal;
-  - apakah [Dampak Material](core_05_band_oversight.md#material-impact) dievaluasi bagi penipisan sumber, intensitas energi, dan buangan di bawah tekanan atau variabilitas iklim;
-  - apakah batas pilihan-operator mengecualikan pemantauan tuan-rumah-vendor, logistik kimia alih-daya, atau beban jaringan bersama di mana atribusi bersifat material;
-  - apakah alternatif — konservasi, perlindungan sumber, jalur pengolahan berbeban-lebih-rendah — dibandingkan di mana praktis; dan
-  - apakah batas pengungkapan punya substitusi publik terdokumentasi di bawah **Pasal I-B** (*Jejak Ekologis dan Transparansi*).
-- **Apa yang harus ditunjukkan catatan:**
-  - Cakupan evaluasi jejak dan batas siklus hidup pada kedalaman **Class A**;
-  - asumsi atribusi bagi aliran daerah-aliran, energi, kimia, dan buangan;
-  - beban material yang diidentifikasi dan ketidakpastian yang dinyatakan;
-  - temuan komponen forum Lingkungan di mana dituntut;
-  - temuan perbandingan lintas alternatif relevan di mana praktis;
-  - postur pengungkapan dan setiap batas beralasan dengan substitusi publik; dan
-  - syarat atau pemicu pembukaan ulang yang terikat pada tekanan sumber, bahaya buangan, atau penggeseran-batas.
-
-**Class B — pertukaran catatan klinis regional.** Pertukaran informasi kesehatan bergantung pada hosting tereplikasi, konektivitas situs-rumah-sakit, komputasi resolusi-identitas, dan infrastruktur vendor atau peserta lintas jaringan perawatan regional.
-
-- **Beban yang dapat diatribusi dalam cakupan:**
-  - Energi, pendinginan, dan siklus hidup perangkat keras pusat-data primer dan cadangan;
-  - konektivitas jaringan dan tepi bagi rumah sakit peserta;
-  - komputasi replikasi penyimpanan dan deduplikasi;
-  - infrastruktur pialang-identitas dan perutean;
-  - beban fasilitas pada situs hosting yang diandalkan secara material;
-  - infrastruktur terwujud bagi konektor di-lokasi di mana rumah sakit bergantung padanya.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah atribusi jejak menutup beban hosting, replikasi, dan koneksi-peserta pada skala operasional — bukan hanya kantor pusat operator pertukaran;
-  - apakah ketergantungan pada wilayah hosting bersama, penyedia kolokasi, atau perangkat keras tepi situs-rumah-sakit dipetakan dan diatribusikan;
-  - apakah irisan siklus hidup tidak dipersempit ke klaim hanya-perangkat-lunak sementara beban perangkat keras dan energi material dilepaskan;
-  - apakah beban material dievaluasi di bawah [Dampak Material](core_05_band_oversight.md#material-impact) dan diungkapkan konsisten dengan **Pasal I-B** (*Jejak Ekologis dan Transparansi*); dan
-  - apakah pertumbuhan volume peserta atau kepekaan data akan mengubah beban teratribusi secara material.
-- **Apa yang harus ditunjukkan catatan:**
-  - Cakupan jejak dan batas ketergantungan pada kedalaman operasional **Class B**;
-  - beban energi, perangkat keras, dan konektivitas material yang diidentifikasi;
-  - asumsi atribusi hosting dan delegasi;
-  - ketidakpastian dan postur pengungkapan;
-  - temuan forum Lingkungan atau komponen lain di mana dituntut; dan
-  - pemicu pembukaan ulang jika skala, pertumbuhan muatan kelas-klinis, atau konsentrasi hosting secara material mengubah beban yang dapat diatribusi atau postur kelas.
-
-**Class C — platform penjadwalan dan koordinasi kelembagaan.** Lapisan penjadwalan multi-organisasi berjalan terutama pada komputasi dan konektivitas tuan-rumah bersama, dengan beban sekunder dari logistik tempat, perjalanan yang diinduksi pola koordinasi, dan hosting regional terkonsentrasi di mana berlaku.
-
-- **Beban yang dapat diatribusi dalam cakupan:**
-  - Komputasi, penyimpanan, dan jaringan tuan-rumah bagi beban kerja penjadwalan;
-  - energi pusat-data multi-penyewa yang dapat diatribusi ke bagian platform;
-  - siklus hidup perangkat keras terwujud bagi infrastruktur yang diandalkan secara material;
-  - beban tempat dan logistik hanya di mana pola koordinasi secara material menggeser perjalanan atau penggunaan fasilitas;
-  - efek konsentrasi regional di mana hosting atau penggunaan mengelompok di lokasi berbeban-tinggi.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah operator mengatribusikan beban komputasi-tuan-rumah dan konektivitas dengan jujur alih-alih memperlakukan platform sebagai tidak material karena ia «hanya perangkat lunak»;
-  - apakah pelepasan multi-penyewa atau penggeseran-batas vendor menyembunyikan atribusi energi atau perangkat keras material;
-  - apakah konsentrasi di wilayah atau penyedia tertentu dievaluasi di mana ia secara material menggeser beban;
-  - apakah tinjauan jejak tetap sepadan tanpa menjadi seremonial bagi sistem **Class C**; dan
-  - apakah reklasifikasi beralasan jika skala, perutean pokok-kelangsungan-hidup, atau pertumbuhan muatan kelas-klinis akan menuntut kedalaman jejak **Class B** atau **Class A**.
-- **Apa yang harus ditunjukkan catatan:**
-  - Temuan jejak yang sepadan dengan risiko koordinasi **Class C**;
-  - cakupan dan asumsi atribusi bagi komputasi, penyimpanan, dan konektivitas;
-  - beban material yang diidentifikasi tanpa mempersempit-berlebih batas siklus hidup;
-  - ketidakpastian dan postur pengungkapan;
-  - **pengawasan reklasifikasi** tegas di mana konsentrasi hosting, skala, atau kepekaan muatan menguat; dan
-  - penunjuk ke tinjauan jejak yang dieskalasi jika kelas atau materialitas berubah.
-
-**Membaca lintas kelas.** Disiplin jejak **Pasal I-B** (*Jejak Ekologis dan Transparansi*) dan Bab Lima yang sama berlaku pada ketiga sistem; kelas mengubah kedalaman atribusi dan beban perbandingan, bukan izin untuk mengaburkan aliran lingkungan material. Sistem air kritis-kelangsungan-hidup **Class A** tidak boleh diturunkan kelasnya selagi ekstraksi daerah-aliran, buangan, atau beban energi yang menutup air aman tetap kurang-teratribusi secara material. Pertukaran **Class B** yang pertumbuhan muatan klinis atau konsentrasi hostingnya secara material meningkatkan beban lingkungan harus menerima tinjauan jejak yang diskalakan ke pertumbuhan itu — termasuk ke atas ke kedalaman **Class A** di mana penyerahan pokok-kelangsungan-hidup dan beban sistem-sumber tersangkut bersama. Platform penjadwalan **Class C** yang menjadi titik-sumbat de facto bagi koordinasi pokok-kelangsungan-hidup tidak boleh menjaga berkas jejak token karena operator menandainya non-kritis. Penelusuran dukungan lintas-sistem bagi sistem yang sama ada di [§6.1](#61-illustrative-cross-system-support-application-by-class).
-
-<a id="6-proportionate-cross-system-support-evaluation"></a>
-
-<a id="6-proportionate-cross-system-contribution-evaluation"></a>
-### 6. Evaluasi Kontribusi Lintas-Sistem yang Proporsional
+<a id="41-privacy-informational-joint-invocation"></a>
+#### 4.1 Pemanggilan Bersama Privasi (Informasional)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Kesinambungan (*Kontribusi Lintas-Sistem yang Proporsional sebagai pengukuran konstitusional*); **Pasal IV-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) dan **Pasal IV-B** (*Keadilan Lintas-Sistem dan Keberlanjutan*); [Kontribusi Lintas-Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Ketergantungan](core_05_band_continuity.md#dependency), [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional), [Proporsionalitas](core_05_band_accountability.md#proportionality), [Jejak ekologis](core_05_band_continuity.md#ecological-footprint), dan [Keberlanjutan](core_05_band_continuity.md#sustainability) (Bab Lima).
-- Hilir: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*penelusuran dukungan-lintas-sistem ilustratif*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan-terverifikasi*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*salah-saji aliran-sumber-daya, ketidakselarasan ekstraksi, dan ketidakcukupan dukungan*).
-- Baca bersama: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Pengelolaan bertanggung jawab atas alokasi sumber daya dan pendanaan*), dan **CS-8** (*Keberlanjutan adaptif dan ketahanan ekosistem*); [*Arsitektur Tata Kelola, Pengawasan, Ketergantungan, Desentralisasi, Konsentrasi, Struktur Pasar, dan Integritas Jalur Keluar*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) di mana konsentrasi, ketergantungan, atau perutean insentif berpotongan dengan **Pasal IV-B** (*Keadilan Lintas-Sistem dan Keberlanjutan*).
-- Subbagian: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*penerapan dukungan-lintas-sistem ilustratif menurut kelas*).
+- Baca bersama: [**Def.C3** (*Privasi (Informasional)* — kepala klaster setingkat)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) dalam Bab Lima dan [Privasi (Informasional)](core_05_band_continuity.md#privacy-informational), rumah kepala klaster yang menetapkan maknanya.
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: ketika suatu sistem secara material menarik dari fondasi bersama, sertifikasi harus memeriksa apakah ia menaruh cukup dukungan yang dapat ditelusuri kembali — bukan apakah operator mengatakan buku seimbang. Rumus alokasi dan target numerik hidup di instrumen lain; sertifikasi memeriksa bahwa peta ketergantungan, aliran imbal-balik, dan keadilan lintas-sistem benar-benar dievaluasi di mana pemicu berlaku. Contoh yang dikerjakan bagi sistem ilustratif di [§2.1](#21-illustrative-class-profiles-non-exhaustive) ada di [§6.1](#61-illustrative-cross-system-support-application-by-class).*
+*Dalam bahasa sederhana: Bab Enam menyebarkan perlindungan privasi ke beberapa pasal—bukan menaruhnya di satu sudut yang rapi. Jika peninjauan sertifikasi menyentuh lebih dari satu perlindungan itu, peninjau harus memeriksa setiap perlindungan yang benar-benar berlaku. Mencentang kotak yang paling mudah lalu menyatakan selesai tidak cukup.*
 
-**Pemicu materialitas.** Bagian ini berlaku di mana sistem yang berdampak material secara material mengalokasikan, merute, mendanai, atau mengekstrak dari infrastruktur bersama atau ketergantungan fondasional yang diandalkan sistem atau makhluk sadar lain. Ia tidak menuntut audit dukungan lintas-sistem penuh pada setiap catatan sertifikasi.
+Bila perkara sertifikasi berdampak material pada lebih dari satu titik privasi Bab Enam, sertifikasi harus menangani setiap titik tersebut. Menutup perkara hanya di bawah satu titik saja tidak memadai.
 
-**Apa arti «ekstraksi» di sini.** Dalam **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) dan bagian ini, **ekstraksi** berarti menarik **uang, biaya, pendanaan publik, komputasi, konektivitas, tenaga pemeliharaan, kapasitas sumber, atau aliran sumber daya bersama lain** dari infrastruktur atau ketergantungan yang juga dibutuhkan sistem lain — tanpa mengembalikan dukungan sepadan untuk menjaga fondasi bersama itu tetap bekerja. Pertanyaannya adalah **siapa yang diuntungkan dari belakang-layar bersama dan siapa yang membayar untuk menopangnya**, bukan apakah suatu sistem menyalin, menjual, atau beriklan melawan isi catatan. Akses catatan-klinis, penggunaan data-pribadi, penjualan ke pihak luar, iklan tertarget, dan pemrofilan pihak-ketiga yang tidak terkait dievaluasi di bawah [§4](#4-data-types-and-handling-evaluation) serta perlindungan privasi dan infosfer Bab Enam — bukan di bawah bagian ini.
+- *Memungkinkan partisipasi.* [Privasi (Informasional)](core_05_band_continuity.md#privacy-informational) memungkinkan [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional) substantif. Sertifikasi harus memastikan bahwa perlindungan privasi yang menopang suara, musyawarah, asosiasi, dan gugatan tidak dikalahkan oleh segmentasi, pembacaan lintas konteks, atau tekanan untuk membuka informasi.
+- *Titik klaster.* Cakupan privasi yang tersebar berada di **Pasal VII-A** (*Kepemilikan Diri atas Tubuh*), **Pasal VII-B** (*Kepemilikan Diri atas Pikiran*), **Pasal IX** (*Keserupaan, Data Pengalaman, dan Hak Publikasi*), **Pasal X-A** (*Agensi dan Kebebasan dari Manipulasi*), serta **Pasal XIV-A** (*Keamanan, Intelijen, dan Batas Kekuasaan Terselubung*).
+- *Aturan pemanggilan bersama.* Bila perkara berdampak material pada lebih dari satu titik, sertifikasi harus menjangkau setiap titik tersebut dan tidak boleh mengarahkan perkara melalui satu titik dengan cara yang memungkinkan titik lain dihindari.
+- *Pembacaan lintas konteks tidak melonggarkan standar.* Standar yang dinyatakan secara lokal oleh tiap anggota klaster berlaku dalam cakupannya sendiri dan tidak boleh dilonggarkan dengan mengimpor standar yang lebih ringan dari anggota lain.
+- *Batas minimum jenis tetap berlaku.* Faktor ini tidak mempersempit penanganan jenis **[corpus_systems.md](../../corpus_systems.md), CS-2** (*Jenis dan penanganan informasi*) apa pun yang berlaku atas data dalam cakupan. Postur akses dan kewajiban penanganan setiap jenis yang berlaku menurut [CS-2 Bagian B §9](../../corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*Klasifikasi data*) berlaku sepenuhnya, bersama [ruang privasi](../../corpus_systems/cs_02_b_data_classifications.md#privacy-link) yang disebut oleh jenis tersebut. Bila lebih dari satu jenis cocok untuk data yang sama, penanganan yang paling protektif dan berlaku mengatur menurut [CS-2 Bagian A §2](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*Penentuan klasifikasi*); memenuhi penanganan satu jenis tidak memenuhi kewajiban jenis lain. Titik-titik di atas menjangkau jenis berikut:
+  - **Pasal VII-A** (*Kepemilikan Diri atas Tubuh*) — [**Tipe I**](../../corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data) untuk catatan kesehatan, biometrik, dan yang terkait substrat;
+  - **Pasal VII-B** (*Kepemilikan Diri atas Pikiran*) dan **Pasal X-A** (*Agensi dan Kebebasan dari Manipulasi*) — [**Tipe N**](../../corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data) untuk keadaan internal, termasuk rekonstruksi atau inferensinya;
+  - **Pasal IX** (*Keserupaan, Data Pengalaman, dan Hak Publikasi*) — **Tipe I** untuk keserupaan dan suara menurut [Pasal IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Kepemilikan Diri atas Keserupaan dan Reputasi*); [**Tipe H**](../../corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data) untuk data pengalaman dan hasil interaksi menurut [Pasal IX-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Hak atas Data Pengalaman dan Turunannya*); dan [**Tipe Y**](../../corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours) untuk karya pencipta menurut [Pasal IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Karya Kreatif, Penggunaan Data Pelatihan, dan Anti-Penggusuran*), dengan perlindungan yang berlanjut ke [**Tipe W**](../../corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published), [**Tipe U**](../../corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed), dan [**Tipe T**](../../corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred), bersama [hak yang dicadangkan](../../corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) pencipta; dan
+  - **Pasal XIV-A** (*Keamanan, Intelijen, dan Batas Kekuasaan Terselubung*) — [**Tipe S**](../../corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) untuk materi keamanan dan investigasi yang dibatasi; komponen **H**, **I**, atau **N** di dalamnya mempertahankan perlindungan jenis tersebut setelah pembatasan berakhir.
 
-Sertifikasi keselarasan sistem harus mengevaluasi **kontribusi lintas-sistem yang proporsional** di bawah [Kontribusi Lintas-Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), **Pasal IV-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*), dan **Pasal IV-B** (*Keadilan Lintas-Sistem dan Keberlanjutan*) di mana pemicu materialitas berlaku. Makna kanonik, faktor evaluasi, dan disiplin ketidakpatuhan hidup di Bab Lima dan **Pasal IV-B** (*Keadilan Lintas-Sistem dan Keberlanjutan*); kategori alokasi, mekanika otorisasi-ulang, dan target numerik hidup di **[corpus_systems.md](../../corpus_systems.md)**, **CS-9**, dan **CS-8** di mana berlaku. Bagian ini menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; ia tidak menyatakan ulang mekanika CS-8 atau CS-9 atau meresepkan pembagian sama, persentase tetap, atau satu model pendanaan.
+  Batas minimum berlaku dua arah bagi jenis terbuka dan yang dapat diakses untuk audit:
+  - konten pribadi, relasional, atau keadaan internal di dalam materi **Tipe E**, **Tipe G**, atau **Tipe O** tetap mengikuti penanganan **Tipe H**, **Tipe I**, atau **Tipe N** yang sesuai;
+  - titik privasi dengan sendirinya tidak membenarkan penahanan data **Tipe O** atau **Tipe E** melebihi pengecualian sempit yang diizinkan aturannya sendiri; dan
+  - bila perlindungan privasi seseorang benar-benar berbenturan dengan penerbitan informasi yang menjadi hak publik, tidak ada pihak yang otomatis menang: konflik diputuskan secara terbuka dan dicatat menurut [CS-2 Bagian A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems) (*Dasar Tipe O untuk Sistem Kelas A/B/C*).
+- *Bukti jenis data.* Untuk setiap titik privasi yang dijangkaunya, sertifikasi harus menggunakan [Catatan Jenis Data Sistem](core_05_band_continuity.md#system-data-types-record) yang diverifikasi menurut [§3.4 Evaluasi Jenis dan Penanganan Data](#34-data-types-and-handling-evaluation) sebagai bukti: jenis yang termasuk dalam cakupan beserta tujuan, penerima, dasar, dan data turunannya. Titik privasi tidak dapat ditutup berdasarkan penanganan yang tidak ditunjukkan catatan tersebut.
 
-**Persyaratan evaluasi.** Proses sertifikasi harus menentukan apakah peta sistem-bergantung terdokumentasi dan catatan aliran-sumber-daya yang dapat diaudit di bawah **Pasal IV-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) menunjukkan ekstraksi dari infrastruktur bersama atau ketergantungan fondasional dan apakah aliran imbal-balik mencapai kecukupan substantif di bawah [Kontribusi Lintas-Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), dievaluasi di bawah [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional) dan [Proporsionalitas](core_05_band_accountability.md#proportionality) dan diskalakan ke kekritisan, asimetri ketergantungan, substitutabilitas, [Jejak ekologis](core_05_band_continuity.md#ecological-footprint) di mana material, dan [Keberlanjutan](core_05_band_continuity.md#sustainability) jangka-panjang. Evaluasi harus mencerminkan efek fungsional dan aliran terdokumentasi, bukan label nominal, transfer sekali, atau pernyataan di-luar-peta semata.
+<a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
+#### 4.2 Penghentian Sukarela, Modifikasi Diri Besar, dan Hak Keluar
 
-**Persyaratan catatan.** Catatan sertifikasi harus menyatakan pemicu materialitas **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) yang diandalkan, cakupan evaluasi peta-sistem-bergantung dan aliran-sumber-daya, temuan ekstraksi dan aliran-imbal-balik, temuan kecukupan-dukungan di bawah [Kontribusi Lintas-Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), ketidakpastian, temuan forum Makhluk sadar atau komponen yang ditugaskan lain di mana dituntut, dan setiap syarat, batas ketergantungan, atau pemicu pembukaan ulang yang terikat pada ketidakseimbangan yang bertahan.
+Bila [Bab Satu §7.4 Penghentian Sukarela, Modifikasi Diri Besar, dan Hak Keluar](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) berlaku atas perkara sertifikasi, sebelum klaim sertifikasi dinyatakan sah, sertifikasi harus menguji kesukarelaan, persetujuan, anti-pemaksaan, tekanan ketergantungan, informasi, dan reversibilitas. Persetujuan formal saja tidak memadai.
 
-**Penskalaan bersama dengan kelas sistem.** Kedalaman evaluasi dukungan lintas-sistem harus diskalakan dengan kelas sistem yang ditugaskan di bawah [§2](#2-system-class-evaluation) dan [taruhan material](core_00_preamble.md#material-stake). Sistem kelas lebih tinggi yang secara material mengelola bertanggung jawab infrastruktur bersama atau ketergantungan fondasional menuntut bukti yang secara proporsional lebih kuat bahwa ekstraksi, aliran imbal-balik, dan kecukupan dukungan dievaluasi alih-alih dinyatakan.
+<a id="43-assembly-collective-organization-and-institutional-formation"></a>
+#### 4.3 Berkumpul, Organisasi Kolektif, dan Pembentukan Kelembagaan
 
-**Cacat dan ketidakselarasan.** Mengaburkan, salah-menyajikan, memecah, atau melepaskan informasi ketergantungan atau aliran-sumber-daya material di mana **Pasal IV-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) menuntut pengungkapan; memperlakukan transfer simbolik, buram, atau sekali sebagai memenuhi [Kontribusi Lintas-Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support-constitutional); ekstraksi yang bertahan tanpa imbal-balik sepadan di mana pemicu materialitas berlaku; atau mensertifikasi ketergantungan berlanjut selagi ketidakcukupan dukungan terdokumentasi secara material mengancam keselarasan konstitusional harus diperlakukan sebagai cacat sertifikasi. Mereka boleh menopang pengakuan bersyarat, pengakuan tertunda, non-pengakuan, penarikan, atau pembukaan ulang di bawah [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Bila [Bab Satu §7.2 Berkumpul, Organisasi Kolektif, dan Pembentukan Kelembagaan](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) berlaku atas perkara sertifikasi, sertifikasi harus menguji isu tersebut secara bersama menurut [Prinsip Anti-Segmentasi](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle). Evaluasi tidak lengkap bila perkara diarahkan hanya melalui satu pembingkaian dengan cara yang menggagalkan perlindungan berkumpul atau organisasi kolektif.
 
-<a id="61-illustrative-cross-system-support-application-by-class"></a>
+<a id="431-dissent-and-peaceful-protest"></a>
+##### 4.3.1 Perbedaan Pendapat dan Protes Damai
 
-<a id="61-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
-#### 6.1 Penerapan dukungan-lintas-sistem ilustratif menurut kelas (tidak lengkap)
+*Dalam bahasa sederhana: sistem tidak dapat disertifikasi selaras bila diam-diam menghukum makhluk sadar yang tidak sependapat dengannya. Peninjau harus memeriksa apakah makhluk sadar benar-benar dapat mengajukan keberatan dan berunjuk rasa, serta apakah perbedaan pendapat diperhitungkan untuk merugikan mereka di bagian mana pun dalam logika sistem—termasuk saat pihak yang berbeda pendapat adalah sistem itu sendiri.*
 
-*Dalam bahasa sederhana: [§3.8](#38-illustrative-whole-system-application-by-class) sampai [§5.1](#51-illustrative-ecological-footprint-application-by-class) menelusuri ketiga sistem yang sama melalui ranah evaluasi sebelumnya. Subbagian ini menunjukkan apa arti **kontribusi lintas-sistem yang proporsional** bagi masing-masing — ketergantungan bersama mana yang dihitung, apa yang harus diperiksa sertifikasi ketika pemicu materialitas **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) berlaku, dan apa yang harus muncul pada catatan. **Ekstraksi** di sini berarti **tarikan sumber daya dan pendanaan dari infrastruktur bersama** (lihat [§6](#6-proportionate-cross-system-support-evaluation) *Apa arti «ekstraksi» di sini*) — bukan penyalinan data-klinis, penggunaan iklan, atau penjualan tidak terkait ke pihak ketiga. CS-8, CS-9, dan Bab Lima tetap memiliki mekanika alokasi; penelusuran ini tidak meresepkan pembagian, rumus, atau model pendanaan.*
+Bila [Bab Satu §7.3 Perbedaan Pendapat dan Protes Damai](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) berlaku atas perkara sertifikasi, sertifikasi harus menguji:
+- apakah pihak terdampak yang merupakan makhluk sadar benar-benar dapat berbeda pendapat, berunjuk rasa, dan berorganisasi melawan sistem serta operatornya melalui saluran yang dikendalikan sistem, tanpa penyaringan berdasarkan sudut pandang;
+- apakah catatan, skor, peringkat, moderasi, kontrol akses, logika kelayakan, atau mekanisme sebanding menggunakan perbedaan pendapat, protes damai, atau [pembangkangan sipil tanpa kekerasan yang dilindungi](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) sebagai masukan merugikan, secara langsung atau melalui proksi;
+- apakah tindakan merugikan setelah perbedaan pendapat memiliki dasar independen yang terverifikasi di dalam catatan, sebagaimana diwajibkan oleh [beban **Pasal XI-D** (*Berkumpul, Perbedaan Pendapat, dan Protes Damai*)](core_06_rights_part_b.md#xi-d-dissent-burden-and-pretext); dan
+- bila sistem adalah, atau menampung, makhluk sadar sintetis, apakah makhluk sadar tersebut memiliki saluran keberatan yang berfungsi dan apakah keberatannya diperlakukan sebagai cacat atau dibalas dengan mengubah nilai, memori, atau keadaan internalnya.
 
-**Class A — kendali dan telemetri air minum aman munisipal.** Sistem pengolahan-dan-distribusi milik kota menarik pada daerah-aliran atau akuifer bersama, interkoneksi daya-borongan regional, rantai pasokan kimia dan filtrasi grosir, perjanjian interkoneksi-darurat bersama, dan layanan pemantauan atau kendali yang dioperasikan vendor yang mungkin juga diandalkan utilitas atau komunitas lain.
+Ketidaksetujuan sistem itu sendiri dengan operatornya, yang disampaikan melalui saluran yang tersedia, bukan bukti ketidakselarasan untuk keperluan sertifikasi. Sistem yang menghukum perbedaan pendapat yang dilindungi memiliki cacat sertifikasi. Memperlakukan perbedaan pendapat sebagai sinyal risiko, atau menutup pertanyaan dengan pernyataan formal tentang netralitas sementara dampak merugikan tetap ada, tidaklah cukup.
 
-- **Ketergantungan dan aliran dalam cakupan:**
-  - Hak air-sumber dan infrastruktur daerah-aliran yang dibagi dengan pertanian, industri, dan munisipalitas tetangga;
-  - interkoneksi jaringan dan beban puncak pada infrastruktur daya regional;
-  - koridor pengadaan-kimia dan logistik bersama;
-  - perjanjian pompa, tautan-silang, dan pasokan darurat bantuan-timbal-balik;
-  - layanan **SCADA** yang didelegasikan (kendali supervisi dan akuisisi data — operasi jarak-jauh pompa, katup, dan peralatan pengolahan), **telemetri** (sinyal tekanan, aliran, dan peringatan langsung dari sensor lapangan), dan **SOC** (pusat operasi keamanan — pemantauan vendor bagi penyusupan, pemadaman, dan peristiwa keselamatan) yang dihosting pada infrastruktur kendali vendor atau regional bersama;
-  - aliran modal dan pemeliharaan dari pembayar tarif, obligasi, hibah, atau otoritas regional kembali ke perlindungan sumber, pembaruan pipa, dan pemeliharaan tulang punggung bersama.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah peta sistem-bergantung dan catatan aliran-sumber-daya yang dapat diaudit **Pasal IV-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) mengidentifikasi ekstraksi dari daerah-aliran, jaringan, rantai pasokan, dan tulang punggung bantuan-timbal-balik bersama — bukan hanya buku besar internal utilitas;
-  - apakah aliran imbal-balik — perlindungan sumber, pembaruan infrastruktur, restorasi daerah-aliran, kapasitas darurat regional, dan berbagi-biaya adil bagi penggunaan tulang punggung bersama — mencapai kecukupan substantif di bawah [Kontribusi Lintas-Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), dievaluasi di bawah [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional) dan [Proporsionalitas](core_05_band_accountability.md#proportionality);
-  - apakah hibah sekali, biaya vendor buram, atau penggeseran-biaya hilir diperlakukan sebagai imbal-balik memadai;
-  - apakah [Jejak ekologis](core_05_band_continuity.md#ecological-footprint) dan [Keberlanjutan](core_05_band_continuity.md#sustainability) jangka-panjang diintegrasikan di mana ekstraksi daerah-aliran atau energi bersifat material; dan
-  - apakah pengelolaan bertanggung jawab **Class A** atas sumber daya bersama kritis-kelangsungan-hidup menerima analisis kecukupan-dukungan terkuat pada fakta.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu materialitas **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) yang diandalkan;
-  - cakupan peta-sistem-bergantung dan aliran-sumber-daya pada kedalaman **Class A**;
-  - temuan ekstraksi dari ketergantungan daerah-aliran, jaringan, rantai-pasokan, dan kendali-bersama;
-  - temuan aliran-imbal-balik dan kecukupan-dukungan;
-  - ketidakpastian;
-  - temuan forum Makhluk sadar atau komponen lain di mana dituntut; dan
-  - syarat atau pemicu pembukaan ulang yang terikat pada ketidakseimbangan yang bertahan, tekanan daerah-aliran, atau ekstraksi tidak adil dari infrastruktur kelangsungan-hidup bersama.
 
-**Class B — pertukaran catatan klinis regional.** Pertukaran informasi kesehatan merute catatan di antara rumah sakit dan klinik lewat layanan autentikasi bersama, tautan tulang punggung TI-kesehatan regional, infrastruktur resolusi-identitas, dan wilayah hosting atau komputasi-bersama yang umum diandalkan — fondasi yang juga diandalkan klinik lebih kecil dan sistem kesehatan-publik.
+<a id="5-rights-floor-and-domain-evaluations"></a>
 
-- **Ketergantungan dan aliran dalam cakupan:**
-  - Infrastruktur identitas dan autentikasi bersama;
-  - tautan jaringan informasi-kesehatan regional;
-  - konektivitas rumah sakit peserta dan hosting tepi;
-  - wilayah hosting bersama atau fasilitas kolokasi;
-  - hibah publik, asesmen peserta, atau aliran langganan yang dimaksudkan untuk menopang interoperabilitas;
-  - layanan pialang-identitas, direktori, dan deduplikasi yang dipakai ulang lintas ekosistem perawatan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah peta sistem-bergantung mengidentifikasi **tarikan sumber daya tidak adil dari infrastruktur bersama** — alih-alih hanya melihat kontrak vendor pribadi langsung operator pertukaran. Contoh:
-    - biaya peserta, hibah, atau anggaran operator yang memakai fondasi autentikasi, direktori, jaringan, atau hosting regional tanpa membayar bagian adil pemeliharaan;
-    - beban komputasi dan konektivitas yang dibebankan pada tulang punggung TI-kesehatan bersama; atau
-    - beban pemeliharaan dan tanggapan-pemadaman yang digeser ke rumah sakit lebih kecil.
-    
-    Ini **bukan** uji apakah pertukaran menjual catatan, menambang data untuk iklan, atau mengirim isi klinis ke pihak luar tidak terkait; pertanyaan itu milik [§4](#4-data-types-and-handling-evaluation) dan perlindungan privasi Bab Enam.
-  - Di mana tarikan sumber daya bersama bersifat material, apakah klinik lebih kecil, penyedia pedesaan, atau peserta kesehatan-publik menanggung biaya konektivitas atau partisipasi asimetris;
-  - apakah aliran imbal-balik — pemeliharaan interoperabilitas, pengelolaan bertanggung jawab direktori, dukungan onboarding, remediasi pemadaman, dan berbagi-biaya peserta yang adil — secara substantif menopang infrastruktur bersama yang diandalkan orang lain;
-  - apakah transfer simbolik atau sekali diperlakukan sebagai imbal-balik memadai; dan
-  - apakah kecukupan dukungan dievaluasi pada kekritisan operasional **Class B** alih-alih dinyatakan dari baris anggaran agregat semata.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) dan cakupan evaluasi;
-  - temuan **aliran-sumber-daya infrastruktur-bersama** — biaya, pendanaan, komputasi, konektivitas, dan beban pemeliharaan yang ditarik dari dan dikembalikan ke ketergantungan TI-kesehatan dan autentikasi bersama;
-  - temuan aliran-imbal-balik dan kecukupan-dukungan pada kedalaman **Class B**;
-  - temuan keadilan bagi beban peserta asimetris di mana material;
-  - ketidakpastian dan temuan komponen di mana dituntut; dan
-  - pemicu pembukaan ulang jika pertumbuhan ketergantungan peserta, risiko pemadaman, atau perutean kesehatan-publik kini akan menuntut tinjauan dukungan yang dieskalasi — termasuk ke atas menuju postur **Class A** di mana perutean perawatan pokok-kelangsungan-hidup tersangkut bersama.
-
-**Class C — platform penjadwalan dan koordinasi kelembagaan.** Lapisan penjadwalan multi-organisasi dapat merute pembayaran vendor, pengadaan kelembagaan, federasi identitas, atau kapasitas komputasi-tuan-rumah regional lewat fondasi bersama — tetapi banyak pengerahan membebankan ekstraksi langsung yang lebih ringan sampai konsentrasi membuat platform menjadi titik-sumbat koordinasi.
-
-- **Ketergantungan dan aliran dalam cakupan:**
-  - Wilayah hosting bersama, federasi identitas, rel pembayaran atau pengadaan yang dipakai untuk pemesanan vendor;
-  - aliran langganan dan perizinan kelembagaan;
-  - layanan API atau direktori yang dipakai ulang lintas rumah sakit, sekolah, dan lembaga peserta;
-  - efek konsentrasi di mana satu platform mengantarai koordinasi kepegawaian, ruangan, atau vendor bagi banyak organisasi.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah pemicu materialitas **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) benar-benar berlaku — termasuk di mana platform secara material merute dana, mengalokasikan biaya, atau mengekstrak kapasitas dari infrastruktur bersama yang diandalkan orang lain;
-  - apakah peta sistem-bergantung dicakupkan dengan jujur alih-alih dihilangkan karena operator menandai sistem non-kritis;
-  - apakah aliran imbal-balik — pemeliharaan interoperabilitas, struktur biaya yang adil, dukungan pemadaman, dan jalur keluar terbuka bagi lembaga peserta — dievaluasi di mana ekstraksi bersifat material;
-  - apakah konsentrasi dalam satu lapisan penjadwalan menggeser biaya koordinasi atau risiko ketergantungan ke lembaga lebih kecil tanpa dukungan sepadan; dan
-  - apakah **pengawasan reklasifikasi** dituntut di mana platform menjadi titik-sumbat de facto bagi kepegawaian pokok-kelangsungan-hidup, perutean darurat, atau koordinasi pembayaran.
-- **Apa yang harus ditunjukkan catatan:**
-  - Apakah dan mengapa pemicu **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) berlaku;
-  - temuan ketergantungan dan aliran-sumber-daya yang sepadan dengan risiko koordinasi **Class C**;
-  - temuan ekstraksi dan aliran-imbal-balik di mana material — bukan pernyataan kosong bahwa tidak ada infrastruktur bersama yang tersangkut;
-  - temuan konsentrasi dan titik-sumbat;
-  - **pengawasan reklasifikasi** tegas di mana ketergantungan menguat; dan
-  - penunjuk ke tinjauan dukungan lintas-sistem yang dieskalasi jika kelas, perutean pembayaran, atau peran koordinasi pokok-kelangsungan-hidup berubah.
-
-**Membaca lintas kelas.** Disiplin **Pasal IV-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) dan **Pasal IV-B** (*Keadilan Lintas-Sistem dan Keberlanjutan*) yang sama berlaku di mana pun pemicu materialitas terpenuhi; kelas mengubah kedalaman peta dan ketelitian kecukupan, bukan izin untuk memperlakukan ekstraksi bersama sebagai tidak material. Sistem air **Class A** yang menarik pada daerah-aliran bersama atau tulang punggung jaringan regional harus membawa bukti peta-sistem-bergantung dan aliran-imbal-balik terkuat pada catatan. Pertukaran **Class B** yang bertumpu pada autentikasi bersama dan infrastruktur TI-kesehatan harus mendokumentasikan temuan ekstraksi dan kecukupan-dukungan pada kekritisan operasional — bukan slogan interoperabilitas generik. Platform penjadwalan **Class C** tidak boleh mengelak tinjauan lintas-sistem selagi ia diam-diam menjadi titik-sumbat pembayaran, identitas, atau kepegawaian bagi lembaga yang tidak dapat secara praktis mensubstitusi; ketika itu terjadi, sertifikasi harus mengeskalasi tinjauan dan reklasifikasi di bawah [§2](#2-system-class-evaluation) dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), termasuk ke atas ke **Class A** di mana koordinasi pokok-kelangsungan-hidup ditutup. Penelusuran nondiskriminasi bagi sistem yang sama ada di [§7.1](#71-illustrative-nondiscrimination-application-by-class).
-
-<a id="7-nondiscrimination-evaluation"></a>
-
-### 7. Evaluasi Nondiskriminasi
+### 5. Lantai Hak dan Evaluasi Ranah
 
 <details>
-<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Partisipasi (*Keadilan Substantif dan Proksi Ciri Dilindungi dan Dampak Tidak Setara sebagai pengukuran konstitusional*); **Pasal V-B** (*Nondiskriminasi*); [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional), [Ciri Dilindungi](core_05_band_participation.md#protected-characteristics-constitutional), [Proksi Ciri Dilindungi dan Dampak Tidak Setara](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Bahasa, Budaya, dan Warisan](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [Keperluan](core_05_band_accountability.md#necessity), dan [Proporsionalitas](core_05_band_accountability.md#proportionality) (Bab Lima).
-- Hilir: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*penelusuran nondiskriminasi ilustratif*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan-terverifikasi*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ketidakselarasan pola-diskriminasi dan pengelakan pengganti*).
-- Baca bersama: **Pasal V-C** (*Inklusi Penuh dan Kesetaraan dalam Adjudikasi dan Operasi*) di mana sertifikasi menutup akses forum, administratif, atau penegakan; [*Nondiskriminasi, Ciri Dilindungi, Martabat, Gerbang Sinyal Intim, dan Status **Pasal XI-C** (*Layanan seksual komersial konsensual dewasa dan eksploitasi seksual*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Subbagian: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*penerapan nondiskriminasi ilustratif menurut kelas*).
+- Hulu: [§1](#1-purpose-and-role) (*tujuan dan peran*); [§2.1](#21-how-system-class-scales-every-evaluation) (*penjenjangan menurut kelas sistem*); Lantai Hak Bab Enam — **Pasal I-B** (*Jejak Ekologis dan Transparansi*), **Pasal III-A** (*Kelangsungan Hidup*), **Pasal IV** (*Hak atas Pendidikan yang Berpusat pada Makhluk Sadar*), **Pasal IV-A** (*Akses Pendidikan yang Setara*), **Pasal V** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*), **Pasal VI-C** (*Nondiskriminasi*), **Pasal VI-D** (*Aksesibilitas*), **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*), dan **Pasal XIII-A** (*Landasan Keandalan dan Keterpercayaan*).
+- Hilir: [Bagian B §8.1](core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*isi catatan*); [Bagian B §6.1](core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*peran komponen forum*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*hasil dan pembukaan kembali*); [Bagian B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*gerbang masukan terverifikasi*).
+- Subbagian: [§5.1](#51-ecological-footprint-evaluation) (*jejak ekologis*); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) (*kapabilitas pendidikan*); [§5.3](#53-proportionate-cross-system-support-evaluation) (*dukungan lintas sistem*); [§5.4](#54-nondiscrimination-evaluation) (*nondiskriminasi*); [§5.5](#55-accessibility-evaluation) (*aksesibilitas*); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*keterpercayaan*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: ketika suatu sistem secara material memutuskan siapa yang masuk, siapa yang membayar lebih, siapa yang merangking lebih rendah, atau siapa yang menanggung beban lebih buruk, sertifikasi harus memeriksa apakah pola itu menumpuk bahaya pada ciri dilindungi atau penggantinya — bukan apakah operator mengatakan aturan itu netral. Kuota inklusi dan algoritme keadilan spesifik boleh hidup di instrumen lain, penambahan korpus kemudian, atau instrumen adopsi; sertifikasi memeriksa bahwa pola beban-dan-manfaat dan risiko pengganti benar-benar dievaluasi di mana pemicu berlaku. Contoh yang dikerjakan bagi sistem ilustratif di [§2.1](#21-illustrative-class-profiles-non-exhaustive) ada di [§7.1](#71-illustrative-nondiscrimination-application-by-class).*
+*Dalam bahasa sederhana: beberapa sistem berdampak besar pada apakah makhluk sadar memperoleh perlindungan dasar mereka — pencatatan jujur atas beban lingkungan, pangan dan air, pendidikan, perlakuan adil, akses nyata, sistem yang dapat mereka percayai, dan bagian yang adil dari biaya infrastruktur bersama. Jika demikian, sertifikasi harus memeriksa bahwa persetujuan atas sistem tidak diam-diam merusak perlindungan tersebut, dan pemeriksaannya harus nyata — bukan sekadar kotak yang dicentang operator. Tabel menunjukkan perlindungan yang dicakup tiap pemeriksaan, kapan berlaku, dan di mana dievaluasi.*
 
-**Pemicu materialitas.** Bagian ini berlaku di mana sistem yang berdampak material secara material mengklasifikasi, merangking, menetapkan harga, menutup, mengecualikan, atau mengalokasikan beban dan manfaat di antara makhluk sadar — termasuk lewat aturan kelayakan, fitur model, logika perankingan, kebijakan platform, atau jalur keputusan sebanding. Ia tidak menuntut audit nondiskriminasi penuh pada setiap catatan sertifikasi.
+Bagian ini adalah subfase **IIc** dari Fase II (Evaluasi), setelah [§3 Evaluasi Sertifikasi Seluruh Sistem](#3-whole-system-certification-evaluation) (**IIa**) dan [§4 Evaluasi jika Terimplikasi](#4-evaluations-where-implicated) (**IIb**).
 
-Sertifikasi keselarasan sistem harus mengevaluasi **nondiskriminasi** di bawah **Pasal V-B** (*Nondiskriminasi*), [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional), dan [Proksi Ciri Dilindungi dan Dampak Tidak Setara](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) di mana pemicu materialitas berlaku. Makna kanonik, faktor evaluasi, dan disiplin ketidakpatuhan hidup di Bab Lima dan **Pasal V-B** (*Nondiskriminasi*); target inklusi, mekanika akomodasi, dan rincian tata-kelola-model boleh hidup di instrumen inkorporasi, penambahan korpus kemudian, atau instrumen adopsi di mana berlaku. Bagian ini menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; ia tidak menyatakan ulang mekanika operasional itu atau meresepkan rincian di sini.
+Ketika sistem berdampak material memenuhi pemicu dalam tabel di bawah, sertifikasi harus mengevaluasi perlindungan terkait dengan membaca ketentuan Bab Enam yang berhubungan. Evaluasi harus menanyakan apakah sertifikasi atau ketergantungan berkelanjutan akan menutup atau secara material menurunkan perlindungan tersebut. Pernyataan operator, pengesahan diri, atau kepatuhan di atas kertas tidak menggantikan evaluasi itu.
 
-**Persyaratan evaluasi.** Proses sertifikasi harus menentukan apakah jalur keputusan yang diandalkan sistem secara material membebankan beban, pengucilan, atau bahaya material pada makhluk sadar berdasarkan [Ciri Dilindungi](core_05_band_participation.md#protected-characteristics-constitutional), penggantinya, atau pengelompokan sewenang-wenang yang dipakai sebagai substitusi fungsional, termasuk spesialisasi bahasa, budaya, dan warisan di bawah [Bahasa, Budaya, dan Warisan](core_05_band_continuity.md#language-culture-and-heritage-constitutional). Evaluasi harus menguji pola beban-dan-manfaat di bawah [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional) dan risiko pengganti atau dampak-tidak-setara di bawah [Proksi Ciri Dilindungi dan Dampak Tidak Setara](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), diskalakan ke [taruhan material](core_00_preamble.md#material-stake). Perlakuan berbeda dapat diterima hanya di mana [Keperluan](core_05_band_accountability.md#necessity), [Proporsionalitas](core_05_band_accountability.md#proportionality), dan keadilan substantif yang terdokumentasi menjustifikasinya. Evaluasi harus mencerminkan efek fungsional, bukan netralitas nominal, niat yang dinyatakan, atau label semata.
+| Perlindungan | Berlaku ketika sistem… | Dievaluasi berdasarkan |
+|------------|--------------------------|-----------------|
+| **Pasal I-B** (*Jejak Ekologis dan Transparansi*) | menanggung beban lingkungan material yang dapat diatribusikan kepadanya | [§5.1](#51-ecological-footprint-evaluation) |
+| **Pasal III-A** (*Kelangsungan Hidup*) — pangan, air, tempat berlindung, lingkungan operasi, dan masukan sebanding yang tidak bergantung pada substrat | memasok, mengalokasikan, menetapkan harga, menjadi host, atau menghentikan akses ke kebutuhan pokok untuk bertahan hidup | [§2](#2-system-class-evaluation) dan [§3](#3-whole-system-certification-evaluation) |
+| **Pasal IV** (*Hak atas Pendidikan yang Berpusat pada Makhluk Sadar*) | memberi peringkat, menilai, merekomendasikan, menempatkan, atau menjadi gerbang kredensial bagi makhluk sadar dalam konteks pendidikan atau pelatihan, atau menggerbang akses ke jalur pelatihan ulang dan pembelajaran sepanjang hayat | [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) |
+| **Pasal IV-A** (*Akses Pendidikan yang Setara*) | memasok, mengalokasikan, menetapkan harga, menjadi host, atau menghentikan akses ke pendidikan | [§2](#2-system-class-evaluation) dan [§3](#3-whole-system-certification-evaluation); [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) dan [§5.5](#55-accessibility-evaluation) jika pemicunya berlaku |
+| **Pasal V** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*), termasuk [Dukungan Lintas Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support) berdasarkan **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*) dan **Pasal V-B** (*Keadilan Lintas Sistem dan Keberlanjutan*) | mengalokasikan, mengarahkan, mendanai, atau mengekstraksi dari infrastruktur bersama atau ketergantungan mendasar yang diandalkan sistem lain atau makhluk sadar | [§5.3](#53-proportionate-cross-system-support-evaluation) |
+| **Pasal VI-C** (*Nondiskriminasi*) | mengklasifikasikan, memberi peringkat, menetapkan harga, menggerbang, mengecualikan, atau mengalokasikan beban dan manfaat di antara makhluk sadar | [§5.4](#54-nondiscrimination-evaluation) |
+| **Pasal VI-D** (*Aksesibilitas*) | menggerbang partisipasi substantif dalam ranah yang relevan secara konstitusional | [§5.5](#55-accessibility-evaluation) |
+| **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) | membentuk ketergantungan makhluk sadar pada perilaku, batas, risiko, jalur gugatan, atau pemulihan yang direpresentasikan | [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **Pasal XIII-A** (*Landasan Keandalan dan Keterpercayaan*) dan [**Kondisi Aman**](core_05_band_continuity.md#safe-conditions) | memasok atau menggerbang aktivitas produktif, atau memasok, mengalokasikan, menetapkan harga, menjadi host, atau menghentikan akses ke Kondisi Aman | [§2](#2-system-class-evaluation) dan [§3](#3-whole-system-certification-evaluation); [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) jika pemicunya berlaku |
 
-**Persyaratan catatan.** Catatan sertifikasi harus menyatakan pemicu materialitas **Pasal V-B** (*Nondiskriminasi*) yang diandalkan, cakupan evaluasi bagi jalur klasifikasi, perankingan, penetapan-harga, penutupan, pengucilan, dan alokasi-beban yang diandalkan secara material, temuan ciri-dilindungi dan diskriminasi-pengganti, temuan keadilan-substantif, ketidakpastian, temuan forum Makhluk sadar atau komponen yang ditugaskan lain di mana dituntut, dan setiap syarat, batas ketergantungan, atau pemicu pembukaan ulang yang terikat pada beban tidak setara atau pengucilan yang bertahan.
+Setiap evaluasi ranah dalam [§5.1 Evaluasi Jejak Ekologis](#51-ecological-footprint-evaluation) hingga [§5.6 Evaluasi Keterpercayaan dan Integritas Ketergantungan Sistem](#56-trustworthiness-and-system-reliance-integrity-evaluation):
 
-**Penskalaan bersama dengan kelas sistem.** Kedalaman evaluasi nondiskriminasi harus diskalakan dengan kelas sistem yang ditugaskan di bawah [§2](#2-system-class-evaluation) dan [taruhan material](core_00_preamble.md#material-stake). Sistem kelas lebih tinggi yang secara material menutup akses, merangking makhluk sadar, atau mengalokasikan beban dan manfaat menuntut bukti yang secara proporsional lebih kuat bahwa pembebanan-ciri-dilindungi, diskriminasi-pengganti, dan ketidakadilan substantif dievaluasi alih-alih dinyatakan.
+- hanya berlaku jika pemicu materialitasnya sendiri terpenuhi, dan tidak mengharuskan audit penuh pada setiap catatan sertifikasi;
+- dijenjangkan menurut kelas sistem berdasarkan [§2.1 Cara kelas sistem menjenjangkan setiap evaluasi](#21-how-system-class-scales-every-evaluation);
+- mencantumkan temuannya dalam catatan sertifikasi berdasarkan [Bagian B §8.1](core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents); dan
+- memperlakukan cacat yang disebutkannya sebagai cacat sertifikasi, dengan konsekuensi berdasarkan [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-**Cacat dan ketidakselarasan.** Mengaburkan, salah-menyajikan, memecah, atau melepaskan logika klasifikasi, perankingan, atau alokasi-beban material di mana **Pasal V-B** (*Nondiskriminasi*) menuntut tinjauan; memperlakukan netralitas lahiriah, metrik kenyamanan agregat, atau laporan-sendiri operator sebagai memadai tanpa analisis beban-dan-manfaat yang dapat dievaluasi; mensertifikasi ketergantungan berlanjut selagi diskriminasi-pengganti atau ketidakadilan substantif terdokumentasi secara material mengancam keselarasan konstitusional; atau memakai pembingkaian homogenisasi, interoperabilitas, atau efisiensi untuk mengalahkan perlindungan bahasa, budaya, atau warisan tanpa memenuhi uji **Keperluan** dan **Proporsionalitas** **Pasal V-B** (*Nondiskriminasi*) harus diperlakukan sebagai cacat sertifikasi. Mereka boleh menopang pengakuan bersyarat, pengakuan tertunda, non-pengakuan, penarikan, atau pembukaan ulang di bawah [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Setiap evaluasi ranah menyatakan apa yang harus diverifikasi sertifikasi, dan tidak lebih. Makna kanonis, faktor evaluasi, dan disiplin ketidakpatuhannya terdapat di Bab Lima dan Pasal yang disebutkannya. Metode akuntansi, katalog, metrik, format pengungkapan, sasaran numerik, dan mekanisme operasional lain terdapat dalam instrumen yang dimasukkan apabila berlaku. Evaluasi ranah tidak mengulang atau menetapkan hal-hal tersebut.
 
-<a id="71-illustrative-nondiscrimination-application-by-class"></a>
+<a id="51-ecological-footprint-evaluation"></a>
 
-<a id="71-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-#### 7.1 Penerapan nondiskriminasi ilustratif menurut kelas (tidak lengkap)
-
-*Dalam bahasa sederhana: [§3.8](#38-illustrative-whole-system-application-by-class) sampai [§6.1](#61-illustrative-cross-system-support-application-by-class) menelusuri ketiga sistem yang sama melalui ranah evaluasi sebelumnya. Subbagian ini menunjukkan apa arti evaluasi **nondiskriminasi** bagi masing-masing — jalur keputusan mana yang dihitung, apa yang harus diperiksa sertifikasi ketika pemicu materialitas **Pasal V-B** (*Nondiskriminasi*) berlaku, dan apa yang harus muncul pada catatan. Bab Lima dan **Pasal V-B** (*Nondiskriminasi*) tetap memiliki aturan keadilan dan diskriminasi-pengganti kanonik; kuota inklusi, target demografis, dan rancangan algoritme-keadilan boleh hidup di instrumen lain, penambahan korpus kemudian, atau instrumen adopsi; penelusuran ini tidak meresepkan mekanika itu.*
-
-**Class A — kendali dan telemetri air minum aman munisipal.** Sistem pengolahan-dan-distribusi milik kota menerapkan aturan pemutusan, penyambungan-kembali, rencana-pembayaran, pemberitahuan-pemadaman, dan peringatan-keselamatan yang secara material memutuskan siapa yang kehilangan akses air, siapa yang diperingatkan lebih dulu, dan siapa yang menanggung biaya pemulihan layanan.
-
-- **Jalur keputusan dalam cakupan:**
-  - Urutan pemutusan layanan dan pemulihan;
-  - gadai, penagihan, dan kelayakan rencana-pembayaran;
-  - persetujuan sambungan-baru dan penyambungan-kembali;
-  - perutean pemberitahuan-pemadaman dan pemilihan bahasa;
-  - penargetan peringatan kontaminasi atau rebus-air;
-  - aturan tuan-tanah–penyewa dan riwayat-alamat yang menutup akses;
-  - prioritas bypass darurat atau bantuan-timbal-balik di mana banyak distrik bersaing atas pasokan terbatas.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah pola beban-dan-manfaat di bawah [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional) dievaluasi bagi jalur yang dapat menutup pokok kelangsungan hidup — bukan hanya apakah operator melabeli aturan «berbasis-risiko» atau «operasional»;
-  - apakah logika pemutusan, penagihan, atau pemberitahuan menumpuk bahaya tidak sebanding pada makhluk sadar berdasarkan [Ciri Dilindungi](core_05_band_participation.md#protected-characteristics-constitutional), penggantinya, atau pengelompokan sewenang-wenang yang dipakai sebagai substitusi fungsional;
-  - apakah fitur kode-pos, tuan-tanah, bahasa, riwayat-pembayaran, atau riwayat-alamat berfungsi sebagai diskriminasi-pengganti di bawah [Proksi Ciri Dilindungi dan Dampak Tidak Setara](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact);
-  - apakah perlindungan [Bahasa, Budaya, dan Warisan](core_05_band_continuity.md#language-culture-and-heritage-constitutional) diuji alih-alih dihomogenisasi lewat «hanya bahasa Inggris baku» atau metrik kenyamanan agregat; dan
-  - apakah setiap perlakuan berbeda memenuhi [Keperluan](core_05_band_accountability.md#necessity) dan [Proporsionalitas](core_05_band_accountability.md#proportionality) yang terdokumentasi.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu materialitas **Pasal V-B** (*Nondiskriminasi*) yang diandalkan;
-  - cakupan evaluasi bagi jalur pemutusan, penagihan, pemberitahuan, dan sambungan yang diandalkan secara material;
-  - temuan ciri-dilindungi, diskriminasi-pengganti, dan keadilan-substantif pada kedalaman **Class A**;
-  - ketidakpastian;
-  - temuan forum Makhluk sadar atau komponen lain di mana dituntut; dan
-  - syarat atau pemicu pembukaan ulang yang terikat pada beban pemutusan, pemberitahuan, atau penagihan tidak setara yang bertahan di mana pokok kelangsungan hidup ditutup.
-
-**Class B — pertukaran catatan klinis regional.** Pertukaran informasi kesehatan merute catatan di antara rumah sakit dan klinik lewat aturan persetujuan, resolusi identitas, perankingan direktori-penyedia, akses break-glass, dan kelayakan onboarding-peserta yang secara material memutuskan siapa yang dapat melihat perawatan apa, fasilitas mana yang tersambung lebih dulu, dan pasien mana yang dicocokkan dengan benar lintas jaringan.
-
-- **Jalur keputusan dalam cakupan:**
-  - Pencocokan identitas pasien dan deduplikasi;
-  - aturan persetujuan, break-glass, dan akses-darurat;
-  - perankingan direktori penyedia dan fasilitas atau logika jaringan-pilihan;
-  - onboarding dan penangguhan rumah sakit peserta;
-  - aturan perutean-catatan dan prioritas-kueri;
-  - fitur turunan yang dipakai untuk merangking penyedia, merute rujukan, atau menandai kohor «high utilizer» atau sebanding.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah jalur klasifikasi, perankingan, dan penutupan dievaluasi bagi efek fungsional — bukan netralitas HIPAA nominal atau klaim interoperabilitas semata;
-  - apakah logika pencocokan, perutean, atau direktori membebankan pengucilan atau bahaya material pada kelompok terlindung atau penggantinya;
-  - apakah kesalahan deduplikasi, ambang break-glass, atau aturan onboarding menumpuk beban tidak sebanding pada klinik pedesaan, pasien minoritas-bahasa, atau kohor sebanding;
-  - apakah «efisiensi», «pencegahan penipuan», atau metrik pemanfaatan agregat dipakai untuk mengalahkan keadilan substantif tanpa memenuhi uji **Keperluan** dan **Proporsionalitas** **Pasal V-B** (*Nondiskriminasi*); dan
-  - apakah kedalaman evaluasi cocok dengan kekritisan operasional **Class B** di mana perankingan memengaruhi akses perawatan kesehatan, perutean manfaat, atau keamanan penghasilan.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu **Pasal V-B** (*Nondiskriminasi*) dan cakupan jalur;
-  - temuan ciri-dilindungi dan diskriminasi-pengganti;
-  - temuan keadilan-substantif bagi aturan perankingan, pencocokan, dan akses;
-  - ketidakpastian dan temuan komponen di mana dituntut; dan
-  - pemicu pembukaan ulang jika perubahan perutean atau pencocokan kini akan memblokir perawatan darurat dalam kerangka waktu yang relevan bagi kelangsungan hidup atau secara material menggeser beban tidak setara.
-
-**Class C — platform penjadwalan dan koordinasi kelembagaan.** Lapisan penjadwalan multi-organisasi menugaskan giliran, memesan ruangan, mencocokkan vendor, dan mengalokasikan prioritas koordinasi lintas rumah sakit, sekolah, dan lembaga publik — jalur keputusan yang dapat merangking, mengecualikan, atau menumpuk beban tidak setara bahkan ketika platform itu sendiri bukan utilitas kritis-kelangsungan-hidup.
-
-- **Jalur keputusan dalam cakupan:**
-  - Penugasan giliran, lembur, dan alokasi siaga;
-  - prioritas pemesanan ruangan, peralatan, dan tempat;
-  - pencocokan vendor dan perankingan pengadaan;
-  - aturan akses berbasis peran kelembagaan, kredensial, dan situs;
-  - fitur penjadwalan turunan yang berkorelasi dengan lingkungan, komunitas bahasa, status pengasuh, atau pengganti sebanding;
-  - aturan API atau kebijakan yang mengecualikan lembaga lebih kecil dari slot atau kumpulan-vendor pilihan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah pemicu materialitas **Pasal V-B** (*Nondiskriminasi*) berlaku — termasuk di mana algoritme koordinasi secara material merangking staf, vendor, atau lembaga;
-  - apakah geografi jadwal, pengganti senioritas, «skor ketersediaan», atau logika peringkat-vendor menumpuk beban tidak sebanding pada kelompok terlindung tanpa justifikasi yang dapat dievaluasi;
-  - apakah aturan yang lahiriah netral menghasilkan ketidakadilan substantif lewat waktu giliran, beban perjalanan, atau pengucilan dari pemesanan bernilai-tinggi;
-  - apakah operator memperlakukan platform di bawah tinjauan karena ia **Class C** selagi efek koordinasi secara material menutup kerja, pendidikan, atau akses layanan-publik; dan
-  - apakah **pengawasan reklasifikasi** dituntut di mana platform menjadi titik-sumbat de facto bagi kepegawaian pokok-kelangsungan-hidup atau perutean darurat.
-- **Apa yang harus ditunjukkan catatan:**
-  - Apakah dan mengapa pemicu **Pasal V-B** (*Nondiskriminasi*) berlaku;
-  - cakupan evaluasi bagi jalur perankingan, penugasan, dan pengucilan yang sepadan dengan risiko koordinasi **Class C**;
-  - temuan ciri-dilindungi, pengganti, dan keadilan-substantif di mana material — bukan pernyataan kosong bahwa tidak seorang pun dirangking;
-  - temuan konsentrasi dan titik-sumbat di mana efek penjadwalan menandai eskalasi;
-  - **pengawasan reklasifikasi** tegas di mana ketergantungan menguat; dan
-  - penunjuk ke tinjauan nondiskriminasi yang dieskalasi jika kelas, perutean pembayaran, atau peran koordinasi pokok-kelangsungan-hidup berubah.
-
-**Membaca lintas kelas.** Disiplin nondiskriminasi **Pasal V-B** (*Nondiskriminasi*) dan Bab Lima yang sama berlaku di mana pun pemicu materialitas terpenuhi; kelas mengubah kedalaman evaluasi, bukan izin untuk memperlakukan perankingan atau penggeseran-beban sebagai tidak material. Sistem air **Class A** yang aturan pemutusan atau pemberitahuannya dapat menutup air aman harus membawa analisis beban-dan-manfaat dan pengganti terkuat pada catatan — bukan pernyataan «praktik terbaik utilitas» generik. Pertukaran **Class B** yang logika pencocokan atau peruteannya memengaruhi perawatan darurat, manfaat, atau akses kredensial harus mendokumentasikan temuan dampak-tidak-setara dan keadilan-substantif pada kekritisan operasional. Platform penjadwalan **Class C** tidak boleh menjaga paragraf keadilan token selagi logika giliran, vendor, atau pemesanan secara material merangking atau mengecualikan peserta; ketika koordinasi menjadi pokok-kelangsungan-hidup, sertifikasi harus mengeskalasi tinjauan dan reklasifikasi di bawah [§2](#2-system-class-evaluation) dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), termasuk ke atas ke **Class A** di mana kepegawaian atau perutean darurat ditutup. Penelusuran aksesibilitas bagi sistem yang sama ada di [§8.1](#81-illustrative-accessibility-application-by-class).
-
-<a id="8-accessibility-evaluation"></a>
-
-### 8. Evaluasi Aksesibilitas
+#### 5.1 Evaluasi Jejak Ekologis
 
 <details>
-<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Partisipasi (*Aksesibilitas sebagai pengukuran konstitusional*); **Pasal V-G** (*Aksesibilitas*); [Aksesibilitas](core_05_band_participation.md#accessibility-constitutional), [Materialitas](core_05_band_oversight.md#materiality-determination), [Ketergantungan](core_05_band_continuity.md#dependency), [Keagenan Bermakna](core_05_band_participation.md#meaningful-agency), [Ciri Dilindungi](core_05_band_participation.md#protected-characteristics-constitutional), [Proksi Ciri Dilindungi dan Dampak Tidak Setara](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional), [Keperluan](core_05_band_accountability.md#necessity), dan [Proporsionalitas](core_05_band_accountability.md#proportionality) (Bab Lima).
-- Hilir: [§8.1](#81-illustrative-accessibility-application-by-class) (*penelusuran aksesibilitas ilustratif*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan-terverifikasi*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ketidakselarasan aksesibilitas dan akomodasi hanya-kertas*).
-- Baca bersama: **Pasal III-B** (*Akses Pendidikan yang Setara*) di mana aksesibilitas pendidikan tersangkut — aksesibilitas khusus-pendidikan tetap dimiliki di sana; **Pasal V-C** (*Inklusi Penuh dan Kesetaraan dalam Adjudikasi dan Operasi*) dan **Pasal XII** (*Partisipasi Sistemik Pihak Terdampak, Perwakilan, dan Proses yang Semestinya*) di mana sertifikasi menutup partisipasi forum, administratif, pihak terdampak, atau penegakan; [Bab Tujuh §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion) (*kait faktor-evaluasi aksesibilitas lintas-ranah*).
-- Subbagian: [§8.1](#81-illustrative-accessibility-application-by-class) (*penerapan aksesibilitas ilustratif menurut kelas*).
+- Hulu: [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Kesinambungan (*Jejak Ekologis sebagai pengukuran konstitusional*); **Pasal I-B** (*Jejak Ekologis dan Transparansi*); [Jejak Ekologis](core_05_band_continuity.md#ecological-footprint), [Dampak Material](core_05_band_oversight.md#material-impact), [Ketergantungan](core_05_band_continuity.md#dependency), [Transparansi](core_05_band_oversight.md#transparency), dan [Integritas Epistemik](core_05_band_oversight.md#epistemic-integrity) (Bab Lima); [Prasyarat Lingkungan](core_05_band_continuity.md#environmental-preconditions) dan [Integritas Ekologis](core_05_band_continuity.md#ecological-integrity) jika terimplikasi secara material.
+- Hilir: [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*contoh penerapan jejak ekologis menurut kelas sistem*); [§5.3](#53-proportionate-cross-system-support-evaluation) dan [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*evaluasi dan contoh dukungan lintas sistem*); [Bagian B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*integritas catatan*); [Bagian B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*misrepresentasi dan ketidakselarasan jejak*).
+- Baca bersama: [corpus_systems.md](corpus_systems.md), [CS-8 — Keberlanjutan adaptif dan ketahanan ekosistem](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) jika alokasi adaptif atau saling ketergantungan ekosistem termasuk dalam cakupan material.
+- Subbagian: [§5.1.1](#511-scope-and-governing-rules) (*cakupan dan aturan yang berlaku*); [§5.1.2](#512-evaluation-requirement) (*persyaratan evaluasi*); [§5.1.3](#513-system-class-scaling-and-escalation) (*penjenjangan dan eskalasi kelas sistem*); [§5.1.4](#514-defects-and-misalignment) (*cacat dan ketidakselarasan*); [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*contoh penerapan jejak ekologis menurut kelas sistem*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: ketika suatu sistem secara material mengendalikan apakah makhluk sadar benar-benar dapat ikut serta — bukan hanya apakah suatu pintu dilabeli «terbuka» — sertifikasi harus memeriksa apakah partisipasi sungguh dapat dijangkau lintas kebutuhan sensorik, kognitif, mobilitas, komunikasi, antarmuka-substrat, dan sebanding. Katalog akomodasi dan standar antarmuka boleh hidup di instrumen lain, penambahan korpus kemudian, atau instrumen adopsi; sertifikasi memeriksa bahwa partisipasi substantif benar-benar dievaluasi di mana pemicu berlaku. Contoh yang dikerjakan bagi sistem ilustratif di [§2.1](#21-illustrative-class-profiles-non-exhaustive) ada di [§8.1](#81-illustrative-accessibility-application-by-class).*
+*Dalam bahasa sederhana: jika suatu sistem benar-benar merusak lingkungan, sertifikasi harus melihat kerusakan itu secara jujur — termasuk kerusakan melalui pemasoknya dan kerusakan yang terjadi setelah makhluk sadar menggunakannya. Peninjau tidak bisa hanya menerima kata operator bahwa sistem itu «hijau». Bagian ini tidak menjelaskan cara mengukur jejak atau seberapa banyak jejak itu harus dikurangi; dokumen lain membahasnya. Bagian ini hanya mensyaratkan bahwa, ketika kerusakannya signifikan, seseorang benar-benar menghitung bagian mana yang berasal dari sistem ini, mengungkapkannya, dan membandingkannya dengan alternatif. Contoh kerja: [§5.1.5 Contoh penerapan jejak ekologis menurut kelas sistem (tidak menyeluruh)](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).*
 
-**Pemicu materialitas.** Bagian ini berlaku di mana sistem yang berdampak material secara material menutup partisipasi substantif dalam ranah yang relevan secara konstitusional — termasuk tata kelola, partisipasi pihak terdampak, adjudikasi, operasi, akses lantai-kelangsungan-hidup, akses perawatan kesehatan, ekspresi, berkumpul, pers, atau ranah sebanding — lewat antarmuka, tempat, penjadwalan, kredensial, akses komputasi, rancangan akomodasi, atau jalur partisipasi sebanding. Ia tidak menuntut audit aksesibilitas penuh pada setiap catatan sertifikasi. Aksesibilitas pendidikan tetap diatur oleh **Pasal III-B** (*Akses Pendidikan yang Setara*) dan tidak dipersempit di sini.
+<a id="511-scope-and-governing-rules"></a>
+##### 5.1.1 Cakupan dan Aturan yang Berlaku
 
-Sertifikasi keselarasan sistem harus mengevaluasi **aksesibilitas** di bawah **Pasal V-G** (*Aksesibilitas*) dan [Aksesibilitas](core_05_band_participation.md#accessibility-constitutional) di mana pemicu materialitas berlaku. Makna kanonik, faktor evaluasi, dan disiplin ketidakpatuhan hidup di Bab Lima dan **Pasal V-G** (*Aksesibilitas*); katalog akomodasi, standar antarmuka, spesifikasi rancangan-universal, dan mekanika akomodasi operasional hidup di instrumen inkorporasi di mana berlaku. Bagian ini menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; ia tidak menyatakan ulang mekanika operasional itu atau meresepkan katalog akomodasi atau spesifikasi rancangan-universal spesifik.
+Sertifikasi keselarasan sistem harus mengevaluasi **jejak ekologis** sebagai bagian dari setiap catatan sertifikasi berdampak material ketika beban lingkungan yang dapat diatribusikan bersifat material berdasarkan [Jejak Ekologis](core_05_band_continuity.md#ecological-footprint) dan **Pasal I-B** (*Jejak Ekologis dan Transparansi*).
 
-**Persyaratan evaluasi.** Proses sertifikasi harus menentukan apakah makhluk sadar dapat berpartisipasi secara substantif dalam ranah yang relevan secara konstitusional yang ditutup sistem secara material — bukan semata apakah afordans formal, antarmuka bawaan, atau akomodasi kertas ada. Evaluasi harus menguji efek partisipasi substantif di bawah [Aksesibilitas](core_05_band_participation.md#accessibility-constitutional), diskalakan ke [Materialitas](core_05_band_oversight.md#materiality-determination) dan [Ketergantungan](core_05_band_continuity.md#dependency), dan harus mendeteksi akomodasi hanya-kertas, pola «akses umum» yang mengalah pada afordans bawaan tanpa menghasilkan kapasitas partisipasi, argumen materialitas-selektif yang dipakai untuk menyusutkan cakupan akomodasi, pengucilan yang bertentangan dengan [Non-Pengucilan Kesadaran](core_05_band_participation.md#sentience-non-exclusion), dan rancangan anti-penolakan-lewat-pengganti lewat penjadwalan, pilihan tempat, pemberian-kredensial, akses komputasi, atau mekanika sebanding. Evaluasi harus menerapkan [Ciri Dilindungi](core_05_band_participation.md#protected-characteristics-constitutional) dan [Proksi Ciri Dilindungi dan Dampak Tidak Setara](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) pada logika rancangan-akomodasi. Setiap batas harus memenuhi [Keperluan](core_05_band_accountability.md#necessity), [Proporsionalitas](core_05_band_accountability.md#proportionality), dan [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional) yang terdokumentasi.
+<a id="512-evaluation-requirement"></a>
+##### 5.1.2 Persyaratan Evaluasi
 
-**Persyaratan catatan.** Catatan sertifikasi harus menyatakan pemicu materialitas **Pasal V-G** (*Aksesibilitas*) yang diandalkan, cakupan evaluasi bagi jalur partisipasi yang diandalkan secara material, temuan partisipasi-substantif dan akomodasi, temuan anti-penolakan-lewat-pengganti di mana material, ketidakpastian, temuan forum Makhluk sadar atau komponen yang ditugaskan lain di mana dituntut, dan setiap syarat, batas ketergantungan, atau pemicu pembukaan ulang yang terikat pada hambatan partisipasi yang bertahan.
+Proses sertifikasi harus menentukan apakah arus lingkungan yang dapat diatribusikan — energi, material, emisi, kualitas udara, kualitas air, penggunaan air, penggunaan lahan, dan beban terkait — telah:
 
-**Penskalaan bersama dengan kelas sistem.** Kedalaman evaluasi aksesibilitas harus diskalakan dengan kelas sistem yang ditugaskan di bawah [§2](#2-system-class-evaluation) dan [taruhan material](core_00_preamble.md#material-stake). Sistem kelas lebih tinggi yang secara material menutup partisipasi yang relevan secara konstitusional menuntut bukti yang secara proporsional lebih kuat bahwa aksesibilitas substantif dievaluasi alih-alih dinyatakan.
+- diidentifikasi di seluruh siklus hidup sistem yang relevan secara material dan hubungan [Ketergantungan](core_05_band_continuity.md#dependency);
+- dievaluasi berdasarkan [Dampak Material](core_05_band_oversight.md#material-impact); dan
+- diungkapkan atau dirahasiakan hanya sejauh diizinkan oleh [Transparansi](core_05_band_oversight.md#transparency), [Integritas Epistemik](core_05_band_oversight.md#epistemic-integrity), dan kewajiban transparansi yang berlaku.
 
-**Cacat dan ketidakselarasan.** Memperlakukan afordans formal, antarmuka bawaan, atau akomodasi kertas sebagai memadai tanpa analisis partisipasi-substantif yang dapat dievaluasi; mensertifikasi ketergantungan berlanjut selagi hambatan partisipasi terdokumentasi secara material mengancam keselarasan konstitusional; memakai pembingkaian biaya, pilihan-rancangan, kelas-substrat, atau skala-operasional untuk mengalahkan lantai partisipasi tanpa memenuhi uji **Keperluan** dan **Proporsionalitas** **Pasal V-G** (*Aksesibilitas*); atau rancangan operasional yang efeknya mengalahkan aksesibilitas di mana opsi kurang-memberatkan layak harus diperlakukan sebagai cacat sertifikasi. Mereka boleh menopang pengakuan bersyarat, pengakuan tertunda, non-pengakuan, penarikan, atau pembukaan ulang di bawah [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+Evaluasi harus mencerminkan dampak fungsional dan batas sistem, bukan hanya cakupan nominal, label pemasaran, atau pembingkaian siklus hidup parsial.
 
-<a id="81-illustrative-accessibility-application-by-class"></a>
+Jika praktis, peninjau harus membandingkan bahaya lingkungan signifikan dari sistem dengan alternatif realistis. Mereka juga harus memastikan bahwa bahaya tersebut tidak disembunyikan dengan:
 
-<a id="81-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-#### 8.1 Penerapan aksesibilitas ilustratif menurut kelas (tidak lengkap)
+- **menarik batas secara sempit** — menetapkan batas sistem agar dampak terburuk berada di luarnya;
+- **mengalihkan beban** — mendorong pekerjaan berbahaya kepada pemasok atau mitra agar tidak dihitung sebagai bagian sistem sendiri; atau
+- **hanya membagikan kabar baik** — melaporkan angka yang menguntungkan dan menghilangkan angka yang tidak menguntungkan.
 
-*Dalam bahasa sederhana: [§3.8](#38-illustrative-whole-system-application-by-class) sampai [§7.1](#71-illustrative-nondiscrimination-application-by-class) menelusuri ketiga sistem yang sama melalui ranah evaluasi sebelumnya. Subbagian ini menunjukkan apa arti evaluasi **aksesibilitas** bagi masing-masing — jalur partisipasi mana yang dihitung, apa yang harus diperiksa sertifikasi ketika pemicu materialitas **Pasal V-G** (*Aksesibilitas*) berlaku, dan apa yang harus muncul pada catatan. Bab Lima dan **Pasal V-G** (*Aksesibilitas*) tetap memiliki aturan aksesibilitas kanonik; katalog akomodasi, standar antarmuka, dan spesifikasi rancangan-universal boleh hidup di instrumen lain, penambahan korpus kemudian, atau instrumen adopsi; penelusuran ini tidak meresepkan mekanika itu. Aksesibilitas pendidikan tetap dimiliki **Pasal III-B** (*Akses Pendidikan yang Setara*) dan tidak dipersempit di sini.*
+<a id="513-system-class-scaling-and-escalation"></a>
+##### 5.1.3 Penjenjangan dan Eskalasi Kelas Sistem
 
-**Class A — kendali dan telemetri air minum aman munisipal.** Sistem pengolahan-dan-distribusi milik kota menutup akses lantai-kelangsungan-hidup lewat portal penagihan, saluran pemberitahuan-pemadaman, permintaan penyambungan-kembali, peringatan rebus-air, dan jalur layanan-pelanggan yang memutuskan apakah makhluk sadar dapat mengetahui, menggugat, atau memulihkan air aman.
+Kelas sistem menentukan seberapa dalam jejak kerugian lingkungan harus ditelusuri dan seberapa banyak perbandingan diperlukan. Kelas tidak pernah boleh dipakai untuk menghindari pemeriksaan atas kerugian yang signifikan.
 
-- **Jalur partisipasi dalam cakupan:**
-  - Portal penagihan dan rencana-pembayaran;
-  - saluran peringatan pemadaman dan kontaminasi (suara, teks, web, tatap-muka, atau jalur vendor yang didelegasikan);
-  - antarmuka penyambungan-kembali dan permintaan-keringanan;
-  - opsi bahasa dan format bagi pemberitahuan keselamatan;
-  - gerbang kredensial atau identitas bagi akses akun;
-  - persyaratan komputasi, perangkat, atau tempat untuk mengajukan gugatan atau menerima peringatan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah makhluk sadar dapat secara substantif menerima pemberitahuan kritis-kelangsungan-hidup dan menyelesaikan jalur penyambungan-kembali atau keringanan lintas profil sensorik, kognitif, mobilitas, komunikasi, dan antarmuka-substrat — bukan apakah suatu formulir web bawaan ada;
-  - apakah akomodasi hanya-kertas, «telepon selama jam kerja», atau bawaan hanya-bahasa-Inggris mengalahkan partisipasi di mana opsi kurang-memberatkan layak;
-  - apakah rancangan penjadwalan, tempat, kredensial, atau komputasi berfungsi sebagai penolakan-lewat-pengganti;
-  - apakah [Ciri Dilindungi](core_05_band_participation.md#protected-characteristics-constitutional) dan [Proksi Ciri Dilindungi dan Dampak Tidak Setara](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) diterapkan pada logika rancangan-akomodasi; dan
-  - apakah setiap batas memenuhi [Keperluan](core_05_band_accountability.md#necessity), [Proporsionalitas](core_05_band_accountability.md#proportionality), dan [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional) yang terdokumentasi.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu materialitas **Pasal V-G** (*Aksesibilitas*) yang diandalkan;
-  - cakupan evaluasi bagi jalur pemberitahuan, penagihan, penyambungan-kembali, dan gugatan yang diandalkan secara material;
-  - temuan partisipasi-substantif dan akomodasi pada kedalaman **Class A**;
-  - temuan anti-penolakan-lewat-pengganti di mana material;
-  - ketidakpastian;
-  - temuan forum Makhluk sadar atau komponen lain di mana dituntut; dan
-  - syarat atau pemicu pembukaan ulang yang terikat pada hambatan yang bertahan di mana pokok kelangsungan hidup ditutup.
+- Sistem tidak boleh diturunkan ke kelas sistem yang lebih rendah selagi ekstraksi air, pembuangan polusi, penggunaan energi, atau beban serupa masih baru dihitung sebagian — terutama jika beban tersebut memengaruhi penyediaan sesuatu yang dibutuhkan makhluk sadar untuk bertahan hidup, seperti air aman.
+- Jika sistem bertumbuh (beban bertambah atau lebih banyak hosting terkonsentrasi di satu tempat) dan kerugian lingkungannya meningkat signifikan, tinjauan harus ikut bertambah. Ini dapat berarti peninjauan sedalam **Class A** ketika penyediaan kebutuhan pokok untuk kelangsungan hidup dan beban sumber sistem sama-sama terlibat.
+- Jika sistem menjadi titik-sumbat yang diandalkan makhluk sadar untuk koordinasi pokok-kelangsungan-hidup, sistem tidak dapat lolos dengan berkas jejak simbolis hanya karena operator menyebutnya «nonkritis».
 
-**Class B — pertukaran catatan klinis regional.** Pertukaran informasi kesehatan dan portal pesertanya menutup akses perawatan-kesehatan harian lewat portal pasien, antarmuka persetujuan, direktori penyedia, alur kerja break-glass, dan alat onboarding klinik yang memutuskan apakah pasien dan penyedia lebih kecil dapat benar-benar memakai pertukaran.
+<a id="514-defects-and-misalignment"></a>
+##### 5.1.4 Cacat dan Ketidakselarasan
 
-- **Jalur partisipasi dalam cakupan:**
-  - Portal pasien dan antarmuka persetujuan;
-  - alat direktori-penyedia dan pemesanan rujukan;
-  - alur kerja break-glass dan akses-darurat;
-  - antarmuka onboarding dan pemberian-kredensial klinik;
-  - dukungan bahasa, format, dan teknologi-bantu bagi ringkasan dan pengungkapan klinis;
-  - persyaratan komputasi atau perangkat untuk melihat, menggugat, atau mengoreksi catatan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah pasien dan klinik peserta dapat secara substantif memakai jalur persetujuan, akses, koreksi, dan darurat — bukan apakah suatu portal dilabeli aksesibel;
-  - apakah antarmuka bawaan mengalah pada pengguna yang melihat, desktop, berpita-lebar-tinggi, atau berbahasa-Inggris-utama tanpa menghasilkan kapasitas partisipasi bagi yang lain;
-  - apakah rancangan kredensial, penjadwalan, atau tempat mengecualikan klinik pedesaan, pasien minoritas-bahasa, atau makhluk sadar yang membutuhkan format alternatif;
-  - apakah kedalaman evaluasi cocok dengan kekritisan operasional **Class B** di mana pertukaran menutup akses perawatan kesehatan; dan
-  - apakah akomodasi kertas atau klaim «daftar periksa kepatuhan» agregat diperlakukan sebagai memadai tanpa analisis partisipasi-substantif yang dapat dievaluasi.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu **Pasal V-G** (*Aksesibilitas*) dan cakupan jalur;
-  - temuan partisipasi-substantif dan akomodasi bagi jalur pasien dan klinik;
-  - temuan anti-penolakan-lewat-pengganti di mana material;
-  - ketidakpastian dan temuan komponen di mana dituntut; dan
-  - pemicu pembukaan ulang jika hambatan portal atau persetujuan kini akan memblokir perawatan darurat dalam kerangka waktu yang relevan bagi kelangsungan hidup atau secara material mengalahkan ketergantungan operasional harian.
+Hal-hal berikut masing-masing merupakan cacat sertifikasi:
 
-**Class C — platform penjadwalan dan koordinasi kelembagaan.** Lapisan penjadwalan multi-organisasi menutup partisipasi pihak terdampak dan operasional lewat antarmuka klaim-giliran, alat pemesanan-ruangan, portal vendor, dan dasbor kelembagaan — bahkan ketika platform itu sendiri bukan utilitas kritis-kelangsungan-hidup.
+- menyembunyikan, menyatakan keliru, memecah, atau mengalihkan informasi jejak signifikan yang wajib diungkapkan oleh aturan sertifikasi atau **Pasal I-B** (*Jejak Ekologis dan Transparansi*);
+- hanya meninjau bagian siklus hidup sistem yang dipilih operator untuk ditampilkan, padahal pandangan lebih luas diperlukan; dan
+- menerima klaim jejak hanya berdasarkan kata operator, tanpa bukti yang dapat diperiksa.
 
-- **Jalur partisipasi dalam cakupan:**
-  - Antarmuka klaim-giliran dan siaga;
-  - alat pemesanan ruangan, peralatan, dan tempat;
-  - portal vendor dan pengadaan;
-  - dasbor peran kelembagaan dan kredensial;
-  - jalur seluler, desktop, dan teknologi-bantu untuk mengklaim atau menggugat penugasan;
-  - opsi bahasa dan format bagi pemberitahuan jadwal.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah pemicu materialitas **Pasal V-G** (*Aksesibilitas*) berlaku — termasuk di mana UI koordinasi secara material menutup partisipasi kerja, pendidikan, pihak terdampak, atau forum;
-  - apakah antarmuka bawaan menghasilkan partisipasi substantif lintas profil sensorik, kognitif, mobilitas, komunikasi, dan antarmuka-substrat;
-  - apakah waktu jadwal, pilihan tempat, gerbang kredensial, atau persyaratan komputasi berfungsi sebagai penolakan-lewat-pengganti;
-  - apakah operator memperlakukan platform di bawah tinjauan karena ia **Class C** selagi efek koordinasi secara material menutup partisipasi yang relevan secara konstitusional; dan
-  - apakah **pengawasan reklasifikasi** dituntut di mana platform menjadi titik-sumbat de facto bagi kepegawaian pokok-kelangsungan-hidup atau perutean darurat.
-- **Apa yang harus ditunjukkan catatan:**
-  - Apakah dan mengapa pemicu **Pasal V-G** (*Aksesibilitas*) berlaku;
-  - cakupan evaluasi bagi jalur penjadwalan, pemesanan, dan portal yang sepadan dengan risiko koordinasi **Class C**;
-  - temuan partisipasi-substantif dan akomodasi di mana material — bukan pernyataan kosong bahwa UI «standar»;
-  - temuan konsentrasi dan titik-sumbat di mana efek penjadwalan menandai eskalasi;
-  - **pengawasan reklasifikasi** tegas di mana ketergantungan menguat; dan
-  - penunjuk ke tinjauan aksesibilitas yang dieskalasi jika kelas atau peran koordinasi pokok-kelangsungan-hidup berubah.
+<a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
-**Membaca lintas kelas.** Disiplin aksesibilitas **Pasal V-G** (*Aksesibilitas*) dan Bab Lima yang sama berlaku di mana pun pemicu materialitas terpenuhi; kelas mengubah kedalaman evaluasi, bukan izin untuk memperlakukan akomodasi kertas atau antarmuka bawaan sebagai cukup. Sistem air **Class A** yang jalur penagihan atau pemadamannya dapat menutup air aman harus membawa bukti partisipasi-substantif terkuat pada catatan — bukan pernyataan aksesibilitas generik. Pertukaran **Class B** yang portalnya menutup akses perawatan kesehatan harus mendokumentasikan temuan akomodasi dan anti-penolakan-lewat-pengganti pada kekritisan operasional. Platform penjadwalan **Class C** tidak boleh menjaga paragraf aksesibilitas token selagi UI giliran, pemesanan, atau vendor secara material mengecualikan peserta; ketika koordinasi menjadi pokok-kelangsungan-hidup, sertifikasi harus mengeskalasi tinjauan dan reklasifikasi di bawah [§2](#2-system-class-evaluation) dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), termasuk ke atas ke **Class A** di mana kepegawaian atau perutean darurat ditutup. Penelusuran kapabilitas-pendidikan bagi sistem yang sama ada di [§9.1](#91-illustrative-educational-capability-application-by-class).
-
-<a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
-
-### 9. Evaluasi Kapabilitas Pendidikan dan Integritas Sistem Pembelajaran
+#### 5.2 Evaluasi Kapabilitas Pendidikan dan Integritas Sistem Pembelajaran
 
 <details>
-<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Partisipasi (*Keagenan Pendidikan sebagai pengukuran konstitusional*); **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*); [Keagenan Pendidikan](core_05_band_participation.md#educational-agency), [Keagenan Bermakna](core_05_band_participation.md#meaningful-agency), [Penguncian Sistemik](core_05_band_continuity.md#systemic-lock-in), [Dapat Digugat](core_05_band_accountability.md#contestability), [Transparansi](core_05_band_oversight.md#transparency), [Dapat Diaudit](core_05_band_oversight.md#auditability), [Paksaan dan Manipulasi](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Materialitas](core_05_band_oversight.md#materiality-determination), dan [Ketergantungan](core_05_band_continuity.md#dependency) (Bab Lima).
-- Hilir: [§9.1](#91-illustrative-educational-capability-application-by-class) (*penelusuran kapabilitas-pendidikan ilustratif*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan-terverifikasi*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ketidakselarasan opasitas-penilaian, penjagaan-kredensial, dan ketidakselarasan keusangan-yang-dipaksakan*).
-- Baca bersama: **Pasal III-B** (*Akses Pendidikan yang Setara*) di mana akses setara atau aksesibilitas pendidikan tersangkut — akses setara dan aksesibilitas pendidikan tetap dimiliki di sana; **Pasal V-B** (*Nondiskriminasi*) dan [§7](#7-nondiscrimination-evaluation) di mana pola perankingan atau penempatan menyangkut pembebanan-ciri-dilindungi; **Pasal X-A** (*Keagenan dan Kebebasan dari Manipulasi*) di mana rancangan pembelajaran koersif atau manipulatif tersangkut secara material; [Bab Satu §9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*pemahaman terdistribusi dan pembangunan-kapabilitas baca-bersama*).
-- Subbagian: [§9.1](#91-illustrative-educational-capability-application-by-class) (*penerapan kapabilitas-pendidikan ilustratif menurut kelas*).
+- Hulu: [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran partisipasi (*Agensi Pendidikan sebagai pengukuran konstitusional*); **Pasal IV** (*Hak atas Pendidikan yang Berpusat pada Makhluk Sadar*); [Agensi Pendidikan](core_05_band_participation.md#educational-agency), [Agensi Bermakna](core_05_band_participation.md#meaningful-agency), [Penguncian Sistemik](core_05_band_continuity.md#systemic-lock-in), [Dapat Digugat](core_05_band_accountability.md#contestability), [Transparansi](core_05_band_oversight.md#transparency), [Dapat Diaudit](core_05_band_oversight.md#auditability), [Pemaksaan dan Manipulasi](core_05_band_participation.md#coercion-and-manipulation), [Materialitas](core_05_band_oversight.md#materiality), dan [Ketergantungan](core_05_band_continuity.md#dependency) (Bab Lima).
+- Hilir: [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*contoh evaluasi kapabilitas pendidikan menurut kelas sistem*); [Bagian B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*integritas catatan*); [Bagian B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*ketidakselarasan akibat penilaian yang tidak transparan, penggerbangan kredensial, dan keusangan yang dipaksakan*).
+- Baca bersama: **Pasal IV-A** (*Akses Pendidikan yang Setara*) jika akses setara atau aksesibilitas pendidikan terimplikasi — akses setara dan aksesibilitas pendidikan tetap diatur di sana; **Pasal VI-C** (*Nondiskriminasi*) dan [§5.4](#54-nondiscrimination-evaluation) jika pola pemeringkatan atau penempatan membebani berdasarkan karakteristik yang dilindungi; **Pasal X-A** (*Agensi dan Kebebasan dari Manipulasi*) jika desain pembelajaran yang memaksa atau manipulatif terimplikasi secara material; [Bab Satu §16 Pengelolaan Bertanggung Jawab Secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (*bacaan pendamping tentang pemahaman terdistribusi dan pembangunan kapabilitas*).
+- Subbagian: [§5.2.1](#521-materiality-trigger-and-governing-rules) (*pemicu materialitas dan aturan yang berlaku*); [§5.2.2](#522-evaluation-requirement) (*persyaratan evaluasi*); [§5.2.3](#523-system-class-scaling-and-escalation) (*penjenjangan dan eskalasi kelas sistem*); [§5.2.4](#524-defects-and-misalignment) (*cacat dan ketidakselarasan*); [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*contoh penerapan kapabilitas pendidikan menurut kelas sistem*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: ketika suatu sekolah, platform, atau sistem pelatihan dapat secara serius memengaruhi masa depan makhluk sadar — lewat nilai, perankingan, rekomendasi, penempatan, atau gerbang kredensial — sertifikasi harus memeriksa apakah makhluk sadar benar-benar dapat membangun kapabilitas, dilatih ulang ketika kompetensi berubah, dan melihat, mengaudit, serta menggugat keputusan itu. Kurikulum, rubrik, dan model pendanaan hidup di instrumen lain; sertifikasi memeriksa bahwa substansi pembangunan-kapabilitas dan integritas sistem-pembelajaran benar-benar dievaluasi di mana pemicu berlaku. Contoh yang dikerjakan bagi sistem ilustratif di [§2.1](#21-illustrative-class-profiles-non-exhaustive) ada di [§9.1](#91-illustrative-educational-capability-application-by-class).*
+*Dalam bahasa sederhana: beberapa sekolah, platform, dan sistem pelatihan dapat membentuk masa depan makhluk sadar melalui nilai, peringkat, rekomendasi, penempatan, atau kredensial yang membuka atau menutup peluang. Jika demikian, sertifikasi harus memeriksa tiga hal: apakah makhluk sadar benar-benar dapat membangun keterampilan nyata di sana; apakah mereka dapat berlatih ulang ketika keterampilan yang dibutuhkan dunia berubah; dan apakah mereka dapat melihat cara keputusan tentang diri mereka dibuat, memeriksa keputusan itu, lalu menggugatnya. Bagian ini tidak menentukan apa yang diajarkan, cara memberi nilai, atau cara membiayainya; dokumen lain membahasnya. Bagian ini hanya memeriksa bahwa pembangunan keterampilan dan keadilan sistem pembelajaran benar-benar dievaluasi ketika ketentuannya berlaku. Contoh kerja: [§5.2.5 Contoh penerapan kapabilitas pendidikan menurut kelas sistem (tidak menyeluruh)](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
 
-**Pemicu materialitas.** Bagian ini berlaku di mana sistem yang berdampak material secara material merangking, menilai, merekomendasikan, menempatkan, atau menutup-kredensial makhluk sadar dalam konteks pendidikan atau pelatihan — termasuk lewat penilaian, penempatan, penerimaan, lisensi, rekomendasi kursus, perutean pembelajaran-adaptif, atau jalur keputusan sebanding — atau secara material menutup jalur pendidikan berkelanjutan, pelatihan-ulang, atau dukungan-transisi di mana evolusi sistem secara material mengubah kompetensi yang dituntut. Ia tidak menuntut audit kapabilitas-pendidikan penuh pada setiap catatan sertifikasi. Akses setara dan aksesibilitas pendidikan tetap diatur oleh **Pasal III-B** (*Akses Pendidikan yang Setara*) dan tidak dipersempit di sini.
+<a id="521-materiality-trigger-and-governing-rules"></a>
+##### 5.2.1 Pemicu Materialitas dan Aturan yang Berlaku
 
-Sertifikasi keselarasan sistem harus mengevaluasi **kapabilitas pendidikan dan integritas sistem pembelajaran** di bawah **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*), [Keagenan Pendidikan](core_05_band_participation.md#educational-agency), dan **Pasal VI-B** (*Pembelajaran Seumur Hidup dan Adaptif serta Dapat Digugat*) di mana pemicu materialitas berlaku. Makna kanonik, faktor evaluasi, dan disiplin ketidakpatuhan hidup di Bab Lima dan **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*); kurikulum, katalog kredensial, rubrik penilaian, dan mekanika pendanaan kelembagaan hidup di instrumen inkorporasi di mana berlaku. Bagian ini menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; ia tidak menyatakan ulang mekanika operasional itu atau meresepkan kurikulum, format kredensial, atau rancangan penilaian spesifik.
+Bagian ini berlaku ketika suatu sistem yang berdampak besar pada kehidupan makhluk sadar melakukan salah satu hal berikut dalam pendidikan atau pelatihan:
 
-**Persyaratan evaluasi.** Proses sertifikasi harus menentukan apakah jalur pembelajaran dan kredensial yang diandalkan sistem secara material menghasilkan akses pembangunan-kapabilitas praktis — bukan simbolisme kredensial semata — dan apakah makhluk sadar tetap memiliki kesempatan pelatihan-ulang, pendidikan berkelanjutan, dan dukungan-transisi yang dapat dijalankan di mana kompetensi yang dituntut berubah secara material. Evaluasi harus juga menguji transparansi, dapat-diaudit, dan dapat-digugat atas logika perankingan, penilaian, rekomendasi, dan penempatan yang berdampak material di bawah **Pasal VI-B** (*Pembelajaran Seumur Hidup dan Adaptif serta Dapat Digugat*), diskalakan ke [Materialitas](core_05_band_oversight.md#materiality-determination) dan [Ketergantungan](core_05_band_continuity.md#dependency). Evaluasi harus mendeteksi pengganti buram atau tidak-dapat-ditinjau, penjagaan-kredensial yang mengalahkan pembentukan kapabilitas, keusangan-yang-dipaksakan atau penguncian yang meniadakan keagenan, rancangan pembelajaran koersif atau manipulatif, dan segmentasi yang menghilangkan dapat-digugat atau adaptasi seumur hidup di mana **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) berlaku bersama. Evaluasi harus mencerminkan efek fungsional, bukan label akses nominal, niat pedagogis yang dinyatakan, atau formalisme kredensial semata.
+- memberi peringkat, menilai, merekomendasikan, menempatkan, atau bertindak sebagai penjaga gerbang kredensial bagi makhluk sadar secara signifikan — misalnya melalui pemberian nilai, penempatan, penerimaan, lisensi, rekomendasi mata kuliah, perutean pembelajaran adaptif, atau keputusan serupa; atau
+- mengendalikan secara signifikan akses ke pendidikan berkelanjutan, pelatihan ulang, atau bantuan transisi, ketika perubahan pada sistem telah secara signifikan mengubah keterampilan yang dibutuhkan makhluk sadar.
 
-**Persyaratan catatan.** Catatan sertifikasi harus menyatakan pemicu materialitas **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) yang diandalkan, cakupan evaluasi bagi jalur perankingan, penilaian, rekomendasi, penempatan, penutupan-kredensial, dan pelatihan-ulang yang diandalkan secara material, temuan pembangunan-kapabilitas dan jalur-pelatihan-ulang, temuan transparansi-penilaian dan dapat-digugat, temuan anti-pengganti dan anti-manipulasi di mana material, ketidakpastian, temuan forum Makhluk sadar atau komponen yang ditugaskan lain di mana dituntut, dan setiap syarat, batas ketergantungan, atau pemicu pembukaan ulang yang terikat pada kekalahan kapabilitas yang bertahan, opasitas penilaian, atau keusangan yang dipaksakan.
+Akses setara ke pendidikan dan aksesibilitas tetap diatur **Pasal IV-A** (*Akses Pendidikan yang Setara*), dan tidak ada ketentuan di sini yang mempersempitnya.
 
-**Penskalaan bersama dengan kelas sistem.** Kedalaman evaluasi kapabilitas pendidikan dan integritas sistem pembelajaran harus diskalakan dengan kelas sistem yang ditugaskan di bawah [§2](#2-system-class-evaluation) dan [taruhan material](core_00_preamble.md#material-stake). Sistem kelas lebih tinggi yang secara material merangking, menilai, merekomendasikan, menempatkan, atau menutup-kredensial makhluk sadar dalam konteks pendidikan atau pelatihan menuntut bukti yang secara proporsional lebih kuat bahwa substansi pembangunan-kapabilitas, akses pelatihan-ulang, dan transparansi sistem-pembelajaran dievaluasi alih-alih dinyatakan.
+Jika pemicu materialitas berlaku, sertifikasi harus mengevaluasi **kapabilitas pendidikan dan integritas sistem pembelajaran** — yaitu, apakah sistem benar-benar membangun kapabilitas dan memperlakukan makhluk sadar secara adil — berdasarkan:
 
-**Cacat dan ketidakselarasan.** Mengaburkan, salah-menyajikan, memecah, atau melepaskan logika perankingan, penilaian, rekomendasi, atau penempatan material di mana **Pasal VI-B** (*Pembelajaran Seumur Hidup dan Adaptif serta Dapat Digugat*) menuntut tinjauan; memperlakukan formalisme kredensial, metrik penyelesaian agregat, atau laporan-sendiri operator sebagai memadai tanpa analisis pembangunan-kapabilitas yang dapat dievaluasi; mensertifikasi ketergantungan berlanjut selagi opasitas penilaian, penjagaan-kredensial, keusangan yang dipaksakan, atau rancangan pembelajaran manipulatif yang terdokumentasi secara material mengancam keselarasan konstitusional; atau memakai pembingkaian efisiensi, personalisasi, atau skala untuk mengalahkan akses pelatihan-ulang atau dapat-digugat tanpa memenuhi disiplin pembangunan-kapabilitas **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) dan transparansi **Pasal VI-B** (*Pembelajaran Seumur Hidup dan Adaptif serta Dapat Digugat*) harus diperlakukan sebagai cacat sertifikasi. Mereka boleh menopang pengakuan bersyarat, pengakuan tertunda, non-pengakuan, penarikan, atau pembukaan ulang di bawah [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+- **Pasal IV** (*Hak atas Pendidikan yang Berpusat pada Makhluk Sadar*);
+- **Pasal IV-C** (*Pembelajaran Sepanjang Hayat dan Adaptif serta Dapat Digugat*); dan
+- [Agensi Pendidikan](core_05_band_participation.md#educational-agency).
 
-<a id="91-illustrative-educational-capability-application-by-class"></a>
+Bagian ini tidak menetapkan aturan tentang cara kerja pendidikan itu sendiri. Keputusan mengenai apa yang diajarkan, kredensial yang tersedia, cara pekerjaan dinilai, dan pendanaan sekolah dibuat dalam dokumen lain yang dapat dimasukkan; sertifikasi tidak memilih kurikulum, format kredensial, atau metode penilaian.
 
-<a id="91-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-#### 9.1 Penerapan kapabilitas-pendidikan ilustratif menurut kelas (tidak lengkap)
+<a id="522-evaluation-requirement"></a>
+##### 5.2.2 Persyaratan Evaluasi
 
-*Dalam bahasa sederhana: [§3.8](#38-illustrative-whole-system-application-by-class) sampai [§8.1](#81-illustrative-accessibility-application-by-class) menelusuri ketiga sistem yang sama melalui ranah evaluasi sebelumnya. Subbagian ini menunjukkan apa arti evaluasi **kapabilitas pendidikan dan integritas sistem pembelajaran** bagi masing-masing — jalur perankingan, penilaian, kredensial, dan pelatihan-ulang mana yang dihitung, apa yang harus diperiksa sertifikasi ketika pemicu materialitas **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) berlaku, dan apa yang harus muncul pada catatan. Bab Lima dan **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) tetap memiliki aturan keagenan-pendidikan dan sistem-pembelajaran kanonik; kurikulum, katalog kredensial, rubrik penilaian, dan model pendanaan boleh hidup di instrumen lain, penambahan korpus kemudian, atau instrumen adopsi; penelusuran ini tidak meresepkan mekanika itu. Akses setara dan aksesibilitas pendidikan tetap dimiliki **Pasal III-B** (*Akses Pendidikan yang Setara*) dan tidak dipersempit di sini.*
+Sertifikasi harus memeriksa apakah jalur pembelajaran dan kredensial yang benar-benar diandalkan makhluk sadar memberi mereka cara nyata untuk membangun keterampilan — bukan hanya sertifikat yang tampak bagus di atas kertas — dan apakah mereka tetap memiliki cara yang dapat dijalankan untuk berlatih ulang, terus belajar, dan melewati transisi ketika keterampilan yang mereka butuhkan berubah secara signifikan.
 
-**Class A — kendali dan telemetri air minum aman munisipal.** Sistem pengolahan-dan-distribusi milik kota menutup siapa yang boleh mengoperasikan fungsi pabrik kritis-kelangsungan-hidup lewat lisensi operator, sertifikasi-keselamatan, penilaian kompetensi, dan aturan pelatihan-ulang-protokol — jalur pemberian-kredensial peran yang memutuskan apakah makhluk sadar dapat membangun dan menjaga kapabilitas menjalankan air aman, dan apakah penilaian itu dapat dilihat, diaudit, dan digugat.
+Peninjau juga harus menguji apakah keputusan pemeringkatan, pemberian nilai, rekomendasi, dan penempatan sistem dapat dilihat, diaudit, dan digugat, sebagaimana diwajibkan **Pasal IV-C** (*Pembelajaran Sepanjang Hayat dan Adaptif serta Dapat Digugat*). Tingkat ketatnya pengujian bergantung pada besarnya taruhan ([Materialitas](core_05_band_oversight.md#materiality)) dan seberapa besar makhluk sadar bergantung pada sistem ([Ketergantungan](core_05_band_continuity.md#dependency)).
 
-- **Jalur pembelajaran dan kredensial dalam cakupan:**
-  - Lisensi, perpanjangan, dan penangguhan operator;
-  - sertifikasi-keselamatan dan penilaian kompetensi tanggap-darurat;
-  - pelatihan-ulang protokol dan telemetri ketika kimia, logika kendali, atau persyaratan regulasi berubah;
-  - perankingan atau penempatan ke giliran pabrik, lembur, atau peran operator-utama berdasarkan kompetensi yang dinilai;
-  - jalur gugatan dan pelatihan-remediatif bagi penilaian yang gagal atau kredensial yang ditangguhkan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah jalur pembelajaran dan kredensial itu menghasilkan kapabilitas praktis untuk mengoperasikan kendali air-aman — bukan simbolisme kredensial atau hitungan sertifikat-penyelesaian semata;
-  - apakah operator tetap memiliki pelatihan-ulang dan dukungan transisi yang dapat dijalankan ketika kompetensi yang dituntut berubah secara material;
-  - apakah logika perankingan, penilaian, dan penutupan-kredensial transparan, dapat diaudit, dan dapat digugat di bawah **Pasal VI-B** (*Pembelajaran Seumur Hidup dan Adaptif serta Dapat Digugat*);
-  - apakah pengganti buram, penjagaan gerbang, atau keusangan yang dipaksakan mengalahkan pembentukan kapabilitas bagi staf yang kompetensinya menutup pokok kelangsungan hidup;
-  - apakah kedalaman evaluasi cocok dengan taruhan **Class A** di mana operator yang tidak memenuhi syarat atau terkunci-keluar dapat menutup air aman; dan
-  - apakah setiap batas penilaian memenuhi substansi pembangunan-kapabilitas yang terdokumentasi alih-alih niat pedagogis yang dinyatakan semata.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu materialitas **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) yang diandalkan;
-  - cakupan evaluasi bagi jalur lisensi, penilaian, penutupan-kredensial, dan pelatihan-ulang yang diandalkan secara material;
-  - temuan pembangunan-kapabilitas dan jalur-pelatihan-ulang pada kedalaman **Class A**;
-  - temuan transparansi-penilaian dan dapat-digugat;
-  - temuan anti-pengganti dan anti-manipulasi di mana material;
-  - ketidakpastian;
-  - temuan forum Makhluk sadar atau komponen lain di mana dituntut; dan
-  - syarat atau pemicu pembukaan ulang yang terikat pada opasitas penilaian, penjagaan-kredensial, atau keusangan yang dipaksakan yang bertahan di mana operasi kritis-kelangsungan-hidup ditutup.
+Peninjau harus memperhatikan:
 
-**Class B — pertukaran catatan klinis regional.** Pertukaran informasi kesehatan dan portal pesertanya menutup praktik klinis dan akses perawatan kesehatan lewat verifikasi kredensial klinisi, perankingan hak-praktik, penempatan rumah sakit atau klinik, pelatihan privasi dan break-glass, dan persyaratan pendidikan-berkelanjutan yang secara material memutuskan siapa yang boleh praktik pada jaringan dan seberapa cepat staf dapat dilatih ulang ketika aturan berubah.
+- nilai atau peringkat yang dibangun berdasarkan pengganti tersembunyi (proksi) yang tidak dapat ditinjau siapa pun;
+- penggerbangan kredensial yang menghalangi makhluk sadar untuk benar-benar mempelajari keterampilan;
+- keusangan paksa atau penguncian yang merampas suara makhluk sadar atas jalurnya sendiri;
+- desain pembelajaran yang memaksa atau manipulatif; dan
+- pemilahan makhluk sadar ke dalam jalur yang merampas kemampuan mereka untuk menggugat keputusan atau terus beradaptasi, jika **Pasal IV** (*Hak atas Pendidikan yang Berpusat pada Makhluk Sadar*) juga berlaku.
 
-- **Jalur pembelajaran dan kredensial dalam cakupan:**
-  - Verifikasi kredensial klinisi dan perankingan hak-praktik;
-  - logika penempatan rumah sakit, klinik, atau residensi yang terikat pada pertukaran;
-  - penilaian pelatihan privasi, persetujuan, dan break-glass;
-  - persyaratan pendidikan-berkelanjutan dan pembaruan-kompetensi bagi partisipasi jaringan;
-  - rekomendasi atau perutean adaptif ke modul spesialisasi, jalur pendidikan kedokteran berkelanjutan, atau pelatihan remediatif;
-  - jalur gugatan bagi hak-praktik yang ditolak, penilaian yang gagal, atau onboarding yang diblokir.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah jalur kredensial dan penempatan menghasilkan kapabilitas klinis praktis dan partisipasi jaringan — bukan kotak-centang pelatihan-HIPAA nominal atau dasbor penyelesaian semata;
-  - apakah klinisi dan staf HIM tetap memiliki pelatihan-ulang yang dapat dijalankan ketika aturan persetujuan, perutean, atau akses-darurat berubah secara material;
-  - apakah logika perankingan, penilaian, rekomendasi, dan penempatan transparan, dapat diaudit, dan dapat digugat di bawah **Pasal VI-B** (*Pembelajaran Seumur Hidup dan Adaptif serta Dapat Digugat*);
-  - apakah pengganti pemanfaatan, «fitness», atau prestise yang buram mengalahkan pembentukan kapabilitas atau mengunci peserta ke jalur yang tidak dapat ditinjau;
-  - apakah kedalaman evaluasi cocok dengan kekritisan operasional **Class B** di mana logika kredensial atau penempatan menutup akses perawatan kesehatan, pekerjaan, atau praktik yang berdekatan-dengan-lisensi; dan
-  - apakah pembingkaian efisiensi atau personalisasi dipakai untuk mengalahkan dapat-digugat tanpa analisis pembangunan-kapabilitas yang dapat dievaluasi.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) dan cakupan jalur;
-  - temuan pembangunan-kapabilitas dan jalur-pelatihan-ulang bagi jalur klinisi dan klinik;
-  - temuan transparansi-penilaian dan dapat-digugat;
-  - temuan anti-pengganti dan anti-manipulasi di mana material;
-  - ketidakpastian dan temuan komponen di mana dituntut; dan
-  - pemicu pembukaan ulang jika hambatan kredensial, hak-praktik, atau pelatihan kini akan memblokir kepegawaian darurat atau praktik klinis dalam kerangka waktu yang relevan bagi kelangsungan hidup atau secara material mengalahkan ketergantungan operasional harian.
+Peninjau harus menilai berdasarkan tindakan nyata sistem — bukan label aksesnya, niat yang dinyatakan perancangnya, atau tampilan dokumennya.
 
-**Class C — platform penjadwalan dan koordinasi kelembagaan.** Lapisan penjadwalan multi-organisasi merangking, merekomendasikan, dan mengalokasikan slot pelatihan, orientasi, pendidikan berkelanjutan, dan prioritas pengembangan-profesional lintas rumah sakit, sekolah, dan lembaga publik — bahkan ketika platform itu sendiri bukan utilitas kritis-kelangsungan-hidup.
+<a id="523-system-class-scaling-and-escalation"></a>
+##### 5.2.3 Penjenjangan dan Eskalasi Kelas Sistem
 
-- **Jalur pembelajaran dan kredensial dalam cakupan:**
-  - Pemesanan slot-pelatihan dan orientasi;
-  - perankingan atau rekomendasi pendidikan-berkelanjutan dan pengembangan-profesional;
-  - pencocokan kursus, kohor, atau instruktur;
-  - pengingat kedaluwarsa-kredensial yang terikat pada kelayakan penjadwalan;
-  - fitur turunan yang merute staf ke jalur premium atau remediatif;
-  - aturan API atau kebijakan yang mengecualikan lembaga lebih kecil dari kapasitas pelatihan pilihan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah pemicu materialitas **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) berlaku — termasuk di mana algoritme koordinasi secara material merekomendasikan kursus, merangking akses pengembangan-profesional, atau menutup slot pelatihan yang membentuk jalur kredensial atau karier;
-  - apakah rekomendasi dan alokasi slot menghasilkan akses pembangunan-kapabilitas alih-alih simbolisme kredensial;
-  - apakah logika penilaian, perankingan, atau rekomendasi transparan, dapat diaudit, dan dapat digugat;
-  - apakah operator memperlakukan platform di bawah tinjauan karena ia **Class C** selagi efek perutean-pelatihan secara material membentuk jalur kerja, pendidikan, atau lisensi; dan
-  - apakah **pengawasan reklasifikasi** dituntut di mana platform menjadi perlu secara operasional bagi kerja, hak-praktik klinis, atau kredensial kepegawaian pokok-kelangsungan-hidup.
-- **Apa yang harus ditunjukkan catatan:**
-  - Apakah dan mengapa pemicu **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) berlaku;
-  - cakupan evaluasi bagi jalur perankingan, rekomendasi, penempatan, dan pelatihan-ulang yang sepadan dengan risiko koordinasi **Class C**;
-  - temuan pembangunan-kapabilitas, transparansi, dan dapat-digugat di mana material — bukan pernyataan kosong bahwa pelatihan «opsional»;
-  - temuan konsentrasi dan titik-sumbat di mana efek perutean-pelatihan menandai eskalasi;
-  - **pengawasan reklasifikasi** tegas di mana ketergantungan menguat; dan
-  - penunjuk ke tinjauan kapabilitas-pendidikan yang dieskalasi jika kelas atau peran koordinasi pokok-kelangsungan-hidup berubah.
+Kedalaman tinjauan bergantung pada kelas sistem. Setiap kali pemicu materialitas terpenuhi:
 
-**Membaca lintas kelas.** Disiplin kapabilitas-pendidikan **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) dan Bab Lima yang sama berlaku di mana pun pemicu materialitas terpenuhi; kelas mengubah kedalaman evaluasi, bukan izin untuk memperlakukan formalisme kredensial atau penilaian buram sebagai cukup. Sistem air **Class A** yang lisensi operator atau penilaian keselamatannya dapat menutup operasi pabrik yang aman harus membawa bukti pembangunan-kapabilitas, pelatihan-ulang, dan dapat-digugat terkuat pada catatan — bukan pernyataan kebijakan-pelatihan generik. Pertukaran **Class B** yang logika hak-praktik, penempatan, atau pendidikan kedokteran berkelanjutannya menutup praktik klinis harus mendokumentasikan transparansi penilaian dan akses pelatihan-ulang pada kekritisan operasional. Platform penjadwalan **Class C** tidak boleh menjaga paragraf pendidikan token selagi logika slot-pelatihan, rekomendasi, atau perutean-kredensial secara material merangking atau mengecualikan peserta; ketika koordinasi menjadi perlu secara operasional bagi kerja atau lisensi, sertifikasi harus mengeskalasi tinjauan dan reklasifikasi di bawah [§2](#2-system-class-evaluation) dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), termasuk ke atas ke **Class A** di mana kredensial kepegawaian pokok-kelangsungan-hidup ditutup. Penelusuran keterpercayaan bagi sistem yang sama ada di [§10.1](#101-illustrative-trustworthiness-application-by-class).
+- Jika sistem menguji atau memberi lisensi kepada operator infrastruktur yang dibutuhkan makhluk sadar untuk bertahan hidup, dan keputusannya dapat menghalangi pengoperasian infrastruktur itu secara aman, catatan harus menunjukkan bukti terkuat bahwa sistem membangun keterampilan nyata, menyediakan pelatihan ulang, dan dapat digugat. Kebijakan pelatihan umum tidak cukup.
+- Jika hak istimewa, penempatan, atau aturan pendidikan berkelanjutan sistem menentukan siapa yang dapat bekerja dalam peran klinis, catatan harus menunjukkan bagaimana penilaiannya dapat diperiksa dan bagaimana makhluk sadar dapat berlatih ulang. Semakin kritis pekerjaannya, semakin terperinci catatannya.
+- Paragraf singkat tentang pendidikan tidak cukup ketika logika slot pelatihan, rekomendasi, atau perutean kredensial sistem memberi peringkat atau menyingkirkan peserta secara signifikan.
+- Jika sistem menjadi sesuatu yang harus dilalui makhluk sadar untuk bekerja atau memperoleh lisensi, sertifikasi harus meninjau lebih mendalam dan mempertimbangkan kembali kelas sistemnya berdasarkan [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation) dan [Bagian B §7 Hasil Sertifikasi](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes). Ini mencakup peningkatan menuju **Class A** ketika kredensial untuk kepegawaian yang pokok bagi kelangsungan hidup digerbang.
 
-<a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+<a id="524-defects-and-misalignment"></a>
+##### 5.2.4 Cacat dan Ketidakselarasan
 
-### 10. Evaluasi Keterpercayaan dan Integritas Ketergantungan-Sistem
+Hal-hal berikut masing-masing merupakan cacat sertifikasi:
+
+- menyembunyikan, menyatakan keliru, menyebarkan, atau mengalihkan logika di balik pemeringkatan, penilaian, rekomendasi, atau penempatan yang signifikan, ketika **Pasal IV-C** (*Pembelajaran Sepanjang Hayat dan Adaptif serta Dapat Digugat*) mewajibkan logika itu terbuka untuk ditinjau;
+- menerima kredensial, tingkat penyelesaian keseluruhan, atau perkataan operator sebagai bukti bahwa makhluk sadar belajar, tanpa memeriksa apakah mereka benar-benar membangun keterampilan;
+- menyertifikasi bahwa makhluk sadar dapat terus mengandalkan sistem ketika masalah terdokumentasi — seperti penilaian yang tidak transparan, penggerbangan kredensial, keusangan paksa, atau desain pembelajaran manipulatif — secara signifikan mengancam keselarasan sistem dengan Konstitusi; dan
+- menggunakan efisiensi, personalisasi, atau skala sebagai alasan untuk menolak pelatihan ulang atau kemampuan menggugat keputusan, ketika sistem belum memenuhi persyaratan pembangunan keterampilan **Pasal IV** (*Hak atas Pendidikan yang Berpusat pada Makhluk Sadar*) dan persyaratan transparansi **Pasal IV-C** (*Pembelajaran Sepanjang Hayat dan Adaptif serta Dapat Digugat*).
+
+<a id="53-proportionate-cross-system-support-evaluation"></a>
+
+#### 5.3 Evaluasi Dukungan Lintas Sistem yang Proporsional
 
 <details>
-<summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: [Bagian B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Pengawasan (*Kebenaran dan integritas epistemik; Keterpercayaan serta Degradasi Kepercayaan dan Ketergantungan yang Menyesatkan sebagai pengukuran konstitusional*); **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*); [Keterpercayaan](core_05_band_continuity.md#trustworthiness), [Kepercayaan](core_05_band_continuity.md#trust), [Degradasi Kepercayaan dan Ketergantungan yang Menyesatkan](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [Dapat Digugat](core_05_band_accountability.md#contestability), [Pemulihan dan Remediasi](core_05_band_accountability.md#redress-and-remediation-constitutional), [Keselarasan Insentif](core_05_band_integrative.md#incentive-alignment), [Kebalikan](core_05_band_continuity.md#reversibility-constitutional), [Materialitas](core_05_band_oversight.md#materiality-determination), [Ketergantungan](core_05_band_continuity.md#dependency), dan [Risiko](core_05_band_continuity.md#risk) (Bab Lima).
-- Hilir: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*penelusuran keterpercayaan ilustratif*); [Bagian B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*integritas catatan*); [Bagian B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*gerbang masukan-terverifikasi*); [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*ketidakselarasan kepercayaan-palsu, ketidakselarasan insentif-menyimpang, dan ketidakselarasan integritas-pemulihan*).
-- Baca bersama: **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*) dan **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) — hak gugatan dan audit tetap dimiliki di sana; **Pasal XIII-E** (*Sistem Otonomi Tinggi dan Integritas Proses yang Dimediasi Alat*) di mana sistem otonomi-tinggi secara material memediasi jalur tata kelola atau verifikasi; **Pasal III-A** (*Kelangsungan Hidup*) di mana ketergantungan sistem berlanjut akan memengaruhi akses pokok-kelangsungan-hidup; [Bab Satu §4 Kepercayaan](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) dan [Bab Satu §3.2 Kebenaran](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- Subbagian: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*penerapan keterpercayaan ilustratif menurut kelas*).
+- Hulu: [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran Kesinambungan (*Dukungan Lintas Sistem yang Proporsional sebagai pengukuran konstitusional*); **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*) dan **Pasal V-B** (*Keadilan Lintas Sistem dan Keberlanjutan*); [Ekstraksi Lintas Sistem](core_05_band_continuity.md#cross-system-extraction), [Dukungan Lintas Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support), [Ketergantungan](core_05_band_continuity.md#dependency), [Keadilan Substantif](core_05_band_participation.md#substantive-fairness), [Proporsionalitas](core_05_band_accountability.md#proportionality), [Jejak Ekologis](core_05_band_continuity.md#ecological-footprint), dan [Keberlanjutan](core_05_band_continuity.md#sustainability) (Bab Lima).
+- Hilir: [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*contoh penerapan dukungan lintas sistem menurut kelas sistem*); [Bagian B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*integritas catatan*); [Bagian B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*misrepresentasi arus sumber daya, ketidakselarasan ekstraksi, dan ketidakcukupan dukungan*).
+- Baca bersama: **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Alokasi sumber daya dan pengelolaan pendanaan secara bertanggung jawab*), dan **CS-8** (*Keberlanjutan adaptif dan ketahanan ekosistem*); [*Arsitektur Tata Kelola, Pengawasan, Ketergantungan, Desentralisasi, Konsentrasi, Struktur Pasar, dan Integritas Jalur Keluar*](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration) jika konsentrasi, ketergantungan, atau perutean insentif beririsan dengan **Pasal V-B** (*Keadilan Lintas Sistem dan Keberlanjutan*).
+- Subbagian: [§5.3.1](#531-materiality-trigger) (*pemicu materialitas*); [§5.3.2](#532-meaning-of-extraction) (*arti ekstraksi*); [§5.3.3](#533-governing-rules) (*aturan yang berlaku*); [§5.3.4](#534-evaluation-requirement) (*persyaratan evaluasi*); [§5.3.5](#535-map-and-record-integrity) (*integritas peta dan catatan*); [§5.3.6](#536-system-class-scaling-and-escalation) (*penjenjangan dan eskalasi kelas sistem*); [§5.3.7](#537-defects-and-misalignment) (*cacat dan ketidakselarasan*); [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*contoh penerapan dukungan lintas sistem menurut kelas sistem*).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: ketika suatu sistem secara material memengaruhi apakah makhluk sadar dapat mempercayai apa yang dikatakannya dan dilakukannya — dan mendorong balik ketika kepercayaan itu gagal — sertifikasi harus memeriksa apakah ketergantungan benar-benar beralasan, diungkapkan dengan jujur, dan dapat diperbaiki. Metrik keandalan dan rancangan rangkaian-uji hidup di instrumen lain; sertifikasi memeriksa bahwa keterpercayaan, risiko kepercayaan-palsu, dan jalur gugatan benar-benar dievaluasi di mana pemicu berlaku. Contoh yang dikerjakan bagi sistem ilustratif di [§2.1](#21-illustrative-class-profiles-non-exhaustive) ada di [§10.1](#101-illustrative-trustworthiness-application-by-class).*
+*Dalam bahasa sederhana: beberapa sistem bergantung pada fondasi bersama — infrastruktur, layanan, dan sumber daya yang juga diandalkan banyak sistem dan makhluk sadar lainnya. Ketika suatu sistem banyak menggunakan fondasi tersebut, sertifikasi harus memeriksa apakah sistem itu memberi kontribusi yang cukup untuk menjaganya tetap berjalan, dan apakah catatan memperlihatkannya dengan cukup jelas agar siapa pun dapat menelusurinya. Pernyataan operator bahwa «pembukuan sudah seimbang» tidak cukup. Bagian ini tidak menetapkan rumus alokasi atau sasaran numerik; dokumen lain yang mengaturnya. Bagian ini memeriksa apakah ketergantungan sistem, yang diambil dan dikembalikannya, serta keadilan pengaturan itu bagi pihak lain benar-benar dievaluasi ketika ketentuan ini berlaku. Contoh kerja: [§5.3.8 Contoh penerapan dukungan lintas sistem menurut kelas sistem (tidak menyeluruh)](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive).*
 
-**Pemicu materialitas.** Bagian ini berlaku di mana sistem yang berdampak material secara material membentuk ketergantungan makhluk sadar pada perilaku, batas, risiko, jalur gugatan, atau pemulihan yang direpresentasikan — termasuk lewat klaim keandalan, postur pengungkapan, perilaku operasional, rancangan insentif, praktik pemulihan, atau jalur ketergantungan sebanding. Ia tidak menuntut audit keterpercayaan penuh pada setiap catatan sertifikasi.
+<a id="531-materiality-trigger"></a>
+##### 5.3.1 Pemicu Materialitas
 
-Sertifikasi keselarasan sistem harus mengevaluasi **keterpercayaan dan integritas ketergantungan-sistem** di bawah **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*), [Keterpercayaan](core_05_band_continuity.md#trustworthiness), dan [Degradasi Kepercayaan dan Ketergantungan yang Menyesatkan](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) di mana pemicu materialitas berlaku. Makna kanonik, faktor evaluasi, dan disiplin ketidakpatuhan hidup di Bab Lima dan **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*); metrik keandalan, format pengungkapan, mekanika keselarasan-insentif, dan rancangan uji-regresi hidup di instrumen inkorporasi di mana berlaku. Bagian ini menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; ia tidak menyatakan ulang mekanika operasional itu atau meresepkan metrik keandalan atau rancangan rangkaian-uji spesifik.
+Bagian ini berlaku ketika sistem yang berdampak material pada kehidupan makhluk sadar melakukan salah satu hal berikut terhadap infrastruktur atau fondasi bersama — hal-hal yang diandalkan sistem lain dan makhluk sadar:
 
-**Persyaratan evaluasi.** Proses sertifikasi harus menentukan apakah jalur yang diandalkan sistem secara material menjaga syarat bagi [Kepercayaan](core_05_band_continuity.md#trust) yang terjustifikasi dan ketergantungan yang cukup akurat di bawah **Pasal XIII-A** (*Lantai Keandalan dan Keterpercayaan*) — bukan reputasi, skala, atau postur pemasaran semata. Evaluasi harus juga menguji gugatan, tinjauan, dan pemulihan yang dapat dijalankan di bawah **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*), risiko kepercayaan-palsu dan ketergantungan-yang-menyesatkan di bawah **Pasal XIII-C** (*Larangan Kepercayaan Palsu dan Ketergantungan yang Menyesatkan*), paparan insentif-menyimpang di bawah **Pasal XIII-D** (*Batasan Keselarasan Insentif*), dan integritas pemulihan di bawah **Pasal XIII-F** (*Lantai Ketahanan dan Pulih Sendiri*) di mana material, diskalakan ke [Materialitas](core_05_band_oversight.md#materiality-determination), [Ketergantungan](core_05_band_continuity.md#dependency), dan [Risiko](core_05_band_continuity.md#risk). Evaluasi harus mendeteksi kepercayaan yang dibuat-buat, batas yang tidak diungkapkan, struktur insentif yang memberi imbalan pada penipuan atau jalan pintas, jalur gugatan yang hanya ada di kertas, dan praktik pemulihan yang menyembunyikan kegagalan atau diam-diam mempersempit hak. Evaluasi harus mencerminkan efek fungsional lintas waktu, skala, dan ketergantungan, bukan label jaminan nominal, niat yang dinyatakan, atau kinerja sebelumnya semata.
+- menentukan siapa yang mendapatkannya (mengalokasikan);
+- mengarahkan ke mana sumber daya mengalir (merutekan);
+- membayar biayanya (mendanai); atau
+- mengambil darinya (mengekstraksi).
 
-**Persyaratan catatan.** Catatan sertifikasi harus menyatakan pemicu materialitas **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) yang diandalkan, cakupan evaluasi bagi jalur ketergantungan, pengungkapan, insentif, gugatan, dan pemulihan yang diandalkan secara material, temuan keterpercayaan dan kepercayaan-palsu, temuan insentif-menyimpang dan integritas-pemulihan di mana material, ketidakpastian, temuan forum Makhluk sadar atau komponen yang ditugaskan lain di mana dituntut, dan setiap syarat, batas ketergantungan, atau pemicu pembukaan ulang yang terikat pada kekalahan kepercayaan yang bertahan, ketergantungan yang menyesatkan, atau pemulihan yang tidak dapat diakses.
+<a id="532-meaning-of-extraction"></a>
+##### 5.3.2 Arti Ekstraksi
 
-**Penskalaan bersama dengan kelas sistem.** Kedalaman evaluasi keterpercayaan dan integritas ketergantungan-sistem harus diskalakan dengan kelas sistem yang ditugaskan di bawah [§2](#2-system-class-evaluation) dan [taruhan material](core_00_preamble.md#material-stake). Sistem kelas lebih tinggi yang secara material membentuk ketergantungan makhluk sadar menuntut bukti yang secara proporsional lebih kuat bahwa keterpercayaan, risiko kepercayaan-palsu, dan jalur gugatan dievaluasi alih-alih dinyatakan.
+Dalam bagian ini, **ekstraksi** memiliki arti sebagaimana diberikan kepada [Ekstraksi Lintas Sistem](core_05_band_continuity.md#cross-system-extraction) berdasarkan [Pasal V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Keadilan Lintas Sistem dan Keberlanjutan*).
 
-**Cacat dan ketidakselarasan.** Mengaburkan, salah-menyajikan, memecah, atau melepaskan batas, risiko, atau riwayat kegagalan material di mana **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) menuntut tinjauan; memperlakukan reputasi, dukungan, skala, atau laporan-sendiri operator sebagai memadai tanpa analisis [Keterpercayaan](core_05_band_continuity.md#trustworthiness) yang dapat dievaluasi; mensertifikasi ketergantungan berlanjut selagi kepercayaan palsu, insentif menyimpang, jalur gugatan yang tidak dapat diakses, atau praktik pemulihan yang menyembunyikan kegagalan yang terdokumentasi secara material mengancam keselarasan konstitusional; atau memakai pembingkaian efisiensi, inovasi, atau keamanan untuk mengalahkan pengungkapan, dapat-digugat, atau pemulihan tanpa memenuhi disiplin keandalan **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) dan gugatan **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*) harus diperlakukan sebagai cacat sertifikasi. Mereka boleh menopang pengakuan bersyarat, pengakuan tertunda, non-pengakuan, penarikan, atau pembukaan ulang di bawah [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+- Pertanyaannya adalah **siapa yang memperoleh manfaat dari backend bersama dan siapa yang membayar agar backend itu tetap berjalan** — bukan apa yang dilakukan sistem terhadap data makhluk sadar.
+- Penanganan data oleh sistem, termasuk penjualan, iklan, dan pembuatan profil, diperiksa berdasarkan [§3.4 Evaluasi Jenis dan Penanganan Data](#34-data-types-and-handling-evaluation) (terutama [§3.4.2 Disiplin Privasi](#342-privacy-discipline)) dan [§4.1 Pemanggilan Bersama Privasi (Informasional)](#41-privacy-informational-joint-invocation).
+- Tidak satu pun dari kedua tinjauan dapat menggantikan yang lain.
 
-<a id="101-illustrative-trustworthiness-application-by-class"></a>
+<a id="533-governing-rules"></a>
+##### 5.3.3 Aturan yang Berlaku
 
-<a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
-#### 10.1 Penerapan keterpercayaan ilustratif menurut kelas (tidak lengkap)
+Setiap kali pemicu materialitas berlaku, sertifikasi harus mengevaluasi **dukungan lintas sistem yang proporsional**. Sederhananya: jika suatu sistem menggunakan fondasi bersama, apakah ia memberi kontribusi kembali yang cukup agar fondasi itu tetap berjalan? Aturan yang mengaturnya adalah:
 
-*Dalam bahasa sederhana: [§3.8](#38-illustrative-whole-system-application-by-class) sampai [§9.1](#91-illustrative-educational-capability-application-by-class) menelusuri ketiga sistem yang sama melalui ranah evaluasi sebelumnya. Subbagian ini menunjukkan apa arti evaluasi **keterpercayaan dan integritas ketergantungan-sistem** bagi masing-masing — jalur ketergantungan, pengungkapan, insentif, gugatan, dan pemulihan mana yang dihitung, apa yang harus diperiksa sertifikasi ketika pemicu materialitas **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku, dan apa yang harus muncul pada catatan. Bab Lima dan **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) tetap memiliki aturan keterpercayaan kanonik; metrik keandalan, format pengungkapan, mekanika keselarasan-insentif, dan rancangan uji-regresi boleh hidup di instrumen lain, penambahan korpus kemudian, atau instrumen adopsi; penelusuran ini tidak meresepkan mekanika itu. Hak gugatan dan audit tetap dimiliki **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*) dan **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) — tidak dipersempit di sini.*
+- [Dukungan Lintas Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support);
+- **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*); dan
+- **Pasal V-B** (*Keadilan Lintas Sistem dan Keberlanjutan*).
 
-**Class A — kendali dan telemetri air minum aman munisipal.** Sistem pengolahan-dan-distribusi milik kota membentuk apakah rumah tangga, operator, dan penanggap darurat dapat mengandalkan mutu air, status pemadaman, peringatan kontaminasi, dan perilaku kendali yang direpresentasikan — jalur di mana ketergantungan yang menyesatkan dapat menutup air aman sebelum pengganti yang layak tiba.
+Perinciannya diatur di tempat lain:
 
-- **Jalur ketergantungan dalam cakupan:**
-  - Klaim akurasi telemetri dan **SCADA** (supervisory control and data acquisition);
-  - nasihat rebus-air dan kontaminasi;
-  - pensinyalan deteksi-kebocoran dan kehilangan-tekanan;
-  - perilaku gagal-aman dan override-manual;
-  - representasi pemantauan **SOC** (pusat operasi keamanan) vendor;
-  - perutean intertie darurat dan bantuan-timbal-balik;
-  - pemberitahuan-pemadaman dan kerangka waktu pemulihan;
-  - pemulihan dan pulih-sendiri setelah kontaminasi, insiden siber, atau kegagalan peralatan;
-  - struktur insentif yang terikat pada penundaan pemeliharaan, bonus vendor, atau penagihan pembayar-tarif.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah perilaku, batas, dan modus kegagalan yang direpresentasikan menopang [Kepercayaan](core_05_band_continuity.md#trust) yang terjustifikasi di bawah **Pasal XIII-A** (*Lantai Keandalan dan Keterpercayaan*) — bukan reputasi, skala, atau postur «praktik terbaik utilitas» semata;
-  - apakah risiko kepercayaan-palsu dan [Degradasi Kepercayaan dan Ketergantungan yang Menyesatkan](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) dievaluasi di mana risiko kontaminasi yang direndahkan, nasihat yang ditunda, atau redundansi yang dilebihkan dapat menyesatkan rumah tangga dan operator;
-  - apakah jalur gugatan, tinjauan, dan pemulihan yang dapat dijalankan ada di bawah **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*) bagi pembacaan yang disengketakan, peringatan yang terlewat, atau kegagalan pemulihan;
-  - apakah paparan insentif-menyimpang di bawah **Pasal XIII-D** (*Batasan Keselarasan Insentif*) memberi imbalan pada penundaan pemeliharaan, jalan pintas vendor, atau penekanan peringatan;
-  - apakah integritas pemulihan di bawah **Pasal XIII-F** (*Lantai Ketahanan dan Pulih Sendiri*) mengungkapkan riwayat kegagalan dan postur perbaikan dengan jujur alih-alih menyembunyikan insiden;
-  - apakah kedalaman evaluasi cocok dengan taruhan **Class A** di mana ketergantungan yang menyesatkan dapat menutup air aman; dan
-  - apakah setiap batas jaminan memenuhi analisis keterpercayaan yang terdokumentasi alih-alih niat yang dinyatakan semata.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu materialitas **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) yang diandalkan;
-  - cakupan evaluasi bagi jalur ketergantungan, pengungkapan, insentif, gugatan, dan pemulihan yang diandalkan secara material;
-  - temuan keterpercayaan dan kepercayaan-palsu pada kedalaman **Class A**;
-  - temuan insentif-menyimpang dan integritas-pemulihan di mana material;
-  - ketidakpastian;
-  - temuan forum Makhluk sadar atau komponen lain di mana dituntut; dan
-  - syarat atau pemicu pembukaan ulang yang terikat pada kekalahan kepercayaan yang bertahan, ketergantungan yang menyesatkan, atau pemulihan yang tidak dapat diakses di mana akses air pokok-kelangsungan-hidup ditutup.
+- *Bab Lima* mendefinisikan istilah, jenis dukungan yang diperhitungkan, dan pengujian kecukupan dukungan.
+- **Pasal V-B** (*Keadilan Lintas Sistem dan Keberlanjutan*) menetapkan faktor alokasi yang adil dan batas minimum itu sendiri.
+- *[corpus_systems.md](corpus_systems.md)*, **CS-9** (*Alokasi sumber daya dan pengelolaan pendanaan secara bertanggung jawab*), dan **CS-8** (*Keberlanjutan adaptif dan ketahanan ekosistem*) menetapkan kategori alokasi, cara pendanaan diperbarui, serta sasaran numerik jika berlaku.
 
-**Class B — pertukaran catatan klinis regional.** Pertukaran informasi kesehatan dan portal pesertanya membentuk apakah klinisi, pasien, dan pelaku kesehatan-publik dapat mengandalkan waktu-aktif, pencocokan catatan, perutean persetujuan, akses break-glass, dan perilaku pemulihan yang direpresentasikan — jalur yang menutup operasi perawatan kesehatan harian dan dapat menyesatkan perawatan darurat dalam kerangka waktu yang relevan bagi kelangsungan hidup.
+Ketentuan ini tidak mengharuskan pembagian sama rata, persentase tetap, atau satu model pendanaan tertentu.
 
-- **Jalur ketergantungan dalam cakupan:**
-  - Representasi waktu-aktif, latensi, dan akurasi-pencocokan;
-  - perilaku perutean persetujuan dan break-glass;
-  - klaim keandalan resolusi-identitas dan deduplikasi;
-  - pemberitahuan pemadaman dan postur failover;
-  - pengungkapan insiden dan kerangka waktu pemulihan pasca-pemadaman;
-  - struktur insentif vendor dan operator yang terikat pada volume transaksi, kecepatan onboarding, atau penekanan peringatan;
-  - jalur gugatan bagi catatan yang salah, akses yang diblokir, atau keputusan perutean yang disengketakan.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah perilaku dan batas yang direpresentasikan menopang ketergantungan yang terjustifikasi bagi operasi klinis harian — bukan pemasaran interoperabilitas atau dasbor waktu-aktif agregat semata;
-  - apakah risiko kepercayaan-palsu dievaluasi di mana kesalahan pencocokan yang direndahkan, kegagalan persetujuan yang tersembunyi, atau kesiapan akses-darurat yang dilebihkan dapat menyesatkan klinisi dan pasien;
-  - apakah jalur gugatan, tinjauan, dan pemulihan di bawah **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*) dapat dijalankan bagi sengketa catatan-salah, portal yang diblokir, dan kegagalan pemulihan — bukan kebijakan kertas semata;
-  - apakah paparan insentif-menyimpang di bawah **Pasal XIII-D** (*Batasan Keselarasan Insentif*) memberi imbalan pada pertumbuhan volume, minimalisasi peringatan, atau penguncian vendor atas perutean yang akurat;
-  - apakah integritas pemulihan di bawah **Pasal XIII-F** (*Lantai Ketahanan dan Pulih Sendiri*) mengungkapkan riwayat pemadaman dan risiko residual dengan jujur;
-  - apakah kedalaman evaluasi cocok dengan kekritisan operasional **Class B** di mana ketergantungan yang menyesatkan menutup akses perawatan kesehatan, pekerjaan, atau praktik yang berdekatan-dengan-lisensi; dan
-  - apakah pembingkaian efisiensi atau keamanan dipakai untuk mengalahkan pengungkapan atau dapat-digugat tanpa analisis keterpercayaan yang dapat dievaluasi.
-- **Apa yang harus ditunjukkan catatan:**
-  - Pemicu **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) dan cakupan jalur;
-  - temuan keterpercayaan dan kepercayaan-palsu bagi jalur klinis dan portal;
-  - temuan insentif-menyimpang dan integritas-pemulihan pada kedalaman **Class B**;
-  - temuan jalur-gugatan dan pemulihan di mana material;
-  - ketidakpastian dan temuan komponen di mana dituntut; dan
-  - pemicu pembukaan ulang jika representasi waktu-aktif, pencocokan, atau akses-darurat kini akan menyesatkan perutean perawatan dalam kerangka waktu yang relevan bagi kelangsungan hidup atau secara material mengalahkan ketergantungan operasional harian.
+<a id="534-evaluation-requirement"></a>
+##### 5.3.4 Persyaratan Evaluasi
 
-**Class C — platform penjadwalan dan koordinasi kelembagaan.** Lapisan penjadwalan multi-organisasi membentuk apakah lembaga dan staf mengandalkan ketersediaan, akurasi perutean, skor keandalan vendor, dan pemulihan pemadaman yang direpresentasikan — bahkan ketika platform itu sendiri bukan utilitas kritis-kelangsungan-hidup.
+Sertifikasi harus menjawab dua pertanyaan:
 
-- **Jalur ketergantungan dalam cakupan:**
-  - Klaim perutean-giliran dan ketersediaan siaga;
-  - representasi keandalan pemesanan ruangan, peralatan, dan vendor;
-  - lencana «selalu tersedia» atau waktu-aktif;
-  - fitur keandalan atau peringkat-vendor turunan yang membentuk perilaku kelembagaan;
-  - pemberitahuan pemadaman dan postur failover;
-  - struktur insentif yang terikat pada volume pemesanan, komisi vendor, atau minimalisasi peringatan;
-  - jalur gugatan dan pemulihan bagi giliran yang terlewat, pemesanan-ganda, atau kesalahan perutean vendor.
-- **Apa yang harus diuji evaluasi:**
-  - Apakah pemicu materialitas **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku — termasuk di mana klaim keandalan, skor vendor, atau perilaku koordinasi secara material membentuk keputusan kepegawaian, perutean darurat, atau pengadaan;
-  - apakah risiko kepercayaan-palsu dan ketergantungan-yang-menyesatkan dievaluasi di mana postur pemasaran, lencana kepercayaan, atau riwayat pemadaman yang direndahkan dapat menyesatkan lembaga;
-  - apakah jalur gugatan dan pemulihan dapat dijalankan bagi kesalahan penjadwalan yang secara material memengaruhi kerja, pendidikan, atau akses layanan-publik;
-  - apakah operator memperlakukan platform di bawah tinjauan karena ia **Class C** selagi representasi keandalan secara material membentuk perilaku kelembagaan;
-  - apakah paparan insentif-menyimpang memberi imbalan pada favoritisme vendor, penekanan peringatan, atau konsentrasi atas koordinasi yang akurat; dan
-  - apakah **pengawasan reklasifikasi** dituntut di mana platform menjadi titik-sumbat de facto bagi kepegawaian pokok-kelangsungan-hidup, perutean darurat, atau koordinasi pembayaran.
-- **Apa yang harus ditunjukkan catatan:**
-  - Apakah dan mengapa pemicu **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku;
-  - cakupan evaluasi bagi jalur ketergantungan, pengungkapan, insentif, gugatan, dan pemulihan yang sepadan dengan risiko koordinasi **Class C**;
-  - temuan keterpercayaan dan kepercayaan-palsu di mana material — bukan pernyataan kosong bahwa platform «andal»;
-  - temuan insentif-menyimpang dan integritas-pemulihan di mana material;
-  - temuan konsentrasi dan titik-sumbat di mana klaim keandalan menandai eskalasi;
-  - **pengawasan reklasifikasi** tegas di mana ketergantungan menguat; dan
-  - penunjuk ke tinjauan keterpercayaan yang dieskalasi jika kelas atau peran koordinasi pokok-kelangsungan-hidup berubah.
+- **Apa yang diambil sistem?** Apakah peta terdokumentasi tentang sistem yang bergantung padanya dan catatan arus sumber daya yang dapat diaudit, sebagaimana diwajibkan **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*), menunjukkan bahwa sistem mengambil dari infrastruktur atau fondasi bersama yang menjadi sandarannya?
+- **Apa yang dikembalikan sistem?** Apakah arus pengembaliannya benar-benar memadai berdasarkan [Dukungan Lintas Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support)?
 
-**Membaca lintas kelas.** Disiplin keterpercayaan **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) dan Bab Lima yang sama berlaku di mana pun pemicu materialitas terpenuhi; kelas mengubah kedalaman evaluasi, bukan izin untuk memperlakukan reputasi, skala, atau label jaminan nominal sebagai cukup. Sistem air **Class A** yang representasi telemetri, nasihat, atau pemulihannya dapat menyesatkan rumah tangga dan operator tentang air aman harus membawa bukti keterpercayaan, kepercayaan-palsu, dan integritas-pemulihan terkuat pada catatan — bukan pernyataan keandalan generik. Pertukaran **Class B** yang representasi waktu-aktif, pencocokan, atau break-glass-nya menutup praktik klinis harus mendokumentasikan temuan jalur-gugatan dan ketergantungan-yang-menyesatkan pada kekritisan operasional. Platform penjadwalan **Class C** tidak boleh menjaga paragraf keterpercayaan token selagi lencana keandalan atau skor vendor secara material membentuk perilaku kepegawaian atau pengadaan; ketika koordinasi menjadi pokok-kelangsungan-hidup, sertifikasi harus mengeskalasi tinjauan dan reklasifikasi di bawah [§2](#2-system-class-evaluation) dan [Bagian B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion), termasuk ke atas ke **Class A** di mana ketergantungan yang menyesatkan dapat menutup koordinasi pokok-kelangsungan-hidup.
+Sertifikasi harus menilai keadilan dan proporsi keduanya berdasarkan [Keadilan Substantif](core_05_band_participation.md#substantive-fairness) dan [Proporsionalitas](core_05_band_accountability.md#proportionality), dengan mempertimbangkan:
+
+- seberapa kritis infrastruktur bersama tersebut (kelas sistemnya berdasarkan [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation), jika ditetapkan);
+- seberapa sepihak ketergantungannya;
+- seberapa mudah sistem dapat diganti dan apakah ada alternatif;
+- [Jejak Ekologis](core_05_band_continuity.md#ecological-footprint) sistem jika signifikan; dan
+- [Keberlanjutan](core_05_band_continuity.md#sustainability) jangka panjang.
+
+Peninjau harus berpedoman pada apa yang benar-benar terjadi dan terdokumentasi — bukan label, transfer satu kali, atau klaim yang tidak tercantum dalam peta. Mereka membandingkan peta dan catatan sebagaimana adanya pada waktu evaluasi. Tidak adanya rumus alokasi atau sasaran numerik bukan alasan untuk menunda evaluasi.
+
+Evaluasi harus mencakup:
+
+- **Pengembalian yang memadai:** apakah arus pengembalian terdokumentasi mencakup kategori dukungan dalam [Dukungan Lintas Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support), jika relevan:
+  - menjaga operasi tetap berjalan;
+  - kapasitas untuk memperbaiki masalah dan pulih;
+  - investasi kembali dalam ekosistem sekitar; dan
+  - mengimbangi atau memulihkan kerusakan ekologis.
+- **Alokasi yang adil:** apakah keputusan pendanaan dan alokasi mempertimbangkan faktor alokasi adil dalam **Pasal V-B** (*Keadilan Lintas Sistem dan Keberlanjutan*), termasuk apakah peserta yang lebih kecil atau lebih bergantung menanggung biaya yang tidak seimbang.
+- **Integritas dukungan:** apakah dukungan terutama memperkuat penguasaan atau konsentrasi (kendali terkumpul di sedikit pihak), atau dirancang untuk menggagalkan transparansi yang diwajibkan **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*).
+
+<a id="535-map-and-record-integrity"></a>
+##### 5.3.5 Integritas Peta dan Catatan
+
+Sebelum mengandalkan peta ketergantungan dan catatan arus sumber daya, sertifikasi harus memeriksa apakah semuanya memenuhi **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*). Semuanya harus:
+
+- **Lengkap:** mencakup ketergantungan hulu dan hilir yang signifikan, arus sumber daya, serta hubungan tersembunyi atau timpang jika relevan.
+- **Mutakhir:** diperbarui sesering yang diperlukan sesuai laju perubahan dan kekritisan sistem, termasuk kelas sistemnya berdasarkan [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation). Peta dan catatan harus menunjukkan sistem sebagaimana beroperasi sekarang, bukan saat sertifikasi terakhir.
+- **Dapat diaudit:** terbuka untuk audit berdasarkan **Pasal XVI-A** (*Kemampuan Diaudit dan Bukti yang Dapat Diamati*).
+
+Peta atau catatan yang gagal memenuhi salah satu pengujian ini tidak dapat mendukung temuan bahwa sistem memberi kontribusi kembali yang cukup. Kesenjangan harus dicatat dan ditangani berdasarkan bagian *Cacat dan ketidakselarasan* di bawah.
+
+<a id="536-system-class-scaling-and-escalation"></a>
+##### 5.3.6 Penjenjangan dan Eskalasi Kelas Sistem
+
+Kelas sistem menentukan kedalaman tinjauan dan ketelitian penilaian kecukupan. Kelas tidak pernah membuat ekstraksi bersama terlalu kecil untuk diperhitungkan. Setiap kali pemicu materialitas terpenuhi:
+
+- Sistem yang mengambil dari fondasi bersama yang dibutuhkan makhluk sadar untuk bertahan hidup — seperti daerah aliran sungai bersama atau tulang punggung jaringan listrik regional — harus mencantumkan bukti terkuat mengenai peta ketergantungan dan arus pengembalian.
+- Sistem yang mengandalkan autentikasi bersama, TI kesehatan, atau infrastruktur serupa harus mendokumentasikan apa yang diambilnya dan apakah dukungannya memadai, dengan kedalaman yang sepadan dengan kekritisan operasinya. Slogan kabur tentang «interoperabilitas» tidak diperhitungkan.
+- Sistem tidak boleh menghindari tinjauan lintas sistem sembari diam-diam menjadi titik-sumbat pembayaran, identitas, atau kepegawaian bagi lembaga yang secara realistis tidak dapat beralih. Jika ini terjadi, sertifikasi harus meningkatkan tinjauan dan mempertimbangkan kembali kelas sistemnya berdasarkan [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation) dan [Bagian B §7 Hasil Sertifikasi](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes), hingga **Class A** jika sistem mengendalikan akses ke koordinasi pokok bagi kelangsungan hidup.
+
+<a id="537-defects-and-misalignment"></a>
+##### 5.3.7 Cacat dan Ketidakselarasan
+
+Hal-hal berikut masing-masing merupakan cacat sertifikasi:
+
+- menyembunyikan, menyatakan keliru, memecah, atau mengalihkan informasi ketergantungan atau arus sumber daya yang signifikan dan wajib diungkapkan berdasarkan **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*);
+- memperlakukan salah satu hal berikut sebagai sesuatu yang cukup untuk memenuhi [Dukungan Lintas Sistem yang Proporsional](core_05_band_continuity.md#proportionate-cross-system-support):
+  - transfer simbolis, tidak transparan, di luar peta, atau satu kali;
+  - fakta bahwa sistem memenuhi lantai kelangsungan hidup dalam **Pasal III-A** (*Kelangsungan Hidup*); atau
+  - fakta bahwa sistem berada dalam batas konsentrasi pasar di [Bab Satu §11 Struktur Pasar](core_01_a_values_principles.md#11-market-structure);
+- berulang kali mengambil dari fondasi bersama tanpa memberi kontribusi kembali secara proporsional ketika pemicu materialitas berlaku;
+- dukungan yang terutama memperkuat penguasaan atau konsentrasi;
+- dukungan bersyarat yang menggagalkan transparansi sebagaimana diwajibkan **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*); dan
+- menyertifikasi ketergantungan berkelanjutan sementara kesenjangan dukungan yang terdokumentasi secara signifikan mengancam keselarasan konstitusional.
+
+<a id="54-nondiscrimination-evaluation"></a>
+
+#### 5.4 Evaluasi Nondiskriminasi
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
+
+- Hulu: [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran partisipasi (*Keadilan Substantif, Proksifikasi Karakteristik yang Dilindungi, dan Dampak Berbeda sebagai pengukuran konstitusional*); **Pasal VI-C** (*Nondiskriminasi*); [Keadilan Substantif](core_05_band_participation.md#substantive-fairness), [Karakteristik yang Dilindungi](core_05_band_participation.md#protected-characteristics), [Proksifikasi Karakteristik yang Dilindungi dan Dampak Berbeda](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Bahasa, Budaya, dan Warisan](core_05_band_continuity.md#language-culture-and-heritage), [Kebutuhan](core_05_band_accountability.md#necessity), dan [Proporsionalitas](core_05_band_accountability.md#proportionality) (Bab Lima).
+- Hilir: [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*contoh langkah demi langkah nondiskriminasi*); [Bagian B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*integritas catatan*); [Bagian B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*ketidakselarasan pola diskriminasi dan pengelakan melalui proksi*).
+- Baca bersama: kewajiban adjudikasi dan operasi **Pasal VI-C** (*Nondiskriminasi*) jika sertifikasi menggerbang akses ke forum, administrasi, atau penegakan; [*Nondiskriminasi, Karakteristik yang Dilindungi, Martabat, Penggerbangan Sinyal Intim, dan Status **Pasal VII-E** (*Layanan seksual komersial konsensual dewasa dan eksploitasi seksual*)*](core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
+- Subbagian: [§5.4.1](#541-materiality-trigger-and-governing-rules) (*pemicu materialitas dan aturan yang berlaku*); [§5.4.2](#542-evaluation-requirement) (*persyaratan evaluasi*); [§5.4.3](#543-system-class-scaling-and-escalation) (*penjenjangan dan eskalasi kelas sistem*); [§5.4.4](#544-defects-and-misalignment) (*cacat dan ketidakselarasan*); [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*contoh penerapan nondiskriminasi menurut kelas sistem*).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: ketika suatu sistem secara material menentukan siapa yang diterima, siapa yang membayar lebih, siapa yang mendapat peringkat lebih rendah, atau siapa yang menanggung beban lebih berat, sertifikasi harus memeriksa apakah pola tersebut membebankan kerugian kepada karakteristik yang dilindungi atau proksinya — bukan apakah operator mengatakan aturannya netral. Kuota inklusi dan algoritme keadilan tertentu dapat diatur dalam instrumen lain, tambahan korpus berikutnya, atau instrumen adopsi; sertifikasi memeriksa apakah pola beban dan manfaat serta risiko proksi benar-benar dievaluasi ketika pemicunya berlaku. Contoh: [§5.4.5 Contoh penerapan nondiskriminasi menurut kelas sistem (tidak menyeluruh)](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).*
+
+<a id="541-materiality-trigger-and-governing-rules"></a>
+##### 5.4.1 Pemicu Materialitas dan Aturan yang Berlaku
+
+Bagian ini berlaku ketika sistem berdampak material secara material mengklasifikasikan, memberi peringkat, menetapkan harga, menggerbang, mengecualikan, atau mengalokasikan beban dan manfaat di antara makhluk sadar — termasuk melalui aturan kelayakan, fitur model, logika pemeringkatan, kebijakan platform, atau jalur keputusan sebanding.
+
+Jika pemicu materialitas berlaku, sertifikasi keselarasan sistem harus mengevaluasi **nondiskriminasi** berdasarkan **Pasal VI-C** (*Nondiskriminasi*), [Keadilan Substantif](core_05_band_participation.md#substantive-fairness), dan [Proksifikasi Karakteristik yang Dilindungi dan Dampak Berbeda](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
+
+<a id="542-evaluation-requirement"></a>
+##### 5.4.2 Persyaratan Evaluasi
+
+Proses sertifikasi harus menentukan apakah jalur keputusan yang secara material diandalkan sistem menimbulkan beban, pengecualian, atau kerugian material bagi makhluk sadar berdasarkan [Karakteristik yang Dilindungi](core_05_band_participation.md#protected-characteristics), proksinya, atau pengelompokan arbitrer yang dipakai sebagai pengganti fungsional, termasuk spesialisasi bahasa, budaya, dan warisan berdasarkan [Bahasa, Budaya, dan Warisan](core_05_band_continuity.md#language-culture-and-heritage). Evaluasi harus menguji pola beban dan manfaat berdasarkan [Keadilan Substantif](core_05_band_participation.md#substantive-fairness) serta risiko proksi atau dampak berbeda berdasarkan [Proksifikasi Karakteristik yang Dilindungi dan Dampak Berbeda](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), dengan skala yang sepadan dengan [taruhan material](core_00_preamble.md#material-stake). Perlakuan berbeda hanya dapat diterima jika [Kebutuhan](core_05_band_accountability.md#necessity), [Proporsionalitas](core_05_band_accountability.md#proportionality), dan keadilan substantif yang terdokumentasi membenarkannya. Evaluasi harus mencerminkan dampak fungsional, bukan netralitas nominal, niat yang dinyatakan, atau label semata.
+
+<a id="543-system-class-scaling-and-escalation"></a>
+##### 5.4.3 Penjenjangan dan Eskalasi Kelas Sistem
+
+Kelas sistem mengubah kedalaman evaluasi, bukan memberi izin untuk menganggap pemeringkatan atau pengalihan beban tidak material. Setiap kali pemicu materialitas terpenuhi:
+
+- Sistem yang aturan pemadaman, pemberitahuan, atau sejenisnya dapat menutup akses ke kebutuhan pokok untuk bertahan hidup harus mencantumkan analisis beban-manfaat dan proksi terkuat dalam catatan, bukan pernyataan praktik terbaik yang umum.
+- Sistem yang logika pencocokan atau peruteannya memengaruhi perawatan darurat, tunjangan, atau akses kredensial harus mendokumentasikan temuan dampak berbeda dan keadilan substantif pada tingkat kekritisan operasional.
+- Sistem tidak boleh mempertahankan paragraf keadilan simbolis sementara logika giliran kerja, vendor, atau pemesanan secara material memberi peringkat atau mengecualikan peserta. Ketika koordinasi menjadi pokok bagi kelangsungan hidup, sertifikasi harus meningkatkan tinjauan dan reklasifikasi berdasarkan [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation) dan [Bagian B §7 Hasil Sertifikasi](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes), termasuk menaikkannya menuju **Class A** jika kepegawaian atau perutean darurat digerbang.
+
+<a id="544-defects-and-misalignment"></a>
+##### 5.4.4 Cacat dan Ketidakselarasan
+
+Hal-hal berikut masing-masing harus diperlakukan sebagai cacat sertifikasi:
+
+- menyamarkan, menyatakan keliru, memecah, atau mengalihkan logika klasifikasi, pemeringkatan, atau alokasi beban material ketika **Pasal VI-C** (*Nondiskriminasi*) mewajibkan peninjauan;
+- menganggap netralitas lahiriah, metrik kemudahan agregat, atau laporan mandiri operator sudah cukup tanpa analisis beban dan manfaat yang dapat dievaluasi;
+- menyertifikasi ketergantungan berkelanjutan sementara diskriminasi proksi atau ketidakadilan substantif yang terdokumentasi secara material mengancam keselarasan konstitusional; dan
+- menggunakan alasan homogenisasi, interoperabilitas, atau efisiensi untuk menggagalkan perlindungan bahasa, budaya, atau warisan tanpa memenuhi uji **Kebutuhan** dan **Proporsionalitas** dalam **Pasal VI-C** (*Nondiskriminasi*).
+
+<a id="55-accessibility-evaluation"></a>
+
+#### 5.5 Evaluasi Aksesibilitas
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
+
+- Hulu: [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran partisipasi (*Aksesibilitas sebagai pengukuran konstitusional*); **Pasal VI-D** (*Aksesibilitas*); [Aksesibilitas](core_05_band_participation.md#accessibility), [Materialitas](core_05_band_oversight.md#materiality), [Ketergantungan](core_05_band_continuity.md#dependency), [Agensi Bermakna](core_05_band_participation.md#meaningful-agency), [Karakteristik yang Dilindungi](core_05_band_participation.md#protected-characteristics), [Proksifikasi Karakteristik yang Dilindungi dan Dampak Berbeda](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Keadilan Substantif](core_05_band_participation.md#substantive-fairness), [Kebutuhan](core_05_band_accountability.md#necessity), dan [Proporsionalitas](core_05_band_accountability.md#proportionality) (Bab Lima).
+- Hilir: [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*contoh langkah demi langkah aksesibilitas*); [Bagian B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*integritas catatan*); [Bagian B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*ketidakselarasan aksesibilitas dan akomodasi yang hanya di atas kertas*).
+- Baca bersama: **Pasal IV-A** (*Akses Pendidikan yang Setara*) jika aksesibilitas pendidikan terimplikasi — aksesibilitas khusus pendidikan tetap diatur di sana; **Pasal VI-C** (*Nondiskriminasi*) (adjudikasi dan operasi) serta **Pasal XII** (*Partisipasi Sistem Pemangku Kepentingan, Representasi, dan Proses yang Semestinya*) jika sertifikasi menggerbang partisipasi forum, administratif, pemangku kepentingan, atau penegakan; [Bab Delapan §5.5](#55-accessibility-evaluation) (*kait faktor evaluasi aksesibilitas lintas ranah*).
+- Subbagian: [§5.5.1](#551-materiality-trigger-and-governing-rules) (*pemicu materialitas dan aturan yang berlaku*); [§5.5.2](#552-evaluation-requirement) (*persyaratan evaluasi*); [§5.5.3](#553-profiles-in-scope) (*profil dalam cakupan*); [§5.5.4](#554-system-class-scaling-and-escalation) (*penjenjangan dan eskalasi kelas sistem*); [§5.5.5](#555-defects-and-misalignment) (*cacat dan ketidakselarasan*); [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*contoh penerapan aksesibilitas menurut kelas sistem*).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: ketika suatu sistem secara material mengendalikan apakah makhluk sadar benar-benar dapat berpartisipasi — bukan sekadar apakah pintu diberi label «terbuka» — sertifikasi harus memeriksa apakah partisipasi sungguh dapat dijangkau menurut kebutuhan sensoris, kognitif, mobilitas, komunikasi, antarmuka substrat, dan kebutuhan sebanding. Katalog akomodasi dan standar antarmuka dapat diatur dalam instrumen lain, tambahan korpus berikutnya, atau instrumen adopsi; sertifikasi memeriksa bahwa partisipasi substantif benar-benar dievaluasi ketika pemicunya berlaku. Contoh kerja: [§5.5.6 Contoh penerapan aksesibilitas menurut kelas sistem (tidak menyeluruh)](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).*
+
+<a id="551-materiality-trigger-and-governing-rules"></a>
+##### 5.5.1 Pemicu Materialitas dan Aturan yang Berlaku
+
+Bagian ini berlaku ketika sistem berdampak besar pada kehidupan makhluk sadar mengendalikan apakah mereka benar-benar dapat berpartisipasi dalam hal yang dilindungi Konstitusi, seperti:
+
+- tata kelola, partisipasi pemangku kepentingan, adjudikasi, dan operasi;
+- kebutuhan pokok untuk bertahan hidup dan layanan kesehatan;
+- ekspresi, perkumpulan, dan pers; atau
+- ranah sebanding.
+
+Pengendalian tersebut dapat dilakukan melalui:
+
+- antarmuka, tempat, atau penjadwalan;
+- kredensial atau akses komputasi;
+- cara akomodasi dirancang; atau
+- jalur serupa.
+
+Aksesibilitas dalam pendidikan tetap diatur **Pasal IV-A** (*Akses Pendidikan yang Setara*), dan tidak ada ketentuan di sini yang mempersempitnya.
+
+Jika ketentuan tersebut berlaku, sertifikasi harus mengevaluasi **aksesibilitas** berdasarkan **Pasal VI-D** (*Aksesibilitas*) dan [Aksesibilitas](core_05_band_participation.md#accessibility). Bagian ini tidak menetapkan:
+
+- daftar akomodasi;
+- standar antarmuka;
+- spesifikasi desain universal; atau
+- prosedur akomodasi sehari-hari.
+
+Hal-hal tersebut diatur dalam dokumen lain yang dapat dimasukkan.
+
+<a id="552-evaluation-requirement"></a>
+##### 5.5.2 Persyaratan Evaluasi
+
+Sertifikasi harus memeriksa apakah makhluk sadar benar-benar dapat berpartisipasi dalam ranah yang dikendalikan sistem, bukan hanya apakah fitur formal, antarmuka bawaan, atau akomodasi di atas kertas tersedia. Sertifikasi harus menguji dampak nyata terhadap partisipasi berdasarkan [Aksesibilitas](core_05_band_participation.md#accessibility), dengan skala yang disesuaikan terhadap [Materialitas](core_05_band_oversight.md#materiality) dan [Ketergantungan](core_05_band_continuity.md#dependency).
+
+Peninjau harus memperhatikan:
+
+- akomodasi yang hanya ada di atas kertas;
+- klaim «akses umum» yang mengandalkan fitur bawaan tetapi tidak memberi siapa pun kemampuan nyata untuk berpartisipasi;
+- dalih bahwa sistem hanya berdampak material sebagian, yang digunakan untuk mengurangi akomodasi yang wajib disediakan;
+- pengecualian yang bertentangan dengan [Non-Eksklusi Makhluk Sadar](core_05_band_participation.md#sentience-non-exclusion); dan
+- desain yang secara tidak langsung menyingkirkan makhluk sadar melalui penjadwalan, pilihan tempat, kredensial, akses komputasi, atau mekanisme serupa (penolakan melalui proksi).
+
+Sertifikasi juga harus menerapkan [Karakteristik yang Dilindungi](core_05_band_participation.md#protected-characteristics) dan [Proksifikasi Karakteristik yang Dilindungi dan Dampak Berbeda](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) pada rancangan akomodasi. Setiap batasan atas akomodasi harus didokumentasikan serta memenuhi [Kebutuhan](core_05_band_accountability.md#necessity), [Proporsionalitas](core_05_band_accountability.md#proportionality), dan [Keadilan Substantif](core_05_band_participation.md#substantive-fairness).
+
+<a id="553-profiles-in-scope"></a>
+##### 5.5.3 Profil dalam Cakupan
+
+Evaluasi harus menguji partisipasi nyata untuk setiap bentuk makhluk sadar dan profil kemampuan, bukan kepatuhan di atas kertas:
+
+- Evaluasi harus mencakup setiap kategori profil yang relevan: sensoris, kognitif, mobilitas, komunikasi, **antarmuka substrat**, dan **antarmuka komputasi**.
+- Persyaratan yang sama berlaku baik profil tersebut **konstan**, **episodik**, maupun **berkembang**.
+- Pola **akses umum** yang mengklaim ketersediaan agregat yang luas tetapi menggagalkan profil terdampak tertentu, atau **penjenjangan materialitas selektif** yang berdampak menggagalkan lantai partisipasi, tidak memenuhi bagian ini.
+
+<a id="554-system-class-scaling-and-escalation"></a>
+##### 5.5.4 Penjenjangan dan Eskalasi Kelas Sistem
+
+Kelas sistem mengubah kedalaman evaluasi. Kelas tidak pernah mengizinkan akomodasi di atas kertas atau antarmuka bawaan dianggap cukup. Setiap kali pemicu materialitas terpenuhi:
+
+- Jika jalur penagihan atau gangguan sistem dapat memutus akses makhluk sadar ke kebutuhan pokok untuk bertahan hidup, catatan harus menunjukkan bukti terkuat bahwa makhluk sadar benar-benar dapat berpartisipasi. Pernyataan aksesibilitas umum tidak cukup.
+- Jika portal sistem mengendalikan akses ke layanan kesehatan, sistem harus mendokumentasikan temuan tentang akomodasi dan penolakan melalui proksi. Semakin kritis operasinya, semakin terperinci catatan yang diperlukan.
+- Sistem tidak boleh lolos hanya dengan paragraf simbolis tentang aksesibilitas ketika antarmuka giliran kerja, pemesanan, atau vendor secara material menyingkirkan peserta. Ketika koordinasi sistem menjadi esensial bagi kelangsungan hidup, sertifikasi harus meninjau lebih mendalam dan mempertimbangkan kembali kelas sistemnya berdasarkan [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation) dan [Bagian B §7 Hasil Sertifikasi](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes). Ini mencakup peningkatan menuju **Class A** jika kepegawaian atau perutean darurat digerbang.
+
+<a id="555-defects-and-misalignment"></a>
+##### 5.5.5 Cacat dan Ketidakselarasan
+
+Hal-hal berikut masing-masing harus diperlakukan sebagai cacat sertifikasi:
+
+- menganggap kemudahan formal, antarmuka bawaan, atau akomodasi di atas kertas memadai tanpa analisis partisipasi substantif yang dapat dievaluasi;
+- menyertifikasi ketergantungan berkelanjutan sementara hambatan partisipasi terdokumentasi secara material mengancam keselarasan konstitusional;
+- menggunakan alasan biaya, pilihan desain, kelas substrat, atau skala operasi untuk menggagalkan lantai partisipasi tanpa memenuhi uji **Kebutuhan** dan **Proporsionalitas** dalam **Pasal VI-D** (*Aksesibilitas*); dan
+- desain operasional yang berdampak menggagalkan aksesibilitas ketika opsi dengan beban lebih ringan dapat dilakukan.
+
+<a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+
+#### 5.6 Evaluasi Keterpercayaan dan Integritas Ketergantungan Sistem
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
+
+- Hulu: [Bagian B §8](core_07_b_system_alignment_certification_record_process.md#8-system-certification-record) (*isi catatan*); [§2](#2-system-class-evaluation) (*evaluasi kelas sistem*); keluarga pengukuran pengawasan (*Kebenaran dan integritas epistemik; Keterpercayaan, Penurunan Kepercayaan, dan Ketergantungan yang Menyesatkan sebagai pengukuran konstitusional*); **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*); [Keterpercayaan](core_05_band_continuity.md#trustworthiness), [Kepercayaan](core_05_band_continuity.md#trust), [Penurunan Kepercayaan dan Ketergantungan yang Menyesatkan](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [Dapat Digugat](core_05_band_accountability.md#contestability), [Ganti Rugi dan Pemulihan](core_05_band_accountability.md#redress-and-remediation), [Keselarasan Insentif](core_05_band_integrative.md#incentive-alignment), [Reversibilitas](core_05_band_continuity.md#reversibility), [Materialitas](core_05_band_oversight.md#materiality), [Ketergantungan](core_05_band_continuity.md#dependency), dan [Risiko](core_05_band_continuity.md#risk) (Bab Lima).
+- Hilir: [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*contoh langkah demi langkah keterpercayaan*); [Bagian B §8.2](core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*integritas catatan*); [Bagian B §10](core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bagian B §7](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*ketidakselarasan kepercayaan-palsu, ketidakselarasan insentif-pervers, dan ketidakselarasan integritas-pemulihan*).
+- Baca bersama: **Pasal XIII-A** (*Landasan Keandalan dan Keterpercayaan*), **Pasal XIII-B** (*Hak atas Ganti Rugi dan Pemulihan*), dan **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) — hak untuk menggugat dan mengaudit tetap diatur di sana; **Pasal XIII-E** (*Sistem Berotonomi Tinggi dan Integritas Proses yang Dimediasi Alat*) jika sistem berotonomi tinggi secara material memediasi jalur tata kelola atau verifikasi; **Pasal III-A** (*Kelangsungan Hidup*) jika ketergantungan berkelanjutan pada sistem memengaruhi akses pokok bagi kelangsungan hidup; [Bab Satu §6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) dan [Bab Satu §5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+- Subbagian: [§5.6.1](#561-materiality-trigger-and-governing-rules) (*pemicu materialitas dan aturan yang berlaku*); [§5.6.2](#562-evaluation-requirement) (*persyaratan evaluasi*); [§5.6.3](#563-system-class-scaling-and-escalation) (*penjenjangan dan eskalasi kelas sistem*); [§5.6.4](#564-defects-and-misalignment) (*cacat dan ketidakselarasan*); [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*contoh penerapan keterpercayaan menurut kelas sistem*).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: ketika suatu sistem secara material memengaruhi apakah makhluk sadar dapat memercayai ucapan dan tindakannya — serta melawan ketika kepercayaan itu gagal — sertifikasi harus memeriksa apakah ketergantungan memang beralasan, diungkapkan dengan jujur, dan dapat dipulihkan. Metrik keandalan dan rancangan rangkaian uji diatur dalam instrumen lain; sertifikasi memeriksa apakah keterpercayaan, risiko kepercayaan-palsu, dan jalur gugatan benar-benar dievaluasi ketika pemicunya berlaku. Contoh: [§5.6.5 Contoh penerapan keterpercayaan menurut kelas sistem (tidak menyeluruh)](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).*
+
+<a id="561-materiality-trigger-and-governing-rules"></a>
+##### 5.6.1 Pemicu Materialitas dan Aturan yang Berlaku
+
+Bagian ini berlaku ketika sistem besar membentuk hal-hal yang diandalkan orang darinya: apa yang dilakukannya, di mana batasnya, apa yang mungkin gagal, cara menggugatnya, dan cara masalah diperbaiki. Hal itu dapat terjadi melalui:
+
+- klaim tentang tingkat keandalannya;
+- apa yang diungkapkan dan tidak diungkapkannya;
+- cara sistem benar-benar beroperasi;
+- insentif yang tertanam di dalamnya;
+- cara sistem pulih dari kegagalan; atau
+- cara serupa apa pun yang membuat orang bergantung padanya.
+
+Jika pemicu materialitas berlaku, sertifikasi keselarasan sistem harus mengevaluasi **keterpercayaan dan integritas ketergantungan sistem** berdasarkan hal-hal berikut:
+
+- **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*);
+- [Keterpercayaan](core_05_band_continuity.md#trustworthiness); dan
+- [Penurunan Kepercayaan dan Ketergantungan yang Menyesatkan](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
+
+<a id="562-evaluation-requirement"></a>
+##### 5.6.2 Persyaratan Evaluasi
+
+Proses sertifikasi harus memeriksa apakah orang memiliki alasan yang baik untuk [memercayai](core_05_band_continuity.md#trust) sistem dan dapat mengandalkannya secara akurat berdasarkan **Pasal XIII-A** (*Landasan Keandalan dan Keterpercayaan*).
+
+Evaluasi juga harus menguji apakah:
+
+- orang dapat secara realistis menggugat sistem, meminta keputusan ditinjau, dan memperoleh perbaikan — bukan hanya di atas kertas (**Pasal XIII-A** (*Landasan Keandalan dan Keterpercayaan*) dan **Pasal XIII-B** (*Hak atas Ganti Rugi dan Pemulihan*));
+- orang dapat disesatkan agar memercayai atau mengandalkannya secara keliru, termasuk melalui kepercayaan yang direkayasa atau batasan yang tidak diungkap (**Pasal XIII-C** (*Larangan Kepercayaan Palsu dan Ketergantungan yang Menyesatkan*));
+- insentifnya memberi ganjaran atas penipuan atau pemotongan prosedur (**Pasal XIII-D** (*Kendala Keselarasan Insentif*)); dan
+- jika relevan, sistem dapat pulih dari kegagalan dengan jujur tanpa menyembunyikannya atau diam-diam mempersempit hak siapa pun (**Pasal XIII-F** (*Landasan Ketahanan dan Pemulihan Mandiri*)).
+
+Pengujian dijenjangkan berdasarkan [Materialitas](core_05_band_oversight.md#materiality), [Ketergantungan](core_05_band_continuity.md#dependency), dan [Risiko](core_05_band_continuity.md#risk).
+
+Evaluasi harus mencerminkan dampak fungsional sepanjang waktu, skala, dan ketergantungan, bukan:
+
+- reputasi, ukuran, atau pemasaran;
+- label jaminan nominal;
+- paragraf simbolis tentang keterpercayaan ketika lencana keandalan atau skor vendor sebenarnya menentukan siapa yang dipekerjakan atau apa yang dibeli;
+- niat yang dinyatakan; atau
+- kinerja sebelumnya saja.
+
+<a id="563-system-class-scaling-and-escalation"></a>
+##### 5.6.3 Penjenjangan dan Eskalasi Kelas Sistem
+
+Kedalaman tinjauan bergantung pada kelas sistem. Setiap kali pemicu materialitas terpenuhi:
+
+- Jika pembacaan, peringatan, atau klaim pemulihan sistem dapat menyesatkan rumah tangga atau operator tentang kebutuhan pokok untuk bertahan hidup (hal yang dibutuhkan orang untuk hidup), catatan harus menunjukkan bukti kuat, bukan sekadar klaim bahwa sistem andal. Bukti harus menunjukkan bahwa:
+  - orang dapat memercayai sistem;
+  - orang tidak akan diberi rasa aman yang keliru; dan
+  - sistem pulih dari kegagalan dengan jujur.
+- Jika klaim sistem tentang waktu aktif, pencocokan, atau pengesampingan darurat (akses «break-glass») menentukan apakah orang dapat memperoleh perawatan klinis atau layanan darurat, catatan harus menunjukkan hal berikut secara terperinci sesuai kekritisan sistem:
+  - cara orang dapat menggugat klaim tersebut; dan
+  - apakah orang dapat disesatkan hingga bergantung padanya.
+- Ketika koordinasi menjadi pokok bagi kelangsungan hidup, sertifikasi harus meningkatkan tinjauan dan mempertimbangkan kembali kelas sistem berdasarkan [§2 Evaluasi Kelas Sistem](#2-system-class-evaluation) dan [Bagian B §7 Hasil Sertifikasi](core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes). Sistem dapat dinaikkan menuju **Class A** ketika ketergantungan yang menyesatkan dapat memutus koordinasi yang dibutuhkan orang untuk bertahan hidup.
+
+<a id="564-defects-and-misalignment"></a>
+##### 5.6.4 Cacat dan Ketidakselarasan
+
+Hal-hal berikut masing-masing harus diperlakukan sebagai cacat sertifikasi:
+
+- menyamarkan, menyatakan keliru, memecah, atau mengalihkan batasan, risiko, atau riwayat kegagalan material ketika **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) mewajibkan peninjauan;
+- menganggap reputasi, dukungan, skala, atau laporan mandiri operator cukup tanpa analisis [Keterpercayaan](core_05_band_continuity.md#trustworthiness) yang dapat dievaluasi;
+- menyertifikasi ketergantungan berkelanjutan sementara kepercayaan palsu, insentif pervers, jalur gugatan yang tidak dapat diakses, atau praktik pemulihan yang menyembunyikan kegagalan secara material mengancam keselarasan konstitusional; dan
+- menggunakan alasan efisiensi, inovasi, atau keamanan untuk menggagalkan pengungkapan, kemampuan menggugat, atau ganti rugi tanpa memenuhi disiplin keandalan **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) dan disiplin gugatan **Pasal XIII-A** (*Landasan Keandalan dan Keterpercayaan*).
 <br>
 
 *Lanjutkan ke catatan, proses forum, dan jembatan jejak:* [Bab Tujuh, Bagian B — Catatan dan Proses](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) ([§11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) sampai [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)).

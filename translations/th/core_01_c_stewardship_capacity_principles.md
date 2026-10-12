@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตำแหน่งในคลังเอกสาร (ไม่ใช่ข้อปฏิบัติการ): โครงสร้างไฟล์และหลักการอ่าน</span></strong></summary>
 
-> เนื้อหาต่อไปนี้เป็น **เพียงคำแนะนำสำหรับผู้อ่าน** ไม่ได้เพิ่ม ลบ หรือจำกัดหน้าที่ที่มีผลผูกพันในไฟล์นี้หรือบทอื่น
->
 > ไฟล์นี้ **เป็นส่วนหนึ่งของรัฐธรรมนูญ Sentient** และมีผลผูกพันเมื่ออ่านร่วมกับไฟล์ `core_*` ที่มีหมายเลขอื่นเป็นเอกสารฉบับเดียวเท่านั้น เนื้อหาครอบคลุม **บทที่หนึ่ง ส่วน C** (§§16–20: การดูแลรับผิดชอบ ธรรมาภิบาล การปรับแรงจูงใจให้สอดคล้องและการครอบงำระบบ และบทสรุปการประยุกต์ใช้แบบบูรณาการ)
 >
 > **ส่วนก่อนหน้า:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (บทที่หนึ่ง ส่วน B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">คำแนะนำสำหรับผู้อ่าน (ไม่ใช่ข้อปฏิบัติการ): ลำดับชั้นของหลักการและลำดับการอ่าน (ส่วน C)</span></strong></summary>
 
-> เนื้อหาต่อไปนี้เป็น **เพียงคำแนะนำสำหรับผู้อ่าน** ไม่ได้เพิ่ม ลบ หรือจำกัดหน้าที่ที่มีผลผูกพันในไฟล์นี้หรือบทอื่น วิดเจ็ต **การติดตาม** และ **คำจำกัดความ · การประเมิน · การปฏิบัติตาม** ของแต่ละส่วนจะแสดงเส้นทาง ณ จุดที่ § นำคำศัพท์มาใช้ในสาระสำคัญ บล็อกนี้เป็นแผนเชื่อมโยงระดับส่วนก่อน §§16–20
+> วิดเจ็ต **การติดตาม** และ **คำจำกัดความ · การประเมิน · การปฏิบัติตาม** ของแต่ละส่วนจะแสดงเส้นทาง ณ จุดที่ § นำคำศัพท์มาใช้ในสาระสำคัญ บล็อกนี้เป็นแผนเชื่อมโยงระดับส่วนก่อน §§16–20
 
 **ลำดับชั้นของหลักการ (ส่วน C)** ในระดับหลักการ:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - ต้นทาง: [§17 การกำกับดูแลที่คำนึงถึงผลตามมา](#17-consequential-stewardship-the-steward-role) (*เสาหลัก 1*); [§16 การกำกับดูแลเชิงลึก](#16-stewardship-in-depth) (ส่วนแม่บท รวมถึง *กล่าวอย่างง่าย* และกรอบเสาหลัก 3 ข้างต้น); [5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)
 - อ่านประกอบกับ: [จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ส่วนของ **การมีส่วนร่วม** ([ความเป็นตัวของตัวเองที่มีความหมาย](core_05_band_participation.md#meaningful-agency), [ความเป็นตัวของตัวเองด้านการศึกษา](core_05_band_participation.md#educational-agency)); ส่วนของ **การกำกับตรวจสอบ** ([ความโปร่งใส](core_05_band_oversight.md#transparency), [การตรวจสอบได้](core_05_band_oversight.md#auditability)); ปรับขนาดตาม [ผลประโยชน์ที่มีนัยสำคัญ](core_00_preamble.md#material-stake)
-- ทางเข้าแนวทางสำหรับผู้ดูแล (ไม่มีผลบังคับใช้): การ์ดขั้นตอนถัดไป: [ความเข้าใจได้](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility) การ์ดนี้ไม่อาจจำกัดรัฐธรรมนูญได้
+- ทางเข้าแนวทางสำหรับผู้ดูแล (ไม่มีผลบังคับใช้): การ์ดขั้นตอนถัดไป: [ความเข้าใจได้](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - ปลายทาง: [13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); ขอบเขตสิทธิ โดยเฉพาะ [มาตรา XVI: การตรวจสอบ ความโปร่งใส และการยืนยันโดยอิสระ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [มาตรา XXII: ความเข้าใจได้และการกำกับดูแลความซับซ้อน](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - ที่มาก่อน: [§17 การกำกับดูแลอย่างรับผิดชอบที่มีผลสำคัญ](#17-consequential-stewardship-the-steward-role); [§16 การกำกับดูแลอย่างรับผิดชอบเชิงลึก](#16-stewardship-in-depth); [§18 ธรรมาภิบาลภายใต้วินัยการกำกับดูแล](#18-governance-under-stewardship-discipline)
 - อ่านร่วมกับ: [การไม่กีดกันสิ่งมีชีวิตมีสำนึก](core_05_band_participation.md#sentience-non-exclusion) และ [ประเภทฐานรองรับ](core_05_band_participation.md#substrate-class) (*การใช้ที่ไม่ขึ้นกับฐานรองรับ — ข้อย่อยนี้ผูกพันผู้มีหน้าที่ รวมถึงตัวแทนและผู้ปฏิบัติงานที่ไม่ได้รับการยอมรับว่าเป็นสิ่งมีชีวิตมีสำนึก*); [ลำดับชั้นอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [ข้อจำกัดตามรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-constraint); [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability); [§17.5 หน้าที่ในการต่อต้าน](#175-duty-to-resist)
-- ช่องทางสำหรับผู้กำกับดูแล (ไม่ใช่ข้อปฏิบัติ): บัตรขั้นตอนถัดไป [การกำกับดูแลร่วม](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). บัตรนี้จำกัดรัฐธรรมนูญไม่ได้
+- ช่องทางสำหรับผู้กำกับดูแล (ไม่ใช่ข้อปฏิบัติ): บัตรขั้นตอนถัดไป [การกำกับดูแลร่วม](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - ที่ตามมา: [§17.2 ความสอดคล้องภายใต้แรงกดดัน](#172-alignment-under-pressure); [§17.3 บันทึกบทบาท ไม่ใช่ผู้กำกับดูแล](#173-logging-the-role-not-the-steward); [บทที่สิบสาม §5 — บทบาทที่ได้รับอนุญาต การพัฒนาสมรรถนะ และการมีส่วนร่วม](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [บทที่สิบเจ็ด](core_17_incorporation.md) (*ข้อความการนำไปใช้ที่รับรองแล้วนำหลักการไปใช้ ไม่ได้ใช้แทนหลักการ*); [§19.1.3 การประยุกต์ใช้กับการกำกับดูแลและผู้ปฏิบัติงาน](#1913-stewardship-and-operator-application)
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - ต้นทาง: [§17 การดูแลที่มีผลตามมา](#17-consequential-stewardship-the-steward-role); [§17.1 มาตรฐานการดูแลร่วมกัน](#171-shared-stewardship-standard) (*ผู้ใดมีหน้าที่นี้ผูกพัน*); [§17.2 การสอดคล้องภายใต้แรงกดดัน](#172-alignment-under-pressure) (*คำสั่งให้ปกปิดเป็นการทดสอบที่ไม่ผ่าน*); [4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint) และ [5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)
 - อ่านร่วมกับ: [ลำดับอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [การรายงานที่ได้รับความคุ้มครอง (การเปิดโปง)](core_05_band_accountability.md#protected-reporting-whistleblowing); [มาตรา XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*หลักพื้นฐานด้านความน่าเชื่อถือและไว้วางใจได้*) — ช่องทางคัดค้านยังเปิดอยู่ระหว่างการต่อต้าน
-- ประตูสำหรับผู้ดูแล (ไม่มีผลบังคับ): บัตรขั้นตอนถัดไป: [คำสั่งที่ผิดกฎหมาย](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction) บัตรนี้ไม่อาจจำกัดรัฐธรรมนูญให้แคบลง
+- ประตูสำหรับผู้ดูแล (ไม่มีผลบังคับ): บัตรขั้นตอนถัดไป: [คำสั่งที่ผิดกฎหมาย](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - ปลายทาง: [บทที่สิบ §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*หน้าที่ต่อต้าน — กฎการละเมิดและผลต่อสถานะ*); [CS-4 §10 การกระทำที่ระบุผู้รับผิดชอบและตรวจสอบได้](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*การกระทำที่ตรวจสอบและระบุผู้รับผิดชอบได้ — บันทึกขั้นต่ำของการปฏิเสธ*)
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - ปลายทาง: [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ[§14 ข้อห้ามการลบล้างโดยสมบูรณ์](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)
 - ปลายทาง: [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [บทที่สิบสาม §5 — บทบาทที่ได้รับอนุญาต การพัฒนาความสามารถ และการมีส่วนร่วม](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — การพิทักษ์ระบบวิกฤต**
 - ปลายทาง: มุ่งหมายถึงขอบเขตสิทธิด้านความสามารถในการกำหนดการกระทำ การมีส่วนร่วม การจัดแนวแรงจูงใจ ความสมบูรณ์ของพื้นที่ข้อมูล สถานะยืน และการทบทวนเพื่อต่อต้านการครอบงำทั่วทั้ง[บทที่หก: สิทธิขั้นพื้นฐาน](core_06_rights_part_a.md#chapter-six-foundational-rights); โดยเฉพาะ[มาตรา X: การกำหนดตนเอง ความสามารถในการกำหนดการกระทำ และการมีส่วนร่วม](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [มาตรา XII: การมีส่วนร่วมของระบบผู้มีส่วนได้เสีย การเป็นตัวแทน และกระบวนการอันชอบธรรม](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [มาตรา XIII-D: ข้อจำกัดการจัดแนวแรงจูงใจ](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [มาตรา XV: ความสมบูรณ์ของพื้นที่ข้อมูล](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [มาตรา XIX: สถานะยืนและสถานะการมีส่วนร่วม](core_06_rights_part_d.md#article-xix-standing-and-participation-status), และ[มาตรา XXIV: การตีความธรรมนูญ การทบทวน และมาตรการคุ้มครองต่อต้านการครอบงำ](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)
-- ช่องทางผู้พิทักษ์ (ไม่มีผลบังคับ): บัตรขั้นตอนถัดไป: [การจัดแนวแรงจูงใจ](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment) บัตรนี้ไม่อาจจำกัดขอบเขตของรัฐธรรมนูญ
+- ช่องทางผู้พิทักษ์ (ไม่มีผลบังคับ): บัตรขั้นตอนถัดไป: [การจัดแนวแรงจูงใจ](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

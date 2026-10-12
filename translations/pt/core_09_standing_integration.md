@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [Capítulo Nove em inglês](../../core_10_standing_integration.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_09_standing_integration.md`](../../core_10_standing_integration.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > Contém o **Capítulo Nove**, a camada de integração e consequência da cadeia de trajetória. O [Capítulo Oito](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) titulariza de forma exclusiva os fatos verificados, os registros de trajetória, a medição de trajetória e cada casela do Eixo de Contribuição e do Eixo de Infração. Este capítulo aceita esses insumos como fixos e responde a Questão 3: o que se segue. O [Capítulo Dez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) decide só se uma infração qualificadora `s = 7`, `s = 8` ou `s = 9` recebe a designação emparelhada de má conduta anticonstitucional.
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): sequência do capítulo</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes.
->
 > Leia este capítulo em ordem: insumos imutáveis do Capítulo Oito; registro de integração e ordem de decisão; integração de descritores e normalização de anexos; violação, correção e prevenção (remédio e correção, travas de trajetória gerais, depois expressão pública voluntária de prestação de contas onde for usada); desenho e exigibilidade de travas (definição e anexo, proporcionalidade e calibração, visibilidade do registro e escalada, regras especiais de infração e travas especiais); consequências de contribuição (recência e atualidade, depois barras de competência e habilitações); efeito de trajetória final; restauração e reavaliação; realismo de exigibilidade e sistemas de remédio; aplicações de padrão e roteamento da Questão 3.
 >
 > **Porta de administração responsável (não operativa):** Declaração vinculante do próximo passo: [Declaração operativa de administração responsável](#operative-steward-statement-remedy). Ponteiros de apoio em [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md) não podem estreitá-la.

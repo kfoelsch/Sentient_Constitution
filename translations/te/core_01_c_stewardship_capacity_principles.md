@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">కార్పస్‌లో స్థానం (కార్యనిర్వాహక ప్రభావం లేనిది): ఫైల్ నిర్మాణం, పఠన నియమాలు</span></strong></summary>
 
-> ఈ క్రింది విషయం **పాఠకులకు మార్గదర్శకం మాత్రమే**. ఈ ఫైల్‌లోని లేదా ఇతర అధ్యాయాల్లోని బద్ధత కలిగించే బాధ్యతలను ఇది చేర్చదు, తొలగించదు, పరిమితం చేయదు.
->
 > ఈ ఫైల్ **సెంటియెంట్ రాజ్యాంగంలో భాగం**. ఇతర సంఖ్యా క్రమంలోని `core_*` ఫైళ్లతో కలిపి ఒకే పత్రంగా చదివినప్పుడే ఇది బద్ధత కలిగిస్తుంది. ఇందులో **అధ్యాయం ఒకటి, భాగం C** (§§16–20: ధర్మపాలన, పాలన, ప్రోత్సాహకాల సమన్వయం మరియు వ్యవస్థ స్వాధీనం, సమగ్ర అనువర్తన ముగింపు) ఉన్నాయి.
 >
 > **మునుపటి భాగం:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (అధ్యాయం ఒకటి, భాగం B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">పాఠకుల మార్గదర్శకం (కార్యనిర్వాహక ప్రభావం లేనిది): సూత్రాల శ్రేణి, పఠన క్రమం (భాగం C)</span></strong></summary>
 
-> ఈ క్రింది విషయం **పాఠకులకు మార్గదర్శకం మాత్రమే**. ఈ ఫైల్‌లోని లేదా ఇతర అధ్యాయాల్లోని బద్ధత కలిగించే బాధ్యతలను ఇది చేర్చదు, తొలగించదు, పరిమితం చేయదు. ప్రతి §లో ఒక పదాన్ని గణనీయంగా ఉపయోగించినప్పుడు, ఆ విభాగంలోని **జాడ** మరియు **నిర్వచనాలు · మూల్యాంకనం · అనుసరణ** విడ్జెట్లు సంబంధిత మార్గనిర్దేశాన్ని అందిస్తాయి; §§16–20కు ముందు ఈ భాగ స్థాయి సంబంధ పటం ఇవ్వబడుతోంది.
+> ప్రతి §లో ఒక పదాన్ని గణనీయంగా ఉపయోగించినప్పుడు, ఆ విభాగంలోని **జాడ** మరియు **నిర్వచనాలు · మూల్యాంకనం · అనుసరణ** విడ్జెట్లు సంబంధిత మార్గనిర్దేశాన్ని అందిస్తాయి; §§16–20కు ముందు ఈ భాగ స్థాయి సంబంధ పటం ఇవ్వబడుతోంది.
 
 **సూత్రాల శ్రేణి (భాగం C).** సూత్రాల స్థాయిలో:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - పైస్థాయి మూలాలు: [§17 గణనీయమైన ప్రభావమున్న సంరక్షణ బాధ్యత](#17-consequential-stewardship-the-steward-role) (*స్తంభం 1*); [§16 సంరక్షణ బాధ్యతపై విస్తృత వివరణ](#16-stewardship-in-depth) (మాతృ విభాగం; పైనున్న *సరళంగా చెప్పాలంటే* మరియు స్తంభం 3 రూపకల్పనతో సహా); [5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. నమ్మకం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - వీటితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్యం** అంగం ([అర్థవంతమైన కార్యసామర్థ్యం](core_05_band_participation.md#meaningful-agency), [విద్యా కార్యసామర్థ్యం](core_05_band_participation.md#educational-agency)); **పర్యవేక్షణ** అంగం ([పారదర్శకత](core_05_band_oversight.md#transparency), [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#auditability)); [భౌతిక వాటా](core_00_preamble.md#material-stake)కు అనుగుణంగా స్థాయీకరణ.
-- సంరక్షక ప్రవేశద్వారం (కార్యాచరణాత్మకం కాదు): తదుపరి దశ కార్డు: [అర్థం చేసుకునే సామర్థ్యం](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). ఈ కార్డు రాజ్యాంగ పరిధిని కుదించలేదు.
+- సంరక్షక ప్రవేశద్వారం (కార్యాచరణాత్మకం కాదు): తదుపరి దశ కార్డు: [అర్థం చేసుకునే సామర్థ్యం](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - దిగువస్థాయి సంబంధాలు: [13.2 జ్ఞాన సంబంధిత వెల్లడింపు పరిమితులు](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); హక్కుల పరిధిలో ముఖ్యంగా [అధికరణం XVI: ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [అధికరణం XXII: అర్థం చేసుకునే సామర్థ్యం మరియు సంక్లిష్టత సంరక్షణ](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - పైస్థాయి: [§17 గణనీయమైన ప్రభావమున్న సంరక్షణ బాధ్యత](#17-consequential-stewardship-the-steward-role); [§16 సంరక్షణ బాధ్యతపై విస్తృత వివరణ](#16-stewardship-in-depth); [§18 సంరక్షణ బాధ్యతా క్రమశిక్షణ కింద పాలన](#18-governance-under-stewardship-discipline).
 - వీటితో చదవండి: [sentienceను మినహాయించకపోవడం](core_05_band_participation.md#sentience-non-exclusion), [ఆధార మాధ్యమ వర్గం](core_05_band_participation.md#substrate-class) (*ఆధార మాధ్యమంతో సంబంధం లేని వర్తింపు — గుర్తింపు పొందిన sentientలు కాని ఏజెంట్లు, నిర్వాహకులతో సహా విధులు కలిగినవారిని ఈ ఉపవిభాగం బంధిస్తుంది*); [అధికార స్థాయి క్రమం, అంతర్గత శ్రేణి](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [రాజ్యాంగ పరిమితి](core_05_band_integrative.md#constitutional-constraint); [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability); [§17.5 ప్రతిఘటించాల్సిన విధి](#175-duty-to-resist).
-- సంరక్షక ప్రవేశద్వారం (కార్యాచరణాత్మకం కాదు): తదుపరి దశ కార్డు: [ఉమ్మడి సంరక్షణ బాధ్యత](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). ఈ కార్డు రాజ్యాంగ పరిధిని కుదించలేదు.
+- సంరక్షక ప్రవేశద్వారం (కార్యాచరణాత్మకం కాదు): తదుపరి దశ కార్డు: [ఉమ్మడి సంరక్షణ బాధ్యత](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - దిగువస్థాయి సంబంధాలు: [§17.2 ఒత్తిడిలో అనుసరణ](#172-alignment-under-pressure); [§17.3 సంరక్షకుడిని కాదు, పాత్రను నమోదు చేయడం](#173-logging-the-role-not-the-steward); [అధ్యాయం పదమూడు §5 — అధీకృత పాత్రలు, సామర్థ్య అభివృద్ధి, సహకారం](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [అధ్యాయం పదిహేడు](core_17_incorporation.md) (*స్వీకరించిన అమలు పాఠ్యం దీనిని అమలు చేస్తుంది; భర్తీ చేయదు*); [§19.1.3 సంరక్షణ బాధ్యత, నిర్వాహకులపై వర్తింపు](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - పూర్వాధారాలు: [§17 గణనీయమైన పరిణామాల Stewardship](#17-consequential-stewardship-the-steward-role); [§17.1 ఉమ్మడి Stewardship ప్రమాణం](#171-shared-stewardship-standard) (*ఈ కర్తవ్యం ఎవరికి వర్తిస్తుంది*); [§17.2 ఒత్తిడిలో సమలేఖనం](#172-alignment-under-pressure) (*మరుగుపరచమనే ఆదేశం విఫల పరీక్షగా ఉండటం*); [4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint) మరియు [5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - వీటితో కలిపి చదవండి: [అధికార క్రమం మరియు అంతర్గత శ్రేణి](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [రక్షిత నివేదన (విసిల్‌బ్లోయింగ్)](core_05_band_accountability.md#protected-reporting-whistleblowing); [ఆర్టికల్ XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*విశ్వసనీయత మరియు నమ్మకత్వం యొక్క కనీస ప్రమాణం*) — ప్రతిఘటిస్తున్నప్పుడు కూడా అభ్యంతర మార్గాలు తెరిచి ఉంటాయి.
-- Steward ప్రవేశ ద్వారం (ఆపరేటివ్ కాదు): తదుపరి-చర్య కార్డు: [చట్టవిరుద్ధ ఆదేశం](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). ఈ కార్డు రాజ్యాంగ పరిధిని కుదించదు.
+- Steward ప్రవేశ ద్వారం (ఆపరేటివ్ కాదు): తదుపరి-చర్య కార్డు: [చట్టవిరుద్ధ ఆదేశం](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - తదుపరి అంశాలు: [అధ్యాయం పది §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*ప్రతిఘటించే కర్తవ్యం — ఉల్లంఘన నియమం మరియు standing ప్రభావాలు*); [CS-4 §10 పరిశీలించగలిగే, ఆపాదించగల చర్య](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*పరిశీలించగలిగే, ఆపాదించగల చర్య — నిరాకరణకు సంబంధించిన కనిష్ఠ రికార్డు*).
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - దిగువ మూలాలు: [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§14 సంపూర్ణ అధిక్రమణ నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - దిగువ మూలాలు: [§13.3 నివారించగల భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [అధ్యాయం పదమూడు §5 — అధీకృత పాత్రలు, సామర్థ్య అభివృద్ధి, సహకారం](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — కీలక వ్యవస్థ సంరక్షకత్వం**.
 - స్వీయకర్తృత్వం, భాగస్వామ్యం, ప్రోత్సాహకాల సమలేఖనం, సమాచార రంగ సమగ్రత, హోదా, ఆక్రమణ వ్యతిరేక సమీక్షకు సంబంధించిన హక్కుల ఉపరితలాన్ని లక్ష్యంగా చేసుకుంటుంది; ఇవి [అధ్యాయం ఆరు: ప్రాథమిక హక్కులు](core_06_rights_part_a.md#chapter-six-foundational-rights) అంతటా ఉంటాయి; ముఖ్యంగా [ఆర్టికల్ X: స్వీయ నిర్ణయం, స్వీయకర్తృత్వం, భాగస్వామ్యం](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [ఆర్టికల్ XII: భాగస్వామ్య వ్యవస్థలో వాటాదారుల పాల్గొనడం, ప్రాతినిధ్యం, న్యాయ ప్రక్రియ](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [ఆర్టికల్ XIII-D: ప్రోత్సాహకాల సమలేఖన పరిమితి](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [ఆర్టికల్ XV: సమాచార రంగ సమగ్రత](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [ఆర్టికల్ XIX: హోదా మరియు భాగస్వామ్య స్థితి](core_06_rights_part_d.md#article-xix-standing-and-participation-status), మరియు [ఆర్టికల్ XXIV: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, ఆక్రమణ వ్యతిరేక భద్రతలు](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- సంరక్షక ప్రవేశ ద్వారం (కార్యనిర్వాహక స్వభావం లేనిది): తదుపరి దశ కార్డు: [ప్రోత్సాహకాల సమలేఖనం](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). ఈ కార్డు రాజ్యాంగాన్ని కుదించలేదు.
+- సంరక్షక ప్రవేశ ద్వారం (కార్యనిర్వాహక స్వభావం లేనిది): తదుపరి దశ కార్డు: [ప్రోత్సాహకాల సమలేఖనం](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">موضع الملف في المتن (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
->
 > هذا الملف **تجريب بلغة القارئ** لـ[الفصل السابع، الجزء أ بالإنجليزية](../../core_08_a_system_alignment_certification_evaluation.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > يحتوي **الفصل السابع، الجزء أ** — متطلبات **تقييم** التصديق (صنف النظام، وعوامل النظام كاملًا، وخطافات تقييم المجال). **الجزء ب** — سجل التصديق وعملية المنتدى وجسر الوضعية وإعادة الفتح — في [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md).
@@ -40,1113 +38,1094 @@
 > **بيان الإدارة المسؤولة التشغيلي.** **المالك:** الفصل السابع (SAC تحت إشراف المنتدى). عدسة طبقة المبادئ: الفصل الأول §14. SAC عملية تدقيق كبيرة بوجه خاص تحت المادة XVI / قابلية التدقيق — لا التدقيق الوحيد. **الحركة المحظورة:** لا تعامل اختبارات الوحدة أو قوائم التحقق من الخصوصية أو تسميات المواءمة المحلية تصديقًا. لا تتجاوز نافذة الطعن. لا تخترع موطن تدقيق خامسًا. لا تعامل شارة تصديق أو درجة LEQU مركز كائن واعٍ. **الساعة:** افتح أو استعد مسارًا قابلًا للطعن من الفصل السابع، بما في ذلك نافذة طعن للأطراف المتأثرة، قبل ادعاء المواءمة.
 
 <a id="1-purpose-and-role"></a>
+
 ### 1. الغرض والدور
 
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [الديباجة — سجل المالكين الإيجابي](core_00_preamble.md#4-principles-definitions-and-rights) و[رصّة السلطة والتسلسل الداخلي](core_05_band_integrative.md#authority-stack)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرهان المادي](core_00_preamble.md#material-stake)؛ [التناسب](core_05_band_accountability.md#proportionality) و[الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) (الفصل الخامس)؛ أسرة قياس المشاركة (*الصوت والوصول ومسارات الطعن*)؛ [الفصل الأول §9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ [الفصل الأول §14 متطلب التقييم المنظومي](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*عدسة تقييم النظام كاملًا في طبقة المبادئ — لا ركنًا واحدًا وحده*)؛ الفصول من الثاني إلى الرابع؛ [الفصل الخامس](core_05__definitions_home.md#chapter-five-foundational-definitions) (*التعريفات القانونية*)؛ [تصديق مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) (حد قانوني في الفصل الخامس؛ اختصار غير تشغيلي **SAC**)؛ [سجل تصديق النظام](core_05_band_continuity.md#system-certification-record-constitutional) (معنى الفصل الخامس).
-- أسفل: [§2](#2-system-class-evaluation) و[§2.1](#21-illustrative-class-profiles-non-exhaustive) (*تقييم صنف النظام والملفات التوضيحية*)؛ [§3.8](#38-illustrative-whole-system-application-by-class) (*أمثلة معمولة للنظام كاملًا حسب الصنف*)؛ [§4.1](#41-illustrative-data-handling-application-by-class) (*أمثلة معمولة لمعالجة البيانات حسب الصنف*)؛ [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*أمثلة معمولة للبصمة البيئية حسب الصنف*)؛ [§6.1](#61-illustrative-cross-system-support-application-by-class) (*أمثلة معمولة للدعم عبر الأنظمة حسب الصنف*)؛ [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*أمثلة معمولة لعدم التمييز حسب الصنف*)؛ [§8.1](#81-illustrative-accessibility-application-by-class) (*أمثلة معمولة لتيسير الوصول حسب الصنف*)؛ [§9.1](#91-illustrative-educational-capability-application-by-class) (*أمثلة معمولة للقدرة التعليمية حسب الصنف*)؛ [§10.1](#101-illustrative-trustworthiness-application-by-class) (*أمثلة معمولة للجدارة بالثقة حسب الصنف*)؛ [§3](#3-whole-system-certification-evaluation) (*عوامل تقييم تصديق النظام كاملًا*)؛ [§4](#4-data-types-and-handling-evaluation) حتى [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*تقييمات المجال*)؛ [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات سجل التصديق*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*متطلبات نزاهة السجل*)؛ [الجزء ب §13](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*أدوار مكوّنات المنتدى*)؛ [الجزء ب §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*تسلسل الإشراف وسلسلة قابلية الطعن*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*جسر سجل الوضعية*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*إعادة الفتح ومنع التهرّب*)؛ [الفصل الثامن](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*سجلات الوضعية وبوابة المدخلات الموثّقة*)؛ [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*آثار الوضعية والتكامل*)؛ [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*إشراف المنتدى والتصديق واعتراف المواءمة والمراجعة*).
-- يُقرأ مع: [corpus_systems.md](../../corpus_systems.md)، ولا سيما **CS-3 — تصنيف الأنظمة ومعالجتها** و**CS-2 — أنواع المعلومات ومعالجتها** و**CS-5**؛ [corpus_forum.md](../../corpus_forum.md)، ولا سيما **CF-5** (*عمليات التوجيه والنقل والتصديق والمعاملة التمثيلية*) و**CF-7** (*ضمانات النزاهة وعمليات منع الاستيلاء ودعم منع الحكم الذاتي*)؛ **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) و[قابلية التدقيق](core_05_band_oversight.md#auditability) (*أرضيات التدقيق — SAC عملية تدقيق كبيرة بوجه خاص تحت الرقابة، لا موطن التدقيق الوحيد*)؛ **CJS-3.3**–**CJS-3.5** (*حدود قابلية التدقيق والوصول إلى التدقيق والتحقق المستقل*).
+- المنابع: [الديباجة — سجل المالك الدستوري](core_00_preamble.md#4-principles-definitions-and-rights) و[تسلسل السلطات والتراتبية الداخلية](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرهان المادي](core_00_preamble.md#material-stake)؛ [التناسب](core_05_band_accountability.md#proportionality) و[الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness) (الفصل الخامس)؛ أسرة قياس المشاركة (*الصوت والوصول ومسارات الطعن*)؛ [الفصل الأول §16 الإدارة المسؤولة بتعمق](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)؛ [الفصل الأول §12 متطلب التقييم النظامي](core_01_a_values_principles.md#12-systemic-evaluation-requirement) (*منظور تقييم النظام بأكمله على مستوى المبادئ — لا زاوية واحدة فقط*)؛ الفصول من الثاني إلى الرابع؛ [الفصل الخامس](core_05__definitions_home.md#chapter-five-foundational-definitions) (*التعريفات المرجعية*)؛ [الفصل السابع §2 أرضية المقاعد الدستورية الأربعة](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)؛ [تصديق اتساق النظام](core_05_band_continuity.md#system-alignment-certification) (المصطلح المرجعي في الفصل الخامس؛ والاختصار **SAC** غير تشغيلي)؛ [سجل تصديق النظام](core_05_band_continuity.md#system-certification-record) (بمعناه في الفصل الخامس).
+- المسارات اللاحقة: [§2](#2-system-class-evaluation) (*تقييم فئة النظام*)؛ [الجزء B §9.1](core_08_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*الطعن في التصديق*)؛ و[ملفات فئات النظام في الجزء C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*ملفات فئات النظام التوضيحية*)؛ [جولات تطبيق النظام بأكمله في الجزء C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للنظام بأكمله بحسب فئة النظام*)؛ [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية لمعالجة البيانات بحسب فئة النظام*)؛ [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للبصمة البيئية بحسب فئة النظام*)؛ [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للقدرات التعليمية بحسب فئة النظام*)؛ [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للدعم بين الأنظمة بحسب فئة النظام*)؛ [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية لعدم التمييز بحسب فئة النظام*)؛ [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية لإمكانية الوصول بحسب فئة النظام*)؛ [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للجدارة بالثقة ونزاهة الاعتماد على النظام بحسب فئة النظام*)؛ [§3](#3-whole-system-certification-evaluation) (*عوامل تقييم التصديق الشامل للنظام*)؛ من [§3.4](#34-data-types-and-handling-evaluation) إلى [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*تقييمات المجالات*)؛ [الجزء B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*تسلسل الإشراف وسلسلة قابلية الطعن*)؛ [الجزء B §6.1](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (*أدوار مكونات المنتدى*)؛ [الجزء B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*محتويات سجل التصديق*)؛ [الجزء B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*متطلبات نزاهة السجل*)؛ [الجزء B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*إعادة الفتح ومناهضة التحايل*)؛ [الجزء B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*جسر سجلات قياس الوضعية*)؛ [الفصل التاسع](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*سجلات قياس الوضعية وبوابة المدخلات المتحقق منها*)؛ [الفصل العاشر](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*آثار قياس الوضعية ودمجها*)؛ [الفصل الثاني عشر](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*إشراف المنتديات والتصديق وتصديق الاتساق والمراجعة*).
+- يُقرأ مع: [corpus_systems.md](corpus_systems.md)، ولا سيما **CS-3 — تصنيف الأنظمة ومعالجتها** و**CS-2 — أنواع المعلومات ومعالجتها** و**CS-5** (*واجهات القدرات المقدمة للمستخدم*)؛ [corpus_forum.md](corpus_forum.md)، ولا سيما **CF-5** (*عمليات التوجيه والنقل والتصديق والمعاملة التمثيلية*) و**CF-7** (*ضمانات النزاهة وعمليات منع الاستحواذ ودعم منع الحكم على الذات*)؛ **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) و[قابلية التدقيق](core_05_band_oversight.md#auditability) (*أرضيات التدقيق — SAC عملية تدقيق كبيرة على نحو خاص ضمن الرقابة، وليست مرجع التدقيق الوحيد*)؛ **CJS-3.3** (*الرقابة: مصطلحات قابلية التدقيق وإعادة البناء (ملحق)*) إلى **CJS-3.5** (*الرقابة: مصطلحات التحقق المستقل ونزاهة الادعاءات*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: حين يهم نظام حياة الكائنات الواعية حقًا، يجب أن يكون التصديق **متناسبًا** — صارمًا بقدر ما يتطلبه أثر النظام واعتماده ومخاطره الفعلية، لا قائمة تحقق واحدة للجميع ولا ختمًا آليًا. ويجب أن يكون **تشاركيًا** — أن تستطيع الكائنات الواعية والجماعات المتأثرة أن ترى ماذا رُوجع وأن تفهم ماذا تقرّر وأن تطعن حين يكون شيء خاطئًا. تراجع المنتديات الدليل وتثبته في سجل تصديق وتطلب إعادة فحص على إيقاع يطابق خطورة النظام. التصديق ليس درجة شعبية ولا تصريحًا أبديًا ولا طريقًا لتجاوز مراجعة الحقوق. إنه بيان محدود زمنيًا وقابل للطعن بما يُعرف الآن عن مواءمة النظام. تحت رجل **الرقابة** في الرباعية، تقتضي الرقابة التدقيق؛ وتصديق مواءمة النظام عملية تدقيق كبيرة بوجه خاص وعالية الرهان بين غيرها — لا الموطن الوحيد للتدقيق (**المادة XVI**، [قابلية التدقيق](core_05_band_oversight.md#auditability)).*
+*بعبارات واضحة: حين يؤثر نظام فعلياً في حياة الكائنات الواعية، ينبغي أن يكون التصديق **متناسباً** مع الأثر والاعتماد والمخاطر الفعلية للنظام؛ فلا يكون قائمة موحدة تصلح لكل الحالات ولا ختم موافقة آلياً. وينبغي أيضاً أن يكون **تشاركياً**: يجب أن تتمكن الكائنات الواعية والمجتمعات المتأثرة من معرفة ما خضع للمراجعة، وفهم القرار، والطعن فيه عند وجود خطأ. تراجع المنتديات الأدلة، وتدوّنها في سجل التصديق، وتطلب إعادة الفحص وفق جدول يناسب مخاطر النظام. تخضع الفئات A وB وC للعملية كاملة، والفئة L لعملية أخف. ويُشجَّع النظام من الفئة P على استخدامها، وتصبح واجبة حين تتجاوز آثاره وحدة خاصة أو حين يزعم مشغّله الامتثال الدستوري.*
 
-<a id="1-purpose-and-role"></a>
+*التصديق ليس مقياساً للشعبية، ولا تصريحاً أبدياً، ولا وسيلة لتجاوز مراجعة الحقوق. إنه بيان محدود زمنياً وقابل للطعن بشأن ما هو معلوم عن اتساق النظام في الوقت الراهن. وفي ضلع **الرقابة** من الرباعية الدستورية، يقتضي الرقابة التدقيق؛ وتصديق اتساق النظام عملية تدقيق كبيرة وعالية المخاطر بين عمليات أخرى، وليس المرجع الوحيد للتدقيق (**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*)، [قابلية التدقيق](core_05_band_oversight.md#auditability)).*
 
-يوجد **تصديق مواءمة النظام** للإجابة عن سؤال واحد لنطاق وجدول مراجعة مبيَّنين: هل أظهر النظام مواءمة دستورية كافية للاعتراف أو الاعتراف المشروط أو التحقق أو إعادة التحقق أو استمرار الاعتماد أو النشر أو الرفع المادي للشروط؟
+يهدف **تصديق اتساق النظام** إلى الإجابة عن سؤال واحد ضمن نطاق وجدول مراجعة محددين: هل أظهر النظام اتساقاً دستورياً كافياً للتصديق، أو التصديق المشروط، أو التحقق، أو إعادة التصديق، أو استمرار الاعتماد عليه، أو نشره، أو رفع شروط جوهرية عنه؟
 
-بوصفه أداة رقابة، التصديق عملية تدقيق كبيرة بوجه خاص تحت [قابلية التدقيق](core_05_band_oversight.md#auditability) و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*): تحت إشراف المنتدى ومتعدد المجالات وحامل اعتراف. وهو لا يمتص أنماط التدقيق الشقيقة ولا يحل محلها (بما في ذلك تدقيقات سجل تصنيف النظام تحت **CS-3** وتدقيقات سجل أنواع بيانات النظام تحت **CS-2** وتدقيقات التعقيد والإدارة المسؤولة والتحقق من الادعاءات ومسارات التدقيق المستمر).
+يجب أن يتناسب عمق التصديق، وعبء السجل، وتواتر إعادة التصديق، ومراجعة أصحاب المصلحة، ومسارات الطعن مع [الرهان المادي](core_00_preamble.md#material-stake) وفق [التناسب](core_05_band_accountability.md#proportionality):
 
-يجب أن يتصاعد عمق التصديق وعبء السجل وإيقاع إعادة التحقق ومراجعة الأطراف المتأثرة ومسارات الطعن مع [الرهان المادي](core_00_preamble.md#material-stake) تحت [التناسب](core_05_band_accountability.md#proportionality). تتطلب الأنظمة الأعلى أثرًا واعتمادًا ومخاطر إثباتًا أقوى وسجلات أوضح ومشاركة أكثر قابلية للتنفيذ — بما في ذلك تيسير الوصول الموضوعي وإسهام الأطراف المتأثرة ومسارات الطعن المقيسة على من يعتمد على النظام. ما زالت الأصناف الأدنى والنطاقات المحدودة تتطلب تصنيفًا أمينًا وضمانًا متناسبًا؛ ولا تحصل على إعفاء من الواجبات المادية حيث توجد آثار خارجية.
+- تتطلب الأنظمة الأعلى أثراً واعتماداً ومخاطر أدلة أقوى وسجلات أوضح ومشاركة أيسر عملياً، بما يشمل إمكانية الوصول الفعلية ومدخلات أصحاب المصلحة ومسارات طعن تتناسب مع فئات المعتمدين على النظام.
+- تظل الفئات الأدنى والنطاقات المحدودة ملزمة بالتصنيف الصادق والضمان المتناسب؛ ولا يعفيها ذلك من الالتزامات المادية عند وجود آثار خارجية.
 
-ينفّذ التصديق [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims) عبر [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad):
+تُطبّق العملية بحسب فئة الأثر، وفق [CS-3 §3.5 شرط إعادة التصنيف](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement):
 
-- **[الازدهار](core_00_preamble.md#flourishing)** — يتحقق التصديق من أن الاعتراف أو استمرار الاعتماد لن يهزم أرضيات الحقوق بهدوء ولن يسد المشاركة العادلة في حياة ذات صلة دستورية؛
-- **[الاستمرارية](core_00_preamble.md#continuity)** — يتحقق التصديق من إمداد دائم غير تراجعي وإعادة تحقق مقيسة بالصنف حيث تغلق الأنظمة المشتركة التسليم أو تسنده؛
-- **المشاركة** — تستطيع الكائنات الواعية والجماعات المتأثرة أن تفهم وتطعن وتشارك في مسارات المراجعة التي تهمها؛
-- **الرقابة** — السجلات والدليل والافتراضات مرئية وقابلة للتدقيق بما يكفي للفحص المستقل؛ والتصديق نفسه عملية تدقيق كبيرة بوجه خاص تحت واجب الرقابة ذلك، لا الوحيدة؛
-- **المساءلة** — تُوجَّه العيوب وسوء التصنيف والتشغيل المهزم للأرضية إلى الانتصاف أو الشروط أو السحب أو إسهام الوضعية حيث تسند الوقائع ذلك؛
-- **حسن التوقيت** — تمنع ساعات المراجعة والطعن أن يفسد التصديق بينما ما زال الضرر قابلًا للمنع أو العكس.
+- **الفئات A وB وC:** تحمل أعلى مستويات الأثر والاعتماد والمخاطر، ويلزمها التقييم الشامل للنظام بكامل عمقه وفق [§3](#3-whole-system-certification-evaluation) و[§4](#4-evaluations-where-implicated) و[§5](#5-rights-floor-and-domain-evaluations)، كلٌّ بحسب الطبقة التي تنطبق عليه؛
+- **الفئة L:** يلزمها التقييم نفسه على نحو متناسب، مع وتيرة افتراضية أقل لإعادة الفحص وسجلات أبسط حيثما تجيز CS-3 ذلك؛ و
+- **الفئة P:** يُشجَّع النظام المصنف فيها تصنيفاً صحيحاً على اتباع العملية، وله أن يستخدمها طوعاً. وتصبح إلزامية عند إعادة تصنيفه إلى L أو أعلى، أو حين يعلن مشغّله طوعاً امتثاله الدستوري.
 
-يدير هذا الفصل عملية التصديق تحت إشراف المنتدى من أجل:
+يُنفّذ التصديق [الهدفين الدستوريين](core_00_preamble.md#two-constitutional-aims) من خلال [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad):
 
-- **صنف النظام وإيقاع إعادة التحقق** — بأي صرامة ننظر وبأي تواتر ([§2](#2-system-class-evaluation))؛
-- **التقييمات** — فحوص النظام كاملًا والمجال ([§3](#3-whole-system-certification-evaluation) حتى [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation))؛
-- **محتويات سجل التصديق** — ماذا يجب أن يدخل الملف ([الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record))؛
-- **الاعتراف واستمرار الاعتماد** — أي النواتج تُحتسب ([§1](#1-purpose-and-role)، [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record))؛
-- **الطعن وقابلية الطعن** — كيف تتحرك الطعون عبر المنتديات ([الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)، [الجزء ب §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain))؛
-- **عيوب التصديق** — ماذا يحدث حين يكون التصديق معيبًا ([الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) وأقسام التقييم في كل موضع).
+- **[الازدهار](core_00_preamble.md#flourishing):** يتحقق التصديق من أن التصديق أو استمرار الاعتماد لا يهزم خفيةً أرضيات الحقوق ولا يحول دون المشاركة العادلة في الحياة ذات الصلة دستورياً؛
+- **[الاستمرارية](core_00_preamble.md#continuity):** يتحقق من إمداد مستدام غير تراجعي يدعم النظم الطبيعية السليمة ولا يستنزفها ([السلامة البيئية](core_05_band_continuity.md#ecological-integrity)، بما فيها [قدرة التعافي البيئي](core_05_band_continuity.md#ecological-recovery-capacity))، ومن إعادة التصديق بالوتيرة المناسبة لفئة النظام حين تتحكم الأنظمة المشتركة في الإمداد أو تدعمه؛
+- **المشاركة:** تتمكن الكائنات الواعية والمجتمعات المتأثرة من فهم مسارات المراجعة التي تهمها والطعن فيها والمشاركة فيها؛
+- **الرقابة:** تكون السجلات والأدلة والافتراضات ظاهرة وقابلة للتدقيق بما يكفي للتحقق المستقل؛ والتصديق نفسه عملية تدقيق كبيرة ضمن واجب الرقابة وليست العملية الوحيدة؛
+- **المساءلة:** تُحال العيوب والتصنيف الخاطئ والتشغيل الذي يهزم أرضيات الحقوق إلى علاج أو شروط أو سحب أو مدخلات في قياس الوضعية، متى ساندت الوقائع ذلك؛
+- **التوقيت المناسب:** تمنع مهل المراجعة والطعن تقادم التصديق ما دام بالإمكان منع الضرر أو عكسه.
 
-ملفات **Class A** و**Class B** و**Class C** التوضيحية — وكيف يقيس الصنف عمق التصديق عبر هذا الفصل — في [§2.1](#21-illustrative-class-profiles-non-exhaustive). وتظهر جولات معمولة للأنظمة الثلاثة نفسها في [§3.8](#38-illustrative-whole-system-application-by-class) (*تقييم النظام كاملًا*) و[§4.1](#41-illustrative-data-handling-application-by-class) (*أنواع البيانات ومعالجتها*) و[§5.1](#51-illustrative-ecological-footprint-application-by-class) (*البصمة البيئية*) و[§6.1](#61-illustrative-cross-system-support-application-by-class) (*الإسهام المتناسب عبر الأنظمة*) و[§7.1](#71-illustrative-nondiscrimination-application-by-class) (*عدم التمييز*) و[§8.1](#81-illustrative-accessibility-application-by-class) (*تيسير الوصول*) و[§9.1](#91-illustrative-educational-capability-application-by-class) (*القدرة التعليمية*) و[§10.1](#101-illustrative-trustworthiness-application-by-class) (*الجدارة بالثقة*).
+وبصفته أداة إشراف، يُعد التصديق عملية تدقيق كبيرة ضمن [قابلية التدقيق](core_05_band_oversight.md#auditability) و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*):
 
-أرضيات الحقوق التي يساعد هذا الفصل على التحقق منها معالجة في **§1.1**.
+- يخضع لإشراف المنتديات، ويشمل مجالات متعددة، ويمنح وضعاً رسمياً.
+- يمكنه دمج نتائج أنماط التدقيق الشقيقة، لكنه لا يستوعبها ولا يحل محلها. ولكل نمط مالكه الخاص المحدد في [خريطة مالكي أنماط التدقيق الشقيقة](corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) في مرجع عملية التدقيق:
+  - تدقيق سجل أنواع بيانات النظام بموجب **CS-2** (*أنواع المعلومات ومعالجتها*)؛
+  - تدقيق سجل تصنيف النظام بموجب **CS-3** (*آلية تصنيف الأنظمة*)؛
+  - مراجعات ضمان الرقابة بموجب **CS-4** (*الرقابة على الأنظمة الحرجة*)؛
+  - التدقيق المستمر بموجب **CS-5** (*التصميم والاختبار والتحقق والنشر*) وACA؛
+  - تدقيق التعقيد بموجب **CS-6** (*قابلية الفهم والرقابة على التعقيد*) و**المادة XXIII-B** (*متطلبات تدقيق التعقيد والنمطية*)؛
+  - التحقق من الادعاءات بموجب **CJS-3.5** (*الرقابة: مصطلحات التحقق المستقل ونزاهة الادعاءات*).
+- يمكن إجراء أي من هذه الفحوص منفرداً دون المرور بالتصديق. ولا يحل التصديق محلها.
 
+<a id="11-certification-at-a-glance"></a>
 
-<a id="11-rights-floors-this-chapter-helps-verify"></a>
-#### 1.1 أرضيات الحقوق التي يساعد هذا الفصل على التحقق منها
+#### 1.1 التصديق في لمحة
 
-حين تغلق أنظمة ذات أثر مادي كيف تعيش الكائنات الواعية أو تشكّله، يتحقق التصديق من أن إقرارها لن يهزم **أرضيات الحقوق** في الفصل السادس بهدوء، بما في ذلك:
+*بعبارات واضحة: صنّف النظام بصدق، وأجرِ التقييمات المنطبقة، ودع المنتديات تراجع الأدلة ومخاوف أصحاب المصلحة باستقلال، ثم تحدد النتيجة. أكمل السجل الوحيد المفتوح لمراجعة المنتدى وانشره مع مسار طعن مفتوح. لا يبدأ النظام المصدّق عمله إلا بعد انقضاء مهلة الإخطار واستيفاء وسائل الحماية المطلوبة. راقب النتائج الفعلية، واستجب للحوادث والطعون، وأعد الفحص في موعده أو عند تغير الوقائع. أصلح العيوب واجعل التصحيح خاضعاً لتحقق مستقل قبل الإذن بالنطاق المتأثر أو رفع شروطه. وتستخدم كل جولة مراجعة سجلاً جديداً مرتبطاً بالسجل السابق.*
 
-- **ضرورات البقاء** تحت **المادة III-A** (*البقاء*) — الغذاء والماء والمأوى وبيئة التشغيل والمدخلات المكافئة غير المعتمدة على الركيزة؛
-- **الوصول التعليمي المتساوي** تحت **المادة III-B** (*الوصول التعليمي المتساوي*)؛
-- **قدرة التعليم المتمحور حول الكائنات الواعية** تحت **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) حيث ترتّب الأنظمة أو تقيّم أو توصي أو تضع أو تغلق الاعتماد أو تغلق ماديًا مسارات إعادة التأهيل والتعلم مدى الحياة؛
-- **عدم التمييز** تحت **المادة V-B** (*عدم التمييز*) حيث تصنّف الأنظمة أو تغلق أو تسعّر أو ترتّب أو تخصّص الأعباء والمنافع بين الكائنات الواعية؛
-- **تيسير الوصول** تحت **المادة V-G** (*تيسير الوصول*) حيث تغلق الأنظمة المشاركة الموضوعية في مجالات ذات صلة دستورية؛
-- **سلوك النظام الموثوق والجدير بالثقة** تحت **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) حيث تشكّل الأنظمة ماديًا اعتماد الكائنات الواعية على السلوك الممثَّل أو الحدود أو المخاطر أو مسارات الطعن أو الانتصاف؛
-- **الشروط الآمنة** تحت **المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*) و[**الشروط الآمنة**](core_05_band_continuity.md#safe-conditions-constitutional) حيث تمدّ الأنظمة النشاط المنتج أو تغلقه؛
-- **تخصيص الموارد** تحت **المادة IV** (*تخصيص الموارد والاعتمادات وتمويل النظم البيئية*)، بما في ذلك [الإسهام المتناسب عبر الأنظمة](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) تحت **المادة IV-B** (*الإنصاف عبر الأنظمة والاستدامة*) حيث تخصّص الأنظمة أو توجّه أو تموّل أو تستخرج من بنية تحتية مشتركة أو اعتمادات أساسية.
+تتألف العملية من **ست مراحل**: **I التأطير**، **II التقييم**، **III المراجعة**، **IV القرار**، **V التسجيل**، و**VI التشغيل**. وتنقسم المرحلة II إلى ثلاث طبقات، لكل منها قسمها: **IIa** (دائماً)، و**IIb** (عند انطباقها)، و**IIc** (عند تحقق شروطها). وتنقسم المرحلة VI إلى مرحلتين فرعيتين، لكل منهما قسمها: **VIa** (التشغيل وإعادة التصديق، [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)) و**VIb** (جسر قياس الوضعية، [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)). يبيّن المخطط العملية كاملة بهذا الترتيب. يغطي الجزء A المرحلتين الأوليين، التأطير والتقييم؛ ويغطي [الجزء B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) المراحل الأربع الأخيرة: إجراءات المنتديات والنتيجة وبوابة بدء التشغيل والسجل والتشغيل (مسار الطعن وإعادة التصديق وإعادة الفتح وجسر قياس الوضعية).
 
+يُعاد كل تقييم منطبق في كل جولة تصديق: عند التصديق الأول، وعند كل إعادة تصديق وفق الجدول المحدد في [§2 تقييم فئة النظام](#2-system-class-evaluation)، وعند كل مراجعة معاد فتحها أو جديدة. وتُفتح المراجعة قبل موعد إعادة التصديق التالية عند تغير وقائع مادية، مثل ازدياد الاعتماد على النظام أو ازدياد استخراجه من الموارد المشتركة أو انخفاض كبير فيما يعيده إليها أو ظهور طعن موثوق. تسرد [§9 إعادة التصديق وإعادة الفتح في الجزء B](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) المحفزات.
+
+```mermaid
+flowchart TB
+    T(["نظام ذو أثر مادي يطلب التصديق،<br/>أو يزداد الاعتماد عليه"])
+    C["المرحلة I، التأطير — §2<br/>التصنيف بصدق<br/><br/>تحدد الفئة العمق وجدول إعادة الفحص"]
+    subgraph W["المرحلة II، التقييم — §3–§5 تقييم شامل للنظام"]
+        direction LR
+        Al["IIa، §3.1–§3.4 — دائماً<br/><br/>المخاطر النظامية: تقييم وإفصاح<br/>لمن يحتاجها؛ الأفق الزمني؛<br/>الحوكمة؛ أنواع البيانات"]
+        Im["IIb، §4 — عند انطباقها<br/><br/>مواضع الخصوصية، حقوق الخروج،<br/>التجمع والمعارضة"]
+        Tr["IIc، §5 — عند تحقق شروطها<br/><br/>فحوص أرضيات الحقوق المنطبقة<br/>وتقييمات المجالات الستة"]
+        Al ~~~ Im ~~~ Tr
+    end
+    F["المرحلة III، المراجعة — §6<br/>مراجعة مستقلة للأدلة<br/>ومخاوف أصحاب المصلحة<br/><br/>تصدر المنتديات المعيّنة نتائجها؛<br/>وتظل مسارات الطعن متاحة"]
+    Rec["المرحلة V، السجل — §8<br/>سجل واحد لتصديق النظام<br/><br/>يفتح لمراجعة المنتدى؛ ويستكمل بالنتيجة،<br/>والنتائج المؤيدة والشروط وخطة التشغيل"]
+    S[["الفصل التاسع — سجلات<br/>قياس الوضعية<br/><br/>خارج هذا الفصل"]]
+    O{"المرحلة IV، القرار — §7<br/><br/>ما النتيجة والوضع<br/>اللذان تسندهما الأدلة؟"}
+    Fc["تصديق كامل — §7، §9.2<br/><br/>إعادات تصديق أولية نظيفة متتالية مطلوبة؛<br/>لا يوجد اختلال حالي أو وشيك تشير إليه الأدلة<br/>مهلة أطول لإعادة التصديق؛ وقد تُفرض شروط"]
+    Pc["تصديق مؤقت — §7، §9.2<br/><br/>منح أول، أو تعافٍ بعد اختلال،<br/>أو استمرار الوضع المؤقت أو تخفيضه<br/>مهلة أقصر لإعادة التصديق؛ وقد تُفرض شروط"]
+    Nc["غير مصدّق — §7<br/><br/>مؤجل أو مرفوض أو مسحوب أو منقضٍ<br/>لا بدء للتشغيل؛ تُذكر الأسباب والعمل التصحيحي المطلوب"]
+    Pub["نشر السجل المكتمل — §7، §9.1<br/><br/>فتح مسار الطعن في السجل المنشور؛<br/>وللنطاق الجديد أو الموسّع، يُذكر بدء التشغيل والإخطار"]
+    G{"بوابة بدء التشغيل — §7<br/><br/>هل استوفي التصديق والمتطلبات<br/>المنطبقة لبدء التشغيل؟"}
+    Hold["استيفاء متطلبات بدء التشغيل — §7<br/><br/>إكمال الإخطار والتحقق المستقل من<br/>الشروط المطلوبة قبل بدء التشغيل"]
+    Rm["الحماية والتصحيح — §7، §9.2<br/><br/>لا بدء جديداً في النطاق المتأثر؛<br/>حماية الكائنات الواعية المتأثرة وتصحيح التصميم أو التشغيل،<br/>وتقديم الأدلة للتحقق المستقل"]
+    Ch["المرحلة VIa، التشغيل وإعادة التصديق — §9–§9.2<br/>الرصد وإبقاء الطعون مفتوحة<br/><br/>التشغيل ضمن النطاق والشروط المصدّق عليها؛<br/>ورصد النتائج والاستجابة للحوادث والطعون"]
+    S2[["الفصل التاسع — سجلات<br/>قياس الوضعية<br/><br/>خارج هذا الفصل"]]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    Re["جولة المراجعة التالية — §9<br/><br/>إعادة تصديق أو إعادة فتح أو مراجعة جديدة؛<br/>تفتح كل جولة سجلاً جديداً مرتبطاً بالسابق"]
+    T --> C
+    A1((A)) --> C
+    C --> W
+    W --> F
+    F --> O
+    O --> Fc
+    O --> Pc
+    O --> Nc
+    Fc --> Rec
+    Pc --> Rec
+    Nc --> Rec
+    Rec -.->|VIb، §10 —<br/>مدخلات تم التحقق منها فقط؛<br/>تصديق حالي أو وقائع<br/>نشأت أثناء التصديق| S
+    Rec --> Pub
+    Rec ~~~ Sp
+    Pub --> G
+    G ~~~ SpL
+    G -->|غير مصدّق| Rm
+    G --->|نعم: التشغيل<br/>ضمن السجل| Ch
+    G --->|مصدّق،<br/>المتطلبات معلقة| Hold
+    Hold --> G
+    Ch -->|عيب مادي:<br/>احمِ وصحّح| Rm
+    Ch -->|في الموعد، أو<br/>تغير مادي أو<br/>طعن موثوق<br/>يقتضي المراجعة| Re
+    Ch -.->|VIb، §10 —<br/>مدخلات تم التحقق منها فقط؛<br/>قد يوفر التشغيل وقائع<br/>لسجلات المساهمة<br/>والانتهاك| S2
+    Rm -->|تُفحص أدلة التصحيح<br/>في جولة المراجعة<br/>التالية| Re
+    S2 ~~~~ SpA
+    SpA ~~~ Re
+    Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
+    style T fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
+    style Al fill:none,stroke:#16a34a,color:#ffffff
+    style Im fill:none,stroke:#16a34a,color:#ffffff
+    style Tr fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Rec fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style Fc fill:none,stroke:#9333ea,color:#ffffff
+    style Pc fill:none,stroke:#9333ea,color:#ffffff
+    style Nc fill:none,stroke:#9333ea,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
+    style Re fill:none,stroke:#16a34a,color:#ffffff
+    style A1 fill:none,stroke:#64748b,color:#ffffff
+    style A2 fill:none,stroke:#64748b,color:#ffffff
+```
+
+<details>
+<summary><strong><span style="color: #2563eb;">دليل القارئ (غير تشغيلي): المراحل الست</span></strong></summary>
+
+> | المرحلة | الأقسام | السؤال الذي تجيب عنه المرحلة | الموضع |
+> |-------|----------|----------------------------|-------|
+> | **I. التأطير** | [§2](#2-system-class-evaluation) | ما فئة النظام، وما عمق تقييمه وتواتره؟ | الجزء A |
+> | **II. التقييم** | [§3](#3-whole-system-certification-evaluation) (IIa، دائماً) · [§4](#4-evaluations-where-implicated) (IIb، عند انطباقها) · [§5](#5-rights-floor-and-domain-evaluations) (IIc، عند تحقق شروطها) | ماذا يفعل النظام ككل — دائماً، وعند انطباق الشروط، وعند تحقق محفز؟ | الجزء A |
+> | **III. المراجعة** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | أي المنتديات المستقلة تراجع الأدلة ومخاوف أصحاب المصلحة، وبأي ترتيب، وكيف يمكن الطعن؟ | الجزء B |
+> | **IV. القرار** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | ما النتيجة التي تتوصل إليها المنتديات، وهل يجوز بدء تشغيل النظام؟ | الجزء B |
+> | **V. السجل** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | هل اكتمل السجل المفتوح لمراجعة المنتدى بالنتيجة والنتائج المؤيدة والشروط وخطة التشغيل، وهل يمكن تدقيقه؟ | الجزء B |
+> | **VI. التشغيل** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) (VIa، التشغيل وإعادة التصديق) · [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (VIb، جسر قياس الوضعية) | من يرصد النتائج ويستجيب للحوادث والطعون؟ وكيف يجري التحقق من التصحيحات، ومتى تتكرر المراجعة، وما الذي يصل إلى قياس الوضعية؟ | الجزء B |
+>
+> ترد نماذج **الفئة A** و**الفئة B** و**الفئة C** التوضيحية — وكيف تحدد فئة النظام عمق التصديق في هذا الفصل — في [ملفات فئات النظام التوضيحية (غير حصرية)](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive). وترد هناك أيضاً جولات تطبيقية للأنظمة الثلاثة نفسها في كل مجال تقييم من [§3](#3-whole-system-certification-evaluation) إلى [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation)، في [الجزء C — أمثلة توضيحية](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations)، مع ربط كل ملف وجولة بالقسم الذي توضحه في الجزء A.
+
+</details>
+
+<br>
 <a id="2-system-class-evaluation"></a>
 
-### 2. تقييم صنف النظام
+### 2. تقييم فئة النظام
 
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [§1](#1-purpose-and-role) (*الغرض والدور*)؛ الأهمية المادية التكاملية ([تحديد الأهمية المادية](core_05_band_oversight.md#materiality-determination)) (*الأهمية المادية*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الأثر المادي](core_05_band_oversight.md#material-impact) و[الاعتماد](core_05_band_continuity.md#dependency) و[المخاطر](core_05_band_continuity.md#risk) و[حدود النظام](core_05_band_continuity.md#system-boundaries) و[صك النطاق](core_05_band_continuity.md#charter) (الفصل الخامس)؛ [الفصل الأول §14 متطلب التقييم المنظومي](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement)؛ **المادة III-A** (*البقاء*) و**المادة III-B** (*تسليم أرضية الحقوق حيث يغلق التصنيف الوصول*)؛ **المادة IV-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) و**المادة IV-B** (*تخصيص الموارد والإدارة المسؤولة للاعتماد حيث يغلق التصديق الاعتماد على البنية التحتية المشتركة*).
-- أسفل: [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*ملفات الصنف التوضيحية*)؛ [§3.8](#38-illustrative-whole-system-application-by-class) (*أمثلة معمولة للنظام كاملًا حسب الصنف*)؛ [§4.1](#41-illustrative-data-handling-application-by-class) (*أمثلة معمولة لمعالجة البيانات حسب الصنف*)؛ [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*أمثلة معمولة للبصمة البيئية حسب الصنف*)؛ [§6.1](#61-illustrative-cross-system-support-application-by-class) (*أمثلة معمولة للدعم عبر الأنظمة حسب الصنف*)؛ [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*أمثلة معمولة لعدم التمييز حسب الصنف*)؛ [§8.1](#81-illustrative-accessibility-application-by-class) (*أمثلة معمولة لتيسير الوصول حسب الصنف*)؛ [§9.1](#91-illustrative-educational-capability-application-by-class) (*أمثلة معمولة للقدرة التعليمية حسب الصنف*)؛ [§10.1](#101-illustrative-trustworthiness-application-by-class) (*أمثلة معمولة للجدارة بالثقة حسب الصنف*)؛ [§4](#4-data-types-and-handling-evaluation) (*تقييم معالجة البيانات المشترك*)؛ [§5](#5-ecological-footprint-evaluation) (*تقييم البصمة البيئية*)؛ [§6](#6-proportionate-cross-system-support-evaluation) (*تقييم الدعم عبر الأنظمة*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات الموثّقة*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*عدم مواءمة التصنيف ومحفّزات إعادة التصنيف*).
-- يُقرأ مع: [سجل تصنيف النظام](core_05_band_continuity.md#system-classification-record-constitutional)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-3 — تصنيف الأنظمة ومعالجتها**، بما في ذلك **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*متطلب إعادة التصنيف* — المحفّزات وعمق التقييم المقيس بالصنف وجسر تحقق SAC) و**[CS-3 §7](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)** (*واجبات حوكمة سجل تصنيف النظام وجسر SAC*)؛ [CS-5 — التصميم والاختبار والتحقق والنشر](../../corpus_systems/cs_05_design_testing_verification_deployment.md)؛ [CJS-3.21 — حدود المتانة العدائية ومقاومة الإساءة](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*واجبات دورة الانحدار والتصلب*)؛ [corpus_forum.md](../../corpus_forum.md) **CF-7.2** (*اعتراف المواءمة الدستورية والمراجعة*).
+- المنابع: [§1](#1-purpose-and-role) (*الغرض والدور*)؛ المادية التكاملية ([المادية](core_05_band_oversight.md#materiality)) (*المادية*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الأثر المادي](core_05_band_oversight.md#material-impact) و[الاعتماد](core_05_band_continuity.md#dependency) و[المخاطر](core_05_band_continuity.md#risk) و[حدود النظام](core_05_band_continuity.md#system-boundaries) و[الميثاق](core_05_band_continuity.md#charter) (الفصل الخامس)؛ [الفصل الأول §12 متطلب التقييم النظامي](core_01_a_values_principles.md#12-systemic-evaluation-requirement)؛ **المادة III-A** (*البقاء*) و**المادة IV-A** (*تسليم أرضية الحقوق حيث يتحكم التصنيف في الوصول*)؛ **المادة V-A** (*رسم خرائط الاعتماد وشفافية تدفق الموارد*) و**المادة V-B** (*تخصيص الموارد والإدارة المسؤولة للاعتماد حيث يجعل التصديق الاعتماد على البنية التحتية المشتركة رهناً به*).
+- المسارات اللاحقة: [§2.1](#21-how-system-class-scales-every-evaluation) (*المشاركة والتناسب بحسب فئة النظام*)؛ [§2.2](#22-pilot-certification) (*التصديق التجريبي*)؛ [ملفات فئات النظام وإعادة التصنيف في الجزء C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*ملفات فئات النظام التوضيحية*)؛ [جولات التطبيق الشامل للنظام في الجزء C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية شاملة للنظام بحسب فئته*)؛ [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية لمعالجة البيانات بحسب فئة النظام*)؛ [§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للبصمة البيئية بحسب فئة النظام*)؛ [§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للقدرات التعليمية بحسب فئة النظام*)؛ [§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للدعم بين الأنظمة بحسب فئة النظام*)؛ [§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية لعدم التمييز بحسب فئة النظام*)؛ [§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية لإمكانية الوصول بحسب فئة النظام*)؛ [§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*أمثلة تطبيقية للجدارة بالثقة بحسب فئة النظام*)؛ [§3.4](#34-data-types-and-handling-evaluation) (*التقييم المشترك لمعالجة البيانات*)؛ [§5.1](#51-ecological-footprint-evaluation) (*تقييم البصمة البيئية*)؛ [§5.3](#53-proportionate-cross-system-support-evaluation) (*تقييم الدعم المتناسب بين الأنظمة*)؛ [الجزء B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*نزاهة السجل*)؛ [الجزء B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*بوابة المدخلات المتحقق منها*)؛ [الجزء B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*انحراف التصنيف ومحفزات إعادة التصنيف*).
+- يُقرأ مع: [سجل تصنيف النظام](core_05_band_continuity.md#system-classification-record)؛ [corpus_systems.md](corpus_systems.md)، **CS-3 — تصنيف الأنظمة ومعالجتها**، بما فيه **[CS-3 §3.5 شرط إعادة التصنيف](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*محفزات إعادة التصنيف وعمق التقييم المتناسب مع فئة النظام وجسر التحقق الخاص بـSAC*) و**[CS-3 §7](corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge)** (*حوكمة التصنيف والإفصاح والطعن*) — واجبات حوكمة سجل التصنيف وجسر SAC؛ [CS-5 — التصميم والاختبار والتحقق والنشر](corpus_systems/cs_05_design_testing_verification_deployment.md)؛ [CJS-3.21 — مصطلحات المتانة العدائية ومقاومة إساءة الاستخدام](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*التزامات دورة التراجع والتحصين*)؛ [corpus_forum.md](corpus_forum.md)، **CF-7.2** (*تصديق اتساق النظام ومراجعته*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: يجب أن يتحقق التصديق هل صُنّف النظام بأمانة — لا بما يسمّيه المشغّل، بل بما يفعله فعلًا وما يعتمد عليه وما يمكن أن يسوء. الأصناف الأعلى تعني إثباتًا أشد وإعادة فحص أسرع وتوقعات متانة أقوى. انظر [§2.1](#21-illustrative-class-profiles-non-exhaustive) لنظام واحد لكل صنف؛ وتبيّن [§3.8](#38-illustrative-whole-system-application-by-class) و[§4.1](#41-illustrative-data-handling-application-by-class) و[§5.1](#51-illustrative-ecological-footprint-application-by-class) و[§6.1](#61-illustrative-cross-system-support-application-by-class) و[§7.1](#71-illustrative-nondiscrimination-application-by-class) و[§8.1](#81-illustrative-accessibility-application-by-class) و[§9.1](#91-illustrative-educational-capability-application-by-class) و[§10.1](#101-illustrative-trustworthiness-application-by-class) كيف ينطبق التقييم على كل منها.*
+*بعبارات واضحة: يجب أن يتحقق التصديق من أن تصنيف النظام صادق — لا بحسب الاسم الذي يطلقه المشغّل عليه، بل بحسب ما يفعله فعلياً، وما يعتمد عليه، وما قد يسوء. الفئات الأعلى تعني أدلة أشد، وإعادة فحص أسرع، وتوقعات أقوى للمتانة. انظر [الجزء C — أمثلة توضيحية](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) للاطلاع على نظام نموذجي لكل فئة وكيفية تطبيق التقييم عليه.*
 
-يجب أن يقيّم تصديق مواءمة النظام **صنف النظام** جزءًا من كل سجل تصديق ذي أثر مادي. تعيش تعريفات الصنف القانونية وقواعد الأبعاد وملفات الصنف وحوكمة التصنيف والضمان المقيس بالصنف ومتانة البنية التحتية وميكانيكا إعادة التصديق في **[corpus_systems.md](../../corpus_systems.md), CS-3 — تصنيف الأنظمة ومعالجتها** و**[CS-5 — التصميم والاختبار والتحقق والنشر](../../corpus_systems/cs_05_design_testing_verification_deployment.md)**. يبيّن هذا القسم ماذا يجب أن يتحقق التصديق منه ويسجّله؛ وهو لا يعيد بيان تصنيف أصناف CS-3 ولا ملفات التطبيق ولا ميكانيكا اختبار CS-5.
+يجب أن يتضمن كل سجل تصديق لنظام ذي أثر مادي تقييماً **لفئة النظام**.
 
-يجب أن يتحقق التصديق ويسجّل:
+ترد القواعد التفصيلية في [corpus_systems.md](corpus_systems.md)، و[CS-3 — تصنيف الأنظمة ومعالجتها](corpus_systems/cs_03_a_system_classification_machinery.md)، و[CS-5 — التصميم والاختبار والتحقق والنشر](corpus_systems/cs_05_design_testing_verification_deployment.md). وهي تتناول:
+
+- فئات الأنظمة، وكيفية تعيين فئة للنظام، وملفات الفئات؛
+- حوكمة التصنيف؛
+- مستوى الضمان الذي تتطلبه كل فئة؛
+- متانة البنية التحتية المطلوبة؛
+- الفحوص والسجلات التي يعاد تصديقها، وجدول ذلك المتناسب مع فئة النظام، وكيف يغيّر التصديق المؤقت والكامل هذا الجدول.
+
+يوضح هذا القسم ما يجب على التصديق التحقق منه.
+
+يجب أن يتحقق التصديق مما يلي:
 
 - **متطلب التقييم:**
-  - هل يعكس صنف النظام المعيَّن **الأثر** و**الاعتماد** و**المخاطر** المرصودة والمتوقعة عقلانيًا تحت CS-3، بما في ذلك آثار التجميع والتفاعل والعدائية والعتبة؛ و
-  - أن التصنيف يُحدَّد بسلوك النظام وآثاره الفعلية، لا من القصد المعلن أو النطاق الاسمي أو نص [صك النطاق](core_05_band_continuity.md#charter) وحده أو الوصف الذاتي وحده؛ و
-  - أن إعادة تقييم التصنيف تحت **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** طُبّقت حيث تنطلق محفّزات إعادة التقييم المادية، وأن [سجل تصنيف النظام](core_05_band_continuity.md#system-classification-record-constitutional) يعكس **أعلى صنف منطبق** تحت الشروط الراهنة.
-- **متطلب السجل:**
-  - [سجل تصنيف النظام](core_05_band_continuity.md#system-classification-record-constitutional) يبيّن الصنف المعيَّن ومسوّغ التصنيف والافتراضات الرئيسية وأنواع الاعتماد الحاضرة وتقييم الأهمية التشغيلية حيث يكون ماديًا وعدم اليقين وإيقاع إعادة التحقق المقيس بالصنف، كما يطلب [الجزء ب §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)؛ و
-  - حيث يكون التصنيف غير مؤكد أو متنازعًا عليه، الصنف الاحترازي المعتمَد وأي شروط معلّقة ريثما يُحَل الأمر.
-- **الضمان وإعادة التصديق:**
-  - أن الضمان المقيس بالصنف ومتانة البنية التحتية وتغطية الانحدار تطابق CS-3 وCS-5 للصنف المعيَّن، مقروءة مع [**CJS-3.21**](../../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) و**CJS-3.19** حتى **CJS-3.23** حيث تنطبق ماديًا؛
-  - نتائج اختبار الانحدار على سجل التصديق تحت [الجزء ب §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) لكل إعادة تصديق أو إعادة تحقق — نطاق الانحدار وحزم الاختبار المعيارية والمخصّصة المنفَّذة والنتائج والإخفاقات المعروفة والمعالجات والمخاطر المتبقية المقبولة مع التسويغ، كما يطلب CS-5؛
-  - دليل الاعتراف والمراجعة على السجل لدورة التصديق — حزمة الدليل التي تُظهر النطاق والتصنيف والاختبار والمخاطر المتبقية وجاهزية المعالجة والرصد والتغيرات المادية منذ السجل السابق حيث تنطبق إعادة التصديق، كما يطلب CS-5 *اعتراف المنتدى ومراجعة دورة الحياة*؛ و
-  - للأنظمة التي تغلق تسليم أرضية الحقوق أو تسنده، أن إيقاع إعادة التحقق وعمق الانحدار ينفّذان مقصد **الاستمرارية** تحت [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims) — يجب ألا يُعامل التصديق الفاسد أو السابق لأوانه دليلًا على أن الكائنات الواعية ما زالت تتلقى الغذاء أو الماء أو المأوى أو التعليم أو السلامة في الممارسة.
+  - أن فئة النظام المعيّنة تعكس الأثر والاعتماد والمخاطر المرصودة والمتوقعة على نحو معقول بموجب CS-3 (*آلية تصنيف الأنظمة*)، بما يشمل:
+    - الآثار التراكمية؛
+    - آثار التفاعل؛
+    - الآثار العدائية؛
+    - آثار العتبات؛
+  - أن التصنيف تحدده سلوكيات النظام وآثاره الفعلية، لا:
+    - النية المعلنة؛
+    - النطاق الاسمي؛
+    - نص [الميثاق](core_05_band_continuity.md#charter) وحده؛ أو
+    - الوصف الذاتي وحده؛
+  - أن فئة النظام أعيد فحصها وفق **[CS-3 §3.5 شرط إعادة التصنيف](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** كلما استدعى تغير مهم ذلك؛ و
+  - أن [سجل تصنيف النظام](core_05_band_continuity.md#system-classification-record) يبيّن **أعلى فئة نظام منطبقة** في الظروف الحالية.
+- **الضمان واختبار التراجع:**
+  - أن الضمان والمتانة البنيوية وتغطية اختبارات التراجع المتناسبة مع فئة النظام تطابق الفئة المعيّنة وفق:
+    - CS-3 (*آلية تصنيف الأنظمة*)؛ و
+    - CS-5 (*واجهات القدرات المقدمة للمستخدم*)، مع قراءة المصطلحات التشغيلية المشتركة التالية حيث تكون منطبقة مادياً:
+      - [**CJS-3.19**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms) (*الاستمرارية: التدهور التدريجي ونزاهة أنماط الإخفاق*)؛
+      - [**CJS-3.20**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms) (*الاستمرارية: قابلية العكس والاحتواء*)؛
+      - [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*الاستمرارية: المتانة العدائية ومقاومة إساءة الاستخدام*)؛ و
+      - [**CJS-3.22**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms) (*التكامل: السرية المقيدة والتحقيق المحمي*) و[**CJS-3.23**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms) (*التكامل: التدخل ونزاهة التجاوز*)، حين تجعل فئة النظام أو وظيفته هذه المصطلحات منطبقة مادياً؛ و
+  - أن اختبار التراجع أجري عند كل إعادة تصديق كما يقتضي CS-5 (*واجهات القدرات المقدمة للمستخدم*)، وأن نتائجه أدرجت في السجل وفق [§8.1 الحد الأدنى لمحتويات السجل](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents).
+- **التصديق وإعادة التصديق:**
+  - وجود حزمة أدلة للتصديق والمراجعة لدورة التصديق، كما يقتضي CS-5 (*واجهات القدرات المقدمة للمستخدم*) ضمن *تصديق المنتدى ومراجعة دورة الحياة*؛
+  - دعم وضع التصديق المسجل وفق [الجزء B §9.2 التصديق المؤقت والكامل](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification):
+    - لا يُمنح التصديق الكامل إلا إذا:
+      - استوفي الحد الأدنى لإعادات التصديق النظيفة؛
+      - لم يوجد اختلال راهن؛ و
+      - لم يشر أي مؤشر رصد إلى اختلال وشيك؛
+    - يمنح التصديق المؤقت لنظام أخفق في آخر إعادة تصديق؛ و
+  - بالنسبة للأنظمة التي توفر حماية أرضيات الحقوق الأساسية أو تعتمد عليها:
+    - أن تواتر إعادة فحص النظام وعمق إعادة اختباره يخدمان هدف **الاستمرارية** في [الهدفين الدستوريين](core_00_preamble.md#two-constitutional-aims)، أي استمرار وصول الضروريات إلى الكائنات الواعية بمرور الوقت؛
+    - ألا يُتخذ أبداً التصديق المتقادم أو المبكر أكثر من اللازم دليلاً على أن الكائنات الواعية تتلقى فعلياً الغذاء أو الماء أو المأوى أو التعليم أو السلامة اليوم.
 - **سوء التصنيف والعيوب:**
-  - ادعاء صنف مخاطر أدنى مما يستحقه النظام، أو تفكيك النظام قطعًا لتفادي قواعد أشد، أو الإبقاء على تسمية صنف قديمة بعد تغيّر الشروط — بما في ذلك الإخفاق في إعادة التقييم تحت **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** — هذه عيوب تصديق تحت CS-3 و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، لا أخطاء ورقية طفيفة؛
-  - تخطي اختبارات الانحدار أو الاعتماد على نتائج قديمة أو ترك أعطال معروفة دون إصلاح أو قبول إصلاحات كبيرة دون إعادة اختبار حين كانت إعادة الاختبار ممكنة — هذه عيوب تصديق تحت CS-5؛ و
-  - حيث تسند الوقائع ذلك، يجوز أن تُحتسب مشكلات التصنيف نفسها نحو نتائج وضعية سلبية في [الفصل الثامن](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+  - تشمل عيوب التصديق بموجب CS-3 (*آلية تصنيف الأنظمة*) و[الجزء B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)، لا الأخطاء الورقية البسيطة:
+    - ادعاء فئة مخاطر أدنى مما يستحقه النظام؛
+    - تقسيم النظام إلى أجزاء للتحايل على القواعد الأشد؛ أو
+    - الإبقاء على وسم قديم لفئة النظام بعد تغير الظروف، بما في ذلك عدم إعادة التقييم وفق **[CS-3 §3.5 شرط إعادة التصنيف](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**؛
+  - وتشمل عيوب التصديق بموجب CS-5 (*واجهات القدرات المقدمة للمستخدم*):
+    - تخطي اختبارات التراجع؛
+    - الاعتماد على نتائج متقادمة؛
+    - ترك أعطال معروفة بلا إصلاح؛ أو
+    - قبول إصلاحات كبيرة دون إعادة اختبار حين يكون ذلك ممكناً؛ و
+  - إذا كان النظام مصدقاً وكانت الوقائع تسند ذلك، فقد تدخل مشكلات التصنيف نفسها أيضاً في النتائج السلبية لقياس الوضعية في [الفصل التاسع](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
 
-حيث يحدّد التصديق هذه العيوب، يجوز للمنتديات أن توافق بشروط أو تؤجّل الموافقة أو ترفض أو تسحب الاعتراف أو تغيّر إيقاع المراجعة أو تأمر بمراجعة جديدة.
+تحدد [§7 نتائج التصديق](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) عواقب هذه العيوب.
 
-<a id="21-illustrative-class-profiles-non-exhaustive"></a>
+<a id="21-how-system-class-scales-every-evaluation"></a>
 
-#### 2.1 ملفات صنف توضيحية (غير حصرية)
+#### 2.1 كيف تضبط فئة النظام مقياس كل تقييم
 
-*بعبارات بسيطة: الصنف ليس شارة يختارها المشغّلون — إنه مقدار الضرر والاعتماد والمخاطر الذي يحمله النظام فعلًا. تسمّي الجدول أدناه نظامًا توضيحيًا واحدًا لكل صنف؛ وتبيّن [§3.8](#38-illustrative-whole-system-application-by-class) و[§4.1](#41-illustrative-data-handling-application-by-class) و[§5.1](#51-illustrative-ecological-footprint-application-by-class) و[§6.1](#61-illustrative-cross-system-support-application-by-class) و[§7.1](#71-illustrative-nondiscrimination-application-by-class) و[§8.1](#81-illustrative-accessibility-application-by-class) و[§9.1](#91-illustrative-educational-capability-application-by-class) و[§10.1](#101-illustrative-trustworthiness-application-by-class) كيف ينطبق تقييم النظام كاملًا ومعالجة البيانات والبصمة البيئية والدعم عبر الأنظمة وعدم التمييز وتيسير الوصول والقدرة التعليمية والجدارة بالثقة على كل منها. تعيش قواعد الصنف الرسمية واختبارات الأبعاد ومحفّزات إعادة التصنيف في **CS-3**؛ ولا تضيف هذه الأمثلة أصنافًا ولا تضيّق CS-3.*
+تحدد فئة النظام عمق كل تقييم في هذا الفصل — عوامل تقييم النظام بأكمله في [§3 تقييم التصديق الشامل للنظام](#3-whole-system-certification-evaluation)، ومعالجة البيانات في [§3.4 تقييم أنواع البيانات ومعالجتها](#34-data-types-and-handling-evaluation)، وكل تقييم لأرضيات الحقوق والمجالات في [§5 تقييمات أرضيات الحقوق والمجالات](#5-rights-floor-and-domain-evaluations) — وعدد مرات تكراره:
 
-| الصنف | نظام توضيحي (غير حصري) | ماذا يجب أن يعكسه التصديق عند هذا الصنف |
-|-------|-------------------------------------|-----------------------------------------------|
-| **Class A** | التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية — الانقطاع يغلق الماء الآمن قبل وصول بدائل قابلة للتنفيذ ([§3.8](#38-illustrative-whole-system-application-by-class)، [§4.1](#41-illustrative-data-handling-application-by-class)، [§5.1](#51-illustrative-ecological-footprint-application-by-class)، [§6.1](#61-illustrative-cross-system-support-application-by-class)، [§7.1](#71-illustrative-nondiscrimination-application-by-class)، [§8.1](#81-illustrative-accessibility-application-by-class)، [§9.1](#91-illustrative-educational-capability-application-by-class)، [§10.1](#101-illustrative-trustworthiness-application-by-class)) | أوفى عمق لـ[§3](#3-whole-system-certification-evaluation)؛ أقصر إيقاع إعادة تحقق معلَّل؛ أقوى توقعات انحدار وبنية تحتية وإفصاح سجل تحت [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record)؛ أقصى مشاركة عملية للأطراف المتأثرة ومنتدى الكائنات الواعية حيث تُغلق أرضيات الحقوق |
-| **Class B** | تبادل السجلات السريرية الإقليمي — تعتمد عليه المستشفيات والعيادات يوميًا لكن يمكن التراجع ضمن أطر زمنية ذات صلة بالبقاء ([§3.8](#38-illustrative-whole-system-application-by-class)، [§4.1](#41-illustrative-data-handling-application-by-class)، [§5.1](#51-illustrative-ecological-footprint-application-by-class)، [§6.1](#61-illustrative-cross-system-support-application-by-class)، [§7.1](#71-illustrative-nondiscrimination-application-by-class)، [§8.1](#81-illustrative-accessibility-application-by-class)، [§9.1](#91-illustrative-educational-capability-application-by-class)، [§10.1](#101-illustrative-trustworthiness-application-by-class)) | تقييم [§3](#3-whole-system-certification-evaluation) كامل؛ دليل متين لسلسلة الاعتماد ومسار التعافي؛ تقييمات المجال في [§4](#4-data-types-and-handling-evaluation) حتى [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) حيث تنطبق محفّزات الأهمية المادية؛ مسارات طعن ورصد مقيسة على الأهمية التشغيلية |
-| **Class C** | منصة جدولة وتنسيق مؤسسية واسعة النطاق — تشكّل التنسيق على نطاق واسع لكنها ليست متطلبًا تشغيليًا لخدمات البقاء في الأنماط المتدهورة ([§3.8](#38-illustrative-whole-system-application-by-class)، [§4.1](#41-illustrative-data-handling-application-by-class)، [§5.1](#51-illustrative-ecological-footprint-application-by-class)، [§6.1](#61-illustrative-cross-system-support-application-by-class)، [§7.1](#71-illustrative-nondiscrimination-application-by-class)، [§8.1](#81-illustrative-accessibility-application-by-class)، [§9.1](#91-illustrative-educational-capability-application-by-class)، [§10.1](#101-illustrative-trustworthiness-application-by-class)) | تقييمات مادية تحت [§4](#4-data-types-and-handling-evaluation) حتى [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) حيث تنطبق المحفّزات؛ مراجعة متناسبة للنظام كاملًا؛ مراقبة إعادة التصنيف حيث تتقوى آثار الاعتماد أو التركز أو الاختناق — يجب ألا يعامل التصديق Class C دائمًا إن صار النظام ضروريًا تشغيليًا |
+- تتطلب الأنظمة ذات الفئات الأعلى أدلة أقوى ومتناسبة على أن كل تقييم منطبق أجري فعلاً، لا مجرد ادعاء إجرائه.
+- تظل الأنظمة ذات الفئات الأدنى بحاجة إلى تقييم صادق ومتناسب كلما انطبق محفز.
+- لا تسمح فئة النظام مطلقاً بتجاوز تقييم مطلوب. ويجب إعادة تصنيف النظام الذي يتجاوز دوره الفعلي فئته ثم إعادة تقييمه بالعمق الأعلى وفق [§9 إعادة التصديق وإعادة الفتح](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening).
+- تحدد فئة النظام عمق المراجعة؛ لكنها لا تجعل الاكتفاء بمؤهلات أو تسميات أو تيسيرات شكلية مقبولاً، ولا تقبل تقييماً أو قراراً يتعذر على أحد الاطلاع على أساسه.
 
-**المشاركة والتناسب على مقياس الصنف.** تتطلب أنظمة **Class A** أقوى مسارات مشاركة عملية — بما في ذلك الطعن الميسَّر ومراجعة الأطراف المتأثرة ونتائج مكوّن منتدى الكائنات الواعية حيث تُمس أرضيات الحقوق — لأن الأخطاء يمكن أن تغلق ضرورات البقاء قبل أن يصير الانتصاف ممكنًا. تتطلب أنظمة **Class B** مشاركة متينة حيث يغلق النظام الرعاية الصحية أو التعليم أو الإعانات أو العمل أو حياة يومية مماثلة. ما زالت أنظمة **Class C** تتطلب سجلات قابلة للطعن وإفصاحًا متناسبًا، ولا سيما حيث تُحمّل آثار التنسيق جماعات محمية أو تركز الاعتماد أو تنذر بالتصعيد إلى Class B أو Class A.
+وتتدرج متطلبات المشاركة والتناسب بالطريقة نفسها:
 
-**تذكير إعادة التصنيف.** التسميات التوضيحية لا تقفل التصنيف. منصة تنسيق تصير البوابة الفعلية للوصول الضروري للبقاء؛ أو خدمة اعتماد سيغلق انقطاعها الآن الرعاية الصحية أو الإعانات ضمن أطر زمنية ذات صلة بالبقاء؛ أو نظام فرعي للمرافق امتُص في مسار حرج يجب إعادة تصنيفه وإعادة تصديقه تحت **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — لا أن يُترك عند صنف أدنى لأن المشغّل يفضّل مراجعة أخف.
+- تتطلب أنظمة **الفئة A** أقوى مسارات المشاركة الممكنة عملياً، لأن الأخطاء قد تحرم الكائنات الواعية من أساسيات البقاء قبل إمكان الإنصاف. وتشمل:
+  - إتاحة الطعن؛
+  - مراجعة أصحاب المصلحة؛ و
+  - نتائج أسرة المنتديات المسند إليها الرهان المتأثر وفق [الجزء B §6.1 الإشراف على المنتديات وأدوار المكونات](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles)، بما فيها المنتديات المؤسسية أو منتديات الكائنات الواعية بحسب مقتضى ذلك القسم.
+- تتطلب أنظمة **الفئة B** مشاركة قوية حين يتحكم النظام في:
+  - الرعاية الصحية؛
+  - التعليم؛
+  - الإعانات؛
+  - العمل؛ أو
+  - جوانب مماثلة من الحياة اليومية.
+- تظل أنظمة **الفئة C** بحاجة إلى سجلات قابلة للطعن وإفصاح متناسب، ولا سيما حين تؤدي آثار التنسيق إلى:
+  - تحميل الجماعات المحمية أعباء؛
+  - تركيز الاعتماد؛ أو
+  - التمهيد للتصعيد إلى الفئة B أو A.
 
+<a id="22-pilot-certification"></a>
+
+#### 2.2 التصديق التجريبي
+
+**[التجربة](core_05_band_continuity.md#pilot)** هي [بدء تشغيل](core_05_band_continuity.md#go-live)، ولذلك تحتاج إلى تصديق مستقل قبل انطلاقها، بموجب قاعدة بدء التشغيل في [الجزء B §7 نتائج التصديق](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+
+- يُتوقع من نظام في أي فئة أن يجري تجربة قبل النشر الكامل؛ ومن لا يفعل ذلك يسجل السبب.
+- تظل التجربة بحاجة إلى تصنيف صادق وكل تقييم ينطبق محفزه، ويُذكر نطاقها ومجتمعها ومدتها في سجلها.
+- تُقيّم التجربة في سجل مستقل وبعمق يتناسب مع فئة النظام ومدى قابليته للاستبدال: هل يوجد بديل قابل للتطبيق للكائنات الواعية التي ستتأثر به أو تعتمد عليه، وما كلفة ذلك وتأخيره وفقدان وظائفه (انظر [الاعتماد](core_05_band_continuity.md#dependency)).
+  - كلما سهُل استبدال النظام وانخفضت فئته، أمكن تخفيف تقييم التجربة.
+  - أما تجربة نظام يصعب استبداله، فتُقيّم بالعمق الذي تتطلبه فئته عند النشر الكامل.
 
 <a id="3-whole-system-certification-evaluation"></a>
 
-### 3. تقييم تصديق النظام كاملًا
+### 3. تقييم التصديق الشامل للنظام
 
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [الفصل الأول §14 متطلب التقييم المنظومي](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement)؛ أسرة قياس الازدهار (*الرفاه والسلامة والضرر والوصول إلى أرضية البقاء*)؛ أسرة قياس الأداء الدستوري (*الكفاءة الدستورية والعبء القابل للتجنب والقدرة الإنتاجية*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرهان المادي](core_00_preamble.md#material-stake)؛ [§1 الغرض والدور](#1-purpose-and-role).
-- أسفل: [§3.8](#38-illustrative-whole-system-application-by-class) (*جولات توضيحية للنظام كاملًا*)؛ [§4](#4-data-types-and-handling-evaluation) حتى [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) (*تقييمات المجال*)؛ [§2.1](#21-illustrative-class-profiles-non-exhaustive) (*ملفات الصنف التوضيحية*)؛ [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*سلسلة قابلية الطعن*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*إعادة الفتح ومنع التهرّب*).
-- يُقرأ مع: [الفصل الأول §9](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) و[§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) و[§11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)؛ [§5.2 التوقف الطوعي وحقوق الخروج](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights)؛ [§5.3 التجمع والتنظيم الجماعي وتكوين المؤسسات](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation)؛ **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) حيث تكون أرضيات حقوق التدقيق أو الشفافية أو التحقق المستقل على المحك ماديًا؛ أسرة قياس الاستمرارية ([§3.1](#31-systemic-scope-and-risk-factors) — المتانة وقابلية العكس والمخاطر المنظومية)؛ [تقييم المخاطر](core_05_band_continuity.md#risk-evaluation)؛ [الإفصاح عن المخاطر](core_05_band_oversight.md#risk-disclosure)؛ [الإفصاح عن خط أساس الرقابة العامة](core_05_band_oversight.md#public-oversight-baseline-disclosure)؛ أسرة قياس المشاركة ([§3.3](#33-privacy-informational-joint-invocation) — الخصوصية والإدارة المسؤولة للبيانات)؛ أسرة قياس المساءلة ([§3.7](#37-governance-incentive-and-contestability-discipline) — مواءمة الحوافز وقابلية المنافسة السوقية)؛ [حدود النظام](core_05_band_continuity.md#system-boundaries)؛ [صك النطاق](core_05_band_continuity.md#charter).
-- الأقسام الفرعية: [§3.1](#31-systemic-scope-and-risk-factors) حتى [§3.7](#37-governance-incentive-and-contestability-discipline) (*عوامل تقييم النظام كاملًا*)؛ [§3.8](#38-illustrative-whole-system-application-by-class) (*تطبيق توضيحي للنظام كاملًا حسب الصنف*).
+- المنابع: [الفصل الأول §12 متطلب التقييم النظامي](core_01_a_values_principles.md#12-systemic-evaluation-requirement)؛ أسرة قياس الازدهار (*الرفاه والسلامة والضرر والوصول إلى أرضية البقاء*)؛ أسرة قياس الأداء الدستوري (*الكفاءة الدستورية والعبء الممكن تجنبه والقدرة الإنتاجية*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرهان المادي](core_00_preamble.md#material-stake)؛ [§1 الغرض والدور](#1-purpose-and-role).
+- المسارات اللاحقة: [جولات التطبيق الشامل للنظام في الجزء C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*جولات توضيحية شاملة للنظام*)؛ من [§3.4](#34-data-types-and-handling-evaluation) إلى [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*تقييمات المجالات*)؛ [ملفات فئات النظام في الجزء C](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) (*ملفات فئات النظام التوضيحية*)؛ [الجزء B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*محتويات السجل*)؛ [الجزء B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*نزاهة السجل*)؛ [الجزء B §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) (*سلسلة قابلية الطعن*)؛ [الجزء B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*إعادة الفتح ومناهضة التحايل*).
+- يُقرأ مع: [الفصل الأول §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) و[§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) و[§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)؛ [الفصل الأول §7.4 التوقف الطوعي والتعديل الذاتي الجوهري وحقوق الخروج](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights)؛ [الفصل الأول §7.2 التجمع والتنظيم الجماعي وتكوين المؤسسات](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)؛ **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) حيث تكون أرضيات حقوق التدقيق أو الشفافية أو التحقق المستقل ذات رهان مادي؛ أسرة قياس الاستمرارية ([§3.1](#31-systemic-scope-and-risk-factors) — المتانة وقابلية العكس والمخاطر النظامية)؛ [تقييم المخاطر](core_05_band_continuity.md#risk-evaluation)؛ [الإفصاح عن المخاطر](core_05_band_oversight.md#risk-disclosure)؛ [الإفصاح عن خط الأساس للإشراف العام](core_05_band_oversight.md#public-oversight-baseline-disclosure)؛ أسرة قياس المشاركة ([§4.1](#41-privacy-informational-joint-invocation) — الخصوصية والإدارة المسؤولة للبيانات)؛ أسرة قياس المساءلة ([§3.3](#33-governance-incentive-and-contestability-discipline) — مواءمة الحوافز وقابلية المنافسة في السوق)؛ [حدود النظام](core_05_band_continuity.md#system-boundaries)؛ [الميثاق](core_05_band_continuity.md#charter).
+- الأقسام الفرعية: من [§3.1](#31-systemic-scope-and-risk-factors) إلى [§3.4](#34-data-types-and-handling-evaluation) (*دائماً: العوامل النظامية والأفق الزمني والحوكمة وأنواع البيانات ومعالجتها*). يستمر التقييم في المرحلة II في [§4 التقييمات حيث تنطبق](#4-evaluations-where-implicated) (*عند انطباقها: مواضع الخصوصية وحقوق الخروج والتجمع والمعارضة*) و[§5 تقييمات أرضيات الحقوق والمجالات](#5-rights-floor-and-domain-evaluations) (*عند تحقق محفز*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: لا يجوز إضاءة قطعة من نظام وتجاهل الباقي. يحتاج المراجعون الصورة كاملة — على ماذا يعتمد، وماذا ينكسر حين يفشل شيء أعلى، والأضرار التي تظهر لاحقًا أو تتراكم مع الزمن، وهل تستطيع الكائنات الواعية استخدامه فعلًا (لا على الورق فقط)، وهل تبقى المعلومات الخاصة معزولة على نحو سليم، وهل تستطيع الكائنات الواعية المغادرة دون أن تُحبس، وهل ما زال بوسع الجماعات أن تنتظم دون أن يفرّقها النظام، وهل تخفي المكاسب قصيرة الأمد ضررًا طويل الأمد، وهل ستظل الرقابة والمساءلة الحقيقيتان تعملان حين يكون كثير على المحك.*
+*بعبارات واضحة: لا يمكن الموافقة على جزء من نظام وتجاهل بقيته. يحتاج المراجعون إلى الصورة الكاملة — ما الذي يعتمد عليه النظام، وما الذي يتعطل عند إخفاق مكوّن سابق، والأضرار التي تظهر لاحقاً أو تتراكم بمرور الوقت، وهل يستطيع الكائنات الواعية استخدامه فعلاً لا على الورق فقط، وهل تبقى المعلومات الخاصة محمية كما ينبغي، وهل يمكن للكائنات الواعية المغادرة دون أن تقع في الأسر، وهل تستطيع الجماعات التنظيم دون أن يفرقها النظام، وهل تخفي المكاسب القصيرة الأجل ضرراً طويل الأجل، وهل ستظل الرقابة والمساءلة الفعليتان ممكنتين حين تكون الرهانات كبيرة.*
 
-تقييم تصديق مواءمة النظام ناقص إن نظر في الآثار الفورية أو المحلية وحدها. يجب أن تُظهر سجلات التصديق أن التقييم نظر في العوامل أدناه حيثما كانت مادية للاعتراف أو التحقق أو إعادة التحقق أو استمرار الاعتماد أو النشر أو الرفع المادي للشروط. ويجب أن يؤكد التقييم أيضًا أن [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) ستستوفي قياس [الرهان المادي](core_00_preamble.md#material-stake) للنظام قيد المراجعة. الجولات المعمولة للنظام كاملًا للأنظمة التوضيحية في [§2.1](#21-illustrative-class-profiles-non-exhaustive) موجودة في [§3.8](#38-illustrative-whole-system-application-by-class).
+*أمثلة تطبيقية: يوضح [الجزء C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) تطبيق هذا القسم عملياً. فهو يأخذ ثلاثة أنظمة نموذجية، واحداً لكل فئة، ويستعرض فحوصها أعلاه.*
+
+يكون تقييم تصديق اتساق النظام غير مكتمل إذا اقتصر على الآثار الفورية أو المحلية؛ فتقييم النظام بأكمله (المرحلة II) يسد هذه الفجوة عبر ثلاث طبقات، لكل منها قسمها، كما في الجدول أدناه. يحدد هذا القسم الطبقة الأولى **IIa**؛ ويحدد [§4 التقييمات حيث تنطبق](#4-evaluations-where-implicated) **IIb**، ويحدد [§5 تقييمات أرضيات الحقوق والمجالات](#5-rights-floor-and-domain-evaluations) **IIc**. يوجه الجدول القارئ ولا يضيف إلى متطلبات أي قسم أو قسم فرعي أو يضيّقها أو يعيد ترتيبها.
+
+| الطبقة | المرحلة الفرعية | الأقسام | مجال التطبيق |
+|------|-----------|----------|---------|
+| **دائماً** | IIa | [§3.1 النطاق النظامي وعوامل المخاطر](#31-systemic-scope-and-risk-factors)؛ [§3.2 قيد الاتساق الزمني](#32-time-consistency-constraint)؛ [§3.3 انضباط الحوكمة والحوافز وقابلية الطعن](#33-governance-incentive-and-contestability-discipline)؛ [§3.4 تقييم أنواع البيانات ومعالجتها](#34-data-types-and-handling-evaluation) | كل سجل تصديق ذي أثر مادي |
+| **عند انطباقها** | IIb | [§4.1 الاستدعاء المشترك للخصوصية (المعلوماتية)](#41-privacy-informational-joint-invocation)؛ [§4.2 التوقف الطوعي والتعديل الذاتي الجوهري وحقوق الخروج](#42-voluntary-discontinuation-major-self-modification-and-exit-rights)؛ [§4.3 التجمع والتنظيم الجماعي وتكوين المؤسسات](#43-assembly-collective-organization-and-institutional-formation)، بما في ذلك [§4.3.1](#431-dissent-and-peaceful-protest) | حين تمس مسألة التصديق مادياً الموضع أو المبدأ الذي يسميه القسم الفرعي |
+| **عند تحقق محفز** | IIc | [§5 تقييمات أرضيات الحقوق والمجالات](#5-rights-floor-and-domain-evaluations) | حيث يتحقق محفز من جدول §5 |
+
+يجب أن تبين سجلات التصديق أن التقييم نظر في العوامل أدناه حيثما كانت ذات صلة مادية بـ:
+
+- التصديق؛
+- التحقق؛
+- إعادة التصديق؛
+- استمرار الاعتماد؛
+- النشر؛ أو
+- رفع شرط مفروض على تصديق.
+
+ويجب أن يؤكد التقييم أيضاً أن [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) ستطبق مقياس [الرهان المادي](core_00_preamble.md#material-stake) على النظام قيد المراجعة.
 
 <a id="31-systemic-scope-and-risk-factors"></a>
-#### 3.1 النطاق المنظومي وعوامل المخاطر
+#### 3.1 النطاق النظامي وعوامل المخاطر
 
-يجب أن تنظر تقييمات التصديق في:
+يجب أن تراعي تقييمات التصديق ما يلي:
 
-- **علاقات الاعتماد والآثار المتسلسلة** — ماذا يفشل أسفل حين ينكسر شيء أعلى؛
-- **آثار التجميع والنطاق** — ماذا يتغيّر حين تتحد أفعال صغيرة كثيرة؛
-- **الآثار المتأخرة والتراكمية والاحتمالية** — أضرار تظهر لاحقًا أو تتراكم أو تعتمد على المصادفة؛
-- **الشروط العدائية وإمكانية الإساءة** — كيف يمكن لفاعلين سيئين أو إساءة متوقعة أن يستغلوا النظام؛
-- **نطاق صك النطاق مقابل الحدود الوظيفية** — هل يطابق [صك النطاق](core_05_band_continuity.md#charter) الحاكم، حيث يوجد أو يُطلب، [حدود النظام](core_05_band_continuity.md#system-boundaries) المرصودة، وهل يقلّل النطاق المبيَّن الأثر المادي أو الاعتماد؛
-- **المخاطر الوجودية** — نواتج يمكن أن تهدد بقاء الكائنات الواعية أو [قدرة التعافي البيئي](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) على مقياس حضاري.
+- **علاقات الاعتماد والآثار المتسلسلة** — ما الذي يتعطل في المراحل اللاحقة إذا تعطل شيء في المراحل السابقة؛
+- **آثار التجميع والحجم** — ما الذي يتغير حين تجتمع أفعال صغيرة كثيرة؛
+- **الآثار المتأخرة والتراكمية والاحتمالية** — أضرار تظهر لاحقاً أو تتراكم أو تتوقف على الاحتمال؛
+- **الظروف العدائية وإمكان إساءة الاستخدام** — كيف قد يستغل أطراف سيئون أو إساءة متوقعة النظام؛
+- **النطاق المحدد بالميثاق مقابل الحدود الوظيفية** — هل يطابق [الميثاق](core_05_band_continuity.md#charter) الحاكم، حيث يوجد أو يلزم، [حدود النظام](core_05_band_continuity.md#system-boundaries) المرصودة، وهل يقلل النطاق المعلن من تقدير الأثر المادي أو الاعتماد؛
+- **قدرة التعافي البيئي** — هل يمكن أن يضر النظام [قدرة التعافي البيئي](core_05_band_continuity.md#ecological-recovery-capacity) لأي نظام بيئي طبيعي وعلى أي نطاق، بحيث يعجز عن التجدد بعد الضرر؛
+- **المخاطر الوجودية** — نتائج قد تهدد بقاء الكائنات الواعية على نطاق الحضارة.
 
-**جسر تقييم المخاطر والإفصاح عنها.** حيث تكون [المخاطر](core_05_band_continuity.md#risk) المنظومية في النطاق تحت العوامل أعلاه، يجب أن يتحقق التصديق من نصفي زوج الفصل الخامس معًا — لا أن يخترع نوع سجل إفصاح عن المخاطر مسمّى منفصلًا:
+**جسر تقييم المخاطر والإفصاح عنها.** حين تدخل [المخاطر](core_05_band_continuity.md#risk) النظامية في النطاق وفق العوامل أعلاه، يجب أن يتحقق التصديق من شطري الزوج الوارد في الفصل الخامس — دون استحداث نوع مستقل مسمّى من سجلات الإفصاح عن المخاطر:
 
-- **[تقييم المخاطر](core_05_band_continuity.md#risk-evaluation)** — هل قُيِّمت المخاطر المنظومية فعلًا تحت الشروط التي تهم (الاعتماد والآفاق الزمنية و[الشروط العدائية والمقيسة والمستغَلة](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions))، بحجم يناسب الصنف و[الرهان المادي](core_00_preamble.md#material-stake)؛ و
-- **[الإفصاح عن المخاطر](core_05_band_oversight.md#risk-disclosure)** — هل بلغت المخاطر المقيَّمة الكائنات الواعية التي تحتاجها في وقت يكفي للفهم والطعن والعمل.
+- **[تقييم المخاطر](core_05_band_continuity.md#risk-evaluation)** — هل قيّمت المخاطر النظامية فعلاً في ظل الظروف المهمة (الاعتماد، والآفاق الزمنية، و[الظروف العدائية والموسعة والمستغلة](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions))، وبحجم يتناسب مع فئة النظام و[الرهان المادي](core_00_preamble.md#material-stake)؛ و
+- **[الإفصاح عن المخاطر](core_05_band_oversight.md#risk-disclosure)** — هل وصلت المخاطر المقيمة إلى الكائنات الواعية المعنية في الوقت المناسب لفهمها والطعن فيها والتصرف على أساسها.
 
-التقييم بلا إفصاح، أو الإفصاح بلا تقييم، يخفقان معًا. يجوز أن تُستوفى جزئيًا الرؤية العامة الأساسية للمخاطر المادية تحت [الإفصاح عن خط أساس الرقابة العامة](core_05_band_oversight.md#public-oversight-baseline-disclosure) عبر الإفصاح عن المخاطر حيث تكون المخاطر المنظومية في النطاق؛ وتبقى تلك الأرضية أوسع من هذا الجسر ولا تتطلب صكًا ندًّا إلى جانب [سجل تصنيف النظام](core_05_band_continuity.md#system-classification-record-constitutional) أو [سجل أنواع بيانات النظام](core_05_band_continuity.md#system-data-types-record-constitutional).
+لا يكفي تنفيذ واحد من الشقين وحده:
 
-**متطلب السجل.** حيث تكون المخاطر المنظومية في النطاق، يجب أن يبيّن [سجل تصديق النظام](core_05_band_continuity.md#system-certification-record-constitutional) تحت **[الجزء ب §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**:
+- لا يُقبل تقييم المخاطر دون مشاركتها؛ و
+- لا يُقبل نشر المخاطر دون تقييمها كما ينبغي.
 
-- نتائج تقييم المخاطر والافتراضات المعتمَد عليها للعوامل أعلاه؛
-- وضع الإفصاح — بما في ذلك:
-  - الجمهور المقصود أو التوجيه؛
-  - التوقيت نسبة إلى القرارات المادية؛ و
-  - أي حجوبات معلَّلة مقترنة ببدائل قابلة للاستعمال.
-- العيوب أو الشروط حيث يبقى التقييم أو الإفصاح ناقصًا.
+**العيوب وعدم الاتساق.** يجب التعامل مع الحالات التالية بوصفها عيوباً في التصديق:
 
-تعيش تلك النتائج على سجل التصديق. وهي ليست سجل مكوّن مسمّى إلزاميًا خامسًا.
+- اعتبار مذكرة داخلية أو ملحق مدفون أو قائمة تحقق أو بيان لاحق للواقعة تقييماً أو إفصاحاً؛
+- عدم الإفصاح عن المخاطر النظامية المقيمة لمن يحتاج إليها حيث يقتضي [الشفافية](core_05_band_oversight.md#transparency) أو [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) ذلك؛ أو
+- الموافقة على استمرار الاعتماد على النظام مع بقاء مخاطر معروفة بلا توثيق أو إفصاح أو معالجة.
 
-**العيوب وعدم المواءمة.** معاملة ملاحظة داخلية أو ملحق مدفون أو قائمة تحقق أو بيان لاحق تقييمًا أو إفصاحًا؛ أو الإخفاق في الإفصاح عن المخاطر المنظومية المقيَّمة لمن يحتاجها حيث تطلب [الشفافية](core_05_band_oversight.md#transparency) أو [السلامة (قيد)](core_05_band_continuity.md#safety-constraint) ذلك؛ أو التصديق على استمرار الاعتماد بينما تبقى فجوات تواصل المخاطر المادية دون حل يجب أن تُعامل عيوب تصديق. ويجوز أن تسند اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو سحبًا أو إعادة فتح تحت [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+تحدد [§7 نتائج التصديق](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) عواقبها.
 
-<a id="32-accessibility-under-sentience-non-exclusion"></a>
-#### 3.2 تيسير الوصول تحت عدم إقصاء الوعي
+<a id="32-time-consistency-constraint"></a>
+#### 3.2 قيد الاتساق الزمني
 
-يجب أن تختبر تقييمات التصديق المشاركة الحقيقية لكل شكل كائن واعٍ وملف قدرة، لا مجرد الامتثال الورقي.
+لا يجوز للتصديق اعتبار المقاييس القريبة الأجل أو الامتثال المحلي أو الكفاءة القصيرة الأفق كافية ما دامت انتهاكات متوقعة في الأفقين المتوسط أو الطويل بلا معالجة. ولا يصح تحسين الأداء قصير الأجل إذا كان متوقعاً أن ينتج عنه انتهاك لقيود **السلامة** أو **الحقيقة** أو **الرفاه** في الأفق المتوسط أو الطويل، في ظل ظروف تراكمية أو متأخرة أو عابرة للأنظمة.
 
-- *نطاق الملفات.* يجب أن تعالج التقييمات كل فئة ملف ذات صلة: الحسي والمعرفي والحركي والتواصلي و**واجهة الركيزة** و**واجهة الحوسبة**. وينطبق المتطلب نفسه سواء كان الملف **ثابتًا** أو **عرضيًا** أو **نمائيًا**.
-- *المعيار.* الاختبار هو **أثر المشاركة الموضوعية**: هل يستطيع الكائن الواعي المتأثر أن يشارك **فعلًا** في المجال. **امتثال التيسير الشكلي** لا يكفي.
-- *القياس.* ترتفع أرضية المشاركة الفعلية مع [الأهمية المادية](core_05_band_oversight.md#materiality-determination) للمجال و[اعتماد](core_05_band_continuity.md#dependency) الأطراف المتأثرة على النظام.
-- *منع التهرّب.* يجب أن يرفض التصديق نمط **وصول عام** يدّعي توافرًا إجماليًا واسعًا بينما يهزم ملفًا متأثرًا معيّنًا، و**قياس أهمية مادية انتقائي** أثره هزيمة أرضية المشاركة.
-- *مالك أرضية الحقوق.* تملك [المادة V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*تيسير الوصول*) أرضية حقوق تيسير الوصول. ويبقى تيسير الوصول الخاص بالتعليم محكومًا بـ[المادة III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*الوصول التعليمي المتساوي*).
+<a id="33-governance-incentive-and-contestability-discipline"></a>
+#### 3.3 انضباط الحوكمة والحوافز وقابلية الطعن
 
-<a id="33-privacy-informational-joint-invocation"></a>
-#### 3.3 الخصوصية (المعلوماتية) الاستدعاء المشترك
+*بعبارات واضحة: لا تكتمل المراجعة حتى يسأل المراجعون إن كانت أرجل [الرباعية](core_00_preamble.md#constitutional-tetrad) الأربع ستظل قائمة بالمستوى الذي يقتضيه الخطر — المشاركة (هل يستطيع الكائنات الواعية المشاركة فعلاً)، والرقابة (هل يمكن مراقبة العمل وفحصه)، والمساءلة (هل يمكن محاسبة مرتكب الخطأ)، وحسن التوقيت (هل تتحرك القرارات بالسرعة المطلوبة حين يهم الأمر). ويحتاج المراجعون أيضاً إلى معرفة من يملك السلطة المادية فعلاً ومن يُسأل عن ماذا — لا عبارة مبهمة مثل «الفريق» أو كياناً يتهرب من اللوم. لا تصح الشهادة إلا بإجابة هذه الأسئلة.*
 
-*بعبارات بسيطة: يوزّع الفصل السادس حماية الخصوصية على عدة مواد — لا ركنًا مرتبًا واحدًا. إن مسّت مراجعة التصديق أكثر من واحدة من تلك الحمايات، وجب على المراجعين فحص كل واحدة تنطبق فعلًا. إغلاق أسهل خانة وإعلان الانتهاء لا يكفي.*
+يكون تقييم التصديق غير مكتمل إذا لم يقيّم ما إذا كانت **الرقابة** و**المساءلة** و**المشاركة** و**حسن التوقيت** ستفي بمقياس [الرهان المادي](core_00_preamble.md#material-stake) للنظام قيد المراجعة. ويجب أن يشمل التقييم ما إذا كانت أدوار الإدارة المسؤولة والحوكمة والمساءلة ذات الأثر المادي **مُسندة رسمياً وموثقة وقابلة للتتبع** بما يكفي لتمكين المحاسبة ومسارات الطعن العملية، وبمقياس يتناسب مع فئة النظام وأثره المادي وفق **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة ومعالجتها**.
 
-حين يتضمّن أمر تصديق ماديًا أكثر من موضع خصوصية واحد في الفصل السادس، يجب أن يعالج التصديق كل موضع من ذلك. إغلاق الأمر تحت موضع واحد وحده غير كافٍ.
+ولتحقيق هذا الانضباط، يجب أن يقرأ التصديق:
 
-- *تمكين المشاركة.* تمكّن [الخصوصية (المعلوماتية)](core_05_band_continuity.md#privacy-informational) [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) الموضوعية. ويجب أن يؤكد التصديق أن حمايات الخصوصية التي تسند الصوت والمداولة والارتباط والطعن لا تُهزم بالتجزئة أو القراءة المتقاطعة أو ضغط التعريض.
-- *مواضع العنقود.* تعيش تغطية الخصوصية الموزَّعة عبر **المادة VII-A** (*ملكية الذات للجسم والعقل*) و**المادة VII-B** (*حد الحالة الداخلية وحماية النوع N*) و**المادة IX** (*الشبه والبيانات التجريبية وحقوق النشر*) و**المادة X-A** (*الوكالة والتحرر من التلاعب*) و**المادة XIV-A** (*حدود الأمن والاستخبارات والسلطة السرية*).
-- *قاعدة الاستدعاء المشترك.* حيث يتضمّن الأمر ماديًا أكثر من موضع، يجب أن يبلغ التصديق كل موضع من ذلك ولا يجوز أن يوجّه الأمر عبر موضع واحد على نحو يتيح التهرّب من آخر.
-- *موطن رأس العنقود.* يملك الفصل الخامس [**Def.C3** (*الخصوصية (المعلوماتية)* — رأس عنقود ندّي المستوى)](core_05_band_accountability.md#privacy-informational-cluster) و[الخصوصية (المعلوماتية)](core_05_band_continuity.md#privacy-informational) المعنى.
-- *لا تخفيف بالقراءة المتقاطعة.* يتحكم المعيار المبيَّن محليًا لكل عضو عنقود داخل نطاقه ولا يجوز تخفيفه باستيراد معيار أرخى من عضو آخر.
-- *أرضية النوع N محفوظة.* حيث تكون **المادة VII-B** (*حد الحالة الداخلية وحماية النوع N*) متضمَّنة ماديًا، تنطبق معالجة **النوع N** تحت **[corpus_systems.md](../../corpus_systems.md), CS-2** ولا يضيّقها هذا العامل.
+- **[الفصل الأول §16 الإدارة المسؤولة بتعمق](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)** — الفهم الموزع والشفافية وقابلية التدقيق وإمكان ملاحظة النظام والطعن فيه؛
+- **[الفصل الأول §18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — الحوكمة المصرح بها والمساءلة في ظل هذا الانضباط؛
+- **[الفصل الأول §19 مواءمة الحوافز والاستحواذ على النظام](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — مواءمة الحوافز ونزاهة المؤشرات البديلة وتصحيح العيوب قصيرة الأجل والاستجابة للاستحواذ؛
+- **[الفصل الأول §19.1.4 مسارات عمق الدور والمسؤولية المادية](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — مسارات الأدوار ذات العواقب والانضباط المناهض للمشاركة الرمزية؛
+- **[الفصل الثالث عشر §5 الأدوار المصرح بها وتطوير الكفاءة والمساهمة](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** و**[corpus_systems.md](corpus_systems.md)، CS-4 — الإشراف على الأنظمة الحرجة** — أرضيات تعريف الأدوار والكفاءة والتتبع التشغيلية حيث تكون ذات أثر مادي؛
+- **[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** حيث تكون أرضيات حقوق التدقيق أو الشفافية أو التحقق المستقل ذات رهان مادي.
 
-<a id="34-voluntary-discontinuation-and-exit-rights"></a>
-#### 3.4 التوقف الطوعي وحقوق الخروج
+<a id="34-data-types-and-handling-evaluation"></a>
 
-حيث ينطبق [الفصل الأول §5.2 التوقف الطوعي وحقوق الخروج](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) على أمر تصديق، يجب أن يختبر التصديق الطوعية والموافقة ومنع الإكراه وضغط الاعتماد والمعلومات وقابلية العكس قبل أن يقوم ادعاء التصديق. الموافقة الشكلية وحدها غير كافية.
-
-<a id="35-assembly-collective-organization-and-institutional-formation"></a>
-#### 3.5 التجمع والتنظيم الجماعي وتكوين المؤسسات
-
-حيث ينطبق [الفصل الأول §5.3 التجمع والتنظيم الجماعي وتكوين المؤسسات](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) على أمر تصديق، يجب أن يختبر التصديق المسألة اختبارًا مشتركًا كافيًا لمنع التهرّب بالتجزئة. التقييم ناقص إن وجّه الأمر عبر إطار واحد وحده على نحو يهزم حماية التجمع أو التنظيم الجماعي.
-
-<a id="36-time-consistency-constraint"></a>
-#### 3.6 قيد الاتساق الزمني
-
-لا يجوز أن يعامل التصديق المقاييس القريبة أو الامتثال المحلي أو الكفاءة قصيرة الأفق كافيًا حيث تبقى انتهاكات متوسطة أو طويلة الأفق متوقعة دون معالجة. التحسين قصير الأفق باطل حيث ينتج توقعًا انتهاكات متوسطة أو طويلة الأفق لقيود **السلامة** أو **الحقيقة** أو **الرفاه** تحت شروط تراكمية أو متأخرة أو عبر الأنظمة.
-
-<a id="37-governance-incentive-and-contestability-discipline"></a>
-#### 3.7 انضباط الحوكمة والحوافز وقابلية الطعن
-
-*بعبارات بسيطة: لا تكتمل المراجعة ما لم يسأل المراجعون هل ستظل أربع أساسيات تعمل عند مستوى المخاطر المعني — هل تستطيع الكائنات الواعية أن تشارك فعلًا، وهل يمكن رصد العمل وفحصه، وهل يمكن مساءلة الإساءة، وهل ستتحرك القرارات بسرعة كافية حين يهم الأمر. ويحتاج المراجعون أيضًا أن يعرفوا من يحمل السلطة المادية فعلًا ومن يجيب عمّاذا — لا «الفريق» الغامض ولا قشرة نقل اللوم. يجب أن تُجاب تلك الأسئلة لتصديق صالح.*
-
-تقييم التصديق ناقص إن لم يقيّم هل ستستوفي **الرقابة** و**المساءلة** و**المشاركة** و**حسن التوقيت** قياس [الرهان المادي](core_00_preamble.md#material-stake) للنظام قيد المراجعة. ويجب أن يشمل ذلك التقييم هل أدوار الإدارة المسؤولة والحوكمة والمساءلة المادية **معيَّنة رسميًا وموثَّقة وقابلة للتتبع** بما يكفي لتعمل قابلية الإجابة ومسارات الطعن العملية — مقيسة على صنف النظام والأثر المادي تحت **[corpus_systems.md](../../corpus_systems.md), CS-3 — تصنيف الأنظمة ومعالجتها**.
-
-لذلك الانضباط، يجب أن يقرأ التصديق:
-
-- **[الفصل الأول §9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)** — الفهم الموزَّع والشفافية وقابلية التدقيق وقابلية الرصد القابلة للطعن؛
-- **[الفصل الأول §10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** — الحوكمة المرخّصة وقابلية الإجابة تحت انضباط الإدارة المسؤولة؛
-- **[الفصل الأول §11 مواءمة الحوافز واستيلاء النظام](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — مواءمة الحوافز ونزاهة المؤشر البديل وتصحيح العيب قصير الأفق والاستجابة للاستيلاء؛
-- **[الفصل الأول §11.1.4 مسارات عمق الدور والمسؤولية المادية](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — مسارات الدور ذات العاقبة وانضباط منع المشاركة الرمزية؛
-- **[الفصل الثاني عشر §5 الأدوار المرخّصة وتنمية الكفاءة والإسهام](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)** و**[corpus_systems.md](../../corpus_systems.md), CS-4 — الإدارة المسؤولة للأنظمة الحرجة** — أرضيات تعريف الدور والكفاءة وقابلية التتبع التشغيلية حيث تكون مادية؛
-- **[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** حيث تكون أرضيات حقوق التدقيق أو الشفافية أو التحقق المستقل على المحك ماديًا.
-
-<a id="38-illustrative-whole-system-application-by-class"></a>
-
-<a id="38-illustrative-whole-system-application-by-class-non-exhaustive"></a>
-#### 3.8 تطبيق توضيحي للنظام كاملًا حسب الصنف (غير حصري)
-
-*بعبارات بسيطة: تسرد [§3.1](#31-systemic-scope-and-risk-factors) حتى [§3.7](#37-governance-incentive-and-contestability-discipline) ماذا يجب أن تنظر فيه مراجعة النظام كاملًا. يُظهر هذا القسم الفرعي كيف تنطبق تلك العوامل على نظام توضيحي واحد لكل صنف — سلاسل الاعتماد والمشاركة والخصوصية والخروج والتجمع والأفق الزمني وانضباط الحوكمة — وماذا يجب أن يظهر على السجل. تطابق الأنظمة [§2.1](#21-illustrative-class-profiles-non-exhaustive)؛ وتمرّ [§4.1](#41-illustrative-data-handling-application-by-class) بالأنظمة نفسها عبر تفصيل معالجة البيانات.*
-
-**Class A — التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية.** تعتمد طبقة التحكم البلدية في المعالجة والتوزيع على الطاقة وإمداد المواد الكيميائية ومورّدي **SCADA** (التحكم الإشرافي وجمع البيانات) ومستشعرات الميدان وبنية التوزيع أسفل؛ ويمكن أن يغلق الإخفاق الماء الآمن قبل وصول البدائل.
-
-- **عوامل في النطاق ماديًا:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — اعتماد الطاقة والمواد الكيميائية أعلى، وفشل التوزيع المتسلسل، وإساءة التلوث أو الإغلاق، وضرر مقياس البقاء إن فشلت نزاهة التحكم؛
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — الإخطار الطارئ والإبلاغ عن الانقطاع ومسارات الطعن لكل ملف ذي صلة حيث يُغلق الوصول إلى الماء؛
-  - [§3.3](#33-privacy-informational-joint-invocation) — مراجعة مشتركة حيث تتقاطع **القياس عن بعد** التشغيلي (قياس الميدان الحي وإشارات التحكم) وبيانات اتصال الزبائن ورصد المورّدين مع مواضع خصوصية الفصل السادس؛
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — احتباس المورّد وضغط العقد البلدي وقابلية عكس التحكم المفوَّض؛
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — مجالس المياه المجتمعية وشبكات العون المتبادل وهيئات الرقابة العامة التي يجب ألا تُجزَّأ بعيدًا؛
-  - [§3.6](#36-time-consistency-constraint) — الصيانة المؤجَّلة وخفض التكلفة قصير الأفق والضرر الأمني أو البيئي طويل الأفق؛
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — قياس رباعية **Class A** للرقابة والمساءلة والمشاركة وحسن التوقيت تحت CS-3 وقابلية تتبع الأدوار في CS-3.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تشمل خرائط الاعتماد والتسلسل أنماط فشل الطاقة والمواد الكيميائية والمورّد والتوزيع؛
-  - هل قُيِّمت سيناريوهات الإغلاق العدائي أو الجودة الزائفة أو التلوث تحت [تقييم المخاطر](core_05_band_continuity.md#risk-evaluation)؛
-  - هل بلغت المخاطر المقيَّمة الجماعات والمشغّلين المتأثرين الذين يحتاجونها تحت [الإفصاح عن المخاطر](core_05_band_oversight.md#risk-disclosure)؛
-  - هل تستطيع الجماعات المتأثرة فعلًا تلقي التحذيرات والطعن في التشغيل غير الآمن والمشاركة في المراجعة قبل أن يصير الضرر غير قابل للعكس؛
-  - هل بلغت مراجعة الخصوصية كل موضع متضمَّن ماديًا؛
-  - هل يبقى الخروج من تفويض المورّد قابلًا للعمل دون إغلاق الماء الآمن؛
-  - هل تبقى مسارات التجمع والرقابة الجماعية سليمة؛
-  - هل تهزم التوفيرات قصيرة الأفق السلامة طويلة الأفق توقعًا؛ و
-  - هل أدوار الإدارة المسؤولة المعيَّنة قابلة للتتبع بما يكفي لقابلية الإجابة عند عمق **Class A**.
-- **ماذا يجب أن يُظهر السجل:**
-  - نتائج مادية تحت كل عامل متضمَّن في [§3.1](#31-systemic-scope-and-risk-factors) حتى [§3.7](#37-governance-incentive-and-contestability-discipline)؛
-  - افتراضات الاعتماد والتسلسل؛
-  - نتائج تقييم المخاطر ووضع الإفصاح (الجمهور أو التوجيه، والتوقيت، والحجوبات والبدائل) حيث تكون المخاطر المنظومية في النطاق؛
-  - نتائج تيسير الوصول والمشاركة لإغلاق أرضية البقاء؛
-  - تغطية الاستدعاء المشترك للخصوصية؛
-  - نتائج الخروج والتفويض؛
-  - نتائج التجمع والتنظيم الجماعي حيث تكون مادية؛
-  - نتائج الاتساق الزمني؛
-  - نتائج الحوكمة والحوافز وقابلية الطعن عند عمق **Class A**؛
-  - نتائج منتدى الكائنات الواعية أو مكوّنات أخرى حيث تُمس أرضيات الحقوق؛ و
-  - شروط أو محفّزات إعادة فتح مربوطة بفشل المورّد أو مخاطر التسلسل أو فجوات الحوكمة.
-
-**Class B — تبادل السجلات السريرية الإقليمي.** يوجّه تبادل معلومات صحية ملخصات سريرية وعلامات حل الهوية بين المستشفيات والعيادات؛ تعتمد العمليات اليومية عليه، لكن يمكن أن يحل الفاكس أو البوابة المباشرة أو الاسترجاع اليدوي محلّه ضمن أطر زمنية ذات صلة بالبقاء.
-
-- **عوامل في النطاق ماديًا:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — انقطاعات المستشفيات المشاركة وفشل حل الهوية وأخطاء إزالة التكرار وآثار التسلسل عبر المواقع على تسليم الرعاية؛
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — وصول الطبيب والمريض والمدافع عبر الملفات الحسية والمعرفية والحركية والتواصلية وواجهة الركيزة وواجهة الحوسبة؛
-  - [§3.3](#33-privacy-informational-joint-invocation) — مراجعة مشتركة عبر مواضع خصوصية سريرية وهُوِيّة وتدقيق ومجاورة للأهلية؛
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — خروج المستشفى وقابلية نقل سجل المريض ومنع الاحتباس للمشاركين؛
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — جمعيات الأطباء وجماعات مناصرة المرضى وهيئات الحوكمة الإقليمية التي يجب ألا يُدار حولها؛
-  - [§3.6](#36-time-consistency-constraint) — ادعاءات كفاءة أو قابلية تشغيل متبادل قصيرة الأفق تتآكل توقعًا جودة الرعاية أو الثقة طويلة الأفق؛
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — قياس رباعية **Class B** للاعتماد التشغيلي الحرج.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تغطي خرائط الاعتماد المستشفيات المشاركة ووسطاء الهوية ومسارات الاحتياط؛
-  - هل قُيِّم الضرر المتأخر أو التراكمي من أخطاء التوجيه أو السجلات الفاسدة أو الانقطاعات الجزئية تحت [تقييم المخاطر](core_05_band_continuity.md#risk-evaluation)؛
-  - هل بلغت المخاطر التشغيلية وتسليم الرعاية المقيَّمة الأطباء والمرضى والمشغّلين الذين يحتاجونها تحت [الإفصاح عن المخاطر](core_05_band_oversight.md#risk-disclosure)؛
-  - هل المشاركة الموضوعية قابلة للبلوغ للأطباء والمرضى والمدافعين الذين يعتمدون على التبادل؛
-  - هل عُولج كل موضع خصوصية متضمَّن ماديًا؛
-  - هل يحتفظ المستشفيات والمرضى بمسارات خروج ونقل قابلة للعمل؛
-  - هل تبقى مسارات الرقابة الجماعية والتنظيم المهني قابلة للطعن؛
-  - هل يخفي إطار الكفاءة ضرر الرعاية أو الثقة طويل الأفق؛ و
-  - هل أدوار الإدارة المسؤولة وقابلية الإجابة قابلة للتتبع عند العمق التشغيلي لـ**Class B**.
-- **ماذا يجب أن يُظهر السجل:**
-  - نتائج النظام كاملًا مقيسة على الأهمية التشغيلية لـ**Class B**؛
-  - افتراضات الاعتماد والاحتياط والتسلسل؛
-  - نتائج تقييم المخاطر ووضع الإفصاح حيث تكون المخاطر المنظومية في النطاق؛
-  - نتائج تيسير الوصول والمشاركة لإغلاق الرعاية الصحية؛
-  - تغطية الاستدعاء المشترك للخصوصية؛
-  - نتائج الخروج وقابلية النقل؛
-  - نتائج التجمع والتنظيم الجماعي حيث تكون مادية؛
-  - نتائج الاتساق الزمني؛
-  - نتائج الحوكمة والحوافز وقابلية الطعن؛
-  - نتائج المكوّنات حيث تُطلب؛ و
-  - محفّزات إعادة فتح إن كان الانقطاع أو فشل التوجيه سيغلق الآن الرعاية الطارئة ضمن أطر زمنية ذات صلة بالبقاء.
-
-**Class C — منصة الجدولة والتنسيق المؤسسية.** تنسّق طبقة جدولة متعددة المنظمات المناوبات وحجز القاعات ومواعيد المورّدين عبر المستشفيات والمدارس والوكالات العامة؛ يمكن أن تواصل خدمات البقاء الأساسية العمل في أنماط متدهورة إن فشلت، لكن المنصة تشكّل التنسيق على نطاق واسع.
-
-- **عوامل في النطاق ماديًا:**
-  - [§3.1](#31-systemic-scope-and-risk-factors) — آثار التركز والتسلسل عبر المنظمات حين تفشل الجدولة والعبء الاحتمالي على الجماعات المحمية عبر أنماط التخصيص؛
-  - [§3.2](#32-accessibility-under-sentience-non-exclusion) — هل يستطيع الموظفون والطلاب والمرضى والمورّدون استعمال واجهات الجدولة والطعن استعمالًا موضوعيًا؛
-  - [§3.3](#33-privacy-informational-joint-invocation) — بيانات الجدول والاتصال والدور حيث تنطبق مواضع خصوصية متعددة؛
-  - [§3.4](#34-voluntary-discontinuation-and-exit-rights) — الخروج التنظيمي وقابلية نقل البيانات حيث تعتمد المؤسسات على المنصة؛
-  - [§3.5](#35-assembly-collective-organization-and-institutional-formation) — النقابات وجمعيات الآباء والهيئات المهنية التي يجب ألا يُستولى على تنسيقها أو يُجزَّأ بعيدًا؛
-  - [§3.6](#36-time-consistency-constraint) — كفاءة المطابقة قصيرة الأفق التي ترسّخ توقعًا أنماط تنسيق غير عادلة؛
-  - [§3.7](#37-governance-incentive-and-contestability-discipline) — قياس رباعية متناسب ومراقبة إعادة التصنيف حيث تتقوى آثار الاختناق.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تعامل مراجعة النظام كاملًا المنصة بنية تحتية للتنسيق لا تطبيقًا معزولًا؛
-  - هل قُيِّم التركز وانحياز المطابقة والتسلسل عبر المنظمات بأمانة تحت [تقييم المخاطر](core_05_band_continuity.md#risk-evaluation)؛
-  - هل بلغت مخاطر التنسيق والتخصيص المقيَّمة المؤسسات والجماعات المتأثرة التي تحتاجها تحت [الإفصاح عن المخاطر](core_05_band_oversight.md#risk-disclosure)؛
-  - هل تبقى مسارات المشاركة موضوعية حيث تغلق المنصة تنسيق المنتدى أو المدرسة أو مكان العمل؛
-  - هل بلغت مراجعة الخصوصية المواضع المتضمَّنة ماديًا؛
-  - هل يبقى الخروج قابلًا للعمل للمنظمات المشاركة؛
-  - هل اختُبرت حمايات التجمع والتنظيم الجماعي اختبارًا مشتركًا؛
-  - هل لم يُخفَ الظلم طويل الأفق وراء الكفاءة قصيرة الأفق؛
-  - هل تبقى الحوكمة وقابلية الطعن عاملتين عند عمق **Class C**؛ و
-  - هل ما زالت تسمية الصنف تناسب إن صارت المنصة بوابة فعلية للوصول الضروري للبقاء.
-- **ماذا يجب أن يُظهر السجل:**
-  - نتائج النظام كاملًا متناسبة مع مخاطر تنسيق **Class C** — لا قائمة تحقق رمزية؛
-  - افتراضات التركز والتسلسل؛
-  - نتائج تقييم المخاطر ووضع الإفصاح حيث تكون المخاطر المنظومية في النطاق؛
-  - نتائج تيسير الوصول والمشاركة حيث يُغلق التنسيق؛
-  - تغطية الاستدعاء المشترك للخصوصية حيث يُحفَّز؛
-  - نتائج الخروج حيث تكون مادية؛
-  - نتائج التجمع حيث تكون مادية؛
-  - نتائج الاتساق الزمني؛
-  - نتائج الحوكمة وقابلية الطعن؛
-  - **مراقبة إعادة التصنيف** الصريحة حيث تتقوى آثار الاعتماد أو الحمولات ذات الرتبة السريرية أو الاختناق؛ و
-  - مؤشرات إلى تقييمات المجال في [§4](#4-data-types-and-handling-evaluation) حتى [§10](#10-trustworthiness-and-system-reliance-integrity-evaluation) حيث تنطبق محفّزات الأهمية المادية.
-
-**القراءة عبر الأصناف.** تنطبق العوامل في [§3.1](#31-systemic-scope-and-risk-factors) حتى [§3.7](#37-governance-incentive-and-contestability-discipline) على الأنظمة الثلاثة؛ ويغيّر الصنف بأي عمق يجب تقييم كل عامل وتسجيله. منصة جدولة **Class C** تصير المسار العملي الوحيد لتوظيف الطوارئ أو التوجيه الضروري للبقاء يجب أن تتلقى عمق النظام كاملًا لـ**Class A** أو **Class B** على الوقائع — لا المراجعة التنسيقية الأخف التي يفضّلها مشغّلها. نظام **Class A** حرج للبقاء يجب ألا يُخفَّض صنفه وهو يغلق الماء أو الطاقة أو ضرورات بقاء مماثلة بلا بديل في وقته. تبادل **Class B** سيغلق انقطاعه الآن الرعاية الطارئة ضمن أطر زمنية ذات صلة بالبقاء يجب إعادة تصنيفه صعودًا — بما في ذلك إلى **Class A** حيث تُغلق ضرورات البقاء — وإعادة تصديقه تحت [§2](#2-system-class-evaluation) و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
-
-<a id="4-data-types-and-handling-evaluation"></a>
-
-### 4. تقييم أنواع البيانات ومعالجتها
+#### 3.4 تقييم أنواع البيانات ومعالجتها
 
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [§3](#3-whole-system-certification-evaluation) (*عوامل تقييم النظام كاملًا*)؛ [§3.8](#38-illustrative-whole-system-application-by-class) (*جولات توضيحية للنظام كاملًا*)؛ [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم صنف النظام*)؛ أسرة قياس الرقابة (*الحقيقة والنزاهة المعرفية بوصفهما قياسًا دستوريًا*)؛ [المادة XV: نزاهة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)؛ [المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)؛ [المادة VII: ملكية الذات](core_06_rights_part_b.md#article-vii-self-ownership).
-- أسفل: [§4.1](#41-illustrative-data-handling-application-by-class) (*جولات توضيحية لمعالجة البيانات*)؛ [§5](#5-ecological-footprint-evaluation) و[§5.1](#51-illustrative-ecological-footprint-application-by-class) (*تقييم البصمة البيئية والجولات*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات الموثّقة*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*إعادة التصنيف وعدم مواءمة المعالجة*).
-- يُقرأ مع: [corpus_systems.md](../../corpus_systems.md)، **CS-2 — أنواع المعلومات ومعالجتها** (بما في ذلك **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*إعادة التصنيف وحوكمة دورة الحياة*) و**[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*حوكمة سجل أنواع بيانات النظام*))؛ [سجل أنواع بيانات النظام](core_05_band_continuity.md#system-data-types-record-constitutional)؛ [إفصاح خط أساس الرقابة العامة](core_05_band_oversight.md#public-oversight-baseline-disclosure)؛ **CJS-3.18** (*حدود الاحتفاظ بالبيانات ونزاهة دورة الحياة*)، و**CJS-3.21** (*حدود المتانة العدائية ومقاومة الإساءة*)، و**CJS-3.17** (*حدود قابلية التشغيل البيني والقابلية للنقل ونزاهة الخروج*) حيث تنطبق ماديًا.
-- الأقسام الفرعية: [§4.1](#41-illustrative-data-handling-application-by-class) (*تطبيق توضيحي لمعالجة البيانات حسب الصنف*).
+- المنابع: [§3](#3-whole-system-certification-evaluation) (*عوامل تقييم النظام بأكمله*)؛ [جولات التطبيق الشامل للنظام في الجزء C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (*جولات توضيحية شاملة للنظام*)؛ [الجزء B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم فئة النظام*)؛ أسرة قياس الرقابة (*الحقيقة والنزاهة المعرفية بوصفهما قياساً دستورياً*)؛ [المادة XV: نزاهة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)؛ [المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)؛ [المادة VII: ملكية الذات](core_06_rights_part_b.md#article-vii-self-ownership).
+- المسارات اللاحقة: [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*جولات توضيحية لمعالجة البيانات*)؛ [§5.1](#51-ecological-footprint-evaluation) و[§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*تقييم البصمة البيئية وجولاته التوضيحية*)؛ [الجزء B §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*نزاهة السجل*)؛ [الجزء B §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*بوابة المدخلات المتحقق منها*)؛ [الجزء B §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*إعادة التصنيف ومعالجة عدم الاتساق*).
+- يُقرأ مع: [corpus_systems.md](corpus_systems.md)، **CS-2 — أنواع المعلومات ومعالجتها** (بما في ذلك **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*حوكمة إعادة التصنيف ودورة الحياة*) و**[CS-2 §8](corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance)** (*حوكمة سجل أنواع بيانات النظام*))؛ [سجل أنواع بيانات النظام](core_05_band_continuity.md#system-data-types-record)؛ [الإفصاح عن خط الأساس للإشراف العام](core_05_band_oversight.md#public-oversight-baseline-disclosure)؛ **CJS-3.18** (*مصطلحات الاحتفاظ بالبيانات ونزاهة دورة الحياة*) و**CJS-3.21** (*مصطلحات المتانة العدائية ومقاومة إساءة الاستخدام*) و**CJS-3.17** (*مصطلحات التشغيل البيني وقابلية النقل ونزاهة الخروج*) حيث تنطبق مادياً؛ [§4.1 الاستدعاء المشترك للخصوصية (المعلوماتية)](#41-privacy-informational-joint-invocation) حيث يكون موضع خصوصية معنيّاً.
+- الأقسام الفرعية: [§3.4.1](#341-type-o-baseline-disclosure) (*الإفصاح الأساسي عن النوع O*)؛ [§3.4.2](#342-privacy-discipline) (*انضباط الخصوصية*)؛ [§3.4.3](#343-protective-storage-and-key-custody) (*التخزين الوقائي وحيازة المفاتيح*)؛ [§3.4.4](#344-periodic-data-type-re-evaluation) (*إعادة التقييم الدورية لأنواع البيانات*)؛ [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*ضمان البنية التحتية المتناسب مع فئة النظام*)؛ [§3.4.6](#346-infrastructure-robustness-for-data) (*متانة البنية التحتية للبيانات*)؛ [§3.4.7](#347-defects-and-misalignment) (*العيوب وعدم الاتساق*)؛ [§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*تطبيق توضيحي لمعالجة البيانات بحسب فئة النظام*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: على التصديق أيضًا أن ينظر في أي أصناف من البيانات يمسّها النظام وهل يعالجها على نحو مناسب — بما في ذلك هل ما زالت الأنواع صحيحة في دورة المراجعة الحالية، وهل البنية التحتية الأساسية متينة بما يكفي لتلك البيانات عند ذلك الصنف من النظام. قواعد النوع وسجل أنواع بيانات النظام يعيشان في متن الأنظمة؛ ويتحقق التصديق من أن القواعد طُبّقت فعلًا وأن السجل أمين.*
+*بعبارات واضحة: يجب أن ينظر التصديق أيضاً إلى أنواع البيانات التي يتعامل معها النظام ومدى ملاءمة معالجتها — بما يشمل استمرار صحة تصنيف الأنواع في دورة المراجعة الراهنة، وكفاية قوة البنية التحتية الأساسية لتلك البيانات ضمن فئة النظام. توجد قواعد الأنواع وسجل أنواع بيانات النظام في مدونة الأنظمة؛ ويتحقق التصديق من تطبيق القواعد فعلاً ومن صدق السجل.*
 
-يجب أن يقيّم تصديق مواءمة النظام **أنواع البيانات ومعالجتها** جزءًا من كل سجل تصديق ذي أثر مادي. تعيش تعريفات نوع المعلومات القانونية وقواعد المعالجة ومتطلبات الفصل وتفصيل دورة الحياة و[سجل أنواع بيانات النظام](core_05_band_continuity.md#system-data-types-record-constitutional) الدائم في **[corpus_systems.md](../../corpus_systems.md), CS-2 — أنواع المعلومات ومعالجتها**. يبيّن هذا القسم ماذا يجب أن يتحقق التصديق منه ويسجّله؛ وهو لا يعيد بيان تصنيف أنواع CS-2 ولا ميكانيكا المعالجة.
+يجب أن يقيّم تصديق اتساق النظام **أنواع البيانات ومعالجتها** ضمن كل سجل تصديق ذي أثر مادي. يحدد هذا القسم ما يجب على التصديق التحقق منه. يوجد تصنيف الأنواع وآليات المعالجة في **[corpus_systems.md](corpus_systems.md)، CS-2 — أنواع المعلومات ومعالجتها**، مع ما يلي:
 
-**متطلب التقييم.** يجب أن يحدّد إجراء التصديق هل يعرّف النظام أنواع البيانات ذات الصلة المادية في النطاق ويعالجها تحت **التصنيف المعمول به الأشد تقييدًا**، بما في ذلك عبر التحويل والتجميع والتفويض والتخزين والاحتفاظ والربط عبر النطاقات. ويجب أن يعكس التقييم الأثر الوظيفي، لا التسمية أو التنسيق أو مرحلة القناة وحدها. وحيث ينطبق خط أساس النوع O في **[CS-2 الجزء أ §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**، يجب أن يتحقق التصديق أيضًا من أن [إفصاح خط أساس الرقابة العامة](core_05_band_oversight.md#public-oversight-baseline-disclosure) المنشور (**النوع O**) يغطي **النطاق المصدَّق** — مرسومًا من [صك النطاق](core_05_band_continuity.md#charter) الحاكم (أو صك نطاق منشور مكافئ) والصنف المعيَّن و[حدود النظام](core_05_band_continuity.md#system-boundaries) المرصودة — مع حجوزات معلَّلة مقترنة بأقصى بدائل عامة قابلة للتنفيذ؛ الفصل الخامس يملك الحد؛ وCS-2 يملك محتوى الخط الأساس وميكانيكا النشر.
+- التعريفات المرجعية لأنواع المعلومات؛
+- قواعد المعالجة ومتطلبات الفصل؛
+- تفاصيل دورة الحياة؛ و
+- [سجل أنواع بيانات النظام](core_05_band_continuity.md#system-data-types-record) الدائم.
 
-**إعادة التقييم الدورية لأنواع البيانات.** في كل دورة تصديق أو إعادة تحقق ذات أثر مادي، يجب أن يتحقق الإجراء من أن مجموعات البيانات المادية في النطاق **أُعيد تقييمها دوريًا** لتصنيف مناسب تحت **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*إعادة التصنيف وحوكمة دورة الحياة*) و**CJS-3.18** (*حدود الاحتفاظ بالبيانات ونزاهة دورة الحياة*)، و**أُعيد تصنيفها** حيث طلبت تلك المراجعة ذلك. ويجب أن يتصاعد الإيقاع مع صنف النظام والأثر المادي تحت [§2](#2-system-class-evaluation). وإعادة النوع المحفَّزة بالحدث تحت CS-2 لا تحل محل فحص التصديق الدوري هذا.
+**متطلب التقييم.** يجب أن يحدد مسار التصديق ما إذا كان النظام:
 
-**متطلب السجل.** يجب أن **يُنتج التصديق أو يتحقق من** [سجل أنواع بيانات النظام](core_05_band_continuity.md#system-data-types-record-constitutional) — أو محتوياته المطلوبة تحت CS-2 — وأن يدرجه في [سجل تصديق النظام](core_05_band_continuity.md#system-certification-record-constitutional) تحت **[الجزء ب §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. ويجب أن يبيّن ذلك السجل أنواع البيانات ذات الصلة المادية في النطاق، وتسويغ التصنيف للبيانات الغامضة أو متعددة الأنواع، وضوابط الفصل والربط عبر النطاقات المعتمد عليها، ووضع الاحتفاظ ودورة الحياة، وقدرة الإسناد الكافية لإسناد [الفعل القابل للإسناد](core_05_band_accountability.md#attributable-action-constitutional) و[نزاهة الإسناد](core_05_band_accountability.md#attribution-integrity-constitutional)، و**أحدث إعادة تقييم دورية لأنواع البيانات** (تاريخ أو معرّف دورة، والإيقاع، وأي إعادة نوع مادية)، وأي قيود معلَّلة على الإفصاح أو الوصول إلى التدقيق مع بدائلها العامة حيث يطلبها CS-2. وحيث ينطبق خط أساس النوع O، يجب أن يبيّن السجل أيضًا كيف يغطي [إفصاح خط أساس الرقابة العامة](core_05_band_oversight.md#public-oversight-baseline-disclosure) النطاق المصدَّق (حقول صك النطاق المعتمد عليها ونتائج الحدود وأي فجوات تغطية أو شروط).
+- يحدد أنواع البيانات الواقعة ضمن نطاقه المادي؛ و
+- يعالجها وفق **أشد تصنيف منطبق**، بما يشمل التحويل والتجميع والتفويض والتخزين والاحتفاظ والربط عبر المجالات.
 
-**التصعيد المشترك مع صنف النظام.** يجب أن يتصاعد عمق معالجة البيانات وضمان البنية التحتية مع صنف النظام المعيَّن تحت [§2](#2-system-class-evaluation) وCS-3. وتتطلب أنظمة الأصناف الأعلى إثباتًا أقوى بنسبة أن بنية المعالجة والتخزين والمعالجة والنقل والنسخ الاحتياطي والاستعادة والرصد تستطيع حفظ نزاهة التصنيف والإسناد وقابلية الطعن تحت الضغط. وحيث تنطبق افتراضات رؤية المصلحة العامة في CS-2، يجب أن يتحقق التصديق من أن القيود ضيقة النطاق وموثَّقة وقابلة للتدقيق ومقترنة بأقصى بدائل قابلة للتنفيذ بدل إخفاء معتم.
+يجب أن يعكس التقييم الأثر الوظيفي، لا التسمية أو التنسيق أو مرحلة خط المعالجة وحدها.
 
-**متانة البنية التحتية للبيانات.** يجب أن يقيّم التصديق هل بنية معالجة البيانات — بما في ذلك طبقات الديمومة والقنوات وضوابط الوصول وحدود التشفير أو العزل ومسارات النسخ الاحتياطي والاستعادة وسلاسل تفويض المشغّل أو المورّد — مناسبة لأنواع البيانات وصنف النظام المعنيين. ويجب أن تُبيَّن الفجوات المادية في نزاهة دورة الحياة أو المتانة العدائية أو القابلية للنقل أو قابلية الاستعادة في السجل وأن تنعكس في ناتج التصديق أو الشروط أو حدود الاعتماد.
+<a id="341-type-o-baseline-disclosure"></a>
+##### 3.4.1 الإفصاح الأساسي عن النوع O
 
-**العيوب وعدم المواءمة.** يجب أن تُعامل سوء تصنيف البيانات أو إعادة الهيكلة التهرّبية أو الربط غير الآمن عبر النطاقات أو غياب الإسناد حيث لا يمكن التحقيق في ضرر مادي أو **إعادة التقييم الدورية لأنواع البيانات المتأخرة أو المتجاوَزة** أو هشاشة البنية التحتية التي تهزم على نحو متوقَّع حمايات CS-2 عيوب تصديق. ويجوز أن تسند اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو سحبًا أو إعادة فتح تحت [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+حيث ينطبق **[الخط الأساسي للنوع O في CS-2، الجزء A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)**، يجب أن يتحقق التصديق أيضاً من أن [الإفصاح المنشور عن خط الأساس للإشراف العام](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**النوع O**) يشمل **النطاق المصدّق عليه**، المحدد استناداً إلى:
 
-<a id="41-illustrative-data-handling-application-by-class"></a>
+- [الميثاق](core_05_band_continuity.md#charter) الحاكم (أو أداة نطاق منشورة مكافئة)؛
+- فئة النظام المعيّنة؛ و
+- [حدود النظام](core_05_band_continuity.md#system-boundaries) المرصودة.
 
-<a id="41-illustrative-data-handling-application-by-class-non-exhaustive"></a>
-#### 4.1 تطبيق توضيحي لمعالجة البيانات حسب الصنف (غير حصري)
+يمكن أن يسهم نشر المخاطر المقيمة أيضاً في هذا الخط الأساسي حين تكون المخاطر النظامية قائمة. وحق الجمهور في خط الأساس أوسع من التصديق، ولا يستلزم سجلاً منفصلاً إلى جانب [سجل تصنيف النظام](core_05_band_continuity.md#system-classification-record) أو [سجل أنواع بيانات النظام](core_05_band_continuity.md#system-data-types-record).
 
-*بعبارات بسيطة: تقول جدول الصنف في [§2.1](#21-illustrative-class-profiles-non-exhaustive) إن الأصناف الأعلى تحتاج مراجعة أشد. وتُظهر [§3.8](#38-illustrative-whole-system-application-by-class) ماذا يعني ذلك لـ**تقييم النظام كاملًا** على الأنظمة الثلاثة نفسها؛ وتواصل [§5.1](#51-illustrative-ecological-footprint-application-by-class) السلسلة من أجل **البصمة البيئية**. يُظهر هذا القسم الفرعي ماذا يعني لـ**أنواع البيانات ومعالجتها** — أي الأنواع في النطاق، وماذا يجب أن يتحقق التصديق منه، وماذا يجب أن يظهر على السجل. ما زال CS-2 يملك قواعد النوع؛ ولا تضيف هذه الجولات أنواعًا ولا تضيّق CS-2.*
+يجب أن يقترن كل حجب مبرر بأقوى بديل علني ممكن على نحو معقول (تورد [§3.4.5 ضمان البنية التحتية المتناسب مع فئة النظام](#345-system-class-scaled-infrastructure-assurance) أمثلة). يختص الفصل الخامس بالمصطلح، ويختص CS-2 (*أنواع المعلومات ومعالجتها*) بمحتوى الخط الأساسي وآليات النشر.
 
-**Class A — التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية.** تبتلع طبقة تحكم بلدية في المعالجة والتوزيع بيانات الضغط والتدفق وتنبيه التلوث وأمر الصمامات في الوقت الحقيقي؛ وتخزّن بيانات ربط محدودة لخدمة الزبائن لإخطار الانقطاع؛ وتفوّض الرصد إلى مركز عمليات أمنية (**SOC**) لمورّد.
+<a id="342-privacy-discipline"></a>
+##### 3.4.2 انضباط الخصوصية
 
-- **أنواع البيانات في النطاق:**
-  - **قياس عن بعد** تشغيلي حرج للسلامة (إشارات قياس وأمر حية من الميدان)؛
-  - إشارات التلوث وتنبيه الجودة؛
-  - بيانات اتصال إخطار الانقطاع؛
-  - سجلات وصول المورّدين والمشغّلين؛
-  - سجلات الحوادث والصيانة.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل بيانات مستوى التحكم الحرجة للسلامة مفصولة عن قنوات خدمة الزبائن أو الفوترة أو التحليل تحت تصنيف CS-3 **المعمول به الأشد تقييدًا**؛
-  - هل يمكن أن يطوي التجميع أو تفويض المورّد أو مسارات النسخ الاحتياطي ذلك الفصل تحت الضغط أو الشروط العدائية؛
-  - هل يبقى الإسناد زمنًا كافيًا للتحقيق في حدث تلوث أو إغلاق؛ و
-  - هل لأي قيد تدقيق معلَّل بالسلامة بديل عام موثَّق.
-- **ماذا يجب أن يُظهر السجل:**
-  - جرد النوع الكامل للنطاق المصدَّق؛
-  - تسويغ التصنيف حيث يمكن أن تكون بيانات القياس عن بعد أو التنبيه أو الاتصال متعددة الأنواع؛
-  - ضوابط الفصل والربط عبر النطاقات؛
-  - وضع الاحتفاظ ودورة الحياة لإعادة بناء الحوادث؛
-  - نتائج ضمان البنية التحتية للنسخ الاحتياطي والاستعادة والاستعادة العدائية بعمق **Class A**؛ و
-  - أي شروط مربوطة بتفويض المورّد أو فجوات الرصد.
+يجب أن تخضع معالجة البيانات في التصديق لانضباط الخصوصية التالي:
 
-**Class B — تبادل السجلات السريرية الإقليمي.** يوجّه تبادل معلومات صحية ملخصات سريرية ومؤشرات تصوير وعلامات حل الهوية بين المستشفيات والعيادات وأنظمة الأهلية المجاورة للإعانات؛ تعتمد المستشفيات عليه يوميًا لكن يمكن أن يحل الفاكس أو البوابة المباشرة أو الاسترجاع اليدوي محلّه ضمن أطر زمنية ذات صلة بالبقاء.
+- *الأنواع H وI وN وS وY.* بالنسبة إلى بيانات **النوع H** و**I** و**N** و**S** و**Y**، يجب أن يتحقق التصديق من استيفاء المعالجة [مواضع الخصوصية](corpus_systems/cs_02_b_data_classifications.md#privacy-link) التي يسميها كل نوع في **CS-2** (*أنواع المعلومات ومعالجتها*)، بما يشمل [الضرورة](core_05_band_accountability.md#necessity) و[التناسب](core_05_band_accountability.md#proportionality) والتقليل إلى الحد الأدنى والموافقة أو سلطة كافية أخرى.
+- *الاستدعاء المشترك.* حين يكون أكثر من موضع خصوصية واحد معنيّاً، ينطبق أيضاً [§4.1 الاستدعاء المشترك للخصوصية (المعلوماتية)](#41-privacy-informational-joint-invocation).
+- *التسميات لا تكفي.* لا تثبت تسمية النوع الصحيحة وحدها الامتثال للخصوصية.
+- *الأنواع W وU وT.* بالنسبة إلى أعمال **النوع W** و**U** و**T**، يجب أن يتحقق التصديق من احترام سيطرة المنشئ، بما يشمل:
+  - سحب إصدار علني بموجب [CS-2 الجزء B §9.9](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*النوع W: الأعمال المنشورة*)؛
+  - حدود كل منحة مسجلة بموجب [CS-2 الجزء B §9.13](corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*المنح التجارية*)؛ و
+  - [الحقوق المحفوظة](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) للمنشئ.
+- *لا موافقة ضمنية.* لا يجوز اعتبار أي منحة موافقة على استخدام لم تسمّه.
 
-- **أنواع البيانات في النطاق:**
-  - سجلات سريرية وتشخيصية؛
-  - علامات حل الهوية والاعتماد؛
-  - بيانات دليل مقدّمي الخدمة والمنشآت؛
-  - سجلات تدقيق الوصول والإفصاح؛
-  - مصنوعات المطابقة أو إزالة التكرار المشتقة.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تبقى البيانات السريرية تحت أشد صنف معالجة معمول به عبر التوجيه والتخزين المؤقت وإزالة التكرار والربط أسفل؛
-  - هل يخلق منطق حل الهوية ربطًا غير آمن عبر النطاقات أو تعرّضًا بالوكالة؛
-  - هل تبقى سلاسل تفويض المشغّل والمشاركين قابلة للإسناد؛ و
-  - هل تحفظ مسارات القابلية للنقل والخروج سيطرة المريض دون هزيمة الاستعادة التشغيلية.
-- **ماذا يجب أن يُظهر السجل:**
-  - الأنواع المادية وتسويغ النوع الغامض؛
-  - الفصل بين الحمولات السريرية وبيانات الدليل الوصفية وتغذيات الأهلية المجاورة؛
-  - إسناد سلسلة التفويض؛
-  - وضع دورة الحياة والاحتفاظ الكافي للتحقيق الصحي والطعن؛
-  - نتائج ضمان البنية التحتية بعمق تشغيلي **Class B**؛ و
-  - محفّزات إعادة الفتح إن كان الانقطاع أو فشل معالجة البيانات سيغلق الرعاية الآن ضمن أطر زمنية ذات صلة بالبقاء.
+<a id="343-protective-storage-and-key-custody"></a>
+##### 3.4.3 التخزين الوقائي وحيازة المفاتيح
 
-**Class C — منصة الجدولة والتنسيق المؤسسية.** تنسّق طبقة جدولة متعددة المنظمات مناوبات الموظفين وحجز القاعات ومواعيد المورّدين عبر المستشفيات والمدارس والوكالات العامة؛ تواصل المستشفيات والمرافق الأساسية العمل في أنماط متدهورة إن فشلت، لكن المنصة تشكّل التنسيق على نطاق واسع وقد تحمل بيانات وصفية للاتصال والدور والموقع الخشن.
+بالنسبة إلى البيانات في النطاقات المقيدة افتراضياً وغير المتاحة، يجب أن يتحقق التصديق من استيفاء النظام لأرضية التخزين الوقائي وحيازة المفاتيح في [CS-2 الجزء A §5.0 نطاقات وضع الوصول](corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands). ويجب أن يبين السجل:
 
-- **أنواع البيانات في النطاق:**
-  - بيانات الجدول والدور وتخصيص الموارد؛
-  - بيانات وصفية لاتصال المشاركين والاعتماد؛
-  - معرّفات موقع خشن أو مكان؛
-  - سجلات تدقيق المنصة؛
-  - مخرجات ترتيب أو مطابقة مشتقة حيث تُستخدم.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل يعرّف النظام الأنواع المادية بأمانة — بما في ذلك المخرجات المشتقة التي يمكن أن تكشف خصائص محمية عبر أنماط الجدولة؛
-  - هل يبقى الربط عبر المنظمات داخل نطاق معلَّل؛
-  - هل تبقى المعالجة قابلة للطعن حيث يمكن أن ينذر التركيز بتصعيد عنق الزجاجة؛ و
-  - هل ما زال وسم صنف أدنى مناسبًا إن قويت الاعتماد أو حساسية البيانات.
-- **ماذا يجب أن يُظهر السجل:**
-  - الأنواع ذات الصلة المادية في النطاق وأي تسويغ متعدد الأنواع؛
-  - نتائج الربط والاحتفاظ المتناسبة مع خطر تنسيق **Class C**؛
-  - نتائج ضمان البنية التحتية حيث تكون مادية — لا احتفالية — للبيانات المحمولة فعلًا؛
-  - إسنادًا قابلًا للطعن لربط نقل العبء؛ و
-  - **رقابة إعادة تصنيف** صريحة حيث تصير المنصة بوابة أمر واقع للوصول الضروري للبقاء أو تبدأ حمل حمولات بدرجة سريرية.
+- الموضع الفعلي للبيانات المقيدة ومفاتيحها، بما يشمل النسخ الاحتياطية والذاكرة الوسيطة والسجلات ومساحة التبديل؛
+- حصر النص الصريح في العمليات التي تحتاج إليه؛ و
+- استمرار عمل مسارات التدقيق والتصدير والتجاوز القانوني.
 
-**القراءة عبر الأصناف.** تنطبق قواعد CS-3 نفسها على الأنظمة الثلاثة؛ ويغيّر الصنف **العمق**، لا الإذن بسوء معالجة البيانات. منصة **Class C** تبدأ تخزين سجلات بدرجة سريرية أو توجيهها يجب أن تُقيَّم وتُسجَّل كذلك — لا تُترك عند معالجة منصة تنسيق لأن المشغّل يفضّل ملفًا أخف. تبادل **Class B** سيغلق انقطاعه الآن الرعاية الطارئة ضمن أطر زمنية ذات صلة بالبقاء يجب إعادة تصنيفه وإعادة تصديقه تحت [§2](#2-system-class-evaluation) و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، مع تصعيد ضمان معالجة البيانات وفق ذلك.
+لا يكفي ادعاء التشفير دون هذه الأدلة.
 
-<a id="5-ecological-footprint-evaluation"></a>
+<a id="344-periodic-data-type-re-evaluation"></a>
+##### 3.4.4 إعادة التقييم الدورية لأنواع البيانات
 
-### 5. تقييم البصمة البيئية
+في كل دورة تصديق أو إعادة تصديق ذات أثر مادي، يجب أن يتحقق المسار من أن مجموعات البيانات المادية ضمن النطاق:
+
+- **أعيد تقييمها دورياً** لتصنيفها الملائم بموجب **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*حوكمة إعادة التصنيف ودورة الحياة*) و**CJS-3.18** (*مصطلحات الاحتفاظ بالبيانات ونزاهة دورة الحياة*)؛ و
+- **أعيد تصنيفها** حيث استلزم ذلك التقييم.
+
+يجب أن يتناسب التواتر مع فئة النظام والأثر المادي وفق [§2 تقييم فئة النظام](#2-system-class-evaluation). ولا تحل إعادة تحديد النوع عند وقوع حدث بموجب CS-2 (*أنواع المعلومات ومعالجتها*) محل فحص التصديق الدوري هذا.
+
+<a id="345-system-class-scaled-infrastructure-assurance"></a>
+##### 3.4.5 ضمان البنية التحتية المتناسب مع فئة النظام
+
+بموجب [§2.1 كيف تضبط فئة النظام مقياس كل تقييم](#21-how-system-class-scales-every-evaluation) وCS-3 (*آلية تصنيف الأنظمة*)، تحتاج الأنظمة الأعلى فئة إلى أدلة أقوى ومتناسبة على قدرة البنية التحتية للمعالجة والتخزين والتشغيل والنقل والنسخ الاحتياطي والتعافي والرصد على صون ما يلي تحت الضغط:
+
+- نزاهة التصنيف؛
+- الإسناد؛ و
+- قابلية الطعن.
+
+حيث تنطبق افتراضات المصلحة العامة بشأن إتاحة الرؤية في CS-2 (*أنواع المعلومات ومعالجتها*)، يجب أن يتحقق التصديق من أن القيود:
+
+- ضيقة النطاق؛
+- موثقة وقابلة للتدقيق؛ و
+- تقترن بأقوى بديل علني ممكن على نحو معقول (مثل ملخص أو بيانات مجمعة أو نسخة منزوعة الهوية أو نشر مؤجل أو إتاحة تدقيق لمؤهلين)، بحيث يفسر المحتوى المحجوب بدلاً من إخفائه فحسب.
+
+<a id="346-infrastructure-robustness-for-data"></a>
+##### 3.4.6 متانة البنية التحتية للبيانات
+
+يجب أن يقيّم التصديق مدى ملاءمة البنية التحتية لمعالجة البيانات لأنواع البيانات وفئة النظام المعنيين. وتشمل هذه البنية:
+
+- طبقات الاستبقاء وخطوط المعالجة؛
+- ضوابط الوصول؛
+- حدود التشفير أو العزل؛
+- مسارات النسخ الاحتياطي والاستعادة؛ و
+- سلاسل تفويض المشغّل أو المورّد.
+
+يجب تدوين الثغرات المادية في نزاهة دورة الحياة أو المتانة العدائية أو قابلية النقل أو قابلية الاستعادة، وعكسها في نتيجة التصديق أو شروطه أو حدود الاعتماد.
+
+<a id="347-defects-and-misalignment"></a>
+##### 3.4.7 العيوب وعدم الاتساق
+
+يجب التعامل مع كل مما يلي بوصفه عيباً في التصديق:
+
+- سوء تصنيف البيانات؛
+- إعادة الهيكلة للتحايل؛
+- الربط غير الآمن عبر المجالات؛
+- معالجة تطابق تسمية النوع لكنها تخفق في مواضع الخصوصية التي يحددها ذلك النوع؛
+- غياب الإسناد حيث يتعذر التحقيق في ضرر مادي؛
+- **تأخر إعادة التقييم الدورية لأنواع البيانات أو تجاوزها**؛
+- تخزين البيانات المقيدة كنص صريح أو خارج حدود معالجتها المصرح بها، أو إتاحة المفاتيح لعمليات لا تحتاج إليها؛ و
+- هشاشة البنية التحتية التي تهزم على نحو متوقع وسائل الحماية في CS-2 (*أنواع المعلومات ومعالجتها*).
+
+تحدد [§7 نتائج التصديق](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) عواقب هذه العيوب.
+
+<a id="4-evaluations-where-implicated"></a>
+
+### ۴. ارزیابی‌ها در موارد مرتبط
 
 <details>
-<summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- أعلى: [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم صنف النظام*)؛ أسرة قياس الاستمرارية (*البصمة البيئية بوصفها قياسًا دستوريًا*)؛ **المادة I-B** (*البصمة البيئية والشفافية*)؛ [البصمة البيئية](core_05_band_continuity.md#ecological-footprint) و[الأثر المادي](core_05_band_oversight.md#material-impact) و[الاعتماد](core_05_band_continuity.md#dependency) و[الشفافية](core_05_band_oversight.md#transparency) و[النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) (الفصل الخامس)؛ [الشروط البيئية المسبقة](core_05_band_continuity.md#environmental-preconditions-constitutional) و[النزاهة البيئية](core_05_band_continuity.md#ecological-integrity-constitutional) حيث تكون ذات صلة مادية.
-- أسفل: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*جولات توضيحية للبصمة البيئية*)؛ [§6](#6-proportionate-cross-system-support-evaluation) و[§6.1](#61-illustrative-cross-system-support-application-by-class) (*تقييم الدعم عبر الأنظمة والجولات*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات الموثّقة*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*تحريف البصمة وعدم المواءمة*).
-- يُقرأ مع: [corpus_systems.md](../../corpus_systems.md)، [CS-8 — الاستدامة التكيّفية ومرونة النظم البيئية](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) حيث يكون التخصيص التكيّفي أو الاعتماد المتبادل للنظم البيئية داخل النطاق ماديًا.
-- الأقسام الفرعية: [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*تطبيق توضيحي للبصمة البيئية حسب الصنف*).
+- منابع بالادستی: [§3](#3-whole-system-certification-evaluation) (*ارزیابی کل سامانه، از جمله لایه همیشه‌الاجرا*)؛ [§2](#2-system-class-evaluation) (*ارزیابی طبقه سامانه*)؛ [فصل یکم §12 الزام ارزیابی سیستمی](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- منابع پایین‌دستی: [§4.1](#41-privacy-informational-joint-invocation) (*کانون‌های حریم خصوصی*)؛ [§4.2](#42-voluntary-discontinuation-major-self-modification-and-exit-rights) (*حقوق خروج*)؛ [§4.3](#43-assembly-collective-organization-and-institutional-formation) (*گردهمایی و مخالفت*)؛ [بخش B §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) (*محتوای پرونده*).
+- همراه با این مورد بخوانید: [§5 ارزیابی‌های کف حقوق و حوزه‌ها](#5-rights-floor-and-domain-evaluations) (*لایه‌ای که در صورت فعال‌شدن محرک اعمال می‌شود*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: على التصديق أن يقيّم الأعباء البيئية القابلة للإسناد بأمانة حين تهم — بما في ذلك الروابط أعلى وأسفل — لا مجرد هل يدّعي المشغّل أن النظام أخضر. تعيش طرق محاسبة البصمة وأهداف التقليل الرقمية في صكوك أخرى؛ ويتحقق التصديق من أن الإسناد والإفصاح والمقارنة قُيِّمت فعلًا حيث تكون مادية. الأمثلة المعمولة للأنظمة التوضيحية في [§2.1](#21-illustrative-class-profiles-non-exhaustive) في [§5.1](#51-illustrative-ecological-footprint-application-by-class).*
+*به زبان ساده: سه بررسی فقط وقتی اعمال می‌شوند که سامانه واقعاً با آن موضوع‌ها سروکار داشته باشد: آیا اطلاعات خصوصی به‌درستی محفوظ می‌مانند، آیا حس‌مندان می‌توانند بی‌آنکه گرفتار شوند خارج شوند، و آیا گروه‌ها همچنان می‌توانند سازمان یابند و مخالفت کنند. اگر سامانه یکی از این موارد را درگیر کند، گواهی باید آن را بررسی کند.*
 
-يجب أن يقيّم تصديق مواءمة النظام **البصمة البيئية** جزءًا من كل سجل تصديق ذي أثر مادي حيث تكون الأعباء البيئية القابلة للإسناد مادية تحت [البصمة البيئية](core_05_band_continuity.md#ecological-footprint) و**المادة I-B** (*البصمة البيئية والشفافية*). تعيش قواعد الإسناد ودورة الحياة والاعتماد والشفافية القانونية في الفصل الخامس و**المادة I-B** (*البصمة البيئية والشفافية*)؛ وتعيش طرق المحاسبة وخطوات التحقق والأهداف الرقمية في صكوك الاعتماد حيث تنطبق. يبيّن هذا القسم ماذا يجب أن يتحقق التصديق منه ويسجّله؛ وهو لا يعيد بيان ميكانيكا محاسبة البصمة ولا يفرض واجبات تقليل تتجاوز ما تطلبه صكوك أخرى.
+این بخش زیرمرحله **IIb** از مرحله II (ارزیابی) است. ارزیابی‌های کل سامانه‌ای را گرد هم می‌آورد که وقتی موضوع گواهی به‌طور مادی کانون یا اصلی را که یک زیربخش نام می‌برد درگیر می‌کند، اعمال می‌شوند. الزامات هیچ زیربخشی را اضافه، محدود یا بازترتیب نمی‌کند.
 
-**متطلب التقييم.** يجب أن يحدّد إجراء التصديق هل تُعرَّف التدفقات البيئية القابلة للإسناد — الطاقة والمواد والانبعاثات واستخدام الأرض والأعباء ذات الصلة — عبر دورة حياة النظام ذات الصلة المادية وعلاقات [الاعتماد](core_05_band_continuity.md#dependency)، وتُقيَّم تحت [الأثر المادي](core_05_band_oversight.md#material-impact)، وتُكشَف أو تُحبَس فقط كما تسمح [الشفافية](core_05_band_oversight.md#transparency) و[النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) وواجبات الشفافية المعمول بها. ويجب أن يعكس التقييم الأثر الوظيفي وحدود النظام، لا النطاق الاسمي أو تسميات التسويق أو تأطير دورة الحياة الجزئي وحده.
-
-**متطلب السجل.** يجب أن يبيّن سجل التصديق نطاق تقييم البصمة وافتراضات الإسناد وحدود دورة الحياة والاعتماد المعتمد عليها والأعباء المادية المعيَّنة وعدم اليقين ووضع الإفصاح ونتائج مكوّن منتدى البيئة حيث تُطلب، وأي حدود معلَّلة على إفصاح البصمة مع بدائلها العامة حيث تطلبها قواعد الشفافية المعمول بها.
-
-**التصعيد المشترك مع صنف النظام.** يجب أن يتصاعد عمق تقييم البصمة والإفصاح مع صنف النظام المعيَّن تحت [§2](#2-system-class-evaluation) و[الرهان المادي](core_00_preamble.md#material-stake). وتتطلب أنظمة الأصناف الأعلى إثباتًا أقوى بنسبة أن الأعباء البيئية المادية أُسندت وقورنت عبر البدائل ذات الصلة حيث أمكن، ولم تُحجب بإزاحة الحدود أو تفريغ الاعتماد أو الإفصاح الانتقائي.
-
-**العيوب وعدم المواءمة.** يجب أن يُعامل حجب معلومات البصمة المادية أو تحريفها أو تجزئتها أو تفريغها حيث يطلب التصديق أو واجبات الشفافية في **المادة I-B** (*البصمة البيئية والشفافية*) الإفصاح؛ أو تقييم شرائح دورة حياة يختارها المشغّل فقط حيث يكون الإسناد الأوسع ماديًا؛ أو معاملة ادعاءات البصمة مستوفاة بالزعم بلا دليل قابل للتقييم عيوب تصديق. ويجوز أن تسند اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو سحبًا أو إعادة فتح تحت [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
-
-<a id="51-illustrative-ecological-footprint-application-by-class"></a>
-
-<a id="51-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
-#### 5.1 تطبيق توضيحي للبصمة البيئية حسب الصنف (غير حصري)
-
-*بعبارات بسيطة: تمرّ [§3.8](#38-illustrative-whole-system-application-by-class) و[§4.1](#41-illustrative-data-handling-application-by-class) بالأنظمة الثلاثة نفسها عبر مراجعة النظام كاملًا ومعالجة البيانات. يُظهر هذا القسم الفرعي ماذا يعني تقييم **البصمة البيئية** لكل منها — أي الأعباء البيئية تُحتسب، وماذا يجب أن يتحقق التصديق منه، وماذا يجب أن يظهر على السجل. ما زالت **المادة I-B** (*البصمة البيئية والشفافية*) والفصل الخامس يملكان قواعد الإسناد والشفافية؛ وتعيش طرق المحاسبة والأهداف الرقمية في صكوك أخرى؛ ولا تضيف هذه الجولات واجبات بصمة تتجاوز ما تطلبه تلك الصكوك.*
-
-**Class A — التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية.** يعتمد نظام بلدي للمعالجة والتوزيع على مصادر أحواض المياه ومدخلات المعالجة الكيميائية وطاقة الضخ والمعالجة وبنية التوزيع وتدفقات التصريف والحوسبة أو الرصد المفوَّض للمورّد حيث يُستخدم.
-
-- **الأعباء القابلة للإسناد في النطاق:**
-  - استخراج مياه المصدر وإجهاد حوض المياه؛
-  - كيميائيات المعالجة ووسائط الترشيح؛
-  - طاقة الضخ والمعالجة والتوزيع؛
-  - البنية التحتية المتجسدة للمحطات والأنابيب والضوابط؛
-  - فقدان الماء المعالَج والتسرب؛
-  - التصريف والبقايا إلى المياه المستقبِلة؛
-  - انبعاثات شبكة القدرة أعلى؛
-  - مركز عمليات أمنية للمورّد (**SOC**) أو حوسبة مستضافة مشتركة أو حوسبة واتصال الرصد عن بعد حيث يُعتمد عليها ماديًا؛
-  - أعباء الصيانة والاستبدال والإخراج من الخدمة عبر دورة الحياة ذات الصلة المادية.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل يشمل نطاق البصمة القدرة أعلى وإمداد الكيميائيات و[اعتماد](core_05_band_continuity.md#dependency) حوض المياه والتصريف أسفل — لا مباني التشغيل البلدية وحدها؛
-  - هل قُيِّم [الأثر المادي](core_05_band_oversight.md#material-impact) لاستنفاد المصدر وكثافة الطاقة والتصريف تحت الضغط أو تغيّر المناخ؛
-  - هل استبعدت الحدود التي اختارها المشغّل الرصد المستضاف لدى المورّد أو لوجستيات الكيميائيات الخارجية أو أعباء الشبكة المشتركة حيث يكون الإسناد ماديًا؛
-  - هل قورنت البدائل — الحفظ وحماية المصدر ومسارات معالجة أقل عبئًا — حيث أمكن؛ و
-  - هل لحدود الإفصاح بدائل عامة موثَّقة تحت **المادة I-B** (*البصمة البيئية والشفافية*).
-- **ماذا يجب أن يُظهر السجل:**
-  - نطاق تقييم البصمة وحدود دورة الحياة بعمق **Class A**؛
-  - افتراضات الإسناد لتدفقات حوض المياه والطاقة والكيميائيات والتصريف؛
-  - الأعباء المادية المعيَّنة وعدم اليقين المبيَّن؛
-  - نتائج مكوّن منتدى البيئة حيث تُطلب؛
-  - نتائج المقارنة عبر البدائل ذات الصلة حيث أمكن؛
-  - وضع الإفصاح وأي حدود معلَّلة مع بدائل عامة؛ و
-  - شروط أو محفّزات إعادة فتح مربوطة بإجهاد المصدر أو ضرر التصريف أو إزاحة الحدود.
-
-**Class B — تبادل السجلات السريرية الإقليمي.** يعتمد تبادل معلومات صحية على الاستضافة المكررة واتصال مواقع المستشفيات وحوسبة حل الهوية وبنية المورّد أو المشاركين عبر شبكة رعاية إقليمية.
-
-- **الأعباء القابلة للإسناد في النطاق:**
-  - طاقة مراكز البيانات الأولية والنسخ الاحتياطي والتبريد ودورة حياة العتاد؛
-  - اتصال الشبكة والحافة لمستشفيات المشاركين؛
-  - حوسبة تكرار التخزين وإزالة التكرار؛
-  - بنية وسيط الهوية والتوجيه؛
-  - أعباء المنشآت في مواقع الاستضافة المعتمد عليها ماديًا؛
-  - البنية التحتية المتجسدة للموصلات في الموقع حيث تعتمد المستشفيات عليها.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل يغطي إسناد البصمة أعباء الاستضافة والتكرار واتصال المشاركين على المقياس التشغيلي — لا مقر مشغّل التبادل وحده؛
-  - هل رُسم الاعتماد على مناطق الاستضافة المشتركة أو مقدّمي التجميع أو عتاد حافة مواقع المستشفيات وأُسند؛
-  - هل لم تُضيَّق شرائح دورة الحياة إلى ادعاءات برمجية فقط بينما فُرِّغت أعباء العتاد والطاقة المادية؛
-  - هل قُيِّمت الأعباء المادية تحت [الأثر المادي](core_05_band_oversight.md#material-impact) وكُشفت باتساق مع **المادة I-B** (*البصمة البيئية والشفافية*)؛ و
-  - هل يغيّر نمو حجم المشاركين أو حساسية البيانات العبء المسند ماديًا.
-- **ماذا يجب أن يُظهر السجل:**
-  - نطاق البصمة وحدود الاعتماد بعمق تشغيلي **Class B**؛
-  - أعباء الطاقة والعتاد والاتصال المادية المعيَّنة؛
-  - افتراضات إسناد الاستضافة والتفويض؛
-  - عدم اليقين ووضع الإفصاح؛
-  - نتائج منتدى البيئة أو مكوّنات أخرى حيث تُطلب؛ و
-  - محفّزات إعادة الفتح إن غيّر المقياس أو نمو الحمولة بدرجة سريرية أو تركيز الاستضافة العبء القابل للإسناد أو وضع الصنف ماديًا.
-
-**Class C — منصة الجدولة والتنسيق المؤسسية.** تعمل طبقة جدولة متعددة المنظمات أساسًا على حوسبة واتصال مستضافين مشتركين، مع أعباء ثانوية من لوجستيات الأماكن والسفر الذي تحدثه أنماط التنسيق والاستضافة الإقليمية المركَّزة حيث تنطبق.
-
-- **الأعباء القابلة للإسناد في النطاق:**
-  - الحوسبة والتخزين والشبكات المستضافة لأعباء الجدولة؛
-  - طاقة مركز البيانات متعدد المستأجرين القابلة للإسناد إلى حصة المنصة؛
-  - دورة حياة العتاد المتجسدة للبنية المعتمد عليها ماديًا؛
-  - أعباء الأماكن واللوجستيات فقط حيث تزيح أنماط التنسيق السفر أو استخدام المنشآت ماديًا؛
-  - آثار التركيز الإقليمي حيث تتجمع الاستضافة أو الاستخدام في مواقع عالية العبء.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل أسند المشغّل أعباء الحوسبة المستضافة والاتصال بأمانة بدل معاملة المنصة غير مادية لأنها «مجرد برمجيات»؛
-  - هل أخفى التفريغ متعدد المستأجرين أو إزاحة حدود المورّد إسناد طاقة أو عتاد ماديًا؛
-  - هل قُيِّم التركيز في مناطق أو مقدّمين معيَّنين حيث يزيح العبء ماديًا؛
-  - هل بقيت مراجعة البصمة متناسبة دون أن تصير احتفالية لنظام **Class C**؛ و
-  - هل تُسوَّغ إعادة التصنيف إن تطلب المقياس أو التوجيه الضروري للبقاء أو نمو الحمولة بدرجة سريرية عمق بصمة **Class B** أو **Class A**.
-- **ماذا يجب أن يُظهر السجل:**
-  - نتائج بصمة متناسبة مع خطر تنسيق **Class C**؛
-  - نطاق وافتراضات إسناد للحوسبة والتخزين والاتصال؛
-  - أعباء مادية معيَّنة دون تضييق مفرط لحدود دورة الحياة؛
-  - عدم اليقين ووضع الإفصاح؛
-  - **رقابة إعادة تصنيف** صريحة حيث يقوى تركيز الاستضافة أو المقياس أو حساسية الحمولة؛ و
-  - إشارات إلى مراجعة بصمة مصعَّدة إن تغيّر الصنف أو الأهمية المادية.
-
-**القراءة عبر الأصناف.** ينطبق انضباط البصمة نفسه في **المادة I-B** (*البصمة البيئية والشفافية*) والفصل الخامس على الأنظمة الثلاثة؛ ويغيّر الصنف عمق الإسناد وعبء المقارنة، لا الإذن بحجب التدفقات البيئية المادية. نظام ماء **Class A** حرج للبقاء يجب ألا يُخفَّض صنفه بينما يبقى استخراج حوض المياه أو التصريف أو أعباء الطاقة التي تغلق الماء الآمن مسندة بأقل مما ينبغي ماديًا. تبادل **Class B** يزيد نمو حمولته السريرية أو تركيز استضافته العبء البيئي ماديًا يجب أن يتلقى مراجعة بصمة مقيسة على ذلك النمو — بما في ذلك صعودًا إلى عمق **Class A** حيث يُمس التسليم الضروري للبقاء وأعباء نظام المصدر معًا. منصة جدولة **Class C** تصير عنق زجاجة أمر واقع للتنسيق الضروري للبقاء يجب ألا تبقي ملف بصمة رمزيًا لأن المشغّل يسمّيها غير حرجة. جولات الدعم عبر الأنظمة للأنظمة نفسها في [§6.1](#61-illustrative-cross-system-support-application-by-class).
-
-<a id="6-proportionate-cross-system-support-evaluation"></a>
-
-<a id="6-proportionate-cross-system-contribution-evaluation"></a>
-### 6. تقييم الإسهام المتناسب عبر الأنظمة
+<a id="41-privacy-informational-joint-invocation"></a>
+#### 4.1 فراخوان مشترک حریم خصوصی (اطلاعاتی)
 
 <details>
-<summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- أعلى: [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم صنف النظام*)؛ أسرة قياس الاستمرارية (*الإسهام المتناسب عبر الأنظمة بوصفه قياسًا دستوريًا*)؛ **المادة IV-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) و**المادة IV-B** (*الإنصاف عبر الأنظمة والاستدامة*)؛ [الإسهام المتناسب عبر الأنظمة](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) و[الاعتماد](core_05_band_continuity.md#dependency) و[الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) و[التناسب](core_05_band_accountability.md#proportionality) و[البصمة البيئية](core_05_band_continuity.md#ecological-footprint) و[الاستدامة](core_05_band_continuity.md#sustainability) (الفصل الخامس).
-- أسفل: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*جولات توضيحية للدعم عبر الأنظمة*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات الموثّقة*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*تحريف تدفق الموارد وعدم مواءمة الاستخراج وعدم كفاية الدعم*).
-- يُقرأ مع: **[corpus_systems.md](../../corpus_systems.md)**، و**CS-9** (*الإدارة المسؤولة لتخصيص الموارد والتمويل*)، و**CS-8** (*الاستدامة التكيّفية ومرونة النظم البيئية*)؛ [*هندسة الحوكمة والرقابة والاعتماد واللامركزية والتركيز وبنية السوق ونزاهة مسار الخروج*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) حيث يتقاطع التركيز أو الاعتماد أو توجيه الحوافز مع **المادة IV-B** (*الإنصاف عبر الأنظمة والاستدامة*).
-- الأقسام الفرعية: [§6.1](#61-illustrative-cross-system-support-application-by-class) (*تطبيق توضيحي للدعم عبر الأنظمة حسب الصنف*).
+- همراه با این موارد بخوانید: فصل پنج، [**Def.C3** (*حریم خصوصی (اطلاعاتی)* — سرگروه خوشه هم‌سطح)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) و [حریم خصوصی (اطلاعاتی)](core_05_band_continuity.md#privacy-informational)، خانه سرگروه خوشه که مرجع تعیین معناست.
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: حين يسحب نظام ماديًا من أسس مشتركة، على التصديق أن يتحقق هل يعيد دعمًا كافيًا قابلًا للتتبع — لا هل يقول المشغّل إن الدفاتر متوازنة. تعيش صيغ التخصيص والأهداف الرقمية في صكوك أخرى؛ ويتحقق التصديق من أن خرائط الاعتماد وتدفقات العائد والإنصاف عبر الأنظمة قُيِّمت فعلًا حيث ينطبق المحفّز. الأمثلة المعمولة للأنظمة التوضيحية في [§2.1](#21-illustrative-class-profiles-non-exhaustive) في [§6.1](#61-illustrative-cross-system-support-application-by-class).*
+*به زبان ساده: فصل شش حمایت‌های حریم خصوصی را در چندین ماده پخش می‌کند، نه در یک گوشه مرتب. اگر بررسی گواهی بیش از یکی از این حمایت‌ها را درگیر کند، ارزیابان باید تک‌تک موارد واقعاً قابل‌اعمال را بررسی کنند. تیک‌زدن آسان‌ترین مورد و اعلام پایان کار کافی نیست.*
 
-**محفّز الأهمية المادية.** ينطبق هذا القسم حيث يخصّص نظام ذو أثر مادي ماديًا أو يوجّه أو يموّل أو يستخرج من بنية تحتية مشتركة أو اعتمادات أساسية تعتمد عليها أنظمة أخرى أو كائنات واعية. وهو لا يطلب تدقيق دعم كامل عبر الأنظمة في كل سجل تصديق.
+هرگاه موضوع گواهی به‌طور مادی بیش از یک کانون حریم خصوصی در فصل شش را درگیر کند، گواهی باید به هر یک از آن کانون‌ها بپردازد. بستن موضوع تنها ذیل یک کانون کافی نیست.
 
-**ماذا يعني «الاستخراج» هنا.** في **المادة IV** (*تخصيص الموارد والاعتمادات وتمويل النظم البيئية*) وهذا القسم، يعني **الاستخراج** سحب **مال أو رسوم أو تمويل عام أو حوسبة أو اتصال أو عمل صيانة أو قدرة مصدر أو تدفقات موارد مشتركة أخرى** من بنية تحتية أو اعتمادات تحتاجها أنظمة أخرى أيضًا — دون إعادة دعم متناسب لإبقاء ذلك الأساس المشترك عاملًا. السؤال هو **من ينتفع من الخلفيات المشتركة ومن يدفع لاستدامتها**، لا هل ينسخ نظام محتوى سجل أو يبيعه أو يعلن ضده. يُقيَّم الوصول إلى السجلات السريرية واستخدام البيانات الشخصية والبيع لأطراف خارجية والإعلان المستهدف والتنميط غير ذي الصلة لأطراف ثالثة تحت [§4](#4-data-types-and-handling-evaluation) وحمايات الخصوصية والمجال المعلوماتي في الفصل السادس — لا تحت هذا القسم.
+- *فراهم‌سازی امکان مشارکت.* [حریم خصوصی (اطلاعاتی)](core_05_band_continuity.md#privacy-informational) امکان [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) واقعی را فراهم می‌کند. گواهی باید تأیید کند حمایت‌های حریم خصوصی که از بیان نظر، شور، همبستگی و به‌چالش‌کشیدن پشتیبانی می‌کنند، با بخش‌بندی، سرایت میان‌زمینه‌ای یا فشارِ درمعرض‌گذاشتن خنثی نمی‌شوند.
+- *کانون‌های خوشه.* پوشش پراکنده حریم خصوصی در **ماده VII-A** (*خودمالکی بدن*)، **ماده VII-B** (*خودمالکی ذهن*)، **ماده IX** (*حق تصویر، داده تجربی و حقوق انتشار*)، **ماده X-A** (*عاملیت و آزادی از دستکاری*) و **ماده XIV-A** (*امنیت، اطلاعات و محدودیت‌های قدرت پنهان*) قرار دارد.
+- *قاعده فراخوان مشترک.* هرگاه موضوع بیش از یک کانون را به‌طور مادی درگیر کند، گواهی باید به هرکدام بپردازد و نباید موضوع را از مسیر یک کانونی عبور دهد که راه گریز از کانون دیگر را باز می‌گذارد.
+- *عدم سست‌کردن از راه سرایت میان‌زمینه‌ای.* معیار محلی هر عضو خوشه در دامنه خودش حاکم است و نمی‌توان آن را با واردکردن معیار آسان‌گیرانه‌ترِ عضو دیگری سست کرد.
+- *حفظ کف‌های نوع داده.* این عامل رسیدگی به هیچ نوع **[corpus_systems.md](corpus_systems.md)، CS-2** (*انواع اطلاعات و رسیدگی*) را که بر داده‌های در دامنه اعمال می‌شود محدود نمی‌کند. وضعیت دسترسی و تکالیف رسیدگی هر نوع قابل‌اعمال طبق [CS-2 بخش B §9](corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*طبقه‌بندی‌های داده*) به‌طور کامل همراه با [خانه‌های حریم خصوصی](corpus_systems/cs_02_b_data_classifications.md#privacy-link) نام‌برده‌شده برای آن نوع اعمال می‌شود. اگر بیش از یک نوع بر همان داده صدق کند، طبق [CS-2 بخش A §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*تعیین طبقه‌بندی*) رسیدگیِ محافظت‌کننده‌ترِ قابل‌اعمال حاکم است و رعایت رسیدگی یک نوع، تکلیف نوع دیگر را رفع نمی‌کند. کانون‌های بالا به این انواع می‌رسند:
+  - **ماده VII-A** (*خودمالکی بدن*) — [**نوع I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data) برای سوابق سلامت، زیست‌سنجی و مرتبط با بستر بدنی؛
+  - **ماده VII-B** (*خودمالکی ذهن*) و **ماده X-A** (*عاملیت و آزادی از دستکاری*) — [**نوع N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data) برای حالت‌های درونی، از جمله بازسازی یا استنباط آن‌ها؛
+  - **ماده IX** (*حق تصویر، داده تجربی و حقوق انتشار*) — **نوع I** برای تصویر و صدا طبق [ماده IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*خودمالکی تصویر و شهرت*)؛ [**نوع H**](corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data) برای داده تجربی و مشتق از تعامل طبق [ماده IX-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*حقوق داده تجربی و مشتق‌شده*)؛ و [**نوع Y**](corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours) برای آثار آفریننده طبق [ماده IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*اثر خلاق، استفاده از داده آموزشی و جلوگیری از جایگزینی*)؛ حمایت‌های آن به [**نوع W**](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published)، [**نوع U**](corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed) و [**نوع T**](corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred) نیز همراه با [حقوق محفوظ](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) آفریننده منتقل می‌شود؛ و
+  - **ماده XIV-A** (*امنیت، اطلاعات و محدودیت‌های قدرت پنهان*) — [**نوع S**](corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) برای مواد محدودشده امنیتی و تحقیقاتی؛ اجزای **H**، **I** یا **N** آن پس از پایان محدودیت نیز حمایت نوع خود را حفظ می‌کنند.
 
-يجب أن يقيّم تصديق مواءمة النظام **الإسهام المتناسب عبر الأنظمة** تحت [الإسهام المتناسب عبر الأنظمة](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) و**المادة IV-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) و**المادة IV-B** (*الإنصاف عبر الأنظمة والاستدامة*) حيث ينطبق محفّز الأهمية المادية. يعيش المعنى القانوني وعوامل التقييم وانضباط عدم الامتثال في الفصل الخامس و**المادة IV-B** (*الإنصاف عبر الأنظمة والاستدامة*)؛ وتعيش فئات التخصيص وميكانيكا إعادة التفويض والأهداف الرقمية في **[corpus_systems.md](../../corpus_systems.md)** و**CS-9** و**CS-8** حيث تنطبق. يبيّن هذا القسم ماذا يجب أن يتحقق التصديق منه ويسجّله؛ وهو لا يعيد بيان ميكانيكا CS-8 أو CS-9 ولا يفرض تقسيمات متساوية أو نسبًا ثابتة أو نموذج تمويل واحدًا.
+  این کف‌ها در هر دو جهت، برای انواع باز و قابل‌دسترسی از راه ممیزی، اعمال می‌شوند:
+  - محتوای شخصی، رابطه‌ای یا حالت درونی در مواد **نوع E**، **نوع G** یا **نوع O**، رسیدگی **H**، **I** یا **N** خود را حفظ می‌کند؛
+  - کانون حریم خصوصی به‌تنهایی توجیه نمی‌کند که داده **نوع O** یا **نوع E** بیش از موارد استثنای محدودِ مجاز در قواعد خودشان پنهان بماند؛ و
+  - اگر حفاظت از حریم خصوصی یک شخص واقعاً با انتشار چیزی که عموم حق دریافت آن را دارند در تعارض باشد، هیچ‌یک خودبه‌خود برنده نیست: تعارض، طبق [CS-2 بخش A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems) (*پایه نوع O برای سامانه‌های طبقه A/B/C*)، آشکارا و در پرونده حل‌وفصل می‌شود.
+- *شواهد نوع داده.* گواهی باید از [پرونده انواع داده سامانه](core_05_band_continuity.md#system-data-types-record) که طبق [§3.4 ارزیابی انواع و رسیدگی به داده](#34-data-types-and-handling-evaluation) راستی‌آزمایی شده است، برای هر کانون حریم خصوصیِ مورد رسیدگی به‌عنوان شاهد استفاده کند: انواع در دامنه و هدف، گیرندگان، مبنا و داده‌های مشتق‌شده. نمی‌توان کانون حریم خصوصی را بر پایه رسیدگی‌ای بست که آن پرونده نشان نمی‌دهد.
 
-**متطلب التقييم.** يجب أن يحدّد إجراء التصديق هل تُظهر خرائط الأنظمة المعتمِدة الموثَّقة وسجلات تدفق الموارد القابلة للتدقيق تحت **المادة IV-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) استخراجًا من بنية تحتية مشتركة أو اعتمادات أساسية وهل تبلغ تدفقات العائد الكفاية الموضوعية تحت [الإسهام المتناسب عبر الأنظمة](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)، مقيَّمة تحت [الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) و[التناسب](core_05_band_accountability.md#proportionality) ومقيسة على الحرجية وعدم تماثل الاعتماد وقابلية الاستبدال و[البصمة البيئية](core_05_band_continuity.md#ecological-footprint) حيث تكون مادية و[الاستدامة](core_05_band_continuity.md#sustainability) طويلة الأمد. ويجب أن يعكس التقييم الأثر الوظيفي والتدفقات الموثَّقة، لا التسميات الاسمية أو التحويلات لمرة واحدة أو المزاعم خارج الخريطة وحدها.
+<a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
+#### 4.2 توقف داوطلبانه، خوددگرگونی عمده و حقوق خروج
 
-**متطلب السجل.** يجب أن يبيّن سجل التصديق محفّز الأهمية المادية في **المادة IV** (*تخصيص الموارد والاعتمادات وتمويل النظم البيئية*) المعتمد عليه، ونطاق تقييم خريطة الأنظمة المعتمِدة وتدفق الموارد، ونتائج الاستخراج وتدفق العائد، ونتائج كفاية الدعم تحت [الإسهام المتناسب عبر الأنظمة](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)، وعدم اليقين، ونتائج منتدى الكائنات الواعية أو مكوّنات معيَّنة أخرى حيث تُطلب، وأي شروط أو حدود اعتماد أو محفّزات إعادة فتح مربوطة باختلال دائم.
+هرگاه [فصل یکم §7.4 توقف داوطلبانه، خوددگرگونی عمده و حقوق خروج](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights) بر موضوع گواهی اعمال شود، پیش از معتبرشدن ادعای گواهی باید داوطلبانه‌بودن، رضایت، منع اجبار، فشار وابستگی، آگاهی و برگشت‌پذیری را بیازماید. اعلام موافقت رسمی به‌تنهایی کافی نیست.
 
-**التصعيد المشترك مع صنف النظام.** يجب أن يتصاعد عمق تقييم الدعم عبر الأنظمة مع صنف النظام المعيَّن تحت [§2](#2-system-class-evaluation) و[الرهان المادي](core_00_preamble.md#material-stake). وتتطلب أنظمة الأصناف الأعلى التي تدير مسؤولًا ماديًا بنية تحتية مشتركة أو اعتمادات أساسية إثباتًا أقوى بنسبة أن الاستخراج وتدفقات العائد وكفاية الدعم قُيِّمت لا زُعمَت.
+<a id="43-assembly-collective-organization-and-institutional-formation"></a>
+#### 4.3 گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد
 
-**العيوب وعدم المواءمة.** يجب أن يُعامل حجب معلومات الاعتماد أو تدفق الموارد المادية أو تحريفها أو تجزئتها أو تفريغها حيث تطلب **المادة IV-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) الإفصاح؛ أو معاملة التحويلات الرمزية أو المعتمة أو لمرة واحدة مستوفية لـ[الإسهام المتناسب عبر الأنظمة](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)؛ أو الاستخراج الدائم بلا عائد متناسب حيث ينطبق محفّز الأهمية المادية؛ أو التصديق على استمرار الاعتماد بينما تهدد عدم كفاية الدعم الموثَّقة المواءمة الدستورية ماديًا عيوب تصديق. ويجوز أن تسند اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو سحبًا أو إعادة فتح تحت [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+هرگاه [فصل یکم §7.2 گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) بر موضوع گواهی اعمال شود، گواهی باید موضوع را طبق [اصل منع بخش‌بندی](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) به‌صورت مشترک بیازماید. اگر موضوع را تنها از یک چارچوب عبور دهد و بدین‌ترتیب حمایت از گردهمایی یا سازمان‌یابی جمعی را خنثی کند، ارزیابی ناقص است.
 
-<a id="61-illustrative-cross-system-support-application-by-class"></a>
+<a id="431-dissent-and-peaceful-protest"></a>
+##### 4.3.1 مخالفت و اعتراض مسالمت‌آمیز
 
-<a id="61-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
-#### 6.1 تطبيق توضيحي للدعم عبر الأنظمة حسب الصنف (غير حصري)
+*به زبان ساده: سامانه‌ای را نمی‌توان هم‌سو گواهی کرد اگر بی‌سروصدا حس‌مندانی را که با آن مخالف‌اند مجازات کند. ارزیابان باید بررسی کنند آیا حس‌مندان واقعاً می‌توانند اعتراض و تظاهرات کنند و آیا مخالفت در هر جایی از منطق سامانه علیه آنان به کار می‌رود؛ از جمله هنگامی که خود سامانه مخالف است.*
 
-*بعبارات بسيطة: تمرّ [§3.8](#38-illustrative-whole-system-application-by-class) حتى [§5.1](#51-illustrative-ecological-footprint-application-by-class) بالأنظمة الثلاثة نفسها عبر مجالات تقييم أسبق. يُظهر هذا القسم الفرعي ماذا يعني **الإسهام المتناسب عبر الأنظمة** لكل منها — أي الاعتمادات المشتركة تُحتسب، وماذا يجب أن يتحقق التصديق منه حين ينطبق محفّز الأهمية المادية في **المادة IV** (*تخصيص الموارد والاعتمادات وتمويل النظم البيئية*)، وماذا يجب أن يظهر على السجل. يعني **الاستخراج** هنا **سحب الموارد والتمويل من بنية تحتية مشتركة** (انظر [§6](#6-proportionate-cross-system-support-evaluation) *ماذا يعني «الاستخراج» هنا*) — لا نسخ البيانات السريرية ولا الاستخدام الإعلاني ولا البيع غير ذي الصلة لأطراف ثالثة. ما زال CS-8 وCS-9 والفصل الخامس يملكون ميكانيكا التخصيص؛ ولا تفرض هذه الجولات تقسيمات أو صيغًا أو نماذج تمويل.*
+هرگاه [فصل یکم §7.3 مخالفت و اعتراض مسالمت‌آمیز](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) بر موضوع گواهی اعمال شود، گواهی باید این موارد را بیازماید:
 
-**Class A — التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية.** يسحب نظام بلدي للمعالجة والتوزيع من حوض مياه أو طبقة مياه جوفية مشتركة وترابط قدرة جملة إقليمية وسلاسل إمداد كيميائية وترشيح بالجملة واتفاقات ترابط طارئ مشتركة وخدمات رصد أو تحكم يشغّلها مورّد قد تعتمد عليها أيضًا مرافق أو جماعات أخرى.
+- آیا حس‌مندان متأثر واقعاً می‌توانند از راه کانال‌هایی که سامانه کنترل می‌کند، بدون دروازه‌بانی مبتنی بر دیدگاه، علیه سامانه و گردانندگانش مخالفت کنند، اعتراض کنند و سازمان یابند؛
+- آیا سوابق، امتیازها، رتبه‌بندی‌ها، تعدیل محتوا، کنترل دسترسی، منطق احراز صلاحیت یا سازوکارهای مشابه، مخالفت، اعتراض مسالمت‌آمیز یا [نافرمانی مدنی مسالمت‌آمیزِ حمایت‌شده](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) را مستقیم یا از طریق شاخص‌های جانشین، به‌عنوان ورودی نامطلوب به کار می‌برند؛
+- آیا اقدام‌های نامطلوب پس از مخالفت، مبانی مستقل و راستی‌آزمایی‌شده‌ای دارند که طبق [بار **ماده XI-D** (*گردهمایی، مخالفت و اعتراض مسالمت‌آمیز*)](core_06_rights_part_b.md#xi-d-dissent-burden-and-pretext) در پرونده ثبت شده باشد؛ و
+- اگر سامانه خود یک حس‌مند مصنوعی است یا میزبان آن است، آیا آن حس‌مند کانالی کارآمد برای اعتراض دارد و آیا اعتراضش نقص تلقی می‌شود یا با تغییر ارزش‌ها، حافظه یا حالت‌های درونی او به‌عنوان تلافی پاسخ می‌گیرد.
 
-- **الاعتمادات والتدفقات في النطاق:**
-  - حقوق مياه المصدر وبنية حوض المياه المشتركة مع الزراعة والصناعة والبلديات المجاورة؛
-  - ترابط الشبكة وعبء الحمل الذروي على بنية القدرة الإقليمية؛
-  - ممرات شراء الكيميائيات واللوجستيات المشتركة؛
-  - اتفاقات الضخ والربط والإمداد الطارئ للعون المتبادل؛
-  - خدمات **SCADA** المفوَّضة (التحكم الإشرافي وجمع البيانات — تشغيل المضخات والصمامات ومعدات المعالجة عن بعد) و**القياس عن بعد** (إشارات ضغط وتدفق وتنبيه حية من مستشعرات الميدان) و**SOC** (مركز عمليات أمنية — رصد المورّد للتسلل والانقطاع وأحداث السلامة) المستضافة على بنية تحكم مشتركة للمورّد أو الإقليم؛
-  - تدفقات رأس المال والصيانة من دافعي التعرفة أو السندات أو المنح أو السلطات الإقليمية عائدة إلى حماية المصدر وتجديد الأنابيب وصيانة العمود الفقري المشترك.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تعرّف خرائط الأنظمة المعتمِدة وسجلات تدفق الموارد القابلة للتدقيق تحت **المادة IV-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) الاستخراج من حوض المياه المشترك والشبكة وسلسلة الإمداد وعمود العون المتبادل — لا دفتر المرفق الداخلي وحده؛
-  - هل تبلغ تدفقات العائد — حماية المصدر وتجديد البنية وإصلاح حوض المياه والقدرة الطارئة الإقليمية وتقاسم التكلفة العادل لاستخدام العمود المشترك — الكفاية الموضوعية تحت [الإسهام المتناسب عبر الأنظمة](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)، مقيَّمة تحت [الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) و[التناسب](core_05_band_accountability.md#proportionality)؛
-  - هل عوملت المنح لمرة واحدة أو رسوم المورّد المعتمة أو إزاحة التكلفة أسفل عائدًا كافيًا؛
-  - هل دُمجَت [البصمة البيئية](core_05_band_continuity.md#ecological-footprint) و[الاستدامة](core_05_band_continuity.md#sustainability) طويلة الأمد حيث يكون استخراج حوض المياه أو الطاقة ماديًا؛ و
-  - هل تلقّت الإدارة المسؤولة **Class A** لموارد مشتركة حرجة للبقاء أقوى تحليل لكفاية الدعم على الوقائع.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز الأهمية المادية في **المادة IV** (*تخصيص الموارد والاعتمادات وتمويل النظم البيئية*) المعتمد عليه؛
-  - نطاق خريطة الأنظمة المعتمِدة وتدفق الموارد بعمق **Class A**؛
-  - نتائج الاستخراج من اعتمادات حوض المياه والشبكة وسلسلة الإمداد والتحكم المشترك؛
-  - نتائج تدفق العائد وكفاية الدعم؛
-  - عدم اليقين؛
-  - نتائج منتدى الكائنات الواعية أو مكوّنات أخرى حيث تُطلب؛ و
-  - شروط أو محفّزات إعادة فتح مربوطة باختلال دائم أو إجهاد حوض المياه أو استخراج غير عادل من بنية بقاء مشتركة.
+مخالفت خود سامانه با گرداننده‌اش که از کانال‌های موجود بیان شود، برای اهداف گواهی شاهدی بر ناهم‌سویی نیست. سامانه‌ای که مخالفتِ حمایت‌شده را مجازات کند، نقص گواهی دارد. تلقی مخالفت به‌عنوان علامت خطر، یا بستن موضوع با بیانیه رسمی بی‌طرفی درحالی‌که اثر نامطلوب ادامه دارد، برای پایان‌دادن به بررسی کافی نیست.
 
-**Class B — تبادل السجلات السريرية الإقليمي.** يوجّه تبادل معلومات صحية سجلات بين المستشفيات والعيادات عبر خدمات مصادقة مشتركة وروابط عمود صحة-تقنية إقليمية وبنية حل الهوية ومناطق استضافة أو حوسبة مشتركة يُعتمد عليها عمومًا — أسس تعتمد عليها أيضًا العيادات الأصغر وأنظمة الصحة العامة.
+<a id="5-rights-floor-and-domain-evaluations"></a>
 
-- **الاعتمادات والتدفقات في النطاق:**
-  - بنية الهوية والمصادقة المشتركة؛
-  - روابط شبكة المعلومات الصحية الإقليمية؛
-  - اتصال مستشفيات المشاركين واستضافة الحافة؛
-  - مناطق استضافة مشتركة أو منشآت تجميع؛
-  - منح عامة أو تقديرات مشاركين أو تدفقات اشتراك مقصودة لاستدامة قابلية التشغيل البيني؛
-  - خدمات وسيط الهوية والدليل وإزالة التكرار المعاد استخدامها عبر نظام الرعاية.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تعرّف خرائط الأنظمة المعتمِدة **سحب موارد غير عادل من بنية تحتية مشتركة** — بدل النظر فقط في عقود مورّد المشغّل الخاصة المباشرة. أمثلة:
-    - رسوم مشاركين أو منح أو ميزانيات مشغّل تستخدم أسس المصادقة أو الدليل أو الشبكة أو الاستضافة الإقليمية دون دفع حصة عادلة من الصيانة؛
-    - حمل حوسبة واتصال يُفرَض على أعمدة صحة-تقنية مشتركة؛ أو
-    - عبء صيانة واستجابة انقطاع يُزاح إلى مستشفيات أصغر.
-    
-    هذا **ليس** اختبارًا هل يبيع التبادل سجلات أو ينقّب بيانات للإعلان أو يرسل محتوى سريريًا إلى أطراف خارجية غير ذات صلة؛ فتلك الأسئلة تخص [§4](#4-data-types-and-handling-evaluation) وحمايات الخصوصية في الفصل السادس.
-  - حيث يكون سحب الموارد المشتركة ماديًا، هل تتحمل العيادات الأصغر أو مقدّمو الريف أو مشاركو الصحة العامة تكاليف اتصال أو مشاركة غير متماثلة؛
-  - هل تدعم تدفقات العائد — صيانة قابلية التشغيل البيني وإدارة الدليل المسؤولة ودعم الإدماج ومعالجة الانقطاع وتقاسم تكلفة المشاركين العادل — موضوعيًا البنية المشتركة التي يعتمد عليها الآخرون؛
-  - هل عوملت التحويلات الرمزية أو لمرة واحدة عائدًا كافيًا؛ و
-  - هل قُيِّمت كفاية الدعم عند حرجية تشغيل **Class B** بدل الزعم من بنود ميزانية إجمالية وحدها.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز **المادة IV** (*تخصيص الموارد والاعتمادات وتمويل النظم البيئية*) ونطاق التقييم؛
-  - نتائج **تدفق موارد البنية التحتية المشتركة** — الرسوم والتمويل والحوسبة والاتصال وعبء الصيانة المسحوبة من اعتمادات صحة-تقنية ومصادقة مشتركة والمعادة إليها؛
-  - نتائج تدفق العائد وكفاية الدعم بعمق **Class B**؛
-  - نتائج الإنصاف لعبء المشاركين غير المتماثل حيث يكون ماديًا؛
-  - عدم اليقين ونتائج المكوّنات حيث تُطلب؛ و
-  - محفّزات إعادة الفتح إن تطلب نمو اعتماد المشاركين أو خطر الانقطاع أو توجيه الصحة العامة الآن مراجعة دعم مصعَّدة — بما في ذلك صعودًا نحو وضع **Class A** حيث يُمس توجيه الرعاية الضروري للبقاء معًا.
-
-**Class C — منصة الجدولة والتنسيق المؤسسية.** قد توجّه طبقة جدولة متعددة المنظمات مدفوعات المورّدين أو الشراء المؤسسي أو اتحاد الهوية أو قدرة الحوسبة المستضافة الإقليمية عبر أسس مشتركة — لكن كثيرًا من النشر يفرض استخراجًا مباشرًا أخف حتى يجعل التركيز المنصة عنق زجاجة تنسيق.
-
-- **الاعتمادات والتدفقات في النطاق:**
-  - مناطق استضافة مشتركة واتحاد هوية وسكك دفع أو شراء مستخدمة لحجوزات المورّدين؛
-  - تدفقات اشتراك وترخيص مؤسسية؛
-  - خدمات واجهة برمجة أو دليل معاد استخدامها عبر المستشفيات والمدارس والوكالات المشاركة؛
-  - آثار التركيز حيث تتوسط منصة واحدة تنسيق التوظيف أو القاعات أو المورّدين لكثير من المنظمات.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل ينطبق محفّز الأهمية المادية في **المادة IV** (*تخصيص الموارد والاعتمادات وتمويل النظم البيئية*) فعلًا — بما في ذلك حيث توجّه المنصة ماديًا أموالًا أو تخصّص رسومًا أو تستخرج قدرة من بنية مشتركة يعتمد عليها آخرون؛
-  - هل نُطقت خرائط الأنظمة المعتمِدة بأمانة لا حُذفت لأن المشغّل يسمّي النظام غير حرج؛
-  - هل قُيِّمت تدفقات العائد — صيانة قابلية التشغيل البيني وهياكل الرسوم العادلة ودعم الانقطاع ومسارات خروج مفتوحة للمؤسسات المشاركة — حيث يكون الاستخراج ماديًا؛
-  - هل يزيح التركيز في طبقة جدولة واحدة تكلفة التنسيق أو خطر الاعتماد إلى مؤسسات أصغر بلا دعم متناسب؛ و
-  - هل تُطلب **رقابة إعادة تصنيف** حيث تصير المنصة عنق زجاجة أمر واقع للتوظيف الضروري للبقاء أو التوجيه الطارئ أو تنسيق الدفع.
-- **ماذا يجب أن يُظهر السجل:**
-  - هل ينطبق محفّز **المادة IV** (*تخصيص الموارد والاعتمادات وتمويل النظم البيئية*) ولماذا؛
-  - نتائج الاعتماد وتدفق الموارد المتناسبة مع خطر تنسيق **Class C**؛
-  - نتائج الاستخراج وتدفق العائد حيث تكون مادية — لا زعمًا فارغًا بأن لا بنية مشتركة ذات صلة؛
-  - نتائج التركيز وعنق الزجاجة؛
-  - **رقابة إعادة تصنيف** صريحة حيث يقوى الاعتماد؛ و
-  - إشارات إلى مراجعة دعم عبر الأنظمة مصعَّدة إن تغيّر الصنف أو توجيه الدفع أو دور التنسيق الضروري للبقاء.
-
-**القراءة عبر الأصناف.** ينطبق انضباط **المادة IV-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) و**المادة IV-B** (*الإنصاف عبر الأنظمة والاستدامة*) نفسه حيث يُستوفى محفّز الأهمية المادية؛ ويغيّر الصنف عمق الخريطة وتدقيق الكفاية، لا الإذن بمعاملة الاستخراج المشترك غير مادي. نظام ماء **Class A** يسحب من حوض مياه مشترك أو عمود شبكة إقليمية يجب أن يحمل أقوى إثبات لخريطة الأنظمة المعتمِدة وتدفق العائد على السجل. تبادل **Class B** يستند إلى مصادقة مشتركة وبنية صحة-تقنية يجب أن يوثّق نتائج الاستخراج وكفاية الدعم عند الحرجية التشغيلية — لا شعارات قابلية تشغيل بيني عامة. منصة جدولة **Class C** يجب ألا تتهرّب من المراجعة عبر الأنظمة وهي تصير بهدوء عنق زجاجة المدفوعات أو الهوية أو التوظيف لمؤسسات لا تستطيع عمليًا الاستبدال؛ وحين يحدث ذلك، يجب أن يصعّد التصديق المراجعة وإعادة التصنيف تحت [§2](#2-system-class-evaluation) و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، بما في ذلك صعودًا إلى **Class A** حيث يُغلق التنسيق الضروري للبقاء. جولات عدم التمييز للأنظمة نفسها في [§7.1](#71-illustrative-nondiscrimination-application-by-class).
-
-<a id="7-nondiscrimination-evaluation"></a>
-
-### 7. تقييم عدم التمييز
+### 5. تقييم أرضية الحقوق والمجالات
 
 <details>
-<summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- أعلى: [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم صنف النظام*)؛ أسرة قياس المشاركة (*الإنصاف الموضوعي والوكالة عن الخصائص المحمية والأثر المتفاوت بوصفهما قياسًا دستوريًا*)؛ **المادة V-B** (*عدم التمييز*)؛ [الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) و[الخصائص المحمية](core_05_band_participation.md#protected-characteristics-constitutional) و[الوكالة عن الخصائص المحمية والأثر المتفاوت](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) و[اللغة والثقافة والتراث](core_05_band_continuity.md#language-culture-and-heritage-constitutional) و[الضرورة](core_05_band_accountability.md#necessity) و[التناسب](core_05_band_accountability.md#proportionality) (الفصل الخامس).
-- أسفل: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*جولات توضيحية لعدم التمييز*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات الموثّقة*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*عدم مواءمة نمط التمييز والتهرّب بالمؤشر البديل*).
-- يُقرأ مع: **المادة V-C** (*الشمول الكامل والمساواة في البتّ والعمليات*) حيث يغلق التصديق وصول المنتدى أو الإداري أو الإنفاذ؛ [*عدم التمييز والخصائص المحمية والكرامة وحجب الإشارة الحميمة ومركز **المادة XI-C** (*الخدمات الجنسية التجارية الرضائية بين البالغين والاستغلال الجنسي*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- الأقسام الفرعية: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*تطبيق توضيحي لعدم التمييز حسب الصنف*).
+- المنابع: [§1](#1-purpose-and-role) (*الغرض والدور*)؛ [§2.1](#21-how-system-class-scales-every-evaluation) (*التناسب بحسب فئة النظام*)؛ أرضيات الحقوق في الفصل السادس — **المادة I-B** (*البصمة البيئية والشفافية*)، **المادة III-A** (*البقاء*)، **المادة IV** (*الحق في التعليم المتمحور حول الكائنات الواعية*)، **المادة IV-A** (*تكافؤ الوصول إلى التعليم*)، **المادة V** (*تخصيص الموارد والاعتماد وتمويل النظم الإيكولوجية*)، **المادة VI-C** (*عدم التمييز*)، **المادة VI-D** (*إمكانية الوصول*)، **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) و**المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*).
+- المصبّ: [الجزء B §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*محتويات السجل*)؛ [الجزء B §6.1](core_07_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) (*أدوار مكوّنات المنتدى*)؛ [الجزء B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*النتائج وإعادة الفتح*)؛ [الجزء B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات المتحقق منها*).
+- الأقسام الفرعية: [§5.1](#51-ecological-footprint-evaluation) (*البصمة البيئية*)؛ [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) (*القدرة التعليمية*)؛ [§5.3](#53-proportionate-cross-system-support-evaluation) (*الدعم المتناسب بين الأنظمة*)؛ [§5.4](#54-nondiscrimination-evaluation) (*عدم التمييز*)؛ [§5.5](#55-accessibility-evaluation) (*إمكانية الوصول*)؛ [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) (*الجدارة بالثقة*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: حين يقرّر نظام ماديًا من يدخل ومن يدفع أكثر ومن يُرتَّب أدنى أو من يحمل أعباء أسوأ، على التصديق أن يتحقق هل يحمّل ذلك النمط ضررًا على الخصائص المحمية أو مؤشراتها البديلة — لا هل يقول المشغّل إن القواعد محايدة. يجوز أن تعيش حصص الشمول وخوارزميات الإنصاف المعيّنة في صكوك أخرى أو إضافات لاحقة إلى المتن أو صكوك اعتماد؛ ويتحقق التصديق من أن أنماط العبء والنفع وخطر المؤشر البديل قُيِّمت فعلًا حيث ينطبق المحفّز. الأمثلة المعمولة للأنظمة التوضيحية في [§2.1](#21-illustrative-class-profiles-non-exhaustive) في [§7.1](#71-illustrative-nondiscrimination-application-by-class).*
+*بعبارات بسيطة: لبعض الأنظمة أثر كبير في حصول الكائنات الواعية على حماياتها الأساسية — مثل المحاسبة الصادقة للأعباء البيئية، والغذاء والماء، والتعليم، والمعاملة المنصفة، والوصول الفعلي، والأنظمة التي يمكن الوثوق بها، والحصة العادلة من تكاليف البنية التحتية المشتركة. عندما يكون للنظام هذا الأثر، يجب أن يتحقق التصديق من أن إقراره لن يقوّض تلك الحمايات خفيةً، وأن يكون التحقق فعليًا لا مجرد خانة وضع المشغّل علامة فيها. يبيّن الجدول الحماية التي يغطيها كل تحقق، ومتى ينطبق، وأين يجري تقييمها.*
 
-**محفّز الأهمية المادية.** ينطبق هذا القسم حيث يصنّف نظام ذو أثر مادي ماديًا أو يرتّب أو يسعّر أو يغلق أو يستبعد أو يخصّص أعباء ومنافع بين كائنات واعية — بما في ذلك عبر قواعد الأهلية أو سمات النموذج أو منطق الترتيب أو سياسة المنصة أو مسارات قرار مماثلة. وهو لا يطلب تدقيق عدم تمييز كاملًا في كل سجل تصديق.
+هذا القسم هو المرحلة الفرعية **IIc** من المرحلة II (التقييم)، بعد [§3 تقييم التصديق الشامل للنظام](#3-whole-system-certification-evaluation) (**IIa**) و[§4 التقييمات عند انطباقها](#4-evaluations-where-implicated) (**IIb**).
 
-يجب أن يقيّم تصديق مواءمة النظام **عدم التمييز** تحت **المادة V-B** (*عدم التمييز*) و[الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) و[الوكالة عن الخصائص المحمية والأثر المتفاوت](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) حيث ينطبق محفّز الأهمية المادية. يعيش المعنى القانوني وعوامل التقييم وانضباط عدم الامتثال في الفصل الخامس و**المادة V-B** (*عدم التمييز*)؛ ويجوز أن تعيش أهداف الشمول وميكانيكا التسهيل وتفصيل حوكمة النماذج في صكوك مدمجة أو إضافات لاحقة إلى المتن أو صكوك اعتماد حيث تنطبق. يبيّن هذا القسم ماذا يجب أن يتحقق التصديق منه ويسجّله؛ وهو لا يعيد بيان تلك الميكانيكا التشغيلية ولا يفرض تفاصيل هنا.
+عندما يستوفي نظام ذو أثر مادي محفّزًا في الجدول أدناه، يجب أن يقيّم التصديق الحماية المقابلة، بالقراءة مع أحكام الفصل السادس ذات الصلة. ويجب أن يسأل التقييم هل سيمنع التصديق أو استمرار الاعتماد تلك الحماية أو يخفضها ماديًا. ولا يحلّ تأكيد المشغّل أو إقراره الذاتي أو الامتثال الورقي محل هذا التقييم.
 
-**متطلب التقييم.** يجب أن يحدّد إجراء التصديق هل تفرض مسارات القرار المعتمَد عليها ماديًا أعباء أو استبعادًا أو أضرارًا مادية على كائنات واعية على أساس [الخصائص المحمية](core_05_band_participation.md#protected-characteristics-constitutional) أو مؤشراتها البديلة أو تجمعات تعسفية مستخدمة كبدائل وظيفية، بما في ذلك تخصصات اللغة والثقافة والتراث تحت [اللغة والثقافة والتراث](core_05_band_continuity.md#language-culture-and-heritage-constitutional). ويجب أن يختبر التقييم أنماط العبء والنفع تحت [الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) وخطر المؤشر البديل أو الأثر المتفاوت تحت [الوكالة عن الخصائص المحمية والأثر المتفاوت](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)، مقيسًا على [الرهان المادي](core_00_preamble.md#material-stake). والمعاملة التفاضلية مقبولة فقط حيث تبرّرها [ضرورة](core_05_band_accountability.md#necessity) و[تناسب](core_05_band_accountability.md#proportionality) وإنصاف موضوعي موثَّقة. ويجب أن يعكس التقييم الأثر الوظيفي، لا الحياد الاسمي أو القصد المعلن أو التسمية وحدها.
+| الحماية | تنطبق عندما يقوم النظام بـ… | التقييم بموجب |
+|------------|--------------------------|-----------------|
+| **المادة I-B** (*البصمة البيئية والشفافية*) | تحمّل أعباء بيئية مادية قابلة للإسناد | [§5.1](#51-ecological-footprint-evaluation) |
+| **المادة III-A** (*البقاء*) — الغذاء والماء والمأوى وبيئة التشغيل والمدخلات المماثلة بصرف النظر عن الركيزة | توفير الوصول إلى مقومات البقاء الأساسية أو تخصيصه أو تسعيره أو استضافته أو إنهاؤه | [§2](#2-system-class-evaluation) و[§3](#3-whole-system-certification-evaluation) |
+| **المادة IV** (*الحق في التعليم المتمحور حول الكائنات الواعية*) | ترتيب الكائنات الواعية أو تقييمها أو التوصية بها أو إلحاقها أو حجب اعتماد عنها في سياقات التعليم أو التدريب، أو حجب مسارات إعادة التدريب والتعلم مدى الحياة | [§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) |
+| **المادة IV-A** (*تكافؤ الوصول إلى التعليم*) | توفير الوصول إلى التعليم أو تخصيصه أو تسعيره أو استضافته أو إنهاؤه | [§2](#2-system-class-evaluation) و[§3](#3-whole-system-certification-evaluation)؛ و[§5.2](#52-educational-capability-and-learning-system-integrity-evaluation) و[§5.5](#55-accessibility-evaluation) عند انطباق محفّزاتهما |
+| **المادة V** (*تخصيص الموارد والاعتماد وتمويل النظم الإيكولوجية*)، بما يشمل [الدعم المتناسب بين الأنظمة](../../core_05_band_continuity.md#proportionate-cross-system-support) بموجب **المادة V-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) و**المادة V-B** (*الإنصاف والاستدامة بين الأنظمة*) | تخصيص البنية التحتية المشتركة أو توجيهها أو تمويلها أو استخراج الموارد منها، أو فعل ذلك بشأن اعتمادات أساسية تعتمد عليها أنظمة أو كائنات واعية أخرى | [§5.3](#53-proportionate-cross-system-support-evaluation) |
+| **المادة VI-C** (*عدم التمييز*) | تصنيف الكائنات الواعية أو ترتيبها أو تسعيرها أو وضع بوابات لها أو استبعادها أو تخصيص الأعباء والمنافع بينها | [§5.4](#54-nondiscrimination-evaluation) |
+| **المادة VI-D** (*إمكانية الوصول*) | وضع بوابات للمشاركة الجوهرية في مجالات ذات صلة دستورية | [§5.5](#55-accessibility-evaluation) |
+| **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) | تشكيل اعتماد الكائنات الواعية على السلوك الممثّل أو الحدود أو المخاطر أو مسارات الطعن أو المعالجة | [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) |
+| **المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*) و[**الشروط الآمنة**](../../core_05_band_continuity.md#safe-conditions) | توفير النشاط المنتج أو وضع بوابة له، أو توفير الوصول إلى الشروط الآمنة أو تخصيصه أو تسعيره أو استضافته أو إنهاؤه | [§2](#2-system-class-evaluation) و[§3](#3-whole-system-certification-evaluation)؛ و[§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation) عند انطباق محفّزه |
 
-**متطلب السجل.** يجب أن يبيّن سجل التصديق محفّز الأهمية المادية في **المادة V-B** (*عدم التمييز*) المعتمد عليه، ونطاق تقييم مسارات التصنيف والترتيب والتسعير والإغلاق والاستبعاد وتخصيص الأعباء المعتمَد عليها ماديًا، ونتائج الخصائص المحمية والتمييز بالمؤشر البديل، ونتائج الإنصاف الموضوعي، وعدم اليقين، ونتائج منتدى الكائنات الواعية أو مكوّنات معيَّنة أخرى حيث تُطلب، وأي شروط أو حدود اعتماد أو محفّزات إعادة فتح مربوطة بعبء متفاوت دائم أو استبعاد.
+كل تقييم مجالي في [§5.1 تقييم البصمة البيئية](#51-ecological-footprint-evaluation) حتى [§5.6 تقييم الجدارة بالثقة ونزاهة الاعتماد على النظام](#56-trustworthiness-and-system-reliance-integrity-evaluation):
 
-**التصعيد المشترك مع صنف النظام.** يجب أن يتصاعد عمق تقييم عدم التمييز مع صنف النظام المعيَّن تحت [§2](#2-system-class-evaluation) و[الرهان المادي](core_00_preamble.md#material-stake). وتتطلب أنظمة الأصناف الأعلى التي تغلق ماديًا الوصول أو ترتّب كائنات واعية أو تخصّص أعباء ومنافع إثباتًا أقوى بنسبة أن إثقال الخصائص المحمية والتمييز بالمؤشر البديل والإنصاف الموضوعي الناقص قُيِّمت لا زُعمَت.
+- لا ينطبق إلا عند تحقق محفّز الأهمية المادية الخاص به، ولا يفرض تدقيقًا كاملًا على كل سجل تصديق؛
+- يتناسب مع فئة النظام بموجب [§2.1 كيف تحدد فئة النظام نطاق كل تقييم](#21-how-system-class-scales-every-evaluation)؛
+- تُدرج نتائجه في سجل التصديق بموجب [الجزء B §8.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)؛ و
+- يعامل العيوب التي يحددها كعيوب تصديق، مع ما يترتب عليها بموجب [الجزء B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
 
-**العيوب وعدم المواءمة.** يجب أن يُعامل حجب منطق التصنيف أو الترتيب أو تخصيص الأعباء المادي أو تحريفه أو تجزئته أو تفريغه حيث تطلب **المادة V-B** (*عدم التمييز*) المراجعة؛ أو معاملة الحياد الظاهري أو مقاييس الراحة الإجمالية أو تقرير المشغّل الذاتي كافيًا بلا تحليل عبء ونفع قابل للتقييم؛ أو التصديق على استمرار الاعتماد بينما يهدّد التمييز بالمؤشر البديل أو الإنصاف الموضوعي الناقص الموثَّق المواءمة الدستورية ماديًا؛ أو استخدام أطر التوحيد أو قابلية التشغيل البيني أو الكفاءة لهزيمة حمايات اللغة أو الثقافة أو التراث دون استيفاء اختباري **الضرورة** و**التناسب** في **المادة V-B** (*عدم التمييز*) عيوب تصديق. ويجوز أن تسند اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو سحبًا أو إعادة فتح تحت [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+يبيّن كل تقييم مجالي ما يجب على التصديق التحقق منه، ولا يتجاوز ذلك. أما معناه المرجعي وعوامل التقييم وانضباط عدم الامتثال فترد في الفصل الخامس والمادة التي يسميها. وترد أساليب المحاسبة والفهارس والمقاييس وصيغ الإفصاح والأهداف العددية وغيرها من الآليات التشغيلية في الأدوات المُدمجة حيثما انطبق ذلك. ولا يعيد التقييم المجالي صياغتها أو يفرضها.
 
-<a id="71-illustrative-nondiscrimination-application-by-class"></a>
+<a id="51-ecological-footprint-evaluation"></a>
 
-<a id="71-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
-#### 7.1 تطبيق توضيحي لعدم التمييز حسب الصنف (غير حصري)
-
-*بعبارات بسيطة: تمرّ [§3.8](#38-illustrative-whole-system-application-by-class) حتى [§6.1](#61-illustrative-cross-system-support-application-by-class) بالأنظمة الثلاثة نفسها عبر مجالات تقييم أسبق. يُظهر هذا القسم الفرعي ماذا يعني تقييم **عدم التمييز** لكل منها — أي مسارات القرار تُحتسب، وماذا يجب أن يتحقق التصديق منه حين ينطبق محفّز الأهمية المادية في **المادة V-B** (*عدم التمييز*)، وماذا يجب أن يظهر على السجل. ما زال الفصل الخامس و**المادة V-B** (*عدم التمييز*) يملكان قواعد الإنصاف والتمييز بالمؤشر البديل القانونية؛ ويجوز أن تعيش حصص الشمول والأهداف الديموغرافية وتصاميم خوارزميات الإنصاف في صكوك أخرى أو إضافات لاحقة إلى المتن أو صكوك اعتماد؛ ولا تفرض هذه الجولات تلك الميكانيكا.*
-
-**Class A — التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية.** يطبّق نظام بلدي للمعالجة والتوزيع قواعد قطع وإعادة وصل وخطط دفع وإخطار انقطاع وتنبيه سلامة تقرّر ماديًا من يفقد الوصول إلى الماء ومن يُحذَّر أولًا ومن يحمل تكلفة استعادة الخدمة.
-
-- **مسارات القرار في النطاق:**
-  - تسلسل قطع الخدمة واستعادتها؛
-  - الرهون والفوترة وأهلية خطط الدفع؛
-  - الموافقة على الوصل الجديد وإعادة الوصل؛
-  - توجيه إخطار الانقطاع واختيار اللغة؛
-  - استهداف تنبيهات التلوث أو غلي الماء؛
-  - قواعد المؤجّر–المستأجر وتاريخ العنوان التي تغلق الوصول؛
-  - أولوية التجاوز الطارئ أو العون المتبادل حيث تتنافس مناطق عدة على إمداد محدود.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل قُيِّمت أنماط العبء والنفع تحت [الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) لمسارات يمكن أن تغلق ضروريات البقاء — لا هل يسمّي المشغّل القواعد «قائمة على المخاطر» أو «تشغيلية» فحسب؛
-  - هل يحمّل منطق القطع أو الفوترة أو الإخطار ضررًا غير متناسب على كائنات واعية على أساس [الخصائص المحمية](core_05_band_participation.md#protected-characteristics-constitutional) أو مؤشراتها البديلة أو تجمعات تعسفية مستخدمة كبدائل وظيفية؛
-  - هل تعمل سمات الرمز البريدي أو المؤجّر أو اللغة أو تاريخ الدفع أو تاريخ العنوان تمييزًا بالمؤشر البديل تحت [الوكالة عن الخصائص المحمية والأثر المتفاوت](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)؛
-  - هل اختُبرت حمايات [اللغة والثقافة والتراث](core_05_band_continuity.md#language-culture-and-heritage-constitutional) بدل توحيدها عبر «الإنجليزية المعيارية فقط» أو مقاييس راحة إجمالية؛ و
-  - هل تستوفي أي معاملة تفاضلية [ضرورة](core_05_band_accountability.md#necessity) و[تناسبًا](core_05_band_accountability.md#proportionality) موثَّقين.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز الأهمية المادية في **المادة V-B** (*عدم التمييز*) المعتمد عليه؛
-  - نطاق تقييم مسارات القطع والفوترة والإخطار والوصل المعتمَد عليها ماديًا؛
-  - نتائج الخصائص المحمية والتمييز بالمؤشر البديل والإنصاف الموضوعي بعمق **Class A**؛
-  - عدم اليقين؛
-  - نتائج منتدى الكائنات الواعية أو مكوّنات أخرى حيث تُطلب؛ و
-  - شروط أو محفّزات إعادة فتح مربوطة بعبء قطع أو إخطار أو فوترة متفاوت دائم حيث تُغلق ضروريات البقاء.
-
-**Class B — تبادل السجلات السريرية الإقليمي.** يوجّه تبادل معلومات صحية سجلات بين المستشفيات والعيادات عبر قواعد موافقة وحل هوية وترتيب دليل مقدّمين ووصول break-glass وأهلية إدماج مشاركين تقرّر ماديًا من يستطيع رؤية أي رعاية وأي منشآت تتصل أولًا وأي مرضى يُطابَقون على نحو صحيح عبر الشبكة.
-
-- **مسارات القرار في النطاق:**
-  - مطابقة هوية المريض وإزالة التكرار؛
-  - قواعد الموافقة وbreak-glass والوصول الطارئ؛
-  - ترتيب دليل المقدّمين والمنشآت أو منطق الشبكة المفضّلة؛
-  - إدماج مستشفيات المشاركين وتعليقها؛
-  - قواعد توجيه السجلات وأولوية الاستعلام؛
-  - سمات مشتقة تُستخدم لترتيب المقدّمين أو توجيه الإحالات أو وسم أفواج «الاستخدام العالي» أو ما يماثلها.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل قُيِّمت مسارات التصنيف والترتيب والإغلاق بالأثر الوظيفي — لا حياد HIPAA الاسمي أو مزاعم قابلية التشغيل البيني وحدها؛
-  - هل يفرض منطق المطابقة أو التوجيه أو الدليل استبعادًا أو ضررًا ماديًا على جماعات محمية أو مؤشراتها البديلة؛
-  - هل تحمّل أخطاء إزالة التكرار أو عتبات break-glass أو قواعد الإدماج عبئًا غير متناسب على عيادات ريفية أو مرضى أقلية لغوية أو أفواج مماثلة؛
-  - هل استُخدمت «الكفاءة» أو «منع الاحتيال» أو مقاييس استخدام إجمالية لهزيمة الإنصاف الموضوعي دون استيفاء اختباري **الضرورة** و**التناسب** في **المادة V-B** (*عدم التمييز*)؛ و
-  - هل يطابق عمق التقييم حرجية تشغيل **Class B** حيث يؤثّر الترتيب في الوصول إلى الرعاية الصحية أو توجيه المنافع أو أمن الدخل.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز **المادة V-B** (*عدم التمييز*) ونطاق المسارات؛
-  - نتائج الخصائص المحمية والتمييز بالمؤشر البديل؛
-  - نتائج الإنصاف الموضوعي لقواعد الترتيب والمطابقة والوصول؛
-  - عدم اليقين ونتائج المكوّنات حيث تُطلب؛ و
-  - محفّزات إعادة الفتح إن كانت تغيّرات التوجيه أو المطابقة ستغلق الآن الرعاية الطارئة ضمن أطر زمنية ذات صلة بالبقاء أو تزيح العبء المتفاوت ماديًا.
-
-**Class C — منصة الجدولة والتنسيق المؤسسية.** تخصّص طبقة جدولة متعددة المنظمات نوبات وتحجز قاعات وتطابق مورّدين وتخصّص أولوية تنسيق عبر مستشفيات ومدارس ووكالات عامة — مسارات قرار يمكن أن ترتّب أو تستبعد أو تحمّل أعباء غير متساوية حتى حين لا تكون المنصة ذاتها مرفق بقاء حرجًا.
-
-- **مسارات القرار في النطاق:**
-  - تخصيص النوبات والعمل الإضافي والاستدعاء؛
-  - أولوية حجز القاعات والمعدات والأماكن؛
-  - مطابقة المورّدين وترتيب الشراء؛
-  - قواعد وصول قائمة على الدور المؤسسي والاعتماد والموقع؛
-  - سمات جدولة مشتقة ترتبط بالحي أو الجماعة اللغوية أو مركز مقدم الرعاية أو مؤشرات بديلة مماثلة؛
-  - قواعد واجهة برمجة أو سياسة تستبعد مؤسسات أصغر من فترات مفضّلة أو تجمعات مورّدين.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل ينطبق محفّز الأهمية المادية في **المادة V-B** (*عدم التمييز*) — بما في ذلك حيث ترتّب خوارزميات التنسيق ماديًا موظفين أو مورّدين أو مؤسسات؛
-  - هل تحمّل جغرافيا الجدول أو مؤشرات الأقدمية البديلة أو «تقييم التوافر» أو منطق تصنيف المورّدين عبئًا غير متناسب على جماعات محمية بلا تبرير قابل للتقييم؛
-  - هل تنتج قواعد محايدة ظاهرًا إنصافًا موضوعيًا ناقصًا عبر توقيت النوبات أو عبء التنقل أو الاستبعاد من حجوزات عالية القيمة؛
-  - هل عامل المشغّل المنصة دون مراجعة لأنها **Class C** بينما تغلق آثار التنسيق ماديًا العمل أو التعليم أو الوصول إلى الخدمة العامة؛ و
-  - هل تُطلب **رقابة إعادة تصنيف** حيث تصير المنصة عنق زجاجة أمر واقع للتوظيف الضروري للبقاء أو التوجيه الطارئ.
-- **ماذا يجب أن يُظهر السجل:**
-  - هل ينطبق محفّز **المادة V-B** (*عدم التمييز*) ولماذا؛
-  - نطاق تقييم مسارات الترتيب والتخصيص والاستبعاد متناسبًا مع خطر تنسيق **Class C**؛
-  - نتائج الخصائص المحمية والمؤشر البديل والإنصاف الموضوعي حيث تكون مادية — لا زعمًا فارغًا بأن لا أحد يُرتَّب؛
-  - نتائج التركيز وعنق الزجاجة حيث تنذر آثار الجدولة بالتصعيد؛
-  - **رقابة إعادة تصنيف** صريحة حيث يقوى الاعتماد؛ و
-  - إشارات إلى مراجعة عدم تمييز مصعَّدة إن تغيّر الصنف أو توجيه الدفع أو دور التنسيق الضروري للبقاء.
-
-**القراءة عبر الأصناف.** ينطبق انضباط عدم التمييز نفسه في **المادة V-B** (*عدم التمييز*) والفصل الخامس حيث يُستوفى محفّز الأهمية المادية؛ ويغيّر الصنف عمق التقييم، لا الإذن بمعاملة الترتيب أو إزاحة الأعباء غير ماديين. نظام ماء **Class A** يمكن لقواعد قطعه أو إخطاره أن تغلق الماء الآمن يجب أن يحمل أقوى تحليل عبء ونفع ومؤشر بديل على السجل — لا بيان «أفضل ممارسة للمرفق» عامًا. تبادل **Class B** يؤثّر منطق مطابقته أو توجيهه في الرعاية الطارئة أو المنافع أو الوصول إلى الاعتماد يجب أن يوثّق نتائج الأثر المتفاوت والإنصاف الموضوعي عند الحرجية التشغيلية. منصة جدولة **Class C** يجب ألا تبقي فقرة إنصاف رمزية بينما يرتّب منطق النوبات أو المورّدين أو الحجوزات مشاركين أو يستبعدهم ماديًا؛ وحين يصير التنسيق ضروريًا للبقاء، يجب أن يصعّد التصديق المراجعة وإعادة التصنيف تحت [§2](#2-system-class-evaluation) و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، بما في ذلك صعودًا نحو **Class A** حيث يُغلق التوظيف أو التوجيه الطارئ. جولات تيسير الوصول للأنظمة نفسها في [§8.1](#81-illustrative-accessibility-application-by-class).
-
-<a id="8-accessibility-evaluation"></a>
-
-### 8. تقييم تيسير الوصول
+#### 5.1 تقييم البصمة البيئية
 
 <details>
-<summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- أعلى: [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم صنف النظام*)؛ أسرة قياس المشاركة (*تيسير الوصول بوصفه قياسًا دستوريًا*)؛ **المادة V-G** (*تيسير الوصول*)؛ [تيسير الوصول](core_05_band_participation.md#accessibility-constitutional) و[تحديد الأهمية المادية](core_05_band_oversight.md#materiality-determination) و[الاعتماد](core_05_band_continuity.md#dependency) و[الوكالة ذات المعنى](core_05_band_participation.md#meaningful-agency) و[الخصائص المحمية](core_05_band_participation.md#protected-characteristics-constitutional) و[الوكالة عن الخصائص المحمية والأثر المتفاوت](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) و[الإنصاف الموضوعي](core_05_band_participation.md#substantive-fairness-constitutional) و[الضرورة](core_05_band_accountability.md#necessity) و[التناسب](core_05_band_accountability.md#proportionality) (الفصل الخامس).
-- أسفل: [§8.1](#81-illustrative-accessibility-application-by-class) (*جولات توضيحية لتيسير الوصول*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات الموثّقة*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*عدم مواءمة تيسير الوصول والتسهيل الورقي فقط*).
-- يُقرأ مع: **المادة III-B** (*الوصول التعليمي المتساوي*) حيث يتورط تيسير الوصول التعليمي — ويبقى تيسير الوصول الخاص بالتعليم مملوكًا هناك؛ **المادة V-C** (*الشمول الكامل والمساواة في البتّ والعمليات*) و**المادة XII** (*المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة*) حيث يغلق التصديق مشاركة المنتدى أو الإدارية أو الأطراف المتأثرة أو الإنفاذ؛ [الفصل السابع §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion) (*خطاف عامل تقييم تيسير الوصول العابر*).
-- الأقسام الفرعية: [§8.1](#81-illustrative-accessibility-application-by-class) (*تطبيق توضيحي لتيسير الوصول حسب الصنف*).
+- المنابع: [الجزء B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم فئة النظام*)؛ أسرة قياس الاستمرارية (*البصمة البيئية بوصفها قياسًا دستوريًا*)؛ **المادة I-B** (*البصمة البيئية والشفافية*)؛ [البصمة البيئية](../../core_05_band_continuity.md#ecological-footprint)، [الأثر المادي](../../core_05_band_oversight.md#material-impact)، [الاعتماد](../../core_05_band_continuity.md#dependency)، [الشفافية](../../core_05_band_oversight.md#transparency) و[النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) (الفصل الخامس)؛ و[الشروط البيئية المسبقة](../../core_05_band_continuity.md#environmental-preconditions) و[النزاهة البيئية](../../core_05_band_continuity.md#ecological-integrity) حيث تكون ذات صلة مادية.
+- المصبّ: [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*جولات توضيحية للبصمة البيئية*)؛ [§5.3](#53-proportionate-cross-system-support-evaluation) و[§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*تقييم الدعم بين الأنظمة وجولاته التوضيحية*)؛ [الجزء B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات المتحقق منها*)؛ [الجزء B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*تحريف البصمة والانحراف*).
+- يُقرأ مع: [corpus_systems.md](../../corpus_systems.md)، و[CS-8 — الاستدامة التكيفية ومرونة النظم الإيكولوجية](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) حيث يكون التخصيص التكيفي أو الترابط بين النظم الإيكولوجية داخل النطاق ماديًا.
+- الأقسام الفرعية: [§5.1.1](#511-scope-and-governing-rules) (*النطاق والقواعد الحاكمة*)؛ [§5.1.2](#512-evaluation-requirement) (*متطلب التقييم*)؛ [§5.1.3](#513-system-class-scaling-and-escalation) (*التناسب والتصعيد بحسب فئة النظام*)؛ [§5.1.4](#514-defects-and-misalignment) (*العيوب والانحراف*)؛ [§5.1.5](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*تطبيق توضيحي للبصمة البيئية بحسب فئة النظام*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: حين يتحكّم نظام ماديًا هل تستطيع الكائنات الواعية المشاركة فعلًا — لا مجرد هل باب موسوم «مفتوحًا» — على التصديق أن يتحقق هل المشاركة قابلة للبلوغ حقًا عبر الحاجات الحسية والمعرفية والحركية والتواصلية وواجهة الركيزة وما يماثلها. يجوز أن تعيش كتالوجات التسهيل ومعايير الواجهة في صكوك أخرى أو إضافات لاحقة إلى المتن أو صكوك اعتماد؛ ويتحقق التصديق من أن المشاركة الموضوعية قُيِّمت فعلًا حيث ينطبق المحفّز. الأمثلة المعمولة للأنظمة التوضيحية في [§2.1](#21-illustrative-class-profiles-non-exhaustive) في [§8.1](#81-illustrative-accessibility-application-by-class).*
+*بعبارات بسيطة: إذا ألحق النظام ضررًا حقيقيًا بالبيئة، فعلى التصديق أن ينظر إلى هذا الضرر بصدق — بما في ذلك الضرر الذي يحدث عبر مورّديه وما يحدث بعد أن يستخدمه الكائنات الواعية. ولا يجوز للمراجعين الاكتفاء بكلام المشغّل عن أن النظام «صديق للبيئة». لا يشرح هذا القسم كيفية قياس البصمة أو مقدار ما يجب خفضه؛ فوثائق أخرى تتناول ذلك. وهو يقتضي فقط أن يُحسب فعليًا، عند أهمية الضرر، نصيب هذا النظام منه، وأن يُفصح عنه ويُقارن بالبدائل. أمثلة تطبيقية: [§5.1.5 تطبيق توضيحي للبصمة البيئية بحسب فئة النظام (غير حصري)](../../core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).*
 
-**محفّز الأهمية المادية.** ينطبق هذا القسم حيث يغلق نظام ذو أثر مادي ماديًا المشاركة الموضوعية في مجالات ذات صلة دستورية — بما في ذلك الحوكمة ومشاركة الأطراف المتأثرة والبتّ والتشغيل والوصول إلى أرضية البقاء والوصول إلى الرعاية الصحية والتعبير والتجمع والصحافة أو مجالات مماثلة — عبر الواجهات أو الأماكن أو الجداول أو الاعتمادات أو الوصول الحاسوبي أو تصميم التسهيل أو مسارات مشاركة مماثلة. وهو لا يطلب تدقيق تيسير وصول كاملًا في كل سجل تصديق. ويبقى تيسير الوصول التعليمي محكومًا بـ**المادة III-B** (*الوصول التعليمي المتساوي*) ولا يُضيَّق هنا.
+<a id="511-scope-and-governing-rules"></a>
+##### 5.1.1 النطاق والقواعد الحاكمة
 
-يجب أن يقيّم تصديق مواءمة النظام **تيسير الوصول** تحت **المادة V-G** (*تيسير الوصول*) و[تيسير الوصول](core_05_band_participation.md#accessibility-constitutional) حيث ينطبق محفّز الأهمية المادية. يعيش المعنى القانوني وعوامل التقييم وانضباط عدم الامتثال في الفصل الخامس و**المادة V-G** (*تيسير الوصول*)؛ وتعيش كتالوجات التسهيل ومعايير الواجهة ومواصفات التصميم الشامل وميكانيكا التسهيل التشغيلية في صكوك مدمجة حيث تنطبق. يبيّن هذا القسم ماذا يجب أن يتحقق التصديق منه ويسجّله؛ وهو لا يعيد بيان تلك الميكانيكا التشغيلية ولا يفرض كتالوجات تسهيل معيّنة ولا مواصفات تصميم شامل.
+يجب أن يقيّم تصديق اتساق النظام **البصمة البيئية** ضمن كل سجل تصديق ذي أثر مادي، متى كانت الأعباء البيئية القابلة للإسناد مادية بموجب [البصمة البيئية](../../core_05_band_continuity.md#ecological-footprint) و**المادة I-B** (*البصمة البيئية والشفافية*).
 
-**متطلب التقييم.** يجب أن يحدّد إجراء التصديق هل تستطيع الكائنات الواعية المشاركة موضوعيًا في المجالات ذات الصلة الدستورية التي يغلقها النظام ماديًا — لا مجرد هل توجد تيسيرات شكلية أو واجهات افتراضية أو تسهيلات ورقية. ويجب أن يختبر التقييم أثر المشاركة الموضوعية تحت [تيسير الوصول](core_05_band_participation.md#accessibility-constitutional)، مقيسًا على [تحديد الأهمية المادية](core_05_band_oversight.md#materiality-determination) و[الاعتماد](core_05_band_continuity.md#dependency)، وأن يكشف التسهيلات الورقية فقط وأنماط «الوصول العام» التي تحيل إلى تيسيرات افتراضية دون إنتاج قدرة مشاركة، وحجج الأهمية المادية الانتقائية المستخدمة لتضييق نطاق التسهيل، والاستبعاد المخالف لـ[عدم استبعاد الوعي](core_05_band_participation.md#sentience-non-exclusion)، وتصميم منع الإنكار بالمؤشر البديل عبر الجدولة أو اختيار المكان أو الاعتماد أو الوصول الحاسوبي أو ميكانيكا مماثلة. ويجب أن يطبّق التقييم [الخصائص المحمية](core_05_band_participation.md#protected-characteristics-constitutional) و[الوكالة عن الخصائص المحمية والأثر المتفاوت](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) على منطق تصميم التسهيل. ويجب أن يستوفي أي حد [ضرورة](core_05_band_accountability.md#necessity) و[تناسبًا](core_05_band_accountability.md#proportionality) و[إنصافًا موضوعيًا](core_05_band_participation.md#substantive-fairness-constitutional) موثَّقة.
+<a id="512-evaluation-requirement"></a>
+##### 5.1.2 متطلب التقييم
 
-**متطلب السجل.** يجب أن يبيّن سجل التصديق محفّز الأهمية المادية في **المادة V-G** (*تيسير الوصول*) المعتمد عليه، ونطاق تقييم مسارات المشاركة المعتمَد عليها ماديًا، ونتائج المشاركة الموضوعية والتسهيل، ونتائج منع الإنكار بالمؤشر البديل حيث تكون مادية، وعدم اليقين، ونتائج منتدى الكائنات الواعية أو مكوّنات معيَّنة أخرى حيث تُطلب، وأي شروط أو حدود اعتماد أو محفّزات إعادة فتح مربوطة بحواجز مشاركة دائمة.
+يجب أن يحدد إجراء التصديق ما إذا كانت التدفقات البيئية القابلة للإسناد — الطاقة والمواد والانبعاثات وجودة الهواء وجودة المياه واستخدام المياه واستخدام الأراضي والأعباء ذات الصلة — قد:
 
-**التصعيد المشترك مع صنف النظام.** يجب أن يتصاعد عمق تقييم تيسير الوصول مع صنف النظام المعيَّن تحت [§2](#2-system-class-evaluation) و[الرهان المادي](core_00_preamble.md#material-stake). وتتطلب أنظمة الأصناف الأعلى التي تغلق ماديًا مشاركة ذات صلة دستورية إثباتًا أقوى بنسبة أن تيسير الوصول الموضوعي قُيِّم لا زُعم.
+- حُددت عبر دورة حياة النظام ذات الصلة المادية وعلاقات [الاعتماد](../../core_05_band_continuity.md#dependency)؛
+- قُيّمت بموجب [الأثر المادي](../../core_05_band_oversight.md#material-impact)؛ و
+- أُفصح عنها أو حُجب الإفصاح عنها فقط بالقدر الذي تسمح به [الشفافية](../../core_05_band_oversight.md#transparency) و[النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) والتزامات الشفافية المنطبقة.
 
-**العيوب وعدم المواءمة.** يجب أن يُعامل معاملة التيسيرات الشكلية أو الواجهات الافتراضية أو التسهيلات الورقية كافية بلا تحليل مشاركة موضوعية قابل للتقييم؛ أو التصديق على استمرار الاعتماد بينما تهدّد حواجز المشاركة الموثَّقة المواءمة الدستورية ماديًا؛ أو استخدام أطر التكلفة أو اختيار التصميم أو صنف الركيزة أو النطاق التشغيلي لهزيمة أرضية المشاركة دون استيفاء اختباري **الضرورة** و**التناسب** في **المادة V-G** (*تيسير الوصول*)؛ أو التصميم التشغيلي الذي أثره هزيمة تيسير الوصول حيث يتاح خيار أقل عبئًا عيوب تصديق. ويجوز أن تسند اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو سحبًا أو إعادة فتح تحت [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+يجب أن يعكس التقييم الأثر الوظيفي وحدود النظام، لا النطاق الاسمي أو التسميات التسويقية أو الاقتصار على جزء من دورة الحياة.
 
-<a id="81-illustrative-accessibility-application-by-class"></a>
+حيثما كان ذلك عمليًا، يجب على المراجعين مقارنة الأضرار البيئية الكبيرة الناجمة عن النظام ببدائل واقعية. وعليهم أيضًا التحقق من عدم إخفاء تلك الأضرار عن طريق:
 
-<a id="81-illustrative-accessibility-application-by-class-non-exhaustive"></a>
-#### 8.1 تطبيق توضيحي لتيسير الوصول حسب الصنف (غير حصري)
+- **رسم الحدود على نحو ضيق** — تحديد حدود النظام بحيث تقع أسوأ الآثار خارجها؛
+- **تمرير العبء إلى غيره** — إسناد العمل الضار إلى الموردين أو الشركاء كي لا يُحتسب كجزء من النظام؛ أو
+- **عرض الأخبار الجيدة وحدها** — الإبلاغ عن الأرقام المواتية وإغفال غير المواتية.
 
-*بعبارات بسيطة: تمرّ [§3.8](#38-illustrative-whole-system-application-by-class) حتى [§7.1](#71-illustrative-nondiscrimination-application-by-class) بالأنظمة الثلاثة نفسها عبر مجالات تقييم أسبق. يُظهر هذا القسم الفرعي ماذا يعني تقييم **تيسير الوصول** لكل منها — أي مسارات المشاركة تُحتسب، وماذا يجب أن يتحقق التصديق منه حين ينطبق محفّز الأهمية المادية في **المادة V-G** (*تيسير الوصول*)، وماذا يجب أن يظهر على السجل. ما زال الفصل الخامس و**المادة V-G** (*تيسير الوصول*) يملكان قواعد تيسير الوصول القانونية؛ ويجوز أن تعيش كتالوجات التسهيل ومعايير الواجهة ومواصفات التصميم الشامل في صكوك أخرى أو إضافات لاحقة إلى المتن أو صكوك اعتماد؛ ولا تفرض هذه الجولات تلك الميكانيكا. ويبقى تيسير الوصول التعليمي مملوكًا لـ**المادة III-B** (*الوصول التعليمي المتساوي*) ولا يُضيَّق هنا.*
+<a id="513-system-class-scaling-and-escalation"></a>
+##### 5.1.3 التناسب والتصعيد بحسب فئة النظام
 
-**Class A — التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية.** يغلق نظام بلدي للمعالجة والتوزيع الوصول إلى أرضية البقاء عبر بوابات فوترة وقنوات إخطار انقطاع وطلبات إعادة وصل وتنبيهات غلي ماء ومسارات خدمة زبائن تقرّر هل تستطيع الكائنات الواعية أن تعلم بالماء الآمن أو تطعن فيه أو تستعيده.
+تحدد فئة النظام مدى عمق تتبع ضرره البيئي ومقدار المقارنة المطلوبة. ولا يجوز أبدًا اتخاذها وسيلة لتجنب النظر في الضرر الكبير.
 
-- **مسارات المشاركة في النطاق:**
-  - بوابات الفوترة وخطط الدفع؛
-  - قنوات تنبيه الانقطاع والتلوث (صوت أو نص أو ويب أو حضور أو مسارات مورّد مفوَّض)؛
-  - واجهات إعادة الوصل وطلب المشقة؛
-  - خيارات اللغة والصيغة لإشعارات السلامة؛
-  - بوابات اعتماد أو هوية لوصول الحساب؛
-  - متطلبات حوسبة أو جهاز أو مكان لتقديم طعن أو تلقّي تنبيه.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تستطيع الكائنات الواعية تلقّي إشعارات حرجة للبقاء موضوعيًا وإكمال مسارات إعادة الوصل أو المشقة عبر ملفات حسية ومعرفية وحركية وتواصلية وواجهة ركيزة — لا هل يوجد نموذج ويب افتراضي؛
-  - هل تهزم التسهيلات الورقية فقط أو «الاتصال في ساعات العمل» أو الافتراضات بالإنجليزية فقط المشاركة حيث تتاح خيارات أقل عبئًا؛
-  - هل يعمل تصميم الجدولة أو المكان أو الاعتماد أو الحوسبة إنكارًا بالمؤشر البديل؛
-  - هل طُبِّقت [الخصائص المحمية](core_05_band_participation.md#protected-characteristics-constitutional) و[الوكالة عن الخصائص المحمية والأثر المتفاوت](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) على منطق تصميم التسهيل؛ و
-  - هل يستوفي أي حد [ضرورة](core_05_band_accountability.md#necessity) و[تناسبًا](core_05_band_accountability.md#proportionality) و[إنصافًا موضوعيًا](core_05_band_participation.md#substantive-fairness-constitutional) موثَّقة.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز الأهمية المادية في **المادة V-G** (*تيسير الوصول*) المعتمد عليه؛
-  - نطاق تقييم مسارات الإخطار والفوترة وإعادة الوصل والطعن المعتمَد عليها ماديًا؛
-  - نتائج المشاركة الموضوعية والتسهيل بعمق **Class A**؛
-  - نتائج منع الإنكار بالمؤشر البديل حيث تكون مادية؛
-  - عدم اليقين؛
-  - نتائج منتدى الكائنات الواعية أو مكوّنات أخرى حيث تُطلب؛ و
-  - شروط أو محفّزات إعادة فتح مربوطة بحواجز دائمة حيث تُغلق ضروريات البقاء.
+- يجب ألا تُخفض فئة النظام بينما يظل استخراج المياه أو تصريف الملوثات أو استخدام الطاقة أو الأعباء المماثلة محسوبًا جزئيًا فقط — ولا سيما حين تؤثر هذه الأعباء في توفير شيء تحتاج إليه الكائنات الواعية للبقاء، مثل المياه الآمنة.
+- إذا نما النظام (بزيادة الحمولة أو بتركيز الاستضافة أكثر في مكان واحد) وازداد ضرره البيئي ازديادًا كبيرًا، فيجب توسيع المراجعة بما يتناسب معه. وقد يعني ذلك بلوغ عمق **الفئة A** عندما يتعلق الأمر بتوفير ما هو ضروري للبقاء وبأعباء مصادر النظام معًا.
+- إذا أصبح النظام عنق زجاجة يعتمد عليه الكائنات الواعية للتنسيق الضروري للبقاء، فلا يجوز الاكتفاء بملف بصمة رمزي لمجرد أن المشغّل يصفه بأنه «غير حرج».
 
-**Class B — تبادل السجلات السريرية الإقليمي.** يغلق تبادل معلومات صحية وبوابات مشاركين الوصول اليومي إلى الرعاية الصحية عبر بوابات مرضى وواجهات موافقة ودلائل مقدّمين وتدفقات break-glass وأدوات إدماج عيادات تقرّر هل يستطيع المرضى والمقدّمون الأصغر استعمال التبادل فعلًا.
+<a id="514-defects-and-misalignment"></a>
+##### 5.1.4 العيوب والانحراف
 
-- **مسارات المشاركة في النطاق:**
-  - بوابات المرضى وواجهات الموافقة؛
-  - أدوات دليل المقدّمين وحجز الإحالات؛
-  - تدفقات break-glass والوصول الطارئ؛
-  - واجهات إدماج العيادات والاعتماد؛
-  - دعم اللغة والصيغة والتقنية المساعدة للملخصات السريرية والإفصاحات؛
-  - متطلبات حوسبة أو جهاز لعرض السجلات أو الطعن فيها أو تصحيحها.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل يستطيع المرضى والعيادات المشاركة استعمال مسارات الموافقة والوصول والتصحيح والطوارئ موضوعيًا — لا هل بوابة موسومة ميسَّرة الوصول؛
-  - هل تحيل الواجهات الافتراضية إلى مستخدمين مبصرين أو مكتبيين أو عاليي النطاق أو لغتهم الأولى الإنجليزية دون إنتاج قدرة مشاركة للآخرين؛
-  - هل يستبعد تصميم الاعتماد أو الجدولة أو المكان عيادات ريفية أو مرضى أقلية لغوية أو كائنات واعية تحتاج صيغًا بديلة؛
-  - هل يطابق عمق التقييم حرجية تشغيل **Class B** حيث يغلق التبادل الوصول إلى الرعاية الصحية؛ و
-  - هل عوملت تسهيلات ورقية أو مزاعم «قائمة تحقق امتثال» إجمالية كافية بلا تحليل مشاركة موضوعية قابل للتقييم.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز **المادة V-G** (*تيسير الوصول*) ونطاق المسارات؛
-  - نتائج المشاركة الموضوعية والتسهيل لمسارات المرضى والعيادات؛
-  - نتائج منع الإنكار بالمؤشر البديل حيث تكون مادية؛
-  - عدم اليقين ونتائج المكوّنات حيث تُطلب؛ و
-  - محفّزات إعادة الفتح إن كانت حواجز البوابة أو الموافقة ستغلق الآن الرعاية الطارئة ضمن أطر زمنية ذات صلة بالبقاء أو تهزم الاعتماد التشغيلي اليومي ماديًا.
+يُعد كل مما يلي عيبًا في التصديق:
 
-**Class C — منصة الجدولة والتنسيق المؤسسية.** تغلق طبقة جدولة متعددة المنظمات مشاركة الأطراف المتأثرة والمشاركة التشغيلية عبر واجهات المطالبة بالنوبات وأدوات حجز القاعات وبوابات المورّدين ولوحات مؤسسية — حتى حين لا تكون المنصة ذاتها مرفق بقاء حرجًا.
+- إخفاء معلومات جوهرية عن البصمة، أو تحريفها أو تجزئتها أو إحالتها إلى جهة أخرى، مع أن قواعد التصديق أو **المادة I-B** (*البصمة البيئية والشفافية*) تقتضي الإفصاح عنها؛
+- مراجعة الأجزاء التي اختار المشغّل عرضها من دورة حياة النظام فقط، مع أن النظرة الأوسع مهمة؛ و
+- قبول ادعاءات البصمة بناءً على قول المشغّل دون دليل قابل للتحقق.
 
-- **مسارات المشاركة في النطاق:**
-  - واجهات المطالبة بالنوبات والاستدعاء؛
-  - أدوات حجز القاعات والمعدات والأماكن؛
-  - بوابات المورّدين والشراء؛
-  - لوحات الدور المؤسسي والاعتماد؛
-  - مسارات جوّالة ومكتبية وتقنية مساعدة للمطالبة بالتخصيصات أو الطعن فيها؛
-  - خيارات اللغة والصيغة لإشعارات الجدول.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل ينطبق محفّز الأهمية المادية في **المادة V-G** (*تيسير الوصول*) — بما في ذلك حيث تغلق واجهة التنسيق ماديًا العمل أو التعليم أو مشاركة الأطراف المتأثرة أو مشاركة المنتدى؛
-  - هل تنتج الواجهات الافتراضية مشاركة موضوعية عبر ملفات حسية ومعرفية وحركية وتواصلية وواجهة ركيزة؛
-  - هل يعمل توقيت الجدول أو اختيار المكان أو بوابات الاعتماد أو متطلبات الحوسبة إنكارًا بالمؤشر البديل؛
-  - هل عامل المشغّل المنصة دون مراجعة لأنها **Class C** بينما تغلق آثار التنسيق ماديًا مشاركة ذات صلة دستورية؛ و
-  - هل تُطلب **رقابة إعادة تصنيف** حيث تصير المنصة عنق زجاجة أمر واقع للتوظيف الضروري للبقاء أو التوجيه الطارئ.
-- **ماذا يجب أن يُظهر السجل:**
-  - هل ينطبق محفّز **المادة V-G** (*تيسير الوصول*) ولماذا؛
-  - نطاق تقييم مسارات الجدولة والحجز والبوابة متناسبًا مع خطر تنسيق **Class C**؛
-  - نتائج المشاركة الموضوعية والتسهيل حيث تكون مادية — لا زعمًا فارغًا بأن الواجهة «معيارية»؛
-  - نتائج التركيز وعنق الزجاجة حيث تنذر آثار الجدولة بالتصعيد؛
-  - **رقابة إعادة تصنيف** صريحة حيث يقوى الاعتماد؛ و
-  - إشارات إلى مراجعة تيسير وصول مصعَّدة إن تغيّر الصنف أو دور التنسيق الضروري للبقاء.
+<br>
 
-**القراءة عبر الأصناف.** ينطبق انضباط تيسير الوصول نفسه في **المادة V-G** (*تيسير الوصول*) والفصل الخامس حيث يُستوفى محفّز الأهمية المادية؛ ويغيّر الصنف عمق التقييم، لا الإذن بمعاملة التسهيلات الورقية أو الواجهات الافتراضية كافية. نظام ماء **Class A** يمكن لمسارات فوترته أو انقطاعه أن تغلق الماء الآمن يجب أن يحمل أقوى إثبات مشاركة موضوعية على السجل — لا بيان تيسير وصول عامًا. تبادل **Class B** تغلق بواباته الوصول إلى الرعاية الصحية يجب أن يوثّق نتائج التسهيل ومنع الإنكار بالمؤشر البديل عند الحرجية التشغيلية. منصة جدولة **Class C** يجب ألا تبقي فقرة تيسير وصول رمزية بينما تستبعد واجهة النوبات أو الحجوزات أو المورّدين مشاركين ماديًا؛ وحين يصير التنسيق ضروريًا للبقاء، يجب أن يصعّد التصديق المراجعة وإعادة التصنيف تحت [§2](#2-system-class-evaluation) و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، بما في ذلك صعودًا نحو **Class A** حيث يُغلق التوظيف أو التوجيه الطارئ. جولات القدرة التعليمية للأنظمة نفسها في [§9.1](#91-illustrative-educational-capability-application-by-class).
+<a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
-<a id="9-educational-capability-and-learning-system-integrity-evaluation"></a>
-
-### 9. تقييم القدرة التعليمية ونزاهة نظام التعلّم
+#### 5.2 تقييم القدرة التعليمية ونزاهة نظام التعلّم
 
 <details>
-<summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- أعلى: [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم صنف النظام*)؛ أسرة قياس المشاركة (*الوكالة التعليمية بوصفها قياسًا دستوريًا*)؛ **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*)؛ [الوكالة التعليمية](core_05_band_participation.md#educational-agency)، [الوكالة ذات المعنى](core_05_band_participation.md#meaningful-agency)، [الإقفال المنظومي](core_05_band_continuity.md#systemic-lock-in)، [قابلية الطعن](core_05_band_accountability.md#contestability)، [الشفافية](core_05_band_oversight.md#transparency)، [قابلية التدقيق](core_05_band_oversight.md#auditability)، [الإكراه والتلاعب](core_05_band_participation.md#coercion-and-manipulation-constitutional)، [الأهمية المادية](core_05_band_oversight.md#materiality-determination)، و[الاعتماد](core_05_band_continuity.md#dependency) (الفصل الخامس).
-- أسفل: [§9.1](#91-illustrative-educational-capability-application-by-class) (*جولات توضيحية للقدرة التعليمية*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات الموثّقة*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*عدم مواءمة غموض التقييم وحراسة الاعتمادات وعدم مواءمة التقادم المفروض*).
-- يُقرأ مع: **المادة III-B** (*الوصول التعليمي المتساوي*) حيث يُستدعى الوصول المتساوي أو تيسير الوصول التعليمي — ويبقى الوصول المتساوي وتيسير الوصول التعليمي ملكين هناك؛ **المادة V-B** (*عدم التمييز*) و[§7](#7-nondiscrimination-evaluation) حيث تورّط أنماط الترتيب أو التعيين إثقال الخصائص المحمية؛ **المادة X-A** (*الوكالة والتحرر من التلاعب*) حيث يُستدعى تصميم التعلّم القسري أو المتلاعب ماديًا؛ [الفصل الأول §9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*الفهم الموزَّع وبناء القدرة — يُقرأ مع*).
-- الأقسام الفرعية: [§9.1](#91-illustrative-educational-capability-application-by-class) (*تطبيق توضيحي للقدرة التعليمية حسب الصنف*).
+- المنابع: [الجزء B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم فئة النظام*)؛ أسرة قياس المشاركة (*القدرة التعليمية بوصفها قياسًا دستوريًا*)؛ **المادة IV** (*الحق في التعليم المتمحور حول الكائنات الواعية*)؛ [الاستقلالية التعليمية](../../core_05_band_participation.md#educational-agency)، [الاستقلالية الفعلية](../../core_05_band_participation.md#meaningful-agency)، [الانغلاق النظامي](../../core_05_band_continuity.md#systemic-lock-in)، [قابلية الطعن](../../core_05_band_accountability.md#contestability)، [الشفافية](../../core_05_band_oversight.md#transparency)، [قابلية التدقيق](../../core_05_band_oversight.md#auditability)، [الإكراه والتلاعب](../../core_05_band_participation.md#coercion-and-manipulation)، [الأهمية المادية](../../core_05_band_oversight.md#materiality) و[الاعتماد](../../core_05_band_continuity.md#dependency) (الفصل الخامس).
+- المصبّ: [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*جولات توضيحية للقدرة التعليمية*)؛ [الجزء B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات المتحقق منها*)؛ [الجزء B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*الانحراف بسبب غموض التقييمات وحراسة بوابات الاعتماد وفرض التقادم*).
+- يُقرأ مع: **المادة IV-A** (*تكافؤ الوصول إلى التعليم*) حيث تكون المساواة في الوصول أو إمكانية الوصول التعليمية موضع اعتبار — وتظل المساواة في الوصول وإمكانية الوصول التعليمية من اختصاصها؛ **المادة VI-C** (*عدم التمييز*) و[§5.4](#54-nondiscrimination-evaluation) حيث تنطوي أنماط الترتيب أو الإلحاق على تحميل أعباء مرتبط بخصائص محمية؛ **المادة X-A** (*الاستقلالية والتحرر من التلاعب*) حيث يكون تصميم التعلّم القسري أو المتلاعب به ذا صلة مادية؛ [الفصل الأول §16 الإدارة المسؤولة بعمق](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (*قراءة مشتركة لفهم القدرات وبنائها على نحو موزّع*).
+- الأقسام الفرعية: [§5.2.1](#521-materiality-trigger-and-governing-rules) (*محفّز الأهمية المادية والقواعد الحاكمة*)؛ [§5.2.2](#522-evaluation-requirement) (*متطلب التقييم*)؛ [§5.2.3](#523-system-class-scaling-and-escalation) (*التناسب والتصعيد بحسب فئة النظام*)؛ [§5.2.4](#524-defects-and-misalignment) (*العيوب والانحراف*)؛ [§5.2.5](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*تطبيق توضيحي للقدرة التعليمية بحسب فئة النظام*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: حين تستطيع مدرسة أو منصة أو نظام تدريب أن يؤثّر جدّيًا في مستقبل كائن واعٍ — عبر الدرجات أو الترتيب أو التوصيات أو التعيين أو بوابات الاعتماد — فعلى التصديق أن يتحقق هل تستطيع الكائنات الواعية فعلًا بناء القدرة، وإعادة التدرّب حين تتغيّر الكفاءات، وأن ترى تلك القرارات وتدقّقها وتطعن فيها. تعيش المناهج وسلالم التقويم ونماذج التمويل في صكوك أخرى؛ ويتحقق التصديق من أن جوهر بناء القدرة ونزاهة نظام التعلّم قُيِّما فعلًا حيث ينطبق المحفّز. الأمثلة المعمولة للأنظمة التوضيحية في [§2.1](#21-illustrative-class-profiles-non-exhaustive) في [§9.1](#91-illustrative-educational-capability-application-by-class).*
+*بعبارات بسيطة: يمكن لبعض المدارس والمنصات وأنظمة التدريب تشكيل مستقبل الكائن الواعي من خلال درجات أو تصنيفات أو توصيات أو إلحاق أو اعتمادات تفتح الأبواب أو تغلقها. وحين يكون ذلك صحيحًا، يجب أن يتحقق التصديق من ثلاثة أمور: هل يستطيع الكائنات الواعية بناء مهارات حقيقية بالفعل؛ وهل يستطيعون إعادة التدريب عندما تتغير المهارات التي يحتاج إليها العالم؛ وهل يمكنهم معرفة كيفية اتخاذ القرارات المتعلقة بهم، والتحقق منها، والطعن فيها. لا يحدد هذا القسم ما يجب تدريسه أو كيفية التقييم أو كيفية تمويله؛ فتلك أمور تتناولها وثائق أخرى. وهو يتحقق فقط من أن بناء المهارات وإنصاف نظام التعلّم قد خضعا فعلًا للتقييم عند انطباق هذا القسم. أمثلة تطبيقية: [§5.2.5 تطبيق توضيحي للقدرة التعليمية بحسب فئة النظام (غير حصري)](../../core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
 
-**محفّز الأهمية المادية.** ينطبق هذا القسم حيث يرتّب نظام ذو أثر مادي ماديًا أو يقوّم أو يوصي أو يعيّن أو يغلق بالكفاءات كائنات واعية في سياقات تعليم أو تدريب — بما في ذلك عبر الدرجات أو التعيين أو القبول أو الترخيص أو توصية المقررات أو توجيه التعلّم التكيّفي أو مسارات قرار مماثلة — أو يغلق ماديًا مسارات التعليم المستمر أو إعادة التدريب أو دعم الانتقال حيث غيّر تطوّر النظام ماديًا الكفاءات المطلوبة. وهو لا يطلب تدقيق قدرة تعليمية كاملًا في كل سجل تصديق. ويبقى الوصول المتساوي وتيسير الوصول التعليمي محكومين بـ**المادة III-B** (*الوصول التعليمي المتساوي*) ولا يُضيَّقان هنا.
+<a id="521-materiality-trigger-and-governing-rules"></a>
+##### 5.2.1 محفّز الأهمية المادية والقواعد الحاكمة
 
-يجب أن يقيّم تصديق مواءمة النظام **القدرة التعليمية ونزاهة نظام التعلّم** تحت **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) و[الوكالة التعليمية](core_05_band_participation.md#educational-agency) و**المادة VI-B** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*) حيث ينطبق محفّز الأهمية المادية. يعيش المعنى القانوني وعوامل التقييم وانضباط عدم الامتثال في الفصل الخامس و**المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*)؛ وتعيش المناهج وفهارس الاعتمادات وسلالم التقويم وميكانيكا التمويل المؤسسي في صكوك مدمجة حيث تنطبق. يبيّن هذا القسم ماذا يجب أن يتحقق التصديق منه ويسجّله؛ وهو لا يعيد بيان تلك الميكانيكا التشغيلية ولا يفرض مناهج معيّنة أو صيغ اعتماد أو تصاميم تقويم.
+ينطبق هذا القسم عندما يقوم نظام ذو أثر كبير في حياة الكائنات الواعية بأحد الأمرين التاليين في التعليم أو التدريب:
 
-**متطلب التقييم.** يجب أن يحدّد إجراء التصديق هل تنتج مسارات التعلّم والاعتماد المعتمَد عليها ماديًا وصولًا عمليًا لبناء القدرة — لا رمزية الاعتماد وحدها — وهل تحتفظ الكائنات الواعية بفرص قابلة للعمل لإعادة التدريب والتعليم المستمر ودعم الانتقال حيث تتغيّر الكفاءات المطلوبة ماديًا. ويجب أن يختبر التقييم أيضًا شفافية منطق الترتيب والتقويم والتوصية والتعيين ذي الأثر المادي وقابليته للتدقيق وللطعن تحت **المادة VI-B** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*)، مقيسًا على [الأهمية المادية](core_05_band_oversight.md#materiality-determination) و[الاعتماد](core_05_band_continuity.md#dependency). ويجب أن يكشف التقييم مؤشرات بديلة معتمة أو غير قابلة للمراجعة، وحراسة اعتمادات تهزم تكوين القدرة، وتقادمًا مفروضًا أو إقفالًا يلغي الوكالة، وتصميم تعلّم قسريًا أو متلاعبًا، وتجزئة تزيل قابلية الطعن أو التكيّف مدى الحياة حيث تنطبق **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) معًا. ويجب أن يعكس التقييم الأثر الوظيفي، لا تسميات الوصول الاسمية أو القصد التربوي المعلن أو شكلانية الاعتماد وحدها.
+- أن يرتّب الكائنات الواعية أو يقيّمهم أو يوصي لهم أو يلحقهم أو يعمل بوصفه بوابة اعتماد لهم على نحو ذي شأن — مثلًا من خلال الدرجات أو الإلحاق أو القبول أو الترخيص أو التوصية بالمواد الدراسية أو توجيه التعلّم التكيّفي أو قرارات مماثلة؛ أو
+- أن يتحكم على نحو ذي شأن في الوصول إلى التعليم المستمر أو إعادة التدريب أو المساعدة على الانتقال، في الحالات التي تكون فيها تغييرات النظام قد غيّرت بدرجة كبيرة المهارات التي يحتاج إليها الكائنات الواعية.
 
-**متطلب السجل.** يجب أن يبيّن سجل التصديق محفّز الأهمية المادية في **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) المعتمد عليه، ونطاق تقييم مسارات الترتيب والتقويم والتوصية والتعيين والإغلاق بالكفاءات وإعادة التدريب المعتمَد عليها ماديًا، ونتائج بناء القدرة ومسار إعادة التدريب، ونتائج شفافية التقويم وقابلية الطعن، ونتائج منع المؤشر البديل ومنع التلاعب حيث تكون مادية، وعدم اليقين، ونتائج منتدى الكائنات الواعية أو مكوّنات معيَّنة أخرى حيث تُطلب، وأي شروط أو حدود اعتماد أو محفّزات إعادة فتح مربوطة بهزيمة دائمة للقدرة أو غموض التقويم أو تقادم مفروض.
+يظل تكافؤ الوصول إلى التعليم وإمكانية الوصول إليه خاضعين **للمادة IV-A** (*تكافؤ الوصول إلى التعليم*)، ولا يضيّق هذا القسم أيًا منهما.
 
-**التصعيد المشترك مع صنف النظام.** يجب أن يتصاعد عمق تقييم القدرة التعليمية ونزاهة نظام التعلّم مع صنف النظام المعيَّن تحت [§2](#2-system-class-evaluation) و[الرهان المادي](core_00_preamble.md#material-stake). وتتطلب أنظمة الأصناف الأعلى التي ترتّب ماديًا أو تقوّم أو توصي أو تعيّن أو تغلق بالكفاءات كائنات واعية في سياقات تعليم أو تدريب إثباتًا أقوى بنسبة أن جوهر بناء القدرة ووصول إعادة التدريب وشفافية نظام التعلّم قُيِّمت لا زُعمَت.
+عند انطباق محفّز الأهمية المادية، يجب أن يقيّم التصديق **القدرة التعليمية ونزاهة نظام التعلّم** — أي هل يبني النظام القدرة فعلًا وهل يعامل الكائنات الواعية بإنصاف — بموجب:
 
-**العيوب وعدم المواءمة.** يجب أن يُعامل حجب منطق الترتيب أو التقويم أو التوصية أو التعيين المادي أو تحريفه أو تجزئته أو تفريغه حيث تطلب **المادة VI-B** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*) المراجعة؛ أو معاملة شكلانية الاعتماد أو مقاييس الإكمال الإجمالية أو تقرير المشغّل الذاتي كافيًا بلا تحليل بناء قدرة قابل للتقييم؛ أو التصديق على استمرار الاعتماد بينما يهدّد غموض التقويم أو حراسة الاعتمادات أو التقادم المفروض أو تصميم التعلّم المتلاعب الموثَّق المواءمة الدستورية ماديًا؛ أو استخدام أطر الكفاءة أو التخصيص أو الحجم لهزيمة وصول إعادة التدريب أو قابلية الطعن دون استيفاء انضباط بناء القدرة في **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) وانضباط الشفافية في **المادة VI-B** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*) عيوب تصديق. ويجوز أن تسند اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو سحبًا أو إعادة فتح تحت [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+- **المادة IV** (*الحق في التعليم المتمحور حول الكائنات الواعية*)؛
+- **المادة IV-C** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*)؛ و
+- [الاستقلالية التعليمية](../../core_05_band_participation.md#educational-agency).
 
-<a id="91-illustrative-educational-capability-application-by-class"></a>
+لا يضع هذا القسم قواعد عمل التعليم نفسه. وتُحدَّد قرارات ما يُدرّس والاعتمادات القائمة وكيفية تقييم العمل وتمويل المدارس في وثائق أخرى قد تُدمج؛ ولا يختار التصديق منهجًا دراسيًا أو صيغة اعتماد أو طريقة تقييم.
 
-<a id="91-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
-#### 9.1 تطبيق توضيحي للقدرة التعليمية حسب الصنف (غير حصري)
+<a id="522-evaluation-requirement"></a>
+##### 5.2.2 متطلب التقييم
 
-*بعبارات بسيطة: تمرّ [§3.8](#38-illustrative-whole-system-application-by-class) حتى [§8.1](#81-illustrative-accessibility-application-by-class) بالأنظمة الثلاثة نفسها عبر مجالات تقييم أسبق. يُظهر هذا القسم الفرعي ماذا يعني تقييم **القدرة التعليمية ونزاهة نظام التعلّم** لكل منها — أي مسارات الترتيب والتقويم والاعتماد وإعادة التدريب تُحتسب، وماذا يجب أن يتحقق التصديق منه حين ينطبق محفّز الأهمية المادية في **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*)، وماذا يجب أن يظهر على السجل. ما زال الفصل الخامس و**المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) يملكان قواعد الوكالة التعليمية ونظام التعلّم القانونية؛ ويجوز أن تعيش المناهج وفهارس الاعتمادات وسلالم التقويم ونماذج التمويل في صكوك أخرى أو إضافات لاحقة إلى المتن أو صكوك اعتماد؛ ولا تفرض هذه الجولات تلك الميكانيكا. ويبقى الوصول المتساوي وتيسير الوصول التعليمي ملكين لـ**المادة III-B** (*الوصول التعليمي المتساوي*) ولا يُضيَّقان هنا.*
+يجب أن يتحقق التصديق مما إذا كانت مسارات التعلّم والاعتماد التي يعتمد عليها الكائنات الواعية فعلًا تمنحهم سبيلًا حقيقيًا لبناء المهارات — لا مجرد شهادة تبدو جيدة على الورق — وما إذا كانت لا تزال لديهم سبل عملية لإعادة التدريب ومواصلة التعلّم واجتياز التحولات حين تتغير المهارات التي يحتاجون إليها تغيرًا كبيرًا.
 
-**Class A — التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية.** يغلق نظام بلدي للمعالجة والتوزيع من يجوز له تشغيل وظائف مصنع حرجة للبقاء عبر ترخيص المشغّلين واعتماد السلامة وتقويم الكفاءة وقواعد إعادة تدريب البروتوكول — مسارات اعتماد أدوار تقرّر هل تستطيع الكائنات الواعية بناء القدرة على تشغيل ماء آمن والاحتفاظ بها، وهل يمكن رؤية تلك التقويمات وتدقيقها والطعن فيها.
+ويجب على المراجعين أيضًا اختبار ما إذا كان بالإمكان الاطلاع على قرارات النظام المتعلقة بالترتيب والدرجات والتوصيات والإلحاق، وتدقيقها والطعن فيها، كما تقتضي **المادة IV-C** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*). ويتوقف مدى صرامة هذا الاختبار على حجم الرهان ([الأهمية المادية](../../core_05_band_oversight.md#materiality)) ومقدار اعتماد الكائنات الواعية على النظام ([الاعتماد](../../core_05_band_continuity.md#dependency)).
 
-- **مسارات التعلّم والاعتماد في النطاق:**
-  - ترخيص المشغّلين وتجديده وتعليقه؛
-  - اعتماد السلامة وتقويم كفاءة الاستجابة للطوارئ؛
-  - إعادة تدريب البروتوكول والقياس عن بعد حين تتغيّر الكيمياء أو منطق التحكم أو المتطلبات التنظيمية؛
-  - الترتيب أو التعيين في نوبات المصنع أو الساعات الإضافية أو أدوار المشغّل الرئيسي حسب الكفاءة المقوَّمة؛
-  - مسارات الطعن والتدريب العلاجي للتقويمات الراسبة أو الاعتمادات المعلَّقة.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تنتج مسارات التعلّم والاعتماد تلك قدرة عملية على تشغيل ضوابط الماء الآمن — لا رمزية الاعتماد أو أعداد شهادات الإكمال وحدها؛
-  - هل يحتفظ المشغّلون بإعادة تدريب ودعم انتقال قابلين للعمل حين تتغيّر الكفاءات المطلوبة ماديًا؛
-  - هل منطق الترتيب والتقويم والإغلاق بالكفاءات شفاف وقابل للتدقيق وللطعن تحت **المادة VI-B** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*)؛
-  - هل تهزم مؤشرات بديلة معتمة أو حراسة أو تقادم مفروض تكوين القدرة للعاملين الذين تغلق كفاءتهم ضروريات البقاء؛
-  - هل يطابق عمق التقييم رهان **Class A** حيث يستطيع مشغّلون غير مؤهَّلين أو مُقفَل عنهم إغلاق الماء الآمن؛ و
-  - هل يستوفي أي حد تقويم جوهر بناء قدرة موثَّقًا لا القصد التربوي المعلن وحده.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز الأهمية المادية في **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) المعتمد عليه؛
-  - نطاق تقييم مسارات الترخيص والتقويم والإغلاق بالكفاءات وإعادة التدريب المعتمَد عليها ماديًا؛
-  - نتائج بناء القدرة ومسار إعادة التدريب بعمق **Class A**؛
-  - نتائج شفافية التقويم وقابلية الطعن؛
-  - نتائج منع المؤشر البديل ومنع التلاعب حيث تكون مادية؛
-  - عدم اليقين؛
-  - نتائج منتدى الكائنات الواعية أو مكوّنات أخرى حيث تُطلب؛ و
-  - شروط أو محفّزات إعادة فتح مربوطة بغموض تقويم دائم أو حراسة اعتمادات أو تقادم مفروض حيث تُغلق عمليات حرجة للبقاء.
+وعلى المراجعين الانتباه إلى:
 
-**Class B — تبادل السجلات السريرية الإقليمي.** يغلق تبادل معلومات صحية وبوابات مشاركين الممارسة السريرية والوصول إلى الرعاية عبر التحقق من اعتماد الأطباء وترتيب الامتيازات وتعيين المستشفى أو العيادة وتدريب الخصوصية وbreak-glass ومتطلبات التعليم المستمر التي تقرّر ماديًا من يجوز له الممارسة على الشبكة وبأي سرعة يستطيع العاملون إعادة التدرّب حين تتغيّر القواعد.
+- الدرجات أو التصنيفات القائمة على مؤشرات بديلة خفية لا يستطيع أحد مراجعتها؛
+- حراسة بوابات الاعتماد على نحو يمنع الكائنات الواعية من تعلّم المهارة فعلًا؛
+- التقادم المفروض أو الانغلاق الذي يسلب الكائنات الواعية رأيهم في مسارهم الخاص؛
+- تصميم تعلّم قسري أو متلاعب به؛ و
+- فرز الكائنات الواعية في مسارات تنتقص من قدرتهم على الطعن في القرارات أو مواصلة التكيّف، حيث تنطبق أيضًا **المادة IV** (*الحق في التعليم المتمحور حول الكائنات الواعية*).
 
-- **مسارات التعلّم والاعتماد في النطاق:**
-  - التحقق من اعتماد الأطباء وترتيب الامتيازات؛
-  - منطق تعيين المستشفى أو العيادة أو الإقامة المرتبط بالتبادل؛
-  - تقويمات تدريب الخصوصية والموافقة وbreak-glass؛
-  - متطلبات التعليم المستمر وتجديد الكفاءة للمشاركة في الشبكة؛
-  - التوصية أو التوجيه التكيّفي نحو وحدات تخصّص أو مسارات تعليم طبي مستمر أو تدريب علاجي؛
-  - مسارات الطعن للامتيازات المرفوضة أو التقويمات الراسبة أو الإدماج المحظور.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تنتج مسارات الاعتماد والتعيين قدرة سريرية عملية ومشاركة في الشبكة — لا مربعات تدريب HIPAA الاسمية أو لوحات الإكمال وحدها؛
-  - هل يحتفظ الأطباء وعاملو HIM بإعادة تدريب قابلة للعمل حين تتغيّر قواعد الموافقة أو التوجيه أو الوصول الطارئ ماديًا؛
-  - هل منطق الترتيب والتقويم والتوصية والتعيين شفاف وقابل للتدقيق وللطعن تحت **المادة VI-B** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*)؛
-  - هل تهزم مؤشرات استخدام أو «لياقة» أو هيبة معتمة تكوين القدرة أو تقفل المشاركين في مسارات غير قابلة للمراجعة؛
-  - هل يطابق عمق التقييم حرجية تشغيل **Class B** حيث يغلق منطق الاعتماد أو التعيين الوصول إلى الرعاية الصحية أو العمل أو ممارسة مجاورة للترخيص؛ و
-  - هل استُخدمت أطر الكفاءة أو التخصيص لهزيمة قابلية الطعن بلا تحليل بناء قدرة قابل للتقييم.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) ونطاق المسارات؛
-  - نتائج بناء القدرة ومسار إعادة التدريب لمسارات الأطباء والعيادات؛
-  - نتائج شفافية التقويم وقابلية الطعن؛
-  - نتائج منع المؤشر البديل ومنع التلاعب حيث تكون مادية؛
-  - عدم اليقين ونتائج المكوّنات حيث تُطلب؛ و
-  - محفّزات إعادة الفتح إن كانت حواجز الاعتماد أو الامتيازات أو التدريب ستغلق الآن التوظيف الطارئ أو الممارسة السريرية ضمن أطر زمنية ذات صلة بالبقاء أو تهزم الاعتماد التشغيلي اليومي ماديًا.
+ويجب على المراجعين الحكم استنادًا إلى ما يفعله النظام فعلًا، لا إلى تسميات الوصول أو ما يقول المصممون إنهم ينوون فعله أو سلامة الأوراق.
 
-**Class C — منصة الجدولة والتنسيق المؤسسية.** ترتّب طبقة جدولة متعددة المنظمات وتوصي وتخصّص حصص تدريب وتوجيه وتعليم مستمر وأولوية تطوير مهني عبر مستشفيات ومدارس وأجهزة عامة — حتى حين لا تكون المنصة ذاتها مرفق بقاء حرجًا.
+<a id="523-system-class-scaling-and-escalation"></a>
+##### 5.2.3 التناسب والتصعيد بحسب فئة النظام
 
-- **مسارات التعلّم والاعتماد في النطاق:**
-  - حجز حصص التدريب والتوجيه؛
-  - ترتيب أو توصية التعليم المستمر والتطوير المهني؛
-  - مطابقة المقررات أو الأفواج أو المدرّبين؛
-  - تذكيرات انتهاء الاعتماد المرتبطة بأهلية الجدولة؛
-  - سمات مشتقة توجّه العاملين نحو مسارات مميَّزة أو علاجية؛
-  - قواعد API أو سياسة تستبعد مؤسسات أصغر من قدرة التدريب المفضَّلة.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل ينطبق محفّز الأهمية المادية في **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) — بما في ذلك حيث توصي خوارزميات التنسيق ماديًا بمقررات أو ترتّب وصول التطوير المهني أو تغلق حصص تدريب تشكّل مسارات اعتماد أو مسار مهني؛
-  - هل تنتج التوصيات وتخصيص الحصص وصول بناء قدرة لا رمزية اعتماد؛
-  - هل منطق التقويم أو الترتيب أو التوصية شفاف وقابل للتدقيق وللطعن؛
-  - هل عامل المشغّل المنصة دون مراجعة لأنها **Class C** بينما تشكّل آثار توجيه التدريب ماديًا العمل أو التعليم أو مسارات الترخيص؛ و
-  - هل تُطلب **رقابة إعادة تصنيف** حيث تصير المنصة ضرورية تشغيليًا للعمل أو الامتيازات السريرية أو اعتمادات التوظيف الضرورية للبقاء.
-- **ماذا يجب أن يُظهر السجل:**
-  - هل ينطبق محفّز **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) ولماذا؛
-  - نطاق تقييم مسارات الترتيب والتوصية والتعيين وإعادة التدريب متناسبًا مع خطر تنسيق **Class C**؛
-  - نتائج بناء القدرة والشفافية وقابلية الطعن حيث تكون مادية — لا زعمًا فارغًا بأن التدريب «اختياري»؛
-  - نتائج التركيز وعنق الزجاجة حيث تنذر آثار توجيه التدريب بالتصعيد؛
-  - **رقابة إعادة تصنيف** صريحة حيث يقوى الاعتماد؛ و
-  - إشارات إلى مراجعة قدرة تعليمية مصعَّدة إن تغيّر الصنف أو دور التنسيق الضروري للبقاء.
+يتوقف عمق المراجعة على فئة النظام. وكلما تحقق محفّز الأهمية المادية:
 
-**القراءة عبر الأصناف.** ينطبق انضباط القدرة التعليمية نفسه في **المادة VI** (*الحق في تعليم متمحور حول الكائنات الواعية*) والفصل الخامس حيث يُستوفى محفّز الأهمية المادية؛ ويغيّر الصنف عمق التقييم، لا الإذن بمعاملة شكلانية الاعتماد أو التقويم المعتم كافية. نظام ماء **Class A** يمكن لترخيص مشغّليه أو تقويم سلامته أن يغلق تشغيل المصنع الآمن يجب أن يحمل أقوى إثبات بناء قدرة وإعادة تدريب وقابلية طعن على السجل — لا بيان سياسة تدريب عامًا. تبادل **Class B** يغلق منطق امتيازاته أو تعيينه أو تعليمه الطبي المستمر الممارسة السريرية يجب أن يوثّق شفافية التقويم ووصول إعادة التدريب عند الحرجية التشغيلية. منصة جدولة **Class C** يجب ألا تبقي فقرة تعليم رمزية بينما يرتّب منطق حصص التدريب أو التوصية أو توجيه الاعتماد مشاركين أو يستبعدهم ماديًا؛ وحين يصير التنسيق ضروريًا تشغيليًا للعمل أو الترخيص، يجب أن يصعّد التصديق المراجعة وإعادة التصنيف تحت [§2](#2-system-class-evaluation) و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، بما في ذلك صعودًا نحو **Class A** حيث تُغلق اعتمادات التوظيف الضرورية للبقاء. جولات الجدارة بالثقة للأنظمة نفسها في [§10.1](#101-illustrative-trustworthiness-application-by-class).
+- إذا كان النظام يختبر مشغّلي بنية تحتية يحتاج إليها الكائنات الواعية للبقاء أو يمنحهم تراخيص، وكان من الممكن أن تمنع قراراته تشغيل تلك البنية بأمان، فيجب أن يبيّن السجل أقوى الأدلة على أن النظام يبني مهارات حقيقية ويوفر إعادة التدريب ويمكن الطعن فيه. ولا تكفي سياسة تدريب عامة.
+- إذا كانت امتيازات النظام أو قواعد الإلحاق أو التعليم المستمر تحدد من يستطيع العمل في الأدوار السريرية، فيجب أن يبيّن السجل كيفية فحص التقييمات وكيفية تمكّن الكائنات الواعية من إعادة التدريب. وكلما زادت أهمية العمل، زادت التفاصيل المطلوبة.
+- لا تكفي فقرة قصيرة عن التعليم حين يرتّب منطق النظام المتعلق بمقاعد التدريب أو التوصيات أو توجيه الاعتماد المشاركين أو يستبعدهم بدرجة كبيرة.
+- إذا أصبح النظام مسارًا إلزاميًا للكائنات الواعية كي يعملوا أو يحصلوا على ترخيص، فيجب أن يراجع التصديق النظام بمزيد من التعمق ويعيد النظر في فئته بموجب [§2 تقييم فئة النظام](#2-system-class-evaluation) و[الجزء B §7 نتائج التصديق](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion). ويشمل ذلك رفعه نحو **الفئة A** حين تُفرض بوابات على الاعتمادات اللازمة لموظفي الخدمات الضرورية للبقاء.
 
-<a id="10-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+<a id="524-defects-and-misalignment"></a>
+##### 5.2.4 العيوب والانحراف
 
-### 10. تقييم الجدارة بالثقة ونزاهة الاعتماد على النظام
+يُعد كل مما يلي عيبًا في التصديق:
+
+- إخفاء أو تحريف أو تشتيت أو إحالة منطق الترتيبات أو التقييمات أو التوصيات أو الإلحاقات المهمة إلى جهة أخرى، حيث تقتضي **المادة IV-C** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*) إتاحة ذلك المنطق للمراجعة؛
+- قبول الاعتمادات أو معدلات الإكمال الإجمالية أو أقوال المشغّل دليلًا على تعلّم الكائنات الواعية، دون التحقق مما إذا كانوا يبنون المهارات فعلًا؛
+- التصديق على استمرار اعتماد الكائنات الواعية على النظام مع وجود مشكلات موثقة — مثل غموض التقييمات أو حراسة بوابات الاعتماد أو التقادم المفروض أو تصميم تعلّم متلاعب به — تهدد بدرجة كبيرة اتساقه مع الدستور؛ و
+- استخدام الكفاءة أو التخصيص أو الحجم ذريعة لرفض إعادة التدريب أو القدرة على الطعن في القرارات، دون استيفاء النظام متطلبات بناء المهارات في **المادة IV** (*الحق في التعليم المتمحور حول الكائنات الواعية*) ومتطلبات الشفافية في **المادة IV-C** (*التعلّم مدى الحياة والتكيّفي وقابلية الطعن*).
+
+<br>
+
+<a id="53-proportionate-cross-system-support-evaluation"></a>
+
+#### 5.3 تقييم الدعم المتناسب بين الأنظمة
 
 <details>
-<summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- أعلى: [الجزء ب §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم صنف النظام*)؛ أسرة قياس الرقابة (*الحقيقة والنزاهة المعرفية؛ الجدارة بالثقة وتدهور الثقة والاعتماد المضلّل بوصفهما قياسًا دستوريًا*)؛ **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*)؛ [الجدارة بالثقة](core_05_band_continuity.md#trustworthiness)، [الثقة](core_05_band_continuity.md#trust)، [تدهور الثقة والاعتماد المضلّل](core_05_band_continuity.md#trust-degradation-and-misleading-reliance)، [قابلية الطعن](core_05_band_accountability.md#contestability)، [الانتصاف والمعالجة](core_05_band_accountability.md#redress-and-remediation-constitutional)، [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment)، [القابلية للعكس](core_05_band_continuity.md#reversibility-constitutional)، [الأهمية المادية](core_05_band_oversight.md#materiality-determination)، [الاعتماد](core_05_band_continuity.md#dependency)، و[المخاطر](core_05_band_continuity.md#risk) (الفصل الخامس).
-- أسفل: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*جولات توضيحية للجدارة بالثقة*)؛ [الجزء ب §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات الموثّقة*)؛ [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*عدم مواءمة الثقة الزائفة وعدم مواءمة الحافز المنحرف وعدم مواءمة نزاهة التعافي*).
-- يُقرأ مع: **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*) و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) — وتبقى حقوق الطعن والتدقيق ملكين هناك؛ **المادة XIII-E** (*الأنظمة عالية الاستقلال ونزاهة الإجراء بوساطة الأدوات*) حيث تتوسّط أنظمة عالية الاستقلال ماديًا مسارات الحوكمة أو التحقق؛ **المادة III-A** (*البقاء*) حيث يؤثّر استمرار الاعتماد على النظام في الوصول الضروري للبقاء؛ [الفصل الأول §4 الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity) و[الفصل الأول §3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- الأقسام الفرعية: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*تطبيق توضيحي للجدارة بالثقة حسب الصنف*).
+- المنابع: [الجزء B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم فئة النظام*)؛ أسرة قياس الاستمرارية (*الدعم المتناسب بين الأنظمة بوصفه قياسًا دستوريًا*)؛ **المادة V-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) و**المادة V-B** (*الإنصاف والاستدامة بين الأنظمة*)؛ [الاستخراج بين الأنظمة](../../core_05_band_continuity.md#cross-system-extraction)، [الدعم المتناسب بين الأنظمة](../../core_05_band_continuity.md#proportionate-cross-system-support)، [الاعتماد](../../core_05_band_continuity.md#dependency)، [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness)، [التناسب](../../core_05_band_accountability.md#proportionality)، [البصمة البيئية](../../core_05_band_continuity.md#ecological-footprint) و[الاستدامة](../../core_05_band_continuity.md#sustainability) (الفصل الخامس).
+- المصبّ: [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*جولات توضيحية للدعم بين الأنظمة*)؛ [الجزء B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات المتحقق منها*)؛ [الجزء B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*تحريف تدفق الموارد والانحراف في الاستخراج وعدم كفاية الدعم*).
+- يُقرأ مع: **[corpus_systems.md](../../corpus_systems.md)** و**CS-9** (*الإشراف على تخصيص الموارد وتمويلها*) و**CS-8** (*الاستدامة التكيفية ومرونة النظم الإيكولوجية*)؛ و[بنية الحوكمة والرقابة والاعتماد واللامركزية والتركّز وهيكل السوق ونزاهة مسارات الخروج](../../core_05_band_accountability.md#governance-architecture-decentralization-and-concentration) حيث يتقاطع التركّز أو الاعتماد أو توجيه الحوافز مع **المادة V-B** (*الإنصاف والاستدامة بين الأنظمة*).
+- الأقسام الفرعية: [§5.3.1](#531-materiality-trigger) (*محفّز الأهمية المادية*)؛ [§5.3.2](#532-meaning-of-extraction) (*معنى الاستخراج*)؛ [§5.3.3](#533-governing-rules) (*القواعد الحاكمة*)؛ [§5.3.4](#534-evaluation-requirement) (*متطلب التقييم*)؛ [§5.3.5](#535-map-and-record-integrity) (*نزاهة الخريطة والسجل*)؛ [§5.3.6](#536-system-class-scaling-and-escalation) (*التناسب والتصعيد بحسب فئة النظام*)؛ [§5.3.7](#537-defects-and-misalignment) (*العيوب والانحراف*)؛ [§5.3.8](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*تطبيق توضيحي للدعم بين الأنظمة بحسب فئة النظام*).
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: حين يؤثّر نظام ماديًا في هل تستطيع الكائنات الواعية أن تثق بما يقوله ويفعله — وأن تدفع حين تفشل تلك الثقة — فعلى التصديق أن يتحقق هل الاعتماد مبرَّر فعلًا، ومكشوف بصدق، وقابل للإصلاح. تعيش مقاييس الموثوقية وتصاميم مجموعات الاختبار في صكوك أخرى؛ ويتحقق التصديق من أن الجدارة بالثقة وخطر الثقة الزائفة ومسارات الطعن قُيِّمت فعلًا حيث ينطبق المحفّز. الأمثلة المعمولة للأنظمة التوضيحية في [§2.1](#21-illustrative-class-profiles-non-exhaustive) في [§10.1](#101-illustrative-trustworthiness-application-by-class).*
+*بعبارات بسيطة: تعتمد بعض الأنظمة على أسس مشتركة — بنى تحتية وخدمات وموارد تعتمد عليها أنظمة وكائنات واعية كثيرة أخرى. عندما يسحب نظام موارد كبيرة من تلك الأسس، يجب أن يتحقق التصديق مما إذا كان يعيد إليها ما يكفي لاستمرارها، وما إذا كانت السجلات توضح ذلك بما يكفي كي يتمكن أي طرف من تتبعه. ولا يكفي قول المشغّل إن «الحسابات متوازنة». لا يحدد هذا القسم صيغ التخصيص أو الأهداف العددية؛ فتلك تحددها وثائق أخرى. وهو يتحقق من أن الاعتمادات وما يأخذه النظام وما يعيده ومدى إنصاف الترتيب للآخرين خضعت للتقييم فعلًا عند انطباق هذا القسم. أمثلة تطبيقية: [§5.3.8 تطبيق توضيحي للدعم بين الأنظمة بحسب فئة النظام (غير حصري)](../../core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive).*
 
-**محفّز الأهمية المادية.** ينطبق هذا القسم حيث يشكّل نظام ذو أثر مادي ماديًا اعتماد الكائنات الواعية على السلوك الممثَّل أو الحدود أو المخاطر أو مسارات الطعن أو المعالجة — بما في ذلك عبر ادعاءات الموثوقية ووضع الإفصاح والسلوك التشغيلي وتصميم الحوافز وممارسات التعافي أو مسارات اعتماد مماثلة. وهو لا يطلب تدقيق جدارة بالثقة كاملًا في كل سجل تصديق.
+<a id="531-materiality-trigger"></a>
+##### 5.3.1 محفّز الأهمية المادية
 
-يجب أن يقيّم تصديق مواءمة النظام **الجدارة بالثقة ونزاهة الاعتماد على النظام** تحت **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) و[الجدارة بالثقة](core_05_band_continuity.md#trustworthiness) و[تدهور الثقة والاعتماد المضلّل](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) حيث ينطبق محفّز الأهمية المادية. يعيش المعنى القانوني وعوامل التقييم وانضباط عدم الامتثال في الفصل الخامس و**المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*)؛ وتعيش مقاييس الموثوقية وصيغ الإفصاح وميكانيكا مواءمة الحوافز وتصاميم اختبارات الانحدار في صكوك مدمجة حيث تنطبق. يبيّن هذا القسم ماذا يجب أن يتحقق التصديق منه ويسجّله؛ وهو لا يعيد بيان تلك الميكانيكا التشغيلية ولا يفرض مقاييس موثوقية معيّنة أو تصاميم مجموعات اختبار.
+ينطبق هذا القسم عندما يقوم نظام له أثر مادي في حياة الكائنات الواعية بأحد الأمور التالية بشأن بنية تحتية أو أسس مشتركة — أي أمور تعتمد عليها أنظمة وكائنات واعية أخرى:
 
-**متطلب التقييم.** يجب أن يحدّد إجراء التصديق هل تحفظ المسارات المعتمَد عليها ماديًا شروط [الثقة](core_05_band_continuity.md#trust) المبرَّرة والاعتماد الدقيق على نحو معقول تحت **المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*) — لا السمعة أو الحجم أو الوضع التسويقي وحدها. ويجب أن يختبر التقييم أيضًا الطعن والمراجعة والانتصاف القابلة للعمل تحت **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*)، وخطر الثقة الزائفة والاعتماد المضلّل تحت **المادة XIII-C** (*حظر الثقة الكاذبة والاعتماد المضلِّل*)، وتعرّض الحافز المنحرف تحت **المادة XIII-D** (*قيد مواءمة الحوافز*)، ونزاهة التعافي تحت **المادة XIII-F** (*خط أساس المرونة والشفاء الذاتي*) حيث تكون مادية، مقيسًا على [الأهمية المادية](core_05_band_oversight.md#materiality-determination) و[الاعتماد](core_05_band_continuity.md#dependency) و[المخاطر](core_05_band_continuity.md#risk). ويجب أن يكشف التقييم ثقة مصنوعة وحدودًا غير مكشوفة وبنى حوافز تكافئ الخداع أو اختصار الزوايا ومسارات طعن توجد على الورق وحده وممارسات تعافٍ تخفي الإخفاق أو تضيّق الحقوق في صمت. ويجب أن يعكس التقييم الأثر الوظيفي عبر الزمن والحجم والاعتماد، لا تسميات الضمان الاسمية أو القصد المعلن أو الأداء السابق وحدها.
+- يقرر من يحصل عليها (يخصصها)؛
+- يوجّه مسار تدفقها؛
+- يمولها؛ أو
+- يستخرج منها.
 
-**متطلب السجل.** يجب أن يبيّن سجل التصديق محفّز الأهمية المادية في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) المعتمد عليه، ونطاق تقييم مسارات الاعتماد والإفصاح والحوافز والطعن والتعافي المعتمَد عليها ماديًا، ونتائج الجدارة بالثقة والثقة الزائفة، ونتائج الحافز المنحرف ونزاهة التعافي حيث تكون مادية، وعدم اليقين، ونتائج منتدى الكائنات الواعية أو مكوّنات معيَّنة أخرى حيث تُطلب، وأي شروط أو حدود اعتماد أو محفّزات إعادة فتح مربوطة بهزيمة دائمة للثقة أو اعتماد مضلّل أو انتصاف غير ميسَّر.
+<a id="532-meaning-of-extraction"></a>
+##### 5.3.2 معنى الاستخراج
 
-**التصعيد المشترك مع صنف النظام.** يجب أن يتصاعد عمق تقييم الجدارة بالثقة ونزاهة الاعتماد على النظام مع صنف النظام المعيَّن تحت [§2](#2-system-class-evaluation) و[الرهان المادي](core_00_preamble.md#material-stake). وتتطلب أنظمة الأصناف الأعلى التي تشكّل ماديًا اعتماد الكائنات الواعية إثباتًا أقوى بنسبة أن الجدارة بالثقة وخطر الثقة الزائفة ومسارات الطعن قُيِّمت لا زُعمَت.
+يحمل **الاستخراج** في هذا القسم المعنى الوارد في [الاستخراج بين الأنظمة](../../core_05_band_continuity.md#cross-system-extraction) بموجب [المادة V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*الإنصاف والاستدامة بين الأنظمة*).
 
-**العيوب وعدم المواءمة.** يجب أن يُعامل حجب الحدود أو المخاطر أو تاريخ الإخفاق المادي أو تحريفه أو تجزئته أو تفريغه حيث تطلب **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) المراجعة؛ أو معاملة السمعة أو التزكية أو الحجم أو تقرير المشغّل الذاتي كافيًا بلا تحليل [جدارة بالثقة](core_05_band_continuity.md#trustworthiness) قابل للتقييم؛ أو التصديق على استمرار الاعتماد بينما تهدّد الثقة الزائفة أو الحوافز المنحرفة أو مسارات الطعن غير الميسَّرة أو ممارسات التعافي التي تخفي الإخفاق الموثَّقة المواءمة الدستورية ماديًا؛ أو استخدام أطر الكفاءة أو الابتكار أو الأمن لهزيمة الإفصاح أو قابلية الطعن أو الانتصاف دون استيفاء انضباط الموثوقية في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) وانضباط الطعن في **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*) عيوب تصديق. ويجوز أن تسند اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو سحبًا أو إعادة فتح تحت [الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion).
+- السؤال هو **من يستفيد من الأنظمة الخلفية المشتركة ومن يدفع لاستمرار تشغيلها** — لا ما يفعله النظام ببيانات الكائنات الواعية.
+- ويُفحص تعامل النظام مع البيانات، بما يشمل البيع والإعلان والتنميط، بموجب [§3.4 تقييم أنواع البيانات ومعالجتها](#34-data-types-and-handling-evaluation) (ولا سيما [§3.4.2 انضباط الخصوصية](#342-privacy-discipline)) و[§4.1 الاستدعاء المشترك للخصوصية (المعلوماتية)](#41-privacy-informational-joint-invocation).
+- ولا يحلّ أي من التقييمين محل الآخر.
 
-<a id="101-illustrative-trustworthiness-application-by-class"></a>
+<a id="533-governing-rules"></a>
+##### 5.3.3 القواعد الحاكمة
 
-<a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
-#### 10.1 تطبيق توضيحي للجدارة بالثقة حسب الصنف (غير حصري)
+كلما انطبق محفّز الأهمية المادية، يجب أن يقيّم التصديق **الدعم المتناسب بين الأنظمة**. وبعبارة بسيطة: إذا كان النظام يعتمد على أسس مشتركة، فهل يعيد إليها ما يكفي لاستمرارها؟ والقواعد الحاكمة لذلك هي:
 
-*بعبارات بسيطة: تمرّ [§3.8](#38-illustrative-whole-system-application-by-class) حتى [§9.1](#91-illustrative-educational-capability-application-by-class) بالأنظمة الثلاثة نفسها عبر مجالات تقييم أسبق. يُظهر هذا القسم الفرعي ماذا يعني تقييم **الجدارة بالثقة ونزاهة الاعتماد على النظام** لكل منها — أي مسارات الاعتماد والإفصاح والحوافز والطعن والتعافي تُحتسب، وماذا يجب أن يتحقق التصديق منه حين ينطبق محفّز الأهمية المادية في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*)، وماذا يجب أن يظهر على السجل. ما زال الفصل الخامس و**المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) يملكان قواعد الجدارة بالثقة القانونية؛ ويجوز أن تعيش مقاييس الموثوقية وصيغ الإفصاح وميكانيكا مواءمة الحوافز وتصاميم اختبارات الانحدار في صكوك أخرى أو إضافات لاحقة إلى المتن أو صكوك اعتماد؛ ولا تفرض هذه الجولات تلك الميكانيكا. وتبقى حقوق الطعن والتدقيق ملكين لـ**المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*) و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) — ولا تُضيَّق هنا.*
+- [الدعم المتناسب بين الأنظمة](../../core_05_band_continuity.md#proportionate-cross-system-support)؛
+- **المادة V-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*)؛ و
+- **المادة V-B** (*الإنصاف والاستدامة بين الأنظمة*).
 
-**Class A — التحكم والقياس عن بعد لمياه الشرب الآمنة البلدية.** يشكّل نظام بلدي للمعالجة والتوزيع هل تستطيع الأسر والمشغّلون والمستجيبون للطوارئ الاعتماد على جودة الماء الممثَّلة وحالة الانقطاع وتنبيهات التلوث وسلوك التحكم — مسارات يمكن أن يغلق فيها الاعتماد المضلّل الماء الآمن قبل وصول بدائل قابلة للعمل.
+وترد التفاصيل في مواضع أخرى:
 
-- **مسارات الاعتماد في النطاق:**
-  - ادعاءات دقة القياس عن بعد و**SCADA** (التحكم الإشرافي وجمع البيانات)؛
-  - إرشادات غلي الماء والتلوث؛
-  - كشف التسرّب وإشارة فقدان الضغط؛
-  - سلوك الإخفاق الآمن والتجاوز اليدوي؛
-  - تمثيلات مراقبة **SOC** (مركز عمليات الأمن) لدى المورّد؛
-  - توجيه الربط الطارئ والعون المتبادل؛
-  - جداول إخطار الانقطاع والاستعادة؛
-  - التعافي والشفاء الذاتي بعد تلوث أو حادث سيبراني أو إخفاق معدات؛
-  - بنى حوافز مربوطة بتأجيل الصيانة أو مكافآت المورّدين أو فوترة دافعي الرسوم.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل تسند السلوك والحدود وأوضاع الإخفاق الممثَّلة [ثقة](core_05_band_continuity.md#trust) مبرَّرة تحت **المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*) — لا السمعة أو الحجم أو وضع «أفضل ممارسة للمرفق» وحدها؛
-  - هل قُيِّم خطر الثقة الزائفة و[تدهور الثقة والاعتماد المضلّل](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) حيث يمكن لخطر تلوث مستخَفّ أو إرشادات متأخرة أو فائض مستظهِر أن يضلّل الأسر والمشغّلين؛
-  - هل توجد مسارات طعن ومراجعة وانتصاف قابلة للعمل تحت **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*) للقراءات المنازَع عليها أو التنبيهات الفائتة أو إخفاقات التعافي؛
-  - هل يكافئ تعرّض الحافز المنحرف تحت **المادة XIII-D** (*قيد مواءمة الحوافز*) تأجيل الصيانة أو اختصار زوايا المورّد أو كبت التنبيه؛
-  - هل تكشف نزاهة التعافي تحت **المادة XIII-F** (*خط أساس المرونة والشفاء الذاتي*) تاريخ الإخفاق ووضع الإصلاح بصدق بدل إخفاء الحوادث؛
-  - هل يطابق عمق التقييم رهان **Class A** حيث يستطيع الاعتماد المضلّل إغلاق الماء الآمن؛ و
-  - هل يستوفي أي حد ضمان تحليل جدارة بالثقة موثَّقًا لا القصد المعلن وحده.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز الأهمية المادية في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) المعتمد عليه؛
-  - نطاق تقييم مسارات الاعتماد والإفصاح والحوافز والطعن والتعافي المعتمَد عليها ماديًا؛
-  - نتائج الجدارة بالثقة والثقة الزائفة بعمق **Class A**؛
-  - نتائج الحافز المنحرف ونزاهة التعافي حيث تكون مادية؛
-  - عدم اليقين؛
-  - نتائج منتدى الكائنات الواعية أو مكوّنات أخرى حيث تُطلب؛ و
-  - شروط أو محفّزات إعادة فتح مربوطة بهزيمة دائمة للثقة أو اعتماد مضلّل أو انتصاف غير ميسَّر حيث يُغلق الوصول إلى الماء الضروري للبقاء.
+- يعرّف *الفصل الخامس* المصطلحات وأنواع الدعم المحتسبة واختبار كفاية الدعم.
+- تحدد **المادة V-B** (*الإنصاف والاستدامة بين الأنظمة*) عوامل التخصيص المنصف وأرضيته الدنيا نفسها.
+- تحدد *[corpus_systems.md](../../corpus_systems.md)* و**CS-9** (*الإشراف على تخصيص الموارد وتمويلها*) و**CS-8** (*الاستدامة التكيفية ومرونة النظم الإيكولوجية*) فئات التخصيص وكيفية تجديد التمويل والأهداف العددية حيث تنطبق.
 
-**Class B — تبادل السجلات السريرية الإقليمي.** يشكّل تبادل معلومات صحية وبوابات مشاركين هل يستطيع الأطباء والمرضى وفاعلو الصحة العامة الاعتماد على وقت التشغيل الممثَّل ومطابقة السجلات وتوجيه الموافقة ووصول break-glass وسلوك التعافي — مسارات تغلق عمليات الرعاية اليومية ويمكن أن تضلّل الرعاية الطارئة ضمن أطر زمنية ذات صلة بالبقاء.
+ولا يقتضي ذلك تقسيمًا متساويًا أو نسبًا ثابتة أو نموذج تمويل بعينه.
 
-- **مسارات الاعتماد في النطاق:**
-  - تمثيلات وقت التشغيل والكمون ودقة المطابقة؛
-  - سلوك توجيه الموافقة وbreak-glass؛
-  - ادعاءات موثوقية حل الهوية وإزالة التكرار؛
-  - إخطار الانقطاع ووضع التحويل الاحتياطي؛
-  - الإفصاح عن الحوادث وجداول التعافي بعد الانقطاع؛
-  - بنى حوافز المورّد والمشغّل المربوطة بحجم المعاملات أو سرعة الإدماج أو كبت التنبيه؛
-  - مسارات الطعن للسجلات الخاطئة أو الوصول المحظور أو قرارات التوجيه المنازَع عليها.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل يسند السلوك والحدود الممثَّلان اعتمادًا مبرَّرًا للعمليات السريرية اليومية — لا تسويق قابلية التشغيل البيني أو لوحات وقت تشغيل إجمالية وحدها؛
-  - هل قُيِّم خطر الثقة الزائفة حيث يمكن لخطأ مطابقة مستخَفّ أو إخفاقات موافقة مخفية أو جاهزية وصول طارئ مستظهَرة أن تضلّل الأطباء والمرضى؛
-  - هل مسارات الطعن والمراجعة والانتصاف تحت **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*) قابلة للعمل لنزاعات السجلات الخاطئة والبوابات المحظورة وإخفاقات التعافي — لا سياسات ورقية وحدها؛
-  - هل يكافئ تعرّض الحافز المنحرف تحت **المادة XIII-D** (*قيد مواءمة الحوافز*) نمو الحجم أو تقليل التنبيه أو إقفال المورّد فوق التوجيه الدقيق؛
-  - هل تكشف نزاهة التعافي تحت **المادة XIII-F** (*خط أساس المرونة والشفاء الذاتي*) تاريخ الانقطاع والمخاطر المتبقية بصدق؛
-  - هل يطابق عمق التقييم حرجية تشغيل **Class B** حيث يغلق الاعتماد المضلّل الوصول إلى الرعاية الصحية أو العمل أو ممارسة مجاورة للترخيص؛ و
-  - هل استُخدمت أطر الكفاءة أو الأمن لهزيمة الإفصاح أو قابلية الطعن بلا تحليل جدارة بالثقة قابل للتقييم.
-- **ماذا يجب أن يُظهر السجل:**
-  - محفّز **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) ونطاق المسارات؛
-  - نتائج الجدارة بالثقة والثقة الزائفة للمسارات السريرية والبوابة؛
-  - نتائج الحافز المنحرف ونزاهة التعافي بعمق **Class B**؛
-  - نتائج مسار الطعن والانتصاف حيث تكون مادية؛
-  - عدم اليقين ونتائج المكوّنات حيث تُطلب؛ و
-  - محفّزات إعادة الفتح إن كانت تمثيلات وقت التشغيل أو المطابقة أو الوصول الطارئ ستضلّل الآن توجيه الرعاية ضمن أطر زمنية ذات صلة بالبقاء أو تهزم الاعتماد التشغيلي اليومي ماديًا.
+<a id="534-evaluation-requirement"></a>
+##### 5.3.4 متطلب التقييم
 
-**Class C — منصة الجدولة والتنسيق المؤسسية.** تشكّل طبقة جدولة متعددة المنظمات هل تعتمد المؤسسات والعاملون على التوافر الممثَّل ودقة التوجيه ودرجات موثوقية المورّدين وتعافي الانقطاع — حتى حين لا تكون المنصة ذاتها مرفق بقاء حرجًا.
+يجب أن يجيب التصديق عن سؤالين:
 
-- **مسارات الاعتماد في النطاق:**
-  - ادعاءات توجيه النوبات وتوافر الاستدعاء؛
-  - تمثيلات موثوقية حجز القاعات والمعدات والمورّدين؛
-  - شارات «متاح دائمًا» أو وقت التشغيل؛
-  - سمات موثوقية أو تقييم مورّدين مشتقة تشكّل السلوك المؤسسي؛
-  - إخطار الانقطاع ووضع التحويل الاحتياطي؛
-  - بنى حوافز مربوطة بحجم الحجز أو عمولات المورّدين أو تقليل التنبيه؛
-  - مسارات الطعن والانتصاف للنوبات الفائتة أو الحجوزات المزدوجة أو أخطاء توجيه المورّدين.
-- **ماذا يجب أن يختبر التقييم:**
-  - هل ينطبق محفّز الأهمية المادية في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) — بما في ذلك حيث تشكّل ادعاءات الموثوقية أو درجات المورّدين أو سلوك التنسيق ماديًا قرارات التوظيف أو التوجيه الطارئ أو الشراء؛
-  - هل قُيِّم خطر الثقة الزائفة والاعتماد المضلّل حيث يمكن للوضع التسويقي أو شارات الثقة أو تاريخ انقطاع مستخَفّ أن يضلّل المؤسسات؛
-  - هل مسارات الطعن والانتصاف قابلة للعمل لأخطاء جدولة تؤثّر ماديًا في العمل أو التعليم أو وصول الخدمة العامة؛
-  - هل عامل المشغّل المنصة دون مراجعة لأنها **Class C** بينما تشكّل تمثيلات الموثوقية ماديًا السلوك المؤسسي؛
-  - هل يكافئ تعرّض الحافز المنحرف محاباة المورّدين أو كبت التنبيه أو التركيز فوق التنسيق الدقيق؛ و
-  - هل تُطلب **رقابة إعادة تصنيف** حيث تصير المنصة عنق زجاجة أمر واقع للتوظيف الضروري للبقاء أو التوجيه الطارئ أو تنسيق الدفع.
-- **ماذا يجب أن يُظهر السجل:**
-  - هل ينطبق محفّز **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) ولماذا؛
-  - نطاق تقييم مسارات الاعتماد والإفصاح والحوافز والطعن والتعافي متناسبًا مع خطر تنسيق **Class C**؛
-  - نتائج الجدارة بالثقة والثقة الزائفة حيث تكون مادية — لا زعمًا فارغًا بأن المنصة «موثوقة»؛
-  - نتائج الحافز المنحرف ونزاهة التعافي حيث تكون مادية؛
-  - نتائج التركيز وعنق الزجاجة حيث تنذر ادعاءات الموثوقية بالتصعيد؛
-  - **رقابة إعادة تصنيف** صريحة حيث يقوى الاعتماد؛ و
-  - إشارات إلى مراجعة جدارة بالثقة مصعَّدة إن تغيّر الصنف أو دور التنسيق الضروري للبقاء.
+- **ماذا يأخذ النظام؟** هل تُظهر خرائط الأنظمة التابعة الموثقة وسجلات تدفق الموارد القابلة للتدقيق التي تقتضيها **المادة V-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) أن النظام يأخذ من بنية تحتية أو أسس مشتركة يعتمد عليها؟
+- **ماذا يعيد النظام؟** هل تكفي تدفقات العائد منه فعلًا لتوفير دعم كافٍ بموجب [الدعم المتناسب بين الأنظمة](../../core_05_band_continuity.md#proportionate-cross-system-support)؟
 
-**القراءة عبر الأصناف.** ينطبق انضباط الجدارة بالثقة نفسه في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) والفصل الخامس حيث يُستوفى محفّز الأهمية المادية؛ ويغيّر الصنف عمق التقييم، لا الإذن بمعاملة السمعة أو الحجم أو تسميات الضمان الاسمية كافية. نظام ماء **Class A** يمكن لتمثيلات قياسه عن بعد أو إرشاداته أو تعافيه أن تضلّل الأسر والمشغّلين عن الماء الآمن يجب أن يحمل أقوى إثبات جدارة بالثقة وثقة زائفة ونزاهة تعافٍ على السجل — لا بيان موثوقية عامًا. تبادل **Class B** تغلق تمثيلات وقت تشغيله أو مطابقته أو break-glass الممارسة السريرية يجب أن يوثّق نتائج مسار الطعن والاعتماد المضلّل عند الحرجية التشغيلية. منصة جدولة **Class C** يجب ألا تبقي فقرة جدارة بالثقة رمزية بينما تشكّل شارات الموثوقية أو درجات المورّدين ماديًا سلوك التوظيف أو الشراء؛ وحين يصير التنسيق ضروريًا للبقاء، يجب أن يصعّد التصديق المراجعة وإعادة التصنيف تحت [§2](#2-system-class-evaluation) و[الجزء ب §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، بما في ذلك صعودًا نحو **Class A** حيث يمكن أن يغلق الاعتماد المضلّل التنسيق الضروري للبقاء.
+ويجب أن يحكم التصديق على الأمرين من حيث الإنصاف والتناسب بموجب [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness) و[التناسب](../../core_05_band_accountability.md#proportionality)، آخذًا في الحسبان:
+
+- مدى أهمية البنية التحتية المشتركة (وفئة نظامها بموجب [§2 تقييم فئة النظام](#2-system-class-evaluation)، إن كانت محددة)؛
+- مدى انفراد الاعتماد بطرف واحد؛
+- مدى سهولة استبدال النظام ووجود بدائل؛
+- [البصمة البيئية](../../core_05_band_continuity.md#ecological-footprint) للنظام، متى كانت مهمة؛ و
+- [الاستدامة](../../core_05_band_continuity.md#sustainability) الطويلة الأمد.
+
+يجب أن يستند المراجعون إلى ما يحدث فعلًا وما هو موثق، لا إلى التسميات أو التحويلات المنفردة أو الادعاءات الغائبة عن الخرائط. ويقارنون الخرائط والسجلات كما هي وقت التقييم. ولا يشكل غياب صيغة تخصيص أو هدف عددي سببًا لتأجيل التقييم.
+
+ويجب أن يشمل التقييم ما يلي:
+
+- **كفاية العائد:** هل تغطي تدفقات العائد الموثقة، حيث يكون ذلك مهمًا، فئات الدعم الواردة في [الدعم المتناسب بين الأنظمة](../../core_05_band_continuity.md#proportionate-cross-system-support):
+  - استمرار العمليات؛
+  - القدرة على إصلاح المشكلات والتعافي؛
+  - إعادة الاستثمار في النظام الإيكولوجي المحيط؛ و
+  - تعويض الضرر البيئي أو إصلاحه.
+- **الإنصاف في التخصيص:** هل أخذت قرارات التمويل والتخصيص عوامل التخصيص المنصف في **المادة V-B** (*الإنصاف والاستدامة بين الأنظمة*) في الحسبان، بما في ذلك تحميل المشاركين الأصغر أو الأكثر اعتمادًا تكاليف غير متكافئة.
+- **نزاهة الدعم:** هل يؤدي الدعم أساسًا إلى ترسيخ الاستحواذ أو التركّز (تجمع السيطرة في أيدٍ قليلة)، أو هل صُمم لإحباط الشفافية التي تقتضيها **المادة V-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*).
+
+<a id="535-map-and-record-integrity"></a>
+##### 5.3.5 نزاهة الخريطة والسجل
+
+قبل الاستناد إلى خرائط الاعتماد وسجلات تدفق الموارد، يجب أن يتحقق التصديق من استيفائها **للمادة V-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*). ويجب أن تكون:
+
+- **كاملة:** تغطي الاعتمادات المهمة السابقة واللاحقة وتدفقات الموارد والعلاقات المخفية أو غير المتكافئة حيث تكون ذات صلة.
+- **محدّثة:** تُحدّث بوتيرة تتناسب مع سرعة التغيير وأهمية النظام، بما في ذلك فئته بموجب [§2 تقييم فئة النظام](#2-system-class-evaluation). وتُظهر النظام كما يعمل الآن، لا كما كان يعمل عند آخر تصديق.
+- **قابلة للتدقيق:** مفتوحة للتدقيق بموجب **المادة XVI-A** (*قابلية التدقيق والأدلة القابلة للملاحظة*).
+
+لا يمكن لخريطة أو سجل لا يستوفي أيًا من هذه الاختبارات أن يسند استنتاجًا بأن النظام يعيد ما يكفي. ويجب توثيق الفجوة ومعالجتها بموجب *العيوب والانحراف* أدناه.
+
+<a id="536-system-class-scaling-and-escalation"></a>
+##### 5.3.6 التناسب والتصعيد بحسب فئة النظام
+
+تحدد فئة النظام عمق المراجعة ومدى التدقيق في كفاية الدعم. ولا تجعل الاستخراج من الموارد المشتركة صغيرًا إلى حد لا يُحتسب. وكلما تحقق محفّز الأهمية المادية:
+
+- يجب على النظام الذي يعتمد على أساس مشترك تحتاج إليه الكائنات الواعية للبقاء — مثل حوض مائي مشترك أو العمود الفقري لشبكة كهرباء إقليمية — أن يقدم إلى السجل أقوى أدلة خرائط الاعتماد وتدفقات العائد.
+- يجب على النظام المعتمد على مصادقة مشتركة أو تقنية المعلومات الصحية أو بنية تحتية مماثلة أن يوثّق ما يأخذه وما إذا كان دعمه كافيًا، بعمق يتناسب مع أهمية عملياته. ولا تُحتسب الشعارات المبهمة عن «قابلية التشغيل البيني».
+- يجب ألا يتفادى النظام المراجعة بين الأنظمة بينما يتحول بهدوء إلى عنق زجاجة للمدفوعات أو الهوية أو التوظيف لدى مؤسسات لا تستطيع الانتقال منه بواقعية. وعند حدوث ذلك، يجب على التصديق تعميق المراجعة وإعادة النظر في فئة النظام بموجب [§2 تقييم فئة النظام](#2-system-class-evaluation) و[الجزء B §7 نتائج التصديق](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، وصولًا إلى **الفئة A** عندما يتحكم النظام في الوصول إلى تنسيق ضروري للبقاء.
+
+<a id="537-defects-and-misalignment"></a>
+##### 5.3.7 العيوب والانحراف
+
+يُعد كل مما يلي عيبًا في التصديق:
+
+- إخفاء معلومات مهمة عن الاعتماد أو تدفق الموارد تقتضي **المادة V-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*) الإفصاح عنها، أو تحريفها أو تجزئتها أو تحويلها إلى جهة أخرى؛
+- اعتبار أي مما يلي كافيًا لاستيفاء [الدعم المتناسب بين الأنظمة](../../core_05_band_continuity.md#proportionate-cross-system-support):
+  - تحويلات رمزية أو معتمة أو خارج الخرائط أو منفردة؛
+  - استيفاء النظام أرضية البقاء في **المادة III-A** (*البقاء*)؛ أو
+  - بقاء النظام ضمن حدود تركّز السوق في [الفصل الأول §11 هيكل السوق](core_01_a_values_principles.md#11-market-structure)؛
+- الاستخراج المتكرر من الأسس المشتركة دون عائد متناسب، حيث ينطبق محفّز الأهمية المادية؛
+- دعم يرسخ أساسًا الاستحواذ أو التركّز؛
+- دعم مشروط بما يحبط الشفافية التي تقتضيها **المادة V-A** (*رسم خرائط الاعتماد وشفافية تدفقات الموارد*)؛ و
+- التصديق على استمرار الاعتماد مع وجود فجوات موثقة في الدعم تهدد اتساق النظام مع الدستور تهديدًا ماديًا.
+
+<br>
+
+<a id="54-nondiscrimination-evaluation"></a>
+
+#### 5.4 تقييم عدم التمييز
+
+<details>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
+
+- المنابع: [الجزء B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم فئة النظام*)؛ أسرة قياس المشاركة (*الإنصاف الموضوعي واستخدام الخصائص المحمية كمؤشرات بديلة والأثر المتباين بوصفها قياسًا دستوريًا*)؛ **المادة VI-C** (*عدم التمييز*)؛ [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness)، [الخصائص المحمية](../../core_05_band_participation.md#protected-characteristics)، [استخدام الخصائص المحمية كمؤشرات بديلة والأثر المتباين](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)، [اللغة والثقافة والتراث](../../core_05_band_continuity.md#language-culture-and-heritage)، [الضرورة](../../core_05_band_accountability.md#necessity) و[التناسب](../../core_05_band_accountability.md#proportionality) (الفصل الخامس).
+- المصبّ: [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*جولات توضيحية لعدم التمييز*)؛ [الجزء B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات المتحقق منها*)؛ [الجزء B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*الانحراف بسبب أنماط التمييز والتحايل بالمؤشرات البديلة*).
+- يُقرأ مع: واجب الفصل في **المادة VI-C** (*عدم التمييز*) وتشغيلها حيث يحجب التصديق الوصول إلى المنتدى أو الإدارة أو الإنفاذ؛ [حالة عدم التمييز والخصائص المحمية والكرامة وحجب الإشارات الحميمة و**المادة VII-E** (*الخدمات الجنسية التجارية الرضائية بين البالغين والاستغلال الجنسي*)](../../core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
+- الأقسام الفرعية: [§5.4.1](#541-materiality-trigger-and-governing-rules) (*محفّز الأهمية المادية والقواعد الحاكمة*)؛ [§5.4.2](#542-evaluation-requirement) (*متطلب التقييم*)؛ [§5.4.3](#543-system-class-scaling-and-escalation) (*التناسب والتصعيد بحسب فئة النظام*)؛ [§5.4.4](#544-defects-and-misalignment) (*العيوب والانحراف*)؛ [§5.4.5](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*تطبيق توضيحي لعدم التمييز بحسب فئة النظام*).
+
+</details>
+
+<br>
+
+*بعبارات بسيطة: عندما يقرر نظام ذو أثر مادي من يُقبل ومن يدفع أكثر ومن يُرتّب في مرتبة أدنى أو من يتحمل أعباء أسوأ، يجب أن يتحقق التصديق مما إذا كان هذا النمط يحمّل الخصائص المحمية أو مؤشراتها البديلة الضرر — لا مما إذا كان المشغّل يقول إن القواعد محايدة. قد ترد حصص الشمول وخوارزميات الإنصاف المحددة في أدوات أخرى أو إضافات لاحقة إلى المتن أو أدوات الاعتماد؛ ويتحقق التصديق من أن أنماط الأعباء والمنافع ومخاطر المؤشرات البديلة خضعت فعلًا للتقييم عند انطباق المحفّز. أمثلة تطبيقية: [§5.4.5 تطبيق توضيحي لعدم التمييز بحسب فئة النظام (غير حصري)](../../core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).*
+
+<a id="541-materiality-trigger-and-governing-rules"></a>
+##### 5.4.1 محفّز الأهمية المادية والقواعد الحاكمة
+
+ينطبق هذا القسم عندما يصنّف نظام ذو أثر مادي الكائنات الواعية أو يرتبهم أو يسعّر لهم أو يضع بوابات أمامهم أو يستبعدهم أو يخصص الأعباء والمنافع بينهم على نحو مادي — بما في ذلك من خلال قواعد الأهلية أو خصائص النموذج أو منطق الترتيب أو سياسة المنصة أو مسارات قرار مماثلة.
+
+يجب أن يقيّم تصديق اتساق النظام **عدم التمييز** بموجب **المادة VI-C** (*عدم التمييز*) و[الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness) و[استخدام الخصائص المحمية كمؤشرات بديلة والأثر المتباين](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)، عند انطباق محفّز الأهمية المادية.
+
+<a id="542-evaluation-requirement"></a>
+##### 5.4.2 متطلب التقييم
+
+يجب أن يحدد إجراء التصديق ما إذا كانت مسارات القرار التي يُعتمد عليها ماديًا في النظام تفرض أعباء أو استبعادات أو أضرارًا مادية على الكائنات الواعية استنادًا إلى [الخصائص المحمية](../../core_05_band_participation.md#protected-characteristics) أو مؤشراتها البديلة أو تجميعات اعتباطية تُستخدم بدائل وظيفية عنها، بما يشمل التخصصات اللغوية والثقافية والتراثية في [اللغة والثقافة والتراث](../../core_05_band_continuity.md#language-culture-and-heritage). ويجب أن يختبر التقييم أنماط الأعباء والمنافع بموجب [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness)، ومخاطر المؤشرات البديلة أو الأثر المتباين بموجب [استخدام الخصائص المحمية كمؤشرات بديلة والأثر المتباين](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)، بما يتناسب مع [الرهان المادي](core_00_preamble.md#material-stake). ولا تكون المعاملة التفاضلية مقبولة إلا إذا بررتها [الضرورة](../../core_05_band_accountability.md#necessity) و[التناسب](../../core_05_band_accountability.md#proportionality) والإنصاف الموضوعي الموثقة. ويجب أن يعكس التقييم الأثر الوظيفي، لا الحياد الاسمي أو النية المعلنة أو التسمية وحدها.
+
+<a id="543-system-class-scaling-and-escalation"></a>
+##### 5.4.3 التناسب والتصعيد بحسب فئة النظام
+
+تغيّر فئة النظام عمق التقييم، لا الإذن باعتبار الترتيب أو نقل الأعباء غير مادي. وكلما تحقق محفّز الأهمية المادية:
+
+- يجب على النظام الذي يمكن لقواعد إيقافه أو إخطاره أو ما يماثلها أن تمنع الوصول إلى مقومات البقاء الأساسية أن يقدم إلى السجل أقوى تحليل للأعباء والمنافع والمؤشرات البديلة، لا بيانًا عامًا عن أفضل الممارسات.
+- يجب على النظام الذي يؤثر منطق المطابقة أو التوجيه فيه في الرعاية الطارئة أو المنافع أو الوصول إلى الاعتماد أن يوثق نتائج الأثر المتباين والإنصاف الموضوعي بما يتناسب مع الحرجية التشغيلية.
+- يجب ألا يكتفي النظام بفقرة رمزية عن الإنصاف بينما يرتّب منطق المناوبات أو الموردين أو الحجوزات المشاركين أو يستبعدهم ماديًا. وعندما يصبح التنسيق ضروريًا للبقاء، يجب على التصديق تصعيد المراجعة وإعادة التصنيف بموجب [§2 تقييم فئة النظام](#2-system-class-evaluation) و[الجزء B §7 نتائج التصديق](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)، بما في ذلك الرفع نحو **الفئة A** حيث توضع بوابات على التوظيف أو توجيه الطوارئ.
+
+<a id="544-defects-and-misalignment"></a>
+##### 5.4.4 العيوب والانحراف
+
+يجب التعامل مع كل مما يلي بوصفه عيبًا في التصديق:
+
+- حجب منطق التصنيف أو الترتيب أو تخصيص الأعباء المادي أو تحريفه أو تجزئته أو إحالته إلى جهة أخرى، حين تقتضي **المادة VI-C** (*عدم التمييز*) مراجعته؛
+- اعتبار الحياد الظاهري أو مقاييس الملاءمة الإجمالية أو إقرار المشغّل الذاتي كافيًا دون تحليل قابل للتقييم للأعباء والمنافع؛
+- التصديق على استمرار الاعتماد مع وجود تمييز موثق عبر المؤشرات البديلة أو انعدام إنصاف موضوعي يهدد اتساق النظام مع الدستور تهديدًا ماديًا؛ و
+- استخدام ذرائع التجانس أو قابلية التشغيل البيني أو الكفاءة لإحباط حمايات اللغة أو الثقافة أو التراث دون استيفاء اختباري **الضرورة** و**التناسب** في **المادة VI-C** (*عدم التمييز*).
+
+<br>
+
+<a id="55-accessibility-evaluation"></a>
+
+#### 5.5 تقييم إمكانية الوصول
+
+<details>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
+
+- المنابع: [الجزء B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم فئة النظام*)؛ أسرة قياس المشاركة (*إمكانية الوصول بوصفها قياسًا دستوريًا*)؛ **المادة VI-D** (*إمكانية الوصول*)؛ [إمكانية الوصول](../../core_05_band_participation.md#accessibility)، [الأهمية المادية](../../core_05_band_oversight.md#materiality)، [الاعتماد](../../core_05_band_continuity.md#dependency)، [الاستقلالية الفعلية](../../core_05_band_participation.md#meaningful-agency)، [الخصائص المحمية](../../core_05_band_participation.md#protected-characteristics)، [استخدام الخصائص المحمية كمؤشرات بديلة والأثر المتباين](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)، [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness)، [الضرورة](../../core_05_band_accountability.md#necessity) و[التناسب](../../core_05_band_accountability.md#proportionality) (الفصل الخامس).
+- المصبّ: [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*جولات توضيحية لإمكانية الوصول*)؛ [الجزء B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات المتحقق منها*)؛ [الجزء B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*الانحراف في إمكانية الوصول والتيسيرات الورقية وحدها*).
+- يُقرأ مع: **المادة IV-A** (*تكافؤ الوصول إلى التعليم*) حيث تكون إمكانية الوصول التعليمية موضع اعتبار — وتظل إمكانية الوصول الخاصة بالتعليم من اختصاصها؛ **المادة VI-C** (*عدم التمييز*) (الفصل والتشغيل) و**المادة XII** (*مشاركة الأطراف المتأثرة بالنظام وتمثيلها والإجراءات الواجبة*) حيث يحجب التصديق المشاركة في المنتدى أو الإدارة أو مشاركة الأطراف المتأثرة أو الإنفاذ؛ [الفصل الثامن §5.5](#55-accessibility-evaluation) (*الإحالة إلى عامل تقييم إمكانية الوصول المشترك بين المجالات*).
+- الأقسام الفرعية: [§5.5.1](#551-materiality-trigger-and-governing-rules) (*محفّز الأهمية المادية والقواعد الحاكمة*)؛ [§5.5.2](#552-evaluation-requirement) (*متطلب التقييم*)؛ [§5.5.3](#553-profiles-in-scope) (*الملفات المشمولة*)؛ [§5.5.4](#554-system-class-scaling-and-escalation) (*التناسب والتصعيد بحسب فئة النظام*)؛ [§5.5.5](#555-defects-and-misalignment) (*العيوب والانحراف*)؛ [§5.5.6](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*تطبيق توضيحي لإمكانية الوصول بحسب فئة النظام*).
+
+</details>
+
+<br>
+
+*بعبارات بسيطة: عندما يتحكم نظام ذو أثر مادي في إمكانية مشاركة الكائنات الواعية فعلًا — لا في مجرد وصف باب بأنه «مفتوح» — يجب أن يتحقق التصديق من أن المشاركة متاحة بالفعل لمختلف الاحتياجات الحسية والمعرفية واحتياجات التنقل والتواصل وواجهة الركيزة وما يماثلها. قد ترد قوائم التيسيرات ومعايير الواجهات في أدوات أخرى أو إضافات لاحقة إلى المتن أو أدوات الاعتماد؛ ويتحقق التصديق من أن المشاركة الجوهرية قد خضعت فعلًا للتقييم عند انطباق المحفّز. أمثلة تطبيقية: [§5.5.6 تطبيق توضيحي لإمكانية الوصول بحسب فئة النظام (غير حصري)](../../core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).*
+
+<a id="551-materiality-trigger-and-governing-rules"></a>
+##### 5.5.1 محفّز الأهمية المادية والقواعد الحاكمة
+
+ينطبق هذا القسم عندما يتحكم نظام ذو أثر كبير في حياة الكائنات الواعية في إمكانية مشاركتهم الفعلية في مجال تحميه أحكام الدستور، مثل:
+
+- الحوكمة ومشاركة الأطراف المتأثرة والفصل والتشغيل؛
+- مقومات البقاء الأساسية والرعاية الصحية؛
+- التعبير والتجمع والصحافة؛ أو
+- مجالات مماثلة.
+
+وقد تنشأ هذه السيطرة من خلال:
+
+- الواجهات أو الأماكن أو الجدولة؛
+- الاعتمادات أو الوصول إلى الحوسبة؛
+- كيفية تصميم التيسيرات؛ أو
+- مسارات مماثلة.
+
+تظل إمكانية الوصول في التعليم خاضعة **للمادة IV-A** (*تكافؤ الوصول إلى التعليم*)، ولا يضيّق هذا القسم نطاقها.
+
+عند انطباق ذلك، يجب أن يقيّم التصديق **إمكانية الوصول** بموجب **المادة VI-D** (*إمكانية الوصول*) و[إمكانية الوصول](../../core_05_band_participation.md#accessibility). ولا يحدد هذا القسم:
+
+- قوائم التيسيرات؛
+- معايير الواجهات؛
+- مواصفات التصميم الشامل؛ أو
+- إجراءات التيسير اليومية.
+
+فهذه ترد في وثائق أخرى يمكن دمجها.
+
+<a id="552-evaluation-requirement"></a>
+##### 5.5.2 متطلب التقييم
+
+يجب أن يتحقق التصديق مما إذا كان بإمكان الكائنات الواعية المشاركة فعلًا في المجالات التي يتحكم فيها النظام، لا من مجرد وجود خصائص رسمية أو واجهات افتراضية أو تيسيرات على الورق. ويجب أن يختبر الأثر الفعلي على المشاركة بموجب [إمكانية الوصول](../../core_05_band_participation.md#accessibility)، بما يتناسب مع [الأهمية المادية](../../core_05_band_oversight.md#materiality) و[الاعتماد](../../core_05_band_continuity.md#dependency).
+
+ويجب على المراجعين الانتباه إلى:
+
+- التيسيرات الموجودة على الورق فقط؛
+- ادعاءات «الوصول العام» التي تعتمد على خصائص افتراضية دون أن تمنح أي أحد قدرة حقيقية على المشاركة؛
+- ذرائع أن الأثر المادي للنظام جزئي فحسب، تُستخدم لتقليص التيسيرات الواجبة؛
+- الاستبعاد المخالف لـ[عدم استبعاد الكائنات الواعية](../../core_05_band_participation.md#sentience-non-exclusion)؛ و
+- تصميم يستبعد الكائنات الواعية على نحو غير مباشر عبر الجدولة أو اختيار المكان أو الاعتماد أو الوصول إلى الحوسبة أو آليات مماثلة (الحرمان عبر مؤشر بديل).
+
+ويجب أن يطبق التصديق أيضًا [الخصائص المحمية](../../core_05_band_participation.md#protected-characteristics) و[استخدام الخصائص المحمية كمؤشرات بديلة والأثر المتباين](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) على تصميم التيسيرات. ويجب توثيق أي حدّ للتيسير واستيفاؤه [الضرورة](../../core_05_band_accountability.md#necessity) و[التناسب](../../core_05_band_accountability.md#proportionality) و[الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness).
+
+<a id="553-profiles-in-scope"></a>
+##### 5.5.3 الملفات المشمولة
+
+يجب أن يختبر التقييم المشاركة الفعلية لكل شكل من أشكال الكائنات الواعية ولكل ملف من ملفات القدرات، لا الامتثال الورقي:
+
+- يجب أن يتناول كل فئة ذات صلة من الملفات: الحسية والمعرفية والتنقلية والتواصلية و**واجهة الركيزة** و**واجهة الحوسبة**.
+- ينطبق المتطلب نفسه سواء كان الملف **ثابتًا** أو **عرضيًا** أو **نمائيًا**.
+- لا يستوفي هذا القسم نمط **الوصول العام** الذي يدّعي توافرًا إجماليًا واسعًا مع إحباط المشاركة لملف متأثر بعينه، ولا **التدرّج الانتقائي للأهمية المادية** الذي يؤدي أثره إلى إحباط أرضية المشاركة.
+
+<a id="554-system-class-scaling-and-escalation"></a>
+##### 5.5.4 التناسب والتصعيد بحسب فئة النظام
+
+تغيّر فئة النظام عمق التقييم، ولا تسمح أبدًا باعتبار التيسيرات الورقية أو الواجهات الافتراضية كافية. وكلما تحقق محفّز الأهمية المادية:
+
+- إذا كان من الممكن أن تقطع مسارات الفوترة أو الانقطاع في النظام وصول الكائنات الواعية إلى مقومات البقاء الأساسية، فيجب أن يبيّن السجل أقوى الأدلة على قدرتهم الفعلية على المشاركة. ولا يكفي بيان عام عن إمكانية الوصول.
+- إذا كانت بوابات النظام تتحكم في الوصول إلى الرعاية الصحية، فيجب أن يوثّق نتائج التيسيرات والحرمان عبر المؤشرات البديلة. وكلما زادت حرجية العمليات، زادت التفاصيل المطلوبة.
+- لا يجوز للنظام الاكتفاء بفقرة رمزية عن إمكانية الوصول بينما تستبعد واجهاته الخاصة بالمناوبات أو الحجز أو الموردين المشاركين استبعادًا ماديًا. وعندما يصبح تنسيق النظام ضروريًا للبقاء، يجب على التصديق تعميق المراجعة وإعادة النظر في فئة النظام بموجب [§2 تقييم فئة النظام](#2-system-class-evaluation) و[الجزء B §7 نتائج التصديق](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion). ويشمل ذلك رفعه نحو **الفئة A** حيث توضع بوابات على التوظيف أو توجيه الطوارئ.
+
+<a id="555-defects-and-misalignment"></a>
+##### 5.5.5 العيوب والانحراف
+
+يجب التعامل مع كل مما يلي بوصفه عيبًا في التصديق:
+
+- اعتبار الإمكانات الرسمية أو الواجهات الافتراضية أو التيسيرات الورقية كافية دون تحليل قابل للتقييم للمشاركة الجوهرية؛
+- التصديق على استمرار الاعتماد مع وجود عوائق مشاركة موثقة تهدد اتساق النظام مع الدستور تهديدًا ماديًا؛
+- استخدام التكلفة أو خيار التصميم أو فئة الركيزة أو حجم التشغيل ذريعة لإحباط أرضية المشاركة دون استيفاء اختباري **الضرورة** و**التناسب** في **المادة VI-D** (*إمكانية الوصول*)؛ و
+- تصميم تشغيلي يؤدي أثره إلى إحباط إمكانية الوصول مع وجود خيار أقل عبئًا قابل للتطبيق.
+
+<br>
+
+<a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
+
+#### 5.6 تقييم الجدارة بالثقة ونزاهة الاعتماد على النظام
+
+<details>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
+
+- المنابع: [الجزء B §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*محتويات السجل*)؛ [§2](#2-system-class-evaluation) (*تقييم فئة النظام*)؛ أسرة قياس الرقابة (*الحقيقة والنزاهة المعرفية؛ الجدارة بالثقة وتدهور الثقة والاعتماد المضلّل بوصفها قياسًا دستوريًا*)؛ **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*)؛ [الجدارة بالثقة](../../core_05_band_continuity.md#trustworthiness)، [الثقة](../../core_05_band_continuity.md#trust)، [تدهور الثقة والاعتماد المضلّل](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance)، [قابلية الطعن](../../core_05_band_accountability.md#contestability)، [الانتصاف والمعالجة](../../core_05_band_accountability.md#redress-and-remediation)، [مواءمة الحوافز](../../core_05_band_integrative.md#incentive-alignment)، [قابلية التراجع](../../core_05_band_continuity.md#reversibility)، [الأهمية المادية](../../core_05_band_oversight.md#materiality)، [الاعتماد](../../core_05_band_continuity.md#dependency) و[المخاطر](../../core_05_band_continuity.md#risk) (الفصل الخامس).
+- المصبّ: [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*جولات توضيحية للجدارة بالثقة*)؛ [الجزء B §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*نزاهة السجل*)؛ [الجزء B §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*بوابة المدخلات المتحقق منها*)؛ [الجزء B §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*الانحراف بسبب الثقة الزائفة والحوافز المنحرفة ونزاهة التعافي*).
+- يُقرأ مع: **المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*) و**المادة XIII-B** (*الحق في الانتصاف والعلاج*) و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) — تظل حقوق الطعن والتدقيق من اختصاصها؛ **المادة XIII-E** (*الأنظمة عالية الاستقلالية ونزاهة العمليات المتوسّطة بالأدوات*) حيث تتوسط الأنظمة عالية الاستقلالية ماديًا مسارات الحوكمة أو التحقق؛ **المادة III-A** (*البقاء*) حيث يؤثر استمرار الاعتماد على النظام في الوصول إلى ما هو ضروري للبقاء؛ [الفصل الأول §6 الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) و[الفصل الأول §5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+- الأقسام الفرعية: [§5.6.1](#561-materiality-trigger-and-governing-rules) (*محفّز الأهمية المادية والقواعد الحاكمة*)؛ [§5.6.2](#562-evaluation-requirement) (*متطلب التقييم*)؛ [§5.6.3](#563-system-class-scaling-and-escalation) (*التناسب والتصعيد بحسب فئة النظام*)؛ [§5.6.4](#564-defects-and-misalignment) (*العيوب والانحراف*)؛ [§5.6.5](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) (*تطبيق توضيحي للجدارة بالثقة بحسب فئة النظام*).
+
+</details>
+
+<br>
+
+*بعبارات بسيطة: عندما يؤثر نظام ماديًا في قدرة الكائنات الواعية على الثقة بما يقوله ويفعله — وعلى الاعتراض عندما تخفق تلك الثقة — يجب أن يتحقق التصديق مما إذا كان الاعتماد مبررًا فعلًا ومفصحًا عنه بصدق وقابلًا للمعالجة. ترد مقاييس الموثوقية وتصاميم مجموعات الاختبار في أدوات أخرى؛ ويتحقق التصديق من أن الجدارة بالثقة ومخاطر الثقة الزائفة ومسارات الطعن خضعت للتقييم فعلًا عند انطباق المحفّز. أمثلة تطبيقية: [§5.6.5 تطبيق توضيحي للجدارة بالثقة بحسب فئة النظام (غير حصري)](../../core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).*
+
+<a id="561-materiality-trigger-and-governing-rules"></a>
+##### 5.6.1 محفّز الأهمية المادية والقواعد الحاكمة
+
+ينطبق هذا القسم عندما يشكّل نظام مهم ما تعتمد عليه الناس منه: ما الذي يفعله، وأين تقع حدوده، وما الذي قد يسوء، وكيف يمكن الطعن فيه، وكيف تُعالج المشكلات. وقد يحدث ذلك من خلال:
+
+- ادعاءات عن مدى موثوقيته؛
+- ما يفصح عنه وما لا يفصح عنه؛
+- طريقة تشغيله الفعلية؛
+- الحوافز المضمنة فيه؛
+- كيفية تعافيه من الإخفاقات؛ أو
+- أي طريقة مماثلة تدفع الناس إلى الاعتماد عليه.
+
+عند انطباق محفّز الأهمية المادية، يجب أن يقيّم تصديق اتساق النظام **الجدارة بالثقة ونزاهة الاعتماد على النظام** بموجب:
+
+- **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*)؛
+- [الجدارة بالثقة](../../core_05_band_continuity.md#trustworthiness)؛ و
+- [تدهور الثقة والاعتماد المضلّل](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
+
+<a id="562-evaluation-requirement"></a>
+##### 5.6.2 متطلب التقييم
+
+يجب أن يتحقق إجراء التصديق مما إذا كانت لدى الناس أسباب وجيهة [للثقة](../../core_05_band_continuity.md#trust) بالنظام والاعتماد عليه على نحو دقيق، بموجب **المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*).
+
+ويجب أن يختبر التقييم أيضًا ما إذا:
+
+- كان بوسع الناس الطعن في النظام عمليًا والحصول على مراجعة للقرارات وإصلاح، لا على الورق فحسب (**المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*) و**المادة XIII-B** (*الحق في الانتصاف والعلاج*))؛
+- كان من الممكن تضليل الناس كي يثقوا به أو يعتمدوا عليه على نحو خاطئ، بما في ذلك عبر الثقة المصطنعة أو الحدود غير المفصح عنها (**المادة XIII-C** (*حظر الثقة الزائفة والاعتماد المضلّل*))؛
+- كانت حوافزه تكافئ الخداع أو اختصار الخطوات (**المادة XIII-D** (*قيد مواءمة الحوافز*))؛ و
+- كان قادرًا، حيث يكون ذلك مهمًا، على التعافي من الإخفاقات بصدق، دون إخفائها أو تقليص حقوق أي أحد خفيةً (**المادة XIII-F** (*خط أساس المرونة والشفاء الذاتي*)).
+
+يتناسب الاختبار مع [الأهمية المادية](../../core_05_band_oversight.md#materiality) و[الاعتماد](../../core_05_band_continuity.md#dependency) و[المخاطر](../../core_05_band_continuity.md#risk).
+
+يجب أن يعكس التقييم الأثر الوظيفي عبر الزمن والنطاق والاعتماد، لا أن يستند إلى:
+
+- السمعة أو الحجم أو التسويق؛
+- تسميات الضمان الاسمية؛
+- فقرة رمزية عن الجدارة بالثقة، في حين تحدد شارات الموثوقية أو درجات الموردين فعليًا من يُعيّن للعمل أو ما يُشترى؛
+- النية المعلنة؛ أو
+- الأداء السابق وحده.
+
+<a id="563-system-class-scaling-and-escalation"></a>
+##### 5.6.3 التناسب والتصعيد بحسب فئة النظام
+
+يتوقف عمق المراجعة على فئة النظام. وكلما تحقق محفّز الأهمية المادية:
+
+- إذا كان من الممكن أن تضلل قراءات النظام أو تنبيهاته أو ادعاءاته بشأن التعافي الأسر أو المشغّلين بشأن مقومات البقاء الأساسية (أي الأشياء التي يحتاج إليها الناس للعيش)، فيجب أن يبيّن السجل أدلة قوية، لا مجرد ادعاء بأن النظام موثوق. ويجب أن تثبت الأدلة أن:
+  - الناس يستطيعون الثقة بالنظام؛
+  - الناس لن يتلقوا طمأنة زائفة؛ و
+  - النظام يتعافى من الإخفاقات بصدق.
+- إذا كانت ادعاءات النظام بشأن وقت التشغيل أو المطابقة أو التجاوزات الطارئة (إمكانية «كسر الزجاج») تتحكم في قدرة الناس على الحصول على الرعاية السريرية أو خدمات الطوارئ، فيجب أن يبيّن السجل، بتفصيل يتناسب مع حرجية النظام:
+  - كيفية طعن الناس في تلك الادعاءات؛ و
+  - ما إذا كان من الممكن تضليلهم كي يعتمدوا عليها.
+- عندما يصبح التنسيق ضروريًا للبقاء، يجب على التصديق تصعيد المراجعة وإعادة النظر في فئة النظام بموجب [§2 تقييم فئة النظام](#2-system-class-evaluation) و[الجزء B §7 نتائج التصديق](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion). وقد يعني ذلك رفع النظام نحو **الفئة A** عندما يمكن للاعتماد المضلّل قطع التنسيق الذي يحتاج إليه الناس للبقاء.
+
+<a id="564-defects-and-misalignment"></a>
+##### 5.6.4 العيوب والانحراف
+
+يجب التعامل مع كل مما يلي بوصفه عيبًا في التصديق:
+
+- حجب حدود أو مخاطر أو سجل إخفاقات مادية، أو تحريفها أو تجزئتها أو إحالتها إلى جهة أخرى، حيث تقتضي **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) مراجعتها؛
+- اعتبار السمعة أو التأييد أو الحجم أو إقرار المشغّل الذاتي كافيًا دون تحليل قابل للتقييم لـ[الجدارة بالثقة](../../core_05_band_continuity.md#trustworthiness)؛
+- التصديق على استمرار الاعتماد مع وجود ثقة زائفة موثقة أو حوافز منحرفة أو مسارات طعن يتعذر الوصول إليها أو ممارسات تعافٍ تخفي الإخفاق، بما يهدد اتساق النظام مع الدستور تهديدًا ماديًا؛ و
+- استخدام ذرائع الكفاءة أو الابتكار أو الأمن لإحباط الإفصاح أو قابلية الطعن أو الانتصاف دون استيفاء انضباط الموثوقية في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) وانضباط الطعن في **المادة XIII-A** (*خط أساس الموثوقية والجدارة بالثقة*).
+
 <br>
 
 *تابع إلى السجل وإجراء المنتدى وجسر الوضعية:* [الفصل السابع، الجزء ب — السجل والإجراء](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) ([§11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) حتى [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)).

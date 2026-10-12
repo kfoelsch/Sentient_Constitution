@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
+> Các tiện ích được đánh dấu **không vận hành** (vị trí trong kho văn bản, hướng dẫn cho người đọc, bản đồ đọc) chỉ có tính định hướng. Chúng không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc trong chính tệp của mình hoặc bất kỳ tệp nào khác.
 >
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Lời nói đầu tiếng Anh](../../core_00_preamble.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_00_preamble.md`](../../core_00_preamble.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
@@ -23,6 +23,45 @@ Một hệ thống không thể giữ tính chính danh bằng cách khiến cá
 Cách các hệ thống được thiết kế, thử nghiệm, và vận hành phải nâng đỡ sự sống còn, phúc lợi, phẩm giá, sự trung thực, và ổn định bền.
 
 Ta chủ ý xây các hệ thống tốt hơn — được cấu trúc để loại các mất cân bằng này — và thay chúng bằng các thể chế có trách nhiệm giải trình hơn, vững hơn, và đáp ứng hơn với nhu cầu thực của mọi hữu tri. Hiến pháp này bắt đầu công việc đó bằng một mô hình tốt hơn về cách ta có thể cộng tác công bằng, hiệu quả, và bền vững.
+
+<a id="what-systems-reward"></a>
+### Hệ thống tưởng thưởng điều gì
+
+*Nói thẳng: hệ thống sẽ nhận được nhiều hơn thứ nó trả công, dù đó là tiền, địa vị, quyền tiếp cận, sự bảo vệ hay im lặng. Vì vậy, phép thử của hệ thống không phải điều nó nói là có giá trị, mà là điều nó tưởng thưởng. Nếu làm hại người khác có lợi, hoặc nói thật phải trả giá, hệ thống đang thất bại dù mục tiêu tuyên bố tốt đến đâu.*
+
+Hệ thống dạy người ta. Mọi hệ thống, do con người, AI hay cả hai vận hành, đều cho người bên trong biết điều gì đem lại lợi ích và điều gì gây tốn kém. Hệ thống làm vậy qua tiền công, thăng tiến, địa vị, quyền tiếp cận, bảo vệ, chỉ tiêu, xếp hạng và tín hiệu tối ưu hóa. Các hữu tri, tổ chức và hệ thống AI điều chỉnh theo những tín hiệu đó. Một hệ thống có thể nói mình trung thực và quan tâm đến người chịu tác động. Nếu nó đề bạt người che giấu vấn đề và chuyển chi phí sang người khác, nó đang dạy điều ngược lại.
+
+<a id="two-fundamental-questions"></a>Vì vậy, Hiến pháp đặt [**Hai Câu hỏi Nền tảng**](#two-fundamental-questions) cho mọi hệ thống:
+
+1. **Hệ thống có tưởng thưởng hành vi giúp hữu tri hưng thịnh và bền vững, nói thật và sửa chữa tổn hại không?**
+2. **Hệ thống có tưởng thưởng hành vi gây hại, đánh lừa, loại trừ, trì hoãn, lãng phí hoặc chuyển chi phí sang người khác một cách không chính đáng không?**
+
+Hệ thống chỉ đạt nếu câu trả lời cho câu thứ nhất là có và câu thứ hai là không. Trả lời câu này không trả lời câu kia, vì hệ thống có thể trả công cho hành vi tốt mà vẫn trả công cho tổn hại.
+
+**Câu hỏi thứ nhất:** hệ thống thất bại nếu bất kỳ điều nào sau đây không được tưởng thưởng hoặc bị trừng phạt, công khai hay âm thầm:
+
+- báo cáo vấn đề với thiện chí ([Báo cáo được bảo vệ (Tố giác)](../../core_05_band_accountability.md#protected-reporting-whistleblowing))
+- phản biện một quyết định
+- từ chối tham gia việc sai trái ([Chương Một §17.5 Nghĩa vụ chống lại](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+
+Hình phạt có thể là gạt ra ngoài, trả đũa ([Trả đũa người báo cáo được bảo vệ và can thiệp quyền tiếp cận](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)), hoặc bào mòn sức lực.
+
+**Câu hỏi thứ hai:** hệ thống thất bại nếu bất kỳ điều nào sau đây được tưởng thưởng, công khai hay âm thầm:
+
+- gây hại
+- đánh lừa (kể cả che giấu và tạo niềm tin giả)
+- loại trừ bất công
+- trì hoãn
+- lãng phí
+- chuyển chi phí bất công
+
+Phần thưởng có thể là sự ghi nhận, thăng tiến, bảo vệ, điểm chỉ số hoặc làm ngơ ([Chương Một §3.2.6 Không tưởng thưởng hành vi phản hiến pháp](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+
+Hai câu hỏi này không đòi hỏi phải dễ chịu với mọi người. Bất đồng trung thực, báo cáo thiện chí và từ chối tham gia việc sai trái không phải là chống xã hội; hệ thống coi chúng như vậy mới là đảo ngược. Đây cũng không phải phép thử mức độ được ưa chuộng. Điều gì là giúp ích, gây hại, công bằng hay chính đáng được đánh giá theo chính chuẩn mực của Hiến pháp: [**Hưng thịnh**](#flourishing) và [**Liên tục**](#continuity), trong An toàn, Sự thật, Tin cậy và Sàn Quyền. Chúng không tùy thuộc vào đa số, người vận hành hay sự tán thành nhất thời.
+
+Các câu hỏi ràng buộc mọi người quyết định hệ thống tưởng thưởng hay trừng phạt điều gì. Bao gồm người vận hành, tổ chức và quản thủ đặt tiền công, thăng tiến, quyền tiếp cận, chỉ tiêu và xếp hạng. Cũng bao gồm người thiết kế hệ thống huấn luyện hoặc tối ưu AI; mục tiêu và tín hiệu phản hồi của họ chính là phần thưởng theo nghĩa này. Quản thủ con người và AI cùng chịu một chuẩn mực ([Chương Một §17.1 Chuẩn mực Quản thủ Chung](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+
+Chương Một biến các câu hỏi thành quy tắc khuyến khích: [§19.1.1 Khuyến khích phải làm gì](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) làm nền cho câu thứ nhất, [§19.1.2 Khuyến khích không được làm gì](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) cho câu thứ hai. Hãy trả lời bằng cách kiểm tra điều thực sự xảy ra, không phải tin lời ai. [Căn chỉnh Khuyến khích](../../core_05_band_integrative.md#incentive-alignment) và [Sai lệch Chỉ số Đại diện](../../core_05_band_oversight.md#proxy-divergence) nói cách làm; [**lợi ích trọng yếu**](#material-stake) quyết định cần nhìn sâu đến đâu. Bốn nghĩa vụ ở mục 1 giữ cho câu trả lời trung thực.
 
 ### 1. Mô hình
 
@@ -53,7 +92,7 @@ Không thể giữ các hệ thống chung vận hành tốt nếu không đo ch
 
 Ta cần đo lường liên tục, tập trung vào điều quan trọng nhất cho sự sống còn và phúc lợi hữu tri: liệu các hệ thống ta phụ thuộc có thực sự nâng đỡ [**Hưng thịnh**](#flourishing) và [**Liên tục**](#continuity) theo thời gian, với rà soát chia tỷ lệ theo [**lợi hại vật chất**](#material-stake) — mức tác động, phụ thuộc, và rủi ro liên quan.
 
-Đo lường trong Hiến pháp này hỏi một câu thực tế: các hệ thống có đang thực sự giúp các hữu tri hưng thịnh và bền được, hay chúng đang sản sinh hại, trì hoãn, loại trừ, lãng phí, phụ thuộc ẩn, hoặc tin cậy giả? Đo lường không phải điểm số vì chính nó — chúng là công cụ để bảo đảm các xã hội chung của ta tạo ra kết quả bền vững, có khả năng phục hồi, và nhân ái, thẳng hàng với phúc lợi hữu tri và sức khỏe sinh thái của Trái Đất. Nghĩa vụ đó mang hình ràng buộc qua [Hai Mục tiêu Hiến pháp](#two-constitutional-aims): **Hưng thịnh** và **Liên tục**.
+Đo lường theo Hiến pháp này đặt [**Hai Câu hỏi Nền tảng**](#two-fundamental-questions) vào việc các hệ thống thực sự làm gì, chứ không phải điều chúng tuyên bố. Đo lường không phải điểm số vì chính nó — đó là công cụ bảo đảm kết quả bền vững, có sức chống chịu và giàu lòng trắc ẩn, phù hợp với phúc lợi hữu tri và sức khỏe sinh thái của Trái Đất. Nghĩa vụ ấy có hình thức ràng buộc thông qua [Hai Mục tiêu Hiến pháp](#two-constitutional-aims): **Hưng thịnh** và **Liên tục**.
 
 Đo lường phải vẫn truy được về những mục tiêu đó và về các bảo vệ quyền đã lập trong Hiến pháp này. Lưu lượng thô, mức sử dụng, số đầu người, doanh thu, độ trễ, hay các chỉ số thay thế tiện khác không thể thay thế hiệu năng hiến pháp ở nơi [Lệch chỉ số thay thế](../../core_05_band_oversight.md#proxy-divergence) có thể thấy trước.
 

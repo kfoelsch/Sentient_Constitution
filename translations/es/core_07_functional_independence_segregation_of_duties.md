@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativa): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni reduce obligaciones vinculantes en otras partes de este archivo ni en otros capítulos.
->
 > Este archivo **forma parte de la Constitución Senciente** y solo es vinculante **junto con** los demás archivos numerados `core_*`, leídos como un instrumento único. Contiene el **Capítulo Siete**: el piso transversal a los procesos para la independencia funcional y la segregación de funciones. Sigue al Piso de Derechos del Capítulo Seis y precede a los capítulos de procesos constitucionales que comienzan con la [certificación de alineación del sistema del Capítulo Ocho](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
 >
 > - **Titular constitucional:** el piso de puestos diferenciados para actos materialmente vinculantes; el contenido mínimo universal de cada [Registro de Acto Materialmente Vinculante](../../core_05_band_accountability.md#materially-binding-act-record); la independencia respecto del actor y de su [Línea de Control Material](../../core_05_band_accountability.md#material-control-line); la publicación de la asignación de carriles y funciones; el enrutamiento de conflictos, vacantes, sustituciones y puestos incorrectos; el alojamiento conjunto proporcional; los traspasos atribuibles; y las condiciones mínimas de independencia que debe aplicar todo proceso constitucional posterior.
@@ -86,8 +84,6 @@ Este capítulo establece el piso transversal de segregación de funciones. No tr
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativa): mapa de cuatro puestos</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni reduce obligaciones vinculantes en otras partes de este capítulo ni en otros capítulos.
->
 > **Mapa para quien lee (no operativo).** Este diagrama muestra los cuatro puestos y un ciclo habitual de registro. No añade un quinto puesto de implementación, no exige que la revisión concluya antes de toda acción ni modifica las reglas operativas de esta sección y de los §§3–6.
 
 </details>

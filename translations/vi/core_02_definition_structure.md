@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Hai tiếng Anh](../../core_02_definition_structure.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_02_definition_structure.md`](../../core_02_definition_structure.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > **Trước (ngôn ngữ này):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): chồng định nghĩa và nơi Chương Hai sống</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Chương **Hai đến Năm** tạo chồng định nghĩa hiến pháp; **[CJS](../../corpus_joint_structure.md)** mang các định nghĩa vận hành áp dụng chồng đó:
 > - **Chương Hai (tệp này)** — cấu trúc định nghĩa O/M/A/C và thẳng hàng thành phần: mỗi định nghĩa liên kết **Bản thể (O)** (nó là gì), sổ **Đo lường (M)** đan với nghĩa vụ **Đánh giá (A)** (cách phải đo và đánh giá), và **Tuân thủ (C)** (điều phải giữ) ([§1 Mục đích và vai trò](core_02_definition_structure.md#1-purpose-and-role); [§2 Yêu cầu tính toàn vẹn định nghĩa](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **Chương Ba** — tính toàn vẹn định nghĩa, lẩn tránh, và không tuân thủ ([Chương Ba](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).

@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Nueve en inglés](../../core_10_standing_integration.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_09_standing_integration.md`](../../core_10_standing_integration.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > Contiene el **Capítulo Nueve**, la capa de integración y consecuencia de la cadena de trayectoria. El [Capítulo Ocho](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) titulariza de forma exclusiva los hechos verificados, los registros de trayectoria, la medición de trayectoria y cada casilla del Eje de Contribución y del Eje de Violación. Este capítulo acepta esos insumos como fijos y responde la Pregunta 3: qué se sigue. El [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) decide solo si una violación calificadora `s = 7`, `s = 8` o `s = 9` recibe la designación emparejada de inconducta anticonstitucional.
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): secuencia del capítulo</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes.
->
 > Lean este capítulo en orden: insumos inmutables del Capítulo Ocho; registro de integración y orden de decisión; integración de descriptores y normalización de adjuntos; violación, corrección y prevención (remedio y corrección, bloqueos de trayectoria generales, luego expresión pública voluntaria de rendición de cuentas donde se use); diseño y exigibilidad de bloqueos (definición y adjunto, proporcionalidad y calibración, visibilidad del registro y escalamiento, reglas especiales de violación y bloqueos especiales); consecuencias de contribución (recencia y actualidad, luego barras de competencia y habilitaciones); efecto de trayectoria final; restauración y reevaluación; realismo de exigibilidad y sistemas de remedio; aplicaciones de patrón y enrutamiento de la Pregunta 3.
 >
 > **Puerta de administración (no operativa):** Declaración vinculante del siguiente paso: [Declaración operativa de administración](#operative-steward-statement-remedy). Los punteros de apoyo en [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md) no pueden estrecharla.

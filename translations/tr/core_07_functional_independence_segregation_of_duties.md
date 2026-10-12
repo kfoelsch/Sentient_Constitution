@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus içindeki yeri (işlemsel değildir): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okura yönelik rehberliktir**. Bu dosyada veya diğer bölümlerde yer alan bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz.
->
 > Bu dosya **Algılayanlar Anayasası’nın bir parçasıdır** ve ancak tek bir belge olarak okunan diğer numaralı `core_*` dosyalarıyla **birlikte bağlayıcıdır**. Bu dosya, işlevsel bağımsızlık ve görevlerin ayrılığı için süreçler arası tabanı oluşturan **Yedinci Bölümü** içerir. Altıncı Bölüm’ün Hak Tabanı’nı izler ve anayasal süreç bölümlerinin başlangıcı olan [Sekizinci Bölüm sistem uyumu belgelendirmesi](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index) öncesinde yer alır.
 >
 > - **Anayasal sorumluluk alanı:** maddi açıdan bağlayıcı eylemler için ayrı koltuklara ilişkin taban; her [Maddi Açıdan Bağlayıcı Eylem Kaydı](../../core_05_band_accountability.md#materially-binding-act-record) için evrensel asgari içerik; eylemi gerçekleştiren aktörden ve aktörün [Maddi Kontrol Hattı](../../core_05_band_accountability.md#material-control-line)ndan bağımsızlık; yayımlanmış hat ve rol yerleşimi; çıkar çatışması, boşluk, yedekleme ve yanlış koltuğa yönlendirme; ölçülü ortak barındırma; atfedilebilir devirler; ayrıca daha sonraki her anayasal sürecin uygulaması gereken asgari bağımsızlık koşulları.
@@ -86,8 +84,6 @@ Bu bölüm, süreçler arası görev ayrılığı tabanını belirler. Aşağıd
 <details>
 <summary><strong><span style="color: #2563eb;">Okur rehberi (işlemsel değildir): dört koltuğun haritası</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okura yönelik rehberliktir**. Bu bölümde veya diğer bölümlerde yer alan bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz.
->
 > **Okur haritası (işlemsel değildir).** Bu diyagram dört koltuğu ve tipik bir kayıt yaşam döngüsünü gösterir. Beşinci bir uygulama koltuğu eklemez, her eylemden önce incelemenin tamamlanmasını şart koşmaz ve bu bölüm ile §§3–6’daki işlemsel kuralları değiştirmez.
 
 </details>

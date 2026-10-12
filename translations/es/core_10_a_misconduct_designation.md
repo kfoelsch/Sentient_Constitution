@@ -7,8 +7,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Diez, Parte A en inglés](../../core_11_a_misconduct_designation.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > Contiene el **Capítulo Diez, Parte A** — marco de decisión de designación, conjunto de criterios, adjunto de designación del Eje de Violación `s = 7–9`, salvaguardas de debido proceso, remedio, bloqueos de prevención y expresión pública voluntaria de rendición de cuentas. **Parte B** — aplicaciones de patrón nominadas y enrutamiento de criterios — está en [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
@@ -33,8 +31,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): mapa entre capítulos y orden de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Bajo la [finalidad de Continuidad](core_00_preamble.md#continuity), la revisión de designación protege la operación constitucional de horizonte largo cuando la conducta de máximo impacto amenaza con vaciar la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — **participación**, **supervisión**, **rendición de cuentas** y **actuación a tiempo** — por debajo de los requisitos de [enjuego material](core_00_preamble.md#material-stake).
 >
 > **Mapa entre capítulos**

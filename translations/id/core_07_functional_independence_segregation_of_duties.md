@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Penempatan korpus (nonoperasional): struktur berkas dan aturan membaca</span></strong></summary>
 
-> Konten berikut **hanya panduan pembaca**. Konten ini tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat di bagian lain berkas ini atau dalam bab lain.
->
 > Berkas ini **merupakan bagian dari Sentient Constitution** dan **hanya mengikat bersama** berkas `core_*` bernomor lainnya ketika dibaca sebagai satu instrumen. Berkas ini memuat **Bab Tujuh**: standar dasar lintas proses untuk kemandirian fungsional dan pemisahan tugas. Bab ini mengikuti Lantai Hak Bab Enam dan mendahului bab-bab proses konstitusional yang dimulai dengan [sertifikasi keselarasan sistem Bab Delapan](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
 >
 > - **Pemilik konstitusional:** standar dasar kursi yang berbeda untuk tindakan yang mengikat secara material; isi minimum universal setiap [Catatan Tindakan yang Mengikat secara Material](../../core_05_band_accountability.md#materially-binding-act-record); kemandirian dari pelaku dan [Garis Kendali Material](../../core_05_band_accountability.md#material-control-line) pelaku; penempatan jalur dan peran yang dipublikasikan; konflik, kekosongan jabatan, penggantian, dan pengalihan ke kursi yang keliru; penampungan gabungan yang proporsional; serah terima yang dapat diatribusikan; serta syarat kemandirian minimum yang wajib diterapkan oleh setiap proses konstitusional berikutnya.
@@ -86,8 +84,6 @@ Bab ini menetapkan standar dasar pemisahan tugas lintas proses. Bab ini tidak me
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (nonoperasional): peta empat kursi</span></strong></summary>
 
-> Konten berikut **hanya panduan pembaca**. Konten ini tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat di bagian lain bab ini atau bab lain.
->
 > **Peta pembaca (nonoperasional).** Diagram ini menunjukkan empat kursi dan siklus catatan yang umum. Diagram ini tidak menambahkan kursi implementasi kelima, tidak mewajibkan tinjauan selesai sebelum setiap tindakan, dan tidak mengubah aturan operatif dalam bagian ini dan §§3–6.
 
 </details>

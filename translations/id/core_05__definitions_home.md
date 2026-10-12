@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Lima, Bagian A bahasa Inggris](../../core_05__definitions_home.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_05__definitions_home.md`](../../core_05__definitions_home.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > **Sebelumnya (lokal ini):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): urutan baca dan catatan bahasa sederhana</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di bab ini atau di bab lain.
->
 > Catatan baca bahasa sederhana: baca **Bab Satu** untuk nilai dan arah tingkat tinggi; **Bab Dua sampai Empat** untuk struktur definisi, integritas, dan mekanika verifikasi; dan **Bab Enam** untuk lantai fondasional **hak**, lalu kembali ke bab ini untuk ketepatan istilah dalam tafsir, audit, dan adjudikasi. (Bab lain, termasuk **Bab Sepuluh** *Salah laku* dan **Bab Delapan** *Jejak*, berlaku pada jalur baca mereka sendiri; mereka bukan pengganti Lantai Hak di Bab Enam atau mekanika definisi di Bab Dua sampai Empat.)
 
 </details>
@@ -212,6 +208,7 @@ Direktori ini mendaftar **Definisi A-Z** dan **Klaster A-Z** secara terpisah. Se
 - [Permainan peluang](../../core_05_band_accountability.md#game-of-chance)
 - [Gerbang](../../core_05_band_oversight.md#gate)
 - [Kriteria Gerbang](../../core_05_band_oversight.md#gate-criteria)
+- [Peluncuran](../../core_05_band_continuity.md#go-live)
 - [Iktikad baik](../../core_05_band_accountability.md#good-faith)
 - [Tata kelola](../../core_05_band_accountability.md#governance)
 - [Kapabilitas berjenjang](../../core_05_band_participation.md#graduated-capability-constitutional)
@@ -233,7 +230,9 @@ Direktori ini mendaftar **Definisi A-Z** dan **Klaster A-Z** secara terpisah. Se
 - [Imbalan inovasi dan anti-penutupan](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Keuntungan orang dalam](../../core_05_band_accountability.md#insider-advantage)
 - [Persetujuan instansiasi](../../core_05_band_participation.md#instantiation-consent-constitutional)
+- [Institusi](../../core_05_band_continuity.md#institution)
 - [Pengembangan Institusional](../../core_05_band_continuity.md#institutional-development)
+- [Pihak Berkepentingan](../../core_05_band_accountability.md#interested-party)
 - [Tanggung jawab antargenerasi](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [Ukuran perampasan yang tidak dapat dibalik](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [Bahaya yang tidak dapat dibalik](../../core_05_band_accountability.md#irreversible-harm)
@@ -278,10 +277,12 @@ Direktori ini mendaftar **Definisi A-Z** dan **Klaster A-Z** secara terpisah. Se
 - [Jejak peserta](../../core_05_band_accountability.md#participant-standing-constitutional)
 - [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional)
 - [Kepribadian](../../core_05_band_participation.md#personhood)
+- [Uji Coba](../../core_05_band_continuity.md#pilot)
 - [Pers dan aktivitas jurnalistik](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [Perutean taruhan primer](../../core_05_band_accountability.md#primary-stakes-routing)
 - [Privasi (informasional)](../../core_05_band_continuity.md#privacy-informational)
 - [Keadilan prosedural](../../core_05_band_participation.md#procedural-fairness-constitutional)
+- [Proses](../../core_05_band_continuity.md#process)
 - [Kapasitas produktif](../../core_05_band_continuity.md#productive-capacity-constitutional)
 - [Proporsionalitas](../../core_05_band_accountability.md#proportionality)
 - [Kontribusi lintas sistem sepadan](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
@@ -442,8 +443,6 @@ Definisi Bab Lima diurutkan menurut [Dua Tujuan Konstitusional](core_00_preamble
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): silang pengukuran Pembukaan</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di bab ini atau di bab lain.
->
 > [Pembukaan §2](core_00_preamble.md#measurements-overview) mendaftar tujuh **kategori pengukuran** konstitusional — pertanyaan yang diajukan operator ketika menilai sistem. Bab Lima mengorganisasi **definisi kanonik** menurut kaki Tetrad, tujuan **Kesinambungan**, dan kepemilikan silang-kaki **Integratif**. Tabel di bawah memetakan setiap kategori pengukuran ke rumah Bab Lima-nya. Suatu kategori boleh mencakup lebih dari satu berkas pita; rumah kanonik tidak berpindah ketika kategori pengukuran tumpang tindih.
 >
 > **Materialitas** ([Penentuan materialitas](../../core_05_band_oversight.md#materiality-determination)) bersifat Integratif — gerbang ambang lintas-potong yang menskala semua keluarga pengukuran di bawah [taruhan material](core_00_preamble.md#material-stake); ia bukan kategori terpisah dalam tabel di bawah.

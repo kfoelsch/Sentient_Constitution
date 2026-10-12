@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
->
 > Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Tám tiếng Anh](../../core_09_standing_assessment.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó giới thiệu ba câu hỏi của chuỗi quỹ đạo, trả lời Câu hỏi 1 (*điều gì đã xảy ra?*), và trả lời Câu hỏi 2 (*tốt hay xấu đến mức nào?*). Câu hỏi 3 (*điều gì xảy ra vì thế?*) tiếp ở [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration), với rà soát chỉ-chỉ định ở [Chương Mười](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) cho các phát hiện Trục Vi phạm đủ điều kiện `s` = 7–9.
@@ -21,8 +19,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): nơi Chương Tám sống và điều gì ở lại đây</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở chương này hay ở các chương khác.
->
 > | Câu hỏi | Chủ sở hữu và vai trò |
 > | --- | --- |
 > | **1. Điều gì đã xảy ra?** | Lập sự kiện đã xác minh trong một hồ sơ có giới hạn, tranh biện được. |

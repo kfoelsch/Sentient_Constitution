@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Korpus içindeki yeri (işletimsel değildir): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okuyucu rehberidir**. Bu dosyanın başka bölümlerinde veya diğer bölümlerde yer alan bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz.
->
 > Bu dosya **Sentient Constitution'ın bir parçasıdır** ve tek bir belge olarak okunan diğer numaralı `core_*` dosyalarıyla **birlikte bağlayıcıdır**. **Birinci Bölüm, Kısım C**’yi (§§16–20: emanetçilik, yönetişim, teşviklerin uyumlaştırılması ve sistemin ele geçirilmesi ile bütünleşik uygulama bölüm sonunu) içerir.
 >
 > **Önceki:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Birinci Bölüm, Kısım B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Okuyucu rehberi (işletimsel değildir): ilke hiyerarşisi ve okuma akışı (Kısım C)</span></strong></summary>
 
-> Aşağıdaki içerik **yalnızca okuyucu rehberidir**. Bu dosyanın başka bölümlerinde veya diğer bölümlerde yer alan bağlayıcı yükümlülükleri eklemez, kaldırmaz ya da daraltmaz. Her bölümdeki **Bağlantı izi** ve **Tanımlar · Değerlendirme · Uyum** bileşenleri, her § bir terimi önemli ölçüde kullandığı noktada ilgili kaynaklara yönlendirir; bu blok §§16–20 öncesinde kısım düzeyinde bir eşleştirme sunar.
+> Her bölümdeki **Bağlantı izi** ve **Tanımlar · Değerlendirme · Uyum** bileşenleri, her § bir terimi önemli ölçüde kullandığı noktada ilgili kaynaklara yönlendirir; bu blok §§16–20 öncesinde kısım düzeyinde bir eşleştirme sunar.
 
 **İlke hiyerarşisi (Kısım C).** İlke düzeyinde:
 
@@ -162,7 +160,7 @@ Emanetçilik ilk başvurulacak yoldur, ancak tek yol değildir. Üç ayrı sorun
 
 - Önceki bağlantılar: [§17 Önemli Sonuçlar Doğuran Emanetçilik](#17-consequential-stewardship-the-steward-role) (*1. Temel Direk*); [§16 Emanetçiliğe Yakından Bakış](#16-stewardship-in-depth) (üst bölüm; yukarıdaki *Basitçe anlatmak gerekirse* kısmı ve 3. Temel Direk çerçevesi dahil); [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** bileşeni ([Anlamlı Özerklik](core_05_band_participation.md#meaningful-agency), [Eğitimsel Özerklik](core_05_band_participation.md#educational-agency)); **gözetim** bileşeni ([Şeffaflık](core_05_band_oversight.md#transparency), [Denetlenebilirlik](core_05_band_oversight.md#auditability)); [maddi önem](core_00_preamble.md#material-stake) düzeyine göre ölçeklendirme.
-- Emanetçi giriş kapısı (işletimsel değildir): Sonraki adım kartı: [Anlaşılabilirlik](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). Bu kart Anayasa’yı daraltamaz.
+- Emanetçi giriş kapısı (işletimsel değildir): Sonraki adım kartı: [Anlaşılabilirlik](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - Sonraki bağlantılar: [13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); haklar kapsamında özellikle [Madde XVI: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) ve [Madde XXII: Anlaşılabilirlik ve Karmaşıklık Emanetçiliği](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ Bu bölümün geri kalanı rolün kendisini ele alır.
 
 - Önceki bölümler: [§17 Önemli Sonuçlar Doğuran Emanetçilik](#17-consequential-stewardship-the-steward-role); [§16 Derinlemesine Emanetçilik](#16-stewardship-in-depth); [§18 Emanetçilik Disiplini Altında Yönetişim](#18-governance-under-stewardship-discipline).
 - Birlikte okuyun: [Sentience Nedeniyle Dışlamama](core_05_band_participation.md#sentience-non-exclusion) ve [Altyapı Sınıfı](core_05_band_participation.md#substrate-class) (*altyapıdan bağımsız uygulama — bu alt bölüm, sentient olarak tanınmayan ajanlar ve operatörler dâhil yükümlülük sahiplerini bağlar*); [Yetki Hiyerarşisi ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Anayasal Kısıt](core_05_band_integrative.md#constitutional-constraint); [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability); [§17.5 Direnme Yükümlülüğü](#175-duty-to-resist).
-- Emanetçi giriş kapısı (işlemsel değildir): sonraki adım kartı [Ortak emanetçilik](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). Kart Anayasa’yı daraltamaz.
+- Emanetçi giriş kapısı (işlemsel değildir): sonraki adım kartı [Ortak emanetçilik](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - Sonraki bölümler: [§17.2 Baskı Altında Uyum](#172-alignment-under-pressure); [§17.3 Emanetçiyi Değil, Rolü Kaydetme](#173-logging-the-role-not-the-steward); [On Üçüncü Bölüm §5 — Yetkilendirilmiş Roller, Yetkinlik Geliştirme ve Katkı](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [On Yedinci Bölüm](core_17_incorporation.md) (*kabul edilmiş uygulama metni uygular; onun yerini almaz*); [§19.1.3 Emanetçilik ve Operatör Uygulaması](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ Bunlar her emir için başarısızlık sınamalarıdır.
 
 - Önceki hükümler: [§17 Sonuç Doğuran Vasilik](#17-consequential-stewardship-the-steward-role); [§17.1 Ortak Vasilik Standardı](#171-shared-stewardship-standard) (*görevin kimleri bağladığı*); [§17.2 Baskı Altında Uyum](#172-alignment-under-pressure) (*örtbas talimatının başarısız bir sınama olması*); [4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint) ve [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Birlikte okuyun: [Yetki Katmanı ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Korunan Bildirim (İhbar)](core_05_band_accountability.md#protected-reporting-whistleblowing); [XIII-A Maddesi](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Güvenilirlik ve Güven Telkin Etme Temel Standardı*) — direnme sürerken itiraz yolları açık kalır.
-- Vasi kapısı (işlemsel değildir): Sonraki adım kartı: [Hukuka aykırı talimat](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). Kart Anayasa’yı daraltamaz.
+- Vasi kapısı (işlemsel değildir): Sonraki adım kartı: [Hukuka aykırı talimat](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - Sonraki hükümler: [Onuncu Bölüm §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Direnme görevi — ihlal kuralı ve statü etkileri*); [CS-4 §10 incelenebilir ve atfedilebilir eylem](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*İncelenebilir ve atfedilebilir eylem — reddin asgari kaydı*).
 
 </details>
@@ -1002,7 +1000,7 @@ Bu ilke, [§17.1 Ortak Vasilik Standardı](#171-shared-stewardship-standard) uya
 - Sonraki hükümler: [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§14 Mutlak Geçersiz Kılma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Sonraki hükümler: [§13.3 Önlenebilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [On Üçüncü Bölüm §5 — Yetkilendirilmiş Roller, Yetkinlik Geliştirme ve Katkı](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Kritik sistemlerin vasilik yönetimi**.
 - Sonraki hükümler: [Altıncı Bölüm: Temel Haklar](core_06_rights_part_a.md#chapter-six-foundational-rights) genelinde faillik, katılım, teşvik uyumu, bilgi alanı bütünlüğü, statü ve ele geçirmeyi önleme incelemesine ilişkin hak alanını hedefler; özellikle [X. Madde: Kendi Kaderini Tayin, Faillik ve Katılım](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [XII. Madde: Paydaş Sistemine Katılım, Temsil ve Usul Güvenceleri](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [XIII-D. Madde: Teşvik Uyumu Kısıtı](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [XV. Madde: Bilgi Alanı Bütünlüğü](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [XIX. Madde: Statü ve Katılım Durumu](core_06_rights_part_d.md#article-xix-standing-and-participation-status) ve [XXIV. Madde: Anayasal Yorum, İnceleme ve Ele Geçirmeyi Önleme Güvenceleri](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Vasi kapısı (işlemsel değildir): Sonraki adım kartı: [Teşvik uyumu](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). Kart Anayasa’yı daraltamaz.
+- Vasi kapısı (işlemsel değildir): Sonraki adım kartı: [Teşvik uyumu](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス内の位置づけ（非運用）：ファイル構成と読解規則</span></strong></summary>
 
-> 以下の内容は**読者向け案内のみ**である。このファイルまたは他の章における拘束力ある義務を追加、削除、縮小するものではない。
->
 > このファイルは**Sentient Constitutionの一部**であり、他の番号付き`core_*`ファイルとともに一つの文書として読まれる場合に限り拘束力を持つ。ここには**第1章パートC**（§§16–20：スチュワードシップ、ガバナンス、インセンティブ整合とシステム捕捉、統合的適用の総括）が含まれる。
 >
 > **前編：** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)（第1章パートB）  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">読者向け案内（非運用）：原則の階層と読解の流れ（パートC）</span></strong></summary>
 
-> 以下の内容は**読者向け案内のみ**である。このファイルまたは他の章における拘束力ある義務を追加、削除、縮小するものではない。各§が用語を実質的に援用する箇所では、各節の**トレース**と**定義・評価・遵守**ウィジェットが参照先を示す。このブロックは§§16–20に先立つパート単位の対応表である。
+> 各§が用語を実質的に援用する箇所では、各節の**トレース**と**定義・評価・遵守**ウィジェットが参照先を示す。このブロックは§§16–20に先立つパート単位の対応表である。
 
 **原則の階層（パートC）。** 原則レベルでは：
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - 上流：[§17 結果を左右するスチュワードシップ](#17-consequential-stewardship-the-steward-role)（*柱1*）；[§16 スチュワードシップの詳説](#16-stewardship-in-depth)（親節。上記の*平たく言えば*および柱3の枠組みを含む）；[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)；[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)。
 - 併読：[憲法上の四原則](core_00_preamble.md#constitutional-tetrad) — **参加**の柱（[意味ある主体性](core_05_band_participation.md#meaningful-agency)、[教育的主体性](core_05_band_participation.md#educational-agency)）；**監督**の柱（[透明性](core_05_band_oversight.md#transparency)、[監査可能性](core_05_band_oversight.md#auditability)）；[重要な利害](core_00_preamble.md#material-stake)に応じた調整。
-- スチュワード向け入口（非運用）：次のステップのカード：[理解可能性](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility)。このカードによって憲法を狭めることはできない。
+- スチュワード向け入口（非運用）：次のステップのカード：[理解可能性](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility)。
 - 下流：[13.2 認識論的開示の制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)；権利の範囲では特に[第XVI条：監査、透明性、独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XXII条：理解可能性と複雑性のスチュワードシップ](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)。
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - 上流：[§17 結果を左右するスチュワードシップ](#17-consequential-stewardship-the-steward-role)；[§16 スチュワードシップの詳説](#16-stewardship-in-depth)；[§18 スチュワードシップ規律下のガバナンス](#18-governance-under-stewardship-discipline)。
 - 併読：[sentienceの非排除](core_05_band_participation.md#sentience-non-exclusion)および[基盤クラス](core_05_band_participation.md#substrate-class)（*基盤に左右されない適用。本小節は義務を負う者を拘束し、sentientとして認められないエージェントや運用者も含む*）；[権限スタックと内部階層](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)；[憲法上の制約](core_05_band_integrative.md#constitutional-constraint)；[異議申立て可能性](core_05_band_accountability.md#contestability)；[§17.5 抵抗する義務](#175-duty-to-resist)。
-- スチュワード向け入口（非運用）：次のステップのカード：[共有スチュワードシップ](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship)。このカードによって憲法を狭めることはできない。
+- スチュワード向け入口（非運用）：次のステップのカード：[共有スチュワードシップ](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship)。
 - 下流：[§17.2 圧力下での整合](#172-alignment-under-pressure)；[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)；[第13章 §5 — 権限を付与された役割、能力開発、貢献](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；[第17章](core_17_incorporation.md)（*採用された実装文書が実装し、置き換えるものではない*）；[§19.1.3 スチュワードシップと運用者への適用](#1913-stewardship-and-operator-application)。
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - 上流: [§17 重大な結果を伴うスチュワードシップ](#17-consequential-stewardship-the-steward-role); [§17.1 共有スチュワードシップ基準](#171-shared-stewardship-standard)（*誰に義務が及ぶか*）; [§17.2 圧力下での整合](#172-alignment-under-pressure)（*隠蔽指示は不合格のテスト*）; [4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)および[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)。
 - あわせて読む: [権限の階層と内部序列](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [保護された報告（内部告発）](core_05_band_accountability.md#protected-reporting-whistleblowing); [第XIII-A条](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)（*信頼性と信用性の基準*）—抵抗している間も異議申立ての経路は開かれたままである。
-- スチュワード入口（非運用）: 次の手順カード: [違法な指示](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction)。このカードは憲法を狭めることはできない。
+- スチュワード入口（非運用）: 次の手順カード: [違法な指示](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction)。
 - 下流: [第10章 §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵抗する義務 — 違反規則と地位への影響*）; [CS-4 §10 検査可能で帰属可能な行為](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*検査可能で帰属可能な行為 — 拒否の最小限の記録*）。
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - 下流：[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)および[§14 絶対的な上書きの禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下流：[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [第十三章 §5 — 授権された役割、能力開発、貢献](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md)、CS-4 — 重要システムのスチュワードシップ**。
 - 下流：主体性、参加、インセンティブの整合、情報圏の完全性、法的地位、乗っ取り防止の審査に関わる権利領域を対象とする。これらは[第六章：基本的権利](core_06_rights_part_a.md#chapter-six-foundational-rights)に定められ、特に[第X条：自己決定、主体性、参加](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XII条：利害関係者のシステム参加、代表、適正手続](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)、[第XIII-D条：インセンティブ整合の制約](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)、[第XV条：情報圏の完全性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XIX条：法的地位と参加資格](core_06_rights_part_d.md#article-xix-standing-and-participation-status)、[第XXIV条：憲法解釈、審査、乗っ取り防止措置](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)が含まれる。
-- スチュワードの入口（運用上の効力なし）：次のステップのカード：[インセンティブの整合](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment)。このカードは憲法を狭めることができない。
+- スチュワードの入口（運用上の効力なし）：次のステップのカード：[インセンティブの整合](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment)。
 
 </details>
 

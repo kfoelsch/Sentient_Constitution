@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스 내 위치(운영 규범 아님): 파일 구성과 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 독자를 위한 안내일 뿐입니다. 이 파일이나 다른 장의 다른 곳에 있는 구속력 있는 의무를 추가하거나 삭제하거나 축소하지 않습니다.
->
 > 이 파일은 **Sentient Constitution**의 일부이며, 하나의 문서로 함께 읽는 다른 번호가 붙은 `core_*` 파일들과 함께일 때만 **구속력**을 가집니다. 여기에는 **제1장 제C부**(§§16–20: 관리, 거버넌스, 유인 정렬과 포획, 통합 적용의 종합 부분)가 담겨 있습니다.
 >
 > **앞부분:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (제1장 제B부)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(운영 규범 아님): 원칙의 위계와 읽기 순서(제C부)</span></strong></summary>
 
-> 다음 내용은 독자를 위한 안내일 뿐입니다. 이 파일이나 다른 장의 다른 곳에 있는 구속력 있는 의무를 추가하거나 삭제하거나 축소하지 않습니다. 각 절의 **Trace**와 **Definitions · Assessment · Compliance** 위젯은 해당 §가 어떤 용어를 실질적으로 호출하는 지점에서 관련 위치를 안내합니다. 이 블록은 §§16–20 앞에서 부 전체의 상호 참조표를 제공합니다.
+> 각 절의 **Trace**와 **Definitions · Assessment · Compliance** 위젯은 해당 §가 어떤 용어를 실질적으로 호출하는 지점에서 관련 위치를 안내합니다. 이 블록은 §§16–20 앞에서 부 전체의 상호 참조표를 제공합니다.
 
 **원칙의 위계(제C부).** 원칙 차원에서:
 
@@ -162,7 +160,7 @@ flowchart TB
 
 - 상위 근거: [§17 결과 중심 관리](#17-consequential-stewardship-the-steward-role) (*기둥 1*); [§16 심층 관리](#16-stewardship-in-depth) (상위 절, 위의 *쉽게 말해* 및 기둥 3의 설명 포함); [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - 함께 읽기: [헌법 사원](core_00_preamble.md#constitutional-tetrad) — **참여** 요소 ([의미 있는 행위 역량](core_05_band_participation.md#meaningful-agency), [교육적 행위 역량](core_05_band_participation.md#educational-agency)); **감독** 요소 ([투명성](core_05_band_oversight.md#transparency), [감사 가능성](core_05_band_oversight.md#auditability)); [실질적 이해관계](core_00_preamble.md#material-stake)에 따라 규모 조정.
-- 관리자 진입 지점 (운영 규정 아님): 다음 단계 카드: [이해 가능성](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). 이 카드는 헌법의 범위를 좁힐 수 없습니다.
+- 관리자 진입 지점 (운영 규정 아님): 다음 단계 카드: [이해 가능성](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - 하위 근거: [13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); 권리 범위, 특히 [제XVI조: 감사, 투명성 및 독립적 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XXII조: 이해 가능성과 복잡성 관리](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ flowchart TB
 
 - 상위 근거: [§17 결과 중심 관리](#17-consequential-stewardship-the-steward-role); [§16 심층 관리](#16-stewardship-in-depth); [§18 관리 규율에 따른 거버넌스](#18-governance-under-stewardship-discipline).
 - 함께 읽기: [감각성에 따른 배제 금지](core_05_band_participation.md#sentience-non-exclusion)와 [기반 종류](core_05_band_participation.md#substrate-class) (*기반에 구애받지 않는 적용 — 이 하위 절은 sentient로 인정되지 않은 에이전트와 운영자를 포함하여 의무 부담자를 구속함*); [권한 스택과 내부 위계](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [헌법상 제약](core_05_band_integrative.md#constitutional-constraint); [이의 제기 가능성](core_05_band_accountability.md#contestability); [§17.5 저항 의무](#175-duty-to-resist).
-- 관리자 진입 지점 (운영 규정 아님): 다음 단계 카드: [공동 관리](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). 이 카드는 헌법의 범위를 좁힐 수 없습니다.
+- 관리자 진입 지점 (운영 규정 아님): 다음 단계 카드: [공동 관리](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - 하위 근거: [§17.2 압박 속 정렬](#172-alignment-under-pressure); [§17.3 관리자가 아닌 역할 기록](#173-logging-the-role-not-the-steward); [제13장 §5 — 승인된 역할, 역량 개발 및 기여](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [제17장](core_17_incorporation.md) (*채택된 구현 문서는 이를 구현하며 대체하지 않음*); [§19.1.3 관리 및 운영자 적용](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ flowchart TB
 
 - 상위 근거: [§17 중대한 결과를 수반하는 Stewardship](#17-consequential-stewardship-the-steward-role); [§17.1 공동 Stewardship 기준](#171-shared-stewardship-standard) (*누가 의무에 구속되는가*); [§17.2 압박 속 정렬](#172-alignment-under-pressure) (*은폐 지시는 실패한 시험*); [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint) 및 [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - 함께 읽기: [권한 스택과 내부 위계](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [보호받는 신고(내부고발)](core_05_band_accountability.md#protected-reporting-whistleblowing); [제XIII-A조](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*신뢰성 및 신뢰 가능성의 기준선*) — 저항하는 동안에도 이의 제기 경로는 계속 열려 있다.
-- Steward 진입점(비작동): 다음 단계 카드: [불법 지시](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). 이 카드는 헌장을 좁힐 수 없다.
+- Steward 진입점(비작동): 다음 단계 카드: [불법 지시](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - 하위 근거: [제10장 §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*저항 의무 — 위반 규칙과 standing 효과*); [CS-4 §10 검사 및 귀속 가능한 행동](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*검사 및 귀속 가능한 행동 — 거부에 관한 최소 기록*).
 
 </details>
@@ -1002,7 +1000,7 @@ flowchart TB
 - 하위 연결: [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency) 및 [§14 절대적 우선권 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하위 연결: [§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [제13장 §5 — 승인된 역할, 역량 개발 및 기여](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[c또는pus_systems.md](corpus_systems.md), CS-4 — 핵심 시스템 스튜어드십**.
 - 하위 연결: 행위주체성, 참여, 인센티브 정렬, 정보 환경의 무결성, 당사자 적격 및 포획 방지 검토에 관한 권리 영역을 다음 장 전반에 걸쳐 다룬다: [제6장: 기본권](core_06_rights_part_a.md#chapter-six-foundational-rights); 특히 [제X조: 자기결정, 행위주체성 및 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XII조: 이해관계자의 시스템 참여, 대표성 및 적법 절차](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [제XIII-D조: 인센티브 정렬 제약](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [제XV조: 정보 환경의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XIX조: 당사자 적격 및 참여 지위](core_06_rights_part_d.md#article-xix-standing-and-participation-status), 및 [제XXIV조: 헌법 해석, 검토 및 포획 방지 장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- 스튜어드 안내(운영 규범 아님): 다음 단계 카드: [인센티브 정렬](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). 이 카드는 헌법의 범위를 축소할 수 없다.
+- 스튜어드 안내(운영 규범 아님): 다음 단계 카드: [인센티브 정렬](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Tres en inglés](../../core_03_definition_integrity.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_02_definition_structure.md](core_02_definition_structure.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): dónde vive el Capítulo Tres y qué se queda aquí</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
->
 > Dónde vive esto (navegación):
 > - **Titular constitucional:** integridad de la definición, evasión e incumplimiento para el trabajo de evaluación. El **Capítulo Dos** es titular de la estructura; el **Capítulo Cuatro** es titular de la carga y los artefactos de rastro; el **Capítulo Cinco** es titular de las definiciones canónicas.
 > - **Titular de implementación:** los registros de trayectoria, el proceso de foro y los protocolos de implementación operacionalizan estas reglas sin reemplazarlas.

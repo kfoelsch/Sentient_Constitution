@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스에서의 위치(비운영): 파일 구조와 읽기 규칙</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 이 파일은 [영어 제5장 A부분](../../core_05__definitions_home.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_05__definitions_home.md`](../../core_05__definitions_home.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **이전(이 언어):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비운영): 읽기 순서와 쉬운 말 주</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 장이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > 쉬운 말 읽기 주: 높은 층의 가치와 방향을 위해 **제1장**을 읽고; 정의 구조, 완전성, 확인 기계를 위해 **제2장부터 제4장**을 읽고; 기초 **권리** 바닥을 위해 **제6장**을 읽은 뒤, 해석, 감사, 재결에서 용어의 정밀함을 위해 이 장으로 돌아오십시오. (다른 장, **제10장** *부당행위*와 **제8장** *궤적*을 포함,은 각자의 읽기 경로에서 적용됩니다; 그것들은 제6장 권리 바닥이나 제2장부터 제4장의 정의 기계를 대체하지 않습니다.)
 
 </details>
@@ -209,6 +205,7 @@
 - [우연 게임](../../core_05_band_accountability.md#game-of-chance)
 - [관문](../../core_05_band_oversight.md#gate)
 - [관문 기준](../../core_05_band_oversight.md#gate-criteria)
+- [가동 개시](../../core_05_band_continuity.md#go-live)
 - [선의](../../core_05_band_accountability.md#good-faith)
 - [거버넌스](../../core_05_band_accountability.md#governance)
 - [단계적 능력](../../core_05_band_participation.md#graduated-capability)
@@ -230,7 +227,9 @@
 - [혁신 보상과 울타리 금지](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [내부자 이점](../../core_05_band_accountability.md#insider-advantage)
 - [구현 동의](../../core_05_band_participation.md#instantiation-consent)
+- [기관](../../core_05_band_continuity.md#institution)
 - [제도적 발전](../../core_05_band_continuity.md#institutional-development)
+- [이해관계자](../../core_05_band_accountability.md#interested-party)
 - [세대 간 책임](../../core_05_band_continuity.md#intergenerational-responsibility)
 - [되돌릴 수 없는 박탈 척도](../../core_05_band_accountability.md#irreversible-deprivation-measure)
 - [되돌릴 수 없는 해](../../core_05_band_accountability.md#irreversible-harm)
@@ -274,10 +273,12 @@
 - [참여자 궤적](../../core_05_band_accountability.md#participant-standing)
 - [참여](../../core_05_apex_participation_leg.md#participation-constitutional)
 - [인격성](../../core_05_band_participation.md#personhood)
+- [파일럿](../../core_05_band_continuity.md#pilot)
 - [언론과 저널리즘 활동](../../core_05_band_oversight.md#press-and-journalistic-activity)
 - [일차 이해관계 라우팅](../../core_05_band_accountability.md#primary-stakes-routing)
 - [프라이버시(정보)](../../core_05_band_continuity.md#privacy-informational)
 - [절차 공정](../../core_05_band_participation.md#procedural-fairness)
+- [과정](../../core_05_band_continuity.md#process)
 - [생산 능력](../../core_05_band_continuity.md#productive-capacity)
 - [비례](../../core_05_band_accountability.md#proportionality)
 - [비례하는 체계 간 기여](../../core_05_band_continuity.md#proportionate-cross-system-support)
@@ -436,8 +437,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비운영): 전문 측정 대조</span></strong></summary>
 
-> 다음 내용은 **독자 안내일 뿐입니다**. 이 장이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
->
 > [전문 §2](core_00_preamble.md#measurements-overview)는 일곱 헌법 **측정 범주**를 열거한다 — 체계를 평가할 때 운영하는 이가 묻는 질문. 제5장은 **정전 정의**를 사원(四元) 다리, **연속** 목적, **통합** 교차 다리 주관으로 짠다. 아래 표는 각 측정 범주를 그 제5장 거처에 잇는다. 한 범주가 띠 파일 둘 이상에 걸칠 수 있다; 측정 범주가 겹친다고 정전 거처가 옮겨지지는 않는다.
 >
 > **실질성** ([실질성 인정](../../core_05_band_oversight.md#materiality-determination))은 통합이다 — [실질 이해관계](core_00_preamble.md#material-stake) 아래 모든 측정 가족의 세기를 조절하는 가로지른 문턱 문이지, 아래 표의 따로 떨어진 범주가 아니다.

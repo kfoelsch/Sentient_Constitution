@@ -1800,6 +1800,88 @@ flowchart TB
 
 若同一有感知者、职务或集团占据本应分离的席位，或控制占据这些席位者，也构成本条所指结构性俘获的迹象。
 
+#### 第十二条-E：影响接触与游说边界
+
+<details>
+<summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
+
+- 上游依据：原则：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 管护纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)和[§19 激励协调与系统俘获](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)。
+- 联读：[第十二条-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_11_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)；[第十三章 §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*资格、竞争性遴选与民主最低标准*）。
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
+
+- [系统俘获](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [反俘获](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [可争议性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [可审计性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [程序公正](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [利害关系方](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+
+</details>
+
+<br>
+
+*简言之：**第十二条-E**（*影响接触与游说边界*）为有切身利益的有感知者如何接触决策者设定底线。公开倡议受到保护。私下、未记录、收买、伪造或由机器扩增的影响则不受保护：接触必须记录并披露；利益提议和威胁属于利益冲突；曾由你决策的当事方后来提供的职位须等候冷却期届满；系统接触时必须说明自身性质及其代表的对象。*
+
+本条规定**利害关系方**如何接触作出、审查、审计、采购或支持决策的有感知者与系统。本条适用于[**第十二条-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）所列的受涵盖机构、其**任命机关**及**采纳机构**，并依据[《两个宪法目标》](core_00_preamble.md#two-constitutional-aims)：
+
+- **繁荣：**受影响的有感知者保有真正、开放的陈述机会，包括没有资金、员工或工具的人；决策依据公开记录，而非私人渠道。
+- **延续：**决策机构长期抵御隐蔽影响，无论影响来自私人接触、利益提议、日后职位、伪造支持还是大规模自动化。
+
+正当参与通过[宪法四元原则](core_00_preamble.md#constitutional-tetrad)实现，并按[实质利害](core_00_preamble.md#material-stake)相称调整：
+
+- **参与：**公开倡议、请愿和公众意见受到保护，受影响的有感知者可以接触任何必须听取其意见的机构。
+- **监督：**通过接触记录、在事项记录中披露，以及记录哪些输入材料到达了为决策提供信息的系统。
+- **问责：**利害关系方、运营者和机构必须为私下接触、隐瞒接触、伪造声音和利益提议负责。
+- **及时性：**及时披露接触，以便其他参与者作出回应。
+
+*相关条款：*
+
+- **防俘获底线：**[**第十二条-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）涵盖组成、利益冲突、回避、外部审查和免职。本条补充利害关系方接触这些机构的规则。
+- **参与权重：**[**第十二条-B**](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）禁止象征性参与。本条同样不将接触数量视为支持。
+- **系统与信息：**[**第十三条-E**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）要求系统遵守与其他主体相同的规则；[**第十五条**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）涵盖共享信息环境。
+- **遴选资金：**[**第十三章 §1.2**](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*资格、竞争性遴选与民主最低标准*）规定通过竞选、提名或竞争性任命进行遴选时的资金边界。
+
+本条规定以下底线：
+
+- **范围：**这些底线适用于受涵盖机构、其**任命机关**及**采纳机构**。要求按实质利害相称调整。提交至某事项公开记录的文件不属于影响接触；它本身就是记录。
+- **影响接触边界：**受涵盖机构、其**任命机关**及**采纳机构**必须公布**影响接触**规则。影响接触是指[**利害关系方**](../../core_05_band_accountability.md#interested-party)为影响待决或可预见事项，在该事项公开记录之外接触成员、委员、工作人员、主持人或简报信息来源。规则按实质利害相称调整，且至少必须：
+  - **记录**每次重要影响接触：接触者、时间、渠道、涉及事项，以及所请求或提议内容的摘要；
+  - 将记录存放在独立于被接触成员、委员或工作人员的席位中（[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)）；
+  - **披露**事项记录中的重要接触，且留出其他参与者回应的时间；
+  - 将证据和论点保留在公开记录中：决策不得依赖私人接触所提供的证据或论点；
+  - 将任何礼物、利益或未来职位提议，以及任何威胁，视为必须披露、拒绝并依照**CI-5**（*利益冲突完整性、反俘获与反腐败*）转交处理的利益冲突，而非普通接触；并且
+  - 保护在记录中提出的公开倡议、请愿和公众意见，以及受影响有感知者接触必须听取其意见的机构的权利。不得利用这些规则限制受影响有感知者谈论自身利害。
+- **离任后及未来职位冲突：**
+  - **未来职位冲突：**当某利害关系方的事项正在成员、委员或工作人员面前审理时，与该[**利害关系方**](../../core_05_band_accountability.md#interested-party)讨论之后的职位、工作、合同或利益即构成冲突。必须披露，且该成员、委员或工作人员必须回避，直至独立席位解除该冲突。
+  - **离任后规则：**受涵盖机构及**采纳机构**还必须公布与实质利害相称的离任后规则。这些规则禁止接受利害关系方提供的、与本人处理过的事项相关的职位或利益，直至冷却期届满，或独立席位通过已公布的决定准许该提议。
+  - **默认冷却期：**自成员、委员或工作人员最后参与该事项之日起**五年**。
+  - **变更：**采纳机构可以规定更长的期限。只有在实质利害较低时，才可以规定较短期限，并且必须公布理由。
+- **自动化、生成式和批量接触：**由系统实施、通过系统实施或达到系统规模的影响接触，仍与其他影响接触一样适用规则，并须遵守以下补充规则：
+  - **归属说明：**系统生成或发送的接触必须说明其由系统生成或发送，指出系统代表的**利害关系方**，并指出授权该接触的有感知者。代表自身发言的合成有感知者与其他有感知者相同。若其代表运营者或其他委托方行事，该委托方对接触负责。
+  - **只允许真实声音：**任何人不得通过虚假身份、伪造支持者、冒充或合成证词，或虚构的草根团体接触受涵盖机构。无论单方行动还是多方共同行动，均适用此规则。
+  - **辅助使用：**有感知者使用系统起草、翻译或发送自己的消息，并经其批准，则该接触属于其本人。
+  - **批量接触：**相同或实质相似的接触大量到达某机构时，该机构将其作为一次单独活动记录一次。记录须说明发起方、资金、方法、数量及经核实的不同有感知者人数。数量不构成支持证据。机构只能依据经核实的不同有感知者人数认定支持。
+    - **“大量”的默认标准：**机构须公布自己的阈值。在公布之前，同一利害关系方或其代表在一项事项中向机构超过四分之一的成员发出相同或实质相似接触，或向该机构发送50次或以上，即属于大量接触。
+  - **渠道：**受涵盖机构必须公布经身份验证的公开意见渠道。机构可以限制频率、去除重复内容，并搁置违反这些规则的意见。禁止通过任何私人渠道自动接触成员、委员、工作人员、主持人或简报信息来源。
+  - **决策一方使用的系统：**机构使用系统接收、分类、总结或起草决策内容时，试图引导该系统而非告知决策者的接触属于影响接触。这包括提交材料中隐藏的指令、投毒数据以及为操纵排序而制作的内容。机构必须将提交材料视为证据而非指令，使每项输出均可追溯到来源记录，并披露哪些输入材料到达了为决策提供信息的系统。利害关系方的系统与机构系统之间的接触，须按有感知者之间接触的同一方式记录。
+  - **责任：**利害关系方和部署系统的运营者均须对接触负责。若其无视明显风险，不知情不得作为抗辩。
+- **随机抽选机构：**随机抽选机构的成员适用这些底线中最严格的等级。除依照[第十三章](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)通过公开简报记录进行外，禁止就事项与其私下接触。
+- **执行与转交：**
+  - **完整性触发事项：**隐瞒影响接触、利益提议和伪造声音，均作为完整性触发事项，依照**CI-5**（*利益冲突完整性、反俘获与反腐败*）和**CJS-3.6**（*完整性保障与韧性运作*）转交处理。
+  - **不当行为途径：**故意或鲁莽地以不真实声音泛滥，或实施贿赂及不当利益交换，在依照**第二至第四章**证实并符合**第十一章**所列标准时，可以被指控为**违宪不当行为**。
+  - **优先维护完整性及禁止自我裁判：**适用[**第十二条-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）中的转交和反自我裁判规则。任何机构都不得成为裁定自身成员或工作人员是否受到不当接触的唯一最终论坛。
+- **机构间转交：**详细规则由以下文件管辖：
+  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（*任命、能力、轮换与免职*），其中**CI-4.2**（*职位标准、任命标准与免职途径*）涵盖离任后规则；
+  - **CI-5**（*利益冲突完整性、反俘获与反腐败*）；
+  - **CJS-3.6**（*完整性保障与韧性运作*），*影响接触与游说边界*；
+  - 对于论坛小组，[corpus_forum.md](../../corpus_forum.md)中的**CF-4**（*小组组成、披露、回避与合法席位构成*）和**CF-7**（*完整性保障、反俘获运作与反自我裁判支持*）。
+
+---
+
 ---
 
 **前一文件：**[core_06_rights_part_a.md](core_06_rights_part_a.md)

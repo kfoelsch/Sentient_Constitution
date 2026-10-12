@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">جایگاه در پیکره (غیرعملیاتی): ساختار پرونده و قواعد خواندن</span></strong></summary>
 
-> محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این پرونده یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
->
 > این پرونده **آزمایش زبان خواننده** برای [فصل هفتم، بخش ب به انگلیسی](../../core_08_b_system_alignment_certification_record_process.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
 > **فصل هفتم، بخش ب** را در بر دارد — محتوای **سابقه** گواهی، شفافیت و قابلیت اعتراض، نقش‌های مؤلفهٔ مجمع، توالی نظارت، پل ردپا، و بازگشایی (**§11–§16**، ادامه از بخش الف §1–§10). **بخش الف** — الزامات ارزیابی — در [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) است.

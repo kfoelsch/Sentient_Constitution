@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Sembilan bahasa Inggris](../../core_10_standing_integration.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_09_standing_integration.md`](../../core_10_standing_integration.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > Berisi **Bab Sembilan**, lapisan integrasi dan akibat rantai jejak. [Bab Delapan](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) secara eksklusif memiliki fakta terverifikasi, catatan jejak, pengukuran jejak, dan setiap slot Sumbu Kontribusi serta Sumbu Pelanggaran. Bab ini menerima masukan itu sebagai tetap dan menjawab Pertanyaan 3: apa yang menyusul. [Bab Sepuluh](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) memutuskan hanya apakah pelanggaran yang memenuhi syarat `s = 7`, `s = 8`, atau `s = 9` menerima penunjukan salah-laku-anti-konstitusi yang berpasangan.
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): urutan bab</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat.
->
 > Baca bab ini berurutan: masukan Bab Delapan yang tidak berubah; catatan integrasi dan urutan keputusan; integrasi deskriptor dan normalisasi lampiran; pelanggaran, koreksi, dan pencegahan (pemulihan dan koreksi, kunci jejak umum, lalu ungkapan pertanggungjawaban publik sukarela di mana dipakai); rancangan dan penegakan kunci (definisi dan pelekatan, proporsionalitas dan kalibrasi, visibilitas catatan dan eskalasi, aturan pelanggaran khusus, dan kunci khusus); akibat kontribusi (kebaruan dan kekinian, lalu palang kompetensi dan izin kompetensi); akibat jejak akhir; restorasi dan penilaian ulang; realisme penegakan dan sistem pemulihan; penerapan pola dan perutean Pertanyaan 3.
 >
 > **Pintu pengelola (non-operatif):** Pernyataan langkah-berikutnya yang mengikat: [Pernyataan pengelola operatif](#operative-steward-statement-remedy). Penunjuk pendukung di [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md) tidak dapat mempersempitnya.

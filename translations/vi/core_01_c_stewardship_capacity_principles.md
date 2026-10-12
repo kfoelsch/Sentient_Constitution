@@ -6,8 +6,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho tư liệu (không mang tính vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nội dung này không thêm, xóa hoặc thu hẹp nghĩa vụ có tính ràng buộc trong tệp này hoặc các chương khác.
->
 > Tệp này **là một phần của Hiến pháp Sentient** và chỉ có tính ràng buộc khi được đọc cùng các tệp `core_*` được đánh số khác như một văn kiện thống nhất. Tệp bao gồm **Chương Một, Phần C** (§§16–20: trách nhiệm quản trị, quản trị, điều chỉnh động cơ khuyến khích và chiếm dụng hệ thống, cùng phần tổng kết về áp dụng tích hợp).
 >
 > **Phần trước:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Chương Một, Phần B)  
@@ -19,7 +17,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không mang tính vận hành): thứ bậc nguyên tắc và mạch đọc (Phần C)</span></strong></summary>
 
-> Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nội dung này không thêm, xóa hoặc thu hẹp nghĩa vụ có tính ràng buộc trong tệp này hoặc các chương khác. Các tiện ích **Truy vết** và **Định nghĩa · Đánh giá · Tuân thủ** ở từng mục chỉ dẫn tại nơi một § viện dẫn thuật ngữ về mặt thực chất; khối này là bản đối chiếu ở cấp phần trước §§16–20.
+> Các tiện ích **Truy vết** và **Định nghĩa · Đánh giá · Tuân thủ** ở từng mục chỉ dẫn tại nơi một § viện dẫn thuật ngữ về mặt thực chất; khối này là bản đối chiếu ở cấp phần trước §§16–20.
 
 **Thứ bậc nguyên tắc (Phần C).** Ở cấp nguyên tắc:
 
@@ -162,7 +160,7 @@ Trách nhiệm quản trị là tuyến đầu, không phải tuyến duy nhất
 
 - Thượng nguồn: [§17 Trách nhiệm Quản trị có Hệ quả](#17-consequential-stewardship-the-steward-role) (*Trụ cột 1*); [§16 Trách nhiệm Quản trị Chuyên sâu](#16-stewardship-in-depth) (mục cha, bao gồm phần *Nói một cách dễ hiểu* và khung Trụ cột 3 ở trên); [5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Đọc cùng [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad) — trụ cột **sự tham gia** ([Năng lực Hành động Có ý nghĩa](core_05_band_participation.md#meaningful-agency), [Năng lực Hành động Giáo dục](core_05_band_participation.md#educational-agency)); trụ cột **giám sát** ([Tính Minh bạch](core_05_band_oversight.md#transparency), [Khả năng Kiểm toán](core_05_band_oversight.md#auditability)); điều chỉnh theo [lợi ích trọng yếu](core_00_preamble.md#material-stake).
-- Cổng hướng dẫn cho người quản trị (không mang tính vận hành): thẻ bước tiếp theo: [Khả năng Hiểu được](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). Thẻ này không thể thu hẹp Hiến pháp.
+- Cổng hướng dẫn cho người quản trị (không mang tính vận hành): thẻ bước tiếp theo: [Khả năng Hiểu được](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - Hạ nguồn: [13.2 Các Giới hạn Công bố Tri thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); trong phạm vi quyền, đặc biệt là [Điều XVI: Kiểm toán, Minh bạch và Xác minh Độc lập](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Điều XXII: Khả năng Hiểu được và Trách nhiệm Quản trị Sự phức tạp](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -366,7 +364,7 @@ Phần còn lại của mục này nói về chính vai trò đó.
 
 - Các mục trước: [§17 Quản trị có trách nhiệm với hệ quả đáng kể](#17-consequential-stewardship-the-steward-role); [§16 Quản trị có trách nhiệm chuyên sâu](#16-stewardship-in-depth); [§18 Quản trị theo kỷ luật quản trị có trách nhiệm](#18-governance-under-stewardship-discipline).
 - Đọc cùng: [Không loại trừ dựa trên tri giác](core_05_band_participation.md#sentience-non-exclusion) và [Loại nền tảng](core_05_band_participation.md#substrate-class) (*áp dụng bất kể nền tảng — tiểu mục này ràng buộc chủ thể có nghĩa vụ, gồm tác nhân và người vận hành không được công nhận là hữu thể có tri giác*); [Thứ bậc quyền hạn và thứ bậc nội bộ](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Ràng buộc hiến pháp](core_05_band_integrative.md#constitutional-constraint); [Khả năng chất vấn](core_05_band_accountability.md#contestability); [§17.5 Nghĩa vụ chống lại](#175-duty-to-resist).
-- Cổng thông tin cho người quản hộ (không có tính vận hành): thẻ bước tiếp theo [Quản trị có trách nhiệm chung](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). Thẻ này không thể thu hẹp Hiến pháp.
+- Cổng thông tin cho người quản hộ (không có tính vận hành): thẻ bước tiếp theo [Quản trị có trách nhiệm chung](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
 - Các mục tiếp theo: [§17.2 Sự phù hợp dưới áp lực](#172-alignment-under-pressure); [§17.3 Ghi nhật ký vai trò, không ghi nhật ký người quản hộ](#173-logging-the-role-not-the-steward); [Chương Mười Ba §5 — Vai trò được ủy quyền, Phát triển Năng lực và Đóng góp](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Chương Mười Bảy](core_17_incorporation.md) (*văn bản triển khai được thông qua thực hiện nhưng không thay thế các quy định*); [§19.1.3 Áp dụng cho quản trị có trách nhiệm và người vận hành](#1913-stewardship-and-operator-application).
 
 </details>
@@ -574,7 +572,7 @@ Gánh nặng mà nghĩa vụ này đặt lên người quản hộ có thẩm qu
 
 - Nội dung nền tảng: [§17 Chức trách quản hộ có hệ quả](#17-consequential-stewardship-the-steward-role); [§17.1 Tiêu chuẩn quản hộ chung](#171-shared-stewardship-standard) (*nghĩa vụ ràng buộc những ai*); [§17.2 Duy trì sự phù hợp dưới áp lực](#172-alignment-under-pressure) (*chỉ thị bao che là một phép thử thất bại*); [4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint) và [5 Chân thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Đọc cùng: [Thứ bậc thẩm quyền và trật tự nội bộ](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Báo cáo được bảo vệ (Tố giác)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Điều XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Mức nền về độ tin cậy và tính đáng tin*) — các con đường khiếu nại vẫn mở trong khi kháng cự.
-- Lối dẫn nhập cho quản hộ (không có hiệu lực): thẻ bước tiếp theo: [Chỉ thị trái pháp luật](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). Thẻ này không thể thu hẹp Hiến pháp.
+- Lối dẫn nhập cho quản hộ (không có hiệu lực): thẻ bước tiếp theo: [Chỉ thị trái pháp luật](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - Nội dung tiếp nối: [Chương Mười §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Nghĩa vụ kháng cự — quy tắc vi phạm và hệ quả về tư cách*); [CS-4 §10 hành động có thể kiểm tra và quy trách nhiệm](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Hành động có thể kiểm tra và quy trách nhiệm — hồ sơ tối thiểu về việc từ chối*).
 
 </details>
@@ -1002,7 +1000,7 @@ Nguyên tắc này ràng buộc như nhau đối với quản hộ viên là ng�
 - Nội dung tiếp nối: [§7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [§14 Cấm Vượt quyền Tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Nội dung tiếp nối: [§13.3 Giảm thiểu Gánh nặng Có thể Tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chương Mười Ba §5 — Vai trò được Ủy quyền, Phát triển Năng lực và Đóng góp](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Quản hộ Hệ thống Trọng yếu**.
 - Nội dung tiếp nối: tác động đến phạm vi quyền về năng lực hành động, tham gia, sự phù hợp của động lực, tính toàn vẹn của không gian thông tin, tư cách và rà soát chống chiếm đoạt trong [Chương Sáu: Các Quyền Nền tảng](core_06_rights_part_a.md#chapter-six-foundational-rights); đặc biệt là [Điều X: Quyền Tự quyết, Năng lực Hành động và Tham gia](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Điều XII: Sự tham gia của các bên liên quan vào hệ thống, Đại diện và Thủ tục Công bằng](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Điều XIII-D: Ràng buộc về Sự phù hợp của Động lực](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [Điều XV: Tính toàn vẹn của Không gian Thông tin](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Điều XIX: Tư cách và Tình trạng Tham gia](core_06_rights_part_d.md#article-xix-standing-and-participation-status), và [Điều XXIV: Giải thích Hiến pháp, Rà soát và Các Bảo đảm Chống chiếm đoạt](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Lối dẫn nhập cho quản hộ viên (không có hiệu lực): thẻ bước tiếp theo: [Sự phù hợp của động lực](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). Thẻ không thể thu hẹp Hiến pháp.
+- Lối dẫn nhập cho quản hộ viên (không có hiệu lực): thẻ bước tiếp theo: [Sự phù hợp của động lực](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
 

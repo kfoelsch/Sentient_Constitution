@@ -31,7 +31,7 @@
 > - **Titulaire de la mise en œuvre :** les **classes** d’admission publiées, les règles quotidiennes de rôle, le personnel, les budgets, la procédure granulaire, la mécanique opératoire d’escalade et les exigences opératoires de soutien de forum vivent dans le texte de mise en œuvre adopté et dans **[corpus_forum.md](../../corpus_forum.md)** (**CF-5** (*Opérations de routage, transfert, certification et traitement représentatif*), **CF-8** (*Soutien forensique et analytique de forum*), **CF-9** (*Service d’enquête indépendant et interface de poursuite*), et sections connexes) ; ces couches **mettent en œuvre, ne resserrent pas**, ce chapitre.
 > - **Règle anti-relocalisation :** les instruments d’adoption ne doivent pas satisfaire ce chapitre par des procédures qui font s’effondrer des fonctions de forum distinctes, dépouillent l’**indépendance** ou l’**examen réel**, ou routent des contestations d’intégrité vers le même forum capturé que ce chapitre interdit comme unique foyer final au fond.
 >
-> **Architecture — placement de *En termes simples* :** Chaque ligne *En termes simples* apparaît immédiatement après le bloc de navigation Trace (et le `<br>` qui le suit lorsqu’il est présent), et **avant** les paragraphes opératoires et les listes à puces de cette section. Glose tournée vers le lecteur seulement ; elle n’ajoute, n’ôte ni ne resserre le texte contraignant.
+> **Architecture — placement de *En termes simples* :** Chaque ligne *En termes simples* apparaît immédiatement après le bloc de navigation Trace (et le `<br>` qui le suit lorsqu’il est présent), et **avant** les paragraphes opératoires et les listes à puces de cette section.
 
 </details>
 

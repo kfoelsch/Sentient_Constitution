@@ -1793,6 +1793,88 @@ Este Artigo estabelece a salvaguarda contra captura e sua relação com a separa
 
   Quando um sentiente, cargo ou bloco ocupar funções que devem ser separadas, ou controlar quem as ocupa, isso também é sinal de captura estrutural nos termos deste Artigo.
 
+#### Artigo XII-E: Limites ao contato de influência e ao lobby
+
+<details>
+<summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
+
+- Fundamentos: Princípios: Capítulo Um [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) e [§19 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Leitura conjunta: [Artigo XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Salvaguardas contra captura*); [Artigo XII-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Participação ponderada e restrições contra participação simbólica*); [Artigo X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agência e liberdade contra manipulação*); [Artigo IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Autopropriedade da imagem e reputação*); [Artigo XIII-E](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*Sistemas de alta autonomia e integridade de processos mediados por ferramentas*); [Artigo XV](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Integridade da infosfera*); [Capítulo Onze §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*Inundação do espaço e bloqueio de vias de contestação*), [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*Inundação da zona da infosfera*) e [§5.5](../../core_11_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Suborno e troca imprópria de benefícios*); [Capítulo Sete](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties); [Capítulo Treze §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Elegibilidade, seleção contestada e mínimos democráticos*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
+
+- [Captura do sistema](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Anticaptura](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
+- [Impugnabilidade](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Auditabilidade](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Equidade processual](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Parte interessada](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+
+</details>
+
+<br>
+
+*Em termos simples: o **Artigo XII-E** (*Limites ao contato de influência e ao lobby*) estabelece o patamar mínimo sobre como sencientes com interesse podem se dirigir a quem decide. A defesa pública e aberta é protegida. A influência privada, não registrada, comprada, falsa ou multiplicada por máquinas não é: os contatos são registrados e divulgados, ofertas e ameaças constituem conflitos, um emprego posterior oferecido por uma parte sobre a qual você decidiu aguarda o fim de um período de impedimento, e um sistema deve declarar o que é e em nome de quem atua.*
+
+Este Artigo estabelece como **partes interessadas** podem se dirigir aos sencientes e sistemas que decidem, revisam, auditam, contratam ou apoiam uma decisão. Aplica-se aos órgãos abrangidos identificados no [**Artigo XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Salvaguardas contra captura*), às suas **autoridades nomeantes** e às **instituições adotantes**, conforme os [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims):
+
+- **Florescimento:** os sencientes afetados mantêm uma via real e aberta para serem ouvidos, inclusive aqueles sem dinheiro, equipe ou ferramentas, e as decisões se baseiam no registro público, não no acesso privado.
+- **Continuidade:** os órgãos decisórios permanecem resistentes à influência discreta ao longo do tempo, venha ela por acesso privado, ofertas de benefícios, empregos posteriores, apoio falsificado ou automação em escala.
+
+A busca legítima ocorre pela [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), proporcional à [aposta material](core_00_preamble.md#material-stake):
+
+- **Participação:** a defesa aberta, as petições e os comentários públicos permanecem protegidos, e os sencientes afetados mantêm acesso a qualquer órgão que deva ouvi-los.
+- **Supervisão:** por meio de registros de contato, divulgação no registro do caso e registros do material recebido por qualquer sistema que tenha contribuído para uma decisão.
+- **Prestação de contas:** partes interessadas, operadores e órgãos devem responder por abordagens privadas, contatos ocultos, vozes fabricadas e ofertas de benefícios.
+- **Atuação em tempo:** mediante divulgação do contato em prazo que permita a resposta dos demais participantes.
+
+*Artigos relacionados:*
+
+- **Piso contra captura:** o [**Artigo XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Salvaguardas contra captura*) trata de composição, conflitos, impedimento, revisão externa e destituição. Este Artigo acrescenta as regras para abordagens de partes interessadas aos mesmos órgãos.
+- **Peso da participação:** o [**Artigo XII-B**](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Participação ponderada e restrições contra participação simbólica*) proíbe participação simbólica. O volume de contatos também não constitui apoio nos termos deste Artigo.
+- **Sistemas e informação:** o [**Artigo XIII-E**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*Sistemas de alta autonomia e integridade de processos mediados por ferramentas*) sujeita os sistemas às mesmas regras que todos os demais; o [**Artigo XV**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Integridade da infosfera*) trata do ambiente informacional compartilhado.
+- **Financiamento da seleção:** o [**Capítulo Treze §1.2**](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Elegibilidade, seleção contestada e mínimos democráticos*) estabelece os limites de financiamento para seleção por campanha, nomeação ou indicação competitiva.
+
+Este Artigo estabelece os seguintes pisos:
+
+- **Escopo:** estes pisos se aplicam aos órgãos abrangidos, às suas **autoridades nomeantes** e às **instituições adotantes**. Os requisitos são proporcionais à aposta material. Um documento protocolado no registro público de um caso não constitui contato de influência. Ele é parte do registro.
+- **Limites ao contato de influência:** os órgãos abrangidos, suas **autoridades nomeantes** e as **instituições adotantes** devem publicar regras para o **contato de influência**. Contato de influência é a abordagem de uma [**parte interessada**](../../core_05_band_accountability.md#interested-party) a membro, integrante de painel, funcionário, facilitador ou fonte de informações, com o objetivo de influenciar um caso pendente ou previsível fora do registro público desse caso. As regras são proporcionais à aposta material e devem, no mínimo:
+  - **registrar** cada contato de influência material: quem o fez, quando, por qual canal, sobre qual caso e um resumo do que foi solicitado ou oferecido;
+  - manter esse registro em uma instância independente do membro, integrante do painel ou funcionário contatado ([Capítulo Sete](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties));
+  - **divulgar** os contatos materiais no registro do caso, em prazo que permita a resposta dos demais participantes;
+  - manter provas e argumentos no registro público: um contato privado não pode fornecer provas ou argumentos dos quais uma decisão dependa;
+  - tratar qualquer oferta de presente, benefício ou função futura, bem como qualquer ameaça, como conflito a ser divulgado, recusado e encaminhado conforme **CI-5** (*Integridade de conflitos, anticaptura e anticorrupção*), e não como contato ordinário; e
+  - proteger a defesa aberta, as petições e os comentários públicos apresentados no registro, bem como o acesso dos sencientes afetados a qualquer órgão que deva ouvi-los. Essas regras não podem ser usadas para limitar o que os sencientes afetados dizem sobre o próprio interesse.
+- **Conflitos posteriores ao serviço e relativos a funções futuras:**
+  - **Conflito relativo a função futura:** discutir uma função, emprego, contrato ou benefício posterior com uma [**parte interessada**](../../core_05_band_accountability.md#interested-party), enquanto o caso dessa parte estiver pendente perante um membro, integrante de painel ou funcionário, constitui conflito. Deve ser divulgado, e o membro, integrante de painel ou funcionário deve se declarar impedido até que uma instância independente o libere.
+  - **Regras posteriores ao serviço:** os órgãos abrangidos e as **instituições adotantes** também devem publicar regras posteriores ao serviço proporcionais à aposta material. Essas regras proíbem aceitar função ou benefício de parte interessada relacionado a um caso tratado pela pessoa até o término do período de impedimento ou até que uma instância independente libere a oferta em decisão publicada.
+  - **Período padrão de impedimento:** o padrão é de **cinco anos** a partir do fim da última participação do membro, integrante de painel ou funcionário no caso.
+  - **Variação:** uma instituição adotante pode estabelecer período mais longo. Pode estabelecer período mais curto somente quando a aposta material for baixa, e deve publicar suas razões.
+- **Abordagens automatizadas, geradas e em massa:** o contato de influência feito por, através de ou na escala de um sistema é contato de influência como qualquer outro, sujeito às regras adicionais seguintes:
+  - **Atribuição:** o contato produzido ou enviado por um sistema deve declarar isso, identificar a **parte interessada** em cujo nome o sistema atua e identificar o senciente que o autorizou. Um senciente sintético que fale por si é um senciente como qualquer outro. Quando atua em nome de um operador ou outro principal, esse principal responde pelo contato.
+  - **Somente vozes reais:** ninguém pode abordar órgão abrangido usando identidade falsa, apoiador fabricado, depoimento imitado ou sintético, ou grupo de base inventado. Isso vale tanto quando uma parte age sozinha quanto quando várias agem em conjunto.
+  - **Uso assistivo:** um senciente que usa um sistema para redigir, traduzir ou enviar sua própria mensagem, e a aprova, realiza seu próprio contato.
+  - **Contato em massa:** quando a mesma abordagem, ou uma substancialmente semelhante, chega em volume a um órgão, ele a registra uma vez, como campanha única. O registro informa o patrocinador, o financiamento, o método, o volume e o número de sencientes distintos verificados. O volume não é prova de apoio. O órgão só pode considerar o apoio na medida dos sencientes distintos verificados.
+    - **Padrão para “em volume”:** o órgão publica seu próprio limiar. Até que o faça, a mesma abordagem, ou uma substancialmente semelhante, dirigida a mais de um quarto dos membros do órgão, ou recebida 50 ou mais vezes em um caso, por ou em nome da mesma parte interessada, é considerada em volume.
+  - **Canais:** o órgão abrangido deve publicar um canal autenticado para contribuições no registro público. Pode limitar a frequência, eliminar duplicatas e desconsiderar contribuições que violem estas regras. É proibida a abordagem automatizada de membro, integrante de painel, funcionário, facilitador ou fonte de informações por qualquer canal privado.
+  - **Sistemas no lado decisório:** quando um órgão usa um sistema para receber, classificar, resumir ou redigir conteúdo para uma decisão, uma abordagem destinada a direcionar esse sistema, em vez de informar os decisores, é contato de influência. Isso inclui instruções ocultas no material enviado, dados envenenados e conteúdo feito para manipular uma classificação. O órgão deve tratar o material enviado como prova, nunca como instruções; manter cada resultado rastreável ao registro de origem; e divulgar qual material recebido chegou a um sistema que contribuiu para a decisão. O contato entre o sistema de uma parte interessada e o sistema do órgão é registrado da mesma forma que o contato entre sencientes.
+  - **Responsabilidade:** tanto a parte interessada quanto o operador que implanta o sistema respondem pelo contato. A falta de conhecimento não é defesa quando ignoraram um risco evidente.
+- **Órgãos de seleção por sorteio:** os membros selecionados de um órgão de seleção por sorteio recebem o nível mais estrito destes pisos. O contato privado com eles sobre o caso é proibido, salvo por meio do registro público de informações, conforme exige o [Capítulo Treze](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
+- **Aplicação e encaminhamento:**
+  - **Gatilhos de integridade:** contatos de influência ocultos, ofertas de benefícios e vozes fabricadas são encaminhados como gatilhos de integridade conforme **CI-5** (*Integridade de conflitos, anticaptura e anticorrupção*) e **CJS-3.6** (*operações de garantia de integridade e resiliência*).
+  - **Via de má conduta:** a inundação deliberada ou imprudente com vozes inautênticas, bem como suborno ou troca imprópria de benefícios, podem ser alegados como **má conduta anticonstitucional** nos termos do **Capítulo Onze**, quando fundamentados conforme os **Capítulos Dois a Quatro** e os critérios estabelecidos no **Capítulo Onze**.
+  - **Encaminhamento prioritário à integridade e proibição de julgamento próprio:** aplicam-se as regras de encaminhamento e contra o julgamento próprio do [**Artigo XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Salvaguardas contra captura*). Nenhum órgão pode ser o único fórum final para decidir se seus próprios membros ou funcionários foram abordados indevidamente.
+- **Encaminhamento institucional:** as regras detalhadas são regidas por:
+  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Nomeação, competência, rotação e destituição*), incluindo **CI-4.2** (*Critérios da função, padrões de nomeação e vias de destituição*) para regras posteriores ao serviço;
+  - **CI-5** (*Integridade de conflitos, anticaptura e anticorrupção*);
+  - **CJS-3.6** (*operações de garantia de integridade e resiliência*), *Limites ao contato de influência e ao lobby*;
+  - para painéis de fóruns, **CF-4** (*Formação do painel, divulgação, impedimento e constituição legal da bancada*) e **CF-7** (*Salvaguardas de integridade, operações anticaptura e apoio contra julgamento próprio*) em [corpus_forum.md](../../corpus_forum.md).
+
+---
+
 ---
 
 **Arquivo anterior:** [core_06_rights_part_a.md](core_06_rights_part_a.md)

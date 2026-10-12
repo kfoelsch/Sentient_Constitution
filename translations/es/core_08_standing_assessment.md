@@ -5,8 +5,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Ocho en inglés](../../core_09_standing_assessment.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > Introduce las tres preguntas de la cadena de trayectoria, responde la Pregunta 1 (*¿qué ocurrió?*) y responde la Pregunta 2 (*¿cuán bueno o cuán malo fue?*). La Pregunta 3 (*¿qué ocurre por causa de ello?*) continúa en [Capítulo Nueve](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration), con revisión solo de designación en [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) para hallazgos calificadores del Eje de Violación `s` = 7–9.
@@ -21,8 +19,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): dónde vive el Capítulo Ocho y qué se queda aquí</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
->
 > | Pregunta | Titular y rol |
 > | --- | --- |
 > | **1. ¿Qué ocurrió?** | Establecer hechos verificados en un registro acotado e impugnable. |

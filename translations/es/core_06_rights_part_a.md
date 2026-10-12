@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
->
 > Este archivo es un **piloto de idioma de lectura** del [Capítulo Seis, Parte A en inglés](../../core_06_rights_part_a.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > Contiene el **Capítulo Seis, Parte A**; la numeración de artículos y las referencias cruzadas coinciden con el instrumento integrado.
@@ -20,8 +18,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): orden de lectura y cumplimiento</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
->
 > Este capítulo presenta los derechos en un orden de **planeta primero** porque las condiciones ambientales y materiales sostienen todo lo demás:
 > - La **Parte A** cubre los **Artículos I–IV**: supervivencia ambiental, administración responsable material, esenciales de supervivencia, acceso educativo igual y transparencia de flujos de recursos.
 > - La **Parte B** cubre los **Artículos V–XI**: derechos básicos iguales, educación centrada en los sencientes, autopropiedad, semejanza y datos, agencia, cooperación y Participación Sistémica de las Partes Afectadas.

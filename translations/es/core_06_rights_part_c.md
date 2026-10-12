@@ -3,8 +3,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativa): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni restringe obligaciones vinculantes establecidas en otras partes de este archivo o en otros capítulos.
->
 > Este archivo **forma parte de la Constitución Senciente ** y**solo es vinculante junto con** los demás archivos numerados `core_*`, leídos como un único instrumento. Contiene el **Capítulo Seis, Parte C**; la numeración de artículos y las referencias cruzadas corresponden al instrumento integrado. El orden de lectura, la distinción entre contenido vinculante y de apoyo, y los metadatos de edición del corpus se mantienen en [README.md](../../README.md).
 >
 > **Anterior (este idioma):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
@@ -16,8 +14,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guía para quien lee (no operativa): lugar de la Parte C en el Capítulo Seis</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni restringe obligaciones vinculantes establecidas en otras partes de este capítulo o en otros capítulos.
->
 > La **Parte A ** en [core_06_rights_part_a.md](core_06_rights_part_a.md) contiene el conjunto de restricciones predeterminadas para todo el capítulo, el orden de lectura que prioriza el planeta y los centros interpretativos. La**Parte C ** presenta los**Artículos XIII–XVIII** en ese orden.
 
 </details>
@@ -34,8 +30,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guía para quien lee (no operativa): mapa de artículos de la Parte C</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni restringe obligaciones vinculantes establecidas en otras partes de este capítulo o en otros capítulos.
->
 > **Mapa para quien lee (no operativo).** Este diagrama muestra cómo la fuente agrupa los artículos y subartículos de esta Parte. La cuadrícula representa agrupaciones de la fuente, no una secuencia de procesos: los artículos no son pasos procedimentales, por lo que el mapa no tiene flechas. Las etiquetas de los subartículos resumen temas; rigen los artículos y subartículos numerados que siguen. El diagrama no añade definiciones ni deberes, no establece precedencia y no sustituye el texto fuente.
 
 </details>

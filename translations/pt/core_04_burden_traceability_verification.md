@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
->
 > Este arquivo é um **piloto de idioma de leitura** do [Capítulo Quatro em inglês](../../core_04_burden_traceability_verification.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): onde vive o Capítulo Quatro e o que permanece aqui</span></strong></summary>
 
-> O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste capítulo nem em outros capítulos.
->
 > Onde isto vive (navegação):
 > - **Mapa da Tétrade:** A alocação do ônus, a evidência, a rastreabilidade, a observabilidade e a verificação implementam as pernas de **supervisão** e **prestação de contas** da [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) estabelecidas no [Preâmbulo](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participação** onde for materialmente exigida por meio de observabilidade prática e impugnação independente sob as seções **3** e **4**. Os requisitos se escalam à [aposta material](core_00_preamble.md#material-stake).
 > - **Titular constitucional:** alocação do ônus, evidência de conformidade, rastreabilidade da definição, observabilidade e verificação sob restrições de segurança. O **Capítulo Oito** é titular da disciplina de registros de trajetória e de insumo verificado, lida juntamente com este capítulo.

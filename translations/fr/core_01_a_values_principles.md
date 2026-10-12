@@ -3,8 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Place dans le corpus (non normative) : structure des fichiers et règles de lecture</span></strong></summary>
 
-> Le contenu qui suit est **uniquement un guide de lecture**. Il n’ajoute, ne supprime et ne restreint aucune obligation contraignante figurant ailleurs dans ce fichier ou dans d’autres chapitres.
->
+> Les widgets marqués **non opératoires** (place dans le corpus, guide du lecteur, cartes de lecture) servent uniquement de repères. Ils n’ajoutent, ne suppriment ni ne restreignent aucune obligation contraignante, dans leur propre fichier ou dans un autre.
 > Ce fichier **fait partie de la Constitution sentiente** et n’est **contraignant qu’avec** les autres fichiers numérotés `core_*`, lus comme un instrument unique. Il contient le **chapitre un, partie A** (§§1–12 : objet et rôle ; l’objectif d’Épanouissement, introduit au §2 et développé par le bien-être, la Sécurité, la Vérité, la Confiance et la Liberté ; ainsi que l’objectif de Continuité, introduit au §8 et développé par la capacité des systèmes partagés, la résilience, la structure du marché et l’évaluation systémique).
 >
 > **En amont :** [core_00_preamble.md](core_00_preamble.md)  
@@ -16,7 +15,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guide de lecture (non normatif) : comment le chapitre un relie les objectifs, la Tétrade, les articles et les définitions</span></strong></summary>
 
-> Le contenu qui suit est **uniquement un guide de lecture**. Il n’ajoute, ne supprime et ne restreint aucune obligation contraignante figurant ailleurs dans ce fichier ou dans d’autres chapitres. Les encadrés **Traçabilité** et **Définitions · Évaluation · Conformité** de chaque section déterminent les références contraignantes ; ce bloc fournit une carte de la partie aux lecteurs qui abordent le chapitre un.
+> **Traçabilité** et **Définitions · Évaluation · Conformité** de chaque section déterminent les références contraignantes ; ce bloc fournit une carte de la partie aux lecteurs qui abordent le chapitre un.
 
 **Articulation des niveaux.** Chaque niveau répond à une question différente, et chaque principe du chapitre un renvoie aux trois autres niveaux :
 
@@ -1463,7 +1462,7 @@ Les modalités opérationnelles — détection et confinement des défaillances,
 
 - En amont : [§11 Structure du marché](#11-market-structure) ; [Seuil de concentration du marché](core_05_band_accountability.md#market-concentration-threshold).
 - En aval : **CJS-3.11.1 — Discipline de fixation des seuils de concentration du marché (réglable par l’adoptant)** (règles opérationnelles de fixation des seuils) ; [§11.2 Promotion de la concurrence et lutte contre la domination](#112-pro-competition-and-anti-domination) ; [§11.3 Plafond de consolidation](#113-consolidation-ceiling) ; [CJS-3.11.3 — Discipline de fixation du plafond de consolidation (réglable par l’adoptant)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (règles opérationnelles de fixation du plafond au [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)) ; [Chapitre neuf §4 Question 2 — dans quelle mesure était-ce bénéfique ou préjudiciable ?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it) ; [Chapitre onze §5.1 Subversion fondée sur la concentration](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- Porte d’entrée pour les intendants (non opérationnelle) : fiche de l’étape suivante : [Structure du marché](implementation/STEWARD_ENTRY_DOORS.md#market-structure). Cette fiche ne peut pas restreindre la Constitution.
+- Porte d’entrée pour les intendants (non opérationnelle) : fiche de l’étape suivante : [Structure du marché](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Sous-sections (ordre de lecture) : [§11.1.1 Déclencheurs de seuil de concentration (réglables par l’adoptant)](#1111-concentration-threshold-triggers-adopter-tunable).
 
 </details>

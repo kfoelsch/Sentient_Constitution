@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > 本文件是[英语第二章](../../core_02_definition_structure.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_02_definition_structure.md`](../../core_02_definition_structure.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > **上一篇（本语种）：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：定义栈与第二章所在位置</span></strong></summary>
 
-> 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
->
 > **第二至五章**构成宪法定义栈；**[CJS](../../corpus_joint_structure.md)** 承载适用它的操作性定义：
 > - **第二章（本文件）** — O/M/A/C 定义结构与组件对齐：每一项定义链接**本体（O）**（它是什么）、与**评估（A）**义务交织的**测量（M）**登记（必须如何测量与评估），以及**合规（C）**（必须成立什么）（[§1 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)）。
 > - **第三章** — 定义完整性、规避与不合规（[第三章](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)）。

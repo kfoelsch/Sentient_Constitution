@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Dua bahasa Inggris](../../core_02_definition_structure.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_02_definition_structure.md`](../../core_02_definition_structure.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > **Sebelumnya (lokal ini):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
@@ -18,8 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): tumpukan definisi dan di mana Bab Dua hidup</span></strong></summary>
 
-> Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
->
 > Bab **Dua sampai Lima** membentuk tumpukan definisi konstitusional; **[CJS](../../corpus_joint_structure.md)** membawa definisi operasional yang menerapkannya:
 > - **Bab Dua (berkas ini)** — struktur definisi O/M/A/C dan keselarasan komponen: setiap definisi menautkan **Ontologis (O)** (apa itu), daftar **Pengukuran (M)** yang dijalin dengan kewajiban **Penilaian (A)** (cara harus diukur dan dinilai), dan **Kepatuhan (C)** (apa yang harus berlaku) ([§1 Tujuan dan Peran](core_02_definition_structure.md#1-purpose-and-role); [§2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **Bab Tiga** — integritas definisi, pengelakan, dan ketidakpatuhan ([Bab Tiga](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
