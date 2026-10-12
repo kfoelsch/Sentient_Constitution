@@ -15,7 +15,6 @@ Usage (from the repo root)::
 from __future__ import annotations
 
 import argparse
-import json
 import re
 import sys
 from pathlib import Path
@@ -23,6 +22,8 @@ from pathlib import Path
 _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
+
+from json_rows import dumps_rows  # noqa: E402
 
 from corpus_paths import CORE_FILES  # noqa: E402
 from generate_plain_terms_edition import (  # noqa: E402
@@ -137,7 +138,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(argv)
     root = Path(args.root).resolve()
-    payload = json.dumps(build(root), indent=2, ensure_ascii=False) + "\n"
+    payload = dumps_rows(build(root))
     out = root / OUT_REL
     if args.check:
         if not out.is_file() or out.read_text(encoding="utf-8") != payload:

@@ -19,6 +19,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_paths import source_markdown_files  # noqa: E402
+from json_rows import dumps_rows  # noqa: E402
 from family_map_lib import iter_entries, load_family_map, resolve_section_file  # noqa: E402
 from generate_definition_registry import collect_entries, principle_layer_entries  # noqa: E402
 from router_table_lib import (  # noqa: E402
@@ -385,7 +386,8 @@ def main() -> int:
     output.parent.mkdir(parents=True, exist_ok=True)
     payload = build_payload(root)
     output.write_text(
-        json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+        dumps_rows(payload, overrides={"steward_doors": 4, "lexical": 4}),
+        encoding="utf-8",
     )
     print(
         f"Wrote id resolver ({len(payload['ids'])} ids, "

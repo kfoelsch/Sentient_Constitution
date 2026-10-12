@@ -4,7 +4,7 @@
 
 *Your right to understand the systems that shape your life, and the duty to keep them from getting needlessly complicated.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXIII](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXIII](../../core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 
@@ -116,9 +116,9 @@ The whole constitution uses four checks. Here's how each one applies to this art
 
 ### How this fits with other articles
 
-- **Challenging decisions and getting them fixed** is covered by [Article XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems). This article makes sure you can understand a system well enough to use that right without needing an expert.
-- **Independent checks and openness** are covered by [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification). This article makes sure systems aren't made so complicated that those checks become impossible.
-- **Accessibility** for people with different needs is covered by [Article VI-D](core_06_rights_part_b.md#article-vi-d-accessibility).
+- **Challenging decisions and getting them fixed** is covered by [Article XIII](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems). This article makes sure you can understand a system well enough to use that right without needing an expert.
+- **Independent checks and openness** are covered by [Article XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification). This article makes sure systems aren't made so complicated that those checks become impossible.
+- **Accessibility** for people with different needs is covered by [Article VI-D](../../core_06_rights_part_b.md#article-vi-d-accessibility).
 
 ---
 

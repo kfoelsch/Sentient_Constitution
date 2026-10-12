@@ -3,12 +3,15 @@
 
 File-to-file edges remain in crossref_matrix.json. This index keys the same
 links by the innermost source heading and the target file#anchor.
+
+The output uses the compact "interned" format (see section_crossref_format.py):
+distinct files, source sections, and targets are listed once and each edge is
+three integers. Use section_crossref_format.expand_edges() to read edge objects.
 """
 
 from __future__ import annotations
 
 import argparse
-import json
 import re
 import sys
 from collections import Counter
@@ -21,6 +24,7 @@ if str(_TOOLS) not in sys.path:
 
 from corpus_paths import source_markdown_files  # noqa: E402
 from generate_section_manifest import manifest_for  # noqa: E402
+from section_crossref_format import build_payload_from_edges, dumps_payload  # noqa: E402
 
 LINK_RE = re.compile(r"\]\(([^)#]+\.md)(#[^)]+)?\)")
 
@@ -53,7 +57,8 @@ def source_key(file_rel: str, section: dict | None, line_no: int) -> tuple:
     )
 
 
-def build_payload(root: Path) -> dict:
+def build_edge_dicts(root: Path) -> list[dict]:
+    """Scan the sources and return one edge object per (source section, target) pair."""
     sources = source_markdown_files(root)
     source_ids = {path.relative_to(root).as_posix() for path in sources}
     manifests = {
@@ -94,15 +99,12 @@ def build_payload(root: Path) -> dict:
         row = dict(meta[key])
         row["count"] = count
         edges.append(row)
-    return {
-        "$schema": "../schemas/section_crossref.schema.json",
-        "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-        "status": "process_support_not_binding",
-        "cannot_narrow_core": True,
-        "description": "Source-derived section-to-section Markdown reference graph.",
-        "edge_count": len(edges),
-        "edges": edges,
-    }
+    return edges
+
+
+def build_payload(root: Path) -> dict:
+    generated_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    return build_payload_from_edges(build_edge_dicts(root), generated_at)
 
 
 def main() -> int:
@@ -111,9 +113,7 @@ def main() -> int:
     output = root / args.output
     output.parent.mkdir(parents=True, exist_ok=True)
     payload = build_payload(root)
-    output.write_text(
-        json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
-    )
+    output.write_text(dumps_payload(payload), encoding="utf-8")
     print(f"Wrote section crossref ({payload['edge_count']} edges) to {output}")
     return 0
 

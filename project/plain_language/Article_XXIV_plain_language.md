@@ -4,7 +4,7 @@
 
 *Your right to know what really went wrong, and to have it fixed at the source.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXIV](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXIV](../../core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 
@@ -122,8 +122,8 @@ The whole constitution uses four checks. Here's how each one applies to this art
 
 ### How this fits with other articles
 
-- **Checking and challenging** findings is covered by [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (independent checks and openness) and [Article XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (challenging systems and getting things fixed). Root-cause records must stay open to both.
-- **Recovery and undoing mistakes** is covered by [Article XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility). Automatic recovery must not erase the evidence this article needs.
+- **Checking and challenging** findings is covered by [Article XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (independent checks and openness) and [Article XIII](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (challenging systems and getting things fixed). Root-cause records must stay open to both.
+- **Recovery and undoing mistakes** is covered by [Article XVII](../../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility). Automatic recovery must not erase the evidence this article needs.
 - **Understanding complicated systems** is covered by [Article XXIII](Article_XXIII_plain_language.md). Complexity can't be used to hide a cause from the people trying to find it.
 - **Detailed rules for systems** are in a companion document (called **CS-8**), which covers how shared resources and funding should respond to a diagnosed cause. It can't water down anything stated here.
 
