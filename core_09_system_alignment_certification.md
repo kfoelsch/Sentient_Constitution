@@ -114,7 +114,12 @@
 
 <br>
 
-Read **Part A** first for the process overview, system class, and evaluation requirements; **Part B** for the forum process, the outcome and go-live gate, the record, the challenge path, recertification and reopening, and the standing bridge; **Part C** when you want to see the evaluation applied to concrete Class A, B, and C systems; and **Part D** when the subject is an institution and not a system.
+Read:
+
+- **Part A** first, for the process overview, system class, and evaluation requirements.
+- **Part B** for the forum process, the outcome and go-live gate, the record, the challenge path, recertification and reopening, and the standing bridge.
+- **Part C** when you want to see the evaluation applied to concrete Class A, B, and C systems.
+- **Part D** when the subject is an institution and not a system.
 Under the **oversight** Tetrad leg, oversight requires auditing; Chapter Nine is one especially large, high-stakes audit process among others (forum-supervised alignment review with certification outcomes). Auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05_band_oversight.md#auditability).
 - [Chapter Nine, Part A — Evaluation](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 - [Chapter Nine, Part B — Record and Process](core_09_b_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--record-and-process)

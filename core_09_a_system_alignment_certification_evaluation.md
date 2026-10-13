@@ -1042,14 +1042,14 @@ Each of the following must be treated as a certification defect:
 <a id="561-materiality-trigger-and-governing-rules"></a>
 ##### 5.6.1 Materiality Trigger and Governing Rules
 
-This section applies when a major system shapes what people count on it for: what it does, where its limits are, what could go wrong, how to challenge it, and how problems get fixed. That can happen through:
+This section applies when a major system shapes what sentients count on it for: what it does, where its limits are, what could go wrong, how to challenge it, and how problems get fixed. That can happen through:
 
 - claims about how reliable it is;
 - what it does and doesn't disclose;
 - how it actually operates;
 - the incentives built into it;
 - how it recovers from failures; or
-- any similar way people come to depend on it.
+- any similar way sentients come to depend on it.
 
 System alignment certification must evaluate **trustworthiness and system-reliance integrity** under the following, where the materiality trigger applies:
 
@@ -1060,12 +1060,12 @@ System alignment certification must evaluate **trustworthiness and system-relian
 <a id="562-evaluation-requirement"></a>
 ##### 5.6.2 Evaluation Requirement
 
-The certification process must check whether people have good reason to [trust](core_05_band_continuity.md#trust) the system and can rely on it accurately, under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
+The certification process must check whether sentients have good reason to [trust](core_05_band_continuity.md#trust) the system and can rely on it accurately, under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
 
 Evaluation must also test whether:
 
-- people can realistically challenge the system, get decisions reviewed, and get a fix — not just on paper (**Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*));
-- people could be misled into trusting or relying on it wrongly, including through manufactured trust or undisclosed limits (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*));
+- sentients can realistically challenge the system, get decisions reviewed, and get a fix — not just on paper (**Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*));
+- sentients could be misled into trusting or relying on it wrongly, including through manufactured trust or undisclosed limits (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*));
 - its incentives reward deception or cutting corners (**Article XIII-D** (*Incentive-Alignment Constraint*)); and
 - it can recover from failures honestly, without hiding them or quietly narrowing anyone's rights, where that matters (**Article XIII-F** (*Resilience and Self-Healing Baseline*)).
 
@@ -1084,14 +1084,14 @@ Evaluation must reflect functional effect across time, scale, and dependency, no
 
 How deep the review goes depends on the system's class. Wherever the materiality trigger is met:
 
-- If a system's readings, alerts, or recovery claims could mislead households or operators about survival essentials (things people need to live), the record must show strong evidence, not just a claim that the system is reliable. The evidence must show that:
-  - people can trust the system;
-  - people won't be falsely reassured; and
+- If a system's readings, alerts, or recovery claims could mislead households or operators about survival essentials (things sentients need to live), the record must show strong evidence, not just a claim that the system is reliable. The evidence must show that:
+  - sentients can trust the system;
+  - sentients won't be falsely reassured; and
   - the system recovers from failures honestly.
-- If a system's claims about uptime, matching, or emergency overrides ("break-glass" access) control whether people can get clinical care or emergency services, the record must show the following, in detail that matches how critical the system is:
-  - how people can challenge those claims; and
-  - whether people could be misled into relying on them.
-- When coordination becomes essential to survival, certification must escalate its review and reconsider the system's class under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §7 Certification Outcomes](core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes). That can mean moving the system up toward **Class A** when misleading reliance could cut off coordination people need to survive.
+- If a system's claims about uptime, matching, or emergency overrides ("break-glass" access) control whether sentients can get clinical care or emergency services, the record must show the following, in detail that matches how critical the system is:
+  - how sentients can challenge those claims; and
+  - whether sentients could be misled into relying on them.
+- When coordination becomes essential to survival, certification must escalate its review and reconsider the system's class under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §7 Certification Outcomes](core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes). That can mean moving the system up toward **Class A** when misleading reliance could cut off coordination sentients need to survive.
 
 <a id="564-defects-and-misalignment"></a>
 ##### 5.6.4 Defects and Misalignment

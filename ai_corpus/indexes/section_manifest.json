@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-13T19:51:00+00:00",
+  "generated_at": "2026-10-13T21:05:33+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -630,6 +630,20 @@
         {"header":"Measuring Constitutional Performance (Preamble measurement family)","level":3,"line_start":31,"line_end":56,"anchor":"#performance-measurement-family"}
       ]
     },
+    "core_07_charters.md": {
+      "total_lines": 417,
+      "sections": [
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":417,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":91,"line_end":118,"anchor":"#1-purpose-scope-and-owner-boundary"},
+        {"header":"2. When System and Institutional Charters Are Required","level":3,"line_start":119,"line_end":157,"anchor":"#2-when-system-and-institutional-charters-are-required"},
+        {"header":"3. What System and Institutional Charters Must State","level":3,"line_start":158,"line_end":202,"anchor":"#3-what-system-and-institutional-charters-must-state"},
+        {"header":"4. Amendment, Review, and Scope Misalignment","level":3,"line_start":203,"line_end":236,"anchor":"#4-amendment-review-and-scope-misalignment"},
+        {"header":"5. What System and Institutional Charters Cannot Do","level":3,"line_start":237,"line_end":261,"anchor":"#5-what-system-and-institutional-charters-cannot-do"},
+        {"header":"6. The Charter Role Map and Standing-Record Custody","level":3,"line_start":262,"line_end":296,"anchor":"#6-the-charter-role-map-and-standing-record-custody"},
+        {"header":"7. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":297,"line_end":386,"anchor":"#7-formation-check-office-holder-standing-and-authenticity"},
+        {"header":"8. Relationship to Other Chapters","level":3,"line_start":387,"line_end":417,"anchor":"#8-relationship-to-other-chapters"}
+      ]
+    },
     "core_08_functional_independence_segregation_of_duties.md": {
       "total_lines": 384,
       "sections": [
@@ -783,9 +797,9 @@
       ]
     },
     "core_09_system_alignment_certification.md": {
-      "total_lines": 123,
+      "total_lines": 128,
       "sections": [
-        {"header":"CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)","level":1,"line_start":2,"line_end":123,"anchor":"#chapter-nine-system-alignment-certification-index"}
+        {"header":"CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)","level":1,"line_start":2,"line_end":128,"anchor":"#chapter-nine-system-alignment-certification-index"}
       ]
     },
     "core_10_standing_assessment.md": {
@@ -1141,9 +1155,9 @@
       ]
     },
     "core_06_rights_part_e.md": {
-      "total_lines": 566,
+      "total_lines": 570,
       "sections": [
-        {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":566,"anchor":null},
+        {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":570,"anchor":null},
         {"header":"Part E: Conflict resolution, review, constitutional evolution, and transition","level":3,"line_start":19,"line_end":60,"anchor":null},
         {"header":"Article XXVI: Timely Retrospective Review and Restorative Alignment","level":3,"line_start":61,"line_end":237,"anchor":null},
         {"header":"Article XXVI-A: Retrospective Review and Disclosure","level":4,"line_start":119,"line_end":155,"anchor":null},
@@ -1152,11 +1166,11 @@
         {"header":"Article XXVII: Constitutional Evolution and Non-Entrenchment","level":3,"line_start":238,"line_end":321,"anchor":null},
         {"header":"Article XXVII-A: Non-Entrenchment and Revisability","level":4,"line_start":258,"line_end":288,"anchor":null},
         {"header":"Article XXVII-B: Periodic Revalidation and Transparent Change","level":4,"line_start":289,"line_end":321,"anchor":null},
-        {"header":"Article XXVIII: Transition Governance, Continuity, and Re-Baselining","level":3,"line_start":322,"line_end":566,"anchor":null},
+        {"header":"Article XXVIII: Transition Governance, Continuity, and Re-Baselining","level":3,"line_start":322,"line_end":570,"anchor":null},
         {"header":"Article XXVIII-A: Phased Adoption and Rights-Floor Continuity","level":4,"line_start":356,"line_end":433,"anchor":"#article-xxviii-a-phased-adoption-and-rightsfloor-minimums-continuity"},
         {"header":"Article XXVIII-B: Transitional Authority Limits and Reauthorization","level":4,"line_start":434,"line_end":475,"anchor":"#incentive-alignment-transition-carve-out"},
         {"header":"Article XXVIII-C: Failure Off-Ramps, Re-Baselining, and Traceability","level":4,"line_start":476,"line_end":512,"anchor":null},
-        {"header":"Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives","level":4,"line_start":513,"line_end":566,"anchor":"#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"}
+        {"header":"Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives","level":4,"line_start":513,"line_end":570,"anchor":"#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"}
       ]
     },
     "core_14_governance.md": {
@@ -1870,14 +1884,14 @@
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
-      "total_lines": 405,
+      "total_lines": 411,
       "sections": [
-        {"header":"CI-14: Transitional governance and institutional evolution","level":1,"line_start":1,"line_end":405,"anchor":null},
-        {"header":"CI-14.1: Interface — **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)","level":2,"line_start":79,"line_end":107,"anchor":"#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives"},
-        {"header":"CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements","level":2,"line_start":108,"line_end":155,"anchor":"#ci-142-article-xxviii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"},
-        {"header":"CI-14.3: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements","level":2,"line_start":156,"line_end":227,"anchor":"#ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements"},
-        {"header":"CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication","level":2,"line_start":228,"line_end":357,"anchor":"#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication"},
-        {"header":"CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets","level":2,"line_start":358,"line_end":405,"anchor":"#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets"}
+        {"header":"CI-14: Transitional governance and institutional evolution","level":1,"line_start":1,"line_end":411,"anchor":null},
+        {"header":"CI-14.1: Interface — **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)","level":2,"line_start":83,"line_end":113,"anchor":"#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives"},
+        {"header":"CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements","level":2,"line_start":114,"line_end":161,"anchor":"#ci-142-article-xxviii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"},
+        {"header":"CI-14.3: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements","level":2,"line_start":162,"line_end":233,"anchor":"#ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements"},
+        {"header":"CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication","level":2,"line_start":234,"line_end":363,"anchor":"#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication"},
+        {"header":"CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets","level":2,"line_start":364,"line_end":411,"anchor":"#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets"}
       ]
     },
     "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md": {

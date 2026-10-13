@@ -101,6 +101,11 @@
       "status": "present"
     },
     {
+      "file": "core_07_charters.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
       "file": "core_08_functional_independence_segregation_of_duties.md",
       "label": "core",
       "status": "present"

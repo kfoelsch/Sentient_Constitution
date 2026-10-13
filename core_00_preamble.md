@@ -258,14 +258,14 @@ Each summary below states what the chapter owns and what it produces.
 
 This section summarizes the two floors that every later process relies on and what each produces.
 
-**Chapter Seven — System and Institutional Charters and published scope**
+**Chapter Seven — System and Institutional Charters**
 
 - **What it owns:** The floor for the published scope instrument of a system or institution:
   - which systems and institutions of Class L or higher must publish a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter);
   - the minimum a System Charter or Institutional Charter must state, including the [Charter Role Map](core_05_band_continuity.md#charter-role-map) and pointers to the published binding stakeholder-choice rules;
   - how a System Charter or Institutional Charter is amended and reviewed so that scope does not change silently; and
   - what a System Charter or Institutional Charter cannot do: set class, define the boundary, replace certification, carry decision rules, or grant authority.
-- **What it produces:** A published, versioned statement of scope and seat placement that [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties), certification, standing records, and forums can test behavior against. Chapter Seven is at [`core_07_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters-and-published-scope).
+- **What it produces:** A published, versioned statement of scope and seat placement that [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties), certification, standing records, and forums can test behavior against. Chapter Seven is at [`core_07_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters).
 
 **Chapter Eight — Functional independence and segregation of duties**
 
@@ -323,7 +323,7 @@ flowchart TB
 
 *In plain terms: Chapters Nine through Thirteen apply Chapter Eight's separation-of-duties floor in one chain: certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.*
 
-[Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters-and-published-scope) publishes the scope and the seat map of each system and institution of Class L or higher. [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) supplies the independence floor that makes every act in this chain validly checkable. It requires the functions of initiation, verification or authorization, official record custody, and challenge review to be assigned and kept distinct under the applicable scaling and independence rules. Chapters Nine through Thirteen then apply that architecture in sequence:
+[Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters) publishes the scope and the seat map of each system and institution of Class L or higher. [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) supplies the independence floor that makes every act in this chain validly checkable. It requires the functions of initiation, verification or authorization, official record custody, and challenge review to be assigned and kept distinct under the applicable scaling and independence rules. Chapters Nine through Thirteen then apply that architecture in sequence:
 
 - **Chapter Nine** uses independent verification to decide whether a materially impactful system is aligned enough to certify, rely on, deploy, or release from conditions within a stated scope and time window.
 - **Chapter Ten** takes the verified facts and records them on separate Contribution and Violation axes. Verified contribution toward flourishing does not offset, cancel, or reduce a separately verified harm or accountability failure; each remains recorded and subject to its own consequences.
@@ -343,7 +343,7 @@ The chapter summaries in Sections 4 through 9 make the division of labor explici
 
 ```mermaid
 flowchart TB
-    H["Chapter Seven<br/><br/>System and Institutional<br/>Charters: published scope<br/>and seat map"]
+    H["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
     D["Chapter Eight<br/><br/>Functional independence<br/>and segregation of duties"]
     S["Chapter Nine<br/><br/>System alignment certification"]
     subgraph Q["Chapter Ten · standing records"]
