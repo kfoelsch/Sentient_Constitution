@@ -417,7 +417,7 @@
     {
       "id": "CJS-R22",
       "topic": "Standing-record custody, opening authority, and segregation of duties",
-      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) (*CI-3.2 lane map \u2014 the fallback when a Charter is silent; CI-3.6 Charter field \u2014 standing-record custody*)",
+      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) (*CI-3.2 lane map \u2014 the fallback when a System Charter or Institutional Charter is silent; CI-3.6 System Charter or Institutional Charter field \u2014 standing-record custody*)",
       "primary_attach": [
         "CI-3"
       ]
@@ -486,7 +486,7 @@
     {
       "id": "CJS-R22",
       "topic": "Standing-record custody, opening authority, and segregation of duties",
-      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) (*CI-3.2 lane map \u2014 the fallback when a Charter is silent; CI-3.6 Charter field \u2014 standing-record custody*)",
+      "primary_owner": "[**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) (*CI-3.2 lane map \u2014 the fallback when a System Charter or Institutional Charter is silent; CI-3.6 System Charter or Institutional Charter field \u2014 standing-record custody*)",
       "primary_attach": [
         "CI-3"
       ]

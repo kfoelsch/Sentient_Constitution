@@ -31,7 +31,7 @@ The clerk log says: “Portal not used. No valid filing. Read the Constitution f
 
 Remy disputes abandonment. Remy wants a door that works in language Remy can actually use, a live challenge, a published clock, and restoration capacity that is not only a policy page. Remy asks whether hiding the home is still a refusal, and whether this desk can be the only final home after it forwarded Remy in a circle. Remy also wants the preferred billing clerk fired this week.
 
-No forum has verified a violation. The adopter’s Charter is silent on who owns a 404’d challenge path. The six prior offices are not parties except as hops in the letter.
+No forum has verified a violation. The adopter’s System Charter or Institutional Charter is silent on who owns a 404’d challenge path. The six prior offices are not parties except as hops in the letter.
 
 ## Parties and stated stakes
 

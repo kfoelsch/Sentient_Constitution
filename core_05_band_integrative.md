@@ -212,7 +212,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 <br>
 
-*In plain terms: the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.*
+*In plain terms: the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.*
 
 - **What it is**
   - **In scope:** The rule, chosen and published by the adopter, that authorizes **governing authority** — the power to make or enforce decisions that materially affect sentients. It states:

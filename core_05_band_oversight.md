@@ -883,16 +883,16 @@ See **Anti-Segmentation Principle**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B §9.3 Type O (open, public oversight baseline disclosure data)](corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Chapter Nine §3.4](core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Nine Part B §8](core_09_b_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [Chapter Nine Part B §8.2](core_09_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Record integrity: transparency and auditability*) and [§9.1](core_09_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*Challenging a certification*).
-- Read with: [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), [Charter](core_05_band_continuity.md#charter), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
+- Read with: [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), [System Charter](core_05_band_continuity.md#system-charter), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
 
 <br>
 
-*In plain terms: the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.*
+*In plain terms: the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.*
 
 - **What it is**
-  - **In scope:** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Coverage follows the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05_band_continuity.md#system-boundaries). It includes what sentients need to understand:
+  - **In scope:** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Coverage follows the governing [System Charter](core_05_band_continuity.md#system-charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05_band_continuity.md#system-boundaries). It includes what sentients need to understand:
     - purpose and what the system does;
     - how it is classified;
     - dependency structure and what depends on it;
@@ -902,7 +902,7 @@ See **Anti-Segmentation Principle**.
     - stakeholder effects; and
     - how aligned it is with this Constitution.
   - **Class A/B/C Type O instruments:** Where the **Type O** baseline applies for **Class A**, **Class B**, or **Class C**, that floor includes — at public-baseline fidelity, including lawful substitutes — publication or a usable public view of:
-    - the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument);
+    - the governing [System Charter](core_05_band_continuity.md#system-charter) (or equivalent published scope instrument);
     - the [System Classification Record](core_05_band_continuity.md#system-classification-record);
     - the [System Data Types Record](core_05_band_continuity.md#system-data-types-record); and
     - the [System Certification Record](core_05_band_continuity.md#system-certification-record) produced by [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), including material governance and audit outcomes required for baseline visibility.
@@ -927,8 +927,8 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **Primary assessment:** Compare published disclosure to certified scope from [Charter](core_05_band_continuity.md#charter), assigned class, and [System Boundaries](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7 type O baseline for Class A/B/C systems](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)**, confirm:
-    - a usable public view of the [Charter](core_05_band_continuity.md#charter), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), and [System Certification Record](core_05_band_continuity.md#system-certification-record) (or required contents) at public-baseline fidelity;
+    **Primary assessment:** Compare published disclosure to certified scope from [System Charter](core_05_band_continuity.md#system-charter), assigned class, and [System Boundaries](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7 type O baseline for Class A/B/C systems](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)**, confirm:
+    - a usable public view of the [System Charter](core_05_band_continuity.md#system-charter), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), and [System Certification Record](core_05_band_continuity.md#system-certification-record) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
     - that lawful substitutes still support meaningful accountability and [Contestability](core_05_band_accountability.md#contestability); and
     - that free online availability holds where lawful publication infrastructure exists.
@@ -938,7 +938,7 @@ See **Anti-Segmentation Principle**.
     - thin summaries;
     - audit-only substitution;
     - coverage gaps against certified scope;
-    - missing or non-usable public views of required Charter, classification, data-types, or certification records;
+    - missing or non-usable public views of required System Charter, classification, data-types, or certification records;
     - missing baseline visibility into performance, failures, stakeholder effects, or material risk; and
     - hold-backs that hide systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
 <a id="public-oversight-baseline-disclosure-c"></a>
@@ -948,7 +948,7 @@ See **Anti-Segmentation Principle**.
     - non-public **Type G** audit access, paywalls, or performative summaries used as the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access;
-    - omitting a usable public view of the [Charter](core_05_band_continuity.md#charter), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), or [System Certification Record](core_05_band_continuity.md#system-certification-record) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7 type O baseline for Class A/B/C systems](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)**; or
+    - omitting a usable public view of the [System Charter](core_05_band_continuity.md#system-charter), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), or [System Certification Record](core_05_band_continuity.md#system-certification-record) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7 type O baseline for Class A/B/C systems](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)**; or
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
   - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 (*Information types and handling*) and [Transparency](core_05_band_oversight.md#transparency).
 
@@ -1138,13 +1138,13 @@ See **Anti-Segmentation Principle**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: Oversight measurement family (*evaluation coverage as constitutional measurement*); [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*SAC whole-system evaluation*); [Chapter Nine Part B §8.1](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
-- Read with: [Auditability](core_05_band_oversight.md#auditability), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [Charter](core_05_band_continuity.md#charter), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [Materiality](core_05_band_oversight.md#materiality), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [System Creation](core_05_band_participation.md#system-creation), and [Business Creation](core_05_band_participation.md#business-creation).
+- Read with: [Auditability](core_05_band_oversight.md#auditability), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Charter](core_05_band_continuity.md#system-charter), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [Materiality](core_05_band_oversight.md#materiality), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [System Creation](core_05_band_participation.md#system-creation), and [Business Creation](core_05_band_participation.md#business-creation).
 
 </details>
 
 <br>
 
-*In plain terms: do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A Charter states intended scope; certification checks that the hard paths were actually evaluated.*
+*In plain terms: do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A System Charter states intended scope; certification checks that the hard paths were actually evaluated.*
 
 - **What it is**
   - **In scope:** A constraint that evaluation and assurance work must cover materially plausible risk pathways before compliance claims rest on selectively narrow scenario sets, including:
@@ -1153,10 +1153,10 @@ See **Anti-Segmentation Principle**.
     - interaction; and
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
-  - **Charter and scope process:** Where a governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that scope. Charter text does not shrink the risk pathways that must be evaluated.
+  - **System and Institutional Charter scope process:** Where a governing [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that scope. System Charter or Institutional Charter text does not shrink the risk pathways that must be evaluated.
   - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) runs, this constraint is part of what certification must verify under [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) — including chartered-scope-versus-functional-boundary checks under [Chapter Nine §3.1 Systemic Scope and Risk Factors](core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*). Findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record).
   - **Out of scope:**
-    - [Charter](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
+    - [System Charter](core_05_band_continuity.md#system-charter) text as a scope instrument alone — a System Charter states intended scope; it is not itself evaluation coverage;
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
     - ordinary unit or feature tests that are not offered as complete constitutional evaluation.
 <a id="evaluation-completeness-constraint-a"></a>
@@ -1169,7 +1169,7 @@ See **Anti-Segmentation Principle**.
     - interaction; and
     - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
     Also ask:
-      - where a [Charter](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
+      - where a [System Charter](core_05_band_continuity.md#system-charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the System Charter as a complete scenario list; and
       - where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) runs, whether whole-system evaluation and record findings under [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§4 Evaluations Where Implicated](core_09_a_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), and [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **What must hold**
@@ -1177,7 +1177,7 @@ See **Anti-Segmentation Principle**.
     - selective demo scenarios or marketing test suites used as complete evaluation while plausible failure, misuse, interaction, or adversarial pathways remain skipped;
     - incomplete or selectively scoped evaluation that defeats [Materiality](core_05_band_oversight.md#materiality), [Auditability](core_05_band_oversight.md#auditability), or [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity); or
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) treated as the only context in which evaluation completeness applies.
-  - **Secondary failure:** Charter text, institutional mandate language, business-purpose statements, or a narrow certification demo suite used as complete evaluation while any of the following remain unevaluated:
+  - **Secondary failure:** System Charter text, institutional mandate language, business-purpose statements, or a narrow certification demo suite used as complete evaluation while any of the following remain unevaluated:
     - failure;
     - misuse;
     - interaction; or

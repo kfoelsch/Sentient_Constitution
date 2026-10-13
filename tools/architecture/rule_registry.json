@@ -194,7 +194,7 @@
     {
       "id": "CH7-NEST-CANDIDATE",
       "legacy_ref": "Chapter Seven nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Seven Charter bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Seven System Charter and Institutional Charter bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch7-nested-list-candidates",
       "status": "advisory"
     },

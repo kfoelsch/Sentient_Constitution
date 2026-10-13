@@ -395,7 +395,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Canonical owner: [Chapter Nine — System Alignment Certification](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream: [Chapter Ten — Standing records and verified-input gate](core_10_standing_assessment.md#2-question-1--what-happened); [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*); [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
-- Read with: [System Certification Record](core_05_band_continuity.md#system-certification-record); [System Classification Record](core_05_band_continuity.md#system-classification-record); [System Data Types Record](core_05_band_continuity.md#system-data-types-record); [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support) where shared-infrastructure reliance or **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource stewardship is materially implicated; [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Timely Resolution](core_05_band_accountability.md#timely-resolution), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [System Boundaries](core_05_band_continuity.md#system-boundaries), [Charter](core_05_band_continuity.md#charter), [System Capture](core_05_band_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**, and [Recertification](core_05_band_continuity.md#recertification).
+- Read with: [System Certification Record](core_05_band_continuity.md#system-certification-record); [System Classification Record](core_05_band_continuity.md#system-classification-record); [System Data Types Record](core_05_band_continuity.md#system-data-types-record); [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support) where shared-infrastructure reliance or **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource stewardship is materially implicated; [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Timely Resolution](core_05_band_accountability.md#timely-resolution), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Charter](core_05_band_continuity.md#system-charter), [System Capture](core_05_band_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**, and [Recertification](core_05_band_continuity.md#recertification).
 
 </details>
 
@@ -493,7 +493,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Canonical owner: [Chapter Nine Part B §8 — System Certification Record](core_09_b_system_alignment_certification_record_process.md#8-system-certification-record) (*minimum contents and record integrity*); read with [Chapter Nine Part A §5](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*Rights-Floor non-substitution*), [Part B §6](core_09_b_system_alignment_certification_record_process.md#6-forum-process) (*forum process, supervisory sequence, and contestability chain*), [§7](core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*outcomes, reopening, and non-evasion*), and [§10](core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing) (*standing-record bridge*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream: [Chapter Ten — Standing records and verified-input gate](core_10_standing_assessment.md#2-question-1--what-happened); [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*forum supervision and reopening*).
-- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication), and [Charter](core_05_band_continuity.md#charter), and [Recertification](core_05_band_continuity.md#recertification).
+- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication), and [System Charter](core_05_band_continuity.md#system-charter), and [Recertification](core_05_band_continuity.md#recertification).
 
 </details>
 
@@ -577,7 +577,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Canonical incorporation owner: [Chapter Nine §2 — System Class Evaluation](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §8.1](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream: [System Certification Record](core_05_band_continuity.md#system-certification-record); [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md) **CF-7.2** (*Constitutional alignment certification and review*).
-- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification); [System Data Types Record](core_05_band_continuity.md#system-data-types-record); [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance); [Material Impact](core_05_band_oversight.md#material-impact); [Dependency](core_05_band_continuity.md#dependency); [Risk](core_05_band_continuity.md#risk); [System Boundaries](core_05_band_continuity.md#system-boundaries); [Charter](core_05_band_continuity.md#charter); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [Standing Record](core_05_band_accountability.md#standing-record).
+- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification); [System Data Types Record](core_05_band_continuity.md#system-data-types-record); [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance); [Material Impact](core_05_band_oversight.md#material-impact); [Dependency](core_05_band_continuity.md#dependency); [Risk](core_05_band_continuity.md#risk); [System Boundaries](core_05_band_continuity.md#system-boundaries); [System Charter](core_05_band_continuity.md#system-charter); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [Standing Record](core_05_band_accountability.md#standing-record).
 
 </details>
 
@@ -599,7 +599,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Out of scope:**
     - the full [System Certification Record](core_05_band_continuity.md#system-certification-record);
     - a [Standing Record](core_05_band_accountability.md#standing-record), standing effect, or merged merit score;
-    - [Charter](core_05_band_continuity.md#charter) text alone; or
+    - [System Charter](core_05_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this dual-axis classification record.
   - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-3 (*System classification machinery*); incorporation into certification records is stated in [Chapter Nine §2 System Class Evaluation](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §8.1](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents); this entry is the Chapter Five meaning only.
@@ -609,7 +609,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     **Primary assessment:** Evaluate whether:
     1. the record states both dual-axis findings required by CS-3 (*System classification machinery*) — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
-    2. classification follows observed and reasonably foreseeable effects under [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), not declared intent, [Charter](core_05_band_continuity.md#charter) text alone, or self-description alone;
+    2. classification follows observed and reasonably foreseeable effects under [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), not declared intent, [System Charter](core_05_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or recertification triggers are stated and independently reviewable; and
     4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) runs, the System Classification Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record) under [Chapter Nine §2 System Class Evaluation](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §8.1](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents).
 <a id="system-classification-record-constitutional-c"></a>
@@ -617,7 +617,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Primary failure:**
     - understating class below observed and reasonably foreseeable effects;
     - collapsing impact class and dependency type into one finding; or
-    - [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Classification Record;
+    - [System Charter](core_05_band_continuity.md#system-charter) text, vendor attestation, or self-description offered as the System Classification Record;
   - **Secondary failure:**
     - missing System Classification Record for a material-impact system under CS-3 (*System classification machinery*); or
     - omitting the System Classification Record from a materially impactful [System Certification Record](core_05_band_continuity.md#system-certification-record) when SAC runs;
@@ -638,7 +638,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Canonical incorporation owner: [Chapter Nine §3.4 — Data Types and Handling Evaluation](core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Part B §8.1](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream: [System Certification Record](core_05_band_continuity.md#system-certification-record); [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md) **CF-7.2** (*Constitutional alignment certification and review*).
-- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification); [System Classification Record](core_05_band_continuity.md#system-classification-record); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure); [Attributable Action](core_05_band_accountability.md#attributable-action); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity); [Charter](core_05_band_continuity.md#charter); [System Boundaries](core_05_band_continuity.md#system-boundaries); [Standing Record](core_05_band_accountability.md#standing-record).
+- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification); [System Classification Record](core_05_band_continuity.md#system-classification-record); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure); [Attributable Action](core_05_band_accountability.md#attributable-action); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity); [System Charter](core_05_band_continuity.md#system-charter); [System Boundaries](core_05_band_continuity.md#system-boundaries); [Standing Record](core_05_band_accountability.md#standing-record).
 
 </details>
 
@@ -659,7 +659,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - the most recent periodic data-type re-evaluation (date or cycle identifier, cadence, and any material retypes);
     - any justified restrictions on disclosure or audit access together with their public substitutes where CS-2 (*Information types and handling*) requires them; and
     - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope:
-      - [Charter](core_05_band_continuity.md#charter) fields relied on;
+      - [System Charter](core_05_band_continuity.md#system-charter) fields relied on;
       - boundary findings; and
       - any coverage gaps or conditions.
   - It must be forum-inspectable without relying on operator self-description alone.
@@ -667,7 +667,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Out of scope:**
     - the full [System Certification Record](core_05_band_continuity.md#system-certification-record);
     - a [Standing Record](core_05_band_accountability.md#standing-record), standing effect, or merged merit score;
-    - [Charter](core_05_band_continuity.md#charter) text alone; or
+    - [System Charter](core_05_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this data-types record.
   - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-2 (*Information types and handling*); incorporation into certification records is stated in [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Part B §8.1](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents); this entry is the Chapter Five meaning only.
@@ -677,14 +677,14 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     **Primary assessment:** Evaluate whether:
     1. the record states the data types materially in scope; the purpose, recipients, and basis for each; the derived or inferred data the system produces; and the handling, separation, lifecycle, and attribution posture required by CS-2 (*Information types and handling*);
-    2. typing follows functional effect under CS-2 (*Information types and handling*) and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), not declared intent, [Charter](core_05_band_continuity.md#charter) text alone, or self-description alone;
+    2. typing follows functional effect under CS-2 (*Information types and handling*) and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), not declared intent, [System Charter](core_05_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale for ambiguous or multi-type data, the most recent periodic re-evaluation, justified disclosure restrictions with public substitutes, and Type O coverage where applicable are stated and independently reviewable; and
     4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) runs, the System Data Types Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record) under [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Part B §8.1](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents).
 <a id="system-data-types-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - understating type or handling below observed and reasonably foreseeable effects;
-    - [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Data Types Record; or
+    - [System Charter](core_05_band_continuity.md#system-charter) text, vendor attestation, or self-description offered as the System Data Types Record; or
     - type inventory collapsed into a marketing label;
   - **Secondary failure:**
     - a restricted or non-accessible type recorded without its purpose, recipients, basis, or derived data;
@@ -2708,7 +2708,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - **Joint invocation:** where what counts as the system, where its edges are drawn, what published scope instruments claim authority for, or whether exit or corrective action has been cut off, is material.
 - **Scope:** where joint invocation is met, how the Constitution judges and limits systems — by looking at everything a system actually does (full functional scope), and whether sentients still have real ways to change it or leave it.
-- **Floor protection:** drawing boundaries or framing a [Charter](core_05_band_continuity.md#charter) must not shrink that full-scope look, or defeat [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or [Contestability](core_05_band_accountability.md#contestability).
+- **Floor protection:** drawing boundaries or framing a [System Charter](core_05_band_continuity.md#system-charter) must not shrink that full-scope look, or defeat [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or [Contestability](core_05_band_accountability.md#contestability).
 
 **Topic group members.** This group comprises:
 - [System](core_05_band_continuity.md#system) — structured technical, organizational, and governance components producing effects on sentients, environments, or other systems;
@@ -2716,8 +2716,10 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) — accuracy and stability in boundary definition against manipulation or silent exclusion;
 - [Process](core_05_band_continuity.md#process) — a repeatable sequence of steps, decisions, records, clocks, or handoffs by which a duty is carried out, judged as part of its system;
 - [Institution](core_05_band_continuity.md#institution) — a durable holder of authority or of an organized role, defined by function and continuing through turnover of its occupants;
-- [Charter](core_05_band_continuity.md#charter) — the published, amendable scope instrument stating what a system, institution, or business claims authority to do, subject to periodic alignment review;
-- [Charter Role Map](core_05_band_continuity.md#charter-role-map) — the published, versioned placement of seats kept with a Charter, naming who may hold each seat, who substitutes, and the independent route;
+- [System Charter](core_05_band_continuity.md#system-charter) — the published, amendable scope instrument of one system, stating what it claims authority to do, subject to periodic alignment review;
+- [Institutional Charter](core_05_band_continuity.md#institutional-charter) — the published, amendable scope instrument of an institution that runs more than one system, holding their System Charters and the reason it runs them;
+- [Constitutional Charter](core_05_band_continuity.md#constitutional-charter) — the founding instrument by which a political community authorizes those who govern it, adopted with recorded assent;
+- [Charter Role Map](core_05_band_continuity.md#charter-role-map) — the published, versioned placement of seats kept with a System Charter or Institutional Charter, naming who may hold each seat, who substitutes, and the independent route;
 - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) — conditions where exit or corrective action is foreclosed, negating meaningful agency or contestability.
 
 *Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
@@ -2880,8 +2882,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
 - Downstream: [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (*duties follow the work through reorganization*); [corpus_institutions.md](corpus_institutions.md) (*institutional design, authority, and redress mechanics*).
 - Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
-- Read with: [System](core_05_band_continuity.md#system), [Process](core_05_band_continuity.md#process), [Charter](core_05_band_continuity.md#charter), [Governance](core_05_band_accountability.md#governance), [Stewardship](core_05_band_continuity.md#stewardship), [Institutional Development](core_05_band_continuity.md#institutional-development), [System Creation](core_05_band_participation.md#system-creation), [Business Creation](core_05_band_participation.md#business-creation), [Material Control Line](core_05_band_accountability.md#material-control-line), and [Attributable Action](core_05_band_accountability.md#attributable-action).
-- Distinguish: an Institution is defined here by its function, not by legal form or name. [Chapter Fourteen](core_14_governance.md) treaty, compact, or charter instruments that found a political community are a different matter. The mechanics of forming, staffing, supervising, and dissolving Institutions live in [corpus_institutions.md](corpus_institutions.md), not in this entry.
+- Read with: [System](core_05_band_continuity.md#system), [Process](core_05_band_continuity.md#process), [Institutional Charter](core_05_band_continuity.md#institutional-charter), [Governance](core_05_band_accountability.md#governance), [Stewardship](core_05_band_continuity.md#stewardship), [Institutional Development](core_05_band_continuity.md#institutional-development), [System Creation](core_05_band_participation.md#system-creation), [Business Creation](core_05_band_participation.md#business-creation), [Material Control Line](core_05_band_accountability.md#material-control-line), and [Attributable Action](core_05_band_accountability.md#attributable-action).
+- Distinguish: an Institution is defined here by its function, not by legal form or name. [Chapter Fourteen](core_14_governance.md) treaty, compact, or Constitutional Charter instruments that found a political community are a different matter. The mechanics of forming, staffing, supervising, and dissolving Institutions live in [corpus_institutions.md](corpus_institutions.md), not in this entry.
 
 </details>
 
@@ -2905,7 +2907,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     **Primary assessment:** Identify the Institution by what it actually decides, holds, and controls, not by its label or legal form. Find the mandate, the offices, the stewards, and the successor, and test whether:
     1. each use of authority can be attributed to an accountable office or steward;
-    2. the mandate shown in practice matches the published [Charter](core_05_band_continuity.md#charter) or equivalent instrument; and
+    2. the mandate shown in practice matches the published [Institutional Charter](core_05_band_continuity.md#institutional-charter) or equivalent instrument; and
     3. reorganizing, renaming, splitting, merging, or reincorporating the body leaves every duty that applied to it in place.
   - **Secondary measure:** [Governance](core_05_band_accountability.md#governance) and [Material Control Line](core_05_band_accountability.md#material-control-line) — co-measures that test who actually directs the body.
 
@@ -2918,27 +2920,27 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 ---
 
-<a id="charter"></a>
+<a id="system-charter"></a>
 
-#### Charter
+#### System Charter
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
-- Downstream: [Chapter Seven](core_07_charters.md#chapter-seven-charters-and-published-scope) (*when a Charter is required, what it states, how it changes, and what it cannot do*); [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (*certification record scope and reopening*); [Chapter Ten §3.7](core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*the Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*); [Chapter Thirteen §4.3](core_13_forum.md#43-institutional-forums) (*institutional mandate and supervised-scope disputes*); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) / **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*).
+- Downstream: [Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters-and-published-scope) (*when a System Charter is required, what it states, how it changes, and what it cannot do*); [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (*certification record scope and reopening*); [Chapter Ten §3.7](core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*the System Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*System and Institutional System and Institutional Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) / **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*).
 - Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
-- Read with: [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [Governance](core_05_band_accountability.md#governance), [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice), [System Creation](core_05_band_participation.md#system-creation), [Business Creation](core_05_band_participation.md#business-creation), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy).
-- Distinguish: Chapter Fourteen **treaty, compact, or charter** legitimacy-mechanism family ([core_14_governance.md](core_14_governance.md)) is about authorizing a political community to govern — not this published scope instrument. A Charter may **point to** published [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) process rules; it does not carry that process substance.
+- Read with: [System](core_05_band_continuity.md#system), [Institutional Charter](core_05_band_continuity.md#institutional-charter), [Charter Role Map](core_05_band_continuity.md#charter-role-map), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [Governance](core_05_band_accountability.md#governance), [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice), [System Creation](core_05_band_participation.md#system-creation), [Business Creation](core_05_band_participation.md#business-creation), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy).
+- Distinguish: a System Charter covers one System. An Institution that runs more than one System publishes an [Institutional Charter](core_05_band_continuity.md#institutional-charter), which contains the System Charters. The founding instrument of a political community is a [Constitutional Charter](core_05_band_continuity.md#constitutional-charter), a different thing. A System Charter may **point to** published [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) process rules; it does not carry that process substance.
 
 </details>
 
 <br>
 
-*In plain terms: a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.*
+*In plain terms: a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.*
 
 - **What it is**
-  - **In scope:** The published, amendable scope instrument for a [System](core_05_band_continuity.md#system), institution, business, or comparable stewarded organizational form. A Charter states:
+  - **In scope:** The published, amendable scope instrument for one [System](core_05_band_continuity.md#system), including a business or other stewarded organizational form that is itself a System. A System Charter states:
     - claimed purpose;
     - in-scope activities;
     - material out-of-scope limits;
@@ -2949,30 +2951,123 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - the **record-opening authority** and **record custodian** for [Standing Records](core_05_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](core_05_band_continuity.md#charter-role-map) carries as its entries for standing records ([Chapter Seven §6 The Charter Role Map and Standing-Record Custody](core_07_charters.md#6-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the chartered entity is itself the subject ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority)); and
     - where [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, **pointers** to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) participation-window / decision-path materials and the **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*) weighting publication file).
 
-    It supports institutional creation under [System Creation](core_05_band_participation.md#system-creation) and [Business Creation](core_05_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. The duty to publish a Charter, its minimum contents, and its amendment and review floor are stated in [Chapter Seven](core_07_charters.md#chapter-seven-charters-and-published-scope). Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Eighteen** incorporation discipline.
+    Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](core_05_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](core_05_band_participation.md#system-creation) and [Business Creation](core_05_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. The duty to publish a System Charter, its minimum contents, and its amendment and review floor are stated in [Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters-and-published-scope). Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Eighteen** incorporation discipline.
   - **Out of scope:**
-    - treaty, compact, or charter under Chapter Fourteen that found or authorize a political community (Chapter Fourteen instrument sense, not Chapter Five Charter);
+    - an [Institutional Charter](core_05_band_continuity.md#institutional-charter), which gathers the System Charters of an Institution that runs more than one System and states why it runs them;
+    - a [Constitutional Charter](core_05_band_continuity.md#constitutional-charter), the founding instrument of a political community;
     - ordinary marketing copy or mission slogans not offered as the published scope instrument; or
-    - the operative [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves — those live in the published governance / participation rules the Charter points to, under [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
-<a id="charter-a"></a>
+    - the operative [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves — those live in the published governance / participation rules the System Charter points to, under [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
+<a id="system-charter-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. a governing Charter exists where [Chapter Seven §2 When a Charter Is Required](core_07_charters.md#2-when-a-charter-is-required) requires one (a System or Institution of Class L or higher), or an equivalent published scope instrument is identified and reasoned;
+    1. a governing System Charter exists where [Chapter Seven §2 When System and Institutional Charters Are Required](core_07_charters.md#2-when-system-and-institutional-charters-are-required) requires one (a System of Class L or higher), or an equivalent published scope instrument is identified and reasoned;
     2. stated purpose and in-scope / out-of-scope limits are specific enough to test against observed operation;
     3. periodic-review cadence and amendment records match class, dependency, and risk;
     4. observed behavior, dependency, and impact remain within chartered scope — or material mismatch is disclosed and routed to amendment, recertification, or reopening;
-    5. Charter claims do not understate [System Boundaries](core_05_band_continuity.md#system-boundaries) defined by [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency); and
-    6. where binding stakeholder choice is in admission scope, the Charter points to usable published process rules rather than treating Charter text as a substitute for [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice); and
-    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the chartered entity's own [Material Control Line](core_05_band_accountability.md#material-control-line) for records in which the entity is the subject, and the independent route under [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority) is live; where the Charter is silent, the **CI-3.2** (*Functional separation lanes*) lane map places the seats in the meantime.
-<a id="charter-c"></a>
+    5. System Charter claims do not understate [System Boundaries](core_05_band_continuity.md#system-boundaries) defined by [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency); and
+    6. where binding stakeholder choice is in admission scope, the System Charter points to usable published process rules rather than treating its text as a substitute for [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice); and
+    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the chartered entity's own [Material Control Line](core_05_band_accountability.md#material-control-line) for records in which the entity is the subject, and the independent route under [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority) is live; where the System Charter is silent, the **CI-3.2** (*Functional separation lanes*) lane map places the seats in the meantime.
+<a id="system-charter-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - operating materially outside chartered scope while the Charter is offered as current authorization; or
-    - Charter text offered as a substitute for [System Boundaries](core_05_band_continuity.md#system-boundaries) or as proof of classification under CS-3 (*System classification machinery*);
-  - **Secondary failure:** a required Charter that has not been published, overdue periodic charter review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, a missing, dead, or stale Charter Role Map, or — where Def.P2 admission scope applies — missing or dead pointers to the published binding stakeholder-choice process rules;
-  - **Tertiary failure:** Charter text used to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](core_05_band_participation.md#system-creation) / [Business Creation](core_05_band_participation.md#business-creation) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
+    - operating materially outside chartered scope while the System Charter is offered as current authorization; or
+    - System Charter text offered as a substitute for [System Boundaries](core_05_band_continuity.md#system-boundaries) or as proof of classification under CS-3 (*System classification machinery*);
+  - **Secondary failure:** a required System Charter that has not been published, an overdue periodic review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, a missing, dead, or stale Charter Role Map, or — where Def.P2 admission scope applies — missing or dead pointers to the published binding stakeholder-choice process rules;
+  - **Tertiary failure:** System Charter text used to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](core_05_band_participation.md#system-creation) / [Business Creation](core_05_band_participation.md#business-creation) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
+
+---
+
+<a id="institutional-charter"></a>
+
+#### Institutional Charter
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
+- Downstream: [Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters-and-published-scope) (*when an Institutional Charter is required, what it states, how it changes, and what it cannot do*); [Chapter Ten §3.7](core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*the Institutional Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*); [Chapter Thirteen §4.3](core_13_forum.md#43-institutional-forums) (*institutional mandate and supervised-scope disputes*); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*System and Institutional System and Institutional Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) / **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*).
+- Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
+- Read with: [Institution](core_05_band_continuity.md#institution), [System Charter](core_05_band_continuity.md#system-charter), [Charter Role Map](core_05_band_continuity.md#charter-role-map), [System](core_05_band_continuity.md#system), [Governance](core_05_band_accountability.md#governance), [Material Control Line](core_05_band_accountability.md#material-control-line), [Business Creation](core_05_band_participation.md#business-creation), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
+- Distinguish: an Institution that runs exactly one System that needs a [System Charter](core_05_band_continuity.md#system-charter) does not publish a second document; its System Charter is its Institutional Charter. A [Constitutional Charter](core_05_band_continuity.md#constitutional-charter) founds or authorizes a political community; an Institutional Charter states what an Institution says it does.
+
+</details>
+
+<br>
+
+*In plain terms: an **Institutional Charter** is the published statement of what an institution runs and why. It holds the System Charter of every system the institution runs, and it explains why the institution runs those particular systems. An institution with only one system has no separate Institutional Charter: its System Charter covers both the system and the institution.*
+
+- **What it is**
+  - **In scope:** The published, amendable scope instrument of an [Institution](core_05_band_continuity.md#institution), including a business or comparable stewarded organizational form that is itself an Institution, that operates, stewards, or materially controls more than one [System](core_05_band_continuity.md#system), or no System that needs a [System Charter](core_05_band_continuity.md#system-charter). An Institutional Charter states:
+    - the Institution's own purpose, in-scope activities, out-of-scope limits, amendment authority, periodic-review cadence, [Charter Role Map](core_05_band_continuity.md#charter-role-map), and standing-record custody, as listed for a System Charter;
+    - every System Charter in force for the Systems the Institution operates, stewards, or materially controls, included in full or by a pointer that resolves to the current published version; and
+    - the **portfolio rationale**: why the Institution runs those particular Systems, how they serve its stated purpose and relate to one another, and which dependencies they share.
+
+    The Institutional Charter supports institutional creation under [Business Creation](core_05_band_participation.md#business-creation) by making the whole portfolio of operated scope reviewable without narrowing that floor. The duty to publish one, its minimum contents, and its amendment and review floor are stated in [Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters-and-published-scope).
+  - **Out of scope:**
+    - a [System Charter](core_05_band_continuity.md#system-charter) that stands alone for an Institution with one System;
+    - a [Constitutional Charter](core_05_band_continuity.md#constitutional-charter), the founding instrument of a political community;
+    - an organization chart, annual report, or mission statement not offered as the published scope instrument; or
+    - the operative [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves, which live in the published rules the Institutional Charter points to.
+<a id="institutional-charter-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. an Institutional Charter exists where [Chapter Seven §2 When System and Institutional Charters Are Required](core_07_charters.md#2-when-system-and-institutional-charters-are-required) requires one, or the Institution's single System Charter is identified as covering both;
+    2. every System the Institution operates, stewards, or materially controls has a System Charter in force that the Institutional Charter includes or resolves to, with none missing and none out of date;
+    3. the portfolio rationale is specific enough to test: each System can be traced to the Institution's stated purpose, and a System with no stated reason is a finding;
+    4. the Institution's own purpose, limits, amendment authority, and review cadence match its class, dependency, and risk;
+    5. observed behavior shows the Institution operating only the Systems the Institutional Charter lists, within the scope each System Charter states; and
+    6. the Institution's record-opening authority and record custodian are separate seats outside the Institution's own [Material Control Line](core_05_band_accountability.md#material-control-line) for records in which the Institution is the subject.
+<a id="institutional-charter-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - operating a System that no System Charter in force covers, while the Institutional Charter is offered as current authorization; or
+    - Institutional Charter text offered as a substitute for [System Boundaries](core_05_band_continuity.md#system-boundaries) or as proof of classification under CS-3 (*System classification machinery*);
+  - **Secondary failure:** a required Institutional Charter that has not been published, a missing or stale included System Charter, a portfolio rationale that is absent or no longer explains the Systems actually run, a System added or retired without amending the Institutional Charter, an overdue periodic review, a missing, dead, or stale Charter Role Map, or a record-opening authority or record custodian inside the Institution's own control line for records about itself;
+  - **Tertiary failure:** Institutional Charter text used to defeat [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), understate class, or narrow [Business Creation](core_05_band_participation.md#business-creation) floors.
+
+---
+
+<a id="constitutional-charter"></a>
+
+#### Constitutional Charter
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- Downstream: [Chapter Fourteen §1.1 Mechanism families, auditability, and pluralism](core_14_governance.md#11-mechanism-families-auditability-and-pluralism) (*the treaty, compact, or Constitutional Charter mechanism family*).
+- Read with: [Documented Legitimacy Mechanism](core_05_band_integrative.md#documented-legitimacy-mechanism), [Governance](core_05_band_accountability.md#governance), [Institution](core_05_band_continuity.md#institution), [System Charter](core_05_band_continuity.md#system-charter), and [Institutional Charter](core_05_band_continuity.md#institutional-charter).
+- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](core_05_band_continuity.md#system-charter) or an [Institutional Charter](core_05_band_continuity.md#institutional-charter), which state the scope of a system or institution, and it is not the instrument by which a body adopts this Constitution ([Chapter Seventeen §10 Ratification and Adoption](core_17_amendment_ratification.md#10-ratification-and-adoption)).
+
+</details>
+
+<br>
+
+*In plain terms: a **Constitutional Charter** is the founding document by which a political community authorizes those who govern it. It answers "by what right does this body govern?" A System Charter or Institutional Charter answers a different question: "what does this system or institution say it does?"*
+
+- **What it is**
+  - **In scope:** The instrument by which a political community is founded, or its governing authority is authorized, adopted with recorded assent under the treaty, compact, or Constitutional Charter family of [Chapter Fourteen §1.1 Mechanism families, auditability, and pluralism](core_14_governance.md#11-mechanism-families-auditability-and-pluralism). A treaty or compact that does the same work between member bodies is read the same way.
+  - **Out of scope:**
+    - a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter);
+    - the instrument by which a body adopts this Constitution; or
+    - silence, mere usage, or branding offered in place of recorded assent.
+<a id="constitutional-charter-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
+
+    **Primary assessment:** Evaluate whether:
+    1. the Constitutional Charter is published and its active rules are open to verification;
+    2. assent to it is recorded and traceable, not inferred from silence, usage, or branding; and
+    3. sentients have real ways to challenge the authorization, and where possible to renew or replace it peacefully, if it rots or is captured.
+<a id="constitutional-charter-c"></a>
+- **What must hold**
+  - A governing body's authority rests on a Constitutional Charter, or on another documented legitimacy mechanism, whose assent is recorded and whose rules can be checked.
+  - **Primary failure:** treating silence, mere usage, or branding as assent; or offering a System Charter or Institutional Charter as if it authorized a body to govern.
+  - **Secondary failure:** assent that is unrecorded or cannot be verified, or a Constitutional Charter with no working path to challenge, renew, or replace the authorization.
 
 ---
 
@@ -2984,19 +3079,19 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
-- Downstream: [Chapter Seven §6 The Charter Role Map and Standing-Record Custody](core_07_charters.md#6-the-charter-role-map-and-standing-record-custody) (*what the Charter owes the map*); [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) (*the published map of seats*); [Chapter Nine Part B §6.1.1 Four seats in a certification](core_09_b_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) and [§8.1 Minimum record contents](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*certification seats and the record of them*); [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*Charter contents, review, and formation template*), **CI-4.5** (*Authorized roles and accountability chains*), and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*).
+- Downstream: [Chapter Seven §6 The Charter Role Map and Standing-Record Custody](core_07_charters.md#6-the-charter-role-map-and-standing-record-custody) (*what the System Charter or Institutional Charter owes the map*); [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) (*the published map of seats*); [Chapter Nine Part B §6.1.1 Four seats in a certification](core_09_b_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) and [§8.1 Minimum record contents](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*certification seats and the record of them*); [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*System and Institutional Charter contents, review, and formation template*), **CI-4.5** (*Authorized roles and accountability chains*), and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
-- Read with: [Charter](core_05_band_continuity.md#charter), [Institution](core_05_band_continuity.md#institution), [System](core_05_band_continuity.md#system), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Material Control Line](core_05_band_accountability.md#material-control-line), [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), [Attributable Action](core_05_band_accountability.md#attributable-action), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
+- Read with: [System Charter](core_05_band_continuity.md#system-charter), [Institutional Charter](core_05_band_continuity.md#institutional-charter), [Institution](core_05_band_continuity.md#institution), [System](core_05_band_continuity.md#system), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Material Control Line](core_05_band_accountability.md#material-control-line), [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), [Attributable Action](core_05_band_accountability.md#attributable-action), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
 - Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*), not in this entry. The mechanics of keeping the map current live in [corpus_institutions.md](corpus_institutions.md), not here.
 
 </details>
 
 <br>
 
-*In plain terms: a **Charter Role Map** is the published list, kept with a Charter, of who may hold which seat in the work that Charter covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.*
+*In plain terms: a **Charter Role Map** is the published list, kept with a System Charter or Institutional Charter, of who may hold which seat in the work it covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.*
 
 - **What it is**
-  - **In scope:** The published, versioned placement of seats, named in or kept with a [Charter](core_05_band_continuity.md#charter), for the materially binding acts taken within the chartered scope. For each seat it states:
+  - **In scope:** The published, versioned placement of seats, named in or kept with a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter), for the materially binding acts taken within the chartered scope. For each seat it states:
     - the acts and scope for which the placement applies;
     - the offices or roles eligible to hold the seat, and the stewards currently authorized to hold them;
     - every permitted merged-hosting arrangement and its independence safeguard;
@@ -3006,7 +3101,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - the seat types and their boundaries, which are fixed in [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*);
     - an organization chart, staff directory, or list of titles that places no seat;
     - the standards for qualifying a steward, which the map records the results of but does not set; and
-    - a seat that constitutional routing assigns and the Charter does not. In a system alignment certification, the forums that hold the verify-or-authorize seat are assigned under Chapter Nine and Chapter Thirteen, so the map does not choose them.
+    - a seat that constitutional routing assigns and the System Charter or Institutional Charter does not. In a system alignment certification, the forums that hold the verify-or-authorize seat are assigned under Chapter Nine and Chapter Thirteen, so the map does not choose them.
 <a id="charter-role-map-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.

@@ -68,7 +68,7 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 #### 1.1 Mechanism families, auditability, and pluralism
 
-*In plain terms: whoever governs must show a clear, chosen rule for how power is authorized — elections, lotteries, federation votes, **treaty, compact, or charter** processes, or hybrids — not an informal shrug. The active rules must be visible and **open to verification**; silence, mere usage, or branding cannot count as consent. When authorization rots or is captured, **sentients** need real ways to challenge it and, where possible, to renew or replace power peacefully — and different legitimate arrangements may coexist if rights and non-domination hold.*
+*In plain terms: whoever governs must show a clear, chosen rule for how power is authorized — elections, lotteries, federation votes, **treaty, compact, or Constitutional Charter** processes, or hybrids — not an informal shrug. The active rules must be visible and **open to verification**; silence, mere usage, or branding cannot count as consent. When authorization rots or is captured, **sentients** need real ways to challenge it and, where possible, to renew or replace power peacefully — and different legitimate arrangements may coexist if rights and non-domination hold.*
 
 Recognized mechanism families include:
 
@@ -76,7 +76,7 @@ Recognized mechanism families include:
 - **community-initiated early transfer or reauthorization** (*recall-class* pathways) for **continuing mandates** between ordinary selection or reauthorization events, governed by **§1.3** (*Recall-class pathways and mid-cycle transfer guardrails*)
 - **sortition** or civic lottery for specified bodies
 - **federated ratification** by network members or member bodies under published rules
-- **treaty, compact, or charter** adoption with recorded assent
+- **treaty, compact, or Constitutional Charter** adoption with recorded assent
 - hybrid or ordered designs that satisfy **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates for **high-impact** decisions
 
 **Sortition integrity and anti-capture use**
@@ -157,7 +157,7 @@ Recognized mechanism families include:
     3. **Peaceful-succession guarantee** — a defined succession pathway for transfer or reauthorization of authority on the terms the mechanism itself states, with denial or material degradation of the peaceful-succession pathway treated as a failure of the mechanism under **Failure and Correction** above.
 
     - These checks apply to [**Foundational Constitutional Choice**](core_05_band_integrative.md#foundational-constitutional-choice) (Chapter Five) and to any other authorization action within the mechanism's scope.
-    - The checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or charter** designs, and hybrid designs alike.
+    - The checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
     - Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
     - Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both this check and the **Pluralism** clause.
 
@@ -452,7 +452,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
   - [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional); and
   - **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*).
 
-**Charter pointer rule.** A governing [Charter](core_05_band_continuity.md#charter) states operated scope and, where Def.P2 admission scope applies, must **point to** the published process rules that satisfy this section ([Chapter Seven §3 What a Charter Must State](core_07_charters.md#3-what-a-charter-must-state), item 10). The Charter does not carry the decision sequence, weighting model, or rights-collision record; they stay here. Institutional publication of those materials lives under **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) / **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*), with the Charter pointer required by **CI-3.6** (*Charter contents, review, and formation template*) field 10.
+**System and Institutional Charter pointer rule.** A governing [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter) states operated scope and, where Def.P2 admission scope applies, must **point to** the published process rules that satisfy this section ([Chapter Seven §3 What System and Institutional Charters Must State](core_07_charters.md#3-what-system-and-institutional-charters-must-state), item 10). The System Charter or Institutional Charter does not carry the decision sequence, weighting model, or rights-collision record; they stay here. Institutional publication of those materials lives under **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) / **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*), with the System Charter or Institutional Charter pointer required by **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10.
 
 **Cross-reference (section 4):** Subsections **4.1–4.2** state voting requirements together with **Chapter Six**, **Article X-B** (*Governance Participation and Voting Entitlement*). Adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
 

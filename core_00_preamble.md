@@ -193,7 +193,7 @@ Conversely, constitutional authorization does not erase duties owed under the [S
 
 Sections **4 through 9** are this Constitution's **constitutional owner register**. Each block names the substantive domain its chapter (or adopted corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy).
 
-Chapters **One through Six** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including [Chapter Seven's Charter floor and Chapter Eight's functional-independence floor](#5-charters-functional-independence-and-segregation-of-duties) in Section 5, the [Key Practical Process Pipelines](#6-key-practical-process-pipelines) in Section 6, [process ownership and outputs](#7-process-ownership-and-outputs) in Section 7, the governance and change-path chapters in Section 8, and the [Adopted Implementation Corpus](#9-adopted-implementation-corpus) in Section 9.
+Chapters **One through Six** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including [Chapter Seven's System Charter or Institutional Charter floor and Chapter Eight's functional-independence floor](#5-system-and-institutional-charters-functional-independence-and-segregation-of-duties) in Section 5, the [Key Practical Process Pipelines](#6-key-practical-process-pipelines) in Section 6, [process ownership and outputs](#7-process-ownership-and-outputs) in Section 7, the governance and change-path chapters in Section 8, and the [Adopted Implementation Corpus](#9-adopted-implementation-corpus) in Section 9.
 
 Each summary below states what the chapter owns and what it produces.
 
@@ -251,21 +251,21 @@ Each summary below states what the chapter owns and what it produces.
   The four parts organize these protections for planet-first reading.
 - **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Thirteen, forums, governance, and amendment rules must respect and not narrow, bypass, or hollow through procedure or proxy metrics.
 
-<a id="5-charters-functional-independence-and-segregation-of-duties"></a>
-### 5. Charters, Functional Independence, and Segregation of Duties
+<a id="5-system-and-institutional-charters-functional-independence-and-segregation-of-duties"></a>
+### 5. System and Institutional Charters, Functional Independence, and Segregation of Duties
 
-*In plain terms: a system or institution of real impact publishes a Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.*
+*In plain terms: a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.*
 
 This section summarizes the two floors that every later process relies on and what each produces.
 
-**Chapter Seven — Charters and published scope**
+**Chapter Seven — System and Institutional Charters and published scope**
 
 - **What it owns:** The floor for the published scope instrument of a system or institution:
-  - which systems and institutions of Class L or higher must publish a [Charter](core_05_band_continuity.md#charter);
-  - the minimum a Charter must state, including the [Charter Role Map](core_05_band_continuity.md#charter-role-map) and pointers to the published binding stakeholder-choice rules;
-  - how a Charter is amended and reviewed so that scope does not change silently; and
-  - what a Charter cannot do: set class, define the boundary, replace certification, carry decision rules, or grant authority.
-- **What it produces:** A published, versioned statement of scope and seat placement that [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties), certification, standing records, and forums can test behavior against. Chapter Seven is at [`core_07_charters.md`](core_07_charters.md#chapter-seven-charters-and-published-scope).
+  - which systems and institutions of Class L or higher must publish a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter);
+  - the minimum a System Charter or Institutional Charter must state, including the [Charter Role Map](core_05_band_continuity.md#charter-role-map) and pointers to the published binding stakeholder-choice rules;
+  - how a System Charter or Institutional Charter is amended and reviewed so that scope does not change silently; and
+  - what a System Charter or Institutional Charter cannot do: set class, define the boundary, replace certification, carry decision rules, or grant authority.
+- **What it produces:** A published, versioned statement of scope and seat placement that [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties), certification, standing records, and forums can test behavior against. Chapter Seven is at [`core_07_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters-and-published-scope).
 
 **Chapter Eight — Functional independence and segregation of duties**
 
@@ -323,7 +323,7 @@ flowchart TB
 
 *In plain terms: Chapters Nine through Thirteen apply Chapter Eight's separation-of-duties floor in one chain: certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.*
 
-[Chapter Seven](core_07_charters.md#chapter-seven-charters-and-published-scope) publishes the scope and the seat map of each system and institution of Class L or higher. [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) supplies the independence floor that makes every act in this chain validly checkable. It requires the functions of initiation, verification or authorization, official record custody, and challenge review to be assigned and kept distinct under the applicable scaling and independence rules. Chapters Nine through Thirteen then apply that architecture in sequence:
+[Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters-and-published-scope) publishes the scope and the seat map of each system and institution of Class L or higher. [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) supplies the independence floor that makes every act in this chain validly checkable. It requires the functions of initiation, verification or authorization, official record custody, and challenge review to be assigned and kept distinct under the applicable scaling and independence rules. Chapters Nine through Thirteen then apply that architecture in sequence:
 
 - **Chapter Nine** uses independent verification to decide whether a materially impactful system is aligned enough to certify, rely on, deploy, or release from conditions within a stated scope and time window.
 - **Chapter Ten** takes the verified facts and records them on separate Contribution and Violation axes. Verified contribution toward flourishing does not offset, cancel, or reduce a separately verified harm or accountability failure; each remains recorded and subject to its own consequences.
@@ -343,7 +343,7 @@ The chapter summaries in Sections 4 through 9 make the division of labor explici
 
 ```mermaid
 flowchart TB
-    H["Chapter Seven<br/><br/>Charter: published scope<br/>and seat map"]
+    H["Chapter Seven<br/><br/>System and Institutional<br/>Charters: published scope<br/>and seat map"]
     D["Chapter Eight<br/><br/>Functional independence<br/>and segregation of duties"]
     S["Chapter Nine<br/><br/>System alignment certification"]
     subgraph Q["Chapter Ten · standing records"]
@@ -400,7 +400,7 @@ Together, these rules turn constitutional duties into records and decisions that
 
 The full chain runs in the following order:
 
-1. **Separate the seats for every materially binding act** ([Chapter Eight](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)) — identify who initiates, who verifies or authorizes, who holds the official record, and who hears a challenge. Apply the prohibited combinations, independence rules, and published substitute route before treating the act as validly checked. Where a Charter is required ([Chapter Seven](core_07_charters.md#6-the-charter-role-map-and-standing-record-custody)), its Charter Role Map publishes who holds each seat.
+1. **Separate the seats for every materially binding act** ([Chapter Eight](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)) — identify who initiates, who verifies or authorizes, who holds the official record, and who hears a challenge. Apply the prohibited combinations, independence rules, and published substitute route before treating the act as validly checked. Where a System Charter or Institutional Charter is required ([Chapter Seven](core_07_charters.md#6-the-charter-role-map-and-standing-record-custody)), its Charter Role Map publishes who holds each seat.
 2. **Certify the system when impact is serious enough** ([Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — before a high-impact system is trusted at scale, obtain a contestable alignment record that answers whether it is constitutionally safe to rely on *right now*.
 3. **Measure standing on separate tracks** ([Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)) — when help or harm is serious enough to matter constitutionally, Chapter Ten must open formal case files, admit only **verified inputs** (including system-alignment certification evidence from Chapter Nine when that evidence is material), and classify what was verified. Rumors, reputations, and dispute stories are not enough.
    - **Contribution nature:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution nature** on the Contribution Axis.

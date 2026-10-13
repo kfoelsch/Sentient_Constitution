@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.12` · effective **2026-10-12**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **683** of **993** headings carry a gloss (69%).
+Coverage: **685** of **995** headings carry a gloss (69%).
 
 ## Contents
 
@@ -25,7 +25,7 @@ Coverage: **683** of **993** headings carry a gloss (69%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (79/91 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (33/94 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (35/96 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
@@ -104,11 +104,11 @@ Chapters One through Six own values, how words are built and checked, the dictio
 
 [Source](../../core_00_preamble.md#4-principles-definitions-and-rights)
 
-#### 5. Charters, Functional Independence, and Segregation of Duties
+#### 5. System and Institutional Charters, Functional Independence, and Segregation of Duties
 
-a system or institution of real impact publishes a Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.
+a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.
 
-[Source](../../core_00_preamble.md#5-charters-functional-independence-and-segregation-of-duties)
+[Source](../../core_00_preamble.md#5-system-and-institutional-charters-functional-independence-and-segregation-of-duties)
 
 ##### 5.1 Four-seat separation map
 
@@ -1764,7 +1764,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 33/94 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 35/96 headings glossed
 
 #### Continuity: Independent terms
 
@@ -2108,15 +2108,27 @@ an **Institution** is a lasting holder of authority, such as an office, agency, 
 
 [Source](../../core_05_band_continuity.md#institution)
 
-##### Charter
+##### System Charter
 
-a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.
+a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.
 
-[Source](../../core_05_band_continuity.md#charter)
+[Source](../../core_05_band_continuity.md#system-charter)
+
+##### Institutional Charter
+
+an **Institutional Charter** is the published statement of what an institution runs and why. It holds the System Charter of every system the institution runs, and it explains why the institution runs those particular systems. An institution with only one system has no separate Institutional Charter: its System Charter covers both the system and the institution.
+
+[Source](../../core_05_band_continuity.md#institutional-charter)
+
+##### Constitutional Charter
+
+a **Constitutional Charter** is the founding document by which a political community authorizes those who govern it. It answers "by what right does this body govern?" A System Charter or Institutional Charter answers a different question: "what does this system or institution say it does?"
+
+[Source](../../core_05_band_continuity.md#constitutional-charter)
 
 ##### Charter Role Map
 
-a **Charter Role Map** is the published list, kept with a Charter, of who may hold which seat in the work that Charter covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.
+a **Charter Role Map** is the published list, kept with a System Charter or Institutional Charter, of who may hold which seat in the work it covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.
 
 [Source](../../core_05_band_continuity.md#charter-role-map)
 
@@ -2354,7 +2366,7 @@ decisions about who holds governing authority, by what mechanism, and on what la
 
 ##### Documented Legitimacy Mechanism
 
-the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.
+the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.
 
 [Source](../../core_05_band_integrative.md#documented-legitimacy-mechanism)
 
@@ -2616,7 +2628,7 @@ telling affected sentients enough about how a system works, its limits, and its 
 
 ###### Public Oversight Baseline Disclosure
 
-the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.
+the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.
 
 [Source](../../core_05_band_oversight.md#public-oversight-baseline-disclosure)
 
@@ -2640,7 +2652,7 @@ keep the evidence that matters — identify it, secure it, and make it available
 
 ###### Evaluation Completeness Constraint
 
-do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A Charter states intended scope; certification checks that the hard paths were actually evaluated.
+do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A System Charter states intended scope; certification checks that the hard paths were actually evaluated.
 
 [Source](../../core_05_band_oversight.md#evaluation-completeness-constraint)
 
@@ -3836,7 +3848,7 @@ forums are where disputes get supervised, challenged, and turned into verified o
 
 ##### 3.7 Record custody and opening authority
 
-four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the Charter forgot to say who verifies, the institution's published lane map already answers: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
+four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, the institution's published lane map already answers: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
 
 [Source](../../core_10_standing_assessment.md#37-record-custody-and-opening-authority)
 
@@ -5620,7 +5632,7 @@ this chapter states the constitutional contract for governing power — what mus
 
 ##### 1.1 Mechanism families, auditability, and pluralism
 
-whoever governs must show a clear, chosen rule for how power is authorized — elections, lotteries, federation votes, **treaty, compact, or charter** processes, or hybrids — not an informal shrug. The active rules must be visible and **open to verification**; silence, mere usage, or branding cannot count as consent. When authorization rots or is captured, **sentients** need real ways to challenge it and, where possible, to renew or replace power peacefully — and different legitimate arrangements may coexist if rights and non-domination hold.
+whoever governs must show a clear, chosen rule for how power is authorized — elections, lotteries, federation votes, **treaty, compact, or Constitutional Charter** processes, or hybrids — not an informal shrug. The active rules must be visible and **open to verification**; silence, mere usage, or branding cannot count as consent. When authorization rots or is captured, **sentients** need real ways to challenge it and, where possible, to renew or replace power peacefully — and different legitimate arrangements may coexist if rights and non-domination hold.
 
 [Source](../../core_14_governance.md#11-mechanism-families-auditability-and-pluralism)
 

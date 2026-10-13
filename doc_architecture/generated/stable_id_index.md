@@ -81,7 +81,7 @@ Full router: [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../..
 | CJS-R19 | integrity assurance and resilience operations | **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) |
 | CJS-R20 | Remedy parity and lock-to-remedy capacity | [**CI-27**](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) |
 | CJS-R21 | Capacity-failure routing | [**CF-5**](../../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md) |
-| CJS-R22 | Standing-record custody, opening authority, and segregation of duties | [**CI-3**](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) (*CI-3.2 lane map — the fallback when a Charter is silent; CI-3.6 Charter field — standing-record custody*) |
+| CJS-R22 | Standing-record custody, opening authority, and segregation of duties | [**CI-3**](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) (*CI-3.2 lane map — the fallback when a System Charter or Institutional Charter is silent; CI-3.6 System Charter or Institutional Charter field — standing-record custody*) |
 | CJS-R23 | Seat types, local role maps, and wrong-seat routing | [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*CI-4.6 seat catalog — the nine seat types, their operational boundaries, and the wrong-seat rule; CI-4.5 role maps instantiate them*) |
 
 ## Chapter Six articles

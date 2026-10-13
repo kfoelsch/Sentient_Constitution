@@ -117,7 +117,7 @@
       "href": "../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 264,
+  "term_count": 266,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -295,17 +295,10 @@
       "href": "../../core_05_band_continuity.md#cascading-failure"
     },
     {
-      "term": "Charter",
-      "file": "core_05_band_continuity.md",
-      "anchor": "#charter",
-      "plain_terms": "a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.",
-      "href": "../../core_05_band_continuity.md#charter"
-    },
-    {
       "term": "Charter Role Map",
       "file": "core_05_band_continuity.md",
       "anchor": "#charter-role-map",
-      "plain_terms": "a **Charter Role Map** is the published list, kept with a Charter, of who may hold which seat in the work that Charter covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.",
+      "plain_terms": "a **Charter Role Map** is the published list, kept with a System Charter or Institutional Charter, of who may hold which seat in the work it covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.",
       "href": "../../core_05_band_continuity.md#charter-role-map"
     },
     {
@@ -377,6 +370,13 @@
       "anchor": "#consent-sexual",
       "plain_terms": "sexual consent is a specific, affirmative, informed, voluntary, capacity-present, and revocable yes to a particular sexual act or context. Relationship status, prior consent, payment, platform terms, silence, or inability to resist do not establish it.",
       "href": "../../core_05_band_participation.md#consent-sexual"
+    },
+    {
+      "term": "Constitutional Charter",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#constitutional-charter",
+      "plain_terms": "a **Constitutional Charter** is the founding document by which a political community authorizes those who govern it. It answers \"by what right does this body govern?\" A System Charter or Institutional Charter answers a different question: \"what does this system or institution say it does?\"",
+      "href": "../../core_05_band_continuity.md#constitutional-charter"
     },
     {
       "term": "Constitutional Collision",
@@ -557,7 +557,7 @@
       "term": "Documented Legitimacy Mechanism",
       "file": "core_05_band_integrative.md",
       "anchor": "#documented-legitimacy-mechanism",
-      "plain_terms": "the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.",
+      "plain_terms": "the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.",
       "href": "../../core_05_band_integrative.md#documented-legitimacy-mechanism"
     },
     {
@@ -648,7 +648,7 @@
       "term": "Evaluation Completeness Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#evaluation-completeness-constraint",
-      "plain_terms": "do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A Charter states intended scope; certification checks that the hard paths were actually evaluated.",
+      "plain_terms": "do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A System Charter states intended scope; certification checks that the hard paths were actually evaluated.",
       "href": "../../core_05_band_oversight.md#evaluation-completeness-constraint"
     },
     {
@@ -979,6 +979,13 @@
       "anchor": "#institution",
       "plain_terms": "an **Institution** is a lasting holder of authority, such as an office, agency, organization, or forum. It keeps its mandate when its occupants change. What counts is what it actually decides and who answers for it, not what it calls itself or how it is incorporated.",
       "href": "../../core_05_band_continuity.md#institution"
+    },
+    {
+      "term": "Institutional Charter",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#institutional-charter",
+      "plain_terms": "an **Institutional Charter** is the published statement of what an institution runs and why. It holds the System Charter of every system the institution runs, and it explains why the institution runs those particular systems. An institution with only one system has no separate Institutional Charter: its System Charter covers both the system and the institution.",
+      "href": "../../core_05_band_continuity.md#institutional-charter"
     },
     {
       "term": "Institutional Development",
@@ -1425,7 +1432,7 @@
       "term": "Public Oversight Baseline Disclosure",
       "file": "core_05_band_oversight.md",
       "anchor": "#public-oversight-baseline-disclosure",
-      "plain_terms": "the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.",
+      "plain_terms": "the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.",
       "href": "../../core_05_band_oversight.md#public-oversight-baseline-disclosure"
     },
     {
@@ -1791,6 +1798,13 @@
       "anchor": "#system-certification-record-constitutional",
       "plain_terms": "a **System Certification Record** is the auditable case file for one system under forum-supervised alignment review — what was checked, what was found, what was decided, and how to challenge it. It is time-bound and challengeable. It is not a popularity score, a forever pass, a vendor stamp, or a way to skip rights review or standing measurement.",
       "href": "../../core_05_band_continuity.md#system-certification-record"
+    },
+    {
+      "term": "System Charter",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#system-charter",
+      "plain_terms": "a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.",
+      "href": "../../core_05_band_continuity.md#system-charter"
     },
     {
       "term": "System Classification Record",

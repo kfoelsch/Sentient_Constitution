@@ -20,40 +20,30 @@ _BREACH_FAMILY_SCOPE = frozenset({"core_10_standing_assessment.md", "core_11_sta
 _CLOUD_WORD = re.compile(r"(?<![A-Za-z0-9])cloud(?![A-Za-z0-9])", re.IGNORECASE)
 
 # Prefer **constitutional** / **this Constitution** for Corpus sense; keep **charter** for allowlisted legal-instrument senses
-# (Chapter Fourteen adoption family; corporate charter; Chapter Five **Charter** scope instrument and related compounds).
+# (the Chapter Five terms System Charter, Institutional Charter, Constitutional Charter, and Charter Role Map; the Chapter Fourteen
+# treaty, compact, or Constitutional Charter family; corporate charter; verb forms). A bare **Charter** is not allowed:
+# name which Charter is meant.
 _CHARTER_WORD = re.compile(r"(?<![A-Za-z0-9])charter(?![A-Za-z0-9])", re.IGNORECASE)
 _ALLOWLIST_STRIP = [
     re.compile(r"corporate charter(\s+law)?", re.IGNORECASE),
-    re.compile(r"treaty,\s+compact,\s+or\s+charter", re.IGNORECASE),
+    re.compile(r"treaty,\s+compact,\s+or\s+Constitutional Charter"),
     re.compile(r"adoption,\s+federation,\s+or\s+charter", re.IGNORECASE),
     re.compile(r"supervise,\s+charter,\s+or", re.IGNORECASE),
     re.compile(r"supervise,\s+charter,\s+license,\s+or", re.IGNORECASE),
     re.compile(r"hold a charter over", re.IGNORECASE),
     re.compile(r"paper charters?", re.IGNORECASE),
-    re.compile(r"####\s+Charter\b"),
-    re.compile(r"\[Charter\]", re.IGNORECASE),
+    re.compile(r"####\s+(?:System|Institutional|Constitutional) Charter\b"),
+    re.compile(r"####\s+Charter Role Map\b"),
     re.compile(r"#charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
     re.compile(r"#[a-z0-9-]*-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
-    re.compile(r'id="charter(?:-[a-z0-9-]+)?"', re.IGNORECASE),
+    re.compile(r'id="(?:[a-z0-9-]+-)?charter(?:-[a-z0-9-]+)?"', re.IGNORECASE),
     re.compile(r"bare\s+charter\b", re.IGNORECASE),
-    re.compile(r"\*\*charter\*\*", re.IGNORECASE),
-    re.compile(
-        r"charter(?:ed)?(?:[-–— ](?:scope|amendment|review|adoption|mismatch|behavior|instrument|text)|[-–—]behavior)",
-        re.IGNORECASE,
-    ),
-    re.compile(
-        r"(?:governing|published|stated|claimed|periodic)\s+charters?\b",
-        re.IGNORECASE,
-    ),
-    re.compile(r"material charter amendment", re.IGNORECASE),
-    re.compile(r"charter-review", re.IGNORECASE),
-    re.compile(r"charter publication", re.IGNORECASE),
-    re.compile(r"charter contents", re.IGNORECASE),
-    re.compile(r"charter fields", re.IGNORECASE),
     re.compile(r"ci-\d+(?:\.\d+)?-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
     re.compile(r"#ci-\d+(?:\.\d+)?-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
-    # Capitalized defined-term last so multi-word compounds above can match first.
-    re.compile(r"\bCharter\b"),
+    # Defined terms (capitalized), last so multi-word compounds above can match first.
+    re.compile(r"\b(?:System|Institutional|Constitutional) Charters?\b"),
+    re.compile(r"\bCharter Role Maps?\b"),
+    re.compile(r"\bSystem and Institutional Charters?\b"),
 ]
 
 # Mechanical ``charter`` → ``constitutional`` passes can leave ``this constitutional.`` or ``the constitutional requires``; catch known bad compounds.
@@ -962,7 +952,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "",
         "Rules:",
         "- **`forbidden-cloud`:** standalone **cloud** → use **info-sphere** (and related) terminology.",
-        "- **`corpus-no-bare-charter`:** in scoped files, standalone **charter** → prefer **constitutional** / **this Constitution** for Corpus sense. **Allowed:** `corporate charter`; `treaty, compact, or charter`; `adoption, federation, or charter`; verb forms such as `supervise, charter, or …` / `hold a charter over`; Chapter Five **Charter** (scope instrument) and related compounds (`governing Charter`, `charter amendment`, `chartered scope`, `#charter` anchors).",
+        "- **`corpus-no-bare-charter`:** in scoped files, standalone **charter** / **Charter** → name which one: **System Charter**, **Institutional Charter**, or **Constitutional Charter**; or use **constitutional** / **this Constitution** for Corpus sense. **Allowed:** `corporate charter`; `treaty, compact, or Constitutional Charter`; `adoption, federation, or charter`; verb forms such as `supervise, charter, or …` / `hold a charter over`; the defined terms **System Charter**, **Institutional Charter**, **Constitutional Charter**, **Charter Role Map**; `#charter…` anchors.",
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",

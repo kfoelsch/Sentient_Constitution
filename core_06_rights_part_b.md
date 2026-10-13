@@ -1623,7 +1623,7 @@ This Article sets out the right to form institutions and enterprises and its lim
   - gathering and association are covered by **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*);
   - organizing workers within existing productive systems is covered by [Collective Organization](core_05_band_participation.md#collective-organization) under **Article III-C** (*Labor and Economic Floor*); and
   - once a created institution or enterprise materially affects others, the stakeholder rights in **Articles X-C** and **XII** apply to it.
-- **Implementation:** Registration, [Charter](core_05_band_continuity.md#charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Eighteen** incorporation discipline. That text must not be read to narrow this right.
+- **Implementation:** Registration, [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Eighteen** incorporation discipline. That text must not be read to narrow this right.
 
 #### Article XI-F: Non-Imposition and Consent in Association
 <details>

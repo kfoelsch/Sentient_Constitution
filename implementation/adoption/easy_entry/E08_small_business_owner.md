@@ -73,7 +73,7 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 
 - **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope instrument for systems you actually run, those rules are located in the section on [Charter](../../../core_05_band_continuity.md#charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
+- **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope instrument for systems you actually run, those rules are located in the section on [System Charter](../../../core_05_band_continuity.md#system-charter) or [Institutional Charter](../../../core_05_band_continuity.md#institutional-charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
 
 ## What this will not pretend to give you
 

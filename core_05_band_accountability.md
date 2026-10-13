@@ -1636,7 +1636,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Preamble §5 Charters, Functional Independence, and Segregation of Duties](core_00_preamble.md#5-charters-functional-independence-and-segregation-of-duties); [Chapter One §18.3 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties); [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08_functional_independence_segregation_of_duties.md#1-purpose-scope-and-owner-boundary) (*application list*) through [§9 Relationship to Later Processes](core_08_functional_independence_segregation_of_duties.md#9-relationship-to-later-processes); Chapters Nine through Fourteen process-specific acts; and **CI-4.6** (*seat catalog*).
+- Downstream: [Preamble §5 System and Institutional Charters, Functional Independence, and Segregation of Duties](core_00_preamble.md#5-system-and-institutional-charters-functional-independence-and-segregation-of-duties); [Chapter One §18.3 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties); [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08_functional_independence_segregation_of_duties.md#1-purpose-scope-and-owner-boundary) (*application list*) through [§9 Relationship to Later Processes](core_08_functional_independence_segregation_of_duties.md#9-relationship-to-later-processes); Chapters Nine through Fourteen process-specific acts; and **CI-4.6** (*seat catalog*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with: [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), [Attributable Action](core_05_band_accountability.md#attributable-action), [Material](core_05_band_oversight.md#material), [Materiality](core_05_band_oversight.md#materiality), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), and [Material Control Line](core_05_band_accountability.md#material-control-line).
 - Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
@@ -3130,7 +3130,7 @@ See **Anti-Segmentation Principle**.
       - a challenger; or
       - an office in their control line.
 
-      Where the subject holds a [Charter](core_05_band_continuity.md#charter), the Charter names or points to both; where it is silent, the **CI-3.2** (*Functional separation lanes*) lane map governs.
+      Where the subject holds a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter), that instrument names or points to both; where it is silent, the **CI-3.2** (*Functional separation lanes*) lane map governs.
     - Chapter Five pointer; canonical concept: Chapter Ten §2.1 (*What Question 1 must establish*); operational requirements: Chapter Ten §3 (*Verification and record requirements*).
     - A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
   - **Out of scope:**

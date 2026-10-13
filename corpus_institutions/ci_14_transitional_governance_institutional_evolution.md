@@ -373,7 +373,7 @@ Each institution in scope must publish locally the ledger owner, independent ver
 
 - **Institutional class and stewardship tier:** from the published classification under **CI-9** (*Classification-linked institutional obligations*).
 - **Degree of misalignment:** gaps against constitutional requirements for institutional design and separation of powers, appointment and rotation, conflict integrity, procedure integrity, and contestability.
-- **Ease of alignment:** whether the institution can change within its own authority, what outside acts it needs (statute, treaty, compact, or charter, or another body's approval), support, flexibility, and resources.
+- **Ease of alignment:** whether the institution can change within its own authority, what outside acts it needs (statute, treaty, compact, or Constitutional Charter, or another body's approval), support, flexibility, and resources.
 - **Rights exposure:** the decisions the institution makes over liberty, status, subsistence, custody, and access to remedy, and at what volume.
 - **Enabling role:** whether other floors depend on it: forums, intake, oversight and verification bodies, appointment bodies, and evidence custodians.
 - **Capture and entrenchment risk:** concentration of control, insulation from review, and trend.
