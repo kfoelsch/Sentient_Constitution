@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-13T19:51:00+00:00",
+  "generated_at": "2026-10-13T20:42:04+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -628,6 +628,20 @@
       "sections": [
         {"header":"Constitutional Performance Definitions","level":1,"line_start":1,"line_end":56,"anchor":null},
         {"header":"Measuring Constitutional Performance (Preamble measurement family)","level":3,"line_start":31,"line_end":56,"anchor":"#performance-measurement-family"}
+      ]
+    },
+    "core_07_charters.md": {
+      "total_lines": 417,
+      "sections": [
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":417,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":91,"line_end":118,"anchor":"#1-purpose-scope-and-owner-boundary"},
+        {"header":"2. When System and Institutional Charters Are Required","level":3,"line_start":119,"line_end":157,"anchor":"#2-when-system-and-institutional-charters-are-required"},
+        {"header":"3. What System and Institutional Charters Must State","level":3,"line_start":158,"line_end":202,"anchor":"#3-what-system-and-institutional-charters-must-state"},
+        {"header":"4. Amendment, Review, and Scope Misalignment","level":3,"line_start":203,"line_end":236,"anchor":"#4-amendment-review-and-scope-misalignment"},
+        {"header":"5. What System and Institutional Charters Cannot Do","level":3,"line_start":237,"line_end":261,"anchor":"#5-what-system-and-institutional-charters-cannot-do"},
+        {"header":"6. The Charter Role Map and Standing-Record Custody","level":3,"line_start":262,"line_end":296,"anchor":"#6-the-charter-role-map-and-standing-record-custody"},
+        {"header":"7. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":297,"line_end":386,"anchor":"#7-formation-check-office-holder-standing-and-authenticity"},
+        {"header":"8. Relationship to Other Chapters","level":3,"line_start":387,"line_end":417,"anchor":"#8-relationship-to-other-chapters"}
       ]
     },
     "core_08_functional_independence_segregation_of_duties.md": {

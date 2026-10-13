@@ -214,6 +214,17 @@ def audit_contiguous_widget_run(
     return findings
 
 
+def is_chart_caption(lines: list[str], close_idx: int, end: int) -> bool:
+    """True when a widget closing at ``close_idx`` leads directly into a chart.
+
+    "Directly" allows blank lines and one ``<br>`` spacer, nothing else.
+    """
+    nxt = next_nonempty(lines, close_idx + 1, end)
+    if nxt is not None and lines[nxt].strip() == "<br>":
+        nxt = next_nonempty(lines, nxt + 1, end)
+    return nxt is not None and lines[nxt].strip().startswith("```mermaid")
+
+
 def audit_file_top_stack(lines: list[str], rel: str) -> list[str]:
     """Corpus placement / Reader / Trace / D/A/C before first body heading."""
     if Path(rel).name in WRAPPER_NAMES:
@@ -251,6 +262,12 @@ def audit_file_top_stack(lines: list[str], rel: str) -> list[str]:
                     f"{rel}:{idx + 1}: unterminated <details> in file-top stack"
                 )
                 break
+            if kind == "reader" and is_chart_caption(lines, close, body_start):
+                # Chart caption: a Reader guidance box that leads directly into
+                # a visible mermaid chart stays beside that chart (NAV-READER-06
+                # exception) and is not part of the opening stack.
+                idx = close + 1
+                continue
             if kind in WIDGET_RANK:
                 if stack_closed:
                     findings.append(

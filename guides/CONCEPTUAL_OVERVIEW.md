@@ -709,7 +709,7 @@ The [System Data Types Record](../core_05_band_continuity.md#system-data-types-r
 
 ```mermaid
 flowchart TB
-    K["Chapter Seven<br/><br/>System and Institutional<br/>Charters: published scope<br/>and seat map"]
+    K["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
     D["Chapter Eight<br/><br/>Functional independence<br/>and segregation of duties"]
     S["Chapter Nine<br/><br/>System alignment certification"]
     subgraph Q["Chapter Ten · standing records"]
