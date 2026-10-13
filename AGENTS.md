@@ -38,6 +38,8 @@ New session: check that the git branch name matches the work, and rename it when
 
 New session and before a pull request: `git fetch origin` and check that the local copy is current with `origin/main` (**GIT-LOCAL-SYNC-01** in [doc_architecture.md](doc_architecture.md#keeping-your-local-copy-current-git-local-sync-01)). Fast-forward local `main`, merge `origin/main` into the work branch, and regenerate generated files instead of resolving them by hand.
 
+Always leave the checkout on the current branch: a branch whose pull request has merged is finished, so start the next work from current `main` and stash or move any stale uncommitted work first (**GIT-LOCAL-SYNC-01**). After every commit, give the exact push command, `git push -u origin <branch>` for a first push and `git push` after, and do not push unless asked (**GIT-PUSH-CL-01** in [doc_architecture.md](doc_architecture.md#reporting-a-commit-git-push-cl-01)).
+
 Pull requests: the Claude Code UI auto-generates PR bodies and can mislabel them (wrong lane, "no change of meaning", wrong model). After a PR is created, correct the body so it says what changed and which files were touched.
 
 **Lanes are not enforced before the announcement (custodian decision, 2026-10-07).** The repo is pre-release, so the `CONTRIBUTING.md` lane gates (Proposal issue, obligation snapshot/diff, evidence folder, Test 1 self-check) do not block merging. Keep `make regression` green and the PR body accurate. The lanes apply after the announcement.
