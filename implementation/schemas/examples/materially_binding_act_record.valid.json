@@ -11,7 +11,7 @@
     "description": "Authorize a bounded Class B system release after independent verification.",
     "material_scope": "Class B deployment to the named production region",
     "status": "conditioned",
-    "governing_authority": "System Charter §6 and Chapter Eight certification requirements",
+    "governing_authority": "System Charter §6 and Chapter Nine certification requirements",
     "classification": "B",
     "material_stake": "high"
   },
@@ -39,7 +39,7 @@
   },
   "determination": {
     "status": "conditioned",
-    "standard_applied": "Chapter Eight certification standard and the bounded-release conditions",
+    "standard_applied": "Chapter Nine certification standard and the bounded-release conditions",
     "determined_by": "Independent Assurance Office",
     "determined_at": "2026-09-18T15:02:00-05:00",
     "reasons": [

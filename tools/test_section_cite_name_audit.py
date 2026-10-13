@@ -108,7 +108,7 @@ class SectionCiteNameTests(unittest.TestCase):
         self.assertEqual(
             self._cites(
                 "[Chapter Seven §2 *Four-seat constitutional floor*]"
-                "(core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)"
+                "(core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)"
             ),
             [],
         )

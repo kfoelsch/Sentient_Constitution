@@ -239,7 +239,7 @@ flowchart TB
   - 초과 기간 검토; 및
   - 지연 방지 규율.
   
-  수치화된 단계별 기본 기간과 단계표: [CF-11.3.1 목표 기간 및 시간 기준선](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). 분야별 설명 사례: [제9~12장 적용 사례](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  수치화된 단계별 기본 기간과 단계표: [CF-11.3.1 목표 기간 및 시간 기준선](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). 분야별 설명 사례: [제9~12장 적용 사례](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **비상사태 이후 복구 및 이의제기:** 동일한 단계별 외곽 한도는 [**제12장 §6.1 비상조치와 계속 적용의 부담**](core_12_forum.md#61-emergency-measures-and-continuation-burden)에 따른 비상 격리 이후 통지 및 이의제기를 복구하기 위한 기본 기간입니다. 그 기간을 넘어 계속하려면 해당 절에 기록된 필요성 입증이 필요합니다. 이 조항은 더 느린 비상사태 시계를 만들지 않습니다.
 
 ### 제26조: 헌법의 진화와 고착 방지

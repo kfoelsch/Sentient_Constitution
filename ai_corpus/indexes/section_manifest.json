@@ -1,11 +1,11 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-12T23:06:55+00:00",
+  "generated_at": "2026-10-13T08:31:32+00:00",
   "files": {
     "core_00_preamble.md": {
-      "total_lines": 510,
+      "total_lines": 524,
       "sections": [
-        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":510,"anchor":"#chapter-00-preamble--foundational-requirements"},
+        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":524,"anchor":"#chapter-00-preamble--foundational-requirements"},
         {"header":"What Systems Reward","level":3,"line_start":28,"line_end":65,"anchor":"#what-systems-reward"},
         {"header":"1. The Model","level":3,"line_start":66,"line_end":111,"anchor":"#two-fundamental-questions"},
         {"header":"2. Measurements Overview","level":3,"line_start":112,"line_end":139,"anchor":"#2-measurements-overview"},
@@ -14,14 +14,14 @@
         {"header":"3.2 Key Governance Processes","level":4,"line_start":158,"line_end":173,"anchor":"#32-key-governance-processes"},
         {"header":"3.3 Governance Layers","level":4,"line_start":174,"line_end":189,"anchor":"#33-governance-layers"},
         {"header":"4. Principles, Definitions, and Rights","level":3,"line_start":190,"line_end":254,"anchor":"#4-principles-definitions-and-rights"},
-        {"header":"5. Functional Independence and Segregation of Duties","level":3,"line_start":255,"line_end":310,"anchor":"#5-functional-independence-and-segregation-of-duties"},
-        {"header":"5.1 Four-seat separation map","level":4,"line_start":276,"line_end":310,"anchor":null},
-        {"header":"6. Key Practical Process Pipelines","level":3,"line_start":311,"line_end":400,"anchor":"#6-key-practical-process-pipelines"},
-        {"header":"6.1 Process map","level":4,"line_start":331,"line_end":382,"anchor":null},
-        {"header":"6.2 How the full chain fits together","level":4,"line_start":383,"line_end":400,"anchor":"#62-how-the-full-chain-fits-together"},
-        {"header":"7. Process Ownership and Outputs","level":3,"line_start":401,"line_end":457,"anchor":"#7-process-ownership-and-outputs"},
-        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":458,"line_end":490,"anchor":"#8-governance-change-and-incorporation"},
-        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":491,"line_end":510,"anchor":null}
+        {"header":"5. Charters, Functional Independence, and Segregation of Duties","level":3,"line_start":255,"line_end":321,"anchor":"#5-charters-functional-independence-and-segregation-of-duties"},
+        {"header":"5.1 Four-seat separation map","level":4,"line_start":287,"line_end":321,"anchor":null},
+        {"header":"6. Key Practical Process Pipelines","level":3,"line_start":322,"line_end":414,"anchor":"#6-key-practical-process-pipelines"},
+        {"header":"6.1 Process map","level":4,"line_start":342,"line_end":396,"anchor":null},
+        {"header":"6.2 How the full chain fits together","level":4,"line_start":397,"line_end":414,"anchor":"#62-how-the-full-chain-fits-together"},
+        {"header":"7. Process Ownership and Outputs","level":3,"line_start":415,"line_end":471,"anchor":"#7-process-ownership-and-outputs"},
+        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":472,"line_end":504,"anchor":"#8-governance-change-and-incorporation"},
+        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":505,"line_end":524,"anchor":null}
       ]
     },
     "core_01_a_values_principles.md": {
@@ -624,10 +624,10 @@
         {"header":"Measuring Constitutional Performance (Preamble measurement family)","level":3,"line_start":31,"line_end":56,"anchor":"#performance-measurement-family"}
       ]
     },
-    "core_07_functional_independence_segregation_of_duties.md": {
+    "core_08_functional_independence_segregation_of_duties.md": {
       "total_lines": 384,
       "sections": [
-        {"header":"CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES","level":1,"line_start":2,"line_end":384,"anchor":"#chapter-seven-functional-independence-and-segregation-of-duties"},
+        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES","level":1,"line_start":2,"line_end":384,"anchor":"#chapter-eight-functional-independence-and-segregation-of-duties"},
         {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":33,"line_end":68,"anchor":"#1-purpose-scope-and-owner-boundary"},
         {"header":"2. Four-Seat Constitutional Floor","level":3,"line_start":69,"line_end":160,"anchor":"#2-four-seat-constitutional-floor"},
         {"header":"3. Independence, Conflict, and Control Lines","level":3,"line_start":161,"line_end":187,"anchor":"#3-independence-conflict-and-control-lines"},
@@ -639,10 +639,10 @@
         {"header":"9. Relationship to Later Processes","level":3,"line_start":349,"line_end":384,"anchor":"#9-relationship-to-later-processes"}
       ]
     },
-    "core_08_a_system_alignment_certification_evaluation.md": {
+    "core_09_a_system_alignment_certification_evaluation.md": {
       "total_lines": 1108,
       "sections": [
-        {"header":"CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION","level":1,"line_start":4,"line_end":1108,"anchor":"#chapter-eight-part-a-certification-evaluation"},
+        {"header":"CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION","level":1,"line_start":4,"line_end":1108,"anchor":"#chapter-nine-part-a-certification-evaluation"},
         {"header":"1. Purpose and Role","level":3,"line_start":28,"line_end":189,"anchor":"#1-purpose-and-role"},
         {"header":"1.1 Certification at a glance","level":4,"line_start":81,"line_end":189,"anchor":"#11-certification-at-a-glance"},
         {"header":"2. System Class Evaluation","level":3,"line_start":190,"line_end":307,"anchor":"#2-system-class-evaluation"},
@@ -702,10 +702,10 @@
         {"header":"5.6.4 Defects and Misalignment","level":5,"line_start":1095,"line_end":1108,"anchor":"#564-defects-and-misalignment"}
       ]
     },
-    "core_08_b_system_alignment_certification_record_process.md": {
+    "core_09_b_system_alignment_certification_record_process.md": {
       "total_lines": 879,
       "sections": [
-        {"header":"CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS","level":1,"line_start":2,"line_end":879,"anchor":"#chapter-eight-part-b-certification-record-and-process"},
+        {"header":"CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS","level":1,"line_start":2,"line_end":879,"anchor":"#chapter-nine-part-b-certification-record-and-process"},
         {"header":"6. Forum Process","level":3,"line_start":121,"line_end":318,"anchor":"#6-forum-process"},
         {"header":"6.1 Forum supervision and component roles","level":4,"line_start":157,"line_end":255,"anchor":"#61-forum-supervision-and-component-roles"},
         {"header":"6.1.1 Four seats in a certification","level":5,"line_start":172,"line_end":190,"anchor":"#611-four-seats-in-a-certification"},
@@ -730,10 +730,10 @@
         {"header":"10. Relationship to Standing","level":3,"line_start":797,"line_end":879,"anchor":"#10-relationship-to-standing"}
       ]
     },
-    "core_08_c_system_alignment_certification_illustrations.md": {
+    "core_09_c_system_alignment_certification_illustrations.md": {
       "total_lines": 760,
       "sections": [
-        {"header":"CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS","level":1,"line_start":3,"line_end":760,"anchor":"#chapter-eight-part-c-system-alignment-certification--illustrations"},
+        {"header":"CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS","level":1,"line_start":3,"line_end":760,"anchor":"#chapter-nine-part-c-system-alignment-certification--illustrations"},
         {"header":"Illustrative System Class Profiles (Non-Exhaustive)","level":3,"line_start":48,"line_end":63,"anchor":"#illustrative-system-class-profiles-non-exhaustive"},
         {"header":"Reclassification","level":3,"line_start":64,"line_end":75,"anchor":"#reclassification"},
         {"header":"Illustrative Whole-System Application by System Class (Non-Exhaustive)","level":3,"line_start":76,"line_end":189,"anchor":"#illustrative-whole-system-application-by-system-class-non-exhaustive"},
@@ -746,16 +746,16 @@
         {"header":"5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)","level":3,"line_start":667,"line_end":760,"anchor":"#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive"}
       ]
     },
-    "core_08_system_alignment_certification.md": {
+    "core_09_system_alignment_certification.md": {
       "total_lines": 116,
       "sections": [
-        {"header":"CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)","level":1,"line_start":2,"line_end":116,"anchor":"#chapter-eight-system-alignment-certification-index"}
+        {"header":"CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)","level":1,"line_start":2,"line_end":116,"anchor":"#chapter-nine-system-alignment-certification-index"}
       ]
     },
-    "core_09_standing_assessment.md": {
+    "core_10_standing_assessment.md": {
       "total_lines": 965,
       "sections": [
-        {"header":"CHAPTER NINE: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT","level":1,"line_start":2,"line_end":965,"anchor":"#chapter-nine-compliance-violation-and-standing-model"},
+        {"header":"CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT","level":1,"line_start":2,"line_end":965,"anchor":"#chapter-ten-compliance-violation-and-standing-model"},
         {"header":"1. The three questions","level":3,"line_start":47,"line_end":88,"anchor":"#1-the-three-questions"},
         {"header":"1.1 Purpose and scope","level":4,"line_start":65,"line_end":88,"anchor":null},
         {"header":"2. Question 1 — what happened?","level":3,"line_start":89,"line_end":232,"anchor":"#2-question-1--what-happened"},
@@ -790,11 +790,11 @@
         {"header":"7. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":883,"line_end":965,"anchor":"#7-unified-proportional-lequ-scale--contribution-and-violation-axes"}
       ]
     },
-    "core_10_standing_integration.md": {
+    "core_11_standing_integration.md": {
       "total_lines": 1033,
       "sections": [
-        {"header":"CHAPTER TEN: STANDING EFFECTS AND INTEGRATION","level":1,"line_start":2,"line_end":1033,"anchor":"#chapter-ten-standing-effects-and-integration"},
-        {"header":"1. Chapter Nine records do not change","level":3,"line_start":36,"line_end":84,"anchor":"#1-chapter-nine-records-do-not-change"},
+        {"header":"CHAPTER ELEVEN: STANDING EFFECTS AND INTEGRATION","level":1,"line_start":2,"line_end":1033,"anchor":"#chapter-eleven-standing-effects-and-integration"},
+        {"header":"1. Chapter Ten records do not change","level":3,"line_start":36,"line_end":84,"anchor":"#1-chapter-ten-records-do-not-change"},
         {"header":"2. Automatic integration, review, and continuity","level":3,"line_start":85,"line_end":120,"anchor":"#2-automatic-integration-review-and-continuity"},
         {"header":"3. Descriptor integration and attachment normalization","level":3,"line_start":121,"line_end":136,"anchor":"#3-descriptor-integration-and-attachment-normalization"},
         {"header":"4. Violation, correction, and prevention","level":3,"line_start":137,"line_end":249,"anchor":"#4-violation-correction-and-prevention"},
@@ -838,10 +838,10 @@
         {"header":"10.14 Verified cruelty character","level":4,"line_start":1016,"line_end":1033,"anchor":"#1014-verified-cruelty-character"}
       ]
     },
-    "core_11_a_misconduct_designation.md": {
+    "core_12_a_misconduct_designation.md": {
       "total_lines": 419,
       "sections": [
-        {"header":"CHAPTER ELEVEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION","level":1,"line_start":4,"line_end":419,"anchor":"#chapter-eleven-part-a-anti-constitutional-misconduct-designation"},
+        {"header":"CHAPTER TWELVE, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION","level":1,"line_start":4,"line_end":419,"anchor":"#chapter-twelve-part-a-anti-constitutional-misconduct-designation"},
         {"header":"1. How designation decisions work — Continuity and tetrad-capture frame","level":3,"line_start":78,"line_end":129,"anchor":"#1-decision-framework-scope-and-authority"},
         {"header":"2. Criteria set (for designation) — Accountability at constitutional scale","level":3,"line_start":130,"line_end":197,"anchor":"#2-criteria-set-for-designation"},
         {"header":"3. Violation Axis s = 7–9 anti-constitutional designation","level":3,"line_start":198,"line_end":259,"anchor":"#dissent-and-peaceful-protest-carve-out"},
@@ -851,10 +851,10 @@
         {"header":"4.3 Voluntary public accountability expression (anti-constitutional)","level":3,"line_start":392,"line_end":419,"anchor":"#4-3-voluntary-public-accountability-expression-anti-constitutional"}
       ]
     },
-    "core_11_b_misconduct_pattern_applications.md": {
+    "core_12_b_misconduct_pattern_applications.md": {
       "total_lines": 1076,
       "sections": [
-        {"header":"CHAPTER ELEVEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS","level":1,"line_start":2,"line_end":1076,"anchor":"#chapter-eleven-part-b-anti-constitutional-misconduct-pattern-applications"},
+        {"header":"CHAPTER TWELVE, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS","level":1,"line_start":2,"line_end":1076,"anchor":"#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications"},
         {"header":"5. Pattern applications and criteria routing — Participation and accountability-pathway integrity","level":3,"line_start":24,"line_end":42,"anchor":"#5-pattern-applications-and-criteria-routing"},
         {"header":"5.1 Concentration-based subversion: criteria interaction","level":3,"line_start":43,"line_end":66,"anchor":"#51-concentration-based-subversion-criteria-interaction"},
         {"header":"5.2 Rights-Floor waivers and unconstitutional contract terms","level":3,"line_start":67,"line_end":120,"anchor":"#52-rights-floor-waivers-and-unconstitutional-contract-terms"},
@@ -870,10 +870,10 @@
         {"header":"5.11 Obstruction of accountability: criteria interaction","level":3,"line_start":1017,"line_end":1076,"anchor":"#511-obstruction-of-accountability-criteria-interaction"}
       ]
     },
-    "core_12_forum.md": {
+    "core_13_forum.md": {
       "total_lines": 965,
       "sections": [
-        {"header":"CHAPTER TWELVE: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":965,"anchor":"#chapter-twelve-forums-and-jurisdiction"},
+        {"header":"CHAPTER THIRTEEN: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":965,"anchor":"#chapter-thirteen-forums-and-jurisdiction"},
         {"header":"1. Purpose and role — participation architecture","level":3,"line_start":46,"line_end":136,"anchor":"#1-purpose-and-role--participation-architecture"},
         {"header":"2. Default venue and primary stakes","level":3,"line_start":137,"line_end":282,"anchor":"#2-default-venue-and-primary-stakes"},
         {"header":"2.1 Lead-default limits","level":4,"line_start":210,"line_end":220,"anchor":"#21-lead-default-limits"},
@@ -897,16 +897,16 @@
         {"header":"Backup routing under the anti-self-judging rule","level":4,"line_start":695,"line_end":714,"anchor":null},
         {"header":"Sentience-status adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) implementation hook)","level":4,"line_start":715,"line_end":771,"anchor":null},
         {"header":"Referral distinguished from expansion","level":4,"line_start":772,"line_end":779,"anchor":null},
-        {"header":"Chapter Eleven designation and independent review","level":4,"line_start":780,"line_end":788,"anchor":null},
+        {"header":"Chapter Twelve designation and independent review","level":4,"line_start":780,"line_end":788,"anchor":null},
         {"header":"6. Timely resolution, materiality tiers, and anti-delay discipline","level":3,"line_start":789,"line_end":930,"anchor":"#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"},
         {"header":"6.1 Emergency measures and continuation burden","level":4,"line_start":897,"line_end":930,"anchor":"#61-emergency-measures-and-continuation-burden"},
         {"header":"7. Forum support before, during, and after review — oversight architecture","level":3,"line_start":931,"line_end":965,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
       ]
     },
-    "core_09-12_application_vignettes.md": {
+    "core_10-13_application_vignettes.md": {
       "total_lines": 344,
       "sections": [
-        {"header":"CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES","level":1,"line_start":2,"line_end":344,"anchor":"#chapters-nine-twelve-application-vignettes"},
+        {"header":"CHAPTERS TEN–THIRTEEN: PIPELINE APPLICATION VIGNETTES","level":1,"line_start":2,"line_end":344,"anchor":"#chapters-ten-thirteen-application-vignettes"},
         {"header":"1. Child neglect / care-duty failure (Tier A)","level":3,"line_start":35,"line_end":84,"anchor":"#1-child-neglect--care-duty-failure-tier-a"},
         {"header":"Situation","level":4,"line_start":39,"line_end":42,"anchor":null},
         {"header":"Legacy failure mode","level":4,"line_start":43,"line_end":46,"anchor":null},
@@ -1121,10 +1121,10 @@
         {"header":"Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives","level":4,"line_start":513,"line_end":566,"anchor":"#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"}
       ]
     },
-    "core_13_governance.md": {
+    "core_14_governance.md": {
       "total_lines": 497,
       "sections": [
-        {"header":"CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":2,"line_end":497,"anchor":"#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"},
+        {"header":"CHAPTER FOURTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":2,"line_end":497,"anchor":"#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship"},
         {"header":"0. Layer Boundary for This Chapter","level":3,"line_start":29,"line_end":49,"anchor":null},
         {"header":"1. Authorization and Legitimacy of Governing Authority","level":3,"line_start":50,"line_end":234,"anchor":null},
         {"header":"1.1 Mechanism families, auditability, and pluralism","level":4,"line_start":69,"line_end":138,"anchor":null},
@@ -1141,20 +1141,20 @@
         {"header":"5. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":461,"line_end":497,"anchor":null}
       ]
     },
-    "core_14_non_regression.md": {
+    "core_15_non_regression.md": {
       "total_lines": 184,
       "sections": [
-        {"header":"CHAPTER FOURTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":2,"line_end":184,"anchor":"#chapter-fourteen-non-regression-and-substantive-amendment-validity"},
+        {"header":"CHAPTER FIFTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":2,"line_end":184,"anchor":"#chapter-fifteen-non-regression-and-substantive-amendment-validity"},
         {"header":"1. Non-Regression Floor","level":3,"line_start":51,"line_end":79,"anchor":null},
         {"header":"2. Test 1 — Substantive Non-Regression Validity","level":3,"line_start":80,"line_end":106,"anchor":"#2-test-1--substantive-non-regression-validity"},
         {"header":"3. Anti-Evasion Clause and Constitutional-Misconduct Referral","level":3,"line_start":107,"line_end":139,"anchor":null},
         {"header":"4. Layer scope","level":3,"line_start":140,"line_end":184,"anchor":"#4-layer-scope"}
       ]
     },
-    "core_15_expansion_supremacy.md": {
+    "core_16_expansion_supremacy.md": {
       "total_lines": 265,
       "sections": [
-        {"header":"CHAPTER FIFTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS","level":1,"line_start":2,"line_end":265,"anchor":"#chapter-fifteen-expansion-supremacy-and-external-legal-orders"},
+        {"header":"CHAPTER SIXTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS","level":1,"line_start":2,"line_end":265,"anchor":"#chapter-sixteen-expansion-supremacy-and-external-legal-orders"},
         {"header":"1. Additive Expansion Permitted","level":3,"line_start":40,"line_end":55,"anchor":null},
         {"header":"2. Continuity of Supremacy and Challenge Rights During Amendment","level":3,"line_start":56,"line_end":71,"anchor":null},
         {"header":"3. Supremacy Relative to Other Binding Norms","level":3,"line_start":72,"line_end":142,"anchor":null},
@@ -1169,10 +1169,10 @@
         {"header":"5.2 Alignment When Used Within External Legal Frameworks","level":4,"line_start":238,"line_end":265,"anchor":null}
       ]
     },
-    "core_16_amendment_ratification.md": {
+    "core_17_amendment_ratification.md": {
       "total_lines": 358,
       "sections": [
-        {"header":"CHAPTER SIXTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":2,"line_end":358,"anchor":"#chapter-sixteen-amendment-ratification-and-procedural-validity"},
+        {"header":"CHAPTER SEVENTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":2,"line_end":358,"anchor":"#chapter-seventeen-amendment-ratification-and-procedural-validity"},
         {"header":"1. Heightened Review for Rights-Affecting Changes","level":3,"line_start":42,"line_end":57,"anchor":null},
         {"header":"2. Burden of Justification and Public Traceability","level":3,"line_start":58,"line_end":73,"anchor":null},
         {"header":"3. Validity-Floor Rule","level":3,"line_start":74,"line_end":90,"anchor":null},
@@ -1192,10 +1192,10 @@
         {"header":"12. Layer scope","level":3,"line_start":324,"line_end":358,"anchor":"#12-layer-scope"}
       ]
     },
-    "core_17_incorporation.md": {
+    "core_18_incorporation.md": {
       "total_lines": 170,
       "sections": [
-        {"header":"CHAPTER SEVENTEEN: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":170,"anchor":null},
+        {"header":"CHAPTER EIGHTEEN: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":170,"anchor":null},
         {"header":"1. Role of this chapter","level":3,"line_start":39,"line_end":62,"anchor":null},
         {"header":"2. Custody, editions, and operative effect","level":3,"line_start":63,"line_end":106,"anchor":null},
         {"header":"3. Safeguards","level":3,"line_start":107,"line_end":139,"anchor":null},

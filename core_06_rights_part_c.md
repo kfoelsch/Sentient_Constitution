@@ -109,14 +109,14 @@ Sentients have the right to interact with systems that are reliable and trustwor
 
 Two safeguards work together to secure this right: certification makes a system worthy of that trust, and the rights of sentients keep it honest.
 
-**Certification builds trust from the system's side:** When an important system has a real effect on how sentients rely on it, [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) applies. It checks that sentients can rely on:
+**Certification builds trust from the system's side:** When an important system has a real effect on how sentients rely on it, [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) applies. It checks that sentients can rely on:
 
 - what the system says it does
 - its limits and risks
 - how to challenge it
 - how problems get fixed
 
-If the system meets the importance threshold in **Article XIII** (*Right to Reliable and Trustworthy Systems*), certification also includes a trustworthiness review under [Chapter Eight §5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
+If the system meets the importance threshold in **Article XIII** (*Right to Reliable and Trustworthy Systems*), certification also includes a trustworthiness review under [Chapter Nine §5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Contestability keeps the system honest from the sentient's side:** Certification checks a system; it does not have the last word on it. Every sentient affected by the system keeps:
 
@@ -129,7 +129,7 @@ If the system meets the importance threshold in **Article XIII** (*Right to Reli
 *Article neighbors:*
 
 - **When this applies:** Where system behavior materially gates or sustains **Chapter Six** Rights Floors — including survival essentials under **Article III-A** (*Survival*).
-- **Read together:** [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — without substituting certification for the floors stated here.
+- **Read together:** [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) and [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — without substituting certification for the floors stated here.
 
 #### Article XIII-A: Reliability and Trustworthiness Baseline
 <details>
@@ -184,7 +184,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§6.1 Correction and Remedy](core_01_a_values_principles.md#61-correction-and-remedy) (principle floor), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Read with: [**Article XIII-A** (*Reliability and Trustworthiness Baseline*)](#article-xiii-a-reliability-and-trustworthiness-baseline) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) where system failure or misalignment defeats survival-essential access; [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*); [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- Read with: [**Article XIII-A** (*Reliability and Trustworthiness Baseline*)](#article-xiii-a-reliability-and-trustworthiness-baseline) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) where system failure or misalignment defeats survival-essential access; [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*); [Chapter Eleven §9](core_11_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -328,15 +328,15 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 - **No exemption:** These systems must follow the same rules as everyone else:
   - **Truth** in **Chapter One**;
   - **Article XV** (*Info-Sphere Integrity*) and **Article XVI** (*Audit, Transparency, and Independent Verification*);
-  - **Chapter Nine** where it applies; and
+  - **Chapter Ten** where it applies; and
   - corrective measures under **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
   This applies whenever the system's operation materially weakens sentients' ability to challenge decisions, the honesty of shared information, or constitutional process.
 - **Acting against a system is not acting against a being:** Containing, quarantining, impounding, or destroying a non-compliant deployment under **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is separate from:
-  - holding a sentient accountable under **Chapter Eleven**; and
+  - holding a sentient accountable under **Chapter Twelve**; and
   - **Article XX-B** (*Restriction Floors*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)).
 
-  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the record under **Chapter Nine**, and each measure is a lock designed and calibrated under [Chapter Ten §5.1](core_10_standing_integration.md#51-definition-and-attachment) (*Definition and attachment*) and [Chapter Ten §5.2](core_10_standing_integration.md#52-proportionality-and-calibration) (*Proportionality and calibration*).
+  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the record under **Chapter Ten**, and each measure is a lock designed and calibrated under [Chapter Eleven §5.1](core_11_standing_integration.md#51-definition-and-attachment) (*Definition and attachment*) and [Chapter Eleven §5.2](core_11_standing_integration.md#52-proportionality-and-calibration) (*Proportionality and calibration*).
 
   Both tracks can apply to the same facts. Nothing in this Article turns the power to destroy a system into power over a sentient's life.
 - **The reverse also holds:** Claiming that a deployed system is sentient — whether the claim is disputed or accepted — does not let anyone keep a harmful deployment running.
@@ -348,7 +348,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Resilience and Self-Healing Design](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Resilience and Self-Healing Design](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -428,14 +428,14 @@ This Article covers the exceptional powers of security, intelligence, force, and
   - open use of force and military power — **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*);
   - machines that can kill, or can coerce sentients, on their own — **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
   - hunting spies, saboteurs, and hostile infiltrators — **Article XIV-D** (*Counter-Espionage Limits*), which adds to **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and never narrows it.
-- **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs). In short, the record must show:
+- **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs). In short, the record must show:
   - what was done, how far it reached, and what authority allowed it;
   - who asked for it, who independently approved it and on what grounds, and who keeps the record;
   - how to challenge it, and where any challenge stands;
   - every emergency shortcut, handoff, or substitution, and when each approval runs out.
 
   An existing official record can serve as the Act Record if it contains all of this; a separate duplicate is not required.
-  - **Emergencies change the order, not the record:** When action is taken before approval under [Chapter Seven §7 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Twelve §6.1** (*Emergency measures and continuation burden*), the reason, scope, start, and expiry go into the record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
+  - **Emergencies change the order, not the record:** When action is taken before approval under [Chapter Eight §7 Emergency and Urgent Action](core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*), the reason, scope, start, and expiry go into the record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
   - **Secrecy limits who can see the record, not whether it exists:** Security and confidentiality rules may limit who can see parts of an Act Record. They may never erase it, or make it unusable for independent review, challenge, correction, or remedy.
   - **The actor's own logs are not approval:** Logs, model traces, targeting data, or sign-offs produced by the agency, force, or system that acted are evidence to link to the Act Record. They cannot replace independent approval or the Act Record itself.
   - **Machines need a named human decision:** For an autonomous lethal system or coercion tool, the Act Record must identify the human who made the decision that **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*) requires, and what information that human had when deciding.
@@ -547,7 +547,7 @@ This Article sets out the limits on security, intelligence, and covert power:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Twelve §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
+- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -595,7 +595,7 @@ This Article sets out the limits on overt force, armed conflict, and military po
   - Compulsion may not turn on **Protected Characteristics** or their material proxies.
   - Conscientious-objection, comparable-worldview, and conscience-based refusal are protected consistent with **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
   - Substrate-class compulsion — for example, assignment of synthetic sentients to combat functions on the basis of substrate class alone — is non-compliant consistent with **Sentience Non-Exclusion**.
-- **Emergency-dressed normalization:** Emergency framings that functionally normalize overt force are non-compliant under **Chapter Twelve §6.1** (*Emergency measures and continuation burden*) emergency-measure discipline and under this Article's *Authorization and Proportionality* bullet. Examples in scope:
+- **Emergency-dressed normalization:** Emergency framings that functionally normalize overt force are non-compliant under **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure discipline and under this Article's *Authorization and Proportionality* bullet. Examples in scope:
   - indefinite extension;
   - routinized reauthorization without substantive review;
   - scope-creep into non-emergency conduct.
@@ -669,7 +669,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Seven §7 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action); and [Chapter Twelve §6.1](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*).
+- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Eight §7 Emergency and Urgent Action](core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action); and [Chapter Thirteen §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*).
 
 </details>
 
@@ -704,7 +704,7 @@ This Article sets out the limits on counter-espionage power:
   - how a sentient who is cleared has their access, standing, and record restored.
 
   The limits themselves must be public. Secrecy may withhold specific methods and live operations, but not the rules that bind them.
-  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Seven §7 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Twelve §6.1** (*Emergency measures and continuation burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
+  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Eight §7 Emergency and Urgent Action](core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
   - **An emergency does not rewrite the rules:** Changing the protocol goes through the same independent approval, and a change applies only going forward.
   - **Discovery is not an emergency:** Finding a spy, a leak, or a breach does not by itself suspend the protocol.
 - **Suspicion must rest on conduct:** An investigation may open only on specific, recorded facts about a sentient's own conduct. None of the following is enough on its own:
@@ -798,7 +798,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -869,7 +869,7 @@ This Article sets out the floors for authentic inquiry, provenance, and contesta
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -966,7 +966,7 @@ One set of audit rules, in three layers. Oversight means someone outside can reb
 | **2. Property** | What "rebuildable" means: an outsider can reconstruct and check what the system did at the times, in the states, and in the situations that matter | [Auditability](core_05_band_oversight.md#auditability) (Chapter Five) | Not the Rights Floor. Not instructions for how or when to audit. |
 | **3. Process** | How and when to run audits across systems, institutions, and forums | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home) (*Audit process home*). Operator annexes: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*) (who may see audit results), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (*Oversight: independent verification and claim-integrity terms*) (checking claims) | Not system alignment certification. Cannot stand in for layers 1 and 2. |
 
-**Chapter Eight is not a fourth layer.** [System alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) is one large process, supervised by a forum, that **uses** these three layers. It must meet layers 1 and 2. Other kinds of audit use them too: audits of a system's classification record or data-types record, checks of claims, and ongoing monitoring. None of them is a new place where audit rules live.
+**Chapter Nine is not a fourth layer.** [System alignment certification](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) is one large process, supervised by a forum, that **uses** these three layers. It must meet layers 1 and 2. Other kinds of audit use them too: audits of a system's classification record or data-types record, checks of claims, and ongoing monitoring. None of them is a new place where audit rules live.
 
 **Adopted implementation text applies the floor; it does not replace it.** CS, CI, CF, and the CJS-3.3 (*Oversight: auditability and reconstructability terms*) through CJS-3.5 (*Oversight: independent verification and claim-integrity terms*) annexes say how to run audits (layer 3) in a particular area. They must meet layers 1 and 2. Deadlines, secrecy, and local policy rank below the floor.
 
@@ -978,7 +978,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), and [§9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity).
-- Read with: [Three-layer audit picture](#audit-three-layers) above; [Article XV](#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*) where records about information, and the ability to challenge that information, are at stake; [Article XIII-A](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) for the right to challenge a system, which audits support but do not replace; [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) where evidence that a system is aligned must stay open to independent checking.
+- Read with: [Three-layer audit picture](#audit-three-layers) above; [Article XV](#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*) where records about information, and the ability to challenge that information, are at stake; [Article XIII-A](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) for the right to challenge a system, which audits support but do not replace; [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) where evidence that a system is aligned must stay open to independent checking.
 
 </details>
 
@@ -1017,7 +1017,7 @@ This Article covers audit, transparency, and independent verification:
 
 - **Oversight includes auditing:** Under the **oversight** check of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), this Article is where the right to audit lives.
   - How and when to run audits across implementations is set out in the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (read with the **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) and **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) operator annexes).
-  - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) is one especially large, high-stakes audit. It is supervised by a forum, covers many areas, and grants formal certification. Other kinds of audit sit beside it:
+  - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) is one especially large, high-stakes audit. It is supervised by a forum, covers many areas, and grants formal certification. Other kinds of audit sit beside it:
     - audits of a System Data Types Record;
     - audits of a System Classification Record;
     - steward assurance reviews;
@@ -1058,8 +1058,8 @@ This Article sets out the floor for observable and contestable evidence:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§18.3 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties).
-- Read with: [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) for which seats must stay apart on a materially binding act.
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§18.3 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties).
+- Read with: [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§3 Independence, Conflict, and Control Lines](core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) for which seats must stay apart on a materially binding act.
 
 </details>
 
@@ -1086,7 +1086,7 @@ This Article sets out the floor for distributed oversight:
     - more review paths, deeper review, and more frequent review as a system's class, impact, and dependency rise;
     - a fresh check whenever a material change means earlier checks no longer describe the system; and
     - published triggers that require outside review when internal review cannot be trusted to do the job.
-- **No checking your own work:** Having many reviewers is not enough if a reviewer is checking its own act. Under segregation of duties — **Chapter One §18.3** (*Segregation of Duties*) and **Chapter Seven** (*Functional Independence and Segregation of Duties*) — this applies to human and AI stewards alike:
+- **No checking your own work:** Having many reviewers is not enough if a reviewer is checking its own act. Under segregation of duties — **Chapter One §18.3** (*Segregation of Duties*) and **Chapter Eight** (*Functional Independence and Segregation of Duties*) — this applies to human and AI stewards alike:
   - whoever started or carried out an act, or operates the system under review, may not verify or authorize that act;
   - whoever verifies or authorizes an act may not also keep its official record or hear the challenge to it.
 #### Article XVI-C: Verification Accessibility
@@ -1182,7 +1182,7 @@ This Article covers system lifecycle, environments, and reversibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1222,7 +1222,7 @@ This Article sets out the floor for environment integrity:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -1261,7 +1261,7 @@ This Article sets out the floors for progressive deployment and reversibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1330,7 +1330,7 @@ This Article covers innovation, experimentation, and creative freedom:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -1395,7 +1395,7 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1541,7 +1541,7 @@ This Article sets out the rules for rewarding inventions, processes, and functio
   - **Exclusive phase:** For no more than `disclosure+15` years, the right-holder may refuse permission to others.
   - **Open-licensing phase:** From the end of the exclusive phase until no later than `disclosure+30` years, anyone may use the invention without the right-holder's permission, on payment of a LEQU-based fee. The right-holder may not refuse, delay, or attach conditions beyond the fee.
   - **After the term:** The invention is free for all to use. Attribution and provenance may persist.
-- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
+- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Chapter Ten §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
   - **Fair wages for time:** Verified benefit is converted into a fee by valuing it as sentient time at a fair wage.
     - For gains in productivity, that time is the working time the invention saves, or the productive time it adds, for those who use it.
     - For other benefits, that time is the lifetime-equivalent time given by the LEQU measure.

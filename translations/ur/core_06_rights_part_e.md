@@ -242,7 +242,7 @@ flowchart TB
   - زائد مدت کا جائزہ؛ اور
   - تاخیر مخالف نظم۔
   
-  درجے کے لحاظ سے ہدفی مدتیں اور مرحلوں کے جدول: [CF-11.3.1 ہدفی مدتیں اور وقت کے کم از کم معیار](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)۔ شعبہ جاتی اطلاق کی مثالیں: [ابواب نہم تا دوازدہم کے اطلاقی نمونے](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes)۔
+  درجے کے لحاظ سے ہدفی مدتیں اور مرحلوں کے جدول: [CF-11.3.1 ہدفی مدتیں اور وقت کے کم از کم معیار](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)۔ شعبہ جاتی اطلاق کی مثالیں: [ابواب نہم تا دوازدہم کے اطلاقی نمونے](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes)۔
 - **ہنگامی حالت کے بعد بحالی اور اعتراض:** درجے کی یہی بیرونی حدود [**باب دوازدہم §6.1 ہنگامی اقدامات اور تسلسل کا بوجھ**](core_12_forum.md#61-emergency-measures-and-continuation-burden) کے تحت ہنگامی روک تھام کے بعد اطلاع اور اعتراض بحال کرنے کی معیاری مدتیں ہیں۔ ان مدتوں سے آگے جاری رکھنے کے لیے اسی حصے کے تحت ضرورت کا دستاویزی ثبوت لازم ہے۔ یہ دفعہ ہنگامی گھڑی کو سست نہیں کرتی۔
 
 ### دفعہ XXVI: آئینی ارتقا اور جمود سے بچاؤ

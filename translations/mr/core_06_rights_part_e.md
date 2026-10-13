@@ -241,7 +241,7 @@ flowchart TB
   - कालमर्यादा ओलांडल्याचे पुनरावलोकन; आणि
   - विलंबविरोधी शिस्त.
 
-  संख्यात्मक स्तर-पूर्वनिश्चित कालमर्यादा व टप्पा-तक्ते: [CF-11.3.1 उद्दिष्ट कालमर्यादा व वेळेचे किमान निकष](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). क्षेत्रनिहाय उदाहरणे: [अध्याय नऊ–बारा अनुप्रयोग दृष्टांत](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  संख्यात्मक स्तर-पूर्वनिश्चित कालमर्यादा व टप्पा-तक्ते: [CF-11.3.1 उद्दिष्ट कालमर्यादा व वेळेचे किमान निकष](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). क्षेत्रनिहाय उदाहरणे: [अध्याय नऊ–बारा अनुप्रयोग दृष्टांत](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **आणीबाणीनंतर पुनर्स्थापना-आव्हान:** आणीबाणीच्या नियंत्रणानंतर सूचना व आव्हानाची संधी पुन्हा देण्यासाठी [**अध्याय बारावा §6.1 आणीबाणीचे उपाय व पुढे चालू ठेवण्याचे ओझे**](core_12_forum.md#61-emergency-measures-and-continuation-burden) अंतर्गत तेच स्तरनिहाय बाह्य निर्बंध पूर्वनिश्चित कालमर्यादा आहेत. त्यापलीकडे चालू ठेवण्यासाठी त्या विभागानुसार आवश्यकतेचे दस्तऐवजीकरण आवश्यक आहे. हा लेख आणीबाणीसाठी मंद कालमर्यादा निर्माण करत नाही.
 
 ### लेख XXVI: घटनात्मक उत्क्रांती व स्थिरीकरणास प्रतिबंध

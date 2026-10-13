@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">করপাসে অবস্থান (অ-কার্যকরী): ফাইলের গঠন ও পড়ার নিয়ম</span></strong></summary>
 
-> এই ফাইল [ইংরেজি অধ্যায় সাত পড়ার সূচি](../../core_08_system_alignment_certification.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
+> এই ফাইল [ইংরেজি অধ্যায় সাত পড়ার সূচি](../../core_09_system_alignment_certification.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_07_system_alignment_certification.md`](../../core_09_system_alignment_certification.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
 >
 > **অধ্যায় সাত** দুই বাধ্যতামূলক ফাইলে ভাগ, এক দলিল হিসেবে পড়া:
 >
@@ -39,4 +39,4 @@
 
 **পরের ফাইল (এই ভাষায়):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**বাধ্যতামূলক মূল:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)
+**বাধ্যতামূলক মূল:** [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md)

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-14** (*Transitional governance and institutional evolution*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-14** (*Transitional governance and institutional evolution*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-14.1: Interface — **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxviii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements); [CI-14.3: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements](#ci-143-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements); [CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication](#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication); [CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets](#ci-145-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets).
 - Read with: **CI-14** (*Transitional governance and institutional evolution*); **CI-14.1** (*non-compliant property, seizure, voluntary incentives*); **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*); **CI-14.3** (*operative transition-scoped remediation requirements*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-11** (*Resource stewardship and incentive integrity*); [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
 - Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-0.1** (*Topic router*); primary owner **CF-12** (*Forum continuity*).
@@ -124,7 +124,7 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 
 Institutions must publish which of the following apply in scope, with local procedure links:
 
-- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Nine**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires.
+- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Ten**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires.
 - **Anti-constitutional-use containment** — interim protection or stop-the-use measures for property, funds, or systems tied by a final record to anti-constitutional conduct, applied only under the authority and safeguards of **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and the misconduct chapters, never as a transition power. Institutions publish how use is shown, who is notified, and how non-culpable holders are protected.
 - **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), or prevent flight of assets, distinguished from retaliatory economic stripping.
 - **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization rules.
@@ -163,7 +163,7 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 
 <br>
 
-*In plain terms: **CI-14.3** (*operative transition-scoped remediation requirements*) is the operational half of **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XX-B** (*Restriction Floors*).*
+*In plain terms: **CI-14.3** (*operative transition-scoped remediation requirements*) is the operational half of **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Ten**, or **Article XX-B** (*Restriction Floors*).*
 
 **Constitutional home:** **Chapter Six**, **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**.
 
@@ -176,7 +176,7 @@ A **documented transition plan** under **Article XXVIII-A** (*Phased Adoption an
 - systems within **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
 - instrumentalities whose **predominant readily foreseeable use** sustains **known non-compliant** operation at material risk.
 
-**Permitted measures (only with procedural safeguards):** **Seizure**, **impoundment**, **quarantine from shared infrastructure**, or comparable **lawful custody transfer** is permitted **only** when procedural custody-transfer pathways satisfy **Article XII-A** (*Stakeholder System Participation and Representation*) and **Chapter Nine** where applicable.
+**Permitted measures (only with procedural safeguards):** **Seizure**, **impoundment**, **quarantine from shared infrastructure**, or comparable **lawful custody transfer** is permitted **only** when procedural custody-transfer pathways satisfy **Article XII-A** (*Stakeholder System Participation and Representation*) and **Chapter Ten** where applicable.
 
 **Necessity and proportionality:** **Necessity**, **Proportionality**, and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) must be demonstrable, including:
 
@@ -214,7 +214,7 @@ Time-bounded, published incentives for **good-faith voluntary turnover** or **ve
 
 **Implementation custody (local publication required)**
 
-Each institution in scope must publish local procedures for the following, and must **not** narrow **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XX-B** (*Restriction Floors*) meaning:
+Each institution in scope must publish local procedures for the following, and must **not** narrow **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Ten**, or **Article XX-B** (*Restriction Floors*) meaning:
 
 - triggers;
 - valuation;
@@ -298,7 +298,7 @@ Institutions may add measures. They may not drop a family.
 
 - Until a forum or equivalent is declared ready for a scope, the restraint duties in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) are enforced through the oversight, verification, public-reporting, protected-reporting, and contest channels that already exist for that scope.
 - The plan names those channels for each scope and names who receives a complaint that a restraint duty was breached.
-- Each complaint is recorded with its date, subject, and outcome, and counted in the ledger. Complaints the existing channels cannot decide are held and referred to the **Chapter Nine** path as soon as the scope's forum is ready.
+- Each complaint is recorded with its date, subject, and outcome, and counted in the ledger. Complaints the existing channels cannot decide are held and referred to the **Chapter Ten** path as soon as the scope's forum is ready.
 - A complaint is not closed because the forum is not yet ready. The record shows what was done meanwhile, such as stopping the conduct, interim containment, or preservation.
 - Protected-reporting and no-retaliation protections apply.
 
@@ -331,7 +331,7 @@ While any indicator persists, repair of the verification and measurement machine
 
 - **On track:** at or ahead of the current milestone.
 - **At risk:** behind the milestone but within the stated tolerance. A recovery plan is published.
-- **Failed:** a milestone missed without **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization, an avoidable or unrecovered regression, or a domain unmeasured past its window. This is a transition milestone failure that opens the ordinary path under [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*Compliance, Violation, and Standing Model*). No phase advancement that depends on the domain may proceed, and **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) failure handling applies.
+- **Failed:** a milestone missed without **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization, an avoidable or unrecovered regression, or a domain unmeasured past its window. This is a transition milestone failure that opens the ordinary path under [Chapter Ten](../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (*Compliance, Violation, and Standing Model*). No phase advancement that depends on the domain may proceed, and **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) failure handling applies.
 - **Unmeasured:** treated as unattained and as a measurement priority until measured.
 - **Regression:** any recorded decline needs a published cause analysis and recovery plan by the next major progress report. It becomes **failed** if it was caused by the adopter's avoidable acts or is not recovered by the following report.
 
@@ -351,7 +351,7 @@ While any indicator persists, repair of the verification and measurement machine
 
 **Implementation custody (local publication required)**
 
-Each institution in scope must publish locally the ledger owner, independent verifier, measure definitions, tolerance bands, cadence, publication channel, and the process for correcting or disputing ledger data. None of these may narrow **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*), **Chapter Nine**, or the Rights-Floor Minimums Principle.
+Each institution in scope must publish locally the ledger owner, independent verifier, measure definitions, tolerance bands, cadence, publication channel, and the process for correcting or disputing ledger data. None of these may narrow **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*), **Chapter Ten**, or the Rights-Floor Minimums Principle.
 
 <a id="ci-145-article-xxviii-a-prioritizing-institutional-transition-targets"></a>
 

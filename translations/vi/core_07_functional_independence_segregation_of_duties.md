@@ -4,12 +4,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không có hiệu lực vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Tệp này **là một phần của Hiến pháp Sentient** và chỉ **có tính ràng buộc khi được đọc cùng** các tệp `core_*` được đánh số khác như một văn kiện thống nhất. Tệp này chứa **Chương Bảy**: chuẩn nền xuyên quy trình về tính độc lập chức năng và phân tách nhiệm vụ. Chương này đứng sau Tầng quyền Chương Sáu và trước các chương về quy trình hiến pháp bắt đầu với [chứng nhận sự phù hợp của hệ thống thuộc Chương Tám](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
+> Tệp này **là một phần của Hiến pháp Sentient** và chỉ **có tính ràng buộc khi được đọc cùng** các tệp `core_*` được đánh số khác như một văn kiện thống nhất. Tệp này chứa **Chương Bảy**: chuẩn nền xuyên quy trình về tính độc lập chức năng và phân tách nhiệm vụ. Chương này đứng sau Tầng quyền Chương Sáu và trước các chương về quy trình hiến pháp bắt đầu với [chứng nhận sự phù hợp của hệ thống thuộc Chương Tám](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index).
 >
 > - **Chủ thể phụ trách theo Hiến pháp:** chuẩn nền về các vị trí riêng biệt đối với hành vi có hiệu lực ràng buộc trọng yếu; nội dung tối thiểu áp dụng cho mọi [Hồ sơ Hành vi Ràng buộc Trọng yếu](../../core_05_band_accountability.md#materially-binding-act-record); sự độc lập với chủ thể hành động và [Tuyến Kiểm soát Trọng yếu](../../core_05_band_accountability.md#material-control-line) của chủ thể đó; việc công bố phân công làn và vai trò; định tuyến xung đột, vị trí khuyết, thay thế và phân công sai vị trí; việc bố trí chung theo tỷ lệ; bàn giao có thể quy trách nhiệm; và các điều kiện độc lập tối thiểu mà mọi quy trình hiến pháp về sau phải áp dụng.
 > - **Nguồn ở tầng nguyên tắc:** [Chương Một §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) yêu cầu quản trị duy trì tính độc lập chức năng và định tuyến kiến trúc vị trí vận hành đến đây.
 > - **Chủ thể triển khai:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) và [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) phân công và vận hành các vị trí. Các văn bản đó có thể đặt chuẩn nghiêm ngặt hơn và bổ sung các loại vị trí thẩm quyền đặc biệt có giới hạn; chúng không được thu hẹp chương này.
-> - **Việc áp dụng riêng cho từng quy trình vẫn thuộc các chương sau:** Chương Tám áp dụng chuẩn nền này cho chứng nhận sự phù hợp của hệ thống; [Chương Chín §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties) áp dụng cho hồ sơ tư cách; Chương Mười Hai và [corpus_forum.md](../../corpus_forum.md) áp dụng cho quy trình diễn đàn. Các chương đó có thể bổ sung biện pháp bảo vệ cần thiết theo lĩnh vực của mình; chúng không được tạo ra một phương án thay thế yếu hơn.
+> - **Việc áp dụng riêng cho từng quy trình vẫn thuộc các chương sau:** Chương Tám áp dụng chuẩn nền này cho chứng nhận sự phù hợp của hệ thống; [Chương Chín §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) áp dụng cho hồ sơ tư cách; Chương Mười Hai và [corpus_forum.md](../../corpus_forum.md) áp dụng cho quy trình diễn đàn. Các chương đó có thể bổ sung biện pháp bảo vệ cần thiết theo lĩnh vực của mình; chúng không được tạo ra một phương án thay thế yếu hơn.
 >
 > Thứ tự đọc: §1 mục đích và phạm vi → §2 chuẩn nền bốn vị trí → §3 tính độc lập và xung đột → §4 định tuyến sai vị trí → §5 phân công được công bố và người thay thế → §6 điều chỉnh theo tỷ lệ → §7 tình huống khẩn cấp → §8 Hồ sơ Hành vi và bàn giao có thể quy trách nhiệm → §9 áp dụng ở các quy trình sau.
 
@@ -20,7 +20,7 @@
 
 - Thượng nguồn: [Tứ trụ Hiến pháp](../../core_00_preamble.md#constitutional-tetrad) — đặc biệt là **giám sát** và **trách nhiệm giải trình**; [lợi ích trọng yếu](../../core_00_preamble.md#material-stake); [Chuẩn mực Quản trị Chung §17.1 Chương Một](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Quản trị dưới Kỷ luật Quản trị §18 Chương Một](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Điều XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Kiểm toán, Minh bạch và Xác minh Độc lập*).
 - Các mục: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- Hạ nguồn: [Chương Tám](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [Chương Chín](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [Chương Mười Hai](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Chương Mười Ba](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); các văn bản triển khai được chỉ định ở trên.
+- Hạ nguồn: [Chương Tám](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Chương Chín](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chương Mười Hai](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chương Mười Ba](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); các văn bản triển khai được chỉ định ở trên.
 - Đọc cùng: [Phát hiện Sai lệch §19.3 Chương Một](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*phát hiện và rà soát nhiều bên*); [Hành động Có thể Quy trách nhiệm](../../core_05_band_accountability.md#attributable-action); [Tính Toàn vẹn của Quy trách nhiệm](../../core_05_band_accountability.md#attribution-integrity); [Khả năng Kiểm toán](../../core_05_band_oversight.md#auditability); [Khả năng Khiếu nại](../../core_05_band_accountability.md#contestability); [Tính Tương xứng](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -218,7 +218,7 @@ Cách ứng xử đó là thực hiện nghĩa vụ, không phải bỏ mặc h�
 
 - Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [Minh bạch](../../core_05_band_oversight.md#transparency); [Khả năng Kiểm toán](../../core_05_band_oversight.md#auditability).
 - Hạ nguồn: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Làn phân tách chức năng*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Vai trò được cho phép và chuỗi trách nhiệm giải trình*); hồ sơ Chương Tám và Chương Chín.
-- Đọc cùng: [Hiến chương](../../core_05_band_continuity.md#charter) và [Chương Mười Ba §5](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution).
+- Đọc cùng: [Hiến chương](../../core_05_band_continuity.md#charter) và [Chương Mười Ba §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -245,7 +245,7 @@ Việc ủy quyền duy trì cùng ranh giới vị trí, nghĩa vụ chứng c�
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [lợi ích trọng yếu](../../core_00_preamble.md#material-stake); [Tính Cần thiết](../../core_05_band_accountability.md#necessity); [Tính Tương xứng](../../core_05_band_accountability.md#proportionality).
-- Hạ nguồn: [Chương Chín §3.7](../../core_09_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Bố trí nhân sự theo làn và dự phòng năng lực theo loại lớp*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Làn phân tách chức năng*).
+- Hạ nguồn: [Chương Chín §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Bố trí nhân sự theo làn và dự phòng năng lực theo loại lớp*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Làn phân tách chức năng*).
 - Đọc cùng: [Gánh nặng Có thể Tránh](../../core_05_band_continuity.md#avoidable-burden) và [Quy trình Chống Hạ thấp Nhân phẩm §3.3 Chương Một](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -275,7 +275,7 @@ Thiếu nhân sự, tốc độ, sự tiện lợi hoặc việc tập trung chu
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Biện pháp khẩn cấp và gánh nặng tiếp tục §6.1 Chương Mười Hai](../../core_12_forum.md#61-emergency-measures-and-continuation-burden); [tư thế tạm thời mặc định](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Biện pháp khẩn cấp và gánh nặng tiếp tục §6.1 Chương Mười Hai](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [tư thế tạm thời mặc định](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - Hạ nguồn: quy trình xử lý sự cố, ngăn chặn, phát hành, tiếp tục và rà soát sau sự kiện trong văn bản triển khai được chỉ định.
 - Đọc cùng: [Tính Kịp thời](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Bảo toàn Chứng cứ](../../core_05_band_oversight.md#evidence-preservation) và [CI-4.6 Danh mục vị trí — kiểu vai trò quy trình và ranh giới vận hành](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
@@ -351,7 +351,7 @@ Nhật ký cho biết ai đã làm gì, nhưng tự chúng không chứng minh r
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: từ [§1](#1-purpose-scope-and-owner-boundary) đến [§8](#8-act-records-and-attributable-handoffs).
-- Hạ nguồn: [Chương Tám](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [Chương Chín](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [Chương Mười Hai](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Chương Mười Ba](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- Hạ nguồn: [Chương Tám](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Chương Chín](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chương Mười Hai](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chương Mười Ba](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - Đọc cùng: [Ngăn xếp Thẩm quyền và Thứ bậc Nội bộ](../../core_05_band_integrative.md#owner-non-relocation) và [danh mục chủ thể phụ trách trong Lời mở đầu](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>
@@ -380,4 +380,4 @@ Chương sau có thể đặt ra yêu cầu mạnh hơn về độc lập, hồi
 
 **Tệp trước:** [core_05_band_performance.md](../../core_05_band_performance.md)
 
-**Tệp tiếp theo:** [core_08_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
+**Tệp tiếp theo:** [core_08_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)

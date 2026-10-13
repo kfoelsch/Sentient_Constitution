@@ -240,7 +240,7 @@ flowchart TB
   - সময়সীমা অতিক্রমের পর্যালোচনা; এবং
   - বিলম্ব-বিরোধী শৃঙ্খলা।
 
-  সংখ্যাসূচক ডিফল্ট সময়সীমা ও পর্যায়ের সারণি: [CF-11.3.1 লক্ষ্য-সময়সীমা ও সময়ের ন্যূনতম মান](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)। ক্ষেত্রভিত্তিক উদাহরণ: [অধ্যায় নয়–বারো প্রয়োগ-দৃষ্টান্ত](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes)।
+  সংখ্যাসূচক ডিফল্ট সময়সীমা ও পর্যায়ের সারণি: [CF-11.3.1 লক্ষ্য-সময়সীমা ও সময়ের ন্যূনতম মান](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)। ক্ষেত্রভিত্তিক উদাহরণ: [অধ্যায় নয়–বারো প্রয়োগ-দৃষ্টান্ত](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes)।
 - **জরুরি অবস্থার পর পুনরুদ্ধার-চ্যালেঞ্জ:** একই গুরুত্ব-স্তরের বাইরের সীমা [**অধ্যায় বারো §6.1 জরুরি ব্যবস্থা ও অব্যাহত রাখার ভার**](core_12_forum.md#61-emergency-measures-and-continuation-burden)-এর অধীনে জরুরি নিয়ন্ত্রণের পর নোটিশ ও চ্যালেঞ্জ পুনঃস্থাপনের ডিফল্ট সময়সীমা। ওই সময়সীমার পর চালিয়ে যেতে হলে ঐ বিভাগে নথিভুক্ত প্রয়োজনীয়তার যুক্তি দেখাতে হবে। এই অনুচ্ছেদ জরুরি অবস্থার জন্য ধীর সময়সীমা তৈরি করে না।
 
 ### অনুচ্ছেদ XXVI: সাংবিধানিক বিবর্তন ও স্থায়ীভাবে গেঁথে যাওয়া নিষেধ

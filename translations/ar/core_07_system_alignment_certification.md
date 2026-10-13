@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">موضع الملف في المتن (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> هذا الملف **تجريب بلغة القارئ** لـ[فهرس قراءة الفصل السابع بالإنجليزية](../../core_08_system_alignment_certification.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[فهرس قراءة الفصل السابع بالإنجليزية](../../core_09_system_alignment_certification.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_07_system_alignment_certification.md`](../../core_09_system_alignment_certification.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > ينقسم **الفصل السابع** إلى ملفين ملزمين يُقرآن كصك واحد:
 >
@@ -39,4 +39,4 @@
 
 **الملف التالي (هذه اللغة):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**الأصل الملزم:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)
+**الأصل الملزم:** [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md)

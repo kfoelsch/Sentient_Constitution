@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.12`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -65,7 +65,7 @@ See: [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developin
 
 - **“They’ll use ‘best interest’ to take my kid because I’m tired.”** What is actually in the child’s interests is not operator or household convenience, and it is not a license to treat exhaustion from unsupported care as neglect. Verified harm is a different showing from “the other adult has a quieter house.”
 
-- **“This isn’t law where I live.”** Correct until a qualifying body records a formal agreement to follow this Constitution. It does not override applicable family or housing law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law where I live.”** Correct until a qualifying body records a formal agreement to follow this Constitution. It does not override applicable family or housing law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“I want the other parent out of the picture.”** Protected care relationships run both ways. This text will not make another adult disappear to settle a preference contest.
 

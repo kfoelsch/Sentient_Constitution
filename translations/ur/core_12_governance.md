@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">کارپس میں مقام (غیرِ عملی): فائل کی ساخت اور پڑھنے کے قواعد</span></strong></summary>
 
-> یہ فائل [انگریزی باب دوازدہم](../../core_13_governance.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_12_governance.md`](../../core_13_governance.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب دوازدہم](../../core_14_governance.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_12_governance.md`](../../core_14_governance.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > اس میں **باب دوازدہم** ہے، **آئینی معاہدہ تہہ** — حکمرانی کے اختیار کے لیے آئینی جواز اور ذمہ دارانہ انتظام کے تقاضے، پہلے سے مجاز نظاموں کے اندر **متاثر فریقوں کی نظامی شرکت** سے الگ ([تمہید](core_00_preamble.md#chapter-00-preamble--foundational-requirements))۔ ترمیم اور اختیار کی صحت کے کنٹرول [باب سیزدهم تا پانزدہم](core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) میں جاری رہتے ہیں۔ باب نمبر اور کراس حوالے مربوط دستاویز سے میل کھاتے ہیں۔
 
@@ -61,7 +61,7 @@
 
 - بالائی: اصول: [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [5. عمل تنازعے کا حل](#6-process-conflict-resolution)؛ [باب دوازدہم §0](#0-layer-boundary-for-this-chapter)۔
 - ذیلی حصے: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*طریقہ خاندان، آڈٹ پذیری، اور کثرت*)؛ [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*اہلیت، چیلنج شدہ انتخاب، اور جمہوری کم از کم*)؛ [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*واپسی طبقہ راستے اور درمیانی دور منتقلی محافظ*)۔
-- زیریں: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) کے تحت دیانت، حکمت عملی، ووٹ، اور کردار فرائض؛ [باب پانزدہم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) کے تحت اختیار اور توثیق؛ باب ششم میں جواز، شرکت، اور چیلنج پذیری — خاص طور پر [دفعہ XII-C: جواز دروازہ اور علامتی شرکت مخالف](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)، [دفعہ XIX: کیفیت اور شرکت حیثیت](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status)، اور نیچے عملی بلٹس میں اشارہ کردہ اظہار، اجتماع، اور طریقہ کار انصاف دفعات۔
+- زیریں: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) کے تحت دیانت، حکمت عملی، ووٹ، اور کردار فرائض؛ [باب پانزدہم](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) کے تحت اختیار اور توثیق؛ باب ششم میں جواز، شرکت، اور چیلنج پذیری — خاص طور پر [دفعہ XII-C: جواز دروازہ اور علامتی شرکت مخالف](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)، [دفعہ XIX: کیفیت اور شرکت حیثیت](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status)، اور نیچے عملی بلٹس میں اشارہ کردہ اظہار، اجتماع، اور طریقہ کار انصاف دفعات۔
 - ساتھ پڑھیں: اس قطعے میں نامزد **کارپس** اور **[corpus_systems.md](../../corpus_systems.md)** ہکس ([corpus_systems.md](../../corpus_systems.md)، [corpus_institutions.md](../../corpus_institutions.md))۔
 
 </details>
@@ -201,7 +201,7 @@
     - اسے رخنوں کو تلاش کرنا ہوگا۔ قواعد سے باہر کسی ذریعے سے مالی اعانت میں اضافہ، یا مادی مفاد رکھنے والے مالی معاونین کے حق میں بار بار فیصلے، اس بات کا ثبوت ہیں کہ قواعد بدلنے کی ضرورت ہے۔
     - ایسا ثبوت ملنے پر قواعد پر نظرثانی کرنا لازم ہے۔
 - **انحصار:** ایسا سہارا جو منتخب شعوری وجود اور معاون کے درمیان مادی انحصار پیدا کرے، **مادہ XII-D** (*قبضہ مخالف تحفظات*) کے تحت تصادم ہے۔ اسے ظاہر کرنا لازم ہے، اور منتخب شعوری وجود کو ان معاملات سے الگ ہونا ہوگا جن میں معاون کا مادی مفاد ہو۔
-- **میکانزم سے غیر وابستہ:** یہ حدود اخراجات کی کوئی حد مقرر نہیں کرتیں اور عوامی مالی اعانت لازم نہیں کرتیں۔ ایسا ڈیزائن جس میں غیر ظاہر شدہ یا نااہل مالی اعانت انتخاب کا فیصلہ کر سکے، اوپر کے **چیلنج شدہ انتخاب** کے معیار میں ناکام ہے۔ جہاں بیرونی قانون کسی حد کو ممنوع قرار دے، اختیار کرنے والا قانون کی اجازت کے مطابق اسے نافذ کرے اور [باب پندرہ](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) کے مطابق فرق شائع کرے۔
+- **میکانزم سے غیر وابستہ:** یہ حدود اخراجات کی کوئی حد مقرر نہیں کرتیں اور عوامی مالی اعانت لازم نہیں کرتیں۔ ایسا ڈیزائن جس میں غیر ظاہر شدہ یا نااہل مالی اعانت انتخاب کا فیصلہ کر سکے، اوپر کے **چیلنج شدہ انتخاب** کے معیار میں ناکام ہے۔ جہاں بیرونی قانون کسی حد کو ممنوع قرار دے، اختیار کرنے والا قانون کی اجازت کے مطابق اسے نافذ کرے اور [باب پندرہ](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law) کے مطابق فرق شائع کرے۔
 - **مخالفت کا تحفظ:** یہ قواعد اوپر بیان کردہ **مخالفت کے تحفظ** کے تحت محفوظ تنظیم، ابلاغ اور اختلافِ رائے کی حوصلہ شکنی کے لیے استعمال نہیں کیے جا سکتے۔
 
 **فورم تقرری آزادی تہہ**
@@ -512,4 +512,4 @@
 
 **اگلی فائل (ابھی انگریزی میں):** [core_13_non_regression.md](core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
 
-**پابند اصل:** [core_12_governance.md](../../core_13_governance.md)
+**پابند اصل:** [core_12_governance.md](../../core_14_governance.md)

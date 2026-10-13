@@ -242,7 +242,7 @@ flowchart TB
   - بازبینی تأخیر از مهلت؛ و
   - انضباط منع تأخیر.
 
-  مهلت‌های عددی پیش‌فرض هر سطح و جدول مراحل: [CF-11.3.1 مهلت‌های هدف و کف‌های زمانی](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). نمونه‌های کاربردی حوزه‌ای: [شرح‌های کاربردی فصل‌های نهم تا دوازدهم](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  مهلت‌های عددی پیش‌فرض هر سطح و جدول مراحل: [CF-11.3.1 مهلت‌های هدف و کف‌های زمانی](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). نمونه‌های کاربردی حوزه‌ای: [شرح‌های کاربردی فصل‌های نهم تا دوازدهم](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **بازگرداندن امکان اعتراض پس از وضعیت اضطراری:** همان مرزهای زمانی بیرونیِ هر سطح، مهلت‌های پیش‌فرض برای بازگرداندن اطلاع‌رسانی و امکان اعتراض پس از مهار اضطراری بر اساس [**فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن**](core_12_forum.md#61-emergency-measures-and-continuation-burden) هستند. ادامه‌دادن فراتر از این مهلت‌ها نیازمند اثبات مستند ضرورت طبق همان بخش است. این ماده مهلت اضطراری کندتری ایجاد نمی‌کند.
 
 ### ماده XXVI: تحول قانون اساسی و منع تثبیت

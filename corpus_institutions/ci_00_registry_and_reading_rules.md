@@ -9,7 +9,7 @@
 > - **Corpus edition and effective date:** inherit from [README.md](../README.md). Do not stamp a second edition in this annex.
 >
 > **Status**
-> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05_band_integrative.md#corpus) and [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) designate it.
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05_band_integrative.md#corpus) and [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) designate it.
 > - The CI folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
@@ -46,7 +46,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Institutions registry (stable section families)](#institutions-registry-stable-section-families); [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex).
 - Read with: **CI-1** (*Scope, purpose, and legitimacy interface*); **CJS-1.1** (*Section identifiers and article references*).
 
@@ -64,7 +64,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex).
 - Read with: **CI-1** (*Scope, purpose, and legitimacy interface*); **CI-3** (*Institutional design, separation of powers, and authority custody*); **CI-4** (*Appointment, competency, rotation, and removal*); **CI-26** (*Compliance mapping and stable registry*).
 
@@ -81,7 +81,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [Institutions overlap discipline](#institutions-overlap-discipline); [Institutions read-with pointers](#institutions-read-with-pointers).
 - Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); **CI-1** (*Scope, purpose, and legitimacy interface*).
 - Integrator index (non-operative): institutional primary owners for cross-layer topics live in [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Topic router*).

@@ -242,7 +242,7 @@ Le présent Article établit le plancher contre les retards dans la résolution 
   - examen des dépassements ; et
   - discipline contre les retards.
   
-  Fenêtres cibles par défaut et tableaux des étapes : [CF-11.3.1 Fenêtres cibles et planchers de délais](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Exemples d’application par domaine : [Vignettes d’application des Chapitres Neuf à Douze](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  Fenêtres cibles par défaut et tableaux des étapes : [CF-11.3.1 Fenêtres cibles et planchers de délais](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Exemples d’application par domaine : [Vignettes d’application des Chapitres Neuf à Douze](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **Rétablissement et contestation après une urgence :** Les mêmes limites supérieures par niveau constituent les fenêtres par défaut pour rétablir la notification et la possibilité de contester après le confinement d’urgence au titre du [**Chapitre Douze §6.1 Mesures d’urgence et charge de continuité**](core_12_forum.md#61-emergency-measures-and-continuation-burden). Toute prolongation au-delà de ces fenêtres exige la démonstration documentée de nécessité prévue par cette section. Le présent Article ne crée pas de délai d’urgence plus lent.
 
 ### Article XXVI : évolution constitutionnelle et non-enracinement

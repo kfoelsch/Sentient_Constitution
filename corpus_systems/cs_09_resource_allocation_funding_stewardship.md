@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-9** (*Resource allocation and funding stewardship*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-9** (*Resource allocation and funding stewardship*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article V-B** (*Cross-System Fairness and Sustainability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article V-B** (*Cross-System Fairness and Sustainability*); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-91-purpose-and-role); [§2](#cs-92-principles-of-funding); [§4](#cs-94-dependent-systems-map); [§16](#cs-916-trigger-definitions).
 - Read with: **CS-9** (*Resource allocation and funding stewardship*); **CS-8** (*Adaptive sustainability and ecosystem resilience*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
 
@@ -359,7 +359,7 @@ Funding-related decisions apply **Article XII** (*Stakeholder System Participati
 
 Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. That requirement applies when those roles materially influence resource flows or funding decisions. That obligation applies when those roles materially influence dependent-systems maps. It applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-4 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XII**. It includes substrate and dependency integrity (**Articles I–III and VI**). It includes non-entrenchment and fitness over time (**Article XXVII-A** (*Non-Entrenchment and Revisability*)).
 
-Remuneration design must satisfy [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules), including **CJS-3.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Seventeen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
+Remuneration design must satisfy [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules), including **CJS-3.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Eighteen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
 <a id="cs-9-20-conflict-free-remuneration-processes"></a>
 ## CS-9.20 Conflict-free remuneration processes

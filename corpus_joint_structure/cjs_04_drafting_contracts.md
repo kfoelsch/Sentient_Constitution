@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-1.7** (*drafting contracts and the primary-owner-to-CJS seam*), **CJS-1.8**, and **CJS-1.8.1**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-1.7** (*drafting contracts and the primary-owner-to-CJS seam*), **CJS-1.8**, and **CJS-1.8.1**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [joint-structure reader guide](cjs_reader_guide.md). Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline) (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-1.8.1](#cjs-181-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*).
 - Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
 
@@ -72,12 +72,12 @@ When CJS text seems to conflict with a **primary owner** section, apply **CJS-1.
 
 When that boundary does not resolve the conflict, use this order:
 
-1. The Sentient Constitution and core definitions, including **Chapter Seventeen**.
+1. The Sentient Constitution and core definitions, including **Chapter Eighteen**.
 2. The canonical owner meaning in **CJS**, **CS**, **CI**, or **CF**, as routed by **CJS-0.1** (*Topic router (stable IDs)*) and the [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
 3. The **Tier 1** CJS abstraction stated in this section.
 4. Local shorthand, examples, summaries, or other drafting convenience text, as described in **CJS-1.3** (*Shared implementation-corpus preamble contract*).
 
-Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.1** (*Cross-file routing*), including the forum owner in **CF** where forum routing, forum authority, or Chapter Twelve procedure is affected, and update the CJS pointer once the owner clarifies it. For the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) rule between two adopted implementation standards on the same risk, read [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.1** (*Cross-file routing*), including the forum owner in **CF** where forum routing, forum authority, or Chapter Thirteen procedure is affected, and update the CJS pointer once the owner clarifies it. For the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) rule between two adopted implementation standards on the same risk, read [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 Domain-layer read-with contracts: apply [Institutions read-with pointers](../corpus_institutions/ci_00_registry_and_reading_rules.md#institutions-read-with-pointers), [Forums read-with pointers](../corpus_forum/cf_00_registry_and_reading_rules.md#forums-read-with-pointers), and [Systems read-with pointers](../corpus_systems/cs_00_registry_and_reading_rules.md#systems-read-with-pointers) in the respective registry annexes.
 

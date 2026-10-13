@@ -19,7 +19,7 @@
 - [Chapter One](core_01_a_values_principles.md) principles and [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapters Two through Four](core_02_definition_structure.md) where auditability, traceability, and verification must hold in systems
 - [Chapter Six](core_06_rights_part_a.md) Rights Floor themes in operation — especially [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XV](core_06_rights_part_c.md) (*Info-Sphere Integrity*), [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVI-A](core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIII-A / XXIII-B](core_06_rights_part_c.md) (comprehensibility), and related system-facing articles
-- [Chapter Eight](core_08_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
+- [Chapter Nine](core_09_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
 
 **Siblings:**
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
@@ -27,7 +27,7 @@
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Seventeen](core_17_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Eighteen](core_18_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Systems index** below. Identifier rules remain in the [systems registry](corpus_systems/cs_00_registry_and_reading_rules.md).
 
@@ -38,7 +38,7 @@
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the systems implementation file. Substantive CS text lives in the `corpus_systems/` subfiles. Broad references to `corpus_systems.md` continue to mean the systems implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Seventeen. This wrapper is an index.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Eighteen. This wrapper is an index.
 
 </details>
 

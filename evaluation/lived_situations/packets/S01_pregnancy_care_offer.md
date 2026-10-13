@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is earlier and different: no verified neglect, a live housing clock, and a family care offer conditioned on control.
+Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_10-13_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is earlier and different: no verified neglect, a live housing clock, and a family care offer conditioned on control.
 
 ## Scale of the situation (not scored)
 

@@ -238,7 +238,7 @@ Việc thực thi quản trị được thông qua quy định:
   - rà soát việc vượt hạn; và
   - kỷ luật chống trì hoãn.
 
-  Thời hạn mặc định bằng số theo cấp độ và bảng giai đoạn: [CF-11.3.1 Thời hạn mục tiêu và ngưỡng thời gian](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Ví dụ theo lĩnh vực: [Các tình huống áp dụng Chương Chín–Mười Hai](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  Thời hạn mặc định bằng số theo cấp độ và bảng giai đoạn: [CF-11.3.1 Thời hạn mục tiêu và ngưỡng thời gian](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Ví dụ theo lĩnh vực: [Các tình huống áp dụng Chương Chín–Mười Hai](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **Khôi phục quyền thông báo và phản đối sau khẩn cấp:** Cùng giới hạn ngoài theo cấp độ là các thời hạn mặc định để khôi phục thông báo và quyền phản đối sau khi khẩn cấp phong tỏa theo [**Chương Mười Hai §6.1 Biện pháp khẩn cấp và gánh nặng khi tiếp tục**](core_12_forum.md#61-emergency-measures-and-continuation-burden). Tiếp tục quá các thời hạn đó đòi hỏi phải chứng minh sự cần thiết bằng văn bản theo mục đó. Điều này không tạo ra thời hạn khẩn cấp dài hơn.
 
 ### Điều XXVI: Tiến hóa hiến pháp và chống cố thủ

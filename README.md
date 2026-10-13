@@ -59,7 +59,7 @@ It is a *model* constitution. An organization (for example a cooperative, a rese
 You do not have to read everything. Pick the time you have; each path builds on the one before it.
 
 - **15 minutes:** this page's [What is this?](#what-is-this) and [Is this in effect?](#is-this-in-effect) sections, then [the model at the heart of the Preamble](core_00_preamble.md#the-model) (the four duties and two goals), then one [guide for an everyday situation](implementation/adoption/easy_entry/README.md#roster) that sounds like yours.
-- **45 minutes:** the 15-minute path, then [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
+- **45 minutes:** the 15-minute path, then [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](core_10-13_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
 - **2 hours:** the 45-minute path, then the [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md), then [Chapter One, Part A](core_01_a_values_principles.md) (core values) and the [Rights Floor](core_06_rights_part_a.md) articles named in the guide you opened.
 
 **Thinking about using or adopting it?** Add [Using or adopting it: start here](START_HERE.md) to whichever path you choose. That page covers fit, the two ways to use the text, and the adoption kits.
@@ -89,9 +89,9 @@ You do not have to read everything. Pick the time you have; each path builds on 
 
 <a id="the-full-text"></a><a id="how-to-read"></a><a id="core-files-by-topic"></a><a id="standing-pipeline-and-forums"></a>
 <details>
-<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–17</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–18</span></strong></summary>
 
-The Constitution is one document split into a Preamble and seventeen chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
+The Constitution is one document split into a Preamble and eighteen chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
 
 | Part | What it covers |
 |---|---|
@@ -100,18 +100,19 @@ The Constitution is one document split into a Preamble and seventeen chapters. Y
 | **Chapters 2–4**: [2](core_02_definition_structure.md) · [3](core_03_definition_integrity.md) · [4](core_04_burden_traceability_verification.md) | How key terms are defined, protected against loopholes, and backed with evidence |
 | **Chapter 5**: [Definitions](core_05__definitions_home.md) | The dictionary: what each key term means ([all Chapter 5 files ↓](#chapter-five-files)) |
 | **Chapter 6**: [Part A](core_06_rights_part_a.md) · [Part B](core_06_rights_part_b.md) · [Part C](core_06_rights_part_c.md) · [Part D](core_06_rights_part_d.md) · [Part E](core_06_rights_part_e.md) | **The Rights Floor**: Articles I–XXVIII |
-| **Chapter 7**: [Separation of duties](core_07_functional_independence_segregation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
-| **Chapter 8**: [Part A](core_08_a_system_alignment_certification_evaluation.md) · [Part B](core_08_b_system_alignment_certification_record_process.md) · [Part C](core_08_c_system_alignment_certification_illustrations.md) · [Index](core_08_system_alignment_certification.md) | Checking and certifying that a system meets the standard |
-| **Chapter 9**: [Standing assessment](core_09_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
-| **Chapter 10**: [Standing integration](core_10_standing_integration.md) | What those records lead to: effects, restoration, and remedies |
-| **Chapter 11**: [Part A](core_11_a_misconduct_designation.md) · [Part B](core_11_b_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
-| **Chapter 12**: [Forums](core_12_forum.md) | Review bodies and hearings, and why no one may judge their own case |
-| [Worked examples for Chapters 9–12](core_09-12_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
-| **Chapter 13**: [Governance](core_13_governance.md) | Who may govern, and how that authority is granted and checked |
-| **Chapter 14**: [Non-regression](core_14_non_regression.md) | Protections can be strengthened but not rolled back |
-| **Chapter 15**: [Supremacy and other laws](core_15_expansion_supremacy.md) | How it relates to local, national, and international law |
-| **Chapter 16**: [Amendment and adoption](core_16_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
-| **Chapter 17**: [Incorporation](core_17_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
+| **Chapter 7**: [Charters](core_07_charters.md) | Every system and institution of Class L or above publishes a Charter that states its scope and the seats that hold each role |
+| **Chapter 8**: [Separation of duties](core_08_functional_independence_segregation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
+| **Chapter 9**: [Part A](core_09_a_system_alignment_certification_evaluation.md) · [Part B](core_09_b_system_alignment_certification_record_process.md) · [Part C](core_09_c_system_alignment_certification_illustrations.md) · [Index](core_09_system_alignment_certification.md) | Checking and certifying that a system meets the standard |
+| **Chapter 10**: [Standing assessment](core_10_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
+| **Chapter 11**: [Standing integration](core_11_standing_integration.md) | What those records lead to: effects, restoration, and remedies |
+| **Chapter 12**: [Part A](core_12_a_misconduct_designation.md) · [Part B](core_12_b_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
+| **Chapter 13**: [Forums](core_13_forum.md) | Review bodies and hearings, and why no one may judge their own case |
+| [Worked examples for Chapters 10–12](core_10-13_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
+| **Chapter 14**: [Governance](core_14_governance.md) | Who may govern, and how that authority is granted and checked |
+| **Chapter 15**: [Non-regression](core_15_non_regression.md) | Protections can be strengthened but not rolled back |
+| **Chapter 16**: [Supremacy and other laws](core_16_expansion_supremacy.md) | How it relates to local, national, and international law |
+| **Chapter 17**: [Amendment and adoption](core_17_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
+| **Chapter 18**: [Incorporation](core_18_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
 
 <a id="chapter-five-files"></a>
 **All Chapter 5 files:**
@@ -146,8 +147,8 @@ The Constitution says *what* must happen and *why*. These four collections spell
 **Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
 
 - **Reading it binds no one.** Opening this repository, or any page in it, is not adoption.
-- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 16](core_16_amendment_ratification.md#10-ratification-and-adoption) and [Chapter 17](core_17_incorporation.md).
-- **It does not override the law.** It does not replace local, national, or international law ([Chapter 15](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 17](core_17_amendment_ratification.md#10-ratification-and-adoption) and [Chapter 18](core_18_incorporation.md).
+- **It does not override the law.** It does not replace local, national, or international law ([Chapter 16](core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 <a id="binding-vs-support"></a>
 <details>
@@ -155,7 +156,7 @@ The Constitution says *what* must happen and *why*. These four collections spell
 
 | Material | What it is | Status |
 |---|---|---|
-| **The Constitution text**: the Preamble and Chapters 1–17 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
+| **The Constitution text**: the Preamble and Chapters 1–18 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
 | **Implementation details**: the `corpus_*` files and folders ([list ↑](#implementation-files)) | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
 | **Everything else**: this page, guides, overviews, summaries, and translations | Help for readers | Never binding, and cannot change the meaning of the Constitution |
 
@@ -187,19 +188,19 @@ The numbered `core_*` files state **why** and **what**. The implementation files
 - [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-Operative enforcement within any adopter depends on valid adoption under Chapter Sixteen (ratification) and Chapter Seventeen (incorporation and custody). Substantive content stands as stated regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
+Operative enforcement within any adopter depends on valid adoption under Chapter Seventeen (ratification) and Chapter Eighteen (incorporation and custody). Substantive content stands as stated regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Eighteen §4](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority).
 
 **Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Preamble owner register](core_00_preamble.md#4-principles-definitions-and-rights), and [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
 
 ### Common lookups
 
 - Burden of proof, traceability, verification: Chapter Four
-- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Seven
+- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Eight
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00_preamble.md#the-model)
-- Auditing and independent verification: Article XVI is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home) is how and when; Chapter Eight is one large process that uses that stack
+- Auditing and independent verification: Article XVI is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home) is how and when; Chapter Nine is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)
-- Remedy systems and enforcement realism: Chapter Ten §9; implementation in CI-27
-- Relation to local, national, and international law: [Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)
+- Remedy systems and enforcement realism: Chapter Eleven §9; implementation in CI-27
+- Relation to local, national, and international law: [Chapter Sixteen §5](core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)
 
 ### Editor and operator resources
 
@@ -216,7 +217,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - AI lookup CLI (locators point, source binds): [ai_corpus/AI_NAVIGATION_GUIDE.md](ai_corpus/AI_NAVIGATION_GUIDE.md), `python3 tools/corpus_lookup.py`, and [AGENTS.md](AGENTS.md)
 - Generated reader files (non-binding): [plain-terms edition](doc_architecture/generated/plain_terms_edition.md), [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`, [human definition lookup](doc_architecture/generated/human_definition_lookup.md)
 
-Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Seventeen](core_17_incorporation.md).
+Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Eighteen](core_18_incorporation.md).
 
 </details>
 

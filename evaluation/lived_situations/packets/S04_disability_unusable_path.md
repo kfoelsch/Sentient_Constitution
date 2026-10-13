@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_09-12_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is whether an unusable portal counts as abandoning a challenge.
+Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_10-13_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is whether an unusable portal counts as abandoning a challenge.
 
 ## Scale of the situation (not scored)
 
@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article XXIII](../../../core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Article XXIII-A](../../../core_06_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right)
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
 - [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the floor cut defeats work Jules can actually do
-- If you conclude a **forum family** is in play on these facts, [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
+- If you conclude a **forum family** is in play on these facts, [Chapter Thirteen §3](../../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

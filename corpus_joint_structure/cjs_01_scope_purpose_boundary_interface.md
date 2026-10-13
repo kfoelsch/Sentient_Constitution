@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-1** (*Scope, purpose, and boundary interface*), including **CJS-1.0**, **CJS-1.1**, and **CJS-1.3**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-1** (*Scope, purpose, and boundary interface*), including **CJS-1.0**, **CJS-1.1**, and **CJS-1.3**.
 >
 > How to enter this layer: [joint-structure reader guide](cjs_reader_guide.md). Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier notes and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -19,7 +19,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
+- Upstream: [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
 - Downstream: **CJS-1.0** (*Purpose of this layer*), **CJS-1.1** (*Section identifiers and article references*), and **CJS-1.3** (*Shared implementation-corpus preamble contract*) in this file; [CJS-1.7](cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*) through [CJS-1.8.1](cjs_04_drafting_contracts.md#cjs-181-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*); [CJS-1.9](cjs_06_support_hosting_classification.md#cjs-19-boundary-between-support-roles-and-merits-decisions) (*CJS-1.11: Support roles, hosting independence, and classification alignment*) through [CJS-1.11](cjs_06_support_hosting_classification.md#cjs-111-classification-alignment-for-supervised-scope) (*Classification alignment for supervised scope*); [CJS-1.13](cjs_05_odef_parse_mechanics.md#cjs-113-operational-structure-and-subsection-local-terminology) (*CJS-1.14: oDef parse mechanics*) through [CJS-1.14](cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters) (*Operational clusters*).
 - Read with: **CJS-1** (*Scope, purpose, and boundary interface*); **CJS-1.0** (*Purpose of this layer*); **CJS-1.1** (*Section identifiers and article references*); **CJS-1.3** (*Shared implementation-corpus preamble contract*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-2** (*Specific joint interlocks and shared abstractions*); **CJS-3** (*operational cluster library (oDef)*).
 
@@ -63,9 +63,9 @@ This file is the joint-structure implementation home for **CJS-1** (*Scope, purp
 - Rights Floors — those remain in Chapter Six;
 - system-class and steward taxonomies — those belong to **CS**;
 - institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
-- forum-family operational doctrine under Chapter Twelve — those belong to **CF**.
+- forum-family operational doctrine under Chapter Thirteen — those belong to **CF**.
 
-**Authority stack.** This file does not create a separate authority stack. Use the constitutional [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Five, read with [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) for incorporation, edition custody, and anti-drift rules. Domain owners: [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
+**Authority stack.** This file does not create a separate authority stack. Use the constitutional [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Five, read with [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) for incorporation, edition custody, and anti-drift rules. Domain owners: [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
 
 ## CJS-1.0: Purpose of this layer
 
@@ -73,7 +73,7 @@ This file is the joint-structure implementation home for **CJS-1** (*Scope, purp
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter One §15.4](../core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) incorporation-layer reading; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter One §15.4](../core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) incorporation-layer reading; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: **CJS-1.1** (*Section identifiers and article references*); **CJS-1.3** (*Shared implementation-corpus preamble contract*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*); **CS-1** (*Scope, purpose, and boundary interface*); **CI-1** (*Scope, purpose, and legitimacy interface*); **CF-1** (*Scope, authority, and boundary rules*).
 - Read with: **CJS-1.0** (*Purpose of this layer*); [Joint structure landing page](../corpus_joint_structure.md); [Chapter One §1 Purpose and Role](../core_01_a_values_principles.md#1-purpose-and-role) (constitutional purpose — not restated here); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (default reading stack).
 
@@ -83,7 +83,7 @@ This file is the joint-structure implementation home for **CJS-1** (*Scope, purp
 
 *In plain terms: this file is the front door to the how-to books. The Constitution says what must be true; this layer tells you how the systems, institutions, and forum books fit together when more than one of them applies.*
 
-**Role in the implementation corpus.** Adopted CJS text adds joint how-to detail within adoption scope; it must satisfy the Sentient Constitution and must not weaken constitutional requirements or Rights Floors. Under [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge), the non-core corpus is four adopted layers:
+**Role in the implementation corpus.** Adopted CJS text adds joint how-to detail within adoption scope; it must satisfy the Sentient Constitution and must not weaken constitutional requirements or Rights Floors. Under [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge), the non-core corpus is four adopted layers:
 
 | Layer | Landing page | What it is for |
 |---|---|---|
@@ -99,7 +99,7 @@ This file, **CJS-1** (*Scope, purpose, and boundary interface*), is the **bindin
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.0](#cjs-10-purpose-of-this-layer) (*Purpose of this layer*) purpose of this layer; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack.
+- Upstream: [CJS-1.0](#cjs-10-purpose-of-this-layer) (*Purpose of this layer*) purpose of this layer; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack.
 - Downstream: **CJS-1.3** (*Shared implementation-corpus preamble contract*); **CJS-1.13** (*CJS-1.14: oDef parse mechanics*); **CJS-1.14** (*Operational clusters*); **CJS-3** (*operational cluster library (oDef)*).
 - Read with: **CJS-1.1** (*Section identifiers and article references*); **CJS-1** (*Scope, purpose, and boundary interface*); **CJS-3** (*operational cluster library (oDef)*); **CJS-1.3** (*Shared implementation-corpus preamble contract*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*).
 
@@ -115,7 +115,7 @@ A reader-facing lookup table lives in the [joint-structure reader guide](cjs_rea
 
 | Label family | Example headers | What they are |
 |---|---|---|
-| **Core** (Sentient Constitution) | **Chapter One §1**, **Chapter One §15.4.4**, **Chapter Twelve §7** | Chapters and sections in the numbered constitutional files |
+| **Core** (Sentient Constitution) | **Chapter One §1**, **Chapter One §15.4.4**, **Chapter Thirteen §7** | Chapters and sections in the numbered constitutional files |
 | **Preamble** | **Preamble §2** | Foundational requirements that open the Constitution |
 | **Constitutional Tetrad** | **Participation**, **Oversight**, **Accountability**, **Timeliness** | The four scaling principles in the Preamble |
 | **Two Constitutional Aims** | **Flourishing**, **Continuity** | The two aims in the Preamble |
@@ -139,7 +139,7 @@ How to read guidepost **oDef** entries (**What it is** / **How to measure and as
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: **CJS-1.3** (*Shared implementation-corpus preamble contract*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*) through **CJS-1.11** (*Classification alignment for supervised scope*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-3.23** (*Integrative: intervention and override integrity terms*); **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*).
 
 </details>

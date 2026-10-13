@@ -13,14 +13,14 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
-_BREACH_FAMILY_SCOPE = frozenset({"core_09_standing_assessment.md", "core_10_standing_integration.md"})
+_BREACH_FAMILY_SCOPE = frozenset({"core_10_standing_assessment.md", "core_11_standing_integration.md"})
 
 # Standalone word "cloud" / "Cloud" / "CLOUD", including compounds like cloud-native (still banned).
 # Does not match substrings inside unrelated tokens (e.g. "icloud" as one word — no boundary before 'c').
 _CLOUD_WORD = re.compile(r"(?<![A-Za-z0-9])cloud(?![A-Za-z0-9])", re.IGNORECASE)
 
 # Prefer **constitutional** / **this Constitution** for Corpus sense; keep **charter** for allowlisted legal-instrument senses
-# (Chapter Thirteen adoption family; corporate charter; Chapter Five **Charter** scope instrument and related compounds).
+# (Chapter Fourteen adoption family; corporate charter; Chapter Five **Charter** scope instrument and related compounds).
 _CHARTER_WORD = re.compile(r"(?<![A-Za-z0-9])charter(?![A-Za-z0-9])", re.IGNORECASE)
 _ALLOWLIST_STRIP = [
     re.compile(r"corporate charter(\s+law)?", re.IGNORECASE),
@@ -33,6 +33,7 @@ _ALLOWLIST_STRIP = [
     re.compile(r"####\s+Charter\b"),
     re.compile(r"\[Charter\]", re.IGNORECASE),
     re.compile(r"#charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
+    re.compile(r"#[a-z0-9-]*-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
     re.compile(r'id="charter(?:-[a-z0-9-]+)?"', re.IGNORECASE),
     re.compile(r"bare\s+charter\b", re.IGNORECASE),
     re.compile(r"\*\*charter\*\*", re.IGNORECASE),
@@ -327,7 +328,7 @@ def run_internal_regression_checks() -> None:
     standing_calculus_findings = scan_avoid_standing_calculus(
         "internal-regression.md",
         "Forums must not run standing calculus.\n"
-        "Use standing-record classification under Chapter Nine instead.\n"
+        "Use standing-record classification under Chapter Ten instead.\n"
         "`standing calculus` inside backticks is documentation only.\n",
     )
     if len(standing_calculus_findings) != 1:
@@ -385,7 +386,7 @@ def run_internal_regression_checks() -> None:
 
 
 def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
-    """Reject undefined **standing calculus** jargon; prefer Chapter Nine standing-record classification wording."""
+    """Reject undefined **standing calculus** jargon; prefer Chapter Ten standing-record classification wording."""
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
@@ -965,15 +966,15 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
-        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Nine typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
+        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Ten typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
-        "- **`avoid-tribunal-family`:** reject internal Chapter Twelve / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
-        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Nine**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Nine wording.",
+        "- **`avoid-tribunal-family`:** reject internal Chapter Thirteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
+        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Ten**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Ten wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
-        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Ten §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
+        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Eleven §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",

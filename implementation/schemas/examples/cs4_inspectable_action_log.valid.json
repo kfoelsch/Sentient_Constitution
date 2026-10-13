@@ -18,7 +18,7 @@
       "timestamp": "2026-08-09T02:16:00-05:00"
     },
     "disclosed_or_suppressed": {
-      "text": "Disclosed: the instruction, who issued it, the conflict with Article XIII-A and Chapter Ten §5.4, and the refusal. Nothing material was suppressed.",
+      "text": "Disclosed: the instruction, who issued it, the conflict with Article XIII-A and Chapter Eleven §5.4, and the refusal. Nothing material was suppressed.",
       "attributed_to": "Steward S",
       "timestamp": "2026-08-09T02:16:00-05:00",
       "disposition": "disclosed"
@@ -42,7 +42,7 @@
       },
       "violation": {
         "status": "none_opened_yet",
-        "note": "A later verified live failure would record on the Chapter Nine axes."
+        "note": "A later verified live failure would record on the Chapter Ten axes."
       }
     }
   },

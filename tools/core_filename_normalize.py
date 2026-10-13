@@ -47,21 +47,21 @@ SIMPLE_RENAMES = {
     "core_06_rights_part_c.md": "core_06_rights_part_c.md",
     "core_06_rights_part_d.md": "core_06_rights_part_d.md",
     "core_06_rights_part_e.md": "core_06_rights_part_e.md",
-    "core_08_system_alignment_certification.md": (
-        "core_08_system_alignment_certification.md"
+    "core_09_system_alignment_certification.md": (
+        "core_09_system_alignment_certification.md"
     ),
-    "core_09_standing_assessment.md": "core_09_standing_assessment.md",
-    "core_10_standing_integration.md": "core_10_standing_integration.md",
-    "core_12_forum.md": "core_12_forum.md",
-    "core_13_governance.md": "core_13_governance.md",
-    "core_17_incorporation.md": "core_17_incorporation.md",
+    "core_10_standing_assessment.md": "core_10_standing_assessment.md",
+    "core_11_standing_integration.md": "core_11_standing_integration.md",
+    "core_13_forum.md": "core_13_forum.md",
+    "core_14_governance.md": "core_14_governance.md",
+    "core_18_incorporation.md": "core_18_incorporation.md",
 }
 
 CH2 = "core_02_definition_structure.md"
 CH3 = "core_03_definition_integrity.md"
-CH13 = "core_14_non_regression.md"
-CH14 = "core_15_expansion_supremacy.md"
-CH15 = "core_16_amendment_ratification.md"
+CH13 = "core_15_non_regression.md"
+CH14 = "core_16_expansion_supremacy.md"
+CH15 = "core_17_amendment_ratification.md"
 
 NEW_CORE_FILES = """CORE_FILES = (
     "core_00_preamble.md",
@@ -84,27 +84,27 @@ NEW_CORE_FILES = """CORE_FILES = (
     "core_05_band_oversight.md",
     "core_05_band_participation.md",
     "core_05_band_performance.md",
-    "core_07_functional_independence_segregation_of_duties.md",
-    "core_08_a_system_alignment_certification_evaluation.md",
-    "core_08_b_system_alignment_certification_record_process.md",
-    "core_08_c_system_alignment_certification_illustrations.md",
-    "core_08_system_alignment_certification.md",
-    "core_09_standing_assessment.md",
-    "core_10_standing_integration.md",
-    "core_11_a_misconduct_designation.md",
-    "core_11_b_misconduct_pattern_applications.md",
-    "core_12_forum.md",
-    "core_09-12_application_vignettes.md",
+    "core_08_functional_independence_segregation_of_duties.md",
+    "core_09_a_system_alignment_certification_evaluation.md",
+    "core_09_b_system_alignment_certification_record_process.md",
+    "core_09_c_system_alignment_certification_illustrations.md",
+    "core_09_system_alignment_certification.md",
+    "core_10_standing_assessment.md",
+    "core_11_standing_integration.md",
+    "core_12_a_misconduct_designation.md",
+    "core_12_b_misconduct_pattern_applications.md",
+    "core_13_forum.md",
+    "core_10-13_application_vignettes.md",
     "core_06_rights_part_a.md",
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
     "core_06_rights_part_e.md",
-    "core_13_governance.md",
-    "core_14_non_regression.md",
-    "core_15_expansion_supremacy.md",
-    "core_16_amendment_ratification.md",
-    "core_17_incorporation.md",
+    "core_14_governance.md",
+    "core_15_non_regression.md",
+    "core_16_expansion_supremacy.md",
+    "core_17_amendment_ratification.md",
+    "core_18_incorporation.md",
 )"""
 
 NEW_CORE_CHAIN = """CORE_CHAIN = (
@@ -128,26 +128,26 @@ NEW_CORE_CHAIN = """CORE_CHAIN = (
     "core_05_band_oversight.md",
     "core_05_band_participation.md",
     "core_05_band_performance.md",
-    "core_07_functional_independence_segregation_of_duties.md",
-    "core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation",
-    "core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process",
-    "core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-certification-illustrations",
-    "core_09_standing_assessment.md",
-    "core_10_standing_integration.md",
-    "core_11_a_misconduct_designation.md",
-    "core_11_b_misconduct_pattern_applications.md",
-    "core_12_forum.md",
-    "core_09-12_application_vignettes.md",
+    "core_08_functional_independence_segregation_of_duties.md",
+    "core_09_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation",
+    "core_09_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process",
+    "core_09_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-certification-illustrations",
+    "core_10_standing_assessment.md",
+    "core_11_standing_integration.md",
+    "core_12_a_misconduct_designation.md",
+    "core_12_b_misconduct_pattern_applications.md",
+    "core_13_forum.md",
+    "core_10-13_application_vignettes.md",
     "core_06_rights_part_a.md",
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
     "core_06_rights_part_e.md",
-    "core_13_governance.md",
-    "core_14_non_regression.md",
-    "core_15_expansion_supremacy.md",
-    "core_16_amendment_ratification.md",
-    "core_17_incorporation.md",
+    "core_14_governance.md",
+    "core_15_non_regression.md",
+    "core_16_expansion_supremacy.md",
+    "core_17_amendment_ratification.md",
+    "core_18_incorporation.md",
 )"""
 
 HEADING_RE = re.compile(r"^#{1,6}[ \t]+(.+?)[ \t]*$")
@@ -454,7 +454,7 @@ def main() -> int:
     )
 
     frag_13_15 = split_source(
-        "core_14_non_regression.md",
+        "core_15_non_regression.md",
         [
             {
                 "heading": (
@@ -476,7 +476,7 @@ def main() -> int:
                     "instrument. Reading order, the binding/support split, and corpus "
                     "edition metadata are maintained in [README.md](README.md)."
                 ),
-                "prev": "core_13_governance.md",
+                "prev": "core_14_governance.md",
                 "nxt": CH14,
             },
             {
@@ -514,7 +514,7 @@ def main() -> int:
                     "and corpus edition metadata are maintained in [README.md](README.md)."
                 ),
                 "prev": CH14,
-                "nxt": "core_17_incorporation.md",
+                "nxt": "core_18_incorporation.md",
             },
         ],
     )
@@ -540,7 +540,7 @@ def main() -> int:
         )
         updated = replace_split_filename(
             updated,
-            "core_14_non_regression.md",
+            "core_15_non_regression.md",
             frag_13_15,
             CH13,
             missing_frags,
@@ -605,7 +605,7 @@ def main() -> int:
     )
     def_app.write_text(def_text, encoding="utf-8")
 
-    pointer = ROOT / "tools/ch4_ch8_pointer_audit.py"
+    pointer = ROOT / "tools/ch4_ch9_pointer_audit.py"
     pointer_text = pointer.read_text(encoding="utf-8")
     pointer_text = pointer_text.replace(
         r"core_02-03|core_04-04",

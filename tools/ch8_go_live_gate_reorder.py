@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chapter Eight third reorder: go-live gate, challenge path moves to Operate (CH8-PROCESS-ORDER-01).
+"""Chapter Eight third reorder: go-live gate, challenge path moves to Operate (CH9-PROCESS-ORDER-01).
 
 Starts from the six-phase numbering produced by tools/ch8_record_after_decide.py and:
 
@@ -26,10 +26,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-A = "core_08_a_system_alignment_certification_evaluation.md"
-B = "core_08_b_system_alignment_certification_record_process.md"
-C = "core_08_c_system_alignment_certification_illustrations.md"
-HUB = "core_08_system_alignment_certification.md"
+A = "core_09_a_system_alignment_certification_evaluation.md"
+B = "core_09_b_system_alignment_certification_record_process.md"
+C = "core_09_c_system_alignment_certification_illustrations.md"
+HUB = "core_09_system_alignment_certification.md"
 CH8 = {A, B, C}
 
 # ---------------------------------------------------------------- number map

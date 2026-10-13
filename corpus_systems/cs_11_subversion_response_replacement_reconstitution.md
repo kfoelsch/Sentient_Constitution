@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-11** (*Subversion response, replacement, and reconstitution*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-11** (*Subversion response, replacement, and reconstitution*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XX** (*Justice After Verified Violation*); **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
+- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XX** (*Justice After Verified Violation*); **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge).
 - Downstream: [§1](#cs-111-purpose-and-role); [§2](#cs-112-landscape-compromise-declaration-and-activation); [§4](#cs-114-governance-continuity-under-multi-node-compromise); [§8](#cs-118-exit-restoration-and-post-incident-revalidation).
 - Read with: **CS-11** (*Subversion response, replacement, and reconstitution*); **CS-5** (*User-facing capability surfaces*); **CS-7** (*Justice safeguards, restitution, and rehabilitation*); **CS-10** (*Transition constitution and migration governance*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 
@@ -42,7 +42,7 @@ This file is the systems implementation home for **CS-11** (*Subversion response
 
 This file operationalizes coordinated response where constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. It implements:
 - the definitional and scaling requirements in **Sentient Constitution Chapter Five** — *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility* where applicable;
-- **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) in **Chapter Six**, with [**Chapter Twelve §6.1**](../core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*), for escalation and emergency proportionality;
+- **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) in **Chapter Six**, with [**Chapter Thirteen §6.1**](../core_13_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*), for escalation and emergency proportionality;
 - **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), for anti-capture governance safeguards;
 - **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), where phased transition is implicated;
 - **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*), for off-ramp continuity and re-baselining.

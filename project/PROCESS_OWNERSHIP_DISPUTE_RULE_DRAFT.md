@@ -2,13 +2,13 @@
 
 **Status:** working draft for author review. Not part of the numbered `core_*` files. Nothing here has been run through the audits (`make plain-language-audit`, lexical guardrails).
 
-**Problem.** Once the Constitution is in use, stewards who own how and when a process runs will collide with stewards who own what affected sentients are owed. Chapter Twelve routes disputes about forums, jurisdiction and standing, but no rule says who decides a dispute about *who owns a process or may change it*. This draft closes that gap without adding a third governance layer to Preamble §3.3.
+**Problem.** Once the Constitution is in use, stewards who own how and when a process runs will collide with stewards who own what affected sentients are owed. Chapter Thirteen routes disputes about forums, jurisdiction and standing, but no rule says who decides a dispute about *who owns a process or may change it*. This draft closes that gap without adding a third governance layer to Preamble §3.3.
 
 **Placeholder terms.** "Process steward" and "stakeholder steward" below are descriptive placeholders. They need mapping to whatever roles the Corpus actually names (check `corpus_institutions.md` and `STEWARD_ENTRY_DOORS.md`) before adoption.
 
 ---
 
-## Part 1. Proposed text for Chapter Twelve §3
+## Part 1. Proposed text for Chapter Thirteen §3
 
 Insert after **Cross-forum anti-self-judging rule**, same section, same house style.
 
@@ -37,7 +37,7 @@ To sit in `corpus_institutions.md` near **CI-6** (procedure), not in the core:
 
 1. **Change-record template.** Fields: what changed, who owns it, which clocks and paths it touches, floor-touching self-assessment, contest window dates.
 2. **Floor-touching self-assessment.** The owner states yes or no for each of the four triggers above. A "no" can be challenged.
-3. **Contest window length.** Scaled to the **material stake** tiers already in **Chapter Twelve §6**, not a new set of numbers. (Open question 3.)
+3. **Contest window length.** Scaled to the **material stake** tiers already in **Chapter Thirteen §6**, not a new set of numbers. (Open question 3.)
 4. **Emergency changes.** Allowed, but sunset to the prior procedure unless ratified within the contest window. This mirrors the continuation burden in **section 6.1**.
 
 ## Part 3. Integration notes
@@ -48,7 +48,7 @@ To sit in `corpus_institutions.md` near **CI-6** (procedure), not in the core:
 
 **What it does not do.** It does not add a governance layer to Preamble §3.3 and does not change who may govern. It stays on the Stakeholder System Participation side and relies on forum review.
 
-**Likely edit footprint.** Chapter Twelve §3 (new subsection), one pointer from §2.2 (mixed stakes), `corpus_institutions.md` (CI-6 companion), the Chapter Twelve Trace widgets, and the generated indexes. Translations would follow after English is settled.
+**Likely edit footprint.** Chapter Thirteen §3 (new subsection), one pointer from §2.2 (mixed stakes), `corpus_institutions.md` (CI-6 companion), the Chapter Thirteen Trace widgets, and the generated indexes. Translations would follow after English is settled.
 
 ## Part 4. Open questions for the author
 

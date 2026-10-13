@@ -124,7 +124,7 @@ Convenience, productivity, and population goals do not count as the child's best
 
 - A growing being gets more say and more independence as they **show** they can handle it, not when they reach a certain age or a certain time after creation [**Graduated Capability**].
 - Any assessment of someone's abilities must be reasoned, open to checking [**Auditability**], and open to challenge [**Contestability**]. It must never be used as a way to shut people out.
-- No one is barred from taking part in the constitution's most basic decisions just because of their age, once they meet the requirements [**Chapter Thirteen §4.1**].
+- No one is barred from taking part in the constitution's most basic decisions just because of their age, once they meet the requirements [**Chapter Fourteen §4.1**].
 
 ### "For your own good" is not enough by itself
 
@@ -138,7 +138,7 @@ Protective rules that limit a growing being's freedom must pass the same tests a
 
 ### Details still to come
 
-Practical details are left to later implementing rules under Chapter Seventeen. These include how carers are chosen, how ability assessments work, and how often reviews happen.
+Practical details are left to later implementing rules under Chapter Eighteen. These include how carers are chosen, how ability assessments work, and how often reviews happen.
 
 ---
 
@@ -155,5 +155,5 @@ The rules:
 - Separation is allowed only when it is truly necessary [**Necessity**], no bigger than needed [**Proportionality**], and decided through a fair process [**Procedural Fairness**].
 - The person or group that wants the separation must prove it's needed, with evidence others can check. Calling it a "safety" measure doesn't change that.
 - When the facts are uncertain, choose options that can be undone [**Reversibility under uncertainty**].
-- Long separations must be reviewed on a regular schedule [**Chapter Twelve**].
+- Long separations must be reviewed on a regular schedule [**Chapter Thirteen**].
 - Anyone wrongly separated has the right to have it put right [**Redress and Remediation**].

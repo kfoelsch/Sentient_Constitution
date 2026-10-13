@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-10** (*Transition constitution and migration governance*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-10** (*Transition constitution and migration governance*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-101-purpose-and-role); [§2](#cs-102-phased-transition-structure); [§5](#cs-105-failure-handling-off-ramps-and-re-baselining); [§7](#cs-107-prioritizing-system-transition-targets); [§8](#cs-108-preservation-during-transition).
 - Read with: **CS-10** (*Transition constitution and migration governance*); **CS-5** (*User-facing capability surfaces*); **CS-11** (*Subversion response, replacement, and reconstitution*).
 
@@ -41,7 +41,7 @@ This file is the systems implementation home for **CS-10** (*Transition constitu
 
 This file operationalizes phased migration into constitutional operation. It implements **Sentient Constitution Chapter Six, **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*)** for phased adoption and **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and VI, XII, XIV, and XV. It defines transition sequencing, gate criteria, fallback handling, and reviewability. It does not narrow constitutional Rights Floors or constraints.
 
-A stewardship self-application declaration (process support: [`evaluation/self_application/`](../evaluation/self_application/)) is **not** phase entry, gate evidence, or valid adoption under [Chapter Sixteen §10 Ratification and Adoption](../core_16_amendment_ratification.md#10-ratification-and-adoption). A two-party markdown file is not that instrument either. Fill-in fields for a qualifying body’s instrument, and the non-adoption banner when no such body exists, live in [`implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md) (process support; cannot narrow this layer or core text). An *n*-party operations-guide file and a Chapter Sixteen §10.3 (*Joining by additional parties*) joining-rule template are not phase entry either ([`implementation/adoption/COOPERATION_SCALING_KIT.md`](../implementation/adoption/COOPERATION_SCALING_KIT.md); process support; cannot narrow this layer or core text). A Chapter Five Charter draft and an institution-foundation fill-in are not phase entry either ([`implementation/adoption/INSTITUTION_FOUNDATION_KIT.md`](../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md); process support; cannot narrow this layer or core text). **CS-10** (*Transition constitution and migration governance*) sequences migration **after** a body that can bind systems under its authority has a recorded adoption instrument.
+A stewardship self-application declaration (process support: [`evaluation/self_application/`](../evaluation/self_application/)) is **not** phase entry, gate evidence, or valid adoption under [Chapter Seventeen §10 Ratification and Adoption](../core_17_amendment_ratification.md#10-ratification-and-adoption). A two-party markdown file is not that instrument either. Fill-in fields for a qualifying body’s instrument, and the non-adoption banner when no such body exists, live in [`implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md) (process support; cannot narrow this layer or core text). An *n*-party operations-guide file and a Chapter Seventeen §10.3 (*Joining by additional parties*) joining-rule template are not phase entry either ([`implementation/adoption/COOPERATION_SCALING_KIT.md`](../implementation/adoption/COOPERATION_SCALING_KIT.md); process support; cannot narrow this layer or core text). A Chapter Five Charter draft and an institution-foundation fill-in are not phase entry either ([`implementation/adoption/INSTITUTION_FOUNDATION_KIT.md`](../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md); process support; cannot narrow this layer or core text). **CS-10** (*Transition constitution and migration governance*) sequences migration **after** a body that can bind systems under its authority has a recorded adoption instrument.
 
 <a id="cs-10-2-phased-transition-structure"></a>
 ## CS-10.2 Phased transition structure
@@ -121,7 +121,7 @@ Challenge pathways must remain available for materially affected parties through
 **Factors and evidence**
 
 - **System class:** from the System Classification Record under **CS-3** (*System classification machinery*).
-- **Degree of misalignment:** from the latest certification record and Chapter Eight evaluation, and from ledger data.
+- **Degree of misalignment:** from the latest certification record and Chapter Nine evaluation, and from ledger data.
 - **Ease of alignment:** technical effort, steward cooperation, entanglement with other systems, and time and cost.
 - **Irreversibility and urgency:** rate of ongoing harm, reversibility of its effects, risk of state destruction, and credible sentience indicators.
 - **Who bears the harm:** number affected by tier, vulnerability markers, and availability of practical alternatives or exit.

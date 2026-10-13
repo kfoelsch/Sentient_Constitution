@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-1** (*Scope, authority, and boundary rules*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-1** (*Scope, authority, and boundary rules*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -16,7 +16,7 @@
 > - Label map, section registry, and forums-only domain routing: [cf_00_registry_and_reading_rules.md](cf_00_registry_and_reading_rules.md) (*Forums domain routing (integrator annex)*).
 > - Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
 > - Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
-> - Constitutional forum owner: [core_12_forum.md](../core_12_forum.md) (**Chapter Twelve**).
+> - Constitutional forum owner: [core_13_forum.md](../core_13_forum.md) (**Chapter Thirteen**).
 > - First forum family after this boundary page: [cf_03_forum_formation_chamber_structure.md](cf_03_forum_formation_chamber_structure.md) (**CF-3** (*Forum formation, forum-structure mapping, and chamber structure*)).
 
 </details>
@@ -24,7 +24,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (*Purpose of this layer*) purpose of the joint-structure layer; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (*Purpose of this layer*) purpose of the joint-structure layer; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: **CF-1** (*Scope, authority, and boundary rules*); [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (*Purpose of this layer*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-3** (*operational cluster library (oDef)*).
 
 </details>
@@ -56,7 +56,7 @@ This file is the forum implementation home for **CF-1** (*Scope, authority, and 
 
 **What this layer does not own**
 
-- which forum family decides which primary question, and why — that remains in Chapter Twelve;
+- which forum family decides which primary question, and why — that remains in Chapter Thirteen;
 - constitutional term meaning and O/M/A/C definition mechanics — those remain in the Sentient Constitution (Chapters Two through Five);
 - joint operational definitions, and joint cross-layer interfaces — those belong to **CJS** (reusable joint operational definitions in **CJS-3** (*operational cluster library*));
 - Rights Floors — those remain in Chapter Six;
@@ -65,8 +65,8 @@ This file is the forum implementation home for **CF-1** (*Scope, authority, and 
 
 This layer must **not**:
 
-- create new forum families beyond those authorized in Chapter Twelve;
-- silently expand constitutional-forum jurisdiction beyond Chapter Twelve;
+- create new forum families beyond those authorized in Chapter Thirteen;
+- silently expand constitutional-forum jurisdiction beyond Chapter Thirteen;
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
 

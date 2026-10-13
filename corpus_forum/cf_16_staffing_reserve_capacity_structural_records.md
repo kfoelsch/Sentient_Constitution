@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-16.1 Composition and competence requirements](#cf-161-composition-and-competence-requirements); [CF-16.1.1 Support-role-to-adjudicator pathways](#cf-1611-support-role-to-adjudicator-pathways); [CF-16.2 Reserve, substitute, and surge capacity](#cf-162-reserve-substitute-and-surge-capacity).
 - Read with: **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*); **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*); **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*); **CF-8** (*Forum forensic and analytical support*); **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*); **CF-12** (*Forum continuity*); **CF-13** (*Fallback operation*); **CF-14** (*Emergency adjudication*); **CF-16.1** (*Composition and competence requirements*); **CF-16.1.1** (*Support-role-to-adjudicator pathways*).
 - Topic routing (primary owner): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-4** (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*).
@@ -103,7 +103,7 @@ Specialized seat categories, chamber qualifications, or role-specific competence
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen §5](../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) authorized roles, competency development, and contribution; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Fourteen §5](../core_14_governance.md#5-authorized-roles-competency-development-and-contribution) authorized roles, competency development, and contribution; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: **CF-16.1.1** (*Support-role-to-adjudicator pathways*); **CF-16.1** (*Composition and competence requirements*); **CF-16.2** (*Reserve, substitute, and surge capacity*); **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*); **CF-8** (*Forum forensic and analytical support*); [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 
 </details>
@@ -309,11 +309,11 @@ Each adopting entity must maintain and periodically update at least:
 
 <br>
 
-*In plain terms: Where the boundaries sit: Chapter Twelve still owns forum architecture, the institutions corpus still owns non-adjudicative governance, and this file adds only the forum-specific staffing layer.*
+*In plain terms: Where the boundaries sit: Chapter Thirteen still owns forum architecture, the institutions corpus still owns non-adjudicative governance, and this file adds only the forum-specific staffing layer.*
 
 This file relates to the existing corpus files as follows:
 
-- `core_12_forum.md` remains the constitutional owner of forum-family architecture and routing.
+- `core_13_forum.md` remains the constitutional owner of forum-family architecture and routing.
 - `corpus_institutions.md` remains the general owner of non-adjudicative institutional governance (as distinct from the forum layer).
 - `corpus_joint_structure.md` remains the owner of general procedural-integrity and adjudication operational clusters.
 - `corpus_systems.md` remains the owner of system continuity, class, steward, and cross-jurisdiction execution taxonomies that forums may rely on.

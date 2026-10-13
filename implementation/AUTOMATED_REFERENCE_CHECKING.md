@@ -27,7 +27,7 @@ Order follows the Makefile `regression` list.
 | `doc-architecture-section-audit` | C | `tools/architecture/doc_architecture_section_audit.py` | — | No letter-suffixed `##` sections in doc_architecture |
 | `support-doc-pointer-audit` | **L** | `tools/support_doc_pointer_audit.py` | SUPPORT-DOC-POINTER-01 | Binding corpus must not cite `doc_architecture` for meaning/routing (non-binding classifications and reading-chain footers allowed) |
 | `steward-door-lockstep-audit` (+ `-test`) | **L** | `tools/steward_door_lockstep_audit.py` | — | `STEWARD_ENTRY_DOORS.md` cards and `steward_owner_clock_index.json` stay in lockstep with the boxed operative steward statements in core; a stale door misroutes a steward under pressure |
-| `materially-binding-act-record-validate` (+ `-test`) | **L** | `tools/materially_binding_act_record_validate.py` | — | Base-schema and fixture checks for the Chapter Five / Chapter Seven Materially Binding Act Record |
+| `materially-binding-act-record-validate` (+ `-test`) | **L** | `tools/materially_binding_act_record_validate.py` | — | Base-schema and fixture checks for the Chapter Five / Chapter Eight Materially Binding Act Record |
 | `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-4 §10 log contract (`implementation/schemas/`) |
 | `sentience-status-adjudication-record-validate` (+ `-test`) | **L** | `tools/sentience_status_adjudication_record_validate.py` | — | Schema self-check for the Sentience-Status Adjudication Record |
 | `section-label-anchor-audit` (+ `-test`) | **L** | `tools/section_label_anchor_audit.py` | SECTION-CITE-MATCH-01, SECTION-LABEL-ANCHOR-01, NAV-HEADING-SEQUENCE-01 | `§` / dotted-number link text must match the target heading and fragment; related cites need a current-numbering id; `core_*` numbered sibling headings must not duplicate or skip |
@@ -63,7 +63,7 @@ Order follows the Makefile `regression` list.
 | `ch5-cluster-order-audit` | C | `tools/ch5_cluster_order_audit.py` | CH5-ORDER-01 | Compound heading order |
 | `ch5-constitutional-cluster-audit` | S | `tools/ch5_constitutional_cluster_audit.py` | — | Constitutional band placement and compass completeness |
 | `ch1-dac-order-audit` | C | `tools/ch1_dac_order_audit.py` | NAV-DAC-CH1-ORDER | Config: `ch1_dac_order.json` |
-| `ch9-trace-audit` | S | `tools/ch9_trace_audit.py` | NAV-TRACE-08–10 | Chapter Six subarticle traces present with Principles and linked Definitions |
+| `ch10-trace-audit` | S | `tools/ch10_trace_audit.py` | NAV-TRACE-08–10 | Chapter Six subarticle traces present with Principles and linked Definitions |
 | `prose-continuity-audit` | C | `tools/prose_continuity_audit.py` | — | Stray indent / orphan lines |
 | `lexical-vocabulary-audit` | C | `tools/lexical_vocabulary_audit.py` | LEX-GUARDRAILS | Config: `lexical_guardrails.json`; vocabulary and load-bearing capitalization |
 | `easy-entry-jargon-audit` | C | `tools/easy_entry_jargon_audit.py` | EASY-ENTRY-JARGON | Scoped `easy_entry_jargon` list in `lexical_guardrails.json`; reader briefs only |
@@ -84,18 +84,19 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch0-nested-list-candidates` through `ch4-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 0..4` | CH0-NEST-CANDIDATE through CH4-NEST-CANDIDATE | Ranked Preamble / Chapters One–Four packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch5-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py` | CH5-NEST-CANDIDATE | Ranked packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch6-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 6` | CH6-NEST-CANDIDATE | Ranked Chapter Six packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch7-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 8` | CH7-NEST-CANDIDATE | Ranked Chapter Eight packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch8-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 9` | CH8-NEST-CANDIDATE | Ranked Chapter Nine packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch9-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 10` | CH9-NEST-CANDIDATE | Ranked Chapter Ten packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch10-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 11` | CH10-NEST-CANDIDATE | Ranked Chapter Eleven packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch11-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 12` | CH11-NEST-CANDIDATE | Ranked Chapter Twelve packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch12-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 13` | CH12-NEST-CANDIDATE | Ranked Chapter Thirteen packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch13-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 14` | CH13-NEST-CANDIDATE | Ranked Chapter Fourteen packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch14-nested-list-candidates` through `ch16-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 15..16` | CH14-NEST-CANDIDATE through CH16-NEST-CANDIDATE | Ranked Chapters Fifteen–Sixteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch7-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 7` | CH7-NEST-CANDIDATE | Ranked Chapter Seven packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch8-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 8` | CH8-NEST-CANDIDATE | Ranked Chapter Eight packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch9-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 9` | CH9-NEST-CANDIDATE | Ranked Chapter Nine packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch10-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 10` | CH10-NEST-CANDIDATE | Ranked Chapter Ten packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch11-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 11` | CH11-NEST-CANDIDATE | Ranked Chapter Eleven packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch12-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 12` | CH12-NEST-CANDIDATE | Ranked Chapter Twelve packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch13-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 13` | CH13-NEST-CANDIDATE | Ranked Chapter Thirteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch14-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 14` | CH14-NEST-CANDIDATE | Ranked Chapter Fourteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch15-nested-list-candidates` through `ch18-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 15..18` | CH15-NEST-CANDIDATE through CH18-NEST-CANDIDATE | Ranked Chapters Fifteen–Eighteen packed-list rewrite candidates; advisory; `--strict` to block |
 | `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on `#### Article` |
 | `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
 | `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/M/A/C outside Ch5; use `--strict` to block |
-| `ch4-ch8-pointer-audit` | `tools/ch4_ch8_pointer_audit.py` | CH4-CH7-POINTER | Ch7 must cite Ch2–4 for verification substrate; use `--strict` to block |
+| `ch4-ch9-pointer-audit` | `tools/ch4_ch9_pointer_audit.py` | CH4-CH9-POINTER | Ch9 must cite Ch2–4 for verification substrate; use `--strict` to block |
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
 | `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
 | `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-3 placement; advisory by default; `--strict` to block |

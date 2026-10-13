@@ -7,7 +7,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Vị trí trong kho văn bản (không vận hành): cấu trúc tệp và quy tắc đọc</span></strong></summary>
 
-> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Bảy, Phần A tiếng Anh](../../core_08_a_system_alignment_certification_evaluation.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
+> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Bảy, Phần A tiếng Anh](../../core_09_a_system_alignment_certification_evaluation.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_07_a_system_alignment_certification_evaluation.md`](../../core_09_a_system_alignment_certification_evaluation.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Bảy, Phần A** — yêu cầu **đánh giá** chứng nhận (lớp hệ thống, yếu tố toàn hệ thống, và móc đánh giá lĩnh vực). **Phần B** — hồ sơ chứng nhận, quy trình diễn đàn, cầu quỹ đạo, và mở lại — nằm ở [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md).
 >
@@ -1133,4 +1133,4 @@ Mỗi việc sau đây phải được xem là khiếm khuyết chứng nhận:
 
 **Tệp tiếp theo (ngôn ngữ này):** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 
-**Nguyên bản ràng buộc:** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md)
+**Nguyên bản ràng buộc:** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md)

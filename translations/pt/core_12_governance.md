@@ -4,15 +4,15 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Doze em inglês](../../core_13_governance.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_12_governance.md`](../../core_13_governance.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
+> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Doze em inglês](../../core_14_governance.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_12_governance.md`](../../core_14_governance.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
-> Contém o **Capítulo Doze**, a **Camada do Contrato Constitucional** — requisitos de legitimidade constitucional e de administração responsável para a autoridade de governo, distintos da **Participação Sistêmica das Partes Afetadas** em sistemas já autorizados ([Preâmbulo](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Os controles de validade de emenda e de adoção continuam nos [Capítulos Treze a Quinze](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity). A numeração de capítulos e as referências cruzadas coincidem com o instrumento integrado.
+> Contém o **Capítulo Doze**, a **Camada do Contrato Constitucional** — requisitos de legitimidade constitucional e de administração responsável para a autoridade de governo, distintos da **Participação Sistêmica das Partes Afetadas** em sistemas já autorizados ([Preâmbulo](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Os controles de validade de emenda e de adoção continuam nos [Capítulos Treze a Quinze](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity). A numeração de capítulos e as referências cruzadas coincidem com o instrumento integrado.
 
 
 >
 > **Anterior (ainda em inglês):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **Próximo (ainda em inglês):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
+> **Próximo (ainda em inglês):** [core_13_non_regression.md](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)
 > **Arco de leitura:** §0 fronteira de camada → §1 autorização/legitimidade → §1.1 famílias de mecanismo → §1.2 elegibilidade/mínimos democráticos → §1.3 classe revocatória → §2 cultura de integridade → §3 direção de administração responsável → §4 voto/escolha coletiva → §5 papéis autorizados
 </details>
 
@@ -61,7 +61,7 @@ Este capítulo enuncia a **Camada do Contrato Constitucional**: requisitos de le
 
 - Origem: Princípios: [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Resolução de conflitos de processo](#6-process-conflict-resolution); [Capítulo Doze §0](#0-layer-boundary-for-this-chapter).
 - Subseções: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Famílias de mecanismo, auditabilidade e pluralismo*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Elegibilidade, seleção contestada e mínimos democráticos*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Vias de classe revocatória e salvaguardas de transferência no meio do ciclo*).
-- Destino: obrigações de integridade, estratégia, voto e papel sob [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); adoção e ratificação sob o [Capítulo Quinze](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); legitimidade, participação e impugnabilidade no Capítulo Seis — sobretudo [Artigo XII-C: Porta de legitimidade e participação anti-simbólica](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation), [Artigo XIX: Trajetória e status de participação](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status), e os artigos de expressão, reunião e equidade procedimental indexados nos marcadores operativos abaixo.
+- Destino: obrigações de integridade, estratégia, voto e papel sob [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); adoção e ratificação sob o [Capítulo Quinze](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity); legitimidade, participação e impugnabilidade no Capítulo Seis — sobretudo [Artigo XII-C: Porta de legitimidade e participação anti-simbólica](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation), [Artigo XIX: Trajetória e status de participação](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status), e os artigos de expressão, reunião e equidade procedimental indexados nos marcadores operativos abaixo.
 - Ler com: ganchos designados de **corpus** e de **[corpus_systems.md](../../corpus_systems.md)** nomeados nesta seção ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -201,7 +201,7 @@ Famílias de mecanismo, publicação, auditabilidade e pluralismo tratam-se no *
   - Deve procurar brechas. O aumento de financiamento por canal que as regras não cobrem, ou decisões que favoreçam repetidamente financiadores com interesse material, é evidência de que as regras precisam mudar.
   - Deve revisar as regras quando encontrar essas evidências.
 - **Dependência:** Apoio que crie dependência material entre o sentient selecionado e o apoiador constitui conflito segundo o **Artigo XII-D** (*Proteções anticaptura*). Deve ser divulgado, e o sentient selecionado deve se declarar impedido em assuntos nos quais o apoiador tenha interesse material.
-- **Neutralidade quanto ao mecanismo:** Estes limites não fixam teto de gastos nem exigem financiamento público. Um desenho em que financiamento não divulgado ou inelegível possa decidir uma seleção falha na verificação de **seleção contestada** acima. Quando a lei externa proibir um limite, a parte adotante deve aplicá-lo até onde a lei permitir e publicar a lacuna, conforme prevê o [Capítulo Quinze](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law).
+- **Neutralidade quanto ao mecanismo:** Estes limites não fixam teto de gastos nem exigem financiamento público. Um desenho em que financiamento não divulgado ou inelegível possa decidir uma seleção falha na verificação de **seleção contestada** acima. Quando a lei externa proibir um limite, a parte adotante deve aplicá-lo até onde a lei permitir e publicar a lacuna, conforme prevê o [Capítulo Quinze](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law).
 - **Proteção da oposição:** Estas regras não podem ser usadas para dissuadir a organização, a comunicação e a dissidência protegidas pela **proteção da oposição** acima.
 
 **Piso de independência de nomeação de fórum**
@@ -333,7 +333,7 @@ Indicadores proxy (financeiros ou outros) só podem informar decisões onde perm
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: mecanismo de legitimidade documentado do [§1](#1-authorization-and-legitimacy-of-governing-authority); alinhamento de administração responsável para decisões coletivas do [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- Destino: Subseções [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); instrumentos de adoção, supremacia e não regressão nos [Capítulos Treze a Quinze](../../core_14_non_regression.md) conforme resumido na nota de **Referência cruzada (Capítulo Doze)** no fim desta seção.
+- Destino: Subseções [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); instrumentos de adoção, supremacia e não regressão nos [Capítulos Treze a Quinze](../../core_15_non_regression.md) conforme resumido na nota de **Referência cruzada (Capítulo Doze)** no fim desta seção.
 - Ler com: [Capítulo Seis](core_06_rights_part_a.md#chapter-six-foundational-rights), sobretudo [Artigo XII: Participação Sistêmica das Partes Afetadas, representação e Devido Processo](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) e subartigos correlatos citados no §4.
 
 </details>
@@ -510,6 +510,6 @@ A administração responsável e a operação materiais exigem **sencientes** qu
 
 **Arquivo anterior (ainda em inglês):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**Próximo arquivo (ainda em inglês):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
+**Próximo arquivo (ainda em inglês):** [core_13_non_regression.md](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)
 
-**Original vinculante:** [core_12_governance.md](../../core_13_governance.md)
+**Original vinculante:** [core_12_governance.md](../../core_14_governance.md)

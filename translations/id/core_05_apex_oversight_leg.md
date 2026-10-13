@@ -117,7 +117,7 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 | Kebenaran dan integritas epistemik | Apakah klaim, catatan, dan pengungkapan cukup jujur untuk keputusan yang aman? | Melindungi partisipasi terinformasi, pemulihan, dan koreksi |
 | Keterpercayaan | Apakah pengandalan beralasan, atau kepercayaan sedang didegradasi? | Melindungi makhluk sadar dari keyakinan palsu dan ketergantungan yang menyesatkan |
 
-Persyaratan mengikat tentang keterpercayaan, audit, atau tinjauan timbul ketika Bab Enam, [Bab Tujuh](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), atau instrumen yang diinkorporasikan secara tegas menuntutnya.
+Persyaratan mengikat tentang keterpercayaan, audit, atau tinjauan timbul ketika Bab Enam, [Bab Tujuh](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), atau instrumen yang diinkorporasikan secara tegas menuntutnya.
 
 
 ---

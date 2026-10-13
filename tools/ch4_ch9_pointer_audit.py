@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Chapter Four ↔ Chapter Eight pointer discipline audit (advisory by default).
+"""Chapter Four ↔ Chapter Nine pointer discipline audit (advisory by default).
 
-Flags Chapter Eight sections that restate Chapter Four verification-substrate
+Flags Chapter Nine sections that restate Chapter Four verification-substrate
 rules without upstream citations to Chapters Two through Four.
 
-Rule: CH4-CH8-POINTER in tools/architecture/rule_registry.json.
+Rule: CH4-CH9-POINTER in tools/architecture/rule_registry.json.
 """
 
 from __future__ import annotations
@@ -18,12 +18,12 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-CH8_PART_A = "core_08_a_system_alignment_certification_evaluation.md"
-CH8_PART_B = "core_08_b_system_alignment_certification_record_process.md"
+CH8_PART_A = "core_09_a_system_alignment_certification_evaluation.md"
+CH8_PART_B = "core_09_b_system_alignment_certification_record_process.md"
 CH8_FILES = (CH8_PART_A, CH8_PART_B)
 CH4_FILE = "core_04_burden_traceability_verification.md"
 
-# Operative phrases owned by Chapter Four §§1–6; Ch8 should cite upstream, not restate.
+# Operative phrases owned by Chapter Four §§1–6; Ch9 should cite upstream, not restate.
 CH4_EXCLUSIVE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
     ("burden-allocation", re.compile(r"burden of (?:demonstrating )?compliance", re.I)),
     ("trace-artifact", re.compile(r"\btrace artifact\b", re.I)),
@@ -145,7 +145,7 @@ def scan_ch8(root: Path) -> list[str]:
     for ch8_file in CH8_FILES:
         path = root / ch8_file
         if not path.is_file():
-            findings.append(f"{ch8_file}: missing Chapter Eight file")
+            findings.append(f"{ch8_file}: missing Chapter Nine file")
             continue
 
         content = path.read_text(encoding="utf-8")
@@ -207,7 +207,7 @@ def main() -> int:
 
     findings = scan_ch8(root)
 
-    print("Chapter Four ↔ Chapter Eight pointer discipline audit:")
+    print("Chapter Four ↔ Chapter Nine pointer discipline audit:")
     if findings:
         print("- Result: FAIL" if args.strict else "- Result: ADVISORY")
         for item in findings:

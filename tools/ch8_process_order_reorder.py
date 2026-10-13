@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chapter Eight process-order reorder (CH8-PROCESS-ORDER-01).
+"""Chapter Eight process-order reorder (CH9-PROCESS-ORDER-01).
 
 Reorders Chapter Eight so section order follows the certification process:
 
@@ -35,10 +35,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-A = "core_08_a_system_alignment_certification_evaluation.md"
-B = "core_08_b_system_alignment_certification_record_process.md"
-C = "core_08_c_system_alignment_certification_illustrations.md"
-HUB = "core_08_system_alignment_certification.md"
+A = "core_09_a_system_alignment_certification_evaluation.md"
+B = "core_09_b_system_alignment_certification_record_process.md"
+C = "core_09_c_system_alignment_certification_illustrations.md"
+HUB = "core_09_system_alignment_certification.md"
 CH8 = {A, B, C}
 
 # ---------------------------------------------------------------- number map

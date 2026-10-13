@@ -242,7 +242,7 @@ Este Artículo establece el piso contra las demoras en la resolución de problem
   - revisión de excesos de plazo; y
   - disciplina contra las demoras.
   
-  Ventanas predeterminadas por nivel y tablas de etapas: [CF-11.3.1 Ventanas objetivo y pisos de plazo](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Ejemplos de aplicación por ámbito: [Viñetas de aplicación de los Capítulos Nueve a Doce](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  Ventanas predeterminadas por nivel y tablas de etapas: [CF-11.3.1 Ventanas objetivo y pisos de plazo](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Ejemplos de aplicación por ámbito: [Viñetas de aplicación de los Capítulos Nueve a Doce](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **Restablecimiento e impugnación tras una emergencia:** Los mismos límites máximos por nivel son las ventanas predeterminadas para restablecer la notificación y la posibilidad de impugnar después de la contención de emergencia conforme a [**Capítulo Doce §6.1 Medidas de emergencia y carga de continuidad**](core_12_forum.md#61-emergency-measures-and-continuation-burden). Para continuar más allá de esas ventanas se requiere la demostración documentada de necesidad que exige esa sección. Este Artículo no crea un plazo de emergencia más lento.
 
 ### Artículo XXVI: Evolución constitucional y no atrincheramiento

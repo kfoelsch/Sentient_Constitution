@@ -4,12 +4,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Место в корпусе (неоперативный текст): структура файлов и правила чтения</span></strong></summary>
 
-> Этот файл является **частью Конституции сентентов** и имеет **обязательную силу только вместе** с другими нумерованными файлами `core_*`, читаемыми как единый документ. В нем содержится **Глава седьмая**: сквозной для процессов минимум функциональной независимости и разделения обязанностей. Она следует за Минимумом прав Главы шестой и предшествует главам о конституционных процессах, начинающимся с [Главы восьмой: сертификация системного соответствия](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
+> Этот файл является **частью Конституции сентентов** и имеет **обязательную силу только вместе** с другими нумерованными файлами `core_*`, читаемыми как единый документ. В нем содержится **Глава седьмая**: сквозной для процессов минимум функциональной независимости и разделения обязанностей. Она следует за Минимумом прав Главы шестой и предшествует главам о конституционных процессах, начинающимся с [Главы восьмой: сертификация системного соответствия](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index).
 >
 > - **Конституционная компетенция:** минимум раздельных мест для действий, имеющих существенную обязательную силу; универсальный минимальный состав каждой [записи о действии, имеющем обязательную силу](../../core_05_band_accountability.md#materially-binding-act-record); независимость от действующего лица и его [линии существенного контроля](../../core_05_band_accountability.md#material-control-line); опубликованное распределение по направлениям и ролям; конфликты, вакансии, замещение и перенаправление действий в ненадлежащее место; соразмерное совмещение функций; атрибутируемые передачи; и минимальные условия независимости, применяемые каждой последующей конституционной процедурой.
 > - **Источник на уровне принципов:** [Глава первая §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) требует от управления сохранять функциональную независимость и направляет к архитектуре мест, установленной здесь.
 > - **Ответственность за реализацию:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) и [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) распределяют и вводят в действие эти места. Они могут быть строже и добавлять ограниченные виды мест со специальными полномочиями, но не могут сужать эту главу.
-> - **Применение в конкретных процессах описано далее:** Глава восьмая применяет этот минимум к сертификации системного соответствия; [Глава девятая §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties) — к записям о статусе; Глава двенадцатая и [corpus_forum.md](../../corpus_forum.md) — к процедурам форума. Эти главы могут добавлять требуемые предметом гарантии, но не могут создавать более слабую замену.
+> - **Применение в конкретных процессах описано далее:** Глава восьмая применяет этот минимум к сертификации системного соответствия; [Глава девятая §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) — к записям о статусе; Глава двенадцатая и [corpus_forum.md](../../corpus_forum.md) — к процедурам форума. Эти главы могут добавлять требуемые предметом гарантии, но не могут создавать более слабую замену.
 >
 > Порядок чтения: §1 цель и сфера действия → §2 минимум четырех мест → §3 независимость и конфликты → §4 перенаправление в ненадлежащее место → §5 опубликованное распределение и замещение → §6 соразмерное масштабирование → §7 чрезвычайные ситуации → §8 записи о действиях и передачи → §9 применение в последующих процессах.
 
@@ -20,7 +20,7 @@
 
 - Предшествующие положения: [Конституционная тетрада](../../core_00_preamble.md#constitutional-tetrad) — особенно **надзор** и **подотчетность**; [существенная доля](../../core_00_preamble.md#material-stake); [Глава первая §17.1 Стандарт совместного попечительства](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Глава первая §18 Управление в рамках дисциплины попечительства](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Статья XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Аудит, прозрачность и независимая проверка*).
 - Подразделы: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- Последующие положения: [Глава восьмая](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [Глава девятая](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [Глава двенадцатая](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Глава тринадцатая](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); названные выше тексты реализации.
+- Последующие положения: [Глава восьмая](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Глава девятая](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Глава двенадцатая](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Глава тринадцатая](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); названные выше тексты реализации.
 - Читать совместно с: [Глава первая §19.3 Выявление несоответствий](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*множественное выявление и проверка*); [Атрибутируемое действие](../../core_05_band_accountability.md#attributable-action); [Целостность атрибуции](../../core_05_band_accountability.md#attribution-integrity); [Аудируемость](../../core_05_band_oversight.md#auditability); [Оспоримость](../../core_05_band_accountability.md#contestability); [Соразмерность](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -218,7 +218,7 @@ flowchart TB
 
 - Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [Прозрачность](../../core_05_band_oversight.md#transparency); [Аудируемость](../../core_05_band_oversight.md#auditability).
 - Последующие положения: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Направления функционального разделения*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Уполномоченные роли и цепочки подотчетности*); записи Глав восьмой и девятой.
-- Читать совместно с: [Устав](../../core_05_band_continuity.md#charter) и [Глава тринадцатая §5](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution).
+- Читать совместно с: [Устав](../../core_05_band_continuity.md#charter) и [Глава тринадцатая §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -245,7 +245,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
 - Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [существенная доля](../../core_00_preamble.md#material-stake); [Необходимость](../../core_05_band_accountability.md#necessity); [Соразмерность](../../core_05_band_accountability.md#proportionality).
-- Последующие положения: [Глава девятая §3.7](../../core_09_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Комплектование направлений и резерв компетенций с учетом класса*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Направления функционального разделения*).
+- Последующие положения: [Глава девятая §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Комплектование направлений и резерв компетенций с учетом класса*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Направления функционального разделения*).
 - Читать совместно с: [Предотвратимое бремя](../../core_05_band_continuity.md#avoidable-burden) и [Глава первая §3.3 Процесс без унижения](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -275,7 +275,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Глава двенадцатая §6.1 Чрезвычайные меры и бремя обоснования продолжения](../../core_12_forum.md#61-emergency-measures-and-continuation-burden); [стандартное временное положение](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Глава двенадцатая §6.1 Чрезвычайные меры и бремя обоснования продолжения](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [стандартное временное положение](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - Последующие положения: процессы реагирования на инциденты, сдерживания, выпуска, продолжения и последующей проверки в назначенных текстах реализации.
 - Читать совместно с: [Своевременность](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Сохранение доказательств](../../core_05_band_oversight.md#evidence-preservation) и [CI-4.6 Каталог мест — типовые роли процессов и операционные границы](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
@@ -351,7 +351,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
 - Предшествующие положения: от [§1](#1-purpose-scope-and-owner-boundary) до [§8](#8-act-records-and-attributable-handoffs).
-- Последующие положения: [Глава восьмая](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [Глава девятая](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [Глава двенадцатая](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Глава тринадцатая](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- Последующие положения: [Глава восьмая](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Глава девятая](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Глава двенадцатая](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Глава тринадцатая](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - Читать совместно с: [Стек полномочий и внутренняя иерархия](../../core_05_band_integrative.md#owner-non-relocation) и [реестр компетенций преамбулы](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>
@@ -380,4 +380,4 @@ flowchart TB
 
 **Предыдущий файл:** [core_05_band_performance.md](../../core_05_band_performance.md)
 
-**Следующий файл:** [core_08_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
+**Следующий файл:** [core_08_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
