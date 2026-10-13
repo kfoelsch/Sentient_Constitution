@@ -9,7 +9,7 @@
 > - **Constitutional owner:** the distinct-seat floor for materially binding acts; the universal minimum contents of each [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; and the minimum independence conditions that every later constitutional process must apply.
 > - **Principle-layer source:** [Chapter One §18.3](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
 > - **Implementation owner:** [CJS-3.11](corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*Constitutional lane and functional separation*), [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), and [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
-> - **Process-specific application remains downstream:** Chapter Nine applies this floor to system alignment certification; [Chapter Ten §3.7](core_10_standing_assessment.md#37-segregation-of-duties) applies it to standing records; Chapter Thirteen and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
+> - **Process-specific application remains downstream:** Chapter Nine applies this floor to system alignment certification and to institutional alignment certification; [Chapter Ten §3.7](core_10_standing_assessment.md#37-segregation-of-duties) applies it to standing records; Chapter Thirteen and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
 >
 > Reading order: §1 purpose and scope → §2 four-seat floor → §3 independence and conflicts → §4 wrong-seat routing → §5 published placement and substitutes → §6 proportional scaling → §7 emergencies → §8 Act Records and handoffs → §9 downstream application.
 
@@ -151,7 +151,7 @@ The following combinations are prohibited on the same act:
 - the initiating seat must not verify or authorize its own act;
 - the verify-or-authorize seat must not hold the record seat;
 - the verify-or-authorize seat must not hold the contest seat; and
-- the operator of a system must not verify or authorize an act about that system.
+- the operator of a system, or the governing authority of an institution, must not verify or authorize an act about that system or institution.
 
 Later chapters or incorporated implementation text may prohibit additional pairings for a particular process. They may not permit a pairing prohibited here.
 
@@ -370,7 +370,7 @@ Every later constitutional process must explain how it assigns and uses all four
 
 In particular:
 
-- **Chapter Nine — system alignment certification:** the system operator or certification proponent is an initiating seat, not its own verifier; bounded component findings, integration of the certification record, custody, and challenges must remain within their lawful seats and anti-self-judging routes.
+- **Chapter Nine — system alignment certification and institutional alignment certification:** the system operator, the institution's governing authority, or the certification proponent is an initiating seat, not its own verifier; bounded component findings, integration of the certification record, custody, and challenges must remain within their lawful seats and anti-self-judging routes.
 - **Chapter Ten — standing records:** the requester, record-opening authority, record custodian, and contest route apply the four-seat floor together with Chapter Ten's stricter custody, claimant, informal-record, and no-self-custody rules.
 - **Chapter Thirteen — forums:** filing, investigation, merits review, record custody, appeal, and review of a forum's own alleged bias or process abuse must preserve the applicable seat and anti-self-judging boundaries.
 - **Chapter Fourteen — governance:** role definitions, competency plans, delegation, succession, and institutional design must place and sustain the seats rather than merely repeat their names.

@@ -449,6 +449,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Timely Resolution](core_05_band_accountability.md#timely-resolution) — resolution within materiality-scaled windows.
 - [Merits Determination](core_05_band_accountability.md#merits-determination) — binding substantive dispositions in those dispute-resolution pathways.
 - [Stay](core_05_band_accountability.md#stay) — temporary pause or reliance-limit orders pending further review.
+- [Interim Hold](core_05_band_accountability.md#interim-hold) — a narrow, time-bound limit on one named sentient's use of one named authority, on probable cause.
 - [Attributable Action](core_05_band_accountability.md#attributable-action) — materially relevant action traceable to identifiable responsible actors.
 - [Attribution Integrity](core_05_band_accountability.md#attribution-integrity) — attribution chains resistant to obscuring, ambiguity, tampering, and repudiation.
 - [Negligence](core_05_band_accountability.md#negligence) — reasonably avoidable failures of care that produce material harm.
@@ -822,6 +823,65 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - refuse to lift or narrow a Stay after review is complete or its stated grounds no longer hold.
 
     A pause in name only that does not actually stop or limit anything is also non-compliant.
+
+---
+
+<a id="interim-hold"></a>
+
+#### Interim Hold
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway).
+- Downstream: [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation); [Chapter Seven §7 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#7-formation-check-office-holder-standing-and-authenticity); [Chapter Eleven §5.6 Interim holds and locks](core_11_standing_integration.md#56-interim-holds-and-locks); [**Article XIX-B** (*Contestability and Proportional Restriction Limits*)](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits); [**Article XII-D** (*Non-Capture Safeguards*)](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards); **CF-4.15** (*Interim hold on a panel member or seat holder*); **CI-4.2** (*Role criteria, appointment standards, and removal pathways*).
+- Read with: [Stay](core_05_band_accountability.md#stay), [Standing Lock](core_05_band_accountability.md#standing-lock), [Standing Record](core_05_band_accountability.md#standing-record), [Merits Determination](core_05_band_accountability.md#merits-determination), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Procedural Fairness](core_05_band_participation.md#procedural-fairness), [Contestability](core_05_band_accountability.md#contestability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation).
+
+</details>
+
+<br>
+
+*In plain terms: an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on probable cause while the facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.*
+
+- **What it is**
+  - **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter on probable cause, while the facts are verified. It states its ground, scope, lapse date, and review route, and it uses the lightest measure that works. It may:
+    - require disclosure and monitoring;
+    - require an independent co-holder or second key;
+    - require step-aside from one matter;
+    - require escrow or segregation of the contested weight, funds, or keys; or
+    - restrain the exercise of the named authority.
+
+    An Interim Hold controls who may use one authority while the merits are decided. It never decides the merits.
+  - **Out of scope:**
+    - A [Standing Lock](core_05_band_accountability.md#standing-lock), which attaches only to a verified finding.
+    - A [Stay](core_05_band_accountability.md#stay), which pauses an action, a reliance, or a step and is not aimed at a sentient's authority.
+    - An emergency measure under Chapter Thirteen §6.1 Emergency measures and continuation burden, taken by a containment seat.
+    - Liberty restriction, separation of a protected care relationship, a limit on governance voting, speech, assembly, dissent, protected reporting, survival access, or the Rights Floor, suspension of a whole body, and seizure of general property.
+<a id="interim-hold-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
+
+    **Primary assessment:** Identify:
+    - the named sentient and the one authority, pathway, or matter limited;
+    - the issuing forum, and whether it stands outside the subject's control line;
+    - the probable-cause showing and the evidence tier relied on;
+    - the risk, and why it could not wait for verification;
+    - the lightest measure used and why a lighter one would not do; and
+    - the lapse date and the review route.
+
+    Test the hold under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality). Separate it from a finding, a lock, and a penalty.
+<a id="interim-hold-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to:
+    - issue a hold without probable cause, or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter One §7.5 Expression and the Harm Line](core_01_a_values_principles.md#75-expression-and-the-harm-line));
+    - have the subject's own body, appointing authority, or control line issue it;
+    - reach beyond the one named authority or into an excluded pathway;
+    - continue it past its lapse date or past the single permitted extension;
+    - treat the hold, or its lapse, as evidence of the allegation, as a standing record, or as a standing effect;
+    - convert it into a lock without a verified finding;
+    - deny the sentient the grounds, the facts, or a working route to contest and review;
+    - leave a wrongful hold without redress; or
+    - issue a hold in a situation that no provision of this Constitution or an incorporated text names.
 
 ---
 
@@ -3299,9 +3359,10 @@ See **Anti-Segmentation Principle**.
       - oversight;
       - **governance-voting**; or
       - **stakeholder-participation**.
+    - A lock on taking or exercising governing, controlling, or owning authority in an institution or enterprise, after a verified violation carried out through one, is the Institutional Authority Standing Lock under [Chapter Eleven §5.5 Special locks](core_11_standing_integration.md#55-special-locks).
     - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05_band_participation.md#stakeholder) status, or a substitute for the other named pathway.
   - **Out of scope:**
-    - A lock from unverified allegations.
+    - A lock from unverified allegations. The interim measure for probable cause is an [Interim Hold](core_05_band_accountability.md#interim-hold), which is not a lock.
     - A permanent lock without review or remediation path.
     - A dignity or Rights-Floor cut.
     - Automatic retaliation framed as a standing lock.

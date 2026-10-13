@@ -324,6 +324,7 @@ When a forum-supervised challenge is required, internal operator review, vendor 
 - Upstream: [§6](#6-forum-process) (*forum process and credible challenge*); [Part A §2](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Chapter Three §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) and [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*); [Chapter Three §2.1 Common Evasion Patterns](core_03_definition_integrity.md#21-common-evasion-patterns) (*scope-and-boundary evasion*); [System Charter](core_05_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
 - Downstream: [§8](#8-system-certification-record) (*the outcome is stated on the record*); [§9.1](#91-challenging-a-certification) (*the challenge path opens with the outcome*); [§9](#9-recertification-and-reopening) (*recertification and reopening*); [§10](#10-relationship-to-standing) (*verified-input gate where facts support adverse findings*); [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*forum supervision*); [Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - Read with: [corpus_systems.md](corpus_systems.md) (*incorporated system implementation duties*), including **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for periodic data-type re-evaluation, and **[CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
+- Subsections: [§7.1](#71-remediation-readiness-willingness-and-capacity-to-correct) (*remediation readiness: willingness and capacity to correct*); [§7.2](#72-denial-and-revocation) (*denial and revocation*).
 
 </details>
 
@@ -333,7 +334,7 @@ When a forum-supervised challenge is required, internal operator review, vendor 
 
 *Going live is a permission, not a separate stage of work. It is granted when the system is certified, the notice interval has run, and the conditions required before go-live have been independently verified. Conditions say what must be done before operation, what must hold during operation, and what corrective work may follow within a bounded scope.*
 
-*Defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or release from conditions.*
+*Defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or release from conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct), [§7.2 Denial and Revocation](#72-denial-and-revocation)).*
 
 This section is **Phase IV, Decide**, after [§6 Forum Process](#6-forum-process) (**Phase III, Review**). It covers the outcome the forums reach and the go-live gate.
 
@@ -414,6 +415,8 @@ Where such a defect is found, forums may:
 - change the recertification cadence; or
 - reopen review under [§9 Recertification and Reopening](#9-recertification-and-reopening) or order a fresh review.
 
+Which of these the forum chooses turns on whether the operator or steward is willing and able to correct the defect. [§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct) states that check, and [§7.2 Denial and Revocation](#72-denial-and-revocation) states when refusal or withdrawal is required.
+
 **Protection, correction, and verification.** Where a defect is found, the forum must state:
 
 - the affected scope;
@@ -430,6 +433,88 @@ The operator or steward supplies evidence of correction. The assigned authority 
 A promise of correction, or an operator's declaration that the work is complete, is not enough.
 
 A system that is Not Certified cannot begin new operation. If an operating system keeps being relied on in the meantime, that is decided separately under the applicable forum process and the survival-essential protection in [§9.2 Provisional and full certification](#92-provisional-and-full-certification).
+
+<a id="71-remediation-readiness-willingness-and-capacity-to-correct"></a>
+
+#### 7.1 Remediation Readiness: Willingness and Capacity to Correct
+
+*In plain terms: when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of conditions.*
+
+This is the **remediation readiness check**. It runs in Phase IV, Decide, on the component findings of Phase III, whenever an evaluation, a recertification, or a reopened or fresh review finds misalignment or a certification defect, and once the cause finding under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) has been made or marked not yet determined. It asks one question: **is the operator or steward both willing and able to correct this inside the response clock?** It answers from conduct and evidence, and never from professed intent.
+
+The operator or steward is the proponent and supplies the evidence. It does not judge its own readiness ([§6.1.1 Four seats in a certification](#611-four-seats-in-a-certification)). The lead forum decides the finding. Technical forums hold the capacity evidence. Institutional forums hold the governance and incentive evidence where the cause lies there, and for an Institution the check runs as [Part D §13.5 Remediation readiness, denial, and revocation for an Institution](core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) states. Affected sentients may submit evidence through the route in [§6.2 Supervisory sequence](#62-supervisory-sequence).
+
+**Willingness.** The forum finds from the record:
+
+- **Conduct since notice:** whether the operator stopped or contained the harm, put interim protection in place, preserved the evidence, and told affected sentients, inside the windows in [§9.2 Provisional and full certification](#92-provisional-and-full-certification), or instead delayed, minimized, or concealed.
+- **Fit between the fix and the cause:** whether the proposed correction addresses the cause finding, or only a symptom, a metric, or the appearance of a fix ([Proxy Divergence](core_05_band_oversight.md#proxy-divergence)).
+- **Incentives:** whether the reward structure that produced the misalignment is being changed or still pays for it. A fix that costs the operator something its own structure rewards, and that leaves the structure alone, is not credible ([Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions)).
+- **History:** whether earlier findings on this system, or on others under common control, were corrected and verified or came back.
+- **Cooperation:** whether the operator accepts independent verification, produces records when asked, and keeps the challenge path open, and whether anyone who reported the problem has been penalized.
+
+A good-faith dispute is not unwillingness. An operator that contests a finding through the published path, and keeps the interim protection in place while it does, is protected ([§6.3 Contestability chain](#63-contestability-chain)).
+
+**Capacity.** The forum finds whether:
+
+- **Authority:** the owners named for the correction control the cause, whether that is the design, the data, the funding, the deployment, or the governing decision. An owner who cannot change the cause is not a plan.
+- **Skill:** qualified sentients hold the work, with backup, so that correction does not rest on one head ([Chapter One §17.6 Portable Competence](core_01_c_stewardship_capacity_principles.md#176-portable-competence); **CI-4.1** (*Shared staffing and competency floor*)).
+- **Resources:** the work is funded and scheduled, and its cost is not pushed onto affected sentients ([Chapter Eleven §9.1 Remediation capacity and funding](core_11_standing_integration.md#91-remediation-capacity-and-funding); **CI-27** (*Remedy systems and institutional redress capacity*)).
+- **Dependencies:** where the cause sits with a third party, such as a vendor, an upstream system, or a parent institution, someone can compel or replace it, and by when.
+- **Verifiability:** an independent verifier can test the fix with the access and the time given. A correction nobody can verify is not capacity.
+- **Time:** the plan fits the response clock in [§9.2 Provisional and full certification](#92-provisional-and-full-certification).
+
+**Proof step.** Readiness is shown by a **proof step**: a first piece of correction or interim protection that has been done and independently verified inside a window the forum sets from the tier in [§9.2 Provisional and full certification](#92-provisional-and-full-certification). For Class A and Class B systems, no finding of ready rests on a plan alone. For Class C and Class L systems the forum may accept a dated plan whose first verifiable step falls inside its window.
+
+**Findings.** The forum states one of:
+
+- **Ready:** willing and able. Conditions and bounded authorization proceed as [§7 Certification Outcomes](#7-certification-outcomes) states.
+- **Ready with support:** willing, but short in one capacity that outside support can close. The conditions name the support, who gives it, and by when.
+- **Willing, not able:** willing, but the correction cannot be done inside the clock or at all, because the cause is outside the operator's control or the means are not there. This is not misconduct and supplies no violation input. The forum considers scope contraction, handover to a capable steward, or step-down before it reaches [§7.2 Denial and Revocation](#72-denial-and-revocation).
+- **Able, not willing:** capable, but declines, delays, or works against the correction.
+- **Neither willing nor able:** the operator will not and cannot.
+- **Not yet shown:** the evidence does not yet decide it. The forum may defer once, for a bounded period set by class, with interim protection in force. The matter then returns to [§7.2 Denial and Revocation](#72-denial-and-revocation).
+
+A conditional certification may not rest on a plan that the check did not find ready or ready with support.
+
+<a id="72-denial-and-revocation"></a>
+
+#### 7.2 Denial and Revocation
+
+*In plain terms: denial and revocation are real outcomes and not threats. If a system is not yet certified and its operator will not or cannot put the problem right, certification is refused. If a system holds certification and its operator will not or cannot put the problem right, certification is taken back. In both cases affected sentients are told, reliance is limited, and no one is cut off from survival essentials before there is a substitute.*
+
+**Denial** is the outcome non-certification ([§7 Certification Outcomes](#7-certification-outcomes)), reached by refusing certification. **Revocation** is the outcome withdrawal, reached by taking back a certification already held. These are plain names for outcomes already listed in [§7 Certification Outcomes](#7-certification-outcomes). They add no new outcome.
+
+**Denial is required** at a first certification, a fresh review, or a pass on a system that holds no status, when:
+
+1. the check finds the operator able and not willing, or neither willing nor able;
+2. the check finds it willing and not able, and no scope contraction, support, or handover closes the gap inside the longest window the class allows; or
+3. the one deferral under [§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct) has run and the finding is still not yet shown.
+
+**Revocation is required** for a system that holds certification, at a recertification or a reopened review, when:
+
+1. the check finds the operator able and not willing, or neither willing nor able, after notice and the chance to answer;
+2. a condition's deadline has passed unmet twice, or a continuing condition has been materially violated, and the operator cannot show a verified cause outside its control;
+3. evidence offered for readiness, for correction, or for release from a condition is shown to be false, fabricated, or concealed;
+4. a proof step the forum required was not done inside its window while the misalignment is current; or
+5. the check finds the operator willing and not able, and the gap is not closed inside the window the forum set after interim protection took effect.
+
+The forum may not meet any of these by certifying, or by continuing certification, subject to conditions.
+
+**Protection first.** Denial and revocation act on the certification status. They do not by themselves shut a system down. Before either takes effect the forum states the interim protection and the reliance limits ([§7 Certification Outcomes](#7-certification-outcomes), *Protection, correction, and verification*). For a Class A system whose interruption would cut off survival essentials before substitutes exist, the status changes at once, and operation continues only as separately authorized interim reliance under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) (*Class A reliance*), with a dated plan for substitutes or a capable steward.
+
+**Process.** Before a denial or revocation the operator is given notice of the finding and the evidence, a stated short window to answer or to show the proof step (set from the tier in [§9.2 Provisional and full certification](#92-provisional-and-full-certification)), and the contestability chain in [§6.3 Contestability chain](#63-contestability-chain). The decision states its reasons on the record, including the willingness and capacity findings ([§8.1 Minimum record contents](#81-minimum-record-contents)). Urgent protection does not wait for any of this ([§6.2 Supervisory sequence](#62-supervisory-sequence)).
+
+**Effect:**
+
+- **Status:** the system is Not Certified. It may not go live or materially expand, and it may not describe itself as certified.
+- **Notice:** those who rely on the system, and each Institution that operates or stewards it, are told.
+- **Operation:** continued reliance is decided separately under the survival-essential protection in [§9.2 Provisional and full certification](#92-provisional-and-full-certification).
+- **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Part D §14.3 Cascade from System certifications](core_09_d_institutional_alignment_certification.md#143-cascade-from-system-certifications).
+- **Standing:** only through [§10 Relationship to Standing](#10-relationship-to-standing) and the verified-input gate. Revocation for concealment, fraudulent evidence, a material condition violation, or operation outside certified scope may supply violation input. A finding of willing and not able supplies none.
+
+**Not a permanent bar.** A denied or revoked operator may apply again. The new application must show what changed: a new readiness showing, with the proof step already done and verified and, where the cause was governance or incentive, the changed structure in operation. A successor, renamed, split, or transferred vehicle that carries the same operator, control, or system is not new ([§9.3 Non-evasion](#93-non-evasion); [Chapter Three §2.1 Common Evasion Patterns](core_03_definition_integrity.md#21-common-evasion-patterns)). A forum may not set a waiting period for its own sake.
+
+**Not a licence.** The readiness check measures the correction needed. It does not measure the size, age, or wealth of the operator. It may not be used to refuse a small, new, or competing operator that is willing and can be supported ([Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*)), and it applies to incumbents on the same terms. An operator that is short on means is offered support under **CI-27** (*Remedy systems and institutional redress capacity*), scope contraction, or handover before it is refused.
 
 <a id="8-system-certification-record"></a>
 
@@ -468,6 +553,7 @@ The record must identify, at minimum:
   - the governing [System Charter](core_05_band_continuity.md#system-charter) or equivalent published scope instrument (or the reasoned absence of one, where that is immaterial);
   - affected communities and dependencies; and
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists;
+  - where the operator or steward is an [Institution](core_05_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Part D §11.1 Relation to System Alignment Certification](core_09_d_institutional_alignment_certification.md#111-relation-to-system-alignment-certification));
 - **Prior record:** for a recertification, or a reopened or fresh review, an attributable, integrity-protected link to the completed record it follows, and what has changed since;
 - **System Classification Record:** the [System Classification Record](core_05_band_continuity.md#system-classification-record), or its required contents under CS-3 (*System classification machinery*), reflecting the evaluation under [Part A §2 System Class Evaluation](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), stating:
   - the assigned system class;
@@ -542,6 +628,11 @@ The record must identify, at minimum:
 - **Cause finding:** where the review, a recertification, or a reopened review found misalignment or a defect (see [§9.2 Provisional and full certification](#92-provisional-and-full-certification)):
   - whether its cause is design, operation, or not yet determined; and
   - the evidence relied on;
+- **Remediation readiness:** where misalignment or a defect was found ([§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct)):
+  - the willingness and capacity findings and the evidence for each;
+  - the proof step required, its window, and its independent verification;
+  - the finding stated under that subsection; and
+  - where the outcome is denial or revocation, the reasons, the interim protection, and the reliance limits under [§7.2 Denial and Revocation](#72-denial-and-revocation);
 - **Outcome and reliance limits:**
   - the certification outcome under [§7 Certification Outcomes](#7-certification-outcomes);
   - whether the system holds provisional or full certification under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) or is Not Certified;
@@ -648,7 +739,7 @@ This section is sub-phase **VIa** of Phase VI (Operate), operate and recertify. 
 - route challenges to the assigned authority; and
 - carry out required interim protection and corrective work.
 
-An incident, unmet condition, or credible challenge that materially calls alignment into question requires timely forum review under this section and must not wait for the next scheduled recertification. Correction and release of conditions follow the independent-verification requirements in [§7 Certification Outcomes](#7-certification-outcomes).
+An incident, unmet condition, missed proof step under [§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct), false readiness evidence, or credible challenge that materially calls alignment into question requires timely forum review under this section and must not wait for the next scheduled recertification. Correction and release of conditions follow the independent-verification requirements in [§7 Certification Outcomes](#7-certification-outcomes).
 
 A **System Certification Record** is **scope-bound** and **time-bound**. It must be recertified on the cadence set for its system class under [Part A §2](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation). Review also reopens under Chapter Thirteen and incorporated system implementation duties when any of the following is material:
 
@@ -664,8 +755,9 @@ A **System Certification Record** is **scope-bound** and **time-bound**. It must
   - an ecological objection;
   - system-class misalignment, or overdue reassessment, under **[CS-3 §3.5 reclassification requirement](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**;
   - data-type or handling misalignment, or an overdue or skipped periodic data-type re-evaluation, under **[CS-2 §5.2 reclassification and lifecycle governance](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**;
-  - classification misalignment; and
-  - a [System Charter](core_05_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue periodic System Charter review.
+  - classification misalignment;
+  - a [System Charter](core_05_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue periodic System Charter review; and
+  - a failed or withdrawn Institutional Certification Record of the operator or steward, where the finding bears on this system ([Part D §14.2 Reopening triggers](core_09_d_institutional_alignment_certification.md#142-reopening-triggers)).
 - **Evaluation misalignment:** misalignment or a defect reflected on the certification record under any Part A evaluation that applied, from [§2 System Class Evaluation](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). That includes risk-evaluation or risk-disclosure defects under [§3.1 Systemic Scope and Risk Factors](core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors).
 
 **Why reopening matters.** Reopening on misalignment, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). This matters where shared systems gate the durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety. An out-of-date certification must not substitute for current Rights-Floor compliance.

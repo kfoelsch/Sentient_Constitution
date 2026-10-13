@@ -163,6 +163,107 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 ---
 
+<a id="institutional-alignment-certification"></a>
+
+#### Institutional Alignment Certification
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part D — Institutional Alignment Certification](core_09_d_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification) (*institution class, institutional evaluation, forum roles, record, cascade from system certifications, and reopening*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Downstream: [Chapter Seven §2 When System and Institutional Charters Are Required](core_07_charters.md#2-when-system-and-institutional-charters-are-required) (*an Institution's certification point*); [Chapter Thirteen §4.3 Institutional Forums](core_13_forum.md#43-institutional-forums) (*institutional mandate and duty-compliance components*).
+- Read with: [Institutional Certification Record](core_05_band_continuity.md#institutional-certification-record), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [Institution](core_05_band_continuity.md#institution), [Institutional Charter](core_05_band_continuity.md#institutional-charter), [System Charter](core_05_band_continuity.md#system-charter), [Charter Role Map](core_05_band_continuity.md#charter-role-map), [Provisional Certification](core_05_band_continuity.md#provisional-certification), [Full Certification](core_05_band_continuity.md#full-certification), [Recertification](core_05_band_continuity.md#recertification), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
+- Distinguish: the "certification" that Chapter Thirteen §5 describes is a forum referring a question up to another forum. This entry is the forum-supervised process that tests whether an [Institution](core_05_band_continuity.md#institution) is aligned, and it is a different thing.
+
+</details>
+
+<br>
+
+*In plain terms: **institutional alignment certification** is the independent check of an institution, as opposed to one of its systems. It asks whether the institution does what its Institutional Charter says, whether the offices that hold its authority are answerable to someone, and whether the way it rewards its own members pushes toward the Constitution or away from it. It cites the certification of each system the institution runs and does not repeat that work. It never works as a licence: no institution needs permission from it to form or to operate.*
+
+- **What it is**
+  - **In scope:** The forum-supervised process, and the bounded [Institutional Certification Record](core_05_band_continuity.md#institutional-certification-record) it produces, by which an [Institution](core_05_band_continuity.md#institution), within a stated scope, class, time window, and review cadence, shows that it is aligned with the Constitution as an Institution. It covers the matters that exist only at the level of the Institution:
+    - whether its practice matches its [Institutional Charter](core_05_band_continuity.md#institutional-charter), and whether the portfolio rationale still explains the Systems it actually runs;
+    - whether the authority it exercises is attributable to accountable offices;
+    - whether its own reward structures, targets, and incentives reward alignment and not misalignment;
+    - whether its [Charter Role Map](core_05_band_continuity.md#charter-role-map) and standing-record custody work in practice, with an independent route that can be used; and
+    - whether the System Alignment Certification of each System it runs is current, and what that means for the Institution.
+
+    It cites each System's own certification by link, and it uses the same outcomes, statuses, and reopening discipline as System Alignment Certification.
+  - **Out of scope:**
+    - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) of any System the Institution runs, which belongs to that System and is never repeated or overridden here;
+    - any permission to form, join, or run an Institution, which [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) protects and this process does not condition;
+    - forum-to-forum referral and certification under Chapter Thirteen; or
+    - a [Standing Record](core_05_band_accountability.md#standing-record) or any standing effect —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Institution](core_05_band_continuity.md#institution); [Institutional Charter](core_05_band_continuity.md#institutional-charter); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification).
+  - Who must be certified, what is evaluated, who holds each seat, how a failed System certification reaches the Institution, and when review reopens are stated in [Chapter Nine Part D](core_09_d_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification); this entry is the Chapter Five meaning only.
+<a id="institutional-alignment-certification-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. an Institution of Class L or higher holds a current Institutional Certification Record, or is inside the window the record states for a first certification;
+    2. each finding about a System the Institution runs rests on that System's own certification record, cited by link, and not on a second evaluation of the System;
+    3. the evaluation tested the Institutional Charter against observed operation and not only against the text of the Institutional Charter;
+    4. a failed, withdrawn, or expired System certification was carried into the Institution's status as the cascade rule requires; and
+    5. no part of the process worked as a precondition to forming or running the Institution.
+<a id="institutional-alignment-certification-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - using institutional alignment certification as a licence, gate, or authorization threshold on forming or running an Institution;
+    - re-evaluating a System, or changing the outcome of its certification, inside an institutional pass; or
+    - an Institution operating with an Institutional Charter, portfolio, or incentive structure that the certification pass never tested while the Institution presents itself as certified;
+  - **Secondary failure:** a pass that reads only the Institutional Charter text and not observed operation, a failed System certification that never reaches the Institution's status, a lead forum or record office that is inside the Institution's own control line, or an Institutional Certification Record that is not time-bound, not contestable, or concealed;
+  - **Tertiary failure:** splitting an Institution, or its portfolio, so that no part reaches the class that requires certification.
+
+---
+
+<a id="institutional-certification-record"></a>
+
+#### Institutional Certification Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part D §13.4 Institutional Certification Record](core_09_d_institutional_alignment_certification.md#134-institutional-certification-record) (*minimum contents and integrity*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Read with: [Institutional Alignment Certification](core_05_band_continuity.md#institutional-alignment-certification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Institutional Charter](core_05_band_continuity.md#institutional-charter), and [Charter Role Map](core_05_band_continuity.md#charter-role-map).
+
+</details>
+
+<br>
+
+*In plain terms: an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System certification records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.*
+
+- **What it is**
+  - **In scope:** The bounded, reviewable record produced by [Institutional Alignment Certification](core_05_band_continuity.md#institutional-alignment-certification). It is the [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) for the institutional certification act. It identifies the Institution, the version of its Institutional Charter and Charter Role Map in force, its class, its findings, the System Certification Records it cites, the outcome and any conditions, and the challenge paths. It is scope-bound, time-bound, and contestable.
+  - **Out of scope:**
+    - a [System Certification Record](core_05_band_continuity.md#system-certification-record), which stays the record of one System and is cited here and never absorbed;
+    - a [Standing Record](core_05_band_accountability.md#standing-record), which Chapters Ten and Eleven own; or
+    - an Institution's own annual report, audit statement, or attestation offered in place of the record —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Institutional Alignment Certification](core_05_band_continuity.md#institutional-alignment-certification); [System Certification Record](core_05_band_continuity.md#system-certification-record).
+  - The minimum contents and the integrity rules are stated in [Chapter Nine Part D §13.4](core_09_d_institutional_alignment_certification.md#134-institutional-certification-record); this entry is the Chapter Five meaning only.
+<a id="institutional-certification-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the record names the Institutional Charter and Charter Role Map versions in force, and the version of each cited System Certification Record;
+    2. the record is kept by an office outside the Institution's own [Material Control Line](core_05_band_accountability.md#material-control-line) and can be challenged through a published path; and
+    3. a later pass opens a new linked record and leaves the earlier one as it stood.
+<a id="institutional-certification-record-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - offering an Institution's self-report, or a System Certification Record alone, as the Institutional Certification Record;
+    - editing a completed record in place;
+    - a record whose custodian is inside the Institution's own control line, for a record in which the Institution is the subject; or
+    - treating the record as a standing record or as a standing effect.
+
+---
+
 <a id="pilot"></a>
 
 #### Pilot

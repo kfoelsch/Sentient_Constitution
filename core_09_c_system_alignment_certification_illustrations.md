@@ -757,4 +757,4 @@ Illustrative labels do not lock classification. Each of the following must be re
 
 **Previous file:** [core_09_b_system_alignment_certification_record_process.md](core_09_b_system_alignment_certification_record_process.md#chapter-nine-part-b-certification-record-and-process)
 
-**Next file:** [core_10_standing_assessment.md](core_10_standing_assessment.md)
+**Next file:** [core_09_d_institutional_alignment_certification.md](core_09_d_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)

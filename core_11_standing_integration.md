@@ -195,6 +195,8 @@ Detention, imprisonment, and other liberty restrictions are not standing locks. 
 
 Where verified stakeholder-pathway corruption, capture, false-stake abuse, or coercive participation-weight gaming is the trigger, apply the [Stakeholder-Participation Standing Lock](#55-special-locks) under [§5.5 Special locks](#55-special-locks).
 
+Where a verified violation was carried out through an institution or enterprise, or an office in one, apply the [Institutional Authority Standing Lock](#55-special-locks) under [§5.5 Special locks](#55-special-locks). It closes the authority pathway only, and it attaches to a verified finding and never to probable cause.
+
 The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or named pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
 
 1. **Containment** — stop the same harm from continuing through the same setting or named pathways;
@@ -234,7 +236,7 @@ Anti-constitutional misconduct specializations — including designation-trigger
 
 *In plain terms: locks are cheap to issue; repair, restoration, and review are expensive to run. Left alone, the cheap half of this chapter keeps working while the expensive half starves. This subsection ties them together: an ordinary lock cannot attach until the remedy file for the same finding is actually open, and when an adopter's remedy or restoration work for a class of locks falls behind its clock, new ordinary locks in that class default to the lightest form and existing ones come up for review. The gravest locks are exempt so that flooding the remedy queue cannot spring them.*
 
-**Opened-remedy precondition.** Beyond interim protective measures under [Chapter Thirteen §5 Interim protection](core_13_forum.md#interim-protection) (*Interim protection*), a general standing lock under [§4.2 Prevention — general standing locks](#42-prevention--general-standing-locks) may not attach to a named pathway until the [§4.1 Remedy and correction](#41-remedy-and-correction) integration record for the same verified finding is **open** — meaning at least the affected parties, the remedy owed, the responsible party, the funding source, and the start date are stated in plain view. Completion of remedy is not required for a lock to attach; an opened remedy record is. A lock attached without an opened remedy record is defective and must be cured or narrowed to interim protective scope on the [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clock.
+**Opened-remedy precondition.** Beyond interim protective measures under [Chapter Thirteen §5 Interim protection](core_13_forum.md#interim-protection) (*Interim protection*), including an [Interim Hold](core_05_band_accountability.md#interim-hold) (which needs no open remedy record because it is not a lock), a general standing lock under [§4.2 Prevention — general standing locks](#42-prevention--general-standing-locks) may not attach to a named pathway until the [§4.1 Remedy and correction](#41-remedy-and-correction) integration record for the same verified finding is **open** — meaning at least the affected parties, the remedy owed, the responsible party, the funding source, and the start date are stated in plain view. Completion of remedy is not required for a lock to attach; an opened remedy record is. A lock attached without an opened remedy record is defective and must be cured or narrowed to interim protective scope on the [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clock.
 
 **Remedy-parity tripwire.** Adopters must publish, for each period and each lock class they administer, the number of general locks issued, remedies commenced, remedies completed, restorations decided, and reassessments pending. Where remedy commencement or restoration review for a lock class exceeds its Chapter Thirteen §6 (*Timely resolution, materiality tiers, and anti-delay discipline*) tier outer bound:
 
@@ -258,6 +260,7 @@ Design a lock in this order:
 - Put the terms in plain view and keep a review path ([§5.3 Record visibility and escalation](#53-record-visibility-and-escalation)).
 - Apply any special violation rules that shape that attachment ([§5.4 Special violation rules](#54-special-violation-rules)).
 - Apply any mandatory special locks, using the same attachment fields ([§5.5 Special locks](#55-special-locks)).
+- Keep an Interim Hold, which is not a lock, apart from all of this ([§5.6 Interim holds and locks](#56-interim-holds-and-locks)).
 - Past help does not cancel a verified harm, skip repair, or open a locked named pathway—that no-offset rule lives in [Chapter Ten §2.2 Linked records and no-offset bridge](core_10_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
 - [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) already says contribution does not decide locks.
 - What contribution can do later is covered in [§6 Contribution consequences second](#6-contribution-consequences-second) and [§8 Restoration and reassessment](#8-restoration-and-reassessment).
@@ -491,6 +494,40 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 - **Reassessment point:** the independent restoration finding above. Intentional, concealed, repeated, retaliatory, or outcome-affecting abuse receives heightened scrutiny. Recurrence uncertainty and isolation from proxy networks that recreate the capture risk apply under [§5.1 Definition and attachment](#51-definition-and-attachment).
 - **Non-substitution:** A Stakeholder-Participation Standing Lock is not a substitute for a **governance-voting** lock, and a **governance-voting** lock is not a substitute for this lock. Where both named pathways are implicated by separately verified facts, each lock must be attached and justified on its own record.
 
+**Institutional Authority Standing Lock.** Trigger: a verified finding, unresolved or materially unremedied, that the subject materially used an institution or enterprise, or an office in one, as the vehicle for a violation — including directing or knowingly operating it to carry out the violation or to evade a duty, check, remedy, certification, or forum order; concealing control, interests, or beneficial ownership through a nominee, shell, front, or relabeling, either to hold authority the subject was barred from or to defeat the [formation check](core_07_charters.md#7-formation-check-office-holder-standing-and-authenticity) (*Chapter Seven §7 Formation Check: Office-Holder Standing and Authenticity*); retaliating from within it against a protected reporter or a refuser of a wrongful instruction; or knowingly retaining a misaligned reward through it after notice under [§10.7 Misaligned reward retention](#107-misaligned-reward-retention).
+
+- **Named pathway:**
+  - taking or exercising governing, controlling, or owning authority — including any covered office under [Chapter Seven §7 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#7-formation-check-office-holder-standing-and-authenticity) — in:
+    - the institution or enterprise through which the wrongdoing occurred;
+    - its successors, controlled entities, and any nominee-, shell-, or proxy-held vehicle through which the subject would hold the same authority; and
+    - other institutions or enterprises with the same function or the same protected subjects, where the verified risk would recur and the lock record names them.
+  - The lock follows the authority, not the label. A change of name, form, or seat does not take the authority outside it ([§9.4 Anti-evasion and look-through authority](#94-anti-evasion-and-look-through-authority)).
+- **Does not by itself restrict:**
+  - forming or leading an institution or enterprise outside the named pathway;
+  - joining, working in, being served by, or being a [Stakeholder](core_05_band_participation.md#stakeholder) of any institution or enterprise, including the one concerned, in a role that carries no governing, controlling, or owning authority;
+  - the existence or operation of the institution or enterprise itself, which another lawful holder may lead;
+  - passive holdings that carry no control, no vote, and no say in appointments, although remedy owed from them stays collectable; or
+  - wages for work outside the verified violation, the Rights Floor, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
+- **Risk:** continued or renewed use of an institution or enterprise as a vehicle for the same wrongdoing, evasion of the lock through nominees and successors, and recurrence in comparable institutions while the finding stays unresolved.
+- **Protected subjects or interests:** the sentients the institution or enterprise affects, its workers and stakeholders, the integrity of the formation check and of alignment certification, and the independence of the seats that check the institution.
+- **Corrective conditions:**
+  - The lock must not be lifted, narrowed, or suspended unless an independent restoration record is satisfied and gives reasons showing that narrower protection is sufficient.
+  - Reassessment requires:
+    - correction, unwinding, or withdrawal of the wrongdoing that was carried out through the institution or enterprise;
+    - remedy for affected sentients where owed;
+    - disclosure of the control, interests, nominees, and rewards used;
+    - a changed structure — an independent seat in place, and the control or reward arrangement that enabled the wrongdoing removed;
+    - cooperation with review;
+    - a demonstrated period of compliant service without governing, controlling, or owning authority, where lawful;
+    - an independently verified authenticity finding on the four parts in [Chapter Seven §7 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#7-formation-check-office-holder-standing-and-authenticity), shown in conduct, control, and rewards and not in profession of belief, where a continuing statement that others deserve harm or discriminatory treatment counts against restoration under [Chapter One §7.5 Expression and the Harm Line](core_01_a_values_principles.md#75-expression-and-the-harm-line); and
+    - an independent finding that recurrence risk has been materially reduced.
+  - Founder status, capital contributed, indispensability to the institution, prior contribution, reputation, or apology cannot lift the lock by itself.
+- **Review route:** independent review outside the institution or enterprise concerned and outside any body whose authority the lock limits.
+- **Reassessment point:** the independent restoration finding above. Intentional, concealed, repeated, retaliatory, or outcome-affecting use of an institution as a vehicle receives heightened scrutiny. Recurrence uncertainty and isolation from nominee, shell, and proxy networks that recreate the risk apply under [§5.1 Definition and attachment](#51-definition-and-attachment).
+- **Gate effect:** While the lock is outstanding, the outstanding-lock gate in [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) applies to the named pathway and no further. The institution or enterprise is not stopped. It must fill the authority again with another lawful holder. A body that knowingly seats the subject in the named pathway, directly or through a nominee, commits institutional vehicle evasion under [§10.6 Institutional vehicle and successor evasion](#106-institutional-vehicle-and-successor-evasion).
+- **No lock from probable cause:** A lock attaches only to a verified finding. Where only probable cause of misalignment exists, the narrower [Interim Hold](core_05_band_accountability.md#interim-hold) under [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway) applies, as **Article XI-E** (*Institutional Formation and Business Creation*) provides. It attaches no lock, no standing record, and no standing effect.
+- **Non-substitution:** An Institutional Authority Standing Lock is not a substitute for the Anti-Constitutional Trust Lock or for a **stakeholder-participation** lock, and neither is a substitute for it. Where several are implicated by separately verified facts, each must be attached and justified on its own record.
+
 **Anti-Constitutional Trust Lock.** Trigger: a final Chapter Twelve designation for the responsible sentient, group, institution, successor vehicle, controlled entity, or materially coordinated proxy.
 
 - **Named pathway:**
@@ -527,6 +564,20 @@ These locks are mandatory when their verified trigger is met. Each must be recor
   - The published restoration or reinstatement finding above is the checkpoint for any narrowing or lifting.
   - Under [§5.1 Definition and attachment](#51-definition-and-attachment), keep the sentient isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
 - **Read with:** [Chapter Twelve §4.2](core_12_a_misconduct_designation.md#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*) for the extra rules on restricting liberty or imprisonment that apply only after a final anti-constitutional misconduct designation. The Trust Lock rules themselves stay in this subsection.
+
+<a id="56-interim-holds-and-locks"></a>
+#### 5.6 Interim holds and locks
+
+*In plain terms: a hold is what a forum may do on probable cause while the facts are checked. A lock is what follows a verified finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.*
+
+An [Interim Hold](core_05_band_accountability.md#interim-hold) under [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway) is interim protection and not a lock. This subsection keeps the two apart:
+
+- **Different trigger:** A hold rests on probable cause. A lock attaches only to a verified finding ([§5.1 Definition and attachment](#51-definition-and-attachment)).
+- **No standing effect:** A hold is not a verified input, a [Standing Record](core_05_band_accountability.md#standing-record), or a standing effect. It supplies nothing to Chapter Ten, and its lapse or its being set aside supplies nothing either.
+- **Never converted:** A hold is not turned into a lock by passing time, by an extension, or by the merits matter being opened. If a finding is verified, the lock is designed and justified on its own record from the finding.
+- **Time counts:** Where a lock with a time bound later attaches on the same named pathway for the same facts, time already spent under a hold on that named pathway counts toward that bound. It does not count toward the corrective conditions, which are met by what is done.
+- **No substitute for a lock:** Once the hold's bound and its single extension have passed ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the named pathway reopens unless a verified finding supports a lock.
+- **Excluded named pathways:** A hold may not reach a named pathway that a lock itself may not restrict under [§5.1 Definition and attachment](#51-definition-and-attachment) (*What a lock does not itself restrict*), and it may not reach **governance-voting** at all.
 
 <a id="6-contribution-consequences-second"></a>
 ### 6. Contribution consequences second
@@ -919,9 +970,10 @@ This situation is identified by the cue below and governed by the sections liste
 - **Cue:** An institution carries repeated harm, capture, or evasion, including through shells, relabeling, or successor vehicles.
 - **Routes through:**
   - [§5](#5-lock-design-and-enforcement) (*named pathway locks and institutional restrictions*);
+  - [§5.5 Special locks](#55-special-locks) (*Institutional Authority Standing Lock for the sentient who used the institution as a vehicle*);
   - [§9.1](#91-remediation-capacity-and-funding) (*successor and funding continuity*); and
   - [§9.4 Anti-evasion and look-through authority](#94-anti-evasion-and-look-through-authority).
-- **Non-negotiable:** Actor-specific proof remains required. Relabeling, shell substitution, and formal identity changes do not defeat a verified duty. Consequences may include suspension, receivership, structural separation, dissolution, and successor-control restrictions where the verified facts warrant.
+- **Non-negotiable:** Actor-specific proof remains required. Relabeling, shell substitution, and formal identity changes do not defeat a verified duty. Consequences may include suspension, receivership, structural separation, dissolution, and successor-control restrictions where the verified facts warrant. A verified finding that a sentient used the institution as a vehicle for a violation triggers the Institutional Authority Standing Lock on that sentient's authority. The lock is separate from the institution-level consequences and does not replace them.
 
 <a id="107-misaligned-reward-retention"></a>
 #### 10.7 Misaligned reward retention

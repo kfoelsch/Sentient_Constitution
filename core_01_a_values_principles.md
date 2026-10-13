@@ -205,7 +205,7 @@ flowchart TB
         T["§5 Truth<br/><br/>• Epistemic integrity<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
     end
     R["§6 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy"]
-    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.4 Assembly,<br/>dissent, and exit"]
+    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.5 Assembly,<br/>dissent, exit, and<br/>expression limits"]
     F -->|"is stated as"| W
     W -->|"is sustained by"| S
     W --> T
@@ -840,7 +840,7 @@ The right to this correction is stated in [Article XIII-B](core_06_rights_part_c
 - Read with: [§11 Market Structure](#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with: [§7.1 Limitation Discipline](#71-limitation-discipline) and [Chapter Nine §3.2 Time-Consistency Constraint](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) through [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles: [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [4 Safety](#4-safety-harm-constraint); [5 Truth](#5-truth-epistemic-integrity-constraint); [6. Trust](#6-trust-and-trustworthiness-coordination-integrity); and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§7.1 Limitation Discipline](#71-limitation-discipline) through [§7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#74-voluntary-discontinuation-and-exit-rights); [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*the public-authority counterpart of Freedom*); [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); and [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) where concrete applications require collision handling.
+- Downstream: [§7.1 Limitation Discipline](#71-limitation-discipline) through [§7.5 Expression and the Harm Line](#75-expression-and-the-harm-line); [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*the public-authority counterpart of Freedom*); [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); and [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
   - Especially [Article VI: Equal Basic Rights](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Article VII: Self-Ownership](core_06_rights_part_b.md#article-vii-self-ownership), [Article IX: Likeness, Experiential Data, and Publication Rights](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights), [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), and [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six Rights Floor context where agency is limited or claimed.
@@ -982,7 +982,7 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 
 **Scope and limits of this section:**
 
-- **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
+- **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only.
 - **Compartments:** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
 - **Whole-system evaluations:** Must test anti-segmentation under [Chapter Nine §4.3 Assembly, Collective Organization, and Institutional Formation](core_09_a_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
@@ -1043,11 +1043,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Nine §4.3.1 Dissent and Peaceful Protest](core_09_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest). Until that check is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
 
-**What this section does not change:**
-
-- **§7.3** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor.
-- It does not narrow **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*).
-- It does not protect separable conduct that independently breaches Safety or another sentient's Rights-Floor minimums.
+**Scope.** This subsection does not protect separable conduct that independently breaches Safety or another sentient's Rights-Floor minimums.
 
 #### 7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights
 
@@ -1092,6 +1088,43 @@ This subsection does **not** import voluntary-discontinuation discipline into th
 - commercial-service
 
 Whole-system evaluations must test these conditions under [Chapter Nine §4.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_09_a_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
+
+#### 7.5 Expression and the Harm Line
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+*Rights-Floor home.* **[Article XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expression*)** states the operative expression floor, and **[Article XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*Collective Harm Boundary and Enforcement Interface*)** states where collective harm begins. This subsection states the Freedom principle that joins them, and adds no rule of its own.
+
+- [Expression](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [Cruelty](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*In plain terms: you may say, write, publish, and design almost anything, including what offends, disturbs, or criticizes. But speech is not a loophole. When words, policies, or designs are the way someone harms, harasses, bullies, or discriminates against others, they are judged on what they do, the same way for a sentient as for an institution, and whatever religious or political label they carry.*
+
+**Expression is protected as expression.** [Expression](core_05_band_participation.md#expression) covers views of every kind, including disturbing ones, and criticism of any sentient or institution. Offense, disagreement, discomfort, and peaceful protest are not harm ([§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest)).
+
+**Expression is not a shield for conduct.** Speech, publication, design, policy, and other expression remain subject to the rules on [Harm](core_05_band_accountability.md#harm), [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), [Cruelty](core_05_band_accountability.md#cruelty), and nondiscrimination when they are the means by which that conduct is carried out. The test is what the expression states, calls for, or does, read in context under the Chapter Five definitions. Those definitions keep their meaning: harassment and bullying need a material pattern, not a single sharp remark, and harm needs a real material-impact pathway, not offense alone ([Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary)).
+
+**The same test applies to a sentient and to an institution.** A single sentient, a group, or an institution may be the speaker, and any of them may be the target.
+- An institution speaks through its policies, notices, platform design, official statements, and the way it treats reports and critics. Conduct carried out that way is judged like any other.
+- Criticism of an institution, of its officers, or of its conduct is protected. Calling criticism bullying or harassment is a limit on expression. The party making that claim bears the burden under [§7.1 Limitation Discipline](#71-limitation-discipline) and Chapter Four.
+
+**Labels and topics do not change the test.** A religious, political, ideological, cultural, artistic, or commercial label does not turn expression that harms others, or treats them in ways forbidden under **[Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*)**, into protected expression. A topic or point of view does not turn protected expression into harm. **[Article XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Freedom of conscience, religion, and comparable worldview*)** protects holding and manifesting belief consistently with the rights of others.
+
+**Limiting expression is different from using it as evidence.** A limit on expression must meet [§7.1 Limitation Discipline](#71-limitation-discipline) and **[Article XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expression*)**, and a limit aimed at what is said faces the strictest review there. Using what a sentient has said as evidence of intent, purpose, or authority is not a limit. It follows the evidence rules of the chapter that asks the question, such as [Chapter Seven §7 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#7-formation-check-office-holder-standing-and-authenticity), and it may not become a penalty for the speech itself.
+
+**Scope.** This subsection applies Limitation Discipline and the Chapter Five definitions to expression. It creates no category of harm and no ground for limiting freedom that [§7.1 Limitation Discipline](#71-limitation-discipline) does not already allow.
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Continuity Aim: Introduction

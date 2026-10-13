@@ -28,6 +28,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Timely Resolution",
         "Merits Determination",
         "Stay",
+        "Interim Hold",
         "Negligence",
         "Collective Accountability Failure",
         "Redress and Remediation",
