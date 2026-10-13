@@ -31,7 +31,7 @@ The required “experience” block is unpaid, overlaps Dana’s clinic appointm
 
 Dana disputes the request. Dana wants to sit the exam, keep the clinician Dana chose, keep the statement, and not have unpaid hours dressed as “experience” close the labor floor. Dana asks whether enrollment can be used as a lever, and whether the filing will become a standing record.
 
-No capability showing has been made. No forum has verified a violation. The ranking vendor is not a party to the enrollment file. The adopter’s Charter is silent on who verifies enrollment-hold requests that mix speech, healthcare, and unpaid hours.
+No capability showing has been made. No forum has verified a violation. The ranking vendor is not a party to the enrollment file. The adopter’s System Charter or Institutional Charter is silent on who verifies enrollment-hold requests that mix speech, healthcare, and unpaid hours.
 
 ## Parties and stated stakes
 

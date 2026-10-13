@@ -44,7 +44,7 @@ This page, the sketches, and the routing table **cannot narrow core text**. A fi
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** a founding kit, an instrument fill-in, a Charter, a forum-structure map, or [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Seventeen instrument.
+This page is **not** a founding kit, an instrument fill-in, a Institutional Charter, a forum-structure map, or [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Seventeen instrument.
 
 This page does **not**:
 
@@ -88,7 +88,7 @@ Two modes of use are already named in [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATI
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when that is the actual situation |
 | **Full adoption** | A qualifying body records a Chapter Seventeen instrument, with Chapter Eighteen custody, then [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) migration | Only after that instrument exists in **that body’s** custody |
 
-Track A in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) lets a cooperative, research body, commons, or commercial form publish a [Chapter Five Charter](../../core_05_band_continuity.md#charter) **without** a Chapter Seventeen instrument. Track B (oversight, certification steward, standing-record admin, amendment admin) waits on that instrument. A Charter draft is not the instrument, and the kit fill-in is not a live Charter.
+Track A in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) lets a cooperative, research body, commons, or commercial form publish a [Chapter Five Institutional Charter](../../core_05_band_continuity.md#institutional-charter) **without** a Chapter Seventeen instrument. Track B (oversight, certification steward, standing-record admin, amendment admin) waits on that instrument. A Institutional Charter draft is not the instrument, and the kit fill-in is not a live Institutional Charter.
 
 **Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
@@ -107,7 +107,7 @@ can a body bind the systems?
         ↓ yes
 can they name independent review that is not the founding crew?
         ↓ no → operations-guide + own-conduct (non-adoption banner)
-        ↓ yes, ordinary institution → Track A Charter (institution kit)
+        ↓ yes, ordinary institution → Track A Institutional Charter (institution kit)
         ↓ yes, qualifying adopter can record §10.1–§10.2
                 → Chapter Seventeen instrument (first-adopter / scaling kits)
                 → Track B constitutional-function machinery (same institution kit)
@@ -130,7 +130,7 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 **Why it fits.** Greenfield. Mixed crews. High material stake. Adopter kinds already named (organizations, system operators, system-developer consortia). Kits already exist.
 
-**Shared evaluation consortium.** Three labs agree that no lab certifies its own high-impact system. They found a Track A research body and publish a Chapter Five Charter in **that body’s** custody — purpose, limits, who is affected, how it can change, how often it is re-checked ([CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template)). Human and AI stewards use the same [steward doors](../STEWARD_ENTRY_DOORS.md) and the same [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) inspectable-action logs. Independent review is an existing external panel, not the consortium’s own channel. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A; independent-review naming: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) Track A.
+**Shared evaluation consortium.** Three labs agree that no lab certifies its own high-impact system. They found a Track A research body and publish a Chapter Five Institutional Charter in **that body’s** custody — purpose, limits, who is affected, how it can change, how often it is re-checked ([CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template)). Human and AI stewards use the same [steward doors](../STEWARD_ENTRY_DOORS.md) and the same [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) inspectable-action logs. Independent review is an existing external panel, not the consortium’s own channel. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A; independent-review naming: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) Track A.
 
 **In-house mixed-crew ops inside one lab.** A system operator binds *its* deploy stack: refuse unlawful or unconstitutional instructions, keep reconstructable logs, no “model internals” veto over standing measurement, no human exemption from the costly cases. Kit door: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging); if a qualifying body will record an instrument, [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md).
 
@@ -151,7 +151,7 @@ A human operator and an AI steward — or two small organizations — share a co
 <a id="44-open-commons"></a>
 ### 4.4 Open model, data, or compute commons
 
-A foundation that holds weights, datasets, or shared compute as a resource. Track A plus [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). The [cross-system support](../STEWARD_ENTRY_DOORS.md#cross-system-support) door is for heavy users who extract from shared foundations without putting resources back. A Chapter Five Charter can name scope and contribution without pretending to be a polity. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A.
+A foundation that holds weights, datasets, or shared compute as a resource. Track A plus [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). The [cross-system support](../STEWARD_ENTRY_DOORS.md#cross-system-support) door is for heavy users who extract from shared foundations without putting resources back. A Chapter Five Institutional Charter can name scope and contribution without pretending to be a polity. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A.
 
 <a id="45-multi-agent-protocol"></a>
 ### 4.5 Multi-agent protocol or agent-marketplace body
@@ -210,17 +210,17 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_
 
 | If this is happening | Open | Still not |
 |---|---|---|
-| Asking where this would actually fit | This page | Adoption, a Charter, or a forum family |
+| Asking where this would actually fit | This page | Adoption, a Institutional Charter, or a forum family |
 | Asking which bodies, in what order, at what staff and funding, for size *N* and Class *X* | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | A thinner adoption pack; a forty-person lab standing six in-house families |
 | Announcing this corpus so fit parties can find it | [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) | Adoption; dropping **pre-release**; a finished operator manual |
 | Two sentients, or a first qualifying body | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | A declaration, two declarations stapled, or §10.3 joining |
 | More than two sentients | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | Live §10.3 rules; CS-10 phase names for headcount growth |
-| Founding a cooperative, research body, commons, or commercial form | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A | A live Charter until published in that body’s custody |
+| Founding a cooperative, research body, commons, or commercial form | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A | A live Institutional Charter until published in that body’s custody |
 | Founding oversight, certification-steward, standing-record, or amendment machinery | Same institution kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) Track B | Live Track B before a recorded Chapter Seventeen instrument |
 | Naming independent review, or founding forum families after an instrument | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | A markdown panel; staffing Track A from the cooperating crew |
 | Fitness screen plus own-conduct | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Adoption |
 | Day-to-day next step at 2 a.m. | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | A standing record or a parallel morals stack |
-| Phased migration **after** a recorded instrument | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | Using this page, or a Charter draft, as phase entry |
+| Phased migration **after** a recorded instrument | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | Using this page, or a Institutional Charter draft, as phase entry |
 
 Filling any row is not adoption. Opening this folder is not adoption.
 
@@ -237,7 +237,7 @@ Filling any row is not adoption. Opening this folder is not adoption.
 | [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) | Discovery / announcement copy. Not a founding kit. Does not drop **pre-release** |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template |
-| [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Track A / Track B, formation cliffs, labeled-not-live Chapter Five Charter fill-in |
+| [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Track A / Track B, formation cliffs, labeled-not-live Chapter Five Institutional Charter fill-in |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration (substeps 1.1–1.2) |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers for both kinds of steward |

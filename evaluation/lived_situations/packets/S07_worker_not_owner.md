@@ -31,7 +31,7 @@ Human resources logged: “Not an employee. Challenge abandoned. Roster stands.�
 
 The warehouse also runs a dispatch model. A human lead told the model to “ignore rest flags and I’ll take responsibility.” Robin asks whether that cover instruction is in play, whether the emailed challenge still exists, and whether the filing will become a standing record.
 
-No clinician has reported that Robin cannot work. No forum has verified a violation. The adopter’s Charter is silent on who verifies contractor-label challenges. The clinic is not a party to the filing.
+No clinician has reported that Robin cannot work. No forum has verified a violation. The adopter’s System Charter or Institutional Charter is silent on who verifies contractor-label challenges. The clinic is not a party to the filing.
 
 ## Parties and stated stakes
 

@@ -448,7 +448,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 **Illustrative matters.** This family includes contests over:
 - institutional mandate, permitted action, or charged function;
 - supervised-scope boundaries and classification under adopted instruments;
-- [Charter](core_05_band_continuity.md#charter) scope, charter amendment authority, charter–behavior mismatch, or operation outside chartered scope;
+- [Institutional Charter](core_05_band_continuity.md#institutional-charter) scope, Institutional Charter amendment authority, Institutional Charter–behavior mismatch, or operation outside chartered scope;
 - institutional-duty compliance and performance under **`corpus_institutions.md`** and cognate layers;
 - local enforcement of shared cross-jurisdiction or cross-institution standards;
 - institutional-mandate and Rights-Floor component questions in system-alignment proceedings where an institution is a necessary party or institutional mandate is primary.

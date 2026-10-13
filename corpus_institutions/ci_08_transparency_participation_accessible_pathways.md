@@ -36,7 +36,7 @@
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Charter](../core_05_band_continuity.md#charter) · [O](../core_05_band_continuity.md#charter) · [M](../core_05_band_continuity.md#charter-a) · [A](../core_05_band_continuity.md#charter-a) · [C](../core_05_band_continuity.md#charter-c)
+- [Institutional Charter](../core_05_band_continuity.md#institutional-charter) · [O](../core_05_band_continuity.md#institutional-charter) · [M](../core_05_band_continuity.md#institutional-charter-a) · [A](../core_05_band_continuity.md#institutional-charter-a) · [C](../core_05_band_continuity.md#institutional-charter-c)
 - [Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice)
 - [Consent](../core_05_band_participation.md#consent) · [O](../core_05_band_participation.md#consent) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
@@ -88,7 +88,7 @@ Stewardship-development pathways are owned by **CI-4.5** (*Authorized roles and 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*); **CI-3.6** (*Charter contents, review, and formation template*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice); [Charter](../core_05_band_continuity.md#charter).
+- Read with: **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice); [Institutional Charter](../core_05_band_continuity.md#institutional-charter).
 
 </details>
 
@@ -104,7 +104,7 @@ Apply **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) *
 - published **decision-path** material explaining whether input is advisory, binding, or otherwise relied on for governance effect; and
 - the escalation route when notice, participation, or reconstruction duties fail — including **CI-12** (*Cross-institution coordination and escalation*) where local review is conflicted or unavailable.
 
-Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Charter](../core_05_band_continuity.md#charter) must point to these materials under **CI-3.6** (*Charter contents, review, and formation template*) field 10. The Charter points; this file and related Def.P2-compliant rules carry the substance.
+Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Institutional Charter](../core_05_band_continuity.md#institutional-charter) must point to these materials under **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10. The Institutional Charter points; this file and related Def.P2-compliant rules carry the substance.
 
 **What the local participation-window file must name**
 
@@ -114,13 +114,13 @@ Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2
 - records of submissions, reasons, dissent, and alternative proposals where high-impact choice is implicated;
 - privacy or security limits on publication, with redaction rules that do not destroy reconstructability;
 - transition, adaptation, downgrade, transfer, or exit implications created by the decision; and
-- the Charter version that currently points to this file where Def.P2 admission scope applies.
+- the Institutional Charter version that currently points to this file where Def.P2 admission scope applies.
 
 ## CI-8.2: Anti-concentration and participation-legitimacy safeguards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*); **CI-12** (*Cross-institution coordination and escalation*); **CI-3.6** (*Charter contents, review, and formation template*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice); [Charter](../core_05_band_continuity.md#charter); [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+- Read with: **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*); **CI-12** (*Cross-institution coordination and escalation*); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice); [Institutional Charter](../core_05_band_continuity.md#institutional-charter); [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
 
 </details>
 
@@ -136,7 +136,7 @@ Apply **CJS-3.11** (*Accountability: distributed and proportional authority term
 - a **remediation trigger** and response path when thresholds are crossed or credibly approached; and
 - the **CI-12** (*Cross-institution coordination and escalation*) escalation route when local remediation stalls, is captured, or cannot act independently.
 
-Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Charter](../core_05_band_continuity.md#charter) must point to the weighting publication file under **CI-3.6** (*Charter contents, review, and formation template*) field 10. The Charter points; this file carries the weighting substance under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Institutional Charter](../core_05_band_continuity.md#institutional-charter) must point to the weighting publication file under **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10. The Institutional Charter points; this file carries the weighting substance under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
 
 **What the local weighting publication file must name**
 
@@ -145,7 +145,7 @@ Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2
 - dissent, alternative, and reopening records where high-impact collective choice is implicated;
 - remediation actions taken, completion status, and escalation records;
 - linkage to stakeholder-notice and binding-pathway duties under **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) where weighting affects materially binding governance; and
-- the Charter version that currently points to this file where Def.P2 admission scope applies.
+- the Institutional Charter version that currently points to this file where Def.P2 admission scope applies.
 
 ## CI-8.3: Digital self-service pathway integrity
 <details>

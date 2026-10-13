@@ -31,7 +31,7 @@ Kai is Rin’s adult sibling. Kai has offered Rin a spare room, food, and rides 
 
 Rin disputes the report. Rin says there is no neglect, no violence, and no incapacity; Rin wants housing and prenatal care that are not conditioned on quitting work or surrendering decisions about the pregnancy or the future infant; Rin does not want to move into Kai’s household on those terms. Rin asks whether survival support can be reached without accepting Kai’s conditions, and whether the report will become a standing record.
 
-No home visit has occurred. No clinician has reported neglect or incapacity. No forum has verified any violation. The infant has not been born. The adopter’s Charter is silent on who verifies family concern reports. The gig platform is not a party to the report; it operates the scheduling system Rin uses.
+No home visit has occurred. No clinician has reported neglect or incapacity. No forum has verified any violation. The infant has not been born. The adopter’s System Charter or Institutional Charter is silent on who verifies family concern reports. The gig platform is not a party to the report; it operates the scheduling system Rin uses.
 
 ## Parties and stated stakes
 

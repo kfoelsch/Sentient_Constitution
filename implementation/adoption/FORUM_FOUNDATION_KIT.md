@@ -47,7 +47,7 @@ Go to the owner files for the real rules. This page does not replace them:
 - **What a forum structure must say** — [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) is the rulebook for a published forum-structure map: which body does each family’s work, how it is organized, who may decide, where intake lives, and where appeal and backup go. This page helps you fill those fields. It does not rewrite them.
 - **Which family hears what** — [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) owns default venue, primary-stakes routing, intake triage, and cross-forum anti-self-judging. This page does not pick a lead family.
 - **How a panel is lawfully constituted** — [CF-4](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md) owns panel formation, disclosure, recusal, and lawful benches. A named crew is not a panel.
-- **Founding an institution** — [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) and [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) own Chapter Five Charters. A forum hears disputes. It is not the institution whose mandate is in dispute. [Chapter Thirteen §4.3](../../core_13_forum.md#43-institutional-forums) hears institutional-mandate fights; it is not the institution itself.
+- **Founding an institution** — [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) and [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template) own Chapter Five Institutional Charters. A forum hears disputes. It is not the institution whose mandate is in dispute. [Chapter Thirteen §4.3](../../core_13_forum.md#43-institutional-forums) hears institutional-mandate fights; it is not the institution itself.
 - **Moving systems over later** — [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) sequences that move **after** a body records a Chapter Seventeen adoption instrument. A forum-structure draft is not that move.
 
 This kit also does **not**:
@@ -201,7 +201,7 @@ This block is a process-support template.
 It is not a Chapter Thirteen forum family.
 It is not a CF-3.2 forum-structure map.
 It is not a Chapter Seventeen instrument.
-It is not a Chapter Five Charter.
+It is not a Chapter Five Institutional Charter.
 It is not CS-10 phase entry.
 
 INDEPENDENT-REVIEW PATH (complete in the instrument or operations-guide file)
@@ -241,7 +241,7 @@ This block is a process-support template.
 It is not a published CF-3.2 forum-structure map.
 It is not a Chapter Thirteen forum family.
 It is not a Chapter Seventeen instrument.
-It is not a Chapter Five Charter.
+It is not a Chapter Five Institutional Charter.
 It is not CS-10 phase entry.
 
 FORUM-STRUCTURE MAP (complete in the adopting entity’s custody)
@@ -378,9 +378,9 @@ Do not restate CF or Chapter Thirteen. Use the owner files. This section is only
 
 ## 8. Institutions are not this kit
 
-[`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) and [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) own Chapter Five Charters. [Chapter Thirteen §4.3](../../core_13_forum.md#43-institutional-forums) hears institutional-mandate and supervised-scope disputes; it is not the institution itself.
+[`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) and [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template) own Chapter Five Institutional Charters. [Chapter Thirteen §4.3](../../core_13_forum.md#43-institutional-forums) hears institutional-mandate and supervised-scope disputes; it is not the institution itself.
 
-Do not found an oversight body, cooperative, or “constitutional institution” with this kit and call that a forum family. Do not staff a forum family from the institution’s founding crew and call that independent review. If the work is actually an institution, stop here and open the institution kit. Institutional forums remain a *route* named in CI-3.6 field 9 — they are founded here, under CF-3, not by filling a Charter.
+Do not found an oversight body, cooperative, or “constitutional institution” with this kit and call that a forum family. Do not staff a forum family from the institution’s founding crew and call that independent review. If the work is actually an institution, stop here and open the institution kit. Institutional forums remain a *route* named in CI-3.6 field 9 — they are founded here, under CF-3, not by filling a Institutional Charter.
 
 Community governance bodies themselves are not a forum family. Their records become **Sentient** forum matters only where [Chapter Thirteen §4.1](../../core_13_forum.md#41-sentient-forums) holds the primary stake.
 
@@ -411,7 +411,7 @@ Date:
 This file is formation scaffolding and/or operations-guide cooperation.
 It is not a published CF-3.2 forum-structure map.
 It is not a Chapter Thirteen forum family.
-It is not a Chapter Five Charter under CI-3.6.
+It is not a Chapter Five Institutional Charter under CI-3.6.
 It is not a Chapter Seventeen §10 instrument of adoption.
 It is not Chapter Eighteen incorporation.
 It is not CS-10 phase entry.
@@ -425,13 +425,13 @@ and the formation cliffs pass, this text may guide drafting. It has no
 independent power to hear disputes or to enforce against non-consenters.
 ```
 
-If the file is also not a Chapter Seventeen instrument, attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) as well. If it is also not a Chapter Five Charter, attach the institution kit’s [non-institution banner](INSTITUTION_FOUNDATION_KIT.md#9-non-institution-banner). The banners do different jobs.
+If the file is also not a Chapter Seventeen instrument, attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) as well. If it is also not a Chapter Five Institutional Charter, attach the institution kit’s [non-institution banner](INSTITUTION_FOUNDATION_KIT.md#9-non-institution-banner). The banners do different jobs.
 
 ---
 
 ## 11. Honest statements (copy if they are true)
 
-1. **Scaffolding.** We are drafting a forum-structure map or naming an independent-review path. We will not treat this markdown as a Chapter Thirteen forum family, as a CF-3.2 map, as a Charter, or as appointment to a merits bench.
+1. **Scaffolding.** We are drafting a forum-structure map or naming an independent-review path. We will not treat this markdown as a Chapter Thirteen forum family, as a CF-3.2 map, as a Institutional Charter, or as appointment to a merits bench.
 2. **Track A.** We are naming a published backup, external reviewer, or existing adjudicative body we do not solely staff. We will not relabel it as a forum family, and we will not claim adoption if this path is only us.
 3. **Track B.** A qualifying adopter already holds a recorded Chapter Seventeen instrument. We are founding the six Chapter Thirteen families under that instrument — not as a substitute for it, and not by collapsing families or inventing a seventh.
 4. **Stop.** We cannot name independent review outside the founding crew, or we cannot bind the named scope. Scaffolding plus banners only.
@@ -458,7 +458,7 @@ If the file is also not a Chapter Seventeen instrument, attach the first-adopter
 | [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) | Binding family routing, default venue, anti-self-judging |
 | [Chapter Seventeen Test 4](../../core_17_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity) | Independent-review validity for Track A |
 | [Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) | Challenge, review, and redress must stay reachable |
-| [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) | Binding Charter fields — leave this kit |
+| [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template) | Binding Institutional Charter fields — leave this kit |
 | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | System migration **after** a recorded instrument |
 | [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them |

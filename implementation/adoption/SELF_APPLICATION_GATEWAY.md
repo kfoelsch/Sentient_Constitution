@@ -164,7 +164,7 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” is a Chapter Seventeen instrument, not this declaration. |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not adoption. |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template. Not adoption. Not a new sitting. |
-| [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Institution foundation after the adoption path. Not this sitting. Not a Charter. |
+| [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Institution foundation after the adoption path. Not this sitting. Not a Institutional Charter. |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation after the adoption path. Not this sitting. Not a forum family. |
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not this sitting. Not adoption. |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Invite for two parties plus Option A routing compare |

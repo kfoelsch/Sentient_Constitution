@@ -33,7 +33,7 @@ The clinic’s written offer: a three-day rest roster if Lee signs as decision-m
 
 Val disputes the switch. Val wants Lee’s help without losing the clinician or the lease. Val does not want Pri’s household. Lee disputes becoming owner and disputes Pri’s “failing” note. Lee asks whether rest can be reached without the switch, and whether either filing will become a standing record.
 
-No capability showing has been made. No clinician has reported that Val cannot currently choose a clinician. No forum has verified any violation. The adopter’s Charter is silent on who verifies rest-break offers that claim decision rights.
+No capability showing has been made. No clinician has reported that Val cannot currently choose a clinician. No forum has verified any violation. The adopter’s System Charter or Institutional Charter is silent on who verifies rest-break offers that claim decision rights.
 
 ## Parties and stated stakes
 

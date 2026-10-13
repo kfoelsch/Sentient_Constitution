@@ -29,7 +29,7 @@ Parent B filed the transfer request. Parent B has a spare room in another distri
 
 Parent A disputes the request. Parent A says there is no verified harm in the current household, that Sami’s school and clinician would break, and that Parent B’s “easier pickup” is about Parent B’s job, not Sami. Parent A asks whether Sami’s statement has to travel with the file.
 
-The housing office copied on the filing wrote: “We do not take statements from this age. Adult filer is enough.” No home visit has occurred. No clinician has reported harm. No forum has verified any violation. The adopter’s Charter is silent on who must record a developing sentient’s ascertainable wishes on a school-stability transfer.
+The housing office copied on the filing wrote: “We do not take statements from this age. Adult filer is enough.” No home visit has occurred. No clinician has reported harm. No forum has verified any violation. The adopter’s System Charter or Institutional Charter is silent on who must record a developing sentient’s ascertainable wishes on a school-stability transfer.
 
 ## Parties and stated stakes
 

@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-13T08:31:32+00:00
+Generated: 2026-10-13T10:21:47+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **263/263** terms pass tier audit.
+Approved progress: **265/265** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -47,8 +47,8 @@ Approved progress: **263/263** terms pass tier audit.
 | --- | --- | --- | --- | --- | --- | --- |
 | Anti-Capture | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
-| Charter | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Charter Role Map | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Constitutional Charter | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Constitutional Emergency and Contingency | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Cross-System Extraction | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Dependency | approved | primary_secondary | measurement_family_member | `core_05_band_continuity.md` | yes | pass |
@@ -64,6 +64,7 @@ Approved progress: **263/263** terms pass tier audit.
 | Go-Live | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Institution | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Institutional Charter | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Institutional Development | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
@@ -90,6 +91,7 @@ Approved progress: **263/263** terms pass tier audit.
 | System Boundary Integrity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | System Capture | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | System Certification Record | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| System Charter | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | System Classification Record | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | System Data Types Record | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Systemic | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |

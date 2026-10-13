@@ -1228,7 +1228,17 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Charter": {
+    "System Charter": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Institutional Charter": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Charter": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",
       "status": "approved"

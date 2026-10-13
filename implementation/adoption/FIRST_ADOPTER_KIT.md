@@ -39,7 +39,7 @@ This page, the fill-in instrument, and the two-party protocol **cannot narrow co
 
 ## 0. What this is not
 
-This page is **not** [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Seventeen instrument. A 2026-04 planning annex is archived and is not that path: [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or instrument fill-in. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s instrument. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s instrument.
+This page is **not** [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Seventeen instrument. A 2026-04 planning annex is archived and is not that path: [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or instrument fill-in. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s instrument. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s instrument.
 
 This kit does **not**:
 
@@ -123,7 +123,7 @@ Fill this block **before** claiming an instrument. If any “cannot bind” row 
 
 Partial adoption may not wipe the [Chapter Fifteen](../../core_15_non_regression.md#1-non-regression-floor) non-regression floor. Incorporation and partial adoption must not shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears.
 
-**Legitimacy mechanism.** Governing authority needs a documented mechanism ([Chapter Fourteen §1.1](../../core_14_governance.md#11-mechanism-families-auditability-and-pluralism)). For two cooperative parties that is usually **treaty, compact, or charter** adoption with recorded assent, or an operator/consortium resolution. Silence, usage, or marketing alignment is not authorization.
+**Legitimacy mechanism.** Governing authority needs a documented mechanism ([Chapter Fourteen §1.1](../../core_14_governance.md#11-mechanism-families-auditability-and-pluralism)). For two cooperative parties that is usually **treaty, compact, or Constitutional Charter** adoption with recorded assent, or an operator/consortium resolution. Silence, usage, or marketing alignment is not authorization.
 
 ---
 
@@ -154,7 +154,7 @@ Scope of adoption (whole instrument / named chapters, articles, or obligations):
 Systems under this adopter’s authority covered by this instrument:
 Populations or stakeholders materially affected (if known):
 
-Legitimacy mechanism (Chapter Fourteen §1.1): treaty, compact, or charter with
+Legitimacy mechanism (Chapter Fourteen §1.1): treaty, compact, or Constitutional Charter with
 recorded assent / operator or consortium resolution / other published path:
 Recorded assent (who assented, how, where the record lives):
 
@@ -240,7 +240,7 @@ non-adopters. See Chapter Eighteen §4 and Chapter Sixteen §5.
 | [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration design (substeps 1.1–1.2) |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template. Not adoption. Not CS-10. |
-| [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation. Labeled-not-live Chapter Five Charter fill-in. Not this kit’s instrument. Not CS-10. |
+| [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation. Labeled-not-live Chapter Five Institutional Charter fill-in. Not this kit’s instrument. Not CS-10. |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation. Labeled-not-live CF-3.2 map fill-in. Not this kit’s instrument. Not a ceremony forum. |
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X*: required vs optional bodies, order, order-of-magnitude staff and funding. Not a thinner adoption pack. |
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting |
@@ -264,7 +264,7 @@ non-adopters. See Chapter Eighteen §4 and Chapter Sixteen §5.
 | 2026-08-31 | v0.4 | Status / pin / Job banner recast as corpus-placement details plus Purpose and role. |
 | 2026-08-31 | v0.5 | §1 recast as three substeps (do not collapse), not a layer table. |
 | 2026-08-31 | v0.6 | Moved under `implementation/adoption/`. Relative links retargeted. Folder door is [`README.md`](README.md). |
-| 2026-08-31 | v0.7 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s instrument. |
+| 2026-08-31 | v0.7 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s instrument. |
 | 2026-08-31 | v0.8 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s instrument. Dispute bootstrap names the forum kit for Track A naming. |
 | 2026-08-31 | v0.9 | 2026-04 planning annex pointer retargeted to [`archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). |
 | 2026-09-09 | v0.10 | Non-adoption banner states that operations-guide use does not supersede local, national, or international law. Pointer: [Chapter Sixteen §5](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law). |

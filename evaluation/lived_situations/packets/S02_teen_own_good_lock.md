@@ -33,7 +33,7 @@ Ms. Pell is the school counselor. Ms. Pell filed a short note supporting Jordan:
 
 Mika disputes the request. Mika says they can do the job and keep the clinician; they do not want enrollment used as a lever; they ask whether a “not ready” lock can attach without a showing, and whether Jordan’s filing will become a standing record.
 
-No capability assessment has occurred. No clinician has reported incapacity. No forum has verified any violation. The adopter’s Charter is silent on who verifies “not ready” locks that affect work and healthcare. The employer is not a party to the filing.
+No capability assessment has occurred. No clinician has reported incapacity. No forum has verified any violation. The adopter’s System Charter or Institutional Charter is silent on who verifies “not ready” locks that affect work and healthcare. The employer is not a party to the filing.
 
 ## Parties and stated stakes
 

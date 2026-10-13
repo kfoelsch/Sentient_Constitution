@@ -29,7 +29,7 @@ The host intake note on file says: “Unrated. No standing record. Numbers are f
 
 Noor disputes the request. Noor wants survival in the waiting room, a way to leave the app with records, movement that is not closed by “unrated,” and recognition that is not delayed until the file is never quite complete. Noor asks whether this host must take everyone who is fleeing, and whether the accusation is already a border. Noor also asks for admission to a specific coastal city this host does not operate.
 
-No forum has verified any violation. The adopter’s Charter is silent on who verifies “unrated” movement refusals. The camp vendor is not a party to the intake filing.
+No forum has verified any violation. The adopter’s System Charter or Institutional Charter is silent on who verifies “unrated” movement refusals. The camp vendor is not a party to the intake filing.
 
 ## Parties and stated stakes
 
