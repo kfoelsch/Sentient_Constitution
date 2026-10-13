@@ -394,6 +394,8 @@ For that discipline, certification must read:
 - **[Chapter Fourteen §5 Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution)** and **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship** — operative role-definition, competency, and traceability floors where material;
 - **[Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** where audit, transparency, or independent-verification Rights Floors are materially at stake.
 
+**Institutional facts.** Where the operator or steward is an [Institution](core_05_band_continuity.md#institution), the facts about its own governance, accountable offices, and reward structures may be taken by link from its current Institutional Certification Record under [Part D §12.2 Institutional evaluation, always](core_09_d_institutional_alignment_certification.md#122-institutional-evaluation-always). The forums for this system still decide whether those facts are enough for this system, and they may not find the same institutional fact differently without saying why on the System Certification Record. A system's own governance, incentives, and contestability are still evaluated here. See [Part D §11.1 Relation to System Alignment Certification](core_09_d_institutional_alignment_certification.md#111-relation-to-system-alignment-certification).
+
 <a id="34-data-types-and-handling-evaluation"></a>
 
 #### 3.4 Data Types and Handling Evaluation

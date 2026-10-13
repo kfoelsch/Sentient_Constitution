@@ -960,6 +960,6 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 
 ---
 
-**Previous file:** [core_09_c_system_alignment_certification_illustrations.md](core_09_c_system_alignment_certification_illustrations.md#chapter-nine-part-c-certification-illustrations)
+**Previous file:** [core_09_d_institutional_alignment_certification.md](core_09_d_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)
 
 **Next file:** [core_11_standing_integration.md](core_11_standing_integration.md)

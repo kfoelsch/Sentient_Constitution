@@ -6,12 +6,12 @@ Corpus edition: `SC-Corpus-2026.10.12` · effective **2026-10-12**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **685** of **995** headings carry a gloss (69%).
+Coverage: **700** of **1026** headings carry a gloss (68%).
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (15/17 glossed)
-- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (38/54 glossed)
+- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (39/55 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (19/29 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (30/37 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
@@ -24,22 +24,23 @@ Coverage: **685** of **995** headings carry a gloss (69%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (79/91 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (35/96 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (80/92 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (37/98 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09_a_system_alignment_certification_evaluation.md` (16/58 glossed)
-- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09_b_system_alignment_certification_record_process.md` (11/23 glossed)
+- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09_b_system_alignment_certification_record_process.md` (13/25 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09_c_system_alignment_certification_illustrations.md` (10/11 glossed)
+- [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09_d_institutional_alignment_certification.md` (8/23 glossed)
 - [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-nine-system-alignment-certification-reading-index) — `core_09_system_alignment_certification.md` (1/1 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10_standing_assessment.md` (13/33 glossed)
-- [CHAPTER ELEVEN: STANDING EFFECTS AND INTEGRATION](#chapter-eleven-standing-effects-and-integration) — `core_11_standing_integration.md` (19/43 glossed)
+- [CHAPTER ELEVEN: STANDING EFFECTS AND INTEGRATION](#chapter-eleven-standing-effects-and-integration) — `core_11_standing_integration.md` (20/44 glossed)
 - [CHAPTER TWELVE, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-twelve-part-a-anti-constitutional-misconduct--designation) — `core_12_a_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER TWELVE, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-twelve-part-b-anti-constitutional-misconduct--pattern-applications) — `core_12_b_misconduct_pattern_applications.md` (12/14 glossed)
-- [CHAPTER THIRTEEN: FORUMS AND JURISDICTION](#chapter-thirteen-forums-and-jurisdiction) — `core_13_forum.md` (9/28 glossed)
+- [CHAPTER THIRTEEN: FORUMS AND JURISDICTION](#chapter-thirteen-forums-and-jurisdiction) — `core_13_forum.md` (9/29 glossed)
 - [CHAPTERS TEN–THIRTEEN: PIPELINE APPLICATION VIGNETTES](#chapters-tenthirteen-pipeline-application-vignettes) — `core_10-13_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (27/30 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (42/43 glossed)
@@ -154,7 +155,7 @@ four adopted corpora (joint structure, systems, institutions, and forum operatio
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 
-Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 38/54 headings glossed
+Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 39/55 headings glossed
 
 #### 1. Purpose and Role
 
@@ -365,6 +366,12 @@ freedom includes the freedom to say no — to disagree with any authority, inclu
 life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency comes first; consent is agreement under that agency — and both fail if coercion or dependency pressure is doing the real decision-making.
 
 [Source](../../core_01_a_values_principles.md#74-voluntary-discontinuation-major-self-modification-and-exit-rights)
+
+##### 7.5 Expression and the Harm Line
+
+you may say, write, publish, and design almost anything, including what offends, disturbs, or criticizes. But speech is not a loophole. When words, policies, or designs are the way someone harms, harasses, bullies, or discriminates against others, they are judged on what they do, the same way for a sentient as for an institution, and whatever religious or political label they carry.
+
+[Source](../../core_01_a_values_principles.md#75-expression-and-the-harm-line)
 
 #### 8. Continuity Aim: Introduction
 
@@ -1220,7 +1227,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 79/91 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 80/92 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1359,6 +1366,12 @@ a binding decision on the actual substance of a dispute — such as liability, r
 a temporary, documented pause or limit while further review or a required finding is completed. A Stay controls timing or sequence; it never decides the merits.
 
 [Source](../../core_05_band_accountability.md#stay)
+
+##### Interim Hold
+
+an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on probable cause while the facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.
+
+[Source](../../core_05_band_accountability.md#interim-hold)
 
 ##### Negligence
 
@@ -1764,7 +1777,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 35/96 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 37/98 headings glossed
 
 #### Continuity: Independent terms
 
@@ -1789,6 +1802,18 @@ Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) ·
 a **go-live** is the moment a system stops being something that is being built or tested and starts being something that actually affects sentients, or that sentients start to rely on. It is judged by what the system is really doing, not by what the launch is called.
 
 [Source](../../core_05_band_continuity.md#go-live)
+
+##### Institutional Alignment Certification
+
+**institutional alignment certification** is the independent check of an institution, as opposed to one of its systems. It asks whether the institution does what its Institutional Charter says, whether the offices that hold its authority are answerable to someone, and whether the way it rewards its own members pushes toward the Constitution or away from it. It cites the certification of each system the institution runs and does not repeat that work. It never works as a licence: no institution needs permission from it to form or to operate.
+
+[Source](../../core_05_band_continuity.md#institutional-alignment-certification)
+
+##### Institutional Certification Record
+
+an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System certification records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.
+
+[Source](../../core_05_band_continuity.md#institutional-certification-record)
 
 ##### Pilot
 
@@ -3550,7 +3575,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
-Source file: [`core_09_b_system_alignment_certification_record_process.md`](../../core_09_b_system_alignment_certification_record_process.md) · 11/23 headings glossed
+Source file: [`core_09_b_system_alignment_certification_record_process.md`](../../core_09_b_system_alignment_certification_record_process.md) · 13/25 headings glossed
 
 #### 6. Forum Process
 
@@ -3629,6 +3654,18 @@ a **stay** is a temporary pause. It holds off final approval, reliance, or the n
 every certification review ends in a stated outcome, backed by evidence and by the concerns raised along the way. Nothing goes live until it is certified, the published outcome has given affected sentients a practicable chance to challenge it, and the protections required before go-live have been checked.
 
 [Source](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)
+
+##### 7.1 Remediation Readiness: Willingness and Capacity to Correct
+
+when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of conditions.
+
+[Source](../../core_09_b_system_alignment_certification_record_process.md#71-remediation-readiness-willingness-and-capacity-to-correct)
+
+##### 7.2 Denial and Revocation
+
+denial and revocation are real outcomes and not threats. If a system is not yet certified and its operator will not or cannot put the problem right, certification is refused. If a system holds certification and its operator will not or cannot put the problem right, certification is taken back. In both cases affected sentients are told, reliance is limited, and no one is cut off from survival essentials before there is a substitute.
+
+[Source](../../core_09_b_system_alignment_certification_record_process.md#72-denial-and-revocation)
 
 #### 8. System Certification Record
 
@@ -3747,6 +3784,142 @@ the system class table in [Illustrative System Class Profiles (Non-Exhaustive)](
 [Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.2.5 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*Illustrative educational-capability application by system class*) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Challenge and audit rights remain owned by **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
 
 [Source](../../core_09_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive)
+
+## CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION
+
+Source file: [`core_09_d_institutional_alignment_certification.md`](../../core_09_d_institutional_alignment_certification.md) · 8/23 headings glossed
+
+#### 11. Purpose, Relation to System Alignment Certification, and Scope
+
+a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.
+
+[Source](../../core_09_d_institutional_alignment_certification.md#11-purpose-relation-to-system-alignment-certification-and-scope)
+
+##### 11.1 Relation to System Alignment Certification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#111-relation-to-system-alignment-certification)
+
+##### 11.2 Who is certified
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#112-who-is-certified)
+
+##### 11.3 No licence and no gate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#113-no-licence-and-no-gate)
+
+#### 12. Institution Class and Institutional Evaluation
+
+first work out how much the institution matters, by what it actually does and holds. Then check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the checks on it work.
+
+[Source](../../core_09_d_institutional_alignment_certification.md#12-institution-class-and-institutional-evaluation)
+
+##### 12.1 Institution class
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#121-institution-class)
+
+##### 12.2 Institutional evaluation, always
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#122-institutional-evaluation-always)
+
+##### 12.3 Evaluations where implicated
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#123-evaluations-where-implicated)
+
+##### 12.4 Scaling by class
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#124-scaling-by-class)
+
+#### 13. Review, Decision, and Record
+
+the same independent forums, in the same order, review the institution, with the institution never choosing its own reviewer. The result is a stated outcome on a record kept by an office the institution does not control. It can be challenged, and it is not a pass or fail that decides whether the institution may exist.
+
+[Source](../../core_09_d_institutional_alignment_certification.md#13-review-decision-and-record)
+
+##### 13.1 Four seats in an institutional certification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification)
+
+##### 13.2 Forum roles and sequence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#132-forum-roles-and-sequence)
+
+##### 13.3 Outcomes and effect
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#133-outcomes-and-effect)
+
+##### 13.4 Institutional Certification Record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#134-institutional-certification-record)
+
+##### 13.5 Remediation readiness, denial, and revocation for an Institution
+
+when a review finds a problem in an institution, the same question is asked of it as of a system: does it want to fix the problem, and can it? If not, its certification is denied or taken back. That cannot stop the institution from existing or operating. It takes away its claim to be certified, warns those who rely on it, weakens what its systems can borrow from its standing, and keeps it out of the seats that certify others.
+
+[Source](../../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution)
+
+#### 14. Operating, Reopening, and the Cascade
+
+an institution's certification is checked again on a schedule and whenever something material changes. If one of its systems loses its certification, the institution answers for what that says about the institution, and no more than that. And the bodies that do the certifying are institutions too, so they cannot certify each other in a circle.
+
+[Source](../../core_09_d_institutional_alignment_certification.md#14-operating-reopening-and-the-cascade)
+
+##### 14.1 Monitoring, recertification, and status
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#141-monitoring-recertification-and-status)
+
+##### 14.2 Reopening triggers
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#142-reopening-triggers)
+
+##### 14.3 Cascade from System certifications
+
+a failed system certification is a warning light for the institution, and sometimes an alarm. It is an alarm only if the institution's own governance caused it.
+
+[Source](../../core_09_d_institutional_alignment_certification.md#143-cascade-from-system-certifications)
+
+##### 14.4 Challenge path
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#144-challenge-path)
+
+##### 14.5 Forums, certifiers, and record offices as institutions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09_d_institutional_alignment_certification.md#145-forums-certifiers-and-record-offices-as-institutions)
+
+#### 15. Standing Bridge and Non-Evasion
+
+like a system's certification, an institution's can feed standing through a strict gate and never replaces standing. And no one gets out of this Part by dividing, renaming, or reshaping an institution.
+
+[Source](../../core_09_d_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion)
 
 ## CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)
 
@@ -3950,7 +4123,7 @@ before choosing a slot, identify the constitutional sources that say what baseli
 
 ## CHAPTER ELEVEN: STANDING EFFECTS AND INTEGRATION
 
-Source file: [`core_11_standing_integration.md`](../../core_11_standing_integration.md) · 19/43 headings glossed
+Source file: [`core_11_standing_integration.md`](../../core_11_standing_integration.md) · 20/44 headings glossed
 
 #### 1. Chapter Ten records do not change
 
@@ -4035,6 +4208,12 @@ once a lock is needed under [§4.2 Prevention — general standing locks](../../
 *(no plain-terms gloss in source)*
 
 [Source](../../core_11_standing_integration.md#55-special-locks)
+
+##### 5.6 Interim holds and locks
+
+a hold is what a forum may do on probable cause while the facts are checked. A lock is what follows a verified finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.
+
+[Source](../../core_11_standing_integration.md#56-interim-holds-and-locks)
 
 #### 6. Contribution consequences second
 
@@ -4334,7 +4513,7 @@ attacking the machinery that makes answerability real — evidence, verification
 
 ## CHAPTER THIRTEEN: FORUMS AND JURISDICTION
 
-Source file: [`core_13_forum.md`](../../core_13_forum.md) · 9/28 headings glossed
+Source file: [`core_13_forum.md`](../../core_13_forum.md) · 9/29 headings glossed
 
 #### 1. Purpose and role — participation architecture
 
@@ -4422,7 +4601,7 @@ adopters keep six genuinely different forum tracks — sentient, technical, inst
 
 #### 5. Escalation and certification
 
-when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how certified questions reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and certification finish.
+when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how certified questions reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and certification finish. They also set the narrow hold a forum may place on one sentient's authority while the facts are checked.
 
 [Source](../../core_13_forum.md#5-escalation-and-certification)
 
@@ -4455,6 +4634,12 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 *(no plain-terms gloss in source)*
 
 [Source](../../core_13_forum.md#interim-protection)
+
+##### Interim hold on a named sentient's pathway
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)
 
 ##### Backup routing under the anti-self-judging rule
 
@@ -5088,7 +5273,7 @@ every sentient may gather, associate, and act together — in physical, digital,
 
 ##### Article XI-E: Institutional Formation and Business Creation
 
-anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.
+anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming a body to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only two narrow gates stand, and neither is a licence. A sentient who is under an unresolved institutional-authority lock, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of a body. Everyone else may still form it and run it, and neither gate stops the body itself.
 
 [Source](../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)
 

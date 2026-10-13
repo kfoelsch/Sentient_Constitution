@@ -249,7 +249,7 @@ This Article sets out the contestability and proportionality limits on standing 
 - **Procedural reviewability:** These rules apply whenever standing is materially restricted, downgraded, or suspended, for any reason, including:
   - a [standing lock](core_05_band_accountability.md#standing-lock) after a verified violation finding ([Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*));
   - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XIX-C](#article-xix-c-contribution-competency-bars-and-named-pathway-eligibility) (*Contribution, Competency Bars, and Named-Pathway Eligibility*); [Chapter Eleven §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*));
-  - temporary protective limits while a case is still open, before anything is verified ([Chapter Thirteen §5](core_13_forum.md#interim-protection) (*Interim protection*)).
+  - temporary protective limits while a case is still open, before anything is verified ([Chapter Thirteen §5](core_13_forum.md#interim-protection) (*Interim protection*)), which for a named sentient's use of a named pathway means an [Interim Hold](core_05_band_accountability.md#interim-hold) under [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway).
 
   In each case, the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;

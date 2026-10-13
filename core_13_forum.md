@@ -69,8 +69,9 @@ This chapter states which **forum families** **supervise** which primary questio
    - **Chapter Twelve** anti-constitutional-misconduct designation where that designation is at issue for a Chapter Ten slot 7–9 record.
    - Application of **Chapters One through Six** and designated [corpus](core_05_band_integrative.md#corpus) implementation layers as the norms those disputes apply.
 
-2. **System Alignment Certification** ([Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
+2. **System Alignment Certification and Institutional Alignment Certification** ([Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
    - Forum-supervised certification, conditional certification, validation, recertification, withdrawal, and related certification-record outcomes under [Chapter Nine Part B](core_09_b_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--record-and-process).
+   - Institutional alignment certification of an Institution, with the same outcomes, under [Chapter Nine Part D](core_09_d_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification). **Institutional** forums hold the institutional mandate and duty-compliance components, an **Integrity** forum leads, and the System Certification Records the Institution runs are cited and not redone.
    - Component roles under [Part B §6.1](core_09_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles):
      - **Technical** — specifications, methods, and evidence standards
      - **Integrity** — official alignment certification and lead coordination
@@ -189,7 +190,7 @@ The **intake triage body** under this section, together with **`corpus_forum.md`
    - **Forum-bias disputes:** If the fight is mainly about a panelist who should have stepped aside, biased panel participation, or a comparable forum-integrity breach — including on a **Constitutional** forum panel under **[Article XXV-C](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*)** — route it to **Integrity** forums first. Under **section 3**, a forum cannot be the sole final judge of its own bias: a **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have recused. Standing-lock discipline: **[Chapter Eleven §5.5 Special locks](core_11_standing_integration.md#55-special-locks)**. Named misconduct pattern: **[Chapter Twelve §5.10 Forum recusal failure and biased panel participation](core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
    - **Technical how-to questions:** Specifications, methods, measurement, testing, and expert-evidence questions go to **Technical Forum Domains** when those are the primary stake or certified component questions.
    - **System-alignment sign-off:**
-     - Official **constitutional alignment certification** for new materially impactful systems, and **ongoing alignment validation** for existing ones, default to **Integrity** as lead.
+     - Official **constitutional alignment certification** for new materially impactful systems, and **ongoing alignment validation** for existing ones, default to **Integrity** as lead. So does institutional alignment certification of an Institution, which keeps **Institutional** forums as holders of the institutional mandate and duty-compliance components.
      - Integrity uses technical-forum inputs plus constitutional, institutional, ecological, rights, and anti-capture requirements.
      - Where the system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the **Environment** forum family must complete its environmental-alignment review (sign-off or objection) before certification, validation, recertification, or material release from environmental conditions may become final.
      - Keep referrals or certification to **Technical Forum Domains**, **Institutional**, **Environment**, **Sentient**, and **Constitutional** for component questions those families own.
@@ -202,7 +203,7 @@ At filing, **default** venue follows these rules unless **section 3** transfers 
 | **Technical Forum Domains** | Any party pattern, but **primary** stake is technical-governance procedure, system-alignment specifications, expert-evidence standards, scientific / engineering / medical administration, comparable knowledge-governance within adopted scope, **or** **Article VI-B** (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators / expert evidence / bounded uncertainty | **Technical** standards, system-alignment specifications, measurement and testing methods, expert administrative procedure, evidence stewardship, textbook or curriculum integrity, standards governance, bounded uncertainty-reduction relevant to adjudication, regulation, or alignment certification, **or** sentience-status indicator adjudication under **Article VI-B** (*Sentience-Status Adjudication Floor*) |
 | **Institutional** | Any **institution** is a **necessary** party **or** the main fight is about what an institution is allowed to do, what it is charged to do, or whether it followed the rules that govern it | What an institution may do, what it is charged to do, the scope it is supervised under, how it is classified, or whether it followed its duties |
 | **Environment** | Any party pattern; required component role where system alignment materially implicates ecological exposure | **Ecological integrity**, **environmental preconditions**, restoration or remediation of shared ecological systems, attributable environmental burdens, lifecycle or systemic ecological harm, environmental-alignment component review for systems with material ecological exposure, or **pattern** or **systemic** ecological failure where classification, alignment certification, recertification, or Rights-Floor enforcement depends on that determination |
-| **Integrity** | **Integrity** as **the** main issue (including **grave** breach of conflict, procedure, or capture controls), official **constitutional alignment certification** or **ongoing alignment validation** for systems, **or** a **Chapter Twelve** anti-constitutional-misconduct designation for a Chapter Ten **s = 7, 8, or 9** impact slot as **the** **primary** stake | **Integrity** of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, official system-alignment certification, validation, and recertification using technical-forum inputs and Environment forum environmental-alignment component determinations where material (**including** **pattern** or **systemic** failure **across** institutions or systems where **Chapter Ten** measurement, a corresponding **Chapter Twelve** designation, or **Rights-Floor** enforcement depends on that determination) |
+| **Integrity** | **Integrity** as **the** main issue (including **grave** breach of conflict, procedure, or capture controls), official **constitutional alignment certification** or **ongoing alignment validation** for systems and institutions, **or** a **Chapter Twelve** anti-constitutional-misconduct designation for a Chapter Ten **s = 7, 8, or 9** impact slot as **the** **primary** stake | **Integrity** of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, official system-alignment certification, validation, and recertification using technical-forum inputs and Environment forum environmental-alignment component determinations where material (**including** **pattern** or **systemic** failure **across** institutions or systems where **Chapter Ten** measurement, a corresponding **Chapter Twelve** designation, or **Rights-Floor** enforcement depends on that determination) |
 | **Constitutional** | **Structural** constitutional validity, **norm** meaning for **all** interpreters, or remedy that **restructures** governance **by constitutional requirement** | **Constitutional** validity or meaning, action **beyond lawful authority**, supremacy, or **class-wide** **structural** remedy |
 
 <a id="21-lead-default-limits"></a>
@@ -311,7 +312,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 
 **Integrity-led alignment coordination:**
 - Where an **Integrity** forum issues an **alignment** ruling under **section** **4**, it **remains** the **lead** coordinating forum for **that** proceeding's **record**, as **section** **4** provides.
-- Where an **Integrity** forum conducts **constitutional alignment certification** for a new system or **ongoing alignment review** for an existing system, it remains the official lead forum for the alignment record unless primary-stakes routing, anti-self-judging protection, or certification assigns a component question elsewhere.
+- Where an **Integrity** forum conducts **constitutional alignment certification** for a new system or an Institution, or **ongoing alignment review** for an existing system or Institution, it remains the official lead forum for the alignment record unless primary-stakes routing, anti-self-judging protection, or certification assigns a component question elsewhere.
 - Where material ecological exposure exists, **Environment** forum environmental-alignment review is a required component of that lead record. Lead **Integrity** coordination must not finalize certification, validation, recertification, or material release from environmental conditions while a timely Environment forum objection, remediation condition, or certified environmental question remains unresolved.
 - **Component** matters **referred** or **certified** to **other** families **remain** with those forums for **primary-stakes** **merits**.
 - Lead **Integrity** coordination must not preempt final merits on non-integrity primary questions reserved to **Constitutional**, **Institutional**, **Environment**, **specialized technical**, or **Sentient** forums.
@@ -456,7 +457,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 **Local enforcement.** Where shared cross-jurisdiction or cross-institution standards apply, **Institutional forums** are the default **local enforcement** forum unless primary-stakes routing places the matter elsewhere.
 
 **Alignment components.** **Institutional forums** hold reviewable institutional-mandate and Rights-Floor component authority in system-alignment certification and related proceedings where an institution is a necessary party, the operator or steward is institutional, or institutional mandate or supervised compliance is the primary stake.
-- **Integrity** forums remain the default official lead for whole-system constitutional alignment certification and validation.
+- **Integrity** forums remain the default official lead for whole-system and institutional constitutional alignment certification and validation.
 - Component detail for those proceedings lives in [Chapter Nine](core_09_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Institutional forums** within their lawful scope.
@@ -495,7 +496,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
   - objection;
   - remediation requirements; or
   - release-from-condition findings.
-- **Integrity** forums remain the default official lead for whole-system constitutional alignment certification and validation.
+- **Integrity** forums remain the default official lead for whole-system and institutional constitutional alignment certification and validation.
 - Where material ecological exposure exists, timely Environment forum environmental-alignment findings are required component determinations; sequencing with Integrity lead coordination is governed by **section 3**.
 - Component detail for those proceedings lives in [Chapter Nine](core_09_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
@@ -514,7 +515,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - anti-capture duties;
 - related procedure and governance integrity.
 - This includes **pattern** or **systemic** integrity failure across institutions where **Chapter Ten** impact-slot measurement, a corresponding **Chapter Twelve** anti-constitutional-misconduct designation for a slot 7–9 record, or **Rights-Floor** enforcement depends on that determination.
-- It also includes official **constitutional alignment certification** or **ongoing alignment validation** for systems, and a **Chapter Twelve** designation as the **primary** stake, as assigned in **section 2**.
+- It also includes official **constitutional alignment certification** or **ongoing alignment validation** for systems and institutions, and a **Chapter Twelve** designation as the **primary** stake, as assigned in **section 2**.
 
 **Illustrative matters.** This family includes contests over:
 - office, process, or contest-pathway integrity;
@@ -522,13 +523,13 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - concealment, capture, retaliation, or comparable process abuse;
 - pattern or systemic integrity failure across institutions or systems;
 - Chapter Twelve anti-constitutional-misconduct designation where that designation is the primary stake;
-- official system-alignment certification, validation, and recertification.
+- official system-alignment and institutional-alignment certification, validation, and recertification.
 
 **Alignment rulings.** Where necessary to resolve a matter within this family's jurisdiction, **Integrity forums** may issue **alignment rulings** that:
 - diagnose interlocking **misalignment** among processes, systems, institutions, or contest pathways — including dependencies, choke-points, concealment or capture risk, and remedial sequencing;
 - state binding integrity findings on those points on the record before that forum.
 
-**Constitutional alignment certification and validation.** **Integrity forums** are the default official forum for certifying whether a new materially impactful system is constitutionally aligned enough to operate within its claimed scope, and for periodically validating whether existing systems remain aligned as their behavior, scale, dependency, incentives, or risk profile changes.
+**Constitutional alignment certification and validation.** **Integrity forums** are the default official forum for certifying whether a new materially impactful system is constitutionally aligned enough to operate within its claimed scope, and for periodically validating whether existing systems remain aligned as their behavior, scale, dependency, incentives, or risk profile changes. They hold the same role for an Institution under [Chapter Nine Part D](core_09_d_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification), where the forum body itself is an Institution and the anti-self-judging rules of **section 3** apply to it ([Chapter Nine Part D §14.5 Forums, certifiers, and record offices as institutions](core_09_d_institutional_alignment_certification.md#145-forums-certifiers-and-record-offices-as-institutions)).
 - They apply technical-forum specifications, methods, and expert evidence where material, but their judgment also includes constitutional, institutional, ecological, rights, anti-capture, and remediation considerations.
 - Where material ecological exposure exists, the **Environment** forum family's environmental-alignment component determination is required before final certification, validation, recertification, or material release from environmental conditions; sequencing is governed by **section 3**.
 - Certification and validation must be evidence-based, contestable, and traceable under **Chapters Two through Four**, **Chapter Ten**, **Chapter Six**, and **`corpus_systems.md`**.
@@ -608,14 +609,14 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
 
 - Upstream: [§2](#2-default-venue-and-primary-stakes) and [§3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*default venue, intake, transfer, mixed stakes, and anti-self-judging backups*); [§4.6](#46-constitutional-forums) and [§4.7](#47-provisional-implementation-operational-law) (*provisional-law disposition and issuance*); [Chapter Ten §7 unified scale](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*numeric impact-slot assignment*); [Chapter Twelve](core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*); [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Safety and Truth hooks in certified constitutional questions*).
 - Downstream: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*contestable forum support for escalation and certification*); [Chapter Eighteen](core_18_incorporation.md) (*implementation routing for **Article VI-B** (*Sentience-Status Adjudication Floor*) implementation design*).
-- Within §5: [Interim protection](#interim-protection) (*status-quo pending merits and multi-forum interim-order conflict coordination*).
+- Within §5: [Interim protection](#interim-protection) (*status-quo pending merits and multi-forum interim-order conflict coordination*); [Interim hold on a named sentient's pathway](#interim-hold-on-a-named-sentients-pathway) (*probable cause, narrow, time-bound, no standing effect*).
 - Read with: [Article VI-B: Sentience-Status Adjudication Floor](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Chapter Five — Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication); [Article XX-A](core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*Justice Objective and Scope*) through [Article XX-B](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*review safeguards referenced with Chapter Twelve designations*); [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*certification — alignment rulings and general doctrine*).
 
 </details>
 
 <br>
 
-*In plain terms: when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how certified questions reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and certification finish.*
+*In plain terms: when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how certified questions reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and certification finish. They also set the narrow hold a forum may place on one sentient's authority while the facts are checked.*
 
 #### Family-to-family escalation
 
@@ -691,6 +692,54 @@ This subsection sets out interim protection while a matter is pending:
   - preserve **status quo** pending **merits**.
   Such relief must be reasoned, proportionate, and subject to prompt review.
 - Where **multiple** forums share jurisdiction, **one** coordinating forum or rule must resolve conflicts among simultaneous interim orders.
+- Interim relief directed at one named sentient's exercise of one named pathway, on less than a verified finding, is an [Interim Hold](#interim-hold-on-a-named-sentients-pathway) and follows the next subsection.
+
+#### Interim hold on a named sentient's pathway
+
+This subsection sets out the [Interim Hold](core_05_band_accountability.md#interim-hold), a measure between an allegation and a verified finding. It is interim protection directed at one named sentient's exercise of one named authority, pathway, or matter. It is not a finding, a lock, or a penalty.
+
+- **Ground:** A forum with jurisdiction may issue a hold only where all of these are shown:
+  - specific facts, disclosed to the sentient and verified to a preliminary tier, meaning documentary or independently attested, where a rumor, an unsupported accusation, or a reputation is not enough;
+  - it is more likely than not that the risk is real;
+  - the facts show a risk of serious harm to others, or of defeating a check on a body, a forum, or a certification, that cannot wait for the merits; and
+  - a narrower safeguard would not be enough.
+
+  The evidence tier rises with how restrictive the hold is, as [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (*Burden of Proof, Traceability, and Verification*) and [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) require.
+- **Issuer:** The forum with jurisdiction under this chapter issues the hold. The subject's own body, appointing authority, family, or control line may not issue it, and a body never holds its own member out on its own view. A body that holds the facts refers them to the forum. Where the only forum is the subject's own, the cross-forum anti-self-judging rule in [section 3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) and backup routing apply.
+- **Record:** Each hold states, in operative form:
+  - the named sentient;
+  - the named authority, pathway, or matter, and nothing wider;
+  - the risk, and why it cannot wait for verification;
+  - the protected interests;
+  - the conditions that end the hold;
+  - the review route; and
+  - the lapse date.
+- **Ladder:** The forum uses the lightest measure that works, in this order, and a heavier rung needs a showing that the lighter ones would not do:
+  - disclosure and monitoring;
+  - an independent co-holder or second key;
+  - step-aside from one matter;
+  - escrow or segregation of the contested weight, funds, or keys; and
+  - restraint on exercising the named authority.
+- **Duration:** A hold lapses at the outer bound of the tier clock in [§6 Timely resolution, materiality tiers, and anti-delay discipline](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) for the merits matter it supports, counted from the day the hold issues. This subsection adds no second clock table. The hold may be extended once, only on the continuation burden in [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden). It ends earlier when the facts are cleared, when a narrower safeguard is in place, or when the merits matter is decided. If no merits matter is opened inside the bound, the hold lapses with no finding.
+- **Contest and review:** The sentient sees the grounds and the facts, may answer them, and may contest the hold. A forum outside the subject's control line and outside the issuing panel reviews it promptly, inside the response window of the matching tier.
+- **No finding, no standing effect:** A hold is not evidence that the allegation is true and supports no adverse inference. It is not a [Standing Record](core_05_band_accountability.md#standing-record), a Chapter Ten input, or a Chapter Twelve designation, and only the merits process verifies the facts ([Chapter Ten §3.6 Forum boundary](core_10_standing_assessment.md#36-forum-boundary)).
+- **Lock and time:** A hold is never converted into a standing lock. If the merits process verifies a finding, the lock rules apply from the finding, and time spent under a hold on the same named pathway counts toward the lock's time bound as [Chapter Eleven §5.6 Interim holds and locks](core_11_standing_integration.md#56-interim-holds-and-locks) provides.
+- **If the hold was wrong:** A hold that lapses without a finding, or is set aside, is recorded as such. No adverse inference follows. The sentient is entitled to [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation) for loss during the hold, and a pattern of wrongful holds opens **Integrity** review.
+- **Publication:** For each application and each period, the adopter publishes the holds issued, the merits matters opened, the holds that lapsed without a finding, the holds set aside, and the median duration, on the schedule of **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*). A pattern of holds that lapse unused or are set aside, or of repeat holds on the same sentient and matter, is evidence for **Integrity** review.
+- **Never reached:** A hold may not reach:
+  - liberty or physical separation, including detention and the separation of a protected care relationship, which stay under the liberty-restricting safeguards in [Chapter Eleven §5.4 Special violation rules](core_11_standing_integration.md#54-special-violation-rules);
+  - governance voting or **Foundational Constitutional Choice**, which only a lock after a verified finding may touch;
+  - speech, assembly, dissent, petition, protected reporting, or defense;
+  - the Rights Floor or survival-critical access;
+  - [Stakeholder](core_05_band_participation.md#stakeholder) status itself;
+  - the existence or operation of a whole body, where an interim steward is named instead if the body would be left without a lawful holder and others depend on it; or
+  - general property, as distinct from the specific weight, funds, or keys in contest.
+- **Applications:** A hold may be issued only in these applications, or where a provision of this Constitution or an incorporated text names it:
+  - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation), for authority in a body;
+  - [Chapter Seven §7 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#7-formation-check-office-holder-standing-and-authenticity) and **CI-4.2** (*Role criteria, appointment standards, and removal pathways*), for a holder of a covered office at any time; and
+  - **CF-4.15** (*Interim hold on a panel member or seat holder*), with [**Article XII-D** (*Non-Capture Safeguards*)](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards), for a forum, certifier, record, or verify-or-authorize seat.
+
+  Other interim relief under this chapter stays available for what it already covers. Relief directed at a named sentient's exercise of a named pathway on less than a verified finding follows this subsection.
 
 #### Backup routing under the anti-self-judging rule
 

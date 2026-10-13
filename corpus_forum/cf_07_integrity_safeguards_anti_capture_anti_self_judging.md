@@ -242,6 +242,7 @@ Every activation or refusal to activate must produce a reviewable record. At min
 - the evidence considered at the threshold, including disclosure, recusal, panel-formation, routing, backlog, protected-escalation, forensic, restricted-evidence, and contest-integrity materials where applicable;
 - the Chapter Thirteen backup family or certification path selected, with reasons for using or rejecting each available backup;
 - any interim relief, evidence-preservation order, stay, sequencing order, or restricted-evidence handling needed while the routing question is resolved;
+- any [Interim Hold](../core_05_band_accountability.md#interim-hold) on an individual member or seat holder under **CF-4.15** (*Interim hold on a panel member or seat holder*), recorded apart from the family-level activation;
 - the contest, appeal, publication, and later-review path for the activation decision.
 
 The record must preserve allegations and verified findings separately. An activation record may support routing, preservation, interim protection, or referral, but it must not by itself create a Chapter Ten standing effect, final Chapter Twelve anti-constitutional-misconduct designation, system non-certification, disciplinary finding, or merits judgment unless the governing merits process independently verifies the necessary facts.

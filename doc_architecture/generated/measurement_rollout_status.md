@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-13T10:21:47+00:00
+Generated: 2026-10-13T11:02:10+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **265/265** terms pass tier audit.
+Approved progress: **267/267** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -64,6 +64,8 @@ Approved progress: **265/265** terms pass tier audit.
 | Go-Live | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Institution | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Institutional Alignment Certification | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Institutional Certification Record | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Institutional Charter | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Institutional Development | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |

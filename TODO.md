@@ -25,6 +25,43 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-10-13 — Institutional alignment certification (Chapter Nine Part D): drafted on a branch, awaiting steward sign-off
+
+Evaluation: [institutional-alignment-certification-evaluation](evidence/2026-10-13/institutional_alignment_certification_implementation.md) (project doc `claude/institutional-alignment-certification-evaluation.md`). Drafted on branch `docs/ch09-institutional-alignment-certification`; nothing committed. This is a core change touching Chapters 7, 8, 9, and 13 (Lane D). The earlier hold on core changes to Chapter Nine and Chapter Thirteen was **lifted by the steward on 2026-10-13**: the announcement will not be made until the corpus is complete, so there is no timing hold.
+
+- [ ] **Sign off the eight defaults** now drafted: (1) composition by link, many to many; (2) Part D inside Chapter Nine, no rename and no new chapter; (3) one system means one pass and one record with an institutional findings block; (4) no go-live gate on the institution, with a class-scaled window for a provisional first certification; (5) the Integrity forum leads and Institutional forums hold the mandate and duty-compliance components; (6) cascade: a failed, withdrawn, or expired System certification is an indicator, and current misalignment where the cause is institutional; (7) forums, certifiers, and record offices are institutions, with no certification circle; (8) terms "Institutional Alignment Certification" and "Institutional Certification Record".
+- [ ] **Check Article XI-E** against Part D §11.3 (no licence, no gate) and the Class L scaling in §12.4.
+- [ ] **Check `adoption/ANNOUNCEMENT.md`** so Part D never reads as a promised feature, as for Option B below.
+- [ ] **Chapter Seventeen §1 heightened review** applies to the Chapter Thirteen edits.
+- [ ] **Translations not synced** (19 locales already lag).
+- [ ] **Not done:** a Preamble owner-register entry and process-map entry for Part D, and a CS-3 pointer to the institution class test.
+
+### 2026-10-13 — Formation check (Chapter Seven §7) and remediation readiness with denial and revocation (Chapter Nine Part B §7.1–§7.2, Part D §12.2 item 7 and §13.5): drafted on the same branch, awaiting steward sign-off
+
+Note: [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md). The Chapter Nine hold was lifted on 2026-10-13 (see the entry above).
+
+- [ ] **Sign off the defaults** now drafted: (1) covered offices are the governing authority, Role Map seats, and offices that bind others or hold records, keys, or funds, and other staff get a structural check only; (2) standing counts only from verified records, and authenticity is found from control, interests and rewards, conduct, and protected voice, and holding a belief or belonging to a group does not count by itself; (3) the check is a published statement and not a gate; (4) "denial" and "revocation" are plain names for non-certification and withdrawal, with no new outcome word; (5) the five revocation grounds in Part B §7.2; (6) conditions may not carry a plan the readiness check did not find ready; (7) a Not Certified Institution may not hold a seat in another body's certification or host a forum; (8) a denied or revoked Institution's status is adverse evidence in each of its Systems' certifications.
+- [ ] **Check Article XI-E** against Chapter Seven §7 and Part D §13.5 (no gate on forming or operating a body; the only gates are the two narrow gates on a named sentient's authority, see the next entry).
+- [ ] **Not done:** Chapter Five entries (none added), Chapter Thirteen routing for readiness findings, the emergency-substitution window default in CI-3.6, translations.
+
+### 2026-10-13 — Article XI-E two narrow gates and the Institutional Authority Standing Lock: drafted on the same branch, awaiting steward sign-off and heightened review
+
+Note: [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md) (section "Gates in Article XI-E and the Institutional Authority Standing Lock"). Touches Article XI-E (Chapter Six), Chapter Eleven §4.2, §5.5, §10.6, Chapter Five (Standing Lock entry and creation-rights limits), Chapter Seven §7, Part D §11.3, §13.5, §14.2, §15, and CI-3.6.
+
+- [ ] **Chapter Seventeen §1 Heightened Scrutiny and Chapter Fifteen non-regression review.** Article XI-E is a Rights-Floor article, and the amendment adds a limit to it. It is framed as two enumerated applications of the existing Limits clause, each attached to a named sentient's authority and not to the right to form. The review must confirm that framing.
+- [ ] **Sign off the defaults** now drafted: (1) the gates attach to a named sentient's authority and reach the body only as vehicle, successor, controlled entity, or nominee-held form; (2) the interim hold standard is more likely than not, on specific verified facts disclosed to the sentient, with a real risk of serious harm or of defeating the body's checks and a narrower safeguard not enough; (3) the hold is not a finding, lock, standing record, or standing effect, and only a forum with jurisdiction may issue it, never the body itself; (4) the Institutional Authority Standing Lock is mandatory when its verified trigger is met and never attaches from probable cause; (5) its restoration record includes a verified authenticity finding; (6) the party imposing a gate bears the burden; (7) authentic formation is a condition of the right and not a licence, judged on conduct, control, and rewards, with a no-record founder presumed authentic and probable cause of intent to mislead or to harm handled by the same Interim Hold (intent to harm means harm this Constitution forbids, not ordinary competition, criticism, or dissent); a verified statement that others deserve harm or discriminatory treatment counts against a founder or holder, with the Chapter Seven §7 safeguards; (8) the belief rule is threaded, not absolute: holding a belief or belonging to a group does not count by itself, but a religious, political, or ideological label is no shield for statements or acts that harm others or violate Article VI-C, which are judged on what they state, call for, or do; (9) Chapter One §7.5 Expression and the Harm Line is a restatement and adds no restriction; the same test for sentients and institutions; criticism of an institution called bullying is a limit that carries the burden; evidence use is distinct from limiting expression.
+- [ ] **Chapter Thirteen interim-protection text** was not edited; confirm that the existing interim-relief grounds cover the hold or add a routing sentence.
+- [ ] **Not done:** a Chapter Five entry for the new lock beyond the pointers, the Chapter Eleven integration-table row if one exists, translations.
+
+### 2026-10-13 — Interim Hold standard: built on the same branch, awaiting steward sign-off and heightened review
+
+Evaluation: [interim_hold_sweep_evaluation](evidence/2026-10-13/interim_hold_sweep_evaluation.md) (project doc `claude/interim-hold-sweep-evaluation.md`). Built after the steward's decisions: build the general standard, separate Chapter Five entry, applications limited to Article XI-E, covered office-holders (Chapter Seven §7, CI-4.2), and forum seats (CF-4.15, CF-7.3.2, Article XII-D), time under a hold counts toward a later lock's bound, reuse the Chapter Thirteen §6 outer bound, exclusion list as drafted. See the Fifteenth move in [doc_architecture.md](doc_architecture.md).
+
+- [ ] **Chapter Seventeen §1 Heightened Scrutiny and Chapter Fifteen non-regression review.** The standard edits Chapter Thirteen and cites Rights-Floor articles (XI-E, XII-D, XIX-B). It adds safeguards to a category Article XIX-B already recognized; the review must confirm that.
+- [ ] **Sign off the drafted defaults:** the ground and its evidence tier; the closed list of applications; the never-reached list; the five-rung ladder; one extension only; time counts toward a later lock's bound but not its corrective conditions; a hold needs no open remedy record.
+- [ ] **Deferred applications:** stakeholder-weight escrow, and holds on holders of authority over Class A, B, or C systems on grave anti-constitutional allegations. Revisit after the first three applications have run in practice.
+- [ ] **Not done:** a Preamble owner-register entry, CS-11 §4.1 pointer, translations.
+
 ### 2026-10-04 — Process-level granularity: Option A drafted, Option B outlined
 
 Evaluation outcome: do not add independent process certification or process classes to the core before the pre-release announcement. Draft component findings at the implementation layer (A); outline reusable standard-process recognition as a post-adoption goal (B).
@@ -33,7 +70,7 @@ Evaluation outcome: do not add independent process certification or process clas
 - [x] **Define Process in Chapter Five** with a test (placeholder tests in `project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md`). Prerequisite for B. Institution has no standalone definition either. **Drafted 2026-10-07** in `core_05_band_continuity.md` (#### Process; three-part test; held to its system's class; no separate certification). Awaiting author review; `make regression` green. Translations not yet synced. **Institution** drafted the same day (`#### Institution`, same band).
 - [ ] **Name B** so it is neither "system alignment certification" nor the Chapter Thirteen §5 forum-to-forum sense.
 - [ ] **Check `MINIMUM_VIABLE_ADOPTER.md` §4.1** against `adoption/ANNOUNCEMENT.md` so the outline never reads as a promised feature.
-- [ ] **B needs a core proposal (Lane D)** touching Chapter Nine Part B §8.1 (formerly §6.1, earlier §11.1) and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. Hold until after the announcement.
+- [ ] **B needs a core proposal (Lane D)** touching Chapter Nine Part B §8.1 (formerly §6.1, earlier §11.1) and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. The timing hold was lifted on 2026-10-13 (the announcement waits for completeness); Option B stays an outlined, post-adoption goal until a steward decision brings it into the core.
 - [ ] **Connect to the process-ownership draft:** its floor-touching test is reused as a B guardrail, and its use of "certification" for forum-to-forum routing is part of the naming collision.
 
 ### 2026-10-01 — Chapter One structure pass: done, and open follow-ups
