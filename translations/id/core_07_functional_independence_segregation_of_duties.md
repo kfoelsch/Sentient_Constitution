@@ -4,12 +4,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Penempatan korpus (nonoperasional): struktur berkas dan aturan membaca</span></strong></summary>
 
-> Berkas ini **merupakan bagian dari Sentient Constitution** dan **hanya mengikat bersama** berkas `core_*` bernomor lainnya ketika dibaca sebagai satu instrumen. Berkas ini memuat **Bab Tujuh**: standar dasar lintas proses untuk kemandirian fungsional dan pemisahan tugas. Bab ini mengikuti Lantai Hak Bab Enam dan mendahului bab-bab proses konstitusional yang dimulai dengan [sertifikasi keselarasan sistem Bab Delapan](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
+> Berkas ini **merupakan bagian dari Sentient Constitution** dan **hanya mengikat bersama** berkas `core_*` bernomor lainnya ketika dibaca sebagai satu instrumen. Berkas ini memuat **Bab Tujuh**: standar dasar lintas proses untuk kemandirian fungsional dan pemisahan tugas. Bab ini mengikuti Lantai Hak Bab Enam dan mendahului bab-bab proses konstitusional yang dimulai dengan [sertifikasi keselarasan sistem Bab Delapan](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index).
 >
 > - **Pemilik konstitusional:** standar dasar kursi yang berbeda untuk tindakan yang mengikat secara material; isi minimum universal setiap [Catatan Tindakan yang Mengikat secara Material](../../core_05_band_accountability.md#materially-binding-act-record); kemandirian dari pelaku dan [Garis Kendali Material](../../core_05_band_accountability.md#material-control-line) pelaku; penempatan jalur dan peran yang dipublikasikan; konflik, kekosongan jabatan, penggantian, dan pengalihan ke kursi yang keliru; penampungan gabungan yang proporsional; serah terima yang dapat diatribusikan; serta syarat kemandirian minimum yang wajib diterapkan oleh setiap proses konstitusional berikutnya.
 > - **Sumber lapisan prinsip:** [Bab Satu §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) mewajibkan tata kelola mempertahankan kemandirian fungsional dan mengarahkan arsitektur kursi operatif ke sini.
 > - **Pemilik implementasi:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), dan [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) menempatkan dan mengoperasionalkan kursi. Ketiganya boleh lebih ketat dan boleh menambahkan jenis kursi dengan kewenangan khusus yang terbatas; ketiganya tidak boleh mempersempit bab ini.
-> - **Penerapan khusus proses tetap di bagian hilir:** Bab Delapan menerapkan standar dasar ini pada sertifikasi keselarasan sistem; [Bab Sembilan §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties) menerapkannya pada catatan status; Bab Dua Belas dan [corpus_forum.md](../../corpus_forum.md) menerapkannya pada proses forum. Bab-bab tersebut boleh menambahkan perlindungan yang diperlukan oleh pokok bahasannya; bab-bab tersebut tidak boleh membuat pengganti yang lebih lemah.
+> - **Penerapan khusus proses tetap di bagian hilir:** Bab Delapan menerapkan standar dasar ini pada sertifikasi keselarasan sistem; [Bab Sembilan §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) menerapkannya pada catatan status; Bab Dua Belas dan [corpus_forum.md](../../corpus_forum.md) menerapkannya pada proses forum. Bab-bab tersebut boleh menambahkan perlindungan yang diperlukan oleh pokok bahasannya; bab-bab tersebut tidak boleh membuat pengganti yang lebih lemah.
 >
 > Urutan membaca: §1 tujuan dan cakupan serta batas pemilik → §2 standar dasar empat kursi → §3 kemandirian dan konflik → §4 pengalihan ke kursi yang keliru → §5 penempatan dan pengganti yang dipublikasikan → §6 penskalaan proporsional → §7 keadaan darurat → §8 Catatan Tindakan dan serah terima yang dapat diatribusikan → §9 penerapan pada proses berikutnya.
 
@@ -20,7 +20,7 @@
 
 - Hulu: [Tetrad Konstitusional](../../core_00_preamble.md#constitutional-tetrad) — khususnya **pengawasan** dan **akuntabilitas**; [kepentingan material](../../core_00_preamble.md#material-stake); [Standar Penatalayanan Bersama Bab Satu §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Tata Kelola di Bawah Disiplin Penatalayanan Bab Satu §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Pasal XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparansi, dan Verifikasi Independen*).
 - Subbagian: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- Hilir: [Bab Delapan](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [Bab Sembilan](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [Bab Dua Belas](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Bab Tiga Belas](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); teks implementasi yang ditetapkan di atas.
+- Hilir: [Bab Delapan](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Bab Sembilan](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Bab Dua Belas](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Bab Tiga Belas](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); teks implementasi yang ditetapkan di atas.
 - Baca bersama: [Deteksi Ketidakselarasan Bab Satu §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*deteksi dan tinjauan majemuk*); [Tindakan yang Dapat Diatribusikan](../../core_05_band_accountability.md#attributable-action); [Integritas Atribusi](../../core_05_band_accountability.md#attribution-integrity); [Auditabilitas](../../core_05_band_oversight.md#auditability); [Kontestabilitas](../../core_05_band_accountability.md#contestability); [Proporsionalitas](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -218,7 +218,7 @@ Tanggapan tersebut merupakan pelaksanaan kewajiban, bukan pengabaian tindakan. T
 
 - Hulu: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [Transparansi](../../core_05_band_oversight.md#transparency); [Auditabilitas](../../core_05_band_oversight.md#auditability).
 - Hilir: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Jalur pemisahan fungsional*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Peran resmi dan rantai akuntabilitas*); catatan Bab Delapan dan Bab Sembilan.
-- Baca bersama: [Piagam](../../core_05_band_continuity.md#charter) dan [Bab Tiga Belas §5](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution).
+- Baca bersama: [Piagam](../../core_05_band_continuity.md#charter) dan [Bab Tiga Belas §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -244,7 +244,7 @@ Delegasi mempertahankan batas kursi, kewajiban bukti, catatan, dan tenggat yang 
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [§2](#2-four-seat-constitutional-floor); [kepentingan material](../../core_00_preamble.md#material-stake); [Keniscayaan](../../core_05_band_accountability.md#necessity); [Proporsionalitas](../../core_05_band_accountability.md#proportionality).
-- Hilir: [Bab Sembilan §3.7](../../core_09_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Penempatan staf jalur dan redundansi kompetensi yang diskalakan menurut kelas*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Jalur pemisahan fungsional*).
+- Hilir: [Bab Sembilan §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Penempatan staf jalur dan redundansi kompetensi yang diskalakan menurut kelas*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Jalur pemisahan fungsional*).
 - Baca bersama: [Beban yang Dapat Dihindari](../../core_05_band_continuity.md#avoidable-burden) dan [Anti-Proses yang Merendahkan, Bab Satu §3.3](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -274,7 +274,7 @@ Keterbatasan staf, kecepatan, kemudahan, atau pemusatan keahlian tidak dengan se
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Langkah darurat dan beban kelanjutan, Bab Dua Belas §6.1](../../core_12_forum.md#61-emergency-measures-and-continuation-burden); [postur sementara bawaan](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- Hulu: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Langkah darurat dan beban kelanjutan, Bab Dua Belas §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [postur sementara bawaan](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - Hilir: proses insiden, pembatasan, pelepasan, kelanjutan, dan tinjauan pascakejadian dalam teks implementasi yang ditetapkan.
 - Baca bersama: [Ketepatan Waktu](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Pelestarian Bukti](../../core_05_band_oversight.md#evidence-preservation), dan [Katalog Kursi CI-4.6 — arketipe peran proses dan batas operasional](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
@@ -350,7 +350,7 @@ Log menunjukkan siapa melakukan apa, tetapi dengan sendirinya tidak membuktikan 
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [§1](#1-purpose-scope-and-owner-boundary) sampai [§8](#8-act-records-and-attributable-handoffs).
-- Hilir: [Bab Delapan](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [Bab Sembilan](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [Bab Dua Belas](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Bab Tiga Belas](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- Hilir: [Bab Delapan](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Bab Sembilan](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Bab Dua Belas](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Bab Tiga Belas](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - Baca bersama: [Tumpukan Kewenangan dan Hierarki Internal](../../core_05_band_integrative.md#owner-non-relocation) dan [register pemilik Preambule](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>
@@ -379,4 +379,4 @@ Bab berikutnya boleh memberlakukan persyaratan yang lebih kuat untuk kemandirian
 
 **Berkas sebelumnya:** [core_05_band_performance.md](../../core_05_band_performance.md)
 
-**Berkas berikutnya:** [core_08_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
+**Berkas berikutnya:** [core_08_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)

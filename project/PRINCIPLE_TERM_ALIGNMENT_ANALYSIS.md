@@ -48,7 +48,7 @@ The vocabulary is mostly aligned. Only 2 of the 100 distinct widget labels diffe
 
 - Widget rows come from the Definitions · Assessment · Compliance block under each numbered heading, including third-level headings. My first pass missed third-level widgets and inflated §6.1 and §6.2; the figures above use the corrected parse.
 - "Linked in text" counts only links to Chapter Five anchors, with `-a`/`-c` and band suffixes resolved to the directory label. "Mentioned" is an approximate stem match and overstates how many rows are truly unmentioned (for example label differences such as Foreseeability Diligence).
-- Principle-text figures cover Chapter One only; Chapter Seven and later articles were not analysed.
+- Principle-text figures cover Chapter One only; Chapter Eight and later articles were not analysed.
 
 ## Update 2026-10-01 (later)
 

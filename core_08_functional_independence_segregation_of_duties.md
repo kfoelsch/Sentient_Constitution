@@ -1,15 +1,15 @@
-<a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES
+<a id="chapter-eight-functional-independence-and-segregation-of-duties"></a>
+# CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: the cross-process floor for functional independence and segregation of duties. It follows the Chapter Six Rights Floor and precedes the constitutional process chapters beginning with [Chapter Eight system alignment certification](core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight**: the cross-process floor for functional independence and segregation of duties. It follows [Chapter Seven](core_07_charters.md#chapter-seven-charters-and-published-scope), which states the Charter that carries the published seat map, and precedes the constitutional process chapters beginning with [Chapter Nine system alignment certification](core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index).
 >
 > - **Constitutional owner:** the distinct-seat floor for materially binding acts; the universal minimum contents of each [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; and the minimum independence conditions that every later constitutional process must apply.
 > - **Principle-layer source:** [Chapter One §18.3](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
-> - **Implementation owner:** [CJS-3.11](corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), and [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
-> - **Process-specific application remains downstream:** Chapter Eight applies this floor to system alignment certification; [Chapter Nine §3.7](core_09_standing_assessment.md#37-segregation-of-duties) applies it to standing records; Chapter Twelve and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
+> - **Implementation owner:** [CJS-3.11](corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*Constitutional lane and functional separation*), [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), and [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
+> - **Process-specific application remains downstream:** Chapter Nine applies this floor to system alignment certification; [Chapter Ten §3.7](core_10_standing_assessment.md#37-segregation-of-duties) applies it to standing records; Chapter Thirteen and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
 >
 > Reading order: §1 purpose and scope → §2 four-seat floor → §3 independence and conflicts → §4 wrong-seat routing → §5 published placement and substitutes → §6 proportional scaling → §7 emergencies → §8 Act Records and handoffs → §9 downstream application.
 
@@ -20,14 +20,14 @@
 
 - Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**; [material stake](core_00_preamble.md#material-stake); [Chapter One §17.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Subsections: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- Downstream: [Chapter Eight](core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Chapter Thirteen](core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); designated implementation text named above.
+- Downstream: [Chapter Nine](core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chapter Fourteen](core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); designated implementation text named above.
 - Read with: [Chapter One §19.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*plural detection and review*); [Attributable Action](core_05_band_accountability.md#attributable-action); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [Proportionality](core_05_band_accountability.md#proportionality).
 
 </details>
 
 <br>
 
-Chapter Seven is the constitutional owner of the **functional-independence and segregation-of-duties floor for materially binding acts**.
+Chapter Eight is the constitutional owner of the **functional-independence and segregation-of-duties floor for materially binding acts**.
 
 <a id="1-purpose-scope-and-owner-boundary"></a>
 ### 1. Purpose, Scope, and Owner Boundary
@@ -62,7 +62,7 @@ This chapter states the cross-process segregation-of-duties floor. It does not r
 - evidentiary burden, traceability, or verification method from Chapter Four;
 - canonical meanings from Chapter Five;
 - Rights Floors from Chapter Six;
-- process-specific record content from Chapters Eight through Twelve; or
+- process-specific record content from Chapters Nine through Thirteen; or
 - operational seat catalogs, staffing methods, and lane-map mechanics from designated implementation text.
 
 <a id="2-four-seat-constitutional-floor"></a>
@@ -164,7 +164,7 @@ The functional four-seat floor applies at every class. The class-scaled question
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Article XXV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
-- Downstream: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Chapter Eight certification component roles; Chapter Nine record custody; Chapter Twelve forum anti-self-judging.
+- Downstream: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Chapter Nine certification component roles; Chapter Ten record custody; Chapter Thirteen forum anti-self-judging.
 - Read with: [Material Control Line](core_05_band_accountability.md#material-control-line); [CI-5](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-7](corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
 
 </details>
@@ -217,8 +217,8 @@ That response is performance of duty, not abandonment of the act. The act procee
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [Transparency](core_05_band_oversight.md#transparency); [Auditability](core_05_band_oversight.md#auditability).
-- Downstream: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Functional separation lanes*); [CI-4.5](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Authorized roles and accountability chains*); Chapter Eight and Chapter Nine records.
-- Read with: [Charter](core_05_band_continuity.md#charter) and [Chapter Thirteen §5](core_13_governance.md#5-authorized-roles-competency-development-and-contribution).
+- Downstream: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Functional separation lanes*); [CI-4.5](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Authorized roles and accountability chains*); Chapter Nine and Chapter Ten records.
+- Read with: [Charter](core_05_band_continuity.md#charter); [Chapter Seven §6 The Charter Role Map and Standing-Record Custody](core_07_charters.md#6-the-charter-role-map-and-standing-record-custody); and [Chapter Fourteen §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -246,7 +246,7 @@ Delegation preserves the same seat boundary, evidence duties, record, and clock,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-floor); [material stake](core_00_preamble.md#material-stake); [Necessity](core_05_band_accountability.md#necessity); [Proportionality](core_05_band_accountability.md#proportionality).
-- Downstream: [Chapter Nine §3.7](core_09_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Functional separation lanes*).
+- Downstream: [Chapter Ten §3.7](core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Functional separation lanes*).
 - Read with: [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and Chapter One [§3.3 Anti-Degrading Process](core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -276,7 +276,7 @@ Scarce staffing, speed, convenience, or concentration of expertise does not by i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden); [default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture).
+- Upstream: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Chapter Thirteen §6.1 Emergency measures and continuation burden](core_13_forum.md#61-emergency-measures-and-continuation-burden); [default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
 - Read with: [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [CI-4.6 Seat catalog — process-role archetypes and operational boundaries](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
@@ -352,7 +352,7 @@ Logs show who did what, but they do not by themselves prove that the action was 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-purpose-scope-and-owner-boundary) through [§8](#8-act-records-and-attributable-handoffs).
-- Downstream: [Chapter Eight](core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Chapter Thirteen](core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- Downstream: [Chapter Nine](core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chapter Fourteen](core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) and the [Preamble owner register](core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>
@@ -370,15 +370,15 @@ Every later constitutional process must explain how it assigns and uses all four
 
 In particular:
 
-- **Chapter Eight — system alignment certification:** the system operator or certification proponent is an initiating seat, not its own verifier; bounded component findings, integration of the certification record, custody, and challenges must remain within their lawful seats and anti-self-judging routes.
-- **Chapter Nine — standing records:** the requester, record-opening authority, record custodian, and contest route apply the four-seat floor together with Chapter Nine's stricter custody, claimant, informal-record, and no-self-custody rules.
-- **Chapter Twelve — forums:** filing, investigation, merits review, record custody, appeal, and review of a forum's own alleged bias or process abuse must preserve the applicable seat and anti-self-judging boundaries.
-- **Chapter Thirteen — governance:** role definitions, competency plans, delegation, succession, and institutional design must place and sustain the seats rather than merely repeat their names.
+- **Chapter Nine — system alignment certification:** the system operator or certification proponent is an initiating seat, not its own verifier; bounded component findings, integration of the certification record, custody, and challenges must remain within their lawful seats and anti-self-judging routes.
+- **Chapter Ten — standing records:** the requester, record-opening authority, record custodian, and contest route apply the four-seat floor together with Chapter Ten's stricter custody, claimant, informal-record, and no-self-custody rules.
+- **Chapter Thirteen — forums:** filing, investigation, merits review, record custody, appeal, and review of a forum's own alleged bias or process abuse must preserve the applicable seat and anti-self-judging boundaries.
+- **Chapter Fourteen — governance:** role definitions, competency plans, delegation, succession, and institutional design must place and sustain the seats rather than merely repeat their names.
 
 A later chapter may impose stronger independence, recusal, separation, custody, panel, or review requirements because its process carries a higher or different risk. It may not narrow this floor, treat a process-specific label as an exemption, or infer that silence transfers a seat to the actor.
 
 ---
 
-**Previous file:** [core_05_band_performance.md](core_05_band_performance.md)
+**Previous file:** [core_07_charters.md](core_07_charters.md)
 
-**Next file:** [core_08_a_system_alignment_certification_evaluation.md](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
+**Next file:** [core_09_a_system_alignment_certification_evaluation.md](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)

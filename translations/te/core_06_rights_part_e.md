@@ -241,7 +241,7 @@ flowchart TB
   - గడువు మించినదాని సమీక్ష; మరియు
   - ఆలస్య నిరోధ క్రమశిక్షణ.
 
-  సంఖ్యాపరమైన స్థాయి-డిఫాల్ట్ గడువులు, దశల పట్టికలు: [CF-11.3.1 లక్ష్య గడువులు, కాలపరిమితి కనీసాలు](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). రంగాల వారీ ఉదాహరణలు: [అధ్యాయాలు తొమ్మిది–పన్నెండు అన్వయ దృష్టాంతాలు](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  సంఖ్యాపరమైన స్థాయి-డిఫాల్ట్ గడువులు, దశల పట్టికలు: [CF-11.3.1 లక్ష్య గడువులు, కాలపరిమితి కనీసాలు](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). రంగాల వారీ ఉదాహరణలు: [అధ్యాయాలు తొమ్మిది–పన్నెండు అన్వయ దృష్టాంతాలు](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **అత్యవసర పరిస్థితి తర్వాత సవాలు పునరుద్ధరణ:** అత్యవసర నిర్బంధం తర్వాత సమాచారం, సవాలు చేసే అవకాశం పునరుద్ధరించేందుకు [**అధ్యాయం పన్నెండు §6.1 అత్యవసర చర్యలు, కొనసాగింపుకు సంబంధించిన భారం**](core_12_forum.md#61-emergency-measures-and-continuation-burden) కింద ఇదే స్థాయి బాహ్య గడువులు డిఫాల్ట్‌గా ఉంటాయి. ఆ గడువులను దాటి కొనసాగించడానికి అదే విభాగం ప్రకారం అవసరాన్ని పత్రబద్ధం చేయాలి. ఈ వ్యాసం మరింత నెమ్మదైన అత్యవసర గడియారాన్ని సృష్టించదు.
 
 ### వ్యాసం XXVI: రాజ్యాంగ పరిణామం, స్థిరపరచకపోవడం

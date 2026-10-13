@@ -239,7 +239,7 @@ flowchart TB
   - समय-सीमा पार होने की समीक्षा; और
   - विलंब-विरोधी अनुशासन।
   
-  संख्यात्मक डिफ़ॉल्ट समय-सीमाएँ और चरण-सारिणियाँ: [CF-11.3.1 लक्ष्य-समय सीमाएँ और समय-आधार](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)। विषय-क्षेत्र उदाहरण: [अध्याय नौ–बारह अनुप्रयोग दृष्टांत](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes)।
+  संख्यात्मक डिफ़ॉल्ट समय-सीमाएँ और चरण-सारिणियाँ: [CF-11.3.1 लक्ष्य-समय सीमाएँ और समय-आधार](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)। विषय-क्षेत्र उदाहरण: [अध्याय नौ–बारह अनुप्रयोग दृष्टांत](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes)।
 - **आपातस्थिति के बाद बहाली-चुनौती:** वही महत्त्व-स्तर वाली बाहरी समय-सीमाएँ [**अध्याय बारह §6.1 आपातकालीन उपाय और निरंतरता का भार**](core_12_forum.md#61-emergency-measures-and-continuation-burden) के अंतर्गत आपातकालीन नियंत्रण के बाद सूचना और चुनौती बहाल करने की डिफ़ॉल्ट अवधि हैं। उन सीमाओं के बाद जारी रखने के लिए उस अनुभाग में दर्ज आवश्यकता का औचित्य आवश्यक है। यह अनुच्छेद आपातकालीन प्रक्रिया के लिए धीमी समय-सीमा नहीं बनाता।
 
 ### अनुच्छेद XXVI: संवैधानिक विकास और स्थायी जड़ता का निषेध

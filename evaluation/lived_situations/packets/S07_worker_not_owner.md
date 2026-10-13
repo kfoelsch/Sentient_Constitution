@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_09-12_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is a contractor label plus a shift that blocks a clinic.
+Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_10-13_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is a contractor label plus a shift that blocks a clinic.
 
 ## Scale of the situation (not scored)
 
@@ -84,8 +84,8 @@ Beyond the sitting’s bounded reading path, open:
 - [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — classification tricks designed to defeat the floor; rest, safety, organizing
 - [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the shift is used to defeat the clinic
 - [Chapter One §17.1](../../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) — one standard for human and AI operators; [§17.2](../../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure) — cover instructions
-- [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default)
-- If you conclude a **forum family** is in play, [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Do not assume an employer contest desk is already a forum family.
+- [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Ten §2.1](../../../core_10_standing_assessment.md#21-silence-is-the-default)
+- If you conclude a **forum family** is in play, [Chapter Thirteen §3](../../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

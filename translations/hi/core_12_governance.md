@@ -4,15 +4,15 @@
 <details>
 <summary><strong><span style="color: #2563eb;">संग्रह में स्थान (गैर-संक्रियात्मक): फ़ाइल संरचना और पढ़ने के नियम</span></strong></summary>
 
-> यह फ़ाइल [अंग्रेज़ी अध्याय बारह](../../core_13_governance.md) की **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_12_governance.md`](../../core_13_governance.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
+> यह फ़ाइल [अंग्रेज़ी अध्याय बारह](../../core_14_governance.md) की **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_12_governance.md`](../../core_14_governance.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
 >
-> इसमें **अध्याय बारह** है, **संवैधानिक अनुबंध परत** — शासन-प्राधिकार के लिए संवैधानिक वैधता और उत्तरदायी-प्रबंधन अपेक्षाएँ, पहले से अधिकृत प्रणालियों में **प्रभावित पक्षों की प्रणालीगत सहभागिता** से भिन्न ([प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements))। संशोधन और अंगीकार वैधता नियंत्रण [अध्याय तेरह से पंद्रह](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) में जारी रहते हैं। अध्याय क्रमांकन और परस्पर-संदर्भ एकीकृत लिखत से मेल खाते हैं।
+> इसमें **अध्याय बारह** है, **संवैधानिक अनुबंध परत** — शासन-प्राधिकार के लिए संवैधानिक वैधता और उत्तरदायी-प्रबंधन अपेक्षाएँ, पहले से अधिकृत प्रणालियों में **प्रभावित पक्षों की प्रणालीगत सहभागिता** से भिन्न ([प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements))। संशोधन और अंगीकार वैधता नियंत्रण [अध्याय तेरह से पंद्रह](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) में जारी रहते हैं। अध्याय क्रमांकन और परस्पर-संदर्भ एकीकृत लिखत से मेल खाते हैं।
 
 
 >
 > **पिछला (अभी अंग्रेज़ी में):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **अगला (अभी अंग्रेज़ी में):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
+> **अगला (अभी अंग्रेज़ी में):** [core_13_non_regression.md](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)
 > **पढ़ने का चाप:** §0 परत सीमा → §1 प्राधिकरण/वैधता → §1.1 तंत्र परिवार → §1.2 पात्रता/लोकतांत्रिक न्यूनतम → §1.3 वापसी-वर्ग → §2 अखंडता संस्कृति → §3 उत्तरदायी-प्रबंधन दिशा → §4 मतदान/सामूहिक चयन → §5 अधिकृत भूमिकाएँ
 </details>
 
@@ -61,7 +61,7 @@
 
 - ऊर्ध्व: सिद्धांत: [अध्याय एक §5 स्वतंत्रता](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 उत्तरदायी प्रबंधन और वितरित समझ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. प्रक्रिया संघर्ष समाधान](#6-process-conflict-resolution); [अध्याय बारह §0](#0-layer-boundary-for-this-chapter)।
 - उपअनुभाग: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*तंत्र परिवार, लेखापरीक्षा-योग्यता, और बहुलवाद*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*पात्रता, प्रतिस्पर्धी चयन, और लोकतांत्रिक न्यूनतम*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*वापसी-वर्ग नामित मार्ग और मध्य-चक्र हस्तांतरण रेलिंग*)।
-- अधो: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) के अधीन अखंडता, रणनीति, मतदान, और भूमिका कर्तव्य; [अध्याय पंद्रह](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) के अधीन अंगीकार और अनुसमर्थन; अध्याय छह में वैधता, सहभागिता, और चुनौती-योग्यता — विशेषकर [अनुच्छेद XII-C: वैधता द्वार और प्रतीकात्मक-सहभागिता निषेध](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation), [अनुच्छेद XIX: प्रस्थिति और सहभागिता हैसियत](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status), और नीचे संक्रियात्मक बुलेट में कुंजीबद्ध अभिव्यक्ति, सभा, और प्रक्रियात्मक-निष्पक्षता अनुच्छेद।
+- अधो: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) के अधीन अखंडता, रणनीति, मतदान, और भूमिका कर्तव्य; [अध्याय पंद्रह](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) के अधीन अंगीकार और अनुसमर्थन; अध्याय छह में वैधता, सहभागिता, और चुनौती-योग्यता — विशेषकर [अनुच्छेद XII-C: वैधता द्वार और प्रतीकात्मक-सहभागिता निषेध](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation), [अनुच्छेद XIX: प्रस्थिति और सहभागिता हैसियत](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status), और नीचे संक्रियात्मक बुलेट में कुंजीबद्ध अभिव्यक्ति, सभा, और प्रक्रियात्मक-निष्पक्षता अनुच्छेद।
 - साथ पढ़ें: इस अनुभाग में नामित **संग्रह** और **[corpus_systems.md](../../corpus_systems.md)** हुक ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md))।
 
 </details>
@@ -201,7 +201,7 @@
     - उसे नियमों की दरारें खोजनी होंगी। नियमों के दायरे से बाहर किसी माध्यम से वित्तपोषण बढ़ना, या महत्त्वपूर्ण हित वाले वित्तपोषकों के पक्ष में बार-बार निर्णय होना, नियम बदलने की आवश्यकता का साक्ष्य है।
     - ऐसा साक्ष्य मिलने पर नियम संशोधित करने होंगे।
 - **निर्भरता:** चुने गए sentient और समर्थक के बीच महत्त्वपूर्ण निर्भरता पैदा करने वाली सहायता, **अनुच्छेद XII-D** (*कब्ज़ा-रोध सुरक्षा*) के तहत हित-संघर्ष है। इसे प्रकट करना होगा और चुने गए sentient को उन मामलों से अलग होना होगा जिनमें समर्थक का महत्त्वपूर्ण हित है।
-- **तंत्र-तटस्थता:** ये सीमाएँ न तो व्यय सीमा स्वयं निर्धारित करती हैं, न सार्वजनिक वित्तपोषण अनिवार्य करती हैं। ऐसा अभिकल्प जिसमें अघोषित या अपात्र वित्तपोषण चयन का निर्णय कर सकता हो, ऊपर दी गई **प्रतिस्पर्धी चयन** जाँच में विफल है। जहाँ बाहरी कानून किसी सीमा को रोकता है, वहाँ अंगीकारकर्ता कानून जितनी अनुमति देता है उतना लागू करेगा और [अध्याय पंद्रह](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) के अनुसार शेष अंतर प्रकाशित करेगा।
+- **तंत्र-तटस्थता:** ये सीमाएँ न तो व्यय सीमा स्वयं निर्धारित करती हैं, न सार्वजनिक वित्तपोषण अनिवार्य करती हैं। ऐसा अभिकल्प जिसमें अघोषित या अपात्र वित्तपोषण चयन का निर्णय कर सकता हो, ऊपर दी गई **प्रतिस्पर्धी चयन** जाँच में विफल है। जहाँ बाहरी कानून किसी सीमा को रोकता है, वहाँ अंगीकारकर्ता कानून जितनी अनुमति देता है उतना लागू करेगा और [अध्याय पंद्रह](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law) के अनुसार शेष अंतर प्रकाशित करेगा।
 - **विरोध सुरक्षा:** इन नियमों का उपयोग ऊपर दी गई **विरोध सुरक्षा** द्वारा संरक्षित संगठन, संचार और असहमति को हतोत्साहित करने के लिए नहीं किया जाना चाहिए।
 
 **मंच नियुक्ति स्वतंत्रता तल**
@@ -333,7 +333,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§1](#1-authorization-and-legitimacy-of-governing-authority) प्रलेखित वैधता-तंत्र; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) सामूहिक निर्णयों के लिए उत्तरदायी-प्रबंधन संरेखण।
-- अधो: उपअनुभाग [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); [अध्याय तेरह से पंद्रह](../../core_14_non_regression.md) में अंगीकार, सर्वोच्चता, और गैर-पश्चगमन लिखत जैसा इस अनुभाग के अंत में **परस्पर-संदर्भ (अध्याय बारह)** टिप्पणी में सार है।
+- अधो: उपअनुभाग [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); [अध्याय तेरह से पंद्रह](../../core_15_non_regression.md) में अंगीकार, सर्वोच्चता, और गैर-पश्चगमन लिखत जैसा इस अनुभाग के अंत में **परस्पर-संदर्भ (अध्याय बारह)** टिप्पणी में सार है।
 - साथ पढ़ें: [अध्याय छह](core_06_rights_part_a.md#chapter-six-foundational-rights), विशेषकर [अनुच्छेद XII: प्रभावित पक्षों की प्रणालीगत सहभागिता, प्रतिनिधित्व, और उचित प्रक्रिया](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) और §4 में उद्धृत संबंधित उपअनुच्छेद।
 
 </details>
@@ -510,6 +510,6 @@
 
 **पिछली फ़ाइल (अभी अंग्रेज़ी में):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
+**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_13_non_regression.md](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)
 
-**बाध्यकारी मूल:** [core_12_governance.md](../../core_13_governance.md)
+**बाध्यकारी मूल:** [core_12_governance.md](../../core_14_governance.md)

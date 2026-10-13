@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-9** (*Classification-linked institutional obligations*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-9** (*Classification-linked institutional obligations*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-9.1: Formation proportionality](#ci-91-formation-proportionality); [CI-9.2: Published industry and domain mapping](#ci-92-published-industry-and-domain-mapping); [CI-9.3: Delegated subunits, institutional design class, and attachment discipline](#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline).
 - Read with: **CI-9** (*Classification-linked institutional obligations*); **CI-9.1** (*Formation proportionality*); **CI-7** (*Oversight, assurance, controls, and evidence*); **CI-9.2** (*Published industry and domain mapping*); **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*); **CI-9.3.1** (*Identification and competence*); **CI-9.3.2** (*Authority composition*).
 
@@ -105,7 +105,7 @@ Apply **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*) **D
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*); **CI-9.2** (*Published industry and domain mapping*); **CI-9.3.1** (*Identification and competence*); **CI-9.3.2** (*Authority composition*); **CI-9.3.3** (*Rotating authority: attachment bounds*); **CI-9.3.4** (*Home-based authority: term and renewal*); **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*).
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Thirteen famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
 - Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*); primary owner **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
 - Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*), **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*), **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*), **CI-3** (*Institutional design, separation of powers, and authority custody*), **CJS-3.11** (*Accountability: distributed and proportional authority terms*), **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*).
 
@@ -135,7 +135,7 @@ Each formation or authorizing instrument must state:
 - the subunit's **subject-matter scope**;
 - the **competence profile** expected for service in the subunit.
 
-Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** (*Procedure integrity, contestability, and secondary review*) contest pathways, or **Chapter Eleven** routing where adjudication applies.
+Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** (*Procedure integrity, contestability, and secondary review*) contest pathways, or **Chapter Twelve** routing where adjudication applies.
 
 ## CI-9.3.2: Authority composition
 <details>

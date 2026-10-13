@@ -29,20 +29,19 @@ This is a candidate finder, not a duty. Existing nesting gates
 (``corpus_markdown_audit.check_oec_intro_sublist_nesting``, Article X in
 ``prose_continuity_audit``) still lock lists that are already nested.
 
-Rules: CH0-NEST-CANDIDATE through CH17-NEST-CANDIDATE (by selected
+Rules: CH0-NEST-CANDIDATE through CH18-NEST-CANDIDATE (by selected
 chapter) in
 tools/architecture/rule_registry.json.
 Legacy chapter-specific names: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE /
-CH7-NEST-CANDIDATE / CH8-NEST-CANDIDATE / CH9-NEST-CANDIDATE /
-CH10-NEST-CANDIDATE /
-CH11-NEST-CANDIDATE / CH12-NEST-CANDIDATE /
-CH13-NEST-CANDIDATE in
+CH8-NEST-CANDIDATE / CH9-NEST-CANDIDATE / CH10-NEST-CANDIDATE /
+CH11-NEST-CANDIDATE /
+CH12-NEST-CANDIDATE / CH13-NEST-CANDIDATE /
+CH14-NEST-CANDIDATE in
 
 Run:
 
     make ch5-nested-list-candidates
     make ch6-nested-list-candidates
-    make ch7-nested-list-candidates
     make ch8-nested-list-candidates
     make ch9-nested-list-candidates
     make ch10-nested-list-candidates
@@ -53,7 +52,8 @@ Run:
     make ch15-nested-list-candidates
     make ch16-nested-list-candidates
     make ch17-nested-list-candidates
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 17
+    make ch18-nested-list-candidates
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 18
     python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05_band_accountability.md
 """
 
@@ -94,40 +94,42 @@ CH6_RIGHTS: tuple[str, ...] = (
     "core_06_rights_part_e.md",
 )
 
-CH7_PARTS: tuple[str, ...] = (
-    "core_07_functional_independence_segregation_of_duties.md",
-)
+CH7_PARTS: tuple[str, ...] = ("core_07_charters.md",)
 
 CH8_PARTS: tuple[str, ...] = (
-    "core_08_a_system_alignment_certification_evaluation.md",
-    "core_08_b_system_alignment_certification_record_process.md",
-    "core_08_c_system_alignment_certification_illustrations.md",
+    "core_08_functional_independence_segregation_of_duties.md",
 )
 
-CH9_PARTS: tuple[str, ...] = ("core_09_standing_assessment.md",)
-
-CH10_PARTS: tuple[str, ...] = ("core_10_standing_integration.md",)
-
-CH11_PARTS: tuple[str, ...] = (
-    "core_11_a_misconduct_designation.md",
-    "core_11_b_misconduct_pattern_applications.md",
+CH9_PARTS: tuple[str, ...] = (
+    "core_09_a_system_alignment_certification_evaluation.md",
+    "core_09_b_system_alignment_certification_record_process.md",
+    "core_09_c_system_alignment_certification_illustrations.md",
 )
 
-CH12_PARTS: tuple[str, ...] = ("core_12_forum.md",)
+CH10_PARTS: tuple[str, ...] = ("core_10_standing_assessment.md",)
 
-CH13_PARTS: tuple[str, ...] = ("core_13_governance.md",)
+CH11_PARTS: tuple[str, ...] = ("core_11_standing_integration.md",)
 
-CH14_PARTS: tuple[str, ...] = ("core_14_non_regression.md",)
+CH12_PARTS: tuple[str, ...] = (
+    "core_12_a_misconduct_designation.md",
+    "core_12_b_misconduct_pattern_applications.md",
+)
 
-CH15_PARTS: tuple[str, ...] = ("core_15_expansion_supremacy.md",)
+CH13_PARTS: tuple[str, ...] = ("core_13_forum.md",)
 
-CH16_PARTS: tuple[str, ...] = ("core_16_amendment_ratification.md",)
+CH14_PARTS: tuple[str, ...] = ("core_14_governance.md",)
 
-CH17_PARTS: tuple[str, ...] = ("core_17_incorporation.md",)
+CH15_PARTS: tuple[str, ...] = ("core_15_non_regression.md",)
 
-SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(18))
+CH16_PARTS: tuple[str, ...] = ("core_16_expansion_supremacy.md",)
+
+CH17_PARTS: tuple[str, ...] = ("core_17_amendment_ratification.md",)
+
+CH18_PARTS: tuple[str, ...] = ("core_18_incorporation.md",)
+
+SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(19))
 WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset(
-    set(range(18)) - {5}
+    set(range(19)) - {5}
 )
 
 LIST_RE = re.compile(r"^([ \t]*)([-*]|\d+\.)\s+(.*)$")
@@ -413,6 +415,7 @@ RULE_ID_BY_CHAPTER: dict[int, str] = {
     15: "CH15-NEST-CANDIDATE",
     16: "CH16-NEST-CANDIDATE",
     17: "CH17-NEST-CANDIDATE",
+    18: "CH18-NEST-CANDIDATE",
 }
 
 
@@ -775,6 +778,7 @@ def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
             15: CH15_PARTS,
             16: CH16_PARTS,
             17: CH17_PARTS,
+            18: CH18_PARTS,
         }
         for chapter in chapters:
             names_list.extend(chapter_parts.get(chapter, ()))

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-10** (*Technical specialist forums and specialist chambers*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-10** (*Technical specialist forums and specialist chambers*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-10.1 Basic rule](#cf-101-basic-rule); [CF-10.2 Purpose](#cf-102-purpose); [CF-10.3 Core functions](#cf-103-core-functions); [CF-10.4 Required chamber coverage](#cf-104-required-chamber-coverage); [CF-10.5 Optional additional chambers](#cf-105-optional-additional-chambers); [CF-10.6 Routing and limits](#cf-106-routing-and-limits); [CF-10.7 Standard-setting constraints](#cf-107-standard-setting-constraints); [CF-10.8 Shared standards and decentralized enforcement](#cf-108-shared-standards-and-decentralized-enforcement); [CF-10.9 Institutional-forum interface](#cf-109-institutional-forum-interface); [CF-10.10 Departure and variance](#cf-1010-departure-and-variance); [CF-10.11 Cross-jurisdiction recognition](#cf-1011-cross-jurisdiction-recognition); [CF-10.12 Educational materials and textbook disputes](#cf-1012-educational-materials-and-textbook-disputes); [CF-10.13 Independence and composition](#cf-1013-independence-and-composition); [CF-10.14 Research and uncertainty-reduction authority](#cf-1014-research-and-uncertainty-reduction-authority); [CF-10.15 Publication and review governance](#cf-1015-publication-and-review-governance).
 - Read with: **CF-10** (*Technical specialist forums and specialist chambers*); **CF-10.1** (*Basic rule*); **CF-10.2** (*Purpose*); **CF-10.3** (*Core functions*); **CF-10.4** (*Required chamber coverage*); **CF-10.5** (*Optional additional chambers*); **CF-10.6** (*Routing and limits*); **CF-10.7** (*Standard-setting constraints*); **CF-10.8** (*Shared standards and decentralized enforcement*); **CF-10.9** (*Institutional-forum interface*); **CF-10.10** (*Departure and variance*); **CF-10.11** (*Cross-jurisdiction recognition*); **CF-10.12** (*Educational materials and textbook disputes*); **CF-10.13** (*Independence and composition*); **CF-10.14** (*Research and uncertainty-reduction authority*); **CF-10.15** (*Publication and review governance*).
 - Topic routing (primary owner): **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*).
@@ -50,9 +50,9 @@ This file is the forum implementation home for **CF-10** (*Technical specialist 
 
 ## CF-10.1 Basic rule
 
-*In plain terms: **CF-10** (*Technical specialist forums*) lets a system use scientific, engineering, and medical expertise without letting that expertise harden into an unaccountable parallel judiciary. Specialist bodies sit inside the Chapter Twelve families, publish the standards they apply, and stay reviewable.*
+*In plain terms: **CF-10** (*Technical specialist forums*) lets a system use scientific, engineering, and medical expertise without letting that expertise harden into an unaccountable parallel judiciary. Specialist bodies sit inside the Chapter Thirteen families, publish the standards they apply, and stay reviewable.*
 
-When adopting instruments create **science specialist forums**, **engineering specialist forums**, **medical specialist forums**, or comparable technical specialist forums, those bodies must operate inside the forum families recognized in `core_12_forum.md` **Chapter Twelve**. They may be specialized chambers or designated panels, but they must not sit outside the Chapter Twelve forum structure.
+When adopting instruments create **science specialist forums**, **engineering specialist forums**, **medical specialist forums**, or comparable technical specialist forums, those bodies must operate inside the forum families recognized in `core_13_forum.md` **Chapter Thirteen**. They may be specialized chambers or designated panels, but they must not sit outside the Chapter Thirteen forum structure.
 
 ## CF-10.2 Purpose
 
@@ -120,7 +120,7 @@ Adopting instruments may also create technical specialist forums or chambers for
 
 *In plain terms: Specialist bodies take questions where the expert method is the real dispute. They do not become a general venue by absorbing cases that belong elsewhere.*
 
-Technical specialist forums must not displace the primary-stakes routing rules in `core_12_forum.md` **Chapter Twelve**. They may hear certified questions, designated administrative matters, or merits disputes whose primary issue is expert procedure or expert-evidence governance. This includes technical system-alignment specifications and testing methods.
+Technical specialist forums must not displace the primary-stakes routing rules in `core_13_forum.md` **Chapter Thirteen**. They may hear certified questions, designated administrative matters, or merits disputes whose primary issue is expert procedure or expert-evidence governance. This includes technical system-alignment specifications and testing methods.
 
 They must not become the default merits forum for ordinary civil injury, criminal liability, constitutional-rights enforcement, institutional-mandate disputes, or official constitutional alignment recognition or validation merely because expert evidence is involved.
 
@@ -144,7 +144,7 @@ Ordinary enforcement should remain decentralized. The constitutionally designate
 
 *In plain terms: When a technical standard is used against an institution, the case is normally heard by the Institutional family — the standard is technical, but the dispute is about institutional conduct.*
 
-When a shared technical, scientific, engineering, medical, or comparable operational standard is invoked against an institution, regulator, steward, operator, or supervised body, the ordinary merits and compliance forum should be the **Institutional** forum family unless `core_12_forum.md` **Chapter Twelve** assigns another lead family by primary stakes.
+When a shared technical, scientific, engineering, medical, or comparable operational standard is invoked against an institution, regulator, steward, operator, or supervised body, the ordinary merits and compliance forum should be the **Institutional** forum family unless `core_13_forum.md` **Chapter Thirteen** assigns another lead family by primary stakes.
 
 Technical specialist forums may hear certified questions, validity challenges to the standard itself, or disputes whose primary stake is standards governance. They must not become the routine venue for every enforcement action merely because a technical standard is relevant.
 
@@ -177,7 +177,7 @@ Non-recognition must identify whether the forum is adopting an interim local rul
 A repeated, unexplained refusal to recognize materially applicable shared standards may be treated as evidence of capture, evasion, or forum shopping. Where the verified facts satisfy the relevant standards, that pattern may support:
 - escalation under [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) (*Cross-institution coordination and escalation*);
 - external assurance;
-- potential **Chapter Eleven** anti-constitutional misconduct routing;
+- potential **Chapter Twelve** anti-constitutional misconduct routing;
 - cross-jurisdiction enforcement continuity rules.
 
 ## CF-10.12 Educational materials and textbook disputes

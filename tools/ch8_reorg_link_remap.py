@@ -15,9 +15,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-A = "core_08_a_system_alignment_certification_evaluation.md"
-B = "core_08_b_system_alignment_certification_record_process.md"
-C = "core_08_c_system_alignment_certification_illustrations.md"
+A = "core_09_a_system_alignment_certification_evaluation.md"
+B = "core_09_b_system_alignment_certification_record_process.md"
+C = "core_09_c_system_alignment_certification_illustrations.md"
 
 # (file, old anchor) -> (new file, new anchor, old label, new label, [(old title, new title), ...])
 M: dict[tuple[str, str], tuple] = {}

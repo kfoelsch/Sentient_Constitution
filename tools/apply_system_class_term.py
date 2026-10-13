@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """TERM-SYSTEM-CLASS-01: say "system class", not a bare "class".
 
-Chapter Eight (and any other file passed with ``--files``) names the tier a
+Chapter Nine (and any other file passed with ``--files``) names the tier a
 system is sorted into its *system class*. A bare "class" is ambiguous for a
 reader who has not met the term, so prose and headings say "system class".
 

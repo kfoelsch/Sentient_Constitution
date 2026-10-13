@@ -44,17 +44,17 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_05__definitions_home.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
 | `core_05-05_definitions_b_semi_independent.md` | ~1,900 | Core | Chapter 5 §2 (semi-independent definitions) |
 | `core_05-05_definitions_c_dependent_clusters.md` | ~1,800 | Core | Chapter 5 §3 (dependent clusters) |
-| `core_09_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
-| `core_10_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
-| `core_11_a_misconduct_designation.md` | ~420 | Core | Chapter 8 (anti-constitutional misconduct) |
-| `core_12_forum.md` | ~380 | Core | Chapter 9 (forums, jurisdiction) |
-| `core_06_rights_part_a.md` | ~630 | Core | Chapter 10 Part A (Articles I-IV) |
-| `core_06_rights_part_b.md` | ~1,380 | Core | Chapter 10 Part B (Articles V-XII) |
-| `core_06_rights_part_c.md` | ~1,600 | Core | Chapter 10 Part C (Articles XIII-XXIV) |
-| `core_06_rights_part_d.md` | ~560 | Core | Chapter 10 Part D (Articles XXV-XXVII) |
-| `core_13_governance.md` | ~330 | Core | Chapter 11 (constitutional contract) |
-| `core_14_non_regression.md` | ~640 | Core | Chapters 12-13 (non-regression, amendment) |
-| `core_17_incorporation.md` | ~160 | Core | Chapter 15 (incorporation bridge) |
+| `core_10_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
+| `core_11_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
+| `core_12_a_misconduct_designation.md` | ~420 | Core | Chapter 9 (anti-constitutional misconduct) |
+| `core_13_forum.md` | ~380 | Core | Chapter 10 (forums, jurisdiction) |
+| `core_06_rights_part_a.md` | ~630 | Core | Chapter 11 Part A (Articles I-IV) |
+| `core_06_rights_part_b.md` | ~1,380 | Core | Chapter 11 Part B (Articles V-XII) |
+| `core_06_rights_part_c.md` | ~1,600 | Core | Chapter 11 Part C (Articles XIII-XXIV) |
+| `core_06_rights_part_d.md` | ~560 | Core | Chapter 11 Part D (Articles XXV-XXVII) |
+| `core_14_governance.md` | ~330 | Core | Chapter 12 (constitutional contract) |
+| `core_15_non_regression.md` | ~640 | Core | Chapters 13-13 (non-regression, amendment) |
+| `core_18_incorporation.md` | ~160 | Core | Chapter 16 (incorporation bridge) |
 | `corpus_systems.md` | ~2,170 | Adopted | Systems adopted implementation text (CS-2–CS-4, Protocols A, B, S4, S5) |
 | `corpus_institutions.md` | ~940 | Adopted | Institutional governance (CI-1 to CI-26) |
 | `corpus_forum.md` | ~1,150 | Adopted | Forum operations |
@@ -65,8 +65,8 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 High-traffic cross-reference patterns:
 - Chapter 5 definitions → referenced from all other chapters
 - Chapter 2-4 mechanics → referenced from all definition-dependent content
-- Chapter 10 Rights → referenced from corpus_systems.md and corpus_institutions.md
-- corpus_systems.md Protocol A → referenced from Chapter 10 Article XVII-XVIII
+- Chapter 11 Rights → referenced from corpus_systems.md and corpus_institutions.md
+- corpus_systems.md Protocol A → referenced from Chapter 11 Article XVII-XVIII
 
 ---
 
@@ -84,7 +84,7 @@ When editing content that uses defined terms:
 
 **Pattern B: Hub-and-Spoke Navigation**
 ```
-For Chapter 10 rights editing:
+For Chapter 11 rights editing:
 1. Read the specific Article from core_06_rights_part_*.md
 2. Read doc_architecture.md section 2 for corpus role mapping
 3. Read relevant adopted implementation text sections only if operational detail needed
@@ -296,7 +296,7 @@ Optimized pattern:
 |------|------------------------|---------------------------|
 | Edit Chapter 1 principle | `core_00_preamble.md`, `core_01_a_values_principles.md`, `core_01_b_stewardship_capacity_principles.md` + cross-refs | Section manifest → read section only |
 | Edit Chapter 5 definition | Full Part file (~1,500 lines) | Definition registry → entry only (~50 lines) |
-| Add Chapter 10 right | Full Part file + cross-refs | Target article + related definitions only |
+| Add Chapter 11 right | Full Part file + cross-refs | Target article + related definitions only |
 | Cross-file reference audit | All files | Crossref matrix → specific files |
 | Corpus-wide term rename | Search all files | Crossref matrix → targeted files |
 

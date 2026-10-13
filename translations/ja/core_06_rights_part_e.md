@@ -240,7 +240,7 @@ flowchart TB
   - 期限超過の審査。
   - 遅延防止の規律。
 
-  数値による区分別既定期間と段階表：[CF-11.3.1 目標期間と時間の最低基準](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)。領域別の適用例：[第九章から第十二章の適用事例](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes)。
+  数値による区分別既定期間と段階表：[CF-11.3.1 目標期間と時間の最低基準](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)。領域別の適用例：[第九章から第十二章の適用事例](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes)。
 - **緊急事態後の回復・異議申立て：**同じ区分別外枠は、[**第十二章 §6.1 緊急措置と継続の立証責任**](core_12_forum.md#61-emergency-measures-and-continuation-burden)に基づく緊急封じ込め後に通知と異議申立ての機会を回復するための既定期間です。この期間を超えて継続するには、同節に基づく必要性の立証を文書化しなければなりません。本条は緊急時の期限を延長しません。
 
 ### 第XXVI条：憲法の進化と固定化の禁止

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-11** (*Resource stewardship and incentive integrity*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-11** (*Resource stewardship and incentive integrity*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-11.1: Continuity planning and consequence interface](#ci-111-continuity-planning-and-consequence-interface); [CI-11.2: High-impact governance continuity and exercises](#ci-112-high-impact-governance-continuity-and-exercises); [CI-11.3: Class-aligned fiscal orientation](#ci-113-class-aligned-fiscal-orientation); [CI-11.4: Local alignment duties](#ci-114-local-alignment-duties).
 - Read with: **CI-11** (*Resource stewardship and incentive integrity*); **CI-10.1** (*Public revenue, user fees, and class-aligned burden*); **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*); **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*); **CI-9.4** (*Survival floors, voluntary exchange, and markets (Article III-A (Survival) interface)*); **CJS-3.16** (*dependency integrity and disclosure terms*); **CJS-3.6** (*integrity assurance and resilience operations*).
 - Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*), **CJS-3.11** (*Accountability: distributed and proportional authority terms*).
@@ -57,7 +57,7 @@ Apply **CJS-3.16** (*dependency integrity and disclosure terms*) for shared depe
 
 **CI-11** (*Resource stewardship and incentive integrity*) keeps only the institutional stewardship trigger and local consequence interface:
 
-- **sabotage of continuity planning** and **willful negligence in continuity planning** are **anti-constitutional misconduct** for malus, clawback, and related remedies in this section when they are **material** to institutional duties or supervised scope and **verified** under **Chapters Two through Four** and **Chapter Nine** as applicable.
+- **sabotage of continuity planning** and **willful negligence in continuity planning** are **anti-constitutional misconduct** for malus, clawback, and related remedies in this section when they are **material** to institutional duties or supervised scope and **verified** under **Chapters Two through Four** and **Chapter Ten** as applicable.
 
 ## CI-11.2: High-impact governance continuity and exercises
 

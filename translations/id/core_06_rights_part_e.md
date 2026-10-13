@@ -238,7 +238,7 @@ Pasal ini menetapkan batas minimum pencegahan penundaan dalam penyelesaian masal
   - peninjauan keterlambatan; dan
   - disiplin pencegahan penundaan.
   
-  Jangka waktu baku per tingkat dan tabel tahapan: [CF-11.3.1 Jendela Sasaran dan Batas Waktu](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Panduan penerapan bidang: [Contoh penerapan Bab Sembilan–Dua Belas](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  Jangka waktu baku per tingkat dan tabel tahapan: [CF-11.3.1 Jendela Sasaran dan Batas Waktu](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Panduan penerapan bidang: [Contoh penerapan Bab Sembilan–Dua Belas](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **Pemulihan-pengajuan keberatan setelah keadaan darurat:** Batas luar tingkat yang sama menjadi tenggat baku untuk memulihkan pemberitahuan dan hak menggugat setelah penahanan darurat menurut [**Bab Dua Belas §6.1 Tindakan darurat dan beban kelanjutan**](core_12_forum.md#61-emergency-measures-and-continuation-burden). Kelanjutan setelah tenggat itu memerlukan bukti kebutuhan yang terdokumentasi sebagaimana diatur bagian tersebut. Pasal ini tidak menciptakan tenggat darurat yang lebih lambat.
 
 ### Pasal XXVI: Evolusi Konstitusional dan Larangan Pengukuhan

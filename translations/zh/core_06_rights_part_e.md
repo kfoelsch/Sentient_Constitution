@@ -238,7 +238,7 @@ flowchart TB
   - 超期审查；以及
   - 反拖延纪律。
   
-  等级默认时限和阶段表：[CF-11.3.1 目标期限窗口与时限底线](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)。领域应用示例：[第九至第十二章应用示例](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes)。
+  等级默认时限和阶段表：[CF-11.3.1 目标期限窗口与时限底线](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)。领域应用示例：[第九至第十二章应用示例](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes)。
 - **紧急情况后的恢复通知与质疑权：**紧急遏制后恢复通知和质疑权的默认时限，与[**第十二章 §6.1 紧急措施与继续实施的负担**](core_12_forum.md#61-emergency-measures-and-continuation-burden)所规定的同级别外部时限相同。超出该等时限继续实施，必须提出该节要求的、记录在案的必要性证明。本条不设更宽松的紧急时限。
 
 ### 第 XXVI 条：宪法演进与禁止固化

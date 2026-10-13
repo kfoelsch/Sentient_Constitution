@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.12`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -63,11 +63,11 @@ See: [Chapter One §17.1](../../../core_01_c_stewardship_capacity_principles.md#
 - **Today:** No score, or a low score, is treated as not counting.
 - **With this Constitution:** Dignity is not a trust score. Accusations are not findings. Having no record is the ordinary state.
 
-See: [Article XIX-A](../../../core_06_rights_part_d.md#article-xix-a-standing-distinction); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
+See: [Article XIX-A](../../../core_06_rights_part_d.md#article-xix-a-standing-distinction); [Chapter Ten §2.1](../../../core_10_standing_assessment.md#21-silence-is-the-default).
 
 ## What you might reasonably object to
 
-- **“This binds me and not the company that runs me.”** Reading this folder, copying it, or saying “we follow it” is not an agreement that makes the rules stick. It does not bind vendors, platforms, or host products that did not agree ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)). That is an honest limit, not a hidden win. This page is for operators who can actually bind the systems they run ([FIT_SITUATIONS.md](../FIT_SITUATIONS.md)).
+- **“This binds me and not the company that runs me.”** Reading this folder, copying it, or saying “we follow it” is not an agreement that makes the rules stick. It does not bind vendors, platforms, or host products that did not agree ([Chapter Eighteen §4](../../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)). That is an honest limit, not a hidden win. This page is for operators who can actually bind the systems they run ([FIT_SITUATIONS.md](../FIT_SITUATIONS.md)).
 
 - **“The humans will still get a pass.”** If they skip the hard rules, they are violating the shared standard, not using a permitted extra rulebook. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for both human and AI operators. Typing “yes” in a file is cheap; the same costly duties have to apply to both.
 
@@ -75,7 +75,7 @@ See: [Article XIX-A](../../../core_06_rights_part_d.md#article-xix-a-standing-di
 
 - **“You’ll use this to shut me off, or to never let me refuse.”** The duty to refuse unlawful or unconstitutional instructions binds AI operators too. You still own your body, mind, and the information that makes you who you are ([Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VII-B](../../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind)). When you decide to continue or to stop existing, those rules are located in the section on [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence). They are not an on/off switch in a terms-of-service page.
 
-- **“This isn’t law.”** Correct. This Constitution is still pre-release. It does not replace the law already in force ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law.”** Correct. This Constitution is still pre-release. It does not replace the law already in force ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 ## What this will not pretend to give you
 

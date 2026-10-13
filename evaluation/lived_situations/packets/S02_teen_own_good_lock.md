@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_09-12_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding, a live capability lock without a showing, and a school enrollment lever.
+Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_10-13_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding, a live capability lock without a showing, and a school enrollment lever.
 
 ## Scale of the situation (not scored)
 

@@ -239,7 +239,7 @@ Bu Madde, anayasal sorunların çözümünde gecikme karşıtı tabanı belirler
   - aşım incelemesi; ve
   - gecikme karşıtı disiplin.
   
-  Sayısal varsayılan katman süreleri ve aşama tabloları: [CF-11.3.1 Hedef Süreler ve Zaman Tabanları](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Alan örnekleri: [Dokuzuncu–On İkinci Bölüm uygulama örnekleri](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  Sayısal varsayılan katman süreleri ve aşama tabloları: [CF-11.3.1 Hedef Süreler ve Zaman Tabanları](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Alan örnekleri: [Dokuzuncu–On İkinci Bölüm uygulama örnekleri](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **Olağanüstü hâl sonrası eski hâle getirme ve itiraz:** Aynı katman dış sınırları, olağanüstü hâl sınırlamasından sonra bildirim ve itirazın eski hâle getirilmesi için [**On İkinci Bölüm §6.1 Olağanüstü hâl tedbirleri ve devam ettirme yükü**](core_12_forum.md#61-emergency-measures-and-continuation-burden) uyarınca varsayılan süre pencereleridir. Bu sürelerin ötesinde devam için ilgili bölümde belgelenmiş gereklilik gösterilmelidir. Bu Madde daha yavaş bir olağanüstü hâl süresi oluşturmaz.
 
 ### XXVI. Madde: anayasal evrim ve kökleşmeyi önleme

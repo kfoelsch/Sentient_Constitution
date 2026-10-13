@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-18** (*Collective public health, epidemic response, and addiction-informed care*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-18** (*Collective public health, epidemic response, and addiction-informed care*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Read with: **CI-18** (*Collective public health, epidemic response, and addiction-informed care*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7** (*Oversight, assurance, controls, and evidence*).
 
 </details>
@@ -47,7 +47,7 @@ This file is the institutional implementation home for **CI-18** (*Collective pu
 
 *Shared rules live elsewhere.*
 - [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-312-accountability-burden-of-justification-and-constraint-terms) (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**.
-- **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
+- **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*).
 - **CS-7** (*Justice safeguards, restitution, and rehabilitation*) **§11** (*Lived-condition floors, continuity, and re-entry alignment*); Chapter Five [*Emergency and Contingency*](../core_05_band_continuity.md#emergency-and-contingency-constitutional).
 - **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7** (*Oversight, assurance, controls, and evidence*).
 

@@ -238,7 +238,7 @@ flowchart TB
   - مراجعة تجاوز المهل؛ و
   - الانضباط في مكافحة التأخير.
   
-  جداول المهل الافتراضية لكل فئة ومراحل المسار: [CF-11.3.1 نوافذ الأهداف وحدود التوقيت](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). وأمثلة تطبيقية للمجالات: [أمثلة تطبيقية للفصول التاسع إلى الثاني عشر](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  جداول المهل الافتراضية لكل فئة ومراحل المسار: [CF-11.3.1 نوافذ الأهداف وحدود التوقيت](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). وأمثلة تطبيقية للمجالات: [أمثلة تطبيقية للفصول التاسع إلى الثاني عشر](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **استعادة الإخطار والطعن بعد الطوارئ:** تكون الحدود القصوى للفئات نفسها هي المهل الافتراضية لاستعادة الإخطار وإتاحة الطعن بعد احتواء الطوارئ بموجب [**الفصل الثاني عشر §6.1 تدابير الطوارئ وعبء استمرارها**](core_12_forum.md#61-emergency-measures-and-continuation-burden). ويتطلب استمرار التدبير بعد تلك المهل إثبات الضرورة الموثق في ذلك القسم. ولا تنشئ هذه المادة مهلة طوارئ أبطأ.
 
 ### المادة XXVI: التطور الدستوري وعدم التحصين

@@ -21,10 +21,10 @@ Think of a path from system check to remedy. **Forums supervise throughout.** Th
 
 ```mermaid
 flowchart TB
-  C[Certify the system<br/><br/>Chapter Eight] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapter Nine]
+  C[Certify the system<br/><br/>Chapter Nine] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapter Ten]
   A0((A)) --> C
-  S --> E[Effects and remedy<br/><br/>Chapter Ten]
-  E --> F[Forum families<br/><br/>Chapter Twelve]
+  S --> E[Effects and remedy<br/><br/>Chapter Eleven]
+  E --> F[Forum families<br/><br/>Chapter Thirteen]
   F --> A1((A))
   style C fill:none,stroke:#16a34a,color:#ffffff
   style S fill:none,stroke:#db2777,color:#ffffff
@@ -36,16 +36,16 @@ flowchart TB
 
 *Caption: forums supervise the chain; a filed case is not standing by itself.*
 
-1. **Certify the system** — [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)
-   Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **system alignment certification record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A certification record may later supply verified facts to Chapter Nine; it does not assign standing effects.
+1. **Certify the system** — [Chapter Nine](../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+   Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **system alignment certification record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A certification record may later supply verified facts to Chapter Ten; it does not assign standing effects.
 
-2. **Measure standing** — [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (Questions 1–2)
+2. **Measure standing** — [Chapter Ten](../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (Questions 1–2)
    When conduct or harm matters constitutionally, verified facts enter **standing records**. Question 1 asks what happened. Question 2 measures how good or how harmful it was. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) stay on **separate axes** — they never fold into one net score. Rumors, reputations, and dispute stories are not standing.
 
-3. **Apply effects and remedy** — [Chapter Ten](../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (Question 3)
-   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_10_standing_integration.md#41-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter One §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
+3. **Apply effects and remedy** — [Chapter Eleven](../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) (Question 3)
+   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_11_standing_integration.md#41-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter One §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
 
-4. **Forum families supervise** — [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
+4. **Forum families supervise** — [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)
    Forum families decide which track handles a dispute, where a case ordinarily starts, how matters transfer, and how clocks keep remedy from dying in delay. They may open, update, or correct standing records when facts are verified — or set a bad record aside on challenge. They must not be the sole final home for a claim that the same family is biased, captured, or in conflict (**anti-self-judging**). Filing a case alone has no immediate impact on standing.
 
 ## Rights floors that travel with the chain
@@ -53,7 +53,7 @@ flowchart TB
 These floors are already in Chapter Six. This page does not restate them as new duties.
 
 - **[Article XIII-A](../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)** (*Right to Redress and Remedy*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
-- **[Article XVI](../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Chapter Eight is one large audit process under that floor, not the only audit home.
+- **[Article XVI](../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Chapter Nine is one large audit process under that floor, not the only audit home.
 
 ## What this page does not do
 

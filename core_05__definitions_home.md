@@ -11,7 +11,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): reading order and plain-language note</span></strong></summary>
 
-> Plain-language reading note: Read **Chapter One** for high-level values and direction; **Chapters Two through Four** for definition structure, integrity, and verification mechanics; and **Chapter Six** for the foundational **rights** floor, then return to this chapter for term precision in interpretation, audit, and adjudication. (Other chapters, including **Chapter Eleven** *Misconduct* and **Chapter Nine** *Standing*, apply on their own reading paths; they are not a substitute for the Rights Floor in Chapter Six or for definition mechanics in Chapters Two through Four.)
+> Plain-language reading note: Read **Chapter One** for high-level values and direction; **Chapters Two through Four** for definition structure, integrity, and verification mechanics; and **Chapter Six** for the foundational **rights** floor, then return to this chapter for term precision in interpretation, audit, and adjudication. (Other chapters, including **Chapter Twelve** *Misconduct* and **Chapter Ten** *Standing*, apply on their own reading paths; they are not a substitute for the Rights Floor in Chapter Six or for definition mechanics in Chapters Two through Four.)
 
 </details>
 

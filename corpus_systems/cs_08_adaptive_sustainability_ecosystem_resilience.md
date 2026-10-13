@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-8** (*Adaptive sustainability and ecosystem resilience*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-8** (*Adaptive sustainability and ecosystem resilience*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXIV** (*Root Cause Analysis and Adaptive Response*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXIV** (*Root Cause Analysis and Adaptive Response*); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-81-purpose-and-role); [§2](#cs-82-system-health-and-degradation-awareness); [§3](#cs-83-adaptive-allocation-requirement); [§9](#cs-89-self-healing-and-recovery-path-integration).
 - Read with: **CS-8** (*Adaptive sustainability and ecosystem resilience*); **CS-9** (*Resource allocation and funding stewardship*); **CS-5** (*User-facing capability surfaces*); **CS-6** (*Comprehensibility and complexity stewardship*); **Article XIII-F** (*Resilience and Self-Healing Baseline*).
 

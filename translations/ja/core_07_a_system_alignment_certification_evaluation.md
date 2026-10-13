@@ -7,7 +7,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス上の位置（非操作性）：ファイル構造と読み方</span></strong></summary>
 
-> 本ファイルは[英語第七章、A部](../../core_08_a_system_alignment_certification_evaluation.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
+> 本ファイルは[英語第七章、A部](../../core_09_a_system_alignment_certification_evaluation.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_07_a_system_alignment_certification_evaluation.md`](../../core_09_a_system_alignment_certification_evaluation.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **第七章、A部**を含む — 認証**評価**の要件（システムクラス、システム全体の要因、領域評価のフック）。**B部** — 認証記録、フォーラム過程、軌跡の橋、再開 — は [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) にある。
 >
@@ -1125,4 +1125,4 @@ CS-2（*情報の種類と取扱い*）の公益上の可視性に関する既�
 
 **次のファイル（この言語）：** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 
-**拘束力ある原文：** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md)
+**拘束力ある原文：** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md)

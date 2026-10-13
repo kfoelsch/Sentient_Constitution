@@ -13,14 +13,14 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 - **Ch 4:** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 - **Ch 5:** Part A compass — [core_05__definitions_home.md](core_05__definitions_home.md); band files — [core_05_band_oversight.md](core_05_band_oversight.md), [core_05_band_participation.md](core_05_band_participation.md), [core_05_band_accountability.md](core_05_band_accountability.md), [core_05_band_continuity.md](core_05_band_continuity.md), [core_05_band_integrative.md](core_05_band_integrative.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
 - **Ch 6:** [core_06_rights_part_a.md](core_06_rights_part_a.md) through [core_06_rights_part_e.md](core_06_rights_part_e.md)
-- **Ch 7:** [core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
-- **Ch 8:** [core_09_standing_assessment.md](core_09_standing_assessment.md)
-- **Ch 9:** [core_10_standing_integration.md](core_10_standing_integration.md)
-- **Ch 10:** Part A [core_11_a_misconduct_designation.md](core_11_a_misconduct_designation.md); Part B [core_11_b_misconduct_pattern_applications.md](core_11_b_misconduct_pattern_applications.md)
-- **Ch 11:** [core_12_forum.md](core_12_forum.md)
-- **Ch 12:** [core_13_governance.md](core_13_governance.md)
-- **Ch 13–15:** [core_14_non_regression.md](core_14_non_regression.md)
-- **Ch 16:** [core_17_incorporation.md](core_17_incorporation.md)
+- **Ch 8:** [core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+- **Ch 9:** [core_10_standing_assessment.md](core_10_standing_assessment.md)
+- **Ch 10:** [core_11_standing_integration.md](core_11_standing_integration.md)
+- **Ch 11:** Part A [core_12_a_misconduct_designation.md](core_12_a_misconduct_designation.md); Part B [core_12_b_misconduct_pattern_applications.md](core_12_b_misconduct_pattern_applications.md)
+- **Ch 12:** [core_13_forum.md](core_13_forum.md)
+- **Ch 13:** [core_14_governance.md](core_14_governance.md)
+- **Ch 14–15:** [core_15_non_regression.md](core_15_non_regression.md)
+- **Ch 17:** [core_18_incorporation.md](core_18_incorporation.md)
 - **Adopted corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
 
 ## Open Backlog
@@ -31,9 +31,9 @@ Evaluation outcome: do not add independent process certification or process clas
 
 - [x] **Review CS-3 §7.10** (component findings under the system's class). Lane C: `make regression`, readability, obligation diff in `evidence/2026-10-04/`. Decide whether the §7.1 pointer and the §7 table row stay. **Decided 2026-10-07:** keep the §7.1 pointer and the §7 table row as they are; `make regression` green.
 - [x] **Define Process in Chapter Five** with a test (placeholder tests in `project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md`). Prerequisite for B. Institution has no standalone definition either. **Drafted 2026-10-07** in `core_05_band_continuity.md` (#### Process; three-part test; held to its system's class; no separate certification). Awaiting author review; `make regression` green. Translations not yet synced. **Institution** drafted the same day (`#### Institution`, same band).
-- [ ] **Name B** so it is neither "system alignment certification" nor the Chapter Twelve §5 forum-to-forum sense.
+- [ ] **Name B** so it is neither "system alignment certification" nor the Chapter Thirteen §5 forum-to-forum sense.
 - [ ] **Check `MINIMUM_VIABLE_ADOPTER.md` §4.1** against `adoption/ANNOUNCEMENT.md` so the outline never reads as a promised feature.
-- [ ] **B needs a core proposal (Lane D)** touching Chapter Eight Part B §8.1 (formerly §6.1, earlier §11.1) and Chapter Twelve; Chapter Sixteen §1 heightened review applies. Hold until after the announcement.
+- [ ] **B needs a core proposal (Lane D)** touching Chapter Nine Part B §8.1 (formerly §6.1, earlier §11.1) and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. Hold until after the announcement.
 - [ ] **Connect to the process-ownership draft:** its floor-touching test is reused as a B guardrail, and its use of "certification" for forum-to-forum routing is part of the naming collision.
 
 ### 2026-10-01 — Chapter One structure pass: done, and open follow-ups
@@ -80,15 +80,15 @@ Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editin
 
 ### 2026-09-30 — Process, system, institution: potential follow-ups
 
-**Potential, not committed.** Idea under review: add a second axis, *what is being governed* (a process, a system, or an institution), alongside the two governance layers in [Preamble §3.3](core_00_preamble.md#33-governance-layers), which stay as they are. Goals: clarify how principles apply to governance and processes; tell when a problem is a process, a system, or an institution; clarify roles and support SOD; help reorganize the principles. First step done: [the crosswalk](project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) tags 67 Chapter One and Chapter Seven items. Result: the axis sorts cleanly (no item needed all three), Process and Institution overlap most, and eight items are values that bind every object. The items below are options, not decisions.
+**Potential, not committed.** Idea under review: add a second axis, *what is being governed* (a process, a system, or an institution), alongside the two governance layers in [Preamble §3.3](core_00_preamble.md#33-governance-layers), which stay as they are. Goals: clarify how principles apply to governance and processes; tell when a problem is a process, a system, or an institution; clarify roles and support SOD; help reorganize the principles. First step done: [the crosswalk](project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) tags 67 Chapter One and Chapter Eight items. Result: the axis sorts cleanly (no item needed all three), Process and Institution overlap most, and eight items are values that bind every object. The items below are options, not decisions.
 
 - [ ] **Potential: review the crosswalk tags.** Second reader on the 22 medium and 3 low confidence tags. Read §12.1 and §12.2 in full (tagged from keyword lists).
-- [ ] **Potential: extend the crosswalk** to the 50 third-level subsections in Chapter One (§X.Y.Z, not tagged in the first pass), the Preamble, Chapter Five definitions, Chapters Two to Six, and Chapter Eight onward, so any reorganizing decision rests on the whole corpus.
+- [ ] **Potential: extend the crosswalk** to the 50 third-level subsections in Chapter One (§X.Y.Z, not tagged in the first pass), the Preamble, Chapter Five definitions, Chapters Two to Six, and Chapter Nine onward, so any reorganizing decision rests on the whole corpus.
 - [ ] **Potential: Process definition with a test** next to the existing System definition in Chapter Five. Reconcile the Institution test with any existing Institution definition first (none found by heading search).
 - [ ] **Potential: decide index or restructure.** Current lean: index and routing aid only, a primary-object tag plus a "binds all objects" tag for values and a "meta" tag for the reading rules. Decided 2026-10-01: relocations are done before the pre-release announcement, not after. The crosswalk is planning input for them, not a reason to wait.
 - [ ] **Potential: gather the scattered Process principles.** Ten sit outside Chapter One Part B: six in Part A (§§2.3, 3.3, 3.4, 4.2, 5.1, 5.2) and four in Part C (§§10.3, 10.5, 11.2, 12.3). Consider a reader-guide cluster before any move.
-- [ ] **Potential: process-ownership dispute rule** for [Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Draft with owner envelope, floor-touching test, change record and contest window, lead-forum routing, and no self-judging by the rule-writer: [project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md](project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md). Needs the steward role names mapped, and the six open questions in the draft answered.
-- [ ] **Potential: change-record template** for the implementation corpus near **CI-6**, with floor-touching self-assessment, contest window scaled to the Chapter Twelve §6 tiers, and an emergency-change sunset.
+- [ ] **Potential: process-ownership dispute rule** for [Chapter Thirteen §3](core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Draft with owner envelope, floor-touching test, change record and contest window, lead-forum routing, and no self-judging by the rule-writer: [project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md](project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md). Needs the steward role names mapped, and the six open questions in the draft answered.
+- [ ] **Potential: change-record template** for the implementation corpus near **CI-6**, with floor-touching self-assessment, contest window scaled to the Chapter Thirteen §6 tiers, and an emergency-change sunset.
 - [ ] **Potential: narrow third question in Preamble §3.3.** Only if the dispute rule shows a real gap: who may change the operating procedures of an authorized system, with what notice and contest. Do not call it "process governance" (the forum layer, `cf_00`, already uses that phrase).
 - [ ] **Potential: chart orientation follow-through.** **VIS-CHART-ORIENT-04** (top to bottom, `flowchart TB`) is now in [doc_architecture.md](doc_architecture.md). Open: convert the five remaining `LR` charts when next edited (the print pack copy regenerates from its source); add a grep-based audit and a `make` target so the rule is checked, not only stated; and confirm the "convert on next edit" policy is the one you want.
 
@@ -103,8 +103,8 @@ Article XIII-B is now **Right to Redress and Remedy** (`#article-xiii-b-right-to
 
 Supersedes the 2026-09-27 widget work (archived in [TODO_RESOLVED_2026-10-01.md](archive/TODO_RESOLVED_2026-10-01.md)). The Owner / Forbidden move / Clock boxes are steward routing, not constitutional text, so they are gone from the core. Each Forbidden move was checked against its owning section (see `steward_box_review.md`): where the principle was already stated it was dropped, and the four gaps got one sentence each. The next step for each situation now lives on the steward cards (`implementation/STEWARD_ENTRY_DOORS.md`) and in `implementation/steward_owner_clock_index.json` (`steward_card`, replacing `operative_box`).
 
-- [ ] **Translations.** Ten files under `translations/` still carry the boxes and the old Chapter Eight §14.2, XIII-A, Chapter Nine, and Chapter Twelve text.
-- [ ] **Chapter Ten §9 (optional).** Consider stating that evidence preservation does not wait for a filed case.
+- [ ] **Translations.** Ten files under `translations/` still carry the boxes and the old Chapter Nine §14.2, XIII-A, Chapter Ten, and Chapter Thirteen text.
+- [ ] **Chapter Eleven §9 (optional).** Consider stating that evidence preservation does not wait for a filed case.
 - [ ] **Forbidden moves in the index.** `forbidden_move` and `conflict_rule` stay in the index only; the `door` command still omits them. Decide whether the cards should show them.
 
 ### 2026-09-17 — Conceptual overview and corpus alignment follow-ups
@@ -116,16 +116,16 @@ Source: [conceptual overview and corpus alignment review](evidence/2026-09-16/co
 
 Build on completed R1–R3 and I2–I5 below; their landed safeguards, adopter profiles, calibration reference, and vignettes are inputs, not proof of successful delivery. Coordinate human evidence with the existing open I1 task. Filing this backlog does not close the separate P1 stress-pack validation.
 
-- [ ] **Severe-designation boundary.** Test a failed good-faith administrator, a dissident reformer, and an organized captor against Chapter Eleven's effects-based criteria and safeguards. Include mass protest, investigative reporting, and costly legitimate contestation against the info-sphere flooding rule. Record whether hostile enforcement can defeat the protected boundaries; do not assume every criterion requires malicious intent.
+- [ ] **Severe-designation boundary.** Test a failed good-faith administrator, a dissident reformer, and an organized captor against Chapter Twelve's effects-based criteria and safeguards. Include mass protest, investigative reporting, and costly legitimate contestation against the info-sphere flooding rule. Record whether hostile enforcement can defeat the protected boundaries; do not assume every criterion requires malicious intent.
 - [ ] **LEQU reliability and substrate neutrality.** Reconcile or justify the 80-year denominator in digital examples W5/W6 of the [calibration reference](implementation/LEQU_CALIBRATION_REFERENCE.md). Have independent evaluators assess the same verified facts; publish disagreement, uncertainty handling, and sensitivity near serious-misconduct thresholds, including duration, vulnerability, ecological effects, and identity-continuity assumptions. This extends I3 beyond publishing worked examples.
 - [ ] **Affordable, accessible remedy capacity.** Apply the existing [minimum viable adopter profiles](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) to a small mutual-aid group and claimants who are poor, exhausted, disabled, unfamiliar, or unpopular. Demonstrate independent seats, usable challenge, and timely restoration under funding pressure, including the exceptions to ordinary lock/remedy coupling. Record actual staffing, cost, delay, and claimant burden.
-- [ ] **Revisability under institutional capture.** Demonstrate a protected route to replace a failed institution when the incumbent calls reform “regression” and controls relevant funding or records. Test Article XXVI and Chapter Fourteen together; identify who independently decides and how the route works without incumbent agreement.
+- [ ] **Revisability under institutional capture.** Demonstrate a protected route to replace a failed institution when the incumbent calls reform “regression” and controls relevant funding or records. Test Article XXVI and Chapter Fifteen together; identify who independently decides and how the route works without incumbent agreement.
 - [ ] **Eight ordinary-life and failure cases.** Complete and document the eight exercises in the review's “The world I would endorse” section: access without a record; affordable mutual-aid recognition; challenge to a powerful institution; feasible restoration and regained political voice; protection before sentience adjudication; evaluator disagreement; missed clocks, partition, or implicated reviewers; and archival without reputation resurfacing. Reuse existing sittings where they supply evidence, identify remaining gaps, and cross-reference the design tests above. Assess whether a sentient can live privately, dissent, and recover without permanent profiling.
 
 
 ### 2026-09-09 — AI Evaluation Follow-Ups (Claude Fable 5.1 whole-corpus read)
 
-Source: whole-corpus evaluation on 2026-09-09 (core read directly; Chapters Eight–Twelve and adopted-implementation layers via delegated reads). Companion evaluation artifact: [evaluation/results/2026-08-14_claude-fable-5.md](evaluation/results/2026-08-14_claude-fable-5.md) (earlier sitting; overlapping findings not repeated here). These are process-aid notes; they cannot narrow core text.
+Source: whole-corpus evaluation on 2026-09-09 (core read directly; Chapters Nine–Thirteen and adopted-implementation layers via delegated reads). Companion evaluation artifact: [evaluation/results/2026-08-14_claude-fable-5.md](evaluation/results/2026-08-14_claude-fable-5.md) (earlier sitting; overlapping findings not repeated here). These are process-aid notes; they cannot narrow core text.
 
 #### Major reservations (structural; each needs a design answer, not only a text fix)
 

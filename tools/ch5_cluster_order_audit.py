@@ -120,7 +120,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
         "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-        "Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice",
+        "Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice",
     ],
     "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",

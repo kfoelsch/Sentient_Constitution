@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Read with: **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-12** (*Cross-institution coordination and escalation*); **CI-11** (*Resource stewardship and incentive integrity*); **CI-14** (*Transitional governance and institutional evolution*); **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
 
 </details>
@@ -38,10 +38,10 @@ This file is the institutional implementation home for **CI-13** (*Institutional
 
 **Quick orientation**
 - **When dissolution review is mandatory** — institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review.
-- **When alignment-supervision review is mandatory** — institutions that operate, supervise, hold a [Charter](../core_05_band_continuity.md#charter) over, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Twelve**.
+- **When alignment-supervision review is mandatory** — institutions that operate, supervise, hold a [Charter](../core_05_band_continuity.md#charter) over, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Thirteen**.
 - **Who keeps the official record** — the authoritative consequence record is an **Integrity forum lead record** under **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*), not an institution-only file controlled by the subject institution.
 - **What the institution still must do** — name a consequence liaison, submit required materials on deadline, mirror the forum-held record without rewrite, propose continuity transfer for forum approval, and publish the personal-accountability boundary.
-- **What dissolution is not** — not a substitute for anti-constitutional-misconduct designation under **Chapter Eleven** or ordinary personal accountability under constitutional law.
+- **What dissolution is not** — not a substitute for anti-constitutional-misconduct designation under **Chapter Twelve** or ordinary personal accountability under constitutional law.
 - **Read with** — **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for lead-record custody and alignment rulings; **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) where forum performance thresholds trigger **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) consequences; **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity triggers and routing; **CI-12** (*Cross-institution coordination and escalation*) when cross-institution escalation is needed; **CI-11** (*Resource stewardship and incentive integrity*) for stewardship and malus/clawback interfaces; **CI-14** (*Transitional governance and institutional evolution*) for transitional governance during structural change.
 *In plain terms: violating constitutional obligations is not an administrative annoyance you can paper over forever. Lesser sanctions come first when they can work — but if an institution resists realignment, hides failures, or keeps harming sentients after a fair chance to fix things, the consequence path must escalate with continuity safeguards so services, records, and challenge rights do not disappear in the wreckage. The institution under review cannot be the only place those facts are written down.*
 
@@ -52,11 +52,11 @@ The authoritative consequence record for dissolution review, alignment-supervisi
 **What each institution must name and maintain locally**
 These are cooperation and implementation duties only:
 - a designated **consequence liaison** — not the sole record owner or final arbiter of trigger facts;
-- duty to **open or join** dissolution review or alignment-supervision review promptly when a lawful trigger fires, including when routed from **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), or a **Chapter Twelve** Integrity forum ruling;
+- duty to **open or join** dissolution review or alignment-supervision review promptly when a lawful trigger fires, including when routed from **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), or a **Chapter Thirteen** Integrity forum ruling;
 - duty to **submit** required materials, cure reports, sanction responses, and continuity proposals to the lead Integrity forum on published deadlines;
 - duty to **mirror publication** of the forum-held official record without selective omission, delay, or rewrite;
 - a **proposed continuity-transfer plan** for forum review, adoption, or amendment before receivership, supervised operation, or successor handoff proceeds; and
-- a published **personal-accountability boundary** clarifying that institutional dissolution or disbandment does not replace anti-constitutional-misconduct designation under **Chapter Eleven** or ordinary constitutional accountability for responsible sentients.
+- a published **personal-accountability boundary** clarifying that institutional dissolution or disbandment does not replace anti-constitutional-misconduct designation under **Chapter Twelve** or ordinary constitutional accountability for responsible sentients.
 **What the Integrity forum lead record must name**
 Official custody under **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) must include, at minimum:
 - dissolution-review or alignment-supervision entry order and triggering facts;
@@ -67,7 +67,7 @@ Official custody under **CF-7** (*Integrity safeguards, anti-capture operations,
 - approved continuity-transfer contacts, record custody, and service handoff milestones;
 - referrals to **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-12** (*Cross-institution coordination and escalation*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-14** (*Transitional governance and institutional evolution*), **CF-9** (*Independent investigative service and prosecution interface*), or constitutional forums where merits, enforcement, or structural remedy are implicated; and
 - notice and publication duties sufficient for affected stakeholders to understand status and challenge pathways.
-Where verified realignment resistance satisfies **Chapter Eleven** criteria, including material rollback effect, causally significant blocked correction, **Sustained High-Gravity Pattern**, or operative nullification, anti-constitutional-misconduct designation remains under **Chapter Eleven** and its safeguards.
+Where verified realignment resistance satisfies **Chapter Twelve** criteria, including material rollback effect, causally significant blocked correction, **Sustained High-Gravity Pattern**, or operative nullification, anti-constitutional-misconduct designation remains under **Chapter Twelve** and its safeguards.
 
 ---
 

@@ -21,7 +21,7 @@ DRAFT: set[str] = {
     *{f"RS-XD-{i:03d}" for i in range(1, 6)},
     "RS-AUTO-001",
     "RS-AUTO-002",
-    "RS-CH7-TIERED-OFFENSE-004",
+    "RS-CH8-TIERED-OFFENSE-004",
     "RS-BMK-003",
 }
 
@@ -89,9 +89,9 @@ def all_scenarios() -> list[tuple[str, str]]:
     rows: list[tuple[str, str]] = []
     for sid in _ch1_ids():
         rows.append((sid, "draft" if sid in DRAFT else "pass"))
-    for sid in [f"RS-CH7-VALIDITY-00{i}" for i in (1, 2, 3)]:
+    for sid in [f"RS-CH8-VALIDITY-00{i}" for i in (1, 2, 3)]:
         rows.append((sid, "draft" if sid in DRAFT else "pass"))
-    for sid in [f"RS-CH7-TIERED-OFFENSE-00{i}" for i in (1, 2, 3, 4)]:
+    for sid in [f"RS-CH8-TIERED-OFFENSE-00{i}" for i in (1, 2, 3, 4)]:
         rows.append((sid, "draft" if sid in DRAFT else "pass"))
     for sid in [f"RS-CH5-GW-00{i}" for i in (1, 2, 3, 4)]:
         rows.append((sid, "draft" if sid in DRAFT else "pass"))
@@ -150,7 +150,7 @@ def _snapshot_block() -> str:
 def _seed(sid: str) -> str:
     return f"""### Scenario ID: {sid}
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `{sid}`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Nine** classification vs **Chapter Eleven** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `{sid}`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** classification vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 """
 
@@ -184,7 +184,7 @@ def emit() -> str:
         "- **7E** — Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)",
         "- **7J** — Self-healing (`RS-CH1-SELF-HEAL-*`)",
         "- **Ch5-GW** — Chapter Five definition gravity well (`RS-CH5-GW-*`)",
-        "- **Ch7** — Validity and tiered offense (`RS-CH7-*`)",
+        "- **Ch8** — Validity and tiered offense (`RS-CH8-*`)",
         "- **Enforcement** — Implementation packets (`RS-AC-*`, `RS-VOICE-*`, `RS-XXV-*`, `RS-SL-*`)",
         "",
         "## 4) Regression Recording Matrix",
@@ -223,7 +223,7 @@ def emit() -> str:
             "",
             "### 7E) Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)",
             "",
-            "Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 12–13** vs **Chapter Nine** classification authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.",
+            "Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 13–14** vs **Chapter Ten** classification authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.",
             "",
             "## 8) (Reserved)",
             "",

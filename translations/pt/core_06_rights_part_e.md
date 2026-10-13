@@ -242,7 +242,7 @@ Este Artigo estabelece o piso contra atrasos na resolução de problemas constit
   - revisão de atrasos; e
   - disciplina contra atrasos.
   
-  Janelas padrão por nível e tabelas de etapas: [CF-11.3.1 Janelas-alvo e pisos de prazo](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Exemplos de aplicação por domínio: [Vinhetas de aplicação dos Capítulos Nove a Doze](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  Janelas padrão por nível e tabelas de etapas: [CF-11.3.1 Janelas-alvo e pisos de prazo](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Exemplos de aplicação por domínio: [Vinhetas de aplicação dos Capítulos Nove a Doze](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **Restabelecimento e contestação após emergência:** Os mesmos limites máximos por nível são as janelas padrão para restabelecer notificação e contestação após contenção emergencial nos termos de [**Capítulo Doze §6.1 Medidas de emergência e ônus de continuidade**](core_12_forum.md#61-emergency-measures-and-continuation-burden). A continuidade além dessas janelas exige a demonstração documentada de necessidade prevista nessa seção. Este Artigo não cria um prazo emergencial mais lento.
 
 ### Artigo XXVI: evolução constitucional e não entrincheiramento

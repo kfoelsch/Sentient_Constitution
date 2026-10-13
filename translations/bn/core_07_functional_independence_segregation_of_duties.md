@@ -4,12 +4,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">করপাসে অবস্থান (অপারেশনাল নয়): ফাইলের কাঠামো ও পাঠের নিয়ম</span></strong></summary>
 
-> এই ফাইলটি **Sentient Constitution-এর অংশ** এবং একটিমাত্র দলিল হিসেবে পড়া অন্যান্য নম্বরযুক্ত `core_*` ফাইলের **সঙ্গে একত্রে পড়লেই কেবল বাধ্যতামূলক**। এতে রয়েছে **অধ্যায় সাত**: কার্যগত স্বাধীনতা ও দায়িত্ব পৃথকীকরণের আন্তঃপ্রক্রিয়া ন্যূনতম মান। এটি অধ্যায় ছয়ের অধিকার-ভিত্তির পরে এবং [অধ্যায় আটের সিস্টেম-সামঞ্জস্য প্রত্যয়ন](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index) দিয়ে শুরু হওয়া সাংবিধানিক প্রক্রিয়া-অধ্যায়গুলোর আগে আসে।
+> এই ফাইলটি **Sentient Constitution-এর অংশ** এবং একটিমাত্র দলিল হিসেবে পড়া অন্যান্য নম্বরযুক্ত `core_*` ফাইলের **সঙ্গে একত্রে পড়লেই কেবল বাধ্যতামূলক**। এতে রয়েছে **অধ্যায় সাত**: কার্যগত স্বাধীনতা ও দায়িত্ব পৃথকীকরণের আন্তঃপ্রক্রিয়া ন্যূনতম মান। এটি অধ্যায় ছয়ের অধিকার-ভিত্তির পরে এবং [অধ্যায় আটের সিস্টেম-সামঞ্জস্য প্রত্যয়ন](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) দিয়ে শুরু হওয়া সাংবিধানিক প্রক্রিয়া-অধ্যায়গুলোর আগে আসে।
 >
 > - **সাংবিধানিক মালিকানা:** বস্তুগতভাবে বাধ্যতামূলক কাজের জন্য পৃথক আসনের ন্যূনতম মান; প্রতিটি [বস্তুগতভাবে বাধ্যতামূলক কাজের নথি](../../core_05_band_accountability.md#materially-binding-act-record)-র সর্বজনীন ন্যূনতম বিষয়বস্তু; কর্তা এবং তার [বস্তুগত নিয়ন্ত্রণ-রেখা](../../core_05_band_accountability.md#material-control-line) থেকে স্বাধীনতা; প্রকাশিত পথ ও ভূমিকা-বিন্যাস; স্বার্থের সংঘাত, শূন্যপদ, বিকল্প নিয়োগ এবং ভুল আসনে প্রেরণ; আনুপাতিক সম্মিলিত ব্যবস্থাপনা; দায় আরোপযোগ্য হস্তান্তর; এবং পরবর্তী প্রতিটি সাংবিধানিক প্রক্রিয়ার প্রয়োগযোগ্য ন্যূনতম স্বাধীনতার শর্ত।
 > - **নীতিস্তরের উৎস:** [অধ্যায় এক §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) শাসনব্যবস্থাকে কার্যগত স্বাধীনতা বজায় রাখতে বলে এবং কার্যকর আসন-স্থাপত্যের নিয়ম এখানে নির্দেশ করে।
 > - **বাস্তবায়নের মালিক:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), এবং [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) আসন স্থাপন ও কার্যকর করে। এগুলো আরও কঠোর হতে পারে এবং সীমাবদ্ধ বিশেষ-ক্ষমতাসম্পন্ন আসনের ধরন যোগ করতে পারে; তবে এই অধ্যায়কে সংকুচিত করতে পারে না।
-> - **প্রক্রিয়া-নির্দিষ্ট প্রয়োগ পরবর্তী অধ্যায়ে থাকবে:** অধ্যায় আট এই ন্যূনতম মান সিস্টেম-সামঞ্জস্য প্রত্যয়নে প্রয়োগ করে; [অধ্যায় নয় §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties) মর্যাদা-নথিতে প্রয়োগ করে; অধ্যায় বারো এবং [corpus_forum.md](../../corpus_forum.md) ফোরাম-প্রক্রিয়ায় প্রয়োগ করে। ওই অধ্যায়গুলো বিষয় অনুসারে সুরক্ষা যোগ করতে পারে; দুর্বলতর বিকল্প তৈরি করতে পারে না।
+> - **প্রক্রিয়া-নির্দিষ্ট প্রয়োগ পরবর্তী অধ্যায়ে থাকবে:** অধ্যায় আট এই ন্যূনতম মান সিস্টেম-সামঞ্জস্য প্রত্যয়নে প্রয়োগ করে; [অধ্যায় নয় §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) মর্যাদা-নথিতে প্রয়োগ করে; অধ্যায় বারো এবং [corpus_forum.md](../../corpus_forum.md) ফোরাম-প্রক্রিয়ায় প্রয়োগ করে। ওই অধ্যায়গুলো বিষয় অনুসারে সুরক্ষা যোগ করতে পারে; দুর্বলতর বিকল্প তৈরি করতে পারে না।
 >
 > পাঠের ক্রম: §1 উদ্দেশ্য, পরিধি ও মালিকানার সীমানা → §2 চার-আসনের সাংবিধানিক ন্যূনতম → §3 স্বাধীনতা ও সংঘাত → §4 ভুল আসনে প্রেরণ → §5 প্রকাশিত বিন্যাস ও বিকল্প → §6 আনুপাতিক মাত্রায় প্রয়োগ → §7 জরুরি অবস্থা → §8 কাজের নথি ও দায় আরোপযোগ্য হস্তান্তর → §9 পরবর্তী প্রক্রিয়ায় সম্পর্ক।
 
@@ -20,7 +20,7 @@
 
 - পূর্বসূত্র: [সাংবিধানিক চতুষ্টয়](../../core_00_preamble.md#constitutional-tetrad) — বিশেষত **তদারকি** ও **জবাবদিহি**; [বস্তুগত স্বার্থ](../../core_00_preamble.md#material-stake); [অধ্যায় এক §17.1 যৌথ তত্ত্বাবধানের মান](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন, অধ্যায় এক §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [অনুচ্ছেদ XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)।
 - উপধারা: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes)।
-- পরবর্তী: [অধ্যায় আট](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [অধ্যায় নয়](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [অধ্যায় বারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [অধ্যায় তেরো](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); উপরে উল্লিখিত নির্দিষ্ট বাস্তবায়ন-পাঠ।
+- পরবর্তী: [অধ্যায় আট](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [অধ্যায় নয়](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় বারো](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [অধ্যায় তেরো](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); উপরে উল্লিখিত নির্দিষ্ট বাস্তবায়ন-পাঠ।
 - সঙ্গে পড়ুন: [অসামঞ্জস্য শনাক্তকরণ, অধ্যায় এক §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*বহুপক্ষীয় শনাক্তকরণ ও পর্যালোচনা*); [দায় আরোপযোগ্য কাজ](../../core_05_band_accountability.md#attributable-action); [দায়-আরোপের অখণ্ডতা](../../core_05_band_accountability.md#attribution-integrity); [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability); [আপত্তিযোগ্যতা](../../core_05_band_accountability.md#contestability); [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality)।
 
 </details>
@@ -218,7 +218,7 @@ flowchart TB
 
 - পূর্বসূত্র: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [স্বচ্ছতা](../../core_05_band_oversight.md#transparency); [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability)।
 - পরবর্তী: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*কার্যগত পৃথকীকরণ-পথ*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*অনুমোদিত ভূমিকা ও জবাবদিহি-শৃঙ্খল*); অধ্যায় আট ও নয়ের নথি।
-- সঙ্গে পড়ুন: [সনদ](../../core_05_band_continuity.md#charter) এবং [অধ্যায় তেরো §5](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)।
+- সঙ্গে পড়ুন: [সনদ](../../core_05_band_continuity.md#charter) এবং [অধ্যায় তেরো §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution)।
 
 </details>
 
@@ -244,7 +244,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">সূত্র-অনুসরণ</span></strong></summary>
 
 - পূর্বসূত্র: [§2](#2-four-seat-constitutional-floor); [বস্তুগত স্বার্থ](../../core_00_preamble.md#material-stake); [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity); [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality)।
-- পরবর্তী: [অধ্যায় নয় §3.7](../../core_09_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*শ্রেণি-অনুপাতে পথের কর্মী বিন্যাস ও দক্ষতার পুনরাবৃত্তি*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*কার্যগত পৃথকীকরণ-পথ*)।
+- পরবর্তী: [অধ্যায় নয় §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*শ্রেণি-অনুপাতে পথের কর্মী বিন্যাস ও দক্ষতার পুনরাবৃত্তি*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*কার্যগত পৃথকীকরণ-পথ*)।
 - সঙ্গে পড়ুন: [এড়ানো সম্ভব এমন ভার](../../core_05_band_continuity.md#avoidable-burden) এবং [অপমানজনক প্রক্রিয়া-প্রতিরোধ, অধ্যায় এক §3.3](../../core_01_a_values_principles.md#33-anti-degrading-process)।
 
 </details>
@@ -274,7 +274,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-অনুসরণ</span></strong></summary>
 
-- পূর্বসূত্র: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [জরুরি ব্যবস্থা ও অব্যাহত রাখার ভার, অধ্যায় বারো §6.1](../../core_12_forum.md#61-emergency-measures-and-continuation-burden); [ডিফল্ট অন্তর্বর্তী অবস্থান](../../core_01_b_interaction_interpretation.md#default-interim-posture)।
+- পূর্বসূত্র: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [জরুরি ব্যবস্থা ও অব্যাহত রাখার ভার, অধ্যায় বারো §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [ডিফল্ট অন্তর্বর্তী অবস্থান](../../core_01_b_interaction_interpretation.md#default-interim-posture)।
 - পরবর্তী: নির্দিষ্ট বাস্তবায়ন-পাঠে ঘটনা, নিয়ন্ত্রণ, প্রকাশ, অব্যাহত রাখা ও ঘটনা-পরবর্তী পর্যালোচনা প্রক্রিয়া।
 - সঙ্গে পড়ুন: [সময়ানুবর্তিতা](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [প্রমাণ সংরক্ষণ](../../core_05_band_oversight.md#evidence-preservation), এবং [CI-4.6 আসন তালিকা — প্রক্রিয়া-ভূমিকার আদর্শরূপ ও অপারেশনাল সীমা](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment)।
 
@@ -350,7 +350,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">সূত্র-অনুসরণ</span></strong></summary>
 
 - পূর্বসূত্র: [§1](#1-purpose-scope-and-owner-boundary) থেকে [§8](#8-act-records-and-attributable-handoffs)।
-- পরবর্তী: [অধ্যায় আট](../../core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-reading-index); [অধ্যায় নয়](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement); [অধ্যায় বারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [অধ্যায় তেরো](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)।
+- পরবর্তী: [অধ্যায় আট](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [অধ্যায় নয়](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় বারো](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [অধ্যায় তেরো](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)।
 - সঙ্গে পড়ুন: [কর্তৃত্বের স্তর ও অভ্যন্তরীণ শ্রেণিবিন্যাস](../../core_05_band_integrative.md#owner-non-relocation) এবং [প্রস্তাবনার মালিকানা-তালিকা](../../core_00_preamble.md#4-principles-definitions-and-rights)।
 
 </details>
@@ -379,4 +379,4 @@ flowchart TB
 
 **পূর্ববর্তী ফাইল:** [core_05_band_performance.md](../../core_05_band_performance.md)
 
-**পরবর্তী ফাইল:** [core_08_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
+**পরবর্তী ফাইল:** [core_08_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)

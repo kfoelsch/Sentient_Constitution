@@ -55,12 +55,12 @@ def conv(s):
     return s
 
 FULL_FILES = {
-    "core_08_a_system_alignment_certification_evaluation.md": set(),
-    "core_08_b_system_alignment_certification_record_process.md": set(),
-    "core_08_system_alignment_certification.md": set(),
+    "core_09_a_system_alignment_certification_evaluation.md": set(),
+    "core_09_b_system_alignment_certification_record_process.md": set(),
+    "core_09_system_alignment_certification.md": set(),
     "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md": set(),
     "corpus_systems/cs_03_a_system_classification_machinery.md": {454},
-    "core_12_forum.md": {251},
+    "core_13_forum.md": {251},
 }
 LINE_FILES = {
     "core_05_band_continuity.md": set(range(1, 561)),
@@ -69,7 +69,7 @@ LINE_FILES = {
     "core_05_band_oversight.md": {791},
     "core_06_rights_part_c.md": {1028},
     "core_00_preamble.md": {280, 373, 382},
-    "core_10_standing_integration.md": {369, 372, 503},
+    "core_11_standing_integration.md": {369, 372, 503},
     "corpus_forum/cf_00_registry_and_reading_rules.md": {64, 66},
     "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md": {242},
     "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md": {76},

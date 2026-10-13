@@ -14,7 +14,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH8 = ROOT / "core_08_a_system_alignment_certification_evaluation.md"
+CH8 = ROOT / "core_09_a_system_alignment_certification_evaluation.md"
 
 # Section heading regex -> logical key (physical reorder uses these keys)
 SECTION_HEADING = re.compile(
@@ -340,8 +340,8 @@ def build_link_ref_table() -> list[tuple[str, str]]:
     for old, new in ANCHOR_PRIMARY.items():
         pairs.append(
             (
-                f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{old}",
-                f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{new}",
+                f"core_09_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{old}",
+                f"core_09_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{new}",
             )
         )
     # Legacy §5B style links still pointing at old slugs
@@ -378,8 +378,8 @@ def build_link_ref_table() -> list[tuple[str, str]]:
     for old, new in legacy:
         pairs.append(
             (
-                f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation{old}",
-                f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation{new}",
+                f"core_09_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation{old}",
+                f"core_09_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation{new}",
             )
         )
     pairs.sort(key=lambda x: len(x[0]), reverse=True)

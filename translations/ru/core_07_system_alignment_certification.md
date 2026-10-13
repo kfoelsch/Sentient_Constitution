@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Место в корпусе (неоперативное): структура файла и правила чтения</span></strong></summary>
 
-> Этот файл — **пилот читательского языка** [указателя чтения английской Главы седьмой](../../core_08_system_alignment_certification.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
+> Этот файл — **пилот читательского языка** [указателя чтения английской Главы седьмой](../../core_09_system_alignment_certification.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_07_system_alignment_certification.md`](../../core_09_system_alignment_certification.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
 >
 > **Глава седьмая** разделена на два связывающих файла, которые читаются как один инструмент:
 >
@@ -39,4 +39,4 @@
 
 **Следующий файл (на этом языке):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**Связывающий оригинал:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)
+**Связывающий оригинал:** [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md)

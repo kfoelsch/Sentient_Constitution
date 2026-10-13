@@ -137,7 +137,7 @@ def placement_widget(layer: str, title: str, ident: str | None, phrase: str) -> 
         "",
         f"> This file is **binding incorporated implementation text** where "
         f"[`{meta['wrapper']}`](../{meta['wrapper']}) is incorporated under "
-        f"[Chapter Seventeen](../core_17_incorporation.md). It must satisfy the "
+        f"[Chapter Eighteen](../core_18_incorporation.md). It must satisfy the "
         f"Sentient Constitution and does not override or narrow it. {holds}",
         ">",
         f"> Start at the [{meta['wrapper_label']}](../{meta['wrapper']}) for reading "

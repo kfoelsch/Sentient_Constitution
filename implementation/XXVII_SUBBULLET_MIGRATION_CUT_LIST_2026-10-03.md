@@ -1,6 +1,6 @@
 # Article XXVII sub-bullet migration — cut list (2026-10-03)
 
-**Status:** Applied (2026-10-03). Resolutions: the incentive-alignment carve-out moved to Chapter Ten §5.4 (*Misaligned rewards — Transition exception*); preservation mechanics moved to new **CS-10.8**; the core names only class or tier, misalignment, and ease of alignment and points to **CS-10.7** and **CI-14.5** for the rest; **Gate** and **Gate Criteria** were added to Chapter Five (Oversight band). Process support for the Article XXVII slimming pass; it cannot narrow `core_06_rights_part_e.md` or any incorporated corpus file.
+**Status:** Applied (2026-10-03). Resolutions: the incentive-alignment carve-out moved to Chapter Eleven §5.4 (*Misaligned rewards — Transition exception*); preservation mechanics moved to new **CS-10.8**; the core names only class or tier, misalignment, and ease of alignment and points to **CS-10.7** and **CI-14.5** for the rest; **Gate** and **Gate Criteria** were added to Chapter Five (Oversight band). Process support for the Article XXVII slimming pass; it cannot narrow `core_06_rights_part_e.md` or any incorporated corpus file.
 
 ## Purpose
 
@@ -10,7 +10,7 @@ The first slimming pass removed the most obviously operational text from **Artic
 
 A sentence stays in the core text if **a corpus-level edit to it could lower a protection for someone**, or if it states who may be restricted, what may be taken, or what may never be done. A sentence moves if it states **how, how often, who fills in which field, in what format, or by what measure** a floor is carried out.
 
-Why the test matters: incorporated corpus text is binding but must satisfy the Constitution and does not narrow it ([Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)). It is easier to change than Chapter Six text. Moving a floor there would quietly lower its rank.
+Why the test matters: incorporated corpus text is binding but must satisfy the Constitution and does not narrow it ([Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge)). It is easier to change than Chapter Six text. Moving a floor there would quietly lower its rank.
 
 ## Disposition by sub-bullet
 
@@ -105,7 +105,7 @@ Article XXVII-B is already lean. No migration beyond the first pass.
 
 ## Open decisions
 
-1. **Incentive-alignment carve-out.** It exempts shared systems from the Chapter Ten §5.4 reporting and forfeiture rules during approved transition. Options: keep it in **XXVII-A** (current); move it to Chapter Ten §5.4 as a transition exception, with a pointer from **XXVII-A**; or keep the exemption and conditions in Chapter Ten and drop the long "do apply where…" sub-bullet. Recommendation: move it to Chapter Ten §5.4, because that is where the rule it modifies lives.
+1. **Incentive-alignment carve-out.** It exempts shared systems from the Chapter Eleven §5.4 reporting and forfeiture rules during approved transition. Options: keep it in **XXVII-A** (current); move it to Chapter Eleven §5.4 as a transition exception, with a pointer from **XXVII-A**; or keep the exemption and conditions in Chapter Eleven and drop the long "do apply where…" sub-bullet. Recommendation: move it to Chapter Eleven §5.4, because that is where the rule it modifies lives.
 2. **Preservation mechanics.** New **CS-10.8** (recommended) versus **CS-11** (subversion response and reconstitution) versus **CI-7** (evidence).
 3. **Factor lists.** Whether the core should name only the three headline factors (recommended) or keep both full lists.
 4. **Definitions.** Whether to add formal Chapter Five entries for **Gate** and **Gate Criteria**.

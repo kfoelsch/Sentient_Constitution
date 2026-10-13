@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-15** (*Standard records, forms, and evidence artifacts*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-15** (*Standard records, forms, and evidence artifacts*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-15.1 Minimum record set](#cf-151-minimum-record-set); [CF-15.2 Required fields](#cf-152-required-fields).
 - Read with: **CF-15** (*Standard records, forms, and evidence artifacts*); **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*); **CF-12** (*Forum continuity*); **CF-13** (*Fallback operation*); **CF-14** (*Emergency adjudication*); **CF-15.1** (*Minimum record set*); **CF-6** (*Appeal, secondary review, and exhaustion pathways*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-8** (*Forum forensic and analytical support*).
 - Topic routing (primary owner): **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-6** (*Procedure integrity, contestability, and secondary review*).
@@ -94,7 +94,7 @@ Adopting systems may combine compatible forms, but must not merge records in a w
 
 Each standard record must include, proportionate to the action:
 - forum family, chamber or panel, and docket identity;
-- authority invoked, including **Chapter Twelve** routing basis where material;
+- authority invoked, including **Chapter Thirteen** routing basis where material;
 - date, time, responsible role, and any approving or reviewing role;
 - affected parties or affected class, with lawful anonymization where required;
 - scope of action and duration where temporary or restricted;
