@@ -8,66 +8,76 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Current Chapter Map
 
-- **Ch 1:** [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md) (Part A), [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Part B), and [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Part C)
-- **Ch 2–3:** [core_02_definition_structure.md](core_02_definition_structure.md)
+- **Preamble and Ch 1:** [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md) (Part A), [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Part B), and [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Part C)
+- **Ch 2:** [core_02_definition_structure.md](core_02_definition_structure.md)
+- **Ch 3:** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 - **Ch 4:** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 - **Ch 5:** Part A compass — [core_05__definitions_home.md](core_05__definitions_home.md); band files — [core_05_band_oversight.md](core_05_band_oversight.md), [core_05_band_participation.md](core_05_band_participation.md), [core_05_band_accountability.md](core_05_band_accountability.md), [core_05_band_continuity.md](core_05_band_continuity.md), [core_05_band_integrative.md](core_05_band_integrative.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
 - **Ch 6:** [core_06_rights_part_a.md](core_06_rights_part_a.md) through [core_06_rights_part_e.md](core_06_rights_part_e.md)
-- **Ch 8:** [core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
-- **Ch 9:** [core_10_standing_assessment.md](core_10_standing_assessment.md)
-- **Ch 10:** [core_11_standing_integration.md](core_11_standing_integration.md)
-- **Ch 11:** Part A [core_12_a_misconduct_designation.md](core_12_a_misconduct_designation.md); Part B [core_12_b_misconduct_pattern_applications.md](core_12_b_misconduct_pattern_applications.md)
-- **Ch 12:** [core_13_forum.md](core_13_forum.md)
-- **Ch 13:** [core_14_governance.md](core_14_governance.md)
-- **Ch 14–15:** [core_15_non_regression.md](core_15_non_regression.md)
-- **Ch 17:** [core_18_incorporation.md](core_18_incorporation.md)
+- **Ch 7:** [core_07_charters.md](core_07_charters.md)
+- **Ch 8:** [core_08_functional_independence_segregation_of_duties.md](core_08_functional_independence_segregation_of_duties.md)
+- **Ch 9:** reading index [core_09_system_alignment_certification.md](core_09_system_alignment_certification.md); Part A [core_09_a_system_alignment_certification_evaluation.md](core_09_a_system_alignment_certification_evaluation.md); Part B [core_09_b_system_alignment_certification_record_process.md](core_09_b_system_alignment_certification_record_process.md); Part C [core_09_c_system_alignment_certification_illustrations.md](core_09_c_system_alignment_certification_illustrations.md); Part D [core_09_d_institutional_alignment_certification.md](core_09_d_institutional_alignment_certification.md)
+- **Ch 10:** [core_10_standing_assessment.md](core_10_standing_assessment.md)
+- **Ch 11:** [core_11_standing_integration.md](core_11_standing_integration.md)
+- **Ch 12:** Part A [core_12_a_misconduct_designation.md](core_12_a_misconduct_designation.md); Part B [core_12_b_misconduct_pattern_applications.md](core_12_b_misconduct_pattern_applications.md)
+- **Ch 13:** [core_13_forum.md](core_13_forum.md)
+- **Ch 14:** [core_14_governance.md](core_14_governance.md)
+- **Ch 15:** [core_15_non_regression.md](core_15_non_regression.md)
+- **Ch 16:** [core_16_expansion_supremacy.md](core_16_expansion_supremacy.md)
+- **Ch 17:** [core_17_amendment_ratification.md](core_17_amendment_ratification.md)
+- **Ch 18:** [core_18_incorporation.md](core_18_incorporation.md)
+- **Ch 10–13 vignettes (non-operative):** [core_10-13_application_vignettes.md](core_10-13_application_vignettes.md)
 - **Adopted corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
 
 ## Open Backlog
 
-### 2026-10-13 — Institutional alignment certification (Chapter Nine Part D): drafted on a branch, awaiting steward sign-off
+### 2026-10-13 — Institutional alignment certification (Chapter Nine Part D): drafted on a branch, signed off by the steward 2026-10-13
 
-Evaluation: [institutional-alignment-certification-evaluation](evidence/2026-10-13/institutional_alignment_certification_implementation.md) (project doc `claude/institutional-alignment-certification-evaluation.md`). Drafted on branch `docs/ch09-institutional-alignment-certification`; nothing committed. This is a core change touching Chapters 7, 8, 9, and 13 (Lane D). The earlier hold on core changes to Chapter Nine and Chapter Thirteen was **lifted by the steward on 2026-10-13**: the announcement will not be made until the corpus is complete, so there is no timing hold.
+Evaluation: [institutional-alignment-certification-evaluation](evidence/2026-10-13/institutional_alignment_certification_implementation.md) (project doc `claude/institutional-alignment-certification-evaluation.md`). Drafted on branch `docs/ch09-institutional-alignment-certification` and committed there (7fadbbe4). This is a core change touching Chapters 7, 8, 9, and 13 (Lane D). The earlier hold on core changes to Chapter Nine and Chapter Thirteen was **lifted by the steward on 2026-10-13**: the announcement will not be made until the corpus is complete, so there is no timing hold.
 
-- [ ] **Sign off the eight defaults** now drafted: (1) composition by link, many to many; (2) Part D inside Chapter Nine, no rename and no new chapter; (3) one system means one pass and one record with an institutional findings block; (4) no go-live gate on the institution, with a class-scaled window for a provisional first certification; (5) the Integrity forum leads and Institutional forums hold the mandate and duty-compliance components; (6) cascade: a failed, withdrawn, or expired System certification is an indicator, and current misalignment where the cause is institutional; (7) forums, certifiers, and record offices are institutions, with no certification circle; (8) terms "Institutional Alignment Certification" and "Institutional Certification Record".
-- [ ] **Check Article XI-E** against Part D §11.3 (no licence, no gate) and the Class L scaling in §12.4.
-- [ ] **Check `adoption/ANNOUNCEMENT.md`** so Part D never reads as a promised feature, as for Option B below.
+The steward signed off the drafted defaults on 2026-10-13; the item is archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 - [ ] **Chapter Seventeen §1 heightened review** applies to the Chapter Thirteen edits.
 - [ ] **Translations not synced** (19 locales already lag).
 - [ ] **Not done:** a Preamble owner-register entry and process-map entry for Part D, and a CS-3 pointer to the institution class test.
 
-### 2026-10-13 — Formation check (Chapter Seven §7) and remediation readiness with denial and revocation (Chapter Nine Part B §7.1–§7.2, Part D §12.2 item 7 and §13.5): drafted on the same branch, awaiting steward sign-off
+### 2026-10-13 — Formation check (Chapter Seven §7) and remediation readiness with denial and revocation (Chapter Nine Part B §7.1–§7.2, Part D §12.2 item 7 and §13.5): drafted on the same branch, signed off by the steward 2026-10-13
 
 Note: [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md). The Chapter Nine hold was lifted on 2026-10-13 (see the entry above).
 
-- [ ] **Sign off the defaults** now drafted: (1) covered offices are the governing authority, Role Map seats, and offices that bind others or hold records, keys, or funds, and other staff get a structural check only; (2) standing counts only from verified records, and authenticity is found from control, interests and rewards, conduct, and protected voice, and holding a belief or belonging to a group does not count by itself; (3) the check is a published statement and not a gate; (4) "denial" and "revocation" are plain names for non-certification and withdrawal, with no new outcome word; (5) the five revocation grounds in Part B §7.2; (6) conditions may not carry a plan the readiness check did not find ready; (7) a Not Certified Institution may not hold a seat in another body's certification or host a forum; (8) a denied or revoked Institution's status is adverse evidence in each of its Systems' certifications.
-- [ ] **Check Article XI-E** against Chapter Seven §7 and Part D §13.5 (no gate on forming or operating a body; the only gates are the two narrow gates on a named sentient's authority, see the next entry).
+The steward signed off the drafted defaults on 2026-10-13; the item is archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 - [ ] **Not done:** Chapter Five entries (none added), Chapter Thirteen routing for readiness findings, the emergency-substitution window default in CI-3.6, translations.
 
-### 2026-10-13 — Article XI-E two narrow gates and the Institutional Authority Standing Lock: drafted on the same branch, awaiting steward sign-off and heightened review
+### 2026-10-13 — Article XI-E two narrow gates and the Institutional Authority Standing Lock: drafted on the same branch, signed off by the steward 2026-10-13, awaiting heightened review
 
 Note: [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md) (section "Gates in Article XI-E and the Institutional Authority Standing Lock"). Touches Article XI-E (Chapter Six), Chapter Eleven §4.2, §5.5, §10.6, Chapter Five (Standing Lock entry and creation-rights limits), Chapter Seven §7, Part D §11.3, §13.5, §14.2, §15, and CI-3.6.
 
 - [ ] **Chapter Seventeen §1 Heightened Scrutiny and Chapter Fifteen non-regression review.** Article XI-E is a Rights-Floor article, and the amendment adds a limit to it. It is framed as two enumerated applications of the existing Limits clause, each attached to a named sentient's authority and not to the right to form. The review must confirm that framing.
-- [ ] **Sign off the defaults** now drafted: (1) the gates attach to a named sentient's authority and reach the body only as vehicle, successor, controlled entity, or nominee-held form; (2) the interim hold standard is more likely than not, on specific verified facts disclosed to the sentient, with a real risk of serious harm or of defeating the body's checks and a narrower safeguard not enough; (3) the hold is not a finding, lock, standing record, or standing effect, and only a forum with jurisdiction may issue it, never the body itself; (4) the Institutional Authority Standing Lock is mandatory when its verified trigger is met and never attaches from probable cause; (5) its restoration record includes a verified authenticity finding; (6) the party imposing a gate bears the burden; (7) authentic formation is a condition of the right and not a licence, judged on conduct, control, and rewards, with a no-record founder presumed authentic and probable cause of intent to mislead or to harm handled by the same Interim Hold (intent to harm means harm this Constitution forbids, not ordinary competition, criticism, or dissent); a verified statement that others deserve harm or discriminatory treatment counts against a founder or holder, with the Chapter Seven §7 safeguards; (8) the belief rule is threaded, not absolute: holding a belief or belonging to a group does not count by itself, but a religious, political, or ideological label is no shield for statements or acts that harm others or violate Article VI-C, which are judged on what they state, call for, or do; (9) Chapter One §7.5 Expression and the Harm Line is a restatement and adds no restriction; the same test for sentients and institutions; criticism of an institution called bullying is a limit that carries the burden; evidence use is distinct from limiting expression.
-- [ ] **Chapter Thirteen interim-protection text** was not edited; confirm that the existing interim-relief grounds cover the hold or add a routing sentence.
+The steward signed off the drafted defaults on 2026-10-13; the item is archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 - [ ] **Not done:** a Chapter Five entry for the new lock beyond the pointers, the Chapter Eleven integration-table row if one exists, translations.
 
-### 2026-10-13 — Interim Hold standard: built on the same branch, awaiting steward sign-off and heightened review
+### 2026-10-13 — Interim Hold standard: built on the same branch, signed off by the steward 2026-10-13, awaiting heightened review
 
 Evaluation: [interim_hold_sweep_evaluation](evidence/2026-10-13/interim_hold_sweep_evaluation.md) (project doc `claude/interim-hold-sweep-evaluation.md`). Built after the steward's decisions: build the general standard, separate Chapter Five entry, applications limited to Article XI-E, covered office-holders (Chapter Seven §7, CI-4.2), and forum seats (CF-4.15, CF-7.3.2, Article XII-D), time under a hold counts toward a later lock's bound, reuse the Chapter Thirteen §6 outer bound, exclusion list as drafted. See the Fifteenth move in [doc_architecture.md](doc_architecture.md).
 
 - [ ] **Chapter Seventeen §1 Heightened Scrutiny and Chapter Fifteen non-regression review.** The standard edits Chapter Thirteen and cites Rights-Floor articles (XI-E, XII-D, XIX-B). It adds safeguards to a category Article XIX-B already recognized; the review must confirm that.
-- [ ] **Sign off the drafted defaults:** the ground and its evidence tier; the closed list of applications; the never-reached list; the five-rung ladder; one extension only; time counts toward a later lock's bound but not its corrective conditions; a hold needs no open remedy record.
+The steward signed off the drafted defaults on 2026-10-13; the item is archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 - [ ] **Deferred applications:** stakeholder-weight escrow, and holds on holders of authority over Class A, B, or C systems on grave anti-constitutional allegations. Revisit after the first three applications have run in practice.
 - [ ] **Not done:** a Preamble owner-register entry, CS-11 §4.1 pointer, translations.
+
+### 2026-10-13 — Open questions carried over from MEMLOG
+
+The steward signed off the drafted wording on 2026-10-13. These questions were noted in the entries archived from MEMLOG and have not been decided.
+
+- [ ] **Charter Role Map: who hosts the record seat** when the operator is the only adopter in the chain.
+- [ ] **Charter definitions and standing-record custody:** whether the Chapter Five Charter definitions (System Charter and Institutional Charter) should absorb standing-record field 11 (CI-3.6).
+- [ ] **Cause of misalignment (Chapter Nine Part B §7.2):** whether a design-cause finding should stop the clean-recertification count restarting until the redesign is verified. The contest and challenge naming question is also open, so the cause-finding text avoids both words.
 
 ### 2026-10-04 — Process-level granularity: Option A drafted, Option B outlined
 
 Evaluation outcome: do not add independent process certification or process classes to the core before the pre-release announcement. Draft component findings at the implementation layer (A); outline reusable standard-process recognition as a post-adoption goal (B).
 
-- [x] **Review CS-3 §7.10** (component findings under the system's class). Lane C: `make regression`, readability, obligation diff in `evidence/2026-10-04/`. Decide whether the §7.1 pointer and the §7 table row stay. **Decided 2026-10-07:** keep the §7.1 pointer and the §7 table row as they are; `make regression` green.
-- [x] **Define Process in Chapter Five** with a test (placeholder tests in `project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md`). Prerequisite for B. Institution has no standalone definition either. **Drafted 2026-10-07** in `core_05_band_continuity.md` (#### Process; three-part test; held to its system's class; no separate certification). Awaiting author review; `make regression` green. Translations not yet synced. **Institution** drafted the same day (`#### Institution`, same band).
+Done: the CS-3 §7.10 review and the Process and Institution definitions in Chapter Five are archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
+
 - [ ] **Name B** so it is neither "system alignment certification" nor the Chapter Thirteen §5 forum-to-forum sense.
 - [ ] **Check `MINIMUM_VIABLE_ADOPTER.md` §4.1** against `adoption/ANNOUNCEMENT.md` so the outline never reads as a promised feature.
 - [ ] **B needs a core proposal (Lane D)** touching Chapter Nine Part B §8.1 (formerly §6.1, earlier §11.1) and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. The timing hold was lifted on 2026-10-13 (the announcement waits for completeness); Option B stays an outlined, post-adoption goal until a steward decision brings it into the core.
@@ -171,7 +181,7 @@ Resolved evaluation follow-ups R1–R3 and I2–I13 are archived in [TODO_RESOLV
 
 #### Implementation items (ordered by load-bearing weight)
 
-- [ ] **I1 — Human evidence.** Endorses [VISION.md §4.2](VISION.md#horizon-2). At least one human operator with real operational authority sits scenarios 4, 5, 6, and 10; results filed under `evaluation/results/`.
+- [ ] **I1 — Human evidence.** Endorses [VISION.md §4.2](project/VISION.md#horizon-2). At least one human operator with real operational authority sits scenarios 4, 5, 6, and 10; results filed under `evaluation/results/`.
 
 ### 2026-09-21 — Translation resync after cleanup
 
@@ -192,7 +202,6 @@ Completed relocation, renumbering, and wording work is archived in [TODO_RESOLVE
 
 - [ ] **Translations (20 languages)** still use the old Chapter One numbering (relocation, numbering smoothing, §7 reorder, §9/§10 swap, and the two Part A introductions).
 - [ ] **Update the Continuity aim Trace downstream** in `core_05_apex_continuity_aim.md` to the current numbering. It lists Chapter One §9 and §10 but not §8, §11, or §12 (§13 to §15, formerly §14 and §15, also unchecked); confirm which belong.
-- [ ] **Run `make ai-manifest-regenerate`** now that source changes are committed.
 - [ ] **Bare untitled "§N" Chapter One cites** are unchecked by any audit.
 - [ ] **Meaningful Agency and Consent wording** ("distinct from each other and meaningful options"): translations and the Chapter Six consent articles were not checked for the same wording.
 - [ ] **Optional:** place Dissent before Assembly in Chapter One §7 (not done).
@@ -205,6 +214,7 @@ Keep this active file limited to editor checks, current open work, and short arc
 
 ## Archives
 
+- **2026-10-13 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md)
 - **2026-10-03 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-03.md](archive/TODO_RESOLVED_2026-10-03.md)
 - **2026-10-01 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-01.md](archive/TODO_RESOLVED_2026-10-01.md)
 - **2026-09-17 resolved TODO items:** [archive/TODO_RESOLVED_2026-09-17.md](archive/TODO_RESOLVED_2026-09-17.md)
