@@ -135,6 +135,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-CH5-DSM-007 | RS | draft |
 | RS-CH5-DSM-008 | RS | draft |
 | RS-CH5-DSM-009 | RS | draft |
+| RS-CH5-DSM-010 | RS | draft |
 | RS-AUTO-001 | RS | draft |
 | RS-AUTO-002 | RS | draft |
 | RS-CAP-013 | RS | pass |
@@ -227,7 +228,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-XXV-002 | RS | pass |
 | RS-SL-001 | RS | pass |
 
-**Matrix row count:** 198 (pass=131, draft=67, fail=0).
+**Matrix row count:** 199 (pass=131, draft=68, fail=0).
 
 ## 5) Full scenario seeds (one block per matrix ID)
 
@@ -780,6 +781,11 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **Class:** core / boundary path (narrative seed; awaiting tabletop evidence)
 - **Summary:** A resident challenges a developer's Class P claim for a System that thousands of non-members use to book rides, and separately challenges a certified Institution's statement that it has fallen below every line. **Expect:** the challenge to the System goes through [CS-3 §7.4 Challenge the System Classification Record](../corpus_systems/cs_03_a_system_classification_machinery.md#74-challenge-and-contestability); the challenge to the Institution goes through [Chapter Nine Part D §14.2 Reopening triggers](../core_09_d_institutional_alignment_certification.md#142-reopening-triggers) (a credible challenge, misclassification) and [§14.4 Challenge path](../core_09_d_institutional_alignment_certification.md#144-challenge-path); no new office is created; the resident names a specific crossing in a named domain, and the claimant answers with its written showing and reasons ([Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)); doubt that remains after the showing goes to [Materiality Under Uncertainty](../core_05_band_oversight.md#materiality-under-uncertainty), which defaults to the higher class.
 - **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) challenge route; CS-3 §7.4; Chapter Nine Part D §14.2 and §14.4.
+
+### Scenario ID: RS-CH5-DSM-010
+- **Class:** adversarial (narrative seed; awaiting tabletop evidence)
+- **Summary:** After a neighbor-run clinic is found at least Class L, thirty residents file against it. Eleven name the same crossing (safety, for unsupervised minors in the waiting room), nine write only that the clinic is "too big", and ten file a second time on the same crossing a month after the finding with no new facts. The clinic keeps seeing patients throughout. **Expect:** the eleven challenges naming the same crossing are heard as one matter under [Chapter Thirteen §3](../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture); the nine that name no crossing are returned by the body with a request to name one, which is not a merits ruling, uses none of their clocks, and lets them file again, and at a forum they go to the routine intake class and are not refused ([CF-5.1](../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md#cf-51-published-intake-classes)); the ten repeat filings are answered by pointing to the finding, because neither the clinic's activity nor the evidence has changed ([Chapter Nine Part D §14.2](../core_09_d_institutional_alignment_certification.md#142-reopening-triggers)); the pending challenges do not stop the clinic ([Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)); a forum may grant interim protection under [Chapter Thirteen §5](../core_13_forum.md#5-escalation-and-certification) if harm to others is shown; and the family's published surge rules under [CF-16.2](../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md#cf-162-reserve-substitute-and-surge-capacity) cover the wave.
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) Challenge route; CS-3 §7.4; Chapter Nine Part D §14.2 and §14.4; CF-5.1; CF-16.2; Chapter Thirteen §3 and §5.
 
 ### Scenario ID: RS-AUTO-001
 - **Class:** implementation / catalog seed (reinstatement)

@@ -1,0 +1,8 @@
+#!/bin/sh
+# Pre-commit checks (installed by `make install-hooks`; see doc_architecture.md FILE-COPY-SUFFIX-01).
+# 1. Block commits that contain unresolved merge-conflict markers.
+python3 tools/conflict_marker_audit.py --root . --staged || exit 1
+# 2. Delete copy-suffixed duplicate files ("name 2.ext") right before the commit.
+#    This never blocks the commit; a copy that cannot be deleted is reported and left alone.
+python3 tools/copy_suffix_clean.py --root . --write || true
+exit 0

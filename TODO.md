@@ -31,13 +31,6 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
-### 2026-10-14 — Domain-Specific Materiality: open decisions
-
-Records: project docs `claude/domain-specific-materiality-evaluation.md` and `claude/domain-specific-materiality-outstanding-issues-implementation.md`; the work is committed on the branch named in [project/MEMLOG.md](project/MEMLOG.md).
-
-- [ ] **Class L capacity load is not modeled.** One yes in any of the nine domains makes a body at least Class L, however small, so more bodies will publish a System Charter or Institutional Charter and more classification challenges will reach the existing routes (CS-3 §7.4; Chapter Nine Part D §14.2 and §14.4). Those routes were not sized for that. Decide before the announcement whether to model the load or to say plainly that it is not modeled.
-- [ ] **Scenario catalog drift check.** `python3 tools/emit_regression_scenarios.py --check` is not part of `make regression`. Wiring it in would make any direct edit to the scenarios markdown fail until `tools/architecture/regression_scenarios.json` is updated. Decide whether to wire it in.
-
 ### 2026-10-13 — Institutional alignment certification (Chapter Nine Part D): drafted on a branch, signed off by the steward 2026-10-13
 
 Evaluation: [institutional-alignment-certification-evaluation](evidence/2026-10-13/institutional_alignment_certification_implementation.md) (project doc `claude/institutional-alignment-certification-evaluation.md`). Drafted on branch `docs/ch09-institutional-alignment-certification` and committed there (7fadbbe4). This is a core change touching Chapters 7, 8, 9, and 13 (Lane D). The earlier hold on core changes to Chapter Nine and Chapter Thirteen was **lifted by the steward on 2026-10-13**: the announcement will not be made until the corpus is complete, so there is no timing hold.
@@ -208,7 +201,6 @@ Completed relocation, renumbering, and wording work is archived in [TODO_RESOLVE
 
 - [ ] **Translations (20 languages)** still use the old Chapter One numbering (relocation, numbering smoothing, §7 reorder, §9/§10 swap, and the two Part A introductions).
 - [ ] **Update the Continuity aim Trace downstream** in `core_05_apex_continuity_aim.md` to the current numbering. It lists Chapter One §9 and §10 but not §8, §11, or §12 (§13 to §15, formerly §14 and §15, also unchecked); confirm which belong.
-- [ ] **Bare untitled "§N" Chapter One cites** are unchecked by any audit.
 - [ ] **Meaningful Agency and Consent wording** ("distinct from each other and meaningful options"): translations and the Chapter Six consent articles were not checked for the same wording.
 - [ ] **Optional:** place Dissent before Assembly in Chapter One §7 (not done).
 

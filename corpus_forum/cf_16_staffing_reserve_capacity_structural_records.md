@@ -168,7 +168,7 @@ Each forum family must maintain published reserve-capacity rules sufficient to r
 - substitute or reserve adjudicators qualified to serve when ordinary members are unavailable, recused, incapacitated, or overloaded;
 - temporary cross-region, cross-district, or cross-division assistance within the same forum family;
 - lawful access to backup-forum activation where independence or composition failure prevents ordinary service;
-- surge staffing for foreseeable spikes in urgent filings, mass-harm events, election-period disputes, institutional-failure cascades, or comparable stress conditions;
+- surge staffing for foreseeable spikes in urgent filings, waves of classification challenges after a class line moves or a body on a shared system is reclassified, mass-harm events, election-period disputes, institutional-failure cascades, or comparable stress conditions;
 - training, competency-refresh, and readiness requirements for reserve personnel;
 - succession-effective administrative support for filing, records custody, scheduling, publication, and other materially binding forum-operation lanes.
 

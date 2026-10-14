@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-14T17:06:13+00:00",
+  "generated_at": "2026-10-14T17:29:31+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -507,9 +507,9 @@
       ]
     },
     "core_05_band_oversight.md": {
-      "total_lines": 1753,
+      "total_lines": 1760,
       "sections": [
-        {"header":"Oversight Constitutional Definitions","level":1,"line_start":1,"line_end":1753,"anchor":null},
+        {"header":"Oversight Constitutional Definitions","level":1,"line_start":1,"line_end":1760,"anchor":null},
         {"header":"Oversight: Independent terms","level":3,"line_start":33,"line_end":335,"anchor":"#oversight-independent-terms"},
         {"header":"Adversarial, Scaled, and Exploited Conditions","level":4,"line_start":37,"line_end":77,"anchor":null},
         {"header":"Capability Requirement","level":4,"line_start":78,"line_end":110,"anchor":"#capability-requirement"},
@@ -518,37 +518,37 @@
         {"header":"Gate Criteria","level":4,"line_start":194,"line_end":244,"anchor":"#gate-criteria"},
         {"header":"Heightened Scrutiny","level":4,"line_start":245,"line_end":296,"anchor":"#heightened-scrutiny"},
         {"header":"Press and Journalistic Activity","level":4,"line_start":297,"line_end":335,"anchor":"#press-and-journalistic-activity-constitutional"},
-        {"header":"Oversight: Semi-independent terms","level":3,"line_start":336,"line_end":865,"anchor":"#press-and-journalistic-activity-constitutional-c"},
+        {"header":"Oversight: Semi-independent terms","level":3,"line_start":336,"line_end":872,"anchor":"#press-and-journalistic-activity-constitutional-c"},
         {"header":"Materiality, impact, risk, and proxy integrity","level":4,"line_start":340,"line_end":372,"anchor":null},
         {"header":"Material","level":4,"line_start":373,"line_end":406,"anchor":"#material"},
         {"header":"Materiality","level":4,"line_start":407,"line_end":478,"anchor":"#materiality-determination"},
-        {"header":"Domain-Specific Materiality","level":4,"line_start":479,"line_end":586,"anchor":"#domain-specific-materiality"},
-        {"header":"Materiality Integrity Constraint","level":4,"line_start":587,"line_end":623,"anchor":"#materiality-integrity-constraint"},
-        {"header":"Material Impact","level":4,"line_start":624,"line_end":671,"anchor":"#material-impact"},
-        {"header":"Material Risk","level":4,"line_start":672,"line_end":717,"anchor":"#material-risk"},
-        {"header":"Materiality Under Uncertainty","level":4,"line_start":718,"line_end":757,"anchor":"#materiality-under-uncertainty"},
-        {"header":"Proxy Divergence","level":4,"line_start":758,"line_end":828,"anchor":"#proxy-divergence"},
-        {"header":"Material Degradation","level":4,"line_start":829,"line_end":865,"anchor":"#material-degradation"},
-        {"header":"Oversight: Dependent clusters","level":3,"line_start":866,"line_end":1753,"anchor":"#movement-refuge-semi-independent"},
-        {"header":"Def.O1 Transparency, Auditability, and Verification","level":4,"line_start":871,"line_end":1381,"anchor":"#transparency-auditability-and-verification-cluster"},
-        {"header":"Transparency","level":5,"line_start":928,"line_end":987,"anchor":"#transparency"},
-        {"header":"Public Oversight Baseline Disclosure","level":5,"line_start":988,"line_end":1067,"anchor":"#public-oversight-baseline-disclosure"},
-        {"header":"Risk Disclosure","level":5,"line_start":1068,"line_end":1110,"anchor":"#risk-disclosure"},
-        {"header":"Auditability","level":5,"line_start":1111,"line_end":1192,"anchor":"#auditability"},
-        {"header":"Evidence Preservation","level":5,"line_start":1193,"line_end":1242,"anchor":"#evidence-preservation"},
-        {"header":"Evaluation Completeness Constraint","level":5,"line_start":1243,"line_end":1305,"anchor":"#evaluation-completeness-constraint"},
-        {"header":"Verifiability","level":5,"line_start":1306,"line_end":1381,"anchor":"#verifiability"},
-        {"header":"Def.O2 Truth and Epistemic Integrity","level":4,"line_start":1382,"line_end":1753,"anchor":"#truth-and-epistemic-integrity-cluster"},
-        {"header":"Publication and High-Impact Communication","level":5,"line_start":1427,"line_end":1439,"anchor":"#publication-and-high-impact-communication"},
-        {"header":"Publication Truthfulness and Recklessness Floor","level":5,"line_start":1440,"line_end":1469,"anchor":"#publication-truthfulness-and-recklessness-floor"},
-        {"header":"Protected Data and Internal-State Publication Constraint","level":5,"line_start":1470,"line_end":1487,"anchor":"#protected-data-and-internal-state-publication-constraint"},
-        {"header":"High-Impact and Systemic Harm Publication Constraint","level":5,"line_start":1488,"line_end":1516,"anchor":"#high-impact-and-systemic-harm-publication-constraint"},
-        {"header":"Security-Sensitive Disclosure Balance","level":5,"line_start":1517,"line_end":1545,"anchor":"#security-sensitive-disclosure-balance"},
-        {"header":"Truth (Constitutional Constraint)","level":5,"line_start":1546,"line_end":1585,"anchor":"#truth-constitutional-constraint"},
-        {"header":"Epistemic Integrity","level":5,"line_start":1586,"line_end":1630,"anchor":"#epistemic-integrity"},
-        {"header":"Foreseeability and Reasonably Foreseeable","level":5,"line_start":1631,"line_end":1671,"anchor":"#foreseeability-diligence-and-reasonably-foreseeable"},
-        {"header":"Foreseeability","level":5,"line_start":1672,"line_end":1732,"anchor":"#foreseeability-diligence"},
-        {"header":"Reasonably Foreseeable","level":5,"line_start":1733,"line_end":1753,"anchor":"#reasonably-foreseeable"}
+        {"header":"Domain-Specific Materiality","level":4,"line_start":479,"line_end":593,"anchor":"#domain-specific-materiality"},
+        {"header":"Materiality Integrity Constraint","level":4,"line_start":594,"line_end":630,"anchor":"#materiality-integrity-constraint"},
+        {"header":"Material Impact","level":4,"line_start":631,"line_end":678,"anchor":"#material-impact"},
+        {"header":"Material Risk","level":4,"line_start":679,"line_end":724,"anchor":"#material-risk"},
+        {"header":"Materiality Under Uncertainty","level":4,"line_start":725,"line_end":764,"anchor":"#materiality-under-uncertainty"},
+        {"header":"Proxy Divergence","level":4,"line_start":765,"line_end":835,"anchor":"#proxy-divergence"},
+        {"header":"Material Degradation","level":4,"line_start":836,"line_end":872,"anchor":"#material-degradation"},
+        {"header":"Oversight: Dependent clusters","level":3,"line_start":873,"line_end":1760,"anchor":"#movement-refuge-semi-independent"},
+        {"header":"Def.O1 Transparency, Auditability, and Verification","level":4,"line_start":878,"line_end":1388,"anchor":"#transparency-auditability-and-verification-cluster"},
+        {"header":"Transparency","level":5,"line_start":935,"line_end":994,"anchor":"#transparency"},
+        {"header":"Public Oversight Baseline Disclosure","level":5,"line_start":995,"line_end":1074,"anchor":"#public-oversight-baseline-disclosure"},
+        {"header":"Risk Disclosure","level":5,"line_start":1075,"line_end":1117,"anchor":"#risk-disclosure"},
+        {"header":"Auditability","level":5,"line_start":1118,"line_end":1199,"anchor":"#auditability"},
+        {"header":"Evidence Preservation","level":5,"line_start":1200,"line_end":1249,"anchor":"#evidence-preservation"},
+        {"header":"Evaluation Completeness Constraint","level":5,"line_start":1250,"line_end":1312,"anchor":"#evaluation-completeness-constraint"},
+        {"header":"Verifiability","level":5,"line_start":1313,"line_end":1388,"anchor":"#verifiability"},
+        {"header":"Def.O2 Truth and Epistemic Integrity","level":4,"line_start":1389,"line_end":1760,"anchor":"#truth-and-epistemic-integrity-cluster"},
+        {"header":"Publication and High-Impact Communication","level":5,"line_start":1434,"line_end":1446,"anchor":"#publication-and-high-impact-communication"},
+        {"header":"Publication Truthfulness and Recklessness Floor","level":5,"line_start":1447,"line_end":1476,"anchor":"#publication-truthfulness-and-recklessness-floor"},
+        {"header":"Protected Data and Internal-State Publication Constraint","level":5,"line_start":1477,"line_end":1494,"anchor":"#protected-data-and-internal-state-publication-constraint"},
+        {"header":"High-Impact and Systemic Harm Publication Constraint","level":5,"line_start":1495,"line_end":1523,"anchor":"#high-impact-and-systemic-harm-publication-constraint"},
+        {"header":"Security-Sensitive Disclosure Balance","level":5,"line_start":1524,"line_end":1552,"anchor":"#security-sensitive-disclosure-balance"},
+        {"header":"Truth (Constitutional Constraint)","level":5,"line_start":1553,"line_end":1592,"anchor":"#truth-constitutional-constraint"},
+        {"header":"Epistemic Integrity","level":5,"line_start":1593,"line_end":1637,"anchor":"#epistemic-integrity"},
+        {"header":"Foreseeability and Reasonably Foreseeable","level":5,"line_start":1638,"line_end":1678,"anchor":"#foreseeability-diligence-and-reasonably-foreseeable"},
+        {"header":"Foreseeability","level":5,"line_start":1679,"line_end":1739,"anchor":"#foreseeability-diligence"},
+        {"header":"Reasonably Foreseeable","level":5,"line_start":1740,"line_end":1760,"anchor":"#reasonably-foreseeable"}
       ]
     },
     "core_05_band_participation.md": {
@@ -1533,16 +1533,16 @@
       ]
     },
     "corpus_systems/cs_03_a_system_classification_machinery.md": {
-      "total_lines": 564,
+      "total_lines": 565,
       "sections": [
-        {"header":"CS-3, Part A: System classification machinery","level":1,"line_start":2,"line_end":564,"anchor":"#cs-3-part-a-system-classification-machinery"},
+        {"header":"CS-3, Part A: System classification machinery","level":1,"line_start":2,"line_end":565,"anchor":"#cs-3-part-a-system-classification-machinery"},
         {"header":"CS-3.1 Purpose and scope","level":2,"line_start":24,"line_end":108,"anchor":"#cs-3-1-purpose-and-scope"},
         {"header":"CS-3.2 Classification dimensions and real-world application","level":2,"line_start":109,"line_end":145,"anchor":"#cs-3-2-classification-dimensions-and-real-world-application"},
         {"header":"CS-3.3 Criticality, concentration, temporal, and adversarial factors","level":2,"line_start":146,"line_end":218,"anchor":"#cs-3-3-criticality-concentration-temporal-and-adversarial-factors"},
         {"header":"CS-3.4 Dependency types (Dep-A–P)","level":2,"line_start":219,"line_end":251,"anchor":"#cs-3-4-dependency-types-dep-a-p"},
         {"header":"CS-3.5 Boundaries, timeframes, and resilience","level":2,"line_start":252,"line_end":278,"anchor":"#cs-3-5-boundaries-timeframes-and-resilience"},
         {"header":"CS-3.6 Domain taxonomy, ordinary examples, and scarce-capacity handling","level":2,"line_start":279,"line_end":339,"anchor":"#cs-3-6-domain-taxonomy-ordinary-examples-and-scarce-capacity-handling"},
-        {"header":"CS-3.7 Classification governance, disclosure, and challenge","level":2,"line_start":340,"line_end":564,"anchor":"#cs-3-7-classification-governance-disclosure-and-challenge"}
+        {"header":"CS-3.7 Classification governance, disclosure, and challenge","level":2,"line_start":340,"line_end":565,"anchor":"#cs-3-7-classification-governance-disclosure-and-challenge"}
       ]
     },
     "corpus_systems/cs_03_b_system_impact_classifications.md": {
