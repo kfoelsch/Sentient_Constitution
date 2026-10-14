@@ -166,6 +166,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing)
 - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding)
 - [Documented Legitimacy Mechanism](core_05_band_integrative.md#documented-legitimacy-mechanism)
+- [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality)
 - [Due Process](core_05_band_accountability.md#due-process)
 - [Duty to Resist](core_05_band_accountability.md#duty-to-resist)
 - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint)

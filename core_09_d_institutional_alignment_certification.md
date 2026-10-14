@@ -114,6 +114,7 @@ This section is **Phase I, Frame** and **Phase II, Evaluate** for an Institution
 2. **Own impact:** An Institution that runs no such System is classified by its own material impact and dependency. The class definitions of **CS-3** (*System classification machinery*) are applied to the Institution's own decisions and holdings, using these factors:
    - what it decides about other sentients' access to survival essentials, education, safety, livelihood, rights, or standing;
    - what it holds, such as funds, records, memberships, custody of standing records, or the function of a forum, certifier, or record office;
+   - whether its own activity is material in any domain of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality), including taking [Materially Binding Acts](core_05_band_accountability.md#materially-binding-act) that others must follow or may rely on as settled: an Institution that is material in any one domain is at least Class L under **CS-3** (*System classification machinery*), and giving aid, goods, labor, or services that no one is required to accept, and that gate no one's access, is conduct and not such an act;
    - how many sentients depend on it, and how substitutable it is;
    - how concentrated its authority is, within the meaning of the Material Control Line; and
    - how reversible its decisions are.

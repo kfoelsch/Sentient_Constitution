@@ -286,7 +286,7 @@ This section summarizes the two floors that every later process relies on and wh
 **Chapter Seven — System and Institutional Charters**
 
 - **What it owns:** The floor for the published scope instrument of a system or institution:
-  - which systems and institutions of Class L or higher must publish a [System Charter](../../core_05_band_continuity.md#system-charter) or [Institutional Charter](../../core_05_band_continuity.md#institutional-charter);
+  - which systems and institutions of Class L or higher must publish a [System Charter](../../core_05_band_continuity.md#system-charter) or [Institutional Charter](../../core_05_band_continuity.md#institutional-charter) (Class P may publish one voluntarily);
   - the minimum a System Charter or Institutional Charter must state, including the [Charter Role Map](../../core_05_band_continuity.md#charter-role-map) and pointers to the published binding stakeholder-choice rules;
   - how a System Charter or Institutional Charter is amended and reviewed so that scope does not change silently; and
   - what a System Charter or Institutional Charter cannot do: set class, define the boundary, replace certification, carry decision rules, or grant authority.

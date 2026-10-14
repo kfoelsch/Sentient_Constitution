@@ -347,6 +347,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 **Topic group members.** This group comprises:
 - [Material](core_05_band_oversight.md#material) — whether effects are big enough to matter constitutionally.
 - [Materiality](core_05_band_oversight.md#materiality) — the method for classifying that, for systems or events.
+- [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality) — where the line sits in each of nine domains, which tells whether an act is material and whether a body needs a System Charter or Institutional Charter.
 - [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) — bars gaming boundaries to shrink the picture.
 - [Material Impact](core_05_band_oversight.md#material-impact) — how far, how large, and how severe the effects are.
 - [Material Risk](core_05_band_oversight.md#material-risk) — how likely, how fast, and how hard to undo the harm may be.
@@ -470,6 +471,110 @@ Implication can exist without misalignment. Misalignment always implies material
     - avoiding aggregation; or
     - ignoring dependency.
   - **Tertiary failure:** determinations that rest on manipulated boundaries or "the metric looks fine" where [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) or [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+
+---
+
+<a id="domain-specific-materiality"></a>
+
+#### Domain-Specific Materiality
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: this entry. [Materiality](core_05_band_oversight.md#materiality) keeps the method that scales duties to [material stake](core_00_preamble.md#material-stake). This entry answers a different question: in each main area of life, when does an act, or a body's ongoing activity, matter enough that a duty applies at all? It does two jobs from one list: it tests whether an act is material, and it tests whether a body needs a System Charter or Institutional Charter.
+- Downstream: [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) (the test of whether its effect is material); [Chapter Seven §3 When System and Institutional Charters Are Required](core_07_charters.md#3-when-system-and-institutional-charters-are-required); [Chapter Nine Part D §12.1 Institution class](core_09_d_institutional_alignment_certification.md#121-institution-class); **CS-3** (*System classification machinery*), Class P retention and the P-to-L reclassification edge.
+- Read with: [Material](core_05_band_oversight.md#material), [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint), [Materially Binding Act](core_05_band_accountability.md#materially-binding-act), [Material Control Line](core_05_band_accountability.md#material-control-line), [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity), [Dependency](core_05_band_continuity.md#dependency), [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
+
+</details>
+
+<br>
+
+*In plain terms: this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 No Licence, and Two Narrow Limits](core_07_charters.md#2-no-licence-and-two-narrow-limits).*
+
+- **What it is**
+  - **In scope:** The two ways the list is used, both where a duty either applies or does not. Once a duty applies, how strong it is still follows [material stake](core_00_preamble.md#material-stake) under [Materiality](core_05_band_oversight.md#materiality).
+    - **The act test, is this material?** For an official act, the list supplies the "material" half of a [Materially Binding Act](core_05_band_accountability.md#materially-binding-act): an act that others must follow or may rely on as settled, and whose effect meets a "material when" test in any domain, is a materially binding act and takes the four seats and an Act Record. For conduct that is not an official act, such as running a service, holding records, or working in an ecosystem, the list tells whether the conduct is material and so which owner's duties attach. The authority question is about acts. Most of the others are mostly about ongoing conduct.
+    - **The body test, does this body need a System Charter or Institutional Charter?** An act or activity counts as a body's own when the body takes it in its own name or sets it up to be taken. If what a body itself does is material in even one of the nine areas, and the effect reaches beyond its own household or tightly bounded private circle, the body is Class L or higher (Class L is the class for local, limited-impact bodies), and it must publish a System Charter or Institutional Charter. [Chapter Seven §3 When System and Institutional Charters Are Required](core_07_charters.md#3-when-system-and-institutional-charters-are-required) sets out that rule, and **CS-3** (*System classification machinery*) defines the classes. A body that is below every line stays Class P, where a System Charter or Institutional Charter is voluntary. A member acting alone does not make the body covered.
+  - **In scope:** The nine questions that tell whether an act, or a body's ongoing activity, is material. Each question draws a line. Above the line, the activity is material and the duties of that area attach. Below it, the activity is not material, though every Constitutional Constraint still applies (see the No licence rule under What must hold). Each question gives the test for being above the line, what falls below it, and where the duty itself lives.
+    - <a id="domain-specific-materiality-survival"></a>**Survival and essential access.** *Could others lose something they need to live if the body stopped?*
+      - Material when: the body supplies, controls, or can cut off food, water, shelter, energy, healthcare, or safe passage, and those who rely on it cannot get a substitute in time.
+      - Not material: sharing something others can easily get elsewhere.
+      - Owners: **Article I** (*Environmental Survival*) and **Article III** (*Survival and Essential Access*).
+    - <a id="domain-specific-materiality-safety"></a>**Safety.** *Could the activity hurt someone who did not choose that risk and cannot walk away?*
+      - Material when: the activity creates a credible causal pathway (a believable, traceable route from what the body does to the harm) to bodily or psychological [Harm](core_05_band_accountability.md#harm) for a sentient who has not knowingly accepted the risk and cannot freely leave it. Typical cases are the care of dependents, products and services that can injure, hazardous materials and vehicles, advice given as medical or psychological care, and the working conditions of those the body directs.
+      - Not material: risks that adults knowingly accept, can freely leave, and that ordinary life already carries.
+      - Owners: [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint), **Article III-D** (*Safe Working Conditions*), **Article VII** (*Self-Ownership*), and **Article VIII** (*Family, Care, and Developing Sentients*).
+    - <a id="domain-specific-materiality-authority"></a>**Authority over others.** *Does the body make decisions that others must follow, or can treat as final, and that change what they can get or do?*
+      - Material when: the body takes a [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) that others must follow or may rely on as settled and that affects their access to survival essentials, education, safety, livelihood, rights, or standing; or it excludes, disciplines, or removes a member in a way that materially affects any of those.
+      - Not material: giving aid, goods, labor, or services that no one has to accept and that block no one's access; choices inside a private unit; and drafts, recommendations, and invitations that bind no one.
+      - Owners: **Article VI** (*Equal Basic Rights*), **Article X** (*Self-Determination, Agency, and Participation*), **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), and Chapter Eight.
+    - <a id="domain-specific-materiality-livelihood"></a>**Livelihood and economic terms.** *Do others depend on the body for income, or on its prices and terms for something they need?*
+      - Material when: the body is a major source of others' income (as employer, payer, buyer, or platform), sets prices or terms for something others need and cannot easily replace, or holds market power as [Chapter One §11 Market Structure](core_01_a_values_principles.md#11-market-structure) describes it.
+      - Not material: occasional exchange among those who can walk away, and ordinary trade where the body cannot shape the market's terms.
+      - Owners: **Article III-C** (*Labor and Economic Floor*) and **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*).
+    - <a id="domain-specific-materiality-custody"></a>**Custody.** *Does the body hold things that matter to others, who depend on it to keep them safe?*
+      - Material when: the body holds funds, assets, credentials, keys, or records and data about other sentients, beyond what its members put in for the body's own work, and others depend on it to keep them safe, accurate, or available; or it holds [Standing Records](core_05_band_accountability.md#standing-record) or serves as a forum, certifier, or record office. Personal or sensitive data about non-members counts.
+      - Not material: a members' kitty spent on the group's own materials, and a contact list kept with members' knowledge for the group's own notices.
+      - Owners: **Article II-E** (*Data Handling and Network Dependency*), **Article IX** (*Likeness, Experiential Data, and Publication Rights*), **Article XVI** (*Audit, Transparency, and Independent Verification*), and [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority).
+    - <a id="domain-specific-materiality-information"></a>**Information and truth.** *Will others rely on what the body says as true when they decide about safety, money, health, rights, or standing?*
+      - Material when: the body states, publishes, rates, or certifies something that others will foreseeably rely on as true for those decisions, at a reach beyond those who know the source; or it runs [Info-Sphere](core_05_band_participation.md#info-sphere) infrastructure, such as a platform, index, or rating, that others use to find or judge information.
+      - Not material: opinion, art, personal accounts, and correspondence presented as such, and accurate sharing among those who know the source.
+      - Owners: [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*), **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*), and **Article XV** (*Info-Sphere Integrity*).
+    - <a id="domain-specific-materiality-dependence"></a>**Dependence and exit.** *Would others lose something real if they left the body, replaced it, or it failed?*
+      - Material when: others have come to rely on the body so that declining, replacing, or leaving it would cost them materially (access, data, income, community, or time they cannot easily recover); or its failure or withdrawal would spread to others ([Dependency](core_05_band_continuity.md#dependency), [Cascading Failure](core_05_band_continuity.md#cascading-failure)).
+      - Not material: reliance that others can drop without material loss.
+      - Owners: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*), **Article XXI** (*Interoperability, Portability, and Exit Integrity*), and **Article II-F** (*Continuity and Operator Shutdown*).
+    - <a id="domain-specific-materiality-ecology"></a>**Ecology.** *If the activity stopped today, would the ecosystem recover on its own? And the flipside: is the body helping an area recover?*
+      - Material when: the activity impairs [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity). Any one of these tests is enough:
+        - the ecosystem would not return to its prior function unaided within the period set for that kind of ecosystem;
+        - the activity moves biodiversity, soil, water, climate stability, or habitat connectivity measurably closer to a tipping point (a level beyond which that ecosystem cannot recover its function unaided), judged on the best available evidence for that kind of ecosystem; or
+        - it draws down a regenerating stock faster than the stock regenerates.
+      - Always covered: a credible causal pathway to irreversible loss of recovery capacity is covered at any scale by **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), whatever the answer to the tests above.
+      - Not material: use within what the ecosystem regenerates. Ordinary household and community activity is presumed to stay within recovery unless the system is known to be stressed or the species or habitat is threatened. [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) is a disclosure measure and does not set this line.
+      - Helping an area recover: work that actively restores an ecosystem, such as replanting, habitat or stream repair, removing invasive species, rebuilding soil, or cleanup, is not an impairment, and it does not make a body material under this question. Done within what the ecosystem can sustain, it is ordinary community activity. It is material only if:
+        - the restoration itself meets one of the three tests above (for example, an introduced species that spreads, or a change to water flow that harms the area downstream); or
+        - it crosses a line in another domain (for example, holding land or funds that others depend on, or publishing recovery claims that others rely on).
+      - Recovery work as contribution: recovery work is recognized as Ecological Stewardship under [Chapter Ten §4.3 Contribution route descriptor catalog and measurement roles](core_10_standing_assessment.md#43-contribution-route-descriptor-catalog-and-measurement-roles), and each member may seek that record as an individual claimant without any System Charter or Institutional Charter ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority)).
+      - Owners: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*).
+    - <a id="domain-specific-materiality-systemic"></a>**Systemic and irreversible effects.** *Could the activity, alone or with others, concentrate power, capture something shared, spread a failure, or lock in something that cannot be undone?*
+      - Material when: the body's activity, alone or with others under common control or on the same shared system, can concentrate power or capture a shared function, cascade across systems, or lock in a state that cannot practically be reversed; or it creates a credible causal pathway to [Existential Risk](core_05_band_continuity.md#existential-risk).
+      - Not material: effects that stay local, bounded, and reversible.
+      - Owners: [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), **Article XII-D** (*Non-Capture Safeguards*), **Article XVII** (*System Lifecycle, Environments, and Reversibility*), and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*).
+  - **Out of scope:**
+    - The scaling of duties to material stake, which stays with [Materiality](core_05_band_oversight.md#materiality).
+    - The duties themselves, which stay with their owners above.
+    - Contribution: whether and how much work counts as contribution, which stays with Chapter Ten and does not depend on a finding here.
+    - Any approval or licence: a finding of domain-specific materiality classifies a body for the duties that attach and grants nothing.
+<a id="domain-specific-materiality-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
+
+    **Primary assessment:** Take the nine questions one at a time. For each, ask whether the act or activity meets the "material when" test. Go by what the body actually does, decides, holds, and affects, not by its label, size, or legal form. Write down the answer for each domain with a reason. The act or activity is material if any one is a yes. When the question is whether a body needs a System Charter or Institutional Charter, run the questions across everything the body does as a body, and the body is covered if any one is a yes. For a body that plainly crosses none, one short statement that it is below the line in every domain, with the reason, is enough.
+
+    Apply the nine questions together under these rules:
+    - **One yes is enough:** A body is covered when any one question gets a yes. A no in one domain does not cancel a yes in another.
+    - **Count related bodies together:** Add up the activity of bodies that are really one operation. This applies in two cases:
+      - **Bodies run from one center of power:** bodies on the same chain of practical power over the activity, such as the same directing sentients, funders, affiliates, or contractors (a [Material Control Line](core_05_band_accountability.md#material-control-line)), are counted as one body; and
+      - **Bodies pressing on a stressed shared system:** where many bodies draw on or load the same river, market, or network and it is already under strain, each body is judged by the part it adds to the total strain, not in isolation. A body that adds a meaningful part is material. A body that adds only a trivial part is not, even though the system as a whole is over its line.
+
+      Splitting a body into pieces to stay below a line is a boundary game under [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint).
+    - **Lower the line for the vulnerable:** Each line sits lower where those affected are developing, dependent, or unable to protect themselves or to leave.
+    - **Lower the line for harm that cannot be undone:** Where an effect cannot be undone ([Irreversible Harm](core_05_band_accountability.md#irreversible-harm)), a believable route to the harm is enough. It does not have to be likely.
+    - **Ordinary community activity starts below the line:** Giving, making, teaching, caring, hosting, and sharing are presumed not material in every domain. To rebut that, someone must point to a specific crossing in a named domain, and the burden is on whoever says so. Size, headcount, regular meetings, and being valued by those served are not crossings. Being below the line says only that the body needs no System Charter or Institutional Charter and takes on no added duty. It does not set the line for contribution: giving, making, teaching, caring, hosting, and sharing can be recognized as contribution whether or not they are material here ([Chapter Ten §4.1 Contribution magnitude-input dimensions](core_10_standing_assessment.md#41-contribution-magnitude-input-dimensions)).
+    - **Core sets no numbers:** An adopting instrument may set amounts to show where a line falls, such as a ceiling on funds held or the recovery period for a kind of ecosystem. It cannot move the line.
+  - **Secondary measure:** [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) and [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) — check whether a "below the line" answer holds only because the activity was split across bodies, or judged apart from the shared system it presses on.
+
+    **Secondary assessment:** Ask whether the same activity, counted with bodies under common control and with others on the same shared system, would cross a line.
+<a id="domain-specific-materiality-c"></a>
+- **What must hold**
+  - **No licence:** Being above a line starts the duties that attach to it. It never gates forming or operating a body, apart from the narrow limits in **Article XI-E** (*Institutional Formation and Business Creation*). Being below a line does not release a body from any [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint). Safety, Truth, and the Rights Floor, including the environmental protections in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), bind it in full.
+  - **Primary failure:**
+    - calling a body below the line when the facts show it meets a "material when" test in any domain;
+    - treating size, headcount, regular meetings, popularity, or careful ecological recovery work alone as a crossing, or treating a body as covered without a specific crossing in a named domain;
+    - letting a no in one domain cancel a yes in another;
+    - blocking a body from forming or running because it is above a line; or
+    - letting a body ignore a [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) because it is below a line. Safety, Truth, and the Rights Floor, including the environmental protections in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), bind it in full.
+  - **Secondary failure:** splitting, boundary games, or aggregation avoidance that keep a body below a line; or using the presumption for ordinary community activity to shelter a real crossing.
 
 ---
 
