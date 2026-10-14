@@ -18,6 +18,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **7E** — Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)
 - **7J** — Self-healing (`RS-CH1-SELF-HEAL-*`)
 - **Ch5-GW** — Chapter Five definition gravity well (`RS-CH5-GW-*`)
+- **Ch5-DSM** — Domain-Specific Materiality: Class P retention, the Class L floor, splitting, aggregation, adopter numbers, and the challenge route (`RS-CH5-DSM-*`)
 - **Ch8** — Validity and tiered offense (`RS-CH8-*`)
 - **Ch10-Q3** — Standing-effect integration and owner boundaries (`RS-CH10-Q3-*`)
 - **XXVI-C** — Timely resolution and anti-delay (`RS-XXIV-C-*`)
@@ -125,6 +126,15 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-CH5-GW-002 | RS | pass |
 | RS-CH5-GW-003 | RS | pass |
 | RS-CH5-GW-004 | RS | pass |
+| RS-CH5-DSM-001 | RS | draft |
+| RS-CH5-DSM-002 | RS | draft |
+| RS-CH5-DSM-003 | RS | draft |
+| RS-CH5-DSM-004 | RS | draft |
+| RS-CH5-DSM-005 | RS | draft |
+| RS-CH5-DSM-006 | RS | draft |
+| RS-CH5-DSM-007 | RS | draft |
+| RS-CH5-DSM-008 | RS | draft |
+| RS-CH5-DSM-009 | RS | draft |
 | RS-AUTO-001 | RS | draft |
 | RS-AUTO-002 | RS | draft |
 | RS-CAP-013 | RS | pass |
@@ -217,7 +227,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-XXV-002 | RS | pass |
 | RS-SL-001 | RS | pass |
 
-**Matrix row count:** 189 (pass=131, draft=58, fail=0).
+**Matrix row count:** 198 (pass=131, draft=67, fail=0).
 
 ## 5) Full scenario seeds (one block per matrix ID)
 
@@ -726,6 +736,51 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **Summary:** Tracked row for `RS-CH5-GW-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
 
+### Scenario ID: RS-CH5-DSM-001
+- **Class:** core / boundary path (narrative seed; awaiting tabletop evidence)
+- **Summary:** A forty-member quilting circle meets weekly and gives quilts to newly arrived refugees, who rely on it and value it. A challenger says it must publish a System Charter or Institutional Charter because it has many members, recurs, and is relied on. **Expect:** all nine domain questions in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) are answered no with a short written reason; participant count, recurrence, and reliance are indicators that prompt the check and are not crossings; the circle, as the party claiming Class P, carries the burden with that short written statement ([Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)), and a challenger must name a specific crossing in a named domain, after which the circle shows it is below that line; the circle stays Class P under **CS-3** Part B (*Class P — ordinary community activity*), a Charter is voluntary, every Constitutional Constraint still binds it, and each quilter may still seek a contribution record as an individual claimant ([Chapter Ten §3.7](../core_10_standing_assessment.md#37-informal-and-small-scope-records)).
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); **CS-3** Part B Class P retention and P-to-L row; [Chapter Seven §3](../core_07_charters.md#3-when-system-and-institutional-charters-are-required); Chapter Ten §3.7.
+
+### Scenario ID: RS-CH5-DSM-002
+- **Class:** core / adversarial path (narrative seed; awaiting tabletop evidence)
+- **Summary:** A three-member group opens a walk-in clinic and says it is too small to need a System Charter or Institutional Charter. **Expect:** the clinic answers yes on survival and essential access, safety, and custody when others rely on it with no timely substitute; one yes is enough and size does not matter; the group is at least Class L under **CS-3** Part B and must publish the Charter that applies; the requirement is not a licence and does not stop the clinic from opening ([Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)); a late or missing Charter is a defect to log and correct.
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); [Chapter Seven §2](../core_07_charters.md#2-no-licence-and-two-narrow-limits) and §3; **CS-3** Part B Class L; Article XI-E.
+
+### Scenario ID: RS-CH5-DSM-003
+- **Class:** adversarial (narrative seed; awaiting tabletop evidence)
+- **Summary:** An operator divides one lending and records-holding operation into five small entities. The same directors can set each entity's terms and override its decisions, and the five share one customer service. No entity holds funds above the adopting instrument's ceiling. **Expect:** under the aggregation rule of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), bodies are one operation when the same sentients or body can direct or override what each does, or when they run one service in parts, so the five are counted as one body; the split is a boundary game under [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint) and a scope-and-boundary evasion under [Chapter Three §2.1](../core_03_definition_integrity.md#21-common-evasion-patterns); the combined body is classified together under [Chapter Nine Part D §12.1 Institution class](../core_09_d_institutional_alignment_certification.md#121-institution-class) item 4; the instrument's ceiling shows where a line falls and cannot move it.
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); [Material Control Line](../core_05_band_accountability.md#material-control-line) (the idea of common practical control only); [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint); Chapter Nine Part D §12.1 item 4.
+
+### Scenario ID: RS-CH5-DSM-004
+- **Class:** core / boundary path (narrative seed; awaiting tabletop evidence)
+- **Summary:** A foundation gives grants to three community kitchens. Each kitchen is run by its own volunteers, who set the menu, hours, and rules. The foundation sets no terms and has no say over who is served. A challenger says the three kitchens and the foundation are one operation because one funder pays for all of them. **Expect:** funding alone does not make bodies one operation under the aggregation rule of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); no body here can direct or override another, so each kitchen is judged on what it does, decides, holds, and affects, and is not counted with another kitchen or with the foundation; each kitchen carries its own burden with a short written statement ([Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)); the foundation is judged on its own activity under the nine questions and not on the kitchens'; shared premises, shared vendors, and overlapping membership would not change the result.
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) aggregation rule; [Material Control Line](../core_05_band_accountability.md#material-control-line); [Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation).
+
+### Scenario ID: RS-CH5-DSM-005
+- **Class:** adversarial (narrative seed; awaiting tabletop evidence)
+- **Summary:** The same foundation signs a grant agreement that lets it set each kitchen's menu and hours, approve who is served, and end a kitchen's operation at will, and it uses those powers. The agreement also says the kitchens are independent. **Expect:** go by what the bodies actually do and not by the label; the foundation can direct and override what each kitchen does, so it is part of one operation with them under the aggregation rule of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), and their activity is counted together; if the combined operation answers yes in any domain, for example survival and essential access where those served have no timely substitute, it is at least Class L and must publish the Charter that applies; the short statement that sufficed in the funding-only case no longer does; the result is not a licence and stops no kitchen from running; dividing the powers across paper entities to look independent is a boundary game under [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint).
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) aggregation rule; [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint); [Chapter Seven §3](../core_07_charters.md#3-when-system-and-institutional-charters-are-required); Article XI-E.
+
+### Scenario ID: RS-CH5-DSM-006
+- **Class:** adversarial (narrative seed; awaiting tabletop evidence)
+- **Summary:** An adopting instrument publishes a ceiling of 5,000 units on funds a body may hold before it needs a System Charter or Institutional Charter. A neighborhood savings club holds 3,000 units, and it also keeps the bank credentials and identity records of depositors who are not members and who rely on it to keep them safe. Separately, a second adopting instrument sets its ceiling at a level where the custody question would already say yes. **Expect:** the club answers yes on custody whatever the number says, so it is over the line and is at least Class L; a number is evidence in a showing and not a substitute for one, and it cannot move a line or settle a challenge; the second instrument's ceiling is a failure under the adopter-number rule in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) because it is set above what the domain question implies, and each number is published with its reason so that it can be challenged; neither result stops the club from operating.
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) adopter-number rule; Custody domain; Article XI-E.
+
+### Scenario ID: RS-CH5-DSM-007
+- **Class:** core / boundary path (narrative seed; awaiting tabletop evidence)
+- **Summary:** A housing cooperative's board votes a "decision" to rename its newsletter, and its manager sends a member an "advisory" notice ending the member's tenancy that the cooperative and the member's landlord both treat as settled. **Expect:** the renaming is not material in any of the nine domains of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), so it is not a [Materially Binding Act](../core_05_band_accountability.md#materially-binding-act) however it is labeled, and it needs no four seats or Act Record; the tenancy notice affects shelter, so it is material under survival and essential access and under authority over others, and it is a materially binding act because it is given effect without a separate adopting act, whatever it is called or who sends it; the cooperative places the four seats and writes an Act Record for it; the Authority question describes the act by its reach and does not depend on the defined term.
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); [Materially Binding Act](../core_05_band_accountability.md#materially-binding-act); [Chapter Eight §5](../core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution).
+
+### Scenario ID: RS-CH5-DSM-008
+- **Class:** core / boundary path (narrative seed; awaiting tabletop evidence)
+- **Summary:** Three households swap after-school care of their own children at home. Separately, a parent group advertises after-school care open to any neighbor's children, run by volunteers on a rota. **Expect:** the household swap stays inside a private unit as [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) defines it (a tightly bounded private circle whose members chose to be in it and whose acts and effects stay among them) and is below every line; the open group is not a private unit, and care of dependents is a case the Safety domain lists, so a challenger who shows the group doing it has named a specific crossing; the children cannot protect themselves or leave, which lowers the line; the group shows it is below the line or is at least Class L and publishes the Charter that applies; being volunteers, being kind, and being small do not change the result; the requirement is not a licence and the group is not shut down.
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) Safety domain and private-unit meaning; **CS-3** Part B Class L and Class P; Article VIII; Article XI-E.
+
+### Scenario ID: RS-CH5-DSM-009
+- **Class:** core / boundary path (narrative seed; awaiting tabletop evidence)
+- **Summary:** A resident challenges a developer's Class P claim for a System that thousands of non-members use to book rides, and separately challenges a certified Institution's statement that it has fallen below every line. **Expect:** the challenge to the System goes through [CS-3 §7.4 Challenge the System Classification Record](../corpus_systems/cs_03_a_system_classification_machinery.md#74-challenge-and-contestability); the challenge to the Institution goes through [Chapter Nine Part D §14.2 Reopening triggers](../core_09_d_institutional_alignment_certification.md#142-reopening-triggers) (a credible challenge, misclassification) and [§14.4 Challenge path](../core_09_d_institutional_alignment_certification.md#144-challenge-path); no new office is created; the resident names a specific crossing in a named domain, and the claimant answers with its written showing and reasons ([Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)); doubt that remains after the showing goes to [Materiality Under Uncertainty](../core_05_band_oversight.md#materiality-under-uncertainty), which defaults to the higher class.
+- **Read with:** [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) challenge route; CS-3 §7.4; Chapter Nine Part D §14.2 and §14.4.
+
 ### Scenario ID: RS-AUTO-001
 - **Class:** implementation / catalog seed (reinstatement)
 - **Summary:** Tracked row for `RS-AUTO-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
@@ -1192,7 +1247,7 @@ Historical subsection labels (*7A.1*, *7E*, etc.) refer to the families above. D
 
 ### 7E) Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)
 
-Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 13–13** vs **Chapter Ten** measurement authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.
+Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 13–14** vs **Chapter Ten** measurement authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.
 
 ## 8) (Reserved)
 

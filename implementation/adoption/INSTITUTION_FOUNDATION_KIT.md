@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the Institutional Charter fill-in, and the non-institution banner **cannot narrow core text**. A filled template that diverges from [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template), [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption), or [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start at [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) for two parties or a first qualifying body, or [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) for more than two. Use this page when cooperating sentients are ready to found an institution under that path. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Binding Institutional Charter fields: [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template).
 
@@ -138,7 +138,7 @@ The first-adopter kit’s [three substeps](FIRST_ADOPTER_KIT.md#1-three-substeps
 
 Use this after the parties know which track they are on. Two parties start from [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). More than two start from [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md).
 
-1. **Pin the edition.** Name `SC-Corpus-2026.10.12` unless a later publication cut exists. Do not mix editions.
+1. **Pin the edition.** Name `SC-Corpus-2026.10.14` unless a later publication cut exists. Do not mix editions.
 2. **Name the body and the track.** Ordinary formation (Track A) or constitutional-function machinery (Track B). If Track B, name the function in [§1.1](#11-track-b-function-pointers-same-kit) and read that owner. Do not open a new kit. If Track B and there is no recorded instrument, stop at scaffolding. Attach the [non-institution banner](#9-non-institution-banner).
 3. **Name classification honestly.** [CI-9.1](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-91-formation-proportionality): low-impact scopes stay simple; high-dependency **Class A** / **Class B** scopes take deeper diligence. Do not pick a lower class to dodge burden. If class is not yet known, say so; auditability still scales with material impact.
 4. **Fill the Chapter Five Institutional Charter fields** in [§5](#5-institutional-charter-fill-in-not-a-live-institutional-charter). Copy the completed block into the body’s custody. Leaving a filled copy in this repo is not publication.
@@ -203,7 +203,7 @@ It is not CS-10 phase entry.
 It is not a forum family.
 
 CHAPTER FIVE INSTITUTIONAL CHARTER (complete in the body's custody)
-Corpus edition pin: SC-Corpus-2026.10.12 (or later named publication cut)
+Corpus edition pin: SC-Corpus-2026.10.14 (or later named publication cut)
 Track: A ordinary formation / B constitutional-function machinery
 If Track B: recorded Chapter Seventeen instrument (where it lives):
 If Track B, function (pick one; same kit — §1.1):
@@ -290,7 +290,7 @@ Attach this to any working-group note, draft org chart, or “we are founding an
 
 ```text
 NON-INSTITUTION BANNER
-Corpus edition pin: SC-Corpus-2026.10.12
+Corpus edition pin: SC-Corpus-2026.10.14
 Date:
 
 This file is formation scaffolding and/or operations-guide cooperation.

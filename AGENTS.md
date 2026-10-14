@@ -2,7 +2,7 @@
 
 This file is a **pointer**. It is not the Constitution. It cannot narrow numbered `core_*` files.
 
-- **Edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12). **Pre-release.** Not adoption.
+- **Edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14). **Pre-release.** Not adoption.
 - **Public door:** [README.md](README.md). Adopters and operators: [START_HERE.md](START_HERE.md).
 - **Indexes point. Source binds.** Do not open `ai_corpus/indexes/id_resolver.json` for meaning. Do not treat a locator, gloss, or steward card as a duty.
 
@@ -33,6 +33,8 @@ Working files stay out of the repo root: plain-language companions go in `projec
 Front doors (README, START_HERE, ANNOUNCEMENT, `llms.txt`, `docs/index.md`): when you change something they count or quote (edition, chapter or Article numbers, translations, the Two Fundamental Questions, a `make` target, the fit list), update them in the same commit and run `make front-door-audit` (**FRONT-DOOR-01** in [doc_architecture.md](doc_architecture.md)). The edition label is the current date until the announcement: move it with `make edition-bump` (dry run: `python3 tools/bump_edition.py --root .`), not by hand. Section labels in their links are checked by `make section-label-anchor-audit` (**FRONT-DOOR-LABEL-01**).
 
 Renumbering or renaming Articles: also update the Mermaid charts that list them (**VIS-CHART-SYNC-03** in [doc_architecture.md](doc_architecture.md#chart-sync-on-renumbering-vis-chart-sync-03)).
+
+Files named like another file plus ` 2` before the extension (`core_07_charters 2.md`) are copy artifacts, not corpus, and may be deleted freely when the original exists and git does not track the copy (**FILE-COPY-SUFFIX-01** in [doc_architecture.md](doc_architecture.md#copy-suffixed-duplicate-files-file-copy-suffix-01)).
 
 New session: check that the git branch name matches the work, and rename it when it does not (**GIT-BRANCH-NAME-01** in [doc_architecture.md](doc_architecture.md#branch-naming-git-branch-name-01)).
 

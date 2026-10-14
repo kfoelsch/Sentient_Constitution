@@ -1,6 +1,6 @@
 # Sentient Constitution
 
-Edition: SC-Corpus-2026.10.12 (effective 2026-10-12). Pre-release. Opening this repository is not adoption.
+Edition: SC-Corpus-2026.10.14 (effective 2026-10-14). Pre-release. Opening this repository is not adoption.
 
 Start: README.md
 Using or adopting it: START_HERE.md

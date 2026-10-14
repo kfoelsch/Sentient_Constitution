@@ -2645,7 +2645,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim ([Chapter Nine §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)).
 - Cluster component: [Systemic effects and capture](core_05_band_continuity.md#systemic-effects-and-capture).
-- Read with: [Systemic](core_05_band_continuity.md#systemic), [Material Impact](core_05_band_oversight.md#material-impact), [Materiality](core_05_band_oversight.md#materiality), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Dependency](core_05_band_continuity.md#dependency), [Risk](core_05_band_continuity.md#risk), and [Cascading Failure](core_05_band_continuity.md#cascading-failure).
+- Read with: [Systemic](core_05_band_continuity.md#systemic), [Material Impact](core_05_band_oversight.md#material-impact), [Materiality](core_05_band_oversight.md#materiality), [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality) (its systemic and irreversible effects domain), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Dependency](core_05_band_continuity.md#dependency), [Risk](core_05_band_continuity.md#risk), and [Cascading Failure](core_05_band_continuity.md#cascading-failure).
 
 </details>
 

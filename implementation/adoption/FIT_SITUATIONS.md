@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the ranked sketches, and the kit-routing table **cannot narrow core text**. They do not add adopter types, duties, or a compliance path. A situation that “fits” this page is not [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption and not [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. Filling another kit after reading this page is still not that instrument.
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start here only to ask *where this Constitution would actually fit*. Size *N* and Class *X* body and cost profile: [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). More than two: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Naming independent review or founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Fitness screen: [`evaluation/self_application/`](../../evaluation/self_application/).
 

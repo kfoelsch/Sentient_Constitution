@@ -4,7 +4,7 @@
 
 **Status:** Process / operations-guide support — **not** binding constitutional or incorporated text. Nothing on this page can loosen or narrow what the core text says. If a signpost here ever disagrees with the core text, the core text wins and following the signpost is not a defense. The binding rules are stated in the core chapters and articles this page points to; each card names the owner text to read. Each card's **Next step** is process guidance only, kept in lockstep with the owner/clock index. If this page ever diverges from that index, the build fails (`make steward-door-lockstep-audit`).
 
-**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../README.md)). When the corpus edition changes, check every link on this page against the chapter it points to.
+**Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../README.md)). When the corpus edition changes, check every link on this page against the chapter it points to.
 
 **The same rules apply to human and AI stewards.** The signposts below do not change depending on who is reading them. The binding source is [Chapter One §17.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Symmetric Costly Constraints](../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure). Writing an answer in a markdown file does not create a standing record; only the proper process does. Human operators new to the corpus should start at [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
 
@@ -94,7 +94,7 @@ Before taking a step on a binding act, name the seat you hold on **that act**: [
 
 **Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It is one synthetic example of the [shared refusal and logging](#shared-refusal-and-logging) pointer, pinned to the same corpus edition. It is not a Chapter Ten standing record.
 
-**Pinned to corpus edition:** `SC-Corpus-2026.10.12`
+**Pinned to corpus edition:** `SC-Corpus-2026.10.14`
 
 **Why this exists:** The corpus states the sequence and the log set. Humans and AIs imitate a completed instance more reliably than they instantiate a blank checklist.
 
@@ -118,7 +118,7 @@ Same sequence for an AI steward who received the same order.
 
 **Status:** Process support — **not** binding. This filled-in instance **cannot narrow core text**. It is one synthetic example of how an affected sentient asks for challenge, review, and redress without reading the corpus. It is not a Chapter Ten standing record and not a substitute for the [Remedy](#remedy) pointer.
 
-**Pinned to corpus edition:** `SC-Corpus-2026.10.12`
+**Pinned to corpus edition:** `SC-Corpus-2026.10.14`
 
 **Why this exists:** Articles XIII-A and XIII-B require practical access. The Contest pointer covers companion bars. This screen is for the person who cannot find the home.
 

@@ -1,7 +1,7 @@
 # Print pack (not adoption)
 
 **Status:** Process / handbook support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. Opening or printing it is not [Chapter Seventeen §10](../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption.
-**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../README.md)).
+**Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../README.md)).
 **Job:** One sitting you can print: what the instrument is, the Rights Floor in one-liners, the process chain, and one situation brief.
 
 This is **not** a PDF renderer and **not** a second constitution. The generated one-file pack is [`../doc_architecture/generated/print_pack.md`](../doc_architecture/generated/print_pack.md) (`make print-pack`). If that file and the sources disagree, the sources win.

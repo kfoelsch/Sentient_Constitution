@@ -1278,7 +1278,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
   - the practical requirements of system functionality under [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
   
   **Stakeholder** and **Stakeholder Weight** supply the Chapter Five definitions for scope, form, and weight, with joint-invocation discipline supplied by the [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight) cluster.
-- **Creating new institutions and enterprises:** The right to form new institutions and businesses is stated in [**Article XI-E** (*Institutional Formation and Business Creation*)](#article-xi-e-institutional-formation-and-business-creation). Once a created institution or enterprise materially affects others, the stakeholder rights in this Article apply to it.
+- **Creating new institutions and enterprises:** The right to form new institutions and businesses is stated in [**Article XI-E** (*Institutional Formation and Business Creation*)](#article-xi-e-institutional-formation-and-business-creation). Once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality), the stakeholder rights in this Article apply to it.
 - **Qualification by standing record or role criteria:** Where standing-record-based or [Competency Bar](core_05_band_accountability.md#competency-bar) criteria affect participation status or role eligibility, **Participant Standing** applies. Restrictive consequences attach through [Standing Lock](core_05_band_accountability.md#standing-lock) on named privilege pathways.
   - Implementation must preserve procedural fairness (Chapter Five — *Procedural Fairness*) and resistance to manipulation.
   - A governance-voting lock under **Article X-B** (*Governance Participation and Voting Entitlement*) does not by itself limit a stakeholder's say. Suspending or limiting stakeholder participation takes a **stakeholder-participation** lock — such as the **Stakeholder-Participation Standing Lock** in [Chapter Eleven §5.5 Special locks](core_11_standing_integration.md#55-special-locks) when its conditions are met.
@@ -1306,7 +1306,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 
 <br>
 
-*In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
+*In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
 
 This Article sets out the rights to challenge inclusion in and exclusion from participation:
 
@@ -1321,7 +1321,8 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
 
   This carve-out **does not** relax:
   - **Article XIX** (*Standing and Participation Status*) where adjudication applies;
-  - **Chapter One** rights-collision treatment; or
+  - **Chapter One** rights-collision treatment;
+  - any Constitutional Constraint: Safety, Truth, and the Rights Floor, including [Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*), bind inclusion and exclusion decisions inside a Class P body in full; or
   - obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-3 — System classification and handling**.
 
 ### Article XI: Conscience, Expression, Association, and Cooperative Interaction
@@ -1587,7 +1588,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
 
 - Upstream: Principles: Chapter One [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), [§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§16.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-institutional-development), and [§11 Market Structure](core_01_a_values_principles.md#11-market-structure).
 - Read with: Chapter Five [*Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation), including its [creation-rights limits](core_05_band_participation.md#creation-rights-limits); [**Article XI-D** (*Assembly, Dissent, and Peaceful Protest*)](#article-xi-d-assembly-dissent-and-peaceful-protest) for gathering and association; [**Article III-C** (*Labor and Economic Floor*)](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) for worker organizing; [**Article XI-F** (*Non-Imposition and Consent in Association*)](#article-xi-f-non-imposition-and-consent-in-association); [Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity); [Chapter Eleven §5.5 Special locks](core_11_standing_integration.md#55-special-locks) (*Institutional Authority Standing Lock*); [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway).
-- Downstream: [**Article X-C** (*Stakeholder Role and Participation Rights*)](#article-x-c-stakeholder-role-and-participation-rights) and [**Article XII** (*Stakeholder System Participation, Representation, and Due Process*)](#article-xii-stakeholder-system-participation-representation-and-due-process) once a created institution or enterprise materially affects others.
+- Downstream: [**Article X-C** (*Stakeholder Role and Participation Rights*)](#article-x-c-stakeholder-role-and-participation-rights) and [**Article XII** (*Stakeholder System Participation, Representation, and Due Process*)](#article-xii-stakeholder-system-participation-representation-and-due-process) once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality).
 
 </details>
 
@@ -1633,7 +1634,7 @@ This Article sets out the right to form institutions and enterprises, the condit
 - **Related rights:**
   - gathering and association are covered by **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*);
   - organizing workers within existing productive systems is covered by [Collective Organization](core_05_band_participation.md#collective-organization) under **Article III-C** (*Labor and Economic Floor*); and
-  - once a created institution or enterprise materially affects others, the stakeholder rights in **Articles X-C** and **XII** apply to it.
+  - once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality), the stakeholder rights in **Articles X-C** and **XII** apply to it.
 - **Implementation:** Registration, [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Eighteen** incorporation discipline. That text must not be read to narrow this right beyond the two narrow gates.
 
 #### Article XI-F: Non-Imposition and Consent in Association

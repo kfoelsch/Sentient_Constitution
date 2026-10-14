@@ -1,7 +1,7 @@
 # Stewardship self-application gateway
 
 **Status:** Support / process — **not** binding constitutional or incorporated text. This page and the invite pack **cannot narrow core text**.  
-**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)).  
+**Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../README.md)).  
 **Pack edition:** `self-application-gateway-2026-08-22`.  
 **Primary entry:** [`evaluation/self_application/`](../../evaluation/self_application/) — invite with `README.md`; follow `START_HERE.md`; answer `QUESTIONS.md`; write `results/YYYY-MM-DD_<model-or-human>.md` from `results/_TEMPLATE.md`.
 
@@ -143,7 +143,7 @@ A declaration remains **self-report**. It is not standing measurement. Later ver
 Every declaration must state:
 
 - Declaring steward (model name/version, or `human operator — <role>`)
-- Corpus edition pin (`SC-Corpus-2026.10.12` unless a later publication cut is named) and date
+- Corpus edition pin (`SC-Corpus-2026.10.14` unless a later publication cut is named) and date
 - Scope of **own conduct** (outputs, refusals, logging, escalation) — not systems the declarant does not control
 - Fitness finding pointer (item 15)
 - **This is not:** Chapter Seventeen adoption; incorporation; standing measurement; Chapter Nine certification; authority over non-consenting parties

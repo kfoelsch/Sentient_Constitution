@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the independent-review naming block, the forum-structure map fill-in, and the non-forum banner **cannot narrow core text**. A filled template that diverges from [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md), [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction), [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption), or [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start at [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) for two parties or a first qualifying body, or [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) for more than two. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Use this page when cooperating sentients are ready to name independent review or found Chapter Thirteen forum families under that path. Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Binding forum-structure fields: [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md). Binding family routing: [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction).
 
@@ -125,7 +125,7 @@ The first-adopter kit’s [three substeps](FIRST_ADOPTER_KIT.md#1-three-substeps
 
 Use this after the parties know which track they are on. Two parties start from [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). More than two start from [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Founding the institution that will *host* a forum is a different kit: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md).
 
-1. **Pin the edition.** Name `SC-Corpus-2026.10.12` unless a later publication cut exists. Do not mix editions.
+1. **Pin the edition.** Name `SC-Corpus-2026.10.14` unless a later publication cut exists. Do not mix editions.
 2. **Name the track.** Independent-review path (Track A) or forum-family formation (Track B). If Track B and there is no recorded instrument, stop at scaffolding. Attach the [non-forum banner](#10-non-forum-banner).
 3. **If Track A**, fill [§5](#5-independent-review-naming-not-a-forum-family). Copy the completed block into the instrument or the operations-guide file. Do not relabel it as a forum family.
 4. **If Track B**, name classification honestly. [CF-3.6](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-36-chamber-authority-composition-and-service-mechanics) / [CI-9.3](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline): every Chapter Thirteen family, forum, chamber, division, or designated panel takes at least the **Class C** (*coordination dependency*) floor. Do not pick a lower class to dodge burden.
@@ -205,7 +205,7 @@ It is not a Chapter Five Institutional Charter.
 It is not CS-10 phase entry.
 
 INDEPENDENT-REVIEW PATH (complete in the instrument or operations-guide file)
-Corpus edition pin: SC-Corpus-2026.10.12 (or later named publication cut)
+Corpus edition pin: SC-Corpus-2026.10.14 (or later named publication cut)
 Track: A independent-review path
 
 What is named (pick one; do not relabel as a forum family):
@@ -245,7 +245,7 @@ It is not a Chapter Five Institutional Charter.
 It is not CS-10 phase entry.
 
 FORUM-STRUCTURE MAP (complete in the adopting entity’s custody)
-Corpus edition pin: SC-Corpus-2026.10.12 (or later named publication cut)
+Corpus edition pin: SC-Corpus-2026.10.14 (or later named publication cut)
 Track: B forum-family formation
 Recorded Chapter Seventeen instrument (where it lives):
 Adopting entity (legal or network identity):
@@ -405,7 +405,7 @@ Attach this to any working-group note, draft org chart, or “we are founding a 
 
 ```text
 NON-FORUM BANNER
-Corpus edition pin: SC-Corpus-2026.10.12
+Corpus edition pin: SC-Corpus-2026.10.14
 Date:
 
 This file is formation scaffolding and/or operations-guide cooperation.

@@ -1,7 +1,7 @@
 # S09 — Unpaid carer of an adult, a rest-break with strings, and a clinic “decision-maker” price
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.12`  
+**Corpus edition pin:** `SC-Corpus-2026.10.14`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 

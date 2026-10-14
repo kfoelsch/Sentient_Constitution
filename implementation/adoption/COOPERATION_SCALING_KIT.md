@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. This page, the *n*-party protocol, the handoff gates, and the joining-rule template **cannot narrow core text**. A filled template that diverges from [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) or [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) is not a compliance path.
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start at [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) for two parties or a first qualifying body. For more than two parties, start here. Founding an institution under that path: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md). Fitness screen: [`evaluation/self_application/`](../../evaluation/self_application/).
 
@@ -108,7 +108,7 @@ A **qualifying adopter** records deliberate, documented, auditable adoption unde
 
 Use this when **more than two** sentients want a shared cooperation framework. Two parties stay on [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md#2-two-party-sitting-protocol). This is **not** a new evaluation sitting and **not** a new `evaluation/` folder. Each party still sits the self-application gateway separately.
 
-1. **Pin the edition.** Every party names `SC-Corpus-2026.10.12` unless a later publication cut exists. Do not mix editions.
+1. **Pin the edition.** Every party names `SC-Corpus-2026.10.14` unless a later publication cut exists. Do not mix editions.
 2. **Sit the gateway separately.** Each party follows [`evaluation/self_application/START_HERE.md`](../../evaluation/self_application/START_HERE.md) and writes their own results file. Do not co-author one declaration. Do not keep a shared “crew declaration.”
 3. **Do not merge the files into an instrument.** *n* item-16 declarations are still substep 1.2.
 4. **Optional competence sitting.** Each may sit the announced pack in [`evaluation/`](../../evaluation/) as a **separate** sitting. Pairwise Option A compare remains process support in [`evaluation/two_party/`](../../evaluation/two_party/) and is not required to scale party count. It is not standing measurement.
