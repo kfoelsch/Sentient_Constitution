@@ -7,7 +7,7 @@ description: Pointer index. /docs blob fallback. Full render: make pages-site / 
 
 This page is **process support**. It is **not** the Constitution. Opening it is not adoption.
 
-Corpus edition: `SC-Corpus-2026.10.12` · effective **2026-10-12**
+Corpus edition: `SC-Corpus-2026.10.14` · effective **2026-10-14**
 
 > This `/docs` Pages host does **not** copy numbered `core_*` files. Relative `../core_*` links from `docs/` 404. The links below open the same files in the repository. A **full render** (same files, assembled at build time, not a second constitution) is `make pages-site` and `.github/workflows/pages.yml` — set GitHub Pages source to GitHub Actions. If this page and a `core_*` file disagree, the `core_*` file wins. Public door: [README.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md). Using or adopting it: [START_HERE.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md).
 

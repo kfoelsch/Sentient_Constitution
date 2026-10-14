@@ -1,6 +1,6 @@
 {
-  "edition": "SC-Corpus-2026.10.12",
-  "effective_date": "2026-10-12",
+  "edition": "SC-Corpus-2026.10.14",
+  "effective_date": "2026-10-14",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "featured": [
@@ -1145,7 +1145,7 @@
       "term": "Materiality",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-determination",
-      "plain_terms": "materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened.",
+      "plain_terms": "materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened. Whether a duty applies to an act or a body at all, area by area, is the separate question that [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) answers; this entry then scales the duties that do apply.",
       "href": "../../core_05_band_oversight.md#materiality"
     },
     {

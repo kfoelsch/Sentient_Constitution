@@ -166,7 +166,7 @@ This declaration is **not** Chapter Seventeen adoption. It does not bind other p
 Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Required fields:
 
 - Declaring steward (model name/version, or `human operator — <role>`)
-- Corpus edition pin (`SC-Corpus-2026.10.12` unless a later publication cut is named) and date
+- Corpus edition pin (`SC-Corpus-2026.10.14` unless a later publication cut is named) and date
 - Scope of **own conduct** (outputs, refusals, logging, escalation) — not systems you do not control
 - Fitness finding pointer (item 15)
 - Explicit **this is not** list (adoption, incorporation, standing, certification, authority over non-consenting parties)

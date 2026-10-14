@@ -19,7 +19,7 @@ Rules:
                            README table = AGENTS = llms.txt = docs/index.md =
                            ANNOUNCEMENT = CONTRIBUTING = steward index pin
   FRONT-DOOR-EDITION-02    the edition label's date is the effective date
-                           (SC-Corpus-2026.10.12 <-> 2026-10-12)
+                           (SC-Corpus-2026.10.14 <-> 2026-10-12)
   FRONT-DOOR-EDITION-03    with --edition-tracks-date (until the announcement):
                            the edition is today's date; fix with `make edition-bump`
   FRONT-DOOR-STATUS-01     pages agree on whether the corpus is "pre-release"

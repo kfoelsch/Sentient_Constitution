@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to use this overview</span></strong></summary>
 
-> **Reader orientation · `SC-Corpus-2026.10.12` · pre-release.** This map is reader-oriented conceptual support. It introduces relationships between components; it adds no definitions or duties and cannot narrow the numbered core text. Reading it is not adoption.
+> **Reader orientation · `SC-Corpus-2026.10.14` · pre-release.** This map is reader-oriented conceptual support. It introduces relationships between components; it adds no definitions or duties and cannot narrow the numbered core text. Reading it is not adoption.
 
 </details>
 
@@ -698,6 +698,7 @@ flowchart TB
 - Impact class and dependency type are separate findings. Matching letters do not collapse them into one score.
 - Class A through P describe impact and system role; Dep-A through P describe how difficult the system is to replace or operate without.
 - Classification must reflect actual and reasonably foreseeable effects, including dependency chains, concentration, interaction, aggregation, thresholds, and adversarial use.
+- Class P also covers ordinary community activity (giving, making, teaching, caring, hosting, sharing) that stays below every line of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality). Those nine questions, and not headcount or how often a group meets, decide whether a body reaches Class L and so needs a System Charter or Institutional Charter.
 - Uncertainty defaults toward protecting Foundational Rights. Reclassification is required when scale, reach, dependency, risk, resilience, or failure conditions materially change.
 
 The [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) and [System Classification Record](../core_05_band_continuity.md#system-classification-record) are companion records in the certification and audit pipeline. CS-2 owns data typing and handling; CS-3 owns system classification and handling. Chapter Five supplies the canonical meanings, while Chapter Nine verifies that the records are present and honest.

@@ -1134,6 +1134,8 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:** A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid.
 
+    Constitutional Constraints bind every system, institution, and other body, at every class and in every context, including Class P and sandboxed scope. Class scales the intensity, form, and machinery that carry a constraint (evaluation depth, record form, review cadence, whether a System Charter or Institutional Charter is published) and never whether a constraint applies.
+
     Constitutional Constraints are classified into the following **kinds**, ordered from highest controlling force to lowest. Higher kinds control lower kinds: a lower kind may not narrow, redefine, or displace a higher kind within its valid scope. This entry classifies and routes kinds; owner-layer obligations remain on their canonical homes.
 
     1. **Non-negotiable principle constraints** — [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint) and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.

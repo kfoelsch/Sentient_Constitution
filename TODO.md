@@ -31,6 +31,13 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-10-14 — Domain-Specific Materiality: open decisions
+
+Records: project docs `claude/domain-specific-materiality-evaluation.md` and `claude/domain-specific-materiality-outstanding-issues-implementation.md`; the work is committed on the branch named in [project/MEMLOG.md](project/MEMLOG.md).
+
+- [ ] **Class L capacity load is not modeled.** One yes in any of the nine domains makes a body at least Class L, however small, so more bodies will publish a System Charter or Institutional Charter and more classification challenges will reach the existing routes (CS-3 §7.4; Chapter Nine Part D §14.2 and §14.4). Those routes were not sized for that. Decide before the announcement whether to model the load or to say plainly that it is not modeled.
+- [ ] **Scenario catalog drift check.** `python3 tools/emit_regression_scenarios.py --check` is not part of `make regression`. Wiring it in would make any direct edit to the scenarios markdown fail until `tools/architecture/regression_scenarios.json` is updated. Decide whether to wire it in.
+
 ### 2026-10-13 — Institutional alignment certification (Chapter Nine Part D): drafted on a branch, signed off by the steward 2026-10-13
 
 Evaluation: [institutional-alignment-certification-evaluation](evidence/2026-10-13/institutional_alignment_certification_implementation.md) (project doc `claude/institutional-alignment-certification-evaluation.md`). Drafted on branch `docs/ch09-institutional-alignment-certification` and committed there (7fadbbe4). This is a core change touching Chapters 7, 8, 9, and 13 (Lane D). The earlier hold on core changes to Chapter Nine and Chapter Thirteen was **lifted by the steward on 2026-10-13**: the announcement will not be made until the corpus is complete, so there is no timing hold.
@@ -79,7 +86,6 @@ Evaluation outcome: do not add independent process certification or process clas
 Done: the CS-3 §7.10 review and the Process and Institution definitions in Chapter Five are archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 
 - [ ] **Name B** so it is neither "system alignment certification" nor the Chapter Thirteen §5 forum-to-forum sense.
-- [ ] **Check `MINIMUM_VIABLE_ADOPTER.md` §4.1** against `adoption/ANNOUNCEMENT.md` so the outline never reads as a promised feature.
 - [ ] **B needs a core proposal (Lane D)** touching Chapter Nine Part B §8.1 (formerly §6.1, earlier §11.1) and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. The timing hold was lifted on 2026-10-13 (the announcement waits for completeness); Option B stays an outlined, post-adoption goal until a steward decision brings it into the core.
 - [ ] **Connect to the process-ownership draft:** its floor-touching test is reused as a B guardrail, and its use of "certification" for forum-to-forum routing is part of the naming collision.
 
@@ -97,7 +103,7 @@ Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editin
 - [ ] **Widget row-keeping rule** (row stays only if the section names the term; linked terms get a row). Clears about 79 unmentioned rows and 32 missing ones.
 - [ ] **Child widgets inherit from the parent** (128 of 252 child rows repeat the parent; 11 children fully contained).
 - [ ] **Necessity and Proportionality** kept at §6.1.1, §6.1.3, §8.2 and limiting sections only (47 rows today).
-- [ ] **Align the §3.1 and §3.2 heading parentheticals** ("Safety (Harm Constraint)", "Truth (Epistemic Integrity Constraint)") with the defined labels. Changes heading anchors, so check inbound links first.
+- [ ] **Align the Chapter One §4 and §5 heading parentheticals** ("Safety (Harm Constraint)", "Truth (Epistemic Integrity Constraint)") with the defined labels. Changes heading anchors, so check inbound links first.
 - [ ] **Nest the §12.5 vocabulary** under the contingent-settlement cluster; fold Capture of Resolution Pathways into System Capture.
 
 ### 2026-10-01 — Chapter One principles and Chapter Five definitions: already covered
@@ -214,6 +220,7 @@ Keep this active file limited to editor checks, current open work, and short arc
 
 ## Archives
 
+- **2026-10-14 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-14.md](archive/TODO_RESOLVED_2026-10-14.md)
 - **2026-10-13 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md)
 - **2026-10-03 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-03.md](archive/TODO_RESOLVED_2026-10-03.md)
 - **2026-10-01 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-01.md](archive/TODO_RESOLVED_2026-10-01.md)

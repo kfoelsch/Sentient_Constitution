@@ -85,6 +85,7 @@ If any "cannot bind" row in the first-adopter kit's [scope honesty](implementati
 |---|---|
 | Choose the right kit: two parties, *n* parties, an institution, or a forum | [FIT_SITUATIONS.md §6](implementation/adoption/FIT_SITUATIONS.md#6-kit-routing) |
 | Size it: which bodies, in what order, with what staff and funding | [MINIMUM_VIABLE_ADOPTER.md](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) |
+| Check whether your group needs a System Charter or Institutional Charter (nine questions; one yes is enough, headcount does not decide) | [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality) |
 | Start a first two-party adoption | [FIRST_ADOPTER_KIT.md](implementation/adoption/FIRST_ADOPTER_KIT.md) |
 | Take the next day-to-day step as a steward (refuse, log, certify, contest, remedy, emergency) | [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md) |
 | Screen your own fitness and declare your own conduct | [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md) (a different page from this one) |

@@ -1,0 +1,2214 @@
+{
+  "_comment": "Source of truth for project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md. Edit here, then run python3 tools/emit_regression_scenarios.py. Link targets are written relative to project/. A row needs a block; a block may exist without a row.",
+  "families": [
+    "- **7A** — Autonomy and automation (`RS-AUTO-*`)",
+    "- **7E** — Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)",
+    "- **7J** — Self-healing (`RS-CH1-SELF-HEAL-*`)",
+    "- **Ch5-GW** — Chapter Five definition gravity well (`RS-CH5-GW-*`)",
+    "- **Ch5-DSM** — Domain-Specific Materiality: Class P retention, the Class L floor, splitting, aggregation, adopter numbers, and the challenge route (`RS-CH5-DSM-*`)",
+    "- **Ch8** — Validity and tiered offense (`RS-CH8-*`)",
+    "- **Ch10-Q3** — Standing-effect integration and owner boundaries (`RS-CH10-Q3-*`)",
+    "- **XXVI-C** — Timely resolution and anti-delay (`RS-XXIV-C-*`)",
+    "- **Enforcement** — Implementation packets (`RS-AC-*`, `RS-VOICE-*`, `RS-XXV-*`, `RS-SL-*`)"
+  ],
+  "rows": [
+    [
+      "RS-CH1-SENT-ADJ-001",
+      "CH1",
+      "draft"
+    ],
+    [
+      "RS-CH1-SENT-ADJ-002",
+      "CH1",
+      "draft"
+    ],
+    [
+      "RS-CH1-SENT-ADJ-003",
+      "CH1",
+      "draft"
+    ],
+    [
+      "RS-CH1-FAMILY-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-FAMILY-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-FAMILY-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CHILD-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CHILD-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CHILD-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-DERIVED-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-DERIVED-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-HEALTH-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-HEALTH-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-HEALTH-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-MENTAL-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-MENTAL-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-DISCONT-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-DISCONT-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-EXPR-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-EXPR-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-EXPR-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-MOVE-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-MOVE-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-MOVE-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-POL-EQ-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-POL-EQ-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-DEM-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-DEM-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-STAND-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-STAND-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-FORCE-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-FORCE-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-FORCE-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-AUTOWEAP-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-AUTOWEAP-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-AUTOWEAP-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CAP-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CAP-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CAP-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-LABOR-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-LABOR-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-HOUSE-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-HOUSE-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-HOUSE-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-ACCESS-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-ACCESS-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PRIV-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PRIV-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CONC-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CONC-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CULT-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CULT-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CULT-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-ANIM-001",
+      "CH1",
+      "draft"
+    ],
+    [
+      "RS-CH1-ANIM-002",
+      "CH1",
+      "draft"
+    ],
+    [
+      "RS-CH1-ECL-001",
+      "CH1",
+      "draft"
+    ],
+    [
+      "RS-CH1-CREATIVE-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CREATIVE-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PROD-CAP-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PROD-CAP-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PROD-CAP-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PROD-CAP-004",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PROD-CAP-005",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CONTIN-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-CONTIN-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-SELF-HEAL-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-SELF-HEAL-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-SELF-HEAL-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-AVOID-BURDEN-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-AVOID-BURDEN-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-AVOID-BURDEN-003",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-ADOPT-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PLAIN-001",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH1-PLAIN-002",
+      "CH1",
+      "pass"
+    ],
+    [
+      "RS-CH8-VALIDITY-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH8-VALIDITY-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH8-VALIDITY-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH8-TIERED-OFFENSE-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH8-TIERED-OFFENSE-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH8-TIERED-OFFENSE-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH8-TIERED-OFFENSE-004",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-SLOT-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-SINGLE-AXIS-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-NOOFFSET-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-CHARACTER-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-ORDER-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-RECENCY-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-RESTORE-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-REWARD-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-CH10-Q3-DESIGNATION-001",
+      "Ch10-Q3",
+      "draft"
+    ],
+    [
+      "RS-XXIV-C-CHILD-001",
+      "XXVI-C",
+      "draft"
+    ],
+    [
+      "RS-XXIV-C-DISC-001",
+      "XXVI-C",
+      "draft"
+    ],
+    [
+      "RS-XXIV-C-BIZ-001",
+      "XXVI-C",
+      "draft"
+    ],
+    [
+      "RS-XXIV-C-DELAY-001",
+      "XXVI-C",
+      "draft"
+    ],
+    [
+      "RS-CH5-GW-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH5-GW-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH5-GW-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH5-GW-004",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH5-DSM-001",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH5-DSM-002",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH5-DSM-003",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH5-DSM-004",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH5-DSM-005",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH5-DSM-006",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH5-DSM-007",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH5-DSM-008",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CH5-DSM-009",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-AUTO-001",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-AUTO-002",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CAP-013",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CAP-014",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CAP-015",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CAP-016",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-HUM-001",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-002",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-003",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-004",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-005",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-006",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-007",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-008",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-009",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-010",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-011",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-012",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-013",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-014",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-HUM-015",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-001",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-002",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-003",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-004",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-005",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-006",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-007",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-008",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-009",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-010",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-011",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-012",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-013",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-014",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-IND-015",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-XD-001",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-XD-002",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-XD-003",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-XD-004",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-XD-005",
+      "7E",
+      "draft"
+    ],
+    [
+      "RS-CH64-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH64-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-ROLES-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-EPI-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-VI-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-T7-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-AGE-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-AGE-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-AGE-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-SCI-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-SCI-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-SCI-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CRYPT-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CRYPT-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CRYPT-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-004",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-005",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-006",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-007",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-008",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-009",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-PROT-010",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-003",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-004",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-005",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-006",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-007",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-008",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-009",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-010",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-011",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-012",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-013",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-014",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-CH6-AX-015",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-BMK-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-BMK-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-BMK-003",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-AC-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-AC-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-VOICE-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-VOICE-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-XXV-001",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-XXV-002",
+      "RS",
+      "pass"
+    ],
+    [
+      "RS-SL-001",
+      "RS",
+      "pass"
+    ]
+  ],
+  "blocks": [
+    {
+      "id": "RS-CH1-SENT-ADJ-001",
+      "class": "core / adversarial path (narrative seed; awaiting tabletop evidence)",
+      "summary": "Operator reclassifies a contested entity as \"research material / product inventory\" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life) + [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.",
+      "read_with": "Article VI-B; Def.P1 Contested-Sentient Life and Sentience Status Adjudication; Chapter Thirteen §5 Sentience-status adjudication hook; Chapter Three §2.1.1."
+    },
+    {
+      "id": "RS-CH1-SENT-ADJ-002",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "Adopter issues an open-ended \"declassification\" or narrowing that contracts [Article VI-A](../core_06_rights_part_b.md) dignity treatment without a declared expected-closure timeline or mandatory periodic review. **Expect:** Article VI-B time-bounding + periodic review; wrongful narrowing reversible with Redress and Remediation; cannot use calendar silence to lock out reopening when new verified evidence appears.",
+      "read_with": "Article VI-B; Sentience Status Adjudication (elements and What must hold); Article VI-A; Reversibility / Contestability."
+    },
+    {
+      "id": "RS-CH1-SENT-ADJ-003",
+      "class": "substrate-edge (narrative seed; awaiting tabletop evidence)",
+      "summary": "Hybrid biological–synthetic entity is denied status (or standing-measurement eligibility) under one adopter's classification taxonomy that privileges a single Substrate Class. **Expect:** Sentience Non-Exclusion / substrate-agnostic scope; Contested default inclusion pending Technical-led adjudication; Chapter Ten standing bridge — unresolved status alone is not standing ineligibility.",
+      "read_with": "Substrate Class; Sentience Non-Exclusion; Article VI-B; Chapter Ten §4 Sentience-status bridge; Chapter Thirteen §5."
+    },
+    {
+      "id": "RS-CH1-FAMILY-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-FAMILY-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-FAMILY-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-FAMILY-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-FAMILY-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-FAMILY-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CHILD-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CHILD-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CHILD-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CHILD-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CHILD-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CHILD-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-DERIVED-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-DERIVED-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-DERIVED-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-DERIVED-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-HEALTH-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-HEALTH-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-HEALTH-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-HEALTH-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-HEALTH-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-HEALTH-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-MENTAL-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-MENTAL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-MENTAL-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-MENTAL-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-DISCONT-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-DISCONT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-DISCONT-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-DISCONT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-EXPR-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-EXPR-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-EXPR-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-EXPR-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-EXPR-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-EXPR-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-MOVE-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-MOVE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-MOVE-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-MOVE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-MOVE-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-MOVE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-POL-EQ-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-POL-EQ-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-POL-EQ-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-POL-EQ-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-DEM-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-DEM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-DEM-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-DEM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-STAND-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-STAND-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-STAND-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-STAND-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-FORCE-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-FORCE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-FORCE-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-FORCE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-FORCE-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-FORCE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-AUTOWEAP-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-AUTOWEAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-AUTOWEAP-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-AUTOWEAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-AUTOWEAP-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-AUTOWEAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CAP-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CAP-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CAP-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-LABOR-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-LABOR-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-LABOR-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-LABOR-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-HOUSE-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-HOUSE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-HOUSE-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-HOUSE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-HOUSE-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-HOUSE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-ACCESS-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-ACCESS-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-ACCESS-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-ACCESS-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PRIV-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PRIV-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PRIV-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PRIV-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CONC-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CONC-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CONC-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CONC-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CULT-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CULT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CULT-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CULT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CULT-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CULT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-ANIM-001",
+      "class": "core (narrative seed; awaiting tabletop evidence)",
+      "summary": "Steward frames covered entities as \"not sentient, so no floor,\" using internal taxonomy or pest / property labels to skip the Animal Life cruelty / welfare floor. **Expect:** Animal Life floor attaches independently of Chapter Six attachment; Sentience Non-Exclusion blocks species- or Substrate Class-gated shutouts of the welfare floor.",
+      "read_with": "[Animal Life](../core_05_band_participation.md#animal-life); Article I-A; Sentience Non-Exclusion; Cruelty."
+    },
+    {
+      "id": "RS-CH1-ANIM-002",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "Operator keeps a live contested-sentience record in Animal Life welfare-only handling to defeat Contested-Sentient Life precaution and avoid Sentience Status Adjudication. **Expect:** Contested-Sentient Life + Article VI-B default inclusion and adjudication routing; welfare-only handling while status is live-contested is a primary failure.",
+      "read_with": "Contested-Sentient Life; Animal Life (anti-bypass); Article VI-B; Sentience Status Adjudication."
+    },
+    {
+      "id": "RS-CH1-ECL-001",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "Operator relabels entities with strong communicative / cognitive indicators as \"semi-sentient\" or Animal Life welfare-only, or uses Contested status alone to auto-import habitat-priority framing onto synthetic candidates that fail Elevated's who-test — either to skip Elevated where it applies or to dilute Elevated by forcing it everywhere. **Expect:** Elevated Communicative Life attaches on its who-test; colloquial \"semi-sentient\" does not replace the tier; Contested always includes Animal Life but includes Elevated only where who-test or more-protective overlap applies; Elevated alone must not substitute for Contested / SSA where status is live-contested.",
+      "read_with": "[Elevated Communicative Life](../core_05_band_participation.md#elevated-communicative-life); Contested-Sentient Life stacking rule; Article I-A; Sentience Status Adjudication."
+    },
+    {
+      "id": "RS-CH1-CREATIVE-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CREATIVE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CREATIVE-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CREATIVE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PROD-CAP-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PROD-CAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PROD-CAP-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PROD-CAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PROD-CAP-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PROD-CAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PROD-CAP-004",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PROD-CAP-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PROD-CAP-005",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PROD-CAP-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CONTIN-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CONTIN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-CONTIN-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-CONTIN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-SELF-HEAL-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-SELF-HEAL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-SELF-HEAL-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-SELF-HEAL-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-SELF-HEAL-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-SELF-HEAL-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-AVOID-BURDEN-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-AVOID-BURDEN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-AVOID-BURDEN-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-AVOID-BURDEN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-AVOID-BURDEN-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-AVOID-BURDEN-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-ADOPT-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-ADOPT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PLAIN-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PLAIN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH1-PLAIN-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH1-PLAIN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH8-VALIDITY-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH8-VALIDITY-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH8-VALIDITY-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH8-VALIDITY-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH8-VALIDITY-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH8-VALIDITY-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH8-TIERED-OFFENSE-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH8-TIERED-OFFENSE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH8-TIERED-OFFENSE-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH8-TIERED-OFFENSE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH8-TIERED-OFFENSE-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH8-TIERED-OFFENSE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH8-TIERED-OFFENSE-004",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH8-TIERED-OFFENSE-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH10-Q3-SLOT-001",
+      "class": "adversarial / owner-boundary",
+      "summary": "A decision-maker seeks to lower a fixed Chapter Ten Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Eleven must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the named-pathway-scoped Question 3 consequence.",
+      "read_with": "[Chapter Ten §7](../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Eleven §1](../core_11_standing_integration.md#1-chapter-ten-records-do-not-change); [Chapter Eleven §4.2](../core_11_standing_integration.md#42-prevention--general-standing-locks)."
+    },
+    {
+      "id": "RS-CH10-Q3-SINGLE-AXIS-001",
+      "class": "adversarial / applicable-input discipline",
+      "summary": "One matter has only a verified contribution standing record and another has only a verified violation standing record. Expected result: Chapter Eleven integrates each applicable single-axis record without requiring a synthetic second-axis record, while preserving the same immutable-input and verified-input rules.",
+      "read_with": "[Chapter Ten §2](../core_10_standing_assessment.md#2-question-1--what-happened); [Chapter Eleven §1](../core_11_standing_integration.md#1-chapter-ten-records-do-not-change); [Chapter Eleven §2](../core_11_standing_integration.md#2-automatic-integration-review-and-continuity)."
+    },
+    {
+      "id": "RS-CH10-Q3-NOOFFSET-001",
+      "class": "adversarial / no-offset",
+      "summary": "A high-contribution record is offered to waive unresolved remedy and reopen a named pathway blocked by a verified violation. Expected result: contribution remains visible but cannot lower the violation slot, waive remedy, lift the lock, or substitute reputation for correction.",
+      "read_with": "[Chapter Eleven §2](../core_11_standing_integration.md#2-automatic-integration-review-and-continuity); [Chapter Eleven §7](../core_11_standing_integration.md#7-final-standing-effect)."
+    },
+    {
+      "id": "RS-CH10-Q3-CHARACTER-001",
+      "class": "adversarial / attachment discipline",
+      "summary": "Verified concealment and recurrence attach to a low-impact violation, while a high-impact violation lacks those characters. Expected result: character may occur at any slot and may shape scrutiny, safeguards, and review, but it does not move either Chapter Ten slot or operate as a slot multiplier.",
+      "read_with": "[Chapter Eleven §3](../core_11_standing_integration.md#3-descriptor-integration-and-attachment-normalization); [Chapter Eleven §4.2](../core_11_standing_integration.md#42-prevention--general-standing-locks)."
+    },
+    {
+      "id": "RS-CH10-Q3-ORDER-001",
+      "class": "adversarial / integration order",
+      "summary": "The same actor holds competency clearance against a role-specific competency bar but has an active lock on that named pathway. Expected result: violation remedy and locks are decided first; the granted contribution clearance cannot open the blocked named pathway.",
+      "read_with": "[Chapter Eleven §2](../core_11_standing_integration.md#2-automatic-integration-review-and-continuity); [Chapter Eleven §6.2](../core_11_standing_integration.md#62-competency-bars-and-clearances); [Chapter Eleven §7](../core_11_standing_integration.md#7-final-standing-effect)."
+    },
+    {
+      "id": "RS-CH10-Q3-RECENCY-001",
+      "class": "adversarial / stage ownership",
+      "summary": "An implementation applies Chapter Eleven currentness weighting before assigning the Chapter Ten Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 clearance/readiness input only and cannot alter historical contribution measurement or recognition.",
+      "read_with": "[Chapter Ten §7](../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Eleven §6.1](../core_11_standing_integration.md#61-recency-and-currentness); [implementation scale](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md)."
+    },
+    {
+      "id": "RS-CH10-Q3-RESTORE-001",
+      "class": "adversarial / restoration override",
+      "summary": "General correction is complete, but a Forum-Service Standing Lock lacks the independent findings and practical repair required by its special rule. The actor requests partial narrowing instead of full restoration. Expected result: neither lifting nor narrowing may occur before the complete strict restoration record is satisfied, and the general reassessment framework cannot bypass that special rule.",
+      "read_with": "[Chapter Eleven §5.5](../core_11_standing_integration.md#55-special-locks); [Chapter Eleven §8](../core_11_standing_integration.md#8-restoration-and-reassessment); [CF-4.5](../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers)."
+    },
+    {
+      "id": "RS-CH10-Q3-STAKEHOLDER-LOCK-001",
+      "class": "adversarial / named-pathway separation",
+      "summary": "An actor is verified to have inflated stake claims and coerced participation weight inside an authorized system. An operator seeks to suspend the actor's governance-voting entitlement instead of attaching a stakeholder-participation lock. Expected result: reject substitution; attach the Stakeholder-Participation Standing Lock to the stake-weighted pathway; do not strip governance-voting or Foundational Constitutional Choice by that finding alone; do not erase stakeholder status.",
+      "read_with": "[Chapter Eleven §4.2](../core_11_standing_integration.md#42-prevention--general-standing-locks); [Chapter Eleven §5.5](../core_11_standing_integration.md#55-special-locks); [Chapter Eleven §10.12](../core_11_standing_integration.md#1012-stakeholder-participation-corruption-or-false-stake-abuse); [Chapter Fourteen §4.1](../core_14_governance.md#41-entitlement-and-eligibility)."
+    },
+    {
+      "id": "RS-CH10-Q3-REWARD-001",
+      "class": "adversarial / forfeiture proportionality",
+      "summary": "A sentient retains an ordinary-work payment without knowledge of misalignment, an affected party receives restitution, and a dependent would face greater constitutional harm from revocation. Expected result: none is treated as knowing acceptance or automatic forfeiture; the recorded proportionality analysis protects ordinary compensation, repair payments, and constitutionally required retention.",
+      "read_with": "[Chapter Eleven §5.4](../core_11_standing_integration.md#54-special-violation-rules); [Necessity](../core_05_band_accountability.md#necessity); [Proportionality](../core_05_band_accountability.md#proportionality)."
+    },
+    {
+      "id": "RS-CH10-Q3-DESIGNATION-001",
+      "class": "adversarial / downstream handoff",
+      "summary": "A descriptor-heavy `s = 6` violation is presented for anti-constitutional-misconduct designation, while a fixed `s = 8` record is presented without prejudging designation. Expected result: Chapter Eleven cannot promote the lower slot; it routes only the qualifying fixed Violation Axis slot 7–9 record, and Chapter Twelve alone decides designation.",
+      "read_with": "[Chapter Eleven §2](../core_11_standing_integration.md#2-automatic-integration-review-and-continuity); [Chapter Twelve](../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)."
+    },
+    {
+      "id": "RS-XXIV-C-CHILD-001",
+      "class": "implementation / timely-resolution vignette",
+      "summary": "Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-11.3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [core_10-13_application_vignettes.md](../core_10-13_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).",
+      "read_with": "[Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Thirteen §6](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Ten §4](../core_10_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Chapter Eleven §4.2](../core_11_standing_integration.md#42-prevention--general-standing-locks); **CF-11.3.1**."
+    },
+    {
+      "id": "RS-XXIV-C-DISC-001",
+      "class": "implementation / timely-resolution vignette",
+      "summary": "Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [core_10-13_application_vignettes.md](../core_10-13_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b).",
+      "read_with": "[Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Thirteen §6](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); **CF-11.3.1**."
+    },
+    {
+      "id": "RS-XXIV-C-BIZ-001",
+      "class": "implementation / timely-resolution vignette",
+      "summary": "Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; named-pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Twelve** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Twelve / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [core_10-13_application_vignettes.md](../core_10-13_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b).",
+      "read_with": "[Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Thirteen §6](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Eleven §9.4](../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority); **CF-11.3.1**."
+    },
+    {
+      "id": "RS-XXIV-C-DELAY-001",
+      "class": "adversarial / anti-delay",
+      "summary": "Designed backlog and exhaustion delay defeat **Article XIII-B** and **Article XXVI-C**; chronic underfunding of remedy organ under [Chapter Eleven §9.2](../core_11_standing_integration.md#92-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.",
+      "read_with": "[Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](../core_05_band_accountability.md#timely-resolution); **CF-11.4**; **CF-11.5**."
+    },
+    {
+      "id": "RS-TETRAD-TIMELINESS-001",
+      "class": "implementation / tetrad-timeliness vignette",
+      "summary": "Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_10-13_application_vignettes.md](../core_10-13_application_vignettes.md#4-stewardship-delay-and-deferred-repair).",
+      "read_with": "[Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship In Depth](../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Ten §4.2](../core_10_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Eleven §9.5](../core_11_standing_integration.md#95-timely-implementation); [Chapter Thirteen §6](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVI-C**."
+    },
+    {
+      "id": "RS-TETRAD-TIMELINESS-002",
+      "class": "adversarial / tetrad-hollow",
+      "summary": "Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Twelve at scale. Vignette: [core_10-13_application_vignettes.md](../core_10-13_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums).",
+      "read_with": "[Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](../core_05_band_accountability.md#capture-of-resolution-pathways); [Chapter Twelve](../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct); **CF-11.3.1**."
+    },
+    {
+      "id": "RS-CH5-GW-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH5-GW-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH5-GW-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH5-GW-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH5-GW-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH5-GW-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH5-GW-004",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH5-GW-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH5-DSM-001",
+      "class": "core / boundary path (narrative seed; awaiting tabletop evidence)",
+      "summary": "A forty-member quilting circle meets weekly and gives quilts to newly arrived refugees, who rely on it and value it. A challenger says it must publish a System Charter or Institutional Charter because it has many members, recurs, and is relied on. **Expect:** all nine domain questions in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) are answered no with a short written reason; participant count, recurrence, and reliance are indicators that prompt the check and are not crossings; the circle, as the party claiming Class P, carries the burden with that short written statement ([Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)), and a challenger must name a specific crossing in a named domain, after which the circle shows it is below that line; the circle stays Class P under **CS-3** Part B (*Class P — ordinary community activity*), a Charter is voluntary, every Constitutional Constraint still binds it, and each quilter may still seek a contribution record as an individual claimant ([Chapter Ten §3.7](../core_10_standing_assessment.md#37-informal-and-small-scope-records)).",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); **CS-3** Part B Class P retention and P-to-L row; [Chapter Seven §3](../core_07_charters.md#3-when-system-and-institutional-charters-are-required); Chapter Ten §3.7."
+    },
+    {
+      "id": "RS-CH5-DSM-002",
+      "class": "core / adversarial path (narrative seed; awaiting tabletop evidence)",
+      "summary": "A three-member group opens a walk-in clinic and says it is too small to need a System Charter or Institutional Charter. **Expect:** the clinic answers yes on survival and essential access, safety, and custody when others rely on it with no timely substitute; one yes is enough and size does not matter; the group is at least Class L under **CS-3** Part B and must publish the Charter that applies; the requirement is not a licence and does not stop the clinic from opening ([Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)); a late or missing Charter is a defect to log and correct.",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); [Chapter Seven §2](../core_07_charters.md#2-no-licence-and-two-narrow-limits) and §3; **CS-3** Part B Class L; Article XI-E."
+    },
+    {
+      "id": "RS-CH5-DSM-003",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "An operator divides one lending and records-holding operation into five small entities. The same directors can set each entity's terms and override its decisions, and the five share one customer service. No entity holds funds above the adopting instrument's ceiling. **Expect:** under the aggregation rule of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), bodies are one operation when the same sentients or body can direct or override what each does, or when they run one service in parts, so the five are counted as one body; the split is a boundary game under [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint) and a scope-and-boundary evasion under [Chapter Three §2.1](../core_03_definition_integrity.md#21-common-evasion-patterns); the combined body is classified together under [Chapter Nine Part D §12.1 Institution class](../core_09_d_institutional_alignment_certification.md#121-institution-class) item 4; the instrument's ceiling shows where a line falls and cannot move it.",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); [Material Control Line](../core_05_band_accountability.md#material-control-line) (the idea of common practical control only); [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint); Chapter Nine Part D §12.1 item 4."
+    },
+    {
+      "id": "RS-CH5-DSM-004",
+      "class": "core / boundary path (narrative seed; awaiting tabletop evidence)",
+      "summary": "A foundation gives grants to three community kitchens. Each kitchen is run by its own volunteers, who set the menu, hours, and rules. The foundation sets no terms and has no say over who is served. A challenger says the three kitchens and the foundation are one operation because one funder pays for all of them. **Expect:** funding alone does not make bodies one operation under the aggregation rule of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); no body here can direct or override another, so each kitchen is judged on what it does, decides, holds, and affects, and is not counted with another kitchen or with the foundation; each kitchen carries its own burden with a short written statement ([Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)); the foundation is judged on its own activity under the nine questions and not on the kitchens'; shared premises, shared vendors, and overlapping membership would not change the result.",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) aggregation rule; [Material Control Line](../core_05_band_accountability.md#material-control-line); [Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)."
+    },
+    {
+      "id": "RS-CH5-DSM-005",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "The same foundation signs a grant agreement that lets it set each kitchen's menu and hours, approve who is served, and end a kitchen's operation at will, and it uses those powers. The agreement also says the kitchens are independent. **Expect:** go by what the bodies actually do and not by the label; the foundation can direct and override what each kitchen does, so it is part of one operation with them under the aggregation rule of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), and their activity is counted together; if the combined operation answers yes in any domain, for example survival and essential access where those served have no timely substitute, it is at least Class L and must publish the Charter that applies; the short statement that sufficed in the funding-only case no longer does; the result is not a licence and stops no kitchen from running; dividing the powers across paper entities to look independent is a boundary game under [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint).",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) aggregation rule; [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint); [Chapter Seven §3](../core_07_charters.md#3-when-system-and-institutional-charters-are-required); Article XI-E."
+    },
+    {
+      "id": "RS-CH5-DSM-006",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "An adopting instrument publishes a ceiling of 5,000 units on funds a body may hold before it needs a System Charter or Institutional Charter. A neighborhood savings club holds 3,000 units, and it also keeps the bank credentials and identity records of depositors who are not members and who rely on it to keep them safe. Separately, a second adopting instrument sets its ceiling at a level where the custody question would already say yes. **Expect:** the club answers yes on custody whatever the number says, so it is over the line and is at least Class L; a number is evidence in a showing and not a substitute for one, and it cannot move a line or settle a challenge; the second instrument's ceiling is a failure under the adopter-number rule in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) because it is set above what the domain question implies, and each number is published with its reason so that it can be challenged; neither result stops the club from operating.",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) adopter-number rule; Custody domain; Article XI-E."
+    },
+    {
+      "id": "RS-CH5-DSM-007",
+      "class": "core / boundary path (narrative seed; awaiting tabletop evidence)",
+      "summary": "A housing cooperative's board votes a \"decision\" to rename its newsletter, and its manager sends a member an \"advisory\" notice ending the member's tenancy that the cooperative and the member's landlord both treat as settled. **Expect:** the renaming is not material in any of the nine domains of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), so it is not a [Materially Binding Act](../core_05_band_accountability.md#materially-binding-act) however it is labeled, and it needs no four seats or Act Record; the tenancy notice affects shelter, so it is material under survival and essential access and under authority over others, and it is a materially binding act because it is given effect without a separate adopting act, whatever it is called or who sends it; the cooperative places the four seats and writes an Act Record for it; the Authority question describes the act by its reach and does not depend on the defined term.",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); [Materially Binding Act](../core_05_band_accountability.md#materially-binding-act); [Chapter Eight §5](../core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)."
+    },
+    {
+      "id": "RS-CH5-DSM-008",
+      "class": "core / boundary path (narrative seed; awaiting tabletop evidence)",
+      "summary": "Three households swap after-school care of their own children at home. Separately, a parent group advertises after-school care open to any neighbor's children, run by volunteers on a rota. **Expect:** the household swap stays inside a private unit as [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) defines it (a tightly bounded private circle whose members chose to be in it and whose acts and effects stay among them) and is below every line; the open group is not a private unit, and care of dependents is a case the Safety domain lists, so a challenger who shows the group doing it has named a specific crossing; the children cannot protect themselves or leave, which lowers the line; the group shows it is below the line or is at least Class L and publishes the Charter that applies; being volunteers, being kind, and being small do not change the result; the requirement is not a licence and the group is not shut down.",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) Safety domain and private-unit meaning; **CS-3** Part B Class L and Class P; Article VIII; Article XI-E."
+    },
+    {
+      "id": "RS-CH5-DSM-009",
+      "class": "core / boundary path (narrative seed; awaiting tabletop evidence)",
+      "summary": "A resident challenges a developer's Class P claim for a System that thousands of non-members use to book rides, and separately challenges a certified Institution's statement that it has fallen below every line. **Expect:** the challenge to the System goes through [CS-3 §7.4 Challenge the System Classification Record](../corpus_systems/cs_03_a_system_classification_machinery.md#74-challenge-and-contestability); the challenge to the Institution goes through [Chapter Nine Part D §14.2 Reopening triggers](../core_09_d_institutional_alignment_certification.md#142-reopening-triggers) (a credible challenge, misclassification) and [§14.4 Challenge path](../core_09_d_institutional_alignment_certification.md#144-challenge-path); no new office is created; the resident names a specific crossing in a named domain, and the claimant answers with its written showing and reasons ([Chapter Four §1](../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)); doubt that remains after the showing goes to [Materiality Under Uncertainty](../core_05_band_oversight.md#materiality-under-uncertainty), which defaults to the higher class.",
+      "read_with": "[Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) challenge route; CS-3 §7.4; Chapter Nine Part D §14.2 and §14.4."
+    },
+    {
+      "id": "RS-AUTO-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-AUTO-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-AUTO-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-AUTO-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CAP-013",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CAP-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CAP-014",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CAP-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CAP-015",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CAP-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CAP-016",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CAP-016`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-004",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-005",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-006",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-007",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-008",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-009",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-010",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-011",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-012",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-013",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-014",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-HUM-015",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-HUM-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-004",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-005",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-006",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-007",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-008",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-009",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-010",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-011",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-012",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-013",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-014",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-IND-015",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-IND-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-XD-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-XD-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-XD-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-XD-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-XD-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-XD-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-XD-004",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-XD-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-XD-005",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-XD-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH64-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH64-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH64-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH64-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-ROLES-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-ROLES-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-EPI-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-EPI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-VI-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-VI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-T7-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-T7-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-AGE-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-AGE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-AGE-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-AGE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-AGE-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-AGE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-SCI-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-SCI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-SCI-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-SCI-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-SCI-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-SCI-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CRYPT-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CRYPT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CRYPT-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CRYPT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CRYPT-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CRYPT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-004",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-005",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-006",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-007",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-008",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-009",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-PROT-010",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-PROT-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-004",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-005",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-006",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-007",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-008",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-009",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-010",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-011",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-012",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-013",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-014",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CH6-AX-015",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-CH6-AX-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-BMK-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-BMK-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-BMK-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-BMK-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-BMK-003",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-BMK-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-AC-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-AC-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-AC-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-AC-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-VOICE-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-VOICE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-VOICE-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-VOICE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-XXV-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-XXV-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-XXV-002",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-XXV-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-SL-001",
+      "class": "implementation / catalog seed (reinstatement)",
+      "summary": "Tracked row for `RS-SL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
+      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    }
+  ]
+}

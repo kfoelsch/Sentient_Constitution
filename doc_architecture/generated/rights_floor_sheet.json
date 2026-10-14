@@ -1,6 +1,6 @@
 {
-  "edition": "SC-Corpus-2026.10.12",
-  "effective_date": "2026-10-12",
+  "edition": "SC-Corpus-2026.10.14",
+  "effective_date": "2026-10-14",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "article_count": 140,
@@ -418,14 +418,14 @@
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-d-inclusion-and-exclusion-challenge-rights",
       "line": 1289,
-      "plain_terms": "when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.",
+      "plain_terms": "when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.",
       "href": "../../core_06_rights_part_b.md#article-x-d-inclusion-and-exclusion-challenge-rights"
     },
     {
       "title": "Article XI: Conscience, Expression, Association, and Cooperative Interaction",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-conscience-expression-association-and-cooperative-interaction",
-      "line": 1327,
+      "line": 1328,
       "plain_terms": "**Article XI** (*Conscience, Expression, Association, and Cooperative Interaction*) protects how sentients believe, speak, and act together — they must be free to hold their own beliefs, speak, report, gather, protest peacefully, and start new institutions and businesses, and to work and live together by real consent, without unwanted imposition, harassment, or designed capture. Freedom of action stops where verifiable material harm begins.",
       "href": "../../core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction"
     },
@@ -433,7 +433,7 @@
       "title": "Article XI-A: Freedom of conscience, religion, and comparable worldview",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-a-freedom-of-conscience-religion-and-comparable-worldview",
-      "line": 1369,
+      "line": 1370,
       "plain_terms": "public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.",
       "href": "../../core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview"
     },
@@ -441,7 +441,7 @@
       "title": "Article XI-B: Expression",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-b-expression",
-      "line": 1409,
+      "line": 1410,
       "plain_terms": "every sentient may form, hold, and share views — political, artistic, scientific, religious, intimate, or disturbing — and no one may be shut out of that because of what kind of being they are. Limits must be necessary, proportionate, and narrow; viewpoint bans are not allowed, and measures that quietly chill speech count as restrictions.",
       "href": "../../core_06_rights_part_b.md#article-xi-b-expression"
     },
@@ -449,7 +449,7 @@
       "title": "Article XI-C: Press and Journalistic Activity",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-c-press-and-journalistic-activity",
-      "line": 1471,
+      "line": 1472,
       "plain_terms": "journalism gets extra protection because of what it does, not who holds a press card. Actions aimed at newsgathering, sources, investigation, or publication face heightened scrutiny, and good-faith publishing standards cannot be turned into a shield against critical reporting, satire, or dissent.",
       "href": "../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity"
     },
@@ -457,7 +457,7 @@
       "title": "Article XI-D: Assembly, Dissent, and Peaceful Protest",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-d-assembly-dissent-and-peaceful-protest",
-      "line": 1508,
+      "line": 1509,
       "plain_terms": "every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, certification, or their job, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.",
       "href": "../../core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest"
     },
@@ -465,7 +465,7 @@
       "title": "Article XI-E: Institutional Formation and Business Creation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-e-institutional-formation-and-business-creation",
-      "line": 1584,
+      "line": 1585,
       "plain_terms": "anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming a body to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only two narrow gates stand, and neither is a licence. A sentient who is under an unresolved institutional-authority lock, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of a body. Everyone else may still form it and run it, and neither gate stops the body itself.",
       "href": "../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation"
     },
@@ -473,7 +473,7 @@
       "title": "Article XI-F: Non-Imposition and Consent in Association",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-f-non-imposition-and-consent-in-association",
-      "line": 1639,
+      "line": 1640,
       "plain_terms": "no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.",
       "href": "../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association"
     },
@@ -481,7 +481,7 @@
       "title": "Article XI-G: Collective Harm Boundary and Enforcement Interface",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-g-collective-harm-boundary-and-enforcement-interface",
-      "line": 1684,
+      "line": 1685,
       "plain_terms": "freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.",
       "href": "../../core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface"
     },
@@ -489,7 +489,7 @@
       "title": "Article XII: Stakeholder System Participation, Representation, and Due Process",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-stakeholder-system-participation-representation-and-due-process",
-      "line": 1731,
+      "line": 1732,
       "plain_terms": "**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.",
       "href": "../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process"
     },
@@ -497,7 +497,7 @@
       "title": "Article XII-A: Stakeholder System Participation and Representation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-a-stakeholder-system-participation-and-representation",
-      "line": 1784,
+      "line": 1785,
       "plain_terms": "decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power. High-impact decisions also need a recorded legitimacy check before they bind anyone.",
       "href": "../../core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation"
     },
@@ -505,7 +505,7 @@
       "title": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-b-weighted-participation-and-anti-token-constraints",
-      "line": 1830,
+      "line": 1831,
       "plain_terms": "participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition — and \"consulting\" stakeholders whose input is ignored or unreachable does not count.",
       "href": "../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints"
     },
@@ -513,7 +513,7 @@
       "title": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-c-internal-roles-accountability-and-due-process-requirements",
-      "line": 1872,
+      "line": 1873,
       "plain_terms": "roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.",
       "href": "../../core_06_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements"
     },
@@ -521,7 +521,7 @@
       "title": "Article XII-D: Non-Capture Safeguards",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-d-non-capture-safeguards",
-      "line": 1915,
+      "line": 1916,
       "plain_terms": "every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.",
       "href": "../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards"
     },
@@ -529,7 +529,7 @@
       "title": "Article XII-E: Influence-Contact and Lobbying Boundaries",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-e-influence-contact-and-lobbying-boundaries",
-      "line": 2009,
+      "line": 2010,
       "plain_terms": "**Article XII-E** (*Influence-Contact and Lobbying Boundaries*) is the floor for how sentients with a stake may approach those who decide. Open advocacy is protected. Private, unrecorded, bought, faked, or machine-multiplied influence is not: contact is recorded and disclosed, offers and threats are conflicts, a later job from a party you decided on waits out a cooling-off period, and a system's contact must say what it is and who it acts for.",
       "href": "../../core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries"
     },
@@ -753,7 +753,7 @@
       "title": "Article XVIII-B: Containment, Disclosure, and Opt-In",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-b-containment-disclosure-and-opt-in",
-      "line": 1361,
+      "line": 1362,
       "plain_terms": "experimental systems must be honest about being experimental, must not dump risk onto outsiders, and must not conscript non-participants through design defaults or hidden dependencies.",
       "href": "../../core_06_rights_part_c.md#article-xviii-b-containment-disclosure-and-opt-in"
     },
@@ -761,7 +761,7 @@
       "title": "Article XVIII-C: Transition to Higher-Obligation Regimes",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-c-transition-to-higher-obligation-regimes",
-      "line": 1394,
+      "line": 1395,
       "plain_terms": "once a sandbox system starts mattering in the real world, it must graduate to real-world obligations — promptly, not at the operator's convenience.",
       "href": "../../core_06_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes"
     },
@@ -769,7 +769,7 @@
       "title": "Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
-      "line": 1422,
+      "line": 1423,
       "plain_terms": "inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVIII-E** (*Creative and Expressive Works*)) from a working invention (**Article XVIII-F** (*Inventions, Processes, and Functional Systems*)). Game rules and mechanics belong to everyone and cannot be owned.",
       "href": "../../core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"
     },
@@ -777,7 +777,7 @@
       "title": "Article XVIII-E: Creative and Expressive Works",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-e-creative-and-expressive-works",
-      "line": 1474,
+      "line": 1475,
       "plain_terms": "creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.",
       "href": "../../core_06_rights_part_c.md#article-xviii-e-creative-and-expressive-works"
     },
@@ -785,7 +785,7 @@
       "title": "Article XVIII-F: Inventions, Processes, and Functional Systems",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-f-inventions-processes-and-functional-systems",
-      "line": 1513,
+      "line": 1514,
       "plain_terms": "inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.",
       "href": "../../core_06_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems"
     },

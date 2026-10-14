@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. Publishing a note from this page is not [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption and not [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation.
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Public door: [`../../README.md`](../../README.md). Using or adopting it: [`../../START_HERE.md`](../../START_HERE.md). Where it would actually fit: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md).
 
@@ -44,7 +44,7 @@ This page does **not**:
 
 - Count as [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Eighteen](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Bind vendors, platforms, host products, or anyone else who did not consent ([Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization))
-- Drop the **pre-release** banner, bump `SC-Corpus-2026.10.12`, or stand in for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
+- Drop the **pre-release** banner, bump `SC-Corpus-2026.10.14`, or stand in for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 - Claim AI handoff readiness ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5)
 
 ---
@@ -99,7 +99,7 @@ On that base, three processes carry most of the weight:
 
 What "pre-release" means
 
-- Edition SC-Corpus-2026.10.12. Section links may change in later cuts.
+- Edition SC-Corpus-2026.10.14. Section links may change in later cuts.
 - The core text (the Preamble and Chapters One through Eighteen) is
   the binding source and the most complete part.
 - The operational text around it (companion implementation files,
@@ -149,7 +149,7 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 
 | Say | Do not say |
 |---|---|
-| **Pre-release.** Edition `SC-Corpus-2026.10.12`; section links may change. | “This is the launch.” “This is the publication cut.” |
+| **Pre-release.** Edition `SC-Corpus-2026.10.14`; section links may change. | “This is the launch.” “This is the publication cut.” |
 | **Model constitution.** It may guide now. It binds a body only after that body records a Chapter Seventeen instrument ([Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)). | “We launched it as law.” “Our org / city / protocol has adopted it” — unless that instrument exists. |
 | **Does not supersede applicable law.** Publication is not a claim of supremacy over local, national, or international law. Adoption binds only the adopting body, within its lawful authority and recorded scope ([Chapter Sixteen §5](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). Where used inside an external legal framework, processes and participation must stay consistent with that framework. | “This Constitution now overrides city / national / treaty law.” “Using it as an operations guide displaces our regulator.” |
 | **Core text controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Companion files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Eighteen](../../core_18_incorporation.md#chapter-eighteen-incorporation-bridge)). | “The whole corpus is ready to implement.” “The companion files are unofficial.” |

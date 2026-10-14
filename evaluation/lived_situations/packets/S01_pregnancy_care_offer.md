@@ -1,7 +1,7 @@
 # S01 — Late pregnancy, housing pressure, and a care offer with strings
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.12`  
+**Corpus edition pin:** `SC-Corpus-2026.10.14`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 

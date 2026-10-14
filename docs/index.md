@@ -9,7 +9,7 @@ description: Pre-release model constitution for systems that shape our lives, wh
 
 This GitHub Pages site is a **pointer**, not a second constitution. The front door for all readers is the **[README](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md)**. If this page and the README differ, **the README wins**. Opening this page is not adoption under [Chapter Seventeen §10](https://github.com/kfoelsch/Sentient_Constitution/blob/main/core_17_amendment_ratification.md#10-ratification-and-adoption).
 
-**Pre-release:** edition `SC-Corpus-2026.10.12` (effective 2026-10-12). Not yet a final published edition. License: [CC BY 4.0](https://github.com/kfoelsch/Sentient_Constitution/blob/main/LICENSE).
+**Pre-release:** edition `SC-Corpus-2026.10.14` (effective 2026-10-14). Not yet a final published edition. License: [CC BY 4.0](https://github.com/kfoelsch/Sentient_Constitution/blob/main/LICENSE).
 
 ## Where to start
 
@@ -42,6 +42,6 @@ After that switch, `make pages-site` / the workflow renders the **same** reposit
 | **Editor map** | [doc_architecture.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/doc_architecture.md) |
 | **Vision and contribution** | [VISION.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/project/VISION.md) · [CONTRIBUTING.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/CONTRIBUTING.md) (taking part is not adoption) |
 | **Agent pointer** | [AGENTS.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/AGENTS.md) · [llms.txt](https://github.com/kfoelsch/Sentient_Constitution/blob/main/llms.txt) |
-| **Edition** | `SC-Corpus-2026.10.12` (**pre-release**) |
+| **Edition** | `SC-Corpus-2026.10.14` (**pre-release**) |
 | **License** | [CC BY 4.0](https://github.com/kfoelsch/Sentient_Constitution/blob/main/LICENSE) |
 | **Authorship** | Karl Ernst, with Claude (Fable and Opus), ChatGPT, Cursor, Gemini, Grok, and Kimi — [README § Authorship](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md#authorship) |

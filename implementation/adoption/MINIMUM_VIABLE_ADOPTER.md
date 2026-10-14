@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. The profiles, body lists, sequence, and order-of-magnitude staff and funding figures **cannot narrow core text**. They do not add adopter types, duties, forum families, or a compliance path. Reading a row that “fits” is not [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption and not [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. These rows are **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4).
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start here only to ask *which bodies, in what order, at what order-of-magnitude staff and funding, for an adopter of size N and impact Class X*. Where this would actually fit: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Naming independent review or founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md).
 
@@ -78,13 +78,15 @@ This page does **not**:
 
 | Class | Title | One-line differential |
 |---|---|---|
-| **P** | Personal, private-use, isolated, experimental | Effects stay inside a private unit with no meaningful outside reliance |
+| **P** | Personal, private-use, isolated, experimental | Effects stay inside a private unit with no meaningful outside reliance, or the body is ordinary community activity below every line of [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) |
 | **L** | Local, limited-impact, non-critical | Effects beyond a private unit but local, replaceable, and containable |
 | **C** | Coordinated, high-dependency, non-critical | Shapes coordination at scale; not an operational prerequisite for Class A/B function |
 | **B** | Critical, high-dependency, systemically significant | Dependents cannot keep core function without it; survival not immediately lost |
 | **A** | Survival-critical, foundational, irreplaceable | Failure within survival-relevant time with no viable substitute → loss of survival conditions |
 
 Highest applicable class governs ([CS-3 Part A §2.2](../../corpus_systems/cs_03_a_system_classification_machinery.md#22-real-world-application)). A forty-person lab running a widely used model is not Class P because the crew is small.
+
+**Check before you pick P.** Answer the nine questions in [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) for everything the body does as a body: survival and essential access; safety; authority over others; livelihood and economic terms; custody; information and truth; dependence and exit; ecology; systemic and irreversible effects. One yes puts the body at Class L or higher, whatever *N* is, and it must publish a System Charter or Institutional Charter. Nine nos, each with a short written reason, leave it at Class P however many members it has: a quilting circle that gives quilts to refugees is the pattern. This page does not decide the question; the Chapter Five entry does.
 
 **Forum family floor is Class C.** Every Chapter Thirteen family, forum, chamber, division, or designated panel takes at least the Class C coordination-dependency floor ([CF-3.6](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-36-chamber-authority-composition-and-service-mechanics) / [CI-9.3](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline)). Do not pick a lower class to dodge forum burden.
 

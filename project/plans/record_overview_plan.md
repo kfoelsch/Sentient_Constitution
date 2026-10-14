@@ -1,7 +1,7 @@
 # Record overview plan
 
 **Status:** implemented with the companion overview.  
-**Edition consulted:** `SC-Corpus-2026.10.12` (pre-release).  
+**Edition consulted:** `SC-Corpus-2026.10.14` (pre-release).  
 **Scope:** reader-oriented process support; it does not create a record schema, a registry, a universal sequence, or any constitutional duty.
 
 ## Goal

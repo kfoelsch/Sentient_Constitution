@@ -1,7 +1,7 @@
 # Everyday questions
 
 **Status:** Process / handbook support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. If this page and a numbered `core_*` file disagree, the `core_*` file wins.  
-**Pinned to corpus edition:** `SC-Corpus-2026.10.12` (effective 2026-10-12; [README.md](../README.md)).  
+**Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../README.md)).  
 **Job:** Ten questions people actually ask. Each answer ends at a real home. This page is not a second morals stack.
 
 <a id="questions"></a>
