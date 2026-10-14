@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.12` · effective **2026-10-12**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **202** of **268** registry terms carry a source gloss.
+Coverage: **203** of **269** registry terms carry a source gloss.
 
 ## Start here
 
@@ -162,6 +162,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Institutional Development | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#institutional-development) |
 | Interested Party | an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the record, and an interested party cannot also be the one who checks, records, or decides it. | [Source](../../core_05_band_accountability.md#interested-party) |
 | Intergenerational Responsibility | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#intergenerational-responsibility) |
+| Interim Hold | an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on probable cause while the facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock. | [Source](../../core_05_band_accountability.md#interim-hold) |
 | Irreversible Deprivation Measure | an Irreversible Deprivation Measure is a justice measure that irreversibly deprives a sentient, especially of life. It is categorically prohibited and remains distinct from reversible containment, Voluntary Discontinuation, and force regulation. | [Source](../../core_05_band_accountability.md#irreversible-deprivation-measure) |
 | Irreversible Harm | irreversible harm is damage that cannot meaningfully be repaired in the time that matters for the affected sentients or systems. | [Source](../../core_05_band_accountability.md#irreversible-harm) |
 | Jurisdiction | jurisdiction is a forum's authority to hear and decide a particular matter. This Constitution assigns it. A forum cannot claim it by caption, by a party's choice, or for convenience, and being skilled does not create it. A forum with jurisdiction can still fail on independence or capacity, and those failures are handled separately. | [Source](../../core_05_band_accountability.md#jurisdiction) |
