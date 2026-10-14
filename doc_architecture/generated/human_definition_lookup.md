@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.12` · effective **2026-10-12**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **203** of **269** registry terms carry a source gloss.
+Coverage: **204** of **270** registry terms carry a source gloss.
 
 ## Start here
 
@@ -96,6 +96,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Dignity and Equal Moral Standing | every sentient has equal inherent worth. Origin, form, capability, role, or status does not create a lower class of sentient under this Constitution. | [Source](../../core_05_band_participation.md#dignity-and-equal-moral-standing) |
 | Distributed Understanding | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#distributed-understanding) |
 | Documented Legitimacy Mechanism | the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count. | [Source](../../core_05_band_integrative.md#documented-legitimacy-mechanism) |
+| Domain-Specific Materiality | this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 No Licence, and Two Narrow Limits](../../core_07_charters.md#2-no-licence-and-two-narrow-limits). | [Source](../../core_05_band_oversight.md#domain-specific-materiality) |
 | Due Process | decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve a record that supports review. | [Source](../../core_05_band_accountability.md#due-process) |
 | Duty to Resist | *(no plain-terms gloss in source)* | [Source](../../core_05_band_accountability.md#duty-to-resist) |
 | Ecological Footprint | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#ecological-footprint) |

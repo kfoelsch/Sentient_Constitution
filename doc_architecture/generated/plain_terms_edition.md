@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.12` · effective **2026-10-12**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **709** of **1036** headings carry a gloss (68%).
+Coverage: **710** of **1037** headings carry a gloss (68%).
 
 ## Contents
 
@@ -27,7 +27,7 @@ Coverage: **709** of **1036** headings carry a gloss (68%).
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (80/92 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (37/98 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
-- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
+- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (30/40 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/10 glossed)
@@ -2524,7 +2524,7 @@ a constitutional constraint is a binding limit that decides whether a claim, act
 
 ## Oversight Constitutional Definitions
 
-Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 29/39 headings glossed
+Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 30/40 headings glossed
 
 #### Oversight: Independent terms
 
@@ -2597,6 +2597,12 @@ big enough to matter — not trivia, cosmetics, or paperwork that changes nothin
 materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened.
 
 [Source](../../core_05_band_oversight.md#materiality)
+
+##### Domain-Specific Materiality
+
+this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 No Licence, and Two Narrow Limits](../../core_07_charters.md#2-no-licence-and-two-narrow-limits).
+
+[Source](../../core_05_band_oversight.md#domain-specific-materiality)
 
 ##### Materiality Integrity Constraint
 
@@ -3176,7 +3182,7 @@ Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/10 headings
 
 #### 1. Purpose, Scope, and Owner Boundary
 
-before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. A System Charter does that for one system. An Institutional Charter does it for an institution that runs more than one system: it holds their System Charters and says why the institution runs them. Each says what the body is for, what it may do, what it may not do, and who holds each seat when it takes a binding act. This chapter says who must publish which, what each must contain, and what neither can be used for.
+before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. A System Charter does that for one system. An Institutional Charter does it for an institution that runs more than one system: it holds their System Charters and says why the institution runs them. Each says what the body is for, what it may do, what it may not do, and who holds each seat when it takes a binding act. This chapter says who must publish which (every body of Class L or higher must, with the process that keeps it true; a Class P body may, if it chooses), what each must contain, and what neither can be used for.
 
 [Source](../../core_07_charters.md#1-purpose-scope-and-owner-boundary)
 
@@ -3188,7 +3194,7 @@ you do not need anyone's permission to form a system, institution, or business. 
 
 #### 3. When System and Institutional Charters Are Required
 
-if a system has a real effect on others, it needs a published System Charter. An institution that runs one system uses that System Charter for both. An institution that runs several publishes an Institutional Charter, which holds all their System Charters and says why the institution runs them. The threshold is Class L. Only purely private, isolated, or experimental systems (Class P) are outside it, and they cross the line the moment their effects reach others.
+if a system has a real effect on others, it needs a published System Charter. An institution that runs one system uses that System Charter for both. An institution that runs several publishes an Institutional Charter, which holds all their System Charters and says why the institution runs them. The threshold is Class L. Only purely private, isolated, or experimental systems (Class P) are outside it, where publishing one is voluntary, and they cross the line the moment their effects reach others or their operator asserts constitutional compliance.
 
 [Source](../../core_07_charters.md#3-when-system-and-institutional-charters-are-required)
 

@@ -226,7 +226,7 @@ That response is performance of duty, not abandonment of the act. The act procee
 
 *In plain terms: an organization must say who holds each job before the hard case arrives, including who takes over when the ordinary holder is absent or conflicted.*
 
-Every adopter that takes materially binding acts must maintain a published, auditable, and contestable [Charter Role Map](core_05_band_continuity.md#charter-role-map) that identifies:
+Every adopter of Class L or higher that takes materially binding acts must maintain a published, auditable, and contestable [Charter Role Map](core_05_band_continuity.md#charter-role-map) that identifies:
 
 - which lane, office, role, or process hosts each seat;
 - the acts and scope for which that placement applies;
@@ -234,6 +234,8 @@ Every adopter that takes materially binding acts must maintain a published, audi
 - the substitute for an absent, excluded, captured, or conflicted holder;
 - the independent route when no qualified substitute is available; and
 - its version and effective date, so that an act is judged against the map in force when it was taken.
+
+The map is kept in or with the adopter's [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter). A Class P adopter's materially binding acts stay inside its private unit, because an adopter whose acts others must follow or may rely on as settled is at least Class L under **CS-3** (*System classification machinery*). The four-seat floor in [§2 Four-Seat Constitutional Floor](#2-four-seat-constitutional-floor) still applies to a Class P adopter's acts. It may publish a map, with a voluntary System Charter or Institutional Charter or on its own, but is not required to ([Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07_charters.md#5-the-charter-role-map-and-standing-record-custody)).
 
 An unplaced, vacant, or conflicted seat is a governance defect to log and correct. It does not pass automatically to the initiating seat, an interested party, an operator, or a superior in their [Material Control Line](core_05_band_accountability.md#material-control-line). Until corrected, the act routes to the published substitute or independent path. You can't bypass the independence requirement just because you're in a hurry.
 
