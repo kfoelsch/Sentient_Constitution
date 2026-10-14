@@ -36,6 +36,14 @@ Earlier session narratives (2026-06-15 through 2026-09-27: Chapter Six restructu
 
 **Architecture process:** [doc_architecture.md](../doc_architecture.md) remains the stable ownership and editing map. Optional AI corpus follow-ups remain in [plans/ai_corpus_optimization_plan.md](plans/ai_corpus_optimization_plan.md).
 
+**2026-10-14 Chapter Seven new §2:** The right to form and the two narrow Article XI-E limits now sit in a short new §2 (No Licence, and Two Narrow Limits), stated once; the formation check (now §6) points back to it. Old §2 to §8 are now §3 to §9; no rule changed. Decision-path chart moved to the end of the new §2. Citations retargeted, indexes rebuilt. See [doc_architecture.md](../doc_architecture.md) (Eighteenth move).
+
+**2026-10-14 Chapter Seven §2 and §6 overlap:** Chapter Seven §6 (formation check) stays a separate section. Its two Result bullets that repeated §2 are now one pointer, and the founder-authenticity limit of the right to form moved into §2. No renumbering or citation changes.
+
+**2026-10-14 Chapter Seven one chart:** The two charts are now one, at the end of §2, with a single Reader guidance widget. The §1 chart and its text were removed. No renumbering.
+
+**2026-10-14 Chapter Seven section order:** Sections reordered to follow the path a body takes (required, stated, role map, formation check, kept true, cannot do, relationships), matching the two charts now in §1. Old §4 to §6, §5 to §7, §6 to §4, §7 to §5; no rule changed. Citations in other chapters retargeted and indexes rebuilt; dated records and translations keep the old numbers. See [doc_architecture.md](../doc_architecture.md) (Seventeenth move).
+
 **2026-10-13 Article XI-E gates and Institutional Authority Standing Lock:** Article XI-E still bars any gate on forming or operating, and now adds two narrow gates on a named sentient's authority: an outstanding lock, and an interim hold on probable cause of misalignment (forum-issued, specific verified facts, more likely than not, narrow, time-bound, not a lock or finding). New Institutional Authority Standing Lock in Chapter Eleven §5.5 for verified use of an institution as a vehicle for a violation. Chapter Seven §7, Part D, and CI-3.6 aligned. Committed on branch `docs/ch09-institutional-alignment-certification`. Needs Chapter Seventeen §1 heightened review. See [doc_architecture.md](../doc_architecture.md) Fourteenth move.
 
 **2026-10-13 Interim Hold standard:** Corpus sweep for interim measures, then built one general standard: Chapter Five entry *Interim Hold*, Chapter Thirteen §5 subsection (owner), Chapter Eleven §5.6 (not a lock, no standing effect, time counts toward a later lock's bound), CF-4.15, and applications in Article XI-E, Chapter Seven §7, CI-4.2, CF-7.3.2, Article XII-D. Committed on branch `docs/ch09-institutional-alignment-certification`. Needs Chapter Seventeen §1 heightened review. See [doc_architecture.md](../doc_architecture.md) Fifteenth move.

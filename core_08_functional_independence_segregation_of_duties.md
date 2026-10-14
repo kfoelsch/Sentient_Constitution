@@ -218,7 +218,7 @@ That response is performance of duty, not abandonment of the act. The act procee
 
 - Upstream: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [Transparency](core_05_band_oversight.md#transparency); [Auditability](core_05_band_oversight.md#auditability).
 - Downstream: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Functional separation lanes*); [CI-4.5](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Authorized roles and accountability chains*); Chapter Nine and Chapter Ten records.
-- Read with: [System Charter](core_05_band_continuity.md#system-charter), [Institutional Charter](core_05_band_continuity.md#institutional-charter); [Chapter Seven §6 The Charter Role Map and Standing-Record Custody](core_07_charters.md#6-the-charter-role-map-and-standing-record-custody); and [Chapter Fourteen §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- Read with: [System Charter](core_05_band_continuity.md#system-charter), [Institutional Charter](core_05_band_continuity.md#institutional-charter); [Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07_charters.md#5-the-charter-role-map-and-standing-record-custody); and [Chapter Fourteen §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
