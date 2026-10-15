@@ -1596,9 +1596,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
 - 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)、[§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§16.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-institutional-development)、[§11 Market Structure](core_01_a_values_principles.md#11-market-structure)。
-- 併読事項：第五章 [*Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) およびその[創設権の限界](core_05_band_participation.md#creation-rights-limits)；集会と結社については[**Article XI-D**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)；労働者の組織化については[**Article III-C**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*)；[**Article XI-F**](#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)。
+- 併読事項：第五章 [*Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) およびその[創設権の限界](core_05_band_participation.md#creation-rights-limits)；集会と結社については[**Article XI-D**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)；労働者の組織化については[**Article III-C**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*)；[**Article XI-F**](#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)。; [第十一章 §6.2 能力基準と確認](../../core_11_standing_integration.md#62-competency-bars-and-clearances)、[第十三章 §4.2 技術フォーラムの領域](../../core_13_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）。
 - 下位への適用：創設された制度または事業が他者に実質的な影響を及ぼす場合、[**Article X-C**](#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) および[**Article XII**](#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*)。
-
 </details>
 
 <details>
@@ -1610,11 +1609,12 @@ flowchart TB
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
+- [Competency Clearance（能力確認）](../../core_05_band_accountability.md#competency-clearance) · [O](../../core_05_band_accountability.md#competency-clearance) · [M](../../core_05_band_accountability.md#competency-clearance-a) · [A](../../core_05_band_accountability.md#competency-clearance-a) · [C](../../core_05_band_accountability.md#competency-clearance-c)
 </details>
 
 <br>
 
-*平易に言えば、すでにあるものに加わるだけでなく、学校、研究グループ、相互扶助ネットワーク、協同組合、事業など、新しいものを誰でも始められる。形式上は開かれているように見えても、新しい創設者や好まれない創設者を締め出す許認可、資本、事務手続上の障壁は、この基準を満たさない。*
+*平易に言えば、誰もが新しい制度や事業を始められます。創設者は表明した目的に真に沿わなければならず、欺きや害を意図してはなりません。名指しの者の権限を制限できるのは二つの限定的な門だけで、他者による設立や運営を止めることはありません。*
 
 本条は、制度および事業を形成する権利とその限界を定める。
 
@@ -1623,20 +1623,35 @@ flowchart TB
   - [Business Creation](core_05_band_participation.md#business-creation-constitutional) の定義に従う営利事業 — 個人事業、パートナーシップ、法人、営利協同組合、プラットフォーム型事業および同等の形態。設立・運営に必要な資本へのアクセス、市場参入、許認可の経路も含む。
   
   この権利は、既存の制度への参加だけでなく、新しい制度を生み出すことを対象とする。
+- **真正な形成と意図：** 創設者・運営者は、表明した目的に真に沿う場合に限り制度・事業を形成・運営できる。他者を欺いて目的、支配、利益、受益者を偽る意図、または他者を害する意図がある場合、あるいはその意図を認める相当な根拠がある場合は許されない。ここでの害は憲法が禁じる害（第VI-C条の差別的取扱いを含む）であり、通常の競争、適法な批判・異議、競争相手が適法に事業を失うことは、それ自体では害を示さない。判断は検証された行為、支配、報酬設計、発言による。害や禁止された差別を他者が受けるべきだとする検証済みの発言・呼びかけ・計画は意図の証拠となり得る。[第一章§7.5](../../core_01_a_values_principles.md#75-expression-and-the-harm-line)に従い、宗教・政治・思想上のラベルでなく、発言が何を述べ、求め、行うかで判断する。信念や集団所属だけでは不利な証拠にならず、善意の自己申告も有利な証拠にならない。発言の保護には[第七章§6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)を適用する。記録のない創設者は真正と推定し、制限を書面で受け入れ独立検証を認めるなど、行動で示す約束を証拠とする。この条件は許可制ではなく、事前承認は不要であり、非真正を主張する側が立証責任を負う。
 - **迂回的な拒否の禁止：**この権利は、次の方法で妨げてはならない。
   - 好まれない創設者、目的または形態を締め出すために設計された許認可制度、承認基準、または手続の複雑さ。
   - 同等の制度や事業が受けられる資本、財政手段、インフラ、法的承認へのアクセスにおける差別。
   - 既存の事業者を新たな形態や競合形態から守ることを主な効果とする承認規則。
   
-  創設者や参加者への報復、監視、標的化も本条に適合しない。
+  創設者や参加者への報復、監視、標的化も本条に適合しない。 この二つの限定的な門と、その後に示す実践確認を除き、制度または事業の設立・運営に門を設けてはならず、設立または運営の前に確認を求めてはならない。
+- **権限への門は二つだけ：** 名指しされたセンティエントが制度・事業で統治・支配・所有の権限を得る、または行使することを妨げ得る門は、以下の二つに限る。門はその者の権限取得・行使に付される。制度・事業に及ぶのは、それが当人の権限行使の手段、承継者、支配下の実体、または名義上の形態である場合だけである。他者による設立、運営、参加、就労、サービス利用は決して止めない。
+  - **[未解除のロック](../../core_11_standing_integration.md#55-special-locks)：** 同種の制度・事業に対する権限の経路を明示する未解決の制度権限資格ロック、反憲法的信託ロック、または他の資格ロックの対象である間、その経路で権限を得たり行使したりできない。範囲はロックを超えず、解除・縮小に応じて終了・縮小する。
+  - **不整合の相当理由による[暫定保留](../../core_05_band_accountability.md#interim-hold)：** 管轄権を持つフォーラムは、[第十三章§5](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)の根拠が満たされ、具体的事実から、当人が目的または憲法上の制約と不整合である、あるいは目的・支配・利益・受益者について他者を欺く意図または害する意図がある可能性が高い場合、名指しの権限経路に[第十三章§5](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)に基づく[暫定保留](../../core_05_band_accountability.md#interim-hold)を命じ得る。[第七章§6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)に従い、検証された行為、支配、報酬から判断する。保留は同条の全手続に従い、認定、ロック、資格記録、資格上の効果ではない。信念、属性、集団所属、評判、害や差別を求めない異議、保護された報告だけを根拠にしてはならない。発言・行為は「真正な形成」の基準で判断する。別の適法な権限者が制度を継続運営し、後任がなく他者が依存する場合は暫定管理人を任命し、制度を停止しない。
+  - **両方の門に共通する保護：** 門を課す側が立証責任を負う。他の仕事の賃金、権利の最低保障、生存に不可欠なアクセス、発言、弁護、保護された報告を妨げてはならず、異議申立人、報告者、労働者の組織者を標的にしてはならない。
+- **名指しされた高リスク行為の実践確認：** 追加要件を一つ設けることができるが、団体に対する門ではない。名指しされたセンティエントが他者のために名指しされた行為を行う前に、[Competency Clearance（能力確認）](../../core_05_band_accountability.md#competency-clearance)を求めることができる（*実践確認*）。要件はその行為の実施に付く。 この確認は、名指しされた経路について公表された能力基準に照らし、検証済みの準備能力を記録する肯定的な資格効果である。適用される資格ロックが妨げない場合に限り、その経路を開く助けとなる。名声、内部者の後援、資格の独占、恒久的権利ではない。団体の設立、運営、参加、サービス利用を妨げず、団体の運営も禁止しない。次の条件をすべて満たす場合に限り求められる。
+  - **リスク認定：** 技術専門フォーラムが、[第十三章 §4.2 技術フォーラムの領域](../../core_13_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）に基づき、名指しされた行為群について認定を公表していること。認定は、リスクを判断または回避できないセンティエントに重大または不可逆な身体的危害をもたらす、信頼できる因果経路（行為から危害に至る、もっともらしく追跡可能な道筋）があると述べ、必要な能力も明示する。
+  - **より軽い保護策では足りないこと：** 要件を維持する側が、開示、登録、保護された職名、受入れ先・雇用団体への義務、学習者への監督では危険にさらされる者を守れないと示す。
+  - **公開された手続で決定：** 採用する文書が、公表され異議申立て可能な手続で、認定を確認要件に十分とするかを決める。フォーラムは認定と基準を定めるが、確認を発行せず、個別案件や許容されるリスク水準も決めない。
+  - **開かれた経路、独占なし：** 基準は[第十一章 §6.2 能力基準と確認](../../core_11_standing_integration.md#62-competency-bars-and-clearances)に従い、公表され、比例的で、異議申立て可能であること。試験、ポートフォリオ、徒弟訓練、同業者が検証した経験、他の管轄区域の確認は同等の証拠として扱う。複数の独立した発行者が確認でき、唯一の経路があってはならない。現職実務者は基準を定めるパネルまたは発行者の統治機関を支配してはならない。
+  - **安全な実施：** 学習者は確認済みの監督者の下で行為を実施できる。緊急の行為、または適時に確認済みのセンティエントへ連絡できない場合の行為は禁止されない。決定は[Article XXVI-C](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)の期限に従い、料金や待ち時間が障壁になってはならない（[回避可能な負担](../../core_05_band_continuity.md#avoidable-burden)）。負担が改めて示されない限り、各審査で要件は終了し、審査結果は公表される。
+  - **保護措置：** 要件を課す側が立証責任を負う。他の仕事の賃金、権利の床、生存に不可欠なアクセス、発言、弁護、保護された報告を妨げてはならず、異議申立人、報告者、労働者の組織者に対して用いてはならない。能力の変化は、その行為が求める能力に基づいて判断し、障害や健康状態そのものを基準にしない。
+  - **団体のクラス：** 他者のためにこの種の行為を行う団体は、[領域別重要性](../../core_05_band_oversight.md#domain-specific-materiality)の安全性の下で重要であり、少なくともクラスLとなる。この要件自体が団体のクラスを決めるものではなく、クラスLであることだけで確認が必要になるわけでもない。 単独または小規模な実務でこの行為を行うセンティエントは、受入れ先を通じた共同専門職実務によってクラスLの義務を満たすことができる（**CI-4.7**、*実践確認、実務認証、共同専門職実務*）。
+
+- **測定と評価：**[説明責任の測定ファミリー](../../core_05_apex_accountability_leg.md#measuring-accountability)および[適時性の測定ファミリー](../../core_05_apex_timeliness_leg.md#measuring-timeliness)を用いる。確認が、公表済みで名指しの経路に固有、比例的、監査可能、異議申立て可能、十分に最新であり、検証された貢献、経験、技能、訓練、信頼性または同等の準備能力の入力に追跡できる能力基準に基づくことを確認する。非公式または非制度的な経験も、正式な経験と同じ証拠基準で認める。適用される資格ロックは、関連する効果がその経路を開けるかを引き続き支配する。
 - **限界：**第五章の[創設権の限界](core_05_band_participation.md#creation-rights-limits)が適用される。この権利は、[Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint) に違反し、**Safety** または **Truth** を損ない、あるいは[第一章 §11 Market Structure](core_01_a_values_principles.md#11-market-structure)に反して権力を集中させるよう設計された制度や事業には及ばない。その他の制限は[第一章 §7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)を満たし、必要かつ比例的で、可能な限り撤回可能であり、監督に服さなければならない。
 - **関連する権利：**
   - 集会および結社は **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) が扱う。
   - 既存の生産システム内での労働者の組織化は、**Article III-C** (*Labor and Economic Floor*) に基づく [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) が扱う。
   - 創設された制度または事業が他者に実質的な影響を与えれば、**Articles X-C** および **XII** の利害関係者の権利が適用される。
-- **実施：**登録、[Charter](core_05_band_continuity.md#charter) の採択、税務上の取扱い、責任、証券規制、解散手続は、**Chapter Seventeen** の法人化規律に基づき [corpus_institutions.md](corpus_institutions.md) に委ねる。同文書を本権利を狭めるものと解釈してはならない。
-<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
+- **実施：**登録、[システム憲章](../../core_05_band_continuity.md#system-charter) または [制度憲章](../../core_05_band_continuity.md#institutional-charter) の採択、税務上の取扱い、責任、証券規制、解散手続は、**Chapter Eighteen** の法人化規律に基づき [corpus_institutions.md](../../corpus_institutions.md) に委ねる。同文書を本権利を狭めるものと解釈してはならない。 確認の発行者、同等の経路、料金、審査、および下位段階の実務認証も同文書に委ねる（**CI-4.7**、*実践確認、実務認証、共同専門職実務*）。
 
+<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
 #### XI-F. 結社における不押し付けと同意
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>

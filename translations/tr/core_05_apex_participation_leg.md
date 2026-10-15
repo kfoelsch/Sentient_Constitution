@@ -99,32 +99,6 @@ Bu bacak altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 ---
 
 <a id="participation-measurement-family"></a>
-
-### Katılım
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
-
-</details>
-
-<br>
-
-*Sade dille: Bu sorular, etkilenen tarafların yalnızca göstermelik bir danışmaya değil, gerçekten söz hakkına, erişime ve adil biçimde itiraz etme fırsatına sahip olup olmadığını inceler. Burası Beşinci Bölümdeki Katılım ölçüm ailesinin yeridir; Önsöz §2 kategoriye ilişkin sade soruyu korur, aile tablosu ve tanım yönlendirmesi burada bulunur.*
-
-*Önemlilik ([Materiality](core_05_band_oversight.md#materiality)) bütünleştiricidir, ayrı bir ölçüm kategorisi değildir; [material stake](core_00_preamble.md#material-stake) uyarınca bu ailenin uygulama gücünü ayarlar.*
-
-| Ölçüm ailesi | Sade soru | Başlıca anayasal kullanım |
-|---|---|---|
-| Adalet, erişim ve eyleme geçme kapasitesi | Etkilenen sentient varlıklara adil davranılıyor ve katılıp öğrenmeleri sağlanıyor mu? | Dışlanmayı, eşitsiz etkiyi ve içi boş erişimi önler. |
-| Gizlilik ve veri sorumluluğu | Bilgisel öz-belirlenim, işleme yaşam döngüsü boyunca korunuyor mu? | Bölümlendirmenin, bağlamlar arası çıkarımın ve ifşa baskısının söz hakkını ortadan kaldırmasını önler. |
-
-**Önceki dosya:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
-**Sonraki dosya:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
-
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### Katılımı ölçmek (Önsöz ölçüm ailesi)

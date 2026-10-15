@@ -96,34 +96,6 @@ Les **termes indépendants** vivent sous [Supervision : termes indépendants](..
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
-
-### Supervision
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
-- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
-
-</details>
-
-<br>
-
-*En termes simples : ces questions vérifient si les êtres sentients peuvent voir, vérifier et prendre appui sur ce que représentent les systèmes à fort impact. Cette section accueille la famille de mesures de la supervision au chapitre cinq ; le §2 du Préambule conserve la question simple de la catégorie, et le tableau de la famille ainsi que les renvois aux définitions sont ici.*
-
-*La matérialité ([Materiality](core_05_band_oversight.md#materiality)) est intégrative, et non une catégorie distincte ; elle module l’application de cette famille selon le [material stake](core_00_preamble.md#material-stake).*
-
-| Famille de mesures | Question simple | Usage constitutionnel principal |
-|---|---|---|
-| Vérité et intégrité épistémique | Les affirmations, les dossiers et les divulgations sont-ils assez honnêtes pour permettre des décisions sûres ? | Protège la participation éclairée, le recours et la correction. |
-| Fiabilité | La confiance accordée est-elle justifiée ou se dégrade-t-elle ? | Protège les êtres sentients contre la fausse assurance et une confiance trompeuse. |
-
-Les exigences contraignantes de fiabilité, d’audit ou d’examen s’appliquent lorsque le chapitre six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ou des instruments incorporés les imposent expressément.
-
-**Fichier précédent :** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
-**Fichier suivant :** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### Mesurer la supervision (famille de mesure du Préambule)

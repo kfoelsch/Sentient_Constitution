@@ -74,47 +74,6 @@
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### उत्तरदायित्वाचे मापन
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: बक्षिसे, बाजार आणि उत्तर मागण्याची क्षमता प्रत्यक्ष व्यवहारात उत्तरदायित्व खरे ठेवतात की केवळ कागदावर, हे हे प्रश्न तपासतात.*
-
-*पाचव्या अध्यायात उत्तरदायित्व मापन-कुटुंबाचे स्थान येथे आहे. प्रस्तावनेतील §2 (मापनांचा आढावा) आढावा तक्त्यात श्रेणीचा सोपा प्रश्न ठेवतो; कुटुंबाचा तक्ता, घटनात्मक उपयोग आणि व्याख्यांकडे निर्देश येथे आहेत.*
-
-*महत्त्वता* ([Materiality](core_05_band_oversight.md#materiality)) ही एकात्मिक आहे—स्वतंत्र मापन-श्रेणी नाही; ती [material stake](core_00_preamble.md#material-stake) नुसार या कुटुंबाच्या लागू होण्याची तीव्रता ठरवते.
-
-| मापन-कुटुंब | सोपा प्रश्न | मुख्य घटनात्मक उपयोग |
-|---|---|---|
-| प्रोत्साहन-सुसंगती आणि प्रतिनिधी निर्देशकांची अखंडता | बक्षिसे आणि मापनसूचक वास्तविक घटनात्मक परिणामांशी जुळतात का? | विकृत प्रोत्साहने, कब्जा आणि [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) ओळखते; [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) यांचे मापनरूप. |
-| बाजाररचना आणि स्पर्धाक्षमता | प्रवेश, निर्गमन, सौदेबाजी आणि पर्याय वास्तविक राहू शकतात का? | क्षमता-दावे खुल्या बाजारांवर अवलंबून असतील तेथे एकाग्रता व वर्चस्वविरोधी शिस्त लागू करते. |
-
-ही मापने विचारतात की बक्षीस-रचना, बाजारशक्ती आणि उत्तरदायित्व [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) मधील **उत्तरदायित्वाचा** पाया प्रत्यक्षात खरा ठेवतात का—केवळ कागदावर नव्हे.
-
-पाचव्या अध्यायातील व्याख्या-स्थानी कार्यकारी मापन-स्तर दिले आहेत:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**मागील फाइल:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**पुढील फाइल:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### उत्तरदायित्व मोजणे

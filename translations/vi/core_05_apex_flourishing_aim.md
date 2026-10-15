@@ -86,35 +86,6 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
-
-### Sự phát triển hưng thịnh
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
-
-</details>
-
-<br>
-
-*Nói đơn giản: các câu hỏi này xem liệu các chủ thể có tri giác có thực sự duy trì được phúc lợi, an toàn và năng lực hành động hay không, chứ không chỉ là mức tương tác đại diện hoặc thông lượng. Đây là nơi đặt nhóm đo lường Sự phát triển hưng thịnh của Chương Năm; §2 Lời mở đầu giữ câu hỏi giản dị của nhóm, còn bảng nhóm và chỉ dẫn đến định nghĩa ở đây.*
-
-*Tính trọng yếu ([Materiality](core_05_band_oversight.md#materiality)) có tính tích hợp, không phải nhóm đo lường riêng; nó điều chỉnh mức áp dụng theo [material stake](core_00_preamble.md#material-stake).*
-
-| Phân nhóm | Câu hỏi giản dị | Công dụng hiến định chính |
-|---|---|---|
-| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | Các chủ thể có tri giác có được duy trì về chức năng, năng lực hành động và điều kiện hỗ trợ không? | Phép đo kết quả chính của **Sự phát triển hưng thịnh** (không phải thành tố cấu thành)—không phải tương tác đại diện hay thông lượng. |
-| An toàn, tổn hại và rủi ro | Tổn hại có thể dự liệu có được ngăn ngừa, kiểm soát và đánh giá trung thực không? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
-| Tiếp cận ngưỡng sinh tồn | Các chủ thể có tri giác có thể tiếp cận nhu yếu phẩm như thức ăn, nước, nơi trú ẩn, chăm sóc và môi trường ổn định không? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (Sinh tồn). |
-
-Các tầng đo lường vận hành nằm tại những mục định nghĩa đó.
-
-**Tệp trước:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
-**Tệp tiếp theo:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### Đo Hưng thịnh (gia đình đo lường của Lời nói đầu)

@@ -74,48 +74,6 @@ Os **termos independentes e semi-independentes** vivem sob [Prestação de conta
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### Medição da responsabilização
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*Em termos simples: estas perguntas verificam se recompensas, mercados e mecanismos de responsabilização mantêm a responsabilização real na prática — e não apenas no papel.*
-
-*Este é o espaço da família de medição da responsabilização no Capítulo Cinco. O §2 do Preâmbulo (Visão geral das medições) mantém na tabela geral a pergunta da categoria em linguagem simples; a tabela da família, seu uso constitucional e o encaminhamento às definições ficam aqui.*
-
-*A materialidade ([Materiality](core_05_band_oversight.md#materiality)) é integrativa, não uma categoria de medição separada; ela dimensiona a aplicação desta família conforme o [material stake](core_00_preamble.md#material-stake).*
-
-| Família de medição | Pergunta simples | Principal uso constitucional |
-|---|---|---|
-| Alinhamento de incentivos e integridade de indicadores | As recompensas e métricas acompanham resultados constitucionais reais? | Detecta incentivos perversos, captura e [Proxy Divergence](core_05_band_oversight.md#proxy-divergence); é a forma de medição das [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions). |
-| Estrutura de mercado e contestabilidade | Entrada, saída, negociação e alternativas podem continuar sendo reais? | Aplica disciplina contra concentração e dominação quando alegações de capacidade dependem de mercados abertos. |
-
-Estas medidas perguntam se estruturas de recompensa, poder de mercado e responsabilização mantêm real, na prática, a perna de **responsabilização** do [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), e não apenas no papel.
-
-Os níveis operacionais de medição estão nas definições do Capítulo Cinco:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**Arquivo anterior:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**Arquivo seguinte:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### Medir a prestação de contas

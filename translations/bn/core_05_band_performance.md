@@ -38,33 +38,6 @@
 
 <a id="performance-measurement-family"></a>
 
-### সাংবিধানিক কর্মদক্ষতা (Preamble measurement family)
-
-*সহজ কথায়: সংবেদনশীল সত্তাদের সময়, শ্রম বা উপকরণ অপচয় না করে সাংবিধানিক ফলাফল সত্যিই দেওয়া হচ্ছে কি না—এই প্রশ্নগুলো তা পরীক্ষা করে।*
-
-*অধ্যায় পাঁচে সাংবিধানিক কর্মদক্ষতা পরিমাপ-পরিবারের স্থান এটি। প্রস্তাবনার §2 সারসংক্ষেপ সারণিতে শ্রেণির সহজ প্রশ্নটি রাখে; পরিবার-সারণি, সাংবিধানিক ব্যবহার ও সংজ্ঞার নির্দেশনা এখানে রয়েছে।*
-
-*বস্তুগততা ([Materiality](core_05_band_oversight.md#materiality)) সমন্বিত, আলাদা পরিমাপ-শ্রেণি নয়; [material stake](core_00_preamble.md#material-stake) অনুযায়ী পরিবারের প্রয়োগের মাত্রা নির্ধারণ করে।*
-
-| পরিমাপ-পরিবার | সহজ প্রশ্ন | প্রধান সাংবিধানিক ব্যবহার |
-|---|---|---|
-| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | সাংবিধানিক ফলাফল কি সত্যিই বাস্তবায়িত হচ্ছে? | প্রক্সি মেট্রিক যেন প্রকৃত সুরক্ষার জায়গা না নেয় তা নিশ্চিত করে। |
-| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | ব্যবস্থা কি সংবেদনশীল সত্তাদের সময়, শ্রম, উপকরণ, অবকাঠামো বা শক্তি অপচয় করছে? | অপ্রয়োজনীয় ঘর্ষণ কমায়। |
-| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | সংবেদনশীল সত্তা ও ব্যবস্থা কি সামঞ্জস্যপূর্ণ ফলাফল উৎপাদন চালিয়ে যেতে পারে? | পরিবেশগত বোঝা অন্যের ওপর না চাপিয়ে দীর্ঘস্থায়ী সক্ষমতা রক্ষা করে। |
-
-এই আন্তঃক্ষেত্রীয় পরিমাপগুলো যাচাই করে ব্যবস্থা কার্যকরভাবে সাংবিধানিক ফলাফল দেয়, অর্থহীন অপচয় এড়ায় এবং সামঞ্জস্যপূর্ণ ফলাফল উৎপাদন চালিয়ে যাওয়ার সক্ষমতা ধরে রাখে কি না—যা [**Flourishing**](core_00_preamble.md#flourishing) ও [**Continuity**](core_00_preamble.md#continuity), উভয়ের জন্যই সহায়ক।
-
-- কার্যকর পরিমাপের স্তরগুলো অধ্যায় পাঁচের সংজ্ঞা-স্থানে রয়েছে: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) এবং [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty) দেখুন।
-- কর্মদক্ষতার লক্ষ্য, পুরস্কার ও সম্পদ-পরিমাপ কেবল সাংবিধানিক ফলাফলে অনুসরণযোগ্য থাকলেই বৈধ।
-- এগুলো সাংবিধানিক দক্ষতা, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), বা অধিকার-ভিত্তি মেনে চলার বিকল্প হতে পারে না।
-- সামগ্রিক ব্যবস্থার কর্মদক্ষতা বস্তুগতভাবে প্রাসঙ্গিক হলে [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) থেকে [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) পড়ুন।
-
----
-
-**আগের ফাইল:** [core_05_band_participation.md](../../core_05_band_participation.md)
-
-**পরের ফাইল:** [core_07_charters.md](../../core_07_charters.md)
-
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### সাংবিধানিক কর্মক্ষমতা মাপা (প্রস্তাবনার পরিমাপ পরিবার)
 

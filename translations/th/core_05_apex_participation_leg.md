@@ -99,32 +99,6 @@
 ---
 
 <a id="participation-measurement-family"></a>
-
-### การมีส่วนร่วม
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
-
-</details>
-
-<br>
-
-*กล่าวอย่างง่าย ๆ: คำถามเหล่านี้ตรวจสอบว่าฝ่ายที่ได้รับผลกระทบมีสิทธิส่งเสียง เข้าถึง และมีโอกาสคัดค้านอย่างเป็นธรรมหรือไม่ ไม่ใช่เพียงได้รับเชิญให้ปรึกษาเชิงสัญลักษณ์ ส่วนนี้เป็นที่ตั้งของกลุ่มการวัดการมีส่วนร่วมในบทที่ห้า §2 ของบทนำคงคำถามอย่างง่ายของหมวดไว้ ส่วนตารางกลุ่มและทางไปยังคำนิยามอยู่ที่นี่*
-
-*ความมีนัยสำคัญ ([Materiality](core_05_band_oversight.md#materiality)) เป็นองค์ประกอบบูรณาการ ไม่ใช่หมวดแยก โดยปรับระดับการใช้กลุ่มนี้ตาม [material stake](core_00_preamble.md#material-stake)*
-
-| กลุ่มการวัด | คำถามอย่างง่าย | การใช้ตามรัฐธรรมนูญหลัก |
-|---|---|---|
-| ความเป็นธรรม การเข้าถึง และความสามารถในการกระทำ | สิ่งมีความรู้สึกที่ได้รับผลกระทบได้รับการปฏิบัติอย่างเป็นธรรมและสามารถมีส่วนร่วมและเรียนรู้หรือไม่? | ป้องกันการกีดกัน ผลกระทบที่แตกต่างกัน และการเข้าถึงที่ไม่มีเนื้อหา |
-| ความเป็นส่วนตัวและการดูแลข้อมูล | การกำหนดตนเองด้านข้อมูลได้รับการรักษาตลอดวงจรการจัดการหรือไม่? | ป้องกันการแบ่งส่วน การเชื่อมโยงข้ามบริบท และแรงกดดันให้เปิดเผยข้อมูลไม่ให้ทำลายเสียงของผู้ได้รับผลกระทบ |
-
-**ไฟล์ก่อนหน้า:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
-**ไฟล์ถัดไป:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
-
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### การวัดการมีส่วนร่วม (ตระกูลการวัดของคำปรารภ)

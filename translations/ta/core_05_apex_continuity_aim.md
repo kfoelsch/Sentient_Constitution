@@ -100,36 +100,6 @@
 ---
 
 <a id="continuity-measurement-family"></a>
-
-### தொடர்ச்சி (Preamble measurement family)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
-
-</details>
-
-<br>
-
-*எளிமையாகச் சொன்னால்: உணர்திறன் கொண்ட உயிர்களும் அவை சார்ந்துள்ள உயிருள்ள அமைப்புகளும் நீண்டகாலம் நீடிக்க முடியுமா—சூழலியல் ரீதியாகவும் நம்பகமாகவும், தோல்விகளைக் கடந்தும்—என்று இந்தக் கேள்விகள் ஆராய்கின்றன. இது ஐந்தாம் அத்தியாயத்தின் தொடர்ச்சி அளவீட்டுக் குடும்பத்திற்கான இடம்; முன்னுரையின் §2 வகையின் எளிய கேள்வியை வைத்திருக்கிறது, குடும்ப அட்டவணையும் வரையறைச் சுட்டிகளும் இங்கே உள்ளன.*
-
-*பொருட்பாடு* ([Materiality](core_05_band_oversight.md#materiality)) ஒருங்கிணைந்தது; தனி அளவீட்டு வகை அல்ல. [material stake](core_00_preamble.md#material-stake) அடிப்படையில் இந்தக் குடும்பம் எவ்வளவு வலுவாகப் பொருந்தும் என்பதை அது நிர்ணயிக்கிறது.
-
-| துணைக் குடும்பம் | எளிய கேள்வி | முக்கிய அரசியலமைப்புப் பயன்பாடு |
-|---|---|---|
-| சூழலியல் தடம் மற்றும் சுற்றுச்சூழல் முன்நிபந்தனைகள் | எந்தச் சுற்றுச்சூழல் சுமை உருவாக்கப்படுகிறது அல்லது வேறிடத்துக்கு மாற்றப்படுகிறது? | [சூழலியல் தடம்](../../core_05_band_continuity.md#ecological-footprint), [சுற்றுச்சூழல் முன்நிபந்தனைகள்](../../core_05_band_continuity.md#environmental-preconditions); **கட்டுரைகள் I-A** மற்றும் **I-B** படியான வெளிப்படுத்தல் |
-| மீள்திறன், மீள்தன்மை, அமைப்புசார் ஆபத்து | தோல்விகளைக் கட்டுப்படுத்தி மாற்றியமைக்க முடியுமா, அவை தீவிரமாவதை நேர்மையாக அறிவிக்க முடியுமா? | [மீள்தன்மை](../../core_05_band_continuity.md#reversibility), [தொடர் தோல்வி](../../core_05_band_continuity.md#cascading-failure), [இருத்தல்சார் ஆபத்து](../../core_05_band_continuity.md#existential-risk), [சுயச் சீரமைப்பு](../../core_05_band_continuity.md#self-healing); [மீள்திறன், பாதுகாப்பு, மீள்தன்மை, சுயச் சீரமைப்பு, தொடர் தோல்வி, இருத்தல்சார் ஆபத்து, சுற்றுச்சூழல் முன்நிபந்தனைகள், நல்வாழ்வு](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
-| சார்பு மற்றும் வளப் பாய்வுகள் | பகிரப்பட்ட சார்புகள் வெளிப்படையாகவும் நிலைத்தும் உள்ளனவா? | [சார்பு](../../core_05_band_continuity.md#dependency); **கட்டுரை V-A** (*சார்பு வரைபடமிடல் மற்றும் வளப் பாய்வு வெளிப்படைத்தன்மை*) |
-| அமைப்புகளுக்கிடையிலான ஆதரவு | ஆவணப்படுத்தப்பட்ட திருப்பளிப்பு பகிரப்பட்ட உள்கட்டமைப்பையும் சூழலியல் மீட்பையும் தாங்குகிறதா? | [அமைப்புகளுக்கிடையிலான சுரண்டல்](../../core_05_band_continuity.md#cross-system-extraction), [விகிதாசார அமைப்புகளுக்கிடையிலான ஆதரவு](../../core_05_band_continuity.md#proportionate-cross-system-support); **கட்டுரை V-B** (*அமைப்புகளுக்கிடையிலான நியாயமும் நிலைத்தன்மையும்*) |
-
-விரிவான அளவீட்டு விதிகள் இணைக்கப்பட்ட ஒவ்வொரு வரையறையிலும் உள்ளன.
-
-**முந்தைய கோப்பு:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
-
-**அடுத்த கோப்பு:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### தொடர்ச்சியை அளவிடுதல் (முகவுரை அளவீட்டுக் குடும்பம்)

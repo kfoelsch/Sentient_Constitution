@@ -86,35 +86,6 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
-
-### వికాసం
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
-
-</details>
-
-<br>
-
-*సరళంగా చెప్పాలంటే: ప్రాక్సీ నిమగ్నత లేదా పని పరిమాణం కాదు; సజీవ-స్పృహ కలిగినవారు నిజంగా శ్రేయస్సు, భద్రత, కార్యసామర్థ్యంలో నిలుస్తున్నారా అని ఈ ప్రశ్నలు అడుగుతాయి. ఐదవ అధ్యాయంలోని వికాస కొలత కుటుంబానికి ఇది నిలయం; ఉపోద్ఘాతంలోని §2 వర్గపు సరళ ప్రశ్నను ఉంచుతుంది, కుటుంబ పట్టిక మరియు నిర్వచనాల దారి ఇక్కడ ఉన్నాయి.*
-
-*భౌతిక ప్రాధాన్యత ([Materiality](core_05_band_oversight.md#materiality)) సమగ్ర స్వభావం కలది, ప్రత్యేక కొలత వర్గం కాదు; [material stake](core_00_preamble.md#material-stake) ఆధారంగా ఈ కుటుంబం వర్తించే స్థాయిని నిర్ణయిస్తుంది.*
-
-| ఉపకుటుంబం | సరళ ప్రశ్న | ప్రధాన రాజ్యాంగ వినియోగం |
-|---|---|---|
-| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | స్పృహగల జీవులు కార్యం, స్వీయ-కర్తృత్వం, తోడ్పాటు పరిస్థితుల్లో నిలుస్తున్నారా? | **వికాసం** ఫలితానికి ప్రాథమిక కొలత (దాని భాగం కాదు)—ప్రాక్సీ నిమగ్నత లేదా పని పరిమాణం కాదు. |
-| భద్రత, హాని, ప్రమాదం | ముందుగా ఊహించగల హాని నిరోధించబడి, అదుపుచేయబడి, నిజాయితీగా అంచనా వేయబడుతున్నదా? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
-| జీవన కనీస స్థాయికి ప్రాప్యత | ఆహారం, నీరు, నివాసం, సంరక్షణ, స్థిరమైన వాతావరణం వంటి అవసరాలను స్పృహగల జీవులు పొందగలరా? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (జీవనాధారం). |
-
-ఆచరణాత్మక కొలత స్థాయిలు ఆ నిర్వచన స్థలాల్లో ఉంటాయి.
-
-**మునుపటి ఫైలు:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
-**తదుపరి ఫైలు:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### సమున్నతిని కొలవడం (ప్రస్తావన కొలత కుటుంబం)

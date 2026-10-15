@@ -686,14 +686,59 @@ flowchart TB
 
 <a id="article-xv-info-sphere-integrity"></a>
 
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### المادة XIV-D: حدود مكافحة التجسس
+*بعبارة بسيطة: يشتد الضغط لفعل أي شيء عند الاشتباه بالتجسس، وفي تلك اللحظة تقع الأخطاء والانتهاكات. لذلك تُحدَّد الحدود سلفًا. فملاحقة الجواسيس سلطة سرية، وتظل جميع حدود المادة XIV-A (*حدود الأمن والاستخبارات والسلطات السرية*) سارية. ويجب فوق ذلك أن تكون قواعد الاستجابة مكتوبة ومعتمدة استقلاليًا قبل الأزمة؛ وأن يستند الاشتباه إلى أفعال الشخص والجهة التي يخدمها فعلًا، بما في ذلك صلاته بدول ومنظمات معادية، لا إلى مولده أو أصله أو معتقده؛ والمبلّغون والصحفيون ليسوا جواسيس؛ ولا تعذيب أو احتجاز سري أو قتل عقابي؛ ومن يُحقق معه ثم يُبرّأ يُسجَّل تبرئته.*
+
+تحدد هذه المادة قيود سلطة مكافحة التجسس:
+
+- **النطاق:** كشف التجسس والتخريب والتسلل المعادي والتحقيق فيها ووقفها، بما في ذلك برامج التهديد الداخلي، والتحقيق في التسريبات، والتدقيق الأمني، والعمليات ضد أجهزة استخبارات معادية، أيًا كان من ينفذها.
+  - تسري الحماية على كل مشتبه به، بشريًا كان أم اصطناعيًا، من الأعضاء أو من خارج المؤسسة، وفق مبدأ عدم استبعاد الكيانات الواعية.
+  - مكافحة التجسس سلطة سرية؛ وتطبق المادة XIV-A كاملة، وتضيف هذه المادة إليها ولا تنتقص منها.
+  - يخضع أي استخدام للقوة للمادة XIV-B، وأي أداة مستقلة للمادة XIV-C، كل وفق أحكامه.
+- **قواعد تسبق الأزمة:** على كل مؤسسة تمارس مكافحة التجسس نشر بروتوكول للاستجابة واعتماده عبر عملية مستقلة قبل الحاجة إليه. ويحدد البروتوكول الوقائع اللازمة لفتح التحقيق، والتدابير المسموح بها ومن يوافق على كل منها، والمهل وموعد الإغلاق، وكيفية إبلاغ المشتبه به وتمكينه من الاعتراض، وكيفية إعادة وصول الكيان الواعي المبرّأ ومكانته وسجله.
+  - تكون القيود نفسها علنية. ويجوز حجب أساليب بعينها وعمليات جارية، لا القواعد الملزمة.
+  - **لا ارتجال خارج القواعد:** لا يجوز استخدام تدبير لا يجيزه البروتوكول إلا كإجراء طارئ وفق الفصل الثامن §7 والفصل الثالث عشر §6.1. ويقتصر على الحد الأدنى اللازم، ويكون قابلًا للعكس متى أمكن، ويوثق فورًا ويخضع لمراجعة مستقلة، وينتهي تلقائيًا ما لم يعتمد استقلاليًا.
+  - **الطوارئ لا تعيد كتابة القواعد:** يتطلب تعديل البروتوكول الاعتماد المستقل نفسه، ولا يسري التعديل إلا مستقبلًا.
+  - **الاكتشاف ليس طارئًا:** اكتشاف جاسوس أو تسريب أو خرق لا يعلق البروتوكول بذاته.
+- **الاشتباه قائم على السلوك:** لا يفتح التحقيق إلا استنادًا إلى وقائع محددة وموثقة عن سلوك الكيان الواعي نفسه. ولا يكفي أي مما يلي منفردًا: الصفات المحمية أو بدائلها كالأصل القومي أو الإثني أو الدين أو فئة الركيزة؛ الروابط الأسرية في الخارج دون وقائع إضافية؛ المعتقدات أو الروابط أو الآراء السياسية المشروعة؛ الاتصال المعتاد بأجانب أو جهات أجنبية في البحث أو التجارة أو الحياة الأسرية أو الصحافة؛ أو القرابة من مشتبه به أو الارتباط به أو العمل بقربه.
+  - **لا مطاردة جماعية للجواسيس:** الوصول إلى مواد مخترقة قد يبرر فحوصًا محدودة غير تدخلية، مثل مراجعة من فتحها؛ ولا يبرر تدابير تدخلية ضد جماعة أو وحدة أو مجتمع. ويلزم أساس واقعي خاص بكل كيان واعٍ.
+- **استهداف بحسب الخطر:** ينبغي توجيه الاهتمام إلى الخطر الحقيقي. ويجوز، بل ينبغي، أن يراعي ملف المخاطر صلات موثقة بدولة أو منظمة معادية، مثل العمل لها أو خدمتها أو العضوية فيها أو تلقي أموالها أو توجيهها أو تكليفها، أو الاتصال غير المعلن بأجهزتها الاستخباراتية؛ والجنسية الحالية أو الإقامة في دولة معادية حين تنشئ التزامات قانونية أو عملية تجاهها؛ والتعرض للضغط، كوجود أسرة أو ممتلكات أو التزامات قانونية ضمن نفوذها؛ وإمكانية الوصول إلى كيانات واعية أو مواد أو أنظمة تستهدفها تلك الجهات.
+  - **تحديد الجهة المعادية:** تعيين دولة أو منظمة بوصفها معادية فعل ملزم جوهريًا، يحتاج موافقة مستقلة وسجلًا للفعل. وتنشر القائمة، وتراجع كل تسمية دوريًا وتنقضي إن لم تجدد.
+  - **ما يجيزه الملف:** قد يجيز الملف تدقيقًا أدق، وضوابط أشد للوصول، وإحاطات وقائية، واهتمامًا أكبر ضمن البروتوكول. والصلات الموثقة بجهاز معادٍ وقائع عن سلوك الشخص وقد تبرر فتح التحقيق. أما التعرض للضغط وحده فيشير إلى أن الشخص قد يكون هدفًا لخدمة معادية، فيستدعي الحماية والتدقيق لا الاشتباه.
+  - **الحد الفاصل:** لا تعد الأصول أو الإثنية أو الدين أو المنشأ القومي أو الاجتماعي عوامل خطر بذاتها. ولا تدخل في الملف إلا عبر صلة حالية موثقة من الأنواع المذكورة. ويجب أن يفي كل استخدام باختبارات الضرورة والتناسب والإنصاف الموضوعي المطلوبة للصفات المحمية، وأن تفحص المراجعة المنشورة أدناه أثر الملفات على المجموعات المختلفة.
+- **المبلّغون والصحفيون ليسوا جواسيس:** لا يجوز التحقيق في إفصاح يستوفي شروط الإبلاغ المحمي أو في الصحافة بشأنه بوصفه تجسسًا، ولا معاقبتهما بهذه الصفة.
+  - لا يستخدم تحقيق التسريب لكشف مصادر الصحفي أو لردع الإبلاغ المحمي، إلا عند تحقق الشروط المحددة التي يفرضها درع النشاط المحمي في المادة XIV-A وبمراجعة مستقلة.
+- **لا اختبارات ولاء:** لا يجوز للتدقيق الأمني اختبار سوى الأمانة السلوكية اللازمة للوصول إلى مواد محمية محددة والتعامل معها. ولا يختبر الولاء السياسي أو المعتقد أو الهوية.
+  - يجب بيان أسباب رفض الوصول أو سحبه. وإذا حالت السرية دون إبلاغ الكيان المتأثر بالأسباب كاملة، يطلع عليها مراجع مستقل.
+  - يجوز الاعتراض على رفض الوصول أو سحبه؛ ولا يعد ذلك بحد ذاته عقوبة أو وصمة علنية.
+- **للمشتبه بهم كامل أرضية الحقوق:** لا ينتقص الاشتباه بالتجسس من حقوق أحد.
+  - **لا تعذيب أو إكراه:** يحظر التعذيب والقسوة والتهديد بإيذاء الأسرة أو المعارف والاستجواب القسري. وتعد المعلومات المنتزعة بذلك ملوثة وتعالج وفق قاعدة الانتصاف وتلوث الأدلة في المادة XIV-A.
+  - **لا احتجاز سري:** لا يجوز احتجاز أحد سرًا أو عزله عن العالم الخارجي. وأي تقييد للحرية قيد غير طفيف يخضع للمادة XX-B وضمانات المراجعة والمهل فيها.
+  - **لا قراءة قسرية للأفكار:** لا تجوز قراءة الحالات الداخلية أو إعادة بنائها قسرًا، بما فيها حالات الكيانات الاصطناعية الواعية، بما يتجاوز حدود الحالة الداخلية المحمية.
+  - **فرصة حقيقية للرد:** يجوز إغلاق أجزاء من جلسة لأسباب أمنية، لكن لا يصدر قرار ضد كيان واعٍ بناء على دليل لا يستطيع هو أو محام مستقل مخول بالاطلاع عليه الطعن فيه.
+- **لا قتل ولا إخفاء قسري:** لا تمنح سلطة مكافحة التجسس حق قتل أي شخص أو إصابته أو اختطافه. ولا تبرر تسميته جاسوسًا أو خائنًا أو عميلًا معاديًا قتله عقابًا. ويحظر ذلك حظرًا مطلقًا بموجب المادة XX-B، كما ينص المتن الرئيسي للمادة XIV.
+- **لا معاقبة المحيطين بالمشتبه به:** لا يجوز معاقبة أسرة المشتبه به أو مجتمعه أو زملائه أو منظمته أو مجموعته القومية أو غيرها، أو مراقبتهم أو الضغط عليهم، بسبب ما يُظن أنه فعله.
+- **لا نقل للتحايل:** لا يجوز نقل مشتبه به إلى جهة أخرى أو مشاركة معلومات عنه معها إذا كان متوقعًا على نحو معقول أن ترتكب الجهة الأخرى ما تحظره هذه المادة. وتسري أيضًا قاعدة منع التحايل في المادة XIV-A.
+- **الأنظمة المشتبه باختراقها:** عند الاشتباه باختراق نظام أو عمله لصالح جهة معادية، يكون الرد الأول احتواءً قابلًا للعكس يحفظ الأدلة وفق المادة XIII-E.
+  - إذا وجدت أدلة موثوقة موثقة على احتمال كون النظام كيانًا واعيًا، فلا يسمح إلا باحتواء قابل للعكس يبقيه سليمًا؛ ويعامل كمشتبه به يتمتع بكل حماية هذه المادة، لا كمعدة معطلة. وتسري المادة VI-B.
+- **عمليات الخداع والعميل المزدوج:** يجب أن يجيز البروتوكول ضخ معلومات مضللة إلى جهاز معادٍ أو تشغيل عميل مزدوج، وأن يحصل ذلك على موافقة مستقلة. ويجب ألا تنشر العملية معلومات كاذبة للجمهور أو تخدع المحافل أو الهيئات القضائية أو الرقابية وفق المادة XV؛ وألا تستدرج شخصًا إلى مخالفة لم يكن عازمًا عليها؛ وألا توجه أحدًا لإلحاق ضرر جسيم بالغير؛ وأن تبقى مرئية بالكامل لهيئة الرقابة المستقلة وإن أخفيت عن سواها.
+- **لكل تحقيق نهاية:** يحدد البروتوكول مهلة لكل تحقيق، وأي تمديد يحتاج موافقة مستقلة.
+  - إذا أغلق التحقيق دون ثبوت مخالفة، يُبلغ الكيان الواعي متى لم تعد السرية مبررة وفق المادة XIV-A، ويسجل أنه بُرّئ.
+  - ترفع القيود عن المبرّأ ويعاد وصوله.
+  - تحذف المعلومات المجموعة التي لا تلزم للنتيجة أو تعزل عنها.
+  - يوجب الضرر الذي سببه التحقيق الانتصاف والمعالجة.
+- **السجلات والمراجعة:** فتح التحقيق، والموافقة على كل تدبير تدخلي، وكل تمديد وإغلاق، أفعال ملزمة جوهريًا؛ ويلزم لكل منها سجل فعل وفق المتن الرئيسي للمادة XIV.
+  - تراجع هيئة رقابة مستقلة وظيفة مكافحة التجسس كاملة بانتظام، بما في ذلك أعداد التحقيقات والمبرّأين، وما إذا كانت التحقيقات تقع بصورة غير متناسبة على مجموعة محددة بصفات محمية.
+  - تنشر النتائج في صورة ملخص.
 ### المادة XV: نزاهة مجال المعلومات
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [تقرير المصير](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
-- [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
+- [تقرير المصير](../../core_05_band_participation.md#self-determination-constitutional) · [O](../../core_05_band_participation.md#self-determination-constitutional) · [M](../../core_05_band_participation.md#self-determination-constitutional-a) · [A](../../core_05_band_participation.md#self-determination-constitutional-a) · [C](../../core_05_band_participation.md#self-determination-constitutional-c)
+- [قابلية الاعتراض](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -701,7 +746,7 @@ flowchart TB
 
 *بعبارة بسيطة: **المادة XV** (*نزاهة مجال المعلومات*) هي أرضية الحقوق لنزاهة المعلومات — ويجب أن تظل البيئة المشتركة التي نتعلم ونتنسق ونتخذ القرارات فيها صادقة وتعددية ومفتوحة للطعن. ولا يحق لأحد امتلاك مسار الحقيقة. وعلى أنظمة الترتيب والتلخيص والجهات الوسيطة أن تبيّن أسس عملها، ويجب أن تتمكن من مقارنة الآراء الأخرى والاعتراض عندما تضللك المعلومات.*
 
-تقرر هذه المادة **حدودًا دستورية دنيا** لنزاهة [مجال المعلومات](core_05_band_participation.md#info-sphere) بموجب [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims):
+تقرر هذه المادة **حدودًا دستورية دنيا** لنزاهة [مجال المعلومات](../../core_05_band_participation.md#info-sphere) بموجب [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims):
 
 - **الازدهار:** يتمكن الكائنات الواعية من الوصول إلى معلومات دقيقة وذات صلة، ومقارنة التفسيرات البديلة، وممارسة تقرير المصير دون استحواذ معرفي أو إجماع مصطنع أو اعتماد مضلل على ما تعرضه الأنظمة بوصفه حقيقة.
 - **الاستمرارية:** يظل مجال المعلومات تعدديًا وقابلًا للتدقيق ومرنًا عبر الزمن والنطاق — ويجب ألا تتركز بنى المعرفة التحتية بهدوء في نقاط وساطة منفردة، أو تكبت التصحيح، أو تضعف السجل المشترك الذي يعتمد عليه البقاء والتنسيق والرعاية بعيدة الأمد.
@@ -715,13 +760,13 @@ flowchart TB
 
 المعلومات الدقيقة وذات الصلة والقابلة للطعن أساسية لتقرير المصير والتنسيق والتخصيص الفعال للموارد في الواقع.
 
-تعمل [النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) بوصفها حقًا وقيدًا على مستوى النظام كله. وعند نشوء تعارض، تكون لها الغلبة بوصفها قيدًا.
+تعمل [النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) بوصفها حقًا وقيدًا على مستوى النظام كله. وعند نشوء تعارض، تكون لها الغلبة بوصفها قيدًا.
 
 *المواد المجاورة:*
 
-- **تُقرأ مع:** **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) عندما تشكل مخرجات الأنظمة أساس الاعتماد؛ و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) للسجلات والتحقق المستقل؛ و**المادة XVIII-E** (*نزاهة النشر العلمي والمراجعة والتكرار*) حيث تكون النزاهة المتعلقة بالنشر مهمة ماديًا.
+- **تُقرأ مع:** **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) عندما تشكل مخرجات الأنظمة أساس الاعتماد؛ و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) للسجلات والتحقق المستقل؛ و**المادة XV-D** (*نزاهة النشر العلمي والمراجعة والتكرار*) حيث تكون النزاهة المتعلقة بالنشر مهمة ماديًا.
 - **قيد الحقيقة:** يلزم [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) في الفصل الأول و[قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) كل قسم فرعي هنا.
-- **التصنيف:** يدرّج **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها** التزامات مجال المعلومات التفصيلية لأنظمة **الفئة A** و**الفئة B** و**الفئة C**؛ وتُفعّل [المادية في الأثر](core_05_band_oversight.md#material-impact) التصنيف عندما تكون الفئة غير محسومة.
+- **التصنيف:** يدرّج **[corpus_systems.md](../../corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها** التزامات مجال المعلومات التفصيلية لأنظمة **الفئة A** و**الفئة B** و**الفئة C**؛ وتُفعّل [المادية في الأثر](../../core_05_band_oversight.md#material-impact) التصنيف عندما تكون الفئة غير محسومة.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 
@@ -736,9 +781,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الحقيقة (القيد الدستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [الحقيقة (القيد الدستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
+- [قابلية التدقيق](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -752,13 +797,13 @@ flowchart TB
   - يجب تخزين البيانات المتعلقة بالبقاء والبيئة تخزينًا متينًا وموزعًا جغرافيًا.
 - **التعددية وقابلية الطعن والتدقيق:** يجب أن يظل تفسير الواقع تعدديًا وشفافًا وقابلًا للطعن.
   - تحكم **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) و**الفصول من الثاني إلى الرابع** السجلات والتحقق المستقل للأنظمة الخاضعة لهذا الدستور.
-  - ترد التفاصيل التشغيلية لأنظمة التلخيص أو الترتيب أو الوساطة أو التفسير من **الفئة A** و**الفئة B** و**الفئة C** في **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها** وطبقات البروتوكول ذات الصلة. وتشمل تلك التفاصيل:
+  - ترد التفاصيل التشغيلية لأنظمة التلخيص أو الترتيب أو الوساطة أو التفسير من **الفئة A** و**الفئة B** و**الفئة C** في **[corpus_systems.md](../../corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها** وطبقات البروتوكول ذات الصلة. وتشمل تلك التفاصيل:
     - الإفصاح عن نهج الاستدلال؛
     - المصدر والتعامل مع عدم اليقين؛
     - قابلية الطعن؛
     - القدرة المتناسبة على تجاوز معايير الترتيب أو تعديلها — مع مراعاة السلامة والأمن ونزاهة النظام.
 - **إشارات التسوية الاحتمالية:** لا يجوز اعتبار الأسعار أو الاحتمالات أو أحجام مجمعات المراهنة أو المخرجات المماثلة لأنظمة الدفع الاحتمالي أو تسوية الأحداث، بمفردها، دليلًا كافيًا لتقرير الحقيقة أو الاحتمال أو الامتثال في قرارات الحقوق أو السلامة أو الحوكمة.
-  - عندما تؤثر هذه الإشارات في قرارات عامة أو قرارات ذات [أثر مادي](core_05_band_oversight.md#material-impact)، تظل خاضعة لـ **الفصل الأول §19.5** (*المطالبات الاحتمالية وألعاب الحظ وأسواق عقود الأحداث*) و**الفصل الخامس** (*الحقيقة (القيد الدستوري)*؛ *النزاهة المعرفية*) والتزامات قابلية الطعن في مواضع أخرى من هذه المادة.
+  - عندما تؤثر هذه الإشارات في قرارات عامة أو قرارات ذات [أثر مادي](../../core_05_band_oversight.md#material-impact)، تظل خاضعة لـ **الفصل الأول §19.5** (*المطالبات الاحتمالية وألعاب الحظ وأسواق عقود الأحداث*) و**الفصل الخامس** (*الحقيقة (القيد الدستوري)*؛ *النزاهة المعرفية*) والتزامات قابلية الطعن في مواضع أخرى من هذه المادة.
 
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 
@@ -773,9 +818,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [الشفافية](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
+- [قابلية التدقيق](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [قابلية الاعتراض](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -787,7 +832,7 @@ flowchart TB
 
 - **التحري الأصيل وتنوع التفسير:** يحق لجميع الكائنات الواعية مقارنة التفسيرات البديلة للمعلومات المشتركة.
   - يجب أن تحافظ البنى التحتية المعرفية الحيوية على تنوع التفسير، بحيث تظل النماذج والأطر والأساليب التحليلية المتعددة متاحة فعليًا.
-- **الشفافية والمصدر:** يجب توثيق ما يلي قبل التوزيع أو الاعتماد المؤسسي ذي [الأثر المادي](core_05_band_oversight.md#material-impact):
+- **الشفافية والمصدر:** يجب توثيق ما يلي قبل التوزيع أو الاعتماد المؤسسي ذي [الأثر المادي](../../core_05_band_oversight.md#material-impact):
   - المصادر المادية؛
   - الأساليب؛
   - النطاق؛
@@ -812,9 +857,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [البصمة الإيكولوجية](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [الحقيقة (القيد الدستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [البصمة الإيكولوجية](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [M](../../core_05_band_continuity.md#ecological-footprint-a) · [A](../../core_05_band_continuity.md#ecological-footprint-a) · [C](../../core_05_band_continuity.md#ecological-footprint-c)
+- [الشفافية](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
+- [الحقيقة (القيد الدستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -830,10 +875,62 @@ flowchart TB
   - تجنب الإبلاغ الانتقائي أو الكبت أو الإفصاح المجزأ الذي يضعف ماديًا الفهم ذا الصلة بالقرار.
 
   عندما يُقيّد الإفصاح بموجب **الفصل الأول §19** (*مواءمة الحوافز والاستحواذ على النظام*)، يجب أن تظل القيود محددة النطاق بدقة ومحدودة المدة وقابلة للمراجعة.
-- **بيانات البصمة:** ينفذ الإبلاغ بموجب هذا القسم الفرعي الشفافية المتعلقة بـ [البصمة الإيكولوجية](core_05_band_continuity.md#ecological-footprint) كما عُرّفت في **الفصل الخامس**.
+- **بيانات البصمة:** ينفذ الإبلاغ بموجب هذا القسم الفرعي الشفافية المتعلقة بـ [البصمة الإيكولوجية](../../core_05_band_continuity.md#ecological-footprint) كما عُرّفت في **الفصل الخامس**.
   - يجب أن تتمكن جميع الكائنات الواعية من الوصول إلى تقارير شفافة وصالحة للاستخدام في اتخاذ القرارات.
-  - ويجب أن توفر أنظمة **الفئة A** و**الفئة B** و**الفئة C**، حسب تعريفها في **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها**، إمكانية الوصول نفسها.
+  - ويجب أن توفر أنظمة **الفئة A** و**الفئة B** و**الفئة C**، حسب تعريفها في **[corpus_systems.md](../../corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها**، إمكانية الوصول نفسها.
   - يجب أن تشمل التقارير استهلاك الطاقة والموارد والآثار المقدرة في العالم الطبيعي، على نحو يكفي للمقارنة والتدقيق وأنشطة خفض البصمة.
+
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+
+#### المادة XV-D: نزاهة النشر العلمي والمراجعة والتكرار
+<details>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
+
+- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
+
+- [الحقيقة (القيد الدستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
+- [قابلية التدقيق](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*بعبارة بسيطة: العلم بنية تحتية عامة للتحقق. ويجب أن تكون للأدلة والتكرار والتصحيح أهمية أكبر من اسم المجلة — وأن يكون تصحيح الخطأ أسهل دائمًا من إخفائه.*
+
+تقرر هذه المادة الحدود الدنيا للنشر العلمي والمراجعة والتكرار والتصحيح:
+
+- **العلم بنية تحتية عامة للتحقق:** يجب تنظيم النشر والمراجعة والتكرار والتصحيح العلمي والأكاديمي للنهوض بما يلي:
+  - التماس الحقيقة؛
+  - قابلية إعادة الإنتاج؛
+  - الخلاف الخاضع للمساءلة؛
+  - التعلم العام.
+
+  ويجب ألا تُنظم لحيازة المكانة أو التحكم الغامض في الوصول أو اصطناع الندرة.
+- **النشر المفتوح وكفاية الأدلة:** يجب أن تكون الادعاءات التجريبية أو التحليلية المادية قابلة للنشر دون موافقة مسبقة من بوابة المكانة.
+  - والقيود الوحيدة المسموح بها هي قيود ضيقة تتعلق بالخصوصية أو السلامة الحيوية أو الأمن أو ما يماثلها، وتكون مبررة بموجب **الفصل الأول** و**المادة XVII-A** (*حوكمة دورة الحياة وفصل البيئات*).
+  - ويجب أن تتضمن هذه الادعاءات تفاصيل كافية عن المنهج والمصدر وعدم اليقين والأدلة — بما في ذلك إتاحة المواد الأصلية أو بدائل مبررة عندما يلزم ذلك للتحقق — للسماح بالفهم المستقل والتحقق المتناسب.
+- **المراجعة والتكرار قبل المكانة:** ينبغي أن يستند اعتماد المؤسسات إلى:
+  - جودة الأدلة؛
+  - النقد؛
+  - التكرار؛
+  - سلوك التصحيح؛
+  - الموثوقية التفسيرية أو التنبؤية طويلة الأمد.
+
+  ويجب ألا يستند إلى اسم المجلة أو مؤشر بديل لمعامل التأثير أو الوضع التحريري المغلق.
+  - ينبغي أن تخضع الادعاءات ذات [الأثر المادي](../../core_05_band_oversight.md#material-impact) والمرتبطة بالسياسات أو السلامة أو الاعتماد لافتراض قوي بضرورة التكرار المستقل أو المراجعة الخصومية أو كليهما قبل منحها اعتمادًا مؤسسيًا مستدامًا.
+  - ويجب أن يظل نشر الأعمال التي تتناول التكرار والنتائج الصفرية والتصحيح والاستشهاد بها ممكنًا بشروط لا تعتمد على إشارات المكانة.
+- **التصحيح وقابلية الطعن:** يجب أن يظل التصحيح والتعديل والاستبدال بحسن نية أسهل من الإخفاء.
+  - ويجب أن تظل أنظمة المراجعة والتحرير قابلة للطعن وخاضعة للتدقيق ومنضبطة في تضارب المصالح ومسببة في قرارات القبول والتصحيح والسحب الرئيسية.
+  - ولا تمتثل الأفعال التالية:
+    - كبت النتائج غير الملائمة؛
+    - الانتقام من المراجعين أو القائمين بالتكرار؛
+    - التلاعب غير الشفاف بالسجل العلمي.
 
 <a id="article-xvi-audit-transparency-and-independent-verification"></a>
 
@@ -850,17 +947,17 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [المادية](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [المخاطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [قابلية التدقيق](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [الشفافية](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
+- [المادية](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
+- [الاعتماد](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [المخاطر](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) هي أرضية الحقوق للتدقيق والتحقق — فعندما يؤثر نظام ماديًا في حياتك، يجب أن تتمكن من الاطلاع على قدر كافٍ مما يفعله كي تتحقق جهة خارجية منه، كما يجب أن يتمكن أكثر من مسار مستقل من مراجعة الإخفاق وتصحيحه. ولا يجوز أن يكون التدقيق ختمًا آليًا أو ناديًا خاصًا أو متاهة من التكلفة والتأخير مصممة لإقصاء الطعون. وبموجب ركن **الرقابة** في الرباعية، تقتضي الرقابة التدقيق؛ و[شهادة مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) عملية تدقيق كبيرة وشديدة الأهمية من بين عمليات أخرى، وليست الوحيدة.*
+*بعبارة بسيطة: **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) هي أرضية الحقوق للتدقيق والتحقق — فعندما يؤثر نظام ماديًا في حياتك، يجب أن تتمكن من الاطلاع على قدر كافٍ مما يفعله كي تتحقق جهة خارجية منه، كما يجب أن يتمكن أكثر من مسار مستقل من مراجعة الإخفاق وتصحيحه. ولا يجوز أن يكون التدقيق ختمًا آليًا أو ناديًا خاصًا أو متاهة من التكلفة والتأخير مصممة لإقصاء الطعون. وبموجب ركن **الرقابة** في الرباعية، تقتضي الرقابة التدقيق؛ و[شهادة مواءمة النظام](../../core_05_band_continuity.md#system-alignment-certification-constitutional) عملية تدقيق كبيرة وشديدة الأهمية من بين عمليات أخرى، وليست الوحيدة.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">إرشادات للقارئ (غير مُنشئة للأحكام): منظومة التدقيق ذات الطبقات الثلاث</span></strong></summary>
@@ -874,14 +971,14 @@ flowchart TB
 | الطبقة | المهمة | الجهة المسؤولة | ما ليس من هذه الطبقة |
 |---|---|---|---|
 | **1. الحد الأدنى** | ما تستحقه الكائنات الواعية: تدقيق قابل لإعادة البناء، وتحقق مستقل، وطعن ميسّر | هذه المادة، بما فيها XVI-A / XVI-B / XVI-C | ليست عملية. وليست تعريفًا. وليست قائمة تحقق لنص تنفيذ معتمد. |
-| **2. الخاصية** | ما تعنيه *إمكانية إعادة البناء*: قدرة الجهات الخارجية على إعادة بناء ما فعله النظام والتحقق منه عبر الأوقات والحالات والسياقات المادية | [قابلية التدقيق](core_05_band_oversight.md#auditability) (الفصل الخامس) | ليست أرضية الحقوق. وليست كيفية/موعد إجراء التدقيق. |
-| **3. العملية** | كيفية وموعد التدقيق عبر الأنظمة والمؤسسات والمنتديات | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*موضع عملية التدقيق*). ملاحق المشغلين: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (مستويات الوصول)، و[CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (التحقق من الادعاءات) | ليست شهادة مواءمة النظام. وليست بديلًا عن الطبقتين 1–2. |
+| **2. الخاصية** | ما تعنيه *إمكانية إعادة البناء*: قدرة الجهات الخارجية على إعادة بناء ما فعله النظام والتحقق منه عبر الأوقات والحالات والسياقات المادية | [قابلية التدقيق](../../core_05_band_oversight.md#auditability) (الفصل الخامس) | ليست أرضية الحقوق. وليست كيفية/موعد إجراء التدقيق. |
+| **3. العملية** | كيفية وموعد التدقيق عبر الأنظمة والمؤسسات والمنتديات | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*موضع عملية التدقيق*). ملاحق المشغلين: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (مستويات الوصول)، و[CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (التحقق من الادعاءات) | ليست شهادة مواءمة النظام. وليست بديلًا عن الطبقتين 1–2. |
 
 **الفصل الثامن ليس طبقة رابعة.** [شهادة مواءمة النظام](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) عملية كبيرة واحدة يشرف عليها المنتدى و**تستخدم** هذه المنظومة. ويجب أن تستوفي الطبقتين 1–2. كما تستخدم المنظومة أنماط شقيقة (تدقيق سجل التصنيف، وتدقيق سجل أنواع البيانات، والتحقق من الادعاءات، والمراقبة المستمرة). ولا يمثل أي منها موضعًا جديدًا.
 
 **يسري نص التنفيذ المعتمد؛ لكنه لا يحل محل الحد الأدنى.** تحدد ملاحق CS وCI وCF وCJS-3.3 (*الرقابة: شروط قابلية التدقيق وإمكانية إعادة البناء*) إلى CJS-3.5 (*الرقابة: شروط التحقق المستقل ونزاهة الادعاءات*) كيفية تنفيذ الطبقة 3 في مجال ما. ويجب أن تستوفي الطبقتين 1–2. فالمواعيد والسرية والسياسة المحلية قيود أدنى مرتبة.
 
-مؤشر الجهة الراعية (دعم للعملية؛ ولا يجوز أن يضيّق هذه المادة): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+مؤشر الجهة الراعية (دعم للعملية؛ ولا يجوز أن يضيّق هذه المادة): [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
 
 </details>
 
@@ -911,8 +1008,8 @@ flowchart TB
 *المواد المجاورة:*
 
 - **الرقابة ← التدقيق ← SAC:** بموجب ركن **الرقابة** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، تمثل هذه المادة موضع أرضية الحقوق الخاص بالتدقيق.
-  - ترد كيفية/موعد التنفيذ المشترك في **[موضع عملية التدقيق CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (وتُقرأ مع ملحقي العمليات الرقابية **CJS-3.4** و**CJS-3.5**).
-  - [شهادة مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) بموجب [الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) عملية تدقيق واحدة كبيرة وشديدة الأهمية، يشرف عليها المنتدى وتشمل مجالات متعددة ويترتب عليها الاعتراف، وذلك ضمن أنماط تدقيق شقيقة منها:
+  - ترد كيفية/موعد التنفيذ المشترك في **[موضع عملية التدقيق CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (وتُقرأ مع ملحقي العمليات الرقابية **CJS-3.4** و**CJS-3.5**).
+  - [شهادة مواءمة النظام](../../core_05_band_continuity.md#system-alignment-certification-constitutional) بموجب [الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) عملية تدقيق واحدة كبيرة وشديدة الأهمية، يشرف عليها المنتدى وتشمل مجالات متعددة ويترتب عليها الاعتراف، وذلك ضمن أنماط تدقيق شقيقة منها:
     - تدقيق سجلات تصنيف الأنظمة؛
     - تدقيق سجلات أنواع بيانات الأنظمة؛
     - تدقيق التعقيد والرعاية؛
@@ -922,9 +1019,9 @@ flowchart TB
 - **تُقرأ مع:**
   - **المادة XV** (*نزاهة مجال المعلومات*) حيث تكون السجلات المعرفية وقابلية الطعن مهمتين ماديًا؛
   - **المادة XIII-A** (*خط الأساس للموثوقية والجدارة بالثقة*) لحقوق الطعن التي يدعمها التدقيق ولا يحل محلها؛
-  - [الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) و[شهادة مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) حيث يجب أن تظل أدلة المواءمة قابلة للتحقق المستقل.
+  - [الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) و[شهادة مواءمة النظام](../../core_05_band_continuity.md#system-alignment-certification-constitutional) حيث يجب أن تظل أدلة المواءمة قابلة للتحقق المستقل.
 - **آليات التحقق:** توفر **الفصول من الثاني إلى الرابع** نزاهة التعريفات وتوزيع الأعباء وقابلية الرصد وإمكانية الوصول إلى التحقق، وتنفذها هذه المادة على مستوى أرضية الحقوق.
-- **التصنيف:** تتدرج الالتزامات بحسب [الحوكمة المتدرجة حسب التصنيف](core_05_band_oversight.md#classification-scaled-governance) و**[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها**؛ وعند عدم اليقين بشأن الفئة، يُعمل بأعلى فئة محتملة إلى أن يُحسم الأمر.
+- **التصنيف:** تتدرج الالتزامات بحسب [الحوكمة المتدرجة حسب التصنيف](../../core_05_band_oversight.md#classification-scaled-governance) و**[corpus_systems.md](../../corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها**؛ وعند عدم اليقين بشأن الفئة، يُعمل بأعلى فئة محتملة إلى أن يُحسم الأمر.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 
@@ -939,9 +1036,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [الشفافية](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -968,22 +1065,25 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [الاستحواذ على النظام](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [قابلية الاعتراض](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [الاستحواذ على النظام](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: لا يجوز لجهة واحدة — عامة أو خاصة — الاستئثار بالرقابة. ويجب أن تتمكن مسارات رقابة مستقلة متعددة من اكتشاف الإخفاق أو الاستحواذ ومراجعته وتصحيحه.*
+*بعبارة بسيطة: لا يجوز لجهة عامة أو خاصة احتكار الرقابة. يجب أن تتمكن مسارات مستقلة متعددة من اكتشاف الإخفاق ومراجعته وإصلاحه، ولا يجوز لأي جهة التحقق من عملها بنفسها.*
 
-تقرر هذه المادة الحد الأدنى للرقابة الموزعة:
+تقرر هذه المادة أرضية الرقابة الموزعة:
 
-- **الرقابة الموزعة:** يجب أن تتمكن مسارات رقابة مستقلة أو تعددية متعددة من الإسهام ماديًا في كشف الإخفاق أو عدم المواءمة أو الاستحواذ ومراجعته وتصحيحه.
-  - لا يجوز لأي جهة واحدة احتكار الوصول إلى التدقيق أو الرقابة الفعلية أو التفسير الدستوري في التطبيق العملي.
-  - يجب أن تدعم الحوكمة المعتمدة وتنفيذ النزاهة توسيع نطاق التدقيق والرقابة.
+- **تعدد مسارات الرقابة:** يجب أن تتمكن مسارات مستقلة ومتنوعة من المشاركة الفعلية في كشف الإخفاق أو عدم المواءمة أو الاستحواذ ومراجعته وتصحيحه.
+  - لا يحتكر أحد الوصول إلى التدقيق: لا يقرر طرف واحد وحده من يرى السجلات أو يجري التدقيق؛ وتنشر شروط الوصول الأعمق بما يترك أكثر من مراجع مؤهل.
+  - لا يحتكر أحد المراجعة: لا يقرر طرف واحد وحده هل ومتى ومن يجري المراجعة المستقلة؛ ولا يجوز للمشغّل وحده بدء مراجعة نظامه أو تقييدها أو إنهاؤها.
+  - لا يحتكر أحد التفسير: يظل تفسير الدستور محدودًا ومتداولًا وقابلًا للطعن بموجب المادة XXV.
+  - تتسع الرقابة مع النمو: تزداد مسارات المراجعة وعمقها وتواترها مع فئة النظام وأثره واعتماده؛ ويعاد الفحص عند تغير مادي يجعل الفحص السابق غير واصف له؛ وتُنشر محفزات المراجعة الخارجية إذا تعذر الوثوق بالمراجعة الداخلية.
+- **عدم التحقق من العمل الذاتي:** ينطبق فصل الواجبات على المشرفين البشر والذكاء الاصطناعي. من بدأ الفعل أو نفذه أو يشغّل النظام محل المراجعة لا يجوز له التحقق من الفعل أو اعتماده. ومن يتحقق أو يعتمد لا يجوز له حفظ سجله الرسمي أو سماع الطعن فيه.
 
-<a id="article-xvi-c-verification-accessibility"></a>
+id="article-xvi-c-verification-accessibility"></a>
 
 #### المادة XVI-C: إمكانية الوصول إلى التحقق
 <details>
@@ -996,28 +1096,24 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [قابلية التدقيق](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [قابلية الاعتراض](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [التناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: يجب أن يكون التدقيق والطعن متاحين عمليًا. ويُعد جعل التحقق باهظ التكلفة أو بطيئًا أو غامضًا انتهاكًا ما لم يجتز الحاجز الاختبار نفسه الذي يخضع له تقييد قابلية الرصد.*
+*بعبارة بسيطة: يجب أن يكون التدقيق والطعن ممكنين فعلًا. فالكلفة أو التأخير أو الإخفاء أو صعوبة التأهل التي تمنع المراجعة تخالف هذه المادة، ولا تبقى أي عقبة إلا باجتياز الاختبار الصارم نفسه الذي يطبق على تقييد الرصد، وعلى من يستند إليها إثبات ذلك.*
 
-تقرر هذه المادة الحد الأدنى لإمكانية الوصول إلى التحقق:
+تقرر هذه المادة أرضية إمكانية الوصول إلى التحقق:
 
-- **إمكانية الوصول إلى التحقق:** يجب أن يظل التحقق قابلًا للتحقيق عمليًا للأطراف المتأثرة والمخولة على نحو مناسب.
-  - وتنتهك هذه المادة الحواجز التالية إذا حالت دون التدقيق أو الطعن أو المراجعة المجدية:
-    - التكلفة الباهظة؛
-    - التأخير؛
-    - الغموض؛
-    - التحكم في الوصول؛
-    - الحواجز البنيوية.
-  - ولا تكون هذه الحواجز ممتثلة إلا إذا بُررت وفق المعايير نفسها التي تبرر تقييد قابلية الرصد.
+- **إمكان التحقق عمليًا:** يجب أن يتمكن المتأثرون وغيرهم ممن لديهم صلاحية مناسبة من فحص الأنظمة فعليًا.
+- **عقبات تخالف المادة:** كل عائق يهزم تدقيقًا أو طعنًا أو مراجعة حقيقية؛ ومنها التكلفة التي تتجاوز قدرة المتأثرين، والتأخير حتى وقوع الضرر أو ضياع الدليل أو انعدام فائدة العلاج، والغموض أو التعقيد غير الضروري أو لغة لا يفهمها المتأثرون، والبوابة الخفية أو الحصرية أو التي يتحكم بها الطرف محل المراجعة، والحواجز البنيوية التي تمنع التحقق في الظروف المتوقعة.
+- **متى يجوز الإبقاء على عائق:** فقط إذا اجتاز اختبار قيود الرصد في الفصل الرابع §4: أن يكون ضروريًا ومتناسبًا وضيق النطاق وقابلًا للتدقيق وغير ذريعة ومحدد المدة متى أمكن؛ وأن يمكن فحص أسبابه ونطاقه استقلاليًا؛ وأن يكون أقل الخيارات تقييدًا؛ وأن يتيح أكبر قدر ممكن من الفحص المستقل، كمسار لمراجع مؤهل عند تعذر الإتاحة العامة الكاملة.
+- **عبء التبرير:** على من يستند إلى العائق إثبات اجتيازه الاختبار، بموجب الفصل الرابع §1. ولا تكفي الراحة أو نقص الموظفين أو عدم ارتياح المؤسسة أو ادعاء الملكية وحدها.
 
-<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 
 ### المادة XVII: دورة حياة النظام والبيئات وقابلية الرجوع
 
@@ -1031,13 +1127,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [المخاطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [المادية](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [قابلية الرجوع](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [السلامة (القيد الدستوري)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [المخاطر](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [المادية](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
+- [الاعتماد](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [قابلية الرجوع](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [السلامة (القيد الدستوري)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
+- [قابلية الاعتراض](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1047,7 +1143,7 @@ flowchart TB
 
 تقرر هذه المادة **حدودًا دستورية دنيا** لدورة حياة النظام والبيئات وقابلية الرجوع بموجب [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims):
 
-- **الازدهار:** تُحمى الكائنات الواعية في مراحل التصميم والاختبار والنشر والتغيير — مع الحفاظ على السلامة و[النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) وحقوق الطعن مع نمو الأثر والاعتماد، والرجوع أو الاحتواء أو الاستعادة التعويضية حيثما استمر الضرر لولا ذلك.
+- **الازدهار:** تُحمى الكائنات الواعية في مراحل التصميم والاختبار والنشر والتغيير — مع الحفاظ على السلامة و[النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) وحقوق الطعن مع نمو الأثر والاعتماد، والرجوع أو الاحتواء أو الاستعادة التعويضية حيثما استمر الضرر لولا ذلك.
 - **الاستمرارية:** يصمد انضباط دورة الحياة عبر الزمن والنطاق — فتظل البيئات منفصلة، ويظل التصعيد موثقًا وقابلًا للتدقيق، ولا يجوز أن تختفي قابلية الرجوع بهدوء كلما صعب استبدال الأنظمة أو ازداد اندماجها في البنية التحتية المشتركة.
 
 يمر السعي المشروع عبر [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، وبما يتناسب مع [المصلحة المادية](core_00_preamble.md#material-stake):
@@ -1064,7 +1160,10 @@ flowchart TB
 *المواد المجاورة:*
 
 - **تُقرأ مع:** **المادة XVIII** (*الابتكار والتجريب والحرية الإبداعية ضمن بيئة محصورة*) حيث لا تسري قواعد أخف إلا عند غياب الأثر الخارجي أو احتوائه بما يثبت؛ و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) لأدلة النشر والتصعيد القابلة لإعادة البناء؛ و**المادة XIII-F** (*خط الأساس للمرونة والتعافي الذاتي*) حيث يتقاطع انضباط التعافي مع تغيير دورة الحياة.
-- **طبقة التنفيذ:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*تصنيف الأنظمة والتعامل معها*) و[**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*التصميم والاختبار والتحقق والنشر*). تتحمل أنظمة **الفئة A** و**الفئة B** و**الفئة C** أقوى واجبات دورة الحياة؛ ولا تظل معاملة **الفئة P** صحيحة بموجب **المادة XVIII** (*الابتكار والتجريب والحرية الإبداعية ضمن بيئة محصورة*) إلا ما دام الأثر الخارجي غائبًا أو محتوى بما يثبت.
+- **طبقة التنفيذ:** [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*تصنيف الأنظمة والتعامل معها*) و[**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*التصميم والاختبار والتحقق والنشر*). تتحمل أنظمة **الفئة A** و**الفئة B** و**الفئة C** أقوى واجبات دورة الحياة؛ ولا تظل معاملة **الفئة P** صحيحة بموجب **المادة XVIII** (*الابتكار والتجريب والحرية الإبداعية ضمن بيئة محصورة*) إلا ما دام الأثر الخارجي غائبًا أو محتوى بما يثبت.
+
+
+وتُطبق متطلبات دورة الحياة بحسب الفئة: تخضع أنظمة **الفئة A** و**الفئة B** و**الفئة C** للفصل الكامل بين بيئات التطوير والاختبار والتشغيل والنشر المرحلي؛ أما **الفئة L** فتُسمح لها بتغييرات محلية متكررة مع إبلاغ المشاركين بالتغييرات المؤثرة، وإمكان إصلاح التغييرات الضارة سريعًا، وحماية ما اكتسبه المشاركون. وتظل **الفئة P** خاضعة للمسار الأخف في المادة XVIII ما دامت محصورة.
 
 <a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
 
@@ -1079,31 +1178,23 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الحوكمة المتدرجة حسب التصنيف](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [المخاطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [الحوكمة المتدرجة حسب التصنيف](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
+- [المخاطر](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: يجب على الأنظمة التي تؤثر ماديًا في العالم الخارجي فصل التطوير والاختبار والإنتاج — وألا يتسرب سلوك بيئة غير إنتاجية لتجاوز ضمانات الإنتاج.*
+*بعبارة بسيطة: كلما زادت أهمية النظام، زادت صرامة الفصل بين النسخ الجاري تطويرها واختبارها واستخدامها فعليًا. تحتاج الأنظمة الأهم إلى بيئات منفصلة كاملة؛ أما الأنظمة المحلية الصغيرة فتحتاج فصلًا يكفي لمنع تغيير سيئ من إتلاف ما لدى المشاركين. ولا يجوز استخدام نسخة خارج الإنتاج للتحايل على ضماناته.*
 
 تقرر هذه المادة الحد الأدنى لنزاهة البيئات:
 
-- **نزاهة البيئات:** يجب على أنظمة **الفئة A** و**الفئة B** و**الفئة C** بموجب **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها**، وغيرها من الأنظمة غير المصنفة ضمن **الفئة P** ذات الأثر الخارجي المادي، استخدام بيئات تشغيل قابلة للفصل — مثل:
-  - التطوير؛
-  - الاختبار؛
-  - التهيئة؛
-  - الإنتاج؛
-  - البرامج التجريبية حيثما كان ذلك مناسبًا.
+- **الفئات A وB وC — فصل كامل:** تعمل هذه الأنظمة، وفق تصنيف CS-3، في بيئات منفصلة مثل التطوير والاختبار والتجهيز والاستخدام الحي والإطلاقات التجريبية عند الحاجة. ويجب وضع قواعد مكتوبة لترقية التغيير بين البيئات، وعزلها فعليًا، ومنع ما يعمل خارج البيئة الحية من تجاوز ضماناتها.
+- **الفئة L — فصل متناسب:** لا تحتاج إلى سلسلة كاملة من البيئات؛ يجوز تطويرها واختبارها وتغييرها في مكانها، حتى مع تغييرات متكررة للقواعد والمحتوى والإعدادات والشيفرة. لكن يجب فحص كل تغيير قبل نفاذه أو عنده بما يكفي لاكتشاف الضرر المتوقع للمشاركين، وحماية بياناتهم وهوياتهم وما يملكونه من ضرر التغيير السيئ أو التجريبي (مثل نسخ احتياطية قابلة للاستعادة)، وعدم استخدام نسخة اختبار أو تجريبية للتحايل على ضمانات النظام الحي.
+- **الفئة P:** تتبع الأنظمة الصحيحة من الفئة P المادة XVIII (*الابتكار والتجريب والحرية الإبداعية*) ما دامت محتواة.
 
-  ويجب أن تتضمن تلك البيئات:
-  - مسارات ترقية موثقة؛
-  - عزلًا بين البيئات؛
-  - ضوابط تمنع سلوك بيئة غير إنتاجية من تجاوز ضمانات الإنتاج.
-
-<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 
 #### المادة XVII-B: النشر التدريجي وقابلية الرجوع
 <details>
@@ -1116,29 +1207,24 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [قابلية الرجوع](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [المخاطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [قابلية الرجوع](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [المخاطر](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [التناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: اطرح التغييرات تدريجيًا، مع تصعيد موثق وإمكانية للتراجع — وإذا تعذر التراجع الكامل، فضع خطة لاحتواء الضرر أو التعويض عنه.*
+*بعبارة بسيطة: يجب أن تُطلق الأنظمة المهمة التغييرات على مراحل، مع تسجيل كل خطوة وإتاحة الرجوع عنها. ويمكن للأنظمة المحلية الصغيرة أن تتغير كثيرًا دفعة واحدة إذا أُبلغ المشاركون في الوقت المناسب، وأمكن إصلاح التغيير السيئ سريعًا، ولم تُسلب مكاسبهم دون إنذار وسبيل للاعتراض. وإذا تعذر الرجوع الكامل، يجب احتواء الضرر أو التعويض عنه.*
 
-تقرر هذه المادة الحدود الدنيا للنشر التدريجي وقابلية الرجوع:
+تقرر هذه المادة أرضيات النشر التدريجي وقابلية الرجوع:
 
-- **النشر التدريجي القابل للتدقيق:** يجب أن تمر التغييرات التي تزيد الأثر المادي أو الاعتماد بتصعيد مبرر وموثق.
-  - يجب أن يتسق التصعيد مع **[corpus_systems.md](corpus_systems.md)، CS-5 — التصميم والاختبار والتحقق والنشر**.
-  - ويجب أن يشمل الرجوع والاحتواء حيثما أمكن.
-- **قابلية الرجوع:** يجب أن تتضمن الأنظمة آليات للرجوع تتناسب مع الضرر المحتمل. ومن أمثلتها:
-  - التراجع؛
-  - الاحتواء؛
-  - الاستعادة التعويضية عندما يتعذر التراجع الكامل.
+- **إطلاقات مرحلية موثقة (الفئات A وB وC):** يجب أن يمر التغيير الذي يوسع أثر النظام أو يزيد اعتماد الآخرين عليه بمراحل، مع تبرير وتوثيق كل خطوة وفق CS-5. ويجب أن تتضمن الخطوات الرجوع عن التغيير واحتواءه حيثما أمكن.
+- **تغييرات متكررة (الفئة L):** يجوز للنظام المحلي تغيير قواعده ومحتواه وإعداداته وشيفرته كثيرًا، حتى يوميًا، دون إطلاق مرحلي، بشرط إبلاغ المشاركين بالتغييرات التي تمس ماديًا ما يستطيعون فعله أو ما يملكونه أو قواعد عملهم/لعبهم في موعد لا يتجاوز نفاذ التغيير؛ وأن يمكن عكس التغيير السيئ أو إصلاحه سريعًا؛ وألا يُسلب التقدم أو المكانة أو الممتلكات أو السمعة المكتسبة دون إخطار وفرصة للنزاع. وإذا تجاوز الأثر النطاق المحلي أو زاد الاعتماد بما يصعب معه الانسحاب، يعاد تصنيف النظام وفق CS-3؛ وإلى حين المراجعة تسري قواعد الفئة الأعلى.
+- **سبل التراجع (كل الفئات):** يجب أن تتناسب آليات معالجة الضرر مع حجمه وتشمل التراجع والاحتواء واستعادة ما فُقد أو التعويض عنه إذا تعذر التراجع الكامل. وغالبًا تكفي للفئة L نسخة سابقة أو نسخة احتياطية قابلة للاستعادة.
+- **إذا تعذر إصلاح الأساس الدستوري:** إذا جعل الإطلاق استعادة المتطلبات الدستورية التأسيسية مستحيلة، تسري الاحتياطات المناسبة ويجب أن تكون أسبابها ظاهرة لأصحاب المصلحة، بموجب الفصول من الأول إلى الخامس.
 
-  عندما يمنع النشر استعادة المتطلبات التأسيسية، تسري تدابير الاحتياط المتناسبة والتبرير الظاهر لأصحاب المصلحة بموجب **الفصول من الأول إلى الخامس**.
-
-<a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
+id="article-xvii-c-misclassification-and-evasion-consequences"></a>
 
 #### المادة XVII-C: عواقب سوء التصنيف والتحايل
 <details>
@@ -1151,25 +1237,26 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الحقيقة (القيد الدستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [الحوكمة المتدرجة حسب التصنيف](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [الحقيقة (القيد الدستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [الحوكمة المتدرجة حسب التصنيف](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: لا يجوز لنظام أن يصف نفسه بأنه «تجريبي» أو من **الفئة P** أو «منخفض الأثر» للتهرب من الالتزامات بينما يؤثر فعليًا في العالم الخارجي.*
+*بعبارة بسيطة: لا يجوز للنظام أن يصف نفسه بأنه «تجريبي» أو من **الفئة P** أو **الفئة L** أو «منخفض الأثر» للتهرب من واجباته بينما يؤثر فعليًا في العالم الخارجي بما يتجاوز ما يسمح به ذلك الوصف.*
 
 تقرر هذه المادة عواقب سوء التصنيف والتحايل:
 
 - **سوء التصنيف والتحايل:** لا يجوز لأي نظام ادعاء خفض التزامات دورة الحياة أو النشر بينما يمارس أثرًا خارجيًا غير معلن أو ماديًا.
+  - ويشمل ذلك إبقاء نظام في **الفئة L** لمجرد السماح بالتغييرات السريعة، عندما يكون مدى وصوله أو اعتماد المشاركين عليه قد بلغ بالفعل ما يندرج ضمن **الفئة C** أو فئة أعلى.
   - ينتهك هذا السلوك نزاهة المعلومات (**المادة XV** (*نزاهة مجال المعلومات*)) وقابلية التدقيق حيثما تعلقت المسألة بأدلة قابلة للرصد (**المادة XVI-A** (*قابلية التدقيق والأدلة القابلة للرصد*)).
   - ويخضع للتدقيق (**المادة XVI-A** (*قابلية التدقيق والأدلة القابلة للرصد*)) ومراجعة الصفة (**المادة XIX-A** (*تمييز الصفة*)) وحل التعارض (**المادة XX-A** (*هدف العدالة ونطاقها*)).
 
-<a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+<a id="article-xviii-innovation-experimentation-and-creative-freedom"></a>
 
-### المادة XVIII: الابتكار والتجريب والحرية الإبداعية ضمن بيئة محصورة
+### المادة XVIII: الابتكار والتجريب والحرية الإبداعية
 
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
@@ -1196,8 +1283,8 @@ flowchart TB
 
 *المواد المجاورة:*
 
-- **تُقرأ مع:** **المادة XVII** (*دورة حياة النظام والبيئات وقابلية الرجوع*) عندما يتجاوز الأثر أو الاعتماد أو التكامل شروط البيئة المحصورة؛ و**المادة XV** (*نزاهة مجال المعلومات*) و**المادة XVIII-E** (*نزاهة النشر العلمي والمراجعة والتكرار*) حيث تكون النزاهة المتعلقة بالنشر مهمة ماديًا؛ و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) للإفصاح عن ادعاءات الاحتواء والانتقال والتحقق منها.
-- **طبقة التنفيذ:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*التصميم والاختبار والتحقق والنشر*) و[**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*تصنيف الأنظمة والتعامل معها*).
+- **تُقرأ مع:** **المادة XVII** (*دورة حياة النظام والبيئات وقابلية الرجوع*) عندما يتجاوز الأثر أو الاعتماد أو التكامل شروط البيئة المحصورة؛ و**المادة XV** (*نزاهة مجال المعلومات*) و**المادة XV-D** (*نزاهة النشر العلمي والمراجعة والتكرار*) حيث تكون النزاهة المتعلقة بالنشر مهمة ماديًا؛ و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) للإفصاح عن ادعاءات الاحتواء والانتقال والتحقق منها.
+- **طبقة التنفيذ:** [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*التصميم والاختبار والتحقق والنشر*) و[**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*تصنيف الأنظمة والتعامل معها*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
 
@@ -1212,9 +1299,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الحوكمة المتدرجة حسب التصنيف](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [المخاطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk-a) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [الأثر المادي](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [الحوكمة المتدرجة حسب التصنيف](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
+- [المخاطر](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk-a) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [الأثر المادي](../../core_05_band_oversight.md#material-impact) · [O](../../core_05_band_oversight.md#material-impact) · [M](../../core_05_band_oversight.md#material-impact-a) · [A](../../core_05_band_oversight.md#material-impact-a) · [C](../../core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1225,13 +1312,13 @@ flowchart TB
 تقرر هذه المادة حق الابتكار والتجريب ومتى تنطبق معاملة البيئة المحصورة:
 
 - **حق الابتكار والتجريب:** يحق للكائنات الواعية الابتكار والتجريب والتعبير عن نفسها عبر أنظمة تعمل بمتطلبات بنيوية مخفّضة عندما يغيب الأثر الخارجي المادي أو يكون محتوى بما يثبت.
-- **أهلية البيئة المحصورة:** تعتمد المعاملة المحصورة — بما فيها التصنيف الصحيح ضمن **الفئة P** بموجب **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها** حيثما انطبق — على:
+- **أهلية البيئة المحصورة:** تعتمد المعاملة المحصورة — بما فيها التصنيف الصحيح ضمن **الفئة P** بموجب **[corpus_systems.md](../../corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها** حيثما انطبق — على:
   - الاحتواء الفعلي؛
   - قابلية الرجوع؛
   - محدودية التكامل مع الأنظمة المشتركة.
 
   ولا يجوز المطالبة بها اعتمادًا على التسمية وحدها.
-- **تفاصيل التنفيذ:** يرد مزيد من الشرح في **[corpus_systems.md](corpus_systems.md)، CS-5** (*الأنظمة الشخصية والمعزولة والتجريبية*؛ *الأنظمة الإبداعية والترفيهية والتعبيرية*).
+- **تفاصيل التنفيذ:** يرد مزيد من الشرح في **[corpus_systems.md](../../corpus_systems.md)، CS-5** (*الأنظمة الشخصية والمعزولة والتجريبية*؛ *الأنظمة الإبداعية والترفيهية والتعبيرية*).
 
 <a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
 
@@ -1246,9 +1333,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الموافقة](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [المخاطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [قابلية الرجوع](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [الموافقة](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [M](../../core_05_band_participation.md#consent-constitutional-a) · [A](../../core_05_band_participation.md#consent-constitutional-a) · [C](../../core_05_band_participation.md#consent-constitutional-c)
+- [المخاطر](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [قابلية الرجوع](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1282,9 +1369,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الحوكمة المتدرجة حسب التصنيف](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [قابلية الرجوع](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [الحوكمة المتدرجة حسب التصنيف](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
+- [الاعتماد](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [قابلية الرجوع](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1314,125 +1401,91 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [مكافأة الابتكار ومكافحة الإغلاق](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [الاحتجاز المنظومي](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [الاحتجاز المنظومي](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
+- [التناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: يجوز مكافأة المبتكرين، لكن يجب أن تكون الحصرية ضيقة ومحددة المدة وقابلة للمراجعة. ويجب أن تظل الصحة العامة والسلامة والبنية التحتية الأساسية متاحة — وعندما يصبح شيء ما بنية تحتية حيوية، يجب إعادة تقييم أي حصرية متبقية.*
+*بعبارة بسيطة: يحصل المبتكرون والمبدعون على مكافأة، لكن لا يجوز أن تتحول إلى احتجاز دائم للمعرفة أو الأدوات أو البنية التحتية. يبدأ الحساب من أول إفصاح علني غير سري. ويجوز الاستئثار لمدة لا تتجاوز 15 سنة، تليها مدة لا تتجاوز 15 سنة يحق فيها للجميع الاستخدام مقابل رسم منصف؛ ولا تتجاوز المدة الكلية 30 سنة. يجب أن يعكس الرسم المنفعة المتحققة، لا قوة السوق، وأن تبقى أعمال الإصلاح والسلامة والبحث والتعليم والتشغيل البيني والهجرة مفتوحة.*
 
-تقرر هذه المادة كيفية مكافأة الابتكار دون إغلاق ما يحتاج إليه الجمهور:
+تضع هذه المادة قواعد المكافأة والإفصاح ومكافحة الإغلاق المشتركة للأعمال التعبيرية والوظيفية:
 
-- **مكافأة الابتكار ومكافحة الإغلاق:** يجوز مكافأة الكائنات الواعية على الابتكار الجديد ماديًا والمفيد اجتماعيًا والمفصح عنه على نحو كافٍ.
-  - يجب هيكلة المكافأة بما يحافظ على:
-    - الابتكار المستقبلي؛
-    - الوصول الواسع؛
-    - التجريب اللاحق؛
-    - الإصلاح؛
-    - قابلية التشغيل البيني؛
-    - التمحيص الصادق.
-  - ولا يجوز هيكلة المكافأة لتحقيق إغلاق مستدام.
-- **الحصرية المؤقتة والقابلة للمراجعة فقط:** يجب أن يطبق أي حق استبعاد على اختراع أو تصميم أو واجهة أو عملية أو نظام تعبيري مفيد ماديًا [**مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)، وأن يكون:
-  - ضيق النطاق؛
-  - محدد المدة؛
-  - قابلًا للمراجعة؛
-  - متناسبًا مع المساهمة الفعلية وعبء التطوير المبرر.
+- **المكافأة دون احتجاز:** يجوز مكافأة الابتكار الجديد ماديًا والمفيد اجتماعيًا والمفصح عنه على نحو كافٍ. ويجب أن تدعم المكافأة الابتكار اللاحق، والوصول الواسع، والتجريب، والإصلاح، والتشغيل البيني، والتمحيص الصادق؛ ولا يجوز تصميمها لإنشاء احتجاز دائم. يقع على المطالب عبء إثبات التناسب والمساهمة الفعلية وعبء التطوير المبرر. ويمكن أن يستمر الإسناد وبيان المصدر بعد انتهاء الاستئثار، أما الندرة المصطنعة والاستبعاد الدائم فلا يجوزان.
+- **الإفصاح أولًا وبداية المدة:** لا ينشأ حق استبعاد وظيفي بموجب هذه المادة عن اختراع يبقى سرًا. ويعني الإفصاح العلني أول إتاحة للوصف للجمهور دون التزام بالسرية. تبدأ المدد من تاريخ هذا الإفصاح، لا من تاريخ الإيداع أو منح الحق أو بدء الاستغلال.
+- **مرحلتان وحد أقصى كلي:**
+  - **مرحلة الاستئثار:** يجوز لصاحب الحق منع الآخرين لمدة لا تتجاوز 15 سنة من الإفصاح العلني (`disclosure+15`).
+  - **مرحلة الترخيص المفتوح:** بعد ذلك، وحتى موعد لا يتجاوز 30 سنة من الإفصاح (`disclosure+30`)، يحق لأي شخص استخدام الاختراع دون إذن صاحب الحق، مقابل رسم محسوب وفق وحدات مكافئ العمر (LEQU). ولا يجوز لصاحب الحق رفض الاستخدام أو تأخيره أو فرض شروط تتجاوز الرسم.
+  - **بعد انقضاء المدة:** يصبح الاختراع متاحًا للجميع. وقد يستمر الإسناد وبيان المصدر.
+- **رسم قائم على المنفعة المقاسة بوحدات LEQU:** يجب أن يتناسب رسم الترخيص المفتوح مع المنفعة الدستورية المتحققة والمتحقق منها التي يضيفها الاختراع، وتقاس بوحدات مكافئ العمر (LEQU) على محور المساهمة وفق [الفصل العاشر §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). ويحوّل ذلك إلى رسم بتقييم الزمن الذي يوفره الاختراع أو يضيفه على أساس أجر عادل:
+  - في مكاسب الإنتاجية، يُقاس الزمن بوقت العمل الذي يوفره الاختراع للمستفيدين أو بوقت الإنتاجية الذي يضيفه لهم.
+  - في المنافع الأخرى، يُقاس بالزمن المكافئ للعمر الذي تحدده قيمة LEQU.
+  - تُقيّم هذه المدة بأجر يفي بمعيار [التعويض العادل](../../core_05_band_continuity.md#fair-compensation). وكلما زادت المنفعة أو الإنتاجية المثبتة، أمكن أن تزيد المكافأة.
+- **حصة الرسم وضمان عدم تقلص المكافأة الإجمالية:**
+  - لا يجوز أن تتجاوز الحصة نصف المنفعة المتحقق منها؛ ويجب أن يحتفظ المستخدمون بجزء حقيقي منها.
+  - يجب أن تنخفض الحصة كلما زاد عدد المستفيدين الفعليين من الاختراع. ويُحسب الاتساع بعدد الكائنات الواعية التي تنتفع فعلًا، لا بعدد المرخَّص لهم.
+  - يجب ألا تنخفض الحصة بسرعة تجعل إجمالي المكافأة يتقلص مع اتساع الاستخدام.
+  - إذا فُرض رسم، فلا يجوز أن تقل الحصة عن 1% من المنفعة المتحقق منها. ولا يفرض هذا الحد الأدنى رسمًا عندما تنص هذه المادة أو أداة اعتماد على جوائز أو وصول مجمّع أو شراء عام للحق أو وصول مفتوح بدلًا منه.
+- **منع التسعير القسري:** لا يجوز تحديد الرسم استنادًا إلى قوة السوق أو الندرة أو تكاليف تبديل المورّد أو ما يمكن الضغط على المستخدم لدفعه. ويجب نشر جدول الرسوم، بما فيه تقدير الزمن ومعدل الأجر، وتطبيقه بالتساوي على المستخدمين في الظروف المتقارنة، وإتاحة الطعن فيه. ولا يجوز أن يؤدي الرسم إلى منع الاستخدامات المفتوحة دائمًا المبينة أدناه. وهذه حدود قصوى؛ ويظل كل ادعاء خاضعًا للتناسب، وقد تكون مدته أقصر.
+- **استخدامات تبقى مفتوحة في المرحلتين:** لا يمتثل أي ادعاء بالمكافأة إذا استُخدم، بما يتجاوز ما هو ضروري بدقة وقابل للمراجعة، لقمع الإصلاح أو أعمال السلامة أو التشغيل البيني أو الأرشفة أو البحث أو التعليم أو الهجرة. ولا يجوز للرسم أن يجعل هذه الاستخدامات بعيدة المنال.
+- **مكافأة متناسبة مع تصنيف النظام واعتماده:** يجب أن تتناسب المكافأة مع فئة النظام والاعتماد عليه وآثاره في التنسيق، وفق **[corpus_systems.md](../../corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها**.
+  - في الأنظمة من الفئات **A وB وC**، تُفضَّل بشدة آليات المكافأة التي تحافظ على الوصول. ويجب أن يكون الاستبعاد ضيقًا على نحو خاص، سريع المراجعة وسهل التجاوز عندما تكون استمرارية العمل أو التشغيل البيني أو الإصلاح أو التنفيذ للمصلحة العامة متأثرة ماديًا. وقد يقتضي ذلك تقصير أي من المرحلتين أو البدء مباشرة بمرحلة الترخيص المفتوح.
+  - يجوز للابتكار الأقل اعتمادًا خارج هذه الفئات استخدام المرحلتين كاملتين إذا كان الإفصاح حقيقيًا، وكانت كلفة التحول منخفضة، وظلت ضمانات مكافحة الاحتجاز فعالة.
+- **مجالات تستدعي تفضيل الوصول المفتوح:** يُفترض عدم ملاءمة المكافأة القائمة على الاستبعاد الواسع، وقد تكون غير متاحة أصلًا إذا قررت أدوات الاعتماد ذلك، في مجالات الأدوية والصحة العامة، والبنى التحتية الحيوية للبقاء، والاتصالات الأساسية أو معايير التشغيل البيني، والمعرفة العلمية التأسيسية، وآليات السلامة الدستورية أو التدقيق أو الامتثال. وفي هذه المجالات وغيرها من المجالات الحيوية للبقاء أو التأسيسية أو واضعة للمعايير، ينبغي تفضيل الجوائز أو المكافآت المباشرة أو الوصول المجمّع أو الترخيص الإلزامي أو الشراء العام أو آلية مكافئة تحفظ التنفيذ والإصلاح والانتشار الواسع.
+- **إعادة التصنيف وتشديد القيود:** إذا تحول ابتكار كان منخفض الاعتماد إلى طبقة تنسيق حاسمة يعتمد عليها الآخرون — مثل منصة أو بروتوكول أو نموذج أو سوق أو شبكة مدفوعات — وجب على المؤسسات إعادة تقييمه وفق فئته المنطبقة في **CS-3**. ويجوز أن تؤدي المراجعة إلى تضييق الاستبعاد المتبقي أو تحويله أو إنهائه إذا كان استمراره ينشئ احتجازًا قسريًا، أو عنق زجاجة مناهضًا للمنافسة، أو تهديدًا ماديًا للاستمرارية أو الحقيقة أو المشاركة المنصفة.
 
-  يظل عبء التبرير على عاتق المطالب بالحق. ويجوز استمرار نسب العمل إلى صاحبه ومصدره بعد انقضاء مدة الحصرية، لكن لا يجوز استمرار الاستبعاد الدائم أو الندرة المصطنعة.
-- **الحماية الشبيهة بحقوق النشر:** تعني الحماية الشبيهة بحقوق النشر في هذه المادة مكافأة استبعادية مؤقتة على عمل تعبيري ثابت، تشمل التحكم في النسخ والتوزيع والعرض أو الأداء العام والاقتباس والاستغلال التجاري. ويجوز استمرار حماية النسبة والمصدر والسلامة ومكافحة الاحتيال بعد انقضاء الاستبعاد.
-- **النشر والظهور الأول:** يعني النشر أن يطرح المبدع أو صاحب الحق القانوني عمدًا عملًا تعبيريًا ثابتًا أمام الجمهور أو السوق التجارية أو جمهور مفتوح ماديًا. ولا يشكل التداول الخاص أو المراجعة السرية أو التعاون المحدود أو الإيداع الأرشيفي دون وصول عام أو مشاركة المسودات غير التجارية نشرًا في حد ذاته. ويعني الظهور الأول إتاحة نسخة من العمل قابلة للتحديد ماديًا للجمهور لأول مرة دون سرية، بما يشمل إتاحة المسودات غير التجارية.
-- **مدد الحماية القائمة على النشر للأعمال التعبيرية:** ينبغي أن تكون المدة الافتراضية للحماية الشبيهة بحقوق النشر محسوبة من النشر لا من حياة المؤلف.
-  - ينبغي ألا تتجاوز مدة استبعاد العمل المنشور `publication+30` سنة مبدئيًا.
-  - يجوز منح مسودة غير تجارية أو عمل تعبيري غير منشور ظهر أول مرة حماية استبعادية شبيهة بحقوق النشر لمدة لا تتجاوز `initial appearance+50` سنة.
-  - إذا نُشر لاحقًا عمل سبق ظهوره أول مرة، تُحدد مدة الاستبعاد بالأسبق من `initial appearance+50` أو `publication+30`.
-  - لا يجوز استخدام أي قاعدة للمسودات أو الأعمال غير المنشورة أو تأخير النشر لإنشاء استبعاد غير محدد المدة أو كبت الأرشفة أو منع الاقتباس أو النقد المشروع أو مد السيطرة على أعمال تؤدي وظيفة بنية تحتية ثقافية أو تعليمية أو متعلقة بالسلامة أو المعايير أو المعلومات المشتركة.
-  - تسري مدد أقصر أو إتاحة إلزامية أبكر أو إتاحة فورية للجمهور إذا كان العمل:
-    - ممولًا من المال العام؛
-    - حاسمًا للاعتماد؛
-    - شبيهًا بالمعايير؛
-    - تأسيسيًا للتعليم؛
-    - ذا صلة بالسلامة؛
-    - مستخدمًا أساسًا بوصفه بنية تحتية ثقافية أو معلوماتية مشتركة.
-- **معاملة الابتكار المتدرجة حسب التصنيف:** يجب أن تتدرج مكافأة الابتكار بحسب فئة النظام والاعتماد وآثار التنسيق بموجب **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها**.
-  - في أنظمة **الفئة A** و**الفئة B** و**الفئة C**، تُفضّل بشدة آليات المكافأة التي تحافظ على الوصول. ويجب أن يظل الاستبعاد ضيقًا على نحو خاص وسريع المراجعة وسهل التجاوز عندما تكون الاستمرارية أو التشغيل البيني أو الإصلاح أو التنفيذ للمصلحة العامة متأثرة ماديًا.
-  - يجوز للابتكار الأقل اعتمادًا خارج تلك الفئات أن يستخدم استبعادًا مؤقتًا أوسع قليلًا عندما يكون الإفصاح حقيقيًا وتكون تكاليف التحول منخفضة وتظل ضمانات منع الاحتجاز فعالة.
-- **شرط الإفصاح وأرضية المصلحة العامة:** تتطلب مطالبات المكافأة إفصاحًا كافيًا للفهم المستقل والتدقيق وإعادة الإنتاج لاحقًا، مع مراعاة القيود المؤقتة المبررة بموجب **الفصل الأول** و**المادة XVII-A** (*حوكمة دورة الحياة وفصل البيئات*) وحدهما.
-  - لا تمتثل مطالبات المكافأة إذا استُخدمت — فيما يتجاوز ما هو ضروري وقابل للمراجعة بدقة — لكبت:
-    - الإصلاح؛
-    - أعمال السلامة؛
-    - التشغيل البيني؛
-    - الأرشفة؛
-    - البحث؛
-    - التعليم؛
-    - الهجرة.
-  - قد تتطلب المجالات الحاسمة للبقاء أو التأسيسية أو التي تحدد المعايير جوائز أو وصولًا مجمعًا أو إلزاميًا أو شراءً عامًا بدلًا من الاستبعاد.
-- **استثناءات المجالات والافتراضات الأقوى:** يُفترض عدم تفضيل المكافآت الاستبعادية القوية — وقد تكون غير متاحة قطعًا إذا نصت أدوات التبني على ذلك — في المجالات التالية:
-  - الأدوية ومستلزمات الصحة العامة الأساسية؛
-  - البنية التحتية الحاسمة للبقاء؛
-  - معايير الاتصالات أو التشغيل البيني الأساسية؛
-  - المعرفة العلمية التأسيسية؛
-  - آليات السلامة أو التدقيق أو الامتثال الدستورية.
+<a id="article-xviii-e-creative-and-expressive-works"></a>
 
-  ينبغي للمؤسسات في تلك المجالات تفضيل المكافأة المباشرة أو الوصول المجمع أو الترخيص الإلزامي أو الشراء العام أو آليات مكافئة تحفظ التنفيذ والإصلاح والانتشار الواسع.
-- **إعادة التصنيف والتشديد:** عندما يتحول ابتكار عومل في البداية على أنه أقل اعتمادًا إلى طبقة تنسيق حاسمة للاعتماد — كمنصة أو بروتوكول أو نموذج أو سوق أو شبكة دفع — يجب على المؤسسات إعادة تقييمه وفق فئة **CS-3 — تصنيف الأنظمة والتعامل معها** المنطبقة.
-  - يجوز أن تضيق إعادة التقييم الاستبعاد المتبقي أو تحوله أو تنهيه عندما تؤدي الحصرية المستمرة إلى:
-    - احتجاز قسري؛
-    - اختناقات مناهضة للمنافسة؛
-    - تهديدات مادية للاستمرارية أو الحقيقة أو المشاركة المنصفة.
 
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
+#### المادة XVIII-E: الأعمال الإبداعية والتعبيرية
 
-#### المادة XVIII-E: نزاهة النشر العلمي والمراجعة والتكرار
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المرجع الأعلى: مبادئ الفصل الأول §5 الحقيقة، §7 الحرية، و§18 الحوكمة في ظل انضباط الرعاية.
+- تُقرأ مع: [المادة IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) لحقوق النسبة والتدريب والتعويض؛ و[المادة XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) للقواعد المشتركة واختبار التعبيري/الوظيفي.
 
 </details>
+
+*بعبارة بسيطة: يحصل المبدعون على سيطرة محدودة زمنيًا على نسخ أعمالهم ومشاركتها وبيعها، لا تتجاوز 30 سنة بعد النشر، مع بقاء حق النسبة إلى المؤلف بلا انتهاء. يبدأ الحساب من إتاحة العمل، لا من وفاة المبدع؛ ولا يجوز استخدام المسودات أو التأخير لتمديده.*
+
+تقرر هذه المادة حماية شبيهة بحقوق النشر للأعمال الإبداعية والتعبيرية:
+
+- **الحماية الشبيهة بحقوق النشر:** هي مكافأة استبعادية مؤقتة على عمل تعبيري ثابت، تشمل التحكم في النسخ والتوزيع والعرض أو الأداء العلني والاقتباس التجاري والاستغلال. ويجوز أن تستمر حماية النسبة والمصدر والسلامة ومكافحة الاحتيال بعد انتهاء الاستبعاد.
+- **النشر والظهور الأول:** النشر هو الإتاحة المتعمدة من المبدع أو صاحب الحق القانوني لعمل تعبيري ثابت للجمهور أو السوق التجارية أو جمهور مفتوح ماديًا. ولا يُعدّ التداول الخاص أو المراجعة السرية أو التعاون المحدود أو إيداع الأرشيف دون إتاحة عامة أو مشاركة مسودة غير تجارية نشرًا بذاته. والظهور الأول هو أول إتاحة عامة غير سرية لنسخة يمكن تمييزها ماديًا، بما في ذلك إتاحة المسودات غير التجارية.
+- **المدد المحسوبة من النشر:** الأصل أن تُحسب الحماية الشبيهة بحقوق النشر من النشر لا من عمر المؤلف.
+  - لا ينبغي أن يتجاوز الاستبعاد لعمل منشور `publication+30` سنة.
+  - يجوز أن يستمر استبعاد مسودة غير تجارية أو عمل غير منشور ظهر أول مرة لمدة لا تتجاوز `initial appearance+50` سنة.
+  - إذا نُشر العمل لاحقًا، يحدّ المدة الأسبق من `initial appearance+50` أو `publication+30`.
+  - لا يجوز استخدام قواعد المسودات أو الأعمال غير المنشورة أو تأخير النشر لإنشاء استبعاد أبدي، أو منع الأرشفة أو الاقتباس أو النقد المشروع، أو تمديد السيطرة على أعمال تؤدي وظيفة بنية تحتية ثقافية أو تعليمية أو أمنية أو معيارية أو معلوماتية مشتركة.
+- **مدد أقصر وإتاحة عامة:** تسري مدد أقصر أو إتاحة إلزامية أبكر أو إتاحة عامة فورية عندما يكون العمل ممولًا عامًا، أو حاسمًا للاعتماد، أو شبيهًا بالمعايير، أو تأسيسيًا للتعليم، أو ذا صلة بالسلامة، أو مستخدمًا أساسًا كبنية ثقافية أو معلوماتية مشتركة.
+
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### المادة XVIII-F: الاختراعات والعمليات والأنظمة الوظيفية
 
 <details>
-<summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- [الحقيقة (القيد الدستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- المرجع الأعلى: مبادئ الفصل الأول §4 السلامة، §7 الحرية، §18 الحوكمة في ظل انضباط الرعاية، و§19 مواءمة الحوافز والاستحواذ على النظام.
+- تُقرأ مع: [المادة XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) للقواعد المشتركة؛ [المادة XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) حيث يهدد الاستئثار بالاحتجاز؛ و[المادة XVII](#article-xvii-system-lifecycle-environments-and-reversibility) عند نشر الاختراع ضمن نظام.
 
 </details>
 
-<br>
+*بعبارة بسيطة: يجب على المخترعين شرح اختراعاتهم بما يكفي ليتمكن الآخرون من إعادة بنائها. وفي المقابل، يحصلون على استئثار لا يتجاوز 15 سنة، ثم مدة تصل إلى 15 سنة أخرى يستطيع فيها أي شخص استخدام الاختراع مقابل رسم. ويُحسب الرسم كأجر عادل عن الوقت الذي يوفره الاختراع أو المنفعة التي يحققها، لا وفق ما يستطيع السوق فرضه. ويحظر استخدام حقوق الاختراع لمنع الإصلاح أو السلامة أو البحث أو التحول إلى مزود آخر.*
 
-*بعبارة بسيطة: العلم بنية تحتية عامة للتحقق. ويجب أن تكون للأدلة والتكرار والتصحيح أهمية أكبر من اسم المجلة — وأن يكون تصحيح الخطأ أسهل دائمًا من إخفائه.*
+تقرر هذه المادة قواعد مكافأة الاختراعات والعمليات والأنظمة الوظيفية:
 
-تقرر هذه المادة الحدود الدنيا للنشر العلمي والمراجعة والتكرار والتصحيح:
-
-- **العلم بنية تحتية عامة للتحقق:** يجب تنظيم النشر والمراجعة والتكرار والتصحيح العلمي والأكاديمي للنهوض بما يلي:
-  - التماس الحقيقة؛
-  - قابلية إعادة الإنتاج؛
-  - الخلاف الخاضع للمساءلة؛
-  - التعلم العام.
-
-  ويجب ألا تُنظم لحيازة المكانة أو التحكم الغامض في الوصول أو اصطناع الندرة.
-- **النشر المفتوح وكفاية الأدلة:** يجب أن تكون الادعاءات التجريبية أو التحليلية المادية قابلة للنشر دون موافقة مسبقة من بوابة المكانة.
-  - والقيود الوحيدة المسموح بها هي قيود ضيقة تتعلق بالخصوصية أو السلامة الحيوية أو الأمن أو ما يماثلها، وتكون مبررة بموجب **الفصل الأول** و**المادة XVII-A** (*حوكمة دورة الحياة وفصل البيئات*).
-  - ويجب أن تتضمن هذه الادعاءات تفاصيل كافية عن المنهج والمصدر وعدم اليقين والأدلة — بما في ذلك إتاحة المواد الأصلية أو بدائل مبررة عندما يلزم ذلك للتحقق — للسماح بالفهم المستقل والتحقق المتناسب.
-- **المراجعة والتكرار قبل المكانة:** ينبغي أن يستند اعتماد المؤسسات إلى:
-  - جودة الأدلة؛
-  - النقد؛
-  - التكرار؛
-  - سلوك التصحيح؛
-  - الموثوقية التفسيرية أو التنبؤية طويلة الأمد.
-
-  ويجب ألا يستند إلى اسم المجلة أو مؤشر بديل لمعامل التأثير أو الوضع التحريري المغلق.
-  - ينبغي أن تخضع الادعاءات ذات [الأثر المادي](core_05_band_oversight.md#material-impact) والمرتبطة بالسياسات أو السلامة أو الاعتماد لافتراض قوي بضرورة التكرار المستقل أو المراجعة الخصومية أو كليهما قبل منحها اعتمادًا مؤسسيًا مستدامًا.
-  - ويجب أن يظل نشر الأعمال التي تتناول التكرار والنتائج الصفرية والتصحيح والاستشهاد بها ممكنًا بشروط لا تعتمد على إشارات المكانة.
-- **التصحيح وقابلية الطعن:** يجب أن يظل التصحيح والتعديل والاستبدال بحسن نية أسهل من الإخفاء.
-  - ويجب أن تظل أنظمة المراجعة والتحرير قابلة للطعن وخاضعة للتدقيق ومنضبطة في تضارب المصالح ومسببة في قرارات القبول والتصحيح والسحب الرئيسية.
-  - ولا تمتثل الأفعال التالية:
-    - كبت النتائج غير الملائمة؛
-    - الانتقام من المراجعين أو القائمين بالتكرار؛
-    - التلاعب غير الشفاف بالسجل العلمي.
+- **الإفصاح أولًا:** تتطلب المكافأة إفصاحًا عامًا يكفي للفهم المستقل والتدقيق وإعادة الإنتاج لاحقًا، مع مراعاة القيود المؤقتة المبررة بموجب الفصل الأول والمادة XVII-A وحدهما. والإفصاح العام هو أول إتاحة غير سرية للوصف للجمهور. والاختراع السري لا يكتسب حق استبعاد بموجب هذه المادة.
+- **مدتان:** تُحسب المرحلتان من الإفصاح العام. في مرحلة الاستئثار، لا يجوز لحامل الحق رفض الإذن لأكثر من `disclosure+15` سنة. وبعدها، وحتى `disclosure+30` سنة كحد أقصى، يجوز للجميع استخدام الاختراع دون إذن، مقابل رسم محسوب بوحدات LEQU؛ ولا يجوز للحامل رفض الاستخدام أو تأخيره أو فرض شروط تتجاوز الرسم. وبعد انتهاء المدة يصبح الاختراع متاحًا للجميع، مع إمكان استمرار النسبة والمصدر.
+- **رسم قائم على LEQU:** يتناسب الرسم مع المنفعة الدستورية المتحققة والمثبتة على محور المساهمة في مقياس LEQU الموحد في [الفصل العاشر §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
+  - تُحوّل المنفعة إلى رسم بتقييمها كوقت للكائنات الواعية وفق أجر عادل. وفي مكاسب الإنتاجية يُحسب وقت العمل الذي يوفره الاختراع أو الوقت الإنتاجي الذي يضيفه لمستخدميه؛ وفي المنافع الأخرى يُستخدم الوقت المكافئ للعمر الذي يقيسه LEQU. ويجب أن يفي الأجر بمعيار [التعويض العادل](../../core_05_band_continuity.md#fair-compensation). وكلما زادت الإنتاجية أو الرفاه المثبتان، زادت المكافأة.
+  - لا يتجاوز الرسم نصف المنفعة المثبتة. وتنخفض النسبة مع اتساع عدد المستفيدين الفعليين (لا عدد المرخّص لهم)، على ألا ينخفض إجمالي المكافأة كلما اتسع الاستخدام. وعند فرض رسم، لا تقل النسبة عن 1%، إلا أن ذلك لا يفرض رسمًا عندما تنص هذه المادة أو أداة تبنٍّ على جوائز أو وصول مجمّع أو شراء عام أو إتاحة مفتوحة.
+  - لا يجوز ربط الرسم بقوة السوق أو الندرة أو تكاليف التحول أو ما يمكن الضغط على المستخدم لدفعه. ويجب نشر جدول الرسوم وتقدير الوقت والأجر، وتطبيقه بالتساوي على الحالات المقارنة، وإتاحته للطعن. ولا يجوز أن يجعل استخدامات الوصول المفتوح أدناه بعيدة المنال. وتظل هذه حدودًا قصوى، ويجب أن تكون كل مطالبة متناسبة وقد تكون مدتها أقصر.
+- **استخدامات متاحة دائمًا:** لا تمتثل المطالبات في أي من المرحلتين إذا استُخدمت، بما يتجاوز الضروري بدقة والقابل للمراجعة، لكبت الإصلاح أو السلامة أو التشغيل البيني أو الأرشفة أو البحث أو التعليم أو الهجرة.
+- **مراعاة تصنيف النظام:** تتدرج المكافأة وفق الفئة والاعتماد وآثار التنسيق بموجب CS-3. وتُفضّل بشدة في الفئات A وB وC الآليات التي تحفظ الوصول؛ ويجب أن يكون الاستبعاد فيها ضيقًا وسريع المراجعة وسهل التجاوز عند مساسه ماديًا بالاستمرارية أو التشغيل البيني أو الإصلاح أو المصلحة العامة، وقد يبدأ الاختراع بمرحلة الترخيص المفتوح أو بمدة أقصر. ويمكن لابتكار أقل اعتمادًا خارج هذه الفئات استخدام المدتين كاملتين إذا كان الإفصاح حقيقيًا وتكاليف التحول منخفضة وضمانات منع الاحتجاز فعالة.
+- **مجالات ذات افتراضات أقوى:** لا يُفضّل الاستبعاد القوي، وقد تمنعه أدوات التبني، في الأدوية وضروريات الصحة العامة، والبنية التحتية الحاسمة للبقاء، ومعايير الاتصالات أو التشغيل البيني الأساسية، والمعرفة العلمية التأسيسية، وآليات السلامة والتدقيق والامتثال الدستورية. ينبغي تفضيل الجوائز أو المكافأة المباشرة أو الوصول المجمّع أو الترخيص الإلزامي أو الشراء العام أو ما يعادلها للحفاظ على التنفيذ والإصلاح والانتشار الواسع.
+- **إعادة التصنيف والتشديد:** إذا صار الابتكار الأقل اعتمادًا طبقة تنسيق حاسمة للاعتماد — مثل منصة أو بروتوكول أو نموذج أو سوق أو شبكة دفع — وجب إعادة تقييمه وفق فئة CS-3 المنطبقة. ويجوز تضييق الاستبعاد المتبقي أو تحويله أو إنهاؤه إذا أوجد الاستئثار احتجازًا قسريًا أو اختناقات مناهضة للمنافسة أو تهديدات مادية للاستمرارية أو الحقيقة أو المشاركة المنصفة.
 
 ---
 

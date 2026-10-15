@@ -74,48 +74,6 @@
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### 问责测量
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*通俗地说：这些问题考察奖励、市场和问责能力是否让问责在实践中真实有效，而不只是写在纸面上。*
-
-*本节是第五章中问责测量家族的归属处。序言§2（测量概览）在总览表中保留类别的通俗问题；家族表、宪法用途和定义路由则列于此处。*
-
-*重要性（[Materiality](../../core_05_band_oversight.md#materiality)）具有整合性，并非单独的测量类别；它根据[material stake](core_00_preamble.md#material-stake)调整本家族的适用力度。*
-
-| 测量家族 | 通俗问题 | 主要宪法用途 |
-|---|---|---|
-| 激励协调与代理指标完整性 | 奖励和指标是否反映真实的宪法结果？ | 识别逆向激励、俘获和[Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence)；以测量形式呈现[Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions)。 |
-| 市场结构与可竞争性 | 进入、退出、议价和替代选择能否保持真实可行？ | 当能力主张依赖开放市场时，适用反集中与反支配约束。 |
-
-这些测量考察奖励结构、市场力量和问责机制能否使[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)中的**问责**支柱在实践中真实有效，而不只是纸面规定。
-
-可操作的测量层级位于第五章的定义归属处：
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**上一文件：** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**下一文件：** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### 测量问责

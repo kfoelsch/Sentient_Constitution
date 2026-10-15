@@ -18,9 +18,9 @@
 
 > Nerede yaşar (gezinme):
 > - **Dörtlü haritası:** Yük tahsisi, kanıt, izlenebilirlik, gözlemlenebilirlik ve doğrulama, [Önsöz](core_00_preamble.md#chapter-00-preamble--foundational-requirements)de kurulan [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **gözetim** ve **hesap verebilirlik** bacaklarını işlemsel kılar; maddi olarak gerektiğinde **katılım**, **3** ve **4**. kesitler altında pratik gözlemlenebilirlik ve bağımsız itiraz yoluyla. Gerekler [maddi pay](core_00_preamble.md#material-stake) ile ölçeklenir.
-> - **Anayasal sahip:** yük tahsisi, uyum kanıtı, tanım izlenebilirliği, gözlemlenebilirlik ve güvenlik-kısıtlı doğrulama. **Sekizinci Bölüm** bu bölümle birlikte okunan güzergâh-kayıt ve doğrulanmış-girdi disiplinini sahiplenir.
+> - **Anayasal sahip:** yük tahsisi, uyum kanıtı, tanım izlenebilirliği, gözlemlenebilirlik ve güvenlik-kısıtlı doğrulama. **Onuncu Bölüm** bu bölümle birlikte okunan güzergâh-kayıt ve doğrulanmış-girdi disiplinini sahiplenir.
 > - **Uygulama sahibi:** belirlenmiş uygulama dosyalarındaki dağıtım, veri-işleme ve güvence mekaniği bu kurallarla tutarlı kalmalıdır ve corpus zaten daha sıkı-kural mantığı sağladığında daha sıkı olabilir.
-> - **Yer-değiştirmeme kuralı:** bu bölüm yalnızca yükü, izi, gözlemlenebilirliği, güvenlik sınırlarını ve kanıtı yönetir. Beşinci Bölüm tanımlarını, **Sekizinci Bölüm** katkı ya da güzergâh ölçümünü ya da Onuncu Bölüm anayasa karşıtı kötü davranış ölçütlerini yeniden belirtmez. Doğrulanmış uyumsuzluğun güzergâha yönlendirilmesi [Üçüncü Bölüm §3 — Uyumsuzluk bulgu profilleri](core_03_definition_integrity.md#3-non-compliance-finding-profiles) ve [Sekizinci Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) tarafından yönetilir. **6. kesit**, İkinci Bölümden Dördüncü Bölümün [Yedinci Bölüm — Sistem hizalama belgelendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)nden nasıl ayrıldığını belirtir.
+> - **Yer-değiştirmeme kuralı:** bu bölüm yalnızca yükü, izi, gözlemlenebilirliği, güvenlik sınırlarını ve kanıtı yönetir. Beşinci Bölüm tanımlarını, **Onuncu Bölüm** katkı ya da güzergâh ölçümünü ya da On İkinci Bölüm anayasa karşıtı kötü davranış ölçütlerini yeniden belirtmez. Doğrulanmış uyumsuzluğun güzergâha yönlendirilmesi [Üçüncü Bölüm §3 — Uyumsuzluk bulgu profilleri](core_03_definition_integrity.md#3-non-compliance-finding-profiles) ve [Onuncu Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) tarafından yönetilir. **6. kesit**, İkinci Bölümden Dördüncü Bölümün [Dokuzuncu Bölüm — Sistem hizalama belgelendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)nden nasıl ayrıldığını belirtir.
 
 </details>
 
@@ -157,7 +157,7 @@ Kriptografi ve bilgi-türü işleme bu Anayasa ve **[corpus_systems.md](../../co
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [Dördüncü Bölüm, 1 ile 4. kesitler](#1-exclusive-enforcement-and-burden-allocation); [İkinci Bölüm, §1 — Amaç ve rol](core_02_definition_structure.md#1-purpose-and-role); [İkinci Bölüm, §2 Tanım bütünlüğü gereği](core_02_definition_structure.md#2-definition-integrity-requirement); [İkinci Bölüm, §3 Tanım yığını boyunca tutarlılık](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [Üçüncü Bölüm, kesit 1 — Tanım bütünlüğü ve kaçınma karşıtı kısıtlar](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Üçüncü Bölüm, kesit 2 — Gözlemlenebilir sistem davranışından uyumsuzluk](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Üçüncü Bölüm, §2.6 Belirsizlik bütünlüğü ve sömürmeme kısıtı](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — maddi tanım ve uyumsuzluk kuralları; **§4** yalnızca kanıt-katmanı gereklerini belirtir ve o kuralları yeniden belirtmez.
-- Aşağı: [Sekizinci Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- Aşağı: [Onuncu Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
 - Birlikte oku: [Dördüncü Bölüm, kesit 2 — Tanım izlenebilirliği gereği](#2-definition-traceability-requirement) — maddi olarak gereken herhangi bir **Beşinci Bölüm** tanımını çağırmamak ya da doğru uygulamamak, ilişkili değerlendirmeyi, kanıtı ve uyum belirlemesini bütünüyle geçersiz kılar; [Birinci Bölüm, §6 — Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); ölçekleme, algılayan esenliği ile uzun ufuklu istikrar arasındaki ödünleri etkilediğinde [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [Beşinci Bölüm Güvenlik (Kısıt)](../../core_05_band_continuity.md#safety-constraint), [Beşinci Bölüm Doğruluk (Anayasal kısıt)](../../core_05_band_oversight.md#truth-constitutional-constraint) ve [Beşinci Bölüm Epistemik bütünlük](../../core_05_band_oversight.md#epistemic-integrity) — empirik, öngörücü ya da nedensel iddialar için bilim-bilgili kanıt hizalaması.
 
 </details>
@@ -191,14 +191,14 @@ Belirsizlik, maddi olarak ilgili tanım bileşenleri için kesin uyum gösterimi
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [İkinci Bölüm — Tanım yapısı ve bileşen gerekleri](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Üçüncü Bölüm — Tanım bütünlüğü, kaçınma ve uyumsuzluk](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Dördüncü Bölüm, 1 ile 5. kesitler](#1-exclusive-enforcement-and-burden-allocation).
-- Aşağı: [Yedinci Bölüm — Sistem hizalama belgelendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Sekizinci Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
-- Birlikte oku: [Yedinci Bölüm §6 — Yeniden açma, yanlış hizalanma ve kaçınma karşıtı](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) — İkinci Bölümden Dördüncü Bölüme doğrulanmış uyumsuzluk, önceki tanımadan bağımsız olarak belgelendirmeyi yeniden açabilir ya da boşa çıkarabilir.
+- Aşağı: [Dokuzuncu Bölüm — Sistem hizalama belgelendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Onuncu Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- Birlikte oku: [Dokuzuncu Bölüm §7 — Belgelendirme sonuçları](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — İkinci Bölümden Dördüncü Bölüme doğrulanmış uyumsuzluk, önceki belgelendirmeden bağımsız olarak belgelendirmeyi yeniden açabilir ya da boşa çıkarabilir.
 
 </details>
 
 <br>
 
-*Yalın dille: İkinci Bölümden Dördüncü Bölüme her uyum iddiasının karşılaması gereken kuralları koyar — tanımların ne anlama geldiğini, davranışın onları ne zaman kırdığını ve kanıtın nasıl gösterilmesi gerektiğini. Yedinci Bölüm, bir sistemin biçimsel hizalama tanımasına ihtiyaç duyduğunda o kuralları kullanan ayrı, forum-gözetimli bir belgelendirme sürecidir. Güncel bir belgelendirme, İkinci Bölümden Dördüncü Bölümü atlatan bir serbest geçiş değildir.*
+*Yalın dille: İkinci Bölümden Dördüncü Bölüme her uyum iddiasının karşılaması gereken kuralları koyar — tanımların ne anlama geldiğini, davranışın onları ne zaman kırdığını ve kanıtın nasıl gösterilmesi gerektiğini. Dokuzuncu Bölüm, bir sistemin biçimsel hizalama belgelendirmesine ihtiyaç duyduğunda o kuralları kullanan ayrı, forum-gözetimli bir belgelendirme sürecidir. Güncel bir belgelendirme, İkinci Bölümden Dördüncü Bölümü atlatan bir serbest geçiş değildir.*
 
 Bu kesit **işlemsel değildir**. Yalnızca bir **katman sınırı** belirtir.
 
@@ -209,12 +209,12 @@ Bu kesit **işlemsel değildir**. Yalnızca bir **katman sınırı** belirtir.
 
 Bunlar uyumun değerlendirildiği her yerde uygulanır — belgelendirme olsun ya da olmasın.
 
-**[Yedinci Bölüm — Sistem hizalama belgelendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** maddi olduğunda forum-gözetimli **belgelendirme sürecini** sağlar: bütün-sistem değerlendirme alanları, belgelendirme-kayıt ödevleri, tanıma sonuçları, yeniden doğrulama temposu, itiraz edilebilirlik zinciri ve Sekizinci Bölüme doğrulanmış-girdi köprüsü. İkinci Bölümden Dördüncü Bölüme **uygular**; onları yeniden **belirtmez**.
+**[Dokuzuncu Bölüm — Sistem hizalama belgelendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** maddi olduğunda forum-gözetimli **belgelendirme sürecini** sağlar: bütün-sistem değerlendirme alanları, belgelendirme-kayıt ödevleri, belgelendirme sonuçları, yeniden belgelendirme temposu, itiraz edilebilirlik zinciri ve Onuncu Bölüme doğrulanmış-girdi köprüsü. İkinci Bölümden Dördüncü Bölüme **uygular**; onları yeniden **belirtmez**.
 
 Okurlar şunları saymamalıdır:
 - bir **belgelendirme kaydını** İkinci Bölümden Dördüncü Bölüme süregelen uyumun yerine geçen bir şey olarak
-- **Yedinci Bölüm** tanımasını, koşullu tanımasını ya da yeniden doğrulamasını bu bölümdeki kanıtlama, iz ya da kanıt standartlarını düşüren şey olarak
-- **İkinci Bölümden Dördüncü Bölümü** bir sistemin daha önce belgelendirilmiş olması nedeniyle isteğe bağlı olarak — o bölümler altında doğrulanmış uyumsuzluk, Yedinci Bölüm altında belgelendirmeyi yeniden açabilir ya da boşa çıkarabilir
+- **Dokuzuncu Bölüm** belgelendirmesini, koşullu belgelendirmesini ya da yeniden belgelendirmesini bu bölümdeki kanıtlama, iz ya da kanıt standartlarını düşüren şey olarak
+- **İkinci Bölümden Dördüncü Bölümü** bir sistemin daha önce belgelendirilmiş olması nedeniyle isteğe bağlı olarak — o bölümler altında doğrulanmış uyumsuzluk, Dokuzuncu Bölüm altında belgelendirmeyi yeniden açabilir ya da boşa çıkarabilir
 
 ---
 

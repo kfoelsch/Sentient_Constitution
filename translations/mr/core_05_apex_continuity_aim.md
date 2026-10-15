@@ -98,36 +98,6 @@
 ---
 
 <a id="continuity-measurement-family"></a>
-
-### सातत्य (Preamble measurement family)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: संवेदनशील जीव आणि ते अवलंबून असलेल्या सजीव प्रणाली दीर्घकाळ टिकू शकतात का—पर्यावरणीयदृष्ट्या, विश्वासार्हपणे आणि अपयशातून सावरत—हे हे प्रश्न तपासतात. पाचव्या अध्यायातील सातत्य मापन-कुटुंबाचे स्थान येथे आहे; प्रस्तावनेतील §2 श्रेणीचा सोपा प्रश्न ठेवतो, तर कुटुंबाचा तक्ता आणि व्याख्यांचे संदर्भ येथे आहेत.*
-
-*महत्त्वता* ([Materiality](core_05_band_oversight.md#materiality)) एकात्मिक आहे, स्वतंत्र मापन-श्रेणी नाही; [material stake](core_00_preamble.md#material-stake) नुसार या कुटुंबाचा लागू होण्याचा जोर ठरवते.
-
-| उपकुटुंब | सोपा प्रश्न | मुख्य घटनात्मक उपयोग |
-|---|---|---|
-| पर्यावरणीय ठसा आणि पर्यावरणीय पूर्वअटी | कोणता पर्यावरणीय भार निर्माण होतो किंवा दुसरीकडे ढकलला जातो? | [पर्यावरणीय ठसा](../../core_05_band_continuity.md#ecological-footprint), [पर्यावरणीय पूर्वअटी](../../core_05_band_continuity.md#environmental-preconditions); **अनुच्छेद I-A** आणि **I-B** अंतर्गत प्रकटीकरण |
-| लवचिकता, उलटवता येण्याजोगेपणा आणि प्रणालीगत जोखीम | अपयश मर्यादित करून उलटवता येते का आणि त्याची वाढ प्रामाणिकपणे कळवता येते का? | [उलटवता येण्याजोगेपणा](../../core_05_band_continuity.md#reversibility), [साखळीबद्ध अपयश](../../core_05_band_continuity.md#cascading-failure), [अस्तित्वाचा धोका](../../core_05_band_continuity.md#existential-risk), [स्वयं-दुरुस्ती](../../core_05_band_continuity.md#self-healing); [लवचिकता, सुरक्षितता, उलटवता येण्याजोगेपणा, स्वयं-दुरुस्ती, साखळीबद्ध अपयश, अस्तित्वाचा धोका, पर्यावरणीय पूर्वअटी आणि कल्याण](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
-| अवलंबित्व आणि संसाधन प्रवाह | सामायिक अवलंबित्व दिसते आणि टिकवले जाते का? | [अवलंबित्व](../../core_05_band_continuity.md#dependency); **अनुच्छेद V-A** (*अवलंबित्व नकाशीकरण आणि संसाधन-प्रवाह पारदर्शकता*) |
-| प्रणालींमधील आधार | नोंदवलेला परतावा सामायिक पायाभूत सुविधा आणि पर्यावरणीय पुनर्स्थापना टिकवतो का? | [प्रणालींमधील निष्कर्षण](../../core_05_band_continuity.md#cross-system-extraction), [प्रमाणबद्ध प्रणाली-आधार](../../core_05_band_continuity.md#proportionate-cross-system-support); **अनुच्छेद V-B** (*प्रणालींमधील न्याय्यता आणि शाश्वतता*) |
-
-तपशीलवार मापन नियम प्रत्येक जोडलेल्या व्याख्येत आहेत.
-
-**मागील फाइल:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
-
-**पुढील फाइल:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### सातत्य मोजणे (प्रस्तावना मापन कुटुंब)

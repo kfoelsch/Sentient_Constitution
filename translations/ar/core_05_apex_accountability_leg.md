@@ -75,48 +75,6 @@
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### قياس المساءلة
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*بعبارات بسيطة: تسأل هذه الأسئلة ما إذا كانت المكافآت والأسواق وإمكانية المساءلة تُبقي المساءلة حقيقية في الممارسة، لا مجرد وجودها على الورق.*
-
-*هذا هو موضع عائلة قياس المساءلة في الفصل الخامس. يحتفظ §2 من الديباجة (نظرة عامة على القياسات) بسؤال الفئة المبسط في جدول النظرة العامة؛ أما جدول العائلة واستخدامها الدستوري وإحالات التعريفات فتوجد هنا.*
-
-*المادية ([Materiality](../../core_05_band_oversight.md#materiality)) تكاملية وليست فئة قياس مستقلة؛ فهي تحدد مدى انطباق هذه العائلة وفق [material stake](core_00_preamble.md#material-stake).*
-
-| عائلة القياس | السؤال المبسط | الاستخدام الدستوري الرئيسي |
-|---|---|---|
-| مواءمة الحوافز ونزاهة المؤشرات البديلة | هل تعكس المكافآت والمقاييس النتائج الدستورية الفعلية؟ | تكشف الحوافز المنحرفة والاستحواذ و[Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence)، وتمثل الصيغة القياسية لـ[Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions). |
-| هيكل السوق وقابلية المنافسة والطعن | هل يمكن أن يظل الدخول والخروج والتفاوض والبدائل أموراً حقيقية؟ | تطبق ضوابط منع التركّز والهيمنة عندما تعتمد ادعاءات القدرة على أسواق مفتوحة. |
-
-تسأل هذه المقاييس ما إذا كانت هياكل المكافآت وقوة السوق وإمكانية المساءلة تُبقي ضلع **المساءلة** في [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) حقيقياً في الممارسة، لا على الورق فحسب.
-
-توجد مستويات القياس التشغيلية في مواضع التعريفات بالفصل الخامس:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**الملف السابق:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**الملف التالي:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### قياس المساءلة

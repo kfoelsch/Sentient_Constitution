@@ -634,6 +634,45 @@ flowchart TB
 
 <br>
 
+<a id="176-portable-competence"></a>
+#### 17.6 Taşınabilir Yetkinlik
+<details>
+<summary><strong><span style="color: #2563eb;">İzlek</span></strong></summary>
+
+- Ön dayanak: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (öğrenme ve işletim arasındaki iki rol biçimi); [§16.2 Institutional Development](#162-institutional-development) (korunan yetkinlik); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (kayıt role aittir).
+- [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) ile birlikte okuyun: birden fazla gözetmenin denetleyebilmesi (**gözetim**); işlevlerin kesiştiği yerler dâhil sorunları erken fark etme (**zamanlılık**); sonuç doğuran işlere açık erişim yolları (**katılım**); [material stake](core_00_preamble.md#material-stake) ölçüsünde ölçekleme.
+- [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship), [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence), [§19.3 Misalignment Detection](#193-misalignment-detection) (çoğul tespit) ve [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response) ile birlikte okuyun.
+- Sınırlar: [§18.3 Segregation of Duties](#183-segregation-of-duties) ve [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (bir koltuğu öğrenmek o koltuğu üstlenmek değildir); [Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances); [§17.5 Duty to Resist](#175-duty-to-resist); [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- Sonraki uygulama: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) (sentient düzeyinde tek hata noktası olmaması); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
+
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Institutional Development](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Distributed Understanding](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+*Sade ifadeyle:* Sonuçları önemli bir iş tek bir duyarlı varlığın belleğine bağlı olmamalıdır. Sistem ve ona bağımlılık arttıkça sorumlular işi devretme, açıklama, birbirlerinin işini denetleme ve kesişimlerde sorun görme yetkinliğine sahip olmalıdır. Bu yeterli kapsam ve anlayış tabanıdır; herkesin her görevde rotasyona girmesini gerektirmez.
+
+Önemli roldeki yetkinlik tek bir gözetmene değil, role ve ona bağımlı topluluklara aittir; önem ve bağımlılığa göre ölçeklenir:
+- **Kapsama:** Birden fazla nitelikli duyarlı varlık rolü yapıp açıklayabilmelidir. Aynı nedenle başarısız olacak yedek sayılmaz; aynı kusurlu AI sisteminin kopyası da yedek değildir.
+- **Devir uygulanmalı:** Belgeler tek başına aktarımı kanıtlamaz. Halefiyet ve devir denenmeli; bulunan açık kaydedilip giderilmelidir.
+- **Kesişimi anlama:** Komşu işlevlerin gözetmenleri, kaçırılmış devirleri veya bir tarafta iyi görünüp diğer tarafta zarar veren ölçüleri fark edecek kadar birbirlerinin işini bilmelidir. Bu anlayıştır, yetki değildir.
+- **Rotasyon araçtır:** Güvenlik ve rıza elverdiğinde, öğrenme ve kapsama için gölgeleme, eşli çalışma ya da geçici yedekleme kullanılabilir; yetkinliğin gelişme hızını aşamaz. Kimsenin uzmanlaşamayacağı kadar görev bölünmemelidir.
+
+**Sınırlar:** Denetim kişinin kendi işinden ayrı kalır. Bağlayıcı veya güvenlikle ilgili role girmeden önce yetkinlik eşiği karşılanmalı; o zamana dek gözetimli öğrenme yapılmalıdır. İtiraz eden ya da korunan bildirimde bulunan gözetmene misilleme için atama değişikliği veya eğitim kullanılamaz. Anlayış erişim değildir: gizlilik, güvenlik, asgari ayrıcalık ve rol kaydı kuralları sürer. Herkesin her rolde rotasyonu gerekmez; gerekçeli uzmanlaşma korunur, çaba önlenebilir yüke göre ayarlanır. Küçük gruplar güvenilir üyelerin birbirini yedeklemesiyle bunu sağlayabilir. Aynı görev insan ve AI gözetmenleri bağlar.
+
+---
+
 <a id="18-governance-under-stewardship-discipline"></a>
 ### 18. Stewardship disiplini altında yönetişim
 

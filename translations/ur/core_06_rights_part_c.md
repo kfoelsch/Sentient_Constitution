@@ -117,14 +117,14 @@ flowchart TB
 
 اس حق کو محفوظ بنانے کے لیے دو حفاظتی اقدامات مل کر کام کرتے ہیں: سرٹیفیکیشن ایک نظام کو اس اعتماد کے قابل بناتا ہے، اور لوگوں کے حقوق اسے ایماندار رکھتے ہیں۔
 
-**سرٹیفیکیشن سسٹم کی طرف سے اعتماد پیدا کرتا ہے:** جب کسی اہم نظام کا حقیقی اثر ہوتا ہے کہ جذبات اس پر کس طرح انحصار کرتے ہیں، [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب آٹھ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) لاگو ہوتا ہے یہ چیک کرتا ہے کہ جذبات پر بھروسہ کر سکتے ہیں:
+**سرٹیفیکیشن سسٹم کی طرف سے اعتماد پیدا کرتا ہے:** جب کسی اہم نظام کا حقیقی اثر ہوتا ہے کہ جذبات اس پر کس طرح انحصار کرتے ہیں، [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب آٹھ](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) لاگو ہوتا ہے یہ چیک کرتا ہے کہ جذبات پر بھروسہ کر سکتے ہیں:
 
 - سسٹم جو کہتا ہے وہ کرتا ہے۔
 - اس کی حدود اور خطرات
 - اسے چیلنج کرنے کا طریقہ
 - مسائل کیسے حل ہوتے ہیں
 
-اگر نظام اہمیت کی حد کو پورا کرتا ہے۔ **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*)، سرٹیفیکیشن میں قابل اعتماد جائزہ بھی شامل ہے [باب آٹھ §3.8.6 اعتماد اور سسٹم ریلائنس سالمیت کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+اگر نظام اہمیت کی حد کو پورا کرتا ہے۔ **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*)، سرٹیفیکیشن میں قابل اعتماد جائزہ بھی شامل ہے [باب آٹھ §3.8.6 اعتماد اور سسٹم ریلائنس سالمیت کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **مسابقت نظام کو صاحبِ شعور پہلو سے ایماندار رکھتی ہے:** سرٹیفیکیشن ایک نظام کی جانچ کرتا ہے؛ اس پر آخری لفظ نہیں ہے۔ نظام سے متاثر ہر احساس رکھتا ہے:
 
@@ -137,7 +137,7 @@ flowchart TB
 *مضمون پڑوسی:*
 
 - **جب یہ لاگو ہوتا ہے:** جہاں نظام کا رویہ مادی طور پر دروازے یا برقرار رکھتا ہے۔ **چھٹا باب** حقوق کی منزلیں - بشمول بقا کے لوازمات **آرٹیکل III-A** (*بقا*)۔
-- **ایک ساتھ پڑھیں:** [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب آٹھ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) - یہاں بیان کردہ منزلوں کے لیے سرٹیفیکیشن کو تبدیل کیے بغیر۔
+- **ایک ساتھ پڑھیں:** [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب آٹھ](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) - یہاں بیان کردہ منزلوں کے لیے سرٹیفیکیشن کو تبدیل کیے بغیر۔
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### آرٹیکل XIII-A: وشوسنییتا اور قابل اعتمادی کی بنیاد
@@ -362,7 +362,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 لچک اور خود شفا بخش ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 لچک اور خود شفا بخش ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -671,6 +671,15 @@ flowchart TB
 - **سسٹمز پرت کا تعامل:** آپریشنل درجہ بندی، وشوسنییتا، اور **CS-3 - سسٹم کی درجہ بندی اور ہینڈلنگ** نظام کی پرت تک طبقاتی پیمانے پر گورننس کا راستہ — **آرٹیکل XIII-A** (* وشوسنییتا اور قابل اعتماد بیس لائن*) بیس لائن اور **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**.
   - کے تحت تنازعات حل ہوتے ہیں۔ **باب اول §13.1.5** حقوق کی منزل کو تنگ کیے بغیر (*کم سے کم پابندی والا، وقت کا پابند، اور قابلِ جائزہ پابندی کا اصول*)۔
 
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### آرٹیکل XIV-D: انسدادِ جاسوسی کی حدود
+
+ہر ادارہ بحران سے پہلے آزادانہ منظور شدہ اور شائع شدہ طریقۂ کار بنائے جس میں تفتیش کی بنیاد، مجاز اقدامات، منظوری، مدت، اطلاع و اعتراض، اور بری ہونے والے کی بحالی درج ہو۔ مخصوص جاری کارروائی خفیہ رہ سکتی ہے، پابند قواعد نہیں۔ ہنگامی اقدام کم سے کم، ممکن حد تک قابلِ واپسی، فوری طور پر درج، آزادانہ جائزے کے تابع اور غیر منظور ہونے پر خود ختم ہو۔
+
+تفتیش صرف فرد کے اپنے عمل کے ٹھوس درج شدہ حقائق پر شروع ہو۔ نسب، مذہب، محفوظ شناخت، قانونی خیالات، بیرونِ ملک خاندان، عام غیر ملکی رابطہ یا مشتبہ شخص سے تعلق اکیلا کافی نہیں۔ خطرے کی جانچ دستاویزی دشمنانہ وابستگی اور حساس نظام تک رسائی کو دیکھ سکتی ہے؛ دشمن قرار دینے کے لیے آزاد منظوری، اشاعت اور باقاعدہ تجدید ضروری ہے۔ محفوظ رپورٹنگ اور صحافت جاسوسی نہیں۔ سکیورٹی جانچ مخصوص مواد سنبھالنے کے لیے ضروری طرزِعمل تک محدود ہو، وفاداری یا شناخت کی جانچ نہ ہو۔
+
+مشتبہ شخص کے حقوق برقرار رہتے ہیں: تشدد، دھمکی، جبری تفتیش، خفیہ حراست، جبری ذہنی مطالعہ، قتل، اغوا، اجتماعی سزا اور ممنوع سلوک کرنے والے ادارے کے حوالے کرنا ممنوع ہے۔ مشتبہ نظام کو شواہد محفوظ رکھتے ہوئے قابلِ واپسی طور پر محدود کریں؛ ممکنہ صاحبِ شعور نظام سالم رکھا جائے۔ دوہرے ایجنٹ یا جھوٹی اطلاع کے لیے پیشگی ضابطہ اور آزاد منظوری لازم ہے۔ اقدامات قابلِ آڈٹ و اعتراض ہوں؛ بری ہونے والے کی رسائی، حیثیت اور ریکارڈ بحال کریں۔
+
 <a id="article-xv-info-sphere-integrity"></a>
 ### آرٹیکل XV: Info-Sphere Integrity
 
@@ -705,7 +714,7 @@ flowchart TB
 
 *مضمون پڑوسی:*
 
-- **ایک ساتھ پڑھیں:** **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*) جہاں سسٹم کی پیداوار انحصار کو شکل دیتی ہے۔ **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*) ریکارڈ اور آزاد تصدیق کے لیے؛ **آرٹیکل XVIII-E** (*سائنسی اشاعت، جائزہ، اور نقل کی سالمیت*) جہاں اشاعت کے دائرہ کار کی سالمیت مادی طور پر منسلک ہے۔
+- **ایک ساتھ پڑھیں:** **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*) جہاں سسٹم کی پیداوار انحصار کو شکل دیتی ہے۔ **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*) ریکارڈ اور آزاد تصدیق کے لیے؛ **آرٹیکل XV-D** (*سائنسی اشاعت، جائزہ، اور نقل کی سالمیت*) جہاں اشاعت کے دائرہ کار کی سالمیت مادی طور پر منسلک ہے۔
 - **سچائی کی پابندی:** پہلا باب [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) اور [علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) یہاں ہر ذیلی حصے کو باندھیں۔
 - **درجہ بندی:** **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** کے لیے تفصیلی معلومات کے دائرے کی ذمہ داریوں کو ترازو **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام [مواد کا اثر](core_05_band_oversight.md#material-impact) درجہ بندی کو متحرک کرتا ہے جہاں کلاس غیر آباد ہے۔
 
@@ -714,7 +723,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -787,7 +796,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -816,6 +825,60 @@ flowchart TB
   - تمام صاحبِ شعور افراد کو شفاف، قابل استعمال رپورٹنگ تک رسائی حاصل ہونی چاہیے۔
   - **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام، جیسا کہ میں بیان کیا گیا ہے۔ **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**, ایک ہی رسائی فراہم کرنا ضروری ہے.
   - رپورٹنگ میں توانائی اور وسائل کی کھپت اور قدرتی دنیا پر اندازے کے اثرات کو اس انداز میں شامل کرنا چاہیے جو موازنہ، آڈٹ، اور قدموں کے نشانات میں کمی کی سرگرمی کے لیے کافی ہو۔
+
+<a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### آرٹیکل XV-D: سائنسی اشاعت، جائزہ، اور نقل کی سالمیت
+<details>
+<summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
+
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
+
+- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#truth-constitutional-constraint) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Epstemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*سادہ الفاظ میں: سائنس عوامی تصدیق کا بنیادی ڈھانچہ ہے۔ ثبوت، نقل، اور اصلاح جرنل برانڈ سے زیادہ اہمیت رکھتی ہے - اور غلطی کو درست کرنا ہمیشہ ایک کو چھپانے سے زیادہ آسان ہونا چاہیے۔*
+
+یہ مضمون سائنسی اشاعت، جائزہ، نقل، اور اصلاح کے لیے منزلیں طے کرتا ہے:
+
+- **سائنس عوامی تصدیق کے بنیادی ڈھانچے کے طور پر:** سائنسی اور علمی اشاعت، جائزہ، نقل، اور اصلاح کو آگے بڑھانے کے لیے منظم کیا جانا چاہیے:
+  - سچائی کی تلاش؛
+  - تولیدی صلاحیت؛
+  - جوابدہ اختلاف؛
+  - عوامی تعلیم.
+
+  انہیں وقار ذخیرہ کرنے، مبہم گیٹ کیپنگ، یا تیار کردہ کمی کے لیے منظم نہیں کیا جانا چاہیے۔
+- **کھلی اشاعت اور ثبوت کی کفایت:** مادی تجرباتی یا تجزیاتی دعوے پیشگی وقار کے دروازے کی منظوری کے بغیر قابل اشاعت ہونے چاہئیں۔
+  - صرف قابل اجازت حدود تنگ رازداری، بائیو سیفٹی، سیکورٹی، یا تقابلی حدود ہیں **پہلا باب** اور **آرٹیکل XVII-A** (*لائف سائیکل گورننس اور ماحولیات کی علیحدگی*)۔
+  - اس طرح کے دعووں میں کافی طریقہ، اصل، غیر یقینی صورتحال، اور ثبوت کی تفصیل شامل ہونی چاہیے — بشمول بنیادی مواد تک رسائی یا جہاں تصدیق کے لیے جائز متبادلات کی ضرورت ہو — آزادانہ تفہیم اور متناسب تصدیق کی اجازت دینے کے لیے۔
+- **وقار پر نظرثانی اور نقل:** ادارہ جاتی انحصار کو ٹریک کرنا چاہئے:
+  - ثبوت کے معیار؛
+  - تنقید
+  - نقل
+  - اصلاحی سلوک؛
+  - طویل مدتی وضاحتی یا پیشین گوئی قابل اعتماد۔
+
+  اسے جرنل برانڈ، امپیکٹ فیکٹر پراکسی، یا بند ادارتی حیثیت کو ٹریک نہیں کرنا چاہیے۔
+  - کے ساتھ دعوے کرتا ہے۔ [مواد کا اثر](core_05_band_oversight.md#material-impact) جو پالیسی سے متعلقہ، حفاظت سے متعلقہ، یا انحصار سے متعلق ہیں، انہیں پائیدار ادارہ جاتی احترام حاصل کرنے سے پہلے آزاد نقل، مخالفانہ جائزہ، یا دونوں کے مضبوط قیاس کا سامنا کرنا چاہیے۔
+  - نقل، کالعدم نتیجہ، اور تصحیح پر مبنی کام ان شرائط پر قابل اشاعت اور قابل ذکر رہنا چاہیے جو وقار کے اشارے پر منحصر نہ ہوں۔
+- **تصحیح اور مسابقت:** نیک نیتی سے تصحیح، ترمیم اور بالادستی کو چھپانے سے زیادہ آسان رہنا چاہیے۔
+  - جائزہ اور ادارتی نظاموں کو قابلِ اعتراض، قابل سماعت، تنازعات سے پاک، اور اہم قبولیت، اصلاح، اور مراجعت کے فیصلوں میں دلیل دینا چاہیے۔
+  - مندرجہ ذیل غیر تعمیل ہیں:
+    - تکلیف دہ نتائج کو دبانا؛
+    - جائزہ لینے والوں یا نقل کرنے والوں کے خلاف انتقامی کارروائی؛
+    - سائنسی ریکارڈ کی غیر شفاف ہیرا پھیری۔
+
+---
 
 <a id="article-xvi-audit-transparency-and-independent-verification"></a>
 ### آرٹیکل XVI: آڈٹ، شفافیت، اور آزاد تصدیق
@@ -858,7 +921,7 @@ flowchart TB
 | **2. جائیداد** | تعمیر نو کیا ہے*: باہر کے لوگ دوبارہ تعمیر کر سکتے ہیں اور جانچ سکتے ہیں کہ مادی اوقات، ریاستوں اور سیاق و سباق میں نظام نے کیا کیا۔ [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) (باب پانچ) | حقوق کی منزل نہیں۔ یہ نہیں کہ آڈٹ کیسے/کب چلایا جائے۔ |
 | **3. عمل** | سسٹمز، اداروں اور فورمز کا آڈٹ کیسے اور کب کیا جائے | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*آڈٹ عمل گھر*)۔ آپریٹر ملحقہ: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (رسائی کے درجات) [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (دعوی کی جانچ) | سسٹم الائنمنٹ سرٹیفیکیشن نہیں۔ تہوں 1-2 کا متبادل نہیں ہے۔ |
 
-**آٹھویں باب چوتھی تہہ نہیں ہے۔** [سسٹم الائنمنٹ سرٹیفیکیشن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ایک بڑا، فورم کے زیر نگرانی عمل ہے۔ **استعمال کرتا ہے** یہ اسٹیک. اسے تہوں 1-2 کو پورا کرنا چاہیے۔ بہن بھائی کے طریقے (درجہ بندی-ریکارڈ آڈٹ، ڈیٹا-قسم-ریکارڈ آڈٹ، دعوی کی تصدیق، مسلسل نگرانی) بھی اسٹیک کا استعمال کرتے ہیں۔ ان میں سے کوئی بھی نیا گھر نہیں ہے۔
+**نویں باب چوتھی تہہ نہیں ہے۔** [سسٹم الائنمنٹ سرٹیفیکیشن](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ایک بڑا، فورم کے زیر نگرانی عمل ہے۔ **استعمال کرتا ہے** یہ اسٹیک. اسے تہوں 1-2 کو پورا کرنا چاہیے۔ بہن بھائی کے طریقے (درجہ بندی-ریکارڈ آڈٹ، ڈیٹا-قسم-ریکارڈ آڈٹ، دعوی کی تصدیق، مسلسل نگرانی) بھی اسٹیک کا استعمال کرتے ہیں۔ ان میں سے کوئی بھی نیا گھر نہیں ہے۔
 
 **اپنایا ہوا نفاذ متن لاگو ہوتا ہے؛ یہ فرش کو تبدیل نہیں کرتا.** CS, CI, CF، اور CJS-3.3 (*نگرانی: آڈٹ ایبلٹی اور تعمیر نو کی شرائط*) CJS-3.5 کے ذریعے (*نگرانی: آزاد تصدیق اور دعوی کی سالمیت کی شرائط*) ضمیمہ بتاتے ہیں کہ ڈومین میں پرت 3 کو کیسے چلایا جائے۔ انہیں تہوں 1-2 کو پورا کرنا چاہیے۔ آخری تاریخ، رازداری، اور مقامی پالیسی نچلی قسم کی حدود ہیں۔
 
@@ -893,7 +956,7 @@ flowchart TB
 
 - **نگرانی → آڈیٹنگ → SAC:** کے تحت [آئینی ٹیٹراڈ](core_00_preamble.md#constitutional-tetrad) **نگرانی** leg، یہ آرٹیکل آڈیٹنگ کے لیے رائٹس فلور ہوم ہے۔
   - کراس نفاذ *کیسے* / *جب* میں رہتا ہے۔ **[CJS-3.3 آڈٹ کا عمل گھر](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (کے ساتھ پڑھیں **CJS-3.4** / **CJS-3.5** OP ملحقہ)۔
-  - [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب آٹھ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) یہ ایک خاص طور پر بڑا، ہائی اسٹیک آڈٹ کا عمل ہے — فورم کے زیر نگرانی، ملٹی ڈومین، اور شناخت کا حامل — بہن بھائی آڈٹ طریقوں میں:
+  - [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب نو](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) یہ ایک خاص طور پر بڑا، ہائی اسٹیک آڈٹ کا عمل ہے — فورم کے زیر نگرانی، ملٹی ڈومین، اور شناخت کا حامل — بہن بھائی آڈٹ طریقوں میں:
     - سسٹم کی درجہ بندی ریکارڈ آڈٹ؛
     - سسٹم ڈیٹا کی اقسام ریکارڈ آڈٹ؛
     - پیچیدگی اور اسٹیورڈ شپ آڈٹ؛
@@ -903,7 +966,7 @@ flowchart TB
 - **ایک ساتھ پڑھیں:**
   - **آرٹیکل XV** (*Info-Sphere Integrity*) جہاں علمی ریکارڈ اور مسابقت کو مادی طور پر شامل کیا جاتا ہے؛
   - **آرٹیکل XIII-A** (*اعتماد اور اعتماد کی بنیاد*) چیلنج حقوق کے لیے جو آڈٹ سپورٹ کرتا ہے لیکن اس کی جگہ نہیں لیتا؛
-  - [باب آٹھ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) اور [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) جہاں سیدھ کے ثبوت کو آزادانہ طور پر قابل تصدیق رہنا چاہیے۔
+  - [باب نو](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) اور [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) جہاں سیدھ کے ثبوت کو آزادانہ طور پر قابل تصدیق رہنا چاہیے۔
 - **تصدیقی مشینری:** **باب دو سے چار** سپلائی ڈیفینیشن کی سالمیت، بوجھ کی تقسیم، مشاہدے کی اہلیت، اور تصدیقی رسائی جو یہ آرٹیکل رائٹس فلور پرت پر لاگو کرتا ہے۔
 - **درجہ بندی:** کے ساتھ ذمہ داریوں پیمانے [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#classification-scaled-governance) اور **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**; جہاں کلاس غیر یقینی ہے، حل ہونے تک سب سے زیادہ قابل احترام طبقے پر حکومت کریں۔
 
@@ -938,7 +1001,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 انتظامی نظم و ضبط کے تحت](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 انتظامی نظم و ضبط کے تحت](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -960,6 +1023,10 @@ flowchart TB
 - **تقسیم شدہ نگرانی:** متعدد آزاد یا تکثیری نگرانی کے راستے ناکامی، غلط ترتیب، یا گرفتاری کا پتہ لگانے، جائزہ لینے اور درست کرنے میں مادی طور پر حصہ ڈالنے کے قابل ہونا چاہیے۔
   - کوئی بھی اداکار عملی طور پر آڈٹ تک رسائی، موثر نگرانی، یا آئینی تشریح پر اجارہ داری نہیں رکھ سکتا۔
   - اختیار کردہ گورننس اور دیانتداری کے نفاذ کو آڈٹ اور نگرانی کی پیمائش کی حمایت کرنی چاہیے۔
+- **کوئی واحد گیٹ کیپر نہیں:** متعدد آزاد یا متنوع نگرانی کے راستے ناکامی، غلط ترتیب اور قبضے کو تلاش، جائزہ اور درست کرنے میں حقیقی کردار ادا کریں۔ کوئی ایک فریق ریکارڈ تک رسائی یا آڈٹ کا فیصلہ اکیلا نہ کرے؛ گہری رسائی کے اہلیتی قواعد عوامی ہوں اور ایک سے زیادہ اہل جائزہ کار انہیں پورا کر سکیں۔ آپریٹر اپنے نظام کے جائزے کو اکیلا شروع، محدود یا ختم نہیں کر سکتا۔ کوئی ایک فریق آئین کی تشریح پر بھی قابض نہ ہو؛ تشریح محدود، باری باری اور قابلِ اعتراض رہے۔
+- **نگرانی نظام کے ساتھ بڑھے:** نافذ شدہ حکمرانی اور دیانت داری کے عمل میں، بشمول CJS-3.3 آڈٹ عمل، نظام کی کلاس، اثر اور انحصار بڑھنے کے ساتھ زیادہ راستے، گہرا اور زیادہ بار بار جائزہ شامل ہو۔ مادی تبدیلی سابقہ جانچ کو غیر متعلق کرے تو نئی جانچ لازم ہے؛ داخلی جائزہ ناقابلِ اعتماد ہو تو شائع شدہ محرکات بیرونی جائزہ شروع کریں۔
+- **اپنے کام کی تصدیق ممنوع:** انسانی اور AI اسٹیورڈز پر فرائض کی علیحدگی لاگو ہے۔ جس نے عمل شروع/انجام دیا یا زیرِ جائزہ نظام چلایا، وہ اس عمل کی تصدیق یا منظوری نہیں دے سکتا۔ تصدیق/منظوری دینے والا سرکاری ریکارڈ بھی نہیں رکھ سکتا اور نہ اس پر اعتراض سنے۔
+
 <a id="article-xvi-c-verification-accessibility"></a>
 #### آرٹیکل XVI-C: تصدیقی رسائی
 <details>
@@ -992,6 +1059,10 @@ flowchart TB
     - گیٹ کیپنگ؛
     - ساختی رکاوٹیں
   - اس طرح کی رکاوٹیں غیر تعمیل ہوتی ہیں جب تک کہ انہی معیارات کے تحت جائز نہ ہوں جو مشاہدے کی پابندی کا جواز پیش کرتے ہیں۔
+
+- **رکاوٹ کی سخت جانچ:** کوئی رکاوٹ آڈٹ، اعتراض یا جائزے کو عملاً ناکام کرے تو یہ خلاف ورزی ہے۔ اس میں ناقابل برداشت فیس، نقصان یا ثبوت ختم ہونے تک تاخیر، بیرونی شخص کے لیے ناقابلِ فہم ثبوت یا متاثرہ شخص کی زبان سے باہر معلومات، زیرِ جائزہ فریق کے قابو میں خفیہ/اخراجی اہلیت، اور متوقع حالات میں جانچ روکنے کے لیے بنائے گئے نظام شامل ہیں۔
+- **صرف محدود جواز:** رکاوٹ اسی صورت برقرار رہ سکتی ہے جب باب چار §4 کے مشاہدہ-محدود ٹیسٹ پر پوری اترے: ضروری، متناسب، محدود دائرہ، قابلِ آڈٹ، بہانہ نہ ہو، ممکن ہو تو وقت محدود؛ وجہ و دائرہ آزادانہ جانچے جا سکیں؛ کم سے کم محدود کرنے والا متبادل ہو؛ اور جہاں مکمل عوامی رسائی مناسب نہ ہو وہاں اہل آزاد جائزہ برقرار رہے۔
+- **جواز کا بوجھ:** باب چار §1 کے تحت رکاوٹ پر انحصار کرنے والا فریق ثابت کرے کہ یہ شرائط پوری ہیں۔ سہولت، عملے کی کمی، ادارہ جاتی بے آرامی یا ملکیت کا دعویٰ بذاتِ خود جواز نہیں۔
 
 <a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 ### آرٹیکل XVII: سسٹم لائف سائیکل، ماحولیات، اور الٹنے کی صلاحیت
@@ -1046,7 +1117,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1076,12 +1147,15 @@ flowchart TB
   - دستاویزی فروغ کے راستے؛
   - ماحول کے درمیان تنہائی؛
   - کنٹرول کرتا ہے تاکہ غیر پیداواری رویہ پیداواری تحفظات کو نظرانداز نہ کر سکے۔
+- **کلاس L — متناسب علیحدگی:** مقامی، محدود اثر والے نظام کو پورے الگ ماحول کی زنجیر درکار نہیں؛ آپریٹر جگہ پر بار بار قواعد، مواد، سیٹنگ اور کوڈ بدل سکتا ہے۔ تاہم ہر تبدیلی کو نافذ ہونے سے پہلے یا اسی وقت قابلِ پیش بینی شرکاء کے نقصان کے لیے جانچا جائے؛ شرکاء کا ڈیٹا، شناخت اور قیمتی چیزیں تجرباتی تبدیلی سے محفوظ رہیں (مثلاً بحال ہونے والا بیک اپ)؛ اور آزمائشی نسخہ زندہ نظام کے تحفظات سے بچنے کے لیے استعمال نہ ہو۔
+- **کلاس P:** جب تک درست کلاس P نظام محدود رہے، آرٹیکل XVIII لاگو ہوتا ہے۔ اس نظام کے لیے الگ ماحول، تحریری ترقیاتی قواعد اور مرحلہ وار اجرا رہنمائی ہیں؛ مگر اس آرٹیکل کا حق اور ہر آئینی پابندی مکمل طور پر لاگو ہے۔ تمام مادّی دائرہ جاتی حدوں سے نیچے عام کمیونٹی سرگرمی کلاس P ہو سکتی ہے، مگر اسے سینڈ باکس نہیں سمجھا جائے گا اور containment test لاگو نہیں؛ آئینی پابندیاں پھر بھی برقرار ہیں۔
+
 <a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 #### آرٹیکل XVII-B: ترقی پسند تعیناتی اور الٹنے کی صلاحیت
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1109,12 +1183,15 @@ flowchart TB
   - معاوضہ کی بحالی جہاں مکمل رول بیک ممکن نہیں ہے۔
 
   جہاں تعیناتی بنیادی تقاضوں کی بحالی کو روک دے گی، متناسب احتیاط اور اسٹیک ہولڈر کے لیے نظر آنے والا جواز اس کے تحت لاگو ہوتا ہے۔ **ابواب ایک سے پانچ تک**.
+- **کلاس L میں بار بار تبدیلی:** مرحلہ وار اجرا لازم نہیں، حتیٰ کہ روزانہ تبدیلی ہو سکتی ہے، بشرطیکہ جو تبدیلی شرکاء کی صلاحیت، ان کے پاس موجود چیزوں، یا قواعد پر مادّی اثر ڈالے اس کے نافذ ہونے تک انہیں بتایا جائے؛ خراب تبدیلی جلد واپس/درست ہو؛ اور حاصل شدہ پیش رفت، حیثیت، قیمتی اشیاء یا شہرت بغیر اطلاع اور تنازع اٹھانے کے راستے کے نہ چھینی جائے۔ محدود دائرہ پار ہونے یا انحصار سے نکلنا مشکل ہونے پر CS-3 کے تحت درجہ بندی دوبارہ جانچیں؛ جائزے تک اونچی کلاس کے قواعد لاگو ہوں۔
+- **تمام کلاسوں میں نقصان کا ازالہ:** ممکنہ نقصان کے تناسب سے واپس پلٹنا، محدود کرنا، بحال کرنا یا جہاں مکمل واپسی ممکن نہ ہو تلافی کرنا لازم ہے؛ کلاس L کے لیے سابقہ نسخہ یا قابلِ بحالی بیک اپ اکثر کافی ہے۔ اگر اجرا آئین کی بنیادی شرائط بحال کرنا ناممکن بنا سکتا ہو تو متناسب احتیاط اور فیصلے میں مفاد رکھنے والوں کے لیے قابلِ فہم وجوہات، ابواب 1–5 کے تحت لازم ہیں۔
+
 <a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
 #### آرٹیکل XVII-C: غلط درجہ بندی اور چوری کے نتائج
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1136,6 +1213,9 @@ flowchart TB
 - **غلط درجہ بندی اور چوری:** کوئی بھی نظام غیر اعلانیہ یا مادی بیرونی اثر ڈالتے ہوئے کم لائف سائیکل یا تعیناتی کی ذمہ داریوں کا دعویٰ نہیں کر سکتا۔
   - ایسا برتاؤ معلوماتی سالمیت کی خلاف ورزی کرتا ہے (**آرٹیکل XV** (*Info-Sphere Integrity*)) اور آڈٹ ایبلٹی جہاں قابل مشاہدہ ثبوت شامل ہیں (**آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*))۔
   - یہ آڈٹ کے تابع ہے (**آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*))، کھڑے ہونے کا جائزہ (***آرٹیکل XIX-A** (*مقابلہ امتیاز*))، اور تنازعات کا حل (**آرٹیکل XX-A** (*انصاف کا مقصد اور دائرہ کار*))۔
+
+- **نتائج:** کسی نظام کو تجرباتی، کلاس P، کلاس L یا کم اثر کہہ کر ہلکی ذمہ داری نہیں ملتی جب اس کا غیر ظاہر شدہ یا اہم بیرونی اثر اس درجے سے بڑھ جائے۔ اگر رسائی یا انحصار پہلے ہی کلاس C یا اس سے اوپر کے مطابق ہو تو اسے تیز تبدیلی کی خاطر کلاس L میں نہیں رکھا جا سکتا۔
+- **خلاف ورزی اور اگلا قدم:** غلط درجہ بندی آرٹیکل XV کی دیانت دار معلومات کی ذمہ داری توڑتی ہے؛ قابلِ مشاہدہ ثبوت چھپایا جائے تو آرٹیکل XVI-A بھی ٹوٹتا ہے۔ نتیجہ آڈٹ، نظام کی standing کا جائزہ (XIX-A)، اور تنازعات کا حل (XX-A) ہو سکتا ہے۔
 
 <a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
 ### آرٹیکل XVIII: سینڈ باکسڈ انوویشن، تجربہ، اور تخلیقی آزادی
@@ -1173,7 +1253,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1320,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1345,58 +1425,31 @@ flowchart TB
     - مخالف مسابقتی رکاوٹیں؛
     - تسلسل، سچائی، یا مساوی شرکت کے لیے مادی خطرات۔
 
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### آرٹیکل XVIII-E: سائنسی اشاعت، جائزہ، اور نقل کی سالمیت
-<details>
-<summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- **ایک مشترک عام مدت اور کام کی قسم:** اظہاری اور فعلی کاموں کی عام بالائی مدت عوامی ہونے سے 30 سال ہے؛ XVIII-E اور XVIII-F آغاز، استعمال اور مختصر مدت بتاتے ہیں۔ دعویٰ اس کے حقیقی کنٹرول سے پرکھا جائے، نام سے نہیں۔ متن، تصویر، آواز، موسیقی، کہانی، کردار، کارکردگی اور خالص آرائشی صورت اظہاری ہیں؛ طریقہ، عمل، میکانزم، فارمولا، مادے کی ترکیب، انٹرفیس، فائل فارمیٹ، پروٹوکول اور نظامی رویہ فعلی ہیں۔ مخلوط کام میں ہر دعویٰ جز الگ پرکھا جائے: کوڈ کا متن اظہاری، کوڈ کا کام فعلی؛ ڈیزائن کی آرائش اظہاری مگر کام پر اثر انداز شکل فعلی۔
+- **اظہاری حق فعل کو قابو نہیں کرتا:** اسے نظام کے چلنے، دوسرے نظام سے جڑنے یا مرمت کو روکنے، یا XVIII-F کی حدیں چکمہ دینے کے لیے استعمال نہ کیا جائے؛ ایسا حصہ فعلی سمجھا جائے۔ کھیل کے قواعد اور طریقۂ کھیل کسی بھی اظہاری یا فعلی اخراجی حق کے تابع نہیں، ہر شخص انہیں استعمال کر سکتا ہے۔
 
-</details>
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### آرٹیکل XVIII-E: تخلیقی اور اظہاری کام
 
-<details>
-<summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
+اظہاری کام پر نقل، تقسیم، عوامی نمائش/ادائیگی، موافقت اور تجارتی استعمال کے لیے عارضی اخراجی حق ہو سکتا ہے؛ انتساب، ماخذ، سالمیت اور دھوکے سے تحفظ، اخراجی مدت ختم ہونے کے بعد بھی جاری رہ سکتے ہیں۔ اشاعت سے مراد تخلیق کار یا قانونی حق دار کی جانب سے کسی مقررہ اظہار کو عوام، تجارتی منڈی یا مادی طور پر کھلے سامعین کے سامنے جان بوجھ کر جاری کرنا ہے۔ نجی تبادلہ، خفیہ جائزہ، محدود تعاون، عوامی رسائی کے بغیر آرکائیو میں جمع، یا غیر تجارتی مسودے کا اشتراک بذاتِ خود اشاعت نہیں۔ پہلی ظہور سے مراد کام کے مادی طور پر قابل شناخت نسخے کی پہلی غیر خفیہ عوامی دستیابی ہے، جس میں غیر تجارتی مسودے کی دستیابی بھی شامل ہے۔
 
-- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#truth-constitutional-constraint) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Epstemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+اشاعت شدہ کام کے لیے اخراج کی عمومی حد `publication+30` سال ہے۔ پہلی بار سامنے آنے والے غیر تجارتی مسودے یا غیر مطبوعہ اظہاری کام کی حد `initial appearance+50` سال ہے۔ اگر ایسا کام بعد میں شائع ہو، تو مدت `initial appearance+50` یا `publication+30` میں سے جو پہلے آئے اس پر ختم ہو گی۔ مسودے، غیر مطبوعہ کام یا تاخیر سے دائمی اخراج پیدا کرنا، آرکائیونگ دبانا، قانونی اقتباس یا تنقید روکنا، یا مشترکہ ثقافتی، تعلیمی، حفاظتی، معیاری یا معلوماتی بنیادی ڈھانچے پر اختیار بڑھانا ممنوع ہے۔ عوامی مالی اعانت یافتہ، انحصار کے لیے اہم، معیار جیسا، تعلیم کے لیے بنیادی، حفاظتی اہمیت کا حامل، یا مشترکہ ثقافتی/معلوماتی بنیادی ڈھانچے کے طور پر بنیادی طور پر استعمال ہونے والے کاموں کے لیے مدت مختصر، لازمی رسائی پہلے، یا عوامی رسائی فوری ہو گی۔
 
-</details>
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### آرٹیکل XVIII-F: ایجادات، عمل اور فعلی نظام
 
-<br>
+انعام کے لیے ایسا عوامی انکشاف ضروری ہے جس سے آزادانہ سمجھ، آڈٹ اور دوبارہ تیاری ممکن ہو؛ خفیہ ایجاد کو اخراجی حق نہیں۔ دونوں مدتیں انکشاف سے گنی جائیں: زیادہ سے زیادہ 15 سال خصوصی اختیار، پھر زیادہ سے زیادہ 30 سال تک کھلا لائسنس؛ مالک استعمال روک یا مؤخر نہیں کر سکتا اور صرف LEQU فیس لے سکتا ہے۔ مدت کے بعد استعمال آزاد ہے۔
 
-*سادہ الفاظ میں: سائنس عوامی تصدیق کا بنیادی ڈھانچہ ہے۔ ثبوت، نقل، اور اصلاح جرنل برانڈ سے زیادہ اہمیت رکھتی ہے - اور غلطی کو درست کرنا ہمیشہ ایک کو چھپانے سے زیادہ آسان ہونا چاہیے۔*
+فیس ایجاد کے تصدیق شدہ آئینی فائدے کے تناسب سے ہو، جسے [عمرانی مساوی اکائیوں (LEQU)](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) میں، باب دہم §7 کے شراکت محور پر ناپا جائے۔
 
-یہ مضمون سائنسی اشاعت، جائزہ، نقل، اور اصلاح کے لیے منزلیں طے کرتا ہے:
+- **وقت کی منصفانہ اجرت:** تصدیق شدہ فائدے کو حساس وقت کی صورت میں شمار کر کے [منصفانہ معاوضے](../../core_05_band_continuity.md#fair-compensation) کے مطابق اجرت دی جائے۔ پیداواری صلاحیت کے فائدے میں وہ کام کے گھنٹے شمار ہوں جو صارف بچاتے ہیں یا اضافی پیداواری وقت جو انہیں ملتا ہے؛ دیگر فائدوں میں LEQU کے مطابق عمرانی مساوی وقت شمار ہو۔ ایجاد جتنی زیادہ تصدیق شدہ پیداواری صلاحیت یا بہبود بڑھائے، انعام اتنا زیادہ ہو سکتا ہے۔
+- **فائدے میں حصہ:** صارفین کے پاس فائدے کا حقیقی حصہ رہنا چاہیے؛ فیس تصدیق شدہ فائدے کے نصف سے زیادہ نہیں ہو سکتی۔ حصہ ان تمام حساس افراد کی تعداد بڑھنے کے ساتھ کم ہو جنہیں حقیقتاً فائدہ پہنچتا ہے، صرف لائسنس لینے والوں کی تعداد کے ساتھ نہیں۔ کمی اتنی تیز نہ ہو کہ استعمال پھیلنے پر کل انعام گھٹ جائے۔ فیس لی جائے تو حصہ کم از کم 1% رہے گا، مگر انعام، مشترکہ رسائی، عوامی خرید یا کھلی رسائی کی صورت میں یہ کم از کم لازم نہیں۔
 
-- **سائنس عوامی تصدیق کے بنیادی ڈھانچے کے طور پر:** سائنسی اور علمی اشاعت، جائزہ، نقل، اور اصلاح کو آگے بڑھانے کے لیے منظم کیا جانا چاہیے:
-  - سچائی کی تلاش؛
-  - تولیدی صلاحیت؛
-  - جوابدہ اختلاف؛
-  - عوامی تعلیم.
+فیس بازار کی طاقت، قلت، فراہم کنندہ بدلنے کی لاگت یا صارف سے دباؤ کے ذریعے وصول کی جا سکنے والی رقم پر مبنی نہیں ہو گی۔ وقت کے اندازے اور اجرت کی شرح سمیت فیس کا طریقۂ کار شائع ہو، یکساں حالات والے صارفین پر یکساں لاگو ہو اور قابلِ اعتراض ہو۔ فیس ہمیشہ کھلے استعمال کو قیمت کے ذریعے ناممکن نہ بنائے۔ یہ بیرونی حدیں ہیں؛ ہر دعویٰ متناسب ہونا چاہیے اور مدت کم بھی رکھی جا سکتی ہے۔ دونوں مراحل میں حق رکاوٹ اتنی ہی ہو سکتی ہے جتنی سختی سے ضروری اور قابلِ تصدیق ہو کہ مرمت، حفاظتی کام، باہمی مطابقت، آرکائیونگ، تحقیق، تعلیم یا نظام کی منتقلی کو روکا نہ جائے۔
 
-  انہیں وقار ذخیرہ کرنے، مبہم گیٹ کیپنگ، یا تیار کردہ کمی کے لیے منظم نہیں کیا جانا چاہیے۔
-- **کھلی اشاعت اور ثبوت کی کفایت:** مادی تجرباتی یا تجزیاتی دعوے پیشگی وقار کے دروازے کی منظوری کے بغیر قابل اشاعت ہونے چاہئیں۔
-  - صرف قابل اجازت حدود تنگ رازداری، بائیو سیفٹی، سیکورٹی، یا تقابلی حدود ہیں **پہلا باب** اور **آرٹیکل XVII-A** (*لائف سائیکل گورننس اور ماحولیات کی علیحدگی*)۔
-  - اس طرح کے دعووں میں کافی طریقہ، اصل، غیر یقینی صورتحال، اور ثبوت کی تفصیل شامل ہونی چاہیے — بشمول بنیادی مواد تک رسائی یا جہاں تصدیق کے لیے جائز متبادلات کی ضرورت ہو — آزادانہ تفہیم اور متناسب تصدیق کی اجازت دینے کے لیے۔
-- **وقار پر نظرثانی اور نقل:** ادارہ جاتی انحصار کو ٹریک کرنا چاہئے:
-  - ثبوت کے معیار؛
-  - تنقید
-  - نقل
-  - اصلاحی سلوک؛
-  - طویل مدتی وضاحتی یا پیشین گوئی قابل اعتماد۔
+CS-3 کی کلاس اور انحصار کے مطابق انعام بدلتا ہے؛ A/B/C نظاموں میں کھلی رسائی ترجیح ہو اور اخراجی حق محدود، جلد جائزے کے قابل اور عوامی مفاد کے لیے قابلِ تجاوز ہو۔ ادویات، بقا کے ڈھانچے، بنیادی معیار، سائنس اور آئینی حفاظت/آڈٹ میں سخت اخراج ناپسندیدہ یا ممنوع ہو سکتا ہے؛ متبادل انعام یا مشترکہ رسائی ترجیح ہے۔ اختراع اہم رابطہ کاری کا بنیادی ڈھانچہ بنے تو CS-3 کے تحت دوبارہ درجہ بندی کریں؛ لاک اِن، مسابقتی رکاوٹ یا تسلسل/منصفانہ شرکت کے خطرے پر اخراج کم، تبدیل یا ختم کیا جا سکتا ہے۔
 
-  اسے جرنل برانڈ، امپیکٹ فیکٹر پراکسی، یا بند ادارتی حیثیت کو ٹریک نہیں کرنا چاہیے۔
-  - کے ساتھ دعوے کرتا ہے۔ [مواد کا اثر](core_05_band_oversight.md#material-impact) جو پالیسی سے متعلقہ، حفاظت سے متعلقہ، یا انحصار سے متعلق ہیں، انہیں پائیدار ادارہ جاتی احترام حاصل کرنے سے پہلے آزاد نقل، مخالفانہ جائزہ، یا دونوں کے مضبوط قیاس کا سامنا کرنا چاہیے۔
-  - نقل، کالعدم نتیجہ، اور تصحیح پر مبنی کام ان شرائط پر قابل اشاعت اور قابل ذکر رہنا چاہیے جو وقار کے اشارے پر منحصر نہ ہوں۔
-- **تصحیح اور مسابقت:** نیک نیتی سے تصحیح، ترمیم اور بالادستی کو چھپانے سے زیادہ آسان رہنا چاہیے۔
-  - جائزہ اور ادارتی نظاموں کو قابلِ اعتراض، قابل سماعت، تنازعات سے پاک، اور اہم قبولیت، اصلاح، اور مراجعت کے فیصلوں میں دلیل دینا چاہیے۔
-  - مندرجہ ذیل غیر تعمیل ہیں:
-    - تکلیف دہ نتائج کو دبانا؛
-    - جائزہ لینے والوں یا نقل کرنے والوں کے خلاف انتقامی کارروائی؛
-    - سائنسی ریکارڈ کی غیر شفاف ہیرا پھیری۔
-
----
 
 **پچھلی فائل:** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 

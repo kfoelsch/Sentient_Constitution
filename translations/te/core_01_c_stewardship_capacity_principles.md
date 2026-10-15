@@ -634,6 +634,45 @@ flowchart TB
 
 <br>
 
+<a id="176-portable-competence"></a>
+#### 17.6 బదిలీ చేయగల సామర్థ్యం
+<details>
+<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+
+- పూర్వాధారం: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (నేర్చుకోవడం, కార్యాచరణ అనే రెండు విధుల మధ్య మార్పు); [§16.2 Institutional Development](#162-institutional-development) (నిలుపుకున్న సామర్థ్యం); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (రికార్డు పాత్రకు చెందుతుంది).
+- [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)తో చదవండి: ఒకరికి మించి తనిఖీ చేయగల **పర్యవేక్షణ**, విధులు కలిసే చోట సమస్యను ముందుగానే గుర్తించే **సకాలికత**, ముఖ్యమైన పనిలోకి ప్రవేశానికి తెరిచిన మార్గాలైన **భాగస్వామ్యం**; [material stake](core_00_preamble.md#material-stake)కు అనుగుణమైన స్థాయి.
+- [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship), [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence), [§19.3 Misalignment Detection](#193-misalignment-detection) (బహుళ స్వతంత్ర గుర్తింపు), [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response)తో చదవండి.
+- పరిమితులు: [§18.3 Segregation of Duties](#183-segregation-of-duties), [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (ఒక బాధ్యత నేర్చుకోవడం దానిని చేపట్టడంకాదు), [Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances), [§17.5 Duty to Resist](#175-duty-to-resist), [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- తదుపరి అమలు: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) (సంజ్ఞ జీవి స్థాయిలో ఏకైక వైఫల్య బిందువు లేకుండా); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
+
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Institutional Development](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Distributed Understanding](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+*సరళంగా చెప్పాలంటే:* పరిణామకరమైన పని ఒక్క సజ్ఞాన జీవి జ్ఞాపకంపై మాత్రమే ఆధారపడకూడదు. వ్యవస్థ ఎంత ముఖ్యమో, ఇతరులు దానిపై ఎంత ఆధారపడుతున్నారో, బాధ్యులు అప్పగించడం, వివరించడం, పరస్పరం తనిఖీ చేయడం, విధులు కలిసే చోట సమస్యను గుర్తించడం అంతగా చేయగలగాలి. ఇది కవరేజీ, అవగాహనకు కనీస స్థాయి; అందరూ ప్రతి పనిలో మారుతూ ఉండాలని కాదు.
+
+పాత్రలోని సామర్థ్యం ఆ పాత్రకూ దానిపై ఆధారపడే సమూహాలకూ చెందుతుంది; ఒక్క స్టీవర్డ్‌కు కాదు. ప్రాముఖ్యత, ఆధారపడుదల మేరకు:
+- **కవరేజీ:** ఒకరి కంటే ఎక్కువ అర్హతగల సజ్ఞాన జీవులు పాత్రను చేయగలగాలి. అదే కారణంతో విఫలమయ్యే ప్రత్యామ్నాయం లెక్కలోకి రాదు; అదే లోపమున్న AI వ్యవస్థ ప్రతిలిపి ప్రత్యామ్నాయం కాదు.
+- **అప్పగింపును పరీక్షించాలి:** పత్రాలు మాత్రమే సామర్థ్య బదిలీని నిరూపించవు. వారసత్వం, అప్పగింతలను ఆచరణలో పరీక్షించి, కనిపించిన లోటును సరిచేయాలి.
+- **విధుల కలయికను అర్థం చేసుకోవాలి:** పక్కపక్క విధుల బాధ్యులు తప్పిన అప్పగింత లేదా ఒకవైపు బాగున్న కొలమానం మరోవైపు హాని చేయడం వంటి సమస్యలను గుర్తించేంత పరస్పర పనిని తెలుసుకోవాలి. ఇది అవగాహన, అధికారం కాదు.
+- **పాత్ర మార్పు సాధనం:** భద్రత, సమ్మతి అనుమతిస్తే మార్పిడి, జతపని లేదా తాత్కాలిక కవరేజీ ఉపయోగించవచ్చు; నైపుణ్యం పెరిగే వేగాన్ని మించకూడదు. ఎవరూ నైపుణ్యం పొందలేనంతగా పనిని పలుచన చేయకూడదు.
+
+**పరిమితులు:** తనిఖీ చేసే పని తాను చేసిన పని నుంచి వేరుగా ఉండాలి. బంధించే లేదా భద్రతా పాత్రకు ముందు సామర్థ్య ప్రమాణం చేరాలి; అప్పటివరకు పర్యవేక్షిత అభ్యాసమే. వ్యతిరేకించిన లేదా రక్షిత నివేదిక ఇచ్చిన వారిని పక్కకు నెట్టేందుకు బదిలీ/మార్పిడి/మళ్లీ శిక్షణ వాడకూడదు. అవగాహన ప్రవేశ అనుమతి కాదు: గోప్యత, భద్రత, కనీస అనుమతి, పాత్ర రికార్డులు కొనసాగుతాయి. అందరూ ప్రతి పాత్రలో మారాల్సిన అవసరం లేదు; సమర్థించగల ప్రత్యేక నైపుణ్యం, నివారించగల భారానికి తగిన ప్రయత్నం ఉండాలి. చిన్న బృందం నమ్మదగిన సభ్యుల పరస్పర కవరేజీతో నెరవేర్చవచ్చు. ఇదే బాధ్యత మానవ, AI స్టీవర్డ్లకు వర్తిస్తుంది.
+
+---
+
 <a id="18-governance-under-stewardship-discipline"></a>
 ### 18. సంరక్షకత్వ క్రమశిక్షణ కింద పాలన
 

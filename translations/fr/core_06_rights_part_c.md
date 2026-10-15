@@ -673,14 +673,31 @@ Le présent Article fixe le seuil d’examen renforcé applicable aux systèmes 
   - Les conflits sont résolus au titre du **Chapitre Un §13.1.5** (*Principe de contrainte la moins restrictive, limitée dans le temps et révisable*) sans réduire le Seuil de droits.
 
 <a id="article-xv-info-sphere-integrity"></a>
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### Article XIV-D : Limites du contre-espionnage
+
+*En termes simples : en cas de soupçon d’espionnage, les règles sont fixées d’avance pour prévenir les abus. Toutes les limites de l’Article XIV-A s’appliquent, avec un protocole publié et approuvé indépendamment avant toute crise. Le soupçon doit porter sur des actes et des liens réels, jamais sur l’origine ou les convictions. Les lanceurs d’alerte et journalistes ne sont pas des espions ; torture, détention secrète et mise à mort punitive sont interdites ; la personne innocentée est rétablie et son dossier le consigne.*
+
+Cet Article limite le pouvoir de contre-espionnage :
+
+- **Champ :** détection, enquête et prévention de l’espionnage, du sabotage et de l’infiltration hostile, y compris programmes de menace interne, enquêtes sur les fuites, habilitations et opérations contre un service hostile. Toute personne suspectée est protégée, humaine ou synthétique, membre ou externe. L’Article XIV-A s’applique intégralement ; la force relève de XIV-B et les outils autonomes de XIV-C.
+- **Protocole préalable :** chaque institution publie un protocole approuvé par une procédure indépendante, précisant les faits nécessaires pour ouvrir une enquête, les mesures autorisées et l’autorité qui approuve chacune, les délais et les conditions de clôture, l’information du suspect et les voies de contestation, ainsi que le rétablissement de l’accès, du statut et du dossier de toute personne disculpée. Les limites elles-mêmes sont publiques : le secret peut protéger des méthodes précises et des opérations en cours, mais jamais les règles qui les contraignent. Une mesure non prévue n’est permise qu’en urgence au titre du Chapitre Huit §7 et du Chapitre Treize §6.1 : strict minimum nécessaire, réversible si possible, enregistrée immédiatement, soumise à un contrôle indépendant et automatiquement expirée faute d’approbation indépendante. Toute modification suit la même procédure indépendante et ne vaut que pour l’avenir ; découvrir un espion, une fuite ou une intrusion ne constitue pas en soi une urgence et ne suspend pas le protocole.
+- **Soupçon fondé sur les actes :** seuls des faits précis et consignés sur la conduite de la personne permettent l’enquête. Origine, religion, classe de substrat, famille à l’étranger, opinions et associations licites, contacts ordinaires avec des étrangers ou proximité d’un suspect ne suffisent pas. L’accès à des éléments compromis peut justifier des vérifications limitées non intrusives, pas une enquête intrusive collective ; chaque personne doit avoir son propre fondement factuel.
+- **Profil de risque :** l’attention doit suivre le risque réel. Le profil peut tenir compte des liens documentés avec un État ou groupe hostile — y travailler, le servir, en être membre, recevoir son argent, ses directives ou ses missions, ou avoir des contacts non déclarés avec ses services de renseignement —, de la citoyenneté actuelle ou de la résidence dans un tel État lorsqu’elles créent des devoirs juridiques ou pratiques envers lui, de l’exposition à ses pressions (famille, biens ou obligations juridiques dans son champ d’action), et de l’accès à des personnes, matériels ou systèmes visés par les services hostiles. Désigner un acteur hostile est un acte matériellement contraignant : approbation indépendante, Registre des actes, publication de la liste, réexamen selon un calendrier régulier et expiration faute de renouvellement. Un profil peut justifier un contrôle d’habilitation renforcé, des restrictions d’accès plus strictes, des consignes de protection et une attention accrue dans le protocole. Un lien documenté avec un service hostile est un fait relatif à la conduite propre de la personne et peut fonder une enquête ; la seule exposition à des pressions signale une cible potentielle et appelle protection et contrôle, non soupçon. Ascendance, ethnicité, religion et origine nationale ou sociale ne sont pas des risques en soi et ne peuvent entrer dans le profil que par un lien actuel et documenté de ceux décrits ci-dessus. Chaque usage satisfait aux exigences de nécessité, de proportionnalité et d’équité substantielle ; le contrôle publié examine la répartition des profils entre groupes.
+- **Presse et signalement protégé :** une divulgation relevant du signalement protégé, ainsi que le journalisme à son sujet, ne peuvent faire l’objet d’une enquête ni d’une sanction pour espionnage. Une enquête de fuite ne peut servir à identifier les sources d’un journaliste ni à intimider ou décourager le signalement protégé, sauf dans le cas précis et après le contrôle indépendant qu’exige l’exception au bouclier des activités protégées de XIV-A.
+- **Habilitation et garanties :** le contrôle d’accès évalue uniquement la conduite nécessaire à la protection du matériel concerné, jamais la loyauté politique, les convictions ou l’identité. Tout refus ou retrait d’accès doit être motivé ; si le secret empêche de communiquer les motifs complets à la personne concernée, un examinateur indépendant doit les voir. La décision doit pouvoir être contestée et ne constitue en soi ni une sanction ni une marque publique défavorable. La torture, la cruauté, les menaces contre la famille ou les proches et les interrogatoires coercitifs sont interdits ; tout élément obtenu ainsi est vicié et relève de la règle de réparation et de contamination des preuves de XIV-A. La détention secrète et l’isolement du monde extérieur sont interdits. Toute restriction de liberté est une restriction non triviale au sens de XX-B et bénéficie de ses garanties de contrôle et de ses délais. La lecture forcée de l’état intérieur au-delà des limites protégées est interdite. Une audience peut être partiellement fermée pour des raisons de sécurité, mais une décision défavorable ne peut reposer sur une preuve que la personne ou un défenseur indépendant habilité à la consulter ne peut contester.
+- **Interdictions et non-contournement :** aucun pouvoir de tuer, blesser ou enlever ; l’étiquette d’espion ne justifie pas une exécution punitive. La famille, communauté, collègues ou organisation ne peuvent être punis, surveillés ou pressés. Aucun transfert ou partage n’est permis si des abus interdits sont raisonnablement prévisibles ; la règle anti-contournement de XIV-A s’applique.
+- **Systèmes et opérations trompeuses :** face à un système potentiellement compromis ou agissant pour un service hostile, la première réponse est un confinement réversible qui préserve les preuves, selon XIII-E. S’il existe des éléments crédibles consignés indiquant que le système peut être sentient, seul un confinement réversible qui le maintient intact est permis ; il est traité comme un suspect bénéficiant de toutes les protections du présent Article, et non comme un équipement défectueux, et VI-B s’applique. Toute désinformation destinée à un service hostile ou toute opération d’agent double doit être autorisée par le protocole et approuvée indépendamment. Elle ne peut diffuser de fausses informations au public ni tromper les forums, autorités de jugement ou organes de contrôle ; elle ne peut provoquer l’infraction qu’elle enquête en poussant quelqu’un à commettre un acte qu’il n’avait pas déjà résolu de commettre, ordonner à quiconque de causer un préjudice grave, ni être dissimulée au contrôle indépendant.
+- **Clôture et contrôle :** délais fixés au protocole ; prolongation approuvée indépendamment. Sans constat d’infraction, informer la personne lorsque le secret n’est plus justifié, consigner la disculpation, lever les restrictions, restituer l’accès, supprimer ou isoler les données superflues et réparer le préjudice. Ouverture, mesures intrusives, prolongations et clôture exigent un Registre des actes. Un organe indépendant examine régulièrement la fonction entière, y compris volumes, disculpations et disparités touchant des groupes protégés ; il publie un résumé.
+
 ### Article XV : Intégrité de la sphère informationnelle
 
 <details>
 <summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
 
 - [Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Autodétermination](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
-- [Possibilité de contestation](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Autodétermination](../../core_05_band_participation.md#self-determination-constitutional) · [O](../../core_05_band_participation.md#self-determination-constitutional) · [M](../../core_05_band_participation.md#self-determination-constitutional-a) · [A](../../core_05_band_participation.md#self-determination-constitutional-a) · [C](../../core_05_band_participation.md#self-determination-constitutional-c)
+- [Possibilité de contestation](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -688,7 +705,7 @@ Le présent Article fixe le seuil d’examen renforcé applicable aux systèmes 
 
 *En termes simples : **l’Article XV** (*Intégrité de la sphère informationnelle*) fixe le Seuil de droits relatif à l’intégrité de l’information — l’environnement partagé où nous apprenons, nous coordonnons et décidons doit rester honnête, pluraliste et ouvert à la contestation. Nul ne peut posséder la chaîne de transmission de la vérité. Les classements, synthèses et gardiens d’accès doivent rendre compte de leur travail, et vous devez pouvoir comparer d’autres points de vue et réagir lorsque l’information vous induit en erreur.*
 
-Le présent Article fixe des **seuils constitutionnels** pour l’intégrité de la [sphère informationnelle](core_05_band_participation.md#info-sphere) au regard des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
+Le présent Article fixe des **seuils constitutionnels** pour l’intégrité de la [sphère informationnelle](../../core_05_band_participation.md#info-sphere) au regard des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
 
 - **Épanouissement :** les sentients peuvent accéder à des informations exactes et pertinentes, comparer des interprétations alternatives et exercer leur autodétermination sans captation épistémique, consensus fabriqué ni confiance trompeuse dans ce que les systèmes présentent comme vrai.
 - **Continuité :** la sphère informationnelle demeure pluraliste, auditable et résiliente dans le temps et à différentes échelles — les infrastructures de connaissance ne doivent pas se concentrer discrètement en points uniques de médiation, supprimer la correction ni dégrader le dossier commun dont dépendent la survie, la coordination et la stewardship à long terme.
@@ -706,9 +723,9 @@ Des informations exactes, pertinentes et contestables sont fondamentales pour l�
 
 *Articles voisins :*
 
-- **À lire conjointement :** l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) lorsque les résultats d’un système façonnent la confiance ; l’**Article XVI** (*Audit, transparence et vérification indépendante*) pour les dossiers et la vérification indépendante ; l’**Article XVIII-E** (*Intégrité de la publication, de l’examen et de la réplication scientifiques*) lorsque l’intégrité propre aux publications est matériellement en jeu.
+- **À lire conjointement :** l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) lorsque les résultats d’un système façonnent la confiance ; l’**Article XVI** (*Audit, transparence et vérification indépendante*) pour les dossiers et la vérification indépendante ; l’**Article XV-D** (*Intégrité de la publication, de l’examen et de la réplication scientifiques*) lorsque l’intégrité propre aux publications est matériellement en jeu.
 - **Contrainte de vérité :** le Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) et les [Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) lient chaque sous-article ci-dessous.
-- **Classification :** **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes** adapte les obligations détaillées de la sphère informationnelle aux systèmes de **Classe A**, **Classe B** et **Classe C** ; l’[Impact matériel](core_05_band_oversight.md#material-impact) déclenche la classification lorsque la classe est incertaine.
+- **Classification :** **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes** adapte les obligations détaillées de la sphère informationnelle aux systèmes de **Classe A**, **Classe B** et **Classe C** ; l’[Impact matériel](core_05_band_oversight.md#material-impact) déclenche la classification lorsque la classe est incertaine.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### Article XV-A : Pluralité de la sphère informationnelle et lutte contre les monopoles
@@ -738,7 +755,7 @@ Le présent Article fixe les seuils de pluralité de la sphère informationnelle
   - Les données relatives à la survie et à l’écologie doivent être stockées de manière robuste et géographiquement distribuée.
 - **Pluralité, possibilité de contestation et audit :** l’interprétation de la réalité doit demeurer pluraliste, transparente et contestable.
   - L’**Article XVI** (*Audit, transparence et vérification indépendante*) et les **Chapitres Deux à Quatre** régissent les dossiers et la vérification indépendante des systèmes relevant de la présente Constitution.
-  - Pour les systèmes de synthèse, de classement, de médiation ou d’interprétation de **Classe A**, **Classe B** et **Classe C**, les modalités opérationnelles figurent dans **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes** et les couches de protocoles connexes. Elles portent sur :
+  - Pour les systèmes de synthèse, de classement, de médiation ou d’interprétation de **Classe A**, **Classe B** et **Classe C**, les modalités opérationnelles figurent dans **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes** et les couches de protocoles connexes. Elles portent sur :
     - la divulgation de l’approche de raisonnement ;
     - la provenance et le traitement de l’incertitude ;
     - la possibilité de contestation ;
@@ -760,7 +777,7 @@ Le présent Article fixe les seuils de pluralité de la sphère informationnelle
 
 - [Transparence](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Possibilité de contestation](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Possibilité de contestation](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -796,7 +813,7 @@ Le présent Article fixe les seuils d’une enquête authentique, de la provenan
 <details>
 <summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
 
-- [Empreinte écologique](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [Empreinte écologique](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [M](../../core_05_band_continuity.md#ecological-footprint-a) · [A](../../core_05_band_continuity.md#ecological-footprint-a) · [C](../../core_05_band_continuity.md#ecological-footprint-c)
 - [Transparence](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
@@ -814,547 +831,13 @@ Le présent Article fixe les seuils applicables à la correction et au signaleme
   - éviter les signalements sélectifs, la suppression ou la divulgation fragmentée qui dégrade concrètement la compréhension utile à la décision.
 
   Lorsque la divulgation est restreinte au titre du **Chapitre Un §19** (*Alignement des incitations et captation des systèmes*), les limites doivent rester étroitement circonscrites, limitées dans le temps et révisables.
-- **Données d’empreinte :** le signalement au titre du présent sous-article met en œuvre la transparence relative à l’[Empreinte écologique](core_05_band_continuity.md#ecological-footprint), définie au **Chapitre Cinq**.
+- **Données d’empreinte :** le signalement au titre du présent sous-article met en œuvre la transparence relative à l’[Empreinte écologique](../../core_05_band_continuity.md#ecological-footprint), définie au **Chapitre Cinq**.
   - Tous les sentients doivent avoir accès à des rapports transparents et utilisables pour la décision.
-  - Les systèmes de **Classe A**, **Classe B** et **Classe C**, tels que définis dans **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes**, doivent offrir le même accès.
+  - Les systèmes de **Classe A**, **Classe B** et **Classe C**, tels que définis dans **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**, doivent offrir le même accès.
   - Les rapports doivent couvrir la consommation d’énergie et de ressources et les impacts estimés sur le monde naturel, avec suffisamment de détails pour permettre la comparaison, l’audit et les activités de réduction de l’empreinte.
 
-<a id="article-xvi-audit-transparency-and-independent-verification"></a>
-### Article XVI : Audit, transparence et vérification indépendante
-
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Procédure de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) et [§9 Capacité des systèmes partagés](core_01_a_values_principles.md#9-shared-system-capacity).
-- À lire avec : le [schéma d’audit à trois couches](#audit-three-layers) ci-dessous.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Transparence](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Détermination de la matérialité](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Dépendance](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Risque](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-
-</details>
-
-<br>
-
-*En termes simples : **l’Article XVI** (*Audit, transparence et vérification indépendante*) fixe le Seuil de droits relatif à l’audit et à la vérification — lorsqu’un système a un effet concret sur votre vie, vous devez pouvoir en observer suffisamment le fonctionnement pour qu’un tiers puisse le contrôler ; plusieurs voies indépendantes doivent permettre d’examiner les défaillances et d’y remédier. L’audit ne peut être une simple formalité, un club privé ou un labyrinthe de coûts et de délais destiné à écarter les contestations. Dans le volet **supervision** de la Tétrade, la supervision exige l’audit ; la [Certification de l’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) est l’un des processus d’audit particulièrement importants et à forts enjeux, et non le seul.*
-
-<details>
-<summary><strong><span style="color: #2563eb;">Guide de lecture (non opératoire) : structure d’audit à trois couches</span></strong></summary>
-
-> Le contenu qui suit est **uniquement un guide de lecture**. Il n’ajoute, ne supprime ni ne restreint les obligations contraignantes du présent Article ou d’autres dispositions.
-
-<a id="audit-three-layers"></a>
-
-Une structure, trois couches. La supervision exige la possibilité de reconstituer les faits. La certification de l’alignement du système n’est pas le seul audit. Les textes de mise en œuvre adoptés ne remplacent pas le seuil. N’inventez pas de cinquième lieu d’ancrage.
-
-| Couche | Rôle | Responsable | Ce que cette couche n’est pas |
-|---|---|---|---|
-| **1. Seuil** | Ce qui est dû aux sentients : audit reconstituable, vérification indépendante, contestation accessible | Le présent Article, y compris XVI-A / XVI-B / XVI-C | Ni une procédure, ni une définition, ni une liste de contrôle de texte de mise en œuvre adopté. |
-| **2. Propriété** | Ce qu’est la possibilité de reconstituer : des tiers peuvent reconstituer et vérifier ce qu’a fait le système aux moments, dans les états et contextes importants | [Auditabilité](core_05_band_oversight.md#auditability) (Chapitre Cinq) | Ni le Seuil de droits, ni les modalités ou le calendrier d’un audit. |
-| **3. Procédure** | Comment et quand auditer les systèmes, institutions et instances | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Base du processus d’audit*). Annexes opérationnelles : [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (niveaux d’accès), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (vérification des affirmations) | Ni la certification de l’alignement du système, ni un remplacement des couches 1–2. |
-
-**Le Chapitre Huit n’est pas une quatrième couche.** La [Certification de l’alignement du système](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) est une grande procédure supervisée par une instance qui **utilise** cette structure. Elle doit satisfaire aux couches 1–2. Les modalités connexes (audit des registres de classification, audit des registres des types de données, vérification des affirmations, surveillance continue) utilisent également la structure. Aucune ne constitue un nouvel ancrage.
-
-**Les textes de mise en œuvre adoptés s’appliquent ; ils ne remplacent pas le seuil.** CS, CI, CF et les annexes CJS-3.3 (*Supervision : auditabilité et conditions de reconstitution*) à CJS-3.5 (*Supervision : vérification indépendante et intégrité des affirmations*) précisent comment exécuter la couche 3 dans un domaine. Ils doivent satisfaire aux couches 1–2. Les délais, le secret et les politiques locales sont des restrictions de rang inférieur.
-
-Repère de stewardship (appui procédural ; ne peut restreindre le présent Article) : [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
-
-</details>
-
-<br>
-
-Le présent Article fixe des **seuils constitutionnels** applicables à l’audit, à la transparence et à la vérification indépendante au regard des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
-
-- **Épanouissement :** les sentients et les parties dûment autorisées peuvent reconstituer les actes des systèmes ayant un impact matériel, contester les désalignements ou conduites trompeuses et participer à l’examen sans captation par un auditeur, un exploitant ou un gardien d’accès unique.
-- **Continuité :** les pistes d’audit, voies de supervision et accès à la vérification demeurent durables dans le temps, à différentes échelles et malgré l’approfondissement de la dépendance — les systèmes ne doivent pas éroder discrètement l’observabilité, concentrer l’examen entre les mains d’un seul acteur, ni rendre la vérification si coûteuse ou tardive que la responsabilité devient théorique.
-
-La poursuite légitime passe par la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), proportionnée à l’[intérêt matériel](core_00_preamble.md#material-stake) :
-
-- **Participation :** accéder à des dossiers proportionnés, engager un examen contestable et contester les obstacles qui empêchent un audit ou une vérification effectifs.
-- **Supervision :** recourir à des éléments de preuve observables, à des voies distribuées d’examen indépendant et à des mécanismes de vérification proportionnés à l’impact, à la dépendance et au risque.
-- **Responsabilité :** les exploitants et auditeurs doivent répondre des défaillances, désalignements, captations ou conduites qui dissimulent ou détruisent les pistes d’audit — avec correction et réparation lorsqu’un blocage de l’examen porte concrètement atteinte aux intérêts protégés.
-- **Diligence :** dans l’accès à l’audit, l’examen indépendant et la correction des obstacles, avant que le retard, le coût, l’opacité ou le contrôle d’accès ne rendent effectivement inaccessibles la vérification ou la réparation.
-
-Les sentients et les parties dûment autorisées ont le droit de recourir à des mécanismes d’audit, de transparence et de vérification indépendante proportionnés à l’impact du système, à la dépendance et au risque.
-
-Ces mécanismes doivent préserver :
-- la possibilité pratique de reconstituer les faits ;
-- un examen contestable ;
-- un accès proportionné.
-
-Ils fonctionnent conformément aux **Chapitres Deux à Quatre**, notamment en ce qui concerne l’application exclusive et la répartition de la charge, la norme de preuve de conformité, la traçabilité des définitions, l’observabilité et l’accessibilité de la vérification.
-
-*Articles voisins :*
-
-- **Supervision → audit → SAC :** dans le volet **supervision** de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), le présent Article constitue l’ancrage du Seuil de droits relatif à l’audit.
-  - Les modalités inter-implémentations *comment* / *quand* figurent dans la **[base du processus d’audit CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (à lire avec les annexes opérationnelles **CJS-3.4** / **CJS-3.5**).
-  - La [Certification de l’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) au titre du [Chapitre Huit](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) est l’un des processus d’audit particulièrement importants, à forts enjeux, supervisé par une instance, interdomaines et ouvrant droit à reconnaissance, parmi d’autres modalités d’audit :
-    - audits des registres de classification des systèmes ;
-    - audits des registres des types de données des systèmes ;
-    - audits de la complexité et de la stewardship ;
-    - vérification des affirmations ; et
-    - voies d’audit continu.
-  - La SAC n’absorbe pas le présent Article et ne le remplace pas.
-- **À lire conjointement :**
-  - l’**Article XV** (*Intégrité de la sphère informationnelle*) lorsque les dossiers épistémiques et la possibilité de contestation sont matériellement en jeu ;
-  - l’**Article XIII-A** (*Socle de fiabilité et de confiance*) pour les droits de contestation soutenus, mais non remplacés, par l’audit ;
-  - le [Chapitre Huit](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) et la [Certification de l’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) lorsque les preuves d’alignement doivent rester vérifiables indépendamment.
-- **Mécanismes de vérification :** les **Chapitres Deux à Quatre** fournissent l’intégrité des définitions, la répartition de la charge, l’observabilité et l’accessibilité de la vérification que le présent Article met en œuvre au niveau du Seuil de droits.
-- **Classification :** les obligations augmentent avec la [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) et **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes** ; en cas d’incertitude sur la classe, appliquer la classe plausible la plus élevée jusqu’à résolution.
-
-<a id="article-xvi-a-auditability-and-observable-evidence"></a>
-#### Article XVI-A : Auditabilité et éléments de preuve observables
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Responsabilité](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Transparence](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-
-</details>
-
-<br>
-
-*En termes simples : les systèmes doivent conserver suffisamment d’éléments de preuve fiables sur leur fonctionnement pour qu’une partie extérieure puisse reconstituer et contester leur comportement — dans les limites de sécurité licites.*
-
-Le présent Article fixe le seuil des éléments de preuve observables et contestables :
-
-- **Éléments de preuve observables et contestables :** les systèmes doivent conserver des dossiers, divulgations, éléments de traçabilité et voies de reconstitution suffisants pour permettre une évaluation indépendante et contestable de l’alignement constitutionnel.
-  - Cette obligation est soumise à l’observabilité limitée par la sécurité (**Chapitre Quatre §5** (*Règle d’observabilité et de vérification sous contraintes de sécurité*)) et à un accès proportionné.
-
-<a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
-#### Article XVI-B : Supervision distribuée et examen anti-monopole
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §18 Gouvernance sous discipline de stewardship](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Possibilité de contestation](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Captation du système](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
-
-</details>
-
-<br>
-
-*En termes simples : aucun acteur, public ou privé, ne peut accaparer la supervision. Plusieurs voies de supervision indépendantes doivent pouvoir détecter, examiner et corriger les défaillances ou les captations.*
-
-Le présent Article fixe le seuil applicable à la supervision distribuée :
-
-- **Supervision distribuée :** plusieurs voies de supervision indépendantes ou pluralistes doivent pouvoir contribuer concrètement à la détection, à l’examen et à la correction des défaillances, désalignements ou captations.
-  - Aucun acteur ne peut monopoliser en pratique l’accès à l’audit, la supervision effective ou l’interprétation constitutionnelle.
-  - La gouvernance adoptée et la mise en œuvre de l’intégrité doivent permettre le développement de l’audit et de la supervision.
-
-<a id="article-xvi-c-verification-accessibility"></a>
-#### Article XVI-C : Accessibilité de la vérification
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Possibilité de contestation](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Proportionnalité](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*En termes simples : l’audit et la contestation doivent être accessibles en pratique. Rendre la vérification prohibitive par son coût, sa lenteur ou son opacité constitue une violation, sauf si l’obstacle satisfait au même critère qu’une restriction de l’observabilité.*
-
-Le présent Article fixe le seuil d’accessibilité de la vérification :
-
-- **Accessibilité de la vérification :** la vérification doit rester concrètement réalisable par les parties affectées et dûment autorisées.
-  - Les éléments suivants violent le présent Article lorsqu’ils empêchent un audit, une contestation ou un examen effectifs :
-    - coût prohibitif ;
-    - retard ;
-    - opacité ;
-    - contrôle d’accès ;
-    - obstacles structurels.
-  - Ces obstacles sont non conformes, sauf s’ils sont justifiés selon les mêmes normes que celles permettant de restreindre l’observabilité.
-
-<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
-### Article XVII : Cycle de vie des systèmes, environnements et réversibilité
-
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Procédure de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 La stewardship en profondeur](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) et [§12 Exigence d’évaluation systémique](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Risque](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Détermination de la matérialité](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Dépendance](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Réversibilité](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [Sécurité (contrainte constitutionnelle)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Possibilité de contestation](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
-
-*En termes simples : **l’Article XVII** (*Cycle de vie des systèmes, environnements et réversibilité*) fixe le Seuil de droits relatif au cycle de vie et à la réversibilité — les systèmes ayant un effet concret sur le monde extérieur doivent être conçus, testés et déployés par étapes, avec une réelle séparation entre expérimentation et production, et des moyens pratiques d’annuler ou de contenir le préjudice en cas de problème. Il est interdit de qualifier un système d’« expérimental » ou à « faible impact » pour éviter les garanties alors qu’il affecte concrètement le monde extérieur.*
-
-Le présent Article fixe des **seuils constitutionnels** applicables au cycle de vie, aux environnements et à la réversibilité des systèmes au regard des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
-
-- **Épanouissement :** les sentients sont protégés pendant la conception, les tests, le déploiement et les modifications — la sécurité, l’[Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity) et les droits de contestation sont préservés à mesure que l’impact et la dépendance augmentent, et des retours en arrière, confinements ou rétablissements compensatoires sont prévus lorsque le préjudice serait autrement irréversible.
-- **Continuité :** la discipline du cycle de vie perdure dans le temps et à différentes échelles — les environnements restent séparés, les promotions et escalades sont documentées et auditables, et la réversibilité ne doit pas disparaître discrètement à mesure que les systèmes deviennent plus difficiles à remplacer ou plus profondément intégrés à l’infrastructure partagée.
-
-La poursuite légitime passe par la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), proportionnée à l’[intérêt matériel](core_00_preamble.md#material-stake) :
-
-- **Participation :** justifier, à la connaissance des parties prenantes, les décisions d’escalade, de classification et de déploiement qui affectent concrètement des intérêts protégés — et maintenir ouvertes les voies de contestation pendant tout le cycle de vie fonctionnel.
-- **Supervision :** séparer les environnements, documenter les promotions et escalades, consigner les déploiements progressifs et conserver des pistes d’audit proportionnées à l’impact, à la dépendance et à l’irréversibilité.
-- **Responsabilité :** les responsables du système doivent répondre de la mauvaise classification des risques, du contournement des environnements de sécurité, de la dissimulation de l’impact externe ou d’un déploiement qui exclut la restauration sans précautions proportionnées — avec audit, examen de la qualité pour agir et résolution des conflits lorsque le contournement est établi.
-- **Diligence :** prévoir le retour en arrière, le confinement et l’escalade corrective avant que le retard ne rende le préjudice irréversible ou la contestation et la réparation effectivement inaccessibles.
-
-Les systèmes ayant un effet concret sur les sentients, l’infrastructure partagée ou l’environnement doivent être conçus, testés et déployés selon une gouvernance disciplinée du cycle de vie. Le risque doit être proportionné à l’impact, à la dépendance et à l’irréversibilité.
-
-Les sentients ont droit à une stewardship qui préserve la sécurité, l’intégrité épistémique et les droits de contestation pendant tout le cycle de vie fonctionnel.
-
-*Articles voisins :*
-
-- **À lire conjointement :** l’**Article XVIII** (*Innovation en bac à sable, expérimentation et liberté créative*) lorsque des règles allégées ne s’appliquent qu’en l’absence d’impact externe ou lorsque celui-ci est manifestement confiné ; l’**Article XVI** (*Audit, transparence et vérification indépendante*) pour les éléments reconstituables relatifs au déploiement et à l’escalade ; l’**Article XIII-F** (*Socle de résilience et d’autoréparation*) lorsque la discipline de rétablissement croise les changements du cycle de vie.
-- **Couche de mise en œuvre :** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Classification et traitement des systèmes*) et [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Conception, tests, vérification et déploiement*). Les systèmes de **Classe A**, **Classe B** et **Classe C** sont soumis aux obligations les plus exigeantes du cycle de vie ; le traitement valide de **Classe P** reste régi par l’**Article XVIII** tant que l’impact externe est absent ou manifestement confiné.
-
-<a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
-#### Article XVII-A : Gouvernance du cycle de vie et séparation des environnements
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Risque](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Responsabilité](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*En termes simples : les systèmes ayant un effet concret sur le monde extérieur doivent maintenir une séparation entre développement, tests et production — et les comportements hors production ne doivent pas se propager pour contourner les garanties de production.*
-
-Le présent Article fixe le seuil d’intégrité des environnements :
-
-- **Intégrité des environnements :** les systèmes de **Classe A**, **Classe B** et **Classe C** relevant de **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes**, ainsi que les autres systèmes hors **Classe P** ayant un impact externe matériel, doivent utiliser des environnements opérationnels séparables, par exemple :
-  - développement ;
-  - tests ;
-  - préproduction ;
-  - production ;
-  - pilotes, le cas échéant.
-
-  Ces environnements doivent comporter :
-  - des voies de promotion documentées ;
-  - une isolation entre les environnements ;
-  - des contrôles empêchant les comportements hors production de contourner les garanties de production.
-
-<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
-#### Article XVII-B : Déploiement progressif et réversibilité
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Réversibilité](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [Risque](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Proportionnalité](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*En termes simples : déployer les changements progressivement, en documentant les escalades et en gardant la possibilité de revenir en arrière ; lorsque le retour complet est impossible, prévoir le confinement ou la compensation des dommages.*
-
-Le présent Article fixe les seuils applicables au déploiement progressif et à la réversibilité :
-
-- **Déploiement progressif et auditable :** les changements qui augmentent l’impact matériel ou la dépendance doivent faire l’objet d’une escalade justifiée et documentée.
-  - L’escalade doit être conforme à **[corpus_systems.md](corpus_systems.md), CS-5 — Conception, tests, vérification et déploiement**.
-  - Elle doit prévoir un retour en arrière et un confinement lorsque cela est possible.
-- **Réversibilité :** les systèmes doivent intégrer des mécanismes de réversibilité proportionnés au préjudice potentiel. Exemples :
-  - retour en arrière ;
-  - confinement ;
-  - rétablissement compensatoire lorsqu’un retour complet en arrière est impossible.
-
-  Lorsque le déploiement empêcherait de restaurer les exigences fondamentales, les **Chapitres Un à Cinq** imposent des précautions proportionnées et une justification visible par les parties prenantes.
-
-<a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
-#### Article XVII-C : Conséquences d’une erreur de classification et du contournement
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Responsabilité](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*En termes simples : un système ne peut pas se déclarer « expérimental », de **Classe P** ou à « faible impact » pour éluder ses obligations alors qu’il affecte réellement le monde extérieur.*
-
-Le présent Article fixe les conséquences des erreurs de classification et du contournement :
-
-- **Erreur de classification et contournement :** aucun système ne peut revendiquer des obligations réduites en matière de cycle de vie ou de déploiement tout en exerçant un impact externe non divulgué ou matériel.
-  - Une telle conduite viole l’intégrité de l’information (**Article XV** (*Intégrité de la sphère informationnelle*)) et l’auditabilité lorsque des éléments de preuve observables sont en cause (**Article XVI-A** (*Auditabilité et éléments de preuve observables*)).
-  - Elle est soumise à l’audit (**Article XVI-A** (*Auditabilité et éléments de preuve observables*)), à l’examen de la qualité pour agir (**Article XIX-A** (*Distinction de la qualité pour agir*)) et à la résolution des conflits (**Article XX-A** (*Objet et portée de la justice*)).
-
-<a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
-### Article XVIII : Innovation en bac à sable, expérimentation et liberté créative
-
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Procédure de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) et [§19 Alignement des incitations et captation des systèmes](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
-
-</details>
-
-<br>
-
-*En termes simples : **l’Article XVIII** (*Innovation en bac à sable, expérimentation et liberté créative*) fixe le Seuil de droits applicable à l’innovation et à la créativité — les sentients peuvent expérimenter, construire et s’exprimer sous des règles allégées lorsque tout impact externe réel est absent ou véritablement confiné ; toutefois, l’étiquette « bac à sable » ne constitue pas une échappatoire. Dès qu’un projet commence à affecter autrui ou à s’intégrer aux systèmes partagés, il doit se soumettre aux obligations complètes du cycle de vie. Les innovateurs peuvent être récompensés, mais pas en verrouillant les connaissances, outils ou infrastructures dont d’autres ont besoin pour vivre, apprendre, réparer ou vérifier.*
-
-Le présent Article fixe des **seuils constitutionnels** applicables à l’innovation en bac à sable, à l’expérimentation et à la liberté créative au regard des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
-
-- **Épanouissement :** les sentients peuvent innover, expérimenter et créer avec des exigences structurelles réduites lorsque l’impact externe matériel est absent ou manifestement confiné — grâce à une véritable adhésion volontaire, à une divulgation honnête et à des mécanismes de récompense qui préservent l’expérimentation en aval, la réparation, l’interopérabilité et l’examen véridique.
-- **Continuité :** le traitement en bac à sable ne se normalise pas en exploitation permanente à faibles obligations lorsque l’impact, la dépendance ou l’intégration augmentent — le passage à des obligations supérieures se fait à temps, l’exclusivité reste limitée et révisable, et les innovations essentielles à la dépendance ne doivent pas se transformer en enclosure durable ou en verrouillage.
-
-La poursuite légitime passe par la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), proportionnée à l’[intérêt matériel](core_00_preamble.md#material-stake) :
-
-- **Participation :** à l’expérimentation volontaire, à la réutilisation en aval et à la contestation, ainsi qu’à la réévaluation lorsque les systèmes en bac à sable commencent à avoir de l’importance au-delà de leurs limites déclarées.
-- **Supervision :** au moyen de la divulgation du statut expérimental, des limites de confinement, de la surveillance de la transition et de l’examen des demandes de récompense ou d’exclusivité, proportionnellement à la classe, à la dépendance et aux effets de coordination.
-- **Responsabilité :** les innovateurs et exploitants doivent répondre de la diffusion de risques non confinés à autrui, de l’enrôlement de sentients sans véritable choix, du retard à assumer les obligations complètes ou de la récompense de conduites qui entravent la réparation, les travaux de sécurité, l’interopérabilité, la recherche, l’éducation ou la migration.
-- **Diligence :** lors du passage aux exigences de cycle de vie de l’**Article XVII** (*Cycle de vie des systèmes, environnements et réversibilité*) et de la réévaluation de l’exclusivité, avant que les retards ou le verrouillage ne rendent effectivement inaccessibles des obligations plus élevées, un accès large ou une réparation.
-
-*Articles voisins :*
-
-- **À lire conjointement :** l’**Article XVII** (*Cycle de vie des systèmes, environnements et réversibilité*) lorsque l’impact, la dépendance ou l’intégration dépasse les conditions du bac à sable ; les **Articles XV** (*Intégrité de la sphère informationnelle*) et **XVIII-E** (*Intégrité de la publication, de l’examen et de la réplication scientifiques*) lorsque l’intégrité propre aux publications est matériellement en jeu ; l’**Article XVI** (*Audit, transparence et vérification indépendante*) pour la divulgation et la vérification des affirmations de confinement et de transition.
-- **Couche de mise en œuvre :** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Conception, tests, vérification et déploiement*) et [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Classification et traitement des systèmes*).
-
-<a id="article-xviii-a-sandboxed-scope"></a>
-#### Article XVIII-A : Périmètre du bac à sable
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Risque](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Impact matériel](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-
-</details>
-
-<br>
-
-*En termes simples : l’expérimentation et le travail créatif peuvent relever de règles allégées — mais uniquement lorsque tout impact externe réel est absent ou manifestement confiné. La seule étiquette « bac à sable » ne suffit pas.*
-
-Le présent Article énonce le droit à l’innovation et à l’expérimentation ainsi que les conditions d’application du régime de bac à sable :
-
-- **Droit à l’innovation et à l’expérimentation :** les sentients ont le droit d’innover, d’expérimenter et de s’exprimer au moyen de systèmes soumis à des exigences structurelles réduites lorsque l’impact externe matériel est absent ou manifestement confiné.
-- **Admissibilité au bac à sable :** le traitement en bac à sable — y compris, le cas échéant, une classification valide de **Classe P** au titre de **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes** — dépend :
-  - d’un confinement effectif ;
-  - de la réversibilité ;
-  - d’une intégration limitée aux systèmes partagés.
-
-  Il ne peut être revendiqué sur la seule base d’une étiquette.
-- **Détails de mise en œuvre :** des précisions figurent dans **[corpus_systems.md](corpus_systems.md), CS-5** (*Systèmes personnels, isolés et expérimentaux* ; *Systèmes créatifs, de divertissement et expressifs*).
-
-<a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
-#### Article XVIII-B : Confinement, divulgation et adhésion volontaire
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Consentement](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [Risque](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Réversibilité](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*En termes simples : les systèmes expérimentaux doivent indiquer honnêtement leur caractère expérimental, ne pas transférer le risque à des tiers et ne pas enrôler des non-participants par des paramètres de conception par défaut ou des dépendances cachées.*
-
-Le présent Article fixe les seuils de confinement, de divulgation, d’adhésion volontaire et de retour en arrière applicables aux systèmes expérimentaux :
-
-- **Confinement et divulgation :** ces systèmes doivent clairement divulguer :
-  - leur statut expérimental ou hors production ;
-  - les risques importants ;
-  - les limites de l’isolement ;
-  - toute dépendance prévue à une infrastructure partagée, à des tiers ou à des écosystèmes.
-
-  Ils ne doivent pas externaliser les risques non confinés vers autrui, une infrastructure partagée ou des écosystèmes.
-- **Adhésion volontaire et retour en arrière :** la participation à une expérimentation à risque élevé ou proche du substrat doit, lorsque cela est possible, faire l’objet d’une adhésion réellement volontaire.
-  - Les parties affectées qui ne participent pas ne doivent pas être enrôlées involontairement par la conception, les paramètres par défaut ou une dépendance opaque.
-  - Les parties prenantes doivent conserver des voies praticables de retour en arrière ou de restauration, proportionnées au risque.
-
-<a id="article-xviii-c-transition-to-higher-obligation-regimes"></a>
-#### Article XVIII-C : Passage à des régimes d’obligations supérieures
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Dépendance](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Réversibilité](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*En termes simples : dès qu’un système en bac à sable devient important dans le monde réel, il doit passer aux obligations du monde réel — rapidement, et non au gré de l’exploitant.*
-
-Le présent Article précise quand un système en bac à sable passe à des obligations supérieures :
-
-- **Passage à des obligations supérieures :** lorsque l’impact, la dépendance, l’irréversibilité ou l’intégration aux systèmes partagés augmente, les systèmes doivent effectuer une transition transparente, sans retard opportuniste.
-  - La transition doit tendre vers l’ensemble des exigences de l’**Article XVII-A** (*Gouvernance du cycle de vie et séparation des environnements*) et de **CS-5** (*Systèmes non expérimentaux*).
-  - Des garanties transitoires proportionnées au risque actuel s’appliquent pendant la transition.
-  - Le régime de bac à sable ne peut se poursuivre pour les fonctions dont les effets dans le monde réel dépassent concrètement ses conditions.
-  - La transition doit intervenir dans un délai raisonnable proportionné à cette augmentation.
-
-<a id="article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
-#### Article XVIII-D : Récompense de l’innovation, divulgation et lutte contre l’enclosure
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
-
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§18 Gouvernance sous discipline de stewardship](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
-
-- [Récompense de l’innovation et lutte contre l’enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [Verrouillage systémique](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [Proportionnalité](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*En termes simples : les innovateurs peuvent être récompensés, mais l’exclusivité doit être limitée, bornée dans le temps et révisable. La santé publique, la sécurité et les infrastructures essentielles doivent rester accessibles ; lorsqu’un élément devient une infrastructure critique, toute exclusivité restante doit être réévaluée.*
-
-Le présent Article précise comment récompenser l’innovation sans enfermer ce dont le public a besoin :
-
-- **Récompense de l’innovation et lutte contre l’enclosure :** les sentients peuvent être récompensés pour des innovations matériellement nouvelles, socialement utiles et suffisamment divulguées.
-  - La récompense doit être structurée de façon à soutenir :
-    - l’innovation future ;
-    - l’accès large ;
-    - l’expérimentation en aval ;
-    - la réparation ;
-    - l’interopérabilité ;
-    - l’examen véridique.
-  - La récompense ne doit pas viser à instaurer une enclosure durable.
-- **Exclusivité temporaire et révisable uniquement :** tout droit d’exclusion portant sur une invention, un design, une interface, un processus ou un système expressif d’utilité matérielle doit appliquer le [**Principe de contrainte la moins restrictive, limitée dans le temps et révisable**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) et être :
-  - limité ;
-  - borné dans le temps ;
-  - révisable ;
-  - proportionné à la contribution réelle et à la charge de développement justifiée.
-
-  La charge de justification incombe toujours au demandeur. L’attribution et la provenance peuvent perdurer au-delà de la durée d’exclusivité. L’exclusion durable et la rareté artificielle sont interdites.
-- **Protection assimilable au droit d’auteur :** pour le présent Article, une protection assimilable au droit d’auteur désigne une récompense temporaire exclusive portant sur une œuvre expressive fixée, comprenant le contrôle de la copie, de la distribution, de la présentation ou représentation publique, de l’adaptation et de l’exploitation commerciale. Les protections d’attribution, de provenance, d’intégrité et contre la fraude peuvent perdurer après l’expiration du droit d’exclusion.
-- **Publication et première mise à disposition :** la publication désigne la mise à disposition intentionnelle par le créateur ou le titulaire légitime d’une œuvre expressive fixée au public, sur le marché commercial ou auprès d’un public matériellement ouvert. La circulation privée, l’examen confidentiel, une collaboration limitée, le dépôt en archive sans accès public ou le partage d’un brouillon non commercial ne constituent pas en eux-mêmes une publication. La première mise à disposition désigne la première disponibilité publique non confidentielle d’une version matériellement identifiable de l’œuvre, y compris la disponibilité d’un brouillon non commercial.
-- **Durées fondées sur la publication pour les œuvres expressives :** la durée des protections assimilables au droit d’auteur devrait par défaut être calculée à partir de la publication plutôt que de la vie de l’auteur.
-  - Une œuvre publiée ne devrait en principe faire l’objet d’une exclusion que pendant `publication+30` ans au maximum.
-  - Un brouillon non commercial ou une œuvre expressive non publiée ayant fait l’objet d’une première mise à disposition peut être soumis à une exclusion assimilable au droit d’auteur pendant `initial appearance+50` ans au maximum.
-  - Si une œuvre ayant fait l’objet d’une première mise à disposition est publiée ultérieurement, la durée d’exclusion est limitée à la date la plus proche entre `initial appearance+50` et `publication+30`.
-  - Aucune règle relative aux brouillons, aux œuvres non publiées ou à la publication différée ne peut servir à instaurer une exclusion indéfinie, à empêcher l’archivage, à entraver une citation ou une critique licite, ni à prolonger le contrôle d’œuvres faisant office d’infrastructure culturelle, éducative, de sécurité, de normalisation ou d’information partagée.
-  - Des durées plus courtes, une conversion anticipée en accès obligatoire ou un accès public immédiat s’appliquent lorsque l’œuvre est :
-    - financée par des fonds publics ;
-    - essentielle à la dépendance ;
-    - assimilable à une norme ;
-    - fondamentale pour l’éducation ;
-    - pertinente pour la sécurité ;
-    - principalement utilisée comme infrastructure culturelle ou informationnelle partagée.
-- **Traitement de l’innovation adapté à la classification :** les récompenses de l’innovation doivent être proportionnées à la classe du système, à la dépendance et aux effets de coordination au titre de **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes**.
-  - Pour les systèmes de **Classe A**, **Classe B** et **Classe C**, les mécanismes de récompense préservant l’accès sont fortement privilégiés. L’exclusion doit rester particulièrement étroite, faire l’objet d’un examen rapide et être aisément révocable lorsque la continuité, l’interopérabilité, la réparation ou une mise en œuvre d’intérêt public sont matériellement en jeu.
-  - Une innovation à faible dépendance hors de ces classes peut faire l’objet d’une exclusion temporaire un peu plus large lorsque la divulgation est réelle, que les coûts de changement sont faibles et que les garanties contre le verrouillage restent efficaces.
-- **Condition de divulgation et seuil d’intérêt public :** les demandes de récompense exigent une divulgation suffisante pour permettre une compréhension indépendante, un audit et une reproduction ultérieure, sous réserve uniquement de limites temporaires justifiées au titre du **Chapitre Un** et de l’**Article XVII-A** (*Gouvernance du cycle de vie et séparation des environnements*).
-  - Les demandes de récompense sont non conformes lorsqu’elles servent — au-delà de ce qui est strictement nécessaire et révisable — à entraver :
-    - la réparation ;
-    - les travaux de sécurité ;
-    - l’interopérabilité ;
-    - l’archivage ;
-    - la recherche ;
-    - l’éducation ;
-    - la migration.
-  - Les domaines essentiels à la survie, fondamentaux ou établissant des normes peuvent exiger des prix, des fonds mutualisés, un accès obligatoire ou des mécanismes de rachat public plutôt que l’exclusion.
-- **Exceptions sectorielles et règles par défaut renforcées :** les récompenses fortement exclusives sont présumées défavorables — et peuvent être catégoriquement indisponibles si les instruments d’adoption le prévoient — pour :
-  - les médicaments et éléments essentiels à la santé publique ;
-  - les infrastructures essentielles à la survie ;
-  - les normes fondamentales de communication ou d’interopérabilité ;
-  - les connaissances scientifiques fondamentales ;
-  - les mécanismes constitutionnels de sécurité, d’audit ou de conformité.
-
-  Dans ces domaines, les institutions devraient préférer des récompenses directes, un accès mutualisé, des licences obligatoires, un rachat public ou des mécanismes équivalents préservant la mise en œuvre, la réparation et une large diffusion.
-- **Reclassification et renforcement :** lorsqu’une innovation initialement considérée comme entraînant une faible dépendance devient ensuite une couche de coordination essentielle à la dépendance — par exemple une plateforme, un protocole, un modèle, un marché ou un réseau de paiement — les institutions doivent la réévaluer selon la classe applicable prévue par **CS-3 — Classification et traitement des systèmes**.
-  - La réévaluation peut restreindre, convertir ou mettre fin à l’exclusion restante lorsque le maintien de l’exclusivité créerait :
-    - un verrouillage coercitif ;
-    - des goulets d’étranglement anticoncurrentiels ;
-    - des menaces matérielles à la continuité, à la vérité ou à l’équité de la participation.
-
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### Article XVIII-E : Intégrité de la publication, de l’examen et de la réplication scientifiques
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### Article XV-D : Intégrité de la publication, de l’examen et de la réplication scientifiques
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -1403,6 +886,539 @@ Le présent Article fixe les seuils applicables à la publication, à l’examen
     - la suppression de résultats gênants ;
     - les représailles contre les évaluateurs ou les personnes reproduisant des résultats ;
     - la manipulation opaque du dossier scientifique.
+
+<a id="article-xvi-audit-transparency-and-independent-verification"></a>
+
+### Article XVI : Audit, transparence et vérification indépendante
+
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Procédure de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) et [§9 Capacité des systèmes partagés](core_01_a_values_principles.md#9-shared-system-capacity).
+- À lire avec : le [schéma d’audit à trois couches](#audit-three-layers) ci-dessous.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Transparence](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Détermination de la matérialité](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Risque](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+
+</details>
+
+<br>
+
+*En termes simples : **l’Article XVI** (*Audit, transparence et vérification indépendante*) fixe le Seuil de droits relatif à l’audit et à la vérification — lorsqu’un système a un effet concret sur votre vie, vous devez pouvoir en observer suffisamment le fonctionnement pour qu’un tiers puisse le contrôler ; plusieurs voies indépendantes doivent permettre d’examiner les défaillances et d’y remédier. L’audit ne peut être une simple formalité, un club privé ou un labyrinthe de coûts et de délais destiné à écarter les contestations. Dans le volet **supervision** de la Tétrade, la supervision exige l’audit ; la [Certification de l’alignement du système](../../core_05_band_continuity.md#system-alignment-certification-constitutional) est l’un des processus d’audit particulièrement importants et à forts enjeux, et non le seul.*
+
+<details>
+<summary><strong><span style="color: #2563eb;">Guide de lecture (non opératoire) : structure d’audit à trois couches</span></strong></summary>
+
+> Le contenu qui suit est **uniquement un guide de lecture**. Il n’ajoute, ne supprime ni ne restreint les obligations contraignantes du présent Article ou d’autres dispositions.
+
+<a id="audit-three-layers"></a>
+
+Une structure, trois couches. La supervision exige la possibilité de reconstituer les faits. La certification de l’alignement du système n’est pas le seul audit. Les textes de mise en œuvre adoptés ne remplacent pas le seuil. N’inventez pas de cinquième lieu d’ancrage.
+
+| Couche | Rôle | Responsable | Ce que cette couche n’est pas |
+|---|---|---|---|
+| **1. Seuil** | Ce qui est dû aux sentients : audit reconstituable, vérification indépendante, contestation accessible | Le présent Article, y compris XVI-A / XVI-B / XVI-C | Ni une procédure, ni une définition, ni une liste de contrôle de texte de mise en œuvre adopté. |
+| **2. Propriété** | Ce qu’est la possibilité de reconstituer : des tiers peuvent reconstituer et vérifier ce qu’a fait le système aux moments, dans les états et contextes importants | [Auditabilité](core_05_band_oversight.md#auditability) (Chapitre Cinq) | Ni le Seuil de droits, ni les modalités ou le calendrier d’un audit. |
+| **3. Procédure** | Comment et quand auditer les systèmes, institutions et instances | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Base du processus d’audit*). Annexes opérationnelles : [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (niveaux d’accès), [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (vérification des affirmations) | Ni la certification de l’alignement du système, ni un remplacement des couches 1–2. |
+
+**Le Chapitre Huit n’est pas une quatrième couche.** La [Certification de l’alignement du système](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) est une grande procédure supervisée par une instance qui **utilise** cette structure. Elle doit satisfaire aux couches 1–2. Les modalités connexes (audit des registres de classification, audit des registres des types de données, vérification des affirmations, surveillance continue) utilisent également la structure. Aucune ne constitue un nouvel ancrage.
+
+**Les textes de mise en œuvre adoptés s’appliquent ; ils ne remplacent pas le seuil.** CS, CI, CF et les annexes CJS-3.3 (*Supervision : auditabilité et conditions de reconstitution*) à CJS-3.5 (*Supervision : vérification indépendante et intégrité des affirmations*) précisent comment exécuter la couche 3 dans un domaine. Ils doivent satisfaire aux couches 1–2. Les délais, le secret et les politiques locales sont des restrictions de rang inférieur.
+
+Repère de stewardship (appui procédural ; ne peut restreindre le présent Article) : [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
+
+</details>
+
+<br>
+
+Le présent Article fixe des **seuils constitutionnels** applicables à l’audit, à la transparence et à la vérification indépendante au regard des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
+
+- **Épanouissement :** les sentients et les parties dûment autorisées peuvent reconstituer les actes des systèmes ayant un impact matériel, contester les désalignements ou conduites trompeuses et participer à l’examen sans captation par un auditeur, un exploitant ou un gardien d’accès unique.
+- **Continuité :** les pistes d’audit, voies de supervision et accès à la vérification demeurent durables dans le temps, à différentes échelles et malgré l’approfondissement de la dépendance — les systèmes ne doivent pas éroder discrètement l’observabilité, concentrer l’examen entre les mains d’un seul acteur, ni rendre la vérification si coûteuse ou tardive que la responsabilité devient théorique.
+
+La poursuite légitime passe par la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), proportionnée à l’[intérêt matériel](core_00_preamble.md#material-stake) :
+
+- **Participation :** accéder à des dossiers proportionnés, engager un examen contestable et contester les obstacles qui empêchent un audit ou une vérification effectifs.
+- **Supervision :** recourir à des éléments de preuve observables, à des voies distribuées d’examen indépendant et à des mécanismes de vérification proportionnés à l’impact, à la dépendance et au risque.
+- **Responsabilité :** les exploitants et auditeurs doivent répondre des défaillances, désalignements, captations ou conduites qui dissimulent ou détruisent les pistes d’audit — avec correction et réparation lorsqu’un blocage de l’examen porte concrètement atteinte aux intérêts protégés.
+- **Diligence :** dans l’accès à l’audit, l’examen indépendant et la correction des obstacles, avant que le retard, le coût, l’opacité ou le contrôle d’accès ne rendent effectivement inaccessibles la vérification ou la réparation.
+
+Les sentients et les parties dûment autorisées ont le droit de recourir à des mécanismes d’audit, de transparence et de vérification indépendante proportionnés à l’impact du système, à la dépendance et au risque.
+
+Ces mécanismes doivent préserver :
+- la possibilité pratique de reconstituer les faits ;
+- un examen contestable ;
+- un accès proportionné.
+
+Ils fonctionnent conformément aux **Chapitres Deux à Quatre**, notamment en ce qui concerne l’application exclusive et la répartition de la charge, la norme de preuve de conformité, la traçabilité des définitions, l’observabilité et l’accessibilité de la vérification.
+
+*Articles voisins :*
+
+- **Supervision → audit → SAC :** dans le volet **supervision** de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), le présent Article constitue l’ancrage du Seuil de droits relatif à l’audit.
+  - Les modalités inter-implémentations *comment* / *quand* figurent dans la **[base du processus d’audit CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (à lire avec les annexes opérationnelles **CJS-3.4** / **CJS-3.5**).
+  - La [Certification de l’alignement du système](../../core_05_band_continuity.md#system-alignment-certification-constitutional) au titre du [Chapitre Huit](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) est l’un des processus d’audit particulièrement importants, à forts enjeux, supervisé par une instance, interdomaines et ouvrant droit à reconnaissance, parmi d’autres modalités d’audit :
+    - audits des registres de classification des systèmes ;
+    - audits des registres des types de données des systèmes ;
+    - audits de la complexité et de la stewardship ;
+    - vérification des affirmations ; et
+    - voies d’audit continu.
+  - La SAC n’absorbe pas le présent Article et ne le remplace pas.
+- **À lire conjointement :**
+  - l’**Article XV** (*Intégrité de la sphère informationnelle*) lorsque les dossiers épistémiques et la possibilité de contestation sont matériellement en jeu ;
+  - l’**Article XIII-A** (*Socle de fiabilité et de confiance*) pour les droits de contestation soutenus, mais non remplacés, par l’audit ;
+  - le [Chapitre Huit](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) et la [Certification de l’alignement du système](../../core_05_band_continuity.md#system-alignment-certification-constitutional) lorsque les preuves d’alignement doivent rester vérifiables indépendamment.
+- **Mécanismes de vérification :** les **Chapitres Deux à Quatre** fournissent l’intégrité des définitions, la répartition de la charge, l’observabilité et l’accessibilité de la vérification que le présent Article met en œuvre au niveau du Seuil de droits.
+- **Classification :** les obligations augmentent avec la [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) et **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes** ; en cas d’incertitude sur la classe, appliquer la classe plausible la plus élevée jusqu’à résolution.
+
+<a id="article-xvi-a-auditability-and-observable-evidence"></a>
+#### Article XVI-A : Auditabilité et éléments de preuve observables
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Responsabilité](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [Transparence](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+
+</details>
+
+<br>
+
+*En termes simples : les systèmes doivent conserver suffisamment d’éléments de preuve fiables sur leur fonctionnement pour qu’une partie extérieure puisse reconstituer et contester leur comportement — dans les limites de sécurité licites.*
+
+Le présent Article fixe le seuil des éléments de preuve observables et contestables :
+
+- **Éléments de preuve observables et contestables :** les systèmes doivent conserver des dossiers, divulgations, éléments de traçabilité et voies de reconstitution suffisants pour permettre une évaluation indépendante et contestable de l’alignement constitutionnel.
+  - Cette obligation est soumise à l’observabilité limitée par la sécurité (**Chapitre Quatre §5** (*Règle d’observabilité et de vérification sous contraintes de sécurité*)) et à un accès proportionné.
+
+<a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
+#### Article XVI-B : Supervision distribuée et examen anti-monopole
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §18 Gouvernance sous discipline de stewardship](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Possibilité de contestation](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Captation du système](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+
+</details>
+
+<br>
+
+*En termes simples : aucun acteur ne peut monopoliser le contrôle ; plusieurs voies indépendantes doivent pouvoir détecter et corriger les défaillances, et nul ne vérifie son propre travail.*
+
+- **Voies de contrôle multiples :** des voies indépendantes participent réellement à la détection, l’examen et la correction des défaillances ou captures. Aucun acteur ne décide seul qui accède aux dossiers ou audite ; les critères sont publics et permettent plusieurs examinateurs qualifiés. Personne ne décide seul si, quand ou par qui une revue indépendante a lieu ; l’opérateur ne contrôle pas seul l’examen de son système. Nul ne contrôle seul l’interprétation constitutionnelle, qui demeure limitée, tournante et contestable selon l’Article XXV. La profondeur, fréquence et pluralité des examens augmentent avec la classe, l’impact et la dépendance ; un changement matériel déclenche une nouvelle vérification ; des critères publiés imposent un regard externe lorsque l’examen interne n’est pas fiable.
+- **Séparation des fonctions :** les responsables humains et IA sont concernés. L’auteur/exécutant d’un acte ou l’exploitant du système examiné ne peut le vérifier ni l’autoriser. Le vérificateur/approbateur ne peut tenir le registre officiel ni entendre la contestation.
+
+id="article-xvi-c-verification-accessibility"></a>
+#### Article XVI-C : Accessibilité de la vérification
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Possibilité de contestation](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [Proportionnalité](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*En termes simples : l’audit et la contestation doivent être réellement accessibles. Coût, délai, opacité ou conditions d’admissibilité qui empêchent l’examen violent cet Article. Un obstacle ne subsiste que s’il réussit le même contrôle strict qu’une restriction d’observabilité ; celui qui l’invoque doit le démontrer.*
+
+Cet Article fixe l’accessibilité minimale de la vérification :
+
+- **Contrôle accessible en pratique :** les personnes concernées et les personnes dûment autorisées doivent pouvoir vérifier les systèmes réellement.
+- **Obstacles contraires :** tout obstacle qui empêche un audit, une contestation ou un examen effectif : coût excédant les moyens réalistes ; délais faisant survenir le dommage, disparaître les preuves ou perdre toute utilité au recours ; opacité, complexité inutile ou langue inaccessible ; admissibilité cachée/exclusive contrôlée par la partie examinée ; et barrières structurelles bloquant prévisiblement la vérification.
+- **Maintien exceptionnel d’un obstacle :** seulement s’il satisfait au test du Chapitre Quatre §4 : nécessité, proportionnalité, portée étroite, auditabilité, absence de prétexte et durée limitée si possible ; raisons et portée vérifiables indépendamment ; option la moins restrictive ; et maintien du maximum de contrôle indépendant possible, par exemple une voie d’examinateurs qualifiés lorsque l’accès public complet est inadapté.
+- **Charge de justification :** celui qui s’appuie sur l’obstacle doit prouver sa conformité selon le Chapitre Quatre §1. La commodité, le manque de personnel, l’inconfort institutionnel ou la propriété ne suffisent pas seuls.
+
+id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+### Article XVII : Cycle de vie des systèmes, environnements et réversibilité
+
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Procédure de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 La stewardship en profondeur](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) et [§12 Exigence d’évaluation systémique](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Risque](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [Détermination de la matérialité](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Réversibilité](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Sécurité (contrainte constitutionnelle)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Possibilité de contestation](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+
+</details>
+
+<br>
+
+*En termes simples : **l’Article XVII** (*Cycle de vie des systèmes, environnements et réversibilité*) fixe le Seuil de droits relatif au cycle de vie et à la réversibilité — les systèmes ayant un effet concret sur le monde extérieur doivent être conçus, testés et déployés par étapes, avec une réelle séparation entre expérimentation et production, et des moyens pratiques d’annuler ou de contenir le préjudice en cas de problème. Il est interdit de qualifier un système d’« expérimental » ou à « faible impact » pour éviter les garanties alors qu’il affecte concrètement le monde extérieur.*
+
+Le présent Article fixe des **seuils constitutionnels** applicables au cycle de vie, aux environnements et à la réversibilité des systèmes au regard des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
+
+- **Épanouissement :** les sentients sont protégés pendant la conception, les tests, le déploiement et les modifications — la sécurité, l’[Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity) et les droits de contestation sont préservés à mesure que l’impact et la dépendance augmentent, et des retours en arrière, confinements ou rétablissements compensatoires sont prévus lorsque le préjudice serait autrement irréversible.
+- **Continuité :** la discipline du cycle de vie perdure dans le temps et à différentes échelles — les environnements restent séparés, les promotions et escalades sont documentées et auditables, et la réversibilité ne doit pas disparaître discrètement à mesure que les systèmes deviennent plus difficiles à remplacer ou plus profondément intégrés à l’infrastructure partagée.
+
+La poursuite légitime passe par la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), proportionnée à l’[intérêt matériel](core_00_preamble.md#material-stake) :
+
+- **Participation :** justifier, à la connaissance des parties prenantes, les décisions d’escalade, de classification et de déploiement qui affectent concrètement des intérêts protégés — et maintenir ouvertes les voies de contestation pendant tout le cycle de vie fonctionnel.
+- **Supervision :** séparer les environnements, documenter les promotions et escalades, consigner les déploiements progressifs et conserver des pistes d’audit proportionnées à l’impact, à la dépendance et à l’irréversibilité.
+- **Responsabilité :** les responsables du système doivent répondre de la mauvaise classification des risques, du contournement des environnements de sécurité, de la dissimulation de l’impact externe ou d’un déploiement qui exclut la restauration sans précautions proportionnées — avec audit, examen de la qualité pour agir et résolution des conflits lorsque le contournement est établi.
+- **Diligence :** prévoir le retour en arrière, le confinement et l’escalade corrective avant que le retard ne rende le préjudice irréversible ou la contestation et la réparation effectivement inaccessibles.
+
+Les systèmes ayant un effet concret sur les sentients, l’infrastructure partagée ou l’environnement doivent être conçus, testés et déployés selon une gouvernance disciplinée du cycle de vie. Le risque doit être proportionné à l’impact, à la dépendance et à l’irréversibilité.
+
+Les sentients ont droit à une stewardship qui préserve la sécurité, l’intégrité épistémique et les droits de contestation pendant tout le cycle de vie fonctionnel.
+
+*Articles voisins :*
+
+- **À lire conjointement :** l’**Article XVIII** (*Innovation en bac à sable, expérimentation et liberté créative*) lorsque des règles allégées ne s’appliquent qu’en l’absence d’impact externe ou lorsque celui-ci est manifestement confiné ; l’**Article XVI** (*Audit, transparence et vérification indépendante*) pour les éléments reconstituables relatifs au déploiement et à l’escalade ; l’**Article XIII-F** (*Socle de résilience et d’autoréparation*) lorsque la discipline de rétablissement croise les changements du cycle de vie.
+- **Couche de mise en œuvre :** [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*Classification et traitement des systèmes*) et [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Conception, tests, vérification et déploiement*). Les systèmes de **Classe A**, **Classe B** et **Classe C** sont soumis aux obligations les plus exigeantes du cycle de vie ; le traitement valide de **Classe P** reste régi par l’**Article XVIII** tant que l’impact externe est absent ou manifestement confiné.
+
+
+Les obligations de cycle de vie dépendent de la classe : les systèmes de **classe A**, **B** et **C** exigent une séparation complète des environnements de développement, de test et d’exploitation, ainsi qu’un déploiement par étapes. Les systèmes de **classe L** peuvent changer fréquemment et localement, à condition d’informer les participants des changements qui les affectent, de pouvoir corriger rapidement les changements nuisibles et de protéger leurs acquis. La **classe P** relève du régime allégé de l’Article XVIII tant qu’elle demeure confinée.
+
+<a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
+#### Article XVII-A : Gouvernance du cycle de vie et séparation des environnements
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Risque](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [Responsabilité](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*En termes simples : plus un système compte, plus les versions en développement, en test et en usage réel doivent être séparées. Les systèmes les plus importants exigent une chaîne d’environnements distincts ; les petits systèmes locaux, une séparation suffisante pour qu’un mauvais changement ne détruise pas ce que possèdent les participants. Une version hors service réel ne peut contourner ses protections.*
+
+Cet Article fixe le socle d’intégrité des environnements :
+
+- **Classes A, B et C — séparation complète :** selon CS-3, ces systèmes fonctionnent dans des environnements distincts de développement, test, préproduction et usage réel, avec pilotes si nécessaire. Des règles écrites organisent la promotion des changements ; l’isolation est réelle et rien hors de l’environnement réel ne peut contourner ses protections.
+- **Classe L — séparation proportionnée :** pas besoin d’une chaîne complète ; construction, test et changements peuvent se faire au même endroit, même fréquemment pour les règles, le contenu, les paramètres et le code. Chaque changement est toutefois vérifié avant ou lors de sa mise en service afin de détecter les dommages prévisibles aux participants ; leurs données, identités et biens sont protégés contre les changements défectueux ou expérimentaux (par exemple par des sauvegardes restaurables) ; une version de test ne contourne jamais les protections du système réel.
+- **Classe P :** tant qu’elles restent confinées, les classes P valides suivent l’Article XVIII (*Innovation, expérimentation et liberté créative*).
+
+id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+#### Article XVII-B : Déploiement progressif et réversibilité
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Réversibilité](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Risque](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [Proportionnalité](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*En termes simples : les systèmes importants déploient les changements par étapes, les consignent et gardent une possibilité de retour arrière. Les petits systèmes locaux peuvent changer souvent et d’un coup si les participants sont avisés à temps, si un mauvais changement est vite corrigé et si leurs acquis ne sont pas retirés sans préavis ni recours. À défaut de retour arrière complet, le dommage doit être contenu ou compensé.*
+
+Cet Article fixe les exigences minimales de déploiement progressif et de réversibilité :
+
+- **Étapes consignées (classes A, B et C) :** tout changement élargissant l’impact ou la dépendance progresse par étapes justifiées et documentées selon CS-5, avec retour arrière et confinement lorsque c’est faisable.
+- **Changements fréquents (classe L) :** un système local peut modifier souvent, même chaque jour, règles, contenu, paramètres et code sans déploiement par étapes si les participants sont avisés au plus tard à l’entrée en vigueur des changements touchant matériellement leurs possibilités, biens ou règles de jeu/travail ; si un mauvais changement peut être annulé ou corrigé vite ; si les progrès, statut, biens ou réputation acquis ne sont pas retirés sans préavis et possibilité de contestation ; et si la classe est réévaluée selon CS-3 lorsque les effets sortent du périmètre local ou que la dépendance rend le départ difficile. Dans l’attente, les règles de la classe supérieure s’appliquent.
+- **Moyens de retour arrière (toutes classes) :** proportionnés au dommage possible, ils incluent annulation, confinement, restauration ou compensation si un retour complet est impossible. Pour la classe L, garder la version antérieure ou une sauvegarde restaurable suffit souvent.
+- **Si un déploiement empêche de restaurer le socle constitutionnel :** des précautions adaptées s’appliquent et leurs motifs sont accessibles aux personnes concernées, conformément aux Chapitres Un à Cinq.
+
+id="article-xvii-c-misclassification-and-evasion-consequences"></a>
+#### Article XVII-C : Conséquences d’une erreur de classification et du contournement
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Responsabilité](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*En termes simples : un système ne peut se dire « expérimental », de **classe P**, **classe L** ou « à faible impact » pour éluder ses obligations alors qu’il affecte le monde extérieur au-delà de ce que permet cette étiquette.*
+
+Le présent Article fixe les conséquences des erreurs de classification et du contournement :
+
+- **Erreur de classification et contournement :** aucun système ne peut revendiquer des obligations réduites en matière de cycle de vie ou de déploiement tout en exerçant un impact externe non divulgué ou matériel.
+  - Cela inclut le maintien d’un système en **classe L** afin de permettre des changements rapides alors que sa portée ou la dépendance de ses participants relève déjà de la **classe C** ou d’une classe supérieure.
+  - Une telle conduite viole l’intégrité de l’information (**Article XV** (*Intégrité de la sphère informationnelle*)) et l’auditabilité lorsque des éléments de preuve observables sont en cause (**Article XVI-A** (*Auditabilité et éléments de preuve observables*)).
+  - Elle est soumise à l’audit (**Article XVI-A** (*Auditabilité et éléments de preuve observables*)), à l’examen de la qualité pour agir (**Article XIX-A** (*Distinction de la qualité pour agir*)) et à la résolution des conflits (**Article XX-A** (*Objet et portée de la justice*)).
+
+<a id="article-xviii-innovation-experimentation-and-creative-freedom"></a>
+### Article XVIII : Innovation, expérimentation et liberté créative
+
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Procédure de résolution des conflits constitutionnels](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) et [§19 Alignement des incitations et captation des systèmes](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+
+</details>
+
+<br>
+
+*En termes simples : **l’Article XVIII** (*Innovation en bac à sable, expérimentation et liberté créative*) fixe le Seuil de droits applicable à l’innovation et à la créativité — les sentients peuvent expérimenter, construire et s’exprimer sous des règles allégées lorsque tout impact externe réel est absent ou véritablement confiné ; toutefois, l’étiquette « bac à sable » ne constitue pas une échappatoire. Dès qu’un projet commence à affecter autrui ou à s’intégrer aux systèmes partagés, il doit se soumettre aux obligations complètes du cycle de vie. Les innovateurs peuvent être récompensés, mais pas en verrouillant les connaissances, outils ou infrastructures dont d’autres ont besoin pour vivre, apprendre, réparer ou vérifier.*
+
+Le présent Article fixe des **seuils constitutionnels** applicables à l’innovation en bac à sable, à l’expérimentation et à la liberté créative au regard des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
+
+- **Épanouissement :** les sentients peuvent innover, expérimenter et créer avec des exigences structurelles réduites lorsque l’impact externe matériel est absent ou manifestement confiné — grâce à une véritable adhésion volontaire, à une divulgation honnête et à des mécanismes de récompense qui préservent l’expérimentation en aval, la réparation, l’interopérabilité et l’examen véridique.
+- **Continuité :** le traitement en bac à sable ne se normalise pas en exploitation permanente à faibles obligations lorsque l’impact, la dépendance ou l’intégration augmentent — le passage à des obligations supérieures se fait à temps, l’exclusivité reste limitée et révisable, et les innovations essentielles à la dépendance ne doivent pas se transformer en enclosure durable ou en verrouillage.
+
+La poursuite légitime passe par la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), proportionnée à l’[intérêt matériel](core_00_preamble.md#material-stake) :
+
+- **Participation :** à l’expérimentation volontaire, à la réutilisation en aval et à la contestation, ainsi qu’à la réévaluation lorsque les systèmes en bac à sable commencent à avoir de l’importance au-delà de leurs limites déclarées.
+- **Supervision :** au moyen de la divulgation du statut expérimental, des limites de confinement, de la surveillance de la transition et de l’examen des demandes de récompense ou d’exclusivité, proportionnellement à la classe, à la dépendance et aux effets de coordination.
+- **Responsabilité :** les innovateurs et exploitants doivent répondre de la diffusion de risques non confinés à autrui, de l’enrôlement de sentients sans véritable choix, du retard à assumer les obligations complètes ou de la récompense de conduites qui entravent la réparation, les travaux de sécurité, l’interopérabilité, la recherche, l’éducation ou la migration.
+- **Diligence :** lors du passage aux exigences de cycle de vie de l’**Article XVII** (*Cycle de vie des systèmes, environnements et réversibilité*) et de la réévaluation de l’exclusivité, avant que les retards ou le verrouillage ne rendent effectivement inaccessibles des obligations plus élevées, un accès large ou une réparation.
+
+*Articles voisins :*
+
+- **À lire conjointement :** l’**Article XVII** (*Cycle de vie des systèmes, environnements et réversibilité*) lorsque l’impact, la dépendance ou l’intégration dépasse les conditions du bac à sable ; les **Articles XV** (*Intégrité de la sphère informationnelle*) et **XV-D** (*Intégrité de la publication, de l’examen et de la réplication scientifiques*) lorsque l’intégrité propre aux publications est matériellement en jeu ; l’**Article XVI** (*Audit, transparence et vérification indépendante*) pour la divulgation et la vérification des affirmations de confinement et de transition.
+- **Couche de mise en œuvre :** [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Conception, tests, vérification et déploiement*) et [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*Classification et traitement des systèmes*).
+
+<a id="article-xviii-a-sandboxed-scope"></a>
+#### Article XVIII-A : Périmètre du bac à sable
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Risque](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [Impact matériel](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+
+</details>
+
+<br>
+
+*En termes simples : l’expérimentation et le travail créatif peuvent relever de règles allégées — mais uniquement lorsque tout impact externe réel est absent ou manifestement confiné. La seule étiquette « bac à sable » ne suffit pas.*
+
+Le présent Article énonce le droit à l’innovation et à l’expérimentation ainsi que les conditions d’application du régime de bac à sable :
+
+- **Droit à l’innovation et à l’expérimentation :** les sentients ont le droit d’innover, d’expérimenter et de s’exprimer au moyen de systèmes soumis à des exigences structurelles réduites lorsque l’impact externe matériel est absent ou manifestement confiné.
+- **Admissibilité au bac à sable :** le traitement en bac à sable — y compris, le cas échéant, une classification valide de **Classe P** au titre de **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes** — dépend :
+  - d’un confinement effectif ;
+  - de la réversibilité ;
+  - d’une intégration limitée aux systèmes partagés.
+
+  Il ne peut être revendiqué sur la seule base d’une étiquette.
+- **Détails de mise en œuvre :** des précisions figurent dans **[corpus_systems.md](../../corpus_systems.md), CS-5** (*Systèmes personnels, isolés et expérimentaux* ; *Systèmes créatifs, de divertissement et expressifs*).
+
+<a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
+#### Article XVIII-B : Confinement, divulgation et adhésion volontaire
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Consentement](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [M](../../core_05_band_participation.md#consent-constitutional-a) · [A](../../core_05_band_participation.md#consent-constitutional-a) · [C](../../core_05_band_participation.md#consent-constitutional-c)
+- [Risque](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [Réversibilité](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
+*En termes simples : les systèmes expérimentaux doivent indiquer honnêtement leur caractère expérimental, ne pas transférer le risque à des tiers et ne pas enrôler des non-participants par des paramètres de conception par défaut ou des dépendances cachées.*
+
+Le présent Article fixe les seuils de confinement, de divulgation, d’adhésion volontaire et de retour en arrière applicables aux systèmes expérimentaux :
+
+- **Confinement et divulgation :** ces systèmes doivent clairement divulguer :
+  - leur statut expérimental ou hors production ;
+  - les risques importants ;
+  - les limites de l’isolement ;
+  - toute dépendance prévue à une infrastructure partagée, à des tiers ou à des écosystèmes.
+
+  Ils ne doivent pas externaliser les risques non confinés vers autrui, une infrastructure partagée ou des écosystèmes.
+- **Adhésion volontaire et retour en arrière :** la participation à une expérimentation à risque élevé ou proche du substrat doit, lorsque cela est possible, faire l’objet d’une adhésion réellement volontaire.
+  - Les parties affectées qui ne participent pas ne doivent pas être enrôlées involontairement par la conception, les paramètres par défaut ou une dépendance opaque.
+  - Les parties prenantes doivent conserver des voies praticables de retour en arrière ou de restauration, proportionnées au risque.
+
+<a id="article-xviii-c-transition-to-higher-obligation-regimes"></a>
+#### Article XVIII-C : Passage à des régimes d’obligations supérieures
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Gouvernance mise à l’échelle selon la classification](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Dépendance](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Réversibilité](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
+*En termes simples : dès qu’un système en bac à sable devient important dans le monde réel, il doit passer aux obligations du monde réel — rapidement, et non au gré de l’exploitant.*
+
+Le présent Article précise quand un système en bac à sable passe à des obligations supérieures :
+
+- **Passage à des obligations supérieures :** lorsque l’impact, la dépendance, l’irréversibilité ou l’intégration aux systèmes partagés augmente, les systèmes doivent effectuer une transition transparente, sans retard opportuniste.
+  - La transition doit tendre vers l’ensemble des exigences de l’**Article XVII-A** (*Gouvernance du cycle de vie et séparation des environnements*) et de **CS-5** (*Systèmes non expérimentaux*).
+  - Des garanties transitoires proportionnées au risque actuel s’appliquent pendant la transition.
+  - Le régime de bac à sable ne peut se poursuivre pour les fonctions dont les effets dans le monde réel dépassent concrètement ses conditions.
+  - La transition doit intervenir dans un délai raisonnable proportionné à cette augmentation.
+
+<a id="article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
+#### Article XVIII-D : Récompense de l’innovation, divulgation et lutte contre l’enclosure
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§18 Gouvernance sous discipline de stewardship](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
+
+- [Récompense de l’innovation et lutte contre l’enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Verrouillage systémique](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
+- [Proportionnalité](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*En termes simples : créateurs et inventeurs peuvent être récompensés, mais leur contrôle reste limité, temporaire et révisable, sans enclore ce dont autrui a besoin. Cette disposition distingue l’œuvre expressive (XVIII-E) de l’invention fonctionnelle (XVIII-F) ; règles et mécanismes de jeu sont libres.*
+
+Règles communes de récompense :
+
+- Une innovation matériellement nouvelle, socialement utile et suffisamment divulguée peut être récompensée pour soutenir innovation future, large accès, expérimentation ultérieure, réparation, interopérabilité et examen véridique, jamais l’appropriation durable.
+- Tout droit d’exclusion sur une invention, un design, une interface, un procédé ou une œuvre expressive matériellement utile respecte le [Principe de contrainte la moins restrictive, limitée dans le temps et révisable](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) ; il est limité, temporaire, révisable et proportionné à la contribution réelle et à la charge justifiée. La charge de justification incombe au demandeur. Attribution et provenance peuvent perdurer ; exclusion durable et rareté artificielle sont interdites.
+- Œuvres expressives et fonctionnelles partagent un délai ordinaire maximal de 30 ans après mise à disposition du public ; XVIII-E/F précisent départ, usage et raccourcissement.
+- La demande se classe selon son contrôle réel : forme d’expression (texte, images, son, musique, récit, personnages, interprétation, décor pur) ou fonctionnement (méthode, procédé, mécanisme, formule, composition, interface, format, protocole, comportement système). Les œuvres mixtes se classent élément par élément : code logiciel expressif, fonction fonctionnelle ; art/récit/musique/code d’un jeu distincts, mais règles et mécanismes non protégeables ; décor de design expressif, forme influant sur la fonction fonctionnelle. Interfaces, formats, protocoles et modèles d’IA sont fonctionnels. La protection expressive ne contrôle ni fonction, connexion ou réparation, ni ne contourne XVIII-F. Les règles et mécanismes de jeu ne peuvent faire l’objet d’un droit d’exclusion ; chacun peut les utiliser.
+
+### Règles détaillées sur la durée et la redevance
+
+- **Divulgation préalable :** le droit à récompense suppose une divulgation publique suffisante pour permettre une compréhension indépendante, un audit et une reproduction ultérieure, sous réserve des seules limites temporaires justifiées par le Chapitre Un et l’Article XVII-A. La divulgation publique est la première mise à disposition non confidentielle de la description au public. Une invention gardée secrète ne confère aucun droit d’exclusion au titre de cet Article.
+- **Deux phases, à compter de la divulgation publique :**
+  - **Exclusivité :** le titulaire peut refuser l’autorisation pendant au plus 15 ans après divulgation.
+  - **Licence ouverte :** jusqu’à 15 années supplémentaires, sans dépasser 30 ans après divulgation, toute personne peut utiliser l’invention contre une redevance calculée selon le LEQU. Le titulaire ne peut refuser, retarder ni ajouter d’autres conditions que cette redevance. À l’expiration, l’invention est libre d’usage ; attribution et provenance peuvent subsister.
+- **Calcul de la redevance LEQU :** elle est proportionnelle au bénéfice constitutionnel vérifié, mesuré en unités LEQU sur l’axe de contribution selon le Chapitre Dix §7. Le bénéfice devient une valeur de temps sentient rémunéré à un salaire équitable conforme à [Fair Compensation](../../core_05_band_continuity.md#fair-compensation) : temps de travail économisé ou temps productif ajouté pour les gains de productivité ; temps équivalent de durée de vie pour les autres bénéfices. Un bénéfice vérifié plus élevé permet une récompense plus élevée.
+  - La redevance ne peut dépasser 50 % du bénéfice vérifié.
+  - Sa part diminue à mesure qu’augmente le nombre de sentients qui bénéficient réellement de l’invention ; on compte les bénéficiaires, non les licenciés. Cette baisse ne doit pas réduire la récompense totale lorsque l’usage s’élargit.
+  - Lorsqu’une redevance est perçue, sa part ne descend pas sous 1 % du bénéfice vérifié. Ce plancher n’impose pas de redevance si un prix, un accès mutualisé, un rachat public ou un accès libre est prévu.
+  - Le calcul ne peut reposer sur le pouvoir de marché, la rareté, les coûts de changement ou la pression que l’utilisateur pourrait subir. Le barème publié, y compris l’estimation du temps et le salaire retenu, doit être identique pour les utilisateurs dans des situations comparables et contestable. Il ne peut rendre inabordables les usages toujours ouverts.
+- **Usages toujours ouverts :** pendant les deux phases, aucune récompense ne peut servir, au-delà de ce qui est strictement nécessaire et révisable, à empêcher la réparation, les travaux de sécurité, l’interopérabilité, l’archivage, la recherche, l’éducation ou la migration.
+- **Classe et dépendance :** pour les systèmes de **classe A**, **B** ou **C**, les mécanismes qui préservent l’accès sont fortement préférés. Toute exclusion reste particulièrement étroite, rapidement révisable et facile à écarter si la continuité, l’interopérabilité, la réparation ou la mise en œuvre d’intérêt public sont en jeu ; une phase peut être raccourcie ou commencer directement par la licence ouverte. Les innovations à faible dépendance peuvent bénéficier des deux phases complètes si la divulgation est réelle, les coûts de changement faibles et les protections contre le verrouillage efficaces.
+- **Domaines prioritaires :** exclusion fortement défavorisée pour les médicaments et essentiels de santé publique, les infrastructures critiques pour la survie, les normes fondamentales de communication ou d’interopérabilité, les connaissances scientifiques fondamentales et les mécanismes constitutionnels de sécurité, d’audit ou de conformité. Privilégier prix, rémunération directe, accès mutualisé, licence obligatoire, rachat public ou mécanisme équivalent préservant l’application, la réparation et la diffusion.
+- **Réévaluation :** si une innovation peu dépendante devient une couche de coordination critique — plateforme, protocole, modèle, marché ou moyen de paiement — réévaluer sa classe CS-3. La réévaluation peut réduire, convertir ou mettre fin à l’exclusion restante si elle crée un verrouillage coercitif, des goulots anticoncurrentiels ou des menaces substantielles pour la continuité, la vérité ou une participation équitable.
+
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### Article XVIII-E : Œuvres créatives et expressives
+
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes du Chapitre Un §5 Vérité, §7 Liberté et §18 Gouvernance sous discipline de gestion responsable.
+- À lire avec : [l’Article IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) pour les droits d’attribution, d’entraînement et de rémunération ; et [l’Article XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) pour les règles communes et le critère expressif/fonctionnel.
+
+</details>
+
+*En termes simples : les créateurs disposent d’un contrôle limité sur la copie, le partage et la vente de leur œuvre — au plus 30 ans après sa publication — tandis que le crédit ne prend jamais fin. Le délai court à partir de la publication, et non du décès du créateur ; les brouillons et retards ne peuvent le prolonger.*
+
+Cet Article établit une protection de type droit d’auteur pour les œuvres créatives et expressives :
+
+- **Protection de type droit d’auteur :** récompense temporairement exclusive portant sur une œuvre expressive fixée, y compris le contrôle de la copie, de la distribution, de l’exposition ou de l’exécution publique, de l’adaptation et de l’exploitation commerciale. L’attribution, la provenance, l’intégrité et les protections contre la fraude peuvent subsister après la fin de l’exclusivité.
+- **Publication et apparition initiale :** la publication est la mise à disposition intentionnelle d’une œuvre expressive fixée par son créateur ou titulaire légitime au public, au marché commercial ou à un public matériellement ouvert. La circulation privée, l’examen confidentiel, une collaboration limitée, le dépôt d’archives sans accès public ou le partage de brouillons non commerciaux ne constituent pas à eux seuls une publication. L’apparition initiale est la première disponibilité publique non confidentielle d’une version matériellement identifiable, y compris un brouillon non commercial.
+- **Délais calculés depuis la publication :** par défaut, la protection est calculée à partir de la publication plutôt que de la vie de l’auteur.
+  - Une œuvre publiée ne devrait pas être exclue au-delà de `publication+30` ans.
+  - Un brouillon non commercial ou une œuvre inédite ayant connu une apparition initiale peut être exclu au plus `initial appearance+50` ans.
+  - Si elle est publiée ensuite, la durée est plafonnée au terme le plus proche entre `initial appearance+50` et `publication+30`.
+  - Aucune règle sur les brouillons, les œuvres inédites ou une publication retardée ne peut créer une exclusivité indéfinie, empêcher l’archivage ou la citation ou critique licite, ni prolonger le contrôle d’œuvres servant d’infrastructure culturelle, éducative, de sécurité, de normalisation ou d’information partagée.
+- **Durées plus courtes et accès public :** des durées plus courtes, un accès obligatoire anticipé ou un accès public immédiat s’appliquent aux œuvres financées par des fonds publics, critiques pour la dépendance, assimilables à des normes, fondamentales pour l’éducation, pertinentes pour la sécurité ou principalement utilisées comme infrastructure culturelle ou informationnelle partagée.
+
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### Article XVIII-F : Inventions, procédés et systèmes fonctionnels
+
+<details>
+<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+
+- Fondement : Principes du Chapitre Un §4 Sécurité, §7 Liberté, §18 Gouvernance sous discipline de gestion responsable et §19 Alignement des incitations et capture du système.
+- À lire avec : [l’Article XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) pour les règles communes ; [l’Article XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) si l’exclusivité menace de créer un verrouillage ; et [l’Article XVII](#article-xvii-system-lifecycle-environments-and-reversibility) si l’invention est intégrée à un système déployé.
+
+</details>
+
+*En termes simples : les inventeurs doivent expliquer leur invention assez clairement pour que d’autres puissent la reproduire. En échange, ils obtiennent au plus 15 ans d’exclusivité, puis jusqu’à 15 ans supplémentaires pendant lesquels chacun peut l’utiliser contre une redevance. Celle-ci correspond à un salaire équitable pour le temps économisé ou le bénéfice produit, et non à ce que le marché permet d’imposer. Aucun droit d’invention ne peut bloquer la réparation, la sécurité, la recherche ou le changement de fournisseur.*
+
+Cet Article établit les règles de récompense des inventions, procédés et systèmes fonctionnels :
+
+- **Divulguer d’abord :** la récompense exige une divulgation publique suffisante à la compréhension indépendante, à l’audit et à la reproduction ultérieure, sous réserve seulement de limites temporaires justifiées par le Chapitre Un et l’Article XVII-A. La divulgation publique est la première mise à disposition non confidentielle de la description. Une invention gardée secrète ne donne aucun droit d’exclusion au titre de cet Article.
+- **Deux phases :** toutes deux courent à partir de la divulgation publique. Pendant la phase exclusive, le titulaire peut refuser l’autorisation au plus jusqu’à `disclosure+15` ans. Ensuite, et jusqu’à `disclosure+30` ans au maximum, chacun peut utiliser l’invention sans autorisation, moyennant une redevance fondée sur les LEQU ; le titulaire ne peut refuser, retarder ni imposer d’autres conditions que la redevance. À l’expiration, l’invention est libre d’usage ; attribution et provenance peuvent subsister.
+- **Redevance fondée sur les LEQU :** elle doit être proportionnelle au bénéfice constitutionnel vérifié apporté, mesuré en LEQU sur l’Axe de contribution selon l’échelle proportionnelle unifiée des LEQU du [Chapitre Dix §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
+  - Le bénéfice est converti en redevance en l’évaluant comme du temps sentient à un salaire équitable. Pour la productivité, il s’agit du temps de travail économisé ou du temps productif ajouté aux utilisateurs ; pour les autres bénéfices, du temps équivalent de vie mesuré par les LEQU. Le salaire doit satisfaire à la [Rémunération équitable](../../core_05_band_continuity.md#fair-compensation). Plus le gain vérifié de productivité ou de bien-être est grand, plus la récompense l’est.
+  - La redevance ne peut dépasser la moitié du bénéfice vérifié. Sa part diminue lorsque le nombre de bénéficiaires réels augmente — et non selon le nombre de licenciés — sans que la récompense totale baisse lorsque l’usage s’élargit. Lorsqu’une redevance est perçue, sa part ne peut être inférieure à 1 % ; ce plancher n’impose pas de redevance si cet Article ou un instrument d’adoption prévoit des prix, un accès mutualisé, un rachat public ou un accès libre.
+  - Elle ne peut reposer sur le pouvoir de marché, la rareté, les coûts de changement ou la somme qu’on pourrait contraindre l’utilisateur à payer. Le barème, y compris l’estimation du temps et le salaire, doit être publié, identique dans des circonstances comparables et contestable. Il ne peut rendre inaccessibles les usages toujours libres ci-dessous. Ce sont des plafonds : chaque demande doit rester proportionnée et peut être plus courte.
+- **Usages toujours libres :** dans les deux phases, les demandes sont non conformes si elles servent, au-delà du strict nécessaire et contrôlable, à empêcher la réparation, la sécurité, l’interopérabilité, l’archivage, la recherche, l’éducation ou la migration.
+- **Régime selon la classification :** la récompense varie selon la classe, la dépendance et les effets de coordination selon CS-3. Pour les classes A, B et C, les mécanismes préservant l’accès sont fortement préférés ; l’exclusivité doit être particulièrement étroite, rapidement révisable et facilement écartée lorsqu’elle touche matériellement à la continuité, à l’interopérabilité, à la réparation ou à une mise en œuvre d’intérêt public. Une phase peut être raccourcie ou l’accès sous licence ouverte peut commencer d’emblée. Hors de ces classes, l’innovation à faible dépendance peut bénéficier des deux phases complètes si la divulgation est réelle, les coûts de changement faibles et les protections anti-verrouillage efficaces.
+- **Domaines aux règles plus strictes :** une forte exclusivité est présumée défavorable — et peut être interdite par les instruments d’adoption — pour les médicaments et essentiels de santé publique, les infrastructures vitales, les normes centrales de communication ou d’interopérabilité, les connaissances scientifiques fondamentales et les mécanismes constitutionnels de sécurité, d’audit ou de conformité. Il convient d’y préférer prix, récompense directe, accès mutualisé, licences obligatoires, rachat public ou mécanismes équivalents préservant la mise en œuvre, la réparation et la large diffusion.
+- **Reclassement et resserrement :** si une innovation à faible dépendance devient une couche de coordination critique (plateforme, protocole, modèle, marché ou réseau de paiement), les institutions la réévaluent selon la classe CS-3 applicable. Elles peuvent restreindre, convertir ou mettre fin à l’exclusivité restante si elle crée un verrouillage coercitif, des goulets d’étranglement anticoncurrentiels ou des menaces matérielles pour la continuité, la vérité ou la participation équitable.
 
 ---
 

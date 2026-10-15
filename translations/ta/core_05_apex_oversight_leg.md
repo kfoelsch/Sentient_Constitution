@@ -96,34 +96,6 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
-
-### மேற்பார்வை
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
-- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
-
-</details>
-
-<br>
-
-*எளிமையாகச் சொன்னால்: அதிக தாக்கமுள்ள அமைப்புகள் எதை பிரதிநிதித்துவப்படுத்துகின்றன என்பதை உணர்திறன் கொண்ட உயிர்கள் பார்க்கவும் சரிபார்க்கவும் நம்பவும் முடியுமா என்று இந்தக் கேள்விகள் ஆராய்கின்றன. ஐந்தாம் அத்தியாயத்தில் மேற்பார்வை அளவீட்டு குடும்பம் அமைந்துள்ள இடம் இதுவாகும்; முன்னுரையின் §2 வகையின் எளிய கேள்வியை வைத்திருக்கிறது; குடும்ப அட்டவணையும் வரையறை வழிகாட்டலும் இங்கே உள்ளன.*
-
-*பொருட்பாடு ([Materiality](core_05_band_oversight.md#materiality)) ஒருங்கிணைந்தது; தனி அளவீட்டு வகை அல்ல. [material stake](core_00_preamble.md#material-stake) அடிப்படையில் இந்தக் குடும்பத்தின் பயன்பாட்டு வலிமையை அது மாற்றுகிறது.*
-
-| அளவீட்டு குடும்பம் | எளிய கேள்வி | முக்கிய அரசியலமைப்புப் பயன்பாடு |
-|---|---|---|
-| உண்மைத்தன்மையும் அறிவுசார் நேர்மையும் | கூற்றுகள், பதிவுகள், வெளிப்பாடுகள் பாதுகாப்பான முடிவுகளுக்கு போதிய நேர்மையுடன் உள்ளனவா? | அறிந்த பங்கேற்பு, தீர்வு, திருத்தம் ஆகியவற்றைப் பாதுகாக்கிறது. |
-| நம்பகத்தன்மை | நம்புவது நியாயமானதா, அல்லது நம்பிக்கை சிதைக்கப்படுகிறதா? | பொய்யான உறுதியிலிருந்தும் தவறாக வழிநடத்தும் சார்பிலிருந்தும் உணர்திறன் கொண்ட உயிர்களைப் பாதுகாக்கிறது. |
-
-ஆறாம் அத்தியாயம், [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), அல்லது இணைக்கப்பட்ட கருவிகள் வெளிப்படையாகக் கோரும்போது நம்பகத்தன்மை, தணிக்கை அல்லது மறுஆய்வு கட்டாயத் தேவைகளாகும்.
-
-**முந்தைய கோப்பு:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
-**அடுத்த கோப்பு:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### மேற்பார்வையை அளவிடுதல் (முகவுரை அளவீட்டுக் குடும்பம்)

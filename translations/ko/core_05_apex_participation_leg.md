@@ -99,32 +99,6 @@
 ---
 
 <a id="participation-measurement-family"></a>
-
-### 참여 측정
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
-
-</details>
-
-<br>
-
-*쉽게 말해, 이 질문들은 영향을 받는 당사자에게 상징적인 협의만이 아니라 실제 발언권, 접근성, 공정하게 이의를 제기할 기회가 주어지는지 살펴봅니다. 이곳은 제5장의 참여 측정군이 자리하는 곳입니다. 서문 §2는 범주의 쉬운 질문을 남기고, 측정군 표와 정의 안내는 여기에 둡니다.*
-
-*중요성([Materiality](core_05_band_oversight.md#materiality))은 통합 요소이지 별도 측정 범주가 아닙니다. [material stake](core_00_preamble.md#material-stake)에 따라 적용 강도를 조정합니다.*
-
-| 측정군 | 쉬운 질문 | 주요 헌법상 용도 |
-|---|---|---|
-| 공정성, 접근성, 행위 역량 | 영향을 받는 감각 있는 존재가 공정하게 대우받고 참여하고 배울 수 있는가? | 배제, 차등적 영향, 내용 없는 접근을 막습니다. |
-| 프라이버시와 데이터 관리 | 정보 자기결정권이 처리 생애주기 전반에 걸쳐 보장되는가? | 분할, 맥락 간 연결, 노출 압력이 발언권을 무력화하지 못하게 합니다. |
-
-**이전 파일:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
-**다음 파일:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
-
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### 참여 측정 (전문 측정 가족)

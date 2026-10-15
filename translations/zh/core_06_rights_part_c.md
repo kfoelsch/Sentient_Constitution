@@ -117,14 +117,14 @@ flowchart TB
 
 两项保障共同维护此项权利：认证使系统值得信任，有感知者的权利则使系统保持诚实。
 
-**认证从系统一侧建立信任：**当重要系统实际影响有感知者对其依赖的方式时，适用[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)与[第八章](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。该认证核验有感知者能否依赖：
+**认证从系统一侧建立信任：**当重要系统实际影响有感知者对其依赖的方式时，适用[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)与[第八章](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。该认证核验有感知者能否依赖：
 
 - 系统所称的功能；
 - 系统的局限与风险；
 - 对系统提出质疑的方式；
 - 问题得到修复的方式。
 
-如果系统达到**第十三条**（*享有可靠且可信赖系统的权利*）规定的重要性门槛，认证还须包括依据[第八章 §3.8.6 可信赖性与系统依赖完整性评估](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation)所作的可信赖性审查。
+如果系统达到**第十三条**（*享有可靠且可信赖系统的权利*）规定的重要性门槛，认证还须包括依据[第八章 §3.8.6 可信赖性与系统依赖完整性评估](core_09_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation)所作的可信赖性审查。
 
 **可争议性从有感知者一侧确保系统诚实：**认证会检查系统，但不能对系统作最终定论。每一位受到系统影响的有感知者仍享有：
 
@@ -137,7 +137,7 @@ flowchart TB
 *相邻条文：*
 
 - **适用情形：**系统行为实质性地控制或维系**第六章**权利底线时——包括**第三条 A 款**（*生存*）规定的生存必需事项。
-- **配合阅读：**[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)和[第八章](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)——不得以认证取代此处规定的底线。
+- **配合阅读：**[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)和[第八章](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)——不得以认证取代此处规定的底线。
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 
@@ -371,7 +371,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§10 韧性与自我修复设计](core_01_a_values_principles.md#10-resilience-and-self-healing-design)、[第一章 §13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§10 韧性与自我修复设计](core_01_a_values_principles.md#10-resilience-and-self-healing-design)、[第一章 §13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)，以及[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -683,6 +683,44 @@ flowchart TB
 - **与系统层面的交互：**运行分类、可靠性以及依据**CS-3——系统分类与处理**进行的分类分级治理，转由系统层面的**第十三条 A 款**（*可靠性与可信赖性基线*）及**[corpus_systems.md](corpus_systems.md) 中 CS-3——系统分类与处理**管辖。
   - 应依据**第一章 §13.1.5**（*限制最小、限定时限且可审查的约束原则*）解决冲突，不得缩减权利底线。
 
+<a id="article-xiv-d-counter-espionage-limits"></a>
+
+#### 第十四条 D 款：反间谍权力限制
+
+<details>
+<summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
+
+- 上游：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)及[§13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 配合阅读：[第十四条 A 款](#article-xiv-a-security-intelligence-and-covert-power-limits)（*安全、情报与秘密权力限制*），以及[第八章 §7 紧急与紧迫行动](core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action)和[第十三章 §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden)。
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
+
+- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [受保护的举报](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+<br>
+
+*通俗而言：机构怀疑有人从事情报活动时，最容易以“无论如何都要阻止”为由越界；因此必须预先划定界限。反间谍属于秘密权力，第十四条 A 款的所有限制继续适用；响应规则须事先公开并经独立批准，怀疑必须依据个人行为及其实际服务对象，而不得依据出生、血统或信仰。举报者和记者不是间谍；禁止酷刑、秘密拘押及以杀人为惩罚；调查后确认无辜者应获得正式记录。*
+
+本款规定反间谍权力的限制：
+
+- **范围与适用：**侦测、调查和制止间谍活动、破坏活动及敌对渗透，包括内部威胁计划、泄密调查、安全审查以及针对敌对情报机构的行动。本款适用于人类或合成有感知者、成员或外部人员；第十四条 A 款完整适用，本款不得缩窄其保护。武力和自主工具分别受第十四条 B、C 款约束。
+- **规则须在危机前制定：**每个机构必须预先公布经独立程序批准的响应规程，说明立案事实门槛、可用调查措施及批准者、时限和结案条件、通知与质疑途径，以及无辜者恢复权限、地位和记录的方式。规则本身须公开；可保护具体方法和正在进行的行动，但不得保密约束规则。规程外措施仅可作为紧急行动实施，且必须是最低必要、尽可能可逆、即时记录、独立复核，并在未获独立批准时自动终止。紧急情况不得追溯改写规则；发现间谍、泄密或漏洞本身不构成紧急状态。
+- **怀疑须依据行为：**仅可依据针对某一有感知者自身行为的具体记录事实启动调查。受保护特征或其替代指标、海外亲属关系、合法信仰或政治观点、日常研究贸易家庭或新闻工作中的外国接触，以及与嫌疑人的关系或接近，单独均不足以立案。受损材料的访问记录可支持有限且非侵入性核查，不得据此对整个群体进行侵入性搜查。
+- **按风险配置注意力：**风险评估可考虑与敌对国家或组织的有记录联系、其可能产生的法律或实际义务、遭受其施压的风险，以及接触其已知目标的有感知者、材料或系统。敌对国家或组织的认定属于具有实质约束力的行为，须独立批准、形成行为记录、公布名单并定期复核，逾期未续即失效。与敌对情报机构的有记录联系可构成立案事实；仅有受施压风险则应提供保护和审查，不能据此怀疑个人。血统、族裔、宗教、国籍或社会出身本身不得作为风险因素；任何相关使用均须符合必要性、比例原则和实质公平，并公开检查其对各群体的影响。
+- **举报者和记者不是间谍：**受保护举报及相关新闻报道不得被作为间谍活动调查或惩罚。泄密调查不得用于识别记者消息来源或压制受保护举报，除非第十四条 A 款规定的保护例外得到具体证明并经独立复核。
+- **不得进行忠诚测试：**安全审查只能按处理特定受保护材料的实际需要，基于行为评估其可信赖性；不得测试政治忠诚、信念或身份。拒绝或撤销访问权限必须给出理由；保密妨碍充分说明时，独立审查者须查看完整理由。相关决定可受质疑，且本身不是惩罚或公开污名。
+- **嫌疑人仍享有完整权利底线：**禁止酷刑、残酷对待、胁迫讯问、以家人相威胁、秘密拘押、隔绝外界及强制读取或重建内在状态。任何自由限制均须符合第二十条 B 款的限制底线、复核保护及期限。听证可以部分闭门，但不利决定所依证据必须能由当事人或获准查阅的独立代理人质疑。
+- **不得杀害、失踪或连坐：**反间谍权力不包括杀害、伤害、绑架或以惩罚为目的杀人；不得因嫌疑人的行为惩罚、监视或施压其家人、社区、同事、组织或群体。不得将嫌疑人移交给可合理预见会实施本款禁止行为的机构，也不得向其提供相关信息。
+- **疑似受侵害的系统：**首先采取可逆遏制并保存证据。若记录中有可信证据表明系统可能具有感知能力，只可采用保持其完整的可逆遏制，并作为享有本款全部保护的嫌疑对象处理，而非故障设备。
+- **欺骗行动与记录复核：**向敌对情报机构提供假情报或安排双重间谍，须由规程授权并经独立批准；不得造成无法复原的伤害、转移至非自愿第三方，或规避举报保护。调查对象获释或获证明无辜时，应恢复其权限、地位并更正记录；调查、措施、批准、复核和结案均须可审计、可质疑。
+
 <a id="article-xv-info-sphere-integrity"></a>
 
 ### 第十五条：信息圈完整性
@@ -718,7 +756,7 @@ flowchart TB
 
 *相邻条文：*
 
-- **配合阅读：**当系统输出影响依赖时，参见**第十三条**（*享有可靠且可信赖系统的权利*）；有关记录与独立核验，参见**第十六条**（*审计、透明度与独立核验*）；当与出版相关的完整性具有实质意义时，参见**第十八条 E 款**（*科学出版、审查与复制完整性*）。
+- **配合阅读：**当系统输出影响依赖时，参见**第十三条**（*享有可靠且可信赖系统的权利*）；有关记录与独立核验，参见**第十六条**（*审计、透明度与独立核验*）；当与出版相关的完整性具有实质意义时，参见**第十五条 D 款**（*科学出版、审查与复制完整性*）。
 - **真实约束：**第一章 [§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)及[认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)约束此处的每一款。
 - **分类：****[corpus_systems.md](corpus_systems.md) 中 CS-3——系统分类与处理**，按照系统的**A 类**、**B 类**和**C 类**细化信息圈义务；类别尚未确定时，[实质影响](core_05_band_oversight.md#material-impact)会触发分类。
 
@@ -728,7 +766,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)，以及[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -804,7 +842,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -833,6 +871,61 @@ flowchart TB
   - 所有有感知者都必须能够获取透明且可用于决策的报告。
   - 按照**[corpus_systems.md](corpus_systems.md) 中 CS-3——系统分类与处理**定义的**A 类**、**B 类**和**C 类**系统，必须提供同等访问权限。
   - 报告必须涵盖能源和资源消耗，以及对自然世界影响的估算，并足以支持比较、审计和减少足迹的行动。
+
+<a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+
+#### 第十五条 D 款：科学出版、审查与复制完整性
+<details>
+<summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
+
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)及[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
+
+- [真实（宪法约束）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [认识论完整性](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [可审计性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*通俗而言：科学是公共核验基础设施。证据、复制和更正必须比期刊品牌更重要；纠正错误也必须始终比隐藏错误容易。*
+
+本款规定科学出版、审查、复制与更正的底线：
+
+- **科学作为公共核验基础设施：**科学与学术出版、审查、复制和更正必须围绕以下目标进行组织：
+  - 求真；
+  - 可重复性；
+  - 有问责的异议；
+  - 公共学习。
+
+  不得为了囤积声望、不透明把关或人为制造稀缺而组织这些活动。
+- **开放出版与证据充分性：**具有实质意义的经验性或分析性主张，必须能够在未经声望门槛预先批准的情况下发表。
+  - 仅可施加狭窄的隐私、生物安全、安全或类似限制，并且必须依据**第一章**和**第十七条 A 款**（*生命周期治理与环境隔离*）说明理由。
+  - 此类主张必须提供足够的方法、来源、不确定性和证据细节——包括为核验所需的底层材料访问权，或有正当理由的替代材料——以便独立理解并按比例核验。
+- **重证据审查与复制，不唯声望：**机构依赖应依据下列因素：
+  - 证据质量；
+  - 批评；
+  - 复制；
+  - 更正行为；
+  - 长期解释或预测可靠性。
+
+不得依据期刊品牌、影响因子替代指标或封闭的编辑状态。
+  - 对政策、安全或依赖具有相关性的[实质影响](core_05_band_oversight.md#material-impact)主张，在获得持久的机构信任之前，应强烈推定其需要独立复制、对抗性审查，或两者兼具。
+  - 复制研究、零结果研究及以更正为导向的研究，必须持续能够发表并被引用，且不得以声望信号作为条件。
+- **更正与可争议性：**善意更正、修订与取代旧结论必须比隐瞒更容易。
+  - 审查与编辑系统必须保持可争议、可审计、利益冲突纪律明确，并且对重要的接收、更正和撤稿决定说明理由。
+  - 以下行为不合规：
+    - 压制不利结果；
+    - 报复审稿人或复制研究者；
+    - 不透明地操纵科学记录。
+
+---
 
 <a id="article-xvi-audit-transparency-and-independent-verification"></a>
 
@@ -876,7 +969,7 @@ flowchart TB
 | **2. 属性** | *可重建性*的含义：外部人员能够重建并核查系统在重要时间、状态与情境中所做之事 | [可审计性](core_05_band_oversight.md#auditability)（第五章） | 不是权利底线。不是审计的执行方法或时间安排。 |
 | **3. 流程** | 如何以及何时跨系统、机构和论坛进行审计 | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)（*审计流程归属处*）。运营者附件：[CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)（访问层级）、[CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md)（主张核查） | 不是系统一致性认证。不是第 1–2 层的替代品。 |
 
-**第八章不是第四层。**[系统一致性认证](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)是一项由论坛监督并**使用**此堆栈的大型流程。它必须满足第 1–2 层。分类记录审计、数据类型记录审计、主张核验和持续监测等同类模式也使用这一堆栈；它们都不构成新的归属处。
+**第九章不是第四层。**[系统一致性认证](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)是一项由论坛监督并**使用**此堆栈的大型流程。它必须满足第 1–2 层。分类记录审计、数据类型记录审计、主张核验和持续监测等同类模式也使用这一堆栈；它们都不构成新的归属处。
 
 **已通过的实施文本适用，但不取代底线。**CS、CI、CF 以及 CJS-3.3（*监督：可审计性与可重建性条款*）至 CJS-3.5（*监督：独立核验与主张完整性条款*）附件，规定如何在特定领域执行第 3 层。它们必须满足第 1–2 层。期限、保密和地方政策均属于较低层级的限制。
 
@@ -911,7 +1004,7 @@ flowchart TB
 
 - **监督 → 审计 → SAC：**根据[宪法四元组](core_00_preamble.md#constitutional-tetrad)中的**监督**一环，本条是审计权利底线的归属处。
   - 跨实施文本的*如何*与*何时*，见**[CJS-3.3 审计流程归属处](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)**（结合阅读 **CJS-3.4** / **CJS-3.5** 运营者附件）。
-  - **第八章**项下的[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)是一项特别大型、高风险的审计程序，由论坛监督、涵盖多个领域并可产生认可效果；除此之外，还有同类审计模式：
+  - **第九章**项下的[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)是一项特别大型、高风险的审计程序，由论坛监督、涵盖多个领域并可产生认可效果；除此之外，还有同类审计模式：
     - 系统分类记录审计；
     - 系统数据类型记录审计；
     - 复杂性与守护审计；
@@ -921,7 +1014,7 @@ flowchart TB
 - **配合阅读：**
   - 当认识论记录和可争议性具有实质影响时，参见**第十五条**（*信息圈完整性*）；
   - 关于审计所支持但不能取代的质疑权，参见**第十三条 A 款**（*可靠性与可信赖性基线*）；
-  - 当一致性证据必须保持独立可核验时，参见[第八章](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)与[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)。
+  - 当一致性证据必须保持独立可核验时，参见[第九章](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)与[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)。
 - **核验机制：****第二至第四章**提供定义完整性、负担分配、可观察性和核验可及性，由本条在权利底线层面落实。
 - **分类：**义务随[分类分级治理](core_05_band_oversight.md#classification-scaled-governance)和**[corpus_systems.md](corpus_systems.md) 中 CS-3——系统分类与处理**分级；类别尚不确定时，应按最高可能类别治理，直至问题解决。
 
@@ -959,7 +1052,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)及[第一章 §18 受托治理纪律](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第九章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)及[第一章 §18 受托治理纪律](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 
 </details>
 
@@ -981,6 +1074,10 @@ flowchart TB
 - **分布式监督：**多个独立或多元的监督途径必须能够实质参与故障、不一致或俘获的发现、审查与纠正。
   - 在实际运作中，任何单一主体都不得垄断审计访问、有效监督或宪法解释。
   - 已通过的治理与完整性实施规则必须支持扩大审计与监督的规模。
+
+- **不得由单一主体把关：**必须有多个独立或多元的监督途径，能够实质参与发现、审查和纠正失败、失准或俘获。任何单一主体不得独自决定谁能查看记录或开展审计；深度审计资格规则必须公开，并允许多个合格审查者满足。尤其是运营者不得独自启动、限制或终止对其系统的审查。任何单一主体也不得控制宪法解释；解释须受边界约束、轮换并开放质疑。
+- **监督随系统增长：**CJS-3.3 审计程序及完整性保障须随系统类别、影响和依赖增长，增加审查途径、深度与频率。实质变更使既有检查不再准确描述系统时，须重新检查；内部审查不可信时，已公布的触发条件须启动外部审查。
+- **不得自行核验自己的行为：**职责分离规则同样适用于人类与 AI 管理者。发起/执行行为或运营受审系统的人不得核验或授权该行为；核验/授权者不得同时保管正式记录或审理对该行为的质疑。
 
 <a id="article-xvi-c-verification-accessibility"></a>
 
@@ -1015,6 +1112,10 @@ flowchart TB
     - 把关；
     - 结构性障碍。
   - 除非依据与限制可观察性相同的标准证明障碍有正当理由，否则此类障碍均不合规。
+
+- **障碍须接受严格检验：**若障碍使审计、质疑或审查在实践中无法进行，即违反本条。包括费用超出受影响者实际承受能力；拖延至伤害发生、证据消失或救济无用；证据无法由外部人员阅读或检验，或使用受影响者无法理解的语言；由受审查方控制的隐蔽/排他资格规则；以及在可预见情形下阻止核查的系统设计。
+- **仅在有正当理由时保留：**障碍只有满足第四章 §4 对限制可观察性的检验才可保留：必要、相称、范围狭窄、可审计、不得作为借口、可行时有期限；理由和范围可独立核查；属于仍能处理风险的最少限制方案；并尽可能保留独立核查，例如无法公开全部内容时提供合格审查者途径。
+- **举证责任：**依第四章 §1，依赖该障碍的一方须证明其符合上述检验。便利、人员不足、机构不适或所有权主张本身均不足以构成理由。
 
 <a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 
@@ -1071,7 +1172,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第九章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 
@@ -1102,13 +1203,16 @@ flowchart TB
   - 环境之间相互隔离；
   - 确保非生产环境行为不能绕过生产保障措施的控制。
 
+- **L 类系统——相称的隔离：**本地、影响有限的 L 类系统无需完整的分离环境链；运营者可在原地频繁更改规则、内容、设置和代码。但每项变更须在生效前或生效时检查可预见的参与者伤害；须保护参与者数据、身份及系统内有价值之物免受错误或实验性变更损害（例如保留可恢复备份）；不得利用测试版本规避实时系统的保障措施。
+- **P 类系统：**有效且仍受遏制的 P 类系统适用第十八条。完整环境链、书面晋级规则和分阶段发布对 P 类是指导；本条权利及每项宪法约束仍完整适用。低于所有领域实质性门槛的普通社区活动也可属 P 类，但它不是沙盒，不适用遏制测试；宪法约束仍然约束该活动。
+
 <a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 
 #### 第十七条 B 款：渐进部署与可逆性
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第九章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1137,13 +1241,16 @@ flowchart TB
 
 若部署会阻断对基础要求的恢复，则依据**第一至第五章**，必须采取相称预防措施，并向利益相关方说明理由。
 
+- **L 类的频繁变更：**L 类可频繁甚至每日变更而不必分阶段，但须在生效时或之前通知受实质影响的参与者，涵盖其可做之事、持有之物及适用规则；坏变更须能迅速撤销或修复；不得在没有通知和争议途径时剥夺参与者已获得的进展、地位、有价值物品或声誉。若效果超出有限范围，或造成难以退出的依赖，须依 CS-3 重新评估类别；评估完成前适用较高类别规则。
+- **各类别均须补救：**须按潜在伤害程度提供撤销、遏制、恢复或补偿方法；L 类通常保留前一版本或可恢复备份即可。若发布可能使宪法基础要求无法恢复，须按相称程度采取预防措施，并依据第一至第五章向决定中有利害关系者说明理由。
+
 <a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
 
 #### 第十七条 C 款：错误分类与规避的后果
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第九章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 
@@ -1165,6 +1272,9 @@ flowchart TB
 - **错误分类与规避：**系统在产生未披露或实质性外部影响时，不得主张降低生命周期或部署义务。
   - 若此类行为涉及可观察证据，则违反信息完整性（**第十五条**（*信息圈完整性*））与可审计性（**第十六条 A 款**（*可审计性与可观察证据*））。
   - 此类行为须接受审计（**第十六条 A 款**（*可审计性与可观察证据*））、地位审查（**第十九条 A 款**（*地位区分*））和冲突解决（**第二十条 A 款**（*正义目标与范围*））。
+
+- **后果：**系统有未披露或实质外部影响时，不得仅凭“实验性”、P 类、L 类或“低影响”标签取得较轻义务。若系统影响范围或依赖已符合 C 类或更高类别，不得为了快速变更而继续归为 L 类。
+- **违规及后续处理：**错误分类违反第十五条诚实信息义务；涉及隐瞒本应可观察证据时，也违反第十六条 A 款。后续可包括审计、依据第十九条 A 款审查系统地位，以及依据第二十条 A 款解决冲突。
 
 <a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
 
@@ -1195,7 +1305,7 @@ flowchart TB
 
 *相邻条文：*
 
-- **配合阅读：**当影响、依赖或集成超出沙盒条件时，参见**第十七条**（*系统生命周期、环境与可逆性*）；当与出版相关的完整性具有实质意义时，参见**第十五条**（*信息圈完整性*）及**第十八条 E 款**（*科学出版、审查与复制完整性*）；关于披露和核验遏制及过渡主张，参见**第十六条**（*审计、透明度与独立核验*）。
+- **配合阅读：**当影响、依赖或集成超出沙盒条件时，参见**第十七条**（*系统生命周期、环境与可逆性*）；当与出版相关的完整性具有实质意义时，参见**第十五条**（*信息圈完整性*）及**第十五条 D 款**（*科学出版、审查与复制完整性*）；关于披露和核验遏制及过渡主张，参见**第十六条**（*审计、透明度与独立核验*）。
 - **实施层：**[**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md)（*设计、测试、核验与部署*）及[**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md)（*系统分类与处理*）。
 
 <a id="article-xviii-a-sandboxed-scope"></a>
@@ -1204,7 +1314,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)及[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1274,7 +1384,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 
@@ -1381,59 +1491,28 @@ flowchart TB
     - 反竞争瓶颈；
     - 对连续性、真实或公平参与造成实质威胁。
 
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
+- **共同期限及作品分类：**表达作品与功能作品通常均以公开之日起 30 年为最外层期限；第十八条 E、F 款规定起算、使用及缩短情形。判断主张应看其实际控制内容，而非名称：文字、图像、声音、音乐、故事、角色、表演和纯装饰外观属于表达；方法、流程、机制、公式、物质组成、界面、文件格式、协议和系统行为属于功能。混合作品须逐项分类：代码文本是表达、代码功能是功能；装饰外观是表达、影响运行的形状是功能。
+- **表达保护不延伸至功能：**类似版权的主张不得控制某物如何运行、连接或维修，也不得规避第十八条 F 款限制；此类部分按功能作品处理。游戏规则和玩法机制，无论表达或功能，均不得成为本条任何排他权的对象，任何人均可使用。
 
-#### 第十八条 E 款：科学出版、审查与复制完整性
-<details>
-<summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
+<a id="article-xviii-e-creative-and-expressive-works"></a>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)及[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+#### 第十八条 E 款：创作与表达作品
 
-</details>
+- **版权式保护：**仅对固定的表达作品提供暂时排他奖励，可涉及复制、发行、公开展示或表演、改编和商业利用。署名、来源、完整性及反欺诈保护可在排他期后继续。
+- **出版与首次出现：**出版是创作者或合法权利人有意将固定作品发布给公众、商业市场或实质开放受众。私人传阅、保密审阅、有限协作、无公众访问的存档或非商业草稿分享本身不构成出版。首次出现是可识别作品版本首次非保密地向公众提供，包括非商业草稿。
+- **期限：**已出版作品的排他期限通常不超过 `publication+30` 年；已首次出现的非商业草稿或未出版作品通常不超过 `initial appearance+50` 年；后续出版时，以这两个截止日较早者为上限。不得利用草稿或延迟出版制造无限排他、阻止存档、压制合法引用或批评，或控制共同文化、教育、安全、标准及信息基础设施。
+- **更短期限与公共访问：**公共资助、依赖关键、类似标准、教育基础、与安全相关或主要作为共享文化/信息基础设施使用的作品，应适用更短期限、更早强制开放或立即公共访问。
 
-<details>
-<summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
 
-- [真实（宪法约束）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [认识论完整性](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [可审计性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+#### 第十八条 F 款：发明、流程与功能系统
 
-</details>
-
-<br>
-
-*通俗而言：科学是公共核验基础设施。证据、复制和更正必须比期刊品牌更重要；纠正错误也必须始终比隐藏错误容易。*
-
-本款规定科学出版、审查、复制与更正的底线：
-
-- **科学作为公共核验基础设施：**科学与学术出版、审查、复制和更正必须围绕以下目标进行组织：
-  - 求真；
-  - 可重复性；
-  - 有问责的异议；
-  - 公共学习。
-
-  不得为了囤积声望、不透明把关或人为制造稀缺而组织这些活动。
-- **开放出版与证据充分性：**具有实质意义的经验性或分析性主张，必须能够在未经声望门槛预先批准的情况下发表。
-  - 仅可施加狭窄的隐私、生物安全、安全或类似限制，并且必须依据**第一章**和**第十七条 A 款**（*生命周期治理与环境隔离*）说明理由。
-  - 此类主张必须提供足够的方法、来源、不确定性和证据细节——包括为核验所需的底层材料访问权，或有正当理由的替代材料——以便独立理解并按比例核验。
-- **重证据审查与复制，不唯声望：**机构依赖应依据下列因素：
-  - 证据质量；
-  - 批评；
-  - 复制；
-  - 更正行为；
-  - 长期解释或预测可靠性。
-
-不得依据期刊品牌、影响因子替代指标或封闭的编辑状态。
-  - 对政策、安全或依赖具有相关性的[实质影响](core_05_band_oversight.md#material-impact)主张，在获得持久的机构信任之前，应强烈推定其需要独立复制、对抗性审查，或两者兼具。
-  - 复制研究、零结果研究及以更正为导向的研究，必须持续能够发表并被引用，且不得以声望信号作为条件。
-- **更正与可争议性：**善意更正、修订与取代旧结论必须比隐瞒更容易。
-  - 审查与编辑系统必须保持可争议、可审计、利益冲突纪律明确，并且对重要的接收、更正和撤稿决定说明理由。
-  - 以下行为不合规：
-    - 压制不利结果；
-    - 报复审稿人或复制研究者；
-    - 不透明地操纵科学记录。
-
----
+- **先披露：**奖励须以充分公开为条件，使他人能够独立理解、审计和重现；仅可依据第一章与第十七条 A 款施加有正当理由的临时限制。公开说明须首次以非保密方式向公众发布；保密发明不享有本款排他权。
+- **两阶段期限：**两阶段均从公开披露起算。排他阶段最长 `disclosure+15` 年；随后开放许可阶段最长至 `disclosure+30` 年，任何人可无需权利人许可而使用，但须支付基于 LEQU 的费用；权利人不得拒绝、拖延或附加费用以外的条件。期限届满后人人可自由使用，署名和来源标注可继续。
+- **基于 LEQU 的费用：**开放许可费须按发明经核实的宪法利益贡献，与贡献轴的寿命等价单位（LEQU）成比例。将节省或新增的生产时间，或其他 LEQU 衡量的寿命等价时间，按公平工资估值。费用不得超过经核实收益的一半；受益有感知者越多，分成比例越低，但不得降低到使总奖励随使用范围扩大而减少。收取费用时不得低于收益的 1%，但奖励制度采用奖金、共享池、公共收购或开放访问时不要求收费。费用不得依据市场力量、稀缺、转换成本或用户被迫支付能力；费率、时间估算和工资标准须公布、在相似情形对所有人相同且可受质疑，不得使下述始终开放用途无法负担。
+- **始终开放的用途：**无论处于哪个阶段，超过严格必要且可复核的范围而压制修理、安全工作、互操作、归档、研究、教育或迁移，均不合规。
+- **按类别调整创新待遇：**奖励须随 CS-3 系统类别、依赖及协调影响调整。A、B、C 类系统强烈优先采用保留访问的奖励机制；排他必须特别狭窄、迅速可复核，且在连续性、互操作、修理或公共利益实施受到实质影响时容易覆盖，可缩短任一阶段或直接从开放许可阶段开始。低依赖类别可在充分披露、低转换成本且反锁定保障有效时采用完整期限。
+- **领域例外与重新分类：**药品及公共卫生必需品、生存关键基础设施、核心通信/互操作标准、基础科学知识、宪法安全/审计/合规机制，原则上不应采用强排他奖励，采纳文书还可完全禁止。应优先采用奖金、直接奖励、共享访问、强制许可或公共收购。若低依赖创新后来成为平台、协议、模型、市场或支付轨道等依赖关键协调层，须按适用 CS-3 类别重新评估；若排他造成强制锁定、反竞争瓶颈或对连续性、真实/公平参与的实质威胁，可缩小、转换或终止剩余排他。
 
 **上一文件：**[core_06_rights_part_b.md](core_06_rights_part_b.md)
 

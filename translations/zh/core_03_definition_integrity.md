@@ -37,8 +37,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)。
-- 下游：[第三章，第 2 节 — 来自可观察系统行为的不合规](#2-non-compliance-from-observable-system-behavior)；[第四章，第 2 节 — 定义可追溯性要求](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第八章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)。
-- 一并阅读：[第一章，§3.2 — 真理（认识完整性约束）](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — 建立在可观察行为而非所声称的结构或意图之上的解释，是在定义完整性层面对宪法真理约束的操作化。
+- 下游：[第三章，第 2 节 — 来自可观察系统行为的不合规](#2-non-compliance-from-observable-system-behavior)；[第四章，第 2 节 — 定义可追溯性要求](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第十章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
+- 一并阅读：[第一章，§3.2 — 真理（认识完整性约束）](core_01_a_values_principles.md#5-真相认识完整性约束) — 建立在可观察行为而非所声称的结构或意图之上的解释，是在定义完整性层面对宪法真理约束的操作化。
 
 </details>
 
@@ -89,7 +89,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：[第三章，第 1 节 — 定义完整性与反规避约束](#1-definition-integrity-and-anti-evasion-constraints)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)；[第二章，§2.2 因结构或适用削弱而不合规](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening)。
-- 下游：第 [2.1](#21-common-evasion-patterns) 至 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 节中的类型目录；[3. 不合规认定画像](#3-non-compliance-finding-profiles)；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第四章，第 3 节 — 可追溯性的可观察性要求](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)；[第七章 §6](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening)（*系统对齐认证重开与反规避指针*）；[第八章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)。
+- 下游：第 [2.1](#21-common-evasion-patterns) 至 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 节中的类型目录；[3. 不合规认定画像](#3-non-compliance-finding-profiles)；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第四章，第 3 节 — 可追溯性的可观察性要求](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)；[第九章 §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)（*系统对齐认证重开与反规避指针*）；[第十章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
 - 一并阅读：[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)，关于完整功能系统条件下的整系统联合满足规则；[第二章，§2.4 歧义下的解释规则](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — 削弱保障、收窄必须被评估者，或使真实世界结果变差的解释无效；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 证据必须在本节规则下展示合规；在此处会构成不合规的证明，未满足举证责任；[不合规](../../core_05_band_integrative.md#non-compliance)。
 
 </details>
@@ -153,7 +153,7 @@
 - 形式上的更名、重组或实体重分类，卸下义务却未在实践中转移责任
 - 图方便的分类选择，抹去定义所要求的区分
 
-凡形式结构变更具有实质性之处，适用[第一章 §11.6 继受责任与形式结构不得逃脱](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)。
+凡形式结构变更具有实质性之处，适用[第一章 §11.6 继受责任与形式结构不得逃脱](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes)。
 
 <a id="22-reductive-evasion"></a>
 #### 2.2 缩减性规避
@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第三章，第 2 节 — 来自可观察系统行为的不合规](#2-non-compliance-from-observable-system-behavior)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)。
-- 下游：[第四章，第 2 节 — 定义可追溯性要求](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；[第七章 — 系统对齐认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第八章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)；[第九章 — 轨迹效果与整合](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
+- 下游：[第四章，第 2 节 — 定义可追溯性要求](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；[第九章 — 系统对齐认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 轨迹效果与整合](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
 - 一并阅读：[不合规认定画像](../../core_05_band_accountability.md#non-compliance-finding-profile) — 画像字段的典范 O/M/A/C 家园；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
 
 </details>
@@ -230,19 +230,19 @@
 - 可以点名最能描述该项失败的[宪法四元](core_00_preamble.md#constitutional-tetrad)腿与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)定向 — 例如监督、参与或问责与繁盛或延续交叉
 - 不改变底层定义是否被满足
 - 不创建第二套判定标签
-- 不取代[第八章](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)的贡献或违规测量
+- 不取代[第十章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)的贡献或违规测量
 
 轨迹效果取决于正在被评估的是谁，以及该系统是否已被认证。下列分节设定那些情形。
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 已认证系统的轨迹效果
 
-若一系统已在[系统对齐认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下运行 — 包括承认、有条件承认，或尚未过期的再核验 — 对该系统功能范围上具实质性的经核实不合规**必须**进入[第八章](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)对**该系统**的轨迹测量。只有通过[经核实输入门](../../core_10_standing_assessment.md#verified-inputs-for-standing)的事实才可进入。在第八章与第九章下测量并适用轨迹。重开、撤回或其他认证后果仍属[第七章](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening)。它们不取代该系统的轨迹记录。
+如果某系统已经依据[系统协调认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)运行——包括认证、有条件认证或尚未到期的重新认证——那么该系统功能范围内经核实且具有实质意义的不合规**必须**纳入针对**该系统**的[第十章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)地位测量。只有通过[已核实输入门槛](../../core_10_standing_assessment.md#verified-inputs-for-standing)的事实才能纳入。依照[第十章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)测量地位；依照[第十一章](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)适用其整合与效力。重新开启、撤销或其他认证后果仍由[第九章](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)处理；这些后果不能取代该系统的地位记录。
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 首次认证时的轨迹效果
 
-若该系统仍处于其**首次**[系统对齐认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)且尚未被承认 — 包括承认被推迟或被拒绝之处 — 经核实的不合规主要决定第七章下的**认证结果**。该结果可以是有条件承认、推迟承认、不承认，或一项可比结果。当事实支撑时，那些认证记录仍可在[第七章 §8](../../core_09_b_system_alignment_certification_record_process.md#8-relationship-to-standing)下提供经核实的轨迹输入。本章不要求已认证运行中系统必须接收的同一套轨迹记录。
+如果系统仍处于**首次**[系统协调认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)流程中且尚未获得认证——包括认证被延期或拒绝的情形——经核实的不合规主要决定第九章下的**认证结果**。结果可以是有条件认证、延期认证、不予认证或类似结果。在授予认证之前，这些认证记录不会提供地位输入；根据[第九章§10 与地位的关系](../../core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing)，该节只将已认证系统的记录作为地位输入来源。认证授予后（包括有条件认证），适用[§3.1 已认证系统的地位影响](#31-standing-effects-for-already-certified-systems)。本章不要求提供与已认证并运行的系统相同的地位记录。
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 感知者与机构的轨迹效果
@@ -258,7 +258,7 @@
 - 隐瞒
 - 可行的预防能力
 
-机构的轨迹在该机构是被评估对象时受影响，或在它被核实为不合规模式的载体时受影响。机构记录与个体感知者记录保持分开可追溯。那些情形在[第八章](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)与[第九章](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)下适用。认定画像帮助路由与审计。它本身并不设定轨迹结果、槽位、锁定、门或救济。
+机构的轨迹在该机构是被评估对象时受影响，或在它被核实为不合规模式的载体时受影响。机构记录与个体感知者记录保持分开可追溯。那些情形在[第十章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)与[第十一章](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)下适用。认定画像帮助路由与审计。它本身并不设定轨迹结果、槽位、锁定、门或救济。
 
 <a id="34-operational-constraints"></a>
 #### 3.4 操作性约束

@@ -4,10 +4,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">موضع الملف في المتن (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الثالث بالإنجليزية](../../core_03_definition_integrity.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
->
-> **السابق (هذه اللغة):** [core_02_definition_structure.md](core_02_definition_structure.md)
+> هذا الملف **جزء من دستور الكائنات الواعية**، وهو **ملزم فقط بالاشتراك** مع ملفات `core_*` المرقّمة الأخرى عند قراءتها كصك واحد. ويحتوي على **الفصل الثالث**: سلامة التعريف والتهرّب وعدم الامتثال. يقع **الفصل الثاني** — بنية التعريف ومواءمة المكوّنات — في [`core_02_definition_structure.md`](../../core_02_definition_structure.md). تطابق أرقام الفصول والإحالات المرجعية الصك المتكامل. ويُحفظ ترتيب القراءة، والفصل بين الملزم والداعم، وبيانات إصدار المتن في [README.md](../../README.md).
+
+**السابق (هذه اللغة):** [core_02_definition_structure.md](core_02_definition_structure.md)
 >
 > **التالي (هذه اللغة):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 > **قوس القراءة:** §1 سلامة التعريف ومنع التهرّب → §2 عدم الامتثال من السلوك القابل للرصد وأنواع التهرّب → §3 توصيفات الإيجاد وآثار الوضعية.
@@ -39,7 +38,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: مبادئ: [الفصل الثاني، §1 — الغرض والدور](core_02_definition_structure.md#1-purpose-and-role)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-definition-integrity-requirement).
-- أسفل: [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](#2-non-compliance-from-observable-system-behavior)؛ [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- أسفل: [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](#2-non-compliance-from-observable-system-behavior)؛ [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - يُقرأ مع: [الفصل الأول، القسم 4.2 — الحقيقة (قيد النزاهة المعرفية)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — التفسير القائم على السلوك القابل للرصد لا على البنية المعلَنة أو النيّة يشغّل قيد الحقيقة الدستوري في طبقة سلامة التعريف.
 
 </details>
@@ -91,7 +90,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: مبادئ: [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [الفصل الثاني، §2.2 عدم الامتثال بالتقويض البنيوي أو التطبيقي](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening).
-- أسفل: فهارس الأنواع في الأقسام [2.1](#21-common-evasion-patterns) حتى [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint)؛ [3. توصيفات إيجاد عدم الامتثال](#3-non-compliance-finding-profiles)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [الفصل الرابع، القسم 3 — متطلب قابلية رصد التتبع](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)؛ [الفصل السابع §6](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) (*مؤشّر إعادة فتح تصديق مواءمة النظام ومنع التهرّب*)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- أسفل: فهارس الأنواع في الأقسام [2.1](#21-common-evasion-patterns) حتى [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint)؛ [3. توصيفات إيجاد عدم الامتثال](#3-non-compliance-finding-profiles)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [الفصل الرابع، القسم 3 — متطلب قابلية رصد التتبع](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)؛ [الفصل التاسع §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*مؤشّر إعادة فتح تصديق مواءمة النظام ومنع التهرّب*)؛ [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - يُقرأ مع: [الفصل الثاني، §1 — الغرض والدور](core_02_definition_structure.md#1-purpose-and-role) لقاعدة الاستيفاء المشترك تحت شروط النظام الوظيفية الكاملة؛ [الفصل الثاني، §2.4 قاعدة التفسير تحت الغموض](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — التفسيرات التي تُضعِف الضمانات أو تضيّق ما يجب تقييمه أو تُردّي النتائج الواقعية غير صالحة؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — يجب أن يُظهر الدليل الامتثال تحت قواعد هذا القسم؛ والإثبات الذي يكون غير ممتثل هنا يخفق في عبء الإثبات؛ [عدم الامتثال](../../core_05_band_integrative.md#non-compliance).
 
 </details>
@@ -155,7 +154,7 @@
 - إعادة تسمية شكلية أو إعادة هيكلة أو إعادة تصنيف كيان تُسقط واجبات من دون نقل المسؤولية في الممارسة
 - اختيارات تصنيف مريحة تمحو التمييزات التي يطلبها التعريف
 
-حيث يكون تغيّر البنية الشكلية ماديًا، طبّق [الفصل الأول §11.6 مسؤولية الخلف ومنع الهروب بالبنية الشكلية](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape).
+حيث يكون تغيّر البنية الشكلية ماديًا، طبّق [الفصل الأول §19.6 الحفاظ على المسؤولية عند تغير الملكية أو الهيكل](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes).
 
 <a id="22-reductive-evasion"></a>
 #### 2.2 التهرّب الاختزالي
@@ -218,7 +217,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](#2-non-compliance-from-observable-system-behavior)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-definition-integrity-requirement).
-- أسفل: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [الفصل السابع — تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)؛ [الفصل التاسع — آثار الوضعية والتكامل](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 البوصلة الدستورية وخريطة العناقيد](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- أسفل: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [الفصل التاسع — تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [الفصل الحادي عشر — آثار الوضعية والتكامل](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 البوصلة الدستورية وخريطة العناقيد](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - يُقرأ مع: [توصيف إيجاد عدم الامتثال](../../core_05_band_accountability.md#non-compliance-finding-profile) — الموطن القانوني O/M/A/C لحقول التوصيف؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -232,19 +231,19 @@
 - يجوز أن يسمّي أي رجل من [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) وأي توجّه من [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims) يصف الإخفاق أفضل وصف — مثلًا الرقابة أو المشاركة أو المساءلة متقاطعًا مع الازدهار أو الاستمرارية
 - لا يغيّر ما إذا كان التعريف الأساسي مستوفى
 - لا ينشئ تسمية نتيجة ثانية
-- لا يحل محل قياس الإسهام أو الانتهاك في [الفصل الثامن](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)
+- لا يحل محل قياس الإسهام أو الانتهاك في [الفصل العاشر](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)
 
 تعتمد آثار الوضعية على من يُقيَّم وعلى ما إذا كان النظام مصدَّقًا أصلًا. وتضع الأقسام الفرعية أدناه تلك الحالات.
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
-#### 3.1 آثار الوضعية للأنظمة المصدَّقة أصلًا
+#### 3.1 آثار الوضعية للأنظمة الحاصلة أصلًا على التصديق
 
-إذا كان نظام يعمل أصلًا تحت [تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — بما في ذلك الاعتراف أو الاعتراف المشروط أو إعادة تحقق لم تنتهِ صلاحيتها — **يجب** أن يُدرَج عدم الامتثال المادي الموثَّق على النطاق الوظيفي لذلك النظام في قياس الوضعية في [الفصل الثامن](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) **لذلك النظام**. ولا يجوز أن تدخل إلا الوقائع التي تجتاز [بوابة المدخلات الموثّقة](../../core_10_standing_assessment.md#verified-inputs-for-standing). قِس الوضعية وطبّقها تحت الفصلين الثامن والتاسع. وتبقى إعادة الفتح أو السحب أو سائر عواقب التصديق تحت [الفصل السابع](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening). وهي لا تحل محل سجلات وضعية ذلك النظام.
+إذا كان نظام يعمل أصلًا بموجب [تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — بما في ذلك التصديق أو التصديق المشروط أو إعادة التصديق التي لم تنتهِ صلاحيتها — **يجب** أن يدخل عدم الامتثال المادي الموثَّق في النطاق الوظيفي لذلك النظام في قياس الوضعية في [الفصل العاشر](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) **لذلك النظام**. ولا تدخل إلا الوقائع التي تجتاز [بوابة المدخلات الموثّقة](../../core_10_standing_assessment.md#verified-inputs-for-standing). قِس الوضعية بموجب [الفصل العاشر](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ وطبّق تكاملها وآثارها بموجب [الفصل الحادي عشر](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration). وتظل إعادة الفتح أو السحب أو غير ذلك من عواقب التصديق خاضعة لـ[الفصل التاسع](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes). ولا تحل تلك العواقب محل سجلات وضعية النظام.
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 آثار الوضعية عند التصديق الأول
 
-إذا كان النظام ما زال في **أول** [تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ولم يُعتَرف به بعد — بما في ذلك حيث يُؤجَّل الاعتراف أو يُرفَض — يقرّر عدم الامتثال الموثَّق أساسًا **نتيجة التصديق** تحت الفصل السابع. ويجوز أن تكون تلك النتيجة اعترافًا مشروطًا أو اعترافًا مؤجَّلًا أو عدم اعتراف أو نتيجة مماثلة. ويجوز لسجلات التصديق تلك مع ذلك أن تغذّي مدخلًا موثَّقًا للوضعية تحت [الفصل السابع §8](../../core_09_b_system_alignment_certification_record_process.md#8-relationship-to-standing) حين تسند الوقائع ذلك. ولا يطلب هذا الفصل سجلات الوضعية نفسها التي يجب أن يتلقاها نظام عامل مصدَّق أصلًا.
+إذا كان النظام لا يزال في مرحلة [تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) **الأول** ولم يُمنح التصديق بعد — بما في ذلك الحالات التي يُؤجَّل فيها التصديق أو يُرفض — فإن عدم الامتثال الموثَّق يحدد أساسًا **نتيجة التصديق** بموجب الفصل التاسع. وقد تكون النتيجة تصديقًا مشروطًا أو تصديقًا مؤجلًا أو عدم التصديق أو نتيجة مماثلة. وإلى أن يُمنح التصديق، لا توفر سجلات التصديق تلك أي مدخل للوضعية بموجب [الفصل التاسع، §10 العلاقة بالوضعية](../../core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing)، إذ لا يُستمد منها مدخل للوضعية إلا من الأنظمة الحاصلة على التصديق. وبعد منح التصديق، بما في ذلك التصديق المشروط، ينطبق [§3.1 آثار الوضعية للأنظمة الحاصلة أصلًا على التصديق](#31-standing-effects-for-already-certified-systems). ولا يفرض هذا الفصل سجلات الوضعية نفسها التي يجب أن يتلقاها نظام حاصل على التصديق ويعمل بالفعل.
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 آثار الوضعية للكائنات الواعية والمؤسسات
@@ -260,7 +259,7 @@
 - الإخفاء
 - قدرة المنع الممكنة
 
-تتأثر وضعية مؤسسة حين تكون المؤسسة موضوع التقييم، أو حين تُوثَّق بوصفها مركبة نمط عدم الامتثال. وتبقى سجلات المؤسسة قابلة للتتبع على حدة من سجلات الكائنات الواعية الفردية. طبّق تلك الحالات تحت [الفصل الثامن](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) و[الفصل التاسع](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration). يساعد توصيف الإيجاد على التوجيه والتدقيق. وهو لا يضع بذاته نواتج الوضعية أو فتحاتها أو أقفالها أو بواباتها أو سبل انتصافها.
+تتأثر وضعية مؤسسة حين تكون المؤسسة موضوع التقييم، أو حين تُوثَّق بوصفها مركبة نمط عدم الامتثال. وتبقى سجلات المؤسسة قابلة للتتبع على حدة من سجلات الكائنات الواعية الفردية. طبّق تلك الحالات تحت [الفصل العاشر](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) و[الفصل الحادي عشر](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration). يساعد توصيف الإيجاد على التوجيه والتدقيق. وهو لا يضع بذاته نواتج الوضعية أو فتحاتها أو أقفالها أو بواباتها أو سبل انتصافها.
 
 <a id="34-operational-constraints"></a>
 #### 3.4 القيود التشغيلية

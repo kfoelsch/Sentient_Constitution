@@ -74,48 +74,6 @@ Các **thuật ngữ độc lập và bán độc lập** sống dưới [Trách
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### Đo lường trách nhiệm giải trình
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*Nói đơn giản: các câu hỏi này xem liệu phần thưởng, thị trường và khả năng yêu cầu giải trình có giữ cho trách nhiệm giải trình là thực chất trong thực tế, chứ không chỉ trên giấy hay không.*
-
-*Đây là nơi đặt nhóm đo lường Trách nhiệm giải trình của Chương Năm. §2 Lời mở đầu (Tổng quan về các phép đo) giữ câu hỏi giản dị về nhóm trong bảng tổng quan; bảng nhóm, công dụng hiến định và chỉ dẫn đến định nghĩa được đặt tại đây.*
-
-*Tính trọng yếu ([Materiality](core_05_band_oversight.md#materiality)) có tính tích hợp, không phải một nhóm đo lường riêng; nó điều chỉnh mức áp dụng của nhóm này theo [material stake](core_00_preamble.md#material-stake).*
-
-| Nhóm đo lường | Câu hỏi giản dị | Công dụng hiến định chính |
-|---|---|---|
-| Sự phù hợp của động lực và tính toàn vẹn của chỉ số đại diện | Phần thưởng và chỉ số có phản ánh kết quả hiến định thực tế không? | Phát hiện động lực lệch lạc, sự thâu tóm và [Proxy Divergence](core_05_band_oversight.md#proxy-divergence); là dạng đo lường của [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions). |
-| Cấu trúc thị trường và khả năng cạnh tranh | Việc gia nhập, rút lui, thương lượng và các lựa chọn thay thế có thể vẫn thực chất không? | Áp dụng kỷ luật chống tập trung và chống thống trị khi các tuyên bố về năng lực phụ thuộc vào thị trường mở. |
-
-Các phép đo này xem liệu cơ cấu phần thưởng, quyền lực thị trường và khả năng yêu cầu giải trình có giữ cho trụ cột **trách nhiệm giải trình** của [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) là thực chất trong thực tế, chứ không chỉ trên giấy hay không.
-
-Các tầng đo lường vận hành nằm trong các mục định nghĩa của Chương Năm:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**Tệp trước:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**Tệp tiếp theo:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### Đo trách nhiệm giải trình

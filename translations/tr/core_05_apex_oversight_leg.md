@@ -94,34 +94,6 @@ Bu bacak altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
-
-### Gözetim
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
-- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
-
-</details>
-
-<br>
-
-*Sade dille: Bu sorular, sentient varlıkların yüksek etkili sistemlerin neyi temsil ettiğini görüp doğrulayabilmesini ve buna güvenebilmesini inceler. Burası Beşinci Bölümdeki Gözetim ölçüm ailesinin yeridir; Önsöz §2 kategoriye ilişkin sade soruyu korur, aile tablosu ve tanım yönlendirmesi burada bulunur.*
-
-*Önemlilik ([Materiality](core_05_band_oversight.md#materiality)) bütünleştiricidir, ayrı bir ölçüm kategorisi değildir; [material stake](core_00_preamble.md#material-stake) uyarınca bu ailenin uygulama gücünü ayarlar.*
-
-| Ölçüm ailesi | Sade soru | Başlıca anayasal kullanım |
-|---|---|---|
-| Doğruluk ve epistemik bütünlük | İddialar, kayıtlar ve açıklamalar güvenli kararlar için yeterince dürüst mü? | Bilgilendirilmiş katılımı, giderimi ve düzeltmeyi korur. |
-| Güvenilirlik | Güvenmek haklı mı, yoksa güven aşındırılıyor mu? | Sentient varlıkları sahte güvenden ve yanıltıcı güven ilişkisinden korur. |
-
-Bağlayıcı güvenilirlik, denetim veya inceleme gereklilikleri; Altıncı Bölüm, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ya da dahil edilen belgeler bunları açıkça şart koştuğunda doğar.
-
-**Önceki dosya:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
-**Sonraki dosya:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### Gözetimi ölçmek (Önsöz ölçüm ailesi)

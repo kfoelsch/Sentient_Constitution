@@ -4,14 +4,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தொகுப்பில் இடம் (செயல்படாதது): கோப்பு அமைப்பும் வாசிப்பு விதிகளும்</span></strong></summary>
 
-> கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
+> இந்தக் கோப்பு உணர்வுள்ளோர் அரசியலமைப்பின் **பகுதி**; மற்ற எண்ணிடப்பட்ட `core_*` கோப்புகளுடன் ஒரே ஆவணமாகப் படிக்கும்போது மட்டுமே பிணைக்கும். இதில் வரையறை முழுமை, தவிர்ப்பு, இணக்கமின்மை குறித்த **அத்தியாயம் மூன்று** உள்ளது. வரையறை அமைப்பும் கூறுகளின் ஒத்திசைவும் [அத்தியாயம் இரண்டு](../../core_02_definition_structure.md) இல் உள்ளன. அத்தியாய எண்களும் குறுக்குக் குறிப்புகளும் ஒருங்கிணைந்த ஆவணத்துடன் பொருந்துகின்றன. வாசிப்பு வரிசை, பிணைக்கும்/ஆதரிக்கும் உரை வேறுபாடு, தொகுப்பு பதிப்பு மீத்தரவு ஆகியவை [README.md](../../README.md) இல் பராமரிக்கப்படுகின்றன.
 >
-> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் மூன்றின்](../../core_03_definition_integrity.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
->
-> **முந்தையது (இந்த மொழியில்):** [core_02_definition_structure.md](core_02_definition_structure.md)
->
-> **அடுத்தது (இந்த மொழியில்):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
-> **வாசிப்பு வளைவு:** §1 வரையறை முழுமையும் தவிர்ப்பு எதிர்ப்பும் → §2 கவனிக்கக்கூடிய நடத்தையிலிருந்து இணக்கமின்மையும் தவிர்ப்பு வகைகளும் → §3 கண்டறிதல் சுயவிவரங்களும் நிலைத்தட விளைவுகளும்.
+> **மேல்நிலை:** [அத்தியாயம் இரண்டு](../../core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements).
+> **கீழ்நிலை:** [அத்தியாயம் நான்கு](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification).
 
 </details>
 
@@ -41,8 +37,8 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கோட்பாடுகள்: [அத்தியாயம் இரண்டு, §1 — நோக்கமும் பங்கும்](core_02_definition_structure.md#1-purpose-and-role); [அத்தியாயம் இரண்டு, §2 வரையறை முழுமைத் தேவை](core_02_definition_structure.md#2-definition-integrity-requirement).
-- கீழ்வழி: [அத்தியாயம் மூன்று, பிரிவு 2 — கவனிக்கக்கூடிய அமைப்பு நடத்தையிலிருந்து இணக்கமின்மை](#2-non-compliance-from-observable-system-behavior); [அத்தியாயம் நான்கு, பிரிவு 2 — வரையறைத் தடமறிதல் தேவை](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [அத்தியாயம் நான்கு, பிரிவு 5 — இணக்கச் சான்று நியமம்](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [அத்தியாயம் எட்டு — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
-- இதனுடன் படிக்க: [அத்தியாயம் ஒன்று, பிரிவு 4.2 — உண்மை (அறிவார்ந்த முழுமைக் கட்டுப்பாடு)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — கூறப்பட்ட அமைப்பு அல்லது உள்நோக்கத்தைவிடக் கவனிக்கக்கூடிய நடத்தையை அடிப்படையாகக் கொண்ட விளக்கம் வரையறை-முழுமை அடுக்கில் அரசியலமைப்பு உண்மைக் கட்டுப்பாட்டை இயக்கமாக்குகிறது.
+- கீழ்வழி: [அத்தியாயம் மூன்று, பிரிவு 2 — கவனிக்கக்கூடிய அமைப்பு நடத்தையிலிருந்து இணக்கமின்மை](#2-non-compliance-from-observable-system-behavior); [அத்தியாயம் நான்கு, பிரிவு 2 — வரையறைத் தடமறிதல் தேவை](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [அத்தியாயம் நான்கு, பிரிவு 5 — இணக்கச் சான்று நியமம்](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [அத்தியாயம் பத்து — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- இதனுடன் படிக்க: [அத்தியாயம் ஒன்று, பிரிவு 4.2 — உண்மை (அறிவார்ந்த முழுமைக் கட்டுப்பாடு)](core_01_a_values_principles.md#5-உணம-அறவறவ-நரமக-கடடபபட) — கூறப்பட்ட அமைப்பு அல்லது உள்நோக்கத்தைவிடக் கவனிக்கக்கூடிய நடத்தையை அடிப்படையாகக் கொண்ட விளக்கம் வரையறை-முழுமை அடுக்கில் அரசியலமைப்பு உண்மைக் கட்டுப்பாட்டை இயக்கமாக்குகிறது.
 
 </details>
 
@@ -93,7 +89,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கோட்பாடுகள்: [அத்தியாயம் மூன்று, பிரிவு 1 — வரையறை முழுமையும் தவிர்ப்பு எதிர்ப்புக் கட்டுப்பாடுகளும்](#1-definition-integrity-and-anti-evasion-constraints); [அத்தியாயம் இரண்டு, §2 வரையறை முழுமைத் தேவை](core_02_definition_structure.md#2-definition-integrity-requirement); [அத்தியாயம் இரண்டு, §2.2 கட்டமைப்பு அல்லது பயன்பாட்டுப் பலவீனத்தால் இணக்கமின்மை](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening).
-- கீழ்வழி: பிரிவுகள் [2.1](#21-common-evasion-patterns) முதல் [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) வரை வகைப் பட்டியல்கள்; [3. இணக்கமின்மைக் கண்டறிதல் சுயவிவரங்கள்](#3-non-compliance-finding-profiles); [அத்தியாயம் நான்கு, பிரிவு 5 — இணக்கச் சான்று நியமம்](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [அத்தியாயம் நான்கு, பிரிவு 3 — தடமறிதலின் கவனிக்கக்கூடிய தன்மைத் தேவை](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [அத்தியாயம் ஏழு §6](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) (*அமைப்பு இணக்கச் சான்றளிப்பு மீண்டும் திறத்தலும் தவிர்ப்பு எதிர்ப்புச் சுட்டியும்*); [அத்தியாயம் எட்டு — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- கீழ்வழி: பிரிவுகள் [2.1](#21-common-evasion-patterns) முதல் [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) வரை வகைப் பட்டியல்கள்; [3. இணக்கமின்மைக் கண்டறிதல் சுயவிவரங்கள்](#3-non-compliance-finding-profiles); [அத்தியாயம் நான்கு, பிரிவு 5 — இணக்கச் சான்று நியமம்](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [அத்தியாயம் நான்கு, பிரிவு 3 — தடமறிதலின் கவனிக்கக்கூடிய தன்மைத் தேவை](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [அத்தியாயம் ஒன்பது §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*அமைப்பு இணக்கச் சான்றளிப்பு மீண்டும் திறத்தலும் தவிர்ப்பு எதிர்ப்புச் சுட்டியும்*); [அத்தியாயம் பத்து — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - இதனுடன் படிக்க: முழு செயல்பாட்டு அமைப்பு நிபந்தனைகளின் கீழ் இணைந்த-நிறைவு விதிக்கு [அத்தியாயம் இரண்டு, §1 — நோக்கமும் பங்கும்](core_02_definition_structure.md#1-purpose-and-role); [அத்தியாயம் இரண்டு, §2.4 தெளிவின்மையின் கீழ் விளக்க விதி](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — காப்புகளைப் பலவீனப்படுத்தும், மதிப்பிட வேண்டியதைச் சுருக்கும், அல்லது உலக விளைவுகளை மோசமாக்கும் விளக்கங்கள் செல்லாதவை; [அத்தியாயம் நான்கு, பிரிவு 5 — இணக்கச் சான்று நியமம்](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — சான்று இந்தப் பிரிவின் விதிகளின் கீழ் இணக்கத்தைக் காட்ட வேண்டும்; இங்கே இணக்கமற்றதாக இருக்கும் நிரூபணம் நிரூபணச் சுமையைத் தோற்கடிக்கிறது; [இணக்கமின்மை](../../core_05_band_integrative.md#non-compliance).
 
 </details>
@@ -157,7 +153,7 @@
 - நடைமுறையில் பொறுப்பை மாற்றாமல் கடமைகளை விடும் முறைசார் மறுபெயரிடல், மறுகட்டமைப்பு, அல்லது அமைப்பு மறுவகைப்பாடு
 - வரையறை கேட்கும் வேறுபாடுகளை அழிக்கும் வசதியான வகைப்பாட்டுத் தேர்வுகள்
 
-முறை-கட்டமைப்பு மாற்றம் பொருளுள்ள இடத்தில், [அத்தியாயம் ஒன்று §11.6 வாரிசுப் பொறுப்பும் முறை-கட்டமைப்பு தப்பிக்காமையும்](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) பயன்படுத்துங்கள்.
+முறை-கட்டமைப்பு மாற்றம் பொருளுள்ள இடத்தில், [அத்தியாயம் ஒன்று §11.6 வாரிசுப் பொறுப்பும் முறை-கட்டமைப்பு தப்பிக்காமையும்](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) பயன்படுத்துங்கள்.
 
 <a id="22-reductive-evasion"></a>
 #### 2.2 சுருக்கத் தவிர்ப்பு
@@ -220,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [அத்தியாயம் மூன்று, பிரிவு 2 — கவனிக்கக்கூடிய அமைப்பு நடத்தையிலிருந்து இணக்கமின்மை](#2-non-compliance-from-observable-system-behavior); [அத்தியாயம் இரண்டு, §2 வரையறை முழுமைத் தேவை](core_02_definition_structure.md#2-definition-integrity-requirement).
-- கீழ்வழி: [அத்தியாயம் நான்கு, பிரிவு 2 — வரையறைத் தடமறிதல் தேவை](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [அத்தியாயம் ஏழு — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [அத்தியாயம் எட்டு — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model); [அத்தியாயம் ஒன்பது — நிலைத்தட விளைவுகளும் ஒருங்கிணைப்பும்](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 அரசியலமைப்புத் திசைகாட்டியும் தொகுதி வரைபடமும்](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- கீழ்வழி: [அத்தியாயம் நான்கு, பிரிவு 2 — வரையறைத் தடமறிதல் தேவை](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [அத்தியாயம் ஒன்பது — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [அத்தியாயம் பத்து — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [அத்தியாயம் பதினொன்று — நிலைத்தட விளைவுகளும் ஒருங்கிணைப்பும்](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 அரசியலமைப்புத் திசைகாட்டியும் தொகுதி வரைபடமும்](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - இதனுடன் படிக்க: [இணக்கமின்மைக் கண்டறிதல் சுயவிவரம்](../../core_05_band_accountability.md#non-compliance-finding-profile) — சுயவிவரப் புலங்களுக்கான நியம O/M/A/C இல்லம்; [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -234,19 +230,19 @@
 - தோல்வியைச் சிறப்பாக விவரிக்கும் [அரசியலமைப்பு நான்ம](core_00_preamble.md#constitutional-tetrad) காலையும் [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) திசையையும் பெயரிடலாம் — எடுத்துக்காட்டாக மேற்பார்வை, பங்கேற்பு, அல்லது பொறுப்புக்கூறல் செழிப்பு அல்லது தொடர்ச்சியுடன் குறுக்கப்பட்டவை
 - அடிப்படை வரையறை நிறைவேறியதா என்பதை மாற்றாது
 - இரண்டாவது தீர்ப்புச் சிட்டையை உருவாக்காது
-- [அத்தியாயம் எட்டு](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) பங்களிப்பு அல்லது மீறல் அளவீட்டைப் பதிலீடு செய்யாது
+- [அத்தியாயம் பத்து](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) பங்களிப்பு அல்லது மீறல் அளவீட்டைப் பதிலீடு செய்யாது
 
 நிலைத்தட விளைவுகள் யார் மதிப்பிடப்படுகிறார் என்பதையும் அமைப்பு ஏற்கனவே சான்றளிக்கப்பட்டதா என்பதையும் சார்ந்தது. கீழே உள்ள துணைப்பிரிவுகள் அந்த வழக்குகளை அமைக்கின்றன.
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 ஏற்கனவே சான்றளிக்கப்பட்ட அமைப்புகளுக்கான நிலைத்தட விளைவுகள்
 
-ஒரு அமைப்பு ஏற்கனவே [அமைப்பு இணக்கச் சான்றளிப்பின்](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் இயங்கினால் — அங்கீகாரம், நிபந்தனை அங்கீகாரம், அல்லது காலாவதியாகாத மீள்செல்லுபடி உட்பட — அந்த அமைப்பின் செயல்பாட்டு எல்லையில் பொருளுள்ள சரிபார்க்கப்பட்ட இணக்கமின்மை [அத்தியாயம் எட்டின்](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) நிலைத்தட அளவீட்டுக்கு **அந்த அமைப்புக்கு** செல்ல **வேண்டும்**. [சரிபார்க்கப்பட்ட-உள்ளீட்டு வாயிலை](../../core_10_standing_assessment.md#verified-inputs-for-standing) கடக்கும் உண்மைகள் மட்டுமே நுழையலாம். அத்தியாயங்கள் எட்டு மற்றும் ஒன்பதின் கீழ் நிலைத்தடத்தை அளந்து பயன்படுத்துங்கள். மீண்டும் திறத்தல், திரும்பப் பெறுதல், அல்லது பிற சான்றளிப்பு விளைவுகள் [அத்தியாயம் ஏழின்](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) கீழ் இருக்கும். அவை அந்த அமைப்பின் நிலைத்தடப் பதிவுகளைப் பதிலீடு செய்யா.
+ஒரு அமைப்பு ஏற்கனவே [அமைப்பு ஒத்திசைவு சான்றிதழின்](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் இயங்கிக் கொண்டிருந்தால் — சான்றிதழ், நிபந்தனைச் சான்றிதழ் அல்லது காலாவதியாகாத மறுசான்றிதழ் உட்பட — அந்த அமைப்பின் செயல்பாட்டு வரம்பில் உள்ள பொருள்மிக்க, சரிபார்க்கப்பட்ட இணக்கமின்மை **அந்த அமைப்புக்கான** [அத்தியாயம் பத்து](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) நிலை அளவீட்டில் **சேர்க்கப்பட வேண்டும்**. [சரிபார்க்கப்பட்ட உள்ளீட்டு வாயிலை](../../core_10_standing_assessment.md#verified-inputs-for-standing) கடக்கும் உண்மைகள் மட்டுமே சேர்க்கப்படலாம்.[அத்தியாயம் பத்து](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)-இன் கீழ் நிலையை அளவிடுங்கள்; அதன் ஒருங்கிணைப்பையும் விளைவுகளையும் [அத்தியாயம் பதினொன்று](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)-இன் கீழ் நடைமுறைப்படுத்துங்கள். மறுதிறப்பு, திரும்பப்பெறுதல் அல்லது பிற சான்றிதழ் விளைவுகள் [அத்தியாயம் ஒன்பதின்](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) கீழேயே இருக்கும். அவை அந்த அமைப்பின் நிலைப் பதிவுகளுக்குப் பதிலாக அமையாது.
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 முதல் சான்றளிப்பில் நிலைத்தட விளைவுகள்
 
-அமைப்பு இன்னும் அதன் **முதல்** [அமைப்பு இணக்கச் சான்றளிப்பில்](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) இருந்து இன்னும் அங்கீகரிக்கப்படவில்லை என்றால் — அங்கீகாரம் ஒத்திவைக்கப்பட்ட அல்லது மறுக்கப்பட்ட இடம் உட்பட — சரிபார்க்கப்பட்ட இணக்கமின்மை முதன்மையாக அத்தியாயம் ஏழின் கீழ் **சான்றளிப்பு விளைவை** முடிவு செய்கிறது. அந்த விளைவு நிபந்தனை அங்கீகாரம், ஒத்திவைக்கப்பட்ட அங்கீகாரம், அங்கீகாரமின்மை, அல்லது ஒப்பீடான முடிவாக இருக்கலாம். அந்தச் சான்றளிப்புப் பதிவுகள் உண்மைகள் தாங்கும்போது [அத்தியாயம் ஏழு §8](../../core_09_b_system_alignment_certification_record_process.md#8-relationship-to-standing) கீழ் சரிபார்க்கப்பட்ட நிலைத்தட உள்ளீட்டை இன்னும் வழங்கலாம். ஏற்கனவே சான்றளிக்கப்பட்ட இயங்கும் அமைப்பு பெற வேண்டிய அதே நிலைத்தடப் பதிவுகளை இந்த அத்தியாயம் கேட்காது.
+அமைப்பு தனது **முதல்** [அமைப்பு ஒத்திசைவு சான்றிதழ்](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) நடைமுறையில் இருந்து இன்னும் சான்றிதழ் பெறவில்லை என்றால் — சான்றிதழ் ஒத்திவைக்கப்பட்டாலோ மறுக்கப்பட்டாலோ உட்பட — சரிபார்க்கப்பட்ட இணக்கமின்மை முதன்மையாக அத்தியாயம் ஒன்பதின் கீழான **சான்றிதழ் முடிவை** தீர்மானிக்கும். அந்த முடிவு நிபந்தனைச் சான்றிதழ், ஒத்திவைக்கப்பட்ட சான்றிதழ், சான்றிதழ் மறுப்பு அல்லது அதற்கு ஒத்த முடிவாக இருக்கலாம். சான்றிதழ் வழங்கப்படும் வரை, [அத்தியாயம் ஒன்பது §10 — நிலையுடனான தொடர்பு](../../core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing) படி, அந்தச் சான்றிதழ் பதிவுகள் நிலை உள்ளீட்டை வழங்காது; அந்தப் பிரிவு சான்றளிக்கப்பட்ட அமைப்புகளிலிருந்து வரும் நிலை உள்ளீட்டை மட்டுமே இணைக்கிறது. நிபந்தனைச் சான்றிதழ் உட்பட சான்றிதழ் வழங்கப்பட்ட பிறகு, [§3.1 ஏற்கனவே சான்றளிக்கப்பட்ட அமைப்புகளுக்கான நிலை விளைவுகள்](#31-standing-effects-for-already-certified-systems) பொருந்தும். ஏற்கனவே சான்றளிக்கப்பட்டு இயங்கும் அமைப்புக்குத் தேவைப்படும் அதே நிலைப் பதிவுகளை இந்த அத்தியாயம் கோரவில்லை.
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 உணர்வுள்ளோருக்கும் நிறுவனங்களுக்குமான நிலைத்தட விளைவுகள்
@@ -262,7 +258,7 @@
 - மறைப்பு
 - சாத்தியமான தடுப்புத் திறன்
 
-ஒரு நிறுவனத்தின் நிலைத்தடம் நிறுவனம் மதிப்பிடப்படும் பொருளாக இருக்கும்போது, அல்லது அது இணக்கமின்மை வடிவத்தின் கருவியாகச் சரிபார்க்கப்படும்போது பாதிக்கப்படும். நிறுவனப் பதிவுகள் தனி உணர்வுள்ளோர் பதிவுகளிலிருந்து தனியாகத் தடமறியத்தக்கதாக இருக்கும். அந்த வழக்குகளை [அத்தியாயம் எட்டு](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) மற்றும் [அத்தியாயம் ஒன்பது](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) கீழ் பயன்படுத்துங்கள். கண்டறிதல் சுயவிவரம் வழிமாற்றவும் தணிக்கை செய்யவும் உதவுகிறது. அது தானாகவே நிலைத்தட விளைவுகள், இடங்கள், பூட்டுகள், வாயில்கள், அல்லது நிவாரணங்களை அமைக்காது.
+ஒரு நிறுவனத்தின் நிலைத்தடம் நிறுவனம் மதிப்பிடப்படும் பொருளாக இருக்கும்போது, அல்லது அது இணக்கமின்மை வடிவத்தின் கருவியாகச் சரிபார்க்கப்படும்போது பாதிக்கப்படும். நிறுவனப் பதிவுகள் தனி உணர்வுள்ளோர் பதிவுகளிலிருந்து தனியாகத் தடமறியத்தக்கதாக இருக்கும். அந்த வழக்குகளை [அத்தியாயம் பத்து](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) மற்றும் [அத்தியாயம் பதினொன்று](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) கீழ் பயன்படுத்துங்கள். கண்டறிதல் சுயவிவரம் வழிமாற்றவும் தணிக்கை செய்யவும் உதவுகிறது. அது தானாகவே நிலைத்தட விளைவுகள், இடங்கள், பூட்டுகள், வாயில்கள், அல்லது நிவாரணங்களை அமைக்காது.
 
 <a id="34-operational-constraints"></a>
 #### 3.4 செயல் கட்டுப்பாடுகள்

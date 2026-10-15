@@ -4,8 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Place dans le corpus (non opératoire) : structure du fichier et règles de lecture</span></strong></summary>
 
-> Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
->
 > Ce fichier est un **pilote de langue de lecture** du [Chapitre quatre en anglais](../../core_04_burden_traceability_verification.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
 >
 > **Précédent (cette langue) :** [core_03_definition_integrity.md](core_03_definition_integrity.md)
@@ -18,13 +16,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guide de lecture (non opératoire) : où vit le Chapitre quatre et ce qui reste ici</span></strong></summary>
 
-> Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce chapitre ni dans d’autres chapitres.
->
 > Où cela vit (navigation) :
 > - **Carte de la Tétrade :** l’allocation de la charge, la preuve, la traçabilité, l’observabilité et la vérification mettent en œuvre les jambes **supervision** et **reddition de comptes** de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) établies dans le [Préambule](core_00_preamble.md#chapter-00-preamble--foundational-requirements) ; **participation** lorsque c’est matériellement exigé par l’observabilité pratique et la contestation indépendante sous les sections **3** et **4**. Les exigences s’échelonnent avec l’[enjeu matériel](core_00_preamble.md#material-stake).
-> - **Titulaire constitutionnel :** allocation de la charge, preuve de conformité, traçabilité de la définition, observabilité et vérification contrainte par la sécurité. Le **Chapitre huit** est titulaire de la discipline des registres de trajectoire et des apports vérifiés, lue avec ce chapitre.
+> - **Titulaire constitutionnel :** allocation de la charge, preuve de conformité, traçabilité de la définition, observabilité et vérification contrainte par la sécurité. Le **Chapitre dix** est titulaire de la discipline des registres de trajectoire et des apports vérifiés, lue avec ce chapitre.
 > - **Titulaire de la mise en œuvre :** la mécanique de déploiement, de traitement des données et d’assurance dans les fichiers de mise en œuvre désignés doit rester cohérente avec ces règles et peut être plus stricte là où le corpus fournit déjà une logique de règle plus stricte.
-> - **Règle anti-relocalisation :** ce chapitre gouverne seulement la charge, la trace, l’observabilité, les limites de sécurité et la preuve. Il ne réénonce pas les définitions du Chapitre cinq, la mesure de contribution ou de trajectoire du **Chapitre huit**, ni les critères de mauvaise conduite anticonstitutionnelle du Chapitre dix. Le routage de la non-conformité vérifiée vers la trajectoire est gouverné par [Chapitre trois §3 — Profils de constatation de non-conformité](core_03_definition_integrity.md#3-non-compliance-finding-profiles) et [Chapitre huit — Modèle de contribution, d’infraction et de trajectoire](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model). La **section 6** énonce comment les Chapitres deux à quatre diffèrent du [Chapitre sept — Certification d’alignement du système](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+> - **Règle anti-relocalisation :** ce chapitre gouverne seulement la charge, la trace, l’observabilité, les limites de sécurité et la preuve. Il ne réénonce pas les définitions du Chapitre cinq, la mesure de contribution ou de trajectoire du **Chapitre dix**, ni les critères de mauvaise conduite anticonstitutionnelle du Chapitre douze. Le routage de la non-conformité vérifiée vers la trajectoire est gouverné par [Chapitre trois §3 — Profils de constatation de non-conformité](core_03_definition_integrity.md#3-non-compliance-finding-profiles) et [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). La **section 6** énonce comment les Chapitres deux à quatre diffèrent du [Chapitre neuf — Certification d’alignement du système](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 </details>
 
@@ -161,7 +157,7 @@ La cryptographie et le traitement des types d’information doivent s’aligner 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : [Chapitre quatre, sections 1 à 4](#1-exclusive-enforcement-and-burden-allocation) ; [Chapitre deux, §1 — Objet et rôle](core_02_definition_structure.md#1-purpose-and-role) ; [Chapitre deux, §2 Exigence d’intégrité de la définition](core_02_definition_structure.md#2-definition-integrity-requirement) ; [Chapitre deux, §3 Cohérence à travers la pile de définitions](core_02_definition_structure.md#3-consistency-across-the-definition-stack) ; [Chapitre trois, section 1 — Intégrité de la définition et contraintes anti-évasion](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) ; [Chapitre trois, section 2 — Non-conformité à partir de la conduite observable du système](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) ; [Chapitre trois, §2.6 Contrainte d’intégrité de l’incertitude et de non-exploitation](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — règles substantives de définition et de non-conformité ; **§4** énonce seulement les exigences de la couche de preuve et ne réénonce pas ces règles.
-- En aval : [Chapitre huit — Modèle de contribution, d’infraction et de trajectoire](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- En aval : [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - Lire avec : [Chapitre quatre, section 2 — Exigence de traçabilité de la définition](#2-definition-traceability-requirement) — manquer d’invoquer ou d’appliquer correctement toute définition du **Chapitre cinq** matériellement exigée invalide en entier l’évaluation, la preuve et la détermination de conformité associées ; [Chapitre un, §6 — Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) lorsque la mise à l’échelle affecte les arbitrages entre le bien-être des êtres sentients et la stabilité à long horizon ; [Chapitre cinq Sécurité (contrainte)](../../core_05_band_continuity.md#safety-constraint), [Chapitre cinq Vérité (contrainte constitutionnelle)](../../core_05_band_oversight.md#truth-constitutional-constraint) et [Chapitre cinq Intégrité épistémique](../../core_05_band_oversight.md#epistemic-integrity) — alignement de la preuve informé par la science pour les revendications empiriques, prédictives ou causales.
 
 </details>
@@ -195,14 +191,14 @@ Lorsque l’incertitude empêche une démonstration définitive de la conformit�
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : [Chapitre deux — Structure des définitions et exigences des composantes](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements) ; [Chapitre trois — Intégrité de la définition, évasion et non-conformité](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) ; [Chapitre quatre, sections 1 à 5](#1-exclusive-enforcement-and-burden-allocation).
-- En aval : [Chapitre sept — Certification d’alignement du système](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; [Chapitre huit — Modèle de contribution, d’infraction et de trajectoire](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
-- Lire avec : [Chapitre sept §6 — Réouverture, désalignement et non-évasion](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) — la non-conformité vérifiée sous les Chapitres deux à quatre peut rouvrir ou faire échec à la certification indépendamment d’une reconnaissance antérieure.
+- En aval : [Chapitre neuf — Certification d’alignement du système](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Lire avec : [Chapitre neuf §7 — Résultats de certification](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — la non-conformité vérifiée sous les Chapitres deux à quatre peut rouvrir ou faire échec à la certification indépendamment d’une certification antérieure.
 
 </details>
 
 <br>
 
-*En termes simples : les Chapitres deux à quatre fixent les règles que toute revendication de conformité doit satisfaire — ce que les définitions signifient, quand la conduite y échoue, et comment la preuve doit être montrée. Le Chapitre sept est un processus de certification distinct sous supervision de forum qui utilise ces règles lorsqu’un système a besoin d’une reconnaissance formelle d’alignement. Une certification en cours n’est pas un laissez-passer autour des Chapitres deux à quatre.*
+*En termes simples : les Chapitres deux à quatre fixent les règles que toute revendication de conformité doit satisfaire — ce que les définitions signifient, quand la conduite y échoue, et comment la preuve doit être montrée. Le Chapitre neuf est un processus de certification distinct sous supervision de forum qui utilise ces règles lorsqu’un système a besoin d’une certification formelle d’alignement. Une certification en cours n’est pas un laissez-passer autour des Chapitres deux à quatre.*
 
 Cette section est **non opératoire**. Elle énonce seulement une **frontière de couche**.
 
@@ -213,12 +209,12 @@ Cette section est **non opératoire**. Elle énonce seulement une **frontière d
 
 Ces dispositions s’appliquent chaque fois que la conformité est évaluée — avec ou sans certification.
 
-Le **[Chapitre sept — Certification d’alignement du système](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** fournit le **processus de certification** sous supervision de forum lorsque c’est matériel : domaines d’évaluation du système entier, devoirs de registre de certification, résultats de reconnaissance, cadence de revalidation, chaîne de contestabilité, et pont d’apports vérifiés vers le Chapitre huit. Il **applique** les Chapitres deux à quatre ; il ne les **réénonce pas**.
+Le **[Chapitre neuf — Certification d’alignement du système](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** fournit le **processus de certification** sous supervision de forum lorsque c’est matériel : domaines d’évaluation du système entier, devoirs de registre de certification, résultats de certification, cadence de recertification, chaîne de contestabilité, et pont d’apports vérifiés vers le Chapitre dix. Il **applique** les Chapitres deux à quatre ; il ne les **réénonce pas**.
 
 Les lecteurs ne doivent pas traiter :
 - un **registre de certification** comme un substitut de la conformité continue sous les Chapitres deux à quatre
-- la reconnaissance, la reconnaissance conditionnelle ou la revalidation du **Chapitre sept** comme abaissant les normes de charge, de trace ou de preuve de ce chapitre
-- les **Chapitres deux à quatre** comme facultatifs parce qu’un système a été précédemment certifié — la non-conformité vérifiée sous ces chapitres peut rouvrir ou faire échec à la certification sous le Chapitre sept
+- la certification, la certification conditionnelle ou la recertification du **Chapitre neuf** comme abaissant les normes de charge, de trace ou de preuve de ce chapitre
+- les **Chapitres deux à quatre** comme facultatifs parce qu’un système a été précédemment certifié — la non-conformité vérifiée sous ces chapitres peut rouvrir ou faire échec à la certification sous le Chapitre neuf
 
 ---
 

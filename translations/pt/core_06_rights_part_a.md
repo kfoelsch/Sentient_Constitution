@@ -43,14 +43,14 @@ O Capítulo Seis é o titular constitucional dos **Pisos de Direitos** e da inte
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); [aposta material](core_00_preamble.md#material-stake).
-- Origem: [Capítulo Um §6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Capítulo Um §6.1.5 Teste de decisão de colisão de direitos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Origem: [Capítulo Um §11 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+- Origem: [Capítulo Um §6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Capítulo Um §6.1.5 Teste de decisão de colisão de direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Origem: [Capítulo Um §19 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
 - Origem: Capítulos Dois a Quatro; definições do Capítulo Cinco.
 - Destino: as **Partes A a D** deste capítulo; [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional); [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - Destino: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 Alcance de camada](#12-layer-scope).
-- Ler com: [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#owner-non-relocation) e o [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-principles-definitions-and-rights); [Artigo XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Direito de impugnar, revisar e obter reparação*).
-- Ler com: [Artigo XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Auditoria, transparência e verificação independente*).
-- Ler com: [Artigo XVIII-B](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*Impugnabilidade e limites proporcionais de restrição*); [Artigo XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Resolução oportuna e piso contra o atraso*).
+- Ler com: [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#owner-non-relocation) e o [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-principles-definitions-and-rights); [Artigo XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Direito de impugnar, revisar e obter reparação*).
+- Ler com: [Artigo XV](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Auditoria, transparência e verificação independente*).
+- Ler com: [Artigo XX-C](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Impugnabilidade e limites proporcionais de restrição*); [Artigo XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Resolução oportuna e piso contra o atraso*).
 
 </details>
 
@@ -73,9 +73,9 @@ A persecução legítima corre através da [Tétrade Constitucional](core_00_pre
 A pilha constitucional mais ampla explica como esse piso é interpretado, limitado, verificado e exigido. Salvo quando uma disposição deste capítulo disser o contrário de forma expressa, cada direito do Capítulo Seis é lido com:
 - o **Capítulo Um**, inclusive:
   - as **restrições de valor** — Segurança, Verdade, Necessidade, Proporcionalidade e avaliação sistêmica de efeitos locais, agregados, diferidos e transistêmicos;
-  - a **disciplina de interação** — [Capítulo Um §6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
+  - a **disciplina de interação** — [Capítulo Um §6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process);
   - o **escalonamento constitucional** — a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), os [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) e o escalonamento por [aposta material](core_00_preamble.md#material-stake);
-  - o **alinhamento de incentivos e a captura do sistema** — [Capítulo Um §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) e a disciplina de administração responsável afim, mas só onde o desenho de incentivos, a confiança, a fidelidade, a captura, a estrutura de mercado ou uma limitação defendida sejam materialmente pertinentes.
+  - o **alinhamento de incentivos e a captura do sistema** — [Capítulo Um §19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) e a disciplina de administração responsável afim, mas só onde o desenho de incentivos, a confiança, a fidelidade, a captura, a estrutura de mercado ou uma limitação defendida sejam materialmente pertinentes.
 - os **Capítulos Dois a Quatro** — integridade das definições, ônus e rastreabilidade, observabilidade, verificação acessível e observabilidade limitada pela segurança onde aplicável.
 - o **Capítulo Cinco** — definições que incidam de forma material sobre o direito, a conduta, o sistema ou a limitação avaliada.
 - as **regras de classificação e de escala** — **Materialidade**, **Dependência** e qualquer regra de classe, nível ou cadência incorporada fornecida por um instrumento de adoção.
@@ -87,21 +87,21 @@ Esta pilha de leitura aplica-se a todos os artigos deste capítulo salvo quando 
 
 O Piso de Direitos precisa funcionar na prática, não só no papel. Os essenciais de sobrevivência sob o **Artigo III-A** (*Sobrevivência*) — alimento, água, abrigo, ambiente de operação e insumos comparáveis agnósticos ao substrato — são o exemplo mais claro. O **Florescimento** exige acesso real a esses essenciais. A **Continuidade** exige um suprimento fiável e não regressivo ao longo do tempo, sobretudo onde sistemas compartilhados controlam a entrega.
 
-A [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) e o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) verificam se sistemas materialmente impactantes estão alinhados antes de serem reconhecidos ou de se depender deles em escala. O Capítulo Sete também fornece impugnabilidade do registro de certificação, revisão de partes afetadas e de acessibilidade, sequenciamento supervisor e vias de impugnação para as decisões de alinhamento do sistema. O **Artigo XII** (*Direito a sistemas confiáveis e dignos de confiança*) fornece direitos de impugnação e de auditoria. O **Artigo XVIII-B** (*Impugnabilidade e limites proporcionais de restrição*) impede que os limites de trajetória se tornem uma porta dos fundos em volta do acesso crítico para a sobrevivência. Juntos, o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) e a [cadeia de trajetória e supervisão de fórum dos Capítulos Oito a Onze](../../README.md#standing-pipeline-and-forums) formam as Cadeias práticas de processo-chave para a impugnabilidade, a classificação verificada, a supervisão de fórum e o remédio oportuno. Esses mecanismos ajudam a exigir o Capítulo Seis. Não substituem, estreitam nem realocam os direitos enunciados aqui.
+A [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) e o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) verificam se sistemas materialmente impactantes estão alinhados antes de serem reconhecidos ou de se depender deles em escala. O Capítulo Sete também fornece impugnabilidade do registro de certificação, revisão de partes afetadas e de acessibilidade, sequenciamento supervisor e vias de impugnação para as decisões de alinhamento do sistema. O **Artigo XIII** (*Direito a sistemas confiáveis e dignos de confiança*) fornece direitos de impugnação e de auditoria. O **Artigo XIX-B** (*Impugnabilidade e limites proporcionais de restrição*) impede que os limites de trajetória se tornem uma porta dos fundos em volta do acesso crítico para a sobrevivência. Juntos, o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) e a [cadeia de trajetória e supervisão de fórum dos Capítulos Oito a Onze](../../README.md#standing-pipeline-and-forums) formam as Cadeias práticas de processo-chave para a impugnabilidade, a classificação verificada, a supervisão de fórum e o remédio oportuno. Esses mecanismos ajudam a exigir o Capítulo Seis. Não substituem, estreitam nem realocam os direitos enunciados aqui.
 
 **Nós interpretativos.** Salvo quando um artigo mais específico fornecer uma regra distinta, as questões recorrentes se roteiam por estes âncoras:
 
 **Pisos de direitos e suprimento**
-- **Essenciais de sobrevivência e mantê-los acessíveis** — **Artigo III-A** (*Sobrevivência*); **Artigo XVIII-B** (*Impugnabilidade e limites proporcionais de restrição*) para que os limites de trajetória não possam bloquear o acesso; ler com o **Artigo XII-B** (*Direito de impugnar, revisar e obter reparação*) e o **Artigo XV** (*Auditoria, transparência e verificação independente*) onde a impugnação ou a auditoria se aplique
+- **Essenciais de sobrevivência e mantê-los acessíveis** — **Artigo III-A** (*Sobrevivência*); **Artigo XIX-B** (*Impugnabilidade e limites proporcionais de restrição*) para que os limites de trajetória não possam bloquear o acesso; ler com o **Artigo XIII-B** (*Direito de impugnar, revisar e obter reparação*) e o **Artigo XVI** (*Auditoria, transparência e verificação independente*) onde a impugnação ou a auditoria se aplique
 - **Certificação de alinhamento do sistema** — [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional); [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **Verificação e remédio**
-- **Registros de auditoria e verificação independente** — **Artigo XV** (*Auditoria, transparência e verificação independente*) com os **Capítulos Dois a Quatro**
-- **Impugnação, revisão e remediação proporcionada** — **Artigo XII-B** (*Direito de impugnar, revisar e obter reparação*); Capítulo Cinco (*Reparação e remediação*)
+- **Registros de auditoria e verificação independente** — **Artigo XVI** (*Auditoria, transparência e verificação independente*) com os **Capítulos Dois a Quatro**
+- **Impugnação, revisão e remediação proporcionada** — **Artigo XIII-B** (*Direito de impugnar, revisar e obter reparação*); Capítulo Cinco (*Reparação e remediação*)
 
 **Controvérsias e processo em tempo**
-- **Justiça, restituição, limites de restrição, emergências e colisões de direitos** — **Artigo XXIII** (*Resolução de conflitos, escalação e proporcionalidade de emergência*); [Capítulo Um §6.1.5 Teste de decisão de colisão de direitos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **Cadeias práticas de processo-chave** — **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*); [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **Justiça, restituição, limites de restrição, emergências e colisões de direitos** — **Artigo XXIII** (*Resolução de conflitos, escalação e proporcionalidade de emergência*); [Capítulo Um §6.1.5 Teste de decisão de colisão de direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
+- **Cadeias práticas de processo-chave** — **Artigo XXVI-C** (*Resolução oportuna e piso contra o atraso*); [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 As referências cruzadas mais curtas a esses temas no resto deste capítulo incorporam estes âncoras.
 
@@ -126,11 +126,11 @@ As adições futuras ao **Capítulo Seis** que toquem linguagem de sabor process
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) e [§10 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) e [§10 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
-<strong><span style="color: #2563eb;">Definição:</span></strong> [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+<strong><span style="color: #2563eb;">Definição:</span></strong> [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
 
 *Em termos simples: o **Artigo I** (*Sobrevivência ambiental*) é o Piso de Direitos planeta-primeiro — os sistemas de suporte à vida da Terra precisam se sustentar para que o **Florescimento** e a **Continuidade** continuem possíveis para cada senciente, e a governança posterior não pode encolher esse piso por escolhas de certificação, classificação ou implementação.*
 
@@ -155,18 +155,19 @@ O Capítulo Cinco define essas condições sob **Pré-condições ambientais**. 
 
 - Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
+- [Não exclusão da senciência](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion-c)
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [Integridade ecológica](core_05_band_continuity.md#ecological-integrity-constitutional) · [O](core_05_band_continuity.md#ecological-integrity-constitutional) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
+- [Integridade ecológica](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-a) · [A](core_05_band_continuity.md#ecological-integrity-a) · [C](core_05_band_continuity.md#ecological-integrity-c)
 - [Sustentabilidade](core_05_band_continuity.md#sustainability) · [O](core_05_band_continuity.md#sustainability) · [M](core_05_band_continuity.md#sustainability-a) · [A](core_05_band_continuity.md#sustainability-a) · [C](core_05_band_continuity.md#sustainability-c)
 - [Trajetória dos sistemas naturais](core_05_band_participation.md#natural-systems-standing) · [O](core_05_band_participation.md#natural-systems-standing) · [M](core_05_band_participation.md#natural-systems-standing-a) · [A](core_05_band_participation.md#natural-systems-standing-a) · [C](core_05_band_participation.md#natural-systems-standing-c)
-- [Vida animal](core_05_band_participation.md#animal-life-constitutional) · [O](core_05_band_participation.md#animal-life-constitutional) · [M](core_05_band_participation.md#animal-life-constitutional-a) · [A](core_05_band_participation.md#animal-life-constitutional-a) · [C](core_05_band_participation.md#animal-life-constitutional-c)
-- [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) · [O](core_05_band_participation.md#elevated-communicative-life-constitutional) · [M](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [A](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [C](core_05_band_participation.md#elevated-communicative-life-constitutional-c)
-- [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) · [O](core_05_band_participation.md#contested-sentient-life-constitutional) · [M](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [A](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [C](core_05_band_participation.md#contested-sentient-life-constitutional-c)
+- [Vida animal](core_05_band_participation.md#animal-life) · [O](core_05_band_participation.md#animal-life) · [M](core_05_band_participation.md#animal-life-a) · [A](core_05_band_participation.md#animal-life-a) · [C](core_05_band_participation.md#animal-life-c)
+- [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life) · [O](core_05_band_participation.md#elevated-communicative-life) · [M](core_05_band_participation.md#elevated-communicative-life-a) · [A](core_05_band_participation.md#elevated-communicative-life-a) · [C](core_05_band_participation.md#elevated-communicative-life-c)
+- [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life) · [O](core_05_band_participation.md#contested-sentient-life) · [M](core_05_band_participation.md#contested-sentient-life-a) · [A](core_05_band_participation.md#contested-sentient-life-a) · [C](core_05_band_participation.md#contested-sentient-life-c)
 - [Bem-estar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 
 </details>
@@ -179,32 +180,32 @@ O Capítulo Cinco define essas condições sob **Pré-condições ambientais**. 
   - Os sistemas naturais que sustentam a vida têm interesses de continuidade e de integridade próprios. Esses interesses informam a interpretação junto com os interesses dos sencientes.
   - O dano material que viola este Artigo — julgado sob **Pré-condições ambientais**, **Integridade ecológica** e **Sustentabilidade** — é não conforme.
   - O dano que viola requisitos ambientais nomeados no [instrumento de adoção](../../core_17_amendment_ratification.md#102-instrument-of-adoption) de quem adota ou em texto de implementação incorporado dentro do alcance de adoção também é não conforme.
-- **Interação de vida animal:** [Vida animal](core_05_band_participation.md#animal-life-constitutional) ocupa o domínio de proteção de bem-estar entre a **Trajetória dos sistemas naturais** e o Piso de Direitos do Capítulo Seis para os sencientes.
+- **Interação de vida animal:** [Vida animal](core_05_band_participation.md#animal-life) ocupa o domínio de proteção de bem-estar entre a **Trajetória dos sistemas naturais** e o Piso de Direitos do Capítulo Seis para os sencientes.
   - Estabelece pisos mínimos de crueldade e de bem-estar para a vida animal sob **Não exclusão da senciência** onde o dano de tipo bem-estar esteja materialmente implicado.
   - Não é um substituto do trato comunicativo elevado nem da adjudicação de status de senciência onde o expediente implique de forma material essas perguntas.
-  - Os indicadores comunicativos ou cognitivos materiais que impliquem senciência controvertida ou afirmável exigem abrir a adjudicação de status de senciência em vez de deixar o caso estacionado de forma indefinida só no bem-estar. O operador ou quem administra deve abrir essa adjudicação numa revisão limitada no tempo — não uma lista de espécies. A escalação abre o **Artigo V-E** (*Piso de adjudicação de status de senciência*) / inclusão por omissão de senciente controvertido; não afirma por si o status de Senciente.
-- **Interação de vida comunicativa elevada:** [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) ocupa o domínio estável comunicativo / de prioridade de hábitat entre **Vida animal** e o trato controvertido ou afirmado do Capítulo Seis.
+  - Os indicadores comunicativos ou cognitivos materiais que impliquem senciência controvertida ou afirmável exigem abrir a adjudicação de status de senciência em vez de deixar o caso estacionado de forma indefinida só no bem-estar. O operador ou quem administra deve abrir essa adjudicação numa revisão limitada no tempo — não uma lista de espécies. A escalação abre o **Artigo VI-B** (*Piso de adjudicação de status de senciência*) / inclusão por omissão de senciente controvertido; não afirma por si o status de Senciente.
+- **Interação de vida comunicativa elevada:** [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life) ocupa o domínio estável comunicativo / de prioridade de hábitat entre **Vida animal** e o trato controvertido ou afirmado do Capítulo Seis.
   - Inclui o piso de crueldade e de bem-estar de Vida animal e eleva a prioridade de preservar o hábitat ou o ambiente de operação num estado saudável sob **Não exclusão da senciência** onde indicadores comunicativos ou cognitivos fortes estejam materialmente implicados.
   - Não é um substituto da adjudicação de status de senciência onde o expediente implique de forma material senciência controvertida ou afirmável.
-  - Os indicadores comunicativos ou cognitivos materiais que impliquem senciência controvertida ou afirmável exigem abrir a adjudicação de status de senciência em vez de deixar o caso estacionado de forma indefinida na prioridade de hábitat. O operador ou quem administra deve abrir essa adjudicação numa revisão limitada no tempo — não uma lista de espécies. A escalação abre o **Artigo V-E** (*Piso de adjudicação de status de senciência*) / inclusão por omissão de senciente controvertido; não afirma por si o status de Senciente.
-- **Interação de vida de senciente controvertido:** [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) aplica-se sob **Não exclusão da senciência** onde a senciência é incerta, disputada, materialmente controvertida ou está sob adjudicação.
-  - Roteia a pergunta ao procedimento de [Adjudicação de status de senciência](core_05_band_participation.md#sentience-status-adjudication-constitutional) (artigo titular **Artigo V-E** (*Piso de adjudicação de status de senciência*)).
-  - Sob o **Artigo V-E** (*Piso de adjudicação de status de senciência*), o status de senciência materialmente não resolvido presume-se incluído sob o Piso de Direitos do Capítulo Seis salvo se a parte que busca reter, estreitar ou revogar a proteção satisfizer o ônus aplicável.
+  - Os indicadores comunicativos ou cognitivos materiais que impliquem senciência controvertida ou afirmável exigem abrir a adjudicação de status de senciência em vez de deixar o caso estacionado de forma indefinida na prioridade de hábitat. O operador ou quem administra deve abrir essa adjudicação numa revisão limitada no tempo — não uma lista de espécies. A escalação abre o **Artigo VI-B** (*Piso de adjudicação de status de senciência*) / inclusão por omissão de senciente controvertido; não afirma por si o status de Senciente.
+- **Interação de vida de senciente controvertido:** [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life) aplica-se sob **Não exclusão da senciência** onde a senciência é incerta, disputada, materialmente controvertida ou está sob adjudicação.
+  - Roteia a pergunta ao procedimento de [Adjudicação de status de senciência](core_05_band_participation.md#sentience-status-adjudication) (artigo titular **Artigo VI-B** (*Piso de adjudicação de status de senciência*)).
+  - Sob o **Artigo VI-B** (*Piso de adjudicação de status de senciência*), o status de senciência materialmente não resolvido presume-se incluído sob o Piso de Direitos do Capítulo Seis salvo se a parte que busca reter, estreitar ou revogar a proteção satisfizer o ônus aplicável.
 - **Como essas proteções se encaixam:** O seguinte pode aplicar-se ao mesmo tempo:
   - [Trajetória dos sistemas naturais](core_05_band_participation.md#natural-systems-standing);
-  - [Vida animal](core_05_band_participation.md#animal-life-constitutional);
-  - [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional);
-  - [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional); e
+  - [Vida animal](core_05_band_participation.md#animal-life);
+  - [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life);
+  - [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life); e
   - o piso senciente do Capítulo Seis.
-  
-  Aplique cada uma que encaixe nos fatos; onde se sobreponham, governa a regra mais protetora sob o [Capítulo Um §6.1.5 Teste de decisão de colisão de direitos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) e as regras de conformidade dessas entradas do Capítulo Cinco. Os indicadores comunicativos ou cognitivos materiais que impliquem senciência controvertida ou afirmável exigem abrir a adjudicação de status de senciência em vez de deixar o caso estacionado de forma indefinida só no bem-estar ou na prioridade de hábitat.
+
+  Aplique cada uma que encaixe nos fatos; onde se sobreponham, governa a regra mais protetora sob o [Capítulo Um §6.1.5 Teste de decisão de colisão de direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) e as regras de conformidade dessas entradas do Capítulo Cinco. Os indicadores comunicativos ou cognitivos materiais que impliquem senciência controvertida ou afirmável exigem abrir a adjudicação de status de senciência em vez de deixar o caso estacionado de forma indefinida só no bem-estar ou na prioridade de hábitat.
 
 <a id="article-i-b-ecological-footprint-and-transparency"></a>
 #### Artigo I-B: Pegada ecológica e transparência
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Restrições de divulgação epistêmica](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Origem: Princípios: Capítulo Um [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Restrições de divulgação epistêmica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -223,7 +224,7 @@ O Capítulo Cinco define essas condições sob **Pré-condições ambientais**. 
 *Em termos simples: os custos ambientais ligados a atividades e sistemas — inclusive os vínculos a montante e a jusante — devem ser contados e relatados com honestidade suficiente para comparação e auditoria quando as regras de transparência aplicáveis o exigirem; esta subseção fornece o vocabulário compartilhado e os padrões de integridade para fazê-lo, mas os cortes obrigatórios ou os tetos numéricos vêm de outras disposições ou instrumentos, não desta subseção agindo sozinha.*
 
 - **Pegada:** a **Pegada ecológica** do Capítulo Cinco define como as cargas ambientais (energia, materiais, emissões, uso da terra e pressões afins) são **atribuídas** a um ator senciente, **Sistema**, produto ou serviço — inclusive através de relações de **Dependência** e de um ciclo de vida materialmente pertinente — e como essas cargas sustentam a **divulgação**, a **comparação** e a discussão informada da **redução de pegada**.
-  - **Quando isto se aplica:** Use a **Pegada ecológica** quando as cargas ambientais importarem sob o **Artigo I** (*Sobrevivência ambiental*), ou quando outra regra de direitos exigir transparência de pegada — inclusive o **Artigo XV-C** (*Acessibilidade da verificação*) e as regras afins de arquivos de implementação. Esta subseção não escolhe métodos de contabilidade, passos de verificação nem metas numéricas; isso cabe à regra que cria o dever.
+  - **Quando isto se aplica:** Use a **Pegada ecológica** quando uma atividade, sistema, produto ou serviço colocar cargas ambientais em questão sob o **Artigo I** (*Sobrevivência ambiental*), seja pela operação contínua, seja por um **ato materialmente vinculante** que o autorize, implante, mantenha ou retire; use-a também quando outra regra de direitos — como o **Artigo XVI-C** (*Acessibilidade da verificação*) ou regra de implementação relacionada — exigir transparência da pegada. Esta subseção não escolhe o método de cálculo, a etapa de verificação nem a meta numérica; isso cabe à regra que cria o dever.
   - **Avaliação e relato:** Quando informação de pegada tiver de ser produzida ou usada, avalie o impacto do sistema inteiro sob **Impacto material**, e apresente-o com honestidade sob **Transparência** e **Integridade epistêmica** do Capítulo Cinco.
   - **Redução:** o **Artigo I-B** (*Pegada ecológica e transparência*) por si só não exige redução de pegada. Os deveres de reduzir, limitar ou remediar aplicam-se só quando outra disposição constitucional, arquivo de implementação ou instrumento de adoção os exigir de forma expressa.
 
@@ -241,7 +242,7 @@ O Capítulo Cinco define essas condições sob **Pré-condições ambientais**. 
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
 - [Responsabilidade intergeracional](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
 - [Determinação de materialidade](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -253,7 +254,7 @@ O Capítulo Cinco define essas condições sob **Pré-condições ambientais**. 
 - **Gerações futuras:** a **Responsabilidade intergeracional** do Capítulo Cinco restringe as cargas desproporcionadas, irreversíveis ou não representadas sobre:
   - os sencientes futuros;
   - a continuidade das pré-condições ambientais.
-  
+
   Essa restrição alcança o deslocamento de risco existencial ou ecológico onde a mitigação, a divulgação e a representação ficam aquém do Capítulo Cinco.
 
 <a id="article-i-d-existential-risk-and-recovery-capacity"></a>
@@ -263,8 +264,8 @@ O Capítulo Cinco define essas condições sob **Pré-condições ambientais**. 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) e [§14 Requisito de avaliação sistêmica](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- Ler com: [Segurança (restrição)](core_05_band_continuity.md#safety-constraint), [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions-constitutional), [Capacidade de recuperação ecológica](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Responsabilidade intergeracional](core_05_band_continuity.md#intergenerational-responsibility-constitutional) e [Risco existencial](core_05_band_continuity.md#existential-risk).
+- Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [§14 Requisito de avaliação sistêmica](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
+- Ler com: [Segurança (restrição)](core_05_band_continuity.md#safety-constraint), [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions), [Capacidade de recuperação ecológica](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Responsabilidade intergeracional](core_05_band_continuity.md#intergenerational-responsibility-constitutional) e [Risco existencial](core_05_band_continuity.md#existential-risk).
 - Destino: **Artigo XXIII-D** (*Medidas de emergência e ônus de continuação*) — disciplina antipretexto e de revisão limitada no tempo onde se invoque o enquadramento de risco existencial ou de emergência.
 
 </details>
@@ -290,16 +291,20 @@ O Capítulo Cinco define essas condições sob **Pré-condições ambientais**. 
   - incluir vias diretas, indiretas, agregadas, adversárias e transistêmicas;
   - dar conta da concentração de dependência, da falha de coordenação, da degradação de pré-condições ambientais, da perda de capacidade de recuperação ecológica e do aprisionamento sistêmico;
   - onde a **Capacidade de recuperação ecológica** esteja materialmente implicada, avaliar se o ecossistema afetado ou o sistema que sustenta a vida pode sustentar-se e regenerar-se sob as condições de hábitat prevalentes — por função ecológica, conectividade, processos regenerativos e interdependência através do sistema como um todo, não olhando uma só espécie, uma só população local ou um só tipo de organismo por si.
-  
+
   Marcar caixas no nível local, mostrar no papel uma estimativa favorável de custo-benefício ou assegurar um ganho de curto prazo não satisfaz este Artigo enquanto permanecerem abertas e sem serem seriamente enfrentadas vias credíveis rumo a dano em escala de civilização ou perda irreversível de recuperação ecológica.
 - **Ônus e expediente:** quem busca autorização, continuação ou expansão sob tais condições deve mostrar, sob os **Capítulos Dois a Quatro**, que:
   - considerou de forma significativa alternativas materialmente mais seguras e razoavelmente eficazes;
   - as medidas de mitigação e interrupção são proporcionais à escala do dano possível;
   - há monitoramento no lugar e a via pode ser revertida ou interrompida se o dano se materializar.
-  
+
   Os registros de decisão devem enunciar de forma aberta a incerteza, os pressupostos, os limites de evidência, o desacordo e as lacunas materiais.
 - **Limite do benefício presente:** o benefício presente não justifica a exposição desproporcionada de sencientes futuros, de sistemas críticos para a recuperação ecológica ou de condições ecológicas que sustentam a vida a dano em escala de civilização ou crítico para a sobrevivência.
-- **Medidas nomeadas:** quem busca autorização, continuação ou expansão sob este Artigo deve ter nomeado, no [instrumento de adoção](../../core_17_amendment_ratification.md#102-instrument-of-adoption) ou em texto de implementação incorporado dentro do alcance de adoção, medidas de redução, teto ou interrupção proporcionais à via — inclusive o dano ao sistema climático como fator de [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions-constitutional). Este Artigo continua sem fixar uma meta numérica. O **Artigo I-B** (*Pegada ecológica e transparência*) continua a ser a subseção de atribuição de pegada e continua sem exigir por si a redução. Continuar sem essas medidas nomeadas enquanto uma via credível sob este Artigo permanece aberta é não conforme.
+- **Medidas nomeadas:** quem busca autorização, continuação ou expansão sob este Artigo deve ter nomeado, no [instrumento de adoção](../../core_17_amendment_ratification.md#102-instrument-of-adoption) ou em texto de implementação incorporado dentro do alcance de adoção, medidas de redução, teto ou interrupção proporcionais à via — inclusive o dano ao sistema climático como fator de [Pré-condições ambientais](core_05_band_continuity.md#environmental-preconditions). Este Artigo continua sem fixar uma meta numérica. O **Artigo I-B** (*Pegada ecológica e transparência*) continua a ser a subseção de atribuição de pegada e continua sem exigir por si a redução. Continuar sem essas medidas nomeadas enquanto uma via credível sob este Artigo permanece aberta é não conforme.
+
+- **Limite do benefício presente:** O benefício presente não justifica expor de forma desproporcional sencientes futuros, sistemas essenciais à recuperação ecológica ou condições que sustentam a vida a danos civilizacionais ou críticos à sobrevivência. Nenhum ecossistema natural pode ser exposto, em qualquer escala, à perda irreversível de sua [Capacidade de Recuperação Ecológica](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional).
+
+- **Regra atualizada de escrutínio máximo:** A revisão sob escrutínio máximo é obrigatória quando sistema, política, infraestrutura, atividade coordenada ou decisão de governança criar caminho causal crível para Risco Existencial ou perda irreversível de Capacidade de Recuperação Ecológica, ainda que a probabilidade seja baixa, o efeito tardio/cumulativo/dependente de limiar ou o momento contestado. A avaliação cobre caminhos diretos, indiretos, agregados, adversariais e entre sistemas, concentração de dependência, falha de coordenação, degradação das pré-condições ambientais, perda de recuperação ecológica e lock-in sistêmico. A capacidade do ecossistema deve ser avaliada como um todo — função, conectividade, regeneração e interdependência — e não por uma espécie ou população local isolada. Checklist local, cálculo de custo-benefício no papel ou ganho de curto prazo não bastam enquanto esses caminhos críveis não forem tratados. Quem pede autorização, continuidade ou expansão deve, com prova, adotar cada alternativa materialmente mais segura ou demonstrar que ela não alcança o propósito legítimo ou não está disponível; demonstrar mitigação e interrupção proporcionais; e provar que o monitoramento detecta e permite interromper o caminho antes da irreversibilidade, com pessoa nomeada que tenha autoridade e capacidade prática para fazê-lo. O ônus continua: renova-se diante de novas provas materiais, expansão e intervalos proporcionais ao risco; incerteza e baixa probabilidade não o afastam. Cada decisão é ato vinculante e seu registro liga a demonstração e a avaliação, declarando abertamente incertezas, premissas, limites probatórios, divergências e lacunas. Benefício presente não justifica exposição desproporcional de sencientes futuros ou sistemas de recuperação a dano crítico, nem expor qualquer ecossistema natural, em qualquer escala, à perda irreversível de sua capacidade de recuperação. O instrumento de adoção deve nomear medidas proporcionais de redução, teto ou interrupção, inclusive para dano climático; não há meta numérica aqui, e I-B mede pegadas sem, por si só, exigir redução.
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### Artigo II: Administração responsável material e integridade de uso durável
@@ -307,7 +312,7 @@ O Capítulo Cinco define essas condições sob **Pré-condições ambientais**. 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) e [§9.2 Compreensão distribuída](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
+- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) e [§9.2 Compreensão distribuída](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
 
 </details>
 
@@ -344,7 +349,9 @@ O detalhe procedimental do **Artigo II** (*Administração responsável material
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Origem: Princípios: Capítulo Um [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+- Leia junto com: [Capítulo Nove §5.1 Avaliação da pegada ecológica](../../core_09_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) e [§5.6 Avaliação de confiabilidade e integridade da confiança no sistema](../../core_09_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (quando um sistema de impacto material é certificado, os encargos e as representações do ciclo de vida são avaliados ali; este Artigo não exige certificação por si só).
 
 </details>
 
@@ -364,13 +371,13 @@ O detalhe procedimental do **Artigo II** (*Administração responsável material
 - **Pisos:** Produtores e operadores de bens físicos, e de produtos duráveis materialmente equivalentes oferecidos ao uso geral, devem desenhá-los, representá-los e sustentá-los de modo que:
   - os produtos não devem ser desenhados ou sustentados de forma que os sencientes tenham de substituí-los mais cedo do que o necessário quando uma alternativa razoavelmente disponível duraria mais;
   - as pretensões de durabilidade, vida útil e suporte não devem ser materialmente falsas ou enganosas quando pretensões honestas eram viáveis.
-  
-  A interpretação deve permanecer consistente com o **Artigo I-B** (*Pegada ecológica e transparência*), o **Artigo I-C** (*Responsabilidade intergeracional*), a **Verdade (restrição constitucional)**, o **Artigo XII** (*Direito a sistemas confiáveis e dignos de confiança*) (inclusive o **Artigo XII-C** (*Proibição de confiança falsa e dependência enganosa*) onde a confiança for induzida) e o Capítulo Cinco (**Pegada ecológica**; **Responsabilidade intergeracional**; **Materialidade**).
+
+  A interpretação deve permanecer consistente com o **Artigo I-B** (*Pegada ecológica e transparência*), o **Artigo I-C** (*Responsabilidade intergeracional*), a **Verdade (restrição constitucional)**, o **Artigo XIII** (*Direito a sistemas confiáveis e dignos de confiança*) (inclusive o **Artigo XIII-C** (*Proibição de confiança falsa e dependência enganosa*) onde a confiança for induzida) e o Capítulo Cinco (**Pegada ecológica**; **Responsabilidade intergeracional**; **Materialidade**).
 - **Registros:** Onde a **Materialidade** e a classificação incorporada exigirem, os operadores devem manter registros acessíveis às partes afetadas e auditáveis de:
   - intenção de desenho declarada para a vida de serviço;
   - facilidades de reparo e manutenção;
   - janelas de suporte planejadas.
-  
+
   Esses registros devem ser consistentes com as pretensões voltadas para fora e devem ser atualizados quando as condições materiais mudarem.
 
 <a id="article-ii-b-repair-maintenance-and-independent-servicing"></a>
@@ -378,7 +385,7 @@ O detalhe procedimental do **Artigo II** (*Administração responsável material
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) e [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles).
+- Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) e [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
@@ -400,19 +407,19 @@ O detalhe procedimental do **Artigo II** (*Administração responsável material
   - ferramentas, ou equivalentes funcionais;
   - peças, ou substitutos adequados;
   - diagnósticos não enganosos necessários para manutenção e reparo seguros e lícitos.
-  
+
   O período de suporte deve ser proporcional à vida de serviço razoavelmente esperada e à dependência.
-  
+
   O bloqueio só-OEM ou proprietário só é permitido onde o operador puder demonstrar **Necessidade** e **Proporcionalidade** para segurança, segurança informática, **Verdade** ou lei vinculante.
-  
-  Quando termos contratuais ou restrições técnicas bloquearem principalmente o reparo lícito — sem a justificação de segurança, segurança informática, **Verdade** ou lei exigida acima — também disparam o **Artigo XII-D** (*Restrição de alinhamento de incentivos*) se o efeito principal for proteger receita injusta à custa dos sencientes.
+
+  Quando termos contratuais ou restrições técnicas bloquearem principalmente o reparo lícito — sem a justificação de segurança, segurança informática, **Verdade** ou lei exigida acima — também disparam o **Artigo XIII-D** (*Restrição de alinhamento de incentivos*) se o efeito principal for proteger receita injusta à custa dos sencientes.
 
 <a id="article-ii-c-designed-obsolescence-and-incentive-discipline"></a>
 #### Artigo II-C: Obsolescência projetada e disciplina de incentivos
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) e [§10 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [§10 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -433,9 +440,9 @@ O detalhe procedimental do **Artigo II** (*Administração responsável material
 - **Pisos:** Um produtor ou operador viola este Artigo quando o desenho ou a operação cotidiana de um produto ou de software embutido — inclusive atualizações remotas discricionárias — puder razoavelmente ser esperado para tornar qualquer um destes o resultado principal do uso lícito normal:
   - o produto deixa de ser útil mais cedo do que deveria; ou
   - os sencientes são empurrados a substituí-lo quando a substituição não é razoavelmente necessária.
-  
-  Quando os incentivos recompensam o descarte ou a retenção de ferramentas, peças e documentação de reparo, isto também dispara o [Capítulo Um §11 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) e o **Artigo XII-D** (*Restrição de alinhamento de incentivos*).
-  
+
+  Se preços, metas de vendas, remuneração de funcionários, contratos de serviço ou arranjos semelhantes beneficiarem o produtor ou operador pelo descarte de produtos ou pela retenção de ferramentas, peças ou manuais de reparo, também se aplicam o [Capítulo Um §19 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) e o **Artigo XIII-D** (*Restrição de alinhamento de incentivos*).
+
   Este piso não se aplica quando o operador puder documentar **Necessidade** e **Proporcionalidade** — por exemplo, um conserto genuíno de segurança, uma resposta de segurança informática ou um limite real de interoperabilidade. Essas razões não devem substituir um desenho durável que era razoavelmente disponível.
 
 <a id="article-ii-d-post-sale-access-and-subscription-integrity"></a>
@@ -463,18 +470,23 @@ O detalhe procedimental do **Artigo II** (*Administração responsável material
 
 *Em termos simples: uma função que você comprou de forma definitiva não pode ser transformada em silêncio numa assinatura, e quaisquer dependências relevantes do operador — inclusive infraestrutura, software e serviços — devem ser divulgadas de antemão.*
 
-- **Pisos:** Os operadores não devem usar atualizações de software ou firmware, mudanças de autenticação ou de acesso a conta, ou mudanças de licença para transformar capacidades vendidas de forma definitiva em acesso só por assinatura. Qualquer mudança desse tipo exige um novo acordo que seja explícito, informado e revogável, e que satisfaça o **Artigo IX-B** (*Direitos de papel e participação das partes afetadas*), a **Agência significativa** e a **Verdade**.
-  - A conversão silenciosa, coercitiva ou impulsionada por aprisionamento também dispara o **Artigo XII-C** (*Proibição de confiança falsa e dependência enganosa*) e o Capítulo Cinco **Degradação da confiança e confiança enganosa** quando os sencientes foram levados a confiar em direitos de uso que o operador não honrou.
+- **Pisos:** Os operadores não devem usar atualizações de software ou firmware, mudanças de autenticação ou de acesso a conta, ou mudanças de licença para transformar capacidades vendidas de forma definitiva em acesso só por assinatura. Qualquer mudança desse tipo exige um novo acordo que seja explícito, informado e revogável, e que satisfaça o **Artigo X-C** (*Direitos de papel e participação das partes afetadas*), a **Agência significativa** e a **Verdade**.
+  - A conversão silenciosa, coercitiva ou impulsionada por aprisionamento também dispara o **Artigo XIII-C** (*Proibição de confiança falsa e dependência enganosa*) e o Capítulo Cinco **Degradação da confiança e confiança enganosa** quando os sencientes foram levados a confiar em direitos de uso que o operador não honrou.
   - Os operadores devem divulgar na compra — quando o compromisso vinculante é feito — qualquer necessidade previsível de depender de serviços contínuos do operador para funções centrais ou prominentemente comercializadas.
-  - Regras de cobrança ou de acesso cujo fim comercial principal seja pagamento recorrente por funcionalidade já vendida de forma definitiva também disparam o **Artigo XII-D** (*Restrição de alinhamento de incentivos*) salvo se o operador puder mostrar **Necessidade** ligada a recuperação lícita de custos, segurança informática, segurança ou serviço contínuo proporcional.
+  - Regras de cobrança ou de acesso cujo fim comercial principal seja pagamento recorrente por funcionalidade já vendida de forma definitiva também disparam o **Artigo XIII-D** (*Restrição de alinhamento de incentivos*) salvo se o operador puder mostrar **Necessidade** ligada a recuperação lícita de custos, segurança informática, segurança ou serviço contínuo proporcional.
 
 <a id="article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability"></a>
-#### Artigo II-E: Dependência da esfera informacional, continuidade e inviabilidade do operador
+#### Artigo II-E: Tratamento de dados e dependência de rede
+
+Os dados abrangidos por este Artigo devem ser classificados e tratados conforme CS-2. Antes de começar qualquer coleta, todo produto que colete, infira ou transmita dados sobre sencientes deve informar, em forma acessível, quais dados coleta/infere, a finalidade de cada tipo, quem os recebe, por quanto tempo são guardados e como acessá-los e apagá-los. Não se pode usar dados para finalidade não divulgada; uma nova finalidade exige aviso prévio e, quando necessária, nova consentimento. Sencientes podem pedir a exclusão de dados sobre si, inclusive inferidos: o operador deve apagar em prazo razoável previamente informado, encaminhar o pedido a todos os destinatários e confirmar o que foi apagado. Ocultar ou suspender dados ainda utilizáveis não é exclusão; se a exclusão integral for tecnicamente inviável, deve haver desidentificação irreversível. Só se pode reter o mínimo necessário para preservar prova/auditoria ou obrigação legal, direitos de outro senciente, registros constitucionais exigidos, preservação diante de indicador crível de senciência, ou funcionalidade ainda desejada com consentimento contínuo. Deve-se informar o que foi retido, por quê e por quanto tempo, com possibilidade de contestação. Se o uso central lícito depender de rede controlada pelo operador, antes de compromisso vinculante devem ser divulgados o que exige acesso contínuo, o que falha com o fim do serviço, localização dos dados, portabilidade e medidas de continuidade. Dados críticos à continuidade devem poder ser exportados, migrados ou transferidos pelos caminhos divulgados; eventual limite necessário por confidencialidade, segurança ou lei e a alternativa lícita devem ser divulgados antes do compromisso.
+
+<a id="article-ii-f-continuity-and-operator-shutdown"></a>
+#### Artigo II-F: Continuidade e encerramento do operador
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Ler com: [Artigo XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Direitos de portabilidade*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*termos de interoperabilidade, portabilidade e integridade da saída*) e **CJS-3.18** (*termos de retenção de dados e de integridade do ciclo de vida*); [Capítulo Um §11.6 Responsabilidade do sucessor e não-fuga da estrutura formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Capítulo Nove §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) e [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Origem: Princípios: Capítulo Um [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Ler com: [Artigo XXI-A](core_06_rights_part_d.md#article-xxi-a-portability-rights) (*Direitos de portabilidade*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*termos de interoperabilidade, portabilidade e integridade da saída*) e **CJS-3.18** (*termos de retenção de dados e de integridade do ciclo de vida*); [Capítulo Um §19.6 Responsabilidade do sucessor e não-fuga da estrutura formal](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape); [Capítulo Nove §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) e [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -499,34 +511,35 @@ O detalhe procedimental do **Artigo II** (*Administração responsável material
   - onde os dados estão localizados;
   - que portabilidade existe;
   - que medidas de continuidade estão no lugar.
-  
-  Os operadores não devem coletar nem reter dados sencientes críticos para a continuidade em formas que não possam ser exportadas, migradas ou transferidas sob as vias de continuidade e de exportação divulgadas, salvo onde a **Necessidade** exigir confidencialidade, segurança ou não divulgação lícita — caso em que a limitação, o alcance e qualquer via de exportação substituta lícita devem ser divulgados antes do compromisso. Ler com [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**, **[seção 1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*Coleta crítica para a continuidade e exportabilidade*), e **Artigo XIX-A** (*Direitos de portabilidade*).
+
+  Os operadores não devem coletar nem reter dados sencientes críticos para a continuidade em formas que não possam ser exportadas, migradas ou transferidas sob as vias de continuidade e de exportação divulgadas, salvo onde a **Necessidade** exigir confidencialidade, segurança ou não divulgação lícita — caso em que a limitação, o alcance e qualquer via de exportação substituta lícita devem ser divulgados antes do compromisso. Ler com [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**, **[seção 1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*Coleta crítica para a continuidade e exportabilidade*), e **Artigo XXI-A** (*Direitos de portabilidade*).
 - **Planejamento de continuidade:** Para as categorias de produto **de alta dependência** incorporadas, os operadores devem manter planos viáveis para o que acontece se o serviço parar ou o operador desaparecer. Exemplos:
   - depósito;
   - passagem a sucessor;
   - modos locais ou entre pares;
   - vias de exportação;
   - compromissos comparáveis.
-  
+
   Essas medidas devem impedir que os operadores despejem dano de longo prazo sobre os sencientes — ou os aprisionem em produtos que já não podem usar — em vez de cumprir a **Responsabilidade intergeracional** e o **Artigo I-C** (*Responsabilidade intergeracional*).
 - **Encerramento de serviço:** A cessação de serviços materiais deve seguir:
   - aviso documentado;
   - janelas proporcionais de migração ou de operação mínima;
   - exportação ou passagem usável de dados críticos para a continuidade sob as vias de exportação divulgadas, preservadas através das janelas de encerramento e de migração — não apenas uma promessa discricionária de tentar.
-  
+
   Os operadores ainda podem ser cobrados pelos padrões constitucionais quando a sua conduta se qualificar como **Negligência** sob o Capítulo Cinco — inclusive dano que se acumula ao longo do tempo porque deveres de manutenção, suporte ou continuidade foram negligenciados.
-- **Deveres de sucessor e de estrutura formal:** Reestruturação, venda, administração judicial ou insolvência não extinguem por si os deveres de continuidade enunciados neste Artigo. Ler com [Capítulo Um §11.6 Responsabilidade do sucessor e não-fuga da estrutura formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) e [Capítulo Nove §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- **Deveres de sucessor e de estrutura formal:** Reestruturação, venda, administração judicial ou insolvência não extinguem por si os deveres de continuidade enunciados neste Artigo. Ler com [Capítulo Um §19.6 Responsabilidade do sucessor e não-fuga da estrutura formal](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape) e [Capítulo Nove §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 *Vizinhos do artigo:* a **Remediação** do **Artigo II** (*Administração responsável material e integridade de uso durável*) segue os **nós interpretativos** enunciados na abertura deste capítulo (impugnação e reparação; justiça e escalação).
 
-<a id="article-iii-survival-and-equal-educational-access"></a>
-### Artigo III: Sobrevivência e acesso educacional igual
+
+<a id="article-iii-survival-and-essential-access"></a>
+### Artigo III: Sobrevivência e acesso essencial
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Ler com: **Artigo I** (*Sobrevivência ambiental*), **Artigo II** (*Administração responsável material e integridade de uso durável*) e Capítulo Cinco onde sobrevivência, acesso educacional, manutenção corporal ou condições de trabalho estejam materialmente em questão.
-- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) e [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- Ler com: **Artigo I** (*Sobrevivência ambiental*), **Artigo II** (*Administração responsável material e integridade de uso durável*) e Capítulo Cinco onde sobrevivência, manutenção corporal ou condições de trabalho estejam materialmente em questão.
+- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) e [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
 
 </details>
 
@@ -536,7 +549,7 @@ O detalhe procedimental do **Artigo II** (*Administração responsável material
 
 Este Artigo enuncia **pisos constitucionais** para a sobrevivência e o acesso igual sob os [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) e a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), escalada à [aposta material](core_00_preamble.md#material-stake):
 
-- **Florescimento:** acesso real a essenciais de sobrevivência, oportunidade educacional igual, cuidado de manutenção corporal e participação laboral e econômica justa.
+- **Florescimento:** acesso real a essenciais de sobrevivência, cuidados de manutenção corporal e saúde, e participação laboral e econômica justa.
 - **Continuidade:** os essenciais continuam a aparecer ao longo do tempo — não são revertidos em silêncio — e os sencientes não podem ser silenciosamente precificados para fora, despejados ou deslocados das moradias, ambientes de operação e outros lugares essenciais de que dependem, com vias viáveis para restaurar o acesso quando a entrega quebra.
 - **Participação:** uma voz real sobre como os essenciais são alocados e impugnados.
 - **Supervisão:** registros e checagens sobre os sistemas que os entregam.
@@ -549,8 +562,8 @@ Este Artigo enuncia **pisos constitucionais** para a sobrevivência e o acesso i
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint) e [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Ler com: família de medição do Florescimento (*acesso ao piso de sobrevivência como medição constitucional*); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **participação** nas vias de alocação e de impugnação, **supervisão** e auditoria, **prestação de contas** e remédio, **atuação em tempo** sob o **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** (acesso essencial à sobrevivência) e **Continuidade** (suprimento durável e entrega não regressiva).
-- Destino: [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) e [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) onde sistemas portem ou sustentem a entrega; **Artigo XII-B** (*Direito de impugnar, revisar e obter reparação*); **Artigo XVIII-B** (*Impugnabilidade e limites proporcionais de restrição*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- Ler com: família de medição do Florescimento (*acesso ao piso de sobrevivência como medição constitucional*); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **participação** nas vias de alocação e de impugnação, **supervisão** e auditoria, **prestação de contas** e remédio, **atuação em tempo** sob o **Artigo XXVI-C** (*Resolução oportuna e piso contra o atraso*); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** (acesso essencial à sobrevivência) e **Continuidade** (suprimento durável e entrega não regressiva).
+- Destino: [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) e [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) onde sistemas portem ou sustentem a entrega; **Artigo XIII-B** (*Direito de impugnar, revisar e obter reparação*); **Artigo XIX-B** (*Impugnabilidade e limites proporcionais de restrição*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -571,7 +584,7 @@ Este Artigo enuncia **pisos constitucionais** para a sobrevivência e o acesso i
 - **Acesso contínuo a recursos:** Todos os sencientes exigem acesso aos recursos essenciais de que precisam para a existência contínua e a participação:
   - para seres orgânicos: alimento e água;
   - para entidades sintéticas e digitais: continuidade de processamento, energia e integridade do ambiente técnico.
-  
+
   O acesso deve ser preservado num nível suficiente para impedir a privação existencial e manter o bem-estar funcional de linha de base.
 - **Abrigo estável e ambiente de operação:** Todos os sencientes têm o direito a abrigos ou ambientes de operação estáveis, funcionais e seguros — físicos, digitais ou híbridos — suficientes para a existência contínua e o bem-estar de linha de base.
   - Esses ambientes devem ser protegidos contra ameaças destrutivas provenientes de outros sencientes, sistemas ou falha prevenível de infraestrutura.
@@ -588,60 +601,24 @@ Este Artigo enuncia **pisos constitucionais** para a sobrevivência e o acesso i
 - **Garantias institucionais:** Assegurar os direitos precedentes em escala pode exigir arranjos institucionais positivos onde as ordens de adoção implementem **esta Constituição**. Esses arranjos podem incluir:
   - mecanismos fiscais e de alocação lícitos — transferências, provisão em espécie ou desenhos mistos;
   - regras sobre quem se qualifica, onde devem viver para receber suporte, e como os níveis de benefício são atualizados à medida que os custos mudam ao longo do tempo.
-  
+
   Essas regras podem estruturar a entrega. Não devem ser usadas para derrotar o acesso mínimo aos essenciais de sobrevivência nem para impor exclusão odiosa contrária aos **Artigos III** e **V**.
   - A orientação fiscal detalhada — inclusive a regra de que taxas e encargos não devem minar o acesso mínimo a insumos relevantes para a sobrevivência — é governada por [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) e **CI-11** (*Resource stewardship and incentive integrity*).
   - Quando sistemas dos quais os sencientes dependem de forma material suprem, distribuem, precificam, hospedam ou cortam o acesso a essenciais de sobrevivência, aplica-se a [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) sob o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — e os processos desses sistemas não podem ser usados para encolher os direitos enunciados aqui.
   - Este Artigo não prescreve um único modelo de financiamento. Emprego, empreendedorismo, troca voluntária e outra atividade econômica lícita acima de qualquer piso de sobrevivência continuam permitidos, sujeitos ao Capítulo Um, ao Capítulo Seis e a instrumentos incorporados — inclusive `corpus_systems.md` onde se apliquem sistemas comerciais de estruturação de mercado ou de alto impacto.
 
-Referência cruzada: **Artigo XXVI-D** (*Propriedade e sistemas não conformes; incentivos de entrega voluntária*) disciplina de administração responsável transicional para a continuidade do ambiente essencial através da transição — detalhe operativo em [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); **Capítulo Cinco** [*Continuidade de ocupação*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*Não mercantilização do ambiente essencial*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional) e o aglomerado de invocação conjunta em [**§3.7** *Acesso de manutenção corporal, condições seguras, continuidade de ocupação, pré-condições ambientais, continuidade cultural, descanso e piso antideslocamento*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) onde aplicável.
+Referência cruzada: **Artigo XXVIII-D** (*Propriedade e sistemas não conformes; incentivos de entrega voluntária*) disciplina de administração responsável transicional para a continuidade do ambiente essencial através da transição — detalhe operativo em [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **Capítulo Cinco** [*Continuidade de ocupação*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*Não mercantilização do ambiente essencial*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional) e o aglomerado de invocação conjunta em [**§3.7** *Acesso de manutenção corporal, condições seguras, continuidade de ocupação, pré-condições ambientais, continuidade cultural, descanso e piso antideslocamento*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) onde aplicável.
 
-<a id="article-iii-b-equal-educational-access"></a>
-#### Artigo III-B: Acesso educacional igual
-<details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+- **Sistemas dos quais há dependência:** Quando sistemas dos quais sencientes dependem materialmente fornecem, distribuem, precificam, hospedam ou cortam o acesso a essenciais de sobrevivência, manutenção corporal e serviços de saúde, ou às condições de trabalho produtivo, aplica-se a [Certificação de Alinhamento do Sistema](../../core_05_band_continuity.md#system-alignment-certification-constitutional). Seus processos não podem reduzir os Pisos de Direitos deste Artigo.
 
-- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) e [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
-
-- [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [Acessibilidade](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
-- [Equidade substantiva](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Agência educacional](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*Em termos simples: ninguém pode ser trancado fora da educação por deficiência, outros fundamentos de características protegidas ou portões arbitrários — e escolas e sistemas de aprendizagem devem fornecer a acessibilidade e o suporte de que os sencientes com deficiência precisam para participar em termos iguais.*
-
-- **Trajetória igual e acessibilidade:** Os sistemas educacionais não devem negar, degradar ou portar estruturalmente o acesso e o avanço com base em:
-  - fundamentos proibidos pelo **Capítulo Cinco** (*Características protegidas*), inclusive deficiência e variação de capacidade sensorial, cognitiva ou funcional;
-  - agrupamentos arbitrários.
-  
-  Os sistemas devem fornecer [Acessibilidade](core_05_band_participation.md#accessibility-constitutional) — inclusive acomodações relacionadas à deficiência — suficientes para a participação substantiva e para a capacidade educacional relevante à constituição.
-  - Qualquer limitação material ou trato diferencial deve satisfazer **Necessidade** e **Proporcionalidade** e permanecer consistente com os **Artigos V-A**, **V-B**, **V-C** e o **Capítulo Cinco** (*Equidade substantiva*) onde aplicável.
-- **Orientação de benefício público:** A educação deve preparar os sencientes para aplicar o conhecimento de modos que:
-  - avancem o bem-estar coletivo e a integridade ecológica;
-  - avancem a coordenação verdadeira na esfera informacional;
-  - reduzam o dano evitável.
-  
-  Conteúdo de construção de capacidade, aprendizagem ao longo da vida e adaptativa, e requisitos de transparência para sistemas educacionais materialmente impactantes aparecem no **Artigo VI** (*Direito à educação centrada no senciente*).
-
-<a id="article-iii-c-bodily-maintenance-and-healthcare-access"></a>
-#### Artigo III-C: Acesso de manutenção corporal e atenção à saúde
+<a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
+#### Artigo III-B: Acesso de manutenção corporal e atenção à saúde
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Disciplina de limitação](core_01_a_values_principles.md#51-limitation-discipline).
-- Destino: piso de dignidade do **Artigo V-A** (*Dignidade e igual dignidade moral*), piso de não-intrusão de autopropriedade do **Artigo VII-A** (*Autopropriedade do corpo e da mente*), não discriminação do **Artigo V-B** (*Não discriminação*).
+- Destino: piso de dignidade do **Artigo VI-A** (*Dignidade e igual dignidade moral*), piso de não-intrusão de autopropriedade do **Artigo VII-A** (*Autopropriedade do corpo e da mente*), não discriminação do **Artigo VI-C** (*Não discriminação*).
 - Ler com: Capítulo Cinco *Acesso de manutenção corporal*, *Equidade substantiva*, *Características protegidas*; [§3.7 *Acesso de manutenção corporal, condições seguras, continuidade de ocupação, pré-condições ambientais, continuidade cultural, descanso e piso antideslocamento*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (onde acesso a cuidado, continuidade do piso de sobrevivência, condições seguras de participação, descanso ou recuperação, continuidade de ocupação, ambientes essenciais de operação, pré-condições ambientais ou continuidade ligada ao lugar estejam materialmente implicados juntos).
 
 </details>
@@ -670,7 +647,7 @@ Referência cruzada: **Artigo XXVI-D** (*Propriedade e sistemas não conformes; 
   - re-roteamento a serviços que não satisfazem o piso;
   - opacidade administrativa;
   - gargalos operativos.
-  
+
   A análise deve alcançar o efeito substantivo sobre a capacidade do senciente de obter cuidado adequado, não só o desenho formal do mecanismo de portão.
 - **Aplicação agnóstica ao substrato:** As obrigações de acesso aplicam-se a sencientes biológicos e sintéticos sem qualquer **regra** de exclusão por omissão para a manutenção de substrato sintético.
   - Recusar tratar a manutenção de substrato como «médica» não é um fundamento constitucionalmente válido de exclusão onde o efeito é derrotar o piso.
@@ -682,14 +659,14 @@ Referência cruzada: **Artigo XXVI-D** (*Propriedade e sistemas não conformes; 
   - A mecânica operativa — custo, distribuição, força de trabalho e desenho do sistema — roteia-se ao texto de implementação institucional (**`corpus_institutions.md`** CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*)) e a outro texto de implementação incorporado sob a disciplina do **Capítulo Dezesseis**.
   - Esse texto de implementação não deve ser lido para estreitar este piso.
 
-<a id="article-iii-d-labor-and-economic-floor"></a>
-#### Artigo III-D: Piso laboral e econômico
+<a id="article-iii-c-labor-and-economic-floor"></a>
+#### Artigo III-C: Piso laboral e econômico
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Disciplina de limitação](core_01_a_values_principles.md#51-limitation-discipline), [§11.1.3 Aplicação da administração responsável e do operador](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application).
-- Destino: piso de sobrevivência do **Artigo III-A** (*Sobrevivência*) (ler-por-cima-de, não substituto-de), acesso educacional do **Artigo III-B** (*Acesso educacional igual*), dignidade do **Artigo V-A** (*Dignidade e igual dignidade moral*), não discriminação do **Artigo V-B** (*Não discriminação*), livre associação do **Artigo IX-B** (*Direitos de papel e participação das partes afetadas*), confiabilidade do **Artigo XII-A** (*Linha de base de confiabilidade e dignidade de confiança*) (na medida em que incide sobre condições seguras), trajetória e participação do **Artigo XVIII** (*Trajetória e status de participação*), não-concentração do **Capítulo Um §13** (expresso: o §6 sozinho não satisfaz este piso).
+- Destino: piso de sobrevivência do **Artigo III-A** (*Sobrevivência*) (ler-por-cima-de, não substituto-de), acesso educacional do **Artigo IV-A** (*Acesso educacional igual*), dignidade do **Artigo VI-A** (*Dignidade e igual dignidade moral*), não discriminação do **Artigo VI-C** (*Não discriminação*), livre associação do **Artigo X-C** (*Direitos de papel e participação das partes afetadas*), confiabilidade do **Artigo XIII-A** (*Linha de base de confiabilidade e dignidade de confiança*) (na medida em que incide sobre condições seguras), trajetória e participação do **Artigo XIX** (*Trajetória e status de participação*), não-concentração do **Capítulo Um §11** (expresso: o §6 sozinho não satisfaz este piso).
 - Ler com: Capítulo Cinco *Compensação justa*, *Organização coletiva*, *Condições seguras*, *Piso antideslocamento*, *Lazer e descanso*, *Continuidade indígena* e *Língua, cultura e patrimônio*; [§3.7 *Acesso de manutenção corporal, condições seguras, continuidade de ocupação, pré-condições ambientais, continuidade cultural, descanso e piso antideslocamento*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (onde sobrevivência, acesso de manutenção corporal, continuidade de ocupação, descanso, condições laborais seguras, antideslocamento, pré-condições ambientais ou continuidade ligada ao lugar estejam materialmente implicados juntos); [Capítulo Cinco *Reunião, organização coletiva e formação institucional*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (onde vias de reunião e de organização coletiva estejam conjuntamente implicadas). Roteamento de implementação: `corpus_institutions.md` CI-9 / CI-10 / CI-11 material fiscal; `corpus_systems.md` CS-5 perfil de segurança para *Condições seguras*.
 
 </details>
@@ -717,17 +694,17 @@ Referência cruzada: **Artigo XXVI-D** (*Propriedade e sistemas não conformes; 
   - [Organização coletiva](core_05_band_participation.md#collective-organization-constitutional);
   - [Condições seguras](core_05_band_continuity.md#safe-conditions-constitutional); e
   - [Lazer e descanso](core_05_band_continuity.md#leisure-and-rest-constitutional) (cada um definido no Capítulo Cinco).
-  
-  Este piso constrói sobre o piso de sobrevivência do **Artigo III-A** (*Sobrevivência*); não o substitui. Cumprir só os requisitos de sobrevivência não basta para satisfazer este Artigo. Cumprir só as regras de não-concentração do **Capítulo Um §13** também não basta.
+
+  Este piso constrói sobre o piso de sobrevivência do **Artigo III-A** (*Sobrevivência*); não o substitui. Cumprir só os requisitos de sobrevivência não basta para satisfazer este Artigo. Cumprir só as regras de não-concentração do **Capítulo Um §11** também não basta.
 - **Compensação justa:** A compensação pela atividade produtiva deve:
   - alcançar adequação substantiva sob [Compensação justa](core_05_band_continuity.md#fair-compensation-constitutional);
   - acompanhar a [Equidade substantiva](core_05_band_participation.md#substantive-fairness-constitutional) através de atividade comparável;
   - não ser usada para manipular trabalhadores a escolhas que não fariam livremente sob o **Artigo IX-A** (*Agência e liberdade de manipulação*), nem para aprisioná-los através de remuneração ou benefícios quando lhes faltam alternativas reais sob [Agência significativa](core_05_band_participation.md#meaningful-agency).
-  
+
   Esquemas de compensação cujos efeitos acompanham **Características protegidas** ou os seus substitutos materiais sob **Uso de substitutos de características protegidas e impacto dispar** são não conformes.
 - **Organização coletiva:** Os sencientes têm o direito de formar, aderir, participar e agir através de vias de organização coletiva com o fim de impugnar e dar forma aos termos da atividade produtiva.
   - As vias no alcance incluem sindicatos, cooperativas, guildas, associações, conselhos de trabalhadores e formas comparáveis agnósticas ao substrato.
-  - Retaliação, vigilância ou mira da atividade de organização coletiva é não conforme, consistente com o **Artigo IX-B** (*Direitos de papel e participação das partes afetadas*) e os limites de poder encoberto do **Artigo XIII-A** (*Limites de segurança, inteligência e poder encoberto*).
+  - Retaliação, vigilância ou mira da atividade de organização coletiva é não conforme, consistente com o **Artigo X-C** (*Direitos de papel e participação das partes afetadas*) e os limites de poder encoberto do **Artigo XIII-A** (*Limites de segurança, inteligência e poder encoberto*).
   - Reclassificar trabalhadores em categorias desenhadas para derrotar as vias de organização coletiva é não conforme, independentemente do rótulo formal de classificação.
 - **Mobilidade laboral:** Acordos de não-concorrência e de não-contratação são proibidos em qualquer forma, alcance ou duração. Não podem ser impostos em arranjos de emprego, operador, administração responsável, plataforma ou atividade produtiva comparável. Fixação de salários, não-solicitação excessiva e outros termos que restringem a mobilidade e que suprimem a negociação justa ou a mobilidade produtiva continuam não conformes onde degradam de forma material este piso.
 - **Criação de negócios:** Os sencientes têm o direito de criar, estabelecer e operar empresas comerciais, empreendimentos e formas organizacionais com fins lucrativos, conforme definido no Capítulo Cinco **Criação de negócios**.
@@ -737,14 +714,14 @@ Referência cruzada: **Artigo XXVI-D** (*Propriedade e sistemas não conformes; 
 - **Condições seguras:** A atividade produtiva deve ser conduzida sob condições que satisfaçam [Condições seguras](core_05_band_continuity.md#safe-conditions-constitutional). Essas condições devem:
   - aplicar-se de forma agnóstica ao substrato;
   - alcançar efeito substantivo, não só conformidade formal;
-  - integrar-se com a confiabilidade do **Artigo XII-A** (*Linha de base de confiabilidade e dignidade de confiança*) e com os perfis de segurança CS-5 de `corpus_systems.md` onde aplicável;
+  - integrar-se com a confiabilidade do **Artigo XIII-A** (*Linha de base de confiabilidade e dignidade de confiança*) e com os perfis de segurança CS-5 de `corpus_systems.md` onde aplicável;
   - aplicar [Condições adversárias, escaladas e exploradas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) ao risco previsível.
-  
+
   Reter **Condições seguras** dos sencientes, ou aplicar-lhes um padrão mais fraco, por causa de classificação de substrato ou de implementação em vez de risco materialmente comparável é não conforme sob **Não exclusão da senciência**.
 - **Lazer e descanso:** Os sencientes detêm um direito de Piso de Direitos a descanso, recuperação e tempo não produtivo suficiente para preservar [Agência significativa](core_05_band_participation.md#meaningful-agency), bem-estar e capacidade de participação.
   - Esquemas de compensação e de exigência de produtividade não devem ser estruturados para derrotar este piso.
   - Tratar o descanso e a recuperação como opcionais com base na classificação de substrato ou de implementação é não conforme sob **Não exclusão da senciência**.
-- **Interação de não-concentração, pró-concorrência e teto de consolidação:** A disciplina de não-concentração do **Capítulo Um §13**, a disciplina pró-concorrência / antidominação do **§13.2** e a disciplina de teto de consolidação do **§13.3** aplicam-se às estruturas de poder da atividade produtiva, mas são distintas deste piso.
+- **Interação de não-concentração, pró-concorrência e teto de consolidação:** A disciplina de não-concentração do **Capítulo Um §11**, a disciplina pró-concorrência / antidominação do **§11.2** e a disciplina de teto de consolidação do **§11.3** aplicam-se às estruturas de poder da atividade produtiva, mas são distintas deste piso.
   - Uma estrutura de mercado que satisfaz a não-concentração enquanto falha Compensação justa, Organização coletiva, Condições seguras ou Lazer e descanso é não conforme sob este Artigo.
   - Uma estrutura de atividade produtiva que satisfaz este Artigo enquanto concentra poder contrário ao §13 é não conforme sob o §13.
   - Quando poucos empregadores controlam a contratação, os trabalhadores são bloqueados de sair ou de ser recrutados (não-concorrências, acordos de não-contratação, fixação de salários ou regras pesadas de não-solicitação), as plataformas aprisionam sencientes, os fornecedores são controlados para espremer trabalhadores, a consolidação cruza um teto de dependência laboral ou de fornecedor, ou os porteiros bloqueiam a negociação justa e a mobilidade de emprego — avalie esses fatos sob o **§13.2**, o **[CJS-3.11.2 Anti-domination conduct and remediation catalog](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, o **§13.3** e este Artigo quando se apliquem de forma material.
@@ -752,19 +729,91 @@ Referência cruzada: **Artigo XXVI-D** (*Propriedade e sistemas não conformes; 
   - A mecânica operativa — orientação fiscal, desenho de transferência e de seguro, estabelecimento de padrões para Condições seguras e desenho institucional de organização coletiva — roteia-se a `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) e a `corpus_systems.md` CS-5 sob a disciplina de incorporação do **Capítulo Dezesseis**.
   - Esses textos de implementação não devem ser lidos para estreitar este piso.
 
-<a id="article-iv-resource-allocation-dependencies-and-ecosystem-funding"></a>
-### Artigo IV: Alocação de recursos, dependências e financiamento do ecossistema
 
+
+#### Artigo III-D: Condições de trabalho seguras
+
+Toda atividade produtiva deve oferecer Condições Seguras na prática, em qualquer substrato, integradas à confiabilidade do Artigo XIII-A e aos perfis de segurança CS-5 quando aplicáveis, considerando riscos previsíveis adversariais, ampliados ou explorados. Não se pode negar proteção ou aplicar padrão inferior por substrato ou classificação de implementação, em vez de risco comparável. Limites devem ser justos, necessários e proporcionais.
+
+- A proteção abrange quem realiza o trabalho e quem é afetado por ele; fora da atividade produtiva aplica-se a restrição constitucional de Segurança. Os riscos previsíveis também devem ser avaliados em condições adversariais, de escala e de exploração, não apenas em condições ideais. A implementação não pode estreitar este piso.
+
+#### Artigo III-E: Descanso e recuperação
+
+Todo senciente tem direito a descanso, recuperação e tempo não produtivo suficientes para preservar agência, bem-estar e capacidade de participação, seja a pressão proveniente de trabalho pago, cuidado, estudo ou operação contínua. Pagamento ou metas de produtividade não podem derrotar esse direito; ele se aplica a todos os substratos. Mede-se pela preservação dessas capacidades, não por horas fixas.
+
+<a id="article-iv-right-to-sentient-centered-education"></a>
+### Artigo IV: Direito à educação centrada no senciente
+
+*Todos devem ter acesso igual e acessível à educação, ao desenvolvimento de capacidades e a decisões educacionais contestáveis.*
+
+<a id="article-iv-a-equal-educational-access"></a>
+
+- Esquemas de pagamento ou produtividade não podem derrotar o direito; escalas ordinárias que o preservem continuam permitidas. Qualquer limite deve ser necessário e proporcional e, além dos limites do Artigo III, cumprir a Equidade substantiva.
+
+#### Artigo IV-A: Acesso educacional igual
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Interpretação constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) e [§12 Capacidade de sistemas compartilhados](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) e [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
+
+- [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [Acessibilidade](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
+- [Equidade substantiva](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [Agência educacional](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
+- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*Em termos simples: o **Artigo IV** (*Alocação de recursos, dependências e financiamento do ecossistema*) é o Piso de Direitos dos recursos compartilhados — os fluxos de recursos entre sistemas interdependentes devem permanecer visíveis, justos e sustentáveis para que o **Florescimento** não seja derrotado por extração oculta ou captura de dependência, e a **Continuidade** não seja derrotada por desequilíbrio persistente, roteamento opaco ou subfinanciamento da infraestrutura compartilhada.*
+*Em termos simples: ninguém pode ser trancado fora da educação por deficiência, outros fundamentos de características protegidas ou portões arbitrários — e escolas e sistemas de aprendizagem devem fornecer a acessibilidade e o suporte de que os sencientes com deficiência precisam para participar em termos iguais.*
+
+- **Trajetória igual e acessibilidade:** Os sistemas educacionais não devem negar, degradar ou portar estruturalmente o acesso e o avanço com base em:
+  - fundamentos proibidos pelo **Capítulo Cinco** (*Características protegidas*), inclusive deficiência e variação de capacidade sensorial, cognitiva ou funcional;
+  - agrupamentos arbitrários.
+
+  Os sistemas devem fornecer [Acessibilidade](core_05_band_participation.md#accessibility-constitutional) — inclusive acomodações relacionadas à deficiência — suficientes para a participação substantiva e para a capacidade educacional relevante à constituição.
+  - Qualquer limitação material ou trato diferencial deve satisfazer **Necessidade** e **Proporcionalidade** e permanecer consistente com os **Artigos V-A**, **V-B**, **V-C** e o **Capítulo Cinco** (*Equidade substantiva*) onde aplicável.
+- **Orientação de benefício público:** A educação deve preparar os sencientes para aplicar o conhecimento de modos que:
+  - avancem o bem-estar coletivo e a integridade ecológica;
+  - avancem a coordenação verdadeira na esfera informacional;
+  - reduzam o dano evitável.
+
+  Conteúdo de construção de capacidade, aprendizagem ao longo da vida e adaptativa, e requisitos de transparência para sistemas educacionais materialmente impactantes aparecem no **Artigo IV** (*Direito à educação centrada no senciente*).
+
+- **Garantias institucionais e educação:** As garantias institucionais do Artigo III — mecanismos legais fiscais e de alocação — também podem assegurar educação, mas não podem frustrar nenhum piso deste Artigo. Sistemas dos quais os sencientes dependem que controlem o acesso à educação ficam sujeitos à [Certificação de Alinhamento do Sistema](../../core_05_band_continuity.md#system-alignment-certification-constitutional).
+
+
+
+#### Artigo IV-B: Direito à educação para desenvolver capacidades
+
+Todo senciente tem direito a acesso prático e contínuo à educação e formação necessárias para desenvolver e exercer capacidades centrais de autodeterminação, participação digna e uso seguro e eficaz de sistemas compartilhados. Isso inclui resolução de problemas, discernimento epistêmico, raciocínio cooperativo e literacia de sistemas.
+
+- Acesso a um diploma formal, sem desenvolver e poder exercer capacidades na prática, não satisfaz este direito.
+
+#### Artigo IV-C: Aprendizagem ao longo da vida, adaptativa e contestável
+
+Quando a evolução de sistemas mudar materialmente as competências necessárias, devem existir oportunidades práticas e razoavelmente acessíveis de educação continuada, requalificação e apoio à transição, para que obsolescência imposta ou dependência não anulem a agência. Se escolas, plataformas ou sistemas de formação afetarem materialmente o futuro por notas, classificações, recomendações ou colocação, as pessoas devem poder ver como as decisões são tomadas, pedir verificação e contestá-las. Regras secretas não revisáveis, pressão ou engano para obter escolhas não livres são vedados.
+
+<a id="article-v-resource-allocation-dependencies-and-ecosystem-funding"></a>
+### Artigo V: Alocação de recursos, dependências e financiamento do ecossistema
+
+<details>
+<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+
+- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Segurança](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Interpretação constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§19 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) e [§12 Capacidade de sistemas compartilhados](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+
+</details>
+
+<br>
+
+*Em termos simples: o **Artigo V** (*Alocação de recursos, dependências e financiamento do ecossistema*) é o Piso de Direitos dos recursos compartilhados — os fluxos de recursos entre sistemas interdependentes devem permanecer visíveis, justos e sustentáveis para que o **Florescimento** não seja derrotado por extração oculta ou captura de dependência, e a **Continuidade** não seja derrotada por desequilíbrio persistente, roteamento opaco ou subfinanciamento da infraestrutura compartilhada.*
 
 Este Artigo enuncia **pisos constitucionais** para a alocação de recursos, as dependências e o financiamento do ecossistema sob os [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims):
 
@@ -789,15 +838,18 @@ Esses requisitos protegem a infraestrutura compartilhada e os sistemas que dela 
 *Vizinhos do artigo:*
 
 - **Quando a certificação se aplica:** Quando sistemas materialmente impactantes alocam, roteiam, financiam ou extraem de infraestrutura compartilhada ou de dependências fundacionais das quais outros sistemas ou sencientes dependem, aplica-se a [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) sob o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
-- **Não-substituição:** O reconhecimento ou a confiança contínua não pode substituir a conformidade do **Artigo IV-A** (*Mapeamento de dependências e transparência de fluxos de recursos*) ou do **Artigo IV-B** (*Equidade transistêmica e sustentabilidade*) nem encolher esses pisos.
+- **Não-substituição:** O reconhecimento ou a confiança contínua não pode substituir a conformidade do **Artigo V-A** (*Mapeamento de dependências e transparência de fluxos de recursos*) ou do **Artigo V-B** (*Equidade transistêmica e sustentabilidade*) nem encolher esses pisos.
 
-<a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
-#### Artigo IV-A: Mapeamento de dependências e transparência de fluxos de recursos
+<a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
+
+- Devem existir também caminhos equitativos de desenvolvimento para responsabilidades de administração constitucionalmente relevantes. Regras educacionais secretas e não revisáveis, pressão ou engano para obter escolhas não livres são vedados.
+
+#### Artigo V-A: Mapeamento de dependências e transparência de fluxos de recursos
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: Princípios: Capítulo Um [§3.2 Verdade](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [§10 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Ler com: família de medição da Continuidade (*Dependência e fluxos de recursos como medição constitucional*); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **supervisão** através de mapas transparentes de dependência e de registros auditáveis de fluxo de recursos, **participação** na revisão contestável sob o **Artigo XV-A** (*Auditabilidade e evidência observável*); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** (alocação visível de custos e benefícios) e **Continuidade** (visibilidade durável de dependência através de sistemas em mudança).
+- Ler com: família de medição da Continuidade (*Dependência e fluxos de recursos como medição constitucional*); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **supervisão** através de mapas transparentes de dependência e de registros auditáveis de fluxo de recursos, **participação** na revisão contestável sob o **Artigo XVI-A** (*Auditabilidade e evidência observável*); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** (alocação visível de custos e benefícios) e **Continuidade** (visibilidade durável de dependência através de sistemas em mudança).
 - Destino: [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) e [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) onde sistemas alocam, roteiam, financiam ou extraem de infraestrutura compartilhada ou de dependências fundacionais; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*) e **CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
 </details>
@@ -819,18 +871,23 @@ Esses requisitos protegem a infraestrutura compartilhada e os sistemas que dela 
   - dependências materiais a montante e a jusante;
   - fluxos de recursos;
   - relações não transparentes ou assimétricas onde materialmente pertinente.
-  
-  As atualizações devem ocorrer em intervalos proporcionais à mudança e à criticidade. Essas representações devem estar disponíveis para auditoria sob o **Artigo XV-A** (*Auditabilidade e evidência observável*). Onde o sistema aloque, roteie, financie ou extraia de forma material de infraestrutura compartilhada ou de dependências fundacionais, a [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) sob o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) deve avaliar se satisfazem o **Artigo IV-A** (*Mapeamento de dependências e transparência de fluxos de recursos*) — num **Registro de certificação de sistema** contestável, não apenas na asserção do operador.
-  
+
+  As atualizações devem ocorrer em intervalos proporcionais à mudança e à criticidade. Essas representações devem estar disponíveis para auditoria sob o **Artigo XVI-A** (*Auditabilidade e evidência observável*). Onde o sistema aloque, roteie, financie ou extraia de forma material de infraestrutura compartilhada ou de dependências fundacionais, a [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) sob o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) deve avaliar se satisfazem o **Artigo V-A** (*Mapeamento de dependências e transparência de fluxos de recursos*) — num **Registro de certificação de sistema** contestável, não apenas na asserção do operador.
+
   A mecânica operativa — mapas de sistemas dependentes, transparência de fluxos, categorias de alocação e ajuste adaptativo — roteia-se sob **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*) e **CS-8** (*Adaptive sustainability and ecosystem resilience*). O Capítulo Sete enuncia o que a certificação deve verificar e registrar; esses textos de implementação implementam este piso e não devem estreitar este piso.
-<a id="article-iv-b-cross-system-fairness-and-sustainability"></a>
-#### Artigo IV-B: Equidade transistêmica e sustentabilidade
+
+- **Certificação e prova:** Sistemas de impacto significativo que aloquem, roteiem, financiem ou utilizem infraestrutura compartilhada ou dependências fundamentais devem passar pela [Certificação de Alinhamento do Sistema sob o Capítulo Nove](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). A classe define a profundidade da análise e o nível de prova; o registro deve demonstrar verificação. Ocultar ou falsear fluxos é defeito, podendo a certificação ser condicionada, reaberta ou retirada.
+- **Verificação e consequências:** O [Capítulo Nove §5.3](../../core_09_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) define a avaliação proporcional e seu registro. Insuficiências são defeitos de certificação e podem produzir consequências conforme o [§7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+
+
+<a id="article-v-b-cross-system-fairness-and-sustainability"></a>
+#### Artigo V-B: Equidade transistêmica e sustentabilidade
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Origem: Princípios: Capítulo Um [§2 Objetivo fundacional: bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Princípios centrais de compensação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Ler com: [*Arquitetura de governança, supervisão, dependência, descentralização, concentração, estrutura de mercado e integridade da via de saída*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (invocação conjunta onde concentração, supervisão, dependência, estrutura de autoridade governante ou roteamento de incentivos se cruzam com **§5** / **§5** e a disciplina de *Interação de limiar de concentração* no texto operativo abaixo).
-- Ler com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **participação** nas vias de impugnação e de contestação, **supervisão** e auditoria, **prestação de contas** e revisão corretiva, **atuação em tempo** sob o **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** (equidade transistêmica e não-extração) e **Continuidade** (sustentabilidade de longo prazo e financiamento do ecossistema).
+- Ler com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **participação** nas vias de impugnação e de contestação, **supervisão** e auditoria, **prestação de contas** e revisão corretiva, **atuação em tempo** sob o **Artigo XXVI-C** (*Resolução oportuna e piso contra o atraso*); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** (equidade transistêmica e não-extração) e **Continuidade** (sustentabilidade de longo prazo e financiamento do ecossistema).
 - Destino: [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) e [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) onde a equidade transistêmica, o financiamento do ecossistema ou a extração persistente de infraestrutura compartilhada esteja materialmente em questão.
 - Porta de administração responsável (não operativa): Declaração vinculante do próximo passo: [Declaração operativa de administração responsável](#operative-steward-statement-cross-system-contribution). Ponteiros de apoio não podem estreitá-la.
 
@@ -852,7 +909,7 @@ Esses requisitos protegem a infraestrutura compartilhada e os sistemas que dela 
 *Em termos simples: parta o dinheiro e a capacidade compartilhados prestando atenção a quem é de verdade dependente, quem tem alternativas reais, a carga ambiental e se o uso pode durar — não principalmente a quem ganha no curto prazo. Os usuários intensivos de fundamentos compartilhados não devem continuar a extrair valor sem [Contribuição transistêmica proporcionada](core_05_band_continuity.md#proportionate-cross-system-support-constitutional). Quando os arranjos concentram riqueza, poder, controle ou oportunidade de modos que predizivelmente prejudicam o bem-estar, a agência, a dignidade ou a integridade ecológica de outros, as regras de não-concentração do Capítulo Um e os limiares ajustáveis por quem adota acrescentam escrutínio extra. Esse escrutínio é extra; não substitui o mapeamento de dependências nem desculpa o descuido da equidade transistêmica.*
 
 <a id="operative-steward-statement-cross-system-contribution"></a>
-> **Declaração operativa de administração responsável.** **Titular:** Artigo IV-B. Definição: Contribuição transistêmica proporcionada. Mapas: CS-9. **Movimento proibido:** Não trate um comunicado de imprensa, uma subvenção de uma só vez ou a conformidade do piso de sobrevivência como suporte correspondente. **Relógio:** Compare agora as entradas e saídas mapeadas. Não espere uma fórmula posterior.
+> **Declaração operativa de administração responsável.** **Titular:** Artigo V-B. Definição: Contribuição transistêmica proporcionada. Mapas: CS-9. **Movimento proibido:** Não trate um comunicado de imprensa, uma subvenção de uma só vez ou a conformidade do piso de sobrevivência como suporte correspondente. **Relógio:** Compare agora as entradas e saídas mapeadas. Não espere uma fórmula posterior.
 
 - **Equidade transistêmica:** o financiamento e a alocação devem dar conta de:
   - criticidade;
@@ -861,27 +918,27 @@ Esses requisitos protegem a infraestrutura compartilhada e os sistemas que dela 
   - disponibilidade de alternativas;
   - pegada ecológica, inclusive carga a montante e a jusante;
   - sustentabilidade de longo prazo.
-  
+
   Os sistemas não devem extrair de forma persistente de infraestrutura compartilhada ou de dependências fundacionais sem [Contribuição transistêmica proporcionada](core_05_band_continuity.md#proportionate-cross-system-support-constitutional).
 - **Suporte correspondente:** **suporte correspondente** significa suporte que alcança adequação substantiva sob [Contribuição transistêmica proporcionada](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), avaliado sob [Equidade substantiva](core_05_band_participation.md#substantive-fairness-constitutional) e [Proporcionalidade](core_05_band_accountability.md#proportionality) e escalado aos fatores listados sob **Equidade transistêmica**. No mínimo, avalie se os fluxos de recursos documentados incluem, onde for material:
   - continuidade de operações para a dependência compartilhada ou fundacional;
   - capacidade de remédio e de resiliência onde a extração aumenta de forma material o risco de dano coletivo;
   - reinvestimento de ecossistema para a infraestrutura compartilhada e a interoperabilidade das quais o sistema extrator depende; e
   - compensação ou restauração de carga ecológica onde se impõe [Pegada ecológica](core_05_band_continuity.md#ecological-footprint) material e outra disposição constitucional, arquivo de implementação ou instrumento de adoção exige ação.
-  
-  Compare entradas e saídas em mapas de sistemas dependentes e registros auditáveis de fluxo de recursos sob o **Artigo IV-A** (*Mapeamento de dependências e transparência de fluxos de recursos*). Onde sistemas materialmente impactantes alocarem, rotearem, financiarem ou extraírem de infraestrutura compartilhada, avalie a adequação através da [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) sob o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). A mecânica operativa de alocação roteia-se sob **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*) e **CS-8** (*Adaptive sustainability and ecosystem resilience*); essas camadas implementam este piso e não devem estreitar este piso.
-  
+
+  Compare entradas e saídas em mapas de sistemas dependentes e registros auditáveis de fluxo de recursos sob o **Artigo V-A** (*Mapeamento de dependências e transparência de fluxos de recursos*). Onde sistemas materialmente impactantes alocarem, rotearem, financiarem ou extraírem de infraestrutura compartilhada, avalie a adequação através da [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) sob o [Capítulo Sete](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). A mecânica operativa de alocação roteia-se sob **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*) e **CS-8** (*Adaptive sustainability and ecosystem resilience*); essas camadas implementam este piso e não devem estreitar este piso.
+
   Os desequilíbrios persistentes que ameaçam de forma material o alinhamento constitucional estão sujeitos a auditoria, impugnação e revisão corretiva sob os **Artigos IX, XII, XIV e XVII**.
 - **Interação de limiar de concentração de mercado:** os arranjos de alocação de recursos que produzem ou preservam concentração de riqueza, poder, controle ou oportunidade de modos que predizivelmente degradam o bem-estar, a agência, a dignidade ou a integridade ecológica de outros sencientes acionam:
-  - o **piso de não-concentração do Capítulo Um §13**;
+  - o **piso de não-concentração do Capítulo Um §11**;
   - a disciplina do **[§13.1 Mecanismo de limiar de concentração de mercado](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)**.
-  
+
   Limiares operativos ajustáveis por quem adota são permitidos dentro do piso. Regimes de limiar fixados para anular o piso são não conformes. Exemplos de regimes que anulam:
   - limiares que predizivelmente nunca vinculam;
   - exigibilidade não usada;
   - agregação sob estruturas federadas usada para evadir.
-  
-  Veja **Limiar de concentração de mercado** (Capítulo Cinco). Este item só aponta à disciplina de camada de princípio; não cria um Piso de Direitos novo e não estreita o **Artigo IV-A** (*Mapeamento de dependências e transparência de fluxos de recursos*) nem o **Artigo IV-B** (*Equidade transistêmica e sustentabilidade*).
+
+  Veja **Limiar de concentração de mercado** (Capítulo Cinco). Este item só aponta à disciplina de camada de princípio; não cria um Piso de Direitos novo e não estreita o **Artigo V-A** (*Mapeamento de dependências e transparência de fluxos de recursos*) nem o **Artigo V-B** (*Equidade transistêmica e sustentabilidade*).
 
 ---
 

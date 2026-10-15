@@ -634,6 +634,45 @@ flowchart TB
 
 <br>
 
+<a id="176-portable-competence"></a>
+#### 17.6 สมรรถนะที่ถ่ายโอนได้
+<details>
+<summary><strong><span style="color: #2563eb;">การเชื่อมโยง</span></strong></summary>
+
+- ที่มา: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (การเปลี่ยนผ่านระหว่างการเรียนรู้กับการปฏิบัติงาน); [§16.2 Institutional Development](#162-institutional-development) (ความสามารถที่คงไว้); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (บันทึกเป็นของบทบาท).
+- อ่านร่วมกับ [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): **การกำกับดูแล**ที่มีผู้ดูแลหลายคนตรวจสอบได้, **ความทันเวลา**ในการเห็นปัญหาตั้งแต่เนิ่น ๆ รวมถึงจุดเชื่อมระหว่างหน้าที่, และ **การมีส่วนร่วม**ผ่านช่องทางเปิดสู่งานที่มีผลสำคัญ; ปรับตาม [material stake](core_00_preamble.md#material-stake).
+- อ่านร่วมกับ [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship), [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence), [§19.3 Misalignment Detection](#193-misalignment-detection) (การตรวจจับจากหลายฝ่าย), และ [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response).
+- ขอบเขต: [§18.3 Segregation of Duties](#183-segregation-of-duties) และ [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (เรียนรู้หน้าที่ไม่ใช่การดำรงตำแหน่งนั้น); [Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances); [§17.5 Duty to Resist](#175-duty-to-resist); [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- การนำไปใช้ต่อ: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) (ไม่ให้เกิดจุดล้มเหลวเดียวในระดับผู้มีความรู้สึก); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Institutional Development](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Distributed Understanding](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+*กล่าวอย่างง่าย:* งานสำคัญไม่ควรพึ่งความจำของผู้มีความรู้สึกเพียงคนเดียว ระบบยิ่งสำคัญและผู้อื่นยิ่งพึ่งพา ผู้ดูแลยิ่งต้องส่งมอบและอธิบายงาน ตรวจงานของกันและกัน และเข้าใจงานข้างเคียงพอจะเห็นปัญหาที่รอยต่อ นี่คือขั้นต่ำของความครอบคลุมและความเข้าใจ ไม่ได้กำหนดให้ทุกคนหมุนเวียนทำทุกงาน
+
+ความสามารถในบทบาทสำคัญเป็นของบทบาทและชุมชนที่พึ่งพาบทบาทนั้น ไม่ใช่ของผู้ดูแลคนเดียว โดยปรับตามความสำคัญและการพึ่งพา:
+- **ความครอบคลุม:** ผู้มีคุณสมบัติมากกว่าหนึ่งคนทำและอธิบายบทบาทได้ ผู้แทนที่ล้มเหลวด้วยสาเหตุเดียวกันไม่นับ; สำเนา AI ระบบเดิมที่มีข้อบกพร่องเดิมก็ไม่ใช่กำลังสำรอง
+- **ฝึกการส่งมอบ:** เอกสารอย่างเดียวไม่พิสูจน์การถ่ายทอด ต้องฝึกการสืบทอดและส่งมอบ บันทึกและแก้ไขช่องว่างที่พบ
+- **เข้าใจรอยต่อ:** ผู้ดูแลงานข้างเคียงต้องรู้จักงานกันและกันพอจะเห็นการส่งต่องานที่ตกหล่นหรือมาตรวัดที่ดูดีด้านหนึ่งแต่ก่อผลเสียอีกด้าน นี่คือความเข้าใจ ไม่ใช่อำนาจ
+- **การหมุนเวียนเป็นเครื่องมือ:** ใช้การหมุนเวียน สังเกตงาน ทำงานคู่ หรือทดแทนชั่วคราวได้เมื่อช่วยการเรียนรู้หรือความครอบคลุม และเมื่อปลอดภัยและยินยอม โดยไม่เร็วกว่าการพัฒนาความสามารถ ห้ามแบ่งงานจนไม่มีใครเชี่ยวชาญ
+
+**ข้อจำกัด:** งานตรวจสอบต้องแยกจากงานที่ตนทำ ต้องผ่านเกณฑ์ก่อนรับบทบาทผูกพันหรือเกี่ยวกับความปลอดภัย; ก่อนหน้านั้นทำได้เพียงงานฝึกภายใต้การกำกับ ห้ามย้ายหรือฝึกใหม่เพื่อตอบโต้ผู้คัดค้านหรือรายงานโดยได้รับความคุ้มครอง ความเข้าใจไม่ใช่สิทธิ์เข้าถึง: ความลับ ความปลอดภัย สิทธิเท่าที่จำเป็น และบันทึกบทบาทยังมีผล ไม่ต้องให้ทุกคนทำทุกบทบาท; ความเชี่ยวชาญที่มีเหตุผลได้รับการคุ้มครอง และความพยายามได้สัดส่วนกับภาระที่หลีกเลี่ยงได้ กลุ่มเล็กใช้สมาชิกที่ไว้ใจกันช่วยทดแทนได้ หน้าที่นี้ผูกพันผู้ดูแลมนุษย์และ AI เท่าเทียมกัน
+
+---
+
 <a id="18-governance-under-stewardship-discipline"></a>
 ### 18. ธรรมาภิบาลภายใต้วินัย stewardship
 

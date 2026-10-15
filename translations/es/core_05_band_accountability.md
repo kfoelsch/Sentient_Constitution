@@ -3489,6 +3489,32 @@ Véase **Invocación conjunta y satisfacción**.
 
 ---
 
+<a id="interim-hold"></a>
+#### Retención provisional
+
+*En términos sencillos: una retención provisional limita temporalmente el uso de una autoridad concreta mientras se verifican los hechos. No decide el fondo del asunto.*
+
+- **Dentro del alcance:** Orden provisional de un foro competente, fundada en causa probable y dirigida a una autoridad, vía o asunto concretos de una persona sentiente. Debe indicar fundamento, alcance, vencimiento y vía de revisión, y emplear la medida eficaz menos restrictiva. Puede exigir divulgación y vigilancia, un co-titular independiente o segunda llave, apartamiento de un asunto, depósito o separación del elemento controvertido, o limitar el ejercicio de la autoridad nombrada.
+- **Fuera del alcance:** [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock), que requiere una determinación verificada; [Suspensión](core_05_band_accountability.md#stay), que pausa una acción o un paso; medidas de emergencia de contención; y restricciones de libertad, cuidado protegido, voto, expresión, reunión, disenso, denuncia protegida, acceso a la supervivencia o al piso de derechos, suspensión de un organismo entero o incautación general de bienes.
+<a id="interim-hold-a"></a>
+- **Medición y evaluación:** Use las familias de medición de [Rendición de cuentas](core_05_apex_accountability_leg.md#measuring-accountability) y [Oportunidad](core_05_apex_timeliness_leg.md#measuring-timeliness). Registre la persona y autoridad limitadas, el foro emisor y su independencia, la base de causa probable y nivel de evidencia, el riesgo que no podía esperar, por qué una medida más leve no bastaba, el vencimiento y la revisión. Evalúe bajo [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality); distinga la retención de una determinación, un bloqueo y una sanción.
+<a id="interim-hold-c"></a>
+- **Qué debe sostenerse — falla primaria:** No emitir sin causa probable ni basarse en mera creencia, identidad, pertenencia a un grupo, disenso que no incite daño ni trato discriminatorio a otras personas, o denuncia protegida; no permitir que el organismo, autoridad nominadora o línea de control del sujeto la emita; limitarla a la autoridad nombrada y no alcanzar una vía excluida; respetar vencimiento y única prórroga permitida; no tratar la retención o su vencimiento como prueba, registro o efecto de trayectoria; no convertirla en bloqueo sin hallazgo verificado; dar motivos, hechos y una vía efectiva de impugnación y revisión; ofrecer reparación por una retención indebida; y usarla solo en situaciones previstas por la Constitución o texto incorporado.
+
+<a id="interested-party"></a>
+#### Parte interesada
+
+*En términos sencillos: es quien tiene un interés real en el resultado de un asunto, incluida quien actúa por esa persona o bajo su control. El estatus no quita el derecho a ser oído; exige registrar el contacto con quienes deciden e impide que la parte interesada también compruebe, registre o decida.*
+
+- **Dentro del alcance:** Para cada asunto, persona sentiente, institución o sistema con [interés material](core_00_preamble.md#material-stake), junto con quienes actúan por él o dentro de su [Línea de Control Material](../../core_05_band_accountability.md#material-control-line). Un asunto incluye decisión, hallazgo, certificación, nombramiento, selección, compra, auditoría, revisión, interpretación o impugnación. El interés es material si el resultado puede cambiar derechos, deberes, condición, trayectoria, recursos o posición, directamente o por titularidad, financiación, empleo, contrato o [dependencia](core_05_band_continuity.md#dependency). Puede incluir solicitantes, reclamantes, sujetos o impugnantes; licitantes, contrapartes, financiadores o beneficiarios; y personas sentientes afectadas. Se determina asunto por asunto.
+- **Fuera del alcance:** Interés general compartido con el público, pericia, consejo, defensa de una causa sin interés propio, asociación profesional o participación ordinaria, por sí solos. El estatus nunca elimina el derecho a participar, ser oído o impugnar; solo regula el contacto con quienes deciden y los puestos que puede ocupar, según el Capítulo Ocho, el [Artículo XII-E](core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) y los textos de implementación.
+<a id="interested-party-a"></a>
+- **Medición y evaluación:** Las familias de medición de [Rendición de cuentas](core_05_apex_accountability_leg.md#measuring-accountability) y [Supervisión](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) se usan juntas. Verifique que el interés se determinó por la participación material real, no por títulos, entidades legales, intermediarios o mera comparecencia; que ninguna parte interesada ni persona de su Línea de Control Material ocupó los puestos de verificación/autorización, registro o impugnación; y que el contacto con quienes deciden quedó registrado y divulgado conforme a las reglas, manteniendo disponible la defensa abierta y en el expediente.
+<a id="interested-party-c"></a>
+- **Qué debe sostenerse — falla primaria:** No negar el interés material por un título, entidad, intermediario, distancia nominal o ausencia; el interés indirecto por afiliada, financiador, contratista, representante o sistema automatizado no lo elimina. **Falla secundaria:** no usar este estatus para impedir que una persona afectada sea oída, ni afirmarlo a partir de interés público general, consejo o infraestructura compartida sin probar interés material en el asunto concreto.
+
+---
+
 **Archivo anterior:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
 
 **Siguiente archivo (este idioma):** [core_05_band_continuity.md](core_05_band_continuity.md)

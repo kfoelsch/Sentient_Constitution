@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Place dans le corpus (non opératoire) : structure du fichier et règles de lecture</span></strong></summary>
 
-> Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
+> Le contenu ci-dessous est **uniquement un guide de lecture**.
 >
 > Ce fichier est un **pilote de langue de lecture** du [Chapitre deux en anglais](../../core_02_definition_structure.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_02_definition_structure.md`](../../core_02_definition_structure.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
 >
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guide de lecture (non opératoire) : pile de définitions et où vit le Chapitre deux</span></strong></summary>
 
-> Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
+> Le contenu ci-dessous est **uniquement un guide de lecture**.
 >
 > Les chapitres **deux à cinq** forment la pile constitutionnelle de définitions ; **[CJS](../../corpus_joint_structure.md)** porte les définitions opérationnelles qui l’appliquent :
 > - **Chapitre deux (ce fichier)** — structure des définitions O/M/A/C et alignement des composantes : chaque définition lie **Ontologique (O)** (ce que c’est), le registre de **Mesure (M)** entrelacé avec le devoir d’**Évaluation (A)** (comment cela doit être mesuré et évalué), et **Conformité (C)** (ce qui doit tenir) ([§1 Objet et rôle](core_02_definition_structure.md#1-purpose-and-role) ; [§2 Exigence d’intégrité de la définition](core_02_definition_structure.md#2-definition-integrity-requirement)).

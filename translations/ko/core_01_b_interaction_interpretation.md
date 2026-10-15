@@ -66,7 +66,7 @@
 
 **어떤 축도 직접 다루지 않는 절.** [§15.1.1 분할 방지 원칙](#1511-anti-segmentation-principle)과 [§15.4.1](#1541-integrated-reading)부터 [§15.4.3](#1543-incorporation-layer)까지는 텍스트를 읽는 방법과 어느 출처 계층이 우선하는지를 규율합니다. 의도적으로 해당 추적에는 네 요소의 축이 표시되지 않습니다.
 
-**시간의 두 가지 의미.** 제B부에서 시간은 두 의미로 쓰입니다. 장기 시간 지평(지연되거나 누적되는 피해, 그리고 [제8장 §3.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)이 [§13.1.2](#1312-harm-minimization)에 적용되는 경우)은 **연속성** 목표에 속합니다. 시계, 검토 주기, 지연(제한의 시간 한도, 최종 공개, 피할 수 있는 지연)은 **적시성** 축에 속합니다.
+**시간의 두 가지 의미.** 제B부에서 시간은 두 의미로 쓰입니다. 장기 시간 지평(지연되거나 누적되는 피해, 그리고 [제8장 §3.2 시간 일관성 제약](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)이 [§13.1.2](#1312-harm-minimization)에 적용되는 경우)은 **연속성** 목표에 속합니다. 시계, 검토 주기, 지연(제한의 시간 한도, 최종 공개, 피할 수 있는 지연)은 **적시성** 축에 속합니다.
 
 **두 축이지 충돌이 아닙니다.** 제A부의 목표는 공유 시스템이 무엇을 추구하는지 말해 줍니다. 제B부는 그 과정에서 어떠한 상충관계, 우선권 행사 또는 해석도 무엇을 빼앗을 수 없는지 말해 줍니다.
 
@@ -83,7 +83,7 @@
 - 상위 원칙: [3. 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [7. 자유(제약된 행위 역량)](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [§16 수탁 책임 심층 설명](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
 - 하위 규정: [13.2.1 인식론적 무결성 보존](#1321-preservation-of-epistemic-integrity), [헌법상 충돌 기록](core_05_band_integrative.md#constitutional-collision-record), [기본 임시 입장](#default-interim-posture), 그리고 [14. 절대적 우선권 행사 금지](#14-prohibition-on-absolute-override).
 - [제6장: 기본권](core_06_rights_part_a.md#chapter-six-foundational-rights) 전반의 조문 간 충돌을 규율합니다.
-  - [제24조: 헌법 해석, 심사 및 포획 방지 안전장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) 및 [제20조: 확인된 침해 이후의 정의](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)와 함께 읽으십시오.
+  - [제24조: 헌법 해석, 심사 및 포획 방지 안전장치](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) 및 [제20조: 확인된 침해 이후의 정의](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)와 함께 읽으십시오.
   - 심사, 비상사태 또는 헌법상 충돌에 관한 쟁점이 생기면 적용하십시오.
 
 </details>
@@ -101,7 +101,7 @@
 
 <br>
 
-*쉽게 말해, 헌법상 충돌은 발생합니다. **안전**과 **진실**이 우선입니다. 그다음에는 제한이 비례적이고 필요하며 피해를 최소화하고 가능한 한 가벼워야 합니다. 편의를 위해 진실을 숨겨서는 안 됩니다. 편리함을 위해 프라이버시를 박탈해서는 안 됩니다. 자유 제한은 [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline)에 따라 적용됩니다. 권리와 관련된 헌법상 충돌에는 문서화된 의사결정 검사가 필요하며, 준수 여부를 거짓으로 보여 주는 지표는 인정되지 않습니다. [제8장 §3.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)에 따라 단기 최적화는 평가를 통과할 수 없습니다. **§13.1**(*핵심 상충 원칙*)부터 **§13.3**(*피할 수 있는 부담의 최소화*)까지는 상충 규칙, 공개 및 프라이버시 제한, 헌법상 충돌 절차를 규정합니다.*
+*쉽게 말해, 헌법상 충돌은 발생합니다. **안전**과 **진실**이 우선입니다. 그다음에는 제한이 비례적이고 필요하며 피해를 최소화하고 가능한 한 가벼워야 합니다. 편의를 위해 진실을 숨겨서는 안 됩니다. 편리함을 위해 프라이버시를 박탈해서는 안 됩니다. 자유 제한은 [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline)에 따라 적용됩니다. 권리와 관련된 헌법상 충돌에는 문서화된 의사결정 검사가 필요하며, 준수 여부를 거짓으로 보여 주는 지표는 인정되지 않습니다. [제8장 §3.2 시간 일관성 제약](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)에 따라 단기 최적화는 평가를 통과할 수 없습니다. **§13.1**(*핵심 상충 원칙*)부터 **§13.3**(*피할 수 있는 부담의 최소화*)까지는 상충 규칙, 공개 및 프라이버시 제한, 헌법상 충돌 절차를 규정합니다.*
 
 제B부는 다음 세 상황에서 네 요소를 온전히 유지합니다.
 - **[헌법상 충돌](core_05_band_integrative.md#constitutional-collision)(이 절):** 어느 요소도 약화시키지 않고 충돌을 해결합니다.
@@ -298,7 +298,7 @@ flowchart TB
 - 더 큰 시스템적·집계적·생태적 피해를 만들면서 지역적 또는 즉각적 피해만을 기준으로 최적화하는 행위;
 - 확인된 당사자의 피해를 최소화하는 것처럼 보이게 하려고 생태계, 확인되지 않은 감응 존재 또는 그 밖에 산정되지 않은 당사자에게 피해를 전가하는 행위.
 
-**시간 범위 규율.** 장기적 시스템 비용을 치르며 단기적으로 최적화하는 것은 이 기준을 통과하지 못합니다. 피해 최소화는 [제8장 §3.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)을 고려해야 합니다. 현재 기간에는 피해를 최소화하는 것처럼 보이더라도 관련 헌법상 시간 범위에 걸쳐 예측 가능한 더 큰 피해를 일으키는 결정은 준수하지 않는 것입니다.
+**시간 범위 규율.** 장기적 시스템 비용을 치르며 단기적으로 최적화하는 것은 이 기준을 통과하지 못합니다. 피해 최소화는 [제8장 §3.2 시간 일관성 제약](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)을 고려해야 합니다. 현재 기간에는 피해를 최소화하는 것처럼 보이더라도 관련 헌법상 시간 범위에 걸쳐 예측 가능한 더 큰 피해를 일으키는 결정은 준수하지 않는 것입니다.
 
 **헌법상 최저선과의 관계.** 피해 최소화는 [§13.1.4 헌법상 최저선, 안전 및 비하 방지 절차](#1314-constitutional-floors-safety-and-anti-degrading-process)에 명시된 헌법상 최저선 *위에서* 작동합니다. 다음을 결코 허용하지 않습니다.
 - 권리 최저선의 영구적 소멸;
@@ -395,7 +395,7 @@ flowchart TB
 이 원칙은 다음과 같이 권리 최저선을 보호한다.
 
 - 어떠한 헌법상 절차, 조치, 전환, 개정, 지위 관련 결과, 비상 조치 또는 사법 관련 결과도 [제VI-A조](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)(*존엄과 동등한 도덕적 지위*) 및 [존엄 훼손 절차 금지 원칙](#anti-degrading-process-principle)에 따른 기본적 존엄 보호, 최소 생계 수단에 대한 접근, 또는 핵심적인 이의 제기, 심사 및 항소 권리라는 **권리 최저선 최소 기준**을 영구적으로 소멸시키거나 포기하게 해서는 안 된다.
-- 특정 권리를 일시적으로 제한하는 것은 [최소 제한·기간 제한·심사 가능한 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [제12장 §6.1](core_12_forum.md#61-emergency-measures-and-continuation-burden)(*비상 조치 및 지속의 입증 책임*)의 비상 규칙을 충족하는 경우에만 허용된다. 즉, 모든 제한은 정당화되고, 최소한이어야 하며, 문서화되고, 기간이 한정되며, 독립적으로 심사될 수 있어야 한다. 개별 조항은 더 강한 보호 조치를 추가할 수 있지만, 이 원칙을 축소하거나 편의, 효율성, 분류, 비상사태, 전환, 지위, 개정, 계약 또는 이행이라는 표지를 이용해 우회해서는 안 된다.
+- 특정 권리를 일시적으로 제한하는 것은 [최소 제한·기간 제한·심사 가능한 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [제12장 §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden)(*비상 조치 및 지속의 입증 책임*)의 비상 규칙을 충족하는 경우에만 허용된다. 즉, 모든 제한은 정당화되고, 최소한이어야 하며, 문서화되고, 기간이 한정되며, 독립적으로 심사될 수 있어야 한다. 개별 조항은 더 강한 보호 조치를 추가할 수 있지만, 이 원칙을 축소하거나 편의, 효율성, 분류, 비상사태, 전환, 지위, 개정, 계약 또는 이행이라는 표지를 이용해 우회해서는 안 된다.
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -412,7 +412,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <summary><strong><span style="color: #2563eb;">연계</span></strong></summary>
 
 - [헌법적 사원칙](core_00_preamble.md#constitutional-tetrad)의 네 축 모두와 함께 읽기: **감독** 축(제한은 독립 심사가 가능하도록 유지되고, 증거는 보존되며, 헌법상 충돌이 계류 중에도 독립 심사자가 계속 접근할 수 있어야 함); **책임성** 축(문서화되고 감사 가능한 헌법상 충돌 기록에 규칙, 대안, 증거 및 선택 근거를 명시함); **참여** 축(영향받는 당사자가 결정을 이해하고 이의를 제기하고 재구성할 수 있어야 하며, 무엇이 동결되었는지 안내받아야 함); **적시성** 축(더 강한 권리 최저선 규칙에서 달리 정하지 않는 한 제한은 일시적이어야 하며, 기간 또는 심사 주기와 회복 경로를 갖추고, 계류 중인 헌법상 충돌은 해당 시계를 따라야 함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정(심각성, 비가역성, 의존 집중도 및 불확실성이 커질수록 입증 책임이 높아짐).
-- 후속 규정: [제XXV-B조: 권리 충돌 절차 및 회복적 정렬](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)(심의 기관은 이 판단 기준을 적용함); [제XXV-C조: 적시 해결 및 지연 방지 최저선](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [제12장 §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(*적시 해결, 중요성 단계 및 지연 방지 규율*).
+- 후속 규정: [제XXV-B조: 권리 충돌 절차 및 회복적 정렬](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)(심의 기관은 이 판단 기준을 적용함); [제XXV-C조: 적시 해결 및 지연 방지 최저선](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [제12장 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(*적시 해결, 중요성 단계 및 지연 방지 규율*).
 
 </details>
 
@@ -450,12 +450,12 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 충돌 기록에 대한 기밀성 제한은 [§13.2 인식론적 공개 제약](#132-epistemic-disclosure-constraints)을 충족해야 한다. 완전한 공개가 불가능한 경우, 가능한 최대한의 부분 공개와 독립 검토자의 접근을 유지해야 한다.
 
 <a id="default-interim-posture"></a>
-**헌법적 충돌이 계류 중일 때의 기본 잠정 입장.** [헌법적 충돌 기록](core_05_band_integrative.md#constitutional-collision-record) 절차와 [제XXIV조](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*헌법 해석, 검토 및 포획 방지 보호조치*)가 헌법적 충돌을 해결할 때까지, 관리자가 임의로 승자를 만들어 내지 못하도록 대기 상태를 고정한다.
+**헌법적 충돌이 계류 중일 때의 기본 잠정 입장.** [헌법적 충돌 기록](core_05_band_integrative.md#constitutional-collision-record) 절차와 [제XXIV조](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*헌법 해석, 검토 및 포획 방지 보호조치*)가 헌법적 충돌을 해결할 때까지, 관리자가 임의로 승자를 만들어 내지 못하도록 대기 상태를 고정한다.
 
 - **증거를 보존한다:** 삭제, 유출 또는 되돌릴 수 없는 공개로 헌법적 충돌을 무의미하게 만들지 않는다.
 - 충돌하는 해석 중 하나를 이용할 수 없게 만드는 **비가역적 조치를 동결한다** — 되돌릴 수 없는 조치가 헌법적 충돌을 종결하거나, 한쪽의 입장을 무의미하게 하거나, 해석이 끝나기 전에 승자를 만들어 낸다면 그 조치를 취하지 않는다.
 - 양쪽 해석을 모두 이용할 수 있도록 **되돌릴 수 있고 동의에 기반한 조치를 계속한다** — 동의가 있는 경우 [보안 제약형 관찰 가능성](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule)에 따른 독립 검토자의 접근도 포함한다.
-- 영향을 받는 당사자와 해석 절차에 무엇이 동결되었는지, 무엇이 진행되는지, 어떤 시계가 적용되는지 **알린다** (포럼에 회부된 분쟁의 경우, [제12장 §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*시의적절한 해결, 중요도 단계 및 지연 방지 원칙*)의 단계별 시계와 최종 한계가 적용된다).
+- 영향을 받는 당사자와 해석 절차에 무엇이 동결되었는지, 무엇이 진행되는지, 어떤 시계가 적용되는지 **알린다** (포럼에 회부된 분쟁의 경우, [제12장 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*시의적절한 해결, 중요도 단계 및 지연 방지 원칙*)의 단계별 시계와 최종 한계가 적용된다).
 
 이 대기 상태는 어느 쪽이 옳은지에 대한 결정이 아니다. 어느 해석도 차단되지 않도록 되돌릴 수 없는 조치를 동결한다. 헌법적 충돌에 대한 답은 여전히 [§13 헌법적 충돌 해결 절차](#13-constitutional-collision-resolution-process)가 내려야 한다. 이것이 [§13.1.5 최소 제한·시간 제한·검토 가능 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)이 적용되는 이유다. 되돌릴 수 있고 동의에 기반한 조치는 양쪽 해석을 모두 이용할 수 있게 하지만, 비가역적 조치는 그렇지 않다.
 
@@ -468,7 +468,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - [헌법상 사요소](core_00_preamble.md#constitutional-tetrad)와 함께 읽기: **참여** 요소(제한하에서도 충분한 정보를 바탕으로 이의를 제기할 수 있음); **감독** 요소(공개 제한은 가능한 최대한의 감사를 보장해야 함); **책임성** 요소(모든 제한에는 [§13.2.1](#1321-preservation-of-epistemic-integrity)에 따른 소급 감사와 검토가 수반되어 누군가가 그에 대해 책임을 짐); **적시성** 요소(제한 또는 지연 공개는 기간이 한정되며 §13.2.1에 따라 궁극적인 공개로 이어짐); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
 - 상위 항목: 원칙: [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 헌법상 충돌 해결 절차](#13-constitutional-collision-resolution-process).
 - 하위 항목: [§13.2.1 인식론적 무결성 보전](#1321-preservation-of-epistemic-integrity), [§13.2.2 신뢰와 진실의 정합](#1322-trust-truth-alignment), [§13.2.3 프라이버시와 정보 자기결정](#1323-privacy-and-informational-self-determination), [14. 절대적 우선권의 금지](#14-prohibition-on-absolute-override).
-- 하위 항목: 공개가 제한될 때 정보권역의 무결성, 감사 가능성, 소급 검토 및 충분한 정보를 바탕으로 이의를 제기할 권리 범위를 보호함. 특히 [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호조치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), [제XXV-A조: 소급 검토 및 공개](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure), 그리고 공개 제한이 이의 제기 가능성이나 충분한 정보를 바탕으로 한 참여에 영향을 미치는 모든 권리 맥락.
+- 하위 항목: 공개가 제한될 때 정보권역의 무결성, 감사 가능성, 소급 검토 및 충분한 정보를 바탕으로 이의를 제기할 권리 범위를 보호함. 특히 [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호조치](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), [제XXV-A조: 소급 검토 및 공개](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure), 그리고 공개 제한이 이의 제기 가능성이나 충분한 정보를 바탕으로 한 참여에 영향을 미치는 모든 권리 맥락.
 
 </details>
 
@@ -523,7 +523,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - [헌법상 사요소](core_00_preamble.md#constitutional-tetrad)와 함께 읽기: **참여** 요소(제한하에서도 충분한 정보를 바탕으로 이의를 제기할 수 있음); **감독** 요소(공개 제한은 가능한 최대한의 감사를 보장해야 함); **책임성** 요소(모든 제한에는 소급 감사와 검토가 수반됨); **적시성** 요소(제한은 범위가 좁고 기간이 한정되며, 정당화 조건이 더 이상 적용되지 않을 때 공개됨); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
 - 상위 항목: 원칙: [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [13. 헌법상 충돌 해결 절차](#13-constitutional-collision-resolution-process).
 - 하위 항목: [§13.2.2 신뢰와 진실의 정합](#1322-trust-truth-alignment) 및 [14. 절대적 우선권의 금지](#14-prohibition-on-absolute-override).
-- 하위 항목: 공개가 제한될 때 정보권역의 무결성, 감사 가능성, 소급 검토 및 충분한 정보를 바탕으로 이의를 제기할 권리 범위를 보호함. 특히 [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호조치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), [제XXV-A조: 소급 검토 및 공개](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure), 그리고 공개 제한이 이의 제기 가능성이나 충분한 정보를 바탕으로 한 참여에 영향을 미치는 모든 권리 맥락.
+- 하위 항목: 공개가 제한될 때 정보권역의 무결성, 감사 가능성, 소급 검토 및 충분한 정보를 바탕으로 이의를 제기할 권리 범위를 보호함. 특히 [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호조치](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), [제XXV-A조: 소급 검토 및 공개](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure), 그리고 공개 제한이 이의 제기 가능성이나 충분한 정보를 바탕으로 한 참여에 영향을 미치는 모든 권리 맥락.
 
 </details>
 
@@ -616,7 +616,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 정보가 이용 가능하거나 관찰 가능하거나 이미 공개되었거나 플랫폼이 보유하거나 기술적으로 접근 가능하다는 사실은 프라이버시 이익을 소멸시키지 않으며 위 규율을 충족하지도 않는다.
 
-**데이터 분류 통합.** 이러한 규율의 운영 계층은 **[CS-2 — 정보 유형 및 취급](corpus_systems/cs_02_a_information_types_and_handling.md)**의 데이터 유형 시스템이다. 이 시스템은 정보의 각 범주(조정, 거버넌스, 신원, 상호작용, 내부 인지 및 시스템 운영 데이터)에 각각의 보호 수준, 기본 접근 설정 및 취급 제약을 부여한다. 위의 수집, 보유 및 이용 규율은 일반적인 기준이 아니라 *적용 가능한 가장 엄격한 데이터 분류가 요구하는 수준에서* 적용된다. 데이터를 더 민감한 분류로 재구성, 변환 또는 통합할 수 있는 경우에는 더 민감한 분류의 보호 조치가 적용된다. 오분류, 회피를 위한 구조화 또는 데이터 유형 보호의 기능적 우회는 이 원칙을 위반한다.
+**데이터 분류 통합.** 이러한 규율의 운영 계층은 **[CS-2 — 정보 유형 및 취급](corpus_systems/cs_02_a_information_types_and_handling.md)**의 데이터 유형 시스템이다. 이 시스템은 정보를 다음 열한 가지 유형 중 하나 이상으로 분류한다. 환경 및 생존 조정(**Type E**), 거버넌스 및 운영 출처(**Type G**), 공개 감독 공개정보(**Type O**), 이력·관계·참여(**Type H**), 신원 및 귀속(**Type I**), 신경인지 및 내부 정보(**Type N**), 안전·보안·제한된 조사(**Type S**), 감지자가 비공개 또는 공유 상태에서 창작한 저작물(**Type Y**) 및 공개된 저작물(**Type W**), 상업적 이용허락에 따른 저작물(**Type U**) 또는 양도된 저작물(**Type T**)이다. 각 유형에는 별도의 기본 접근 설정과 취급 제한이 있다. 개인정보 취급의 대부분은 **Types H, I, N, S, and Y**에 해당하며 각 개인정보 범주와 유형의 대응표는 [정보 프라이버시](core_05_band_continuity.md#privacy-informational)에 있다. 위의 수집·보유·이용 규율은 일반적인 기준이 아니라 적용되는 데이터 분류 중 가장 엄격한 것이 요구하는 수준으로 적용한다. 데이터가 재구성·변환·통합되어 더 민감한 분류가 될 수 있으면 더 민감한 분류의 보호를 적용한다. 오분류, 회피성 구조화 또는 데이터 유형 보호의 기능적 우회는 이 원칙을 위반한다.
 
 **감시 및 모니터링.** 감응적 존재의 행위주체성, 결사 또는 표현에 중대한 영향을 미치는 모니터링, 관찰, 기록 및 추론 시스템은 [**최소 제한·기간 한정·검토 가능 제약 원칙**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)을 충족해야 한다. 더 완화된 방법으로 효과를 거둘 수 있다면, 감시는 무차별적이거나 은밀하거나 무기한이어서는 안 되며 감응적 존재가 의존하는 시스템의 이용 조건이 되어서도 안 된다. 감응적 존재가 발언하거나 모이거나 이 헌법이 보호하는 다른 자유를 행사하지 못하도록 위축시키는 감시는 허용되지 않는다.
 
@@ -670,7 +670,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 - 상위 근거: [§13.1 핵심 상충 원칙](#131-core-tradeoff-principles) (상충 단계가 충족된 후 적용); [§17 결과에 따른 관리책임](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role); [§9.2 헌법상 효율성](core_01_a_values_principles.md#92-constitutional-efficiency).
 - 함께 읽기: 헌법 성과 측정 계열 (*헌법적 측정으로서의 피할 수 있는 부담*); [헌법의 네 기둥](core_00_preamble.md#constitutional-tetrad) — **참여** 기둥 (헌법상 요구되지 않는 부담은 [의미 있는 행위 역량](core_05_band_participation.md#meaningful-agency)을 좁힘); **적시성** 기둥 (피할 수 있는 지연은 피할 수 있는 부담임); **감독** 및 **책임성** 기둥 (헌법상 요구된다고 주장하는 부담은 확인 및 이의 제기가 가능하도록 제4장의 증거 및 추적 가능성 요건을 충족해야 함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
-- 하위 근거: [§19.1.3 관리책임자 및 운영자에 대한 적용](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) (인센티브가 불필요한 부담의 생성을 보상해서는 안 됨); [제XXII조: 이해 가능성과 복잡성 관리책임](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- 하위 근거: [§19.1.3 관리책임자 및 운영자에 대한 적용](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) (인센티브가 불필요한 부담의 생성을 보상해서는 안 됨); [제XXII조: 이해 가능성과 복잡성 관리책임](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -714,7 +714,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 상위 원칙: 원칙: [3. 근본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4. 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5. 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 심층적 수탁 책임](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13. 헌법 충돌 해결 절차](#13-constitutional-collision-resolution-process), [7. 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims).
 - 하위 원칙: [20. 통합적 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 - 하위 원칙: 평등, 이의 제기 권리, 투명성, 다툼 가능성 또는 제한된 해석을 무너뜨릴 수 있는 단일 가치 우위 논리로부터 권리의 범위를 보호한다.
-  - 특히 [제VI조: 동등한 기본권](core_06_rights_part_b.md#article-vi-equal-basic-rights), [제XIII-B조: 시정 및 구제받을 권리](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [제XV-B조: 투명성, 감사 가능성 및 다툼 가능성](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [제XIX-B조: 다툼 가능성 및 비례적 제한의 한계](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits), 그리고 [제XXIV-A조: 제한된 해석 권한](core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate).
+  - 특히 [제VI조: 동등한 기본권](core_06_rights_part_b.md#article-vi-equal-basic-rights), [제XIII-B조: 시정 및 구제받을 권리](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [제XV-B조: 투명성, 감사 가능성 및 다툼 가능성](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [제XIX-B조: 다툼 가능성 및 비례적 제한의 한계](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits), 그리고 [제XXIV-A조: 제한된 해석 권한](core_06_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons).
 
 </details>
 
@@ -746,9 +746,9 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 하위 연결: [§15.1 헌법상 우회 금지 원칙](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-anti-segmentation-principle)), [§15.2 정의 계층과 필수 규율](#152-definitional-layer-and-required-disciplines), [§15.3 모호성 해소](#153-ambiguity-resolution), [§15.4 헌법적 의미 충돌 해결](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [3. 근본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)부터 [20. 통합적 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application)까지; 헌법 충돌 절차를 위한 [13. 헌법 충돌 해결 절차](#13-constitutional-collision-resolution-process); [제6장: 기본권](core_06_rights_part_a.md#chapter-six-foundational-rights)은 축소하지 않는다는 기본 원칙.
 - 함께 읽을 것: [제2장부터 제4장](core_02_definition_structure.md) 및 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장의 각 용어에 적용되는 해석 및 증거 계층.
 - 함께 읽을 것: [헌법 4요소](core_00_preamble.md#constitutional-tetrad)와 [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — 통합 가치 체계의 해석적 배경; 실질적으로 관련이 있는 경우 [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 비례 조정.
-- 함께 읽을 것: [권한 스택 및 내부 위계](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*출처 계층의 지위*); [제17장](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*보관, 판본, 채택의 틀* — 충돌 순서를 정하는 두 번째 근거가 아님); [제14장](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) 및 [제15장](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*[§15.4 헌법적 의미 충돌 해결](#154-constitutional-meaning-conflict-resolution)에 따른 후퇴 금지 및 채택자 위계 심사 기준*).
-- 제도적 해석 보호장치를 위해 [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)와 함께 읽을 것 (이 절을 대체하지 않음).
-- [제7장: 기능적 독립성과 직무 분리](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)와 함께 읽을 것 — [§15.1 헌법상 우회 금지 원칙](#151-constitutional-no-bypass-principle)의 우회 방지 목록이 보호하는 직위 구조의 최소 기준 (여기서 다시 설명하지 않음).
+- 함께 읽을 것: [권한 스택 및 내부 위계](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*출처 계층의 지위*); [제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) (*보관, 판본, 채택의 틀* — 충돌 순서를 정하는 두 번째 근거가 아님); [제14장](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) 및 [제15장](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*[§15.4 헌법적 의미 충돌 해결](#154-constitutional-meaning-conflict-resolution)에 따른 후퇴 금지 및 채택자 위계 심사 기준*).
+- 제도적 해석 보호장치를 위해 [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)와 함께 읽을 것 (이 절을 대체하지 않음).
+- [제7장: 기능적 독립성과 직무 분리](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)와 함께 읽을 것 — [§15.1 헌법상 우회 금지 원칙](#151-constitutional-no-bypass-principle)의 우회 방지 목록이 보호하는 직위 구조의 최소 기준 (여기서 다시 설명하지 않음).
 
 </details>
 
@@ -773,7 +773,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 함께 읽을 것: [헌법 4요소](core_00_preamble.md#constitutional-tetrad) — 우회 방지 목록은 네 축을 따릅니다. **감독** 축 (통상적 심사 및 감사 가능성); **참여** 축 (이의 제기 가능성, 실질적 접근 및 공적 이유 제시 의무); **적시성** 축 (적시 해결, 복원 및 롤백 경로); **책임성** 축 (책임성 자체와 [제7장](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)에 따른 기능적 독립성 및 직무 분리); [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 비례 조정.
+- 함께 읽을 것: [헌법 4요소](core_00_preamble.md#constitutional-tetrad) — 우회 방지 목록은 네 축을 따릅니다. **감독** 축 (통상적 심사 및 감사 가능성); **참여** 축 (이의 제기 가능성, 실질적 접근 및 공적 이유 제시 의무); **적시성** 축 (적시 해결, 복원 및 롤백 경로); **책임성** 축 (책임성 자체와 [제7장](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)에 따른 기능적 독립성 및 직무 분리); [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 비례 조정.
 - 하위 연결: [§15.1.1 분절 방지 원칙](#1511-anti-segmentation-principle); [§15.1.2 파생 정보 원칙](#1512-derived-information-principle).
 
 </details>
@@ -820,7 +820,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 실질적 접근;
 - 적시 해결;
 - 복원 및 롤백 경로;
-- 기능적 독립성 및 직무 분리 ([제7장](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); 또는
+- 기능적 독립성 및 직무 분리 ([제7장](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); 또는
 - 책임성.
 
 채택된 이행 계층은 이러한 보호를 구체화할 수 있습니다. 이를 축소해서는 안 됩니다.
@@ -844,7 +844,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 제6장의 어떤 권리 최저선 조항을 만들거나, 확대하거나, 축소하는 것; 또는
 - 어떤 구획과 보호 의무를 포괄하는지에 관한 정의 묶음 자체의 설명을 대체하는 것. 정의 묶음은 **우회 방지** 항목에서 이를 설명하고 규칙은 이 절을 참조합니다.
 
-공동 원용된 정의 묶음이 적용되는 경우, 시스템 전체 평가는 분류, 거버넌스 또는 준수 주장이 성립하기 전에 [제8장 §3 시스템 전체 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)에 따라 분할 방지를 검증해야 합니다. 이 절은 [제3장 §2.1 일반적 회피 유형](core_03_definition_integrity.md#21-common-evasion-patterns) 및 [§2.2 축소적 회피](core_03_definition_integrity.md#22-reductive-evasion)와 함께 작동합니다.
+공동 원용된 정의 묶음이 적용되는 경우, 시스템 전체 평가는 분류, 거버넌스 또는 준수 주장이 성립하기 전에 [제8장 §3 시스템 전체 인증 평가](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)에 따라 분할 방지를 검증해야 합니다. 이 절은 [제3장 §2.1 일반적 회피 유형](core_03_definition_integrity.md#21-common-evasion-patterns) 및 [§2.2 축소적 회피](core_03_definition_integrity.md#22-reductive-evasion)와 함께 작동합니다.
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 파생 정보 원칙
@@ -988,7 +988,7 @@ flowchart TB
   - 구속력 있는 헌법 출처(통합된 `core_*` 문서) 내부; 그리고
   - 편입 계층. 여기서 편입 문서는 [최대한의 보호 효과](core_05_band_integrative.md#fullest-protective-effect)에 따라 선택된다.
 - 출처 계층의 지위는 제5장의 [권한 체계와 내부 위계](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)에 따라 식별한다.
-- [제17장](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)은 보관, 판본 고정, 채택의 틀을 제공한다. 이 절차를 **다시 서술하지 않는다**.
+- [제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)은 보관, 판본 고정, 채택의 틀을 제공한다. 이 절차를 **다시 서술하지 않는다**.
 - 운영 중 발생하는 **헌법상 충돌**에는 — 텍스트 계층의 우선순위가 아니라 — **[§13 헌법상 충돌 해결 절차](#13-constitutional-collision-resolution-process)**를 적용한다.
 
 **적용 순서.** 다음 사항을 **이 순서대로** 적용한다.
@@ -1019,7 +1019,7 @@ flowchart TB
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 편입 층위
 
-**§15.4.1**(*통합적 해석*) 및 **§15.4.2**(*최후의 수단으로서의 내부 위계*)에 따른 헌법적 해석 후, 채택된 이행 문서의 **지정 의무**, 즉 채택을 통해 실제로 발효된 명시된 이행 의무를 적용한다. 이 의무는 **[제17장](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른 **유효한 채택 및 편입 범위** 안에서만 적용한다(기록 보유자, 고정된 판본, 채택의 구성 방식).
+**§15.4.1**(*통합적 해석*) 및 **§15.4.2**(*최후의 수단으로서의 내부 위계*)에 따른 헌법적 해석 후, 채택된 이행 문서의 **지정 의무**, 즉 채택을 통해 실제로 발효된 명시된 이행 의무를 적용한다. 이 의무는 **[제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른 **유효한 채택 및 편입 범위** 안에서만 적용한다(기록 보유자, 고정된 판본, 채택의 구성 방식).
 
 아래 규칙은 [가장 완전한 보호 효과](core_05_band_integrative.md#fullest-protective-effect)를 기준으로 한다. 이는 **[§15.3 모호성 해소](#153-ambiguity-resolution)**의 **모호성** 규칙이 사용하는 것과 같은 기준이다에 따라 편입된 문서 중에서 선택한다. [추상적 엄격성](core_05_band_integrative.md#abstract-strictness)에 따라 선택하는 일은 없다.
 
@@ -1033,7 +1033,7 @@ flowchart TB
   - 이는 [추상적 엄격성](core_05_band_integrative.md#abstract-strictness)을 통한 실질적 헌법 모호성 해소가 **아니다**.
 - **파일 간 가장 완전한 보호 효과:** 채택된 이행 파일 둘 이상이 동일한 의미 있는 범위의 위험에 대해 서로 다른 기준을 설정하면, 위 두 규칙과 일치하는 [가장 완전한 보호 효과](core_05_band_integrative.md#fullest-protective-effect)를 가진 명확히 채택된 규칙이 우선한다.
   - 출처 층위의 지위는 계속 [권한 체계와 내부 위계](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)에 따른다.
-  - 보관, 판본 및 채택 구성은 계속 **[제17장](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른다.
+  - 보관, 판본 및 채택 구성은 계속 **[제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른다.
   - 인용된 프로필과 인용된 이행 라벨이 해당 위험에 대해 충돌하는 것처럼 보이는 경우에도 같은 규칙이 적용된다.
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1053,7 +1053,7 @@ flowchart TB
 - 편입된 공동 구조 문서의 **단일** 운영 클러스터에서 그 일부만 이행하면 준수로 인정되지 않는다는 규칙 — **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**(*운영 클러스터*) 참조; 또는
 - **종속 클러스터** 정의를 함께 충족해야 한다는 제5장 규칙 — **[제5장 §2.1 공동 발동 및 충족](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)** 참조.
 
-**이 하위 절이 적용되는 경우.** 다음 두 경우 중 하나에서 **[제17장](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른 유효한 채택 및 편입 범위 안에 이 규칙이 적용된다.
+**이 하위 절이 적용되는 경우.** 다음 두 경우 중 하나에서 **[제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른 유효한 채택 및 편입 범위 안에 이 규칙이 적용된다.
 
 1. **하나의 상황, 둘 이상의 파일:** 사실관계에 따라 시스템, 기관, 포럼 또는 공동 구조 문서 등 편입된 이행 파일을 둘 이상 적용해야 한다. 어떤 파일이 적용되는지는 채택 범위와 해당 파일이 사실관계에 제공하는 주제 라우팅으로 정하며, 충족하기 가장 쉬운 파일만 선택하는 것으로 정하지 않는다.
 2. **채택으로 공동 구조 묶음이 발효되는 경우:** 채택 문서가 지정된 공동 구조 이행 문서(**CJS** 폴더 및 채택 경로에 열거된 다른 공동 구조 파일)를 채택자에게 적용한다.

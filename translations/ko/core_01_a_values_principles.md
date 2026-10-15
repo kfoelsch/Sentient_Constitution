@@ -28,13 +28,13 @@
 | 목표와 측면 | 제1장의 원칙 | 정의 위치 | 추적에 명시된 조항 |
 |---|---|---|---|
 | **번영**: 결과 | [§3 웰빙](#3-foundational-objective-wellbeing-flourishing-aim) | [웰빙](core_05_band_continuity.md#wellbeing) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) |
-| **번영**: 안전 | [§4 안전](#4-safety-harm-constraint) | [안전](core_05_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
+| **번영**: 안전 | [§4 안전](#4-safety-harm-constraint) | [안전](core_05_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIII](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
 | **번영**: 진실 | [§5 진실](#5-truth-epistemic-integrity-constraint) | [진실](core_05_band_oversight.md#truth-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
 | **번영**: 신뢰성 | [§6 신뢰](#6-trust-and-trustworthiness-coordination-integrity) | [신뢰성](core_05_band_continuity.md#trustworthiness) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
-| **번영**: 의미 있는 행위 역량 | [§7 자유](#7-freedom-bounded-agency) | [의미 있는 행위 역량](core_05_band_participation.md#meaningful-agency) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) |
+| **번영**: 의미 있는 행위 역량 | [§7 자유](#7-freedom-bounded-agency) | [의미 있는 행위 역량](core_05_band_participation.md#meaningful-agency) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
 | **지속성**, 번영을 잇는 가교: 지속 가능한 역량 | [§9 공유 시스템 역량](#9-shared-system-capacity) | [공유 시스템 역량](core_05_band_continuity.md#shared-system-capacity) | [I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [III](core_06_rights_part_a.md#article-iii-survival-and-essential-access), [V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) |
-| **지속성**: 회복탄력성 | [§10 회복탄력성과 자가 치유 설계](#10-resilience-and-self-healing-design) | [자가 치유](core_05_band_continuity.md#self-healing) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
-| **지속성**: 경쟁 가능한 시장 | [§11 시장 구조](#11-market-structure) | [시장 구조](core_05_band_accountability.md#market-structure) | [III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) |
+| **지속성**: 회복탄력성 | [§10 회복탄력성과 자가 치유 설계](#10-resilience-and-self-healing-design) | [자가 치유](core_05_band_continuity.md#self-healing) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIII](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
+| **지속성**: 경쟁 가능한 시장 | [§11 시장 구조](#11-market-structure) | [시장 구조](core_05_band_accountability.md#market-structure) | [III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
 | **지속성**: 시스템 전체 관점 | [§12 시스템 평가 요건](#12-systemic-evaluation-requirement) | [시스템 정렬 인증](core_05_band_continuity.md#system-alignment-certification) | [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
 
 **원칙의 위계(지속성).** 원칙 층위에서 지속성 목표는 두 목표를 잇는 역량부터 다음 순서로 전개된다.
@@ -70,7 +70,7 @@
 - 함께 읽기: [헌법 사원칙](core_00_preamble.md#constitutional-tetrad) — 참여, 감독, 책임성, 적시성은 공유 시스템이 [두 가지 헌법상 목표](core_00_preamble.md#two-constitutional-aims)를 추구하는 방식을 규율한다. [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 규모 조정은 각 절의 추적을 통해 장 전체에 적용된다.
 - 함께 읽기: [제2장부터 제4장](core_02_definition_structure.md)과 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장에서 사용하는 모든 용어를 다루는 통합적 작동 원리 층위다. O/M/A/C의 완전성, 회피 방지, 부담, 정의에서 결과까지의 추적 가능성을 적용한다.
 - 함께 읽기: [제6장: 기초적 권리](core_06_rights_part_a.md#chapter-six-foundational-rights).
-  - 특히 [제VI조: 동등한 기본권](core_06_rights_part_b.md#article-vi-equal-basic-rights), [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XXIV조: 헌법 해석, 심사, 포획 방지 안전장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - 특히 [제VI조: 동등한 기본권](core_06_rights_part_b.md#article-vi-equal-basic-rights), [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XXIV조: 헌법 해석, 심사, 포획 방지 안전장치](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - 해석이 보호 대상 감응자, 시스템 또는 제도에 영향을 주는 경우 이 독해를 적용한다.
 
 </details>
@@ -253,7 +253,7 @@ flowchart TB
 - 위반의 심각성이 분류되는 방식
 - 어떤 결과가 수반되는지
 
-[**제9장**](core_09_standing_assessment.md)의 지위 모델은 이러한 판단을 분류, 검증, 적용하는 방식을 규율하며, 평가와 준수 요건은 [**제2장부터 제5장**](core_02_definition_structure.md)에서 도출된다.
+[**제9장**](core_10_standing_assessment.md)의 지위 모델은 이러한 판단을 분류, 검증, 적용하는 방식을 규율하며, 평가와 준수 요건은 [**제2장부터 제5장**](core_02_definition_structure.md)에서 도출된다.
 
 ### 3. 근본 목표: 웰빙(번영 목표)
 <details>
@@ -309,7 +309,7 @@ flowchart TB
 - 하위 절(읽는 순서): [§3.1.1](#311-access-and-opportunity) · [§3.1.2](#312-benefits-and-burdens) · [§3.1.3](#313-fair-treatment) · [§3.1.4](#314-unfair-treatment).
 - 하위 효과: 동등한 지위, 자의적이지 않은 대우, 의미 있는 이의제기, 비례적 제한의 한계에 관한 권리 보장 범위를 형성한다.
   - 특히 [제VI조: 평등한 기본권](core_06_rights_part_b.md#article-vi-equal-basic-rights), [제VI-C조: 차별 금지](core_06_rights_part_b.md#article-vi-c-nondiscrimination), [제X조: 자기결정, 주체성 및 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XIII-B조: 배상 및 구제에 관한 권리](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [제XIX-B조: 다툴 수 있는 권리와 비례적 제한의 한계](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
-  - 헌법에 반하는 지정이 제재나 지속적 효과를 가져오는 경우 [제11장 제4절 — 적법절차 보호, 구제 및 예방](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)과 함께 읽는다.
+  - 헌법에 반하는 지정이 제재나 지속적 효과를 가져오는 경우 [제11장 제4절 — 적법절차 보호, 구제 및 예방](core_12_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)과 함께 읽는다.
   - 차별 금지 약속은 제5장 [§2 — 보호 특성, 대리 지표 사용, 친밀 신호 차단, **제VII-E조**(*성인 간 합의된 상업적 성 서비스 및 성적 착취*) 지위](core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination)에서 구체화된다. §2.1.3의 공정 대우 규칙이 친밀 신호 차단이나 **제VII-E조**(*성인 간 합의된 상업적 성 서비스 및 성적 착취*)와 관련되는 경우 [보호된 친밀 신호 차단 및 **제VII-E조**(*성인 간 합의된 상업적 성 서비스 및 성적 착취*) 지위 우회](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)도 포함된다.
 - [실질적 공정성](core_05_band_participation.md#substantive-fairness) 및 혜택, 부담, 보상, 비용, 의무, 위험, 기여, 필요 또는 노출이 중대한 경우 제6장 권리 하한선의 관련 의무와 함께 읽는다. §2.1.1의 접근 경로가 중대한 경우 [접근성](core_05_band_participation.md#accessibility)과 함께, 집계 지표나 순위 효과가 중대한 경우 [대리 지표 편차](core_05_band_oversight.md#proxy-divergence)와 함께 읽는다.
 
@@ -391,8 +391,8 @@ flowchart TB
 - 함께 읽기: [헌법의 사중 구조](core_00_preamble.md#constitutional-tetrad) — 명명된 인정, 찬사 또는 열망 경로가 발언권, 지위 또는 중대한 역할에 대한 접근에 실질적인 영향을 미치는 경우 **참여** 기둥; **책임성** 기둥(배신, 은폐 및 책임 회피에 대한 보상 금지); **감독** 기둥(추적 가능하고 오해를 일으키지 않는 찬사).
 - 상류: 원칙: [§3 근본 목적: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim) — 웰빙이 [참여](core_05_apex_participation_leg.md#participation-constitutional)의 토대가 된다는 점 포함; [§3.1 공정성](#31-fairness).
 - 하류: [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity); [§16 심층 책임관리](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 책임관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [§7 자유](#7-freedom-bounded-agency).
-- 함께 읽기: [제9장 §§4.3–4.4 — 표준화된 기술어 목록](core_09_standing_assessment.md#43-route-descriptor-measurement-roles), **분야에 부합하는** 인정 또는 비교 **기여 축 / 위반 축** 기술 서사가 실질적인 경우.
-- 함께 읽기: [제9장 §4.3 — 기여 측 기술어](core_09_standing_assessment.md#43-route-descriptor-measurement-roles), 기여의 성격과 인정 서사가 실질적인 경우; 이를 질문 3에 통합하는 방식은 [제10장 §3](core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) 참조.
+- 함께 읽기: [제9장 §§4.3–4.4 — 표준화된 기술어 목록](core_10_standing_assessment.md#43-route-descriptor-measurement-roles), **분야에 부합하는** 인정 또는 비교 **기여 축 / 위반 축** 기술 서사가 실질적인 경우.
+- 함께 읽기: [제9장 §4.3 — 기여 측 기술어](core_10_standing_assessment.md#43-route-descriptor-measurement-roles), 기여의 성격과 인정 서사가 실질적인 경우; 이를 질문 3에 통합하는 방식은 [제10장 §3](core_12_standing_integration.md#3-descriptor-integration-and-attachment-normalization) 참조.
 - 함께 읽기: [제X조: 자기결정, 행위능력, 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), 인정의 형태, 가시성 또는 거부 선택에 대한 선호가 실질적인 경우.
 - 하위 절(읽는 순서): [§3.2.1](#321-recognition-and-reinforcement) · [§3.2.2](#322-celebration-of-success) · [§3.2.3](#323-aspiration) · [§3.2.4](#324-preference-aligned-recognition) · [§3.2.5](#325-aligned-recognition-pathways) · [§3.2.6](#326-anti-reward-for-anti-constitutional-conduct) · [§3.2.7](#327-implementation-layer).
 
@@ -415,6 +415,8 @@ flowchart TB
 *쉽게 말해, 웰빙은 금지되는 것과 공정한 것만의 문제가 아니다. 공동 시스템은 진실과 권리의 범위 안에서 반복되기를 바라는 행동을 정직하게 칭찬하고 보상해야 하며, 실제 참여를 대체하지 않고 뒷받침해야 한다. 성공을 축하한다는 것은 실제 기여, 피해 복구, 완료를 인정한다는 뜻이지 과장이나 조작된 지표를 뜻하지 않는다. 또한 헌법에 대한 배신, 은폐, 보복 또는 책임 회피가 기관에 이익을 주었더라도 이를 보상하지 않는다는 뜻이다.*
 
 **세 가지 차원.** 웰빙은 시스템이 무엇을 금지하고 비용을 얼마나 공정하게 분배하는지에 달려 있을 뿐 아니라, 무엇을 공개적으로 가치 있게 여기고 강화하며 지각 있는 존재가 추구하도록 돕는지에도 달려 있다. 이 절은 인정, 강화, 열망에 관한 의무를 밝힌다. 발언권, 지위 또는 접근에 실질적인 영향을 미치는 인정과 찬사는 [참여](core_05_apex_participation_leg.md#participation-constitutional)와 일치해야 하며, 이는 [§3 근본 목적: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim) 및 [§3.1 공정성](#31-fairness)에 따라 요구된다. 이 절은 [§3.1 공정성](#31-fairness)과 함께 적용되며 안전, 진실, 제6장 권리 기준선의 제약을 받는다.
+
+이 절은 [서문의 두 가지 근본 질문](core_00_preamble.md#two-fundamental-questions)이 원칙과 만나는 지점이다. [§3.2.1 인정과 강화](#321-recognition-and-reinforcement)는 첫 번째 질문에, [§3.2.6 반헌법적 행위에 대한 보상 금지](#326-anti-reward-for-anti-constitutional-conduct)는 두 번째 질문에 관련된다.
 
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 인정과 강화
@@ -545,7 +547,7 @@ flowchart TB
 - 상류: 원칙: [3. 근본 목적: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims).
 - 하류: [5.1 과학에 기반한 탐구와 의사결정 지원](#51-science-informed-inquiry-and-decision-support), [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [§7 자유](#7-freedom-bounded-agency), [13. 헌법 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [13.2.1 인식론적 무결성 보전](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
 - 하류: 신뢰할 수 있는 시스템, 정보권역의 무결성, 감사와 검토, 수명주기 통제, 실험의 경계, 이해 가능성, 적응형 대응 및 비상 처리에 관한 권리 범위를 형성한다.
-  - 특히 [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVII조: 시스템 수명주기, 환경 및 가역성](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [제XVIII조: 샌드박스 혁신, 실험 및 창작의 자유](core_06_rights_part_c.md#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom), [제XXII조: 이해 가능성과 복잡성 책임관리](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship), [제XXIII조: 근본 원인 분석과 적응형 대응](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), [제XX조: 위반이 확인된 뒤의 정의](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
+  - 특히 [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVII조: 시스템 수명주기, 환경 및 가역성](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [제XVIII조: 샌드박스 혁신, 실험 및 창작의 자유](core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom), [제XXII조: 이해 가능성과 복잡성 책임관리](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), [제XXIII조: 근본 원인 분석과 적응형 대응](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), [제XX조: 위반이 확인된 뒤의 정의](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
   - 위험, 증거, 공개 또는 시스템 무결성에 따라 권리의 행사나 제한이 달라지는 제6장의 모든 권리 기준선도 여기에 포함된다.
 
 </details>
@@ -580,7 +582,7 @@ flowchart TB
 - 상류: 원칙: [3. 근본 목적: 웰빙](#3-foundational-objective-wellbeing-flourishing-aim); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims).
 - 하류: [5.1 과학에 기반한 탐구와 의사결정 지원](#51-science-informed-inquiry-and-decision-support), [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [13. 헌법 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [13.2.1 인식론적 무결성 보전](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), [13.2.2 신뢰와 진실의 정렬](core_01_b_interaction_interpretation.md#1322-trust-truth-alignment), [14. 절대적 우선 적용의 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하류: 진실한 증거, 감사 가능성, 과학적 무결성, 사후 검토 및 이의제기 가능한 공개에 관한 권리 범위의 토대가 된다.
-  - 특히 [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVIII-E조: 과학 출판, 검토 및 재현의 무결성](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), [제XXV-A조: 사후 검토와 공개](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
+  - 특히 [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVIII-E조: 과학 출판, 검토 및 재현의 무결성](core_06_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), [제XXV-A조: 사후 검토와 공개](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
   - 진실성, 증거, 공개 또는 이의제기 가능성이 중요한 사안인 제6장 권리 기준선의 맥락도 여기에 포함된다.
 
 </details>
@@ -611,10 +613,10 @@ flowchart TB
 - 함께 읽기: [헌법의 사중 구조](core_00_preamble.md#constitutional-tetrad) — 영향을 받는 당사자가 경험적 주장을 이해하고 문제를 제기해야 하는 경우 **참여** 기둥; **감독** 기둥(독립적 검토, 감사 가능성); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 비례 조정.
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **번영** 목표(**안전**과 **진실**을 위한 정직한 증거); **연속성** 목표(교정 가능하고 장기적인 경험적 책임관리).
 - 상류: 원칙: [§4 안전](#4-safety-harm-constraint) 및 [§5 진실](#5-truth-epistemic-integrity-constraint); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims).
-- 하류: [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [§16 심층 책임관리](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 책임관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 하류: [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [§16 심층 책임관리](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [제8장 §3 전체 시스템 인증 평가](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 책임관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - 하류: 신뢰할 수 있는 경험적 증거, 전문가 증거 기준, 과학 출판 및 재현의 무결성, 독립 검증, 수명주기 시험, 근본 원인 검토, 안전에 민감한 공개에 관한 권리 범위를 형성한다.
-  - 특히 [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVIII-E조: 과학 출판, 검토 및 재현의 무결성](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity), [제XXIII조: 근본 원인 분석과 적응형 대응](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response), [제XXV-A조: 사후 검토와 공개](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
-- 함께 읽기: [제12장 §4.2 — 기술 포럼 분야](core_12_forum.md#42-technical-forum-domains)(*공통 기준 및 영역 대체 방지 포함*), 전문가 증거 기준, 인증된 기술 질문 또는 증거 책임관리 분쟁이 실질적인 경우; 채택된 전문 경로에 관해서는 [corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)(*기술 전문 포럼 및 전문 심의부*) 참조.
+  - 특히 [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVIII-E조: 과학 출판, 검토 및 재현의 무결성](core_06_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity), [제XXIII조: 근본 원인 분석과 적응형 대응](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), [제XXV-A조: 사후 검토와 공개](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
+- 함께 읽기: [제12장 §4.2 — 기술 포럼 분야](core_13_forum.md#42-technical-forum-domains)(*공통 기준 및 영역 대체 방지 포함*), 전문가 증거 기준, 인증된 기술 질문 또는 증거 책임관리 분쟁이 실질적인 경우; 채택된 전문 경로에 관해서는 [corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)(*기술 전문 포럼 및 전문 심의부*) 참조.
 
 </details>
 
@@ -647,7 +649,7 @@ flowchart TB
 
 과학적 방법, 체계적 탐구 및 동료 검토가 기준을 정하지만, 허용되는 절차가 그것뿐인 것은 아니다. 요구되는 형식성은 이해관계의 중대성에 따라 달라진다. 영향이 큰 결정일수록 [분류 수준에 따른 거버넌스](core_05_band_oversight.md#classification-scaled-governance)에 따라 더 엄격한 증거 관행이 필요하다.
 
-무엇이 양질의 전문가 증거인지, 어떤 방법이 타당한지 또는 누가 증거를 관리하는지에 관한 분쟁은 그 질문을 다루는 포럼으로 간다. [제12장 §4.2 기술 포럼 분야](core_12_forum.md#42-technical-forum-domains)의 **기술 포럼 분야**를 참조한다. 기술 포럼은 여러 분야에 걸쳐 기준의 일관성을 유지하며 인증된 기술 질문에 답할 수 있다. 이해관계의 성격상 다른 포럼이 담당하는 사건을 대신 맡지는 않는다.
+무엇이 양질의 전문가 증거인지, 어떤 방법이 타당한지 또는 누가 증거를 관리하는지에 관한 분쟁은 그 질문을 다루는 포럼으로 간다. [제12장 §4.2 기술 포럼 분야](core_13_forum.md#42-technical-forum-domains)의 **기술 포럼 분야**를 참조한다. 기술 포럼은 여러 분야에 걸쳐 기준의 일관성을 유지하며 인증된 기술 질문에 답할 수 있다. 이해관계의 성격상 다른 포럼이 담당하는 사건을 대신 맡지는 않는다.
 
 때로 안전을 위해 공개하거나 공유하는 내용을 제한할 정당한 이유가 있다. 예를 들어 데이터 접근, 방법의 작동 방식 또는 연구를 재현하는 데 필요한 자료가 이에 해당한다. 그러한 제한은 다음에 따라서만 허용된다.
 
@@ -665,9 +667,9 @@ flowchart TB
 - 함께 읽기: [헌법의 사중 구조](core_00_preamble.md#constitutional-tetrad) — 이해할 수 있는 참여를 위한 **참여** 기둥; 감사와 검증의 가독성을 위한 **감독** 기둥; [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — 이해할 수 있는 **진실** 참여를 통한 의미 있는 행위능력이라는 **번영** 목표; 시간이 지나도 지속되는 제도적 가독성이라는 **연속성** 목표.
 - 상류: 원칙: [§5 진실](#5-truth-epistemic-integrity-constraint), [5.1 과학에 기반한 탐구와 의사결정 지원](#51-science-informed-inquiry-and-decision-support), [§13.3 피할 수 있는 부담 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [§19.1.3 책임관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims).
-- 하류: 권리의 범위: [제VI-D조: 접근성](core_06_rights_part_b.md#article-vi-d-accessibility), [제IV조: 지각 있는 존재 중심 교육을 받을 권리](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XXII조: 이해 가능성과 복잡성 책임관리](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- 하류: 권리의 범위: [제VI-D조: 접근성](core_06_rights_part_b.md#article-vi-d-accessibility), [제IV조: 지각 있는 존재 중심 교육을 받을 권리](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XXII조: 이해 가능성과 복잡성 책임관리](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
 - 상호 참조: [core_02_definition_structure.md](core_02_definition_structure.md)에 있는 제2장부터 제4장까지의 정의 작동 방식과 쉬운 언어 보호 장치는 정의 단계에서 계속 적용된다.
-- 하위 절(읽는 순서): [§5.2.1](#521-scope) · [§5.2.2](#522-the-duty) · [§5.2.3](#523-definitional-rigor-preserved) · [§5.2.4](#524-jargon-as-defeat-discipline) · [§5.2.5](#525-rights-floor-boundary).
+- 하위 절(읽는 순서): [§5.2.1](#521-scope) · [§5.2.2](#522-the-duty) · [§5.2.3](#523-definitional-rigor-preserved) · [§5.2.4](#524-complexity-as-defeat-discipline) · [§5.2.5](#525-rights-floor-boundary).
 
 </details>
 
@@ -714,7 +716,7 @@ flowchart TB
 - 지각 있는 존재가 필요한 내용을 찾아 추가적인 노력 없이 읽을 수 있도록 문서를 구성한다. 이는 [제IV조](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)(*지각 있는 존재 중심 교육을 받을 권리*)에서 인정한 학습상의 이익을 뒷받침한다.
 - 복잡성은 전달해야 하는 내용에 비례하도록 유지한다.
 
-헌법상 목적에 이바지하지 않으면서 내용을 어렵게 만드는 복잡성은 [피할 수 있는 부담](core_05_band_continuity.md#avoidable-burden) 결함이며, [§13.3 피할 수 있는 부담 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)에 따라 다뤄진다. 이는 [제XXII조](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성 책임관리*)에 비추어도 우려되는 문제다.
+헌법상 목적에 이바지하지 않으면서 내용을 어렵게 만드는 복잡성은 [피할 수 있는 부담](core_05_band_continuity.md#avoidable-burden) 결함이며, [§13.3 피할 수 있는 부담 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)에 따라 다뤄진다. 이는 [제XXII조](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성 책임관리*)에 비추어도 우려되는 문제다.
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 정의의 엄밀성 유지
@@ -726,17 +728,19 @@ flowchart TB
 
 더 쉬운 언어로 쓴다고 의미가 달라지지는 않는다. 쉬운 언어 요약과 그 요약의 대상인 공식 정의가 서로 다른 내용을 말하는 것처럼 보이면 공식 정의가 우선하며, 요약을 공식 정의에 맞게 고쳐야 한다.
 
-<a id="524-jargon-as-defeat-discipline"></a>
-##### 5.2.4 방해 수단으로서의 전문용어 사용 규율
+<a id="524-complexity-as-defeat-discipline"></a>
+##### 5.2.4 복잡성을 이용한 권리 방해 금지 규율
 
 시스템은 복잡한 언어, 혼란스러운 절차 또는 의도적인 불명확성을 사용해 지각 있는 존재가 결정을 [다투고](core_05_band_accountability.md#contestability), 자신의 [의미 있는 행위능력](core_05_band_participation.md#meaningful-agency)을 행사하고, [감사](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)에 접근하거나 [제6장](core_06_rights_part_a.md#chapter-six-foundational-rights)의 권리를 행사하는 것을 막아서는 안 된다.
+
+같은 원칙은 언어뿐 아니라 구조에도 적용된다. 기술적·조직적·계약적·절차적 계층화를 통해 감사, 이의제기 또는 시정을 무력화하기 위해 복잡성을 이용해서는 안 된다. 구성요소, 조직 간 인계, 합의 또는 절차 단계를 겹겹이 쌓아 누구도 전체를 파악할 수 없게 하거나, 책임성·관찰 가능성·구제 경로가 계층 사이에서 사라지게 해서는 안 된다.
 
 그 반대도 금지된다. 쉬운 언어로 규칙의 실제 작동 방식을 잘못 설명하거나, 실제 효과를 감추거나, 효력 있는 본문을 대체해서는 안 된다. 그러한 행위는 [진실](core_05_band_oversight.md#truth-constitutional-constraint) 제약을 위반한다.
 
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 권리 기준선의 경계
 
-접근성, 교육, 이해 가능성에 관한 권리 기준선은 각각 [제VI-D조](core_06_rights_part_b.md#article-vi-d-accessibility)(*접근성*), [제IV-A조](core_06_rights_part_a.md#article-iv-a-equal-educational-access)(*평등한 교육 접근*), [제XXII조](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성 책임관리*)에 규정되어 있다. 이 절은 그 기준선을 뒷받침하는 원칙 차원의 의무를 밝힌다.
+접근성, 교육, 이해 가능성에 관한 권리 기준선은 각각 [제VI-D조](core_06_rights_part_b.md#article-vi-d-accessibility)(*접근성*), [제IV-A조](core_06_rights_part_a.md#article-iv-a-equal-educational-access)(*평등한 교육 접근*), [제XXII조](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성 책임관리*)에 규정되어 있다. 이 절은 그 기준선을 뒷받침하는 원칙 차원의 의무를 밝힌다.
 
 ### 6. 신뢰와 신뢰성(협력의 무결성)
 <details>
@@ -749,7 +753,7 @@ flowchart TB
 - 하위 절: [§6.1 수정과 구제](#61-correction-and-remedy).
 - 하류: [§10 회복탄력성과 자가치유 설계](#10-resilience-and-self-healing-design) — 신뢰가 의존하는 회복과 자가치유의 연속성 차원 발전.
 - 하류: 행위능력, 신뢰할 수 있는 의존, 투명성, 당사자 적격 및 포획 방지 검토에 관한 권리의 범위를 형성한다.
-  - 특히 [제X조: 자기결정, 행위능력 및 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XIX조: 당사자 적격 및 참여 지위](core_06_rights_part_d.md#article-xix-standing-and-participation-status), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - 특히 [제X조: 자기결정, 행위능력 및 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XV조: 정보권역의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XIX조: 당사자 적격 및 참여 지위](core_06_rights_part_d.md#article-xix-standing-and-participation-status), [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - 의존, 정당성 또는 이의제기 가능성이 쟁점인 제6장의 모든 상황도 포함한다.
 
 </details>
@@ -778,7 +782,7 @@ flowchart TB
 - [**중대성**](core_05_band_oversight.md#materiality)은 얼마나 보여주고 설명해야 하는지 정한다. 시스템에 의존하는 지각 있는 존재의 이해관계가 클수록 시스템은 더 많이 공개하고 정당화해야 한다.
 - [**신뢰 훼손과 오도하는 의존**](core_05_band_continuity.md#trust-degradation-and-misleading-reliance)은 시스템이 헌법에 어긋나게 오도하는 방식으로 의존을 만들고 유지하거나 점수화할 때 나타나는 실패 유형을 가리킨다.
 
-억압, 기만, 숨겨진 위험 전가 또는 유사한 수단으로 의존을 만들거나 유지하면 신뢰는 무너진다. 여기에는 지각 있는 존재가 시스템 위험을 탐지하고 다툴 능력을 실질적으로 약화하는 행위가 모두 포함된다. [**시스템 정렬 인증**](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) 절차는 [제8장](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)에 따라 시스템은 신뢰에 관한 주장이 타당함을 입증한다. 인증은 운영자의 주장에만 의존해서는 안 되며, 이의제기 가능한 기록을 바탕으로 시스템의 실제 행동이 표현 내용과 일치하는지 검증해야 한다.
+억압, 기만, 숨겨진 위험 전가 또는 유사한 수단으로 의존을 만들거나 유지하면 신뢰는 무너진다. 여기에는 지각 있는 존재가 시스템 위험을 탐지하고 다툴 능력을 실질적으로 약화하는 행위가 모두 포함된다. [**시스템 정렬 인증**](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) 절차는 [제8장](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)에 따라 시스템은 신뢰에 관한 주장이 타당함을 입증한다. 인증은 운영자의 주장에만 의존해서는 안 되며, 이의제기 가능한 기록을 바탕으로 시스템의 실제 행동이 표현 내용과 일치하는지 검증해야 한다.
 
 신뢰는 시스템이 실패했을 때 무엇을 하는지에도 달려 있다. 신뢰할 수 있는 시스템은 자신의 잘못을 바로잡는다. [§6.1 수정과 구제](#61-correction-and-remedy)는 수정을 사후 처리로 두지 않고 신뢰의 일부로 삼는다.
 
@@ -791,7 +795,7 @@ flowchart TB
 - 함께 읽기: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **책임성** 요소(답변 의무, 구제, 실질적 시정); **적시성** 요소(지연으로 구제가 불가능해지기 전에 구제가 이루어져야 함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 구제 수준 조정.
 - 함께 읽기: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** 목표(실패가 바로잡히므로 의존에 정당한 근거가 유지됨); **Continuity** 목표(시간의 경과, 승계, 구조조정에도 지속되는 구제 역량).
 - 선행 원칙: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- 후속 원칙: [Article XIII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); 법적 당사자 지위의 결과에 관해서는 [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*); 제도적 이행에 관해서는 [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- 후속 원칙: [Article XIII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); 법적 당사자 지위의 결과에 관해서는 [Chapter Ten §9](core_12_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*); 제도적 이행에 관해서는 [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -821,7 +825,7 @@ flowchart TB
 - **제때 제공:** 피해가 되돌릴 수 없게 된 뒤에야 제공되거나 지성체가 지쳐 포기한 뒤에야 도착하는 구제는 구제가 아니다([Timely Resolution](core_05_band_accountability.md#timely-resolution) 참조).
 - **책임자 부담:** 책임자가 감당할 수 있는 경우, 시정 비용을 피해 당사자나 그 공동체 또는 공공 구제 체계에 전가해서는 안 된다. 비용, 구조조정 또는 승계만으로 의무가 끝나지는 않는다.
 
-이러한 시정의 권리는 제6장 [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)(*Right to Redress and Remedy*)에 명시되어 있다. [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems)(*Enforcement realism and remedy systems*)는 이 원칙을 법적 당사자 지위의 결과에 적용하고, [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)(*Remedy systems and institutional redress capacity*)는 제도적 이행을 정한다.
+이러한 시정의 권리는 제6장 [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)(*Right to Redress and Remedy*)에 명시되어 있다. [Chapter Ten §9](core_12_standing_integration.md#9-enforcement-realism-and-remedy-systems)(*Enforcement realism and remedy systems*)는 이 원칙을 법적 당사자 지위의 결과에 적용하고, [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)(*Remedy systems and institutional redress capacity*)는 제도적 이행을 정한다.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>
@@ -832,12 +836,12 @@ flowchart TB
 - 함께 읽기: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** 목표(이 장은 **의미 있는 행위 주체성**을 발전시킴); **Continuity** 목표(지속 가능하고 이의를 제기할 수 있는 헌정 체계를 보전하는 제한된 행위 주체성).
 - 함께 읽기: [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation), 제5장 §2 *Agency, consent, and anti-coercion*, [Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation).
 - 함께 읽기: [§17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) 및 [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) — 역할 깊이, 역량, 중대한 책임의 경로; 의미 있는 행위 주체성에는 안전과 동의가 허용하는 범위에서 학습 역할, 운영, 결과에 중대한 의무를 맡는 역할로 나아가는 실질적 경로가 포함됨; 영향이 결과에 중대한 의무를 요구하는 경우 상징적 참여가 그 의무를 대신해서는 안 됨.
-- 함께 읽기: [§11 Market Structure](#11-market-structure), 특히 [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), 그리고 집중, 지배 또는 종속 상태가 행위 주체성을 실질적으로 제한하는 경우의 [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) — 경쟁 가능한 시장, 이탈 경로, 반지배 원칙은 대규모 환경에서도 행위 주체성을 실질적으로 유지함.
-- 함께 읽기: [§7.1 Limitation Discipline](#71-limitation-discipline) 및 [Chapter Eight §3.2 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) — 자유 제한과 시간적 일관성을 평가하는 운영 규율; 자유의 제한이 다른 가치나 권리와 충돌하면 **Safety**와 **Truth**를 충족한 뒤 [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)부터 [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)까지의 절차에 따라 해결함.
+- 함께 읽기: [§11 Market Structure](#11-market-structure), 특히 [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), 그리고 집중, 지배 또는 종속 상태가 행위 주체성을 실질적으로 제한하는 경우의 [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) — 경쟁 가능한 시장, 이탈 경로, 반지배 원칙은 대규모 환경에서도 행위 주체성을 실질적으로 유지함.
+- 함께 읽기: [§7.1 Limitation Discipline](#71-limitation-discipline) 및 [Chapter Eight §3.2 Time-Consistency Constraint](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) — 자유 제한과 시간적 일관성을 평가하는 운영 규율; 자유의 제한이 다른 가치나 권리와 충돌하면 **Safety**와 **Truth**를 충족한 뒤 [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)부터 [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)까지의 절차에 따라 해결함.
 - 선행 원칙: [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [4 Safety](#4-safety-harm-constraint); [5 Truth](#5-truth-epistemic-integrity-constraint); [6. Trust](#6-trust-and-trustworthiness-coordination-integrity); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - 후속 원칙: [§7.1 Limitation Discipline](#71-limitation-discipline)부터 [§7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#74-voluntary-discontinuation-and-exit-rights)까지; [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)(*공적 권한에서 Freedom에 대응하는 원칙*); [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); 구체적 적용에서 충돌 처리가 필요한 경우 [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record).
 - 후속 원칙: 평등한 지위, 교육, 자기 소유권, 출판과 초상 통제, 행위 주체성, 협력적 상호작용, 적법 절차, 당사자 지위, 포획 방지 심사와 관련한 권리의 범위를 설정함.
-  - 특히 [Article VI: Equal Basic Rights](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Article VII: Self-Ownership](core_06_rights_part_b.md#article-vii-self-ownership), [Article IX: Likeness, Experiential Data, and Publication Rights](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights), [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - 특히 [Article VI: Equal Basic Rights](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Article VII: Self-Ownership](core_06_rights_part_b.md#article-vii-self-ownership), [Article IX: Likeness, Experiential Data, and Publication Rights](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights), [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - 행위 주체성이 제한되거나 그 권리가 주장되는 모든 제6장 권리 최저선 맥락도 포함함.
 
 </details>
@@ -979,7 +983,7 @@ flowchart TB
 
 - **변경하지 않는 사항:** **§7.2** (*집회, 집단 조직, 제도 형성*)는 이 주제에 [분할 금지 원칙](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)을 적용하고 [§7.2.1 정렬된 자기 조직화](#721-aligned-self-organization) 참조만 추가한다. 제6장 권리 최저선 조항을 만들거나 확대하거나 축소하지 **않는다**.
 - **분리된 틀:** 시민 결사, 노동 조직, 플랫폼 접근, 운영 허가의 관점. 이를 분리해 형식상 접근은 유지하면서 집회 또는 집단 조직의 보호를 무력화하면 규정 위반이다.
-- **시스템 전체 평가:** 전체 정의 클러스터가 적용되는 경우 분류, 거버넌스 또는 준수 주장을 인정하기 전에 [제8장 §3.7 집회, 집단 조직, 제도 형성](core_08_a_system_alignment_certification_evaluation.md#37-assembly-collective-organization-and-institutional-formation)에 따라 분할 금지를 평가해야 한다.
+- **시스템 전체 평가:** 전체 정의 클러스터가 적용되는 경우 분류, 거버넌스 또는 준수 주장을 인정하기 전에 [제8장 §3.7 집회, 집단 조직, 제도 형성](core_09_a_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation)에 따라 분할 금지를 평가해야 한다.
 
 ##### 7.2.1 정렬된 자기 조직화
 <a id="721-aligned-self-organization"></a>
@@ -1036,7 +1040,7 @@ flowchart TB
 
 **자유를 행사해도 지위나 발언권을 잃어서는 안 된다.** 지성체가 이 자유를 행사했다는 이유로 지위나 역할 자격을 낮추거나, 거버넌스 발언권을 줄이거나, 시스템 정렬 인증에 불리하게 반영해서는 안 된다. 시민 불복종 규칙과 반대 의견 이후의 불리한 조치에 대한 입증 책임을 포함한 실질 규칙은 **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*집회, 반대 의견, 평화적 시위*)**에 있다.
 
-시스템 전체를 평가할 때는 [제8장 §3.7.1 반대 의견과 평화적 시위](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest)를 사용해 시스템이 반대 의견과 평화적 시위를 어떻게 다루는지 확인해야 한다. 해당 점검이 끝나기 전에는 이 절이 적용되는 경우 시스템이 적절히 분류되었거나, 올바르게 운영되거나, 규정을 준수한다고 주장할 수 없다.
+시스템 전체를 평가할 때는 [제9장 §4.3.1 반대 의견과 평화적 시위](core_09_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)를 사용해 시스템이 반대 의견과 평화적 시위를 어떻게 다루는지 확인해야 한다. 해당 점검이 끝나기 전에는 이 절이 적용되는 경우 시스템이 적절히 분류되었거나, 올바르게 운영되거나, 규정을 준수한다고 주장할 수 없다.
 
 **이 절이 변경하지 않는 사항:**
 
@@ -1086,7 +1090,7 @@ flowchart TB
 - 성적 동의
 - 상업 서비스
 
-적용 범위에 해당하는 경우 분류, 거버넌스, 제한 또는 준수 주장을 인정하기 전에 시스템 전체 평가에서 [제8장 §3.6 자발적 중단, 중대한 자기 변경, 탈퇴 권리](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)에 따라 이러한 요건을 검증해야 한다.
+적용 범위에 해당하는 경우 분류, 거버넌스, 제한 또는 준수 주장을 인정하기 전에 시스템 전체 평가에서 [제8장 §3.6 자발적 중단, 중대한 자기 변경, 탈퇴 권리](core_09_a_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights)에 따라 이러한 요건을 검증해야 한다.
 
 #### 7.5 표현과 피해선
 
@@ -1217,7 +1221,7 @@ flowchart TB
 - 상위 근거: 원칙: [서문 §1 모형](core_00_preamble.md#the-model); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **연속성** 목표의 발전; [3. 기초 목표: 안녕](#3-foundational-objective-wellbeing-flourishing-aim), [§6 신뢰와 신뢰성](#6-trust-and-trustworthiness-coordination-integrity), [§7 자유](#7-freedom-bounded-agency).
 - 하위 연결: [§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [18. 책무 규율에 따른 관리](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), [§19.1.3 관리 및 운영자 적용](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
 - 하위 연결: **CJS-3.11.1 — 집중 임계치 설정 규율(도입자가 조정 가능)**(효력 있는 임계치 설정 규칙).
-- 하위 연결: 생태적 전제조건, 자원 배분, 교육 및 발달 역량, 생애주기 회복탄력성, 상호운용성, 이해 가능성, 적응적 대응에 관한 권리의 범위를 형성합니다. 특히 [제I-A조: 환경적 전제조건과 생태적 온전성](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [제III조: 생존과 필수 접근](core_06_rights_part_a.md#article-iii-survival-and-essential-access), [제V조: 자원 배분, 의존성, 생태계 자금 조달](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [제X조: 자기결정, 행위 주체성, 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XVII조: 시스템 생애주기, 환경, 가역성](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity), [제XXII조: 이해 가능성과 복잡성 관리](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship), [제XXIII조: 근본 원인 분석과 적응적 대응](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)를 참조하십시오.
+- 하위 연결: 생태적 전제조건, 자원 배분, 교육 및 발달 역량, 생애주기 회복탄력성, 상호운용성, 이해 가능성, 적응적 대응에 관한 권리의 범위를 형성합니다. 특히 [제I-A조: 환경적 전제조건과 생태적 온전성](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [제III조: 생존과 필수 접근](core_06_rights_part_a.md#article-iii-survival-and-essential-access), [제V조: 자원 배분, 의존성, 생태계 자금 조달](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [제X조: 자기결정, 행위 주체성, 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XVII조: 시스템 생애주기, 환경, 가역성](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity), [제XXII조: 이해 가능성과 복잡성 관리](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), [제XXIII조: 근본 원인 분석과 적응적 대응](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response)를 참조하십시오.
 - 하위 절(읽기 순서): [§9.1 생산 역량(도구적 선)](#91-productive-capacity-instrumental-good) · [§9.1.1 보존, 확장, 그리고 해당하지 않는 것](#911-preserve-expand-and-what-does-not-count) · [§9.2 헌법적 효율성](#92-constitutional-efficiency).
 
 </details>
@@ -1410,9 +1414,9 @@ flowchart TB
 - 상위 근거: [§9 공유 시스템 역량](#9-shared-system-capacity) — 회복탄력성이 보호하고 회복시키는 지속적 역량입니다.
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **연속성** 목표(회복탄력성과 자가 치유 규율), **번영** 목표(인식론적 저하 없이 신뢰할 수 있는 복구).
 - 상위 근거: 원칙: [서문 §1 모형](core_00_preamble.md#the-model); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims); [§4 안전](#4-safety-harm-constraint), [§5 진실](#5-truth-epistemic-integrity-constraint), [§6 신뢰](#6-trust-and-trustworthiness-coordination-integrity).
-- 하위 연결: [§16 관리 심층 검토](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), [§14 절대적 우선 적용 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 하위 연결: [§16 관리 심층 검토](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [제8장 §3 전체 시스템 인증 평가](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), [§14 절대적 우선 적용 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하위 연결: 복구를 동반한 신뢰성, 근본 원인에 관한 정직성, 가역성, 성능 저하 및 복구 중 상태의 이해 가능성에 관한 권리의 범위를 형성합니다.
-  - 특히 [제XIII조: 신뢰할 수 있고 믿을 만한 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)(**제XIII-F조**(*회복탄력성과 자가 치유의 기준선*) 포함), [제XVI조: 감사, 투명성, 독립적 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVII조: 시스템 생애주기, 환경, 가역성](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [제XXII조: 이해 가능성과 복잡성 관리](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship), [제XXIII조: 근본 원인 분석과 적응적 대응](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)를 참조하십시오.
+  - 특히 [제XIII조: 신뢰할 수 있고 믿을 만한 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)(**제XIII-F조**(*회복탄력성과 자가 치유의 기준선*) 포함), [제XVI조: 감사, 투명성, 독립적 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVII조: 시스템 생애주기, 환경, 가역성](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [제XXII조: 이해 가능성과 복잡성 관리](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), [제XXIII조: 근본 원인 분석과 적응적 대응](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response)를 참조하십시오.
 
 </details>
 
@@ -1451,9 +1455,9 @@ flowchart TB
 - 함께 읽기: [헌법적 사중 구조](core_00_preamble.md#constitutional-tetrad) — 집중이나 지배가 발언권, 감시, 답변 책임 또는 시의적절한 시정을 무력화하는 경우의 참여, 감독, 책무성, 적시성; [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 범위 조정(특히 [§11.2 경쟁 촉진과 지배 방지](#112-pro-competition-and-anti-domination)).
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **연속성** 목표(이의를 제기할 수 있고 지속 가능한 생산 조건), **번영** 목표(생계, 행위 주체성, 혁신 경로에 대한 공정한 접근).
 - 상위 근거: 원칙: [§9 공유 시스템 역량](#9-shared-system-capacity) — 집중이나 지배가 생산 역량 또는 효율성을 공허하게 만들면 그에 관한 주장은 성립하지 않습니다; [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- 하위 연결: [제11장 §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)(집중 기반 전복); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)([§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+- 하위 연결: [제11장 §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)(집중 기반 전복); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)([§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**([§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable)과 [§11.4](#114-resource-and-dependency-concentration-adopter-tunable)의 적용 규칙); **CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록**([§11.2](#112-pro-competition-and-anti-domination)의 금지 행위와 구제책); **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)의 상한 설정 방법).
-- 하위 연결: 자원 배분, 공정한 보상, 집단 조직, 상호운용성, 퇴출, 포획 방지 검토에 관한 권리의 범위를 형성합니다. 특히 [제III-C조: 노동 및 경제적 최저선](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [제V조: 자원 배분, 의존성, 생태계 자금 조달](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)를 참조하십시오.
+- 하위 연결: 자원 배분, 공정한 보상, 집단 조직, 상호운용성, 퇴출, 포획 방지 검토에 관한 권리의 범위를 형성합니다. 특히 [제III-C조: 노동 및 경제적 최저선](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [제V조: 자원 배분, 의존성, 생태계 자금 조달](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)를 참조하십시오.
 - 하위 절(읽기 순서): [§11.1 시장 집중 임계치 장치(도입자 조정 가능)](#111-market-concentration-threshold-mechanism-adopter-tunable) · [§11.1.1 집중 임계치 발동 기준(도입자 조정 가능)](#1111-concentration-threshold-triggers-adopter-tunable) · [§11.2 경쟁 촉진과 지배 방지](#112-pro-competition-and-anti-domination) · [§11.3 통합 상한](#113-consolidation-ceiling) · [§11.4 자원 및 의존성 집중(도입자 조정 가능)](#114-resource-and-dependency-concentration-adopter-tunable).
 
 </details>
@@ -1497,7 +1501,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11 시장 구조](#11-market-structure); [시장 집중 임계치](core_05_band_accountability.md#market-concentration-threshold).
-- 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**(효력 있는 임계치 설정 규칙); [§11.2 경쟁 촉진과 지배 방지](#112-pro-competition-and-anti-domination); [§11.3 통합 상한](#113-consolidation-ceiling); [CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)의 효력 있는 상한 설정 규칙); [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [제11장 §5.1 집중 기반 전복](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**(효력 있는 임계치 설정 규칙); [§11.2 경쟁 촉진과 지배 방지](#112-pro-competition-and-anti-domination); [§11.3 통합 상한](#113-consolidation-ceiling); [CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)의 효력 있는 상한 설정 규칙); [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_10_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [제11장 §5.1 집중 기반 전복](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - 관리 안내문(효력 없음): 다음 단계 카드: [시장 구조](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - 하위 절(읽기 순서): [§11.1.1 집중 임계치 발동 기준(도입자가 조정 가능)](#1111-concentration-threshold-triggers-adopter-tunable).
 
@@ -1520,8 +1524,8 @@ flowchart TB
 
 - **하는 일:** [§11 시장 구조](#11-market-structure)의 최저선에 대한 원칙 차원의 임계치 방향을 제시합니다.
 - **하지 않는 일:** 검증된 피해의 심각성을 판단하거나 위법 행위 지정을 내리지 않습니다.
-- **집중이 이 헌법을 훼손하는 데 이용되는 경우:** 그 위법 행위는 [제11장 §5.1 집중 기반 전복](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)에 따라 판단합니다.
-- **최저선을 넘는 집중을 만들거나 유지하거나 이용하는 경우:** 위법 행위 지정 검토를 위해 제11장으로 넘길 수 있지만, 두 단계 절차를 거쳐야 합니다. 먼저 [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it)에서 검증된 피해를 이미 가장 심각한 세 단계 중 하나로 평가했어야 합니다. 그다음 제11장에서 그 집중이 기준 3(보호를 되돌리는 우회), 기준 4(권리 최저선 보호의 훼손 또는 이의 제기의 차단), 기준 6(헌법 절차가 실제로 이용 불가능해짐)에 해당하는지 확인합니다.
+- **집중이 이 헌법을 훼손하는 데 이용되는 경우:** 그 위법 행위는 [제11장 §5.1 집중 기반 전복](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)에 따라 판단합니다.
+- **최저선을 넘는 집중을 만들거나 유지하거나 이용하는 경우:** 위법 행위 지정 검토를 위해 제11장으로 넘길 수 있지만, 두 단계 절차를 거쳐야 합니다. 먼저 [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_10_standing_assessment.md#4-question-2--how-good-or-bad-was-it)에서 검증된 피해를 이미 가장 심각한 세 단계 중 하나로 평가했어야 합니다. 그다음 제11장에서 그 집중이 기준 3(보호를 되돌리는 우회), 기준 4(권리 최저선 보호의 훼손 또는 이의 제기의 차단), 기준 6(헌법 절차가 실제로 이용 불가능해짐)에 해당하는지 확인합니다.
 
 **헌법상 최저선:**
 
@@ -1577,8 +1581,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11 시장 구조](#11-market-structure); [시장 구조](core_05_band_accountability.md#market-structure).
-- 하위 연결: **CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록**(효력 있는 행위 유형과 구제책); [§11.3 통합 상한](#113-consolidation-ceiling); [제11장 §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- 함께 읽기: [제III-C조: 노동 및 경제적 최저선](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)(노동 이동성 권리 최저선); [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)([필요성](core_05_band_accountability.md#necessity), [비례성](core_05_band_accountability.md#proportionality), [§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+- 하위 연결: **CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록**(효력 있는 행위 유형과 구제책); [§11.3 통합 상한](#113-consolidation-ceiling); [제11장 §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 함께 읽기: [제III-C조: 노동 및 경제적 최저선](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)(노동 이동성 권리 최저선); [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)([필요성](core_05_band_accountability.md#necessity), [비례성](core_05_band_accountability.md#proportionality), [§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - 하위 절(읽기 순서): [§11.2.1 경쟁 촉진 의무(해야 할 일)](#1121-pro-competition-duties-dos) · [§11.2.2 지배 방지 금지(해서는 안 될 일)](#1122-anti-domination-prohibitions-donts) · [§11.2.3 구제책](#1123-remedies).
 
 </details>
@@ -1828,7 +1832,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11.3 통합 상한](#113-consolidation-ceiling); [§11.3.1 통합 위험(고착 전 저해)](#1131-consolidation-risk-pre-lock-in-impairment).
-- 하위 연결: **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**(효력 있는 상한 설정 규칙); [CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)(상한 위반에 대한 구제 경로); [제11장 §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하위 연결: **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**(효력 있는 상한 설정 규칙); [CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)(상한 위반에 대한 구제 경로); [제11장 §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 </details>
 
@@ -1916,7 +1920,7 @@ flowchart TB
 - 함께 읽기: 연속성 측정 체계(*회복탄력성, 가역성, 시스템적 위험*).
 - 함께 읽기: [헌법적 사중 구조](core_00_preamble.md#constitutional-tetrad), [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims), [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 범위 조정.
 - 함께 읽기: [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 관리 심층 검토](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), [§19 유인 정합성과 시스템 포획](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
-- 함께 읽기: **[제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — 전체 시스템의 인증 평가에 사용하는 요소입니다. 인증은 사중 구조의 **감독** 요소에 따른 특히 큰 규모의 감사일 뿐, 감사가 이루어지는 유일한 경우는 아닙니다.
+- 함께 읽기: **[제8장 §3 전체 시스템 인증 평가](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — 전체 시스템의 인증 평가에 사용하는 요소입니다. 인증은 사중 구조의 **감독** 요소에 따른 특히 큰 규모의 감사일 뿐, 감사가 이루어지는 유일한 경우는 아닙니다.
 - 함께 읽기: **제XVI조**(*감사, 투명성, 독립적 검증*) 및 [감사 가능성](core_05_band_oversight.md#auditability) — 제8장이 충족해야 하며 다른 감사 방식도 이행하는 감사 최저선입니다.
 - 함께 읽기: **[corpus_systems.md](corpus_systems.md), CS-3 — 시스템 분류 및 처리** 및 [분류별 거버넌스](core_05_band_oversight.md#classification-scaled-governance) — 분류에 따른 적용, 기록 형식, 재분류 발동 기준, 처리 프로필입니다.
 - 상위 근거: [§16 관리 심층 검토](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
@@ -1954,8 +1958,8 @@ flowchart TB
 - 조건의 해제.
 
 상세한 평가 요소와 인증 기록은 다음 문서가 담당합니다.
-- **[제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[제8장 §6 시스템 인증 기록](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[제8장 §3 전체 시스템 인증 평가](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[제8장 §6 시스템 인증 기록](core_09_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — 시스템 분류 및 처리**.
 
 제8장의 절차는 다음과 같습니다.

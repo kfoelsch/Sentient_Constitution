@@ -74,48 +74,6 @@ Bu bacak altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### Hesap Verebilirliğin Ölçülmesi
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*Sade dille: Bu sorular, ödüllerin, piyasaların ve hesap sorabilme imkânının hesap verebilirliği yalnızca kâğıt üzerinde değil, uygulamada da gerçek tutup tutmadığını inceler.*
-
-*Burası Beşinci Bölümdeki Hesap Verebilirlik ölçüm ailesinin yeridir. Önsöz §2 (Ölçümlere Genel Bakış), kategoriye ilişkin sade soruyu genel bakış tablosunda tutar; aile tablosu, anayasal kullanım ve tanım yönlendirmesi burada bulunur.*
-
-*Önemlilik ([Materiality](core_05_band_oversight.md#materiality)) bütünleştiricidir; ayrı bir ölçüm kategorisi değildir. [material stake](core_00_preamble.md#material-stake) uyarınca bu ailenin ne ölçüde uygulanacağını belirler.*
-
-| Ölçüm ailesi | Sade soru | Başlıca anayasal kullanım |
-|---|---|---|
-| Teşvik uyumu ve vekil göstergelerin bütünlüğü | Ödüller ve ölçütler gerçek anayasal sonuçları izliyor mu? | Ters teşvikleri, ele geçirmeyi ve [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) durumunu saptar; [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) için ölçüm biçimini sağlar. |
-| Piyasa yapısı ve rekabet edilebilirlik | Giriş, çıkış, pazarlık ve alternatifler gerçekten mümkün kalabilir mi? | Kapasite iddialarının açık piyasalara bağlı olduğu yerlerde yoğunlaşma ve tahakküme karşı kuralları uygular. |
-
-Bu ölçüler; ödül yapılarının, piyasa gücünün ve hesap sorabilmenin [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) içindeki **hesap verebilirlik** ayağını kâğıt üzerinde değil, uygulamada gerçek tutup tutmadığını sorgular.
-
-Uygulamadaki ölçüm katmanları Beşinci Bölümün tanım bölümlerinde yer alır:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**Önceki dosya:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**Sonraki dosya:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### Hesap verebilirliği ölçmek

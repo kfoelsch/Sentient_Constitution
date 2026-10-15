@@ -66,7 +66,7 @@
 
 **مواد لا تتناول أي ضلع مباشرةً.** يحكم [§15.1.1 مبدأ منع التجزئة](#1511-anti-segmentation-principle) و[§15.4.1](#1541-integrated-reading) إلى [§15.4.3](#1543-incorporation-layer) كيفية قراءة النص وأي طبقة مصدر هي الحاكمة. ولا تحمل أدوات التتبّع فيها أي إشارة إلى أضلاع الرباعي، وذلك عن قصد.
 
-**معنيان للزمن.** يرد الزمن في الجزء ب بمعنيين. فالآفاق الزمنية الطويلة (الضرر المتأخر والتراكمي، و[قيد الاتساق الزمني §3.2 من الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) المطبّق في [§13.1.2](#1312-harm-minimization)) تتبع غاية **الاستمرارية**. أما الساعات وفترات المراجعة والتأخير (الحدود الزمنية للقيود، والإفصاح في نهاية المطاف، والتأخير الممكن تجنبه) فتتبع ضلع **الالتزام بالمواعيد**.
+**معنيان للزمن.** يرد الزمن في الجزء ب بمعنيين. فالآفاق الزمنية الطويلة (الضرر المتأخر والتراكمي، و[قيد الاتساق الزمني §3.2 من الفصل التاسع](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) المطبّق في [§13.1.2](#1312-harm-minimization)) تتبع غاية **الاستمرارية**. أما الساعات وفترات المراجعة والتأخير (الحدود الزمنية للقيود، والإفصاح في نهاية المطاف، والتأخير الممكن تجنبه) فتتبع ضلع **الالتزام بالمواعيد**.
 
 **محوران لا تعارض.** تبيّن غايات الجزء أ ما تسعى إليه الأنظمة المشتركة. ويبيّن الجزء ب ما لا يجوز لأي مفاضلة أو تجاوز أو قراءة أن تنتزعه في الطريق.
 
@@ -83,7 +83,7 @@
 - المنبع: المبادئ: [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [7. الحرية (القدرة على التصرف ضمن حدود)](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§16 التعمق في الإشراف](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
 - المصب: [13.2.1 صون النزاهة المعرفية](#1321-preservation-of-epistemic-integrity)، [سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record)، [الوضع المؤقت الافتراضي](#default-interim-posture)، و[14. حظر التجاوز المطلق](#14-prohibition-on-absolute-override).
 - يحكم التعارضات العابرة للمواد في [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#chapter-six-foundational-rights).
-  - يُقرأ هذا مع [المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) و[المادة XX: العدالة بعد التحقق من وقوع الانتهاك](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
+  - يُقرأ هذا مع [المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) و[المادة XX: العدالة بعد التحقق من وقوع الانتهاك](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
   - يُطبّق عند نشوء مسائل المراجعة أو الطوارئ أو التعارض الدستوري.
 
 </details>
@@ -101,7 +101,7 @@
 
 <br>
 
-*بعبارة واضحة: ستقع التعارضات الدستورية — وتأتي **السلامة** و**الحقيقة** أولاً. وبعد ذلك، يجب أن تكون القيود متناسبة وضرورية ومقلِّلة للضرر وخفيفة قدر الإمكان. لا يجوز إخفاء الحقيقة طلباً للراحة؛ ولا يجوز تجريد أحد من الخصوصية طلباً للسهولة؛ وتُطبّق قيود الحرية بموجب [§7.1 انضباط التقييد](core_01_a_values_principles.md#71-limitation-discipline)؛ وتتطلب التعارضات الدستورية المتعلقة بالحقوق اختبار قرار موثقاً؛ والمقاييس التي تقدم صورة زائفة عن الامتثال لا يُعتد بها. ولا يمكن للتحسين قصير الأفق اجتياز التقييم بموجب [قيد الاتساق الزمني §3.2 من الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). وتحمل **§13.1** (*مبادئ المفاضلة الأساسية*) حتى **§13.3** (*تقليل العبء الممكن تجنبه*) قواعد المفاضلة وقيود الإفصاح والخصوصية وإجراءات التعارض الدستوري.*
+*بعبارة واضحة: ستقع التعارضات الدستورية — وتأتي **السلامة** و**الحقيقة** أولاً. وبعد ذلك، يجب أن تكون القيود متناسبة وضرورية ومقلِّلة للضرر وخفيفة قدر الإمكان. لا يجوز إخفاء الحقيقة طلباً للراحة؛ ولا يجوز تجريد أحد من الخصوصية طلباً للسهولة؛ وتُطبّق قيود الحرية بموجب [§7.1 انضباط التقييد](core_01_a_values_principles.md#71-limitation-discipline)؛ وتتطلب التعارضات الدستورية المتعلقة بالحقوق اختبار قرار موثقاً؛ والمقاييس التي تقدم صورة زائفة عن الامتثال لا يُعتد بها. ولا يمكن للتحسين قصير الأفق اجتياز التقييم بموجب [قيد الاتساق الزمني §3.2 من الفصل التاسع](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). وتحمل **§13.1** (*مبادئ المفاضلة الأساسية*) حتى **§13.3** (*تقليل العبء الممكن تجنبه*) قواعد المفاضلة وقيود الإفصاح والخصوصية وإجراءات التعارض الدستوري.*
 
 يحافظ الجزء ب على سلامة الرباعي في ثلاث حالات:
 - **[التعارضات الدستورية](core_05_band_integrative.md#constitutional-collision) (هذا القسم):** يحلها من دون إضعاف أي ضلع.
@@ -298,7 +298,7 @@ flowchart TB
 - الاقتصار على تحسين الضرر المحلي أو الفوري مع إحداث ضرر نظامي أو إجمالي أو إيكولوجي أكبر؛
 - تحميل النظم الإيكولوجية أو الكائنات الواعية غير المحددة أو الأطراف الأخرى غير المحتسبة الضررَ، بغية إظهار تقليل الضرر على الأطراف المحددة.
 
-**الانضباط في الأفق الزمني.** إن التحسين قصير الأجل على حساب النظام على المدى الطويل لا يجتاز هذا الاختبار. ويجب أن يأخذ تقليل الضرر في الحسبان [قيد الاتساق الزمني في الفصل الثامن §3.2](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): فالقرار الذي يبدو أنه يقلل الضرر في الفترة الحالية لكنه يتسبب على نحو متوقع في ضرر أكبر عبر الأفق الزمني الدستوري ذي الصلة يُعد غير ممتثل.
+**الانضباط في الأفق الزمني.** إن التحسين قصير الأجل على حساب النظام على المدى الطويل لا يجتاز هذا الاختبار. ويجب أن يأخذ تقليل الضرر في الحسبان [قيد الاتساق الزمني في الفصل التاسع §3.2](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): فالقرار الذي يبدو أنه يقلل الضرر في الفترة الحالية لكنه يتسبب على نحو متوقع في ضرر أكبر عبر الأفق الزمني الدستوري ذي الصلة يُعد غير ممتثل.
 
 **العلاقة بالحدود الدستورية.** يعمل تقليل الضرر *فوق* الحدود الدستورية الواردة في [§13.1.4 الحدود الدستورية والسلامة والإجراءات المناهضة للإذلال](#1314-constitutional-floors-safety-and-anti-degrading-process). ولا يجيز أبدًا:
 - الإلغاء الدائم للحد الأدنى من الحقوق؛
@@ -395,7 +395,7 @@ flowchart TB
 يحمي هذا المبدأ الأرضية الحقوقية على النحو الآتي:
 
 - لا يجوز لأي إجراء دستوري أو تدبير أو انتقال أو تعديل أو أثر مترتب على المكانة أو إجراء طارئ أو نتيجة متصلة بالعدالة أن يلغي نهائيًا أو يتنازل عن **الحدود الدنيا للأرضية الحقوقية** من ضمانات الكرامة الأساسية بموجب [المادة VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*الكرامة والمكانة الأخلاقية المتساوية*) و[مبدأ الإجراءات المنافية للكرامة](#anti-degrading-process-principle)، أو الحد الأدنى من النفاذ إلى مقومات العيش، أو الحقوق الجوهرية في الاعتراض والمراجعة والاستئناف.
-- لا يُسمح بالتقييد المؤقت لحقوق محددة إلا إذا استوفى [مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) وقواعد الطوارئ الواردة في [الفصل الثاني عشر §6.1](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*تدابير الطوارئ وعبء استمرارها*) — أي يجب تبرير أي تقييد، وأن يكون في حده الأدنى، وموثقًا، ومحدود المدة، وخاضعًا لمراجعة مستقلة. ويجوز لمواد بعينها أن تضيف ضمانات أقوى، لكنها لا يجوز أن تضيق هذا المبدأ أو أن تستخدم أوصاف الملاءمة أو الكفاءة أو التصنيف أو الطوارئ أو الانتقال أو المكانة أو التعديل أو العقد أو التنفيذ للتحايل عليه.
+- لا يُسمح بالتقييد المؤقت لحقوق محددة إلا إذا استوفى [مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) وقواعد الطوارئ الواردة في [الفصل الثالث عشر §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*تدابير الطوارئ وعبء استمرارها*) — أي يجب تبرير أي تقييد، وأن يكون في حده الأدنى، وموثقًا، ومحدود المدة، وخاضعًا لمراجعة مستقلة. ويجوز لمواد بعينها أن تضيف ضمانات أقوى، لكنها لا يجوز أن تضيق هذا المبدأ أو أن تستخدم أوصاف الملاءمة أو الكفاءة أو التصنيف أو الطوارئ أو الانتقال أو المكانة أو التعديل أو العقد أو التنفيذ للتحايل عليه.
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -412,7 +412,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — الأضلاع الأربعة جميعًا: ضلع **الرقابة** (تظل القيود خاضعة لمراجعة مستقلة؛ وتُحفظ الأدلة ويظل للمراجعين المستقلين حق الوصول أثناء نظر التصادم الدستوري)؛ وضلع **المساءلة** (يسجل سجل التصادم الدستوري الموثق والقابل للتدقيق القاعدة والبدائل والأدلة وأساس الاختيار)؛ وضلع **المشاركة** (يستطيع الأطراف المتأثرون فهم القرار والطعن فيه وإعادة بناء مساره، ويُبلّغون بما جُمّد)؛ وضلع **التوقيت** (تكون القيود مؤقتة ما لم تنص قاعدة أقوى للأرضية الحقوقية على خلاف ذلك، وتحدد لها مدة أو دورية مراجعة ومسار للاستعادة، ويخضع التصادم الدستوري المعلق للمهلة المنطبقة)؛ وتُراعى معايرة [المصلحة المادية](core_00_preamble.md#material-stake) (يرتفع عبء الإثبات مع شدة الأثر وعدم قابليته للعكس وتركّز الاعتماد وعدم اليقين).
-- ما يلي: [المادة XXV-B: إجراءات تصادم الحقوق والمواءمة التصالحية](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (تطبق الهيئات هذا الاختبار لاتخاذ القرار)؛ و[المادة XXV-C: التسوية في الوقت المناسب والحد الأدنى لمكافحة التأخير](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)؛ و[الفصل الثاني عشر §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*التسوية في الوقت المناسب، ودرجات الأهمية المادية، والانضباط المناهض للتأخير*).
+- ما يلي: [المادة XXV-B: إجراءات تصادم الحقوق والمواءمة التصالحية](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (تطبق الهيئات هذا الاختبار لاتخاذ القرار)؛ و[المادة XXV-C: التسوية في الوقت المناسب والحد الأدنى لمكافحة التأخير](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)؛ و[الفصل الثالث عشر §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*التسوية في الوقت المناسب، ودرجات الأهمية المادية، والانضباط المناهض للتأخير*).
 
 </details>
 
@@ -450,12 +450,12 @@ flowchart TB
 يجب أن تستوفي قيود السرية المفروضة على سجل التصادم [§13.2 قيود الإفصاح المعرفي](#132-epistemic-disclosure-constraints). وحيث يتعذر الإفصاح العام الكامل، يجب الحفاظ على أقصى قدر ممكن من الإفصاح الجزئي، مع إتاحة الوصول لمراجع مستقل.
 
 <a id="default-interim-posture"></a>
-**الوضع المؤقت الافتراضي ريثما يُحسم التصادم الدستوري.** إلى أن تحسم عملية [سجل التصادم الدستوري](core_05_band_integrative.md#constitutional-collision-record) و[المادة XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*التفسير الدستوري والمراجعة وضمانات منع الاستحواذ*) التصادم الدستوري، يظل الوضع الانتظاري ثابتًا كيلا يتمكن القيّم من افتعال فائز بالارتجال:
+**الوضع المؤقت الافتراضي ريثما يُحسم التصادم الدستوري.** إلى أن تحسم عملية [سجل التصادم الدستوري](core_05_band_integrative.md#constitutional-collision-record) و[المادة XXIV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*التفسير الدستوري والمراجعة وضمانات منع الاستحواذ*) التصادم الدستوري، يظل الوضع الانتظاري ثابتًا كيلا يتمكن القيّم من افتعال فائز بالارتجال:
 
 - **حفظ الأدلة:** لا تُجهض التصادم الدستوري بالحذف أو التسريب أو النشر الذي يتعذر الرجوع عنه.
 - **تجميد الخطوات التي يتعذر الرجوع عنها** إذا كانت ستجعل إحدى القراءتين المتعارضتين غير متاحة — فلا تُتخذ خطوة يتعذر التراجع عنها إذا كان اتخاذها سيحسم التصادم الدستوري أو يُبطل أحد الجانبين أو يفتعل فائزًا قبل حسم التفسير.
 - **المضي في الخطوات القابلة للرجوع عنها والمأذون بها** التي تُبقي القراءتين متاحتين — بما في ذلك إتاحة الوصول لمراجع مستقل بموجب [قابلية الرصد المقيدة أمنيًا](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) حيثما وُجدت الموافقة.
-- **إخطار** الأطراف المتأثرة ومسار التفسير بما جُمّد وما سيستمر والمهلة الزمنية المنطبقة (وفي النزاع المحال إلى منتدى، مهل المستويات والحدود القصوى في [الفصل الثاني عشر §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*الحسم في الوقت المناسب، ومستويات الجوهرية، والانضباط المضاد للتأخير*)).
+- **إخطار** الأطراف المتأثرة ومسار التفسير بما جُمّد وما سيستمر والمهلة الزمنية المنطبقة (وفي النزاع المحال إلى منتدى، مهل المستويات والحدود القصوى في [الفصل الثالث عشر §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*الحسم في الوقت المناسب، ومستويات الجوهرية، والانضباط المضاد للتأخير*)).
 
 هذا الوضع الانتظاري لا يحسم أي الجانبين على صواب. جمّد ما يتعذر التراجع عنه كيلا تُستبعد أي من القراءتين؛ ولا يزال يتعين على [§13 عملية حسم التصادم الدستوري](#13-constitutional-collision-resolution-process) الإجابة عن التصادم الدستوري. وهذا هو مسوغ [§13.1.5 مبدأ القيد الأقل تقييدًا والمحدود زمنيًا والخاضع للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle): فالخطوة المأذون بها والقابلة للرجوع عنها تُبقي القراءتين متاحتين، أما الخطوة التي يتعذر الرجوع عنها فلا تفعل ذلك.
 
@@ -468,7 +468,7 @@ flowchart TB
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (إمكانية الاعتراض المستنير في ظل القيود)؛ ضلع **الإشراف** (يجب أن تحافظ قيود الإفصاح على أقصى قدر ممكن من التدقيق)؛ ضلع **المساءلة** (كل قيد يخضع لتدقيق ومراجعة لاحقين بموجب [§13.2.1](#1321-preservation-of-epistemic-integrity)، بحيث تكون هناك جهة مسؤولة عنه)؛ ضلع **التوقيت** (تكون قيود الإفصاح أو تأخيره محدودة المدة وتنتهي بإفصاح لاحق بموجب §13.2.1)؛ والتدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - المبادئ السابقة: [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و[§13 عملية حل التعارضات الدستورية](#13-constitutional-collision-resolution-process).
 - ما يليه: [§13.2.1 صون النزاهة المعرفية](#1321-preservation-of-epistemic-integrity)، [§13.2.2 مواءمة الثقة والحقيقة](#1322-trust-truth-alignment)، [§13.2.3 الخصوصية وتقرير المصير المعلوماتي](#1323-privacy-and-informational-self-determination)، و[14. حظر التجاوز المطلق](#14-prohibition-on-absolute-override).
-- ما يليه: يحمي نطاق الحقوق المتعلق بسلامة المجال المعلوماتي، وقابلية التدقيق، والمراجعة اللاحقة، وإمكانية الاعتراض المستنير عند تقييد الإفصاح؛ ولا سيما [المادة XV: سلامة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)، و[المادة XXV-A: المراجعة والإفصاح بأثر رجعي](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)، فضلًا عن أي سياق للحقوق يؤثر فيه تقييد الإفصاح على إمكانية الاعتراض أو المشاركة المستنيرة.
+- ما يليه: يحمي نطاق الحقوق المتعلق بسلامة المجال المعلوماتي، وقابلية التدقيق، والمراجعة اللاحقة، وإمكانية الاعتراض المستنير عند تقييد الإفصاح؛ ولا سيما [المادة XV: سلامة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)، و[المادة XXV-A: المراجعة والإفصاح بأثر رجعي](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)، فضلًا عن أي سياق للحقوق يؤثر فيه تقييد الإفصاح على إمكانية الاعتراض أو المشاركة المستنيرة.
 
 </details>
 
@@ -523,7 +523,7 @@ flowchart TB
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (إمكانية الاعتراض المستنير في ظل القيود)؛ ضلع **الإشراف** (يجب أن تحافظ قيود الإفصاح على أقصى قدر ممكن من التدقيق)؛ ضلع **المساءلة** (كل تقييد يخضع لتدقيق ومراجعة لاحقين)؛ ضلع **التوقيت** (القيود محددة النطاق بدقة ومحدودة المدة، مع إفصاح لاحق عندما تزول الشروط التي تبررها)؛ والتدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - المبادئ السابقة: [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و[13. عملية حل التعارضات الدستورية](#13-constitutional-collision-resolution-process).
 - ما يليه: [§13.2.2 مواءمة الثقة والحقيقة](#1322-trust-truth-alignment) و[14. حظر التجاوز المطلق](#14-prohibition-on-absolute-override).
-- ما يليه: يحمي نطاق الحقوق المتعلق بسلامة المجال المعلوماتي، وقابلية التدقيق، والمراجعة اللاحقة، وإمكانية الاعتراض المستنير عند تقييد الإفصاح؛ ولا سيما [المادة XV: سلامة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)، و[المادة XXV-A: المراجعة والإفصاح بأثر رجعي](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)، فضلًا عن أي سياق للحقوق يؤثر فيه تقييد الإفصاح على إمكانية الاعتراض أو المشاركة المستنيرة.
+- ما يليه: يحمي نطاق الحقوق المتعلق بسلامة المجال المعلوماتي، وقابلية التدقيق، والمراجعة اللاحقة، وإمكانية الاعتراض المستنير عند تقييد الإفصاح؛ ولا سيما [المادة XV: سلامة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)، و[المادة XXV-A: المراجعة والإفصاح بأثر رجعي](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)، فضلًا عن أي سياق للحقوق يؤثر فيه تقييد الإفصاح على إمكانية الاعتراض أو المشاركة المستنيرة.
 
 </details>
 
@@ -616,7 +616,7 @@ flowchart TB
 
 إن الإتاحة أو إمكانية الرصد أو النشر السابق أو حيازة المنصة للمعلومات أو إمكان الوصول إليها تقنيًا لا تلغي مصالح الخصوصية ولا تفي بالضوابط أعلاه.
 
-**التكامل مع تصنيف البيانات.** الطبقة التشغيلية لهذه الضوابط هي نظام أنواع البيانات الوارد في **[CS-2 — أنواع المعلومات والتعامل معها](corpus_systems/cs_02_a_information_types_and_handling.md)**. يحدد ذلك النظام لكل فئة من المعلومات (بيانات التنسيق والحوكمة والهوية والتفاعل والمعرفة الداخلية والتشغيل النظامي) مستوى الحماية الافتراضي للوصول وقيود التعامل الخاصة بها. وتسري ضوابط الجمع والاحتفاظ والاستخدام أعلاه *بالمستوى الذي يقتضيه أشد تصنيف بيانات منطبق*، لا وفق حد عام. وإذا أمكن إعادة بناء البيانات أو تحويلها أو تجميعها في تصنيف أشد حساسية، فتسري حماية التصنيف الأشد حساسية. ويخالف هذا المبدأ سوء التصنيف أو التنظيم المراوغ أو التحايل الوظيفي على حماية أنواع البيانات.
+**التكامل مع تصنيف البيانات.** الطبقة التشغيلية لهذه الضوابط هي نظام أنواع البيانات في **[CS-2 — أنواع المعلومات والتعامل معها](corpus_systems/cs_02_a_information_types_and_handling.md)**. يصنف النظام المعلومات في نوع واحد أو أكثر من أحد عشر نوعًا: التنسيق البيئي والبقاء (**E**)، ومصدر الحوكمة والتشغيل (**G**)، والإفصاح الرقابي العام المفتوح (**O**)، والمعلومات التاريخية والعلاقية ومعلومات المشاركة (**H**)، والهوية والإسناد (**I**)، والعصبية المعرفية والداخلية (**N**)، والسلامة والأمن والتحقيق المقيّد (**S**)، والأعمال التي ينشئها كائن واعٍ وهي خاصة أو مشتركة (**Y**) أو منشورة (**W**)، والأعمال الخاضعة لترخيص تجاري (**U**) أو للتنازل (**T**). لكل نوع افتراضات وصول وقيود تعامل. تمر معظم معالجة الخصوصية عبر الأنواع **H وI وN وS وY**؛ وخريطة فئات الخصوصية إلى أنواعها في [الخصوصية (المعلوماتية)](core_05_band_continuity.md#privacy-informational). وتسري ضوابط الجمع والاحتفاظ والاستخدام بالمستوى الذي يقتضيه أشد تصنيف منطبق، لا وفق حد عام. وإذا أمكن إعادة بناء البيانات أو تحويلها أو تجميعها في تصنيف أشد حساسية، فتسري حمايته. ويخالف هذا المبدأ سوء التصنيف أو التنظيم المراوغ أو التحايل الوظيفي على حماية أنواع البيانات.
 
 **المراقبة والرصد.** يجب أن تستوفي أنظمة الرصد والملاحظة والتسجيل والاستنتاج التي تؤثر ماديًا في فاعلية الكائنات الواعية أو تكوينها للجمعيات أو تعبيرها [مبدأ **القيود الأقل تقييدًا والمحددة زمنيًا والخاضعة للمراجعة**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). ويجب ألا تكون المراقبة عشوائية أو سرية أو مفتوحة المدة أو شرطًا لاستخدام نظام تعتمد عليه الكائنات الواعية، متى أمكن لوسيلة أقل تدخلًا أن تؤدي الغرض. ولا تجوز إذا ثبّطت الكائنات الواعية عن الكلام أو الاجتماع أو ممارسة الحريات الأخرى التي يحميها هذا الدستور.
 
@@ -714,7 +714,7 @@ flowchart TB
 - في المنبع: المبادئ: [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§16 الوصاية بالتفصيل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، [13. عملية حسم التعارض الدستوري](#13-constitutional-collision-resolution-process)، [7. الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[الغايتان الدستوريتان](core_00_preamble.md#two-constitutional-aims).
 - في المصب: [20. التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 - في المصب: يحمي نطاق الحقوق من منطق تجاوز قيمة واحدة بما يؤدي إلى انهيار المساواة أو حقوق الطعن أو الشفافية أو قابلية الاعتراض أو التفسير المقيّد.
-  - ولا سيما [المادة VI: الحقوق الأساسية المتساوية](core_06_rights_part_b.md#article-vi-equal-basic-rights)، و[المادة XIII-B: الحق في التظلّم والانتصاف](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)، و[المادة XV-B: الشفافية وقابلية التدقيق والاعتراض](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability)، و[المادة XIX-B: قابلية الاعتراض وحدود القيود المتناسبة](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)، و[المادة XXIV-A: التفويض التفسيري المقيّد](core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate).
+  - ولا سيما [المادة VI: الحقوق الأساسية المتساوية](core_06_rights_part_b.md#article-vi-equal-basic-rights)، و[المادة XIII-B: الحق في التظلّم والانتصاف](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)، و[المادة XV-B: الشفافية وقابلية التدقيق والاعتراض](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability)، و[المادة XIX-B: قابلية الاعتراض وحدود القيود المتناسبة](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)، و[المادة XXIV-A: التفويض التفسيري المقيّد](core_06_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate).
 
 </details>
 
@@ -746,9 +746,9 @@ flowchart TB
 - إلى المصب: [§15.1 مبدأ عدم الالتفاف الدستوري](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-anti-segmentation-principle))، [§15.2 الطبقة التعريفية والتخصصات المطلوبة](#152-definitional-layer-and-required-disciplines)، [§15.3 حسم الالتباس](#153-ambiguity-resolution)، [§15.4 تسوية تعارض المعنى الدستوري](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations))؛ [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) حتى [20. التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application)؛ [13. آلية تسوية التصادم الدستوري](#13-constitutional-collision-resolution-process) لإجراءات التصادم الدستوري؛ والافتراض بعدم الانتقاص في [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#chapter-six-foundational-rights).
 - يُقرأ مع: [الفصول الثاني إلى الرابع](core_02_definition_structure.md) و[الفصل الخامس](core_05__definitions_home.md#chapter-five-foundational-definitions) — الطبقة التفسيرية والإثباتية لكل مصطلح في هذا الفصل.
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) و[الهدفان الدستوريان](core_00_preamble.md#two-constitutional-aims) — الخلفية التفسيرية لإطار القيم المتكامل؛ ويُراعى تحجيم [المصلحة المادية](core_00_preamble.md#material-stake) حيث تكون ذات صلة مادية.
-- يُقرأ مع: [مكدس السلطات والتدرج الداخلي](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*وضع طبقة المصدر*)؛ [الفصل السابع عشر](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*الحيازة والإصدارات وتأطير الاعتماد* — وليس موطناً ثانياً لترتيب التعارض)؛ [الفصل الرابع عشر](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) و[الفصل الخامس عشر](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*بوابات عدم الانتكاس والتدرج لدى الجهة المعتمِدة بموجب [§15.4 تسوية تعارض المعنى الدستوري](#154-constitutional-meaning-conflict-resolution)*).
-- يُقرأ مع: [المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) لضمانات التفسير المؤسسي (دون أن تحل محل هذا القسم).
-- يُقرأ مع: [الفصل السابع: الاستقلال الوظيفي وفصل الواجبات](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — الحد الأدنى لبنية المناصب الذي تحميه قائمة منع الالتفاف في [§15.1 مبدأ عدم الالتفاف الدستوري](#151-constitutional-no-bypass-principle) (ولا يعاد بيانه هنا).
+- يُقرأ مع: [مكدس السلطات والتدرج الداخلي](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*وضع طبقة المصدر*)؛ [الفصل السابع عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge) (*الحيازة والإصدارات وتأطير الاعتماد* — وليس موطناً ثانياً لترتيب التعارض)؛ [الفصل الخامس عشر](core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) و[الفصل الخامس عشر](core_16_expansion_supremacy.md#chapter-sixteen-expansion-supremacy-and-external-legal-orders) (*بوابات عدم الانتكاس والتدرج لدى الجهة المعتمِدة بموجب [§15.4 تسوية تعارض المعنى الدستوري](#154-constitutional-meaning-conflict-resolution)*).
+- يُقرأ مع: [المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) لضمانات التفسير المؤسسي (دون أن تحل محل هذا القسم).
+- يُقرأ مع: [الفصل الثامن: الاستقلال الوظيفي وفصل الواجبات](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) — الحد الأدنى لبنية المناصب الذي تحميه قائمة منع الالتفاف في [§15.1 مبدأ عدم الالتفاف الدستوري](#151-constitutional-no-bypass-principle) (ولا يعاد بيانه هنا).
 
 </details>
 
@@ -773,7 +773,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار التتبّع</span></strong></summary>
 
-- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — تتبع قائمة منع الالتفاف الأضلاع الأربعة: ضلع **الرقابة** (التدقيق المعتاد وقابلية التدقيق)؛ ضلع **المشاركة** (إمكان الاعتراض، والوصول العملي، وواجبات التعليل العام)؛ ضلع **التوقيت** (الحسم في الوقت المناسب، ومسارات الاستعادة والتراجع)؛ ضلع **المساءلة** (المساءلة ذاتها، والاستقلال الوظيفي وفصل الواجبات بموجب [الفصل السابع](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties))؛ وتحجيم [المصلحة المادية](core_00_preamble.md#material-stake).
+- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — تتبع قائمة منع الالتفاف الأضلاع الأربعة: ضلع **الرقابة** (التدقيق المعتاد وقابلية التدقيق)؛ ضلع **المشاركة** (إمكان الاعتراض، والوصول العملي، وواجبات التعليل العام)؛ ضلع **التوقيت** (الحسم في الوقت المناسب، ومسارات الاستعادة والتراجع)؛ ضلع **المساءلة** (المساءلة ذاتها، والاستقلال الوظيفي وفصل الواجبات بموجب [الفصل الثامن](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties))؛ وتحجيم [المصلحة المادية](core_00_preamble.md#material-stake).
 - إلى المصب: [§15.1.1 مبدأ منع التجزئة](#1511-anti-segmentation-principle)؛ [§15.1.2 مبدأ المعلومات المستنبطة](#1512-derived-information-principle).
 
 </details>
@@ -820,7 +820,7 @@ flowchart TB
 - الوصول العملي؛
 - الحسم في الوقت المناسب؛
 - مسارات الاستعادة والتراجع؛
-- الاستقلال الوظيفي وفصل الواجبات ([الفصل السابع](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties))؛ أو
+- الاستقلال الوظيفي وفصل الواجبات ([الفصل الثامن](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties))؛ أو
 - المساءلة.
 
 يجوز لطبقات التنفيذ المعتمدة أن تضيف تفاصيل إلى هذه الحمايات. ولا يجوز لها تضييقها.
@@ -844,7 +844,7 @@ flowchart TB
 - إنشاء أي حكم من أحكام أرضية الحقوق في الفصل السادس أو توسيعه أو تضييقه؛ أو
 - تجاوز بيان المجموعة نفسها للأقسام والواجبات المحمية التي تشملها. وتبيّن المجموعة ذلك ضمن **منع التجاوز** وتحيل إلى هذا القسم لتطبيق القاعدة.
 
-يجب أن تختبر تقييمات النظام ككل منع التجزئة بموجب [الفصل الثامن §3 تقييم اعتماد النظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث تنطبق مجموعة مستدعاة معًا، قبل اعتماد ادعاءات التصنيف أو الحوكمة أو الامتثال. ويعمل هذا القسم مع [الفصل الثالث §2.1 أنماط التهرب الشائعة](core_03_definition_integrity.md#21-common-evasion-patterns) و[§2.2 التهرب الاختزالي](core_03_definition_integrity.md#22-reductive-evasion).
+يجب أن تختبر تقييمات النظام ككل منع التجزئة بموجب [الفصل التاسع §3 تقييم اعتماد النظام ككل](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث تنطبق مجموعة مستدعاة معًا، قبل اعتماد ادعاءات التصنيف أو الحوكمة أو الامتثال. ويعمل هذا القسم مع [الفصل الثالث §2.1 أنماط التهرب الشائعة](core_03_definition_integrity.md#21-common-evasion-patterns) و[§2.2 التهرب الاختزالي](core_03_definition_integrity.md#22-reductive-evasion).
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 مبدأ المعلومات المشتقة
@@ -988,7 +988,7 @@ flowchart TB
   - داخل المصدر الدستوري الملزم (الصك المتكامل `core_*`)؛ و
   - على مستوى الإدراج، حيث تُختار النصوص المدرجة وفقًا لـ[أقصى أثر وقائي](core_05_band_integrative.md#fullest-protective-effect).
 - تُحدَّد مكانة طبقة المصدر بموجب [تدرّج السلطات والهرمية الداخلية](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) في الفصل الخامس.
-- يوفّر [الفصل السابع عشر](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) الحيازة وتثبيت الإصدار وتأطير الاعتماد. ولا يعيد بيان هذا الإجراء.
+- يوفّر [الفصل الثامن عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge) الحيازة وتثبيت الإصدار وتأطير الاعتماد. ولا يعيد بيان هذا الإجراء.
 - بالنسبة إلى **التصادمات الدستورية أثناء التشغيل** — لا أسبقية طبقات النصوص — يُطبَّق **[§13 عملية حلّ التصادم الدستوري](#13-constitutional-collision-resolution-process)**.
 
 **التسلسل التنفيذي.** طبّقوا ما يلي **بهذا الترتيب**:
@@ -1019,7 +1019,7 @@ flowchart TB
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 طبقة الإدماج
 
-بعد القراءة الدستورية بموجب **§15.4.1** (*القراءة المتكاملة*) و**§15.4.2** (*التسلسل الهرمي الداخلي كملاذ أخير*)، طبّق **الالتزامات المحددة** في نصوص التنفيذ المعتمدة — أي واجبات «كيفية التنفيذ» المسماة التي أدخلها الاعتماد فعلياً حيز النفاذ. ولا تطبقها إلا ضمن **نطاق اعتماد وإدماج صحيح** بموجب **[الفصل السابع عشر](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** (من يحوز السجلات، وأي طبعة مثبتة، وكيفية صياغة الاعتماد).
+بعد القراءة الدستورية بموجب **§15.4.1** (*القراءة المتكاملة*) و**§15.4.2** (*التسلسل الهرمي الداخلي كملاذ أخير*)، طبّق **الالتزامات المحددة** في نصوص التنفيذ المعتمدة — أي واجبات «كيفية التنفيذ» المسماة التي أدخلها الاعتماد فعلياً حيز النفاذ. ولا تطبقها إلا ضمن **نطاق اعتماد وإدماج صحيح** بموجب **[الفصل الثامن عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge)** (من يحوز السجلات، وأي طبعة مثبتة، وكيفية صياغة الاعتماد).
 
 تختار القواعد أدناه بين النصوص المدمجة وفق [الأثر الوقائي الأوفى](core_05_band_integrative.md#fullest-protective-effect)، وهو المعيار نفسه الذي تستخدمه قاعدة **الغموض** في **[§15.3 حسم الغموض](#153-ambiguity-resolution)**. ولا تختار مطلقاً وفق [التشدد التجريدي](core_05_band_integrative.md#abstract-strictness).
 
@@ -1033,7 +1033,7 @@ flowchart TB
   - وهذا ليس حسمًا للغموض الدستوري الموضوعي عن طريق [التشدد التجريدي](core_05_band_integrative.md#abstract-strictness).
 - **الأثر الوقائي الأوفى عبر الملفات:** عندما تحدد ملفّان تنفيذيان معتمدان أو أكثر معايير مختلفة للمخاطر نفسها ذات النطاق المحدد على نحو ذي معنى، تسود القاعدة المعتمدة بوضوح ذات [الأثر الوقائي الأوفى](core_05_band_integrative.md#fullest-protective-effect)، بما يتفق مع القاعدتين أعلاه.
   - تظل صفة طبقة المصدر محكومة بـ[مكدس السلطة والتسلسل الهرمي الداخلي](core_05_band_integrative.md#authority-stack-and-internal-hierarchy).
-  - وتظل الحيازة والطبعات وصياغة الاعتماد محكومة بـ**[الفصل السابع عشر](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**.
+  - وتظل الحيازة والطبعات وصياغة الاعتماد محكومة بـ**[الفصل الثامن عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge)**.
   - وتسري القاعدة نفسها حين يبدو أن ملفاً تعريفياً مستشهداً به ووسماً تنفيذياً مستشهداً به يتعارضان بشأن تلك المخاطر.
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1053,7 +1053,7 @@ flowchart TB
 - قاعدة **مجموعة تشغيلية** واحدة في نص مدمج ذي بنية مشتركة، حيث لا يعد تنفيذ جزء فقط من تلك المجموعة امتثالاً — راجع **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*المجموعات التشغيلية*)؛ أو
 - قاعدة الفصل الخامس التي تقتضي استيفاء تعريفات **المجموعة التابعة** معاً — راجع **[الفصل الخامس §2.1 الاستدعاء المشترك والاستيفاء](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
-**متى ينطبق هذا القسم.** تسري هذه القواعد ضمن نطاق اعتماد وإدماج صحيح بموجب **[الفصل السابع عشر](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** في أي من الحالتين التاليتين:
+**متى ينطبق هذا القسم.** تسري هذه القواعد ضمن نطاق اعتماد وإدماج صحيح بموجب **[الفصل الثامن عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge)** في أي من الحالتين التاليتين:
 
 1. **حالة واحدة، وأكثر من ملف:** تقتضي الوقائع تطبيق أكثر من ملف تنفيذي مدمج — مثل نصوص الأنظمة أو المؤسسات أو المحافل أو البنية المشتركة. ويُحسم تحديد الملفات المنطبقة وفق نطاق الاعتماد والتوجيه الموضوعي الذي توفره تلك الملفات للوقائع، لا باختيار الملف الأسهل استيفاءً وحده.
 2. **الاعتماد يُدخل مجموعة البنية المشتركة حيز النفاذ:** تطبق وثيقة الاعتماد نصوص تنفيذ البنية المشتركة المحددة (مجلد **CJS** وأي ملفات أخرى للبنية المشتركة مدرجة في سلسلة الاعتماد) على المتبني.

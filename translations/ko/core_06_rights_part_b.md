@@ -1550,9 +1550,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 원칙: 제1장 [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline), [§7.2 집회, 집단 조직 및 기관 설립](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [제1장 §16.2 기관 발전](core_01_c_stewardship_capacity_principles.md#162-institutional-development), [§11 시장 구조](core_01_a_values_principles.md#11-market-structure).
-- 함께 읽기: 제5장 [*집회, 집단 조직 및 기관 설립*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) 및 [설립 권리 제한](core_05_band_participation.md#creation-rights-limits); 집회와 결사를 위한 [**제XI-D조**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*집회, 반대 의견 및 평화적 항의*); 노동자 조직화를 위한 [**제III-C조**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*노동 및 경제 권리 바닥*); [**제XI-F조**](#article-xi-f-non-imposition-and-consent-in-association) (*결사에서의 비강제와 동의*).
+- 함께 읽기: 제5장 [*집회, 집단 조직 및 기관 설립*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) 및 [설립 권리 제한](core_05_band_participation.md#creation-rights-limits); 집회와 결사를 위한 [**제XI-D조**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*집회, 반대 의견 및 평화적 항의*); 노동자 조직화를 위한 [**제III-C조**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*노동 및 경제 권리 바닥*); [**제XI-F조**](#article-xi-f-non-imposition-and-consent-in-association) (*결사에서의 비강제와 동의*).; [제11장 §6.2 역량 기준과 확인](../../core_11_standing_integration.md#62-competency-bars-and-clearances), [제13장 §4.2 기술 포럼 영역](../../core_13_forum.md#42-technical-forum-domains) 및 **CF-10** (*기술 전문 포럼 및 전문 심의부*).
 - 하위 적용: 만들어진 기관 또는 사업체가 타인에게 실질적 영향을 주면 [**제X-C조**](#article-x-c-stakeholder-role-and-participation-rights) (*이해관계자 역할 및 참여 권리*) 및 [**제XII장**](#article-xii-stakeholder-system-participation-representation-and-due-process) (*영향받는 쪽의 체계 참여, 대표 및 적법절차*).
-
 </details>
 
 <details>
@@ -1564,11 +1563,12 @@ flowchart TB
 - [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
+- [역량 확인(Competency Clearance)](../../core_05_band_accountability.md#competency-clearance) · [O](../../core_05_band_accountability.md#competency-clearance) · [M](../../core_05_band_accountability.md#competency-clearance-a) · [A](../../core_05_band_accountability.md#competency-clearance-a) · [C](../../core_05_band_accountability.md#competency-clearance-c)
 </details>
 
 <br>
 
-*쉬운 말로: 누구나 새 학교, 연구 그룹, 상호부조 네트워크, 협동조합, 사업체를 시작할 수 있으며 이미 있는 것에 참여하는 것만 허용되는 것은 아니다. 서류상으로는 개방되어 있는 듯 보이지만 새로운 창립자나 환영받지 못하는 창립자를 배제하는 허가·자본·서류 장벽은 이 기준을 통과하지 못한다.*
+*쉬운 말로: 누구나 새 학교, 연구 그룹, 상호부조 네트워크, 협동조합, 사업체를 시작할 수 있으며 이미 있는 것에 참여하는 것만 허용되는 것은 아니다. 서류상으로는 개방되어 있는 듯 보이지만 새로운 창립자나 환영받지 못하는 창립자를 배제하는 허가·자본·서류 장벽은 이 기준을 통과하지 못한다. 기록이 없는 창립자는 진정한 것으로 추정되고 사전 허가는 필요 없다. 두 가지 제한은 개인의 권한에만 적용되며 기관 자체를 멈추지 않는다.*
 
 이 조항은 기관과 사업체를 설립할 권리 및 그 한계를 정한다:
 
@@ -1577,20 +1577,41 @@ flowchart TB
   - [사업 창설](core_05_band_participation.md#business-creation-constitutional)에 따라 정의된 개인 사업자·파트너십·법인·영리 협동조합·플랫폼 기반 사업체 및 이에 준하는 상업적 사업체. 여기에는 설립과 운영에 필요한 자본 접근, 시장 진입, 허가 경로도 포함된다.
 
   이 권리는 이미 존재하는 기관에 참여하는 것뿐 아니라 새 기관이 존재하도록 만드는 것까지 포함한다.
+- **진정성 있는 설립:** 설립자나 운영자는 밝힌 목적에 실제로 부합해야 한다. 목적·통제·이해관계·수혜자를 속이거나 타인에게 헌법이 금지하는 해를 가하려는 의도로 설립·운영해서는 안 되며, 그러한 의도를 의심할 상당한 근거가 있는 경우에도 같다. 금지된 차별 대우는 위해에 포함되지만, 합법적 경쟁·비판·반대 의견과 경쟁자의 합법적인 사업상 손실은 위해가 아니다.
+  - 의도는 검증된 행위, 통제, 보상 구조 및 발언으로 판단한다. 타인이 해를 받아야 한다거나 금지된 차별을 해야 한다는 검증된 발언·요구·계획은 위해 의도의 증거가 될 수 있다. [제1장 §7.5](../../core_01_a_values_principles.md#75-expression-and-the-harm-line)에 따라 종교·정치·이념 표지가 아니라 발언이 실제로 말하고 요구하고 행하는 바를 평가한다. 신념이나 단체 소속만으로 불리하게 판단하지 않고, 선의라는 단순한 주장도 유리한 증거가 아니다. 발언에 대한 보호는 [제7장 §6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)을 따른다.
+  - 기록이 없는 창립자는 진정성이 있는 것으로 추정한다. 서면으로 기관의 한계를 수용하고 독립 검증을 받아들이는 등 행동으로 보인 약속이 증거가 된다. 이는 권리의 조건이지 허가제가 아니다. 사전 승인이나 허가는 필요 없으며, 진정성이 없다고 주장하는 쪽이 입증 책임을 진다.
+
 - **우회적 거부 금지:** 다음을 통해 이 권리를 무력화할 수 없다:
   - 환영받지 못하는 창립자·목적·형식을 배제하도록 설계된 허가 제도, 승인 기준, 절차적 복잡성;
   - 유사 기관이나 사업체가 이용할 수 있는 자본·재정 수단·기반 시설·법적 인정 접근에서의 차별; 또는
   - 기존 사업자를 새 형식이나 경쟁 형식에서 보호하는 것이 주된 효과인 승인 규칙.
 
-  창립자와 참여자에 대한 보복·감시·표적화도 규정 위반이다.
+  창립자와 참여자에 대한 보복·감시·표적화도 규정 위반이다. 이 두 가지 제한된 관문과 그 다음에 설명하는 실무 확인을 제외하고는 기관이나 사업체의 설립 또는 운영에 어떤 관문도 둘 수 없으며, 누구도 기관을 설립하거나 운영하기 전에 확인을 받을 필요가 없다.
+- **두 가지의 제한된 관문:** 오직 다음 두 관문만 특정인의 기관·사업체 내 통치·통제·소유 권한 취득 또는 행사를 제한할 수 있다. 제한은 그 사람의 권한에 붙으며, 해당 기관이 그 권한을 행사하는 수단·승계자·지배 법인·명의 보유 형태일 때만 기관에 미친다. 다른 사람이 기관을 설립·운영·가입·근무하거나 서비스를 받는 것을 막지 않는다.
+  - [Institutional Authority Standing Lock](../../core_11_standing_integration.md#55-special-locks), [Anti-Constitutional Trust Lock](../../core_11_standing_integration.md#55-special-locks), 또는 같은 종류의 기관에 대한 권한 경로를 명시한 다른 미해결 standing lock이 있으면 명시된 경로와 그 범위 안에서만 권한 행사를 금지하며, 명령이 해제되거나 좁혀지면 끝난다.
+  - 관할 포럼은 [제13장 §5](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)의 요건을 충족하고, 증거상 그 사람이 목적 또는 헌법상 제약에 어긋나거나 기만·위해 의도로 행동할 개연성이 더 높을 때 특정 권한에 [임시 보류](../../core_05_band_accountability.md#interim-hold)를 명할 수 있다. 검증된 행위·통제·보상·발언으로 판단한다. 이는 최종 판단·잠금·상시 기록이 아니며, 신념·정체성·평판·보호되는 반대 의견이나 신고만으로 근거 삼을 수 없다. 기관은 다른 적법한 권한자 아래 계속 운영한다. 의존하는 이들이 권한자 없이 남게 된다면 임시 관리인을 지정하고 기관을 중단하지 않는다.
+  - 두 관문 모두 이를 적용하는 쪽이 입증 책임을 진다. 다른 일의 임금, 권리 바닥, 생존 필수 접근, 발언, 방어 또는 보호 신고를 막거나 반대자·신고자·노동자 조직자를 겨냥하는 데 사용해서는 안 된다.
+
+
+- **명명된 고위험 행위에 대한 실무 확인:** 추가 요건 하나를 둘 수 있지만, 기관에 대한 관문은 아니다. 명명된 감지자가 타인을 위해 명명된 행위를 하기 전에 [역량 확인(Competency Clearance)](../../core_05_band_accountability.md#competency-clearance)을 요구할 수 있다(*실무 확인*). 이는 그 행위의 수행에만 붙는다. 이 확인은 명명된 경로에 대해 공표된 역량 기준에 비추어 검증된 준비 상태를 기록하는 긍정적 standing 효과다. 적용되는 standing lock이 막지 않을 때만 그 경로를 여는 데 도움이 될 수 있다. 이는 명성, 내부자 후원, 자격 독점 또는 영구 권리가 아니다. 누구든 기관을 설립·운영·가입하거나 서비스를 받는 것을 막지 않으며, 기관의 운영도 금지하지 않는다. 다음 조건이 모두 충족될 때만 요구할 수 있다.
+  - **위험 판단:** 기술 전문 포럼이 [제13장 §4.2 기술 포럼 영역](../../core_13_forum.md#42-technical-forum-domains)과 **CF-10** (*기술 전문 포럼 및 전문 심의부*)에 따라 명명된 행위군에 대한 판단을 공표해야 한다. 판단은 위험을 평가하거나 피할 수 없는 감지자에게 심각하거나 되돌릴 수 없는 신체적 위해가 발생할 신뢰할 만한 인과 경로(행위에서 위해로 이어지는 개연성 있고 추적 가능한 경로)가 있다고 밝혀야 하며, 필요한 역량도 명시해야 한다.
+  - **더 가벼운 조치로는 보호할 수 없음:** 요건을 유지하는 당사자는 공개, 등록, 보호된 직함, 수용·고용 기관에 부과하는 의무, 학습자 감독으로는 위험에 처한 이들을 보호할 수 없음을 입증해야 한다.
+  - **공개 절차로 결정:** 채택 문서는 공표되고 이의제기 가능한 절차를 통해 해당 판단이 확인 요건을 둘 만큼 충분한지 결정한다. 포럼은 판단과 기준을 정하지만 확인을 발급하거나 개별 사례 또는 허용 가능한 위험 수준을 결정하지 않는다.
+  - **열린 경로, 독점 금지:** 기준은 [제11장 §6.2 역량 기준과 확인](../../core_11_standing_integration.md#62-competency-bars-and-clearances)에 따라 공표되고 비례적이며 이의제기 가능해야 한다. 시험, 포트폴리오, 도제 훈련, 동료가 검증한 경험, 다른 관할권의 확인은 동등한 증거로 인정한다. 둘 이상의 독립 발급자가 확인을 발급할 수 있어야 하며 유일한 경로가 있어서는 안 된다. 현직 실무자는 기준 설정 패널이나 발급자의 통치 권한을 통제할 수 없다.
+  - **신중한 적용:** 학습자는 확인된 감독자 아래에서 행위할 수 있다. 긴급 행위나 제때 확인된 감지자에게 연락할 수 없는 경우의 행위는 금지되지 않는다. 결정은 [제XXVI-C조](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)의 시한을 따르고, 수수료와 대기가 장벽이 되어서는 안 된다([피할 수 있는 부담](../../core_05_band_continuity.md#avoidable-burden)). 부담이 다시 입증되지 않으면 각 심사 때 요건은 종료되며 심사 결과를 공표한다.
+  - **보호:** 요건을 부과하는 당사자가 입증 책임을 진다. 다른 일의 임금, 권리 바닥, 생존 필수 접근, 발언, 방어 또는 보호되는 신고를 막을 수 없고, 반대자·신고자·노동자 조직자를 겨냥하는 데 사용할 수 없다. 역량 변화는 장애나 건강 상태 자체가 아니라 해당 행위에 필요한 역량으로 판단한다.
+  - **기관의 등급:** 타인을 위해 이러한 행위를 하는 기관은 [영역별 실질성](../../core_05_band_oversight.md#domain-specific-materiality)에서 안전상 실질적이므로 최소 Class L이다. 이 요건이 기관의 등급을 정하는 것은 아니며, Class L이라는 이유만으로 확인이 요구되지 않는다. 이러한 행위를 단독으로 또는 소규모 실무에서 수행하는 감지자는 호스트 기관을 통한 공동 전문 실무로 Class L 의무를 충족할 수 있다 (**CI-4.7**, *실무 확인, 실무 인증 및 공동 전문 실무*).
+
+- **측정과 평가:** [책임 측정 계열](../../core_05_apex_accountability_leg.md#measuring-accountability)과 [적시성 측정 계열](../../core_05_apex_timeliness_leg.md#measuring-timeliness)을 적용한다. 확인은 공표되고 명명된 경로에 특정하며 비례적이고 감사·이의제기가 가능하며 충분히 최신인 역량 기준에 근거해야 하고, 검증된 기여·경험·기술·훈련·신뢰성 또는 동등한 준비 상태 입력으로 추적 가능해야 한다. 비공식 또는 비제도적 경험도 정식 경험과 같은 증거 기준으로 인정한다. 적용 가능한 standing lock은 해당 효과가 경로를 열 수 있는지 계속 통제한다.
 - **한계:** 제5장의 [설립 권리 제한](core_05_band_participation.md#creation-rights-limits)이 적용된다. 이 권리는 [헌법상 제약](core_05_band_integrative.md#constitutional-constraint)을 위반하거나 **안전** 또는 **진실**을 훼손하거나 [제1장 §11 시장 구조](core_01_a_values_principles.md#11-market-structure)에 반해 권력을 집중하도록 설계된 기관·사업체에는 적용되지 않는다. 그 밖의 제한은 [제1장 §7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline)을 충족해야 한다: 필요하고, 비례적이며, 가능한 경우 되돌릴 수 있고, 감독 대상이어야 한다.
 - **관련 권리:**
   - 집회와 결사는 **제XI-D조** (*집회, 반대 의견 및 평화적 항의*)에 따른다;
   - 기존 생산 시스템 안에서 노동자를 조직하는 것은 **제III-C조** (*노동 및 경제 권리 바닥*)에 따른 [집단 조직](core_05_band_participation.md#collective-organization-constitutional)에 포함된다; 그리고
   - 설립된 기관이나 사업체가 타인에게 실질적 영향을 주면 **제X-C조** 및 **제XII장**의 이해관계자 권리가 적용된다.
-- **시행:** 등록, [정관](core_05_band_continuity.md#charter) 채택, 재정 처리, 책임, 증권 규제, 해산 경로는 **제17장** 편입 규율에 따라 [corpus_institutions.md](corpus_institutions.md)에서 다룬다. 해당 문서를 이 권리를 좁히는 것으로 읽어서는 안 된다.
-#### 제XI-F조: 결사에서의 비강제와 동의
+- **시행:** 등록, [시스템 헌장](../../core_05_band_continuity.md#system-charter) 및 [기관 헌장](../../core_05_band_continuity.md#institutional-charter) 채택, 재정 처리, 책임, 증권 규제, 해산 경로는 **제18장** 편입 규율에 따라 [corpus_institutions.md](../../corpus_institutions.md)에서 다룬다. 해당 문서를 이 권리를 좁히는 것으로 읽어서는 안 된다. 확인 발급자, 동등한 경로, 수수료, 심사 및 하위 단계 실무 인증도 그곳에서 정한다 (**CI-4.7**, *실무 확인, 실무 인증 및 공동 전문 실무*).
+
 <a id="article-xi-f-non-imposition-and-consent-in-association"></a>
+#### 제XI-F조: 결사에서의 비강제와 동의
 
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>

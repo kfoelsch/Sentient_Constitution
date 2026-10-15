@@ -37,8 +37,8 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: [باب دوم، §1 — مقصد اور کردار](core_02_definition_structure.md#1-purpose-and-role)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-definition-integrity-requirement)۔
-- زیریں: [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](#2-non-compliance-from-observable-system-behavior)؛ [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)۔
-- ساتھ پڑھیں: [باب یکم، قطعہ 4.2 — سچائی (حقائق کی دیانت کی پابندی)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — بیان کردہ ساخت یا ارادے کی بجائے قابلِ مشاہدہ رویے پر مبنی تفسیر تعریف کی سالمیت کی تہہ پر آئینی سچائی پابندی کو عمل میں لاتی ہے۔
+- زیریں: [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](#2-non-compliance-from-observable-system-behavior)؛ [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)۔
+- ساتھ پڑھیں: [باب یکم، قطعہ 4.2 — سچائی (حقائق کی دیانت کی پابندی)](core_01_a_values_principles.md#5-سچائی-علمی-دیانت-کی-تحدید) — بیان کردہ ساخت یا ارادے کی بجائے قابلِ مشاہدہ رویے پر مبنی تفسیر تعریف کی سالمیت کی تہہ پر آئینی سچائی پابندی کو عمل میں لاتی ہے۔
 
 </details>
 
@@ -89,7 +89,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](#1-definition-integrity-and-anti-evasion-constraints)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [باب دوم، §2.2 ساختی یا اطلاقی کمزوری سے عدمِ اطاعت](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening)۔
-- زیریں: قطعوں [2.1](#21-common-evasion-patterns) تا [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) میں اقسام کی فہرستیں؛ [3. عدمِ اطاعت دریافت پروفائلز](#3-non-compliance-finding-profiles)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [باب چہارم، قطعہ 3 — سراغ کی مشاہدہ پذیری کا تقاضا](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)؛ [باب ہفتم §6](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) (*نظام ہم آہنگی سرٹیفیکیشن دوبارہ کھولنا اور فرار مخالف اشارہ*)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)۔
+- زیریں: قطعوں [2.1](#21-common-evasion-patterns) تا [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) میں اقسام کی فہرستیں؛ [3. عدمِ اطاعت دریافت پروفائلز](#3-non-compliance-finding-profiles)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [باب چہارم، قطعہ 3 — سراغ کی مشاہدہ پذیری کا تقاضا](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)؛ [باب نہم §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*نظام ہم آہنگی سرٹیفیکیشن دوبارہ کھولنا اور فرار مخالف اشارہ*)؛ [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)۔
 - ساتھ پڑھیں: [باب دوم، §1 — مقصد اور کردار](core_02_definition_structure.md#1-purpose-and-role) پورے فعال نظام کی شرائط کے تحت مشترکہ تکمیل کے قاعدے کے لیے؛ [باب دوم، §2.4 ابہام کے تحت تفسیر کا قاعدہ](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — وہ تفسیریں جو ضمانتیں کمزور کریں، جو جانچنا چاہیے اسے تنگ کریں، یا حقیقی دنیا کے نتائج بگاڑیں جائز نہیں؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — ثبوت کو اس قطعے کے قواعد کے تحت اطاعت دکھانی چاہیے؛ جو ثبوت یہاں غیر مطابق ہو ثبوت کا بوجھ ہارتا ہے؛ [عدمِ اطاعت](../../core_05_band_integrative.md#non-compliance)۔
 
 </details>
@@ -153,7 +153,7 @@
 - رسمی نام بدلنا، تنظیم نو، یا وجود کی دوبارہ درجہ بندی جو فرائض گرا دے بغیر عمل میں ذمہ داری منتقل کیے
 - آسان درجہ بندی انتخاب جو وہ امتیاز مٹا دیں جو تعریف مانگتی ہے
 
-جہاں رسمی ساخت کی تبدیلی مادی ہو، [باب یکم §11.6 جانشین ذمہ داری اور رسمی ڈھانچہ فرار مخالف](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) لاگو کریں۔
+جہاں رسمی ساخت کی تبدیلی مادی ہو، [باب یکم §11.6 جانشین ذمہ داری اور رسمی ڈھانچہ فرار مخالف](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) لاگو کریں۔
 
 <a id="22-reductive-evasion"></a>
 #### 2.2 تخفیفی فرار
@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](#2-non-compliance-from-observable-system-behavior)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-definition-integrity-requirement)۔
-- زیریں: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)؛ [باب نہم — کیفیت کے اثرات اور انضمام](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 آئینی قطب نما اور جھرمٹ نقشہ](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)۔
+- زیریں: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [باب یازدہم — کیفیت کے اثرات اور انضمام](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 آئینی قطب نما اور جھرمٹ نقشہ](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)۔
 - ساتھ پڑھیں: [عدمِ اطاعت دریافت پروفائل](../../core_05_band_accountability.md#non-compliance-finding-profile) — پروفائل خانوں کا مستند O/M/A/C گھر؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)۔
 
 </details>
@@ -230,19 +230,19 @@
 - نام لے سکتی ہے کہ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کی کون سی ٹانگ اور [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) کا کون سا رخ ناکامی بہتر بیان کرے — مثلاً نگرانی، شرکت، یا جوابدہی کا شگفتگی یا استمرار سے میل
 - یہ نہیں بدلتی کہ نیچلی تعریف پوری ہوئی یا نہیں
 - دوسرا فیصلہ لیبل نہیں بناتی
-- [باب ہشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) کی شراکت یا خلاف ورزی پیمائش کی جگہ نہیں لیتی
+- [باب دہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) کی شراکت یا خلاف ورزی پیمائش کی جگہ نہیں لیتی
 
 کیفیت کے اثرات اس پر منحصر ہیں کہ کس کا جائزہ ہو رہا ہے اور نظام پہلے سے سرٹیفائیڈ ہے یا نہیں۔ نیچے ذیلی قطعے وہ صورتیں ٹھہراتے ہیں۔
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 پہلے سے سرٹیفائیڈ نظاموں کے لیے کیفیت کے اثرات
 
-اگر نظام پہلے سے [نظام ہم آہنگی سرٹیفیکیشن](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت چل رہا ہو — بشمول تسلیم، مشروط تسلیم، یا ایسی دوبارہ توثیق جس کی میعاد نہ کٹی ہو — اس نظام کے فعال دائرے پر مادی تصدیق شدہ عدمِ اطاعت **لازمی** طور پر [باب ہشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) کی کیفیت کی پیمائش میں **اس نظام** کے لیے جانی چاہیے۔ صرف وہ حقائق داخل ہو سکتے ہیں جو [تصدیق شدہ ان پٹ گیٹ](../../core_10_standing_assessment.md#verified-inputs-for-standing) پاس کریں۔ کیفیت باب ہشتم اور نہم کے تحت ناپیں اور لاگو کریں۔ دوبارہ کھولنا، واپسی، یا دیگر سرٹیفیکیشن نتائج [باب ہفتم](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) کے پاس رہتے ہیں۔ وہ اس نظام کے کیفیت کے ریکارڈ کی جگہ نہیں لیتے۔
+اگر کوئی نظام پہلے ہی [نظامی ہم آہنگی کی سند](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت چل رہا ہو — جس میں سند، مشروط سند، یا ایسی دوبارہ سند شامل ہے جس کی مدت ختم نہ ہوئی ہو — تو اس نظام کے عملی دائرے میں موجود مادی اور تصدیق شدہ عدم تعمیل کو **اسی نظام** کے لیے [باب دہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) کی حیثیتی پیمائش میں **شامل ہونا لازم ہے**۔ صرف وہ حقائق شامل ہو سکتے ہیں جو [تصدیق شدہ ان پٹ گیٹ](../../core_10_standing_assessment.md#verified-inputs-for-standing) سے گزریں۔ [باب دہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) کے تحت حیثیت کی پیمائش کریں؛ اس کے انضمام اور اثرات [باب یازدہم](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) کے تحت لاگو کریں۔ دوبارہ کھولنا، واپس لینا، یا سند کے دیگر نتائج [باب نہم](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) کے تحت رہتے ہیں۔ وہ اس نظام کے حیثیتی ریکارڈز کی جگہ نہیں لیتے۔
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 پہلی سرٹیفیکیشن پر کیفیت کے اثرات
 
-اگر نظام ابھی اپنی **پہلی** [نظام ہم آہنگی سرٹیفیکیشن](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) میں ہو اور ابھی تسلیم نہ ہوا ہو — بشمول جہاں تسلیم ملتوی یا رد ہو — تصدیق شدہ عدمِ اطاعت بنیادی طور پر باب ہفتم کے تحت **سرٹیفیکیشن نتیجہ** طے کرتی ہے۔ وہ نتیجہ مشروط تسلیم، ملتوی تسلیم، عدمِ تسلیم، یا ملتا جلتا نتیجہ ہو سکتا ہے۔ وہ سرٹیفیکیشن ریکارڈ پھر بھی [باب ہفتم §8](../../core_09_b_system_alignment_certification_record_process.md#8-relationship-to-standing) کے تحت تصدیق شدہ کیفیت ان پٹ دے سکتے ہیں جب حقائق سہارا دیں۔ یہ باب وہی کیفیت کے ریکارڈ نہیں مانگتا جو پہلے سے سرٹیفائیڈ چلتے نظام کو ملنے چاہییں۔
+اگر نظام ابھی اپنی **پہلی** [نظامی ہم آہنگی کی سند](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے عمل میں ہے اور اسے ابھی سند نہیں ملی — بشمول سند مؤخر یا مسترد ہونے کی صورت — تو تصدیق شدہ عدم تعمیل بنیادی طور پر باب نہم کے تحت **سند کے نتیجے** کا تعین کرتی ہے۔ یہ نتیجہ مشروط سند، مؤخر سند، عدمِ سند، یا اس سے ملتا جلتا ہو سکتا ہے۔ سند عطا ہونے تک، [باب نہم §10 حیثیت سے تعلق](../../core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing) کے مطابق یہ سندی ریکارڈ حیثیتی ان پٹ فراہم نہیں کرتے؛ یہ دفعہ صرف سند یافتہ نظاموں سے حیثیتی ان پٹ جوڑتی ہے۔ مشروط سند سمیت سند عطا ہونے کے بعد [§3.1 پہلے سے سند یافتہ نظاموں کے حیثیتی اثرات](#31-standing-effects-for-already-certified-systems) لاگو ہوتے ہیں۔ یہ باب وہی حیثیتی ریکارڈز لازم نہیں کرتا جو پہلے سے سند یافتہ اور چلتے نظام کے لیے درکار ہیں۔
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 شعوری وجودوں اور اداروں کے لیے کیفیت کے اثرات
@@ -258,7 +258,7 @@
 - چھپانا
 - قابلِ عمل روک صلاحیت
 
-ادارے کی کیفیت متاثر ہوتی ہے جب ادارہ وہ موضوع ہو جس کا جائزہ ہو رہا ہو، یا جب اسے عدمِ اطاعت نمونے کا ذریعہ تصدیق کیا جائے۔ ادارہ جاتی ریکارڈ انفرادی شعوری وجود ریکارڈ سے الگ سراغ لگانے کے قابل رہتے ہیں۔ وہ صورتیں [باب ہشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) اور [باب نہم](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) کے تحت لاگو کریں۔ دریافت پروفائل رہنمائی اور آڈٹ میں مدد دیتی ہے۔ وہ خود کیفیت نتائج، نشستیں، تالے، گیٹ، یا تدارک نہیں ٹھہراتی۔
+ادارے کی کیفیت متاثر ہوتی ہے جب ادارہ وہ موضوع ہو جس کا جائزہ ہو رہا ہو، یا جب اسے عدمِ اطاعت نمونے کا ذریعہ تصدیق کیا جائے۔ ادارہ جاتی ریکارڈ انفرادی شعوری وجود ریکارڈ سے الگ سراغ لگانے کے قابل رہتے ہیں۔ وہ صورتیں [باب دہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) اور [باب یازدہم](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) کے تحت لاگو کریں۔ دریافت پروفائل رہنمائی اور آڈٹ میں مدد دیتی ہے۔ وہ خود کیفیت نتائج، نشستیں، تالے، گیٹ، یا تدارک نہیں ٹھہراتی۔
 
 <a id="34-operational-constraints"></a>
 #### 3.4 عملی پابندیاں

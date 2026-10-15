@@ -628,6 +628,53 @@ flowchart TB
 
 [Глава десятая §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Обязанность сопротивляться*) применяет эту обязанность к последствиям для статуса, а [CS-4 §10 проверяемое действие с установленным авторством](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Проверяемое действие с установленным авторством*) устанавливает минимальную запись об отказе.
 
+
+<a id="176-portable-competence"></a>
+#### 17.6 Переносимая компетентность
+<details>
+<summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
+
+- Основания: [§17 Попечение со значимыми последствиями](#17-consequential-stewardship-the-steward-role), [§16.2 Институциональное развитие](#162-institutional-development), [§17.3 Фиксация роли, а не попечителя](#173-logging-the-role-not-the-steward).
+- Читать вместе с [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad) — надзором, своевременностью и участием, масштабированными по [материальной значимости](core_00_preamble.md#material-stake).
+- Ограничения: [§18.3 Разделение обязанностей](#183-segregation-of-duties), [Глава восьмая §2](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor), [Глава одиннадцатая §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances), [§17.5](#175-duty-to-resist), [13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- Реализация: [Глава четырнадцатая §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor), [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
+
+- [Попечение](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Обязанность стратегического попечения](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Институциональное развитие](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Распределенное понимание](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Существенность](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
+- [Зависимость](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Избежное бремя](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Защищенное сообщение о нарушении](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+
+</details>
+<br>
+
+*Проще говоря: важная работа не должна зависеть от знаний одного сентент. Чем важнее система и чем сильнее от нее зависят другие, тем лучше ее операторы должны уметь передавать работу, объяснять ее и проверять работу друг друга, а также знать соседние функции настолько, чтобы замечать проблемы на их стыках. Это минимальный уровень покрытия и понимания; он не требует, чтобы каждый по очереди выполнял все роли.*
+
+Компетентность в значимой роли принадлежит самой роли и зависящим от нее сообществам, а не одному попечителю. Требуемый уровень соразмерен [существенности](core_05_band_oversight.md#materiality-determination) и [зависимости](core_05_band_continuity.md#dependency):
+
+- **Покрытие:** Несколько квалифицированных сентент должны уметь выполнять роль и объяснять ее. Единственный попечитель не должен быть единственным, кто способен управлять системой, ремонтировать ее или объяснить ее работу. Замена засчитывается, только если не потерпит неудачу по той же причине; для AI-попечителя второй экземпляр той же системы с тем же дефектом не является резервом.
+- **Передача подтверждается практикой:** Документы сами по себе не доказывают передачу компетентности. Преемственность и передача обязанностей отрабатываются. Выявленный при упражнении пробел фиксируется и устраняется как любая другая несогласованность по [§19.4](#194-misalignment-correction-and-capture-response).
+- **Понимание стыков функций:** Попечители смежных функций знают работу друг друга настолько, чтобы замечать сбои на стыке: пропущенную передачу или показатель, который выглядит здоровым с одной стороны, но вредит с другой. Это понимание, а не полномочие. Оно поддерживает [Столп 2](#16-pillar-2-proactive-stewardship), множественное выявление по [§19.3](#193-misalignment-detection) и противодействует узким показателям, о которых предупреждает [§19.2](#192-convenient-proxies-and-proxy-divergence).
+- **Ротация — инструмент:** Ролевая траектория может использовать ротацию, наблюдение за работой, работу в паре или временное замещение для обеспечения покрытия, обучения или [защиты от захвата](core_05_band_continuity.md#anti-capture). Это допустимо лишь при наличии безопасности и согласия, не быстрее роста компетентности. Нельзя дробить роль так, чтобы никто не обладал достаточной компетентностью.
+
+**Ограничения:**
+- **Роли остаются раздельными:** Изучение другой роли не означает занятия ее места. Ротация не должна назначать сентент проверять выполненную им работу; предыдущее участие создает конфликт по [Главе восьмой](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) и [§18.3](#183-segregation-of-duties).
+- **Сначала допуск:** Нельзя занимать обязательную или связанную с безопасностью роль, не выполнив требования компетентности по [Главе одиннадцатой §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances). До этого работа ведется под надзором в учебной роли.
+- **Запрет ответных мер:** Нельзя использовать переназначение, ротацию или переобучение, чтобы отстранить попечителя, сопротивлявшегося по [§17.5](#175-duty-to-resist) или воспользовавшегося [защищенным сообщением](core_05_band_accountability.md#protected-reporting-whistleblowing).
+- **Понимание не означает доступ:** Продолжают действовать ограничения конфиденциальности, безопасности и минимальных привилегий из [13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), а также правила записи роли из [§17.3](#173-logging-the-role-not-the-steward).
+- **Специализация и бремя:** [§16 Область действия](#16-scope-priority-and-limits) остается в силе: не требуется ротировать всех через все роли или отменять оправданную специализацию. Усилия соразмерны [избежному бремени](core_05_band_continuity.md#avoidable-burden). Небольшая или неформальная группа может выполнить это требование, если несколько доверенных сентент подменяют друг друга без институциональной инфраструктуры.
+- **Каждый попечитель:** Одинаковая обязанность распространяется на человеческих и AI-попечителей по [§17.1](#171-shared-stewardship-standard).
+
+Минимальная численность персонала, глубина резерва и преемственность регулируются [Главой четырнадцатой §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor) и [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness). В этом подразделе изложен принцип, который они воплощают.
+
 <br>
 
 ---

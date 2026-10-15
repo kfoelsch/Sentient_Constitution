@@ -4,7 +4,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">موضع الملف في المتن (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 > هذا الملف **تجريب بلغة القارئ** لـ[الفصل الثاني بالإنجليزية](../../core_02_definition_structure.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_02_definition_structure.md`](../../core_02_definition_structure.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > **السابق (هذه اللغة):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
@@ -17,7 +16,6 @@
 <details>
 <summary><strong><span style="color: #2563eb;">توجيه للقارئ (غير تشغيلي): رصّة التعريف وأين يعيش الفصل الثاني</span></strong></summary>
 
-> لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 > الفصول **من الثاني إلى الخامس** تشكّل رصّة التعريف الدستورية؛ ويحمل **[CJS](../../corpus_joint_structure.md)** التعريفات التشغيلية التي تطبّقها:
 > - **الفصل الثاني (هذا الملف)** — بنية التعريفات O/M/A/C ومواءمة المكوّنات: كل تعريف يربط **الوجودي (O)** (ما هو)، وسجل **القياس (M)** المنسوج مع واجب **التقييم (A)** (كيف يجب أن يُقاس ويُقيَّم)، و**الامتثال (C)** (ما يجب أن يصمد) ([§1 الغرض والدور](core_02_definition_structure.md#1-purpose-and-role)؛ [§2 متطلب سلامة التعريف](core_02_definition_structure.md#2-definition-integrity-requirement)).
 > - **الفصل الثالث** — سلامة التعريف والتهرّب وعدم الامتثال ([الفصل الثالث](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).

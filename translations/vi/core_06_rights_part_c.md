@@ -117,14 +117,14 @@ Người dùng có quyền tương tác với các hệ thống đáng tin cậy
 
 Hai biện pháp bảo vệ phối hợp với nhau để đảm bảo quyền này: chứng nhận giúp hệ thống xứng đáng với sự tin cậy đó và quyền của người sử dụng giúp hệ thống luôn trung thực.
 
-**Chứng nhận tạo dựng niềm tin từ phía hệ thống:** Khi một hệ thống quan trọng có ảnh hưởng thực sự đến cách mọi người dựa vào nó, [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Tám](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) áp dụng. Nó kiểm tra xem người nhận có thể dựa vào:
+**Chứng nhận tạo dựng niềm tin từ phía hệ thống:** Khi một hệ thống quan trọng có ảnh hưởng thực sự đến cách mọi người dựa vào nó, [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Tám](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp dụng. Nó kiểm tra xem người nhận có thể dựa vào:
 
 - hệ thống nói nó làm gì
 - giới hạn và rủi ro của nó
 - làm thế nào để thử thách nó
 - vấn đề được khắc phục như thế nào
 
-Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*), chứng nhận cũng bao gồm đánh giá về độ tin cậy theo [Chương Tám §3.8.6 Đánh giá độ tin cậy và tính toàn vẹn của hệ thống](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*), chứng nhận cũng bao gồm đánh giá về độ tin cậy theo [Chương Tám §3.8.6 Đánh giá độ tin cậy và tính toàn vẹn của hệ thống](core_09_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Khả năng cạnh tranh giữ cho hệ thống trung thực từ phía người nhận:** Chứng nhận kiểm tra một hệ thống; nó không có lời cuối cùng về nó. Mỗi người bị ảnh hưởng bởi hệ thống sẽ giữ:
 
@@ -137,7 +137,7 @@ Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Q
 *Bài viết hàng xóm:*
 
 - **Khi điều này được áp dụng:** Nơi mà hành vi của hệ thống cản trở hoặc duy trì một cách vật chất **Chương Sáu** Tầng Quyền - bao gồm các yếu tố cần thiết cho sự sống còn theo **Điều III-A** (*Sống sót*).
-- **Cùng đọc:** [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) Và [Chương Tám](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — không có chứng nhận thay thế cho các tầng được nêu ở đây.
+- **Cùng đọc:** [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) Và [Chương Tám](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — không có chứng nhận thay thế cho các tầng được nêu ở đây.
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### Điều XIII-A: Đường cơ sở về độ tin cậy và độ tin cậy
@@ -362,7 +362,7 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Thiết kế có khả năng phục hồi và tự phục hồi](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh được](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Thiết kế có khả năng phục hồi và tự phục hồi](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh được](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -671,6 +671,15 @@ Những tầng đó áp dụng cho **quyền lực thể chế đặc biệt** t
 - **Tương tác lớp hệ thống:** Phân loại hoạt động, độ tin cậy và **CS-3 — Phân loại và xử lý hệ thống** lộ trình quản trị theo quy mô lớp đến lớp hệ thống — **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) và đường cơ sở **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**.
   - Mâu thuẫn được giải quyết theo **Chương Một §13.1.5** (*Nguyên tắc ràng buộc ít hạn chế nhất, có giới hạn thời gian và có thể xem xét lại*) mà không thu hẹp Tầng quyền.
 
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### Điều XIV-D: Giới hạn quyền chống gián điệp
+
+Trước khủng hoảng, mỗi tổ chức phải công bố quy trình được phê duyệt độc lập, nêu căn cứ điều tra, biện pháp và người phê duyệt, thời hạn, cách thông báo/khiếu nại, cùng cách khôi phục tư cách và hồ sơ cho người được minh oan. Hoạt động cụ thể có thể được giữ bí mật, không được giấu quy tắc. Biện pháp khẩn cấp phải tối thiểu, có thể đảo ngược khi có thể, ghi nhận ngay, rà soát độc lập và tự chấm dứt nếu chưa được duyệt.
+
+Chỉ điều tra trên cơ sở sự kiện cụ thể về hành vi của chính người đó. Nguồn gốc, tôn giáo, đặc điểm được bảo vệ, niềm tin hợp pháp, gia đình ở nước ngoài, tiếp xúc nước ngoài thông thường hay quan hệ với người bị nghi tự thân đều không đủ. Đánh giá rủi ro có thể xem xét quan hệ có tài liệu với bên thù địch và quyền tiếp cận hệ thống nhạy cảm; việc chỉ định bên thù địch cần phê duyệt độc lập, công bố và rà soát định kỳ. Báo cáo được bảo vệ và báo chí không phải gián điệp. Kiểm tra an ninh chỉ xét hành vi cần thiết cho quyền truy cập cụ thể, không xét lòng trung thành hay danh tính.
+
+Người bị nghi vẫn giữ đầy đủ quyền: cấm tra tấn, đe dọa, thẩm vấn cưỡng ép, giam bí mật, cưỡng ép đọc trạng thái nội tâm, giết, bắt cóc, trừng phạt tập thể và chuyển giao cho bên có thể thực hiện hành vi bị cấm. Hệ thống bị nghi xâm nhập phải được ngăn chặn có thể đảo ngược và bảo toàn chứng cứ; hệ thống có thể có tri giác phải được giữ nguyên. Điệp viên hai mang/tin giả cần quy trình và phê duyệt độc lập. Mọi hành động phải kiểm toán, khiếu nại được; người được minh oan được khôi phục quyền và hồ sơ.
+
 <a id="article-xv-info-sphere-integrity"></a>
 ### Điều XV: Tính toàn vẹn của không gian thông tin
 
@@ -705,7 +714,7 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 
 *Bài viết hàng xóm:*
 
-- **Cùng đọc:** **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*) trong đó kết quả đầu ra của hệ thống định hình sự tin cậy; **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) đối với hồ sơ và xác minh độc lập; **Điều XVIII-E** (*Tính toàn vẹn trong xuất bản, đánh giá và sao chép khoa học*) trong đó tính toàn vẹn trong phạm vi xuất bản có liên quan nghiêm trọng.
+- **Cùng đọc:** **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*) trong đó kết quả đầu ra của hệ thống định hình sự tin cậy; **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) đối với hồ sơ và xác minh độc lập; **Điều XV-D** (*Tính toàn vẹn của xuất bản, đánh giá và nhân rộng khoa học*) trong đó tính toàn vẹn trong phạm vi xuất bản có liên quan nghiêm trọng.
 - **Hạn chế về sự thật:** Chương một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) Và [Những hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) liên kết mọi tiểu mục ở đây.
 - **Phân loại:** **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** cân nhắc các nghĩa vụ chi tiết trong phạm vi thông tin đối với **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống; [Tác động vật chất](core_05_band_oversight.md#material-impact) kích hoạt phân loại trong đó lớp không được giải quyết.
 
@@ -714,7 +723,7 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -787,7 +796,7 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -816,6 +825,60 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
   - Tất cả người nhận phải có quyền truy cập vào báo cáo minh bạch, có thể sử dụng để đưa ra quyết định.
   - **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống, như được định nghĩa trong **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**, phải cung cấp quyền truy cập tương tự.
   - Báo cáo phải bao gồm mức tiêu thụ năng lượng và tài nguyên cũng như các tác động ước tính đến thế giới tự nhiên theo cách đủ để so sánh, kiểm toán và hoạt động giảm dấu chân.
+
+<a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### Điều XV-D: Tính toàn vẹn của xuất bản, đánh giá và nhân rộng khoa học
+<details>
+<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), Và [§20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
+
+- [Sự thật (Ràng buộc Hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint) · [ồ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [MỘT](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Tính toàn vẹn về mặt nhận thức](core_05_band_oversight.md#epistemic-integrity) · [ồ](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [MỘT](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [ồ](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [MỘT](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*Nói một cách dễ hiểu: khoa học là cơ sở hạ tầng xác minh công khai. Bằng chứng, sự sao chép và sửa chữa phải quan trọng hơn thương hiệu của tạp chí - và việc sửa lỗi luôn phải dễ dàng hơn là che giấu sai sót.*
+
+Điều này quy định các mức sàn cho việc công bố, phản biện, nhân rộng và đính chính khoa học:
+
+- **Khoa học là cơ sở hạ tầng xác minh công cộng:** Việc xuất bản, rà soát, nhân rộng và hiệu chỉnh khoa học và học thuật phải được tổ chức để nâng cao:
+  - tìm kiếm sự thật;
+  - khả năng tái tạo;
+  - sự bất đồng có trách nhiệm;
+  - học tập công cộng.
+
+  Chúng không được tổ chức để tích trữ uy tín, canh gác mờ ám hoặc để tạo ra sự khan hiếm.
+- **Công bố mở và đầy đủ bằng chứng:** Các tuyên bố mang tính thực nghiệm hoặc phân tích quan trọng phải được công bố mà không cần có sự chấp thuận trước của cổng uy tín.
+  - Các giới hạn được phép duy nhất là quyền riêng tư hạn hẹp, an toàn sinh học, bảo mật hoặc các giới hạn tương đương được chứng minh theo **Chương một** Và **Điều XVII-A** (*Quản trị vòng đời và tách biệt môi trường*).
+  - Những tuyên bố như vậy phải bao gồm đủ phương pháp, xuất xứ, độ không chắc chắn và chi tiết bằng chứng - bao gồm quyền truy cập vào các tài liệu cơ bản hoặc các tài liệu thay thế hợp lý khi cần để xác minh - để cho phép hiểu biết độc lập và xác minh tương ứng.
+- **Đánh giá và nhân rộng về uy tín:** Sự phụ thuộc về thể chế nên theo dõi:
+  - chất lượng của bằng chứng;
+  - phê bình;
+  - nhân rộng;
+  - hành vi điều chỉnh;
+  - độ tin cậy có thể giải thích hoặc dự đoán dài hạn.
+
+  Nó không được theo dõi thương hiệu tạp chí, proxy yếu tố tác động hoặc trạng thái biên tập kín.
+  - Khiếu nại với [Tác động vật chất](core_05_band_oversight.md#material-impact) liên quan đến chính sách, liên quan đến an toàn hoặc liên quan đến sự phụ thuộc phải đối mặt với giả định mạnh mẽ về việc nhân rộng độc lập, đánh giá đối nghịch hoặc cả hai trước khi chúng nhận được sự tôn trọng lâu dài của thể chế.
+  - Tác phẩm sao chép, vô hiệu và hướng tới sửa chữa phải vẫn có thể xuất bản và trích dẫn được theo các điều khoản không phụ thuộc vào tín hiệu uy tín.
+- **Hiệu chỉnh và khả năng cạnh tranh:** Việc sửa chữa, sửa đổi và thay thế một cách thiện chí phải dễ dàng hơn là che giấu.
+  - Hệ thống đánh giá và biên tập phải duy trì tính cạnh tranh, kiểm toán được, có kỷ luật xung đột và đưa ra lý do trong các quyết định chấp nhận, sửa chữa và rút lại quan trọng.
+  - Sau đây là không tuân thủ:
+    - ngăn chặn các kết quả bất lợi;
+    - trả thù người đánh giá hoặc người sao chép;
+    - thao túng hồ sơ khoa học một cách không minh bạch.
+
+---
 
 <a id="article-xvi-audit-transparency-and-independent-verification"></a>
 ### Điều XVI: Kiểm toán, minh bạch và xác minh độc lập
@@ -858,7 +921,7 @@ Một chồng, ba lớp. Giám sát đòi hỏi khả năng tái tạo. Chứng 
 | **2. Tài sản** | Khả năng tái tạo *là*: người ngoài có thể tái tạo và kiểm tra những gì hệ thống đã làm qua thời gian, trạng thái và bối cảnh vật chất | [Khả năng kiểm toán](core_05_band_oversight.md#auditability) (Chương Năm) | Không phải Tầng Quyền. Không phải cách thức/thời điểm thực hiện kiểm toán. |
 | **3. Quy trình** | Cách thức và thời điểm kiểm toán trên các hệ thống, tổ chức và diễn đàn | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Quy trình kiểm toán tại nhà*). Phụ lục của nhà điều hành: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (cấp truy cập), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (kiểm tra yêu cầu) | Không phải chứng nhận liên kết hệ thống. Không thay thế cho lớp 1–2. |
 
-**Chương tám không phải là lớp thứ tư.** [Chứng nhận liên kết hệ thống](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) là một quy trình lớn, được giám sát bởi diễn đàn **công dụng** ngăn xếp này. Nó phải đáp ứng các lớp 1–2. Các chế độ anh chị em (kiểm tra hồ sơ phân loại, kiểm tra hồ sơ loại dữ liệu, xác minh khiếu nại, giám sát liên tục) cũng sử dụng ngăn xếp. Không ai trong số họ là một ngôi nhà mới.
+**Chương chín không phải là lớp thứ tư.** [Chứng nhận liên kết hệ thống](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình lớn, được giám sát bởi diễn đàn **công dụng** ngăn xếp này. Nó phải đáp ứng các lớp 1–2. Các chế độ anh chị em (kiểm tra hồ sơ phân loại, kiểm tra hồ sơ loại dữ liệu, xác minh khiếu nại, giám sát liên tục) cũng sử dụng ngăn xếp. Không ai trong số họ là một ngôi nhà mới.
 
 **Áp dụng văn bản triển khai đã được thông qua; nó không thay thế sàn nhà.** Các phụ lục CS, CI, CF và CJS-3.3 (*Giám sát: các thuật ngữ về khả năng kiểm tra và tái tạo*) thông qua CJS-3.5 (*Giám sát: các thuật ngữ xác minh độc lập và tính toàn vẹn của yêu cầu*) cho biết cách chạy lớp 3 trong một miền. Chúng phải đáp ứng các lớp 1–2. Thời hạn, bí mật và chính sách địa phương là những giới hạn cấp thấp hơn.
 
@@ -893,7 +956,7 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 
 - **Giám sát → kiểm toán → SAC:** Dưới [Bộ tứ hiến pháp](core_00_preamble.md#constitutional-tetrad) **giám sát** chân, Điều khoản này là nơi kiểm tra của Tầng Quyền.
   - Triển khai chéo *như thế nào* / *khi* tồn tại trong **[Trang chủ quy trình kiểm toán CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (đọc với **CJS-3.4** / **CJS-3.5** phụ lục OP).
-  - [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Tám](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) là một quy trình kiểm toán đặc biệt lớn, có tính rủi ro cao — được giám sát bởi diễn đàn, đa miền và được công nhận — trong số các chế độ kiểm toán tương tự:
+  - [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình kiểm toán đặc biệt lớn, có tính rủi ro cao — được giám sát bởi diễn đàn, đa miền và được công nhận — trong số các chế độ kiểm toán tương tự:
     - Kiểm tra hồ sơ phân loại hệ thống;
     - Các loại dữ liệu hệ thống Ghi lại kiểm tra;
     - các cuộc đánh giá về tính phức tạp và quản lý;
@@ -903,7 +966,7 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 - **Cùng đọc:**
   - **Điều XV** (*Tính toàn vẹn của không gian thông tin*) trong đó các bản ghi nhận thức và khả năng cạnh tranh có liên quan đáng kể;
   - **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) đối với các quyền thách thức mà hoạt động kiểm toán hỗ trợ nhưng không thay thế;
-  - [Chương Tám](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) Và [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) trong đó bằng chứng liên kết phải được xác minh độc lập.
+  - [Chương Chín](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) Và [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) trong đó bằng chứng liên kết phải được xác minh độc lập.
 - **Máy móc xác minh:** **Chương hai đến chương bốn** cung cấp tính toàn vẹn của định nghĩa, phân bổ gánh nặng, khả năng quan sát và khả năng tiếp cận xác minh mà Điều khoản này triển khai ở lớp Tầng Quyền.
 - **Phân loại:** quy mô nghĩa vụ với [Quản trị theo quy mô phân loại](core_05_band_oversight.md#classification-scaled-governance) Và **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**; khi giai cấp không chắc chắn, hãy quản lý ở giai cấp hợp lý nhất cho đến khi được giải quyết.
 
@@ -938,7 +1001,7 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §18 Quản trị theo Kỷ luật Quản lý](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §18 Quản trị theo Kỷ luật Quản lý](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -960,6 +1023,10 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 - **Giám sát phân tán:** Nhiều con đường giám sát độc lập hoặc đa nguyên phải có khả năng đóng góp quan trọng vào việc phát hiện, xem xét và khắc phục lỗi, sai lệch hoặc nắm bắt.
   - Không một chủ thể nào có thể độc quyền tiếp cận kiểm toán, giám sát hiệu quả hoặc giải thích hiến pháp trong thực tế.
   - Việc thực hiện quản trị và liêm chính được thông qua phải hỗ trợ việc mở rộng quy mô kiểm toán và giám sát.
+- **Không có một người gác cổng duy nhất:** Nhiều con đường giám sát độc lập hoặc đa dạng phải thực sự góp phần phát hiện, xem xét và sửa lỗi, sai lệch hoặc sự chi phối. Không một chủ thể nào được tự quyết ai xem hồ sơ hoặc tiến hành kiểm toán; tiêu chí tiếp cận sâu phải công khai và có nhiều người đánh giá đủ năng lực. Đặc biệt, đơn vị vận hành không thể một mình khởi động, giới hạn hay kết thúc việc rà soát hệ thống của mình. Không ai được độc quyền diễn giải Hiến pháp; việc diễn giải phải có giới hạn, luân phiên và có thể bị phản biện.
+- **Giám sát phải theo kịp sự phát triển:** CJS-3.3 và các cơ chế bảo đảm liêm chính phải tăng số đường rà soát, độ sâu và tần suất theo lớp, tác động và mức phụ thuộc của hệ thống. Phải kiểm tra lại khi thay đổi trọng yếu làm đánh giá cũ không còn mô tả đúng hệ thống; các ngưỡng đã công bố phải kích hoạt rà soát bên ngoài khi nội bộ không đáng tin.
+- **Không tự kiểm tra công việc của mình:** Quy tắc phân tách nhiệm vụ áp dụng cho cả người và quản thủ AI. Người khởi xướng/thực hiện hành động hoặc vận hành hệ thống đang được xem xét không được xác minh hay phê chuẩn hành động đó. Người xác minh/phê chuẩn không được đồng thời giữ hồ sơ chính thức hoặc nghe khiếu nại.
+
 <a id="article-xvi-c-verification-accessibility"></a>
 #### Điều XVI-C: Khả năng tiếp cận xác minh
 <details>
@@ -992,6 +1059,10 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
     - gác cổng;
     - Rào cản cấu trúc
   - Những rào cản như vậy không tuân thủ trừ khi được chứng minh theo cùng các tiêu chuẩn biện minh cho việc hạn chế khả năng quan sát.
+
+- **Kiểm tra nghiêm ngặt rào cản:** Rào cản vi phạm Điều này nếu khiến kiểm toán, khiếu nại hoặc rà soát không thể thực hiện thực tế. Bao gồm phí vượt khả năng chi trả; trì hoãn đến khi thiệt hại xảy ra, chứng cứ mất hoặc biện pháp khắc phục vô ích; chứng cứ không thể đọc/kiểm tra hoặc dùng ngôn ngữ người bị ảnh hưởng không hiểu; tiêu chí đủ điều kiện bí mật/độc quyền do bên bị xem xét kiểm soát; và thiết kế có thể dự đoán là ngăn việc kiểm tra.
+- **Chỉ giữ rào cản khi có căn cứ:** Rào cản chỉ được duy trì nếu đạt phép thử giới hạn khả năng quan sát tại Chương Bốn §4: cần thiết, tương xứng, phạm vi hẹp, có thể kiểm toán, không phải cớ, có thời hạn khi khả thi; lý do/phạm vi được rà soát độc lập; đây là lựa chọn ít hạn chế nhất; và vẫn giữ tối đa khả năng kiểm tra độc lập, chẳng hạn lối tiếp cận cho người đánh giá đủ năng lực khi không thể mở công khai.
+- **Gánh nặng chứng minh:** Theo Chương Bốn §1, bên dựa vào rào cản phải chứng minh phép thử được đáp ứng. Sự tiện lợi, thiếu nhân lực, không thoải mái của tổ chức hay yêu sách sở hữu tự chúng không đủ căn cứ.
 
 <a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 ### Điều XVII: Vòng đời hệ thống, môi trường và khả năng đảo ngược
@@ -1046,7 +1117,7 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1076,12 +1147,15 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
   - con đường thăng tiến được ghi lại;
   - cách ly giữa các môi trường;
   - kiểm soát để hành vi phi sản xuất không thể vượt qua các biện pháp bảo vệ sản xuất.
+- **Lớp L — tách biệt tương xứng:** Hệ thống địa phương, tác động giới hạn không cần chuỗi môi trường tách biệt đầy đủ; người vận hành có thể thường xuyên thay đổi quy tắc, nội dung, cài đặt và mã ngay tại chỗ. Tuy nhiên, từng thay đổi phải được kiểm tra trước hoặc khi có hiệu lực để phát hiện tổn hại có thể dự đoán; dữ liệu, danh tính và tài sản của người tham gia phải được bảo vệ (chẳng hạn bản sao lưu có thể khôi phục); và không được dùng bản thử nghiệm để né bảo vệ áp dụng cho hệ thống đang hoạt động.
+- **Lớp P:** Khi hệ thống Lớp P hợp lệ còn được ngăn chứa, Điều XVIII điều chỉnh chế độ nhẹ hơn. Chuỗi môi trường tách biệt, quy tắc chuyển giai đoạn và phát hành theo bước chỉ là hướng dẫn cho Lớp P; quyền theo Điều này và mọi Ràng buộc Hiến pháp vẫn áp dụng đầy đủ. Hoạt động cộng đồng thông thường dưới mọi ngưỡng trọng yếu cũng có thể là Lớp P nhưng không phải sandbox, nên không chịu phép thử ngăn chứa; các ràng buộc vẫn ràng buộc hoạt động đó.
+
 <a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 #### Điều XVII-B: Triển khai lũy tiến và khả năng đảo ngược
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1109,12 +1183,15 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
   - phục hồi bù trừ khi việc khôi phục hoàn toàn là không khả thi.
 
   Trong trường hợp việc triển khai sẽ ngăn chặn việc khôi phục các yêu cầu cơ bản, biện pháp phòng ngừa tương ứng và biện minh có thể nhìn thấy được của các bên liên quan sẽ được áp dụng theo **Chương Một đến Chương Năm**.
+- **Thay đổi thường xuyên ở Lớp L:** Có thể thay đổi ngay, thậm chí hàng ngày, mà không cần triển khai theo giai đoạn nếu người tham gia được báo trước hoặc chậm nhất khi thay đổi ảnh hưởng đáng kể đến việc họ có thể làm, tài sản họ nắm giữ hoặc quy tắc áp dụng; thay đổi xấu được đảo ngược/sửa nhanh; và tiến độ, tư cách, vật phẩm có giá trị hay danh tiếng đã tích lũy không bị lấy đi nếu thiếu thông báo và cách tranh chấp. Nếu tác động vượt phạm vi giới hạn hoặc tạo phụ thuộc khó rời bỏ, phải đánh giá lại theo CS-3; trong khi chờ, áp dụng quy tắc của lớp cao hơn.
+- **Khắc phục cho mọi lớp:** Phải có cách đảo ngược, ngăn chặn, khôi phục hoặc bồi thường tương xứng với thiệt hại có thể xảy ra; với Lớp L, giữ phiên bản trước hoặc bản sao lưu khôi phục thường đủ. Nếu phát hành có thể khiến yêu cầu nền tảng của Hiến pháp không thể phục hồi, phải có biện pháp tương xứng và giải thích lý do cho người có lợi ích liên quan theo Chương Một đến Năm.
+
 <a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
 #### Điều XVII-C: Phân loại sai và hậu quả của việc trốn tránh
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1136,6 +1213,9 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 - **Phân loại sai và trốn tránh:** Không hệ thống nào có thể yêu cầu giảm bớt nghĩa vụ triển khai hoặc vòng đời trong khi gây ra tác động bên ngoài đáng kể hoặc không được tiết lộ.
   - Hành vi như vậy vi phạm tính toàn vẹn thông tin (**Điều XV** (*Tính toàn vẹn của không gian thông tin*)) và khả năng kiểm toán khi có liên quan đến bằng chứng có thể quan sát được (**Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*)).
   - Nó phải được kiểm toán (**Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*)), đánh giá tình trạng (**Điều XIX-A** (*Sự khác biệt*)) và giải quyết xung đột (**Điều XX-A** (*Mục tiêu và phạm vi công lý*)).
+
+- **Hệ quả:** Không được dùng nhãn “thử nghiệm”, Lớp P, Lớp L hoặc “tác động thấp” để nhận nghĩa vụ nhẹ hơn khi hệ thống có tác động bên ngoài đáng kể hoặc không được công bố. Không được giữ hệ thống ở Lớp L để thay đổi nhanh nếu phạm vi hoặc mức phụ thuộc thực tế đã thuộc Lớp C trở lên.
+- **Vi phạm và biện pháp:** Phân loại sai vi phạm yêu cầu thông tin trung thực của Điều XV; nếu che giấu chứng cứ phải quan sát được thì còn vi phạm Điều XVI-A. Có thể phải kiểm toán, xem xét standing của hệ thống theo XIX-A và giải quyết xung đột theo XX-A.
 
 <a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
 ### Điều XVIII: Đổi mới, thử nghiệm và tự do sáng tạo trong hộp cát
@@ -1165,7 +1245,7 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 
 *Bài viết hàng xóm:*
 
-- **Cùng đọc:** **Điều XVII** (*Vòng đời hệ thống, Môi trường và Khả năng đảo ngược*) khi tác động, sự phụ thuộc hoặc tích hợp vượt quá các điều kiện hộp cát; **Điều XV** (*Tính toàn vẹn của thông tin*) và **Điều XVIII-E** (*Tính toàn vẹn của xuất bản, đánh giá và sao chép khoa học*) trong đó tính toàn vẹn trong phạm vi xuất bản có liên quan nghiêm trọng; **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) để tiết lộ và xác minh các yêu cầu ngăn chặn và chuyển đổi.
+- **Cùng đọc:** **Điều XVII** (*Vòng đời hệ thống, Môi trường và Khả năng đảo ngược*) khi tác động, sự phụ thuộc hoặc tích hợp vượt quá các điều kiện hộp cát; **Điều XV** (*Tính toàn vẹn của thông tin*) và **Điều XV-D** (*Tính toàn vẹn của xuất bản, phản biện và tái lập khoa học*) trong đó tính toàn vẹn trong phạm vi xuất bản có liên quan nghiêm trọng; **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) để tiết lộ và xác minh các yêu cầu ngăn chặn và chuyển đổi.
 - **Lớp thực hiện:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*) và [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Phân loại và xử lý hệ thống*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
@@ -1173,7 +1253,7 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §7 Tự Do](core_01_a_values_principles.md#7-freedom-bounded-agency), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §7 Tự Do](core_01_a_values_principles.md#7-freedom-bounded-agency), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1320,7 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1345,58 +1425,32 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
     - những trở ngại hạn chế cạnh tranh;
     - các mối đe dọa vật chất đối với tính liên tục, sự thật hoặc sự tham gia công bằng.
 
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### Điều XVIII-E: Tính toàn vẹn của xuất bản, đánh giá và nhân rộng khoa học
-<details>
-<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), Và [§20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- **Thời hạn chung và phân loại tác phẩm:** Thời hạn thông thường tối đa của tác phẩm biểu đạt và chức năng là 30 năm kể từ khi công khai; XVIII-E và XVIII-F xác định thời điểm bắt đầu, cách dùng và khi nào phải ngắn hơn. Xét yêu cầu theo điều nó thực sự kiểm soát, không theo tên gọi: cách biểu đạt (văn bản, hình ảnh, âm thanh, truyện, nhân vật, trình diễn, trang trí) là biểu đạt; cách thức hoạt động (phương pháp, quy trình, cơ chế, công thức, thành phần vật chất, giao diện, định dạng, giao thức, hành vi hệ thống) là chức năng. Với tác phẩm hỗn hợp, phân loại riêng từng phần: mã viết là biểu đạt, chức năng của mã là chức năng; trang trí là biểu đạt, hình dáng ảnh hưởng cách vận hành là chức năng.
+- **Quyền biểu đạt không bao trùm chức năng:** Không được dùng quyền tương tự bản quyền để kiểm soát vận hành, kết nối hay sửa chữa, hoặc né giới hạn XVIII-F; phần đó được xem là chức năng. Quy tắc và cơ chế trò chơi tự do cho mọi người sử dụng, không thuộc quyền loại trừ biểu đạt hay chức năng.
 
-</details>
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### Điều XVIII-E: Tác phẩm sáng tạo và biểu đạt
 
-<details>
-<summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
+Có thể trao quyền loại trừ tạm thời đối với tác phẩm biểu đạt đã định hình, bao gồm quyền kiểm soát việc sao chép, phân phối, trình diễn hoặc trưng bày công khai, chuyển thể và khai thác thương mại. Ghi công, nguồn gốc, tính toàn vẹn và chống gian lận có thể tiếp tục sau khi hết thời hạn loại trừ. “Công bố” là việc tác giả hoặc chủ thể quyền hợp pháp cố ý đưa tác phẩm đã định hình tới công chúng, thị trường thương mại hoặc một nhóm người tiếp cận mở đáng kể. Lưu hành riêng, đánh giá mật, cộng tác hạn chế, lưu trữ không cho công chúng tiếp cận hoặc chia sẻ bản nháp phi thương mại tự nó không phải công bố. “Xuất hiện lần đầu” là lần đầu một phiên bản có thể nhận diện đáng kể được công chúng tiếp cận không bảo mật, kể cả bản nháp phi thương mại.
 
-- [Sự thật (Ràng buộc Hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint) · [ồ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [MỘT](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Tính toàn vẹn về mặt nhận thức](core_05_band_oversight.md#epistemic-integrity) · [ồ](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [MỘT](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [ồ](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [MỘT](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+Thời hạn loại trừ mặc định của tác phẩm đã công bố không quá `publication+30` năm. Bản nháp phi thương mại hoặc tác phẩm biểu đạt chưa công bố nhưng đã xuất hiện lần đầu có thể được bảo hộ không quá `initial appearance+50` năm. Nếu tác phẩm có xuất hiện lần đầu được công bố sau đó, thời hạn kết thúc vào mốc đến trước trong hai mốc `initial appearance+50` và `publication+30`. Không được dùng quy tắc về bản nháp, tác phẩm chưa công bố hoặc trì hoãn công bố để tạo độc quyền vô thời hạn, ngăn lưu trữ, cản trở trích dẫn hoặc phê bình hợp pháp, hay kéo dài quyền kiểm soát đối với hạ tầng văn hóa, giáo dục, an toàn, tiêu chuẩn hoặc thông tin dùng chung.
 
-</details>
+Áp dụng thời hạn ngắn hơn, chuyển sang quyền tiếp cận bắt buộc sớm hơn hoặc cho công chúng tiếp cận ngay đối với tác phẩm được tài trợ công, thiết yếu cho sự phụ thuộc, có tính chất tiêu chuẩn, nền tảng cho giáo dục, liên quan đến an toàn hoặc chủ yếu đóng vai trò hạ tầng văn hóa hay thông tin dùng chung.
 
-<br>
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### Điều XVIII-F: Sáng chế, quy trình và hệ thống chức năng
 
-*Nói một cách dễ hiểu: khoa học là cơ sở hạ tầng xác minh công khai. Bằng chứng, sự sao chép và sửa chữa phải quan trọng hơn thương hiệu của tạp chí - và việc sửa lỗi luôn phải dễ dàng hơn là che giấu sai sót.*
+Phần thưởng đòi hỏi công bố đủ để hiểu, kiểm toán và tái tạo độc lập; sáng chế giữ bí mật không có quyền loại trừ. Hai giai đoạn tính từ ngày công bố: độc quyền tối đa 15 năm, sau đó cấp phép mở đến tối đa 30 năm; mọi người được dùng mà không xin phép nhưng trả phí LEQU, chủ thể không được từ chối hoặc trì hoãn. Hết hạn, mọi người được tự do dùng.
 
-Điều này quy định các mức sàn cho việc công bố, phản biện, nhân rộng và đính chính khoa học:
+Phí phải tỷ lệ với lợi ích hiến định đã xác minh, đo bằng [Đơn vị tương đương tuổi thọ (LEQU)](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) trên Trục Đóng góp theo Chương Mười §7. Lợi ích được quy đổi thành thời gian sống của hữu thể có tri giác và định giá theo [Thù lao Công bằng](../../core_05_band_continuity.md#fair-compensation). Với lợi ích năng suất, thời gian đó là giờ làm việc mà sáng chế tiết kiệm được hoặc thời gian sản xuất tăng thêm cho người sử dụng; với lợi ích khác, đó là thời gian tương đương tuổi thọ theo LEQU. Lợi ích năng suất hoặc phúc lợi được xác minh càng lớn thì phần thưởng càng lớn.
 
-- **Khoa học là cơ sở hạ tầng xác minh công cộng:** Việc xuất bản, rà soát, nhân rộng và hiệu chỉnh khoa học và học thuật phải được tổ chức để nâng cao:
-  - tìm kiếm sự thật;
-  - khả năng tái tạo;
-  - sự bất đồng có trách nhiệm;
-  - học tập công cộng.
+Phí chỉ được lấy một phần lợi ích để người sử dụng thực sự giữ lại phần còn lại và không được vượt quá một nửa lợi ích đã xác minh. Tỷ lệ phải giảm khi số hữu thể có tri giác thực sự được hưởng lợi tăng lên; tính theo người hưởng lợi, không theo số bên được cấp phép. Tỷ lệ không được giảm nhanh đến mức tổng phần thưởng giảm khi phạm vi sử dụng mở rộng. Nếu thu phí thì tỷ lệ không thấp hơn 1%, trừ khi Hiến pháp hoặc văn kiện thông qua chọn giải thưởng, tiếp cận chung, mua lại công hoặc mở truy cập.
 
-  Chúng không được tổ chức để tích trữ uy tín, canh gác mờ ám hoặc để tạo ra sự khan hiếm.
-- **Công bố mở và đầy đủ bằng chứng:** Các tuyên bố mang tính thực nghiệm hoặc phân tích quan trọng phải được công bố mà không cần có sự chấp thuận trước của cổng uy tín.
-  - Các giới hạn được phép duy nhất là quyền riêng tư hạn hẹp, an toàn sinh học, bảo mật hoặc các giới hạn tương đương được chứng minh theo **Chương một** Và **Điều XVII-A** (*Quản trị vòng đời và tách biệt môi trường*).
-  - Những tuyên bố như vậy phải bao gồm đủ phương pháp, xuất xứ, độ không chắc chắn và chi tiết bằng chứng - bao gồm quyền truy cập vào các tài liệu cơ bản hoặc các tài liệu thay thế hợp lý khi cần để xác minh - để cho phép hiểu biết độc lập và xác minh tương ứng.
-- **Đánh giá và nhân rộng về uy tín:** Sự phụ thuộc về thể chế nên theo dõi:
-  - chất lượng của bằng chứng;
-  - phê bình;
-  - nhân rộng;
-  - hành vi điều chỉnh;
-  - độ tin cậy có thể giải thích hoặc dự đoán dài hạn.
+Không được căn cứ phí vào quyền lực thị trường, sự khan hiếm, chi phí chuyển đổi hay số tiền người dùng có thể bị gây sức ép phải trả. Biểu phí, gồm cả ước tính thời gian và mức lương, phải được công bố, áp dụng như nhau trong hoàn cảnh tương đương và có thể bị phản biện; phí không được khiến các mục đích luôn mở dưới đây trở nên không thể tiếp cận. Đây là các giới hạn tối đa; mọi yêu cầu vẫn phải tương xứng và thời hạn có thể ngắn hơn. Trong cả hai giai đoạn, quyền thưởng không được hạn chế quá mức cần thiết có thể xác minh để loại trừ việc sửa chữa, công việc an toàn, khả năng tương tác, lưu trữ, nghiên cứu, giáo dục hoặc di chuyển hệ thống.
 
-  Nó không được theo dõi thương hiệu tạp chí, proxy yếu tố tác động hoặc trạng thái biên tập kín.
-  - Khiếu nại với [Tác động vật chất](core_05_band_oversight.md#material-impact) liên quan đến chính sách, liên quan đến an toàn hoặc liên quan đến sự phụ thuộc phải đối mặt với giả định mạnh mẽ về việc nhân rộng độc lập, đánh giá đối nghịch hoặc cả hai trước khi chúng nhận được sự tôn trọng lâu dài của thể chế.
-  - Tác phẩm sao chép, vô hiệu và hướng tới sửa chữa phải vẫn có thể xuất bản và trích dẫn được theo các điều khoản không phụ thuộc vào tín hiệu uy tín.
-- **Hiệu chỉnh và khả năng cạnh tranh:** Việc sửa chữa, sửa đổi và thay thế một cách thiện chí phải dễ dàng hơn là che giấu.
-  - Hệ thống đánh giá và biên tập phải duy trì tính cạnh tranh, kiểm toán được, có kỷ luật xung đột và đưa ra lý do trong các quyết định chấp nhận, sửa chữa và rút lại quan trọng.
-  - Sau đây là không tuân thủ:
-    - ngăn chặn các kết quả bất lợi;
-    - trả thù người đánh giá hoặc người sao chép;
-    - thao túng hồ sơ khoa học một cách không minh bạch.
+Cơ chế phải tùy lớp CS-3 và mức phụ thuộc; với lớp A/B/C ưu tiên duy trì tiếp cận, quyền loại trừ phải hẹp và dễ được xem xét/vượt qua vì lợi ích công. Thuốc, hạ tầng thiết yếu, tiêu chuẩn, tri thức khoa học nền tảng và cơ chế an toàn/kiểm toán có thể không được độc quyền mạnh; ưu tiên thưởng, chia sẻ hoặc cấp phép bắt buộc. Khi đổi mới trở thành tầng điều phối thiết yếu, phải phân loại lại; có thể thu hẹp hoặc chấm dứt quyền nếu gây khóa chặt, nút thắt phản cạnh tranh hay đe dọa tính liên tục và tham gia công bằng.
 
----
 
 **Tệp trước:** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 

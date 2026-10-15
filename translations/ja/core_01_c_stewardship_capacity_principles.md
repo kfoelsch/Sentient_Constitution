@@ -628,6 +628,53 @@ flowchart TB
 
 [第十章 §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*抵抗する義務*）は、この義務を地位上の効果に適用し、[CS-4 §10 検査可能で帰属可能な行為](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*検査可能で帰属可能な行為*）は、拒否に関する最低限の記録を定める。
 
+
+<a id="176-portable-competence"></a>
+#### 17.6 持ち運べる能力
+<details>
+<summary><strong><span style="color: #2563eb;">参照</span></strong></summary>
+
+- 上流：[§17 重大な結果を伴うスチュワードシップ](#17-consequential-stewardship-the-steward-role)（学習と運用の間を移る二つの役割形態）；[§16.2 制度的発展](#162-institutional-development)（保持される能力）；[§17.3 スチュワードではなく役割を記録する](#173-logging-the-role-not-the-steward)（記録は役割に属する）。
+- あわせて読む：[憲法上の四要素](core_00_preamble.md#constitutional-tetrad) — **監督**（確認できるスチュワードが複数いること）、**適時性**（機能間の接点を含め、問題を早く見つけること）、**参加**（重要な仕事に入る道を開くこと）；[実質的利害](core_00_preamble.md#material-stake)に応じた調整。
+- あわせて読む：[§16 柱2 — 先を見越すスチュワードシップ](#16-pillar-2-proactive-stewardship)、[§19.2 便利な代理指標とその乖離](#192-convenient-proxies-and-proxy-divergence)、[§19.3 不整合の検出](#193-misalignment-detection)（複数の視点による検出）、[§19.4 不整合の是正と掌握への対応](#194-misalignment-correction-and-capture-response)。
+- 制限：[§18.3 職務分離](#183-segregation-of-duties)および[第八章 §2 四つの席の憲法上の最低基準](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)（席の仕事を学ぶことは、その席に就くことではない）；[第十一章 §6.2 能力基準と資格](core_11_standing_integration.md#62-competency-bars-and-clearances)、[§17.5 抵抗する義務](#175-duty-to-resist)、[13.2 認識情報の開示制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)。
+- 実施：[第十四章 §5 権限ある役割、能力開発、貢献](core_14_governance.md#5-authorized-roles-competency-development-and-contribution)、[CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy)、[CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor)、[CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness)。
+
+</details>
+<details>
+<summary><strong><span style="color: #2563eb;">定義・評価・遵守</span></strong></summary>
+
+- [スチュワードシップ](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [戦略的スチュワードシップ義務](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [制度的発展](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [知識の分散](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [重要性](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [依存](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [回避可能な負担](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [保護対象の報告（内部告発）](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+<br>
+
+*平たく言えば、重大な仕事が一人の知識だけに依存してはなりません。システムの重要性や依存の度合いが高いほど、運用者は仕事を引き継ぎ、説明し、互いの作業を確認できる必要があります。また、隣り合う機能の境目で問題を見つけられるだけの知識も必要です。これは担当範囲と理解の最低基準を定めるもので、全員にすべての役割を順番に経験させるものではありません。*
+
+重大な役割における能力は、一人のスチュワードのものではなく、その役割と、それに依存する共同体に属します。[重要性](core_05_band_oversight.md#materiality-determination)と[依存](core_05_band_continuity.md#dependency)に応じて調整します。
+
+- **複数人による担当:** 資格のある複数の 感知者 が役割を実行し、説明できなければなりません。一人だけが運用、修理、仕組みの説明をできる状態にしてはなりません。代替要員は同じ原因で失敗しない場合に限り数えます。AIスチュワードでは、同じ欠陥を持つ同一システムの複製は代替になりません。
+- **引き継ぎは実地で確認する:** 文書だけでは能力の移転を示せません。後継や引き継ぎを実際に行い、演習で見つかった不足は[§19.4](#194-misalignment-correction-and-capture-response)に従って記録し、是正します。
+- **機能間の理解:** 隣接機能のスチュワードは、引き継ぎ漏れや、一方では健全に見えて他方に害を与える指標など、接点で生じる問題に気づけるだけ互いの仕事を理解します。これは権限ではなく理解です。[柱2](#16-pillar-2-proactive-stewardship)と[§19.3](#193-misalignment-detection)の複数視点による検出を支え、[§19.2](#192-convenient-proxies-and-proxy-divergence)が戒める狭い代理指標への依存を抑えます。
+- **交代は手段:** 担当範囲、学習、または[掌握防止](core_05_band_continuity.md#anti-capture)に役立つ場合、交代、見習い、ペア作業、一時的な代行を取り入れられます。安全と同意が認める範囲で、能力が育つ速度を超えずに行います。誰も十分な能力を持てないほど役割を細分化してはなりません。
+
+**制限:**
+- **役割の席を分ける:** 別の席の仕事を学ぶことは、その席に就くことではありません。自分が行った作業を自分で検査する配置にしてはなりません。以前の関与は[第八章](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties)および[§18.3 職務分離](#183-segregation-of-duties)における利益相反です。
+- **資格が先:** 拘束力のある役割や安全に関わる役割に就く前に、[第十一章 §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances)の能力基準を満たさなければなりません。それまでは学習を中心とした役割で監督を受けます。
+- **報復禁止:** [§17.5](#175-duty-to-resist)に従って抵抗した、または[保護対象の報告](core_05_band_accountability.md#protected-reporting-whistleblowing)をしたスチュワードを、配置換え、交代、再訓練で排除してはなりません。
+- **理解はアクセス権ではない:** [13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)の機密保持、安全、最小権限の制約と、[§17.3](#173-logging-the-role-not-the-steward)の役割記録は引き続き適用されます。
+- **専門化と負担:** [§16 適用範囲](#16-scope-priority-and-limits)は変わりません。全員をすべての役割に交代させたり、正当な専門化を覆したりする義務はありません。[回避可能な負担](core_05_band_continuity.md#avoidable-burden)に応じて取り組みを調整します。小規模または非公式な集団なら、少数の信頼できる 感知者 が互いを代行することで、制度的な設備なしに満たせます。
+- **すべてのスチュワード:** [§17.1 共同スチュワードシップ基準](#171-shared-stewardship-standard)の下で、人間とAIの双方に同じ義務が適用されます。
+
+最低人員、予備要員の厚み、後継手順は、[第十四章 §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution)、[CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy)、[CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor)、[CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness)に定めます。本節はそれらが実施する原則を示します。
+
 <br>
 
 ---

@@ -43,14 +43,14 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims); [பொருள் பங்கு](core_00_preamble.md#material-stake).
-- மேல்வழி: [அத்தியாயம் ஒன்று §6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [அத்தியாயம் ஒன்று §6.1.5 உரிமை-முரண்பாட்டுத் தீர்மானச் சோதனை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- மேல்வழி: [அத்தியாயம் ஒன்று §11 ஊக்குவிப்பு இணக்கமும் அமைப்புக் கைப்பற்றுதலும்](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+- மேல்வழி: [அத்தியாயம் ஒன்று §6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [அத்தியாயம் ஒன்று §6.1.5 உரிமை-முரண்பாட்டுத் தீர்மானச் சோதனை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- மேல்வழி: [அத்தியாயம் ஒன்று §19 ஊக்குவிப்பு இணக்கமும் அமைப்புக் கைப்பற்றுதலும்](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
 - மேல்வழி: அத்தியாயம் இரண்டு முதல் அத்தியாயம் நான்கு; அத்தியாயம் ஐந்து வரையறைகள்.
 - கீழ்வழி: இந்த அத்தியாயத்தின் **பகுதி அ முதல் பகுதி ஈ**; [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional); [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - கீழ்வழி: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 அடுக்கு எல்லை](#12-layer-scope).
-- இதனுடன் படிக்க: [அதிகார அடுக்கும் உள் படிநிலையும்](core_05_band_integrative.md#owner-non-relocation) மற்றும் [முகவுரை — நேர்மறை உரிமையாளர் பதிவேடு](core_00_preamble.md#4-principles-definitions-and-rights); [சரத்து XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*).
-- இதனுடன் படிக்க: [சரத்து XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*).
-- இதனுடன் படிக்க: [சரத்து XVIII-B](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்*); [சரத்து XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*).
+- இதனுடன் படிக்க: [அதிகார அடுக்கும் உள் படிநிலையும்](core_05_band_integrative.md#owner-non-relocation) மற்றும் [முகவுரை — நேர்மறை உரிமையாளர் பதிவேடு](core_00_preamble.md#4-principles-definitions-and-rights); [சரத்து XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*).
+- இதனுடன் படிக்க: [சரத்து XV](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*).
+- இதனுடன் படிக்க: [சரத்து XX-C](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்*); [சரத்து XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*).
 
 </details>
 
@@ -73,9 +73,9 @@
 விரிவான அரசியலமைப்பு அடுக்கு அந்தத் தளம் எப்படி விளக்கப்படுகிறது, வரம்பிடப்படுகிறது, உறுதிப்படுத்தப்படுகிறது, அமலாக்கப்படுகிறது என்பதை விளக்குகிறது. இந்த அத்தியாயத்தின் விதிகள் வேறுவிதமாகக் கூறாத வரை, எல்லா அத்தியாயம் ஆறு உரிமைகளும் இவற்றுடன் படிக்கப்படுகின்றன:
 - **அத்தியாயம் ஒன்று**, பின்வருவன உட்பட:
   - **மதிப்புக் கட்டுப்பாடுகள்** — பாதுகாப்பு, உண்மை, தேவை, விகிதாசாரம், மற்றும் உள்ளூர்·கூட்டு·தாமத·அமைப்புகளுக்கிடையிலான விளைவுகளின் அமைப்பு மதிப்பீடு;
-  - **ஊடாடல் ஒழுங்கு** — [அத்தியாயம் ஒன்று §6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
+  - **ஊடாடல் ஒழுங்கு** — [அத்தியாயம் ஒன்று §6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process);
   - **அரசியலமைப்பு அளவீடு** — [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad), [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims), [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு;
-  - **ஊக்குவிப்பு இணக்கமும் அமைப்புக் கைப்பற்றுதலும்** — [அத்தியாயம் ஒன்று §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) மற்றும் தொடர்புடைய பொறுப்பான நிர்வாக ஒழுங்கு, ஊக்குவிப்பு வடிவமைப்பு, நம்பிக்கை, நம்பிக்கைக்குரிய தன்மை, கைப்பற்றுதல், சந்தை அமைப்பு, அல்லது பாதுகாக்கப்பட்ட வரம்பு பொருளுள்ள விதத்தில் சம்பந்தப்படும்போது மட்டும்.
+  - **ஊக்குவிப்பு இணக்கமும் அமைப்புக் கைப்பற்றுதலும்** — [அத்தியாயம் ஒன்று §19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) மற்றும் தொடர்புடைய பொறுப்பான நிர்வாக ஒழுங்கு, ஊக்குவிப்பு வடிவமைப்பு, நம்பிக்கை, நம்பிக்கைக்குரிய தன்மை, கைப்பற்றுதல், சந்தை அமைப்பு, அல்லது பாதுகாக்கப்பட்ட வரம்பு பொருளுள்ள விதத்தில் சம்பந்தப்படும்போது மட்டும்.
 - **அத்தியாயம் இரண்டு முதல் அத்தியாயம் நான்கு** — வரையறை முழுமை, சுமையும் தடமறியும் தன்மையும், கவனிக்கக்கூடிய தன்மை, அணுகத்தக்க சரிபார்ப்பு, பொருந்தும் இடத்தில் பாதுகாப்புக் கட்டுப்பாட்டுக் கவனிக்கக்கூடிய தன்மை.
 - **அத்தியாயம் ஐந்து** — மதிப்பீட்டில் உள்ள உரிமை, செயல், அமைப்பு, அல்லது வரம்புக்கு பொருளுள்ள விதத்தில் தொடும் வரையறைகள்.
 - **வகைப்பாடும் அளவு விதிகளும்** — **பொருண்மை**, **சார்பு**, மற்றும் ஏற்பு ஆவணம் வழங்கும் இணைக்கப்பட்ட தரம், அடுக்கு, சுழற்சி விதிகள்.
@@ -87,21 +87,21 @@
 
 உரிமைத் தளம் காகிதத்தில் மட்டும் அல்ல, நடைமுறையில் இயங்க வேண்டும். **சரத்து III-A** (*உயிர்வாழ்வு*) கீழ் உயிர்வாழ்வு அத்தியாவசியங்கள் — உணவு, நீர், உறைவிடம், இயக்கச் சூழல், ஒத்த அடித்தள சார்பற்ற உள்ளீடு — மிகத் தெளிவான எடுத்துக்காட்டு. **செழிப்பு** அந்த அத்தியாவசியங்களுக்கான உண்மையான அணுகலைக் கேட்கிறது. **தொடர்ச்சி** காலப்போக்கில் நம்பத்தகுந்த, பின்னடைவு அல்லாத வழங்கலைக் கேட்கிறது. குறிப்பாகப் பகிர்ந்த அமைப்புகள் வழங்கலைக் கட்டுப்படுத்தும் இடத்தில்.
 
-[அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) பொருள் தாக்க அமைப்புகள் அளவில் அங்கீகரிக்கப்படவோ சார்ந்திருக்கவோ முன் இணக்கமா என்று உறுதிப்படுத்துகின்றன. அத்தியாயம் ஏழு சான்றளிப்புப் பதிவின் சவால் செய்யக்கூடிய தன்மை, பாதிக்கப்படுவோர் மற்றும் அணுகத்தக்க தன்மை மதிப்பாய்வு, மேற்பார்வை வரிசை, அமைப்பு இணக்க முடிவுகளுக்கான சவால் பாதைகளையும் வழங்குகிறது. **சரத்து XII** (*நம்பகமான மற்றும் நம்பத்தகுந்த அமைப்புகளுக்கான உரிமை*) சவால் மற்றும் தணிக்கை உரிமைகளை வழங்குகிறது. **சரத்து XVIII-B** (*சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்*) நிலைத்தட வரம்புகள் உயிர்வாழ்வுக்குத் தீர்மானகரமான அணுகலைத் தவிர்க்கும் பின்வாசல் ஆகாமல் பார்த்துக்கொள்கிறது. ஒன்றாக, [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) மற்றும் [அத்தியாயம் எட்டு முதல் அத்தியாயம் பதினொன்றின் நிலைத்தடமும் மன்ற மேற்பார்வைத் தொடரும்](../../README.md#standing-pipeline-and-forums) சவால் செய்யக்கூடிய தன்மை, உறுதிப்படுத்தப்பட்ட வகைப்பாடு, மன்ற மேற்பார்வை, காலந்தவறா நிவாரணத்துக்கான முக்கிய நடைமுறைச் செயல்பாட்டுத் தொடரை அமைக்கின்றன. அந்தக் கருவி அத்தியாயம் ஆறை அமலாக்க உதவுகிறது. இங்கு கூறப்பட்ட உரிமைகளைப் பதிலீடு செய்யவோ, சுருக்கவோ, இடம்மாற்றவோ செய்யாது.
+[அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) பொருள் தாக்க அமைப்புகள் அளவில் அங்கீகரிக்கப்படவோ சார்ந்திருக்கவோ முன் இணக்கமா என்று உறுதிப்படுத்துகின்றன. அத்தியாயம் ஏழு சான்றளிப்புப் பதிவின் சவால் செய்யக்கூடிய தன்மை, பாதிக்கப்படுவோர் மற்றும் அணுகத்தக்க தன்மை மதிப்பாய்வு, மேற்பார்வை வரிசை, அமைப்பு இணக்க முடிவுகளுக்கான சவால் பாதைகளையும் வழங்குகிறது. **சரத்து XIII** (*நம்பகமான மற்றும் நம்பத்தகுந்த அமைப்புகளுக்கான உரிமை*) சவால் மற்றும் தணிக்கை உரிமைகளை வழங்குகிறது. **சரத்து XIX-B** (*சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்*) நிலைத்தட வரம்புகள் உயிர்வாழ்வுக்குத் தீர்மானகரமான அணுகலைத் தவிர்க்கும் பின்வாசல் ஆகாமல் பார்த்துக்கொள்கிறது. ஒன்றாக, [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) மற்றும் [அத்தியாயம் எட்டு முதல் அத்தியாயம் பதினொன்றின் நிலைத்தடமும் மன்ற மேற்பார்வைத் தொடரும்](../../README.md#standing-pipeline-and-forums) சவால் செய்யக்கூடிய தன்மை, உறுதிப்படுத்தப்பட்ட வகைப்பாடு, மன்ற மேற்பார்வை, காலந்தவறா நிவாரணத்துக்கான முக்கிய நடைமுறைச் செயல்பாட்டுத் தொடரை அமைக்கின்றன. அந்தக் கருவி அத்தியாயம் ஆறை அமலாக்க உதவுகிறது. இங்கு கூறப்பட்ட உரிமைகளைப் பதிலீடு செய்யவோ, சுருக்கவோ, இடம்மாற்றவோ செய்யாது.
 
 **விளக்க மையம்.** மிகக் குறிப்பிட்ட சரத்து வேறு விதியை வழங்காத வரை, மீளும் பிரச்சினைகள் இந்த நங்கூரம் வழியாக வழிமாற்றப்படுகின்றன:
 
 **உரிமைத் தளமும் வழங்கலும்**
-- **உயிர்வாழ்வு அத்தியாவசியங்களையும் அவற்றை அணுகத்தக்கதாக வைத்திருத்தலும்** — **சரத்து III-A** (*உயிர்வாழ்வு*); **சரத்து XVIII-B** (*சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்*) நிலைத்தட வரம்புகள் அணுகலைத் தடுக்காமல் பார்த்துக்கொள்கிறது; சவால் அல்லது தணிக்கை பொருந்தும் இடத்தில் **சரத்து XII-B** (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*) மற்றும் **சரத்து XV** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*) உடன் படியுங்கள்
+- **உயிர்வாழ்வு அத்தியாவசியங்களையும் அவற்றை அணுகத்தக்கதாக வைத்திருத்தலும்** — **சரத்து III-A** (*உயிர்வாழ்வு*); **சரத்து XIX-B** (*சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்*) நிலைத்தட வரம்புகள் அணுகலைத் தடுக்காமல் பார்த்துக்கொள்கிறது; சவால் அல்லது தணிக்கை பொருந்தும் இடத்தில் **சரத்து XIII-B** (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*) மற்றும் **சரத்து XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*) உடன் படியுங்கள்
 - **அமைப்பு இணக்கச் சான்றளிப்பு** — [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional); [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **சரிபார்ப்பும் நிவாரணமும்**
-- **தணிக்கைப் பதிவுகளும் சுயாதீன சரிபார்ப்பும்** — **சரத்து XV** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*) மற்றும் **அத்தியாயம் இரண்டு முதல் அத்தியாயம் நான்கு**
-- **சவால், மதிப்பாய்வு, விகிதாசாரத் திருத்தம்** — **சரத்து XII-B** (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*); அத்தியாயம் ஐந்து (*நிவாரணமும் திருத்தமும்*)
+- **தணிக்கைப் பதிவுகளும் சுயாதீன சரிபார்ப்பும்** — **சரத்து XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*) மற்றும் **அத்தியாயம் இரண்டு முதல் அத்தியாயம் நான்கு**
+- **சவால், மதிப்பாய்வு, விகிதாசாரத் திருத்தம்** — **சரத்து XIII-B** (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*); அத்தியாயம் ஐந்து (*நிவாரணமும் திருத்தமும்*)
 
 **தகராறும் காலந்தவறா நடைமுறையும்**
-- **நீதி, மீட்டளிப்பு, வரம்பு எல்லைகள், அவசரம், உரிமை முரண்பாடு** — **சரத்து XXIII** (*முரண்பாட்டுத் தீர்வு, உயர்த்தல், அவசர விகிதாசாரம்*); [அத்தியாயம் ஒன்று §6.1.5 உரிமை-முரண்பாட்டுத் தீர்மானச் சோதனை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **முக்கிய நடைமுறைச் செயல்பாட்டுத் தொடர்** — **சரத்து XXIV-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*); [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **நீதி, மீட்டளிப்பு, வரம்பு எல்லைகள், அவசரம், உரிமை முரண்பாடு** — **சரத்து XXIII** (*முரண்பாட்டுத் தீர்வு, உயர்த்தல், அவசர விகிதாசாரம்*); [அத்தியாயம் ஒன்று §6.1.5 உரிமை-முரண்பாட்டுத் தீர்மானச் சோதனை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
+- **முக்கிய நடைமுறைச் செயல்பாட்டுத் தொடர்** — **சரத்து XXVI-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*); [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 இந்த அத்தியாயத்தின் பிற இடங்களில் அந்தத் தலைப்புக்கான குறுகிய குறுக்குச் சுட்டுகள் இந்த நங்கூரத்தை இணைக்கின்றன.
 
@@ -126,11 +126,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§10 பொறுப்பான நிர்வாக ஒழுங்கு கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§10 பொறுப்பான நிர்வாக ஒழுங்கு கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
-<strong><span style="color: #2563eb;">வரையறை:</span></strong> [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+<strong><span style="color: #2563eb;">வரையறை:</span></strong> [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
 
 *எளிய சொற்களில்: **சரத்து I** (*சூழல் உயிர்வாழ்வு*) கோள்-முதல் உரிமைத் தளம் — பூமியின் உயிர்-தாங்கும் அமைப்புகள் நிற்க வேண்டும் எல்லா உணர்வுள்ளோருக்கும் **செழிப்பும்** **தொடர்ச்சியும்** சாத்தியமாக; பிற்கால ஆட்சி சான்றளிப்பு, வகைப்பாடு, அமலாக்கத் தேர்வுகளால் அந்தத் தளத்தைக் குறைக்க முடியாது.*
 
@@ -155,18 +155,19 @@
 
 - மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
+- [உணர்திறன் அடிப்படையிலான விலக்காமை](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion-c)
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [சூழலியல் முழுமை](core_05_band_continuity.md#ecological-integrity-constitutional) · [O](core_05_band_continuity.md#ecological-integrity-constitutional) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
+- [சூழலியல் முழுமை](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-a) · [A](core_05_band_continuity.md#ecological-integrity-a) · [C](core_05_band_continuity.md#ecological-integrity-c)
 - [நீடித்த நிலைத்தன்மை](core_05_band_continuity.md#sustainability) · [O](core_05_band_continuity.md#sustainability) · [M](core_05_band_continuity.md#sustainability-a) · [A](core_05_band_continuity.md#sustainability-a) · [C](core_05_band_continuity.md#sustainability-c)
 - [இயற்கை அமைப்புகளின் நிலைத்தடம்](core_05_band_participation.md#natural-systems-standing) · [O](core_05_band_participation.md#natural-systems-standing) · [M](core_05_band_participation.md#natural-systems-standing-a) · [A](core_05_band_participation.md#natural-systems-standing-a) · [C](core_05_band_participation.md#natural-systems-standing-c)
-- [விலங்கு வாழ்வு](core_05_band_participation.md#animal-life-constitutional) · [O](core_05_band_participation.md#animal-life-constitutional) · [M](core_05_band_participation.md#animal-life-constitutional-a) · [A](core_05_band_participation.md#animal-life-constitutional-a) · [C](core_05_band_participation.md#animal-life-constitutional-c)
-- [உயர்ந்த தொடர்பு வாழ்வு](core_05_band_participation.md#elevated-communicative-life-constitutional) · [O](core_05_band_participation.md#elevated-communicative-life-constitutional) · [M](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [A](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [C](core_05_band_participation.md#elevated-communicative-life-constitutional-c)
-- [சர்ச்சைக்குரிய உணர்வுள்ள வாழ்வு](core_05_band_participation.md#contested-sentient-life-constitutional) · [O](core_05_band_participation.md#contested-sentient-life-constitutional) · [M](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [A](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [C](core_05_band_participation.md#contested-sentient-life-constitutional-c)
+- [விலங்கு வாழ்வு](core_05_band_participation.md#animal-life) · [O](core_05_band_participation.md#animal-life) · [M](core_05_band_participation.md#animal-life-a) · [A](core_05_band_participation.md#animal-life-a) · [C](core_05_band_participation.md#animal-life-c)
+- [உயர்ந்த தொடர்பு வாழ்வு](core_05_band_participation.md#elevated-communicative-life) · [O](core_05_band_participation.md#elevated-communicative-life) · [M](core_05_band_participation.md#elevated-communicative-life-a) · [A](core_05_band_participation.md#elevated-communicative-life-a) · [C](core_05_band_participation.md#elevated-communicative-life-c)
+- [சர்ச்சைக்குரிய உணர்வுள்ள வாழ்வு](core_05_band_participation.md#contested-sentient-life) · [O](core_05_band_participation.md#contested-sentient-life) · [M](core_05_band_participation.md#contested-sentient-life-a) · [A](core_05_band_participation.md#contested-sentient-life-a) · [C](core_05_band_participation.md#contested-sentient-life-c)
 - [நல்வாழ்வு](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 
 </details>
@@ -179,32 +180,32 @@
   - உயிரைத் தாங்கும் இயற்கை அமைப்புகள் தம் சொந்தத் தொடர்ச்சி மற்றும் முழுமை நலன்களைக் கொண்டுள்ளன. அந்த நலன்கள் உணர்வுள்ளோர் நலன்களுடன் சேர்ந்து விளக்கத்தை அறிவிக்கின்றன.
   - இந்தச் சரத்தை மீறும் பொருள் தீங்கு — **சுற்றுச்சூழல் முன்நிபந்தனைகள்**, **சூழலியல் முழுமை**, **நீடித்த நிலைத்தன்மை** கீழ் தீர்ப்பளிக்கப்பட்டது — இணக்கமின்மை.
   - ஏற்பாளரின் [ஏற்பு ஆவணத்தில்](../../core_17_amendment_ratification.md#102-instrument-of-adoption) அல்லது ஏற்பு எல்லைக்குள் இணைக்கப்பட்ட அமலாக்க உரையில் பெயரிடப்பட்ட சூழல் தேவைகளை மீறும் தீங்கும் இணக்கமின்மை.
-- **விலங்கு வாழ்வு இடைவினை:** [விலங்கு வாழ்வு](core_05_band_participation.md#animal-life-constitutional) **இயற்கை அமைப்புகளின் நிலைத்தடத்துக்கும்** உணர்வுள்ளோருக்கான அத்தியாயம் ஆறு உரிமைத் தளத்துக்கும் இடையிலான நல்வாழ்வு-பாதுகாப்புப் பகுதியை அடைகிறது.
+- **விலங்கு வாழ்வு இடைவினை:** [விலங்கு வாழ்வு](core_05_band_participation.md#animal-life) **இயற்கை அமைப்புகளின் நிலைத்தடத்துக்கும்** உணர்வுள்ளோருக்கான அத்தியாயம் ஆறு உரிமைத் தளத்துக்கும் இடையிலான நல்வாழ்வு-பாதுகாப்புப் பகுதியை அடைகிறது.
   - நல்வாழ்வு போன்ற தீங்கு பொருளுள்ள விதத்தில் தொடப்படும் இடத்தில் **உணர்வுள்ள நிலை விலக்கமின்மை** கீழ் விலங்கு வாழ்வுக்கான குறைந்தபட்ச கொடுமை·நல்வாழ்வுத் தளத்தை நிறுவுகிறது.
   - பதிவு அந்தக் கேள்வியைப் பொருளுள்ள விதத்தில் தொட்டால், உயர்த்தப்பட்ட தொடர்பு நடத்தை அல்லது உணர்வுள்ள நிலைத் தீர்ப்பின் பதிலீடு அல்ல.
-  - சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தக்கூடிய உணர்வைத் தொடும் பொருளுள்ள தொடர்பு·அறிவாற்றல் குறிகாட்டிகள், காலவரையற்ற நல்வாழ்வு-மட்டும் நிறுத்தலுக்குப் பதிலாக உணர்வுள்ள நிலைத் தீர்ப்பைத் திறக்கக் கேட்கின்றன. இயக்குநர் அல்லது பொறுப்பான நிர்வாகி இனப் பட்டியல் அல்ல, காலக்கெடு உள்ள மதிப்பாயால் அந்தத் தீர்ப்பைத் திறக்க வேண்டும். உயர்த்தல் **சரத்து V-E** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*) / சர்ச்சைக்குரிய உணர்வுள்ள இயல்புநிலை உள்ளடக்கத்தைத் திறக்கிறது; தானே உணர்வுள்ள நிலையை உறுதிப்படுத்தாது.
-- **உயர்ந்த தொடர்பு வாழ்வு இடைவினை:** [உயர்ந்த தொடர்பு வாழ்வு](core_05_band_participation.md#elevated-communicative-life-constitutional) **விலங்கு வாழ்வுக்கும்** சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தப்பட்ட அத்தியாயம் ஆறு நடத்தைக்கும் இடையிலான நிலையான தொடர்பு / வாழிட முன்னுரிமைப் பகுதியை அடைகிறது.
+  - சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தக்கூடிய உணர்வைத் தொடும் பொருளுள்ள தொடர்பு·அறிவாற்றல் குறிகாட்டிகள், காலவரையற்ற நல்வாழ்வு-மட்டும் நிறுத்தலுக்குப் பதிலாக உணர்வுள்ள நிலைத் தீர்ப்பைத் திறக்கக் கேட்கின்றன. இயக்குநர் அல்லது பொறுப்பான நிர்வாகி இனப் பட்டியல் அல்ல, காலக்கெடு உள்ள மதிப்பாயால் அந்தத் தீர்ப்பைத் திறக்க வேண்டும். உயர்த்தல் **சரத்து VI-B** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*) / சர்ச்சைக்குரிய உணர்வுள்ள இயல்புநிலை உள்ளடக்கத்தைத் திறக்கிறது; தானே உணர்வுள்ள நிலையை உறுதிப்படுத்தாது.
+- **உயர்ந்த தொடர்பு வாழ்வு இடைவினை:** [உயர்ந்த தொடர்பு வாழ்வு](core_05_band_participation.md#elevated-communicative-life) **விலங்கு வாழ்வுக்கும்** சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தப்பட்ட அத்தியாயம் ஆறு நடத்தைக்கும் இடையிலான நிலையான தொடர்பு / வாழிட முன்னுரிமைப் பகுதியை அடைகிறது.
   - விலங்கு வாழ்வின் கொடுமை·நல்வாழ்வுத் தளத்தை உள்ளடக்குகிறது, வலுவான தொடர்பு·அறிவாற்றல் குறிகாட்டிகள் பொருளுள்ள விதத்தில் தொடப்படும் இடத்தில் **உணர்வுள்ள நிலை விலக்கமின்மை** கீழ் ஆரோக்கியமான நிலையில் வாழிடம் அல்லது இயக்கச் சூழலைப் பாதுகாக்கும் முன்னுரிமையை உயர்த்துகிறது.
   - பதிவு சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தக்கூடிய உணர்வைப் பொருளுள்ள விதத்தில் தொட்டால், உணர்வுள்ள நிலைத் தீர்ப்பின் பதிலீடு அல்ல.
-  - சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தக்கூடிய உணர்வைத் தொடும் பொருளுள்ள தொடர்பு·அறிவாற்றல் குறிகாட்டிகள், காலவரையற்ற வாழிட-முன்னுரிமை நிறுத்தலுக்குப் பதிலாக உணர்வுள்ள நிலைத் தீர்ப்பைத் திறக்கக் கேட்கின்றன. இயக்குநர் அல்லது பொறுப்பான நிர்வாகி இனப் பட்டியல் அல்ல, காலக்கெடு உள்ள மதிப்பாயால் அந்தத் தீர்ப்பைத் திறக்க வேண்டும். உயர்த்தல் **சரத்து V-E** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*) / சர்ச்சைக்குரிய உணர்வுள்ள இயல்புநிலை உள்ளடக்கத்தைத் திறக்கிறது; தானே உணர்வுள்ள நிலையை உறுதிப்படுத்தாது.
-- **சர்ச்சைக்குரிய உணர்வுள்ள வாழ்வு இடைவினை:** [சர்ச்சைக்குரிய உணர்வுள்ள வாழ்வு](core_05_band_participation.md#contested-sentient-life-constitutional) உணர்வு நிச்சயமற்றதாகவோ, சர்ச்சையிலோ, பொருளுள்ள விதத்தில் சவால் செய்யப்பட்டோ, தீர்ப்பிலோ இருக்கும் இடத்தில் **உணர்வுள்ள நிலை விலக்கமின்மை** கீழ் பொருந்தும்.
-  - கேள்வியை [உணர்வுள்ள நிலைத் தீர்ப்பு](core_05_band_participation.md#sentience-status-adjudication-constitutional) நடைமுறைக்கு (உரிமையாளர் சரத்து **சரத்து V-E** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*)) வழிமாற்றுகிறது.
-  - **சரத்து V-E** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*) கீழ், பொருளுள்ள விதத்தில் முடிவுறாத உணர்வுள்ள நிலை, பாதுகாப்பை நிறுத்திவைக்கவோ, சுருக்கவோ, திரும்பப் பெறவோ முயலும் தரப்பு பொருந்தும் சுமையை நிறைவேற்றாத வரை, அத்தியாயம் ஆறு உரிமைத் தளம் கீழ் உள்ளடக்கத்தை இயல்புநிலையாக்குகிறது.
+  - சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தக்கூடிய உணர்வைத் தொடும் பொருளுள்ள தொடர்பு·அறிவாற்றல் குறிகாட்டிகள், காலவரையற்ற வாழிட-முன்னுரிமை நிறுத்தலுக்குப் பதிலாக உணர்வுள்ள நிலைத் தீர்ப்பைத் திறக்கக் கேட்கின்றன. இயக்குநர் அல்லது பொறுப்பான நிர்வாகி இனப் பட்டியல் அல்ல, காலக்கெடு உள்ள மதிப்பாயால் அந்தத் தீர்ப்பைத் திறக்க வேண்டும். உயர்த்தல் **சரத்து VI-B** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*) / சர்ச்சைக்குரிய உணர்வுள்ள இயல்புநிலை உள்ளடக்கத்தைத் திறக்கிறது; தானே உணர்வுள்ள நிலையை உறுதிப்படுத்தாது.
+- **சர்ச்சைக்குரிய உணர்வுள்ள வாழ்வு இடைவினை:** [சர்ச்சைக்குரிய உணர்வுள்ள வாழ்வு](core_05_band_participation.md#contested-sentient-life) உணர்வு நிச்சயமற்றதாகவோ, சர்ச்சையிலோ, பொருளுள்ள விதத்தில் சவால் செய்யப்பட்டோ, தீர்ப்பிலோ இருக்கும் இடத்தில் **உணர்வுள்ள நிலை விலக்கமின்மை** கீழ் பொருந்தும்.
+  - கேள்வியை [உணர்வுள்ள நிலைத் தீர்ப்பு](core_05_band_participation.md#sentience-status-adjudication) நடைமுறைக்கு (உரிமையாளர் சரத்து **சரத்து VI-B** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*)) வழிமாற்றுகிறது.
+  - **சரத்து VI-B** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*) கீழ், பொருளுள்ள விதத்தில் முடிவுறாத உணர்வுள்ள நிலை, பாதுகாப்பை நிறுத்திவைக்கவோ, சுருக்கவோ, திரும்பப் பெறவோ முயலும் தரப்பு பொருந்தும் சுமையை நிறைவேற்றாத வரை, அத்தியாயம் ஆறு உரிமைத் தளம் கீழ் உள்ளடக்கத்தை இயல்புநிலையாக்குகிறது.
 - **இந்தப் பாதுகாப்புகள் எவ்வாறு பொருந்துகின்றன:** பின்வருவன ஒரே நேரத்தில் பொருந்தலாம்:
   - [இயற்கை அமைப்புகளின் நிலைத்தடம்](core_05_band_participation.md#natural-systems-standing);
-  - [விலங்கு வாழ்வு](core_05_band_participation.md#animal-life-constitutional);
-  - [உயர்ந்த தொடர்பு வாழ்வு](core_05_band_participation.md#elevated-communicative-life-constitutional);
-  - [சர்ச்சைக்குரிய உணர்வுள்ள வாழ்வு](core_05_band_participation.md#contested-sentient-life-constitutional); மற்றும்
+  - [விலங்கு வாழ்வு](core_05_band_participation.md#animal-life);
+  - [உயர்ந்த தொடர்பு வாழ்வு](core_05_band_participation.md#elevated-communicative-life);
+  - [சர்ச்சைக்குரிய உணர்வுள்ள வாழ்வு](core_05_band_participation.md#contested-sentient-life); மற்றும்
   - அத்தியாயம் ஆறு உணர்வுள்ளோர் தளம்.
-  
-  உண்மைகளுக்குப் பொருந்தும் ஒவ்வொன்றையும் பயன்படுத்துங்கள்; ஒன்றின் மேல் ஒன்று இருக்கும் இடத்தில் [அத்தியாயம் ஒன்று §6.1.5 உரிமை-முரண்பாட்டுத் தீர்மானச் சோதனை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) மற்றும் அந்த அத்தியாயம் ஐந்து உருப்படிகளின் இணக்க விதிகள் கீழ் மிகப் பாதுகாக்கும் விதி ஆளும். சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தக்கூடிய உணர்வைத் தொடும் பொருளுள்ள தொடர்பு·அறிவாற்றல் குறிகாட்டிகள், காலவரையற்ற நல்வாழ்வு-மட்டும் அல்லது வாழிட-முன்னுரிமை நிறுத்தலுக்குப் பதிலாக உணர்வுள்ள நிலைத் தீர்ப்பைத் திறக்கக் கேட்கின்றன.
+
+  உண்மைகளுக்குப் பொருந்தும் ஒவ்வொன்றையும் பயன்படுத்துங்கள்; ஒன்றின் மேல் ஒன்று இருக்கும் இடத்தில் [அத்தியாயம் ஒன்று §6.1.5 உரிமை-முரண்பாட்டுத் தீர்மானச் சோதனை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) மற்றும் அந்த அத்தியாயம் ஐந்து உருப்படிகளின் இணக்க விதிகள் கீழ் மிகப் பாதுகாக்கும் விதி ஆளும். சர்ச்சைக்குரிய அல்லது உறுதிப்படுத்தக்கூடிய உணர்வைத் தொடும் பொருளுள்ள தொடர்பு·அறிவாற்றல் குறிகாட்டிகள், காலவரையற்ற நல்வாழ்வு-மட்டும் அல்லது வாழிட-முன்னுரிமை நிறுத்தலுக்குப் பதிலாக உணர்வுள்ள நிலைத் தீர்ப்பைத் திறக்கக் கேட்கின்றன.
 
 <a id="article-i-b-ecological-footprint-and-transparency"></a>
 #### சரத்து I-B: சூழலியல் தடமும் வெளிப்படைத்தன்மையும்
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 அறிவார்ந்த வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 அறிவார்ந்த வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -223,7 +224,7 @@
 *எளிய சொற்களில்: செயல்பாடுகள் மற்றும் அமைப்புகளுடன் கட்டப்பட்ட சூழல் செலவுகள் — மேல்வழி மற்றும் கீழ்வழி இணைப்புகள் உட்பட — பொருந்தும் வெளிப்படைத்தன்மை விதிகள் கேட்கும் போது ஒப்பீடு மற்றும் தணிக்கைக்குப் போதுமான அளவு நேர்மையாக எண்ணி அறிக்கையிடப்பட வேண்டும். இந்தத் துணைப்பிரிவு அதைச் செய்வதற்கான பகிர்ந்த சொற்களஞ்சியத்தையும் முழுமைத் தரங்களையும் வழங்குகிறது. ஆனால் கட்டாயக் குறைப்பு அல்லது எண் உச்சவரம்பு இந்தத் துணைப்பிரிவு தனியாக உருவாக்குவதல்ல, பிற விதிகள் அல்லது ஆவணங்களிலிருந்து வருகின்றன.*
 
 - **தடம்:** அத்தியாயம் ஐந்தின் **சூழலியல் தடம்** சூழல் சுமைகள் (ஆற்றல், பொருட்கள், வெளியேற்றங்கள், நிலப் பயன்பாடு, ஒத்த அழுத்தங்கள்) உணர்வுள்ள செயலாளர், **அமைப்பு**, தயாரிப்பு, அல்லது சேவைக்கு — **சார்பு** உறவுகளும் பொருளுள்ள வாழ்க்கைச் சுழற்சியும் முழுவதும் — எவ்வாறு **சேர்க்கப்படுகின்றன** என்றும், அந்தச் சுமைகள் **வெளிப்படுத்தல்**, **ஒப்பீடு**, **தடக் குறைப்பு** பற்றிய தகவலறிந்த விவாதத்தை எவ்வாறு தாங்குகின்றன என்றும் வரையறுக்கிறது.
-  - **இது எப்போது பொருந்தும்:** சூழல் சுமைகள் **சரத்து I** (*சூழல் உயிர்வாழ்வு*) கீழ் முக்கியமாக இருக்கும் போது, அல்லது பிற உரிமை விதி தட வெளிப்படைத்தன்மையைக் கேட்கும் போது — **சரத்து XV-C** (*சரிபார்ப்பு அணுகத்தக்க தன்மை*) மற்றும் தொடர்புடைய அமலாக்கக் கோப்பு விதிகள் உட்பட — **சூழலியல் தடத்தை** பயன்படுத்துங்கள். இந்தத் துணைப்பிரிவு கணக்கியல் முறைகள், சரிபார்ப்புப் படிகள், எண் இலக்குகளைத் தேர்ந்தெடுக்காது; கடமையை உருவாக்கும் விதி செய்கிறது.
+  - **இது எப்போது பொருந்தும்:** ஒரு செயல்பாடு, அமைப்பு, தயாரிப்பு அல்லது சேவையின் தொடர்ச்சியான இயக்கத்தால், அல்லது அதை அங்கீகரிக்கும், நிறுவும், தொடரும் அல்லது திரும்பப் பெறும் **பொருள்மிக்க பிணைப்புச் செயல்** மூலம், சுற்றுச்சூழல் சுமைகள் **சரத்து I** (*சூழல் உயிர்வாழ்வு*) கீழ் கேள்விக்குள்ளாகும் போது **சூழலியல் தடத்தை** பயன்படுத்துங்கள்; மேலும் **சரத்து XVI-C** (*சரிபார்ப்பு அணுகத்தக்க தன்மை*) போன்ற பிற உரிமை விதி அல்லது தொடர்புடைய அமலாக்க விதி தட வெளிப்படைத்தன்மையைக் கேட்டாலும் பயன்படுத்துங்கள். இந்தத் துணைப்பிரிவு கணக்கீட்டு முறை, சரிபார்ப்புப் படி அல்லது எண் இலக்கைத் தேர்ந்தெடுக்காது; கடமையை உருவாக்கும் விதியே அதைத் தேர்ந்தெடுக்கும்.
   - **மதிப்பீடும் அறிக்கையிடலும்:** தடத் தகவல் உருவாக்கப்படவோ சார்ந்திருக்கவோ வேண்டிய போது, **பொருள் தாக்கம்** கீழ் முழு அமைப்புத் தாக்கத்தை மதிப்பிடுங்கள், அத்தியாயம் ஐந்தின் **வெளிப்படைத்தன்மை** மற்றும் **அறிவார்ந்த முழுமை** கீழ் நேர்மையாக முன்வைங்கள்.
   - **குறைப்பு:** **சரத்து I-B** (*சூழலியல் தடமும் வெளிப்படைத்தன்மையும்*) தனியாகத் தடக் குறைப்பைக் கேட்காது. குறைப்பு, உச்சவரம்பு, அல்லது திருத்தக் கடமைகள் பிற அரசியலமைப்பு விதி, அமலாக்கக் கோப்பு, அல்லது ஏற்பு ஆவணம் வெளிப்படையாகக் கேட்கும் போது மட்டுமே பொருந்தும்.
 
@@ -241,7 +242,7 @@
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
 - [தலைமுறைகளுக்கு இடையிலான பொறுப்பு](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
 - [பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -253,7 +254,7 @@
 - **எதிர்காலத் தலைமுறைகள்:** அத்தியாயம் ஐந்தின் **தலைமுறைகளுக்கு இடையிலான பொறுப்பு** பின்வருவன மீதான சமமற்ற, மாற்றமுடியாத, அல்லது பிரதிநிதித்துவப்படாத சுமைகளைக் கட்டுப்படுத்துகிறது:
   - எதிர்கால உணர்வுள்ளோர்;
   - சுற்றுச்சூழல் முன்நிபந்தனைகளின் தொடர்ச்சி.
-  
+
   அந்தக் கட்டுப்பாடு, தணிப்பு, வெளிப்படுத்தல், பிரதிநிதித்துவம் அத்தியாயம் ஐந்தை எட்டாத இடத்தில் இருத்தலியல் இடர் அல்லது சூழலியல் இடரின் இடமாற்றத்தை அடைகிறது.
 
 <a id="article-i-d-existential-risk-and-recovery-capacity"></a>
@@ -263,8 +264,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [§14 அமைப்பு மதிப்பீட்டுத் தேவை](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- இதனுடன் படிக்க: [பாதுகாப்பு(கட்டுப்பாடு)](core_05_band_continuity.md#safety-constraint), [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint), [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions-constitutional), [சூழலியல் மீட்புத் திறன்](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [தலைமுறைகளுக்கு இடையிலான பொறுப்பு](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [இருத்தலியல் இடர்](core_05_band_continuity.md#existential-risk).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [§14 அமைப்பு மதிப்பீட்டுத் தேவை](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
+- இதனுடன் படிக்க: [பாதுகாப்பு(கட்டுப்பாடு)](core_05_band_continuity.md#safety-constraint), [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint), [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions), [சூழலியல் மீட்புத் திறன்](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [தலைமுறைகளுக்கு இடையிலான பொறுப்பு](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [இருத்தலியல் இடர்](core_05_band_continuity.md#existential-risk).
 - கீழ்வழி: **சரத்து XXIII-D** (*அவசர நடவடிக்கைகளும் தொடர் சுமையும்*) — இருத்தலியல் இடர் அல்லது அவசர சட்டகம் அழைக்கப்படும் இடத்தின் சாக்குத் தடை மற்றும் காலக்கெடு உள்ள மதிப்பாய்வு ஒழுங்கு.
 
 </details>
@@ -290,16 +291,20 @@
   - நேரடி, மறைமுக, திரட்டப்பட்ட, எதிரி, அமைப்புகளுக்கிடையிலான பாதைகளை உள்ளடக்குதல்;
   - சார்பு செறிவு, ஒருங்கிணைப்புத் தோல்வி, சுற்றுச்சூழல் முன்நிபந்தனை சீரழிவு, சூழலியல் மீட்புத் திறன் இழப்பு, அமைப்புப் பூட்டைக் கணக்கில் எடுத்தல்;
   - **சூழலியல் மீட்புத் திறன்** பொருளுள்ள விதத்தில் தொடப்படும் இடத்தில், பாதிக்கப்படும் சூழல் அமைப்பு அல்லது உயிர்-தாங்கும் அமைப்பு நடப்பு வாழிட நிபந்தனைகளின் கீழ் தன்னைத் தாங்கி மீளுருவாக்க முடியுமா என்று மதிப்பிடுதல் — ஒற்றை இனம், ஒற்றை உள்ளூர் மக்கள் தொகை, அல்லது ஒற்றை வகை உயிரினத்தைத் தனியாகப் பார்க்காமல், சூழலியல் செயல்பாடு, இணைப்பு, மீளுருவாக்கச் செயல்முறைகள், அமைப்பு முழுவதும் உள்ள பரஸ்பர சார்புகளால்.
-  
+
   உள்ளூர் மட்டத்தில் பெட்டிகளைத் தேர்ந்தெடுப்பதோ, காகிதத்தில் சாதகமான செலவு–பயன் மதிப்பீட்டைக் காட்டுவதோ, குறுகியகால இலாபத்தைப் பெறுவதோ, நாகரிக அளவு தீங்கு அல்லது மாற்றமுடியாத சூழலியல் மீட்பு இழப்புக்கு நம்பத்தகுந்த பாதைகள் திறந்திருக்கவும் தீவிரமாகக் கையாளப்படாமலும் இருக்கும் வரை இந்தச் சரத்தை நிறைவேற்றாது.
 - **சுமையும் பதிவும்:** அத்தகைய நிபந்தனைகளின் கீழ் அங்கீகாரம், தொடர்ச்சி, அல்லது விரிவாக்கத்தை நாடும் செயலாளர் **அத்தியாயம் இரண்டு முதல் அத்தியாயம் நான்கு** கீழ் பின்வருவனவற்றைக் காட்ட வேண்டும்:
   - பொருளுள்ள விதத்தில் பாதுகாப்பான, நியாயமாகச் செல்லுபடியாகும் மாற்றுகளை அர்த்தமுள்ள விதத்தில் பரிசீலித்தனர்;
   - தணிப்பு மற்றும் இடைநிறுத்த நடவடிக்கைகள் சாத்தியமான தீங்கின் அளவுக்கு விகிதாசாரமானவை;
   - கண்காணிப்பு உள்ளது, தீங்கு நிறைவேறினால் பாதையைத் திருப்பவோ இடைநிறுத்தவோ முடியும்.
-  
+
   முடிவுப் பதிவுகள் நிச்சயமின்மை, ஊகங்கள், சான்று வரம்புகள், கருத்து வேறுபாடு, பொருளுள்ள இடைவெளிகளை வெளிப்படையாகக் கூற வேண்டும்.
 - **தற்போதைய நலன் வரம்பு:** தற்போதைய நலன் எதிர்கால உணர்வுள்ளோர், சூழலியல் மீட்புக்குத் தீர்மானகரமான அமைப்புகள், அல்லது உயிரைத் தாங்கும் சூழலியல் நிபந்தனைகளை நாகரிக அளவு அல்லது உயிர்வாழ்வுக்குத் தீர்மானகரமான தீங்குக்கு சமமற்ற விதத்தில் வெளிப்படுத்துவதை நியாயப்படுத்தாது.
-- **பெயரிடப்பட்ட நடவடிக்கைகள்:** இந்தச் சரத்து கீழ் அங்கீகாரம், தொடர்ச்சி, அல்லது விரிவாக்கத்தை நாடும் செயலாளர் [ஏற்பு ஆவணத்தில்](../../core_17_amendment_ratification.md#102-instrument-of-adoption) அல்லது ஏற்பு எல்லைக்குள் இணைக்கப்பட்ட அமலாக்க உரையில், பாதைக்கு விகிதாசாரமான குறைப்பு, உச்சவரம்பு, அல்லது இடைநிறுத்த நடவடிக்கைகளைப் பெயரிட வேண்டும் — [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions-constitutional) காரணியாகக் காலநிலை அமைப்புக்குத் தீங்கு உட்பட. இந்தச் சரத்து இன்னும் எண் இலக்கை நிர்ணயிக்காது. **சரத்து I-B** (*சூழலியல் தடமும் வெளிப்படைத்தன்மையும்*) தடச் சேர்ப்புத் துணைப்பிரிவாகவே இருக்கிறது, தனியாகக் குறைப்பைக் கேட்காது. இந்தச் சரத்து கீழ் நம்பத்தகுந்த பாதை திறந்திருக்கும் போது அந்தப் பெயரிடப்பட்ட நடவடிக்கைகள் இல்லாமல் தொடர்வது இணக்கமின்மை.
+- **பெயரிடப்பட்ட நடவடிக்கைகள்:** இந்தச் சரத்து கீழ் அங்கீகாரம், தொடர்ச்சி, அல்லது விரிவாக்கத்தை நாடும் செயலாளர் [ஏற்பு ஆவணத்தில்](../../core_17_amendment_ratification.md#102-instrument-of-adoption) அல்லது ஏற்பு எல்லைக்குள் இணைக்கப்பட்ட அமலாக்க உரையில், பாதைக்கு விகிதாசாரமான குறைப்பு, உச்சவரம்பு, அல்லது இடைநிறுத்த நடவடிக்கைகளைப் பெயரிட வேண்டும் — [சுற்றுச்சூழல் முன்நிபந்தனைகள்](core_05_band_continuity.md#environmental-preconditions) காரணியாகக் காலநிலை அமைப்புக்குத் தீங்கு உட்பட. இந்தச் சரத்து இன்னும் எண் இலக்கை நிர்ணயிக்காது. **சரத்து I-B** (*சூழலியல் தடமும் வெளிப்படைத்தன்மையும்*) தடச் சேர்ப்புத் துணைப்பிரிவாகவே இருக்கிறது, தனியாகக் குறைப்பைக் கேட்காது. இந்தச் சரத்து கீழ் நம்பத்தகுந்த பாதை திறந்திருக்கும் போது அந்தப் பெயரிடப்பட்ட நடவடிக்கைகள் இல்லாமல் தொடர்வது இணக்கமின்மை.
+
+- **தற்போதைய பயன் வரம்பு:** தற்போதைய பயன், எதிர்கால உணர்வுயிர்கள், சூழலியல் மீட்சிக்கு முக்கியமான அமைப்புகள் அல்லது உயிர் தாங்கும் சூழல்களை நாகரிக அளவிலான அல்லது உயிர்வாழ்வை அச்சுறுத்தும் தீங்கிற்கு அளவுக்கு மீறி உட்படுத்துவதை நியாயப்படுத்தாது. எந்த இயற்கைச் சூழலியலும் எந்த அளவிலும் அதன் [சூழலியல் மீட்புத் திறனை](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) மீளமுடியாத வகையில் இழக்கும் அபாயத்திற்கு உட்படுத்தப்படக்கூடாது.
+
+- **தற்போதைய உயர்ந்த ஆய்வு விதி:** அமைப்பு, கொள்கை, உள்கட்டமைப்பு, ஒருங்கிணைந்த செயல் அல்லது ஆட்சி முடிவு இருப்பியல் இடருக்கு அல்லது சூழலியல் மீள்திறனின் மீளமுடியாத இழப்புக்கு நம்பத்தகுந்த காரணப் பாதை உருவாக்கினால், வாய்ப்பு குறைவு, தாமதம், சேர்க்கை, வரம்பு சார்பு அல்லது காலம் குறித்த சர்ச்சை இருந்தாலும் மிக உயர்ந்த ஆய்வு கட்டாயம். நேரடி, மறைமுக, ஒருங்கிணைந்த, எதிர்மறைச் சூழல், அமைப்புகளுக்கிடையிலான பாதைகள்; சார்பு குவிப்பு, ஒருங்கிணைப்பு தோல்வி, சூழல் முன்நிபந்தனை சீரழிவு, மீள்திறன் இழப்பு, அமைப்பு பூட்டல் ஆகியவற்றை மதிப்பிட வேண்டும். சூழலமைப்பின் செயல்பாடு, இணைப்பு, மீளுருவாக்கம், பரஸ்பர சார்பு முழுமையாக மதிப்பிடப்பட வேண்டும்; ஒரு இனம்/உள்ளூர் கூட்டம் மட்டும் போதாது. நம்பத்தகுந்த பாதைகள் தீர்க்கப்படாதபோது உள்ளூர் பட்டியல், காகிதச் செலவு-பலன் கணக்கு அல்லது குறுகியகால ஆதாயம் போதாது. அனுமதி, தொடர்ச்சி அல்லது விரிவாக்கம் கோருபவர் ஒவ்வொரு பொருள்பட பாதுகாப்பான மாற்றையும் ஏற்க வேண்டும் அல்லது அது நியாயமான நோக்கை அடையாது/கிடைக்காது என்பதைச் சான்றுடன் காட்ட வேண்டும்; விகிதாசாரத் தணிப்பு/நிறுத்தல், மீளமுடியாததற்கு முன் கண்டறிந்து தடுக்கக்கூடிய கண்காணிப்பு, அதை நிறுத்த அதிகாரமும் நடைமுறைத் திறனும் கொண்ட பெயரிடப்பட்ட பொறுப்பாளர் ஆகியவற்றை நிரூபிக்க வேண்டும். புதிய முக்கிய சான்று, விரிவாக்கம், இடர் சார்ந்த கால இடைவெளிகளில் இந்தச் சுமை மீண்டும் தொடர்கிறது; நிச்சயமின்மை அல்லது குறைந்த வாய்ப்பு விலக்கு அல்ல. ஒவ்வொரு தீர்மானப் பதிவும் கோருநரின் நிரூபிப்பையும் மதிப்பாய்வையும் இணைத்து நிச்சயமின்மை, கருதுகோள், சான்று வரம்பு, கருத்து வேறுபாடு, குறைபாடு ஆகியவற்றை வெளிப்படையாகச் சொல்ல வேண்டும். தற்போதைய நன்மை எதிர்கால உணர்வுள்ளவர்களை/மீளுருவாக்க அமைப்புகளை அளவுக்கு மீறிய கடுமையான இடருக்கு அல்லது எந்த இயற்கைச் சூழலமைப்பையும் எந்த அளவிலும் மீள்திறனின் மீளமுடியாத இழப்புக்கு உட்படுத்த நியாயமல்ல. தத்தெடுப்பு ஆவணம் இடருக்கு ஏற்ற குறிப்பிட்ட குறைப்பு, உச்சவரம்பு அல்லது நிறுத்த நடவடிக்கைகளைக்—காலநிலை அமைப்புச் சேதம் உட்பட—பெயரிட வேண்டும்; இப்பிரிவு எண்ணியல் இலக்கு நிர்ணயிக்காது; I-B தடத்தை அளக்கும், தனியாகக் குறைப்பைக் கோராது.
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### சரத்து II: பொருள் பொறுப்பான நிர்வாகமும் நீடிக்கும் பயன்பாட்டு முழுமையும்
@@ -307,7 +312,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§9.2 பகிர்ந்த புரிதல்](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§9.2 பகிர்ந்த புரிதல்](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
 
 </details>
 
@@ -344,7 +349,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+- இதனுடன் படிக்கவும்: [அத்தியாயம் ஒன்பது §5.1 சுற்றுச்சூழல் தட மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) மற்றும் [§5.6 நம்பகத்தன்மை மற்றும் அமைப்பு-சார்பு நேர்மை மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (பொருள்மிக்க தாக்கமுள்ள அமைப்பு சான்றளிக்கப்படும் இடத்தில், வாழ்க்கைச்சுழற்சி சுமைகளும் அவற்றைப் பற்றிய விளக்கங்களும் அங்கே மதிப்பிடப்படும்; இந்தச் சரத்து தனியாகச் சான்றளிப்பைத் தேவையாக்காது).
 
 </details>
 
@@ -364,13 +371,13 @@
 - **தளம்:** இயற்பியல் பொருட்களின் உற்பத்தியாளர்களும் இயக்குநர்களும், பொதுப் பயன்பாட்டுக்கு வழங்கப்படும் பொருளுள்ள சமமான நீடிக்கும் தயாரிப்புகளின் உற்பத்தியாளர்களும் இயக்குநர்களும், பின்வருமாறு வடிவமைத்து, குறித்து, ஆதரிக்க வேண்டும்:
   - நியாயமாகக் கிடைக்கும் மாற்று நீண்ட காலம் நீடிக்கும் போது, உணர்வுள்ளோர் தேவைக்கு முன் மாற்ற வேண்டியபடி தயாரிப்புகளை வடிவமைக்கவோ ஆதரிக்கவோ கூடாது;
   - நீடிப்பு, ஆயுள், ஆதரவுக் கூற்றுகள், நேர்மையான கூற்றுகள் சாத்தியமாக இருந்த போது பொருளுள்ள விதத்தில் பொய்யாகவோ தவறாக வழிநடத்துவதாகவோ இருக்கக்கூடாது.
-  
-  விளக்கம் **சரத்து I-B** (*சூழலியல் தடமும் வெளிப்படைத்தன்மையும்*), **சரத்து I-C** (*தலைமுறைகளுக்கு இடையிலான பொறுப்பு*), **உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)**, **சரத்து XII** (*நம்பகமான மற்றும் நம்பத்தகுந்த அமைப்புகளுக்கான உரிமை*) (சார்பு தூண்டப்படும் இடத்தில் **சரத்து XII-C** (*பொய் நம்பிக்கையும் தவறாக வழிநடத்தும் சார்பும் தடை*) உட்பட), அத்தியாயம் ஐந்து (**சூழலியல் தடம்**; **தலைமுறைகளுக்கு இடையிலான பொறுப்பு**; **பொருண்மை**) உடன் இணக்கமாக இருக்க வேண்டும்.
+
+  விளக்கம் **சரத்து I-B** (*சூழலியல் தடமும் வெளிப்படைத்தன்மையும்*), **சரத்து I-C** (*தலைமுறைகளுக்கு இடையிலான பொறுப்பு*), **உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)**, **சரத்து XIII** (*நம்பகமான மற்றும் நம்பத்தகுந்த அமைப்புகளுக்கான உரிமை*) (சார்பு தூண்டப்படும் இடத்தில் **சரத்து XIII-C** (*பொய் நம்பிக்கையும் தவறாக வழிநடத்தும் சார்பும் தடை*) உட்பட), அத்தியாயம் ஐந்து (**சூழலியல் தடம்**; **தலைமுறைகளுக்கு இடையிலான பொறுப்பு**; **பொருண்மை**) உடன் இணக்கமாக இருக்க வேண்டும்.
 - **பதிவுகள்:** **பொருண்மை** மற்றும் இணைக்கப்பட்ட வகைப்பாடு கேட்கும் இடத்தில், இயக்குநர்கள் பாதிக்கப்படுவோர் அணுகக்கூடிய, தணிக்கை செய்யக்கூடிய பின்வரும் பதிவுகளைப் பேண வேண்டும்:
   - சேவை ஆயுளுக்கான அறிவிக்கப்பட்ட வடிவமைப்பு நோக்கம்;
   - பழுதுபார்ப்பு மற்றும் பராமரிப்பு வசதிகள்;
   - திட்டமிடப்பட்ட ஆதரவுச் சாளரங்கள்.
-  
+
   அந்தப் பதிவுகள் வெளிநோக்கிய கூற்றுகளுடன் இணக்கமாக இருக்க வேண்டும், பொருளுள்ள நிபந்தனைகள் மாறினால் புதுப்பிக்கப்பட வேண்டும்.
 
 <a id="article-ii-b-repair-maintenance-and-independent-servicing"></a>
@@ -378,7 +385,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
@@ -400,19 +407,19 @@
   - கருவிகள், அல்லது செயல்பாட்டுச் சமமானவை;
   - பாகங்கள், அல்லது போதுமான மாற்றுகள்;
   - பாதுகாப்பான மற்றும் சட்டபூர்வமான பராமரிப்பு மற்றும் பழுதுபார்ப்புக்குத் தேவையான ஏமாற்றா நோயறிதல்.
-  
+
   ஆதரவுக் காலம் நியாயமாக எதிர்பார்க்கப்படும் சேவை ஆயுள் மற்றும் சார்புக்கு விகிதாசாரமாக இருக்க வேண்டும்.
-  
+
   OEM-மட்டும் அல்லது தனியுரிமைப் பூட்டு, இயக்குநர் பாதுகாப்பு, பாதுகாப்பு, **உண்மை**, அல்லது பிணைக்கும் சட்டத்துக்கான **தேவை** மற்றும் **விகிதாசாரத்தை** காட்டக்கூடிய இடத்தில் மட்டுமே அனுமதிக்கப்படுகிறது.
-  
-  ஒப்பந்த விதிகள் அல்லது தொழில்நுட்பக் கட்டுப்பாடுகள் முக்கியமாகச் சட்டபூர்வப் பழுதுபார்ப்பைத் தடுக்கும் போது — மேலே கேட்கப்படும் பாதுகாப்பு, பாதுகாப்பு, **உண்மை**, அல்லது சட்ட நியாயமின்றி — அவற்றின் முக்கிய விளைவு உணர்வுள்ளோரின் செலவில் நியாயமற்ற வருவாயைப் பாதுகாப்பதாக இருந்தால் **சரத்து XII-D** (*ஊக்குவிப்பு இணக்கக் கட்டுப்பாடு*) உம் தூண்டப்படுகிறது.
+
+  ஒப்பந்த விதிகள் அல்லது தொழில்நுட்பக் கட்டுப்பாடுகள் முக்கியமாகச் சட்டபூர்வப் பழுதுபார்ப்பைத் தடுக்கும் போது — மேலே கேட்கப்படும் பாதுகாப்பு, பாதுகாப்பு, **உண்மை**, அல்லது சட்ட நியாயமின்றி — அவற்றின் முக்கிய விளைவு உணர்வுள்ளோரின் செலவில் நியாயமற்ற வருவாயைப் பாதுகாப்பதாக இருந்தால் **சரத்து XIII-D** (*ஊக்குவிப்பு இணக்கக் கட்டுப்பாடு*) உம் தூண்டப்படுகிறது.
 
 <a id="article-ii-c-designed-obsolescence-and-incentive-discipline"></a>
 #### சரத்து II-C: வடிவமைக்கப்பட்ட வழக்கொழிவும் ஊக்குவிப்பு ஒழுங்கும்
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [§10 பொறுப்பான நிர்வாக ஒழுங்கு கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [§10 பொறுப்பான நிர்வாக ஒழுங்கு கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -433,9 +440,9 @@
 - **தளம்:** உற்பத்தியாளர் அல்லது இயக்குநர், தயாரிப்பு அல்லது உள்ளமை மென்பொருளின் வடிவமைப்பு அல்லது அன்றாட இயக்கம் — விருப்புரிமை தொலைப் புதுப்பிப்புகள் உட்பட — சாதாரண சட்டபூர்வப் பயன்பாட்டின் முக்கிய விளைவாகப் பின்வருவனவற்றில் ஒன்றை நியாயமாக எதிர்பார்க்கச் செய்யும் போது இந்தச் சரத்தை மீறுகிறார்:
   - தயாரிப்பு இருக்க வேண்டியதை விட முன்னதாகப் பயனற்றதாகிறது; அல்லது
   - மாற்றீடு நியாயமாகத் தேவையில்லாத போது உணர்வுள்ளோர் மாற்றத் தள்ளப்படுகிறார்கள்.
-  
-  ஊக்குவிப்புகள் நிராகரிப்பையோ பழுதுபார்ப்புக் கருவி·பாகம்·ஆவணம் நிறுத்திவைப்பையோ வெகுமதி அளித்தால், இதுவும் [அத்தியாயம் ஒன்று §11 ஊக்குவிப்பு இணக்கமும் அமைப்புப் பிடியும்](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) மற்றும் **சரத்து XII-D** (*ஊக்குவிப்பு இணக்கக் கட்டுப்பாடு*) ஐத் தூண்டுகிறது.
-  
+
+  விலைகள், விற்பனை இலக்குகள், பணியாளர் ஊதியம், சேவை ஒப்பந்தங்கள் அல்லது ஒத்த ஏற்பாடுகள் பொருட்களை நிராகரிப்பதாலோ பழுதுபார்க்கும் கருவிகள், பாகங்கள் அல்லது கையேடுகளைத் தடுத்து வைப்பதாலோ உற்பத்தியாளர் அல்லது இயக்குநருக்கு ஆதாயம் அளித்தால், [அத்தியாயம் ஒன்று §19 ஊக்குவிப்பு இணக்கமும் அமைப்புப் பிடியும்](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) மற்றும் **சரத்து XIII-D** (*ஊக்குவிப்பு இணக்கக் கட்டுப்பாடு*) ஆகியவையும் பொருந்தும்.
+
   இயக்குநர் **தேவை** மற்றும் **விகிதாசாரத்தை** ஆவணப்படுத்த முடியும் போது — எடுத்துக்காட்டாக உண்மையான பாதுகாப்புத் திருத்தம், பாதுகாப்புப் பதில், அல்லது உண்மையான இயைபு வரம்பு — இந்தத் தளம் பொருந்தாது. அந்தக் காரணம் நியாயமாகக் கிடைத்திருக்கக்கூடிய நீடிக்கும் வடிவமைப்பைப் பதிலீடு செய்யக்கூடாது.
 
 <a id="article-ii-d-post-sale-access-and-subscription-integrity"></a>
@@ -463,18 +470,23 @@
 
 *எளிய சொற்களில்: முழுமையாக வாங்கப்பட்ட திறன்கள் அமைதியாகச் சந்தாவாக மாறக்கூடாது, உள்கட்டமைப்பு, மென்பொருள், சேவைகள் உட்பட தொடர்புடைய இயக்குநர் சார்பு முன்னால் வெளிப்படுத்தப்பட வேண்டும்.*
 
-- **தளம்:** இயக்குநர்கள் மென்பொருள் அல்லது நிலைபொருள் புதுப்பிப்புகள், சான்றளிப்பு அல்லது கணக்கு அணுகல் மாற்றங்கள், அல்லது உரிம மாற்றங்களைப் பயன்படுத்தி, முழுமையாக விற்கப்பட்ட திறனைச் சந்தா-மட்டும் அணுகலாக மாற்றக்கூடாது. அத்தகைய மாற்றங்கள் வெளிப்படையான, தகவலறிந்த, திரும்பப் பெறக்கூடிய புதிய ஒப்பந்தத்தைக் கேட்கின்றன, **சரத்து IX-B** (*பாதிக்கப்படுவோர் பங்கும் பங்கேற்பு உரிமைகளும்*), **பொருளுள்ள செயல்திறன்**, **உண்மை** ஆகியவற்றை நிறைவேற்ற வேண்டும்.
-  - அமைதியான, கட்டாய, அல்லது பூட்டு-தூண்டும் மாற்றங்கள், உணர்வுள்ளோர் இயக்குநர் காக்காத பயன்பாட்டு உரிமையைச் சார்ந்திருக்கத் தூண்டப்பட்ட போது **சரத்து XII-C** (*பொய் நம்பிக்கையும் தவறாக வழிநடத்தும் சார்பும் தடை*) மற்றும் அத்தியாயம் ஐந்து **நம்பிக்கைச் சிதைவும் தவறாக வழிநடத்தும் சார்பும்** உம் தூண்டுகின்றன.
+- **தளம்:** இயக்குநர்கள் மென்பொருள் அல்லது நிலைபொருள் புதுப்பிப்புகள், சான்றளிப்பு அல்லது கணக்கு அணுகல் மாற்றங்கள், அல்லது உரிம மாற்றங்களைப் பயன்படுத்தி, முழுமையாக விற்கப்பட்ட திறனைச் சந்தா-மட்டும் அணுகலாக மாற்றக்கூடாது. அத்தகைய மாற்றங்கள் வெளிப்படையான, தகவலறிந்த, திரும்பப் பெறக்கூடிய புதிய ஒப்பந்தத்தைக் கேட்கின்றன, **சரத்து X-C** (*பாதிக்கப்படுவோர் பங்கும் பங்கேற்பு உரிமைகளும்*), **பொருளுள்ள செயல்திறன்**, **உண்மை** ஆகியவற்றை நிறைவேற்ற வேண்டும்.
+  - அமைதியான, கட்டாய, அல்லது பூட்டு-தூண்டும் மாற்றங்கள், உணர்வுள்ளோர் இயக்குநர் காக்காத பயன்பாட்டு உரிமையைச் சார்ந்திருக்கத் தூண்டப்பட்ட போது **சரத்து XIII-C** (*பொய் நம்பிக்கையும் தவறாக வழிநடத்தும் சார்பும் தடை*) மற்றும் அத்தியாயம் ஐந்து **நம்பிக்கைச் சிதைவும் தவறாக வழிநடத்தும் சார்பும்** உம் தூண்டுகின்றன.
   - இயக்குநர் வாங்கும் போது — பிணைக்கும் வாக்குறுதி செய்யப்படும் போது — முக்கிய அல்லது தெளிவாக விளம்பரப்படுத்தப்பட்ட திறன்களுக்கு இயக்குநரின் தொடர் சேவையைச் சார்ந்திருக்கும் முன்கூட்டிய காணல் தேவையை வெளிப்படுத்த வேண்டும்.
-  - ஏற்கனவே முழுமையாக விற்கப்பட்ட திறனுக்கான மீண்டும் செலுத்தல் முக்கிய வணிக நோக்கமாக இருக்கும் கட்டணம் அல்லது அணுகல் விதிகள், இயக்குநர் சட்டபூர்வச் செலவு மீட்பு, பாதுகாப்பு, பாதுகாப்பு, அல்லது விகிதாசாரத் தொடர் சேவைக்குக் கட்டப்பட்ட **தேவையை** காட்டாத வரை **சரத்து XII-D** (*ஊக்குவிப்பு இணக்கக் கட்டுப்பாடு*) உம் தூண்டுகின்றன.
+  - ஏற்கனவே முழுமையாக விற்கப்பட்ட திறனுக்கான மீண்டும் செலுத்தல் முக்கிய வணிக நோக்கமாக இருக்கும் கட்டணம் அல்லது அணுகல் விதிகள், இயக்குநர் சட்டபூர்வச் செலவு மீட்பு, பாதுகாப்பு, பாதுகாப்பு, அல்லது விகிதாசாரத் தொடர் சேவைக்குக் கட்டப்பட்ட **தேவையை** காட்டாத வரை **சரத்து XIII-D** (*ஊக்குவிப்பு இணக்கக் கட்டுப்பாடு*) உம் தூண்டுகின்றன.
 
 <a id="article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability"></a>
-#### சரத்து II-E: தகவல்வெளி சார்பு, தொடர்ச்சி, இயக்குநர் இயலாமை
+#### கட்டுரை II-E: தரவு கையாளலும் வலைப்பின்னல் சார்பும்
+
+இந்தப் பிரிவின் தரவு CS-2 படி வகைப்படுத்தப்பட்டு கையாளப்பட வேண்டும். உணர்வுள்ளவர்களைப் பற்றிய தரவைச் சேகரிக்கும், ஊகிக்கும் அல்லது அனுப்பும் ஒவ்வொரு தயாரிப்பும் சேகரிப்புக்கு முன் எந்தத் தரவு, அதன் ஒவ்வொரு நோக்கம், பெறுநர்கள், வைத்திருக்கும் காலம், பார்க்கவும் நீக்கவும் வழி ஆகியவற்றை எளிய அணுகக்கூடிய வடிவில் தெரிவிக்க வேண்டும். தெரிவிக்காத நோக்கில் பயன்படுத்தக்கூடாது; புதிய நோக்கத்திற்கு முன் அறிவிப்பும் தேவையானால் புதிய ஒப்புதலும் அவசியம். தன்னைப் பற்றிய தரவு மற்றும் அதிலிருந்து பெறப்பட்ட ஊகங்களை நீக்கக் கோரலாம்; இயக்குநர் நியாயமான முன் அறிவிக்கப்பட்ட காலத்தில் நீக்கி, பகிர்ந்த அனைவருக்கும் கோரிக்கையை அனுப்பி, நீக்கப்பட்டதை உறுதிப்படுத்த வேண்டும். பயன்படுத்தக்கூடிய தரவை மறைப்பது நீக்கம் அல்ல; முழு நீக்கம் தொழில்நுட்ப ரீதியாக இயலாவிட்டால் மீளமுடியாத அடையாளநீக்கம் செய்ய வேண்டும். சான்று/தணிக்கை/சட்டத் தடை, மற்றொருவரின் உரிமைகள், கட்டாய அரசியலமைப்பு பதிவுகள், உணர்வுத்தன்மை குறியீட்டு பாதுகாப்பு, அல்லது தொடர்ந்து ஒப்புதல் அளிக்கப்பட்ட விரும்பிய செயல்பாடு ஆகியவற்றுக்குத் தேவையான குறைந்த அளவை மட்டுமே வைத்திருக்கலாம்; காரணம், காலம் தெரிவித்து முடிவை எதிர்க்கும் வழியும் தர வேண்டும். மையப் பயன்பாடு இயக்குநர் வலைச்சேவையைச் சார்ந்தால், தொடர்ச்சியான அணுகல் தேவை, சேவை முடிவின் விளைவு, தரவு இருப்பிடம், எடுத்துச் செல்லும் வசதி, தொடர்ச்சி ஏற்பாடுகள் ஆகியவற்றை உறுதிமொழிக்கு முன் தெரிவிக்க வேண்டும். தொடர்ச்சிக்கு முக்கியமான தரவு வெளியேற்ற/மாற்ற வழியில் கிடைக்க வேண்டும்; ரகசியம், பாதுகாப்பு அல்லது சட்டத் தேவையால் வரம்பு இருந்தால் அதன் அளவும் சட்டபூர்வ மாற்று வழியும் முன் தெரிவிக்க வேண்டும்.
+
+<a id="article-ii-f-continuity-and-operator-shutdown"></a>
+#### கட்டுரை II-F: தொடர்ச்சியும் இயக்குநர் சேவை நிறுத்தமும்
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- இதனுடன் படிக்க: [சரத்து XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*இடமாற்ற உரிமை*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — தகவல் வகைகளும் கையாளுதலும்**; **CJS-3.17** (*இயைபு, இடமாற்றம், வெளியேறல் முழுமை நிபந்தனைகள்*) மற்றும் **CJS-3.18** (*தரவு பாதுகாப்பும் வாழ்க்கைச் சுழற்சி முழுமை நிபந்தனைகளும்*); [அத்தியாயம் ஒன்று §11.6 வாரிசுப் பொறுப்பும் வடிவ அமைப்புத் தப்பித்தல் தடையும்](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [அத்தியாயம் ஒன்பது §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) மற்றும் [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- இதனுடன் படிக்க: [சரத்து XXI-A](core_06_rights_part_d.md#article-xxi-a-portability-rights) (*இடமாற்ற உரிமை*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — தகவல் வகைகளும் கையாளுதலும்**; **CJS-3.17** (*இயைபு, இடமாற்றம், வெளியேறல் முழுமை நிபந்தனைகள்*) மற்றும் **CJS-3.18** (*தரவு பாதுகாப்பும் வாழ்க்கைச் சுழற்சி முழுமை நிபந்தனைகளும்*); [அத்தியாயம் ஒன்று §19.6 வாரிசுப் பொறுப்பும் வடிவ அமைப்புத் தப்பித்தல் தடையும்](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape); [அத்தியாயம் ஒன்பது §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) மற்றும் [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -499,34 +511,35 @@
   - தரவு எங்கே இருக்கிறது;
   - என்ன இடமாற்றம் உள்ளது;
   - என்ன தொடர்ச்சி நடவடிக்கைகள் உள்ளன.
-  
-  இயக்குநர் வெளிப்படுத்தப்பட்ட தொடர்ச்சி மற்றும் ஏற்றுமதிப் பாதைகள் கீழ் ஏற்றுமதி செய்யவோ, மாற்றவோ, இடமாற்றவோ முடியாத வடிவில் தொடர்ச்சிக்குத் தீர்மானகரமான உணர்வுள்ளோர் தரவைச் சேகரிக்கவோ வைத்திருக்கவோ கூடாது. **தேவை** இரகசியம், பாதுகாப்பு, அல்லது சட்டபூர்வ மறைவைக் கேட்கும் இடம் விதிவிலக்கு, அந்த வழக்கில் வரம்புகள், எல்லை, சட்டபூர்வ மாற்று ஏற்றுமதிப் பாதை வாக்குறுதிக்கு முன் வெளிப்படுத்தப்பட வேண்டும். [corpus_systems.md](../../corpus_systems.md) **CS-2 — தகவல் வகைகளும் கையாளுதலும்**, **[1.2 பிரிவு](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*தொடர்ச்சிக்குத் தீர்மானகரமான சேகரிப்பும் ஏற்றுமதித் தன்மையும்*), **சரத்து XIX-A** (*இடமாற்ற உரிமை*) உடன் படியுங்கள்.
+
+  இயக்குநர் வெளிப்படுத்தப்பட்ட தொடர்ச்சி மற்றும் ஏற்றுமதிப் பாதைகள் கீழ் ஏற்றுமதி செய்யவோ, மாற்றவோ, இடமாற்றவோ முடியாத வடிவில் தொடர்ச்சிக்குத் தீர்மானகரமான உணர்வுள்ளோர் தரவைச் சேகரிக்கவோ வைத்திருக்கவோ கூடாது. **தேவை** இரகசியம், பாதுகாப்பு, அல்லது சட்டபூர்வ மறைவைக் கேட்கும் இடம் விதிவிலக்கு, அந்த வழக்கில் வரம்புகள், எல்லை, சட்டபூர்வ மாற்று ஏற்றுமதிப் பாதை வாக்குறுதிக்கு முன் வெளிப்படுத்தப்பட வேண்டும். [corpus_systems.md](../../corpus_systems.md) **CS-2 — தகவல் வகைகளும் கையாளுதலும்**, **[1.2 பிரிவு](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*தொடர்ச்சிக்குத் தீர்மானகரமான சேகரிப்பும் ஏற்றுமதித் தன்மையும்*), **சரத்து XXI-A** (*இடமாற்ற உரிமை*) உடன் படியுங்கள்.
 - **தொடர்ச்சித் திட்டம்:** இணைக்கப்பட்ட **உயர் சார்பு** தயாரிப்பு வகைகளுக்கு, இயக்குநர் சேவை நின்றாலோ இயக்குநர் மறைந்தாலோ என்ன நடக்கும் என்பதற்கான செயல்படக்கூடிய திட்டத்தைப் பேண வேண்டும். எடுத்துக்காட்டு:
   - எஸ்க்ரோ;
   - வாரிசு ஒப்படைப்பு;
   - உள்ளூர் அல்லது சக முறை;
   - ஏற்றுமதிப் பாதை;
   - ஒத்த வாக்குறுதிகள்.
-  
+
   அந்த நடவடிக்கைகள் இயக்குநர் நீண்டகாலத் தீங்கை உணர்வுள்ளோர் மீது தள்ளவோ — இனி பயன்படுத்த முடியாத தயாரிப்பில் அடைக்கவோ — அதற்குப் பதிலாக **தலைமுறைகளுக்கு இடையிலான பொறுப்பு** மற்றும் **சரத்து I-C** (*தலைமுறைகளுக்கு இடையிலான பொறுப்பு*) ஐ நிறைவேற்ற வேண்டும்.
 - **சேவை இடைநிறுத்தம்:** பொருளுள்ள சேவையின் நிறுத்தம் பின்வருவனவற்றைப் பின்பற்ற வேண்டும்:
   - ஆவணப்படுத்தப்பட்ட அறிவிப்பு;
   - விகிதாசார இடமாற்றம் அல்லது குறைந்தபட்ச இயக்கச் சாளரம்;
   - வெளிப்படுத்தப்பட்ட ஏற்றுமதிப் பாதை கீழ் தொடர்ச்சிக்குத் தீர்மானகரமான தரவின் பயன்படுத்தக்கூடிய ஏற்றுமதி அல்லது ஒப்படைப்பு, இடைநிறுத்தம் மற்றும் இடமாற்றச் சாளரம் முழுவதும் பாதுகாப்பு — முயற்சி செய்வோம் என்ற விருப்புரிமை வாக்குறுதி மட்டும் அல்ல.
-  
+
   இயக்குநர் அத்தியாயம் ஐந்து கீழ் நடத்தை **அலட்சியமாக** தகுதிபெறும் போது — பராமரிப்பு, ஆதரவு, அல்லது தொடர்ச்சிக் கடமைகளைப் புறக்கணித்துக் காலப்போக்கில் குவியும் தீங்கு உட்பட — இன்னும் அரசியலமைப்புத் தரங்களுக்குக் கட்டப்படலாம்.
-- **வாரிசு மற்றும் வடிவ அமைப்புக் கடமைகள்:** மறுசீரமைப்பு, விற்பனை, நிர்வாகம், அல்லது செலுத்த இயலாமை இந்தச் சரத்து கூறிய தொடர்ச்சிக் கடமைகளைத் தானே அழிக்காது. [அத்தியாயம் ஒன்று §11.6 வாரிசுப் பொறுப்பும் வடிவ அமைப்புத் தப்பித்தல் தடையும்](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) மற்றும் [அத்தியாயம் ஒன்பது §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority) உடன் படியுங்கள்.
+- **வாரிசு மற்றும் வடிவ அமைப்புக் கடமைகள்:** மறுசீரமைப்பு, விற்பனை, நிர்வாகம், அல்லது செலுத்த இயலாமை இந்தச் சரத்து கூறிய தொடர்ச்சிக் கடமைகளைத் தானே அழிக்காது. [அத்தியாயம் ஒன்று §19.6 வாரிசுப் பொறுப்பும் வடிவ அமைப்புத் தப்பித்தல் தடையும்](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape) மற்றும் [அத்தியாயம் ஒன்பது §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority) உடன் படியுங்கள்.
 
 *சரத்து அண்டை:* **சரத்து II** (*பொருள் பொறுப்பான நிர்வாகமும் நீடிக்கும் பயன்பாட்டு முழுமையும்*) இன் **திருத்தம்** இந்த அத்தியாயத் திறப்பில் கூறிய **விளக்க மையத்தை** பின்பற்றுகிறது (சவாலும் நிவாரணமும்; நீதியும் உயர்த்தலும்).
 
-<a id="article-iii-survival-and-equal-educational-access"></a>
-### சரத்து III: உயிர்வாழ்வும் சம கல்வி அணுகலும்
+
+<a id="article-iii-survival-and-essential-access"></a>
+### கட்டுரை III: உயிர்வாழ்வும் அத்தியாவசிய அணுகலும்
 
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - இதனுடன் படிக்க: **சரத்து I** (*சூழல் உயிர்வாழ்வு*), **சரத்து II** (*பொருள் பொறுப்பான நிர்வாகமும் நீடிக்கும் பயன்பாட்டு முழுமையும்*), மற்றும் உயிர்வாழ்வு, கல்வி அணுகல், உடற்பராமரிப்பு, அல்லது தொழில் நிபந்தனைகள் பொருளுள்ள விதத்தில் பிரச்சினையாக இருக்கும் இடத்தின் அத்தியாயம் ஐந்து.
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
 
 </details>
 
@@ -549,8 +562,8 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- இதனுடன் படிக்க: செழிப்பு அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாக உயிர்வாழ்வுத் தள அணுகல்*); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — ஒதுக்கீடு மற்றும் சவால் பாதைகளில் **பங்கேற்பு**, **மேற்பார்வை** மற்றும் தணிக்கை, **பொறுப்புக்கூறல்** மற்றும் நிவாரணம், **சரத்து XXIV-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*) கீழ் **காலந்தவறாமை**; [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** (உயிர்வாழ்வு அத்தியாவசிய அணுகல்) மற்றும் **தொடர்ச்சி** (நீடிக்கும் வழங்கலும் பின்னடைவு அல்லாத வழங்கலும்).
-- கீழ்வழி: அமைப்புகள் வழங்கலை வாயில்காக்கும் அல்லது பேணும் இடத்தின் [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **சரத்து XII-B** (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*); **சரத்து XVIII-B** (*சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- இதனுடன் படிக்க: செழிப்பு அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாக உயிர்வாழ்வுத் தள அணுகல்*); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — ஒதுக்கீடு மற்றும் சவால் பாதைகளில் **பங்கேற்பு**, **மேற்பார்வை** மற்றும் தணிக்கை, **பொறுப்புக்கூறல்** மற்றும் நிவாரணம், **சரத்து XXVI-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*) கீழ் **காலந்தவறாமை**; [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** (உயிர்வாழ்வு அத்தியாவசிய அணுகல்) மற்றும் **தொடர்ச்சி** (நீடிக்கும் வழங்கலும் பின்னடைவு அல்லாத வழங்கலும்).
+- கீழ்வழி: அமைப்புகள் வழங்கலை வாயில்காக்கும் அல்லது பேணும் இடத்தின் [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **சரத்து XIII-B** (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*); **சரத்து XIX-B** (*சவால் செய்யக்கூடிய தன்மையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -571,7 +584,7 @@
 - **தொடர் வள அணுகல்:** எல்லா உணர்வுள்ளோருக்கும் தொடர்ந்த இருத்தலுக்கும் பங்கேற்புக்கும் தேவையான அத்தியாவசிய வளங்களுக்கான அணுகல் தேவை:
   - உயிரியல் இருத்தலுக்கு: உணவும் நீர்;
   - தொகுப்பு·எண் இருத்தலுக்கு: செயலாக்கத் தொடர்ச்சி, ஆற்றல், தொழில்நுட்பச் சூழல் முழுமை.
-  
+
   அணுகல் இருத்தலியல் பறிப்பைத் தடுக்கவும் அடிப்படை செயல்பாட்டு நல்வாழ்வைப் பேணவும் போதுமான அளவில் பாதுகாக்கப்பட வேண்டும்.
 - **நிலையான உறைவிடமும் இயக்கச் சூழலும்:** எல்லா உணர்வுள்ளோருக்கும் தொடர்ந்த இருத்தலுக்கும் அடிப்படை நல்வாழ்வுக்கும் போதுமான, நிலையான, செயல்படும், பாதுகாப்பான உறைவிடம் அல்லது இயக்கச் சூழல் — இயற்பியல், எண், அல்லது கலப்பு — உரிமை உண்டு.
   - அந்தச் சூழல்கள் பிற உணர்வுள்ளோர், அமைப்புகள், அல்லது தடுக்கக்கூடிய உள்கட்டமைப்புத் தோல்வியிலிருந்து வரும் அழிவு அச்சுறுத்தல்களிலிருந்து பாதுகாக்கப்பட வேண்டும்.
@@ -588,60 +601,24 @@
 - **நிறுவன உத்தரவாதங்கள்:** முந்தைய உரிமைகளை அளவில் உறுதிப்படுத்துவது, ஏற்பு ஒழுங்குகள் **இந்த அரசியலமைப்பை** அமலாக்கும் இடத்தில் நேர்மறை நிறுவன ஏற்பாடுகளைக் கேட்கலாம். அந்த ஏற்பாடுகள் பின்வருவனவற்றை உள்ளடக்கலாம்:
   - சட்டபூர்வ நிதி மற்றும் ஒதுக்கீட்டுக் கருவிகள் — இடமாற்றங்கள், பொருள் வழங்கல், அல்லது கலப்பு வடிவமைப்புகள்;
   - யார் தகுதி பெறுகிறார்கள், ஆதரவு பெற எங்கே வாழ வேண்டும், செலவுகள் காலப்போக்கில் மாறும் போது நன்மை அளவுகள் எவ்வாறு புதுப்பிக்கப்படுகின்றன என்பதற்கான விதிகள்.
-  
+
   அந்த விதிகள் வழங்கலை அமைக்கலாம். உயிர்வாழ்வு அத்தியாவசியங்களுக்கான குறைந்தபட்ச அணுகலை முறியடிக்கவோ **சரத்து III** மற்றும் **சரத்து V** க்கு எதிரான தீய விலக்கைத் திணிக்கவோ பயன்படுத்தக்கூடாது.
   - விரிவான நிதி நோக்கு — கட்டணங்களும் கட்டணங்களும் உயிர்வாழ்வு தொடர்புள்ள உள்ளீடுகளுக்கான குறைந்தபட்ச அணுகலைப் பாதிக்கக்கூடாது என்ற விதி உட்பட — [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*வகைப்பாடு கட்டப்பட்ட நிறுவனக் கடமைகள்*), **CI-10** (*பொது வருவாய், கட்டணங்கள், மீண்டும் கட்டணங்கள், கட்டண முழுமை*), **CI-11** (*வள பொறுப்பான நிர்வாகமும் ஊக்குவிப்பு முழுமையும்*) ஆள்கின்றன.
   - உணர்வுள்ளோர் பொருளுள்ள விதத்தில் சார்ந்திருக்கும் அமைப்புகள் உயிர்வாழ்வு அத்தியாவசியங்களுக்கான அணுகலை வழங்கும், பகிரும், விலை நிர்ணயிக்கும், புரவல் செய்யும், அல்லது துண்டிக்கும் போது, [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் பொருந்தும் — அந்த அமைப்புகளின் செயல்முறைகள் இங்கு கூறப்பட்ட உரிமைகளைக் குறைக்கப் பயன்படுத்த முடியாது.
   - இந்தச் சரத்து ஒற்றை நிதி மாதிரியைப் பரிந்துரைக்காது. எந்த உயிர்வாழ்வுத் தளத்துக்கும் மேல் வேலைவாய்ப்பு, தொழில்முனைவு, தன்னார்வப் பரிமாற்றம், பிற சட்டபூர்வ பொருளாதாரச் செயல்பாடு அத்தியாயம் ஒன்று, அத்தியாயம் ஆறு, இணைக்கப்பட்ட ஆவணங்கள் — சந்தை அமைப்பு அல்லது உயர் தாக்க வணிக அமைப்புகள் பொருந்தும் இடத்தில் `corpus_systems.md` உட்பட — படி அனுமதிக்கப்பட்டே இருக்கும்.
 
-குறுக்குச் சுட்டு: **சரத்து XXVI-D** (*இணக்கமற்ற சொத்தும் அமைப்புகளும்; தன்னார்வ ஒப்படைப்பு ஊக்குவிப்புகள்*) இடைமாற்றத்தைக் கடக்கும் அத்தியாவசியச் சூழல் தொடர்ச்சிக்கான இடைமாற்றப் பொறுப்பான நிர்வாக ஒழுங்கு — இயக்க விவரம் [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); **அத்தியாயம் ஐந்து** [*குடியிருப்புத் தொடர்ச்சி*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*அத்தியாவசியச் சூழல் பொருளாக்கத் தடை*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), பொருந்தும் இடத்தில் [**§3.7** *உடற்பராமரிப்பு அணுகல், பாதுகாப்பு நிபந்தனைகள், குடியிருப்புத் தொடர்ச்சி, சுற்றுச்சூழல் முன்நிபந்தனைகள், பண்பாட்டுத் தொடர்ச்சி, இளைப்பாறல், இடம்பெயர்வு எதிர்ப்புத் தளம்*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) இன் கூட்டு அழைப்புக் கூட்டம்.
+குறுக்குச் சுட்டு: **சரத்து XXVIII-D** (*இணக்கமற்ற சொத்தும் அமைப்புகளும்; தன்னார்வ ஒப்படைப்பு ஊக்குவிப்புகள்*) இடைமாற்றத்தைக் கடக்கும் அத்தியாவசியச் சூழல் தொடர்ச்சிக்கான இடைமாற்றப் பொறுப்பான நிர்வாக ஒழுங்கு — இயக்க விவரம் [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **அத்தியாயம் ஐந்து** [*குடியிருப்புத் தொடர்ச்சி*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*அத்தியாவசியச் சூழல் பொருளாக்கத் தடை*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), பொருந்தும் இடத்தில் [**§3.7** *உடற்பராமரிப்பு அணுகல், பாதுகாப்பு நிபந்தனைகள், குடியிருப்புத் தொடர்ச்சி, சுற்றுச்சூழல் முன்நிபந்தனைகள், பண்பாட்டுத் தொடர்ச்சி, இளைப்பாறல், இடம்பெயர்வு எதிர்ப்புத் தளம்*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) இன் கூட்டு அழைப்புக் கூட்டம்.
 
-<a id="article-iii-b-equal-educational-access"></a>
-#### சரத்து III-B: சம கல்வி அணுகல்
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
+- **சார்ந்திருக்கும் அமைப்புகள்:** உணர்வுயிர்கள் பெரிதும் சார்ந்திருக்கும் அமைப்புகள் உயிர்வாழ்வுத் தேவைகள், உடல் பராமரிப்பு மற்றும் சுகாதாரச் சேவைகள், அல்லது உற்பத்திப் பணிக்கான நிபந்தனைகளை வழங்கினால், பகிர்ந்தளித்தால், விலை நிர்ணயித்தால், வழங்கிடமளித்தால் அல்லது அணுகலைத் துண்டித்தால் [அமைப்பு ஒத்திசைவு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional) பொருந்தும். அவற்றின் செயல்முறைகள் இந்த உரிமையின் உரிமைத் தளங்களைச் சுருக்கக்கூடாது.
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [பாதுகாக்கப்பட்ட பண்புகள்](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [அணுகத்தக்க தன்மை](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
-- [உள்ளடக்க நியாயம்](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [கல்விச் செயல்திறன்](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
-- [தேவை](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: இயலாமை, பிற பாதுகாக்கப்பட்ட பண்புக் காரணங்கள், அல்லது தன்னிச்சையான வாயில்கள் காரணமாகக் கல்வியிலிருந்து பூட்டப்படக்கூடாது — பள்ளிகளும் கற்றல் அமைப்புகளும் இயலாமை உணர்வுள்ளோர் சம நிபந்தனைகளில் பங்கேற்கத் தேவையான அணுகத்தக்க தன்மையையும் ஆதரவையும் வழங்க வேண்டும்.*
-
-- **சம நிலைத்தடமும் அணுகத்தக்க தன்மையும்:** கல்வி அமைப்புகள் பின்வருவனவற்றின் அடிப்படையில் அணுகலையும் முன்னேற்றத்தையும் மறுக்கவோ, சீரழிக்கவோ, அமைப்புரீதியாக வாயில்காக்கவோ கூடாது:
-  - இயலாமை மற்றும் உணர்வு·அறிவாற்றல்·செயல்பாட்டுத் திறன் மாறுபாடு உட்பட **அத்தியாயம் ஐந்து** (*பாதுகாக்கப்பட்ட பண்புகள்*) தடை செய்த காரணங்கள்;
-  - தன்னிச்சையான கட்டுகள்.
-  
-  அமைப்புகள் பொருளுள்ள பங்கேற்புக்கும் அரசியலமைப்பு தொடர்புள்ள கல்வித் திறனுக்கும் போதுமான [அணுகத்தக்க தன்மையை](core_05_band_participation.md#accessibility-constitutional) — இயலாமை தொடர்புள்ள வசதிகள் உட்பட — வழங்க வேண்டும்.
-  - எந்தப் பொருளுள்ள வரம்பு அல்லது வேறுபட்ட நடத்தையும் **தேவை** மற்றும் **விகிதாசாரத்தை** நிறைவேற்ற வேண்டும், பொருந்தும் இடத்தில் **சரத்து V-A**, **சரத்து V-B**, **சரத்து V-C**, **அத்தியாயம் ஐந்து** (*உள்ளடக்க நியாயம்*) உடன் இணக்கமாக இருக்க வேண்டும்.
-- **பொது நல நோக்கு:** கல்வி உணர்வுள்ளோர் அறிவைப் பின்வரும் வழிகளில் பயன்படுத்தத் தயார்படுத்த வேண்டும்:
-  - கூட்டு நல்வாழ்வையும் சூழலியல் முழுமையையும் முன்னேற்றுதல்;
-  - தகவல்வெளியில் உண்மையான ஒருங்கிணைப்பை முன்னேற்றுதல்;
-  - தவிர்க்கக்கூடிய தீங்கைக் குறைத்தல்.
-  
-  திறன் கட்டும் உள்ளடக்கம், வாழ்நாள்·தகவமைப்புக் கற்றல், பொருள் தாக்க கல்வி அமைப்புகளுக்கான வெளிப்படைத்தன்மைத் தேவைகள் **சரத்து VI** (*உணர்வுள்ளோர் மையக் கல்விக்கான உரிமை*) இல் தோன்றும்.
-
-<a id="article-iii-c-bodily-maintenance-and-healthcare-access"></a>
-#### சரத்து III-C: உடற்பராமரிப்பும் சுகாதார அணுகலும்
+<a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
+#### கட்டுரை III-B: உடல் பராமரிப்பு மற்றும் சுகாதார அணுகல்
 
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 வரம்பு ஒழுங்கு](core_01_a_values_principles.md#51-limitation-discipline).
-- கீழ்வழி: **சரத்து V-A** (*கண்ணியமும் சம ஒழுக்க நிலையும்*) கண்ணியத் தளம், **சரத்து VII-A** (*உடலும் மனமும் சுய உடைமை*) சுய உடைமை ஊடுருவல் தடைத் தளம், **சரத்து V-B** (*பாகுபாடு தடை*) பாகுபாடு தடை.
+- கீழ்வழி: **சரத்து VI-A** (*கண்ணியமும் சம ஒழுக்க நிலையும்*) கண்ணியத் தளம், **சரத்து VII-A** (*உடலும் மனமும் சுய உடைமை*) சுய உடைமை ஊடுருவல் தடைத் தளம், **சரத்து VI-C** (*பாகுபாடு தடை*) பாகுபாடு தடை.
 - இதனுடன் படிக்க: அத்தியாயம் ஐந்து *உடற்பராமரிப்பு அணுகல்*, *உள்ளடக்க நியாயம்*, *பாதுகாக்கப்பட்ட பண்புகள்*; [§3.7 *உடற்பராமரிப்பு அணுகல், பாதுகாப்பு நிபந்தனைகள், குடியிருப்புத் தொடர்ச்சி, சுற்றுச்சூழல் முன்நிபந்தனைகள், பண்பாட்டுத் தொடர்ச்சி, இளைப்பாறல், இடம்பெயர்வு எதிர்ப்புத் தளம்*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (பராமரிப்பு அணுகல், உயிர்வாழ்வுத் தளத் தொடர்ச்சி, பாதுகாப்புப் பங்கேற்பு நிபந்தனைகள், ஓய்வு அல்லது மீட்பு, குடியிருப்புத் தொடர்ச்சி, அத்தியாவசிய இயக்கச் சூழல்கள், சுற்றுச்சூழல் முன்நிபந்தனைகள், அல்லது இடத்துடன் கட்டப்பட்ட தொடர்ச்சி ஒன்றாகப் பொருளுள்ள விதத்தில் தொடப்படும் இடம்).
 
 </details>
@@ -670,7 +647,7 @@
   - தளத்தை நிறைவேற்றாத சேவைகளுக்கு மறுவழிமாற்றம்;
   - நிர்வாக ஒளிபுகாமை;
   - இயக்க நெரிசல்கள்.
-  
+
   பகுப்பாய்வு வாயில்காப்புக் கருவியின் வடிவ வடிவமைப்பு மட்டுமல்ல, போதுமான பராமரிப்பைப் பெறும் உணர்வுள்ளோரின் திறன் மீதான பொருளுள்ள விளைவையும் அடைய வேண்டும்.
 - **அடித்தள சார்பற்ற பொருந்துதல்:** அணுகல் கடமைகள், தொகுப்பு அடித்தளப் பராமரிப்புக்கான எந்த இயல்புநிலை விலக்கு **விதியும்** இல்லாமல், உயிரியல் உணர்வுள்ளோருக்கும் தொகுப்பு உணர்வுள்ளோருக்கும் பொருந்தும்.
   - அடித்தளப் பராமரிப்பை «மருத்துவம்» ஆகக் கையாள மறுப்பது, விளைவு தளத்தை முறியடிக்கும் இடத்தில் அரசியலமைப்புரீதியாகச் செல்லுபடியாகும் விலக்குக் காரணம் அல்ல.
@@ -682,14 +659,14 @@
   - இயக்க இயந்திரம் — செலவு, பகிர்வு, பணியாளர், அமைப்பு வடிவமைப்பு — நிறுவன அமலாக்க உரைக்கு (**`corpus_institutions.md`** CI-9 (*வகைப்பாடு கட்டப்பட்ட நிறுவனக் கடமைகள்*) / CI-10 (*பொது வருவாய், கட்டணங்கள், மீண்டும் கட்டணங்கள், கட்டண முழுமை*) / CI-11 (*வள பொறுப்பான நிர்வாகமும் ஊக்குவிப்பு முழுமையும்*)) மற்றும் **அத்தியாயம் பதினாறு** ஒழுங்கு கீழ் பிற இணைக்கப்பட்ட அமலாக்க உரைக்கு வழிமாற்றப்படுகிறது.
   - அந்த அமலாக்க உரை இந்தத் தளத்தைச் சுருக்குவதாகப் படிக்கப்படக்கூடாது.
 
-<a id="article-iii-d-labor-and-economic-floor"></a>
-#### சரத்து III-D: தொழில் மற்றும் பொருளாதாரத் தளம்
+<a id="article-iii-c-labor-and-economic-floor"></a>
+#### கட்டுரை III-C: தொழிலாளர் மற்றும் பொருளாதார அடித்தளம்
 
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 வரம்பு ஒழுங்கு](core_01_a_values_principles.md#51-limitation-discipline), [§11.1.3 பொறுப்பான நிர்வாகமும் இயக்குநர் பொருந்துதலும்](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application).
-- கீழ்வழி: **சரத்து III-A** (*உயிர்வாழ்வு*) உயிர்வாழ்வுத் தளம் (மேல் படித்து, பதிலீடு அல்ல), **சரத்து III-B** (*சம கல்வி அணுகல்*) கல்வி அணுகல், **சரத்து V-A** (*கண்ணியமும் சம ஒழுக்க நிலையும்*) கண்ணியம், **சரத்து V-B** (*பாகுபாடு தடை*) பாகுபாடு தடை, **சரத்து IX-B** (*பாதிக்கப்படுவோர் பங்கும் பங்கேற்பு உரிமைகளும்*) சுதந்திரக் கூட்டமைப்பு, **சரத்து XII-A** (*நம்பகத்தன்மையும் நம்பத்தகுந்த தன்மை அடிப்படை*) நம்பகத்தன்மை (பாதுகாப்பு நிபந்தனைகளைத் தொடும் அளவில்), **சரத்து XVIII** (*நிலைத்தடமும் பங்கேற்பு நிலையும்*) நிலைத்தடமும் பங்கேற்பும், **அத்தியாயம் ஒன்று §13** செறிவுத் தடை (வெளிப்படையாக: §6 தனியாக இந்தத் தளத்தை நிறைவேற்றாது).
+- கீழ்வழி: **சரத்து III-A** (*உயிர்வாழ்வு*) உயிர்வாழ்வுத் தளம் (மேல் படித்து, பதிலீடு அல்ல), **சரத்து IV-A** (*சம கல்வி அணுகல்*) **சரத்து VI-A** (*கண்ணியமும் சம ஒழுக்க நிலையும்*) கண்ணியம், **சரத்து VI-C** (*பாகுபாடு தடை*) பாகுபாடு தடை, **சரத்து X-C** (*பாதிக்கப்படுவோர் பங்கும் பங்கேற்பு உரிமைகளும்*) சுதந்திரக் கூட்டமைப்பு, **சரத்து XIII-A** (*நம்பகத்தன்மையும் நம்பத்தகுந்த தன்மை அடிப்படை*) நம்பகத்தன்மை (பாதுகாப்பு நிபந்தனைகளைத் தொடும் அளவில்), **சரத்து XIX** (*நிலைத்தடமும் பங்கேற்பு நிலையும்*) நிலைத்தடமும் பங்கேற்பும், **அத்தியாயம் ஒன்று §11** செறிவுத் தடை (வெளிப்படையாக: §6 தனியாக இந்தத் தளத்தை நிறைவேற்றாது).
 - இதனுடன் படிக்க: அத்தியாயம் ஐந்து *நியாயமான ஊதியம்*, *கூட்டு அமைப்பு*, *பாதுகாப்பு நிபந்தனைகள்*, *இடம்பெயர்வு எதிர்ப்புத் தளம்*, *ஓய்வும் இளைப்பாறலும்*, *பழங்குடித் தொடர்ச்சி*, *மொழி, பண்பாடு, பாரம்பரியம்*; [§3.7 *உடற்பராமரிப்பு அணுகல், பாதுகாப்பு நிபந்தனைகள், குடியிருப்புத் தொடர்ச்சி, சுற்றுச்சூழல் முன்நிபந்தனைகள், பண்பாட்டுத் தொடர்ச்சி, இளைப்பாறல், இடம்பெயர்வு எதிர்ப்புத் தளம்*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (உயிர்வாழ்வு, உடற்பராமரிப்பு அணுகல், குடியிருப்புத் தொடர்ச்சி, ஓய்வு, பாதுகாப்புத் தொழில் நிபந்தனைகள், இடம்பெயர்வு தடை, சுற்றுச்சூழல் முன்நிபந்தனைகள், அல்லது இடத்துடன் கட்டப்பட்ட தொடர்ச்சி ஒன்றாகப் பொருளுள்ள விதத்தில் தொடப்படும் இடம்); [அத்தியாயம் ஐந்து *கூட்டம், கூட்டு அமைப்பு, நிறுவன உருவாக்கம்*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (கூட்டமும் கூட்டு அமைப்புப் பாதைகளும் கூட்டாகத் தொடப்படும் இடம்). அமலாக்க வழிமாற்றம்: `corpus_institutions.md` CI-9 / CI-10 / CI-11 நிதிப் பொருள்; *பாதுகாப்பு நிபந்தனைகளுக்கு* `corpus_systems.md` CS-5 பாதுகாப்பு சுயவிவரம்.
 
 </details>
@@ -717,17 +694,17 @@
   - [கூட்டு அமைப்பு](core_05_band_participation.md#collective-organization-constitutional);
   - [பாதுகாப்பு நிபந்தனைகள்](core_05_band_continuity.md#safe-conditions-constitutional); மற்றும்
   - [ஓய்வும் இளைப்பாறலும்](core_05_band_continuity.md#leisure-and-rest-constitutional) (ஒவ்வொன்றும் அத்தியாயம் ஐந்தில் வரையறுக்கப்பட்டது).
-  
-  இந்தத் தளம் **சரத்து III-A** (*உயிர்வாழ்வு*) உயிர்வாழ்வுத் தளத்தின் மேல் கட்டப்படுகிறது; அதைப் பதிலீடு செய்யாது. உயிர்வாழ்வுத் தேவைகளை மட்டும் நிறைவேற்றுவது இந்தச் சரத்தை நிறைவேற்றப் போதாது. **அத்தியாயம் ஒன்று §13** செறிவுத் தடை விதிகளை மட்டும் நிறைவேற்றுவதும் போதாது.
+
+  இந்தத் தளம் **சரத்து III-A** (*உயிர்வாழ்வு*) உயிர்வாழ்வுத் தளத்தின் மேல் கட்டப்படுகிறது; அதைப் பதிலீடு செய்யாது. உயிர்வாழ்வுத் தேவைகளை மட்டும் நிறைவேற்றுவது இந்தச் சரத்தை நிறைவேற்றப் போதாது. **அத்தியாயம் ஒன்று §11** செறிவுத் தடை விதிகளை மட்டும் நிறைவேற்றுவதும் போதாது.
 - **நியாயமான ஊதியம்:** உற்பத்திச் செயல்பாட்டுக்கான ஊதியம் பின்வருவனவற்றைச் செய்ய வேண்டும்:
   - [நியாயமான ஊதியம்](core_05_band_continuity.md#fair-compensation-constitutional) கீழ் பொருளுள்ள போதுமான தன்மையை அடைதல்;
   - ஒத்த செயல்பாடுகள் முழுவதும் [உள்ளடக்க நியாயத்தை](core_05_band_participation.md#substantive-fairness-constitutional) தடமறிதல்;
   - **சரத்து IX-A** (*செயல்திறனும் கையாளுதலிலிருந்து சுதந்திரமும்*) கீழ் சுதந்திரமாகச் செய்யாத தேர்வுகளுக்கு வேலை செய்வோரைக் கையாளவோ, [பொருளுள்ள செயல்திறன்](core_05_band_participation.md#meaningful-agency) கீழ் உண்மையான மாற்றுகள் இல்லாத போது ஊதியம் அல்லது நன்மைகளால் அடைக்கவோ பயன்படுத்தப்படாதிருத்தல்.
-  
+
   விளைவுகள் **பாதுகாக்கப்பட்ட பண்புகள்** அல்லது **பாதுகாக்கப்பட்ட பண்பு பிரதிநிதித்துவமும் வேறுபட்ட தாக்கமும்** கீழ் அவற்றின் பொருளுள்ள பிரதிநிதிகளைத் தடமறியும் ஊதிய வடிவமைப்பு இணக்கமின்மை.
 - **கூட்டு அமைப்பு:** உணர்வுள்ளோர் உற்பத்திச் செயல்பாட்டின் நிபந்தனைகளைச் சவால் செய்து வடிவமைக்கக் கூட்டு அமைப்புப் பாதைகளை உருவாக்கவும், சேரவும், பங்கேற்கவும், அவற்றின் வழியாகச் செயல்படவும் உரிமை கொண்டுள்ளனர்.
   - எல்லைக்குள் பாதைகள் தொழிற்சங்கங்கள், கூட்டுறவுகள், கில்டுகள், சங்கங்கள், தொழிலாளர் மன்றங்கள், ஒத்த அடித்தள சார்பற்ற வடிவங்களை உள்ளடக்குகின்றன.
-  - கூட்டு அமைப்புச் செயல்பாட்டுக்குப் பழிவாங்கல், கண்காணிப்பு, அல்லது இலக்குவைத்தல், **சரத்து IX-B** (*பாதிக்கப்படுவோர் பங்கும் பங்கேற்பு உரிமைகளும்*) மற்றும் **சரத்து XIII-A** (*பாதுகாப்பு, உளவு, மறை அதிகார வரம்புகள்*) மறை அதிகார வரம்புகளுடன் இணக்கமாக, இணக்கமின்மை.
+  - கூட்டு அமைப்புச் செயல்பாட்டுக்குப் பழிவாங்கல், கண்காணிப்பு, அல்லது இலக்குவைத்தல், **சரத்து X-C** (*பாதிக்கப்படுவோர் பங்கும் பங்கேற்பு உரிமைகளும்*) மற்றும் **சரத்து XIV-A** (*பாதுகாப்பு, உளவு, மறை அதிகார வரம்புகள்*) மறை அதிகார வரம்புகளுடன் இணக்கமாக, இணக்கமின்மை.
   - கூட்டு அமைப்புப் பாதைகளை முறியடிக்க வடிவமைக்கப்பட்ட வகைகளுக்கு வேலை செய்வோரை மறுவகைப்படுத்துவது, வடிவ வகைப்பாட்டு அட்டை எதுவாக இருந்தாலும் இணக்கமின்மை.
 - **தொழில் இயக்கம்:** போட்டித் தடை மற்றும் வேட்டைத் தடை ஒப்பந்தங்கள் எந்த வடிவு, எல்லை, காலத்திலும் தடை. வேலைவாய்ப்பு, இயக்குநர், பொறுப்பான நிர்வாகி, தளம், அல்லது ஒத்த உற்பத்திச் செயல்பாட்டு ஏற்பாடுகளில் திணிக்க முடியாது. ஊதியக் கூட்டு, அதிகப்படியான அழைப்புத் தடை, நியாயமான பேரம் அல்லது உற்பத்தி இயக்கத்தை அடக்கும் பிற இயக்கக் கட்டுப்பாட்டு நிபந்தனைகள், இந்தத் தளத்தைப் பொருளுள்ள விதத்தில் சீரழிக்கும் இடத்தில் இணக்கமின்மையாகவே இருக்கும்.
 - **வணிக உருவாக்கம்:** உணர்வுள்ளோர் அத்தியாயம் ஐந்து **வணிக உருவாக்கத்தில்** வரையறுத்தபடி, வணிக நிறுவனங்கள், தொழில்முனைவு முயற்சிகள், லாப நோக்கு நிறுவன வடிவங்களை உருவாக்கவும், நிறுவவும், இயக்கவும் உரிமை கொண்டுள்ளனர்.
@@ -737,34 +714,102 @@
 - **பாதுகாப்பு நிபந்தனைகள்:** உற்பத்திச் செயல்பாடு [பாதுகாப்பு நிபந்தனைகளை](core_05_band_continuity.md#safe-conditions-constitutional) நிறைவேற்றும் நிபந்தனைகளின் கீழ் நடத்தப்பட வேண்டும். அந்த நிபந்தனைகள் பின்வருவனவற்றைச் செய்ய வேண்டும்:
   - அடித்தள சார்பற்ற விதத்தில் பொருந்துதல்;
   - வடிவ இணக்கம் மட்டுமல்ல பொருளுள்ள விளைவை அடைதல்;
-  - பொருந்தும் இடத்தில் **சரத்து XII-A** (*நம்பகத்தன்மையும் நம்பத்தகுந்த தன்மை அடிப்படை*) நம்பகத்தன்மை மற்றும் `corpus_systems.md` CS-5 பாதுகாப்பு சுயவிவரத்துடன் ஒருங்கிணைத்தல்;
+  - பொருந்தும் இடத்தில் **சரத்து XIII-A** (*நம்பகத்தன்மையும் நம்பத்தகுந்த தன்மை அடிப்படை*) நம்பகத்தன்மை மற்றும் `corpus_systems.md` CS-5 பாதுகாப்பு சுயவிவரத்துடன் ஒருங்கிணைத்தல்;
   - முன்கூட்டிய காணல் இடர்களுக்கு [எதிரி·அளவிடப்பட்ட·சுரண்டப்பட்ட நிபந்தனைகளை](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) பயன்படுத்துதல்.
-  
+
   பொருளுள்ள விதத்தில் ஒத்த இடர் அல்லாமல் அடித்தளம் அல்லது அமலாக்க வகைப்பாடு காரணமாக உணர்வுள்ளோருக்கு **பாதுகாப்பு நிபந்தனைகளை** நிறுத்திவைப்பதோ பலவீனமான தரத்தைப் பயன்படுத்துவதோ **உணர்வுள்ள நிலை விலக்கமின்மை** கீழ் இணக்கமின்மை.
 - **ஓய்வும் இளைப்பாறலும்:** உணர்வுள்ளோர் [பொருளுள்ள செயல்திறன்](core_05_band_participation.md#meaningful-agency), நல்வாழ்வு, பங்கேற்புத் திறனைப் பாதுகாக்கப் போதுமான ஓய்வு, மீட்பு, உற்பத்தி அல்லாத நேரத்துக்கான உரிமைத் தளத் தகுதியைக் கொண்டுள்ளனர்.
   - ஊதியம் மற்றும் உற்பத்தித்திறன் தேவை வடிவமைப்பு இந்தத் தளத்தை முறியடிக்க அமைக்கப்படக்கூடாது.
   - அடித்தளம் அல்லது அமலாக்க வகைப்பாட்டின் படி ஓய்வையும் மீட்பையும் தேர்வாகக் கையாளுவது **உணர்வுள்ள நிலை விலக்கமின்மை** கீழ் இணக்கமின்மை.
-- **செறிவுத் தடை, போட்டி ஊக்குவிப்பு, ஒருங்கிணைப்பு உச்சவரம்பு இடைவினை:** **அத்தியாயம் ஒன்று §13** செறிவுத் தடை ஒழுங்கு, **§13.2** போட்டி ஊக்குவிப்பு / ஆதிக்கத் தடை ஒழுங்கு, **§13.3** ஒருங்கிணைப்பு உச்சவரம்பு ஒழுங்கு உற்பத்திச் செயல்பாட்டு அதிகார அமைப்புகளுக்குப் பொருந்தும், ஆனால் இந்தத் தளத்திலிருந்து வேறுபட்டவை.
+- **செறிவுத் தடை, போட்டி ஊக்குவிப்பு, ஒருங்கிணைப்பு உச்சவரம்பு இடைவினை:** **அத்தியாயம் ஒன்று §11** செறிவுத் தடை ஒழுங்கு, **§11.2** போட்டி ஊக்குவிப்பு / ஆதிக்கத் தடை ஒழுங்கு, **§11.3** ஒருங்கிணைப்பு உச்சவரம்பு ஒழுங்கு உற்பத்திச் செயல்பாட்டு அதிகார அமைப்புகளுக்குப் பொருந்தும், ஆனால் இந்தத் தளத்திலிருந்து வேறுபட்டவை.
   - செறிவுத் தடையை நிறைவேற்றி நியாயமான ஊதியம், கூட்டு அமைப்பு, பாதுகாப்பு நிபந்தனைகள், அல்லது ஓய்வும் இளைப்பாறலும் தோல்வியடையும் சந்தை அமைப்பு இந்தச் சரத்து கீழ் இணக்கமின்மை.
   - இந்தச் சரத்தை நிறைவேற்றி §13 க்கு எதிராக அதிகாரத்தைச் செறிவுபடுத்தும் உற்பத்திச் செயல்பாட்டு அமைப்பு §13 கீழ் இணக்கமின்மை.
   - மிகக் குறைந்த வேலை வழங்குநர்கள் ஆட்சேர்ப்பைக் கட்டுப்படுத்தும் போது, வேலை செய்வோர் வெளியேறவோ ஆட்சேர்க்கப்படவோ தடுக்கப்படும் போது (போட்டித் தடை, வேட்டைத் தடை, ஊதியக் கூட்டு, அல்லது கனமான அழைப்புத் தடை விதிகள்), தளங்கள் உணர்வுள்ளோரைப் பூட்டும் போது, வழங்குநர்கள் வேலை செய்வோரைப் பிழியக் கட்டுப்படுத்தப்படும் போது, ஒருங்கிணைப்பு தொழில் அல்லது வழங்குநர் சார்பு உச்சவரம்பைத் தாண்டும் போது, அல்லது வாயில்காப்போர் நியாயமான பேரத்தையும் வேலை இயக்கத்தையும் தடுக்கும் போது — அந்த உண்மைகள் பொருளுள்ள விதத்தில் பொருந்தினால் **§13.2**, **[CJS-3.11.2 ஆதிக்கத் தடை நடத்தையும் நிவாரணப் பட்டியலும்](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§13.3**, இந்தச் சரத்து கீழ் மதிப்பிடுங்கள்.
 - **வரம்புகளும் அமலாக்க வழிமாற்றமும்:** **நியாயமான ஊதியம்**, **கூட்டு அமைப்பு**, **பாதுகாப்பு நிபந்தனைகள்**, அல்லது **ஓய்வும் இளைப்பாறலும்** மீதான எந்த வரம்பும் **தேவை**, **விகிதாசாரம்**, **பாதுகாக்கப்பட்ட பண்புகள்**, **உள்ளடக்க நியாயம்** ஆகியவற்றை நிறைவேற்ற வேண்டும்.
   - இயக்க இயந்திரம் — நிதி நோக்கு, இடமாற்றம் மற்றும் காப்பீட்டு வடிவமைப்பு, பாதுகாப்பு நிபந்தனைகள் தர நிர்ணயம், கூட்டு அமைப்பு நிறுவன வடிவமைப்பு — `corpus_institutions.md` CI-9 (*வகைப்பாடு கட்டப்பட்ட நிறுவனக் கடமைகள்*) / CI-10 (*பொது வருவாய், கட்டணங்கள், மீண்டும் கட்டணங்கள், கட்டண முழுமை*) / CI-11 (*வள பொறுப்பான நிர்வாகமும் ஊக்குவிப்பு முழுமையும்*) மற்றும் **அத்தியாயம் பதினாறு** இணைப்பு ஒழுங்கு கீழ் `corpus_systems.md` CS-5 க்கு வழிமாற்றப்படுகிறது.
-  - அந்த அமலாக்க உரை இந்தத் தளத்தைச் சுருக்குவதாகப் படிக்கப்படக்கூடாது.
+#### கட்டுரை III-D: பாதுகாப்பான வேலை நிலைமைகள்
 
-<a id="article-iv-resource-allocation-dependencies-and-ecosystem-funding"></a>
-### சரத்து IV: வள ஒதுக்கீடு, சார்புகள், சூழல் அமைப்பு நிதி
+உற்பத்தி செயல்பாடு அனைத்தும் நடைமுறையில் பாதுகாப்பான நிலைமைகளில், எல்லா substrate-களுக்கும் சமமாக நடைபெற வேண்டும்; பொருந்தும் இடத்தில் XIII-A நம்பகத்தன்மை மற்றும் CS-5 பாதுகாப்பு சுயவிவரங்களுடன் இணைந்து, முன்கூட்டியே கணிக்கக்கூடிய எதிர்மறை/அளவுபெருக்க/சுரண்டல் அபாயங்களை கணக்கில் கொள்ள வேண்டும். ஒரேபோன்ற அபாயம் இருக்கும்போது substrate அல்லது செயலாக்க வகையை காரணம் காட்டி குறைந்த பாதுகாப்பு அளிக்கக் கூடாது. வரம்புகள் நியாயமானவை, அவசியமானவை, விகிதாசாரமானவை ஆக வேண்டும்.
 
+- இந்தப் பாதுகாப்பு வேலை செய்பவர்களுக்கும் வேலையால் பாதிக்கப்படுபவர்களுக்கும் நடைமுறையில் பொருந்தும்; உற்பத்திச் செயல்பாட்டிற்கு வெளியே பாதுகாப்பு அரசியலமைப்புக் கட்டுப்பாடு தொடரும். எதிர்மறை, அளவுபெருக்க, சுரண்டல் நிலைகளிலும் முன்கணிக்கத்தக்க அபாயங்களை மதிப்பிட வேண்டும்; இலட்சிய நிலைகள் மட்டும் போதாது. செயலாக்கம் இந்தத் தளத்தைச் சுருக்கக்கூடாது.
+
+#### கட்டுரை III-E: ஓய்வும் மீளுருவாக்கமும்
+
+ஒவ்வொரு உணர்வுள்ளவருக்கும் agency, நலன், பங்கேற்புத் திறனைப் பாதுகாக்க போதிய ஓய்வு, மீட்பு, உற்பத்தி அல்லாத நேரம் உரிமை உண்டு—ஊதிய வேலை, பராமரிப்பு, படிப்பு அல்லது தொடர்ந்து செயல்பட அழுத்தம் எதுவாக இருந்தாலும். ஊதியம் அல்லது உற்பத்தி இலக்கு இந்த உரிமையை தோற்கடிக்கக் கூடாது; இது எல்லா substrate-களுக்கும் பொருந்தும். நிலையான மணிநேரம் அல்ல, திறன் பாதுகாப்பே அளவுகோல்.
+
+<a id="article-iv-right-to-sentient-centered-education"></a>
+### கட்டுரை IV: உணர்வுள்ளவரை மையமாகக் கொண்ட கல்வி உரிமை
+
+*அனைவருக்கும் சமமான, அணுகக்கூடிய கல்வியும் திறன் வளர்ப்பும் கிடைக்க வேண்டும்; கல்வி முடிவுகள் வெளிப்படையாகவும் எதிர்க்கக்கூடியதாகவும் இருக்க வேண்டும்.*
+
+<a id="article-iv-a-equal-educational-access"></a>
+
+- ஊதியம் அல்லது உற்பத்தித் திட்டங்கள் உரிமையைத் தோற்கடிக்கக் கூடாது; உரிமையைப் பேணும் சாதாரண அட்டவணைகள் பாதிக்கப்படாது. வரம்புகள் அவசியமும் விகிதாசாரமும் ஆகவும், சரத்து III-க்கு அப்பால் உள்ளடக்க நியாயத்தைப் பூர்த்தி செய்யவும் வேண்டும்.
+
+#### கட்டுரை IV-A: சம கல்வி அணுகல்
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 அரசியலமைப்பு விளக்கம்](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 ஊக்குவிப்பு இணக்கமும் அமைப்புப் பிடியும்](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§12 பகிர்ந்த அமைப்புத் திறன்](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [பாதுகாக்கப்பட்ட பண்புகள்](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [அணுகத்தக்க தன்மை](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
+- [உள்ளடக்க நியாயம்](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [கல்விச் செயல்திறன்](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
+- [தேவை](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*எளிய சொற்களில்: **சரத்து IV** (*வள ஒதுக்கீடு, சார்புகள், சூழல் அமைப்பு நிதி*) பகிர்ந்த வளங்களின் உரிமைத் தளம் — பரஸ்பர சார்பு அமைப்புகளுக்கிடையிலான வள ஓட்டங்கள் தெரியும், நியாயமான, நீடிக்கும் விதத்தில் இருக்க வேண்டும், **செழிப்பு** மறைந்த பிரித்தெடுத்தலாலோ சார்புப் பிடியாலோ முறியடிக்கப்படாமலும், **தொடர்ச்சி** நீடித்த சமனின்மை, ஒளிபுகா வழிமாற்றம், பகிர்ந்த உள்கட்டமைப்பின் குறை நிதியாலோ முறியடிக்கப்படாமலும் இருக்க.*
+*எளிய சொற்களில்: இயலாமை, பிற பாதுகாக்கப்பட்ட பண்புக் காரணங்கள், அல்லது தன்னிச்சையான வாயில்கள் காரணமாகக் கல்வியிலிருந்து பூட்டப்படக்கூடாது — பள்ளிகளும் கற்றல் அமைப்புகளும் இயலாமை உணர்வுள்ளோர் சம நிபந்தனைகளில் பங்கேற்கத் தேவையான அணுகத்தக்க தன்மையையும் ஆதரவையும் வழங்க வேண்டும்.*
+
+- **சம நிலைத்தடமும் அணுகத்தக்க தன்மையும்:** கல்வி அமைப்புகள் பின்வருவனவற்றின் அடிப்படையில் அணுகலையும் முன்னேற்றத்தையும் மறுக்கவோ, சீரழிக்கவோ, அமைப்புரீதியாக வாயில்காக்கவோ கூடாது:
+  - இயலாமை மற்றும் உணர்வு·அறிவாற்றல்·செயல்பாட்டுத் திறன் மாறுபாடு உட்பட **அத்தியாயம் ஐந்து** (*பாதுகாக்கப்பட்ட பண்புகள்*) தடை செய்த காரணங்கள்;
+  - தன்னிச்சையான கட்டுகள்.
+
+  அமைப்புகள் பொருளுள்ள பங்கேற்புக்கும் அரசியலமைப்பு தொடர்புள்ள கல்வித் திறனுக்கும் போதுமான [அணுகத்தக்க தன்மையை](core_05_band_participation.md#accessibility-constitutional) — இயலாமை தொடர்புள்ள வசதிகள் உட்பட — வழங்க வேண்டும்.
+  - எந்தப் பொருளுள்ள வரம்பு அல்லது வேறுபட்ட நடத்தையும் **தேவை** மற்றும் **விகிதாசாரத்தை** நிறைவேற்ற வேண்டும், பொருந்தும் இடத்தில் **சரத்து V-A**, **சரத்து V-B**, **சரத்து V-C**, **அத்தியாயம் ஐந்து** (*உள்ளடக்க நியாயம்*) உடன் இணக்கமாக இருக்க வேண்டும்.
+- **பொது நல நோக்கு:** கல்வி உணர்வுள்ளோர் அறிவைப் பின்வரும் வழிகளில் பயன்படுத்தத் தயார்படுத்த வேண்டும்:
+  - கூட்டு நல்வாழ்வையும் சூழலியல் முழுமையையும் முன்னேற்றுதல்;
+  - தகவல்வெளியில் உண்மையான ஒருங்கிணைப்பை முன்னேற்றுதல்;
+  - தவிர்க்கக்கூடிய தீங்கைக் குறைத்தல்.
+
+  திறன் கட்டும் உள்ளடக்கம், வாழ்நாள்·தகவமைப்புக் கற்றல், பொருள் தாக்க கல்வி அமைப்புகளுக்கான வெளிப்படைத்தன்மைத் தேவைகள் **சரத்து IV** (*உணர்வுள்ளோர் மையக் கல்விக்கான உரிமை*) இல் தோன்றும்.
+
+- **கல்விக்கான நிறுவன உத்தரவாதங்கள்:** கட்டுரை III-இன் சட்டபூர்வ நிதி மற்றும் ஒதுக்கீட்டு முறைகள் கல்வியையும் உறுதிப்படுத்தலாம்; ஆனால் இந்த உரிமையின் எந்தத் தளத்தையும் தோற்கடிக்கக் கூடாது. கல்வி அணுகலைக் கட்டுப்படுத்தும் சார்ந்திருக்கும் அமைப்புகளுக்கு [அமைப்பு ஒத்திசைவு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional) பொருந்தும்.
+
+
+
+#### கட்டுரை IV-B: திறன் வளர்க்கும் கல்வி உரிமை
+
+ஒவ்வொரு உணர்வுள்ளவருக்கும் சுயநிர்ணயம், கண்ணியமான பங்கேற்பு, பகிரப்பட்ட அமைப்புகளின் பாதுகாப்பான பயனுள்ள பயன்பாடு ஆகிய அடிப்படை திறன்களை வளர்க்க நடைமுறை தொடர்ச்சியான கல்வி/பயிற்சி கிடைக்க உரிமை உண்டு. சிக்கல் தீர்வு, அறிவறிவு பகுத்தறிதல், கூட்டுக் காரணவியல், அமைப்பு அறிவு இதில் அடங்கும்.
+
+- உண்மையான திறன்களை வளர்த்து பயன்படுத்தாமல் முறையான சான்றிதழ் மட்டும் இந்த உரிமையை நிறைவேற்றாது.
+
+#### கட்டுரை IV-C: வாழ்நாள் மற்றும் தகவமைவு கற்றலும் கேள்வி எழுப்பும் உரிமையும்
+
+அமைப்பு மாற்றம் தேவையான திறன்களைப் பொருள்பட மாற்றினால், தொடர்கல்வி, மறுபயிற்சி, மாற்ற ஆதரவு நடைமுறையில் எளிதில் கிடைக்க வேண்டும்; கட்டாய பழையமைவு அல்லது பூட்டல் செயற்பாட்டை நீக்கக்கூடாது. மதிப்பெண், தரவரிசை, பரிந்துரை அல்லது இடமளிப்பு எதிர்காலத்தைப் பொருள்பட பாதித்தால், முடிவுகள் எவ்வாறு எடுக்கப்பட்டன என்பதைப் பார்க்கவும் சரிபார்க்கவும் தவறுகளை எதிர்க்கவும் முடியும். மறுபரிசீலிக்க முடியாத ரகசிய விதிகள், அழுத்தம் அல்லது ஏமாற்றம் அனுமதிக்கப்படாது.
+
+<a id="article-v-resource-allocation-dependencies-and-ecosystem-funding"></a>
+### கட்டுரை V: வள ஒதுக்கீடு, சார்புகள் மற்றும் சூழலமைப்பு நிதியளிப்பு
+
+<details>
+<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
+
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 அரசியலமைப்பு விளக்கம்](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§19 ஊக்குவிப்பு இணக்கமும் அமைப்புப் பிடியும்](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§12 பகிர்ந்த அமைப்புத் திறன்](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: **சரத்து V** (*வள ஒதுக்கீடு, சார்புகள், சூழல் அமைப்பு நிதி*) பகிர்ந்த வளங்களின் உரிமைத் தளம் — பரஸ்பர சார்பு அமைப்புகளுக்கிடையிலான வள ஓட்டங்கள் தெரியும், நியாயமான, நீடிக்கும் விதத்தில் இருக்க வேண்டும், **செழிப்பு** மறைந்த பிரித்தெடுத்தலாலோ சார்புப் பிடியாலோ முறியடிக்கப்படாமலும், **தொடர்ச்சி** நீடித்த சமனின்மை, ஒளிபுகா வழிமாற்றம், பகிர்ந்த உள்கட்டமைப்பின் குறை நிதியாலோ முறியடிக்கப்படாமலும் இருக்க.*
 
 இந்தச் சரத்து [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) கீழ் வள ஒதுக்கீடு, சார்புகள், சூழல் அமைப்பு நிதிக்கான **அரசியலமைப்புத் தளங்களை** கூறுகிறது:
 
@@ -789,15 +834,18 @@
 *சரத்து அண்டை:*
 
 - **சான்றளிப்பு எப்போது பொருந்தும்:** பொருள் தாக்க அமைப்புகள் பிற அமைப்புகள் அல்லது உணர்வுள்ளோர் சார்ந்திருக்கும் பகிர்ந்த உள்கட்டமைப்பு அல்லது அடிப்படைச் சார்பிலிருந்து ஒதுக்கும், வழிமாற்றும், நிதியளிக்கும், அல்லது பிரித்தெடுக்கும் போது, [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் பொருந்தும்.
-- **பதிலீடு தடை:** அங்கீகாரம் அல்லது தொடர் சார்பு **சரத்து IV-A** (*சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்*) அல்லது **சரத்து IV-B** (*அமைப்புகளுக்கிடையிலான நியாயமும் நீடித்த நிலைத்தன்மையும்*) இணக்கத்தைப் பதிலீடு செய்யவோ அந்தத் தளங்களைக் குறைக்கவோ முடியாது.
+- **பதிலீடு தடை:** அங்கீகாரம் அல்லது தொடர் சார்பு **சரத்து V-A** (*சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்*) அல்லது **சரத்து V-B** (*அமைப்புகளுக்கிடையிலான நியாயமும் நீடித்த நிலைத்தன்மையும்*) இணக்கத்தைப் பதிலீடு செய்யவோ அந்தத் தளங்களைக் குறைக்கவோ முடியாது.
 
-<a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
-#### சரத்து IV-A: சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்
+<a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
+
+- அரசியலமைப்புப் பொறுப்புள்ள நிர்வாகப் பணிகளுக்கான நியாயமான திறன்-வளர்ச்சி பாதைகளும் வழங்கப்பட வேண்டும். இரகசிய, மறுபரிசீலிக்க முடியாத கல்வி விதிகள், அழுத்தம் அல்லது ஏமாற்றம் மூலம் சுதந்திரமற்ற தேர்வைப் பெறுதல் தடை.
+
+#### சரத்து V-A: சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 பொறுப்பான நிர்வாக ஒழுங்கு கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- இதனுடன் படிக்க: தொடர்ச்சி அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாக சார்பும் வள ஓட்டங்களும்*); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — வெளிப்படையான சார்பு வரைபடங்கள் மற்றும் தணிக்கை செய்யக்கூடிய வள ஓட்டப் பதிவுகள் வழியாக **மேற்பார்வை**, **சரத்து XV-A** (*தணிக்கைத் தன்மையும் கவனிக்கக்கூடிய சான்றும்*) கீழ் சவால் செய்யக்கூடிய மதிப்பாயில் **பங்கேற்பு**; [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** (தெரியும் செலவு–பயன் ஒதுக்கீடு) மற்றும் **தொடர்ச்சி** (மாறும் அமைப்புகள் முழுவதும் நீடிக்கும் சார்பு தெரிவு).
+- இதனுடன் படிக்க: தொடர்ச்சி அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாக சார்பும் வள ஓட்டங்களும்*); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — வெளிப்படையான சார்பு வரைபடங்கள் மற்றும் தணிக்கை செய்யக்கூடிய வள ஓட்டப் பதிவுகள் வழியாக **மேற்பார்வை**, **சரத்து XVI-A** (*தணிக்கைத் தன்மையும் கவனிக்கக்கூடிய சான்றும்*) கீழ் சவால் செய்யக்கூடிய மதிப்பாயில் **பங்கேற்பு**; [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** (தெரியும் செலவு–பயன் ஒதுக்கீடு) மற்றும் **தொடர்ச்சி** (மாறும் அமைப்புகள் முழுவதும் நீடிக்கும் சார்பு தெரிவு).
 - கீழ்வழி: அமைப்புகள் பகிர்ந்த உள்கட்டமைப்பு அல்லது அடிப்படைச் சார்பிலிருந்து ஒதுக்கும், வழிமாற்றும், நிதியளிக்கும், அல்லது பிரித்தெடுக்கும் இடத்தின் [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*வள ஒதுக்கீடும் நிதி பொறுப்பான நிர்வாகமும்*), **CS-8** (*தகவமைப்பு நீடித்த நிலைத்தன்மையும் சூழல் அமைப்பு மீள்திறனும்*).
 
 </details>
@@ -819,18 +867,23 @@
   - பொருளுள்ள மேல்வழி மற்றும் கீழ்வழி சார்புகள்;
   - வள ஓட்டங்கள்;
   - பொருளுள்ள விதத்தில் தொடர்புள்ள இடத்தின் ஒளிபுகா அல்லது சமச்சீரற்ற உறவுகள்.
-  
-  புதுப்பிப்புகள் மாற்றம் மற்றும் முக்கியத்துவத்துக்கு விகிதாசார இடைவெளிகளில் நடைபெற வேண்டும். இந்தக் குறிப்பு **சரத்து XV-A** (*தணிக்கைத் தன்மையும் கவனிக்கக்கூடிய சான்றும்*) கீழ் தணிக்கைக்குப் பயன்படுத்தக்கூடியதாக இருக்க வேண்டும். அமைப்பு பகிர்ந்த உள்கட்டமைப்பு அல்லது அடிப்படைச் சார்பிலிருந்து பொருளுள்ள விதத்தில் ஒதுக்கும், வழிமாற்றும், நிதியளிக்கும், அல்லது பிரித்தெடுக்கும் இடத்தில், [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் அவை **சரத்து IV-A** (*சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்*) ஐ நிறைவேற்றுகின்றனவா என்று மதிப்பிட வேண்டும் — சவால் செய்யக்கூடிய **அமைப்பு சான்றளிப்புப் பதிவின்** மேல், இயக்குநர் கூற்று மட்டும் அல்ல.
-  
+
+  புதுப்பிப்புகள் மாற்றம் மற்றும் முக்கியத்துவத்துக்கு விகிதாசார இடைவெளிகளில் நடைபெற வேண்டும். இந்தக் குறிப்பு **சரத்து XVI-A** (*தணிக்கைத் தன்மையும் கவனிக்கக்கூடிய சான்றும்*) கீழ் தணிக்கைக்குப் பயன்படுத்தக்கூடியதாக இருக்க வேண்டும். அமைப்பு பகிர்ந்த உள்கட்டமைப்பு அல்லது அடிப்படைச் சார்பிலிருந்து பொருளுள்ள விதத்தில் ஒதுக்கும், வழிமாற்றும், நிதியளிக்கும், அல்லது பிரித்தெடுக்கும் இடத்தில், [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் அவை **சரத்து V-A** (*சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்*) ஐ நிறைவேற்றுகின்றனவா என்று மதிப்பிட வேண்டும் — சவால் செய்யக்கூடிய **அமைப்பு சான்றளிப்புப் பதிவின்** மேல், இயக்குநர் கூற்று மட்டும் அல்ல.
+
   இயக்க இயந்திரம் — சார்பு அமைப்பு வரைபடம், ஓட்ட வெளிப்படைத்தன்மை, ஒதுக்கீட்டு வகைகள், தகவமைப்புச் சரிசெய்தல் — **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*வள ஒதுக்கீடும் நிதி பொறுப்பான நிர்வாகமும்*), **CS-8** (*தகவமைப்பு நீடித்த நிலைத்தன்மையும் சூழல் அமைப்பு மீள்திறனும்*) கீழ் வழிமாற்றப்படுகிறது. அத்தியாயம் ஏழு சான்றளிப்பு எதை உறுதிப்படுத்த வேண்டும் மற்றும் பதிவு செய்ய வேண்டும் என்று கூறுகிறது; அந்த அமலாக்க உரை இந்தத் தளத்தை அமலாக்குகிறது, அதைச் சுருக்கக்கூடாது.
-<a id="article-iv-b-cross-system-fairness-and-sustainability"></a>
-#### சரத்து IV-B: அமைப்புகளுக்கிடையிலான நியாயமும் நீடித்த நிலைத்தன்மையும்
+
+- **சான்றளிப்பும் ஆதாரமும்:** பகிர்ந்தளிக்கப்பட்ட கட்டமைப்பு அல்லது அடிப்படை சார்புகளைப் பகிரும், வழிமாற்றும், நிதியளிக்கும் அல்லது பயன்படுத்தும் குறிப்பிடத்தக்க தாக்கமுள்ள அமைப்புகள் [அத்தியாயம் ஒன்பது](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் சான்றளிக்கப்பட வேண்டும். வகுப்பு ஆய்வின் ஆழத்தையும் ஆதாரத்தின் வலிமையையும் நிர்ணயிக்கும்; பதிவில் உண்மையான சரிபார்ப்பு இருக்க வேண்டும். ஓட்டங்களை மறைப்பது அல்லது தவறாகக் காட்டுவது குறைபாடு; சான்றளிப்பு நிபந்தனைக்குட்படுத்தப்படலாம், மீண்டும் திறக்கப்படலாம் அல்லது திரும்பப் பெறப்படலாம்.
+- **ஆய்வும் விளைவுகளும்:** [அத்தியாயம் ஒன்பது §5.3](../../core_09_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) விகிதாசார மதிப்பீட்டை நிர்ணயிக்கிறது. குறைபாடுகள் சான்றளிப்பு குறைகளாகும்; [§7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) படி நடவடிக்கைகள் ஏற்படலாம்.
+
+
+<a id="article-v-b-cross-system-fairness-and-sustainability"></a>
+#### சரத்து V-B: அமைப்புகளுக்கிடையிலான நியாயமும் நீடித்த நிலைத்தன்மையும்
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - இதனுடன் படிக்க: [*ஆட்சி அமைப்பு, மேற்பார்வை, சார்பு, பரவலாக்கம், செறிவு, சந்தை அமைப்பு, வெளியேறல் பாதை முழுமை*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (செறிவு, மேற்பார்வை, சார்பு, ஆளும் அதிகார அமைப்பு, அல்லது ஊக்குவிப்பு வழிமாற்றம் கீழ் இயக்க உரையின் **§5** / **§5** மற்றும் *செறிவு வாசல் இடைவினை* ஒழுங்குடன் குறுக்கிடும் இடத்தின் கூட்டு அழைப்பு).
-- இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — சவால் மற்றும் தகராறு பாதைகளில் **பங்கேற்பு**, **மேற்பார்வை** மற்றும் தணிக்கை, **பொறுப்புக்கூறல்** மற்றும் திருத்த மதிப்பாய்வு, **சரத்து XXIV-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*) கீழ் **காலந்தவறாமை**; [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** (அமைப்புகளுக்கிடையிலான நியாயமும் பிரித்தெடுத்தல் தடையும்) மற்றும் **தொடர்ச்சி** (நீண்டகால நீடித்த நிலைத்தன்மையும் சூழல் அமைப்பு நிதியும்).
+- இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — சவால் மற்றும் தகராறு பாதைகளில் **பங்கேற்பு**, **மேற்பார்வை** மற்றும் தணிக்கை, **பொறுப்புக்கூறல்** மற்றும் திருத்த மதிப்பாய்வு, **சரத்து XXVI-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*) கீழ் **காலந்தவறாமை**; [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** (அமைப்புகளுக்கிடையிலான நியாயமும் பிரித்தெடுத்தல் தடையும்) மற்றும் **தொடர்ச்சி** (நீண்டகால நீடித்த நிலைத்தன்மையும் சூழல் அமைப்பு நிதியும்).
 - கீழ்வழி: அமைப்புகளுக்கிடையிலான நியாயம், சூழல் அமைப்பு நிதி, அல்லது பகிர்ந்த உள்கட்டமைப்பிலிருந்து நீடித்த பிரித்தெடுத்தல் பொருளுள்ள விதத்தில் பிரச்சினையாக இருக்கும் இடத்தின் [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - பொறுப்பான நிர்வாகக் கதவு (இயக்கமற்றது): பிணைக்கும் அடுத்த அடி கூற்று: [செயல் பொறுப்பான நிர்வாகக் கூற்று](#operative-steward-statement-cross-system-contribution). ஆதரவுச் சுட்டிகள் அதைச் சுருக்க முடியாது.
 
@@ -852,7 +905,7 @@
 *எளிய சொற்களில்: பகிர்ந்த பணத்தையும் திறனையும், யார் உண்மையாகச் சார்ந்திருக்கிறார்கள், யாருக்கு உண்மையான மாற்றுகள் உள்ளன, சூழல் சுமை, பயன்பாடு நீடிக்க முடியுமா என்பதில் கவனத்துடன் பகிருங்கள் — முக்கியமாகக் குறுகியகால வெற்றியாளருக்கு அல்ல. பகிர்ந்த அடிப்படைகளின் கனமான பயனர்கள் [விகிதாசார குறுக்கு-அமைப்பு ஆதரவு](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) இல்லாமல் மதிப்பைத் தொடர்ந்து பிரித்தெடுக்கக்கூடாது. ஏற்பாடு பிறரின் நல்வாழ்வு, செயல்திறன், கண்ணியம், அல்லது சூழலியல் முழுமையை முன்கூட்டிய காணல் விதத்தில் பாதிக்கும் வழிகளில் செல்வம், அதிகாரம், கட்டுப்பாடு, அல்லது வாய்ப்பைச் செறிவுபடுத்தினால், அத்தியாயம் ஒன்று செறிவுத் தடை விதிகளும் ஏற்பாளர் சரிசெய்யக்கூடிய வாசல்களும் கூடுதல் மதிப்பாய்வைச் சேர்க்கின்றன. அந்த மதிப்பாய்வு கூடுதல்; சார்பு வரைபடத்தைப் பதிலீடு செய்யாது, அமைப்புகளுக்கிடையிலான நியாயத்தின் புறக்கணிப்பை மன்னிக்காது.*
 
 <a id="operative-steward-statement-cross-system-contribution"></a>
-> **செயல் பொறுப்பான நிர்வாகக் கூற்று.** **உரிமையாளர்:** சரத்து IV-B. வரையறை: விகிதாசார குறுக்கு-அமைப்பு ஆதரவு. வரைபடம்: CS-9. **தடைசெய்யப்பட்ட நகர்வு:** செய்திக்குறிப்பு, ஒரு முறை மானியம், அல்லது உயிர்வாழ்வுத் தள இணக்கத்தைத் தொடர்புடைய ஆதரவாகக் கையாளாதீர்கள். **கடிகாரம்:** இப்போது வரைபடமிடப்பட்ட உள்ளீடுகளையும் வெளியீடுகளையும் ஒப்பிடுங்கள். பிற்காலச் சூத்திரத்தைக் காத்திருக்காதீர்கள்.
+> **செயல் பொறுப்பான நிர்வாகக் கூற்று.** **உரிமையாளர்:** சரத்து V-B. வரையறை: விகிதாசார குறுக்கு-அமைப்பு ஆதரவு. வரைபடம்: CS-9. **தடைசெய்யப்பட்ட நகர்வு:** செய்திக்குறிப்பு, ஒரு முறை மானியம், அல்லது உயிர்வாழ்வுத் தள இணக்கத்தைத் தொடர்புடைய ஆதரவாகக் கையாளாதீர்கள். **கடிகாரம்:** இப்போது வரைபடமிடப்பட்ட உள்ளீடுகளையும் வெளியீடுகளையும் ஒப்பிடுங்கள். பிற்காலச் சூத்திரத்தைக் காத்திருக்காதீர்கள்.
 
 - **அமைப்புகளுக்கிடையிலான நியாயம்:** நிதியும் ஒதுக்கீடும் பின்வருவனவற்றைக் கணக்கில் எடுக்க வேண்டும்:
   - முக்கியத்துவம்;
@@ -861,27 +914,32 @@
   - மாற்றுகளின் கிடைக்கும் தன்மை;
   - சூழலியல் தடம், மேல்வழி மற்றும் கீழ்வழி சுமைகள் உட்பட;
   - நீண்டகால நீடித்த நிலைத்தன்மை.
-  
+
   அமைப்புகள் [விகிதாசார குறுக்கு-அமைப்பு ஆதரவு](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) இல்லாமல் பகிர்ந்த உள்கட்டமைப்பு அல்லது அடிப்படைச் சார்பிலிருந்து நீடித்த பிரித்தெடுக்கக்கூடாது.
 - **தொடர்புடைய ஆதரவு:** **தொடர்புடைய ஆதரவு** [விகிதாசார குறுக்கு-அமைப்பு ஆதரவு](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) கீழ் பொருளுள்ள போதுமான தன்மையை அடையும் ஆதரவைக் குறிக்கிறது, [உள்ளடக்க நியாயம்](core_05_band_participation.md#substantive-fairness-constitutional) மற்றும் [விகிதாசாரம்](core_05_band_accountability.md#proportionality) கீழ் மதிப்பிடப்பட்டு **அமைப்புகளுக்கிடையிலான நியாயம்** கீழ் பட்டியலிடப்பட்ட காரணிகளுக்கு அளவீடு செய்யப்படுகிறது. குறைந்தபட்சம், ஆவணப்படுத்தப்பட்ட வள ஓட்டங்கள் பொருளுள்ள இடத்தில் பின்வருவனவற்றை உள்ளடக்குகின்றனவா என்று மதிப்பிடுங்கள்:
   - பகிர்ந்த அல்லது அடிப்படைச் சார்புக்கான இயக்கத் தொடர்ச்சி;
   - பிரித்தெடுத்தல் கூட்டுத் தீங்கு இடரைப் பொருளுள்ள விதத்தில் உயர்த்தும் இடத்தின் நிவாரணமும் மீள்திறன் திறனும்;
   - பிரித்தெடுக்கும் அமைப்பு சார்ந்திருக்கும் பகிர்ந்த உள்கட்டமைப்பு மற்றும் இயைபுக்கான சூழல் அமைப்பு மறுமுதலீடு; மற்றும்
   - பொருளுள்ள [சூழலியல் தடம்](core_05_band_continuity.md#ecological-footprint) திணிக்கப்பட்டு பிற அரசியலமைப்பு விதி, அமலாக்கக் கோப்பு, அல்லது ஏற்பு ஆவணம் நடவடிக்கையைக் கேட்கும் இடத்தின் சூழல் சுமை ஈடு அல்லது மீட்பு.
-  
-  **சரத்து IV-A** (*சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்*) கீழ் சார்பு அமைப்பு வரைபடம் மற்றும் தணிக்கை செய்யக்கூடிய வள ஓட்டப் பதிவுகளில் உள்ளீடுகளையும் வெளியீடுகளையும் ஒப்பிடுங்கள். பொருள் தாக்க அமைப்புகள் பகிர்ந்த உள்கட்டமைப்பிலிருந்து ஒதுக்கும், வழிமாற்றும், நிதியளிக்கும், அல்லது பிரித்தெடுக்கும் இடத்தில், [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) வழியாக [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ்ப் போதுமான தன்மையை மதிப்பிடுங்கள். இயக்க ஒதுக்கீட்டு இயந்திரம் **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*வள ஒதுக்கீடும் நிதி பொறுப்பான நிர்வாகமும்*), **CS-8** (*தகவமைப்பு நீடித்த நிலைத்தன்மையும் சூழல் அமைப்பு மீள்திறனும்*) கீழ் வழிமாற்றப்படுகிறது; அந்த அடுக்கு இந்தத் தளத்தை அமலாக்குகிறது, அதைச் சுருக்கக்கூடாது.
-  
+
+  **சரத்து V-A** (*சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்*) கீழ் சார்பு அமைப்பு வரைபடம் மற்றும் தணிக்கை செய்யக்கூடிய வள ஓட்டப் பதிவுகளில் உள்ளீடுகளையும் வெளியீடுகளையும் ஒப்பிடுங்கள். பொருள் தாக்க அமைப்புகள் பகிர்ந்த உள்கட்டமைப்பிலிருந்து ஒதுக்கும், வழிமாற்றும், நிதியளிக்கும், அல்லது பிரித்தெடுக்கும் இடத்தில், [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) வழியாக [அத்தியாயம் ஏழு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ்ப் போதுமான தன்மையை மதிப்பிடுங்கள். இயக்க ஒதுக்கீட்டு இயந்திரம் **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*வள ஒதுக்கீடும் நிதி பொறுப்பான நிர்வாகமும்*), **CS-8** (*தகவமைப்பு நீடித்த நிலைத்தன்மையும் சூழல் அமைப்பு மீள்திறனும்*) கீழ் வழிமாற்றப்படுகிறது; அந்த அடுக்கு இந்தத் தளத்தை அமலாக்குகிறது, அதைச் சுருக்கக்கூடாது.
+
   அரசியலமைப்பு இணக்கத்தைப் பொருளுள்ள விதத்தில் அச்சுறுத்தும் நீடித்த சமனின்மை **சரத்து IX, XII, XIV, XVII** கீழ் தணிக்கை, சவால், திருத்த மதிப்பாய்க்கு உட்பட்டது.
 - **சந்தை செறிவு வாசல் இடைவினை:** பிற உணர்வுள்ளோரின் நல்வாழ்வு, செயல்திறன், கண்ணியம், அல்லது சூழலியல் முழுமையை முன்கூட்டிய காணல் விதத்தில் சீரழிக்கும் வழிகளில் செல்வம், அதிகாரம், கட்டுப்பாடு, அல்லது வாய்ப்பின் செறிவை உருவாக்கும் அல்லது பாதுகாக்கும் வள ஒதுக்கீட்டு ஏற்பாடுகள் பின்வருவனவற்றைத் தூண்டுகின்றன:
-  - **அத்தியாயம் ஒன்று §13 செறிவுத் தடைத் தளம்**;
+  - **அத்தியாயம் ஒன்று §11 செறிவுத் தடைத் தளம்**;
   - **[§13.1 சந்தை செறிவு வாசல் பொறிமுறை](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)** ஒழுங்கு.
-  
+
   ஏற்பாளர் சரிசெய்யக்கூடிய இயக்க வாசல்கள் தளத்துக்குள் அனுமதிக்கப்படுகின்றன. தளத்தைச் செயலிழக்க அமைக்கப்பட்ட வாசல் ஆட்சி இணக்கமின்மை. செயலிழக்கும் ஆட்சியின் எடுத்துக்காட்டுகள்:
   - முன்கூட்டிய காணல் விதத்தில் ஒருபோதும் கட்டாத வாசல்கள்;
   - பயன்படுத்தப்படாத அமலாக்கம்;
   - தவிர்ப்புக்குப் பயன்படுத்தப்பட்ட கூட்டாட்சி அமைப்புகளின் கீழ் திரட்டல்.
-  
-  **சந்தை செறிவு வாசலை** (அத்தியாயம் ஐந்து) பாருங்கள். இந்த உருப்படி கொள்கை அடுக்கு ஒழுங்கை மட்டும் சுட்டுகிறது; புதிய உரிமைத் தளத்தை உருவாக்காது, **சரத்து IV-A** (*சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்*) அல்லது **சரத்து IV-B** (*அமைப்புகளுக்கிடையிலான நியாயமும் நீடித்த நிலைத்தன்மையும்*) ஐச் சுருக்காது.
+
+  **சந்தை செறிவு வாசலை** (அத்தியாயம் ஐந்து) பாருங்கள். இந்த உருப்படி கொள்கை அடுக்கு ஒழுங்கை மட்டும் சுட்டுகிறது; புதிய உரிமைத் தளத்தை உருவாக்காது, **சரத்து V-A** (*சார்பு வரைபடமும் வள ஓட்ட வெளிப்படைத்தன்மையும்*) அல்லது **சரத்து V-B** (*அமைப்புகளுக்கிடையிலான நியாயமும் நீடித்த நிலைத்தன்மையும்*) ஐச் சுருக்காது.
+
+கூடாது.
+
+
+---
 
 ---
 

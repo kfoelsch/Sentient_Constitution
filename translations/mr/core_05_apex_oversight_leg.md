@@ -94,34 +94,6 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
-
-### देखरेख
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
-- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: उच्च-प्रभावी प्रणाली काय दर्शवतात हे संवेदनशील जीव पाहू, पडताळू आणि त्यावर विश्वास ठेवू शकतात का, हे हे प्रश्न तपासतात. पाचव्या अध्यायात देखरेख मापन-कुटुंबाचे स्थान येथे आहे; प्रस्तावनेतील §2 श्रेणीचा सोपा प्रश्न ठेवतो आणि कुटुंबाचा तक्ता व व्याख्यांकडे निर्देश येथे आहेत.*
-
-*महत्त्वता ([Materiality](core_05_band_oversight.md#materiality)) एकात्मिक आहे, स्वतंत्र मापन-श्रेणी नाही; [material stake](core_00_preamble.md#material-stake) नुसार या कुटुंबाचा लागू होण्याचा जोर ती ठरवते.*
-
-| मापन-कुटुंब | सोपा प्रश्न | मुख्य घटनात्मक उपयोग |
-|---|---|---|
-| सत्यता आणि ज्ञानविषयक अखंडता | दावे, नोंदी आणि खुलासे सुरक्षित निर्णयांसाठी पुरेसे प्रामाणिक आहेत का? | माहितीपूर्ण सहभाग, उपाय आणि दुरुस्तीचे संरक्षण करते. |
-| विश्वासार्हता | अवलंबून राहणे योग्य आहे का, की विश्वास कमी होत आहे? | खोट्या खात्रीपासून आणि दिशाभूल करणाऱ्या अवलंबित्वापासून संवेदनशील जीवांचे संरक्षण करते. |
-
-सहावा अध्याय, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), किंवा समाविष्ट साधने स्पष्टपणे सांगतात तेव्हाच विश्वासार्हता, लेखापरीक्षण किंवा पुनरावलोकनाच्या बंधनकारक अटी लागू होतात.
-
-**मागील फाइल:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
-**पुढील फाइल:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### देखरेख मोजणे (प्रस्तावना मापन कुटुंब)

@@ -4,9 +4,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">جایگاه در پیکره (غیرعملیاتی): ساختار پرونده و قواعد خواندن</span></strong></summary>
 
-> این پرونده **آزمایش زبان خواننده** برای [فصل سوم به انگلیسی](../../core_03_definition_integrity.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
->
-> **قبلی (این زبان):** [core_02_definition_structure.md](core_02_definition_structure.md)
+> این پرونده **بخشی از قانون اساسی حس‌مندان** است و **فقط همراه با** دیگر پرونده‌های شماره‌دار `core_*` که به‌صورت یک سند واحد خوانده می‌شوند الزام‌آور است. این پرونده شامل **فصل سوم** است: یکپارچگی تعریف، گریز، و عدم‌انطباق. **فصل دوم** — ساختار تعریف و هم‌ترازی مؤلفه‌ها — در [`core_02_definition_structure.md`](../../core_02_definition_structure.md) است. شماره‌گذاری فصل‌ها و ارجاع‌های متقابل با سند یکپارچه منطبق‌اند. ترتیب خواندن، جداییِ محتوای الزام‌آور و پشتیبان، و فرادادهٔ ویرایش پیکره در [README.md](../../README.md) نگه‌داری می‌شوند.
+
+**قبلی (این زبان):** [core_02_definition_structure.md](core_02_definition_structure.md)
 >
 > **بعدی (این زبان):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 > **قوس خواندن:** §1 یکپارچگی تعریف و ضدگریز → §2 عدم‌انطباق از رفتار مشاهده‌پذیر و گونه‌های گریز → **§3 نمایه‌های یافته و آثار ردپا**.
@@ -37,7 +37,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: اصول: [فصل دوم، §1 — مقصود و نقش](core_02_definition_structure.md#1-purpose-and-role)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-definition-integrity-requirement).
-- پایین‌دست: [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](#2-non-compliance-from-observable-system-behavior)؛ [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- پایین‌دست: [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](#2-non-compliance-from-observable-system-behavior)؛ [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - خوانده شود با: [فصل یکم، بخش 4.2 — حقیقت (قید یکپارچگی معرفتی)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — تفسیر بر پایهٔ رفتار مشاهده‌پذیر به‌جای ساختار یا قصد اعلام‌شده، قید حقیقت قانون اساسی را در لایهٔ یکپارچگی تعریف عملیاتی می‌کند.
 
 </details>
@@ -89,7 +89,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: اصول: [فصل سوم، بخش 1 — یکپارچگی تعریف و قیدهای ضدگریز](#1-definition-integrity-and-anti-evasion-constraints)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [فصل دوم، §2.2 عدم‌انطباق از راه تضعیف ساختاری یا اعمالی](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening).
-- پایین‌دست: کاتالوگ‌های گونه در بخش‌های [2.1](#21-common-evasion-patterns) تا [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint)؛ [3. نمایه‌های یافتهٔ عدم‌انطباق](#3-non-compliance-finding-profiles)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [فصل چهارم، بخش 3 — الزام مشاهده‌پذیری ردگیری‌پذیری](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)؛ [فصل هفتم §6](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) (*اشاره‌گر بازگشایی گواهی هم‌راستایی نظام و ضدگریز*)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- پایین‌دست: کاتالوگ‌های گونه در بخش‌های [2.1](#21-common-evasion-patterns) تا [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint)؛ [3. نمایه‌های یافتهٔ عدم‌انطباق](#3-non-compliance-finding-profiles)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)؛ [فصل چهارم، بخش 3 — الزام مشاهده‌پذیری ردگیری‌پذیری](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)؛ [فصل نهم §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*اشاره‌گر بازگشایی گواهی هم‌راستایی نظام و ضدگریز*)؛ [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - خوانده شود با: [فصل دوم، §1 — مقصود و نقش](core_02_definition_structure.md#1-purpose-and-role) برای قاعدهٔ برآوردن مشترک زیر شرایط کارکرد کامل نظام؛ [فصل دوم، §2.4 قاعدهٔ تفسیر زیر ابهام](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — تفسیرهایی که ضمانت‌ها را تضعیف کنند، آنچه باید ارزیابی شود را تنگ کنند، یا نتایج جهان واقعی را بدتر کنند باطل‌اند؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — شاهد باید انطباق را زیر قواعد این بخش نشان دهد؛ اثباتی که اینجا غیرمنطبق می‌بود بار اثبات را شکست می‌دهد؛ [عدم‌انطباق](../../core_05_band_integrative.md#non-compliance).
 
 </details>
@@ -153,7 +153,7 @@
 - تغییر نام صوری، بازساختاردهی، یا رده‌بندی مجدد موجودیت که تکالیف را بدون انتقال مسئولیت در عمل می‌اندازد
 - گزینش‌های طبقه‌بندی راحت که تمایزهایی را که تعریف می‌خواهد پاک کنند
 
-جایی که تغییر ساختار صوری مادی است، [فصل یکم §11.6 مسئولیت جانشین و منع گریز با ساختار صوری](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) را اعمال کنید.
+جایی که تغییر ساختار صوری مادی است، [فصل یکم §19.6 حفظ مسئولیت هنگام تغییر مالکیت یا ساختار](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) را اعمال کنید.
 
 <a id="22-reductive-evasion"></a>
 #### 2.2 گریز کاهشی
@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](#2-non-compliance-from-observable-system-behavior)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-definition-integrity-requirement).
-- پایین‌دست: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [فصل هفتم — گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)؛ [فصل نهم — آثار ردپا و ادغام](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 قطب‌نمای قانون اساسی و نقشهٔ خوشه](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- پایین‌دست: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)؛ [فصل نهم — گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل یازدهم — آثار ردپا و ادغام](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 قطب‌نمای قانون اساسی و نقشهٔ خوشه](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - خوانده شود با: [نمایهٔ یافتهٔ عدم‌انطباق](../../core_05_band_accountability.md#non-compliance-finding-profile) — خانهٔ قانونی O/M/A/C برای میدان‌های نمایه؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -230,19 +230,19 @@
 - می‌تواند نام بگذارد کدام پای [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) و جهت‌گیری [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) بهتر شکست را توصیف می‌کنند — مثلاً نظارت، مشارکت، یا پاسخگویی تقاطع‌یافته با شکوفایی یا پیوستگی
 - عوض نمی‌کند آیا تعریف زیرین برآورده شده است
 - برچسب نتیجهٔ دوم نمی‌سازد
-- جای اندازه‌گیری همیاری یا تخلف [فصل هشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) را نمی‌گیرد
+- جای اندازه‌گیری همیاری یا تخلف [فصل دهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) را نمی‌گیرد
 
 آثار ردپا به اینکه چه کسی ارزیابی می‌شود و اینکه نظام ازپیش گواهی شده وابسته است. زیربخش‌های زیر آن موارد را می‌گذارند.
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
-#### 3.1 آثار ردپا برای نظام‌های ازپیش‌گواهی‌شده
+#### 3.1 آثار وضعیت برای نظام‌های ازپیش‌گواهی‌شده
 
-اگر نظامی ازپیش زیر [گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کار می‌کند — از جمله بازشناسی، بازشناسی مشروط، یا بازاعتبارسنجی‌ای که منقضی نشده — عدم‌انطباق راستی‌آزمایی‌شدهٔ مادی روی گسترهٔ کارکردی آن نظام **باید** وارد اندازه‌گیری ردپای [فصل هشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) برای **آن نظام** شود. فقط واقعیت‌هایی که از [دروازهٔ ورودی راستی‌آزمایی‌شده](../../core_10_standing_assessment.md#verified-inputs-for-standing) بگذرند می‌توانند وارد شوند. ردپا را زیر فصل‌های هشتم و نهم اندازه بگیرید و اعمال کنید. بازگشایی، پس‌گیری، یا دیگر پیامدهای گواهی زیر [فصل هفتم](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) می‌مانند. جای سوابق ردپای آن نظام را نمی‌گیرند.
+اگر نظامی ازپیش تحت [گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) فعالیت می‌کند—از جمله گواهی، گواهی مشروط، یا گواهی مجددی که منقضی نشده است—عدم‌انطباق مادیِ راستی‌آزمایی‌شده در گسترهٔ کارکردی آن نظام **باید** برای **همان نظام** وارد سنجش وضعیت در [فصل دهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) شود. فقط واقعیت‌هایی می‌توانند وارد شوند که از [دروازهٔ ورودیِ راستی‌آزمایی‌شده](../../core_10_standing_assessment.md#verified-inputs-for-standing) بگذرند. وضعیت را بر پایهٔ [فصل دهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) بسنجید؛ یکپارچه‌سازی و آثار آن را بر پایهٔ [فصل یازدهم](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) اعمال کنید. بازگشایی، پس‌گیری، یا دیگر پیامدهای گواهی تابع [فصل نهم](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) می‌مانند. این پیامدها جای سوابق وضعیت آن نظام را نمی‌گیرند.
 
 <a id="32-standing-effects-at-first-certification"></a>
-#### 3.2 آثار ردپا در گواهی نخست
+#### 3.2 آثار وضعیت در نخستین گواهی
 
-اگر نظام هنوز در **نخستین** [گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) است و هنوز بازشناسی نشده — از جمله جایی که بازشناسی معوق یا رد شده — عدم‌انطباق راستی‌آزمایی‌شده عمدتاً **پیامد گواهی** را زیر فصل هفتم تصمیم می‌گیرد. آن پیامد می‌تواند بازشناسی مشروط، بازشناسی معوق، عدم‌بازشناسی، یا نتیجه‌ای هم‌تراز باشد. آن سوابق گواهی همچنان می‌توانند ورودی ردپای راستی‌آزمایی‌شده را زیر [فصل هفتم §8](../../core_09_b_system_alignment_certification_record_process.md#8-relationship-to-standing) تأمین کنند وقتی واقعیت‌ها پشتیبانی کنند. این فصل همان سوابق ردپایی را که نظام درحال‌اجرای ازپیش‌گواهی‌شده باید دریافت کند الزام نمی‌کند.
+اگر نظام هنوز در مرحلهٔ [گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) **نخست** است و هنوز گواهی نگرفته—از جمله هنگامی که گواهی به تعویق می‌افتد یا رد می‌شود—عدم‌انطباق راستی‌آزمایی‌شده عمدتاً **نتیجهٔ گواهی** را بر پایهٔ فصل نهم تعیین می‌کند. این نتیجه می‌تواند گواهی مشروط، گواهیِ به‌تعویق‌افتاده، عدم صدور گواهی، یا نتیجه‌ای مشابه باشد. تا پیش از اعطای گواهی، آن سوابق گواهی هیچ ورودی وضعیتی ذیل [فصل نهم، §10 رابطه با وضعیت](../../core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing) فراهم نمی‌کنند؛ آن بخش ورودی وضعیت را فقط از نظام‌های گواهی‌شده می‌گیرد. پس از اعطای گواهی، از جمله گواهی مشروط، [§3.1 آثار وضعیت برای نظام‌های ازپیش‌گواهی‌شده](#31-standing-effects-for-already-certified-systems) اعمال می‌شود. این فصل همان سوابق وضعیتی را که یک نظامِ ازپیش‌گواهی‌شده و در حال فعالیت باید دریافت کند، مطالبه نمی‌کند.
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 آثار ردپا برای حس‌مندان و نهادها
@@ -258,7 +258,7 @@
 - پنهان‌کاری
 - ظرفیت پیشگیری عملی
 
-ردپای نهاد وقتی اثر می‌پذیرد که نهاد موضوع ارزیابی باشد، یا وقتی به‌عنوان حامل الگوی عدم‌انطباق راستی‌آزمایی شود. سوابق نهاد جدا از سوابق حس‌مند تکی ردگیری‌پذیر می‌مانند. آن موارد را زیر [فصل هشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) و [فصل نهم](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) اعمال کنید. نمایهٔ یافته به مسیرگذاری و حسابرسی کمک می‌کند. خود پیامدهای ردپا، اسلات‌ها، قفل‌ها، دروازه‌ها، یا جبران‌ها را تعیین نمی‌کند.
+ردپای نهاد وقتی اثر می‌پذیرد که نهاد موضوع ارزیابی باشد، یا وقتی به‌عنوان حامل الگوی عدم‌انطباق راستی‌آزمایی شود. سوابق نهاد جدا از سوابق حس‌مند تکی ردگیری‌پذیر می‌مانند. آن موارد را زیر [فصل دهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) و [فصل یازدهم](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) اعمال کنید. نمایهٔ یافته به مسیرگذاری و حسابرسی کمک می‌کند. خود پیامدهای ردپا، اسلات‌ها، قفل‌ها، دروازه‌ها، یا جبران‌ها را تعیین نمی‌کند.
 
 <a id="34-operational-constraints"></a>
 #### 3.4 قیدهای عملیاتی

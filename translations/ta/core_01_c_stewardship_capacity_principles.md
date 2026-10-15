@@ -634,6 +634,45 @@ flowchart TB
 
 <br>
 
+<a id="176-portable-competence"></a>
+#### 17.6 இடமாற்றக்கூடிய திறன்
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- முந்தைய அடித்தளம்: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (கற்றல் மற்றும் செயல்பாடு ஆகிய இரு முறைகளுக்கிடையிலான நகர்வு); [§16.2 Institutional Development](#162-institutional-development) (தக்கவைக்கப்பட்ட திறன்); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (பதிவு பொறுப்புக்குரியது).
+- [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)-உடன் படிக்கவும்: பல பொறுப்பாளர்கள் சரிபார்க்கும் **மேற்பார்வை**, பணிகள் சந்திக்கும் இடத்திலும் பிரச்சினையை முன்கூட்டியே காணும் **காலத்தன்மை**, முக்கியப் பணிக்கான திறந்த வழிகளான **பங்கேற்பு**; [material stake](core_00_preamble.md#material-stake)-க்கு ஏற்ப அளவிடுதல்.
+- [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship), [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence), [§19.3 Misalignment Detection](#193-misalignment-detection) (பலரால் கண்டறிதல்), [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response)-உடன் படிக்கவும்.
+- வரம்புகள்: [§18.3 Segregation of Duties](#183-segregation-of-duties), [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (இருக்கையைக் கற்பது அதை வகிப்பதல்ல), [Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances), [§17.5 Duty to Resist](#175-duty-to-resist), [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- அடுத்தடுத்த நடைமுறை: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) (உணர்வுள்ள உயிர் மட்டத்தில் ஒற்றைத் தோல்விப் புள்ளி இல்லாமை); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Institutional Development](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Distributed Understanding](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+*எளிமையாகச் சொன்னால்:* முக்கியமான எந்தப் பணியும் ஒரே உணர்வுள்ள உயிரின் நினைவில் மட்டும் சார்ந்திருக்கக் கூடாது. அமைப்பு முக்கியமாகவும் பிறர் அதன்மீது சார்ந்தும் இருக்கும் அளவுக்கு, பொறுப்பாளர்கள் பணியை ஒப்படைக்கவும் விளக்கவும், ஒருவரின் வேலையை மற்றவர் சரிபார்க்கவும், அருகிலுள்ள பணிகள் சந்திக்கும் இடத்தில் சிக்கலைக் காணவும் தெரிந்திருக்க வேண்டும். இது கவரேஜ் மற்றும் புரிதலுக்கான குறைந்தபட்சம்; அனைவரும் எல்லாப் பணிகளையும் மாறிமாறிச் செய்ய வேண்டும் என்பதல்ல.
+
+முக்கியமான பொறுப்பின் திறன் அந்தப் பொறுப்புக்கும் அதைச் சார்ந்த சமூகங்களுக்கும் உரியது; ஒரே பொறுப்பாளருக்கல்ல. முக்கியத்துவம் மற்றும் சார்புநிலைக்கு ஏற்ப:
+- **கவரேஜ்:** ஒன்றுக்கு மேற்பட்ட தகுதியுள்ள உணர்வுள்ள உயிர்கள் அந்தப் பொறுப்பைச் செய்து விளக்க முடியும். அதே காரணத்தால் தோல்வியடையும் மாற்று கணக்கில் வராது; AI-யின் அதே குறையுள்ள அதே அமைப்பின் நகல் மாற்று அல்ல.
+- **ஒப்படைப்பைச் சோதித்தல்:** ஆவணம் மட்டும் திறன் மாற்றத்தை நிரூபிக்காது. வாரிசு ஏற்பும் ஒப்படைப்பும் நடைமுறையில் பயிற்சி செய்யப்பட வேண்டும்; கண்ட இடைவெளி பதிவு செய்து சரிசெய்யப்பட வேண்டும்.
+- **பணிகள் சந்திக்கும் இடங்களைப் புரிதல்:** அருகிலுள்ள பணிகளின் பொறுப்பாளர்கள், தவறிய ஒப்படைப்பு அல்லது ஒரு பக்கம் நன்றாகத் தோன்றும் அளவீடு மறுபக்கம் தீங்கு விளைவிப்பது போன்ற பிரச்சினைகளை அறிய ஒருவரின் வேலையை மற்றவர் போதுமான அளவு தெரிந்திருக்க வேண்டும். இது புரிதல்; அதிகாரம் அல்ல.
+- **மாற்றுப்பணி ஒரு கருவி:** பாதுகாப்பும் ஒப்புதலும் அனுமதித்தால் மட்டுமே, கற்றல் அல்லது கவரேஜுக்கு உதவும் பணி மாறுதல், நிழற்பணி, இணைவேலை அல்லது தற்காலிக மாற்றைப் பயன்படுத்தலாம்; திறன் வளரும் வேகத்தை மீறக்கூடாது. யாரும் தேர்ச்சி பெற முடியாத அளவுக்கு பணியைப் பிரிக்கக் கூடாது.
+
+**வரம்புகள்:** பொறுப்பு இருக்கைகள் தனித்தனியே; ஒருவர் தாம் செய்த வேலையைத் தாமே சரிபார்க்கக் கூடாது. கட்டுப்படுத்தும் அல்லது பாதுகாப்பு சார்ந்த பங்கிற்கு முன் திறன் வரம்பை எட்ட வேண்டும்; அதுவரை மேற்பார்வையுள்ள கற்றல் பங்கு மட்டுமே. எதிர்த்த அல்லது பாதுகாக்கப்பட்ட புகார் அளித்த பொறுப்பாளரை ஓரங்கட்ட மாற்றுப்பணி/மறுபயிற்சி பயன்படுத்தக் கூடாது. புரிதல் என்பது அணுகல் அல்ல: இரகசியம், பாதுகாப்பு, குறைந்தபட்ச அனுமதி மற்றும் பணி-பதிவு விதிகள் தொடரும். அனைவரும் எல்லாப் பொறுப்புகளிலும் மாற வேண்டும் என்பதில்லை; நியாயமான சிறப்புத் திறன் பாதுகாக்கப்படுகிறது, முயற்சி தவிர்க்கக்கூடிய சுமைக்கு ஏற்ப இருக்க வேண்டும். சிறிய குழு நம்பகமான உறுப்பினர்கள் ஒருவருக்கொருவர் மாற்றாக இருப்பதன் மூலம் இதை நிறைவேற்றலாம். இதே கடமை மனித மற்றும் AI பொறுப்பாளர்களுக்கும் பொருந்தும்.
+
+---
+
 <a id="18-governance-under-stewardship-discipline"></a>
 ### 18. பொறுப்பாளர் ஒழுக்கத்தின் கீழ் ஆளுகை
 

@@ -86,35 +86,6 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
-
-### フローリッシング（充実）
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
-
-</details>
-
-<br>
-
-*平易に言えば、これらの問いは、感覚ある存在が代理的なエンゲージメントや処理量ではなく、実際にウェルビーイング、安全、主体性を保てているかを確かめます。ここは第5章のフローリッシング測定ファミリーの掲載箇所です。序文§2はカテゴリの平易な問いを残し、ファミリー表と定義への案内をここに置きます。*
-
-*重要性（[Materiality](core_05_band_oversight.md#materiality)）は統合的な要素であり、独立した測定カテゴリではありません。[material stake](core_00_preamble.md#material-stake)に応じて適用の強さを調整します。*
-
-| 下位ファミリー | 平易な問い | 主な憲法上の用途 |
-|---|---|---|
-| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | 感覚ある存在は機能、主体性、支援条件を保てているか。 | **フローリッシング**の結果を測る主要指標（構成要素ではない）—代理的エンゲージメントや処理量ではありません。 |
-| 安全、危害、リスク | 予見可能な危害は防止・封じ込められ、誠実に評価されているか。 | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint)；[Harm](../../core_05_band_accountability.md#harm) |
-| 生存の最低線へのアクセス | 感覚ある存在は食料、水、住居、ケア、安定した環境などの必需品に届くか。 | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access)、[Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity)、[Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions)；**Article III-A**（生存）。 |
-
-運用上の測定段階はこれらの定義箇所にあります。
-
-**前のファイル：** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
-**次のファイル：** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### 繁栄を測る（前文の測定ファミリー）

@@ -74,48 +74,6 @@
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### Измерение подотчётности
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*Простыми словами: эти вопросы проверяют, сохраняют ли вознаграждения, рынки и возможность требовать ответа подотчётность реальной на практике, а не только на бумаге.*
-
-*Здесь находится семейство измерений подотчётности главы пятой. §2 Преамбулы (Обзор измерений) оставляет простой вопрос категории в общей таблице; таблица семейства, его конституционное применение и ссылки на определения находятся здесь.*
-
-*Материальность ([Materiality](core_05_band_oversight.md#materiality)) носит интегративный характер, а не образует отдельную категорию измерений; она определяет силу применения этого семейства с учётом [material stake](core_00_preamble.md#material-stake).*
-
-| Семейство измерений | Простой вопрос | Основное конституционное применение |
-|---|---|---|
-| Согласование стимулов и целостность прокси-показателей | Отражают ли вознаграждения и метрики реальные конституционные результаты? | Выявляет порочные стимулы, захват и [Proxy Divergence](core_05_band_oversight.md#proxy-divergence); измерительная форма [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions). |
-| Структура рынка и оспоримость | Могут ли вход, выход, переговоры и альтернативы оставаться реальными? | Применяет ограничения против концентрации и доминирования там, где заявления о возможностях зависят от открытых рынков. |
-
-Эти измерения проверяют, сохраняют ли структуры вознаграждений, рыночная власть и подотчётность на практике **подотчётную** составляющую [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), а не только на бумаге.
-
-Рабочие уровни измерений находятся в разделах определений главы пятой:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**Предыдущий файл:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**Следующий файл:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### Измерять подотчётность

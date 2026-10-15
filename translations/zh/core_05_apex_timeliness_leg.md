@@ -91,35 +91,6 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### 及时性测量
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*通俗地说：这些问题考察问题是否真正及时推进，而不只是仪表盘是否显示了处理量。本节是第五章中及时性测量家族的归属处；序言§2（测量概览）保留类别的通俗问题，家族表和定义路由则列于此处。*
-
-*重要性（[Materiality](../../core_05_band_oversight.md#materiality)）具有整合性，并非单独的测量类别；它根据[material stake](core_00_preamble.md#material-stake)调整本家族的适用力度。*
-
-| 测量家族 | 通俗问题 | 主要宪法用途 |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | 争议能否在救济仍有意义时得到解决？ | 防止拖延使权利沦为空壳。 |
-| 反拖延与解决路径约束 | 激励和结构是否避免故意积压、俘获和空洞的期限？ | 识别拖延机制以及[Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways)。 |
-
-这些测量考察程序时钟、解决路径和修复速度能否使[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)中的**及时性**支柱在实践中真实有效，而不只是写在纸面上。
-
-**上一文件：** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**下一文件：** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### 测量及时性

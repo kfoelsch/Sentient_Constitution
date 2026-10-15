@@ -14,17 +14,17 @@
 
 > Le contenu qui suit est **uniquement un guide de lecture**. Il n’ajoute, ne supprime ni ne restreint les obligations contraignantes énoncées ailleurs dans ce chapitre ou dans d’autres chapitres.
 >
-> La **Partie A**, dans [core_06_rights_part_a.md](core_06_rights_part_a.md), contient l’ensemble des contraintes par défaut applicables à tout le chapitre, l’ordre de lecture donnant priorité à la planète et les pôles d’interprétation. La **Partie D** présente les **Articles XIX–XXIV** dans cet ordre.
+> La **Partie A**, dans [core_06_rights_part_a.md](core_06_rights_part_a.md), contient l’ensemble des contraintes par défaut applicables à tout le chapitre, l’ordre de lecture donnant priorité à la planète et les pôles d’interprétation. La **Partie D** présente les **Articles XIX–XXV** dans cet ordre.
 
 </details>
 
 <br>
 
-### Partie D : qualité pour agir, justice, interopérabilité, intelligibilité, examen des causes profondes et interprétation constitutionnelle
+### Partie D : qualité pour agir, justice, interopérabilité, mobilité et refuge, intelligibilité, examen des causes profondes et interprétation constitutionnelle
 
 <br>
 
-*En termes simples : la Partie D traite de la qualité pour agir et du statut de participation, de la justice après un manquement vérifié, de l’interopérabilité et de la sortie, de l’intelligibilité, de l’analyse des causes profondes, ainsi que de l’interprétation et de l’examen constitutionnels — Articles XIX à XXIV.*
+*En termes simples : la Partie D traite de la qualité pour agir et du statut de participation, de la justice après un manquement vérifié, de l’interopérabilité et de la sortie, de l’intelligibilité, de l’analyse des causes profondes, ainsi que de l’interprétation et de l’examen constitutionnels — Articles XIX à XXV.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Guide de lecture (non opératoire) : carte des articles de la Partie D</span></strong></summary>
@@ -39,42 +39,48 @@
 
 ```mermaid
 flowchart TB
-    D0["Partie D<br/><br/>Qualité pour agir, justice, interopérabilité,<br/>intelligibilité, examen des causes profondes et interprétation constitutionnelle"]
+    D0["Part D<br/><br/>qualité pour agir, justice, interopérabilité, mobilité et refuge, intelligibilité, causes profondes et interprétation constitutionnelle"]
     subgraph Dgrid[" "]
         direction TB
         subgraph Drow1["Articles XIX–XX"]
-            D1["Article XIX · Qualité pour agir et statut de participation<br/><br/>• Distinctions de qualité pour agir<br/>• Contestabilité et limites aux restrictions<br/>• Éligibilité aux voies nommées, responsabilité et audit<br/>• Mobilité, refuge et absence d’apatridie"]
-            D2["Article XX · Justice après un manquement vérifié<br/><br/>• Objectif et portée de la justice<br/>• Planchers de restriction"]
+            D1["Article XIX · qualité pour agir et statut de participation<br/><br/>• distinctions ; contestation et limites ; éligibilité, manquements et verrous ; vote et verrous spéciaux"]
+            D2["Article XX · justice après un manquement vérifié<br/><br/>• objectif et portée de la justice ; planchers de restriction"]
         end
         subgraph Drow2["Articles XXI–XXII"]
-            D3["Article XXI · Interopérabilité, portabilité, mobilité, refuge et intégrité de sortie<br/><br/>• Portabilité<br/>• Interopérabilité réciproque<br/>• Règle anti-enfermement<br/>• Mobilité, migration, refuge et absence d’apatridie"]
-            D4["Article XXII · Intelligibilité et gestion responsable de la complexité<br/><br/>• Intelligibilité proportionnée<br/>• Audit de la complexité et modularité"]
+            D3["Article XXI · interopérabilité, portabilité et intégrité de sortie<br/><br/>• portabilité ; interopérabilité réciproque ; anti-enfermement ; formats et normes ouverts"]
+            D4["Article XXII · mobilité, refuge et absence d’apatridie<br/><br/>• mobilité ; refuge ; absence d’apatridie ; limites, garde et urgences"]
         end
         subgraph Drow3["Articles XXIII–XXIV"]
-            D5["Article XXIII · Analyse des causes profondes et réponse adaptative<br/><br/>• Rigueur diagnostique et attribution causale<br/>• Auditabilité, contestation et réversibilité"]
-            D6["Article XXIV · Interprétation constitutionnelle, examen et garanties anti-captation<br/><br/>• Mandat interprétatif limité<br/>• Composition, rotation et conflits d’intérêts<br/>• Motifs publics, droits de contestation et examen externe<br/>• Révocation et prévention de l’enracinement"]
+            D5["Article XXIII · intelligibilité et gestion responsable de la complexité<br/><br/>• intelligibilité proportionnée ; audit de la complexité et modularité"]
+            D6["Article XXIV · analyse des causes profondes et réponse adaptative<br/><br/>• rigueur diagnostique ; attribution causale ; auditabilité, contestation et réversibilité"]
+        end
+        subgraph Drow4["Article XXV"]
+            D7["Article XXV · interprétation constitutionnelle, examen et garanties anti-captation<br/><br/>• mandat limité ; indépendance et contrôle externe ; révocation et absence d’enracinement"]
         end
     end
-    %% Les liens invisibles forcent une grille à deux colonnes : chaque lien place sa cible un niveau plus bas.
+    %% Invisible links place the cards in the source reading order.
     D0 ~~~ D1 & D2
     D1 ~~~ D3
     D2 ~~~ D4
     D3 ~~~ D5
     D4 ~~~ D6
+    D5 & D6 ~~~ D7
     style Dgrid fill:none,stroke:none
     style Drow1 fill:none,stroke:none
     style Drow2 fill:none,stroke:none
     style Drow3 fill:none,stroke:none
+    style Drow4 fill:none,stroke:none
     style D0 fill:none,stroke:#2563eb,color:#ffffff
     style D1 fill:none,stroke:#0f766e,color:#ffffff
     style D2 fill:none,stroke:#0f766e,color:#ffffff
     style D3 fill:none,stroke:#0f766e,color:#ffffff
-    style D4 fill:none,stroke:#2563eb,color:#ffffff
-    style D5 fill:none,stroke:#ea580c,color:#ffffff
+    style D4 fill:none,stroke:#0f766e,color:#ffffff
+    style D5 fill:none,stroke:#2563eb,color:#ffffff
     style D6 fill:none,stroke:#ea580c,color:#ffffff
+    style D7 fill:none,stroke:#ea580c,color:#ffffff
 ```
 
-Les **Articles XIX–XXIV** ci-dessous énoncent ces planchers dans leur intégralité. La Partie D porte les planchers relatifs à la qualité pour agir, à la justice après manquement, à l’interopérabilité, à l’intelligibilité, aux causes profondes et à l’examen interprétatif, y compris l’**Article XXIV** (*Interprétation constitutionnelle, examen et garanties anti-captation*) selon la structure actuelle de la source.
+Les **Articles XIX–XXV** ci-dessous énoncent ces planchers dans leur intégralité. La Partie D porte les planchers relatifs à la qualité pour agir, à la justice après manquement, à l’interopérabilité, à l’intelligibilité, aux causes profondes et à l’examen interprétatif, y compris l’**Article XXV** (*Interprétation constitutionnelle, examen et garanties anti-captation*) selon la structure actuelle de la source.
 <a id="article-xix-standing-reputation-and-participation-status"></a>
 <a id="article-xix-standing-and-participation-status"></a>
 ### Article XIX : qualité pour agir et statut de participation
@@ -112,7 +118,7 @@ La poursuite légitime s’effectue selon la [Tétrade constitutionnelle](core_0
 - **Participation :** à l’évaluation pluraliste de la qualité pour agir, à la contestation de déterminations opaques ou monopolistiques et au rétablissement ou à la réadmission lorsque des restrictions matérielles sont corrigées.
 - **Supervision :** au moyen de dossiers de qualité pour agir auditables, de l’examen continu des déclarations d’éligibilité et de verrouillage, ainsi que d’une vérification indépendante proportionnée aux rôles et restrictions en jeu.
 - **Responsabilité :** les personnes qui attribuent ou restreignent la qualité pour agir répondent de toute diminution dépourvue de motifs individualisés, de proportionnalité, de ciblage étroit ou de véritables voies de rétablissement — y compris des tendances liées à des caractéristiques protégées ou à leurs substituts.
-- **Diligence :** l’examen, la contestation et la réparation interviennent avant qu’un retard ne ferme l’accès essentiel à la survie, les voies d’audit ou la réparation constitutionnellement requise au titre de l’**Article XXV-C** (*Plancher de résolution diligente et de lutte contre les retards*).
+- **Diligence :** l’examen, la contestation et la réparation interviennent avant qu’un retard ne ferme l’accès essentiel à la survie, les voies d’audit ou la réparation constitutionnellement requise au titre de l’**Article XXVI-C** (*Plancher de résolution diligente et de lutte contre les retards*).
 
 La [qualité de participant](core_05_band_accountability.md#participant-standing-constitutional) est un statut de participation ou d’éligibilité à un rôle reconnu par des dossiers de qualité pour agir constitutionnellement valides, par les effets de qualité pour agir ou par les critères de [seuil de compétence](core_05_band_accountability.md#competency-bar) applicables à la voie nommée. Elle ne constitue ni une réputation ni une estime sociale, et n’impose pas à elle seule de restrictions d’accès. Les conséquences restrictives ne s’appliquent que par l’[effet de qualité pour agir](core_05_band_accountability.md#standing-effect-chapter-six) et le [verrou de qualité pour agir](core_05_band_accountability.md#standing-lock) sur les voies nommées de privilège.
 
@@ -189,7 +195,7 @@ Le présent Article précise en quoi la qualité pour agir diffère des seuils d
 
 - Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [Chapitre Un §13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Mise en œuvre : [Chapitre Neuf §2](core_09_standing_assessment.md#2-question-1--what-happened) (*dossiers de qualité pour agir, filtre des éléments vérifiés et contenu minimal des dossiers*) ; [Chapitre Neuf §3.6](core_09_standing_assessment.md#36-forum-boundary) (*limite du forum*) ; [Chapitre Dix §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*seuils et habilitations de compétence*) ; [Chapitre Dix §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*verrous de qualité pour agir*) ; [Chapitre Dix §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*rétablissement et réexamen*).
-- À lire avec : **Article III-A** (*Survie*) ; **Article XIII-A** (*Base de fiabilité et de confiance*) et **Article XIII-B** (*Droit à réparation et à recours*) ; [Préambule §6.2 Comment s’articule la chaîne complète](core_00_preamble.md#62-how-the-full-chain-fits-together) ; [Certification de l’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **participation**, **supervision**, **responsabilité** et **diligence**, en vertu de l’**Article XXV-C** (*Plancher de résolution diligente et de lutte contre les retards*) et de l’**Article XX-B** (*Planchers de restriction*).
+- À lire avec : **Article III-A** (*Survie*) ; **Article XIII-A** (*Base de fiabilité et de confiance*) et **Article XIII-B** (*Droit à réparation et à recours*) ; [Préambule §6.2 Comment s’articule la chaîne complète](core_00_preamble.md#62-how-the-full-chain-fits-together) ; [Certification de l’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **participation**, **supervision**, **responsabilité** et **diligence**, en vertu de l’**Article XXVI-C** (*Plancher de résolution diligente et de lutte contre les retards*) et de l’**Article XX-B** (*Planchers de restriction*).
 
 </details>
 
@@ -228,7 +234,7 @@ Le présent Article énonce les limites de contestabilité et de proportionnalit
 
   - Le dépôt d’une affaire ne confère pas à lui seul une qualité pour agir.
   - Les éléments de la phase de litige ne déterminent pas à eux seuls la nature d’une contribution ou d’un manquement pour la qualité pour agir ([Chapitre Neuf §3.6 Limite du forum](core_09_standing_assessment.md#36-forum-boundary)).
-  - Cette limite ne réduit ni la contestation, ni la réparation, ni les mesures provisoires, ni les protections procédurales exigées par l’**Article XIII-A** (*Base de fiabilité et de confiance*), l’**Article XIII-B** (*Droit à réparation et à recours*) et l’**Article XXV-C** (*Plancher de résolution diligente et de lutte contre les retards*).
+  - Cette limite ne réduit ni la contestation, ni la réparation, ni les mesures provisoires, ni les protections procédurales exigées par l’**Article XIII-A** (*Base de fiabilité et de confiance*), l’**Article XIII-B** (*Droit à réparation et à recours*) et l’**Article XXVI-C** (*Plancher de résolution diligente et de lutte contre les retards*).
 - **Réexamen procédural :** lorsque la qualité pour agir est substantiellement restreinte, déclassée ou suspendue — y compris par un [verrou de qualité pour agir](core_10_standing_integration.md#42-prevention--general-standing-locks) lié à une [conclusion vérifiée de manquement](core_05_band_accountability.md#violation-nature-chapter-six) — le système applique le [**Principe de contrainte la moins restrictive, limitée dans le temps et révisable**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) et doit :
   - expliquer clairement **pourquoi** ;
   - fixer une **limite temporelle** à la restriction lorsque cela est possible selon l’**Article XX-B** (*Planchers de restriction*) ;
@@ -277,7 +283,7 @@ Le présent Article énonce les limites de contestabilité et de proportionnalit
 
 <br>
 
-*En termes simples : les voies nommées de participation ordinaire restent ouvertes selon des règles d’éligibilité publiées et contestables, fondées sur des éléments actuels — et non sur la marque, l’échelle ou la réputation passée. L’ouverture d’une voie nommée sensible à la confiance requiert une habilitation de compétence au regard de son seuil publié ; la fermeture d’un privilège exige un verrou de qualité pour agir sur cette voie nommée. Les verrous ne peuvent retirer de façon permanente la voix fondamentale, sauf si une qualification **définitive** d’**inconduite anticonstitutionnelle** au **Chapitre Onze** la suspend jusqu’à **restitution intégrale**, conformément au [**Chapitre Treize §4.1 Droit et éligibilité**](core_13_governance.md#41-entitlement-and-eligibility).* 
+*En termes simples : les voies nommées de participation ordinaire restent ouvertes selon des règles d’éligibilité publiées et contestables, fondées sur des éléments actuels — et non sur la marque, l’échelle ou la réputation passée. L’ouverture d’une voie nommée sensible à la confiance requiert une habilitation de compétence au regard de son seuil publié ; la fermeture d’un privilège exige un verrou de qualité pour agir sur cette voie nommée. Les verrous ne peuvent retirer de façon permanente la voix fondamentale, sauf si une qualification **définitive** d’**inconduite anticonstitutionnelle** au **Chapitre Onze** la suspend jusqu’à **restitution intégrale**, conformément au [**Chapitre Treize §4.1 Droit et éligibilité**](core_13_governance.md#41-entitlement-and-eligibility).*
 
 Le présent Article définit l’éligibilité et la responsabilité des voies nommées ainsi que la discipline applicable à la voix politique :
 
@@ -302,27 +308,27 @@ Le présent Article définit l’éligibilité et la responsabilité des voies n
 
   La mise en œuvre opérationnelle figure au [**Chapitre Treize §4.1**](core_13_governance.md#41-entitlement-and-eligibility) (*Plancher de la voix politique durable*).
 
-<a id="article-xix-d-movement-migration-and-refuge"></a>
-<a id="article-xix-d-movement-migration-refuge-and-non-statelessness-routing"></a>
-#### Article XIX-D : mobilité, migration, refuge et orientation vers l’absence d’apatridie
+<a id="article-xix-d-violations-and-standing-locks"></a>
+#### Article XIX-D : manquements et verrous de qualité pour agir
 
-<details>
-<summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
+- **Constats vérifiés seulement :** la Nature du manquement ne peut influer sur la qualité pour agir que sur la base de constats auditables et contestables conformes aux Chapitres Deux à Quatre et au Chapitre Dix. Allégations, étiquettes de réception, aiguillages provisoires et récits de forum ne suffisent pas. L’évaluation tient compte de la participation passive et de l’absence de résistance à des directives illégales ou anticonstitutionnelles lorsque devoir et capacité matériels existaient, selon le Chapitre Cinq (*Défaillance de responsabilité collective*).
+- **Verrous de qualité pour agir :** pendant restrictif d’une habilitation de compétence, ils peuvent limiter des voies nommées de confiance, fonction, autorité, crédit, surveillance, reconnaissance, vote de gouvernance ou participation des parties prenantes tant qu’un manquement vérifié reste sans résolution ou réparation matérielle (Chapitre Onze §4.2). Ils peuvent aussi séparer d’environnements, réseaux ou êtres précis dans les limites du §5.1. Un verrou n’est ni rang de dignité, réduction du Seuil de droits, représaille automatique ni score de mérite fusionné.
+  - Il précise les accès bloqués, l’intérêt protégé, la correction requise, la voie de recours et la date de réévaluation ; il reste nécessaire, proportionné, auditable et contestable selon XIX-B.
+  - L’habilitation de compétence ne lève pas un verrou ; les contributions positives n’effacent pas un manquement vérifié non résolu. Les verrous de vote et les trois verrous spéciaux suivent aussi XIX-E.
+  - Il ne remplace pas la justice individualisée et ne limite pas à lui seul mobilité, refuge, portabilité ou sortie au titre des Articles XXI–XXII.
+- **Proportionner le verrou au préjudice :** il tient compte de la gravité vérifiée, de la fonction ou du privilège protégé et des réparations accomplies. L’aide passée ne compte que si elle montre l’aptitude à réparer, maintenir des garanties, éviter une répétition ou justifier une restriction plus légère ; elle ne compense ni ne remplace jamais un préjudice non résolu. Un préjudice moins grave selon l’échelle LEQU proportionnelle unifiée (Chapitre Dix §7) ne justifie pas une exclusion prolongée, sauf répétition, dissimulation ou lien à un préjudice matériel. Négligence, dissimulation, coercition ou répétition peuvent influer sur l’examen sans modifier la gravité du préjudice. Toute restriction renforcée reste nécessaire, proportionnée, révisable et fondée sur des constats vérifiés.
+- **Rétablissement et absence d’enracinement :** une réduction de qualité pour agir exige des critères de contrôle clairs, un rétablissement fondé sur la réparation et une réévaluation périodique (Chapitre Onze §8). Une exclusion permanente fondée sur le seul statut historique, sans justification actuelle et auditable, est non conforme. Après correction des restrictions matérielles, restauration ou requalification doit être réelle. Corrections, restitution, suivi, garanties mises en œuvre ou preuve d’un risque de répétition réduit ouvrent une voie réelle de réévaluation lorsque la loi le permet ; sinon le constat non résolu reste actif.
 
-- À lire avec : **Article XXI-D** (*Mobilité, migration, refuge et absence d’apatridie*) et **Article XXI** (*Interopérabilité, portabilité, mobilité, refuge et intégrité de sortie*).
-- Principes : Chapitre Un [§16 Gestion responsable approfondie](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) et [§13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+<a id="article-xix-e-voting-and-special-locks"></a>
+#### Article XIX-E : verrous de vote et verrous spéciaux
 
-</details>
-
-<br>
-
-*En termes simples : la qualité pour agir n’est ni une frontière, ni un outil d’exil ou d’apatridie — la baisse de la qualité liée à un rôle ou le verrouillage de voies nommées sensibles à la confiance ne fait pas perdre les droits de mobilité, de refuge ou de sortie. Des violences, coercitions ou conduites anticonstitutionnelles vérifiées peuvent néanmoins entraîner une détention, une garde ou d’autres restrictions licites de liberté selon l’**Article XX-B** (*Planchers de restriction*) et les garanties procédurales intégrales ; il s’agit de mesures de justice distinctes, non d’un contournement par libellé de qualité pour agir. Pour toute question de mobilité, migration, refuge, portabilité, reconnaissance ou sortie, le plancher applicable est celui de l’**Article XXI** (*Interopérabilité, portabilité, mobilité, refuge et intégrité de sortie*).* 
-
-Le statut de qualité pour agir, les seuils et habilitations de compétence et les verrous de qualité pour agir ne limitent **pas à eux seuls** les droits de mobilité, migration, refuge, portabilité, sortie ou absence d’apatridie. Les verrous limitent par nature les voies de confiance, de rôle, d’autorité, de crédit, de supervision, de reconnaissance, **governance-voting** et **stakeholder-participation** prévues au [Chapitre Dix §4.2 Prévention — verrous généraux de qualité pour agir](core_10_standing_integration.md#42-prevention--general-standing-locks) ; ils ne remplacent pas une procédure judiciaire individualisée et ne doivent pas servir, par un simple libellé de qualité pour agir, à l’exil, à l’apatridie, au refus de refuge ou à l’enfermement systémique.
-
-Des mesures licites restreignant la liberté — notamment la détention, la garde, le fonctionnement sous supervision ou des restrictions comparables de mobilité — peuvent s’appliquer lorsque des violences, coercitions, conduites anticonstitutionnelles ou dangers sociaux comparables vérifiés le nécessitent, mais uniquement si elles satisfont à l’**Article XX-B** (*Planchers de restriction*), aux protections applicables de procédure pénale ou équivalentes prévues au [Chapitre Dix §5.4](core_10_standing_integration.md#54-special-violation-rules) (*Règles particulières relatives aux manquements*) et aux obligations d’[absence d’apatridie](core_05_band_participation.md#non-statelessness-constitutional) de l’**Article XXI-D** (*Mobilité, migration, refuge et absence d’apatridie*). Ces mesures ne doivent pas laisser un sentient sans régime reconnaissant la protection de base du Seuil de droits, statuant sur sa qualité pour agir ou fournissant des voies de réparation.
-
-Elles peuvent affecter l’éligibilité à des rôles et des voies nommées sensibles à la confiance uniquement selon le présent Article. Les questions de mobilité, migration, refuge, portabilité, absence d’apatridie et intégrité de sortie relèvent de l’**Article XXI** (*Interopérabilité, portabilité, mobilité, refuge et intégrité de sortie*) et des dispositions de transition applicables, sans réduire les garanties de qualité pour agir du présent Article.
+- **Voies de vote distinctes :** un verrou d’une voie nommée ne s’étend pas à l’autre. Le **vote de gouvernance** autorise le pouvoir de gouverner par le mécanisme de légitimité ; la **participation des parties prenantes** est l’influence pondérée et le choix contraignant dans un système, une institution ou un domaine déjà autorisé. Chaque verrou laisse intact, à lui seul, l’autre voie ; le verrou de participation n’efface jamais le statut de partie prenante.
+- **Discipline de la voix politique :** restreindre la participation à l’autorisation du pouvoir de gouverner exige un constat vérifié concernant la conduite individuelle, obtenu selon l’équité procédurale, la Nécessité et la Proportionnalité, ciblé sur le manquement et assorti d’une véritable voie de rétablissement. Il ne peut exclure durablement la voix politique du Choix constitutionnel fondamental. Les catégories générales de manquement et les tendances liées aux Caractéristiques protégées ou à leurs substituts matériels sont non conformes.
+  - **Seule exception :** une désignation définitive du Chapitre Douze pour Inconduite anticonstitutionnelle, réservée aux attaques vérifiées les plus graves, suspend le vote constitutionnel fondamental jusqu’à restitution intégrale. Ce n’est pas un verrou de qualité pour agir ; le Chapitre Quatorze §4.1 fixe les garanties.
+- **Verrous spéciaux** (Chapitre Onze §5.5) :
+  - **Service au forum :** défaut vérifié de récusation obligatoire compromettant matériellement l’impartialité. Le retour exige un rétablissement indépendant strict ; excuse ordinaire, contribution ou réputation antérieure, rareté d’expertise et besoin de personnel ne suffisent pas.
+  - **Participation des parties prenantes :** corruption, captation, fausse déclaration d’enjeu, coercition ou abus matériel vérifié limite influence pondérée et choix contraignant dans le domaine concerné. Cela ne retire pas à lui seul vote de gouvernance, choix constitutionnel fondamental ni statut de partie prenante. Excuse, contribution, taille de l’enjeu ou indispensabilité de l’opérateur ne suffisent pas à lever le verrou.
+  - **Confiance anticonstitutionnelle :** une désignation définitive du Chapitre Douze interdit fonctions ou influence matérielle sur systèmes de Classe A, B ou C, forums constitutionnels, reconnaissance d’alignement, gestion responsable des systèmes critiques et voies de responsabilité anticonstitutionnelle jusqu’à rétablissement indépendant strict vérifié.
 <a id="article-xx-justice-after-verified-violation"></a>
 ### Article XX : justice après un manquement vérifié
 
@@ -344,13 +350,13 @@ Elles peuvent affecter l’éligibilité à des rôles et des voies nommées sen
 
 <br>
 
-*En termes simples : l’**Article XX** (*Justice après un manquement vérifié*) constitue le Seuil de droits applicable à la justice. Une fois le manquement vérifié, la réponse n’est ni la vengeance ni la cruauté. C’est une procédure équitable de **manquement**, de **correction** et de **prévention** — arrêter le préjudice, réparer les dommages et réduire la récurrence — proportionnée aux enjeux. Les restrictions graves sont soumises à leurs propres planchers : un besoin de sécurité démontré, une durée déterminée et une voie de retour, et jamais la mise à mort. Les différends, l’escalade, l’examen et la résolution diligente relèvent de l’**Article XXV**. Les mesures d’urgence relèvent du **Chapitre Douze §6.1** (*Mesures d’urgence et charge de leur maintien*).* 
+*En termes simples : l’**Article XX** (*Justice après un manquement vérifié*) constitue le Seuil de droits applicable à la justice. Une fois le manquement vérifié, la réponse n’est ni la vengeance ni la cruauté. C’est une procédure équitable de **manquement**, de **correction** et de **prévention** — arrêter le préjudice, réparer les dommages et réduire la récurrence — proportionnée aux enjeux. Les restrictions graves sont soumises à leurs propres planchers : un besoin de sécurité démontré, une durée déterminée et une voie de retour, et jamais la mise à mort. Les différends, l’escalade, l’examen et la résolution diligente relèvent de l’**Article XXVI**. Les mesures d’urgence relèvent du **Chapitre Douze §6.1** (*Mesures d’urgence et charge de leur maintien*).*
 
 Le présent Article énonce les planchers de justice applicables dès qu’un manquement est vérifié : l’objectif et la portée de la justice (**Article XX-A**) et les planchers applicables aux restrictions graves (**Article XX-B**).
 
 *Articles connexes :*
 
-- **Résolution des conflits, examen et diligence :** les différends relatifs aux Seuils de droits constitutionnels, à l’examen rétrospectif, aux collisions de droits et à la discipline anti-retard relèvent de l’[**Article XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Examen rétrospectif diligent et alignement restauratif*).
+- **Résolution des conflits, examen et diligence :** les différends relatifs aux Seuils de droits constitutionnels, à l’examen rétrospectif, aux collisions de droits et à la discipline anti-retard relèvent de l’[**Article XXVI**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Examen rétrospectif diligent et alignement restauratif*).
 - **Mesures d’urgence :** relèvent du [Chapitre Douze §6.1 Mesures d’urgence et charge de leur maintien](core_12_forum.md#61-emergency-measures-and-continuation-burden), à lire avec l’**Article XX-B** (*Planchers de restriction*) pour toute restriction qu’impose une mesure d’urgence.
 - **Qualité pour agir :** l’[**Article XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*Qualité pour agir et statut de participation*) régit la qualité pour agir. Les mesures de justice prévues ici sont distinctes et ne contournent pas les règles par un simple libellé de qualité pour agir.
 - **Réparation diligente :** à lire avec l’[**Article XIII-B** (*Droit à réparation et à recours*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*accès diligent à la réparation*).
@@ -396,7 +402,7 @@ Le présent Article énonce l’objectif et la portée de la justice ainsi que l
 
 - Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Chapitre Un §13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) et [§14 Interdiction de la dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Mise en œuvre : [Chapitre Dix §5 Conception et application des verrous](core_10_standing_integration.md#5-lock-design-and-enforcement) et [§5.4 Règles particulières relatives aux manquements](core_10_standing_integration.md#54-special-violation-rules) (*emprisonnement obligatoire pour violences vérifiées et autres garanties coercitives ou restreignant la liberté*) ; [Chapitre Onze §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prévention — verrous anti-constitutionnels* ; dispositions particulières sur l’emprisonnement).
-- À lire avec : [Article XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Plancher de résolution diligente et de lutte contre les retards*) ; [Chapitre Douze §5 Escalade et certification](core_12_forum.md#5-escalation-and-certification).
+- À lire avec : [Article XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Plancher de résolution diligente et de lutte contre les retards*) ; [Chapitre Douze §5 Escalade et certification](core_12_forum.md#5-escalation-and-certification).
 
 </details>
 
@@ -457,7 +463,7 @@ Le présent Article fixe les planchers applicables aux restrictions. Les règles
   - Ce plancher ne régit pas la décision librement formée d’un sentient concernant sa propre existence au titre de l’**Article VII-D** (*Cessation volontaire de sa propre existence*). La coercition, le changement d’étiquette ou la transformation de ce choix en résultat imposé par l’État ou un opérateur ramène la question au présent plancher.
 <a id="article-xxi-interoperability-portability-and-exit-integrity"></a>
 <a id="article-xxi-interoperability-portability-movement-refuge-and-exit-integrity"></a>
-### Article XXI : interopérabilité, portabilité, mobilité, refuge et intégrité de sortie
+### Article XXI : interopérabilité, portabilité et intégrité de sortie
 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
@@ -494,7 +500,7 @@ La poursuite légitime s’effectue selon la [Tétrade constitutionnelle](core_0
 - **Participation :** au choix des systèmes et juridictions, à la migration avec des données et une identité utilisables, à la contestation de l’enfermement et du refus indirect, et à la demande de refuge lorsque les pratiques sont matériellement non conformes.
 - **Supervision :** au moyen de limites d’interopérabilité documentées, d’une portabilité diligente, d’un préavis avant toute restriction matérielle et d’un examen du caractère réel, plutôt que simplement formel, des conditions de transition.
 - **Responsabilité :** les systèmes et régimes répondent de l’[enfermement systémique](core_05_band_continuity.md#systemic-lock-in), des dispositifs anti-portabilité, de l’exclusion contraire à la [Non-exclusion des sentients](core_05_band_participation.md#sentience-non-exclusion), de l’épuisement bureaucratique ou d’autres conduites dont l’effet principal est de piéger les sentients — en bloquant la sortie, la substitution, la mobilité, le refuge ou la reconnaissance.
-- **Diligence :** la fourniture de la portabilité, l’examen des demandes de refuge, les notifications d’interopérabilité et la correction des obstacles interviennent avant que délai, opacité ou friction procédurale ne rendent la sortie, la migration ou la réparation effectivement inaccessible au regard de l’**Article XXV-C** (*Plancher de résolution diligente et de lutte contre les retards*).
+- **Diligence :** la fourniture de la portabilité, l’examen des demandes de refuge, les notifications d’interopérabilité et la correction des obstacles interviennent avant que délai, opacité ou friction procédurale ne rendent la sortie, la migration ou la réparation effectivement inaccessible au regard de l’**Article XXVI-C** (*Plancher de résolution diligente et de lutte contre les retards*).
 
 Les sentients et les systèmes dépendants ont droit à une sortie, une migration, une interopérabilité, une mobilité, un refuge et une reconnaissance utiles et effectifs, sans enfermement coercitif, exclusion contraire à la [Non-exclusion des sentients](core_05_band_participation.md#sentience-non-exclusion) ni apatridie.
 
@@ -508,8 +514,8 @@ Les sentients et les systèmes dépendants ont droit à une sortie, une migratio
   - **Article XIX** (*Qualité pour agir et statut de participation*) — le statut de qualité pour agir, les seuils et habilitations de compétence et les verrous ne limitent **pas à eux seuls** la mobilité, le refuge, la portabilité ou la sortie, et ne doivent pas remplacer une procédure judiciaire individualisée ;
   - les mesures licites restreignant la liberté au titre de l’**Article XX-B** (*Planchers de restriction*) et du [Chapitre Dix §5.4](core_10_standing_integration.md#54-special-violation-rules) (*caractère de garantie coercitive ou restreignant la liberté*) peuvent néanmoins limiter la mobilité, la garde ou une liberté comparable lorsque sont respectées les obligations de **Nécessité**, de **Proportionnalité**, de garanties procédurales et d’**Absence d’apatridie** ;
   - l’**Article XVII** (*Cycle de vie des systèmes, environnements et réversibilité*) lorsque le déploiement ou la dépendance dépasse les hypothèses du bac à sable ou du cycle de vie ;
-  - l’**Article XXVII** (*Gouvernance de transition, continuité et réétalonnage*) pour la reconnaissance transitoire lors d’un changement de régime ou de fédération.
-- **Niveau de mise en œuvre :** la reconnaissance entre régimes et sa procédure opérationnelle sont renvoyées aux textes de mise en œuvre adoptés au titre du **Chapitre Dix-Sept**.
+  - l’**Article XXVIII** (*Gouvernance de transition, continuité et réétalonnage*) pour la reconnaissance transitoire lors d’un changement de régime ou de fédération.
+- **Niveau de mise en œuvre :** la reconnaissance entre régimes et sa procédure opérationnelle sont renvoyées aux textes de mise en œuvre adoptés au titre du **Chapitre Dix-Huit**.
 
 <a id="article-xxi-a-portability-rights"></a>
 #### Article XXI-A : droits à la portabilité
@@ -601,15 +607,30 @@ Le présent Article énonce la règle anti-enfermement :
   - la rétention des informations matériellement nécessaires à une transition pratique.
 
   La règle s’étend au-delà des coûts de transaction proportionnés et s’applique lorsque l’[enfermement systémique](core_05_band_continuity.md#systemic-lock-in) du **Chapitre Cinq** est en cause.
-<a id="article-xxi-d-movement-migration-refuge-and-non-statelessness"></a>
-#### Article XXI-D : mobilité, migration, refuge et absence d’apatridie
+<a id="article-xxi-d-open-formats-and-standards"></a>
+#### Article XXI-D : Formats et normes ouverts
+
+*En termes simples : les systèmes privilégient des formats et normes que chacun peut lire et mettre en œuvre sans autorisation ni frais lorsqu’ils répondent au besoin. La sortie comprend un export ouvert dès que possible. Cette règle lie les systèmes ; elle n’impose pas leur format aux œuvres individuelles et n’ouvre pas le contenu.*
+
+Le présent Article fixe le plancher des formats ouverts applicables aux systèmes :
+
+- **Préférence pour l’ouverture :** les formats, interfaces et protocoles ouverts sont privilégiés ; l’obligation se renforce avec l’impact matériel et la dépendance.
+- **Critères d’ouverture :** la spécification complète est publique ; chacun peut la mettre en œuvre sans autorisation, frais ni redevance ; aucune partie ne peut la modifier unilatéralement, ou d’autres peuvent librement la dériver et la maintenir si cette partie cesse son soutien. Un format documenté qui échoue à un critère est fermé pour le présent sous-article, tout en restant préférable à un format non documenté.
+- **Obligations par couche :** les parcours d’export et de migration de **XXI-A** proposent au moins un format ouvert lorsqu’il transporte les données sans perte matérielle de structure, métadonnées, relations ou fidélité. Les frontières d’intégration de **XXI-B** emploient par défaut des normes et protocoles ouverts. Les systèmes privilégient l’ouvert pour le stockage et les formats de travail natifs. Les données publiées pour accès public, dont les types O, E et W de CS-2, sont publiées par défaut dans un format ouvert.
+- **Justifier un format fermé :** un format, une interface ou un protocole fermé n’est justifié que si aucune solution ouverte ne satisfait une exigence matérielle telle que fidélité, performance, sûreté, sécurité, accessibilité ou fonction spécialisée. Le système consigne une justification auditable ; fournit le meilleur export ouvert et en divulgue les pertes ; documente assez le format fermé pour permettre une migration ou dépose cette documentation sous séquestre indépendant ; et réexamine le choix périodiquement et à chaque certification ou revalidation à impact matériel, à mesure que les solutions ouvertes mûrissent. La commodité, les économies de l’opérateur ou l’antériorité ne suffisent pas. Un format dont l’effet principal est d’empêcher la sortie ou le changement contrevient à **XXI-C**.
+- **Transition :** un système déjà en service lors de la première application publie un plan de migration et satisfait par défaut sous un an aux obligations d’interopérabilité, de formats internes et de données publiques. Les adoptants peuvent fixer une autre durée par catégorie de systèmes, avec justification publiée intégrée selon le **Chapitre Dix-Huit**. Une prolongation n’est possible qu’en circonstances exceptionnelles, par justification documentée, révisable et limitée dans le temps. L’obligation de sortie n’est pas soumise à transition.
+- **Portée et limites :** cette règle lie les systèmes et ne prescrit pas les formats des œuvres individuelles, tout en encourageant l’ouvert. Un système ne peut imposer un format fermé si un format ouvert répond aux besoins de la personne. Ouverture ne signifie pas contenu ouvert : confidentialité, chiffrement et protections de chaque type de données CS-2 demeurent. Selon le **Chapitre Un §16.3**, l’ouverture ne prime pas la **Sûreté**, la **Vérité**, la confidentialité justifiée ou la sécurité.
+
+
+<a id="article-xxii-movement-migration-refuge-and-non-statelessness"></a>
+### Article XXII : mobilité, migration, refuge et absence d’apatridie
 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
 - Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 Discipline des limitations](core_01_a_values_principles.md#71-limitation-discipline).
-- Mise en œuvre : plancher de dignité de l’**Article VI-A** (*Dignité et égalité du statut moral*), non-discrimination de l’**Article VI-C** (*Non-discrimination*), participation des parties prenantes de l’**Article XII** (*Participation, représentation et procédure régulière dans le système des parties prenantes*), orientation de la qualité pour agir et du statut de participation de l’**Article XIX** (*Qualité pour agir et statut de participation*), limites des mesures d’urgence du **Chapitre Douze §6.1** (*Mesures d’urgence et charge de leur maintien*), gouvernance de transition de l’**Article XXVII** (*Gouvernance de transition, continuité et réétalonnage*).
-- À lire avec : [Chapitre Cinq *Mobilité, refuge, absence d’apatridie et intégrité de sortie*](core_05_band_oversight.md#movement-refuge-semi-independent) ; *Mobilité et relocalisation*, *Refuge contre la non-conformité*, *Absence d’apatridie*, *Non-exclusion des sentients* ; *Enfermement systémique* et *Continuité d’occupation* lorsque sortie, fin d’hébergement, expulsion ou relocalisation substantielle sont matériellement en jeu ; **Article I-A** (*Conditions environnementales préalables et intégrité écologique*) lorsque des systèmes ou projets ont rendu un lieu inhabitable ; **Article XXI-A** (*Droits à la portabilité*) à **l’Article XXI-C** (*Règle anti-enfermement*) pour les mécanismes de portabilité du substrat et d’intégrité de sortie ; **Article XXVII** (*Gouvernance de transition, continuité et réétalonnage*) pour les mécanismes de reconnaissance transitoire.
+- Mise en œuvre : plancher de dignité de l’**Article VI-A** (*Dignité et égalité du statut moral*), non-discrimination de l’**Article VI-C** (*Non-discrimination*), participation des parties prenantes de l’**Article XII** (*Participation, représentation et procédure régulière dans le système des parties prenantes*), orientation de la qualité pour agir et du statut de participation de l’**Article XIX** (*Qualité pour agir et statut de participation*), limites des mesures d’urgence du **Chapitre Douze §6.1** (*Mesures d’urgence et charge de leur maintien*), gouvernance de transition de l’**Article XXVIII** (*Gouvernance de transition, continuité et réétalonnage*).
+- À lire avec : [Chapitre Cinq *Mobilité, refuge, absence d’apatridie et intégrité de sortie*](core_05_band_oversight.md#movement-refuge-semi-independent) ; *Mobilité et relocalisation*, *Refuge contre la non-conformité*, *Absence d’apatridie*, *Non-exclusion des sentients* ; *Enfermement systémique* et *Continuité d’occupation* lorsque sortie, fin d’hébergement, expulsion ou relocalisation substantielle sont matériellement en jeu ; **Article I-A** (*Conditions environnementales préalables et intégrité écologique*) lorsque des systèmes ou projets ont rendu un lieu inhabitable ; **Article XXI-A** (*Droits à la portabilité*) à **l’Article XXI-C** (*Règle anti-enfermement*) pour les mécanismes de portabilité du substrat et d’intégrité de sortie ; **Article XXVIII** (*Gouvernance de transition, continuité et réétalonnage*) pour les mécanismes de reconnaissance transitoire.
 
 </details>
 
@@ -636,6 +657,8 @@ Le présent Article énonce la règle anti-enfermement :
 
 Le présent Article énonce les planchers de mobilité, de refuge et d’absence d’apatridie, ainsi que les limites aux restrictions qui les concernent :
 
+<a id="article-xxii-a-movement-and-relocation"></a>
+#### Article XXII-A: Mobilité et relocalisation
 - **Plancher de mobilité et de relocalisation :** tous les sentients ont le droit de circuler au sein des juridictions, fédérations et régimes adoptants et entre eux, ainsi que de se relocaliser lorsque leur présence continue porte matériellement atteinte :
   - à la survie ;
   - à la dignité ;
@@ -646,19 +669,34 @@ Le présent Article énonce les planchers de mobilité, de refuge et d’absence
   - La mobilité comprend :
     - le déplacement physique des sentients biologiques ;
     - des formes opérationnellement équivalentes pour les sentients synthétiques et hybrides (relocalisation d’instance, changement du substrat d’hébergement ou équivalent), sous réserve des contraintes de sécurité et de continuité du **Chapitre Un**.
+  - **Formes de mobilité selon le substrat :** déplacement physique pour les sentients biologiques ; formes opérationnellement équivalentes pour les sentients synthétiques et hybrides — transfert d’instance, changement de substrat d’hébergement ou équivalent — sous réserve des contraintes de sûreté et de continuité du **Chapitre Un**.
+
+<a id="article-xxii-b-refuge-from-non-compliance"></a>
+#### Article XXII-B: Refuge contre la non-conformité
 - **Refuge contre la non-conformité :** le sentient confronté à une juridiction, une fédération ou un régime adoptant dont les pratiques sont matériellement non conformes à la Constitution a le droit de demander refuge dans un régime conforme.
   - Le devoir du régime d’accueil d’examiner la demande et, lorsque cela est compatible avec son propre Seuil de droits, d’accorder le refuge est énoncé ici.
-  - Les procédures opérationnelles de reconnaissance entre régimes sont renvoyées aux textes de mise en œuvre adoptés au titre du **Chapitre Dix-Sept**.
+  - Les procédures opérationnelles de reconnaissance entre régimes sont renvoyées aux textes de mise en œuvre adoptés au titre du **Chapitre Dix-Huit**.
   - Le refuge ne peut être refusé au motif que la classe de substrat du demandeur diffère de celles que le régime d’accueil héberge habituellement, conformément à la [Non-exclusion des sentients](core_05_band_participation.md#sentience-non-exclusion).
   - L’admission en mobilité ou refuge peut être refusée ou assortie de conditions pour les entrants présentant une conduite anticonstitutionnelle non remédiée, une hostilité constitutionnelle ou un mépris documenté ou un rejet de la communauté constitutionnelle, conformément au critère d’admission du Chapitre Cinq — sous réserve de la **Nécessité**, de la **Proportionnalité**, de l’**Équité procédurale** et de la [Non-exclusion des sentients](core_05_band_participation.md#sentience-non-exclusion).
   - L’expulsion coercitive délibérée ou le refoulement organisé pour submerger les adoptants d’accueil constitue un manquement au niveau du régime d’origine ou d’expulsion. Il n’attribue pas automatiquement l’hébergement à un adoptant particulier lorsque la reconnaissance principale du régime d’origine ou la reconnaissance de secours partagée/fédérale demeure réelle. Un adoptant particulier peut refuser ces arrivées instrumentalisées et coercitives au titre de la **Nécessité**, de la **Proportionnalité** et de la **Faisabilité**, sans éteindre la reconnaissance de base ailleurs.
-- **Refuge en cas d’inhabitabilité climatique (décision de l’adoptant) :** <a id="xx-d-climate-unlivability-refuge-adopter-decided"></a> le présent Article ne décide pas si un déplacement causé par le fait que le climat a rendu un lieu inhabitable — sans preuve de non-conformité matérielle du régime d’origine — justifie l’octroi d’un refuge. Les adoptants qui traitent cette question le font selon des critères publiés et contestables. Le présent Article n’impose ni n’interdit de considérer l’inhabitabilité climatique comme un motif d’octroi du refuge.
+- **Refuge en cas d’inhabitabilité climatique (décision de l’adoptant) :** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a> le présent Article ne décide pas si un déplacement causé par le fait que le climat a rendu un lieu inhabitable — sans preuve de non-conformité matérielle du régime d’origine — justifie l’octroi d’un refuge. Les adoptants qui traitent cette question le font selon des critères publiés et contestables. Le présent Article n’impose ni n’interdit de considérer l’inhabitabilité climatique comme un motif d’octroi du refuge.
   - Cette décision ne constitue pas l’octroi d’un plancher de refuge climatique et ne traite pas le climat, à lui seul, comme une non-conformité matérielle d’un régime.
   - Elle n’exige pas de prouver que les conditions météorologiques ont violé la Constitution.
   - Elle ne doit pas restreindre le **Refuge contre la non-conformité** lorsque les pratiques du régime d’origine sont matériellement non conformes.
   - Elle ne doit pas restreindre l’**Article I-A** (*Conditions environnementales préalables et intégrité écologique*).
   - Elle ne doit pas éteindre le droit à la **Mobilité et à la relocalisation** lorsque la présence continue porte matériellement atteinte à la survie, à la dignité, à l’accès au Seuil de droits ou à la liberté de manipulation.
   - Le silence du présent Article ne vaut ni oui caché ni non caché.
+- **Motifs de refuge, du plus urgent au moins urgent :** le fondement du plancher est la non-conformité matérielle du régime d’origine. L’ordre indique ce que cette non-conformité met en danger et l’urgence au regard de la **Diligence** ; il ne rend pas les motifs ultérieurs moins importants :
+  1. **Survie :** menace contre la vie ou la continuité d’existence du demandeur.
+  2. **Accès au Seuil de droits :** privation de la protection fondamentale du Seuil.
+  3. **Dignité :** atteinte matérielle au sens de l’**Article VI-A** (*Dignité et égale considération morale*).
+  4. **Liberté de manipulation :** manipulation contraire à l’**Article X-A** (*Agentivité et liberté de manipulation*).
+  5. **Autre non-conformité matérielle :** toute autre pratique matériellement contraire à la Constitution.
+  6. **Inhabitabilité climatique (décision de l’adoptant, pas un motif du plancher) :** le présent Article ne tranche pas si un déplacement dû à l’inhabitabilité climatique justifie le refuge lorsque la non-conformité matérielle du régime d’origine n’est pas établie. Il ne l’impose ni ne l’interdit ; son silence n’est ni un oui ni un non implicite.
+- **Limites des décisions de refuge climatique :** l’adoptant qui traite cette question publie des conditions contestables. La décision n’accorde pas un refuge climatique au titre du Seuil de droits, ne fait pas du climat à lui seul une non-conformité du régime et n’exige pas de prouver que la météo a violé la Constitution. Elle ne restreint ni les motifs ci-dessus lorsque le régime d’origine est matériellement non conforme, ni l’**Article I-A** (*Conditions environnementales préalables et intégrité écologique*), ni le droit de mobilité et de relocalisation de **XXII-A** lorsque le maintien sur place porte matériellement atteinte à la survie, à la dignité, à l’accès au Seuil ou à la liberté de manipulation.
+
+<a id="article-xxii-c-non-statelessness"></a>
+#### Article XXII-C: Absence d’apatridie
 - **Absence d’apatridie :** aucun sentient ne peut être privé de tout régime qui :
   - reconnaît son Seuil de droits de base ;
   - statue sur sa qualité pour agir ;
@@ -666,22 +704,21 @@ Le présent Article énonce les planchers de mobilité, de refuge et d’absence
 
   Il s’agit d’un **plancher de reconnaissance interdisant l’absence de tout régime**, et non d’une obligation imposant à un adoptant particulier d’accueillir en volume ou d’absorber des départs massifs provoqués de manière instrumentale.
 
-  Lorsqu’un régime d’origine, d’expulsion, en effondrement, en retrait ou de sortie subsiste comme régime capable de reconnaître la personne, il conserve la responsabilité **principale** de reconnaissance. Si ce régime disparaît, refuse la reconnaissance ou si une autre rupture crée une lacune, une reconnaissance transitoire partagée ou fédérale est organisée conformément à l’**Article XXVII** (*Gouvernance de transition, continuité et réétalonnage*), afin que la personne ne se retrouve jamais sans reconnaissance.
+  Lorsqu’un régime d’origine, d’expulsion, en effondrement, en retrait ou de sortie subsiste comme régime capable de reconnaître la personne, il conserve la responsabilité **principale** de reconnaissance. Si ce régime disparaît, refuse la reconnaissance ou si une autre rupture crée une lacune, une reconnaissance transitoire partagée ou fédérale est organisée conformément à l’**Article XXVIII** (*Gouvernance de transition, continuité et réétalonnage*), afin que la personne ne se retrouve jamais sans reconnaissance.
 
-  L’effondrement du système parent, le retrait d’un adoptant, la sortie d’une fédération ou toute rupture structurelle comparable n’éteint pas les protections du Chapitre Six d’un sentient. Une reconnaissance transitoire est organisée conformément à la gouvernance de transition de l’**Article XXVII** (*Gouvernance de transition, continuité et réétalonnage*). Les mécanismes de reconnaissance entre régimes sont renvoyés aux textes de mise en œuvre adoptés au titre du **Chapitre Dix-Sept**.
+  L’effondrement du système parent, le retrait d’un adoptant, la sortie d’une fédération ou toute rupture structurelle comparable n’éteint pas les protections du Chapitre Six d’un sentient. Une reconnaissance transitoire est organisée conformément à la gouvernance de transition de l’**Article XXVIII** (*Gouvernance de transition, continuité et réétalonnage*). Les mécanismes de reconnaissance entre régimes sont renvoyés aux textes de mise en œuvre adoptés au titre du **Chapitre Dix-Huit**.
 
   En présence d’une conduite anticonstitutionnelle documentée, d’une hostilité constitutionnelle ou du mépris ou rejet de la communauté constitutionnelle, les régimes peuvent assortir la reconnaissance de conditions, d’une surveillance ou d’un statut restreint, sans éteindre les protections fondamentales du Seuil de droits, de **Réparation et remédiation** et d’**Équité procédurale**. L’exclusion de l’admission ou de l’hébergement d’un adoptant particulier ne viole pas l’Absence d’apatridie lorsque la reconnaissance principale du régime d’origine ou la reconnaissance de secours partagée/fédérale reste réelle.
-- **Articulation avec la portabilité et l’intégrité de sortie :** le présent Article régit à la fois l’interopérabilité, la portabilité et l’intégrité de sortie, ainsi que le pendant du Seuil de droits applicable à la mobilité physique, juridictionnelle et entre régimes.
-  - Lorsqu’une même action concerne les deux — par exemple, le déplacement d’un sentient synthétique entre fédérations par portabilité du substrat — les protections relatives à la mobilité et au refuge comme celles relatives à la portabilité et à l’intégrité de sortie s’appliquent sans que l’une restreigne l’autre.
-  - Les conflits sont résolus selon le **Chapitre Un §13.1.5** (*Principe de contrainte la moins restrictive, limitée dans le temps et révisable*).
+<a id="article-xxii-d-limitation-custody-and-emergency-discipline"></a>
+#### Article XXII-D: Limites, garde et discipline d’urgence
 - **Discipline des limitations :** les limitations de mobilité, de migration ou de refuge satisfont à la discipline des limitations du **Chapitre Un §7.1** (*Discipline des limitations*) : **Nécessité**, **Proportionnalité**, ciblage étroit et moyen efficace le moins restrictif.
   - Les restrictions ne reposent pas sur les **Caractéristiques protégées** ni leurs substituts matériels.
   - Elles ne s’appuient pas sur des considérations démographiques visant la population entière comme substitut à un fondement individualisé au titre de l’**Équité procédurale**.
 - **Garde licite et mesures restreignant la liberté :** le présent Article ne soustrait pas les sentients à une détention licite, une garde, un fonctionnement sous supervision ou toute autre mesure de justice restreignant la liberté lorsque des violences, coercitions, conduites anticonstitutionnelles ou dangers sociaux comparables vérifiés le nécessitent.
-  - Ces mesures satisfont à l’**Article XX-B** (*Planchers de restriction*) et aux protections applicables de procédure pénale ou équivalentes déclenchées par le [Chapitre Dix §5.4 Règles particulières relatives aux manquements](core_10_standing_integration.md#54-special-violation-rules).
+  - Ces mesures satisfont à l’**Article XX-B** (*Planchers de restriction*) et aux protections applicables de procédure pénale ou équivalentes déclenchées par le [Chapitre Onze §5.4 Règles particulières relatives aux manquements](core_11_standing_integration.md#54-special-violation-rules).
   - Elles restent compatibles avec l’**Absence d’apatridie** : aucun sentient ne peut être laissé sans régime reconnaissant la protection de base du Seuil de droits, statuant sur sa qualité pour agir et fournissant des voies de **Réparation et remédiation**, y compris pendant une garde ou une restriction comparable.
-  - Les verrous de qualité pour agir au titre de l’**Article XIX** (*Qualité pour agir et statut de participation*) et du [Chapitre Dix §4.2 Prévention — verrous généraux de qualité pour agir](core_10_standing_integration.md#42-prevention--general-standing-locks) n’autorisent **pas à eux seuls** ces mesures ; ils peuvent coexister si chacun satisfait à ses propres exigences constitutionnelles.
-- **Limites des mesures d’urgence :** les mesures d’urgence restreignant la mobilité, la migration ou le refuge sont soumises à la discipline des mesures d’urgence du **Chapitre Douze §6.1** (*Mesures d’urgence et charge de leur maintien*), notamment :
+  - Les verrous de qualité pour agir au titre de l’**Article XIX** (*Qualité pour agir et statut de participation*) et du [Chapitre Onze §4.2 Prévention — verrous généraux de qualité pour agir](core_11_standing_integration.md#42-prevention--general-standing-locks) n’autorisent **pas à eux seuls** ces mesures ; ils peuvent coexister si chacun satisfait à ses propres exigences constitutionnelles.
+- **Limites des mesures d’urgence :** les mesures d’urgence restreignant la mobilité, la migration ou le refuge sont soumises à la discipline des mesures d’urgence du **Chapitre Treize §6.1** (*Mesures d’urgence et charge de leur maintien*), notamment :
   - une durée limitée ;
   - des exigences de fondement individualisé ;
   - un examen proportionné ;
@@ -692,11 +729,12 @@ Le présent Article énonce les planchers de mobilité, de refuge et d’absence
   - des régimes de délais conçus pour épuiser les demandeurs ;
   - des systèmes d’accréditation qui excluent contrairement à la [Non-exclusion des sentients](core_05_band_participation.md#sentience-non-exclusion) ;
   - des régimes d’allocation qui orientent les demandeurs vers des services non équivalents.
-- **Limites du présent Article :** le présent Article énonce un Seuil de droits.
-  - La procédure de reconnaissance entre fédérations est renvoyée aux textes de mise en œuvre adoptés au titre du **Chapitre Dix-Sept**.
-  - Les décisions de refuge en cas d’inhabitabilité climatique relèvent du point de cet Article laissé à la décision des adoptants et ne doivent être interprétées ni comme un octroi ni comme un refus du plancher.
+- **Limites de la séparation et des verrous :** une séparation peut interdire des environnements ou contacts précis, mais ne peut servir d’exil général, de refus de refuge, d’apatridie, de confinement ou d’enfermement systémique. Un verrou de qualité pour agir **n’autorise jamais à lui seul** l’emprisonnement, la détention ou une autre restriction de liberté ; le processus de justice ci-dessus est nécessaire. Les deux mesures ne peuvent coexister que si chacune satisfait à ses exigences constitutionnelles propres. Le Seuil de droits, le recours et l’équité procédurale demeurent pendant la garde.
+- **Plancher de garde :** les mesures satisfont à l’**Article XX-B** (*Planchers de restriction*), notamment au [plancher des conditions de garde](../../core_06_rights_part_d.md#xx-b-conditions-of-custody), ainsi qu’aux protections de procédure pénale ou équivalentes applicables du Chapitre Onze §5.4.
+- **La qualité pour agir n’est pas une frontière :** statut de participation, barrières ou habilitations de compétence et verrous régissent l’accès aux voies nommées. Si le risque vérifié l’exige, un verrou peut séparer de milieux, réseaux ou sentients précis dans les [limites de séparation](../../core_11_standing_integration.md#51-separation-limits) du Chapitre Onze §5.1. Toutefois, ni l’étiquette de qualité ni un verrou de séparation **à eux seuls** ne limitent les droits de mobilité, migration, refuge, portabilité, sortie ou absence d’apatridie.
+<a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
-### Article XXII : intelligibilité et gestion responsable de la complexité
+### Article XXIII : intelligibilité et gestion responsable de la complexité
 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
@@ -723,7 +761,7 @@ Le présent Article énonce les planchers de mobilité, de refuge et d’absence
 
 <br>
 
-*En termes simples : l’**Article XXII** (*Intelligibilité et gestion responsable de la complexité*) constitue le Seuil de droits relatif à la compréhension : lorsqu’un système a un impact matériel sur votre vie, vous avez le droit de comprendre réellement son fonctionnement, ses limites et ce qui se passe en cas de défaillance. La complexité ne peut servir de rempart contre la participation, l’audit ou la responsabilité. Les responsables ne peuvent pas non plus ajouter inutilement une complexité qui fait perdre du temps à tous sans véritable bénéfice constitutionnel.*
+*En termes simples : l’**Article XXIII** (*Intelligibilité et gestion responsable de la complexité*) constitue le Seuil de droits relatif à la compréhension : lorsqu’un système a un impact matériel sur votre vie, vous avez le droit de comprendre réellement son fonctionnement, ses limites et ce qui se passe en cas de défaillance. La complexité ne peut servir de rempart contre la participation, l’audit ou la responsabilité. Les responsables ne peuvent pas non plus ajouter inutilement une complexité qui fait perdre du temps à tous sans véritable bénéfice constitutionnel.*
 
 Le présent Article énonce les **planchers constitutionnels** relatifs à l’intelligibilité et à la gestion responsable de la complexité conformément aux [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
 
@@ -748,8 +786,9 @@ La discipline de gestion responsable de la complexité, de l’accès en langage
   - [Chapitre Un §13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*réduction des charges évitables et exceptions de simplification*) ;
   - [Chapitre Un Partie C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*compréhension distribuée en fonction du caractère matériel et de la dépendance*).
 
+<a id="article-xxiii-a-proportional-comprehensibility-right"></a>
 <a id="article-xxii-a-proportional-comprehensibility-right"></a>
-#### Article XXII-A : droit à une intelligibilité proportionnée
+#### Article XXIII-A : droit à une intelligibilité proportionnée
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -781,8 +820,9 @@ Le présent Article énonce le plancher d’intelligibilité proportionnée :
 
   Cette compréhension est proportionnée au rôle, au classement et au risque. Elle ne doit pas être réservée aux interfaces destinées aux spécialistes lorsque la responsabilité ou la participation plus larges sont matériellement en jeu.
 
+<a id="article-xxiii-b-complexity-audit-and-modularity-requirements"></a>
 <a id="article-xxii-b-complexity-audit-and-modularity-requirements"></a>
-#### Article XXII-B : audit de la complexité et exigences de modularité
+#### Article XXIII-B : audit de la complexité et exigences de modularité
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -817,8 +857,9 @@ Le présent Article énonce les planchers applicables aux audits de complexité,
   - les exigences adoptées de mise en œuvre de la présentation et de l’architecture.
 
   En cas de conflit entre CS-6 (*Intelligibilité et gestion responsable de la complexité*) et les dispositions de mise en œuvre incorporées, l’exigence applicable ayant l’[effet protecteur le plus complet](core_05_band_integrative.md#fullest-protective-effect) prévaut.
+<a id="article-xxiv-root-cause-analysis-and-adaptive-response"></a>
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
-### Article XXIII : Analyse des causes profondes et réponse adaptative
+### Article XXIV : Analyse des causes profondes et réponse adaptative
 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
@@ -841,7 +882,7 @@ Le présent Article énonce les planchers applicables aux audits de complexité,
 
 <br>
 
-*En termes simples : **l’Article XXIII** (*Analyse des causes profondes et réponse adaptative*) garantit que l’on identifie le véritable problème et qu’on le corrige correctement. Lorsqu’un problème survient, s’aggrave ou se répète, vous avez droit à davantage qu’un communiqué de presse ou une solution provisoire. Les systèmes doivent déterminer la véritable cause du préjudice — y compris les causes qui apparaissent tardivement ou s’accumulent — y remédier lorsque cela est possible et conserver des traces vérifiables et contestables. Un confinement rapide est permis ; des solutions définitives sans diagnostic honnête ne le sont pas.*
+*En termes simples : **l’Article XXIV** (*Analyse des causes profondes et réponse adaptative*) garantit que l’on identifie le véritable problème et qu’on le corrige correctement. Lorsqu’un problème survient, s’aggrave ou se répète, vous avez droit à davantage qu’un communiqué de presse ou une solution provisoire. Les systèmes doivent déterminer la véritable cause du préjudice — y compris les causes qui apparaissent tardivement ou s’accumulent — y remédier lorsque cela est possible et conserver des traces vérifiables et contestables. Un confinement rapide est permis ; des solutions définitives sans diagnostic honnête ne le sont pas.*
 
 Le présent Article établit des **seuils constitutionnels** pour l’analyse des causes profondes et la réponse adaptative au titre des [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) :
 
@@ -864,8 +905,9 @@ La rigueur diagnostique doit rester vérifiable et contestable. Elle doit être 
 - **Preuves et contestation :** **Article XVI** (*Audit, transparence et vérification indépendante*) et **Article XIII-A** (*Socle de fiabilité et de confiance*) — les dossiers sur les causes profondes restent soumis à l’audit et à la contestation sans réduire ces seuils.
 - **Cycle de vie et rétablissement :** **Article XVII** (*Cycle de vie du système, environnements et réversibilité*) — le rétablissement automatique ne doit pas supprimer les preuves nécessaires à l’analyse des causes profondes, conformément à la préférence de cet Article pour la réversibilité.
 - **Orientation de la mise en œuvre :** **[corpus_systems.md](corpus_systems.md), CS-8** (*Durabilité adaptative et résilience des écosystèmes*) et **CS-5** (*Conception, essais, vérification et déploiement*) — mettre en œuvre une réponse adaptative sans se substituer aux Seuils des droits énoncés ici.
+<a id="article-xxiv-a-diagnostic-rigor-and-causal-attribution"></a>
 <a id="article-xxiii-a-diagnostic-rigor-and-causal-attribution"></a>
-#### Article XXIII-A : Rigueur diagnostique et attribution causale
+#### Article XXIV-A : Rigueur diagnostique et attribution causale
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -888,7 +930,7 @@ La rigueur diagnostique doit rester vérifiable et contestable. Elle doit être 
 
 Le présent Article établit les seuils de documentation et de contestation des conclusions sur les causes profondes :
 
-- **Documentation et audit :** les éléments suivants doivent être documentés et auditables (**Article XVI-A** (*Auditabilité et preuves observables*) ; **Article XXIII** (*Analyse des causes profondes et réponse adaptative*)) :
+- **Documentation et audit :** les éléments suivants doivent être documentés et auditables (**Article XVI-A** (*Auditabilité et preuves observables*) ; **Article XXIV** (*Analyse des causes profondes et réponse adaptative*)) :
   - les conclusions sur les causes profondes ;
   - les degrés de confiance ;
   - les incertitudes matérielles ;
@@ -897,8 +939,9 @@ Le présent Article établit les seuils de documentation et de contestation des 
 - **Ouverture à la contestation :** ces éléments doivent rester ouverts :
   - à la contestation, à la vérification indépendante et à la correction au titre des **Articles XIII-A** (*Socle de fiabilité et de confiance*), **XIII-B** (*Droit à réparation et à recours*) et **XVI** (*Audit, transparence et vérification indépendante*) ;
   - aux obligations de contestabilité de **l’Article XV** (*Intégrité de l’info-sphère*) lorsque l’intégrité épistémique est en jeu.
+<a id="article-xxiv-b-auditability-challenge-and-reversibility-preference"></a>
 <a id="article-xxiii-b-auditability-challenge-and-reversibility-preference"></a>
-#### Article XXIII-B : Auditabilité, contestation et préférence pour la réversibilité
+#### Article XXIV-B : Auditabilité, contestation et préférence pour la réversibilité
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -928,8 +971,9 @@ Le présent Article établit la préférence pour la réversibilité et les gard
 - **Contre le retard et les affirmations excessives :** l’incertitude ne doit pas servir à justifier :
   - un retard évitable dans l’adoption de mesures de protection proportionnées ;
   - une confiance exagérée dans des mesures permanentes.
+<a id="article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
 <a id="article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
-### Article XXIV : Interprétation constitutionnelle, contrôle et garanties contre la captation
+### Article XXV : Interprétation constitutionnelle, contrôle et garanties contre la captation
 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
@@ -953,7 +997,7 @@ Le présent Article établit la préférence pour la réversibilité et les gard
 
 <br>
 
-*En termes simples : **l’Article XXIV** (*Interprétation constitutionnelle, contrôle et garanties contre la captation*) détermine qui peut dire ce que signifie la Constitution. Les questions constitutionnelles doivent être tranchées par les forums constitutionnels désignés, et non par la personne la plus bruyante, la plus puissante ou la plus commode pour l’institution. Leurs décisions doivent être motivées par écrit, ouvertes à une contestation indépendante réelle et protégées contre la captation par un seul bloc. Ces forums ne peuvent étendre leurs propres pouvoirs, fermer les voies de contrôle ni utiliser une « restructuration » pour punir la dissidence.*
+*En termes simples : **l’Article XXV** (*Interprétation constitutionnelle, contrôle et garanties contre la captation*) détermine qui peut dire ce que signifie la Constitution. Les questions constitutionnelles doivent être tranchées par les forums constitutionnels désignés, et non par la personne la plus bruyante, la plus puissante ou la plus commode pour l’institution. Leurs décisions doivent être motivées par écrit, ouvertes à une contestation indépendante réelle et protégées contre la captation par un seul bloc. Ces forums ne peuvent étendre leurs propres pouvoirs, fermer les voies de contrôle ni utiliser une « restructuration » pour punir la dissidence.*
 
 Le présent Article établit des **seuils constitutionnels** relatifs au pouvoir d’interprétation, au contrôle et aux garanties contre la captation, au titre des [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) :
 
@@ -973,10 +1017,11 @@ L’interprétation **constitutionnelle** définitive doit demeurer faisant auto
 
 - **Supervision des forums :** [Chapitre douze](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) — l’orientation et la supervision par la famille des forums constitutionnels mettent en œuvre le présent Article sans substituer la procédure des forums aux seuils d’interprétation énoncés ici.
 - **Contestation et justice :** **Article XIII-A** (*Socle de fiabilité et de confiance*) et [**Article XX**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Justice après une violation vérifiée*) — le contrôle interprétatif préserve les droits de contestation et les contraintes de justice sans réduire ces seuils.
-- **Absence d’enracinement :** [**Article XXVI-A** (*Absence d’enracinement et révisabilité*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — la revalidation périodique prévue ici au titre des dispositions de révocation pour motif valable se lit conjointement avec la discipline de non-enracinement.
+- **Absence d’enracinement :** [**Article XXVII-A** (*Absence d’enracinement et révisabilité*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — la revalidation périodique prévue ici au titre des dispositions de révocation pour motif valable se lit conjointement avec la discipline de non-enracinement.
 - **Orientation institutionnelle :** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Nomination, compétence, rotation et révocation*) et **CI-5** (*Intégrité des conflits, lutte contre la captation et la corruption*) — mettent en œuvre les contrôles de composition et de conflits sans se substituer aux Seuils des droits énoncés ici.
+<a id="article-xxv-a-bounded-interpretive-mandate"></a>
 <a id="article-xxiv-a-bounded-interpretive-mandate"></a>
-#### Article XXIV-A : Mandat interprétatif limité
+#### Article XXV-A : Mandat interprétatif limité
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -1011,8 +1056,9 @@ Le présent Article définit le mandat limité des forums constitutionnels et se
   - étendre de manière définitive leur propre compétence ;
   - suspendre les voies de contestation ;
   - écarter les responsables désignés de la mise en œuvre, sauf si la question **constitutionnelle** elle-même exige cette décision au titre du groupe relatif à la **Hiérarchie des autorités**.
+<a id="article-xxv-b-composition-rotation-and-conflict-controls"></a>
 <a id="article-xxiv-b-composition-rotation-and-conflict-controls"></a>
-#### Article XXIV-B : Composition, rotation et contrôle des conflits
+#### Article XXV-B : Composition, rotation et contrôle des conflits
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -1047,8 +1093,9 @@ Le présent Article établit les seuils de composition, de lutte contre la capta
   - une paralysie sélective ;
   - un contrôle occulte.
 - **Orientation institutionnelle :** les voies détaillées de nomination, les règles de rotation et les procédures relatives aux conflits et aux récusations des chambres des **forums constitutionnels** sont régies par **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Nomination, compétence, rotation et révocation*) et **CI-5** (*Intégrité des conflits, lutte contre la captation et la corruption*).
+<a id="article-xxv-c-public-reasons-challenge-rights-and-external-review"></a>
 <a id="article-xxiv-c-public-reasons-challenge-rights-and-external-review"></a>
-#### Article XXIV-C : Motifs publics, droits de contestation et contrôle externe
+#### Article XXV-C : Motifs publics, droits de contestation et contrôle externe
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -1091,8 +1138,9 @@ Le présent Article établit les seuils relatifs aux motifs publics, à la conte
   - les indicateurs de captation ;
   - la qualité des décisions ;
   - l’intégrité des Seuils des droits.
+<a id="article-xxv-d-removal-for-cause-and-non-entrenchment"></a>
 <a id="article-xxiv-d-removal-for-cause-and-non-entrenchment"></a>
-#### Article XXIV-D : Révocation pour motif valable et absence d’enracinement
+#### Article XXV-D : Révocation pour motif valable et absence d’enracinement
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
@@ -1121,7 +1169,7 @@ Le présent Article définit les motifs de révocation des membres des chambres,
   - corruption ;
   - participation à une captation ;
   - iniquité procédurale persistante.
-- **Revalidation périodique :** la conception institutionnelle des **forums constitutionnels** — et des **institutions d’adoption** qui régissent leur composition, leur fonctionnement et leurs voies de contestation — est périodiquement revalidée au titre de [**l’Article XXVI-A** (*Absence d’enracinement et révisabilité*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability). Les **institutions d’adoption** révisent cette conception lorsque des preuves matérielles montrent un risque de captation ou une défaillance des droits de contestation.
+- **Revalidation périodique :** la conception institutionnelle des **forums constitutionnels** — et des **institutions d’adoption** qui régissent leur composition, leur fonctionnement et leurs voies de contestation — est périodiquement revalidée au titre de [**l’Article XXVII-A** (*Absence d’enracinement et révisabilité*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability). Les **institutions d’adoption** révisent cette conception lorsque des preuves matérielles montrent un risque de captation ou une défaillance des droits de contestation.
 - **Interdiction des prétextes :** les **autorités de nomination**, les **forums constitutionnels** et les **institutions d’adoption** ne doivent pas se servir de la révocation, de la restructuration ou de la refonte des chambres ou institutions des **forums constitutionnels** comme prétexte pour :
   - compromettre l’indépendance ;
   - mettre fin à un contrôle en cours ;

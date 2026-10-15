@@ -76,48 +76,6 @@
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### பொறுப்புக்கூறல் அளவீடு
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*எளிமையாகச் சொன்னால்: வெகுமதிகள், சந்தைகள், பொறுப்புக் கேட்கும் திறன் ஆகியவை பொறுப்புக்கூறலைக் காகிதத்தில் மட்டும் அல்லாமல் நடைமுறையிலும் உண்மையாக வைத்திருக்கிறதா என்று இந்தக் கேள்விகள் ஆராய்கின்றன.*
-
-*ஐந்தாம் அத்தியாயத்தில் பொறுப்புக்கூறல் அளவீட்டு குடும்பம் அமைந்துள்ள இடம் இதுவாகும். முன்னுரையின் §2 (அளவீடுகளின் மேலோட்டம்) வகைக்கான எளிய கேள்வியை மேலோட்ட அட்டவணையில் வைக்கிறது; குடும்ப அட்டவணை, அரசியலமைப்புப் பயன்பாடு, வரையறை வழிகாட்டல் ஆகியவை இங்கே உள்ளன.*
-
-*பொருட்பாடு ([Materiality](core_05_band_oversight.md#materiality)) ஒருங்கிணைந்தது; தனி அளவீட்டு வகை அல்ல. [material stake](core_00_preamble.md#material-stake) அடிப்படையில் இந்தக் குடும்பம் எவ்வளவு வலுவாகப் பொருந்தும் என்பதை அது அளவிடுகிறது.*
-
-| அளவீட்டு குடும்பம் | எளிய கேள்வி | முக்கிய அரசியலமைப்புப் பயன்பாடு |
-|---|---|---|
-| ஊக்கத்தொகை ஒத்திசைவும் மாற்றுக் குறியீடுகளின் நேர்மையும் | வெகுமதிகளும் அளவுகோல்களும் உண்மையான அரசியலமைப்பு விளைவுகளைப் பின்பற்றுகின்றனவா? | தவறான ஊக்கங்கள், கைப்பற்றல், [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) ஆகியவற்றைக் கண்டறிகிறது; [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions)-இன் அளவீட்டு வடிவம். |
-| சந்தை அமைப்பும் போட்டியிடும் திறனும் | நுழைவு, வெளியேறல், பேரம்பேசல், மாற்று வழிகள் உண்மையாகத் தொடர முடியுமா? | திறந்த சந்தைகளைச் சார்ந்த திறன் கோரிக்கைகள் உள்ள இடங்களில் குவிப்பு மற்றும் ஆதிக்கத்திற்கு எதிரான கட்டுப்பாடுகளைப் பயன்படுத்துகிறது. |
-
-வெகுமதி அமைப்புகள், சந்தை அதிகாரம், பொறுப்புக் கேட்கும் திறன் ஆகியவை [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)-இன் **பொறுப்புக்கூறல்** பக்கத்தை நடைமுறையில் உண்மையாக வைத்திருக்கிறதா என்று இந்த அளவீடுகள் கேட்கின்றன; காகிதத்தில் மட்டும் அல்ல.
-
-செயல்பாட்டு அளவீட்டு நிலைகள் ஐந்தாம் அத்தியாயத்தின் வரையறை இடங்களில் உள்ளன:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**முந்தைய கோப்பு:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**அடுத்த கோப்பு:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### பொறுப்புக்கூறலை அளவிடுதல்

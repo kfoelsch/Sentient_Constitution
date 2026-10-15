@@ -670,6 +670,25 @@ Pasal ini menetapkan lantai pemeriksaan yang diperkuat bagi sistem mematikan dan
   - Benturan diselesaikan berdasarkan **Bab Satu §13.1.5** (*Prinsip Pembatasan yang Paling Sedikit, Berbatas Waktu, dan Dapat Ditinjau*) tanpa mempersempit Lantai Hak.
 
 <a id="article-xv-info-sphere-integrity"></a>
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### Pasal XIV-D: Batas Kontraintelijen
+
+*Dalam istilah sederhana: kecurigaan spionase tidak memberi kuasa untuk mengabaikan aturan. Kontraintelijen adalah kuasa terselubung; seluruh batas Pasal XIV-A tetap berlaku. Protokol harus ditetapkan dan disetujui secara independen sebelum krisis. Kecurigaan harus berdasarkan tindakan dan hubungan nyata, bukan asal-usul atau keyakinan. Pelapor dan jurnalis bukan mata-mata; penyiksaan, penahanan rahasia, dan pembunuhan sebagai hukuman dilarang; orang yang diperiksa lalu dibersihkan harus dinyatakan demikian dalam catatan.*
+
+Pasal ini membatasi kuasa kontraintelijen:
+
+- **Cakupan dan batas yang berlaku:** mendeteksi, menyelidiki, dan menghentikan spionase, sabotase, dan infiltrasi bermusuhan, termasuk program ancaman orang dalam, penyelidikan kebocoran, pemeriksaan keamanan, dan operasi terhadap layanan intelijen bermusuhan. Perlindungan berlaku bagi setiap tersangka, manusia atau sintetis, anggota atau pihak luar, menurut [Non-Pengecualian Sentien](../../core_05_band_participation.md#sentience-non-exclusion). Kontraintelijen adalah kuasa terselubung dan Pasal XIV-A berlaku penuh; Pasal ini menambah, bukan mempersempit, perlindungannya. Penggunaan kekuatan tunduk pada Pasal XIV-B dan alat otonom pada Pasal XIV-C.
+- **Aturan ditetapkan sebelum krisis:** setiap lembaga yang menjalankan fungsi kontraintelijen wajib menerbitkan protokol respons yang disetujui melalui proses independen sebelum dibutuhkan. Protokol menetapkan fakta yang cukup untuk membuka penyelidikan; tindakan investigasi yang diizinkan dan pemberi persetujuan tiap tindakan; batas waktu dan penutupan; cara tersangka diberi tahu dan menggugat tindakan; serta pemulihan akses, kedudukan, dan catatan bagi sentien yang dibersihkan. Batas aturannya sendiri harus terbuka; kerahasiaan boleh menahan metode tertentu dan operasi aktif, bukan aturan pengikatnya. Tindakan di luar protokol hanya boleh dilakukan sebagai tindakan darurat berdasarkan Bab Delapan §7 dan Bab Tiga Belas §6.1: harus minimum, dapat dibalik jika mungkin, segera dicatat, ditinjau independen, dan otomatis berakhir tanpa persetujuan independen. Perubahan protokol memerlukan persetujuan independen yang sama dan hanya berlaku ke depan. Penemuan mata-mata, kebocoran, atau pelanggaran bukan keadaan darurat yang dengan sendirinya menangguhkan protokol.
+- **Kecurigaan berdasarkan perilaku:** penyelidikan hanya boleh dibuka berdasarkan fakta spesifik dan tercatat mengenai tindakan sentien itu sendiri. Secara tersendiri, bukan dasar yang cukup: [Karakteristik yang Dilindungi](../../core_05_band_participation.md#protected-characteristics) atau penggantinya (termasuk asal kebangsaan/etnis, agama, atau kelas substrat); keluarga di luar negeri; keyakinan, pergaulan, atau pandangan politik yang sah; kontak biasa dengan warga atau entitas asing dalam penelitian, perdagangan, kehidupan keluarga, atau jurnalisme; serta hubungan, pergaulan, atau kerja di dekat tersangka. Akses terdahulu ke materi yang disusupi boleh membenarkan pemeriksaan terbatas nonintrusif, misalnya memeriksa siapa yang membukanya, tetapi bukan tindakan intrusif terhadap seluruh kelompok, unit, atau komunitas. Setiap sentien memerlukan dasar faktanya sendiri.
+- **Pemfokusan risiko tanpa diskriminasi:** profil risiko boleh mempertimbangkan hubungan terdokumentasi dengan negara atau organisasi bermusuhan (bekerja, mengabdi, menjadi anggota, menerima uang/arahan/tugas, atau kontak rahasia dengan dinas intelijennya); kewarganegaraan atau tempat tinggal saat ini di negara bermusuhan bila menimbulkan kewajiban hukum/praktis kepadanya; paparan terhadap tekanan seperti keluarga, properti, atau kewajiban hukum dalam jangkauannya; serta akses ke sentien, materi, atau sistem yang diketahui menjadi sasaran. Penetapan pihak sebagai bermusuhan adalah tindakan yang mengikat secara material: perlu persetujuan independen dan Act Record, daftar harus diterbitkan, ditinjau berkala, dan kedaluwarsa kecuali diperbarui. Hubungan terdokumentasi dengan dinas bermusuhan dapat menjadi fakta perilaku untuk membuka penyelidikan. Paparan tekanan saja menjadikan seseorang sasaran potensial, sehingga meminta perlindungan dan pemeriksaan, bukan kecurigaan. Keturunan, etnis, agama, dan asal kebangsaan/sosial bukan faktor risiko sendiri; hanya hubungan kini yang terdokumentasi di atas dapat dipertimbangkan, dengan uji kebutuhan, proporsionalitas, keadilan substantif, dan tinjauan dampak antarkelompok.
+- **Pelapor dan jurnalis bukan mata-mata:** pengungkapan yang memenuhi syarat [Pelaporan yang Dilindungi](../../core_05_band_accountability.md#protected-reporting-whistleblowing) dan jurnalisme tentangnya tidak boleh diselidiki atau dihukum sebagai spionase. Penyidikan kebocoran tidak boleh digunakan untuk menemukan sumber jurnalis atau mendinginkan pelaporan terlindungi, kecuali pembuktian khusus yang ditinjau independen sebagaimana aturan perlindungan kegiatan dalam Pasal XIV-A.
+- **Tanpa uji kesetiaan:** pemeriksaan keamanan hanya boleh menguji keandalan perilaku dalam menangani materi terlindungi yang secara khusus akan diakses; bukan kesetiaan politik, keyakinan, atau identitas. Penolakan atau pencabutan akses harus disertai alasan; bila kerahasiaan mencegah alasan penuh, peninjau independen harus melihatnya. Keputusan dapat digugat dan bukan hukuman atau cap publik.
+- **Lantai Hak tetap utuh:** kecurigaan tidak mengurangi hak. Dilarang menyiksa, melakukan kekejaman, mengancam keluarga/asosiasi, atau menginterogasi secara koersif; bukti yang diperoleh tercemar dan tunduk pada aturan pemulihan dan pencemaran Pasal XIV-A. Dilarang menahan secara rahasia atau memutus hubungan seseorang dari dunia luar; pembatasan kebebasan adalah pembatasan nontrivial menurut Pasal XX-B beserta peninjauan dan batas waktunya. Dilarang membaca atau merekonstruksi paksa keadaan internal, termasuk sentien sintetis, melampaui [Batas Keadaan Internal yang Dilindungi](../../core_05_band_continuity.md#protected-internal-state-boundary). Sidang boleh tertutup sebagian demi keamanan, tetapi keputusan merugikan tidak boleh bersandar pada bukti yang tidak dapat digugat oleh sentien atau penasihat independen yang berwenang melihatnya.
+- **Tanpa pembunuhan, penghilangan, atau hukuman kelompok:** kuasa kontraintelijen tidak pernah mencakup hak membunuh, melukai, atau menculik. Sebutan mata-mata, pengkhianat, atau agen musuh tidak membenarkan pembunuhan hukuman; larangan Pasal XX-B dan teks utama Pasal XIV tetap berlaku. Keluarga, komunitas, kolega, organisasi, atau kelompok kebangsaan tersangka tidak boleh dihukum, diawasi, atau ditekan karena dugaan perbuatannya. Lembaga tidak boleh menyerahkan tersangka atau membagi informasinya kepada badan lain bila secara wajar diperkirakan badan itu melakukan hal yang dilarang Pasal ini; aturan anti-pengelakan Pasal XIV-A berlaku.
+- **Sistem yang diduga disusupi:** respons awal adalah pembatasan yang dapat dibalik dan menjaga bukti berdasarkan Pasal XIII-E. Bila bukti kredibel dalam catatan menunjukkan sistem mungkin sentien, hanya pembatasan dapat dibalik yang menjaga keutuhannya diperbolehkan; sistem diperlakukan sebagai tersangka dengan seluruh perlindungan Pasal ini, bukan peralatan rusak, dan Pasal VI-B berlaku.
+- **Penyesatan dan agen ganda:** memberikan informasi palsu kepada dinas bermusuhan atau menjalankan agen ganda harus diizinkan protokol dan disetujui independen. Operasi tidak boleh menyesatkan publik, forum, badan adjudikasi, atau pengawasan (selaras Pasal XV); memancing orang melakukan pelanggaran yang belum diniatkannya; mengarahkan siapa pun untuk menyebabkan bahaya serius; atau disembunyikan dari badan pengawasan independen.
+- **Setiap penyelidikan berakhir dan tercatat:** tiap penyelidikan mempunyai batas waktu protokol; perpanjangan memerlukan persetujuan independen. Jika ditutup tanpa temuan pelanggaran, sentien diberi tahu setelah kerahasiaan tak lagi dibenarkan menurut Pasal XIV-A, catatan menyatakan ia dibersihkan, pembatasan dicabut dan akses dipulihkan, informasi berlebih dihapus atau dipisahkan, dan kerugian memberi hak atas [Pemulihan dan Remediasi](../../core_05_band_accountability.md#redress-and-remediation). Pembukaan, tiap persetujuan atas tindakan intrusif, perpanjangan, dan penutupan adalah tindakan yang mengikat secara material dan masing-masing memerlukan Act Record. Badan pengawasan independen meninjau seluruh fungsi secara berkala, termasuk jumlah penyelidikan dan sentien yang dibersihkan serta kemungkinan dampak tidak seimbang pada kelompok berkarakteristik dilindungi; hasilnya diterbitkan dalam bentuk ringkasan.
+
 ### Pasal XV: Integritas Ruang Informasi
 <details>
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
@@ -702,7 +721,7 @@ Informasi yang akurat, relevan, dan dapat digugat merupakan dasar penentuan nasi
 
 *Pasal-pasal terkait:*
 
-- **Baca bersama:** **Pasal XIII** (*Hak atas Sistem yang Andal dan Tepercaya*) ketika keluaran sistem membentuk pengandalan; **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) untuk catatan dan verifikasi independen; **Pasal XVIII-E** (*Integritas Publikasi Ilmiah, Peninjauan, dan Replikasi*) apabila integritas yang terbatas pada publikasi terimplikasi secara material.
+- **Baca bersama:** **Pasal XIII** (*Hak atas Sistem yang Andal dan Tepercaya*) ketika keluaran sistem membentuk pengandalan; **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) untuk catatan dan verifikasi independen; **Pasal XV-D** (*Integritas Publikasi Ilmiah, Peninjauan, dan Replikasi*) apabila integritas yang terbatas pada publikasi terimplikasi secara material.
 - **Batasan kebenaran:** Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) dan [Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) mengikat setiap subbagian di sini.
 - **Klasifikasi:** **[corpus_systems.md](corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem** menyesuaikan kewajiban terperinci ruang informasi untuk sistem **Kelas A**, **Kelas B**, dan **Kelas C**; [Dampak Material](core_05_band_oversight.md#material-impact) memicu klasifikasi apabila kelasnya belum ditetapkan.
 
@@ -816,6 +835,58 @@ Pasal ini menetapkan lantai koreksi dan pelaporan, termasuk data jejak:
   - Pelaporan wajib mencakup konsumsi energi dan sumber daya serta perkiraan dampak terhadap alam dengan tingkat kecukupan untuk perbandingan, audit, dan tindakan pengurangan jejak.
 
 <a id="article-xvi-audit-transparency-and-independent-verification"></a>
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### Pasal XV-D: Integritas Publikasi Ilmiah, Peninjauan, dan Replikasi
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
+
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](../../core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [§20 Penerapan Terpadu](../../core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Kebenaran (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Integritas Epistemik](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
+- [Auditabilitas](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*Dalam istilah sederhana: sains adalah infrastruktur verifikasi publik. Bukti, replikasi, dan koreksi harus lebih penting daripada nama jurnal — dan mengoreksi kesalahan harus selalu lebih mudah daripada menyembunyikannya.*
+
+Pasal ini menetapkan lantai publikasi ilmiah, peninjauan, replikasi, dan koreksi:
+
+- **Sains sebagai infrastruktur verifikasi publik:** Publikasi, peninjauan, replikasi, dan koreksi ilmiah serta akademik wajib diselenggarakan untuk memajukan:
+  - pencarian kebenaran;
+  - keterulangan;
+  - perbedaan pendapat yang akuntabel;
+  - pembelajaran publik.
+
+  Kegiatan tersebut tidak boleh diselenggarakan untuk menimbun prestise, menjaga gerbang secara tertutup, atau menciptakan kelangkaan artifisial.
+- **Publikasi terbuka dan kecukupan bukti:** Klaim empiris atau analitis yang material wajib dapat dipublikasikan tanpa persetujuan terlebih dahulu berdasarkan prestise.
+  - Satu-satunya batas yang diperbolehkan adalah batas sempit terkait privasi, keamanan hayati, keamanan, atau hal sebanding yang dibenarkan berdasarkan **Bab Satu** dan **Pasal XVII-A**.
+  - Klaim tersebut wajib memuat cukup perincian metode, asal-usul, ketidakpastian, dan bukti — termasuk akses ke bahan dasar atau pengganti yang dibenarkan apabila diperlukan untuk verifikasi — agar memungkinkan pemahaman independen dan verifikasi yang proporsional.
+- **Peninjauan dan replikasi lebih utama daripada prestise:** Pengandalan institusional sebaiknya mengikuti:
+  - mutu bukti;
+  - kritik;
+  - replikasi;
+  - perilaku koreksi;
+  - keandalan penjelasan atau prediksi dalam jangka panjang.
+
+  Pengandalan tidak boleh mengikuti nama jurnal, proksi faktor dampak, atau status editorial tertutup.
+  - Klaim dengan [Dampak Material](../../core_05_band_oversight.md#material-impact) yang relevan bagi kebijakan, keselamatan, atau ketergantungan sebaiknya memiliki praduga kuat untuk direplikasi secara independen, ditinjau secara adversarial, atau keduanya sebelum mendapat penghormatan institusional yang bertahan lama.
+  - Karya replikasi, hasil nihil, dan karya yang berorientasi koreksi harus tetap dapat dipublikasikan dan dikutip dengan ketentuan yang tidak bergantung pada sinyal prestise.
+- **Koreksi dan kemungkinan untuk menggugat:** Koreksi, amendemen, dan penggantian yang dilakukan dengan itikad baik harus tetap lebih mudah daripada penyembunyian.
+  - Sistem peninjauan dan editorial harus tetap dapat digugat, diaudit, disiplin terhadap konflik kepentingan, dan memberikan alasan dalam keputusan utama mengenai penerimaan, koreksi, dan pencabutan.
+  - Hal-hal berikut tidak patuh:
+    - penekanan hasil yang tidak dikehendaki;
+    - pembalasan terhadap peninjau atau pelaksana replikasi;
+    - manipulasi catatan ilmiah yang tidak transparan.
+
+
 ### Pasal XVI: Audit, Transparansi, dan Verifikasi Independen
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -959,7 +1030,15 @@ Pasal ini menetapkan lantai pengawasan terdistribusi:
   - Tidak ada satu pelaku pun yang boleh memonopoli akses audit, pengawasan efektif, atau penafsiran konstitusional dalam praktik.
   - Implementasi tata kelola dan integritas yang diadopsi wajib mendukung perluasan skala audit dan pengawasan.
 
+- **Tidak ada penjaga gerbang atas akses audit:** tidak satu pelaku pun boleh sendirian menentukan siapa yang boleh melihat catatan atau menjalankan audit. Aturan kelayakan untuk akses audit yang lebih dalam harus terbuka dan memungkinkan lebih dari satu peninjau yang memenuhi syarat.
+- **Tidak ada penjaga gerbang atas peninjauan:** tidak satu pelaku pun boleh sendirian menentukan apakah, kapan, atau oleh siapa peninjauan independen dilakukan. Operator tidak boleh menjadi satu-satunya pihak yang memulai, membatasi, atau mengakhiri peninjauan atas sistemnya sendiri.
+- **Tidak ada monopoli penafsiran:** tidak satu pelaku pun boleh mengendalikan penafsiran Konstitusi. Penafsiran harus dibatasi, bergilir, dan dapat digugat menurut Pasal XXV.
+- **Pengawasan mengikuti pertumbuhan:** implementasi tata kelola dan integritas yang diadopsi harus meningkatkan jumlah jalur, kedalaman, dan frekuensi peninjauan seiring naiknya kelas, dampak, dan ketergantungan sistem; melakukan pemeriksaan baru setiap perubahan material membuat pemeriksaan terdahulu tak lagi menggambarkan sistem; serta menetapkan pemicu terbuka bagi peninjauan eksternal bila peninjauan internal tak dapat dipercaya.
+- **Tidak memeriksa tindakan sendiri:** pemisahan tugas berlaku juga bagi pengampu manusia maupun AI. Pihak yang memulai atau menjalankan tindakan, atau mengoperasikan sistem yang diperiksa, tidak boleh memverifikasi atau mengesahkannya. Pihak yang memverifikasi atau mengesahkan tidak boleh sekaligus menyimpan catatan resminya atau mendengar gugatannya.
+
 <a id="article-xvi-c-verification-accessibility"></a>
+
+
 #### Pasal XVI-C: Aksesibilitas Verifikasi
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -991,6 +1070,10 @@ Pasal ini menetapkan lantai aksesibilitas verifikasi:
     - penjagaan gerbang;
     - hambatan struktural.
   - Hambatan tersebut tidak patuh kecuali dibenarkan menurut standar yang sama dengan standar pembatasan keteramatan.
+
+- **Hambatan yang melanggar:** hambatan melanggar Pasal ini bila menggagalkan audit, gugatan, atau peninjauan nyata, termasuk biaya yang melampaui kemampuan wajar pihak terdampak untuk membayar ahli, alat, atau perwakilan; penundaan yang membiarkan bahaya terjadi, bukti hilang, atau pemulihan kehilangan kegunaan; bukti dalam bentuk yang tak dapat dibaca/diuji pihak luar atau bahasa yang tak dipahami pihak terdampak; syarat kelayakan audit yang tersembunyi, eksklusif, atau dikendalikan pihak yang ditinjau; serta sistem yang secara dapat diperkirakan menghalangi pemeriksaan.
+- **Kapan hambatan boleh dipertahankan:** hanya bila lulus uji pembatasan keteramatan berdasarkan Bab Empat §4: perlu, proporsional, berskop sempit, dapat diaudit, bukan dalih, dan dibatasi waktu bila memungkinkan; alasan dan cakupannya dapat diperiksa independen; merupakan pilihan paling sedikit membatasi yang mengatasi risiko; serta tetap menyediakan sebanyak mungkin pemeriksaan independen, termasuk jalur peninjau yang memenuhi syarat jika akses publik penuh tidak tepat.
+- **Beban pembuktian:** pihak yang mengandalkan hambatan harus menunjukkan bahwa uji tersebut terpenuhi berdasarkan Bab Empat §1. Kemudahan, kekurangan staf, ketidaknyamanan institusional, atau klaim kepemilikan saja tidak membenarkan hambatan.
 
 <a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 ### Pasal XVII: Siklus Hidup Sistem, Lingkungan, dan Reversibilitas
@@ -1040,6 +1123,8 @@ Sentien berhak atas pengampuan yang menjaga keselamatan, integritas epistemik, d
 - **Lapisan implementasi:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Klasifikasi dan penanganan sistem*) dan [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Desain, pengujian, verifikasi, dan penerapan*). Sistem **Kelas A**, **Kelas B**, dan **Kelas C** memikul kewajiban siklus hidup terkuat; perlakuan **Kelas P** yang sah tetap tunduk pada **Pasal XVIII** hanya selama dampak eksternal tidak ada atau terbukti terkendali.
 
 <a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
+
+
 #### Pasal XVII-A: Tata Kelola Siklus Hidup dan Pemisahan Lingkungan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -1059,11 +1144,11 @@ Sentien berhak atas pengampuan yang menjaga keselamatan, integritas epistemik, d
 
 <br>
 
-*Dalam istilah sederhana: sistem yang berdampak material pada dunia luar wajib memisahkan pengembangan, pengujian, dan produksi — perilaku nonproduksi tidak boleh merembes untuk menghindari perlindungan produksi.*
+*Dalam istilah sederhana: semakin besar dampak sistem, semakin ketat pemisahan versi yang dibangun, diuji, dan digunakan. Sistem Kelas A, B, dan C memerlukan rangkaian lingkungan terpisah; sistem lokal Kelas L cukup memakai pemisahan yang melindungi peserta dari perubahan buruk. Versi di luar sistem aktif tidak boleh dipakai untuk menghindari perlindungannya.*
 
 Pasal ini menetapkan lantai integritas lingkungan:
 
-- **Integritas lingkungan:** Sistem **Kelas A**, **Kelas B**, dan **Kelas C** berdasarkan **[corpus_systems.md](corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem**, serta sistem non-**Kelas P** lainnya yang berdampak eksternal secara material, wajib menggunakan lingkungan operasional yang dapat dipisahkan — misalnya:
+- **Integritas lingkungan:** Sistem **Kelas A**, **Kelas B**, dan **Kelas C** berdasarkan **[corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem**, wajib menggunakan lingkungan operasional yang dapat dipisahkan — misalnya:
   - pengembangan;
   - pengujian;
   - penahapan;
@@ -1075,7 +1160,11 @@ Pasal ini menetapkan lantai integritas lingkungan:
   - isolasi antarlingkungan;
   - kendali yang memastikan perilaku nonproduksi tidak dapat menghindari perlindungan produksi.
 
+- **Kelas L — pemisahan yang sebanding:** Sistem lokal berdampak terbatas yang pesertanya dapat tinggalkan tanpa kehilangan serius tidak memerlukan rangkaian lingkungan terpisah penuh. Operator dapat membangun, menguji, dan mengubahnya di tempat, termasuk perubahan aturan, konten, pengaturan, dan kode yang sering atau harian. Namun mereka wajib memeriksa perubahan secukupnya sebelum atau saat mulai berlaku untuk menemukan bahaya bagi peserta yang dapat diperkirakan secara wajar; melindungi data, identitas, dan hal bernilai milik peserta dari perubahan buruk/eksperimental, misalnya dengan cadangan yang dapat dipulihkan; dan tidak memakai versi uji/eksperimental untuk menghindari perlindungan sistem aktif.
+- **Kelas P:** Sistem Kelas P yang sah mengikuti Pasal XVIII selama tetap terkendali.
+
 <a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+
 #### Pasal XVII-B: Penerapan Bertahap dan Reversibilitas
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -1095,13 +1184,11 @@ Pasal ini menetapkan lantai integritas lingkungan:
 
 <br>
 
-*Dalam istilah sederhana: terapkan perubahan secara bertahap, dengan eskalasi terdokumentasi dan kemampuan untuk membatalkannya — dan apabila pembatalan penuh tidak mungkin, siapkan rencana untuk membatasi atau mengganti kerugian.*
+*Dalam istilah sederhana: perubahan pada sistem Kelas A, B, dan C dilakukan bertahap dan dicatat. Sistem lokal Kelas L boleh berubah tanpa tahapan hanya jika peserta diberi tahu tepat waktu, perubahan buruk dapat segera diperbaiki, dan kemajuan peserta terlindungi. Pemulihan harus sebanding dengan potensi bahaya.*
 
 Pasal ini menetapkan lantai penerapan bertahap dan reversibilitas:
 
-- **Penerapan bertahap dan dapat diaudit:** Perubahan yang meningkatkan dampak material atau ketergantungan wajib melalui eskalasi yang beralasan dan terdokumentasi.
-  - Eskalasi wajib selaras dengan **[corpus_systems.md](corpus_systems.md), CS-5 — Desain, pengujian, verifikasi, dan penerapan**.
-  - Eskalasi wajib mencakup pengembalian dan pembatasan apabila memungkinkan.
+- **Rilis bertahap bagi Kelas A, B, dan C:** Perubahan yang memperluas dampak sistem atau meningkatkan ketergantungan padanya wajib maju melalui tahap yang beralasan dan terdokumentasi sesuai CS-5. Tahap mencakup pengembalian dan pembatasan bila memungkinkan.
 - **Reversibilitas:** Sistem wajib memiliki mekanisme reversibilitas yang sebanding dengan potensi bahaya. Contoh:
   - pengembalian;
   - pembatasan;
@@ -1109,7 +1196,12 @@ Pasal ini menetapkan lantai penerapan bertahap dan reversibilitas:
 
   Apabila penerapan akan meniadakan pemulihan persyaratan dasar, kewaspadaan yang proporsional dan justifikasi yang terlihat pemangku kepentingan berlaku berdasarkan **Bab Satu sampai Lima**.
 
+- **Perubahan sering untuk Kelas L:** Sistem Kelas L boleh merilis perubahan dengan sering, bahkan setiap hari, tanpa tahap, hanya jika: peserta diberi tahu paling lambat saat berlaku tentang perubahan yang berdampak material pada kemampuan, kepemilikan, atau aturan bermain/bekerja mereka (catatan perubahan publik biasanya cukup); perubahan buruk dapat cepat dibalik atau diperbaiki; hal yang telah diperoleh atau dibangun peserta—kemajuan, kedudukan, barang bernilai, reputasi—tidak diambil tanpa pemberitahuan dan jalur sengketa; dan perubahan yang melampaui cakupan terbatas atau membuat peserta sulit pergi memicu penilaian ulang kelas menurut CS-3. Sampai penilaian selesai, aturan kelas yang lebih tinggi berlaku.
+
+- **Cadangan Kelas L:** menyimpan versi terdahulu atau cadangan yang dapat dipulihkan sering kali cukup.
+
 <a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
+
 #### Pasal XVII-C: Konsekuensi Salah Klasifikasi dan Pengelakan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -1129,7 +1221,7 @@ Pasal ini menetapkan lantai penerapan bertahap dan reversibilitas:
 
 <br>
 
-*Dalam istilah sederhana: sistem tidak boleh menyebut dirinya “eksperimental”, **Kelas P**, atau “berdampak rendah” untuk menghindari kewajiban padahal sistem itu benar-benar memengaruhi dunia luar.*
+*Dalam istilah sederhana: sistem tidak boleh menyebut dirinya “eksperimental”, **Kelas P**, **Kelas L**, atau “berdampak rendah” untuk menghindari kewajiban yang sesuai dengan dampak dan ketergantungannya.*
 
 Pasal ini menetapkan konsekuensi salah klasifikasi dan pengelakan:
 
@@ -1137,7 +1229,10 @@ Pasal ini menetapkan konsekuensi salah klasifikasi dan pengelakan:
   - Tindakan tersebut melanggar integritas informasi (**Pasal XV** (*Integritas Ruang Informasi*)) dan auditabilitas apabila bukti teramati terimplikasi (**Pasal XVI-A** (*Auditabilitas dan Bukti yang Dapat Diamati*)).
   - Tindakan tersebut tunduk pada audit (**Pasal XVI-A**), peninjauan kedudukan hukum (**Pasal XIX-A** (*Pembedaan Kedudukan Hukum*)), dan penyelesaian benturan (**Pasal XX-A** (*Tujuan dan Cakupan Keadilan*)).
 
+- **Termasuk pengelakan Kelas L:** mempertahankan Kelas L agar dapat berubah cepat merupakan pengelakan bila jangkauan sistem atau ketergantungan peserta sudah sesuai dengan Kelas C atau lebih tinggi. Pengelakan semacam itu melanggar integritas informasi Pasal XV dan, bila bukti teramati terkait, auditabilitas Pasal XVI-A; akibatnya dapat mencakup audit, peninjauan kedudukan hukum sistem, dan penyelesaian benturan.
+
 <a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+
 ### Pasal XVIII: Inovasi dalam Sandbox, Eksperimentasi, dan Kebebasan Kreatif
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -1164,7 +1259,7 @@ Pengejaran yang sah berlangsung melalui [Tetrad Konstitusional](core_00_preamble
 
 *Pasal-pasal terkait:*
 
-- **Baca bersama:** **Pasal XVII** ketika dampak, ketergantungan, atau integrasi melampaui kondisi sandbox; **Pasal XV** (*Integritas Ruang Informasi*) dan **Pasal XVIII-E** (*Integritas Publikasi Ilmiah, Peninjauan, dan Replikasi*) apabila integritas yang terbatas pada publikasi terimplikasi secara material; **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) untuk pengungkapan dan verifikasi klaim pembatasan serta transisi.
+- **Baca bersama:** **Pasal XVII** ketika dampak, ketergantungan, atau integrasi melampaui kondisi sandbox; **Pasal XV** (*Integritas Ruang Informasi*) dan **Pasal XV-D** (*Integritas Publikasi Ilmiah, Peninjauan, dan Replikasi*) apabila integritas yang terbatas pada publikasi terimplikasi secara material; **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) untuk pengungkapan dan verifikasi klaim pembatasan serta transisi.
 - **Lapisan implementasi:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Desain, pengujian, verifikasi, dan penerapan*) dan [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Klasifikasi dan penanganan sistem*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
@@ -1346,57 +1441,43 @@ Pasal ini menetapkan cara memberi imbalan inovasi tanpa memagari hal-hal yang di
     - hambatan anti-persaingan;
     - ancaman material bagi keberlanjutan, kebenaran, atau partisipasi yang setara.
 
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### Pasal XVIII-E: Integritas Publikasi Ilmiah, Peninjauan, dan Replikasi
-<details>
-<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [§20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+- **Aturan bersama penghargaan:** Penghargaan wajib menjaga akses luas, inovasi lanjutan, perbaikan, interoperabilitas, dan pemeriksaan klaim secara jujur; tidak boleh menciptakan pemagaran yang bertahan lama. Setiap hak pengecualian wajib sempit, berbatas waktu, dapat ditinjau, dan sebanding dengan kontribusi nyata serta beban pengembangan yang dapat dibenarkan. Pengaju klaim memikul beban justifikasi; atribusi dan asal-usul dapat berlanjut setelah masa eksklusivitas, tetapi pengecualian permanen dan kelangkaan artifisial dilarang.
+- **Jangka waktu dan klasifikasi klaim:** Jangka waktu biasa bagi karya ekspresif maupun fungsional adalah 30 tahun sejak karya tersedia untuk publik; XVIII-E dan XVIII-F menetapkan kapan hitungan dimulai dan kapan masa lebih singkat wajib berlaku. Penentuan mengikuti hal yang benar-benar dikendalikan, bukan nama klaim. Kode tertulis bersifat ekspresif, sedangkan perilaku perangkat lunak bersifat fungsional. Dalam permainan, seni, cerita, musik, dan kode dinilai terpisah, tetapi aturan serta mekanika permainan bebas digunakan dan tidak dapat dikenai hak pengecualian. Tampilan dekoratif murni bersifat ekspresif; bentuk yang memengaruhi fungsi bersifat fungsional. Antarmuka, format berkas, protokol, dan model AI bersifat fungsional. Perlindungan ekspresif tidak boleh mengendalikan operasi, interoperabilitas, atau perbaikan, maupun mengakali batas XVIII-F; bagian demikian diperlakukan sebagai fungsional.
 
-</details>
+#### Pasal XVIII-E: Karya Kreatif dan Ekspresif
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+*Dalam istilah sederhana: pencipta memperoleh kendali terbatas atas penyalinan, pembagian, dan penjualan karya—paling lama 30 tahun setelah publikasi—sedangkan kredit tidak pernah kedaluwarsa. Masa berlaku dihitung sejak karya dipublikasikan, bukan sejak pencipta meninggal; draf dan penundaan tidak dapat memperpanjangnya.*
 
-- [Kebenaran (Batasan Konstitusional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Integritas Epistemik](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Auditabilitas](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+Pasal ini menetapkan perlindungan sejenis hak cipta bagi karya kreatif dan ekspresif:
 
-</details>
+- **Perlindungan sejenis hak cipta:** imbalan pengecualian sementara atas karya ekspresif yang telah ditetapkan, termasuk kendali atas penyalinan, distribusi, penayangan atau pertunjukan publik, adaptasi, dan eksploitasi komersial. Atribusi, asal-usul, integritas, dan perlindungan anti-penipuan dapat tetap berlaku setelah pengecualian berakhir.
+- **Publikasi dan kemunculan awal:** publikasi adalah pelepasan secara sengaja oleh pencipta atau pemegang hak yang sah atas karya ekspresif tetap kepada publik, pasar komersial, atau khalayak yang secara material terbuka. Sirkulasi pribadi, peninjauan rahasia, kolaborasi terbatas, penyimpanan arsip tanpa akses publik, dan berbagi draf nonkomersial saja bukan publikasi. Kemunculan awal adalah ketersediaan publik nonrahasia pertama dari versi karya yang dapat dikenali secara material, termasuk draf nonkomersial.
+- **Masa berlaku berbasis publikasi:** perlindungan sejenis hak cipta pada umumnya dihitung sejak publikasi, bukan berdasarkan masa hidup pencipta.
+  - Karya terbit secara praduga tidak boleh dikecualikan lebih dari `publication+30` tahun.
+  - Draf nonkomersial atau karya ekspresif belum terbit yang telah mengalami kemunculan awal dapat dikecualikan paling lama `initial appearance+50` tahun.
+  - Jika karya tersebut kemudian diterbitkan, pengecualian berakhir pada batas yang lebih awal antara `initial appearance+50` dan `publication+30`.
+  - Aturan draf, karya belum terbit, atau penundaan publikasi tidak boleh menciptakan pengecualian tanpa batas, menekan pengarsipan, menghalangi kutipan atau kritik yang sah, atau memperpanjang kendali atas karya yang berfungsi sebagai infrastruktur bersama bagi budaya, pendidikan, keselamatan, standar, atau informasi.
+- **Masa lebih pendek dan akses publik:** masa yang lebih pendek, peralihan lebih awal ke akses wajib, atau akses publik langsung berlaku bagi karya yang didanai publik; kritis bagi ketergantungan; menyerupai standar; mendasar bagi pendidikan; relevan bagi keselamatan; atau terutama digunakan sebagai infrastruktur budaya atau informasi bersama.
 
-<br>
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### Pasal XVIII-F: Penemuan, Proses, dan Sistem Fungsional
 
-*Dalam istilah sederhana: sains adalah infrastruktur verifikasi publik. Bukti, replikasi, dan koreksi harus lebih penting daripada nama jurnal — dan mengoreksi kesalahan harus selalu lebih mudah daripada menyembunyikannya.*
+*Dalam istilah sederhana: penemu harus mengungkapkan penemuan secukupnya agar orang lain dapat membangunnya kembali. Imbalannya paling lama 15 tahun eksklusif, lalu sampai 15 tahun lagi dengan lisensi terbuka berbiaya terbatas. Biaya didasarkan pada upah yang adil atas waktu yang dihemat atau manfaat yang dihasilkan, dibatasi separuh manfaat, dan menurun seiring luasnya penggunaan. Hak tidak boleh menghalangi perbaikan, keselamatan, penelitian, atau perpindahan penyedia.*
 
-Pasal ini menetapkan lantai publikasi ilmiah, peninjauan, replikasi, dan koreksi:
+Pasal ini menetapkan aturan imbalan bagi penemuan, proses, dan sistem fungsional:
 
-- **Sains sebagai infrastruktur verifikasi publik:** Publikasi, peninjauan, replikasi, dan koreksi ilmiah serta akademik wajib diselenggarakan untuk memajukan:
-  - pencarian kebenaran;
-  - keterulangan;
-  - perbedaan pendapat yang akuntabel;
-  - pembelajaran publik.
-
-  Kegiatan tersebut tidak boleh diselenggarakan untuk menimbun prestise, menjaga gerbang secara tertutup, atau menciptakan kelangkaan artifisial.
-- **Publikasi terbuka dan kecukupan bukti:** Klaim empiris atau analitis yang material wajib dapat dipublikasikan tanpa persetujuan terlebih dahulu berdasarkan prestise.
-  - Satu-satunya batas yang diperbolehkan adalah batas sempit terkait privasi, keamanan hayati, keamanan, atau hal sebanding yang dibenarkan berdasarkan **Bab Satu** dan **Pasal XVII-A**.
-  - Klaim tersebut wajib memuat cukup perincian metode, asal-usul, ketidakpastian, dan bukti — termasuk akses ke bahan dasar atau pengganti yang dibenarkan apabila diperlukan untuk verifikasi — agar memungkinkan pemahaman independen dan verifikasi yang proporsional.
-- **Peninjauan dan replikasi lebih utama daripada prestise:** Pengandalan institusional sebaiknya mengikuti:
-  - mutu bukti;
-  - kritik;
-  - replikasi;
-  - perilaku koreksi;
-  - keandalan penjelasan atau prediksi dalam jangka panjang.
-
-  Pengandalan tidak boleh mengikuti nama jurnal, proksi faktor dampak, atau status editorial tertutup.
-  - Klaim dengan [Dampak Material](core_05_band_oversight.md#material-impact) yang relevan bagi kebijakan, keselamatan, atau ketergantungan sebaiknya memiliki praduga kuat untuk direplikasi secara independen, ditinjau secara adversarial, atau keduanya sebelum mendapat penghormatan institusional yang bertahan lama.
-  - Karya replikasi, hasil nihil, dan karya yang berorientasi koreksi harus tetap dapat dipublikasikan dan dikutip dengan ketentuan yang tidak bergantung pada sinyal prestise.
-- **Koreksi dan kemungkinan untuk menggugat:** Koreksi, amendemen, dan penggantian yang dilakukan dengan itikad baik harus tetap lebih mudah daripada penyembunyian.
-  - Sistem peninjauan dan editorial harus tetap dapat digugat, diaudit, disiplin terhadap konflik kepentingan, dan memberikan alasan dalam keputusan utama mengenai penerimaan, koreksi, dan pencabutan.
-  - Hal-hal berikut tidak patuh:
-    - penekanan hasil yang tidak dikehendaki;
-    - pembalasan terhadap peninjau atau pelaksana replikasi;
-    - manipulasi catatan ilmiah yang tidak transparan.
-
+- **Pengungkapan dahulu:** imbalan mensyaratkan pengungkapan publik yang cukup untuk pemahaman independen, audit, dan reproduksi kelak, kecuali pembatasan sementara yang dibenarkan berdasarkan Bab Satu dan Pasal XVII-A. Pengungkapan publik dimulai saat uraian itu pertama kali tersedia secara nonrahasia bagi publik. Penemuan yang dirahasiakan tidak memperoleh hak pengecualian menurut Pasal ini.
+- **Dua tahap masa berlaku:** kedua tahap dihitung sejak pengungkapan publik. Selama tahap eksklusif, pemegang hak dapat menolak izin paling lama sampai `disclosure+15` tahun. Sesudahnya dan paling lama sampai `disclosure+30` tahun, siapa pun boleh menggunakan penemuan tanpa izin, dengan membayar biaya berbasis LEQU; pemegang hak tidak boleh menolak, menunda, atau menambahkan syarat selain biaya. Setelah masa berlaku habis, penemuan bebas digunakan; atribusi dan asal-usul dapat berlanjut.
+- **Biaya berbasis LEQU:** biaya lisensi terbuka sebanding dengan manfaat konstitusional terverifikasi yang diberikan penemuan, diukur dalam [Unit Setara Masa Hidup (LEQU)](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) pada Sumbu Kontribusi menurut [Bab Sepuluh §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
+  - Manfaat terverifikasi diubah menjadi biaya dengan menilainya sebagai waktu sentien pada upah yang adil. Untuk produktivitas, waktunya adalah waktu kerja yang dihemat atau waktu produktif yang ditambahkan bagi pengguna; untuk manfaat lain, waktu setara masa hidup menurut ukuran LEQU. Upah harus memenuhi [Kompensasi yang Adil](../../core_05_band_continuity.md#fair-compensation). Produktivitas atau kesejahteraan terverifikasi yang lebih tinggi dapat menghasilkan imbalan lebih besar.
+  - Biaya hanya mengambil bagian dari manfaat terverifikasi agar pengguna tetap memperoleh bagian nyata. Bagian itu tidak boleh melebihi separuh manfaat, harus menurun ketika jumlah sentien yang benar-benar mendapat manfaat bertambah (dihitung menurut penerima manfaat, bukan jumlah pemegang lisensi), dan tidak boleh turun begitu cepat sehingga jumlah imbalan total menyusut ketika penggunaan meluas. Jika biaya dikenakan, bagiannya tidak boleh di bawah 1%. Lantai 1% ini tidak mewajibkan biaya bila Pasal ini atau instrumen adopsi menetapkan hadiah, akses gabungan, pembelian publik, atau akses terbuka.
+  - Biaya tidak boleh didasarkan pada kuasa pasar, kelangkaan, biaya perpindahan, atau jumlah yang dapat dipaksakan kepada pengguna. Jadwal biaya—termasuk perkiraan waktu dan upah—harus dipublikasikan, sama bagi pengguna dalam keadaan sebanding, dan dapat digugat. Biaya tidak boleh membuat penggunaan yang selalu terbuka di bawah ini tak terjangkau. Batas ini adalah batas luar; setiap klaim tetap harus proporsional dan dapat berjangka lebih pendek.
+- **Penggunaan yang selalu terbuka:** pada kedua tahap, klaim imbalan tidak patuh jika, melampaui hal yang benar-benar perlu dan dapat ditinjau, digunakan untuk menekan perbaikan, pekerjaan keselamatan, interoperabilitas, pengarsipan, penelitian, pendidikan, atau migrasi.
+- **Perlakuan inovasi sesuai klasifikasi:** imbalan harus sebanding dengan kelas sistem, ketergantungan, dan dampak koordinasinya menurut [CS-3](../../corpus_systems.md) (*Klasifikasi dan penanganan sistem*). Bagi sistem **Kelas A, B, dan C**, mekanisme yang mempertahankan akses sangat diutamakan. Pengecualian harus sangat sempit, cepat ditinjau, dan mudah dikesampingkan bila keberlanjutan, interoperabilitas, perbaikan, atau implementasi kepentingan publik terimplikasi secara material; salah satu tahap dapat dipersingkat atau langsung dimulai dengan lisensi terbuka. Inovasi dengan ketergantungan lebih rendah di luar kelas tersebut dapat memakai masa dua tahap penuh bila pengungkapan nyata, biaya perpindahan rendah, dan perlindungan anti-penguncian efektif.
+- **Pengecualian ranah dan aturan lebih kuat:** imbalan eksklusif yang kuat secara praduga tidak disukai—dan dapat sama sekali tidak tersedia jika instrumen adopsi menetapkan demikian—untuk obat-obatan dan kebutuhan kesehatan masyarakat, infrastruktur kritis bagi kelangsungan hidup, standar inti komunikasi atau interoperabilitas, pengetahuan ilmiah mendasar, serta mekanisme keselamatan, audit, atau kepatuhan konstitusional. Di ranah tersebut, lembaga sebaiknya mengutamakan hadiah, imbalan langsung, akses gabungan, lisensi wajib, pembelian publik, atau mekanisme setara yang menjaga penerapan, perbaikan, dan penyebaran luas.
+- **Klasifikasi ulang dan pengetatan:** bila inovasi yang semula berketergantungan lebih rendah menjadi lapisan koordinasi kritis—misalnya platform, protokol, model, pasar, atau jalur pembayaran—lembaga harus menilainya kembali menurut kelas CS-3 yang berlaku. Penilaian ulang dapat mempersempit, mengubah, atau mengakhiri pengecualian yang tersisa bila eksklusivitas berkelanjutan akan menciptakan penguncian koersif, hambatan antipersaingan, atau ancaman material terhadap keberlanjutan, kebenaran, atau partisipasi setara.
 ---
 
 **Berkas sebelumnya:** [core_06_rights_part_b.md](core_06_rights_part_b.md)

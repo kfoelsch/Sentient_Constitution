@@ -74,48 +74,6 @@ Los **términos independientes y semiindependientes** viven bajo [Rendición de 
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### Medición de la rendición de cuentas
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*En palabras sencillas: estas preguntas examinan si las recompensas, los mercados y la capacidad de exigir cuentas mantienen la rendición de cuentas como algo real en la práctica, y no solo sobre el papel.*
-
-*Este es el espacio del Capítulo Cinco para la familia de medición de la rendición de cuentas. El §2 del Preámbulo (Panorama de las mediciones) conserva en la tabla general la pregunta de categoría en lenguaje sencillo; aquí se encuentran la tabla de la familia, su uso constitucional y las referencias a las definiciones.*
-
-*La materialidad ([Materiality](core_05_band_oversight.md#materiality)) es integradora, no una categoría de medición aparte; determina cuánto se aplica esta familia según la [material stake](core_00_preamble.md#material-stake).*
-
-| Familia de medición | Pregunta sencilla | Uso constitucional principal |
-|---|---|---|
-| Alineación de incentivos e integridad de indicadores | ¿Las recompensas y las métricas reflejan resultados constitucionales reales? | Detecta incentivos perversos, captura y [Proxy Divergence](core_05_band_oversight.md#proxy-divergence); expresa en mediciones las [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions). |
-| Estructura de mercado y capacidad de impugnación | ¿Pueden seguir siendo reales la entrada, la salida, la negociación y las alternativas? | Aplica medidas contra la concentración y la dominación cuando las afirmaciones sobre capacidad dependen de mercados abiertos. |
-
-Estas medidas preguntan si las estructuras de recompensa, el poder de mercado y la posibilidad de exigir cuentas mantienen en la práctica la pata de **rendición de cuentas** del [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad).
-
-Los niveles de medición operativos se encuentran en las definiciones del Capítulo Cinco:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](core_05_band_accountability.md#contestability)
-- [Market Structure](core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**Archivo anterior:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**Archivo siguiente:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### Medir la rendición de cuentas

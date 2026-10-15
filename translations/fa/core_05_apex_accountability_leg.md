@@ -74,48 +74,6 @@
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### سنجش پاسخ‌گویی
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*به زبان ساده: این پرسش‌ها بررسی می‌کنند که آیا پاداش‌ها، بازارها و امکان مطالبه پاسخ‌گویی، پاسخ‌گویی را در عمل واقعی نگه می‌دارند یا فقط روی کاغذ.*
-
-*این بخش جایگاه خانواده سنجش پاسخ‌گویی در فصل پنجم است. §2 دیباچه (نمای کلی سنجه‌ها) پرسش ساده دسته را در جدول نمای کلی نگه می‌دارد؛ جدول خانواده، کاربرد قانون اساسی و ارجاع به تعریف‌ها در اینجا قرار دارند.*
-
-*مادیّت ([Materiality](core_05_band_oversight.md#materiality)) یکپارچه‌ساز است، نه یک دسته سنجش جداگانه؛ شدت کاربرد این خانواده را بر پایه [material stake](core_00_preamble.md#material-stake) تنظیم می‌کند.*
-
-| خانواده سنجش | پرسش ساده | کاربرد اصلی در قانون اساسی |
-|---|---|---|
-| هم‌راستایی مشوق‌ها و سلامت شاخص‌های جانشین | آیا پاداش‌ها و سنجه‌ها نتایج واقعی قانون اساسی را دنبال می‌کنند؟ | مشوق‌های وارونه، تسخیر و [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) را شناسایی می‌کند؛ صورت سنجشیِ [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) است. |
-| ساختار بازار و امکان رقابت | آیا ورود، خروج، چانه‌زنی و گزینه‌های جایگزین می‌توانند واقعی بمانند؟ | هنگامی که ادعاهای ظرفیت به بازارهای باز وابسته‌اند، قواعد مقابله با تمرکز و سلطه را اعمال می‌کند. |
-
-این سنجه‌ها بررسی می‌کنند که آیا ساختار پاداش، قدرت بازار و پاسخ‌خواهی، ضلع **پاسخ‌گویی** در [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) را در عمل واقعی نگه می‌دارند یا فقط روی کاغذ.
-
-سطوح عملیاتی سنجش در جایگاه‌های تعریفی فصل پنجم قرار دارند:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**فایل پیشین:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**فایل بعدی:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### اندازه‌گیری پاسخگویی

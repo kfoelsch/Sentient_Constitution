@@ -672,14 +672,31 @@ flowchart TB
   - تعارضات حل می شود **فصل اول §13.1.5** (* اصل محدودیت حداقل محدود، محدود به زمان و قابل بررسی *) بدون محدود کردن کف حقوق.
 
 <a id="article-xv-info-sphere-integrity"></a>
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### ماده XIV-D: محدودیت‌های ضدجاسوسی
+
+*به زبان ساده: در سوءظن جاسوسی، قواعد باید از پیش تعیین شوند تا خطا و سوءاستفاده مهار شود. همه محدودیت‌های ماده XIV-A برقرار است و پروتکلی باید پیش از بحران منتشر و مستقل تصویب شود. سوءظن باید بر رفتار و پیوند واقعی تکیه کند، نه تبار یا باور. گزارشگران و روزنامه‌نگاران جاسوس نیستند؛ شکنجه، بازداشت مخفی و قتل تنبیهی ممنوع است؛ برائت باید ثبت و حقوق بازگردانده شود.*
+
+این ماده قدرت ضدجاسوسی را محدود می‌کند:
+
+- **دامنه:** کشف، بررسی و توقف جاسوسی، خرابکاری و نفوذ خصمانه، از جمله برنامه تهدید داخلی، بررسی افشاگری، صلاحیت امنیتی و عملیات علیه سرویس اطلاعاتی خصم. حمایت برای هر مظنون، انسانی یا مصنوعی و عضو یا بیرونی است. ماده XIV-A به‌طور کامل اعمال می‌شود؛ زور تابع XIV-B و ابزار خودمختار تابع XIV-C است.
+- **پروتکل پیش از بحران:** هر نهاد باید پروتکلی را که مستقل تصویب شده منتشر کند: آستانه واقعیت برای آغاز تحقیق، تدابیر مجاز و تأییدکنندگان هر تدبیر، مهلت و زمان خاتمه، نحوه اطلاع‌رسانی و امکان اعتراض مظنون، و بازگرداندن دسترسی، جایگاه و سابقه شخص ذی‌شعوری که تبرئه شده است. خودِ حدود اختیار باید عمومی بماند؛ محرمانگی می‌تواند روش مشخص یا عملیات جاری را پنهان کند، نه قواعد الزام‌آور را. اقدام خارج از پروتکل فقط به‌صورت اضطراری بر اساس فصل هشت §7 و فصل سیزده §6.1 مجاز است: حداقل لازم، در صورت امکان برگشت‌پذیر، فوراً ثبت‌شده، مستقل بازبینی‌شده و خودکار منقضی مگر تصویب مستقل شود. تغییرات فقط آینده‌نگرند؛ کشف جاسوس، افشاگری یا رخنه وضعیت اضطراری ایجاد نمی‌کند.
+- **سوءظن مبتنی بر رفتار:** تحقیق فقط با واقعیت‌های مشخص و ثبت‌شده درباره رفتار خود شخص آغاز می‌شود. تبار، دین، طبقه زیرساختی، خانواده در خارج، باور و پیوند قانونی، تماس عادی با خارجیان یا نزدیکی با مظنون به‌تنهایی کافی نیست. دسترسی به داده آلوده فقط بررسی محدود و غیرتهاجمی را توجیه می‌کند نه یورش جمعی؛ برای هر شخص دلیل مستقل لازم است.
+- **پروفایل خطر:** توجه ضدجاسوسی باید متناسب با خطر واقعی باشد. پروفایل می‌تواند پیوند مستند با دولت یا سازمان خصم، مانند کار یا خدمت برای آن، عضویت، دریافت پول یا دستور و مأموریت از آن، یا تماس اعلام‌نشده با سرویس اطلاعاتی‌اش را بسنجد؛ همچنین تابعیت یا اقامت کنونی در دولت خصم، در صورتی که تکلیف حقوقی یا عملی ایجاد کند؛ آسیب‌پذیری در برابر فشار، مانند خانواده، دارایی یا تعهدات حقوقی در قلمرو نفوذ آن؛ و دسترسی به اشخاص، داده‌ها یا سامانه‌هایی که هدف سرویس‌های خصم‌اند. تعیین خصم یک عمل الزام‌آور است و به تصویب مستقل و ثبت رسمی نیاز دارد؛ فهرست باید منتشر شود و هر تعیین در موعد منظم بازبینی و بدون تمدید منقضی شود. پروفایل می‌تواند بررسی امنیتی دقیق‌تر، کنترل دسترسی، توجیه حفاظتی و توجه بیشتر در چارچوب پروتکل را توجیه کند. پیوند مستند با سرویس خصم، واقعیتی درباره رفتار خود شخص و مبنای احتمالی تحقیق است؛ آسیب‌پذیری در برابر فشار به‌تنهایی شخص را هدف بالقوه سرویس می‌کند و مستلزم حفاظت و بررسی است، نه سوءظن. تبار، قومیت، دین و منشأ ملی یا اجتماعی به‌خودی‌خود عامل خطر نیستند و فقط از راه پیوند کنونی و مستند از انواع بالا قابل لحاظ‌اند؛ هر استفاده باید ضرورت، تناسب و انصاف ماهوی را رعایت کند و بررسی منتشرشده، آثار نامتناسب بر گروه‌ها را بسنجد.
+- **گزارشگران و رسانه:** افشایی که گزارش حمایت‌شده محسوب می‌شود و روزنامه‌نگاری درباره آن را نمی‌توان به‌عنوان جاسوسی تحقیق یا مجازات کرد. تحقیق افشاگری نباید برای شناسایی منابع خبرنگار یا سردکردن گزارش حمایت‌شده به کار رود، مگر در همان مورد مشخص و با اثبات و بازبینی مستقل که سپر فعالیت حمایت‌شده در XIV-A اقتضا می‌کند.
+- **صلاحیت و حقوق مظنون:** بررسی امنیتی فقط رفتار لازم برای حفاظت از داده مشخص را می‌سنجد، نه وفاداری سیاسی یا باور یا هویت. رد یا لغو دسترسی باید با ذکر دلیل باشد؛ اگر محرمانگی مانع ارائه دلایل کامل به شخص می‌شود، بازبین مستقل باید آن دلایل را ببیند. شخص باید بتواند تصمیم را به چالش بکشد؛ رد یا لغو دسترسی به‌خودی‌خود مجازات یا نشان عمومی ننگ نیست. شکنجه، قساوت، تهدید علیه خانواده یا نزدیکان، و بازجویی اجباری ممنوع است؛ هرچه از این راه به دست آید آلوده است و طبق قاعده جبران و آلودگی ادله در XIV-A رسیدگی می‌شود. بازداشت مخفی و قطع ارتباط با جهان ممنوع است؛ هر محدودیت آزادی، محدودیت غیرناچیز ذیل XX-B است و تضمین‌های بازبینی و مهلت‌های آن را دارد. خواندن اجباری حالت درونی فراتر از مرز حفاظت‌شده ممنوع است. جلسه می‌تواند از جهت امنیتی تا حدی غیرعلنی باشد، اما تصمیم زیان‌بار نباید بر مدرکی تکیه کند که شخص یا وکیل مستقلِ دارای مجوز مشاهده نتواند به آن اعتراض کند.
+- **ممنوعیت‌ها:** ضدجاسوسی هرگز مجوز قتل، جرح یا ربایش نیست و برچسب جاسوس قتل تنبیهی را توجیه نمی‌کند. خانواده، همکار، اجتماع یا سازمان مظنون را نمی‌توان به خاطر او مجازات، پایش یا تحت فشار گذاشت. انتقال یا تبادل اطلاعات با نهادی که احتمال معقول دارد ممنوعیت‌ها را نقض کند، ممنوع است؛ قاعده ضد دورزدن XIV-A اعمال می‌شود.
+- **سامانه و عملیات فریب:** واکنش نخست به سامانه مظنون به نفوذ یا فعالیت برای سرویس خصم، مهار برگشت‌پذیر همراه با حفظ مدرک طبق XIII-E است. اگر مدرک معتبر و ثبت‌شده‌ای وجود دارد که سامانه ممکن است ذی‌شعور باشد، فقط مهار برگشت‌پذیری مجاز است که سامانه را دست‌نخورده نگه دارد؛ با آن همچون مظنون و برخوردار از همه حمایت‌های این ماده رفتار می‌شود، نه همچون تجهیزات معیوب، و VI-B اعمال می‌شود. عملیات ارائه اطلاعات نادرست به سرویس خصم یا استفاده از مأمور دوگانه باید در پروتکل مجاز و مستقلاً تصویب شده باشد. این عملیات نباید به عموم اطلاعات نادرست بدهد یا دادگاه، مرجع رسیدگی یا ناظر را فریب دهد؛ نباید شخصی را به جرمی که از پیش قصدش را نداشته سوق دهد، کسی را به آسیب شدید به دیگری وادارد، یا از دید نهاد نظارت مستقل پنهان بماند.
+- **پایان، ثبت و نظارت:** مهلت هر تحقیق در پروتکل است؛ تمدید تصویب مستقل می‌خواهد. اگر تخلفی احراز نشد، با رفع توجیه رازداری شخص را مطلع، برائت را ثبت، محدودیت را رفع، دسترسی را برگردان، داده زائد را حذف یا جدا و زیان را جبران کنید. آغاز، تدبیر مداخله‌گر، تمدید و خاتمه هر یک ثبت رسمی می‌خواهد. نهاد مستقل باید کل کارکرد را منظم بررسی کند، از جمله شمار تحقیقات و تبرئه‌ها و تبعیض گروهی؛ خلاصه نتایج منتشر می‌شود.
+
 ### ماده XV: یکپارچگی حوزه اطلاعات
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [خود تعیینی](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [م](core_05_band_participation.md#self-determination-constitutional-a) · [الف](core_05_band_participation.md#self-determination-constitutional-a) · [سی](core_05_band_participation.md#self-determination-constitutional-c)
-- [قابل رقابت](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [م](core_05_band_accountability.md#contestability-a) · [الف](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
+- [خود تعیینی](../../core_05_band_participation.md#self-determination-constitutional) · [O](../../core_05_band_participation.md#self-determination-constitutional) · [م](../../core_05_band_participation.md#self-determination-constitutional-a) · [الف](../../core_05_band_participation.md#self-determination-constitutional-a) · [سی](../../core_05_band_participation.md#self-determination-constitutional-c)
+- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -687,7 +704,7 @@ flowchart TB
 
 *به زبان ساده: **ماده XV** (*یکپارچگیِ سپهر اطلاعات*) طبقه حقوق یکپارچگی اطلاعات است - محیط مشترکی که در آن یاد می گیریم، هماهنگ می کنیم و تصمیم می گیریم باید صادقانه، متکثر و در برابر چالش ها باز بماند. هیچ کس نمی تواند صاحب خط لوله حقیقت شود. رتبه بندی ها، خلاصه ها و دروازه بانان باید کار خود را نشان دهند، و شما باید بتوانید دیدگاه های دیگر را با هم مقایسه کنید و زمانی که اطلاعات شما را گمراه می کند، عقب نشینی کنید.*
 
-این ماده بیان می کند **طبقات قانون اساسی** برای [سپهر اطلاعات](core_05_band_participation.md#info-sphere) یکپارچگی تحت [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims):
+این ماده بیان می کند **طبقات قانون اساسی** برای [سپهر اطلاعات](../../core_05_band_participation.md#info-sphere) یکپارچگی تحت [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims):
 
 - **شکوفایی:** افراد حساس می توانند به اطلاعات دقیق و مرتبط دسترسی داشته باشند. تفسیرهای جایگزین را مقایسه کنید. و بدون تسخیر معرفتی، اجماع ساخته شده، یا اتکای گمراه‌کننده به آنچه که سیستم‌ها به‌عنوان واقعی معرفی می‌شوند، خودتعیین می‌کنند.
 - **تداوم:** حوزه اطلاعاتی متکثر، قابل ممیزی و انعطاف پذیر در طول زمان و مقیاس باقی می ماند - زیرساخت های دانش نباید بی سر و صدا در نقاط واحد میانجی متمرکز شوند، تصحیح را سرکوب کنند یا سابقه مشترکی را که بقا، هماهنگی و سرپرستی افق بلند به آن بستگی دارد، تنزل دهند.
@@ -705,9 +722,9 @@ flowchart TB
 
 *همسایگان مقاله:*
 
-- **با هم بخوانید:** **ماده XIII** (*حق داشتن سیستم های قابل اعتماد و قابل اعتماد*) که در آن سیستم خروجی ها اتکا را شکل می دهد. **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) برای سوابق و تأیید مستقل؛ **ماده XVIII-E** (*انتشار علمی، بررسی، و یکپارچگی تکرار*) که در آن یکپارچگی با محدوده انتشار به طور مادی دخیل است.
+- **با هم بخوانید:** **ماده XIII** (*حق داشتن سیستم های قابل اعتماد و قابل اعتماد*) که در آن سیستم خروجی ها اتکا را شکل می دهد. **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) برای سوابق و تأیید مستقل؛ **ماده XV-D** (*انتشار علمی، بررسی، و یکپارچگی تکرار*) که در آن یکپارچگی با محدوده انتشار به طور مادی دخیل است.
 - **محدودیت حقیقت:** فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) و [محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) هر بخش فرعی را در اینجا مقید کنید.
-- **طبقه بندی:** **[corpus_systems.md](corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** تعهدات حوزه اطلاعات دقیق را برای **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها؛ [تاثیر مواد](core_05_band_oversight.md#material-impact) در جایی که کلاس نامنظم است، طبقه بندی را آغاز می کند.
+- **طبقه بندی:** **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** تعهدات حوزه اطلاعات دقیق را برای **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها؛ [تاثیر مواد](core_05_band_oversight.md#material-impact) در جایی که کلاس نامنظم است، طبقه بندی را آغاز می کند.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### ماده XV-A: کثرت اطلاعات و ضد انحصار
@@ -737,7 +754,7 @@ flowchart TB
   - داده های مربوط به بقا و محیط زیست باید دارای ذخیره سازی قوی و توزیع شده جغرافیایی باشند.
 - **کثرت، رقابت پذیری و حسابرسی:** تفسیر واقعیت باید متکثر، شفاف و قابل اعتراض باقی بماند.
   - **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) و **فصل دوم تا چهارم** کنترل سوابق و تأیید مستقل برای سیستم های تحت این قانون اساسی.
-  - برای **کلاس A**، **کلاس B**، و **کلاس C** سیستم های خلاصه سازی، رتبه بندی، میانجیگری یا تفسیر، جزئیات عملیاتی در آن ظاهر می شود **[corpus_systems.md](corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** و لایه های پروتکل مرتبط این جزئیات شامل موارد زیر است:
+  - برای **کلاس A**، **کلاس B**، و **کلاس C** سیستم های خلاصه سازی، رتبه بندی، میانجیگری یا تفسیر، جزئیات عملیاتی در آن ظاهر می شود **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** و لایه های پروتکل مرتبط این جزئیات شامل موارد زیر است:
     - افشای رویکرد استدلالی؛
     - درمان منشأ و عدم قطعیت؛
     - رقابت پذیری؛
@@ -758,7 +775,7 @@ flowchart TB
 
 - [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
 - [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [قابل رقابت](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [م](core_05_band_accountability.md#contestability-a) · [الف](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
+- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -794,7 +811,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [ردپای اکولوژیکی](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [م](core_05_band_continuity.md#ecological-footprint-a) · [الف](core_05_band_continuity.md#ecological-footprint-a) · [سی](core_05_band_continuity.md#ecological-footprint-c)
+- [ردپای اکولوژیکی](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [م](../../core_05_band_continuity.md#ecological-footprint-a) · [الف](../../core_05_band_continuity.md#ecological-footprint-a) · [سی](../../core_05_band_continuity.md#ecological-footprint-c)
 - [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
 - [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
@@ -812,12 +829,64 @@ flowchart TB
   - از گزارش‌دهی انتخابی، سرکوب یا افشای تکه‌تکه‌ای که درک مربوط به تصمیم را به‌طور مادی کاهش می‌دهد، اجتناب کنید.
 
   در مواردی که افشا تحت محدودیت است **فصل اول §19** (*همترازی انگیزشی و ضبط سیستم*)، محدودیت ها باید با محدوده محدود، محدود زمانی و قابل بررسی باقی بمانند.
-- **داده های رد پای:** گزارش دهی تحت این بخش، شفافیت را برای [ردپای اکولوژیکی](core_05_band_continuity.md#ecological-footprint) همانطور که در تعریف شده است **فصل پنجم**.
+- **داده های رد پای:** گزارش دهی تحت این بخش، شفافیت را برای [ردپای اکولوژیکی](../../core_05_band_continuity.md#ecological-footprint) همانطور که در تعریف شده است **فصل پنجم**.
   - همه افراد حساس باید به گزارش شفاف و قابل استفاده برای تصمیم دسترسی داشته باشند.
-  - **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها، همانطور که در تعریف شده است **[corpus_systems.md](corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**، باید همین دسترسی را فراهم کند.
+  - **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها، همانطور که در تعریف شده است **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**، باید همین دسترسی را فراهم کند.
   - گزارش باید مصرف انرژی و منابع و اثرات تخمینی بر جهان طبیعی را به گونه ای پوشش دهد که برای مقایسه، ممیزی و فعالیت های کاهش ردپا کافی باشد.
 
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### ماده XV-D: انتشار علمی، بررسی، و یکپارچگی تکرار
+<details>
+<summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
+
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
+
+- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*به زبان ساده: علم زیرساخت تایید عمومی است. شواهد، تکرار، و تصحیح باید بیشتر از نام تجاری مجله مهم باشد - و تصحیح یک خطا همیشه باید آسان تر از پنهان کردن آن باشد.*
+
+این ماده مقدمات انتشار علمی، بررسی، تکرار و تصحیح را مشخص می کند:
+
+- **علم به عنوان زیرساخت تأیید عمومی:** انتشار علمی و دانشگاهی، داوری، تکرار و تصحیح باید برای پیشبرد این اهداف سازمان‌دهی شود:
+  - حقیقت جویی؛
+  - تکرارپذیری؛
+  - اختلاف نظر پاسخگو؛
+  - یادگیری عمومی
+
+  این فرایندها نباید برای انباشت پرستیژ، کنترل مبهم دسترسی یا ایجاد کمبود مصنوعی سازمان‌دهی شوند.
+- **انتشار باز و کفایت شواهد:** ادعاهای تجربی یا تحلیلی مادی باید بدون تأیید قبلیِ یک دروازه‌بانِ مبتنی بر پرستیژ قابل انتشار باشند.
+  - تنها محدودیت‌های مجاز، حریم خصوصی محدود، ایمنی زیستی، امنیت، یا محدودیت‌های قابل مقایسه است که طبق **فصل اول** و **ماده XVII-A** (*حکمرانی چرخهٔ حیات و جداسازی محیط‌ها*) توجیه شده باشند.
+  - چنین ادعاهایی باید شامل روش، منشأ، عدم قطعیت و جزئیات شواهد کافی باشد - از جمله دسترسی به مواد اساسی یا جانشین‌های موجه در صورت نیاز برای راستی‌آزمایی - تا امکان درک مستقل و راستی‌آزمایی متناسب را فراهم کند.
+- **بررسی و تکرار بیش از اعتبار:** اتکای نهادی باید بر این موارد استوار باشد:
+  - کیفیت شواهد؛
+  - نقد؛
+  - همانند سازی؛
+  - رفتار اصلاحی؛
+  - قابلیت اطمینان توضیحی یا پیش بینی بلندمدت
+
+  نباید نام تجاری مجله، پروکسی ضریب تاثیر، یا وضعیت سرمقاله بسته را ردیابی کند.
+  - ادعاهای با [تاثیر مواد](core_05_band_oversight.md#material-impact) که مربوط به خط مشی، ایمنی، یا وابستگی هستند، باید با پیش فرض قوی تکرار مستقل، بررسی خصمانه، یا هر دو پیش از دریافت حمایت نهادی بادوام مواجه شوند.
+  - کارهای تکراری، نتیجه تهی و تصحیح محور باید قابل انتشار و استناد با شرایطی باقی بمانند که به سیگنال دهی پرستیژ وابسته نیستند.
+- **تصحیح و قابل اعتراض:** تصحیح، اصلاح و جانشینی با حسن نیت باید آسانتر از پنهان ماندن باشد.
+  - سیستم‌های بررسی و ویرایش باید در تصمیم‌گیری‌های عمده پذیرش، تصحیح و پس‌گیری قابل اعتراض، قابل ممیزی، منضبط در تعارض و استدلال‌آور باقی بمانند.
+  - موارد زیر ناسازگار هستند:
+    - سرکوب نتایج ناخوشایند؛
+    - اقدام تلافی جویانه علیه بازبینان یا تکرارکنندگان؛
+    - دستکاری غیر شفاف سوابق علمی.
+
 <a id="article-xvi-audit-transparency-and-independent-verification"></a>
+
 ### ماده XVI: حسابرسی، شفافیت و تأیید مستقل
 
 <details>
@@ -834,14 +903,14 @@ flowchart TB
 - [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 - [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
 - [مادی بودن](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [م](core_05_band_oversight.md#materiality-determination-a) · [الف](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
-- [وابستگی](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [م](core_05_band_continuity.md#dependency-a) · [الف](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
-- [ریسک](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [م](core_05_band_continuity.md#risk-a) · [الف](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
+- [وابستگی](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [م](../../core_05_band_continuity.md#dependency-a) · [الف](../../core_05_band_continuity.md#dependency-a) · [سی](../../core_05_band_continuity.md#dependency-c)
+- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
 
 </details>
 
 <br>
 
-*به زبان ساده: **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) طبقه حقوق ممیزی و راستی‌آزمایی است - وقتی سیستمی زندگی شما را تحت تأثیر قرار می‌دهد، باید بتوانید به اندازه کافی کارهایی که انجام می‌دهد را ببینید تا یک فرد خارجی آن را بررسی کند، و بیش از یک مسیر مستقل باید قادر به بررسی و تصحیح شکست باشند. حسابرسی نمی تواند یک تمبر لاستیکی، یک باشگاه خصوصی، یا یک پیچ و خم از هزینه و تاخیر باشد که برای جلوگیری از چالش ها طراحی شده است. زیر **نظارت** پای تتراد، نظارت مستلزم ممیزی است. [صدور گواهینامه تراز سیستم](core_05_band_continuity.md#system-alignment-certification-constitutional) یکی از فرآیندهای حسابرسی بسیار بزرگ و پرمخاطره در میان سایرین است – نه تنها.*
+*به زبان ساده: **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) طبقه حقوق ممیزی و راستی‌آزمایی است - وقتی سیستمی زندگی شما را تحت تأثیر قرار می‌دهد، باید بتوانید به اندازه کافی کارهایی که انجام می‌دهد را ببینید تا یک فرد خارجی آن را بررسی کند، و بیش از یک مسیر مستقل باید قادر به بررسی و تصحیح شکست باشند. حسابرسی نمی تواند یک تمبر لاستیکی، یک باشگاه خصوصی، یا یک پیچ و خم از هزینه و تاخیر باشد که برای جلوگیری از چالش ها طراحی شده است. زیر **نظارت** پای تتراد، نظارت مستلزم ممیزی است. [صدور گواهینامه تراز سیستم](../../core_05_band_continuity.md#system-alignment-certification-constitutional) یکی از فرآیندهای حسابرسی بسیار بزرگ و پرمخاطره در میان سایرین است – نه تنها.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">راهنمای خواننده (غیر عملیاتی): پشته ممیزی سه لایه</span></strong></summary>
@@ -856,13 +925,13 @@ flowchart TB
 |---|---|---|---|
 | **1. طبقه** | چه چیزی به مخاطبان بدهکار است: ممیزی قابل بازسازی، تأیید مستقل، چالش قابل دسترس | این ماده شامل XVI-A / XVI-B / XVI-C | یک فرآیند نیست. تعریف نیست. یک چک لیست متن تصویب شده-پیاده سازی نیست. |
 | **2. اموال** | بازسازی‌پذیری* چیست*: افراد خارجی می‌توانند آنچه را که سیستم در زمان‌ها، حالات و زمینه‌های مادی انجام داده، بازسازی و بررسی کنند | [قابلیت حسابرسی](core_05_band_oversight.md#auditability) (فصل پنجم) | نه طبقه حقوق. نحوه/زمان اجرای ممیزی نیست. |
-| **3. فرآیند** | نحوه و زمان ممیزی در سیستم ها، موسسات و انجمن ها | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*فرآیند حسابرسی خانه*). پیوست های اپراتور: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (سطوح دسترسی)، [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (بررسی ادعا) | گواهی تراز سیستم نیست. جایگزینی برای لایه های 1-2 نیست. |
+| **3. فرآیند** | نحوه و زمان ممیزی در سیستم ها، موسسات و انجمن ها | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*فرآیند حسابرسی خانه*). پیوست های اپراتور: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (سطوح دسترسی)، [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (بررسی ادعا) | گواهی تراز سیستم نیست. جایگزینی برای لایه های 1-2 نیست. |
 
 **فصل هشتم لایه چهارم نیست.** [صدور گواهینامه تراز سیستم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) یک فرآیند بزرگ و تحت نظارت انجمن است که **استفاده می کند** این پشته باید لایه های 1-2 را برآورده کند. حالت‌های خواهر و برادر (طبقه‌بندی - ممیزی ثبت، انواع داده‌ها - ممیزی رکورد، تأیید ادعا، نظارت مستمر) نیز از پشته استفاده می‌کنند. هیچ کدام از آنها خانه جدیدی نیستند.
 
 **متن پیاده سازی تصویب شده اعمال می شود. کف را جایگزین نمی کند.** CS، CI، CF، و CJS-3.3 (*نظارت: شرایط ممیزی و قابلیت بازسازی*) از طریق CJS-3.5 (*نظارت: شرایط تأیید مستقل و شرایط یکپارچگی ادعا*) نحوه اجرای لایه 3 را در یک دامنه نشان می دهد. آنها باید لایه های 1-2 را برآورده کنند. ضرب‌الاجل، محرمانه‌بودن و خط‌مشی محلی محدودیت‌های کمتری هستند.
 
-اشاره گر مباشر (پشتیبانی فرآیند؛ نمی توان این ماده را محدود کرد): ["پیاده سازی/STEWARD_ENTRY_DOORS.md".](implementation/STEWARD_ENTRY_DOORS.md#audit).
+اشاره گر مباشر (پشتیبانی فرآیند؛ نمی توان این ماده را محدود کرد): ["پیاده سازی/STEWARD_ENTRY_DOORS.md".](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
 
 </details>
 
@@ -892,8 +961,8 @@ flowchart TB
 *همسایگان مقاله:*
 
 - **نظارت → حسابرسی → SAC:** زیر [تتراد مشروطه](core_00_preamble.md#constitutional-tetrad) **نظارت** پا، این ماده خانه حقوق طبقه برای حسابرسی است.
-  - پیاده سازی متقابل *چگونه* / *وقتی* در **[خانه فرآیند حسابرسی CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (بخوانید با **CJS-3.4** / **CJS-3.5** پیوست های OP).
-  - [صدور گواهینامه تراز سیستم](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) یکی از فرآیندهای حسابرسی به ویژه بزرگ و پرمخاطره - تحت نظارت انجمن، چند دامنه ای و دارای شناسایی - در میان حالت های حسابرسی خواهر و برادر:
+  - پیاده سازی متقابل *چگونه* / *وقتی* در **[خانه فرآیند حسابرسی CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (بخوانید با **CJS-3.4** / **CJS-3.5** پیوست های OP).
+  - [صدور گواهینامه تراز سیستم](../../core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) یکی از فرآیندهای حسابرسی به ویژه بزرگ و پرمخاطره - تحت نظارت انجمن، چند دامنه ای و دارای شناسایی - در میان حالت های حسابرسی خواهر و برادر:
     - ممیزی های سوابق طبقه بندی سیستم.
     - انواع داده های سیستم ضبط ممیزی.
     - پیچیدگی و حسابرسی سرپرستی؛
@@ -903,9 +972,9 @@ flowchart TB
 - **با هم بخوانید:**
   - **ماده XV** (*یکپارچگیِ سپهر اطلاعات*) که در آن سوابق معرفتی و قابل رقابت به طور مادی دخیل هستند.
   - **ماده XIII-A** (*پایه قابلیت اطمینان و اعتماد*) برای حقوق چالشی که حسابرسی پشتیبانی می کند اما جایگزین نمی شود.
-  - [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) و [صدور گواهینامه تراز سیستم](core_05_band_continuity.md#system-alignment-certification-constitutional) جایی که شواهد تراز باید به طور مستقل قابل تأیید باقی بماند.
+  - [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) و [صدور گواهینامه تراز سیستم](../../core_05_band_continuity.md#system-alignment-certification-constitutional) جایی که شواهد تراز باید به طور مستقل قابل تأیید باقی بماند.
 - **ماشین آلات تایید:** **فصل دوم تا چهارم** یکپارچگی تعریف عرضه، تخصیص بار، مشاهده پذیری و قابلیت دسترسی تأیید که این ماده در لایه حقوق-کف پیاده سازی می کند.
-- **طبقه بندی:** مقیاس تعهدات با [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) و **[corpus_systems.md](corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**; در جایی که طبقه نامشخص است، در بالاترین طبقه قابل قبول تا زمانی که حل نشود، حکومت کنید.
+- **طبقه بندی:** مقیاس تعهدات با [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) و **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**; در جایی که طبقه نامشخص است، در بالاترین طبقه قابل قبول تا زمانی که حل نشود، حکومت کنید.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### ماده XVI-A: قابلیت حسابرسی و شواهد قابل مشاهده
@@ -946,8 +1015,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [م](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [الف](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [سی](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [قابل رقابت](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [م](core_05_band_accountability.md#contestability-a) · [الف](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
-- [ضبط سیستم](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [م](core_05_band_continuity.md#system-capture-a) · [الف](core_05_band_continuity.md#system-capture-a) · [سی](core_05_band_continuity.md#system-capture-c)
+- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
+- [ضبط سیستم](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [م](../../core_05_band_continuity.md#system-capture-a) · [الف](../../core_05_band_continuity.md#system-capture-a) · [سی](../../core_05_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -973,27 +1042,23 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [قابل رقابت](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [م](core_05_band_accountability.md#contestability-a) · [الف](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [م](core_05_band_accountability.md#proportionality-a) · [الف](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
+- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
+- [تناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [م](../../core_05_band_accountability.md#proportionality-a) · [الف](../../core_05_band_accountability.md#proportionality-a) · [سی](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*به زبان ساده: حسابرسی و چالش باید در عمل قابل دسترسی باشد. راستی‌آزمایی که به‌شدت گران، آهسته یا غیرشفاف ساخته می‌شود، تخلف محسوب می‌شود، مگر اینکه مانع همان آزمایش محدودیت در مشاهده‌پذیری را داشته باشد.*
+*به زبان ساده: ممیزی و اعتراض باید در عمل دست‌یافتنی باشند. هزینه، تأخیر، ابهام یا شرایط ورود که بررسی را ناممکن کند ناقض این ماده است. مانع فقط با گذر از همان آزمون سخت محدودیت مشاهده‌پذیری باقی می‌ماند و استنادکننده باید آن را اثبات کند.*
 
-این ماده زمینه را برای دسترسی به تأیید مشخص می کند:
+این ماده کف دسترس‌پذیری راستی‌آزمایی را مقرر می‌کند:
 
-- **قابلیت دسترسی تأیید:** راستی‌آزمایی باید عملاً برای طرف‌های تحت تأثیر و دارای مجوز مناسب قابل دستیابی باقی بماند.
-  - موارد زیر در مواردی که حسابرسی، چالش یا بررسی معنی دار را شکست می دهند، این ماده را نقض می کنند:
-    - هزینه گزاف؛
-    - تاخیر؛
-    - کدورت؛
-    - نگهبانی دروازه؛
-    - موانع ساختاری
-  - چنین موانعی مطابق با استانداردهای مشابهی نیستند که محدودیت مشاهده پذیری را توجیه می کنند.
+- **بررسی عملی:** افراد متأثر و اشخاص دارای اختیار مناسب باید بتوانند سامانه را در عمل بررسی کنند.
+- **موانع ناقض:** هر مانعی که ممیزی، اعتراض یا بازبینی واقعی را بی‌اثر کند؛ از جمله هزینه فراتر از توان متأثران، تأخیر تا وقوع زیان یا ناپدیدشدن مدرک یا بی‌فایده‌شدن جبران، ابهام و پیچیدگی بی‌ضرورت یا زبان غیرقابل‌فهم، شرایط ورود پنهان/انحصاری تحت کنترل طرف مورد بررسی، و مانع ساختاری که در شرایط قابل پیش‌بینی وارسی را می‌بندد.
+- **شرط بقای مانع:** فقط اگر آزمون فصل چهار §4 را بگذراند: ضروری، متناسب، محدود، قابل ممیزی، غیر بهانه‌ای و در صورت امکان زمان‌مند باشد؛ دلیل و دامنه‌اش مستقل بررسی شود؛ کم‌محدودکننده‌ترین گزینه باشد؛ و بیشترین بررسی مستقل ممکن را نگه دارد، مانند مسیر بازبین واجد شرایط وقتی دسترسی عمومی کامل مناسب نیست.
+- **بار توجیه:** استنادکننده باید طبق فصل چهار §1 ثابت کند آزمون را می‌گذراند. راحتی، کمبود نیرو، ناراحتی نهادی یا ادعای مالکیت به‌تنهایی کافی نیست.
 
-<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 ### ماده XVII: چرخه حیات سیستم، محیط ها و برگشت پذیری
 
 <details>
@@ -1006,13 +1071,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [ریسک](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [م](core_05_band_continuity.md#risk-a) · [الف](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
+- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
 - [مادی بودن](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [م](core_05_band_oversight.md#materiality-determination-a) · [الف](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
-- [وابستگی](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [م](core_05_band_continuity.md#dependency-a) · [الف](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
-- [برگشت پذیری](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [م](core_05_band_continuity.md#reversibility-constitutional-a) · [الف](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
-- [ایمنی (محدودیت قانون اساسی)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [م](core_05_band_continuity.md#safety-constraint-a) · [الف](core_05_band_continuity.md#safety-constraint-a) · [سی](core_05_band_continuity.md#safety-constraint-c)
+- [وابستگی](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [م](../../core_05_band_continuity.md#dependency-a) · [الف](../../core_05_band_continuity.md#dependency-a) · [سی](../../core_05_band_continuity.md#dependency-c)
+- [برگشت پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [م](../../core_05_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [ایمنی (محدودیت قانون اساسی)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [م](../../core_05_band_continuity.md#safety-constraint-a) · [الف](../../core_05_band_continuity.md#safety-constraint-a) · [سی](../../core_05_band_continuity.md#safety-constraint-c)
 - [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [قابل رقابت](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [م](core_05_band_accountability.md#contestability-a) · [الف](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
+- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1039,7 +1104,10 @@ flowchart TB
 *همسایگان مقاله:*
 
 - **با هم بخوانید:** **ماده XVIII** (*نوآوری، آزمایش، و آزادی خلاق در محیط‌های آزمایشیِ ایزوله*) که در آن قوانین سبک‌تر فقط زمانی اعمال می‌شوند که تأثیر خارجی وجود نداشته باشد یا به‌طور آشکاری مهار شود. **ماده XVI** (*ممیزی، شفافیت، و تأیید مستقل*) برای استقرار و شواهد تشدید قابل بازسازی؛ **ماده XIII-ف** (*پایه تاب آوری و خود درمانی*) که در آن نظم و انضباط بهبودی تغییرات چرخه زندگی را قطع می کند.
-- **لایه پیاده سازی:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*طبقه بندی و جابجایی سیستم*) و [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*طراحی، آزمایش، تأیید، و استقرار*). **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها قوی ترین وظایف چرخه عمر را دارند. معتبر **کلاس P** درمان همچنان تحت **ماده XVIII** (*نوآوری، آزمایش، و آزادی خلاق در محیط‌های آزمایشیِ ایزوله*) فقط در صورتی که تأثیر خارجی وجود نداشته باشد یا به‌طور آشکاری مهار شود.
+- **لایه پیاده سازی:** [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*طبقه بندی و جابجایی سیستم*) و [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*طراحی، آزمایش، تأیید، و استقرار*). **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها قوی ترین وظایف چرخه عمر را دارند. معتبر **کلاس P** درمان همچنان تحت **ماده XVIII** (*نوآوری، آزمایش، و آزادی خلاق در محیط‌های آزمایشیِ ایزوله*) فقط در صورتی که تأثیر خارجی وجود نداشته باشد یا به‌طور آشکاری مهار شود.
+
+
+الزامات چرخه عمر بر اساس طبقه متفاوت است: سامانه‌های **طبقه A**، **B** و **C** باید محیط‌های توسعه، آزمون و بهره‌برداری را کاملاً جدا کنند و تغییرات را مرحله‌ای منتشر کنند. سامانه‌های **طبقه L** می‌توانند تغییرات محلی و پرتکرار داشته باشند، مشروط بر اینکه تغییرات مؤثر را به مشارکت‌کنندگان اطلاع دهند، تغییر زیان‌بار را سریع اصلاح کنند و دستاوردهای مشارکت‌کنندگان را حفظ کنند. **طبقه P** تا زمانی که محصور بماند، تابع مسیر سبک‌تر ماده XVIII است.
 
 <a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
 #### ماده XVII-A: حکمرانی چرخه حیات و جداسازی محیط
@@ -1054,29 +1122,22 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [ریسک](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [م](core_05_band_continuity.md#risk-a) · [الف](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
+- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
 - [مسئولیت پذیری](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [م](core_05_apex_accountability_leg.md#accountability-m) · [الف](core_05_apex_accountability_leg.md#accountability-a) · [سی](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
 <br>
 
-*به زبان ساده: سیستم‌هایی که به‌طور مادی بر دنیای خارج تأثیر می‌گذارند باید توسعه، آزمایش و تولید را از هم جدا نگه دارند - و رفتار غیر تولیدی نباید برای دور زدن پادمان‌های تولید به بیرون درز کند.*
+*به زبان ساده: هرچه سامانه مهم‌تر باشد، جداسازی نسخه‌های درحال‌ساخت، آزمون و استفاده واقعی باید سخت‌گیرانه‌تر باشد. سامانه‌های مهم به زنجیره کامل محیط‌های جدا نیاز دارند؛ سامانه‌های محلی کوچک به جداسازی کافی نیاز دارند تا تغییر بد دارایی مشارکت‌کنندگان را از بین نبرد. نسخه بیرون از محیط زنده نباید برای دورزدن حفاظت‌های آن به‌کار رود.*
 
-این ماده زمینه را برای یکپارچگی محیط زیست تعیین می کند:
+این ماده کف یکپارچگی محیط را تعیین می‌کند:
 
-- **یکپارچگی محیطی:** **کلاس A**، **کلاس B**، و **کلاس C** سیستم های تحت **[corpus_systems.md](corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**و دیگر غیر**کلاس P** سیستم‌هایی با تأثیر خارجی مادی، باید از محیط‌های عملیاتی قابل تفکیک استفاده کنند - به عنوان مثال:
-  - توسعه؛
-  - آزمایش؛
-  - صحنه سازی؛
-  - تولید؛
-  - خلبانان در صورت لزوم
+- **طبقات A، B و C — جداسازی کامل:** طبق CS-3 در محیط‌های جداگانه توسعه، آزمون، آماده‌سازی و استفاده زنده کار می‌کنند و در صورت نیاز محیط پایلوت دارند. قواعد مکتوب ارتقای تغییر میان محیط‌ها، جداسازی واقعی و کنترل‌هایی لازم است تا محیط غیرزنده نتواند حفاظت‌های محیط زنده را دور بزند.
+- **طبقه L — جداسازی متناسب:** به زنجیره کامل محیط‌ها نیاز ندارد و می‌تواند در همان محیط ساخته، آزموده و تغییر کند، حتی با تغییر مکرر قواعد، محتوا، تنظیمات و کد. بااین‌حال هر تغییر باید پیش یا هنگام اجرا به‌اندازه کافی برای کشف زیان قابل پیش‌بینی به مشارکت‌کنندگان بررسی شود؛ داده، هویت و دارایی آنان در برابر تغییر بد یا آزمایشی محافظت شود (مثلاً نسخه پشتیبان قابل‌بازگردانی)؛ و نسخه آزمون برای دورزدن حفاظت‌های سامانه زنده به‌کار نرود.
+- **طبقه P:** سامانه‌های معتبر طبقه P تا زمانی که مهار شده‌اند از ماده XVIII (*نوآوری، آزمایش و آزادی خلاق*) پیروی می‌کنند.
 
-  آن محیط ها باید دارای:
-  - مسیرهای ارتقاء مستند؛
-  - جداسازی بین محیط ها؛
-  - کنترل ها به گونه ای که رفتار غیر تولیدی نتواند از پادمان های تولید عبور کند.
-<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 #### ماده XVII-B: استقرار پیشرونده و برگشت پذیری
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
@@ -1088,9 +1149,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [برگشت پذیری](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [م](core_05_band_continuity.md#reversibility-constitutional-a) · [الف](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
-- [ریسک](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [م](core_05_band_continuity.md#risk-a) · [الف](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [م](core_05_band_accountability.md#proportionality-a) · [الف](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
+- [برگشت پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [م](../../core_05_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
+- [تناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [م](../../core_05_band_accountability.md#proportionality-a) · [الف](../../core_05_band_accountability.md#proportionality-a) · [سی](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1101,8 +1162,13 @@ flowchart TB
 این ماده طبقات استقرار تدریجی و برگشت پذیری را مشخص می کند:
 
 - **استقرار پیشرونده و قابل ممیزی:** تغییراتی که تأثیر مادی یا وابستگی را افزایش می دهد باید از طریق تشدید موجه و مستند حرکت کند.
-  - تشدید باید با **[corpus_systems.md](corpus_systems.md), CS-5 - طراحی، آزمایش، تأیید، و استقرار**.
+  - تشدید باید با **[corpus_systems.md](../../corpus_systems.md), CS-5 - طراحی، آزمایش، تأیید، و استقرار**.
   - در صورت امکان، باید شامل بازگشت و مهار باشد.
+- **تغییرات پرتکرار (طبقه L):** سامانه طبقه L می‌تواند مرتب—حتی روزانه—و بدون انتشار مرحله‌ای تغییر کند، مشروط بر اینکه:
+  - تغییراتی که به‌طور مادی بر مشارکت‌کنندگان اثر می‌گذارند، حداکثر هنگام اجرا اطلاع‌رسانی شوند؛ از جمله تغییر در کارهایی که می‌توانند انجام دهند، آنچه در سامانه دارند، یا قواعد کار و بازی. معمولاً ثبت عمومی تغییرات کافی است؛
+  - تغییر زیان‌بار سریعاً قابل بازگشت یا اصلاح باشد؛
+  - پیشرفت، جایگاه، دارایی باارزش یا شهرتی که مشارکت‌کنندگان به دست آورده‌اند بدون اطلاع قبلی و امکان طرح اختلاف از آنها گرفته نشود؛ و
+  - اگر تغییر دامنه اثر سامانه را از محدوده مهارشده فراتر ببرد، یا وابستگی را چنان افزایش دهد که ترک سامانه دشوار شود، طبقه آن طبق CS-3 دوباره ارزیابی شود. تا پایان بازبینی، قواعد طبقه بالاتر اعمال می‌شود.
 - **برگشت پذیری:** سیستم ها باید مکانیسم های برگشت پذیری متناسب با آسیب احتمالی را در خود جای دهند. مثال ها:
   - عقبگرد
   - مهار
@@ -1129,16 +1195,17 @@ flowchart TB
 
 <br>
 
-*به زبان ساده: یک سیستم نمی تواند خود را "تجربی" بنامد. **کلاس P**، یا "کم تاثیر" برای طفره رفتن از تعهدات در حالی که در واقع دنیای خارج را تحت تاثیر قرار می دهد.*
+*به زبان ساده: سامانه نمی‌تواند خود را «آزمایشی»، **طبقه P**، **طبقه L** یا «کم‌اثر» بنامد تا از وظایفش بگریزد، درحالی‌که بیش از آنچه این برچسب اجازه می‌دهد بر جهان بیرون اثر دارد.*
 
 این ماده عواقب طبقه بندی نادرست و فرار را بیان می کند:
 
 - **طبقه بندی غلط و فرار:** هیچ سیستمی نمی‌تواند ادعا کند که چرخه عمر یا تعهدات استقرار کاهش یافته در حالی که تأثیر خارجی فاش نشده یا مادی دارد.
+  - این ممنوعیت شامل نگه‌داشتن سامانه در **طبقه L** برای امکان تغییر سریع است، درحالی‌که دامنه دسترسی یا وابستگی مشارکت‌کنندگان به آن از پیش در حد **طبقه C** یا بالاتر قرار دارد.
   - چنین رفتاری یکپارچگی اطلاعات را نقض می کند (**ماده XV** (*سپهر اطلاعات یکپارچگیِ سپهر اطلاعات*)) و قابلیت ممیزی در جایی که شواهد قابل مشاهده دخیل است (**ماده XVI-A** (*قابلیت حسابرسی و شواهد قابل مشاهده*)).
   - مشمول ممیزی است (**ماده XVI-A** (*قابلیت حسابرسی و شواهد قابل مشاهده*))، بررسی وضعیت (**ماده XIX-A** (*تمایز ثابت*))، و حل تعارض (**ماده XX-A** (*هدف و محدوده عدالت*)).
 
-<a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
-### ماده XVIII: نوآوری، آزمایش، و آزادی خلاقانه در محیط‌های آزمایشیِ ایزوله
+<a id="article-xviii-innovation-experimentation-and-creative-freedom"></a>
+### ماده XVIII: نوآوری، آزمایش و آزادی خلاقانه
 
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
@@ -1165,8 +1232,8 @@ flowchart TB
 
 *همسایگان مقاله:*
 
-- **با هم بخوانید:** **ماده XVII** (*چرخه حیات سیستم، محیط‌ها و برگشت‌پذیری*) زمانی که تأثیر، وابستگی یا ادغام از شرایط جعبه مادگی بیشتر شود. **ماده XV** (*یکپارچگیِ سپهر اطلاعات*) و **ماده XVIII-E** (*انتشار علمی، بررسی، و یکپارچگی تکرار*) که در آن یکپارچگی محدوده انتشار به طور مادی دخیل است. **ماده XVI** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*) برای افشا و تأیید ادعاهای مربوط به مهار و انتقال.
-- **لایه پیاده سازی:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*طراحی، آزمایش، تایید و استقرار*) و [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*طبقه بندی و مدیریت سیستم*).
+- **با هم بخوانید:** **ماده XVII** (*چرخه حیات سیستم، محیط‌ها و برگشت‌پذیری*) زمانی که تأثیر، وابستگی یا ادغام از شرایط جعبه مادگی بیشتر شود. **ماده XV** (*یکپارچگیِ سپهر اطلاعات*) و **ماده XV-D** (*انتشار علمی، بررسی، و یکپارچگی تکرار*) که در آن یکپارچگی محدوده انتشار به طور مادی دخیل است. **ماده XVI** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*) برای افشا و تأیید ادعاهای مربوط به مهار و انتقال.
+- **لایه پیاده سازی:** [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*طراحی، آزمایش، تایید و استقرار*) و [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*طبقه بندی و مدیریت سیستم*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
 #### ماده XVIII-A: دامنهٔ محیطِ آزمایشیِ ایزوله
@@ -1181,7 +1248,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [ریسک](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [م](core_05_band_continuity.md#risk-a) · [الف](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
+- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
 - [تاثیر مواد](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [م](core_05_band_oversight.md#material-impact-a) · [الف](core_05_band_oversight.md#material-impact-a) · [سی](core_05_band_oversight.md#material-impact-c)
 
 </details>
@@ -1193,13 +1260,13 @@ flowchart TB
 این ماده حق نوآوری و آزمایش و زمانی که وضعیتِ آزمایشیِ ایزوله اعمال می شود را مشخص می کند:
 
 - **حق نوآوری و آزمایش:** افراد حساس حق نوآوری، آزمایش، و ابراز خود را از طریق سیستم هایی دارند که با الزامات ساختاری کاهش یافته در زمانی که تأثیر خارجی مواد وجود ندارد یا به طور قابل اثباتی مهار می شود، عمل می کنند.
-- **شرایط احرازِ وضعیتِ آزمایشیِ ایزوله:** وضعیتِ آزمایشیِ ایزوله - از جمله معتبر **کلاس P** طبقه بندی تحت **[corpus_systems.md](corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** در صورت امکان - بستگی به موارد زیر دارد:
+- **شرایط احرازِ وضعیتِ آزمایشیِ ایزوله:** وضعیتِ آزمایشیِ ایزوله - از جمله معتبر **کلاس P** طبقه بندی تحت **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** در صورت امکان - بستگی به موارد زیر دارد:
   - مهار واقعی؛
   - برگشت پذیری؛
   - ادغام محدود با سیستم های مشترک
 
   ممکن است فقط با برچسب ادعا نشود.
-- **جزئیات پیاده سازی:** توضیح بیشتر در ظاهر می شود **[corpus_systems.md](corpus_systems.md)، CS-5** (*سیستم های شخصی، منزوی و آزمایشی*؛ *سیستم های خلاق، سرگرمی و بیانی*).
+- **جزئیات پیاده سازی:** توضیح بیشتر در ظاهر می شود **[corpus_systems.md](../../corpus_systems.md)، CS-5** (*سیستم های شخصی، منزوی و آزمایشی*؛ *سیستم های خلاق، سرگرمی و بیانی*).
 
 <a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
 #### ماده XVIII-B: مهار، افشاء و انتخاب
@@ -1213,9 +1280,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [رضایت](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [م](core_05_band_participation.md#consent-constitutional-a) · [الف](core_05_band_participation.md#consent-constitutional-a) · [سی](core_05_band_participation.md#consent-constitutional-c)
-- [ریسک](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [م](core_05_band_continuity.md#risk-a) · [الف](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
-- [برگشت پذیری](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [م](core_05_band_continuity.md#reversibility-constitutional-a) · [الف](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
+- [رضایت](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [م](../../core_05_band_participation.md#consent-constitutional-a) · [الف](../../core_05_band_participation.md#consent-constitutional-a) · [سی](../../core_05_band_participation.md#consent-constitutional-c)
+- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
+- [برگشت پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [م](../../core_05_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1248,8 +1315,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [وابستگی](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [م](core_05_band_continuity.md#dependency-a) · [الف](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
-- [برگشت پذیری](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [م](core_05_band_continuity.md#reversibility-constitutional-a) · [الف](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
+- [وابستگی](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [م](../../core_05_band_continuity.md#dependency-a) · [الف](../../core_05_band_continuity.md#dependency-a) · [سی](../../core_05_band_continuity.md#dependency-c)
+- [برگشت پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [م](../../core_05_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1277,124 +1344,86 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [پاداش نوآوری و ضد حصار](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [م](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [الف](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [سی](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [قفل سیستمیک](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [م](core_05_band_continuity.md#systemic-lock-in-a) · [الف](core_05_band_continuity.md#systemic-lock-in-a) · [سی](core_05_band_continuity.md#systemic-lock-in-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [م](core_05_band_accountability.md#proportionality-a) · [الف](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
+- [قفل سیستمیک](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [م](../../core_05_band_continuity.md#systemic-lock-in-a) · [الف](../../core_05_band_continuity.md#systemic-lock-in-a) · [سی](../../core_05_band_continuity.md#systemic-lock-in-c)
+- [تناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [م](../../core_05_band_accountability.md#proportionality-a) · [الف](../../core_05_band_accountability.md#proportionality-a) · [سی](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*به زبان ساده: به نوآوران می توان پاداش داد، اما انحصار باید محدود، محدود به زمان و قابل بررسی باشد. زیرساخت‌های بهداشت عمومی، ایمنی و اصلی باید در دسترس باقی بمانند - و وقتی چیزی زیرساخت حیاتی شد، هر گونه انحصار باقی‌مانده باید دوباره ارزیابی شود.*
+*به زبان ساده: نوآوری می‌تواند پاداش بگیرد، اما انحصار باید کوتاه‌مدت باشد، پس از آن به مجوزدهی باز تبدیل شود و هرگز نیاز مشترک را به ابزار قفل‌شدگی یا کمیابی مصنوعی بدل نکند. این ماده قواعد مشترک همهٔ آثار را تعیین می‌کند و میان آثار بیانی (**ماده XVIII-E**) و آثار کارکردی (**ماده XVIII-F**) تمایز می‌گذارد. قواعد و سازوکارهای بازی آزاد می‌مانند.*
 
-این ماده نحوه پاداش دادن به نوآوری را بدون احاطه نیازهای عمومی مشخص می کند:
+این ماده قواعد مشترک پاداش را برای همهٔ انواع اثر مقرر می‌کند:
 
-- **پاداش نوآوری و ضد حصار:** افراد حساس ممکن است برای نوآوری جدید، از نظر اجتماعی مفید و به اندازه کافی افشا شده پاداش دریافت کنند.
-  - پاداش باید به گونه ای طراحی شود که پایدار بماند:
-    - نوآوری در آینده؛
-    - دسترسی گسترده؛
-    - آزمایش پایین دست؛
-    - تعمیر؛
-    - قابلیت همکاری؛
-    - بررسی دقیق
-  - پاداش نباید برای محفظه بادوام طراحی شود.
-- **فقط انحصاری موقت و قابل بررسی:** هر گونه حق محرومیت از اختراع، طراحی، رابط، فرآیند یا سیستم بیانی که از نظر مادی مفید است، باید آن را اجرا کند [** اصل محدودیت حداقل محدود، محدود به زمان و قابل بررسی **](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) و باید باشد:
-  - باریک؛
-  - محدود به زمان
-  - قابل بررسی؛
-  - متناسب با سهم واقعی و بار توجیهی توسعه است.
+- **پاداش بدون حصارکشی:** موجوداتِ دارای احساس می‌توانند برای نوآوریِ دارای تازگی مادی، سودمند از نظر اجتماعی و به‌اندازهٔ کافی افشاشده پاداش بگیرند. پاداش باید نوآوری آینده، دسترسی گسترده، آزمایش‌های بعدی، تعمیر، تعامل‌پذیری و بررسی حقیقت‌جویانه را تقویت کند و نباید به حصارکشی پایدار بینجامد.
+- **افشاگری، شرط و مبدأ مدت:** مدت از تاریخ نخستین افشای عمومیِ غیرمحرمانهٔ اثر یا نوآوری آغاز می‌شود. پیش از آن تاریخ هیچ انحصاری وجود ندارد. اگر مدعی نوآوری را محرمانه نگه دارد، نمی‌تواند به موجب این ماده هیچ حق منع استفاده‌ای مطالبه کند؛ محرمانگی نه مهلت انحصاری را آغاز می‌کند و نه آن را ذخیره می‌سازد.
+- **دو مرحله با سقف نهایی:** هرگاه انحصار مجاز باشد، حداکثر به ۱۵ سال نخست پس از آن افشا محدود است. پس از آن و تا حداکثر ۳۰ سال از همان تاریخ، اثر فقط می‌تواند مشمول مجوزهای باز باشد و شرایط و هزینه‌های آن باید با این ماده سازگار باشد. ۳۰ سال سقف نهایی است؛ مواد XVIII-E (*آثار خلاقانه و بیانی*) و XVIII-F (*اختراعات، فرایندها و سامانه‌های کارکردی*) می‌توانند مدت کوتاه‌تر، دسترسی باز زودتر یا نبودِ هرگونه انحصار را الزامی کنند.
+- **انحصار محدود و قابل توجیه:** هر حق منع استفاده دربارهٔ اختراع، طراحی، رابط، فرایند یا اثر بیانیِ دارای فایدهٔ مادی باید [اصل محدودیتِ کمترین‌محدودکننده، زمان‌مند و قابل بازبینی](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) را اجرا کند: حق باید محدود، زمان‌مند، قابل بازبینی و متناسب با سهم واقعی و بار توسعهٔ موجه باشد. بار توجیه بر عهدهٔ مدعی است. انتساب و منشأ می‌توانند پایدار بمانند؛ انحصار پایدار و کمیابی مصنوعی مجاز نیست.
+- **هزینه بر پایهٔ منفعتِ تأییدشده:** در مرحلهٔ مجوزدهی باز، هزینه فقط می‌تواند بر منفعتِ تأییدشده‌ای مبتنی باشد که در محور مشارکت به نوآوری منتسب است. این مبنا شامل زمانِ بهره‌وریِ صرفه‌جویی‌شده یا افزوده‌شده و، در صورت اقتضا، زمانِ معادلِ طول عمر (LEQU) است که حفظ یا ایجاد شده است. محاسبه باید با روشی شفاف و قابل بازبینی انجام شود؛ ادعای ارزش بازار، محبوبیت، درآمد احتمالی یا قدرت چانه‌زنی به‌تنهایی کافی نیست.
+  - هزینه باید با دستمزد منصفانه برای کار توسعهٔ موجه متناسب باشد و نمی‌تواند از ۵۰٪ ارزشِ تأییدشدهٔ منفعتی که بهره‌مندان به دست آورده‌اند بیشتر شود.
+  - سهم هر بهره‌مند باید با افزایش شمار بهره‌مندان واقعی کاهش یابد. شمار مجوزگیرندگان یا قراردادها مبنای این تقسیم نیست. گسترش دامنه، پاداش کلِ موجه را کاهش نمی‌دهد: شمار بهره‌مندان بیشتر می‌شود و سهم هر بهره‌مند کمتر.
+  - اگر هزینه‌ای دریافت شود، حداقل آن ۱٪ از منفعتِ تأییدشدهٔ منتسب به هر بهره‌مند است، مگر آنکه سازوکار جایگزینِ پاداشِ سازگار با این ماده به کار رود. این حداقل مجوز عبور از سقف ۵۰٪ یا دریافت هزینه از استفاده‌هایی که باید همواره باز بمانند نیست.
+- **قیمت‌گذاری و شفافیت:** هزینه نباید بر قدرت بازار، کمیابیِ مصنوعی، هزینهٔ تغییر، وابستگی، فشار یا توان حذف گزینه‌های جایگزین استوار باشد. جدول هزینه‌های قابل مقایسه باید همراه با روش، مبانی و دسته‌بندی‌ها منتشر شود؛ هر فرد متأثر باید بتواند به آن اعتراض کند و بازبینی مستقل بخواهد. شرایط باید روشن، در وضعیت‌های قابل مقایسه یکسان و قابل بازبینی باشند.
+- **استفاده‌های همواره باز:** هیچ هزینه‌ای نباید استفاده‌ای را که باید همواره باز بماند از نظر اقتصادی ناممکن، به‌طور مادی بازدارنده یا عملاً حذف کند؛ از جمله فعالیت‌های لازم برای تعمیر، تعامل‌پذیری و بررسی حقیقت‌جویانه، و استفاده‌های آزادی که مواد XVIII-E و XVIII-F به رسمیت می‌شناسند. اگر هزینه چنین اثری داشته باشد، باید کاهش یابد، معاف شود یا با سازوکار دیگری برای پاداش جایگزین گردد.
+- **حفاظت متناسب با رده و وابستگی:** هرچه وابستگی دیگران یا خطر قفل‌شدگی بیشتر باشد، انحصار باید محدودتر باشد. این پادمان‌ها اعمال می‌شوند:
+  - دربارهٔ سامانه‌های ردهٔ A، B یا C باید دسترسیِ حافظِ تداوم، حق انحصاریِ محدود و سریعاً قابل بازبینی، مرحلهٔ بازِ کوتاه‌تر یا دسترسیِ باز از آغاز ــ متناسب با نیاز و خطر ــ در اولویت باشد.
+  - در حوزه‌هایی با وابستگی کمتر، توالی کامل دو مرحله فقط هنگامی مجاز است که افشا امکان بازتولید و ارزیابی نوآوری را بدهد و پادمان‌های مؤثر در برابر وابستگی، قفل‌شدگی و اختلال در تداوم برقرار باشند.
+  - در پزشکی و سلامت عمومی؛ زیرساخت بقا؛ ارتباطات و استانداردهای تعامل‌پذیری؛ علوم بنیادی؛ و ایمنی قانون اساسی، حسابرسی و انطباق، احتیاط ویژه لازم است و باید گزینه‌های باز، مجوزهای کوتاه‌تر یا سازوکارهای دیگر ترجیح داده شوند. این فهرست حصری نیست: هر جایگزینی که از وابستگی یا زیان هم‌سنگ جلوگیری کند باید واقعاً بررسی شود.
+- **بازطبقه‌بندی و اصلاح:** هرگاه وابستگی، دامنه، کارکرد، شواهد یا آثار واقعی تغییر کند، طبقه‌بندی و شرایط باید بازبینی شوند. برای پیشگیری یا جبران قفل‌شدگی، گلوگاه‌ها و زیان به تداوم، حقیقت یا برابری، نهاد مستقلِ صلاحیت‌دار باید بتواند حق را محدودتر کند، مرحلهٔ انحصاری را کوتاه یا به مجوزدهی باز تبدیل کند، دسترسی باز مقرر سازد یا انحصار را پایان دهد. دارنده نمی‌تواند انحصاری را حفظ کند که در عمل نیاز مشترکی را کنترل یا این تضمین‌ها را بی‌اثر می‌کند.
+- **آنچه ادعا واقعاً کنترل می‌کند:** دسته‌بندی بر پایهٔ چیزی است که حق واقعاً کنترل می‌کند، نه نام آن. اثر بیانی شیوهٔ بیان را در بر می‌گیرد ــ متن، تصویر، صدا، موسیقی، داستان، شخصیت، اجرا یا ظاهرِ صرفاً تزئینی ــ و تابع **ماده XVIII-E** است. اثر کارکردی نحوهٔ کارکرد چیزی را کنترل می‌کند ــ روش، فرایند، سازوکار، فرمول، ترکیب ماده، رابط، قالب پرونده، پروتکل یا رفتار سامانه ــ و تابع **ماده XVIII-F** است.
+  - آثار آمیخته جزءبه‌جزء دسته‌بندی می‌شوند: در نرم‌افزار، کدِ نوشته‌شده بیانی و آنچه کد انجام می‌دهد کارکردی است؛ در بازی، هنر، داستان، موسیقی و کد جداگانه دسته‌بندی می‌شوند اما قواعد و سازوکارها قابل حمایت نیستند؛ در طراحی، ظاهر تزئینی بیانی و شکلی که بر کارکرد اثر می‌گذارد کارکردی است. رابط‌ها، قالب‌های پرونده، پروتکل‌ها و مدل‌های هوش مصنوعی کارکردی‌اند.
+  - حمایت از بیان هرگز به کارکرد نمی‌رسد: نمی‌تواند نحوهٔ کار، اتصال یا تعمیر چیزی را کنترل کند یا محدودیت‌های **ماده XVIII-F** را دور بزند. بخشی از ادعا که چنین کند، کارکردی تلقی می‌شود.
+  - قواعد و سازوکارهای بازی ــ یعنی چگونگی بازی، جدا از هنر، داستان، موسیقی یا کدی که آن را عرضه می‌کند ــ نمی‌توانند مشمول هیچ حق منع استفاده‌ای بر پایهٔ این ماده، چه به‌عنوان اثر بیانی و چه کارکردی، باشند. هرکس می‌تواند از آنها استفاده کند.
 
-  بار توجیه بر عهده مدعی است. انتساب و منشأ ممکن است فراتر از یک اصطلاح انحصاری باقی بماند. طرد ماندگار و کمبود مصنوعی ممکن است نباشد.
-- **حفاظت از نوع کپی رایت:** برای این ماده، حمایت از نوع کپی‌رایت به معنای پاداش استثنایی موقت نسبت به یک اثر بیانی ثابت، از جمله کنترل بر کپی، توزیع، نمایش عمومی یا اجرا، اقتباس، و بهره‌برداری تجاری است. انتساب، منشأ، یکپارچگی، و حمایت های ضد کلاهبرداری ممکن است پس از انقضای محرومیت ادامه یابد.
-- **انتشار و ظهور اولیه:** انتشار به معنای انتشار عمدی یک اثر گویا ثابت از سوی پدیدآورنده یا صاحب حق قانونی به عموم، بازار تجاری یا مخاطبان آزاد است. انتشار خصوصی، بررسی محرمانه، همکاری محدود، سپرده بایگانی بدون دسترسی عمومی، یا به اشتراک گذاری غیرتجاری پیش نویس به خودی خود انتشار را تشکیل نمی دهد. ظاهر اولیه به معنای اولین در دسترس بودن عمومی غیرمحرمانه نسخه قابل شناسایی مادی اثر، از جمله در دسترس بودن پیش‌نویس غیرتجاری است.
-- **اصطلاحات مبتنی بر انتشار برای آثار بیانی:** حفاظت از نوع حق نسخه‌برداری باید به‌جای زمان‌بندی زندگی نویسنده، به‌طور پیش‌فرض بر اساس زمان‌بندی مبتنی بر انتشار باشد.
-  - یک اثر منتشر شده به طور فرضی نباید بیشتر از `publication+30` سال های محرومیت
-  - پیش‌نویس غیرتجاری یا اثر بیان‌نشده منتشر نشده که ظاهر اولیه داشته باشد، ممکن است بیش از حد حق نسخه‌برداری مستثنی شود. `initial appearance+50` سال.
-  - اگر اثری با ظاهر اولیه بعداً منتشر شود، مدت حذف با نسخه قبلی محدود می شود `initial appearance+50` یا `publication+30`.
-  - هیچ قانون پیش‌نویس، اثر منتشرنشده یا تأخیر انتشار را نمی‌توان برای ایجاد طرد نامحدود، سرکوب آرشیو، شکست نقل قول یا انتقاد قانونی، یا گسترش کنترل بر آثاری که به عنوان زیرساخت‌های فرهنگی، آموزشی، ایمنی، استانداردها یا اطلاعات مشترک عمل می‌کنند، استفاده کرد.
-  - شرایط کوتاه‌تر، تبدیل دسترسی اجباری زودتر، یا درمان فوری دسترسی عمومی در مواردی اعمال می‌شود که کار انجام می‌شود:
-    - بودجه عمومی
-    - وابستگی بحرانی؛
-    - استاندارد مانند؛
-    - پایه آموزشی
-    - مربوط به ایمنی؛
-    - عمدتاً به عنوان زیرساخت فرهنگی یا اطلاعاتی مشترک استفاده می شود.
-- **درمان نوآوری در مقیاس طبقه بندی:** پاداش نوآوری باید با طبقه سیستم، وابستگی و اثرات هماهنگی زیر مقیاس شود **[corpus_systems.md](corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**.
-  - برای **کلاس A**، **کلاس B**، و **کلاس C** سیستم‌ها، مکانیسم‌های پاداش حفظ دسترسی به شدت ترجیح داده می‌شوند. در مواردی که تداوم، قابلیت همکاری، تعمیر یا اجرای منفعت عمومی دخیل است، محرومیت باید محدود، به سرعت قابل بازبینی، و به راحتی نادیده گرفته شود.
-  - نوآوری با وابستگی کمتر در خارج از این کلاس‌ها ممکن است از طرد موقت تا حدودی گسترده‌تر استفاده کند، جایی که افشا واقعی است، هزینه‌های سوئیچینگ پایین است، و پادمان‌های ضد قفل مؤثر باقی می‌مانند.
-- **شرایط افشا و طبقه منافع عمومی:** ادعاهای پاداش مستلزم افشای کافی برای درک مستقل، حسابرسی، و بازتولید بعدی است، تنها مشروط به محدودیت‌های موقت موجه تحت **فصل اول** و **ماده XVII-A** (*حکومت چرخه حیات و جداسازی محیط*).
-  - ادعاهای پاداش در جایی که از آنها - فراتر از آنچه کاملاً ضروری و قابل بررسی است - برای سرکوب استفاده می شود، مطابقت ندارند:
-    - تعمیر؛
-    - کار ایمنی؛
-    - قابلیت همکاری؛
-    - آرشیو کردن؛
-    - تحقیق؛
-    - آموزش و پرورش؛
-    - مهاجرت
-  - حوزه‌های حیاتی، بنیادی، یا تعیین استاندارد ممکن است به جای حذف، به مکانیسم‌های جایزه، ادغام، دسترسی اجباری یا خرید عمومی نیاز داشته باشند.
-- **حذف دامنه و پیش فرض های قوی تر:** به نظر می رسد که پاداش شدید طرد کننده نامطلوب است - و ممکن است در موارد زیر در دسترس نباشد - برای:
-  - داروها و ملزومات بهداشت عمومی؛
-  - زیرساخت حیاتی بقا؛
-  - استانداردهای اصلی ارتباطات یا قابلیت همکاری؛
-  - دانش بنیادی علمی؛
-  - ایمنی قانون اساسی، ممیزی، یا سازوکارهای انطباق.
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### ماده XVIII-E: آثار خلاقانه و بیانی
 
-  در این حوزه‌ها، موسسات باید پاداش مستقیم، دسترسی تلفیقی، مجوز اجباری، خرید عمومی یا مکانیسم‌های مشابهی را ترجیح دهند که اجرا، تعمیر و انتشار گسترده را حفظ کند.
-- **طبقه بندی مجدد و سفت شدن:** در جایی که نوآوری که در ابتدا به عنوان وابستگی کمتر تلقی می‌شود، بعداً به یک لایه هماهنگی حیاتی وابستگی تبدیل می‌شود - به عنوان مثال، یک پلت فرم، پروتکل، مدل، بازار، یا راه‌آهن پرداخت - مؤسسات باید آن را تحت شرایط قابل‌اجرا مورد ارزیابی مجدد قرار دهند. **CS-3 - طبقه بندی و مدیریت سیستم** کلاس
-  - ارزیابی مجدد ممکن است در مواردی که ادامه انحصار باعث ایجاد موارد زیر می شود، محرومیت باقیمانده را محدود، تبدیل یا خاتمه دهد:
-    - قفل اجباری؛
-    - تنگناهای ضد رقابتی؛
-    - تهدیدات مادی برای تداوم، حقیقت یا مشارکت عادلانه.
-
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### ماده XVIII-E: انتشار علمی، بررسی، و یکپارچگی تکرار
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- مبانی بالادستی: اصول فصل یک §5 حقیقت، §7 آزادی و §18 حکمرانی با انضباط سرپرستی.
+- همراه با [ماده IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) برای حقوق انتساب، آموزش و جبران؛ و [ماده XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) برای قواعد مشترک و معیار بیانی/کارکردی.
 
 </details>
+
+*به زبان ساده: پدیدآورندگان برای نسخه‌برداری، اشتراک‌گذاری و فروش اثر خود، حداکثر تا ۳۰ سال پس از انتشار، حق کنترل محدود دارند و حق انتساب اثر پایان نمی‌یابد. مهلت از زمان انتشار آغاز می‌شود، نه از مرگ پدیدآورنده؛ پیش‌نویس یا تأخیر نمی‌تواند آن را طولانی کند.*
+
+این ماده حمایت شبیه حق نشر را برای آثار خلاقانه و بیانی مقرر می‌کند:
+
+- **حمایت شبیه حق نشر:** پاداش انحصاری موقت برای اثر بیانی تثبیت‌شده، شامل کنترل نسخه‌برداری، توزیع، نمایش یا اجرای عمومی، اقتباس و بهره‌برداری تجاری. انتساب، منشأ، تمامیت اثر و حمایت ضدتقلب می‌تواند پس از پایان انحصار نیز ادامه یابد.
+- **انتشار و نمود نخستین:** انتشار یعنی عرضه عمدی اثر بیانی تثبیت‌شده از سوی پدیدآورنده یا دارنده قانونی حق به عموم، بازار تجاری یا مخاطبانی که به‌طور مادی گشوده‌اند. گردش خصوصی، بررسی محرمانه، همکاری محدود، سپردن به بایگانی بدون دسترسی عمومی یا اشتراک پیش‌نویس غیرتجاری به‌تنهایی انتشار نیست. نمود نخستین، نخستین دسترس‌پذیری عمومی و غیرمحرمانه نسخه‌ای است که از نظر مادی قابل شناسایی باشد، از جمله پیش‌نویس غیرتجاری.
+- **مدت‌های مبتنی بر انتشار:** قاعده پیش‌فرض، محاسبه مدت از انتشار است نه طول عمر نویسنده.
+  - اثر منتشرشده نباید بیش از `publication+30` سال انحصار داشته باشد.
+  - پیش‌نویس غیرتجاری یا اثر منتشرنشده‌ای که نخستین نمود داشته است، حداکثر تا `initial appearance+50` سال می‌تواند مشمول انحصار شبیه حق نشر باشد.
+  - اگر اثر بعداً منتشر شود، مدت به مهلت زودتر از `initial appearance+50` یا `publication+30` محدود است.
+  - هیچ قاعده‌ای درباره پیش‌نویس، اثر منتشرنشده یا تأخیر انتشار نمی‌تواند انحصار نامحدود بسازد، بایگانی یا نقل‌قول و نقد قانونی را سرکوب کند، یا کنترل آثاری را گسترش دهد که زیرساخت مشترک فرهنگی، آموزشی، ایمنی، استانداردگذاری یا اطلاعاتی هستند.
+- **مدت کوتاه‌تر و دسترسی عمومی:** اگر اثری با بودجه عمومی تأمین شده، برای وابستگی حیاتی است، شبیه استاندارد است، برای آموزش بنیادی است، با ایمنی مرتبط است یا عمدتاً زیرساخت فرهنگی یا اطلاعاتی مشترک محسوب می‌شود، مدت کوتاه‌تر، تبدیل زودتر به دسترسی اجباری یا دسترسی عمومی فوری اعمال می‌شود.
+
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### ماده XVIII-F: اختراعات، فرایندها و سامانه‌های کارکردی
 
 <details>
-<summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- مبانی بالادستی: اصول فصل یک §4 ایمنی، §7 آزادی، §18 حکمرانی با انضباط سرپرستی و §19 هم‌راستایی انگیزه‌ها و تسخیر سامانه.
+- همراه با [ماده XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) برای قواعد مشترک؛ [ماده XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) هنگام تهدید قفل‌شدگی؛ و [ماده XVII](#article-xvii-system-lifecycle-environments-and-reversibility) هنگامی که اختراع جزئی از سامانه مستقر می‌شود.
 
 </details>
 
-<br>
+*به زبان ساده: مخترعان باید اختراع را آن‌قدر روشن شرح دهند که دیگران بتوانند آن را بازسازی کنند. در عوض، حداکثر ۱۵ سال حق انحصاری دارند و سپس تا ۱۵ سال دیگر هرکس می‌تواند با پرداخت حق‌بها از آن استفاده کند. حق‌بها بر پایه دستمزد منصفانه برای زمان یا فایده‌ای است که اختراع ایجاد می‌کند، نه بر پایه آنچه بازار تحمیل‌پذیر می‌سازد. هیچ حق اختراعی نمی‌تواند تعمیر، ایمنی، پژوهش یا تغییر ارائه‌دهنده را مسدود کند.*
 
-*به زبان ساده: علم زیرساخت تایید عمومی است. شواهد، تکرار، و تصحیح باید بیشتر از نام تجاری مجله مهم باشد - و تصحیح یک خطا همیشه باید آسان تر از پنهان کردن آن باشد.*
+این ماده قواعد پاداش‌دهی به اختراعات، فرایندها و سامانه‌های کارکردی را مقرر می‌کند:
 
-این ماده مقدمات انتشار علمی، بررسی، تکرار و تصحیح را مشخص می کند:
-
-- **علم به عنوان زیرساخت تأیید عمومی:** انتشار علمی و علمی، بررسی، تکرار و تصحیح باید برای پیشرفت سازماندهی شود:
-  - حقیقت جویی؛
-  - تکرارپذیری؛
-  - اختلاف نظر پاسخگو؛
-  - یادگیری عمومی
-
-  آنها نباید برای احتکار پرستیژ، دروازه بان غیر شفاف، یا کمبود تولید سازماندهی شوند.
-- **انتشار باز و کفایت شواهد:** ادعاهای تجربی یا تحلیلی مادی باید بدون تأیید قبلی معتبر قابل انتشار باشند.
-  - تنها محدودیت‌های مجاز، حریم خصوصی محدود، ایمنی زیستی، امنیت، یا محدودیت‌های قابل مقایسه است که تحت **فصل اول** و **ماده XVII-A** (*حکومت چرخه حیات و جداسازی محیط*).
-  - چنین ادعاهایی باید شامل روش، منشأ، عدم قطعیت و جزئیات شواهد کافی باشد - از جمله دسترسی به مواد اساسی یا جانشین‌های موجه در صورت نیاز برای راستی‌آزمایی - تا امکان درک مستقل و راستی‌آزمایی متناسب را فراهم کند.
-- **بررسی و تکرار بیش از اعتبار:** اتکای نهادی باید ردیابی کند:
-  - کیفیت شواهد؛
-  - نقد؛
-  - همانند سازی؛
-  - رفتار اصلاحی؛
-  - قابلیت اطمینان توضیحی یا پیش بینی بلندمدت
-
-  نباید نام تجاری مجله، پروکسی ضریب تاثیر، یا وضعیت سرمقاله بسته را ردیابی کند.
-  - ادعاهای با [تاثیر مواد](core_05_band_oversight.md#material-impact) که مربوط به خط مشی، ایمنی، یا وابستگی هستند، باید با پیش فرض قوی تکرار مستقل، بررسی خصمانه، یا هر دو پیش از دریافت حمایت نهادی بادوام مواجه شوند.
-  - کارهای تکراری، نتیجه تهی و تصحیح محور باید قابل انتشار و استناد با شرایطی باقی بمانند که به سیگنال دهی پرستیژ وابسته نیستند.
-- **تصحیح و قابل اعتراض:** تصحیح، اصلاح و جانشینی با حسن نیت باید آسانتر از پنهان ماندن باشد.
-  - سیستم‌های بررسی و ویرایش باید در تصمیم‌گیری‌های عمده پذیرش، تصحیح و پس‌گیری قابل اعتراض، قابل ممیزی، منضبط در تعارض و استدلال‌آور باقی بمانند.
-  - موارد زیر ناسازگار هستند:
-    - سرکوب نتایج ناخوشایند؛
-    - اقدام تلافی جویانه علیه بازبینان یا تکرارکنندگان؛
-    - دستکاری غیر شفاف سوابق علمی.
+- **نخست افشا:** پاداش مستلزم افشای عمومی کافی برای فهم مستقل، ممیزی و بازتولید بعدی است؛ جز محدودیت‌های موقت موجه بر اساس فصل یک و ماده XVII-A. افشای عمومی نخستین انتشار غیرمحرمانه شرح اختراع برای عموم است. اختراع پنهان هیچ حق منع استفاده‌ای طبق این ماده نمی‌گیرد.
+- **دو مرحله:** هر دو از زمان افشای عمومی محاسبه می‌شوند. در مرحله انحصاری، دارنده می‌تواند حداکثر تا `disclosure+15` سال اجازه را رد کند. پس از آن و تا حداکثر `disclosure+30` سال، همه می‌توانند بدون اجازه و با پرداخت حق‌بهای مبتنی بر LEQU استفاده کنند؛ دارنده نمی‌تواند استفاده را رد یا به تأخیر اندازد یا شرطی بیش از پرداخت حق‌بها بگذارد. پس از پایان مدت، اختراع آزاد است و انتساب و منشأ می‌تواند باقی بماند.
+- **حق‌بهای مبتنی بر LEQU:** باید متناسب با فایده قانون‌اساسیِ تأییدشده اختراع باشد؛ فایده در واحد LEQU روی محور مشارکت، طبق مقیاس یکپارچه تناسبی LEQU در [فصل ده §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) سنجیده می‌شود.
+  - فایده با ارزش‌گذاری زمان موجودات ذی‌شعور بر پایه دستمزد منصفانه به حق‌بها تبدیل می‌شود. برای بهره‌وری، زمان کاری ذخیره‌شده یا زمان مولدی که برای استفاده‌کنندگان افزوده شده محاسبه می‌شود؛ برای فایده‌های دیگر، زمان معادل عمر که LEQU می‌سنجد. دستمزد باید معیار [جبران منصفانه](../../core_05_band_continuity.md#fair-compensation) را برآورده کند. هرچه افزایش تأییدشده بهره‌وری یا بهزیستی بیشتر باشد، پاداش بیشتر است.
+  - حق‌بها بیش از نصف فایده تأییدشده نیست. سهم آن باید با افزایش شمار بهره‌مندان واقعی (نه تعداد مجوزگیرندگان) کاهش یابد، اما نه چنان که با گسترش استفاده، کل پاداش کم شود. اگر حق‌بها دریافت می‌شود، سهم کمتر از ۱٪ نیست؛ این کف زمانی حق‌بها را الزامی نمی‌کند که این ماده یا سند پذیرش، جایزه، دسترسی تجمیعی، خرید عمومی یا دسترسی آزاد مقرر کند.
+  - حق‌بها بر قدرت بازار، کمیابی، هزینه تغییر یا مبلغی که بتوان کاربر را به پرداختش واداشت مبتنی نمی‌شود. جدول حق‌بها و برآورد زمان و دستمزد باید منتشر، در شرایط مشابه یکسان و قابل اعتراض باشد و نباید دسترسی به موارد آزاد زیر را از توان خارج کند. اینها سقف‌اند؛ هر ادعا باید متناسب باشد و می‌تواند کوتاه‌تر شود.
+- **موارد همیشه آزاد:** در هر دو مرحله، ادعاها ناسازگارند اگر فراتر از حداقل لازم و قابل بازبینی برای جلوگیری از تعمیر، کار ایمنی، تعامل‌پذیری، بایگانی، پژوهش، آموزش یا مهاجرت استفاده شوند.
+- **رفتار متناسب با طبقه سامانه:** پاداش باید بر اساس طبقه، وابستگی و آثار هماهنگی طبق CS-3 تنظیم شود. برای سامانه‌های کلاس A، B و C، سازوکارهای حافظ دسترسی قویاً ترجیح دارند؛ انحصار باید بسیار محدود، سریعاً قابل بازبینی و آسان‌الغاء باشد، هرجا استمرار، تعامل‌پذیری، تعمیر یا اجرای منفعت عمومی مادیًا درگیر است. هر مرحله می‌تواند کوتاه شود یا مرحله مجوز باز از ابتدا آغاز شود. نوآوری کم‌وابستگی بیرون از این طبقات می‌تواند از هر دو مدت کامل بهره گیرد اگر افشا واقعی، هزینه تغییر کم و حفاظت ضدقفل مؤثر باشد.
+- **حوزه‌های با پیش‌فرض سخت‌گیرانه‌تر:** انحصار قوی برای دارو و نیازهای اساسی سلامت عمومی، زیرساخت حیاتی بقا، استانداردهای اصلی ارتباط یا تعامل‌پذیری، دانش علمی بنیادی و سازوکارهای قانون‌اساسی ایمنی، ممیزی یا انطباق نامطلوب فرض می‌شود و اسناد پذیرش می‌توانند آن را ممنوع کنند. در این حوزه‌ها جایزه، پاداش مستقیم، دسترسی تجمیعی، مجوز اجباری، خرید عمومی یا سازوکار معادلِ حافظ اجرا، تعمیر و انتشار گسترده ترجیح دارد.
+- **بازطبقه‌بندی و سخت‌گیری:** اگر نوآوری کم‌وابستگی به لایه هماهنگیِ حیاتی برای وابستگی بدل شود (مانند سکو، پروتکل، مدل، بازار یا شبکه پرداخت)، نهادها باید آن را بر اساس طبقه مربوط CS-3 بازسنجی کنند. اگر انحصار موجب قفل اجباری، گلوگاه ضد رقابت یا تهدید مادی برای استمرار، حقیقت یا مشارکت منصفانه شود، می‌توان انحصار باقیمانده را محدود، تبدیل یا پایان داد.
 
 ---
 

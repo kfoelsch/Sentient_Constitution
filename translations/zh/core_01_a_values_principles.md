@@ -27,13 +27,13 @@
 | 目标及方面 | 第一章原则 | 定义所在位置 | 追溯中列出的条款 |
 |---|---|---|---|
 | **繁荣**：结果 | [§3福祉](#3-foundational-objective-wellbeing-flourishing-aim) | [福祉](core_05_band_continuity.md#wellbeing) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)、[XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) |
-| **繁荣**：安全 | [§4安全](#4-safety-harm-constraint) | [安全](core_05_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
+| **繁荣**：安全 | [§4安全](#4-safety-harm-constraint) | [安全](core_05_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[XXIII](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
 | **繁荣**：真相 | [§5真相](#5-truth-epistemic-integrity-constraint) | [真相](core_05_band_oversight.md#truth-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
 | **繁荣**：可信赖性 | [§6信任](#6-trust-and-trustworthiness-coordination-integrity) | [可信赖性](core_05_band_continuity.md#trustworthiness) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
-| **繁荣**：有意义的能动性 | [§7自由](#7-freedom-bounded-agency) | [有意义的能动性](core_05_band_participation.md#meaningful-agency) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) |
+| **繁荣**：有意义的能动性 | [§7自由](#7-freedom-bounded-agency) | [有意义的能动性](core_05_band_participation.md#meaningful-agency) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
 | **连续性**，连接繁荣：持久能力 | [§9共享系统能力](#9-shared-system-capacity) | [共享系统能力](core_05_band_continuity.md#shared-system-capacity) | [I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)、[III](core_06_rights_part_a.md#article-iii-survival-and-essential-access)、[V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) |
-| **连续性**：韧性 | [§10韧性与自我修复设计](#10-resilience-and-self-healing-design) | [自我修复](core_05_band_continuity.md#self-healing) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
-| **连续性**：可竞争的市场 | [§11市场结构](#11-market-structure) | [市场结构](core_05_band_accountability.md#market-structure) | [III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)、[V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)、[XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) |
+| **连续性**：韧性 | [§10韧性与自我修复设计](#10-resilience-and-self-healing-design) | [自我修复](core_05_band_continuity.md#self-healing) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[XXIII](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response) |
+| **连续性**：可竞争的市场 | [§11市场结构](#11-market-structure) | [市场结构](core_05_band_accountability.md#market-structure) | [III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)、[V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)、[XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) |
 | **连续性**：全系统视角 | [§12系统评估要求](#12-systemic-evaluation-requirement) | [系统一致性认证](core_05_band_continuity.md#system-alignment-certification) | [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
 
 **原则层级（连续性）。**在原则层面，连续性目标按以下顺序展开，首先是连接两个目标的能力：
@@ -69,7 +69,7 @@
 - 配合阅读：[宪法四柱](core_00_preamble.md#constitutional-tetrad)——参与、监督、问责与及时性决定共享系统如何追求[两个宪法目标](core_00_preamble.md#two-constitutional-aims)；按[重大利害关系](core_00_preamble.md#material-stake)进行的分级通过各节追溯适用于全章。
 - 配合阅读：[第二至第四章](core_02_definition_structure.md)和[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)——这些章节构成本章所有术语所适用的机制层；应将 O/M/A/C 的完整性、反规避、举证责任以及定义与结果之间的可追溯性一并适用。
 - 配合阅读：[第六章：基础权利](core_06_rights_part_a.md#chapter-six-foundational-rights)。
-  - 尤其包括[第VI条：平等基本权利](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[第XIII条：获得可靠且可信赖系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)，以及[第XXIV条：宪法解释、审查与防止俘获的保障](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - 尤其包括[第VI条：平等基本权利](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[第XIII条：获得可靠且可信赖系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)，以及[第XXIV条：宪法解释、审查与防止俘获的保障](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 当解释影响到受保护的有感知者、系统或机构时，应采用这一阅读方式。
 
 </details>
@@ -252,7 +252,7 @@ flowchart TB
 - 如何划分违规行为的严重程度；
 - 应附加何种后果。
 
-[**第九章**](core_09_standing_assessment.md)的状态模型规定如何分类、核验和适用这些认定；评估与合规要求则取自[**第二至第五章**](core_02_definition_structure.md)。
+[**第九章**](core_10_standing_assessment.md)的状态模型规定如何分类、核验和适用这些认定；评估与合规要求则取自[**第二至第五章**](core_02_definition_structure.md)。
 
 ### 3. 基础目标：福祉（繁荣目标）
 <details>
@@ -308,7 +308,7 @@ flowchart TB
 - 子节（阅读顺序）：[§3.1.1](#311-access-and-opportunity) · [§3.1.2](#312-benefits-and-burdens) · [§3.1.3](#313-fair-treatment) · [§3.1.4](#314-unfair-treatment)。
 - 下游：塑造平等地位、非任意待遇、有意义的质疑机会及比例限制界限等权利保障范围。
   - 尤其包括[第VI条：平等基本权利](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[第VI-C条：禁止歧视](core_06_rights_part_b.md#article-vi-c-nondiscrimination)、[第X条：自决、能动性与参与](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XIII-B条：获得补救与救济的权利](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)，以及[第XIX-B条：可争议性与比例限制界限](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)。
-  - 若违宪指定带来制裁或持久影响，应结合[第十一章第4节——正当程序保障、补救与预防](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)阅读。
+  - 若违宪指定带来制裁或持久影响，应结合[第十一章第4节——正当程序保障、补救与预防](core_12_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)阅读。
   - 第五章[§2——受保护特征、代理指标使用、亲密信号门控，以及依**第VII-E条**（*成年人双方同意的商业性服务与性剥削*）确定身份](core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination)进一步阐述反歧视承诺；当§2.1.3的公平待遇规则涉及亲密信号门控或**第VII-E条**（*成年人双方同意的商业性服务与性剥削*）时，也包括[规避受保护的亲密信号门控及依**第VII-E条**（*成年人双方同意的商业性服务与性剥削*）确定身份](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)。
 - 配合阅读：[实质公平](core_05_band_participation.md#substantive-fairness)以及相关的第六章权利底线义务，适用于利益、负担、奖励、成本、义务、风险、贡献、需要或暴露具有重大意义的情况；[可及性](core_05_band_participation.md#accessibility)适用于§2.1.1的获取途径具有重大意义的情况；[代理指标偏离](core_05_band_oversight.md#proxy-divergence)适用于汇总指标或排名效应具有重大意义的情况。
 
@@ -390,8 +390,8 @@ flowchart TB
 - 配合阅读：[宪法四元框架](core_00_preamble.md#constitutional-tetrad)——当明确命名的认可、赞誉或愿景路径实质影响发声权、地位或进入重要角色的机会时，适用**参与**支柱；**问责**支柱（不得因背叛、隐瞒或逃避问责而给予奖励）；**监督**支柱（赞誉应可追溯且不具误导性）。
 - 上游：原则：[§3 根本目标：福祉](#3-foundational-objective-wellbeing-flourishing-aim)——包括福祉作为[参与](core_05_apex_participation_leg.md#participation-constitutional)的基础；[§3.1 公平](#31-fairness)。
 - 下游：[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)；[§16 深入探讨责任治理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)；[§18 在责任治理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[§7 自由](#7-freedom-bounded-agency)。
-- 配合阅读：[第九章 §§4.3–4.4——标准化描述符目录](core_09_standing_assessment.md#43-route-descriptor-measurement-roles)，当**领域一致**的认可或比较性的**贡献轴／违规轴**描述叙事具有实质意义时。
-- 配合阅读：[第九章 §4.3——贡献侧描述符](core_09_standing_assessment.md#43-route-descriptor-measurement-roles)，当贡献性质和认可叙事具有实质意义时；另参阅[第十章 §3](core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)，了解其如何纳入问题 3。
+- 配合阅读：[第九章 §§4.3–4.4——标准化描述符目录](core_10_standing_assessment.md#43-route-descriptor-measurement-roles)，当**领域一致**的认可或比较性的**贡献轴／违规轴**描述叙事具有实质意义时。
+- 配合阅读：[第九章 §4.3——贡献侧描述符](core_10_standing_assessment.md#43-route-descriptor-measurement-roles)，当贡献性质和认可叙事具有实质意义时；另参阅[第十章 §3](core_12_standing_integration.md#3-descriptor-integration-and-attachment-normalization)，了解其如何纳入问题 3。
 - 配合阅读：[第 X 条：自我决定、能动性与参与](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)，当认可形式、可见度或选择退出方面的偏好具有实质意义时。
 - 子节（阅读顺序）：[§3.2.1](#321-recognition-and-reinforcement) · [§3.2.2](#322-celebration-of-success) · [§3.2.3](#323-aspiration) · [§3.2.4](#324-preference-aligned-recognition) · [§3.2.5](#325-aligned-recognition-pathways) · [§3.2.6](#326-anti-reward-for-anti-constitutional-conduct) · [§3.2.7](#327-implementation-layer)。
 
@@ -414,6 +414,8 @@ flowchart TB
 *通俗地说：福祉不仅涉及禁止什么、什么才公平——共同系统也应诚实地赞扬和奖励它们希望重复发生的行为，并在真相与权利的边界内，以支持而非取代真实参与的方式这样做。庆祝成功意味着认可真实的贡献、补救和完成，而不是炒作或操纵指标。这也意味着拒绝奖励违宪背叛、隐瞒、报复或逃避问责，即使这些行为为机构带来了优势。*
 
 **三个维度。** 福祉取决于系统禁止什么、如何公平分配成本，也取决于系统公开重视和强化什么，以及它们帮助有感知者追求什么。本节阐述这些认可、强化和愿景义务。若认可和赞誉实质影响发声权、地位或机会，就必须符合[参与](core_05_apex_participation_leg.md#participation-constitutional)，并遵循[§3 根本目标：福祉](#3-foundational-objective-wellbeing-flourishing-aim)和[§3.1 公平](#31-fairness)。本节与[§3.1 公平](#31-fairness)共同适用，并受安全、真相和第六章权利底线的约束。
+
+本节是[序言中的两个基本问题](core_00_preamble.md#two-fundamental-questions)与原则相接之处：[§3.2.1 认可与强化](#321-recognition-and-reinforcement)对应第一个问题，[§3.2.6 禁止奖励违宪行为](#326-anti-reward-for-anti-constitutional-conduct)对应第二个问题。
 
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 认可与强化
@@ -544,7 +546,7 @@ flowchart TB
 - 上游：原则：[3. 根本目标：福祉](#3-foundational-objective-wellbeing-flourishing-aim)；[两个宪法目标](core_00_preamble.md#two-constitutional-aims)。
 - 下游：[5.1 科学知情的探究与决策支持](#51-science-informed-inquiry-and-decision-support)、[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)、[§7 自由](#7-freedom-bounded-agency)、[13. 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)及[13.2.1 维护认识完整性](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)。
 - 下游：塑造可靠系统、信息领域完整性、审计与审查、生命周期控制、实验边界、可理解性、适应性响应和应急处理的权利范围。
-  - 尤其包括[第 XIII 条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第 XV 条：信息领域完整性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第 XVI 条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第 XVII 条：系统生命周期、环境与可逆性](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[第 XVIII 条：沙盒式创新、实验与创作自由](core_06_rights_part_c.md#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom)、[第 XXII 条：可理解性与复杂性责任治理](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)、[第 XXIII 条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)、[第 XXIV 条：宪法解释、审查与防止攫取的保障](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)，以及[第 XX 条：核实违规后的司法](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)。
+  - 尤其包括[第 XIII 条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第 XV 条：信息领域完整性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第 XVI 条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第 XVII 条：系统生命周期、环境与可逆性](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[第 XVIII 条：沙盒式创新、实验与创作自由](core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom)、[第 XXII 条：可理解性与复杂性责任治理](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)、[第 XXIII 条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response)、[第 XXIV 条：宪法解释、审查与防止攫取的保障](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)，以及[第 XX 条：核实违规后的司法](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)。
   - 这也涵盖任何因风险、证据、披露或系统完整性而决定行使或限制方式的第六章权利底线。
 
 </details>
@@ -579,7 +581,7 @@ flowchart TB
 - 上游：原则：[3. 根本目标：福祉](#3-foundational-objective-wellbeing-flourishing-aim)；[两个宪法目标](core_00_preamble.md#two-constitutional-aims)。
 - 下游：[5.1 科学知情的探究与决策支持](#51-science-informed-inquiry-and-decision-support)、[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)、[13. 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[13.2.1 维护认识完整性](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)、[13.2.2 信任与真相的一致性](core_01_b_interaction_interpretation.md#1322-trust-truth-alignment)以及[14. 禁止绝对优先适用](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下游：为真实证据、可审计性、科学完整性、回顾性审查和可争议披露的权利范围提供基础。
-  - 尤其包括[第 XIII 条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第 XV 条：信息领域完整性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第 XVI 条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第 XVIII-E 条：科学出版、审查与复现完整性](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)、[第 XXIV 条：宪法解释、审查与防止攫取的保障](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)，以及[第 XXV-A 条：回顾性审查与披露](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)。
+  - 尤其包括[第 XIII 条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第 XV 条：信息领域完整性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第 XVI 条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第 XVIII-E 条：科学出版、审查与复现完整性](core_06_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity)、[第 XXIV 条：宪法解释、审查与防止攫取的保障](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)，以及[第 XXV-A 条：回顾性审查与披露](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure)。
   - 这也涵盖第六章权利底线中涉及真实性、证据、披露或可争议性的情境。
 
 </details>
@@ -610,10 +612,10 @@ flowchart TB
 - 配合阅读：[宪法四元框架](core_00_preamble.md#constitutional-tetrad)——受影响方必须理解并质疑经验性主张时适用**参与**支柱；**监督**支柱（独立审查、可审计性）；按[重大利害关系](core_00_preamble.md#material-stake)调整适用程度。
 - 配合阅读：[两个宪法目标](core_00_preamble.md#two-constitutional-aims)——**繁盛**目标（为**安全**和**真相**提供诚实证据）；**延续**目标（可纠正的长期经验责任治理）。
 - 上游：原则：[§4 安全](#4-safety-harm-constraint)和[§5 真相](#5-truth-epistemic-integrity-constraint)；[两个宪法目标](core_00_preamble.md#two-constitutional-aims)。
-- 下游：[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)、[§16 深入探讨责任治理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13.2 认识披露约束](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)以及[§18 在责任治理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 下游：[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)、[§16 深入探讨责任治理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13.2 认识披露约束](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)以及[§18 在责任治理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 下游：塑造可靠经验性证据、专家证据标准、科学出版与复现完整性、独立核验、生命周期测试、根因审查和安全敏感披露的权利范围。
-  - 尤其包括[第 XIII 条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第 XVI 条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第 XVIII-E 条：科学出版、审查与复现完整性](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)、[第 XXIII 条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)以及[第 XXV-A 条：回顾性审查与披露](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)。
-- 配合阅读：[第十二章 §4.2——技术论坛领域](core_12_forum.md#42-technical-forum-domains)（*包括共同标准和防止取代*），当专家证据标准、经认证的技术问题或证据责任治理争议具有实质意义时；已采纳的专门路径参阅[corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)（*技术专家论坛和专家审议庭*）。
+  - 尤其包括[第 XIII 条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第 XVI 条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第 XVIII-E 条：科学出版、审查与复现完整性](core_06_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity)、[第 XXIII 条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response)以及[第 XXV-A 条：回顾性审查与披露](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure)。
+- 配合阅读：[第十二章 §4.2——技术论坛领域](core_13_forum.md#42-technical-forum-domains)（*包括共同标准和防止取代*），当专家证据标准、经认证的技术问题或证据责任治理争议具有实质意义时；已采纳的专门路径参阅[corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)（*技术专家论坛和专家审议庭*）。
 
 </details>
 
@@ -646,7 +648,7 @@ flowchart TB
 
 科学方法、系统性探究和同行评审确立了标准，但并非唯一可接受的程序。所需正式程度取决于利害关系：影响越大的决策，证据实践就应越严格，并由[按分类定级的治理](core_05_band_oversight.md#classification-scaled-governance)管辖。
 
-若争议涉及何谓良好的专家证据、哪些方法可靠或谁负责管理证据，应交由处理这些问题的论坛审理。参见[第十二章 §4.2 技术论坛领域](core_12_forum.md#42-technical-forum-domains)中的**技术论坛领域**。技术论坛确保不同领域采用一致标准，并可回答经认证的技术问题。它们不会仅因利害关系而接管本应由其他论坛处理的案件。
+若争议涉及何谓良好的专家证据、哪些方法可靠或谁负责管理证据，应交由处理这些问题的论坛审理。参见[第十二章 §4.2 技术论坛领域](core_13_forum.md#42-technical-forum-domains)中的**技术论坛领域**。技术论坛确保不同领域采用一致标准，并可回答经认证的技术问题。它们不会仅因利害关系而接管本应由其他论坛处理的案件。
 
 有时，安全确实足以成为限制发布或分享内容的理由，例如限制数据访问、方法的运作方式或重复研究所需材料。这类限制仅在以下依据下允许：
 
@@ -664,9 +666,9 @@ flowchart TB
 - 与[宪法四支柱](core_00_preamble.md#constitutional-tetrad)一并阅读 — **参与**支柱（可理解的参与）；**监督**支柱（审计与核验易于阅读）；按[实质利害关系](core_00_preamble.md#material-stake)调整尺度。
 - 与[两项宪法目标](core_00_preamble.md#two-constitutional-aims)一并阅读 — **Flourishing**目标（通过可理解地参与**真相**实现有意义的行动能力）；**Continuity**目标（机构的可读性长期持久）。
 - 上游：原则：[§5 真相](#5-truth-epistemic-integrity-constraint)、[5.1 科学知情的探究与决策支持](#51-science-informed-inquiry-and-decision-support)、[§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)，以及[§19.1.3 受托管理与运营者的应用](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)；[两项宪法目标](core_00_preamble.md#two-constitutional-aims)。
-- 下游：权利范围：[第VI-D条：可及性](core_06_rights_part_b.md#article-vi-d-accessibility)、[第IV条：以有感知生命为中心的教育权](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[第XVI条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XXII条：可理解性与复杂性受托管理](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)。
+- 下游：权利范围：[第VI-D条：可及性](core_06_rights_part_b.md#article-vi-d-accessibility)、[第IV条：以有感知生命为中心的教育权](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[第XVI条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XXII条：可理解性与复杂性受托管理](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)。
 - 交叉引用：[core_02_definition_structure.md](core_02_definition_structure.md) 中第二至第四章的定义机制和通俗语言保障，在定义层仍具有约束力。
-- 子节（阅读顺序）：[§5.2.1](#521-scope) · [§5.2.2](#522-the-duty) · [§5.2.3](#523-definitional-rigor-preserved) · [§5.2.4](#524-jargon-as-defeat-discipline) · [§5.2.5](#525-rights-floor-boundary)。
+- 子节（阅读顺序）：[§5.2.1](#521-scope) · [§5.2.2](#522-the-duty) · [§5.2.3](#523-definitional-rigor-preserved) · [§5.2.4](#524-complexity-as-defeat-discipline) · [§5.2.5](#525-rights-floor-boundary)。
 
 </details>
 
@@ -713,7 +715,7 @@ flowchart TB
 - 组织文本，使有感知生命能够找到所需信息并轻松阅读。这支持[第IV条](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)（*以有感知生命为中心的教育权*）所承认的学习利益。
 - 使复杂程度与需要传达的内容相称。
 
-若复杂内容增加了阅读难度，却没有服务于宪法目的，即构成[§13.3 尽量减少可避免的负担](core_05_band_continuity.md#avoidable-burden)项下的[可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)缺陷。根据[第XXII条](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)（*可理解性与复杂性受托管理*），这同样值得关注。
+若复杂内容增加了阅读难度，却没有服务于宪法目的，即构成[§13.3 尽量减少可避免的负担](core_05_band_continuity.md#avoidable-burden)项下的[可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)缺陷。根据[第XXII条](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)（*可理解性与复杂性受托管理*），这同样值得关注。
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 保持定义严谨性
@@ -725,17 +727,22 @@ flowchart TB
 
 用更简单的语言书写不会改变含义。如果通俗语言摘要与其所概括的正式定义看似表达不同内容，以正式定义为准——并且必须修改摘要，使其与正式定义一致。
 
-<a id="524-jargon-as-defeat-discipline"></a>
-##### 5.2.4 防止用术语阻挠的规则
+<a id="524-complexity-as-defeat-discipline"></a>
+##### 5.2.4 禁止利用结构复杂性妨碍权利的规则
 
 系统不得使用复杂语言、令人困惑的程序或故意含混，阻止有感知生命[质疑](core_05_band_accountability.md#contestability)决定、行使其[有意义的行动能力](core_05_band_participation.md#meaningful-agency)、取得[审计资料](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)，或行使其[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)权利。
+
+复杂性也不得通过结构来规避规则。不得借助技术、组织、合同或程序层级来阻挠审计、质疑或纠正。不得堆叠组件、机构间交接、协议或程序步骤，以致无人能够看清全貌，或使责任、可观察性、补救途径在层级之间丢失。
+
+
+
 
 相反的做法同样禁止。通俗语言不得歪曲规则的实际作用、隐瞒其真实效果，或取代有效文本。这违反了[真相](core_05_band_oversight.md#truth-constitutional-constraint)约束。
 
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 权利底线边界
 
-有关可及性、教育和可理解性的权利底线分别见[第VI-D条](core_06_rights_part_b.md#article-vi-d-accessibility)（*可及性*）、[第IV-A条](core_06_rights_part_a.md#article-iv-a-equal-educational-access)（*平等教育机会*）和[第XXII条](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)（*可理解性与复杂性受托管理*）。本节阐述支持这些底线的原则层义务。
+有关可及性、教育和可理解性的权利底线分别见[第VI-D条](core_06_rights_part_b.md#article-vi-d-accessibility)（*可及性*）、[第IV-A条](core_06_rights_part_a.md#article-iv-a-equal-educational-access)（*平等教育机会*）和[第XXII条](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)（*可理解性与复杂性受托管理*）。本节阐述支持这些底线的原则层义务。
 
 ### 6. 信任与可信赖性（协调完整性）
 <details>
@@ -748,7 +755,7 @@ flowchart TB
 - 子节：[§6.1 更正与补救](#61-correction-and-remedy)。
 - 下游：[§10 韧性与自我修复设计](#10-resilience-and-self-healing-design) — Continuity 对恢复和自我修复的展开，信任依赖于此。
 - 下游：塑造行动能力、可靠依赖、透明度、地位及防止俘获审查方面的权利范围。
-  - 尤其是[第X条：自我决定、行动能力与参与](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XIII条：可靠且可信赖系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第XV条：信息空间完整性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XVI条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XIX条：地位与参与状态](core_06_rights_part_d.md#article-xix-standing-and-participation-status)，以及[第XXIV条：宪法解释、审查与反俘获保障](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - 尤其是[第X条：自我决定、行动能力与参与](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XIII条：可靠且可信赖系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第XV条：信息空间完整性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XVI条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XIX条：地位与参与状态](core_06_rights_part_d.md#article-xix-standing-and-participation-status)，以及[第XXIV条：宪法解释、审查与反俘获保障](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 这也涵盖第六章中依赖、正当性或可质疑性受到影响的任何情形。
 
 </details>
@@ -777,7 +784,7 @@ flowchart TB
 - [**实质性**](core_05_band_oversight.md#materiality)决定必须展示和解释多少 — 依赖系统的有感知生命所面临的利害越大，系统就越应披露并说明理由。
 - [**信任退化与误导性依赖**](core_05_band_continuity.md#trust-degradation-and-misleading-reliance)指明失效模式 — 系统以违宪误导的方式制造、维持或评价依赖时即属此类。
 
-若依赖通过压制、欺骗、暗中转移风险或类似手段建立或维持，信任就会失效 — 包括任何实质损害有感知生命发现并质疑系统性风险之能力的做法。[第八章](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation)下的[**系统一致性认证**](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)流程，是系统证明其信任主张经得起检验的途径：认证必须基于可质疑的记录，核实系统的实际行为与其表述一致，而不能仅依赖运营者的断言。
+若依赖通过压制、欺骗、暗中转移风险或类似手段建立或维持，信任就会失效 — 包括任何实质损害有感知生命发现并质疑系统性风险之能力的做法。[第八章](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)下的[**系统一致性认证**](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)流程，是系统证明其信任主张经得起检验的途径：认证必须基于可质疑的记录，核实系统的实际行为与其表述一致，而不能仅依赖运营者的断言。
 
 信任也取决于系统发生故障时如何处理。可信赖的系统会纠正自身错误：[§6.1 更正与补救](#61-correction-and-remedy)使更正成为信任的一部分，而非事后补救。
 
@@ -790,7 +797,7 @@ flowchart TB
 - 参见：[宪法四元](core_00_preamble.md#constitutional-tetrad)——**问责**支柱（说明责任、补偿与切实更正）；**及时性**支柱（在延误使补救无法获得之前提供补救）；补救深度依[重大利害](core_00_preamble.md#material-stake)而调整。
 - 参见：[宪法的两个目标](core_00_preamble.md#two-constitutional-aims)——**繁荣**目标（失败得到纠正，因此依赖仍有根据）；**延续性**目标（在时间推移、继承和重组中保持持久的补救能力）。
 - 上游：原则：[§4 安全](#4-safety-harm-constraint)、[§5 真实](#5-truth-epistemic-integrity-constraint)和[§6 信任](#6-trust-and-trustworthiness-coordination-integrity)。
-- 下游：[第XIII-B条：获得补偿与补救的权利](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)；[第十章 §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*执行现实与补救制度*），涉及诉讼资格后果；[CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*补救制度与机构补偿能力*），涉及机构实施。
+- 下游：[第XIII-B条：获得补偿与补救的权利](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)；[第十章 §9](core_12_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*执行现实与补救制度*），涉及诉讼资格后果；[CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*补救制度与机构补偿能力*），涉及机构实施。
 
 </details>
 
@@ -820,7 +827,7 @@ flowchart TB
 - **及时提供：**若补救要等到伤害已不可逆，或有感知者被消磨到放弃之后才到来，那就不算补救（参见[及时解决](core_05_band_accountability.md#timely-resolution)）。
 - **由责任方承担：**在责任行为方有能力承担时，不得将更正成本转嫁给受害者、其社群或公共补救制度。费用、重组或继承本身不会终止义务。
 
-第六章[第XIII-B条](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)（*获得补偿与补救的权利*）规定了更正权。[第十章 §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*执行现实与补救制度*）将此原则用于诉讼资格后果，[CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*补救制度与机构补偿能力*）规定其机构实施。
+第六章[第XIII-B条](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)（*获得补偿与补救的权利*）规定了更正权。[第十章 §9](core_12_standing_integration.md#9-enforcement-realism-and-remedy-systems)（*执行现实与补救制度*）将此原则用于诉讼资格后果，[CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*补救制度与机构补偿能力*）规定其机构实施。
 
 ### 7. 自由（有界自主性）
 <a id="7-freedom-bounded-agency"></a>
@@ -831,12 +838,12 @@ flowchart TB
 - 参见：[宪法的两个目标](core_00_preamble.md#two-constitutional-aims)——**繁荣**目标（本章发展**有意义的自主性**）；**延续性**目标（有界自主性维护持久且可受质疑的宪法制度）。
 - 参见：[自愿终止](core_05_band_continuity.md#voluntary-discontinuation)、第五章 §2 *自主性、同意与反胁迫*，以及[集会、集体组织与机构形成](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation)。
 - 参见：[§17 后果责任治理](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)与[§19.1.4 角色深度与重大责任路径](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)——角色深度、能力和重大责任路径；在安全与同意允许时，有意义的自主性包括进入学习角色、运营和承担实质后果义务的真实途径；当影响要求承担实质义务时，象征性参与不得取而代之。
-- 参见：[§11 市场结构](#11-market-structure)，尤其是[§11.2 促进竞争与反支配](#112-pro-competition-and-anti-domination)，以及[第XXI条：互操作性、可移植性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)：当集中、支配或锁定实质限制自主性时，可受质疑的市场、退出途径和反支配纪律能使大规模自主性保持真实。
-- 参见：[§7.1 限制纪律](#71-limitation-discipline)与[第八章 §3.2 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)——关于限制自由和评估时间一致性的操作纪律；当自由限制与其他价值或权利冲突时，在满足**安全**和**真实**之后，依据[§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)至[§13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)解决。
+- 参见：[§11 市场结构](#11-market-structure)，尤其是[§11.2 促进竞争与反支配](#112-pro-competition-and-anti-domination)，以及[第XXI条：互操作性、可移植性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)：当集中、支配或锁定实质限制自主性时，可受质疑的市场、退出途径和反支配纪律能使大规模自主性保持真实。
+- 参见：[§7.1 限制纪律](#71-limitation-discipline)与[第八章 §3.2 时间一致性约束](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)——关于限制自由和评估时间一致性的操作纪律；当自由限制与其他价值或权利冲突时，在满足**安全**和**真实**之后，依据[§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)至[§13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)解决。
 - 上游：原则：[§3.2 认可、强化与志向](#32-recognition-reinforcement-and-aspiration)；[§4 安全](#4-safety-harm-constraint)；[§5 真实](#5-truth-epistemic-integrity-constraint)；[§6 信任](#6-trust-and-trustworthiness-coordination-integrity)；以及[宪法的两个目标](core_00_preamble.md#two-constitutional-aims)。
 - 下游：[§7.1 限制纪律](#71-limitation-discipline)至[§7.4 自愿终止、重大自我修改与退出权](#74-voluntary-discontinuation-and-exit-rights)；[§18.2 机构世俗主义与世界观中立](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)（*自由原则在公共权力领域的对应规定*）；[第13节 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)；[第14节 禁止绝对优先](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)；[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)；以及具体适用需要处理冲突时的[宪法冲突记录](core_05_band_integrative.md#constitutional-collision-record)。
 - 下游：界定平等地位、教育、自我所有权、出版与肖像控制、自主性、合作互动、正当程序、诉讼资格和反俘获审查等权利范围。
-  - 尤其包括[第VI条：平等基本权利](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[第IV条：以有感知者为中心的教育权](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[第VII条：自我所有权](core_06_rights_part_b.md#article-vii-self-ownership)、[第IX条：肖像、体验数据与出版权](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights)、[第X条：自决、自主性与参与权](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XI条：良心、表达、结社与合作互动权](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction)、[第XII条：利益相关方参与制度、代表与正当程序](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)、[第XIX条：诉讼资格与参与状态](core_06_rights_part_d.md#article-xix-standing-and-participation-status)，以及[第XXIV条：宪法解释、审查与反俘获保障](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - 尤其包括[第VI条：平等基本权利](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[第IV条：以有感知者为中心的教育权](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[第VII条：自我所有权](core_06_rights_part_b.md#article-vii-self-ownership)、[第IX条：肖像、体验数据与出版权](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights)、[第X条：自决、自主性与参与权](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XI条：良心、表达、结社与合作互动权](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction)、[第XII条：利益相关方参与制度、代表与正当程序](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)、[第XIX条：诉讼资格与参与状态](core_06_rights_part_d.md#article-xix-standing-and-participation-status)，以及[第XXIV条：宪法解释、审查与反俘获保障](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 这也涵盖第六章任何涉及自主性受限或被主张的权利底线情形。
 
 </details>
@@ -978,7 +985,7 @@ flowchart TB
 
 - **本节不作的改变：****§7.2**（*集会、集体组织与制度形成*）将[反分割原则](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)应用于本主题，并仅增列[§7.2.1 协调一致的自我组织](#721-aligned-self-organization)这一指引。它不会创设、扩张或缩窄任何第六章权利底线条款。
 - **分项处理：**公民结社、劳动组织、平台访问及许可框架。如果这种分割保留了形式上的访问权，却挫败集会或集体组织保护，即属不合规。
-- **整体系统评估：**凡完整定义簇适用，在分类、治理或合规主张成立之前，必须依据[第八章§3.7 集会、集体组织与制度形成](core_08_a_system_alignment_certification_evaluation.md#37-assembly-collective-organization-and-institutional-formation)检验是否违反反分割原则。
+- **整体系统评估：**凡完整定义簇适用，在分类、治理或合规主张成立之前，必须依据[第八章§3.7 集会、集体组织与制度形成](core_09_a_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation)检验是否违反反分割原则。
 
 ##### 7.2.1 协调一致的自我组织
 <a id="721-aligned-self-organization"></a>
@@ -1035,13 +1042,9 @@ flowchart TB
 
 **行使自由不得导致资格或发言权受损。**感知者行使这项自由，不得成为降低其资格、缩小其角色任职范围、减少其治理发言权，或在系统一致性认证中对其不利的理由。具体规则，包括公民不服从规则，以及对异议之后不利措施所适用的举证责任，载于**[第 XI-D 条](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)（*集会、异议与和平抗议*）**。
 
-评估整个系统时，必须依据[第八章§3.7.1 异议与和平抗议](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest)检查系统如何对待异议与和平抗议。在完成该检查之前，在本节适用之处，任何人都不得宣称系统已得到妥善分类、治理良好或合规。
+评估整个系统时，必须依据[第九章§4.3.1 异议与和平抗议](core_09_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)检查系统如何对待异议与和平抗议。在完成该检查之前，在本节适用之处，任何人都不得宣称系统已得到妥善分类、治理良好或合规。
 
-**本节不作的改变：**
-
-- **§7.3**（*异议与和平抗议*）阐明第六章底线背后的自由原则。
-- 它不会缩窄**第 XI-D 条**（*集会、异议与和平抗议*）的范围。
-- 它不保护那些可独立区分、且本身违反安全要求或其他感知者权利底线最低标准的行为。
+**范围。**本小节不保护可分离且独立违反安全要求或其他有感知生命权利底线最低标准的行为。
 
 #### 7.4 自愿终止、重大自我修改与退出权
 
@@ -1085,7 +1088,7 @@ flowchart TB
 - 性同意
 - 商业服务
 
-凡适用范围成立，在分类、治理、限制或合规主张成立之前，整体系统评估必须依照[第八章§3.6 自愿终止、重大自我修改与退出权](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)检验这些条件。
+凡适用范围成立，在分类、治理、限制或合规主张成立之前，整体系统评估必须依照[第八章§3.6 自愿终止、重大自我修改与退出权](core_09_a_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights)检验这些条件。
 
 #### 7.5 表达与伤害界线
 
@@ -1216,7 +1219,7 @@ flowchart TB
 - 上游：原则：[序言 §1 模型](core_00_preamble.md#the-model)；[两个宪法目标](core_00_preamble.md#two-constitutional-aims)——**连续性**目标的展开；[3. 基础目标：福祉](#3-foundational-objective-wellbeing-flourishing-aim)、[§6 信任与可信赖性](#6-trust-and-trustworthiness-coordination-integrity)以及[§7 自由](#7-freedom-bounded-agency)。
 - 下游：[§13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[18. 受管护纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)以及[§19.1.3 管护者与运营者的适用方式](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)。
 - 下游：影响**CJS-3.11.1——集中度门槛设定纪律（采纳者可调整）**（操作性门槛设定规则）。
-- 下游：塑造生态前提、资源分配、教育与发展能力、生命周期韧性、互操作性、可理解性和适应性响应方面的权利范围；尤其涉及[第 I-A 条：环境前提与生态完整性](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)、[第 III 条：生存与基本服务获取](core_06_rights_part_a.md#article-iii-survival-and-essential-access)、[第 V 条：资源分配、依赖关系与生态系统资金](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)、[第 X 条：自我决定、能动性与参与](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第 XVII 条：系统生命周期、环境与可逆性](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[第 XXI 条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)、[第 XXII 条：可理解性与复杂性管护](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)以及[第 XXIII 条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)。
+- 下游：塑造生态前提、资源分配、教育与发展能力、生命周期韧性、互操作性、可理解性和适应性响应方面的权利范围；尤其涉及[第 I-A 条：环境前提与生态完整性](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)、[第 III 条：生存与基本服务获取](core_06_rights_part_a.md#article-iii-survival-and-essential-access)、[第 V 条：资源分配、依赖关系与生态系统资金](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)、[第 X 条：自我决定、能动性与参与](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第 XVII 条：系统生命周期、环境与可逆性](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[第 XXI 条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)、[第 XXII 条：可理解性与复杂性管护](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)以及[第 XXIII 条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response)。
 - 子节（阅读顺序）：[§9.1 生产能力（工具性善）](#91-productive-capacity-instrumental-good) · [§9.1.1 保全、扩展及不计入的内容](#911-preserve-expand-and-what-does-not-count) · [§9.2 宪法效率](#92-constitutional-efficiency)。
 
 </details>
@@ -1409,9 +1412,9 @@ flowchart TB
 - 上游：[§9 共享系统能力](#9-shared-system-capacity)——韧性所保护并恢复的持久能力。
 - 与以下内容一并阅读：[两项宪法目标](core_00_preamble.md#two-constitutional-aims)——**连续性**目标（韧性与自我修复规约）；**繁荣**目标（恢复可信，且不损害认知完整性）。
 - 上游：原则：[序言 §1 模型](core_00_preamble.md#the-model)；[两项宪法目标](core_00_preamble.md#two-constitutional-aims)；[§4 安全](#4-safety-harm-constraint)、[§5 真相](#5-truth-epistemic-integrity-constraint)及[§6 信任](#6-trust-and-trustworthiness-coordination-integrity)。
-- 下游：[§16 深入探讨管理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)以及[§14 禁止绝对优先](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 下游：[§16 深入探讨管理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)以及[§14 禁止绝对优先](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下游：塑造有关可靠性与恢复、根因诚实性、可逆性，以及降级和恢复状态可理解性的权利范围。
-  - 尤其包括[第XIII条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)（包括**第XIII-F条**（*韧性与自我修复基线*））、[第XVI条：审计、透明度与独立验证](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XVII条：系统生命周期、环境与可逆性](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[第XXII条：可理解性与复杂性管理](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)以及[第XXIII条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)。
+  - 尤其包括[第XIII条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)（包括**第XIII-F条**（*韧性与自我修复基线*））、[第XVI条：审计、透明度与独立验证](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XVII条：系统生命周期、环境与可逆性](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[第XXII条：可理解性与复杂性管理](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)以及[第XXIII条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response)。
 
 </details>
 
@@ -1450,9 +1453,9 @@ flowchart TB
 - 与以下内容一并阅读：[宪法四元结构](core_00_preamble.md#constitutional-tetrad)——当集中或支配挫败发声、审查、答责或及时纠正时，涉及参与、监督、问责和及时性；按[实质利益](core_00_preamble.md#material-stake)调整审查尺度（尤其是[§11.2 促进竞争与防止支配](#112-pro-competition-and-anti-domination)）。
 - 与以下内容一并阅读：[两项宪法目标](core_00_preamble.md#two-constitutional-aims)——**连续性**目标（可争辩、持久的生产条件）；**繁荣**目标（公平获取生计、能动性和创新途径）。
 - 上游：原则：[§9 共享系统能力](#9-shared-system-capacity)——若集中或支配掏空生产能力与效率，相关主张即不成立；[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
-- 下游：[第十一章 §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)（[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)）。
+- 下游：[第十一章 §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)（[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)）。
 - 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（[§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable)和[§11.4](#114-resource-and-dependency-concentration-adopter-tunable)规定其适用规则）；**CJS-3.11.2 — 反支配行为与补救措施目录**（[§11.2](#112-pro-competition-and-anti-domination)规定的禁止行为及其补救）；**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（[§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)规定的上限设定方法）。
-- 下游：塑造资源分配、公平报酬、集体组织、互操作性、退出和防止俘获审查等权利范围；尤其包括[第III-C条：劳动与经济底线](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)、[第V条：资源分配、依赖关系与生态系统资金](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)，以及[第XXI条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)。
+- 下游：塑造资源分配、公平报酬、集体组织、互操作性、退出和防止俘获审查等权利范围；尤其包括[第III-C条：劳动与经济底线](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)、[第V条：资源分配、依赖关系与生态系统资金](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)，以及[第XXI条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)。
 - 子节（阅读顺序）：[§11.1 市场集中阈值机制（由采纳方调整）](#111-market-concentration-threshold-mechanism-adopter-tunable) · [§11.1.1 集中阈值触发条件（由采纳方调整）](#1111-concentration-threshold-triggers-adopter-tunable) · [§11.2 促进竞争与防止支配](#112-pro-competition-and-anti-domination) · [§11.3 整合上限](#113-consolidation-ceiling) · [§11.4 资源与依赖关系集中（由采纳方调整）](#114-resource-and-dependency-concentration-adopter-tunable)。
 
 </details>
@@ -1496,7 +1499,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11 市场结构](#11-market-structure)；[市场集中阈值](core_05_band_accountability.md#market-concentration-threshold)。
-- 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（有效的阈值设定规则）；[§11.2 促进竞争与防止支配](#112-pro-competition-and-anti-domination)；[§11.3 整合上限](#113-consolidation-ceiling)；[CJS-3.11.3 — 整合上限设定规约（由采纳方调整）](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)规定的有效上限设定规则）；[第九章 §4 问题2——结果有多好或多坏？](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it)；[第十一章 §5.1 基于集中的颠覆](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（有效的阈值设定规则）；[§11.2 促进竞争与防止支配](#112-pro-competition-and-anti-domination)；[§11.3 整合上限](#113-consolidation-ceiling)；[CJS-3.11.3 — 整合上限设定规约（由采纳方调整）](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)规定的有效上限设定规则）；[第九章 §4 问题2——结果有多好或多坏？](core_10_standing_assessment.md#4-question-2--how-good-or-bad-was-it)；[第十一章 §5.1 基于集中的颠覆](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - 管理者入口（不具规范效力）：下一步卡片：[市场结构](implementation/STEWARD_ENTRY_DOORS.md#market-structure)。
 - 子节（阅读顺序）：[§11.1.1 集中阈值触发条件（由采纳方调整）](#1111-concentration-threshold-triggers-adopter-tunable)。
 
@@ -1519,8 +1522,8 @@ flowchart TB
 
 - **规定：**为[§11 市场结构](#11-market-structure)底线确立原则层面的阈值方向。
 - **不规定：**经核实的伤害有多严重，也不作出不当行为认定。
-- **利用集中来破坏本宪法时：**依据[第十一章 §5.1 基于集中的颠覆](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)判断该不当行为。
-- **制造、维持或利用超过底线的集中时：**可将案件提交第十一章审查是否应认定为不当行为，但必须经过两个步骤。首先，[第九章 §4 问题2——结果有多好或多坏？](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it)必须已将经核实的伤害评为最严重的三个等级之一。随后，第十一章检查该集中是否符合标准3（撤销保护的规避手段）、标准4（损害权利底线保护或阻止异议），或标准6（使宪法程序在实际中无法使用）。
+- **利用集中来破坏本宪法时：**依据[第十一章 §5.1 基于集中的颠覆](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)判断该不当行为。
+- **制造、维持或利用超过底线的集中时：**可将案件提交第十一章审查是否应认定为不当行为，但必须经过两个步骤。首先，[第九章 §4 问题2——结果有多好或多坏？](core_10_standing_assessment.md#4-question-2--how-good-or-bad-was-it)必须已将经核实的伤害评为最严重的三个等级之一。随后，第十一章检查该集中是否符合标准3（撤销保护的规避手段）、标准4（损害权利底线保护或阻止异议），或标准6（使宪法程序在实际中无法使用）。
 
 **宪法底线：**
 
@@ -1576,8 +1579,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11 市场结构](#11-market-structure)；[市场结构](core_05_band_accountability.md#market-structure)。
-- 下游：**CJS-3.11.2 — 反支配行为与补救措施目录**（有效的行为模式与补救措施）；[§11.3 整合上限](#113-consolidation-ceiling)；[第十一章 §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
-- 与以下内容一并阅读：[第III-C条：劳动与经济底线](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)（劳动流动权利底线）；[第XXI条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)（[必要性](core_05_band_accountability.md#necessity)、[比例性](core_05_band_accountability.md#proportionality)、[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)）。
+- 下游：**CJS-3.11.2 — 反支配行为与补救措施目录**（有效的行为模式与补救措施）；[§11.3 整合上限](#113-consolidation-ceiling)；[第十一章 §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 与以下内容一并阅读：[第III-C条：劳动与经济底线](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)（劳动流动权利底线）；[第XXI条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)（[必要性](core_05_band_accountability.md#necessity)、[比例性](core_05_band_accountability.md#proportionality)、[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)）。
 - 子节（阅读顺序）：[§11.2.1 促进竞争的义务（应做事项）](#1121-pro-competition-duties-dos) · [§11.2.2 防止支配的禁令（不得做事项）](#1122-anti-domination-prohibitions-donts) · [§11.2.3 补救措施](#1123-remedies)。
 
 </details>
@@ -1826,7 +1829,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11.3 整合上限](#113-consolidation-ceiling)；[§11.3.1 整合风险（锁定前的损害）](#1131-consolidation-risk-pre-lock-in-impairment)。
-- 下游：**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（有效的上限设定规则）；[CJS-3.11.2 — 反支配行为与补救措施目录](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)（违反上限时的补救转介路径）；[第十一章 §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（有效的上限设定规则）；[CJS-3.11.2 — 反支配行为与补救措施目录](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)（违反上限时的补救转介路径）；[第十一章 §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 </details>
 
@@ -1914,7 +1917,7 @@ flowchart TB
 - 与以下内容一并阅读：连续性测量系列（*韧性、可逆性与系统性风险*）。
 - 与以下内容一并阅读：[宪法四元结构](core_00_preamble.md#constitutional-tetrad)、[两项宪法目标](core_00_preamble.md#two-constitutional-aims)，并按[实质利益](core_00_preamble.md#material-stake)调整尺度。
 - 与以下内容一并阅读：[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[§16 深入探讨管理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)以及[§19 激励一致性与系统俘获](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)。
-- 与以下内容一并阅读：**[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**——用于评估整个系统是否可获认证的因素。认证是四元结构中**监督**要素下的一项特别大型审计，并非唯一的审计场景。
+- 与以下内容一并阅读：**[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**——用于评估整个系统是否可获认证的因素。认证是四元结构中**监督**要素下的一项特别大型审计，并非唯一的审计场景。
 - 与以下内容一并阅读：**第XVI条**（*审计、透明度与独立验证*）及[可审计性](core_05_band_oversight.md#auditability)——第八章必须满足且其他同类审计模式也须落实的审计底线。
 - 与以下内容一并阅读：**[corpus_systems.md](corpus_systems.md)，CS-3 — 系统分类与处理**及[按分类调整的治理](core_05_band_oversight.md#classification-scaled-governance)——按类别适用、记录形式、重新分类触发条件和处理方案。
 - 上游：[§16 深入探讨管理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)；[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)。
@@ -1952,8 +1955,8 @@ flowchart TB
 - 解除条件。
 
 详细评估因素与认证记录由以下文件负责：
-- **[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
-- **[第八章 §6 系统认证记录](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**；
+- **[第八章 §3 全系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
+- **[第八章 §6 系统认证记录](core_09_b_system_alignment_certification_record_process.md#6-system-certification-record)**；
 - **[corpus_systems.md](corpus_systems.md)，CS-3 — 系统分类与处理**。
 
 第八章的程序：
