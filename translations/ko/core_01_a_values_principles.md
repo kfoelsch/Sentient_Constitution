@@ -1095,13 +1095,13 @@ flowchart TB
 
 *권리층 홈.* **[제XI-B](core_06_rights_part_b.md#article-xi-b-expression)(*표현*)**에는 수술적 표현 바닥이 명시되어 있으며, **[제XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)(*집단 피해 경계 및 집행 인터페이스*)**에는 집단적 피해가 시작되는 위치가 명시되어 있습니다. 이 하위 섹션에서는 이를 결합하는 자유 원칙을 설명하고 자체 규칙을 추가하지 않습니다.
 
-- [표현식](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
-- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [괴롭힘 및 괴롭힘](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
-- [잔인함](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [집단 피해 경계](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
-- [필요함](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [비례](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [표현식](../../core_05_band_participation.md#expression) · [O](../../core_05_band_participation.md#expression) · [M](../../core_05_band_participation.md#expression-constitutional-a) · [A](../../core_05_band_participation.md#expression-constitutional-a) · [C](../../core_05_band_participation.md#expression-constitutional-c)
+- [Harm](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
+- [괴롭힘 및 괴롭힘](../../core_05_band_accountability.md#harassment-and-bullying) · [O](../../core_05_band_accountability.md#harassment-and-bullying) · [M](../../core_05_band_accountability.md#harassment-and-bullying-a) · [A](../../core_05_band_accountability.md#harassment-and-bullying-a) · [C](../../core_05_band_accountability.md#harassment-and-bullying-c)
+- [잔인함](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
+- [집단 피해 경계](../../core_05_band_accountability.md#collective-harm-boundary) · [O](../../core_05_band_accountability.md#collective-harm-boundary) · [M](../../core_05_band_accountability.md#collective-harm-boundary-a) · [A](../../core_05_band_accountability.md#collective-harm-boundary-a) · [C](../../core_05_band_accountability.md#collective-harm-boundary-c)
+- [필요함](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [비례](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1121,7 +1121,7 @@ flowchart TB
 
 **라벨 및 주제는 시험을 변경하지 않습니다.** 종교적, 정치적, 이념적, 문화적, 예술적 또는 상업적 라벨은 타인에게 해를 끼치거나 **[6조-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination)(*비차별*)**)에서 금지된 방식으로 취급하는 표현을 보호되는 표현으로 바꾸지 않습니다. 주제나 관점이 보호받는 표현을 해롭게 만들지 않습니다. **[XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)조(*양심, 종교 및 유사한 세계관의 자유*)**는 타인의 권리와 일관되게 신념을 보유하고 표현하는 것을 보호합니다.
 
-**표현을 제한하는 것은 증거로 사용하는 것과 다릅니다.** 표현의 제한은 [§7.1 제한규정](#71-limitation-discipline) 및 **[제XI-B](core_06_rights_part_b.md#article-xi-b-expression)(*표현*)**을 충족해야 하며, 말한 내용을 대상으로 한 제한은 거기에서 가장 엄격한 심사를 받습니다. 지각 있는 사람이 말한 내용을 의도, 목적 또는 권위의 증거로 사용하는 것은 제한이 없습니다. [제7장 §4 구성 확인: 공직자 지위 및 진정성](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity) 등 질문을 하는 장의 증거 규칙을 따르며, 발언 자체에 대한 벌칙이 되지 않을 수도 있습니다.
+**표현을 제한하는 것은 증거로 사용하는 것과 다릅니다.** 표현의 제한은 [§7.1 제한규정](#71-limitation-discipline) 및 **[제XI-B](core_06_rights_part_b.md#article-xi-b-expression)(*표현*)**을 충족해야 하며, 말한 내용을 대상으로 한 제한은 거기에서 가장 엄격한 심사를 받습니다. 지각 있는 사람이 말한 내용을 의도, 목적 또는 권위의 증거로 사용하는 것은 제한이 없습니다. [제7장 §6 구성 확인: 공직자 지위 및 진정성](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity) 등 질문을 하는 장의 증거 규칙을 따르며, 발언 자체에 대한 벌칙이 되지 않을 수도 있습니다.
 
 **범위.** 이 하위 섹션은 표현에 대한 제한 규율과 5장의 정의를 적용합니다. 이는 피해 범주를 생성하지 않으며 [§7.1 제한 규율](#71-limitation-discipline)에서 이미 허용하지 않는 자유 제한 근거도 생성하지 않습니다.
 

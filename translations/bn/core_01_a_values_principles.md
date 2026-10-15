@@ -1089,20 +1089,20 @@ flowchart TB
 
 সম্পূর্ণ সংজ্ঞা-পরিধি প্রযোজ্য হলে, শ্রেণিবিন্যাস, শাসন, সীমাবদ্ধতা বা অনুসরণের দাবি গ্রহণযোগ্য হওয়ার আগে সমগ্র-ব্যবস্থার মূল্যায়নে [Chapter Eight §3.6 স্বেচ্ছায় সমাপ্তি, বড় ধরনের আত্ম-পরিবর্তন ও প্রস্থানের অধিকার](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)-এর অধীনে এই শর্তগুলো পরীক্ষা করতে হবে।
 
-#### 7.5 এক্সপ্রেশন এবং হার্ম লাইন
+#### 7.5 মতপ্রকাশ ও ক্ষতির সীমারেখা
 
 <details>
 <summary><strong><span style="color: #2563eb;"> সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
 *রাইটস-ফ্লোর হোম।* **[আর্টিকেল XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*এক্সপ্রেশন*)** অপারেটিভ এক্সপ্রেশন ফ্লোরকে বলে, এবং **[আর্টিকেল XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*সম্মিলিত ক্ষতির সীমানা এবং এনফোর্সমেন্ট ইন্টারফেস*) যেখানে সম্মিলিত ক্ষতি শুরু হয়। এই উপধারাটি স্বাধীনতা নীতিটি বলে যা তাদের সাথে যোগ দেয় এবং এর নিজস্ব কোন নিয়ম যোগ করে না।
 
-- [এক্সপ্রেশন](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
-- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [হয়রানি এবং ধমক ](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
-- [নিষ্ঠুর ](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [সম্মিলিত ক্ষতির সীমানা](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
-- [প্রয়োজনীয় ](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [আনুপাতিকতা](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [এক্সপ্রেশন](../../core_05_band_participation.md#expression) · [O](../../core_05_band_participation.md#expression) · [M](../../core_05_band_participation.md#expression-constitutional-a) · [A](../../core_05_band_participation.md#expression-constitutional-a) · [C](../../core_05_band_participation.md#expression-constitutional-c)
+- [Harm](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
+- [হয়রানি এবং ধমক ](../../core_05_band_accountability.md#harassment-and-bullying) · [O](../../core_05_band_accountability.md#harassment-and-bullying) · [M](../../core_05_band_accountability.md#harassment-and-bullying-a) · [A](../../core_05_band_accountability.md#harassment-and-bullying-a) · [C](../../core_05_band_accountability.md#harassment-and-bullying-c)
+- [নিষ্ঠুর ](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
+- [সম্মিলিত ক্ষতির সীমানা](../../core_05_band_accountability.md#collective-harm-boundary) · [O](../../core_05_band_accountability.md#collective-harm-boundary) · [M](../../core_05_band_accountability.md#collective-harm-boundary-a) · [A](../../core_05_band_accountability.md#collective-harm-boundary-a) · [C](../../core_05_band_accountability.md#collective-harm-boundary-c)
+- [প্রয়োজনীয় ](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1122,7 +1122,7 @@ flowchart TB
 
 **লেবেল এবং বিষয়গুলি পরীক্ষা পরিবর্তন করে না।** একটি ধর্মীয়, রাজনৈতিক, মতাদর্শগত, সাংস্কৃতিক, শৈল্পিক, বা বাণিজ্যিক লেবেল এমন অভিব্যক্তিকে পরিণত করে না যা অন্যদের ক্ষতি করে, বা **[ধারা VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*অবৈষম্য*)** এর অধীনে নিষিদ্ধ উপায়ে তাদের আচরণ করে, সুরক্ষিত অভিব্যক্তিতে। একটি বিষয় বা দৃষ্টিকোণ সুরক্ষিত অভিব্যক্তিকে ক্ষতিতে পরিণত করে না। **[অনুচ্ছেদ XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*বিবেকের স্বাধীনতা, ধর্ম, এবং তুলনামূলক বিশ্বদর্শন*)** অন্যদের অধিকারের সাথে ধারাবাহিকভাবে বিশ্বাসকে ধারণ করা এবং প্রকাশ করাকে রক্ষা করে।
 
-**প্রমাণ হিসাবে ব্যবহার করার থেকে অভিব্যক্তি সীমাবদ্ধ করা ভিন্ন।** অভিব্যক্তির একটি সীমা অবশ্যই [§7.1 সীমাবদ্ধতা শৃঙ্খলা ](#71-limitation-discipline) এবং **[আর্টিকেল XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*এক্সপ্রেশন*)** পূরণ করতে হবে, এবং যা বলা হয়েছে তার লক্ষ্যে একটি সীমা কঠোর পর্যালোচনার মুখোমুখি হবে। উদ্দেশ্য, উদ্দেশ্য বা কর্তৃত্বের প্রমাণ হিসাবে একজন সংবেদক যা বলেছেন তা ব্যবহার করা একটি সীমা নয়। এটি অধ্যায়ের প্রমাণ বিধি অনুসরণ করে যা প্রশ্ন জিজ্ঞাসা করে, যেমন [অধ্যায় সপ্তম §4 গঠন চেক: অফিস-হোল্ডার স্ট্যান্ডিং এবং অথেনটিসিটি](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), এবং এটি বক্তৃতার জন্য শাস্তি নাও হতে পারে।
+**প্রমাণ হিসাবে ব্যবহার করার থেকে অভিব্যক্তি সীমাবদ্ধ করা ভিন্ন।** অভিব্যক্তির একটি সীমা অবশ্যই [§7.1 সীমাবদ্ধতা শৃঙ্খলা ](#71-limitation-discipline) এবং **[আর্টিকেল XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*এক্সপ্রেশন*)** পূরণ করতে হবে, এবং যা বলা হয়েছে তার লক্ষ্যে একটি সীমা কঠোর পর্যালোচনার মুখোমুখি হবে। উদ্দেশ্য, উদ্দেশ্য বা কর্তৃত্বের প্রমাণ হিসাবে একজন সংবেদক যা বলেছেন তা ব্যবহার করা একটি সীমা নয়। এটি অধ্যায়ের প্রমাণ বিধি অনুসরণ করে যা প্রশ্ন জিজ্ঞাসা করে, যেমন [অধ্যায় সপ্তম §6 গঠন চেক: অফিস-হোল্ডার স্ট্যান্ডিং এবং অথেনটিসিটি](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity), এবং এটি বক্তৃতার জন্য শাস্তি নাও হতে পারে।
 
 **ব্যাপ্তি।** এই উপধারাটি প্রকাশের ক্ষেত্রে সীমাবদ্ধতা শৃঙ্খলা এবং পঞ্চম অধ্যায়ের সংজ্ঞা প্রয়োগ করে। এটি ক্ষতির কোনো বিভাগ তৈরি করে না এবং স্বাধীনতাকে সীমিত করার জন্য কোনো ভিত্তি তৈরি করে না যা [§7.1 Limitation Discipline](#71-limitation-discipline) ইতিমধ্যেই অনুমতি দেয় না।
 

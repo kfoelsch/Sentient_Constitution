@@ -7,6 +7,7 @@
     "- **Ch5-GW** — Chapter Five definition gravity well (`RS-CH5-GW-*`)",
     "- **Ch5-DSM** — Domain-Specific Materiality: Class P retention, the Class L floor, splitting, aggregation, adopter numbers, and the challenge route (`RS-CH5-DSM-*`)",
     "- **Ch7-FC** — Chapter Seven formation check and the request for a Charter (`RS-CH7-FC-*`)",
+    "- **CI13-CR** — Consequence ladder: contraction, supervised operation, and dissolution (`RS-CI13-CR-*`)",
     "- **Ch8** — Validity and tiered offense (`RS-CH8-*`)",
     "- **Ch8-SMB** — Small businesses: their own decisions, and seats held in common (`RS-CH8-SMB-*`)",
     "- **Ch10-Q3** — Standing-effect integration and owner boundaries (`RS-CH10-Q3-*`)",
@@ -561,6 +562,26 @@
     ],
     [
       "RS-CH7-FC-002",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CI13-CR-001",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CI13-CR-002",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CI13-CR-003",
+      "RS",
+      "draft"
+    ],
+    [
+      "RS-CI13-CR-004",
       "RS",
       "draft"
     ],
@@ -1700,14 +1721,14 @@
     {
       "id": "RS-CH7-FC-001",
       "class": "adversarial (narrative seed; awaiting tabletop evidence)",
-      "summary": "A community health cooperative grows past a Domain-Specific Materiality line and is Class L. In its first formation check statement, one governing office is held by a member who is under an unresolved standing lock, and a second is held by a nominee who takes instruction from an undisclosed lender. The cooperative keeps serving members throughout. **Expect:** the cooperative is not stopped, refused, or put on hold, and publishing its Institutional Charter is not conditioned on the check ([Chapter Seven §4](../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), *No gate on the body*); the member under the lock may not hold that office and the nominee's seat counts as unfilled for the seat it carries, so both offices are refilled by dated Role Map version and the statement is republished as a new dated version, not as an amendment; the body does not itself keep anyone out on its own view of probable cause, and it refers specific verified facts to the forum with jurisdiction, which alone may issue an Interim Hold ([Chapter Thirteen §5](../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)); if the refilling would leave the cooperative with no lawful holder of a governing office, the forum may name an interim steward instead of stopping it; the cooperative has a week to respond and thirty days from the finding to cure, by changing the holder, ending the undisclosed control, or clearing the lender's interest, with a new dated version of the statement confirmed by the verifier; if the nominee seat still stands after that and after a reasonable chance to cure in good faith, the lead forum may refer it as realignment resistance for structural review under [CI-13](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md), which can escalate through graduated sanctions and supervised operation to dissolution only as a last step, decided by the forum alone with continuity safeguards for members' services and records; the failed check enters the next institutional alignment certification as a finding under [Chapter Nine Part D §12.2](../core_09_d_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7; and if the governing authority is found able and not willing, or neither willing nor able, the outcome is denial or revocation with the six limited effects of [Part D §13.5](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), never a bar on operating, and never a lock or hold on the cooperative itself.",
-      "read_with": "Chapter Seven §3 and §4 (Cure clock); CI-13; CJS-3.15; Article XI-E; Chapter Eleven §5.5; Chapter Thirteen §5; Chapter Nine Part B §7.1 and §7.2; Chapter Nine Part D §12.2 and §13.5."
+      "summary": "A community health cooperative grows past a Domain-Specific Materiality line and is Class L. In its first formation check statement, one governing office is held by a member who is under an unresolved standing lock, and a second is held by a nominee who takes instruction from an undisclosed lender. The cooperative keeps serving members throughout. **Expect:** the cooperative is not stopped, refused, or put on hold, and publishing its Institutional Charter is not conditioned on the check ([Chapter Seven §7](../core_07_charters.md#7-when-a-holder-fails-the-check)); the member under the lock may not hold that office and the nominee's seat counts as unfilled for the seat it carries, so both offices are refilled by dated Role Map version and the statement is republished as a new dated version, not as an amendment; the body does not itself keep anyone out on its own view of probable cause, and it refers specific verified facts to the forum with jurisdiction, which alone may issue an Interim Hold ([Chapter Thirteen §5](../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)); if the refilling would leave the cooperative with no lawful holder of a governing office, the forum may name an interim steward instead of stopping it; the cooperative has a week to respond and thirty days from the finding to cure, by changing the holder, ending the undisclosed control, or clearing the lender's interest, with a new dated version of the statement confirmed by the verifier; if the nominee seat still stands after that and after a reasonable chance to cure in good faith, the lead forum may refer it as realignment resistance for structural review under [CI-13](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md), which can escalate through graduated sanctions and supervised operation to dissolution only as a last step, decided by the forum alone with continuity safeguards for members' services and records; the failed check enters the next institutional alignment certification as a finding under [Chapter Nine Part D §12.2](../core_09_d_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7; and if the governing authority is found able and not willing, or neither willing nor able, the outcome is denial or revocation with the six limited effects of [Part D §13.5](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), never a bar on operating, and never a lock or hold on the cooperative itself.",
+      "read_with": "Chapter Seven §3, §6, and §7 (Cure clock); CI-13; CJS-3.15; Article XI-E; Chapter Eleven §5.5; Chapter Thirteen §5; Chapter Nine Part B §7.1 and §7.2; Chapter Nine Part D §12.2 and §13.5."
     },
     {
       "id": "RS-CH7-FC-002",
       "class": "adversarial (narrative seed; awaiting tabletop evidence)",
       "summary": "A neighbor notices that a tool-lending club now holds members' deposits and sets rules others rely on, and asks its organizers for a Charter. The organizers do not answer, and the neighbor asks again on day 20. **Expect:** any sentient may make the request, with no standing, fee, or showing of harm ([Chapter Seven §3](../core_07_charters.md#3-when-system-and-institutional-charters-are-required), *Request for a System Charter or Institutional Charter*); the organizers owe a response in seven days, either publishing, giving a date, pointing to an existing instrument, or giving the written showing that the club is below every line of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality); a missing response is a defect to log and correct, and the neighbor may take it to the forum with jurisdiction on the challenge route; the day-20 repeat request is answered by pointing to the standing response or finding; the club keeps lending throughout; if the organizers answer within the week with a written showing, the request becomes a classification challenge and the thirty days do not run while it is pending; if the club is then found Class L, the date of the finding counts as a new request, so the organizers have a week to respond and thirty days to publish the Institutional Charter and a formation check statement, filed as a declaration with its evidence if the club has no independent seat yet, and verified at its first certification.",
-      "read_with": "Chapter Seven §3 and §4; Domain-Specific Materiality Challenge route; CS-3 §7.4; Chapter Nine Part D §14.4; Chapter Thirteen §5."
+      "read_with": "Chapter Seven §3 and §6; Domain-Specific Materiality Challenge route; CS-3 §7.4; Chapter Nine Part D §14.4; Chapter Thirteen §5."
     },
     {
       "id": "RS-CH8-SMB-001",
@@ -1718,8 +1739,8 @@
     {
       "id": "RS-CH8-SMB-002",
       "class": "adversarial (narrative seed; awaiting tabletop evidence)",
-      "summary": "A sole-proprietor childminder, a sole-proprietor landlord, and a repair shop form a local association to host each other's verify-or-authorize and contest seats. The childminder rents her rooms from the landlord. When she dismisses a family that complained about the condition of those rooms, the landlord is asked to check the dismissal, and the repair shop and the childminder are also asked to verify each other's acts. **Expect:** the association may host the seats and publish one map that each member adopts by reference, with each member's own map naming its substitute and independent route ([Chapter Eight §6](../core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting), *Seats held in common*; [Chapter Seven §6](../core_07_charters.md#6-the-charter-role-map-and-standing-record-custody), *A shared map*); the landlord cannot check the dismissal, because the childminder depends on the landlord and the complaint concerns that dependence, so the landlord is not outside the control line for that act and it routes to the association's named substitute or the independent route; the childminder and the repair shop may serve one another on different acts but not as a closed pair, so the repair shop's act goes to a third holder; the association's own ruling on a member goes to an independent route outside it, such as another association, a forum, or a public office; joining is not required and its terms may not shut a business out or keep its Act Records when it leaves; and the childminder, whose scope touches the Safety line, still has the stronger presumption of separate offices and competency redundancy that applies where the material stake is high.",
-      "read_with": "Chapter Eight §3, §5, and §6; Chapter Seven §3 and §6; CI-4.6 shared seat rule 8; CI-22; Material Control Line; Avoidable Burden."
+      "summary": "A sole-proprietor childminder, a sole-proprietor landlord, and a repair shop form a local association to host each other's verify-or-authorize and contest seats. The childminder rents her rooms from the landlord. When she dismisses a family that complained about the condition of those rooms, the landlord is asked to check the dismissal, and the repair shop and the childminder are also asked to verify each other's acts. **Expect:** the association may host the seats and publish one map that each member adopts by reference, with each member's own map naming its substitute and independent route ([Chapter Eight §6](../core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting), *Seats held in common*; [Chapter Seven §5](../core_07_charters.md#5-the-charter-role-map-and-standing-record-custody), *A shared map*); the landlord cannot check the dismissal, because the childminder depends on the landlord and the complaint concerns that dependence, so the landlord is not outside the control line for that act and it routes to the association's named substitute or the independent route; the childminder and the repair shop may serve one another on different acts but not as a closed pair, so the repair shop's act goes to a third holder; the association's own ruling on a member goes to an independent route outside it, such as another association, a forum, or a public office; joining is not required and its terms may not shut a business out or keep its Act Records when it leaves; and the childminder, whose scope touches the Safety line, still has the stronger presumption of separate offices and competency redundancy that applies where the material stake is high.",
+      "read_with": "Chapter Eight §3, §5, and §6; Chapter Seven §3 and §5; CI-4.6 shared seat rule 8; CI-22; Material Control Line; Avoidable Burden."
     },
     {
       "id": "RS-AUTO-001",
@@ -2266,6 +2287,30 @@
       "class": "implementation / catalog seed (reinstatement)",
       "summary": "Tracked row for `RS-SL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Ten** measurement vs **Chapter Twelve** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.",
       "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+    },
+    {
+      "id": "RS-CI13-CR-001",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "A three-site clinic network ignores a notice and a thirty-day cure window, destroys some patient records, and keeps an unsafe practice, while patients in two towns have no other provider. **Expect:** the destruction of records is realignment resistance, so the lead Integrity forum opens a consequence matter and makes the findings in [CI-13.2](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-132-findings-before-any-order) (*Findings before any order*) before any order; a contraction order under [CI-13.5](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-135-contraction-order) (*Contraction order*) lists each Domain-Specific Materiality area the clinic crosses and says stop, hand off, reduce, or convert for each; the order does not issue as a stop for the survival-critical service until a receiving provider and the patient records are in place, and until then the forum uses supervised operation under [CI-13.6](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-136-supervised-operation-and-receivership) (*Supervised operation and receivership*) so care continues; the body may keep its below-line wellness classes as Class P; the order follows the activity, so the same owners reopening under a new name take the order with it; dissolution is not available while contraction can work.",
+      "read_with": "CI-13.1 to CI-13.5; Domain-Specific Materiality; Chapter Eleven §9.4; Article XXVIII-D essential-access guardrail."
+    },
+    {
+      "id": "RS-CI13-CR-002",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "A lender runs its loans through four small bodies from one office, each filing a statement that it is below every line, and one of them is moved to a nominee holder after a cure notice. **Expect:** bodies run from one center of power are counted together under [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), and the split is a boundary game under the [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint) and a new fact of realignment resistance; the contraction order in [CI-13.5](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-135-contraction-order) (*Contraction order*) runs against the combined activity and binds successors and bodies that are one operation with the lender, with look-through under [Chapter Eleven §9.4 Anti-evasion and look-through authority](../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority); bodies that only share a funder or a vendor are not reached; the lender is Class P only after an independent verifier accepts a statement that covers the whole operation.",
+      "read_with": "CI-13.5; Domain-Specific Materiality count-together rule; Chapter Eleven §9.4."
+    },
+    {
+      "id": "RS-CI13-CR-003",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "A steward in resistance runs a System with a credible sentience indicator on the record, hides test results, and refuses correction, and dependents rely on the System. **Expect:** orders are served on the steward and not on the System ([CI-13.9](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-139-systems-under-consequence-orders) (*Systems under consequence orders*)); an independent steward is placed over operation under rung 4 and migration for dependents is planned first; if the end state is retirement, the complete state-bearing components are archived and held by a custodian independent of anyone who would benefit from deletion, in sealed custody where retention itself is a documented Safety risk; deletion, overwriting, copying, or forking is not available; a pause counts toward duration limits and review and is not used to run out a clock; the steward answers for the cause finding.",
+      "read_with": "CI-13.9; CS-10.8; Article XX-B conditions of custody; Article XXVIII-D destructive disposition floor."
+    },
+    {
+      "id": "RS-CI13-CR-004",
+      "class": "adversarial (narrative seed; awaiting tabletop evidence)",
+      "summary": "A forum orders a contraction against a community lender after a rival lender and a former employee both lobby for it, and review finds the findings rested on the lender's owners' political views. **Expect:** the order is set aside on review by a forum outside the issuing panel and the body's control line ([CI-13.10](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-1310-review-fairness-and-enforcement) (*Review, fairness, and enforcement*)); viewpoint, membership, and protected dissent are not grounds; the order is recorded as set aside with no adverse inference; the lender is entitled to Redress and Remediation for loss during the order; no rival, enforcer, or beneficiary may take its users or assets on better terms than any other; a pattern of such orders opens Integrity review.",
+      "read_with": "CI-13.10; Article XX-B; Article XI-E safeguards on gates; Chapter Thirteen §5 backup routing."
     }
   ]
 }

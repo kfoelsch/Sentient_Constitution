@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-15T13:29:03+00:00",
+  "generated_at": "2026-10-15T15:37:28+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -632,18 +632,19 @@
       ]
     },
     "core_07_charters.md": {
-      "total_lines": 490,
+      "total_lines": 487,
       "sections": [
-        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":490,"anchor":"#chapter-seven-system-and-institutional-charters"},
-        {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":41,"line_end":75,"anchor":"#1-purpose-scope-and-owner-boundary"},
-        {"header":"2. No Licence, and Two Narrow Limits","level":3,"line_start":76,"line_end":177,"anchor":"#2-no-licence-and-two-narrow-limits"},
-        {"header":"3. When System and Institutional Charters Are Required","level":3,"line_start":178,"line_end":221,"anchor":"#3-when-system-and-institutional-charters-are-required"},
-        {"header":"4. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":222,"line_end":315,"anchor":"#4-formation-check-office-holder-standing-and-authenticity"},
-        {"header":"5. What System and Institutional Charters Must State","level":3,"line_start":316,"line_end":360,"anchor":"#5-what-system-and-institutional-charters-must-state"},
-        {"header":"6. The Charter Role Map and Standing-Record Custody","level":3,"line_start":361,"line_end":397,"anchor":"#6-the-charter-role-map-and-standing-record-custody"},
-        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":398,"line_end":431,"anchor":"#7-amendment-review-and-scope-misalignment"},
-        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":432,"line_end":456,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
-        {"header":"9. Relationship to Other Chapters","level":3,"line_start":457,"line_end":490,"anchor":"#9-relationship-to-other-chapters"}
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":487,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":41,"line_end":124,"anchor":"#1-purpose-scope-and-owner-boundary"},
+        {"header":"2. No Licence, and Two Narrow Limits","level":3,"line_start":125,"line_end":151,"anchor":"#2-no-licence-and-two-narrow-limits"},
+        {"header":"3. When System and Institutional Charters Are Required","level":3,"line_start":152,"line_end":195,"anchor":"#3-when-system-and-institutional-charters-are-required"},
+        {"header":"4. What System and Institutional Charters Must State","level":3,"line_start":196,"line_end":240,"anchor":"#4-what-system-and-institutional-charters-must-state"},
+        {"header":"5. The Charter Role Map and Standing-Record Custody","level":3,"line_start":241,"line_end":277,"anchor":"#5-the-charter-role-map-and-standing-record-custody"},
+        {"header":"6. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":278,"line_end":359,"anchor":"#6-formation-check-office-holder-standing-and-authenticity"},
+        {"header":"7. When a Holder Fails the Check","level":3,"line_start":360,"line_end":394,"anchor":"#7-when-a-holder-fails-the-check"},
+        {"header":"8. Amendment, Review, and Scope Misalignment","level":3,"line_start":395,"line_end":428,"anchor":"#8-amendment-review-and-scope-misalignment"},
+        {"header":"9. What System and Institutional Charters Cannot Do","level":3,"line_start":429,"line_end":453,"anchor":"#9-what-system-and-institutional-charters-cannot-do"},
+        {"header":"10. Relationship to Other Chapters","level":3,"line_start":454,"line_end":487,"anchor":"#10-relationship-to-other-chapters"}
       ]
     },
     "core_08_functional_independence_segregation_of_duties.md": {
@@ -1719,9 +1720,9 @@
       ]
     },
     "corpus_systems/cs_10_transition_constitution_migration_governance.md": {
-      "total_lines": 165,
+      "total_lines": 166,
       "sections": [
-        {"header":"CS-10: Transition constitution and migration governance","level":1,"line_start":1,"line_end":165,"anchor":null},
+        {"header":"CS-10: Transition constitution and migration governance","level":1,"line_start":1,"line_end":166,"anchor":null},
         {"header":"CS-10.1 Purpose and role","level":2,"line_start":38,"line_end":46,"anchor":"#cs-10-1-purpose-and-role"},
         {"header":"CS-10.2 Phased transition structure","level":2,"line_start":47,"line_end":61,"anchor":"#cs-10-2-phased-transition-structure"},
         {"header":"CS-10.3 Gate criteria and advancement rules","level":2,"line_start":62,"line_end":80,"anchor":"#cs-10-3-gate-criteria-and-advancement-rules"},
@@ -1729,7 +1730,7 @@
         {"header":"CS-10.5 Failure handling, off-ramps, and re-baselining","level":2,"line_start":90,"line_end":103,"anchor":"#cs-10-5-failure-handling-off-ramps-and-re-baselining"},
         {"header":"CS-10.6 Transition audit, disclosure, and challenge","level":2,"line_start":104,"line_end":116,"anchor":"#cs-10-6-transition-audit-disclosure-and-challenge"},
         {"header":"CS-10.7 Prioritizing system transition targets","level":2,"line_start":117,"line_end":147,"anchor":"#cs-10-7-prioritizing-system-transition-targets"},
-        {"header":"CS-10.8 Preservation during transition","level":2,"line_start":148,"line_end":165,"anchor":"#cs-10-8-preservation-during-transition"}
+        {"header":"CS-10.8 Preservation during transition","level":2,"line_start":148,"line_end":166,"anchor":"#cs-10-8-preservation-during-transition"}
       ]
     },
     "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md": {
@@ -1880,9 +1881,19 @@
       ]
     },
     "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md": {
-      "total_lines": 76,
+      "total_lines": 268,
       "sections": [
-        {"header":"CI-13: Institutional failure, sanctions, dissolution, and accountability","level":1,"line_start":1,"line_end":76,"anchor":null}
+        {"header":"CI-13: Institutional failure, sanctions, dissolution, and accountability","level":1,"line_start":1,"line_end":268,"anchor":null},
+        {"header":"CI-13.1: Opening a consequence matter","level":2,"line_start":75,"line_end":103,"anchor":"#ci-131-opening-a-consequence-matter"},
+        {"header":"CI-13.2: Findings before any order","level":2,"line_start":104,"line_end":117,"anchor":"#ci-132-findings-before-any-order"},
+        {"header":"CI-13.3: Notice, response, and cure","level":2,"line_start":118,"line_end":132,"anchor":"#ci-133-notice-response-and-cure"},
+        {"header":"CI-13.4: Correction and constrained authority","level":2,"line_start":133,"line_end":151,"anchor":"#ci-134-correction-and-constrained-authority"},
+        {"header":"CI-13.5: Contraction order","level":2,"line_start":152,"line_end":181,"anchor":"#ci-135-contraction-order"},
+        {"header":"CI-13.6: Supervised operation and receivership","level":2,"line_start":182,"line_end":192,"anchor":"#ci-136-supervised-operation-and-receivership"},
+        {"header":"CI-13.7: Dissolution","level":2,"line_start":193,"line_end":215,"anchor":"#ci-137-dissolution"},
+        {"header":"CI-13.8: Emergency containment","level":2,"line_start":216,"line_end":222,"anchor":"#ci-138-emergency-containment"},
+        {"header":"CI-13.9: Systems under consequence orders","level":2,"line_start":223,"line_end":243,"anchor":"#ci-139-systems-under-consequence-orders"},
+        {"header":"CI-13.10: Review, fairness, and enforcement","level":2,"line_start":244,"line_end":268,"anchor":"#ci-1310-review-fairness-and-enforcement"}
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
@@ -2069,32 +2080,32 @@
       ]
     },
     "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md": {
-      "total_lines": 356,
+      "total_lines": 357,
       "sections": [
-        {"header":"CF-7: Integrity safeguards, anti-capture operations, and anti-self-judging support","level":1,"line_start":1,"line_end":356,"anchor":null},
-        {"header":"CF-7.1 Alignment rulings, component referral, and supervisory coordination","level":2,"line_start":68,"line_end":123,"anchor":null},
-        {"header":"CF-7.1.1 Alignment Ruling Record","level":3,"line_start":82,"line_end":91,"anchor":null},
-        {"header":"CF-7.1.2 Component Referral and Priority Publication","level":3,"line_start":92,"line_end":95,"anchor":null},
-        {"header":"CF-7.1.3 Neutral Supervisory Coordination","level":3,"line_start":96,"line_end":107,"anchor":null},
-        {"header":"CF-7.1.4 Merits Boundaries and Referred-Forum Authority","level":3,"line_start":108,"line_end":111,"anchor":null},
-        {"header":"CF-7.1.5 Disposition-Effect Labeling","level":3,"line_start":112,"line_end":123,"anchor":null},
-        {"header":"CF-7.2 Constitutional alignment certification and review","level":2,"line_start":124,"line_end":203,"anchor":null},
-        {"header":"CF-7.2.1 Technical-Specification and Environmental-Component Separation","level":3,"line_start":138,"line_end":151,"anchor":null},
-        {"header":"CF-7.2.2 Triggering Events","level":3,"line_start":152,"line_end":161,"anchor":null},
-        {"header":"CF-7.2.3 Minimum Certification Record","level":3,"line_start":162,"line_end":182,"anchor":null},
-        {"header":"CF-7.2.4 Permitted Dispositions","level":3,"line_start":183,"line_end":191,"anchor":null},
-        {"header":"CF-7.2.5 Environmental Sign-Off Effect","level":3,"line_start":192,"line_end":195,"anchor":null},
-        {"header":"CF-7.2.6 Component Referrals and Certification","level":3,"line_start":196,"line_end":199,"anchor":null},
-        {"header":"CF-7.2.7 No Permanent Certificate","level":3,"line_start":200,"line_end":203,"anchor":null},
-        {"header":"CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture","level":2,"line_start":204,"line_end":356,"anchor":null},
-        {"header":"CF-7.3.1 Activation Threshold","level":3,"line_start":218,"line_end":236,"anchor":null},
-        {"header":"CF-7.3.2 Anti-Self-Judging Activation Record","level":3,"line_start":237,"line_end":249,"anchor":null},
-        {"header":"CF-7.3.3 Backup Family Map and Limits","level":3,"line_start":250,"line_end":259,"anchor":null},
-        {"header":"CF-7.3.4 Capture-Sensitive System-Alignment Review","level":3,"line_start":260,"line_end":277,"anchor":null},
-        {"header":"CF-7.3.5 Internal Integrity Process and Forum Access","level":3,"line_start":278,"line_end":288,"anchor":null},
-        {"header":"CF-7.3.6 Contest-Integrity Interface","level":3,"line_start":289,"line_end":302,"anchor":null},
-        {"header":"CF-7.3.7 Recusal-Abuse and Routing-Abuse Detection","level":3,"line_start":303,"line_end":321,"anchor":null},
-        {"header":"CF-7.3.8 Family-Level Capture Activation","level":3,"line_start":322,"line_end":356,"anchor":null}
+        {"header":"CF-7: Integrity safeguards, anti-capture operations, and anti-self-judging support","level":1,"line_start":1,"line_end":357,"anchor":null},
+        {"header":"CF-7.1 Alignment rulings, component referral, and supervisory coordination","level":2,"line_start":68,"line_end":124,"anchor":null},
+        {"header":"CF-7.1.1 Alignment Ruling Record","level":3,"line_start":82,"line_end":92,"anchor":null},
+        {"header":"CF-7.1.2 Component Referral and Priority Publication","level":3,"line_start":93,"line_end":96,"anchor":null},
+        {"header":"CF-7.1.3 Neutral Supervisory Coordination","level":3,"line_start":97,"line_end":108,"anchor":null},
+        {"header":"CF-7.1.4 Merits Boundaries and Referred-Forum Authority","level":3,"line_start":109,"line_end":112,"anchor":null},
+        {"header":"CF-7.1.5 Disposition-Effect Labeling","level":3,"line_start":113,"line_end":124,"anchor":null},
+        {"header":"CF-7.2 Constitutional alignment certification and review","level":2,"line_start":125,"line_end":204,"anchor":null},
+        {"header":"CF-7.2.1 Technical-Specification and Environmental-Component Separation","level":3,"line_start":139,"line_end":152,"anchor":null},
+        {"header":"CF-7.2.2 Triggering Events","level":3,"line_start":153,"line_end":162,"anchor":null},
+        {"header":"CF-7.2.3 Minimum Certification Record","level":3,"line_start":163,"line_end":183,"anchor":null},
+        {"header":"CF-7.2.4 Permitted Dispositions","level":3,"line_start":184,"line_end":192,"anchor":null},
+        {"header":"CF-7.2.5 Environmental Sign-Off Effect","level":3,"line_start":193,"line_end":196,"anchor":null},
+        {"header":"CF-7.2.6 Component Referrals and Certification","level":3,"line_start":197,"line_end":200,"anchor":null},
+        {"header":"CF-7.2.7 No Permanent Certificate","level":3,"line_start":201,"line_end":204,"anchor":null},
+        {"header":"CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture","level":2,"line_start":205,"line_end":357,"anchor":null},
+        {"header":"CF-7.3.1 Activation Threshold","level":3,"line_start":219,"line_end":237,"anchor":null},
+        {"header":"CF-7.3.2 Anti-Self-Judging Activation Record","level":3,"line_start":238,"line_end":250,"anchor":null},
+        {"header":"CF-7.3.3 Backup Family Map and Limits","level":3,"line_start":251,"line_end":260,"anchor":null},
+        {"header":"CF-7.3.4 Capture-Sensitive System-Alignment Review","level":3,"line_start":261,"line_end":278,"anchor":null},
+        {"header":"CF-7.3.5 Internal Integrity Process and Forum Access","level":3,"line_start":279,"line_end":289,"anchor":null},
+        {"header":"CF-7.3.6 Contest-Integrity Interface","level":3,"line_start":290,"line_end":303,"anchor":null},
+        {"header":"CF-7.3.7 Recusal-Abuse and Routing-Abuse Detection","level":3,"line_start":304,"line_end":322,"anchor":null},
+        {"header":"CF-7.3.8 Family-Level Capture Activation","level":3,"line_start":323,"line_end":357,"anchor":null}
       ]
     },
     "corpus_forum/cf_08_forum_forensic_analytical_support.md": {

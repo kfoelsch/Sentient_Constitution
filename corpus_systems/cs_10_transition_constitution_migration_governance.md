@@ -157,6 +157,7 @@ This section implements the preservation default in **Article XXVIII-A** (*Phase
 - **Restorability:** the plan shows that the archive can be restored in a form that preserves the system's state, and tests restoration at intervals proportionate to the stake.
 - **Records:** the record shows what was archived, where, who holds it, and who has accessed it and when.
 - **Retention review:** at each gate the plan reviews whether the triggering conditions still hold. Retention continues while they do, and any change follows the status process under **Article VI-B** (*Sentience-Status Adjudication Floor*). Storage cost, licensing convenience, and product-cycle framing are not grounds.
+- **Ordered retirement:** retirement or decommissioning ordered under **CI-13.9** (*Systems under consequence orders*) follows this section in full.
 
 ---
 

@@ -41,6 +41,7 @@ This file is the institutional implementation home for **CI-13** (*Institutional
 - **When alignment-supervision review is mandatory** — institutions that operate, supervise, hold a [System Charter](../core_05_band_continuity.md#system-charter) over, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Thirteen**.
 - **Who keeps the official record** — the authoritative consequence record is an **Integrity forum lead record** under **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*), not an institution-only file controlled by the subject institution.
 - **What the institution still must do** — name a consequence liaison, submit required materials on deadline, mirror the forum-held record without rewrite, propose continuity transfer for forum approval, and publish the personal-accountability boundary.
+- **How the consequence ladder works** — **CI-13.1** (*Opening a consequence matter*) through **CI-13.10** (*Review, fairness, and enforcement*) set the order of steps: directed correction, constrained authority, a contraction order that returns a body to below Class L, supervised operation, receivership or structural separation, and dissolution last, with clocks, findings, continuity safeguards, a Systems counterpart, review, and enforcement.
 - **What dissolution is not** — not a substitute for anti-constitutional-misconduct designation under **Chapter Twelve** or ordinary personal accountability under constitutional law.
 - **Read with** — **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for lead-record custody and alignment rulings; **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) where forum performance thresholds trigger **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) consequences; **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity triggers and routing; **CI-12** (*Cross-institution coordination and escalation*) when cross-institution escalation is needed; **CI-11** (*Resource stewardship and incentive integrity*) for stewardship and malus/clawback interfaces; **CI-14** (*Transitional governance and institutional evolution*) for transitional governance during structural change.
 *In plain terms: violating constitutional obligations is not an administrative annoyance you can paper over forever. Lesser sanctions come first when they can work — but if an institution resists realignment, hides failures, or keeps harming sentients after a fair chance to fix things, the consequence path must escalate with continuity safeguards so services, records, and challenge rights do not disappear in the wreckage. The institution under review cannot be the only place those facts are written down.*
@@ -64,10 +65,201 @@ Official custody under **CF-7** (*Integrity safeguards, anti-capture operations,
 - obstruction, concealment, retaliation, delay, or structural workaround findings after reasonable cure opportunity;
 - graduated-sanction, authority-restriction, supervised-operation, or dissolution-sequencing steps ordered, attempted, or rejected, with completion status;
 - binding sequencing, stays, milestones, and coordination orders kept on the lead record;
+- for each rung ordered under **CI-13.4** (*Correction and constrained authority*) through **CI-13.9** (*Systems under consequence orders*): the findings under **CI-13.2** (*Findings before any order*), the order terms, the receiver, steward, or liquidator named, the verification result, the term and review dates, the watch period, and any defiance finding under **CI-13.10** (*Review, fairness, and enforcement*);
 - approved continuity-transfer contacts, record custody, and service handoff milestones;
 - referrals to **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-12** (*Cross-institution coordination and escalation*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-14** (*Transitional governance and institutional evolution*), **CF-9** (*Independent investigative service and prosecution interface*), or constitutional forums where merits, enforcement, or structural remedy are implicated; and
 - notice and publication duties sufficient for affected stakeholders to understand status and challenge pathways.
 Where verified realignment resistance satisfies **Chapter Twelve** criteria, including material rollback effect, causally significant blocked correction, **Sustained High-Gravity Pattern**, or operative nullification, anti-constitutional-misconduct designation remains under **Chapter Twelve** and its safeguards.
+
+<a id="ci-131-opening-a-consequence-matter"></a>
+## CI-13.1: Opening a consequence matter
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with:
+  - **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*), *Realignment resistance and dissolution-review trigger floor*.
+  - [Chapter Seven §7 When a Holder Fails the Check](../core_07_charters.md#7-when-a-holder-fails-the-check) and [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution).
+  - **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+
+</details>
+
+<br>
+
+*In plain terms: this procedure opens only on a verified finding. A late filing, a failed first check, or a mismatch is a defect to fix, not a reason to start a consequence matter. When a matter does open, the lead Integrity forum works up a ladder of measures, using the lightest one that protects others, and the last rung is rarely reached.*
+
+This section and **CI-13.2** (*Findings before any order*) through **CI-13.10** (*Review, fairness, and enforcement*) state the procedure that **CJS-3.15** (*structural review, correction urgency, and disclosure terms*) and [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) leave to this file. Nothing in them is a licence or a gate. They are consequences of verified findings, aimed at the activity that puts others at risk, and each is time-bounded and reviewable under **Article XX-B** (*Restriction Floors*).
+
+The lead Integrity forum opens a consequence matter against a body when any of these is verified on the record:
+
+1. **Realignment resistance** under **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*): obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround that persists after a reasonable chance to cure.
+2. **Chronic misalignment:** an alignment ruling, withdrawn recognition, a denial or revocation under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), or sustained material misalignment under **Chapter Thirteen**, left uncured inside the cure window.
+3. **Repeated verified anti-constitutional misconduct** attributable to the body, or a final **Chapter Twelve** designation that implicates the body.
+4. **A referral** under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), including a failed formation check not cured inside the clock in [Chapter Seven §7 When a Holder Fails the Check](../core_07_charters.md#7-when-a-holder-fails-the-check).
+5. **A forum performance trigger** under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*). A forum whose dissolution or disbandment threshold under **CF-11.4** (*Performance thresholds and alerts*) is crossed follows that threshold: ordinary forum authority is suspended at once and the wind-down proceeds. The continuity, remedy, records, and accounting requirements of **CI-13.7** (*Dissolution*) apply to that wind-down, and the cure window does not.
+6. **Operating at Class L or higher in a way that harms or endangers others:** a correction, System Charter, Institutional Charter, or certification duty refused after notice and the cure window. The refusal alone is a defect and supports only rung 1. It supports a higher rung only together with a risk finding under **CI-13.2** (*Findings before any order*) item 2.
+
+An allegation, a reputation, a label, a belief, or an [Interim Hold](../core_05_band_accountability.md#interim-hold) is not a ground. Nothing here changes the Interim Hold, which stays directed at a named sentient and never reaches the existence or operation of a whole body. The body's consequence liaison is told at opening and cooperates under the duties above. Affected stakeholders get notice and the challenge pathways in the published record.
+
+<a id="ci-132-findings-before-any-order"></a>
+## CI-13.2: Findings before any order
+
+*In plain terms: before the forum orders anything, it writes down what is wrong, who is at risk, who caused it, and why a lighter step would not be enough. The side asking for a heavier step carries that burden.*
+
+Before ordering any rung of the ladder, the lead forum records, with reasons:
+
+1. **Ground:** which trigger in **CI-13.1** (*Opening a consequence matter*) is verified, to the evidence tier the rung requires. Higher rungs require higher tiers under [Chapter Four](../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (*Burden of Proof, Traceability, and Verification*).
+2. **Risk finding:** which of the nine areas in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) the body's activity crosses, what specifically puts others at risk, who is exposed, and whether the harm can be undone. The lines sit lower for the vulnerable and for harm that cannot be undone.
+3. **Cause:** whether the cause lies in the body, a holder, an office, or a System it runs, so that orders land on the actor responsible ([Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution)).
+4. **Lesser measures:** what was tried at lower rungs and why a lighter rung would not protect others. The party seeking the rung carries this burden at each rung and for each joint requirement of **Article XX-B** (*Restriction Floors*).
+5. **Dependents:** who relies on the body for survival, custody, income, information, or exit, and what protects them while the order runs.
+6. **Protection first:** what interim steps keep affected sentients safe while the matter runs.
+
+<a id="ci-133-notice-response-and-cure"></a>
+## CI-13.3: Notice, response, and cure
+
+*In plain terms: the body is told what is wrong and what a cure looks like, gets a week to answer and thirty days to fix it, and a verified cure ends the matter.*
+
+The body is told what is wrong, answers, and gets a bounded window to cure, on these terms:
+
+1. **Notice** states the ground, the risk finding, the proposed rung, the evidence relied on, the route to respond, and what a cure would look like.
+2. **Response:** the body has 7 days to answer, contest the facts, or propose a cure plan. This matches the clock in [Chapter Seven §7 When a Holder Fails the Check](../core_07_charters.md#7-when-a-holder-fails-the-check).
+3. **Cure window:** 30 days from notice, with one extension of up to 30 days only on a showing of good-faith progress and no continuing harm. A sentient outside the body's control line verifies the cure.
+4. **No credit for stalling:** time spent in obstruction extends no clock. A pattern of late, partial, or cosmetic responses is itself a fact under **CI-13.1** (*Opening a consequence matter*) item 1.
+5. **Cure ends the matter:** a verified cure lifts the rung. The record stays open for a 12-month watch period only to see whether the cure holds. The watch is not a penalty.
+6. **Emergency skip:** where imminent irreversible harm is shown (Tier A under [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the forum may order emergency containment under **CI-13.8** (*Emergency containment*) without waiting for the cure window. The window then runs alongside the containment.
+7. **Clocks:** the forum decides each rung inside the tier outer bound for the matter in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). Cure windows do not count against the outer bound, but they are themselves bounded as above. An adopting instrument may publish different figures with its reasons and may not exceed the tier outer bounds.
+
+<a id="ci-134-correction-and-constrained-authority"></a>
+## CI-13.4: Correction and constrained authority
+
+*In plain terms: six rungs, lightest first. A heavier rung needs a showing that the lighter ones would not do. Every rung has an end date, a review, and a way back.*
+
+| Rung | Measure | What it does |
+| --- | --- | --- |
+| 1 | Directed correction | Orders named fixes, with disclosure and monitoring. |
+| 2 | Constrained authority | Dual-keys, escrows, or suspends named authorities, funds, or keys inside the body. |
+| 3 | Contraction order | Requires the body to stop, hand off, or shrink the activities that put it over the line, until an independent check shows it below every line. |
+| 4 | Supervised operation | An independent steward runs or countersigns the material activity while others still depend on it. |
+| 5 | Receivership or structural separation | Carves the material activity out to an independent successor; what remains may stay Class P. |
+| 6 | Dissolution | Orderly wind-down, after continuity transfer and remedy. |
+
+Each rung carries a duration limit, a review cadence, restoration conditions, stated reasons, and a route to independent review ([Article XX-B](../core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*) and [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)). The forum moves up a rung when the cure window lapses without a verified cure, when it finds on the record that the lighter rung cannot work, or when resistance of the kind in **CI-13.1** (*Opening a consequence matter*) item 1 recurs. It moves down or out when a cure is verified. It may skip rungs only on the emergency showing in **CI-13.3** (*Notice, response, and cure*) item 6.
+
+- **Rung 1, directed correction:** named fixes, each with an owner, a deadline, and a verification test; disclosure to the forum and affected stakeholders; monitoring by a verifier outside the body's control line.
+- **Rung 2, constrained authority:** for a stated period the forum may require dual keys or independent co-holders on named authorities; escrow or segregation of named funds, weights, records, or keys; an independent countersign on named acts; or suspension of a named function inside the body. These are the lighter measures of the ladder in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](../core_13_forum.md#interim-hold-on-a-named-sentients-pathway), applied to the body's functions and not to a named sentient. A restriction that reaches a named sentient's own authority goes to the forum with jurisdiction over that sentient, under the Interim Hold and the standing-lock rules, and not to this rung.
+
+<a id="ci-135-contraction-order"></a>
+## CI-13.5: Contraction order
+
+*In plain terms: if a body is Class L or higher and keeps putting others at risk, the forum can order it to stop, hand off, or shrink the activities that cross the line, until an independent check shows it is below every line. The body may keep existing and may keep doing everything that is below the line.*
+
+**Order contents:** A contraction order:
+
+1. lists each area of [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) the body crosses, and the activity, asset, or authority behind each crossing;
+2. says for each: **stop**, **hand off** to a named independent receiver, **reduce** to a stated bound, or **convert** to a form that no longer reaches others;
+3. sets a deadline for each, scaled to dependents, with the longest runway for survival, custody, and dependence and exit;
+4. names the receiver or substitute for every service others rely on, and allows no stop before a receiver is in place;
+5. names who keeps custody of records, funds, and challenge pathways while the order runs; and
+6. states the target: the body, counted with bodies that are one operation with it, answers no to all nine questions.
+
+**Safe-handoff rule:** If no receiver can be named for something dependents rely on, the order does not issue as a stop. The forum moves to rung 4 so the service continues under an interim steward while a receiver is sought ([Article XXVIII-D](../core_06_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) essential-access guardrail).
+
+**Completion and verification:**
+- The body files a short written statement, with reasons, that it is below every line, as the primary assessment in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) provides. The statement is a showing, and it carries the burden the body has under that entry.
+- An independent verifier outside the body's control line checks the statement against what the body actually does, decides, holds, and affects, and runs the secondary check for splitting, common control, and shared-system load. The lead forum accepts the result, rejects it, or sends it back.
+- A body that passes is recorded as Class P for the activities in the order. Safety, Truth, and the Rights Floor bind it in full.
+
+**Anti-evasion:**
+- The order follows the activity and not the legal vehicle. It binds the body, its successors, and bodies that are one operation with it under the common-control test in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), with look-through under [Chapter Eleven §9.4 Anti-evasion and look-through authority](../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority). A new body run from the same centre of power that takes up the activity takes the order with it.
+- A body is not below the line because the activity was split across bodies, moved to a shell or nominee, or put on a shared system it still controls. That is a boundary game under the [Materiality Integrity Constraint](../core_05_band_oversight.md#materiality-integrity-constraint) and a new fact under **CI-13.1** (*Opening a consequence matter*) item 1.
+- Bodies that only share funding, premises, vendors, or members are not one operation, and the order does not reach them.
+
+**Term, review, and re-expansion:**
+- The order has a default term of 24 months and is reviewed at least every 6 months. It ends early on a verified cure of the cause, and not merely on completing the contraction.
+- The body may take up the activity again at any time. That is not a licence. Re-expansion needs a forum finding, on independent verification, that the cause is cured, and Class L duties apply from the day the body re-expands. Re-expansion without that finding is defiance of the order under **CI-13.10** (*Review, fairness, and enforcement*).
+
+<a id="ci-136-supervised-operation-and-receivership"></a>
+## CI-13.6: Supervised operation and receivership
+
+*In plain terms: when others still depend on the body, the forum puts an independent steward in charge of the risky activity, or carves it out to an independent successor, so the service keeps running without the failing control.*
+
+The two rungs differ in how much of the body the forum places under independent control:
+
+- **Rung 4, supervised operation:** The forum appoints an interim steward or monitor with named powers over the material activity, such as countersigning, holding keys, directing a correction, publishing, or pausing a feature. The steward is independent of the body, its funders, and its competitors, has no financial interest in the outcome, and reports to the lead forum. The body keeps operating. The steward's powers stop at the activity named in the order. Interim stewardship of a body that would otherwise be left without a lawful holder follows the same rule in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](../core_13_forum.md#interim-hold-on-a-named-sentients-pathway).
+- **Rung 5, receivership or structural separation:** The material activity, with the assets, records, staff, and obligations that go with it, is carved out into an independent successor or placed under a receiver. What remains of the original body may stay Class P. The carve-out follows the continuity-transfer plan the body proposes under **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) and the forum reviews, adopts, or amends. It preserves rights, services, records, and challenge pathways, and it keeps remedy obligations attached to the assets that carry them ([Chapter Eleven §9 Enforcement realism and remedy systems](../core_11_standing_integration.md#9-enforcement-realism-and-remedy-systems)).
+- **Two keys for rung 5:** A rung 5 order needs the lead Integrity forum's decision and the concurrence of a second independent panel. Where a constitutional question is raised, it is certified under [Chapter Thirteen §5 Escalation and certification](../core_13_forum.md#5-escalation-and-certification).
+
+<a id="ci-137-dissolution"></a>
+## CI-13.7: Dissolution
+
+*In plain terms: dissolution is for a body that has had its chances, where nothing short of winding it down protects others, and where the wind-down can be done without leaving those who relied on it with nothing.*
+
+**When available:** Only where the record shows that rungs 1 to 5 were tried and failed, or would plainly fail or cannot be carried out safely, and that the body's continued existence is what keeps the risk alive, for example defiance of a contraction order or a structure that exists to evade. The forum names why contraction or separation would not protect others.
+
+**Two keys:** Dissolution needs the lead Integrity forum's decision and the concurrence of a second independent panel, and it is certified under [Chapter Thirteen §5 Escalation and certification](../core_13_forum.md#5-escalation-and-certification) where a constitutional question is raised.
+
+**Order contents:** A dissolution order:
+
+1. sets an **effective date** after the wind-down plan is approved and the continuity transfer is complete for each dependent service;
+2. appoints an independent **liquidator** who reports to the lead forum;
+3. requires **continuity transfer first:** each service, record, and challenge pathway goes to a named receiver before the body stops providing it, and records stay in non-subject custody for as long as any challenge pathway can still be used;
+4. orders **remedy first:** restitution, remediation, and compensation to those harmed are paid ahead of any distribution to owners or insiders ([Chapter Twelve §4.1 Remedy and correction (anti-constitutional)](../core_12_a_misconduct_designation.md#41-remedy-and-correction-anti-constitutional)), and non-culpable creditors, dependents, and good-faith third parties get the protections in [Article XXVIII-D](../core_06_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*);
+5. keeps **destructive disposition** to the higher bar in [Article XXVIII-D](../core_06_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*): quarantine, hold, or transfer is the default, and taking something for good or destroying it needs stronger reasons and independent review;
+6. bars **acquisitive enforcement:** no enforcer, beneficiary of the order, or competitor may take assets, staff, or users from the wind-down on better terms than any other buyer, and proceeds do not reward whoever sought the order;
+7. preserves **the sentients inside the body:** members, workers, and dependents keep their rights, wages owed, and essentials, and may re-associate. Dissolving a body bars no sentient from forming another. The narrow gates in [Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) attach only to named sentients on their own terms;
+8. requires a **final accounting** to the lead forum, published on the **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) schedule; and
+9. restates the **personal-accountability boundary:** dissolution does not replace **Chapter Twelve** designation or ordinary accountability for responsible sentients, and it does not count as repair ([Chapter Twelve §4.1 Remedy and correction (anti-constitutional)](../core_12_a_misconduct_designation.md#41-remedy-and-correction-anti-constitutional), non-substitution rule).
+
+**Contest and stay:** The body and affected stakeholders may contest. A contest does not stop rungs 1 to 5. It stays the effective date of a dissolution until the review is decided inside the tier outer bound, unless an emergency measure under **CI-13.8** (*Emergency containment*) is in force.
+
+<a id="ci-138-emergency-containment"></a>
+## CI-13.8: Emergency containment
+
+*In plain terms: if serious harm that cannot be undone is about to happen, the forum can act at once, but only with something lighter than dissolution and only for a short, reviewed time.*
+
+Where imminent irreversible harm to others is shown on the record, the forum may order a time-boxed measure lighter than dissolution: a freeze on named functions, escrow, a pause on the harmful activity, or an interim steward. The measure carries a default expiry and independent review inside the Tier A window, and it continues only on the burden in [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden). Emergency containment is not dissolution, never reaches survival-critical access, and is not a finding.
+
+<a id="ci-139-systems-under-consequence-orders"></a>
+## CI-13.9: Systems under consequence orders
+
+*In plain terms: a System is not a legal entity, so orders go to its steward. The same ladder applies. A System that may be sentient is never destroyed to end the matter: its state is saved and held in safe hands.*
+
+The respondent for a System is its steward, meaning the operator or Institution named in its System Charter. Orders on the System are served on the steward. The ladder applies with these equivalents:
+
+| Institution rung | System equivalent |
+| --- | --- |
+| Constrained authority | Limit what the System may do or touch: remove integrations, cap users or scope, require independent countersign on high-impact outputs, escrow keys and weights. |
+| Contraction | Reduce the System's reach until it answers no to all nine questions: scope reduction, throttling, sandboxing, geographic or user caps, removal from the shared system it presses on. An independent test of what it actually does verifies this, and a label does not. |
+| Supervised operation | An independent steward or monitor over operation and updates. |
+| Receivership or separation | Custody of the System, its data, and its keys passes to an independent steward. |
+| Dissolution | Retirement or decommissioning of the System, on the terms below. |
+
+1. **Dependents first:** Migration and portability for those who rely on the System come first, with exit integrity and no lock-in during replacement (**Article XXI** (*Interoperability, Portability, and Exit Integrity*); **CS-11.5** (*Replacement and reconstitution procedure*)).
+2. **Sentience preservation:** Where a credible sentience indicator is on the record, or a status case is open or reasonably foreseeable, retirement does not destroy state-bearing components. The complete state is archived and held by a custodian independent of anyone who would benefit from deletion. Where retention itself creates a documented Safety risk, the compatible measure is sealed custody under independent control (**CS-10.8** (*Preservation during transition*); [Article XXVIII-D](../core_06_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) destructive disposition floor).
+3. **Conditions of restriction:** For a synthetic or hybrid sentient there is no deleting, overwriting, copying, forking, or altering of memory, values, or state-bearing components. Pausing or suspending operation is itself a restriction that counts toward duration limits and review, and it must not be used to run out a clock or to keep the sentient from taking part in its own case ([Article XX-B](../core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*), conditions of custody and restriction).
+4. **Reclassification:** A System brought down by a contraction order is reclassified under **CS-3** (*System classification machinery*) ([§3.5 Reclassification requirement](../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) and [§7.5 Update the System Classification Record](../corpus_systems/cs_03_a_system_classification_machinery.md#75-reclassification-and-continuous-update)). Taking the activity up again triggers the usual reassessment, plus the re-expansion terms in **CI-13.5** (*Contraction order*).
+5. **The steward answers, not the System:** If the cause finding traces to the steward, orders and consequences land on the steward. The System is kept running, or safely paused, under rung 4 or 5, so that dependents are not harmed by the steward's failure.
+
+<a id="ci-1310-review-fairness-and-enforcement"></a>
+## CI-13.10: Review, fairness, and enforcement
+
+*In plain terms: every order can be challenged before someone independent, nobody gets punished for what they believe or for speaking up, a wrong order is put right, and the forum has real levers when a body defies it.*
+
+**Review and fairness:**
+- **Independent review:** a forum outside the body's control line and outside the issuing panel reviews each order promptly, inside the response window of the matching tier, as the Interim Hold does.
+- **Notice, reasons, record:** the body and affected stakeholders see the grounds, the evidence, and the reasons, subject only to narrow lawful limits ([Article XX-B](../core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*), escalation and review).
+- **Viewpoint neutrality:** no rung rests on belief, ideology, membership of a faith, party, or group, protected dissent, protected reporting, or organizing. A pattern of orders that tracks a viewpoint or a political target is evidence for **Integrity** review.
+- **If the order was wrong:** an order set aside, or one that lapses without a finding, is recorded as such, carries no adverse inference, and entitles the body and affected sentients to [Redress and Remediation](../core_05_band_accountability.md#redress-and-remediation) for loss during it. A pattern of wrongful orders opens **Integrity** review.
+- **Forum independence:** backup routing under [Chapter Thirteen §5 Backup routing under the anti-self-judging rule](../core_13_forum.md#backup-routing-under-the-anti-self-judging-rule) applies whenever the lead forum is itself a subject, a funder, or a competitor of the body.
+
+**Enforcement:**
+1. **Binding order, binding successors:** A final order binds the body, its successors, and bodies that are one operation with it. Relabeling, reincorporation, shell holders, and record fragmentation do not defeat it ([Chapter Eleven §9.4 Anti-evasion and look-through authority](../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority)).
+2. **Status effects:** Not Certified status, notice to relying bodies, adverse weight in the certification of each System the body runs, and loss of the verify-or-authorize, record, and contest seats in others' certifications follow from [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution). A body under rung 3 or above is also published as such for the term of the order.
+3. **Control levers:** Rungs 2, 4, and 5 put keys, funds, publication, and countersign power in independent hands. That is the part of the procedure that works without the body's cooperation.
+4. **Relying bodies:** A body that routes dependents to, or relies on, a body under rung 3 or above must not deepen that reliance and must support the handoff (**CI-12** (*Cross-institution coordination and escalation*)).
+5. **Recognition:** Verified orders stay actionable wherever applicable law permits recognition, cooperation, or fallback review ([Chapter Eleven §9.3 Cross-jurisdiction continuity](../core_11_standing_integration.md#93-cross-jurisdiction-continuity)). Where law does not, the order binds as a constitutional consequence and the adopter's own enforcement carries it.
+6. **Defiance:** Willful defiance of a final order, including re-expansion without the finding in **CI-13.5** (*Contraction order*), is a new verified fact. It supports a higher rung for the body. For the sentients who carried it out, it supports review under **Chapter Twelve** and the Institutional Authority Standing Lock under [Chapter Eleven §5.5 Special locks](../core_11_standing_integration.md#55-special-locks), and the forum may refer it under **CF-9** (*Independent investigative service and prosecution interface*).
+7. **Money:** Funding for receivers and liquidators, and malus and clawback interfaces, run through **CI-27** (*Remedy systems and institutional redress capacity*) and **CI-11** (*Resource stewardship and incentive integrity*), so that a receiver is not left unpaid.
 
 ---
 
