@@ -1088,6 +1088,43 @@ Esta subseção **não** aplica a disciplina da descontinuação voluntária aos
 
 As avaliações do sistema como um todo devem testar estas condições conforme [Capítulo Oito §3.6 Descontinuação Voluntária, Automodificação Significativa e Direitos de Saída](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) antes de aceitar alegações de classificação, governança, limitação ou conformidade nos casos em que se aplica o escopo de inclusão.
 
+#### 7.5 Expressão e a Linha do Dano
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
+
+*Rights-Floor home.* **[Artigo XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expressão*)** declara o piso da expressão operativa, e **[Artigo XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*Limite de Danos Coletivos e Interface de Execução*)** declara onde o dano coletivo começa. Esta subseção estabelece o princípio da Liberdade que os une e não acrescenta nenhuma regra própria.
+
+- [Expressão](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Assédio e intimidação](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [Crueldade](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [Limite de dano coletivo](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*Em termos simples: você pode dizer, escrever, publicar e projetar quase tudo, inclusive o que ofende, perturba ou critica. Mas a fala não é uma brecha. Quando palavras, políticas ou projetos são a forma como alguém prejudica, assedia, intimida ou discrimina outras pessoas, eles são julgados pelo que fazem, da mesma forma para uma pessoa senciente e para uma instituição, e qualquer que seja o rótulo religioso ou político que carregam.*
+
+**Expressão é protegida como expressão.** [Expressão](../../core_05_band_participation.md#expression) abrange pontos de vista de todos os tipos, incluindo os perturbadores, e críticas a qualquer senciente ou instituição. Ofensa, desacordo, desconforto e protesto pacífico não são prejudiciais ([§7.3 Dissidência e Protesto Pacífico](#73-dissent-and-peaceful-protest)).
+
+**A expressão não é um escudo para a conduta.** Discurso, publicação, design, política e outras expressões permanecem sujeitos às regras sobre [Dano](../../core_05_band_accountability.md#harm), [Assédio e Bullying](../../core_05_band_accountability.md#harassment-and-bullying), [Crueldade](../../core_05_band_accountability.md#cruelty), e não discriminação quando são os meios pelos quais essa conduta é realizada. O teste é o que a expressão afirma, exige ou faz, lida no contexto sob as definições do Capítulo Cinco. Essas definições mantêm o seu significado: o assédio e o bullying precisam de um padrão material, e não de uma única observação dura, e o dano precisa de um caminho real de impacto material, e não apenas de ofensa ([Limite de dano coletivo](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**O mesmo teste se aplica a um senciente e a uma instituição.** Um único senciente, um grupo ou uma instituição pode ser o falante, e qualquer um deles pode ser o alvo.
+- Uma instituição fala através das suas políticas, avisos, design da plataforma, declarações oficiais e da forma como trata relatórios e críticas. A conduta realizada dessa forma é julgada como qualquer outra.
+- As críticas a uma instituição, aos seus dirigentes ou à sua conduta são protegidas. Chamar as críticas de bullying ou assédio é um limite de expressão. A parte que faz essa reivindicação arca com o ônus de acordo com [§7.1 Disciplina de Limitação](#71-limitation-discipline) e Capítulo Quatro.
+
+**Rótulos e tópicos não alteram o teste.** Um rótulo religioso, político, ideológico, cultural, artístico ou comercial não transforma expressões que prejudicam outras pessoas ou as tratam de maneiras proibidas pelo **[Artigo VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Não-discriminação*)**, em expressão protegida. Um tema ou ponto de vista não transforma a expressão protegida em dano. **[Artigo XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Liberdade de consciência, religião e visão de mundo comparável*)** protege manter e manifestar crenças de forma consistente com os direitos dos outros.
+
+**Limitar a expressão é diferente de usá-la como evidência.** Um limite na expressão deve atender [§7.1 Disciplina de Limitação](#71-limitation-discipline) e **[Artigo XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expressão*)**, e um limite direcionado ao que é dito enfrenta a revisão mais rigorosa lá. Usar o que um senciente disse como prova de intenção, propósito ou autoridade não é um limite. Segue as regras de evidência do capítulo que faz a pergunta, como [Capítulo Sete §4 Verificação de Formação: Posição e Autenticidade do Titular do Cargo](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), e não pode se tornar uma penalidade para o discurso em si.
+
+**Escopo.** Esta subseção aplica a Disciplina de Limitação e as definições do Capítulo Cinco à expressão. Não cria nenhuma categoria de dano e nenhuma base para limitar a liberdade que [§7.1 Disciplina de Limitação](#71-limitation-discipline) ainda não permita.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Objetivo de Continuidade: Introdução
 <details>

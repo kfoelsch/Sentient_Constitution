@@ -99,6 +99,32 @@
 ---
 
 <a id="participation-measurement-family"></a>
+
+### భాగస్వామ్యం
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: ప్రభావిత పక్షాలకు కేవలం ప్రతీకాత్మక సంప్రదింపులు కాకుండా నిజమైన స్వరం, ప్రాప్యత, న్యాయంగా సవాలు చేసే అవకాశం లభిస్తున్నాయా అని ఈ ప్రశ్నలు పరిశీలిస్తాయి. ఐదవ అధ్యాయంలోని భాగస్వామ్య కొలత కుటుంబానికి ఇది నిలయం; ఉపోద్ఘాతంలోని §2 వర్గపు సరళ ప్రశ్నను ఉంచుతుంది, కుటుంబ పట్టిక మరియు నిర్వచనాల దారి ఇక్కడ ఉన్నాయి.*
+
+*భౌతిక ప్రాధాన్యత ([Materiality](core_05_band_oversight.md#materiality)) సమగ్ర స్వభావం కలది, ప్రత్యేక కొలత వర్గం కాదు; [material stake](core_00_preamble.md#material-stake) ఆధారంగా ఈ కుటుంబం వర్తించే స్థాయిని నిర్ణయిస్తుంది.*
+
+| కొలత కుటుంబం | సరళ ప్రశ్న | ప్రధాన రాజ్యాంగ వినియోగం |
+|---|---|---|
+| న్యాయం, ప్రాప్యత, కార్యసామర్థ్యం | ప్రభావిత స్పృహగల జీవులకు న్యాయంగా వ్యవహరిస్తూ, పాల్గొని నేర్చుకునే వీలు ఉందా? | వెలివేత, అసమాన ప్రభావం, అర్థరహిత ప్రాప్యతను అడ్డుకుంటుంది. |
+| గోప్యత మరియు డేటా సంరక్షణ | నిర్వహణ జీవితచక్రం అంతటా సమాచార స్వీయనిర్ణయం కాపాడబడుతున్నదా? | విభజన, సందర్భాంతర పోలిక, బహిర్గత ఒత్తిడి స్వరాన్ని అణచివేయకుండా నిరోధిస్తుంది. |
+
+**మునుపటి ఫైలు:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**తదుపరి ఫైలు:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### పాల్గొనడం కొలవడం (ప్రస్తావన కొలత కుటుంబం)

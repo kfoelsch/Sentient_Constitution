@@ -38,6 +38,33 @@
 
 <a id="performance-measurement-family"></a>
 
+### 宪法绩效测量 (Preamble measurement family)
+
+*通俗地说：这些问题考察宪法成果是否真正实现，同时没有浪费有感知能力者的时间、精力或材料。*
+
+*本节是第五章中宪法绩效测量家族的归属处。序言§2在概览表中保留类别的通俗问题；家族表、宪法用途和定义路由则列于此处。*
+
+*重要性（[Materiality](../../core_05_band_oversight.md#materiality)）具有整合性，并非单独的测量类别；它根据[material stake](core_00_preamble.md#material-stake)调整本家族的适用力度。*
+
+| 测量家族 | 通俗问题 | 主要宪法用途 |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | 宪法成果是否真正得到实现？ | 防止代理指标取代真实保护。 |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | 系统是否浪费有感知能力者的时间、精力、材料、基础设施或能源？ | 减少不必要的摩擦。 |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | 有感知能力者与系统能否持续产出符合宪法的成果？ | 在不转嫁生态负担的前提下保护持久能力。 |
+
+这些跨领域测量考察系统能否有效实现宪法成果、避免无谓浪费并保留持续产出协调成果的能力；这对[**Flourishing**](core_00_preamble.md#flourishing)与[**Continuity**](core_00_preamble.md#continuity)都至关重要。
+
+- 可操作的测量层级位于第五章的定义归属处：参见[Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency)、[Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden)、[Productive Capacity](../../core_05_band_continuity.md#productive-capacity)和[Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty)。
+- 绩效目标、奖励和资源测量只有在可追溯至宪法成果的范围内才有效。
+- 它们不得取代宪法效率、[Productive Capacity](../../core_05_band_continuity.md#productive-capacity)或权利底线合规。
+- 当全系统绩效具有实质重要性时，阅读[Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)。
+
+---
+
+**上一文件：** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**下一文件：** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### 测量宪法绩效（序言测量族）
 

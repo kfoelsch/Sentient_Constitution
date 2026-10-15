@@ -92,6 +92,35 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
+
+### التوقيت المناسب
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+</details>
+
+<br>
+
+*بعبارات بسيطة: تسأل هذه الأسئلة ما إذا كانت المشكلات تتحرك فعلياً في الوقت المناسب، لا ما إذا كانت لوحة المعلومات تعرض معدل إنجاز. هذا هو موضع عائلة قياس التوقيت المناسب في الفصل الخامس؛ ويحتفظ §2 من الديباجة (نظرة عامة على القياسات) بسؤال الفئة المبسط، بينما يوجد هنا جدول العائلة وإحالات التعريفات.*
+
+*المادية ([Materiality](../../core_05_band_oversight.md#materiality)) تكاملية وليست فئة قياس مستقلة؛ فهي تحدد مدى انطباق هذه العائلة وفق [material stake](core_00_preamble.md#material-stake).*
+
+| عائلة القياس | السؤال المبسط | الاستخدام الدستوري الرئيسي |
+|---|---|---|
+| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | هل تُحسم النزاعات ما دام الانتصاف لا يزال مهماً؟ | يمنع التأخير من إفراغ الحقوق من مضمونها. |
+| الانضباط المضاد للتأخير وانضباط مسارات الحل | هل تتجنب الحوافز والهياكل تراكم القضايا المصطنع والاستحواذ والمواعيد النهائية الفارغة؟ | يكشف أنظمة التأخير و[Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways). |
+
+تسأل هذه المقاييس ما إذا كانت ساعات الإجراءات ومسارات الحل وسرعة الإصلاح تُبقي ضلع **التوقيت المناسب** في [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) حقيقياً في الممارسة، لا على الورق فحسب.
+
+**الملف السابق:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
+**الملف التالي:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+
 <a id="measuring-timeliness"></a>
 
 ### قياس حسن التوقيت

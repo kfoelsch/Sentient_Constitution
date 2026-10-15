@@ -94,6 +94,34 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### 감독 측정
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*쉽게 말해, 이 질문들은 감각 있는 존재가 고영향 시스템이 나타내는 내용을 보고 검증하며 신뢰할 수 있는지 살펴봅니다. 이곳은 제5장의 감독 측정군이 자리하는 곳입니다. 서문 §2는 범주의 쉬운 질문을 남기고, 측정군 표와 정의 안내는 여기에 둡니다.*
+
+*중요성([Materiality](core_05_band_oversight.md#materiality))은 통합 요소이지 별도 측정 범주가 아닙니다. [material stake](core_00_preamble.md#material-stake)에 따라 적용 강도를 조정합니다.*
+
+| 측정군 | 쉬운 질문 | 주요 헌법상 용도 |
+|---|---|---|
+| 진실성과 인식론적 무결성 | 주장, 기록, 공개 내용이 안전한 결정을 내리기에 충분히 정직한가? | 충분한 정보를 바탕으로 한 참여, 구제, 정정을 보호합니다. |
+| 신뢰성 | 의존이 정당한가, 아니면 신뢰가 훼손되고 있는가? | 감각 있는 존재를 잘못된 확신과 오해를 부르는 의존으로부터 보호합니다. |
+
+제6장, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), 또는 편입된 문서가 명시적으로 요구하는 경우에 신뢰성, 감사 또는 검토 요건이 구속력을 갖습니다.
+
+**이전 파일:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**다음 파일:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### 감독 측정 (전문 측정 가족)

@@ -91,6 +91,35 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
+
+### 적시성 측정
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+</details>
+
+<br>
+
+*쉽게 말해, 이 질문들은 대시보드가 처리량을 보여 주는지가 아니라 문제가 실제로 제때 진행되는지를 살펴봅니다. 이곳은 제5장의 적시성 측정군이 자리하는 곳입니다. 서문 §2(측정 개요)는 범주의 쉬운 질문을 남기고, 측정군 표와 정의 안내는 여기에 둡니다.*
+
+*중요성([Materiality](core_05_band_oversight.md#materiality))은 통합 요소이지 별도 측정 범주가 아닙니다. [material stake](core_00_preamble.md#material-stake)에 따라 이 측정군의 적용 강도를 조정합니다.*
+
+| 측정군 | 쉬운 질문 | 주요 헌법상 용도 |
+|---|---|---|
+| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | 구제수단이 여전히 의미 있을 때 분쟁이 해결되는가? | 지연으로 권리가 공허해지는 것을 막습니다. |
+| 지연 방지 및 해결 경로 규율 | 인센티브와 구조가 의도적인 적체, 포획, 형식뿐인 기한을 피하는가? | 지연 체계와 [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways)를 탐지합니다. |
+
+이 측정은 절차 시계, 해결 경로, 회복 속도가 [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)의 **적시성** 축을 문서상으로만이 아니라 실제로도 유지하는지 묻습니다.
+
+**이전 파일:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
+**다음 파일:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+
 <a id="measuring-timeliness"></a>
 
 ### 적시성 측정

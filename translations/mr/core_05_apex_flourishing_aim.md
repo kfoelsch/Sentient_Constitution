@@ -86,6 +86,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### समृद्धी
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*सोप्या भाषेत: संवेदनशील जीवांचे कल्याण, सुरक्षितता आणि कृतीक्षमता प्रत्यक्षात टिकून आहे का—केवळ पर्यायी निर्देशकांतील सहभाग किंवा उत्पादन नाही—हे हे प्रश्न तपासतात. पाचव्या अध्यायात समृद्धी मापन-कुटुंबाचे स्थान येथे आहे; प्रस्तावनेतील §2 श्रेणीचा सोपा प्रश्न ठेवतो आणि कुटुंबाचा तक्ता व व्याख्यांकडे निर्देश येथे आहेत.*
+
+*महत्त्वता ([Materiality](core_05_band_oversight.md#materiality)) एकात्मिक आहे, स्वतंत्र मापन-श्रेणी नाही; [material stake](core_00_preamble.md#material-stake) नुसार या कुटुंबाचा लागू होण्याचा जोर ती ठरवते.*
+
+| उपकुटुंब | सोपा प्रश्न | मुख्य घटनात्मक उपयोग |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | संवेदनशील जीवांचे कार्य, कृतीक्षमता आणि सहाय्यक परिस्थिती टिकून आहेत का? | **समृद्धी** परिणामाचे प्राथमिक मापन (घटक नव्हे)—पर्यायी सहभाग किंवा उत्पादन नव्हे. |
+| सुरक्षितता, हानी आणि जोखीम | अंदाज करता येणारी हानी रोखली, मर्यादित केली आणि प्रामाणिकपणे तपासली जाते का? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
+| जगण्याच्या किमान पातळीपर्यंत प्रवेश | संवेदनशील जीवांना अन्न, पाणी, निवारा, काळजी आणि स्थिर पर्यावरण यांसारख्या गरजा मिळू शकतात का? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (जगणे). |
+
+कार्यकारी मापन-स्तर त्या व्याख्या-स्थानी आहेत.
+
+**मागील फाइल:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**पुढील फाइल:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### समुन्नती मोजणे (प्रस्तावना मापन कुटुंब)

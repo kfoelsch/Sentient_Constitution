@@ -86,6 +86,35 @@ As definições-folha sob este fim herdam o seu âmbito a menos que o estreitem 
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### Florescimento
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*Em termos simples: estas perguntas verificam se os sencientes mantêm de fato bem-estar, segurança e agência — e não apenas engajamento por indicadores substitutos ou volume de processamento. Este é o espaço da família de medição do Florescimento no Capítulo Cinco; o §2 do Preâmbulo mantém a pergunta simples da categoria, e aqui ficam a tabela da família e as referências às definições.*
+
+*A materialidade ([Materiality](core_05_band_oversight.md#materiality)) é integrativa, não uma categoria de medição separada; ela dimensiona a aplicação desta família conforme o [material stake](core_00_preamble.md#material-stake).*
+
+| Subfamília | Pergunta simples | Principal uso constitucional |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | Os sencientes mantêm função, agência e condições de apoio? | Medida primária do resultado de **Florescimento** (não um componente) — não engajamento substituto nem volume de processamento. |
+| Segurança, dano e risco | O dano previsível é prevenido, contido e avaliado com honestidade? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
+| Acesso ao piso de sobrevivência | Os sencientes conseguem acessar o essencial: alimento, água, abrigo, cuidado e ambiente estável? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (Sobrevivência). |
+
+Os níveis operacionais de medição estão nessas definições.
+
+**Arquivo anterior:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**Arquivo seguinte:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### Medir o Florescimento (família de medição do Preâmbulo)

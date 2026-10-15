@@ -76,6 +76,48 @@ Les **termes indépendants et semi-indépendants** vivent sous [Reddition de com
 ---
 
 <a id="accountability-measurement-family"></a>
+
+### Mesure de la responsabilité
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+
+</details>
+
+<br>
+
+*En termes simples : ces questions vérifient si les récompenses, les marchés et la possibilité d’exiger des comptes rendent la responsabilité réelle dans la pratique, et pas seulement sur le papier.*
+
+*Cette section est le lieu de la famille de mesures de la responsabilité au chapitre cinq. Le §2 du Préambule (Vue d’ensemble des mesures) conserve la question simple de la catégorie dans le tableau général ; le tableau de la famille, son usage constitutionnel et le renvoi aux définitions sont ici.*
+
+*La matérialité ([Materiality](core_05_band_oversight.md#materiality)) est intégrative, et non une catégorie de mesure distincte ; elle module l’application de cette famille selon le [material stake](core_00_preamble.md#material-stake).*
+
+| Famille de mesures | Question simple | Usage constitutionnel principal |
+|---|---|---|
+| Alignement des incitations et intégrité des indicateurs indirects | Les récompenses et les mesures suivent-elles les résultats constitutionnels réels ? | Détecte les incitations perverses, la captation et [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) ; donne une forme mesurable aux [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions). |
+| Structure du marché et contestabilité | L’entrée, la sortie, la négociation et les solutions de remplacement peuvent-elles rester réelles ? | Applique les règles contre la concentration et la domination lorsque les affirmations de capacité dépendent de marchés ouverts. |
+
+Ces mesures vérifient si les structures de récompense, le pouvoir de marché et l’obligation de rendre des comptes maintiennent réellement le volet **responsabilité** du [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), et pas seulement sur le papier.
+
+Les niveaux de mesure opérationnels se trouvent dans les définitions du chapitre cinq :
+
+- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
+- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
+- [Contestability](../../core_05_band_accountability.md#contestability)
+- [Market Structure](../../core_05_band_accountability.md#market-structure)
+- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
+- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
+- [Accountability](#accountability) (link-only leg-head rollup)
+
+---
+
+**Fichier précédent :** [core_05__definitions_home.md](core_05__definitions_home.md)
+
+**Fichier suivant :** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
 <a id="measuring-accountability"></a>
 
 ### Mesurer la reddition de comptes

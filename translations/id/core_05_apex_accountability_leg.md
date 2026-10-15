@@ -74,6 +74,48 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 ---
 
 <a id="accountability-measurement-family"></a>
+
+### Pengukuran Akuntabilitas
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: pertanyaan ini menilai apakah imbalan, pasar, dan kemampuan meminta pertanggungjawaban menjaga akuntabilitas tetap nyata dalam praktik, bukan hanya di atas kertas.*
+
+*Bagian ini adalah rumah keluarga pengukuran Akuntabilitas dalam Bab Lima. §2 Preambul (Ikhtisar Pengukuran) memuat pertanyaan kategori dalam bahasa sederhana pada tabel ikhtisar; tabel keluarga, penggunaan konstitusional, dan rujukan definisi berada di sini.*
+
+*Materialitas ([Materiality](../../core_05_band_oversight.md#materiality)) bersifat integratif, bukan kategori pengukuran tersendiri; hal ini menentukan seberapa kuat keluarga ini berlaku berdasarkan [material stake](core_00_preamble.md#material-stake).*
+
+| Keluarga pengukuran | Pertanyaan sederhana | Penggunaan konstitusional utama |
+|---|---|---|
+| Keselarasan insentif dan integritas proksi | Apakah imbalan dan metrik mengikuti hasil konstitusional yang nyata? | Mendeteksi insentif yang menyimpang, penguasaan, dan [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence); bentuk pengukuran dari [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions). |
+| Struktur pasar dan daya saing | Dapatkah akses masuk, keluar, tawar-menawar, dan alternatif tetap nyata? | Menerapkan disiplin anti-konsentrasi dan anti-dominasi ketika klaim kapasitas bergantung pada pasar terbuka. |
+
+Ukuran ini menilai apakah struktur imbalan, kekuatan pasar, dan akuntabilitas menjaga sisi **akuntabilitas** dari [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) tetap nyata dalam praktik, bukan hanya di atas kertas.
+
+Tingkat pengukuran operasional berada pada rumah definisi Bab Lima:
+
+- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
+- [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence)
+- [Contestability](../../core_05_band_accountability.md#contestability)
+- [Market Structure](../../core_05_band_accountability.md#market-structure)
+- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
+- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
+- [Accountability](#accountability) (link-only leg-head rollup)
+
+---
+
+**Berkas sebelumnya:** [core_05__definitions_home.md](core_05__definitions_home.md)
+
+**Berkas berikutnya:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
 <a id="measuring-accountability"></a>
 
 ### Mengukur pertanggungjawaban

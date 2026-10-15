@@ -74,6 +74,48 @@
 ---
 
 <a id="accountability-measurement-family"></a>
+
+### 책임성 측정
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+
+</details>
+
+<br>
+
+*쉽게 말해, 이 질문들은 보상, 시장, 책임을 물을 수 있는 수단이 책임성을 문서상으로만이 아니라 실제로도 유지하는지 살펴봅니다.*
+
+*이곳은 제5장의 책임성 측정군이 자리하는 곳입니다. 서문 §2(측정 개요)는 개요 표에 범주에 대한 쉬운 질문을 남기고, 측정군 표와 헌법상 용도, 정의 안내는 여기에 둡니다.*
+
+*중요성([Materiality](core_05_band_oversight.md#materiality))은 통합 요소이지 별도의 측정 범주가 아닙니다. [material stake](core_00_preamble.md#material-stake)에 따라 이 측정군의 적용 강도를 조정합니다.*
+
+| 측정군 | 쉬운 질문 | 주요 헌법상 용도 |
+|---|---|---|
+| 인센티브 정렬 및 대리지표의 무결성 | 보상과 지표가 실제 헌법적 결과를 따르는가? | 왜곡된 인센티브, 포획, [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)를 탐지하며 [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions)를 측정 형태로 나타냅니다. |
+| 시장 구조와 경쟁 가능성 | 진입, 퇴출, 협상, 대안이 실질적으로 유지될 수 있는가? | 역량 주장이 개방된 시장에 의존하는 경우 집중과 지배를 막는 규율을 적용합니다. |
+
+이 측정은 보상 구조, 시장 권력, 책임을 물을 수 있는 수단이 [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)의 **책임성** 축을 문서상으로만이 아니라 실제로도 유지하는지 묻습니다.
+
+운영상 측정 단계는 제5장의 정의 항목에 있습니다:
+
+- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
+- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
+- [Contestability](../../core_05_band_accountability.md#contestability)
+- [Market Structure](../../core_05_band_accountability.md#market-structure)
+- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
+- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
+- [Accountability](#accountability) (link-only leg-head rollup)
+
+---
+
+**이전 파일:** [core_05__definitions_home.md](core_05__definitions_home.md)
+
+**다음 파일:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
 <a id="measuring-accountability"></a>
 
 ### 책무 측정

@@ -38,6 +38,33 @@
 
 <a id="performance-measurement-family"></a>
 
+### การวัดสมรรถนะตามรัฐธรรมนูญ (Preamble measurement family)
+
+*กล่าวอย่างง่าย ๆ: คำถามเหล่านี้ตรวจสอบว่ามีการส่งมอบผลลัพธ์ตามรัฐธรรมนูญจริงหรือไม่ โดยไม่ทำให้เวลา ความพยายาม หรือวัสดุของสิ่งมีความรู้สึกสูญเปล่า*
+
+*ส่วนนี้เป็นที่ตั้งของกลุ่มการวัดสมรรถนะตามรัฐธรรมนูญในบทที่ห้า §2 ของบทนำคงคำถามอย่างง่ายของหมวดไว้ในตารางภาพรวม ส่วนตารางกลุ่ม การใช้ตามรัฐธรรมนูญ และทางไปยังคำนิยามอยู่ที่นี่*
+
+*ความมีนัยสำคัญ ([Materiality](core_05_band_oversight.md#materiality)) เป็นองค์ประกอบบูรณาการ ไม่ใช่หมวดแยก โดยปรับระดับการใช้กลุ่มนี้ตาม [material stake](core_00_preamble.md#material-stake)*
+
+| กลุ่มการวัด | คำถามอย่างง่าย | การใช้ตามรัฐธรรมนูญหลัก |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | มีการส่งมอบผลลัพธ์ตามรัฐธรรมนูญจริงหรือไม่? | ป้องกันไม่ให้ตัวชี้วัดแทนที่การคุ้มครองที่แท้จริง |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | ระบบกำลังทำให้เวลา ความพยายาม วัสดุ โครงสร้างพื้นฐาน หรือพลังงานของสิ่งมีความรู้สึกสูญเปล่าหรือไม่? | ลดอุปสรรคที่ไม่จำเป็น |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | สิ่งมีความรู้สึกและระบบสามารถสร้างผลลัพธ์ที่สอดคล้องต่อไปได้หรือไม่? | คุ้มครองขีดความสามารถที่ยั่งยืนโดยไม่ผลักภาระด้านนิเวศไปที่อื่น |
+
+มาตรวัดข้ามด้านเหล่านี้ตรวจสอบว่าระบบส่งมอบผลลัพธ์ตามรัฐธรรมนูญอย่างมีประสิทธิผล หลีกเลี่ยงความสูญเปล่า และรักษาความสามารถในการสร้างผลลัพธ์ที่สอดคล้องต่อไปหรือไม่ ซึ่งเป็นปัจจัยสำคัญต่อทั้ง [**Flourishing**](core_00_preamble.md#flourishing) และ [**Continuity**](core_00_preamble.md#continuity)
+
+- ระดับการวัดเชิงปฏิบัติอยู่ในส่วนคำนิยามของบทที่ห้า: ดู [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) และ [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty)
+- เป้าหมายสมรรถนะ รางวัล และมาตรวัดทรัพยากรจะถูกต้องได้เท่าที่ตรวจสอบย้อนกลับไปยังผลลัพธ์ตามรัฐธรรมนูญ
+- สิ่งเหล่านี้ใช้แทนประสิทธิภาพตามรัฐธรรมนูญ [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) หรือการปฏิบัติตามพื้นฐานสิทธิไม่ได้
+- อ่านตั้งแต่ [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ถึง [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) เมื่อสมรรถนะของทั้งระบบมีนัยสำคัญ
+
+---
+
+**ไฟล์ก่อนหน้า:** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**ไฟล์ถัดไป:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### การวัดสมรรถนะทางรัฐธรรมนูญ (ตระกูลการวัดของคำปรารภ)
 

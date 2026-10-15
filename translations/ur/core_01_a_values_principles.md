@@ -1090,6 +1090,43 @@ sentient beings کو ایسے نظام درکار ہیں جن پر وہ حقیق
 
 جہاں شمولیتی دائرہ لاگو ہو وہاں درجہ بندی، حکمرانی، تحدید یا تعمیل کے دعوے درست ماننے سے پہلے پورے نظام کے جائزے میں ان شرائط کو [باب ہشتم §3.6 رضاکارانہ خاتمہ، بڑی خود ترمیم، اور اخراج کے حقوق](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) کے تحت جانچنا لازم ہے۔
 
+#### 7.5 اظہار اور نقصان کی لکیر
+
+<details>
+<summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
+
+*حقوق- منزل کا گھر ۔**[آرٹیکل XI - B](core_06_rights_part_b.md#article-xi-b-expression)(*اظہار**)** آپریٹو اظہار کی منزل بتاتا ہے، اور **[آرٹیکل XI - G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)(*اجتماعی نقصان کی حد اور نفاذ انٹرفیس**)** بتاتا ہے کہ اجتماعی نقصان کہاں سے شروع ہوتا ہے ۔ یہ ذیلی سیکشن آزادی کے اصول کو بیان کرتا ہے جو ان میں شامل ہوتا ہے، اور اپنے طور پر کوئی قاعدہ شامل نہیں کرتا ہے ۔
+
+-[اظہار](core_05_band_participation.md#expression)·[O](core_05_band_participation.md#expression)·[م](core_05_band_participation.md#expression-constitutional-a)·[A](core_05_band_participation.md#expression-constitutional-a)·[C](core_05_band_participation.md#expression-constitutional-c)
+-[نقصان](core_05_band_accountability.md#harm)·[O](core_05_band_accountability.md#harm)·[م](core_05_band_accountability.md#harm-a)·[A](core_05_band_accountability.md#harm-a)·[C](core_05_band_accountability.md#harm-c)
+-[ہراسانی اور غنڈہ گردی](core_05_band_accountability.md#harassment-and-bullying)·[O](core_05_band_accountability.md#harassment-and-bullying)·[م](core_05_band_accountability.md#harassment-and-bullying-a)·[A](core_05_band_accountability.md#harassment-and-bullying-a)·[C](core_05_band_accountability.md#harassment-and-bullying-c)
+-[ظلم کا۔](core_05_band_accountability.md#cruelty)·[O](core_05_band_accountability.md#cruelty)·[م](core_05_band_accountability.md#cruelty-a)·[A](core_05_band_accountability.md#cruelty-a)·[C](core_05_band_accountability.md#cruelty-c)
+-[اجتماعی نقصان کی حد](core_05_band_accountability.md#collective-harm-boundary)·[O](core_05_band_accountability.md#collective-harm-boundary)·[م](core_05_band_accountability.md#collective-harm-boundary-a)·[A](core_05_band_accountability.md#collective-harm-boundary-a)·[C](core_05_band_accountability.md#collective-harm-boundary-c)
+-[ضرورت](core_05_band_accountability.md#necessity)·[O](core_05_band_accountability.md#necessity)·[م](core_05_band_accountability.md#necessity-a)·[A](core_05_band_accountability.md#necessity-a)·[C](core_05_band_accountability.md#necessity-c)
+-[متناسبیت](core_05_band_accountability.md#proportionality)·[O](core_05_band_accountability.md#proportionality)·[م](core_05_band_accountability.md#proportionality-a)·[A](core_05_band_accountability.md#proportionality-a)·[C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+* سادہ الفاظ میں: آپ تقریبا کسی بھی چیز کو کہہ سکتے ہیں، لکھ سکتے ہیں، شائع کر سکتے ہیں اور ڈیزائن کر سکتے ہیں، بشمول وہ چیز جو ناراض کرتی ہے، پریشان کرتی ہے، یا تنقید کرتی ہے ۔ لیکن تقریر کوئی چھید نہیں ہے ۔ جب الفاظ، پالیسیاں، یا ڈیزائن ایسے ہوتے ہیں جیسے کوئی شخص دوسروں کو نقصان پہنچاتا ہے، ہراساں کرتا ہے، غنڈہ گردی کرتا ہے، یا دوسروں کے ساتھ امتیازی سلوک کرتا ہے، تو ان کا اندازہ اس بات سے لگایا جاتا ہے کہ وہ کیا کرتے ہیں، اسی طرح ایک حساس شخص کے لیے جس طرح کسی ادارے کے لیے، اور وہ جو بھی مذہبی یا سیاسی لیبل رکھتے ہیں۔*
+
+**اظہار اظہار کے طور پر محفوظ ہے۔**[اظہار](../../core_05_band_participation.md#expression)ہر قسم کے خیالات کا احاطہ کرتا ہے، بشمول پریشان کن، اور کسی بھی حساس یا ادارے پر تنقید ۔ جرم، اختلاف، تکلیف، اور پرامن احتجاج سے کوئی نقصان نہیں ہوتا ([§7.3 اختلاف رائے اور پرامن احتجاج](#73-dissent-and-peaceful-protest)).
+
+**اظہار اخلاق کے لیے ڈھال نہیں ہے ۔** تقریر، اشاعت، ڈیزائن، پالیسی، اور دیگر اظہار[نقصان](../../core_05_band_accountability.md#harm)،[ہراسانی اور غنڈہ گردی](../../core_05_band_accountability.md#harassment-and-bullying)،[ظلم کا۔](../../core_05_band_accountability.md#cruelty)، اور غیر امتیازی سلوک جب وہ وہ ذریعہ ہوتے ہیں جس کے ذریعہ وہ طرز عمل انجام دیا جاتا ہے ۔ ٹیسٹ وہ ہے جس کا اظہار باب پانچ کی تعریفوں کے تحت سیاق و سباق میں پڑھتا ہے، بلاتا ہے یا کرتا ہے ۔ وہ تعریفیں ان کے معنی رکھتی ہیں: ہراسانی اور غنڈہ گردی کو ایک مادی نمونہ کی ضرورت ہوتی ہے، نہ کہ ایک تیز تبصرہ، اور نقصان کو ایک حقیقی مادی اثر کی ضرورت ہوتی ہے راستہ، اکیلے جرم نہیں ([اجتماعی نقصان کی حد](../../core_05_band_accountability.md#collective-harm-boundary).
+
+** یہی ٹیسٹ کسی حساس اور کسی ادارے پر لاگو ہوتا ہے ۔** ایک واحد حساس، ایک گروپ، یا ایک ادارہ اسپیکر ہو سکتا ہے، اور ان میں سے کوئی بھی ہدف ہو سکتا ہے.
+- ایک ادارہ اپنی پالیسیوں، نوٹسز، پلیٹ فارم ڈیزائن، سرکاری بیانات، اور رپورٹس اور نقادوں کے ساتھ سلوک کرنے کے طریقے کے ذریعے بات کرتا ہے ۔ اس طریقے سے انجام دیئے جانے والے طرز عمل کا فیصلہ کسی بھی دوسرے کی طرح کیا جاتا ہے ۔
+- کسی ادارے، اس کے افسران، یا اس کے طرز عمل پر تنقید محفوظ ہے ۔ تنقید کو غنڈہ گردی یا ہراساں کرنا اظہار رائے کی ایک حد ہے ۔ اس دعوے کو کرنے والی پارٹی کا بوجھ[§7.1 حد بندی کا نظم و ضبط](#71-limitation-discipline)اور باب 4 ۔
+
+**لیبلز اور موضوعات ٹیسٹ کو تبدیل نہیں کرتے ہیں ۔** ایک مذہبی، سیاسی، نظریاتی، ثقافتی، فنکارانہ، یا تجارتی لیبل اظہار کو تبدیل نہیں کرتا ہے جو دوسروں کو نقصان پہنچاتا ہے، یا ان کے ساتھ ان طریقوں سے سلوک کرتا ہے جو ** کے تحت ممنوع ہیں[آرٹیکل VI - C](core_06_rights_part_b.md#article-vi-c-nondiscrimination)(*غیر امتیازی سلوک**)**، محفوظ اظہار میں ۔ کوئی موضوع یا نقطہ نظر محفوظ اظہار کو نقصان میں تبدیل نہیں کرتا ہے ۔**[آرٹیکل XI - A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)(* ضمیر، مذہب، اور موازنہ عالمی نقطہ نظر کی آزادی *)** دوسروں کے حقوق کے ساتھ مستقل طور پر عقیدے کو برقرار رکھنے اور ظاہر کرنے کی حفاظت کرتا ہے ۔
+
+** اظہار کو محدود کرنا اسے ثبوت کے طور پر استعمال کرنے سے مختلف ہے ۔** اظہار رائے کی ایک حد کو پورا کرنا ضروری ہے[§7.1 حد بندی کا نظم و ضبط](#71-limitation-discipline)اور [آرٹیکل XI - B](core_06_rights_part_b.md#article-xi-b-expression)(*اظہار *)**، اور ایک حد جس کا مقصد کہا گیا ہے وہاں سخت ترین جائزے کا سامنا کرنا پڑتا ہے ۔ نیت، مقصد یا اختیار کے ثبوت کے طور پر کسی حساس شخص نے جو کچھ کہا ہے اسے استعمال کرنا کوئی حد نہیں ہے ۔ یہ اس باب کے شواہد کے قواعد کی پیروی کرتا ہے جو سوال پوچھتا ہے، جیسے[باب 7 §4 فارمیشن چیک: آفس ہولڈر اسٹینڈنگ اور صداقت](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity)، اور یہ خود تقریر کے لئے جرمانہ نہیں بن سکتا ہے ۔
+
+**دائرہ کار ۔** یہ ذیلی سیکشن محدود نظم و ضبط اور باب پانچ کی تعریفوں کو اظہار پر لاگو کرتا ہے ۔ اس سے نقصان کا کوئی زمرہ نہیں بنتا اور آزادی کو محدود کرنے کی کوئی بنیاد نہیں بنتی جو[§7.1 حد بندی کا نظم و ضبط](#71-limitation-discipline)پہلے سے اجازت نہیں دیتا ۔
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. تسلسل کا مقصد: تعارف
 <details>

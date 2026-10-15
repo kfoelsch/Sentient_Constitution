@@ -91,6 +91,35 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
+
+### वेळेवरता मापन
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+</details>
+
+<br>
+
+*सोप्या भाषेत: डॅशबोर्डवर कामाचा वेग दिसतो का एवढेच नव्हे, तर समस्या प्रत्यक्षात वेळेत पुढे सरकतात का, हे हे प्रश्न तपासतात. पाचव्या अध्यायात वेळेवरता मापन-कुटुंबाचे स्थान येथे आहे; प्रस्तावनेतील §2 (मापनांचा आढावा) श्रेणीचा सोपा प्रश्न ठेवतो आणि कुटुंबाचा तक्ता व व्याख्यांकडे निर्देश येथे आहेत.*
+
+*महत्त्वता ([Materiality](core_05_band_oversight.md#materiality)) एकात्मिक आहे, स्वतंत्र मापन-श्रेणी नाही; [material stake](core_00_preamble.md#material-stake) नुसार या कुटुंबाचा लागू होण्याचा जोर ती ठरवते.*
+
+| मापन-कुटुंब | सोपा प्रश्न | मुख्य घटनात्मक उपयोग |
+|---|---|---|
+| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | उपाय अजूनही महत्त्वाचा असताना वाद मिटवले जातात का? | विलंबामुळे हक्कांचा आशय पोकळ होऊ देत नाही. |
+| विलंबविरोधी आणि निराकरण-मार्ग शिस्त | प्रोत्साहने आणि रचना जाणूनबुजून प्रलंबितता, कब्जा आणि निरर्थक मुदती टाळतात का? | विलंबाच्या पद्धती आणि [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways) ओळखते. |
+
+प्रक्रियेची वेळ, निराकरणाचे मार्ग आणि दुरुस्तीचा वेग [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) मधील **वेळेवरतेचा** पाया प्रत्यक्षात खरा ठेवतात का, केवळ कागदावर नव्हे, हे ही मापने विचारतात.
+
+**मागील फाइल:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
+**पुढील फाइल:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+
 <a id="measuring-timeliness"></a>
 
 ### समयबद्धता मोजणे

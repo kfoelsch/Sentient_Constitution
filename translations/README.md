@@ -51,6 +51,6 @@ review records intact. After an independent fluent review, use the
 `record-review` command documented in [`tools/README.md`](../tools/README.md#translation-maintenance)
 to store the reviewer, date, and current content hashes.
 
-**Help translate.** If you read one of these languages fluently, you can report errors, suggest glossary terms, or volunteer to look after a language. See the [translation lane](../CONTRIBUTING.md#lane-f). Full translation and resync work is paused until the English edit pass is finished, so some translations may be behind the English for now.
+**Help translate.** If you read one of these languages fluently, you can report errors, suggest glossary terms, or volunteer to look after a language. See the [translation lane](../CONTRIBUTING.md#lane-f). General translation and resync work is paused until the English edit pass is finished, though the custodian may authorize scoped AI-assisted draft updates against a named source snapshot. Those drafts remain unreviewed; the [pre-announcement AI checks](../doc_architecture.md#pre-announcement-ai-assisted-checks-current-process) do not count as independent human review. The [post-release review process](../doc_architecture.md#post-release-translation-review-and-attestation-process-for-after-announcement) describes the human review required before a translation can be attested. Some translations may be behind the English for now.
 
 Back to the [main page](../README.md).

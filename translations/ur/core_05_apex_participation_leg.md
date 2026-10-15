@@ -99,6 +99,32 @@
 ---
 
 <a id="participation-measurement-family"></a>
+
+### شرکت
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*سادہ الفاظ میں: یہ سوالات دیکھتے ہیں کہ کیا متاثرہ فریقوں کو واقعی اظہار، رسائی اور اعتراض کا منصفانہ موقع ملتا ہے یا صرف علامتی مشاورت ہوتی ہے۔ باب پانچ میں شرکت کی پیمائشی خاندان کی جگہ یہ ہے؛ تمہید کا §2 زمرے کا سادہ سوال رکھتا ہے، جبکہ خاندان کا جدول اور تعریفوں کی رہنمائی یہاں ہے۔*
+
+*مادیت ([Materiality](core_05_band_oversight.md#materiality)) انضمامی ہے، الگ پیمائشی زمرہ نہیں؛ [material stake](core_00_preamble.md#material-stake) کے مطابق خاندان کے اطلاق کی شدت طے کرتی ہے۔*
+
+| پیمائشی خاندان | سادہ سوال | بنیادی آئینی استعمال |
+|---|---|---|
+| انصاف، رسائی اور عمل کی صلاحیت | کیا متاثرہ ذی حس ہستیوں کے ساتھ منصفانہ سلوک ہوتا ہے اور کیا وہ حصہ لے اور سیکھ سکتی ہیں؟ | اخراج، غیر مساوی اثر اور کھوکھلی رسائی سے بچاتا ہے۔ |
+| رازداری اور ڈیٹا کی نگہداشت | کیا معلوماتی خودمختاری پورے عمل کے دوران برقرار رہتی ہے؟ | تقسیم بندی، مختلف سیاق میں ڈیٹا ملانے، اور افشا کے دباؤ کو اظہار کی آواز دبانے سے روکتا ہے۔ |
+
+**پچھلی فائل:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**اگلی فائل:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### شرکت ناپنا (تمہید پیمائش خاندان)

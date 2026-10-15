@@ -101,6 +101,32 @@ Les **termes indépendants** vivent sous [Participation : termes indépendants](
 ---
 
 <a id="participation-measurement-family"></a>
+
+### Participation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*En termes simples : ces questions vérifient si les parties concernées disposent réellement d’une voix, d’un accès et d’une possibilité équitable de contester — et pas seulement d’une consultation symbolique. Cette section accueille la famille de mesures de la participation au chapitre cinq ; le §2 du Préambule conserve la question simple de la catégorie, et le tableau de la famille ainsi que les renvois aux définitions sont ici.*
+
+*La matérialité ([Materiality](core_05_band_oversight.md#materiality)) est intégrative, et non une catégorie distincte ; elle module l’application de cette famille selon le [material stake](core_00_preamble.md#material-stake).*
+
+| Famille de mesures | Question simple | Usage constitutionnel principal |
+|---|---|---|
+| Équité, accès et capacité d’agir | Les êtres sentients concernés sont-ils traités équitablement et peuvent-ils participer et apprendre ? | Évite l’exclusion, les effets disproportionnés et un accès de façade. |
+| Vie privée et gestion des données | L’autodétermination informationnelle est-elle préservée pendant tout le cycle de traitement ? | Empêche le cloisonnement, les recoupements et la pression à l’exposition de réduire la voix au silence. |
+
+**Fichier précédent :** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**Fichier suivant :** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### Mesurer la participation (famille de mesure du Préambule)

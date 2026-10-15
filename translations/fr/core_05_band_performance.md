@@ -38,6 +38,33 @@ Ce fichier est le foyer de la famille de mesure **Performance constitutionnelle*
 
 <a id="performance-measurement-family"></a>
 
+### Performance constitutionnelle (Preamble measurement family)
+
+*En termes simples : ces questions vérifient si les résultats constitutionnels sont effectivement obtenus sans gaspiller le temps, les efforts ou les matières des êtres sentients.*
+
+*Cette section accueille la famille de mesures de la performance constitutionnelle au chapitre cinq. Le §2 du Préambule conserve la question simple de la catégorie dans le tableau général ; le tableau de la famille, son usage constitutionnel et les renvois aux définitions sont ici.*
+
+*La matérialité ([Materiality](core_05_band_oversight.md#materiality)) est intégrative, et non une catégorie distincte ; elle module l’application de cette famille selon le [material stake](core_00_preamble.md#material-stake).*
+
+| Famille de mesures | Question simple | Usage constitutionnel principal |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | Les résultats constitutionnels sont-ils effectivement obtenus ? | Empêche que des indicateurs indirects remplacent une protection réelle. |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | Le système gaspille-t-il le temps, les efforts, les matières, l’infrastructure ou l’énergie des êtres sentients ? | Réduit les frictions inutiles. |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | Les êtres sentients et les systèmes peuvent-ils continuer à produire des résultats alignés ? | Protège une capacité durable sans déplacer la charge écologique. |
+
+Ces mesures transversales vérifient si les systèmes obtiennent efficacement les résultats constitutionnels, évitent le gaspillage inutile et préservent la capacité à continuer de produire des résultats alignés — ce qui sert à la fois [**Flourishing**](core_00_preamble.md#flourishing) et [**Continuity**](core_00_preamble.md#continuity).
+
+- Les niveaux opérationnels de mesure figurent dans les définitions du chapitre cinq : voir [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) et [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty).
+- Les objectifs de performance, les récompenses et les mesures de ressources ne sont valides que dans la mesure où ils restent traçables aux résultats constitutionnels.
+- Ils ne peuvent remplacer l’efficacité constitutionnelle, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) ni le respect du socle de droits.
+- Lisez [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) jusqu’à [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) lorsque la performance de l’ensemble du système est matériellement en jeu.
+
+---
+
+**Fichier précédent :** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**Fichier suivant :** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### Mesurer la Performance constitutionnelle (famille de mesure du Préambule)
 

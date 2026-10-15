@@ -91,6 +91,35 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
+
+### بروقت کارروائی
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+</details>
+
+<br>
+
+*سادہ الفاظ میں: یہ سوالات دیکھتے ہیں کہ مسائل واقعی وقت پر آگے بڑھتے ہیں یا نہیں—صرف یہ نہیں کہ ڈیش بورڈ کارروائی کا حجم دکھاتا ہے۔ باب پانچ میں بروقت کارروائی کی پیمائشی خاندان کی جگہ یہ ہے؛ تمہید کا §2 (پیمائشوں کا جائزہ) زمرے کا سادہ سوال رکھتا ہے، جبکہ خاندان کا جدول اور تعریفوں کی رہنمائی یہاں ہے۔*
+
+*مادیت ([Materiality](core_05_band_oversight.md#materiality)) انضمامی ہے، الگ پیمائشی زمرہ نہیں؛ [material stake](core_00_preamble.md#material-stake) کے مطابق خاندان کے اطلاق کی شدت طے کرتی ہے۔*
+
+| پیمائشی خاندان | سادہ سوال | بنیادی آئینی استعمال |
+|---|---|---|
+| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | کیا تنازعات اس وقت حل ہوتے ہیں جب تلافی اب بھی اہم ہو؟ | تاخیر کو حقوق کا کھوکھلا پن بننے سے روکتا ہے۔ |
+| تاخیر کے خلاف اور حل کے راستوں سے متعلق نظم | کیا ترغیبات اور ڈھانچے دانستہ جمع بیک لاگ، قبضے اور بے معنی آخری تاریخوں سے بچتے ہیں؟ | تاخیری نظاموں اور [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways) کی نشان دہی کرتا ہے۔ |
+
+یہ پیمائشیں دیکھتی ہیں کہ کارروائی کی گھڑیاں، حل کے راستے اور تلافی کی رفتار [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) کے **بروقت کارروائی** والے ستون کو عمل میں حقیقی رکھتے ہیں یا صرف کاغذ پر۔
+
+**پچھلی فائل:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
+**اگلی فائل:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+
 <a id="measuring-timeliness"></a>
 
 ### بروقت کارروائی ناپنا

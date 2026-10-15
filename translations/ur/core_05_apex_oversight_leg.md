@@ -94,6 +94,34 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### نگرانی
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*سادہ الفاظ میں: یہ سوالات دیکھتے ہیں کہ کیا ذی حس ہستیاں زیادہ اثر رکھنے والے نظاموں کی پیش کردہ باتوں کو دیکھ، جانچ اور ان پر بھروسا کر سکتی ہیں۔ باب پانچ میں نگرانی کی پیمائشی خاندان کی جگہ یہ ہے؛ تمہید کا §2 زمرے کا سادہ سوال رکھتا ہے، جبکہ خاندان کا جدول اور تعریفوں کی رہنمائی یہاں ہے۔*
+
+*مادیت ([Materiality](core_05_band_oversight.md#materiality)) انضمامی ہے، الگ پیمائشی زمرہ نہیں؛ [material stake](core_00_preamble.md#material-stake) کے مطابق خاندان کے اطلاق کی شدت طے کرتی ہے۔*
+
+| پیمائشی خاندان | سادہ سوال | بنیادی آئینی استعمال |
+|---|---|---|
+| سچائی اور علمی دیانت | کیا دعوے، ریکارڈ اور انکشافات محفوظ فیصلوں کے لیے کافی دیانت دار ہیں؟ | باخبر شرکت، تلافی اور اصلاح کی حفاظت کرتا ہے۔ |
+| قابلِ اعتماد ہونا | کیا اعتماد بجا ہے یا اسے کمزور کیا جا رہا ہے؟ | ذی حس ہستیوں کو جھوٹے اطمینان اور گمراہ کن انحصار سے بچاتا ہے۔ |
+
+قابلِ اعتماد ہونے، آڈٹ یا جائزے کے پابند تقاضے تب پیدا ہوتے ہیں جب باب چھ، [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)، یا شامل کردہ دستاویزات انہیں واضح طور پر لازم کریں۔
+
+**پچھلی فائل:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**اگلی فائل:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### نگرانی ناپنا (تمہید پیمائش خاندان)

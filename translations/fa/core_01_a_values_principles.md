@@ -1089,6 +1089,43 @@ flowchart TB
 
 ارزیابی‌های کل‌سامانه‌ای، در مواردی که دامنهٔ پذیرش برقرار است، باید این شرایط را طبق [فصل هشتم §3.6 توقف داوطلبانه، خودتغییردهی عمده و حقوق خروج](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) بررسی کنند، پیش از آنکه ادعاهای طبقه‌بندی، حکمرانی، محدودیت یا انطباق پذیرفته شوند.
 
+#### 7.5 بیان و خط آسیب
+
+<details>
+<summary><strong><span style="color: #2563eb;"> تعاریف · ارزیابی · انطباق</span></strong></summary>
+
+*حقوق-طبقه خانه.* **[ماده XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*بیان*)** کف بیان عملیاتی را بیان می کند، و **[مقاله XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*مرز آسیب جمعی و رابط اجرایی*)** بیان می کند که آسیب جمعی از کجا شروع می شود. این بخش فرعی اصل آزادی را بیان می‌کند که به آنها می‌پیوندد، و هیچ قاعده‌ای به خود اضافه نمی‌کند.
+
+- [Expression](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [آزار و اذیت](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [Cruelty](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [مرز آسیب جمعی](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*به زبان ساده: ممکن است تقریباً هر چیزی را بگویید، بنویسید، منتشر کنید، و طراحی کنید، از جمله آنچه که توهین آمیز، مزاحم یا انتقاد می کند. اما گفتار راه گریز نیست. وقتی کلمات، سیاست‌ها یا طرح‌ها به گونه‌ای باشد که کسی به دیگران آسیب می‌زند، آزار می‌دهد، قلدری می‌کند، یا تبعیض قائل می‌شود، بر اساس آنچه انجام می‌دهند مورد قضاوت قرار می‌گیرند.
+
+**بیان به عنوان بیان محافظت می شود.** [Expression](../../core_05_band_participation.md#expression) دیدگاه های هر نوع، از جمله موارد ناراحت کننده، و انتقاد از هر مخاطب یا موسسه را پوشش می دهد. توهین، اختلاف نظر، ناراحتی و اعتراض مسالمت آمیز ضرری ندارند ([§7.3 مخالفت و اعتراض مسالمت آمیز](#73-dissent-and-peaceful-protest)).
+
+**بیان سپری برای رفتار نیست.** گفتار، انتشار، طراحی، خط مشی، و سایر بیانات همچنان تابع قوانین [Harm](../../core_05_band_accountability.md#harm)، [آزار و اذیت](../../core_05_band_accountability.md#harassment-and-bullying)، [Cruelty](../../core_05_band_accountability.md#cruelty)، و زمانی که رفتار بدون تبعیض انجام می شود، باقی می مانند. آزمون همان چیزی است که عبارت بیان می کند، خواستار آن است، یا انجام می دهد، در متن زیر تعاریف فصل پنجم خوانده می شود. این تعاریف معنای خود را حفظ می‌کنند: آزار و اذیت و قلدری نیاز به یک الگوی مادی دارد، نه یک اظهارنظر تند، و آسیب نیاز به یک مسیر تأثیر مادی واقعی دارد، نه تنها توهین ([Collective Harm Boundary](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**همین آزمون برای یک فرد باهوش و هم برای یک مؤسسه صدق می کند.** یک مخاطب، یک گروه یا یک مؤسسه ممکن است گوینده باشد و هر یک از آنها ممکن است هدف باشد.
+- یک موسسه از طریق سیاست ها، اطلاعیه ها، طراحی پلت فرم، بیانیه های رسمی و نحوه برخورد با گزارش ها و منتقدان صحبت می کند. رفتاری که به این روش انجام می شود مانند هر رفتار دیگری مورد قضاوت قرار می گیرد.
+- انتقاد از یک موسسه، از افسران یا رفتار آن محفوظ است. قلدری یا آزار خواندن انتقاد، محدودیتی برای بیان است. طرفی که این ادعا را مطرح می کند، بار تحت [§7.1 انضباط محدودیت](#71-limitation-discipline) و فصل چهارم را بر عهده دارد.
+
+**برچسب‌ها و موضوعات آزمون را تغییر نمی‌دهند.** برچسب‌های مذهبی، سیاسی، ایدئولوژیک، فرهنگی، هنری یا تجاری، بیانی را که به دیگران آسیب می‌رساند، یا با آنها به روش‌هایی که طبق **[ماده VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*عدم تبعیض*)** ممنوع است، رفتار می‌کند، به بیان محافظت شده تبدیل نمی‌کند. یک موضوع یا دیدگاه، بیان محافظت شده را به آسیب تبدیل نمی کند. **[ماده XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*آزادی وجدان، مذهب، و جهان بینی قابل مقایسه*)** از داشتن و ابراز عقیده منطبق با حقوق دیگران محافظت می کند.
+
+** بیان محدود با استفاده از آن به عنوان مدرک متفاوت است. ** محدودیت بیان باید مطابق با [§7.1 محدودیت دیسیپلین](#71-limitation-discipline) و **[مقاله XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*بیان*)** باشد، و محدودیتی که برای آنچه گفته می شود با شدیدترین بازبینی مواجه می شود. استفاده از آنچه که یک فرد باهوش گفته است به عنوان دلیلی بر قصد، هدف یا اختیار، محدودیتی نیست. از قوانین شواهد فصلی که سؤال می‌پرسد، مانند [فصل هفتم §4 بررسی شکل‌گیری: ایستادن و اصالت دارنده دفتر](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity)» پیروی می‌کند و ممکن است برای خود سخنرانی جریمه‌ای نباشد.
+
+** دامنه.** این بخش فرعی، انضباط محدودیت و تعاریف فصل پنجم را برای بیان اعمال می کند. هیچ دسته ای از آسیب و هیچ زمینه ای برای محدود کردن آزادی ایجاد نمی کند که [§7.1 محدودیت انضباط ](#71-limitation-discipline) قبلاً اجازه نمی دهد.
+
 <a id="8-continuity-aim-introduction"></a>
 ### ۸. هدف تداوم: مقدمه
 <details>

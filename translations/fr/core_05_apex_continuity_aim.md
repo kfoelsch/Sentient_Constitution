@@ -100,6 +100,36 @@ Les définitions sous cette fin héritent de sa portée à moins qu’elles ne l
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### Continuité (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*En termes simples : ces questions vérifient si les êtres sentients et les systèmes vivants dont ils dépendent peuvent durer, de façon écologique et fiable, même en cas de défaillance. Cette page du chapitre cinq accueille la famille de mesure de la Continuité ; le §2 du Préambule conserve la question simple de la catégorie, et le tableau familial ainsi que les renvois aux définitions figurent ici.*
+
+*La matérialité* ([Materiality](core_05_band_oversight.md#materiality)) est intégrative et non une catégorie de mesure distincte ; elle module l’application de cette famille selon le [material stake](core_00_preamble.md#material-stake).
+
+| Sous-famille | Question simple | Usage constitutionnel principal |
+|---|---|---|
+| Empreinte écologique et conditions environnementales préalables | Quelle charge environnementale est créée ou déplacée ? | [Empreinte écologique](../../core_05_band_continuity.md#ecological-footprint), [Conditions environnementales préalables](../../core_05_band_continuity.md#environmental-preconditions) ; divulgation au titre des **Articles I-A** et **I-B** |
+| Résilience, réversibilité et risque systémique | Les défaillances peuvent-elles être contenues et inversées, et leur escalade signalée avec franchise ? | [Réversibilité](../../core_05_band_continuity.md#reversibility), [Défaillance en cascade](../../core_05_band_continuity.md#cascading-failure), [Risque existentiel](../../core_05_band_continuity.md#existential-risk), [Auto-réparation](../../core_05_band_continuity.md#self-healing) ; [résilience, sécurité, réversibilité, auto-réparation, défaillance en cascade, risque existentiel, conditions environnementales préalables et bien-être](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| Dépendance et flux de ressources | Les dépendances partagées sont-elles visibles et maintenues ? | [Dépendance](../../core_05_band_continuity.md#dependency) ; **Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) |
+| Soutien intersystèmes | Le retour documenté soutient-il l’infrastructure partagée et la réparation écologique ? | [Extraction intersystèmes](../../core_05_band_continuity.md#cross-system-extraction), [Soutien intersystèmes proportionné](../../core_05_band_continuity.md#proportionate-cross-system-support) ; **Article V-B** (*Équité et durabilité intersystèmes*) |
+
+Les règles détaillées de mesure se trouvent dans chaque définition liée.
+
+**Fichier précédent :** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**Fichier suivant :** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### Mesurer la Continuité (famille de mesure du Préambule)

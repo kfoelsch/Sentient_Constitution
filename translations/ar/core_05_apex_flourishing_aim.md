@@ -87,6 +87,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### الازدهار
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*بعبارات بسيطة: تسأل هذه الأسئلة ما إذا كانت الكائنات الواعية تحافظ فعلاً على الرفاه والسلامة والقدرة على الفعل، لا على التفاعل البديل أو حجم الإنجاز فحسب. هذا هو موضع عائلة قياس الازدهار في الفصل الخامس؛ ويحتفظ §2 من الديباجة بسؤال الفئة المبسط، بينما يوجد هنا جدول العائلة وإحالات التعريفات.*
+
+*المادية ([Materiality](../../core_05_band_oversight.md#materiality)) تكاملية وليست فئة قياس مستقلة؛ فهي تحدد مدى انطباق هذه العائلة وفق [material stake](core_00_preamble.md#material-stake).*
+
+| الفئة الفرعية | السؤال المبسط | الاستخدام الدستوري الرئيسي |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | هل تُصان الكائنات الواعية في وظائفها وقدرتها على الفعل والظروف الداعمة لها؟ | مقياس أساسي لنتيجة **الازدهار** (وليس مكوّناً منه) — وليس للتفاعل البديل أو حجم الإنجاز. |
+| السلامة والضرر والمخاطر | هل يُمنع الضرر المتوقع ويُحتوى ويُقيّم بصدق؟ | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint)؛ [Harm](../../core_05_band_accountability.md#harm) |
+| الوصول إلى حد البقاء الأدنى | هل تستطيع الكائنات الواعية الحصول على الضروريات: الغذاء والماء والمأوى والرعاية وبيئة مستقرة؟ | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access)، [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity)، [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions)؛ **Article III-A** (البقاء). |
+
+توجد مستويات القياس التشغيلية في مواضع التعريفات تلك.
+
+**الملف السابق:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**الملف التالي:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### قياس الازدهار (أسرة قياس الديباجة)

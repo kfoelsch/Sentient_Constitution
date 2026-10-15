@@ -38,6 +38,33 @@ Berkas ini rumah bagi keluarga pengukuran **Kinerja konstitusional** — pertany
 
 <a id="performance-measurement-family"></a>
 
+### Kinerja Konstitusional (Preamble measurement family)
+
+*Dalam bahasa sederhana: pertanyaan ini menilai apakah hasil konstitusional benar-benar diwujudkan tanpa menyia-nyiakan waktu, tenaga, atau bahan milik makhluk berakal.*
+
+*Inilah tempat keluarga pengukuran Kinerja Konstitusional dalam Bab Lima. §2 Preambul memuat pertanyaan kategori yang sederhana pada tabel ikhtisar; tabel keluarga, penggunaan konstitusional, dan rujukan definisi ada di sini.*
+
+*Materialitas ([Materiality](../../core_05_band_oversight.md#materiality)) bersifat integratif, bukan kategori pengukuran tersendiri; hal ini menentukan seberapa kuat keluarga ini berlaku berdasarkan [material stake](core_00_preamble.md#material-stake).*
+
+| Keluarga pengukuran | Pertanyaan sederhana | Penggunaan konstitusional utama |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | Apakah hasil konstitusional benar-benar diwujudkan? | Mencegah metrik proksi menggantikan perlindungan nyata. |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | Apakah sistem menyia-nyiakan waktu, tenaga, bahan, infrastruktur, atau energi makhluk berakal? | Mengurangi hambatan yang tidak perlu. |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | Dapatkah makhluk berakal dan sistem terus menghasilkan hasil yang selaras? | Melindungi kapasitas tahan lama tanpa mengalihkan beban ekologis. |
+
+Ukuran lintas bidang ini menilai apakah sistem mewujudkan hasil konstitusional secara efektif, menghindari pemborosan sia-sia, dan menjaga kapasitas untuk terus menghasilkan hasil yang selaras—yang mendukung [**Flourishing**](core_00_preamble.md#flourishing) maupun [**Continuity**](core_00_preamble.md#continuity).
+
+- Tingkat pengukuran operasional berada pada rumah definisi Bab Lima: lihat [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), dan [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty).
+- Target kinerja, imbalan, dan ukuran sumber daya hanya sah sejauh dapat ditelusuri ke hasil konstitusional.
+- Semua itu tidak dapat menggantikan efisiensi konstitusional, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), atau kepatuhan pada lantai hak.
+- Baca [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) hingga [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) ketika kinerja seluruh sistem menjadi hal material.
+
+---
+
+**Berkas sebelumnya:** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**Berkas berikutnya:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### Mengukur Kinerja konstitusional (keluarga pengukuran Pembukaan)
 

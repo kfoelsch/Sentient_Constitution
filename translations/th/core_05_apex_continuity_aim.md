@@ -98,6 +98,36 @@
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### ความต่อเนื่อง (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*กล่าวอย่างง่าย คำถามเหล่านี้ตรวจว่าผู้มีความรู้สึกและระบบสิ่งมีชีวิตที่พวกเขาพึ่งพาจะดำรงอยู่ต่อไปได้ในระยะยาวหรือไม่ ทั้งในเชิงนิเวศ ความน่าเชื่อถือ และการผ่านพ้นความล้มเหลว นี่คือที่ตั้งของชุดการวัดความต่อเนื่องในบทที่ห้า §2 ของคำนำคงคำถามแบบเข้าใจง่ายของหมวดหมู่ไว้ ส่วนตารางชุดการวัดและการอ้างอิงคำนิยามอยู่ที่นี่*
+
+*สาระสำคัญ* ([Materiality](core_05_band_oversight.md#materiality)) เป็นองค์ประกอบบูรณาการ ไม่ใช่หมวดการวัดแยกต่างหาก และกำหนดระดับการใช้ชุดนี้ตาม [material stake](core_00_preamble.md#material-stake)
+
+| หมวดย่อย | คำถามง่าย ๆ | การใช้ตามรัฐธรรมนูญหลัก |
+|---|---|---|
+| รอยเท้าทางนิเวศและเงื่อนไขแวดล้อมเบื้องต้น | กำลังสร้างหรือผลักภาระทางสิ่งแวดล้อมใดไปที่อื่น? | [รอยเท้าทางนิเวศ](../../core_05_band_continuity.md#ecological-footprint), [เงื่อนไขแวดล้อมเบื้องต้น](../../core_05_band_continuity.md#environmental-preconditions); การเปิดเผยตาม **มาตรา I-A** และ **I-B** |
+| ความยืดหยุ่น การย้อนคืนได้ และความเสี่ยงเชิงระบบ | สามารถจำกัดและย้อนคืนความล้มเหลว พร้อมรายงานการลุกลามอย่างตรงไปตรงมาได้หรือไม่? | [การย้อนคืนได้](../../core_05_band_continuity.md#reversibility), [ความล้มเหลวแบบลูกโซ่](../../core_05_band_continuity.md#cascading-failure), [ความเสี่ยงต่อการดำรงอยู่](../../core_05_band_continuity.md#existential-risk), [การฟื้นฟูตนเอง](../../core_05_band_continuity.md#self-healing); [ความยืดหยุ่น ความปลอดภัย การย้อนคืนได้ การฟื้นฟูตนเอง ความล้มเหลวแบบลูกโซ่ ความเสี่ยงต่อการดำรงอยู่ เงื่อนไขแวดล้อมเบื้องต้น และความเป็นอยู่ที่ดี](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| การพึ่งพาและกระแสทรัพยากร | การพึ่งพาร่วมกันมองเห็นและรักษาไว้หรือไม่? | [การพึ่งพา](../../core_05_band_continuity.md#dependency); **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) |
+| การสนับสนุนข้ามระบบ | การตอบแทนที่บันทึกไว้ช่วยคงโครงสร้างพื้นฐานร่วมและการฟื้นฟูระบบนิเวศหรือไม่? | [การดึงทรัพยากรข้ามระบบ](../../core_05_band_continuity.md#cross-system-extraction), [การสนับสนุนข้ามระบบอย่างได้สัดส่วน](../../core_05_band_continuity.md#proportionate-cross-system-support); **มาตรา V-B** (*ความเป็นธรรมและความยั่งยืนข้ามระบบ*) |
+
+กฎการวัดโดยละเอียดอยู่ในคำนิยามแต่ละรายการที่ลิงก์ไว้
+
+**ไฟล์ก่อนหน้า:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**ไฟล์ถัดไป:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### การวัดความต่อเนื่อง (ตระกูลการวัดของคำปรารภ)

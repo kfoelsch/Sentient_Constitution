@@ -86,6 +86,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### 繁荣测量
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*通俗地说：这些问题考察有感知能力者是否真正维持了福祉、安全与能动性，而不只是代理性参与或吞吐量。本节是第五章中繁荣测量家族的归属处；序言§2保留类别的通俗问题，家族表和定义路由则列于此处。*
+
+*重要性（[Materiality](../../core_05_band_oversight.md#materiality)）具有整合性，并非单独的测量类别；它根据[material stake](core_00_preamble.md#material-stake)调整本家族的适用力度。*
+
+| 子类 | 通俗问题 | 主要宪法用途 |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | 有感知能力者是否在功能、能动性和支持条件方面得到持续保障？ | 繁荣结果的主要测量指标（不是其构成部分）——并非代理性参与或吞吐量。 |
+| 安全、伤害与风险 | 可预见的伤害是否得到预防、控制并如实评估？ | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint)；[Harm](../../core_05_band_accountability.md#harm) |
+| 生存底线保障的可及性 | 有感知能力者能否获得食物、水、住所、照护和稳定环境等必需品？ | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access)、[Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity)、[Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions)；**Article III-A**（生存）。 |
+
+可操作的测量层级位于这些定义归属处。
+
+**上一文件：** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**下一文件：** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### 测量繁盛（序言测量族）

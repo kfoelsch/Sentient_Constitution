@@ -1087,6 +1087,43 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 
 சேர்க்கை வரம்பு பொருந்தும் இடங்களில், வகைப்பாடு, ஆளுகை, கட்டுப்பாடு அல்லது இணக்கக் கோரிக்கைகளை ஏற்கும் முன் முழு அமைப்பு மதிப்பீடுகள் [எட்டாம் அத்தியாயம் §3.6 தன்னார்வ நிறுத்தம், பெரும் சுயமாற்றம் மற்றும் வெளியேறும் உரிமைகள்](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) அடிப்படையில் இந்த நிபந்தனைகளைச் சோதிக்க வேண்டும்.
 
+#### 7.5 வெளிப்பாடு மற்றும் தீங்கு வரி
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+*உரிமைகள்-மாடி வீடு.* **[கட்டுரை XI-B](core_06_rights_part_b.md#article-xi-b-expression)(*வெளிப்பாடு*)** செயல்பாட்டு வெளிப்பாடு தளத்தைக் கூறுகிறது, மேலும் **[கட்டுரை XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)(*கூட்டு தீங்கு எல்லை மற்றும் அமலாக்க இடைமுகம்*)** கூட்டுத் தீங்கு எங்கிருந்து தொடங்குகிறது என்பதைக் கூறுகிறது. இந்த உட்பிரிவு அவர்களுடன் இணைந்த சுதந்திரக் கொள்கையைக் கூறுகிறது, மேலும் அதன் சொந்த விதியை சேர்க்கவில்லை.
+
+-[வெளிப்பாடு](core_05_band_participation.md#expression)·[ஓ](core_05_band_participation.md#expression)·[எம்](core_05_band_participation.md#expression-constitutional-a)·[ஏ](core_05_band_participation.md#expression-constitutional-a)·[சி](core_05_band_participation.md#expression-constitutional-c)
+-[தீங்கு](core_05_band_accountability.md#harm)·[ஓ](core_05_band_accountability.md#harm)·[எம்](core_05_band_accountability.md#harm-a)·[ஏ](core_05_band_accountability.md#harm-a)·[சி](core_05_band_accountability.md#harm-c)
+-[துன்புறுத்தல் மற்றும் கொடுமைப்படுத்துதல்](core_05_band_accountability.md#harassment-and-bullying)·[ஓ](core_05_band_accountability.md#harassment-and-bullying)·[எம்](core_05_band_accountability.md#harassment-and-bullying-a)·[ஏ](core_05_band_accountability.md#harassment-and-bullying-a)·[சி](core_05_band_accountability.md#harassment-and-bullying-c)
+-[கொடுமை](core_05_band_accountability.md#cruelty)·[ஓ](core_05_band_accountability.md#cruelty)·[எம்](core_05_band_accountability.md#cruelty-a)·[ஏ](core_05_band_accountability.md#cruelty-a)·[சி](core_05_band_accountability.md#cruelty-c)
+-[கூட்டு தீங்கு எல்லை](core_05_band_accountability.md#collective-harm-boundary)·[ஓ](core_05_band_accountability.md#collective-harm-boundary)·[எம்](core_05_band_accountability.md#collective-harm-boundary-a)·[ஏ](core_05_band_accountability.md#collective-harm-boundary-a)·[சி](core_05_band_accountability.md#collective-harm-boundary-c)
+-[அவசியம்](core_05_band_accountability.md#necessity)·[ஓ](core_05_band_accountability.md#necessity)·[எம்](core_05_band_accountability.md#necessity-a)·[ஏ](core_05_band_accountability.md#necessity-a)·[சி](core_05_band_accountability.md#necessity-c)
+-[விகிதாசாரம்](core_05_band_accountability.md#proportionality)·[ஓ](core_05_band_accountability.md#proportionality)·[எம்](core_05_band_accountability.md#proportionality-a)·[ஏ](core_05_band_accountability.md#proportionality-a)·[சி](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*தெளிவான சொற்களில்: புண்படுத்துவது, தொந்தரவு செய்வது அல்லது விமர்சிப்பது உட்பட எதையும் நீங்கள் கூறலாம், எழுதலாம், வெளியிடலாம் மற்றும் வடிவமைக்கலாம். ஆனால் பேச்சு ஒரு ஓட்டை அல்ல. வார்த்தைகள், கொள்கைகள் அல்லது வடிவமைப்புகள் யாரோ ஒருவர் மற்றவர்களுக்கு தீங்கு விளைவிப்பது, துன்புறுத்துவது, கொடுமைப்படுத்துவது அல்லது பாகுபாடு காட்டுவது போன்றதாக இருக்கும் போது, ​​அவர்கள் என்ன செய்கிறார்கள், அவர்கள் என்ன செய்கிறார்கள், ஒரு நிறுவனத்தைப் போலவே, அவர்கள் எந்த மதம் அல்லது அரசியல் முத்திரையை சுமந்தாலும் அவர்கள் தீர்மானிக்கப்படுகிறார்கள்.*
+
+** வெளிப்பாடு வெளிப்பாடாக பாதுகாக்கப்படுகிறது.**[வெளிப்பாடு](../../core_05_band_participation.md#expression)எல்லா வகையான பார்வைகளையும் உள்ளடக்கியது, தொந்தரவு தரக்கூடியவை, மற்றும் எந்தவொரு உணர்வு அல்லது நிறுவனத்தின் விமர்சனம் உட்பட. குற்றம், கருத்து வேறுபாடு, அசௌகரியம் மற்றும் அமைதியான போராட்டம் தீங்கு விளைவிக்காது ([§7.3 கருத்து வேறுபாடு மற்றும் அமைதியான எதிர்ப்பு](#73-dissent-and-peaceful-protest))
+
+** வெளிப்பாடு என்பது நடத்தைக்கான கேடயம் அல்ல.** பேச்சு, வெளியீடு, வடிவமைப்பு, கொள்கை மற்றும் பிற வெளிப்பாடுகள் விதிகளுக்கு உட்பட்டவை[தீங்கு](../../core_05_band_accountability.md#harm),[துன்புறுத்தல் மற்றும் கொடுமைப்படுத்துதல்](../../core_05_band_accountability.md#harassment-and-bullying),[கொடுமை](../../core_05_band_accountability.md#cruelty), மற்றும் அந்த நடத்தை மேற்கொள்ளப்படும் வழிமுறையாக இருக்கும்போது பாகுபாடு காட்டாதது. சோதனை என்பது அத்தியாயம் ஐந்தின் வரையறைகளின் கீழ் உள்ள சூழலில் படிக்கும் வெளிப்பாடு கூறுகிறது, அழைப்பு விடுக்கிறது அல்லது செய்கிறது. அந்த வரையறைகள் அவற்றின் அர்த்தத்தைத் தக்கவைத்துக்கொள்கின்றன: துன்புறுத்தல் மற்றும் கொடுமைப்படுத்துதலுக்கு ஒரு பொருள் வடிவம் தேவை, ஒரு கூர்மையான கருத்து இல்லை, மேலும் தீங்குக்கு உண்மையான பொருள்-தாக்கப் பாதை தேவை, குற்றம் மட்டும் அல்ல ([கூட்டு தீங்கு எல்லை](../../core_05_band_accountability.md#collective-harm-boundary)
+
+**அதே சோதனை ஒரு உணர்வாளருக்கும் ஒரு நிறுவனத்திற்கும் பொருந்தும்.** ஒரு ஒற்றை உணர்வு, ஒரு குழு அல்லது ஒரு நிறுவனம் பேச்சாளராக இருக்கலாம், மேலும் அவர்களில் யாராவது இலக்காக இருக்கலாம்.
+- ஒரு நிறுவனம் அதன் கொள்கைகள், அறிவிப்புகள், மேடை வடிவமைப்பு, அதிகாரப்பூர்வ அறிக்கைகள் மற்றும் அறிக்கைகள் மற்றும் விமர்சகர்களை நடத்தும் விதம் மூலம் பேசுகிறது. அந்த வழியில் மேற்கொள்ளப்படும் நடத்தை மற்றதைப் போலவே தீர்மானிக்கப்படுகிறது.
+- ஒரு நிறுவனம், அதன் அதிகாரிகள் அல்லது அதன் நடத்தை பற்றிய விமர்சனம் பாதுகாக்கப்படுகிறது. விமர்சனத்தை கொடுமைப்படுத்துதல் அல்லது துன்புறுத்தல் என்று அழைப்பது வெளிப்பாட்டின் வரம்பு. அந்தக் கோரிக்கையை முன்வைக்கும் தரப்பு அதன் கீழ் சுமையைச் சுமக்கிறது[§7.1 வரம்பு ஒழுக்கம்](#71-limitation-discipline)மற்றும் அத்தியாயம் நான்கு.
+
+**லேபிள்கள் மற்றும் தலைப்புகள் சோதனையை மாற்றாது.** மத, அரசியல், கருத்தியல், கலாச்சார, கலை அல்லது வணிக முத்திரை மற்றவர்களுக்கு தீங்கு விளைவிக்கும் அல்லது ** கீழ் தடைசெய்யப்பட்ட வழிகளில் அவர்களை நடத்தும் வெளிப்பாடாக மாறாது.[கட்டுரை VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination)(*பாகுபாடற்ற*)**, பாதுகாக்கப்பட்ட வெளிப்பாடாக. ஒரு தலைப்பு அல்லது பார்வை பாதுகாக்கப்பட்ட வெளிப்பாட்டை தீங்கு விளைவிப்பதில்லை. **[கட்டுரை XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)(*மனசாட்சி, மதம் மற்றும் ஒப்பிடக்கூடிய உலகக் கண்ணோட்டத்தின் சுதந்திரம்*)** மற்றவர்களின் உரிமைகளுடன் தொடர்ந்து நம்பிக்கையை வைத்திருப்பதையும் வெளிப்படுத்துவதையும் பாதுகாக்கிறது.
+
+**வெளிப்பாட்டை வரம்புக்குட்படுத்துவது அதை ஆதாரமாகப் பயன்படுத்துவதிலிருந்து வேறுபட்டது.** வெளிப்பாட்டின் வரம்பு பூர்த்தி செய்யப்பட வேண்டும்[§7.1 வரம்பு ஒழுக்கம்](#71-limitation-discipline)மற்றும் **[கட்டுரை XI-B](core_06_rights_part_b.md#article-xi-b-expression)(*வெளிப்பாடு*)**, மற்றும் சொல்லப்பட்டதை இலக்காகக் கொண்ட வரம்பு கடுமையான மதிப்பாய்வை எதிர்கொள்கிறது. எண்ணம், நோக்கம் அல்லது அதிகாரத்தின் சான்றாக ஒரு உணர்வுள்ளவர் கூறியதைப் பயன்படுத்துவது ஒரு வரம்பு அல்ல. இது போன்ற கேள்வியைக் கேட்கும் அத்தியாயத்தின் ஆதார விதிகளைப் பின்பற்றுகிறது[அத்தியாயம் ஏழு §4 உருவாக்கம் சரிபார்ப்பு: அலுவலகம் வைத்திருப்பவர் நிலை மற்றும் நம்பகத்தன்மை](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), மேலும் அது பேச்சுக்கே தண்டனையாக மாறாமல் இருக்கலாம்.
+
+** நோக்கம் இது தீங்கு விளைவிக்கும் வகையை உருவாக்கவில்லை மற்றும் சுதந்திரத்தை கட்டுப்படுத்துவதற்கான எந்த காரணத்தையும் உருவாக்காது[§7.1 வரம்பு ஒழுக்கம்](#71-limitation-discipline)ஏற்கனவே அனுமதிக்கவில்லை.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. தொடர்ச்சி இலக்கு: அறிமுகம்
 <details>

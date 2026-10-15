@@ -1088,6 +1088,43 @@ flowchart TB
 
 적용 범위에 해당하는 경우 분류, 거버넌스, 제한 또는 준수 주장을 인정하기 전에 시스템 전체 평가에서 [제8장 §3.6 자발적 중단, 중대한 자기 변경, 탈퇴 권리](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)에 따라 이러한 요건을 검증해야 한다.
 
+#### 7.5 표현과 피해선
+
+<details>
+<summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
+
+*권리층 홈.* **[제XI-B](core_06_rights_part_b.md#article-xi-b-expression)(*표현*)**에는 수술적 표현 바닥이 명시되어 있으며, **[제XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)(*집단 피해 경계 및 집행 인터페이스*)**에는 집단적 피해가 시작되는 위치가 명시되어 있습니다. 이 하위 섹션에서는 이를 결합하는 자유 원칙을 설명하고 자체 규칙을 추가하지 않습니다.
+
+- [표현식](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [괴롭힘 및 괴롭힘](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [잔인함](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [집단 피해 경계](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [필요함](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [비례](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*간단히 말하면, 불쾌감을 주거나 방해하거나 비판하는 것을 포함하여 거의 모든 것을 말하고, 쓰고, 출판하고, 디자인할 수 있습니다. 그러나 연설은 허점이 아닙니다. 누군가가 다른 사람을 해치고, 괴롭히고, 괴롭히고, 차별하는 방식으로 말, 정책, 계획을 세운다면, 그 사람의 행위에 따라 판단됩니다. 기관이나 종교, 정치적 꼬리표가 무엇이든 간에 동일한 방식으로 판단됩니다.*
+
+**표현은 표현으로 보호됩니다.** [Expression](../../core_05_band_participation.md#expression)는 불안한 견해를 포함한 모든 종류의 견해와 감각 기관이나 기관에 대한 비판을 다룹니다. 공격, 불일치, 불편함, 평화로운 항의는 해롭지 않습니다([§7.3 반대 및 평화적 항의](#73-dissent-and-peaceful-protest)).
+
+**표현은 행위의 방패가 아닙니다.** 발언, 출판, 디자인, 정책 및 기타 표현은 해당 행위를 수행하는 수단인 경우 [Harm](../../core_05_band_accountability.md#harm), [괴롭힘 및 따돌림](../../core_05_band_accountability.md#harassment-and-bullying), [잔인성](../../core_05_band_accountability.md#cruelty) 및 비차별에 관한 규칙의 적용을 받습니다. 테스트는 5장의 정의에 따라 표현이 말하고, 요구하고, 읽는 내용을 의미합니다. 이러한 정의는 그 의미를 유지합니다. 희롱과 따돌림에는 날카로운 발언 하나가 아닌 물질적 패턴이 필요하며, 피해에는 공격만이 아닌 실제 물질적 영향 경로가 필요합니다([Collective Harm Boundary](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**감각자 및 기관에 동일한 테스트가 적용됩니다.** 단일 지각자, 그룹 또는 기관이 화자가 될 수도 있고 그들 중 누구라도 대상이 될 수 있습니다.
+- 기관은 정책, 공지, 플랫폼 디자인, 공식 성명, 보고서와 비평가를 대하는 방식을 통해 말합니다. 그런 식으로 수행된 행위는 다른 행위와 마찬가지로 판단됩니다.
+- 기관, 임원 또는 행위에 대한 비판은 보호됩니다. 비판을 왕따나 괴롭힘이라고 부르는 것은 표현의 한계입니다. 해당 주장을 하는 당사자는 [§7.1 제한 규율](#71-limitation-discipline) 및 4장에 따른 책임을 집니다.
+
+**라벨 및 주제는 시험을 변경하지 않습니다.** 종교적, 정치적, 이념적, 문화적, 예술적 또는 상업적 라벨은 타인에게 해를 끼치거나 **[6조-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination)(*비차별*)**)에서 금지된 방식으로 취급하는 표현을 보호되는 표현으로 바꾸지 않습니다. 주제나 관점이 보호받는 표현을 해롭게 만들지 않습니다. **[XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)조(*양심, 종교 및 유사한 세계관의 자유*)**는 타인의 권리와 일관되게 신념을 보유하고 표현하는 것을 보호합니다.
+
+**표현을 제한하는 것은 증거로 사용하는 것과 다릅니다.** 표현의 제한은 [§7.1 제한규정](#71-limitation-discipline) 및 **[제XI-B](core_06_rights_part_b.md#article-xi-b-expression)(*표현*)**을 충족해야 하며, 말한 내용을 대상으로 한 제한은 거기에서 가장 엄격한 심사를 받습니다. 지각 있는 사람이 말한 내용을 의도, 목적 또는 권위의 증거로 사용하는 것은 제한이 없습니다. [제7장 §4 구성 확인: 공직자 지위 및 진정성](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity) 등 질문을 하는 장의 증거 규칙을 따르며, 발언 자체에 대한 벌칙이 되지 않을 수도 있습니다.
+
+**범위.** 이 하위 섹션은 표현에 대한 제한 규율과 5장의 정의를 적용합니다. 이는 피해 범주를 생성하지 않으며 [§7.1 제한 규율](#71-limitation-discipline)에서 이미 허용하지 않는 자유 제한 근거도 생성하지 않습니다.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. 연속성 목표: 서론
 <details>

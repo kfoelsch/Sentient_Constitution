@@ -98,6 +98,36 @@
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### ধারাবাহিকতা (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*সহজ ভাষায়: এই প্রশ্নগুলো দেখে সংবেদনশীল সত্তা ও তাদের নির্ভরশীল জীবন্ত ব্যবস্থা দীর্ঘমেয়াদে টিকে থাকতে পারে কি না—পরিবেশগতভাবে, নির্ভরযোগ্যভাবে এবং ব্যর্থতার মধ্যেও। পঞ্চম অধ্যায়ে ধারাবাহিকতা পরিমাপ পরিবারের স্থান এটি; প্রস্তাবনার §2 শ্রেণির সহজ প্রশ্নটি রাখে, আর পরিবারের সারণি ও সংজ্ঞার নির্দেশনা এখানে আছে।*
+
+*বস্তুগততা* ([Materiality](core_05_band_oversight.md#materiality)) সমন্বিত, আলাদা পরিমাপ-শ্রেণি নয়; [material stake](core_00_preamble.md#material-stake) অনুযায়ী এই পরিবারের প্রয়োগের মাত্রা নির্ধারণ করে।
+
+| উপপরিবার | সহজ প্রশ্ন | প্রধান সাংবিধানিক ব্যবহার |
+|---|---|---|
+| পরিবেশগত পদচিহ্ন ও পরিবেশগত পূর্বশর্ত | কী পরিবেশগত বোঝা সৃষ্টি বা অন্যত্র সরানো হচ্ছে? | [পরিবেশগত পদচিহ্ন](../../core_05_band_continuity.md#ecological-footprint), [পরিবেশগত পূর্বশর্ত](../../core_05_band_continuity.md#environmental-preconditions); **অনুচ্ছেদ I-A** ও **I-B** অনুযায়ী প্রকাশ |
+| সহনশীলতা, প্রত্যাবর্তনযোগ্যতা ও পদ্ধতিগত ঝুঁকি | ব্যর্থতা কি সীমিত ও প্রত্যাবর্তনযোগ্য, এবং তার বিস্তার কি সৎভাবে জানানো হয়? | [প্রত্যাবর্তনযোগ্যতা](../../core_05_band_continuity.md#reversibility), [ক্রমবর্ধমান ব্যর্থতা](../../core_05_band_continuity.md#cascading-failure), [অস্তিত্বগত ঝুঁকি](../../core_05_band_continuity.md#existential-risk), [স্ব-নিরাময়](../../core_05_band_continuity.md#self-healing); [সহনশীলতা, নিরাপত্তা, প্রত্যাবর্তনযোগ্যতা, স্ব-নিরাময়, ক্রমবর্ধমান ব্যর্থতা, অস্তিত্বগত ঝুঁকি, পরিবেশগত পূর্বশর্ত ও কল্যাণ](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| নির্ভরতা ও সম্পদপ্রবাহ | ভাগ করা নির্ভরতাগুলো কি দৃশ্যমান ও টেকসই? | [নির্ভরতা](../../core_05_band_continuity.md#dependency); **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্রায়ন ও সম্পদপ্রবাহের স্বচ্ছতা*) |
+| ব্যবস্থার মধ্যবর্তী সহায়তা | নথিভুক্ত প্রত্যর্পণ কি ভাগ করা অবকাঠামো ও পরিবেশগত পুনরুদ্ধারকে টিকিয়ে রাখে? | [ব্যবস্থার মধ্যবর্তী আহরণ](../../core_05_band_continuity.md#cross-system-extraction), [আনুপাতিক আন্তঃব্যবস্থা সহায়তা](../../core_05_band_continuity.md#proportionate-cross-system-support); **অনুচ্ছেদ V-B** (*ব্যবস্থার মধ্যবর্তী ন্যায্যতা ও স্থায়িত্ব*) |
+
+বিস্তারিত পরিমাপের নিয়ম প্রতিটি সংযুক্ত সংজ্ঞায় রয়েছে।
+
+**আগের ফাইল:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**পরের ফাইল:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### সাতত্য মাপা (প্রস্তাবনার পরিমাপ পরিবার)

@@ -100,6 +100,32 @@
 ---
 
 <a id="participation-measurement-family"></a>
+
+### المشاركة
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*بعبارات بسيطة: تسأل هذه الأسئلة ما إذا كانت للأطراف المتأثرة فعلاً مساحة للتعبير وإمكانية الوصول وفرصة عادلة للطعن، لا مجرد استشارة رمزية. هذا هو موضع عائلة قياس المشاركة في الفصل الخامس؛ ويحتفظ §2 من الديباجة بسؤال الفئة المبسط، بينما يوجد هنا جدول العائلة وإحالات التعريفات.*
+
+*المادية ([Materiality](../../core_05_band_oversight.md#materiality)) تكاملية وليست فئة قياس مستقلة؛ فهي تحدد مدى انطباق هذه العائلة وفق [material stake](core_00_preamble.md#material-stake).*
+
+| عائلة القياس | السؤال المبسط | الاستخدام الدستوري الرئيسي |
+|---|---|---|
+| الإنصاف والوصول والقدرة على الفعل | هل تُعامل الكائنات الواعية المتأثرة بإنصاف، وهل تستطيع المشاركة والتعلم؟ | تحول دون الإقصاء والأثر غير المتكافئ والوصول الشكلي. |
+| الخصوصية وإدارة البيانات | هل يُصان تقرير المصير المعلوماتي طوال دورة التعامل؟ | تمنع التقسيم والاستدلال عبر السياقات وضغط الكشف من إبطال الصوت. |
+
+**الملف السابق:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**الملف التالي:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### قياس المشاركة (أسرة قياس الديباجة)

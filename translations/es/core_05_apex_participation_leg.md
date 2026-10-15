@@ -99,6 +99,32 @@ Los **términos independientes** viven bajo [Participación: términos independi
 ---
 
 <a id="participation-measurement-family"></a>
+
+### Participación
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](core_05_band_participation.md#accessibility), [Educational Agency](core_05_band_participation.md#educational-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*En términos sencillos: estas preguntas examinan si las partes afectadas realmente tienen voz, acceso y una oportunidad justa de cuestionar, y no solo una consulta simbólica. Este es el espacio del Capítulo Cinco para la familia de medición de la Participación; el §2 del Preámbulo conserva la pregunta simple de la categoría, y aquí están la tabla familiar y las referencias a las definiciones.*
+
+*La materialidad ([Materiality](core_05_band_oversight.md#materiality)) es integradora, no una categoría de medición aparte; determina cuánto se aplica esta familia según [material stake](core_00_preamble.md#material-stake).*
+
+| Familia de medición | Pregunta sencilla | Uso constitucional principal |
+|---|---|---|
+| Equidad, acceso y capacidad de actuar | ¿Se trata con equidad a los seres sintientes afectados y pueden participar y aprender? | Evita la exclusión, el impacto dispar y el acceso meramente nominal. |
+| Privacidad y custodia de datos | ¿Se preserva la autodeterminación informativa durante todo el ciclo de gestión? | Impide que la segmentación, las inferencias cruzadas y la presión de exposición anulen la voz. |
+
+**Archivo anterior:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**Archivo siguiente:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### Medir la participación (familia de medición del Preámbulo)

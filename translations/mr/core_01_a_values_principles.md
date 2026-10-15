@@ -1088,6 +1088,43 @@ Operative tests live in [§7.1 मर्यादा घालण्याची
 
 समावेशाची व्याप्ती लागू असलेल्या ठिकाणी वर्गीकरण, प्रशासन, मर्यादा किंवा अनुपालनाचे दावे मान्य होण्यापूर्वी संपूर्ण-प्रणाली मूल्यांकनांनी [आठवे प्रकरण §3.6 स्वेच्छेने समाप्ती, मोठे स्व-बदल आणि बाहेर पडण्याचे अधिकार](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) अंतर्गत या अटी तपासल्या पाहिजेत.
 
+#### 7.5 अभिव्यक्ती आणि हार्म लाइन
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषा · मूल्यांकन · अनुपालन</span></strong></summary>
+
+*अधिकार-मजला घर.* **[लेख XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*अभिव्यक्ती*)** ऑपरेटिव्ह अभिव्यक्ती मजला सांगतो, आणि **[अनुच्छेद XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*सामूहिक हानी सीमा आणि अंमलबजावणी इंटरफेस*)** राज्य हानी सुरू होते. हे उपविभाग त्यांना सामील होणारे स्वातंत्र्य तत्त्व सांगते आणि स्वतःचा कोणताही नियम जोडत नाही.
+
+- [Expression](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [हार्म](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [छळ आणि धमकावणे](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [क्रूरता](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [सामूहिक हानी सीमा](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [प्रपात ](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*सोप्या शब्दांत: तुम्ही म्हणू शकता, लिहू शकता, प्रकाशित करू शकता आणि डिझाइन करू शकता, ज्यामध्ये काय अपमानास्पद, त्रासदायक किंवा टीका समाविष्ट आहे. पण भाषण म्हणजे पळवाट नाही. जेव्हा शब्द, धोरणे किंवा रचना एखाद्या व्यक्तीला हानी पोहोचवतात, त्रास देतात, गुंडगिरी करतात किंवा इतरांविरुद्ध भेदभाव करतात तेव्हा त्यांचा न्याय केला जातो, ते काय करतात, एखाद्या संवेदनासाठी तसेच एखाद्या संस्थेसाठी आणि ते कोणतेही धार्मिक किंवा राजकीय लेबल लावतात.*
+
+**अभिव्यक्ती अभिव्यक्ती म्हणून संरक्षित आहे.** [अभिव्यक्ती ](../../core_05_band_participation.md#expression) प्रत्येक प्रकारची दृश्ये कव्हर करते, यात त्रासदायक आणि कोणत्याही संवेदना किंवा संस्थेची टीका यांचा समावेश आहे. गुन्हा, असहमती, अस्वस्थता आणि शांततापूर्ण निषेध हानीकारक नाहीत ([§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest)).
+
+**अभिव्यक्ती ही आचरणासाठी ढाल नाही.** भाषण, प्रकाशन, रचना, धोरण आणि इतर अभिव्यक्ती [Harm](../../core_05_band_accountability.md#harm), [Hassment and Bullying](../../core_05_band_accountability.md#harassment-and-bullying), [Cruelty](../../core_05_band_accountability.md#cruelty), आणि जेव्हा ते भेदभाव करतात तेव्हा ते आचरण करतात. चाचणी ही अभिव्यक्ती पाचव्या व्याख्येच्या अंतर्गत संदर्भामध्ये वाचण्यासाठी अभिव्यक्ती दर्शवते, मागवते किंवा करते. त्या व्याख्या त्यांचा अर्थ ठेवतात: छळवणूक आणि गुंडगिरीला एक भौतिक नमुना आवश्यक आहे, एकल तीक्ष्ण टिप्पणी नाही आणि हानी एक वास्तविक भौतिक-प्रभाव मार्ग आवश्यक आहे, केवळ गुन्हा नाही ([सामूहिक हानी सीमा](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**समान चाचणी संवेदनांना आणि संस्थेला लागू होते.** एकच संवेदी, एक गट किंवा संस्था वक्ता असू शकते आणि त्यापैकी कोणीही लक्ष्य असू शकते.
+- एखादी संस्था तिची धोरणे, सूचना, प्लॅटफॉर्म डिझाइन, अधिकृत विधाने आणि अहवाल आणि समीक्षक यांच्याशी कसे वागते याद्वारे बोलते. अशा प्रकारे चालवलेले आचरण इतर कोणत्याही प्रमाणे ठरवले जाते.
+- एखाद्या संस्थेची, तिच्या अधिकाऱ्यांची किंवा तिच्या आचरणाची टीका संरक्षित केली जाते. टीकेला गुंडगिरी किंवा छळ म्हणणे ही अभिव्यक्तीची मर्यादा आहे. दावा करणारा पक्ष [§7.1 Limitation Discipline](#71-limitation-discipline) आणि प्रकरण चार अंतर्गत भार सहन करतो.
+
+**लेबल आणि विषय चाचणी बदलत नाहीत. ** धार्मिक, राजकीय, वैचारिक, सांस्कृतिक, कलात्मक किंवा व्यावसायिक लेबल अभिव्यक्तीला इतरांना हानी पोहोचवणारे किंवा **[अनुच्छेद VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*नॉनडिस्क्रिमिनेशन*)** अंतर्गत निषिद्ध केलेल्या पद्धतीने वागवणारे अभिव्यक्ती संरक्षित अभिव्यक्तीमध्ये बदलत नाही. एखादा विषय किंवा दृष्टिकोन संरक्षित अभिव्यक्ती हानीमध्ये बदलत नाही. **[लेख XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*विवेक, धर्म आणि तुलना करण्यायोग्य जागतिक दृष्टिकोनाचे स्वातंत्र्य*)** इतरांच्या हक्कांसोबत सुसंगतपणे विश्वास ठेवण्याचे आणि प्रकट करण्याचे संरक्षण करते.
+
+**अभिव्यक्ती मर्यादित करणे हे पुरावा म्हणून वापरण्यापेक्षा वेगळे आहे.** अभिव्यक्तीवरील मर्यादा [§7.1 मर्यादा शिस्त](#71-limitation-discipline) आणि **[लेख XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*अभिव्यक्ती*)** पूर्ण करणे आवश्यक आहे, आणि जे म्हटले आहे त्या मर्यादेला तेथे कठोर पुनरावलोकनास सामोरे जावे लागेल. हेतू, हेतू किंवा अधिकाराचा पुरावा म्हणून एखाद्या संवेदकाने जे म्हटले आहे ते वापरणे ही मर्यादा नाही. हे प्रश्न विचारणाऱ्या धड्याच्या पुराव्याच्या नियमांचे पालन करते, जसे की [अध्याय सात §4 फॉर्मेशन चेक: ऑफिस-होल्डर स्टँडिंग आणि ऑथेंटिसिटी](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), आणि ते भाषणासाठीच दंड होऊ शकत नाही.
+
+**व्याप्ति.** हा उपविभाग मर्यादा शिस्त आणि पाचव्या अध्यायातील व्याख्या अभिव्यक्तीसाठी लागू करतो. हे हानीची कोणतीही श्रेणी तयार करत नाही आणि स्वातंत्र्य मर्यादित करण्यासाठी कोणतेही कारण नाही [§7.1 मर्यादा शिस्त ](#71-limitation-discipline) आधीच परवानगी देत ​​नाही.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. सातत्याचे ध्येय: परिचय
 <details>

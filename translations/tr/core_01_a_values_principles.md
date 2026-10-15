@@ -1088,6 +1088,43 @@ Bu alt bölüm, gönüllü sonlandırma disiplinini şu bağlamlara **taşımaz*
 
 Kapsama alınma ölçütünün geçerli olduğu durumlarda sınıflandırma, yönetişim, sınırlama veya uyum iddiaları kabul edilmeden önce sistem genelindeki değerlendirmelerde bu koşullar [Sekizinci Bölüm §3.6 Gönüllü Sonlandırma, Büyük Öz-Değişiklik ve Çıkış Hakları](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) uyarınca sınanmalıdır.
 
+#### 7.5 İfade ve Zarar Çizgisi
+
+<details>
+<summary><strong><span style="color: #2563eb;"> Tanımlar · Değerlendirme · Uyumluluk</span></strong></summary>
+
+*Haklar Katı ana sayfası.* **[Makale XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*İfade*)** operasyonel ifade tabanını belirtir ve **[Madde XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*Toplu Zarar Sınırı ve Yaptırım Arayüzü*)** toplu zararın nerede başladığını belirtir. Bu alt bölüm, bunları birleştiren Özgürlük ilkesini belirtir ve kendine ait bir kural eklemez.
+
+- [İfade](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Taciz ve Zorbalık](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [Zalim](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [Toplu Zarar Sınırı](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*Basit bir ifadeyle: rahatsız eden, rahatsız eden veya eleştiren şeyler de dahil olmak üzere neredeyse her şeyi söyleyebilir, yazabilir, yayınlayabilir ve tasarlayabilirsiniz. Ancak konuşma bir boşluk değildir. Bir kişinin başkalarına zarar vermesi, taciz etmesi, zorbalık yapması veya ayrımcılık yapmasının yolu kelimeler, politikalar veya tasarımlar olduğunda, yaptıkları işe göre, bir kurum için olduğu kadar duyarlı bir kişi için de aynı şekilde ve taşıdıkları dini veya siyasi etikete göre değerlendirilirler.*
+
+**İfade, ifade olarak korunur.** [İfade](../../core_05_band_participation.md#expression), rahatsız edici olanlar da dahil olmak üzere her türlü görüşü ve herhangi bir duyarlılığa veya kuruma yönelik eleştirileri kapsar. Hakaret, anlaşmazlık, rahatsızlık ve barışçıl protesto zarar değildir ([§7.3 Muhalefet ve Barışçıl Protesto](#73-dissent-and-peaceful-protest)).
+
+**İfade, davranış için bir kalkan değildir.** Konuşma, yayın, tasarım, politika ve diğer ifadeler, davranışın gerçekleştirildiği araçlar olduklarında [Harm](../../core_05_band_accountability.md#harm), [Taciz ve Zorbalık](../../core_05_band_accountability.md#harassment-and-bullying), [Zalim](../../core_05_band_accountability.md#cruelty) ve ayrımcılık yapmama kurallarına tabi olmaya devam edecektir. Test, ifadenin Beşinci Bölüm tanımları kapsamında bağlam içinde belirttiği, çağrıda bulunduğu veya okunduğu şeydir. Bu tanımlar anlamlarını koruyor: Taciz ve zorbalık, tek bir sert ifadeye değil, maddi bir kalıba ihtiyaç duyar ve zarar, yalnızca saldırıya değil, gerçek bir maddi etki yoluna ihtiyaç duyar ([Kolektif Zarar Sınırı](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**Aynı test hem duyarlı hem de kurum için geçerlidir.** Tek bir duyarlı kişi, bir grup veya kurum konuşmacı olabilir ve bunlardan herhangi biri hedef olabilir.
+- Bir kurum, politikaları, bildirimleri, platform tasarımı, resmi açıklamaları ve raporlara ve eleştirilere yönelik muamelesi aracılığıyla konuşur. Bu şekilde gerçekleştirilen davranış, diğerleri gibi yargılanır.
+- Bir kuruma, onun görevlilerine veya davranışlarına yönelik eleştiriler korunur. Eleştiriyi zorbalık veya taciz olarak nitelendirmek ifadenin sınırıdır. Bu iddiada bulunan taraf, [§7.1 Sınırlama Disiplini](#71-limitation-discipline) ve Dördüncü Bölüm kapsamındaki yükü üstlenir.
+
+**Etiketler ve konular testi değiştirmez.** Dini, politik, ideolojik, kültürel, sanatsal veya ticari bir etiket, başkalarına zarar veren veya onlara **[Madde VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Ayrımcılık yapmama*)** kapsamında yasaklanan şekillerde davranan ifadeleri korumalı ifadeye dönüştürmez. Bir konu veya bakış açısı, korunan ifadeyi zarara dönüştürmez. **[Madde XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Vicdan, din ve karşılaştırılabilir dünya görüşü*)**, başkalarının haklarıyla tutarlı bir şekilde inanç sahibi olmayı ve inanç göstermeyi korur.
+
+**İfadeyi sınırlamak, onu kanıt olarak kullanmaktan farklıdır.** İfadeye yönelik bir sınırlamanın [§7.1 Sınırlama Disiplini](#71-limitation-discipline) ve **[Madde XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*İfade*)**'ye uygun olması gerekir ve söylenenlere yönelik bir sınırlama, buradaki en katı incelemeyle karşı karşıyadır. Duyarlı birinin söylediklerini niyet, amaç veya otoritenin kanıtı olarak kullanmak bir sınır değildir. Bu, [Yedinci Bölüm §4 Formasyon Kontrolü: Ofis Sahibinin Duruşu ve Orijinallik](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity) gibi soruyu soran bölümdeki kanıt kurallarına uygundur ve konuşmanın kendisi için bir ceza haline gelmeyebilir.
+
+**Kapsam.** Bu alt bölüm, Sınırlama Disiplinini ve Beşinci Bölümdeki tanımları ifadeye uygular. Hiçbir zarar kategorisi oluşturmaz ve [§7.1 Sınırlama Disiplini](#71-limitation-discipline)'in zaten izin vermediği şekilde özgürlüğün kısıtlanması için hiçbir zemin oluşturmaz.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Süreklilik Amacı: Giriş
 <details>

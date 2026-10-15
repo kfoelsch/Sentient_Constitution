@@ -98,6 +98,36 @@ Definisi di bawah tujuan ini mewarisi cakupannya kecuali mereka secara tegas mem
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### Keberlanjutan (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*Secara sederhana: pertanyaan ini menilai apakah makhluk berkesadaran dan sistem hidup yang menopang mereka dapat bertahan dalam jangka panjang—secara ekologis, andal, dan saat terjadi kegagalan. Inilah tempat keluarga pengukuran Keberlanjutan di Bab Lima; §2 Prakata mempertahankan pertanyaan sederhana kategori, sedangkan tabel keluarga dan rujukan definisi ada di sini.*
+
+*Materialitas* ([Materiality](../../core_05_band_oversight.md#materiality)) bersifat integratif, bukan kategori pengukuran tersendiri; materialitas menentukan seberapa kuat keluarga ini berlaku menurut [material stake](core_00_preamble.md#material-stake).
+
+| Subkeluarga | Pertanyaan sederhana | Penggunaan konstitusional utama |
+|---|---|---|
+| Jejak ekologis dan prasyarat lingkungan | Beban lingkungan apa yang sedang diciptakan atau dialihkan? | [Jejak ekologis](../../core_05_band_continuity.md#ecological-footprint), [Prasyarat lingkungan](../../core_05_band_continuity.md#environmental-preconditions); pengungkapan menurut **Pasal I-A** dan **I-B** |
+| Ketahanan, keterbalikan, dan risiko sistemik | Dapatkah kegagalan dibatasi dan dipulihkan, serta peningkatannya dilaporkan dengan jujur? | [Keterbalikan](../../core_05_band_continuity.md#reversibility), [Kegagalan berantai](../../core_05_band_continuity.md#cascading-failure), [Risiko eksistensial](../../core_05_band_continuity.md#existential-risk), [Pemulihan mandiri](../../core_05_band_continuity.md#self-healing); [ketahanan, keselamatan, keterbalikan, pemulihan mandiri, kegagalan berantai, risiko eksistensial, prasyarat lingkungan, dan kesejahteraan](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| Ketergantungan dan arus sumber daya | Apakah ketergantungan bersama terlihat dan dipertahankan? | [Ketergantungan](../../core_05_band_continuity.md#dependency); **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Arus Sumber Daya*) |
+| Dukungan lintas sistem | Apakah pengembalian yang terdokumentasi menopang infrastruktur bersama dan pemulihan ekologis? | [Ekstraksi lintas sistem](../../core_05_band_continuity.md#cross-system-extraction), [Dukungan lintas sistem yang proporsional](../../core_05_band_continuity.md#proportionate-cross-system-support); **Pasal V-B** (*Keadilan dan Keberlanjutan Lintas Sistem*) |
+
+Aturan pengukuran terperinci terdapat pada setiap definisi yang ditautkan.
+
+**Berkas sebelumnya:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**Berkas berikutnya:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### Mengukur Kesinambungan (keluarga pengukuran Pembukaan)

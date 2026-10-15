@@ -38,6 +38,33 @@ Este archivo es el hogar de la familia de medición **Desempeño constitucional*
 
 <a id="performance-measurement-family"></a>
 
+### Desempeño constitucional (Preamble measurement family)
+
+*En términos sencillos: estas preguntas examinan si los resultados constitucionales realmente se alcanzan sin desperdiciar tiempo, esfuerzo ni materiales de los seres sintientes.*
+
+*Este es el espacio del Capítulo Cinco para la familia de medición del Desempeño Constitucional. El §2 del Preámbulo conserva la pregunta sencilla de la categoría en la tabla general; aquí están la tabla familiar, el uso constitucional y las referencias a las definiciones.*
+
+*La materialidad ([Materiality](core_05_band_oversight.md#materiality)) es integradora, no una categoría de medición aparte; determina cuánto se aplica esta familia según [material stake](core_00_preamble.md#material-stake).*
+
+| Familia de medición | Pregunta sencilla | Uso constitucional principal |
+|---|---|---|
+| [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) | ¿Se están alcanzando realmente los resultados constitucionales? | Evita que los indicadores indirectos sustituyan la protección real. |
+| [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) | ¿El sistema desperdicia tiempo, esfuerzo, materiales, infraestructura o energía de los seres sintientes? | Reduce fricciones innecesarias. |
+| [Productive Capacity](core_05_band_continuity.md#productive-capacity) | ¿Pueden los seres sintientes y los sistemas seguir produciendo resultados alineados? | Protege la capacidad duradera sin trasladar la carga ecológica. |
+
+Estas medidas transversales preguntan si los sistemas alcanzan eficazmente resultados constitucionales, evitan el desperdicio inútil y conservan la capacidad de seguir produciendo resultados alineados, algo esencial tanto para [**Flourishing**](core_00_preamble.md#flourishing) como para [**Continuity**](core_00_preamble.md#continuity).
+
+- Los niveles operativos de medición se encuentran en las definiciones del Capítulo Cinco: véanse [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity) y [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty).
+- Los objetivos de desempeño, las recompensas y las medidas de recursos solo son válidos cuando pueden vincularse a resultados constitucionales.
+- No pueden sustituir la eficiencia constitucional, [Productive Capacity](core_05_band_continuity.md#productive-capacity) ni el cumplimiento del umbral de derechos.
+- Consulte [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) hasta [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) cuando el desempeño del sistema completo sea materialmente pertinente.
+
+---
+
+**Archivo anterior:** [core_05_band_participation.md](core_05_band_participation.md)
+
+**Archivo siguiente:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### Medir el Desempeño constitucional (familia de medición del Preámbulo)
 

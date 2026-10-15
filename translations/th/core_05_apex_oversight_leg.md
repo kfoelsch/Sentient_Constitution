@@ -94,6 +94,34 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### การกำกับดูแล
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*กล่าวอย่างง่าย ๆ: คำถามเหล่านี้ตรวจสอบว่าสิ่งมีความรู้สึกสามารถมองเห็น ตรวจสอบ และพึ่งพาสิ่งที่ระบบผลกระทบสูงนำเสนอได้หรือไม่ ส่วนนี้เป็นที่ตั้งของกลุ่มการวัดการกำกับดูแลในบทที่ห้า §2 ของบทนำคงคำถามอย่างง่ายของหมวดไว้ ส่วนตารางกลุ่มและทางไปยังคำนิยามอยู่ที่นี่*
+
+*ความมีนัยสำคัญ ([Materiality](core_05_band_oversight.md#materiality)) เป็นองค์ประกอบบูรณาการ ไม่ใช่หมวดแยก โดยปรับระดับการใช้กลุ่มนี้ตาม [material stake](core_00_preamble.md#material-stake)*
+
+| กลุ่มการวัด | คำถามอย่างง่าย | การใช้ตามรัฐธรรมนูญหลัก |
+|---|---|---|
+| ความจริงและความครบถ้วนทางญาณวิทยา | คำกล่าวอ้าง บันทึก และการเปิดเผยซื่อตรงเพียงพอสำหรับการตัดสินใจอย่างปลอดภัยหรือไม่? | คุ้มครองการมีส่วนร่วมอย่างรู้ข้อมูล การเยียวยา และการแก้ไข |
+| ความน่าเชื่อถือ | การพึ่งพานั้นมีเหตุผลรองรับหรือความไว้วางใจกำลังเสื่อมลง? | คุ้มครองสิ่งมีความรู้สึกจากความมั่นใจผิด ๆ และการพึ่งพาที่ทำให้เข้าใจผิด |
+
+ข้อกำหนดบังคับด้านความน่าเชื่อถือ การตรวจสอบ หรือการทบทวนเกิดขึ้นเมื่อบทที่หก [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) หรือเอกสารที่นำมารวมไว้กำหนดไว้อย่างชัดแจ้ง
+
+**ไฟล์ก่อนหน้า:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**ไฟล์ถัดไป:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### การวัดการกำกับดูแล (ตระกูลการวัดของคำปรารภ)

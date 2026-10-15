@@ -1088,6 +1088,43 @@ flowchart TB
 
 При оценке системы в целом эти условия необходимо проверить по [Главе Восьмой §3.6 «Добровольное прекращение существования, существенное самоизменение и право на выход»](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights), прежде чем в случаях, охватываемых областью применения, утверждать классификацию, надлежащее управление, допустимость ограничения или соблюдение требований.
 
+#### 7.5 Экспрессия и линия вреда
+
+<details>
+<summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие </span></strong></summary>
+
+*Права — главная страница.* **[Статья XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Выражение*)** устанавливает действующую границу выражения, а **[Статья XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*Границы коллективного вреда и интерфейс правоприменения*)** указывает, где начинается коллективный вред. В этом подразделе изложен принцип Свободы, который их объединяет, и не добавляет никаких собственных правил.
+
+- [Выражение](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)]
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)]
+- [Преследование и издевательства](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)]
+- [Жестокость](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)]
+- [Граница коллективного вреда](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)]
+- [Необходимость](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)]
+- [Пропорциональность](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)]
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*Проще говоря: вы можете говорить, писать, публиковать и оформлять практически все, что угодно, включая то, что оскорбляет, беспокоит или критикует. Но речь – это не лазейка. Когда слова, политика или планы являются способом причинения вреда, преследований, запугивания или дискриминации других людей, их оценивают по тому, что они делают, так же, как для разумного человека, как и для учреждения, и какой бы религиозный или политический ярлык они ни носили.*
+
+**Выражение защищено как выражение.** [Expression](../../core_05_band_participation.md#expression) охватывает взгляды любого рода, в том числе тревожные, а также критику любого разумного существа или учреждения. Оскорбления, несогласие, дискомфорт и мирный протест не причиняют вреда ([§7.3 Несогласие и мирный протест](#73-dissent-and-peaceful-protest)).
+
+**Выражение не является прикрытием для поведения.** На высказывания, публикации, дизайн, политику и другие выражения мнения по-прежнему распространяются правила, касающиеся [Harm](../../core_05_band_accountability.md#harm), [Преследований и издевательств](../../core_05_band_accountability.md#harassment-and-bullying), [Жестокости](../../core_05_band_accountability.md#cruelty) и недискриминации, если они являются средствами осуществления такого поведения. Тест – это то, что выражение утверждает, требует или делает, читая в контексте определений пятой главы. Эти определения сохраняют свое значение: преследование и издевательство нуждаются в материальной схеме, а не в одном резком замечании, а вред требует реального материального воздействия, а не только правонарушения ([Collective Harm Boundary](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**Один и тот же тест применим как к разумному человеку, так и к учреждению.** Говорящим может быть отдельный разумный человек, группа или учреждение, и любой из них может быть целью.
+- Учреждение высказывается посредством своей политики, уведомлений, дизайна платформы, официальных заявлений и того, как оно относится к отчетам и критике. Такое поведение оценивается так же, как и любое другое.
+- Критика учреждения, его должностных лиц или его поведения защищена. Назвать критику запугиванием или преследованием — это ограничение на выражение мнения. Сторона, подающая такое требование, несет бремя в соответствии с [§7.1 Дисциплина ограничения ](#71-limitation-discipline) и Главой четвертой.
+
+**Ярлыки и темы не меняют тест.** Религиозные, политические, идеологические, культурные, художественные или коммерческие ярлыки не превращают выражения, причиняющие вред другим людям, или обращаются с ними способами, запрещенными **[Статьей VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Недискриминация*)**, в защищенное выражение. Тема или точка зрения не превращают защищенное выражение во вред. **[Статья XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Свобода совести, религии и аналогичного мировоззрения*)** защищает соблюдение и выражение убеждений в соответствии с правами других.
+
+**Ограничение выражения мнения отличается от использования его в качестве доказательства.** Ограничение на выражение мнения должно соответствовать [§7.1 Дисциплине по ограничению ](#71-limitation-discipline) и **[Статье XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Выражение*)**, а ограничение, направленное на то, что говорится, подвергается там самой строгой проверке. Использование того, что сказал разумный человек, в качестве доказательства намерения, цели или полномочий не является пределом. Это соответствует правилам доказывания главы, в которой задается вопрос, например [Глава седьмая §4 Проверка образования: статус и подлинность должностного лица ](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), и это не может стать наказанием за само выступление.
+
+**Объем.** В этом подразделе к выражению применяются дисциплина ограничения и определения пятой главы. Оно не создает никакой категории вреда и никаких оснований для ограничения свободы, которые [§7.1 Дисциплина Ограничения](#71-limitation-discipline) еще не допускают.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Цель непрерывности: введение
 <details>

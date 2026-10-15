@@ -93,6 +93,35 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
+
+### காலத்தன்மை அளவீடு
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+</details>
+
+<br>
+
+*எளிமையாகச் சொன்னால்: செயலாக்க அளவை ஒரு பலகை காட்டுகிறதா என்பதல்ல, பிரச்சினைகள் உண்மையில் சரியான நேரத்தில் முன்னேறுகின்றனவா என்பதையே இந்தக் கேள்விகள் ஆராய்கின்றன. ஐந்தாம் அத்தியாயத்தில் காலத்தன்மை அளவீட்டு குடும்பம் அமைந்துள்ள இடம் இதுவாகும்; முன்னுரையின் §2 (அளவீடுகளின் மேலோட்டம்) வகையின் எளிய கேள்வியை வைத்திருக்கிறது; குடும்ப அட்டவணையும் வரையறை வழிகாட்டலும் இங்கே உள்ளன.*
+
+*பொருட்பாடு ([Materiality](core_05_band_oversight.md#materiality)) ஒருங்கிணைந்தது; தனி அளவீட்டு வகை அல்ல. [material stake](core_00_preamble.md#material-stake) அடிப்படையில் இந்தக் குடும்பத்தின் பயன்பாட்டு வலிமையை அது மாற்றுகிறது.*
+
+| அளவீட்டு குடும்பம் | எளிய கேள்வி | முக்கிய அரசியலமைப்புப் பயன்பாடு |
+|---|---|---|
+| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | தீர்வு இன்னும் முக்கியத்துவம் கொண்டிருக்கும்போதே தகராறுகள் தீர்க்கப்படுகின்றனவா? | தாமதம் உரிமைகளின் உள்ளடக்கத்தை வெறுமையாக்குவதைத் தடுக்கிறது. |
+| தாமதத்துக்கு எதிரான மற்றும் தீர்வுப் பாதை ஒழுங்கு | ஊக்கங்களும் அமைப்புகளும் திட்டமிட்ட குவிப்பு, கைப்பற்றல், பயனற்ற காலக்கெடுகளைத் தவிர்க்கின்றனவா? | தாமத ஆட்சிமுறைகளையும் [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways)-ஐயும் கண்டறிகிறது. |
+
+செயல்முறை காலங்கள், தீர்வுப் பாதைகள், சீரமைப்பு வேகம் ஆகியவை [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)-இன் **காலத்தன்மை** பக்கத்தை நடைமுறையில் உண்மையாக வைத்திருக்கிறதா என்று இந்த அளவீடுகள் கேட்கின்றன; காகிதத்தில் மட்டும் அல்ல.
+
+**முந்தைய கோப்பு:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
+**அடுத்த கோப்பு:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+
 <a id="measuring-timeliness"></a>
 
 ### காலந்தவறாமையை அளவிடுதல்

@@ -98,6 +98,36 @@ Bu amaç altındaki tanımlar, açıkça daraltmadıkça ya da genişletmedikçe
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### Süreklilik (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*Sade dille: Bu sorular, sentient varlıkların ve bağımlı oldukları canlı sistemlerin uzun vadede — ekolojik açıdan, güvenilir biçimde ve arızalara rağmen — varlığını sürdürebilip sürdüremediğini inceler. Beşinci Bölümdeki Süreklilik ölçüm ailesinin yeri burasıdır; Önsöz §2 kategorinin sade sorusunu korur, aile tablosu ve tanım yönlendirmeleri burada bulunur.*
+
+*Maddilik* ([Materiality](core_05_band_oversight.md#materiality)) ayrı bir ölçüm kategorisi değil, bütünleştirici bir unsurdur; bu ailenin uygulama gücünü [material stake](core_00_preamble.md#material-stake) ölçeğinde belirler.
+
+| Alt aile | Sade soru | Başlıca anayasal kullanım |
+|---|---|---|
+| Ekolojik ayak izi ve çevresel ön koşullar | Hangi çevresel yük yaratılıyor veya başka yere aktarılıyor? | [Ekolojik ayak izi](../../core_05_band_continuity.md#ecological-footprint), [Çevresel ön koşullar](../../core_05_band_continuity.md#environmental-preconditions); **Madde I-A** ve **I-B** kapsamında açıklama |
+| Dayanıklılık, tersine çevrilebilirlik ve sistemik risk | Arızalar sınırlandırılıp geri alınabilir mi ve tırmanışları dürüstçe bildirilebilir mi? | [Tersine çevrilebilirlik](../../core_05_band_continuity.md#reversibility), [Zincirleme arıza](../../core_05_band_continuity.md#cascading-failure), [Varoluşsal risk](../../core_05_band_continuity.md#existential-risk), [Kendini onarma](../../core_05_band_continuity.md#self-healing); [dayanıklılık, güvenlik, tersine çevrilebilirlik, kendini onarma, zincirleme arıza, varoluşsal risk, çevresel ön koşullar ve esenlik](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| Bağımlılık ve kaynak akışları | Paylaşılan bağımlılıklar görünür ve sürdürülebilir mi? | [Bağımlılık](../../core_05_band_continuity.md#dependency); **Madde V-A** (*Bağımlılık haritalama ve kaynak akışı şeffaflığı*) |
+| Sistemler arası destek | Belgelenen karşılık, paylaşılan altyapıyı ve ekolojik onarımı sürdürüyor mu? | [Sistemler arası kaynak çekimi](../../core_05_band_continuity.md#cross-system-extraction), [Orantılı sistemler arası destek](../../core_05_band_continuity.md#proportionate-cross-system-support); **Madde V-B** (*Sistemler arası adalet ve sürdürülebilirlik*) |
+
+Ayrıntılı ölçüm kuralları bağlantı verilen her tanımda yer alır.
+
+**Önceki dosya:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**Sonraki dosya:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### Sürekliliği ölçmek (Önsöz ölçüm ailesi)

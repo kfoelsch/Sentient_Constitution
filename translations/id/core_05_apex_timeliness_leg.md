@@ -91,6 +91,35 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 ---
 
 <a id="timeliness-measurement-family"></a>
+
+### Ketepatan Waktu
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: pertanyaan ini menilai apakah masalah benar-benar bergerak tepat waktu, bukan sekadar apakah dasbor menunjukkan jumlah proses. Inilah tempat keluarga pengukuran Ketepatan Waktu dalam Bab Lima; §2 Preambul (Ikhtisar Pengukuran) memuat pertanyaan kategori yang sederhana, sedangkan tabel keluarga dan rujukan definisi ada di sini.*
+
+*Materialitas ([Materiality](../../core_05_band_oversight.md#materiality)) bersifat integratif, bukan kategori pengukuran terpisah; hal ini menentukan seberapa kuat keluarga ini berlaku berdasarkan [material stake](core_00_preamble.md#material-stake).*
+
+| Keluarga pengukuran | Pertanyaan sederhana | Penggunaan konstitusional utama |
+|---|---|---|
+| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | Apakah sengketa diselesaikan selagi pemulihan masih berarti? | Mencegah keterlambatan mengosongkan hak dari maknanya. |
+| Disiplin anti-penundaan dan jalur penyelesaian | Apakah insentif dan struktur menghindari penumpukan yang disengaja, penguasaan, dan tenggat yang hampa? | Mendeteksi rezim penundaan dan [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways). |
+
+Ukuran ini menilai apakah tenggat proses, jalur penyelesaian, dan kecepatan pemulihan menjaga sisi **ketepatan waktu** dari [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) tetap nyata dalam praktik, bukan hanya di atas kertas.
+
+**Berkas sebelumnya:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
+**Berkas berikutnya:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+
 <a id="measuring-timeliness"></a>
 
 ### Mengukur ketepatan waktu

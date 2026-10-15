@@ -1089,6 +1089,43 @@ flowchart TB
 
 সম্পূর্ণ সংজ্ঞা-পরিধি প্রযোজ্য হলে, শ্রেণিবিন্যাস, শাসন, সীমাবদ্ধতা বা অনুসরণের দাবি গ্রহণযোগ্য হওয়ার আগে সমগ্র-ব্যবস্থার মূল্যায়নে [Chapter Eight §3.6 স্বেচ্ছায় সমাপ্তি, বড় ধরনের আত্ম-পরিবর্তন ও প্রস্থানের অধিকার](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)-এর অধীনে এই শর্তগুলো পরীক্ষা করতে হবে।
 
+#### 7.5 এক্সপ্রেশন এবং হার্ম লাইন
+
+<details>
+<summary><strong><span style="color: #2563eb;"> সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
+
+*রাইটস-ফ্লোর হোম।* **[আর্টিকেল XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*এক্সপ্রেশন*)** অপারেটিভ এক্সপ্রেশন ফ্লোরকে বলে, এবং **[আর্টিকেল XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*সম্মিলিত ক্ষতির সীমানা এবং এনফোর্সমেন্ট ইন্টারফেস*) যেখানে সম্মিলিত ক্ষতি শুরু হয়। এই উপধারাটি স্বাধীনতা নীতিটি বলে যা তাদের সাথে যোগ দেয় এবং এর নিজস্ব কোন নিয়ম যোগ করে না।
+
+- [এক্সপ্রেশন](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [হয়রানি এবং ধমক ](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [নিষ্ঠুর ](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [সম্মিলিত ক্ষতির সীমানা](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [প্রয়োজনীয় ](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [আনুপাতিকতা](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*সাধারণ ভাষায়: আপনি বলতে পারেন, লিখতে, প্রকাশ করতে এবং ডিজাইন করতে পারেন, যা আপত্তিকর, বিরক্ত বা সমালোচনা করে। কিন্তু বক্তৃতা কোনো ফাঁকফোকর নয়। শব্দ, নীতি বা নকশা যখন কেউ অন্যের ক্ষতি করে, হয়রানি করে, উত্পীড়িত করে বা অন্যের বিরুদ্ধে বৈষম্য করে, তখন তারা যা করে তার উপর বিচার করা হয়, একটি প্রতিষ্ঠানের মতো একজন সংবেদনশীল ব্যক্তির জন্য, এবং তারা যে ধর্মীয় বা রাজনৈতিক লেবেল বহন করুক না কেন।*
+
+**অভিব্যক্তি অভিব্যক্তি হিসেবে সুরক্ষিত।** [Expression](../../core_05_band_participation.md#expression) সব ধরনের মতামতকে কভার করে, যার মধ্যে বিরক্তিকর বিষয়, এবং কোনো অনুভূতিশীল বা প্রতিষ্ঠানের সমালোচনা। অপরাধ, মতবিরোধ, অস্বস্তি, এবং শান্তিপূর্ণ প্রতিবাদ ক্ষতিকর নয় ([§7.3 ভিন্নমত এবং শান্তিপূর্ণ প্রতিবাদ](#73-dissent-and-peaceful-protest))।
+
+**অভিব্যক্তি আচরণের জন্য একটি ঢাল নয়।** বক্তৃতা, প্রকাশনা, নকশা, নীতি এবং অন্যান্য অভিব্যক্তি [Harm](../../core_05_band_accountability.md#harm), [হয়রানি এবং বুলিং](../../core_05_band_accountability.md#harassment-and-bullying), [Cruelty](../../core_05_band_accountability.md#cruelty) এর নিয়মের অধীন থাকে, এবং যখন তারা এমন আচরণ করে যখন তারা আচরণ করে। পরীক্ষা হল অভিব্যক্তি যা বলে, যা করার জন্য আহ্বান করে বা করে, অধ্যায়ের পঞ্চম সংজ্ঞার অধীনে প্রেক্ষাপটে পড়ে। এই সংজ্ঞাগুলি তাদের অর্থ রাখে: হয়রানি এবং ধমকানোর জন্য একটি উপাদান প্যাটার্ন প্রয়োজন, একটি একক তীক্ষ্ণ মন্তব্য নয়, এবং ক্ষতির জন্য একটি বাস্তব উপাদান-প্রভাব পথের প্রয়োজন, একা অপরাধ নয় ([সম্মিলিত ক্ষতির সীমানা](../../core_05_band_accountability.md#collective-harm-boundary)।
+
+**একই পরীক্ষা একজন সংবেদনশীল এবং একটি প্রতিষ্ঠানের ক্ষেত্রে প্রযোজ্য।** একজন একক সংবেদনশীল, একটি গোষ্ঠী বা একটি প্রতিষ্ঠান বক্তা হতে পারে এবং তাদের মধ্যে যে কেউ লক্ষ্যবস্তু হতে পারে।
+- একটি প্রতিষ্ঠান তার নীতি, নোটিশ, প্ল্যাটফর্ম ডিজাইন, অফিসিয়াল বিবৃতি এবং প্রতিবেদন এবং সমালোচকদের সাথে যেভাবে আচরণ করে তার মাধ্যমে কথা বলে। যে উপায় বাহিত আচরণ অন্য যে কোনো মত বিচার করা হয়.
+- একটি প্রতিষ্ঠান, তার কর্মকর্তাদের বা তার আচরণের সমালোচনা সুরক্ষিত। সমালোচনাকে ধমক বা হয়রানি বলা অভিব্যক্তির একটি সীমা। যে দল এই দাবি করছে তারা [§7.1 Limitation Discipline](#71-limitation-discipline) এবং চতুর্থ অধ্যায়ের অধীনে বোঝা বহন করে।
+
+**লেবেল এবং বিষয়গুলি পরীক্ষা পরিবর্তন করে না।** একটি ধর্মীয়, রাজনৈতিক, মতাদর্শগত, সাংস্কৃতিক, শৈল্পিক, বা বাণিজ্যিক লেবেল এমন অভিব্যক্তিকে পরিণত করে না যা অন্যদের ক্ষতি করে, বা **[ধারা VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*অবৈষম্য*)** এর অধীনে নিষিদ্ধ উপায়ে তাদের আচরণ করে, সুরক্ষিত অভিব্যক্তিতে। একটি বিষয় বা দৃষ্টিকোণ সুরক্ষিত অভিব্যক্তিকে ক্ষতিতে পরিণত করে না। **[অনুচ্ছেদ XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*বিবেকের স্বাধীনতা, ধর্ম, এবং তুলনামূলক বিশ্বদর্শন*)** অন্যদের অধিকারের সাথে ধারাবাহিকভাবে বিশ্বাসকে ধারণ করা এবং প্রকাশ করাকে রক্ষা করে।
+
+**প্রমাণ হিসাবে ব্যবহার করার থেকে অভিব্যক্তি সীমাবদ্ধ করা ভিন্ন।** অভিব্যক্তির একটি সীমা অবশ্যই [§7.1 সীমাবদ্ধতা শৃঙ্খলা ](#71-limitation-discipline) এবং **[আর্টিকেল XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*এক্সপ্রেশন*)** পূরণ করতে হবে, এবং যা বলা হয়েছে তার লক্ষ্যে একটি সীমা কঠোর পর্যালোচনার মুখোমুখি হবে। উদ্দেশ্য, উদ্দেশ্য বা কর্তৃত্বের প্রমাণ হিসাবে একজন সংবেদক যা বলেছেন তা ব্যবহার করা একটি সীমা নয়। এটি অধ্যায়ের প্রমাণ বিধি অনুসরণ করে যা প্রশ্ন জিজ্ঞাসা করে, যেমন [অধ্যায় সপ্তম §4 গঠন চেক: অফিস-হোল্ডার স্ট্যান্ডিং এবং অথেনটিসিটি](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), এবং এটি বক্তৃতার জন্য শাস্তি নাও হতে পারে।
+
+**ব্যাপ্তি।** এই উপধারাটি প্রকাশের ক্ষেত্রে সীমাবদ্ধতা শৃঙ্খলা এবং পঞ্চম অধ্যায়ের সংজ্ঞা প্রয়োগ করে। এটি ক্ষতির কোনো বিভাগ তৈরি করে না এবং স্বাধীনতাকে সীমিত করার জন্য কোনো ভিত্তি তৈরি করে না যা [§7.1 Limitation Discipline](#71-limitation-discipline) ইতিমধ্যেই অনুমতি দেয় না।
+
 <a id="8-continuity-aim-introduction"></a>
 ### ৮. ধারাবাহিকতার লক্ষ্য: ভূমিকা
 <details>

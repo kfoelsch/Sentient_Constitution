@@ -1087,6 +1087,43 @@ flowchart TB
 
 การประเมินทั้งระบบต้องทดสอบเงื่อนไขเหล่านี้ตาม [Chapter Eight §3.6 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) ก่อนยอมรับข้อกล่าวอ้างเรื่องการจัดประเภท การกำกับดูแล การจำกัด หรือการปฏิบัติตาม ในกรณีที่ขอบเขตการนำมาใช้มีผล
 
+#### 7.5 การแสดงออกและเส้นอันตราย
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตามข้อกำหนด</span></strong></summary>
+
+* Rights-Floor home .***[บทความ XI-B](core_06_rights_part_b.md#article-xi-b-expression)(* การแสดงออก *) ** ระบุชั้นการแสดงออกเชิงปฏิบัติการและ **[ข้อ XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)(* ขอบเขตอันตรายร่วมและอินเตอร์เฟซการบังคับใช้ *) ** ระบุว่าอันตรายร่วมเริ่มต้นขึ้นที่ใดส่วนย่อยนี้ระบุหลักการเสรีภาพที่เข้าร่วมและไม่เพิ่มกฎของตัวเอง
+
+-[นิพจน์](core_05_band_participation.md#expression)·[O](core_05_band_participation.md#expression)·[M](core_05_band_participation.md#expression-constitutional-a)·[A](core_05_band_participation.md#expression-constitutional-a)·[C](core_05_band_participation.md#expression-constitutional-c)
+-[ความเสียหาย](core_05_band_accountability.md#harm)·[O](core_05_band_accountability.md#harm)·[M](core_05_band_accountability.md#harm-a)·[A](core_05_band_accountability.md#harm-a)·[C](core_05_band_accountability.md#harm-c)
+-[การคุกคามและการกลั่นแกล้ง](core_05_band_accountability.md#harassment-and-bullying)·[O](core_05_band_accountability.md#harassment-and-bullying)·[M](core_05_band_accountability.md#harassment-and-bullying-a)·[A](core_05_band_accountability.md#harassment-and-bullying-a)·[C](core_05_band_accountability.md#harassment-and-bullying-c)
+-[การทารุณโหดร้าย](core_05_band_accountability.md#cruelty)·[O](core_05_band_accountability.md#cruelty)·[M](core_05_band_accountability.md#cruelty-a)·[A](core_05_band_accountability.md#cruelty-a)·[C](core_05_band_accountability.md#cruelty-c)
+-[ขอบเขตอันตรายร่วม](core_05_band_accountability.md#collective-harm-boundary)·[O](core_05_band_accountability.md#collective-harm-boundary)·[M](core_05_band_accountability.md#collective-harm-boundary-a)·[A](core_05_band_accountability.md#collective-harm-boundary-a)·[C](core_05_band_accountability.md#collective-harm-boundary-c)
+-[จำเป็นหรือไม่?](core_05_band_accountability.md#necessity)·[O](core_05_band_accountability.md#necessity)·[M](core_05_band_accountability.md#necessity-a)·[A](core_05_band_accountability.md#necessity-a)·[C](core_05_band_accountability.md#necessity-c)
+-[ความได้สัดส่วน](core_05_band_accountability.md#proportionality)·[O](core_05_band_accountability.md#proportionality)·[M](core_05_band_accountability.md#proportionality-a)·[A](core_05_band_accountability.md#proportionality-a)·[C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+* ในแง่ธรรมดา: คุณอาจพูดเขียนเผยแพร่และออกแบบเกือบทุกอย่างรวมถึงสิ่งที่ทำให้ขุ่นเคืองรบกวนหรือวิพากษ์วิจารณ์แต่การพูดไม่ใช่ช่องโหว่เมื่อคำพูดนโยบายหรือการออกแบบเป็นวิธีที่ใครบางคนทำร้ายคุกคามกลั่นแกล้งหรือเลือกปฏิบัติต่อผู้อื่นพวกเขาจะถูกตัดสินในสิ่งที่พวกเขาทำเช่นเดียวกับผู้มีอารมณ์ความรู้สึกเช่นเดียวกับสถาบัน และสิ่งที่พวกเขามีป้ายกำกับทางศาสนาหรือทางการเมือง *
+
+** นิพจน์ได้รับการป้องกันเป็นนิพจน์ **[นิพจน์](../../core_05_band_participation.md#expression)ครอบคลุมมุมมองทุกประเภทรวมถึงมุมมองที่น่ารำคาญและการวิพากษ์วิจารณ์ผู้มีความรู้สึกหรือสถาบันใดๆการกระทำผิดความไม่เห็นด้วยความไม่สบายใจและการประท้วงอย่างสันติไม่เป็นอันตราย ([§ 7.3 การคัดค้านและการประท้วงอย่างสันติ](#73-dissent-and-peaceful-protest)).
+
+** การแสดงออกไม่ใช่เกราะป้องกันความประพฤติ ** การพูดการตีพิมพ์การออกแบบนโยบายและการแสดงออกอื่นๆยังคงอยู่ภายใต้กฎว่าด้วย[ความเสียหาย](../../core_05_band_accountability.md#harm)ศ.[การคุกคามและการกลั่นแกล้ง](../../core_05_band_accountability.md#harassment-and-bullying)ศ.[การทารุณโหดร้าย](../../core_05_band_accountability.md#cruelty)และการไม่เลือกปฏิบัติเมื่อพวกเขาเป็นวิธีการดำเนินการดังกล่าวการทดสอบคือสิ่งที่นิพจน์ระบุเรียกหรือไม่อ่านในบริบทภายใต้คำจำกัดความของบทที่ห้าคำจำกัดความเหล่านั้นคงไว้ซึ่งความหมาย: การคุกคามและการกลั่นแกล้งจำเป็นต้องมีรูปแบบวัสดุไม่ใช่คำพูดที่แหลมคมเพียงคำเดียวและอันตรายจำเป็นต้องมีผลกระทบต่อวัสดุจริง ทางเดินไม่ใช่การกระทำผิดเพียงอย่างเดียว ([ขอบเขตอันตรายร่วม](../../core_05_band_accountability.md#collective-harm-boundary).
+
+** การทดสอบเดียวกันนี้ใช้กับผู้มีความรู้สึกและสถาบัน ** ผู้ฟังคนเดียวกลุ่มหรือสถาบันอาจเป็นผู้พูดและคนใดคนหนึ่งอาจเป็นเป้าหมาย
+- สถาบันพูดผ่านนโยบายประกาศการออกแบบแพลตฟอร์มแถลงการณ์อย่างเป็นทางการและวิธีการปฏิบัติต่อรายงานและนักวิจารณ์การดำเนินการดังกล่าวจะได้รับการตัดสินเช่นเดียวกับการดำเนินการอื่นๆ
+- การวิพากษ์วิจารณ์สถาบันเจ้าหน้าที่หรือการกระทำของสถาบันได้รับการคุ้มครองการเรียกการวิจารณ์การกลั่นแกล้งหรือการคุกคามเป็นข้อจำกัดในการแสดงออกฝ่ายที่เรียกร้องค่าสินไหมทดแทนนั้นต้องรับภาระตาม[§ 7.1 วินัยในการจำกัด](#71-limitation-discipline)บทที่สี่.
+
+** ฉลากและหัวข้อไม่มีการเปลี่ยนแปลงการทดสอบ ** ฉลากทางศาสนาการเมืองอุดมการณ์วัฒนธรรมศิลปะหรือการค้าไม่ได้เปลี่ยนการแสดงออกที่เป็นอันตรายต่อผู้อื่นหรือปฏิบัติต่อพวกเขาในลักษณะที่ต้องห้ามภายใต้ **[ข้อ VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination)(* การไม่เลือกปฏิบัติ *)** ไปสู่การแสดงออกที่ได้รับการคุ้มครองหัวข้อหรือมุมมองไม่ได้เปลี่ยนการแสดงออกที่ได้รับการคุ้มครองให้เป็นอันตราย **[ข้อ XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)(* เสรีภาพในการสำนึกผิดชอบชั่วดีศาสนาและโลกทัศน์ที่เทียบเคียงได้ *) ** ปกป้องการยึดถือและการแสดงความเชื่ออย่างสอดคล้องกับสิทธิของผู้อื่น
+
+** การจำกัดการแสดงออกแตกต่างจากการใช้เป็นหลักฐาน ** ขีดจำกัดของนิพจน์จะต้องเป็นไปตาม[§ 7.1 วินัยในการจำกัด](#71-limitation-discipline)และ[บทความ XI-B](core_06_rights_part_b.md#article-xi-b-expression)(* นิพจน์ *) ** และข้อจำกัดที่มุ่งเป้าไปที่สิ่งที่พูดต้องเผชิญกับการทบทวนที่เข้มงวดที่สุดที่นั่นการใช้สิ่งที่ผู้รับรู้พูดเป็นหลักฐานแสดงเจตนาวัตถุประสงค์หรืออำนาจไม่ใช่ข้อจำกัดเป็นไปตามกฎหลักฐานของบทที่ถามคำถามเช่น[บทที่เจ็ด § 6 การตรวจสอบการก่อตัว: การยืนหยัดของผู้ถือสำนักงานและความถูกต้อง](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity)และอาจไม่กลายเป็นโทษสำหรับคำพูดนั้น
+
+** ขอบเขต ** ส่วนย่อยนี้ใช้วินัยการจำกัดและคำจำกัดความของบทที่ห้ากับการแสดงออกไม่ก่อให้เกิดอันตรายและไม่มีเหตุผลที่จะจำกัดเสรีภาพที่[§ 7.1 วินัยในการจำกัด](#71-limitation-discipline)ยังไม่อนุญาต
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. เป้าหมายความต่อเนื่อง: บทนำ
 <details>

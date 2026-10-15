@@ -86,6 +86,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### Благополучие
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*Простыми словами: эти вопросы проверяют, сохраняются ли у разумных существ благополучие, безопасность и способность действовать на деле, а не только вовлечённость по косвенным показателям или пропускная способность. Здесь находится семейство измерений благополучия главы пятой; §2 Преамбулы сохраняет простой вопрос категории, а таблица семейства и ссылки на определения размещены здесь.*
+
+*Материальность ([Materiality](core_05_band_oversight.md#materiality)) интегративна, а не является отдельной категорией измерений; она определяет силу применения семейства с учётом [material stake](core_00_preamble.md#material-stake).*
+
+| Подсемейство | Простой вопрос | Основное конституционное применение |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | Сохраняются ли у разумных существ функции, способность действовать и поддерживающие условия? | Основная мера результата **благополучия** (не его составляющая) — не косвенная вовлечённость или пропускная способность. |
+| Безопасность, вред и риск | Предотвращается ли предвидимый вред, ограничивается ли он и оценивается ли честно? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
+| Доступ к минимальному уровню выживания | Могут ли разумные существа получать необходимое: пищу, воду, жильё, уход и стабильную среду? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (Выживание). |
+
+Рабочие уровни измерений находятся в этих разделах определений.
+
+**Предыдущий файл:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**Следующий файл:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### Измерять Расцвет (семья измерений Преамбулы)

@@ -38,6 +38,33 @@
 
 <a id="performance-measurement-family"></a>
 
+### அரசியலமைப்புச் செயல்திறன் (Preamble measurement family)
+
+*எளிமையாகச் சொன்னால்: உணர்திறன் கொண்ட உயிர்களின் நேரம், முயற்சி, பொருட்களை வீணாக்காமல் அரசியலமைப்பு விளைவுகள் உண்மையில் வழங்கப்படுகின்றனவா என்று இந்தக் கேள்விகள் ஆராய்கின்றன. ஐந்தாம் அத்தியாயத்தில் அரசியலமைப்புச் செயல்திறன் அளவீட்டு குடும்பம் அமைந்துள்ள இடம் இதுவாகும். முன்னுரையின் §2 மேலோட்ட அட்டவணையில் வகையின் எளிய கேள்வியை வைத்திருக்கிறது; குடும்ப அட்டவணை, அரசியலமைப்புப் பயன்பாடு, வரையறை வழிகாட்டல் ஆகியவை இங்கே உள்ளன.*
+
+*இது ஐந்தாம் அத்தியாயத்தில் அரசியலமைப்புச் செயல்திறன் அளவீட்டுக் குடும்பத்திற்கான இடமாகும். முன்னுரையின் §2, மேலோட்ட அட்டவணையில் வகையின் எளிய கேள்வியை வைத்திருக்கிறது; குடும்ப அட்டவணை, அரசியலமைப்புப் பயன்பாடு, வரையறைச் சுட்டிகள் இங்கே உள்ளன.*
+
+*பொருட்பாடு ([Materiality](core_05_band_oversight.md#materiality)) ஒருங்கிணைந்தது; தனி அளவீட்டு வகை அல்ல. [material stake](core_00_preamble.md#material-stake) அடிப்படையில் இந்தக் குடும்பத்தின் பயன்பாட்டு வலிமையை அது மாற்றுகிறது.*
+
+| அளவீட்டு குடும்பம் | எளிய கேள்வி | முக்கிய அரசியலமைப்புப் பயன்பாடு |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | அரசியலமைப்பு விளைவுகள் உண்மையில் வழங்கப்படுகின்றனவா? | மாற்றுக் குறியீடுகள் உண்மையான பாதுகாப்பை மாற்றுவதைத் தடுக்கிறது. |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | உணர்திறன் கொண்ட உயிர்களின் நேரம், முயற்சி, பொருட்கள், உள்கட்டமைப்பு அல்லது ஆற்றலை அமைப்பு வீணாக்குகிறதா? | தேவையற்ற உராய்வைக் குறைக்கிறது. |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | உணர்திறன் கொண்ட உயிர்களும் அமைப்புகளும் ஒத்திசைந்த விளைவுகளைத் தொடர்ந்து உருவாக்க முடியுமா? | சூழலியல் சுமையை வேறு இடத்துக்கு மாற்றாமல் நீடித்த திறனைப் பாதுகாக்கிறது. |
+
+இந்தக் குறுக்குவெட்டு அளவீடுகள் அமைப்புகள் அரசியலமைப்பு விளைவுகளைத் திறம்பட வழங்குகின்றனவா, பயனற்ற வீணாக்கத்தைத் தவிர்க்கின்றனவா, ஒத்திசைந்த விளைவுகளைத் தொடர்ந்து உருவாக்கும் திறனைப் பாதுகாக்கின்றனவா என்று கேட்கின்றன—இவை [**Flourishing**](core_00_preamble.md#flourishing), [**Continuity**](core_00_preamble.md#continuity) இரண்டிற்கும் கருவியாகும்.
+
+- செயல்பாட்டு அளவீட்டு நிலைகள் ஐந்தாம் அத்தியாய வரையறைகளில் உள்ளன: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty) ஆகியவற்றைப் பார்க்கவும்.
+- செயல்திறன் இலக்குகள், வெகுமதிகள், வள அளவீடுகள் ஆகியவை அரசியலமைப்பு விளைவுகளுடன் தொடர்புபடுத்தக்கூடிய அளவுக்கே செல்லுபடியாகும்.
+- அவை அரசியலமைப்புச் செயல்திறன், [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), அல்லது உரிமைக் குறைந்தபட்ச இணக்கத்தை மாற்ற முடியாது.
+- முழு அமைப்பின் செயல்திறன் பொருட்படுத்தத்தக்க இடங்களில் [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) முதல் [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) வரை படிக்கவும்.
+
+---
+
+**முந்தைய கோப்பு:** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**அடுத்த கோப்பு:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### அரசியலமைப்பு செயல்திறனை அளவிடுதல் (முகவுரை அளவீட்டுக் குடும்பம்)
 

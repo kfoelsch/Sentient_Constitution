@@ -98,6 +98,36 @@
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### Tính liên tục (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*Nói đơn giản: các câu hỏi này xem liệu các chủ thể có tri giác và hệ thống sống mà họ phụ thuộc có thể tồn tại lâu dài hay không — về mặt sinh thái, một cách đáng tin cậy và qua cả thất bại. Đây là vị trí của nhóm đo lường Tính liên tục trong Chương Năm; §2 Lời mở đầu giữ câu hỏi giản dị của danh mục, còn bảng nhóm và tham chiếu định nghĩa nằm ở đây.*
+
+*Tính trọng yếu* ([Materiality](core_05_band_oversight.md#materiality)) có tính tích hợp, không phải một hạng mục đo lường riêng; nó điều chỉnh mức độ áp dụng nhóm này theo [material stake](core_00_preamble.md#material-stake).
+
+| Phân nhóm | Câu hỏi giản dị | Công dụng hiến định chính |
+|---|---|---|
+| Dấu chân sinh thái và điều kiện môi trường tiên quyết | Gánh nặng môi trường nào đang được tạo ra hoặc chuyển đi nơi khác? | [Dấu chân sinh thái](../../core_05_band_continuity.md#ecological-footprint), [Điều kiện môi trường tiên quyết](../../core_05_band_continuity.md#environmental-preconditions); công bố theo **Điều I-A** và **I-B** |
+| Khả năng chống chịu, tính đảo ngược và rủi ro hệ thống | Có thể ngăn chặn và đảo ngược thất bại, đồng thời báo cáo trung thực khi chúng leo thang không? | [Tính đảo ngược](../../core_05_band_continuity.md#reversibility), [Thất bại dây chuyền](../../core_05_band_continuity.md#cascading-failure), [Rủi ro hiện sinh](../../core_05_band_continuity.md#existential-risk), [Tự phục hồi](../../core_05_band_continuity.md#self-healing); [khả năng chống chịu, an toàn, tính đảo ngược, tự phục hồi, thất bại dây chuyền, rủi ro hiện sinh, điều kiện môi trường tiên quyết và phúc lợi](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| Sự phụ thuộc và dòng tài nguyên | Các sự phụ thuộc chung có được làm rõ và duy trì không? | [Sự phụ thuộc](../../core_05_band_continuity.md#dependency); **Điều V-A** (*Lập bản đồ phụ thuộc và minh bạch dòng tài nguyên*) |
+| Hỗ trợ giữa các hệ thống | Khoản hoàn trả được ghi nhận có duy trì hạ tầng chung và phục hồi sinh thái không? | [Khai thác xuyên hệ thống](../../core_05_band_continuity.md#cross-system-extraction), [Hỗ trợ xuyên hệ thống tương xứng](../../core_05_band_continuity.md#proportionate-cross-system-support); **Điều V-B** (*Công bằng và bền vững xuyên hệ thống*) |
+
+Các quy tắc đo lường chi tiết nằm trong từng định nghĩa được liên kết.
+
+**Tệp trước:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**Tệp tiếp theo:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### Đo Liên tục (gia đình đo lường của Lời nói đầu)

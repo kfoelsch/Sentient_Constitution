@@ -1089,6 +1089,43 @@ flowchart TB
 
 يجب أن تختبر التقييمات على مستوى النظام ككل هذه الشروط بموجب [الفصل الثامن §3.6 الإنهاء الطوعي والتعديل الذاتي الكبير وحقوق الخروج](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) قبل اعتماد ادعاءات التصنيف أو الحوكمة أو التقييد أو الامتثال، متى انطبق نطاق القبول.
 
+#### 7.5 التعبير وخط الضرر
+
+<details>
+<summary><strong><span style="color: #2563eb;">التعاريف · التقييم · الامتثال</span></strong></summary>
+
+*الصفحة الرئيسية للحقوق.* **[المادة XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*التعبير*)** تنص على حد التعبير المنطوق، و**[المادة XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*حدود الضرر الجماعي وواجهة التنفيذ*)** تنص على المكان الذي يبدأ فيه الضرر الجماعي. ينص هذا القسم الفرعي على مبدأ الحرية الذي ينضم إليهم، ولا يضيف أي قاعدة خاصة به.
+
+- [Expression](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [التحرش والتسلط](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [Cruelty](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [حدود الضرر الجماعي](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+* بعبارات واضحة: يمكنك أن تقول وتكتب وتنشر وتصمم أي شيء تقريبًا، بما في ذلك ما يسيء أو يزعج أو ينتقد. لكن الكلام ليس ثغرة. عندما تكون الكلمات أو السياسات أو التصاميم هي الطريقة التي يؤذي بها شخص ما الآخرين أو يضايقهم أو يتنمر عليهم أو يمارس التمييز ضدهم، فإنه يتم الحكم عليهم بناءً على ما يفعلونه، بنفس الطريقة بالنسبة للواعيين كما هو الحال بالنسبة للمؤسسة، وأيًا كانت التسمية الدينية أو السياسية التي يحملونها.*
+
+**التعبير محمي كتعبير.** [يغطي Expression](../../core_05_band_participation.md#expression) وجهات النظر من كل نوع، بما في ذلك تلك المزعجة، وانتقاد أي حساس أو مؤسسة. إن الإساءة والخلاف والانزعاج والاحتجاج السلمي لا يشكل ضررًا ([§7.3 المعارضة والاحتجاج السلمي](#73-dissent-and-peaceful-protest)).
+
+**التعبير ليس درعًا للسلوك.** يظل الكلام والنشر والتصميم والسياسة وأشكال التعبير الأخرى خاضعة لقواعد [Harm](../../core_05_band_accountability.md#harm)، [Harassment and Bullying](../../core_05_band_accountability.md#harassment-and-bullying)، [Cruelty](../../core_05_band_accountability.md#cruelty)، وعدم التمييز عندما تكون هي الوسيلة التي يتم من خلالها تنفيذ هذا السلوك. والاختبار هو ما يذكره التعبير أو يدعو إليه أو يقرأه في السياق ضمن تعريفات الفصل الخامس. تحافظ هذه التعريفات على معناها: يحتاج التحرش والتنمر إلى نمط مادي، وليس إلى ملاحظة حادة واحدة، والأذى يحتاج إلى مسار تأثير مادي حقيقي، وليس الجريمة وحدها ([حدود الضرر الجماعي](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**ينطبق نفس الاختبار على الواعي وعلى المؤسسة.** قد يكون المتحدث واعيًا واحدًا، أو مجموعة، أو مؤسسة، وقد يكون أي منهم هو الهدف.
+- تتحدث المؤسسة من خلال سياساتها وإشعاراتها وتصميم منصتها وبياناتها الرسمية وطريقة تعاملها مع التقارير والمنتقدين. يتم الحكم على السلوك الذي يتم بهذه الطريقة مثل أي سلوك آخر.
+- إن انتقاد المؤسسة أو مسؤوليها أو سلوكها محمي. إن وصف النقد بالتنمر أو التحرش هو حد للتعبير. يتحمل الطرف الذي يقدم هذا الادعاء العبء بموجب [الفقرة 7.1 الانضباط المحدود](#71-limitation-discipline) والفصل الرابع.
+
+**التسميات والموضوعات لا تغير الاختبار.** لا تحول التسمية الدينية أو السياسية أو الإيديولوجية أو الثقافية أو الفنية أو التجارية التعبير الذي يؤذي الآخرين، أو يعاملهم بطرق محظورة بموجب **[المادة VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*عدم التمييز*)**، إلى تعبير محمي. الموضوع أو وجهة النظر لا تحول التعبير المحمي إلى ضرر. **[المادة XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*حرية الضمير والدين والنظرة العالمية المماثلة*)** تحمي اعتناق المعتقد وإظهاره بما يتوافق مع حقوق الآخرين.
+
+**يختلف تقييد التعبير عن استخدامه كدليل.** يجب أن يستوفي حد التعبير [الفقرة 7.1 نظام التقييد](#71-limitation-discipline) و **[المادة XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*التعبير*)**، ويواجه الحد الذي يستهدف ما يقال المراجعة الأكثر صرامة هناك. إن استخدام ما قاله الواعي كدليل على النية أو الغرض أو السلطة ليس حدًا. ويتبع قواعد الأدلة الخاصة بالفصل الذي يطرح السؤال، مثل [الفصل السابع §4 التحقق من التشكيل: مكانة صاحب المكتب وأصالة ](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity)، ولا يجوز أن يصبح عقوبة على الخطاب نفسه.
+
+**النطاق.** يطبق هذا القسم الفرعي الانضباط المحدود وتعريفات الفصل الخامس على التعبير. إنه لا يخلق أي فئة من الأذى ولا أساس لتقييد الحرية التي لا يسمح بها [الفقرة 7.1 الانضباط المحدود](#71-limitation-discipline) بالفعل.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. مقدمة هدف الاستمرارية
 <details>

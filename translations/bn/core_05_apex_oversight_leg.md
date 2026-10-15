@@ -94,6 +94,34 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### তদারকি
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*সহজ কথায়: উচ্চ-প্রভাবশালী ব্যবস্থা কী উপস্থাপন করছে তা সংবেদনশীল সত্তারা দেখতে, যাচাই করতে ও নির্ভর করতে পারে কি না—এই প্রশ্নগুলো তা পরীক্ষা করে। অধ্যায় পাঁচে তদারকি পরিমাপ-পরিবারের স্থান এটি; প্রস্তাবনার §2 শ্রেণির সহজ প্রশ্নটি রাখে, আর পরিবার-সারণি ও সংজ্ঞার নির্দেশনা এখানে রয়েছে।*
+
+*বস্তুগততা ([Materiality](core_05_band_oversight.md#materiality)) সমন্বিত, আলাদা পরিমাপ-শ্রেণি নয়; [material stake](core_00_preamble.md#material-stake) অনুযায়ী পরিবারের প্রয়োগের মাত্রা নির্ধারণ করে।*
+
+| পরিমাপ-পরিবার | সহজ প্রশ্ন | প্রধান সাংবিধানিক ব্যবহার |
+|---|---|---|
+| সত্যতা ও জ্ঞানগত অখণ্ডতা | দাবি, নথি ও প্রকাশনা কি নিরাপদ সিদ্ধান্তের জন্য যথেষ্ট সৎ? | অবহিত অংশগ্রহণ, প্রতিকার ও সংশোধন সুরক্ষিত করে। |
+| বিশ্বাসযোগ্যতা | নির্ভরতা কি ন্যায়সঙ্গত, নাকি আস্থা ক্ষয় হচ্ছে? | সংবেদনশীল সত্তাদের মিথ্যা নিশ্চয়তা ও বিভ্রান্তিকর নির্ভরতা থেকে রক্ষা করে। |
+
+অধ্যায় ছয়, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), অথবা অন্তর্ভুক্ত নথি স্পষ্টভাবে বাধ্যতামূলক করলে নির্ভরযোগ্যতা, নিরীক্ষা বা পর্যালোচনার বাধ্যতামূলক শর্ত তৈরি হয়।
+
+**আগের ফাইল:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**পরের ফাইল:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### তত্ত্বাবধান মাপা (প্রস্তাবনার পরিমাপ পরিবার)

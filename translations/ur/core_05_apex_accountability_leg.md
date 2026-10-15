@@ -74,6 +74,48 @@
 ---
 
 <a id="accountability-measurement-family"></a>
+
+### جوابدہی کی پیمائش
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+
+</details>
+
+<br>
+
+*سادہ الفاظ میں: یہ سوالات دیکھتے ہیں کہ انعامات، منڈیاں اور جواب طلب کرنے کی صلاحیت عملی طور پر جوابدہی کو حقیقی رکھتے ہیں یا صرف کاغذ پر۔*
+
+*باب پانچ میں جوابدہی کی پیمائشی خاندان کی جگہ یہ ہے۔ تمہید کا §2 (پیمائشوں کا جائزہ) عمومی جدول میں زمرے کا سادہ سوال رکھتا ہے؛ خاندان کا جدول، آئینی استعمال اور تعریفوں کی رہنمائی یہاں ہے۔*
+
+*مادیت ([Materiality](core_05_band_oversight.md#materiality)) انضمامی ہے، الگ پیمائشی زمرہ نہیں؛ یہ [material stake](core_00_preamble.md#material-stake) کے مطابق خاندان کے اطلاق کی شدت طے کرتی ہے۔*
+
+| پیمائشی خاندان | سادہ سوال | بنیادی آئینی استعمال |
+|---|---|---|
+| ترغیبات کی ہم آہنگی اور متبادل اشاریوں کی دیانت | کیا انعامات اور پیمانے حقیقی آئینی نتائج سے مطابقت رکھتے ہیں؟ | الٹی ترغیبات، قبضے اور [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) کی نشاندہی کرتا ہے؛ [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) کی پیمائشی صورت۔ |
+| بازاری ساخت اور قابلِ مقابلہ ہونا | کیا داخلہ، اخراج، سودے بازی اور متبادل حقیقی رہ سکتے ہیں؟ | جہاں صلاحیت کے دعوے کھلی منڈیوں پر منحصر ہوں، وہاں ارتکاز اور غلبے کے خلاف اصول نافذ کرتا ہے۔ |
+
+یہ پیمائشیں دیکھتی ہیں کہ انعامی ڈھانچے، بازاری طاقت اور جواب طلبی [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) کے **جوابدہی** والے ستون کو عمل میں حقیقی رکھتے ہیں یا صرف کاغذ پر۔
+
+عملی پیمائشی درجے باب پانچ کی تعریفوں میں موجود ہیں:
+
+- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
+- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
+- [Contestability](../../core_05_band_accountability.md#contestability)
+- [Market Structure](../../core_05_band_accountability.md#market-structure)
+- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
+- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
+- [Accountability](#accountability) (link-only leg-head rollup)
+
+---
+
+**پچھلی فائل:** [core_05__definitions_home.md](core_05__definitions_home.md)
+
+**اگلی فائل:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
 <a id="measuring-accountability"></a>
 
 ### جوابدہی ناپنا

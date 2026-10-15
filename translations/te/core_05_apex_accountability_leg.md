@@ -74,6 +74,48 @@
 ---
 
 <a id="accountability-measurement-family"></a>
+
+### జవాబుదారీతనం కొలత
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: బహుమతులు, మార్కెట్లు, జవాబు కోరగల సామర్థ్యం—జవాబుదారీతనాన్ని కాగితంపై మాత్రమే కాకుండా ఆచరణలోనూ నిజంగా నిలుపుతున్నాయా అని ఈ ప్రశ్నలు పరిశీలిస్తాయి.*
+
+*ఐదవ అధ్యాయంలోని జవాబుదారీతనం కొలత కుటుంబానికి ఇది నిలయం. ఉపోద్ఘాతంలోని §2 (కొలతల అవలోకనం) వర్గానికి సంబంధించిన సరళ ప్రశ్నను అవలోకన పట్టికలో ఉంచుతుంది; కుటుంబ పట్టిక, రాజ్యాంగ వినియోగం, నిర్వచనాల దారి ఇక్కడ ఉన్నాయి.*
+
+*భౌతిక ప్రాధాన్యత ([Materiality](core_05_band_oversight.md#materiality)) సమగ్ర స్వభావం కలది, ప్రత్యేక కొలత వర్గం కాదు; [material stake](core_00_preamble.md#material-stake) ఆధారంగా ఈ కుటుంబం ఎంత బలంగా వర్తించాలో నిర్ణయిస్తుంది.*
+
+| కొలత కుటుంబం | సరళ ప్రశ్న | ప్రధాన రాజ్యాంగ వినియోగం |
+|---|---|---|
+| ప్రోత్సాహకాల సరిపోలిక మరియు ప్రత్యామ్నాయ సూచికల సమగ్రత | బహుమతులు, కొలమానాలు నిజమైన రాజ్యాంగ ఫలితాలను అనుసరిస్తున్నాయా? | వక్రీకృత ప్రోత్సాహకాలు, స్వాధీనత, [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)ను గుర్తిస్తుంది; [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions)కు కొలత రూపం. |
+| మార్కెట్ నిర్మాణం మరియు పోటీ సామర్థ్యం | ప్రవేశం, నిష్క్రమణ, బేరసారాలు, ప్రత్యామ్నాయాలు నిజంగా కొనసాగగలవా? | సామర్థ్య వాదనలు తెరచిన మార్కెట్లపై ఆధారపడిన చోట కేంద్రీకరణ, ఆధిపత్య వ్యతిరేక నియమాలను అమలు చేస్తుంది. |
+
+బహుమతి నిర్మాణాలు, మార్కెట్ శక్తి, జవాబు కోరే విధానం [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)లోని **జవాబుదారీతనం** పాదాన్ని కాగితంపై మాత్రమే కాక ఆచరణలోనూ నిజంగా ఉంచుతున్నాయా అని ఈ కొలతలు అడుగుతాయి.
+
+ఆచరణాత్మక కొలత స్థాయిలు ఐదవ అధ్యాయంలోని నిర్వచన స్థలాల్లో ఉంటాయి:
+
+- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
+- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
+- [Contestability](../../core_05_band_accountability.md#contestability)
+- [Market Structure](../../core_05_band_accountability.md#market-structure)
+- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
+- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
+- [Accountability](#accountability) (link-only leg-head rollup)
+
+---
+
+**మునుపటి ఫైలు:** [core_05__definitions_home.md](core_05__definitions_home.md)
+
+**తదుపరి ఫైలు:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
 <a id="measuring-accountability"></a>
 
 ### జవాబుదారీతనం కొలవడం

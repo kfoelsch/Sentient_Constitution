@@ -1088,6 +1088,43 @@ Subbagian ini **tidak** menerapkan disiplin penghentian sukarela ke dalam kontek
 
 Evaluasi seluruh sistem harus menguji persyaratan ini berdasarkan [Bab Delapan §3.6 Penghentian Sukarela, Modifikasi Diri Besar, dan Hak Keluar](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) sebelum klaim klasifikasi, tata kelola, pembatasan, atau kepatuhan dapat diterima jika cakupan penerapan berlaku.
 
+#### 7.5 Ekspresi dan Garis Bahaya
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+*Rumah di Lantai Kanan.* **[Pasal XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Ekspresi*)** menyatakan dasar ekspresi operasional, dan **[Pasal XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*Batas Bahaya Kolektif dan Antarmuka Penegakan*)** menyatakan di mana kerugian kolektif dimulai. Sub-bagian ini menyatakan prinsip Kebebasan yang menyatukan keduanya, dan tidak menambahkan aturannya sendiri.
+
+- [Ekspresi](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Bahaya](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Pelecehan dan Penindasan](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [Kekejaman](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [Batas Bahaya Kolektif](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [Kebutuhan](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporsionalitas](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*Secara sederhana: Anda dapat mengatakan, menulis, menerbitkan, dan merancang hampir semua hal, termasuk apa yang menyinggung, mengganggu, atau mengkritik. Tapi pidato bukanlah sebuah celah. Ketika kata-kata, kebijakan, atau rancangan merupakan cara seseorang menyakiti, melecehkan, menindas, atau mendiskriminasi orang lain, hal tersebut akan dinilai berdasarkan perbuatannya, baik terhadap individu maupun institusi, dan label agama atau politik apa pun yang mereka bawa.*
+
+**Ekspresi dilindungi sebagai ekspresi.** [Ekspresi](../../core_05_band_participation.md#expression) mencakup segala jenis pandangan, termasuk pandangan yang meresahkan, dan kritik terhadap makhluk hidup atau institusi mana pun. Ketersinggungan, ketidaksepakatan, ketidaknyamanan, dan protes damai tidak merugikan ([§7.3 Perbedaan Pendapat dan Protes Damai](#73-dissent-and-peaceful-protest)).
+
+**Ekspresi bukanlah perisai bagi perilaku.** Ucapan, publikasi, desain, kebijakan, dan ekspresi lainnya tetap tunduk pada peraturan tentang [Bahaya](../../core_05_band_accountability.md#harm), [Pelecehan dan Penindasan](../../core_05_band_accountability.md#harassment-and-bullying), [Kekejaman](../../core_05_band_accountability.md#cruelty), dan nondiskriminasi jika hal-hal tersebut merupakan sarana yang digunakan untuk melakukan tindakan tersebut. Tes adalah apa yang dinyatakan, diminta, atau dilakukan oleh ekspresi, yang dibaca dalam konteks berdasarkan definisi Bab Lima. Definisi-definisi tersebut tetap memiliki maknanya: pelecehan dan intimidasi membutuhkan pola material, bukan satu komentar tajam, dan kekerasan memerlukan jalur dampak material yang nyata, bukan pelanggaran saja ([Batas Bahaya Kolektif](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**Ujian yang sama berlaku bagi makhluk hidup dan institusi.** Makhluk hidup, kelompok, atau lembaga bisa menjadi pembicara, dan salah satu dari mereka bisa menjadi targetnya.
+- Sebuah institusi berbicara melalui kebijakan, pemberitahuan, desain platform, pernyataan resmi, dan cara mereka menangani laporan dan kritik. Perilaku yang dilakukan dengan cara seperti itu akan dinilai seperti perilaku lainnya.
+- Kritik terhadap suatu institusi, terhadap pejabatnya, atau terhadap perilakunya dilindungi. Menyebut kritik sebagai penindasan atau pelecehan adalah sebuah batasan dalam berekspresi. Pihak yang mengajukan klaim tersebut menanggung beban berdasarkan [§7.1 Disiplin Batasan](#71-limitation-discipline) dan Bab Empat.
+
+**Label dan topik tidak mengubah ujian.** Label agama, politik, ideologi, budaya, seni, atau komersial tidak mengubah ekspresi yang merugikan orang lain, atau memperlakukan mereka dengan cara yang dilarang berdasarkan **[Pasal VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiskriminasi*)**, menjadi ekspresi yang dilindungi. Suatu topik atau sudut pandang tidak menjadikan ekspresi yang dilindungi menjadi merugikan. **[Pasal XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Kebebasan hati nurani, agama, dan pandangan dunia yang sebanding*)** melindungi memegang dan mewujudkan keyakinan secara konsisten dengan hak orang lain.
+
+**Membatasi ekspresi berbeda dengan menggunakannya sebagai bukti.** Batasan berekspresi harus memenuhi [§7.1 Disiplin Batasan](#71-limitation-discipline) dan **[Pasal XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Ekspresi*)**, dan batasan yang ditujukan pada apa yang dikatakan menghadapi peninjauan paling ketat di sana. Menggunakan apa yang dikatakan makhluk hidup sebagai bukti maksud, tujuan, atau otoritas bukanlah suatu batasan. Ini mengikuti aturan bukti dari bab yang mengajukan pertanyaan, seperti [Bab Tujuh §4 Pemeriksaan Formasi: Kedudukan dan Keaslian Pemegang Jabatan](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), dan tidak boleh menjadi penalti untuk pidato itu sendiri.
+
+**Cakupan.** Subbagian ini menerapkan Disiplin Batasan dan definisi Bab Lima pada ekspresi. Hal ini tidak menimbulkan kategori kerugian dan tidak ada dasar untuk membatasi kebebasan yang belum diperbolehkan oleh [§7.1 Disiplin Pembatasan](#71-limitation-discipline).
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Pengantar Tujuan Keberlanjutan
 <details>
