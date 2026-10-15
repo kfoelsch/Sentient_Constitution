@@ -3198,23 +3198,23 @@ if what a system does is material to others in any one of the nine areas of [Dom
 
 [Source](../../core_07_charters.md#3-when-system-and-institutional-charters-are-required)
 
-#### 4. What System and Institutional Charters Must State
-
-a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, how often it is re-checked, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.
-
-[Source](../../core_07_charters.md#4-what-system-and-institutional-charters-must-state)
-
-#### 5. The Charter Role Map and Standing-Record Custody
-
-the System Charter or Institutional Charter is where the seats get names. It carries the published list of who may hold each seat for the acts it covers, so a party cannot pick its own checker. The rules for what a valid seat placement is stay in Chapter Eight. The custody of standing records is not a separate list: it is the same map.
-
-[Source](../../core_07_charters.md#5-the-charter-role-map-and-standing-record-custody)
-
-#### 6. Formation Check: Office-Holder Standing and Authenticity
+#### 4. Formation Check: Office-Holder Standing and Authenticity
 
 a published purpose is only as good as the sentients who hold the offices that carry it out. Before a body begins to exercise authority over others, the offices that decide, record, and check its acts are looked at twice. First, do the sentients who hold them meet the published standard for the role, with no standing lock in the way? Second, do they hold the office for the body's stated purpose and in their own right, or is it a front, a nominee seat, or a post kept for someone else? The second question is answered by who directs them, what they are paid for, and what they have done. It is never answered by asking what they believe or by their professions of loyalty. It is answered by what they have verifiably said and done, and a statement that others deserve harm or discriminatory treatment counts against them, whatever religious or political words it is wrapped in. This is a check and not a licence. It cannot stop anyone from forming a body. The only thing it can do is keep one sentient out of one office of control while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.
 
-[Source](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)
+[Source](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity)
+
+#### 5. What System and Institutional Charters Must State
+
+a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, how often it is re-checked, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.
+
+[Source](../../core_07_charters.md#5-what-system-and-institutional-charters-must-state)
+
+#### 6. The Charter Role Map and Standing-Record Custody
+
+the System Charter or Institutional Charter is where the seats get names. It carries the published list of who may hold each seat for the acts it covers, so a party cannot pick its own checker. The rules for what a valid seat placement is stay in Chapter Eight. The custody of standing records is not a separate list: it is the same map.
+
+[Source](../../core_07_charters.md#6-the-charter-role-map-and-standing-record-custody)
 
 #### 7. Amendment, Review, and Scope Misalignment
 
