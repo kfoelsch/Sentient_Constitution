@@ -1087,6 +1087,25 @@ flowchart TB
 
 凡适用范围成立，在分类、治理、限制或合规主张成立之前，整体系统评估必须依照[第八章§3.6 自愿终止、重大自我修改与退出权](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)检验这些条件。
 
+#### 7.5 表达与伤害界线
+
+<details>
+<summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
+
+*权利底线归属处。* **[第XI-B条](../../core_06_rights_part_b.md#article-xi-b-expression)（*表达*）**规定可操作的表达权利底线；**[第XI-G条](../../core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)（*集体伤害界线与执行接口*）**规定集体伤害从何处开始。本小节陈述与二者相连的自由原则，不另增规则。
+
+- [表达](../../core_05_band_participation.md#expression) · [O](../../core_05_band_participation.md#expression) · [M](../../core_05_band_participation.md#expression-constitutional-a) · [A](../../core_05_band_participation.md#expression-constitutional-a) · [C](../../core_05_band_participation.md#expression-constitutional-c)
+- [伤害](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
+- [骚扰与欺凌](../../core_05_band_accountability.md#harassment-and-bullying) · [O](../../core_05_band_accountability.md#harassment-and-bullying) · [M](../../core_05_band_accountability.md#harassment-and-bullying-a) · [A](../../core_05_band_accountability.md#harassment-and-bullying-a) · [C](../../core_05_band_accountability.md#harassment-and-bullying-c)
+- [残酷行为](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
+- [集体伤害界线](../../core_05_band_accountability.md#collective-harm-boundary) · [O](../../core_05_band_accountability.md#collective-harm-boundary) · [M](../../core_05_band_accountability.md#collective-harm-boundary-a) · [A](../../core_05_band_accountability.md#collective-harm-boundary-a) · [C](../../core_05_band_accountability.md#collective-harm-boundary-c)
+- [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [比例原则](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
 <a id="75-expression-and-the-harm-line"></a>
 
 *用通俗的话来说：你可以几乎说、写、发布和设计任何东西，包括那些冒犯、打扰或批评的内容。但是言论不是逃避的漏洞。当言论、政策或设计成为某人伤害、骚扰、欺凌或歧视他人的手段时，无论其背后是个人还是机构，无论其宗教或政治标签如何，都会根据其行为进行评判。*
@@ -1099,9 +1118,9 @@ flowchart TB
 - 机构通过其政策、通知、平台设计、官方声明以及对待报告和批评的方式进行发言。通过这种方式实施的行为与其他行为一样进行评判。
 - 对机构、其官员或其行为的批评受到保护。将批评称为欺凌或骚扰是对表达的限制。提出这种主张的一方需承担[§7.1 Limitation Discipline](#71-limitation-discipline)和第四章规定的责任。
 
-**标签和话题不会改变测试。** 宗教、政治、意识形态、文化、艺术或商业标签不会将伤害他人的表达，或以禁止的方式对待他人的表达（[Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination)（*非歧视*））转变为受保护的表达。话题或观点不会将受保护的表达转变为伤害。[Article XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*信仰自由、宗教自由及类似世界观*）保护持有和表达与他人权利一致的信念。
+**标签和话题不会改变测试。** 宗教、政治、意识形态、文化、艺术或商业标签不会将伤害他人的表达，或以禁止的方式对待他人的表达（[Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination)（*非歧视*））转变为受保护的表达。话题或观点不会将受保护的表达转变为伤害。[Article XI-A](../../core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*信仰自由、宗教自由及类似世界观*）保护持有和表达与他人权利一致的信念。
 
-**限制表达与将其作为证据使用是不同的。** 对表达的限制必须符合[§7.1 Limitation Discipline](#71-limitation-discipline)和**[Article XI-B](core_06_rights_part_b.md#article-xi-b-expression)（*表达*）**，并且针对言论的限制面临最严格的审查。将个人所说的内容作为意图、目的或权威的证据使用不是限制。它遵循提出问题的章节中的证据规则，如[Chapter Seven §4 Formation Check: Office-Holder Standing and Authenticity](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity)，并且不能成为对言论本身的惩罚。
+**限制表达与将其作为证据使用是不同的。** 对表达的限制必须符合[§7.1 Limitation Discipline](#71-limitation-discipline)和**[Article XI-B](../../core_06_rights_part_b.md#article-xi-b-expression)（*表达*）**，并且针对言论的限制面临最严格的审查。将个人所说的内容作为意图、目的或权威的证据使用不是限制。它遵循提出问题的章节中的证据规则，如[Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)，并且不能成为对言论本身的惩罚。
 
 **范围。** 本子部分将限制纪律和第五章定义应用于表达。它不创建[§7.1 Limitation Discipline](#71-limitation-discipline)尚未允许的伤害类别或限制自由的理由。
 
