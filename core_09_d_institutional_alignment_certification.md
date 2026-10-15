@@ -152,6 +152,8 @@ The institution class scales the depth of evidence, the independence of the revi
 - **Class L:** the same seven items, simplified, with simpler records and a lower default cadence where [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) allows. The core of a Class L pass is the Institutional Charter against practice, the Role Map, the formation check statement, and the currency of the cited System certifications. No item may be omitted, and an item with nothing to find is stated in a line.
 - **Class P:** voluntary, as [§11.2 Who is certified](#112-who-is-certified) states.
 
+**A host in a joint professional practice.** Where an Institution is a host ([**CI-4.7**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-47-practice-licence-practice-clearance-and-joint-professional-practice) (*Practice licence, practice clearance, and joint professional practice*)), its certification also samples members' acts against the seats the host carries and reads the members' adoption notices against what the host does. A finding about one member's act is a finding about that member, and it reaches the host only where a seat the host carries failed.
+
 <a id="13-review-decision-and-record"></a>
 
 ### 13. Review, Decision, and Record
