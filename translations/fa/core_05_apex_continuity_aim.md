@@ -98,6 +98,36 @@
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### تداوم (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*به زبان ساده: این پرسش‌ها می‌سنجند آیا موجودات ذی‌حس و سامانه‌های زنده‌ای که به آن‌ها وابسته‌اند می‌توانند در بلندمدت دوام بیاورند—با پایداری بوم‌شناختی، اتکاپذیری و تاب‌آوری در برابر شکست. این بخش جایگاه خانوادهٔ سنجش تداوم در فصل پنجم است؛ §۲ مقدمه پرسش سادهٔ دسته را حفظ می‌کند و جدول خانواده و ارجاع‌های تعریف در اینجا آمده‌اند.*
+
+*مادیّت* ([Materiality](core_05_band_oversight.md#materiality)) یکپارچه‌ساز است، نه دسته‌ای جدا برای سنجش؛ شدت کاربرد این خانواده را بر اساس [material stake](core_00_preamble.md#material-stake) تعیین می‌کند.
+
+| زیرخانواده | پرسش ساده | کاربرد اصلی در قانون اساسی |
+|---|---|---|
+| ردپای بوم‌شناختی و پیش‌شرط‌های محیطی | چه بار محیطی ایجاد یا به جای دیگری منتقل می‌شود؟ | [ردپای بوم‌شناختی](../../core_05_band_continuity.md#ecological-footprint)، [پیش‌شرط‌های محیطی](../../core_05_band_continuity.md#environmental-preconditions)؛ افشا بر اساس **مواد I-A** و **I-B** |
+| تاب‌آوری، برگشت‌پذیری و خطر سیستمی | آیا می‌توان شکست‌ها را مهار و برطرف کرد و تشدید آن‌ها را صادقانه گزارش داد؟ | [برگشت‌پذیری](../../core_05_band_continuity.md#reversibility)، [شکست آبشاری](../../core_05_band_continuity.md#cascading-failure)، [خطر وجودی](../../core_05_band_continuity.md#existential-risk)، [خودترمیمی](../../core_05_band_continuity.md#self-healing)؛ [تاب‌آوری، ایمنی، برگشت‌پذیری، خودترمیمی، شکست آبشاری، خطر وجودی، پیش‌شرط‌های محیطی و بهزیستی](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| وابستگی و جریان منابع | آیا وابستگی‌های مشترک آشکار و پایدار نگه داشته می‌شوند؟ | [وابستگی](../../core_05_band_continuity.md#dependency)؛ **مادهٔ V-A** (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) |
+| پشتیبانی میان‌سامانه‌ای | آیا بازگشت مستند، زیرساخت مشترک و ترمیم بوم‌شناختی را پایدار می‌کند؟ | [استخراج میان‌سامانه‌ای](../../core_05_band_continuity.md#cross-system-extraction)، [پشتیبانی متناسب میان‌سامانه‌ای](../../core_05_band_continuity.md#proportionate-cross-system-support)؛ **مادهٔ V-B** (*انصاف و پایداری میان‌سامانه‌ای*) |
+
+قواعد تفصیلی سنجش در هر تعریف پیوندشده آمده است.
+
+**پروندهٔ قبلی:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**پروندهٔ بعدی:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### اندازه‌گیری پیوستگی (خانوادهٔ اندازه‌گیری دیباچه)

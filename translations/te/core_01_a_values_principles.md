@@ -1088,6 +1088,43 @@ flowchart TB
 
 వర్తింపు పరిధి వర్తించే చోట వర్గీకరణ, పాలన, పరిమితి లేదా అనుసరణ వాదనలు నిలిచే ముందు, మొత్తం వ్యవస్థ మూల్యాంకనం [ఎనిమిదవ అధ్యాయం §3.6 స్వచ్ఛంద విరమణ, ప్రధాన స్వీయ-మార్పు మరియు నిష్క్రమణ హక్కులు](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) ప్రకారం ఈ షరతులను ಪರೀಕ್ಷించాలి.
 
+#### 7.5 వ్యక్తీకరణ మరియు హాని రేఖ
+
+<details>
+<summary><strong><span style="color: #2563eb;"> నిర్వచనాలు · అసెస్‌మెంట్ · వర్తింపు</span></strong></summary>
+
+*రైట్స్-ఫ్లోర్ హోమ్.* **[ఆర్టికల్ XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*వ్యక్తీకరణ*)** ఆపరేటివ్ ఎక్స్‌ప్రెషన్ ఫ్లోర్‌ను పేర్కొంటుంది మరియు **[ఆర్టికల్ XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*సామూహిక హాని సరిహద్దు మరియు ఎన్‌ఫోర్స్‌మెంట్ ఇంటర్‌ఫేస్ సమిష్టిగా ప్రారంభమయ్యే చోట*)**. ఈ ఉపవిభాగం వాటిని కలిపే స్వేచ్ఛా సూత్రాన్ని పేర్కొంటుంది మరియు దాని స్వంత నియమాన్ని జోడించదు.
+
+- [వ్యక్తీకరణ](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [వేధింపు మరియు బెదిరింపు](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [క్రూయెల్టీ](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [సామూహిక హాని సరిహద్దు](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*సాదా పరంగా: మీరు దాదాపు ఏదైనా చెప్పవచ్చు, వ్రాయవచ్చు, ప్రచురించవచ్చు మరియు రూపకల్పన చేయవచ్చు, వీటిలో అభ్యంతరం కలిగించేవి, భంగం కలిగించేవి లేదా విమర్శించేవి ఉన్నాయి. కానీ ప్రసంగం లొసుగు కాదు. పదాలు, విధానాలు లేదా డిజైన్‌లు ఎవరైనా ఇతరులకు హాని కలిగించే, వేధించే, వేధించే లేదా వివక్ష చూపే విధంగా ఉన్నప్పుడు, వారు ఏమి చేస్తారో, వారు చేసే పనిని బట్టి, ఒక సంస్థకు అలాగే వారు ఏ మతపరమైన లేదా రాజకీయ లేబుల్‌ని కలిగి ఉన్నారో అంచనా వేయబడుతుంది.*
+
+**వ్యక్తీకరణ వ్యక్తీకరణగా రక్షించబడింది.** [Expression](../../core_05_band_participation.md#expression) ప్రతి రకమైన వీక్షణలను కవర్ చేస్తుంది, అవాంతరాలు కలిగించేవి మరియు ఏదైనా సెంటిమెంట్ లేదా సంస్థపై విమర్శలు ఉన్నాయి. నేరం, అసమ్మతి, అసౌకర్యం మరియు శాంతియుత నిరసన హాని కలిగించవు ([§7.3 అసమ్మతి మరియు శాంతియుత నిరసన](#73-dissent-and-peaceful-protest)).
+
+**వ్యక్తీకరణ అనేది ప్రవర్తనకు కవచం కాదు.** ప్రసంగం, ప్రచురణ, రూపకల్పన, విధానం మరియు ఇతర వ్యక్తీకరణలు [Harm](../../core_05_band_accountability.md#harm), [వేధింపులు మరియు బెదిరింపు](../../core_05_band_accountability.md#harassment-and-bullying), [క్రూయెల్టీ](../../core_05_band_accountability.md#cruelty), అవి నిర్వహించబడినప్పుడు నేరం. పరీక్ష అనేది అధ్యాయం ఐదవ నిర్వచనాల క్రింద సందర్భానుసారంగా చదివిన వ్యక్తీకరణను పేర్కొంటుంది, పిలుపునిస్తుంది లేదా చేస్తుంది. ఆ నిర్వచనాలు వాటి అర్థాన్ని అలాగే ఉంచుతాయి: వేధింపులు మరియు బెదిరింపులకు భౌతిక నమూనా అవసరం, ఒక్క పదునైన వ్యాఖ్య కాదు మరియు హానికి నిజమైన పదార్థ-ప్రభావ మార్గం అవసరం, నేరం మాత్రమే కాదు ([కలెక్టివ్ హామ్ బౌండరీ](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**అదే పరీక్ష సెంటింట్‌కి మరియు ఇన్‌స్టిట్యూషన్‌కి వర్తిస్తుంది.** ఒకే సెంటింట్, గ్రూప్ లేదా ఇన్‌స్టిట్యూషన్ స్పీకర్ కావచ్చు మరియు వారిలో ఎవరైనా లక్ష్యం కావచ్చు.
+- ఒక సంస్థ తన విధానాలు, నోటీసులు, ప్లాట్‌ఫారమ్ రూపకల్పన, అధికారిక ప్రకటనలు మరియు నివేదికలు మరియు విమర్శకులతో వ్యవహరించే విధానం ద్వారా మాట్లాడుతుంది. ఆ విధంగా నిర్వహించబడే ప్రవర్తన ఏ ఇతర మాదిరిగానే నిర్ణయించబడుతుంది.
+- ఒక సంస్థపై, దాని అధికారులపై లేదా దాని ప్రవర్తనపై విమర్శలు సంరక్షించబడతాయి. విమర్శను బెదిరింపు లేదా వేధింపు అని పిలవడం భావవ్యక్తీకరణపై పరిమితి. ఆ క్లెయిమ్ చేసే పార్టీ [§7.1 పరిమితి క్రమశిక్షణ](#71-limitation-discipline) మరియు అధ్యాయం నాలుగు కింద భారం పడుతుంది.
+
+**లేబుల్‌లు మరియు అంశాలు పరీక్షను మార్చవు.** మతపరమైన, రాజకీయ, సైద్ధాంతిక, సాంస్కృతిక, కళాత్మక లేదా వాణిజ్య లేబుల్ ఇతరులకు హాని కలిగించే వ్యక్తీకరణను మార్చదు లేదా **[ఆర్టికల్ VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*వివక్షత లేని*)** కింద నిషేధించబడిన మార్గాల్లో వారిని ప్రవర్తించదు. ఒక అంశం లేదా దృక్కోణం రక్షిత వ్యక్తీకరణను హానిగా మార్చదు. **[ఆర్టికల్ XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*మనస్సాక్షి స్వేచ్ఛ, మతం మరియు పోల్చదగిన ప్రపంచ దృక్పథం*)** ఇతరుల హక్కులకు అనుగుణంగా నమ్మకాన్ని నిలబెట్టుకోవడం మరియు వ్యక్తపరచడం రక్షిస్తుంది.
+
+** వ్యక్తీకరణను పరిమితం చేయడం సాక్ష్యంగా ఉపయోగించడం భిన్నంగా ఉంటుంది.** వ్యక్తీకరణపై పరిమితి తప్పనిసరిగా [§7.1 పరిమితి క్రమశిక్షణ](#71-limitation-discipline) మరియు **[ఆర్టికల్ XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*వ్యక్తీకరణ*)**కి అనుగుణంగా ఉండాలి మరియు కఠినమైన సమీక్షకు ఉద్దేశించిన పరిమితి. ఉద్దేశం, ప్రయోజనం లేదా అధికారం యొక్క సాక్ష్యంగా ఒక సెంటియెంట్ చెప్పినదాన్ని ఉపయోగించడం పరిమితి కాదు. ఇది [అధ్యాయం ఏడు §4 ఫార్మేషన్ చెక్: ఆఫీస్-హోల్డర్ స్టాండింగ్ మరియు అథెంటిసిటీ](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity) వంటి ప్రశ్నను అడిగే అధ్యాయం యొక్క సాక్ష్యం నియమాలను అనుసరిస్తుంది మరియు ఇది ప్రసంగానికి జరిమానాగా మారకపోవచ్చు.
+
+**స్కోప్.** ఈ ఉపవిభాగం పరిమితి క్రమశిక్షణ మరియు వ్యక్తీకరణకు ఐదు అధ్యాయం నిర్వచనాలను వర్తిస్తుంది. ఇది హాని యొక్క వర్గాన్ని సృష్టించదు మరియు స్వేచ్ఛను పరిమితం చేయడానికి ఎటువంటి కారణం లేదు [§7.1 పరిమితి క్రమశిక్షణ](#71-limitation-discipline) ఇప్పటికే అనుమతించదు.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. నిరంతరత లక్ష్యం: పరిచయం
 <details>

@@ -86,6 +86,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### 번영
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*쉽게 말해, 이 질문들은 감각 있는 존재가 대리 지표의 참여나 처리량이 아니라 실제로 웰빙, 안전, 행위 역량을 유지하는지 살펴봅니다. 이곳은 제5장의 번영 측정군이 자리하는 곳입니다. 서문 §2는 범주의 쉬운 질문을 남기고, 측정군 표와 정의 안내는 여기에 둡니다.*
+
+*중요성([Materiality](core_05_band_oversight.md#materiality))은 통합 요소이지 별도 측정 범주가 아닙니다. [material stake](core_00_preamble.md#material-stake)에 따라 이 측정군의 적용 강도를 조정합니다.*
+
+| 하위군 | 쉬운 질문 | 주요 헌법상 용도 |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | 감각 있는 존재가 기능, 행위 역량, 지원 조건을 유지하는가? | **번영** 결과의 주요 측정치(구성요소가 아님)—대리 지표의 참여나 처리량이 아닙니다. |
+| 안전, 위해, 위험 | 예견 가능한 위해가 예방·억제되고 정직하게 평가되는가? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
+| 생존 최저선에 대한 접근 | 감각 있는 존재가 식량, 물, 주거, 돌봄, 안정된 환경 같은 필수 요소에 접근할 수 있는가? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A**(생존) |
+
+운영상 측정 단계는 해당 정의 항목에 있습니다.
+
+**이전 파일:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**다음 파일:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### 번영을 측정하기 (전문 측정 가족)

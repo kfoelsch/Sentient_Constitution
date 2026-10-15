@@ -98,6 +98,36 @@
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### Преемственность (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*Простыми словами: эти вопросы проверяют, могут ли разумные существа и поддерживающие их живые системы существовать долго — экологично, надежно и даже при сбоях. Здесь находится семейство измерений Преемственности главы пятой; §2 Преамбулы сохраняет простой вопрос категории, а таблица семейства и ссылки на определения приведены здесь.*
+
+*Материальность* ([Materiality](core_05_band_oversight.md#materiality)) интегративна и не является отдельной категорией измерений; она определяет силу применения этого семейства согласно [material stake](core_00_preamble.md#material-stake).
+
+| Подсемейство | Простой вопрос | Основное конституционное применение |
+|---|---|---|
+| Экологический след и экологические предпосылки | Какое воздействие на окружающую среду создаётся или переносится? | [Экологический след](../../core_05_band_continuity.md#ecological-footprint), [Экологические предпосылки](../../core_05_band_continuity.md#environmental-preconditions); раскрытие по **Статьям I-A** и **I-B** |
+| Устойчивость, обратимость и системный риск | Можно ли локализовать и обратить сбои и честно сообщать об их эскалации? | [Обратимость](../../core_05_band_continuity.md#reversibility), [Каскадный сбой](../../core_05_band_continuity.md#cascading-failure), [Экзистенциальный риск](../../core_05_band_continuity.md#existential-risk), [Самовосстановление](../../core_05_band_continuity.md#self-healing); [устойчивость, безопасность, обратимость, самовосстановление, каскадный сбой, экзистенциальный риск, экологические предпосылки и благополучие](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| Зависимость и потоки ресурсов | Видны ли общие зависимости и обеспечено ли их поддержание? | [Зависимость](../../core_05_band_continuity.md#dependency); **Статья V-A** (*Картирование зависимостей и прозрачность потоков ресурсов*) |
+| Поддержка между системами | Поддерживает ли документированный возврат общую инфраструктуру и экологическое восстановление? | [Изъятие между системами](../../core_05_band_continuity.md#cross-system-extraction), [Соразмерная поддержка между системами](../../core_05_band_continuity.md#proportionate-cross-system-support); **Статья V-B** (*Справедливость и устойчивость между системами*) |
+
+Подробные правила измерения приведены в каждом определении по ссылкам.
+
+**Предыдущий файл:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**Следующий файл:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### Измерять Преемственность (семья измерений Преамбулы)

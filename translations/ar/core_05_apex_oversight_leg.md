@@ -95,6 +95,34 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### الرقابة
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](../../core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](../../core_05_band_oversight.md#epistemic-integrity), [Transparency](../../core_05_band_oversight.md#transparency), [Auditability](../../core_05_band_oversight.md#auditability), [Verifiability](../../core_05_band_oversight.md#verifiability), [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*بعبارات بسيطة: تسأل هذه الأسئلة ما إذا كانت الكائنات الواعية تستطيع رؤية ما تمثله الأنظمة عالية التأثير والتحقق منه والاعتماد عليه. هذا هو موضع عائلة قياس الرقابة في الفصل الخامس؛ ويحتفظ §2 من الديباجة بسؤال الفئة المبسط، بينما يوجد هنا جدول العائلة وإحالات التعريفات.*
+
+*المادية ([Materiality](../../core_05_band_oversight.md#materiality)) تكاملية وليست فئة قياس مستقلة؛ فهي تحدد مدى انطباق هذه العائلة وفق [material stake](core_00_preamble.md#material-stake).*
+
+| عائلة القياس | السؤال المبسط | الاستخدام الدستوري الرئيسي |
+|---|---|---|
+| الصدق والنزاهة المعرفية | هل الادعاءات والسجلات والإفصاحات صادقة بما يكفي لاتخاذ قرارات آمنة؟ | تحمي المشاركة المستنيرة والانتصاف والتصحيح. |
+| الجدارة بالثقة | هل الاعتماد مبرر أم أن الثقة تتعرض للتقويض؟ | تحمي الكائنات الواعية من الثقة الزائفة والاعتماد المضلل. |
+
+تنشأ متطلبات الموثوقية أو التدقيق أو المراجعة الملزمة عندما يوجبها الفصل السادس أو [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) أو الأدوات المدمجة صراحةً.
+
+**الملف السابق:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**الملف التالي:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### قياس الرقابة (أسرة قياس الديباجة)

@@ -99,6 +99,32 @@
 ---
 
 <a id="participation-measurement-family"></a>
+
+### 参加の測定
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*平易に言えば、これらの問いは、影響を受ける当事者が象徴的な協議だけでなく、実際に発言権、アクセス、公平に異議を唱える機会を得ているかを確かめます。ここは第5章の参加測定ファミリーの掲載箇所です。序文§2はカテゴリの平易な問いを残し、ファミリー表と定義への案内をここに置きます。*
+
+*重要性（[Materiality](core_05_band_oversight.md#materiality)）は統合的な要素であり、独立した測定カテゴリではありません。[material stake](core_00_preamble.md#material-stake)に応じて適用の強さを調整します。*
+
+| 測定ファミリー | 平易な問い | 主な憲法上の用途 |
+|---|---|---|
+| 公正さ、アクセス、主体性 | 影響を受ける感覚ある存在は公正に扱われ、参加し学ぶことができるか。 | 排除、格差を伴う影響、形だけのアクセスを防ぎます。 |
+| プライバシーとデータ管理 | 情報上の自己決定は取扱いの全過程で保たれているか。 | 分類、文脈をまたぐ照合、露出の圧力によって発言権が損なわれるのを防ぎます。 |
+
+**前のファイル：** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**次のファイル：** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### 参加を測る（前文の測定ファミリー）

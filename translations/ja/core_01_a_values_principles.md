@@ -1088,6 +1088,43 @@ flowchart TB
 
 適用範囲に該当する場合、分類、統治、制限、または遵守に関する主張を確定する前に、システム全体の評価で[第8章 §3.6 自発的な終了、重大な自己改変および離脱の権利](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)に基づきこれらの条件を検証しなければならない。
 
+#### 7.5 発現と有害線
+
+<details>
+<summary><strong><span style="color: #2563eb;">定義・評価・コンプライアンス</span></strong></summary>
+
+*権利階のホーム。* **[第 XI-B 条](core_06_rights_part_b.md#article-xi-b-expression)(*式*)** は演算式フロアを示し、**[第 XI-G 条](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)(*集団的危害の境界と執行インターフェース*)** は集団的危害が始まる場所を示します。このサブセクションでは、それらを結合する自由の原則について説明しますが、独自のルールは追加しません。
+
+-[表現](core_05_band_participation.md#expression)·[○](core_05_band_participation.md#expression)·[M](core_05_band_participation.md#expression-constitutional-a)·[あ](core_05_band_participation.md#expression-constitutional-a)·[C](core_05_band_participation.md#expression-constitutional-c)
+-[危害](core_05_band_accountability.md#harm)·[○](core_05_band_accountability.md#harm)·[M](core_05_band_accountability.md#harm-a)·[あ](core_05_band_accountability.md#harm-a)·[C](core_05_band_accountability.md#harm-c)
+-[ハラスメントといじめ](core_05_band_accountability.md#harassment-and-bullying)·[○](core_05_band_accountability.md#harassment-and-bullying)·[M](core_05_band_accountability.md#harassment-and-bullying-a)·[あ](core_05_band_accountability.md#harassment-and-bullying-a)·[C](core_05_band_accountability.md#harassment-and-bullying-c)
+-[残虐行為](core_05_band_accountability.md#cruelty)·[○](core_05_band_accountability.md#cruelty)·[M](core_05_band_accountability.md#cruelty-a)·[あ](core_05_band_accountability.md#cruelty-a)·[C](core_05_band_accountability.md#cruelty-c)
+-[集団的危害の境界線](core_05_band_accountability.md#collective-harm-boundary)·[○](core_05_band_accountability.md#collective-harm-boundary)·[M](core_05_band_accountability.md#collective-harm-boundary-a)·[あ](core_05_band_accountability.md#collective-harm-boundary-a)·[C](core_05_band_accountability.md#collective-harm-boundary-c)
+-[必要性](core_05_band_accountability.md#necessity)·[○](core_05_band_accountability.md#necessity)·[M](core_05_band_accountability.md#necessity-a)·[あ](core_05_band_accountability.md#necessity-a)·[C](core_05_band_accountability.md#necessity-c)
+-[比例性](core_05_band_accountability.md#proportionality)·[○](core_05_band_accountability.md#proportionality)·[M](core_05_band_accountability.md#proportionality-a)·[あ](core_05_band_accountability.md#proportionality-a)·[C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*平たく言えば、気分を害するもの、混乱させるもの、批判するものを含め、ほぼすべてのことを発言、執筆、公開、デザインすることができます。しかし、言論は抜け穴ではない。誰かが他人を傷つけたり、嫌がらせをしたり、いじめたり、差別したりする方法が言葉、政策、デザインである場合、それらはその行為によって判断されます。それは、知覚を持つ人に対しても組織に対しても同様であり、また、その人が持つ宗教的または政治的レッテルの有無によって判断されます。
+
+**式は式として保護されています。**[表現](../../core_05_band_participation.md#expression)不快な意見や、あらゆる知覚者や組織に対する批判など、あらゆる種類の意見を取り上げています。攻撃、意見の相違、不快感、平和的な抗議は害を及ぼしません（[§7.3 反対意見と平和的抗議活動](#73-dissent-and-peaceful-protest)）。
+
+**表現は行為の盾ではありません。** 言論、出版、デザイン、ポリシー、およびその他の表現には引き続き規制が適用されます。[危害](../../core_05_band_accountability.md#harm)、[ハラスメントといじめ](../../core_05_band_accountability.md#harassment-and-bullying)、[残虐行為](../../core_05_band_accountability.md#cruelty)、およびその行為が実行される手段である場合の無差別。テストは、第 5 章の定義に基づいて、式が何を述べているか、要求しているか、または実行しているかをコンテキストで読み取るものです。これらの定義はその意味を保っています。嫌がらせやいじめには、単一の鋭い発言ではなく、実質的なパターンが必要であり、危害には、攻撃だけではなく、実際に物質的な影響を与える経路が必要です（[集団的危害の境界線](../../core_05_band_accountability.md#collective-harm-boundary)）。
+
+**同じテストが知覚と機関に適用されます。** 単一の知覚、グループ、または機関が話者になる可能性があり、それらのいずれかがターゲットになる可能性があります。
+- 教育機関は、そのポリシー、通知、プラットフォームの設計、公式声明、報告書や批評家の扱い方を通じて語ります。そのようにして行われた行為は、他の行為と同様に評価されます。
+- 組織、その役員、またはその行為に対する批判は保護されます。批判をいじめや嫌がらせと呼ぶのは表現の限界だ。その請求を行った側が以下の負担を負います。[§7.1 制限規律](#71-limitation-discipline)そして第四章。
+
+**ラベルやトピックによってテストが変わることはありません。** 宗教的、政治的、イデオロギー的、文化的、芸術的、または商業的なラベルは、他者を傷つける表現になったり、** で禁止されている方法で他者を扱ったりするものではありません。[第 VI-C 条](core_06_rights_part_b.md#article-vi-c-nondiscrimination)(*非差別*)**、保護された表現に。トピックや視点は、保護された表現を害するものではありません。 **[第 XI-A 条](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)(*良心、宗教、および同等の世界観の自由*)** は、他者の権利と一貫して信念を保持し表明することを保護します。
+
+**表現を制限することと証拠として使用することは異なります。** 表現の制限は満たさなければなりません[§7.1 制限規律](#71-limitation-discipline)そして **[第 XI-B 条](core_06_rights_part_b.md#article-xi-b-expression)(*表現*)**、そして発言内容に対する制限は、そこで最も厳しい審査に直面します。知覚者の発言を意図、目的、または権限の証拠として使用することに制限はありません。それは、質問をしている章の証拠規則に従います。[第 7 章 §4 構成チェック: 役職者の地位と信頼性](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), 発言そのものに対するペナルティにはならないかもしれません。
+
+**適用範囲** このサブセクションでは、制限規律と第 5 章の定義を表現に適用します。それはいかなる危害も生じず、自由を制限する根拠も生じません。[§7.1 制限規律](#71-limitation-discipline)はすでに許可されていません。
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. 継続性の目的：序論
 <details>

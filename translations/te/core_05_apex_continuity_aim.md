@@ -98,6 +98,36 @@
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### కొనసాగింపు (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: స్పృహగల జీవులు, వారు ఆధారపడే జీవ వ్యవస్థలు దీర్ఘకాలం కొనసాగగలవా—పర్యావరణపరంగా, నమ్మదగిన రీతిలో, వైఫల్యాల మధ్య కూడా—అని ఈ ప్రశ్నలు పరిశీలిస్తాయి. ఐదవ అధ్యాయంలోని కొనసాగింపు కొలత కుటుంబానికి ఇది స్థానం; ఉపోద్ఘాతం §2 వర్గం యొక్క సరళ ప్రశ్నను ఉంచుతుంది, కుటుంబ పట్టిక మరియు నిర్వచన సూచనలు ఇక్కడ ఉన్నాయి.*
+
+*భౌతిక ప్రాధాన్యత* ([Materiality](core_05_band_oversight.md#materiality)) సమగ్ర స్వభావం కలది, ప్రత్యేక కొలత వర్గం కాదు; [material stake](core_00_preamble.md#material-stake) ఆధారంగా ఈ కుటుంబం ఎంత బలంగా వర్తించాలో నిర్ణయిస్తుంది.
+
+| ఉపకుటుంబం | సరళ ప్రశ్న | ప్రధాన రాజ్యాంగ వినియోగం |
+|---|---|---|
+| పర్యావరణ పాదముద్ర, పర్యావరణ ముందస్తు పరిస్థితులు | ఏ పర్యావరణ భారం సృష్టించబడుతోంది లేదా మరొకచోటికి మళ్లించబడుతోంది? | [పర్యావరణ పాదముద్ర](../../core_05_band_continuity.md#ecological-footprint), [పర్యావరణ ముందస్తు పరిస్థితులు](../../core_05_band_continuity.md#environmental-preconditions); **ఆర్టికల్ I-A** మరియు **I-B** ప్రకారం వెల్లడి |
+| స్థితిస్థాపకత, తిరోగమన సాధ్యత, వ్యవస్థాగత ప్రమాదం | వైఫల్యాలను నియంత్రించి తిరగదిద్దగలమా, అవి పెరుగుతున్నప్పుడు నిజాయితీగా నివేదించగలమా? | [తిరోగమన సాధ్యత](../../core_05_band_continuity.md#reversibility), [శ్రేణీకృత వైఫల్యం](../../core_05_band_continuity.md#cascading-failure), [అస్తిత్వ ప్రమాదం](../../core_05_band_continuity.md#existential-risk), [స్వీయ-స్వస్థత](../../core_05_band_continuity.md#self-healing); [స్థితిస్థాపకత, భద్రత, తిరోగమన సాధ్యత, స్వీయ-స్వస్థత, శ్రేణీకృత వైఫల్యం, అస్తిత్వ ప్రమాదం, పర్యావరణ ముందస్తు పరిస్థితులు, శ్రేయస్సు](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| ఆధారపడటం, వనరుల ప్రవాహాలు | పంచుకున్న ఆధారాలు కనిపిస్తున్నాయా, కొనసాగించబడుతున్నాయా? | [ఆధారపడటం](../../core_05_band_continuity.md#dependency); **ఆర్టికల్ V-A** (*ఆధారాల మ్యాపింగ్, వనరుల ప్రవాహ పారదర్శకత*) |
+| వ్యవస్థల మధ్య మద్దతు | నమోదైన ప్రతిఫలం పంచుకున్న మౌలిక సదుపాయాలు, పర్యావరణ పునరుద్ధరణను నిలబెడుతుందా? | [వ్యవస్థల మధ్య వెలికితీత](../../core_05_band_continuity.md#cross-system-extraction), [అనుపాతబద్ధమైన వ్యవస్థాంతర మద్దతు](../../core_05_band_continuity.md#proportionate-cross-system-support); **ఆర్టికల్ V-B** (*వ్యవస్థల మధ్య న్యాయం, స్థిరత్వం*) |
+
+వివరమైన కొలత నియమాలు లింక్ చేసిన ప్రతి నిర్వచనంలో ఉన్నాయి.
+
+**మునుపటి ఫైలు:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**తదుపరి ఫైలు:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### కొనసాగింపును కొలవడం (ప్రస్తావన కొలత కుటుంబం)

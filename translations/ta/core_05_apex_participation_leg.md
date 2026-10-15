@@ -101,6 +101,32 @@
 ---
 
 <a id="participation-measurement-family"></a>
+
+### பங்கேற்பு
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*எளிமையாகச் சொன்னால்: பாதிக்கப்படும் தரப்புகளுக்குச் சின்னமாகக் கேட்பது மட்டுமல்லாமல், உண்மையான குரல், அணுகல், நியாயமாகச் சவால் செய்யும் வாய்ப்பு கிடைக்கிறதா என்று இந்தக் கேள்விகள் ஆராய்கின்றன. ஐந்தாம் அத்தியாயத்தில் பங்கேற்பு அளவீட்டு குடும்பம் அமைந்துள்ள இடம் இதுவாகும்; முன்னுரையின் §2 வகையின் எளிய கேள்வியை வைத்திருக்கிறது; குடும்ப அட்டவணையும் வரையறை வழிகாட்டலும் இங்கே உள்ளன.*
+
+*பொருட்பாடு ([Materiality](core_05_band_oversight.md#materiality)) ஒருங்கிணைந்தது; தனி அளவீட்டு வகை அல்ல. [material stake](core_00_preamble.md#material-stake) அடிப்படையில் இந்தக் குடும்பத்தின் பயன்பாட்டு வலிமையை அது மாற்றுகிறது.*
+
+| அளவீட்டு குடும்பம் | எளிய கேள்வி | முக்கிய அரசியலமைப்புப் பயன்பாடு |
+|---|---|---|
+| நியாயம், அணுகல், செயலாற்றல் | பாதிக்கப்படும் உணர்திறன் கொண்ட உயிர்கள் நியாயமாக நடத்தப்பட்டு பங்கேற்கவும் கற்கவும் முடியுமா? | விலக்கல், சமமற்ற தாக்கம், வெற்று அணுகல் ஆகியவற்றைத் தடுக்கிறது. |
+| தனியுரிமையும் தரவு பொறுப்பாட்சியும் | கையாளும் வாழ்க்கைச் சுழற்சி முழுவதும் தகவல் சுயநிர்ணயம் காக்கப்படுகிறதா? | பிரிவாக்கம், சூழல் கடக்கும் ஒப்பீடு, வெளிப்படுத்தல் அழுத்தம் ஆகியவை குரலைப் பறிப்பதைத் தடுக்கிறது. |
+
+**முந்தைய கோப்பு:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**அடுத்த கோப்பு:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### பங்கேற்பை அளவிடுதல் (முகவுரை அளவீட்டுக் குடும்பம்)

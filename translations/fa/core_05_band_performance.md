@@ -38,6 +38,33 @@
 
 <a id="performance-measurement-family"></a>
 
+### عملکرد قانون اساسی (Preamble measurement family)
+
+*به زبان ساده: این پرسش‌ها بررسی می‌کنند که آیا نتایج قانون اساسی واقعاً محقق می‌شوند، بی‌آنکه زمان، تلاش یا مواد موجودات ذی‌حس هدر رود. این بخش جایگاه خانواده سنجش عملکرد قانون اساسی در فصل پنجم است. §2 دیباچه پرسش ساده دسته را در جدول نمای کلی نگه می‌دارد؛ جدول خانواده، کاربرد قانون اساسی و ارجاع به تعریف‌ها در اینجا قرار دارند.*
+
+*این بخش جایگاه خانوادهٔ سنجش عملکرد قانون اساسی در فصل پنجم است. §۲ مقدمه پرسش سادهٔ این دسته را در جدول کلی نگه می‌دارد؛ جدول خانواده، کاربرد قانون اساسی و ارجاع‌های تعریف در اینجا آمده‌اند.*
+
+*مادیّت ([Materiality](core_05_band_oversight.md#materiality)) یکپارچه‌ساز است، نه دسته‌ای جداگانه؛ شدت کاربرد این خانواده را بر پایه [material stake](core_00_preamble.md#material-stake) تنظیم می‌کند.*
+
+| خانواده سنجش | پرسش ساده | کاربرد اصلی در قانون اساسی |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | آیا نتایج قانون اساسی واقعاً محقق می‌شوند؟ | نمی‌گذارد سنجه‌های نیابتی جای حفاظت واقعی را بگیرند. |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | آیا سامانه زمان، تلاش، مواد، زیرساخت یا انرژی موجودات ذی‌حس را هدر می‌دهد؟ | اصطکاک غیرضروری را کاهش می‌دهد. |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | آیا موجودات ذی‌حس و سامانه‌ها می‌توانند به تولید نتایج همسو ادامه دهند؟ | توانمندی پایدار را بدون انتقال بار بوم‌شناختی حفظ می‌کند. |
+
+این سنجه‌های میان‌بُر بررسی می‌کنند که آیا سامانه‌ها نتایج قانون اساسی را مؤثر محقق می‌کنند، از اتلاف بیهوده می‌پرهیزند و توان ادامه تولید نتایج همسو را حفظ می‌کنند؛ امری که برای [**Flourishing**](core_00_preamble.md#flourishing) و [**Continuity**](core_00_preamble.md#continuity) هر دو ضروری است.
+
+- سطوح عملیاتی سنجش در تعریف‌های فصل پنجم هستند: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency)، [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden)، [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) و [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty) را ببینید.
+- اهداف عملکرد، پاداش‌ها و سنجه‌های منابع فقط تا جایی معتبرند که بتوان آنها را تا نتایج قانون اساسی پیگیری کرد.
+- این موارد نمی‌توانند جای کارایی قانون اساسی، [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) یا رعایت کف حقوق را بگیرند.
+- وقتی عملکرد کل سامانه از نظر مادی مهم است، [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) تا [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) را بخوانید.
+
+---
+
+**فایل پیشین:** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**فایل بعدی:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### اندازه‌گیری عملکرد قانون اساسی (خانوادهٔ اندازه‌گیری دیباچه)
 

@@ -74,6 +74,48 @@
 ---
 
 <a id="accountability-measurement-family"></a>
+
+### জবাবদিহির পরিমাপ
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+
+</details>
+
+<br>
+
+*সহজ কথায়: পুরস্কার, বাজার এবং জবাবদিহি চাওয়ার ব্যবস্থা বাস্তবে জবাবদিহিকে কার্যকর রাখে কি না—শুধু কাগজে নয়—এই প্রশ্নগুলো তা যাচাই করে।*
+
+*অধ্যায় পাঁচে জবাবদিহি পরিমাপ-পরিবারের স্থান এটি। প্রস্তাবনার §2 (পরিমাপের সারসংক্ষেপ) সারসংক্ষেপ সারণিতে শ্রেণির সহজ প্রশ্নটি রাখে; পরিবার-সারণি, সাংবিধানিক ব্যবহার এবং সংজ্ঞার নির্দেশনা এখানে রয়েছে।*
+
+*বস্তুগততা ([Materiality](core_05_band_oversight.md#materiality)) সমন্বিত—এটি আলাদা পরিমাপ-শ্রেণি নয়; [material stake](core_00_preamble.md#material-stake) অনুযায়ী এই পরিবারের প্রয়োগের মাত্রা নির্ধারণ করে।*
+
+| পরিমাপ-পরিবার | সহজ প্রশ্ন | প্রধান সাংবিধানিক ব্যবহার |
+|---|---|---|
+| প্রণোদনার সামঞ্জস্য ও প্রক্সির অখণ্ডতা | পুরস্কার ও মেট্রিক কি বাস্তব সাংবিধানিক ফলাফলের সঙ্গে মেলে? | বিকৃত প্রণোদনা, দখল এবং [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) শনাক্ত করে; [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions)-এর পরিমাপভিত্তিক রূপ। |
+| বাজার কাঠামো ও প্রতিদ্বন্দ্বিতার সক্ষমতা | প্রবেশ, প্রস্থান, দরকষাকষি ও বিকল্প কি বাস্তব থাকতে পারে? | সক্ষমতার দাবি উন্মুক্ত বাজারের ওপর নির্ভর করলে অতিরিক্ত কেন্দ্রীভবন ও আধিপত্যবিরোধী নিয়ম প্রয়োগ করে। |
+
+এই পরিমাপগুলো দেখে পুরস্কার-কাঠামো, বাজারক্ষমতা ও জবাবদিহি [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)-এর **জবাবদিহি** স্তম্ভকে বাস্তবে কার্যকর রাখে কি না—শুধু কাগজে নয়।
+
+কার্যকর পরিমাপের স্তরগুলো অধ্যায় পাঁচের সংজ্ঞা-স্থানে রয়েছে:
+
+- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
+- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
+- [Contestability](../../core_05_band_accountability.md#contestability)
+- [Market Structure](../../core_05_band_accountability.md#market-structure)
+- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
+- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
+- [Accountability](#accountability) (link-only leg-head rollup)
+
+---
+
+**আগের ফাইল:** [core_05__definitions_home.md](core_05__definitions_home.md)
+
+**পরের ফাইল:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
 <a id="measuring-accountability"></a>
 
 ### জবাবদিহি মাপা

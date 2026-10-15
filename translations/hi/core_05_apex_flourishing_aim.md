@@ -86,6 +86,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### समृद्धि
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*सरल शब्दों में: ये प्रश्न पूछते हैं कि क्या संवेदनशील प्राणी वास्तव में कल्याण, सुरक्षा और कर्तृत्व में टिके रहते हैं—सिर्फ प्रॉक्सी सहभागिता या कार्य-प्रवाह में नहीं। यह अध्याय पाँच में समृद्धि मापन परिवार का स्थान है; प्रस्तावना का §2 श्रेणी का सरल प्रश्न रखता है, जबकि परिवार की तालिका और परिभाषाओं के संदर्भ यहाँ हैं।*
+
+*भौतिकता ([Materiality](core_05_band_oversight.md#materiality)) एकीकृत है, अलग मापन श्रेणी नहीं; [material stake](core_00_preamble.md#material-stake) के अनुसार परिवार के अनुप्रयोग की तीव्रता तय करती है।*
+
+| उपपरिवार | सरल प्रश्न | मुख्य संवैधानिक उपयोग |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | क्या संवेदनशील प्राणी कार्यक्षमता, कर्तृत्व और सहायक परिस्थितियों में टिके रहते हैं? | **समृद्धि** के परिणाम का प्राथमिक माप (घटक नहीं)—प्रॉक्सी सहभागिता या कार्य-प्रवाह नहीं। |
+| सुरक्षा, हानि और जोखिम | क्या पूर्वानुमेय हानि को रोका, सीमित और ईमानदारी से आंका जाता है? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
+| जीवन-रक्षा के न्यूनतम स्तर तक पहुँच | क्या संवेदनशील प्राणी भोजन, पानी, आश्रय, देखभाल और स्थिर पर्यावरण जैसी आवश्यक चीज़ों तक पहुँच सकते हैं? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (जीवन-रक्षा)। |
+
+कार्यान्वयन योग्य मापन-स्तर उन्हीं परिभाषाओं में हैं।
+
+**पिछली फ़ाइल:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**अगली फ़ाइल:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### समुन्नति मापना (प्रस्तावना मापन परिवार)

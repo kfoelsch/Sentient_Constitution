@@ -98,6 +98,36 @@
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### استمراریّت (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*سادہ الفاظ میں: یہ سوالات دیکھتے ہیں کہ کیا ذی حس مخلوقات اور ان پر منحصر زندہ نظام طویل مدت تک قائم رہ سکتے ہیں—ماحولیاتی طور پر، قابل اعتماد انداز میں، اور ناکامی کے باوجود۔ یہ باب پنجم میں استمراریّت کے پیمائشی خاندان کا مقام ہے؛ دیباچے کا §2 زمرے کا سادہ سوال برقرار رکھتا ہے، جبکہ خاندان کا جدول اور تعریفوں کے حوالے یہاں ہیں۔*
+
+*مادیّت* ([Materiality](core_05_band_oversight.md#materiality)) الگ پیمائشی زمرہ نہیں بلکہ مربوط تصور ہے؛ یہ [material stake](core_00_preamble.md#material-stake) کے مطابق اس خاندان کے اطلاق کی شدت طے کرتی ہے۔
+
+| ذیلی خاندان | سادہ سوال | بنیادی آئینی استعمال |
+|---|---|---|
+| ماحولیاتی نقش اور ماحولیاتی پیشگی شرائط | کون سا ماحولیاتی بوجھ پیدا یا منتقل کیا جا رہا ہے؟ | [ماحولیاتی نقش](../../core_05_band_continuity.md#ecological-footprint)، [ماحولیاتی پیشگی شرائط](../../core_05_band_continuity.md#environmental-preconditions)؛ **آرٹیکل I-A** اور **I-B** کے تحت افشا |
+| لچک، واپسی پذیری اور نظامی خطرہ | کیا ناکامیوں کو محدود اور واپس درست کیا جا سکتا ہے، اور ان کے بڑھنے کی ایماندارانہ اطلاع دی جا سکتی ہے؟ | [واپسی پذیری](../../core_05_band_continuity.md#reversibility)، [سلسلہ وار ناکامی](../../core_05_band_continuity.md#cascading-failure)، [وجودی خطرہ](../../core_05_band_continuity.md#existential-risk)، [خود بحالی](../../core_05_band_continuity.md#self-healing)؛ [لچک، سلامتی، واپسی پذیری، خود بحالی، سلسلہ وار ناکامی، وجودی خطرہ، ماحولیاتی پیشگی شرائط اور بہبود](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| انحصار اور وسائل کے بہاؤ | کیا مشترکہ انحصار واضح اور برقرار رکھا جاتا ہے؟ | [انحصار](../../core_05_band_continuity.md#dependency)؛ **آرٹیکل V-A** (*انحصار کی نقشہ بندی اور وسائل کے بہاؤ میں شفافیت*) |
+| نظاموں کے درمیان تعاون | کیا دستاویزی واپسی مشترکہ بنیادی ڈھانچے اور ماحولیاتی بحالی کو سہارا دیتی ہے؟ | [نظاموں کے درمیان اخذ](../../core_05_band_continuity.md#cross-system-extraction)، [متناسب بین النظام تعاون](../../core_05_band_continuity.md#proportionate-cross-system-support)؛ **آرٹیکل V-B** (*نظاموں کے درمیان انصاف اور پائیداری*) |
+
+تفصیلی پیمائشی قواعد ہر مربوط تعریف میں موجود ہیں۔
+
+**پچھلی فائل:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**اگلی فائل:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### استمرار ناپنا (تمہید پیمائش خاندان)

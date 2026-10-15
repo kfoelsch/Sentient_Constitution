@@ -86,6 +86,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### نشوونما
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*سادہ الفاظ میں: یہ سوالات دیکھتے ہیں کہ ذی حس ہستیاں واقعی فلاح، تحفظ اور عمل کی صلاحیت برقرار رکھتی ہیں یا صرف متبادل اشاریوں کی مصروفیت یا پیداوار دکھائی جاتی ہے۔ باب پانچ میں نشوونما کی پیمائشی خاندان کی جگہ یہ ہے؛ تمہید کا §2 زمرے کا سادہ سوال رکھتا ہے، جبکہ خاندان کا جدول اور تعریفوں کی رہنمائی یہاں ہے۔*
+
+*مادیت ([Materiality](core_05_band_oversight.md#materiality)) انضمامی ہے، الگ پیمائشی زمرہ نہیں؛ [material stake](core_00_preamble.md#material-stake) کے مطابق خاندان کے اطلاق کی شدت طے کرتی ہے۔*
+
+| ذیلی خاندان | سادہ سوال | بنیادی آئینی استعمال |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | کیا ذی حس ہستیاں فعلی صلاحیت، اختیارِ عمل اور معاون حالات برقرار رکھتی ہیں؟ | **نشوونما** کے نتیجے کا بنیادی پیمانہ (جزو نہیں)—متبادل اشاریوں کی مصروفیت یا پیداوار نہیں۔ |
+| تحفظ، ضرر اور خطرہ | کیا متوقع ضرر کو روکا، محدود اور دیانت داری سے جانچا جاتا ہے؟ | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint)؛ [Harm](../../core_05_band_accountability.md#harm) |
+| بقا کی کم از کم حد تک رسائی | کیا ذی حس ہستیاں خوراک، پانی، پناہ، نگہداشت اور مستحکم ماحول جیسی ضروریات تک پہنچ سکتی ہیں؟ | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access)، [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity)، [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions)؛ **Article III-A** (بقا)۔ |
+
+عملی پیمائشی درجے انہی تعریفوں میں موجود ہیں۔
+
+**پچھلی فائل:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**اگلی فائل:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### شگفتگی ناپنا (تمہید پیمائش خاندان)

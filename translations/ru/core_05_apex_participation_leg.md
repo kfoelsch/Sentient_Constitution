@@ -99,6 +99,32 @@
 ---
 
 <a id="participation-measurement-family"></a>
+
+### Участие
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*Простыми словами: эти вопросы проверяют, получают ли затронутые стороны реальный голос, доступ и справедливую возможность оспаривать решения, а не символическую консультацию. Здесь находится семейство измерений участия главы пятой; §2 Преамбулы сохраняет простой вопрос категории, а таблица семейства и ссылки на определения размещены здесь.*
+
+*Материальность ([Materiality](core_05_band_oversight.md#materiality)) интегративна, а не является отдельной категорией измерений; она определяет силу применения семейства с учётом [material stake](core_00_preamble.md#material-stake).*
+
+| Семейство измерений | Простой вопрос | Основное конституционное применение |
+|---|---|---|
+| Справедливость, доступ и способность действовать | Справедливо ли обращаются с затронутыми разумными существами и могут ли они участвовать и учиться? | Предотвращает исключение, неравное воздействие и формальный доступ без содержания. |
+| Конфиденциальность и управление данными | Сохраняется ли информационное самоопределение на протяжении всего цикла обработки? | Не позволяет сегментации, сопоставлению между контекстами и давлению раскрытия лишить людей голоса. |
+
+**Предыдущий файл:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**Следующий файл:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### Измерять участие (семья измерений Преамбулы)

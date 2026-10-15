@@ -98,6 +98,36 @@
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### 연속성 (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*쉽게 말해, 이 질문은 감각 있는 존재와 그들이 의존하는 생명 시스템이 생태적으로 건전하고 신뢰할 수 있으며 실패를 견디면서 장기간 지속될 수 있는지를 살핍니다. 이곳은 제5장의 연속성 측정군이 자리하는 곳입니다. 서문 §2에는 범주의 쉬운 질문을 두고, 측정군 표와 정의 참조를 여기에 둡니다.*
+
+*중대성* ([Materiality](core_05_band_oversight.md#materiality)은 별도의 측정 범주가 아니라 통합 요소이며, [material stake](core_00_preamble.md#material-stake)에 따라 이 측정군의 적용 강도를 정합니다.
+
+| 하위 측정군 | 쉬운 질문 | 주요 헌법상 용도 |
+|---|---|---|
+| 생태 발자국과 환경적 전제조건 | 어떤 환경 부담이 만들어지거나 다른 곳으로 옮겨지는가? | [생태 발자국](../../core_05_band_continuity.md#ecological-footprint), [환경적 전제조건](../../core_05_band_continuity.md#environmental-preconditions); **제I-A조** 및 **제I-B조**에 따른 공개 |
+| 회복탄력성, 가역성, 시스템 위험 | 실패를 억제하고 되돌릴 수 있으며, 확대되는 상황을 정직하게 알릴 수 있는가? | [가역성](../../core_05_band_continuity.md#reversibility), [연쇄 실패](../../core_05_band_continuity.md#cascading-failure), [존재론적 위험](../../core_05_band_continuity.md#existential-risk), [자기 복구](../../core_05_band_continuity.md#self-healing); [회복탄력성, 안전, 가역성, 자기 복구, 연쇄 실패, 존재론적 위험, 환경적 전제조건, 웰빙](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| 의존성과 자원 흐름 | 공유 의존성이 드러나 있고 유지되는가? | [의존성](../../core_05_band_continuity.md#dependency); **제V-A조** (*의존성 지도화 및 자원 흐름 투명성*) |
+| 시스템 간 지원 | 문서화된 환원이 공유 기반시설과 생태 복원을 지탱하는가? | [시스템 간 추출](../../core_05_band_continuity.md#cross-system-extraction), [비례적인 시스템 간 지원](../../core_05_band_continuity.md#proportionate-cross-system-support); **제V-B조** (*시스템 간 공정성과 지속가능성*) |
+
+세부 측정 규칙은 링크된 각 정의에 있습니다.
+
+**이전 파일:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**다음 파일:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### 연속을 측정하기 (전문 측정 가족)

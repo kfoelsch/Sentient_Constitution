@@ -86,6 +86,35 @@ Definisi daun di bawah tujuan ini mewarisi cakupannya kecuali mereka secara tega
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### Kesejahteraan
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: pertanyaan ini menilai apakah makhluk berakal benar-benar terjaga kesejahteraan, keselamatan, dan daya tindaknya—bukan sekadar keterlibatan proksi atau volume keluaran. Inilah tempat keluarga pengukuran Kesejahteraan dalam Bab Lima; §2 Preambul memuat pertanyaan kategori yang sederhana, sedangkan tabel keluarga dan rujukan definisi ada di sini.*
+
+*Materialitas ([Materiality](../../core_05_band_oversight.md#materiality)) bersifat integratif, bukan kategori pengukuran tersendiri; hal ini menentukan seberapa kuat keluarga ini berlaku berdasarkan [material stake](core_00_preamble.md#material-stake).*
+
+| Subkeluarga | Pertanyaan sederhana | Penggunaan konstitusional utama |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | Apakah makhluk berakal terjaga fungsi, daya tindak, dan kondisi pendukungnya? | Ukuran hasil utama bagi **Kesejahteraan** (bukan unsur pembentuknya)—bukan keterlibatan proksi atau volume keluaran. |
+| Keselamatan, bahaya, dan risiko | Apakah bahaya yang dapat diperkirakan dicegah, dibatasi, dan dinilai dengan jujur? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
+| Akses ke ambang kelangsungan hidup | Dapatkah makhluk berakal menjangkau kebutuhan pokok: makanan, air, tempat tinggal, perawatan, dan lingkungan yang stabil? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (Kelangsungan Hidup). |
+
+Tingkat pengukuran operasional berada pada rumah definisi tersebut.
+
+**Berkas sebelumnya:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**Berkas berikutnya:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### Mengukur Berkembang (keluarga pengukuran Pembukaan)

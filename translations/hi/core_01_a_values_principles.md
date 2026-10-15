@@ -1089,6 +1089,43 @@ flowchart TB
 
 पूरी प्रणाली के आकलन में, जहाँ लागू होने का दायरा लागू हो वहाँ वर्गीकरण, शासन, प्रतिबंध या अनुपालन के दावे स्वीकार करने से पहले [अध्याय आठ §3.6 स्वैच्छिक समाप्ति, बड़ा आत्म-संशोधन और बाहर निकलने के अधिकार](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) के अंतर्गत इन शर्तों की जाँच आवश्यक है।
 
+#### 7.5 अभिव्यक्ति और हानि रेखा
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · मूल्यांकन · अनुपालन</span></strong></summary>
+
+*अधिकार-तल घर।* **[अनुच्छेद XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*अभिव्यक्ति*)** ऑपरेटिव अभिव्यक्ति तल बताता है, और **[अनुच्छेद XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*सामूहिक क्षति सीमा और प्रवर्तन इंटरफ़ेस*)** बताता है कि सामूहिक क्षति कहां से शुरू होती है। यह उपधारा स्वतंत्रता सिद्धांत को बताती है जो उन्हें जोड़ता है, और अपना कोई नियम नहीं जोड़ता है।
+
+- [अभिव्यक्ति](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · C](core_05_band_accountability.md#harm-c)
+- [उत्पीड़न और धमकाना](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [क्रूरता](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · C](core_05_band_accountability.md#cruelty-c)
+- [सामूहिक क्षति सीमा](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · C](core_05_band_accountability.md#necessity-c)
+- [आनुपातिकता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*स्पष्ट शब्दों में: आप लगभग कुछ भी कह सकते हैं, लिख सकते हैं, प्रकाशित कर सकते हैं और डिज़ाइन कर सकते हैं, जिसमें ठेस पहुँचाने वाली, परेशान करने वाली या आलोचना करने वाली बातें भी शामिल हैं। लेकिन भाषण कोई बचाव का रास्ता नहीं है. जब शब्दों, नीतियों, या डिज़ाइनों से कोई दूसरों को नुकसान पहुंचाता है, परेशान करता है, धमकाता है, या उनके साथ भेदभाव करता है, तो उनका मूल्यांकन इस आधार पर किया जाता है कि वे क्या करते हैं, उसी तरह किसी संस्था के लिए किसी संवेदनशील व्यक्ति के लिए, और वे जो भी धार्मिक या राजनीतिक लेबल रखते हैं।*
+
+**अभिव्यक्ति अभिव्यक्ति के रूप में संरक्षित है।** [एक्सप्रेशन](../../core_05_band_participation.md#expression) हर तरह के विचारों को कवर करता है, जिसमें परेशान करने वाले और किसी भी संवेदनशील व्यक्ति या संस्था की आलोचना शामिल है। अपराध, असहमति, असुविधा और शांतिपूर्ण विरोध नुकसान नहीं पहुंचाते हैं ([§7.3 असहमति और शांतिपूर्ण विरोध ](#73-dissent-and-peaceful-protest))।
+
+**अभिव्यक्ति आचरण के लिए ढाल नहीं है।** भाषण, प्रकाशन, डिज़ाइन, नीति और अन्य अभिव्यक्ति नियमों के अधीन रहती हैं [Harm](../../core_05_band_accountability.md#harm), [उत्पीड़न और धमकाना](../../core_05_band_accountability.md#harassment-and-bullying), [क्रूरता](../../core_05_band_accountability.md#cruelty), और गैर-भेदभाव जब वे साधन हैं जिनके द्वारा आचरण किया जाता है। परीक्षण वह है जो अभिव्यक्ति अध्याय पांच परिभाषाओं के तहत संदर्भ में बताती है, मांगती है या करती है। वे परिभाषाएँ अपना अर्थ रखती हैं: उत्पीड़न और धमकाने के लिए एक भौतिक पैटर्न की आवश्यकता होती है, एक भी तीखी टिप्पणी की नहीं, और नुकसान के लिए एक वास्तविक भौतिक-प्रभाव मार्ग की आवश्यकता होती है, अकेले अपराध की नहीं ([सामूहिक क्षति सीमा](../../core_05_band_accountability.md#collective-harm-boundary)।
+
+**एक ही परीक्षा एक संवेदनशील और एक संस्थान पर लागू होती है।** एक अकेला संवेदनशील व्यक्ति, एक समूह या एक संस्थान वक्ता हो सकता है, और उनमें से कोई भी लक्ष्य हो सकता है।
+- एक संस्था अपनी नीतियों, नोटिसों, प्लेटफ़ॉर्म डिज़ाइन, आधिकारिक बयानों और रिपोर्टों और आलोचकों के साथ व्यवहार करने के तरीके के माध्यम से बोलती है। उस तरीके से किए गए आचरण का मूल्यांकन किसी अन्य तरीके की तरह ही किया जाता है।
+- किसी संस्था, उसके अधिकारियों या उसके आचरण की आलोचना सुरक्षित है। आलोचना को बदमाशी या उत्पीड़न कहना अभिव्यक्ति की सीमा है। यह दावा करने वाली पार्टी [§7.1 सीमा अनुशासन](#71-limitation-discipline) और अध्याय चार के तहत बोझ वहन करती है।
+
+**लेबल और विषय परीक्षण को नहीं बदलते हैं।** एक धार्मिक, राजनीतिक, वैचारिक, सांस्कृतिक, कलात्मक, या व्यावसायिक लेबल उस अभिव्यक्ति को संरक्षित अभिव्यक्ति में नहीं बदलता है जो दूसरों को नुकसान पहुंचाती है, या **[अनुच्छेद VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*गैर-भेदभाव*)** के तहत निषिद्ध तरीकों से व्यवहार करती है। कोई विषय या दृष्टिकोण संरक्षित अभिव्यक्ति को हानि में नहीं बदलता। **[अनुच्छेद XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*विवेक, धर्म और तुलनीय विश्वदृष्टि की स्वतंत्रता*)** दूसरों के अधिकारों के साथ लगातार विश्वास रखने और प्रकट करने की रक्षा करता है।
+
+**अभिव्यक्ति को सीमित करना इसे सबूत के रूप में उपयोग करने से अलग है।** अभिव्यक्ति की एक सीमा को [§7.1 सीमा अनुशासन](#71-limitation-discipline) और **[अनुच्छेद XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*अभिव्यक्ति*)** को पूरा करना होगा, और जो कहा गया है उस पर लक्षित सीमा को वहां सबसे सख्त समीक्षा का सामना करना पड़ता है। किसी संवेदनशील व्यक्ति ने जो कहा है उसे इरादे, उद्देश्य या अधिकार के साक्ष्य के रूप में उपयोग करना कोई सीमा नहीं है। यह उस अध्याय के साक्ष्य नियमों का पालन करता है जो प्रश्न पूछता है, जैसे [अध्याय सात §4 गठन जांच: कार्यालय-धारक की स्थिति और प्रामाणिकता](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), और यह स्वयं भाषण के लिए दंड नहीं बन सकता है।
+
+**दायरा।** यह उपधारा अभिव्यक्ति पर सीमा अनुशासन और अध्याय पांच की परिभाषाओं को लागू करती है। यह नुकसान की कोई श्रेणी नहीं बनाता है और स्वतंत्रता को सीमित करने का कोई आधार नहीं है जो [§7.1 सीमा अनुशासन](#71-limitation-discipline) पहले से ही अनुमति नहीं देता है।
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. निरंतरता का लक्ष्य: परिचय
 <details>

@@ -94,6 +94,34 @@ Os **termos independentes** vivem sob [Supervisão: termos independentes](../../
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### Supervisão
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*Em termos simples: estas perguntas verificam se os sencientes conseguem ver, conferir e confiar no que sistemas de alto impacto representam. Este é o espaço da família de medição da Supervisão no Capítulo Cinco; o §2 do Preâmbulo mantém a pergunta simples da categoria, e aqui ficam a tabela da família e as referências às definições.*
+
+*A materialidade ([Materiality](core_05_band_oversight.md#materiality)) é integrativa, não uma categoria de medição separada; ela dimensiona a aplicação desta família conforme o [material stake](core_00_preamble.md#material-stake).*
+
+| Família de medição | Pergunta simples | Principal uso constitucional |
+|---|---|---|
+| Verdade e integridade epistêmica | As alegações, os registros e as divulgações são honestos o bastante para decisões seguras? | Protege a participação informada, a reparação e a correção. |
+| Confiabilidade | A confiança é justificada ou está sendo degradada? | Protege os sencientes contra falsa confiança e dependência enganosa. |
+
+Requisitos vinculantes de confiabilidade, auditoria ou revisão surgem quando o Capítulo Seis, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ou instrumentos incorporados os exigem expressamente.
+
+**Arquivo anterior:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**Arquivo seguinte:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### Medir a supervisão (família de medição do Preâmbulo)

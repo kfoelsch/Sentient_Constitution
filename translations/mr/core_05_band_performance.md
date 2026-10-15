@@ -38,6 +38,33 @@
 
 <a id="performance-measurement-family"></a>
 
+### घटनात्मक कार्यक्षमता (Preamble measurement family)
+
+*सोप्या भाषेत: संवेदनशील जीवांचा वेळ, प्रयत्न किंवा साधने वाया न घालवता घटनात्मक परिणाम प्रत्यक्ष साधले जातात का, हे हे प्रश्न तपासतात.*
+
+*पाचव्या अध्यायात घटनात्मक कार्यक्षमता मापन-कुटुंबाचे स्थान येथे आहे. प्रस्तावनेतील §2 आढावा तक्त्यात श्रेणीचा सोपा प्रश्न ठेवतो; कुटुंबाचा तक्ता, घटनात्मक उपयोग आणि व्याख्यांकडे निर्देश येथे आहेत.*
+
+*महत्त्वता ([Materiality](core_05_band_oversight.md#materiality)) एकात्मिक आहे, स्वतंत्र मापन-श्रेणी नाही; [material stake](core_00_preamble.md#material-stake) नुसार या कुटुंबाचा लागू होण्याचा जोर ती ठरवते.*
+
+| मापन-कुटुंब | सोपा प्रश्न | मुख्य घटनात्मक उपयोग |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | घटनात्मक परिणाम प्रत्यक्ष साधले जात आहेत का? | प्रतिनिधी मापनांना वास्तविक संरक्षणाची जागा घेण्यापासून रोखते. |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | प्रणाली संवेदनशील जीवांचा वेळ, प्रयत्न, साहित्य, पायाभूत सुविधा किंवा ऊर्जा वाया घालवते का? | अनावश्यक अडथळे कमी करते. |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | संवेदनशील जीव आणि प्रणाली सुसंगत परिणाम निर्माण करत राहू शकतात का? | पर्यावरणीय भार इतरत्र ढकलल्याशिवाय टिकाऊ क्षमता जपते. |
+
+ही आडवी मापने प्रणाली घटनात्मक परिणाम प्रभावीपणे देते का, निरर्थक अपव्यय टाळते का आणि सुसंगत परिणाम तयार ठेवण्याची क्षमता टिकवते का, हे विचारतात—जे [**Flourishing**](core_00_preamble.md#flourishing) आणि [**Continuity**](core_00_preamble.md#continuity) दोन्हीसाठी साधन आहे.
+
+- कार्यकारी मापन-स्तर पाचव्या अध्यायातील व्याख्यांमध्ये आहेत: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) आणि [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty) पहा.
+- कार्यक्षमता उद्दिष्टे, बक्षिसे आणि संसाधन मापे घटनात्मक परिणामांपर्यंत मागोवा घेता येतो तोवरच वैध आहेत.
+- ती घटनात्मक कार्यक्षमता, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) किंवा हक्कांच्या किमान पातळीचे पालन यांची जागा घेऊ शकत नाहीत.
+- संपूर्ण प्रणालीची कार्यक्षमता वस्तुनिष्ठरीत्या महत्त्वाची असल्यास [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ते [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) वाचा.
+
+---
+
+**मागील फाइल:** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**पुढील फाइल:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### संवैधानिक कामगिरी मोजणे (प्रस्तावना मापन कुटुंब)
 

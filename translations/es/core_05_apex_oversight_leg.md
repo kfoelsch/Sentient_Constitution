@@ -94,6 +94,34 @@ Los **términos independientes** viven bajo [Supervisión: términos independien
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### Supervisión
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*En términos sencillos: estas preguntas examinan si los seres sintientes pueden ver, verificar y confiar en lo que representan los sistemas de alto impacto. Este es el espacio del Capítulo Cinco para la familia de medición de la Supervisión; el §2 del Preámbulo conserva la pregunta simple de la categoría, y aquí están la tabla familiar y las referencias a las definiciones.*
+
+*La materialidad ([Materiality](core_05_band_oversight.md#materiality)) es integradora, no una categoría de medición aparte; determina cuánto se aplica esta familia según [material stake](core_00_preamble.md#material-stake).*
+
+| Familia de medición | Pregunta sencilla | Uso constitucional principal |
+|---|---|---|
+| Veracidad e integridad epistémica | ¿Las afirmaciones, los registros y las divulgaciones son suficientemente honestos para tomar decisiones seguras? | Protege la participación informada, los recursos y la corrección. |
+| Fiabilidad | ¿Está justificada la confianza o se está deteriorando? | Protege a los seres sintientes de la falsa seguridad y de confiar en información engañosa. |
+
+Los requisitos vinculantes de fiabilidad, auditoría o revisión surgen cuando el Capítulo Seis, el [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) o los instrumentos incorporados los exigen expresamente.
+
+**Archivo anterior:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**Archivo siguiente:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### Medir la supervisión (familia de medición del Preámbulo)

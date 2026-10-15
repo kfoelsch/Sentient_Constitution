@@ -312,7 +312,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 
 **A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§16 Stewardship In Depth](#16-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
 
-**Where §17 sits.** [§16 Stewardship In Depth](#16-stewardship-in-depth) is carried downstream by three sections that read together. This section, §17, supplies the role. [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) and [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) follow it, and the chart shows how the four connect.
+**Where the steward role sits.** [§16 Stewardship In Depth](#16-stewardship-in-depth) is carried downstream by three sections that read together. This section supplies the role. [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) and [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) follow it, and the chart shows how the four connect.
 
 <br>
 
@@ -341,9 +341,9 @@ flowchart TB
 ```
 
 **Reading the chart:**
-- **§16 and §17 both feed §18:** §16 supplies the stewardship discipline, and §17 supplies the steward role, meaning the sentients and AI systems that actually do the work. §18 sets the authorized structures that work happens inside: who may decide what, segregation of duties, ongoing justification, modular architecture, and standardization.
-- **§18 is kept aligned by §19:** [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) keeps rewards, proxies, and ownership changes from pulling those structures, and the stewards inside them, away from constitutional outcomes. It also carries detection, correction, and capture response, and [§19.1.3](#1913-stewardship-and-operator-application) applies the rule to stewards and operators directly.
-- **§19 serves the aims and the Tetrad:** the **Flourishing** and **Continuity** aims, and the **participation**, **oversight**, **accountability**, and **timeliness** legs of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+- **Stewardship discipline and the steward role both feed governance:** [§16 Stewardship In Depth](#16-stewardship-in-depth) supplies the stewardship discipline, and [§17 Consequential Stewardship: The Steward Role](#17-consequential-stewardship-the-steward-role) supplies the steward role, meaning the sentients and AI systems that actually do the work. [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) sets the authorized structures that work happens inside: who may decide what, segregation of duties, ongoing justification, modular architecture, and standardization.
+- **Governance structures are kept aligned by incentive alignment:** [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) keeps rewards, proxies, and ownership changes from pulling those structures, and the stewards inside them, away from constitutional outcomes. It also carries detection, correction, and capture response, and [§19.1.3 Stewardship and Operator Application](#1913-stewardship-and-operator-application) applies the rule to stewards and operators directly.
+- **Incentive alignment serves the aims and the Tetrad:** the **Flourishing** and **Continuity** aims, and the **participation**, **oversight**, **accountability**, and **timeliness** legs of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
 
 The rest of this section covers the role itself.
 
@@ -856,7 +856,7 @@ Oversight and accountability only work if the checking is done independently of 
 
 **Who it applies to.** Human and AI stewards are held to this equally ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)).
 
-**How it fits with §19.3.** The two rules work as a pair ([§19.3 *Plural detection and review*](#193-misalignment-detection)):
+**How it fits with [§19.3 Misalignment Detection](#193-misalignment-detection).** The two rules work as a pair ([§19.3 *Plural detection and review*](#193-misalignment-detection)):
 
 - Having several reviewers keeps any single actor from taking control of oversight.
 - Chapter Eight keeps the actor under review from doing the reviewing.

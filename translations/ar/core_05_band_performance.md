@@ -38,6 +38,33 @@
 
 <a id="performance-measurement-family"></a>
 
+### الأداء الدستوري (Preamble measurement family)
+
+*بعبارات بسيطة: تسأل هذه الأسئلة ما إذا كانت النتائج الدستورية تتحقق فعلاً دون إهدار وقت الكائنات الواعية أو جهدها أو مواردها.*
+
+*هذا هو موضع عائلة قياس الأداء الدستوري في الفصل الخامس. يحتفظ §2 من الديباجة بسؤال الفئة المبسط في جدول النظرة العامة؛ أما جدول العائلة واستخدامها الدستوري وإحالات التعريفات فتوجد هنا.*
+
+*المادية ([Materiality](../../core_05_band_oversight.md#materiality)) تكاملية وليست فئة قياس مستقلة؛ فهي تحدد مدى انطباق هذه العائلة وفق [material stake](core_00_preamble.md#material-stake).*
+
+| عائلة القياس | السؤال المبسط | الاستخدام الدستوري الرئيسي |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | هل تتحقق النتائج الدستورية فعلاً؟ | يمنع المقاييس البديلة من الحلول محل الحماية الحقيقية. |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | هل يهدر النظام وقت الكائنات الواعية أو جهدها أو موادها أو بنيتها التحتية أو طاقتها؟ | يقلل الاحتكاك غير الضروري. |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | هل تستطيع الكائنات الواعية والأنظمة مواصلة إنتاج نتائج متوافقة؟ | يحمي القدرة المستدامة دون نقل العبء البيئي إلى جهة أخرى. |
+
+تسأل هذه المقاييس العابرة للمجالات ما إذا كانت الأنظمة تحقق النتائج الدستورية بفعالية، وتتجنب الهدر العبثي، وتحافظ على القدرة على مواصلة إنتاج نتائج متوافقة؛ وهذا يخدم كلاً من [**Flourishing**](core_00_preamble.md#flourishing) و[**Continuity**](core_00_preamble.md#continuity).
+
+- توجد مستويات القياس التشغيلية في مواضع التعريفات بالفصل الخامس؛ راجع [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) و[Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) و[Productive Capacity](../../core_05_band_continuity.md#productive-capacity) و[Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty).
+- لا تكون أهداف الأداء والمكافآت ومقاييس الموارد صالحة إلا بقدر ما يمكن تتبعها إلى نتائج دستورية.
+- لا يمكنها أن تحل محل الكفاءة الدستورية أو [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) أو الامتثال لأرضية الحقوق.
+- اقرأ [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حتى [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) عندما يكون أداء النظام بأكمله مهماً مادياً.
+
+---
+
+**الملف السابق:** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**الملف التالي:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### قياس الأداء الدستوري (أسرة قياس الديباجة)
 

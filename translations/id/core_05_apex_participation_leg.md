@@ -99,6 +99,32 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 ---
 
 <a id="participation-measurement-family"></a>
+
+### Partisipasi
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: pertanyaan ini menilai apakah pihak yang terdampak benar-benar memperoleh suara, akses, dan kesempatan yang adil untuk menggugat—bukan sekadar konsultasi simbolis. Inilah tempat keluarga pengukuran Partisipasi dalam Bab Lima; §2 Preambul memuat pertanyaan kategori yang sederhana, sedangkan tabel keluarga dan rujukan definisi ada di sini.*
+
+*Materialitas ([Materiality](../../core_05_band_oversight.md#materiality)) bersifat integratif, bukan kategori pengukuran tersendiri; hal ini menentukan seberapa kuat keluarga ini berlaku berdasarkan [material stake](core_00_preamble.md#material-stake).*
+
+| Keluarga pengukuran | Pertanyaan sederhana | Penggunaan konstitusional utama |
+|---|---|---|
+| Keadilan, akses, dan daya tindak | Apakah makhluk berakal yang terdampak diperlakukan adil serta dapat berpartisipasi dan belajar? | Mencegah pengecualian, dampak yang tidak setara, dan akses semu. |
+| Privasi dan pengelolaan data | Apakah penentuan diri secara informasi terjaga sepanjang siklus penanganan? | Mencegah segmentasi, pembacaan lintas konteks, dan tekanan untuk membuka diri menggagalkan suara. |
+
+**Berkas sebelumnya:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**Berkas berikutnya:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### Mengukur partisipasi (keluarga pengukuran Pembukaan)

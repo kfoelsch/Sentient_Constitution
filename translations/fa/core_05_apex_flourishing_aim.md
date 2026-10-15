@@ -86,6 +86,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### شکوفایی
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*به زبان ساده: این پرسش‌ها بررسی می‌کنند که آیا موجودات ذی‌حس واقعاً از رفاه، ایمنی و توان کنش برخوردارند، نه اینکه فقط تعامل نیابتی یا حجم پردازش نشان داده شود. این بخش جایگاه خانواده سنجش شکوفایی در فصل پنجم است؛ §2 دیباچه پرسش ساده دسته را نگه می‌دارد و جدول خانواده و ارجاع به تعریف‌ها در اینجا قرار دارند.*
+
+*مادیّت ([Materiality](core_05_band_oversight.md#materiality)) یکپارچه‌ساز است، نه دسته‌ای جداگانه؛ شدت کاربرد این خانواده را بر پایه [material stake](core_00_preamble.md#material-stake) تنظیم می‌کند.*
+
+| زیرخانواده | پرسش ساده | کاربرد اصلی در قانون اساسی |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | آیا کارکرد، توان کنش و شرایط پشتیبان موجودات ذی‌حس حفظ می‌شود؟ | سنجه اصلی نتیجه **شکوفایی** (نه یکی از اجزای آن)—نه تعامل نیابتی یا حجم پردازش. |
+| ایمنی، آسیب و خطر | آیا آسیب قابل پیش‌بینی پیشگیری، مهار و صادقانه ارزیابی می‌شود؟ | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint)؛ [Harm](../../core_05_band_accountability.md#harm) |
+| دسترسی به کف بقا | آیا موجودات ذی‌حس به نیازهای ضروری مانند غذا، آب، سرپناه، مراقبت و محیط باثبات دسترسی دارند؟ | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access)، [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity)، [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions)؛ **Article III-A** (بقا). |
+
+سطوح عملیاتی سنجش در جایگاه‌های تعریفی مربوط قرار دارند.
+
+**فایل پیشین:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**فایل بعدی:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### اندازه‌گیری شکوفایی (خانوادهٔ اندازه‌گیری دیباچه)

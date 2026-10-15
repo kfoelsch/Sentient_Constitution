@@ -1087,6 +1087,24 @@ flowchart TB
 
 凡适用范围成立，在分类、治理、限制或合规主张成立之前，整体系统评估必须依照[第八章§3.6 自愿终止、重大自我修改与退出权](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)检验这些条件。
 
+<a id="75-expression-and-the-harm-line"></a>
+
+*用通俗的话来说：你可以几乎说、写、发布和设计任何东西，包括那些冒犯、打扰或批评的内容。但是言论不是逃避的漏洞。当言论、政策或设计成为某人伤害、骚扰、欺凌或歧视他人的手段时，无论其背后是个人还是机构，无论其宗教或政治标签如何，都会根据其行为进行评判。*
+
+**言论受到保护作为言论。** [Expression](../../core_05_band_participation.md#expression)涵盖各种观点，包括令人不安的观点，以及对任何个人或机构的批评。冒犯、分歧、不适和和平抗议不算作伤害（[§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest)）。
+
+**言论不是行为的盾牌。** 当言论、出版、设计、政策及其他表达成为实施行为的手段时，它们仍然受[Harm](../../core_05_band_accountability.md#harm)、[Harassment and Bullying](../../core_05_band_accountability.md#harassment-and-bullying)、[Cruelty](../../core_05_band_accountability.md#cruelty)和非歧视条款的约束。测试依据是在第五章定义下的语境中，表达所陈述、呼吁或执行的内容。这些定义保持其含义：骚扰和欺凌需要实质性的模式，而不仅仅是尖锐的评论，伤害需要实际的物质影响路径，而不仅仅是冒犯（[Collective Harm Boundary](../../core_05_band_accountability.md#collective-harm-boundary)）。
+
+**同样的测试适用于个人和机构。** 个人、团体或机构可以是发言者，也可以是目标。
+- 机构通过其政策、通知、平台设计、官方声明以及对待报告和批评的方式进行发言。通过这种方式实施的行为与其他行为一样进行评判。
+- 对机构、其官员或其行为的批评受到保护。将批评称为欺凌或骚扰是对表达的限制。提出这种主张的一方需承担[§7.1 Limitation Discipline](#71-limitation-discipline)和第四章规定的责任。
+
+**标签和话题不会改变测试。** 宗教、政治、意识形态、文化、艺术或商业标签不会将伤害他人的表达，或以禁止的方式对待他人的表达（[Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination)（*非歧视*））转变为受保护的表达。话题或观点不会将受保护的表达转变为伤害。[Article XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*信仰自由、宗教自由及类似世界观*）保护持有和表达与他人权利一致的信念。
+
+**限制表达与将其作为证据使用是不同的。** 对表达的限制必须符合[§7.1 Limitation Discipline](#71-limitation-discipline)和**[Article XI-B](core_06_rights_part_b.md#article-xi-b-expression)（*表达*）**，并且针对言论的限制面临最严格的审查。将个人所说的内容作为意图、目的或权威的证据使用不是限制。它遵循提出问题的章节中的证据规则，如[Chapter Seven §4 Formation Check: Office-Holder Standing and Authenticity](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity)，并且不能成为对言论本身的惩罚。
+
+**范围。** 本子部分将限制纪律和第五章定义应用于表达。它不创建[§7.1 Limitation Discipline](#71-limitation-discipline)尚未允许的伤害类别或限制自由的理由。
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. 连续性目标：引言
 <details>

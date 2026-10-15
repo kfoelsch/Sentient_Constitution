@@ -98,6 +98,36 @@ As definições sob este fim herdam o seu âmbito a menos que o estreitem ou o a
 ---
 
 <a id="continuity-measurement-family"></a>
+
+### Continuidade (Preamble measurement family)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+
+</details>
+
+<br>
+
+*Em termos simples: estas perguntas verificam se os seres sencientes e os sistemas vivos de que dependem conseguem perdurar — de modo ecológico e confiável, inclusive diante de falhas. Este é o espaço do Capítulo Cinco para a família de medição da Continuidade; o §2 do Preâmbulo mantém a pergunta simples da categoria, e a tabela da família e as referências às definições ficam aqui.*
+
+*Materialidade* ([Materiality](core_05_band_oversight.md#materiality)) é integrativa, não uma categoria de medição separada; ela dimensiona a aplicação desta família segundo [material stake](core_00_preamble.md#material-stake).
+
+| Subfamília | Pergunta simples | Principal uso constitucional |
+|---|---|---|
+| Pegada ecológica e condições ambientais prévias | Que carga ambiental está sendo criada ou transferida? | [Pegada ecológica](../../core_05_band_continuity.md#ecological-footprint), [Condições ambientais prévias](../../core_05_band_continuity.md#environmental-preconditions); divulgação conforme os **Artigos I-A** e **I-B** |
+| Resiliência, reversibilidade e risco sistêmico | As falhas podem ser contidas e revertidas, e sua escalada comunicada com honestidade? | [Reversibilidade](../../core_05_band_continuity.md#reversibility), [Falha em cascata](../../core_05_band_continuity.md#cascading-failure), [Risco existencial](../../core_05_band_continuity.md#existential-risk), [Autorrecuperação](../../core_05_band_continuity.md#self-healing); [resiliência, segurança, reversibilidade, autorrecuperação, falha em cascata, risco existencial, condições ambientais prévias e bem-estar](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| Dependência e fluxos de recursos | As dependências compartilhadas são visíveis e mantidas? | [Dependência](../../core_05_band_continuity.md#dependency); **Artigo V-A** (*Mapeamento de dependências e transparência dos fluxos de recursos*) |
+| Apoio entre sistemas | O retorno documentado sustenta a infraestrutura compartilhada e a reparação ecológica? | [Extração entre sistemas](../../core_05_band_continuity.md#cross-system-extraction), [Apoio proporcional entre sistemas](../../core_05_band_continuity.md#proportionate-cross-system-support); **Artigo V-B** (*Equidade e sustentabilidade entre sistemas*) |
+
+As regras detalhadas de medição estão em cada definição vinculada.
+
+**Arquivo anterior:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
+
+**Próximo arquivo:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### Medir a Continuidade (família de medição do Preâmbulo)

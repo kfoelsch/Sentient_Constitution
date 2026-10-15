@@ -34,7 +34,7 @@ Front doors (README, START_HERE, ANNOUNCEMENT, `llms.txt`, `docs/index.md`): whe
 
 Renumbering or renaming Articles: also update the Mermaid charts that list them (**VIS-CHART-SYNC-03** in [doc_architecture.md](doc_architecture.md#chart-sync-on-renumbering-vis-chart-sync-03)).
 
-Files named like another file plus ` 2` before the extension (`core_07_charters 2.md`) are copy artifacts, not corpus, and may be deleted freely when the original exists and git does not track the copy (**FILE-COPY-SUFFIX-01** in [doc_architecture.md](doc_architecture.md#copy-suffixed-duplicate-files-file-copy-suffix-01)).
+Files named like another file plus ` 2` before the extension (`core_07_charters 2.md`) are copy artifacts, not corpus, and may be deleted freely when the original exists and git does not track the copy (run `make install-hooks` once per checkout and the pre-commit hook deletes them before each commit, or run `make copy-suffix-clean`; **FILE-COPY-SUFFIX-01** in [doc_architecture.md](doc_architecture.md#copy-suffixed-duplicate-files-file-copy-suffix-01)).
 
 New session: check that the git branch name matches the work, and rename it when it does not (**GIT-BRANCH-NAME-01** in [doc_architecture.md](doc_architecture.md#branch-naming-git-branch-name-01)).
 

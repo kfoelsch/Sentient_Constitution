@@ -91,6 +91,35 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
+
+### Своевременность
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+</details>
+
+<br>
+
+*Простыми словами: эти вопросы проверяют, продвигаются ли проблемы действительно вовремя, а не только отображает ли панель объём обработки. Здесь находится семейство измерений своевременности главы пятой; §2 Преамбулы (Обзор измерений) сохраняет простой вопрос категории, а таблица семейства и ссылки на определения размещены здесь.*
+
+*Материальность ([Materiality](core_05_band_oversight.md#materiality)) интегративна, а не является отдельной категорией измерений; она определяет силу применения семейства с учётом [material stake](core_00_preamble.md#material-stake).*
+
+| Семейство измерений | Простой вопрос | Основное конституционное применение |
+|---|---|---|
+| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | Разрешаются ли споры, пока средство защиты ещё имеет значение? | Не позволяет задержкам лишать права содержания. |
+| Правила против задержек и дисциплина путей разрешения | Избегают ли стимулы и структуры намеренного накопления дел, захвата и пустых сроков? | Выявляет режимы задержек и [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways). |
+
+Эти измерения проверяют, сохраняют ли процессуальные сроки, пути разрешения и скорость исправления на практике **своевременность** как составляющую [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), а не только на бумаге.
+
+**Предыдущий файл:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
+**Следующий файл:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+
 <a id="measuring-timeliness"></a>
 
 ### Измерять своевременность

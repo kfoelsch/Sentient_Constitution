@@ -94,6 +94,34 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### Надзор
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*Простыми словами: эти вопросы проверяют, могут ли разумные существа видеть, проверять и принимать на веру то, что представляют системы с высоким воздействием. Здесь находится семейство измерений надзора главы пятой; §2 Преамбулы сохраняет простой вопрос категории, а таблица семейства и ссылки на определения размещены здесь.*
+
+*Материальность ([Materiality](core_05_band_oversight.md#materiality)) интегративна, а не является отдельной категорией измерений; она определяет силу применения семейства с учётом [material stake](core_00_preamble.md#material-stake).*
+
+| Семейство измерений | Простой вопрос | Основное конституционное применение |
+|---|---|---|
+| Правдивость и эпистемическая целостность | Достаточно ли честны утверждения, записи и раскрытия для безопасных решений? | Защищает информированное участие, средства защиты и исправление. |
+| Надёжность | Оправдано ли доверие или оно подрывается? | Защищает разумных существ от ложной уверенности и вводящего в заблуждение доверия. |
+
+Обязательные требования к надёжности, аудиту или проверке возникают, когда их прямо устанавливают глава шестая, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) или включённые документы.
+
+**Предыдущий файл:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**Следующий файл:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### Измерять надзор (семья измерений Преамбулы)

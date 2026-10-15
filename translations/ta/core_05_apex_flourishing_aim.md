@@ -88,6 +88,35 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
+
+### செழிப்பு
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+</details>
+
+<br>
+
+*எளிமையாகச் சொன்னால்: உணர்திறன் கொண்ட உயிர்கள் நலன், பாதுகாப்பு, செயலாற்றல் ஆகியவற்றை உண்மையில் தக்கவைத்திருக்கிறார்களா என்பதையே இந்தக் கேள்விகள் ஆராய்கின்றன; மாற்றுக் குறியீட்டு ஈடுபாடு அல்லது செயல்திறன் அளவை அல்ல. ஐந்தாம் அத்தியாயத்தில் செழிப்பு அளவீட்டு குடும்பம் அமைந்துள்ள இடம் இதுவாகும்; முன்னுரையின் §2 வகையின் எளிய கேள்வியை வைத்திருக்கிறது; குடும்ப அட்டவணையும் வரையறை வழிகாட்டலும் இங்கே உள்ளன.*
+
+*பொருட்பாடு ([Materiality](core_05_band_oversight.md#materiality)) ஒருங்கிணைந்தது; தனி அளவீட்டு வகை அல்ல. [material stake](core_00_preamble.md#material-stake) அடிப்படையில் இந்தக் குடும்பத்தின் பயன்பாட்டு வலிமையை அது மாற்றுகிறது.*
+
+| துணைக் குடும்பம் | எளிய கேள்வி | முக்கிய அரசியலமைப்புப் பயன்பாடு |
+|---|---|---|
+| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | உணர்திறன் கொண்ட உயிர்கள் செயல்பாடு, செயலாற்றல், ஆதரவுச் சூழல்கள் ஆகியவற்றில் நிலைத்திருக்கிறார்களா? | **செழிப்பு** விளைவுக்கான முதன்மை அளவீடு (அதன் கூறு அல்ல)—மாற்றுக் குறியீட்டு ஈடுபாடோ செயல்திறன் அளவோ அல்ல. |
+| பாதுகாப்பு, தீங்கு, ஆபத்து | முன்கணிக்கக்கூடிய தீங்கு தடுக்கப்பட்டு, கட்டுப்படுத்தப்பட்டு, நேர்மையாக மதிப்பிடப்படுகிறதா? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
+| உயிர்வாழ்வு அடித்தள அணுகல் | உணர்திறன் கொண்ட உயிர்கள் உணவு, நீர், தங்குமிடம், பராமரிப்பு, நிலையான சூழல் போன்ற அத்தியாவசியங்களை அடைய முடியுமா? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (உயிர்வாழ்வு). |
+
+செயல்பாட்டு அளவீட்டு நிலைகள் அந்த வரையறை இடங்களில் உள்ளன.
+
+**முந்தைய கோப்பு:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
+**அடுத்த கோப்பு:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### செழிப்பை அளவிடுதல் (முகவுரை அளவீட்டுக் குடும்பம்)

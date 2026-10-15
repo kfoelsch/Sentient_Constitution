@@ -38,6 +38,33 @@
 
 <a id="performance-measurement-family"></a>
 
+### آئینی کارکرد (Preamble measurement family)
+
+*سادہ الفاظ میں: یہ سوالات دیکھتے ہیں کہ کیا حساس مخلوقات کا وقت، محنت یا مواد ضائع کیے بغیر آئینی نتائج واقعی فراہم کیے جا رہے ہیں۔*
+
+*باب پانچ میں آئینی کارکردگی کی پیمائشی خاندان کی جگہ یہ ہے۔ تمہید کا §2 عمومی جدول میں زمرے کا سادہ سوال رکھتا ہے؛ خاندان کا جدول، آئینی استعمال اور تعریفوں کی رہنمائی یہاں ہیں۔*
+
+*مادیت ([Materiality](core_05_band_oversight.md#materiality)) انضمامی ہے، الگ پیمائشی زمرہ نہیں؛ [material stake](core_00_preamble.md#material-stake) کے مطابق خاندان کے اطلاق کی شدت طے کرتی ہے۔*
+
+| پیمائشی خاندان | سادہ سوال | بنیادی آئینی استعمال |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | کیا آئینی نتائج واقعی فراہم کیے جا رہے ہیں؟ | متبادل پیمانوں کو حقیقی تحفظ کی جگہ لینے سے روکتا ہے۔ |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | کیا نظام حساس مخلوقات کا وقت، محنت، مواد، بنیادی ڈھانچہ یا توانائی ضائع کر رہا ہے؟ | غیر ضروری رکاوٹ کم کرتا ہے۔ |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | کیا حساس مخلوقات اور نظام ہم آہنگ نتائج پیدا کرتے رہ سکتے ہیں؟ | ماحولیاتی بوجھ دوسری جگہ منتقل کیے بغیر پائیدار صلاحیت کا تحفظ کرتا ہے۔ |
+
+یہ باہم مربوط پیمائشیں پوچھتی ہیں کہ کیا نظام آئینی نتائج مؤثر طور پر فراہم کرتے، بے مقصد ضیاع سے بچتے، اور ہم آہنگ نتائج جاری رکھنے کی صلاحیت محفوظ رکھتے ہیں—جو [**Flourishing**](core_00_preamble.md#flourishing) اور [**Continuity**](core_00_preamble.md#continuity) دونوں کے لیے اہم ہے۔
+
+- عملی پیمائشی درجے باب پانچ کی تعریفوں میں ہیں: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency)، [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden)، [Productive Capacity](../../core_05_band_continuity.md#productive-capacity)، اور [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty) دیکھیں۔
+- کارکردگی کے اہداف، انعامات اور وسائل کے پیمانے صرف اسی حد تک درست ہیں جس حد تک انہیں آئینی نتائج تک سراغ کیا جا سکے۔
+- یہ آئینی کارکردگی، [Productive Capacity](../../core_05_band_continuity.md#productive-capacity)، یا حقوق کی کم از کم حد کی پابندی کی جگہ نہیں لے سکتے۔
+- جب پورے نظام کی کارکردگی مادی طور پر اہم ہو تو [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) سے [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) تک پڑھیں۔
+
+---
+
+**پچھلی فائل:** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**اگلی فائل:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### آئینی کارکردگی ناپنا (تمہید پیمائش خاندان)
 

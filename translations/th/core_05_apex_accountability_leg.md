@@ -74,6 +74,48 @@
 ---
 
 <a id="accountability-measurement-family"></a>
+
+### การวัดความรับผิดรับชอบ
+
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+
+</details>
+
+<br>
+
+*กล่าวอย่างง่าย ๆ: คำถามเหล่านี้ตรวจสอบว่ารางวัล ตลาด และความสามารถในการเรียกร้องคำตอบทำให้ความรับผิดรับชอบเกิดขึ้นจริงในทางปฏิบัติ ไม่ใช่มีอยู่เพียงบนกระดาษหรือไม่*
+
+*ส่วนนี้เป็นที่ตั้งของกลุ่มการวัดความรับผิดรับชอบในบทที่ห้า §2 ของบทนำ (ภาพรวมการวัด) คงคำถามแบบเข้าใจง่ายของหมวดไว้ในตารางภาพรวม ส่วนตารางกลุ่ม การใช้ตามรัฐธรรมนูญ และทางไปยังคำนิยามอยู่ที่นี่*
+
+*ความมีนัยสำคัญ ([Materiality](core_05_band_oversight.md#materiality)) เป็นองค์ประกอบบูรณาการ ไม่ใช่หมวดการวัดแยกต่างหาก โดยปรับระดับการใช้กลุ่มนี้ตาม [material stake](core_00_preamble.md#material-stake)*
+
+| กลุ่มการวัด | คำถามอย่างง่าย | การใช้ตามรัฐธรรมนูญหลัก |
+|---|---|---|
+| การปรับแรงจูงใจให้สอดคล้องและความเที่ยงตรงของตัวชี้วัดแทน | รางวัลและตัวชี้วัดสะท้อนผลลัพธ์ตามรัฐธรรมนูญที่แท้จริงหรือไม่? | ตรวจจับแรงจูงใจที่บิดเบือน การครอบงำ และ [Proxy Divergence](core_05_band_oversight.md#proxy-divergence); เป็นรูปแบบการวัดของ [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) |
+| โครงสร้างตลาดและความสามารถในการแข่งขัน | การเข้าสู่ตลาด การออก การต่อรอง และทางเลือกอื่นยังคงเกิดขึ้นจริงได้หรือไม่? | ใช้หลักป้องกันการกระจุกตัวและการครอบงำเมื่อข้อกล่าวอ้างด้านขีดความสามารถขึ้นอยู่กับตลาดเปิด |
+
+มาตรวัดเหล่านี้ถามว่าโครงสร้างรางวัล อำนาจตลาด และการเรียกร้องคำตอบทำให้เสาหลัก **ความรับผิดรับชอบ** ของ [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) เป็นจริงในทางปฏิบัติหรือไม่ ไม่ใช่เพียงบนกระดาษ
+
+ระดับการวัดเชิงปฏิบัติอยู่ในส่วนคำนิยามของบทที่ห้า:
+
+- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
+- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
+- [Contestability](../../core_05_band_accountability.md#contestability)
+- [Market Structure](../../core_05_band_accountability.md#market-structure)
+- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
+- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
+- [Accountability](#accountability) (link-only leg-head rollup)
+
+---
+
+**ไฟล์ก่อนหน้า:** [core_05__definitions_home.md](core_05__definitions_home.md)
+
+**ไฟล์ถัดไป:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
+
 <a id="measuring-accountability"></a>
 
 ### การวัดความรับผิดชอบ

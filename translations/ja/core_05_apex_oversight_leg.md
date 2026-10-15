@@ -94,6 +94,34 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### 監督の測定
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*平易に言えば、これらの問いは、感覚ある存在が高影響システムの表示内容を見て、検証し、信頼できるかを確かめます。ここは第5章の監督測定ファミリーの掲載箇所です。序文§2はカテゴリの平易な問いを残し、ファミリー表と定義への案内をここに置きます。*
+
+*重要性（[Materiality](core_05_band_oversight.md#materiality)）は統合的な要素であり、独立した測定カテゴリではありません。[material stake](core_00_preamble.md#material-stake)に応じて適用の強さを調整します。*
+
+| 測定ファミリー | 平易な問い | 主な憲法上の用途 |
+|---|---|---|
+| 真実性と認識上の完全性 | 主張、記録、開示は、安全な判断に十分誠実か。 | 十分な情報に基づく参加、救済、訂正を守ります。 |
+| 信頼性 | 信頼は正当なものか、それとも損なわれているか。 | 感覚ある存在を誤った確信や誤解を招く依存から守ります。 |
+
+信頼性、監査、審査に関する拘束要件は、第6章、[Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)、または組み込まれた文書が明示的に要求する場合に生じます。
+
+**前のファイル：** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**次のファイル：** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### 監督を測る（前文の測定ファミリー）

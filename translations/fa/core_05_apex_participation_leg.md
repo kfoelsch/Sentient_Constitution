@@ -99,6 +99,32 @@
 ---
 
 <a id="participation-measurement-family"></a>
+
+### مشارکت
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*به زبان ساده: این پرسش‌ها بررسی می‌کنند که آیا طرف‌های متأثر واقعاً امکان بیان نظر، دسترسی و فرصت منصفانه برای اعتراض دارند یا فقط مشورتی نمادین دریافت می‌کنند. این بخش جایگاه خانواده سنجش مشارکت در فصل پنجم است؛ §2 دیباچه پرسش ساده دسته را نگه می‌دارد و جدول خانواده و ارجاع به تعریف‌ها در اینجا قرار دارند.*
+
+*مادیّت ([Materiality](core_05_band_oversight.md#materiality)) یکپارچه‌ساز است، نه دسته‌ای جداگانه؛ شدت کاربرد این خانواده را بر پایه [material stake](core_00_preamble.md#material-stake) تنظیم می‌کند.*
+
+| خانواده سنجش | پرسش ساده | کاربرد اصلی در قانون اساسی |
+|---|---|---|
+| انصاف، دسترسی و توان کنش | آیا با موجودات ذی‌حس متأثر منصفانه رفتار می‌شود و آیا می‌توانند مشارکت و یادگیری کنند؟ | از حذف، اثر نامتوازن و دسترسی توخالی جلوگیری می‌کند. |
+| حریم خصوصی و سرپرستی داده | آیا خودتعیین‌گری اطلاعاتی در سراسر چرخه رسیدگی حفظ می‌شود؟ | نمی‌گذارد بخش‌بندی، پیوند میان زمینه‌ها و فشار افشا صدای افراد را بی‌اثر کند. |
+
+**فایل پیشین:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**فایل بعدی:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### اندازه‌گیری مشارکت (خانوادهٔ اندازه‌گیری دیباچه)

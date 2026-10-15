@@ -91,6 +91,35 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
+
+### 適時性の測定
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
+- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+</details>
+
+<br>
+
+*平易に言えば、これらの問いは、処理量をダッシュボードに表示できるかではなく、問題が実際に適時に進むかを確かめます。ここは第5章の適時性測定ファミリーの掲載箇所です。序文§2（測定の概要）はカテゴリの平易な問いを残し、ファミリー表と定義への案内をここに置きます。*
+
+*重要性（[Materiality](core_05_band_oversight.md#materiality)）は統合的な要素であり、独立した測定カテゴリではありません。[material stake](core_00_preamble.md#material-stake)に応じて適用の強さを調整します。*
+
+| 測定ファミリー | 平易な問い | 主な憲法上の用途 |
+|---|---|---|
+| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | 救済がなお意味を持つ間に紛争は解決されているか。 | 遅延によって権利が空洞化するのを防ぎます。 |
+| 遅延防止と解決経路の規律 | インセンティブや構造は、意図的な滞留、捕捉、実効性のない期限を避けているか。 | 遅延の仕組みと[Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways)を検出します。 |
+
+これらの測定は、手続の期限、解決経路、修復の速さが[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)の**適時性**の柱を、紙面だけでなく実際にも確かなものにしているかを問います。
+
+**前のファイル：** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
+**次のファイル：** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+
 <a id="measuring-timeliness"></a>
 
 ### 適時性を測る

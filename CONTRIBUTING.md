@@ -115,7 +115,7 @@ Core proposals that read as taste ("I would have phrased this differently") will
 
 *Help people read the Constitution in their own language. Fluent readers are the scarcest thing this lane needs.*
 
-**Current status.** Full translation and resync work is **paused** while the English edit pass continues, so translators are not chasing a moving target ([TODO.md](project/TODO.md)). Existing translations may be out of date with the English until then. Review, glossary work, and volunteering for a language are open now; new or resynced translation files wait for the restart, which will be noted in [TODO.md](project/TODO.md) and [translations/README.md](translations/README.md).
+**Current status.** General translation and resync work is **paused** while the English edit pass continues, so translators are not chasing a moving target ([TODO.md](project/TODO.md)). The custodian may authorize a scoped AI-assisted draft/resync of existing files against a named source snapshot; follow the [pre-announcement AI check process](doc_architecture.md#pre-announcement-ai-assisted-checks-current-process) and leave the work explicitly unreviewed. Existing translations may otherwise be out of date with the English until the restart, which will be noted in [TODO.md](project/TODO.md) and [translations/README.md](translations/README.md). Review, glossary work, and volunteering for a language are open now.
 
 **Open now.** Read an existing translation and report what is wrong or unclear; suggest glossary terms for your language; volunteer to look after a language (translate at restart, or review someone else's draft).
 

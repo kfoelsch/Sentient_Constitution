@@ -38,6 +38,33 @@
 
 <a id="performance-measurement-family"></a>
 
+### రాజ్యాంగ పనితీరు (Preamble measurement family)
+
+*సరళంగా చెప్పాలంటే: స్పృహగల జీవుల సమయం, శ్రమ, పదార్థాలను వృథా చేయకుండా రాజ్యాంగ ఫలితాలు నిజంగా అందుతున్నాయా అని ఈ ప్రశ్నలు పరిశీలిస్తాయి. ఐదవ అధ్యాయంలోని రాజ్యాంగ పనితీరు కొలత కుటుంబానికి ఇది నిలయం. ఉపోద్ఘాతంలోని §2 అవలోకన పట్టికలో వర్గపు సరళ ప్రశ్నను ఉంచుతుంది; కుటుంబ పట్టిక, రాజ్యాంగ వినియోగం, నిర్వచనాల దారి ఇక్కడ ఉన్నాయి.*
+
+*ఇది ఐదవ అధ్యాయంలోని రాజ్యాంగ పనితీరు కొలత కుటుంబానికి సంబంధించిన స్థానం. ఉపోద్ఘాతం §2 అవలోకన పట్టికలో వర్గం యొక్క సరళ ప్రశ్నను ఉంచుతుంది; కుటుంబ పట్టిక, రాజ్యాంగ వినియోగం, నిర్వచన సూచనలు ఇక్కడ ఉన్నాయి.*
+
+*భౌతిక ప్రాధాన్యత ([Materiality](core_05_band_oversight.md#materiality)) సమగ్ర స్వభావం కలది, ప్రత్యేక కొలత వర్గం కాదు; [material stake](core_00_preamble.md#material-stake) ఆధారంగా ఈ కుటుంబం వర్తించే స్థాయిని నిర్ణయిస్తుంది.*
+
+| కొలత కుటుంబం | సరళ ప్రశ్న | ప్రధాన రాజ్యాంగ వినియోగం |
+|---|---|---|
+| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | రాజ్యాంగ ఫలితాలు నిజంగా అందుతున్నాయా? | ప్రాక్సీ కొలమానాలు నిజమైన రక్షణ స్థానాన్ని భర్తీ చేయకుండా నిరోధిస్తుంది. |
+| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | స్పృహగల జీవుల సమయం, శ్రమ, పదార్థాలు, మౌలిక సదుపాయాలు లేదా శక్తిని వ్యవస్థ వృథా చేస్తున్నదా? | అనవసర అడ్డంకులను తగ్గిస్తుంది. |
+| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | స్పృహగల జీవులు, వ్యవస్థలు సరిపోయే ఫలితాలను కొనసాగించి ఉత్పత్తి చేయగలవా? | పర్యావరణ భారాన్ని ఇతరులపైకి మళ్లించకుండా దీర్ఘకాలిక సామర్థ్యాన్ని కాపాడుతుంది. |
+
+ఈ విస్తృత కొలతలు వ్యవస్థలు రాజ్యాంగ ఫలితాలను సమర్థంగా అందిస్తున్నాయా, నిరర్థక వృథాను నివారిస్తున్నాయా, సరిపోయే ఫలితాలను కొనసాగించే సామర్థ్యాన్ని నిలుపుతున్నాయా అని పరిశీలిస్తాయి—ఇది [**Flourishing**](core_00_preamble.md#flourishing), [**Continuity**](core_00_preamble.md#continuity) రెండింటికీ అవసరం.
+
+- ఆచరణాత్మక కొలత స్థాయిలు ఐదవ అధ్యాయంలోని నిర్వచనాల్లో ఉంటాయి: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty) చూడండి.
+- పనితీరు లక్ష్యాలు, బహుమతులు, వనరుల కొలతలు రాజ్యాంగ ఫలితాల వరకు అనుసరించగలిగినంతవరకే చెల్లుతాయి.
+- రాజ్యాంగ సామర్థ్యం, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), లేదా హక్కుల కనీస ప్రమాణ అనుసరణకు అవి ప్రత్యామ్నాయం కాలేవు.
+- మొత్తం వ్యవస్థ పనితీరు భౌతికంగా ముఖ్యమైనప్పుడు [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) నుంచి [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) వరకు చదవండి.
+
+---
+
+**మునుపటి ఫైలు:** [core_05_band_participation.md](../../core_05_band_participation.md)
+
+**తదుపరి ఫైలు:** [core_07_charters.md](../../core_07_charters.md)
+
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### రాజ్యాంగ పనితీరు కొలవడం (ప్రస్తావన కొలత కుటుంబం)
 

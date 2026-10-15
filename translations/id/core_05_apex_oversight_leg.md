@@ -94,6 +94,34 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### Pengawasan
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](../../core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](../../core_05_band_oversight.md#epistemic-integrity), [Transparency](../../core_05_band_oversight.md#transparency), [Auditability](../../core_05_band_oversight.md#auditability), [Verifiability](../../core_05_band_oversight.md#verifiability), [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*Dalam bahasa sederhana: pertanyaan ini menilai apakah makhluk berakal dapat melihat, memverifikasi, dan mengandalkan apa yang direpresentasikan oleh sistem berdampak tinggi. Inilah tempat keluarga pengukuran Pengawasan dalam Bab Lima; §2 Preambul memuat pertanyaan kategori yang sederhana, sedangkan tabel keluarga dan rujukan definisi ada di sini.*
+
+*Materialitas ([Materiality](../../core_05_band_oversight.md#materiality)) bersifat integratif, bukan kategori pengukuran tersendiri; hal ini menentukan seberapa kuat keluarga ini berlaku berdasarkan [material stake](core_00_preamble.md#material-stake).*
+
+| Keluarga pengukuran | Pertanyaan sederhana | Penggunaan konstitusional utama |
+|---|---|---|
+| Kebenaran dan integritas epistemik | Apakah klaim, catatan, dan pengungkapan cukup jujur untuk keputusan yang aman? | Melindungi partisipasi yang terinformasi, pemulihan, dan koreksi. |
+| Keterpercayaan | Apakah kepercayaan layak diberikan, atau sedang dirusak? | Melindungi makhluk berakal dari keyakinan palsu dan ketergantungan yang menyesatkan. |
+
+Persyaratan reliabilitas, audit, atau peninjauan yang mengikat berlaku ketika Bab Enam, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), atau instrumen yang diinkorporasikan secara tegas mewajibkannya.
+
+**Berkas sebelumnya:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**Berkas berikutnya:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### Mengukur pengawasan (keluarga pengukuran Pembukaan)

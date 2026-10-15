@@ -1088,6 +1088,43 @@ Tiểu mục này **không** áp dụng kỷ luật về tự nguyện chấm d�
 
 Khi phạm vi áp dụng được thỏa mãn, đánh giá toàn hệ thống phải kiểm tra các điều kiện này theo [Chương Tám §3.6 Tự nguyện Chấm dứt, Tự sửa đổi Lớn và Quyền Rời khỏi](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights) trước khi chấp nhận các tuyên bố về phân loại, quản trị, giới hạn hoặc tuân thủ.
 
+#### 7.5 Biểu hiện và Đường gây hại
+
+<details>
+<summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
+
+*Nhà ở tầng quyền.* **[Điều XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Biểu hiện*)** nêu rõ mức biểu hiện có hiệu lực và **[Điều XI-G](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*Ranh giới tác hại tập thể và giao diện thực thi*)** nêu rõ nơi bắt đầu tổn hại tập thể. Tiểu mục này nêu rõ nguyên tắc Tự do gắn liền với chúng và không bổ sung quy tắc riêng nào.
+
+- [Biểu thức](core_05_band_participation.md#expression) · [O](core_05_band_participation.md#expression) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
+- [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Quấy rối và bắt nạt](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
+- [Tàn ác](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [Ranh giới tác hại tập thể](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
+- [Sự cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Tỷ lệ](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="75-expression-and-the-harm-line"></a>
+
+*Nói một cách dễ hiểu: bạn có thể nói, viết, xuất bản và thiết kế hầu hết mọi thứ, kể cả những gì xúc phạm, làm phiền hoặc chỉ trích. Nhưng lời nói không phải là một kẽ hở. Khi lời nói, chính sách hoặc thiết kế là cách mà ai đó làm tổn hại, quấy rối, bắt nạt hoặc phân biệt đối xử với người khác, chúng sẽ bị đánh giá dựa trên những gì họ làm, theo cách tương tự đối với một người cũng như đối với một tổ chức và bất kỳ nhãn hiệu tôn giáo hoặc chính trị nào họ mang.*
+
+**Biểu hiện được bảo vệ dưới dạng biểu đạt.** [Expression](../../core_05_band_participation.md#expression) bao gồm mọi quan điểm, bao gồm cả những quan điểm đáng lo ngại và chỉ trích bất kỳ chúng sinh hoặc tổ chức nào. Xúc phạm, bất đồng, khó chịu và biểu tình ôn hòa không có hại ([§7.3 Bất đồng chính kiến ​​​​và biểu tình ôn hòa](#73-dissent-and-peaceful-protest)).
+
+**Biểu hiện không phải là lá chắn cho hành vi.** Lời nói, ấn phẩm, thiết kế, chính sách và cách thể hiện khác vẫn phải tuân theo các quy tắc về [Harm](../../core_05_band_accountability.md#harm), [Quấy rối và bắt nạt](../../core_05_band_accountability.md#harassment-and-bullying), [Cruelty](../../core_05_band_accountability.md#cruelty) và không phân biệt đối xử khi chúng là phương tiện để thực hiện hành vi đó. Bài kiểm tra là những gì biểu thức nêu, yêu cầu hoặc thực hiện, đọc trong ngữ cảnh theo định nghĩa của Chương Năm. Những định nghĩa đó vẫn giữ nguyên ý nghĩa của chúng: quấy rối và bắt nạt cần một khuôn mẫu cụ thể chứ không phải một nhận xét sắc bén nào và việc gây hại cần một lộ trình tác động vật chất thực sự chứ không phải chỉ hành vi phạm tội ([Ranh giới tác hại tập thể](../../core_05_band_accountability.md#collective-harm-boundary).
+
+**Bài kiểm tra tương tự áp dụng cho một người có tri giác và một tổ chức.** Một người duy nhất, một nhóm hoặc một tổ chức có thể là người phát biểu và bất kỳ ai trong số họ đều có thể là mục tiêu.
+- Một tổ chức lên tiếng thông qua các chính sách, thông báo, thiết kế nền tảng, tuyên bố chính thức và cách thức tổ chức xử lý các báo cáo và lời phê bình. Hành vi được thực hiện theo cách đó được đánh giá như bất kỳ hành vi nào khác.
+- Việc chỉ trích một tổ chức, các quan chức hoặc hành vi của tổ chức đó được bảo vệ. Gọi những lời chỉ trích là bắt nạt hoặc quấy rối là một hạn chế trong cách thể hiện. Bên đưa ra yêu cầu bồi thường đó phải chịu trách nhiệm theo [§7.1 Kỷ luật giới hạn](#71-limitation-discipline) và Chương 4.
+
+**Nhãn và chủ đề không làm thay đổi bài kiểm tra.** Nhãn tôn giáo, chính trị, tư tưởng, văn hóa, nghệ thuật hoặc thương mại không biến biểu hiện gây tổn hại cho người khác hoặc đối xử với họ theo những cách bị cấm theo **[Điều VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Không phân biệt đối xử*)**, thành biểu hiện được bảo vệ. Một chủ đề hoặc quan điểm không biến biểu hiện được bảo vệ thành tác hại. **[Điều XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Tự do lương tâm, tôn giáo và thế giới quan có thể so sánh*)** bảo vệ việc giữ và thể hiện niềm tin một cách nhất quán với quyền của người khác.
+
+**Hạn chế biểu đạt khác với việc sử dụng nó làm bằng chứng.** Giới hạn về biểu đạt phải đáp ứng [§7.1 Kỷ luật giới hạn](#71-limitation-discipline) và **[Điều XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Biểu hiện*)** và giới hạn nhằm vào những gì được nói sẽ phải được xem xét nghiêm ngặt nhất ở đó. Việc sử dụng những gì một người có tri giác đã nói làm bằng chứng về ý định, mục đích hoặc thẩm quyền không phải là một giới hạn. Nó tuân theo các quy tắc bằng chứng của chương đặt câu hỏi, chẳng hạn như [Chương Bảy §4 Kiểm tra đội hình: Vị thế của Người giữ chức vụ và Tính xác thực](../../core_07_charters.md#4-formation-check-office-holder-standing-and-authenticity), và nó có thể không trở thành một hình phạt cho chính bài phát biểu đó.
+
+**Phạm vi.** Tiểu mục này áp dụng Kỷ luật Giới hạn và các định nghĩa của Chương Năm cho việc biểu đạt. Nó không tạo ra loại tác hại nào và không có cơ sở để hạn chế quyền tự do mà [§7.1 Kỷ luật giới hạn](#71-limitation-discipline) chưa cho phép.
+
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Mục tiêu liên tục: Giới thiệu
 <details>

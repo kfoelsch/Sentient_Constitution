@@ -94,6 +94,34 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
+
+### निगरानी
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
+- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
+
+</details>
+
+<br>
+
+*सरल शब्दों में: ये प्रश्न देखते हैं कि क्या संवेदनशील प्राणी यह देख, सत्यापित और भरोसा कर सकते हैं कि उच्च-प्रभाव वाली प्रणालियाँ क्या प्रस्तुत करती हैं। यह अध्याय पाँच में निगरानी मापन परिवार का स्थान है; प्रस्तावना का §2 श्रेणी का सरल प्रश्न रखता है और परिवार की तालिका व परिभाषाओं के संदर्भ यहाँ हैं।*
+
+*भौतिकता ([Materiality](core_05_band_oversight.md#materiality)) एकीकृत है, अलग मापन श्रेणी नहीं; [material stake](core_00_preamble.md#material-stake) के अनुसार यह परिवार के अनुप्रयोग की तीव्रता तय करती है।*
+
+| मापन परिवार | सरल प्रश्न | मुख्य संवैधानिक उपयोग |
+|---|---|---|
+| सत्यनिष्ठा और ज्ञान-संबंधी अखंडता | क्या दावे, अभिलेख और खुलासे सुरक्षित निर्णयों के लिए पर्याप्त ईमानदार हैं? | सूचित भागीदारी, उपचार और सुधार की रक्षा करता है। |
+| विश्वसनीयता | क्या भरोसा करना उचित है, या भरोसे को कमज़ोर किया जा रहा है? | संवेदनशील प्राणियों को झूठे भरोसे और भ्रामक निर्भरता से बचाता है। |
+
+बाध्यकारी विश्वसनीयता, ऑडिट या समीक्षा की आवश्यकताएँ तब उत्पन्न होती हैं जब अध्याय छह, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) या शामिल किए गए दस्तावेज़ उन्हें स्पष्ट रूप से अपेक्षित करते हैं।
+
+**पिछली फ़ाइल:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
+
+**अगली फ़ाइल:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
+
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### निगरानी मापना (प्रस्तावना मापन परिवार)

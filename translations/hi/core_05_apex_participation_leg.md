@@ -99,6 +99,32 @@
 ---
 
 <a id="participation-measurement-family"></a>
+
+### भागीदारी
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
+- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+
+</details>
+
+<br>
+
+*सरल शब्दों में: ये प्रश्न देखते हैं कि प्रभावित पक्षों को वास्तव में आवाज़, पहुँच और चुनौती देने का उचित अवसर मिलता है या नहीं—सिर्फ दिखावटी परामर्श नहीं। यह अध्याय पाँच में भागीदारी मापन परिवार का स्थान है; प्रस्तावना का §2 श्रेणी का सरल प्रश्न रखता है, जबकि परिवार की तालिका और परिभाषाओं के संदर्भ यहाँ हैं।*
+
+*भौतिकता ([Materiality](core_05_band_oversight.md#materiality)) एकीकृत है, अलग मापन श्रेणी नहीं; [material stake](core_00_preamble.md#material-stake) के अनुसार यह परिवार के अनुप्रयोग की तीव्रता तय करती है।*
+
+| मापन परिवार | सरल प्रश्न | मुख्य संवैधानिक उपयोग |
+|---|---|---|
+| निष्पक्षता, पहुँच और कर्तृत्व | क्या प्रभावित संवेदनशील प्राणियों के साथ निष्पक्ष व्यवहार होता है और क्या वे भाग ले व सीख सकते हैं? | बहिष्करण, असमान प्रभाव और खोखली पहुँच से बचाता है। |
+| गोपनीयता और डेटा का प्रबंधन | क्या सूचना-संबंधी आत्मनिर्णय पूरे प्रबंधन-चक्र में सुरक्षित रहता है? | विभाजन, अन्य संदर्भों में डेटा-पठन और उजागर करने के दबाव को आवाज़ दबाने से रोकता है। |
+
+**पिछली फ़ाइल:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
+
+**अगली फ़ाइल:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
+
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### सहभागिता मापना (प्रस्तावना मापन परिवार)
