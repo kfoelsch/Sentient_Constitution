@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.14` · effective **2026-10-14**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **711** of **1038** headings carry a gloss (68%).
+Coverage: **713** of **1040** headings carry a gloss (69%).
 
 ## Contents
 
@@ -25,9 +25,9 @@ Coverage: **711** of **1038** headings carry a gloss (68%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (80/92 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (37/98 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (38/99 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
-- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (30/40 glossed)
+- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (10/11 glossed)
@@ -1778,7 +1778,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 37/98 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 38/99 headings glossed
 
 #### Continuity: Independent terms
 
@@ -2158,6 +2158,12 @@ a **Charter Role Map** is the published list, kept with a System Charter or Inst
 
 [Source](../../core_05_band_continuity.md#charter-role-map)
 
+##### Chartered Party
+
+a **Chartered Party** is a system or an institution that has published a System Charter or Institutional Charter, or that Chapter Seven requires to. Chapter Seven uses the one term so it does not have to say "system or institution" every time. A Class P [Operating Party](../../core_05_band_oversight.md#operating-party) that has not published one is not a Chartered Party, and becomes one the day it publishes. Using the term does not add a duty. The duties come from the chapter and from the party's class.
+
+[Source](../../core_05_band_continuity.md#chartered-party)
+
 ##### Systemic Lock-In
 
 *(no plain-terms gloss in source)*
@@ -2524,7 +2530,7 @@ a constitutional constraint is a binding limit that decides whether a claim, act
 
 ## Oversight Constitutional Definitions
 
-Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 30/40 headings glossed
+Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 31/41 headings glossed
 
 #### Oversight: Independent terms
 
@@ -2594,7 +2600,7 @@ big enough to matter — not trivia, cosmetics, or paperwork that changes nothin
 
 ##### Materiality
 
-materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened. Whether a duty applies to an act or a body at all, area by area, is the separate question that [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) answers; this entry then scales the duties that do apply.
+materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened. Whether a duty applies to an act or an Operating Party at all, area by area, is the separate question that [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) answers; this entry then scales the duties that do apply.
 
 [Source](../../core_05_band_oversight.md#materiality)
 
@@ -2603,6 +2609,12 @@ materiality is the threshold at which an impact or risk is big enough in stake t
 this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 No Licence, and Two Narrow Limits](../../core_07_charters.md#2-no-licence-and-two-narrow-limits).
 
 [Source](../../core_05_band_oversight.md#domain-specific-materiality)
+
+##### Operating Party
+
+an **Operating Party** is whoever actually does the activity: a single sentient, a group of sentients acting together, a system, or an institution. The nine questions in Domain-Specific Materiality are put to it. If what it does is material in any one area, it is Class L or higher and must publish a System Charter or Institutional Charter, which makes it a Chartered Party. If not, it stays Class P. Naming the party adds no duty and gates nothing.
+
+[Source](../../core_05_band_oversight.md#operating-party)
 
 ##### Materiality Integrity Constraint
 
@@ -3182,19 +3194,19 @@ Source file: [`core_07_charters.md`](../../core_07_charters.md) · 10/11 heading
 
 #### 1. Purpose, Scope, and Owner Boundary
 
-before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. A System Charter does that for one system. An Institutional Charter does it for an institution that runs more than one system, and holds their System Charters. A body of Class L or higher must publish one, with the process that keeps it true. A Class P body may.
+before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. A System Charter does that for one system. An Institutional Charter does it for an institution that runs more than one system, and holds their System Charters. An Operating Party of Class L or higher must publish one, with the process that keeps it true. A Class P Operating Party may.
 
 [Source](../../core_07_charters.md#1-purpose-scope-and-owner-boundary)
 
 #### 2. No Licence, and Two Narrow Limits
 
-you do not need anyone's permission to form a system, institution, or business. Two narrow limits can keep one sentient out of one controlling office. This chapter adds no gate on the body itself.
+you do not need anyone's permission to form a system, institution, or business. Two narrow limits can keep one sentient out of one controlling office. This chapter adds no gate on the Operating Party itself.
 
 [Source](../../core_07_charters.md#2-no-licence-and-two-narrow-limits)
 
 #### 3. When System and Institutional Charters Are Required
 
-if what a system does is material to others in any one of the nine areas of [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality), it needs a published System Charter. An institution that runs one system uses that System Charter. One that runs several publishes an Institutional Charter, which holds all their System Charters and says why the institution runs them. The threshold is Class L. A body below every line of those nine areas is Class P, where publishing one is voluntary, however many members it has: a quilting circle that gives quilts to refugees is the pattern.
+if what a system does is material to others in any one of the nine areas of [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality), it needs a published System Charter. An institution that runs one system uses that System Charter. One that runs several publishes an Institutional Charter, which holds all their System Charters and says why the institution runs them. The threshold is Class L. An Operating Party below every line of those nine areas is Class P, where publishing one is voluntary, however many members it has: a quilting circle that gives quilts to refugees is the pattern.
 
 [Source](../../core_07_charters.md#3-when-system-and-institutional-charters-are-required)
 
@@ -3212,25 +3224,25 @@ the System Charter or Institutional Charter is where the seats get names. It car
 
 #### 6. Formation Check: Office-Holder Standing and Authenticity
 
-before a body exercises authority over others, the sentients who hold its key offices are checked twice. Do they meet the published standard for the role, with no standing lock in the way? And do they hold the office in their own right and for the body's stated purpose, and not as a front or a nominee? The answer comes from who directs them, what they are paid for, and what they have verifiably said and done, never from what they believe. This is a check and not a licence.
+before a Chartered Party exercises authority over others, the sentients who hold its key offices are checked twice. Do they meet the published standard for the role, with no standing lock in the way? And do they hold the office in their own right and for the Chartered Party's stated purpose, and not as a front or a nominee? The answer comes from who directs them, what they are paid for, and what they have verifiably said and done, never from what they believe. This is a check and not a licence.
 
 [Source](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)
 
 #### 7. When a Holder Fails the Check
 
-a failed check lands on one office, not on the body. The holder is replaced or the problem is cured, with a week to answer and thirty days to fix it, and the body keeps operating. Only a failure that is never cured can lead to a review of the body, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.
+a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is cured, with a week to answer and thirty days to fix it, and the Chartered Party keeps operating. Only a failure that is never cured can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.
 
 [Source](../../core_07_charters.md#7-when-a-holder-fails-the-check)
 
 #### 8. Amendment, Review, and Scope Misalignment
 
-scope can change, but not quietly. A change to what the body may do is made by the sentients its System Charter or Institutional Charter names as able to make it, with notice and a way to contest it. The document is re-checked on a schedule and sooner when something goes wrong, and when the paper and the practice disagree, one of them is fixed in the open.
+scope can change, but not quietly. A change to what the Chartered Party may do is made by the sentients its System Charter or Institutional Charter names as able to make it, with notice and a way to contest it. The document is re-checked on a schedule and sooner when something goes wrong, and when the paper and the practice disagree, one of them is fixed in the open.
 
 [Source](../../core_07_charters.md#8-amendment-review-and-scope-misalignment)
 
 #### 9. What System and Institutional Charters Cannot Do
 
-a System Charter or Institutional Charter describes a body's limits. It does not make the body safe, does not choose its class, and does not give it power. Writing a narrow one does not shrink what the body really does.
+a System Charter or Institutional Charter describes a Chartered Party's limits. It does not make the Chartered Party safe, does not choose its class, and does not give it power. Writing a narrow one does not shrink what the Chartered Party really does.
 
 [Source](../../core_07_charters.md#9-what-system-and-institutional-charters-cannot-do)
 
@@ -5344,7 +5356,7 @@ every sentient may gather, associate, and act together — in physical, digital,
 
 ##### Article XI-E: Institutional Formation and Business Creation
 
-anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming a body to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only two narrow gates stand on who may control a body, and neither is a licence to form or run one. A sentient who is under an unresolved institutional-authority lock, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of a body. Everyone else may still form it and run it, and neither gate stops the body itself. Two further rules cover acts that can hurt someone who cannot judge the risk. A technical forum can list a family of such acts, and a sentient may then be required to hold a practice licence, for acts that can cause severe or irreversible injury, or a practice clearance, for acts with a lesser but real risk such as cosmetology or food handling, before performing one for others. Those rules attach to the act and never to forming or running a body.
+anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming an Operating Party to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only two narrow gates stand on who may control an Operating Party, and neither is a licence to form or run one. A sentient who is under an unresolved institutional-authority lock, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of an Operating Party. Everyone else may still form it and run it, and neither gate stops the Operating Party itself. Two further rules cover acts that can hurt someone who cannot judge the risk. A technical forum can list a family of such acts, and a sentient may then be required to hold a practice licence, for acts that can cause severe or irreversible injury, or a practice clearance, for acts with a lesser but real risk such as cosmetology or food handling, before performing one for others. Those rules attach to the act and never to forming or running an Operating Party.
 
 [Source](../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)
 

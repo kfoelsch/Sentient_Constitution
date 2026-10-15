@@ -732,10 +732,10 @@ This subsection sets out the [Interim Hold](core_05_band_accountability.md#inter
   - speech, assembly, dissent, petition, protected reporting, or defense;
   - the Rights Floor or survival-critical access;
   - [Stakeholder](core_05_band_participation.md#stakeholder) status itself;
-  - the existence or operation of a whole body, where an interim steward is named instead if the body would be left without a lawful holder and others depend on it; or
+  - the existence or operation of a whole Chartered Party, where an interim steward is named instead if the Chartered Party would be left without a lawful holder and others depend on it; or
   - general property, as distinct from the specific weight, funds, or keys in contest.
 - **Applications:** A hold may be issued only in these applications, or where a provision of this Constitution or an incorporated text names it:
-  - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation), for authority in a body;
+  - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation), for authority in an Operating Party;
   - [Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity) and **CI-4.2** (*Role criteria, appointment standards, and removal pathways*), for a holder of a covered office at any time; and
   - **CF-4.15** (*Interim hold on a panel member or seat holder*), with [**Article XII-D** (*Non-Capture Safeguards*)](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards), for a forum, certifier, record, or verify-or-authorize seat.
 

@@ -55,7 +55,7 @@ This chapter applies to every [Materially Binding Act](core_05_band_accountabili
 - a disbursement or allocation; and
 - a disposition of a challenge.
 
-This chapter does not apply to a Class P body. Its acts stay inside its [private unit](core_05_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and a body whose acts others must follow or may rely on as settled is at least Class L under **CS-3** (*System classification machinery*). A sole sentient with a computer needs no second seat-holder. The floor applies from the day the body takes a Materially Binding Act.
+This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-3** (*System classification machinery*). A sole sentient with a computer needs no second seat-holder. The floor applies from the day the Operating Party takes a Materially Binding Act.
 
 The seats in this chapter define who may do what for a particular act; they are not job titles. The same sentient, office, or system may hold different seats for different acts. A title, delegation, technical capability, or ability to perform a step does not enlarge the seat held for that act.
 
