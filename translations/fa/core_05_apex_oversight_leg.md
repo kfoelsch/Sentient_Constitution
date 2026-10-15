@@ -94,34 +94,6 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
-
-### نظارت
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
-- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
-
-</details>
-
-<br>
-
-*به زبان ساده: این پرسش‌ها بررسی می‌کنند که آیا موجودات ذی‌حس می‌توانند آنچه سامانه‌های پُرتأثیر بازنمایی می‌کنند ببینند، راستی‌آزمایی کنند و به آن تکیه کنند. این بخش جایگاه خانواده سنجش نظارت در فصل پنجم است؛ §2 دیباچه پرسش ساده دسته را نگه می‌دارد و جدول خانواده و ارجاع به تعریف‌ها در اینجا قرار دارند.*
-
-*مادیّت ([Materiality](core_05_band_oversight.md#materiality)) یکپارچه‌ساز است، نه دسته‌ای جداگانه؛ شدت کاربرد این خانواده را بر پایه [material stake](core_00_preamble.md#material-stake) تنظیم می‌کند.*
-
-| خانواده سنجش | پرسش ساده | کاربرد اصلی در قانون اساسی |
-|---|---|---|
-| راستی و یکپارچگی معرفتی | آیا ادعاها، سوابق و افشاها برای تصمیم‌گیری ایمن به‌اندازه کافی صادقانه‌اند؟ | از مشارکت آگاهانه، جبران و اصلاح حفاظت می‌کند. |
-| قابلیت اعتماد | آیا اتکا موجه است یا اعتماد در حال فرسایش است؟ | از موجودات ذی‌حس در برابر اطمینان کاذب و اتکای گمراه‌کننده محافظت می‌کند. |
-
-الزامات الزام‌آور قابلیت اعتماد، حسابرسی یا بازبینی زمانی پدید می‌آیند که فصل ششم، [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) یا اسنادِ واردشده صریحاً آنها را مقرر کنند.
-
-**فایل پیشین:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
-**فایل بعدی:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### اندازه‌گیری نظارت (خانوادهٔ اندازه‌گیری دیباچه)

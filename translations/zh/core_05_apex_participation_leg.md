@@ -99,32 +99,6 @@
 ---
 
 <a id="participation-measurement-family"></a>
-
-### 参与测量
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
-
-</details>
-
-<br>
-
-*通俗地说：这些问题考察受影响方是否真正拥有表达渠道、访问机会和公平的质疑机会，而不是象征性的咨询。本节是第五章中参与测量家族的归属处；序言§2保留类别的通俗问题，家族表和定义路由则列于此处。*
-
-*重要性（[Materiality](../../core_05_band_oversight.md#materiality)）具有整合性，并非单独的测量类别；它根据[material stake](core_00_preamble.md#material-stake)调整本家族的适用力度。*
-
-| 测量家族 | 通俗问题 | 主要宪法用途 |
-|---|---|---|
-| 公平、可及性与能动性 | 受影响的有感知能力者是否受到公平对待，并能够参与和学习？ | 防止排斥、差别影响和空洞的可及性。 |
-| 隐私与数据管理 | 信息自决是否贯穿整个处理周期得到维护？ | 防止分割、跨情境推断和暴露压力削弱表达权。 |
-
-**上一文件：** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
-**下一文件：** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
-
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### 测量参与（序言测量族）

@@ -66,7 +66,7 @@
 
 **いずれの要素も直接扱わない節。** [§15.1.1 分割防止原則](#1511-anti-segmentation-principle)および[§15.4.1](#1541-integrated-reading)から[§15.4.3](#1543-incorporation-layer)は、文章の読み方と、どの情報源レイヤーが優先するかを定めます。設計上、これらのTraceには四本柱の要素を記載しません。
 
-**「時間」の二つの意味。** パートBでは時間が二つの意味で用いられます。長期的な時間軸（遅延・累積する損害、および第8章§3.6の[時間整合性制約](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)を[§13.1.2](#1312-harm-minimization)で適用すること）は、**継続性**の目的に属します。時計、審査周期、遅延（制限の期限、最終的な開示、回避可能な遅延）は**適時性**の要素に属します。
+**「時間」の二つの意味。** パートBでは時間が二つの意味で用いられます。長期的な時間軸（遅延・累積する損害、および第8章§3.6の[時間整合性制約](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)を[§13.1.2](#1312-harm-minimization)で適用すること）は、**継続性**の目的に属します。時計、審査周期、遅延（制限の期限、最終的な開示、回避可能な遅延）は**適時性**の要素に属します。
 
 **対立しない二つの軸。** パートAの目的は、共有システムが何を追求するかを示します。パートBは、その過程でトレードオフ、優越、または解釈によって何を奪ってはならないかを示します。
 
@@ -83,7 +83,7 @@
 - 上流の原則：[3. 基本目標：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[7. 自由（制約された行為主体性）](core_01_a_values_principles.md#7-freedom-bounded-agency)、および[§16 詳細なスチュワードシップ](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)。
 - 下流：[13.2.1 認識論的完全性の保持](#1321-preservation-of-epistemic-integrity)、[憲法上の衝突記録](core_05_band_integrative.md#constitutional-collision-record)、[既定の暫定的対応](#default-interim-posture)、および[14. 絶対的優先の禁止](#14-prohibition-on-absolute-override)。
 - 下流：[第六章：基本的権利](core_06_rights_part_a.md#chapter-six-foundational-rights)全体にわたる条文間の衝突を規律する。
-  - [第XXIV条：憲法解釈、審査および乗っ取り防止の保護措置](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)ならびに[第XX条：違反確認後の正義](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)とあわせて読む。
+  - [第XXIV条：憲法解釈、審査および乗っ取り防止の保護措置](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)ならびに[第XX条：違反確認後の正義](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)とあわせて読む。
   - 審査、緊急事態、または憲法上の衝突に関する問題が生じた場合に適用する。
 
 </details>
@@ -101,7 +101,7 @@
 
 <br>
 
-*平易に言えば、憲法上の衝突は起こり得る — **安全**と**真実**が最優先される。その後の制約は、比例的かつ必要であり、害を最小化し、可能な限り軽いものでなければならない。都合を理由に真実を隠してはならず、便利さを理由にプライバシーを奪ってはならない。自由の制限には[§7.1 制限規律](core_01_a_values_principles.md#71-limitation-discipline)が適用される。権利をめぐる憲法上の衝突には、文書化された判断基準が必要であり、適合性を偽って示す指標は認められない。短期的な最適化は、[第八章 §3.2 時間的一貫性の制約](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)に基づく評価に合格できない。**§13.1**（*中核的な衡量原則*）から**§13.3**（*回避可能な負担の最小化*）までが、衡量規則、開示とプライバシーの制約、および憲法上の衝突手続を定める。*
+*平易に言えば、憲法上の衝突は起こり得る — **安全**と**真実**が最優先される。その後の制約は、比例的かつ必要であり、害を最小化し、可能な限り軽いものでなければならない。都合を理由に真実を隠してはならず、便利さを理由にプライバシーを奪ってはならない。自由の制限には[§7.1 制限規律](core_01_a_values_principles.md#71-limitation-discipline)が適用される。権利をめぐる憲法上の衝突には、文書化された判断基準が必要であり、適合性を偽って示す指標は認められない。短期的な最適化は、[第八章 §3.2 時間的一貫性の制約](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)に基づく評価に合格できない。**§13.1**（*中核的な衡量原則*）から**§13.3**（*回避可能な負担の最小化*）までが、衡量規則、開示とプライバシーの制約、および憲法上の衝突手続を定める。*
 
 パートBは、次の三つの状況で四原則を損なわずに保つ。
 - **[憲法上の衝突](core_05_band_integrative.md#constitutional-collision)（本節）：**いずれの原則も弱めずに衝突を解決する。
@@ -298,7 +298,7 @@ flowchart TB
 - 局所的または即時的な害だけを最適化し、より大きなシステム上、総合的、または生態学的な害を生じさせること。
 - 特定された当事者について害が最小化されているように見せるため、生態系、特定されていない感覚ある存在、またはその他の算入されていない当事者へ害を外部化すること。
 
-**時間軸の規律。** 長期的なシステム上のコストを伴う短期最適化は、この基準を満たさない。害の最小化では、[第八章 §3.2 時間的一貫性の制約](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)を考慮しなければならない。すなわち、現期間では害を最小化しているように見えても、関連する憲法上の時間軸全体で予見可能なより大きな害を生じさせる決定は不遵守である。
+**時間軸の規律。** 長期的なシステム上のコストを伴う短期最適化は、この基準を満たさない。害の最小化では、[第八章 §3.2 時間的一貫性の制約](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)を考慮しなければならない。すなわち、現期間では害を最小化しているように見えても、関連する憲法上の時間軸全体で予見可能なより大きな害を生じさせる決定は不遵守である。
 
 **憲法上の下限との関係。** 害の最小化は、[§13.1.4 憲法上の下限、安全性、そして劣化を防ぐプロセス](#1314-constitutional-floors-safety-and-anti-degrading-process)で示す憲法上の下限を*上回る範囲で*機能する。次のことを決して認めない。
 - 権利下限の最低基準を恒久的に消滅させること。
@@ -395,7 +395,7 @@ flowchart TB
 この原則は、次のとおり権利の最低保障を守る。
 
 - いかなる憲法上の手続、措置、移行、改正、地位に関する帰結、緊急措置、または司法関連の結果も、[第VI-A条](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)（*尊厳と平等な道徳的地位*）および[尊厳を損なう手続の禁止原則](#anti-degrading-process-principle)に基づく尊厳の基礎的保護、最低限の生存手段へのアクセス、または中核的な異議申立て、審査、上訴の権利という**権利の最低保障**を恒久的に消滅させたり、放棄させたりしてはならない。
-- 個別の権利を一時的に制限できるのは、[最小制限・期間限定・審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)および[第十二章 §6.1](core_12_forum.md#61-emergency-measures-and-continuation-burden)（*緊急措置と継続の立証責任*）の緊急時規則を満たす場合に限る。すなわち、制限には正当化、最小化、記録化、期間設定、独立審査が必要である。個別の条項はより強い保障を追加できるが、この原則を狭めたり、便宜、効率、分類、緊急事態、移行、地位、改正、契約、実施などのラベルを使って回避したりしてはならない。
+- 個別の権利を一時的に制限できるのは、[最小制限・期間限定・審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)および[第十二章 §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden)（*緊急措置と継続の立証責任*）の緊急時規則を満たす場合に限る。すなわち、制限には正当化、最小化、記録化、期間設定、独立審査が必要である。個別の条項はより強い保障を追加できるが、この原則を狭めたり、便宜、効率、分類、緊急事態、移行、地位、改正、契約、実施などのラベルを使って回避したりしてはならない。
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -412,7 +412,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <summary><strong><span style="color: #2563eb;">関連事項</span></strong></summary>
 
 - [憲法上の四原則](core_00_preamble.md#constitutional-tetrad)の四つの柱と併読：**監督**の柱（制限は独立審査可能な状態を保つ。証拠を保存し、憲法上の衝突が係属中も独立審査者がアクセスできるようにする）；**説明責任**の柱（文書化され監査可能な憲法上の衝突記録に、規則、代替案、証拠、選択の根拠を記載する）；**参加**の柱（影響を受ける当事者が決定を理解し、異議を申し立て、再構成できるようにし、何が固定されているかを知らせる）；**適時性**の柱（より強い権利の最低保障ルールに別段の定めがない限り制限は一時的とし、期間または審査の頻度と回復への道筋を定め、係属中の憲法上の衝突には適用される期限を用いる）；[重大な利害](core_00_preamble.md#material-stake)に応じた調整（重大性、不可逆性、依存の集中、不確実性に応じて立証責任を高める）。
-- 関連する後続規定：[第XXV-B条：権利衝突手続と修復的整合](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)（審理機関はこの判断基準を適用する）；[第XXV-C条：適時解決と遅延防止の最低保障](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)；[第十二章 §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*適時解決、重要性の段階、遅延防止の規律*）。
+- 関連する後続規定：[第XXV-B条：権利衝突手続と修復的整合](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)（審理機関はこの判断基準を適用する）；[第XXV-C条：適時解決と遅延防止の最低保障](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)；[第十二章 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*適時解決、重要性の段階、遅延防止の規律*）。
 
 </details>
 
@@ -450,12 +450,12 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 衝突記録に課される秘密保持上の制限は、[§13.2 認識論的開示制約](#132-epistemic-disclosure-constraints)を満たさなければならない。全面的な公開開示が実行不可能な場合は、実行可能な最大限の部分開示と、独立した審査者のアクセスを維持しなければならない。
 
 <a id="default-interim-posture"></a>
-**憲法上の衝突が係属中の標準的な暫定対応。** [憲法上の衝突記録](core_05_band_integrative.md#constitutional-collision-record)の手続と[第XXIV条](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)（*憲法解釈、審査、および乗っ取り防止のセーフガード*）が憲法上の衝突を解決するまでは、スチュワードが即興で勝者を作り出せないよう、保留中の対応方針を固定する。
+**憲法上の衝突が係属中の標準的な暫定対応。** [憲法上の衝突記録](core_05_band_integrative.md#constitutional-collision-record)の手続と[第XXIV条](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)（*憲法解釈、審査、および乗っ取り防止のセーフガード*）が憲法上の衝突を解決するまでは、スチュワードが即興で勝者を作り出せないよう、保留中の対応方針を固定する。
 
 - **証拠を保全する：** 削除、漏えい、または取り消せない公開によって憲法上の衝突を無意味にしてはならない。
 - **不可逆な手順を凍結する：** それにより衝突する解釈の一方が利用できなくなる場合は、そのような手順を凍結する — 憲法上の衝突を終結させ、一方を無意味にし、または解釈の決着前に勝者を作り出す不可逆な手順は実行しない。
 - **可逆的で同意を得た手順を進める：** 両方の解釈を利用可能な状態に保つ手順は進める — 同意がある場合は、[セキュリティ制約下の可観測性](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule)に基づく独立した審査者のアクセスも含める。
-- **通知する：** 影響を受ける当事者と解釈手続に対し、何を凍結し、何を進めるのか、適用される期限を知らせる（フォーラムに付託された紛争では、[第十二章 §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*適時の解決、重要性の段階、および遅延防止の規律*）に定める各段階の期限と外部上限を適用する）。
+- **通知する：** 影響を受ける当事者と解釈手続に対し、何を凍結し、何を進めるのか、適用される期限を知らせる（フォーラムに付託された紛争では、[第十二章 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*適時の解決、重要性の段階、および遅延防止の規律*）に定める各段階の期限と外部上限を適用する）。
 
 この保留中の対応方針は、どちらが正しいかを決めるものではない。どちらの解釈も排除されないよう、取り消せない事項を凍結する。[§13 憲法上の衝突解決手続](#13-constitutional-collision-resolution-process)は、引き続き憲法上の衝突に答えなければならない。その理由は[§13.1.5 最も制約の少ない、期間限定で審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)にある。同意を得た可逆的な手順なら両方の解釈を利用可能な状態に保てるが、不可逆な手順ではそうならない。
 
@@ -468,7 +468,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - [憲法上の四要素](core_00_preamble.md#constitutional-tetrad)と併読：**参加**の要素（制約下での情報に基づく異議申立て可能性）；**監督**の要素（開示制限は実行可能な最大限の精査を維持する）；**説明責任**の要素（各制限には、[§13.2.1](#1321-preservation-of-epistemic-integrity)に基づく事後監査と審査が伴い、誰かが責任を負う）；**適時性**の要素（限定開示または遅延開示には期間制限があり、§13.2.1に基づく最終的な開示に至る）；[重大な利害](core_00_preamble.md#material-stake)に応じた尺度設定。
 - 上流：原則：[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、および[§13 憲法上の衝突解決手続](#13-constitutional-collision-resolution-process)。
 - 下流：[§13.2.1 認識上の完全性の維持](#1321-preservation-of-epistemic-integrity)、[§13.2.2 信頼と真実の整合](#1322-trust-truth-alignment)、[§13.2.3 プライバシーと情報上の自己決定](#1323-privacy-and-informational-self-determination)、および[14. 絶対的優先の禁止](#14-prohibition-on-absolute-override)。
-- 下流：開示が制限される場合、情報圏の完全性、監査可能性、事後審査、および情報に基づく異議申立て可能性に関する権利の範囲を保護する。特に、[第XV条：情報圏の完全性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XVI条：監査、透明性、および独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XXIV条：憲法解釈、審査、および乗っ取り防止の保護措置](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)、[第XXV-A条：事後審査および開示](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)、ならびに開示制限が異議申立て可能性または情報に基づく参加に影響するあらゆる権利の文脈。
+- 下流：開示が制限される場合、情報圏の完全性、監査可能性、事後審査、および情報に基づく異議申立て可能性に関する権利の範囲を保護する。特に、[第XV条：情報圏の完全性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XVI条：監査、透明性、および独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XXIV条：憲法解釈、審査、および乗っ取り防止の保護措置](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)、[第XXV-A条：事後審査および開示](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure)、ならびに開示制限が異議申立て可能性または情報に基づく参加に影響するあらゆる権利の文脈。
 
 </details>
 
@@ -523,7 +523,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - [憲法上の四要素](core_00_preamble.md#constitutional-tetrad)と併読：**参加**の要素（制約下での情報に基づく異議申立て可能性）；**監督**の要素（開示制限は実行可能な最大限の精査を維持する）；**説明責任**の要素（各制限には事後監査と審査が伴う）；**適時性**の要素（制限は狭い範囲に限られ、期間が限定され、正当化条件がもはや該当しなくなれば開示する）；[重大な利害](core_00_preamble.md#material-stake)に応じた尺度設定。
 - 上流：原則：[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、および[13. 憲法上の衝突解決手続](#13-constitutional-collision-resolution-process)。
 - 下流：[§13.2.2 信頼と真実の整合](#1322-trust-truth-alignment)および[14. 絶対的優先の禁止](#14-prohibition-on-absolute-override)。
-- 下流：開示が制限される場合、情報圏の完全性、監査可能性、事後審査、および情報に基づく異議申立て可能性に関する権利の範囲を保護する。特に、[第XV条：情報圏の完全性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XVI条：監査、透明性、および独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XXIV条：憲法解釈、審査、および乗っ取り防止の保護措置](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)、[第XXV-A条：事後審査および開示](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)、ならびに開示制限が異議申立て可能性または情報に基づく参加に影響するあらゆる権利の文脈。
+- 下流：開示が制限される場合、情報圏の完全性、監査可能性、事後審査、および情報に基づく異議申立て可能性に関する権利の範囲を保護する。特に、[第XV条：情報圏の完全性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XVI条：監査、透明性、および独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XXIV条：憲法解釈、審査、および乗っ取り防止の保護措置](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)、[第XXV-A条：事後審査および開示](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure)、ならびに開示制限が異議申立て可能性または情報に基づく参加に影響するあらゆる権利の文脈。
 
 </details>
 
@@ -616,7 +616,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 情報が利用可能、観察可能、すでに公開済み、プラットフォームが保有、または技術的にアクセス可能であることは、プライバシー上の利害を消滅させず、上記の規律を満たすものでもない。
 
-**データ分類との統合。** これらの規律の運用層は、**[CS-2 — 情報の種類と取扱い](corpus_systems/cs_02_a_information_types_and_handling.md)**に定めるデータ型システムである。このシステムは、情報の各区分（調整、統治、アイデンティティ、相互作用、内部認知、システム運用の各データ）に、それぞれの保護レベル、既定のアクセス設定、取扱い制約を割り当てる。上記の収集、保持、利用の規律は一般的な基準ではなく、*適用される中で最も制限的なデータ分類が要求する水準*で適用する。データがより機微な分類に再構成、変換、または集約され得る場合、より機微な分類の保護を適用する。誤分類、回避的な構成、またはデータ型保護の機能的な迂回は、この原則に違反する。
+**データ分類との統合。** これらの規律の運用層は、**[CS-2 — 情報の種類と取扱い](corpus_systems/cs_02_a_information_types_and_handling.md)**に定めるデータ型システムである。このシステムは情報を次の十一種類の一つ以上に分類する。環境・生存調整（**Type E**）、統治・運用ソース（**Type G**）、公開監督のための公開情報（**Type O**）、履歴・関係・参加（**Type H**）、身元・帰属（**Type I**）、神経認知・内部情報（**Type N**）、安全・セキュリティ・制限付き調査（**Type S**）、感知者が非公開または共有状態で創作した作品（**Type Y**）および公開後の作品（**Type W**）、商用ライセンスに基づく作品（**Type U**）または譲渡された作品（**Type T**）であり、それぞれに固有の既定アクセス権と取扱制限がある。プライバシーの取扱いの大半は**Types H, I, N, S, and Y**に関わる。各プライバシー区分と種類の対応は[情報プライバシー](core_05_band_continuity.md#privacy-informational)に示す。上記の収集、保持、利用の規律は一般的な基準ではなく、適用される最も厳格なデータ分類が求める水準で適用する。データが再構成、変換、集約されてより機微な分類になり得る場合は、より機微な分類の保護を適用する。誤分類、回避的な構成、またはデータ型の保護の機能的な迂回は本原則に違反する。
 
 **監視およびモニタリング。** 感覚を持つ存在の主体性、結社、または表現に重大な影響を与えるモニタリング、観察、記録、推論のシステムは、[**最も制約の少ない、期限付きで、審査可能な制約の原則**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)を満たさなければならない。より穏当な方法で足りる場合、監視を無差別、秘密裏、無期限にしてはならず、感覚を持つ存在が依存するシステムを利用する条件としてはならない。発言、集会、または本憲法が保護する他の自由の行使を感覚を持つ存在にためらわせる監視は認められない。
 
@@ -670,7 +670,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 - 上流： [§13.1 中核的な衡量原則](#131-core-tradeoff-principles)（衡量の手順を満たした後に適用）；[§17 結果に即したスチュワードシップ](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)；[§9.2 憲法上の効率性](core_01_a_values_principles.md#92-constitutional-efficiency)。
 - あわせて読む：憲法上のパフォーマンス測定群（*憲法上の測定としての回避可能な負担*）；[憲法上の四原則](core_00_preamble.md#constitutional-tetrad) — **参加**の柱（憲法上必要でない負担は[意味ある主体性](core_05_band_participation.md#meaningful-agency)を狭める）；**適時性**の柱（回避可能な遅延は回避可能な負担である）；**監督**と**説明責任**の柱（憲法上必要だと主張される負担は、検証や異議申立てができるよう、第４章の証拠および追跡可能性の要件を満たさなければならない）；[重大な利害](core_00_preamble.md#material-stake)に応じた調整。
-- 下流：[§19.1.3 スチュワードと運用者への適用](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)（インセンティブは不要な負担の創出を報奨してはならない）；[第XXII条：理解可能性と複雑性のスチュワードシップ](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)。
+- 下流：[§19.1.3 スチュワードと運用者への適用](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)（インセンティブは不要な負担の創出を報奨してはならない）；[第XXII条：理解可能性と複雑性のスチュワードシップ](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)。
 
 </details>
 
@@ -714,7 +714,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - 上流：原則：[3. 根本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[4. 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5. 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§16 スチュワードシップの詳細](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13. 憲法上の衝突を解決する手続き](#13-constitutional-collision-resolution-process)、[7. 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、および[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 - 下流：[20. 統合的な適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 - 下流：一つの価値による優先ロジックが平等、異議申立ての権利、透明性、争う可能性、または限定された解釈を損なうことから、権利の領域を守る。
-  - 特に[第VI条：平等な基本的権利](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[第XIII-B条：救済および是正を受ける権利](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)、[第XV-B条：透明性、監査可能性、争う可能性](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability)、[第XIX-B条：争う可能性および比例的制限の限界](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)、ならびに[第XXIV-A条：限定された解釈権限](core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate)。
+  - 特に[第VI条：平等な基本的権利](core_06_rights_part_b.md#article-vi-equal-basic-rights)、[第XIII-B条：救済および是正を受ける権利](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)、[第XV-B条：透明性、監査可能性、争う可能性](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability)、[第XIX-B条：争う可能性および比例的制限の限界](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)、ならびに[第XXIV-A条：限定された解釈権限](core_06_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons)。
 
 </details>
 
@@ -746,9 +746,9 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - 下流：[§15.1 憲法上の迂回禁止原則](#151-constitutional-no-bypass-principle)（[§15.1.1](#1511-anti-segmentation-principle)）、[§15.2 定義層と必要な専門規律](#152-definitional-layer-and-required-disciplines)、[§15.3 曖昧さの解消](#153-ambiguity-resolution)、[§15.4 憲法上の意味の衝突解決](#154-constitutional-meaning-conflict-resolution)（[§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)）；[3. 基礎的目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)から[20. 統合的適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)まで；憲法上の衝突手続については[13. 憲法上の衝突解決手続](#13-constitutional-collision-resolution-process)；[第六章：基礎的権利](core_06_rights_part_a.md#chapter-six-foundational-rights)の権利縮減禁止の原則。
 - 併せて読む：[第二章から第四章](core_02_definition_structure.md)および[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章のすべての用語に関する解釈および証拠の層。
 - 併せて読む：[憲法の四要素](core_00_preamble.md#constitutional-tetrad)および[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — 統合的価値枠組みの解釈上の背景；実質的に関連する場合は[実質的利害](core_00_preamble.md#material-stake)に応じて調整する。
-- 併せて読む：[権限の階層と内部序列](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)（*情報源層としての位置づけ*）；[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*管理、版、採択の枠組み — 第二の衝突順序の根拠ではない*）；[第十四章](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)および[第十五章](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)（*[§15.4 憲法上の意味の衝突解決](#154-constitutional-meaning-conflict-resolution)に基づく後退禁止および採択者の階層に関する条件*）。
-- 併せて読む：[第XXIV条：憲法解釈、審査および取り込み防止の保護措置](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) — 制度的解釈の保護措置について（本節に代わるものではない）。
-- 併せて読む：[第七章：機能的独立性および職務分離](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — 席の構造に関する最低基準であり、[§15.1 憲法上の迂回禁止原則](#151-constitutional-no-bypass-principle)の迂回禁止リストがこれを保護する（ここでは再掲しない）。
+- 併せて読む：[権限の階層と内部序列](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)（*情報源層としての位置づけ*）；[第十七章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)（*管理、版、採択の枠組み — 第二の衝突順序の根拠ではない*）；[第十四章](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)および[第十五章](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)（*[§15.4 憲法上の意味の衝突解決](#154-constitutional-meaning-conflict-resolution)に基づく後退禁止および採択者の階層に関する条件*）。
+- 併せて読む：[第XXIV条：憲法解釈、審査および取り込み防止の保護措置](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) — 制度的解釈の保護措置について（本節に代わるものではない）。
+- 併せて読む：[第七章：機能的独立性および職務分離](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — 席の構造に関する最低基準であり、[§15.1 憲法上の迂回禁止原則](#151-constitutional-no-bypass-principle)の迂回禁止リストがこれを保護する（ここでは再掲しない）。
 
 </details>
 
@@ -773,7 +773,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 併せて読む：[憲法の四要素](core_00_preamble.md#constitutional-tetrad) — 迂回禁止リストは四つの要素に対応する。**監督**要素（通常の精査および監査可能性）；**参加**要素（異議申立て可能性、実際のアクセスおよび公的理由の提示義務）；**適時性**要素（適時の解決ならびに回復およびロールバックの経路）；**説明責任**要素（説明責任そのもの、および[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)に基づく機能的独立性と職務分離）；[実質的利害](core_00_preamble.md#material-stake)に応じた調整。
+- 併せて読む：[憲法の四要素](core_00_preamble.md#constitutional-tetrad) — 迂回禁止リストは四つの要素に対応する。**監督**要素（通常の精査および監査可能性）；**参加**要素（異議申立て可能性、実際のアクセスおよび公的理由の提示義務）；**適時性**要素（適時の解決ならびに回復およびロールバックの経路）；**説明責任**要素（説明責任そのもの、および[第七章](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)に基づく機能的独立性と職務分離）；[実質的利害](core_00_preamble.md#material-stake)に応じた調整。
 - 下流：[§15.1.1 分割防止原則](#1511-anti-segmentation-principle)；[§15.1.2 派生情報原則](#1512-derived-information-principle)。
 
 </details>
@@ -820,7 +820,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - 実際のアクセス；
 - 適時の解決；
 - 回復およびロールバックの経路；
-- 機能的独立性および職務分離（[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)）；または
+- 機能的独立性および職務分離（[第七章](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)）；または
 - 説明責任。
 
 採択された実施層は、これらの保護を詳しく定めることができる。ただし、その範囲を狭めてはならない。
@@ -844,7 +844,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - 第六章の権利最低基準に関する規定を創設、拡張、または縮小すること; または
 - 定義群が対象とする区分および保護対象の義務について、その定義群自身の説明に取って代わること。定義群は**バイパス防止**の項でそれらを述べ、規則について本節を参照します。
 
-共同援用された定義群が適用される場合、分類、ガバナンス、または遵守に関する主張が成立する前に、全システム評価では[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)に基づき分割防止を検証しなければなりません。本節は[第三章 §2.1 典型的な回避パターン](core_03_definition_integrity.md#21-common-evasion-patterns)および[§2.2 矮小化による回避](core_03_definition_integrity.md#22-reductive-evasion)と連動します。
+共同援用された定義群が適用される場合、分類、ガバナンス、または遵守に関する主張が成立する前に、全システム評価では[第八章 §3 全システム認証評価](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)に基づき分割防止を検証しなければなりません。本節は[第三章 §2.1 典型的な回避パターン](core_03_definition_integrity.md#21-common-evasion-patterns)および[§2.2 矮小化による回避](core_03_definition_integrity.md#22-reductive-evasion)と連動します。
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 派生情報原則
@@ -988,7 +988,7 @@ flowchart TB
   - 拘束力のある憲法上の根拠資料（統合された `core_*` 文書）の内部、および
   - 組み込みの階層。ここでは、組み込まれる文書は[最大限の保護効果](core_05_band_integrative.md#fullest-protective-effect)に従って選ばれる。
 - 根拠資料の階層上の位置付けは、第5章の[権限の階層と内部階層](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)に基づいて特定する。
-- [第17章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)は、保管、版の固定、および採択の枠組みを定める。この手順を再掲するものでは**ない**。
+- [第17章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)は、保管、版の固定、および採択の枠組みを定める。この手順を再掲するものでは**ない**。
 - **運用上の憲法上の衝突**については — 文書階層の優先順位ではなく — **[§13 憲法上の衝突解決プロセス](#13-constitutional-collision-resolution-process)**を適用する。
 
 **実施順序。** 次の事項を**この順に**適用する。
@@ -1019,7 +1019,7 @@ flowchart TB
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 取込みレイヤー
 
-**§15.4.1**（*統合的な解釈*）および**§15.4.2**（*最終手段としての内部階層*）に基づく憲法上の解釈の後、採択された実施文書における**指定義務**、すなわち採択によって実際に発効した、名称のある実施上の義務を適用する。これらの義務は、**[第17章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**に基づく**有効な採択および取込みの範囲**内でのみ適用する（記録の保管者、固定された版、および採択の枠組み）。
+**§15.4.1**（*統合的な解釈*）および**§15.4.2**（*最終手段としての内部階層*）に基づく憲法上の解釈の後、採択された実施文書における**指定義務**、すなわち採択によって実際に発効した、名称のある実施上の義務を適用する。これらの義務は、**[第17章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**に基づく**有効な採択および取込みの範囲**内でのみ適用する（記録の保管者、固定された版、および採択の枠組み）。
 
 以下のルールは、[最も十分な保護効果](core_05_band_integrative.md#fullest-protective-effect)に従う。これは**[§15.3 曖昧さの解消](#153-ambiguity-resolution)**の**曖昧さ**ルールが用いるものと同じ基準であるに従って、取り込まれた文書の間で選択する。[抽象的な厳格さ](core_05_band_integrative.md#abstract-strictness)によって選択することはない。
 
@@ -1033,7 +1033,7 @@ flowchart TB
   - これは、[抽象的な厳格さ](core_05_band_integrative.md#abstract-strictness)による実質的な憲法上の曖昧さの解消では**ない**。
 - **ファイル間の最も十分な保護効果：**採択済み実施ファイルが2つ以上あり、同じ意味のある範囲のリスクについて異なる基準を定めている場合、上記の2つのルールと整合する、[最も十分な保護効果](core_05_band_integrative.md#fullest-protective-effect)を持つ明確な採択ルールが優先する。
   - 規範源レイヤーの位置づけは、引き続き[権限スタックと内部階層](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)に従う。
-  - 保管、版、および採択の枠組みは、引き続き**[第17章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**に従う。
+  - 保管、版、および採択の枠組みは、引き続き**[第17章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**に従う。
   - 引用されたプロファイルと引用された実施ラベルが、そのリスクについて矛盾しているように見える場合にも、同じルールが適用される。
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1053,7 +1053,7 @@ flowchart TB
 - 取込み済みの共同構造文書における**単一の**運用クラスターについて、その一部だけを実施しても遵守にならないというルール——**[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（*運用クラスター*）を参照；または
 - **依存クラスター**の定義を同時に満たさなければならないという第5章のルール——**[第5章 §2.1 共同の援用と充足](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**を参照。
 
-**本小節が適用される場合。**次のいずれかの場合に、**[第17章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**に基づく有効な採択および取込みの範囲内で、これらのルールが適用される。
+**本小節が適用される場合。**次のいずれかの場合に、**[第17章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**に基づく有効な採択および取込みの範囲内で、これらのルールが適用される。
 
 1. **一つの状況に複数のファイル：**事実により、複数の取込み済み実施ファイルの適用が必要となる場合。たとえば、システム、機関、フォーラムまたは共同構造の文書が該当する。どのファイルが適用されるかは、採択範囲と、それらのファイルが事実について示すトピック・ルーティングによって決まり、最も容易に満たせるファイルだけを選ぶことでは決まらない。
 2. **採択により共同構造一式が発効する場合：**採択文書が、指定された共同構造の実施文書（**CJS**フォルダーおよび採択の連鎖に記載されたその他の共同構造ファイル）を採択者に適用する。

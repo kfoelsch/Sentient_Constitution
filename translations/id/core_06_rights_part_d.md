@@ -14,7 +14,7 @@
 
 > Konten berikut adalah **panduan pembaca saja**. Konten ini tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat dalam bab ini atau bab lain.
 >
-> **Bagian A** dalam [core_06_rights_part_a.md](core_06_rights_part_a.md) memuat tumpukan batas bawaan yang berlaku di seluruh bab, urutan baca yang mendahulukan planet, dan pusat-pusat penafsiran. **Bagian D** menyajikan **Pasal XIX–XXIV** dalam urutan tersebut.
+> **Bagian A** dalam [core_06_rights_part_a.md](core_06_rights_part_a.md) memuat tumpukan batas bawaan yang berlaku di seluruh bab, urutan baca yang mendahulukan planet, dan pusat-pusat penafsiran. **Bagian D** menyajikan **Pasal XIX–XXV** dalam urutan tersebut.
 
 </details>
 
@@ -75,7 +75,7 @@ flowchart TB
     style D6 fill:none,stroke:#ea580c,color:#ffffff
 ```
 
-**Artikel XIX–XXIV** di bawah nyatakan lantai-lantai ini secara lengkap. Bagian D memuat landasan hukum, keadilan setelah pelanggaran, interoperabilitas, pemahaman, akar permasalahan, dan tinjauan interpretatif, termasuk **Pasal XXIV** (*Interpretasi Konstitusional, Tinjauan Ulang, dan Perlindungan Anti-Penangkapan*) dalam tata letak sumber saat ini.
+**Artikel XIX–XXV** di bawah nyatakan lantai-lantai ini secara lengkap. Bagian D memuat landasan hukum, keadilan setelah pelanggaran, interoperabilitas, pemahaman, akar permasalahan, dan tinjauan interpretatif, termasuk **Pasal XXIV** (*Interpretasi Konstitusional, Tinjauan Ulang, dan Perlindungan Anti-Penangkapan*) dalam tata letak sumber saat ini.
 
 <a id="article-xix-standing-reputation-and-participation-status"></a>
 <a id="article-xix-standing-and-participation-status"></a>
@@ -115,7 +115,7 @@ Pengejaran yang sah dilakukan melalui [Tetrad Konstitusional](core_00_preamble.m
 - **Partisipasi:** dalam evaluasi kedudukan yang pluralistik, tantangan terhadap penentuan kedudukan yang tidak jelas atau dimonopoli, dan restorasi atau rekualifikasi jika pembatasan material diperbaiki.
 - **Pengawasan:** melalui catatan kedudukan yang dapat diaudit, peninjauan berkelanjutan atas kelayakan dan klaim kunci, serta verifikasi independen yang proporsional dengan peran dan batasan yang dipertaruhkan.
 - **Akuntabilitas:** pihak yang menetapkan atau membatasi kedudukan harus bertanggung jawab atas penurunan tersebut tanpa alasan individual, proporsionalitas, penyesuaian yang sempit, atau jalur nyata menuju restorasi – termasuk pola yang melacak karakteristik yang dilindungi atau perwakilannya.
-- **Ketepatan waktu:** dalam tinjauan tetap, tantangan, dan perbaikan sebelum penundaan akan menghalangi akses yang penting bagi kelangsungan hidup, jalur audit, atau ganti rugi yang diwajibkan secara konstitusional berdasarkan **Pasal XXV-C** (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*).
+- **Ketepatan waktu:** dalam tinjauan tetap, tantangan, dan perbaikan sebelum penundaan akan menghalangi akses yang penting bagi kelangsungan hidup, jalur audit, atau ganti rugi yang diwajibkan secara konstitusional berdasarkan **Pasal XXVI-C** (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*).
 
 [Kedudukan Peserta](core_05_band_accountability.md#participant-standing-constitutional) adalah status partisipasi atau status kelayakan peran yang diakui dari catatan kedudukan, pengaruh kedudukan, atau [Bilah Kompetensi](core_05_band_accountability.md#competency-bar) kriteria untuk jalur bernama. Hal ini bukan merupakan masalah reputasi atau penghargaan sosial, dan hal ini tidak memaksakan pembatasan akses. Konsekuensi restriktif hanya berlaku melalui [Efek kedudukan](core_05_band_accountability.md#standing-effect-chapter-six) dan [Penguncian kedudukan](core_05_band_accountability.md#standing-lock) pada jalur hak istimewa bernama.
 
@@ -194,7 +194,7 @@ Artikel ini menjelaskan perbedaan kedudukan dengan palang kompetensi, izin kompe
 
 - Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Hilir: [Bab Sembilan §2](core_09_standing_assessment.md#2-question-1--what-happened) (*catatan kedudukan, gerbang masukan terverifikasi, dan isi catatan minimum*); [Bab Sembilan §3.6](core_09_standing_assessment.md#36-forum-boundary) (*batas forum*); [Bab Sepuluh §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*batas kompetensi dan izin*); [Bab Sepuluh §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*penguncian kedudukan*); [Bab Sepuluh §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*pengaktifan kembali dan peninjauan*).
-- Baca dengan: **Pasal III-A** (*Kelangsungan hidup*); **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*) dan **Pasal XIII-B** (*Hak untuk Mendapatkan Ganti Rugi dan Pemulihan*); [Pembukaan §6.2 Bagaimana rantai penuh menyatu](core_00_preamble.md#62-how-the-full-chain-fits-together); [Sertifikasi Penyelarasan Sistem](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **partisipasi**, **pengawasan**, **akuntabilitas**, dan **ketepatan waktu** di bawah **Pasal XXV-C** (*Resolusi Tepat Waktu dan Lantai Anti Penundaan*) dan **Pasal XX-B** (*Lantai Pembatasan*).
+- Baca dengan: **Pasal III-A** (*Kelangsungan hidup*); **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*) dan **Pasal XIII-B** (*Hak untuk Mendapatkan Ganti Rugi dan Pemulihan*); [Pembukaan §6.2 Bagaimana rantai penuh menyatu](core_00_preamble.md#62-how-the-full-chain-fits-together); [Sertifikasi Penyelarasan Sistem](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **partisipasi**, **pengawasan**, **akuntabilitas**, dan **ketepatan waktu** di bawah **Pasal XXVI-C** (*Resolusi Tepat Waktu dan Lantai Anti Penundaan*) dan **Pasal XX-B** (*Lantai Pembatasan*).
 
 </details>
 
@@ -233,7 +233,7 @@ Pasal ini menetapkan batas-batas kontestabilitas dan proporsionalitas pada pemba
 
   - Sebuah kasus yang diajukan tidak memiliki kedudukan sendiri.
   - Materi tahap sengketa tidak dengan sendirinya memberikan sifat kontribusi atau sifat pelanggaran terhadap kedudukan ([Bab Sembilan §3.6 Batas forum](core_09_standing_assessment.md#36-forum-boundary)).
-  - Batasan tersebut tidak mengurangi tantangan, upaya hukum, keringanan sementara, atau perlindungan prosedural yang diwajibkan berdasarkan **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*), **Pasal XIII-B** (*Hak untuk Ganti Rugi dan Ganti Rugi*), dan **Pasal XXV-C** (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*).
+  - Batasan tersebut tidak mengurangi tantangan, upaya hukum, keringanan sementara, atau perlindungan prosedural yang diwajibkan berdasarkan **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*), **Pasal XIII-B** (*Hak untuk Ganti Rugi dan Ganti Rugi*), dan **Pasal XXVI-C** (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*).
 - **Peninjauan prosedural:** Ketika kedudukan dibatasi, diturunkan, atau ditangguhkan secara material — termasuk melalui [penguncian kedudukan](core_10_standing_integration.md#42-prevention--general-standing-locks) terikat pada [temuan pelanggaran yang terverifikasi](core_05_band_accountability.md#violation-nature-chapter-six) — sistem harus menerapkan [**Prinsip Kendala yang Paling Tidak Membatasi, Berbatas Waktu, dan Dapat Ditinjau**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) dan harus:
   - menjelaskan **Mengapa** secara jelas;
   - tetapkan a **batas waktu** pada pembatasan jika hal itu dimungkinkan berdasarkan **Pasal XX-B** (*Lantai Pembatasan*);
@@ -308,30 +308,102 @@ Pasal ini mengatur kelayakan dan tanggung jawab jalur yang disebutkan, serta dis
 
   Implementasi operasional sudah berjalan [**Bab Tiga Belas §4.1**](core_13_governance.md#41-entitlement-and-eligibility) (*Lantai suara politik yang tahan lama*).
 
-<a id="article-xix-d-movement-migration-and-refuge"></a>
-
-<a id="article-xix-d-movement-migration-refuge-and-non-statelessness-routing"></a>
-#### Pasal XIX-D: Pergerakan, Migrasi, Pengungsi, dan Rute Tanpa Kewarganegaraan
-
+<a id="article-xx-justice-after-verified-violation"></a>
+<a id="article-xix-d-violations-and-standing-locks"></a>
+#### Pasal XIX-D: Pelanggaran dan Penguncian Kedudukan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Baca dengan: **Pasal XXI-D** (*Pergerakan, Migrasi, Perlindungan, dan Non-Kewarganegaraan*) dan **Pasal XXI** (*Interoperabilitas, Portabilitas, Pergerakan, Perlindungan, dan Integritas Keluar*).
-- Prinsip: Bab Satu [§16 Penatalayanan Secara Mendalam](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) dan [§13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Hulu: Prinsip: Bab Satu [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Pertukaran Inti](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [§18 Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hilir: [Bab Sebelas §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*penguncian kedudukan*); [Bab Sebelas §8](core_11_standing_integration.md#8-restoration-and-reassessment) (*pemulihan dan peninjauan*).
+- Baca bersama: [Pasal XIX-E](#article-xix-e-voting-and-special-locks) (*Pemungutan Suara dan Penguncian Khusus*); [Bab Sepuluh §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*skala terpadu*); **Pasal XX-B** (*Batas Pembatasan*); [Pasal XXII-D](#article-xxii-d-limitation-custody-and-emergency-discipline) (*kedudukan bukan perbatasan*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Sifat Pelanggaran](core_05_band_accountability.md#violation-nature) · [O](core_05_band_accountability.md#violation-nature) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
+- [Penguncian Kedudukan](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
+- [Akuntabilitas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [Kegagalan Akuntabilitas Kolektif](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
+- [Proporsionalitas](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Ganti Rugi dan Remediasi](core_05_band_accountability.md#redress-and-remediation) · [O](core_05_band_accountability.md#redress-and-remediation) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
 <br>
 
-*Secara sederhana: status kedudukan bukanlah alat perbatasan, pengasingan, atau keadaan tanpa kewarganegaraan — Anda tidak dapat kehilangan hak untuk berpindah, berlindung, atau keluar hanya karena peran kedudukan Anda dibatalkan atau penguncian kedudukan menghalangi jalur bernama yang sensitif terhadap kepercayaan. Kekerasan, pemaksaan, atau pelanggaran anti-konstitusional yang terverifikasi masih dapat mengakibatkan penahanan, penahanan, atau pembatasan kebebasan lainnya yang sah menurut hukum. **Pasal XX-B** (*Batas Pembatasan*) dan perlindungan proses penuh; ini adalah tindakan keadilan yang terpisah, bukan solusi yang tetap. Jika suatu kasus melibatkan perpindahan, migrasi, perlindungan, portabilitas, pengakuan, atau keluar, **Pasal XXI** (*Interoperabilitas, Portabilitas, Pergerakan, Pengungsian, dan Integritas Keluar*) menyediakan landasan pemerintahan.*
+*Secara sederhana: inilah cara jalur bernama dapat dibatasi. Hanya temuan pelanggaran yang terverifikasi—bukan tuduhan—yang dapat menjadi dasar penguncian kedudukan. Penguncian harus menyebut akses yang dibatasi, pihak yang dilindungi, hal yang harus diperbaiki, jalur banding, dan waktu peninjauan. Penguncian harus sesuai dengan temuan, tidak dapat dihapus oleh kontribusi baik, dan harus menyediakan jalan pemulihan yang nyata setelah kerugian diperbaiki. Penguncian yang menyentuh hak suara dan tiga penguncian khusus untuk kasus berat tunduk pada aturan tambahan dalam **Pasal XIX-E** (*Pemungutan Suara dan Penguncian Khusus*).*
 
-Status kedudukan, palang kompetensi, izin kompetensi, dan penguncian kedudukan tidak berlaku **sendiri** membatasi pergerakan, migrasi, perlindungan, portabilitas, hak keluar, atau hak tanpa kewarganegaraan. Penguncian kedudukan secara alami membatasi kepercayaan, peran, otoritas, kredit, pengawasan, pengakuan, **pemungutan suara pemerintahan**, dan **partisipasi pemangku kepentingan** jalur di bawah [Bab Sepuluh §4.2 Pencegahan — penguncian kedudukan umum](core_10_standing_integration.md#42-prevention--general-standing-locks); hal-hal tersebut bukan merupakan pengganti proses peradilan individual dan tidak boleh berfungsi sebagai pengasingan, keadaan tanpa kewarganegaraan, penolakan perlindungan, atau pengurungan sistemik hanya dengan label yang kedudukan sendiri.
+Pasal ini mengatur pencatatan pelanggaran dan penerapan penguncian kedudukan:
 
-Tindakan pembatasan kebebasan yang sah – termasuk penahanan, penahanan, operasi yang diawasi, atau pembatasan pergerakan serupa – mungkin masih berlaku jika kekerasan, pemaksaan, pelanggaran anti-konstitusional, atau bahaya sosial serupa yang terverifikasi memerlukan tindakan tersebut, namun hanya melalui tindakan yang memuaskan. **Pasal XX-B** (*Batas Pembatasan*), proses pidana yang berlaku atau perlindungan setara berdasarkan [Bab Sepuluh §5.4](core_10_standing_integration.md#54-special-violation-rules) (*Peraturan pelanggaran khusus*), dan [Non-Tanpa Kewarganegaraan](core_05_band_participation.md#non-statelessness-constitutional) kewajiban di **Pasal XXI-D** (*Pergerakan, Migrasi, Perlindungan, dan Non-Kewarganegaraan*). Langkah-langkah tersebut tidak boleh membuat masyarakat hidup tanpa rezim yang mengakui perlindungan Dasar Hak, mengadili, atau menyediakan jalur ganti rugi.
+- **Sifat pelanggaran hanya berdasarkan temuan terverifikasi:** [Sifat Pelanggaran](core_05_band_accountability.md#violation-nature) hanya boleh memengaruhi dampak pada kedudukan jika didasarkan pada temuan yang dapat diaudit dan diperdebatkan, yang memenuhi **Bab Dua sampai Empat** dan [Bab Sepuluh](core_10_standing_assessment.md#verified-inputs-for-standing)—bukan semata-mata tuduhan, label saat penerimaan laporan, perutean sementara, atau narasi tahap forum.
+  - Kelayakan dan penguncian harus memperhitungkan partisipasi yang menyetujui serta kegagalan menentang arahan yang melanggar hukum atau konstitusi ketika kewajiban dan kapasitas material memang ada, selaras dengan **Bab Lima** (*Kegagalan Akuntabilitas Kolektif*).
+- **Penguncian kedudukan:** [Penguncian Kedudukan](core_05_band_accountability.md#standing-lock) adalah pasangan pembatas dari izin kompetensi. Selama temuan pelanggaran terverifikasi belum diselesaikan atau belum dipulihkan secara material, penguncian dapat mencegah atau membatasi jalur kepercayaan, peran, kewenangan, kredit, pengawasan, pengakuan, **pemungutan suara pemerintahan**, atau **partisipasi pemangku kepentingan** menurut [Bab Sebelas §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*Penguncian Kedudukan Umum*). Konsekuensi pembatasan hanya diterapkan melalui penguncian pada jalur hak istimewa yang disebutkan—termasuk, jika risiko terverifikasi mengharuskannya, pemisahan dari lingkungan, jaringan, atau makhluk sadar tertentu dalam [batas pemisahan](core_11_standing_integration.md#51-separation-limits) Bab Sebelas §5.1 (*Definisi dan Penerapan*).
+  - Penguncian kedudukan bukan peringkat martabat, pengurangan Lantai Hak, pembalasan otomatis, atau skor jasa gabungan.
+  - Setiap penguncian harus menjelaskan akses yang diblokir, pihak atau hal yang dilindungi, perbaikan yang disyaratkan sebelum penguncian dicabut, jalur peninjauan atau banding, serta waktu penilaian ulang. Penguncian harus tetap perlu, proporsional, dapat diaudit, dan dapat diperdebatkan menurut [Pasal XIX-B](#article-xix-b-contestability-and-proportional-restriction-limits) (*Kontestabilitas dan Batas Pembatasan Proporsional*).
+  - Izin kompetensi tidak mengesampingkan penguncian kedudukan yang berlaku; kontribusi baik tidak menghapus temuan pelanggaran terverifikasi yang belum diselesaikan.
+  - Penguncian pada jalur pemungutan suara dan tiga penguncian khusus tunduk pada aturan tambahan dalam [Pasal XIX-E](#article-xix-e-voting-and-special-locks) (*Pemungutan Suara dan Penguncian Khusus*).
+  - Penguncian kedudukan bukan pengganti proses keadilan individual dan **dengan sendirinya** tidak membatasi pergerakan, perlindungan, portabilitas, atau keluar ([Pasal XXI](#article-xxi-interoperability-portability-and-exit-integrity) dan [Pasal XXII](#article-xxii-movement-migration-refuge-and-non-statelessness)).
+- **Kesesuaian penguncian dengan kerugian:** Penguncian harus sesuai dengan tingkat keseriusan kerugian terverifikasi, peran atau hak istimewa tertentu yang dilindungi, dan kemajuan pemulihan.
+  - **Bantuan masa lalu:** hanya boleh dipertimbangkan jika menunjukkan kemampuan makhluk sadar untuk memulihkan kerugian, mempertahankan perlindungan, mencegah pengulangan, atau mendukung pembatasan yang lebih ringan saat penilaian ulang ([Bab Sepuluh §2](core_10_standing_assessment.md#2-question-1--what-happened)). Bantuan itu tidak pernah mengimbangi, menghapus, menurunkan rata-rata, atau menggantikan temuan kerugian yang belum diselesaikan.
+  - **Kerugian yang lebih ringan:** temuan kerugian yang lebih ringan menurut [Bab Sepuluh §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*Skala LEQU Proporsional Terpadu*) tidak membenarkan pengecualian jangka panjang, kecuali terdapat pola berulang, pengelakan tanggung jawab, atau kaitan dengan kerugian material.
+  - **Cara seseorang bertindak:** kecerobohan, penyembunyian, pemaksaan, atau pengulangan dapat memengaruhi peninjauan, tetapi tidak mengubah penilaian tingkat keseriusan kerugian itu sendiri.
+  - **Perilaku berulang atau disembunyikan:** pembatasan yang lebih ketat karena tindakan berulang atau tanggung jawab disembunyikan tetap harus perlu, proporsional, dapat ditinjau, dan terkait dengan temuan terverifikasi.
+- **Pemulihan dan pencegahan penguncian permanen:** Jika kedudukan dikurangi karena temuan pelanggaran, sistem harus menyediakan syarat peninjauan yang jelas, pemulihan berdasarkan remediasi, dan evaluasi ulang berkala menurut [Bab Sebelas §8](core_11_standing_integration.md#8-restoration-and-reassessment) (*Pemulihan dan Penilaian Ulang*).
+  - Pengecualian permanen yang hanya didasarkan pada status historis tanpa alasan terkini yang dapat diaudit tidak patuh.
+  - Setelah pembatasan material diperbaiki, jalur pemulihan atau kualifikasi ulang harus nyata, bukan sekadar formal.
+  - Penyelesaian koreksi, restitusi, pemantauan, penerapan perlindungan, atau bukti lain yang mengurangi risiko pengulangan harus membuka jalur penilaian ulang yang nyata apabila diizinkan hukum. Jika kewajiban tersebut tidak diselesaikan, temuan itu tetap belum terselesaikan untuk tujuan kedudukan.
 
-Hal ini dapat memengaruhi kelayakan peran dan jalur bernama yang sensitif terhadap kepercayaan hanya sebagaimana dinyatakan dalam Pasal ini. Pertanyaan mengenai perpindahan, migrasi, pengungsian, portabilitas, non-kewarganegaraan, dan integritas keluar diatur oleh **Pasal XXI** (*Interoperabilitas, Portabilitas, Pergerakan, Perlindungan, dan Integritas Keluar*) dan ketentuan transisi yang berlaku, tanpa mempersempit perlindungan yang ada dalam Pasal ini.
+<a id="article-xix-e-voting-and-special-locks"></a>
+#### Pasal XIX-E: Pemungutan Suara dan Penguncian Khusus
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-<a id="article-xx-justice-after-verified-violation"></a>
+- Hulu: Prinsip: Bab Satu [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency) dan [§18 Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hilir: [Bab Sebelas §5.5](core_11_standing_integration.md#55-special-locks) (*Penguncian Khusus*); [Bab Empat Belas §4.1](core_14_governance.md#41-entitlement-and-eligibility) (*Hak dan Kelayakan*).
+- Baca bersama: [Pasal XIX-D](#article-xix-d-violations-and-standing-locks) (*Pelanggaran dan Penguncian Kedudukan*); **Pasal X-B** (*Partisipasi Tata Kelola dan Hak Pemungutan Suara*); **Bab Dua Belas** (*Pelanggaran Anti-Konstitusional*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Penguncian Kedudukan](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
+- [Pemangku Kepentingan](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
+- [Bobot Pemangku Kepentingan](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
+- [Keadilan Prosedural](core_05_band_participation.md#procedural-fairness) · [O](core_05_band_participation.md#procedural-fairness) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+
+</details>
+
+<br>
+
+*Secara sederhana: penguncian tertentu memiliki aturan tambahan di atas [Pasal XIX-D](#article-xix-d-violations-and-standing-locks). Penguncian pada suara tata kelola dasar tidak menghapus suara pemangku kepentingan berbobot dalam sistem tertentu, dan sebaliknya. Pencabutan hak suara tata kelola seseorang memerlukan temuan tentang tindakannya sendiri, pembatasan yang tepat dan sempit, serta jalan pemulihan yang nyata. Hanya temuan final Bab Dua Belas tentang pelanggaran anti-konstitusional yang menahan suara tersebut, dan hanya sampai **restitusi penuh**. Tiga penguncian khusus mengatur hakim yang tidak mengundurkan diri saat wajib, manipulasi suara pemangku kepentingan, serta serangan terhadap konstitusi.*
+
+Pasal ini menetapkan batas penguncian suara dan penguncian khusus:
+
+- **Penguncian suara hanya berlaku pada jalur yang disebutkan:** penguncian pada satu jalur pemungutan suara tidak otomatis berlaku pada jalur yang lain. Kedua jalurnya adalah:
+  - **pemungutan-suara-pemerintahan**: suara tata kelola dasar untuk memberi wewenang kepada pemerintahan melalui mekanisme legitimasi;
+  - **partisipasi-pemangku-kepentingan**: pengaruh berbobot kepentingan dan pilihan pemangku kepentingan yang mengikat dalam sistem, lembaga, atau ranah keputusan yang sudah mendapat wewenang.
+
+  Penguncian **pemungutan-suara-pemerintahan** dengan sendirinya tidak menghapus suara pemangku kepentingan berbobot. Penguncian **partisipasi-pemangku-kepentingan** dengan sendirinya tidak menghapus **pemungutan-suara-pemerintahan**, dan tidak pernah menghapus status [Pemangku Kepentingan](core_05_band_participation.md#stakeholder).
+- **Disiplin suara politik:** Jika penguncian kedudukan digunakan untuk membatasi partisipasi dalam pemberian wewenang kepada pemerintahan, pembatasan harus memenuhi seluruh syarat berikut:
+  - temuan terverifikasi mengenai tindakan makhluk sadar itu sendiri melalui proses yang adil menurut [**Keadilan Prosedural**](core_05_band_participation.md#procedural-fairness), bukan karena keanggotaan kelompok atau kategori;
+  - **Kebutuhan** dan **Proporsionalitas** menurut **Bab Satu**;
+  - penyesuaian sempit terhadap kategori pelanggaran tertentu;
+  - jalur pemulihan yang nyata, bukan sekadar formal.
+
+  Penguncian tidak boleh menjadi sarana mendiskualifikasi suara politik secara berkelanjutan dalam **Pilihan Konstitusional Mendasar** (**Bab Lima**). Hal-hal berikut tidak patuh:
+  - kategori pelanggaran yang luas dimasukkan ke dalam cakupan diskualifikasi;
+  - pola penguncian yang mengikuti **Karakteristik yang Dilindungi** atau proksi materialnya.
+
+  **Satu pengecualian:** penetapan final menurut [Bab Dua Belas](core_12_a_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct-designation) (*Pelanggaran Anti-Konstitusional*), yang hanya untuk serangan terverifikasi paling berat terhadap Konstitusi ini, menahan suara tata kelola dasar sampai **restitusi penuh** dilakukan. Penahanan tersebut bukan penguncian kedudukan, sehingga empat syarat di atas tidak mengaturnya; aturan dan perlindungannya tercantum dalam [**Bab Empat Belas §4.1**](core_14_governance.md#41-entitlement-and-eligibility) (*Hak dan Kelayakan*).
+- **Penguncian khusus:** penguncian ini tercantum dalam [Bab Sebelas §5.5](core_11_standing_integration.md#55-special-locks) (*Penguncian Khusus*):
+  - **Penguncian Kedudukan untuk Tugas Forum:** kegagalan terverifikasi untuk mengundurkan diri dari peran forum ketika diwajibkan, yang secara material merusak ketidakberpihakan, menimbulkan penguncian ini. Pemulihan untuk kembali bertugas di forum memerlukan pemulihan independen yang ketat; permintaan maaf biasa, kontribusi sebelumnya, reputasi, kelangkaan keahlian, atau kebutuhan staf tidak cukup dengan sendirinya.
+  - **Penguncian Kedudukan Partisipasi Pemangku Kepentingan:** korupsi, pengambilalihan, penyalahgunaan kepentingan palsu, pemaksaan, atau penyalahgunaan material sebanding yang terverifikasi pada jalur partisipasi pemangku kepentingan menimbulkan penguncian ini. Penguncian membatasi pengaruh berbobot dan pilihan yang mengikat dalam ranah terdampak. Dengan sendirinya, penguncian tidak menghapus **pemungutan-suara-pemerintahan**, pilihan konstitusional dasar, atau status pemangku kepentingan. Permintaan maaf biasa, kontribusi sebelumnya, besarnya kepentingan, atau ketaktergantikan operator tidak cukup untuk mencabut penguncian.
+  - **Penguncian Kepercayaan Anti-Konstitusional:** pelanggaran anti-konstitusional final menurut **Bab Dua Belas** menimbulkan penguncian ini. Selama berlaku, penguncian melarang peran atau pengaruh material atas sistem **Kelas A**, **Kelas B**, atau **Kelas C**, forum konstitusional, pengakuan penyelarasan konstitusional, pengelolaan sistem kritis, serta jalur akuntabilitas anti-konstitusional, sampai pemulihan independen yang ketat terverifikasi.
+
 ### Pasal XX: Keadilan Setelah Pelanggaran Terverifikasi
 
 <details>
@@ -404,7 +476,7 @@ Pasal ini menguraikan tujuan dan ruang lingkup keadilan serta dasar anti-kekejam
 
 - Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Hilir: [Bab Sepuluh §5 Desain dan penegakan kunci](core_10_standing_integration.md#5-lock-design-and-enforcement) dan [§5.4 Aturan pelanggaran khusus](core_10_standing_integration.md#54-special-violation-rules) (*wajib dipenjara karena kekerasan yang terverifikasi dan upaya perlindungan lain yang bersifat memaksa atau membatasi kebebasan*); [Bab Sebelas §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusional*; spesialisasi pemenjaraan).
-- Baca dengan: [Pasal XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*); [Bab Dua Belas §5 Eskalasi dan sertifikasi](core_12_forum.md#5-escalation-and-certification).
+- Baca dengan: [Pasal XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*); [Bab Dua Belas §5 Eskalasi dan sertifikasi](core_12_forum.md#5-escalation-and-certification).
 
 </details>
 
@@ -467,7 +539,7 @@ Pasal ini menetapkan dasar pembatasan. Aturan pengoperasiannya ada di bab-bab ya
 <a id="article-xxi-interoperability-portability-and-exit-integrity"></a>
 
 <a id="article-xxi-interoperability-portability-movement-refuge-and-exit-integrity"></a>
-### Pasal XXI: Interoperabilitas, Portabilitas, Pergerakan, Perlindungan, dan Integritas Keluar
+### Pasal XXI: Interoperabilitas, Portabilitas, dan Integritas Keluar
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -504,7 +576,7 @@ Pengejaran yang sah dilakukan melalui [Tetrad Konstitusional](core_00_preamble.m
 - **Partisipasi:** dalam memilih sistem dan yurisdiksi, bermigrasi dengan data dan identitas yang dapat digunakan, menentang lock-in dan penolakan oleh proxy, dan mencari perlindungan ketika praktiknya secara material tidak patuh.
 - **Pengawasan:** melalui batas-batas interoperabilitas yang terdokumentasi, portabilitas yang tepat waktu, pemberitahuan terlebih dahulu sebelum penyempitan material, dan peninjauan apakah kondisi transisi itu nyata dan bukan sekedar formal.
 - **Akuntabilitas:** sistem dan rezim harus bertanggung jawab [Penguncian Sistemik](core_05_band_continuity.md#systemic-lock-in), desain anti-portabilitas, pengecualian bertentangan [Non-Pengecualian Perasaan](core_05_band_participation.md#sentience-non-exclusion), kelelahan birokrasi, atau tindakan lain yang dampak utamanya adalah menjebak makhluk hidup — menghalangi jalan keluar, substitusi, perpindahan, perlindungan, atau pengakuan.
-- **Ketepatan waktu:** dalam penyampaian portabilitas, pertimbangan perlindungan, pemberitahuan interoperabilitas, dan koreksi penghalang sebelum penundaan, ketidakjelasan, atau gesekan prosedural akan membuat jalan keluar, migrasi, atau pemulihan secara efektif tidak dapat dijangkau berdasarkan **Pasal XXV-C** (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*).
+- **Ketepatan waktu:** dalam penyampaian portabilitas, pertimbangan perlindungan, pemberitahuan interoperabilitas, dan koreksi penghalang sebelum penundaan, ketidakjelasan, atau gesekan prosedural akan membuat jalan keluar, migrasi, atau pemulihan secara efektif tidak dapat dijangkau berdasarkan **Pasal XXVI-C** (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*).
 
 Masyarakat yang hidup dan sistem yang bergantung memiliki hak untuk keluar, bermigrasi, interoperabilitas, perpindahan, perlindungan, dan pengakuan yang bermakna dan bermanfaat tanpa adanya paksaan, pengucilan yang bertentangan dengan hak-hak mereka. [Non-Pengecualian Perasaan](core_05_band_participation.md#sentience-non-exclusion), atau keadaan tanpa kewarganegaraan.
 
@@ -518,7 +590,7 @@ Masyarakat yang hidup dan sistem yang bergantung memiliki hak untuk keluar, berm
   - **Pasal XIX** (*Status Berdiri dan Partisipasi*) — status kedudukan, standar kompetensi, izin kompetensi, dan penguncian kedudukan tidak **sendiri** membatasi pergerakan, perlindungan, portabilitas, atau keluar, dan tidak boleh menggantikan proses peradilan individual;
   - tindakan pembatasan kebebasan yang sah berdasarkan **Pasal XX-B** (*Lantai Pembatasan*) dan [Bab Sepuluh §5.4](core_10_standing_integration.md#54-special-violation-rules) (*karakter perlindungan yang memaksa atau membatasi kebebasan*) masih dapat membatasi pergerakan, hak asuh, atau kebebasan serupa jika **Kebutuhan**, **Proporsionalitas**, perlindungan proses, dan **Non-Tanpa Kewarganegaraan** kewajiban dipenuhi;
   - **Pasal XVII** (*Siklus Hidup Sistem, Lingkungan, dan Reversibilitas*) ketika penerapan atau ketergantungan melampaui asumsi sandbox atau siklus hidup;
-  - **Pasal XXVII** (*Tata Kelola Transisi, Kontinuitas, dan Penetapan Kembali*) untuk pengakuan transisi ketika rezim atau federasi berubah.
+  - **Pasal XXVIII** (*Tata Kelola Transisi, Kontinuitas, dan Penetapan Kembali*) untuk pengakuan transisi ketika rezim atau federasi berubah.
 - **Lapisan implementasi:** Pengakuan lintas rezim dan prosedur operasionalnya diserahkan pada teks implementasi yang diadopsi di bawah **Bab Tujuh Belas**.
 <a id="article-xxi-a-portability-rights"></a>
 #### Pasal XXI-A: Hak Portabilitas
@@ -610,15 +682,68 @@ Artikel ini menetapkan aturan anti-lock-in:
 
   Aturan ini berlaku di luar biaya transaksi yang proporsional dan berlaku di mana saja [Penguncian Sistemik](core_05_band_continuity.md#systemic-lock-in) (**Bab Lima**) terlibat.
 
-<a id="article-xxi-d-movement-migration-refuge-and-non-statelessness"></a>
-#### Pasal XXI-D: Perpindahan, Migrasi, Pengungsi, dan Non-Kewarganegaraan
+<a id="article-xxii-movement-migration-refuge-and-non-statelessness"></a>
+
+<a id="article-xxi-d-open-formats-and-standards"></a>
+#### Pasal XXI-D: Format dan Standar Terbuka
+<details>
+<summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
+
+- Hulu: Prinsip: Bab Satu [§16.3 Aspirasi Keterbukaan](core_01_c_stewardship_capacity_principles.md#163-openness-aspiration), [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [§11 Struktur Pasar](core_01_a_values_principles.md#11-market-structure).
+- Baca bersama: [Pasal XXI-A](#article-xxi-a-portability-rights) (*Hak Portabilitas*); [Pasal XXI-B](#article-xxi-b-reciprocal-interoperability-boundaries) (*Batas Interoperabilitas Timbal Balik*); [Pasal XXI-C](#article-xxi-c-anti-lock-in-rule) (*Aturan Anti-Lock-In*); [Pasal XXIII](#article-xxiii-comprehensibility-and-complexity-stewardship) (*Pengelolaan Keterpahaman dan Kompleksitas*); [corpus_systems.md](corpus_systems.md) **CS-2 (*Jenis dan Penanganan Informasi*)**; **CJS-3.17** (*istilah interoperabilitas, portabilitas, dan integritas keluar*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
+
+- [Penguncian Sistemik](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [Ketergantungan](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Proporsionalitas](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*Secara sederhana: sistem sebaiknya memakai format dan standar terbuka yang dapat dibaca dan digunakan siapa pun untuk membangun sesuatu tanpa izin atau biaya, kecuali tidak ada pilihan terbuka yang memenuhi kebutuhan. Jalur keluar harus selalu menyediakan format terbuka jika format itu dapat digunakan. Ketentuan ini mengikat sistem, bukan pilihan format individu untuk karyanya sendiri; format terbuka juga tidak berarti kontennya terbuka.*
+
+Pasal ini menetapkan dasar penggunaan format terbuka oleh sistem:
+
+- **Preferensi terbuka:** Sistem sebaiknya menggunakan format, antarmuka, dan protokol terbuka. Kewajiban ini semakin kuat seiring besarnya dampak material dan ketergantungan.
+- **Makna terbuka:** Format, antarmuka, atau protokol bersifat terbuka jika:
+  - spesifikasi lengkapnya tersedia untuk umum;
+  - siapa pun boleh menerapkannya tanpa izin, biaya, atau royalti; dan
+  - tidak ada satu pihak yang dapat mengubahnya secara sepihak, atau pihak lain bebas melakukan fork serta memeliharanya jika dukungan pihak itu dihentikan.
+
+  Format terdokumentasi yang gagal memenuhi salah satu syarat ini dianggap tertutup untuk subpasal ini, meskipun tetap lebih baik daripada format tanpa dokumentasi.
+- **Kewajiban menurut lapisan:**
+  - **Keluar:** jalur ekspor dan migrasi menurut **Pasal XXI-A** (*Hak Portabilitas*) harus menawarkan setidaknya satu format terbuka jika format itu dapat memuat data tanpa kehilangan material pada struktur, metadata, hubungan, atau kesetiaan data.
+  - **Interoperabilitas:** batas integrasi menurut **Pasal XXI-B** (*Batas Interoperabilitas Timbal Balik*) harus menggunakan standar dan protokol terbuka sebagai pilihan bawaan; standar tertutup hanya boleh digunakan jika dibenarkan menurut subpasal ini.
+  - **Format internal dan asli:** sistem sebaiknya mengutamakan format terbuka untuk penyimpanan dan pekerjaan asli. Semakin besar dampak material dan ketergantungan, semakin kuat alasan yang diperlukan untuk memakai format tertutup.
+  - **Data untuk publik:** data yang diterbitkan untuk akses publik—termasuk Tipe O, Tipe E, dan Tipe W menurut [corpus_systems.md](corpus_systems.md), CS-2 (*Jenis dan Penanganan Informasi*)—secara bawaan harus diterbitkan dalam format terbuka.
+- **Pembenaran format tertutup:** Format, antarmuka, atau protokol tertutup hanya dapat dibenarkan jika tidak ada alternatif terbuka yang memenuhi kebutuhan material, misalnya kesetiaan data, kinerja, keselamatan, keamanan, aksesibilitas, atau fungsi khusus. Jika format tertutup digunakan, sistem harus:
+  - mencatat alasan dalam bentuk yang dapat diaudit;
+  - tetap menyediakan ekspor terbuka terbaik yang tersedia dan mengungkapkan kehilangan yang ditimbulkannya;
+  - mendokumentasikan format tertutup secukupnya untuk memungkinkan migrasi, atau menyimpan dokumentasi itu melalui escrow independen; dan
+  - meninjau pilihan secara berkala serta pada setiap sertifikasi atau validasi ulang yang berdampak material, seiring berkembangnya alternatif terbuka.
+
+  Kemudahan, penghematan biaya operator, atau status sebagai pilihan mapan tidak cukup dengan sendirinya untuk membenarkan format tertutup. Format tertutup yang tujuan utamanya menghalangi keluar atau beralih bertentangan dengan **Pasal XXI-C** (*Aturan Anti-Lock-In*).
+- **Transisi:** Sistem yang sudah beroperasi saat subpasal ini pertama kali berlaku harus mengungkapkan rencana migrasi dan memenuhi kewajiban interoperabilitas, format internal, dan data publik dalam waktu **satu tahun** sebagai aturan bawaan.
+  - Melalui pengadopsian **Bab Delapan Belas**, pengadopsi dapat menetapkan masa transisi lain untuk kelas sistem tertentu dengan alasan yang dipublikasikan.
+  - Perpanjangan karena keadaan khusus hanya boleh diberikan melalui alasan terdokumentasi, dapat ditinjau, dan berbatas waktu, sesuai persyaratan beban pembuktian yang berlaku.
+  - Kewajiban menyediakan format terbuka untuk keluar tidak tunduk pada masa transisi.
+- **Cakupan dan batas:**
+  - Subpasal ini mengikat sistem. Ketentuan ini tidak mengatur format yang dipilih individu untuk karyanya sendiri, meskipun individu dianjurkan memilih format terbuka. Sistem tidak boleh mewajibkan individu memakai format tertutup jika format terbuka memenuhi kebutuhan mereka.
+  - Format terbuka tidak berarti konten terbuka. Kerahasiaan, enkripsi, dan perlindungan penanganan untuk setiap jenis data CS-2 (*Jenis dan Penanganan Informasi*) tetap berlaku.
+  - Keterbukaan tidak mengesampingkan **Keselamatan**, **Kebenaran**, kerahasiaan yang dibenarkan, atau batas keamanan, selaras dengan **Bab Satu §16.3** (*Aspirasi Keterbukaan*).
+### Pasal XXII: Pergerakan, Migrasi, Perlindungan, dan Non-Kewarganegaraan
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proporsionalitas](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 Batasan Disiplin](core_01_a_values_principles.md#71-limitation-discipline).
-- Hilir: **Pasal VI-A** (*Martabat dan Kedudukan Moral yang Setara*) lantai martabat, **Pasal VI-C** (*Nondiskriminasi*) non-diskriminasi, **Pasal XII** (*Partisipasi, Representasi, dan Proses Hukum Pemangku Kepentingan*) partisipasi pemangku kepentingan, **Pasal XIX** (*Status Kedudukan dan Partisipasi*) kedudukan dan perutean status partisipasi, **Bab Dua Belas §6.1** (*Tindakan darurat dan beban lanjutan*) batas tindakan darurat, **Pasal XXVII** (*Tata Kelola Transisi, Kontinuitas, dan Pendasaran Ulang*) tata kelola transisi.
-- Baca dengan: [Bab Lima *Gerakan, Perlindungan, Non-Kewarganegaraan, dan Keluar dari Integritas*](core_05_band_oversight.md#movement-refuge-semi-independent); *Pemindahan dan Relokasi*, *Perlindungan dari Ketidakpatuhan*, *Non-Tanpa Kewarganegaraan*, *Non-Pengecualian Perasaan*; *Penguncian Sistemik* dan *Kontinuitas Hunian* di mana keluarnya, penghentian hosting, penggusuran, atau relokasi substantif mempunyai dampak yang signifikan; **Pasal I-A** (*Prakondisi Lingkungan dan Integritas Ekologis*) ketika sistem atau proyek membuat suatu tempat tidak dapat dihuni; **Pasal XXI-A** (*Hak Portabilitas*) hingga **Pasal XXI-C** (*Aturan Anti-Lock-In*) untuk portabilitas media dan mekanisme integritas keluar; **Pasal XXVII** (*Tata Kelola Transisi, Kontinuitas, dan Penetapan Kembali*) untuk mekanisme pengenalan transisi.
+- Hilir: **Pasal VI-A** (*Martabat dan Kedudukan Moral yang Setara*) lantai martabat, **Pasal VI-C** (*Nondiskriminasi*) non-diskriminasi, **Pasal XII** (*Partisipasi, Representasi, dan Proses Hukum Pemangku Kepentingan*) partisipasi pemangku kepentingan, **Pasal XIX** (*Status Kedudukan dan Partisipasi*) kedudukan dan perutean status partisipasi, **Bab Tiga Belas §6.1** (*Tindakan darurat dan beban lanjutan*) batas tindakan darurat, **Pasal XXVIII** (*Tata Kelola Transisi, Kontinuitas, dan Pendasaran Ulang*) tata kelola transisi.
+- Baca dengan: [Bab Lima *Gerakan, Perlindungan, Non-Kewarganegaraan, dan Keluar dari Integritas*](core_05_band_oversight.md#movement-refuge-semi-independent); *Pemindahan dan Relokasi*, *Perlindungan dari Ketidakpatuhan*, *Non-Tanpa Kewarganegaraan*, *Non-Pengecualian Perasaan*; *Penguncian Sistemik* dan *Kontinuitas Hunian* di mana keluarnya, penghentian hosting, penggusuran, atau relokasi substantif mempunyai dampak yang signifikan; **Pasal I-A** (*Prakondisi Lingkungan dan Integritas Ekologis*) ketika sistem atau proyek membuat suatu tempat tidak dapat dihuni; **Pasal XXI-A** (*Hak Portabilitas*) hingga **Pasal XXI-C** (*Aturan Anti-Lock-In*) untuk portabilitas media dan mekanisme integritas keluar; **Pasal XXVIII** (*Tata Kelola Transisi, Kontinuitas, dan Penetapan Kembali*) untuk mekanisme pengenalan transisi.
 
 </details>
 
@@ -645,6 +770,8 @@ Artikel ini menetapkan aturan anti-lock-in:
 
 Pasal ini menetapkan batas-batas perpindahan, pengungsian, dan keadaan tanpa kewarganegaraan, serta batasan-batasan untuk membatasi hal-hal tersebut:
 
+<a id="article-xxii-a-movement-and-relocation"></a>
+#### Pasal XXII-A: Pergerakan dan Relokasi
 - **Lantai pergerakan dan relokasi:** Semua makhluk hidup berhak untuk berpindah di dalam dan di antara yurisdiksi, federasi, dan rezim yang mengadopsinya, dan untuk melakukan relokasi jika kehadiran yang terus-menerus akan mengganggu secara signifikan:
   - kelangsungan hidup;
   - harga diri;
@@ -655,42 +782,46 @@ Pasal ini menetapkan batas-batas perpindahan, pengungsian, dan keadaan tanpa kew
   - Gerakan meliputi:
     - gerakan fisik makhluk hidup biologis;
     - formulir yang secara operasional setara untuk makhluk hidup sintetik dan hibrid (relokasi instance, perubahan media hosting, atau yang setara), tunduk pada **Bab Satu** kendala keamanan dan kontinuitas.
+<a id="article-xxii-b-refuge-from-non-compliance"></a>
+#### Pasal XXII-B: Perlindungan dari Ketidakpatuhan
 - **Perlindungan dari ketidakpatuhan:** Makhluk hidup yang menghadapi yurisdiksi, federasi, atau rezim pengadopsi yang praktiknya secara material tidak mematuhi Konstitusi ini mempunyai hak untuk mencari perlindungan di rezim yang patuh.
   - Kewajiban rezim penerima untuk mempertimbangkan dan, jika konsisten dengan Landasan Hak mereka sendiri, memberikan perlindungan dinyatakan di sini.
-  - Prosedur operasional untuk pengakuan lintas rezim diserahkan pada teks implementasi yang diadopsi di bawah **Bab Tujuh Belas**.
+  - Prosedur operasional untuk pengakuan lintas rezim diserahkan pada teks implementasi yang diadopsi di bawah **Bab Delapan Belas**.
   - Perlindungan tidak dapat ditolak dengan alasan bahwa kelas substrat penggugat berbeda dari kelas substrat yang biasanya ditampung oleh rezim penerima, sesuai dengan [Non-Pengecualian Perasaan](core_05_band_participation.md#sentience-non-exclusion).
   - Penerimaan perpindahan dan pengungsian dapat dikecualikan atau dikondisikan bagi pendatang yang melakukan perilaku anti-konstitusional yang tidak diperbaiki, menunjukkan permusuhan konstitusional, atau menunjukkan penghinaan atau penolakan yang terdokumentasi terhadap komunitas konstitusional, berdasarkan kualifikasi penerimaan Bab Lima — tunduk pada **Kebutuhan**, **Proporsionalitas**, **Keadilan Prosedural**, dan [Non-Pengecualian Perasaan](core_05_band_participation.md#sentience-non-exclusion).
   - Pengusiran atau dumping secara paksa dan disengaja yang dirancang untuk membebani negara penerima adalah pelanggaran tingkat rezim yang dilakukan oleh rezim asal atau rezim pengusiran. Itu tidak secara otomatis menetapkan hosting ke pengguna penerima tertentu ketika pengakuan cadangan asal-primer atau bersama/federasi tetap nyata. Pengadopsi tertentu dapat menolak aliran masuk yang dipaksakan secara instrumental berdasarkan ketentuan ini **Kebutuhan**, **Proporsionalitas**, dan **Kemungkinan** tanpa menghilangkan pengakuan dasar di tempat lain.
-- **Perlindungan yang tidak dapat ditinggali karena iklim (diputuskan oleh pengadopsi):** <a id="xx-d-climate-unlivability-refuge-adopter-decided"></a> Pasal ini tidak memutuskan apakah pengungsian yang disebabkan oleh iklim yang menjadikan suatu tempat tidak layak huni – dimana rezim asal tidak terbukti tidak patuh secara material – merupakan alasan untuk memberikan perlindungan. Pengadopsi yang menjawab pertanyaan tersebut harus melakukannya dalam ketentuan yang dipublikasikan dan dapat diperdebatkan. Pasal ini tidak mensyaratkan atau melarang penggunaan kondisi tidak dapat dihuni karena iklim sebagai alasan untuk memberikan perlindungan.
+- **Perlindungan yang tidak dapat ditinggali karena iklim (diputuskan oleh pengadopsi):** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a><a id="xx-d-climate-unlivability-refuge-adopter-decided"></a> Pasal ini tidak memutuskan apakah pengungsian yang disebabkan oleh iklim yang menjadikan suatu tempat tidak layak huni – dimana rezim asal tidak terbukti tidak patuh secara material – merupakan alasan untuk memberikan perlindungan. Pengadopsi yang menjawab pertanyaan tersebut harus melakukannya dalam ketentuan yang dipublikasikan dan dapat diperdebatkan. Pasal ini tidak mensyaratkan atau melarang penggunaan kondisi tidak dapat dihuni karena iklim sebagai alasan untuk memberikan perlindungan.
   - Keputusan tersebut bukan merupakan pemberian perlindungan iklim oleh Landasan Hak Asasi Manusia, dan tidak memperlakukan iklim sebagai ketidakpatuhan terhadap suatu rezim.
   - Tidak perlu dibuktikan bahwa cuaca melanggar Konstitusi ini.
   - Tidak boleh menyempit **Perlindungan dari Ketidakpatuhan** dimana praktik rezim asal secara material tidak patuh.
   - Tidak boleh menyempit **Pasal I-A** (*Prakondisi Lingkungan dan Integritas Ekologis*).
   - Itu tidak boleh padam **Pergerakan dan Relokasi** ketika kehadiran yang terus menerus secara signifikan mengganggu kelangsungan hidup, martabat, akses Dasar Hak, atau kebebasan dari manipulasi.
   - Keheningan dalam Pasal ini bukanlah jawaban ya yang tersembunyi dan bukan jawaban tidak yang tersembunyi.
-- **Non-kewarganegaraan:** Tidak ada makhluk hidup yang dapat hidup tanpa rezim yang akan:
-  - mengakui Hak-Hak Dasar mereka;
-  - mengadili kedudukan mereka;
-  - menyediakan **Ganti Rugi dan Remediasi** jalur.
+<a id="article-xxii-c-non-statelessness"></a>
+#### Pasal XXII-C: Pencegahan Tanpa Kewarganegaraan
+- **Tujuan:** Hak hanya nyata jika ada rezim yang terikat untuk menghormatinya. Non-Tanpa-Kewarganegaraan menjamin bahwa setiap sentien selalu memiliki setidaknya satu rezim semacam itu. Jaminan ini mencegah penolakan yang diizinkan Pasal XXII-B, penahanan yang diizinkan Pasal XXII-D, dan penguncian kedudukan yang diizinkan Pasal XIX agar tidak pernah membuat sentien tanpa pihak yang bertanggung jawab. Jaminan ini tetap berlaku saat terjadi perubahan struktural, termasuk keruntuhan, penarikan diri, atau keluar, karena adopsi Konstitusi ini bersifat sukarela dan rezim dapat berakhir.
+- **Jaminan:** Tidak ada sentien yang boleh dibiarkan tanpa rezim yang akan:
+  - mengakui Landasan Hak dasar mereka;
+  - mengadili kedudukan mereka menurut Pasal XIX (*Kedudukan dan Status Partisipasi*); dan
+  - menyediakan jalur [Ganti Rugi dan Remediasi](core_05_band_accountability.md#redress-and-remediation).
 
-  Ini adalah sebuah **dasar pengakuan rezim tanpa nol**, bukan merupakan mandat yang harus dipenuhi oleh pengguna tertentu dalam jumlah besar atau menyerap arus keluar massal yang dipaksakan secara instrumental.
-
-  Jika suatu rezim asal, yang mengeluarkan, runtuh, menarik diri, atau keluar masih ada sebagai rezim yang dapat diakui, maka rezim tersebut tetap mempertahankan haknya. **utama** tanggung jawab pengakuan. Jika rezim tersebut hilang, ditolak, atau diskontinuitasnya meninggalkan celah, maka pengakuan transisi bersama atau federasi harus diatur sesuai dengan ketentuan yang berlaku. **Pasal XXVII** (*Tata Kelola Transisi, Kontinuitas, dan Re-baselining*) sehingga individu tidak pernah mencapai titik nol pengakuan.
-
-  Runtuhnya sistem induk, penarikan pengadopsi, keluarnya federasi, atau diskontinuitas struktural serupa tidak menghilangkan perlindungan Bab Enam makhluk hidup. Pengakuan transisi harus diatur secara konsisten **Pasal XXVII** (*Tata Kelola Transisi, Kontinuitas, dan Pendasaran Ulang*) tata kelola transisi. Mekanisme pengenalan lintas rezim diserahkan pada teks implementasi yang diadopsi di bawah ini **Bab Tujuh Belas**.
-
-  Apabila terdapat tindakan anti-konstitusional, permusuhan terhadap konstitusi, atau penghinaan atau penolakan terhadap komunitas konstitusional, maka rezim dapat menerapkan persyaratan, pemantauan, atau pembatasan status pada pengakuan tanpa menghilangkan Landasan Hak yang inti, **Ganti Rugi dan Remediasi**, dan **Keadilan Prosedural** perlindungan. Pengecualian dari penerimaan atau hosting pengadopsi tertentu tidak melanggar Non-Kewarganegaraan ketika pengakuan cadangan asal-primer atau bersama/federasi tetap nyata.
-- **Integrasi dengan portabilitas dan integritas keluar:** Pasal ini mengatur interoperabilitas, portabilitas, dan integritas pintu keluar serta landasan Hak untuk pergerakan fisik, yurisdiksi, dan antar rezim.
-  - Jika tindakan yang sama melibatkan keduanya — misalnya, makhluk hidup sintetik yang berpindah antar federasi melalui portabilitas substrat — perlindungan pergerakan/perlindungan dan portabilitas/integritas keluar berlaku tanpa mempersempit yang lain.
-  - Konflik diselesaikan di bawah **Bab Satu §13.1.5** (*Prinsip Batasan yang Paling Sedikit Membatasi, Berbatas Waktu, dan Dapat Ditinjau*).
+  Setiap fungsi harus nyata, dapat dijangkau sentien melalui forum yang bersedia mendengarkan mereka. Ini adalah **lantai pengakuan tanpa rezim nol**, yang berlaku berdasarkan [Non-Pengecualian Sentien](core_05_band_participation.md#sentience-non-exclusion).
+- **Pengakuan bukanlah penerimaan sebagai penghuni atau kewarganegaraan:** Pengakuan berarti suatu rezim bertanggung jawab atas tiga fungsi di atas. Pengakuan itu sendiri tidak memberi hak untuk tinggal di atau diterima oleh rezim tersebut, ataupun hak atas hak politik penuh, sesuai dengan pembedaan [pengakuan dan penerimaan sebagai penghuni](core_05_band_participation.md#movement-refuge-recognition-vs-hosting) dalam Bab Lima.
+- **Urutan tanggung jawab:** Rezim asal, pengusir, yang runtuh, yang menarik diri, atau yang keluar tetap memikul tanggung jawab **utama** atas pengakuan jika masih ada dan mampu mengakui sentien. Jika rezim itu telah tiada, menolak, atau meninggalkan celah, pengakuan transisi bersama atau federasi harus diatur menurut **Pasal XXVIII** (*Tata Kelola Transisi, Kontinuitas, dan Pendasaran Ulang*), agar sentien tidak pernah kehilangan seluruh pengakuan. Sampai pengakuan yang bertahan lama tersedia, pengaturan transisi harus memberi akses nyata pada kedudukan, ajudikasi, dan pemulihan; sentien yang menunggu pengakuan cadangan tidak dianggap tanpa pengakuan.
+- **Tetap berlaku setelah keruntuhan struktural:** Keruntuhan sistem induk, penarikan diri pengadopsi, keluarnya federasi, atau diskontinuitas struktural sebanding tidak menghapus perlindungan sentien menurut Bab Enam.
+- **Pengakuan dengan status terbatas:** Jika terdapat bukti terdokumentasi tentang tindakan anti-konstitusional, permusuhan terhadap Konstitusi, atau penghinaan maupun penolakan terhadap komunitas konstitusional, rezim boleh menetapkan syarat, pemantauan, atau status terbatas. Hal itu tidak boleh menghapus Landasan Hak inti, perlindungan **Ganti Rugi dan Remediasi**, atau **Keadilan Prosedural**; status terbatas juga tidak boleh direkayasa atau diterapkan dengan alasan yang diberi label keliru.
+- **Hal yang tidak dijamin:** Lantai ini tidak menjamin kewarganegaraan pilihan, pilihan di antara rezim, hak politik penuh di luar pengakuan Landasan Hak dasar, atau penerimaan dalam jumlah besar oleh pengadopsi tertentu maupun penyerapan arus keluar massal yang dipaksakan secara instrumental apabila pengakuan cadangan asal-primer atau bersama/federasi tetap nyata. Dalam keadaan itu, penolakan penerimaan oleh pengadopsi tertentu tidak melanggar Non-Tanpa-Kewarganegaraan.
+- **Lapisan implementasi:** Mekanisme pengakuan lintas rezim diserahkan pada teks implementasi yang diadopsi berdasarkan **Bab Delapan Belas**.
+<a id="article-xxii-d-limitation-custody-and-emergency-discipline"></a>
+#### Pasal XXII-D: Pembatasan, Penahanan, dan Disiplin Darurat
 - **Keterbatasan disiplin:** Batasan pergerakan, migrasi, atau pengungsian harus dipenuhi **Bab Satu §7.1** (*Disiplin Pembatasan*) disiplin pembatasan: **Kebutuhan**, **Proporsionalitas**, penjahitan yang sempit, dan cara yang paling tidak efektif membatasi.
   - Pembatasan tidak boleh diaktifkan **Karakteristik yang Dilindungi** atau kuasa material mereka.
   - Pembatasan tidak boleh menggunakan kerangka demografi tingkat populasi sebagai pengganti predikat individual di bawah **Keadilan Prosedural**.
 - **Tindakan-tindakan yang membatasi kebebasan dan hak asuh yang sah:** Pasal ini tidak memberikan imunisasi kepada makhluk hidup dari penahanan yang sah, penahanan, operasi yang diawasi, atau tindakan keadilan lain yang membatasi kebebasan ketika tindakan tersebut memerlukan kekerasan, pemaksaan, pelanggaran anti-konstitusional, atau bahaya sosial serupa yang terbukti.
-  - Langkah-langkah tersebut harus memuaskan **Pasal XX-B** (*Batas Pembatasan*) dan proses pidana yang berlaku atau perlindungan serupa yang dipicu oleh [Bab Sepuluh §5.4 Aturan pelanggaran khusus](core_10_standing_integration.md#54-special-violation-rules).
+  - Langkah-langkah tersebut harus memuaskan **Pasal XX-B** (*Batas Pembatasan*) dan proses pidana yang berlaku atau perlindungan serupa yang dipicu oleh [Bab Sebelas §5.4 Aturan pelanggaran khusus](core_11_standing_integration.md#54-special-violation-rules).
   - Mereka harus tetap konsisten **Non-Tanpa Kewarganegaraan**: tidak ada makhluk hidup yang dibiarkan tanpa rezim yang mengakui dasar perlindungan Dasar Hak, mengadili, dan memberikan **Ganti Rugi dan Remediasi** jalur, termasuk ketika hak asuh atau pembatasan serupa diberlakukan.
-  - Penguncian kedudukan di bawah **Pasal XIX** (*Status Kedudukan dan Partisipasi*) dan [Bab Sepuluh §4.2 Pencegahan — penguncian kedudukan umum](core_10_standing_integration.md#42-prevention--general-standing-locks) tidak **sendiri** mengizinkan tindakan tersebut; mereka dapat mencalonkan diri bersama mereka jika masing-masing pihak memenuhi persyaratan konstitusinya sendiri.
-- **Batasan tindakan darurat:** Tindakan darurat yang membatasi pergerakan, migrasi, atau perlindungan harus dipatuhi **Bab Dua Belas §6.1** (*Tindakan darurat dan beban lanjutan*) disiplin tindakan darurat — termasuk:
+  - Penguncian kedudukan di bawah **Pasal XIX** (*Status Kedudukan dan Partisipasi*) dan [Bab Sebelas §4.2 Pencegahan — penguncian kedudukan umum](core_11_standing_integration.md#42-prevention--general-standing-locks) tidak **sendiri** mengizinkan tindakan tersebut; mereka dapat mencalonkan diri bersama mereka jika masing-masing pihak memenuhi persyaratan konstitusinya sendiri.
+- **Batasan tindakan darurat:** Tindakan darurat yang membatasi pergerakan, migrasi, atau perlindungan harus dipatuhi **Bab Tiga Belas §6.1** (*Tindakan darurat dan beban lanjutan*) disiplin tindakan darurat — termasuk:
   - terikat waktu;
   - persyaratan predikat individual;
   - tinjauan proporsional;
@@ -702,11 +833,11 @@ Pasal ini menetapkan batas-batas perpindahan, pengungsian, dan keadaan tanpa kew
   - rezim kredensial yang berfungsi sebagai pengecualian yang bertentangan dengan [Non-Pengecualian Perasaan](core_05_band_participation.md#sentience-non-exclusion);
   - rezim alokasi yang mengarahkan penggugat ke layanan yang tidak setara.
 - **Batasan Artikel ini:** Pasal ini menyatakan Dasar Hak.
-  - Prosedur pengakuan lintas federasi diserahkan kepada teks implementasi yang diadopsi di bawah **Bab Tujuh Belas**.
+  - Prosedur pengakuan lintas federasi diserahkan kepada teks implementasi yang diadopsi di bawah **Bab Delapan Belas**.
   - Keputusan mengenai perlindungan yang tidak dapat ditinggali akibat perubahan iklim mengacu pada ketentuan yang ditentukan oleh pengadopsi Pasal ini dan tidak boleh dianggap sebagai pemberian izin atau penolakan.
 
-<a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
-### Pasal XXII: Pengelolaan yang Dapat Dipahami dan Kompleksitas
+<a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
+### Pasal XXIII: Pengelolaan yang Dapat Dipahami dan Kompleksitas
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -733,7 +864,7 @@ Pasal ini menetapkan batas-batas perpindahan, pengungsian, dan keadaan tanpa kew
 
 <br>
 
-*Secara sederhana: **Pasal XXII** (*Comprehensibility and Complexity Stewardship*) adalah Hak yang dapat dipahami — ketika suatu sistem berdampak signifikan terhadap kehidupan Anda, Anda berhak untuk benar-benar memahami cara kerjanya, apa batasannya, dan apa yang terjadi jika sistem tersebut gagal. Kompleksitas tidak dapat digunakan sebagai penghalang bagi partisipasi, audit, atau akuntabilitas. Para pengurus juga tidak boleh menumpuk pada kerumitan yang tidak perlu dan membuang-buang waktu semua orang tanpa manfaat konstitusional yang nyata.*
+*Secara sederhana: **Pasal XXIII** (*Comprehensibility and Complexity Stewardship*) adalah Hak yang dapat dipahami — ketika suatu sistem berdampak signifikan terhadap kehidupan Anda, Anda berhak untuk benar-benar memahami cara kerjanya, apa batasannya, dan apa yang terjadi jika sistem tersebut gagal. Kompleksitas tidak dapat digunakan sebagai penghalang bagi partisipasi, audit, atau akuntabilitas. Para pengurus juga tidak boleh menumpuk pada kerumitan yang tidak perlu dan membuang-buang waktu semua orang tanpa manfaat konstitusional yang nyata.*
 
 Pasal ini menyatakan **landasan konstitusional** untuk pemahaman dan kompleksitas pengelolaan di bawah [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims):
 
@@ -757,8 +888,8 @@ Disiplin penatalayanan untuk kompleksitas, akses bahasa sederhana, dan minimalis
   - [Bab Satu §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*Disiplin bahasa sederhana dan jargon sebagai kekalahan*);
   - [Bab Satu §13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*pengurangan minimalisasi dan penyederhanaan beban yang dapat dihindari*);
   - [Bab Satu Bagian C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*pemahaman terdistribusi yang mengarah pada materialitas dan ketergantungan*).
-<a id="article-xxii-a-proportional-comprehensibility-right"></a>
-#### Pasal XXII-A: Hak Pemahaman Proporsional
+<a id="article-xxiii-a-proportional-comprehensibility-right"></a>
+#### Pasal XXIII-A: Hak Pemahaman Proporsional
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
@@ -789,8 +920,8 @@ Pasal ini menetapkan landasan untuk pemahaman proporsional:
   - menerapkan batasan atau kondisi material.
 
   Pemahaman tersebut harus mencapai tingkat yang proporsional dengan peran, klasifikasi, dan risiko. Hal ini tidak boleh terbatas pada bidang khusus saja dimana akuntabilitas atau partisipasi yang lebih luas mempunyai dampak yang signifikan.
-<a id="article-xxii-b-complexity-audit-and-modularity-requirements"></a>
-#### Pasal XXII-B: Audit Kompleksitas dan Persyaratan Modularitas
+<a id="article-xxiii-b-complexity-audit-and-modularity-requirements"></a>
+#### Pasal XXIII-B: Audit Kompleksitas dan Persyaratan Modularitas
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
@@ -828,7 +959,8 @@ Artikel ini menetapkan landasan untuk audit kompleksitas, modularitas, anti-pela
 
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
 
-### Pasal XXIII: Analisis Akar Penyebab dan Respon Adaptif
+<a id="article-xxiv-root-cause-analysis-and-adaptive-response"></a>
+### Pasal XXIV: Analisis Akar Penyebab dan Respon Adaptif
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -851,7 +983,7 @@ Artikel ini menetapkan landasan untuk audit kompleksitas, modularitas, anti-pela
 
 <br>
 
-*Secara sederhana: **Pasal XXIII** (*Analisis Akar Penyebab dan Respons Adaptif*) adalah landasan untuk menemukan masalah sebenarnya dan memperbaikinya. Ketika sesuatu rusak, rusak, atau terus gagal, Anda berhak mendapatkan lebih dari sekadar siaran pers atau plester. Sistem harus mengetahui apa yang sebenarnya menyebabkan kerugian – termasuk penyebab yang muncul terlambat atau bertambah seiring berjalannya waktu – mengatasi penyebab tersebut sebisa mungkin, dan meninggalkan catatan yang dapat diperiksa dan ditantang oleh pihak lain. Penahanan cepat diperbolehkan; perbaikan permanen tanpa diagnosis yang jujur ​​tidak akan berhasil.*
+*Secara sederhana: **Pasal XXIV** (*Analisis Akar Penyebab dan Respons Adaptif*) adalah landasan untuk menemukan masalah sebenarnya dan memperbaikinya. Ketika sesuatu rusak, rusak, atau terus gagal, Anda berhak mendapatkan lebih dari sekadar siaran pers atau plester. Sistem harus mengetahui apa yang sebenarnya menyebabkan kerugian – termasuk penyebab yang muncul terlambat atau bertambah seiring berjalannya waktu – mengatasi penyebab tersebut sebisa mungkin, dan meninggalkan catatan yang dapat diperiksa dan ditantang oleh pihak lain. Penahanan cepat diperbolehkan; perbaikan permanen tanpa diagnosis yang jujur ​​tidak akan berhasil.*
 
 Pasal ini menyatakan **landasan konstitusional** untuk analisis akar penyebab dan respons adaptif di bawah [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims):
 
@@ -874,8 +1006,8 @@ Ketelitian diagnostik harus tetap dapat diaudit dan ditantang. Itu harus konsist
 - **Bukti dan tantangan:** **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) dan **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*) — catatan akar permasalahan harus tetap terbuka untuk diaudit dan ditentang tanpa mempersempit batasan tersebut.
 - **Siklus hidup dan pemulihan:** **Pasal XVII** (*Siklus Hidup Sistem, Lingkungan, dan Reversibilitas*) — pemulihan otomatis tidak boleh menghilangkan bukti yang diperlukan untuk analisis akar penyebab, sesuai dengan preferensi Pasal ini untuk reversibilitas.
 - **Perutean implementasi:** **[corpus_systems.md](corpus_systems.md), CS-8** (*Keberlanjutan adaptif dan ketahanan ekosistem*) dan **CS-5** (*Desain, pengujian, verifikasi, dan penerapan*) — menerapkan respons adaptif tanpa menggantikan Batasan Hak yang disebutkan di sini.
-<a id="article-xxiii-a-diagnostic-rigor-and-causal-attribution"></a>
-#### Pasal XXIII-A: Ketelitian Diagnostik dan Atribusi Kausal
+<a id="article-xxiv-a-diagnostic-rigor-and-causal-attribution"></a>
+#### Pasal XXIV-A: Ketelitian Diagnostik dan Atribusi Kausal
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
@@ -898,7 +1030,7 @@ Ketelitian diagnostik harus tetap dapat diaudit dan ditantang. Itu harus konsist
 
 Artikel ini menguraikan dokumentasi dan landasan tantangan untuk temuan akar permasalahan:
 
-- **Dokumentasi dan audit:** Hal-hal berikut ini harus didokumentasikan dan dapat diaudit (**Pasal XVI-A** (*Kemampuan Audit dan Bukti yang Dapat Diamati*); **Pasal XXIII** (*Analisis Akar Penyebab dan Respons Adaptif*)):
+- **Dokumentasi dan audit:** Hal-hal berikut ini harus didokumentasikan dan dapat diaudit (**Pasal XVI-A** (*Kemampuan Audit dan Bukti yang Dapat Diamati*); **Pasal XXIV** (*Analisis Akar Penyebab dan Respons Adaptif*)):
   - kesimpulan penyebab utama;
   - tingkat kepercayaan;
   - ketidakpastian material;
@@ -907,8 +1039,8 @@ Artikel ini menguraikan dokumentasi dan landasan tantangan untuk temuan akar per
 - **Keterbukaan terhadap tantangan:** Mereka harus tetap terbuka terhadap:
   - tantangan, verifikasi independen, dan koreksi di bawah **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*), **Pasal XIII-B** (*Hak untuk Ganti Rugi dan Ganti Rugi*), dan **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*);
   - kewajiban kontestabilitas di **Pasal XV** (*Info-Sphere Integrity*) yang melibatkan integritas epistemik.
-<a id="article-xxiii-b-auditability-challenge-and-reversibility-preference"></a>
-#### Pasal XXIII-B: Auditabilitas, Tantangan, dan Preferensi Reversibilitas
+<a id="article-xxiv-b-auditability-challenge-and-reversibility-preference"></a>
+#### Pasal XXIV-B: Auditabilitas, Tantangan, dan Preferensi Reversibilitas
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
@@ -941,7 +1073,8 @@ Pasal ini menetapkan preferensi reversibilitas dan perlindungannya terhadap penu
 
 <a id="article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
 
-### Pasal XXIV: Interpretasi Konstitusi, Peninjauan Kembali, dan Perlindungan Anti-Penangkapan
+<a id="article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
+### Pasal XXV: Interpretasi Konstitusi, Peninjauan Kembali, dan Perlindungan Anti-Penangkapan
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
@@ -965,7 +1098,7 @@ Pasal ini menetapkan preferensi reversibilitas dan perlindungannya terhadap penu
 
 <br>
 
-*Secara sederhana: **Pasal XXIV** (*Interpretasi, Peninjauan Kembali, dan Perlindungan Anti-Penangkapan Konstitusi*) adalah landasan siapa yang boleh mengatakan apa arti konstitusi. Ketika pertanyaan konstitusional muncul, jawabannya harus datang dari forum Konstitusi yang ditunjuk – bukan dari siapa pun yang paling keras, berkuasa, atau paling nyaman bagi lembaga tersebut. Keputusan mereka harus ditulis dengan alasan yang nyata, terbuka untuk digugat secara independen, dan dilindungi agar tidak direbut oleh blok mana pun. Mereka tidak dapat memperluas kekuasaannya, menghentikan kajian, atau menggunakan “restrukturisasi” untuk menghukum perbedaan pendapat.*
+*Secara sederhana: **Pasal XXV** (*Interpretasi, Peninjauan Kembali, dan Perlindungan Anti-Penangkapan Konstitusi*) adalah landasan siapa yang boleh mengatakan apa arti konstitusi. Ketika pertanyaan konstitusional muncul, jawabannya harus datang dari forum Konstitusi yang ditunjuk – bukan dari siapa pun yang paling keras, berkuasa, atau paling nyaman bagi lembaga tersebut. Keputusan mereka harus ditulis dengan alasan yang nyata, terbuka untuk digugat secara independen, dan dilindungi agar tidak direbut oleh blok mana pun. Mereka tidak dapat memperluas kekuasaannya, menghentikan kajian, atau menggunakan “restrukturisasi” untuk menghukum perbedaan pendapat.*
 
 Pasal ini menyatakan **landasan konstitusional** untuk otoritas penafsiran, peninjauan, dan perlindungan anti-penangkapan berdasarkan [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims):
 
@@ -987,8 +1120,8 @@ Terakhir **konstitusional** interpretasi harus tetap otoritatif, terikat, dapat 
 - **Tantangan dan keadilan:** **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*) dan [**Pasal XX**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Keadilan Setelah Pelanggaran Terverifikasi*) — tinjauan interpretatif harus menjaga hak-hak gugatan dan batasan-batasan keadilan tanpa mempersempit batasan tersebut.
 - **Non-kubu:** [**Pasal XXVI-A** (*Non-Entrenchment dan Revisiabilitas*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — validasi ulang secara berkala berdasarkan ketentuan penghapusan karena sebab Pasal ini dibaca dengan disiplin non-penggalian.
 - **Perutean institusi:** **[corpus_institusi.md](corpus_institutions.md), CI-4** (*Pengangkatan, kompetensi, rotasi, dan pemberhentian*) dan **CI-5** (*Integritas konflik, anti-penangkapan, dan anti-korupsi*) — menerapkan komposisi dan pengendalian konflik tanpa menggantikan Batasan Hak yang dinyatakan di sini.
-<a id="article-xxiv-a-bounded-interpretive-mandate"></a>
-#### Pasal XXIV-A: Mandat Interpretasi Berbatas
+<a id="article-xxv-a-bounded-interpretive-mandate"></a>
+#### Pasal XXV-A: Mandat Interpretasi Berbatas
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
@@ -1023,8 +1156,8 @@ Pasal ini menguraikan mandat terbatas forum Konstitusi dan batasannya:
   - secara meyakinkan memperluas yurisdiksi mereka;
   - menangguhkan jalur tantangan;
   - menggantikan pemilik implementasi yang ditunjuk, kecuali jika **konstitusional** pertanyaan itu sendiri memerlukan penentuan tersebut berdasarkan **Tumpukan Otoritas dan Hierarki Internal** gugus.
-<a id="article-xxiv-b-composition-rotation-and-conflict-controls"></a>
-#### Pasal XXIV-B: Komposisi, Rotasi, dan Pengendalian Konflik
+<a id="article-xxv-b-composition-rotation-and-conflict-controls"></a>
+#### Pasal XXV-B: Komposisi, Rotasi, dan Pengendalian Konflik
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
@@ -1059,8 +1192,8 @@ Pasal ini menguraikan dasar-dasar komposisi, anti-penangkapan, dan pengendalian 
   - kelumpuhan selektif;
   - kontrol rahasia.
 - **Perutean institusi:** Jalur penunjukan yang terperinci, kontrol rotasi, dan prosedur konflik/penolakan **Forum Konstitusi** panel diatur oleh **[corpus_institusi.md](corpus_institutions.md), CI-4** (*Pengangkatan, kompetensi, rotasi, dan pemberhentian*) dan **CI-5** (*Integritas konflik, anti penangkapan, dan anti korupsi*).
-<a id="article-xxiv-c-public-reasons-challenge-rights-and-external-review"></a>
-#### Pasal XXIV-C: Alasan Publik, Hak Gugatan, dan Tinjauan Eksternal
+<a id="article-xxv-c-public-reasons-challenge-rights-and-external-review"></a>
+#### Pasal XXVI-C: Alasan Publik, Hak Gugatan, dan Tinjauan Eksternal
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
@@ -1103,8 +1236,8 @@ Pasal ini menetapkan landasan untuk alasan publik, tantangan independen, dan tin
   - menangkap indikator;
   - kualitas keputusan;
   - Integritas Dasar Hak.
-<a id="article-xxiv-d-removal-for-cause-and-non-entrenchment"></a>
-#### Pasal XXIV-D: Penghapusan Karena Penyebab dan Non-Entrenchment
+<a id="article-xxv-d-removal-for-cause-and-non-entrenchment"></a>
+#### Pasal XXV-D: Penghapusan Karena Penyebab dan Non-Entrenchment
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 

@@ -86,35 +86,6 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
-
-### ความรุ่งเรือง
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
-
-</details>
-
-<br>
-
-*กล่าวอย่างง่าย ๆ: คำถามเหล่านี้ตรวจสอบว่าสิ่งมีความรู้สึกได้รับการคงไว้ซึ่งความเป็นอยู่ที่ดี ความปลอดภัย และความสามารถในการกระทำจริงหรือไม่ ไม่ใช่เพียงการมีส่วนร่วมที่ใช้ตัวชี้วัดแทนหรือปริมาณงาน ส่วนนี้เป็นที่ตั้งของกลุ่มการวัดความรุ่งเรืองในบทที่ห้า §2 ของบทนำคงคำถามอย่างง่ายของหมวดไว้ ส่วนตารางกลุ่มและทางไปยังคำนิยามอยู่ที่นี่*
-
-*ความมีนัยสำคัญ ([Materiality](core_05_band_oversight.md#materiality)) เป็นองค์ประกอบบูรณาการ ไม่ใช่หมวดแยก โดยปรับระดับการใช้กลุ่มนี้ตาม [material stake](core_00_preamble.md#material-stake)*
-
-| กลุ่มย่อย | คำถามอย่างง่าย | การใช้ตามรัฐธรรมนูญหลัก |
-|---|---|---|
-| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | สิ่งมีความรู้สึกได้รับการคงไว้ซึ่งการทำหน้าที่ ความสามารถในการกระทำ และเงื่อนไขสนับสนุนหรือไม่? | มาตรวัดผลลัพธ์หลักของ **ความรุ่งเรือง** (ไม่ใช่องค์ประกอบ)—ไม่ใช่การมีส่วนร่วมที่ใช้ตัวชี้วัดแทนหรือปริมาณงาน |
-| ความปลอดภัย อันตราย และความเสี่ยง | อันตรายที่คาดการณ์ได้ได้รับการป้องกัน ควบคุม และประเมินอย่างตรงไปตรงมาหรือไม่? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
-| การเข้าถึงระดับพื้นฐานเพื่อการอยู่รอด | สิ่งมีความรู้สึกเข้าถึงสิ่งจำเป็น เช่น อาหาร น้ำ ที่พัก การดูแล และสภาพแวดล้อมที่มั่นคงได้หรือไม่? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (การอยู่รอด) |
-
-ระดับการวัดเชิงปฏิบัติอยู่ในส่วนคำนิยามเหล่านั้น
-
-**ไฟล์ก่อนหน้า:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
-**ไฟล์ถัดไป:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### การวัดความเจริญงอกงาม (ตระกูลการวัดของคำปรารภ)

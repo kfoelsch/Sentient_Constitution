@@ -1441,6 +1441,7 @@ flowchart TB
 - <a id="xi-d-dissent-burden-and-pretext"></a>**举证责任与借口：**受保护的异议或抗议之后，若出现不利的地位、治理、认证、准入或角色措施，且该措施可能与异议或抗议有关，则采取行动者负有举证责任，须证明该措施依据的是依照**第二至第四章**核实的独立理由。
   - “扰乱”“不稳定”“极端主义”“不忠”“不合作”或“不一致”等标签，不会把受保护异议或和平抗议变成违规行为。
 - **共同约束：**[**第十一-B条**](#article-xi-b-expression)（*表达*）中的限制、反寒蝉效应与范围规则，完整适用于集会、异议与抗议。
+<a id="article-xi-e-institutional-formation-and-business-creation"></a>
 #### 第十一-E条：机构创设与企业创办
 
 <details>
@@ -1450,6 +1451,7 @@ flowchart TB
 - 配合阅读：第五章[集会、集体组织与机构创设](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)，包括其[创设权限制](core_05_band_participation.md#creation-rights-limits)；[**第十一-D条**](#article-xi-d-assembly-dissent-and-peaceful-protest)（*集会、异议与和平抗议*）关于聚集与结社；[**第三-C条**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)（*劳动与经济底线*）关于工人组织；[**第十一-F条**](#article-xi-f-non-imposition-and-consent-in-association)（*结社中的不强加与同意*）。
 - 下游：创设的机构或企业对他人产生实质影响时，适用[**第十-C条**](#article-x-c-stakeholder-role-and-participation-rights)（*利益相关方角色与参与权*）及[**第十二条**](#article-xii-stakeholder-system-participation-representation-and-due-process)。
 
+- 配合阅读：执业许可相关的[第十一章§6.2能力门槛与许可](../../core_11_standing_integration.md#62-competency-bars-and-clearances)、[第十三章§4.2技术论坛领域](../../core_13_forum.md#42-technical-forum-domains)、**CF-10**及**CI-4.7**（*执业许可、执业认证与联合专业执业*）。
 </details>
 
 <details>
@@ -1465,27 +1467,40 @@ flowchart TB
 
 <br>
 
-*通俗而言：任何人都可以创办新事物——学校、研究小组、互助网络、合作社或企业——而不只是加入已有组织。表面开放、实际却排斥新创办者或不受待见的创办者的许可、资本或文书障碍，均不符合本项检验。*
+*通俗而言：任何人都可以创设新机构或企业。创办者必须真实认同其所述宗旨，不得意图欺骗或伤害他人。只有两种有限门槛可以限制具名者的权力；两者都不得阻止他人创设或继续运营该机构。 对具名高风险行为，在满足全部保障时可另要求执业许可；这不是机构门槛。*
 
-本条规定创设机构与企业的权利及其限制：
+本条规定创设机构与企业的权利、真实创设条件、两道有限权力门槛、具名高风险行为的执业许可，以及该权利的限制：
 
 - **创设机构与企业的权利：**依照[感知者不排除](core_05_band_participation.md#sentience-non-exclusion)，每位有感知者都有权创设、建立、经营并发展新机构与企业。该权利包括：
   - 非商业机构——教育、文化、科学、互助、社区、公地治理及类似形式，定义见[系统创设](core_05_band_participation.md#system-creation-constitutional)；以及
   - 商业企业——独资企业、合伙企业、公司、商业合作社、平台型企业及类似形式，定义见[企业创办](core_05_band_participation.md#business-creation-constitutional)，包括创设和经营所需的资本获取、市场准入与许可途径。
 
   该权利涵盖使新机构得以成立，而不仅是参与既有机构。
+- **真实创设与意图：** 创办者或经营者须真实认同机构或企业所述宗旨。不得以误导他人关于宗旨、控制权、利益或服务对象为目的设立或经营，也不得意图伤害他人；有理由认定存在此类意图时亦然。这里的伤害指本宪章禁止的伤害，包括第六-C条禁止的歧视性待遇；正常竞争、合法批评与合法异议不属于此类伤害，竞争者合法失去业务也不能单独证明伤害意图。判断须依据可核实的行为、控制方式、奖励机制及言论。经核实的言论、号召或计划若称他人理应受伤害或遭受违宪歧视，可作为意图证据；依[第一章§7.5](../../core_01_a_values_principles.md#75-expression-and-the-harm-line)，应看其实际陈述、号召或实施了什么，不看其宗教、政治或意识形态标签。信仰或群体归属本身不构成不利证据，单纯声称善意也不构成有利证据；言论保障依[第七章§6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)适用。无记录的创办者推定为真实；以行动表明承诺（如书面接受机构限制并接受独立核验）即可作为证据。此条件不是许可，成立或经营前无需获准；主张创设不真实的一方负举证责任。
 - **不得暗中剥夺：**不得通过以下方式挫败该权利：
   - 旨在排斥不受待见的创办者、宗旨或形式的许可制度、授权门槛或程序复杂性；
   - 在资本、财政工具、基础设施或法律认可方面歧视，使其无法获得类似机构或企业能够取得的资源；或
   - 主要效果是保护现有经营者免受新形态或竞争形态冲击的授权规则。
 
   对创办者与参与者进行报复、监控或针对，同样不合规。
+- **仅有两道权力门槛：** 只有以下两种门槛可以限制具名有感知者在机构或企业中取得或行使治理、控制或所有权权力。门槛只针对该人的权力；仅当该机构是其行使该权力的载体、继承者、受控实体或代持形式时才延及机构本身，绝不得阻止他人创设、经营、加入、工作于或接受其服务。
+  - **[未解除的冻结](../../core_11_standing_integration.md#55-special-locks)：** 若该人受未解决的机构权力资格冻结、反宪法信托冻结，或其他明确针对同类机构权力路径的冻结约束，则不得在该路径内取得或行使权力。范围不得超过冻结所定；冻结解除或缩小即终止或相应缩小。
+  - **可能失配的[临时限制](../../core_05_band_accountability.md#interim-hold)：** 有管辖权的论坛只有在[第十三章§5](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)所定事由成立且具体事实表明“更可能如此”时，方可依该条对具名权力路径作[临时限制](../../core_05_band_accountability.md#interim-hold)：该人可能与机构宗旨或宪法约束失配，或意图误导他人关于宗旨、控制、利益、服务对象，或意图伤害他人。判断依[第七章§6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)，以经核实的行为、控制及奖励为据。完整遵循该[临时限制](../../core_05_band_accountability.md#interim-hold)程序：它不是认定、冻结、资格记录或冻结效果，不得仅凭信仰、身份、群体成员资格、声誉、未号召伤害或歧视的异议、或受保护的举报。言论或行为是否构成证据，依“真实创设”标准判断。机构由另一合法权力持有人继续运行；若无人接替且他人依赖该机构，论坛指定临时管理人，不得停办。
+  - **两种门槛的共同保障：** 施加门槛的一方负举证责任。门槛不得剥夺其他工作的工资、权利底线、生存关键服务、言论、辩护或受保护举报，也不得用于针对异议者、举报者或工人组织者。
+- **具名高风险行为的执业许可：**可以另设一项要求，但这不是针对机构的门槛。可要求具名有感知者在为他人实施具名行为前取得[能力许可](../../core_05_band_accountability.md#competency-clearance)（“执业许可”）。该要求仅附着于实施该行为；绝不阻止任何人创设、经营、加入机构或接受机构服务，也不禁止机构运营。只有同时满足以下条件才能要求：
+  - **风险认定：**技术专家论坛依据[第十三章§4.2](../../core_13_forum.md#42-technical-forum-domains)及**CF-10**，就具名行为类别发布认定。认定须指出，行为存在可信的因果路径，可能使无法判断或规避风险的有感知者遭受严重或不可逆的身体伤害，并说明所需能力。
+  - **较轻措施不足以保护：**维持该要求的一方须证明，信息披露、登记、受保护的职称、接收或雇用该人的机构所负义务，以及对学习者的监督，都无法保护风险中的人。
+  - **公开决定：**采纳该要求的文书须通过已公布且可受质疑的途径，决定该认定是否足以要求许可。论坛负责认定和制定标准；不颁发许可、不裁决个人案件，也不决定可接受的风险程度。
+  - **途径开放且不得垄断：**标准须符合[第十一章§6.2](../../core_11_standing_integration.md#62-competency-bars-and-clearances)：已公布、合乎比例且可受质疑。考试、作品档案、学徒训练、经同行核实的经验，以及其他司法辖区的许可，均作为同等证明。必须有多个独立颁发者，且不得只有一个必经途径。现任从业者不得控制标准委员会或颁发者的治理机构。
+  - **谨慎实施：**学习者可在已获许可的监督者指导下实施行为。紧急行为，或无法及时联系到获许可有感知者时的行为，不得禁止。决定须遵循[第二十六-C条](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)的时限；费用和等待不得成为障碍（[可避免负担](../../core_05_band_continuity.md#avoidable-burden)）；每次复审时要求即告失效，除非重新证明负担。复审结果须公布。
+  - **保障：**施加要求的一方负举证责任。该要求不得妨碍取得其他工作的工资、权利底线、生存关键服务、表达、辩护或受保护举报，也不得用于针对异议者、举报者或工人组织者。能力变化应按行为本身要求的能力判断，不得仅依据残障或健康状况。
+  - **机构分类：**为他人实施此类行为的机构，依据[领域特定实质性](../../core_05_band_oversight.md#domain-specific-materiality)属于安全方面的实质性机构，因此至少为L类。许可要求不对机构分类；机构属于L类本身绝不要求取得许可。 单独或在小型执业场所实施此类行为的有感知者，可通过联合专业执业履行L类义务（**CI-4.7**，*执业许可、执业认证与联合专业执业*）。
 - **限制：**适用第五章的[创设权限制](core_05_band_participation.md#creation-rights-limits)：该权利不延伸至旨在违反[宪法约束](core_05_band_integrative.md#constitutional-constraint)、损害**安全**或**真理**，或违反[第一章 §11 市场结构](core_01_a_values_principles.md#11-market-structure)而集中权力的机构或企业。任何其他限制都必须符合[第一章 §7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)：确有必要、合乎比例、尽可能可逆，并接受监督。
 - **相关权利：**
   - 聚集与结社由**第十一-D条**（*集会、异议与和平抗议*）保障；
   - 在既有生产系统中组织工人，依照**第三-C条**（*劳动与经济底线*）受[集体组织](core_05_band_participation.md#collective-organization-constitutional)保障；并且
   - 创设的机构或企业对他人产生实质影响后，**第十-C条**与**第十二条**中的利益相关方权利即适用。
-- **实施：**注册、采用[章程](core_05_band_continuity.md#charter)、财政待遇、责任、证券监管与解散程序，依照**第十七章**的纳入纪律转至[corpus_institutions.md](corpus_institutions.md)。不得将该文本解读为缩限本权利。
+- **实施：**注册、采用[系统章程](../../core_05_band_continuity.md#system-charter)和[机构章程](../../core_05_band_continuity.md#institutional-charter)、财政待遇、责任、证券监管与解散程序，依照**第十八章**的纳入纪律转至[corpus_institutions.md](../../corpus_institutions.md)。不得将该文本解读为缩限本权利。 执业许可的颁发者、等效途径、费用与复审，以及任何较低层级的执业认证，也依照**CI-4.7**（*执业许可、执业认证与联合专业执业*）办理。<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
 #### 第十一-F条：结社中的不强加与同意
 
 <details>

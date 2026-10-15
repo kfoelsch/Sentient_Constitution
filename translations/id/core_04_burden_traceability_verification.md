@@ -18,9 +18,9 @@
 
 > Di mana ini hidup (navigasi):
 > - **Peta Tetrad:** Alokasi beban, bukti, ketelusuran, observabilitas, dan verifikasi mengimplementasikan kaki **pengawasan** dan **pertanggungjawaban** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) yang ditetapkan dalam [Pembukaan](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **partisipasi** di mana dituntut secara material lewat observabilitas praktis dan gugatan independen di bawah bagian **3** dan **4**. Persyaratan diskalakan dengan [taruhan material](core_00_preamble.md#material-stake).
-> - **Pemilik konstitusional:** alokasi beban, bukti kepatuhan, ketelusuran definisi, observabilitas, dan verifikasi berbatas-keamanan. **Bab Delapan** memiliki disiplin catatan jejak dan masukan terverifikasi yang dibaca bersama bab ini.
+> - **Pemilik konstitusional:** alokasi beban, bukti kepatuhan, ketelusuran definisi, observabilitas, dan verifikasi berbatas-keamanan. **Bab Sepuluh** memiliki disiplin catatan jejak dan masukan terverifikasi yang dibaca bersama bab ini.
 > - **Pemilik implementasi:** mekanika pengerahan, penanganan data, dan jaminan dalam berkas implementasi yang ditunjuk harus tetap konsisten dengan aturan ini dan boleh lebih ketat di mana korpus sudah menyediakan logika aturan-lebih-ketat.
-> - **Aturan anti-relokasi:** bab ini hanya mengatur beban, jejak, observabilitas, batas keamanan, dan bukti. Ia tidak menyatakan ulang definisi Bab Lima, pengukuran kontribusi atau jejak **Bab Delapan**, atau kriteria salah laku anti-konstitusi Bab Sepuluh. Perutean ketidakpatuhan terverifikasi ke jejak diatur oleh [Bab Tiga §3 — Profil Temuan Ketidakpatuhan](core_03_definition_integrity.md#3-non-compliance-finding-profiles) dan [Bab Delapan — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model). **Bagian 6** menyatakan bagaimana Bab Dua sampai Empat berbeda dari [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+> - **Aturan anti-relokasi:** bab ini hanya mengatur beban, jejak, observabilitas, batas keamanan, dan bukti. Ia tidak menyatakan ulang definisi Bab Lima, pengukuran kontribusi atau jejak **Bab Sepuluh**, atau kriteria salah laku anti-konstitusi Bab Dua Belas. Perutean ketidakpatuhan terverifikasi ke jejak diatur oleh [Bab Tiga §3 — Profil Temuan Ketidakpatuhan](core_03_definition_integrity.md#3-non-compliance-finding-profiles) dan [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). **Bagian 6** menyatakan bagaimana Bab Dua sampai Empat berbeda dari [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 </details>
 
@@ -157,7 +157,7 @@ Kriptografi dan penanganan tipe informasi harus selaras dengan konstitusi dan **
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [Bab Empat, bagian 1 sampai 4](#1-exclusive-enforcement-and-burden-allocation); [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-purpose-and-role); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-definition-integrity-requirement); [Bab Dua, §3 Konsistensi di Seluruh Tumpukan Definisi](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Bab Tiga, §2.6 Batasan Integritas Ketidakpastian dan Non-Eksploitasi](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — aturan definisi dan ketidakpatuhan substantif; **§4** menyatakan persyaratan lapisan-bukti saja dan tidak menyatakan ulang aturan itu.
-- Hilir: [Bab Delapan — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- Hilir: [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - Baca bersama: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](#2-definition-traceability-requirement) — gagal mengundang atau menerapkan dengan benar setiap definisi **Bab Lima** yang dituntut secara material membatalkan evaluasi, bukti, dan penentuan kepatuhan terkait secara penuh; [Bab Satu, §6 — Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) di mana penskalaan memengaruhi tukar-guling antara kesejahteraan makhluk sadar dan kestabilan horizon-panjang; [Keselamatan Bab Lima (Batasan)](../../core_05_band_continuity.md#safety-constraint), [Kebenaran Bab Lima (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint), dan [Integritas Epistemik Bab Lima](../../core_05_band_oversight.md#epistemic-integrity) — keselarasan bukti berdasar sains bagi klaim empiris, prediktif, atau kausal.
 
 </details>
@@ -191,14 +191,14 @@ Di mana ketidakpastian mencegah demonstrasi kepatuhan yang definitif bagi kompon
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [Bab Dua — Struktur Definisi dan Persyaratan Komponen](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Bab Tiga — Integritas Definisi, Pengelakan, dan Ketidakpatuhan](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Bab Empat, bagian 1 sampai 5](#1-exclusive-enforcement-and-burden-allocation).
-- Hilir: [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Delapan — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
-- Baca bersama: [Bab Tujuh §6 — Pembukaan Ulang, Ketidakselarasan, dan Anti-Pengelakan](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) — ketidakpatuhan terverifikasi di bawah Bab Dua sampai Empat dapat membuka ulang atau mengalahkan sertifikasi terlepas dari pengakuan sebelumnya.
+- Hilir: [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Baca bersama: [Bab Sembilan §7 — Hasil Sertifikasi](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — ketidakpatuhan terverifikasi di bawah Bab Dua sampai Empat dapat membuka ulang atau mengalahkan sertifikasi terlepas dari sertifikasi sebelumnya.
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: Bab Dua sampai Empat menetapkan aturan yang harus dipenuhi setiap klaim kepatuhan — apa makna definisi, kapan perilaku gagal memenuhinya, dan cara bukti harus ditunjukkan. Bab Tujuh adalah proses sertifikasi terpisah yang disupervisi forum yang memakai aturan itu ketika suatu sistem membutuhkan pengakuan keselarasan formal. Sertifikasi yang sedang berlaku bukan tiket gratis mengelilingi Dua sampai Empat.*
+*Dalam bahasa sederhana: Bab Dua sampai Empat menetapkan aturan yang harus dipenuhi setiap klaim kepatuhan — apa makna definisi, kapan perilaku gagal memenuhinya, dan cara bukti harus ditunjukkan. Bab Sembilan adalah proses sertifikasi terpisah yang disupervisi forum yang memakai aturan itu ketika suatu sistem membutuhkan sertifikasi keselarasan formal. Sertifikasi yang sedang berlaku bukan tiket gratis mengelilingi Dua sampai Empat.*
 
 Bagian ini **non-operatif**. Ia menyatakan **batas lapisan** saja.
 
@@ -209,12 +209,12 @@ Bagian ini **non-operatif**. Ia menyatakan **batas lapisan** saja.
 
 Ini berlaku kapan pun kepatuhan dievaluasi — dengan atau tanpa sertifikasi.
 
-**[Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** memasok **proses sertifikasi** yang disupervisi forum di mana material: ranah evaluasi seluruh-sistem, kewajiban catatan sertifikasi, hasil pengakuan, irama revalidasi, rantai dapat-digugat, dan jembatan masukan terverifikasi ke Bab Delapan. Ia **menerapkan** Bab Dua sampai Empat; ia **tidak** menyatakannya ulang.
+**[Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** memasok **proses sertifikasi** yang disupervisi forum di mana material: ranah evaluasi seluruh-sistem, kewajiban catatan sertifikasi, hasil sertifikasi, jadwal sertifikasi ulang, rantai dapat-digugat, dan jembatan masukan terverifikasi ke Bab Sepuluh. Ia **menerapkan** Bab Dua sampai Empat; ia **tidak** menyatakannya ulang.
 
 Pembaca tidak boleh memperlakukan:
 - suatu **catatan sertifikasi** sebagai pengganti kepatuhan berkelanjutan di bawah Bab Dua sampai Empat
-- pengakuan, pengakuan bersyarat, atau revalidasi **Bab Tujuh** sebagai penurunan standar pembuktian, jejak, atau bukti dalam bab ini
-- **Bab Dua sampai Empat** sebagai opsional karena suatu sistem sebelumnya disertifikasi — ketidakpatuhan terverifikasi di bawah bab itu dapat membuka ulang atau mengalahkan sertifikasi di bawah Bab Tujuh
+- sertifikasi, sertifikasi bersyarat, atau sertifikasi ulang **Bab Sembilan** sebagai penurunan standar pembuktian, jejak, atau bukti dalam bab ini
+- **Bab Dua sampai Empat** sebagai opsional karena suatu sistem sebelumnya disertifikasi — ketidakpatuhan terverifikasi di bawah bab itu dapat membuka ulang atau mengalahkan sertifikasi di bawah Bab Sembilan
 
 ---
 

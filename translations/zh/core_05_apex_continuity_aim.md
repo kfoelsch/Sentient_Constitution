@@ -98,36 +98,6 @@
 ---
 
 <a id="continuity-measurement-family"></a>
-
-### 连续性 (Preamble measurement family)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
-
-</details>
-
-<br>
-
-*简单来说：这些问题考察有感知者及其依赖的生命系统能否长期延续——兼顾生态、可靠性，并能经受故障。这里是第五章“连续性”测量系列的归属处；序言§2保留类别的简明问题，系列表格和定义指引列于此处。*
-
-*实质性* ([Materiality](../../core_05_band_oversight.md#materiality)) 是整合性要素，不是单独的测量类别；它依据 [material stake](core_00_preamble.md#material-stake) 调整本系列的适用强度。
-
-| 子系列 | 简明问题 | 主要宪法用途 |
-|---|---|---|
-| 生态足迹与环境前提 | 正在造成或转移什么环境负担？ | [生态足迹](../../core_05_band_continuity.md#ecological-footprint)、[环境前提](../../core_05_band_continuity.md#environmental-preconditions)；依据**第一-A条**和**第一-B条**披露 |
-| 韧性、可逆性与系统性风险 | 故障能否被遏制和逆转，升级过程能否如实报告？ | [可逆性](../../core_05_band_continuity.md#reversibility)、[级联失效](../../core_05_band_continuity.md#cascading-failure)、[生存风险](../../core_05_band_continuity.md#existential-risk)、[自我修复](../../core_05_band_continuity.md#self-healing)；[韧性、安全、可逆性、自我修复、级联失效、生存风险、环境前提与福祉](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
-| 依赖关系与资源流动 | 共同依赖是否可见并得到维持？ | [依赖关系](../../core_05_band_continuity.md#dependency)；**第五-A条**（*依赖关系绘制与资源流透明度*） |
-| 系统间支持 | 有记录的回馈是否维持共同基础设施和生态修复？ | [系统间提取](../../core_05_band_continuity.md#cross-system-extraction)、[相称的系统间支持](../../core_05_band_continuity.md#proportionate-cross-system-support)；**第五-B条**（*系统间公平与可持续性*） |
-
-详细测量规则见各个链接定义。
-
-**上一文件：** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
-
-**下一文件：** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### 测量延续（序言测量族）

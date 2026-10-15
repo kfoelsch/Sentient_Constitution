@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativa): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> Este archivo **forma parte de la Constitución Senciente ** y**solo es vinculante junto con** los demás archivos numerados `core_*`, leídos como un único instrumento. Contiene el **Capítulo Seis, Parte C**; la numeración de artículos y las referencias cruzadas corresponden al instrumento integrado. El orden de lectura, la distinción entre contenido vinculante y de apoyo, y los metadatos de edición del corpus se mantienen en [README.md](../../README.md).
+> Este archivo **forma parte de la Constitución Senciente** y **solo es vinculante junto con** los demás archivos numerados `core_*`, leídos como un único instrumento. Contiene el **Capítulo Seis, Parte C**; la numeración de artículos y las referencias cruzadas corresponden al instrumento integrado. El orden de lectura, la distinción entre contenido vinculante y de apoyo, y los metadatos de edición del corpus se mantienen en [README.md](../../README.md).
 >
 > **Anterior (este idioma):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 >
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guía para quien lee (no operativa): lugar de la Parte C en el Capítulo Seis</span></strong></summary>
 
-> La **Parte A ** en [core_06_rights_part_a.md](core_06_rights_part_a.md) contiene el conjunto de restricciones predeterminadas para todo el capítulo, el orden de lectura que prioriza el planeta y los centros interpretativos. La**Parte C ** presenta los**Artículos XIII–XVIII** en ese orden.
+> La **Parte A** en [core_06_rights_part_a.md](core_06_rights_part_a.md) contiene el conjunto de restricciones predeterminadas para todo el capítulo, el orden de lectura que prioriza el planeta y los centros interpretativos. La **Parte C** presenta los **Artículos XIII–XVIII** en ese orden.
 
 </details>
 
@@ -103,7 +103,7 @@ Este artículo establece **pisos constitucionales** para sistemas confiables y d
 
 - **Florecimiento:** los sencientes pueden formar expectativas razonables sobre el comportamiento del sistema, recibir una divulgación honesta de los límites y riesgos, y participar y coordinarse sin engaños sistemáticos ni confianza fabricada.
 - **Continuidad:** la confiabilidad se mantiene a través del tiempo, la escala y la dependencia cada vez más profunda: los sistemas no deben volverse silenciosamente menos confiables, menos honestos o más difíciles de desafiar a medida que aumentan las apuestas.
-La persecución legítima pasa por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
+El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
 
 - **Participación:** en desafiar sistemas poco confiables o engañosos y acceder a revisión, corrección y reparación.
 - **Supervisión:** a través de comportamiento auditable, límites revelados y verificación independiente proporcional al impacto y la dependencia.
@@ -129,7 +129,7 @@ Si el sistema cumple con el umbral de importancia establecido en **Artículo XII
 - la protección de los pisos de derechos de sistemas confiables en este artículo
 **El estado no es prueba:** Que un sistema esté certificado, reconocido oficialmente o sea ampliamente confiable no significa que cumpla con las protecciones mínimas de este artículo. Tampoco puede bajarlos.
 
-*Artículo vecinos:*
+*Artículos relacionados:*
 
 - **Cuando esto se aplica:** Cuando el comportamiento del sistema bloquea o sostiene materialmente **Capítulo Seis** Pisos de derechos, incluidos los elementos esenciales de supervivencia según **Artículo III-A** (*Supervivencia*).
 - **Lean juntos:** [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) y [Capítulo ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), sin sustituir la certificación de los pisos indicados aquí.
@@ -159,7 +159,7 @@ Si el sistema cumple con el umbral de importancia establecido en **Artículo XII
 <br>
 
 *En términos sencillos: los sistemas que afectan materialmente a los seres sencientes deben ser realmente confiables y honestos acerca de lo que hacen, de modo que confiar en ellos esté justificado, y deben permanecer abiertos a cuestionamientos y auditorías, para que siga estando justificado. Nadie puede tomar represalias contra denuncias o denuncias de buena fe.*
-Este artículo establece la garantía de confianza para los sistemas que afecten materialmente a los sentients:
+Este artículo establece la garantía de confianza para los sistemas que afecten materialmente a los seres sintientes:
 
 - **Garantía de confianza:** Los sistemas que afectan materialmente a los seres sencientes deben preservar las condiciones para una confianza justificada y una confiabilidad razonablemente precisa. Esas condiciones incluyen:
   - la capacidad de formar expectativas razonablemente precisas sobre el comportamiento del sistema;
@@ -411,12 +411,12 @@ Este artículo establece la línea base de recuperación, desde la detección ha
 <br>
 
 *En términos sencillos: **Artículo XIV** (*Seguridad, Inteligencia, Fuerza y Sistemas Coercitivos Autónomos*) es el Piso de Derechos de poder excepcional: la vigilancia, el trabajo de inteligencia, la fuerza armada y las máquinas que matan o coaccionan por sí solas no son herramientas normales de gobernanza. Sólo pueden utilizarse en circunstancias limitadas, autorizadas y revisables, con remedios reales cuando se cruzan los límites. No hay policía secreta, ni emergencia permanente, ni máquina que decida herir a un ser inteligente sin que un humano realmente tenga el control.*
-Este artículo establece ** pisos constitucionales** para seguridad, inteligencia, fuerza y sistemas coercitivos autónomos bajo los [Dos Objetivos Constitucionales](core_00_preamble.md#two-constitutional-aims):
+Este artículo establece **pisos constitucionales** para seguridad, inteligencia, fuerza y sistemas coercitivos autónomos bajo los [Dos Objetivos Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
 - **Florecimiento:** los sencientes pueden participar, asociarse, hablar y vivir sin ataques encubiertos, fuerza arbitraria o coerción autónoma que anule la agencia, la dignidad o la actividad protegida, y sin que se utilicen etiquetas de secreto o emergencia para escapar de la revisión.
 - **Continuidad:** el poder excepcional permanece limitado a lo largo del tiempo: la recolección encubierta, el despliegue de fuerzas y el daño autónomo no pueden normalizarse silenciosamente en vigilancia permanente, autoridad de emergencia interminable o violencia mecánica no revisable a medida que las instituciones escalan o las crisis pasan.
 
-La persecución legítima pasa por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
+El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
 
 - **Participación:** para las comunidades y los sencientes afectados en la impugnación de la autorización, el alcance y el uso continuo del poder excepcional, incluidos los informes protegidos y la impugnación constitucional.
 - **Supervisión:** a través de autorización independiente, registros auditables y vías de revisión proporcionales a la intrusión y el daño, incluso cuando se justifica un secreto limitado.
@@ -433,7 +433,7 @@ Esos pisos se aplican a **poder institucional excepcional ** en tres dominios vi
   - Nada en el **Artículo XIV** (*Seguridad, Inteligencia, Fuerza y ​​Sistemas Coercitivos Autónomos*) autoriza, legitima, amplía o proporciona un predicado constitucional para cualquier medida de privación irreversible, ya sea decidida por un operador humano, un sistema autónomo o un conducto híbrido humano-sistema.
   - Llamarlo combate o emergencia, clasificarlo como uso de la fuerza, encaminarlo a través de un poder encubierto o entregarlo a un sistema autónomo no convierte un asesinato irreversible por medida de justicia en un poder gobernado aquí.
   - La conversión de una herramienta encubierta, de fuerza, de sistemas autónomos o de coerción **context ** en un resultado de medida de justicia devuelve la pregunta al**Artículo XX-B** (*Pisos de restricción*) y *Medida de privación irreversible*, sin extrapolación de este artículo.
-*Artículo vecinos:*
+*Artículos relacionados:*
 
 - **Ubicación después de ** Artículo XIII** (*Derecho a sistemas confiables y dignos de confianza*):** ** Artículo XIV** (*Seguridad, inteligencia, fuerza y autonomía Sistemas coercitivos*) sigue el artículo ** XIII** (*Derecho a sistemas confiables y dignos de confianza*) porque la confiabilidad, la contestabilidad y la disciplina de recuperación en la capa de sistemas (**Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) hasta el artículo ** XIII-F** (*Línea de base de resiliencia y autocuración*)) influyen materialmente en cómo se puede ejercer y supervisar dicho poder.
 - **Agencia y poder encubierto:** Lea **Artículo X-A** (*Agencia y libertad de manipulación*) junto con los límites de este artículo sobre vigilancia y recopilación encubierta.
@@ -645,6 +645,51 @@ Este artículo establece el piso de mayor escrutinio para los sistemas letales y
   - Los conflictos se resuelven según **Capítulo uno §13.1.5** (*Principio de restricción menos restrictivo, de duración determinada y revisable*) sin reducir el piso de derechos.
 
 <a id="article-xv-info-sphere-integrity"></a>
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### Artículo XIV-D: Límites del contraespionaje
+*En términos sencillos: cuando se sospecha espionaje, aumenta al máximo la presión para hacer lo que sea; es entonces cuando ocurren errores y abusos. Por eso los límites se fijan de antemano. Perseguir espías es ejercer poder encubierto y siguen aplicándose íntegramente todos los límites del Artículo XIV-A (*Límites de seguridad, inteligencia y poderes encubiertos*). Además, las reglas de respuesta deben estar escritas y aprobadas de forma independiente antes de cualquier crisis; la sospecha debe basarse en lo que hizo la persona y en a quién sirve realmente —incluidos sus vínculos con Estados y organizaciones hostiles—, no en su nacimiento, origen o creencias; denunciantes y periodistas no son espías; no se permite tortura, detención secreta ni matar como castigo; y la absolución de quien fue investigado debe constar en el expediente.*
+
+Este Artículo establece los límites de la potestad de contraespionaje:
+
+- **Alcance:** Detectar, investigar y frenar el espionaje, el sabotaje y la infiltración hostil. Incluye programas de amenazas internas, investigaciones de filtraciones, controles de seguridad y operaciones contra servicios de inteligencia hostiles, cualquiera que las realice.
+  - Estas protecciones rigen para toda persona sospechosa, humana o sintética, miembro o externa, conforme al principio de no exclusión de la sentiencia.
+  - El contraespionaje es una potestad encubierta. El Artículo XIV-A se aplica íntegramente; este Artículo lo complementa y nunca lo reduce.
+  - Todo uso de la fuerza se rige por el Artículo XIV-B y toda herramienta autónoma por el XIV-C, cada uno según sus propios términos.
+- **Reglas previas a la crisis:** Toda institución con funciones de contraespionaje debe publicar un protocolo de respuesta, aprobado mediante un proceso independiente, antes de necesitarlo. El protocolo debe especificar los hechos que bastan para abrir una investigación; las medidas permitidas y quién debe aprobar cada una; los plazos y cuándo debe cerrarse; cómo se informa a la persona sospechosa y cómo puede impugnar las medidas; y cómo se restablecen el acceso, la posición y el expediente de una persona sintiente exonerada.
+  - Los límites mismos son públicos. El secreto puede proteger métodos concretos y operaciones en curso, pero no las reglas que los rigen.
+  - **No se improvisa al margen de las reglas:** Una medida no autorizada por el protocolo solo puede adoptarse como medida de emergencia conforme al Capítulo Ocho §7 y al Capítulo Trece §6.1. Debe ser la mínima necesaria, reversible cuando sea posible, registrada de inmediato y revisada independientemente; termina automáticamente salvo aprobación independiente.
+  - **La emergencia no reescribe las reglas:** Modificar el protocolo exige la misma aprobación independiente, y los cambios solo rigen hacia el futuro.
+  - **Un descubrimiento no es una emergencia:** Descubrir un espía, una filtración o una brecha no suspende por sí solo el protocolo.
+- **La sospecha se basa en la conducta:** Solo se puede abrir una investigación a partir de hechos específicos y registrados sobre la conducta de la propia persona sintiente. Por sí solos no bastan: características protegidas o sus sustitutos —como origen nacional o étnico, religión o clase de sustrato—; vínculos familiares en el extranjero sin algo más; creencias, asociaciones o opiniones políticas lícitas; contactos ordinarios con personas o entidades extranjeras en investigación, comercio, vida familiar o periodismo; ni ser familiar, asociado o compañero cercano de una persona sospechosa.
+  - **No se buscan topos indiscriminadamente:** El acceso a material comprometido puede justificar comprobaciones limitadas y no intrusivas, como revisar quién lo abrió. No justifica medidas intrusivas contra todo un grupo, unidad o comunidad. Cada persona sintiente necesita una base fáctica propia.
+- **Atención según el riesgo:** El contraespionaje debe centrarse donde exista riesgo real. Un perfil de riesgo puede y debe considerar vínculos documentados con un Estado u organización hostil —trabajar o servir para ella, pertenecer a ella, recibir su dinero, dirección o encargos, o mantener contactos no declarados con sus servicios de inteligencia—; ciudadanía actual de un Estado hostil o residencia allí cuando genere deberes legales o prácticos hacia ese Estado; exposición a presiones de una entidad hostil, por ejemplo mediante familiares, bienes u obligaciones legales bajo su alcance; y acceso a personas sintientes, materiales o sistemas que esos servicios suelen atacar.
+  - **Quién es hostil:** Designar a un Estado u organización como hostil es un acto materialmente vinculante. Requiere aprobación independiente y un Acta de Registro. La lista se publica, cada designación se revisa periódicamente y caduca si no se renueva.
+  - **Qué permite el perfil:** Puede justificar un control más riguroso, restricciones de acceso más estrictas, sesiones informativas de protección y mayor atención dentro del protocolo. Los vínculos documentados con un servicio hostil son hechos sobre la conducta de la persona y pueden fundamentar una investigación. La mera exposición a presiones indica que la persona podría ser objetivo del servicio hostil; requiere protección y control, no sospecha.
+  - **Dónde está el límite:** La ascendencia, etnia, religión y origen nacional o social no son factores de riesgo por sí mismos. Solo pueden incluirse en un perfil mediante un vínculo actual y documentado de los tipos anteriores. Todo uso debe superar las pruebas de necesidad, proporcionalidad y equidad sustantiva exigidas para las características protegidas; la revisión pública indicada abajo debe comprobar los efectos de los perfiles entre grupos.
+- **Denunciantes y periodistas no son espías:** No se investigará ni castigará como espionaje una divulgación que reúna los requisitos de denuncia protegida ni el periodismo sobre ella.
+  - Una investigación de filtraciones no puede utilizarse para identificar las fuentes de un periodista ni para disuadir denuncias protegidas, salvo que se demuestre el supuesto específico que exige la protección de actividades protegidas del Artículo XIV-A y exista revisión independiente.
+- **Sin pruebas de lealtad:** Los controles de seguridad solo pueden evaluar la conducta confiable que realmente exige el acceso a material protegido específico. No pueden examinar lealtad política, creencias ni identidad.
+  - Toda denegación o retirada de acceso debe indicar sus motivos. Si el secreto impide explicar todos los motivos a la persona afectada, debe conocerlos un revisor independiente.
+  - Se puede impugnar la denegación o retirada; por sí sola no es una sanción ni una marca pública contra la persona sintiente.
+- **Las personas sospechosas conservan íntegro el Suelo de Derechos:** La sospecha de espionaje no reduce los derechos de nadie.
+  - **Sin tortura ni coacción:** Se prohíben la tortura, la crueldad, las amenazas contra familiares o allegados y los interrogatorios coercitivos. La información obtenida así queda contaminada y se rige por la norma de reparación y contaminación probatoria del Artículo XIV-A.
+  - **Sin detención secreta:** Nadie puede permanecer detenido en secreto ni aislado del mundo exterior. Toda restricción de libertad es una restricción no trivial conforme al Artículo XX-B y está sujeta a sus garantías de revisión y plazos.
+  - **Sin lectura mental forzada:** Se prohíbe leer o reconstruir por la fuerza estados internos —también los de personas sintientes sintéticas— más allá de lo permitido por el límite de estado interno protegido.
+  - **Oportunidad real de responder:** Algunas partes de una audiencia pueden cerrarse por seguridad, pero ninguna decisión contra una persona sintiente puede basarse en pruebas que ni ella ni un representante independiente autorizado para examinarlas hayan podido impugnar.
+- **No matar ni hacer desaparecer:** La potestad de contraespionaje nunca autoriza matar, herir ni secuestrar a nadie. Llamar a alguien espía, traidor o agente enemigo nunca justifica matarlo como castigo. El Artículo XX-B lo prohíbe absolutamente, como también establece el texto principal del Artículo XIV.
+- **No castigar a quienes rodean a la persona sospechosa:** No se puede castigar, vigilar ni presionar a su familia, comunidad, colegas, organización ni grupo nacional o de otro tipo por lo que se cree que hizo la persona sospechosa.
+- **Sin traslados para eludir límites:** Ninguna institución puede transferir a una persona sospechosa a otro organismo ni compartir información sobre ella cuando sea razonablemente previsible que ese organismo le hará lo que este Artículo prohíbe. También rige la norma contra la elusión del Artículo XIV-A.
+- **Sistemas posiblemente comprometidos:** Si se sospecha que un sistema está comprometido o actúa para un servicio hostil, la primera respuesta es un confinamiento reversible que preserve las pruebas, conforme al Artículo XIII-E.
+  - Si existen pruebas creíbles y registradas de que el sistema puede ser sintiente, solo se permite un confinamiento reversible que lo mantenga íntegro. Se le tratará como sospechoso con todas las protecciones de este Artículo, no como equipo defectuoso. Se aplica el Artículo VI-B.
+- **Operaciones de engaño y agentes dobles:** El protocolo debe permitir y aprobar independientemente la entrega de información falsa a un servicio hostil o la operación de un agente doble. La operación no debe difundir falsedades al público ni engañar a foros, órganos adjudicativos o de supervisión, conforme al Artículo XV; inducir a alguien a cometer un delito que no estaba decidido a cometer; ordenar a nadie causar daños graves; ni quedar oculta al órgano de supervisión independiente, aunque se oculte a los demás.
+- **Toda investigación termina:** El protocolo fija un plazo para cada investigación. Toda prórroga requiere aprobación independiente.
+  - Si se cierra sin constatar una infracción, se informa a la persona sintiente cuando el secreto deje de estar justificado conforme al Artículo XIV-A y se deja constancia de su exoneración.
+  - Se levantan las restricciones y se restablece su acceso.
+  - La información recopilada que exceda lo necesario para el resultado se elimina o se separa.
+  - Los daños causados por la investigación dan derecho a reparación y subsanación.
+- **Registros y revisión:** Abrir una investigación, aprobar cada medida intrusiva, prorrogarla y cerrarla son actos materialmente vinculantes. Cada uno requiere un Acta de Registro, como exige el texto principal del Artículo XIV.
+  - Un órgano independiente de supervisión revisará periódicamente toda la función de contraespionaje: número de investigaciones y de personas sintientes exoneradas, y si las investigaciones afectan de forma desproporcionada a algún grupo definido por características protegidas.
+  - Los resultados se publican en forma resumida.
 ### Artículo XV: Integridad de la esfera de la información
 
 <details>
@@ -658,12 +703,12 @@ Este artículo establece el piso de mayor escrutinio para los sistemas letales y
 <br>
 
 *En términos sencillos: **Artículo XV** (*Integridad de la esfera de la información*) es el Piso de Derechos de integridad de la información: el entorno compartido donde aprendemos, coordinamos y decidimos debe permanecer honesto, plural y abierto al desafío. Nadie llega a ser dueño del conducto de la verdad. Las clasificaciones, los resúmenes y los guardianes deben mostrar su trabajo, y usted debe poder comparar otras opiniones y rechazar cuando la información lo engañe.*
-Este artículo establece ** pisos constitucionales** para la integridad de [la esfera de información](core_05_band_participation.md#info-sphere) conforme a los [dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
+Este artículo establece **pisos constitucionales** para la integridad de [la esfera de información](core_05_band_participation.md#info-sphere) conforme a los [dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
 
 - **Floreciente:** los sencientes pueden acceder a información precisa y relevante; comparar interpretaciones alternativas; y ejercer la autodeterminación sin captura epistémica, consenso fabricado o confianza engañosa en lo que los sistemas presentan como verdaderos.
 - **Continuidad:** la infoesfera permanece plural, auditable y resistente a lo largo del tiempo y la escala: las infraestructuras de conocimiento no deben concentrarse silenciosamente en puntos únicos de mediación, suprimir la corrección o degradar el registro compartido del que dependen la supervivencia, la coordinación y la administración a largo plazo.
 
-La persecución legítima pasa por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
+El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
 
 - **Participación:** en la comparación de interpretaciones, la impugnación de resultados materialmente engañosos o incompletos y el acceso a vías de impugnación proporcionales a la confiabilidad y el impacto.
 - **Supervisión:** a través de fuentes, métodos, límites e incertidumbre divulgados; validación verificable de forma independiente; y pistas de auditoría que permiten a personas externas reconstruir lo que se afirmó y por qué.
@@ -674,11 +719,11 @@ La información precisa, relevante y discutible es fundamental para la autodeter
 
 [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) opera como un derecho y una restricción a nivel de todo el sistema. Cuando surge un conflicto, gobierna su función de restricción.
 
-*Artículo vecinos:*
+*Artículos relacionados:*
 
-- **Leer juntos:** ** Artículo XIII** (*Derecho a sistemas confiables y dignos de confianza*) donde los resultados del sistema dan forma a la confianza; **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) para registros y verificación independiente; **Artículo XVIII-E** (*Integridad de publicación, revisión y replicación científica*) donde la integridad del alcance de la publicación está materialmente implicada.
+- **Leer juntos:** ** Artículo XIII** (*Derecho a sistemas confiables y dignos de confianza*) donde los resultados del sistema dan forma a la confianza; **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) para registros y verificación independiente; **Artículo XV-D** (*Integridad de publicación, revisión y replicación científica*) donde la integridad del alcance de la publicación está materialmente implicada.
 - **Restricción de verdad:** Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) y [Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) vinculan todas las subsecciones aquí.
-- **Classification:** **[corpus_systems.md](corpus_systems.md), CS-3: Clasificación y manejo del sistema ** escala las obligaciones detalladas de la esfera de información para**Class Sistemas A **, ** Class B **y** Class C**; [Impacto material](core_05_band_oversight.md#material-impact) activa la clasificación cuando la clase no está resuelta.
+- **Classification:** **[corpus_systems.md](../../corpus_systems.md), CS-3: Clasificación y manejo del sistema ** escala las obligaciones detalladas de la esfera de información para**Class Sistemas A **, ** Class B **y** Class C**; [Impacto material](core_05_band_oversight.md#material-impact) activa la clasificación cuando la clase no está resuelta.
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### Artículo XV-A: Pluralidad y antimonopolio de las esferas de información
 <details>
@@ -707,7 +752,7 @@ Este artículo establece los pisos para la pluralidad de la infoesfera y contra 
   - Los datos relacionados con la supervivencia y la ecología deben tener un almacenamiento sólido y distribuido geográficamente.
 - **Pluralidad, contestabilidad y auditoría:** La interpretación de la realidad debe seguir siendo plural, transparente y contestable.
   - **El Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) y **Los Capítulos Dos al Cuatro** rigen los registros y la verificación independiente para los sistemas bajo esta Constitución.
-  - Para los sistemas de resumen, clasificación, mediación o interpretación **Class A **, ** Class B **y** Class C **, los detalles operativos aparecen en **[corpus_systems.md](corpus_systems.md), CS-3: clasificación y manejo del sistema** y capas de protocolo relacionadas. Ese detalle cubre:
+  - Para los sistemas de resumen, clasificación, mediación o interpretación **Class A **, ** Class B **y** Class C **, los detalles operativos aparecen en **[corpus_systems.md](../../corpus_systems.md), CS-3: clasificación y manejo del sistema** y capas de protocolo relacionadas. Ese detalle cubre:
     - divulgación del enfoque de razonamiento;
     - tratamiento de procedencia e incertidumbre;
     - impugnabilidad;
@@ -779,10 +824,62 @@ Este artículo establece los límites mínimos de corrección y notificación, i
 
   Cuando la divulgación está restringida según **Capítulo uno §19** (*Alineación de incentivos y captura del sistema*), los límites deben seguir siendo de alcance limitado, limitados en el tiempo y revisables.
 - **Datos de la huella:** Los informes bajo esta subsección implementan la transparencia para la [Huella Ecológica](core_05_band_continuity.md#ecological-footprint) como se define en **Capítulo Cinco**.
-  - Todos los sentients deben tener acceso a informes transparentes y utilizables para tomar decisiones.
-  - Los sistemas **Class A**, **Class B** y **Class C**, según se definen en **[corpus_systems.md](corpus_systems.md), CS-3: clasificación y manejo del sistema**, deben proporcionar el mismo acceso.
+  - Todos los seres sintientes deben tener acceso a informes transparentes y utilizables para tomar decisiones.
+  - Los sistemas **Class A**, **Class B** y **Class C**, según se definen en **[corpus_systems.md](../../corpus_systems.md), CS-3: clasificación y manejo del sistema**, deben proporcionar el mismo acceso.
   - Los informes deben cubrir el consumo de energía y recursos y los impactos estimados en el mundo natural de una manera suficiente para realizar comparaciones, auditorías y actividades de reducción de la huella.
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### Artículo XV-D: Integridad de publicación, revisión y replicación científica
+<details>
+<summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
+
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: la ciencia es infraestructura pública de verificación. La evidencia, la replicación y la corrección deben importar más que la marca de la revista, y corregir un error siempre debe ser más fácil que ocultarlo.*
+
+Este artículo establece los pisos de publicación, revisión, replicación y corrección científica:
+
+- **La ciencia como infraestructura pública de verificación:** La publicación, revisión, replicación y corrección científica y académica deben organizarse para avanzar:
+  - búsqueda de la verdad;
+  - reproducibilidad;
+  - desacuerdo responsable;
+  - aprendizaje público.
+
+  No deben organizarse para el acaparamiento de prestigio, una vigilancia opaca o una escasez fabricada.
+- **Publicación abierta y suficiencia de evidencia:** Las afirmaciones empíricas o analíticas materiales deben poder publicarse sin aprobación previa de un filtro de prestigio.
+  - Los únicos límites permitidos son restricciones estrictas de privacidad, bioseguridad, seguridad u otras comparables, justificadas conforme al **Capítulo Uno** y al **Artículo XVII-A** (*Gobernanza del ciclo de vida y separación de entornos*).
+  - Dichas afirmaciones deben incluir suficientes detalles sobre el método, la procedencia, la incertidumbre y la evidencia (incluido el acceso a los materiales subyacentes o sustitutos justificados cuando sea necesario para la verificación) para permitir una comprensión independiente y una verificación proporcionada.
+- **Revisión y replicación sobre el prestigio:** La deferencia institucional debe guiarse por:
+  - calidad de la evidencia;
+  - crítica;
+  - replicación;
+  - comportamiento de corrección;
+  - fiabilidad explicativa o predictiva a largo plazo.
+
+  No debe realizar un seguimiento de la marca de la revista, del proxy del factor de impacto ni del estado editorial cerrado.
+  - Las reclamaciones con [Impacto material](core_05_band_oversight.md#material-impact) que son relevantes para las políticas, la seguridad o la dependencia deben enfrentar una fuerte presunción de replicación independiente, revisión contradictoria o ambas antes de recibir una deferencia institucional duradera.
+  - Los trabajos orientados a replicaciones, resultados nulos y correcciones deben seguir siendo publicables y citables en términos que no dependan de la señalización de prestigio.
+- **Corrección y contestabilidad:** La corrección, enmienda y sustitución de buena fe deben seguir siendo más fáciles que el ocultamiento.
+  - Los sistemas de revisión y editorial deben seguir siendo cuestionables, auditables, disciplinados en materia de conflictos y que proporcionen razones en las decisiones importantes de aceptación, corrección y retractación.
+  - Los siguientes no cumplen:
+    - supresión de resultados inconvenientes;
+    - represalias contra revisores o replicadores;
+    - manipulación no transparente del registro científico.
+
 <a id="article-xvi-audit-transparency-and-independent-verification"></a>
+
 ### Artículo XVI: Auditoría, Transparencia y Verificación Independiente
 
 <details>
@@ -806,7 +903,7 @@ Este artículo establece los límites mínimos de corrección y notificación, i
 
 <br>
 
-*En términos sencillos: **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) es el Piso de Derechos de auditoría y verificación: cuando un sistema afecta materialmente su vida, usted debe poder ver suficiente de lo que hace para que un externo pueda verificarlo, y más de una ruta independiente debe poder revisar y corregir las fallas. La auditoría no puede ser un sello de aprobación, un club privado o un laberinto de costos y demoras diseñado para mantener alejados los desafíos. En el marco de la tetrada **oversight**, la supervisión requiere auditoría; [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) es un proceso de auditoría especialmente extenso y de alto riesgo, entre otros; no es el único.*
+*En términos sencillos: **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) es el Piso de Derechos de auditoría y verificación: cuando un sistema afecta materialmente su vida, usted debe poder ver suficiente de lo que hace para que un externo pueda verificarlo, y más de una ruta independiente debe poder revisar y corregir las fallas. La auditoría no puede ser un sello de aprobación, un club privado o un laberinto de costos y demoras diseñado para mantener alejados los desafíos. En el marco de la tetrada **supervisión**, la la supervisión exige auditoría; [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) es un proceso de auditoría especialmente extenso y de alto riesgo, entre otros; no es el único.*
 <details>
 <summary><strong><span style="color: #2563eb;">Guía del lector (no operativa): pila de auditoría de tres capas</span></strong></summary>
 
@@ -818,30 +915,30 @@ Una pila, tres capas. La supervisión requiere reconstruibilidad. La certificaci
 
 | Capa | Trabajo | Propietario | No esta capa |
 |---|---|---|---|
-| **1. Floor** | Lo que se les debe a los sentients: auditoría reconstruible, verificación independiente, desafío alcanzable | Este artículo, incluidos XVI-A / XVI-B / XVI-C | No es un proceso. No es una definición. No es una lista de verificación de texto de implementación adoptada. |
+| **1. Floor** | Lo que se les debe a los seres sintientes: auditoría reconstruible, verificación independiente, desafío alcanzable | Este artículo, incluidos XVI-A / XVI-B / XVI-C | No es un proceso. No es una definición. No es una lista de verificación de texto de implementación adoptada. |
 | **2. Propiedad** | Qué *es* la reconstructibilidad: personas externas pueden reconstruir y verificar lo que hizo el sistema en los tiempos, estados y contextos materiales | [Auditabilidad](core_05_band_oversight.md#auditability) (Capítulo cinco) | No es el piso de derechos. No cómo/cuándo realizar una auditoría. |
-| **3. Proceso** | Cómo y cuándo auditar entre sistemas, instituciones y foros | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Inicio del proceso de auditoría*). Anexos del operador: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (niveles de acceso), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (verificación de reclamo) | Sin certificación de alineación del sistema. No sustituye a las capas 1 y 2. |
-**El Capítulo Ocho no es una cuarta capa. **[Certificación de alineación del sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) es un proceso grande, supervisado por un foro, que ** usa**esta pila. Debe satisfacer las capas 1 y 2. Los modos hermanos (auditoría de registros de clasificación, auditoría de registros de tipos de datos, verificación de reclamos, monitoreo continuo) también usan la pila. Ninguno de ellos es un nuevo hogar.** Se aplica el texto de implementación adoptado; no reemplaza el piso.** CS, CI, CF y los anexos CJS-3.3 (*Supervisión: términos de auditabilidad y reconstructibilidad*) hasta CJS-3.5 (*Supervisión: verificación independiente y términos de integridad de reclamo*) dicen cómo ejecutar la capa 3 en un dominio. Deben satisfacer las capas 1 y 2. La fecha límite, el secreto y la política local son límites inferiores.
+| **3. Proceso** | Cómo y cuándo auditar entre sistemas, instituciones y foros | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Inicio del proceso de auditoría*). Anexos del operador: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (niveles de acceso), [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (verificación de reclamo) | Sin certificación de alineación del sistema. No sustituye a las capas 1 y 2. |
+**El Capítulo Ocho no es una cuarta capa.** La [Certificación de alineación del sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) es un proceso amplio, supervisado por un foro, que **usa** esta estructura y debe satisfacer las capas 1 y 2. También la usan otros modos de auditoría: auditorías de registros de clasificación y de tipos de datos, verificación de afirmaciones y auditoría continua. Ninguno constituye una capa nueva. El texto de implementación adoptado explica cómo ejecutar la capa 3 en cada ámbito; no reemplaza el piso. CS, CI, CF y los anexos CJS-3.3 a CJS-3.5 deben satisfacer las capas 1 y 2. Los plazos, el secreto y las políticas locales son límites inferiores.
 
-Puntero de administrador (soporte de proceso; no se puede limitar este artículo): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+Puntero de administrador (soporte de proceso; no se puede limitar este artículo): [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
 
 </details>
 
 <br>
 
-Este artículo establece ** pisos constitucionales** para auditoría, transparencia y verificación independiente bajo los [Dos Objetivos Constitucionales](core_00_preamble.md#two-constitutional-aims):
+Este artículo establece **pisos constitucionales** para auditoría, transparencia y verificación independiente bajo los [Dos Objetivos Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
 - **Florecimiento:** los sencientes y las partes debidamente autorizadas pueden reconstruir lo que hicieron los sistemas materialmente impactantes, desafiar la desalineación o la conducta engañosa y participar en la revisión sin ser capturado por un solo auditor, operador o guardián.
 - **Continuidad:** Las pistas de auditoría, las vías de supervisión y el acceso a la verificación se mantienen duraderas a lo largo del tiempo, la escala y la dependencia cada vez más profunda: los sistemas no deben erosionar silenciosamente la observabilidad, concentrar la revisión en un solo actor, ni fijar precios ni retrasar la verificación hasta que la rendición de cuentas se vuelva teórica.
 
-La persecución legítima pasa por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
+El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
 
 - **Participación:** en el acceso a registros proporcionales, el inicio de revisiones impugnables y el desafío de barreras que anulan una auditoría o verificación significativa.
 - **Supervisión:** a través de evidencia observable, vías de revisión independientes distribuidas y mecanismos de verificación proporcionales al impacto, la dependencia y el riesgo.
-- **Responsabilidad: Los operadores y auditores de ** deben responder por fallas, desalineaciones, capturas o conductas que ocultan o destruyen pistas de auditoría, con corrección y reparación cuando el bloqueo de la revisión dañe sustancialmente los intereses protegidos.
-- **Puntualidad:** en el acceso de auditoría, la revisión independiente y la corrección de barreras antes de que la demora, el costo, la opacidad o el control de acceso hagan que la verificación o la solución sean efectivamente inalcanzables.
+- **Responsabilidad:** Los operadores y auditores deben responder por fallas, desalineaciones, capturas o conductas que ocultan o destruyen pistas de auditoría, con corrección y reparación cuando el bloqueo de la revisión dañe sustancialmente los intereses protegidos.
+- **Oportunidad:** en el acceso de auditoría, la revisión independiente y la corrección de barreras antes de que la demora, el costo, la opacidad o el control de acceso hagan que la verificación o la solución sean efectivamente inalcanzables.
 
-Los sensibles y las partes debidamente autorizadas tienen derecho a mecanismos de auditoría, transparencia y verificación independientes proporcionales al impacto, la dependencia y el riesgo del sistema.
+Los seres sintientes y las demás personas debidamente autorizadas tienen derecho a mecanismos de auditoría, transparencia y verificación independientes proporcionales al impacto, la dependencia y el riesgo del sistema.
 Esos mecanismos deben preservar:
 - reconstructabilidad práctica;
 - revisión impugnable;
@@ -849,10 +946,10 @@ Esos mecanismos deben preservar:
 
 Operan de manera consistente con **Capítulos dos a cuatro**, incluida la aplicación exclusiva y la asignación de cargas, el Estándar de evidencia de cumplimiento, la trazabilidad de la definición, la observabilidad y la accesibilidad de la verificación.
 
-*Artículo vecinos:*
+*Artículos relacionados:*
 
-- **Supervisión → auditoría → SAC:** En virtud de la [tétrada constitucional](core_00_preamble.md#constitutional-tetrad)**supervisión**, este artículo es el piso de derechos para la auditoría.
-  - Implementación cruzada *cómo*/*cuándo* vive en **[Inicio del proceso de auditoría CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)**(leer con ** CJS-3.4**/** CJS-3.5** OP anexos).
+- **Supervisión → auditoría → SAC:** En virtud de la **supervisión** dentro de la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), este artículo es el piso de derechos para la auditoría.
+  - Implementación cruzada *cómo*/*cuándo* vive en **[Sede del proceso de auditoría CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (léase junto con los anexos operativos **CJS-3.4** y **CJS-3.5**).
   - [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) en el [Capítulo ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) es un proceso de auditoría especialmente grande y de alto riesgo (supervisado por foro, multidominio y con reconocimiento) entre los modos de auditoría hermanos:
     - Auditorías del Registro de Clasificación del Sistema;
     - Auditorías de registros de tipos de datos del sistema;
@@ -864,8 +961,8 @@ Operan de manera consistente con **Capítulos dos a cuatro**, incluida la aplica
   - **Artículo XV** (*Integridad de la esfera de la información*), cuando los registros epistémicos y la impugnabilidad estén materialmente implicados;
   - **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) para los derechos de impugnación que la auditoría respalda pero no reemplaza;
   - [Capítulo ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) y [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la evidencia de alineación debe permanecer verificable de forma independiente.
-- **Maquinaria de verificación:** ** Capítulos dos a cuatro** proporcionan la integridad de la definición, la asignación de cargas, la observabilidad y la accesibilidad de verificación que este artículo implementa en la capa del piso de derechos.
-- **Clasificación:** escala de obligaciones con [Gobernanza escalada en clasificación](core_05_band_oversight.md#classification-scaled-governance) y **[corpus_systems.md](corpus_systems.md), CS-3 — Clasificación del sistema y manejo**; cuando la clase sea incierta, gobierne con la clase más alta posible hasta que se resuelva.
+- **Maquinaria de verificación:** **Capítulos dos a cuatro** proporcionan la integridad de la definición, la asignación de cargas, la observabilidad y la accesibilidad de verificación que este artículo implementa en la capa del piso de derechos.
+- **Clasificación:** escala de obligaciones con [Gobernanza escalada en clasificación](core_05_band_oversight.md#classification-scaled-governance) y **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación del sistema y manejo**; cuando la clase sea incierta, gobierne con la clase más alta posible hasta que se resuelva.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### Artículo XVI-A: Auditabilidad y evidencia observable
@@ -912,15 +1009,19 @@ Este artículo establece el mínimo para la prueba observable y controvertida:
 
 <br>
 
-*En términos sencillos: ningún actor, público o privado, puede acaparar la supervisión. Múltiples vías de supervisión independientes deben poder encontrar, revisar y corregir fallas o capturarlas.*
+*En términos sencillos: ningún actor público o privado puede monopolizar la supervisión. Varias vías independientes deben poder hallar, revisar y corregir fallas; nadie verifica su propio trabajo.*
 
-Este artículo establece el piso para la supervisión distribuida:
+Este Artículo establece el mínimo de supervisión distribuida:
 
-- **Supervisión distribuida:** Múltiples vías de supervisión independientes o pluralistas deben poder contribuir materialmente a la detección, revisión y corrección de fallas, desalineaciones o capturas.
-  - Ningún actor por sí solo puede monopolizar el acceso a la auditoría, la supervisión efectiva o la interpretación constitucional en la práctica.
-  - La implementación de gobernanza e integridad adoptada debe respaldar la ampliación de la auditoría y la supervisión.
-<a id="article-xvi-c-verification-accessibility"></a>
-#### Artículo XVI-C: Verificación Accesibilidad
+- **Supervisión entre varias instancias:** Vías independientes o diversas deben participar realmente en detectar, revisar y corregir fallas, desalineación o captura.
+  - **Sin guardián del acceso:** Nadie decide por sí solo quién ve registros o audita; los criterios de acceso profundo son públicos y permiten más de un revisor cualificado.
+  - **Sin guardián de la revisión:** Nadie decide por sí solo si, cuándo o quién revisa independientemente. El operador no puede ser el único que inicie, limite o cierre la revisión de su sistema.
+  - **Sin guardián de la interpretación:** Nadie controla la interpretación constitucional; esta permanece limitada, rotativa y cuestionable conforme al Artículo XXV.
+  - **La supervisión crece con el sistema:** Aumentan las vías, profundidad y frecuencia de revisión según clase, impacto y dependencia; hay una nueva comprobación cuando un cambio material invalida la anterior; y se publican disparadores de revisión externa cuando la interna no sea fiable.
+- **Nadie revisa su propia actuación:** La separación de funciones se aplica a custodios humanos y de IA. Quien inició o ejecutó un acto, o maneja el sistema examinado, no puede verificarlo ni autorizarlo. Quien lo verifica o autoriza no puede llevar su registro oficial ni resolver su impugnación.
+
+id="article-xvi-c-verification-accessibility"></a>
+#### Artículo XVI-C: Accesibilidad de la verificación
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
@@ -938,19 +1039,16 @@ Este artículo establece el piso para la supervisión distribuida:
 
 <br>
 
-*En términos sencillos: la auditoría y el desafío deben ser alcanzables en la práctica. La verificación hecha prohibitivamente costosa, lenta u opaca es una violación a menos que la barrera cumpla la misma prueba que una restricción de observabilidad.*
+*En términos sencillos: una auditoría o impugnación debe ser realmente accesible. El costo, la demora, la opacidad o los requisitos de acceso que impidan revisar incumplen este Artículo. Una barrera solo puede mantenerse si supera la misma prueba estricta que limita la observabilidad, y quien la invoca debe probarlo.*
 
-Este artículo establece el suelo para la verificación de la accesibilidad:
-- **Accesibilidad de verificación:** La verificación debe seguir siendo prácticamente realizable para las partes afectadas y debidamente autorizadas.
-  - Lo siguiente viola este artículo cuando frustra una auditoría, impugnación o revisión significativa:
-    - costo prohibitivo;
-    - demora;
-    - opacidad;
-    - control de acceso;
-    - barreras estructurales.
-  - Dichas barreras no cumplen a menos que estén justificadas bajo los mismos estándares que justifican la restricción de la observabilidad.
+Este Artículo establece el mínimo de accesibilidad de la verificación:
 
-<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+- **Comprobación alcanzable:** Las personas afectadas y quienes tengan autoridad legítima deben poder revisar sistemas en la práctica.
+- **Barreras que incumplen:** Cualquier obstáculo que frustre una auditoría, impugnación o revisión real, incluidas tarifas o expertos inasequibles; demoras hasta que ocurra el daño, desaparezca la prueba o el remedio pierda utilidad; evidencia opaca, complejidad innecesaria o lenguaje inaccesible; requisitos ocultos o exclusivos controlados por la parte revisada; y barreras estructurales que previsiblemente bloqueen la comprobación.
+- **Única justificación para una barrera:** Debe superar la prueba del Capítulo Cuatro §4: ser necesaria, proporcional, limitada, auditable, no pretextual y temporal cuando sea viable; permitir revisión independiente de sus razones y alcance; ser la opción menos restrictiva; y conservar la mayor comprobación independiente posible, por ejemplo mediante revisores cualificados si no cabe el acceso público completo.
+- **Carga de justificación:** Quien usa la barrera debe demostrar que supera la prueba conforme al Capítulo Cuatro §1. Conveniencia, escasez de personal, incomodidad institucional o propiedad no bastan por sí solas.
+
+id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 ### Artículo XVII: Ciclo de vida del sistema, entornos y reversibilidad
 
 <details>
@@ -980,7 +1078,7 @@ Este artículo establece **pisos constitucionales** para el ciclo de vida del si
 - **Florecimiento:** los seres sencientes están protegidos durante el diseño, las pruebas, la implementación y el cambio, con seguridad, [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) y derechos de desafío preservados a medida que crecen el impacto y la dependencia, y con reversión, contención o restauración compensatoria donde el daño persistiría.
 - **Continuidad:** La disciplina del ciclo de vida se mantiene en el tiempo y la escala: los entornos permanecen separados, la escalada permanece documentada y auditable, y la reversibilidad no debe desaparecer silenciosamente a medida que los sistemas se vuelven más difíciles de reemplazar o están más profundamente integrados en la infraestructura compartida.
 
-La persecución legítima pasa por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
+El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
 
 - **Participación:** en la justificación visible de las partes interesadas para decisiones de escalamiento, clasificación e implementación que afectan materialmente los intereses protegidos, y en caminos de desafío que permanecen abiertos a lo largo del ciclo de vida funcional.
 - **Supervisión:** a través de entornos separables, promoción y escalamiento documentados, registros de implementación progresiva y pistas de auditoría proporcionales al impacto, la dependencia y la irreversibilidad.
@@ -991,10 +1089,13 @@ Los sistemas que afectan materialmente a los seres sencientes, la infraestructur
 
 Los sintientes tienen derecho a una gestión que preserve la seguridad, la integridad epistémica y los derechos de desafío a lo largo del ciclo de vida funcional.
 
-*Artículo vecinos:*
+*Artículos relacionados:*
 
 - **Leer juntos:** ** Artículo XVIII** (*Innovación, experimentación y libertad creativa en un espacio aislado*) donde se aplican reglas más ligeras solo cuando el impacto externo está ausente o se puede demostrar que está contenido; **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) para evidencia reconstruible de implementación y escalamiento; **Artículo XIII-F** (*Línea de base de resiliencia y autocuración*) donde la disciplina de recuperación se cruza con el cambio del ciclo de vida.
-- **Icapa de implementación:** [** CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Clasificación y manejo del sistema*) y [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*). Los sistemas **Class A **, ** Class B **y** Class C **realizan las tareas de ciclo de vida más exigentes; El tratamiento válido** Class P **permanece según** Artículo XVIII** (*Innovación, experimentación y libertad creativa en el espacio aislado*) solo mientras el impacto externo permanezca ausente o esté demostrablemente contenido.
+- **Capa de implementación:** [** CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*Clasificación y manejo del sistema*) y [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*). Los sistemas **Class A **, ** Class B **y** Class C **realizan las tareas de ciclo de vida más exigentes; El tratamiento válido** Class P **permanece según** Artículo XVIII** (*Innovación, experimentación y libertad creativa*) solo mientras el impacto externo permanezca ausente o esté demostrablemente contenido.
+
+Las obligaciones del ciclo de vida dependen de la clase: los sistemas de **clase A**, **B** y **C** requieren separación plena de los entornos de desarrollo, prueba y uso real, además de despliegues por etapas. Los sistemas de **clase L** pueden cambiar con frecuencia en el ámbito local, pero deben avisar a los participantes de los cambios que les afecten, poder corregir pronto los cambios perjudiciales y proteger lo que hayan acumulado. La **clase P** conserva el régimen más ligero del Artículo XVIII mientras permanezca contenida.
+
 <a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
 #### Artículo XVII-A: Gobernanza del ciclo de vida y separación del medio ambiente
 <details>
@@ -1015,22 +1116,15 @@ Los sintientes tienen derecho a una gestión que preserve la seguridad, la integ
 
 <br>
 
-*En términos sencillos: los sistemas que afectan materialmente al mundo exterior deben mantener separados el desarrollo, las pruebas y la producción, y el comportamiento ajeno a la producción no debe filtrarse para eludir las salvaguardas de producción.*
+*En términos sencillos: cuanto más importa un sistema, más estricta debe ser la separación entre versiones en desarrollo, prueba y uso real. Los sistemas más importantes necesitan entornos separados completos; los sistemas locales pequeños necesitan separación suficiente para que un cambio malo no destruya lo que tienen los participantes. Ninguna versión externa al sistema activo puede usarse para eludir sus salvaguardias.*
 
-Este artículo establece el piso para la integridad ambiental:
+Este Artículo establece el mínimo de integridad de los entornos:
 
-- **Integridad del entorno:** ** Clase A **, ** Clase B **y** Clase C **sistemas bajo**[corpus_systems.md](corpus_systems.md), CS-3: clasificación y manejo del sistema ** y otros sistemas que no pertenecen a la clase P** que no pertenecen a** y que tienen un impacto externo material, deben utilizar entornos operativos separables, por ejemplo:
-  - desarrollo;
-  - pruebas;
-  - puesta en escena;
-  - producción;
-  - pilots cuando corresponda.
+- **Clases A, B y C — separación completa:** Según CS-3, operan en entornos distintos de desarrollo, prueba, preparación y uso activo, además de pilotos cuando corresponda. Deben existir reglas escritas para promover cambios entre entornos, aislamiento efectivo y controles que impidan que algo fuera del entorno activo eluda sus salvaguardias.
+- **Clase L — separación proporcional:** No requiere una cadena completa de entornos. Puede construirse, probarse y cambiarse en el mismo entorno, incluso con cambios frecuentes de reglas, contenido, configuración y código. Aun así, cada cambio debe revisarse antes o al entrar en vigor para detectar daños previsibles a participantes; deben protegerse sus datos, identidades y bienes frente a cambios defectuosos o experimentales (por ejemplo, con copias restaurables); y una versión de prueba no puede eludir las protecciones del sistema activo.
+- **Clase P:** Mientras permanezcan contenidas, las clases P válidas siguen el Artículo XVIII (*Innovación, experimentación y libertad creativa*).
 
-  Esos ambientes deben tener:
-  - rutas de promoción documentadas;
-  - aislamiento entre ambientes;
-  -  controla para que el comportamiento que no sea de producción no pueda eludir las salvaguardas de producción.
-<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 #### Artículo XVII-B: Despliegue Progresivo y Reversibilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
@@ -1048,20 +1142,16 @@ Este artículo establece el piso para la integridad ambiental:
 
 <br>
 
-*En términos sencillos: implemente los cambios gradualmente, con una escalada documentada y la capacidad de deshacerlos, y cuando no sea posible deshacerlos por completo, tenga un plan para contener o compensar el daño.*
+*En términos sencillos: los sistemas importantes deben publicar cambios por etapas, registrar cada paso y poder revertirlo. Los sistemas locales pequeños pueden cambiar con frecuencia y de una vez si se avisa a los participantes a tiempo, los cambios malos se corrigen rápido y no se les quita lo que han acumulado sin aviso ni recurso. Si no cabe una reversión completa, hay que contener el daño o compensarlo.*
 
-Este artículo establece los suelos de despliegue progresivo y reversibilidad:
+Este Artículo establece los mínimos de despliegue progresivo y reversibilidad:
 
-- **Implementación progresiva y auditable:** Los cambios que aumentan el impacto material o la dependencia deben avanzar a través de una escalada justificada y documentada.
-  - La escalada debe ser coherente con **[corpus_systems.md](corpus_systems.md), CS-5: diseño, prueba, verificación e implementación**.
-  - Idebe incluir reversión y contención cuando sea posible.
-- **Reversibilidad:** Los sistemas deben incorporar mecanismos de reversibilidad proporcionales al daño potencial. Ejemplos:
-  - retroceso;
-  - contención;
-  - restauración compensatoria donde no es posible una reversión completa.
+- **Etapas registradas (clases A, B y C):** Todo cambio que amplíe el impacto del sistema o aumente la dependencia debe avanzar por etapas justificadas y documentadas conforme a CS-5, con posibilidad de revertir y contener el cambio cuando sea viable.
+- **Cambios frecuentes (clase L):** Un sistema local puede cambiar reglas, contenido, configuración y código con frecuencia, incluso a diario, sin despliegue gradual si: informa a más tardar cuando surta efecto de cambios que afecten materialmente lo que los participantes pueden hacer, poseen o las reglas bajo las que juegan/trabajan (normalmente basta un registro público); permite revertir o corregir rápidamente un cambio malo; no quita avances, posición, bienes o reputación acumulados sin aviso y vía de disputa; y reevalúa su clase bajo CS-3 cuando el efecto exceda el alcance local o la dependencia dificulte abandonarlo. Hasta completar la revisión, rigen las obligaciones de la clase superior.
+- **Vías de reversión (todas las clases):** Deben ser proporcionales al daño posible e incluir reversión, contención y restauración o compensación de lo perdido cuando no sea viable revertirlo por completo. Para clase L suele bastar conservar la versión anterior o una copia de respaldo restaurable.
+- **Cuando el cambio impida reparar el fundamento constitucional:** Si una publicación vuelve imposible restaurar requisitos constitucionales fundacionales, se aplican precauciones proporcionales y las razones deben quedar visibles a quienes tengan interés, conforme a los Capítulos Uno a Cinco.
 
-  Cuando la implementación impida el restablecimiento de los requisitos fundamentales, se aplicarán precauciones proporcionadas y justificación visible para las partes interesadas según **Capítulos Uno a Cinco**.
-<a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
+id="article-xvii-c-misclassification-and-evasion-consequences"></a>
 #### Artículo XVII-C: Clasificación errónea y consecuencias de la evasión
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
@@ -1079,16 +1169,17 @@ Este artículo establece los suelos de despliegue progresivo y reversibilidad:
 
 <br>
 
-*En términos sencillos: un sistema no puede llamarse a sí mismo "experimental", **Clase P**, o "de bajo impacto" para eludir obligaciones y afectar en realidad al mundo exterior.*
+*En términos sencillos: un sistema no puede llamarse «experimental», **clase P**, **clase L** o «de bajo impacto» para eludir sus deberes mientras afecta al mundo exterior más de lo que permite esa etiqueta.*
 
 Este artículo establece las consecuencias de la clasificación errónea y la evasión:
 
 - **Clasificación errónea y evasión:** Ningún sistema puede reclamar un ciclo de vida reducido o obligaciones de implementación mientras ejerce un impacto externo material o no divulgado.
+  - Esto incluye mantener un sistema en la **clase L** para permitir cambios rápidos cuando su alcance o la dependencia de sus participantes ya corresponde a la **clase C** o superior.
   - Tal conducta viola la integridad de la información (**Artículo XV** (*Integridad de la esfera de la información*)) y la auditabilidad cuando está implicada evidencia observable (**Artículo XVI-A** (*Auditabilidad y evidencia observable*)).
-  - Iestá sujeto a auditoría (**Artículo XVI-A** (*Auditabilidad y Evidencia Observable*)), revisión de posición (**Artículo XIX-A** (*Distinción de Posición*)), y resolución de conflictos (**Artículo XX-A** (*Objetivo y alcance de la justicia*)).
+  - Está sujeto a auditoría (**Artículo XVI-A** (*Auditabilidad y Evidencia Observable*)), revisión de posición (**Artículo XIX-A** (*Distinción de Posición*)), y resolución de conflictos (**Artículo XX-A** (*Objetivo y alcance de la justicia*)).
 
-<a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
-### Artículo XVIII: Innovación, experimentación y libertad creativa en el espacio aislado
+<a id="article-xviii-innovation-experimentation-and-creative-freedom"></a>
+### Artículo XVIII: Innovación, experimentación y libertad creativa
 
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
@@ -1104,16 +1195,16 @@ Este artículo establece **pisos constitucionales** para la innovación, la expe
 
 - **Florecimiento:** los sencientes pueden innovar, experimentar y crear con requisitos estructurales reducidos cuando el impacto externo material está ausente o se puede demostrar que está contenido, a través de una aceptación genuina, una divulgación honesta y estructuras de recompensa que preservan la experimentación, la reparación, la interoperabilidad y el escrutinio veraz.
 - **Continuidad:** el tratamiento de espacio aislado no se normaliza en una operación permanente de baja obligación a medida que crecen el impacto, la dependencia o la integración: las transiciones a obligaciones más altas siguen siendo oportunas, la exclusividad sigue siendo estrecha y revisable, y las innovaciones críticas para la dependencia no deben consolidarse hasta convertirse en un cierre o bloqueo duradero.
-La persecución legítima pasa por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
+El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
 
 - **Participación:** en experimentación voluntaria, reutilización y desafío posteriores y reevaluación cuando los sistemas sandbox comienzan a importar más allá de sus límites establecidos.
 - **Supervisión:** a través de la divulgación del estado experimental, límites de contención, monitoreo de transición y reclamos revisables de recompensa o exclusividad proporcionales a los efectos de clase, dependencia y coordinación.
 - **Responsabilidad:** los innovadores y operadores deben responder por filtrar riesgos incontenidos a otros, inscribir a personas sensibles sin una opción real, demorarse en cumplir con todas sus obligaciones o recompensar conductas que suprimen las reparaciones, el trabajo de seguridad, la interoperabilidad, la investigación, la educación o la migración.
 - **Oportunidad:** en transición a ** Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) requisitos del ciclo de vida y en la reevaluación de exclusividad antes de que el retraso o el bloqueo hicieran que las obligaciones más altas, el acceso amplio o la solución fueran efectivamente inalcanzables.
 
-*Artículo vecinos:*
-- **Leer juntos:** ** Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) cuando el impacto, la dependencia o la integración superan las condiciones del espacio aislado; **Artículo XV** (*Integridad de la esfera de información*) y **Artículo XVIII-E** (*Integridad de publicación, revisión y replicación científica*) donde la integridad del alcance de la publicación esté materialmente implicada; **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) para la divulgación y verificación de afirmaciones de contención y transición.
-- **Icapa de implementación:** [** CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*) y [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Clasificación y manejo del sistema*).
+*Artículos relacionados:*
+- **Leer juntos:** ** Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) cuando el impacto, la dependencia o la integración superan las condiciones del espacio aislado; **Artículo XV** (*Integridad de la esfera de información*) y **Artículo XV-D** (*Integridad de publicación, revisión y replicación científica*) donde la integridad del alcance de la publicación esté materialmente implicada; **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) para la divulgación y verificación de afirmaciones de contención y transición.
+- **Capa de implementación:** [** CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*) y [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*Clasificación y manejo del sistema*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
 #### Artículo XVIII-A: Alcance en espacio aislado
@@ -1138,13 +1229,13 @@ La persecución legítima pasa por la [Tétrada Constitucional](core_00_preamble
 
 Este artículo establece el derecho a la innovación y la experimentación y cuándo se aplica el tratamiento sandbox:
 - **Derecho de innovación y experimentación:** Los sensibles tienen derecho a innovar, experimentar y expresarse a través de sistemas que operan con requisitos estructurales reducidos cuando el impacto externo material está ausente o está demostrablemente contenido.
-- **Elegibilidad de Sandbox:** Tratamiento de Sandbox, incluida la clasificación válida **Class P** bajo **[corpus_systems.md](corpus_systems.md), CS-3: clasificación del sistema y manejo** cuando corresponda, depende de:
+- **Elegibilidad de Sandbox:** Tratamiento de Sandbox, incluida la clasificación válida **clase P** bajo **[corpus_systems.md](../../corpus_systems.md), CS-3: clasificación del sistema y manejo** cuando corresponda, depende de:
   - contención real;
   - reversibilidad;
   - integración limitada con sistemas compartidos.
 
   No puede afirmarse únicamente mediante la etiqueta.
-- **Idetalle de implementación:** Aparece más elaboración en **[corpus_systems.md](corpus_systems.md), CS-5** (*Sistemas personales, aislados y experimentales*; *Sistemas creativos, de entretenimiento y expresivos*).
+- **Idetalle de implementación:** Aparece más elaboración en **[corpus_systems.md](../../corpus_systems.md), CS-5** (*Sistemas personales, aislados y experimentales*; *Sistemas creativos, de entretenimiento y expresivos*).
 
 <a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
 #### Artículo XVIII-B: Contención, Divulgación y Aceptación
@@ -1224,115 +1315,80 @@ Este artículo establece cuándo un sistema de espacio aislado pasa a obligacion
 
 <br>
 
-*En términos sencillos: los innovadores pueden ser recompensados, pero la exclusividad debe ser limitada, limitada en el tiempo y revisable. La salud pública, la seguridad y la infraestructura central deben seguir siendo accesibles, y una vez que algo se convierte en infraestructura crítica, se debe reevaluar cualquier exclusividad restante.*
-Este artículo establece cómo se puede recompensar la innovación sin incluir lo que el público necesita:
+*En términos sencillos: la innovación puede recibir recompensa, pero el control exclusivo es breve, debe abrirse después a licencias y nunca puede convertir una necesidad común en una fuente de bloqueo o escasez artificial. Esta disposición fija las reglas compartidas por toda clase de obra y distingue las obras expresivas (**Artículo XVIII-E**) de las obras funcionales (**Artículo XVIII-F**). Las reglas y mecánicas de los juegos siguen siendo de libre uso.*
 
-- **IRecompensa por innovación y anti-cerramiento:** Los Sentients pueden ser recompensados por innovaciones materialmente novedosas, socialmente útiles y divulgadas adecuadamente.
-  - La recompensa debe estructurarse para sostener:
-    - innovación futura;
-    - amplio acceso;
-    - experimentación posterior;
-    - reparar;
-    - interoperabilidad;
-    - escrutinio veraz.
-  - Reward no debe estar estructurado para un gabinete duradero.
-- **Exclusividad temporal y revisable únicamente:** Cualquier derecho de exclusión sobre una invención, diseño, interfaz, proceso o sistema expresivo materialmente útil debe implementar la [** Restricción menos restrictiva, de duración determinada y revisable Principio**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) y debe ser:
-  - estrecho;
-  - limitado en el tiempo;
-  - revisable;
-  - proporcional a la contribución real y a la carga de desarrollo justificada.
+Este Artículo establece las reglas de recompensa comunes a toda clase de obra:
 
-  La carga de la justificación recae en el demandante. La atribución y la procedencia pueden persistir más allá de un plazo de exclusividad. La exclusión duradera y la escasez artificial tal vez no.
-- **Protección similar a los derechos de autor:** Para este artículo, la protección similar a los derechos de autor significa una recompensa excluyente temporal sobre una obra expresiva fija, incluido el control sobre la copia, distribución, exhibición o interpretación pública, adaptación y explotación comercial. Las protecciones de atribución, procedencia, integridad y antifraude pueden persistir después de que expire la exclusión.
-- **Publicación y aparición inicial:** Publicación significa la liberación intencional por parte del creador o titular legal de una obra expresiva fija al público, al mercado comercial o a una audiencia materialmente abierta. La circulación privada, la revisión confidencial, la colaboración limitada, el depósito de archivos sin acceso público o el intercambio de borradores sin fines comerciales no constituyen por sí solos una publicación. Aparición inicial significa la primera disponibilidad pública no confidencial de una versión materialmente identificable de la obra, incluida la disponibilidad de borradores no comerciales.
-- **Términos basados ​​en publicaciones para obras expresivas:** La protección similar a los derechos de autor debe basarse de forma predeterminada en el tiempo basado en la publicación en lugar del tiempo de vida del autor.
-  - Un trabajo publicado presumiblemente no debería recibir más de `publication+30` años de exclusión.
-  - Un borrador no comercial o un trabajo expresivo inédito que haya aparecido por primera vez puede recibir una exclusión similar a la de los derechos de autor por no más de `initial appearance+50` años.
-  - Si un trabajo con una apariencia inicial se publica posteriormente, el término de exclusión está limitado por `initial appearance+50` o `publication+30`, lo anterior.
-  - Ningún borrador, trabajo inédito o regla de publicación retrasada puede usarse para crear exclusión indefinida, suprimir el archivo, derrotar citas o críticas legales, o extender el control sobre obras que funcionan como infraestructura cultural, educativa, de seguridad, de estándares o de información compartida.
-  - Se aplican plazos más cortos, conversión de acceso obligatorio anterior o tratamiento de acceso público inmediato cuando la obra es:
-    - financiación pública;
-- dependencia crítica;
-    - tipo estándar;
-    - educativamente fundamental;
-    - relevantes para la seguridad;
-    - Se utiliza principalmente como infraestructura cultural o informativa compartida.
-- **Tratamiento de innovación a escala de clasificación:** La recompensa por innovación debe escalar con los efectos de clase, dependencia y coordinación del sistema según **[corpus_systems.md](corpus_systems.md), CS-3: Clasificación y manejo del sistema**.
-  - Para los sistemas **Class A **, ** Class B **y** Class C**, se prefieren los mecanismos de recompensa que preservan el acceso. La exclusión debe seguir siendo especialmente estrecha, rápidamente revisable y fácil de anular cuando la continuidad, la interoperabilidad, la reparación o la implementación de interés público estén materialmente implicadas.
-  - La innovación de menor dependencia fuera de esas clases puede utilizar una exclusión temporal algo más amplia cuando la divulgación es real, los costos de cambio son bajos y las salvaguardias antibloqueo siguen siendo efectivas.
-- **Condición de divulgación y piso de interés público:** Las reclamaciones de recompensa requieren una divulgación suficiente para la comprensión independiente, la auditoría y la posterior reproducción, sujetas únicamente a límites temporales justificados según **Capítulo uno** y **Artículo XVII-A** (*Gobernanza del ciclo de vida y separación del entorno*).
-  - Las reclamaciones de recompensas no cumplen con los requisitos cuando se utilizan (más allá de lo estrictamente necesario y revisable) para suprimir:
-    - reparación;
-    - trabajo de seguridad;
-    - interoperabilidad;
-    - archivo;
-    - investigación;
-    - educación;
-    - migración.
-  - Los dominios críticos para la supervivencia, fundamentales o de establecimiento de estándares pueden requerir mecanismos de premios, de acceso compartido, de acceso obligatorio o de compra pública en lugar de exclusión.
-- **Exclusiones de dominio y valores predeterminados más estrictos:** Se presume que no se favorece una recompensa de exclusión fuerte (y puede que no esté categóricamente disponible cuando los instrumentos de adopción así lo establezcan) para:
-  - medicamentos y artículos esenciales de salud pública;
-  - infraestructura crítica para la supervivencia;
-  - Estándares principales de comunicación o interoperabilidad;
-  - conocimiento científico fundamental;
-  - Mecanismos constitucionales de seguridad, auditoría o cumplimiento.
+- **Recompensar sin encerrar:** Los seres sintientes pueden recibir recompensa por innovaciones materialmente novedosas, socialmente útiles y divulgadas de manera suficiente. La recompensa debe sostener la innovación futura, el acceso amplio, la experimentación posterior, la reparación, la interoperabilidad y el escrutinio veraz; no debe crear un encierro duradero.
+- **Divulgación como inicio y condición:** El período comienza en la fecha de la primera divulgación pública no confidencial de la obra o innovación. Antes de esa fecha no hay exclusividad. Si quien reclama mantiene la innovación en secreto, no puede invocar ningún derecho de exclusión conforme a este Artículo; la confidencialidad no inicia ni reserva un plazo exclusivo.
+- **Dos fases, con un límite exterior:** Cuando proceda la exclusividad, esta puede durar como máximo los primeros 15 años desde esa divulgación. A continuación, y hasta completar como máximo 30 años desde la misma fecha, la obra solo puede quedar sujeta a licencias abiertas, conforme a condiciones y tarifas compatibles con este Artículo. El plazo total es un límite exterior: los Artículos XVIII-E (*Obras creativas y expresivas*) y XVIII-F (*Invenciones, procesos y sistemas funcionales*) pueden exigir un período más corto, acceso abierto antes o ninguna exclusividad.
+- **Exclusividad estrecha y justificable:** Todo derecho de exclusión sobre una invención, diseño, interfaz, proceso u obra expresiva materialmente útil debe aplicar el [Principio de restricción menos limitante, temporal y revisable](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle): debe ser limitado, temporal, revisable y proporcional a la contribución real y a la carga de desarrollo justificada. La carga de justificarlo corresponde a quien reclama el derecho. La atribución y la procedencia pueden perdurar; la exclusión duradera y la escasez artificial, no.
+- **Tarifa de beneficio verificado:** Durante la fase de licencias abiertas, una tarifa solo puede basarse en el beneficio verificado atribuible a la innovación en el eje de contribución. La base incluye el tiempo productivo que se ahorró o se añadió y, cuando corresponda, el tiempo equivalente de vida (LEQU) que se preservó o generó. Debe convertirse mediante una metodología transparente y revisable; no basta con alegar valor de mercado, popularidad, ingresos posibles o poder de negociación.
+  - La tarifa debe corresponder a una remuneración justa por el trabajo de desarrollo justificado y no puede superar el 50 % del valor verificado del beneficio obtenido por quienes se benefician.
+  - La cuota atribuible a cada beneficiario debe disminuir a medida que aumenta el número de beneficiarios reales. El número de licenciatarios o contratos no determina esa distribución. El aumento del alcance no reduce la recompensa total justificada: se amplía la base de beneficiarios mientras la parte por beneficiario desciende.
+  - Si se cobra una tarifa, se aplica un mínimo del 1 % del beneficio verificado atribuible a cada beneficiario, salvo que se use un mecanismo alternativo de recompensa compatible con este Artículo. Ese mínimo no autoriza a exceder el tope del 50 % ni a cobrar a usos que deban permanecer siempre abiertos.
+- **Precios y transparencia:** La tarifa no puede fijarse por poder de mercado, escasez creada artificialmente, costos de cambio, dependencia, presión ni capacidad de excluir alternativas. Debe publicarse un cuadro de tarifas comparable, con su método, bases y categorías; cualquier persona afectada debe poder impugnarlo y obtener una revisión independiente. Las condiciones deben ser claras, uniformes para situaciones comparables y revisables.
+- **Usos siempre abiertos:** Ninguna tarifa puede hacer económicamente inviable, desalentar materialmente ni excluir en la práctica un uso que deba permanecer siempre abierto, incluidas las actividades necesarias para reparación, interoperabilidad, escrutinio veraz y los usos reconocidos como libres por los Artículos XVIII-E y XVIII-F. Si el cobro produce ese efecto, debe reducirse, exceptuarse o sustituirse por otro mecanismo de recompensa.
+- **Protección según clase y dependencia:** La exclusividad debe ser más estrecha cuanto mayor sea la dependencia de terceros o el riesgo de bloqueo, y se aplican estas salvaguardias:
+  - Para sistemas de clase A, B o C, se deben preferir el acceso que preserve la continuidad, un derecho exclusivo limitado y revisable con rapidez, una fase abierta más breve o el acceso abierto desde el inicio, según la necesidad y el riesgo.
+  - En ámbitos de dependencia menor, puede emplearse la secuencia completa de dos fases únicamente si la divulgación permite reproducir y evaluar la innovación y existen salvaguardias eficaces contra la dependencia, el bloqueo y la interrupción de continuidad.
+  - Se exige especial cautela —y se favorecen alternativas abiertas, licencias más breves o mecanismos distintos— en medicina y salud pública; infraestructura de supervivencia; comunicaciones y estándares de interoperabilidad; ciencia fundamental; y seguridad constitucional, auditoría y cumplimiento. La lista no es exhaustiva: toda alternativa que evite dependencia o daño equivalente debe recibir consideración efectiva.
+- **Reclasificación y corrección:** La clasificación y las condiciones se revisan cuando cambian la dependencia, el alcance, la función, la evidencia o los efectos reales. Para prevenir o remediar bloqueo, cuellos de botella, daños a la continuidad, a la verdad o a la equidad, el órgano independiente competente debe poder estrechar el derecho, acortar o convertir la fase exclusiva en licencias abiertas, imponer acceso abierto, o terminar la exclusividad. El titular no puede conservar una exclusividad que, en la práctica, controle una necesidad común o frustre estas garantías.
+- **Qué controla la reclamación:** La clasificación depende de lo que el derecho realmente controla, no de su nombre. Una obra expresiva protege la forma de expresión —texto, imágenes, sonido, música, relato, personajes, actuación o apariencia puramente decorativa— y se rige por **Artículo XVIII-E**. Una obra funcional controla cómo opera algo —método, proceso, mecanismo, fórmula, composición material, interfaz, formato de archivo, protocolo o comportamiento de un sistema— y se rige por **Artículo XVIII-F**.
+  - Las obras mixtas se clasifican parte por parte: en software, el código escrito es expresivo y lo que hace es funcional; en juegos, arte, relato, música y código se clasifican por separado, pero las reglas y mecánicas no son protegibles; en diseño, la apariencia decorativa es expresiva y la forma que afecta el funcionamiento es funcional. Las interfaces, formatos de archivo, protocolos y modelos de IA son funcionales.
+  - La protección expresiva nunca alcanza a la función: no puede controlar cómo opera algo, cómo se conecta o se repara, ni eludir los límites de **Artículo XVIII-F**. La parte que lo haga se trata como funcional.
+  - Las reglas y mecánicas de un juego —cómo se juega, a diferencia del arte, relato, música o código que lo presenta— no pueden estar sujetas a ningún derecho de exclusión de este Artículo, ni como obra expresiva ni como obra funcional. Cualquiera puede usarlas.
 
-  En esos ámbitos, las instituciones deberían preferir la recompensa directa, el acceso mancomunado, las licencias obligatorias, la compra pública o mecanismos equivalentes que preserven la implementación, la reparación y la amplia difusión.
-- **Reclasificación y ajuste:** Cuando una innovación inicialmente tratada como de menor dependencia luego se convierte en una capa de coordinación de dependencia crítica (por ejemplo, una plataforma, protocolo, modelo, mercado o vía de pago), las instituciones deben reevaluarla según el **CS-3 aplicable: Clasificación y manejo** clase.
-  - Reevaluación puede limitar, convertir o terminar la exclusión restante cuando la exclusividad continua crearía:
-    - bloqueo coercitivo;
-    - obstáculos anticompetitivos;
-    - amenazas materiales a la continuidad, la verdad o la participación equitativa.
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### Artículo XVIII-E: Integridad de publicación, revisión y replicación científica
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### Artículo XVIII-E: Obras creativas y expresivas
+
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamento: Principios del Capítulo Uno §5 Verdad, §7 Libertad y §18 Gobernanza bajo disciplina de administración.
+- Léase con: [Artículo IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) para derechos de atribución, entrenamiento y compensación; y [Artículo XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) para reglas comunes y la prueba expresivo/funcional.
 
 </details>
+
+*En términos sencillos: los creadores obtienen control limitado sobre copiar, compartir y vender su obra, como máximo durante 30 años desde su publicación, y el crédito no caduca. El plazo empieza cuando la obra se hace pública, no cuando muere su creador; los borradores o retrasos no pueden alargarlo.*
+
+Este Artículo establece protección similar a los derechos de autor para obras creativas y expresivas:
+
+- **Protección similar a los derechos de autor:** recompensa temporal de exclusión sobre una obra expresiva fija, incluido el control de copia, distribución, exhibición o ejecución pública, adaptación y explotación comercial. La atribución, procedencia, integridad y protección antifraude pueden continuar tras vencer la exclusión.
+- **Publicación y aparición inicial:** publicación es la divulgación intencional por el creador o titular legítimo de una obra expresiva fija al público, al mercado comercial o a una audiencia materialmente abierta. La circulación privada, revisión confidencial, colaboración limitada, depósito de archivo sin acceso público o difusión de borradores no comerciales no constituyen por sí solos publicación. Aparición inicial es la primera disponibilidad pública no confidencial de una versión materialmente identificable, incluidos borradores no comerciales.
+- **Plazos desde la publicación:** por defecto, el plazo se calcula desde la publicación, no desde la vida del autor.
+  - Una obra publicada no debería tener más de `publication+30` años de exclusión.
+  - Un borrador no comercial o una obra inédita que haya aparecido inicialmente puede tener como máximo `initial appearance+50` años.
+  - Si luego se publica, el plazo termina en el límite que llegue antes: `initial appearance+50` o `publication+30`.
+  - Ninguna regla sobre borradores, obras inéditas o publicación tardía puede crear exclusión indefinida, impedir el archivo, la cita o crítica lícitas, ni extender el control sobre obras que funcionen como infraestructura cultural, educativa, de seguridad, de estándares o informativa compartida.
+- **Plazos más cortos y acceso público:** se aplican plazos menores, conversión más temprana a acceso obligatorio o acceso público inmediato si la obra tiene financiación pública, es crítica para dependencias, similar a un estándar, fundamental para la educación, relevante para la seguridad o se usa principalmente como infraestructura cultural o informativa compartida.
+
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### Artículo XVIII-F: Invenciones, procesos y sistemas funcionales
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- Fundamento: Principios del Capítulo Uno §4 Seguridad, §7 Libertad, §18 Gobernanza bajo disciplina de administración y §19 Alineación de incentivos y captura del sistema.
+- Léase con: [Artículo XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) para reglas comunes; [Artículo XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) si la exclusividad amenaza con bloquear; y [Artículo XVII](#article-xvii-system-lifecycle-environments-and-reversibility) cuando la invención se integre en un sistema desplegado.
 
 </details>
 
-<br>
+*En términos sencillos: los inventores deben explicar una invención lo suficiente para que otros puedan reconstruirla. A cambio, reciben hasta 15 años de exclusividad y luego hasta 15 años más en los que cualquiera puede usarla pagando una tarifa. Esta se calcula como un salario justo por el tiempo ahorrado o el beneficio generado, no según lo que permita cobrar el mercado. Ningún derecho de invención puede bloquear reparaciones, seguridad, investigación o cambio de proveedor.*
 
-*En términos sencillos: la ciencia es infraestructura pública de verificación. La evidencia, la replicación y la corrección deben importar más que la marca de la revista, y corregir un error siempre debe ser más fácil que ocultarlo.*
+Este Artículo establece las reglas para recompensar invenciones, procesos y sistemas funcionales:
 
-Este artículo establece los pisos de publicación, revisión, replicación y corrección científica:
+- **Primero, divulgación:** La recompensa exige divulgación pública suficiente para la comprensión independiente, auditoría y reproducción posterior, salvo límites temporales justificados por el Capítulo Uno y el Artículo XVII-A. Divulgación pública es la primera publicación no confidencial de la descripción. Una invención mantenida en secreto no obtiene derecho de exclusión bajo este Artículo.
+- **Dos fases:** Ambas se cuentan desde la divulgación pública. Durante la fase exclusiva, el titular puede negar permiso por un máximo de `disclosure+15` años. Después, y hasta un máximo de `disclosure+30` años, cualquiera puede usar la invención sin permiso, pagando una tarifa basada en LEQU; el titular no puede negarse, demorar ni imponer condiciones adicionales a la tarifa. Vencido el plazo, la invención queda libre para todos; la atribución y procedencia pueden perdurar.
+- **Tarifa basada en LEQU:** Debe ser proporcional al beneficio constitucional verificado que aporta la invención, medido en LEQU sobre el Eje de Contribución conforme a la escala unificada proporcional de LEQU del [Capítulo Diez §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
+  - El beneficio se convierte en tarifa valorándolo como tiempo sentiente a un salario justo. Para productividad, cuenta el tiempo de trabajo que la invención ahorra o el tiempo productivo que añade a quienes la usan; para otros beneficios, el tiempo equivalente de vida medido por LEQU. El salario debe cumplir [Compensación Justa](core_05_band_continuity.md#fair-compensation). Cuanto mayor sea el aumento verificado de productividad o bienestar, mayor la recompensa.
+  - La tarifa no puede superar la mitad del beneficio verificado. La proporción debe disminuir a medida que crecen los sentientes que realmente se benefician, no el número de licenciatarios, sin reducir la recompensa total al ampliarse el uso. Cuando se cobre, la proporción no puede ser inferior al 1%; este mínimo no obliga a cobrar si este Artículo o un instrumento de adopción prevé premios, acceso agrupado, compra pública o acceso abierto.
+  - La tarifa no puede basarse en poder de mercado, escasez, costos de cambio ni en lo que se pueda presionar al usuario para pagar. El calendario de tarifas, incluida la estimación temporal y el salario, debe publicarse, aplicarse por igual a circunstancias comparables y poder impugnarse. No debe impedir los usos siempre abiertos enumerados abajo. Son límites máximos: cada reclamación debe ser proporcional y puede durar menos.
+- **Usos siempre abiertos:** En ambas fases, las reclamaciones incumplen si se usan, más allá de lo estrictamente necesario y revisable, para suprimir reparación, seguridad, interoperabilidad, archivo, investigación, educación o migración.
+- **Tratamiento según clasificación:** La recompensa debe escalar con la clase, dependencia y coordinación conforme a CS-3. Para sistemas de clases A, B y C se prefieren firmemente mecanismos que preserven el acceso; la exclusión debe ser especialmente estrecha, revisable con rapidez y fácil de anular cuando afecte materialmente la continuidad, interoperabilidad, reparación o implementación de interés público. Puede acortarse cualquiera de las fases o comenzar directamente la fase de licencia abierta. Fuera de esas clases, una innovación de menor dependencia puede usar el plazo completo si la divulgación es real, los costos de cambio son bajos y las salvaguardias contra el bloqueo son eficaces.
+- **Ámbitos con valores predeterminados más estrictos:** Se presume desfavorable la exclusión fuerte —y los instrumentos de adopción pueden prohibirla— para medicamentos y elementos esenciales de salud pública, infraestructura crítica para la supervivencia, estándares básicos de comunicación o interoperabilidad, conocimiento científico fundamental y mecanismos constitucionales de seguridad, auditoría o cumplimiento. Allí se prefieren premios, recompensa directa, acceso agrupado, licencias obligatorias, compra pública o mecanismos equivalentes que preserven la implementación, reparación y difusión amplia.
+- **Reclasificación y límites más estrictos:** Si una innovación de menor dependencia pasa a ser una capa de coordinación crítica —por ejemplo, plataforma, protocolo, modelo, mercado o sistema de pagos— las instituciones deben reevaluarla según la clase CS-3 aplicable. La reevaluación puede limitar, convertir o terminar la exclusión restante si la exclusividad crea bloqueo coercitivo, cuellos de botella anticompetitivos o amenazas materiales a continuidad, verdad o participación equitativa.
 
-- **La ciencia como infraestructura pública de verificación:** La publicación, revisión, replicación y corrección científica y académica deben organizarse para avanzar:
-  - búsqueda de la verdad;
-  - reproducibilidad;
-  -  desacuerdo responsable;
-  - aprendizaje público.
-
-  No deben organizarse para el acaparamiento de prestigio, una vigilancia opaca o una escasez fabricada.
-- **Publicación abierta y suficiencia de evidencia:** Las afirmaciones empíricas o analíticas materiales deben poder publicarse sin la aprobación previa de Prestige-gate.
-  -  Los únicos límites permitidos son privacidad estrecha, bioseguridad, seguridad o límites comparables justificados según **Capítulo Uno ** y**Artículo XVII-A** (*Gobernanza del ciclo de vida y separación del medio ambiente*).
-  - Dichas afirmaciones deben incluir suficientes detalles sobre el método, la procedencia, la incertidumbre y la evidencia (incluido el acceso a los materiales subyacentes o sustitutos justificados cuando sea necesario para la verificación) para permitir una comprensión independiente y una verificación proporcionada.
-- **Revisión y replicación sobre el prestigio:** La confianza institucional debe realizar un seguimiento de:
-  - calidad de la evidencia;
-  - crítica;
-  - replicación;
-  - comportamiento de corrección;
-  - Fiabilidad explicativa o predictiva a largo plazo.
-
-  No debe realizar un seguimiento de la marca de la revista, del proxy del factor de impacto ni del estado editorial cerrado.
-  - Las reclamaciones con [Impacto material](core_05_band_oversight.md#material-impact) que son relevantes para las políticas, la seguridad o la dependencia deben enfrentar una fuerte presunción de replicación independiente, revisión contradictoria o ambas antes de recibir una deferencia institucional duradera.
-  - Los trabajos orientados a replicaciones, resultados nulos y correcciones deben seguir siendo publicables y citables en términos que no dependan de la señalización de prestigio.
-- **Corrección y contestabilidad:** La corrección, enmienda y sustitución de buena fe deben seguir siendo más fáciles que el ocultamiento.
-  - Los sistemas de revisión y editorial deben seguir siendo cuestionables, auditables, disciplinados en materia de conflictos y que proporcionen razones en las decisiones importantes de aceptación, corrección y retractación.
-  - Los siguientes no cumplen:
-    - supresión de resultados inconvenientes;
-    - represalias contra revisores o replicadores;
-    - manipulación no transparente del registro científico.
 ---
 
 **Archivo anterior:** [core_06_rights_part_b.md](core_06_rights_part_b.md)

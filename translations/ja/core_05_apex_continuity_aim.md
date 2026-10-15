@@ -98,36 +98,6 @@
 ---
 
 <a id="continuity-measurement-family"></a>
-
-### 継続性 (Preamble measurement family)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
-
-</details>
-
-<br>
-
-*平易に言えば、これらの問いは、感覚ある存在とそれらが依存する生命システムが、生態系に配慮し、信頼性を保ち、失敗を乗り越えながら長期にわたって持続できるかを確かめます。ここは第5章の継続性測定ファミリーの掲載箇所です。序文§2にはカテゴリーの平易な問いを残し、ファミリー表と定義への案内をここに示します。*
-
-*重要性* ([Materiality](core_05_band_oversight.md#materiality)) は統合的な要素であり、独立した測定カテゴリーではありません。[material stake](core_00_preamble.md#material-stake) に応じて、このファミリーの適用の強さを定めます。
-
-| サブファミリー | 平易な問い | 主な憲法上の用途 |
-|---|---|---|
-| 生態学的フットプリントと環境上の前提条件 | どのような環境負荷が生じ、または他へ移されているか？ | [生態学的フットプリント](../../core_05_band_continuity.md#ecological-footprint)、[環境上の前提条件](../../core_05_band_continuity.md#environmental-preconditions)。**条文 I-A** および **I-B** に基づく開示 |
-| レジリエンス、可逆性、システム上のリスク | 障害を封じ込めて元に戻せるか。また、深刻化を誠実に報告できるか？ | [可逆性](../../core_05_band_continuity.md#reversibility)、[連鎖的障害](../../core_05_band_continuity.md#cascading-failure)、[存亡リスク](../../core_05_band_continuity.md#existential-risk)、[自己修復](../../core_05_band_continuity.md#self-healing)。[レジリエンス、安全、可逆性、自己修復、連鎖的障害、存亡リスク、環境上の前提条件、ウェルビーイング](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
-| 依存関係と資源の流れ | 共有された依存関係は可視化され、維持されているか？ | [依存関係](../../core_05_band_continuity.md#dependency)。**条文 V-A**（*依存関係の把握と資源フローの透明性*） |
-| システム間の支援 | 記録された還元は共有インフラと生態系の修復を支えているか？ | [システム間の収奪](../../core_05_band_continuity.md#cross-system-extraction)、[比例的なシステム間支援](../../core_05_band_continuity.md#proportionate-cross-system-support)。**条文 V-B**（*システム間の公正と持続可能性*） |
-
-詳細な測定方法は、リンク先の各定義にあります。
-
-**前のファイル：** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
-
-**次のファイル：** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### 継続を測る（前文の測定ファミリー）

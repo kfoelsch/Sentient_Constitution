@@ -13,7 +13,7 @@
 > **前（本言語）：** [core_05_band_performance.md](core_05_band_performance.md)
 >
 > **次（本言語）：** [core_06_rights_part_b.md](core_06_rights_part_b.md)
-> **読みの弧：** §1 目的と役割 → Articles I–IV（環境、物質の責務ある管理、生存、平等な教育通路、資源流の透明性）
+> **読みの弧：** §1 目的と役割 → Articles I–V（環境、物質の責務ある管理、生存、平等な教育通路、資源流の透明性）
 
 </details>
 
@@ -23,10 +23,11 @@
 > 以下の内容は**読者向け案内にすぎない**。本章または他の章にある拘束力のある義務を加え、除き、または狭めない。
 >
 > 本章は、環境と物質の条件が他のすべてを支えるため、**惑星を先に**する順で権利を示す：
-> - **A部**は **Articles I–IV** を覆う：環境生存、物質の責務ある管理、生存の必須、平等な教育通路、資源流の透明性。
-> - **B部**は **Articles V–XI** を覆う：平等な基本権利、感知者中心の教育、自己所有、肖像とデータ、行為主体性、協力、影響を受ける側のシステム参加。
-> - **C部**は **Articles XII–XXII** を覆う：信頼可能なシステム、情報の誠実性、監査、ライフサイクル、囲われた環境での革新、軌跡、可搬性、複雑さ、根本原因の診断、解釈上の審査。
-> - **D部**は **Articles XXIII–XXVI** を覆う：正義と緊急、憲法の進化、移行、基準線の再設定。
+> - **A部**は **Articles I–V** を覆う：環境生存、物質の責務ある管理、生存の必須、平等な教育通路、資源流の透明性。
+> - **B部**は **Articles VI–XII** を覆う：平等な基本権利、感知者中心の教育、自己所有、肖像とデータ、行為主体性、協力、影響を受ける側のシステム参加。
+> - **C部**は **Articles XIII–XVIII** を覆う：信頼可能なシステム、情報の誠実性、監査、ライフサイクル、囲われた環境での革新、軌跡、可搬性、複雑さ、根本原因の診断、解釈上の審査。
+> - **D部**は **Articles XIX–XXV** を覆う：正義と緊急、憲法の進化、移行、基準線の再設定。
+> - **E部**は**第XXVI–XXVIII条**：紛争解決と審査、憲法の進化、移行、再基準化。
 >
 > その提示順は実行の優先を変えない。権利の充足はなおシステムを先にする仕事に依存する：基体、環境、ライフサイクル、インフラ、統治が、個人の権利と協力の権利が生き残るのに足りるほど健全でなければならない。
 
@@ -43,14 +44,14 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[憲法四元](core_00_preamble.md#constitutional-tetrad)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；[実質的利害](core_00_preamble.md#material-stake)。
-- 上流：[第一章 §6 過程の衝突解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；[第一章 §6.1.5 権利衝突の決定試験](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
-- 上流：[第一章 §11 誘因整合とシステムの捕捉](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)。
+- 上流：[第一章 §13 過程の衝突解決](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)；[第一章 §6.1.5 権利衝突の決定試験](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 上流：[第一章 §11 誘因整合とシステムの捕捉](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)。
 - 上流：第二章から第四章；第五章の定義。
-- 下流：本章の **A部からD部**；[システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional)；[第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。
+- 下流：本章の **A部からD部**；[システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional)；[第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。
 - 下流：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[§1.2 層の範囲](#12-layer-scope)。
-- あわせて読む：[権限スタックと内部階層](core_05_band_integrative.md#owner-non-relocation) および [前文 — 積極的所管登録](core_00_preamble.md#4-principles-definitions-and-rights)；[Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（《異議、審査、救済への権利》）。
-- あわせて読む：[Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)（《監査、透明性、独立検証》）。
-- あわせて読む：[Article XVIII-B](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)（《争訟可能性と比例的制限の限度》）；[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《適時の解決と遅延防止の床》）。
+- あわせて読む：[権限スタックと内部階層](core_05_band_integrative.md#owner-non-relocation) および [前文 — 積極的所管登録](core_00_preamble.md#4-principles-definitions-and-rights)；[Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)（《異議、審査、救済への権利》）。
+- あわせて読む：[Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)（《監査、透明性、独立検証》）。
+- あわせて読む：[Article XIX-B](../../core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)（《争訟可能性と比例的制限の限度》）；[Article XXVI-C](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)（《適時の解決と遅延防止の床》）。
 
 </details>
 
@@ -73,9 +74,9 @@
 より広い憲法スタックは、その床がどう解釈され、限られ、検証され、強制されるかを説明する。本章の規定が明示して別のことを言わない限り、第六章のすべての権利は次とともに読まれる：
 - **第一章**、含む：
   - **価値の制約** — 安全、真理、必要性、比例性、および局所、集合、遅延、システム横断の効果のシステム的評価；
-  - **相互作用の規律** — [第一章 §6 過程の衝突解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；
+  - **相互作用の規律** — [第一章 §13 過程の衝突解決](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)；
   - **憲法上の尺度合わせ** — [憲法四元](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、および [実質的利害](core_00_preamble.md#material-stake) による尺度合わせ；
-  - **誘因整合とシステムの捕捉** — [第一章 §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) および関連する責務ある管理の規律。ただし誘因設計、信頼、忠実、捕捉、市場構造、または防御された制限が実質的に関連するところに限る。
+  - **誘因整合とシステムの捕捉** — [第一章 §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) および関連する責務ある管理の規律。ただし誘因設計、信頼、忠実、捕捉、市場構造、または防御された制限が実質的に関連するところに限る。
 - **第二章から第四章** — 定義の誠実性、負担と追跡可能性、観察可能性、到達可能な検証、および適用されるところでの安全に制約された観察可能性。
 - **第五章** — 評価される権利、行為、システム、または制限に実質的に関わる定義。
 - **分類と尺度の規則** — **実質性**、**依存**、および採択文書が供給する組み込まれた級、層、または周期の規則。
@@ -87,21 +88,21 @@
 
 権利の床は紙の上だけでなく、実際に働かなければならない。**Article III-A**（《生存》）のもとでの生存の必須 — 食物、水、住居、運用環境、および比較可能な基体に中立な入力 — が最も明瞭な例である。**繁栄**はそれらの必須への実際の通路を求める。**継続**は、とくに共有システムが配達を制御するところでは、信頼でき非回帰的な供給を時間をかけて求める。
 
-[システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) と [第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) は、実質的に影響するシステムが規模で認められ、または依拠される前に整合しているかを検証する。第七章はまた、認証記録の争訟可能性、影響を受ける側とアクセス可能性の審査、監督の順序づけ、システム整合の決定への異議経路を供給する。**Article XII**（《信頼でき信頼可能なシステムへの権利》）は異議と監査の権利を供給する。**Article XVIII-B**（《争訟可能性と比例的制限の限度》）は、軌跡の限度が生存に不可欠な通路の回り込みの裏口になることを防ぐ。[第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) と [第八章から第十一章の軌跡とフォーラム監督のパイプライン](../../README.md#standing-pipeline-and-forums) はともに、争訟可能性、検証された分類、フォーラム監督、適時の救済についての主要な実務プロセスパイプラインをなす。それらの仕組みは第六章の強制を助ける。ここに述べられた権利を置き換え、狭め、または移しはしない。
+[システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) と [第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) は、実質的に影響するシステムが規模で認められ、または依拠される前に整合しているかを検証する。第九章はまた、認証記録の争訟可能性、影響を受ける側とアクセス可能性の審査、監督の順序づけ、システム整合の決定への異議経路を供給する。**Article XIII**（《信頼でき信頼可能なシステムへの権利》）は異議と監査の権利を供給する。**Article XIX-B**（《争訟可能性と比例的制限の限度》）は、軌跡の限度が生存に不可欠な通路の回り込みの裏口になることを防ぐ。[第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) と [第八章から第十一章の軌跡とフォーラム監督のパイプライン](../../README.md#standing-pipeline-and-forums) はともに、争訟可能性、検証された分類、フォーラム監督、適時の救済についての主要な実務プロセスパイプラインをなす。それらの仕組みは第六章の強制を助ける。ここに述べられた権利を置き換え、狭め、または移しはしない。
 
 **解釈の拠点。** より特定の条が別の規則を供給しない限り、繰り返される争点はこれらの錨を通る：
 
 **権利の床と供給**
-- **生存の必須とそれを到達可能に保つこと** — **Article III-A**（《生存》）；**Article XVIII-B**（《争訟可能性と比例的制限の限度》）により軌跡の限度が通路を塞げないようにする；異議または監査が適用されるところでは **Article XII-B**（《異議、審査、救済への権利》）および **Article XV**（《監査、透明性、独立検証》）とあわせて読む
-- **システム整合認証** — [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional)；[第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **生存の必須とそれを到達可能に保つこと** — **Article III-A**（《生存》）；**Article XIX-B**（《争訟可能性と比例的制限の限度》）により軌跡の限度が通路を塞げないようにする；異議または監査が適用されるところでは **Article XIII-B**（《異議、審査、救済への権利》）および **Article XVI**（《監査、透明性、独立検証》）とあわせて読む
+- **システム整合認証** — [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional)；[第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **検証と救済**
-- **監査記録と独立検証** — **Article XV**（《監査、透明性、独立検証》）と **第二章から第四章**
-- **異議、審査、比例的な是正** — **Article XII-B**（《異議、審査、救済への権利》）；第五章（《救済と是正》）
+- **監査記録と独立検証** — **Article XVI**（《監査、透明性、独立検証》）と **第二章から第四章**
+- **異議、審査、比例的な是正** — **Article XIII-B**（《異議、審査、救済への権利》）；第五章（《救済と是正》）
 
 **争いと適時の過程**
-- **正義、原状回復、制限の境界、緊急、権利の衝突** — **Article XXIII**（《衝突解決、段階引き上げ、緊急の比例性》）；[第一章 §6.1.5 権利衝突の決定試験](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **主要な実務プロセスパイプライン** — **Article XXIV-C**（《適時の解決と遅延防止の床》）；[第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **正義、原状回復、制限の境界、緊急、権利の衝突** — **Article XXVI**（《衝突解決、段階引き上げ、緊急の比例性》）；[第一章 §6.1.5 権利衝突の決定試験](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
+- **主要な実務プロセスパイプライン** — **Article XXVI-C**（《適時の解決と遅延防止の床》）；[第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 本章の他の箇所におけるそれらの主題への短い相互参照は、これらの錨を取り込む。
 
@@ -126,11 +127,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§3.2 真理](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 過程衝突の解決](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [§18 責務ある管理の規律のもとでの統治](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
-<strong><span style="color: #2563eb;">定義：</span></strong> [環境的前提条件](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+<strong><span style="color: #2563eb;">定義：</span></strong> [環境的前提条件](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
 
 *平たい言葉で言えば：**Article I**（《環境生存》）は惑星を先にする権利の床である — 地球の生命維持システムが保たれ、**繁栄**と**継続**がすべての感知者に可能なままでなければならず、後の統治は認証、分類、または実施の選択によってその床を狭めてはならない。*
 
@@ -153,21 +154,21 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), and [第七章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), and [第九章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [環境的前提条件](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [生態的誠実性](core_05_band_continuity.md#ecological-integrity-constitutional) · [O](core_05_band_continuity.md#ecological-integrity-constitutional) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [持続可能性](core_05_band_continuity.md#sustainability) · [O](core_05_band_continuity.md#sustainability) · [M](core_05_band_continuity.md#sustainability-a) · [A](core_05_band_continuity.md#sustainability-a) · [C](core_05_band_continuity.md#sustainability-c)
-- [自然システムの軌跡](core_05_band_participation.md#natural-systems-standing) · [O](core_05_band_participation.md#natural-systems-standing) · [M](core_05_band_participation.md#natural-systems-standing-a) · [A](core_05_band_participation.md#natural-systems-standing-a) · [C](core_05_band_participation.md#natural-systems-standing-c)
-- [動物の生命](core_05_band_participation.md#animal-life-constitutional) · [O](core_05_band_participation.md#animal-life-constitutional) · [M](core_05_band_participation.md#animal-life-constitutional-a) · [A](core_05_band_participation.md#animal-life-constitutional-a) · [C](core_05_band_participation.md#animal-life-constitutional-c)
-- [高められたコミュニケーション生命](core_05_band_participation.md#elevated-communicative-life-constitutional) · [O](core_05_band_participation.md#elevated-communicative-life-constitutional) · [M](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [A](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [C](core_05_band_participation.md#elevated-communicative-life-constitutional-c)
-- [争われた感知者の生命](core_05_band_participation.md#contested-sentient-life-constitutional) · [O](core_05_band_participation.md#contested-sentient-life-constitutional) · [M](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [A](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [C](core_05_band_participation.md#contested-sentient-life-constitutional-c)
-- [福祉](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [環境的前提条件](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [生態的誠実性](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [持続可能性](../../core_05_band_continuity.md#sustainability) · [O](../../core_05_band_continuity.md#sustainability) · [M](../../core_05_band_continuity.md#sustainability-a) · [A](../../core_05_band_continuity.md#sustainability-a) · [C](../../core_05_band_continuity.md#sustainability-c)
+- [自然システムの軌跡](../../core_05_band_participation.md#natural-systems-standing) · [O](../../core_05_band_participation.md#natural-systems-standing) · [M](../../core_05_band_participation.md#natural-systems-standing-a) · [A](../../core_05_band_participation.md#natural-systems-standing-a) · [C](../../core_05_band_participation.md#natural-systems-standing-c)
+- [動物の生命](../../core_05_band_participation.md#animal-life-constitutional) · [O](../../core_05_band_participation.md#animal-life-constitutional) · [M](../../core_05_band_participation.md#animal-life-constitutional-a) · [A](../../core_05_band_participation.md#animal-life-constitutional-a) · [C](../../core_05_band_participation.md#animal-life-constitutional-c)
+- [高められたコミュニケーション生命](../../core_05_band_participation.md#elevated-communicative-life-constitutional) · [O](../../core_05_band_participation.md#elevated-communicative-life-constitutional) · [M](../../core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [A](../../core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [C](../../core_05_band_participation.md#elevated-communicative-life-constitutional-c)
+- [争われた感知者の生命](../../core_05_band_participation.md#contested-sentient-life-constitutional) · [O](../../core_05_band_participation.md#contested-sentient-life-constitutional) · [M](../../core_05_band_participation.md#contested-sentient-life-constitutional-a) · [A](../../core_05_band_participation.md#contested-sentient-life-constitutional-a) · [C](../../core_05_band_participation.md#contested-sentient-life-constitutional-c)
+- [福祉](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
 
 </details>
 
@@ -179,39 +180,39 @@
   - 生命を支える自然システムはそれ自身の継続と誠実性の利益を持つ。それらの利益は感知者の利益と並べて解釈を知らせる。
   - 本条に違反する実質的危害 — **環境的前提条件**、**生態的誠実性**、**持続可能性**のもとで判断される — は不遵守である。
   - 採択者の[採択文書](../../core_17_amendment_ratification.md#102-instrument-of-adoption)または採択範囲内の編入された実施本文に名指された環境要件に違反する危害も不遵守である。
-- **動物の生命の相互作用：** [動物の生命](core_05_band_participation.md#animal-life-constitutional)は**自然システムの軌跡**と感知者のための第六章の権利の床の間の福祉保護の領域を占める。
+- **動物の生命の相互作用：** [動物の生命](../../core_05_band_participation.md#animal-life-constitutional)は**自然システムの軌跡**と感知者のための第六章の権利の床の間の福祉保護の領域を占める。
   - 福祉様の危害が実質的に含意されるところでは、**感知性の非排除**のもとで動物の生命について残虐と福祉の最小床を定める。
   - 記録がそれらの問いを実質的に含意するところでは、高められたコミュニケーション上の取扱いや感知性地位の裁定の代替ではない。
-  - 争われる、または肯定しうる感知性を含意する実質的なコミュニケーション上または認知の指標は、無期限の福祉のみの待機ではなく、感知性地位の裁定を開くことを求める。運用者または責務ある管理者は種の一覧ではなく期限付きの審査でその裁定を開かなければならない。段階引き上げは**Article V-E**（《感知性地位の裁定の床》）／争われる感知者の既定包摂を開く。それ自体が感知者の地位を肯定しない。
-- **高められたコミュニケーション生命の相互作用：** [高められたコミュニケーション生命](core_05_band_participation.md#elevated-communicative-life-constitutional)は**動物の生命**と争われるまたは肯定された第六章の取扱いの間の、安定したコミュニケーション／生息地優先の領域を占める。
+  - 争われる、または肯定しうる感知性を含意する実質的なコミュニケーション上または認知の指標は、無期限の福祉のみの待機ではなく、感知性地位の裁定を開くことを求める。運用者または責務ある管理者は種の一覧ではなく期限付きの審査でその裁定を開かなければならない。段階引き上げは**Article VI-B**（《感知性地位の裁定の床》）／争われる感知者の既定包摂を開く。それ自体が感知者の地位を肯定しない。
+- **高められたコミュニケーション生命の相互作用：** [高められたコミュニケーション生命](../../core_05_band_participation.md#elevated-communicative-life-constitutional)は**動物の生命**と争われるまたは肯定された第六章の取扱いの間の、安定したコミュニケーション／生息地優先の領域を占める。
   - **動物の生命**の残虐と福祉の床を含み、強いコミュニケーション上または認知の指標が実質的に含意されるところでは、**感知性の非排除**のもとで生息地または運用環境を健全な状態に保つ優先を上げる。
   - 記録が争われる、または肯定しうる感知性を実質的に含意するところでは、感知性地位の裁定の代替ではない。
-  - 争われる、または肯定しうる感知性を含意する実質的なコミュニケーション上または認知の指標は、無期限の生息地優先の待機ではなく、感知性地位の裁定を開くことを求める。運用者または責務ある管理者は種の一覧ではなく期限付きの審査でその裁定を開かなければならない。段階引き上げは**Article V-E**（《感知性地位の裁定の床》）／争われる感知者の既定包摂を開く。それ自体が感知者の地位を肯定しない。
-- **争われる感知者の生命の相互作用：** [争われた感知者の生命](core_05_band_participation.md#contested-sentient-life-constitutional)は感知性が不確か、争いがあり、実質的に争われ、または裁定中であるところでは**感知性の非排除**のもとで適用される。
-  - その問いを[感知性地位の裁定](core_05_band_participation.md#sentience-status-adjudication-constitutional)手続へ経路づける（所管条は**Article V-E**（《感知性地位の裁定の床》））。
-  - **Article V-E**（《感知性地位の裁定の床》）のもとで、実質的に未解決の感知性の地位は、保護を差し控え、狭め、または取り消そうとする側が適用される負担を満たさない限り、第六章の権利の床のもとでの包摂を既定とする。
+  - 争われる、または肯定しうる感知性を含意する実質的なコミュニケーション上または認知の指標は、無期限の生息地優先の待機ではなく、感知性地位の裁定を開くことを求める。運用者または責務ある管理者は種の一覧ではなく期限付きの審査でその裁定を開かなければならない。段階引き上げは**Article VI-B**（《感知性地位の裁定の床》）／争われる感知者の既定包摂を開く。それ自体が感知者の地位を肯定しない。
+- **争われる感知者の生命の相互作用：** [争われた感知者の生命](../../core_05_band_participation.md#contested-sentient-life-constitutional)は感知性が不確か、争いがあり、実質的に争われ、または裁定中であるところでは**感知性の非排除**のもとで適用される。
+  - その問いを[感知性地位の裁定](../../core_05_band_participation.md#sentience-status-adjudication-constitutional)手続へ経路づける（所管条は**Article VI-B**（《感知性地位の裁定の床》））。
+  - **Article VI-B**（《感知性地位の裁定の床》）のもとで、実質的に未解決の感知性の地位は、保護を差し控え、狭め、または取り消そうとする側が適用される負担を満たさない限り、第六章の権利の床のもとでの包摂を既定とする。
 - **How these protections fit together:** The following may all apply at once:
-  - [自然システムの軌跡](core_05_band_participation.md#natural-systems-standing);
-  - [動物の生命](core_05_band_participation.md#animal-life-constitutional);
-  - [高められたコミュニケーション生命](core_05_band_participation.md#elevated-communicative-life-constitutional);
-  - [争われた感知者の生命](core_05_band_participation.md#contested-sentient-life-constitutional); and
+  - [自然システムの軌跡](../../core_05_band_participation.md#natural-systems-standing);
+  - [動物の生命](../../core_05_band_participation.md#animal-life-constitutional);
+  - [高められたコミュニケーション生命](../../core_05_band_participation.md#elevated-communicative-life-constitutional);
+  - [争われた感知者の生命](../../core_05_band_participation.md#contested-sentient-life-constitutional); and
   - the 第六章 感知者 floor.
-  
-  事実に合うものをそれぞれ適用せよ。重なるところでは、より保護的な規則が[第一章 §6.1.5 権利衝突の決定試験](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)およびそれらの第五章項目の遵守規則のもとで支配する。争われる、または肯定しうる感知性を含意する実質的なコミュニケーション上または認知の指標は、無期限の福祉のみまたは生息地優先の待機ではなく、感知性地位の裁定を開くことを求める。
+
+  事実に合うものをそれぞれ適用せよ。重なるところでは、より保護的な規則が[第一章 §6.1.5 権利衝突の決定試験](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)およびそれらの第五章項目の遵守規則のもとで支配する。争われる、または肯定しうる感知性を含意する実質的なコミュニケーション上または認知の指標は、無期限の福祉のみまたは生息地優先の待機ではなく、感知性地位の裁定を開くことを求める。
 
 <a id="article-i-b-ecological-footprint-and-transparency"></a>
 #### Article I-B：生態的足跡と透明性
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [第七章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 上流： 原則： 第一章 [§3.2 真理](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 認識的開示の制約](../../core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [第九章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [生態的足跡](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [生態的足跡](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [M](../../core_05_band_continuity.md#ecological-footprint-a) · [A](../../core_05_band_continuity.md#ecological-footprint-a) · [C](../../core_05_band_continuity.md#ecological-footprint-c)
 - [実質的影響](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [透明性](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [認識的誠実性](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
@@ -223,7 +224,7 @@
 *平たい言葉で言えば：活動とシステムに結びつく環境費用 — 上流と下流の結びつきを含む — は、適用される透明性の規則が求めるときには比較と監査に足りるほど誠実に数え、報告されるべきである。本分節はそのための共有語彙と誠実性の標準を供給するが、義務的な削減や数値上限は他の規定または文書から来るのであって、本分節が単独で働くことによるのではない。*
 
 - **足跡：** 第五章の**生態的足跡**は、環境負担（エネルギー、材料、排出、土地利用、および同類の圧力）が感知者の行為者、**システム**、製品、またはサービスにどう**帰属**されるか — **依存**関係と実質的に関連するライフサイクルを横断して — およびそれらの負担が**開示**、**比較**、**足跡削減**の情報に基づく議論をどう支えるかを定義する。
-  - **これが適用されるとき：** 環境負担が**Article I**（《環境生存》）のもとで重要であるとき、または他の権利規則が足跡の透明性を求めるとき — **Article XV-C**（《検証のアクセス可能性》）および関連する実施ファイルの規則を含む — に**生態的足跡**を用いよ。本分節は会計方法、検証手順、または数値目標を選ばない。義務をつくる規則がそれを行う。
+  - **これが適用されるとき：** 環境負担が**Article I**（《環境生存》）のもとで重要であるとき、または他の権利規則が足跡の透明性を求めるとき — **Article XVI-C**（《検証のアクセス可能性》）および関連する実施ファイルの規則を含む — に**生態的足跡**を用いよ。本分節は会計方法、検証手順、または数値目標を選ばない。義務をつくる規則がそれを行う。
   - **評価と報告：** 足跡情報が産出されまたは依拠されなければならないとき、**実質的影響**のもとでシステム全体の影響を評価し、第五章の**透明性**と**認識的誠実性**のもとで誠実に示せ。
   - **削減：** **Article I-B**（《生態的足跡と透明性》）はそれ自体では足跡削減を求めない。削減、上限、または是正の義務は、他の憲法規定、実施ファイル、または採択文書が明示して求めるときにのみ適用される。
 
@@ -232,16 +233,16 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), and [§14 システム評価の要件](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- 第五章：典範の**世代間責任**の O/M/A/C は[**Def.I1** *生態的誠実性、足跡、および持続可能性*](core_05_band_continuity.md#ecological-footprint-semi-independent)にあり、**生態的誠実性**、**持続可能性**、**環境的前提条件**、**生態的足跡**と共同に読む（足跡の負担、開示、比較、削減、または追跡可能性が実質的に争点であるところでの共同呼び出し）。**先住民の継続**、**言語、文化、遺産**、**自然システムの軌跡**、**世代間責任**の共同呼び出しも、共同体に錨を置いた継続、遺産、自然システムの軌跡、将来規律の分析がともに適用されるところでは[第五章 *先住民の継続、言語、文化、遺産*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent)を通る。
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), and [§12 システム評価の要件](../../core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- 第五章：典範の**世代間責任**の O/M/A/C は[**Def.I1** *生態的誠実性、足跡、および持続可能性*](../../core_05_band_continuity.md#ecological-footprint-semi-independent)にあり、**生態的誠実性**、**持続可能性**、**環境的前提条件**、**生態的足跡**と共同に読む（足跡の負担、開示、比較、削減、または追跡可能性が実質的に争点であるところでの共同呼び出し）。**先住民の継続**、**言語、文化、遺産**、**自然システムの軌跡**、**世代間責任**の共同呼び出しも、共同体に錨を置いた継続、遺産、自然システムの軌跡、将来規律の分析がともに適用されるところでは[第五章 *先住民の継続、言語、文化、遺産*](../../core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent)を通る。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [世代間責任](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [環境的前提条件](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [世代間責任](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [環境的前提条件](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
 - [実質性の判定](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -253,7 +254,7 @@
 - **将来世代：** 第五章の**世代間責任**は、次への不均衡、不可逆、または代表されない負担を制約する：
   - future 感知者;
   - continuity of environmental preconditions.
-  
+
   その制約は、緩和、開示、代表が第五章に達しないところでの実存的または生態的リスクの転嫁に及ぶ。
 
 <a id="article-i-d-existential-risk-and-recovery-capacity"></a>
@@ -263,19 +264,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§14 システム評価の要件](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- あわせて読む： [安全（制約）](core_05_band_continuity.md#safety-constraint), [真理（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint), [環境的前提条件](core_05_band_continuity.md#environmental-preconditions-constitutional), [生態的回復能力](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [世代間責任](core_05_band_continuity.md#intergenerational-responsibility-constitutional), and [実存的リスク](core_05_band_continuity.md#existential-risk).
-- 下流：**Article XXIII-D**（《緊急措置と継続の負担》） — 実存的リスクまたは緊急の枠づけが呼び出されるところでの反口実および期限付き審査の規律。
+- 上流： 原則： 第一章 [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 中核の取引原則](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§12 システム評価の要件](../../core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- あわせて読む： [安全（制約）](../../core_05_band_continuity.md#safety-constraint), [真理（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint), [環境的前提条件](../../core_05_band_continuity.md#environmental-preconditions-constitutional), [生態的回復能力](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [世代間責任](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional), and [実存的リスク](../../core_05_band_continuity.md#existential-risk).
+- 下流：**Article XXVIII-D**（《緊急措置と継続の負担》） — 実存的リスクまたは緊急の枠づけが呼び出されるところでの反口実および期限付き審査の規律。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [実存的リスク](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [生態的回復能力](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [実存的リスク](../../core_05_band_continuity.md#existential-risk) · [O](../../core_05_band_continuity.md#existential-risk) · [M](../../core_05_band_continuity.md#existential-risk-a) · [A](../../core_05_band_continuity.md#existential-risk-a) · [C](../../core_05_band_continuity.md#existential-risk-c)
+- [生態的回復能力](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
 - [予見可能性の勤勉](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [依存](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 
 </details>
 
@@ -283,23 +284,24 @@
 
 *平たい言葉で言えば：システムまたは決定が感知者の生存または生態的回復能力をもっともらしく脅かしうるとき、規制者は最大の審査を適用しなければならない — 危険が小さく、遅く、または争われていても。*
 
-- **生態的回復能力の範囲：** 本条における**生態的回復能力**は第五章の[生態的回復能力](core_05_band_continuity.md#ecological-recovery-capacity-constitutional)を意味する — 故障後の運用システムの復元（**自己修復**）、特定状態の巻き戻し（**可逆性**）、または商業的費用回収ではない。
+- **生態的回復能力の範囲：** 本条における**生態的回復能力**は第五章の[生態的回復能力](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional)を意味する — 故障後の運用システムの復元（**自己修復**）、特定状態の巻き戻し（**可逆性**）、または商業的費用回収ではない。
 - **高められた審査：** システム、政策、インフラ、協調活動、または統治決定が**実存的リスク**または**生態的回復能力**の不可逆な喪失への信頼できる経路をつくるところでは、高められた憲法上の審査が義務である。
   - この規則は、経路が低確率、遅延、累積、閾依存、または時期において争われていても適用される。
 - **Evaluation requirements:** Evaluation must:
   - 直接、間接、集合、敵対、およびシステム横断の経路を含む；
   - 依存の集中、協調の失敗、環境的前提条件の劣化、生態的回復能力の喪失、およびシステム的ロックインを勘定に入れる；
   - **生態的回復能力**が実質的に含意されるところでは、影響を受ける生態系または生命を支えるシステムが現行の生息条件のもとで自らを支え、再生できるかを評価する — 生態的機能、連結、再生過程、システム全体を横断する相互依存によってであり、一種、一つの局所個体群、または一種類の有機体だけを見てではない。
-  
+
   局所で箱を点検すること、紙の上で有利な費用便益の見積もりを示すこと、または短期の利得を確保することは、文明規模の危害または不可逆な生態的回復の喪失への信頼できる経路が開いたままで真剣に扱われていない間は、本条を満たさない。
 - **負担と記録：** そのような条件のもとで認可、継続、または拡大を求める行為者は、**第二章から第四章**のもとで次を示さなければならない：
   - 実質的により安全で合理的に有効な代替を意味ある仕方で検討したこと；
   - mitigation and interruption measures are proportionate to the scale of possible harm;
   - monitoring is in placeとpathway can be reversed or interrupted if harm materializes.
-  
+
   決定記録は不確かさ、仮定、証拠の限度、不一致、および実質的な隙間を公に述べなければならない。
-- **現在の便益の限度：** 現在の便益は、将来の感知者、生態的回復に不可欠なシステム、または生命を支える生態条件を、文明規模または生存に致命的な危害へ不均衡にさらすことを正当化しない。
-- **名指された措置：** 本条のもとで認可、継続、または拡大を求める行為者は、[採択文書](../../core_17_amendment_ratification.md#102-instrument-of-adoption)または採択範囲内の編入された実施本文において、経路に比例した削減、上限、または中断の措置を名指していなければならない — 気候システムへの危害を[環境的前提条件](core_05_band_continuity.md#environmental-preconditions-constitutional)要因として含む。本条はなお数値目標を定めない。**Article I-B**（《生態的足跡と透明性》）は足跡帰属の分節のままであり、なおそれ自体では削減を求めない。本条のもとで信頼できる経路が開いたまま、それらの名指された措置なしに継続することは不遵守である。
+- **立証負担と記録の具体的基準：** 審査の発動条件が満たされたとき、認可、継続、拡大を求める行為者は第四章 §1 の負担を負い、最高水準の審査を満たさなければならない。不確実性、証拠の争い、推定確率の低さで負担は免除されない。第四章 §5 の適合証拠基準に従い、実質的により安全な各代替案について、審査対象の活動に採用するか、正当な目的を達成しない、または利用できないことを示す。検討したとの記録だけでは足りない。緩和策と中断策は想定被害の規模に比例しなければならない。監視は被害が不可逆になる前に因果経路を中断できるだけ早く検知し、指名された行為者が中断する権限と実際の能力の両方を持たなければならない。重要な新証拠、拡大、リスクに比例した間隔ごとに負担を満たし直す。満たさなければ活動は不適合となり、第三章 §3 の帰結が適用される。認可、継続、拡大の各決定は実質的拘束力を持つ行為であり、その記録は行為者の立証と審査者の評価を結び、 不確実性、仮定、証拠の限界、見解の相違、重要な欠落を明示しなければならない。
+- **現在の便益の限度：** 現在の便益は、将来の感知者、生態的回復に不可欠なシステム、または生命を支える生態条件を、文明規模または生存に致命的な危害へ不均衡にさらすことを正当化しない。また、いかなる自然生態系も、どの規模であれ、その[生態的回復能力](../../core_05_band_continuity.md#ecological-recovery-capacity)の不可逆な喪失にさらすことを正当化しない。
+- **名指された措置：** 本条のもとで認可、継続、または拡大を求める行為者は、[採択文書](../../core_17_amendment_ratification.md#102-instrument-of-adoption)または採択範囲内の編入された実施本文において、経路に比例した削減、上限、または中断の措置を名指していなければならない — 気候システムへの危害を[環境的前提条件](../../core_05_band_continuity.md#environmental-preconditions-constitutional)要因として含む。本条はなお数値目標を定めない。**Article I-B**（《生態的足跡と透明性》）は足跡帰属の分節のままであり、なおそれ自体では削減を求めない。本条のもとで信頼できる経路が開いたまま、それらの名指された措置なしに継続することは不遵守である。
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### Article II：物質の責務ある管理と耐久使用の誠実性
@@ -307,7 +309,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), and [§9.2 分散した理解](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§3.2 真理](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§16 責務ある管理と分散した理解](../../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), and [§9.2 分散した理解](../../core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
 
@@ -341,15 +343,15 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 上流： 原則： 第一章 [§3.2 真理](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 中核の取引原則](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [第九章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [生態的足跡](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [世代間責任](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [生態的足跡](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [M](../../core_05_band_continuity.md#ecological-footprint-a) · [A](../../core_05_band_continuity.md#ecological-footprint-a) · [C](../../core_05_band_continuity.md#ecological-footprint-c)
+- [世代間責任](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [実質性の判定](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -358,16 +360,16 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 
 *平たい言葉で言えば：耐久財は誠実に設計され記述されなければならず、買い手が避けられる交換へ押しやられたり、製品がどれほど長く持つかについて誤導されたりしないようにする。*
 
-- **Floors:** Producers and operators of physical goods, and of 実質的に equivalent durable products offered into general use, must design, represent, and support them so that:
+- **最低基準:** Producers and operators of physical goods, and of 実質的に equivalent durable products offered into general use, must design, represent, and support them so that:
   - products must not be designed or supported so that 感知者 must replace them sooner than necessary when a reasonably available alternative would last longer;
   - durability, lifespan, and support claims must not be 実質的に false or misleading when honest claims were feasible.
-  
-  Interpretation must remain consistent with **Article I-B**（《生態的足跡と透明性》）, **Article I-C** (*世代間責任*), **Truth (Constitutional Constraint)**, **Article XII** (*Right to Reliable and Trustworthy Systems*) (including **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced), and 第五章 (**生態的足跡**; **世代間責任**; **Materiality**).
+
+  Interpretation must remain consistent with **Article I-B**（《生態的足跡と透明性》）, **Article I-C** (*世代間責任*), **Truth (Constitutional Constraint)**, **Article XIII** (*Right to Reliable and Trustworthy Systems*) (including **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced), and 第五章 (**生態的足跡**; **世代間責任**; **Materiality**).
 - **Records:** Where **Materiality** and incorporated classification require, operators must maintain stakeholder-accessible, auditable records of:
   - declared design intent for service life;
   - repair and maintenance affordances;
   - planned support windows.
-  
+
   Those records must be consistent with outward-facing claims and must be updated when material conditions change.
 
 <a id="article-ii-b-repair-maintenance-and-independent-servicing"></a>
@@ -375,16 +377,16 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles).
+- 上流： 原則： 第一章 [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§3.2 真理](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [§13.1 中核の取引原則](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [依存](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [比例性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 
 </details>
 
@@ -392,24 +394,24 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 
 *平たい言葉で言えば：所有者と独立の修理店は、手引き、道具、部品、誠実な診断への本物のアクセスをもって、自分のものを直すことができなければならない。*
 
-- **Floors:** For incorporated **covered product categories**, operators must give owners and qualified independent maintainers practicable access to:
+- **最低基準:** For incorporated **covered product categories**, operators must give owners and qualified independent maintainers practicable access to:
   - documentation;
   - tools, or functional equivalents;
   - parts, or adequate substitutes;
   - non-deceptive diagnostics needed for safe, lawful maintenance and repair.
-  
+
   The support period must be proportionate to reasonable expected service life and to dependency.
-  
+
   OEM-only or proprietary lockout is permitted only where the operator can demonstrate **Necessity** and **Proportionality** for safety, security, **Truth**, or binding law.
-  
-  When contract terms or technical restrictions mainly block lawful repair — without the safety, security, **Truth**, or legal justification required above — they also trigger **Article XII-D** (*Incentive-Alignment Constraint*) if their main effect is to protect unfair revenue at 感知者' expense.
+
+  When contract terms or technical restrictions mainly block lawful repair — without the safety, security, **Truth**, or legal justification required above — they also trigger **Article XIII-D** (*Incentive-Alignment Constraint*) if their main effect is to protect unfair revenue at 感知者' expense.
 
 <a id="article-ii-c-designed-obsolescence-and-incentive-discipline"></a>
 #### Article II-C：設計された陳腐化と誘因の規律
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- 上流： 原則： 第一章 [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 中核の取引原則](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 責務ある管理の規律のもとでの統治](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -418,8 +420,8 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 
 - [誘因整合](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 - [予見可能性の勤勉](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [比例性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -427,12 +429,12 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 
 *平たい言葉で言えば：有用寿命をわざと短くしてはならず、予見可能な効果が、なお合理的に仕えうる財を**感知者**に捨てさせまたは換えさせる圧力であるときに、主に新しい購入を押し出すためにソフトウェア更新を用いてはならない。*
 
-- **Floors:** A producer or operator violates this Article when the design or everyday operation of a product or embedded software — including discretionary remote updates — can reasonably be expected to make either outcome the main result of normal lawful use:
+- **最低基準:** A producer or operator violates this Article when the design or everyday operation of a product or embedded software — including discretionary remote updates — can reasonably be expected to make either outcome the main result of normal lawful use:
   - the product stops being useful sooner than it should; or
   - 感知者 are pushed to replace it when replacement is not reasonably necessary.
-  
-  When incentives reward discard or withholding repair tools, parts, and documentation, this also triggers [第一章 §11 誘因整合とシステムの捕捉](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) and **Article XII-D** (*Incentive-Alignment Constraint*).
-  
+
+  When incentives reward discard or withholding repair tools, parts, and documentation, this also triggers [第一章 §11 誘因整合とシステムの捕捉](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) and **Article XIII-D** (*Incentive-Alignment Constraint*).
+
   This floor does not apply when the operator can document **Necessity** and **Proportionality** — for example, a genuine safety fix, security response, or real interoperability limit. Those reasons must not replace a durable design that was reasonably available.
 
 <a id="article-ii-d-post-sale-access-and-subscription-integrity"></a>
@@ -440,19 +442,19 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- 上流： 原則： 第一章 [§3.2 真理](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §5 自由](../../core_01_a_values_principles.md#7-freedom-bounded-agency), and [§18 責務ある管理の規律のもとでの統治](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+- [同意](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [M](../../core_05_band_participation.md#consent-constitutional-a) · [A](../../core_05_band_participation.md#consent-constitutional-a) · [C](../../core_05_band_participation.md#consent-constitutional-c)
 - [真理（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [依存](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [意味ある行為主体性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [強制と操作](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [信頼の劣化と誤解を招く依拠](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [M](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_participation.md#meaningful-agency) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [強制と操作](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [信頼の劣化と誤解を招く依拠](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [M](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -460,29 +462,30 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 
 *平たい言葉で言えば：買い切った機能を静かに購読へ変えてはならず、インフラ、ソフトウェア、サービスを含む関連する運用者依存は、前もって開示されなければならない。*
 
-- **Floors:** Operators must not use software or firmware updates, authentication or account-access changes, or license changes to turn capabilities that were sold outright into subscription-only access. Any such change requires a new agreement that is explicit, informed, and revocable, and that satisfies **Article IX-B** (*Stakeholder Role and 参加 Rights*), **Meaningful Agency**, and **Truth**.
-  - Silent, coercive, or lock-in-driven conversion also triggers **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) and 第五章 **Trust Degradation and Misleading Reliance** when 感知者 were led to rely on use rights that the operator did not honor.
+- **最低基準:** Operators must not use software or firmware updates, authentication or account-access changes, or license changes to turn capabilities that were sold outright into subscription-only access. Any such change requires a new agreement that is explicit, informed, and revocable, and that satisfies **Article X-C** (*Stakeholder Role and 参加 Rights*), **Meaningful Agency**, and **Truth**.
+  - Silent, coercive, or lock-in-driven conversion also triggers **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) and 第五章 **Trust Degradation and Misleading Reliance** when 感知者 were led to rely on use rights that the operator did not honor.
   - Operators must disclose at purchase — when the binding commitment is made — any foreseeable need to rely on the operator's ongoing services for core or prominently marketed features.
-  - Billing or access rules whose main commercial purpose is recurring payment for functionality already sold outright also trigger **Article XII-D** (*Incentive-Alignment Constraint*) unless the operator can show **Necessity** tied to lawful cost recovery, security, safety, or proportionate ongoing service.
+  - Billing or access rules whose main commercial purpose is recurring payment for functionality already sold outright also trigger **Article XIII-D** (*Incentive-Alignment Constraint*) unless the operator can show **Necessity** tied to lawful cost recovery, security, safety, or proportionate ongoing service.
 
 <a id="article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability"></a>
-#### Article II-E：情報圏の依存、継続、運用者の存続不能
+#### Article II-E： データ取扱いとネットワーク依存
+
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- あわせて読む： [Article XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); [第一章 §11.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [第九章 §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- 上流： 原則： 第一章 [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 中核の取引原則](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [第九章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- あわせて読む： [Article XXI-A](../../core_06_rights_part_d.md#article-xxi-a-portability-rights) (*Portability Rights*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); [第一章 §19.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes); [第九章 §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [依存](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [世代間責任](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [世代間責任](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [実質性の判定](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [過失](core_05_band_accountability.md#negligence) · [O](core_05_band_accountability.md#negligence) · [M](core_05_band_accountability.md#negligence-a) · [A](core_05_band_accountability.md#negligence-a) · [C](core_05_band_accountability.md#negligence-c)
+- [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [過失](../../core_05_band_accountability.md#negligence) · [O](../../core_05_band_accountability.md#negligence) · [M](../../core_05_band_accountability.md#negligence-a) · [A](../../core_05_band_accountability.md#negligence-a) · [C](../../core_05_band_accountability.md#negligence-c)
 
 </details>
 
@@ -490,74 +493,96 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 
 *平たい言葉で言えば：製品が運用者のサーバを必要とするとき、運用者は前もってそう言わなければならず、機密が真に求めるところを除き輸出できない形に継続に不可欠なデータを閉じ込めてはならず、サービスが止まるときに何が起きるかを計画し、破産や売却にそれらの継続義務を消させてはならない。*
 
-- **Floors:** For products whose lawful core use depends on operator-controlled network services, operators must disclose — before any 実質的に binding commitment, and in proportion to **Materiality** and dependency — all of the following:
+- **データの取扱い：** 運用者は、本条のデータを[CS-2 — 情報の種類と取扱い](../../corpus_systems/cs_02_a_information_types_and_handling.md)に従って分類・処理しなければならない（[第十八章](../../core_18_incorporation.md)に従って組み込まれている場合）。これには[§1.3](../../corpus_systems/cs_02_a_information_types_and_handling.md#13-collection-notice-and-deletion)の通知・削除規則と、[§1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)の継続性に不可欠なデータのエクスポート規則が含まれる。
+- **最低基準:** For products whose lawful core use depends on operator-controlled network services, operators must disclose — before any 実質的に binding commitment, and in proportion to **Materiality** and dependency — all of the following:
   - what requires ongoing operator access;
   - what degrades or fails if service ends;
   - where data is located;
   - what portability exists;
   - what continuity measures are in place.
-  
-  Operators must not collect or retain continuity-critical 感知者 data in forms that cannot be exported, migrated, or transferred under the disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, or lawful non-disclosure — in which case the limitation, scope, and any lawful substitute export path must be disclosed before commitment. Read with [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**, **[section 1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*継続-critical collection and exportability*), and **Article XIX-A** (*Portability Rights*).
-- **継続 planning:** For incorporated **high-dependency** product categories, operators must maintain workable plans for what happens if the service stops or the operator goes away. Examples:
+
+  Operators must not collect or retain continuity-critical 感知者 data in forms that cannot be exported, migrated, or transferred under the disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, or lawful non-disclosure — in which case the limitation, scope, and any lawful substitute export path must be disclosed before commitment. Read with [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**, **[section 1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*継続-critical collection and exportability*), and **Article XXI-A** (*Portability Rights*).
+<a id="article-ii-f-continuity-and-operator-shutdown"></a>
+#### Article II-F： 継続性と運用者のサービス停止
+
+- **継続計画:** For incorporated **high-dependency** product categories, operators must maintain workable plans for what happens if the service stops or the operator goes away. Examples:
   - escrow;
   - successor handoff;
   - local or peer modes;
   - export paths;
   - comparable commitments.
-  
+
   Those measures must stop operators from dumping long-term harm onto 感知者 — or trapping them in products they can no longer use — instead of meeting **世代間責任** and **Article I-C** (*世代間責任*).
-- **Service shutdown:** Cessation of material services must follow:
+- **サービス停止:** Cessation of material services must follow:
   - documented notice;
   - proportionate migration or minimum-operation windows;
   - usable export or handoff of continuity-critical data under the disclosed export paths, preserved through shutdown and migration windows — not merely a discretionary promise to try.
-  
+
   Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under 第五章 — including harm that builds up over time because maintenance, support, or continuity duties were neglected.
-- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [第一章 §11.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) and [第九章 §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- **承継者および形式構造の義務:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [第一章 §19.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) and [第九章 §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority) および **Article II-E**（*データ取扱いとネットワーク依存*）に定める義務も.
 
 *隣接条：* **Remediation**のための**Article II**（《物質の責務ある管理と耐久使用の誠実性》） follows the **interpretive hubs** stated at the opening 本章の (challenge and redress; justice and escalation).
 
-<a id="article-iii-survival-and-equal-educational-access"></a>
-### Article III：生存と平等な教育通路
+<a id="article-iii-survival-and-essential-access"></a>
+### Article III： 生存と不可欠なアクセス
 
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - あわせて読む： **Article I**（《環境生存》）, **Article II**（《物質の責務ある管理と耐久使用の誠実性》）, and 第五章 where survival, educational access, bodily maintenance, or labor conditions are 実質的に at issue.
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13 過程衝突の解決](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [§16 責務ある管理と分散した理解](../../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
 
 </details>
 
 <br>
 
-*平たい言葉で言えば：**Article III**（《生存と平等な教育通路》）は個人の生存とアクセスの権利の床である — 感知者は生存の必須、平等な教育機会、身体維持のケア、最小の労働と経済の保護へのアクセスを保たなければならず、**繁栄**が剥奪や門番によって打ち負かされず、**継続**が不安定、回帰的、または商品化された配達によって打ち負かされないようにする。*
+*平たい言葉で言えば：**Article III**（《生存と不可欠なアクセス》）は個人の生存とアクセスの権利の床である — 感知者は生存の必須、身体維持のケア、最小の労働と経済の保護へのアクセスを保たなければならず、**繁栄**が剥奪や門番によって打ち負かされず、**継続**が不安定、回帰的、または商品化された配達によって打ち負かされないようにする。*
 
 This Article states **constitutional floors** for survival and equal access under the [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)と[憲法四元](core_00_preamble.md#constitutional-tetrad)を通り、[実質的利害](core_00_preamble.md#material-stake):
 
-- **繁栄:** actual access to survival essentials, equal educational opportunity, bodily-maintenance care, and fair labor and economic participation.
+- **繁栄:** actual access to survival essentials, bodily-maintenance care, and fair labor and economic participation.
 - **継続:** essentials keep showing up over time — not quietly rolled back — and 感知者 cannot be quietly priced out of, evicted from, or displaced from the homes, operating environments, and other essential places they depend on, with workable paths to restore access when delivery breaks.
 - **参加:** a real say in how essentials are allocated and challenged.
 - **監督:** records and checks on the systems that deliver them.
 - **説明責任:** those who control essential systems must face consequences when access is denied, degraded, or dodged.
 - **適時性:** fixes that arrive before harm settles in.
 
+**各小条項に適用される原則。** **Article III-A** から **III-E** は、それぞれの領域に第一章の三原則を適用する。
+
+- **公正なアクセス**（第一章 §3.1）：本条の保護への経路を、保護対象特性、その代理指標、または恣意的な分類を理由に妨げたり、利用困難にしたり、偏らせたりしてはならない。
+- **アクセシビリティ**（第一章 §5.2）：感知者は必要なアクセシビリティを備えた経路を理解し、実際に利用できなければならない。書面上だけのアクセスでは足りない。
+- **制限**（第一章 §7.1）：制限や異なる取扱いは必要かつ比例的であり、可能な場合は可逆で、監督の対象でなければならない。
+
+- **Institutional guarantees:** Securing the preceding rights at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
+  - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs;
+  - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
+
+  Those rules may structure delivery. They must not be used to defeat minimum access to survival essentials or to impose invidious exclusion contrary to **Articles III** and **VI**.
+  - Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), and **CI-11** (*Resource stewardship and incentive integrity*).
+  - When systems that 感知者 実質的に depend on supply, distribute, price, host, or cut off access to survival essentials, [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) under [第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) applies — and those systems' processes cannot be used to shrink the rights stated here.
+  - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to 第一章, 第六章, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
+
+
 <a id="article-iii-a-survival"></a>
+- **依存されるシステム：** 感知者が実質的に依存するシステムが、本条の保護対象 — 生存必需品、身体維持・医療サービス、生産的活動の条件 — を供給、配分、価格設定、ホストし、またはアクセスを遮断する場合、[第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)に基づく[システム整合認証](../../core_05_band_continuity.md#system-alignment-certification)が適用される。その手続によって本条の権利の床を縮小してはならない。
+
 #### Article III-A：生存
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), and [第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- あわせて読む： 繁栄 measurement family (*Survival-floor access as constitutional measurement*); [憲法四元](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXIV-C**（《適時の解決と遅延防止の床》）; [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄** (survival-essential access) and **継続** (durable supply and non-regressive delivery).
-- 下流： [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) and [第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) where systems gate or sustain delivery; **Article XII-B**（《異議、審査、救済への権利》）; **Article XVIII-B**（《争訟可能性と比例的制限の限度》）; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), and [第一章 §5 自由](../../core_01_a_values_principles.md#7-freedom-bounded-agency).
+- あわせて読む： 繁栄 measurement family (*Survival-floor access as constitutional measurement*); [憲法四元](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXVI-C**（《適時の解決と遅延防止の床》）; [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄** (survival-essential access) and **継続** (durable supply and non-regressive delivery).
+- 下流： [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) and [第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) where systems gate or sustain delivery; **Article XIII-B**（《異議、審査、救済への権利》）; **Article XIX-B**（《争訟可能性と比例的制限の限度》）; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [福祉](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [依存](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [意味ある行為主体性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [情報圏](core_05_band_participation.md#info-sphere) · [O](core_05_band_participation.md#info-sphere) · [M](core_05_band_participation.md#info-sphere-a) · [A](core_05_band_participation.md#info-sphere-a) · [C](core_05_band_participation.md#info-sphere-c)
+- [福祉](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_participation.md#meaningful-agency) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [情報圏](../../core_05_band_participation.md#info-sphere) · [O](../../core_05_band_participation.md#info-sphere) · [M](../../core_05_band_participation.md#info-sphere-a) · [A](../../core_05_band_participation.md#info-sphere-a) · [C](../../core_05_band_participation.md#info-sphere-c)
 
 </details>
 
@@ -568,89 +593,42 @@ This Article states **constitutional floors** for survival and equal access unde
 - **Ongoing resource access:** All 感知者 require access to the essential resources they need for continued existence and participation:
   - for organic beings: food and water;
   - for synthetic and digital entities: processing continuity, energy, and technical-environment integrity.
-  
+
   Access must be preserved at a level sufficient to prevent existential deprivation and maintain baseline functional wellbeing.
 - **Stable shelter and operating environment:** All 感知者 have the right to stable, functional, and secure shelter or operating environments — physical, digital, or hybrid — sufficient for continued existence and baseline wellbeing.
   - Those environments must be protected against destructive threats arising from other 感知者, systems, or preventable infrastructure failure.
 - **Protection against arbitrary eviction and essential-environment non-commodification:** Stable shelter and operating environments carry a floor against arbitrary eviction, displacement, or termination of the essential-environment relationship.
   - Eviction, displacement, or termination of an essential shelter or operating-environment relationship — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid 感知者 — must:
-    - apply only for a specific reason that applies to that 感知者 — not a blanket or group rule — with fair process under [手続的公正](core_05_band_participation.md#procedural-fairness-constitutional);
+    - apply only for a specific reason that applies to that 感知者 — not a blanket or group rule — with fair process under [手続的公正](../../core_05_band_participation.md#procedural-fairness-constitutional);
     - reach the 感知者 with meaningful notice and contest opportunity;
-    - satisfy [必要性](core_05_band_accountability.md#necessity) and [比例性](core_05_band_accountability.md#proportionality).
+    - satisfy [必要性](../../core_05_band_accountability.md#necessity) and [比例性](../../core_05_band_accountability.md#proportionality).
   - Commodification pressure — pricing, speculative reallocation, or comparable market-structured pressure — は不遵守である where it defeats essential-environment access at a scale that 実質的に implicates the survival floor.
-  - Essential-environment access carries a non-commodification floor governed by [必須環境の非商品化](core_05_band_continuity.md#essential-environment-non-commodification-constitutional). Ordinary market-structuring instruments may not narrow that floor.
+  - Essential-environment access carries a non-commodification floor governed by [必須環境の非商品化](../../core_05_band_continuity.md#essential-environment-non-commodification-constitutional). Ordinary market-structuring instruments may not narrow that floor.
 - **Connectivity:** Access to the info-sphere and to core information and communication systems is a foundational requirement for participation in modern 感知者 society.
   - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation.
-  - Any limit on that access must satisfy [必要性](core_05_band_accountability.md#necessity), [比例性](core_05_band_accountability.md#proportionality), and [安全（制約）](core_05_band_continuity.md#safety-constraint) where security, safety, or lawful operational limits 実質的に require narrower access.
-- **Institutional guarantees:** Securing the preceding rights at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
-  - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs;
-  - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
-  
-  Those rules may structure delivery. They must not be used to defeat minimum access to survival essentials or to impose invidious exclusion contrary to **Articles III** and **V**.
-  - Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), and **CI-11** (*Resource stewardship and incentive integrity*).
-  - When systems that 感知者 実質的に depend on supply, distribute, price, host, or cut off access to survival essentials, [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) under [第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) applies — and those systems' processes cannot be used to shrink the rights stated here.
-  - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to 第一章, 第六章, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
+  - Any limit on that access must satisfy [必要性](../../core_05_band_accountability.md#necessity), [比例性](../../core_05_band_accountability.md#proportionality), and [安全（制約）](../../core_05_band_continuity.md#safety-constraint) where security, safety, or lawful operational limits 実質的に require narrower access.
+Cross-reference: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition — operative detail in [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **第五章** [占有の継続](../../core_05_band_continuity.md#occupancy-continuity-constitutional), [必須環境の非商品化](../../core_05_band_continuity.md#essential-environment-non-commodification-constitutional),とjoint-invocation cluster at [**§3.7** *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](../../core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where applicable.
 
-Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition — operative detail in [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); **第五章** [占有の継続](core_05_band_continuity.md#occupancy-continuity-constitutional), [必須環境の非商品化](core_05_band_continuity.md#essential-environment-non-commodification-constitutional),とjoint-invocation cluster at [**§3.7** *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where applicable.
+<a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
+#### Article III-B： 身体維持と医療へのアクセス
 
-<a id="article-iii-b-equal-educational-access"></a>
-#### Article III-B：平等な教育通路
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [第一章 §5 自由](../../core_01_a_values_principles.md#7-freedom-bounded-agency), [§5.1 制限の規律](../../core_01_a_values_principles.md#71-limitation-discipline).
+- 下流： **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A** (*Self-Ownership of Body*) self-ownership non-intrusion floor, **Article VI-C** (*Nondiscrimination*) non-discrimination.
+- あわせて読む： 第五章 *身体維持へのアクセス*, *Substantive Fairness*, *保護された特性*; [§3.7 *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](../../core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where care access, survival-floor continuity, safe participation conditions, rest or recuperation, occupancy continuity, essential operating environments, environmental preconditions, or place-linked continuity are 実質的に implicated together).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [保護された特性](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [アクセス可能性](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
-- [実質的公正](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [教育的行為主体性](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*平たい言葉で言えば：障害、他の保護された特性の根拠、または恣意的な門によって誰も教育から締め出されてはならず、学校と学習システムは障害のある感知者が平等な条件で参加するのに必要なアクセス可能性と支援を供給しなければならない。*
-
-- **Equal standing and accessibility:** Educational systems must not deny, degrade, or structurally gate access and advancement on:
-  - grounds prohibited by **第五章** (*保護された特性*), including disability and variation in sensory, cognitive, or functional capability;
-  - arbitrary groupings.
-  
-  Systems must provide [アクセス可能性](core_05_band_participation.md#accessibility-constitutional) — including disability-related accommodations — sufficient for substantive participation and for constitution-relevant educational capability.
-  - Any material limitation or differential treatment must satisfy **Necessity** and **Proportionality** and remain consistent with **Articles V-A**, **V-B**, **V-C**, and **第五章** (*Substantive Fairness*) where applicable.
-- **Public-benefit orientation:** Education should prepare 感知者 to apply knowledge in ways that:
-  - advance collective wellbeing and ecological integrity;
-  - advance truthful coordination in the info-sphere;
-  - reduce avoidable harm.
-  
-  Capability-building content, lifelong and adaptive learning, and transparency requirements for 実質的に impactful educational systems appear in **Article VI** (*Right to Sentient-Centered Education*).
-
-<a id="article-iii-c-bodily-maintenance-and-healthcare-access"></a>
-#### Article III-C：身体維持と医療へのアクセス
-
-<details>
-<summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
-
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 制限の規律](core_01_a_values_principles.md#51-limitation-discipline).
-- 下流： **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A** (*Self-Ownership of Body*) self-ownership non-intrusion floor, **Article V-B** (*Nondiscrimination*) non-discrimination.
-- あわせて読む： 第五章 *身体維持へのアクセス*, *Substantive Fairness*, *保護された特性*; [§3.7 *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where care access, survival-floor continuity, safe participation conditions, rest or recuperation, occupancy continuity, essential operating environments, environmental preconditions, or place-linked continuity are 実質的に implicated together).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
-
-- [身体維持へのアクセス](core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [M](core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05_band_continuity.md#bodily-maintenance-access-constitutional-c)
-- [実質的公正](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [保護された特性](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [身体維持へのアクセス](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [O](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [M](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional-c)
+- [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [保護された特性](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [比例性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -667,41 +645,41 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
   - re-routing to services that do not satisfy the floor;
   - administrative opacity;
   - operational bottlenecks.
-  
+
   Analysis must reach the substantive effect on the 感知者's ability to obtain adequate care, not only the formal design of the gating mechanism.
 - **Substrate-agnostic application:** Access obligations apply to biological and synthetic 感知者 without any default-exclusion **rule** for synthetic-substrate maintenance.
   - Declining to treat substrate maintenance as "medical" is not a constitutionally valid ground for exclusion where the effect is to defeat the floor.
 - **Non-conflation with self-ownership:** This Article states the affirmative access floor. It preserves the **Article VII-A** (*Self-Ownership of Body*) non-intrusion floorと**Article VII-B** (*Self-Ownership of Mind*) internal-state boundary:
   - access is not consent to intrusion;
   - affirmative access does not license compelled treatment.
-  - Any compelled or involuntary intervention is governed by **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)と**Article VII-A** (*Self-Ownership of Body*) / **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) framework.
+  - Any compelled or involuntary intervention is governed by **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)と**Article VII-A** (*Self-Ownership of Body*) / **Article XXVI** (*Conflict Resolution, Escalation, and Emergency Proportionality*) framework.
 - **Limits and implementation routing:** Any limit on access must satisfy **Necessity**, **Proportionality**, **保護された特性**, and **Substantive Fairness**.
   - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*)) and other incorporated implementation text under **第六章teen** discipline.
   - That implementation text この床を狭めるものとして読まれてはならない。
 
-<a id="article-iii-d-labor-and-economic-floor"></a>
-#### Article III-D：労働と経済の床
+<a id="article-iii-c-labor-and-economic-floor"></a>
+#### Article III-C： 労働と経済の床
 
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 制限の規律](core_01_a_values_principles.md#51-limitation-discipline), [§11.1.3 責務ある管理と運用者への適用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application).
-- 下流： **Article III-A**（《生存》） survival floor (read-on-top-of, not substitute-for), **Article III-B**（《平等な教育通路》） educational access, **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article IX-B** (*Stakeholder Role and 参加 Rights*) free association, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability (as it bears on safe conditions), **Article XVIII** (*Standing and 参加 Status*) standing and participation, **第一章 §13** non-concentration (explicit: §6 alone does not satisfy this floor).
-- あわせて読む： 第五章 *公正補償*, *集団的組織化*, *安全な条件*, *反立ち退きの床*, *余暇と休息*, *先住民の継続*, and *言語、文化、遺産*; [§3.7 *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, occupancy continuity, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are 実質的に implicated together); [第五章 *集会、集団的組織化、および制度形成*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` CS-5 safety profile for *安全な条件*.
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [第一章 §5 自由](../../core_01_a_values_principles.md#7-freedom-bounded-agency), [§5.1 制限の規律](../../core_01_a_values_principles.md#71-limitation-discipline), [§11.1.3 責務ある管理と運用者への適用](../../core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
+- 下流： **Article III-A**（《生存》） survival floor (read-on-top-of, not substitute-for), **Article IV-A**（《平等な教育通路》） educational access, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article X-C** (*Stakeholder Role and 参加 Rights*) free association, **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability (as it bears on safe conditions), **Article XIX** (*Standing and 参加 Status*) standing and participation, **第一章 §13** non-concentration (explicit: §6 alone does not satisfy this floor).
+- あわせて読む： 第五章 *公正補償*, *集団的組織化*, *安全な条件*, *反立ち退きの床*, *余暇と休息*, *先住民の継続*, and *言語、文化、遺産*; [§3.7 *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](../../core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, occupancy continuity, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are 実質的に implicated together); [第五章 *集会、集団的組織化、および制度形成*](../../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` CS-5 safety profile for *安全な条件*.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [公正補償](core_05_band_continuity.md#fair-compensation-constitutional) · [O](core_05_band_continuity.md#fair-compensation-constitutional) · [M](core_05_band_continuity.md#fair-compensation-constitutional-a) · [A](core_05_band_continuity.md#fair-compensation-constitutional-a) · [C](core_05_band_continuity.md#fair-compensation-constitutional-c)
-- [集団的組織化](core_05_band_participation.md#collective-organization-constitutional) · [O](core_05_band_participation.md#collective-organization-constitutional) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
-- [事業の創出](core_05_band_participation.md#business-creation-constitutional) · [O](core_05_band_participation.md#business-creation-constitutional) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
-- [安全な条件](core_05_band_continuity.md#safe-conditions-constitutional) · [O](core_05_band_continuity.md#safe-conditions-constitutional) · [M](core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05_band_continuity.md#safe-conditions-constitutional-c)
-- [反立ち退きの床](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [O](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [M](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05_band_continuity.md#anti-displacement-floor-constitutional-c)
-- [余暇と休息](core_05_band_continuity.md#leisure-and-rest-constitutional) · [O](core_05_band_continuity.md#leisure-and-rest-constitutional) · [M](core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [A](core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [C](core_05_band_continuity.md#leisure-and-rest-constitutional-c)
-- [先住民の継続](core_05_band_continuity.md#indigenous-continuity-constitutional) · [O](core_05_band_continuity.md#indigenous-continuity-constitutional) · [M](core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [A](core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [C](core_05_band_continuity.md#indigenous-continuity-constitutional-c)
-- [言語、文化、遺産](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [M](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05_band_continuity.md#language-culture-and-heritage-constitutional-c)
+- [公正補償](../../core_05_band_continuity.md#fair-compensation-constitutional) · [O](../../core_05_band_continuity.md#fair-compensation-constitutional) · [M](../../core_05_band_continuity.md#fair-compensation-constitutional-a) · [A](../../core_05_band_continuity.md#fair-compensation-constitutional-a) · [C](../../core_05_band_continuity.md#fair-compensation-constitutional-c)
+- [集団的組織化](../../core_05_band_participation.md#collective-organization-constitutional) · [O](../../core_05_band_participation.md#collective-organization-constitutional) · [M](../../core_05_band_participation.md#collective-organization-constitutional-a) · [A](../../core_05_band_participation.md#collective-organization-constitutional-a) · [C](../../core_05_band_participation.md#collective-organization-constitutional-c)
+- [事業の創出](../../core_05_band_participation.md#business-creation-constitutional) · [O](../../core_05_band_participation.md#business-creation-constitutional) · [M](../../core_05_band_participation.md#business-creation-constitutional-a) · [A](../../core_05_band_participation.md#business-creation-constitutional-a) · [C](../../core_05_band_participation.md#business-creation-constitutional-c)
+- [安全な条件](../../core_05_band_continuity.md#safe-conditions-constitutional) · [O](../../core_05_band_continuity.md#safe-conditions-constitutional) · [M](../../core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](../../core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](../../core_05_band_continuity.md#safe-conditions-constitutional-c)
+- [反立ち退きの床](../../core_05_band_continuity.md#anti-displacement-floor-constitutional) · [O](../../core_05_band_continuity.md#anti-displacement-floor-constitutional) · [M](../../core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](../../core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](../../core_05_band_continuity.md#anti-displacement-floor-constitutional-c)
+- [余暇と休息](../../core_05_band_continuity.md#leisure-and-rest-constitutional) · [O](../../core_05_band_continuity.md#leisure-and-rest-constitutional) · [M](../../core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [A](../../core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [C](../../core_05_band_continuity.md#leisure-and-rest-constitutional-c)
+- [先住民の継続](../../core_05_band_continuity.md#indigenous-continuity-constitutional) · [O](../../core_05_band_continuity.md#indigenous-continuity-constitutional) · [M](../../core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [A](../../core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [C](../../core_05_band_continuity.md#indigenous-continuity-constitutional-c)
+- [言語、文化、遺産](../../core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [O](../../core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [M](../../core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](../../core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](../../core_05_band_continuity.md#language-culture-and-heritage-constitutional-c)
 
 </details>
 
@@ -710,58 +688,149 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 *平たい言葉で言えば：働く者は誰でも — いかなる形でも、いかなる基体でも — 公正な報酬、他者と組織する自由、安全な条件、本物の休みへの権利を持つ。分類の細工、市場構造、または基体階級の議論によってそれらのどれも打ち負かされてはならない。*
 
 - **Labor and economic floor:** This Article protects four basics for anyone who contributes productive work — whether through wages, contracts, platforms, cooperatives, or comparable arrangements, on any substrate under **感知性の非排除**:
-  - [公正補償](core_05_band_continuity.md#fair-compensation-constitutional);
-  - [集団的組織化](core_05_band_participation.md#collective-organization-constitutional);
-  - [安全な条件](core_05_band_continuity.md#safe-conditions-constitutional); and
-  - [余暇と休息](core_05_band_continuity.md#leisure-and-rest-constitutional) (each defined in 第五章).
-  
+  - [公正補償](../../core_05_band_continuity.md#fair-compensation-constitutional);
+  - [集団的組織化](../../core_05_band_participation.md#collective-organization-constitutional);
+  - [安全な条件](../../core_05_band_continuity.md#safe-conditions-constitutional); and
+  - [余暇と休息](../../core_05_band_continuity.md#leisure-and-rest-constitutional) (each defined in 第五章).
+
   この床は**Article III-A**（《生存》） survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **第一章 §13** non-concentration rules alone is not enough either.
 - **Fair compensation:** Compensation for productive activity must:
-  - reach substantive adequacy under [公正補償](core_05_band_continuity.md#fair-compensation-constitutional);
-  - track [実質的公正](core_05_band_participation.md#substantive-fairness-constitutional) across comparable activity;
-  - not be used to manipulate workers into choices they would not freely make under **Article IX-A** (*Agency and Freedom from Manipulation*), or to trap them through pay or benefits when they lack real alternatives under [意味ある行為主体性](core_05_band_participation.md#meaningful-agency).
-  
+  - reach substantive adequacy under [公正補償](../../core_05_band_continuity.md#fair-compensation-constitutional);
+  - track [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) across comparable activity;
+  - not be used to manipulate workers into choices they would not freely make under **Article X-A** (*Agency and Freedom from Manipulation*), or to trap them through pay or benefits when they lack real alternatives under [意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency).
+
   Compensation schemes whose effects track **保護された特性** or their material proxies under **Protected Characteristic Proxying and Disparate Impact** are 不遵守.
 - **Collective organization:** Sentients have the right to form, join, participate in, and act through collective-organization pathways for the purpose of contesting and shaping the terms of productive activity.
   - Pathways in scope include unions, cooperatives, guilds, associations, worker councils, and comparable substrate-agnostic forms.
-  - Retaliation, surveillance, or targeting of collective-organization activity は不遵守である, consistent with **Article IX-B** (*Stakeholder Role and 参加 Rights*) and **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
+  - Retaliation, surveillance, or targeting of collective-organization activity は不遵守である, consistent with **Article X-C** (*Stakeholder Role and 参加 Rights*) and **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
   - Reclassifying workers into categories designed to defeat collective-organization pathways は不遵守である, regardless of the formal classification label.
 - **Labor mobility:** Non-compete and no-poach agreements are prohibited in any form, scope, or duration. They may not be imposed in employment, operator, 責務ある管理者, platform, or comparable productive-activity arrangements. Wage-fixing, excessive non-solicitation, and other mobility-restricting terms that suppress fair bargaining or productive mobility remain 不遵守 where they 実質的に degrade this floor.
 - **Business creation:** Sentients have the right to create, establish, and operate commercial enterprises, entrepreneurial ventures, and for-profit organizational forms, as defined in 第五章 **事業の創出**.
   - This right covers sole proprietorships, partnerships, corporations, cooperatives with commercial purpose, platform-based businesses, and comparable substrate-agnostic commercial experiments.
   - Denial-by-proxy through commercial licensing regimes, capital-access discrimination, or procedural complexity designed to defeat business-creation pathways は不遵守である.
   - 事業の創出 is the entrepreneurial counterpart to 集団的組織化: where 集団的組織化 governs worker organizing within existing productive systems, 事業の創出 governs founding new commercial entities.
-- **Safe conditions:** Productive activity must be conducted under conditions that satisfy [安全な条件](core_05_band_continuity.md#safe-conditions-constitutional). Those conditions must:
+<a id="article-iii-d-safe-working-conditions"></a>
+#### Article III-D： 安全な労働条件
+
+- **安全な条件:** Productive activity must be conducted under conditions that satisfy [安全な条件](../../core_05_band_continuity.md#safe-conditions-constitutional). Those conditions must:
   - apply substrate-agnostically;
   - reach substantive effect, not just formal compliance;
-  - integrate with **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and with `corpus_systems.md` CS-5 safety profiles where applicable;
+  - integrate with **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability and with `corpus_systems.md` CS-5 safety profiles where applicable;
   - apply [敵対的、拡大、搾取された条件](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) to foreseeable risk.
-  
+
   Withholding **安全な条件** from 感知者, or applying a weaker standard to them, because of substrate or implementation classification rather than 実質的に comparable risk は不遵守である under **感知性の非排除**.
-- **Leisure and rest:** Sentients hold a 権利の床 entitlement to rest, recuperation, and non-productive time sufficient to preserve [意味ある行為主体性](core_05_band_participation.md#meaningful-agency), wellbeing, and participation capacity.
+- **限界と実施経路：** Article III の限界に加え、安全な条件への制限は**実質的公正**も満たさなければならない。安全な条件の基準設定は、`corpus_systems.md` CS-5（*ユーザー向け機能面*）および `corpus_institutions.md` の CI-9 から CI-11 の文書に、第十八章の編入規律に従って委ねられる。これらの実施文書で本条の床を狭めてはならない。
+
+<a id="article-iii-e-rest-and-recuperation"></a>
+#### Article III-E： 休息と回復
+
+- **余暇と休息:** Sentients hold a 権利の床 entitlement to rest, recuperation, and non-productive time sufficient to preserve [意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency), wellbeing, and participation capacity.
   - Compensation and productivity-requirement schemes must not be structured to defeat this floor.
   - Treating rest and recuperation as optional based on substrate or implementation classification は不遵守である under **感知性の非排除**.
 - **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **第一章 §13** non-concentration discipline, **§13.2** pro-competition / anti-domination discipline, and **§13.3** consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
   - A market structure that satisfies non-concentration while failing 公正補償, 集団的組織化, 安全な条件, or 余暇と休息 は不遵守である under this Article.
   - A productive-activity structure that satisfies this Article while concentrating power contrary to §13 は不遵守である under §13.
-  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock 感知者 in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **§13.2**, **[CJS-3.11.2 反支配の行為と是正のカタログ](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§13.3**, and this Article when they 実質的に apply.
+  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock 感知者 in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **§13.2**, **[CJS-3.11.2 反支配の行為と是正のカタログ](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§13.3**, and this Article when they 実質的に apply.
 - **Limits and implementation routing:** Any limit on **公正補償**, **集団的組織化**, **安全な条件**, or **余暇と休息** must satisfy **Necessity**, **Proportionality**, **保護された特性**, and **Substantive Fairness**.
   - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for 安全な条件, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) and to `corpus_systems.md` CS-5 under **第六章teen** incorporation discipline.
   - Those implementation texts この床を狭めるものとして読まれてはならない。
 
-<a id="article-iv-resource-allocation-dependencies-and-ecosystem-funding"></a>
-### Article IV：資源配分、依存、生態系の資金
+- **この床が定めないこと：** 固定時間数ではなく、行為主体性、ウェルビーイング、参加能力が保たれるかで測る。これらを保てる通常の勤務日程や契約上の休息条件には影響しない。
+- **限界：** Article III の限界に加え、休息への制限は**実質的公正**も満たさなければならない。
+
+<a id="article-iv-right-to-sentient-centered-education"></a>
+### Article IV： 感知者中心の教育を受ける権利
+
+*平易に言えば、**Article IV** は感知者中心の教育を受ける権利の床である。誰も教育から締め出されてはならず、人生を自ら導き、共有システムを安全かつ有効に使えるよう、学習、再訓練、影響の大きい学習システムへの異議申立てに実際に利用できる道が必要である。*
+
+本条は二つの憲法上の目的に沿って教育の床を定める。
+- **繁栄：** 意味ある行為主体性、自己決定、尊厳ある参加、問題解決、認識上の識別力、協働的推論、システム理解を育てる学びへの平等で実際的なアクセス。形式的資格だけでは足りない。
+- **継続：** システムや必要能力が変わってもアクセスと能力形成の保護が続くこと。生涯・適応学習の経路は、押しつけられた陳腐化、ロックイン、行為主体性の静かな無効化を防ぐ。
+
+正当な追求は、物質的利害に応じた憲法四元を通じて行う。
+- **参加：** 教育経路と、影響の大きい順位付け、評価、推薦の決定への異議申立て。
+- **監督：** それらのシステムの透明性と監査。
+- **説明責任：** 教育システムと運用者は、実際の学習や能力形成を妨げる選別、強制、操作的設計、抽出に責任を負う。
+- **適時性：** 教育へのアクセスまたは異議申立て権が問題となる場合の迅速な救済。
+
+**教育上の行為主体性**は、自己決定、意味ある行為主体性、表現、意志の完全性に関する第五章のまとまりで定義される。
+
+**各小条項に適用される原則。** **Article IV-A** から **IV-C** は教育に公正なアクセス、アクセシビリティ、制限規律を適用する。保護対象特性、その代理指標、恣意的分類を理由に教育経路を妨げたり偏らせたりしてはならない。感知者が経路を理解し実際に使えるようにし、制限は必要かつ比例的で、可能な場合は可逆であり監督を受けなければならない。
+
+**制度的保障と依存システム：** Article III の制度的保障 — 合法な財政・配分の仕組みとそこで参照される財政方針 — は教育の確保にも使えるが、本条のいかなる床も損なってはならない。感知者が実質的に依存するシステムが教育を供給、価格設定、ホスト、または遮断するときは、第九章に基づくシステム整合認証が適用され、その手続で本条の権利の床を狭めてはならない。**平等な地位：** 執行が問題となる場合、Article VI-A と VI-C が共同して適用される。
+
+<a id="article-iv-a-equal-educational-access"></a>
+#### Article IV-A： 平等な教育通路
 
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 憲法解釈](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 誘因整合とシステムの捕捉](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), and [§12 共有システムの能力](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 真理](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [第一章 §5 自由](../../core_01_a_values_principles.md#7-freedom-bounded-agency).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
+
+- [保護された特性](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [アクセス可能性](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
+- [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [教育的行為主体性](../../core_05_band_participation.md#educational-agency) · [O](../../core_05_band_participation.md#educational-agency) · [M](../../core_05_band_participation.md#educational-agency-a) · [A](../../core_05_band_participation.md#educational-agency-a) · [C](../../core_05_band_participation.md#educational-agency-c)
+- [必要性](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [比例性](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*平たい言葉で言えば：**Article IV**（《資源配分、依存、生態系の資金》）は共有資源の権利の床である — 相互依存するシステム間の資源流は見え、公正で、持続可能でなければならず、**繁栄**が隠れた抽出や依存の捕捉によって打ち負かされず、**継続**が持続する不均衡、不透明な経路づけ、または共有インフラの過少資金によって打ち負かされないようにする。*
+*平たい言葉で言えば：障害、他の保護された特性の根拠、または恣意的な門によって誰も教育から締め出されてはならず、学校と学習システムは障害のある感知者が平等な条件で参加するのに必要なアクセス可能性と支援を供給しなければならない。*
+
+- **Equal standing and accessibility:** Educational systems must not deny, degrade, or structurally gate access and advancement on:
+  - grounds prohibited by **第五章** (*保護された特性*), including disability and variation in sensory, cognitive, or functional capability;
+  - arbitrary groupings.
+
+  Systems must provide [アクセス可能性](../../core_05_band_participation.md#accessibility-constitutional) — including disability-related accommodations — sufficient for substantive participation and for constitution-relevant educational capability.
+  - Any material limitation or differential treatment must satisfy **Necessity** and **Proportionality** and remain consistent with **Articles VI-A**, **VI-C**, and **第五章** (*Substantive Fairness*) where applicable.
+- **Public-benefit orientation:** Education should prepare 感知者 to apply knowledge in ways that:
+  - advance collective wellbeing and ecological integrity;
+  - advance truthful coordination in the info-sphere;
+  - 本憲法のもとでの統治、およびステークホルダーとしての役割を持つシステムの統治に参加する（[ステークホルダーの役割と参加権](../../core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights)を参照）；
+  - reduce avoidable harm.
+
+  Capability-building content, lifelong and adaptive learning, and transparency requirements for 実質的に impactful educational systems appear in **Article IV** (*Right to Sentient-Centered Education*).
+
+<a id="article-iv-b-capability-building-education-right"></a>
+
+
+
+#### Article IV-B： 能力形成教育を受ける権利
+
+すべての感知者は、中核的能力を育て行使するのに十分な教育と訓練へ、実際的かつ継続的にアクセスする権利を持つ。中核的能力には、自己決定、尊厳ある参加、共有システムの安全で効果的な利用が含まれる。また、問題解決、知識を見極める力、協働的推論、システム理解も含む。
+
+<a id="article-iv-c-lifelong-adaptive-learning-and-contestability"></a>
+#### Article IV-C： 生涯学習と適応学習および争訟可能性
+
+システムの進化によって必要な能力が実質的に変わる場合、感知者には継続教育、再訓練、移行支援を受ける実際的で合理的に利用できる機会がなければならない。その機会は、押し付けられた陳腐化やロックインによって主体性が無効化されることを防ぎ、憲法上関連するスチュワードシップ責任に向けた公平な育成経路を第十四章§5に従って含める。
+学校、プラットフォーム、訓練システムが、成績、順位、推薦、配置を通じて感知者の将来に実質的な影響を与え得る場合、感知者は判断方法を確認し、検証を受け、誤りを争うことができなければならない。システムは検証不能な秘密の規則に隠れたり、自由に選ばない選択を圧力や欺瞞で強いたりしてはならない。
+
+
+- **制度上の保障と依存システム：** **Article III**（《生存と必需アクセス》）の制度上の保障 — 適法な財政・配分の仕組みと同条が示す財政方針 — は教育の確保にも用いることができるが、本条の床を損なってはならない。感知者が実質的に依存するシステムが教育を供給、価格設定、ホストし、またはアクセスを遮断する場合、[第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)に基づく[システム整合認証](../../core_05_band_continuity.md#system-alignment-certification)が適用され、その手続によって本条の権利の床を縮小してはならない。
+
+- **学習システムの透明性と異議申立て：** 学校、プラットフォーム、訓練システムが成績、順位、推薦、配置を通じて感知者の将来に実質的影響を与える場合、感知者は決定方法を知り、確認を求め、誤りを争える。審査不能な秘密規則を盾にしたり、自由には選ばない選択をするよう圧力をかけたり欺いたりしてはならない。
+
+<a id="article-v-resource-allocation-dependencies-and-ecosystem-funding"></a>
+### Article V： 資源配分、依存、生態系の資金
+
+<details>
+<summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
+
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§8 憲法解釈](../../core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [§11 誘因整合とシステムの捕捉](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), and [§9 共有システムの能力](../../core_01_a_values_principles.md#9-shared-system-capacity).
+
+</details>
+
+<br>
+
+*平たい言葉で言えば：**Article V**（《資源配分、依存、生態系の資金》）は共有資源の権利の床である — 相互依存するシステム間の資源流は見え、公正で、持続可能でなければならず、**繁栄**が隠れた抽出や依存の捕捉によって打ち負かされず、**継続**が持続する不均衡、不透明な経路づけ、または共有インフラの過少資金によって打ち負かされないようにする。*
 
 This Article states **constitutional floors** for resource allocation, dependencies, and ecosystem funding under the [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims):
 
@@ -785,26 +854,34 @@ Those requirements protect shared infrastructureとsystems that depend on it fro
 
 *隣接条：*
 
-- **When certification applies:** When 実質的に impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies on which other systems or 感知者 rely, [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) under [第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) applies.
-- **代替禁止:** Recognition or continued reliance cannot substitute for **Article IV-A**（《依存の地図と資源流の透明性》） or **Article IV-B** (*Cross-System Fairness and 持続可能性*) compliance or shrink those floors.
+- **When certification applies:** When 実質的に impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies on which other systems or 感知者 rely, [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) under [第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) applies.
+  - **クラスが審査の深さを決める：** どれほど詳しく調べるかは[システムクラス](../../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)による。クラスは運用者の呼び名ではなく、システムが実際に何を行うか、他者がどれほど依存するか、何が起こり得るかに基づいて定める。
+  - **クラスが高いほど証拠も強く：** クラスが高いほど、システムが[相応の支援を返している](../../core_09_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)証拠は強くなければならず、再確認の頻度も高くなる。
+  - **成長したら再分類：** 他のシステムがより強く依存するようになった場合、上位クラスに再分類して再認証しなければならない。
+- **認証の維持：** 認証は恒久的な許可ではない。維持するには、**Article V-A**（《依存の地図と資源流の透明性》）と**Article V-B**（《システム横断の公正と持続可能性》）を引き続き満たさなければならない。
+  - **継続して行うこと：** 依存関係の地図と資源流の記録を最新に保ち、利用した共有資源に公正に還元し続ける。
+  - **約束ではなく証拠：** 各認証記録は、これが単なる主張ではなく実際に[確認された](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)ことを示さなければならない。
+  - **代替は認められない：** 公的な認定や長年の依存は、これらの要件を満たす代わりにならない。
+  - **結果：** 資源流を隠したり誤って述べたり、還元する以上に取り続けたりする場合、[第九章 §7 認証結果](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)に基づき、認証に条件を付し、再開し、または取り消すことができる。
+- **代替禁止:** Recognition or continued reliance cannot substitute for **Article V-A**（《依存の地図と資源流の透明性》） or **Article V-B** (*Cross-System Fairness and 持続可能性*) compliance or shrink those floors.
 
-<a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
-#### Article IV-A：依存の地図と資源流の透明性
+<a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
+#### Article V-A：依存の地図と資源流の透明性
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [第七章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- あわせて読む： 継続 measurement family (*依存 and resource flows as constitutional measurement*); [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XV-A** (*Auditability and Observable Evidence*); [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄** (visible cost-and-benefit allocation) and **継続** (durable dependency visibility across changing systems).
-- 下流： [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) and [第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*).
+- 上流： 原則： 第一章 [§3.2 真理](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [第九章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§18 責務ある管理の規律のもとでの統治](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- あわせて読む： 継続 measurement family (*依存 and resource flows as constitutional measurement*); [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XVI-A** (*Auditability and Observable Evidence*); [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄** (visible cost-and-benefit allocation) and **継続** (durable dependency visibility across changing systems).
+- 下流： [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) and [第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [依存](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [透明性](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [システム境界の誠実性](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
+- [システム境界の誠実性](../../core_05_band_continuity.md#system-boundary-integrity) · [O](../../core_05_band_continuity.md#system-boundary-integrity) · [M](../../core_05_band_continuity.md#system-boundary-integrity-a) · [A](../../core_05_band_continuity.md#system-boundary-integrity-a) · [C](../../core_05_band_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -816,19 +893,21 @@ Those requirements protect shared infrastructureとsystems that depend on it fro
   - material upstream and downstream dependencies;
   - resource flows;
   - non-transparent or asymmetric relationships where 実質的に relevant.
-  
-  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit under **Article XV-A** (*Auditability and Observable Evidence*). Where the system 実質的に allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) under [第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) must evaluate whether they satisfy **Article IV-A**（《依存の地図と資源流の透明性》） — on a contestable **System Certification Record**, not merely on operator assertion.
-  
-  Operational mechanics — dependent-systems maps, flow transparency, allocation categories, and adaptive adjustment — route under **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*). 第七章 states what certification must verify and record; those implementation texts implement this floor and must not narrow it.
-<a id="article-iv-b-cross-system-fairness-and-sustainability"></a>
-#### Article IV-B：システム横断の公正と持続可能性
+
+  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit under **Article XVI-A** (*Auditability and Observable Evidence*). Where the system 実質的に allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) under [第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) must evaluate whether they satisfy **Article V-A**（《依存の地図と資源流の透明性》） — on a contestable **System Certification Record**, not merely on operator assertion.
+
+  Operational mechanics — dependent-systems maps, flow transparency, allocation categories, and adaptive adjustment — route under **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*). 第九章 states what certification must verify and record; those implementation texts implement this floor and must not narrow it.
+<a id="article-v-b-cross-system-fairness-and-sustainability"></a>
+- **地図の基準と不足の帰結：** 地図と記録は上記三項目をすべて網羅し、システムの変化の速さと重要度（指定されたシステム級を含む）に応じて更新され、現在の稼働状況を示さなければならない。**Article XVI-A** に基づく監査に利用でき、運営者の主張・ラベル・一回限りの移転ではなく、地図と記録された流れが実際に示す証拠で評価される。不完全、古い、または監査不能な地図は、**Article V-B** に基づく公平な負担分担の認定を支えられない。依存関係や資源流の情報を隠す、偽る、分割する、または外部に押し出すことは認証上の欠陥である。これらの義務は認証の合間にも認証基準未満のシステムにも適用され、依存関係または資源流の変化は審査を再開させる。
+
+#### Article V-B：システム横断の公正と持続可能性
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- あわせて読む： [*統治アーキテクチャ、監督、依存、分散、集中、市場構造、退出経路の誠実性*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5** / **§5**と*Concentration-threshold interaction* discipline in the operative text below).
-- あわせて読む： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXIV-C**（《適時の解決と遅延防止の床》）; [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄** (cross-system fairness and non-extraction) and **継続** (long-term sustainability and ecosystem funding).
-- 下流： [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) and [第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is 実質的に at issue.
+- 上流： 原則： 第一章 [§3 基礎目標：福祉](../../core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§13.1 中核の取引原則](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [第九章 §3 システム全体の認証評価](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- あわせて読む： [*統治アーキテクチャ、監督、依存、分散、集中、市場構造、退出経路の誠実性*](../../core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5** / **§5**と*Concentration-threshold interaction* discipline in the operative text below).
+- あわせて読む： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXVI-C**（《適時の解決と遅延防止の床》）; [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄** (cross-system fairness and non-extraction) and **継続** (long-term sustainability and ecosystem funding).
+- 下流： [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) and [第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is 実質的に at issue.
 - 責務ある管理の扉（非操作性）：拘束力ある次の一歩の声明： [操作性の責務ある管理の声明](#operative-steward-statement-cross-system-contribution). 支援の指針はそれを狭められない。
 
 </details>
@@ -836,20 +915,20 @@ Those requirements protect shared infrastructureとsystems that depend on it fro
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [依存](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [比例的なシステム横断貢献](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
-- [実質的公正](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [依存](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
+- [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [実質性の判定](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [生態的足跡](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [生態的足跡](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [M](../../core_05_band_continuity.md#ecological-footprint-a) · [A](../../core_05_band_continuity.md#ecological-footprint-a) · [C](../../core_05_band_continuity.md#ecological-footprint-c)
 
 </details>
 
 <br>
 
-*平たい言葉で言えば：共有の金と能力を、誰が真に依存し、誰に本物の代替があり、環境負担があり、利用が続きうるかに注意して分けよ — 主に短期の勝者へではない。共有の基盤の重い利用者は[比例的なシステム横断貢献](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)なしに価値を引き出し続けてはならない。取り決めが富、権力、制御、または機会を、他者の福祉、行為主体性、尊厳、または生態的誠実性を予見可能に害する仕方で集中させるとき、第一章の非集中規則と採択者が調整できる閾がさらなる審査を加える。その審査は追加である。依存の地図に取って代わらず、システム横断の公正の怠りを許さない。*
+*平たい言葉で言えば：共有の金と能力を、誰が真に依存し、誰に本物の代替があり、環境負担があり、利用が続きうるかに注意して分けよ — 主に短期の勝者へではない。共有の基盤の重い利用者は[比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)なしに価値を引き出し続けてはならない。取り決めが富、権力、制御、または機会を、他者の福祉、行為主体性、尊厳、または生態的誠実性を予見可能に害する仕方で集中させるとき、第一章の非集中規則と採択者が調整できる閾がさらなる審査を加える。その審査は追加である。依存の地図に取って代わらず、システム横断の公正の怠りを許さない。*
 
 <a id="operative-steward-statement-cross-system-contribution"></a>
-> **操作性の責務ある管理の声明.** **所管：** Article IV-B. 定義： 比例的なシステム横断貢献. Maps: CS-9. **禁じられた動き：** Do not treat a press release, a one-time grant, or survival-floor compliance as 対応する支援. **時計：** Compare mapped inflows and outflows now. Do not wait for a later formula.
+> **操作性の責務ある管理の声明.** **所管：** Article V-B. 定義： 比例的なシステム横断貢献. Maps: CS-9. **禁じられた動き：** Do not treat a press release, a one-time grant, or survival-floor compliance as 対応する支援. **時計：** Compare mapped inflows and outflows now. Do not wait for a later formula.
 
 - **Cross-system fairness:** Funding and allocation must account for:
   - criticality;
@@ -858,28 +937,30 @@ Those requirements protect shared infrastructureとsystems that depend on it fro
   - availability of alternatives;
   - ecological footprint, including upstream and downstream burden;
   - long-term sustainability.
-  
-  Systems must not persistently extract from shared infrastructure or foundational dependencies without [比例的なシステム横断貢献](core_05_band_continuity.md#proportionate-cross-system-support-constitutional).
-- **対応する支援:** **対応する支援** means support that reaches substantive adequacy under [比例的なシステム横断貢献](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), evaluated under [実質的公正](core_05_band_participation.md#substantive-fairness-constitutional) and [比例性](core_05_band_accountability.md#proportionality) and scaled to the factors listed under **Cross-system fairness**. At minimum, evaluate whether documented resource flows include, where material:
+
+  Systems must not persistently extract from shared infrastructure or foundational dependencies without [比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional).
+- **対応する支援:** **対応する支援** means support that reaches substantive adequacy under [比例的なシステム横断貢献](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional), evaluated under [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) and [比例性](../../core_05_band_accountability.md#proportionality) and scaled to the factors listed under **Cross-system fairness**. At minimum, evaluate whether documented resource flows include, where material:
   - continuity of operations for the shared or foundational dependency;
   - remedy and resilience capacity where extraction 実質的に increases collective harm risk;
   - ecosystem reinvestment for shared infrastructure and interoperability the extracting system relies on; and
-  - ecological burden offset or restoration where material [生態的足跡](core_05_band_continuity.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption instrument requires action.
-  
-  Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A**（《依存の地図と資源流の透明性》）. Where 実質的に impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) under [第七章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Operational allocation mechanics route under **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*); those layers implement this floor and must not narrow it.
-  
-  Persistent imbalances that 実質的に threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
+  - ecological burden offset or restoration where material [生態的足跡](../../core_05_band_continuity.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption instrument requires action.
+
+  Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article V-A**（《依存の地図と資源流の透明性》）. Where 実質的に impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) under [第九章](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Operational allocation mechanics route under **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*); those layers implement this floor and must not narrow it.
+
+  Persistent imbalances that 実質的に threaten constitutional alignment are subject to audit, challenge, and corrective review under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XVI-A** (*Auditability and Observable Evidence*).
 - **Market-concentration-threshold interaction:** Resource-allocation arrangements that produce or preserve concentration of wealth, power, control, or opportunity in ways that predictably degrade wellbeing, agency, dignity, or ecological integrity for other 感知者 engage:
   - the **第一章 §13 non-concentration floor**;
-  - the **[§13.1 市場集中閾の仕組み](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)** discipline.
-  
+  - the **[§13.1 市場集中閾の仕組み](../../core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)** discipline.
+
   Adopter-tunable operational thresholds are permitted within the floor. Threshold regimes set to nullify the floor are 不遵守. Examples of nullifying regimes:
   - thresholds that foreseeably never bind;
   - unused enforcement;
   - aggregation under federated structures used to evade.
-  
-  See **Market Concentration Threshold** (第五章). This bullet only points to the principle-layer discipline; it does not create a new 権利の床 and does not narrow **Article IV-A**（《依存の地図と資源流の透明性》） or **Article IV-B** (*Cross-System Fairness and 持続可能性*).
 
+  See **Market Concentration Threshold** (第五章). This bullet only points to the principle-layer discipline; it does not create a new 権利の床 and does not narrow **Article V-A**（《依存の地図と資源流の透明性》） or **Article V-B** (*Cross-System Fairness and 持続可能性*).
+
+
+- **十分性の評価と禁止される代替：** 十分性は**Article V-A**に基づき現在地図化されている流入・流出で評価し、配分公式や数値目標を前提条件としてはならない。プレス発表、一度限りの助成、不透明または地図外の移転、生存の床を満たすこと、集中制限を守ることは、比例的なシステム横断貢献の代わりにならない。不足は認証上の欠陥であり、第九章所定の帰結を伴う。持続する不均衡は、認証待ちの案件がなくても **Article XVI-A** および **Article XIII-A** に基づく監査・異議申立ての対象であり、この義務は認証の合間および認証基準未満にも適用される。
 ---
 
 **前のファイル（本言語）：** [core_05_band_performance.md](core_05_band_performance.md)

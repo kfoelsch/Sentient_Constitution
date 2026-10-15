@@ -98,36 +98,6 @@
 ---
 
 <a id="continuity-measurement-family"></a>
-
-### निरंतरता (Preamble measurement family)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [CS-9 — Resource allocation and funding stewardship](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
-
-</details>
-
-<br>
-
-*सरल शब्दों में: ये प्रश्न देखते हैं कि क्या संवेदनशील प्राणी और उन पर निर्भर जीवित प्रणालियाँ लंबे समय तक चल सकती हैं—पारिस्थितिक रूप से, भरोसेमंद ढंग से और विफलताओं के बीच भी। पाँचवें अध्याय में निरंतरता मापन परिवार का स्थान यह है; प्रस्तावना का §2 श्रेणी का सरल प्रश्न रखता है और परिवार तालिका व परिभाषा-संदर्भ यहाँ हैं।*
-
-*भौतिकता* ([Materiality](core_05_band_oversight.md#materiality)) एकीकृत है, अलग मापन श्रेणी नहीं; [material stake](core_00_preamble.md#material-stake) के अनुसार यह परिवार कितनी मजबूती से लागू होता है, यह तय करती है।
-
-| उपपरिवार | सरल प्रश्न | मुख्य संवैधानिक उपयोग |
-|---|---|---|
-| पारिस्थितिक पदचिह्न और पर्यावरणीय पूर्वशर्तें | कौन-सा पर्यावरणीय बोझ पैदा या स्थानांतरित किया जा रहा है? | [पारिस्थितिक पदचिह्न](../../core_05_band_continuity.md#ecological-footprint), [पर्यावरणीय पूर्वशर्तें](../../core_05_band_continuity.md#environmental-preconditions); **अनुच्छेद I-A** और **I-B** के तहत प्रकटीकरण |
-| लचीलापन, प्रतिवर्तनीयता और प्रणालीगत जोखिम | क्या विफलताओं को सीमित और उलटा जा सकता है, और उनके बढ़ने की सूचना ईमानदारी से दी जा सकती है? | [प्रतिवर्तनीयता](../../core_05_band_continuity.md#reversibility), [श्रृंखलाबद्ध विफलता](../../core_05_band_continuity.md#cascading-failure), [अस्तित्वगत जोखिम](../../core_05_band_continuity.md#existential-risk), [स्व-उपचार](../../core_05_band_continuity.md#self-healing); [लचीलापन, सुरक्षा, प्रतिवर्तनीयता, स्व-उपचार, श्रृंखलाबद्ध विफलता, अस्तित्वगत जोखिम, पर्यावरणीय पूर्वशर्तें और कल्याण](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
-| निर्भरता और संसाधन प्रवाह | क्या साझा निर्भरताएँ दिखाई देती हैं और कायम रखी जाती हैं? | [निर्भरता](../../core_05_band_continuity.md#dependency); **अनुच्छेद V-A** (*निर्भरता मानचित्रण और संसाधन-प्रवाह पारदर्शिता*) |
-| प्रणालियों के बीच सहयोग | क्या दर्ज किया गया प्रतिफल साझा अवसंरचना और पारिस्थितिक मरम्मत को बनाए रखता है? | [प्रणाली-पार निष्कर्षण](../../core_05_band_continuity.md#cross-system-extraction), [आनुपातिक प्रणाली-पार सहयोग](../../core_05_band_continuity.md#proportionate-cross-system-support); **अनुच्छेद V-B** (*प्रणालियों के बीच निष्पक्षता और स्थिरता*) |
-
-विस्तृत मापन नियम प्रत्येक लिंक की गई परिभाषा में हैं।
-
-**पिछली फ़ाइल:** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
-
-**अगली फ़ाइल:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
 <a id="measuring-continuity-preamble-measurement-family"></a>
 
 ### सातत्य मापना (प्रस्तावना मापन परिवार)

@@ -628,6 +628,53 @@ flowchart TB
 
 [अध्याय दहा §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*प्रतिकाराचे कर्तव्य*) हे कर्तव्य स्थितीवरील परिणामांना लागू करते, आणि [CS-4 §10 तपासता येणारी, श्रेय-निश्चित कृती](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*तपासता येणारी, श्रेय-निश्चित कृती*) नकाराच्या किमान नोंदीचे निर्धारण करते.
 
+
+<a id="176-portable-competence"></a>
+#### 17.6 हस्तांतरणक्षम क्षमता
+<details>
+<summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
+
+- वरचे आधार: [§17 परिणामकारी कारभारीपणा](#17-consequential-stewardship-the-steward-role), [§16.2 संस्थात्मक विकास](#162-institutional-development), [§17.3 कारभाऱ्याची नव्हे, भूमिकेची नोंद](#173-logging-the-role-not-the-steward).
+- एकत्र वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — देखरेख, वेळेचे भान आणि सहभाग; प्रमाण [भौतिक हितसंबंध](core_00_preamble.md#material-stake) अनुसार.
+- मर्यादा: [§18.3 कर्तव्य-विभाजन](#183-segregation-of-duties), [प्रकरण आठ §2](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor), [प्रकरण अकरा §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances), [§17.5](#175-duty-to-resist), [13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- अंमलबजावणी: [प्रकरण चौदा §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor), [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+<details>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
+
+- [कारभारीपणा](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [धोरणात्मक कारभारीपणाचे कर्तव्य](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [संस्थात्मक विकास](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [वितरित समज](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [भौतिकता](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
+- [अवलंबित्व](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [संरक्षित अहवाल (व्हिसलब्लोइंग)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+
+</details>
+<br>
+
+*सोप्या शब्दांत: परिणामकारक काम एका संज्ञ च्या ज्ञानावर अवलंबून नसावे. प्रणाली जितकी महत्त्वाची आणि तिच्यावरील अवलंबन जितके जास्त, तितके ती चालवणाऱ्यांना काम हस्तांतरित करता, समजावता आणि एकमेकांचे काम तपासता आले पाहिजे. शेजारील कार्यांच्या जोडांवर अडचण ओळखण्याइतकी परस्परसमजही हवी. ही व्याप्ती व समजुतीची किमान मर्यादा आहे; प्रत्येकाने प्रत्येक भूमिका आलटून-पालटून करावी अशी मागणी नाही.*
+
+परिणामकारक भूमिकेची क्षमता एका कारभाऱ्याची नसून त्या भूमिकेची आणि तिच्यावर अवलंबून समुदायांची असते. [Materiality](core_05_band_oversight.md#materiality-determination) आणि [Dependency](core_05_band_continuity.md#dependency) प्रमाणे तिचे प्रमाण ठरते.
+
+- **व्याप्ती:** पात्र असलेले एकाहून अधिक संज्ञ ती भूमिका करू आणि समजावू शकतात. ती चालवणे, दुरुस्त करणे किंवा ती कशी कार्य करते हे सांगणे केवळ एका कारभाऱ्यालाच शक्य नसावे. पर्यायी व्यक्तीला मूळ कारभाऱ्याप्रमाणेच कारणामुळे अपयश येणार नसेल तरच ती पर्याय मानली जाते; समान त्रुटी असलेल्या AI प्रणालीची दुसरी प्रत पर्याय नाही.
+- **हस्तांतरण कृतीत दाखवा:** कागदपत्रे एकटी क्षमता हस्तांतरित झाल्याचे दाखवत नाहीत. उत्तराधिकार आणि कामाची देवाणघेवाण सरावातून तपासावी. सरावात दिसलेली उणीव नोंदवून [§19.4](#194-misalignment-correction-and-capture-response) प्रमाणे दुरुस्त करावी.
+- **कार्यांमधील परस्परसमज:** जवळच्या कार्यांचे कारभारी एकमेकांचे काम इतके समजून घेतात की जोडांवर तयार होणारी अडचण—उदा. चुकलेले हस्तांतरण किंवा एका बाजूने चांगले दिसणारे पण दुसरीकडे हानी करणारे मोजमाप—ओळखता येते. हे समज आहे, अधिकार नाही. ते [स्तंभ 2](#16-pillar-2-proactive-stewardship), [§19.3](#193-misalignment-detection) मधील बहुविध शोध यांना मदत करते आणि [§19.2](#192-convenient-proxies-and-proxy-divergence) मधील संकुचित पर्यायांपासून सावध करते.
+- **फेरबदल हे साधन:** व्याप्ती, शिक्षण किंवा [ताबा-प्रतिबंध](core_05_band_continuity.md#anti-capture) यांना मदत होत असल्यास फेरबदल, निरीक्षणाखाली काम, जोडीने काम किंवा तात्पुरता पर्याय वापरता येतो. सुरक्षितता व संमती मान्य करतील तेव्हाच आणि क्षमता वाढण्यापेक्षा जलद नव्हे. भूमिका इतकी पातळ विभागू नये की कोणालाच प्रावीण्य उरणार नाही.
+
+**मर्यादा:**
+- **आसने वेगळी ठेवा:** दुसऱ्या आसनाचे काम शिकणे म्हणजे ते आसन धारण करणे नव्हे. स्वतः केलेल्या कामाची तपासणी स्वतःकडे येईल अशी फेरनियुक्ती नसावी; आधीचा सहभाग [प्रकरण आठ](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) आणि [§18.3](#183-segregation-of-duties) अंतर्गत हितसंबंधांचा संघर्ष आहे.
+- **परवानगी आधी:** बंधनकारक किंवा सुरक्षिततेशी संबंधित भूमिका घेण्याआधी [प्रकरण अकरा §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) ची क्षमता-कसोटी पूर्ण हवी; तोपर्यंत देखरेखीखाली शिकण्यावर भर असलेली भूमिका असेल.
+- **प्रतिशोध नाही:** [§17.5](#175-duty-to-resist) नुसार विरोध केलेल्या किंवा [संरक्षित अहवाल](core_05_band_accountability.md#protected-reporting-whistleblowing) दिलेल्या कारभाऱ्याला बाजूला करण्यासाठी बदली, फेरबदल किंवा पुनःप्रशिक्षण वापरू नये.
+- **समज म्हणजे प्रवेश नव्हे:** [13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) मधील गोपनीयता, सुरक्षा व किमान-अधिकार मर्यादा आणि [§17.3](#173-logging-the-role-not-the-steward) मधील भूमिका-नोंद कायम लागू.
+- **विशेषीकरण आणि भार:** [§16 व्याप्ती](#16-scope-priority-and-limits) कायम आहे: सर्वांना प्रत्येक भूमिकेत फिरवण्याची किंवा योग्य विशेषीकरण मोडण्याची सक्ती नाही. प्रयत्न [टाळता येण्याजोग्या भारा](core_05_band_continuity.md#avoidable-burden) प्रमाणे ठेवावेत. छोटा वा अनौपचारिक गट काही विश्वासू संज्ञs परस्पर पर्याय बनून, संस्थात्मक यंत्रणेविना ही अट पूर्ण करू शकतो.
+- **प्रत्येक कारभारी:** [§17.1](#171-shared-stewardship-standard) नुसार मानवी आणि AI कारभाऱ्यांवर समान कर्तव्य लागू.
+
+किमान कर्मचारीसंख्या, राखीव क्षमता आणि उत्तराधिकाराची यंत्रणा [प्रकरण चौदा §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor) आणि [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness) मध्ये येतात. हा उपविभाग त्या व्यवस्थेचा मूलतत्त्व सांगतो.
+
 <br>
 
 ---

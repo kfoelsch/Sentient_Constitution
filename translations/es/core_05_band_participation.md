@@ -403,7 +403,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 - menoscabar la [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint) o la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint); o
 - concentrar poder contrario al [Capítulo Uno §13](core_01_c_stewardship_capacity_principles.md#13-market-structure).
 
-La mecánica operativa — registro, adopción de [Carta](core_05_band_continuity.md#charter) y limitación del ámbito de la carta, trato fiscal, marcos de responsabilidad, regulación de valores y vías de disolución — se enruta a [corpus_institutions.md](../../corpus_institutions.md) bajo la disciplina de incorporación del **Capítulo Dieciséis** y no debe estrechar estos pisos.
+La mecánica operativa — registro, adopción de [Carta](core_05_band_continuity.md#charter) y limitación del ámbito de la carta, trato fiscal, marcos de responsabilidad, regulación de valores y vías de disolución — se enruta a [corpus_institutions.md](../../corpus_institutions.md) bajo la disciplina de incorporación del **Capítulo Dieciséis** y no debe estrechar estos pisos. Una autorización para un acto específico de alto riesgo conforme al [Artículo XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) es distinta: se aplica a la realización del acto, no a la formación ni a la dirección de un organismo.
 
 *Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Participación. Encuentre las medidas concretas en las definiciones miembro de abajo.
 

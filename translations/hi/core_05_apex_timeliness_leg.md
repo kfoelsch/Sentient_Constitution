@@ -91,35 +91,6 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### समयबद्धता
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*सरल शब्दों में: ये प्रश्न देखते हैं कि समस्याएँ वास्तव में समय पर आगे बढ़ती हैं या नहीं—सिर्फ यह नहीं कि डैशबोर्ड काम की मात्रा दिखाता है। यह अध्याय पाँच में समयबद्धता मापन परिवार का स्थान है; प्रस्तावना का §2 (मापों का अवलोकन) श्रेणी का सरल प्रश्न रखता है, जबकि परिवार की तालिका और परिभाषाओं के संदर्भ यहाँ हैं।*
-
-*भौतिकता ([Materiality](core_05_band_oversight.md#materiality)) एकीकृत है, अलग मापन श्रेणी नहीं; [material stake](core_00_preamble.md#material-stake) के अनुसार यह परिवार के अनुप्रयोग की तीव्रता तय करती है।*
-
-| मापन परिवार | सरल प्रश्न | मुख्य संवैधानिक उपयोग |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | क्या विवादों का समाधान तब होता है जब उपचार अब भी मायने रखता है? | देरी को अधिकारों को खोखला करने से रोकता है। |
-| देरी-विरोधी और समाधान-पथ अनुशासन | क्या प्रोत्साहन और संरचनाएँ जानबूझकर लंबित मामलों, कब्ज़े और खोखली समय-सीमाओं से बचती हैं? | देरी की व्यवस्थाओं और [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways) का पता लगाता है। |
-
-ये माप पूछते हैं कि क्या प्रक्रिया की घड़ियाँ, समाधान-पथ और सुधार की गति [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) के **समयबद्धता** पक्ष को व्यवहार में वास्तविक रखते हैं—सिर्फ कागज़ पर नहीं।
-
-**पिछली फ़ाइल:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**अगली फ़ाइल:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### समयबद्धता मापना

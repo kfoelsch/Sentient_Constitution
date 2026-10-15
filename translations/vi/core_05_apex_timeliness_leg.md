@@ -91,35 +91,6 @@ Các **thuật ngữ độc lập và bán độc lập** triển khai kịp th�
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### Đo lường tính kịp thời
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*Nói đơn giản: các câu hỏi này xem vấn đề có thực sự được xử lý đúng lúc hay không, chứ không chỉ xem bảng điều khiển có hiển thị thông lượng. Đây là nơi đặt nhóm đo lường Tính kịp thời của Chương Năm; §2 Lời mở đầu (Tổng quan về các phép đo) giữ câu hỏi giản dị của nhóm, còn bảng nhóm và chỉ dẫn đến định nghĩa ở đây.*
-
-*Tính trọng yếu ([Materiality](core_05_band_oversight.md#materiality)) có tính tích hợp, không phải nhóm đo lường riêng; nó điều chỉnh mức áp dụng của nhóm theo [material stake](core_00_preamble.md#material-stake).*
-
-| Nhóm đo lường | Câu hỏi giản dị | Công dụng hiến định chính |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | Tranh chấp có được giải quyết khi biện pháp khắc phục vẫn còn ý nghĩa không? | Ngăn sự chậm trễ làm rỗng quyền. |
-| Kỷ luật chống trì hoãn và đối với lộ trình giải quyết | Động lực và cơ cấu có tránh việc cố ý tồn đọng, thâu tóm và đặt thời hạn hình thức không? | Phát hiện cơ chế trì hoãn và [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways). |
-
-Các phép đo này xem liệu thời hạn thủ tục, lộ trình giải quyết và tốc độ khắc phục có giữ cho trụ cột **tính kịp thời** của [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) là thực chất trong thực tế, chứ không chỉ trên giấy hay không.
-
-**Tệp trước:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**Tệp tiếp theo:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### Đo kịp thời

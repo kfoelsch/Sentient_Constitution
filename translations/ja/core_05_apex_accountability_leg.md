@@ -74,48 +74,6 @@
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### 説明責任の測定
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*平易に言えば、報酬、市場、説明を求める仕組みが、説明責任を紙面だけでなく実際にも確かなものにしているかを問います。*
-
-*ここは第5章の説明責任測定ファミリーの掲載箇所です。序文§2（測定の概要）は概要表にカテゴリの平易な問いを残し、ファミリー表、憲法上の用途、定義への案内をここに置きます。*
-
-*重要性（[Materiality](core_05_band_oversight.md#materiality)）は統合的な要素であり、独立した測定カテゴリではありません。[material stake](core_00_preamble.md#material-stake)に応じて、このファミリーの適用の強さを調整します。*
-
-| 測定ファミリー | 平易な問い | 主な憲法上の用途 |
-|---|---|---|
-| インセンティブの整合性と代理指標の完全性 | 報酬や指標は実際の憲法上の成果を反映しているか。 | 逆インセンティブ、捕捉、[Proxy Divergence](core_05_band_oversight.md#proxy-divergence)を検出し、[Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions)を測定可能な形にします。 |
-| 市場構造と競争可能性 | 参入、退出、交渉、代替手段は実質的に確保されているか。 | 能力の主張が開かれた市場に依存する場合、集中と支配を防ぐ規律を適用します。 |
-
-報酬構造、市場支配力、説明を求める仕組みが、[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)の**説明責任**の柱を紙面だけでなく実際にも確かなものにしているかを測ります。
-
-実務上の測定段階は第5章の定義箇所にあります。
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**前のファイル：** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**次のファイル：** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### 説明責任を測る

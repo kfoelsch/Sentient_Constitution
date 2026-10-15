@@ -14,18 +14,18 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Guía para quien lee (no operativa): lugar de la Parte D en el Capítulo Seis</span></strong></summary>
 
-> La **Parte A** en [core_06_rights_part_a.md](core_06_rights_part_a.md) contiene el conjunto de restricciones predeterminadas para todo el capítulo, el orden de lectura que prioriza el planeta y los centros interpretativos. La **Parte D** presenta los **Artículos XIX–XXIV** en ese orden.
+> La **Parte A** en [core_06_rights_part_a.md](core_06_rights_part_a.md) contiene el conjunto de restricciones predeterminadas para todo el capítulo, el orden de lectura que prioriza el planeta y los centros interpretativos. La **Parte D** presenta los **Artículos XIX–XXV** en ese orden.
 
 </details>
 
 <br>
 
 <a id="part-d-standing-justice-interoperability-comprehensibility-root-cause-review-and-constitutional-interpretation"></a>
-### Parte D: Legitimación, justicia, interoperabilidad, comprensibilidad, revisión de la causa fundamental e interpretación constitucional
+### Parte D: Legitimación, justicia, interoperabilidad, movimiento y refugio, comprensibilidad, revisión de la causa fundamental e interpretación constitucional
 
 <br>
 
-*En términos sencillos: la Parte D cubre la situación y el estado de participación, la justicia después de una violación verificada, la interoperabilidad y salida, la comprensibilidad, el análisis de la causa raíz y la interpretación y revisión constitucional: Artículos XIX al XXIV.*
+*En términos sencillos: la Parte D cubre la situación y el estado de participación, la justicia después de una violación verificada, la interoperabilidad y salida, la comprensibilidad, el análisis de la causa raíz y la interpretación y revisión constitucional: Artículos XIX al XXV.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Guía del lector (no operativa): mapa del artículo de la Parte D</span></strong></summary>
@@ -40,42 +40,48 @@
 
 ```mermaid
 flowchart TB
-    D0["Parte D<br/><br/>Legitimación, justicia, interoperabilidad,<br/>Comprensibilidad, revisión de la causa raíz e interpretación constitucional."]
+    D0["Part D<br/><br/>Legitimación, justicia, interoperabilidad, movimiento y refugio, comprensibilidad, causas raíz e interpretación constitucional"]
     subgraph Dgrid[" "]
         direction TB
-        subgraph Drow1["Artículos XIX y XX"]
-            D1["Artículo XIX · Legitimación y estatus de participación<br/><br/>• Distinciones de legitimación<br/>• Límites de impugnabilidad y restricción<br/>• Elegibilidad, responsabilidad y auditoría de la vía nombrada<br/>• Movimiento, refugio y no apatridia"]
-            D2["Artículo XX · Justicia después de una violación verificada<br/><br/>• Objetivo y alcance de la justicia<br/>• Pisos de restricción"]
+        subgraph Drow1["Artículos XIX–XX"]
+            D1["Artículo XIX · Legitimación y estatus de participación<br/><br/>• Distinciones; impugnación y límites; elegibilidad, infracciones y bloqueos; votación y bloqueos especiales"]
+            D2["Artículo XX · Justicia después de una violación verificada<br/><br/>• Objetivo y alcance de la justicia; pisos de restricción"]
         end
-        subgraph Drow2["Artículos XXI a XXII"]
-            D3["Artículo XXI · Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida<br/><br/>• Portabilidad<br/>• Interoperabilidad recíproca<br/>• Antibloqueo<br/>• Movimiento, migración, refugio y no apatridia"]
-            D4["Artículo XXII · Responsabilidad de la Comprensibilidad y la Complejidad<br/><br/>• Comprensibilidad proporcional<br/>• Auditoría de complejidad y modularidad."]
+        subgraph Drow2["Artículos XXI–XXII"]
+            D3["Artículo XXI · Interoperabilidad, portabilidad e integridad de salida<br/><br/>• Portabilidad; interoperabilidad recíproca; antibloqueo; formatos y estándares abiertos"]
+            D4["Artículo XXII · Movimiento, refugio y no apatridia<br/><br/>• Movimiento; refugio; no apatridia; límites, custodia y emergencias"]
         end
-        subgraph Drow3["Artículos XXIII a XXIV"]
-            D5["Artículo XXIII · Análisis de Causa Raíz y Respuesta Adaptativa<br/><br/>• Rigor diagnóstico y atribución causal.<br/>• Auditabilidad, desafío y reversibilidad"]
-            D6["Artículo XXIV · Interpretación, revisión y salvaguardias constitucionales contra la captura<br/><br/>• Mandato interpretativo acotado<br/>• Controles de composición, rotación y conflictos.<br/>• Motivos públicos, impugnación y revisión externa.<br/>• Remoción y no atrincheramiento"]
+        subgraph Drow3["Artículos XXIII–XXIV"]
+            D5["Artículo XXIII · Comprensibilidad y gestión responsable de la complejidad<br/><br/>• Comprensibilidad proporcional; auditoría de complejidad y modularidad"]
+            D6["Artículo XXIV · Análisis de causa raíz y respuesta adaptativa<br/><br/>• Rigor diagnóstico; atribución causal; auditoría, impugnación y reversibilidad"]
+        end
+        subgraph Drow4["Artículo XXV"]
+            D7["Artículo XXV · Interpretación, revisión y salvaguardias constitucionales contra la captura<br/><br/>• Mandato acotado; independencia y revisión externa; remoción y no atrincheramiento"]
         end
     end
-    %%Los enlaces invisibles fuerzan una cuadrícula de dos anchos: cada enlace coloca su objetivo un nivel más abajo.
+    %% Invisible links place the cards in the source reading order.
     D0 ~~~ D1 & D2
     D1 ~~~ D3
     D2 ~~~ D4
     D3 ~~~ D5
     D4 ~~~ D6
+    D5 & D6 ~~~ D7
     style Dgrid fill:none,stroke:none
     style Drow1 fill:none,stroke:none
     style Drow2 fill:none,stroke:none
     style Drow3 fill:none,stroke:none
+    style Drow4 fill:none,stroke:none
     style D0 fill:none,stroke:#2563eb,color:#ffffff
     style D1 fill:none,stroke:#0f766e,color:#ffffff
     style D2 fill:none,stroke:#0f766e,color:#ffffff
     style D3 fill:none,stroke:#0f766e,color:#ffffff
-    style D4 fill:none,stroke:#2563eb,color:#ffffff
-    style D5 fill:none,stroke:#ea580c,color:#ffffff
+    style D4 fill:none,stroke:#0f766e,color:#ffffff
+    style D5 fill:none,stroke:#2563eb,color:#ffffff
     style D6 fill:none,stroke:#ea580c,color:#ffffff
+    style D7 fill:none,stroke:#ea580c,color:#ffffff
 ```
 
-**Artículos XIX a XXIV** A continuación se indican estos pisos en su totalidad. La Parte D incluye los pisos de legitimación, justicia después de la violación, interoperabilidad, comprensibilidad, causa raíz y revisión interpretativa, incluidos **Artículo XXIV** (*Interpretación constitucional, revisión y salvaguardias anti-captura*) en el diseño de fuente actual.
+**Artículos XIX a XXV** A continuación se indican estos pisos en su totalidad. La Parte D incluye los pisos de legitimación, justicia después de la violación, interoperabilidad, comprensibilidad, causa raíz y revisión interpretativa, incluidos **Artículo XXV** (*Interpretación constitucional, revisión y salvaguardias anti-captura*) en el diseño de fuente actual.
 
 <a id="article-xix-standing-reputation-and-participation-status"></a>
 <a id="article-xix-standing-and-participation-status"></a>
@@ -103,7 +109,7 @@ flowchart TB
 
 <br>
 
-*En términos sencillos: **Artículo XIX** (*Legitimación y estatus de participación*) es el piso de derechos del estado de participación: rige quién califica para qué roles, cómo se hacen y cuestionan esas decisiones y qué sucede cuando la posición se reduce o se suspende. **legitimación del participante** es la elegibilidad de roles a partir de registros verificados y reglas justas (no la popularidad, una marca o un puntaje social) y está separada de la dignidad, los mínimos del Piso de Derechos y de ser una parte interesada porque un sistema realmente te afecta. Si se reduce o suspende la posición, se deben obtener razones claras, una forma real de contraatacar y límites que se ajusten al riesgo real, y la posición por sí sola nunca debe cortar los elementos esenciales de supervivencia o los caminos para desafiar el daño y obtener reparación. La buena reputación debe reflejar lo que se puede comprobar hoy, no la vieja reputación. El movimiento, refugio, portabilidad y salida se rigen por **Artículo XXI** (*Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida*), no sólo mediante etiquetas permanentes.*
+*En términos sencillos: **Artículo XIX** (*Legitimación y estatus de participación*) es el piso de derechos del estado de participación: rige quién califica para qué roles, cómo se hacen y cuestionan esas decisiones y qué sucede cuando la posición se reduce o se suspende. **legitimación del participante** es la elegibilidad de roles a partir de registros verificados y reglas justas (no la popularidad, una marca o un puntaje social) y está separada de la dignidad, los mínimos del Piso de Derechos y de ser una parte interesada porque un sistema realmente te afecta. Si se reduce o suspende la posición, se deben obtener razones claras, una forma real de contraatacar y límites que se ajusten al riesgo real, y la posición por sí sola nunca debe cortar los elementos esenciales de supervivencia o los caminos para desafiar el daño y obtener reparación. La buena reputación debe reflejar lo que se puede comprobar hoy, no la vieja reputación. El movimiento, refugio, portabilidad y salida se rigen por **Artículo XXI** (*Interoperabilidad, Portabilidad e Integridad de Salida*), no sólo mediante etiquetas permanentes.*
 
 Este artículo establece **pisos constitucionales** para su estatus y estatus de participación bajo el [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -115,7 +121,7 @@ La persecución legítima recorre el [Tétrada constitucional](core_00_preamble.
 - **Participación:** en evaluación de posición pluralista, impugnación de determinaciones de posición opacas o monopolizadas, y restauración o recalificación cuando se corrigen restricciones materiales.
 - **Vigilancia:** a través de registros permanentes auditables, revisión continua de elegibilidad y reclamos de bloqueo, y verificación independiente proporcional a los roles y restricciones en juego.
 - **Responsabilidad:** quienes asignan o restringen la posición deben responder por reducirla sin razones individualizadas, proporcionalidad, adaptación estrecha o caminos reales hacia la restauración, incluidos patrones que rastrean las características protegidas o sus representantes.
-- **Oportunidad:** la revisión permanente, la impugnación y la reparación antes de que la demora excluya el acceso crítico para la supervivencia, las vías de auditoría o la reparación constitucionalmente requerida según **Artículo XXV-C** (*Resolución Oportuna y Piso Anti-Demora*).
+- **Oportunidad:** la revisión permanente, la impugnación y la reparación antes de que la demora excluya el acceso crítico para la supervivencia, las vías de auditoría o la reparación constitucionalmente requerida según **Artículo XXVI-C** (*Resolución Oportuna y Piso Anti-Demora*).
 
 [legitimación del participante](core_05_band_accountability.md#participant-standing-constitutional) ¿Se reconoce el estatus de participación o el estatus de elegibilidad de rol a partir de registros permanentes constitucionalmente válidos, efectos permanentes o [Barra de competencia](core_05_band_accountability.md#competency-bar) criterios para la vía nombrada. No es reputación ni estima social, y no impone en sí restricciones de acceso. Las consecuencias restrictivas se aplican sólo a través de [Efecto de legitimación](core_05_band_accountability.md#standing-effect-chapter-six) y [Bloqueo de legitimación](core_05_band_accountability.md#standing-lock) en rutas de privilegios nombradas.
 
@@ -133,7 +139,7 @@ Debe seguir siendo distinto de:
 - **Lean juntos:**
   - **Artículo VI-A** (*Dignidad e Igualdad Moral*) y **Artículo XII** (*Participación, representación y debido proceso del sistema de partes interesadas*): los criterios permanentes no deben sustituir la dignidad o la existencia de las partes interesadas;
   - **Artículo III-A** (*Supervivencia*): el participante que esté solo no debe impedir el acceso crítico para la supervivencia;
-  - **Artículo XXI** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*): la disciplina permanente no debe sustituir el proceso de justicia individualizado ni funcionar como exilio, denegación de refugio o apatridia por sí sola; Los pisos de movimiento, refugio, portabilidad y salida permanecen en **Artículo XXI** (*Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida*) sin limitar las salvaguardias vigentes aquí.
+  - **Artículo XXI** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*): la disciplina permanente no debe sustituir el proceso de justicia individualizado ni funcionar como exilio, denegación de refugio o apatridia por sí sola; Los pisos de movimiento, refugio, portabilidad y salida permanecen en **Artículo XXI** (*Interoperabilidad, Portabilidad e Integridad de Salida*) sin limitar las salvaguardias vigentes aquí.
 
 <a id="article-xix-a-standing-distinction"></a>
 #### Artículo XIX-A: Distinción de legitimación
@@ -194,7 +200,7 @@ Este artículo establece en qué se diferencia la posición de las prohibiciones
 
 - Upstream: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Uno §13.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Río abajo: [Capítulo Nueve §2](core_09_standing_assessment.md#2-question-1--what-happened) (*registros permanentes, puerta de entrada verificada y contenido mínimo de registros*); [Capítulo Nueve §3.6](core_09_standing_assessment.md#36-forum-boundary) (*límite del foro*); [Capítulo Diez §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y autorizaciones*); [Capítulo Diez §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos de legitimación*); [Capítulo Diez §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*restablecimiento y revisión*).
-- Leer con: **Artículo III-A** (*Supervivencia*); **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) y **Artículo XIII-B** (*Derecho a Reparación y Remedio*); [Preámbulo §6.2 Cómo encaja toda la cadena](core_00_preamble.md#62-how-the-full-chain-fits-together); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad) — **participación**, **vigilancia**, **responsabilidad**, y **oportunidad** bajo **Artículo XXV-C** (*Resolución Oportuna y Piso Anti-Demora*) y **Artículo XX-B** (*Pisos de Restricción*).
+- Leer con: **Artículo III-A** (*Supervivencia*); **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) y **Artículo XIII-B** (*Derecho a Reparación y Remedio*); [Preámbulo §6.2 Cómo encaja toda la cadena](core_00_preamble.md#62-how-the-full-chain-fits-together); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad) — **participación**, **vigilancia**, **responsabilidad**, y **oportunidad** bajo **Artículo XXVI-C** (*Resolución Oportuna y Piso Anti-Demora*) y **Artículo XX-B** (*Pisos de Restricción*).
 
 </details>
 
@@ -233,7 +239,7 @@ Este artículo establece los límites de impugnabilidad y proporcionalidad de la
 
   - Un caso archivado no se sostiene por sí solo.
   - El material de la fase de disputa no proporciona por sí solo el carácter de contribución o el carácter de violación de la posición ([Capítulo Nueve §3.6 Límite del foro](core_09_standing_assessment.md#36-forum-boundary)).
-  - Ese límite no reduce la impugnación, el recurso, la medida provisional o las protecciones procesales requeridas en virtud de **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*), **Artículo XIII-B** (*Derecho a Reparación y Remedio*), y **Artículo XXV-C** (*Resolución Oportuna y Piso Anti-Demora*).
+  - Ese límite no reduce la impugnación, el recurso, la medida provisional o las protecciones procesales requeridas en virtud de **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*), **Artículo XIII-B** (*Derecho a Reparación y Remedio*), y **Artículo XXVI-C** (*Resolución Oportuna y Piso Anti-Demora*).
 - **Revisabilidad procesal:** Cuando la posición se restringe, degrada o suspende materialmente, incluso a través de una [bloqueo de legitimación](core_10_standing_integration.md#42-prevention--general-standing-locks) atado a un [hallazgo de violación verificada](core_05_band_accountability.md#violation-nature-chapter-six) — el sistema debe aplicar las [**Principio de restricción menos restrictivo, con límite de tiempo y revisable**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) y debe:
   - explicar **por qué** en términos claros;
   - establecer un **límite de tiempo** sobre la restricción cuando sea factible según **Artículo XX-B** (*Pisos de Restricción*);
@@ -310,27 +316,36 @@ Este artículo establece la elegibilidad y responsabilidad de la vía nombrada, 
 
 <a id="article-xix-d-movement-migration-and-refuge"></a>
 
-<a id="article-xix-d-movement-migration-refuge-and-non-statelessness-routing"></a>
-#### Artículo XIX-D: Movimiento, Migración, Refugio y Ruta de No Apatridia
+<a id="article-xix-d-violations-and-standing-locks"></a>
+#### Artículo XIX-D: Infracciones y bloqueos de legitimación
 
-<details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+Este Artículo regula cómo se registran las infracciones y cómo se aplican los bloqueos de legitimación:
 
-- Leer con: **Artículo XXI-D** (*Movimiento, Migración, Refugio y No Apatridia*) y **Artículo XXI** (*Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida*).
-- Principios: Capítulo Uno [§16 Mayordomía en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) y [§13.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- **Naturaleza de la infracción basada solo en hallazgos verificados:** La Naturaleza de la Infracción solo puede afectar los efectos de legitimación cuando se basa en hallazgos auditables e impugnables que satisfacen los Capítulos Dos a Cuatro y el Capítulo Diez. No bastan las acusaciones, etiquetas de admisión, derivaciones provisionales ni relatos de una fase del foro. La evaluación debe considerar la participación aquiescente y la falta de resistencia a instrucciones ilegales o anticonstitucionales cuando existían deber y capacidad materiales, conforme al Capítulo Cinco (*Falla de responsabilidad colectiva*).
+- **Bloqueos de legitimación:** Un Bloqueo de Legitimación es el equivalente restrictivo de la habilitación de competencia. Mientras un hallazgo verificado siga sin resolverse o sin reparación material, puede impedir o limitar vías de confianza, función, autoridad, crédito, supervisión, reconocimiento, voto de gobernanza o participación de partes interesadas conforme al Capítulo Once §4.2. Las consecuencias solo se aplican en vías privilegiadas nombradas; cuando el riesgo verificado lo requiera, pueden incluir separación de entornos, redes o seres concretos, dentro de los límites de separación del Capítulo Once §5.1. Un bloqueo no es un rango de dignidad, una reducción del piso de derechos, represalia automática ni puntuación de méritos combinada.
+  - Cada bloqueo debe indicar el acceso restringido, a quién o qué protege, qué debe corregirse para levantarlo, dónde impugnarlo y cuándo se reevaluará. Debe ser necesario, proporcionado, auditable e impugnable según el Artículo XIX-B.
+  - La habilitación de competencia no anula un bloqueo aplicable; las contribuciones positivas no borran hallazgos de infracción verificados y pendientes.
+  - Los bloqueos del voto y los tres bloqueos especiales también cumplen el Artículo XIX-E.
+  - Un bloqueo no sustituye el proceso de justicia individualizado ni, por sí solo, limita movimiento, refugio, portabilidad o salida conforme a los Artículos XXI y XXII.
+- **Ajuste del bloqueo al daño:** El bloqueo debe corresponder a la gravedad del daño verificado, la función o privilegio concreto protegido y el avance de la reparación.
+  - La ayuda pasada solo cuenta si demuestra capacidad de reparar, mantener salvaguardias o evitar repetición, o si permite una restricción menor al reevaluar; nunca compensa ni sustituye un hallazgo pendiente de daño.
+  - Un daño menos grave según la escala LEQU proporcional unificada del Capítulo Diez §7 no justifica exclusión prolongada salvo patrón repetido, evasión o vínculo con daño material.
+  - La negligencia, ocultación, coerción o repetición puede influir en la revisión, pero no altera la calificación de gravedad del daño mismo.
+  - Las restricciones más estrictas por repetición u ocultación deben seguir siendo necesarias, proporcionadas, revisables y vinculadas a hallazgos verificados.
+- **Restablecimiento y no atrincheramiento:** Cuando la legitimación se reduzca por infracciones, debe haber condiciones claras de revisión, restablecimiento basado en reparación y reevaluación periódica conforme al Capítulo Once §8. Excluir permanentemente por estatus histórico sin justificación actual y auditable incumple la Constitución. Corregidas las restricciones materiales, la restauración o recalificación debe ser efectiva. Cumplir correcciones, restitución, supervisión o salvaguardias —o demostrar menor riesgo de repetición— debe abrir una vía real de reevaluación cuando sea legal; si no se cumple, el hallazgo pendiente sigue vigente para la legitimación.
 
-</details>
+<a id="article-xix-e-voting-and-special-locks"></a>
+#### Artículo XIX-E: Bloqueos del voto y bloqueos especiales
 
-<br>
+Este Artículo establece límites adicionales para los bloqueos del voto y los bloqueos especiales:
 
-*En términos sencillos: el estatus permanente no es una herramienta de frontera, exilio o apatridia; no se pueden perder los derechos de movimiento, refugio o salida sólo porque su rol permanente cayó o porque un bloqueo permanente bloqueó vías con nombres sensibles a la confianza. La violencia, la coerción o la mala conducta anticonstitucional verificadas aún pueden dar lugar a detención legal, custodia u otras restricciones a la libertad en virtud de **Artículo XX-B** (*Pisos de Restricción*) y protecciones de proceso completo; esas son medidas de justicia separadas, no una solución alternativa. Si un caso involucra movimiento, migración, refugio, portabilidad, reconocimiento o salida, **Artículo XXI** (*Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida*) proporciona el piso de gobierno.*
-
-El estatus de legitimación, las barras de competencia, las autorizaciones de competencia y los bloqueos de legitimación no **por ellos mismos** limitar los derechos de movimiento, migración, refugio, portabilidad, salida o no apatridia. Los bloqueos de legitimación limitan de forma nativa la confianza, el rol, la autoridad, el crédito, la supervisión, el reconocimiento, **votación-gobernanza**, y **participación de las partes interesadas** caminos bajo [Capítulo Diez §4.2 Prevención: bloqueos generales de legitimación](core_10_standing_integration.md#42-prevention--general-standing-locks); no son un sustituto del proceso de justicia individualizado y no deben funcionar como exilio, apatridia, denegación de refugio o bloqueo sistémico por sí solos.
-
-Las medidas legales de restricción de la libertad (incluidas la detención, la custodia, la operación supervisada o restricciones de movimiento comparables) aún pueden aplicarse cuando la violencia verificada, la coerción, la mala conducta anticonstitucional o un peligro social comparable lo requieran, pero solo a través de medidas que satisfagan **Artículo XX-B** (* Pisos de Restricción *), proceso penal aplicable o protecciones equivalentes bajo [Capítulo Diez §5.4](core_10_standing_integration.md#54-special-violation-rules) (*Reglas especiales de infracción*), y [No apatridia](core_05_band_participation.md#non-statelessness-constitutional) obligaciones en **Artículo XXI-D** (*Movimiento, Migración, Refugio y No Apatridia*). Tales medidas no deben dejar a una persona sintiente sin un régimen que reconozca la protección básica del Piso de Derechos, determine la legitimación activa o proporcione vías de reparación.
-
-Pueden afectar la elegibilidad del rol y las rutas nombradas sensibles a la confianza solo como se establece en este Artículo. Las cuestiones de movimiento, migración, refugio, portabilidad, no apatridia e integridad de salida se rigen por **Artículo XXI** (*Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida*) y disposiciones de transición aplicables, sin limitar las salvaguardias vigentes en este Artículo.
-
+- **Vías de voto separadas:** Un bloqueo en una vía de voto nombrada no se extiende a la otra. **Voto de gobernanza** es el voto constitucional básico que autoriza la autoridad de gobierno mediante el mecanismo de legitimidad. **Participación de partes interesadas** es la influencia ponderada por participación y la elección vinculante dentro de un sistema, institución o ámbito ya autorizado. Un bloqueo de voto de gobernanza no elimina por sí mismo la voz ponderada de partes interesadas; un bloqueo de participación tampoco elimina por sí mismo el voto de gobernanza ni el estatus de parte interesada.
+- **Disciplina de la voz política:** Si un bloqueo restringe la participación en la autorización de la autoridad de gobierno, exige un hallazgo verificado sobre la conducta de esa persona, obtenido con equidad procesal, necesidad y proporcionalidad, dirigido estrechamente a la conducta y con vías reales de restauración. No puede excluir de manera duradera la voz política en la Elección Constitucional Fundamental. Incumplen las categorías amplias de conducta indebida y los patrones vinculados a características protegidas o sus sustitutos materiales.
+  - **Única excepción:** una designación final del Capítulo Doce por Inconducta Anticonstitucional —reservada para los ataques verificados más graves contra la Constitución— suspende el voto constitucional básico hasta la restitución íntegra. No es un bloqueo de legitimación; rigen las salvaguardias del Capítulo Catorce §4.1.
+- **Bloqueos especiales** conforme al Capítulo Once §5.5:
+  - **Bloqueo de servicio en foros:** una falta verificada de recusación obligatoria que comprometa materialmente la imparcialidad lo activa. Volver a prestar servicio requiere restauración estricta e independiente; una disculpa, contribuciones previas, reputación, escasez de expertos o necesidad de personal no bastan.
+  - **Bloqueo de participación de partes interesadas:** corrupción, captura, abuso de participación falsa, coerción u otro abuso material verificado limita la influencia ponderada y la elección vinculante en el ámbito afectado. Por sí solo no elimina el voto de gobernanza, la elección constitucional básica ni el estatus de parte interesada. Una disculpa, contribuciones previas, el tamaño de la participación o la indispensabilidad del operador no bastan para levantarlo.
+  - **Bloqueo de confianza anticonstitucional:** una designación final del Capítulo Doce impide funciones o influencia material sobre sistemas de Clase A, B o C, foros constitucionales, reconocimiento de alineación constitucional, custodia de sistemas críticos y vías de responsabilidad anticonstitucional, hasta verificar una restauración estricta e independiente.
 <a id="article-xx-justice-after-verified-violation"></a>
 ### Artículo XX: Justicia después de una violación verificada
 
@@ -352,13 +367,13 @@ Pueden afectar la elegibilidad del rol y las rutas nombradas sensibles a la conf
 
 <br>
 
-*En términos sencillos: **Artículo XX** (*Justicia después de una violación verificada*) es el Piso de Derechos de Justicia. Una vez que se verifica una violación, la respuesta no es venganza ni crueldad. Es un proceso justo de **violación**, **corrección**, y **prevención** (detener el daño, repararlo y reducir su recurrencia) en función de lo que esté en juego. Las restricciones serias se mantienen en sus propios niveles: una necesidad de seguridad comprobada, un reloj y un camino de regreso, y nunca matar. Las disputas, la escalada, la revisión y la resolución oportuna están en **Artículo XXV**. Las medidas de emergencia están en **Capítulo Doce §6.1** (*Medidas de emergencia y carga de continuación*).*
+*En términos sencillos: **Artículo XX** (*Justicia después de una violación verificada*) es el Piso de Derechos de Justicia. Una vez que se verifica una violación, la respuesta no es venganza ni crueldad. Es un proceso justo de **violación**, **corrección**, y **prevención** (detener el daño, repararlo y reducir su recurrencia) en función de lo que esté en juego. Las restricciones serias se mantienen en sus propios niveles: una necesidad de seguridad comprobada, un reloj y un camino de regreso, y nunca matar. Las disputas, la escalada, la revisión y la resolución oportuna están en **Artículo XXVI**. Las medidas de emergencia están en **Capítulo Doce §6.1** (*Medidas de emergencia y carga de continuación*).*
 
 Este artículo establece los pisos de justicia que se aplican una vez que se ha verificado una violación: el objetivo y alcance de la justicia (**Artículo XX-A**) y los pisos sobre restricciones graves (**Artículo XX-B**).
 
 *Artículo vecinos:*
 
-- **Resolución de conflictos, revisión y puntualidad:** Las disputas sobre los pisos de derechos constitucionales, la revisión retrospectiva, las colisiones de derechos y la disciplina anti-demora se rigen por [**Artículo XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Revisión retrospectiva oportuna y alineación restaurativa*).
+- **Resolución de conflictos, revisión y puntualidad:** Las disputas sobre los pisos de derechos constitucionales, la revisión retrospectiva, las colisiones de derechos y la disciplina anti-demora se rigen por [**Artículo XXVI**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Revisión retrospectiva oportuna y alineación restaurativa*).
 - **Medidas de emergencia:** Gobernado por [Capítulo Doce §6.1 Medidas de emergencia y carga de continuación](core_12_forum.md#61-emergency-measures-and-continuation-burden), leer con **Artículo XX-B** (*Piso de Restricción*) para cualquier restricción que imponga una medida de emergencia.
 - **Legitimación:** [**Artículo XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*Legitimación y estatus de participación*) rige la posición. Las medidas de justicia en virtud de este artículo son independientes y no constituyen una solución alternativa.
 - **Reparación oportuna:** Leer con [**Artículo XIII-B** (*Derecho a Reparación y Recurso*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*acceso a reparación oportuna*).
@@ -404,7 +419,7 @@ Este artículo establece el objetivo y alcance de la justicia y el piso anticrue
 
 - Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Capítulo Uno §13.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), y [§14 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Río abajo: [Capítulo Diez §5 Diseño y aplicación de cerraduras](core_10_standing_integration.md#5-lock-design-and-enforcement) y [§5.4 Reglas especiales de infracción](core_10_standing_integration.md#54-special-violation-rules) (*encarcelamiento requerido por violencia verificada y otras salvaguardias coercitivas o restrictivas de la libertad*); [Capítulo Once §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevención — candados anticonstitucionales*; especialización penitenciaria).
-- Leer con: [Artículo XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Resolución Oportuna y Piso Anti-Demora*); [Capítulo Doce §5 Escalamiento y certificación](core_12_forum.md#5-escalation-and-certification).
+- Leer con: [Artículo XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Resolución Oportuna y Piso Anti-Demora*); [Capítulo Doce §5 Escalamiento y certificación](core_12_forum.md#5-escalation-and-certification).
 
 </details>
 
@@ -467,7 +482,7 @@ Este artículo fija los límites mínimos de las restricciones. Las reglas de fu
 <a id="article-xxi-interoperability-portability-and-exit-integrity"></a>
 
 <a id="article-xxi-interoperability-portability-movement-refuge-and-exit-integrity"></a>
-### Artículo XXI: Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida
+### Artículo XXI: Interoperabilidad, Portabilidad e Integridad de Salida
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -492,7 +507,7 @@ Este artículo fija los límites mínimos de las restricciones. Las reglas de fu
 
 <br>
 
-*En términos sencillos: **Artículo XXI** (*Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida*) es el Piso de Derechos de Salida y Movilidad: debería poder abandonar un sistema o lugar que ya no le sirve, llevarse sus datos e identidad con usted, conectarse a alternativas sin quedar atrapado, moverse entre jurisdicciones, buscar refugio de regímenes que violan esta Constitución y nunca quedarse sin nadie responsable de sus protecciones básicas. La salida sobre el papel no es suficiente: la portabilidad, la notificación y el refugio deben funcionar en la práctica. Los trucos que hacen que la salida sea costosa, confusa o imposible (formatos opacos, cambios sorpresa en las reglas, términos coercitivos, papeleo interminable) son violaciones, no negocios normales.*
+*En términos sencillos: **Artículo XXI** (*Interoperabilidad, Portabilidad e Integridad de Salida*) es el Piso de Derechos de Salida y Movilidad: debería poder abandonar un sistema o lugar que ya no le sirve, llevarse sus datos e identidad con usted, conectarse a alternativas sin quedar atrapado, moverse entre jurisdicciones, buscar refugio de regímenes que violan esta Constitución y nunca quedarse sin nadie responsable de sus protecciones básicas. La salida sobre el papel no es suficiente: la portabilidad, la notificación y el refugio deben funcionar en la práctica. Los trucos que hacen que la salida sea costosa, confusa o imposible (formatos opacos, cambios sorpresa en las reglas, términos coercitivos, papeleo interminable) son violaciones, no negocios normales.*
 
 Este artículo establece **pisos constitucionales** para la interoperabilidad, portabilidad, movimiento, refugio e integridad de salida bajo el [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -504,7 +519,7 @@ La persecución legítima recorre el [Tétrada constitucional](core_00_preamble.
 - **Participación:** a la hora de elegir sistemas y jurisdicciones, migrar con datos e identidades utilizables, desafiar el bloqueo y la denegación por poder y buscar refugio donde la práctica no cumple sustancialmente con las normas.
 - **Vigilancia:** a través de límites de interoperabilidad documentados, portabilidad oportuna, aviso previo antes de una reducción importante y revisión de si las condiciones de transición son reales y no meramente formales.
 - **Responsabilidad:** los sistemas y regímenes deben responder por [Bloqueo sistémico](core_05_band_continuity.md#systemic-lock-in), diseño anti-portabilidad, exclusión contraria a [No exclusión de sensibilidad](core_05_band_participation.md#sentience-non-exclusion), agotamiento burocrático u otra conducta cuyo efecto principal sea atrapar a los sintientes: bloquear la salida, la sustitución, el movimiento, el refugio o el reconocimiento.
-- **Oportunidad:** en la entrega de portabilidad, la consideración de refugio, el aviso de interoperabilidad y la corrección de barreras antes de que el retraso, la opacidad o la fricción procesal hicieran que la salida, la migración o la reparación fueran efectivamente inalcanzables según **Artículo XXV-C** (*Resolución Oportuna y Piso Anti-Demora*).
+- **Oportunidad:** en la entrega de portabilidad, la consideración de refugio, el aviso de interoperabilidad y la corrección de barreras antes de que el retraso, la opacidad o la fricción procesal hicieran que la salida, la migración o la reparación fueran efectivamente inalcanzables según **Artículo XXVI-C** (*Resolución Oportuna y Piso Anti-Demora*).
 
 Los sistemas sensibles y dependientes tienen derecho a una salida, migración, interoperabilidad, movimiento, refugio y reconocimiento significativos y utilizables sin bloqueo coercitivo ni exclusión contraria a [No exclusión de sensibilidad](core_05_band_participation.md#sentience-non-exclusion), o apatridia.
 
@@ -518,8 +533,8 @@ Los sistemas sensibles y dependientes tienen derecho a una salida, migración, i
   - **Artículo XIX** (*Legitimación y estatus de participación*): el estatus de legitimación, las barras de competencia, las autorizaciones de competencia y los bloqueos de legitimación no **por ellos mismos** limitar el movimiento, el refugio, la portabilidad o la salida, y no debe sustituir el proceso de justicia individualizado;
   - medidas legales de restricción de la libertad en virtud de **Artículo XX-B** (*Piso de Restricción*) y [Capítulo Diez §5.4](core_10_standing_integration.md#54-special-violation-rules) (*carácter de salvaguardia coercitiva o restrictiva de la libertad*) aún puede restringir el movimiento, la custodia o una libertad comparable cuando **Necesidad**, **Proporcionalidad**, protecciones de procesos y **No apatridia** las obligaciones están satisfechas;
   - **Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) donde la implementación o la dependencia superan los supuestos de sandbox o ciclo de vida;
-  - **Artículo XXVII** (*Gobernanza de transición, continuidad y nueva línea de base*) para el reconocimiento de transición cuando cambian los regímenes o las federaciones.
-- **Capa de implementación:** El reconocimiento entre regímenes y su procedimiento operativo se dejan al texto de implementación adoptado bajo **Capítulo Diecisiete**.
+  - **Artículo XXVIII** (*Gobernanza de transición, continuidad y nueva línea de base*) para el reconocimiento de transición cuando cambian los regímenes o las federaciones.
+- **Capa de implementación:** El reconocimiento entre regímenes y su procedimiento operativo se dejan al texto de implementación adoptado bajo **Capítulo Dieciocho**.
 <a id="article-xxi-a-portability-rights"></a>
 #### Artículo XXI-A: Derechos de Portabilidad
 <details>
@@ -610,15 +625,29 @@ Este artículo establece la norma antibloqueo:
 
   La regla se aplica más allá de los costos de transacción proporcionales y se aplica cuando [Bloqueo sistémico](core_05_band_continuity.md#systemic-lock-in) (**Capítulo cinco**) está implicado.
 
-<a id="article-xxi-d-movement-migration-refuge-and-non-statelessness"></a>
-#### Artículo XXI-D: Movimiento, Migración, Refugio y No Apatridia
+<a id="article-xxii-movement-migration-refuge-and-non-statelessness"></a>
+<a id="article-xxi-d-open-formats-and-standards"></a>
+#### Artículo XXI-D: Formatos y estándares abiertos
+
+*En términos sencillos: los sistemas usan formatos y estándares abiertos que cualquiera pueda leer e implementar sin permiso ni pago cuando sean adecuados. La salida debe incluir una exportación abierta cuando sea viable. Esta regla obliga a los sistemas; no obliga a las personas a usar ciertos formatos ni abre el contenido.*
+
+Este Artículo establece el mínimo de formatos abiertos para los sistemas:
+
+- **Preferencia por lo abierto:** Se prefieren formatos, interfaces y protocolos abiertos; la obligación aumenta con el impacto material y la dependencia.
+- **Qué es abierto:** la especificación completa es pública; cualquiera puede implementarla sin permiso, tarifas ni regalías; y ninguna parte puede cambiarla unilateralmente, o terceros pueden bifurcarla y mantenerla libremente si esa parte deja de respaldarla. Un formato documentado que falle alguna prueba es cerrado a estos efectos, aunque sea preferible a uno no documentado.
+- **Obligaciones por capa:** Las exportaciones y migraciones del **Artículo XXI-A** ofrecen al menos un formato abierto cuando transporte los datos sin pérdida material de estructura, metadatos, relaciones o fidelidad. Los límites de integración del **XXI-B** usan por defecto estándares y protocolos abiertos. Los sistemas prefieren formatos abiertos para almacenamiento y trabajo nativo. Los datos publicados para acceso público, incluidos los tipos O, E y W de CS-2, se publican por defecto en formatos abiertos.
+- **Justificación de formatos cerrados:** Solo se justifica un formato, interfaz o protocolo cerrado si ninguna alternativa abierta satisface una necesidad material, como fidelidad, rendimiento, seguridad, protección, accesibilidad o función especializada. El sistema registra una justificación auditable; ofrece la mejor exportación abierta e informa sus pérdidas; documenta lo suficiente para migrar o deposita la documentación en custodia independiente; y reexamina la decisión periódicamente y en cada certificación o revalidación de impacto material conforme maduren las alternativas. La comodidad, el ahorro del operador o la posición establecida no bastan por sí solos. Si el efecto principal es impedir la salida o el cambio, infringe el **Artículo XXI-C**.
+- **Transición:** Un sistema ya operativo cuando esto se le aplique publica un plan de migración y, por defecto, cumple en un año las obligaciones de interoperabilidad, formatos internos y datos públicos. Los adoptantes pueden fijar otro plazo por clase de sistema mediante justificación publicada incorporada conforme al **Capítulo Dieciocho**. Solo se concede una prórroga por circunstancias excepcionales con justificación documentada, revisable y limitada en el tiempo. La obligación de salida no admite transición.
+- **Alcance y límites:** La regla obliga a los sistemas, no dirige los formatos que las personas eligen para sus propias obras, aunque recomienda los abiertos. Un sistema no exige formatos cerrados cuando uno abierto satisface las necesidades individuales. Apertura no significa contenido abierto: siguen vigentes confidencialidad, cifrado y protecciones de cada tipo de datos CS-2. Según el Capítulo Uno §16.3, la apertura no prevalece sobre **Seguridad**, **Verdad**, confidencialidad justificada ni protección.
+
+### Artículo XXII: Movimiento, Migración, Refugio y No Apatridia
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 Disciplina de limitación](core_01_a_values_principles.md#71-limitation-discipline).
-- Río abajo: **Artículo VI-A** (*Dignidad e Igualdad Moral*) piso de dignidad, **Artículo VI-C** (*No discriminación*) no discriminación, **Artículo XII** (*Sistema de Participación, Representación y Debido Proceso de las Partes Interesadas*) participación de las partes interesadas, **Artículo XIX** (*Legitimación y estatus de participación*) ruta de legitimación y estatus de participación, **Capítulo Doce §6.1** (*Medidas de emergencia y carga de continuación*) límites de las medidas de emergencia, **Artículo XXVII** (*Gobernanza de la transición, continuidad y nueva línea de base*) gobernanza de la transición.
-- Leer con: [Capítulo Cinco *Movimiento, Refugio, No Apatridia e Integridad de Salida*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movimiento y Reubicación*, *Refugio del Incumplimiento*, *No Apatridia*, *No Exclusión de Sentiencia*; *Bloqueo sistémico* y *Continuidad de ocupación* cuando la salida, la terminación del alojamiento, el desalojo o la reubicación sustancial estén materialmente implicados; **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*) cuando sistemas o proyectos hicieron que un lugar fuera inhabitable; **Artículo XXI-A** (*Derechos de portabilidad*) a través de **Artículo XXI-C** (*Regla antibloqueo*) para la mecánica de portabilidad del sustrato y de integridad de salida; **Artículo XXVII** (*Gobernanza de transición, continuidad y nueva línea de base*) para mecanismos de reconocimiento de transición.
+- Río abajo: **Artículo VI-A** (*Dignidad e Igualdad Moral*) piso de dignidad, **Artículo VI-C** (*No discriminación*) no discriminación, **Artículo XII** (*Sistema de Participación, Representación y Debido Proceso de las Partes Interesadas*) participación de las partes interesadas, **Artículo XIX** (*Legitimación y estatus de participación*) ruta de legitimación y estatus de participación, **Capítulo Doce §6.1** (*Medidas de emergencia y carga de continuación*) límites de las medidas de emergencia, **Artículo XXVIII** (*Gobernanza de la transición, continuidad y nueva línea de base*) gobernanza de la transición.
+- Leer con: [Capítulo Cinco *Movimiento, Refugio, No Apatridia e Integridad de Salida*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movimiento y Reubicación*, *Refugio del Incumplimiento*, *No Apatridia*, *No Exclusión de Sentiencia*; *Bloqueo sistémico* y *Continuidad de ocupación* cuando la salida, la terminación del alojamiento, el desalojo o la reubicación sustancial estén materialmente implicados; **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*) cuando sistemas o proyectos hicieron que un lugar fuera inhabitable; **Artículo XXI-A** (*Derechos de portabilidad*) a través de **Artículo XXI-C** (*Regla antibloqueo*) para la mecánica de portabilidad del sustrato y de integridad de salida; **Artículo XXVIII** (*Gobernanza de transición, continuidad y nueva línea de base*) para mecanismos de reconocimiento de transición.
 
 </details>
 
@@ -645,6 +674,8 @@ Este artículo establece la norma antibloqueo:
 
 Este artículo establece los pisos para el movimiento, el refugio y la no apatridia, y los límites para restringirlos:
 
+<a id="article-xxii-a-movement-and-relocation"></a>
+#### Artículo XXII-A: Movimiento y reubicación
 - **Piso de movimiento y reubicación:** Todos los sintientes tienen derecho a moverse dentro y entre jurisdicciones, federaciones y regímenes adoptantes, y a reubicarse donde su presencia continua afecte materialmente:
   - supervivencia;
   - dignidad;
@@ -655,42 +686,66 @@ Este artículo establece los pisos para el movimiento, el refugio y la no apatri
   - El movimiento incluye:
     - movimiento físico para seres biológicos;
     - formas operativamente equivalentes para sentients sintéticos e híbridos (reubicación de instancia, cambio de sustrato de alojamiento o equivalente), sujetos a **Capítulo uno** Restricciones de seguridad y continuidad.
+<a id="article-xxii-b-refuge-from-non-compliance"></a>
+  - **Formas de movimiento por sustrato:** incluye movimiento físico para sintientes biológicos y formas operativamente equivalentes para sintientes sintéticos e híbridos — traslado de instancia, cambio de sustrato de alojamiento o equivalente — sujetas a las restricciones de seguridad y continuidad del **Capítulo Uno**.
+
+#### Artículo XXII-B: Refugio del incumplimiento
 - **Refugio del incumplimiento:** Un sintiente que se enfrenta a una jurisdicción, federación o régimen adoptivo cuya práctica no cumple sustancialmente con esta Constitución tiene derecho a buscar refugio en un régimen compatible.
   - Aquí se establece el deber del régimen receptor de considerar y, cuando sea consistente con su propio Piso de Derechos, otorgar refugio.
-  - Los procedimientos operativos para el reconocimiento entre regímenes se dejan al texto de implementación adoptado bajo **Capítulo Diecisiete**.
+  - Los procedimientos operativos para el reconocimiento entre regímenes se dejan al texto de implementación adoptado bajo **Capítulo Dieciocho**.
   - No se puede negar el refugio basándose en que la clase de sustrato del solicitante difiere de las clases de sustrato que el régimen receptor normalmente alberga, de conformidad con [No exclusión de sensibilidad](core_05_band_participation.md#sentience-non-exclusion).
   - La admisión al movimiento y al refugio puede excluirse o condicionarse a los entrantes que tengan una conducta anticonstitucional no remediada, muestren hostilidad constitucional o demuestren desprecio o repudio documentado de la comunidad constitucional, según el calificativo de admisión del Capítulo Cinco, sujeto a **Necesidad**, **Proporcionalidad**, **Equidad procesal**, y [No exclusión de sensibilidad](core_05_band_participation.md#sentience-non-exclusion).
   - La expulsión coercitiva deliberada o el dumping diseñado para abrumar a los adoptantes receptores es una violación a nivel de régimen por parte del régimen de origen o de expulsión. No asigna automáticamente alojamiento a ningún adoptante receptor en particular cuando el reconocimiento de respaldo de origen primario o compartido/federación sigue siendo real. Un adoptante particular puede rechazar tales entradas forzadas instrumentalmente bajo **Necesidad**, **Proporcionalidad**, y **Factibilidad** sin extinguir el reconocimiento básico en otros lugares.
-- **Refugio de inhabitabilidad climática (decidido por el adoptante):** <a id="xx-d-climate-unlivability-refuge-adopter-decided"></a> Este artículo no decide si el desplazamiento causado por el clima que hace que un lugar sea inhabitable (cuando no se demuestra que el régimen de origen no cumple materialmente) es una razón para otorgar refugio. Los adoptantes que aborden esa pregunta deben hacerlo en términos publicados y discutibles. Este artículo no exige ni prohíbe tratar la inhabitabilidad climática como una razón para otorgar refugio.
+- **Refugio de inhabitabilidad climática (decidido por el adoptante):** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a> Este artículo no decide si el desplazamiento causado por el clima que hace que un lugar sea inhabitable (cuando no se demuestra que el régimen de origen no cumple materialmente) es una razón para otorgar refugio. Los adoptantes que aborden esa pregunta deben hacerlo en términos publicados y discutibles. Este artículo no exige ni prohíbe tratar la inhabitabilidad climática como una razón para otorgar refugio.
   - Esa decisión no es una concesión de refugio climático del Piso de Derechos y no trata el clima, en sí mismo, como un incumplimiento material de un régimen.
   - No requiere demostrar que el clima violó esta Constitución.
   - No debe estrecharse **Refugio del incumplimiento** donde la práctica del régimen de origen es materialmente incompatible.
   - No debe estrecharse **Artículo I-A** (*Precondiciones Ambientales e Integridad Ecológica*).
   - No debe extinguirse **Movimiento y reubicación** donde la presencia continua perjudica materialmente la supervivencia, la dignidad, el acceso al Piso de Derechos o la libertad de manipulación.
   - El silencio en este artículo no es un sí oculto ni un no oculto.
-- **No apatridia:** Nadie puede volverse consciente sin un régimen que:
-  - reconocer su base de Derechos-Piso;
-  - adjudicar su posición;
-  - proporcionar **Reparación y remediación** caminos.
+<a id="article-xxii-c-non-statelessness"></a>
+- **Fundamentos de refugio, del más urgente al menos urgente:** el fundamento del piso es el incumplimiento material del régimen de origen. El orden refleja lo que ese incumplimiento pone en riesgo y orienta la **Oportunidad**; no debilita los fundamentos posteriores:
+  1. **Supervivencia:** amenaza a la vida o continuidad de existencia del solicitante.
+  2. **Acceso al Piso de Derechos:** lo priva de la protección básica del piso.
+  3. **Dignidad:** menoscabo material conforme al **Artículo VI-A** (*Dignidad e Igualdad de Consideración Moral*).
+  4. **Libertad frente a la manipulación:** manipulación contraria al **Artículo X-A** (*Agencia y libertad frente a la manipulación*).
+  5. **Otro incumplimiento material:** cualquier otra práctica materialmente incompatible con la Constitución.
+  6. **Inhabitabilidad climática (decisión del adoptante, no fundamento del piso):** este Artículo no decide si el desplazamiento por inhabitabilidad climática es motivo de refugio cuando no se ha demostrado incumplimiento material del régimen de origen. No exige ni prohíbe considerarlo así; el silencio no implica sí ni no.
+- **Límites para decisiones de refugio climático:** quien adopte esa decisión debe publicarla en términos impugnables. No concede refugio climático como Piso de Derechos, no convierte por sí solo el clima en incumplimiento del régimen ni exige probar que el tiempo infringió la Constitución. No puede estrechar los fundamentos anteriores cuando el régimen de origen sí incumple materialmente, restringir el **Artículo I-A** (*Condiciones ambientales previas e integridad ecológica*) ni extinguir el movimiento y la reubicación del **XXII-A** cuando permanecer menoscaba materialmente supervivencia, dignidad, acceso al piso o libertad frente a la manipulación.
+
+#### Artículo XXII-C: No apatridia
+- **No apatridia:** Ningún ser sintiente puede quedar sin un régimen que:
+  - reconozca su protección básica del Piso de Derechos;
+  - adjudique su legitimación;
+  - proporcione vías de **Reparación y remediación**.
 
   Este es un **piso de reconocimiento del régimen cero-cero**, no es un mandato de que cualquier adoptante en particular acoja un volumen o absorba salidas masivas forzadas instrumentalmente.
 
-  Cuando un régimen de origen, expulsión, colapso, retirada o salida todavía existe como régimen susceptible de reconocimiento, ese régimen conserva **primario** responsabilidad de reconocimiento. Cuando ese régimen desaparece, se niega o la discontinuidad deja una brecha, se debe organizar un reconocimiento transitorio compartido o de federación de conformidad con **Artículo XXVII** (*Gobernanza de la transición, continuidad y nueva línea de base*) para que el individuo nunca llegue a cero reconocimiento.
+  Cuando un régimen de origen, expulsión, colapso, retirada o salida todavía existe como régimen susceptible de reconocimiento, ese régimen conserva **primario** responsabilidad de reconocimiento. Cuando ese régimen desaparece, se niega o la discontinuidad deja una brecha, se debe organizar un reconocimiento transitorio compartido o de federación de conformidad con **Artículo XXVIII** (*Gobernanza de la transición, continuidad y nueva línea de base*) para que el individuo nunca llegue a cero reconocimiento.
 
-  El colapso del sistema matriz, el retiro de los adoptantes, la salida de la federación o una discontinuidad estructural comparable no extingue la protección del Capítulo Seis de un ser sensible. El reconocimiento transitorio debe organizarse de conformidad con **Artículo XXVII** (*Gobernanza de la transición, continuidad y nueva línea de base*) gobernanza de la transición. Los mecanismos de reconocimiento entre regímenes se dejan para el texto de implementación adoptado bajo **Capítulo Diecisiete**.
+  El colapso del sistema matriz, el retiro de los adoptantes, la salida de la federación o una discontinuidad estructural comparable no extingue la protección del Capítulo Seis de un ser sensible. El reconocimiento transitorio debe organizarse de conformidad con **Artículo XXVIII** (*Gobernanza de la transición, continuidad y nueva línea de base*) gobernanza de la transición. Los mecanismos de reconocimiento entre regímenes se dejan para el texto de implementación adoptado bajo **Capítulo Dieciocho**.
 
   Cuando exista una conducta anticonstitucional documentada, hostilidad constitucional o desprecio o repudio de la comunidad constitucional, los regímenes pueden imponer condiciones, supervisión o estatus restringido al reconocimiento sin extinguir el piso de derechos básico, **Reparación y remediación**, y **Equidad procesal** protecciones. La exclusión de la admisión o alojamiento de un adoptante en particular no viola la no apatridia cuando el reconocimiento de origen primario o de respaldo compartido/federación sigue siendo real.
 - **Integración con portabilidad e integridad de salida:** Este Artículo rige tanto la interoperabilidad, la portabilidad y la integridad de salida como la contraparte del Piso de Derechos para el movimiento físico, jurisdiccional y de régimen a régimen.
   - Cuando la misma acción implica a ambos (por ejemplo, un sentimiento sintético que se reubica entre federaciones a través de la portabilidad del sustrato), se aplican tanto las protecciones de movimiento/refugio como las de portabilidad/integridad de salida sin que ninguna de las dos limite a la otra.
   - Los conflictos se resuelven bajo **Capítulo Uno §13.1.5** (*Principio de restricción menos restrictivo, de duración determinada y revisable*).
+<a id="article-xxii-d-limitation-custody-and-emergency-discipline"></a>
+- **Las tres funciones protegidas:** ningún sintiente queda sin un régimen que realmente reconozca su Piso de Derechos básico, adjudique su legitimación conforme al **Artículo XIX** y ofrezca vías de **Reparación y remediación**. Cada función será efectiva, accesible para el sintiente y atendida por un foro que lo escuche; es un piso de reconocimiento sin cero regímenes, sujeto a la **No exclusión de sintientes**.
+  - El régimen de origen, expulsión, colapso, retirada o salida conserva responsabilidad **primaria** si aún existe y puede reconocerlo.
+  - Si desaparece, se niega o deja una brecha, debe organizarse reconocimiento transitorio compartido o federativo según el **Artículo XXVIII**, sin que nadie llegue a cero reconocimiento. Hasta que exista reconocimiento duradero, los arreglos transitorios dan acceso real a legitimación, adjudicación y reparación; quien espera respaldo no se considera carente de reconocimiento.
+  - La garantía sobrevive al colapso del sistema matriz, la retirada del adoptante, la salida de una federación y discontinuidades estructurales comparables.
+- **Reconocimiento con estatus restringido:** ante conducta anticonstitucional documentada, hostilidad constitucional o desprecio/repudio documentado de la comunidad, pueden imponerse condiciones, supervisión o estatus restringido. No se extinguen el Piso de Derechos básico, **Reparación y remediación** ni **Equidad procesal**; tampoco se inventa el estatus ni se aplica bajo una causa mal etiquetada.
+- **Fuera de alcance:** este piso no garantiza ciudadanía preferida ni elección entre regímenes; franquicia política plena más allá del reconocimiento básico; ni alojamiento a gran escala por un adoptante concreto o absorción de salidas masivas coercitivas e instrumentales cuando sigue siendo real el reconocimiento primario de origen o el respaldo compartido/federativo. En ese caso, excluir de la admisión o alojamiento de un adoptante concreto no infringe la No apatridia.
+- **Reconocimiento no equivale a alojamiento ni ciudadanía:** significa que un régimen responde por las tres funciones anteriores; por sí solo no da derecho a residir, ser alojado ni tener franquicia política plena allí, conforme a la distinción entre reconocimiento y alojamiento del Capítulo Cinco.
+#### Artículo XXII-D: Limitación, custodia y disciplina de emergencia
 - **Disciplina de limitaciones:** Las limitaciones al movimiento, migración o refugio deben satisfacer **Capítulo Uno §7.1** (*Disciplina de limitación*) disciplina de limitación: **Necesidad**, **Proporcionalidad**, adaptación estrecha y medios menos restrictivos y eficaces.
   - Las restricciones no deben activarse. **Características protegidas** o sus apoderados materiales.
   - Las restricciones no deben utilizar el marco demográfico a nivel de población como sustituto del predicado individualizado bajo **Equidad procesal**.
 - **Custodia legal y medidas restrictivas de la libertad:** Este artículo no exime a las personas sensibles de detención legal, custodia, operación supervisada u otras medidas judiciales que restrinjan la libertad cuando así lo requieran violencia verificada, coerción, mala conducta anticonstitucional o peligro social comparable.
-  - Tales medidas deben satisfacer **Artículo XX-B** (* Pisos de Restricción *) y procesos penales aplicables o protecciones equivalentes activadas por [Capítulo Diez §5.4 Reglas especiales de violación](core_10_standing_integration.md#54-special-violation-rules).
+  - Tales medidas deben satisfacer **Artículo XX-B** (* Pisos de Restricción *) y procesos penales aplicables o protecciones equivalentes activadas por [Capítulo Once §5.4 Reglas especiales de violación](core_11_standing_integration.md#54-special-violation-rules).
   - Deben ser consistentes con **No apatridia**: ningún ser sensible puede quedarse sin un régimen que reconozca la protección básica del Piso de Derechos, decida la situación y proporcione **Reparación y remediación** vías, incluso mientras la custodia o restricción comparable esté vigente.
-  - Bloqueos de legitimación debajo **Artículo XIX** (*Legitimación y estatus de participación*) y [Capítulo Diez §4.2 Prevención: bloqueos generales de legitimación](core_10_standing_integration.md#42-prevention--general-standing-locks) no **por ellos mismos** autorizar tales medidas; pueden funcionar junto a ellos cuando cada uno satisfaga sus propios requisitos constitucionales.
-- **Límites de las medidas de emergencia:** Las medidas de emergencia que restrinjan el movimiento, la migración o el refugio están sujetas a **Capítulo Doce §6.1** (*Medidas de emergencia y carga de continuación*) disciplina de medidas de emergencia, que incluye:
+  - Bloqueos de legitimación debajo **Artículo XIX** (*Legitimación y estatus de participación*) y [Capítulo Once §4.2 Prevención: bloqueos generales de legitimación](core_11_standing_integration.md#42-prevention--general-standing-locks) no **por ellos mismos** autorizar tales medidas; pueden funcionar junto a ellos cuando cada uno satisfaga sus propios requisitos constitucionales.
+- **Límites de las medidas de emergencia:** Las medidas de emergencia que restrinjan el movimiento, la migración o el refugio están sujetas a **Capítulo Trece §6.1** (*Medidas de emergencia y carga de continuación*) disciplina de medidas de emergencia, que incluye:
   - límite de tiempo;
   - requisitos de predicados individualizados;
   - revisión proporcionada;
@@ -702,11 +757,15 @@ Este artículo establece los pisos para el movimiento, el refugio y la no apatri
   - regímenes de acreditación que funcionan como exclusión contraria a [No exclusión de sensibilidad](core_05_band_participation.md#sentience-non-exclusion);
   - regímenes de asignación que dirigen a los demandantes hacia servicios no equivalentes.
 - **Límites de este artículo:** Este artículo establece un piso de derechos.
-  - El procedimiento de reconocimiento entre federaciones se deja para el texto de implementación adoptado bajo **Capítulo Diecisiete**.
+  - El procedimiento de reconocimiento entre federaciones se deja para el texto de implementación adoptado bajo **Capítulo Dieciocho**.
   - Las decisiones sobre refugios por inhabitabilidad climática se dirigen al punto decidido por quien adopta este artículo y no deben leerse como una concesión o denegación de piso.
 
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
-### Artículo XXII: Gestión de la Comprensibilidad y la Complejidad
+- **Límites de la separación y de la legitimación:** la separación puede prohibir entornos o contactos concretos, pero no funcionar como exilio general, denegación de refugio, apatridia, confinamiento o bloqueo sistémico. Un bloqueo de legitimación **por sí solo** nunca autoriza prisión, detención ni otra restricción de libertad; se requiere el proceso judicial indicado arriba. Ambos pueden coexistir solo si cada uno satisface sus requisitos constitucionales independientes. Durante la custodia se mantienen el Piso de Derechos, la reparación y la equidad procesal.
+- **Piso de custodia:** las medidas satisfacen el **Artículo XX-B** (*Pisos de restricción*), incluido el [piso de condiciones de custodia](../../core_06_rights_part_d.md#xx-b-conditions-of-custody), además de las protecciones aplicables de proceso penal o equivalente del Capítulo Once §5.4.
+- **La legitimación no es una frontera:** el estatus de participación, las barreras o habilitaciones de competencia y los bloqueos regulan la elegibilidad para vías nombradas. Si el riesgo verificado lo exige, un bloqueo puede separar de entornos, redes o sintientes concretos dentro de los [límites de separación](../../core_11_standing_integration.md#51-separation-limits) del Capítulo Once §5.1. Pero ni la etiqueta de legitimación ni el bloqueo de separación **por sí solos** limitan los derechos de movimiento, migración, refugio, portabilidad, salida o ausencia de apatridia.
+<a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
+### Artículo XXIII: Gestión de la Comprensibilidad y la Complejidad
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -733,7 +792,7 @@ Este artículo establece los pisos para el movimiento, el refugio y la no apatri
 
 <br>
 
-*En términos sencillos: **Artículo XXII** (*Comprensibilidad y Administración de la Complejidad*) es el Piso de Derechos de comprensibilidad: cuando un sistema afecta materialmente su vida, usted tiene derecho a comprender realmente cómo funciona, cuáles son sus límites y qué sucede cuando falla. La complejidad no puede utilizarse como muro contra la participación, la auditoría o la rendición de cuentas. Los administradores tampoco pueden acumular complejidad innecesaria que haga perder el tiempo a todos sin un beneficio constitucional real.*
+*En términos sencillos: **Artículo XXIII** (*Comprensibilidad y Administración de la Complejidad*) es el Piso de Derechos de comprensibilidad: cuando un sistema afecta materialmente su vida, usted tiene derecho a comprender realmente cómo funciona, cuáles son sus límites y qué sucede cuando falla. La complejidad no puede utilizarse como muro contra la participación, la auditoría o la rendición de cuentas. Los administradores tampoco pueden acumular complejidad innecesaria que haga perder el tiempo a todos sin un beneficio constitucional real.*
 
 Este artículo establece **pisos constitucionales** para la gestión de la comprensibilidad y la complejidad bajo el [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -758,7 +817,8 @@ La disciplina de gestión de la complejidad, el acceso en lenguaje sencillo y la
   - [Capítulo Uno §13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*excepciones de simplificación y minimización de cargas evitables*);
   - [Capítulo Uno Parte C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*comprensión distribuida basada en la materialidad y la dependencia*).
 <a id="article-xxii-a-proportional-comprehensibility-right"></a>
-#### Artículo XXII-A: Derecho de Comprensibilidad Proporcional
+<a id="article-xxiii-a-proportional-comprehensibility-right"></a>
+#### Artículo XXIII-A: Derecho de Comprensibilidad Proporcional
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -790,7 +850,8 @@ Este artículo establece el piso de comprensibilidad proporcional:
 
   Esa comprensión debe alcanzar niveles proporcionales al rol, la clasificación y el riesgo. No debe limitarse a áreas exclusivas de especialistas donde una mayor rendición de cuentas o participación está materialmente implicada.
 <a id="article-xxii-b-complexity-audit-and-modularity-requirements"></a>
-#### Artículo XXII-B: Auditoría de Complejidad y Requisitos de Modularidad
+<a id="article-xxiii-b-complexity-audit-and-modularity-requirements"></a>
+#### Artículo XXIII-B: Auditoría de Complejidad y Requisitos de Modularidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -828,7 +889,8 @@ Este artículo establece los pisos para las auditorías de complejidad, modulari
 
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
 
-### Artículo XXIII: Análisis de causa raíz y respuesta adaptativa
+<a id="article-xxiv-root-cause-analysis-and-adaptive-response"></a>
+### Artículo XXIV: Análisis de causa raíz y respuesta adaptativa
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -851,7 +913,7 @@ Este artículo establece los pisos para las auditorías de complejidad, modulari
 
 <br>
 
-*En términos sencillos: **Artículo XXIII** (*Análisis de causa raíz y respuesta adaptativa*) es el piso para encontrar el problema real y solucionarlo correctamente. Cuando algo se rompe, se degrada o sigue fallando, tienes derecho a algo más que un comunicado de prensa o una curita. Los sistemas deben descubrir qué causó realmente el daño (incluidas las causas que aparecen tarde o se acumulan con el tiempo), abordar esas causas donde puedan y dejar un registro que otros puedan verificar y cuestionar. Se permite una contención rápida; Las soluciones permanentes sin un diagnóstico honesto no lo son.*
+*En términos sencillos: **Artículo XXIV** (*Análisis de causa raíz y respuesta adaptativa*) es el piso para encontrar el problema real y solucionarlo correctamente. Cuando algo se rompe, se degrada o sigue fallando, tienes derecho a algo más que un comunicado de prensa o una curita. Los sistemas deben descubrir qué causó realmente el daño (incluidas las causas que aparecen tarde o se acumulan con el tiempo), abordar esas causas donde puedan y dejar un registro que otros puedan verificar y cuestionar. Se permite una contención rápida; Las soluciones permanentes sin un diagnóstico honesto no lo son.*
 
 Este artículo establece **pisos constitucionales** para el análisis de la causa raíz y la respuesta adaptativa bajo el [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -875,7 +937,8 @@ El rigor del diagnóstico debe seguir siendo auditable y cuestionable. Debe ser 
 - **Ciclo de vida y recuperación:** **Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*): la recuperación automática no debe suprimir la evidencia necesaria para el análisis de la causa raíz, de conformidad con la preferencia de este artículo por la reversibilidad.
 - **Enrutamiento de implementación:** **[corpus_systems.md](corpus_systems.md), CS-8** (*Sostenibilidad adaptativa y resiliencia del ecosistema*) y **CS-5** (*Diseño, prueba, verificación e implementación*): implementar una respuesta adaptativa sin sustituir los pisos de derechos establecidos aquí.
 <a id="article-xxiii-a-diagnostic-rigor-and-causal-attribution"></a>
-#### Artículo XXIII-A: Rigor diagnóstico y atribución causal
+<a id="article-xxiv-a-diagnostic-rigor-and-causal-attribution"></a>
+#### Artículo XXIV-A: Rigor diagnóstico y atribución causal
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -898,7 +961,7 @@ El rigor del diagnóstico debe seguir siendo auditable y cuestionable. Debe ser 
 
 Este artículo establece la documentación y los pisos de desafío para los hallazgos de causa raíz:
 
-- **Documentación y auditoría:** Lo siguiente debe estar documentado y auditable (**Artículo XVI-A** (*Auditabilidad y Evidencia Observable*); **Artículo XXIII** (*Análisis de causa raíz y respuesta adaptativa*)):
+- **Documentación y auditoría:** Lo siguiente debe estar documentado y auditable (**Artículo XVI-A** (*Auditabilidad y Evidencia Observable*); **Artículo XXIV** (*Análisis de causa raíz y respuesta adaptativa*)):
   - conclusiones sobre la causa raíz;
   - niveles de confianza;
   - incertidumbres materiales;
@@ -908,7 +971,8 @@ Este artículo establece la documentación y los pisos de desafío para los hall
   - impugnación, verificación independiente y corrección según **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*), **Artículo XIII-B** (*Derecho a Reparación y Remedio*), y **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*);
   - obligaciones de impugnabilidad en **Artículo XV** (*Integridad de la esfera de la información*) donde está implicada la integridad epistémica.
 <a id="article-xxiii-b-auditability-challenge-and-reversibility-preference"></a>
-#### Artículo XXIII-B: Preferencia de Auditabilidad, Impugnación y Reversibilidad
+<a id="article-xxiv-b-auditability-challenge-and-reversibility-preference"></a>
+#### Artículo XXIV-B: Preferencia de Auditabilidad, Impugnación y Reversibilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -941,7 +1005,8 @@ Este artículo establece la preferencia de reversibilidad y su protección contr
 
 <a id="article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
 
-### Artículo XXIV: Interpretación, revisión y salvaguardias constitucionales contra la captura
+<a id="article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
+### Artículo XXV: Interpretación, revisión y salvaguardias constitucionales contra la captura
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -965,7 +1030,7 @@ Este artículo establece la preferencia de reversibilidad y su protección contr
 
 <br>
 
-*En términos sencillos: **Artículo XXIV** (*Interpretación, revisión y salvaguardias contra la captura constitucional*) es el foro de quién puede decir qué significa la constitución. Cuando surgen cuestiones constitucionales, la respuesta debe provenir de los foros constitucionales designados, no de quien sea más ruidoso, más poderoso o más conveniente para la institución. Sus decisiones deben estar escritas con razones reales, abiertas a un desafío independiente y protegidas contra la captura por parte de un solo bloque. No pueden ampliar su propio poder, cerrar la revisión o utilizar la "reestructuración" para castigar la disidencia.*
+*En términos sencillos: **Artículo XXV** (*Interpretación, revisión y salvaguardias contra la captura constitucional*) es el foro de quién puede decir qué significa la constitución. Cuando surgen cuestiones constitucionales, la respuesta debe provenir de los foros constitucionales designados, no de quien sea más ruidoso, más poderoso o más conveniente para la institución. Sus decisiones deben estar escritas con razones reales, abiertas a un desafío independiente y protegidas contra la captura por parte de un solo bloque. No pueden ampliar su propio poder, cerrar la revisión o utilizar la "reestructuración" para castigar la disidencia.*
 
 Este artículo establece **pisos constitucionales** para autoridad interpretativa, revisión y salvaguardias anti-captura bajo el [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -985,10 +1050,11 @@ Final **constitucional** La interpretación debe seguir siendo autorizada, limit
 
 - **Supervisión del foro:** [Capítulo Doce](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) — El encaminamiento y supervisión foro-familia constitucional implementa este artículo sin sustituir los pisos interpretativos aquí establecidos por el proceso de foro.
 - **Desafío y justicia:** **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) y [**Artículo XX**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Justicia después de una violación verificada*): la revisión interpretativa debe preservar los derechos de impugnación y las limitaciones de la justicia sin reducir esos pisos.
-- **Sin atrincheramiento:** [**Artículo XXVI-A** (*No Atrincheramiento y Revisabilidad*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — la revalidación periódica conforme a las disposiciones de deportación por causa justificada de este artículo se lee con una disciplina de no atrincheramiento.
+- **Sin atrincheramiento:** [**Artículo XXVII-A** (*No Atrincheramiento y Revisabilidad*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — la revalidación periódica conforme a las disposiciones de deportación por causa justificada de este artículo se lee con una disciplina de no atrincheramiento.
 - **Ruta institucional:** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Nombramiento, competencia, rotación y remoción*) y **CI-5** (*Integridad de conflictos, anticaptura y anticorrupción*): implementar controles de composición y conflictos sin sustituir los Pisos de Derechos establecidos aquí.
 <a id="article-xxiv-a-bounded-interpretive-mandate"></a>
-#### Artículo XXIV-A: Mandato Interpretativo Acotado
+<a id="article-xxv-a-bounded-interpretive-mandate"></a>
+#### Artículo XXV-A: Mandato Interpretativo Acotado
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1024,7 +1090,8 @@ Este artículo establece el mandato acotado de los foros constitucionales y sus 
   - suspender las vías de desafío;
   - desplazar a los propietarios de implementación designados, excepto cuando **constitucional** La cuestión en sí requiere que la determinación bajo el **Pila de autoridad y jerarquía interna** grupo.
 <a id="article-xxiv-b-composition-rotation-and-conflict-controls"></a>
-#### Artículo XXIV-B: Composición, Rotación y Controles de Conflictos
+<a id="article-xxv-b-composition-rotation-and-conflict-controls"></a>
+#### Artículo XXV-B: Composición, Rotación y Controles de Conflictos
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1060,7 +1127,8 @@ Este artículo establece la composición, los pisos anticaptura y control de con
   - control encubierto.
 - **Ruta institucional:** Vías de nombramiento detalladas, controles de rotación y procedimientos de conflicto/recusación para **foro constitucional** Los paneles se rigen por **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Nombramiento, competencia, rotación y remoción*) y **CI-5** (*Integridad de conflictos, anticaptura y anticorrupción*).
 <a id="article-xxiv-c-public-reasons-challenge-rights-and-external-review"></a>
-#### Artículo XXIV-C: Razones públicas, derechos de impugnación y revisión externa
+<a id="article-xxv-c-public-reasons-challenge-rights-and-external-review"></a>
+#### Artículo XXV-C: Razones públicas, derechos de impugnación y revisión externa
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1104,7 +1172,8 @@ Este artículo establece los suelos para la causa pública, la impugnación inde
   - calidad de la decisión;
   - Integridad del Piso de Derechos.
 <a id="article-xxiv-d-removal-for-cause-and-non-entrenchment"></a>
-#### Artículo XXIV-D: Remoción por causa justificada y no atrincheramiento
+<a id="article-xxv-d-removal-for-cause-and-non-entrenchment"></a>
+#### Artículo XXV-D: Remoción por causa justificada y no atrincheramiento
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1133,7 +1202,7 @@ Este artículo establece las causales de remoción de los panelistas, su revalid
   - corrupción;
   - captar la participación;
   - persistente injusticia procesal.
-- **Revalidación periódica:** **foro constitucional** diseño institucional – y **instituciones adoptantes** que rigen su composición, operación y vías de desafío, deben ser revalidados periódicamente bajo [**Artículo XXVI-A** (*No Atrincheramiento y Revisabilidad*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) (*No Atrincheramiento y Revisabilidad*). **Instituciones adoptantes** debe revisar ese diseño cuando se evidencie materialmente el riesgo de captura o el fracaso de los derechos de impugnación.
+- **Revalidación periódica:** **foro constitucional** diseño institucional – y **instituciones adoptantes** que rigen su composición, operación y vías de desafío, deben ser revalidados periódicamente bajo [**Artículo XXVII-A** (*No Atrincheramiento y Revisabilidad*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) (*No Atrincheramiento y Revisabilidad*). **Instituciones adoptantes** debe revisar ese diseño cuando se evidencie materialmente el riesgo de captura o el fracaso de los derechos de impugnación.
 - **Anti-pretexto:** **Autoridades nominadoras**, **Foros constitucionales**, y **instituciones adoptantes** no debe utilizar la eliminación, reestructuración o rediseño de **foro constitucional** paneles o instituciones como pretexto para:
   - derrotar la independencia;
   - rescindir la revisión pendiente;

@@ -91,35 +91,6 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### การวัดความทันเวลา
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*กล่าวอย่างง่าย ๆ: คำถามเหล่านี้ตรวจสอบว่าปัญหาเดินหน้าได้ทันเวลาจริงหรือไม่ ไม่ใช่เพียงดูว่าหน้าจอแสดงปริมาณงานหรือไม่ ส่วนนี้เป็นที่ตั้งของกลุ่มการวัดความทันเวลาในบทที่ห้า §2 ของบทนำ (ภาพรวมการวัด) คงคำถามแบบเข้าใจง่ายของหมวดไว้ ส่วนตารางกลุ่มและทางไปยังคำนิยามอยู่ที่นี่*
-
-*ความมีนัยสำคัญ ([Materiality](core_05_band_oversight.md#materiality)) เป็นองค์ประกอบบูรณาการ ไม่ใช่หมวดแยก โดยปรับระดับการใช้กลุ่มนี้ตาม [material stake](core_00_preamble.md#material-stake)*
-
-| กลุ่มการวัด | คำถามอย่างง่าย | การใช้ตามรัฐธรรมนูญหลัก |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | ข้อพิพาทได้รับการแก้ไขในขณะที่การเยียวยายังมีความหมายหรือไม่? | ป้องกันไม่ให้ความล่าช้าทำให้สิทธิกลวงเปล่า |
-| วินัยต่อต้านความล่าช้าและกำกับเส้นทางการแก้ไข | แรงจูงใจและโครงสร้างหลีกเลี่ยงการค้างงานโดยเจตนา การครอบงำ และกำหนดเวลาที่ไร้ผลหรือไม่? | ตรวจจับระบบการถ่วงเวลาและ [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways) |
-
-มาตรวัดเหล่านี้ถามว่ากรอบเวลาของกระบวนการ เส้นทางการแก้ไข และความเร็วในการซ่อมแซมทำให้เสาหลัก **ความทันเวลา** ของ [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) เป็นจริงในทางปฏิบัติ ไม่ใช่เพียงบนกระดาษหรือไม่
-
-**ไฟล์ก่อนหน้า:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**ไฟล์ถัดไป:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### การวัดความทันเวลา

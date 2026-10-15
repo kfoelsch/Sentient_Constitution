@@ -634,6 +634,45 @@ flowchart TB
 
 <br>
 
+<a id="176-portable-competence"></a>
+#### 17.6 قابلِ انتقال مہارت
+<details>
+<summary><strong><span style="color: #2563eb;">نشان دہی</span></strong></summary>
+
+- سابقہ بنیاد: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (سیکھنے اور عملی کام کے درمیان کردار کی دو صورتیں); [§16.2 Institutional Development](#162-institutional-development) (برقرار رکھی گئی صلاحیت); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (ریکارڈ کردار کا ہے).
+- [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) کے ساتھ پڑھیں: متعدد نگرانوں کے ذریعے جانچ کی **نگرانی**؛ افعال کے جوڑ سمیت مسئلے کو جلد دیکھنے کی **بروقتی**؛ بااثر کام تک کھلے راستوں کی **شرکت**؛ [material stake](core_00_preamble.md#material-stake) کے مطابق پیمانہ۔
+- [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship)، [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence)، [§19.3 Misalignment Detection](#193-misalignment-detection) (متعدد ذرائع سے شناخت)، اور [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response) کے ساتھ پڑھیں۔
+- حدود: [§18.3 Segregation of Duties](#183-segregation-of-duties) اور [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (کسی نشست کو سیکھنا اسے سنبھالنا نہیں); [Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances); [§17.5 Duty to Resist](#175-duty-to-resist); [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- آگے عمل درآمد: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) (سنجیدہ جاندار کی سطح پر ناکامی کا واحد نقطہ نہ ہو); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
+
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Institutional Development](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Distributed Understanding](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+*سادہ الفاظ میں:* کوئی اہم کام صرف ایک ذی شعور کے ذہن پر منحصر نہ ہو۔ نظام اور دوسروں کا اس پر انحصار جتنا بڑھتا ہے، ذمہ دار افراد کو کام حوالے کرنے، سمجھانے، ایک دوسرے کے کام کی جانچ اور ملحقہ کاموں کے جوڑ پر مسئلہ پہچاننے کی اتنی ہی زیادہ صلاحیت چاہیے۔ یہ کوریج اور سمجھ کی کم از کم سطح ہے؛ ہر شخص کو ہر کام میں باری باری لگانا لازم نہیں۔
+
+اہم کردار کی مہارت کردار اور اس پر انحصار کرنے والی برادریوں کی ہے، کسی ایک نگران کی نہیں؛ اسے اہمیت اور انحصار کے مطابق رکھا جائے:
+- **کوریج:** ایک سے زیادہ اہل ذی شعور کردار انجام دے اور سمجھا سکیں۔ ایک ہی سبب سے ناکام ہونے والا متبادل شمار نہیں؛ AI کے اسی نقص والے نظام کی دوسری نقل بھی متبادل نہیں۔
+- **حوالگی کی مشق:** دستاویز اکیلی مہارت کی منتقلی کا ثبوت نہیں۔ جانشینی اور حوالگی کی مشق ہو؛ خلا درج اور درست کیا جائے۔
+- **جوڑ سمجھنا:** ملحقہ کاموں کے نگران ایک دوسرے کا کام اتنا جانیں کہ چھوٹی ہوئی حوالگی یا ایک طرف درست دکھائی دینے والا مگر دوسری طرف نقصان دہ پیمانہ پہچان سکیں۔ یہ سمجھ ہے، اختیار نہیں۔
+- **تبادلہ ایک ذریعہ:** سلامتی اور رضامندی اجازت دیں تو سیکھنے یا کوریج کے لیے تبادلہ، مشاہداتی تربیت، جوڑی میں کام یا عارضی متبادل ہو سکتا ہے؛ مہارت بننے کی رفتار سے تیز نہیں۔ کام اتنا نہ بانٹا جائے کہ کوئی ماہر نہ بنے۔
+
+**حدود:** جانچ کی نشست اپنے کیے ہوئے کام سے الگ رہے۔ پابند یا حفاظتی کردار سے پہلے اہلیت پوری ہو؛ تب تک زیرِ نگرانی سیکھنے کا کردار ہو۔ اختلاف یا محفوظ رپورٹ کرنے والے نگران کو ہٹانے کے لیے تبادلہ یا دوبارہ تربیت استعمال نہ ہو۔ سمجھ رسائی نہیں: رازداری، سلامتی، کم سے کم اختیار اور کردار کا ریکارڈ برقرار رہیں۔ سب کو ہر کردار میں گھمانا لازم نہیں؛ جائز تخصص محفوظ ہے اور کوشش قابلِ اجتناب بوجھ کے مطابق ہو۔ چھوٹا گروہ قابلِ اعتماد افراد کے باہمی متبادل سے پورا کر سکتا ہے۔ یہ فرض انسانی اور AI نگران دونوں پر یکساں ہے۔
+
+---
+
 <a id="18-governance-under-stewardship-discipline"></a>
 ### 18. امانت داری کے نظم کے تحت حکمرانی
 

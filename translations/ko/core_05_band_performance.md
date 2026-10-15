@@ -38,33 +38,6 @@
 
 <a id="performance-measurement-family"></a>
 
-### 헌법상 성과 측정 (Preamble measurement family)
-
-*쉽게 말해, 이 질문들은 감각 있는 존재의 시간, 노력, 자원을 낭비하지 않으면서 헌법적 결과를 실제로 제공하는지 살펴봅니다.*
-
-*이곳은 제5장의 헌법상 성과 측정군이 자리하는 곳입니다. 서문 §2는 개요 표에 범주의 쉬운 질문을 남기고, 측정군 표와 헌법상 용도, 정의 안내는 여기에 둡니다.*
-
-*중요성([Materiality](core_05_band_oversight.md#materiality))은 통합 요소이지 별도 측정 범주가 아닙니다. [material stake](core_00_preamble.md#material-stake)에 따라 적용 강도를 조정합니다.*
-
-| 측정군 | 쉬운 질문 | 주요 헌법상 용도 |
-|---|---|---|
-| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | 헌법적 결과가 실제로 제공되고 있는가? | 대리 지표가 실질적 보호를 대신하지 못하게 합니다. |
-| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | 시스템이 감각 있는 존재의 시간, 노력, 자재, 기반시설, 에너지를 낭비하는가? | 불필요한 마찰을 줄입니다. |
-| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | 감각 있는 존재와 시스템이 정렬된 결과를 계속 만들어 낼 수 있는가? | 생태적 부담을 다른 곳으로 떠넘기지 않고 지속 가능한 역량을 보호합니다. |
-
-이 교차 측정은 시스템이 헌법적 결과를 효과적으로 제공하고, 무의미한 낭비를 피하며, 정렬된 결과를 계속 만들어 낼 역량을 보존하는지 묻습니다. 이는 [**Flourishing**](core_00_preamble.md#flourishing)과 [**Continuity**](core_00_preamble.md#continuity) 모두에 중요합니다.
-
-- 운영상 측정 단계는 제5장의 정의 항목에 있습니다: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty)를 참조하십시오.
-- 성과 목표, 보상, 자원 측정은 헌법적 결과까지 추적 가능한 범위에서만 유효합니다.
-- 헌법상 효율성, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity), 권리 최저선 준수를 대신할 수 없습니다.
-- 시스템 전체의 성과가 실질적으로 중요한 경우 [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)부터 [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)까지 읽으십시오.
-
----
-
-**이전 파일:** [core_05_band_participation.md](../../core_05_band_participation.md)
-
-**다음 파일:** [core_07_charters.md](../../core_07_charters.md)
-
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### 헌법 성과를 측정하기 (전문 측정 가족)
 

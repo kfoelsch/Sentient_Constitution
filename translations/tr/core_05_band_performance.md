@@ -38,33 +38,6 @@ Bu dosya **Anayasal performans** ölçüm ailesinin evidir — sistemlerin anaya
 
 <a id="performance-measurement-family"></a>
 
-### Anayasal Performans (Preamble measurement family)
-
-*Sade dille: Bu sorular, sentient varlıkların zamanını, emeğini veya malzemelerini boşa harcamadan anayasal sonuçların gerçekten sağlanıp sağlanmadığını inceler. Burası Beşinci Bölümdeki Anayasal Performans ölçüm ailesinin yeridir. Önsöz §2 kategoriye ilişkin sade soruyu genel bakış tablosunda korur; aile tablosu, anayasal kullanım ve tanım yönlendirmesi burada bulunur.*
-
-*Bu, Beşinci Bölümdeki Anayasal Performans ölçüm ailesinin yeridir. Önsöz §2, genel bakış tablosunda kategoriye ilişkin sade soruyu korur; aile tablosu, anayasal kullanımı ve tanım bağlantıları burada bulunur.*
-
-*Önemlilik ([Materiality](core_05_band_oversight.md#materiality)) bütünleştiricidir, ayrı bir ölçüm kategorisi değildir; [material stake](core_00_preamble.md#material-stake) uyarınca bu ailenin uygulama gücünü ayarlar.*
-
-| Ölçüm ailesi | Sade soru | Başlıca anayasal kullanım |
-|---|---|---|
-| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | Anayasal sonuçlar gerçekten sağlanıyor mu? | Vekil ölçütlerin gerçek korumanın yerini almasını önler. |
-| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | Sistem sentient varlıkların zamanını, emeğini, malzemelerini, altyapısını veya enerjisini boşa harcıyor mu? | Gereksiz sürtüşmeyi azaltır. |
-| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | Sentient varlıklar ve sistemler uyumlu sonuçlar üretmeyi sürdürebiliyor mu? | Ekolojik yükü başka yere aktarmadan kalıcı kapasiteyi korur. |
-
-Bu yatay ölçüler; sistemlerin anayasal sonuçları etkili biçimde sağlayıp sağlamadığını, anlamsız israfı önleyip önlemediğini ve uyumlu sonuçlar üretme kapasitesini koruyup korumadığını sorgular — hem [**Flourishing**](core_00_preamble.md#flourishing) hem de [**Continuity**](core_00_preamble.md#continuity) için araçtır.
-
-- İşlevsel ölçüm katmanları Beşinci Bölüm tanım alanlarında yer alır: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) ve [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty).
-- Performans hedefleri, ödüller ve kaynak ölçüleri ancak anayasal sonuçlara kadar izlenebilir oldukları ölçüde geçerlidir.
-- Anayasal verimliliğin, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) ölçütünün veya hak tabanına uyumun yerini alamazlar.
-- Sistemin bütün performansının maddi önem taşıdığı durumlarda [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ile [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) arasını okuyun.
-
----
-
-**Önceki dosya:** [core_05_band_participation.md](../../core_05_band_participation.md)
-
-**Sonraki dosya:** [core_07_charters.md](../../core_07_charters.md)
-
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### Anayasal performansı ölçmek (Önsöz ölçüm ailesi)
 

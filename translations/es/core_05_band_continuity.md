@@ -4328,6 +4328,158 @@ Véase **Invocación conjunta y satisfacción**.
 
 ---
 
+<a id="full-certification"></a>
+#### Certificación plena
+
+- **Dentro del alcance:** Estado de certificación de un sistema que, tras certificación provisional, completó las recertificaciones provisionales limpias consecutivas requeridas y en su recertificación más reciente no mostró desalineación vigente ni indicadores de vigilancia que apunten a una desalineación inminente. Se mantiene conforme a la cadencia de recertificación proporcional a su clase, tiene plazo definido y puede reabrirse.
+- **Fuera del alcance:** [Certificación provisional](core_05_band_continuity.md#provisional-certification), certificación condicional (que puede acompañar cualquiera de los estados), permiso permanente, puntuación de reputación o efecto de trayectoria; solo el [Capítulo Diez](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) decide la trayectoria.
+- El piso de recertificaciones limpias, reducción de estado y plazos de respuesta están en [Capítulo Nueve, Parte B §9.2](../../core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification).
+<a id="full-certification-a"></a>
+- **Evaluación:** Compruebe que se completó el número de recertificaciones limpias fijado para la clase; que no hay desalineación vigente (abierta, defecto sin corregir, revisión vencida o regresión fallida); y que los indicadores y tendencias del registro no han cruzado ni apuntan hacia un umbral, son revisables de forma independiente y no están definidos para ocultar desalineación.
+<a id="full-certification-c"></a>
+- **Falla primaria:** otorgarla antes del piso requerido o pese a desalineación o señales de inminencia; mantenerla tras recertificación fallida o reapertura con hallazgo de desalineación; definir indicadores incapaces de señalarla; o usarla para omitir o retrasar una reapertura.
+
+<a id="go-live"></a>
+#### Inicio de operación
+
+*En términos sencillos: ocurre cuando un sistema deja de estar en construcción o prueba y empieza a afectar a personas sentientes o a ser objeto de dependencia material. Se juzga por su operación real, no por el nombre del lanzamiento.*
+
+- **Dentro del alcance:** Primer funcionamiento que [afecta materialmente](core_05_band_oversight.md#material-impact) a personas sentientes o en el que estas depositan [dependencia](core_05_band_continuity.md#dependency), sea como [piloto](core_05_band_continuity.md#pilot) o despliegue completo. Cada piloto, despliegue completo posterior y expansión material más allá del alcance, población o duración certificados constituye un inicio propio para la parte ampliada. Las etiquetas «beta», «prueba», «vista previa», «acceso anticipado» o «experimental», la fecha de anuncio y los hitos internos no determinan el inicio.
+- **Fuera del alcance:** Desarrollo, pruebas, validación, puesta en escena o simulación sin efecto real ni dependencia; sistemas sin efecto ni dependencia materiales; sistemas ya operativos al entrar en vigor el instrumento de adopción, regidos por la transición del **Artículo XXVIII-A**; y cambios ordinarios que no amplían materialmente el sistema.
+- El control previo, plazo de aviso y verificación de condiciones están en [Capítulo Nueve, Parte B §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+<a id="go-live-a"></a>
+- **Evaluación:** Determine la fecha según el primer efecto o dependencia material real, no etiquetas ni anuncios; compruebe que no hubo operación con efectos antes de la fecha permitida del [Registro de Certificación del Sistema](core_05_band_continuity.md#system-certification-record); y trate el piloto, despliegue completo y expansión material como inicios separados.
+<a id="go-live-c"></a>
+- **Falla primaria:** iniciar operación antes de satisfacer el control del Capítulo Nueve, Parte B §7; cambiar la etiqueta de una operación activa para ocultar el inicio; fraccionar una puesta en marcha para evadir el control; o tratar una expansión material como continuación y fijar la fecha retrospectivamente.
+
+<a id="institutional-alignment-certification"></a>
+#### Certificación de alineación institucional
+
+*En términos sencillos: examen independiente de una institución, no de cada uno de sus sistemas. Comprueba su práctica, rendición de cuentas de sus cargos, incentivos y custodia del registro; cita las certificaciones vigentes de sus sistemas sin repetirlas. Nunca es licencia para operar.*
+
+- **Dentro del alcance:** Proceso supervisado por un foro y el [Registro de Certificación Institucional](core_05_band_continuity.md#institutional-certification-record) que genera. Para alcance, clase, periodo y cadencia indicados, determina si una [Institución](core_05_band_continuity.md#institution) está alineada. Comprueba: concordancia entre práctica y [Carta Institucional](core_05_band_continuity.md#institutional-charter) y la razón de su cartera; atribución de autoridad a cargos responsables; incentivos alineados; operación del [Mapa de Roles de la Carta](core_05_band_continuity.md#charter-role-map), custodia y vía independiente; y vigencia y consecuencias de la certificación de cada sistema operado. Cita por enlace cada certificación propia del sistema y usa resultados, estados y reapertura equivalentes a los de certificación de alineación del sistema.
+- **Fuera del alcance:** Certificación de un sistema (que pertenece a ese sistema y no se repite ni revoca aquí); permiso para formar, integrar u operar una institución (protegido por el [Artículo XI-E](../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)); derivación entre foros; [Registro de trayectoria](core_05_band_accountability.md#standing-record) o efecto de trayectoria.
+- El deber de certificarse, evaluación, puestos, transmisión de fallas y reapertura se establecen en [Capítulo Nueve, Parte D](../../core_09_d_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification).
+<a id="institutional-alignment-certification-a"></a>
+- **Evaluación:** Verifique que instituciones de Clase L o superior tengan registro vigente o estén dentro del plazo para primera certificación; que cada hallazgo de sistema cite su propio registro y no una segunda evaluación; que se contrastó la práctica observada con la Carta; que fallas, retiros o vencimientos de certificación de sistemas se reflejaron según la regla de transmisión; y que el proceso no condicionó la formación ni operación institucional.
+<a id="institutional-alignment-certification-c"></a>
+- **Falla primaria:** emplearla como licencia, puerta o umbral de autorización; reevaluar un sistema o cambiar su resultado dentro del examen institucional; o presentarse como certificada sin examinar la Carta, cartera o incentivos que realmente operan. **Falla secundaria:** leer solo el texto de la Carta, no transmitir fallas de certificación de sistemas, ubicar foro principal u oficina de registro bajo el control de la institución, o mantener un registro sin plazo, impugnación o divulgación. **Falla terciaria:** dividir una institución o su cartera para evitar la clase que exige certificación.
+
+<a id="institutional-certification-record"></a>
+#### Registro de Certificación Institucional
+
+- **Dentro del alcance:** Registro delimitado y revisable que produce la [Certificación de Alineación Institucional](core_05_band_continuity.md#institutional-alignment-certification). Es el [Registro de Acto Materialmente Vinculante](../../core_05_band_accountability.md#materially-binding-act-record) de ese acto y debe identificar institución, alcance, clase, periodo, foro, puestos, hallazgos, sistemas certificados citados por enlace, resultado, condiciones, vigilancia, fecha de vigencia y reapertura, vencimiento, impugnación y custodios.
+- **Fuera del alcance:** La certificación de alineación de los sistemas individuales; el registro de trayectoria; una autorización permanente o evidencia de mérito no registrada.
+<a id="institutional-certification-record-a"></a>
+- **Evaluación:** Recorra una conclusión hasta la evidencia, evaluación, foro y titular del puesto que la autorizó; confirme enlaces actuales a los registros de sistema, límites de alcance, resultado y fechas; y compruebe que registro y custodia permiten una impugnación independiente.
+<a id="institutional-certification-record-c"></a>
+- **Falla primaria:** registro ausente, oculto, sin plazo o que no documenta alcance, fundamentos, resultado, condiciones y revisión. **Falla secundaria:** sustituir una certificación de sistema por el registro institucional o presentar el registro como licencia para operar.
+
+<a id="pilot"></a>
+#### Piloto
+
+*Un piloto es operación en vivo, a escala o bajo condiciones controladas. La etiqueta de experimento no exime de certificación ni de salvaguardas.*
+
+- **Dentro del alcance:** Despliegue limitado que ya puede afectar materialmente a personas sentientes o generar dependencia. Debe certificarse como piloto antes de operar, con límites de clase, escala, duración y reemplazabilidad, reversibilidad, vigilancia, vía de parada y deberes de informar incidentes. Un piloto también constituye [inicio de operación](core_05_band_continuity.md#go-live).
+- **Fuera del alcance:** Pruebas sin efecto ni dependencia en entornos de desarrollo, validación o simulación; experimento solo nominal que opera con efecto real; y despliegue completo, que requiere su propio control de inicio.
+- Las reglas para certificar y escalar pilotos están en [Capítulo Nueve, Parte A §2.2](../../core_09_a_system_alignment_certification_evaluation.md#22-pilot-certification), y se leen con [Capítulo Nueve, Parte B §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+<a id="pilot-a"></a>
+- **Evaluación:** Confirme certificación previa; límites explícitos y observables; evaluación de impacto y reemplazabilidad proporcional a clase; vigilancia y criterios de parada; fecha de inicio; y evidencia de que no se excedieron población, duración o alcance autorizados.
+<a id="pilot-c"></a>
+- **Falla primaria:** tratar el piloto como exento, ampliar sin autorización o permitir efecto material antes de la certificación; llamarlo prueba para evadir las reglas; o carecer de límites de parada y reversión. **Falla secundaria:** usar el piloto como autorización de despliegue completo.
+
+<a id="provisional-certification"></a>
+#### Certificación provisional
+
+- **Dentro del alcance:** Estado temporal, estrechamente vigilado, para un sistema nuevo o uno cuya recertificación no demuestra aún todo lo requerido para certificación plena. Está sujeto a condiciones, vigilancia, límites operativos, plazo y recertificación; no reduce los derechos ni los deberes aplicables.
+- **Fuera del alcance:** certificación plena, certificación condicional (que puede acompañar cualquier estado), permiso permanente, puntuación o efecto de trayectoria.
+- Los requisitos para obtener, conservar o perderla están en [Capítulo Nueve, Parte B §9.2](../../core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification).
+<a id="provisional-certification-a"></a>
+- **Evaluación:** Verifique razón y plazo, condiciones verificables, indicadores independientes, frecuencia de vigilancia adecuada a clase y riesgo, cumplimiento de condiciones y progreso hacia recertificación limpia.
+<a id="provisional-certification-c"></a>
+- **Falla primaria:** otorgarla sin necesidad demostrada, mantenerla después del vencimiento o de incumplir una condición, o usarla para sustituir vigilancia y recertificación. **Falla secundaria:** renovaciones repetidas que evitan el paso a plena o una resolución de desalineación.
+
+<a id="recertification"></a>
+#### Recertificación
+
+- **Dentro del alcance:** Revisión periódica y reabierta de la certificación de un sistema, a intervalos proporcionales a su clase, impacto y riesgo. Contrasta operación observada y evidencia actual con criterios vigentes, examina cambios y defectos, actualiza condiciones y estado, y deja un registro con hallazgos, motivos y siguiente fecha.
+- **Fuera del alcance:** supervisión diaria, certificación institucional de los sistemas de una cartera o reapertura extraordinaria por un disparador (aunque un disparador puede adelantar la recertificación).
+- Cadencia y resultados están en [Capítulo Nueve, Parte B §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes), junto con la evaluación de clase y garantía de [Parte A §2](../../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) y [CS-5.10](../../corpus_systems/cs_05_design_testing_verification_deployment.md#cs-510-recertification-regression-testing-and-certification-defects).
+<a id="recertification-a"></a>
+- **Evaluación:** Confirme fecha y cadencia adecuadas; cobertura de cambios y pruebas de regresión; evidencia actual independiente; resolución de hallazgos previos; condiciones y estado justificados; y reapertura cuando se active un disparador.
+<a id="recertification-c"></a>
+- **Falla primaria:** dejar vencer la revisión, repetirla sin prueba suficiente, ignorar defectos o cambios materiales, o mantener certificación después de una falla. **Falla secundaria:** fijar cadencias que no responden a clase, riesgo o evidencia de degradación.
+
+<a id="process"></a>
+#### Proceso
+
+- **Dentro del alcance:** Secuencia repetible de pasos, decisiones, registros, plazos o traspasos mediante la que se cumple un deber o función que afecta a personas sentientes. Es un Proceso si satisface las tres condiciones: se repite o está previsto que se repita en casos semejantes; tiene inicio y fin definidos o un resultado definido; y puede identificarse quién ejecuta cada paso y existe un registro de su ejecución.
+- **Fuera del alcance:** acción única o improvisada sin secuencia repetible; estándar que el Proceso debe cumplir, como Debido Proceso o Equidad Procesal; conjunto delimitado de componentes en operación (un Sistema); o titular duradero de autoridad, como un cargo u organización (una Institución).
+<a id="process-a"></a>
+- **Evaluación:** Identifique lo que se hace realmente, no la etiqueta; trace pasos, plazos, registros y cada traspaso. Compruebe que cada paso tiene actor identificable y registro, que los plazos y traspasos coinciden con lo publicado, y que cambiar la etiqueta, ruta, división o titular no elimina requisitos. Evalúelo dentro del alcance funcional completo del Sistema que lo ejecuta; hereda su clase y no se clasifica ni certifica por separado.
+<a id="process-c"></a>
+- **Qué debe sostenerse:** Los requisitos aplicables siguen vigentes aunque el Proceso se renombre, enrute de nuevo, divida, fusione, subcontrate o transfiera a otro titular. **Falla primaria:** tratar la secuencia como ajena a esta definición para eludir requisitos. **Falla secundaria:** evaluar solo parte de los pasos, plazos, registros o traspasos y dejar el resto fuera de revisión.
+
+<a id="institution"></a>
+#### Institución
+
+- **Dentro del alcance:** Titular duradero de autoridad o de una función organizada, que continúa cuando cambian sus integrantes. Un organismo es una Institución si cumple las tres condiciones: sobrevive a cada titular porque cargos, mandato o membresía continúan tras la rotación; posee un mandato, autoridad o recurso bajo su custodia que utiliza para decidir, actuar o mantener algo para otras personas o sobre ellas; y se puede identificar un cargo o custodio responsable de su actuación, incluido un sucesor cuando se reorganiza. La forma y el nombre jurídicos no determinan la clasificación.
+- **Fuera del alcance:** grupo puntual sin mandato o cargos continuos; Sistema (conjunto de componentes en operación); Proceso (secuencia repetible); o persona sentiente que actúa sola, aunque ocupe un cargo: el cargo es la Institución y su titular, el custodio.
+<a id="institution-a"></a>
+- **Evaluación:** Identifique la Institución por lo que decide, mantiene y controla realmente, no por su etiqueta o forma jurídica. Localice mandato, cargos, custodios y sucesión; compruebe que cada ejercicio de autoridad se atribuya a un cargo o custodio responsable, que el mandato practicado coincida con la Carta Institucional publicada o instrumento equivalente, y que reorganizar, renombrar, dividir, fusionar o reincorporar mantenga todos los deberes aplicables. Evalúe también quién ejerce control real fuera de los cargos formales.
+<a id="institution-c"></a>
+- **Qué debe sostenerse:** Cada deber institucional sigue su función al renombrarse, reorganizarse, sucederse, dividirse en filiales o cambiar de forma jurídica. **Falla primaria:** invocar forma, nombre o estructura para negar que un organismo con autoridad duradera es una Institución y eludir un deber. **Falla secundaria:** dejar autoridad ejercida en la práctica en manos de un actor al que ningún cargo o custodio responde.
+
+<a id="system-charter"></a>
+#### Carta del Sistema
+
+*Declaración pública y modificable del propósito, alcance y límites de un sistema; no reemplaza las reglas de decisión ni protege frente a la evaluación de sus efectos reales.*
+
+- **Dentro del alcance:** Instrumento público que establece propósito, actividades incluidas y límites materiales, comunidades o dependencias afectadas, autoridad de reforma y revisión periódica proporcional al [interés material](core_00_preamble.md#material-stake), [Proporcionalidad](core_05_band_accountability.md#proportionality) y gobierno escalado por clase. Incluye o enlaza el [Mapa de Roles de la Carta](core_05_band_continuity.md#charter-role-map), autoridad de apertura y custodia de registros de trayectoria, y —cuando rige admisión de elección vinculante— enlaces a reglas publicadas de secuencia, ponderación y registro de colisiones de derechos. Si una institución opera, custodia o controla materialmente un solo sistema que requiere carta, esta también sirve de Carta Institucional. Obligatoria desde Clase L y voluntaria en Clase P; el Capítulo Siete fija deberes y contenido mínimo.
+- **Fuera del alcance:** Carta Institucional para cartera de varios sistemas; [Carta Constitucional](core_05_band_continuity.md#constitutional-charter); eslóganes o publicidad; y las reglas operativas de elección vinculante que la carta solo enlaza.
+<a id="system-charter-a"></a>
+- **Evaluación:** Verifique carta donde se requiera; propósito y límites contrastables con la operación; cadencia y reformas adecuadas a clase, dependencia y riesgo; ausencia de desajuste material oculto; límites compatibles con fronteras reales del sistema; enlaces utilizables a reglas de elección vinculante; y separación independiente de autoridad de apertura y custodia de registros.
+<a id="system-charter-c"></a>
+- **Falla primaria:** operar materialmente fuera del alcance publicado o usar la carta como sustituto de fronteras o prueba de clase. **Falla secundaria:** carta requerida no publicada, revisión vencida, expansión silenciosa, reforma sin autoridad registrada, mapa o custodios ausentes/inactivos o bajo control del propio sujeto, o referencias de elección vinculante faltantes. **Falla terciaria:** usar la carta para eludir integridad de fronteras, clase o pisos de creación.
+
+<a id="institutional-charter"></a>
+#### Carta Institucional
+
+*Declaración pública de qué sistemas opera una institución y por qué; reúne las cartas de todos ellos y la razón de su cartera.*
+
+- **Dentro del alcance:** Instrumento público, modificable, de una [Institución](core_05_band_continuity.md#institution) que opera, custodia o controla materialmente varios sistemas, o ninguno que requiera Carta del Sistema. Define propósito y límites propios, reformas, revisión, Mapa de Roles y custodia; incorpora cada Carta del Sistema vigente y explica por qué la institución opera cada sistema, cómo se relacionan y qué dependencias comparten. Obligatoria desde Clase L y voluntaria en Clase P; Capítulo Siete fija su contenido y revisión.
+- **Fuera del alcance:** Carta del Sistema que basta cuando existe un solo sistema; Carta Constitucional; organigrama o informe no presentado como instrumento de alcance; y reglas operativas de elección vinculante que la carta debe enlazar.
+<a id="institutional-charter-a"></a>
+- **Evaluación:** Confirme que existe cuando se requiere o que la Carta del Sistema única cubre ambas funciones; que cada sistema tiene carta vigente; que la razón de cartera es específica y comprobable; que propósito, límites, autoridad y revisión concuerdan con clase, dependencia y riesgo; que la práctica coincide con sistemas y alcances publicados; y que la custodia de registros es independiente.
+<a id="institutional-charter-c"></a>
+- **Falla primaria:** operar un sistema no cubierto por carta vigente o tratar la Carta Institucional como frontera real o prueba de clase. **Falla secundaria:** carta requerida ausente, carta de sistema faltante/desactualizada, razón de cartera ausente o superada, sistema añadido o retirado sin reforma, revisión vencida, mapa obsoleto o custodia bajo control propio. **Falla terciaria:** usarla para eludir integridad de fronteras, clase o pisos de creación empresarial.
+
+<a id="constitutional-charter"></a>
+#### Carta Constitucional
+
+*Instrumento fundacional por el que una comunidad política autoriza a quienes la gobiernan. Responde por qué puede gobernar; las cartas de sistema e institución describen qué hacen esas entidades.*
+
+- **Dentro del alcance:** Instrumento que funda una comunidad política o autoriza su autoridad gobernante, adoptado con asentimiento registrado bajo la familia de tratado, pacto o Carta Constitucional del [Capítulo Catorce §1.1](../../core_14_governance.md#11-mechanism-families-auditability-and-pluralism). Un tratado o pacto con la misma función entre entidades miembro se interpreta igual.
+- **Fuera del alcance:** Carta del Sistema o Institucional; instrumento con el que se adopta esta Constitución; silencio, uso o marca ofrecidos como si fueran asentimiento.
+<a id="constitutional-charter-a"></a>
+- **Evaluación:** Verifique publicación, reglas activas comprobables, asentimiento registrado y trazable —no inferido de silencio, uso o marca— y vías reales para impugnar y, cuando sea posible, renovar o sustituir pacíficamente la autorización si se deteriora o captura.
+<a id="constitutional-charter-c"></a>
+- **Qué debe sostenerse:** La autoridad se apoya en Carta Constitucional u otro mecanismo documentado de legitimidad cuyo asentimiento conste y reglas puedan revisarse. **Falla primaria:** tratar silencio, uso o marca como asentimiento, o presentar una Carta del Sistema o Institucional como autorización para gobernar. **Falla secundaria:** asentimiento no registrado o no verificable, o ausencia de vía operativa de impugnación, renovación o sustitución.
+
+<a id="charter-role-map"></a>
+#### Mapa de Roles de la Carta
+
+*Lista pública y versionada, mantenida con la Carta, que dice quién puede ocupar cada puesto decisorio, qué cargos y custodios están autorizados y quién sustituye a una persona ausente o en conflicto. Ninguna parte elige a quien la verifica.*
+
+- **Dentro del alcance:** Asignación publicada y versionada de puestos para actos materialmente vinculantes dentro del alcance de una Carta del Sistema o Institucional (o publicada por separado por quien adopta voluntariamente en Clase P). Indica los actos cubiertos; cargos elegibles y custodios autorizados; arreglos permitidos de alojamiento común y sus salvaguardas; sustitución por ausencia, exclusión, captura o conflicto y vía independiente si no hay sustituto cualificado; versión, vigencia e historial.
+- **Fuera del alcance:** Tipos y límites de puestos fijados por [Capítulo Ocho §2](../../core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) y CI-4.6; organigrama o directorio sin asignación; normas de cualificación que el mapa registra pero no establece; y puestos asignados por enrutamiento constitucional, incluida la verificación/autorización de certificación de sistema.
+<a id="charter-role-map-a"></a>
+- **Evaluación:** Para un acto cubierto, trace la versión vigente y titulares de cada puesto; compruebe que verificación/autorización, registro e impugnación están fuera de la Línea de Control Material de la parte interesada; que titulares y suplentes están activos, cualificados y sin conflicto; que los cambios tienen autoridad, autor y fecha; y que vacantes o conflictos se registraron y remitieron a suplente o vía independiente, nunca al solicitante; y que cualquier actor que influya en la asignación sin autoridad formal para cambiarla se detecte según dónde reside realmente la autoridad.
+<a id="charter-role-map-c"></a>
+- **Qué debe sostenerse:** Puestos asignados, versionados y trazables con independencia de quién esté presente. **Falla primaria:** situar verificación/autorización, registro o impugnación bajo control de quien realiza el acto; permitir que esa parte cambie sola esas asignaciones; o usar una entrada inactiva, obsoleta o incompatible con habilitación o bloqueo de trayectoria como autoridad. **Falla secundaria:** cambio sin fecha o autor, mover un puesto durante un acto pendiente sin motivo registrado, dejar vacantes sin registro o no revisar el mapa a tiempo.
+
+---
+
 **Archivo anterior:** [core_05_band_accountability.md](core_05_band_accountability.md)
 
 **Siguiente archivo (este idioma):** [core_05_band_integrative.md](core_05_band_integrative.md)

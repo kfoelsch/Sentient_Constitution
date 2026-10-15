@@ -74,48 +74,6 @@
 ---
 
 <a id="accountability-measurement-family"></a>
-
-### जवाबदेही का मापन
-
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§11 Market Structure](core_01_a_values_principles.md#11-market-structure), and [Chapter Nine §3.3 Governance, Incentive, and Contestability Discipline](../../core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
-
-</details>
-
-<br>
-
-*सरल शब्दों में: ये प्रश्न पूछते हैं कि क्या पुरस्कार, बाज़ार और जवाबदेही की व्यवस्था व्यवहार में जवाबदेही को वास्तविक बनाए रखते हैं—सिर्फ कागज़ पर नहीं।*
-
-*यह अध्याय पाँच में जवाबदेही मापन परिवार का स्थान है। प्रस्तावना का §2 (मापों का अवलोकन) अवलोकन तालिका में श्रेणी से जुड़ा सरल प्रश्न रखता है; परिवार की तालिका, संवैधानिक उपयोग और परिभाषाओं के संदर्भ यहाँ हैं।*
-
-*भौतिकता ([Materiality](core_05_band_oversight.md#materiality)) एकीकृत है—यह अलग मापन श्रेणी नहीं है; [material stake](core_00_preamble.md#material-stake) के अनुसार यह तय करती है कि यह परिवार कितनी दृढ़ता से लागू होगा।*
-
-| मापन परिवार | सरल प्रश्न | मुख्य संवैधानिक उपयोग |
-|---|---|---|
-| प्रोत्साहन-संरेखण और प्रॉक्सी की अखंडता | क्या पुरस्कार और मेट्रिक्स वास्तविक संवैधानिक परिणामों के अनुरूप हैं? | विकृत प्रोत्साहनों, कब्ज़े और [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) का पता लगाता है; [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions) का मापन-रूप। |
-| बाज़ार संरचना और चुनौती देने की क्षमता | क्या प्रवेश, निकास, सौदेबाज़ी और विकल्प वास्तविक बने रह सकते हैं? | जहाँ क्षमता के दावे खुले बाज़ारों पर निर्भर हों, वहाँ एकाग्रता और प्रभुत्व-विरोधी अनुशासन लागू करता है। |
-
-ये माप पूछते हैं कि क्या पुरस्कार संरचनाएँ, बाज़ार की शक्ति और जवाबदेही व्यवहार में [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) के **जवाबदेही** पक्ष को वास्तविक बनाए रखते हैं।
-
-कार्यान्वयन योग्य मापन-स्तर अध्याय पाँच की परिभाषाओं में हैं:
-
-- [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
-- [Contestability](../../core_05_band_accountability.md#contestability)
-- [Market Structure](../../core_05_band_accountability.md#market-structure)
-- [Market Concentration Threshold](../../core_05_band_accountability.md#market-concentration-threshold)
-- [Protected Reporting (Whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
-- [Accountability](#accountability) (link-only leg-head rollup)
-
----
-
-**पिछली फ़ाइल:** [core_05__definitions_home.md](core_05__definitions_home.md)
-
-**अगली फ़ाइल:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
 <a id="measuring-accountability"></a>
 
 ### जवाबदेही मापना

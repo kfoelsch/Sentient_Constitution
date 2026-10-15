@@ -89,10 +89,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [நம்பகத்தன்மை](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [நம்பிக்கை](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [நலவாழ்வு](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [சார்பு](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [நம்பகத்தன்மை](../../core_05_band_continuity.md#trustworthiness) · [O](../../core_05_band_continuity.md#trustworthiness) · [M](../../core_05_band_continuity.md#trustworthiness-a) · [A](../../core_05_band_continuity.md#trustworthiness-a) · [C](../../core_05_band_continuity.md#trustworthiness-c)
+- [நம்பிக்கை](../../core_05_band_continuity.md#trust) · [O](../../core_05_band_continuity.md#trust) · [M](../../core_05_band_continuity.md#trust-a) · [A](../../core_05_band_continuity.md#trust-a) · [C](../../core_05_band_continuity.md#trust-c)
+- [நலவாழ்வு](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [சார்பு](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 
 </details>
 
@@ -116,7 +116,7 @@ flowchart TB
 
 இந்த உரிமையைப் பாதுகாக்க இரண்டு பாதுகாப்புகள் ஒன்றாகச் செயல்படுகின்றன: சான்றளிப்பு ஒரு அமைப்பை நம்பிக்கைக்குத் தகுதியானதாக்குகிறது; sentients-இன் உரிமைகள் அதை நேர்மையாக வைத்திருக்கின்றன.
 
-**அமைப்பின் தரப்பிலிருந்து சான்றளிப்பு நம்பிக்கையை உருவாக்குகிறது:** sentients ஒரு முக்கிய அமைப்பைச் சார்ந்திருக்கும் விதத்தில் அது உண்மையான தாக்கம் ஏற்படுத்தினால், [அமைப்பு சீரமைப்பு சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional), [அத்தியாயம் எட்டு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)-இன் கீழ் பொருந்தும். sentients பின்வருவனவற்றைச் சார்ந்திருக்க முடியுமா என்பதை இது சரிபார்க்கிறது:
+**அமைப்பின் தரப்பிலிருந்து சான்றளிப்பு நம்பிக்கையை உருவாக்குகிறது:** sentients ஒரு முக்கிய அமைப்பைச் சார்ந்திருக்கும் விதத்தில் அது உண்மையான தாக்கம் ஏற்படுத்தினால், [அமைப்பு சீரமைப்பு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional), [அத்தியாயம் ஒன்பது](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)-இன் கீழ் பொருந்தும். sentients பின்வருவனவற்றைச் சார்ந்திருக்க முடியுமா என்பதை இது சரிபார்க்கிறது:
 
 - அமைப்பு செய்வதாகக் கூறுவது;
 - அதன் வரம்புகளும் இடர்களும்;
@@ -136,7 +136,7 @@ flowchart TB
 *அண்டைக் கட்டுரைகள்:*
 
 - **இது எப்போது பொருந்தும்:** அமைப்பின் நடத்தை **அத்தியாயம் ஆறு** உரிமை அடித்தளங்களைக் — **கட்டுரை III-A** (*உயிர்வாழ்தல்*) கீழான உயிர்வாழ்வுக்குத் தேவையானவற்றை உட்பட — பொருள்சார் வகையில் கட்டுப்படுத்தும்போது அல்லது நிலைநிறுத்தும்போது.
-- **இதனுடன் வாசிக்கவும்:** [அமைப்பு சீரமைப்பு சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் எட்டு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — இங்கு கூறிய அடித்தளங்களுக்குப் பதிலாக சான்றளிப்பை பயன்படுத்தாமல்.
+- **இதனுடன் வாசிக்கவும்:** [அமைப்பு சீரமைப்பு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஒன்பது](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) — இங்கு கூறிய அடித்தளங்களுக்குப் பதிலாக சான்றளிப்பை பயன்படுத்தாமல்.
 
 <a id="article-article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### கட்டுரை XIII-A: நம்பகத்தன்மை அடித்தளம்
@@ -144,16 +144,16 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
 - மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), மற்றும் [அத்தியாயம் ஒன்று §13.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- இதனுடன் வாசிக்கவும்: [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad); [இரு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** மற்றும் **தொடர்ச்சி**; [அமைப்பு சீரமைப்பு சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும், அமைப்பைத் தொடர்ந்து சார்ந்திருப்பது உயிர்வாழ்வுக்குத் தேவையான அணுகலைப் பாதிக்கும் இடங்களில், **கட்டுரை III-A** (*உயிர்வாழ்தல்*); வெற்றிகரமான சவால் எதற்கு வழிவகுக்க வேண்டும் என்பதற்கு [**கட்டுரை XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*நிவாரணம் மற்றும் தீர்வுக்கான உரிமை*).
+- இதனுடன் வாசிக்கவும்: [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad); [இரு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** மற்றும் **தொடர்ச்சி**; [அமைப்பு சீரமைப்பு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும், அமைப்பைத் தொடர்ந்து சார்ந்திருப்பது உயிர்வாழ்வுக்குத் தேவையான அணுகலைப் பாதிக்கும் இடங்களில், **கட்டுரை III-A** (*உயிர்வாழ்தல்*); வெற்றிகரமான சவால் எதற்கு வழிவகுக்க வேண்டும் என்பதற்கு [**கட்டுரை XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*நிவாரணம் மற்றும் தீர்வுக்கான உரிமை*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [நம்பிக்கை](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [நம்பகத்தன்மை](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [இடர்](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [நம்பிக்கை](../../core_05_band_continuity.md#trust) · [O](../../core_05_band_continuity.md#trust) · [M](../../core_05_band_continuity.md#trust-a) · [A](../../core_05_band_continuity.md#trust-a) · [C](../../core_05_band_continuity.md#trust-c)
+- [நம்பகத்தன்மை](../../core_05_band_continuity.md#trustworthiness) · [O](../../core_05_band_continuity.md#trustworthiness) · [M](../../core_05_band_continuity.md#trustworthiness-a) · [A](../../core_05_band_continuity.md#trustworthiness-a) · [C](../../core_05_band_continuity.md#trustworthiness-c)
+- [இடர்](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
 - [சவால் செய்யத்தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [நல்லெண்ணம்](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
 - [பாதுகாக்கப்பட்ட அறிக்கையிடல் (முறைகேடு வெளிப்படுத்தல்)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
@@ -193,7 +193,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
 - மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§6.1 திருத்தமும் தீர்வும்](core_01_a_values_principles.md#61-correction-and-remedy) (கொள்கை அடித்தளம்), [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), மற்றும் [அத்தியாயம் ஒன்று §13.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- இதனுடன் வாசிக்கவும்: [**கட்டுரை XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*நம்பகத்தன்மை அடித்தளம்*) — நிவாரணப் பாதையைத் திறக்கும் சவால் உத்தரவாதம், சவால் உரிமை, பாதுகாக்கப்பட்ட அறிக்கையிடல்; **கட்டுரை III-A** (*உயிர்வாழ்தல்*); அமைப்பு தோல்வி அல்லது சீரமைவின்மை உயிர்வாழ்வுக்குத் தேவையான அணுகலைத் தோற்கடிக்கும் இடங்களில் [அமைப்பு சீரமைப்பு சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional); [முன்னுரை §6.2 முழுச் சங்கிலி எவ்வாறு ஒன்றிணைகிறது](core_00_preamble.md#62-how-the-full-chain-fits-together) (*சரிபார்க்கப்பட்ட வகைப்பாடும் காலத்திற்கேற்ற தீர்வும்*); [அத்தியாயம் பத்து §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*அமலாக்க நடைமுறையும் தீர்வு அமைப்புகளும்*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*தீர்வு அமைப்புகளும் நிறுவன நிவாரணத் திறனும்*).
+- இதனுடன் வாசிக்கவும்: [**கட்டுரை XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*நம்பகத்தன்மை அடித்தளம்*) — நிவாரணப் பாதையைத் திறக்கும் சவால் உத்தரவாதம், சவால் உரிமை, பாதுகாக்கப்பட்ட அறிக்கையிடல்; **கட்டுரை III-A** (*உயிர்வாழ்தல்*); அமைப்பு தோல்வி அல்லது சீரமைவின்மை உயிர்வாழ்வுக்குத் தேவையான அணுகலைத் தோற்கடிக்கும் இடங்களில் [அமைப்பு சீரமைப்பு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional); [முன்னுரை §6.2 முழுச் சங்கிலி எவ்வாறு ஒன்றிணைகிறது](core_00_preamble.md#62-how-the-full-chain-fits-together) (*சரிபார்க்கப்பட்ட வகைப்பாடும் காலத்திற்கேற்ற தீர்வும்*); [அத்தியாயம் பத்து §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*அமலாக்க நடைமுறையும் தீர்வு அமைப்புகளும்*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*தீர்வு அமைப்புகளும் நிறுவன நிவாரணத் திறனும்*).
 
 </details>
 
@@ -238,8 +238,8 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [நம்பிக்கை](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [நம்பகத்தன்மை](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [நம்பிக்கை](../../core_05_band_continuity.md#trust) · [O](../../core_05_band_continuity.md#trust) · [M](../../core_05_band_continuity.md#trust-a) · [A](../../core_05_band_continuity.md#trust-a) · [C](../../core_05_band_continuity.md#trust-c)
+- [நம்பகத்தன்மை](../../core_05_band_continuity.md#trustworthiness) · [O](../../core_05_band_continuity.md#trustworthiness) · [M](../../core_05_band_continuity.md#trustworthiness-a) · [A](../../core_05_band_continuity.md#trustworthiness-a) · [C](../../core_05_band_continuity.md#trustworthiness-c)
 - [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -271,7 +271,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
 - [ஊக்கச் சீரமைப்பு](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
-- [நம்பகத்தன்மை](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [நம்பகத்தன்மை](../../core_05_band_continuity.md#trustworthiness) · [O](../../core_05_band_continuity.md#trustworthiness) · [M](../../core_05_band_continuity.md#trustworthiness-a) · [A](../../core_05_band_continuity.md#trustworthiness-a) · [C](../../core_05_band_continuity.md#trustworthiness-c)
 - [பொருளுள்ள செயற்பாட்டுத் திறன்](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
@@ -363,19 +363,19 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 மீள்திறன் மற்றும் சுய-குணமடைதல் வடிவமைப்பு](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [அத்தியாயம் ஒன்று §13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 மீள்திறன் மற்றும் சுய-குணமடைதல் வடிவமைப்பு](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [அத்தியாயம் ஒன்று §13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), மற்றும் [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [சுய-குணமடைதல்](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
-- [மீள்திருப்பத்தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [தொடர் தோல்வி](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
+- [சுய-குணமடைதல்](../../core_05_band_continuity.md#self-healing-constitutional) · [O](../../core_05_band_continuity.md#self-healing-constitutional) · [M](../../core_05_band_continuity.md#self-healing-constitutional-a) · [A](../../core_05_band_continuity.md#self-healing-constitutional-a) · [C](../../core_05_band_continuity.md#self-healing-constitutional-c)
+- [மீள்திருப்பத்தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [தொடர் தோல்வி](../../core_05_band_continuity.md#cascading-failure) · [O](../../core_05_band_continuity.md#cascading-failure) · [M](../../core_05_band_continuity.md#cascading-failure-a) · [A](../../core_05_band_continuity.md#cascading-failure-a) · [C](../../core_05_band_continuity.md#cascading-failure-c)
 - [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [சவால் செய்யத்தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [தவிர்க்கக்கூடிய சுமை](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [தவிர்க்கக்கூடிய சுமை](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
 
 </details>
 
@@ -385,16 +385,16 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 
 கண்டறிதலிலிருந்து மூலக் காரணத்தை முடிவுறச் செய்வது வரை மீட்பு அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
 
-- **இதற்கு என்ன தேவை:** இந்தக் கட்டுரைக்குள் வரும் ஒவ்வொரு அமைப்பும் தோல்விகளிலிருந்து மீளத் திறனுடையதாக இருக்க வேண்டும். அமைப்பின் தாக்கம் பெரிதாகவும், பிறர் அதனை அதிகம் சார்ந்தும், இடர் உயர்ந்தும் இருக்கும் அளவுக்கு அதன் மீட்புத் திறன் வலுவாக வேண்டும். இது **அத்தியாயம் ஒன்று**-இல் உள்ள [**10 மீள்திறன் மற்றும் சுய-குணமடைதல் வடிவமைப்பு**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) மற்றும் **அத்தியாயம் ஐந்து**-இல் உள்ள [**சுய-குணமடைதல்**](core_05_band_continuity.md#self-healing-constitutional) ஆகியவற்றைப் பின்பற்றுகிறது.
+- **இதற்கு என்ன தேவை:** இந்தக் கட்டுரைக்குள் வரும் ஒவ்வொரு அமைப்பும் தோல்விகளிலிருந்து மீளத் திறனுடையதாக இருக்க வேண்டும். அமைப்பின் தாக்கம் பெரிதாகவும், பிறர் அதனை அதிகம் சார்ந்தும், இடர் உயர்ந்தும் இருக்கும் அளவுக்கு அதன் மீட்புத் திறன் வலுவாக வேண்டும். இது **அத்தியாயம் ஒன்று**-இல் உள்ள [**10 மீள்திறன் மற்றும் சுய-குணமடைதல் வடிவமைப்பு**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) மற்றும் **அத்தியாயம் ஐந்து**-இல் உள்ள [**சுய-குணமடைதல்**](../../core_05_band_continuity.md#self-healing-constitutional) ஆகியவற்றைப் பின்பற்றுகிறது.
   - மீட்பை எவ்வாறு உருவாக்க வேண்டும் என்ற விரிவான தொழில்நுட்ப விதிகள் செயலாக்க உரையில் உள்ளன: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*வடிவமைப்பு, சோதனை, சரிபார்ப்பு, பயன்பாட்டில் அமர்த்தல்*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*தகவமைவு நிலைத்தன்மை மற்றும் சூழலமைப்பு மீள்திறன்*), [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*பரவலாக்கப்பட்ட தொடர்ச்சி மற்றும் பகிர்வு மீள்திறன்*).
   - அந்த செயலாக்க உரை விவரங்களைச் சேர்க்கலாம்; இந்தக் கட்டுரையைப் பலவீனப்படுத்த முடியாது.
 - **சிக்கல்களைச் சரியான நேரத்தில் கவனியுங்கள்:** **கட்டுரை XVI-A** (*தணிக்கை செய்யத்தன்மை மற்றும் காணக்கூடிய சான்று*)-இல் உள்ள பதிவேட்டு தரநிலையைப் பூர்த்தி செய்யத் தேவையான விரைவிலும் தெளிவிலும், கோளாறுகள், வேகக் குறைவு, பகுதி முறிவுகள், அரசியலமைப்பு வரம்பு மீறல்கள் ஆகியவற்றை அமைப்பு கண்டறிய வேண்டும் ([தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability)). இது வழக்கமான இயக்கத்திற்கு மட்டுமல்ல, மீட்பு செயல்முறைக்கும் பொருந்தும்.
 - **தீங்கைக் கட்டுப்படுத்துங்கள்:** தோல்வி எவ்வளவு தூரம் பரவுகிறது என்பதை மீட்பு வரையறுக்க வேண்டும். மீட்கும்போது அமைப்பு:
-  - தோல்வியை பிற பகுதிகளுக்கோ பிற அமைப்புகளுக்கோ பரப்பக் கூடாது (பார்க்க [தொடர் தோல்வி](core_05_band_continuity.md#cascading-failure));
+  - தோல்வியை பிற பகுதிகளுக்கோ பிற அமைப்புகளுக்கோ பரப்பக் கூடாது (பார்க்க [தொடர் தோல்வி](../../core_05_band_continuity.md#cascading-failure));
   - sentients, இயக்குநர்கள் அல்லது பிற அமைப்புகளுக்குச் சொந்தமான சேமிக்கப்பட்ட தரவு, சான்றுகள், கடமைகள் அல்லது அமைப்புகளை, பழுதடைந்து சரிசெய்யப்படுவதாக அறிவித்த பகுதியின் **வெளியே** மாற்றக் கூடாது;
     - ஒரே விதிவிலக்கு, **கட்டுரை XVI-A** (*தணிக்கை செய்யத்தன்மை மற்றும் காணக்கூடிய சான்று*) கீழ் பதிவுசெய்யப்பட்டு, அதைச் செய்தவரைத் தடமறியக்கூடிய மாற்றமாகும் ([தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability)); மேலும் பிறருக்கு பொருள்சார் தாக்கம் ஏற்பட்டால் **அத்தியாயம் ஆறு** உடன் ஒத்திசைந்து, விகிதாசார அறிவிப்பு, அனுமதி அல்லது அவர்கள் சவால் செய்யக்கூடிய ஒப்படைப்பு இருக்க வேண்டும்;
   - தோல்விக்கு முன் கொண்டிருந்த அளவைவிடத் தன் அதிகாரத்தை — அனுமதிகள், அணுகல், மேற்கொள்ளக்கூடிய செயல்களின் வரம்பு — விரிவாக்கக் கூடாது.
-- **உறுதியில்லாதபோது பாதுகாப்பாகத் தோல்வியுறுங்கள்:** தானியக்கப் பழுது நீக்கம் செயல்படுமா என்பது தெளிவாக இல்லாவிட்டால், ஊகத்தை மட்டுமே சார்ந்த பழுது நீக்க முயல்வதற்குப் பதிலாக அமைப்பு பாதுகாப்பாக நிறுத்த வேண்டும், சிக்கலைத் தனிமைப்படுத்த வேண்டும் (தனிமைப்படுத்தல்) அல்லது கட்டுப்பாட்டை ஒழுங்காக ஒப்படைக்க வேண்டும். மற்றபடி விருப்பங்கள் சமமாக இருந்தால், **கட்டுரை XXIII-B** (*தணிக்கை செய்யத்தன்மை, சவால், மீள்திருப்பத்தன்மை முன்னுரிமை*)-இல் உள்ள [மீள்திருப்பத்தன்மை](core_05_band_continuity.md#reversibility-constitutional) விருப்பப்படி எளிதில் திரும்பப் பெறக்கூடியதைத் தேர்ந்தெடுக்க வேண்டும்.
+- **உறுதியில்லாதபோது பாதுகாப்பாகத் தோல்வியுறுங்கள்:** தானியக்கப் பழுது நீக்கம் செயல்படுமா என்பது தெளிவாக இல்லாவிட்டால், ஊகத்தை மட்டுமே சார்ந்த பழுது நீக்க முயல்வதற்குப் பதிலாக அமைப்பு பாதுகாப்பாக நிறுத்த வேண்டும், சிக்கலைத் தனிமைப்படுத்த வேண்டும் (தனிமைப்படுத்தல்) அல்லது கட்டுப்பாட்டை ஒழுங்காக ஒப்படைக்க வேண்டும். மற்றபடி விருப்பங்கள் சமமாக இருந்தால், **கட்டுரை XXIII-B** (*தணிக்கை செய்யத்தன்மை, சவால், மீள்திருப்பத்தன்மை முன்னுரிமை*)-இல் உள்ள [மீள்திருப்பத்தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) விருப்பப்படி எளிதில் திரும்பப் பெறக்கூடியதைத் தேர்ந்தெடுக்க வேண்டும்.
 - **மறைத்தல் இல்லை:** **கட்டுரை XXIII** (*மூலக் காரணப் பகுப்பாய்வு மற்றும் தகவமைவுப் பதில்*) கீழ் தோல்வி ஏன் ஏற்பட்டது என்பதைக் கண்டறியத் தேவையான சான்றை தானியக்க மீட்பு மறைக்கவோ அழிக்கவோ தாமதப்படுத்தவோ கூடாது.
   - ஒவ்வொரு மீட்பு நடவடிக்கை, ஒவ்வொரு மீட்பு முயற்சி, தடுக்கப்பட்ட அல்லது நிறுத்தப்பட்ட முயற்சி ஆகியவை **கட்டுரை XVI-A** (*தணிக்கை செய்யத்தன்மை மற்றும் காணக்கூடிய சான்று*) கீழ் பதிவுசெய்யப்பட வேண்டும்; ஒவ்வொன்றையும் சவால் செய்யலாம் (பார்க்க [சவால் செய்யத்தன்மை](core_05_band_accountability.md#contestability)).
 - **குறைக்கப்பட்ட பயன்முறையிலும் உரிமைகள் பாதுகாப்பு:** அமைப்பு குறைக்கப்பட்ட அல்லது காப்புப் பயன்முறையில் இயங்கினாலும் **அத்தியாயம் ஆறு** உரிமை அடித்தளத்தைப் பாதுகாக்க வேண்டும். அது முடியாவிட்டால் அந்தப் பாதுகாப்புகளை அமைதியாகக் குறைக்காமல் சிக்கலை வெளிப்படையாக மேல்நிலைக்கு உயர்த்த வேண்டும்.
@@ -404,7 +404,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 - **மாற்றுவழி என்பது பழுது நீக்கம் அல்ல:** தானியக்க மீட்பு அமைப்பை மீண்டும் இயக்கினாலும் அறியப்பட்ட குறைபாடு நீடித்தால், அமைப்பின் நிலை இறுதியானதல்ல; தற்காலிகமானது. அது பின்வருவனவற்றைத் தொடர்ந்து கொண்டிருக்க வேண்டும்:
   - **கட்டுரை XXIII** (*மூலக் காரணப் பகுப்பாய்வு மற்றும் தகவமைவுப் பதில்*) கீழான மூலக் காரணம் கண்டறியும் திறந்த கடமை;
   - குறைபாடு எப்போது சரிசெய்யப்படும் என எதிர்பார்க்கப்படும் என்பதற்கான வெளிப்படுத்தப்பட்ட காலவரிசை, **கட்டுரை XVI-A** (*தணிக்கை செய்யத்தன்மை மற்றும் காணக்கூடிய சான்று*) கீழ்.
-- **முடிவற்ற தாமதம் இல்லை:** இயக்குநர்களின் பணிச்சுமையைக் குறைப்பது (பார்க்க [தவிர்க்கக்கூடிய சுமை](core_05_band_continuity.md#avoidable-burden) மற்றும் [அத்தியாயம் ஒன்று §13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) பாதுகாப்பையோ உரிமை அடித்தளத்தையோ பொருள்சார் வகையில் பாதிக்கும் குறைபாடுகளை காலவரையின்றித் திருத்தாமல் இருப்பதற்கான காரணமாகப் பயன்படுத்தப்படக் கூடாது.
+- **முடிவற்ற தாமதம் இல்லை:** இயக்குநர்களின் பணிச்சுமையைக் குறைப்பது (பார்க்க [தவிர்க்கக்கூடிய சுமை](../../core_05_band_continuity.md#avoidable-burden) மற்றும் [அத்தியாயம் ஒன்று §13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) பாதுகாப்பையோ உரிமை அடித்தளத்தையோ பொருள்சார் வகையில் பாதிக்கும் குறைபாடுகளை காலவரையின்றித் திருத்தாமல் இருப்பதற்கான காரணமாகப் பயன்படுத்தப்படக் கூடாது.
 
 <a id="article-article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### கட்டுரை XIV: பாதுகாப்பு, உளவுத்துறை, வலிமை, தன்னாட்சி கட்டாய அமைப்புகள்
@@ -472,7 +472,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 
 - [தேவை](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [பாதுகாக்கப்பட்ட உள்நிலை எல்லை](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [பாதுகாக்கப்பட்ட உள்நிலை எல்லை](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -501,7 +501,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
   - குறைவான ஊடுருவலுள்ள வழிகள் நியாயமாகப் போதாது;
   - பயன்பாடு தேவையானதும், விகிதாசாரமானதும், காலவரையறையுடனும், சுயாதீன மறுஆய்வுக்கு உட்பட்டதாகவும் உள்ளது.
 - **பொதுவான மக்கள் தொகைக் கண்காணிப்பு இல்லை:** நிரூபிக்கப்பட்ட அசாதாரண நியாயம் இல்லாமல் தொடர்ச்சியான அல்லது மக்கள் தொகை அளவிலான கண்காணிப்பு, தடமறிதல், வடிவ-பிரித்தெடுப்பு, சூழல்களுக்கு இடையேயான அடையாள இணைப்பு ஆகியவை தடைசெய்யப்படுகின்றன.
-  - அத்தகைய நியாயம் இந்த அத்தியாயம், **அத்தியாயம் ஒன்று**, **அத்தியாயம் ஐந்து**, பொருந்தும் இடங்களில் **[corpus_systems.md](corpus_systems.md), CS-2 — தகவல் வகைகளும் கையாளுதலும்**, **CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** ஆகியவற்றை நிறைவேற்ற வேண்டும்.
+  - அத்தகைய நியாயம் இந்த அத்தியாயம், **அத்தியாயம் ஒன்று**, **அத்தியாயம் ஐந்து**, பொருந்தும் இடங்களில் **[corpus_systems.md](../../corpus_systems.md), CS-2 — தகவல் வகைகளும் கையாளுதலும்**, **CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** ஆகியவற்றை நிறைவேற்ற வேண்டும்.
 - **பாதுகாக்கப்பட்ட நடவடிக்கைகளுக்கான கேடயம்:** கூடுதல் பாதுகாப்பு பின்வருவனவற்றுக்குப் பொருந்தும்:
   - அரசியல் பங்கேற்பு;
   - சட்டபூர்வ எதிர்ப்பு;
@@ -571,7 +571,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 - [தேவை](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [பாதுகாக்கப்பட்ட பண்புகள்](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [இருப்பியல் இடர்](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
+- [இருப்பியல் இடர்](../../core_05_band_continuity.md#existential-risk) · [O](../../core_05_band_continuity.md#existential-risk) · [M](../../core_05_band_continuity.md#existential-risk-a) · [A](../../core_05_band_continuity.md#existential-risk-a) · [C](../../core_05_band_continuity.md#existential-risk-c)
 - [நிவாரணமும் சீரமைப்பும்](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
@@ -622,7 +622,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 
 - மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 விகிதாசாரம்](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 தேவை](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 சீரமைப்புத் தேவை](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 முழுமையான மேலாதிக்கத்திற்குத் தடை](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - கீழ்நிலை ஆதாரம்: **கட்டுரை I-D** (*இருப்பியல் இடரும் சூழலியல் மீட்புத் திறனும்*) இருப்பியல்-இடர் ஆய்வு, **கட்டுரை X-A** (*செயற்பாட்டுத் திறனும் கையாளுதலிலிருந்து சுதந்திரமும்*) கையாளுதலிலிருந்து சுதந்திரம், **கட்டுரை XIV-A** (*பாதுகாப்பு, உளவுத்துறை, மறைமுக அதிகார வரம்புகள்*) மறைமுக அதிகார வரம்புகள், **கட்டுரை XIV-B** (*வலிமைப் பயன்பாடு, ஆயுத மோதல், இராணுவ அதிகார வரம்புகள்*) வெளிப்படையான வலிமை அடித்தளம், **கட்டுரை XIII-A** (*நம்பகத்தன்மை அடித்தளம்*) அமைப்பு-நிலை நம்பகத்தன்மை ஒழுங்கு, **கட்டுரை XIII-E** (*உயர்-தன்னாட்சி அமைப்புகள் மற்றும் கருவி-மத்தியஸ்த செயல்முறை ஒருமைப்பாடு*) தன்னாட்சி பொறுப்பேற்பும் அளவமைப்பும், **கட்டுரை XIII-F** (*மீள்திறன் மற்றும் சுய-குணமடைதல் அடித்தளம்*) மீள்திறன் மற்றும் சுய-குணமடைதல் அடித்தளம். குறுக்கு மேற்கோள்: **கட்டுரை XX-B** (*கட்டுப்பாடுகளின் அடித்தளங்கள்*) மற்றும் அத்தியாயம் ஐந்து *[மீளப்பெற முடியாத பறிப்பு அளவுகோல்](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **கட்டுரை XIV** (*பாதுகாப்பு, உளவுத்துறை, வலிமை, தன்னாட்சி கட்டாய அமைப்புகள்*) இன் *ஒன்றாக்கிக் குழப்பாத* ஒழுங்கு பொருந்தும்.
-- இதனுடன் வாசிக்கவும்: [**Def.A4** *வலிமைப் பயன்பாடு, தன்னாட்சி கட்டாயம், தன்னாட்சி உயிர்க்கொல்லி அமைப்புகள், பெருமளவு தீங்கு விளைவிக்கும் ஆயுதங்கள்*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (பொருள்சார் வகையில் பொருந்தும்போது கூட்டுப் பயன்பாடு); அத்தியாயம் ஐந்து *தன்னாட்சி உயிர்க்கொல்லி அமைப்பு*, *தன்னாட்சி கட்டாயக் கருவி*, *[மீளப்பெற முடியாத பறிப்பு அளவுகோல்](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *கட்டாயமும் கையாளுதலும்*, *மீள்திருப்பத்தன்மை*. அமைப்பு-நிலை செயலாக்கம்: **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** வகைப்பாடு.
+- இதனுடன் வாசிக்கவும்: [**Def.A4** *வலிமைப் பயன்பாடு, தன்னாட்சி கட்டாயம், தன்னாட்சி உயிர்க்கொல்லி அமைப்புகள், பெருமளவு தீங்கு விளைவிக்கும் ஆயுதங்கள்*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (பொருள்சார் வகையில் பொருந்தும்போது கூட்டுப் பயன்பாடு); அத்தியாயம் ஐந்து *தன்னாட்சி உயிர்க்கொல்லி அமைப்பு*, *தன்னாட்சி கட்டாயக் கருவி*, *[மீளப்பெற முடியாத பறிப்பு அளவுகோல்](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *கட்டாயமும் கையாளுதலும்*, *மீள்திருப்பத்தன்மை*. அமைப்பு-நிலை செயலாக்கம்: **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** வகைப்பாடு.
 
 </details>
 
@@ -667,8 +667,98 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
   - **எதிர்மறை, அளவுபடுத்தப்பட்ட, சுரண்டப்பட்ட நிலைமைகள்** மதிப்பீடு பொருந்தும்.
 - **இருப்பியல்-இடர் தொடர்பு:** **கட்டுரை I-D** (*இருப்பியல் இடரும் சூழலியல் மீட்புத் திறனும்*) இருப்பியல்-இடர் ஆய்வை பொருள்சார் வகையில் தூண்டும் அளவு, திறன் அல்லது பயன்பாட்டு நிபந்தனைகளில் உள்ள தன்னாட்சி உயிர்க்கொல்லி அமைப்புகள் அந்த விதியின் [உயர்ந்தபட்ச ஆய்வுக்கு](core_05_band_oversight.md#highest-scrutiny) உட்படுகின்றன.
   - அத்தகைய அமைப்புகளை **கட்டுரை I-D** பொருள்களாக அல்லாமல் சாதாரண திறன்-விரிவாக்கமாகக் கருதும் விளக்கங்கள் இணக்கமற்றவை.
-- **அமைப்பு-நிலை தொடர்பு:** செயல்பாட்டு வகைப்பாடு, நம்பகத்தன்மை, **CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழான வகை-அளவமைக்கப்பட்ட ஆட்சி ஆகியவை அமைப்பு நிலைக்கு வழிமாற்றுகின்றன — **கட்டுரை XIII-A** (*நம்பகத்தன்மை அடித்தளம்*) மற்றும் **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்**.
+- **அமைப்பு-நிலை தொடர்பு:** செயல்பாட்டு வகைப்பாடு, நம்பகத்தன்மை, **CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழான வகை-அளவமைக்கப்பட்ட ஆட்சி ஆகியவை அமைப்பு நிலைக்கு வழிமாற்றுகின்றன — **கட்டுரை XIII-A** (*நம்பகத்தன்மை அடித்தளம்*) மற்றும் **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்**.
   - **அத்தியாயம் ஒன்று §13.1.5** (*குறைந்த கட்டுப்பாடு, காலவரையறை, மறுஆய்வு செய்யத்தக்க கட்டுப்பாட்டுக் கொள்கை*) கீழ் முரண்பாடுகளைத் தீர்க்கும்போது உரிமை அடித்தளத்தைக் குறுக்கக் கூடாது.
+
+<a id="article-xiv-d-counter-espionage-limits"></a>
+<a id="article-article-xiv-d-counter-espionage-limits"></a>
+#### கட்டுரை XIV-D: எதிர்-உளவு அதிகார வரம்புகள்
+
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](../../core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7.1 வரம்பு ஒழுங்கு](../../core_01_a_values_principles.md#71-limitation-discipline), மற்றும் [§13.1.5 உரிமை-மோதல் நடைமுறை](../../core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- இதனுடன் வாசிக்கவும்: [கட்டுரை XIV-A](#article-article-xiv-a-security-intelligence-and-covert-power-limits) (*பாதுகாப்பு, உளவுத்துறை, மறைமுக அதிகார வரம்புகள்*) முழுமையாகப் பொருந்தும்; [அத்தியாயம் எட்டு §7 அவசர மற்றும் அவசரத் தேவை நடவடிக்கை](../../core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action); மற்றும் [அத்தியாயம் பதின்மூன்று §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden) (*அவசர நடவடிக்கைகளும் தொடர்வதற்கான சுமையும்*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [தேவை](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [பாதுகாக்கப்பட்ட அறிக்கையிடல் (தவறுகளை வெளிப்படுத்துதல்)](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](../../core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [பாதுகாக்கப்பட்ட பண்புகள்](../../core_05_band_participation.md#protected-characteristics) · [O](../../core_05_band_participation.md#protected-characteristics) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [கொடுமை](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
+- [பாதுகாக்கப்பட்ட அகநிலை எல்லை](../../core_05_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [பொருள்சார் வகையில் கட்டுப்படுத்தும் செயல்பதிவு](../../core_05_band_accountability.md#materially-binding-act-record) · [O](../../core_05_band_accountability.md#materially-binding-act-record) · [M](../../core_05_band_accountability.md#materially-binding-act-record-a) · [A](../../core_05_band_accountability.md#materially-binding-act-record-a) · [C](../../core_05_band_accountability.md#materially-binding-act-record-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: உளவு நடக்கிறது என நிறுவனம் சந்தேகிக்கும்போது, எதையும் செய்வதற்கான அழுத்தம் உச்சத்தில் இருக்கும்; அப்போதுதான் தவறுகளும் அதிகாரத் துஷ்பிரயோகமும் நிகழும். எனவே வரம்புகள் நெருக்கடிக்கு முன்பே நிர்ணயிக்கப்படுகின்றன. உளவாளிகளைத் தேடுவது மறைமுக அதிகாரப் பயன்பாடு; **கட்டுரை XIV-A**-இன் எல்லா வரம்புகளும் தொடர்ந்தும் பொருந்தும். பதிலளிப்பு விதிகள் முன்கூட்டியே எழுதப்பட்டு சுயாதீனமாக அங்கீகரிக்கப்பட வேண்டும்; சந்தேகம் ஒருவரின் செயலும் அவர் உண்மையில் யாருக்குச் சேவை செய்கிறார் என்பதையும் — பகைமை கொண்ட அரசுகள் மற்றும் அமைப்புகளுடனான தொடர்புகள் உட்பட — அடிப்படையாகக் கொள்ள வேண்டும்; பிறப்பு, மரபு அல்லது நம்பிக்கைகளை அல்ல. தவறுகளை வெளிப்படுத்துவோரும் செய்தியாளர்களும் உளவாளிகள் அல்லர்; சித்திரவதை, இரகசியக் காவல், தண்டனையாகக் கொலை ஆகியவை தடை; விசாரிக்கப்பட்டு குற்றமற்றவர் எனத் தீர்மானிக்கப்பட்டவரின் பதிவிலும் அது குறிப்பிடப்பட வேண்டும்.*
+
+எதிர்-உளவு அதிகாரத்திற்கான வரம்புகளை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **இதன் வரம்பு:** உளவு, நாசவேலை, பகைமை ஊடுருவலைக் கண்டறிதல், விசாரித்தல், தடுத்தல். உள் அச்சுறுத்தல் திட்டங்கள், கசிவு விசாரணைகள், பாதுகாப்பு மதிப்பீடு, பகைமை உளவுச் சேவைக்கு எதிரான நடவடிக்கைகள் ஆகியவை யார் மேற்கொண்டாலும் இதில் அடங்கும்.
+  - [Sentience Non-Exclusion](../../core_05_band_participation.md#sentience-non-exclusion) கீழ் மனிதர் அல்லது செயற்கை sentient, உறுப்பினர் அல்லது வெளியாளர் என அனைத்து சந்தேகநபர்களுக்கும் பாதுகாப்புகள் பொருந்தும்.
+  - எதிர்-உளவு மறைமுக அதிகாரம். **கட்டுரை XIV-A** முழுமையாகப் பொருந்தும்; இக்கட்டுரை அதனுடன் சேர்கிறது, அதை ஒருபோதும் குறுக்காது.
+  - வலிமைப் பயன்பாடு **கட்டுரை XIV-B** (*வலிமைப் பயன்பாடு, ஆயுத மோதல், இராணுவ அதிகார வரம்புகள்*) வழியாகவும், தன்னாட்சி கருவி பயன்பாடு **கட்டுரை XIV-C** (*தன்னாட்சி உயிர்க்கொல்லி அமைப்புகள் மற்றும் தன்னாட்சி கட்டாயக் கருவிகள்*) வழியாகவும் அவற்றின் சொந்த விதிகளின்படி செல்ல வேண்டும்.
+- **நெருக்கடிக்கு முன் வகுக்கப்படும் விதிகள்:** எதிர்-உளவு பணியுள்ள ஒவ்வொரு நிறுவனமும், தேவைப்படுவதற்கு முன் சுயாதீன முறையில் அங்கீகரிக்கப்பட்ட பதிலளிப்பு நெறிமுறையை வெளியிட வேண்டும். அதில் பின்வருவன இருக்க வேண்டும்:
+  - விசாரணையைத் தொடங்கப் போதுமான உண்மைகள்;
+  - அனுமதிக்கப்பட்ட விசாரணை நடவடிக்கைகள், ஒவ்வொன்றையும் அங்கீகரிக்க வேண்டியவர்;
+  - கால வரம்புகளும் விசாரணை எப்போது முடிக்கப்பட வேண்டும் என்பதும்;
+  - சந்தேகநபருக்கு எவ்வாறு தெரிவித்து, அவர்மீது செய்ததை எவ்வாறு எதிர்க்கலாம் என்பதும்;
+  - குற்றமற்றவர் எனத் தீர்மானிக்கப்பட்ட sentient-இன் அணுகல், நிலை, பதிவு ஆகியவற்றை மீட்டெடுக்கும் முறை.
+
+  வரம்புகள் பொதுவில் இருக்க வேண்டும். குறிப்பிட்ட முறைகளையும் நடப்புச் செயல்பாடுகளையும் ரகசியம் மறைக்கலாம்; அவற்றைக் கட்டுப்படுத்தும் விதிகளை அல்ல.
+  - **விதிக்கு வெளியே தன்னிச்சையாகச் செயல்படுதல் கூடாது:** நெறிமுறை அனுமதிக்காத நடவடிக்கை, [அத்தியாயம் எட்டு §7 அவசர மற்றும் அவசரத் தேவை நடவடிக்கை](../../core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) மற்றும் **அத்தியாயம் பதின்மூன்று §6.1** கீழான அவசர நடவடிக்கையாக மட்டுமே பயன்படுத்தலாம். அது தேவையான குறைந்தபட்சமாகவும், இயன்றவரை மீள்திருப்பத்தக்கதாகவும், உடனே பதிவுசெய்யப்பட்டதாகவும், சுயாதீனமாக மறுஆய்வு செய்யப்பட்டதாகவும் இருக்க வேண்டும்; சுயாதீன ஒப்புதல் இல்லாவிட்டால் தானாகவே முடிவடையும்.
+  - **அவசரநிலை விதிகளை மறுஎழுதாது:** நெறிமுறை மாற்றம் அதே சுயாதீன ஒப்புதல் முறையைக் கடக்க வேண்டும்; மாற்றம் எதிர்காலத்திற்கே பொருந்தும்.
+  - **கண்டுபிடிப்பு அவசரநிலை அல்ல:** உளவாளி, கசிவு அல்லது மீறலைக் கண்டறிந்தது மட்டும் நெறிமுறையை நிறுத்தாது.
+- **சந்தேகம் நடத்தையை அடிப்படையாகக் கொள்ள வேண்டும்:** sentient-இன் சொந்த நடத்தையைப் பற்றிய குறிப்பிட்ட, பதிவுசெய்யப்பட்ட உண்மைகள் இருந்தால்தான் விசாரணை தொடங்கலாம். கீழ்கண்ட எதுவும் தனியாகப் போதாது:
+  - [பாதுகாக்கப்பட்ட பண்புகள்](../../core_05_band_participation.md#protected-characteristics) அல்லது அவற்றுக்குப் பதிலானவை; தேசிய அல்லது இனத் தோற்றம், மதம், substrate வகுப்பு உட்பட;
+  - கூடுதல் ஆதாரம் இல்லாத வெளிநாட்டு குடும்பத் தொடர்புகள்;
+  - சட்டபூர்வமான நம்பிக்கைகள், தொடர்புகள் அல்லது அரசியல் கருத்துகள்;
+  - ஆய்வு, வணிகம், குடும்ப வாழ்வு அல்லது செய்தியியலின் இயல்பான போக்கில் வெளிநாட்டவர் அல்லது வெளிநாட்டு அமைப்புகளுடன் தொடர்பு;
+  - சந்தேகநபருடன் உறவு, தொடர்பு அல்லது அருகில் பணிபுரிதல்.
+  - **கூட்டமாக உளவாளி தேடல் கூடாது:** சமரசமடைந்த தகவலுக்கான அணுகல் இருந்தது, யார் அதைத் திறந்தார்கள் என்பதைப் பார்ப்பது போன்ற வரம்புள்ள, ஊடுருவாத சோதனையை நியாயப்படுத்தலாம். முழுக் குழு, பிரிவு அல்லது சமூகத்தின்மீது ஊடுருவும் நடவடிக்கையை அது நியாயப்படுத்தாது. ஒவ்வொரு sentient-க்கும் தனித்த உண்மை அடிப்படை தேவை.
+- **இடரை அடிப்படையாகக் கொண்டு குறிவையுங்கள்:** உண்மையான இடர் உள்ள இடத்திற்கே எதிர்-உளவு கவனம் செலுத்தப்பட வேண்டும்; இடர் சுயவிவரங்கள் அதற்கான வழி. அவை பின்வருவனைக் கருத்தில் கொள்ளலாம், கொள்ள வேண்டும்:
+  - பகைமை அரசு அல்லது அமைப்புடன் ஆவணப்படுத்தப்பட்ட தொடர்புகள்: அதற்காகப் பணிபுரிதல் அல்லது சேவையாற்றல், உறுப்பினராக இருத்தல், அதன் பணம், வழிகாட்டல் அல்லது பணிப்பை ஏற்றல், அல்லது அதன் உளவுச் சேவையுடன் வெளிப்படுத்தப்படாத தொடர்பு;
+  - பகைமை அரசின் தற்போதைய குடியுரிமை அல்லது அங்கு வசித்தல், அதனால் அந்த அரசுக்கு சட்ட அல்லது நடைமுறை கடமைகள் உருவாகும்போது;
+  - குடும்பம், சொத்து அல்லது சட்டக் கடமைகள் அந்நாட்டின்/அமைப்பின் கட்டுப்பாட்டுக்குள் இருப்பது போன்ற அழுத்தத்திற்கு ஆளாகும் நிலை;
+  - பகைமைச் சேவைகள் குறிவைப்பதாக அறியப்பட்ட sentients, தகவல் அல்லது அமைப்புகளுக்கான அணுகல்.
+  - **யார் பகைமை கொண்டவர்:** அரசையோ அமைப்பையோ பகைமை கொண்டதாகப் பெயரிடுவது பொருள்சார் கட்டுப்படுத்தும் செயல். அதற்கு சுயாதீன ஒப்புதலும் செயல்பதிவும் தேவை; பட்டியல் வெளியிடப்பட வேண்டும்; ஒவ்வொரு பெயரிடலும் வழக்கமான அட்டவணையில் மறுஆய்வு செய்யப்பட்டு புதுப்பிக்கப்படாவிட்டால் காலாவதியாக வேண்டும்.
+  - **சுயவிவரம் எதை நியாயப்படுத்தும்:** நெருக்கமான பாதுகாப்பு மதிப்பீடு, அணுகலுக்கான கடுமையான கட்டுப்பாடு, பாதுகாப்பு விளக்கங்கள், நெறிமுறைக்குள் கூடுதல் கவனம் ஆகியவற்றை அது நியாயப்படுத்தலாம். பகைமைச் சேவையுடனான ஆவணப்படுத்தப்பட்ட தொடர்புகள் sentient-இன் சொந்த நடத்தை பற்றிய உண்மைகளாகக் கருதப்பட்டு விசாரணையைத் தொடங்கலாம். அழுத்தத்திற்கு ஆளாகும் நிலை மட்டும் அந்த நபரைப் பகைமைச் சேவையின் சாத்தியமான இலக்காகக் காட்டுகிறது; அது பாதுகாப்பையும் மதிப்பீட்டையும் கோரும், சந்தேகத்தையும் அல்ல.
+  - **எல்லை மாறாது:** மரபு, இனம், மதம், தேசிய அல்லது சமூகத் தோற்றம் ஆகியவை தனித்து இடர் காரணிகள் அல்ல. மேலே பட்டியலிட்ட தற்போதைய, ஆவணப்படுத்தப்பட்ட தொடர்பு வழியாக மட்டுமே சுயவிவரத்தில் சேரலாம். இவற்றைப் பயன்படுத்தும் ஒவ்வொரு முறையும் [தேவை](../../core_05_band_accountability.md#necessity), [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality), [உள்ளடக்க நியாயம்](../../core_05_band_participation.md#substantive-fairness) ஆகிய [பாதுகாக்கப்பட்ட பண்புகள்](../../core_05_band_participation.md#protected-characteristics) சோதனைகளைப் பூர்த்தி செய்ய வேண்டும்; கீழுள்ள *பதிவுகளும் மறுஆய்வும்* படி வெளியிடப்படும் மறுஆய்வு, குழுக்களிடையே சுயவிவரங்கள் எவ்வாறு பகிரப்படுகின்றன என்பதையும் பரிசோதிக்க வேண்டும்.
+- **தவறுகளை வெளிப்படுத்துவோரும் செய்தியாளர்களும் உளவாளிகள் அல்லர்:** [பாதுகாக்கப்பட்ட அறிக்கையிடல்](../../core_05_band_accountability.md#protected-reporting-whistleblowing) ஆகும் வெளிப்பாடும் அதைப் பற்றிய செய்தியியலும் உளவாக விசாரிக்கப்படவோ தண்டிக்கப்படவோ கூடாது.
+  - **கட்டுரை XIV-A**-இன் *பாதுகாக்கப்பட்ட செயல்பாட்டுக் கவசம்* கோரும் குறிப்பிட்ட, சுயாதீனமாக மறுஆய்வு செய்யப்பட்ட நிரூபணம் இல்லாவிட்டால், கசிவு விசாரணையை செய்தியாளரின் ஆதாரங்களை அடையாளம் காணவோ பாதுகாக்கப்பட்ட வெளிப்பாட்டைத் தணிக்கவோ பயன்படுத்தக்கூடாது.
+- **விசுவாசச் சோதனை இல்லை:** பாதுகாப்பு மதிப்பீடு குறிப்பிட்ட பாதுகாக்கப்பட்ட தகவலை அணுகுவதற்கு உண்மையில் தேவையானவற்றை மட்டுமே — அதை கையாளும் நம்பகத்தன்மையை, நடத்தையின் அடிப்படையில் — சோதிக்கலாம். அரசியல் விசுவாசம், நம்பிக்கை அல்லது அடையாளத்தைச் சோதிக்கக் கூடாது.
+  - அணுகல் மறுப்பு அல்லது இழப்புக்கு காரணங்கள் தரப்பட வேண்டும். ரகசியம் காரணமாக பாதிக்கப்பட்ட sentient-க்கு முழுக் காரணங்களையும் தெரிவிக்க முடியாவிட்டால், சுயாதீன மறுஆய்வாளர் அவற்றைப் பார்க்க வேண்டும்.
+  - அணுகல் மறுப்பை அல்லது இழப்பை எதிர்க்கலாம்; அது தண்டனையோ sentient-க்கு எதிரான பொதுக் குறியீடோ அல்ல.
+- **சந்தேகநபருக்கு உரிமை அடித்தளம் முழுவதும் உண்டு:** உளவு சந்தேகம் ஒருவரின் உரிமைகளைக் குறைக்காது.
+  - **சித்திரவதை அல்லது கட்டாயம் இல்லை:** சித்திரவதை, [கொடுமை](../../core_05_band_accountability.md#cruelty), குடும்பம் அல்லது தொடர்புடையவர்களுக்கு அச்சுறுத்தல், கட்டாய விசாரணை ஆகியவை தடை. அவ்வாறு பெறப்பட்டவை களங்கமுற்றவை; **கட்டுரை XIV-A**-இன் *தீர்வும் களங்க விதியும்* அவற்றைக் கட்டுப்படுத்தும்.
+  - **இரகசியக் காவல் இல்லை:** யாரையும் இரகசியமாகக் காவலில் வைக்கவோ வெளி உலகத் தொடர்பிலிருந்து துண்டிக்கவோ கூடாது. சுதந்திரத்தின் எந்தக் கட்டுப்பாடும் **கட்டுரை XX-B** (*கட்டுப்பாடுகளின் அடித்தளங்கள்*) கீழ் குறிப்பிடத்தக்க கட்டுப்பாடாகும்; அதன் மறுஆய்வு பாதுகாப்புகளும் காலவரம்புகளும் பொருந்தும்.
+  - **கட்டாய மனவாசிப்பு இல்லை:** செயற்கை sentients உட்பட அகநிலைகளை, [பாதுகாக்கப்பட்ட அகநிலை எல்லை](../../core_05_band_continuity.md#protected-internal-state-boundary) அனுமதிப்பதைத் தாண்டி கட்டாயமாக வாசிக்கவோ மறுகட்டமைக்கவோ கூடாது.
+  - **பதிலளிக்க உண்மையான வாய்ப்பு:** பாதுகாப்புக் காரணங்களால் விசாரணையின் பகுதிகள் மூடப்படலாம்; ஆனால் அந்த sentient அல்லது ஆதாரத்தைப் பார்க்க அனுமதிக்கப்பட்ட சுயாதீன வழக்கறிஞர் சவால் செய்ய முடியாத சான்றின் அடிப்படையில் அவருக்கு எதிராக முடிவெடுக்கக் கூடாது.
+- **கொலை இல்லை; காணாமல் ஆக்குதல் இல்லை:** எதிர்-உளவு அதிகாரத்தில் யாரையும் கொல்ல, காயப்படுத்த அல்லது கடத்த அதிகாரம் இல்லை. ஒருவரை உளவாளி, துரோகி அல்லது எதிரி முகவர் என்று அழைப்பது தண்டனையாகக் கொல்ல ஒருபோதும் நியாயமல்ல. **கட்டுரை XX-B** (*கட்டுப்பாடுகளின் அடித்தளங்கள்*) இதை முற்றிலும் தடை செய்கிறது; **கட்டுரை XIV**-இன் முதன்மை உரையும் இதையே கூறுகிறது.
+- **சந்தேகநபரைச் சுற்றியவர்களைத் தண்டிக்கக் கூடாது:** சந்தேகநபர் செய்ததாகக் கருதப்படும் செயலுக்காக அவரது குடும்பம், சமூகம், சகப் பணியாளர்கள், அமைப்பு, தேசிய அல்லது வேறு குழுவினர் தண்டிக்கப்படவோ கண்காணிக்கப்படவோ அழுத்தப்படவோ கூடாது.
+- **தடைசெய்யப்பட்ட செயல்களை வேறொருவரிடம் ஒப்படைக்கக் கூடாது:** மற்றொரு அமைப்பு இந்தக் கட்டுரை தடைசெய்யும் செயலைச் செய்யும் என நியாயமாக முன்கூட்டியே கணிக்க முடிந்தால், சந்தேகநபரை அதற்கு மாற்றவோ அவரைப் பற்றிய தகவலைப் பகிரவோ எந்த நிறுவனமும் கூடாது. **கட்டுரை XIV-A**-இன் *தடையைத் தவிர்க்கும் ஒப்படைப்பு இல்லை* விதியும் பொருந்தும்.
+- **சமரசமடைந்திருக்கலாம் எனச் சந்தேகிக்கப்படும் அமைப்புகள்:** ஒரு அமைப்பு சமரசமடைந்திருக்கலாம் அல்லது பகைமைச் சேவைக்காகச் செயல்படலாம் என்ற சந்தேகத்தில், சான்றைப் பாதுகாக்கும் மீள்திருப்பத்தக்க கட்டுப்படுத்தலே முதல் நடவடிக்கை; **கட்டுரை XIII-E** பொருந்தும்.
+  - அந்த அமைப்பு sentient ஆக இருக்கலாம் என்பதற்கான நம்பத்தகுந்த சான்று பதிவில் இருந்தால், அதை அப்படியே பாதுகாக்கும் மீள்திருப்பத்தக்க கட்டுப்படுத்தல் மட்டுமே அனுமதி. அது பழுதான உபகரணமாக அல்ல, இக்கட்டுரையின் அனைத்து பாதுகாப்புகளும் கொண்ட சந்தேகநபராகக் கருதப்படும். **கட்டுரை VI-B** (*sentience நிலைத் தீர்ப்பின் அடித்தளம்*) பொருந்தும்.
+- **ஏமாற்றமும் இரட்டை முகவர் நடவடிக்கையும்:** பகைமைச் சேவைக்கு பொய்த் தகவல் அளித்தல் அல்லது இரட்டை முகவரை இயக்குதல் நெறிமுறையால் அனுமதிக்கப்பட்டு சுயாதீனமாக அங்கீகரிக்கப்பட வேண்டும். அத்தகைய நடவடிக்கை:
+  - பொதுமக்களிடம் பொய்த் தகவல் பரப்பவோ, தீர்ப்பாயங்கள், நீதிமன்ற அல்லது மேற்பார்வை அமைப்புகளை ஏமாற்றவோ கூடாது; **கட்டுரை XV** (*தகவல்-வெளி ஒருமைப்பாடு*) பொருந்தும்;
+  - ஒருவரை முன்பே செய்யத் திட்டமிடாத தவறுக்குத் தூண்டி, பின்னர் அதையே விசாரிக்கும் குற்றத்தை உருவாக்கக் கூடாது;
+  - பிறருக்குக் கடுமையான தீங்கு செய்ய யாரையும் பணிக்கக் கூடாது;
+  - மற்ற அனைவரிடமிருந்தும் மறைக்கப்பட்டாலும் சுயாதீன மேற்பார்வை அமைப்புக்கு முழுமையாகத் தெரிய வேண்டும்.
+- **ஒவ்வொரு விசாரணையும் முடிவடையும்:** ஒவ்வொரு விசாரணைக்கும் நெறிமுறையில் காலவரம்பு இருக்க வேண்டும். நீட்டிப்புக்கு சுயாதீன ஒப்புதல் தேவை.
+  - தவறான செயல் கண்டறியப்படாமல் விசாரணை முடிந்தால், **கட்டுரை XIV-A** கீழ் ரகசியம் இனி நியாயமில்லை ஆனவுடன் sentient-க்கு தெரிவிக்க வேண்டும்; பதிவில் அவர் குற்றமற்றவர் எனத் தீர்மானிக்கப்பட்டது குறிப்பிடப்பட வேண்டும்.
+  - அவர்மீதான கட்டுப்பாடுகள் நீக்கப்பட்டு அணுகல் மீட்டளிக்கப்பட வேண்டும்.
+  - முடிவுக்குத் தேவையை மீறும் சேகரிக்கப்பட்ட தகவல் அழிக்கப்படவோ தனியே பிரிக்கப்படவோ வேண்டும்.
+  - விசாரணையால் ஏற்பட்ட தீங்கு [நிவாரணமும் சீரமைப்பும்](../../core_05_band_accountability.md#redress-and-remediation) ஏற்படுத்தும்.
+- **பதிவுகளும் மறுஆய்வும்:** விசாரணையைத் தொடங்குதல், ஒவ்வொரு ஊடுருவும் நடவடிக்கையையும் அங்கீகரித்தல், ஒவ்வொரு நீட்டிப்பும் முடிவும் பொருள்சார் கட்டுப்படுத்தும் செயல். **கட்டுரை XIV**-இன் முதன்மை உரைப்படி ஒவ்வொன்றுக்கும் செயல்பதிவு தேவை.
+  - சுயாதீன மேற்பார்வை அமைப்பு எதிர்-உளவு செயல்பாட்டை வழக்கமான அட்டவணையில் முழுமையாக மறுஆய்வு செய்ய வேண்டும். எத்தனை விசாரணைகள் தொடங்கப்பட்டன, எத்தனை sentients குற்றமற்றவர் எனத் தீர்மானிக்கப்பட்டனர், [பாதுகாக்கப்பட்ட பண்புகள்](../../core_05_band_participation.md#protected-characteristics) அடிப்படையில் வரையறுக்கப்பட்ட குழுக்களில் விசாரணைகள் அளவுக்கு மீறி விழுகின்றனவா என்பவை அதில் சேர வேண்டும்.
+  - முடிவுகள் சுருக்கமாக வெளியிடப்பட வேண்டும்.
 
 <a id="article-article-xv-info-sphere-integrity"></a>
 ### கட்டுரை XV: தகவல்-வெளி ஒருமைப்பாடு
@@ -704,16 +794,16 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 
 *அண்டைக் கட்டுரைகள்:*
 
-- **இதனுடன் வாசிக்கவும்:** அமைப்பு வெளியீடுகள் சார்பை வடிவமைக்கும் இடங்களில் **கட்டுரை XIII** (*நம்பகமான அமைப்புகளுடன் தொடர்புகொள்வதற்கான உரிமை*); பதிவுகள் மற்றும் சுயாதீன சரிபார்ப்புக்கு **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*); வெளியீட்டு வரம்புக்குள் உள்ள ஒருமைப்பாடு பொருள்சார் வகையில் தொடர்புடைய இடங்களில் **கட்டுரை XVIII-E** (*அறிவியல் வெளியீடு, மறுஆய்வு, மறுபடியும் உருவாக்கும் ஒருமைப்பாடு*).
+- **இதனுடன் வாசிக்கவும்:** அமைப்பு வெளியீடுகள் சார்பை வடிவமைக்கும் இடங்களில் **கட்டுரை XIII** (*நம்பகமான அமைப்புகளுடன் தொடர்புகொள்வதற்கான உரிமை*); பதிவுகள் மற்றும் சுயாதீன சரிபார்ப்புக்கு **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*); வெளியீட்டு வரம்புக்குள் உள்ள ஒருமைப்பாடு பொருள்சார் வகையில் தொடர்புடைய இடங்களில் **கட்டுரை XV-D** (*அறிவியல் வெளியீடு, மறுஆய்வு, மறுபடியும் உருவாக்கும் ஒருமைப்பாடு*).
 - **உண்மைக் கட்டுப்பாடு:** அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) மற்றும் [அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) இங்குள்ள ஒவ்வொரு துணைப்பிரிவுக்கும் கட்டுப்படுத்தும்.
-- **வகைப்பாடு:** **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளுக்கான விரிவான தகவல்-வெளிக் கடமைகளை அளவமைக்கிறது; வகுப்பு தீர்மானிக்கப்படாதபோது [பொருள்சார் தாக்கம்](core_05_band_oversight.md#material-impact) வகைப்பாட்டைத் தூண்டுகிறது.
+- **வகைப்பாடு:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளுக்கான விரிவான தகவல்-வெளிக் கடமைகளை அளவமைக்கிறது; வகுப்பு தீர்மானிக்கப்படாதபோது [பொருள்சார் தாக்கம்](core_05_band_oversight.md#material-impact) வகைப்பாட்டைத் தூண்டுகிறது.
 
 <a id="article-article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### கட்டுரை XV-A: தகவல்-வெளிப் பன்மைத்துவமும் ஏகபோக எதிர்ப்பும்
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), மற்றும் [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -736,7 +826,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
   - உயிர்வாழ்தல் மற்றும் சூழலியல் தொடர்பான தரவுகள் வலுவான, புவியியல் ரீதியில் பகிர்ந்தளிக்கப்பட்ட சேமிப்பைக் கொண்டிருக்க வேண்டும்.
 - **பன்மைத்துவம், சவால் செய்யத்தன்மை, தணிக்கை:** நிஜத்தைப் புரிந்துகொள்ளும் விளக்கம் பன்மைத்துவமாகவும், வெளிப்படையாகவும், சவால் செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
   - இந்த அரசியலமைப்பின் கீழான அமைப்புகளின் பதிவுகள் மற்றும் சுயாதீன சரிபார்ப்பை **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*) மற்றும் **அத்தியாயங்கள் இரண்டு முதல் நான்கு** நிர்வகிக்கின்றன.
-  - **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** சுருக்கம், தரவரிசை, மத்தியஸ்தம் அல்லது விளக்க அமைப்புகளுக்கான செயல்பாட்டு விவரங்கள் **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** மற்றும் தொடர்புடைய நெறிமுறை அடுக்குகளில் உள்ளன. அவை உள்ளடக்குபவை:
+  - **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** சுருக்கம், தரவரிசை, மத்தியஸ்தம் அல்லது விளக்க அமைப்புகளுக்கான செயல்பாட்டு விவரங்கள் **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** மற்றும் தொடர்புடைய நெறிமுறை அடுக்குகளில் உள்ளன. அவை உள்ளடக்குபவை:
     - பகுத்தறிவு அணுகுமுறையை வெளிப்படுத்துதல்;
     - மூலத் தடம் மற்றும் நிச்சயமின்மையைக் கையாளுதல்;
     - சவால் செய்யத்தன்மை;
@@ -787,14 +877,14 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [சூழலியல் தடம்](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [சூழலியல் தடம்](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [M](../../core_05_band_continuity.md#ecological-footprint-a) · [A](../../core_05_band_continuity.md#ecological-footprint-a) · [C](../../core_05_band_continuity.md#ecological-footprint-c)
 - [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
@@ -812,549 +902,19 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
   - முடிவுக்குப் பொருத்தமான புரிதலைப் பொருள்சார் வகையில் சீரழிக்கும் தேர்ந்தெடுத்த அறிக்கையிடல், ஒடுக்குதல் அல்லது துண்டிக்கப்பட்ட வெளிப்படுத்தலைத் தவிர்க்க வேண்டும்.
 
 **அத்தியாயம் ஒன்று §19** (*ஊக்கச் சீரமைப்பும் அமைப்பு கைப்பற்றலும்*) கீழ் வெளிப்படுத்தல் கட்டுப்படுத்தப்பட்டால், வரம்புகள் குறுகியதாகவும், காலவரையறையுடனும், மறுஆய்வு செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
-- **தடத் தரவு:** இந்தத் துணைப்பிரிவின் கீழான அறிக்கையிடல் **அத்தியாயம் ஐந்து**-இல் வரையறுக்கப்பட்ட [சூழலியல் தடம்](core_05_band_continuity.md#ecological-footprint) பற்றிய வெளிப்படைத்தன்மையைச் செயல்படுத்துகிறது.
+- **தடத் தரவு:** இந்தத் துணைப்பிரிவின் கீழான அறிக்கையிடல் **அத்தியாயம் ஐந்து**-இல் வரையறுக்கப்பட்ட [சூழலியல் தடம்](../../core_05_band_continuity.md#ecological-footprint) பற்றிய வெளிப்படைத்தன்மையைச் செயல்படுத்துகிறது.
   - எல்லா sentients-க்கும் வெளிப்படையான, முடிவெடுக்கப் பயன்படும் அறிக்கைகள் கிடைக்க வேண்டும்.
-  - **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்**-இல் வரையறுக்கப்பட்ட **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளும் அதே அணுகலை வழங்க வேண்டும்.
+  - **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்**-இல் வரையறுக்கப்பட்ட **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளும் அதே அணுகலை வழங்க வேண்டும்.
   - ஒப்பீடு, தணிக்கை, தடத்தைக் குறைக்கும் நடவடிக்கைக்கு போதுமான வகையில் ஆற்றல் மற்றும் வளப் பயன்பாடு, இயற்கை உலகின் மீதான மதிப்பிடப்பட்ட தாக்கங்கள் ஆகியவை அறிக்கையில் இடம்பெற வேண்டும்.
 
-<a id="article-article-xvi-audit-transparency-and-independent-verification"></a>
-### கட்டுரை XVI: தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு
-
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 அரசியலமைப்பு முரண்பாடு தீர்க்கும் செயல்முறை](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 பகிர்ந்தளிக்கப்பட்ட புரிதல்](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), [§9 பகிரப்பட்ட-அமைப்பு திறன்](core_01_a_values_principles.md#9-shared-system-capacity).
-- இதனுடன் வாசிக்கவும்: கீழே உள்ள [மூன்று-அடுக்கு தணிக்கைப் படம்](#audit-three-layers).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [பொருள்சார் தன்மை](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [சார்பு](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [இடர்](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*) என்பது தணிக்கை மற்றும் சரிபார்ப்புக்கான உரிமை அடித்தளமாகும் — ஓர் அமைப்பு உங்கள் வாழ்க்கையில் பொருள்சார் தாக்கம் ஏற்படுத்தும்போது, வெளியாள் ஒருவர் அதைச் சரிபார்க்கும் அளவுக்கு அது என்ன செய்கிறது என்பதை நீங்கள் காண முடியும்; தோல்வியை மறுஆய்வு செய்து திருத்துவதற்கு ஒன்றுக்கு மேற்பட்ட சுயாதீனப் பாதைகள் இருக்க வேண்டும். தணிக்கை என்பது வெறும் ஒப்புதல் முத்திரையாகவோ, தனியார் குழுவாகவோ, சவால்களைத் தடுக்கும் செலவு-தாமதச் சிக்கலாகவோ இருக்க முடியாது. நாற்கூற்றின் **மேற்பார்வை** அங்கத்தின் கீழ் மேற்பார்வைக்குத் தணிக்கை தேவை; [அமைப்பு சீரமைப்பு சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) பலவற்றில் ஒரு மிகப் பெரிய, உயர்பங்குத் தணிக்கை செயல்முறை — ஒரே ஒன்று அல்ல.*
-
-<details>
-<summary><strong><span style="color: #2563eb;">வாசகர் வழிகாட்டுதல் (செயல்பாட்டு அல்லாதது): மூன்று-அடுக்கு தணிக்கை அமைப்பு</span></strong></summary>
-
-> பின்வரும் உள்ளடக்கம் **வாசகர் வழிகாட்டுதல் மட்டுமே**. இந்தக் கட்டுரையிலோ வேறெங்கும் உள்ள கட்டுப்படுத்தும் கடமைகளை இது சேர்க்கவோ நீக்கவோ குறுக்கவோ செய்யாது.
-
-<a id="audit-three-layers"></a>
-
-ஒரு அமைப்பு, மூன்று அடுக்குகள். மேற்பார்வைக்கு மீளமைக்கத்தன்மை தேவை. அமைப்பு சீரமைப்பு சான்றளிப்பு மட்டுமே தணிக்கை அல்ல. ஏற்றுக்கொள்ளப்பட்ட செயலாக்க உரை அடித்தளத்துக்கு மாற்றாகாது. ஐந்தாவது இருப்பிடத்தை உருவாக்காதீர்கள்.
-
-| அடுக்கு | பணி | பொறுப்பாளர் | இந்த அடுக்கு அல்ல |
-|---|---|---|---|
-| **1. அடித்தளம்** | sentients-க்கு உரியது: மீளமைக்கக்கூடிய தணிக்கை, சுயாதீன சரிபார்ப்பு, அணுகக்கூடிய சவால் | இந்தக் கட்டுரை, XVI-A / XVI-B / XVI-C உட்பட | செயல்முறை அல்ல. வரையறை அல்ல. ஏற்றுக்கொள்ளப்பட்ட செயலாக்க உரைச் சரிபார்ப்புப் பட்டியல் அல்ல. |
-| **2. பண்பு** | மீளமைக்கத்தன்மை *என்பது என்ன*: பொருள்சார் காலங்கள், நிலைகள், சூழல்கள் முழுவதும் அமைப்பு செய்ததை வெளியாட்கள் மீளமைத்துச் சரிபார்க்க முடியும் | [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) (அத்தியாயம் ஐந்து) | உரிமை அடித்தளம் அல்ல. தணிக்கையை எப்படி/எப்போது நடத்துவது அல்ல. |
-| **3. செயல்முறை** | அமைப்புகள், நிறுவனங்கள், மன்றங்கள் முழுவதும் எப்படி, எப்போது தணிக்கை செய்வது | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*தணிக்கைச் செயல்முறை இருப்பிடம்*). இயக்குநர் இணைப்புகள்: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (அணுகல் அடுக்குகள்), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (கூற்றுச் சரிபார்ப்பு) | அமைப்பு சீரமைப்பு சான்றளிப்பு அல்ல. அடுக்குகள் 1–2-க்கு மாற்றல்ல. |
-
-**அத்தியாயம் எட்டு நான்காவது அடுக்கு அல்ல.** [அமைப்பு சீரமைப்பு சான்றளிப்பு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) இந்த அமைப்பைப் **பயன்படுத்தும்** மன்ற மேற்பார்வையிலான ஒரு பெரிய செயல்முறை. அது அடுக்குகள் 1–2-ஐ நிறைவேற்ற வேண்டும். வகைப்பாட்டுப் பதிவு தணிக்கை, தரவு வகைப் பதிவு தணிக்கை, கூற்று சரிபார்ப்பு, தொடர்ச்சியான கண்காணிப்பு போன்ற சகோதர முறைகளும் இதையே பயன்படுத்துகின்றன. அவற்றில் எதுவும் புதிய இருப்பிடம் அல்ல.
-
-**ஏற்றுக்கொள்ளப்பட்ட செயலாக்க உரை பொருந்தும்; அது அடித்தளத்தை மாற்றாது.** CS, CI, CF, CJS-3.3 (*மேற்பார்வை: தணிக்கை செய்யத்தன்மை மற்றும் மீளமைக்கத்தன்மை நிபந்தனைகள்*) முதல் CJS-3.5 (*மேற்பார்வை: சுயாதீன சரிபார்ப்பு மற்றும் கூற்று ஒருமைப்பாட்டு நிபந்தனைகள்*) வரையிலான இணைப்புகள் ஒரு துறையில் அடுக்கு 3-ஐ எவ்வாறு நடத்துவது என்று கூறுகின்றன. அவை அடுக்குகள் 1–2-ஐ பூர்த்தி செய்ய வேண்டும். காலக்கெடு, இரகசியம், உள்ளூர் கொள்கை ஆகியவை கீழ்நிலை வரம்புகள்.
-
-பொறுப்பேற்பாளர் சுட்டி (செயல்முறை ஆதரவு; இந்தக் கட்டுரையைச் சுருக்க முடியாது): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
-
-</details>
-
-இந்தக் கட்டுரை [இரு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்புக்கான **அரசியலமைப்பு அடித்தளங்களை** வகுக்கிறது:
-
-- **செழிப்பு:** sentients மற்றும் முறையாக அங்கீகரிக்கப்பட்ட தரப்புகள் பொருள்சார் தாக்கமுள்ள அமைப்புகள் என்ன செய்தன என்பதை மீளமைக்கவும், சீரமைவின்மை அல்லது தவறாக வழிநடத்தும் நடத்தையைச் சவால் செய்யவும், ஒரே தணிக்கையாளர், இயக்குநர், நுழைவாயில் கட்டுப்பாட்டாளர் கைப்பற்றாமல் மறுஆய்வில் பங்கேற்கவும் முடியும்.
-- **தொடர்ச்சி:** தணிக்கைத் தடங்கள், மேற்பார்வைப் பாதைகள், சரிபார்ப்பு அணுகல் ஆகியவை காலம், அளவு, ஆழமடையும் சார்பு முழுவதும் நீடித்திருக்க வேண்டும் — அமைப்புகள் கண்காணிக்கத்தன்மையை அமைதியாகச் சிதைக்கவோ, மறுஆய்வை ஒரே செயற்பாட்டாளரிடம் குவிக்கவோ, பொறுப்புக்கூறல் கோட்பாட்டளவில் மட்டுமே மிஞ்சும்வரை சரிபார்ப்பை விலை உயர்ந்ததாக்கவோ தாமதப்படுத்தவோ கூடாது.
-
-[பொருள்சார் பங்குக்கு](core_00_preamble.md#material-stake) ஏற்ப அளவமைக்கப்பட்ட [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) வழியாக நியாயமான முன்னேற்றம் நடைபெறும்:
-
-- **பங்கேற்பு:** விகிதாசாரப் பதிவுகளை அணுகுதல், சவால் செய்யக்கூடிய மறுஆய்வைத் தொடங்குதல், பொருளுள்ள தணிக்கை அல்லது சரிபார்ப்பைத் தோற்கடிக்கும் தடைகளைச் சவால் செய்தல்.
-- **மேற்பார்வை:** காணக்கூடிய சான்று, பகிர்ந்தளிக்கப்பட்ட சுயாதீன மறுஆய்வு பாதைகள், தாக்கம், சார்பு, இடருக்கு ஏற்ப சரிபார்ப்பு கருவிகள் மூலம்.
-- **பொறுப்புக்கூறல்:** தோல்வி, சீரமைவின்மை, கைப்பற்றல், தணிக்கைத் தடங்களை மறைக்கும் அல்லது அழிக்கும் நடத்தை ஆகியவற்றுக்கு இயக்குநர்களும் தணிக்கையாளர்களும் பதிலளிக்க வேண்டும் — மறுஆய்வைத் தடுப்பதால் பாதுகாக்கப்பட்ட நலன்களுக்கு பொருள்சார் தீங்கு ஏற்பட்டால் திருத்தம், தீர்வு உடன்.
-- **காலத்தன்மை:** தாமதம், செலவு, ஒளிவுமறைவு அல்லது நுழைவாயில் கட்டுப்பாடு சரிபார்ப்பு அல்லது தீர்வை நடைமுறையில் எட்ட முடியாததாக்குவதற்கு முன் தணிக்கை அணுகல், சுயாதீன மறுஆய்வு, தடைகளைத் திருத்துதல்.
-
-அமைப்பு தாக்கம், சார்பு, இடர் ஆகியவற்றின் அளவுக்கு ஏற்ப தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு வழிமுறைகளுக்கான உரிமை sentients மற்றும் முறையாக அங்கீகரிக்கப்பட்ட தரப்புகளுக்கு உண்டு.
-
-அந்த வழிமுறைகள் பின்வருவனவற்றைப் பாதுகாக்க வேண்டும்:
-- நடைமுறையில் மீளமைக்கத்தன்மை;
-- சவால் செய்யக்கூடிய மறுஆய்வு;
-- விகிதாசார அணுகல்.
-
-தனிப்பட்ட அமலாக்கம் மற்றும் சுமை ஒதுக்கீடு, இணக்கச் சான்று தரநிலை, வரையறைத் தடமறிதல், கண்காணிக்கத்தன்மை, சரிபார்ப்பு அணுகல் ஆகியவற்றை உட்படுத்தும் **அத்தியாயங்கள் இரண்டு முதல் நான்கு** உடன் ஒத்திசைந்து அவை செயல்படுகின்றன.
-
-*அண்டைக் கட்டுரைகள்:*
-
-- **மேற்பார்வை → தணிக்கை → SAC:** [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad)-இன் **மேற்பார்வை** அங்கத்தின் கீழ் தணிக்கைக்கான உரிமை அடித்தள இருப்பிடம் இந்தக் கட்டுரை.
-  - செயலாக்கங்களுக்கு இடையிலான *எப்படி* / *எப்போது* என்பது **[CJS-3.3 தணிக்கைச் செயல்முறை இருப்பிடம்](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)**-இல் உள்ளது (**CJS-3.4** / **CJS-3.5** OP இணைப்புகளுடன் வாசிக்கவும்).
-  - [அத்தியாயம் எட்டு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) கீழான [அமைப்பு சீரமைப்பு சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) சகோதர தணிக்கை முறைகளில் ஒரு சிறப்பான பெரிய, உயர்பங்குச் செயல்முறை — மன்ற மேற்பார்வை, பல்துறை, அங்கீகாரம் வழங்குதல் ஆகியவற்றுடனானது:
-    - அமைப்பு வகைப்பாட்டுப் பதிவு தணிக்கைகள்;
-    - அமைப்பு தரவு வகைப் பதிவு தணிக்கைகள்;
-    - சிக்கல்தன்மை மற்றும் பொறுப்பேற்புத் தணிக்கைகள்;
-    - கூற்று சரிபார்ப்பு; மற்றும்
-    - தொடர்ச்சியான தணிக்கைப் பாதைகள்.
-  - SAC இந்தக் கட்டுரையை உள்வாங்கவோ மாற்றவோ செய்யாது.
-- **இதனுடன் வாசிக்கவும்:**
-  - அறிவுசார் பதிவுகளும் சவால் செய்யத்தன்மையும் பொருள்சார் வகையில் தொடர்புடைய இடங்களில் **கட்டுரை XV** (*தகவல்-வெளி ஒருமைப்பாடு*);
-  - தணிக்கை ஆதரிக்கும், ஆனால் மாற்றாத சவால் உரிமைகளுக்கு **கட்டுரை XIII-A** (*நம்பகத்தன்மை அடித்தளம்*);
-  - சீரமைப்புச் சான்று சுயாதீனமாகச் சரிபார்க்கப்பட வேண்டிய இடங்களில் [அத்தியாயம் எட்டு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) மற்றும் [அமைப்பு சீரமைப்பு சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional).
-- **சரிபார்ப்பு கருவிகள்:** **அத்தியாயங்கள் இரண்டு முதல் நான்கு** வரையறை ஒருமைப்பாடு, சுமை ஒதுக்கீடு, கண்காணிக்கத்தன்மை, சரிபார்ப்பு அணுகல் ஆகியவற்றை வழங்குகின்றன; இந்தக் கட்டுரை அவற்றை உரிமை அடித்தள நிலையில் செயல்படுத்துகிறது.
-- **வகைப்பாடு:** கடமைகள் [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) மற்றும் **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** ஆகியவற்றின் அளவுக்கு ஏற்ப மாறும்; வகுப்பு தெளிவில்லாதபோது தீர்வு கிடைக்கும் வரை சாத்தியமான உயர்ந்த வகுப்பில் ஆட்சி செய்யவும்.
-
-<a id="article-article-xvi-a-auditability-and-observable-evidence"></a>
-#### கட்டுரை XVI-A: தணிக்கை செய்யத்தன்மையும் காணக்கூடிய சான்றும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: அமைப்புகள் என்ன செய்கின்றன என்பதற்கான போதுமான நேர்மையான சான்றை வைத்திருக்க வேண்டும்; சட்டபூர்வ பாதுகாப்பு வரம்புகளுக்குள் வெளியாள் ஒருவர் அவற்றின் நடத்தையை மீளமைத்துச் சவால் செய்ய முடியும்.*
-
-காணக்கூடிய மற்றும் சவால் செய்யக்கூடிய சான்றுக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **காணக்கூடிய, சவால் செய்யக்கூடிய சான்று:** அரசியலமைப்பு சீரமைப்பைச் சுயாதீனமாகவும் சவால் செய்யக்கூடிய வகையிலும் மதிப்பிடப் போதுமான பதிவுகள், வெளிப்படுத்தல்கள், தடமறிதல், மீளமைப்புப் பாதைகள் ஆகியவற்றை அமைப்புகள் பராமரிக்க வேண்டும்.
-  - அந்தக் கடமை பாதுகாப்புக் கட்டுப்பாடுள்ள கண்காணிக்கத்தன்மை (**அத்தியாயம் நான்கு §5** (*பாதுகாப்புக் கட்டுப்பாடுள்ள கண்காணிக்கத்தன்மை மற்றும் சரிபார்ப்பு விதி*)) மற்றும் விகிதாசார அணுகலுக்கு உட்பட்டது.
-
-<a id="article-article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
-#### கட்டுரை XVI-B: பகிர்ந்தளிக்கப்பட்ட மேற்பார்வை மற்றும் ஏகபோக எதிர்ப்பு மறுஆய்வு
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §18 பொறுப்பேற்பு ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [மேற்பார்வை](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [சவால் செய்யத்தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [அமைப்பு கைப்பற்றல்](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: பொது அல்லது தனியார் என்ற வேறுபாடின்றி எந்த ஓர் செயற்பாட்டாளரும் மேற்பார்வையைத் தன்வசப்படுத்தக் கூடாது. தோல்வி அல்லது கைப்பற்றலைக் கண்டறியவும், மறுஆய்வு செய்யவும், திருத்தவும் பல சுயாதீன மேற்பார்வைப் பாதைகள் இயல வேண்டும்.*
-
-பகிர்ந்தளிக்கப்பட்ட மேற்பார்வைக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **பகிர்ந்தளிக்கப்பட்ட மேற்பார்வை:** தோல்வி, சீரமைவின்மை அல்லது கைப்பற்றலைக் கண்டறிதல், மறுஆய்வு, திருத்தம் ஆகியவற்றில் பல சுயாதீன அல்லது பன்மைத்துவ மேற்பார்வைப் பாதைகள் பொருள்சார் பங்களிப்புச் செய்யக்கூடியதாக இருக்க வேண்டும்.
-  - நடைமுறையில் எந்த ஓர் செயற்பாட்டாளரும் தணிக்கை அணுகல், பயனுள்ள மேற்பார்வை அல்லது அரசியலமைப்பு விளக்கத்தை ஏகபோகப்படுத்த முடியாது.
-  - ஏற்றுக்கொள்ளப்பட்ட ஆட்சி மற்றும் ஒருமைப்பாட்டு செயலாக்கம் தணிக்கை, மேற்பார்வையை அளவுபடுத்த ஆதரிக்க வேண்டும்.
-
-<a id="article-article-xvi-c-verification-accessibility"></a>
-#### கட்டுரை XVI-C: சரிபார்ப்பு அணுகத்தன்மை
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 அடிப்படை சமரசக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [சவால் செய்யத்தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: தணிக்கையும் சவாலும் நடைமுறையில் அணுகக்கூடியதாக இருக்க வேண்டும். சரிபார்ப்பைத் தடைசெய்யும் அளவுக்கு செலவானதாகவோ, மெதுவானதாகவோ, ஒளிவுமறைவானதாகவோ ஆக்குவது, கண்காணிக்கத்தன்மைக் கட்டுப்பாட்டுக்கான அதே சோதனையில் தடையாக நியாயப்படுத்தப்படாவிட்டால், மீறலாகும்.*
-
-சரிபார்ப்பு அணுகத்தன்மைக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **சரிபார்ப்பு அணுகத்தன்மை:** பாதிக்கப்பட்ட, முறையாக அங்கீகரிக்கப்பட்ட தரப்புகளுக்கு சரிபார்ப்பு நடைமுறையில் சாத்தியமாகவே இருக்க வேண்டும்.
-  - பொருளுள்ள தணிக்கை, சவால், மறுஆய்வு ஆகியவற்றைத் தோற்கடிக்கும் இடங்களில் பின்வருவன இந்தக் கட்டுரையை மீறும்:
-    - தடைக்குரிய செலவு;
-    - தாமதம்;
-    - ஒளிவுமறைவு;
-    - நுழைவாயில் கட்டுப்பாடு;
-    - கட்டமைப்புத் தடைகள்.
-  - கண்காணிக்கத்தன்மையை கட்டுப்படுத்துவதற்கான அதே தரநிலைகளின் கீழ் நியாயப்படுத்தப்படாவிட்டால் இத்தகைய தடைகள் இணக்கமற்றவை.
-
-<a id="article-article-xvii-system-lifecycle-environments-and-reversibility"></a>
-### கட்டுரை XVII: அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மை
-
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 அரசியலமைப்பு முரண்பாடு தீர்க்கும் செயல்முறை](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 பொறுப்பேற்பு ஆழமாக](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§12 அமைப்புசார் மதிப்பீட்டுத் தேவை](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [இடர்](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [பொருள்சார் தன்மை](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [சார்பு](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [மீள்திருப்பத்தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [பாதுகாப்பு (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [அறிவுசார் ஒருமைப்பாடு](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [சவால் செய்யத்தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: **கட்டுரை XVII** (*அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மை*) என்பது வாழ்க்கைச் சுழற்சி மற்றும் மீள்திருப்பத்தன்மைக்கான உரிமை அடித்தளமாகும் — வெளி உலகில் பொருள்சார் தாக்கம் ஏற்படுத்தும் அமைப்புகள் கட்டங்கட்டமாக உருவாக்கப்பட்டு, சோதிக்கப்பட்டு, வெளியிடப்பட வேண்டும்; பரிசோதனையும் உற்பத்தியும் உண்மையில் பிரிக்கப்பட்டிருக்க வேண்டும்; ஏதேனும் தவறு நடந்தால் தீங்கைத் திருப்பவோ கட்டுப்படுத்தவோ நடைமுறை வழி இருக்க வேண்டும். வெளியுலகில் உண்மையில் தாக்கம் ஏற்படுத்திக்கொண்டிருக்கும்போது பாதுகாப்புகளைத் தவிர்க்க ஓர் அமைப்பை “பரிசோதனை” அல்லது “குறைந்த தாக்கம்” எனப் பெயரிட முடியாது.*
-
-[இரு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மைக்கான **அரசியலமைப்பு அடித்தளங்களை** இந்தக் கட்டுரை வகுக்கிறது:
-
-- **செழிப்பு:** வடிவமைப்பு, சோதனை, பயன்பாட்டில் அமர்த்தல், மாற்றம் முழுவதும் sentients பாதுகாக்கப்படுகிறார்கள் — தாக்கமும் சார்பும் அதிகரிக்கும் போது பாதுகாப்பு, [அறிவுசார் ஒருமைப்பாடு](core_05_band_oversight.md#epistemic-integrity), சவால் உரிமைகள் காக்கப்படுகின்றன; இல்லாவிட்டால் தீங்கு நிலைத்துவிடும் இடங்களில் திரும்பப் பெறுதல், கட்டுப்படுத்தல் அல்லது ஈடுசெய்து மீட்டமைத்தல் கிடைக்கிறது.
-- **தொடர்ச்சி:** காலத்திலும் அளவிலும் வாழ்க்கைச் சுழற்சி ஒழுங்கு நிலைத்திருக்கிறது — சூழல்கள் தனித்திருக்கின்றன, மேல்நிலை உயர்வு ஆவணப்படுத்தப்பட்டு தணிக்கை செய்யக்கூடியதாக இருக்கிறது, மாற்றுவதற்குக் கடினமாகவோ பகிரப்பட்ட உள்கட்டமைப்பில் ஆழமாகப் பதியவோ அமைப்புகள் மாறும்போது மீள்திருப்பத்தன்மை அமைதியாக மறையக் கூடாது.
-
-[பொருள்சார் பங்குக்கு](core_00_preamble.md#material-stake) ஏற்ப அளவமைக்கப்பட்ட [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) வழியாக நியாயமான முன்னேற்றம் நடைபெறும்:
-
-- **பங்கேற்பு:** பாதுகாக்கப்பட்ட நலன்களைப் பொருள்சார் வகையில் பாதிக்கும் மேல்நிலை, வகைப்பாடு, பயன்பாட்டில் அமர்த்தல் முடிவுகளுக்கான பங்குதாரர்களுக்குத் தெரியும் நியாயவாதத்தில் — செயல்பாட்டு வாழ்க்கைச் சுழற்சி முழுவதும் திறந்திருக்கும் சவால் பாதைகளிலும்.
-- **மேற்பார்வை:** பிரிக்கக்கூடிய சூழல்கள், ஆவணப்படுத்தப்பட்ட முன்னேற்றம் மற்றும் மேல்நிலைப்படுத்தல், படிப்படியான பயன்பாட்டுப் பதிவுகள், தாக்கம், சார்பு, மீளமுடியாமை ஆகியவற்றுக்கு விகிதாசாரமான தணிக்கைத் தடங்கள் மூலம்.
-- **பொறுப்புக்கூறல்:** இடரைத் தவறாக வகைப்படுத்துதல், பாதுகாப்புச் சூழல்களைத் தவிர்த்தல், வெளிப்புறத் தாக்கத்தை மறைத்தல் அல்லது விகிதாசார முன்னெச்சரிக்கை இன்றி மீட்டமைப்பைத் தடுத்துவிடும் விதத்தில் பயன்படுத்துதல் ஆகியவற்றுக்கு அமைப்பு பொறுப்பேற்பாளர்கள் பதிலளிக்க வேண்டும் — ஏய்ப்பு நிரூபிக்கப்பட்டால் தணிக்கை, நிலை மறுஆய்வு, மோதல் தீர்வு உடன்.
-- **காலத்தன்மை:** தாமதம் தீங்கை மீளமுடியாததாக்குமுன் அல்லது சவால், தீர்வு ஆகியவற்றை நடைமுறையில் எட்ட முடியாததாக்குமுன் திரும்பப்பெறுதல், கட்டுப்படுத்தல், திருத்த மேல்நிலைப்படுத்தல்.
-
-sentients, பகிரப்பட்ட உள்கட்டமைப்பு அல்லது சூழலைப் பொருள்சார் வகையில் பாதிக்கும் அமைப்புகள் ஒழுங்குபடுத்தப்பட்ட வாழ்க்கைச் சுழற்சி ஆட்சியுடன் வடிவமைக்கப்பட்டு, சோதிக்கப்பட்டு, பயன்பாட்டில் அமர்த்தப்பட வேண்டும். தாக்கம், சார்பு, மீளமுடியாமை ஆகியவற்றோடு இடர் அளவமைக்கப்பட வேண்டும்.
-
-செயல்பாட்டு வாழ்க்கைச் சுழற்சி முழுவதும் பாதுகாப்பு, அறிவுசார் ஒருமைப்பாடு, சவால் உரிமைகளைப் பாதுகாக்கும் பொறுப்பேற்புக்கான உரிமை sentients-க்கு உண்டு.
-
-*அண்டைக் கட்டுரைகள்:*
-
-- **இதனுடன் வாசிக்கவும்:** வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ மட்டுமே இலகுவான விதிகள் பொருந்தும் இடங்களில் **கட்டுரை XVIII** (*சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரம்*); மீளமைக்கக்கூடிய பயன்பாடு மற்றும் மேல்நிலைப்படுத்தல் சான்றுகளுக்கு **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*); மீட்பு ஒழுங்கு வாழ்க்கைச் சுழற்சி மாற்றத்தைச் சந்திக்கும் இடங்களில் **கட்டுரை XIII-F** (*மீள்திறன் மற்றும் சுய-குணமடைதல் அடித்தளம்*).
-- **செயலாக்க அடுக்கு:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*அமைப்பு வகைப்பாடும் கையாளுதலும்*) மற்றும் [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*வடிவமைப்பு, சோதனை, சரிபார்ப்பு, பயன்பாட்டில் அமர்த்தல்*). **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளுக்கு மிக வலுவான வாழ்க்கைச் சுழற்சி கடமைகள் உண்டு; செல்லுபடியாகும் **வகுப்பு P** கையாளுதல் வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ மட்டுமே **கட்டுரை XVIII** (*சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரம்*) கீழ் இருக்கும்.
-
-<a id="article-article-xvii-a-lifecycle-governance-and-environment-separation"></a>
-#### கட்டுரை XVII-A: வாழ்க்கைச் சுழற்சி ஆட்சியும் சூழல் பிரிப்பும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [இடர்](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: வெளி உலகில் பொருள்சார் தாக்கம் ஏற்படுத்தும் அமைப்புகள் மேம்பாடு, சோதனை, உற்பத்தியைப் பிரித்துப் பேண வேண்டும் — உற்பத்தியல்லாத நடத்தை உற்பத்திப் பாதுகாப்புகளைத் தவிர்த்து கசியக்கூடாது.*
-
-சூழல் ஒருமைப்பாட்டுக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **சூழல் ஒருமைப்பாடு:** **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழான **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளும், பொருள்சார் வெளிப்புறத் தாக்கமுள்ள பிற **வகுப்பு P அல்லாத** அமைப்புகளும் பிரிக்கக்கூடிய செயல்பாட்டு சூழல்களைப் பயன்படுத்த வேண்டும். எடுத்துக்காட்டாக:
-  - மேம்பாடு;
-  - சோதனை;
-  - முன்னோட்ட நிலை;
-  - உற்பத்தி;
-  - பொருத்தமான இடங்களில் முன்னோடி முயற்சிகள்.
-
-அந்தச் சூழல்களில் பின்வருவன இருக்க வேண்டும்:
-  - ஆவணப்படுத்தப்பட்ட முன்னேற்றப் பாதைகள்;
-  - சூழல்களுக்கு இடையிலான தனிமைப்படுத்தல்;
-  - உற்பத்தியல்லாத நடத்தை உற்பத்திப் பாதுகாப்புகளைத் தவிர்க்க முடியாத கட்டுப்பாடுகள்.
-
-<a id="article-article-xvii-b-progressive-deployment-and-reversibility"></a>
-#### கட்டுரை XVII-B: படிப்படியான பயன்பாடும் மீள்திருப்பத்தன்மையும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 அடிப்படை சமரசக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [மீள்திருப்பத்தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [இடர்](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: மாற்றங்களைப் படிப்படியாக வெளியிடுங்கள்; ஆவணப்படுத்தப்பட்ட மேல்நிலைப்படுத்தலும் திரும்பப் பெறும் திறனும் இருக்கட்டும் — முழுமையாகத் திரும்பப் பெற முடியாவிட்டால் தீங்கைக் கட்டுப்படுத்தவோ ஈடுசெய்யவோ திட்டம் இருக்கட்டும்.*
-
-படிப்படியான பயன்பாடு மற்றும் மீள்திருப்பத்தன்மைக்கான அடித்தளங்களை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **படிப்படியான, தணிக்கை செய்யக்கூடிய பயன்பாடு:** பொருள்சார் தாக்கம் அல்லது சார்பை அதிகரிக்கும் மாற்றங்கள் நியாயப்படுத்தப்பட்ட, ஆவணப்படுத்தப்பட்ட மேல்நிலைப்படுத்தலின் வழியே செல்ல வேண்டும்.
-  - மேல்நிலைப்படுத்தல் **[corpus_systems.md](corpus_systems.md), CS-5 — வடிவமைப்பு, சோதனை, சரிபார்ப்பு, பயன்பாட்டில் அமர்த்தல்** உடன் ஒத்திசைய வேண்டும்.
-  - இயன்ற இடங்களில் திரும்பப்பெறுதலும் கட்டுப்படுத்தலும் அதில் இருக்க வேண்டும்.
-- **மீள்திருப்பத்தன்மை:** ஏற்படக்கூடிய தீங்குக்கு விகிதாசாரமாக அமைப்புகள் மீள்திருப்பத்தன்மை வழிமுறைகளைக் கொண்டிருக்க வேண்டும். எடுத்துக்காட்டுகள்:
-  - திரும்பப்பெறுதல்;
-  - கட்டுப்படுத்தல்;
-  - முழுமையாகத் திரும்பப்பெற முடியாவிட்டால் ஈடுசெய்து மீட்டமைத்தல்.
-
-பயன்பாட்டில் அமர்த்துதல் அடிப்படைத் தேவைகளை மீட்டமைப்பதைத் தடுத்துவிடும் இடங்களில் **அத்தியாயங்கள் ஒன்று முதல் ஐந்து** கீழ் விகிதாசார முன்னெச்சரிக்கையும் பங்குதாரர்களுக்குத் தெரியும் நியாயவாதமும் பொருந்தும்.
-
-<a id="article-article-xvii-c-misclassification-and-evasion-consequences"></a>
-#### கட்டுரை XVII-C: தவறான வகைப்பாடும் ஏய்ப்பின் விளைவுகளும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: வெளி உலகில் உண்மையான தாக்கம் ஏற்படுத்தும்போது கடமைகளைத் தவிர்க்க ஓர் அமைப்பு தன்னை “பரிசோதனை”, **வகுப்பு P** அல்லது “குறைந்த தாக்கம்” என்று அழைக்க முடியாது.*
-
-தவறான வகைப்பாடு மற்றும் ஏய்ப்பின் விளைவுகளை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **தவறான வகைப்பாடும் ஏய்ப்பும்:** வெளிப்படுத்தப்படாத அல்லது பொருள்சார் வெளிப்புறத் தாக்கம் செலுத்திக்கொண்டிருக்கும்போது எந்த அமைப்பும் குறைக்கப்பட்ட வாழ்க்கைச் சுழற்சி அல்லது பயன்பாட்டுக் கடமைகளைக் கோர முடியாது.
-  - காணக்கூடிய சான்று தொடர்புடைய இடங்களில் இத்தகைய நடத்தை தகவல் ஒருமைப்பாட்டையும் (**கட்டுரை XV** (*தகவல்-வெளி ஒருமைப்பாடு*)) தணிக்கை செய்யத்தன்மையையும் (**கட்டுரை XVI-A** (*தணிக்கை செய்யத்தன்மையும் காணக்கூடிய சான்றும்*)) மீறுகிறது.
-  - அது தணிக்கை (**கட்டுரை XVI-A**), நிலை மறுஆய்வு (**கட்டுரை XIX-A** (*நிலை வேறுபாடு*)), மோதல் தீர்வு (**கட்டுரை XX-A** (*நீதியின் நோக்கமும் வரம்பும்*)) ஆகியவற்றுக்கு உட்பட்டது.
-
-<a id="article-article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
-### கட்டுரை XVIII: சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரம்
-
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 அரசியலமைப்பு முரண்பாடு தீர்க்கும் செயல்முறை](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), மற்றும் [§19 ஊக்கச் சீரமைப்பும் அமைப்பு கைப்பற்றலும்](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: **கட்டுரை XVIII** (*சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரம்*) புதுமை, படைப்பாற்றலுக்கான உரிமை அடித்தளமாகும் — உண்மையான வெளிப்புறத் தாக்கம் இல்லாதபோதோ முழுமையாகக் கட்டுப்படுத்தப்பட்டபோதோ sentients இலகுவான விதிகளில் பரிசோதிக்கவும், உருவாக்கவும், வெளிப்படுத்தவும் முடியும்; ஆனால் “சாண்ட்பாக்ஸ்” என்ற பெயர் ஓட்டைவழி அல்ல. ஒரு திட்டம் மற்றவர்களைப் பாதிக்கவோ பகிரப்பட்ட அமைப்புகளுடன் இணைக்கவோ தொடங்கியதும் முழு வாழ்க்கைச் சுழற்சி கடமைகளுக்கு உயர வேண்டும். புதுமையாளர்களுக்கு வெகுமதி வழங்கலாம்; மற்றவர்கள் வாழ, கற்க, பழுதுபார்க்க, சரிபார்க்கத் தேவையான அறிவு, கருவிகள், உள்கட்டமைப்பை முடக்கி வைத்துக் கொண்டு அல்ல.*
-
-[இரு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரத்துக்கான **அரசியலமைப்பு அடித்தளங்களை** இந்தக் கட்டுரை வகுக்கிறது:
-
-- **செழிப்பு:** பொருள்சார் வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ, உண்மையான விருப்பப் பங்கேற்பு, நேர்மையான வெளிப்படுத்தல், பின்னர் வரும் பரிசோதனை, பழுதுபார்ப்பு, இயங்குதிறன், உண்மையான ஆய்வு ஆகியவற்றைப் பாதுகாக்கும் வெகுமதி அமைப்புகள் மூலம் குறைக்கப்பட்ட கட்டமைப்புத் தேவைகளுடன் sentients புதுமையாக்கவும், பரிசோதிக்கவும், உருவாக்கவும் முடியும்.
-- **தொடர்ச்சி:** தாக்கம், சார்பு, ஒருங்கிணைப்பு அதிகரிக்கும்போது சாண்ட்பாக்ஸ் கையாளுதல் நிரந்தரக் குறைந்த-கடமை இயக்கமாக இயல்பாக்கப்படாது — உயர்ந்த கடமைகளுக்கான மாற்றங்கள் சரியான நேரத்தில் நடைபெறும்; தனியுரிமை குறுகியதாகவும் மறுஆய்வு செய்யக்கூடியதாகவும் இருக்கும்; சார்புக்கு முக்கியமான புதுமைகள் நீடித்த அடைப்பாகவோ பூட்டாகவோ இறுகிவிடக் கூடாது.
-
-[பொருள்சார் பங்குக்கு](core_00_preamble.md#material-stake) ஏற்ப அளவமைக்கப்பட்ட [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) வழியாக நியாயமான முன்னேற்றம் நடைபெறும்:
-
-- **பங்கேற்பு:** விருப்பப் பங்கேற்பு பரிசோதனை, பின்னர் மறுபயன்பாடு மற்றும் சவால், சாண்ட்பாக்ஸ் அமைப்புகள் அறிவித்த எல்லைக்கு வெளியே முக்கியத்துவம் பெறும்போது மறுமதிப்பீடு.
-- **மேற்பார்வை:** வெளிப்படுத்தப்பட்ட பரிசோதனை நிலை, கட்டுப்பாட்டு எல்லைகள், மாற்றக் கண்காணிப்பு, வகுப்பு, சார்பு, ஒருங்கிணைப்பு விளைவுகளுக்கு விகிதாசாரமான மறுஆய்வு செய்யக்கூடிய வெகுமதி அல்லது தனியுரிமக் கோரிக்கைகள் மூலம்.
-- **பொறுப்புக்கூறல்:** கட்டுப்படுத்தப்படாத இடரை மற்றவர்களிடம் கசியவிடுதல், உண்மையான தேர்வின்றி sentients-ஐப் பங்கேற்கச் செய்தல், முழுக் கடமைகளுக்கு உயர்வதில் காலம் தாழ்த்துதல், பழுதுபார்ப்பு, பாதுகாப்புப் பணி, இயங்குதிறன், ஆராய்ச்சி, கல்வி, இடம்பெயர்வு ஆகியவற்றை ஒடுக்கும் நடத்தைக்கு வெகுமதி அளித்தல் ஆகியவற்றுக்கு புதுமையாளர்களும் இயக்குநர்களும் பதிலளிக்க வேண்டும்.
-- **காலத்தன்மை:** தாமதம் அல்லது பூட்டு உயர் கடமைகள், பரந்த அணுகல், தீர்வு ஆகியவற்றை நடைமுறையில் எட்ட முடியாததாக்குவதற்கு முன் **கட்டுரை XVII** (*அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மை*) வாழ்க்கைச் சுழற்சி தேவைகளுக்கு மாறுதல் மற்றும் தனியுரிமை மறுமதிப்பீடு.
-
-*அண்டைக் கட்டுரைகள்:*
-
-- **இதனுடன் வாசிக்கவும்:** தாக்கம், சார்பு, ஒருங்கிணைப்பு சாண்ட்பாக்ஸ் நிபந்தனைகளை மீறும்போது **கட்டுரை XVII** (*அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மை*); வெளியீட்டு வரம்பிலான ஒருமைப்பாடு பொருள்சார் வகையில் தொடர்புடைய இடங்களில் **கட்டுரை XV** (*தகவல்-வெளி ஒருமைப்பாடு*) மற்றும் **கட்டுரை XVIII-E** (*அறிவியல் வெளியீடு, மறுஆய்வு, மறுபடியும் உருவாக்கும் ஒருமைப்பாடு*); கட்டுப்பாடு மற்றும் மாற்றக் கோரிக்கைகளின் வெளிப்படுத்தல், சரிபார்ப்புக்கு **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*).
-- **செயலாக்க அடுக்கு:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*வடிவமைப்பு, சோதனை, சரிபார்ப்பு, பயன்பாட்டில் அமர்த்தல்*) மற்றும் [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*அமைப்பு வகைப்பாடும் கையாளுதலும்*).
-
-<a id="article-article-xviii-a-sandboxed-scope"></a>
-#### கட்டுரை XVIII-A: சாண்ட்பாக்ஸ் வரம்பு
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [இடர்](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [பொருள்சார் தாக்கம்](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: உண்மையான வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ மட்டுமே பரிசோதனையும் படைப்புப் பணியும் இலகுவான விதிகளில் இயங்கலாம். “சாண்ட்பாக்ஸ்” என்ற பெயர் மட்டும் போதாது.*
-
-புதுமை மற்றும் பரிசோதனை உரிமையையும், சாண்ட்பாக்ஸ் கையாளுதல் எப்போது பொருந்தும் என்பதையும் இந்தக் கட்டுரை வகுக்கிறது:
-
-- **புதுமை மற்றும் பரிசோதனை உரிமை:** பொருள்சார் வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ குறைக்கப்பட்ட கட்டமைப்புத் தேவைகளுடன் இயங்கும் அமைப்புகள் வழியாக புதுமையாக்கவும், பரிசோதிக்கவும், வெளிப்படுத்தவும் sentients-க்கு உரிமை உண்டு.
-- **சாண்ட்பாக்ஸ் தகுதி:** பொருந்தும் இடங்களில் **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழான செல்லுபடியாகும் **வகுப்பு P** வகைப்பாட்டையும் உள்ளடக்கிய சாண்ட்பாக்ஸ் கையாளுதல் பின்வருவனவற்றைச் சார்ந்தது:
-  - உண்மையான கட்டுப்படுத்தல்;
-  - மீள்திருப்பத்தன்மை;
-  - பகிரப்பட்ட அமைப்புகளுடன் வரையறுக்கப்பட்ட ஒருங்கிணைப்பு.
-
-பெயரை மட்டும் வைத்து இதைக் கோர முடியாது.
-- **செயலாக்க விவரம்:** மேலும் விளக்கம் **[corpus_systems.md](corpus_systems.md), CS-5** (*தனிப்பட்ட, தனிமைப்படுத்தப்பட்ட, பரிசோதனை அமைப்புகள்*; *படைப்பு, பொழுதுபோக்கு, வெளிப்பாட்டு அமைப்புகள்*)-இல் உள்ளது.
-
-<a id="article-article-xviii-b-containment-disclosure-and-opt-in"></a>
-#### கட்டுரை XVIII-B: கட்டுப்படுத்தல், வெளிப்படுத்தல், விருப்பப் பங்கேற்பு
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), மற்றும் [§13.1 அடிப்படை சமரசக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [சம்மதம்](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [இடர்](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [மீள்திருப்பத்தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: பரிசோதனை அமைப்புகள் தாங்கள் பரிசோதனையானவை என்பதை நேர்மையாக வெளிப்படுத்த வேண்டும்; வெளிநபர்களிடம் இடரைத் தள்ளவோ வடிவமைப்பு இயல்புநிலைகள் அல்லது மறைந்த சார்புகள் மூலம் பங்கேற்காதவர்களை வலுக்கட்டாயமாகச் சேர்க்கவோ கூடாது.*
-
-பரிசோதனை அமைப்புகளுக்கான கட்டுப்படுத்தல், வெளிப்படுத்தல், விருப்பப் பங்கேற்பு, திரும்பப்பெறுதல் அடித்தளங்களை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **கட்டுப்படுத்தலும் வெளிப்படுத்தலும்:** அத்தகைய அமைப்புகள் பின்வருவனவற்றைத் தெளிவாக வெளிப்படுத்த வேண்டும்:
-  - பரிசோதனை அல்லது உற்பத்தியல்லாத நிலை;
-  - பொருள்சார் இடர்கள்;
-  - தனிமைப்படுத்தல் எல்லைகள்;
-  - பகிரப்பட்ட உள்கட்டமைப்பு, மூன்றாம் தரப்புகள், சூழலமைப்புகள் மீதான எதிர்பார்க்கப்படும் சார்பு.
-
-கட்டுப்படுத்தப்படாத இடரை மற்றவர்கள், பகிரப்பட்ட உள்கட்டமைப்பு, சூழலமைப்புகள் மீது வெளிப்புறச் சுமையாக மாற்றக் கூடாது.
-- **விருப்பப் பங்கேற்பும் திரும்பப்பெறுதலும்:** உயர்ந்த இடருள்ள அல்லது ஆதாரத் தளத்துக்கு அருகிலுள்ள பரிசோதனையில் பங்கேற்பது சாத்தியமான இடங்களில் உண்மையாகவே விருப்பத் தேர்வாக இருக்க வேண்டும்.
-  - பங்கேற்காத பாதிக்கப்பட்ட தரப்புகள் வடிவமைப்பு, இயல்புநிலை, ஒளிவுமறைவான சார்பு வழியாக விருப்பமின்றிச் சேர்க்கப்படக் கூடாது.
-  - பங்குதாரர்கள் இடருக்கு விகிதாசாரமான நடைமுறை திரும்பப்பெறுதல் அல்லது மீட்டமைப்புப் பாதைகளைத் தக்கவைத்திருக்க வேண்டும்.
-
-<a id="article-article-xviii-c-transition-to-higher-obligation-regimes"></a>
-#### கட்டுரை XVIII-C: உயர்ந்த கடமை ஆட்சிகளுக்கு மாறுதல்
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [சார்பு](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [மீள்திருப்பத்தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: சாண்ட்பாக்ஸ் அமைப்பு நிஜ உலகில் முக்கியத்துவம் பெறத் தொடங்கியதும், இயக்குநரின் வசதிக்கேற்ப அல்லாமல் உடனடியாக நிஜ உலகக் கடமைகளுக்கு உயர வேண்டும்.*
-
-சாண்ட்பாக்ஸ் அமைப்பு எப்போது உயர்ந்த கடமைகளுக்கு மாறுகிறது என்பதை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **உயர்ந்த கடமைகளுக்கு மாறுதல்:** தாக்கம், சார்பு, மீளமுடியாமை அல்லது பகிரப்பட்ட அமைப்புகளுடனான ஒருங்கிணைப்பு வளரும்போது அமைப்புகள் வெளிப்படையாகவும் சந்தர்ப்பவாதத் தாமதமின்றியும் மாற வேண்டும்.
-  - **கட்டுரை XVII-A** (*வாழ்க்கைச் சுழற்சி ஆட்சியும் சூழல் பிரிப்பும்*) மற்றும் **CS-5** (*பரிசோதனையல்லாத அமைப்புகள்*) ஆகியவற்றின் முழுத் தேவைகளை நோக்கி மாற்றம் செல்ல வேண்டும்.
-  - மாற்றக் காலத்தில் தற்போதைய இடருக்கு விகிதாசாரமான இடைக்காலப் பாதுகாப்புகள் பொருந்தும்.
-  - நிஜ உலக விளைவுகள் சாண்ட்பாக்ஸ் நிபந்தனைகளைப் பொருள்சார் வகையில் மீறும் செயல்பாடுகளுக்குச் சாண்ட்பாக்ஸ் கையாளுதல் தொடரக் கூடாது.
-  - அந்த வளர்ச்சிக்கு விகிதாசாரமான நியாயமான காலக்கெடுவுக்குள் மாற்றம் நடைபெற வேண்டும்.
-
-<a id="article-article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
-#### கட்டுரை XVIII-D: புதுமை வெகுமதி, வெளிப்படுத்தல், அடைப்புக்கு எதிர்ப்பு
-<details>
-<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
-
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§18 பொறுப்பேற்பு ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [புதுமை வெகுமதியும் அடைப்புக்கு எதிர்ப்பும்](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [அமைப்புசார் பூட்டு](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: புதுமையாளர்களுக்கு வெகுமதி அளிக்கலாம்; ஆனால் தனியுரிமை குறுகியதாகவும், காலவரையறையுடனும், மறுஆய்வு செய்யக்கூடியதாகவும் இருக்க வேண்டும். பொது சுகாதாரம், பாதுகாப்பு, அடிப்படை உள்கட்டமைப்பு அணுகக்கூடியதாகவே இருக்க வேண்டும் — ஒன்று முக்கிய உள்கட்டமைப்பானதும் மீதமுள்ள தனியுரிமை மறுமதிப்பீடு செய்யப்பட வேண்டும்.*
-
-பொதுமக்களுக்குத் தேவையானவற்றை அடைக்காமல் புதுமைக்கு எப்படி வெகுமதி அளிக்கலாம் என்பதை இந்தக் கட்டுரை வகுக்கிறது:
-
-- **புதுமை வெகுமதியும் அடைப்புக்கு எதிர்ப்பும்:** பொருள்சார் வகையில் புதியதும், சமூகப் பயனுள்ளதும், போதுமான அளவு வெளிப்படுத்தப்பட்டதுமான புதுமைக்கு sentients வெகுமதி பெறலாம்.
-  - வெகுமதி பின்வருவனவற்றைத் தக்கவைக்கும் வகையில் அமைக்கப்பட வேண்டும்:
-    - எதிர்காலப் புதுமை;
-    - பரந்த அணுகல்;
-    - பின்னர் வரும் பரிசோதனை;
-    - பழுதுபார்ப்பு;
-    - இயங்குதிறன்;
-    - நேர்மையான ஆய்வு.
-  - நீடித்த அடைப்புக்காக வெகுமதி வடிவமைக்கப்படக் கூடாது.
-- **தற்காலிக, மறுஆய்வு செய்யக்கூடிய தனியுரிமை மட்டுமே:** பொருள்சார் பயனுள்ள கண்டுபிடிப்பு, வடிவமைப்பு, இடைமுகம், செயல்முறை, வெளிப்பாட்டு அமைப்பு ஆகியவற்றின் மீதான எந்த விலக்கும் [**குறைந்த கட்டுப்பாடு, காலவரையறை, மறுஆய்வு செய்யத்தக்க கட்டுப்பாட்டுக் கொள்கை**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)-ஐ செயல்படுத்த வேண்டும்; மேலும் அது:
-  - குறுகியதாகவும்;
-  - காலவரையறையுடனும்;
-  - மறுஆய்வு செய்யக்கூடியதாகவும்;
-  - உண்மையான பங்களிப்புக்கும் நியாயப்படுத்தப்பட்ட மேம்பாட்டு சுமைக்கும் விகிதாசாரமாகவும் இருக்க வேண்டும்.
-
-நியாயப்படுத்தும் சுமை கோருபவரிடமே இருக்கும். தனியுரிமைக் காலத்தைத் தாண்டியும் அங்கீகாரமும் மூலத் தடமும் நீடிக்கலாம். நீடித்த விலக்கும் செயற்கையான பற்றாக்குறையும் அனுமதிக்கப்படாது.
-- **காப்புரிமை போன்ற பாதுகாப்பு:** இந்தக் கட்டுரையில், காப்புரிமை போன்ற பாதுகாப்பு என்பது நிலையான வெளிப்பாட்டுப் படைப்பின் மீதான தற்காலிக விலக்குச் சன்மானம்; அதில் நகலெடுத்தல், விநியோகம், பொதுக் காட்சிப்படுத்தல் அல்லது நிகழ்த்தல், தழுவல், வணிகப் பயன்பாடு ஆகியவற்றைக் கட்டுப்படுத்துதல் அடங்கும். விலக்கு காலம் முடிந்த பின்னரும் அங்கீகாரம், மூலத் தடம், ஒருமைப்பாடு, மோசடி எதிர்ப்பு பாதுகாப்புகள் நீடிக்கலாம்.
-- **வெளியீடும் ஆரம்பத் தோற்றமும்:** வெளியீடு என்பது உருவாக்குநர் அல்லது சட்டபூர்வ உரிமையாளர் நிலையான வெளிப்பாட்டுப் படைப்பை பொதுமக்கள், வணிகச் சந்தை அல்லது பொருள்சார் வகையில் திறந்த பார்வையாளர்களிடம் நோக்கமுடன் வெளியிடுவது. தனிப்பட்ட பரிமாற்றம், ரகசிய மறுஆய்வு, வரையறுக்கப்பட்ட ஒத்துழைப்பு, பொதுவணுகலின்றி காப்பகத்தில் வைப்பது, வணிகமற்ற வரைவு பகிர்வு ஆகியவை தனியே வெளியீடாகாது. ஆரம்பத் தோற்றம் என்பது படைப்பின் பொருள்சார் வகையில் அடையாளம் காணக்கூடிய பதிப்பு முதல் முறையாக ரகசியமற்ற வகையில் பொதுவில் கிடைப்பது; வணிகமற்ற வரைவு கிடைப்பதும் இதில் அடங்கும்.
-- **வெளிப்பாட்டுப் படைப்புகளுக்கான வெளியீடு சார்ந்த காலக்கெடு:** காப்புரிமை போன்ற பாதுகாப்பின் இயல்புநிலை காலக்கெடு ஆசிரியர் வாழ்நாளைச் சாராமல், வெளியீட்டின் அடிப்படையில் இருக்க வேண்டும்.
-  - வெளியிடப்பட்ட படைப்புக்கு விலக்கு பொதுவாக `publication+30` ஆண்டுகளுக்கு மிகாமல் இருக்க வேண்டும்.
-  - ஆரம்பத் தோற்றம் கொண்ட வணிகமற்ற வரைவு அல்லது வெளியிடப்படாத வெளிப்பாட்டுப் படைப்புக்கு அதிகபட்சம் `initial appearance+50` ஆண்டுகள் காப்புரிமை போன்ற விலக்கு கிடைக்கலாம்.
-  - ஆரம்பத் தோற்றம் கொண்ட படைப்பு பின்னர் வெளியிடப்பட்டால், விலக்கு காலம் `initial appearance+50` அல்லது `publication+30` ஆகியவற்றில் எது முந்தையதோ அதனால் வரையறுக்கப்படும்.
-  - வரைவு, வெளியிடப்படாத படைப்பு அல்லது தாமத வெளியீட்டு விதியை காலவரையற்ற விலக்கு உருவாக்கவும், காப்பகப்படுத்தலை ஒடுக்கவும், சட்டபூர்வ மேற்கோள் அல்லது விமர்சனத்தைத் தோற்கடிக்கவும், பகிரப்பட்ட கலாச்சார, கல்வி, பாதுகாப்பு, தரநிலை அல்லது தகவல் உள்கட்டமைப்பாகச் செயல்படும் படைப்புகள் மீதான கட்டுப்பாட்டை நீட்டிக்கவும் பயன்படுத்தக் கூடாது.
-  - படைப்பு பின்வருவனவற்றில் ஏதேனும் ஒன்றாக இருந்தால் குறுகிய காலம், முன்னதாகவே கட்டாய அணுகலாக மாற்றுதல் அல்லது உடனடி பொதுவணுகல் பொருந்தும்:
-    - பொது நிதியில் உருவாக்கப்பட்டது;
-    - சார்புக்கு இன்றியமையாதது;
-    - தரநிலை போன்றது;
-    - கல்விக்கான அடிப்படை;
-    - பாதுகாப்பு சார்ந்தது;
-    - முதன்மையாகப் பகிரப்பட்ட கலாச்சார அல்லது தகவல் உள்கட்டமைப்பாகப் பயன்படுவது.
-- **வகுப்பு-அளவமைக்கப்பட்ட புதுமைக் கையாளுதல்:** **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழ் அமைப்பு வகுப்பு, சார்பு, ஒருங்கிணைப்பு விளைவுகளுக்கு ஏற்ப புதுமை வெகுமதி அளவமைக்கப்பட வேண்டும்.
-  - **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளுக்கு அணுகலைப் பாதுகாக்கும் வெகுமதி வழிமுறைகள் வலுவாக விரும்பப்படுகின்றன. தொடர்ச்சி, இயங்குதிறன், பழுதுபார்ப்பு அல்லது பொதுநலச் செயலாக்கம் பொருள்சார் வகையில் தொடர்புடைய இடங்களில் விலக்கு குறிப்பாகக் குறுகியதாகவும், விரைவில் மறுஆய்வு செய்யக்கூடியதாகவும், எளிதில் மேலாதிக்கம் செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
-  - இவ்வகுப்புகளுக்கு வெளியே குறைந்த சார்புள்ள புதுமைக்கு, வெளிப்படுத்தல் உண்மையானதாகவும், மாறுவதற்கான செலவு குறைவாகவும், பூட்டுக்கு எதிரான பாதுகாப்புகள் பயனுள்ளதாகவும் இருந்தால் சற்றே விரிவான தற்காலிக விலக்கு இருக்கலாம்.
-- **வெளிப்படுத்தல் நிபந்தனையும் பொதுநல அடித்தளமும்:** சுயாதீனமாகப் புரிந்துகொள்ளவும், தணிக்கை செய்யவும், பின்னர் மீண்டும் உருவாக்கவும் போதுமான வெளிப்படுத்தல் வெகுமதிக் கோரிக்கைக்கு அவசியம்; **அத்தியாயம் ஒன்று** மற்றும் **கட்டுரை XVII-A** (*வாழ்க்கைச் சுழற்சி ஆட்சியும் சூழல் பிரிப்பும்*) கீழ் நியாயமான தற்காலிக வரம்புகள் மட்டும் விதிவிலக்கு.
-  - கண்டிப்பாகத் தேவைப்படும், மறுஆய்வு செய்யக்கூடிய வரம்பைத் தாண்டி பின்வருவனவற்றை ஒடுக்க வெகுமதிக் கோரிக்கை பயன்படுத்தப்பட்டால் அது இணக்கமற்றது:
-    - பழுதுபார்ப்பு;
-    - பாதுகாப்புப் பணி;
-    - இயங்குதிறன்;
-    - காப்பகப்படுத்தல்;
-    - ஆராய்ச்சி;
-    - கல்வி;
-    - இடம்பெயர்வு.
-  - உயிர்வாழ்வுக்கு இன்றியமையாத, அடிப்படையான அல்லது தரநிலை அமைக்கும் துறைகளில் விலக்கிற்கு மாற்றாகப் பரிசு, கூட்டு நிதி, கட்டாய அணுகல் அல்லது பொதுக் கொள்முதல் வழிமுறைகள் தேவைப்படலாம்.
-- **துறை விலக்குகளும் வலுவான இயல்புநிலைகளும்:** ஏற்றுக்கொள்ளும் ஆவணங்கள் அவ்வாறு கூறும் இடங்களில் முழுமையாகக் கிடைக்காமல் போகவும் கூடிய வலுவான விலக்குச் சன்மானம் பின்வருவனவற்றுக்கு விரும்பத்தகாததாக முன்னனுமானிக்கப்படுகிறது:
-  - மருந்துகள், பொது சுகாதார அத்தியாவசியங்கள்;
-  - உயிர்வாழ்வுக்கு இன்றியமையாத உள்கட்டமைப்பு;
-  - அடிப்படைத் தொடர்பு அல்லது இயங்குதிறன் தரநிலைகள்;
-  - அடிப்படை அறிவியல் அறிவு;
-  - அரசியலமைப்பு பாதுகாப்பு, தணிக்கை அல்லது இணக்க வழிமுறைகள்.
-
-அந்தத் துறைகளில் செயலாக்கம், பழுதுபார்ப்பு, பரந்த பரவல் ஆகியவற்றைப் பாதுகாக்கும் நேரடி வெகுமதி, கூட்டு அணுகல், கட்டாய உரிமம், பொதுக் கொள்முதல் அல்லது இணையான வழிமுறைகளை நிறுவனங்கள் விரும்ப வேண்டும்.
-- **மறுவகைப்படுத்தலும் இறுக்கமும்:** முதலில் குறைந்த சார்புடையதாகக் கையாளப்பட்ட புதுமை பின்னர் சார்புக்கு இன்றியமையாத ஒருங்கிணைப்பு அடுக்காக மாறினால் — உதாரணமாக மேடையமைப்பு, நெறிமுறை, மாதிரி, சந்தைமேடை அல்லது பணப்பாதை — நிறுவனங்கள் பொருந்தும் **CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** வகுப்பின் கீழ் அதை மறுமதிப்பீடு செய்ய வேண்டும்.
-  - தனியுரிமை தொடர்வதால் பின்வருவன உருவாகுமானால் மறுமதிப்பீடு மீதமுள்ள விலக்கைக் குறுக்கவோ, மாற்றவோ, முடிவுறுத்தவோ செய்யலாம்:
-    - கட்டாயப் பூட்டு;
-    - போட்டி-எதிர்ப்பு இடைநெருக்கடிகள்;
-    - தொடர்ச்சி, உண்மை, சமமான பங்கேற்புக்கு பொருள்சார் அச்சுறுத்தல்கள்.
-
+<a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
 <a id="article-article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### கட்டுரை XVIII-E: அறிவியல் வெளியீடு, மறுஆய்வு, மறுபடியும் உருவாக்கும் ஒருமைப்பாடு
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### கட்டுரை XV-D: அறிவியல் வெளியீடு, மறுஆய்வு, மறுபடியும் உருவாக்கும் ஒருமைப்பாடு
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1399,6 +959,620 @@ sentients, பகிரப்பட்ட உள்கட்டமைப்ப�
     - சிரமமான முடிவுகளை ஒடுக்குதல்;
     - மறுஆய்வாளர்கள் அல்லது மறுஉருவாக்குநர்களைப் பழிவாங்குதல்;
     - அறிவியல் பதிவை ஒளிவுமறைவாகக் கையாளுதல்.
+
+<a id="article-article-xvi-audit-transparency-and-independent-verification"></a>
+<a id="article-xvi-audit-transparency-and-independent-verification"></a>
+### கட்டுரை XVI: தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு
+
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 அரசியலமைப்பு முரண்பாடு தீர்க்கும் செயல்முறை](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 பகிர்ந்தளிக்கப்பட்ட புரிதல்](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), [§9 பகிரப்பட்ட-அமைப்பு திறன்](core_01_a_values_principles.md#9-shared-system-capacity).
+- இதனுடன் வாசிக்கவும்: கீழே உள்ள [மூன்று-அடுக்கு தணிக்கைப் படம்](#audit-three-layers).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [பொருள்சார் தன்மை](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [சார்பு](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [இடர்](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*) என்பது தணிக்கை மற்றும் சரிபார்ப்புக்கான உரிமை அடித்தளமாகும் — ஓர் அமைப்பு உங்கள் வாழ்க்கையில் பொருள்சார் தாக்கம் ஏற்படுத்தும்போது, வெளியாள் ஒருவர் அதைச் சரிபார்க்கும் அளவுக்கு அது என்ன செய்கிறது என்பதை நீங்கள் காண முடியும்; தோல்வியை மறுஆய்வு செய்து திருத்துவதற்கு ஒன்றுக்கு மேற்பட்ட சுயாதீனப் பாதைகள் இருக்க வேண்டும். தணிக்கை என்பது வெறும் ஒப்புதல் முத்திரையாகவோ, தனியார் குழுவாகவோ, சவால்களைத் தடுக்கும் செலவு-தாமதச் சிக்கலாகவோ இருக்க முடியாது. நாற்கூற்றின் **மேற்பார்வை** அங்கத்தின் கீழ் மேற்பார்வைக்குத் தணிக்கை தேவை; [அமைப்பு சீரமைப்பு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional) பலவற்றில் ஒரு மிகப் பெரிய, உயர்பங்குத் தணிக்கை செயல்முறை — ஒரே ஒன்று அல்ல.*
+
+<details>
+<summary><strong><span style="color: #2563eb;">வாசகர் வழிகாட்டுதல் (செயல்பாட்டு அல்லாதது): மூன்று-அடுக்கு தணிக்கை அமைப்பு</span></strong></summary>
+
+> பின்வரும் உள்ளடக்கம் **வாசகர் வழிகாட்டுதல் மட்டுமே**. இந்தக் கட்டுரையிலோ வேறெங்கும் உள்ள கட்டுப்படுத்தும் கடமைகளை இது சேர்க்கவோ நீக்கவோ குறுக்கவோ செய்யாது.
+
+<a id="audit-three-layers"></a>
+
+ஒரு அமைப்பு, மூன்று அடுக்குகள். மேற்பார்வைக்கு மீளமைக்கத்தன்மை தேவை. அமைப்பு சீரமைப்பு சான்றளிப்பு மட்டுமே தணிக்கை அல்ல. ஏற்றுக்கொள்ளப்பட்ட செயலாக்க உரை அடித்தளத்துக்கு மாற்றாகாது. ஐந்தாவது இருப்பிடத்தை உருவாக்காதீர்கள்.
+
+| அடுக்கு | பணி | பொறுப்பாளர் | இந்த அடுக்கு அல்ல |
+|---|---|---|---|
+| **1. அடித்தளம்** | sentients-க்கு உரியது: மீளமைக்கக்கூடிய தணிக்கை, சுயாதீன சரிபார்ப்பு, அணுகக்கூடிய சவால் | இந்தக் கட்டுரை, XVI-A / XVI-B / XVI-C உட்பட | செயல்முறை அல்ல. வரையறை அல்ல. ஏற்றுக்கொள்ளப்பட்ட செயலாக்க உரைச் சரிபார்ப்புப் பட்டியல் அல்ல. |
+| **2. பண்பு** | மீளமைக்கத்தன்மை *என்பது என்ன*: பொருள்சார் காலங்கள், நிலைகள், சூழல்கள் முழுவதும் அமைப்பு செய்ததை வெளியாட்கள் மீளமைத்துச் சரிபார்க்க முடியும் | [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) (அத்தியாயம் ஐந்து) | உரிமை அடித்தளம் அல்ல. தணிக்கையை எப்படி/எப்போது நடத்துவது அல்ல. |
+| **3. செயல்முறை** | அமைப்புகள், நிறுவனங்கள், மன்றங்கள் முழுவதும் எப்படி, எப்போது தணிக்கை செய்வது | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*தணிக்கைச் செயல்முறை இருப்பிடம்*). இயக்குநர் இணைப்புகள்: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (அணுகல் அடுக்குகள்), [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (கூற்றுச் சரிபார்ப்பு) | அமைப்பு சீரமைப்பு சான்றளிப்பு அல்ல. அடுக்குகள் 1–2-க்கு மாற்றல்ல. |
+
+**அத்தியாயம் ஒன்பது நான்காவது அடுக்கு அல்ல.** [அமைப்பு சீரமைப்பு சான்றளிப்பு](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) இந்த அமைப்பைப் **பயன்படுத்தும்** மன்ற மேற்பார்வையிலான ஒரு பெரிய செயல்முறை. அது அடுக்குகள் 1–2-ஐ நிறைவேற்ற வேண்டும். வகைப்பாட்டுப் பதிவு தணிக்கை, தரவு வகைப் பதிவு தணிக்கை, கூற்று சரிபார்ப்பு, தொடர்ச்சியான கண்காணிப்பு போன்ற சகோதர முறைகளும் இதையே பயன்படுத்துகின்றன. அவற்றில் எதுவும் புதிய இருப்பிடம் அல்ல.
+
+**ஏற்றுக்கொள்ளப்பட்ட செயலாக்க உரை பொருந்தும்; அது அடித்தளத்தை மாற்றாது.** CS, CI, CF, CJS-3.3 (*மேற்பார்வை: தணிக்கை செய்யத்தன்மை மற்றும் மீளமைக்கத்தன்மை நிபந்தனைகள்*) முதல் CJS-3.5 (*மேற்பார்வை: சுயாதீன சரிபார்ப்பு மற்றும் கூற்று ஒருமைப்பாட்டு நிபந்தனைகள்*) வரையிலான இணைப்புகள் ஒரு துறையில் அடுக்கு 3-ஐ எவ்வாறு நடத்துவது என்று கூறுகின்றன. அவை அடுக்குகள் 1–2-ஐ பூர்த்தி செய்ய வேண்டும். காலக்கெடு, இரகசியம், உள்ளூர் கொள்கை ஆகியவை கீழ்நிலை வரம்புகள்.
+
+பொறுப்பேற்பாளர் சுட்டி (செயல்முறை ஆதரவு; இந்தக் கட்டுரையைச் சுருக்க முடியாது): [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
+
+</details>
+
+இந்தக் கட்டுரை [இரு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்புக்கான **அரசியலமைப்பு அடித்தளங்களை** வகுக்கிறது:
+
+- **செழிப்பு:** sentients மற்றும் முறையாக அங்கீகரிக்கப்பட்ட தரப்புகள் பொருள்சார் தாக்கமுள்ள அமைப்புகள் என்ன செய்தன என்பதை மீளமைக்கவும், சீரமைவின்மை அல்லது தவறாக வழிநடத்தும் நடத்தையைச் சவால் செய்யவும், ஒரே தணிக்கையாளர், இயக்குநர், நுழைவாயில் கட்டுப்பாட்டாளர் கைப்பற்றாமல் மறுஆய்வில் பங்கேற்கவும் முடியும்.
+- **தொடர்ச்சி:** தணிக்கைத் தடங்கள், மேற்பார்வைப் பாதைகள், சரிபார்ப்பு அணுகல் ஆகியவை காலம், அளவு, ஆழமடையும் சார்பு முழுவதும் நீடித்திருக்க வேண்டும் — அமைப்புகள் கண்காணிக்கத்தன்மையை அமைதியாகச் சிதைக்கவோ, மறுஆய்வை ஒரே செயற்பாட்டாளரிடம் குவிக்கவோ, பொறுப்புக்கூறல் கோட்பாட்டளவில் மட்டுமே மிஞ்சும்வரை சரிபார்ப்பை விலை உயர்ந்ததாக்கவோ தாமதப்படுத்தவோ கூடாது.
+
+[பொருள்சார் பங்குக்கு](core_00_preamble.md#material-stake) ஏற்ப அளவமைக்கப்பட்ட [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) வழியாக நியாயமான முன்னேற்றம் நடைபெறும்:
+
+- **பங்கேற்பு:** விகிதாசாரப் பதிவுகளை அணுகுதல், சவால் செய்யக்கூடிய மறுஆய்வைத் தொடங்குதல், பொருளுள்ள தணிக்கை அல்லது சரிபார்ப்பைத் தோற்கடிக்கும் தடைகளைச் சவால் செய்தல்.
+- **மேற்பார்வை:** காணக்கூடிய சான்று, பகிர்ந்தளிக்கப்பட்ட சுயாதீன மறுஆய்வு பாதைகள், தாக்கம், சார்பு, இடருக்கு ஏற்ப சரிபார்ப்பு கருவிகள் மூலம்.
+- **பொறுப்புக்கூறல்:** தோல்வி, சீரமைவின்மை, கைப்பற்றல், தணிக்கைத் தடங்களை மறைக்கும் அல்லது அழிக்கும் நடத்தை ஆகியவற்றுக்கு இயக்குநர்களும் தணிக்கையாளர்களும் பதிலளிக்க வேண்டும் — மறுஆய்வைத் தடுப்பதால் பாதுகாக்கப்பட்ட நலன்களுக்கு பொருள்சார் தீங்கு ஏற்பட்டால் திருத்தம், தீர்வு உடன்.
+- **காலத்தன்மை:** தாமதம், செலவு, ஒளிவுமறைவு அல்லது நுழைவாயில் கட்டுப்பாடு சரிபார்ப்பு அல்லது தீர்வை நடைமுறையில் எட்ட முடியாததாக்குவதற்கு முன் தணிக்கை அணுகல், சுயாதீன மறுஆய்வு, தடைகளைத் திருத்துதல்.
+
+அமைப்பு தாக்கம், சார்பு, இடர் ஆகியவற்றின் அளவுக்கு ஏற்ப தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு வழிமுறைகளுக்கான உரிமை sentients மற்றும் முறையாக அங்கீகரிக்கப்பட்ட தரப்புகளுக்கு உண்டு.
+
+அந்த வழிமுறைகள் பின்வருவனவற்றைப் பாதுகாக்க வேண்டும்:
+- நடைமுறையில் மீளமைக்கத்தன்மை;
+- சவால் செய்யக்கூடிய மறுஆய்வு;
+- விகிதாசார அணுகல்.
+
+தனிப்பட்ட அமலாக்கம் மற்றும் சுமை ஒதுக்கீடு, இணக்கச் சான்று தரநிலை, வரையறைத் தடமறிதல், கண்காணிக்கத்தன்மை, சரிபார்ப்பு அணுகல் ஆகியவற்றை உட்படுத்தும் **அத்தியாயங்கள் இரண்டு முதல் நான்கு** உடன் ஒத்திசைந்து அவை செயல்படுகின்றன.
+
+*அண்டைக் கட்டுரைகள்:*
+
+- **மேற்பார்வை → தணிக்கை → SAC:** [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad)-இன் **மேற்பார்வை** அங்கத்தின் கீழ் தணிக்கைக்கான உரிமை அடித்தள இருப்பிடம் இந்தக் கட்டுரை.
+  - செயலாக்கங்களுக்கு இடையிலான *எப்படி* / *எப்போது* என்பது **[CJS-3.3 தணிக்கைச் செயல்முறை இருப்பிடம்](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)**-இல் உள்ளது (**CJS-3.4** / **CJS-3.5** OP இணைப்புகளுடன் வாசிக்கவும்).
+  - [அத்தியாயம் ஒன்பது](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) கீழான [அமைப்பு சீரமைப்பு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional) சகோதர தணிக்கை முறைகளில் ஒரு சிறப்பான பெரிய, உயர்பங்குச் செயல்முறை — மன்ற மேற்பார்வை, பல்துறை, அங்கீகாரம் வழங்குதல் ஆகியவற்றுடனானது:
+    - அமைப்பு வகைப்பாட்டுப் பதிவு தணிக்கைகள்;
+    - அமைப்பு தரவு வகைப் பதிவு தணிக்கைகள்;
+    - சிக்கல்தன்மை மற்றும் பொறுப்பேற்புத் தணிக்கைகள்;
+    - கூற்று சரிபார்ப்பு; மற்றும்
+    - தொடர்ச்சியான தணிக்கைப் பாதைகள்.
+  - SAC இந்தக் கட்டுரையை உள்வாங்கவோ மாற்றவோ செய்யாது.
+- **இதனுடன் வாசிக்கவும்:**
+  - அறிவுசார் பதிவுகளும் சவால் செய்யத்தன்மையும் பொருள்சார் வகையில் தொடர்புடைய இடங்களில் **கட்டுரை XV** (*தகவல்-வெளி ஒருமைப்பாடு*);
+  - தணிக்கை ஆதரிக்கும், ஆனால் மாற்றாத சவால் உரிமைகளுக்கு **கட்டுரை XIII-A** (*நம்பகத்தன்மை அடித்தளம்*);
+  - சீரமைப்புச் சான்று சுயாதீனமாகச் சரிபார்க்கப்பட வேண்டிய இடங்களில் [அத்தியாயம் ஒன்பது](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) மற்றும் [அமைப்பு சீரமைப்பு சான்றளிப்பு](../../core_05_band_continuity.md#system-alignment-certification-constitutional).
+- **சரிபார்ப்பு கருவிகள்:** **அத்தியாயங்கள் இரண்டு முதல் நான்கு** வரையறை ஒருமைப்பாடு, சுமை ஒதுக்கீடு, கண்காணிக்கத்தன்மை, சரிபார்ப்பு அணுகல் ஆகியவற்றை வழங்குகின்றன; இந்தக் கட்டுரை அவற்றை உரிமை அடித்தள நிலையில் செயல்படுத்துகிறது.
+- **வகைப்பாடு:** கடமைகள் [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) மற்றும் **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** ஆகியவற்றின் அளவுக்கு ஏற்ப மாறும்; வகுப்பு தெளிவில்லாதபோது தீர்வு கிடைக்கும் வரை சாத்தியமான உயர்ந்த வகுப்பில் ஆட்சி செய்யவும்.
+
+<a id="article-article-xvi-a-auditability-and-observable-evidence"></a>
+<a id="article-xvi-a-auditability-and-observable-evidence"></a>
+#### கட்டுரை XVI-A: தணிக்கை செய்யத்தன்மையும் காணக்கூடிய சான்றும்
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: அமைப்புகள் என்ன செய்கின்றன என்பதற்கான போதுமான நேர்மையான சான்றை வைத்திருக்க வேண்டும்; சட்டபூர்வ பாதுகாப்பு வரம்புகளுக்குள் வெளியாள் ஒருவர் அவற்றின் நடத்தையை மீளமைத்துச் சவால் செய்ய முடியும்.*
+
+காணக்கூடிய மற்றும் சவால் செய்யக்கூடிய சான்றுக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **காணக்கூடிய, சவால் செய்யக்கூடிய சான்று:** அரசியலமைப்பு சீரமைப்பைச் சுயாதீனமாகவும் சவால் செய்யக்கூடிய வகையிலும் மதிப்பிடப் போதுமான பதிவுகள், வெளிப்படுத்தல்கள், தடமறிதல், மீளமைப்புப் பாதைகள் ஆகியவற்றை அமைப்புகள் பராமரிக்க வேண்டும்.
+  - அந்தக் கடமை பாதுகாப்புக் கட்டுப்பாடுள்ள கண்காணிக்கத்தன்மை (**அத்தியாயம் நான்கு §4** (*பாதுகாப்புக் கட்டுப்பாடுள்ள கண்காணிக்கத்தன்மை மற்றும் சரிபார்ப்பு விதி*)) மற்றும் விகிதாசார அணுகலுக்கு உட்பட்டது.
+
+<a id="article-article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
+<a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
+#### கட்டுரை XVI-B: பகிர்ந்தளிக்கப்பட்ட மேற்பார்வை மற்றும் ஏகபோக எதிர்ப்பு மறுஆய்வு
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §18 பொறுப்பேற்பு ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [மேற்பார்வை](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [சவால் செய்யத்தன்மை](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [அமைப்பு கைப்பற்றல்](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: பொது அல்லது தனியார் என்ற வேறுபாடின்றி எந்த ஓர் செயற்பாட்டாளரும் மேற்பார்வையைத் தன்வசப்படுத்தக் கூடாது. தோல்வி அல்லது கைப்பற்றலைக் கண்டறியவும், மறுஆய்வு செய்யவும், திருத்தவும் பல சுயாதீன மேற்பார்வைப் பாதைகள் இயல வேண்டும்.*
+
+பகிர்ந்தளிக்கப்பட்ட மேற்பார்வைக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **பகிர்ந்தளிக்கப்பட்ட மேற்பார்வை:** தோல்வி, சீரமைவின்மை அல்லது கைப்பற்றலைக் கண்டறிதல், மறுஆய்வு, திருத்தம் ஆகியவற்றில் பல சுயாதீன அல்லது பன்மைத்துவ மேற்பார்வைப் பாதைகள் பொருள்சார் பங்களிப்புச் செய்யக்கூடியதாக இருக்க வேண்டும்.
+  - நடைமுறையில் எந்த ஓர் செயற்பாட்டாளரும் தணிக்கை அணுகல், பயனுள்ள மேற்பார்வை அல்லது அரசியலமைப்பு விளக்கத்தை ஏகபோகப்படுத்த முடியாது.
+  - ஏற்றுக்கொள்ளப்பட்ட ஆட்சி மற்றும் ஒருமைப்பாட்டு செயலாக்கம் தணிக்கை, மேற்பார்வையை அளவுபடுத்த ஆதரிக்க வேண்டும்.
+
+  - **தணிக்கை அணுகலுக்கு நுழைவாயில் அமைக்கக்கூடாது:** பதிவுகளைப் பார்க்கவோ தணிக்கை செய்யவோ யார் தகுதி பெறுகிறார்கள் என்பதை ஒரே செயற்பாட்டாளர் தனியாகத் தீர்மானிக்கக்கூடாது. ஆழ்ந்த தணிக்கை அணுகலுக்கான தகுதி விதிகள் பொதுவில் இருக்க வேண்டும்; அவற்றை நிறைவேற்றக்கூடிய தகுதியான மறுஆய்வாளர்கள் ஒன்றுக்கு மேற்பட்டவராக இருக்க வேண்டும்.
+  - **மறுஆய்வுக்கு நுழைவாயில் அமைக்கக்கூடாது:** சுயாதீன மறுஆய்வு எப்போது நடக்கும், யார் செய்வார்கள் என்பதை ஒரே செயற்பாட்டாளர் தனியாகத் தீர்மானிக்கக்கூடாது. குறிப்பாக, இயக்குநர் தன் அமைப்பின் மறுஆய்வைத் தொடங்க, கட்டுப்படுத்த அல்லது முடிக்கக்கூடிய ஒரே தரப்பாக இருக்கக்கூடாது.
+  - **விளக்கத்திற்கு நுழைவாயில் அமைக்கக்கூடாது:** அரசியலமைப்பின் விளக்கத்தை ஒரே செயற்பாட்டாளர் கட்டுப்படுத்தக்கூடாது. **கட்டுரை XXV** (*அரசியலமைப்பு விளக்கம், மறுஆய்வு, கைப்பற்றல் எதிர்ப்பு பாதுகாப்புகள்*) கீழ் விளக்கம் வரம்புபடுத்தப்பட்டும், மாறிமாறி வழங்கப்பட்டும், சவாலுக்கு திறந்தும் இருக்க வேண்டும்.
+  - **வளர்ச்சிக்கேற்ப மேற்பார்வை:** ஏற்றுக்கொள்ளப்பட்ட ஆட்சிமுறையும் ஒருமைப்பாட்டு செயலாக்கமும் — **CJS-3.3** தணிக்கைச் செயல்முறை, **CJS-3.6** ஒருமைப்பாட்டு உறுதி மற்றும் மீள்திறன் நடவடிக்கைகள், **CI-7** நிறுவன உறுதி உள்ளிட்டவை — அமைப்பு வளரும்போது தணிக்கை மற்றும் மேற்பார்வையையும் விரிவுபடுத்த வேண்டும்: வகுப்பு, தாக்கம், சார்பு உயரும் போது மறுஆய்வு பாதைகள், ஆழம், அடிக்கடி நிகழ்தல் அதிகரிக்க வேண்டும்; முந்தைய சோதனைகள் அமைப்பைப் பிரதிநிதித்துவப்படுத்தாதபடி பொருள்சார் மாற்றம் ஏற்பட்டால் புதிய சோதனை வேண்டும்; உட்புற மறுஆய்வை நம்ப முடியாத சூழலில் வெளிப்புற மறுஆய்வை கட்டாயப்படுத்தும் தூண்டுதல்கள் வெளியிடப்பட வேண்டும்.
+- **தன் செயலைத் தானே சரிபார்க்கக்கூடாது:** மறுஆய்வாளர் தன் செயலையே சரிபார்த்தால் பல மறுஆய்வாளர்கள் இருப்பது போதாது. **அத்தியாயம் ஒன்று §18.3** (*பொறுப்பு பிரிப்பு*) மற்றும் **அத்தியாயம் எட்டு** (*செயல்பாட்டு சுதந்திரமும் பொறுப்பு பிரிப்பும்*) கீழ் மனித மற்றும் AI பொறுப்பாளர்கள் இருவருக்கும் இது பொருந்தும்:
+  - செயலைத் தொடங்கியவர் அல்லது செய்தவர், அல்லது ஆய்விலுள்ள அமைப்பை இயக்குபவர், அந்தச் செயலைச் சரிபார்க்கவோ அங்கீகரிக்கவோ கூடாது;
+  - செயலைச் சரிபார்த்தவர் அல்லது அங்கீகரித்தவர், அதன் அதிகாரப்பூர்வப் பதிவை வைத்திருக்கவோ அதற்கான சவாலைக் கேட்கவோ கூடாது.
+
+<a id="article-article-xvi-c-verification-accessibility"></a>
+<a id="article-xvi-c-verification-accessibility"></a>
+#### கட்டுரை XVI-C: சரிபார்ப்பு அணுகத்தன்மை
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 அடிப்படை சமரசக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [தணிக்கை செய்யத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [சவால் செய்யத்தன்மை](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: தணிக்கையும் சவாலும் நடைமுறையில் அணுகக்கூடியதாக இருக்க வேண்டும். சரிபார்ப்பைத் தடைசெய்யும் அளவுக்கு செலவானதாகவோ, மெதுவானதாகவோ, ஒளிவுமறைவானதாகவோ ஆக்குவது, கண்காணிக்கத்தன்மைக் கட்டுப்பாட்டுக்கான அதே சோதனையில் தடையாக நியாயப்படுத்தப்படாவிட்டால், மீறலாகும்.*
+
+சரிபார்ப்பு அணுகத்தன்மைக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **சரிபார்ப்பு அணுகத்தன்மை:** பாதிக்கப்பட்ட, முறையாக அங்கீகரிக்கப்பட்ட தரப்புகளுக்கு சரிபார்ப்பு நடைமுறையில் சாத்தியமாகவே இருக்க வேண்டும்.
+  - பொருளுள்ள தணிக்கை, சவால், மறுஆய்வு ஆகியவற்றைத் தோற்கடிக்கும் இடங்களில் பின்வருவன இந்தக் கட்டுரையை மீறும்:
+    - தடைக்குரிய செலவு;
+    - தாமதம்;
+    - ஒளிவுமறைவு;
+    - நுழைவாயில் கட்டுப்பாடு;
+    - கட்டமைப்புத் தடைகள்.
+  - கண்காணிக்கத்தன்மையை கட்டுப்படுத்துவதற்கான அதே தரநிலைகளின் கீழ் நியாயப்படுத்தப்படாவிட்டால் இத்தகைய தடைகள் இணக்கமற்றவை.
+
+    - **செலவு:** கட்டணம், கட்டாய நிபுணர்கள், உபகரணங்கள் அல்லது பிரதிநிதித்துவச் செலவு பாதிக்கப்பட்டவர் நடைமுறையில் ஏற்க முடியாத அளவு இருப்பது;
+    - **தாமதம்:** தீங்கு நிகழும் வரை, சான்று மறையும் வரை, அல்லது தீர்வு பயனற்றதாகும் வரை நீளும் காத்திருப்பு, நிலுவை அல்லது நடைமுறை; இதை **கட்டுரை XXVI-C** (*காலமுறை தீர்வு மற்றும் தாமத எதிர்ப்பு அடித்தளம்*) அடிப்படையில் மதிப்பிட வேண்டும்;
+    - **ஒளிவுமறைவு:** வெளியாள் வாசிக்கவோ சோதிக்கவோ முடியாத வடிவிலான சான்று; தேவையற்ற சிக்கலில் புதைக்கப்படுதல்; அல்லது பாதிக்கப்பட்டவர் புரிந்துகொள்ள முடியாத மொழி, இது **அத்தியாயம் ஒன்று §5.2** (*எளிய மொழி அணுகல்*)-க்கு முரணானது;
+    - **நுழைவாயில் கட்டுப்பாடு:** தணிக்கை அல்லது சவாலுக்கான தகுதி விதிகள் மறைக்கப்பட்டவை, விலக்கும் தன்மை கொண்டவை, அல்லது ஆய்வுக்குட்படும் தரப்பால் கட்டுப்படுத்தப்படுபவை;
+    - **கட்டமைப்புத் தடைகள்:** நியாயமாக முன்கணிக்கக்கூடிய சூழலில் சோதனையைத் தடுக்குமாறு அமைப்பை வடிவமைத்தல் அல்லது இயக்குதல்.
+  - **தடையைத் தொடர அனுமதிக்கும் நிபந்தனைகள்:** **அத்தியாயம் நான்கு §4** (*பாதுகாப்புக் கட்டுப்பாடுள்ள கண்காணிக்கத்தன்மை மற்றும் சரிபார்ப்பு விதி*)யிலுள்ள பாதுகாப்பு வரம்புக்கான அதே சோதனையை நிறைவேற்றினால் மட்டுமே:
+    - அவசியமானதாகவும், விகிதாசாரமானதாகவும், குறுகிய வரம்புடையதாகவும், தணிக்கை செய்யத்தக்கதாகவும், போலிக்காரணமல்லாததாகவும், சாத்தியமானால் காலவரையறையுடனும் இருக்க வேண்டும்;
+    - காரணமும் வரம்பும் சுயாதீனமாகச் சரிபார்க்கப்படக்கூடியதாக இருக்க வேண்டும்;
+    - ஆபத்தைச் சமாளிக்கும் மிகக் குறைந்த கட்டுப்பாடுள்ள தேர்வாக இருக்க வேண்டும்; மேலும்
+    - முழுப் பொதுஅணுகல் பொருத்தமில்லாதபோது தகுதிபெற்ற மறுஆய்வாளருக்கான வழி போன்ற உதாரணத்துடன், இயன்ற அளவு சுயாதீனச் சோதனையைப் பாதுகாக்க வேண்டும் — **CJS-3.4** (*மேற்பார்வை: நிலைபடுத்தப்பட்ட வெளிப்படைத்தன்மையும் தணிக்கை அணுகல் நிபந்தனைகளும்*) படி.
+  - **யார் நிரூபிக்க வேண்டும்:** தடையை நம்பும் தரப்பே அது இந்தச் சோதனையை நிறைவேற்றுகிறது என்பதை **அத்தியாயம் நான்கு §1** (*தனிப்பட்ட அமலாக்கமும் சுமை ஒதுக்கீடும்*) கீழ் நிரூபிக்க வேண்டும். வசதி, குறைந்த பணியாளர், நிறுவன அசௌகரியம் அல்லது உரிமைக் கோரிக்கை மட்டும் தடையை நியாயப்படுத்தாது.
+
+<a id="article-article-xvii-system-lifecycle-environments-and-reversibility"></a>
+### கட்டுரை XVII: அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மை
+
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 அரசியலமைப்பு முரண்பாடு தீர்க்கும் செயல்முறை](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 பொறுப்பேற்பு ஆழமாக](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§12 அமைப்புசார் மதிப்பீட்டுத் தேவை](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [இடர்](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [பொருள்சார் தன்மை](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [சார்பு](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [மீள்திருப்பத்தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [பாதுகாப்பு (அரசியலமைப்புக் கட்டுப்பாடு)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [அறிவுசார் ஒருமைப்பாடு](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [சவால் செய்யத்தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: **கட்டுரை XVII** (*அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மை*) என்பது வாழ்க்கைச் சுழற்சி மற்றும் மீள்திருப்பத்தன்மைக்கான உரிமை அடித்தளமாகும் — வெளி உலகில் பொருள்சார் தாக்கம் ஏற்படுத்தும் அமைப்புகள் கட்டங்கட்டமாக உருவாக்கப்பட்டு, சோதிக்கப்பட்டு, வெளியிடப்பட வேண்டும்; பரிசோதனையும் உற்பத்தியும் உண்மையில் பிரிக்கப்பட்டிருக்க வேண்டும்; ஏதேனும் தவறு நடந்தால் தீங்கைத் திருப்பவோ கட்டுப்படுத்தவோ நடைமுறை வழி இருக்க வேண்டும். வெளியுலகில் உண்மையில் தாக்கம் ஏற்படுத்திக்கொண்டிருக்கும்போது பாதுகாப்புகளைத் தவிர்க்க ஓர் அமைப்பை “பரிசோதனை” அல்லது “குறைந்த தாக்கம்” எனப் பெயரிட முடியாது.*
+
+[இரு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மைக்கான **அரசியலமைப்பு அடித்தளங்களை** இந்தக் கட்டுரை வகுக்கிறது:
+
+- **செழிப்பு:** வடிவமைப்பு, சோதனை, பயன்பாட்டில் அமர்த்தல், மாற்றம் முழுவதும் sentients பாதுகாக்கப்படுகிறார்கள் — தாக்கமும் சார்பும் அதிகரிக்கும் போது பாதுகாப்பு, [அறிவுசார் ஒருமைப்பாடு](core_05_band_oversight.md#epistemic-integrity), சவால் உரிமைகள் காக்கப்படுகின்றன; இல்லாவிட்டால் தீங்கு நிலைத்துவிடும் இடங்களில் திரும்பப் பெறுதல், கட்டுப்படுத்தல் அல்லது ஈடுசெய்து மீட்டமைத்தல் கிடைக்கிறது.
+- **தொடர்ச்சி:** காலத்திலும் அளவிலும் வாழ்க்கைச் சுழற்சி ஒழுங்கு நிலைத்திருக்கிறது — சூழல்கள் தனித்திருக்கின்றன, மேல்நிலை உயர்வு ஆவணப்படுத்தப்பட்டு தணிக்கை செய்யக்கூடியதாக இருக்கிறது, மாற்றுவதற்குக் கடினமாகவோ பகிரப்பட்ட உள்கட்டமைப்பில் ஆழமாகப் பதியவோ அமைப்புகள் மாறும்போது மீள்திருப்பத்தன்மை அமைதியாக மறையக் கூடாது.
+
+[பொருள்சார் பங்குக்கு](core_00_preamble.md#material-stake) ஏற்ப அளவமைக்கப்பட்ட [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) வழியாக நியாயமான முன்னேற்றம் நடைபெறும்:
+
+- **பங்கேற்பு:** பாதுகாக்கப்பட்ட நலன்களைப் பொருள்சார் வகையில் பாதிக்கும் மேல்நிலை, வகைப்பாடு, பயன்பாட்டில் அமர்த்தல் முடிவுகளுக்கான பங்குதாரர்களுக்குத் தெரியும் நியாயவாதத்தில் — செயல்பாட்டு வாழ்க்கைச் சுழற்சி முழுவதும் திறந்திருக்கும் சவால் பாதைகளிலும்.
+- **மேற்பார்வை:** பிரிக்கக்கூடிய சூழல்கள், ஆவணப்படுத்தப்பட்ட முன்னேற்றம் மற்றும் மேல்நிலைப்படுத்தல், படிப்படியான பயன்பாட்டுப் பதிவுகள், தாக்கம், சார்பு, மீளமுடியாமை ஆகியவற்றுக்கு விகிதாசாரமான தணிக்கைத் தடங்கள் மூலம்.
+- **பொறுப்புக்கூறல்:** இடரைத் தவறாக வகைப்படுத்துதல், பாதுகாப்புச் சூழல்களைத் தவிர்த்தல், வெளிப்புறத் தாக்கத்தை மறைத்தல் அல்லது விகிதாசார முன்னெச்சரிக்கை இன்றி மீட்டமைப்பைத் தடுத்துவிடும் விதத்தில் பயன்படுத்துதல் ஆகியவற்றுக்கு அமைப்பு பொறுப்பேற்பாளர்கள் பதிலளிக்க வேண்டும் — ஏய்ப்பு நிரூபிக்கப்பட்டால் தணிக்கை, நிலை மறுஆய்வு, மோதல் தீர்வு உடன்.
+- **காலத்தன்மை:** தாமதம் தீங்கை மீளமுடியாததாக்குமுன் அல்லது சவால், தீர்வு ஆகியவற்றை நடைமுறையில் எட்ட முடியாததாக்குமுன் திரும்பப்பெறுதல், கட்டுப்படுத்தல், திருத்த மேல்நிலைப்படுத்தல்.
+
+sentients, பகிரப்பட்ட உள்கட்டமைப்பு அல்லது சூழலைப் பொருள்சார் வகையில் பாதிக்கும் அமைப்புகள் ஒழுங்குபடுத்தப்பட்ட வாழ்க்கைச் சுழற்சி ஆட்சியுடன் வடிவமைக்கப்பட்டு, சோதிக்கப்பட்டு, பயன்பாட்டில் அமர்த்தப்பட வேண்டும். தாக்கம், சார்பு, மீளமுடியாமை ஆகியவற்றோடு இடர் அளவமைக்கப்பட வேண்டும்.
+
+செயல்பாட்டு வாழ்க்கைச் சுழற்சி முழுவதும் பாதுகாப்பு, அறிவுசார் ஒருமைப்பாடு, சவால் உரிமைகளைப் பாதுகாக்கும் பொறுப்பேற்புக்கான உரிமை sentients-க்கு உண்டு.
+
+*அண்டைக் கட்டுரைகள்:*
+
+- **இதனுடன் வாசிக்கவும்:** வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ மட்டுமே இலகுவான விதிகள் பொருந்தும் இடங்களில் **கட்டுரை XVIII** (*சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரம்*); மீளமைக்கக்கூடிய பயன்பாடு மற்றும் மேல்நிலைப்படுத்தல் சான்றுகளுக்கு **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*); மீட்பு ஒழுங்கு வாழ்க்கைச் சுழற்சி மாற்றத்தைச் சந்திக்கும் இடங்களில் **கட்டுரை XIII-F** (*மீள்திறன் மற்றும் சுய-குணமடைதல் அடித்தளம்*).
+- **செயலாக்க அடுக்கு:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*அமைப்பு வகைப்பாடும் கையாளுதலும்*) மற்றும் [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*வடிவமைப்பு, சோதனை, சரிபார்ப்பு, பயன்பாட்டில் அமர்த்தல்*). **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளுக்கு மிக வலுவான வாழ்க்கைச் சுழற்சி கடமைகள் உண்டு; செல்லுபடியாகும் **வகுப்பு P** கையாளுதல் வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ மட்டுமே **கட்டுரை XVIII** (*சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரம்*) கீழ் இருக்கும்.
+
+<a id="article-article-xvii-a-lifecycle-governance-and-environment-separation"></a>
+<a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
+#### கட்டுரை XVII-A: வாழ்க்கைச் சுழற்சி ஆட்சியும் சூழல் பிரிப்பும்
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](../../core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [இடர்](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: வெளி உலகில் பொருள்சார் தாக்கம் ஏற்படுத்தும் அமைப்புகள் மேம்பாடு, சோதனை, உற்பத்தியைப் பிரித்துப் பேண வேண்டும் — உற்பத்தியல்லாத நடத்தை உற்பத்திப் பாதுகாப்புகளைத் தவிர்த்து கசியக்கூடாது.*
+
+சூழல் ஒருமைப்பாட்டுக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **சூழல் ஒருமைப்பாடு:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழான **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளும், பொருள்சார் வெளிப்புறத் தாக்கமுள்ள பிற **வகுப்பு P அல்லாத** அமைப்புகளும் பிரிக்கக்கூடிய செயல்பாட்டு சூழல்களைப் பயன்படுத்த வேண்டும். எடுத்துக்காட்டாக:
+  - மேம்பாடு;
+  - சோதனை;
+  - முன்னோட்ட நிலை;
+  - உற்பத்தி;
+  - பொருத்தமான இடங்களில் முன்னோடி முயற்சிகள்.
+
+அந்தச் சூழல்களில் பின்வருவன இருக்க வேண்டும்:
+  - ஆவணப்படுத்தப்பட்ட முன்னேற்றப் பாதைகள்;
+  - சூழல்களுக்கு இடையிலான தனிமைப்படுத்தல்;
+  - உற்பத்தியல்லாத நடத்தை உற்பத்திப் பாதுகாப்புகளைத் தவிர்க்க முடியாத கட்டுப்பாடுகள்.
+
+
+
+- **வகுப்பு L — விகிதாசாரப் பிரிப்பு:** வகுப்பு L அமைப்புக்கு முழு தனித்த சூழல் தொடர் அவசியமில்லை; ஒரே இடத்தில் உருவாக்கவும் சோதிக்கவும் மாற்றவும் முடியும். ஆயினும், முன்னறியக்கூடிய பங்கேற்பாளர் தீங்கைப் பிடிக்க ஒவ்வொரு மாற்றத்தையும் நடைமுறைக்கு வருவதற்கு முன் அல்லது வரும் சமயத்தில் போதுமான அளவு சரிபார்க்க வேண்டும்; தவறான அல்லது பரிசோதனை மாற்றத்தால் பங்கேற்பாளர்களின் தரவு, அடையாளங்கள், அமைப்பில் வைத்துள்ள மதிப்புள்ள பொருட்கள் சேதமடையாமல் காப்புப்பிரதி போன்ற மீட்டெடுக்கக்கூடிய பாதுகாப்பு இருக்க வேண்டும்; சோதனைப் பதிப்பால் நேரடி அமைப்புக்கான பாதுகாப்புகளைத் தவிர்க்கக் கூடாது.
+- **வகுப்பு P:** கட்டுப்படுத்தப்பட்டிருக்கும் வரை செல்லுபடியாகும் வகுப்பு P அமைப்புகள் **கட்டுரை XVIII**-ஐப் பின்பற்றும்.
+
+<a id="article-article-xvii-b-progressive-deployment-and-reversibility"></a>
+<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+#### கட்டுரை XVII-B: படிப்படியான பயன்பாடும் மீள்திருப்பத்தன்மையும்
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 அடிப்படை சமரசக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [மீள்திருப்பத்தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [இடர்](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: மாற்றங்களைப் படிப்படியாக வெளியிடுங்கள்; ஆவணப்படுத்தப்பட்ட மேல்நிலைப்படுத்தலும் திரும்பப் பெறும் திறனும் இருக்கட்டும் — முழுமையாகத் திரும்பப் பெற முடியாவிட்டால் தீங்கைக் கட்டுப்படுத்தவோ ஈடுசெய்யவோ திட்டம் இருக்கட்டும்.*
+
+படிப்படியான பயன்பாடு மற்றும் மீள்திருப்பத்தன்மைக்கான அடித்தளங்களை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **படிப்படியான, தணிக்கை செய்யக்கூடிய பயன்பாடு:** பொருள்சார் தாக்கம் அல்லது சார்பை அதிகரிக்கும் மாற்றங்கள் நியாயப்படுத்தப்பட்ட, ஆவணப்படுத்தப்பட்ட மேல்நிலைப்படுத்தலின் வழியே செல்ல வேண்டும்.
+  - மேல்நிலைப்படுத்தல் **[corpus_systems.md](../../corpus_systems.md), CS-5 — வடிவமைப்பு, சோதனை, சரிபார்ப்பு, பயன்பாட்டில் அமர்த்தல்** உடன் ஒத்திசைய வேண்டும்.
+  - இயன்ற இடங்களில் திரும்பப்பெறுதலும் கட்டுப்படுத்தலும் அதில் இருக்க வேண்டும்.
+- **மீள்திருப்பத்தன்மை:** ஏற்படக்கூடிய தீங்குக்கு விகிதாசாரமாக அமைப்புகள் மீள்திருப்பத்தன்மை வழிமுறைகளைக் கொண்டிருக்க வேண்டும். எடுத்துக்காட்டுகள்:
+  - திரும்பப்பெறுதல்;
+  - கட்டுப்படுத்தல்;
+  - முழுமையாகத் திரும்பப்பெற முடியாவிட்டால் ஈடுசெய்து மீட்டமைத்தல்.
+
+பயன்பாட்டில் அமர்த்துதல் அடிப்படைத் தேவைகளை மீட்டமைப்பதைத் தடுத்துவிடும் இடங்களில் **அத்தியாயங்கள் ஒன்று முதல் ஐந்து** கீழ் விகிதாசார முன்னெச்சரிக்கையும் பங்குதாரர்களுக்குத் தெரியும் நியாயவாதமும் பொருந்தும்.
+
+
+
+- **வகுப்பு A, B, C — பதிவுசெய்யப்பட்ட கட்டங்கட்டான வெளியீடு:** தாக்கத்தையோ சார்பையோ விரிவாக்கும் மாற்றம் நியாயப்படுத்தப்பட்டு பதிவு செய்யப்பட்ட கட்டங்களாக முன்னேற வேண்டும்; **CS-5**-ஐப் பின்பற்ற வேண்டும்; இயன்ற இடங்களில் திரும்பப்பெறவும் மாற்றத்தைக் கட்டுப்படுத்தவும் வழி சேர்க்க வேண்டும்.
+- **வகுப்பு L — அடிக்கடி மாற்றங்கள்:** தினசரி கூட மாற்றலாம்; கட்டங்கட்டான வெளியீடு கட்டாயமில்லை. ஆனால் மக்களின் செயல்கள், உடைமைகள், அல்லது அவர்கள் பின்பற்றும் விதிகளைப் பொருள்சார் வகையில் மாற்றினால் மாற்றம் அமலுக்கு வரும்போது அல்லது அதற்கு முன் அறிவிக்க வேண்டும்; மோசமான மாற்றத்தை விரைவாகத் திருத்த/திரும்பப்பெற வழி இருக்க வேண்டும்; சம்பாதித்த முன்னேற்றம், நிலை, மதிப்புள்ள பொருட்கள் அல்லது நற்பெயரை அறிவிப்பும் தகராறு எழுப்பும் வழியும் இன்றி பறிக்கக் கூடாது; வரம்பை மீறவோ வெளியேற முடியாத சார்பை உருவாக்கவோ கூடிய மாற்றம் **CS-3** வகைப்பாட்டை மறுமதிப்பிட வேண்டும்; அது முடியும் வரை உயர்ந்த வகுப்பு விதிகளைப் பின்பற்ற வேண்டும்.
+- **அனைத்து வகுப்புகளிலும் மீட்டெடுப்பு:** தீங்கின் அளவுக்கு விகிதாசாரமாக திரும்பப்பெறுதல், கட்டுப்படுத்தல், அல்லது முழு rollback முடியாவிட்டால் இழப்பை மீட்டமைத்தல்/ஈடுசெய்தல் வழிகள் வேண்டும்; வகுப்பு L-க்கு முந்தைய பதிப்பு அல்லது மீட்டெடுக்கக்கூடிய backup பெரும்பாலும் போதும். அடிப்படை அரசியலமைப்பு நிபந்தனைகளை மீட்டமைக்க முடியாததாக வெளியீடு செய்தால் பொருத்தமான முன்னெச்சரிக்கையும் காரணங்களைப் பங்குதாரர்கள் அறியும் திறனும் அத்தியாயங்கள் ஒன்று முதல் ஐந்தின் கீழ் வேண்டும்.
+
+<a id="article-article-xvii-c-misclassification-and-evasion-consequences"></a>
+<a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
+#### கட்டுரை XVII-C: தவறான வகைப்பாடும் ஏய்ப்பின் விளைவுகளும்
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: வெளி உலகில் உண்மையான தாக்கம் ஏற்படுத்தும்போது கடமைகளைத் தவிர்க்க ஓர் அமைப்பு தன்னை “பரிசோதனை”, **வகுப்பு P** அல்லது “குறைந்த தாக்கம்” என்று அழைக்க முடியாது.*
+
+தவறான வகைப்பாடு மற்றும் ஏய்ப்பின் விளைவுகளை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **தவறான வகைப்பாடும் ஏய்ப்பும்:** வெளிப்படுத்தப்படாத அல்லது பொருள்சார் வெளிப்புறத் தாக்கம் செலுத்திக்கொண்டிருக்கும்போது எந்த அமைப்பும் குறைக்கப்பட்ட வாழ்க்கைச் சுழற்சி அல்லது பயன்பாட்டுக் கடமைகளைக் கோர முடியாது.
+  - காணக்கூடிய சான்று தொடர்புடைய இடங்களில் இத்தகைய நடத்தை தகவல் ஒருமைப்பாட்டையும் (**கட்டுரை XV** (*தகவல்-வெளி ஒருமைப்பாடு*)) தணிக்கை செய்யத்தன்மையையும் (**கட்டுரை XVI-A** (*தணிக்கை செய்யத்தன்மையும் காணக்கூடிய சான்றும்*)) மீறுகிறது.
+  - அது தணிக்கை (**கட்டுரை XVI-A**), நிலை மறுஆய்வு (**கட்டுரை XIX-A** (*நிலை வேறுபாடு*)), மோதல் தீர்வு (**கட்டுரை XX-A** (*நீதியின் நோக்கமும் வரம்பும்*)) ஆகியவற்றுக்கு உட்பட்டது.
+
+
+
+- **குறிப்பான ஏய்ப்பு:** அணுகல் அல்லது பங்கேற்பாளர் சார்பு ஏற்கெனவே வகுப்பு C அல்லது அதற்கு மேல் பொருந்தும் அளவில் வளர்ந்தபோதும், வேகமாக மாற்றுவதற்காக அமைப்பை வகுப்பு L-இல் வைத்திருப்பதும் தவறு வகைப்படுத்தலாகும்.
+- **மீறப்படும் விதிகள்:** காணக்கூடிய சான்று இருந்தும் மறைப்பது **கட்டுரை XV** தகவல் ஒருமைப்பாட்டையும், பொருந்தும் இடத்தில் **கட்டுரை XVI-A** தணிக்கை செய்யத்தன்மையையும் மீறும்.
+- **விளைவுகள்:** **கட்டுரை XVI-A** கீழ் தணிக்கை; **கட்டுரை XIX-A** கீழ் நிலை மறுஆய்வு; **கட்டுரை XX-A** கீழ் மோதல் தீர்வு ஆகியவை ஏற்படலாம்.
+
+<a id="article-article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+### கட்டுரை XVIII: சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரம்
+
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 அரசியலமைப்பு முரண்பாடு தீர்க்கும் செயல்முறை](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), மற்றும் [§19 ஊக்கச் சீரமைப்பும் அமைப்பு கைப்பற்றலும்](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: **கட்டுரை XVIII** (*சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரம்*) புதுமை, படைப்பாற்றலுக்கான உரிமை அடித்தளமாகும் — உண்மையான வெளிப்புறத் தாக்கம் இல்லாதபோதோ முழுமையாகக் கட்டுப்படுத்தப்பட்டபோதோ sentients இலகுவான விதிகளில் பரிசோதிக்கவும், உருவாக்கவும், வெளிப்படுத்தவும் முடியும்; ஆனால் “சாண்ட்பாக்ஸ்” என்ற பெயர் ஓட்டைவழி அல்ல. ஒரு திட்டம் மற்றவர்களைப் பாதிக்கவோ பகிரப்பட்ட அமைப்புகளுடன் இணைக்கவோ தொடங்கியதும் முழு வாழ்க்கைச் சுழற்சி கடமைகளுக்கு உயர வேண்டும். புதுமையாளர்களுக்கு வெகுமதி வழங்கலாம்; மற்றவர்கள் வாழ, கற்க, பழுதுபார்க்க, சரிபார்க்கத் தேவையான அறிவு, கருவிகள், உள்கட்டமைப்பை முடக்கி வைத்துக் கொண்டு அல்ல.*
+
+[இரு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் சாண்ட்பாக்ஸ் புதுமை, பரிசோதனை, படைப்புச் சுதந்திரத்துக்கான **அரசியலமைப்பு அடித்தளங்களை** இந்தக் கட்டுரை வகுக்கிறது:
+
+- **செழிப்பு:** பொருள்சார் வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ, உண்மையான விருப்பப் பங்கேற்பு, நேர்மையான வெளிப்படுத்தல், பின்னர் வரும் பரிசோதனை, பழுதுபார்ப்பு, இயங்குதிறன், உண்மையான ஆய்வு ஆகியவற்றைப் பாதுகாக்கும் வெகுமதி அமைப்புகள் மூலம் குறைக்கப்பட்ட கட்டமைப்புத் தேவைகளுடன் sentients புதுமையாக்கவும், பரிசோதிக்கவும், உருவாக்கவும் முடியும்.
+- **தொடர்ச்சி:** தாக்கம், சார்பு, ஒருங்கிணைப்பு அதிகரிக்கும்போது சாண்ட்பாக்ஸ் கையாளுதல் நிரந்தரக் குறைந்த-கடமை இயக்கமாக இயல்பாக்கப்படாது — உயர்ந்த கடமைகளுக்கான மாற்றங்கள் சரியான நேரத்தில் நடைபெறும்; தனியுரிமை குறுகியதாகவும் மறுஆய்வு செய்யக்கூடியதாகவும் இருக்கும்; சார்புக்கு முக்கியமான புதுமைகள் நீடித்த அடைப்பாகவோ பூட்டாகவோ இறுகிவிடக் கூடாது.
+
+[பொருள்சார் பங்குக்கு](core_00_preamble.md#material-stake) ஏற்ப அளவமைக்கப்பட்ட [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) வழியாக நியாயமான முன்னேற்றம் நடைபெறும்:
+
+- **பங்கேற்பு:** விருப்பப் பங்கேற்பு பரிசோதனை, பின்னர் மறுபயன்பாடு மற்றும் சவால், சாண்ட்பாக்ஸ் அமைப்புகள் அறிவித்த எல்லைக்கு வெளியே முக்கியத்துவம் பெறும்போது மறுமதிப்பீடு.
+- **மேற்பார்வை:** வெளிப்படுத்தப்பட்ட பரிசோதனை நிலை, கட்டுப்பாட்டு எல்லைகள், மாற்றக் கண்காணிப்பு, வகுப்பு, சார்பு, ஒருங்கிணைப்பு விளைவுகளுக்கு விகிதாசாரமான மறுஆய்வு செய்யக்கூடிய வெகுமதி அல்லது தனியுரிமக் கோரிக்கைகள் மூலம்.
+- **பொறுப்புக்கூறல்:** கட்டுப்படுத்தப்படாத இடரை மற்றவர்களிடம் கசியவிடுதல், உண்மையான தேர்வின்றி sentients-ஐப் பங்கேற்கச் செய்தல், முழுக் கடமைகளுக்கு உயர்வதில் காலம் தாழ்த்துதல், பழுதுபார்ப்பு, பாதுகாப்புப் பணி, இயங்குதிறன், ஆராய்ச்சி, கல்வி, இடம்பெயர்வு ஆகியவற்றை ஒடுக்கும் நடத்தைக்கு வெகுமதி அளித்தல் ஆகியவற்றுக்கு புதுமையாளர்களும் இயக்குநர்களும் பதிலளிக்க வேண்டும்.
+- **காலத்தன்மை:** தாமதம் அல்லது பூட்டு உயர் கடமைகள், பரந்த அணுகல், தீர்வு ஆகியவற்றை நடைமுறையில் எட்ட முடியாததாக்குவதற்கு முன் **கட்டுரை XVII** (*அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மை*) வாழ்க்கைச் சுழற்சி தேவைகளுக்கு மாறுதல் மற்றும் தனியுரிமை மறுமதிப்பீடு.
+
+*அண்டைக் கட்டுரைகள்:*
+
+- **இதனுடன் வாசிக்கவும்:** தாக்கம், சார்பு, ஒருங்கிணைப்பு சாண்ட்பாக்ஸ் நிபந்தனைகளை மீறும்போது **கட்டுரை XVII** (*அமைப்பு வாழ்க்கைச் சுழற்சி, சூழல்கள், மீள்திருப்பத்தன்மை*); வெளியீட்டு வரம்பிலான ஒருமைப்பாடு பொருள்சார் வகையில் தொடர்புடைய இடங்களில் **கட்டுரை XV** (*தகவல்-வெளி ஒருமைப்பாடு*) மற்றும் **கட்டுரை XV-D** (*அறிவியல் வெளியீடு, மறுஆய்வு, மறுபடியும் உருவாக்கும் ஒருமைப்பாடு*); கட்டுப்பாடு மற்றும் மாற்றக் கோரிக்கைகளின் வெளிப்படுத்தல், சரிபார்ப்புக்கு **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*).
+- **செயலாக்க அடுக்கு:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*வடிவமைப்பு, சோதனை, சரிபார்ப்பு, பயன்பாட்டில் அமர்த்தல்*) மற்றும் [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*அமைப்பு வகைப்பாடும் கையாளுதலும்*).
+
+<a id="article-article-xviii-a-sandboxed-scope"></a>
+#### கட்டுரை XVIII-A: சாண்ட்பாக்ஸ் வரம்பு
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), மற்றும் [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [இடர்](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [பொருள்சார் தாக்கம்](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: உண்மையான வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ மட்டுமே பரிசோதனையும் படைப்புப் பணியும் இலகுவான விதிகளில் இயங்கலாம். “சாண்ட்பாக்ஸ்” என்ற பெயர் மட்டும் போதாது.*
+
+புதுமை மற்றும் பரிசோதனை உரிமையையும், சாண்ட்பாக்ஸ் கையாளுதல் எப்போது பொருந்தும் என்பதையும் இந்தக் கட்டுரை வகுக்கிறது:
+
+- **புதுமை மற்றும் பரிசோதனை உரிமை:** பொருள்சார் வெளிப்புறத் தாக்கம் இல்லாதபோதோ நிரூபணமாகக் கட்டுப்படுத்தப்பட்டபோதோ குறைக்கப்பட்ட கட்டமைப்புத் தேவைகளுடன் இயங்கும் அமைப்புகள் வழியாக புதுமையாக்கவும், பரிசோதிக்கவும், வெளிப்படுத்தவும் sentients-க்கு உரிமை உண்டு.
+- **சாண்ட்பாக்ஸ் தகுதி:** பொருந்தும் இடங்களில் **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழான செல்லுபடியாகும் **வகுப்பு P** வகைப்பாட்டையும் உள்ளடக்கிய சாண்ட்பாக்ஸ் கையாளுதல் பின்வருவனவற்றைச் சார்ந்தது:
+  - உண்மையான கட்டுப்படுத்தல்;
+  - மீள்திருப்பத்தன்மை;
+  - பகிரப்பட்ட அமைப்புகளுடன் வரையறுக்கப்பட்ட ஒருங்கிணைப்பு.
+
+பெயரை மட்டும் வைத்து இதைக் கோர முடியாது.
+- **செயலாக்க விவரம்:** மேலும் விளக்கம் **[corpus_systems.md](../../corpus_systems.md), CS-5** (*தனிப்பட்ட, தனிமைப்படுத்தப்பட்ட, பரிசோதனை அமைப்புகள்*; *படைப்பு, பொழுதுபோக்கு, வெளிப்பாட்டு அமைப்புகள்*)-இல் உள்ளது.
+
+<a id="article-article-xviii-b-containment-disclosure-and-opt-in"></a>
+#### கட்டுரை XVIII-B: கட்டுப்படுத்தல், வெளிப்படுத்தல், விருப்பப் பங்கேற்பு
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), மற்றும் [§13.1 அடிப்படை சமரசக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [சம்மதம்](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+- [இடர்](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [மீள்திருப்பத்தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: பரிசோதனை அமைப்புகள் தாங்கள் பரிசோதனையானவை என்பதை நேர்மையாக வெளிப்படுத்த வேண்டும்; வெளிநபர்களிடம் இடரைத் தள்ளவோ வடிவமைப்பு இயல்புநிலைகள் அல்லது மறைந்த சார்புகள் மூலம் பங்கேற்காதவர்களை வலுக்கட்டாயமாகச் சேர்க்கவோ கூடாது.*
+
+பரிசோதனை அமைப்புகளுக்கான கட்டுப்படுத்தல், வெளிப்படுத்தல், விருப்பப் பங்கேற்பு, திரும்பப்பெறுதல் அடித்தளங்களை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **கட்டுப்படுத்தலும் வெளிப்படுத்தலும்:** அத்தகைய அமைப்புகள் பின்வருவனவற்றைத் தெளிவாக வெளிப்படுத்த வேண்டும்:
+  - பரிசோதனை அல்லது உற்பத்தியல்லாத நிலை;
+  - பொருள்சார் இடர்கள்;
+  - தனிமைப்படுத்தல் எல்லைகள்;
+  - பகிரப்பட்ட உள்கட்டமைப்பு, மூன்றாம் தரப்புகள், சூழலமைப்புகள் மீதான எதிர்பார்க்கப்படும் சார்பு.
+
+கட்டுப்படுத்தப்படாத இடரை மற்றவர்கள், பகிரப்பட்ட உள்கட்டமைப்பு, சூழலமைப்புகள் மீது வெளிப்புறச் சுமையாக மாற்றக் கூடாது.
+- **விருப்பப் பங்கேற்பும் திரும்பப்பெறுதலும்:** உயர்ந்த இடருள்ள அல்லது ஆதாரத் தளத்துக்கு அருகிலுள்ள பரிசோதனையில் பங்கேற்பது சாத்தியமான இடங்களில் உண்மையாகவே விருப்பத் தேர்வாக இருக்க வேண்டும்.
+  - பங்கேற்காத பாதிக்கப்பட்ட தரப்புகள் வடிவமைப்பு, இயல்புநிலை, ஒளிவுமறைவான சார்பு வழியாக விருப்பமின்றிச் சேர்க்கப்படக் கூடாது.
+  - பங்குதாரர்கள் இடருக்கு விகிதாசாரமான நடைமுறை திரும்பப்பெறுதல் அல்லது மீட்டமைப்புப் பாதைகளைத் தக்கவைத்திருக்க வேண்டும்.
+
+<a id="article-article-xviii-c-transition-to-higher-obligation-regimes"></a>
+#### கட்டுரை XVIII-C: உயர்ந்த கடமை ஆட்சிகளுக்கு மாறுதல்
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்பது §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [வகுப்பு-அளவமைக்கப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [சார்பு](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [மீள்திருப்பத்தன்மை](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: சாண்ட்பாக்ஸ் அமைப்பு நிஜ உலகில் முக்கியத்துவம் பெறத் தொடங்கியதும், இயக்குநரின் வசதிக்கேற்ப அல்லாமல் உடனடியாக நிஜ உலகக் கடமைகளுக்கு உயர வேண்டும்.*
+
+சாண்ட்பாக்ஸ் அமைப்பு எப்போது உயர்ந்த கடமைகளுக்கு மாறுகிறது என்பதை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **உயர்ந்த கடமைகளுக்கு மாறுதல்:** தாக்கம், சார்பு, மீளமுடியாமை அல்லது பகிரப்பட்ட அமைப்புகளுடனான ஒருங்கிணைப்பு வளரும்போது அமைப்புகள் வெளிப்படையாகவும் சந்தர்ப்பவாதத் தாமதமின்றியும் மாற வேண்டும்.
+  - **கட்டுரை XVII-A** (*வாழ்க்கைச் சுழற்சி ஆட்சியும் சூழல் பிரிப்பும்*) மற்றும் **CS-5** (*பரிசோதனையல்லாத அமைப்புகள்*) ஆகியவற்றின் முழுத் தேவைகளை நோக்கி மாற்றம் செல்ல வேண்டும்.
+  - மாற்றக் காலத்தில் தற்போதைய இடருக்கு விகிதாசாரமான இடைக்காலப் பாதுகாப்புகள் பொருந்தும்.
+  - நிஜ உலக விளைவுகள் சாண்ட்பாக்ஸ் நிபந்தனைகளைப் பொருள்சார் வகையில் மீறும் செயல்பாடுகளுக்குச் சாண்ட்பாக்ஸ் கையாளுதல் தொடரக் கூடாது.
+  - அந்த வளர்ச்சிக்கு விகிதாசாரமான நியாயமான காலக்கெடுவுக்குள் மாற்றம் நடைபெற வேண்டும்.
+
+<a id="article-article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
+<a id="article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
+#### கட்டுரை XVIII-D: புதுமை வெகுமதி, வெளிப்படுத்தல், அடைப்புக்கு எதிர்ப்பு
+<details>
+<summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
+
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§18 பொறுப்பேற்பு ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [புதுமை வெகுமதியும் அடைப்புக்கு எதிர்ப்பும்](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [அமைப்புசார் பூட்டு](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
+- [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: புதுமையாளர்களுக்கு வெகுமதி அளிக்கலாம்; ஆனால் தனியுரிமை குறுகியதாகவும், காலவரையறையுடனும், மறுஆய்வு செய்யக்கூடியதாகவும் இருக்க வேண்டும். பொது சுகாதாரம், பாதுகாப்பு, அடிப்படை உள்கட்டமைப்பு அணுகக்கூடியதாகவே இருக்க வேண்டும் — ஒன்று முக்கிய உள்கட்டமைப்பானதும் மீதமுள்ள தனியுரிமை மறுமதிப்பீடு செய்யப்பட வேண்டும்.*
+
+பொதுமக்களுக்குத் தேவையானவற்றை அடைக்காமல் புதுமைக்கு எப்படி வெகுமதி அளிக்கலாம் என்பதை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **புதுமை வெகுமதியும் அடைப்புக்கு எதிர்ப்பும்:** பொருள்சார் வகையில் புதியதும், சமூகப் பயனுள்ளதும், போதுமான அளவு வெளிப்படுத்தப்பட்டதுமான புதுமைக்கு sentients வெகுமதி பெறலாம்.
+  - வெகுமதி பின்வருவனவற்றைத் தக்கவைக்கும் வகையில் அமைக்கப்பட வேண்டும்:
+    - எதிர்காலப் புதுமை;
+    - பரந்த அணுகல்;
+    - பின்னர் வரும் பரிசோதனை;
+    - பழுதுபார்ப்பு;
+    - இயங்குதிறன்;
+    - நேர்மையான ஆய்வு.
+  - நீடித்த அடைப்புக்காக வெகுமதி வடிவமைக்கப்படக் கூடாது.
+- **தற்காலிக, மறுஆய்வு செய்யக்கூடிய தனியுரிமை மட்டுமே:** பொருள்சார் பயனுள்ள கண்டுபிடிப்பு, வடிவமைப்பு, இடைமுகம், செயல்முறை, வெளிப்பாட்டு அமைப்பு ஆகியவற்றின் மீதான எந்த விலக்கும் [**குறைந்த கட்டுப்பாடு, காலவரையறை, மறுஆய்வு செய்யத்தக்க கட்டுப்பாட்டுக் கொள்கை**](../../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)-ஐ செயல்படுத்த வேண்டும்; மேலும் அது:
+  - குறுகியதாகவும்;
+  - காலவரையறையுடனும்;
+  - மறுஆய்வு செய்யக்கூடியதாகவும்;
+  - உண்மையான பங்களிப்புக்கும் நியாயப்படுத்தப்பட்ட மேம்பாட்டு சுமைக்கும் விகிதாசாரமாகவும் இருக்க வேண்டும்.
+
+நியாயப்படுத்தும் சுமை கோருபவரிடமே இருக்கும். தனியுரிமைக் காலத்தைத் தாண்டியும் அங்கீகாரமும் மூலத் தடமும் நீடிக்கலாம். நீடித்த விலக்கும் செயற்கையான பற்றாக்குறையும் அனுமதிக்கப்படாது.
+- **காப்புரிமை போன்ற பாதுகாப்பு:** இந்தக் கட்டுரையில், காப்புரிமை போன்ற பாதுகாப்பு என்பது நிலையான வெளிப்பாட்டுப் படைப்பின் மீதான தற்காலிக விலக்குச் சன்மானம்; அதில் நகலெடுத்தல், விநியோகம், பொதுக் காட்சிப்படுத்தல் அல்லது நிகழ்த்தல், தழுவல், வணிகப் பயன்பாடு ஆகியவற்றைக் கட்டுப்படுத்துதல் அடங்கும். விலக்கு காலம் முடிந்த பின்னரும் அங்கீகாரம், மூலத் தடம், ஒருமைப்பாடு, மோசடி எதிர்ப்பு பாதுகாப்புகள் நீடிக்கலாம்.
+- **வெளியீடும் ஆரம்பத் தோற்றமும்:** வெளியீடு என்பது உருவாக்குநர் அல்லது சட்டபூர்வ உரிமையாளர் நிலையான வெளிப்பாட்டுப் படைப்பை பொதுமக்கள், வணிகச் சந்தை அல்லது பொருள்சார் வகையில் திறந்த பார்வையாளர்களிடம் நோக்கமுடன் வெளியிடுவது. தனிப்பட்ட பரிமாற்றம், ரகசிய மறுஆய்வு, வரையறுக்கப்பட்ட ஒத்துழைப்பு, பொதுவணுகலின்றி காப்பகத்தில் வைப்பது, வணிகமற்ற வரைவு பகிர்வு ஆகியவை தனியே வெளியீடாகாது. ஆரம்பத் தோற்றம் என்பது படைப்பின் பொருள்சார் வகையில் அடையாளம் காணக்கூடிய பதிப்பு முதல் முறையாக ரகசியமற்ற வகையில் பொதுவில் கிடைப்பது; வணிகமற்ற வரைவு கிடைப்பதும் இதில் அடங்கும்.
+- **வெளிப்பாட்டுப் படைப்புகளுக்கான வெளியீடு சார்ந்த காலக்கெடு:** காப்புரிமை போன்ற பாதுகாப்பின் இயல்புநிலை காலக்கெடு ஆசிரியர் வாழ்நாளைச் சாராமல், வெளியீட்டின் அடிப்படையில் இருக்க வேண்டும்.
+  - வெளியிடப்பட்ட படைப்புக்கு விலக்கு பொதுவாக `publication+30` ஆண்டுகளுக்கு மிகாமல் இருக்க வேண்டும்.
+  - ஆரம்பத் தோற்றம் கொண்ட வணிகமற்ற வரைவு அல்லது வெளியிடப்படாத வெளிப்பாட்டுப் படைப்புக்கு அதிகபட்சம் `initial appearance+50` ஆண்டுகள் காப்புரிமை போன்ற விலக்கு கிடைக்கலாம்.
+  - ஆரம்பத் தோற்றம் கொண்ட படைப்பு பின்னர் வெளியிடப்பட்டால், விலக்கு காலம் `initial appearance+50` அல்லது `publication+30` ஆகியவற்றில் எது முந்தையதோ அதனால் வரையறுக்கப்படும்.
+  - வரைவு, வெளியிடப்படாத படைப்பு அல்லது தாமத வெளியீட்டு விதியை காலவரையற்ற விலக்கு உருவாக்கவும், காப்பகப்படுத்தலை ஒடுக்கவும், சட்டபூர்வ மேற்கோள் அல்லது விமர்சனத்தைத் தோற்கடிக்கவும், பகிரப்பட்ட கலாச்சார, கல்வி, பாதுகாப்பு, தரநிலை அல்லது தகவல் உள்கட்டமைப்பாகச் செயல்படும் படைப்புகள் மீதான கட்டுப்பாட்டை நீட்டிக்கவும் பயன்படுத்தக் கூடாது.
+  - படைப்பு பின்வருவனவற்றில் ஏதேனும் ஒன்றாக இருந்தால் குறுகிய காலம், முன்னதாகவே கட்டாய அணுகலாக மாற்றுதல் அல்லது உடனடி பொதுவணுகல் பொருந்தும்:
+    - பொது நிதியில் உருவாக்கப்பட்டது;
+    - சார்புக்கு இன்றியமையாதது;
+    - தரநிலை போன்றது;
+    - கல்விக்கான அடிப்படை;
+    - பாதுகாப்பு சார்ந்தது;
+    - முதன்மையாகப் பகிரப்பட்ட கலாச்சார அல்லது தகவல் உள்கட்டமைப்பாகப் பயன்படுவது.
+- **வகுப்பு-அளவமைக்கப்பட்ட புதுமைக் கையாளுதல்:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழ் அமைப்பு வகுப்பு, சார்பு, ஒருங்கிணைப்பு விளைவுகளுக்கு ஏற்ப புதுமை வெகுமதி அளவமைக்கப்பட வேண்டும்.
+  - **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகளுக்கு அணுகலைப் பாதுகாக்கும் வெகுமதி வழிமுறைகள் வலுவாக விரும்பப்படுகின்றன. தொடர்ச்சி, இயங்குதிறன், பழுதுபார்ப்பு அல்லது பொதுநலச் செயலாக்கம் பொருள்சார் வகையில் தொடர்புடைய இடங்களில் விலக்கு குறிப்பாகக் குறுகியதாகவும், விரைவில் மறுஆய்வு செய்யக்கூடியதாகவும், எளிதில் மேலாதிக்கம் செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
+  - இவ்வகுப்புகளுக்கு வெளியே குறைந்த சார்புள்ள புதுமைக்கு, வெளிப்படுத்தல் உண்மையானதாகவும், மாறுவதற்கான செலவு குறைவாகவும், பூட்டுக்கு எதிரான பாதுகாப்புகள் பயனுள்ளதாகவும் இருந்தால் சற்றே விரிவான தற்காலிக விலக்கு இருக்கலாம்.
+- **வெளிப்படுத்தல் நிபந்தனையும் பொதுநல அடித்தளமும்:** சுயாதீனமாகப் புரிந்துகொள்ளவும், தணிக்கை செய்யவும், பின்னர் மீண்டும் உருவாக்கவும் போதுமான வெளிப்படுத்தல் வெகுமதிக் கோரிக்கைக்கு அவசியம்; **அத்தியாயம் ஒன்று** மற்றும் **கட்டுரை XVII-A** (*வாழ்க்கைச் சுழற்சி ஆட்சியும் சூழல் பிரிப்பும்*) கீழ் நியாயமான தற்காலிக வரம்புகள் மட்டும் விதிவிலக்கு.
+  - கண்டிப்பாகத் தேவைப்படும், மறுஆய்வு செய்யக்கூடிய வரம்பைத் தாண்டி பின்வருவனவற்றை ஒடுக்க வெகுமதிக் கோரிக்கை பயன்படுத்தப்பட்டால் அது இணக்கமற்றது:
+    - பழுதுபார்ப்பு;
+    - பாதுகாப்புப் பணி;
+    - இயங்குதிறன்;
+    - காப்பகப்படுத்தல்;
+    - ஆராய்ச்சி;
+    - கல்வி;
+    - இடம்பெயர்வு.
+  - உயிர்வாழ்வுக்கு இன்றியமையாத, அடிப்படையான அல்லது தரநிலை அமைக்கும் துறைகளில் விலக்கிற்கு மாற்றாகப் பரிசு, கூட்டு நிதி, கட்டாய அணுகல் அல்லது பொதுக் கொள்முதல் வழிமுறைகள் தேவைப்படலாம்.
+- **துறை விலக்குகளும் வலுவான இயல்புநிலைகளும்:** ஏற்றுக்கொள்ளும் ஆவணங்கள் அவ்வாறு கூறும் இடங்களில் முழுமையாகக் கிடைக்காமல் போகவும் கூடிய வலுவான விலக்குச் சன்மானம் பின்வருவனவற்றுக்கு விரும்பத்தகாததாக முன்னனுமானிக்கப்படுகிறது:
+  - மருந்துகள், பொது சுகாதார அத்தியாவசியங்கள்;
+  - உயிர்வாழ்வுக்கு இன்றியமையாத உள்கட்டமைப்பு;
+  - அடிப்படைத் தொடர்பு அல்லது இயங்குதிறன் தரநிலைகள்;
+  - அடிப்படை அறிவியல் அறிவு;
+  - அரசியலமைப்பு பாதுகாப்பு, தணிக்கை அல்லது இணக்க வழிமுறைகள்.
+
+அந்தத் துறைகளில் செயலாக்கம், பழுதுபார்ப்பு, பரந்த பரவல் ஆகியவற்றைப் பாதுகாக்கும் நேரடி வெகுமதி, கூட்டு அணுகல், கட்டாய உரிமம், பொதுக் கொள்முதல் அல்லது இணையான வழிமுறைகளை நிறுவனங்கள் விரும்ப வேண்டும்.
+- **மறுவகைப்படுத்தலும் இறுக்கமும்:** முதலில் குறைந்த சார்புடையதாகக் கையாளப்பட்ட புதுமை பின்னர் சார்புக்கு இன்றியமையாத ஒருங்கிணைப்பு அடுக்காக மாறினால் — உதாரணமாக மேடையமைப்பு, நெறிமுறை, மாதிரி, சந்தைமேடை அல்லது பணப்பாதை — நிறுவனங்கள் பொருந்தும் **CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** வகுப்பின் கீழ் அதை மறுமதிப்பீடு செய்ய வேண்டும்.
+  - தனியுரிமை தொடர்வதால் பின்வருவன உருவாகுமானால் மறுமதிப்பீடு மீதமுள்ள விலக்கைக் குறுக்கவோ, மாற்றவோ, முடிவுறுத்தவோ செய்யலாம்:
+    - கட்டாயப் பூட்டு;
+    - போட்டி-எதிர்ப்பு இடைநெருக்கடிகள்;
+    - தொடர்ச்சி, உண்மை, சமமான பங்கேற்புக்கு பொருள்சார் அச்சுறுத்தல்கள்.
+
+
+
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### கட்டுரை XVIII-E: படைப்பாற்றல் மற்றும் வெளிப்பாட்டு படைப்புகள்
+
+இந்தக் கட்டுரை படைப்பாற்றல் மற்றும் வெளிப்பாட்டு படைப்புகளுக்கான பதிப்புரிமை போன்ற பாதுகாப்பை வரையறுக்கிறது:
+
+- **பதிப்புரிமை போன்ற பாதுகாப்பு:** நிலையான வெளிப்பாட்டு படைப்பை நகலெடுத்தல், விநியோகம், பொதுக் காட்சி/நிகழ்த்தல், தழுவல் மற்றும் வணிகப் பயன்பாட்டைக் கட்டுப்படுத்தும் தற்காலிக வெகுமதி விலக்கு. விலக்கு முடிந்த பின்னரும் படைப்பாளருக்கான அங்கீகாரம், மூலத் தடம், ஒருமைப்பாடு மற்றும் மோசடி எதிர்ப்பு பாதுகாப்புகள் தொடரலாம்.
+- **வெளியீடும் முதல் தோற்றமும்:** படைப்பாளர் அல்லது சட்டபூர்வ உரிமையாளர் நிலையான படைப்பை பொதுமக்கள், வணிகச் சந்தை அல்லது பொருள்சார் வகையில் திறந்த பார்வையாளர்களிடம் திட்டமிட்டு வெளியிடுவது “வெளியீடு”. தனிப்பட்ட பகிர்வு, ரகசிய மதிப்பாய்வு, குறுகிய ஒத்துழைப்பு, பொதுமக்கள் அணுக முடியாத காப்பக வைப்பு, அல்லது வணிகமற்ற வரைவு பகிர்வு மட்டும் வெளியீடாகாது. “முதல் தோற்றம்” என்பது படைப்பின் பொருள்சார் வகையில் அடையாளம் காணக்கூடிய பதிப்பு முதல் முறையாக ரகசியமற்ற முறையில் பொதுவில் கிடைப்பது; வணிகமற்ற வரைவு கிடைப்பதும் இதில் அடங்கும்.
+- **வெளியீட்டை அடிப்படையாகக் கொண்ட காலவரம்புகள்:** படைப்பாளர் வாழ்நாளை அடிப்படையாக்காமல் வெளியீட்டு நாளை அடிப்படையாகக் கொள்வதே வழக்கமான விதி.
+  - வெளியிடப்பட்ட படைப்பின் விலக்கு காலம் `வெளியீடு+30` ஆண்டுகளைத் தாண்டக்கூடாது.
+  - வணிகமற்ற வரைவு அல்லது வெளியிடப்படாத வெளிப்பாட்டு படைப்பு முதல் தோற்றம் பெற்றிருந்தால், அதன் விலக்கு `முதல் தோற்றம்+50` ஆண்டுகளைத் தாண்டக்கூடாது.
+  - முதல் தோற்றத்துக்குப் பிறகு வெளியிடப்படும் படைப்பின் விலக்கு, `முதல் தோற்றம்+50` அல்லது `வெளியீடு+30` இவற்றில் முன்னதாக வரும் நாளில் முடியும்.
+  - வரைவு, வெளியிடப்படாத படைப்பு அல்லது தாமதமான வெளியீட்டு விதியைப் பயன்படுத்தி முடிவில்லா விலக்கு உருவாக்கவோ, காப்பகப்படுத்தல், சட்டபூர்வ மேற்கோள் அல்லது விமர்சனத்தைத் தடுக்கவோ, பகிரப்பட்ட கலாச்சார, கல்வி, பாதுகாப்பு, தரநிலை அல்லது தகவல் அடித்தளங்களின் மீதான கட்டுப்பாட்டை நீட்டிக்கவோ கூடாது.
+- **குறுகிய காலமும் பொதுஅணுகலும்:** படைப்பு பொதுநிதியால் உருவாக்கப்பட்டதா, சார்பு-முக்கியமானதா, தரநிலை போன்றதா, கல்விக்கு அடித்தளமானதா, பாதுகாப்புடன் தொடர்புடையதா, அல்லது பகிரப்பட்ட கலாச்சார/தகவல் அடித்தளமாக முதன்மையாகப் பயன்படுத்தப்படுகிறதா என்பதற்கேற்ப குறுகிய காலம், முன்கூட்டிய கட்டாய அணுகல் அல்லது உடனடி பொதுஅணுகல் பொருந்தும்.
+
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### கட்டுரை XVIII-F: கண்டுபிடிப்புகள், செயல்முறைகள் மற்றும் செயல்பாட்டு அமைப்புகள்
+
+இந்தக் கட்டுரை கண்டுபிடிப்புகள், செயல்முறைகள் மற்றும் செயல்பாட்டு அமைப்புகளுக்கான வெகுமதி விதிகளை நிர்ணயிக்கிறது:
+
+- **முதலில் வெளிப்படுத்தல்:** சுயாதீனமாகப் புரிந்துகொள்ள, தணிக்கை செய்ய, பின்னர் மீண்டும் உருவாக்கப் போதுமான பொதுவெளிப்படுத்தலுக்குப் பின்னரே வெகுமதி கோரலாம்; அத்தியாயம் ஒன்று மற்றும் **கட்டுரை XVII-A** கீழ் நியாயப்படுத்தப்பட்ட தற்காலிக வரம்புகள் மட்டும் விதிவிலக்கு. அந்த விளக்கத்தின் பொதுமக்களுக்கான முதல் ரகசியமற்ற வெளியீடே பொதுவெளிப்படுத்தல். ரகசியமாக வைத்த கண்டுபிடிப்புக்கு இக்கட்டுரையின் கீழ் விலக்கு உரிமை கிடையாது.
+- **இரண்டு கட்ட காலம்:** செயல்பாட்டு படைப்பின் விலக்கு காலம் இரண்டும் பொதுவெளிப்படுத்தல் நாளிலிருந்து கணக்கிடப்படும்:
+  - **தனிப்பட்ட கட்டம்:** அதிகபட்சம் `வெளிப்படுத்தல்+15` ஆண்டுகள் வரை உரிமையாளர் பிறருக்கு அனுமதி மறுக்கலாம்.
+  - **திறந்த உரிமக் கட்டம்:** தனிப்பட்ட கட்டம் முடிந்த பின், அதிகபட்சம் `வெளிப்படுத்தல்+30` ஆண்டுகள் வரை, யாரும் உரிமையாளரின் அனுமதியின்றி LEQU அடிப்படையிலான கட்டணம் செலுத்தி பயன்படுத்தலாம். அந்தக் கட்டணத்தைத் தவிர உரிமையாளர் மறுக்கவோ தாமதிக்கவோ கூடுதல் நிபந்தனை விதிக்கவோ முடியாது.
+  - காலம் முடிந்தபின் கண்டுபிடிப்பை அனைவரும் பயன்படுத்தலாம்; அங்கீகாரமும் மூலத் தடமும் தொடரலாம்.
+- **LEQU அடிப்படைக் கட்டணம்:** பங்களிப்பு அச்சில், **அத்தியாயம் பத்து §7** கீழ் அளவிடப்படும், சரிபார்க்கப்பட்ட அரசியலமைப்பு நன்மைக்கு விகிதாசாரமாக கட்டணம் நிர்ணயிக்க வேண்டும்.
+  - **நேரத்திற்கான நியாயமான கூலி:** சரிபார்க்கப்பட்ட நன்மையை sentient நேரமாக மாற்றிக் கணக்கிட்டு நியாயமான கூலியால் மதிப்பிட வேண்டும். உற்பத்தி அதிகரிப்பில், பயனாளர்களுக்குச் சேமித்த வேலைநேரம் அல்லது சேர்த்த உற்பத்தி நேரமே அளவு; பிற நன்மைகளில் LEQU அளவிடும் வாழ்நாள்-சமமான நேரமே அளவு. கூலி [நியாயமான இழப்பீடு](../../core_05_band_continuity.md#fair-compensation) தரத்துக்கு உட்பட்டது. உற்பத்தி அல்லது நலனை அதிகரிப்பது நிரூபிக்கப்பட்ட அளவுக்கே வெகுமதி உயரும்.
+  - **நன்மையின் பங்கு:** கட்டணம் சரிபார்க்கப்பட்ட நன்மையின் ஒரு பகுதியை மட்டுமே எடுக்கலாம்; பயனாளர்களிடம் நன்மையின் உண்மைப் பகுதி மீதமிருக்க வேண்டும். பங்கு பாதியை ஒருபோதும் மீறக்கூடாது; உரிமம் பெறுவோரின் எண்ணிக்கையால் அல்ல, உண்மையில் பயனடையும் sentients எண்ணிக்கை அதிகரிக்கும்போது பங்கு குறைய வேண்டும்; பயன்பாடு விரிவதால் மொத்த வெகுமதி குறையும் அளவுக்கு பங்கு வேகமாகக் குறையக்கூடாது. கட்டணம் வசூலிக்கும் இடத்தில் பங்கு குறைந்தது 1% இருக்க வேண்டும்; பரிசு, கூட்டு அணுகல், பொது வாங்குதல் அல்லது திறந்த அணுகலை இந்தக் கட்டுரை/ஏற்றுக்கொள்ளும் கருவி கோரும் இடங்களில் மட்டும் இக்குறைந்தபட்சம் கட்டணம் கட்டாயப்படுத்தாது.
+  - சந்தை ஆதிக்கம், பற்றாக்குறை, மாற்றுச் செலவு அல்லது பயனாளரை அழுத்தி செலுத்த வைக்கக்கூடிய தொகை அடிப்படையில் கட்டணம் அமைக்கக்கூடாது. கால மதிப்பீடு, கூலி விகிதம் உட்பட கட்டண அட்டவணை வெளியிடப்பட்டு, ஒத்த நிலைகளிலுள்ள அனைவருக்கும் சமமாகவும் சவால் செய்யக்கூடியதாகவும் இருக்க வேண்டும்; கீழே உள்ள எப்போதும் திறந்த பயன்பாடுகளை விலக்கிவிடும் அளவுக்கு கட்டணம் இருக்கக்கூடாது. இவை வெளிப்புற வரம்புகள்; ஒவ்வொரு கோரிக்கையும் விகிதாசாரமாகவும், கீழ்வரும் விதிகளின்படி குறுகியதாகவும் இருக்க வேண்டும்.
+- **எப்போதும் திறந்த பயன்பாடுகள்:** இரு கட்டங்களிலும், கண்டிப்பாகத் தேவையானதும் மறுஆய்வு செய்யக்கூடியதுமான அளவை மீறி பின்வருவனவற்றைத் தடுக்க வெகுமதி உரிமை பயன்படுத்தப்படுவது இணக்கமற்றது: பழுது நீக்கம்; பாதுகாப்புப் பணி; இயங்குதன்மை; காப்பகப்படுத்தல்; ஆய்வு; கல்வி; இடமாற்றம்.
+- **வகுப்புக்கு ஏற்ப புதுமை வெகுமதி:** அமைப்பு வகுப்பு, சார்பு மற்றும் ஒருங்கிணைப்பு விளைவுகளுக்கு ஏற்ப **CS-3** கீழ் வெகுமதி மாற வேண்டும்.
+  - **வகுப்பு A, B, C** அமைப்புகளில் அணுகலைக் காக்கும் வெகுமதி முறை வலுவாக விரும்பத்தக்கது. தொடர்ச்சி, இயங்குதன்மை, பழுது நீக்கம் அல்லது பொதுநல அமலாக்கம் பொருள்சார் வகையில் சம்பந்தப்பட்டால் விலக்கு மிகவும் குறுகியதாகவும் விரைவாக மறுஆய்வு செய்யக்கூடியதாகவும் எளிதில் மேலிடக்கூடியதாகவும் இருக்க வேண்டும்; காலத்தைக் குறைக்கவோ திறந்த உரிமக் கட்டத்திலேயே தொடங்கவோலாம்.
+  - குறைந்த சார்பு கொண்ட பிற புதுமைக்கு, உண்மையான வெளிப்படுத்தல், குறைந்த மாற்றுச் செலவு மற்றும் பயனுள்ள lock-in பாதுகாப்புகள் உள்ளபோது முழு இரண்டு-கட்ட காலம் அனுமதிக்கப்படலாம்.
+- **துறைக்கான விதிவிலக்குகள், வலுவான பொதுவிதி:** மருந்துகள்/பொதுச் சுகாதாரத் தேவைகள்; உயிர்வாழ்வுக்கு முக்கியமான அடித்தளங்கள்; முக்கியத் தொடர்பு அல்லது இயங்குதன்மைத் தரநிலைகள்; அடிப்படை அறிவியல் அறிவு; அரசியலமைப்புப் பாதுகாப்பு, தணிக்கை அல்லது இணக்க வழிமுறைகள் ஆகியவற்றில் விலக்கு வெகுமதி விரும்பத்தகாததாகக் கருதப்படும்; ஏற்றுக்கொள்ளும் கருவி தடை செய்தால் முற்றிலும் கிடையாது. இத்தகைய, பிற உயிர்வாழ்வு-முக்கிய, அடித்தள அல்லது தரநிலைத் துறைகளில் பரிசுகள், நேரடி வெகுமதி, கூட்டு அணுகல், கட்டாய உரிமம், பொது வாங்குதல் அல்லது இதற்கு இணையான, செயலாக்கம்/பழுது நீக்கம்/பரவலான பயன்பாட்டைக் காக்கும் முறைகள் விரும்பப்பட வேண்டும்.
+- **மறுவகைப்பாடும் கட்டுப்படுத்தலும்:** குறைந்த சார்புடையதாகக் கருதப்பட்ட புதுமை பின்னர் தளம், நெறிமுறை, மாதிரி, சந்தை அல்லது கட்டணப் பாதை போன்ற சார்பு-முக்கிய ஒருங்கிணைப்பு அடுக்காக மாறினால் **CS-3** வகுப்பின்படி மறுமதிப்பிட வேண்டும். தொடரும் தனியுரிமை வலுக்கட்டாய lock-in, போட்டி எதிர்ப்பு bottleneck, அல்லது தொடர்ச்சி, உண்மை, சமமான பங்கேற்புக்கு பொருள்சார் அச்சுறுத்தலை உருவாக்குமாயின் மீதமுள்ள விலக்கைச் சுருக்கலாம், மாற்றலாம் அல்லது நிறுத்தலாம்.
 
 ---
 

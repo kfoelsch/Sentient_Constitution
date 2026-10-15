@@ -86,35 +86,6 @@
 ---
 
 <a id="flourishing-measurement-family"></a>
-
-### সমৃদ্ধি
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
-
-</details>
-
-<br>
-
-*সহজ কথায়: সংবেদনশীল সত্তারা বাস্তবে কল্যাণ, নিরাপত্তা ও কর্মক্ষমতা বজায় রাখে কি না—শুধু বিকল্প সূচকে সম্পৃক্ততা বা কাজের পরিমাণ নয়—এই প্রশ্নগুলো তা যাচাই করে। অধ্যায় পাঁচে সমৃদ্ধি পরিমাপ-পরিবারের স্থান এটি; প্রস্তাবনার §2 শ্রেণির সহজ প্রশ্নটি রাখে, আর পরিবার-সারণি ও সংজ্ঞার নির্দেশনা এখানে রয়েছে।*
-
-*বস্তুগততা ([Materiality](core_05_band_oversight.md#materiality)) সমন্বিত, আলাদা পরিমাপ-শ্রেণি নয়; [material stake](core_00_preamble.md#material-stake) অনুযায়ী পরিবারের প্রয়োগের মাত্রা নির্ধারণ করে।*
-
-| উপপরিবার | সহজ প্রশ্ন | প্রধান সাংবিধানিক ব্যবহার |
-|---|---|---|
-| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | সংবেদনশীল সত্তারা কি কার্যক্ষমতা, কর্তৃত্বশীলতা ও সহায়ক পরিস্থিতিতে টিকে থাকে? | **সমৃদ্ধি** ফলাফলের প্রাথমিক মাপ (উপাদান নয়)—বিকল্প সম্পৃক্ততা বা কাজের পরিমাণ নয়। |
-| নিরাপত্তা, ক্ষতি ও ঝুঁকি | পূর্বানুমেয় ক্ষতি কি প্রতিরোধ, নিয়ন্ত্রণ এবং সততার সঙ্গে মূল্যায়ন করা হয়? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
-| বেঁচে থাকার ন্যূনতম সুবিধায় প্রবেশাধিকার | সংবেদনশীল সত্তারা কি খাদ্য, পানি, আশ্রয়, যত্ন ও স্থিতিশীল পরিবেশের মতো অপরিহার্য জিনিস পেতে পারে? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (বেঁচে থাকা)। |
-
-কার্যকর পরিমাপের স্তরগুলো ওই সংজ্ঞা-স্থানগুলোতে রয়েছে।
-
-**আগের ফাইল:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
-**পরের ফাইল:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### সমুন্নতি মাপা (প্রস্তাবনার পরিমাপ পরিবার)

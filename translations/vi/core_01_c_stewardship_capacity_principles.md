@@ -634,6 +634,45 @@ flowchart TB
 
 <br>
 
+<a id="176-portable-competence"></a>
+#### 17.6 Năng lực có thể chuyển giao
+<details>
+<summary><strong><span style="color: #2563eb;">Dẫn chiếu</span></strong></summary>
+
+- Cơ sở trước đó: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (hai chế độ của vai trò: chuyển giữa học tập và vận hành); [§16.2 Institutional Development](#162-institutional-development) (năng lực được duy trì); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (hồ sơ thuộc về vai trò).
+- Đọc cùng [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): **giám sát** để nhiều người phụ trách có thể kiểm tra; **tính kịp thời** để nhận ra sớm vấn đề, kể cả tại nơi các chức năng giao nhau; **tham gia** với lối vào rộng mở cho công việc có hệ quả; điều chỉnh theo [material stake](core_00_preamble.md#material-stake).
+- Đọc cùng [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship), [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence), [§19.3 Misalignment Detection](#193-misalignment-detection) (phát hiện đa nguồn), và [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response).
+- Giới hạn: [§18.3 Segregation of Duties](#183-segregation-of-duties) và [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (học một vị trí không đồng nghĩa nắm giữ vị trí đó); [Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances); [§17.5 Duty to Resist](#175-duty-to-resist); [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- Triển khai tiếp: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) (không có điểm lỗi đơn lẻ ở cấp hữu thể có tri giác); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
+
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Institutional Development](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Distributed Understanding](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+*Nói đơn giản:* Không công việc hệ trọng nào nên phụ thuộc vào trí nhớ của chỉ một hữu thể có tri giác. Hệ thống càng quan trọng và người khác càng phụ thuộc, người phụ trách càng cần biết bàn giao, giải thích, kiểm tra công việc của nhau và hiểu chức năng lân cận để nhận ra vấn đề ở điểm giao. Đây là mức sàn về độ bao phủ và hiểu biết, không bắt mọi người luân phiên mọi việc.
+
+Năng lực trong vai trò hệ trọng thuộc về vai trò và cộng đồng phụ thuộc vào nó, không thuộc về một người phụ trách; mức độ tùy theo tính trọng yếu và sự phụ thuộc:
+- **Bao phủ:** Hơn một hữu thể có tri giác đủ năng lực có thể đảm nhiệm và giải thích vai trò. Người thay thế có thể thất bại vì cùng nguyên nhân thì không được tính; bản sao hệ thống AI có cùng khiếm khuyết cũng không phải dự phòng.
+- **Thực hành bàn giao:** Tài liệu không đủ chứng minh năng lực được chuyển giao. Phải thực hành kế nhiệm và bàn giao; ghi lại và khắc phục khoảng trống.
+- **Hiểu điểm giao:** Người phụ trách chức năng lân cận phải hiểu việc của nhau để nhận ra bàn giao bị bỏ sót hoặc thước đo tốt ở phía này nhưng gây hại phía kia. Đây là hiểu biết, không phải quyền hạn.
+- **Luân chuyển là công cụ:** Khi an toàn và được đồng thuận, có thể dùng luân chuyển, quan sát, làm theo cặp hoặc thay thế tạm thời để học và tăng bao phủ; không nhanh hơn tốc độ hình thành năng lực. Không chia vai trò đến mức không ai thành thạo.
+
+**Giới hạn:** Tách việc kiểm tra khỏi công việc mình đã làm. Phải đạt chuẩn trước vai trò ràng buộc hoặc liên quan đến an toàn; trước đó chỉ học tập có giám sát. Không điều chuyển hay đào tạo lại để trả đũa người phản đối hoặc báo cáo được bảo vệ. Hiểu biết không đồng nghĩa quyền truy cập: bảo mật, an ninh, quyền tối thiểu và ghi chép vai trò vẫn có hiệu lực. Không bắt mọi người luân phiên mọi vai trò; chuyên môn hóa có căn cứ được bảo vệ và nỗ lực tương xứng gánh nặng có thể tránh. Nhóm nhỏ có thể để thành viên đáng tin cậy hỗ trợ thay thế nhau. Nghĩa vụ áp dụng như nhau cho người phụ trách là con người và AI.
+
+---
+
 <a id="18-governance-under-stewardship-discipline"></a>
 ### 18. Quản trị dưới kỷ luật quản thủ
 

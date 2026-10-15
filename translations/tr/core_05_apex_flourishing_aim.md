@@ -86,35 +86,6 @@ Bu amaç altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 ---
 
 <a id="flourishing-measurement-family"></a>
-
-### Serpilme
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
-
-</details>
-
-<br>
-
-*Sade dille: Bu sorular, sentient varlıkların vekil etkileşim veya işlem hacmiyle değil, gerçekten esenlik, güvenlik ve eyleme geçme kapasitesi içinde tutulup tutulmadığını inceler. Burası Beşinci Bölümdeki Serpilme ölçüm ailesinin yeridir; Önsöz §2 kategoriye ilişkin sade soruyu korur, aile tablosu ve tanım yönlendirmesi burada bulunur.*
-
-*Önemlilik ([Materiality](core_05_band_oversight.md#materiality)) bütünleştiricidir, ayrı bir ölçüm kategorisi değildir; [material stake](core_00_preamble.md#material-stake) uyarınca bu ailenin uygulama gücünü ayarlar.*
-
-| Alt aile | Sade soru | Başlıca anayasal kullanım |
-|---|---|---|
-| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | Sentient varlıkların işlevi, eyleme geçme kapasitesi ve destekleyici koşulları sürdürülüyor mu? | **Serpilme** sonucunun temel ölçüsü (bir bileşeni değil)—vekil etkileşim veya işlem hacmi değildir. |
-| Güvenlik, zarar ve risk | Öngörülebilir zarar önleniyor, sınırlandırılıyor ve dürüstçe değerlendiriliyor mu? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint); [Harm](../../core_05_band_accountability.md#harm) |
-| Hayatta kalma eşiğine erişim | Sentient varlıklar gıda, su, barınma, bakım ve istikrarlı çevre gibi temel ihtiyaçlara ulaşabiliyor mu? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions); **Article III-A** (Hayatta Kalma). |
-
-İşlevsel ölçüm katmanları bu tanım bölümlerinde yer alır.
-
-**Önceki dosya:** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
-**Sonraki dosya:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### Gelişimi ölçmek (Önsöz ölçüm ailesi)

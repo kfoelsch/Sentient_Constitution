@@ -94,34 +94,6 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
-
-### పర్యవేక్షణ
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
-- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
-
-</details>
-
-<br>
-
-*సరళంగా చెప్పాలంటే: అధిక ప్రభావం గల వ్యవస్థలు ఏమి సూచిస్తున్నాయో స్పృహగల జీవులు చూడగలరా, ధృవీకరించగలరా, ఆధారపడగలరా అని ఈ ప్రశ్నలు పరిశీలిస్తాయి. ఐదవ అధ్యాయంలోని పర్యవేక్షణ కొలత కుటుంబానికి ఇది నిలయం; ఉపోద్ఘాతంలోని §2 వర్గపు సరళ ప్రశ్నను ఉంచుతుంది, కుటుంబ పట్టిక మరియు నిర్వచనాల దారి ఇక్కడ ఉన్నాయి.*
-
-*భౌతిక ప్రాధాన్యత ([Materiality](core_05_band_oversight.md#materiality)) సమగ్ర స్వభావం కలది, ప్రత్యేక కొలత వర్గం కాదు; [material stake](core_00_preamble.md#material-stake) ఆధారంగా ఈ కుటుంబం వర్తించే స్థాయిని నిర్ణయిస్తుంది.*
-
-| కొలత కుటుంబం | సరళ ప్రశ్న | ప్రధాన రాజ్యాంగ వినియోగం |
-|---|---|---|
-| సత్యత మరియు జ్ఞాన సమగ్రత | వాదనలు, రికార్డులు, వెల్లడింపులు సురక్షిత నిర్ణయాలకు సరిపడా నిజాయితీగా ఉన్నాయా? | తెలిసిన భాగస్వామ్యం, పరిహారం, సవరణలను రక్షిస్తుంది. |
-| విశ్వసనీయత | ఆధారపడటం సమంజసమా, లేక నమ్మకం దెబ్బతింటుందా? | తప్పుడు నమ్మకం, తప్పుదారి పట్టించే ఆధారపడటం నుండి స్పృహగల జీవులను రక్షిస్తుంది. |
-
-ఆరవ అధ్యాయం, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), లేదా చేర్చిన పత్రాలు స్పష్టంగా కోరినప్పుడే విశ్వసనీయత, ఆడిట్ లేదా సమీక్షకు సంబంధించిన బంధనాత్మక అవసరాలు వస్తాయి.
-
-**మునుపటి ఫైలు:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
-**తదుపరి ఫైలు:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### పర్యవేక్షణ కొలవడం (ప్రస్తావన కొలత కుటుంబం)

@@ -93,35 +93,6 @@ Les **termes indépendants et semi-indépendants** qui mettent en œuvre l’act
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### Respect des délais
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*En termes simples : ces questions vérifient si les problèmes progressent réellement à temps — et pas seulement si un tableau de bord affiche un volume de traitement. Cette section accueille la famille de mesures du respect des délais au chapitre cinq ; le §2 du Préambule (Vue d’ensemble des mesures) conserve la question simple de la catégorie, tandis que le tableau de la famille et les renvois aux définitions se trouvent ici.*
-
-*La matérialité ([Materiality](core_05_band_oversight.md#materiality)) est intégrative, et non une catégorie distincte ; elle module l’application de cette famille selon le [material stake](core_00_preamble.md#material-stake).*
-
-| Famille de mesures | Question simple | Usage constitutionnel principal |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | Les différends sont-ils résolus tant qu’un recours reste utile ? | Empêche les retards de vider les droits de leur substance. |
-| Règles contre les retards et encadrement des voies de résolution | Les incitations et les structures évitent-elles les arriérés délibérés, la captation et les échéances creuses ? | Détecte les régimes de retard et [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways). |
-
-Ces mesures vérifient si les délais de procédure, les voies de résolution et la rapidité de réparation maintiennent réellement le volet **respect des délais** du [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), et pas seulement sur le papier.
-
-**Fichier précédent :** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**Fichier suivant :** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### Mesurer l’action en temps

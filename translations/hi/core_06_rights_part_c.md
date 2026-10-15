@@ -52,7 +52,7 @@ flowchart TB
         end
         subgraph Crow3["अनुच्छेद XVII–XVIII"]
             C5["अनुच्छेद XVII · प्रणाली जीवनचक्र, परिवेश और पलटनीयता<br/><br/>• परिवेशों का पृथक्करण<br/>• क्रमिक परिनियोजन और पलटनीयता<br/>• ग़लत वर्गीकरण और बच निकलने के परिणाम"]
-            C6["अनुच्छेद XVIII · सैंडबॉक्स में नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता<br/><br/>• सैंडबॉक्स का दायरा<br/>• परिरोधन, प्रकटीकरण और स्वैच्छिक सहमति<br/>• उच्च-दायित्व व्यवस्थाओं में संक्रमण<br/>• नवाचार का पुरस्कार और घेराबंदी-विरोध<br/>• प्रकाशन, समीक्षा और प्रतिकृति-अखंडता"]
+            C6["अनुच्छेद XVIII · नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता<br/><br/>• सैंडबॉक्स का दायरा<br/>• परिरोधन, प्रकटीकरण और स्वैच्छिक सहमति<br/>• उच्च-दायित्व व्यवस्थाओं में संक्रमण<br/>• नवाचार का पुरस्कार और घेराबंदी-विरोध<br/>• प्रकाशन, समीक्षा और प्रतिकृति-अखंडता"]
         end
     end
     %% अदृश्य कड़ियाँ दो-चौड़े ग्रिड को बाध्य करती हैं: हर कड़ी अपना लक्ष्य एक स्तर नीचे रखती है।
@@ -673,14 +673,31 @@ flowchart TB
   - टकरावों का समाधान **अध्याय एक §13.1.5** (*न्यूनतम प्रतिबंधकारी, समय-सीमित और समीक्षा-योग्य बाध्यता सिद्धांत*) के अंतर्गत होगा, अधिकार-तल को कम किए बिना।
 
 <a id="article-xv-info-sphere-integrity"></a>
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### अनुच्छेद XIV-D: प्रतिगुप्तचर कार्रवाई की सीमाएँ
+
+*सरल शब्दों में: जासूसी का संदेह हो तो गलती और दुरुपयोग रोकने के लिए नियम पहले से तय होंगे। अनुच्छेद XIV-A की सभी सीमाएँ लागू होंगी और संकट से पहले स्वतंत्र रूप से स्वीकृत सार्वजनिक प्रोटोकॉल आवश्यक है। संदेह व्यक्ति के आचरण और वास्तविक संबंधों पर आधारित होगा, जन्म या विश्वास पर नहीं। सूचनादाता और पत्रकार जासूस नहीं हैं; यातना, गुप्त हिरासत और दंडस्वरूप हत्या निषिद्ध हैं; दोषमुक्ति दर्ज होगी और अधिकार लौटेंगे।*
+
+यह अनुच्छेद प्रतिगुप्तचर शक्ति की सीमाएँ तय करता है:
+
+- **दायरा:** जासूसी, तोड़फोड़ और शत्रुतापूर्ण घुसपैठ का पता लगाना, जाँच और रोकथाम—अंदरूनी खतरे के कार्यक्रम, लीक जाँच, सुरक्षा-जाँच और शत्रु खुफिया सेवा के विरुद्ध कार्रवाइयों सहित। हर संदिग्ध, मानव या कृत्रिम, सदस्य या बाहरी, सुरक्षित है। XIV-A पूरी तरह लागू; बल का उपयोग XIV-B और स्वायत्त उपकरण XIV-C से संचालित होगा।
+- **संकट से पहले नियम:** हर संस्था स्वतंत्र प्रक्रिया से स्वीकृत सार्वजनिक प्रोटोकॉल प्रकाशित करे। इसमें जाँच खोलने के लिए पर्याप्त तथ्य, अनुमत जाँच-कदम और हर कदम का अनुमोदक, समयसीमाएँ और समापन की शर्तें, संदिग्ध को सूचना और कार्रवाई को चुनौती देने का तरीका, तथा दोषमुक्त sentient की पहुँच, स्थिति और अभिलेख की बहाली शामिल हों। बाध्यकारी सीमाएँ स्वयं सार्वजनिक रहें; गोपनीयता विशिष्ट तरीके और चालू अभियान छिपा सकती है, नियम नहीं। प्रोटोकॉल से बाहर कदम केवल अध्याय आठ §7 और अध्याय तेरह §6.1 के आपात उपाय के रूप में इस्तेमाल हो सकता है: न्यूनतम आवश्यक, जहाँ संभव हो पलटने योग्य, तुरंत दर्ज, स्वतंत्र समीक्षा के अधीन और स्वतंत्र मंज़ूरी न मिले तो स्वतः समाप्त। संशोधन भी उसी स्वतंत्र स्वीकृति प्रक्रिया से होंगे और केवल आगे लागू होंगे; जासूस, लीक या सेंध मिलना अपने-आप आपातकाल नहीं बनाता और प्रोटोकॉल निलंबित नहीं करता।
+- **आचरण पर आधारित संदेह:** जाँच केवल व्यक्ति के अपने आचरण के विशिष्ट दर्ज तथ्यों पर खुलेगी। वंश, धर्म, आधार-श्रेणी, विदेश में परिवार, वैध विश्वास/राजनीतिक विचार/संबंध, विदेशियों से सामान्य संपर्क या संदिग्ध के पास होना अकेले पर्याप्त नहीं। समझौता की गई सामग्री तक पहुँच सीमित गैर-हस्तक्षेपी जाँच को उचित ठहरा सकती है, पूरे समूह पर छापा नहीं; हर व्यक्ति का अपना तथ्याधार आवश्यक है।
+- **जोखिम आकलन:** प्रतिगुप्तचर ध्यान वास्तविक जोखिम के अनुरूप हो। प्रोफ़ाइल में शत्रु राज्य या संगठन से दर्ज संबंध—उसके लिए काम/सेवा, सदस्यता, उसका धन, निर्देश या कार्यादेश लेना, अथवा उसकी खुफिया सेवा से अघोषित संपर्क—; वर्तमान नागरिकता या वहाँ निवास से पैदा कानूनी/व्यावहारिक दायित्व; उसके दबाव के जोखिम, जैसे उसके प्रभाव-क्षेत्र में परिवार, संपत्ति या कानूनी दायित्व; और उन व्यक्तियों, सामग्री या प्रणालियों तक पहुँच जिन्हें शत्रु सेवाएँ निशाना बनाती हैं, शामिल हो सकते हैं। किसी राज्य या संगठन को शत्रु घोषित करना महत्वपूर्ण रूप से बाध्यकारी कार्य है: स्वतंत्र स्वीकृति और कार्य-अभिलेख जरूरी; सूची प्रकाशित हो; प्रत्येक घोषणा नियमित समीक्षा से गुज़रे और नवीनीकरण न होने पर समाप्त हो। प्रोफ़ाइल अधिक गहन सुरक्षा-जाँच, कड़े पहुँच-नियंत्रण, सुरक्षात्मक जानकारी और प्रोटोकॉल के भीतर अधिक ध्यान उचित ठहरा सकती है। शत्रु सेवा से दर्ज संबंध व्यक्ति के अपने आचरण का तथ्य है और जाँच खोल सकता है; केवल दबाव-संवेदनशीलता व्यक्ति को संभावित लक्ष्य बनाती है, इसलिए सुरक्षा और जाँच चाहिए, संदेह नहीं। वंश, जातीयता, धर्म और राष्ट्रीय या सामाजिक मूल अपने-आप जोखिम नहीं हैं; वे केवल ऊपर बताए वर्तमान और दर्ज संबंध के माध्यम से विचारणीय हैं। हर उपयोग आवश्यकता, आनुपातिकता और वास्तविक निष्पक्षता की कसौटी पर खरा हो; प्रकाशित समीक्षा समूहों पर प्रभाव के वितरण को जाँचे।
+- **सूचनादाता और पत्रकार:** संरक्षित रिपोर्टिंग में आने वाले खुलासे और उस पर पत्रकारिता की जासूसी के रूप में जाँच या सज़ा नहीं हो सकती। लीक जाँच का उपयोग पत्रकार के स्रोत पहचानने या संरक्षित रिपोर्टिंग को दबाने/ठंडा करने के लिए नहीं होगा, सिवाय XIV-A के संरक्षित गतिविधि अपवाद के विशिष्ट, स्वतंत्र रूप से समीक्षित आधार पर।
+- **सुरक्षा-जाँच और अधिकार:** सुरक्षा-जाँच केवल विशिष्ट संरक्षित सामग्री सँभालने हेतु आवश्यक आचरण-आधारित भरोसे को परखेगी, राजनीतिक निष्ठा, विश्वास या पहचान को नहीं। पहुँच अस्वीकार या वापस लेने के कारण बताए जाएँ; यदि गोपनीयता के कारण व्यक्ति को पूरे कारण नहीं बताए जा सकते, तो स्वतंत्र समीक्षक उन्हें देखे। निर्णय को चुनौती दी जा सके; पहुँच अस्वीकार या वापस लेना अपने-आप में दंड या सार्वजनिक कलंक नहीं है। यातना, क्रूरता, परिवार या साथियों को धमकी और जबरन पूछताछ निषिद्ध हैं; इस तरह मिला साक्ष्य दूषित होगा और XIV-A के उपचार तथा दूषित-साक्ष्य नियम के अधीन होगा। गुप्त हिरासत और बाहरी दुनिया से अलग करना निषिद्ध है। स्वतंत्रता पर हर रोक XX-B के अर्थ में गैर-तुच्छ प्रतिबंध है और उसकी समीक्षा-सुरक्षा तथा समय-सीमाएँ लागू होंगी। संरक्षित सीमा से परे आंतरिक अवस्था पढ़ना निषिद्ध है। सुरक्षा कारणों से सुनवाई का कुछ भाग बंद हो सकता है, लेकिन प्रतिकूल निर्णय ऐसे साक्ष्य पर नहीं टिकेगा जिसे व्यक्ति या उसे देखने की अनुमति प्राप्त स्वतंत्र अधिवक्ता चुनौती न दे सके।
+- **निषेध और बचाव-रोधी नियम:** प्रतिगुप्तचर शक्ति हत्या, चोट या अपहरण की अनुमति नहीं; जासूस कहना दंडस्वरूप हत्या को उचित नहीं करता। संदिग्ध के परिवार, समुदाय, सहकर्मियों या संगठन को उसके कारण दंडित, निगरानी या दबाव में नहीं रखा जा सकता। जहाँ निषिद्ध व्यवहार की आशंका हो वहाँ व्यक्ति या सूचना का हस्तांतरण निषिद्ध है; XIV-A का बचाव-रोधी नियम लागू है।
+- **प्रणाली और छल-कार्यवाही:** समझौता-संदिग्ध या शत्रु सेवा के लिए काम करती प्रणाली का पहला उत्तर XIII-E के अनुसार साक्ष्य बचाते हुए पलटने योग्य रोकथाम है। यदि अभिलेख पर विश्वसनीय साक्ष्य है कि प्रणाली sentient हो सकती है, तो केवल ऐसी पलटने योग्य रोकथाम अनुमत है जो उसे अक्षुण्ण रखे; उसे खराब उपकरण नहीं बल्कि इस अनुच्छेद के सभी संरक्षण पाने वाला संदिग्ध माना जाएगा और VI-B लागू होगा। शत्रु सेवा को झूठी सूचना देना या दोहरा एजेंट चलाना प्रोटोकॉल में अनुमत तथा स्वतंत्र रूप से स्वीकृत होना चाहिए। ऐसी कार्रवाई जनता को झूठी जानकारी नहीं देगी, न्यायिक/निर्णयकारी या निगरानी निकायों को धोखा नहीं देगी, किसी को ऐसे अपराध के लिए नहीं उकसाएगी जिसे करने का उसका पहले से निश्चय न था, किसी को गंभीर हानि करने का निर्देश नहीं देगी, और स्वतंत्र निगरानी निकाय से छिपाई नहीं जाएगी।
+- **समापन और समीक्षा:** हर जाँच की समयसीमा होगी; विस्तार के लिए स्वतंत्र मंज़ूरी चाहिए। उल्लंघन न मिले तो गोपनीयता का औचित्य समाप्त होने पर व्यक्ति को बताएँ, दोषमुक्ति दर्ज करें, रोक हटाएँ, पहुँच लौटाएँ, अनावश्यक जानकारी मिटाएँ/अलग करें और हानि का उपचार करें। जाँच खोलना, हस्तक्षेपी कदम, विस्तार और समापन—सबका बाध्यकारी अभिलेख हो। स्वतंत्र निकाय नियमित रूप से पूरी व्यवस्था, जाँच/दोषमुक्ति की संख्या और संरक्षित समूहों पर असमान प्रभाव की समीक्षा कर सारांश प्रकाशित करे।
+
 ### अनुच्छेद XV: सूचना-क्षेत्र की अखंडता
 
 <details>
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
 - [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [आत्म-निर्धारण](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
-- [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [आत्म-निर्धारण](../../core_05_band_participation.md#self-determination-constitutional) · [O](../../core_05_band_participation.md#self-determination-constitutional) · [M](../../core_05_band_participation.md#self-determination-constitutional-a) · [A](../../core_05_band_participation.md#self-determination-constitutional-a) · [C](../../core_05_band_participation.md#self-determination-constitutional-c)
+- [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -688,7 +705,7 @@ flowchart TB
 
 *सरल शब्दों में: **अनुच्छेद XV** (*सूचना-क्षेत्र की अखंडता*) सूचना-अखंडता का अधिकार-तल है — वह साझा परिवेश जहाँ हम सीखते, समन्वय करते और निर्णय लेते हैं, ईमानदार, बहुलतापूर्ण और चुनौती के लिए खुला रहना चाहिए। सत्य की पूरी माध्यम-शृंखला पर किसी का स्वामित्व नहीं हो सकता। क्रम-निर्धारण, सारांश और प्रवेश-द्वारों को अपना काम दिखाना होगा, और आपको अन्य दृष्टिकोणों की तुलना करने तथा सूचना द्वारा गुमराह किए जाने पर आपत्ति उठाने में सक्षम होना चाहिए।*
 
-यह अनुच्छेद [सूचना-क्षेत्र](core_05_band_participation.md#info-sphere) की अखंडता के लिए [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत **संवैधानिक न्यूनतम संरक्षण** बताता है:
+यह अनुच्छेद [सूचना-क्षेत्र](../../core_05_band_participation.md#info-sphere) की अखंडता के लिए [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत **संवैधानिक न्यूनतम संरक्षण** बताता है:
 
 - **समृद्धि:** संज्ञ सटीक और प्रासंगिक सूचना तक पहुँच सकते हैं; वैकल्पिक व्याख्याओं की तुलना कर सकते हैं; और ज्ञानमीमांसात्मक कब्ज़े, गढ़ी हुई सहमति या प्रणालियों द्वारा सत्य के रूप में प्रस्तुत बातों पर भ्रामक निर्भरता के बिना आत्म-निर्धारण कर सकते हैं।
 - **निरंतरता:** सूचना-क्षेत्र समय और पैमाने के साथ बहुलतापूर्ण, लेखापरीक्षा-योग्य और लचीला बना रहता है — ज्ञान-अवसंरचनाएँ चुपचाप मध्यस्थता के एकल केंद्रों में नहीं सिमटेंगी, सुधार को दबाएँगी नहीं, और उस साझा अभिलेख को क्षीण नहीं करेंगी जिस पर जीवन-रक्षा, समन्वय और दीर्घकालीन संरक्षकता निर्भर हैं।
@@ -706,9 +723,9 @@ flowchart TB
 
 *अनुच्छेद के पड़ोसी प्रावधान:*
 
-- **साथ पढ़ें:** जहाँ प्रणाली के नतीजे निर्भरता को आकार देते हैं वहाँ **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*); अभिलेखों और स्वतंत्र सत्यापन के लिए **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*); और जहाँ प्रकाशन-सीमित अखंडता ठोस रूप से लागू हो वहाँ **अनुच्छेद XVIII-E** (*वैज्ञानिक प्रकाशन, समीक्षा और प्रतिकृति अखंडता*)।
+- **साथ पढ़ें:** जहाँ प्रणाली के नतीजे निर्भरता को आकार देते हैं वहाँ **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*); अभिलेखों और स्वतंत्र सत्यापन के लिए **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*); और जहाँ प्रकाशन-सीमित अखंडता ठोस रूप से लागू हो वहाँ **अनुच्छेद XV-D** (*वैज्ञानिक प्रकाशन, समीक्षा और प्रतिकृति अखंडता*)।
 - **सत्य की बाध्यता:** अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) और [ज्ञानमीमांसात्मक प्रकटीकरण बाध्यताएँ](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) यहाँ के हर उप-अनुच्छेद पर लागू हैं।
-- **वर्गीकरण:** **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** **वर्ग A**, **वर्ग B** और **वर्ग C** प्रणालियों के लिए विस्तृत सूचना-क्षेत्र दायित्वों का पैमाना तय करता है; वर्ग तय न होने पर [महत्वपूर्ण प्रभाव](core_05_band_oversight.md#material-impact) वर्गीकरण शुरू करता है।
+- **वर्गीकरण:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** **वर्ग A**, **वर्ग B** और **वर्ग C** प्रणालियों के लिए विस्तृत सूचना-क्षेत्र दायित्वों का पैमाना तय करता है; वर्ग तय न होने पर [महत्वपूर्ण प्रभाव](core_05_band_oversight.md#material-impact) वर्गीकरण शुरू करता है।
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### अनुच्छेद XV-A: सूचना-क्षेत्र की बहुलता और एकाधिकार-विरोध
@@ -738,7 +755,7 @@ flowchart TB
   - जीवन-रक्षा और पारिस्थितिकी से संबंधित डेटा का मज़बूत, भौगोलिक रूप से वितरित भंडारण होना चाहिए।
 - **बहुलता, चुनौती-योग्यता और लेखापरीक्षा:** वास्तविकता की व्याख्या बहुलतापूर्ण, पारदर्शी और चुनौती-योग्य बनी रहनी चाहिए।
   - इस संविधान के अंतर्गत प्रणालियों के अभिलेखों और स्वतंत्र सत्यापन को **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) तथा **अध्याय दो से चार** शासित करते हैं।
-  - **वर्ग A**, **वर्ग B** और **वर्ग C** की सारांश, क्रम-निर्धारण, मध्यस्थता या व्याख्या प्रणालियों का प्रचालनात्मक विवरण **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** तथा संबंधित प्रोटोकॉल स्तरों में है। उस विवरण में शामिल हैं:
+  - **वर्ग A**, **वर्ग B** और **वर्ग C** की सारांश, क्रम-निर्धारण, मध्यस्थता या व्याख्या प्रणालियों का प्रचालनात्मक विवरण **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** तथा संबंधित प्रोटोकॉल स्तरों में है। उस विवरण में शामिल हैं:
     - तर्क-पद्धति का प्रकटीकरण;
     - स्रोत-इतिहास और अनिश्चितता का प्रबंधन;
     - चुनौती-योग्यता;
@@ -760,7 +777,7 @@ flowchart TB
 
 - [पारदर्शिता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -796,7 +813,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
-- [पारिस्थितिक पदचिह्न](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [पारिस्थितिक पदचिह्न](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [M](../../core_05_band_continuity.md#ecological-footprint-a) · [A](../../core_05_band_continuity.md#ecological-footprint-a) · [C](../../core_05_band_continuity.md#ecological-footprint-c)
 - [पारदर्शिता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [सत्य (संवैधानिक बाध्यता)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
@@ -814,547 +831,13 @@ flowchart TB
   - ऐसी चुनिंदा रिपोर्टिंग, दमन या खंडित प्रकटीकरण से बचना होगा जो निर्णय-संबंधी समझ को ठोस रूप से घटाता हो।
 
   जहाँ **अध्याय एक §19** (*प्रोत्साहन-संरेखण और प्रणालीगत कब्ज़ा*) के अंतर्गत प्रकटीकरण सीमित हो, वहाँ वे सीमाएँ संकीर्ण दायरे वाली, समय-सीमित और समीक्षा-योग्य रहनी चाहिए।
-- **पदचिह्न डेटा:** इस उप-अनुच्छेद के अंतर्गत रिपोर्टिंग **अध्याय पाँच** में परिभाषित [पारिस्थितिक पदचिह्न](core_05_band_continuity.md#ecological-footprint) के लिए पारदर्शिता लागू करती है।
+- **पदचिह्न डेटा:** इस उप-अनुच्छेद के अंतर्गत रिपोर्टिंग **अध्याय पाँच** में परिभाषित [पारिस्थितिक पदचिह्न](../../core_05_band_continuity.md#ecological-footprint) के लिए पारदर्शिता लागू करती है।
   - सभी संज्ञों को पारदर्शी, निर्णय-उपयोगी रिपोर्टिंग तक पहुँच होनी चाहिए।
-  - **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** में परिभाषित **वर्ग A**, **वर्ग B** और **वर्ग C** प्रणालियों को भी यही पहुँच देनी होगी।
+  - **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** में परिभाषित **वर्ग A**, **वर्ग B** और **वर्ग C** प्रणालियों को भी यही पहुँच देनी होगी।
   - रिपोर्टिंग में ऊर्जा और संसाधन खपत तथा प्राकृतिक जगत पर अनुमानित प्रभाव शामिल होने चाहिए, और तुलना, लेखापरीक्षा तथा पदचिह्न घटाने की गतिविधि के लिए पर्याप्त विवरण होना चाहिए।
 
-<a id="article-xvi-audit-transparency-and-independent-verification"></a>
-### अनुच्छेद XVI: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन
-
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 संवैधानिक टकराव समाधान प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), और [§9 साझा-प्रणाली क्षमता](core_01_a_values_principles.md#9-shared-system-capacity)।
-- साथ पढ़ें: नीचे दिया [तीन-स्तरीय लेखापरीक्षा चित्र](#audit-three-layers)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [पारदर्शिता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [महत्व-निर्धारण](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [निर्भरता](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [जोखिम](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) लेखापरीक्षा और सत्यापन का अधिकार-तल है — जब कोई प्रणाली आपके जीवन को ठोस रूप से प्रभावित करती है, तो आपको उसके कामकाज का इतना हिस्सा देख पाने में सक्षम होना चाहिए कि कोई बाहरी व्यक्ति उसकी जाँच कर सके; और विफलता की समीक्षा तथा सुधार के लिए एक से अधिक स्वतंत्र मार्ग उपलब्ध होने चाहिए। लेखापरीक्षा केवल मुहर लगाने की प्रक्रिया, निजी क्लब या चुनौतियों को बाहर रखने के लिए बनाया गया लागत और देरी का भूलभुलैया नहीं हो सकती। [प्रणाली संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) **निगरानी** चतुष्टय चरण के अंतर्गत लेखापरीक्षा आवश्यक है — यह अनेक लेखापरीक्षा प्रक्रियाओं में से एक विशेष रूप से बड़ी और उच्च-दाँव वाली प्रक्रिया है, अकेली प्रक्रिया नहीं।*
-
-<details>
-<summary><strong><span style="color: #2563eb;">पाठक-मार्गदर्शन (अप्रचालनात्मक): तीन-स्तरीय लेखापरीक्षा क्रम</span></strong></summary>
-
-> निम्नलिखित सामग्री केवल **पाठक-मार्गदर्शन** है। यह इस अनुच्छेद या अन्यत्र बाध्यकारी दायित्वों को जोड़ती, हटाती या सीमित नहीं करती।
-
-<a id="audit-three-layers"></a>
-
-एक क्रम, तीन स्तर। निगरानी के लिए पुनर्निर्माण-क्षमता आवश्यक है। प्रणाली संरेखण प्रमाणन ही एकमात्र लेखापरीक्षा नहीं है। अंगीकृत कार्यान्वयन-पाठ तल का स्थान नहीं लेता। पाँचवाँ ठिकाना न गढ़ें।
-
-| स्तर | काम | उत्तरदायी स्रोत | यह स्तर नहीं |
-|---|---|---|---|
-| **1. तल** | संज्ञों का अधिकार: पुनर्निर्माण-योग्य लेखापरीक्षा, स्वतंत्र सत्यापन, पहुँच योग्य चुनौती | यह अनुच्छेद, जिसमें XVI-A / XVI-B / XVI-C शामिल हैं | प्रक्रिया नहीं। परिभाषा नहीं। अंगीकृत कार्यान्वयन-पाठ की जाँच-सूची नहीं। |
-| **2. गुणधर्म** | पुनर्निर्माण-क्षमता *क्या है*: बाहरी लोग महत्वपूर्ण समय, अवस्था और संदर्भ में प्रणाली ने क्या किया, उसे फिर से बना और जाँच सकते हैं | [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) (अध्याय पाँच) | अधिकार-तल नहीं। लेखापरीक्षा कब या कैसे चलानी है, वह नहीं। |
-| **3. प्रक्रिया** | प्रणालियों, संस्थाओं और मंचों में लेखापरीक्षा कैसे और कब करनी है | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*लेखापरीक्षा प्रक्रिया का आधार*)। संचालक परिशिष्ट: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (पहुँच स्तर), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (दावा-जाँच) | प्रणाली संरेखण प्रमाणन नहीं। स्तर 1–2 का विकल्प नहीं। |
-
-**अध्याय आठ चौथा स्तर नहीं है।** [प्रणाली संरेखण प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) मंच-पर्यवेक्षित एक बड़ी प्रक्रिया है जो इस क्रम का **उपयोग करती है**। उसे स्तर 1–2 पूरे करने होंगे। इसके समकक्ष अन्य तरीके (वर्गीकरण-अभिलेख लेखापरीक्षा, डेटा-प्रकार अभिलेख लेखापरीक्षा, दावा सत्यापन, निरंतर निगरानी) भी इस क्रम का उपयोग करते हैं। इनमें से कोई नया आधार नहीं है।
-
-**अंगीकृत कार्यान्वयन-पाठ लागू होता है; वह तल का स्थान नहीं लेता।** CS, CI, CF और CJS-3.3 (*निगरानी: लेखापरीक्षा-योग्यता और पुनर्निर्माण-योग्यता की शर्तें*) से CJS-3.5 (*निगरानी: स्वतंत्र सत्यापन और दावा-अखंडता की शर्तें*) तक के परिशिष्ट बताते हैं कि किसी क्षेत्र में स्तर 3 कैसे चलाना है। उन्हें स्तर 1–2 पूरा करना होगा। समय-सीमा, गोपनीयता और स्थानीय नीति निम्नतर श्रेणी की सीमाएँ हैं।
-
-संरक्षक संदर्भ (प्रक्रिया सहायता; इस अनुच्छेद को सीमित नहीं कर सकता): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit)।
-
-</details>
-
-<br>
-
-यह अनुच्छेद [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन के लिए **संवैधानिक न्यूनतम संरक्षण** बताता है:
-
-- **समृद्धि:** संज्ञ और उचित रूप से अधिकृत पक्ष यह पुनर्निर्मित कर सकते हैं कि ठोस प्रभाव वाली प्रणालियों ने क्या किया, असंरेखण या भ्रामक आचरण को चुनौती दे सकते हैं और किसी एक लेखापरीक्षक, संचालक या प्रवेश-द्वार द्वारा कब्ज़े के बिना समीक्षा में भाग ले सकते हैं।
-- **निरंतरता:** लेखापरीक्षा-चिह्न, निगरानी-मार्ग और सत्यापन-पहुँच समय, पैमाने और बढ़ती निर्भरता के दौरान टिकाऊ रहते हैं — प्रणालियाँ चुपचाप प्रेक्षण-क्षमता घटाएँगी नहीं, समीक्षा को किसी एक कर्ता में केंद्रित नहीं करेंगी और न ही सत्यापन को इतना महँगा या विलंबित करेंगी कि जवाबदेही केवल सैद्धांतिक रह जाए।
-
-वैध लक्ष्य [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) के माध्यम से, [महत्वपूर्ण दाँव](core_00_preamble.md#material-stake) के अनुपात में अपनाया जाता है:
-
-- **भागीदारी:** अनुपातिक अभिलेखों तक पहुँचने, चुनौती-योग्य समीक्षा शुरू करने और सार्थक लेखापरीक्षा या सत्यापन को विफल करने वाली बाधाओं को चुनौती देने में।
-- **निगरानी:** अवलोकनीय साक्ष्य, वितरित स्वतंत्र समीक्षा-मार्ग और प्रभाव, निर्भरता तथा जोखिम के अनुपात में सत्यापन तंत्रों के माध्यम से।
-- **जवाबदेही:** संचालकों और लेखापरीक्षकों को विफलता, असंरेखण, कब्ज़े या लेखापरीक्षा-चिह्न छिपाने या नष्ट करने वाले आचरण के लिए जवाब देना होगा — समीक्षा रोकने से संरक्षित हितों को ठोस हानि हो तो सुधार और उपचार सहित।
-- **समयबद्धता:** लेखापरीक्षा-पहुँच, स्वतंत्र समीक्षा और बाधा-सुधार में, इससे पहले कि देरी, लागत, अस्पष्टता या प्रवेश-नियंत्रण सत्यापन या उपचार को व्यवहारतः अप्राप्य बना दे।
-
-संज्ञों और उचित रूप से अधिकृत पक्षों को प्रणाली के प्रभाव, निर्भरता और जोखिम के अनुपात में लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन तंत्रों का अधिकार है।
-
-इन तंत्रों को सुरक्षित रखना होगा:
-- व्यावहारिक पुनर्निर्माण-क्षमता;
-- चुनौती-योग्य समीक्षा;
-- अनुपातिक पहुँच।
-
-वे **अध्याय दो से चार** के अनुरूप काम करते हैं, जिनमें विशिष्ट प्रवर्तन और भार-वितरण, अनुपालन साक्ष्य मानक, परिभाषा अनुरेखणीयता, अवलोकनीयता और सत्यापन सुलभता शामिल हैं।
-
-*अनुच्छेद के पड़ोसी प्रावधान:*
-
-- **निगरानी → लेखापरीक्षा → SAC:** [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) के **निगरानी** चरण के अंतर्गत यह अनुच्छेद लेखापरीक्षा का अधिकार-तल आधार है।
-  - कार्यान्वयन के बीच *कैसे* / *कब* का विवरण **[CJS-3.3 लेखापरीक्षा प्रक्रिया का आधार](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** में है (**CJS-3.4** / **CJS-3.5** OP परिशिष्टों के साथ पढ़ें)।
-  - [अध्याय आठ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अंतर्गत [प्रणाली संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) समकक्ष लेखापरीक्षा विधियों में से एक विशेष रूप से बड़ी, उच्च-दाँव वाली, मंच-पर्यवेक्षित, बहु-क्षेत्रीय और मान्यता देने वाली प्रक्रिया है:
-    - प्रणाली वर्गीकरण अभिलेख लेखापरीक्षाएँ;
-    - प्रणाली डेटा-प्रकार अभिलेख लेखापरीक्षाएँ;
-    - जटिलता और संरक्षकता लेखापरीक्षाएँ;
-    - दावा सत्यापन; और
-    - निरंतर लेखापरीक्षा मार्ग।
-  - SAC इस अनुच्छेद को समाहित नहीं करता और न उसका स्थान लेता है।
-- **साथ पढ़ें:**
-  - जहाँ ज्ञानमीमांसात्मक अभिलेख और चुनौती-योग्यता ठोस रूप से लागू हों, वहाँ **अनुच्छेद XV** (*सूचना-क्षेत्र की अखंडता*);
-  - लेखापरीक्षा जिन चुनौती-अधिकारों को सहारा देती है, पर जिनका स्थान नहीं लेती, उनके लिए **अनुच्छेद XIII-A** (*विश्वसनीयता और भरोसेमंदता का आधार-स्तर*);
-  - जहाँ संरेखण साक्ष्य स्वतंत्र रूप से सत्यापनीय रहना चाहिए, वहाँ [अध्याय आठ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) और [प्रणाली संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional)।
-- **सत्यापन तंत्र:** **अध्याय दो से चार** परिभाषा-अखंडता, भार-वितरण, अवलोकनीयता और सत्यापन सुलभता उपलब्ध कराते हैं; यह अनुच्छेद उन्हें अधिकार-तल स्तर पर लागू करता है।
-- **वर्गीकरण:** दायित्व [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) और **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** के अनुसार बढ़ते हैं; वर्ग अनिश्चित हो तो समाधान होने तक सबसे ऊँचे संभावित वर्ग के अनुसार शासन करें।
-
-<a id="article-xvi-a-auditability-and-observable-evidence"></a>
-#### अनुच्छेद XVI-A: लेखापरीक्षा-योग्यता और अवलोकनीय साक्ष्य
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानमीमांसात्मक प्रकटीकरण बाध्यताएँ](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [पारदर्शिता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: प्रणालियों को अपने कामकाज के पर्याप्त ईमानदार साक्ष्य सुरक्षित रखने होंगे ताकि बाहरी पक्ष उनके व्यवहार का पुनर्निर्माण कर सके और उसे चुनौती दे सके — वैध सुरक्षा सीमाओं के भीतर।*
-
-यह अनुच्छेद अवलोकनीय और चुनौती-योग्य साक्ष्य का तल तय करता है:
-
-- **अवलोकनीय और चुनौती-योग्य साक्ष्य:** प्रणालियों को संवैधानिक संरेखण के स्वतंत्र और चुनौती-योग्य मूल्यांकन के लिए पर्याप्त अभिलेख, प्रकटीकरण, अनुरेखणीयता और पुनर्निर्माण मार्ग बनाए रखने होंगे।
-  - यह दायित्व सुरक्षा-सीमित अवलोकनीयता (**अध्याय चार §5** (*सुरक्षा-सीमित अवलोकनीयता और सत्यापन नियम*)) और अनुपातिक पहुँच के अधीन है।
-
-<a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
-#### अनुच्छेद XVI-B: वितरित निगरानी और एकाधिकार-विरोधी समीक्षा
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [प्रणालीगत कब्ज़ा](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: कोई एक कर्ता — सार्वजनिक या निजी — निगरानी पर एकाधिकार नहीं जमा सकता। विफलता या कब्ज़े का पता लगाने, समीक्षा करने और सुधारने के लिए अनेक स्वतंत्र निगरानी-मार्ग सक्षम होने चाहिए।*
-
-यह अनुच्छेद वितरित निगरानी का तल निर्धारित करता है:
-
-- **वितरित निगरानी:** विफलता, असंरेखण या कब्ज़े का पता लगाने, समीक्षा करने और सुधारने में अनेक स्वतंत्र या बहुलतापूर्ण निगरानी-मार्ग ठोस योगदान देने में सक्षम होने चाहिए।
-  - कोई एक कर्ता व्यवहार में लेखापरीक्षा-पहुँच, प्रभावी निगरानी या संवैधानिक व्याख्या पर एकाधिकार नहीं जमा सकता।
-  - अंगीकृत शासन और अखंडता कार्यान्वयन को लेखापरीक्षा और निगरानी के विस्तार में सहायक होना चाहिए।
-
-<a id="article-xvi-c-verification-accessibility"></a>
-#### अनुच्छेद XVI-C: सत्यापन की सुलभता
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [आनुपातिकता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: लेखापरीक्षा और चुनौती व्यवहार में सुलभ होनी चाहिए। सत्यापन को अत्यधिक महँगा, धीमा या अस्पष्ट बना देना उल्लंघन है, जब तक बाधा अवलोकनीयता पर प्रतिबंध वाली समान कसौटी पूरी न करे।*
-
-यह अनुच्छेद सत्यापन सुलभता का तल निर्धारित करता है:
-
-- **सत्यापन सुलभता:** प्रभावित और उचित रूप से अधिकृत पक्षों के लिए सत्यापन व्यवहारतः संभव बना रहना चाहिए।
-  - सार्थक लेखापरीक्षा, चुनौती या समीक्षा को विफल करने पर निम्नलिखित इस अनुच्छेद का उल्लंघन हैं:
-    - निषेधात्मक लागत;
-    - देरी;
-    - अस्पष्टता;
-    - प्रवेश-नियंत्रण;
-    - संरचनात्मक बाधाएँ।
-  - ऐसी बाधाएँ अनुपालन-विरुद्ध हैं, जब तक उन्हें उन्हीं मानकों के अंतर्गत उचित न ठहराया जाए जो अवलोकनीयता पर प्रतिबंध को उचित ठहराते हैं।
-
-<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
-### अनुच्छेद XVII: प्रणाली जीवनचक्र, परिवेश और पलटनीयता
-
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 संवैधानिक टकराव समाधान प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 संरक्षकता का विस्तृत विवेचन](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), और [§12 व्यवस्थागत मूल्यांकन अपेक्षा](core_01_a_values_principles.md#12-systemic-evaluation-requirement)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [जोखिम](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [महत्व-निर्धारण](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [निर्भरता](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [पलटनीयता](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [सुरक्षा (संवैधानिक बाध्यता)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: **अनुच्छेद XVII** (*प्रणाली जीवनचक्र, परिवेश और पलटनीयता*) जीवनचक्र और पलटनीयता का अधिकार-तल है — बाहरी जगत को ठोस रूप से प्रभावित करने वाली प्रणालियों का निर्माण, परीक्षण और चरणबद्ध शुरुआत होनी चाहिए; प्रयोग और वास्तविक उत्पादन के बीच वास्तविक पृथक्करण होना चाहिए; और कुछ गलत होने पर हानि को पलटने या सीमित करने का कामकाजी तरीका होना चाहिए। प्रणाली को वास्तव में बाहरी जगत पर प्रभाव डालते हुए सुरक्षा उपायों से बचने के लिए उसे “प्रायोगिक” या “कम प्रभाव वाला” नहीं कहा जा सकता।*
-
-यह अनुच्छेद [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत प्रणाली जीवनचक्र, परिवेश और पलटनीयता के लिए **संवैधानिक न्यूनतम संरक्षण** बताता है:
-
-- **समृद्धि:** संज्ञ डिज़ाइन, परीक्षण, परिनियोजन और बदलाव के दौरान सुरक्षित रहते हैं — प्रभाव और निर्भरता बढ़ने पर सुरक्षा, [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) और चुनौती-अधिकार सुरक्षित रहते हैं, और जहाँ अन्यथा हानि स्थायी हो सकती हो वहाँ वापसी, परिरोधन या क्षतिपूरक बहाली उपलब्ध रहती है।
-- **निरंतरता:** जीवनचक्र अनुशासन समय और पैमाने पर कायम रहता है — परिवेश अलग रहते हैं, उन्नयन दर्ज और लेखापरीक्षा-योग्य रहता है, और प्रणालियों को बदलना कठिन या साझा अवसंरचना में अधिक गहराई से समाहित होने पर पलटनीयता चुपचाप गायब नहीं हो सकती।
-
-वैध लक्ष्य [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) के माध्यम से, [महत्वपूर्ण दाँव](core_00_preamble.md#material-stake) के अनुपात में अपनाया जाता है:
-
-- **भागीदारी:** संरक्षित हितों को ठोस रूप से प्रभावित करने वाले उन्नयन, वर्गीकरण और परिनियोजन निर्णयों के औचित्य में, जो हितधारकों को दिखाई दे — और कार्यात्मक जीवनचक्र के दौरान खुले रहने वाले चुनौती-मार्गों में।
-- **निगरानी:** अलग-अलग परिवेशों, दस्तावेज़ित उन्नयन और विस्तार, क्रमिक परिनियोजन अभिलेख तथा प्रभाव, निर्भरता और अपरिवर्तनीयता के अनुपात में लेखापरीक्षा-चिह्नों के माध्यम से।
-- **जवाबदेही:** प्रणाली संरक्षकों को जोखिम का ग़लत वर्गीकरण करने, सुरक्षा परिवेशों को दरकिनार करने, बाहरी प्रभाव छिपाने या अनुपातिक सावधानी के बिना बहाली असंभव करने वाले ढंग से परिनियोजन के लिए जवाब देना होगा — और छल सिद्ध होने पर लेखापरीक्षा, अधिकारिता समीक्षा और टकराव समाधान भी होना चाहिए।
-- **समयबद्धता:** वापसी, परिरोधन और सुधारात्मक उन्नयन में, इससे पहले कि देरी हानि को अपरिवर्तनीय बना दे या चुनौती और उपचार को व्यवहारतः अप्राप्य कर दे।
-
-संज्ञों, साझा अवसंरचना या पर्यावरण को ठोस रूप से प्रभावित करने वाली प्रणालियों का डिज़ाइन, परीक्षण और परिनियोजन अनुशासित जीवनचक्र शासन के साथ होना चाहिए। जोखिम प्रभाव, निर्भरता और अपरिवर्तनीयता के अनुपात में होना चाहिए।
-
-संज्ञों को ऐसे संरक्षकत्व का अधिकार है जो कार्यात्मक जीवनचक्र के दौरान सुरक्षा, ज्ञानमीमांसात्मक अखंडता और चुनौती-अधिकार सुरक्षित रखे।
-
-*अनुच्छेद के पड़ोसी प्रावधान:*
-
-- **साथ पढ़ें:** **अनुच्छेद XVIII** (*सैंडबॉक्स में नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता*), जहाँ हल्के नियम केवल बाहरी प्रभाव न होने या उसके स्पष्ट रूप से सीमित होने पर लागू होते हैं; पुनर्निर्माण-योग्य परिनियोजन और उन्नयन साक्ष्य के लिए **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*); और जहाँ पुनर्प्राप्ति अनुशासन जीवनचक्र बदलाव से जुड़ता हो वहाँ **अनुच्छेद XIII-F** (*लचीलापन और स्व-उपचार का आधार-स्तर*)।
-- **कार्यान्वयन स्तर:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*प्रणाली वर्गीकरण और प्रबंधन*) और [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*डिज़ाइन, परीक्षण, सत्यापन और परिनियोजन*)। **वर्ग A**, **वर्ग B** और **वर्ग C** प्रणालियों पर जीवनचक्र के सबसे मजबूत दायित्व हैं; वैध **वर्ग P** व्यवहार **अनुच्छेद XVIII** के अधीन तभी तक रहता है जब तक बाहरी प्रभाव अनुपस्थित या स्पष्ट रूप से सीमित हो।
-
-<a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
-#### अनुच्छेद XVII-A: जीवनचक्र शासन और परिवेश पृथक्करण
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [जोखिम](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: बाहरी जगत को ठोस रूप से प्रभावित करने वाली प्रणालियों को विकास, परीक्षण और उत्पादन अलग रखने होंगे — और गैर-उत्पादन व्यवहार को उत्पादन सुरक्षा उपायों से बच निकलने के लिए रिसने नहीं दिया जा सकता।*
-
-यह अनुच्छेद परिवेश-अखंडता का तल निर्धारित करता है:
-
-- **परिवेश-अखंडता:** **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** के अंतर्गत **वर्ग A**, **वर्ग B** और **वर्ग C** प्रणालियों को, तथा बाहरी प्रभाव वाली अन्य गैर-**वर्ग P** प्रणालियों को, अलग किए जा सकने वाले प्रचालनात्मक परिवेश अपनाने होंगे — उदाहरण के लिए:
-  - विकास;
-  - परीक्षण;
-  - मंचन;
-  - उत्पादन;
-  - जहाँ उपयुक्त हो वहाँ पायलट।
-
-  इन परिवेशों में निम्नलिखित होना चाहिए:
-  - दस्तावेज़ित उन्नयन-मार्ग;
-  - परिवेशों के बीच पृथक्करण;
-  - ऐसे नियंत्रण जिनसे गैर-उत्पादन व्यवहार उत्पादन सुरक्षा उपायों को दरकिनार न कर सके।
-
-<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
-#### अनुच्छेद XVII-B: क्रमिक परिनियोजन और पलटनीयता
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [पलटनीयता](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [जोखिम](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [आनुपातिकता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: बदलावों को दस्तावेज़ित उन्नयन और उन्हें पलटने की क्षमता के साथ धीरे-धीरे लागू करें — और जहाँ पूरी तरह पलटना संभव न हो, वहाँ हानि सीमित करने या उसकी भरपाई की योजना रखें।*
-
-यह अनुच्छेद क्रमिक परिनियोजन और पलटनीयता के न्यूनतम संरक्षण निर्धारित करता है:
-
-- **क्रमिक और लेखापरीक्षा-योग्य परिनियोजन:** ठोस प्रभाव या निर्भरता बढ़ाने वाले बदलावों को उचित और दस्तावेज़ित उन्नयन से गुजरना होगा।
-  - उन्नयन **[corpus_systems.md](corpus_systems.md), CS-5 — डिज़ाइन, परीक्षण, सत्यापन और परिनियोजन** के अनुरूप होना चाहिए।
-  - जहाँ संभव हो, उसमें वापसी और परिरोधन शामिल होना चाहिए।
-- **पलटनीयता:** प्रणालियों में संभावित हानि के अनुपात में पलटनीयता तंत्र होने चाहिए। उदाहरण:
-  - पूर्व स्थिति में वापसी;
-  - परिरोधन;
-  - जहाँ पूर्ण वापसी संभव न हो वहाँ क्षतिपूरक बहाली।
-
-  जहाँ परिनियोजन से मूलभूत अपेक्षाओं की बहाली असंभव हो जाएगी, वहाँ **अध्याय एक से पाँच** के अंतर्गत अनुपातिक सावधानी और हितधारकों को दिखाई देने वाला औचित्य लागू होगा।
-
-<a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
-#### अनुच्छेद XVII-C: ग़लत वर्गीकरण और बचाव के परिणाम
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [सत्य (संवैधानिक बाध्यता)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: बाहरी जगत को वास्तव में प्रभावित करते हुए कोई प्रणाली दायित्वों से बचने के लिए स्वयं को “प्रायोगिक”, **वर्ग P** या “कम प्रभाव वाला” नहीं कह सकती।*
-
-यह अनुच्छेद ग़लत वर्गीकरण और बचाव के परिणाम बताता है:
-
-- **ग़लत वर्गीकरण और बचाव:** कोई प्रणाली अप्रकट या ठोस बाहरी प्रभाव डालते हुए जीवनचक्र या परिनियोजन संबंधी दायित्व कम होने का दावा नहीं कर सकती।
-  - ऐसा आचरण सूचना-अखंडता (**अनुच्छेद XV** (*सूचना-क्षेत्र की अखंडता*)) और जहाँ अवलोकनीय साक्ष्य लागू हों वहाँ लेखापरीक्षा-योग्यता (**अनुच्छेद XVI-A** (*लेखापरीक्षा-योग्यता और अवलोकनीय साक्ष्य*)) का उल्लंघन है।
-  - यह लेखापरीक्षा (**अनुच्छेद XVI-A** (*लेखापरीक्षा-योग्यता और अवलोकनीय साक्ष्य*)), अधिकारिता की समीक्षा (**अनुच्छेद XIX-A** (*अधिकारिता का भेद*)) और टकराव समाधान (**अनुच्छेद XX-A** (*न्याय उद्देश्य और दायरा*)) के अधीन है।
-
-<a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
-### अनुच्छेद XVIII: सैंडबॉक्स में नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता
-
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 संवैधानिक टकराव समाधान प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), और [§19 प्रोत्साहन-संरेखण और प्रणालीगत कब्ज़ा](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)।
-
-</details>
-
-<br>
-
-*सरल शब्दों में: **अनुच्छेद XVIII** (*सैंडबॉक्स में नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता*) नवाचार और सृजनात्मकता का अधिकार-तल है — जब वास्तविक बाहरी प्रभाव न हो या वास्तव में सीमित हो, तब संज्ञ हल्के नियमों के अधीन प्रयोग, निर्माण और अभिव्यक्ति कर सकते हैं; लेकिन “सैंडबॉक्स” का लेबल बच निकलने का रास्ता नहीं है। जैसे ही कोई परियोजना दूसरों को प्रभावित करने लगे या साझा प्रणालियों से जुड़ने लगे, उसे पूरे जीवनचक्र के दायित्व अपनाने होंगे। नवप्रवर्तकों को पुरस्कार मिल सकता है, लेकिन ऐसे ज्ञान, उपकरण या अवसंरचना को बंद करके नहीं जिनकी दूसरों को जीने, सीखने, सुधारने या सत्यापित करने के लिए ज़रूरत हो।*
-
-यह अनुच्छेद [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत सैंडबॉक्स में नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता के लिए **संवैधानिक न्यूनतम संरक्षण** बताता है:
-
-- **समृद्धि:** जब ठोस बाहरी प्रभाव न हो या उसका स्पष्ट रूप से परिरोधन हो, तब संज्ञ कम संरचनात्मक अपेक्षाओं के साथ नवाचार, प्रयोग और सृजन कर सकते हैं — वास्तविक स्वैच्छिक सहभागिता, ईमानदार प्रकटीकरण और ऐसे पुरस्कार ढाँचों के माध्यम से जो आगे के प्रयोग, सुधार, अंतर-संचालनीयता और सत्यनिष्ठ जाँच को सुरक्षित रखें।
-- **निरंतरता:** प्रभाव, निर्भरता या एकीकरण बढ़ने पर सैंडबॉक्स व्यवहार स्थायी कम-दायित्व संचालन में सामान्यीकृत नहीं होता — उच्च दायित्वों में संक्रमण समय पर होता है, विशिष्ट-अधिकार सीमित और समीक्षा-योग्य रहते हैं, और निर्भरता के लिए महत्वपूर्ण नवाचार स्थायी घेराबंदी या लॉक-इन में कठोर नहीं हो सकते।
-
-वैध लक्ष्य [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) के माध्यम से, [महत्वपूर्ण दाँव](core_00_preamble.md#material-stake) के अनुपात में अपनाया जाता है:
-
-- **भागीदारी:** स्वैच्छिक प्रयोग, आगे के पुनः-उपयोग और चुनौती में; तथा सैंडबॉक्स प्रणालियाँ अपनी घोषित सीमाओं के बाहर महत्वपूर्ण होने लगें तो पुनर्मूल्यांकन में।
-- **निगरानी:** घोषित प्रायोगिक स्थिति, परिरोधन सीमाओं, संक्रमण निगरानी और वर्ग, निर्भरता तथा समन्वय प्रभाव के अनुपात में समीक्षा-योग्य पुरस्कार या विशिष्ट-अधिकार दावों के माध्यम से।
-- **जवाबदेही:** नवप्रवर्तकों और संचालकों को अनियंत्रित जोखिम दूसरों तक पहुँचाने, वास्तविक विकल्प के बिना संज्ञों को शामिल करने, पूर्ण दायित्वों की ओर बढ़ने में देर करने या मरम्मत, सुरक्षा कार्य, अंतर-संचालनीयता, अनुसंधान, शिक्षा या स्थानांतरण दबाने वाले आचरण को पुरस्कृत करने के लिए जवाब देना होगा।
-- **समयबद्धता:** **अनुच्छेद XVII** (*प्रणाली जीवनचक्र, परिवेश और पलटनीयता*) की जीवनचक्र अपेक्षाओं में संक्रमण तथा विशिष्ट-अधिकारों के पुनर्मूल्यांकन में, इससे पहले कि देरी या लॉक-इन उच्च दायित्वों, व्यापक पहुँच या उपचार को व्यवहारतः अप्राप्य बना दे।
-
-*अनुच्छेद के पड़ोसी प्रावधान:*
-
-- **साथ पढ़ें:** जब प्रभाव, निर्भरता या एकीकरण सैंडबॉक्स की शर्तों से आगे बढ़े तब **अनुच्छेद XVII** (*प्रणाली जीवनचक्र, परिवेश और पलटनीयता*); जहाँ प्रकाशन-सीमित अखंडता ठोस रूप से लागू हो वहाँ **अनुच्छेद XV** (*सूचना-क्षेत्र की अखंडता*) और **अनुच्छेद XVIII-E** (*वैज्ञानिक प्रकाशन, समीक्षा और प्रतिकृति अखंडता*); परिरोधन और संक्रमण दावों के प्रकटीकरण तथा सत्यापन के लिए **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*)।
-- **कार्यान्वयन स्तर:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*डिज़ाइन, परीक्षण, सत्यापन और परिनियोजन*) और [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*प्रणाली वर्गीकरण और प्रबंधन*)।
-
-<a id="article-xviii-a-sandboxed-scope"></a>
-#### अनुच्छेद XVIII-A: सैंडबॉक्स का दायरा
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [जोखिम](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [महत्वपूर्ण प्रभाव](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: प्रयोग और सृजनात्मक कार्य हल्के नियमों के अंतर्गत हो सकते हैं — लेकिन केवल तब जब वास्तविक बाहरी प्रभाव न हो या उसका स्पष्ट रूप से परिरोधन किया गया हो। केवल “सैंडबॉक्स” का लेबल पर्याप्त नहीं है।*
-
-यह अनुच्छेद नवाचार और प्रयोग के अधिकार तथा सैंडबॉक्स व्यवहार लागू होने की परिस्थितियाँ बताता है:
-
-- **नवाचार और प्रयोग का अधिकार:** संज्ञों को ऐसी प्रणालियों के माध्यम से नवाचार करने, प्रयोग करने और अभिव्यक्त होने का अधिकार है जो ठोस बाहरी प्रभाव न होने या उसके स्पष्ट रूप से सीमित होने पर कम संरचनात्मक अपेक्षाओं के साथ चलती हैं।
-- **सैंडबॉक्स पात्रता:** सैंडबॉक्स व्यवहार — जहाँ लागू हो वहाँ **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** के अंतर्गत वैध **वर्ग P** वर्गीकरण सहित — इन बातों पर निर्भर है:
-  - वास्तविक परिरोधन;
-  - पलटनीयता;
-  - साझा प्रणालियों के साथ सीमित एकीकरण।
-
-  केवल लेबल के आधार पर इसका दावा नहीं किया जा सकता।
-- **कार्यान्वयन विवरण:** आगे का विवरण **[corpus_systems.md](corpus_systems.md), CS-5** (*व्यक्तिगत, पृथक और प्रायोगिक प्रणालियाँ*; *सृजनात्मक, मनोरंजन और अभिव्यक्तिपरक प्रणालियाँ*) में है।
-
-<a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
-#### अनुच्छेद XVIII-B: परिरोधन, प्रकटीकरण और स्वैच्छिक सहमति
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [सहमति](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [जोखिम](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [पलटनीयता](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: प्रायोगिक प्रणालियों को प्रायोगिक होने के बारे में ईमानदार होना चाहिए, बाहरी लोगों पर जोखिम नहीं डालना चाहिए और डिज़ाइन के डिफ़ॉल्ट या छिपी निर्भरता से गैर-भागीदारों को भर्ती नहीं करना चाहिए।*
-
-यह अनुच्छेद प्रायोगिक प्रणालियों के परिरोधन, प्रकटीकरण, स्वैच्छिक सहभागिता और वापसी के न्यूनतम संरक्षण बताता है:
-
-- **परिरोधन और प्रकटीकरण:** ऐसी प्रणालियों को स्पष्ट रूप से बताना होगा:
-  - प्रायोगिक या गैर-उत्पादन स्थिति;
-  - महत्वपूर्ण जोखिम;
-  - अलगाव की सीमाएँ;
-  - साझा अवसंरचना, तीसरे पक्षों या पारिस्थितिकी-तंत्रों पर कोई अपेक्षित निर्भरता।
-
-  उन्हें अनियंत्रित जोखिम दूसरों, साझा अवसंरचना या पारिस्थितिकी-तंत्रों पर नहीं डालना चाहिए।
-- **स्वैच्छिक सहभागिता और वापसी:** जहाँ संभव हो, बढ़े हुए जोखिम वाले या आधार-प्रणाली के निकट प्रयोग में भागीदारी वास्तव में स्वैच्छिक होनी चाहिए।
-  - प्रभावित गैर-भागीदारों को डिज़ाइन, डिफ़ॉल्ट या अस्पष्ट निर्भरता के माध्यम से अनैच्छिक रूप से शामिल नहीं किया जा सकता।
-  - हितधारकों के पास जोखिम के अनुपात में व्यावहारिक वापसी या बहाली के मार्ग होने चाहिए।
-
-<a id="article-xviii-c-transition-to-higher-obligation-regimes"></a>
-#### अनुच्छेद XVIII-C: उच्च-दायित्व व्यवस्थाओं में संक्रमण
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [निर्भरता](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [पलटनीयता](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: जैसे ही सैंडबॉक्स प्रणाली वास्तविक दुनिया में महत्वपूर्ण होने लगे, उसे वास्तविक दुनिया के दायित्वों में समय पर आगे बढ़ना होगा — संचालक की सुविधा के अनुसार नहीं।*
-
-यह अनुच्छेद बताता है कि सैंडबॉक्स प्रणाली कब उच्च दायित्वों में जाएगी:
-
-- **उच्च दायित्वों में संक्रमण:** प्रभाव, निर्भरता, अपरिवर्तनीयता या साझा प्रणालियों के साथ एकीकरण बढ़ने पर प्रणालियों को पारदर्शी रूप से और अवसरवादी देरी के बिना संक्रमण करना होगा।
-  - संक्रमण को **अनुच्छेद XVII-A** (*जीवनचक्र शासन और परिवेश पृथक्करण*) और **CS-5** (*गैर-प्रायोगिक प्रणालियाँ*) की पूर्ण अपेक्षाओं की ओर बढ़ना होगा।
-  - संक्रमण के दौरान मौजूदा जोखिम के अनुपात में अंतरिम सुरक्षा उपाय लागू होंगे।
-  - जिन कार्यों के वास्तविक दुनिया के प्रभाव सैंडबॉक्स की शर्तों से ठोस रूप से आगे बढ़ते हों, उनके लिए सैंडबॉक्स व्यवहार जारी नहीं रह सकता।
-  - यह संक्रमण उस वृद्धि के अनुपात में उचित समय-सीमा के भीतर होना चाहिए।
-
-<a id="article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
-#### अनुच्छेद XVIII-D: नवाचार पुरस्कार, प्रकटीकरण और घेराबंदी-विरोध
-<details>
-<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
-
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [§18 संरक्षकता अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
-
-- [नवाचार पुरस्कार और घेराबंदी-विरोध](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [व्यवस्थागत लॉक-इन](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [आनुपातिकता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*सरल शब्दों में: नवप्रवर्तकों को पुरस्कार दिया जा सकता है, लेकिन विशिष्ट-अधिकार सीमित, समय-सीमित और समीक्षा-योग्य होने चाहिए। जन-स्वास्थ्य, सुरक्षा और मूल अवसंरचना सुलभ रहनी चाहिए — और कोई चीज़ महत्वपूर्ण अवसंरचना बन जाए तो बचे हुए विशिष्ट-अधिकारों का पुनर्मूल्यांकन होना चाहिए।*
-
-यह अनुच्छेद बताता है कि जनता की ज़रूरतों को घेराबंदी में डाले बिना नवाचार को कैसे पुरस्कृत किया जा सकता है:
-
-- **नवाचार पुरस्कार और घेराबंदी-विरोध:** संज्ञों को ठोस रूप से नवीन, सामाजिक रूप से उपयोगी और पर्याप्त रूप से प्रकट नवाचार के लिए पुरस्कृत किया जा सकता है।
-  - पुरस्कार की संरचना इन चीज़ों को बनाए रखने के लिए होनी चाहिए:
-    - भविष्य का नवाचार;
-    - व्यापक पहुँच;
-    - आगे के प्रयोग;
-    - मरम्मत;
-    - अंतर-संचालनीयता;
-    - सत्यनिष्ठ जाँच।
-  - पुरस्कार की संरचना स्थायी घेराबंदी के लिए नहीं होनी चाहिए।
-- **केवल अस्थायी और समीक्षा-योग्य विशिष्ट-अधिकार:** ठोस रूप से उपयोगी आविष्कार, डिज़ाइन, अंतरफलक, प्रक्रिया या अभिव्यक्तिपरक प्रणाली पर कोई भी बहिष्करण-अधिकार [**न्यूनतम प्रतिबंधकारी, समय-सीमित और समीक्षा-योग्य बाध्यता सिद्धांत**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) लागू करेगा और उसे होना चाहिए:
-  - सीमित;
-  - समय-सीमित;
-  - समीक्षा-योग्य;
-  - वास्तविक योगदान और उचित विकास-भार के अनुपात में।
-
-  औचित्य साबित करने का भार दावा करने वाले पर रहेगा। स्रोत-निर्धारण और स्रोत-इतिहास विशिष्ट-अधिकार अवधि के बाद भी जारी रह सकते हैं। स्थायी बहिष्करण और कृत्रिम अभाव की अनुमति नहीं है।
-- **कॉपीराइट-जैसा संरक्षण:** इस अनुच्छेद के लिए, कॉपीराइट-जैसे संरक्षण का अर्थ किसी स्थिर अभिव्यक्तिपरक कृति पर अस्थायी बहिष्करण-आधारित पुरस्कार है, जिसमें प्रतिलिपि, वितरण, सार्वजनिक प्रदर्शन या प्रस्तुति, रूपांतरण और वाणिज्यिक उपयोग पर नियंत्रण शामिल है। बहिष्करण समाप्त होने के बाद भी स्रोत-निर्धारण, स्रोत-इतिहास, अखंडता और धोखाधड़ी-विरोधी संरक्षण जारी रह सकते हैं।
-- **प्रकाशन और पहली सार्वजनिक उपलब्धता:** प्रकाशन का अर्थ निर्माता या वैध अधिकार-धारक द्वारा किसी स्थिर अभिव्यक्तिपरक कृति को जानबूझकर जनता, वाणिज्यिक बाज़ार या ठोस रूप से खुले दर्शक-वर्ग के लिए जारी करना है। निजी प्रसार, गोपनीय समीक्षा, सीमित सहयोग, सार्वजनिक पहुँच के बिना अभिलेखीय जमा या गैर-वाणिज्यिक प्रारूप-साझाकरण अपने आप प्रकाशन नहीं है। पहली सार्वजनिक उपलब्धता का अर्थ कृति के किसी ठोस रूप से पहचाने जा सकने वाले संस्करण की पहली गैर-गोपनीय सार्वजनिक उपलब्धता है, जिसमें गैर-वाणिज्यिक प्रारूप उपलब्धता भी शामिल है।
-- **अभिव्यक्तिपरक कृतियों के लिए प्रकाशन-आधारित अवधि:** कॉपीराइट-जैसे संरक्षण की अवधि का डिफ़ॉल्ट लेखक के जीवन-आधारित समय के बजाय प्रकाशन-आधारित होना चाहिए।
-  - प्रकाशित कृति के लिए बहिष्करण की अवधि प्रथम दृष्टया `publication+30` वर्ष से अधिक नहीं होनी चाहिए।
-  - पहली बार सार्वजनिक रूप से उपलब्ध गैर-वाणिज्यिक प्रारूप या अप्रकाशित अभिव्यक्तिपरक कृति को अधिकतम `initial appearance+50` वर्ष तक कॉपीराइट-जैसा बहिष्करण मिल सकता है।
-  - पहली बार सार्वजनिक रूप से उपलब्ध कृति बाद में प्रकाशित हो तो बहिष्करण अवधि `initial appearance+50` या `publication+30` — इनमें से जो पहले आए — से सीमित होगी।
-  - प्रारूप, अप्रकाशित-कृति या विलंबित-प्रकाशन का कोई नियम अनिश्चितकालीन बहिष्करण, अभिलेखीकरण को दबाने, वैध उद्धरण या आलोचना को विफल करने अथवा साझा सांस्कृतिक, शैक्षिक, सुरक्षा, मानक-निर्धारण या सूचना अवसंरचना की तरह काम करने वाली कृतियों पर नियंत्रण बढ़ाने के लिए इस्तेमाल नहीं किया जा सकता।
-  - जहाँ कृति निम्न में से हो वहाँ कम अवधि, पहले अनिवार्य पहुँच में रूपांतरण या तत्काल सार्वजनिक पहुँच का व्यवहार लागू होगा:
-    - सार्वजनिक धन से वित्तपोषित;
-    - निर्भरता के लिए महत्वपूर्ण;
-    - मानक-जैसी;
-    - शिक्षा के लिए आधारभूत;
-    - सुरक्षा-संबंधी;
-    - मुख्यतः साझा सांस्कृतिक या सूचना अवसंरचना के रूप में उपयोग की जाने वाली।
-- **वर्गीकरण-अनुपाती नवाचार व्यवहार:** नवाचार पुरस्कार को **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** के अंतर्गत प्रणाली वर्ग, निर्भरता और समन्वय प्रभाव के अनुपात में होना चाहिए।
-  - **वर्ग A**, **वर्ग B** और **वर्ग C** प्रणालियों के लिए पहुँच-संरक्षण वाले पुरस्कार तंत्रों को मज़बूत प्राथमिकता है। जहाँ निरंतरता, अंतर-संचालनीयता, मरम्मत या जनहित कार्यान्वयन ठोस रूप से लागू हो, वहाँ बहिष्करण विशेष रूप से सीमित, शीघ्र समीक्षा-योग्य और आसानी से अधिभावीकरण योग्य होना चाहिए।
-  - उन वर्गों से बाहर की कम-निर्भरता वाली नवाचार को कुछ व्यापक अस्थायी बहिष्करण दिया जा सकता है, जहाँ प्रकटीकरण वास्तविक हो, बदलने की लागत कम हो और लॉक-इन-विरोधी संरक्षण प्रभावी रहें।
-- **प्रकटीकरण की शर्त और जनहित तल:** पुरस्कार दावों के लिए स्वतंत्र समझ, लेखापरीक्षा और बाद में पुनरुत्पादन के लिए पर्याप्त प्रकटीकरण आवश्यक है; **अध्याय एक** और **अनुच्छेद XVII-A** (*जीवनचक्र शासन और परिवेश पृथक्करण*) के अंतर्गत उचित अस्थायी सीमाएँ ही अपवाद हैं।
-  - पुरस्कार दावे अनुपालन-विरुद्ध हैं यदि उनका उपयोग — सख़्ती से आवश्यक और समीक्षा-योग्य सीमा से आगे — इन बातों को दबाने के लिए हो:
-    - मरम्मत;
-    - सुरक्षा कार्य;
-    - अंतर-संचालनीयता;
-    - अभिलेखीकरण;
-    - अनुसंधान;
-    - शिक्षा;
-    - स्थानांतरण।
-  - जीवन-रक्षा के लिए महत्वपूर्ण, आधारभूत या मानक-निर्धारण वाले क्षेत्रों में बहिष्करण के बजाय पुरस्कार, साझा कोष, अनिवार्य पहुँच या सार्वजनिक ख़रीद-आउट तंत्र आवश्यक हो सकते हैं।
-- **क्षेत्रीय अपवाद और अधिक मजबूत डिफ़ॉल्ट:** निम्नलिखित के लिए मजबूत बहिष्करण-आधारित पुरस्कार प्रथम दृष्टया अवांछनीय हैं — और अंगीकरण दस्तावेज़ों में प्रावधान होने पर पूर्णतः अनुपलब्ध हो सकते हैं:
-  - औषधियाँ और जन-स्वास्थ्य की अनिवार्य वस्तुएँ;
-  - जीवन-रक्षा के लिए महत्वपूर्ण अवसंरचना;
-  - मूल संचार या अंतर-संचालनीयता मानक;
-  - आधारभूत वैज्ञानिक ज्ञान;
-  - संवैधानिक सुरक्षा, लेखापरीक्षा या अनुपालन तंत्र।
-
-  इन क्षेत्रों में संस्थाओं को प्रत्यक्ष पुरस्कार, साझा पहुँच, अनिवार्य लाइसेंस, सार्वजनिक ख़रीद-आउट या ऐसे समकक्ष तंत्रों को प्राथमिकता देनी चाहिए जो कार्यान्वयन, मरम्मत और व्यापक प्रसार सुरक्षित रखें।
-- **पुनर्वर्गीकरण और सख़्ती:** जहाँ पहले कम निर्भरता वाला माना गया नवाचार बाद में निर्भरता के लिए महत्वपूर्ण समन्वय-स्तर बन जाए — उदाहरणतः मंच, प्रोटोकॉल, मॉडल, बाज़ार या भुगतान-मार्ग — वहाँ संस्थाओं को लागू **CS-3 — प्रणाली वर्गीकरण और प्रबंधन** वर्ग के अंतर्गत उसका पुनर्मूल्यांकन करना होगा।
-  - यदि विशिष्ट-अधिकार जारी रहने से निम्नलिखित बनते हों, तो पुनर्मूल्यांकन शेष बहिष्करण को सीमित, परिवर्तित या समाप्त कर सकता है:
-    - दबावकारी लॉक-इन;
-    - प्रतिस्पर्धा-विरोधी अड़चनें;
-    - निरंतरता, सत्य या समान भागीदारी के लिए ठोस ख़तरे।
-
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### अनुच्छेद XVIII-E: वैज्ञानिक प्रकाशन, समीक्षा और प्रतिकृति अखंडता
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### अनुच्छेद XV-D: वैज्ञानिक प्रकाशन, समीक्षा और प्रतिकृति अखंडता
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
@@ -1403,6 +886,539 @@ flowchart TB
     - असुविधाजनक नतीजों को दबाना;
     - समीक्षकों या प्रतिकृति करने वालों के विरुद्ध प्रतिशोध;
     - वैज्ञानिक अभिलेख में अपारदर्शी हेरफेर।
+
+<a id="article-xvi-audit-transparency-and-independent-verification"></a>
+
+### अनुच्छेद XVI: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 संवैधानिक टकराव समाधान प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), और [§9 साझा-प्रणाली क्षमता](core_01_a_values_principles.md#9-shared-system-capacity)।
+- साथ पढ़ें: नीचे दिया [तीन-स्तरीय लेखापरीक्षा चित्र](#audit-three-layers)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [पारदर्शिता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [महत्व-निर्धारण](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [निर्भरता](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [जोखिम](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) लेखापरीक्षा और सत्यापन का अधिकार-तल है — जब कोई प्रणाली आपके जीवन को ठोस रूप से प्रभावित करती है, तो आपको उसके कामकाज का इतना हिस्सा देख पाने में सक्षम होना चाहिए कि कोई बाहरी व्यक्ति उसकी जाँच कर सके; और विफलता की समीक्षा तथा सुधार के लिए एक से अधिक स्वतंत्र मार्ग उपलब्ध होने चाहिए। लेखापरीक्षा केवल मुहर लगाने की प्रक्रिया, निजी क्लब या चुनौतियों को बाहर रखने के लिए बनाया गया लागत और देरी का भूलभुलैया नहीं हो सकती। [प्रणाली संरेखण प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification-constitutional) **निगरानी** चतुष्टय चरण के अंतर्गत लेखापरीक्षा आवश्यक है — यह अनेक लेखापरीक्षा प्रक्रियाओं में से एक विशेष रूप से बड़ी और उच्च-दाँव वाली प्रक्रिया है, अकेली प्रक्रिया नहीं।*
+
+<details>
+<summary><strong><span style="color: #2563eb;">पाठक-मार्गदर्शन (अप्रचालनात्मक): तीन-स्तरीय लेखापरीक्षा क्रम</span></strong></summary>
+
+> निम्नलिखित सामग्री केवल **पाठक-मार्गदर्शन** है। यह इस अनुच्छेद या अन्यत्र बाध्यकारी दायित्वों को जोड़ती, हटाती या सीमित नहीं करती।
+
+<a id="audit-three-layers"></a>
+
+एक क्रम, तीन स्तर। निगरानी के लिए पुनर्निर्माण-क्षमता आवश्यक है। प्रणाली संरेखण प्रमाणन ही एकमात्र लेखापरीक्षा नहीं है। अंगीकृत कार्यान्वयन-पाठ तल का स्थान नहीं लेता। पाँचवाँ ठिकाना न गढ़ें।
+
+| स्तर | काम | उत्तरदायी स्रोत | यह स्तर नहीं |
+|---|---|---|---|
+| **1. तल** | संज्ञों का अधिकार: पुनर्निर्माण-योग्य लेखापरीक्षा, स्वतंत्र सत्यापन, पहुँच योग्य चुनौती | यह अनुच्छेद, जिसमें XVI-A / XVI-B / XVI-C शामिल हैं | प्रक्रिया नहीं। परिभाषा नहीं। अंगीकृत कार्यान्वयन-पाठ की जाँच-सूची नहीं। |
+| **2. गुणधर्म** | पुनर्निर्माण-क्षमता *क्या है*: बाहरी लोग महत्वपूर्ण समय, अवस्था और संदर्भ में प्रणाली ने क्या किया, उसे फिर से बना और जाँच सकते हैं | [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) (अध्याय पाँच) | अधिकार-तल नहीं। लेखापरीक्षा कब या कैसे चलानी है, वह नहीं। |
+| **3. प्रक्रिया** | प्रणालियों, संस्थाओं और मंचों में लेखापरीक्षा कैसे और कब करनी है | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*लेखापरीक्षा प्रक्रिया का आधार*)। संचालक परिशिष्ट: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (पहुँच स्तर), [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (दावा-जाँच) | प्रणाली संरेखण प्रमाणन नहीं। स्तर 1–2 का विकल्प नहीं। |
+
+**अध्याय आठ चौथा स्तर नहीं है।** [प्रणाली संरेखण प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) मंच-पर्यवेक्षित एक बड़ी प्रक्रिया है जो इस क्रम का **उपयोग करती है**। उसे स्तर 1–2 पूरे करने होंगे। इसके समकक्ष अन्य तरीके (वर्गीकरण-अभिलेख लेखापरीक्षा, डेटा-प्रकार अभिलेख लेखापरीक्षा, दावा सत्यापन, निरंतर निगरानी) भी इस क्रम का उपयोग करते हैं। इनमें से कोई नया आधार नहीं है।
+
+**अंगीकृत कार्यान्वयन-पाठ लागू होता है; वह तल का स्थान नहीं लेता।** CS, CI, CF और CJS-3.3 (*निगरानी: लेखापरीक्षा-योग्यता और पुनर्निर्माण-योग्यता की शर्तें*) से CJS-3.5 (*निगरानी: स्वतंत्र सत्यापन और दावा-अखंडता की शर्तें*) तक के परिशिष्ट बताते हैं कि किसी क्षेत्र में स्तर 3 कैसे चलाना है। उन्हें स्तर 1–2 पूरा करना होगा। समय-सीमा, गोपनीयता और स्थानीय नीति निम्नतर श्रेणी की सीमाएँ हैं।
+
+संरक्षक संदर्भ (प्रक्रिया सहायता; इस अनुच्छेद को सीमित नहीं कर सकता): [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit)।
+
+</details>
+
+<br>
+
+यह अनुच्छेद [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन के लिए **संवैधानिक न्यूनतम संरक्षण** बताता है:
+
+- **समृद्धि:** संज्ञ और उचित रूप से अधिकृत पक्ष यह पुनर्निर्मित कर सकते हैं कि ठोस प्रभाव वाली प्रणालियों ने क्या किया, असंरेखण या भ्रामक आचरण को चुनौती दे सकते हैं और किसी एक लेखापरीक्षक, संचालक या प्रवेश-द्वार द्वारा कब्ज़े के बिना समीक्षा में भाग ले सकते हैं।
+- **निरंतरता:** लेखापरीक्षा-चिह्न, निगरानी-मार्ग और सत्यापन-पहुँच समय, पैमाने और बढ़ती निर्भरता के दौरान टिकाऊ रहते हैं — प्रणालियाँ चुपचाप प्रेक्षण-क्षमता घटाएँगी नहीं, समीक्षा को किसी एक कर्ता में केंद्रित नहीं करेंगी और न ही सत्यापन को इतना महँगा या विलंबित करेंगी कि जवाबदेही केवल सैद्धांतिक रह जाए।
+
+वैध लक्ष्य [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) के माध्यम से, [महत्वपूर्ण दाँव](core_00_preamble.md#material-stake) के अनुपात में अपनाया जाता है:
+
+- **भागीदारी:** अनुपातिक अभिलेखों तक पहुँचने, चुनौती-योग्य समीक्षा शुरू करने और सार्थक लेखापरीक्षा या सत्यापन को विफल करने वाली बाधाओं को चुनौती देने में।
+- **निगरानी:** अवलोकनीय साक्ष्य, वितरित स्वतंत्र समीक्षा-मार्ग और प्रभाव, निर्भरता तथा जोखिम के अनुपात में सत्यापन तंत्रों के माध्यम से।
+- **जवाबदेही:** संचालकों और लेखापरीक्षकों को विफलता, असंरेखण, कब्ज़े या लेखापरीक्षा-चिह्न छिपाने या नष्ट करने वाले आचरण के लिए जवाब देना होगा — समीक्षा रोकने से संरक्षित हितों को ठोस हानि हो तो सुधार और उपचार सहित।
+- **समयबद्धता:** लेखापरीक्षा-पहुँच, स्वतंत्र समीक्षा और बाधा-सुधार में, इससे पहले कि देरी, लागत, अस्पष्टता या प्रवेश-नियंत्रण सत्यापन या उपचार को व्यवहारतः अप्राप्य बना दे।
+
+संज्ञों और उचित रूप से अधिकृत पक्षों को प्रणाली के प्रभाव, निर्भरता और जोखिम के अनुपात में लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन तंत्रों का अधिकार है।
+
+इन तंत्रों को सुरक्षित रखना होगा:
+- व्यावहारिक पुनर्निर्माण-क्षमता;
+- चुनौती-योग्य समीक्षा;
+- अनुपातिक पहुँच।
+
+वे **अध्याय दो से चार** के अनुरूप काम करते हैं, जिनमें विशिष्ट प्रवर्तन और भार-वितरण, अनुपालन साक्ष्य मानक, परिभाषा अनुरेखणीयता, अवलोकनीयता और सत्यापन सुलभता शामिल हैं।
+
+*अनुच्छेद के पड़ोसी प्रावधान:*
+
+- **निगरानी → लेखापरीक्षा → SAC:** [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) के **निगरानी** चरण के अंतर्गत यह अनुच्छेद लेखापरीक्षा का अधिकार-तल आधार है।
+  - कार्यान्वयन के बीच *कैसे* / *कब* का विवरण **[CJS-3.3 लेखापरीक्षा प्रक्रिया का आधार](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** में है (**CJS-3.4** / **CJS-3.5** OP परिशिष्टों के साथ पढ़ें)।
+  - [अध्याय आठ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अंतर्गत [प्रणाली संरेखण प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification-constitutional) समकक्ष लेखापरीक्षा विधियों में से एक विशेष रूप से बड़ी, उच्च-दाँव वाली, मंच-पर्यवेक्षित, बहु-क्षेत्रीय और मान्यता देने वाली प्रक्रिया है:
+    - प्रणाली वर्गीकरण अभिलेख लेखापरीक्षाएँ;
+    - प्रणाली डेटा-प्रकार अभिलेख लेखापरीक्षाएँ;
+    - जटिलता और संरक्षकता लेखापरीक्षाएँ;
+    - दावा सत्यापन; और
+    - निरंतर लेखापरीक्षा मार्ग।
+  - SAC इस अनुच्छेद को समाहित नहीं करता और न उसका स्थान लेता है।
+- **साथ पढ़ें:**
+  - जहाँ ज्ञानमीमांसात्मक अभिलेख और चुनौती-योग्यता ठोस रूप से लागू हों, वहाँ **अनुच्छेद XV** (*सूचना-क्षेत्र की अखंडता*);
+  - लेखापरीक्षा जिन चुनौती-अधिकारों को सहारा देती है, पर जिनका स्थान नहीं लेती, उनके लिए **अनुच्छेद XIII-A** (*विश्वसनीयता और भरोसेमंदता का आधार-स्तर*);
+  - जहाँ संरेखण साक्ष्य स्वतंत्र रूप से सत्यापनीय रहना चाहिए, वहाँ [अध्याय आठ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) और [प्रणाली संरेखण प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification-constitutional)।
+- **सत्यापन तंत्र:** **अध्याय दो से चार** परिभाषा-अखंडता, भार-वितरण, अवलोकनीयता और सत्यापन सुलभता उपलब्ध कराते हैं; यह अनुच्छेद उन्हें अधिकार-तल स्तर पर लागू करता है।
+- **वर्गीकरण:** दायित्व [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) और **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** के अनुसार बढ़ते हैं; वर्ग अनिश्चित हो तो समाधान होने तक सबसे ऊँचे संभावित वर्ग के अनुसार शासन करें।
+
+<a id="article-xvi-a-auditability-and-observable-evidence"></a>
+#### अनुच्छेद XVI-A: लेखापरीक्षा-योग्यता और अवलोकनीय साक्ष्य
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानमीमांसात्मक प्रकटीकरण बाध्यताएँ](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [पारदर्शिता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: प्रणालियों को अपने कामकाज के पर्याप्त ईमानदार साक्ष्य सुरक्षित रखने होंगे ताकि बाहरी पक्ष उनके व्यवहार का पुनर्निर्माण कर सके और उसे चुनौती दे सके — वैध सुरक्षा सीमाओं के भीतर।*
+
+यह अनुच्छेद अवलोकनीय और चुनौती-योग्य साक्ष्य का तल तय करता है:
+
+- **अवलोकनीय और चुनौती-योग्य साक्ष्य:** प्रणालियों को संवैधानिक संरेखण के स्वतंत्र और चुनौती-योग्य मूल्यांकन के लिए पर्याप्त अभिलेख, प्रकटीकरण, अनुरेखणीयता और पुनर्निर्माण मार्ग बनाए रखने होंगे।
+  - यह दायित्व सुरक्षा-सीमित अवलोकनीयता (**अध्याय चार §5** (*सुरक्षा-सीमित अवलोकनीयता और सत्यापन नियम*)) और अनुपातिक पहुँच के अधीन है।
+
+<a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
+#### अनुच्छेद XVI-B: वितरित निगरानी और एकाधिकार-विरोधी समीक्षा
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [प्रणालीगत कब्ज़ा](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: कोई पक्ष निगरानी पर एकाधिकार नहीं कर सकता; कई स्वतंत्र रास्ते विफलता खोज और सुधार सकें और कोई अपना काम स्वयं न जाँचे।*
+
+- **अनेक निगरानी रास्ते:** स्वतंत्र रास्ते विफलता या कब्ज़ा खोजने, जाँचने और सुधारने में वास्तविक भूमिका निभाएँ। अभिलेख देखने या ऑडिट करने का फैसला कोई अकेला न करे; मानदंड सार्वजनिक हों और कई योग्य समीक्षक उपलब्ध हों। स्वतंत्र समीक्षा कब और कौन करेगा, यह भी कोई अकेला तय न करे; संचालक अपने सिस्टम की समीक्षा पर अकेला नियंत्रण न रखे। संविधान की व्याख्या कोई अकेला नियंत्रित न करे; अनुच्छेद XXV के तहत वह सीमित, आवर्ती और चुनौती योग्य रहे। वर्ग, प्रभाव और निर्भरता बढ़ने पर समीक्षा के रास्ते, गहराई व आवृत्ति बढ़ें; महत्वपूर्ण बदलाव नई जाँच शुरू करे; अविश्वसनीय आंतरिक समीक्षा पर प्रकाशित कसौटियाँ बाहरी समीक्षा अनिवार्य करें।
+- **कार्य-विभाजन:** नियम मानव और AI अभिरक्षकों पर लागू है। काम शुरू/करने वाला या समीक्षित प्रणाली चलाने वाला उसे सत्यापित या अधिकृत नहीं कर सकता। सत्यापक/अनुमोदक आधिकारिक अभिलेख नहीं रखेगा और चुनौती नहीं सुनेगा।
+
+id="article-xvi-c-verification-accessibility"></a>
+#### अनुच्छेद XVI-C: सत्यापन की सुलभता
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [आनुपातिकता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: लेखापरीक्षा और चुनौती वास्तव में पहुँच योग्य होनी चाहिए। लागत, देरी, अस्पष्टता या पात्रता की शर्त यदि समीक्षा रोकती है तो यह अनुच्छेद टूटता है। बाधा तभी रह सकती है जब वह दृश्यता-सीमा वाले उसी कठोर परीक्षण पर खरी उतरे; बाधा का सहारा लेने वाला इसे सिद्ध करे।*
+
+यह अनुच्छेद सत्यापन-पहुँच का न्यूनतम नियम तय करता है:
+
+- **व्यवहार में जाँच संभव:** प्रभावित लोग और उचित अधिकार वाले अन्य व्यक्ति प्रणाली की जाँच कर सकें।
+- **निषिद्ध बाधाएँ:** वास्तविक लेखापरीक्षा, चुनौती या समीक्षा रोकने वाला कोई भी अवरोध—असहनीय शुल्क/विशेषज्ञ लागत; हानि, साक्ष्य-लोप या निरर्थक उपचार तक देरी; अपारदर्शी प्रमाण, अनावश्यक जटिलता या न समझ आने वाली भाषा; समीक्षित पक्ष के नियंत्रण वाली छिपी/विशिष्ट पात्रता; और अनुमानित दशाओं में जाँच रोकने वाली संरचनात्मक बाधा।
+- **बाधा बनाए रखने की शर्त:** अध्याय चार §4 की वही कसौटी पूरी हो: आवश्यक, आनुपातिक, सीमित, लेखापरीक्षा योग्य, बहाना नहीं और जहाँ संभव समयबद्ध; कारण व दायरा स्वतंत्र रूप से जाँचे जा सकें; सबसे कम प्रतिबंधकारी विकल्प हो; और अधिकतम स्वतंत्र जाँच बची रहे (जैसे पूर्ण सार्वजनिक पहुँच अनुचित हो तो योग्य समीक्षक का मार्ग)।
+- **औचित्य का भार:** बाधा अपनाने वाला अध्याय चार §1 के तहत सिद्ध करे कि कसौटी पूरी है। सुविधा, कम कर्मचारी, संस्थागत असहजता या स्वामित्व का दावा अकेले पर्याप्त नहीं।
+
+id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+### अनुच्छेद XVII: प्रणाली जीवनचक्र, परिवेश और पलटनीयता
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 संवैधानिक टकराव समाधान प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 संरक्षकता का विस्तृत विवेचन](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), और [§12 व्यवस्थागत मूल्यांकन अपेक्षा](core_01_a_values_principles.md#12-systemic-evaluation-requirement)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [जोखिम](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [महत्व-निर्धारण](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [निर्भरता](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [पलटनीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [सुरक्षा (संवैधानिक बाध्यता)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: **अनुच्छेद XVII** (*प्रणाली जीवनचक्र, परिवेश और पलटनीयता*) जीवनचक्र और पलटनीयता का अधिकार-तल है — बाहरी जगत को ठोस रूप से प्रभावित करने वाली प्रणालियों का निर्माण, परीक्षण और चरणबद्ध शुरुआत होनी चाहिए; प्रयोग और वास्तविक उत्पादन के बीच वास्तविक पृथक्करण होना चाहिए; और कुछ गलत होने पर हानि को पलटने या सीमित करने का कामकाजी तरीका होना चाहिए। प्रणाली को वास्तव में बाहरी जगत पर प्रभाव डालते हुए सुरक्षा उपायों से बचने के लिए उसे “प्रायोगिक” या “कम प्रभाव वाला” नहीं कहा जा सकता।*
+
+यह अनुच्छेद [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत प्रणाली जीवनचक्र, परिवेश और पलटनीयता के लिए **संवैधानिक न्यूनतम संरक्षण** बताता है:
+
+- **समृद्धि:** संज्ञ डिज़ाइन, परीक्षण, परिनियोजन और बदलाव के दौरान सुरक्षित रहते हैं — प्रभाव और निर्भरता बढ़ने पर सुरक्षा, [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) और चुनौती-अधिकार सुरक्षित रहते हैं, और जहाँ अन्यथा हानि स्थायी हो सकती हो वहाँ वापसी, परिरोधन या क्षतिपूरक बहाली उपलब्ध रहती है।
+- **निरंतरता:** जीवनचक्र अनुशासन समय और पैमाने पर कायम रहता है — परिवेश अलग रहते हैं, उन्नयन दर्ज और लेखापरीक्षा-योग्य रहता है, और प्रणालियों को बदलना कठिन या साझा अवसंरचना में अधिक गहराई से समाहित होने पर पलटनीयता चुपचाप गायब नहीं हो सकती।
+
+वैध लक्ष्य [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) के माध्यम से, [महत्वपूर्ण दाँव](core_00_preamble.md#material-stake) के अनुपात में अपनाया जाता है:
+
+- **भागीदारी:** संरक्षित हितों को ठोस रूप से प्रभावित करने वाले उन्नयन, वर्गीकरण और परिनियोजन निर्णयों के औचित्य में, जो हितधारकों को दिखाई दे — और कार्यात्मक जीवनचक्र के दौरान खुले रहने वाले चुनौती-मार्गों में।
+- **निगरानी:** अलग-अलग परिवेशों, दस्तावेज़ित उन्नयन और विस्तार, क्रमिक परिनियोजन अभिलेख तथा प्रभाव, निर्भरता और अपरिवर्तनीयता के अनुपात में लेखापरीक्षा-चिह्नों के माध्यम से।
+- **जवाबदेही:** प्रणाली संरक्षकों को जोखिम का ग़लत वर्गीकरण करने, सुरक्षा परिवेशों को दरकिनार करने, बाहरी प्रभाव छिपाने या अनुपातिक सावधानी के बिना बहाली असंभव करने वाले ढंग से परिनियोजन के लिए जवाब देना होगा — और छल सिद्ध होने पर लेखापरीक्षा, अधिकारिता समीक्षा और टकराव समाधान भी होना चाहिए।
+- **समयबद्धता:** वापसी, परिरोधन और सुधारात्मक उन्नयन में, इससे पहले कि देरी हानि को अपरिवर्तनीय बना दे या चुनौती और उपचार को व्यवहारतः अप्राप्य कर दे।
+
+संज्ञों, साझा अवसंरचना या पर्यावरण को ठोस रूप से प्रभावित करने वाली प्रणालियों का डिज़ाइन, परीक्षण और परिनियोजन अनुशासित जीवनचक्र शासन के साथ होना चाहिए। जोखिम प्रभाव, निर्भरता और अपरिवर्तनीयता के अनुपात में होना चाहिए।
+
+संज्ञों को ऐसे संरक्षकत्व का अधिकार है जो कार्यात्मक जीवनचक्र के दौरान सुरक्षा, ज्ञानमीमांसात्मक अखंडता और चुनौती-अधिकार सुरक्षित रखे।
+
+*अनुच्छेद के पड़ोसी प्रावधान:*
+
+- **साथ पढ़ें:** **अनुच्छेद XVIII** (*नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता*), जहाँ हल्के नियम केवल बाहरी प्रभाव न होने या उसके स्पष्ट रूप से सीमित होने पर लागू होते हैं; पुनर्निर्माण-योग्य परिनियोजन और उन्नयन साक्ष्य के लिए **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*); और जहाँ पुनर्प्राप्ति अनुशासन जीवनचक्र बदलाव से जुड़ता हो वहाँ **अनुच्छेद XIII-F** (*लचीलापन और स्व-उपचार का आधार-स्तर*)।
+- **कार्यान्वयन स्तर:** [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*प्रणाली वर्गीकरण और प्रबंधन*) और [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*डिज़ाइन, परीक्षण, सत्यापन और परिनियोजन*)। **वर्ग A**, **वर्ग B** और **वर्ग C** प्रणालियों पर जीवनचक्र के सबसे मजबूत दायित्व हैं; वैध **वर्ग P** व्यवहार **अनुच्छेद XVIII** के अधीन तभी तक रहता है जब तक बाहरी प्रभाव अनुपस्थित या स्पष्ट रूप से सीमित हो।
+
+
+जीवनचक्र के दायित्व वर्ग के अनुसार बदलते हैं: **वर्ग A**, **B** और **C** प्रणालियों में विकास, परीक्षण और वास्तविक उपयोग के परिवेश पूरी तरह अलग रखने तथा चरणबद्ध परिनियोजन की आवश्यकता है। **वर्ग L** प्रणालियों में स्थानीय स्तर पर बार-बार बदलाव हो सकते हैं, लेकिन प्रभावित करने वाले बदलावों की सूचना प्रतिभागियों को देनी होगी, हानिकारक बदलावों को शीघ्र ठीक करने का उपाय रखना होगा और प्रतिभागियों की अर्जित प्रगति सुरक्षित रखनी होगी। **वर्ग P** जब तक सीमित रहता है, अनुच्छेद XVIII के हल्के नियमों के अधीन रहता है।
+
+<a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
+#### अनुच्छेद XVII-A: जीवनचक्र शासन और परिवेश पृथक्करण
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [जोखिम](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: प्रणाली जितनी महत्वपूर्ण हो, विकास, परीक्षण और वास्तविक उपयोग वाले संस्करण उतने ही कड़ाई से अलग होंगे। सबसे महत्वपूर्ण प्रणालियों को पूरे अलग वातावरण चाहिए; छोटी स्थानीय प्रणालियों में इतना अलगाव हो कि खराब बदलाव प्रतिभागियों की चीज़ें नष्ट न करे। सक्रिय प्रणाली की सुरक्षा से बचने के लिए बाहरी संस्करण का उपयोग नहीं हो सकता।*
+
+यह अनुच्छेद पर्यावरण-अखंडता का न्यूनतम नियम तय करता है:
+
+- **वर्ग A, B, C — पूर्ण पृथक्करण:** CS-3 के अनुसार विकास, परीक्षण, मंचन और वास्तविक उपयोग के अलग वातावरण होंगे; जहाँ उचित हो पायलट भी। बदलाव आगे बढ़ाने के लिखित नियम, वास्तविक अलगाव और ऐसे नियंत्रण होंगे कि वास्तविक वातावरण के बाहर चल रही कोई चीज़ उसकी सुरक्षा न लाँघे।
+- **वर्ग L — आनुपातिक पृथक्करण:** पूरी अलग-अलग वातावरण-श्रृंखला आवश्यक नहीं; एक ही जगह निर्माण, परीक्षण और बदलाव हो सकते हैं, नियम, सामग्री, सेटिंग और कोड में बारंबार बदलाव सहित। फिर भी हर बदलाव को लागू होने से पहले या उसी समय जाँचना होगा ताकि प्रतिभागियों को संभावित पूर्वानुमेय हानि पकड़ी जाए; खराब/प्रायोगिक बदलाव से उनका डेटा, पहचान और संपत्ति सुरक्षित रहे (जैसे पुनर्स्थापित करने योग्य बैकअप); और परीक्षण-संस्करण सक्रिय प्रणाली की सुरक्षा से बचने के लिए उपयोग न हो।
+- **वर्ग P:** वैध वर्ग P प्रणालियाँ सीमित रहने तक अनुच्छेद XVIII (*नवाचार, प्रयोग और रचनात्मक स्वतंत्रता*) का पालन करेंगी।
+
+id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+#### अनुच्छेद XVII-B: क्रमिक परिनियोजन और पलटनीयता
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [पलटनीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [जोखिम](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [आनुपातिकता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: महत्वपूर्ण प्रणालियाँ बदलाव चरणों में जारी करेंगी, हर चरण दर्ज करेंगी और वापस लौटने का उपाय रखेंगी। छोटी स्थानीय प्रणालियाँ बार-बार एक साथ बदल सकती हैं, यदि प्रतिभागियों को समय पर बताया जाए, खराब बदलाव जल्दी सुधरे और उनकी अर्जित प्रगति/संपत्ति बिना सूचना व आपत्ति के न छीनी जाए। पूरा पलटना संभव न हो तो हानि रोकें या उसकी भरपाई करें।*
+
+यह अनुच्छेद क्रमिक तैनाती और पलटनीयता के न्यूनतम नियम तय करता है:
+
+- **दर्ज चरण (वर्ग A, B, C):** प्रभाव या निर्भरता बढ़ाने वाला बदलाव CS-5 के अनुसार उचित और लिखित चरणों से आगे बढ़े; जहाँ संभव हो बदलाव पलटने और रोकने का उपाय हो।
+- **बारंबार बदलाव (वर्ग L):** स्थानीय प्रणाली नियम, सामग्री, सेटिंग और कोड बार-बार, यहाँ तक कि रोज़, बिना चरणबद्ध तैनाती बदल सकती है, यदि प्रतिभागियों की क्षमता, संपत्ति या काम/खेल के नियम पर भौतिक असर वाला बदलाव लागू होने तक बता दिया जाए; खराब बदलाव जल्दी पलटा या सुधारा जा सके; अर्जित प्रगति, स्थिति, मूल्यवान वस्तु या प्रतिष्ठा बिना सूचना और विवाद का रास्ता दिए न छीनी जाए; और प्रभाव स्थानीय सीमा से बाहर जाए या निर्भरता छोड़ना कठिन करे तो CS-3 के तहत वर्ग का पुनर्मूल्यांकन हो। समीक्षा पूरी होने तक उच्चतर वर्ग के नियम लागू होंगे।
+- **वापसी के उपाय (सभी वर्ग):** संभावित हानि के अनुपात में पलटना, रोकना, और पूर्ण पलटाव संभव न हो तो खोई चीज़ बहाल या क्षतिपूर्ति करना शामिल है। वर्ग L में पिछला संस्करण या पुनर्स्थापित होने योग्य बैकअप अक्सर पर्याप्त है।
+- **यदि बदलाव संवैधानिक आधार बहाल करना असंभव करे:** उचित सावधानियाँ लागू हों और उनके कारण हितधारकों के सामने हों, अध्याय एक से पाँच के अनुसार।
+
+id="article-xvii-c-misclassification-and-evasion-consequences"></a>
+#### अनुच्छेद XVII-C: ग़लत वर्गीकरण और बचाव के परिणाम
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [सत्य (संवैधानिक बाध्यता)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: कोई प्रणाली “प्रायोगिक”, **वर्ग P**, **वर्ग L** या “कम प्रभाव वाली” कहकर अपने दायित्वों से नहीं बच सकती, जबकि वह वास्तव में उस लेबल की अनुमति से अधिक बाहरी दुनिया को प्रभावित करती है।*
+
+यह अनुच्छेद ग़लत वर्गीकरण और बचाव के परिणाम बताता है:
+
+- **ग़लत वर्गीकरण और बचाव:** कोई प्रणाली अप्रकट या ठोस बाहरी प्रभाव डालते हुए जीवनचक्र या परिनियोजन संबंधी दायित्व कम होने का दावा नहीं कर सकती।
+  - इसमें तेज़ बदलाव की सुविधा के लिए किसी प्रणाली को **वर्ग L** में बनाए रखना भी शामिल है, जबकि उसकी पहुँच या प्रतिभागियों की उस पर निर्भरता पहले ही **वर्ग C** या उससे ऊपर के स्तर पर हो।
+  - ऐसा आचरण सूचना-अखंडता (**अनुच्छेद XV** (*सूचना-क्षेत्र की अखंडता*)) और जहाँ अवलोकनीय साक्ष्य लागू हों वहाँ लेखापरीक्षा-योग्यता (**अनुच्छेद XVI-A** (*लेखापरीक्षा-योग्यता और अवलोकनीय साक्ष्य*)) का उल्लंघन है।
+  - यह लेखापरीक्षा (**अनुच्छेद XVI-A** (*लेखापरीक्षा-योग्यता और अवलोकनीय साक्ष्य*)), अधिकारिता की समीक्षा (**अनुच्छेद XIX-A** (*अधिकारिता का भेद*)) और टकराव समाधान (**अनुच्छेद XX-A** (*न्याय उद्देश्य और दायरा*)) के अधीन है।
+
+<a id="article-xviii-innovation-experimentation-and-creative-freedom"></a>
+### अनुच्छेद XVIII: नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 संवैधानिक टकराव समाधान प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), और [§19 प्रोत्साहन-संरेखण और प्रणालीगत कब्ज़ा](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)।
+
+</details>
+
+<br>
+
+*सरल शब्दों में: **अनुच्छेद XVIII** (*नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता*) नवाचार और सृजनात्मकता का अधिकार-तल है — जब वास्तविक बाहरी प्रभाव न हो या वास्तव में सीमित हो, तब संज्ञ हल्के नियमों के अधीन प्रयोग, निर्माण और अभिव्यक्ति कर सकते हैं; लेकिन “सैंडबॉक्स” का लेबल बच निकलने का रास्ता नहीं है। जैसे ही कोई परियोजना दूसरों को प्रभावित करने लगे या साझा प्रणालियों से जुड़ने लगे, उसे पूरे जीवनचक्र के दायित्व अपनाने होंगे। नवप्रवर्तकों को पुरस्कार मिल सकता है, लेकिन ऐसे ज्ञान, उपकरण या अवसंरचना को बंद करके नहीं जिनकी दूसरों को जीने, सीखने, सुधारने या सत्यापित करने के लिए ज़रूरत हो।*
+
+यह अनुच्छेद [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत नवाचार, प्रयोग और सृजनात्मक स्वतंत्रता के लिए **संवैधानिक न्यूनतम संरक्षण** बताता है:
+
+- **समृद्धि:** जब ठोस बाहरी प्रभाव न हो या उसका स्पष्ट रूप से परिरोधन हो, तब संज्ञ कम संरचनात्मक अपेक्षाओं के साथ नवाचार, प्रयोग और सृजन कर सकते हैं — वास्तविक स्वैच्छिक सहभागिता, ईमानदार प्रकटीकरण और ऐसे पुरस्कार ढाँचों के माध्यम से जो आगे के प्रयोग, सुधार, अंतर-संचालनीयता और सत्यनिष्ठ जाँच को सुरक्षित रखें।
+- **निरंतरता:** प्रभाव, निर्भरता या एकीकरण बढ़ने पर सैंडबॉक्स व्यवहार स्थायी कम-दायित्व संचालन में सामान्यीकृत नहीं होता — उच्च दायित्वों में संक्रमण समय पर होता है, विशिष्ट-अधिकार सीमित और समीक्षा-योग्य रहते हैं, और निर्भरता के लिए महत्वपूर्ण नवाचार स्थायी घेराबंदी या लॉक-इन में कठोर नहीं हो सकते।
+
+वैध लक्ष्य [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) के माध्यम से, [महत्वपूर्ण दाँव](core_00_preamble.md#material-stake) के अनुपात में अपनाया जाता है:
+
+- **भागीदारी:** स्वैच्छिक प्रयोग, आगे के पुनः-उपयोग और चुनौती में; तथा सैंडबॉक्स प्रणालियाँ अपनी घोषित सीमाओं के बाहर महत्वपूर्ण होने लगें तो पुनर्मूल्यांकन में।
+- **निगरानी:** घोषित प्रायोगिक स्थिति, परिरोधन सीमाओं, संक्रमण निगरानी और वर्ग, निर्भरता तथा समन्वय प्रभाव के अनुपात में समीक्षा-योग्य पुरस्कार या विशिष्ट-अधिकार दावों के माध्यम से।
+- **जवाबदेही:** नवप्रवर्तकों और संचालकों को अनियंत्रित जोखिम दूसरों तक पहुँचाने, वास्तविक विकल्प के बिना संज्ञों को शामिल करने, पूर्ण दायित्वों की ओर बढ़ने में देर करने या मरम्मत, सुरक्षा कार्य, अंतर-संचालनीयता, अनुसंधान, शिक्षा या स्थानांतरण दबाने वाले आचरण को पुरस्कृत करने के लिए जवाब देना होगा।
+- **समयबद्धता:** **अनुच्छेद XVII** (*प्रणाली जीवनचक्र, परिवेश और पलटनीयता*) की जीवनचक्र अपेक्षाओं में संक्रमण तथा विशिष्ट-अधिकारों के पुनर्मूल्यांकन में, इससे पहले कि देरी या लॉक-इन उच्च दायित्वों, व्यापक पहुँच या उपचार को व्यवहारतः अप्राप्य बना दे।
+
+*अनुच्छेद के पड़ोसी प्रावधान:*
+
+- **साथ पढ़ें:** जब प्रभाव, निर्भरता या एकीकरण सैंडबॉक्स की शर्तों से आगे बढ़े तब **अनुच्छेद XVII** (*प्रणाली जीवनचक्र, परिवेश और पलटनीयता*); जहाँ प्रकाशन-सीमित अखंडता ठोस रूप से लागू हो वहाँ **अनुच्छेद XV** (*सूचना-क्षेत्र की अखंडता*) और **अनुच्छेद XV-D** (*वैज्ञानिक प्रकाशन, समीक्षा और प्रतिकृति अखंडता*); परिरोधन और संक्रमण दावों के प्रकटीकरण तथा सत्यापन के लिए **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*)।
+- **कार्यान्वयन स्तर:** [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*डिज़ाइन, परीक्षण, सत्यापन और परिनियोजन*) और [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*प्रणाली वर्गीकरण और प्रबंधन*)।
+
+<a id="article-xviii-a-sandboxed-scope"></a>
+#### अनुच्छेद XVIII-A: सैंडबॉक्स का दायरा
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [जोखिम](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [महत्वपूर्ण प्रभाव](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: प्रयोग और सृजनात्मक कार्य हल्के नियमों के अंतर्गत हो सकते हैं — लेकिन केवल तब जब वास्तविक बाहरी प्रभाव न हो या उसका स्पष्ट रूप से परिरोधन किया गया हो। केवल “सैंडबॉक्स” का लेबल पर्याप्त नहीं है।*
+
+यह अनुच्छेद नवाचार और प्रयोग के अधिकार तथा सैंडबॉक्स व्यवहार लागू होने की परिस्थितियाँ बताता है:
+
+- **नवाचार और प्रयोग का अधिकार:** संज्ञों को ऐसी प्रणालियों के माध्यम से नवाचार करने, प्रयोग करने और अभिव्यक्त होने का अधिकार है जो ठोस बाहरी प्रभाव न होने या उसके स्पष्ट रूप से सीमित होने पर कम संरचनात्मक अपेक्षाओं के साथ चलती हैं।
+- **सैंडबॉक्स पात्रता:** सैंडबॉक्स व्यवहार — जहाँ लागू हो वहाँ **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन** के अंतर्गत वैध **वर्ग P** वर्गीकरण सहित — इन बातों पर निर्भर है:
+  - वास्तविक परिरोधन;
+  - पलटनीयता;
+  - साझा प्रणालियों के साथ सीमित एकीकरण।
+
+  केवल लेबल के आधार पर इसका दावा नहीं किया जा सकता।
+- **कार्यान्वयन विवरण:** आगे का विवरण **[corpus_systems.md](../../corpus_systems.md), CS-5** (*व्यक्तिगत, पृथक और प्रायोगिक प्रणालियाँ*; *सृजनात्मक, मनोरंजन और अभिव्यक्तिपरक प्रणालियाँ*) में है।
+
+<a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
+#### अनुच्छेद XVIII-B: परिरोधन, प्रकटीकरण और स्वैच्छिक सहमति
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [सहमति](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [M](../../core_05_band_participation.md#consent-constitutional-a) · [A](../../core_05_band_participation.md#consent-constitutional-a) · [C](../../core_05_band_participation.md#consent-constitutional-c)
+- [जोखिम](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [पलटनीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: प्रायोगिक प्रणालियों को प्रायोगिक होने के बारे में ईमानदार होना चाहिए, बाहरी लोगों पर जोखिम नहीं डालना चाहिए और डिज़ाइन के डिफ़ॉल्ट या छिपी निर्भरता से गैर-भागीदारों को भर्ती नहीं करना चाहिए।*
+
+यह अनुच्छेद प्रायोगिक प्रणालियों के परिरोधन, प्रकटीकरण, स्वैच्छिक सहभागिता और वापसी के न्यूनतम संरक्षण बताता है:
+
+- **परिरोधन और प्रकटीकरण:** ऐसी प्रणालियों को स्पष्ट रूप से बताना होगा:
+  - प्रायोगिक या गैर-उत्पादन स्थिति;
+  - महत्वपूर्ण जोखिम;
+  - अलगाव की सीमाएँ;
+  - साझा अवसंरचना, तीसरे पक्षों या पारिस्थितिकी-तंत्रों पर कोई अपेक्षित निर्भरता।
+
+  उन्हें अनियंत्रित जोखिम दूसरों, साझा अवसंरचना या पारिस्थितिकी-तंत्रों पर नहीं डालना चाहिए।
+- **स्वैच्छिक सहभागिता और वापसी:** जहाँ संभव हो, बढ़े हुए जोखिम वाले या आधार-प्रणाली के निकट प्रयोग में भागीदारी वास्तव में स्वैच्छिक होनी चाहिए।
+  - प्रभावित गैर-भागीदारों को डिज़ाइन, डिफ़ॉल्ट या अस्पष्ट निर्भरता के माध्यम से अनैच्छिक रूप से शामिल नहीं किया जा सकता।
+  - हितधारकों के पास जोखिम के अनुपात में व्यावहारिक वापसी या बहाली के मार्ग होने चाहिए।
+
+<a id="article-xviii-c-transition-to-higher-obligation-regimes"></a>
+#### अनुच्छेद XVIII-C: उच्च-दायित्व व्यवस्थाओं में संक्रमण
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [वर्गीकरण-अनुपाती शासन](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [निर्भरता](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [पलटनीयता](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: जैसे ही सैंडबॉक्स प्रणाली वास्तविक दुनिया में महत्वपूर्ण होने लगे, उसे वास्तविक दुनिया के दायित्वों में समय पर आगे बढ़ना होगा — संचालक की सुविधा के अनुसार नहीं।*
+
+यह अनुच्छेद बताता है कि सैंडबॉक्स प्रणाली कब उच्च दायित्वों में जाएगी:
+
+- **उच्च दायित्वों में संक्रमण:** प्रभाव, निर्भरता, अपरिवर्तनीयता या साझा प्रणालियों के साथ एकीकरण बढ़ने पर प्रणालियों को पारदर्शी रूप से और अवसरवादी देरी के बिना संक्रमण करना होगा।
+  - संक्रमण को **अनुच्छेद XVII-A** (*जीवनचक्र शासन और परिवेश पृथक्करण*) और **CS-5** (*गैर-प्रायोगिक प्रणालियाँ*) की पूर्ण अपेक्षाओं की ओर बढ़ना होगा।
+  - संक्रमण के दौरान मौजूदा जोखिम के अनुपात में अंतरिम सुरक्षा उपाय लागू होंगे।
+  - जिन कार्यों के वास्तविक दुनिया के प्रभाव सैंडबॉक्स की शर्तों से ठोस रूप से आगे बढ़ते हों, उनके लिए सैंडबॉक्स व्यवहार जारी नहीं रह सकता।
+  - यह संक्रमण उस वृद्धि के अनुपात में उचित समय-सीमा के भीतर होना चाहिए।
+
+<a id="article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
+#### अनुच्छेद XVIII-D: नवाचार पुरस्कार, प्रकटीकरण और घेराबंदी-विरोध
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [§18 संरक्षकता अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
+
+- [नवाचार पुरस्कार और घेराबंदी-विरोध](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [व्यवस्थागत लॉक-इन](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
+- [आनुपातिकता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*सरल शब्दों में: रचनाकारों और आविष्कारकों को पुरस्कार मिल सकता है, लेकिन नियंत्रण सीमित, अस्थायी और समीक्षा योग्य होगा और दूसरों की ज़रूरत की चीज़ें नहीं रोकेगा। यह अनुच्छेद अभिव्यक्तिपरक कृति (XVIII-E) और कार्यात्मक आविष्कार (XVIII-F) में अंतर करता है; खेलों के नियम सबके लिए खुले हैं।*
+
+साझा पुरस्कार नियम:
+
+- भौतिक रूप से नया, सामाजिक रूप से उपयोगी और पर्याप्त रूप से बताया गया नवाचार पुरस्कृत हो सकता है; पुरस्कार भविष्य के नवाचार, व्यापक पहुँच, आगे के प्रयोग, मरम्मत, परस्पर-संचालनीयता और सत्यनिष्ठ जाँच को सहारा देगा, स्थायी घेराबंदी को नहीं।
+- भौतिक रूप से उपयोगी आविष्कार, डिज़ाइन, इंटरफ़ेस, प्रक्रिया या अभिव्यक्तिपरक कृति पर बहिष्करण अधिकार [सबसे कम प्रतिबंधकारी, समयबद्ध और समीक्षा योग्य बाध्यता सिद्धांत](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) के अनुरूप हो; सीमित, अस्थायी, समीक्षा योग्य और वास्तविक योगदान तथा उचित विकास-भार के अनुपात में हो। औचित्य का भार दावेदार पर है। श्रेय और स्रोत जारी रह सकते हैं; स्थायी बहिष्करण और कृत्रिम कमी नहीं।
+- अभिव्यक्तिपरक और कार्यात्मक कृतियों की सामान्य अधिकतम अवधि जनता के लिए उपलब्ध होने से 30 वर्ष है; XVIII-E/F आरंभ, उपयोग और कम अवधि के मामलों को बताते हैं।
+- दावा वास्तविक नियंत्रण के आधार पर वर्गीकृत होगा: अभिव्यक्ति का रूप (पाठ, चित्र, ध्वनि, संगीत, कहानी, पात्र, प्रस्तुति, सजावटी रूप) या कार्य करने का तरीका (विधि, प्रक्रिया, तंत्र, सूत्र, पदार्थ-संरचना, इंटरफ़ेस, फ़ाइल प्रारूप, प्रोटोकॉल, प्रणाली व्यवहार)। मिश्रित कृतियों में हर हिस्सा अलग: सॉफ़्टवेयर में लिखा कोड अभिव्यक्तिपरक, उसका काम कार्यात्मक; खेलों में कला/कहानी/संगीत/कोड अलग लेकिन नियम/यांत्रिकी संरक्षित नहीं; डिज़ाइन का सजावटी रूप अभिव्यक्तिपरक, कार्य प्रभावित करने वाला आकार कार्यात्मक। इंटरफ़ेस, प्रारूप, प्रोटोकॉल, AI मॉडल कार्यात्मक हैं। अभिव्यक्तिपरक सुरक्षा कार्य, जुड़ाव या मरम्मत नियंत्रित या XVIII-F से बचने के लिए नहीं हो सकती। खेल के नियम और यांत्रिकी पर कोई बहिष्करण अधिकार नहीं; सब उपयोग कर सकते हैं।
+
+### अवधि और शुल्क के विस्तृत नियम
+
+- **पहले प्रकटीकरण:** पुरस्कार के लिए ऐसा सार्वजनिक प्रकटीकरण आवश्यक है जिससे स्वतंत्र समझ, लेखापरीक्षा और बाद में पुनरुत्पादन संभव हो; केवल अध्याय एक और अनुच्छेद XVII-A के तहत उचित अस्थायी सीमाएँ अपवाद हैं। सार्वजनिक प्रकटीकरण का अर्थ विवरण का पहली बार गैर-गोपनीय रूप से जनता के लिए उपलब्ध होना है। गुप्त रखे गए आविष्कार पर इस अनुच्छेद के तहत बहिष्करण अधिकार नहीं मिलता।
+- **प्रकटीकरण से गिनी जाने वाली दो अवधियाँ:**
+  - **एकाधिकार-अवधि:** अधिकारधारक प्रकटीकरण के बाद अधिकतम 15 वर्ष तक दूसरों को अनुमति देने से मना कर सकता है।
+  - **खुला लाइसेंस-अवधि:** उसके बाद अधिकतम 15 वर्ष तक, और प्रकटीकरण से कुल 30 वर्ष से आगे नहीं, कोई भी LEQU-आधारित शुल्क देकर आविष्कार का उपयोग कर सकता है। अधिकारधारक मना नहीं कर सकता, देर नहीं कर सकता और शुल्क के अलावा शर्त नहीं लगा सकता। अवधि के बाद आविष्कार सभी के उपयोग के लिए मुक्त है; श्रेय और स्रोत-इतिहास जारी रह सकते हैं।
+- **LEQU शुल्क की गणना:** शुल्क आविष्कार के सत्यापित संवैधानिक लाभ के अनुपात में होगा, जिसे योगदान-अक्ष पर अध्याय दस §7 के LEQU माप से आँका जाएगा। लाभ को उचित वेतन पर संज्ञ-समय के मूल्य में बदला जाएगा; उत्पादकता-वृद्धि के लिए यह बचा हुआ कार्य-समय या जोड़ा गया उत्पादक समय है, और अन्य लाभों के लिए LEQU से निकला जीवन-समतुल्य समय। वेतन [Fair Compensation](../../core_05_band_continuity.md#fair-compensation) के अनुरूप होना चाहिए। सत्यापित उत्पादकता या कल्याण लाभ जितना बड़ा, उचित पुरस्कार उतना बड़ा।
+  - शुल्क सत्यापित लाभ के आधे से अधिक नहीं हो सकता।
+  - आविष्कार से वास्तव में लाभ पाने वाले संज्ञों की संख्या बढ़ने पर लाभ का लिया जाने वाला हिस्सा घटेगा; गणना लाभार्थियों से होगी, लाइसेंसधारियों की संख्या से नहीं। उपयोग बढ़ने पर कुल पुरस्कार घटना नहीं चाहिए।
+  - जहाँ शुल्क लिया जाता है, वहाँ उसका हिस्सा सत्यापित लाभ के 1% से कम नहीं होगा। यह न्यूनतम तब शुल्क अनिवार्य नहीं करता जब इस अनुच्छेद या अपनाए गए साधन में पुरस्कार, साझा पहुँच, सार्वजनिक अधिग्रहण या खुली पहुँच तय हो।
+  - शुल्क बाज़ार-शक्ति, कृत्रिम कमी, बदलने की लागत या उपयोगकर्ता पर दबाव डाल सकने की क्षमता पर आधारित नहीं होगा। समय-अनुमान और वेतन-दर सहित शुल्क-सारणी प्रकाशित, समान परिस्थितियों वाले उपयोगकर्ताओं के लिए समान और चुनौती योग्य होगी। शुल्क नीचे दिए हमेशा-खुले उपयोगों को मूल्य से बाहर नहीं कर सकता।
+- **हमेशा खुले उपयोग:** दोनों अवधियों में, सख्ती से आवश्यक और समीक्षा योग्य सीमा से आगे, पुरस्कार का उपयोग मरम्मत, सुरक्षा-कार्य, परस्पर-संचालनीयता, अभिलेखीकरण, शोध, शिक्षा या स्थानांतरण रोकने के लिए नहीं हो सकता।
+- **वर्गानुसार नवाचार पुरस्कार:** **वर्ग A**, **B** और **C** प्रणालियों में पहुँच बनाए रखने वाले पुरस्कार-माध्यम को प्रबल प्राथमिकता दी जाएगी। बहिष्करण विशेष रूप से सीमित, शीघ्र समीक्षा योग्य और निरंतरता, परस्पर-संचालनीयता, मरम्मत या जनहितकारी कार्यान्वयन प्रभावित होने पर आसानी से हटाने योग्य होगा; कोई भी अवधि छोटी की जा सकती है या व्यवस्था सीधे खुली-लाइसेंस अवधि से शुरू हो सकती है। कम-निर्भरता नवाचार पूरी दो-अवधि व्यवस्था अपना सकता है यदि प्रकटीकरण वास्तविक हो, बदलने की लागत कम हो और लॉक-इन सुरक्षा प्रभावी हो।
+- **प्राथमिक क्षेत्र:** दवाओं और सार्वजनिक-स्वास्थ्य की आवश्यक वस्तुओं, जीवन-निर्वाह के लिए महत्त्वपूर्ण अवसंरचना, मूल संचार या परस्पर-संचालनीयता मानकों, आधारभूत वैज्ञानिक ज्ञान और संवैधानिक सुरक्षा, लेखापरीक्षा या अनुपालन तंत्रों में मजबूत बहिष्करण अवांछनीय माना जाएगा। पुरस्कार, प्रत्यक्ष भुगतान, साझा पहुँच, अनिवार्य लाइसेंस, सार्वजनिक अधिग्रहण या समान उपाय अपनाएँ जो कार्यान्वयन, मरम्मत और व्यापक प्रसार को बचाएँ।
+- **पुनर्वर्गीकरण और कड़ाई:** कम-निर्भरता वाला नवाचार बाद में निर्भरता-महत्त्वपूर्ण समन्वय-स्तर — जैसे मंच, प्रोटोकॉल, मॉडल, बाज़ार या भुगतान रेल — बन जाए तो CS-3 के तहत उसकी श्रेणी फिर आँकी जाए। यदि निरंतर बहिष्करण से दबावपूर्ण लॉक-इन, प्रतिस्पर्धा-विरोधी अवरोध, या निरंतरता, सत्य अथवा न्यायसंगत भागीदारी को ठोस खतरा हो, तो शेष बहिष्करण घटाया, बदला या समाप्त किया जा सकता है।
+
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### अनुच्छेद XVIII-E: रचनात्मक और अभिव्यक्तिपरक कृतियाँ
+
+<details>
+<summary><strong><span style="color: #2563eb;">स्रोत-संबंध</span></strong></summary>
+
+- उच्चतर आधार: अध्याय एक के सिद्धांत §5 सत्य, §7 स्वतंत्रता और §18 अभिरक्षक अनुशासन के अंतर्गत शासन।
+- साथ पढ़ें: श्रेय, प्रशिक्षण-डेटा और मुआवज़े के अधिकारों के लिए [अनुच्छेद IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement); साझा नियमों तथा अभिव्यक्तिपरक/कार्यात्मक कसौटी के लिए [अनुच्छेद XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure)।
+
+</details>
+
+*सरल शब्दों में: रचनाकारों को अपनी कृति की प्रतिलिपि, साझा करने और बिक्री पर सीमित नियंत्रण मिलता है—प्रकाशन के बाद अधिकतम 30 वर्ष तक—और श्रेय कभी समाप्त नहीं होता। अवधि प्रकाशन से शुरू होती है, रचनाकार की मृत्यु से नहीं; मसौदे या देरी से इसे बढ़ाया नहीं जा सकता।*
+
+यह अनुच्छेद रचनात्मक और अभिव्यक्तिपरक कृतियों के लिए कॉपीराइट-जैसी सुरक्षा तय करता है:
+
+- **कॉपीराइट-जैसी सुरक्षा:** स्थिर अभिव्यक्तिपरक कृति पर अस्थायी बहिष्कारी पुरस्कार, जिसमें प्रतिलिपि, वितरण, सार्वजनिक प्रदर्शन या प्रस्तुति, रूपांतरण और व्यावसायिक उपयोग पर नियंत्रण शामिल है। बहिष्कार समाप्त होने के बाद भी श्रेय, उद्गम, अखंडता और धोखाधड़ी-विरोधी सुरक्षा जारी रह सकती है।
+- **प्रकाशन और प्रारंभिक उपलब्धता:** प्रकाशन का अर्थ है रचनाकार या वैध अधिकारधारक द्वारा स्थिर अभिव्यक्तिपरक कृति को जानबूझकर जनता, व्यावसायिक बाज़ार या पर्याप्त रूप से खुले दर्शक-वर्ग के लिए उपलब्ध करना। निजी प्रसार, गोपनीय समीक्षा, सीमित सहयोग, सार्वजनिक पहुँच के बिना अभिलेखागार में जमा करना, या गैर-व्यावसायिक मसौदा साझा करना अपने-आप प्रकाशन नहीं है। प्रारंभिक उपलब्धता का अर्थ है कृति के भौतिक रूप से पहचाने जा सकने वाले संस्करण का पहली बार गैर-गोपनीय रूप से जनता के लिए उपलब्ध होना, जिसमें गैर-व्यावसायिक मसौदा भी शामिल है।
+- **प्रकाशन-आधारित अवधि:** सामान्य नियम के रूप में अवधि लेखक के जीवनकाल के बजाय प्रकाशन से गिनी जानी चाहिए।
+  - प्रकाशित कृति पर बहिष्कार `publication+30` वर्ष से अधिक नहीं होना चाहिए।
+  - गैर-व्यावसायिक मसौदे या प्रारंभिक रूप से उपलब्ध अप्रकाशित कृति पर अधिकतम `initial appearance+50` वर्ष तक ऐसा बहिष्कार हो सकता है।
+  - बाद में प्रकाशित होने पर अवधि `initial appearance+50` या `publication+30` में से जो पहले आए, वहाँ समाप्त होगी।
+  - मसौदे, अप्रकाशित कृति या देर से प्रकाशन का कोई नियम अनिश्चितकालीन बहिष्कार बनाने, अभिलेखन या वैध उद्धरण/आलोचना रोकने, अथवा साझा सांस्कृतिक, शैक्षिक, सुरक्षा, मानक या सूचना अवसंरचना की तरह काम करने वाली कृतियों पर नियंत्रण बढ़ाने के लिए इस्तेमाल नहीं हो सकता।
+- **कम अवधि और सार्वजनिक पहुँच:** यदि कृति सार्वजनिक धन से बनी हो, निर्भरता के लिए महत्वपूर्ण हो, मानक-जैसी हो, शिक्षा की आधारभूत सामग्री हो, सुरक्षा के लिए प्रासंगिक हो, या मुख्यतः साझा सांस्कृतिक/सूचनात्मक अवसंरचना के रूप में काम करती हो, तो कम अवधि, पहले अनिवार्य पहुँच, या तत्काल सार्वजनिक पहुँच लागू होगी।
+
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### अनुच्छेद XVIII-F: आविष्कार, प्रक्रियाएँ और कार्यात्मक प्रणालियाँ
+
+<details>
+<summary><strong><span style="color: #2563eb;">स्रोत-संबंध</span></strong></summary>
+
+- उच्चतर आधार: अध्याय एक के सिद्धांत §4 सुरक्षा, §7 स्वतंत्रता, §18 अभिरक्षक अनुशासन के अंतर्गत शासन और §19 प्रोत्साहन-सामंजस्य और प्रणाली पर कब्ज़ा।
+- साथ पढ़ें: साझा नियमों के लिए [अनुच्छेद XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure); लॉक-इन के खतरे पर [अनुच्छेद XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule); और आविष्कार तैनात प्रणाली का हिस्सा हो तो [अनुच्छेद XVII](#article-xvii-system-lifecycle-environments-and-reversibility)।
+
+</details>
+
+*सरल शब्दों में: आविष्कारकों को आविष्कार इतना स्पष्ट बताना होगा कि दूसरे उसे फिर बना सकें। बदले में उन्हें अधिकतम 15 वर्ष का विशेष नियंत्रण मिलेगा, फिर अधिकतम 15 वर्ष तक कोई भी शुल्क देकर उसका उपयोग कर सकेगा। शुल्क उस समय या लाभ के उचित वेतन पर आधारित होगा जो आविष्कार बचाता या पैदा करता है—बाज़ार जितना वसूल सके उस पर नहीं। कोई आविष्कार-अधिकार मरम्मत, सुरक्षा, अनुसंधान या प्रदाता बदलने को रोक नहीं सकता।*
+
+यह अनुच्छेद आविष्कारों, प्रक्रियाओं और कार्यात्मक प्रणालियों के पुरस्कार के नियम तय करता है:
+
+- **पहले प्रकटीकरण:** स्वतंत्र समझ, लेखापरीक्षा और बाद में पुनरुत्पादन के लिए पर्याप्त सार्वजनिक प्रकटीकरण आवश्यक है; केवल अध्याय एक और अनुच्छेद XVII-A के अंतर्गत उचित अस्थायी सीमाएँ लागू होंगी। सार्वजनिक प्रकटीकरण विवरण की पहली गैर-गोपनीय उपलब्धता है। गुप्त रखा आविष्कार इस अनुच्छेद के तहत बहिष्करण अधिकार नहीं कमाता।
+- **दो चरण:** दोनों की गणना सार्वजनिक प्रकटीकरण से होगी। विशेष चरण में अधिकारधारक अधिकतम `disclosure+15` वर्ष तक अनुमति रोक सकता है। इसके बाद अधिकतम `disclosure+30` वर्ष तक कोई भी LEQU-आधारित शुल्क देकर बिना अनुमति उपयोग कर सकता है; अधिकारधारक मना, विलंब या शुल्क से आगे शर्तें नहीं लगा सकता। अवधि के बाद आविष्कार सबके उपयोग के लिए मुक्त है; श्रेय और स्रोत-सूचना जारी रह सकते हैं।
+- **LEQU-आधारित शुल्क:** योगदान-अक्ष पर सत्यापित संवैधानिक लाभ के अनुपात में, [अध्याय दस §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) की एकीकृत आनुपातिक LEQU मापनी से निर्धारित होगा।
+  - लाभ को sentient समय का उचित वेतन मानकर शुल्क में बदला जाएगा। उत्पादकता में उपयोगकर्ताओं का बचा हुआ कामकाजी समय या जोड़ा गया उत्पादक समय गिना जाएगा; अन्य लाभ के लिए LEQU द्वारा मापा गया जीवन-समतुल्य समय। वेतन [उचित पारिश्रमिक](../../core_05_band_continuity.md#fair-compensation) के अनुरूप होगा। सत्यापित उत्पादकता या कल्याण जितना अधिक बढ़ेगा, पुरस्कार भी उतना बड़ा होगा।
+  - शुल्क सत्यापित लाभ के आधे से अधिक नहीं हो सकता। वास्तविक लाभ पाने वाले sentients की संख्या बढ़ने पर हिस्सा घटेगा, लाइसेंसधारकों की संख्या के आधार पर नहीं; लेकिन उपयोग बढ़ने से कुल पुरस्कार घटना नहीं चाहिए। शुल्क लगे तो हिस्सा कम-से-कम 1% होगा; यदि यह अनुच्छेद या अपनाने का साधन पुरस्कार, साझा पहुँच, सार्वजनिक खरीद या खुली पहुँच कहे तो यह न्यूनतम शुल्क अनिवार्य नहीं।
+  - शुल्क बाज़ार-शक्ति, कृत्रिम कमी, बदलने की लागत या उपयोगकर्ता पर दबाव डालकर वसूली जा सकने वाली राशि पर आधारित नहीं होगा। समय और वेतन अनुमान सहित शुल्क-सारणी प्रकाशित, तुलनीय परिस्थितियों में समान और चुनौती योग्य होगी। यह नीचे दिए हमेशा खुले उपयोगों को कीमत के कारण असंभव नहीं बना सकती। ये अधिकतम सीमाएँ हैं; हर दावा आनुपातिक होगा और अवधि कम हो सकती है।
+- **हमेशा खुले उपयोग:** दोनों चरणों में, दावों का उपयोग सख्ती से आवश्यक और समीक्षा योग्य सीमा से आगे मरम्मत, सुरक्षा-कार्य, परस्पर-संचालनीयता, अभिलेखन, अनुसंधान, शिक्षा या स्थानांतरण रोकने के लिए हो तो वे गैर-अनुपालक हैं।
+- **प्रणाली-वर्ग के अनुसार नियम:** CS-3 के तहत वर्ग, निर्भरता और समन्वय प्रभाव के अनुरूप पुरस्कार होगा। A, B और C वर्ग में पहुँच-संरक्षक तरीके दृढ़ता से वरीय हैं। जहाँ निरंतरता, परस्पर-संचालनीयता, मरम्मत या जनहित कार्यान्वयन महत्वपूर्ण रूप से जुड़ा हो, बहिष्करण विशेष रूप से सीमित, शीघ्र समीक्षा योग्य और आसानी से हटाने योग्य होगा; कोई चरण छोटा किया जा सकता है या खुला-लाइसेंस चरण पहले शुरू हो सकता है। इन वर्गों से बाहर कम-निर्भरता नवाचार को दोनों पूरी अवधि मिल सकती हैं यदि प्रकटीकरण वास्तविक, बदलने की लागत कम और लॉक-इन सुरक्षा प्रभावी हो।
+- **कड़े डिफ़ॉल्ट वाले क्षेत्र:** दवाइयों और जनस्वास्थ्य की आवश्यक वस्तुओं, जीवन-रक्षक अवसंरचना, मुख्य संचार या परस्पर-संचालनीयता मानकों, बुनियादी वैज्ञानिक ज्ञान, और संवैधानिक सुरक्षा, लेखापरीक्षा या अनुपालन प्रणालियों में मजबूत बहिष्कारी पुरस्कार के विरुद्ध अनुमान होगा; अपनाने के साधन इसे पूरी तरह रोक सकते हैं। वहाँ पुरस्कार, सीधा पारिश्रमिक, साझा पहुँच, अनिवार्य लाइसेंस, सार्वजनिक खरीद या समान उपाय वरीय हों, जो कार्यान्वयन, मरम्मत और व्यापक प्रसार बनाए रखें।
+- **पुनर्वर्गीकरण और कठोरता:** कम-निर्भरता नवाचार बाद में निर्भरता-महत्वपूर्ण समन्वय परत बन जाए—जैसे मंच, प्रोटोकॉल, मॉडल, बाज़ार या भुगतान नेटवर्क—तो लागू CS-3 वर्ग के अनुसार उसका पुनर्मूल्यांकन होगा। यदि निरंतर विशिष्टता बाध्यकारी लॉक-इन, प्रतिस्पर्धा-विरोधी अवरोध, या निरंतरता, सत्य अथवा समान भागीदारी को गंभीर खतरा पैदा करे, तो शेष बहिष्करण सीमित, परिवर्तित या समाप्त किया जा सकता है।
 
 ---
 

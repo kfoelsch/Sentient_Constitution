@@ -91,35 +91,6 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### সময়ানুবর্তিতা পরিমাপ
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*সহজ কথায়: ড্যাশবোর্ডে কাজের পরিমাণ দেখানো হচ্ছে কি না শুধু তা নয়, সমস্যাগুলো সত্যিই সময়মতো এগোচ্ছে কি না—এই প্রশ্নগুলো তা যাচাই করে। অধ্যায় পাঁচে সময়ানুবর্তিতা পরিমাপ-পরিবারের স্থান এটি; প্রস্তাবনার §2 (পরিমাপের সারসংক্ষেপ) শ্রেণির সহজ প্রশ্নটি রাখে, আর পরিবার-সারণি ও সংজ্ঞার নির্দেশনা এখানে রয়েছে।*
-
-*বস্তুগততা ([Materiality](core_05_band_oversight.md#materiality)) সমন্বিত, আলাদা পরিমাপ-শ্রেণি নয়; [material stake](core_00_preamble.md#material-stake) অনুযায়ী পরিবারের প্রয়োগের মাত্রা নির্ধারণ করে।*
-
-| পরিমাপ-পরিবার | সহজ প্রশ্ন | প্রধান সাংবিধানিক ব্যবহার |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | প্রতিকার কার্যকর থাকা অবস্থায় কি বিরোধ নিষ্পত্তি হয়? | বিলম্বকে অধিকারকে অর্থহীন করে তুলতে বাধা দেয়। |
-| বিলম্ববিরোধী ও নিষ্পত্তির পথ-সংক্রান্ত নিয়ম | প্রণোদনা ও কাঠামো কি ইচ্ছাকৃত জট, দখল এবং অর্থহীন সময়সীমা এড়ায়? | বিলম্বের ব্যবস্থা এবং [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways) শনাক্ত করে। |
-
-প্রক্রিয়ার সময়সীমা, নিষ্পত্তির পথ এবং প্রতিকারের গতি [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)-এর **সময়ানুবর্তিতা** স্তম্ভকে বাস্তবে কার্যকর রাখে কি না—শুধু কাগজে নয়—এই পরিমাপগুলো তা যাচাই করে।
-
-**আগের ফাইল:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**পরের ফাইল:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### সময়ানুবর্তিতা মাপা

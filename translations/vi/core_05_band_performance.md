@@ -38,33 +38,6 @@ Tệp này là nhà cho gia đình đo lường **Hiệu năng hiến pháp** �
 
 <a id="performance-measurement-family"></a>
 
-### Hiệu suất hiến định (Preamble measurement family)
-
-*Nói đơn giản: các câu hỏi này xem liệu kết quả hiến định có thực sự được thực hiện mà không lãng phí thời gian, công sức hoặc vật liệu của các chủ thể có tri giác hay không. Đây là nơi đặt nhóm đo lường Hiệu suất hiến định của Chương Năm. §2 Lời mở đầu giữ câu hỏi giản dị của nhóm trong bảng tổng quan; bảng nhóm, công dụng hiến định và chỉ dẫn đến định nghĩa ở đây.*
-
-*Đây là vị trí của nhóm đo lường Hiệu suất Hiến định trong Chương Năm. §2 của Lời mở đầu giữ câu hỏi giản dị của nhóm trong bảng tổng quan; bảng nhóm, công dụng hiến định và các tham chiếu định nghĩa nằm ở đây.*
-
-*Tính trọng yếu ([Materiality](core_05_band_oversight.md#materiality)) có tính tích hợp, không phải nhóm đo lường riêng; nó điều chỉnh mức áp dụng theo [material stake](core_00_preamble.md#material-stake).*
-
-| Nhóm đo lường | Câu hỏi giản dị | Công dụng hiến định chính |
-|---|---|---|
-| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | Các kết quả hiến định có thực sự được thực hiện không? | Ngăn chỉ số đại diện thay thế cho sự bảo vệ thực chất. |
-| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | Hệ thống có lãng phí thời gian, công sức, vật liệu, hạ tầng hoặc năng lượng của các chủ thể có tri giác không? | Giảm trở ngại không cần thiết. |
-| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | Các chủ thể có tri giác và hệ thống có thể tiếp tục tạo ra kết quả phù hợp không? | Bảo vệ năng lực bền vững mà không chuyển gánh nặng sinh thái sang nơi khác. |
-
-Các phép đo xuyên suốt này xem liệu hệ thống có thực hiện hiệu quả các kết quả hiến định, tránh lãng phí vô ích và duy trì năng lực tiếp tục tạo ra kết quả phù hợp hay không — điều thiết yếu cho cả [**Flourishing**](core_00_preamble.md#flourishing) và [**Continuity**](core_00_preamble.md#continuity).
-
-- Các tầng đo lường vận hành nằm trong các mục định nghĩa của Chương Năm: xem [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) và [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty).
-- Các mục tiêu hiệu suất, phần thưởng và phép đo nguồn lực chỉ hợp lệ trong phạm vi chúng có thể truy nguyên đến kết quả hiến định.
-- Chúng không thể thay thế hiệu quả hiến định, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) hay việc tuân thủ sàn quyền.
-- Khi hiệu suất toàn hệ thống có ý nghĩa trọng yếu, hãy đọc từ [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) đến [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
-
----
-
-**Tệp trước:** [core_05_band_participation.md](../../core_05_band_participation.md)
-
-**Tệp tiếp theo:** [core_07_charters.md](../../core_07_charters.md)
-
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### Đo hiệu năng hiến pháp (gia đình đo lường của Lời nói đầu)
 

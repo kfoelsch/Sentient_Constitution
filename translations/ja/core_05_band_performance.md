@@ -38,33 +38,6 @@
 
 <a id="performance-measurement-family"></a>
 
-### 憲法上のパフォーマンス測定 (Preamble measurement family)
-
-*平易に言えば、これらの問いは、感覚ある存在の時間、労力、資材を無駄にせず、憲法上の成果を実際に達成しているかを確かめます。*
-
-*ここは第5章の憲法上のパフォーマンス測定ファミリーの掲載箇所です。序文§2は概要表にカテゴリの平易な問いを残し、ファミリー表、憲法上の用途、定義への案内をここに置きます。*
-
-*重要性（[Materiality](core_05_band_oversight.md#materiality)）は統合的な要素であり、独立した測定カテゴリではありません。[material stake](core_00_preamble.md#material-stake)に応じて適用の強さを調整します。*
-
-| 測定ファミリー | 平易な問い | 主な憲法上の用途 |
-|---|---|---|
-| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | 憲法上の成果は実際に達成されているか。 | 代理指標が実際の保護に取って代わるのを防ぎます。 |
-| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | システムは感覚ある存在の時間、労力、資材、インフラ、エネルギーを浪費しているか。 | 不要な摩擦を減らします。 |
-| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | 感覚ある存在とシステムは、整合した成果を生み出し続けられるか。 | 生態系への負担転嫁なしに、持続的な能力を守ります。 |
-
-これらの横断的な測定は、システムが憲法上の成果を効果的に実現し、無意味な浪費を避け、整合した成果を生み続ける能力を保っているかを問い、[**Flourishing**](core_00_preamble.md#flourishing)と[**Continuity**](core_00_preamble.md#continuity)の双方を支えます。
-
-- 運用上の測定段階は第5章の定義箇所にあります。[Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency)、[Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden)、[Productive Capacity](../../core_05_band_continuity.md#productive-capacity)、[Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty)を参照してください。
-- パフォーマンス目標、報酬、資源指標が有効なのは、憲法上の成果まで追跡可能な範囲に限られます。
-- 憲法上の効率性、[Productive Capacity](../../core_05_band_continuity.md#productive-capacity)、権利の最低基準への適合に代わるものではありません。
-- システム全体のパフォーマンスが実質的に重要な場合は、[Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)から[§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)までを参照してください。
-
----
-
-**前のファイル：** [core_05_band_participation.md](../../core_05_band_participation.md)
-
-**次のファイル：** [core_07_charters.md](../../core_07_charters.md)
-
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### 憲法上の実績を測る（前文の測定ファミリー）
 

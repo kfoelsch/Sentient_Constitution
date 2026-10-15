@@ -91,35 +91,6 @@ Os **termos independentes e semi-independentes** que implementam a atuação em 
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### Tempestividade
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*Em termos simples: estas perguntas verificam se os problemas avançam de fato em tempo hábil — e não apenas se um painel mostra volume de processamento. Este é o espaço da família de medição da tempestividade no Capítulo Cinco; o §2 do Preâmbulo (Visão geral das medições) mantém a pergunta simples da categoria, e aqui ficam a tabela da família e as referências às definições.*
-
-*A materialidade ([Materiality](core_05_band_oversight.md#materiality)) é integrativa, não uma categoria de medição separada; ela dimensiona a aplicação desta família conforme o [material stake](core_00_preamble.md#material-stake).*
-
-| Família de medição | Pergunta simples | Principal uso constitucional |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | As disputas são resolvidas enquanto a reparação ainda importa? | Impede que a demora esvazie os direitos. |
-| Disciplina contra atrasos e sobre vias de resolução | Os incentivos e as estruturas evitam acúmulo deliberado, captura e prazos vazios? | Detecta regimes de atraso e [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways). |
-
-Estas medidas verificam se os prazos dos processos, as vias de resolução e a velocidade de reparação mantêm real, na prática, a dimensão de **tempestividade** do [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), e não apenas no papel.
-
-**Arquivo anterior:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**Arquivo seguinte:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### Medir a atuação em tempo

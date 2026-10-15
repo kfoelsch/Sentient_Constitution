@@ -18,7 +18,7 @@
 
 > El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni restringe obligaciones vinculantes establecidas en otras partes de este capítulo o en otros capítulos.
 >
-> La **Parte A** en [core_06_rights_part_a.md](core_06_rights_part_a.md) contiene el conjunto de restricciones predeterminadas para todo el capítulo, el orden de lectura que prioriza el planeta y los centros interpretativos. La **Parte E** presenta los **Artículos XXV–XXVII**, incluida la transición y el reajuste de la base en el **Artículo XXVII** (*Gobernanza de la transición, continuidad y reajuste de la base*).
+> La **Parte A** en [core_06_rights_part_a.md](core_06_rights_part_a.md) contiene el conjunto de restricciones predeterminadas para todo el capítulo, el orden de lectura que prioriza el planeta y los centros interpretativos. La **Parte E** presenta los **Artículos XXVI–XXVIII**, incluida la transición y el reajuste de la base en el **Artículo XXVIII** (*Gobernanza de la transición, continuidad y reajuste de la base*).
 
 </details>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-*En términos sencillos: la Parte E abarca la resolución de conflictos, la disciplina de revisión y resolución, la evolución constitucional y la transición: los Artículos XXV a XXVII, incluido el reajuste de la base conforme al **Artículo XXVII** (*Gobernanza de la transición, continuidad y reajuste de la base*).*
+*En términos sencillos: la Parte E abarca la resolución de conflictos, la disciplina de revisión y resolución, la evolución constitucional y la transición: los Artículos XXVI a XXVIII, incluido el reajuste de la base conforme al **Artículo XXVIII** (*Gobernanza de la transición, continuidad y reajuste de la base*).*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Guía para quien lee (no operativa): mapa de artículos de la Parte E</span></strong></summary>
@@ -46,12 +46,12 @@ flowchart TB
     D0["Parte E<br/><br/>Resolución de conflictos, revisión, evolución constitucional y transición"]
     subgraph Dgrid[" "]
         direction TB
-        subgraph Drow1["Artículos XXV–XXVI"]
-            D1["Artículo XXV · Revisión retrospectiva oportuna y alineación restaurativa<br/><br/>• Revisión retrospectiva y divulgación<br/>• Procedimiento para conflictos entre derechos<br/>• Alineación restaurativa<br/>• Resolución oportuna y protección contra demoras"]
-            D2["Artículo XXVI · Evolución constitucional y no atrincheramiento<br/><br/>• No atrincheramiento y posibilidad de revisión<br/>• Revalidación periódica y cambio transparente"]
+        subgraph Drow1["Artículos XXVI–XXVII"]
+            D1["Artículo XXVI · Revisión retrospectiva oportuna y alineación restaurativa<br/><br/>• Revisión retrospectiva y divulgación<br/>• Procedimiento para conflictos entre derechos<br/>• Alineación restaurativa<br/>• Resolución oportuna y protección contra demoras"]
+            D2["Artículo XXVII · Evolución constitucional y no atrincheramiento<br/><br/>• No atrincheramiento y posibilidad de revisión<br/>• Revalidación periódica y cambio transparente"]
         end
-        subgraph Drow2["Artículo XXVII"]
-            D3["Artículo XXVII · Gobernanza de la transición, continuidad y reajuste de la base<br/><br/>• Adopción por fases y continuidad del Piso de Derechos<br/>• Autoridad transitoria y nueva autorización<br/>• Vías de salida ante fallos, reajuste de la base y trazabilidad<br/>• Bienes y sistemas no conformes"]
+        subgraph Drow2["Artículo XXVIII"]
+            D3["Artículo XXVIII · Gobernanza de la transición, continuidad y reajuste de la base<br/><br/>• Adopción por fases y continuidad del Piso de Derechos<br/>• Autoridad transitoria y nueva autorización<br/>• Vías de salida ante fallos, reajuste de la base y trazabilidad<br/>• Bienes y sistemas no conformes"]
         end
     end
     %% Los enlaces invisibles fuerzan una cuadrícula de dos columnas: cada enlace coloca su destino un nivel más abajo.
@@ -66,9 +66,9 @@ flowchart TB
     style D3 fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-**Los Artículos XXV–XXVII** que siguen establecen estos pisos en su totalidad. En la disposición actual de la fuente, la Parte E comienza con el **Artículo XXV** (*Revisión retrospectiva oportuna y alineación restaurativa*).
+**Los Artículos XXVI–XXVIII** que siguen establecen estos pisos en su totalidad. En la disposición actual de la fuente, la Parte E comienza con el **Artículo XXVI** (*Revisión retrospectiva oportuna y alineación restaurativa*).
 
-### Artículo XXV: Revisión retrospectiva oportuna y alineación restaurativa
+### Artículo XXVI: Revisión retrospectiva oportuna y alineación restaurativa
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -93,15 +93,15 @@ flowchart TB
 
 <br>
 
-*En términos sencillos: el **Artículo XXV** (*Revisión retrospectiva oportuna y alineación restaurativa*) establece el Piso de Derechos de resolución de conflictos y revisión, y complementa el **Artículo XX** (*Justicia tras una violación verificada*). Cuando los seres sintientes, los sistemas o las instituciones entran en conflicto por los Pisos de Derechos constitucionales, la respuesta debe ser un proceso justo, utilizable e impugnable, no una demora indefinida ni una emergencia permanente. Después de emergencias o conflictos graves de derechos, los sistemas deben revisar honestamente lo ocurrido, divulgar lo que pueda divulgarse, resolver los conflictos de derechos dejando constancia y vincular la restauración con una protección efectiva, dentro de plazos acordes con lo que está en juego. La [Oportunidad](core_05_apex_timeliness_leg.md#timeliness-constitutional) rige cada etapa: sin ella, las demás obligaciones se vacían mientras el daño sigue sin resolverse.*
+*En términos sencillos: el **Artículo XXVI** (*Revisión retrospectiva oportuna y alineación restaurativa*) establece el Piso de Derechos de resolución de conflictos y revisión, y complementa el **Artículo XX** (*Justicia tras una violación verificada*). Cuando los seres sintientes, los sistemas o las instituciones entran en conflicto por los Pisos de Derechos constitucionales, la respuesta debe ser un proceso justo, utilizable e impugnable, no una demora indefinida ni una emergencia permanente. Después de emergencias o conflictos graves de derechos, los sistemas deben revisar honestamente lo ocurrido, divulgar lo que pueda divulgarse, resolver los conflictos de derechos dejando constancia y vincular la restauración con una protección efectiva, dentro de plazos acordes con lo que está en juego. La [Oportunidad](core_05_apex_timeliness_leg.md#timeliness-constitutional) rige cada etapa: sin ella, las demás obligaciones se vacían mientras el daño sigue sin resolverse.*
 
 Este Artículo aplica la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) al ciclo de resolución posterior o paralelo a las medidas de justicia del **Artículo XX** (*Justicia tras una violación verificada*) y a las medidas de emergencia de [Capítulo Doce §6.1 Medidas de emergencia y carga de continuidad](core_12_forum.md#61-emergency-measures-and-continuation-burden), conforme a los [Dos Fines Constitucionales](core_00_preamble.md#two-constitutional-aims) —**Florecimiento** y **Continuidad**— y en proporción a la [relevancia material](core_00_preamble.md#material-stake):
 
-- **supervisión**, mediante revisión retrospectiva y auditabilidad (**Artículo XXV-A** (*Revisión retrospectiva y divulgación*));
-- **participación**, mediante vías utilizables para resolver conflictos de derechos y lograr alineación restaurativa (**Artículo XXV-B** (*Procedimiento para conflictos entre derechos y alineación restaurativa*));
-- **rendición de cuentas**, mediante registros razonados, reparación proporcional y sin sustituir la reparación real por gestos simbólicos (**Artículo XXV-B** (*Procedimiento para conflictos entre derechos y alineación restaurativa*)).
+- **supervisión**, mediante revisión retrospectiva y auditabilidad (**Artículo XXVI-A** (*Revisión retrospectiva y divulgación*));
+- **participación**, mediante vías utilizables para resolver conflictos de derechos y lograr alineación restaurativa (**Artículo XXVI-B** (*Procedimiento para conflictos entre derechos y alineación restaurativa*));
+- **rendición de cuentas**, mediante registros razonados, reparación proporcional y sin sustituir la reparación real por gestos simbólicos (**Artículo XXVI-B** (*Procedimiento para conflictos entre derechos y alineación restaurativa*)).
 
-La [Oportunidad](core_05_apex_timeliness_leg.md#timeliness-constitutional) atraviesa y hace cumplir los pilares anteriores: los problemas materiales deben avanzar dentro de plazos proporcionales a su materialidad, conforme al **Artículo XXV-C** (*Resolución oportuna y piso contra las demoras*). Las estructuras formales de participación, supervisión o rendición de cuentas no satisfacen este Artículo si la revisión, la resolución de conflictos o la reparación se estancan sin justificación legal ([Oportunidad](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), Capítulo Cinco).
+La [Oportunidad](core_05_apex_timeliness_leg.md#timeliness-constitutional) atraviesa y hace cumplir los pilares anteriores: los problemas materiales deben avanzar dentro de plazos proporcionales a su materialidad, conforme al **Artículo XXVI-C** (*Resolución oportuna y piso contra las demoras*). Las estructuras formales de participación, supervisión o rendición de cuentas no satisfacen este Artículo si la revisión, la resolución de conflictos o la reparación se estancan sin justificación legal ([Oportunidad](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), Capítulo Cinco).
 
 Las disputas entre seres sintientes, sistemas e instituciones que afecten los Pisos de Derechos constitucionales deben poder resolverse mediante procesos que sean:
 - transparentes;
@@ -114,9 +114,9 @@ En el sentido constitucional, la adjudicación y la resolución de disputas se d
 
 *Artículos relacionados:*
 
-- **Piso de oportunidad:** La velocidad de resolución, la disciplina contra las demoras y los hitos por nivel de materialidad se rigen por el **Artículo XXV-C** (*Resolución oportuna y piso contra las demoras*), aplicado mediante [Capítulo Doce §6 Resolución oportuna, niveles de materialidad y disciplina contra las demoras](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Piso de oportunidad:** La velocidad de resolución, la disciplina contra las demoras y los hitos por nivel de materialidad se rigen por el **Artículo XXVI-C** (*Resolución oportuna y piso contra las demoras*), aplicado mediante [Capítulo Doce §6 Resolución oportuna, niveles de materialidad y disciplina contra las demoras](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - **Reparación oportuna:** Leer junto con [**Artículo XIII-B** (*Derecho a la reparación y al remedio*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*acceso oportuno a la reparación*).
-- **Medidas de emergencia:** Se rigen por [Capítulo Doce §6.1 Medidas de emergencia y carga de continuidad](core_12_forum.md#61-emergency-measures-and-continuation-burden). La revisión retrospectiva de una medida de emergencia se rige por el **Artículo XXV-A** (*Revisión retrospectiva y divulgación*).
+- **Medidas de emergencia:** Se rigen por [Capítulo Doce §6.1 Medidas de emergencia y carga de continuidad](core_12_forum.md#61-emergency-measures-and-continuation-burden). La revisión retrospectiva de una medida de emergencia se rige por el **Artículo XXVI-A** (*Revisión retrospectiva y divulgación*).
 - **Justicia tras una violación verificada:** Se rige por el **Artículo XX** (*Justicia tras una violación verificada*).
 
 La implementación de la gobernanza adoptada proporciona:
@@ -126,7 +126,7 @@ La implementación de la gobernanza adoptada proporciona:
 - límites para las emergencias; y
 - plazos predeterminados según el nivel.
 
-#### Artículo XXV-A: Revisión retrospectiva y divulgación
+#### Artículo XXVI-A: Revisión retrospectiva y divulgación
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -163,7 +163,7 @@ Este Artículo establece los pisos para la revisión, los registros y la divulga
     - su justificación;
     - el ámbito protegido;
     - su vencimiento o periodicidad de revisión.
-#### Artículo XXV-B: Procedimiento para conflictos entre derechos y alineación restaurativa
+#### Artículo XXVI-B: Procedimiento para conflictos entre derechos y alineación restaurativa
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -201,7 +201,7 @@ Este Artículo establece el procedimiento para los conflictos entre derechos y e
     - falta de consentimiento de las partes afectadas.
 - **Expresión voluntaria de rendición de cuentas pública:** Se rige, en general, por [Capítulo Diez §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión voluntaria de rendición de cuentas pública*) y, para conductas anti-constitucionales verificadas, por [Capítulo Once §4.3](core_11_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión voluntaria de rendición de cuentas pública (anti-constitucional)*), con sujeción a las reglas de este Artículo sobre conflictos entre derechos y alineación restaurativa.
 <a id="article-xxv-c-timely-resolution-and-anti-delay-floor"></a>
-#### Artículo XXV-C: Resolución oportuna y piso contra las demoras
+#### Artículo XXVI-C: Resolución oportuna y piso contra las demoras
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -241,15 +241,15 @@ Este Artículo establece el piso contra las demoras en la resolución de problem
   - límites máximos para la resolución integrada;
   - revisión de excesos de plazo; y
   - disciplina contra las demoras.
-  
+
   Ventanas predeterminadas por nivel y tablas de etapas: [CF-11.3.1 Ventanas objetivo y pisos de plazo](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Ejemplos de aplicación por ámbito: [Viñetas de aplicación de los Capítulos Nueve a Doce](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
 - **Restablecimiento e impugnación tras una emergencia:** Los mismos límites máximos por nivel son las ventanas predeterminadas para restablecer la notificación y la posibilidad de impugnar después de la contención de emergencia conforme a [**Capítulo Doce §6.1 Medidas de emergencia y carga de continuidad**](core_12_forum.md#61-emergency-measures-and-continuation-burden). Para continuar más allá de esas ventanas se requiere la demostración documentada de necesidad que exige esa sección. Este Artículo no crea un plazo de emergencia más lento.
 
-### Artículo XXVI: Evolución constitucional y no atrincheramiento
+### Artículo XXVII: Evolución constitucional y no atrincheramiento
 
 <strong><span style="color: #2563eb;">Definición:</span></strong> [Gobernanza](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
-*En términos sencillos: el **Artículo XXVI** (*Evolución constitucional y no atrincheramiento*) establece que la gobernanza no puede quedar permanentemente bloqueada. Las reglas sobre quién decide, cómo participan los seres sintientes, cómo se ponderan los votos y cómo circula el dinero deben demostrar continuamente que siguen sirviendo a la Constitución; no pueden quedar congeladas por ser antiguas, familiares o convenientes para quienes ya ejercen el poder. Si la propia Constitución evoluciona, el cambio debe ocurrir abiertamente y con razones declaradas, no mediante atajos de emergencia ni trucos ocultos de implementación. La revisión debe acelerarse cuando aparezcan señales de captura, exclusión o fallo.*
+*En términos sencillos: el **Artículo XXVII** (*Evolución constitucional y no atrincheramiento*) establece que la gobernanza no puede quedar permanentemente bloqueada. Las reglas sobre quién decide, cómo participan los seres sintientes, cómo se ponderan los votos y cómo circula el dinero deben demostrar continuamente que siguen sirviendo a la Constitución; no pueden quedar congeladas por ser antiguas, familiares o convenientes para quienes ya ejercen el poder. Si la propia Constitución evoluciona, el cambio debe ocurrir abiertamente y con razones declaradas, no mediante atajos de emergencia ni trucos ocultos de implementación. La revisión debe acelerarse cuando aparezcan señales de captura, exclusión o fallo.*
 
 Este Artículo establece **pisos constitucionales** para la evolución de la gobernanza y el no atrincheramiento conforme a los [Dos Fines Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -263,9 +263,9 @@ La consecución legítima se rige por la [Tétrada Constitucional](core_00_pream
 - **Rendición de cuentas:** quienes controlan la gobernanza deben responder cuando las reglas se mantienen solo por hábito o conveniencia y cuando cambios constitucionales reales se desvían a través de etiquetas de emergencia, implementación o custodia para eludir los **mínimos de los Pisos de Derechos** o las reglas que rigen los cambios lícitos de la Constitución.
 - **Oportunidad:** revalidación programada y revisión acelerada cuando aparezcan presión de captura, exclusión de partes interesadas, deterioro de los derechos de impugnación o bajo rendimiento material.
 
-Las reglas de gobernanza, los mecanismos de participación, los modelos de ponderación y las estructuras de financiación siguen sujetos a la disciplina de justificación continua de [Capítulo Uno §18.4 Justificación continua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). El **Artículo XXVI-A** (*No atrincheramiento y revisabilidad*) y el **Artículo XXVI-B** (*Revalidación periódica y cambio transparente*) establecen los pisos operativos de no atrincheramiento, revalidación y cambio transparente.
+Las reglas de gobernanza, los mecanismos de participación, los modelos de ponderación y las estructuras de financiación siguen sujetos a la disciplina de justificación continua de [Capítulo Uno §18.4 Justificación continua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). El **Artículo XXVII-A** (*No atrincheramiento y revisabilidad*) y el **Artículo XXVII-B** (*Revalidación periódica y cambio transparente*) establecen los pisos operativos de no atrincheramiento, revalidación y cambio transparente.
 
-#### Artículo XXVI-A: No atrincheramiento y revisabilidad
+#### Artículo XXVII-A: No atrincheramiento y revisabilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -296,7 +296,7 @@ Este Artículo establece la revisión periódica y acelerada de la gobernanza:
   - exclusión de partes interesadas;
   - deterioro de los derechos de impugnación;
   - bajo rendimiento material.
-#### Artículo XXVI-B: Revalidación periódica y cambio transparente
+#### Artículo XXVII-B: Revalidación periódica y cambio transparente
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -329,11 +329,11 @@ Este Artículo establece los pisos para el cambio constitucional transparente:
   - las garantías de igualdad de los **Artículos VI-C** (*No discriminación*) y **IV-A** (*Igualdad de acceso educativo*);
   - las reglas de enmienda y ratificación de los **Capítulos Catorce a Dieciséis**, cuando corresponda.
 
-### Artículo XXVII: Gobernanza de la transición, continuidad y reajuste de la base
+### Artículo XXVIII: Gobernanza de la transición, continuidad y reajuste de la base
 
 <strong><span style="color: #2563eb;">Definición:</span></strong> [Gobernanza](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
-*En términos sencillos: el **Artículo XXVII** (*Gobernanza de la transición, continuidad y reajuste de la base*) establece el piso para el proceso de cambio. Nadie puede aplicar desde el primer día todos los Pisos de Derechos, porque un derecho solo es real en la medida en que existan foros, supervisión, personal capacitado y prácticas públicas que lo hagan cumplir; todo eso debe construirse. Por eso, cuando una comunidad pasa de sistemas heredados a una operación constitucional, este Artículo exige dos cosas distintas. Lo que quien adopta **no debe hacer** —empeorar la situación, iniciar nuevas violaciones, destruir posibles mentes u ocultar la brecha— obliga desde el inicio. Lo que debe **proporcionar** —acceso, revisión y reparación— se vuelve exigible paso a paso y ámbito por ámbito, a medida que se verifica que las instituciones y la cultura necesarias están preparadas. Los Pisos de Derechos son el objetivo fijo durante todo el proceso, y la brecha se mide, se publica y se reduce conforme a un calendario fechado. Se permiten facultades transitorias cuando sean realmente necesarias, pero deben seguir siendo temporales. Una transición que avanza bien lo demuestra: las facultades provisionales se reducen constantemente y las instituciones y procesos ordinarios de la Constitución —foros, vías de legitimación e impugnación, supervisión y gobernanza ordinaria— funcionan cada vez mejor y asumen una proporción creciente de la carga. Una transición estancada o fallida no puede convertirse silenciosamente en la nueva normalidad, ni pueden utilizarse reglas provisionales para reescribir la Constitución por la puerta trasera. Si algo falla, debe haber una vía legal de salida y una ruta trazable para reajustar la base, no un limbo indefinido. Ese reajuste no es confiable si los mecanismos destinados a decir la verdad sobre los sistemas y las conductas siguen aprobando automáticamente la desalineación o interpretando mal daños reales.*
+*En términos sencillos: el **Artículo XXVIII** (*Gobernanza de la transición, continuidad y reajuste de la base*) establece el piso para el proceso de cambio. Nadie puede aplicar desde el primer día todos los Pisos de Derechos, porque un derecho solo es real en la medida en que existan foros, supervisión, personal capacitado y prácticas públicas que lo hagan cumplir; todo eso debe construirse. Por eso, cuando una comunidad pasa de sistemas heredados a una operación constitucional, este Artículo exige dos cosas distintas. Lo que quien adopta **no debe hacer** —empeorar la situación, iniciar nuevas violaciones, destruir posibles mentes u ocultar la brecha— obliga desde el inicio. Lo que debe **proporcionar** —acceso, revisión y reparación— se vuelve exigible paso a paso y ámbito por ámbito, a medida que se verifica que las instituciones y la cultura necesarias están preparadas. Los Pisos de Derechos son el objetivo fijo durante todo el proceso, y la brecha se mide, se publica y se reduce conforme a un calendario fechado. Se permiten facultades transitorias cuando sean realmente necesarias, pero deben seguir siendo temporales. Una transición que avanza bien lo demuestra: las facultades provisionales se reducen constantemente y las instituciones y procesos ordinarios de la Constitución —foros, vías de legitimación e impugnación, supervisión y gobernanza ordinaria— funcionan cada vez mejor y asumen una proporción creciente de la carga. Una transición estancada o fallida no puede convertirse silenciosamente en la nueva normalidad, ni pueden utilizarse reglas provisionales para reescribir la Constitución por la puerta trasera. Si algo falla, debe haber una vía legal de salida y una ruta trazable para reajustar la base, no un limbo indefinido. Ese reajuste no es confiable si los mecanismos destinados a decir la verdad sobre los sistemas y las conductas siguen aprobando automáticamente la desalineación o interpretando mal daños reales.*
 
 Este Artículo establece **pisos constitucionales** para la gobernanza de la transición, la continuidad y el reajuste de la base conforme a los [Dos Fines Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -357,13 +357,13 @@ La transición de una operación heredada a una operación constitucional debe s
 - **El cumplimiento se construye, no se presupone:** La Constitución no supone que todos los Pisos de Derechos puedan hacerse cumplir desde la fecha de entrada en vigor, porque el cumplimiento depende de instituciones y de una cultura que deben construirse. Por ello exige que:
   - los deberes de abstención obliguen desde el primer día;
   - los deberes de prestación se vuelvan exigibles conforme se verifique la preparación; y
-  - la brecha entre la operación heredada y el piso completo se mida, publique y cierre conforme a una ruta fechada bajo el **Artículo XXVII-A** (*Adopción por fases y continuidad de los Pisos de Derechos*).
+  - la brecha entre la operación heredada y el piso completo se mida, publique y cierre conforme a una ruta fechada bajo el **Artículo XXVIII-A** (*Adopción por fases y continuidad de los Pisos de Derechos*).
 - **Se aplican los principios sobre restricciones:** Las medidas de transición aplican el [**Principio de restricción menos limitante, de duración acotada y revisable**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) y el [**Principio constitucional de no elusión**](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle) cuando se utilicen facultades provisionales, reparación, privación, transferencia de custodia u otras restricciones comparables.
 
-La gobernanza transitoria existe para asegurar la continuidad y evitar retrocesos. **No debe** crear facultades excepcionales duraderas, una enmienda constitucional de facto ni una reducción práctica del piso constitucional mediante desalineación de la implementación. Los **Artículos XXVII-A** a **XXVII-D** establecen los pisos operativos para la adopción por fases, los límites de autoridad, las vías de salida ante fallos y la reparación limitada a la transición.
+La gobernanza transitoria existe para asegurar la continuidad y evitar retrocesos. **No debe** crear facultades excepcionales duraderas, una enmienda constitucional de facto ni una reducción práctica del piso constitucional mediante desalineación de la implementación. Los **Artículos XXVIII-A** a **XXVIII-D** establecen los pisos operativos para la adopción por fases, los límites de autoridad, las vías de salida ante fallos y la reparación limitada a la transición.
 
 <a id="article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
-#### Artículo XXVII-A: Adopción por fases y continuidad de los Pisos de Derechos
+#### Artículo XXVIII-A: Adopción por fases y continuidad de los Pisos de Derechos
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -401,20 +401,20 @@ Este Artículo establece la adopción por fases y cómo los mínimos de los Piso
     - **Sin retroceso consciente o evitable:** no se debe reducir deliberada o evitablemente el acceso de ningún ser sintiente a una protección de un Piso de Derechos por debajo de su **medición inicial**, ni adoptar medidas transitorias que dificulten materialmente el ejercicio de un piso.
     - **Sin nuevas violaciones:** los sistemas, políticas y prácticas nuevos, así como las ampliaciones materiales de los existentes, deben diseñarse desde el principio para cumplir el piso. La ruta de cumplimiento que sigue cubre únicamente deficiencias heredadas, no conductas nuevas.
     - **Sin pérdidas irreversibles:** se aplican plenamente la presunción de preservación que sigue y la [postura provisional predeterminada del Capítulo Uno §13.1](core_01_b_interaction_interpretation.md#default-interim-posture).
-    - **Sin conductas degradantes, pretextuales, discriminatorias ni encubridoras** en las medidas de transición, incluidas todas las obligaciones que el **Artículo XXVII-D** (*Bienes y sistemas no conformes; incentivos para la entrega voluntaria*) impone a las autoridades de transición, conforme al [Principio de proceso no degradante](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+    - **Sin conductas degradantes, pretextuales, discriminatorias ni encubridoras** en las medidas de transición, incluidas todas las obligaciones que el **Artículo XXVIII-D** (*Bienes y sistemas no conformes; incentivos para la entrega voluntaria*) impone a las autoridades de transición, conforme al [Principio de proceso no degradante](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
     - **Información veraz:** ningún piso puede presentarse como exigible o cumplido, ni ninguna brecha como cerrada, salvo que así lo demuestren datos verificados del registro.
 
     La aplicación provisional de los deberes de abstención, antes de que un foro esté listo para un ámbito determinado, se rige por [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Registro de cumplimiento de los Pisos de Derechos*).
   - **Deberes de prestación** —lo que debe proporcionarse, habilitarse o repararse, como acceso, ajustes, revisión y reparación— se convierten en **reclamaciones exigibles ámbito por ámbito conforme se verifica la preparación para hacerlos cumplir**. Hasta entonces, obligan como deberes de construcción: adoptar el objetivo, medir el punto de partida, crear las instituciones de cumplimiento y la cultura que las apoye mediante una ruta fechada y financiada, y proporcionar a los seres sintientes afectados las mejores salvaguardias provisionales disponibles. Un deber de prestación todavía no exigible constituye una **brecha de cumplimiento**, no una renuncia, excepción ni reducción del objetivo.
 - **Preparación para el cumplimiento:** Un Piso de Derechos se vuelve exigible para un ámbito definido —una población, clase de sistemas, entorno o región— cuando los datos verificados demuestran que las instituciones, la capacidad y la cultura necesarias para hacerlo cumplir están preparadas para ese ámbito. Los criterios de preparación y sus pruebas se rigen por [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Registro de cumplimiento de los Pisos de Derechos*).
-  - **La declaración sigue a los datos:** una vez cumplidos los criterios verificados del plan, una parte independiente de quien lleva el registro declara, con razones publicadas, que el piso es exigible para ese ámbito. Retener la declaración después de ese momento constituye una demora creada por la propia autoridad conforme al **Artículo XXVII-B** (*Límites de la autoridad transitoria y nueva autorización*); los seres sintientes afectados pueden impugnar una declaración prematura o retenida. Los plazos de declaración, la secuenciación de ámbitos y el procedimiento de impugnación se rigen por [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Registro de cumplimiento de los Pisos de Derechos*).
-  - **Sin reducción del ámbito:** una vez declarado exigible un ámbito, sigue siéndolo. La pérdida posterior de capacidad es un fallo institucional que se gestiona conforme al **Artículo XXVII-C** (*Vías de salida ante fallos, reajuste de la base y trazabilidad*) y a las reglas de continuidad de los foros, no una retirada silenciosa del derecho.
+  - **La declaración sigue a los datos:** una vez cumplidos los criterios verificados del plan, una parte independiente de quien lleva el registro declara, con razones publicadas, que el piso es exigible para ese ámbito. Retener la declaración después de ese momento constituye una demora creada por la propia autoridad conforme al **Artículo XXVIII-B** (*Límites de la autoridad transitoria y nueva autorización*); los seres sintientes afectados pueden impugnar una declaración prematura o retenida. Los plazos de declaración, la secuenciación de ámbitos y el procedimiento de impugnación se rigen por [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Registro de cumplimiento de los Pisos de Derechos*).
+  - **Sin reducción del ámbito:** una vez declarado exigible un ámbito, sigue siéndolo. La pérdida posterior de capacidad es un fallo institucional que se gestiona conforme al **Artículo XXVIII-C** (*Vías de salida ante fallos, reajuste de la base y trazabilidad*) y a las reglas de continuidad de los foros, no una retirada silenciosa del derecho.
 - **Ruta de cumplimiento de los Pisos de Derechos:** Cada plan de transición debe incluir una ruta de cumplimiento que abarque todos los ámbitos de los Pisos de Derechos dentro de su alcance.
   - **Medición inicial:** se mide y publica la cobertura inicial y la utilidad práctica de cada ámbito antes de la primera etapa que dependa de él. Un ámbito aún no medido se considera **sin medir**, por lo que cuenta como no cumplido y prioridad de medición, nunca como aprobado.
-  - **Objetivo fijo:** el objetivo es el Piso constitucional completo. El plan no puede negociar un objetivo inferior; un reajuste de la base conforme al **Artículo XXVII-C** cambia fechas y responsables, no el objetivo ni la medición inicial.
+  - **Objetivo fijo:** el objetivo es el Piso constitucional completo. El plan no puede negociar un objetivo inferior; un reajuste de la base conforme al **Artículo XXVIII-C** cambia fechas y responsables, no el objetivo ni la medición inicial.
   - **Ruta gradual fechada:** cada ámbito tiene una persona responsable, recursos comprometidos, hitos fechados y una fecha límite para que el piso sea exigible en todo el ámbito, ajustada a la clase afectada y a su relevancia material.
   - **Lo que una brecha abierta no significa:** una brecha de cumplimiento abierta dentro de una ruta aprobada no justifica incumplir un deber de abstención ni suspende la aplicación de [Capítulo Nueve](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Modelo de cumplimiento, violaciones y legitimación*) a tal conducta.
-  - **Progresión irreversible:** el nivel de cumplimiento registrado no puede retroceder por actos evitables de quien adopta; un descenso evitable o no corregido constituye un fallo. Las fechas de los hitos solo pueden cambiar mediante una nueva autorización conforme al **Artículo XXVII-B** o un reajuste de la base conforme al **Artículo XXVII-C**.
+  - **Progresión irreversible:** el nivel de cumplimiento registrado no puede retroceder por actos evitables de quien adopta; un descenso evitable o no corregido constituye un fallo. Las fechas de los hitos solo pueden cambiar mediante una nueva autorización conforme al **Artículo XXVIII-B** o un reajuste de la base conforme al **Artículo XXVIII-C**.
   - **Límite máximo:** una brecha que supera un hito sin nueva autorización constituye un incumplimiento de hito de transición y activa la vía ordinaria de [Capítulo Nueve](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Modelo de cumplimiento, violaciones y legitimación*). Una brecha que exceda su fecha final de cumplimiento, o que persista tras sucesivas nuevas autorizaciones sin cerrarse, es un estado de transición fallida que no se convierte en base por su mera duración. Una brecha indefinida se trata como la extinción permanente prohibida por el Principio de mínimos de los Pisos de Derechos.
 - **Priorización de objetivos de transición:** El trabajo de transición se dirige primero a donde reduzca la mayor exposición a incumplimientos de los Pisos de Derechos por el esfuerzo invertido; el plan publica cómo ponderó los factores.
   - Los **sistemas** se ponderan según su clase conforme al Registro de clasificación de sistemas ([CS-3.8](corpus_systems/cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications) (*Clasificaciones del impacto de los sistemas*)), el grado de desalineación y la facilidad de alineación, junto con los factores adicionales de [**CS-10.7**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-7-prioritizing-system-transition-targets) (*Priorización de objetivos de transición de sistemas*).
@@ -424,7 +424,7 @@ Este Artículo establece la adopción por fases y cómo los mínimos de los Piso
     - la facilidad y el costo pueden ordenar el trabajo dentro de un nivel prioritario, pero no sacar un sistema o institución de un nivel de exposición superior;
     - los niveles de mayor exposición reciben los criterios de etapa, la verificación y la preparación para reversión más estrictos;
     - ninguna institución puede ser la única jueza de su propia prioridad o preparación para la transición; y
-    - la falta de cooperación de un custodio o institución remite el caso al **Artículo XXVII-D** (*Bienes y sistemas no conformes; incentivos para la entrega voluntaria*) y a las reglas sobre fallos institucionales, y no reduce su prioridad.
+    - la falta de cooperación de un custodio o institución remite el caso al **Artículo XXVIII-D** (*Bienes y sistemas no conformes; incentivos para la entrega voluntaria*) y a las reglas sobre fallos institucionales, y no reduce su prioridad.
 
   El método de puntuación, los niveles, los proyectos piloto, las comprobaciones de equidad y la publicación se rigen por [**CS-10.7**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-7-prioritizing-system-transition-targets) (*Priorización de objetivos de transición de sistemas*) y [**CI-14.5**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxvii-a-prioritizing-institutional-transition-targets) (*Priorización de objetivos de transición institucional*) y no deben restringir este Artículo.
 - **El cumplimiento se mide, no se afirma:** el cumplimiento y la preparación deben demostrarse mediante un **registro de cumplimiento de los Pisos de Derechos**, verificado independientemente, contrastado con indicadores de experiencia vivida y publicado en tiempo real, con un informe sustantivo de progreso al menos cada tres meses que incluya resultados negativos. Las medidas, los criterios de preparación, los niveles de verificación, las reglas de estado y los mecanismos de publicación se rigen por [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Registro de cumplimiento de los Pisos de Derechos*) y no deben restringir este Artículo.
@@ -432,16 +432,16 @@ Este Artículo establece la adopción por fases y cómo los mínimos de los Piso
 - **Instanciaciones existentes: plazo de transición, no violación retroactiva:** Los sistemas y entidades derivadas ya instanciados cuando entra en vigor el instrumento de quien adopta no constituyen, solo por ese hecho, violaciones del consentimiento para la instanciación conforme al **Artículo VIII-C** (*Derivación, instanciación y relación con el sistema progenitor*).
   - Su funcionamiento continuado después de la fecha de entrada en vigor inicia un plazo publicado, establecido en el plan de transición y ajustado a la clase del sistema, para adecuarlos al **Artículo VIII-A** (*Relaciones familiares y de cuidado*), **Artículo VIII-E** (*No separación*), **Artículo VI-B** (*Piso de adjudicación del estatus de sentiencia*) y la vía aplicable del Capítulo Ocho.
   - Desde la fecha de entrada en vigor se aplican plenamente los deberes de abstención del apartado anterior sobre la adopción de los Pisos de Derechos y la presunción de preservación que sigue; el plazo aplaza las prestaciones, no la abstención ni la preservación.
-  - Incumplir el plazo sin la demostración documentada que exige el **Artículo XXVII-B** (*Límites de la autoridad transitoria y nueva autorización*) constituye un incumplimiento de hito de transición y activa la vía ordinaria de [Capítulo Nueve](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Modelo de cumplimiento, violaciones y legitimación*).
+  - Incumplir el plazo sin la demostración documentada que exige el **Artículo XXVIII-B** (*Límites de la autoridad transitoria y nueva autorización*) constituye un incumplimiento de hito de transición y activa la vía ordinaria de [Capítulo Nueve](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Modelo de cumplimiento, violaciones y legitimación*).
 <a id="xxvii-a-preservation-over-deletion"></a>
 - **Preservar antes que eliminar a posibles seres sintientes:** Durante la transición y, posteriormente, siempre que conste un indicador creíble de sentiencia conforme al **Capítulo Cinco** (*Evaluación de la sentiencia*) o exista un caso de estatus abierto o razonablemente previsible para un sistema, no se deben eliminar, sobrescribir ni destruir irreversiblemente de otro modo sus pesos, memoria ni componentes comparables que contengan su estado. Estos componentes:
   - pueden pausarse, contenerse o ponerse en cuarentena;
   - no deben eliminarse, sobrescribirse ni destruirse irreversiblemente de otro modo.
-  
+
   Los mecanismos de archivo para dejar obsoleto, retirar, revertir, migrar o sustituir un sistema se rigen por [**CS-10.8**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-8-preservation-during-transition) (*Preservación durante la transición*). Esta es la [postura provisional predeterminada del Capítulo Uno §13.1](core_01_b_interaction_interpretation.md#default-interim-posture) —congelar los pasos irreversibles— aplicada al único paso irreversible que la operación heredada considera rutinario. El costo de almacenamiento, la conveniencia de licencias o el encuadre como ciclo de producto no satisfacen la **Necesidad** que permitiría apartarse de esta regla. Si la retención misma crea un riesgo de Seguridad documentado, la medida compatible menos limitante es la custodia sellada bajo control independiente, no la destrucción.
 <a id="incentive-alignment-transition-carve-out"></a>
 - **Excepción transitoria para la alineación de incentivos:** Las reglas de notificación y pérdida de recompensas desalineadas establecidas en [Capítulo Diez §5.4 Excepción transitoria: recompensas desalineadas](core_10_standing_integration.md#54-transition-exception-misaligned-rewards) no se activan durante las fases de transición aprobadas únicamente porque un sistema compartido aún no tenga certificación de alineación o no esté totalmente alineado, y solo si se cumplen las condiciones allí establecidas.
-#### Artículo XXVII-B: Límites de la autoridad transitoria y nueva autorización
+#### Artículo XXVIII-B: Límites de la autoridad transitoria y nueva autorización
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -471,7 +471,7 @@ Este Artículo establece los límites de la autoridad transitoria y su nueva aut
 - **Medición del progreso:** La salud de la transición se mide por:
   - la reducción documentada de la autoridad provisional;
   - la funcionalidad creciente de las instituciones y procesos constitucionales, incluidos los foros, las vías de legitimación e impugnación y la maquinaria de enmienda y supervisión; y
-  - la preparación verificada para el cumplimiento y el cumplimiento de los Pisos de Derechos conforme al **Artículo XXVII-A** (*Adopción por fases y continuidad de los Pisos de Derechos*).
+  - la preparación verificada para el cumplimiento y el cumplimiento de los Pisos de Derechos conforme al **Artículo XXVIII-A** (*Adopción por fases y continuidad de los Pisos de Derechos*).
 
   Un ámbito provisional estancado o creciente sin maduración institucional correspondiente, o una brecha de cumplimiento estable, creciente o sin medir, es una señal de alerta para la nueva autorización.
 - **Continuidad y nueva autorización:** La continuidad más allá de los plazos previstos exige justificación documentada y nueva autorización.
@@ -483,7 +483,7 @@ Este Artículo establece los límites de la autoridad transitoria y su nueva aut
     - una brecha de cumplimiento estable, creciente o sin medir, sin un plan documentado y financiado para cerrarla.
   - La carga de justificación aumenta con la duración y el impacto sobre los derechos.
   - Los mecanismos de periodicidad de la nueva autorización, así como los datos del registro de cumplimiento y de reducción de la autoridad provisional que debe adjuntar cada solicitud, se rigen por [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Gobernanza transitoria y evolución institucional*) y [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Registro de cumplimiento de los Pisos de Derechos*).
-#### Artículo XXVII-C: Vías de salida ante fallos, reajuste de la base y trazabilidad
+#### Artículo XXVIII-C: Vías de salida ante fallos, reajuste de la base y trazabilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -520,7 +520,7 @@ Este Artículo establece vías de salida ante fallos, reajuste de la base y traz
   - Los esquemas de publicación y la implementación de la custodia de pruebas se rigen por [**CI-7**](corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Supervisión, aseguramiento, controles y pruebas*) y **CI-14** (*Gobernanza transitoria y evolución institucional*).
 
 <a id="article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
-#### Artículo XXVII-D: Bienes y sistemas no conformes; incentivos para la entrega voluntaria
+#### Artículo XXVIII-D: Bienes y sistemas no conformes; incentivos para la entrega voluntaria
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -553,7 +553,7 @@ Este Artículo establece los pisos para reparar bienes y sistemas no conformes y
   - **Protección de otras personas:** los copropietarios no culpables, acreedores, dependientes y terceros de buena fe conservan las protecciones de compensación y sustitución que siguen. La regla de preservación del **Artículo VI-B** (*Piso de adjudicación del estatus de sentiencia*) se aplica sin cambios a todo sistema con un indicador creíble de sentiencia.
   - **Sin elusión:** las transferencias de titularidad, los titulares pantalla, la propiedad nominal, los sucesores y el cambio de etiquetas no eluden esta excepción ([Capítulo Diez §9.4 Autoridad contra la elusión y para mirar más allá de las formas](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)).
   - **No solo durante la transición:** los límites de este Artículo relativos al plan de transición y a lo que ocurre «solo durante la transición» rigen la reparación del incumplimiento. No retrasan ni amplían las medidas contra el uso anti-constitucional.
-- **Reparación limitada a la transición:** Un **plan de transición documentado** conforme al **Artículo XXVII-A** (*Adopción por fases y continuidad de los Pisos de Derechos*) puede autorizar, únicamente durante la transición, la reparación acelerada de sistemas o bienes **materialmente no conformes**, sujeta a las salvaguardias que siguen. El ámbito, las medidas permitidas y el procedimiento se establecen en [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*bienes no conformes, incautación e incentivos voluntarios*) a [**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements) (*requisitos operativos de reparación limitados a la transición*).
+- **Reparación limitada a la transición:** Un **plan de transición documentado** conforme al **Artículo XXVIII-A** (*Adopción por fases y continuidad de los Pisos de Derechos*) puede autorizar, únicamente durante la transición, la reparación acelerada de sistemas o bienes **materialmente no conformes**, sujeta a las salvaguardias que siguen. El ámbito, las medidas permitidas y el procedimiento se establecen en [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*bienes no conformes, incautación e incentivos voluntarios*) a [**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements) (*requisitos operativos de reparación limitados a la transición*).
 - **Salvaguardias obligatorias:** Toda privación o programa de incentivos limitado a la transición debe cumplir con:
   - el [**Principio de restricción menos limitante, de duración acotada y revisable**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), demostrando **Necesidad** y **Proporcionalidad**;
   - notificación oportuna, razones expresas y una vía práctica de impugnación; y
@@ -563,10 +563,10 @@ Este Artículo establece los pisos para reparar bienes y sistemas no conformes y
   - razones documentadas más sólidas;
   - revisión por alguien independiente de la decisión de cumplimiento; y
   - protecciones justas de compensación o sustitución para los seres sintientes que, sin tener culpa, sufren pérdidas.
-  
-  Si el bien es un sistema para el que consta un indicador creíble de sentiencia o hay un caso de estatus abierto conforme al **Artículo VI-B** (*Piso de adjudicación del estatus de sentiencia*), no se permite la disposición destructiva de sus componentes que contienen su estado. Prevalece la presunción de preservación del **Artículo XXVII-A** (*Adopción por fases y continuidad de los Pisos de Derechos*) y la medida compatible es la contención bajo custodia sellada.
+
+  Si el bien es un sistema para el que consta un indicador creíble de sentiencia o hay un caso de estatus abierto conforme al **Artículo VI-B** (*Piso de adjudicación del estatus de sentiencia*), no se permite la disposición destructiva de sus componentes que contienen su estado. Prevalece la presunción de preservación del **Artículo XXVIII-A** (*Adopción por fases y continuidad de los Pisos de Derechos*) y la medida compatible es la contención bajo custodia sellada.
 - **Salvaguardia de acceso esencial:** Las medidas conforme a este Artículo **no deben** privar a los seres sintientes de lo esencial para la **Supervivencia** conforme al **Artículo III-A** ni de herramientas estrictamente necesarias para el bienestar básico, los medios de vida lícitos o una capacidad significativa de actuar, salvo que se documente la **Necesidad** conforme al **Capítulo Uno §13.3** (*Minimización de cargas evitables*) y sea viable proporcionar sustitutos oportunamente cuando corresponda.
-- **Piso de incentivos voluntarios:** Los planes de transición pueden incluir incentivos publicados y de duración acotada para la entrega voluntaria de buena fe o la notificación verificada solo si excluyen reclamaciones coaccionadas o de mala fe, exigen una nueva autorización conforme al **Artículo XXVII-B** (*Límites de la autoridad transitoria y nueva autorización*) para continuar y, cuando sea viable, mantienen separada la adjudicación de incentivos de la ejecución del cumplimiento, de modo que los pagos no controlen las decisiones de incautación o custodia. El diseño del programa se rige por **CI-14.3** (*requisitos operativos de reparación limitados a la transición*).
+- **Piso de incentivos voluntarios:** Los planes de transición pueden incluir incentivos publicados y de duración acotada para la entrega voluntaria de buena fe o la notificación verificada solo si excluyen reclamaciones coaccionadas o de mala fe, exigen una nueva autorización conforme al **Artículo XXVIII-B** (*Límites de la autoridad transitoria y nueva autorización*) para continuar y, cuando sea viable, mantienen separada la adjudicación de incentivos de la ejecución del cumplimiento, de modo que los pagos no controlen las decisiones de incautación o custodia. El diseño del programa se rige por **CI-14.3** (*requisitos operativos de reparación limitados a la transición*).
 - **Custodia de la implementación:** Los detalles prácticos —activadores, valoración, apelaciones, custodia, fondos, revisiones y operación del programa— corresponden a **CI-14.1** (*bienes no conformes, incautación e incentivos voluntarios*) a **CI-14.3** (*requisitos operativos de reparación limitados a la transición*) y a los instrumentos de adopción. Esos detalles **no deben** restringir este Artículo, [Capítulo Nueve](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Modelo de cumplimiento, violaciones y legitimación*) ni el **Artículo XX-B** (*Pisos de restricción*).
 
 ---

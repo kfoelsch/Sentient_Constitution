@@ -91,35 +91,6 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### سنجش به‌موقع‌بودن
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*به زبان ساده: این پرسش‌ها بررسی می‌کنند که آیا مسائل واقعاً به‌موقع پیش می‌روند، نه اینکه فقط داشبوردی حجم پردازش را نشان دهد. این بخش جایگاه خانواده سنجش به‌موقع‌بودن در فصل پنجم است؛ §2 دیباچه (نمای کلی سنجه‌ها) پرسش ساده دسته را نگه می‌دارد و جدول خانواده و ارجاع به تعریف‌ها در اینجا قرار دارند.*
-
-*مادیّت ([Materiality](core_05_band_oversight.md#materiality)) یکپارچه‌ساز است، نه دسته‌ای جداگانه؛ شدت کاربرد این خانواده را بر پایه [material stake](core_00_preamble.md#material-stake) تنظیم می‌کند.*
-
-| خانواده سنجش | پرسش ساده | کاربرد اصلی در قانون اساسی |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | آیا اختلاف‌ها زمانی حل می‌شوند که راه جبران هنوز اهمیت دارد؟ | نمی‌گذارد تأخیر حقوق را بی‌محتوا کند. |
-| انضباط ضدتأخیر و مسیرهای حل‌وفصل | آیا مشوق‌ها و ساختارها از انباشت عمدی پرونده، تسخیر و مهلت‌های بی‌اثر جلوگیری می‌کنند؟ | نظام‌های تأخیر و [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways) را شناسایی می‌کند. |
-
-این سنجه‌ها می‌پرسند آیا زمان‌بندی فرایند، مسیرهای حل‌وفصل و سرعت جبران، ضلع **به‌موقع‌بودن** در [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) را در عمل واقعی نگه می‌دارند یا فقط روی کاغذ.
-
-**فایل پیشین:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**فایل بعدی:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### اندازه‌گیری به‌هنگامی

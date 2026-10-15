@@ -99,32 +99,6 @@
 ---
 
 <a id="participation-measurement-family"></a>
-
-### सहभाग
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: प्रभावित पक्षांना केवळ औपचारिक सल्लामसलत नव्हे, तर खरा आवाज, प्रवेश आणि न्याय्यरीत्या आव्हान देण्याची संधी मिळते का, हे हे प्रश्न तपासतात. पाचव्या अध्यायात सहभाग मापन-कुटुंबाचे स्थान येथे आहे; प्रस्तावनेतील §2 श्रेणीचा सोपा प्रश्न ठेवतो आणि कुटुंबाचा तक्ता व व्याख्यांकडे निर्देश येथे आहेत.*
-
-*महत्त्वता ([Materiality](core_05_band_oversight.md#materiality)) एकात्मिक आहे, स्वतंत्र मापन-श्रेणी नाही; [material stake](core_00_preamble.md#material-stake) नुसार या कुटुंबाचा लागू होण्याचा जोर ती ठरवते.*
-
-| मापन-कुटुंब | सोपा प्रश्न | मुख्य घटनात्मक उपयोग |
-|---|---|---|
-| न्याय्यता, प्रवेश आणि कृतीक्षमता | प्रभावित संवेदनशील जीवांशी न्याय्य वर्तन होते का आणि ते सहभागी होऊन शिकू शकतात का? | वगळणे, विषम परिणाम आणि पोकळ प्रवेश रोखते. |
-| गोपनीयता आणि डेटा-व्यवस्थापन | माहितीविषयक स्वनिर्णय हाताळणीच्या संपूर्ण जीवनचक्रात जपला जातो का? | विभागणी, संदर्भांपलीकडील जोडणी आणि उघड करण्याचा दबाव आवाज निष्प्रभ करू नये याची काळजी घेते. |
-
-**मागील फाइल:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
-**पुढील फाइल:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
-
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### सहभाग मोजणे (प्रस्तावना मापन कुटुंब)

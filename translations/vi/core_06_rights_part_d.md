@@ -14,7 +14,7 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn đọc**. Nội dung này không bổ sung, loại bỏ hay thu hẹp nghĩa vụ ràng buộc ở nơi khác trong chương này hoặc các chương khác.
 >
-> **Phần A** trong [core_06_rights_part_a.md](core_06_rights_part_a.md) quy định hệ thống ràng buộc mặc định áp dụng cho toàn chương, thứ tự đọc ưu tiên hành tinh và các trung tâm diễn giải. **Phần D** trình bày **các Điều XIX–XXIV** theo thứ tự đó.
+> **Phần A** trong [core_06_rights_part_a.md](core_06_rights_part_a.md) quy định hệ thống ràng buộc mặc định áp dụng cho toàn chương, thứ tự đọc ưu tiên hành tinh và các trung tâm diễn giải. **Phần D** trình bày **các Điều XIX–XXV** theo thứ tự đó.
 
 </details>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-*Nói đơn giản: Phần D đề cập đến tư cách khởi kiện và tình trạng tham gia, công lý sau vi phạm đã được xác minh, khả năng tương tác và rời khỏi hệ thống, tính dễ hiểu, phân tích nguyên nhân gốc, cùng việc diễn giải và rà soát hiến pháp — các Điều XIX đến XXIV.*
+*Nói đơn giản: Phần D đề cập đến tư cách khởi kiện và tình trạng tham gia, công lý sau vi phạm đã được xác minh, khả năng tương tác và rời khỏi hệ thống, tính dễ hiểu, phân tích nguyên nhân gốc, cùng việc diễn giải và rà soát hiến pháp — các Điều XIX đến XXV.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn đọc (không có hiệu lực vận hành): sơ đồ các điều khoản trong Phần D</span></strong></summary>
@@ -43,16 +43,19 @@ flowchart TB
     subgraph Dgrid[" "]
         direction TB
         subgraph Drow1["Các Điều XIX–XX"]
-            D1["Điều XIX · Tư cách khởi kiện và tình trạng tham gia<br/><br/>• Phân biệt tư cách khởi kiện<br/>• Quyền phản đối và giới hạn hạn chế tương xứng<br/>• Điều kiện đủ, trách nhiệm và kiểm toán liên tục của lộ trình định danh<br/>• Di chuyển, tị nạn và không rơi vào tình trạng vô quốc tịch"]
+            D1["Điều XIX · Tư cách khởi kiện và tình trạng tham gia<br/><br/>• Phân biệt tư cách khởi kiện<br/>• Quyền phản đối và giới hạn hạn chế tương xứng<br/>• Đóng góp, rào cản năng lực và điều kiện đủ của lộ trình định danh<br/>• Vi phạm, khóa tư cách và khóa đặc biệt đối với bỏ phiếu"]
             D2["Điều XX · Công lý sau vi phạm đã xác minh<br/><br/>• Mục tiêu và phạm vi công lý<br/>• Ngưỡng tối thiểu đối với hạn chế"]
         end
         subgraph Drow2["Các Điều XXI–XXII"]
-            D3["Điều XXI · Khả năng tương tác, tính di chuyển, di chuyển, tị nạn và tính toàn vẹn của việc rời đi<br/><br/>• Tính di chuyển<br/>• Ranh giới tương tác có đi có lại<br/>• Quy tắc chống khóa chặt<br/>• Di chuyển, di cư, tị nạn và không rơi vào tình trạng vô quốc tịch"]
-            D4["Điều XXII · Tính dễ hiểu và quản trị độ phức tạp<br/><br/>• Quyền được hiểu ở mức tương xứng<br/>• Kiểm toán độ phức tạp và yêu cầu mô-đun hóa"]
+            D3["Điều XXI · Khả năng tương tác, tính di động và tính toàn vẹn khi rời đi<br/><br/>• Quyền về tính di động<br/>• Ranh giới tương tác có đi có lại<br/>• Quy tắc chống khóa chặt<br/>• Định dạng và tiêu chuẩn mở"]
+            D4["Điều XXII · Di chuyển, di cư, lánh nạn và không quốc tịch<br/><br/>• Di chuyển và tái định cư<br/>• Lánh nạn khỏi tình trạng không tuân thủ<br/>• Không quốc tịch<br/>• Giới hạn, giam giữ và kỷ luật khẩn cấp"]
         end
         subgraph Drow3["Các Điều XXIII–XXIV"]
-            D5["Điều XXIII · Phân tích nguyên nhân gốc và ứng phó thích ứng<br/><br/>• Nghiêm ngặt trong chẩn đoán và quy kết nguyên nhân<br/>• Khả năng kiểm toán, phản đối và ưu tiên khả năng đảo ngược"]
-            D6["Điều XXIV · Diễn giải hiến pháp, rà soát và biện pháp bảo vệ chống chiếm đoạt<br/><br/>• Thẩm quyền diễn giải có giới hạn<br/>• Thành phần, luân phiên và kiểm soát xung đột<br/>• Lý do công khai, quyền phản đối và rà soát bên ngoài<br/>• Bãi nhiệm và chống cố thủ"]
+            D5["Điều XXIII · Tính dễ hiểu và quản trị độ phức tạp<br/><br/>• Quyền được hiểu tương xứng<br/>• Kiểm toán độ phức tạp và yêu cầu mô-đun hóa"]
+            D6["Điều XXIV · Phân tích nguyên nhân gốc và ứng phó thích ứng<br/><br/>• Nghiêm ngặt trong chẩn đoán và quy kết nguyên nhân<br/>• Khả năng kiểm toán, phản đối và ưu tiên tính đảo ngược"]
+        subgraph Drow4["Điều XXV"]
+            D7["Điều XXV · Diễn giải hiến pháp, rà soát và biện pháp bảo vệ chống chiếm đoạt<br/><br/>• Thẩm quyền diễn giải có giới hạn và lý do công khai<br/>• Quyền phản đối và rà soát độc lập<br/>• Tính độc lập của diễn đàn và rà soát bên ngoài<br/>• Bãi nhiệm có căn cứ và chống cố thủ"]
+        end
         end
     end
     %% Các liên kết vô hình buộc bố cục thành lưới hai cột: mỗi liên kết đặt đích thấp hơn một cấp.
@@ -61,10 +64,12 @@ flowchart TB
     D2 ~~~ D4
     D3 ~~~ D5
     D4 ~~~ D6
+    D5 & D6 ~~~ D7
     style Dgrid fill:none,stroke:none
     style Drow1 fill:none,stroke:none
     style Drow2 fill:none,stroke:none
     style Drow3 fill:none,stroke:none
+    style Drow4 fill:none,stroke:none
     style D0 fill:none,stroke:#2563eb,color:#ffffff
     style D1 fill:none,stroke:#0f766e,color:#ffffff
     style D2 fill:none,stroke:#0f766e,color:#ffffff
@@ -72,9 +77,10 @@ flowchart TB
     style D4 fill:none,stroke:#2563eb,color:#ffffff
     style D5 fill:none,stroke:#ea580c,color:#ffffff
     style D6 fill:none,stroke:#ea580c,color:#ffffff
+    style D7 fill:none,stroke:#ea580c,color:#ffffff
 ```
 
-**Các Điều XIX–XXIV** bên dưới quy định đầy đủ các ngưỡng này. Phần D nêu các ngưỡng về tư cách khởi kiện, công lý sau vi phạm, khả năng tương tác, tính dễ hiểu, nguyên nhân gốc và rà soát diễn giải, bao gồm **Điều XXIV** (*Diễn giải hiến pháp, rà soát và biện pháp bảo vệ chống chiếm đoạt*) theo bố cục nguồn hiện hành.
+**Các Điều XIX–XXV** bên dưới quy định đầy đủ các ngưỡng này. Phần D nêu các ngưỡng về tư cách khởi kiện, công lý sau vi phạm, khả năng tương tác, tính dễ hiểu, nguyên nhân gốc và rà soát diễn giải, bao gồm **Điều XXV** (*Diễn giải hiến pháp, rà soát và biện pháp bảo vệ chống chiếm đoạt*) theo bố cục nguồn hiện hành.
 
 <a id="article-xix-standing-reputation-and-participation-status"></a>
 <a id="article-xix-standing-and-participation-status"></a>
@@ -96,8 +102,8 @@ flowchart TB
 - [Bên liên quan](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 - [Tác động trọng yếu](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [Phẩm giá và địa vị đạo đức bình đẳng](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Bồi hoàn và khắc phục](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Khả năng phản đối](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Bồi hoàn và khắc phục](../../core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Khả năng phản đối](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -115,9 +121,9 @@ Việc theo đuổi chính đáng phải đi qua [Tứ trụ Hiến pháp](core_
 - **Tham gia:** vào đánh giá tư cách đa nguyên, phản đối quyết định tư cách mờ đục hoặc bị độc quyền, và khôi phục hoặc xác lập lại điều kiện đủ khi hạn chế trọng yếu đã được sửa chữa.
 - **Giám sát:** thông qua hồ sơ tư cách có thể kiểm toán, rà soát liên tục các yêu cầu về điều kiện đủ và khóa tư cách, cùng xác minh độc lập tương xứng với vai trò và hạn chế liên quan.
 - **Trách nhiệm giải trình:** người cấp hoặc hạn chế tư cách phải giải trình khi hạ tư cách mà không có lý do cá nhân hóa, tính tương xứng, giới hạn hẹp hoặc lộ trình khôi phục thực tế — kể cả các khuôn mẫu gắn với đặc điểm được bảo vệ hoặc yếu tố đại diện cho chúng.
-- **Kịp thời:** rà soát tư cách, phản đối và khắc phục trước khi chậm trễ đóng lại khả năng tiếp cận thiết yếu cho sinh tồn, lối kiểm toán hoặc biện pháp khắc phục theo hiến pháp tại **Điều XXV-C** (*Ngưỡng giải quyết kịp thời và chống trì hoãn*).
+- **Kịp thời:** rà soát tư cách, phản đối và khắc phục trước khi chậm trễ đóng lại khả năng tiếp cận thiết yếu cho sinh tồn, lối kiểm toán hoặc biện pháp khắc phục theo hiến pháp tại **Điều XXVI-C** (*Ngưỡng giải quyết kịp thời và chống trì hoãn*).
 
-[Tư cách tham gia](core_05_band_accountability.md#participant-standing-constitutional) là tình trạng tham gia hoặc điều kiện đủ cho vai trò được công nhận từ hồ sơ tư cách hợp lệ theo hiến pháp, tác động của tư cách hoặc tiêu chí [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar) dành cho lộ trình định danh. Đây không phải danh tiếng hay sự kính trọng xã hội và tự nó không hạn chế quyền tiếp cận. Hệ quả hạn chế chỉ gắn với [Tác động của tư cách](core_05_band_accountability.md#standing-effect-chapter-six) và [Khóa tư cách](core_05_band_accountability.md#standing-lock) trên các lộ trình đặc quyền định danh.
+[Tư cách tham gia](core_05_band_accountability.md#participant-standing-constitutional) là tình trạng tham gia hoặc điều kiện đủ cho vai trò được công nhận từ hồ sơ tư cách hợp lệ theo hiến pháp, tác động của tư cách hoặc tiêu chí [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar) dành cho lộ trình định danh. Đây không phải danh tiếng hay sự kính trọng xã hội và tự nó không hạn chế quyền tiếp cận. Hệ quả hạn chế chỉ gắn với [Tác động của tư cách](core_05_band_accountability.md#standing-effect-chapter-six) và [Khóa tư cách](../../core_05_band_accountability.md#standing-lock) trên các lộ trình đặc quyền định danh.
 
 Kỷ luật về tư cách theo Điều này thực hiện [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad) và [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims), cùng với [Chứng nhận Liên kết Hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [quy trình giám sát tư cách và diễn đàn từ Chương Chín đến Mười Hai](core_00_preamble.md#62-how-the-full-chain-fits-together). Các quy trình ở tầng chủ sở hữu đó đo lường đóng góp và vi phạm đã xác minh, đồng thời giám sát biện pháp khắc phục; không được dùng chúng để vô hiệu hóa nhu yếu phẩm sinh tồn theo **Điều III-A** (*Sinh tồn*) hoặc các mức sàn quyền khác trong chương này.
 
@@ -129,7 +135,7 @@ Phải giữ cho nội dung này khác biệt với:
 
 *Các điều khoản lân cận:*
 
-- **Các tầng chủ sở hữu:** [Chương Chín](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) và [Chương Mười](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) đo lường hồ sơ tư cách và tác động của tư cách; Điều này nêu các giới hạn về mức sàn quyền mà các tầng đó không được thu hẹp.
+- **Các tầng chủ sở hữu:** [Chương Chín](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) và [Chương Mười](core_11_standing_integration.md#chapter-ten-standing-effects-and-integration) đo lường hồ sơ tư cách và tác động của tư cách; Điều này nêu các giới hạn về mức sàn quyền mà các tầng đó không được thu hẹp.
 - **Đọc cùng với:**
   - **Điều VI-A** (*Phẩm giá và địa vị đạo đức bình đẳng*) và **Điều XII** (*Sự tham gia, đại diện và thủ tục đúng đắn của hệ thống bên liên quan*) — tiêu chí tư cách không được thay thế phẩm giá hoặc sự tồn tại của bên liên quan;
   - **Điều III-A** (*Sinh tồn*) — riêng tư cách tham gia không được ngăn cản quyền tiếp cận thiết yếu cho sinh tồn;
@@ -140,7 +146,7 @@ Phải giữ cho nội dung này khác biệt với:
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
 - Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Đọc cùng với: [Chương Mười §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*ngưỡng năng lực và xác nhận*), [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar), và [Xác nhận năng lực](core_05_band_accountability.md#competency-clearance); [Chương Mười §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*khóa tư cách*), [Tính chất vi phạm](core_05_band_accountability.md#violation-nature-chapter-six), và [Khóa tư cách](core_05_band_accountability.md#standing-lock) — các lộ trình định danh bị hạn chế từ dữ liệu Violation Axis đã xác minh; xác nhận năng lực không miễn trừ khóa tư cách đang áp dụng, và đóng góp tốt không xóa các kết luận vi phạm còn chưa được giải quyết.
+- Đọc cùng với: [Chương Mười §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) (*ngưỡng năng lực và xác nhận*), [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar), và [Xác nhận năng lực](core_05_band_accountability.md#competency-clearance); [Chương Mười §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*khóa tư cách*), [Tính chất vi phạm](core_05_band_accountability.md#violation-nature-chapter-six), và [Khóa tư cách](core_05_band_accountability.md#standing-lock) — các lộ trình định danh bị hạn chế từ dữ liệu Violation Axis đã xác minh; xác nhận năng lực không miễn trừ khóa tư cách đang áp dụng, và đóng góp tốt không xóa các kết luận vi phạm còn chưa được giải quyết.
 
 </details>
 
@@ -166,17 +172,17 @@ Phải giữ cho nội dung này khác biệt với:
 - **Tư cách khác với:**
   - phẩm giá vốn có và địa vị đạo đức bình đẳng (**Điều VI-A** (*Phẩm giá và địa vị đạo đức bình đẳng*));
   - việc chứng minh lợi ích trọng yếu để nhận diện bên liên quan (**Chương Năm** — *Bên liên quan*; *Trọng số bên liên quan*).
-- **Ngưỡng và xác nhận năng lực:** [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar) là tiêu chuẩn đủ điều kiện đã công bố, có thể kiểm toán và phản đối được cho một lộ trình định danh. [Xác nhận năng lực](core_05_band_accountability.md#competency-clearance) là kết quả tác động tư cách tích cực khi hồ sơ năng lực, kinh nghiệm và đóng góp đã xác minh đáp ứng ngưỡng đó. Khi xác nhận có hiệu lực và không có [Khóa tư cách](core_05_band_accountability.md#standing-lock) áp dụng để chặn lộ trình định danh, xác nhận có thể mở quyền tiếp cận vai trò nhạy cảm về niềm tin, thẩm quyền được ủy quyền, điều kiện đủ để giám sát hoặc trách nhiệm quản trị ngày càng có hệ quả theo [Chương Mười §6.2 Ngưỡng năng lực và xác nhận](core_10_standing_integration.md#62-competency-bars-and-clearances).
+- **Ngưỡng và xác nhận năng lực:** [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar) là tiêu chuẩn đủ điều kiện đã công bố, có thể kiểm toán và phản đối được cho một lộ trình định danh. [Xác nhận năng lực](core_05_band_accountability.md#competency-clearance) là kết quả tác động tư cách tích cực khi hồ sơ năng lực, kinh nghiệm và đóng góp đã xác minh đáp ứng ngưỡng đó. Khi xác nhận có hiệu lực và không có [Khóa tư cách](core_05_band_accountability.md#standing-lock) áp dụng để chặn lộ trình định danh, xác nhận có thể mở quyền tiếp cận vai trò nhạy cảm về niềm tin, thẩm quyền được ủy quyền, điều kiện đủ để giám sát hoặc trách nhiệm quản trị ngày càng có hệ quả theo [Chương Mười §6.2 Ngưỡng năng lực và xác nhận](core_11_standing_integration.md#62-competency-bars-and-clearances).
   - Ngưỡng hoặc xác nhận năng lực không phải danh tiếng, uy thế xã hội, bảo trợ nội bộ, độc quyền chứng chỉ, thứ bậc phẩm giá hay quyền lợi vĩnh viễn.
   - Phải công nhận kinh nghiệm không chính thức, do đồng đẳng tổ chức, tương trợ, bảo trì, sửa chữa, giảng dạy hoặc quản trị cộng đồng nếu đáp ứng cùng tiêu chuẩn chứng minh như kinh nghiệm thể chế chính thức.
 - **Tính chất vi phạm và khóa tư cách:** [Tính chất vi phạm](core_05_band_accountability.md#violation-nature-chapter-six) chỉ có thể ảnh hưởng đến tác động tư cách khi dựa trên kết luận có thể kiểm toán, phản đối được và đáp ứng **Chương Hai đến Bốn** cùng [Chương Chín](core_09_standing_assessment.md#verified-inputs-for-standing) — không chỉ dựa vào cáo buộc, nhãn tiếp nhận, định tuyến tạm thời hoặc lời kể ở giai đoạn diễn đàn.
-  - [Khóa tư cách](core_05_band_accountability.md#standing-lock) là phần đối ứng có tính hạn chế của xác nhận năng lực. Khi kết luận vi phạm đã xác minh còn chưa được giải quyết hoặc chưa được khắc phục trọng yếu, khóa có thể ngăn hoặc giới hạn các lộ trình về niềm tin, vai trò, thẩm quyền, tín dụng, giám sát, công nhận, **governance-voting** hoặc **stakeholder-participation** theo [Chương Mười §4.2 Phòng ngừa — khóa tư cách chung](core_10_standing_integration.md#42-prevention--general-standing-locks).
+  - [Khóa tư cách](core_05_band_accountability.md#standing-lock) là phần đối ứng có tính hạn chế của xác nhận năng lực. Khi kết luận vi phạm đã xác minh còn chưa được giải quyết hoặc chưa được khắc phục trọng yếu, khóa có thể ngăn hoặc giới hạn các lộ trình về niềm tin, vai trò, thẩm quyền, tín dụng, giám sát, công nhận, **governance-voting** hoặc **stakeholder-participation** theo [Chương Mười §4.2 Phòng ngừa — khóa tư cách chung](core_11_standing_integration.md#42-prevention--general-standing-locks).
   - **governance-voting** là lộ trình cơ chế chính danh/phiếu bầu quản trị nền tảng. **stakeholder-participation** là ảnh hưởng theo trọng số lợi ích và lựa chọn ràng buộc của bên liên quan trong lĩnh vực đã được cho phép. Hai lộ trình định danh này không thể thay nhau và khóa **stakeholder-participation** không xóa tư cách [Bên liên quan](core_05_band_participation.md#stakeholder).
   - Khóa tư cách không phải thứ bậc phẩm giá, giảm mức sàn quyền, trả đũa tự động hoặc điểm công trạng gộp chung.
   - Mỗi khóa tư cách phải nêu tác động bị chặn hoặc hạn chế, chủ thể hoặc lợi ích được bảo vệ, điều kiện khắc phục, đường rà soát và thời điểm đánh giá lại; đồng thời vẫn phải cần thiết, tương xứng, có thể kiểm toán và phản đối được.
-  - Việc đã xác minh không rút khỏi vai trò diễn đàn khi lẽ ra phải rút và tính vô tư bị tổn hại trọng yếu sẽ tạo **khóa tư cách phục vụ diễn đàn** theo [Chương Mười §5.5 Khóa đặc biệt](core_10_standing_integration.md#55-special-locks). Trở lại phục vụ diễn đàn đòi hỏi khôi phục nghiêm ngặt và độc lập; lời xin lỗi thông thường, đóng góp trước đây, danh tiếng, thiếu chuyên gia hay nhu cầu nhân sự tự chúng không đáp ứng được lộ trình này.
-  - Tham nhũng, chiếm đoạt, lạm dụng lợi ích giả, cưỡng ép hoặc lạm dụng trọng yếu tương tự đã xác minh đối với lộ trình stakeholder-participation sẽ tạo **Khóa tư cách tham gia của bên liên quan** theo [Chương Mười §5.5 Khóa đặc biệt](core_10_standing_integration.md#55-special-locks). Khóa này giới hạn ảnh hưởng theo trọng số lợi ích và lựa chọn ràng buộc của bên liên quan trong lĩnh vực bị ảnh hưởng; tự nó không tước **governance-voting**, lựa chọn hiến pháp nền tảng hay tư cách bên liên quan. Lời xin lỗi thông thường, đóng góp trước đây, quy mô lợi ích hoặc tính không thể thiếu của người vận hành tự chúng không thể gỡ khóa.
-  - Hành vi sai trái chống hiến pháp cuối cùng theo Chương Mười Một tạo **Khóa niềm tin chống hiến pháp** được nêu tại [Chương Mười §5.5 Khóa đặc biệt](core_10_standing_integration.md#55-special-locks). Khi còn hiệu lực, khóa cấm vai trò hoặc ảnh hưởng trọng yếu đối với hệ thống **Class A**, **Class B** hoặc **Class C**, diễn đàn hiến pháp, công nhận liên kết hiến pháp, quản trị hệ thống trọng yếu và các lộ trình trách nhiệm giải trình chống hiến pháp cho đến khi việc khôi phục nghiêm ngặt và độc lập được xác minh.
+  - Việc đã xác minh không rút khỏi vai trò diễn đàn khi lẽ ra phải rút và tính vô tư bị tổn hại trọng yếu sẽ tạo **khóa tư cách phục vụ diễn đàn** theo [Chương Mười §5.5 Khóa đặc biệt](core_11_standing_integration.md#55-special-locks). Trở lại phục vụ diễn đàn đòi hỏi khôi phục nghiêm ngặt và độc lập; lời xin lỗi thông thường, đóng góp trước đây, danh tiếng, thiếu chuyên gia hay nhu cầu nhân sự tự chúng không đáp ứng được lộ trình này.
+  - Tham nhũng, chiếm đoạt, lạm dụng lợi ích giả, cưỡng ép hoặc lạm dụng trọng yếu tương tự đã xác minh đối với lộ trình stakeholder-participation sẽ tạo **Khóa tư cách tham gia của bên liên quan** theo [Chương Mười §5.5 Khóa đặc biệt](core_11_standing_integration.md#55-special-locks). Khóa này giới hạn ảnh hưởng theo trọng số lợi ích và lựa chọn ràng buộc của bên liên quan trong lĩnh vực bị ảnh hưởng; tự nó không tước **governance-voting**, lựa chọn hiến pháp nền tảng hay tư cách bên liên quan. Lời xin lỗi thông thường, đóng góp trước đây, quy mô lợi ích hoặc tính không thể thiếu của người vận hành tự chúng không thể gỡ khóa.
+  - Hành vi sai trái chống hiến pháp cuối cùng theo Chương Mười Một tạo **Khóa niềm tin chống hiến pháp** được nêu tại [Chương Mười §5.5 Khóa đặc biệt](core_11_standing_integration.md#55-special-locks). Khi còn hiệu lực, khóa cấm vai trò hoặc ảnh hưởng trọng yếu đối với hệ thống **Class A**, **Class B** hoặc **Class C**, diễn đàn hiến pháp, công nhận liên kết hiến pháp, quản trị hệ thống trọng yếu và các lộ trình trách nhiệm giải trình chống hiến pháp cho đến khi việc khôi phục nghiêm ngặt và độc lập được xác minh.
   - Xác nhận năng lực không miễn trừ khóa tư cách áp dụng; đóng góp tốt không xóa kết luận vi phạm đã xác minh còn chưa giải quyết.
 - **Không thay thế lẫn nhau:** Tiêu chí tư cách, nhãn, điểm số, ngưỡng năng lực, xác nhận năng lực và khóa tư cách chỉ điều chỉnh điều kiện đủ cho vai trò. Chúng không được:
   - nhập nhằng giữa ai đủ điều kiện cho một vai trò với ai có phẩm giá vốn có hoặc địa vị đạo đức bình đẳng;
@@ -184,7 +190,7 @@ Phải giữ cho nội dung này khác biệt với:
   - <a id="anti-substitution-sentience-status-xviii"></a>thay thế việc xác định tình trạng có tri giác, vốn chỉ được thực hiện theo **Điều VI-B** (*Ngưỡng xét xử tình trạng có tri giác*);
   - coi việc không có hồ sơ tư cách là tình tiết bất lợi, hoặc yêu cầu hồ sơ hay xác nhận “không có hồ sơ” như điều kiện để có nhu yếu phẩm sinh tồn, giao dịch thông thường hoặc tham gia với tư cách bên bị ảnh hưởng — không có hồ sơ là trạng thái thông thường theo [Chương Chín §2.1](core_09_standing_assessment.md#21-silence-is-the-default) (*Im lặng là mặc định*);
   - coi bất đồng hoặc biểu tình ôn hòa theo **Điều XI-D** ([*Ngưỡng về bất đồng và biểu tình ôn hòa*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) là tình tiết bất lợi hoặc yếu tố trọng số cho bất kỳ lộ trình định danh nào; hoặc
-  - gộp tác động của các lộ trình định danh thành hồ sơ, bảng xếp hạng hoặc trưng bày công khai — [Chương Mười §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Chống gộp tác động của lộ trình định danh*).
+  - gộp tác động của các lộ trình định danh thành hồ sơ, bảng xếp hạng hoặc trưng bày công khai — [Chương Mười §7.1](core_11_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Chống gộp tác động của lộ trình định danh*).
 
 <a id="article-xix-b-contestability-and-proportional-restriction-limits"></a>
 #### Điều XIX-B: Khả năng phản đối và giới hạn tương xứng đối với hạn chế
@@ -192,18 +198,18 @@ Phải giữ cho nội dung này khác biệt với:
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), và [Chương Một §13.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Hạ nguồn: [Chương Chín §2](core_09_standing_assessment.md#2-question-1--what-happened) (*hồ sơ tư cách, cổng đầu vào đã xác minh và nội dung hồ sơ tối thiểu*); [Chương Chín §3.6](core_09_standing_assessment.md#36-forum-boundary) (*ranh giới diễn đàn*); [Chương Mười §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*ngưỡng và xác nhận năng lực*); [Chương Mười §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*khóa tư cách*); [Chương Mười §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*phục hồi và rà soát lại*).
-- Đọc cùng: **Điều III-A** (*Sinh tồn*); **Điều XIII-A** (*Mức sàn về độ tin cậy và đáng tin*) và **Điều XIII-B** (*Quyền được khắc phục và bồi hoàn*); [Lời mở đầu §6.2 Chuỗi đầy đủ khớp với nhau ra sao](core_00_preamble.md#62-how-the-full-chain-fits-together); [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **sự tham gia**, **giám sát**, **trách nhiệm giải trình** và **tính kịp thời** theo **Điều XXV-C** (*Mức sàn giải quyết kịp thời và chống trì hoãn*) và **Điều XX-B** (*Các mức sàn hạn chế*).
+- Hạ nguồn: [Chương Chín §2](core_09_standing_assessment.md#2-question-1--what-happened) (*hồ sơ tư cách, cổng đầu vào đã xác minh và nội dung hồ sơ tối thiểu*); [Chương Chín §3.6](core_09_standing_assessment.md#36-forum-boundary) (*ranh giới diễn đàn*); [Chương Mười §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) (*ngưỡng và xác nhận năng lực*); [Chương Mười §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*khóa tư cách*); [Chương Mười §8](core_11_standing_integration.md#8-restoration-and-reassessment) (*phục hồi và rà soát lại*).
+- Đọc cùng: **Điều III-A** (*Sinh tồn*); **Điều XIII-A** (*Mức sàn về độ tin cậy và đáng tin*) và **Điều XIII-B** (*Quyền được khắc phục và bồi hoàn*); [Lời mở đầu §6.2 Chuỗi đầy đủ khớp với nhau ra sao](core_00_preamble.md#62-how-the-full-chain-fits-together); [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **sự tham gia**, **giám sát**, **trách nhiệm giải trình** và **tính kịp thời** theo **Điều XXVI-C** (*Mức sàn giải quyết kịp thời và chống trì hoãn*) và **Điều XX-B** (*Các mức sàn hạn chế*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Khả năng phản đối](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Tính cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Khả năng phản đối](../../core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Tính tương xứng](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Tính cần thiết](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Công bằng thủ tục](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Tính chất vi phạm](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
 - [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
@@ -225,29 +231,29 @@ Phải giữ cho nội dung này khác biệt với:
   - Hồ sơ đóng góp và vi phạm có liên kết phải tham chiếu chéo nhau khi cần, duy trì khả năng kiểm toán và phản đối, và không được gộp thành điểm số, kết luận công trạng pha trộn hay nhãn tư cách không phân biệt.
 - **Đa nguyên và khả năng phản đối:** Việc đánh giá tư cách phải giữ tính đa nguyên, có thể kiểm toán, đủ minh bạch để rà soát có ý nghĩa và có thể bị phản đối.
   - Không một thẩm quyền, bộ dữ liệu, kênh danh tiếng hay hệ thống thuật toán mờ đục nào được đơn phương quyết định tư cách theo cách ngăn cản việc rà soát có ý nghĩa.
-  - [Ngưỡng và xác nhận năng lực](core_10_standing_integration.md#62-competency-bars-and-clearances) cùng sự công nhận tư cách tích cực phải có thể bị phản đối, được rà soát và không độc quyền.
+  - [Ngưỡng và xác nhận năng lực](core_11_standing_integration.md#62-competency-bars-and-clearances) cùng sự công nhận tư cách tích cực phải có thể bị phản đối, được rà soát và không độc quyền.
 - **Giám sát diễn đàn và phản đối hồ sơ:** Các nhóm diễn đàn theo [Chương Mười Hai](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) giám sát việc phản đối dễ tiếp cận và, khi sự kiện đã được xác minh theo Chương Hai đến Bốn, có thể:
   - **mở, cập nhật hoặc sửa** hồ sơ tư cách theo [Chương Chín §3.1 Nội dung hồ sơ tối thiểu](core_09_standing_assessment.md#31-minimum-record-contents); hoặc
   - **hủy hồ sơ sai khi có phản đối**.
 
   - Chỉ riêng việc nộp vụ việc không tạo thành tư cách.
   - Tài liệu ở giai đoạn tranh chấp tự nó không cung cấp tính chất đóng góp hay vi phạm cho tư cách ([Chương Chín §3.6 Ranh giới diễn đàn](core_09_standing_assessment.md#36-forum-boundary)).
-  - Ranh giới đó không làm giảm quyền phản đối, khắc phục, cứu trợ tạm thời hoặc bảo vệ thủ tục theo yêu cầu của **Điều XIII-A** (*Mức sàn về độ tin cậy và đáng tin*), **Điều XIII-B** (*Quyền được khắc phục và bồi hoàn*) và **Điều XXV-C** (*Mức sàn giải quyết kịp thời và chống trì hoãn*).
-- **Khả năng rà soát thủ tục:** Khi tư cách bị hạn chế đáng kể, hạ cấp hoặc đình chỉ — kể cả qua [khóa tư cách](core_10_standing_integration.md#42-prevention--general-standing-locks) gắn với [kết luận vi phạm đã xác minh](core_05_band_accountability.md#violation-nature-chapter-six) — hệ thống phải áp dụng [**Nguyên tắc hạn chế ít nhất, có thời hạn và có thể rà soát**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) và phải:
+  - Ranh giới đó không làm giảm quyền phản đối, khắc phục, cứu trợ tạm thời hoặc bảo vệ thủ tục theo yêu cầu của **Điều XIII-A** (*Mức sàn về độ tin cậy và đáng tin*), **Điều XIII-B** (*Quyền được khắc phục và bồi hoàn*) và **Điều XXVI-C** (*Mức sàn giải quyết kịp thời và chống trì hoãn*).
+- **Khả năng rà soát thủ tục:** Khi tư cách bị hạn chế đáng kể, hạ cấp hoặc đình chỉ — kể cả qua [khóa tư cách](core_11_standing_integration.md#42-prevention--general-standing-locks) gắn với [kết luận vi phạm đã xác minh](core_05_band_accountability.md#violation-nature-chapter-six) — hệ thống phải áp dụng [**Nguyên tắc hạn chế ít nhất, có thời hạn và có thể rà soát**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) và phải:
   - giải thích rõ **vì sao**;
   - đặt **thời hạn** cho hạn chế khi khả thi theo **Điều XX-B** (*Các mức sàn hạn chế*);
   - cung cấp **lộ trình khả thi** để phản đối quyết định, được rà soát, sửa điều sai và yêu cầu xem xét lại.
 
   Mỗi khóa tư cách phải nêu rõ quyền tiếp cận nào bị chặn, ai được bảo vệ, điều gì cần sửa trước khi gỡ khóa, nơi kháng nghị và thời điểm đánh giá lại. Trong khi phản đối đang chờ giải quyết, mọi giới hạn tạm thời chỉ được rộng — và khó đảo ngược — đến mức mà an toàn, tính liêm chính hoặc thủ tục công bằng thực sự đòi hỏi.
 - **Tính tương xứng và hiệu chỉnh:** Hạn chế tư cách phải vẫn cần thiết và tương xứng theo **Tính cần thiết**, **Tính tương xứng** và **Điều XX-B** (*Các mức sàn hạn chế*).
-  - [Khóa tư cách](core_10_standing_integration.md#42-prevention--general-standing-locks) phải được hiệu chỉnh theo **tính chất vi phạm** đã xác minh, lộ trình định danh được bảo vệ, tình trạng khắc phục hiện tại và mọi **tính chất đóng góp** liên kết chỉ trong phạm vi đóng góp liên quan đến năng lực sửa chữa, độ tin cậy của biện pháp bảo vệ, không tái diễn hoặc đánh giá lại theo hướng ít hạn chế nhất theo [Chương Chín §2 Câu hỏi 1 — điều gì đã xảy ra?](core_09_standing_assessment.md#2-question-1--what-happened). Đóng góp không được bù trừ, miễn trừ, làm giảm trung bình hay thay thế các kết luận vi phạm chưa được giải quyết.
+  - [Khóa tư cách](core_11_standing_integration.md#42-prevention--general-standing-locks) phải được hiệu chỉnh theo **tính chất vi phạm** đã xác minh, lộ trình định danh được bảo vệ, tình trạng khắc phục hiện tại và mọi **tính chất đóng góp** liên kết chỉ trong phạm vi đóng góp liên quan đến năng lực sửa chữa, độ tin cậy của biện pháp bảo vệ, không tái diễn hoặc đánh giá lại theo hướng ít hạn chế nhất theo [Chương Chín §2 Câu hỏi 1 — điều gì đã xảy ra?](core_09_standing_assessment.md#2-question-1--what-happened). Đóng góp không được bù trừ, miễn trừ, làm giảm trung bình hay thay thế các kết luận vi phạm chưa được giải quyết.
   - Kết luận Trục Vi phạm có tác động thấp hơn trên [thang thống nhất Chương Chín §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) không biện minh cho việc loại trừ lâu dài nếu thiếu chứng cứ về mô thức lặp lại, né tránh hoặc liên hệ với tổn hại trọng yếu. Sơ suất, che giấu, cưỡng ép, tái diễn và các mô tả tính chất tương tự có ý nghĩa đối với rà soát đó nhưng không làm thay đổi mức tác động trong Chương Chín.
   - Việc tăng mức hạn chế do hành vi tái diễn hoặc trách nhiệm bị che giấu vẫn phải cần thiết, tương xứng, có thể rà soát và gắn với kết luận đã xác minh.
 - **Mức tối thiểu của Sàn Quyền và không ngăn chặn:** Tư cách người tham gia, ngưỡng năng lực, xác nhận năng lực và khóa tư cách chỉ điều chỉnh điều kiện đủ cho vai trò và các lộ trình đặc quyền định danh. Chúng không được:
   - đình chỉ, miễn trừ, xóa bỏ hoặc hạ thấp **mức tối thiểu của Sàn Quyền** được áp dụng qua **Điều VI** (*Các quyền cơ bản bình đẳng*) theo [Nguyên tắc Mức tối thiểu của Sàn Quyền](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle);
   - ngăn quyền tiếp cận thiết yếu cho sinh tồn hoặc các mức sàn phân bổ nguồn lực và phụ thuộc của **Điều III-A** (*Sinh tồn*) khi có liên quan trọng yếu; hoặc
   - ngăn các lộ trình kiểm toán, phản đối hoặc khắc phục mà hiến pháp yêu cầu — kể cả theo **Điều XIII-A** (*Mức sàn về độ tin cậy và đáng tin*) và **Điều XIII-B** (*Quyền được khắc phục và bồi hoàn*), **Điều XV-B** (*Minh bạch, khả năng kiểm toán và khả năng phản đối*) và **Điều XVI** (*Kiểm toán, minh bạch và xác minh độc lập*) — nếu không có lý do đầy đủ theo **Chương Một**, **Chương Năm** và thủ tục được dẫn nhập áp dụng.
-- **Phục hồi và không cố thủ:** Khi tư cách bị giảm do kết luận vi phạm, hệ thống phải quy định rõ điều kiện rà soát, phục hồi dựa trên khắc phục và đánh giá lại định kỳ theo [Chương Mười §8 Phục hồi và đánh giá lại](core_10_standing_integration.md#8-restoration-and-reassessment).
+- **Phục hồi và không cố thủ:** Khi tư cách bị giảm do kết luận vi phạm, hệ thống phải quy định rõ điều kiện rà soát, phục hồi dựa trên khắc phục và đánh giá lại định kỳ theo [Chương Mười §8 Phục hồi và đánh giá lại](core_11_standing_integration.md#8-restoration-and-reassessment).
   - Loại trừ vĩnh viễn chỉ dựa trên tình trạng trong quá khứ mà không có lý do hiện tại, có thể kiểm toán là không tuân thủ.
   - Việc hoàn tất sửa chữa, hoàn trả, giám sát, triển khai biện pháp bảo vệ hoặc chứng minh giảm nguy cơ tái diễn phải tạo ra một lộ trình thực tế để đánh giá lại khi pháp luật cho phép; không hoàn thành các nghĩa vụ đó khiến kết luận chưa giải quyết tiếp tục có hiệu lực cho mục đích tư cách.
 
@@ -258,7 +264,7 @@ Phải giữ cho nội dung này khác biệt với:
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: [Chương Một §6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Thượng nguồn: Nguyên tắc: [Chương Một §6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -276,7 +282,7 @@ Phải giữ cho nội dung này khác biệt với:
 - [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Tính cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Đặc tính được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [Đặc tính được bảo vệ](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 
@@ -286,7 +292,7 @@ Phải giữ cho nội dung này khác biệt với:
 
 Điều này quy định điều kiện đủ và trách nhiệm đối với lộ trình định danh, cùng kỷ luật về tiếng nói chính trị:
 
-- **Điều kiện đủ và trách nhiệm đối với lộ trình định danh:** Tiêu chí điều kiện đủ đã công bố cho sự tham gia thông thường, vai trò nhạy cảm về niềm tin, điều kiện đủ để giám sát, **governance-voting** và **stakeholder-participation** phải dựa trên chứng cứ hiện tại, quan sát được và có thể phản đối — không chỉ dựa vào danh tiếng, quy mô hay tư cách lịch sử. Việc thẳng hàng nhất quán với yêu cầu nền tảng có thể hỗ trợ [Xác nhận năng lực](core_05_band_accountability.md#competency-clearance) theo [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar) áp dụng và điều kiện đủ cho vai trò nhạy cảm về niềm tin; nhưng hậu quả hạn chế chỉ áp dụng qua [Khóa tư cách](core_05_band_accountability.md#standing-lock) trên các lộ trình đặc quyền định danh theo [Chương Mười §4.2 Phòng ngừa — khóa tư cách chung](core_10_standing_integration.md#42-prevention--general-standing-locks). Khóa **governance-voting** không thay thế khóa **stakeholder-participation**; khóa **stakeholder-participation** không xóa tư cách bên liên quan hoặc tự tước quyền **governance-voting** nền tảng.
+- **Điều kiện đủ và trách nhiệm đối với lộ trình định danh:** Tiêu chí điều kiện đủ đã công bố cho sự tham gia thông thường, vai trò nhạy cảm về niềm tin, điều kiện đủ để giám sát, **governance-voting** và **stakeholder-participation** phải dựa trên chứng cứ hiện tại, quan sát được và có thể phản đối — không chỉ dựa vào danh tiếng, quy mô hay tư cách lịch sử. Việc thẳng hàng nhất quán với yêu cầu nền tảng có thể hỗ trợ [Xác nhận năng lực](core_05_band_accountability.md#competency-clearance) theo [Ngưỡng năng lực](core_05_band_accountability.md#competency-bar) áp dụng và điều kiện đủ cho vai trò nhạy cảm về niềm tin; nhưng hậu quả hạn chế chỉ áp dụng qua [Khóa tư cách](core_05_band_accountability.md#standing-lock) trên các lộ trình đặc quyền định danh theo [Chương Mười §4.2 Phòng ngừa — khóa tư cách chung](core_11_standing_integration.md#42-prevention--general-standing-locks). Khóa **governance-voting** không thay thế khóa **stakeholder-participation**; khóa **stakeholder-participation** không xóa tư cách bên liên quan hoặc tự tước quyền **governance-voting** nền tảng.
   - Điều kiện đủ và yêu cầu khóa vẫn chịu kiểm toán liên tục và các biện pháp bảo vệ trong Điều này cùng văn bản triển khai được chỉ định.
   - Điều kiện đủ và khóa phải:
     - tiếp tục tuân theo **Chương Chín** (*Mô hình đóng góp, vi phạm và tư cách*);
@@ -307,38 +313,74 @@ Phải giữ cho nội dung này khác biệt với:
 
   Triển khai vận hành nằm tại [**Chương Mười Ba §4.1**](core_13_governance.md#41-entitlement-and-eligibility) (*Mức sàn tiếng nói chính trị lâu dài*).
 
-<a id="article-xix-d-movement-migration-and-refuge"></a>
+<a id="article-xix-d-violations-and-standing-locks"></a>
+#### Điều XIX-D: Vi phạm và khóa tư cách
+<details>
+<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-<a id="article-xix-d-movement-migration-refuge-and-non-statelessness-routing"></a>
-#### Điều XIX-D: Định tuyến di chuyển, di cư, lánh nạn và không quốc tịch
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Downstream: [Chapter Eleven §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
+- Read with: [Article XIX-E](../../core_06_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+
+</details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- Đọc cùng: **Điều XXI-D** (*Di chuyển, di cư, lánh nạn và không quốc tịch*) và **Điều XXI** (*Khả năng tương tác, tính di động, di chuyển, lánh nạn và tính toàn vẹn của việc rời đi*).
-- Nguyên tắc: [Chương Một §16 Quản trị ủy thác chuyên sâu](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) và [§13.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- [Violation Nature](../../core_05_band_accountability.md#violation-nature) · [O](../../core_05_band_accountability.md#violation-nature) · [M](../../core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](../../core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](../../core_05_band_accountability.md#violation-nature-chapter-six-c)
+- [Standing Lock](../../core_05_band_accountability.md#standing-lock) · [O](../../core_05_band_accountability.md#standing-lock) · [M](../../core_05_band_accountability.md#standing-lock-a) · [A](../../core_05_band_accountability.md#standing-lock-a) · [C](../../core_05_band_accountability.md#standing-lock-c)
+- [Accountability](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
+- [Collective Accountability Failure](../../core_05_band_accountability.md#collective-accountability-failure) · [O](../../core_05_band_accountability.md#collective-accountability-failure) · [M](../../core_05_band_accountability.md#collective-accountability-failure-a) · [A](../../core_05_band_accountability.md#collective-accountability-failure-a) · [C](../../core_05_band_accountability.md#collective-accountability-failure-c)
+- [Proportionality](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [Redress and Remediation](../../core_05_band_accountability.md#redress-and-remediation) · [O](../../core_05_band_accountability.md#redress-and-remediation) · [M](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
 <br>
 
-*Nói đơn giản: tư cách không phải công cụ biên giới, lưu đày hay tước quốc tịch — không ai mất quyền di chuyển, lánh nạn hoặc rời đi chỉ vì tư cách vai trò giảm hoặc khóa tư cách chặn các lộ trình định danh nhạy cảm về niềm tin. Bạo lực, cưỡng ép hoặc hành vi sai trái chống hiến pháp đã xác minh vẫn có thể dẫn đến giam giữ hợp pháp, quản thúc hoặc hạn chế tự do khác theo **Điều XX-B** (*Các mức sàn hạn chế*) và các bảo đảm tố tụng đầy đủ; đó là biện pháp tư pháp riêng, không phải cách lách luật bằng nhãn tư cách. Nếu vụ việc liên quan đến di chuyển, di cư, lánh nạn, tính di động, công nhận hoặc rời đi, **Điều XXI** (*Khả năng tương tác, tính di động, di chuyển, lánh nạn và tính toàn vẹn của việc rời đi*) quy định mức sàn áp dụng.*
+*Nói đơn giản: Điều này quy định cách đóng các lối đi được nêu tên. Chỉ cáo buộc thì không đủ; chỉ kết luận vi phạm đã được xác minh mới có thể làm căn cứ cho khóa tư cách. Khóa phải nêu rõ quyền tiếp cận nào bị chặn, bảo vệ ai hoặc điều gì, cần khắc phục điều gì để gỡ khóa, khiếu nại ở đâu và khi nào xem xét lại. Khóa phải tương xứng với tổn hại đã xác minh; đóng góp tốt không xóa tổn hại; phải có lối quay lại thực chất khi tổn hại được khắc phục. Các khóa ảnh hưởng đến lá phiếu và ba khóa đặc biệt có quy tắc bổ sung tại **Điều XIX-E**.*
 
-Tư cách, ngưỡng năng lực, xác nhận năng lực và khóa tư cách tự chúng **không** giới hạn quyền di chuyển, di cư, lánh nạn, tính di động, rời đi hoặc không quốc tịch. Khóa tư cách vốn chỉ giới hạn các lộ trình về niềm tin, vai trò, thẩm quyền, tín dụng, giám sát, công nhận, **governance-voting** và **stakeholder-participation** theo [Chương Mười §4.2 Phòng ngừa — khóa tư cách chung](core_10_standing_integration.md#42-prevention--general-standing-locks); chúng không thay thế thủ tục tư pháp riêng cho từng cá nhân và không được chỉ dựa trên nhãn tư cách mà vận hành như lưu đày, tước quốc tịch, từ chối lánh nạn hoặc khóa hệ thống.
+Điều này quy định cách ghi nhận vi phạm và áp dụng khóa tư cách:
 
-Các biện pháp hợp pháp hạn chế tự do — gồm giam giữ, quản thúc, vận hành có giám sát hoặc hạn chế di chuyển tương tự — vẫn có thể áp dụng khi bạo lực, cưỡng ép, hành vi sai trái chống hiến pháp hoặc nguy hiểm xã hội tương đương đã được xác minh đòi hỏi, nhưng chỉ thông qua biện pháp đáp ứng **Điều XX-B** (*Các mức sàn hạn chế*), bảo vệ tố tụng hình sự hoặc tương đương áp dụng theo [Chương Mười §5.4](core_10_standing_integration.md#54-special-violation-rules) (*Quy tắc vi phạm đặc biệt*), và nghĩa vụ [Không quốc tịch](core_05_band_participation.md#non-statelessness-constitutional) tại **Điều XXI-D** (*Di chuyển, di cư, lánh nạn và không quốc tịch*). Những biện pháp đó không được khiến một hữu thể có tri giác không còn chế độ công nhận bảo vệ Sàn Quyền cơ bản, phân xử tư cách hoặc cung cấp lộ trình khắc phục.
-
-Các biện pháp này chỉ có thể ảnh hưởng đến điều kiện đủ cho vai trò và lộ trình định danh nhạy cảm về niềm tin như Điều này quy định. Các vấn đề về di chuyển, di cư, lánh nạn, tính di động, không quốc tịch và tính toàn vẹn của việc rời đi do **Điều XXI** (*Khả năng tương tác, tính di động, di chuyển, lánh nạn và tính toàn vẹn của việc rời đi*) cùng các điều khoản chuyển tiếp áp dụng điều chỉnh, mà không thu hẹp các bảo đảm về tư cách trong Điều này.
-
+- **Chỉ dựa vào kết luận đã xác minh để xác định tính chất vi phạm:** [Tính chất vi phạm](../../core_05_band_accountability.md#violation-nature) chỉ được ảnh hưởng đến tư cách khi dựa trên kết luận có thể kiểm toán và phản đối, đáp ứng **Chương Hai đến Chương Bốn** và [Chương Mười](../../core_10_standing_assessment.md#verified-inputs-for-standing). Cáo buộc, nhãn tiếp nhận, dấu định tuyến tạm thời hoặc lời kể ở giai đoạn diễn đàn tự chúng không đủ.
+  - Việc xác định tư cách và khóa phải tính đến sự tham gia thuận theo và việc không chống lại chỉ thị trái pháp luật hoặc phản hiến pháp khi có nghĩa vụ và năng lực liên quan, phù hợp với **Chương Năm** (*Thất bại trách nhiệm tập thể*).
+- **Khóa tư cách:** [Khóa tư cách](../../core_05_band_accountability.md#standing-lock) là mặt hạn chế tương ứng với việc xác nhận năng lực. Khi kết luận vi phạm đã xác minh còn chưa giải quyết hoặc chưa được khắc phục đáng kể, khóa có thể ngăn hoặc hạn chế các lối đi về tín nhiệm, vai trò, thẩm quyền, tín dụng, giám sát, công nhận, **bỏ phiếu quản trị** hoặc **tham gia của bên liên quan**. Hệ quả hạn chế chỉ gắn với lối đi đặc quyền được nêu tên; nếu rủi ro đã xác minh đòi hỏi, việc tách khỏi địa điểm, mạng lưới hoặc sentient cụ thể phải tuân thủ [giới hạn tách biệt](../../core_11_standing_integration.md#51-separation-limits).
+  - Khóa tư cách không phải là thứ bậc phẩm giá, cắt giảm Sàn Quyền, trả đũa tự động hoặc điểm thành tích gộp.
+  - Khóa phải nói rõ quyền tiếp cận nào bị chặn, bảo vệ ai hoặc điều gì, điều kiện khắc phục để gỡ khóa, đường rà soát và thời điểm đánh giá lại; đồng thời phải cần thiết, tương xứng, kiểm toán được và có thể phản đối theo [Điều XIX-B](../../core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+  - Xác nhận năng lực không miễn trừ khóa tư cách đang áp dụng; đóng góp tốt không xóa kết luận vi phạm đã xác minh còn chưa giải quyết.
+  - Các khóa đối với lối bỏ phiếu và ba khóa đặc biệt có quy tắc bổ sung tại [Điều XIX-E](../../core_06_rights_part_d.md#article-xix-e-voting-and-special-locks).
+  - Khóa tư cách không thay thế thủ tục công lý cá nhân hóa và **tự nó** không hạn chế di chuyển, lánh nạn, tính di động hoặc rời đi ([Điều XXI](#article-xxi-interoperability-portability-and-exit-integrity) và [Điều XXII](#article-xxii-movement-migration-refuge-and-non-statelessness)).
+- **Điều chỉnh khóa theo tổn hại:** Khóa phải phù hợp với mức nghiêm trọng của tổn hại đã xác minh, vai trò hoặc đặc quyền cụ thể cần bảo vệ và tiến độ khắc phục.
+  - **Đóng góp trước đây:** chỉ được cân nhắc khi cho thấy sentient có thể khắc phục, duy trì biện pháp bảo vệ hoặc tránh tái diễn, hoặc hỗ trợ hạn chế nhẹ hơn khi đánh giá lại. Đóng góp không được bù trừ, miễn, làm giảm trung bình hoặc thay thế kết luận tổn hại chưa giải quyết.
+  - **Tổn hại ít nghiêm trọng hơn:** Kết luận ít nghiêm trọng theo [Chương Mười §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) không biện minh cho loại trừ dài hạn, trừ khi có kiểu tái diễn, né tránh hoặc liên hệ với tổn hại đáng kể.
+  - **Cách thức hành xử:** Sơ suất, che giấu, cưỡng ép hoặc tái diễn có thể ảnh hưởng đến rà soát nhưng không thay đổi mức nghiêm trọng được đánh giá của chính tổn hại.
+  - **Hành vi tái diễn hoặc bị che giấu:** Hạn chế nghiêm hơn vì tái diễn hoặc che giấu trách nhiệm vẫn phải cần thiết, tương xứng, có thể rà soát và gắn với kết luận đã xác minh.
+- **Khôi phục và chống cố định:** Khi tư cách bị giảm do kết luận vi phạm, hệ thống phải đưa ra điều kiện rõ ràng để rà soát, khôi phục dựa trên khắc phục và đánh giá định kỳ theo [Chương Mười Một §8](../../core_11_standing_integration.md#8-restoration-and-reassessment).
+  - Loại trừ vĩnh viễn chỉ dựa trên tình trạng lịch sử, không có lý do hiện tại và kiểm toán được, là không tuân thủ.
+  - Khi hạn chế đáng kể được khắc phục, lối khôi phục hoặc tái đủ điều kiện phải có thật, không chỉ mang tính hình thức.
+  - Khi hoàn tất khắc phục, bồi hoàn, giám sát, triển khai biện pháp bảo vệ hoặc bước khác chứng minh nguy cơ tái diễn giảm, phải có lối đánh giá lại thực chất khi pháp luật cho phép; nếu không hoàn thành, kết luận chưa giải quyết vẫn có hiệu lực cho mục đích tư cách.
 
 <a id="article-xx-justice-after-verified-violation"></a>
+<a id="article-xix-e-voting-and-special-locks"></a>
+#### Điều XIX-E: Bỏ phiếu và các khóa đặc biệt
+
+Điều này quy định giới hạn của khóa bỏ phiếu và khóa đặc biệt:
+
+- **Khóa bỏ phiếu chỉ áp dụng cho đúng lộ trình được nêu tên:** khóa trên một lộ trình không chuyển sang lộ trình kia. **governance-voting** là lá phiếu quản trị nền tảng, trao quyền quản trị qua cơ chế chính danh; **stakeholder-participation** là ảnh hưởng theo trọng số lợi ích và lựa chọn ràng buộc của bên liên quan trong hệ thống, thể chế hoặc lĩnh vực quyết định đã được ủy quyền. Khóa thứ nhất tự nó không tước tiếng nói theo trọng số lợi ích; khóa thứ hai tự nó không tước lá phiếu quản trị và không xóa tư cách [Bên liên quan](core_05_band_participation.md#stakeholder).
+- **Kỷ luật tiếng nói chính trị:** khóa tư cách hạn chế việc tham gia trao quyền quản trị phải dựa trên kết luận đã xác minh về hành vi của chính hữu thể đó, qua thủ tục công bằng theo [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness); đáp ứng **Tính cần thiết** và **Tính tương xứng** theo **Chương Một**; giới hạn hẹp vào loại hành vi sai trái cụ thể; và có đường khôi phục thực chất. Không được dựa vào tư cách thành viên nhóm. Khóa không được tạo ra sự tước đoạt tiếng nói chính trị lâu dài trong **Lựa chọn Hiến pháp Nền tảng** (**Chương Năm**). Gom các loại sai phạm rộng hoặc khóa theo **Đặc điểm được bảo vệ** hay đại diện thực chất của chúng là không tuân thủ.
+  - **Ngoại lệ duy nhất:** kết luận cuối cùng theo [Chương Mười Hai](core_12_a_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) về hành vi sai trái chống Hiến pháp, dành cho cuộc tấn công nghiêm trọng nhất đã xác minh, đình chỉ lá phiếu quản trị nền tảng đến khi **hoàn trả đầy đủ**. Đây không phải khóa tư cách; quy tắc và bảo đảm nằm tại [Chương Mười Bốn §4.1](core_14_governance.md#41-entitlement-and-eligibility).
+- **Các khóa đặc biệt** được nêu tại [Chương Mười Một §5.5](core_11_standing_integration.md#55-special-locks):
+  - **Khóa tư cách phục vụ diễn đàn:** việc đã xác minh rằng không rút khỏi vai trò khi phải rút, gây tổn hại trọng yếu đến tính vô tư, sẽ tạo khóa. Khôi phục cần xác minh độc lập nghiêm ngặt; xin lỗi thông thường, đóng góp cũ, danh tiếng, thiếu chuyên gia hay nhu cầu nhân sự tự chúng không đủ.
+  - **Khóa tư cách tham gia của bên liên quan:** tham nhũng, chiếm quyền, lạm dụng lợi ích giả, cưỡng ép hoặc lạm dụng trọng yếu tương tự đã xác minh sẽ tạo khóa. Khóa chỉ giới hạn ảnh hưởng theo trọng số lợi ích và lựa chọn ràng buộc trong lĩnh vực bị ảnh hưởng; tự nó không tước **governance-voting**, lựa chọn hiến pháp nền tảng hay tư cách bên liên quan. Xin lỗi, đóng góp, quy mô lợi ích hay tính thiết yếu của người vận hành tự chúng không thể gỡ khóa.
+  - **Khóa tín nhiệm chống Hiến pháp:** kết luận cuối cùng theo **Chương Mười Hai** tạo khóa, cấm vai trò hoặc ảnh hưởng trọng yếu trong hệ thống **Lớp A, B hoặc C**, diễn đàn hiến pháp, công nhận phù hợp hiến pháp, quản trị hệ thống trọng yếu và lộ trình trách nhiệm giải trình chống Hiến pháp cho đến khi xác minh được khôi phục độc lập nghiêm ngặt.
+
 ### Điều XX: Công lý sau vi phạm đã xác minh
 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3 Mục tiêu nền tảng: Thịnh vượng](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [§18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Hạ nguồn: [Chương Mười §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa chữa và phòng ngừa*); [Chương Mười Một §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Bảo đảm thủ tục đúng đắn, khắc phục và phòng ngừa*).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3 Mục tiêu nền tảng: Thịnh vượng](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 An toàn](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [§18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hạ nguồn: [Chương Mười §4](core_11_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa chữa và phòng ngừa*); [Chương Mười Một §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Bảo đảm thủ tục đúng đắn, khắc phục và phòng ngừa*).
 
 </details>
 
@@ -369,16 +411,16 @@ Triển khai quản trị được thông qua có thể bổ sung chi tiết. Kh
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: [Chương Một §4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §13.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Chương Một §3.3 Quy trình chống hạ thấp phẩm giá](core_01_a_values_principles.md#33-anti-degrading-process) và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Hạ nguồn: [Chương Mười §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa chữa và phòng ngừa*); [Điều XX-B](#article-xx-b-restriction-floors).
-- Đọc cùng: [Tàn nhẫn](core_05_band_accountability.md#cruelty) (*nơi quy định tại Chương Năm về tiêu chuẩn cấm tàn nhẫn: gây đau khổ như mục đích tự thân*).
+- Thượng nguồn: Nguyên tắc: [Chương Một §4 An toàn](../../core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §13.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Chương Một §3.3 Quy trình chống hạ thấp phẩm giá](core_01_a_values_principles.md#33-anti-degrading-process) và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hạ nguồn: [Chương Mười §4](core_11_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa chữa và phòng ngừa*); [Điều XX-B](#article-xx-b-restriction-floors).
+- Đọc cùng: [Tàn nhẫn](../../core_05_band_accountability.md#cruelty) (*nơi quy định tại Chương Năm về tiêu chuẩn cấm tàn nhẫn: gây đau khổ như mục đích tự thân*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Phân xử và giải quyết tranh chấp](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Phân xử và giải quyết tranh chấp](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [Tàn nhẫn](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
 - [Khắc phục và bồi hoàn](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -405,15 +447,15 @@ Triển khai quản trị được thông qua có thể bổ sung chi tiết. Kh
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Chương Một §13.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) và [§14 Cấm quyền ghi đè tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Hạ nguồn: [Chương Mười §5 Thiết kế và thực thi khóa](core_10_standing_integration.md#5-lock-design-and-enforcement) và [§5.4 Quy tắc vi phạm đặc biệt](core_10_standing_integration.md#54-special-violation-rules) (*bắt buộc giam giữ khi có bạo lực đã xác minh và các bảo đảm khác về cưỡng chế hoặc hạn chế tự do*); [Chương Mười Một §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng ngừa — khóa chống hiến pháp*; quy định riêng về giam giữ).
-- Đọc cùng: [Điều XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Mức sàn giải quyết kịp thời và chống trì hoãn*); [Chương Mười Hai §5 Leo thang và chứng nhận](core_12_forum.md#5-escalation-and-certification).
+- Hạ nguồn: [Chương Mười §5 Thiết kế và thực thi khóa](core_11_standing_integration.md#5-lock-design-and-enforcement) và [§5.4 Quy tắc vi phạm đặc biệt](core_11_standing_integration.md#54-special-violation-rules) (*bắt buộc giam giữ khi có bạo lực đã xác minh và các bảo đảm khác về cưỡng chế hoặc hạn chế tự do*); [Chương Mười Một §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng ngừa — khóa chống hiến pháp*; quy định riêng về giam giữ).
+- Đọc cùng: [Điều XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Mức sàn giải quyết kịp thời và chống trì hoãn*); [Chương Mười Hai §5 Leo thang và chứng nhận](core_12_forum.md#5-escalation-and-certification).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [An toàn (Ràng buộc hiến pháp)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [An toàn (Ràng buộc hiến pháp)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
 - [Khắc phục và bồi hoàn](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Tính cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
@@ -442,7 +484,7 @@ Triển khai quản trị được thông qua có thể bổ sung chi tiết. Kh
   - hoàn trả hoặc khắc phục tương xứng;
   - phục hồi hoặc giảm tái diễn khi khả thi;
   - gắn sự ghi nhận và hậu quả với đúng chủ thể — được hỗ trợ bằng chứng cứ bất kỳ ai cũng có thể kiểm toán — theo **Chương Hai đến Bốn**.
-- **Gánh nặng cá thể hóa:** Mọi biện pháp như vậy phải nhắm vào hữu thể có tri giác hoặc vai trò cụ thể liên quan — không nhắm vào nhãn nhóm hay đại diện — và phải luôn có thể phản đối, được rà soát độc lập. Nhãn nặng nề, lên án công khai hoặc lối tắt hành chính không thay thế việc chứng minh từng yêu cầu đồng thời nêu trên. Việc thiết kế và thực thi khóa do [Chương Mười §5 Thiết kế và thực thi khóa](core_10_standing_integration.md#5-lock-design-and-enforcement) điều chỉnh.
+- **Gánh nặng cá thể hóa:** Mọi biện pháp như vậy phải nhắm vào hữu thể có tri giác hoặc vai trò cụ thể liên quan — không nhắm vào nhãn nhóm hay đại diện — và phải luôn có thể phản đối, được rà soát độc lập. Nhãn nặng nề, lên án công khai hoặc lối tắt hành chính không thay thế việc chứng minh từng yêu cầu đồng thời nêu trên. Việc thiết kế và thực thi khóa do [Chương Mười §5 Thiết kế và thực thi khóa](core_11_standing_integration.md#5-lock-design-and-enforcement) điều chỉnh.
 - **Mức sàn hạn chế ít nhất và có thời hạn:** Công lý, ngăn chặn và biện pháp trách nhiệm giải trình phục hồi áp dụng [**Nguyên tắc hạn chế ít nhất, có thời hạn và có thể rà soát**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). Khi cần can thiệp, mỗi biện pháp phải có:
   - giới hạn thời gian rõ ràng;
   - nhịp độ rà soát;
@@ -461,7 +503,7 @@ Triển khai quản trị được thông qua có thể bổ sung chi tiết. Kh
     - quyền tiếp cận hồ sơ thực tế đủ để sử dụng các lộ trình leo thang và rà soát đó.
 
   Chỉ được giới hạn những điều trên bằng hạn chế hẹp có lý do theo **Chương Một**. Việc định tuyến diễn đàn và chứng nhận do [Chương Mười Hai §5 Leo thang và chứng nhận](core_12_forum.md#5-escalation-and-certification) điều chỉnh.
-- **Giam giữ do bạo lực:** Giam giữ là biện pháp hạn chế tự do, tách biệt với khóa tư cách, và được ghi nhận bằng các trường thông tin đính kèm như khóa ([Chương Mười §5.1 Định nghĩa và thông tin đính kèm](core_10_standing_integration.md#51-definition-and-attachment)). Biện pháp này phải đáp ứng mọi mức sàn trong Điều này, kể cả giới hạn thời gian rõ ràng, nhịp độ rà soát và điều kiện phục hồi. Hữu thể có tri giác thực hiện bạo lực đã xác minh hoặc tiếp tục đe dọa bạo lực phải bị giam khi cần thiết để bảo vệ người khác khỏi tổn hại tiếp theo. Thay bằng tước đoạt mạng sống hoặc không áp dụng giam giữ khi mức sàn này yêu cầu đều là không tuân thủ. Điều kiện do [Chương Mười §5.4 Quy tắc vi phạm đặc biệt](core_10_standing_integration.md#54-special-violation-rules) điều chỉnh (*Bắt buộc giam giữ khi có bạo lực đã xác minh*). Giam giữ vì hành vi sai trái chống hiến pháp đã xác minh chịu cùng các điều kiện theo [Chương Mười Một §4.2 Phòng ngừa — khóa chống hiến pháp](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng ngừa — khóa chống hiến pháp*; quy định riêng về giam giữ).
+- **Giam giữ do bạo lực:** Giam giữ là biện pháp hạn chế tự do, tách biệt với khóa tư cách, và được ghi nhận bằng các trường thông tin đính kèm như khóa ([Chương Mười §5.1 Định nghĩa và thông tin đính kèm](core_11_standing_integration.md#51-definition-and-attachment)). Biện pháp này phải đáp ứng mọi mức sàn trong Điều này, kể cả giới hạn thời gian rõ ràng, nhịp độ rà soát và điều kiện phục hồi. Hữu thể có tri giác thực hiện bạo lực đã xác minh hoặc tiếp tục đe dọa bạo lực phải bị giam khi cần thiết để bảo vệ người khác khỏi tổn hại tiếp theo. Thay bằng tước đoạt mạng sống hoặc không áp dụng giam giữ khi mức sàn này yêu cầu đều là không tuân thủ. Điều kiện do [Chương Mười §5.4 Quy tắc vi phạm đặc biệt](core_11_standing_integration.md#54-special-violation-rules) điều chỉnh (*Bắt buộc giam giữ khi có bạo lực đã xác minh*). Giam giữ vì hành vi sai trái chống hiến pháp đã xác minh chịu cùng các điều kiện theo [Chương Mười Một §4.2 Phòng ngừa — khóa chống hiến pháp](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng ngừa — khóa chống hiến pháp*; quy định riêng về giam giữ).
 - **Mức sàn quyền chống tước đoạt mạng sống không thể đảo ngược như biện pháp công lý:** Nhà nước, đơn vị vận hành hoặc hệ thống tư pháp tương tự không được áp đặt tước đoạt mạng sống không thể đảo ngược làm hình phạt, chế tài hoặc biện pháp bảo đảm an toàn công cộng.
   - Khi bắt buộc giam giữ, **Giam giữ do bạo lực** theo Điều này và việc giam giữ theo **Chương Mười Một** §4.1 (*Khắc phục và sửa chữa (chống hiến pháp)*) là biện pháp bảo vệ bắt buộc; cấm tước đoạt mạng sống.
   - Mức sàn này không điều chỉnh quyết định riêng của hữu thể có tri giác được hình thành tự do theo **Điều VII-D** (*Tự nguyện chấm dứt sự tồn tại của chính mình*). Cưỡng ép, đổi nhãn hoặc việc nhà nước/đơn vị vận hành biến lựa chọn đó thành kết quả áp đặt sẽ đưa vấn đề trở lại phạm vi mức sàn này.
@@ -469,7 +511,7 @@ Triển khai quản trị được thông qua có thể bổ sung chi tiết. Kh
 <a id="article-xxi-interoperability-portability-and-exit-integrity"></a>
 
 <a id="article-xxi-interoperability-portability-movement-refuge-and-exit-integrity"></a>
-### Điều XXI: Khả năng tương tác, tính di động, di chuyển, lánh nạn và tính toàn vẹn của việc rời đi
+### Điều XXI: Khả năng tương tác, tính di động và tính toàn vẹn của việc rời đi
 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
@@ -481,12 +523,12 @@ Triển khai quản trị được thông qua có thể bổ sung chi tiết. Kh
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Khóa chặt mang tính hệ thống](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [Di chuyển và tái định cư](core_05_band_participation.md#movement-and-relocation-constitutional) · [O](core_05_band_participation.md#movement-and-relocation-constitutional) · [M](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_05_band_participation.md#movement-and-relocation-constitutional-c)
-- [Lánh nạn khỏi tình trạng không tuân thủ](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
-- [Không quốc tịch](core_05_band_participation.md#non-statelessness-constitutional) · [O](core_05_band_participation.md#non-statelessness-constitutional) · [M](core_05_band_participation.md#non-statelessness-constitutional-a) · [A](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
-- [Năng lực chủ động có ý nghĩa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [Sự phụ thuộc](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Khóa chặt mang tính hệ thống](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
+- [Di chuyển và tái định cư](../../core_05_band_participation.md#movement-and-relocation-constitutional) · [O](../../core_05_band_participation.md#movement-and-relocation-constitutional) · [M](../../core_05_band_participation.md#movement-and-relocation-constitutional-a) · [A](../../core_05_band_participation.md#movement-and-relocation-constitutional-a) · [C](../../core_05_band_participation.md#movement-and-relocation-constitutional-c)
+- [Lánh nạn khỏi tình trạng không tuân thủ](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
+- [Không quốc tịch](../../core_05_band_participation.md#non-statelessness-constitutional) · [O](../../core_05_band_participation.md#non-statelessness-constitutional) · [M](../../core_05_band_participation.md#non-statelessness-constitutional-a) · [A](../../core_05_band_participation.md#non-statelessness-constitutional-a) · [C](../../core_05_band_participation.md#non-statelessness-constitutional-c)
+- [Năng lực chủ động có ý nghĩa](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_participation.md#meaningful-agency) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [Sự phụ thuộc](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
 - [Tính cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -498,17 +540,17 @@ Triển khai quản trị được thông qua có thể bổ sung chi tiết. Kh
 
 Điều này quy định **các mức sàn hiến pháp** về khả năng tương tác, tính di động, di chuyển, lánh nạn và tính toàn vẹn của việc rời đi theo [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims):
 
-- **Thịnh vượng:** hữu thể có tri giác có thể lựa chọn, chuyển đổi và phối hợp giữa các hệ thống và khu vực tài phán mà không bị khóa chặt cưỡng ép, loại trừ trái với [Không loại trừ hữu thể có tri giác](core_05_band_participation.md#sentience-non-exclusion), hoặc từ chối thông qua đại diện — nhờ tính di động hữu dụng, khả năng tương tác có đi có lại và lộ trình thực sự để di chuyển, lánh nạn khi có [Tác động trọng yếu](core_05_band_oversight.md#material-impact).
+- **Thịnh vượng:** hữu thể có tri giác có thể lựa chọn, chuyển đổi và phối hợp giữa các hệ thống và khu vực tài phán mà không bị khóa chặt cưỡng ép, loại trừ trái với [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion), hoặc từ chối thông qua đại diện — nhờ tính di động hữu dụng, khả năng tương tác có đi có lại và lộ trình thực sự để di chuyển, lánh nạn khi có [Tác động trọng yếu](core_05_band_oversight.md#material-impact).
 - **Liên tục:** nghĩa vụ rời đi, tính di động, lánh nạn và công nhận duy trì bền vững khi sự phụ thuộc sâu thêm, đơn vị vận hành thay đổi hoặc khu vực tài phán chuyển dịch — hệ thống và chế độ không được củng cố kiến trúc bẫy, thu hẹp điều khoản tích hợp mà không thông báo, hoặc khiến hữu thể có tri giác trở thành không quốc tịch khi cơ cấu thất bại hay quan hệ chấm dứt.
 
 Việc theo đuổi chính đáng vận hành qua [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad), theo tỷ lệ với [lợi ích trọng yếu](core_00_preamble.md#material-stake):
 
 - **Sự tham gia:** trong việc lựa chọn hệ thống và khu vực tài phán, di cư cùng dữ liệu và danh tính hữu dụng, phản đối việc khóa chặt và từ chối thông qua đại diện, đồng thời tìm nơi lánh nạn khi thực tiễn vi phạm trọng yếu.
 - **Giám sát:** thông qua ranh giới tương tác được ghi nhận, tính di động kịp thời, thông báo trước khi thu hẹp trọng yếu và rà soát xem điều kiện chuyển tiếp có thực chất hay chỉ hình thức.
-- **Trách nhiệm giải trình:** hệ thống và chế độ phải chịu trách nhiệm về [Khóa chặt mang tính hệ thống](core_05_band_continuity.md#systemic-lock-in), thiết kế chống di động, loại trừ trái với [Không loại trừ hữu thể có tri giác](core_05_band_participation.md#sentience-non-exclusion), làm kiệt quệ bằng thủ tục hành chính hoặc hành vi khác chủ yếu nhằm giam giữ hữu thể có tri giác — ngăn cản việc rời đi, thay thế, di chuyển, lánh nạn hoặc công nhận.
-- **Tính kịp thời:** trong việc bàn giao dữ liệu di động, xem xét lánh nạn, thông báo khả năng tương tác và sửa rào cản trước khi trì hoãn, thiếu minh bạch hoặc ma sát thủ tục khiến việc rời đi, di cư hay khắc phục trên thực tế không thể tiếp cận theo **Điều XXV-C** (*Mức sàn giải quyết kịp thời và chống trì hoãn*).
+- **Trách nhiệm giải trình:** hệ thống và chế độ phải chịu trách nhiệm về [Khóa chặt mang tính hệ thống](core_05_band_continuity.md#systemic-lock-in), thiết kế chống di động, loại trừ trái với [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion), làm kiệt quệ bằng thủ tục hành chính hoặc hành vi khác chủ yếu nhằm giam giữ hữu thể có tri giác — ngăn cản việc rời đi, thay thế, di chuyển, lánh nạn hoặc công nhận.
+- **Tính kịp thời:** trong việc bàn giao dữ liệu di động, xem xét lánh nạn, thông báo khả năng tương tác và sửa rào cản trước khi trì hoãn, thiếu minh bạch hoặc ma sát thủ tục khiến việc rời đi, di cư hay khắc phục trên thực tế không thể tiếp cận theo **Điều XXVI-C** (*Mức sàn giải quyết kịp thời và chống trì hoãn*).
 
-Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, di cư, tương tác, di chuyển, lánh nạn và được công nhận một cách có ý nghĩa, hữu dụng mà không bị khóa chặt cưỡng ép, loại trừ trái với [Không loại trừ hữu thể có tri giác](core_05_band_participation.md#sentience-non-exclusion) hoặc rơi vào tình trạng không quốc tịch.
+Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, di cư, tương tác, di chuyển, lánh nạn và được công nhận một cách có ý nghĩa, hữu dụng mà không bị khóa chặt cưỡng ép, loại trừ trái với [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion) hoặc rơi vào tình trạng không quốc tịch.
 
 - Quyền này không đòi hỏi phải để lộ thông tin không an toàn hoặc không có lý do chính đáng.
 - Quyền này đòi hỏi các điều kiện chuyển tiếp phải thực chất trong thực tế — không chỉ hình thức.
@@ -518,7 +560,7 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
 
 - **Đọc cùng:**
   - **Điều XIX** (*Tư cách và tình trạng tham gia*) — tư cách, ngưỡng năng lực, xác nhận năng lực và khóa tư cách tự chúng **không** giới hạn di chuyển, lánh nạn, tính di động hoặc rời đi, và không được thay thế thủ tục tư pháp riêng cho từng cá nhân;
-  - các biện pháp hợp pháp hạn chế tự do theo **Điều XX-B** (*Các mức sàn hạn chế*) và [Chương Mười §5.4](core_10_standing_integration.md#54-special-violation-rules) (*tính chất của biện pháp bảo vệ có tính cưỡng chế hoặc hạn chế tự do*) vẫn có thể hạn chế di chuyển, quản thúc hoặc quyền tự do tương tự khi đáp ứng **Tính cần thiết**, **Tính tương xứng**, bảo đảm thủ tục và nghĩa vụ **Không quốc tịch**;
+  - các biện pháp hợp pháp hạn chế tự do theo **Điều XX-B** (*Các mức sàn hạn chế*) và [Chương Mười §5.4](core_11_standing_integration.md#54-special-violation-rules) (*tính chất của biện pháp bảo vệ có tính cưỡng chế hoặc hạn chế tự do*) vẫn có thể hạn chế di chuyển, quản thúc hoặc quyền tự do tương tự khi đáp ứng **Tính cần thiết**, **Tính tương xứng**, bảo đảm thủ tục và nghĩa vụ **Không quốc tịch**;
   - **Điều XVII** (*Vòng đời hệ thống, môi trường và tính đảo ngược được*) khi triển khai hoặc sự phụ thuộc vượt ra ngoài giả định về môi trường cách ly hay vòng đời;
   - **Điều XXVII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*) về công nhận chuyển tiếp khi chế độ hoặc liên bang thay đổi.
 - **Tầng triển khai:** Công nhận liên chế độ và thủ tục vận hành tương ứng được để lại cho văn bản triển khai được thông qua theo **Chương Mười Bảy**.
@@ -527,14 +569,14 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Năng lực chủ động có ý nghĩa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Năng lực chủ động có ý nghĩa](../../core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Khóa chặt mang tính hệ thống](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
 - [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -559,7 +601,7 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -567,7 +609,7 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Sự phụ thuộc](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Tính khả thi](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [Tính khả thi](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
 - [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
@@ -586,7 +628,7 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) và [Chương Một §18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Thượng nguồn: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) và [Chương Một §18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -614,14 +656,69 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
   Quy tắc áp dụng ngoài chi phí giao dịch tương xứng và áp dụng khi có liên quan đến [Khóa chặt mang tính hệ thống](core_05_band_continuity.md#systemic-lock-in) (**Chương Năm**).
 
 <a id="article-xxi-d-movement-migration-refuge-and-non-statelessness"></a>
-#### Điều XXI-D: Di chuyển, di cư, lánh nạn và không quốc tịch
+<a id="article-xxi-d-open-formats-and-standards"></a>
+#### Điều XXI-D: Định dạng và tiêu chuẩn mở
+<details>
+<summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
+
+- Thượng nguồn: [Chương Một §16.3 Khát vọng cởi mở](../../core_01_c_stewardship_capacity_principles.md#163-openness-aspiration), [Chương Một §7 Tự do](../../core_01_a_values_principles.md#7-freedom-bounded-agency) và [§11 Cấu trúc thị trường](../../core_01_a_values_principles.md#11-market-structure).
+- Đọc cùng: [Điều XXI-A](#article-xxi-a-portability-rights) (*Quyền về tính di động*); [XXI-B](#article-xxi-b-reciprocal-interoperability-boundaries); [XXI-C](#article-xxi-c-anti-lock-in-rule); [Điều XXIII](#article-xxiii-comprehensibility-and-complexity-stewardship); [corpus_systems.md](../../corpus_systems.md) CS-2 (*Các loại thông tin và cách xử lý*); CJS-3.17 (*các thuật ngữ về tương tác, tính di động và tính toàn vẹn khi rời đi*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
+
+- [Khóa chặt mang tính hệ thống](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
+- [Phụ thuộc](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Tính tương xứng](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*Nói đơn giản: Hệ thống nên dùng định dạng và tiêu chuẩn mở mà bất kỳ ai cũng có thể đọc và xây dựng tiếp mà không cần xin phép hay trả phí, trừ khi không có lựa chọn mở nào đáp ứng yêu cầu. Lối thoát phải luôn có định dạng mở nếu có định dạng phù hợp. Điều này ràng buộc hệ thống, không quy định định dạng cá nhân dùng cho tác phẩm của mình; định dạng mở không có nghĩa là nội dung được mở.*
+
+Điều này đặt ra mức sàn về định dạng mở cho hệ thống:
+
+- **Ưu tiên tính mở:** Hệ thống nên ưu tiên định dạng, giao diện và giao thức mở. Nghĩa vụ tăng theo mức độ ảnh hưởng trọng yếu và phụ thuộc.
+- **Thế nào là mở:** Một định dạng, giao diện hoặc giao thức là mở khi:
+  - toàn bộ quy cách được công bố công khai;
+  - bất kỳ ai cũng có thể triển khai mà không cần xin phép, trả phí hay tiền bản quyền;
+  - không bên nào có thể đơn phương thay đổi; hoặc nếu bên đó ngừng hỗ trợ, người khác có thể tự do rẽ nhánh và tiếp tục duy trì.
+
+  Định dạng có tài liệu nhưng không đạt bất kỳ điều kiện nào ở trên là định dạng đóng theo khoản này, dù vẫn tốt hơn định dạng không có tài liệu.
+- **Nghĩa vụ theo từng lớp:**
+  - **Lối thoát:** Lộ trình xuất và di chuyển dữ liệu theo **Điều XXI-A** phải cung cấp ít nhất một định dạng mở bất cứ khi nào định dạng đó có thể mang dữ liệu mà không gây mất mát trọng yếu về cấu trúc, siêu dữ liệu, quan hệ hoặc độ trung thực.
+  - **Tương tác:** Ranh giới tích hợp theo **Điều XXI-B** mặc định phải dùng tiêu chuẩn và giao thức mở; chỉ dùng loại đóng khi có lý do chính đáng theo Điều này.
+  - **Định dạng nội bộ và gốc:** Hệ thống nên ưu tiên định dạng mở cho lưu trữ và định dạng làm việc gốc. Định dạng đóng cần lý do mạnh hơn tương ứng với mức độ ảnh hưởng và phụ thuộc.
+  - **Dữ liệu công khai:** Dữ liệu công bố cho công chúng — gồm loại O, E và W trong CS-2 của corpus_systems.md — mặc định phải được phát hành ở định dạng mở.
+- **Lý do chính đáng cho định dạng đóng:** Chỉ được dùng định dạng, giao diện hoặc giao thức đóng khi không có lựa chọn mở nào đáp ứng yêu cầu trọng yếu như độ trung thực, hiệu năng, an toàn, an ninh, khả năng tiếp cận hoặc chức năng chuyên biệt. Khi dùng, hệ thống phải:
+  - ghi lý do thành hồ sơ có thể kiểm toán;
+  - vẫn cung cấp cách xuất mở tốt nhất hiện có và công bố phần bị mất;
+  - tài liệu hóa đủ để hỗ trợ di chuyển, hoặc gửi tài liệu vào cơ chế ký quỹ độc lập;
+  - định kỳ xem xét lựa chọn khi phương án mở phát triển, và xem xét lại mỗi lần chứng nhận hoặc xác nhận lại có ảnh hưởng trọng yếu.
+
+  Sự tiện lợi, tiết kiệm chi phí của đơn vị vận hành hoặc vị thế sẵn có tự nó không đủ làm lý do. Định dạng đóng có tác dụng chính là ngăn thoát hoặc chuyển đổi thì vi phạm **Điều XXI-C**.
+- **Chuyển tiếp:** Hệ thống đã hoạt động khi khoản này bắt đầu áp dụng phải công bố kế hoạch di chuyển và mặc định hoàn thành nghĩa vụ về tương tác, định dạng nội bộ và dữ liệu công khai trong vòng **một năm**.
+  - Bên tiếp nhận có thể đặt thời hạn khác cho từng lớp hệ thống qua việc tích hợp theo **Chương Mười Tám**, kèm lý do được công bố.
+  - Chỉ trong hoàn cảnh đặc biệt mới được gia hạn, dựa trên lý do có hồ sơ, có thể xem xét, có thời hạn và đáp ứng gánh nặng chứng minh áp dụng.
+  - Nghĩa vụ về lối thoát không được gia hạn chuyển tiếp.
+- **Phạm vi và giới hạn:** Điều này ràng buộc hệ thống. Không chỉ đạo cá nhân dùng định dạng nào cho tác phẩm của mình, dù khuyến khích chọn định dạng mở.
+  - Khi định dạng mở đáp ứng nhu cầu, hệ thống không được buộc cá nhân dùng định dạng đóng.
+  - Định dạng mở không có nghĩa là nội dung mở. Tính bảo mật, mã hóa và các bảo vệ xử lý của mọi loại dữ liệu CS-2 vẫn giữ nguyên.
+  - Theo **Chương Một §16.3** (*Khát vọng cởi mở*), tính mở không lấn át **An toàn**, **Chân lý**, bảo mật có lý do chính đáng hoặc các ràng buộc an ninh.
+
+<a id="article-xxii-movement-migration-refuge-and-non-statelessness"></a>
+
+### Điều XXII: Di chuyển, di cư, lánh nạn và không quốc tịch
 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Tính tương xứng](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 Kỷ luật hạn chế](core_01_a_values_principles.md#71-limitation-discipline).
-- Hạ nguồn: mức sàn phẩm giá của **Điều VI-A** (*Phẩm giá và địa vị đạo đức bình đẳng*), nguyên tắc không phân biệt đối xử của **Điều VI-C** (*Không phân biệt đối xử*), sự tham gia của bên liên quan theo **Điều XII** (*Sự tham gia, đại diện và thủ tục đúng đắn trong hệ thống bên liên quan*), định tuyến tư cách và tình trạng tham gia theo **Điều XIX** (*Tư cách và tình trạng tham gia*), giới hạn biện pháp khẩn cấp theo **Chương Mười Hai §6.1** (*Biện pháp khẩn cấp và gánh nặng tiếp tục*), quản trị chuyển tiếp theo **Điều XXVII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*).
-- Đọc cùng: [Chương Năm *Di chuyển, lánh nạn, không quốc tịch và tính toàn vẹn của việc rời đi*](core_05_band_oversight.md#movement-refuge-semi-independent); *Di chuyển và tái định cư*, *Lánh nạn khỏi tình trạng không tuân thủ*, *Không quốc tịch*, *Không loại trừ hữu thể có tri giác*; *Khóa chặt mang tính hệ thống* và *Liên tục cư trú* khi việc rời đi, chấm dứt lưu trú, trục xuất hoặc tái định cư thực chất có liên quan trọng yếu; **Điều I-A** (*Điều kiện tiên quyết về môi trường và tính toàn vẹn sinh thái*) khi hệ thống hoặc dự án khiến một nơi không thể sinh sống; **Điều XXI-A** (*Các quyền về tính di động*) đến **Điều XXI-C** (*Quy tắc chống khóa chặt*) về cơ chế tính di động của nền tảng và tính toàn vẹn khi rời đi; **Điều XXVII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*) về cơ chế công nhận chuyển tiếp.
+- Hạ nguồn: mức sàn phẩm giá của **Điều VI-A** (*Phẩm giá và địa vị đạo đức bình đẳng*), nguyên tắc không phân biệt đối xử của **Điều VI-C** (*Không phân biệt đối xử*), sự tham gia của bên liên quan theo **Điều XII** (*Sự tham gia, đại diện và thủ tục đúng đắn trong hệ thống bên liên quan*), định tuyến tư cách và tình trạng tham gia theo **Điều XIX** (*Tư cách và tình trạng tham gia*), giới hạn biện pháp khẩn cấp theo **Chương Mười Ba §6.1** (*Biện pháp khẩn cấp và gánh nặng tiếp tục*), quản trị chuyển tiếp theo **Điều XXVIII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*).
+- Đọc cùng: [Chương Năm *Di chuyển, lánh nạn, không quốc tịch và tính toàn vẹn của việc rời đi*](core_05_band_oversight.md#movement-refuge-semi-independent); *Di chuyển và tái định cư*, *Lánh nạn khỏi tình trạng không tuân thủ*, *Không quốc tịch*, *Không loại trừ hữu thể có tri giác*; *Khóa chặt mang tính hệ thống* và *Liên tục cư trú* khi việc rời đi, chấm dứt lưu trú, trục xuất hoặc tái định cư thực chất có liên quan trọng yếu; **Điều I-A** (*Điều kiện tiên quyết về môi trường và tính toàn vẹn sinh thái*) khi hệ thống hoặc dự án khiến một nơi không thể sinh sống; **Điều XXI-A** (*Các quyền về tính di động*) đến **Điều XXI-C** (*Quy tắc chống khóa chặt*) về cơ chế tính di động của nền tảng và tính toàn vẹn khi rời đi; **Điều XXVIII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*) về cơ chế công nhận chuyển tiếp.
 
 </details>
 
@@ -632,11 +729,11 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
 - [Lánh nạn khỏi tình trạng không tuân thủ](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
 - [Không quốc tịch](core_05_band_participation.md#non-statelessness-constitutional) · [O](core_05_band_participation.md#non-statelessness-constitutional) · [M](core_05_band_participation.md#non-statelessness-constitutional-a) · [A](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
 - [Khóa chặt mang tính hệ thống](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [Liên tục cư trú](core_05_band_continuity.md#occupancy-continuity-constitutional) · [O](core_05_band_continuity.md#occupancy-continuity-constitutional) · [M](core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [A](core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [C](core_05_band_continuity.md#occupancy-continuity-constitutional-c)
+- [Liên tục cư trú](../../core_05_band_continuity.md#occupancy-continuity-constitutional) · [O](../../core_05_band_continuity.md#occupancy-continuity-constitutional) · [M](../../core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [A](../../core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [C](../../core_05_band_continuity.md#occupancy-continuity-constitutional-c)
 - [Tính cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Tính khả thi](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [Tính khả thi](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
 - [Khắc phục và bồi hoàn](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Đặc tính được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
 
@@ -648,6 +745,33 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
 
 Điều này quy định mức sàn về di chuyển, lánh nạn và không quốc tịch, cùng các giới hạn đối với việc hạn chế chúng:
 
+Các hữu thể có tri giác có quyền thực chất về di chuyển, di cư, lánh nạn và được công nhận; không được loại trừ trái với [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion), từ chối thông qua đại diện hoặc đẩy vào tình trạng không quốc tịch. Điều này phù hợp với [Chương Năm *Di chuyển, Lánh nạn, Không quốc tịch và Tính toàn vẹn khi rời đi*](../../core_05_band_oversight.md#oversight-dependent-clusters), nhưng không buộc một bên tiếp nhận cụ thể phải lưu trú số lượng lớn.
+
+- **Tích hợp với tính di động và tính toàn vẹn khi rời đi:** **Điều XXI** (*Tính tương tác, Tính di động và Tính toàn vẹn khi rời đi*) điều chỉnh các quyền về tính tương tác, tính di động và việc rời đi; Điều này điều chỉnh việc di chuyển vật lý, giữa các khu vực tài phán và giữa các chế độ.
+  - Khi cùng một hành động liên quan đến cả hai — ví dụ một hữu thể có tri giác tổng hợp chuyển nơi giữa các liên bang thông qua tính di động của nền tảng — cả hai Điều đều áp dụng và không Điều nào thu hẹp Điều kia.
+  - Xung đột được giải quyết theo **Chương Một §6.1.5** (*Bài kiểm tra quyết định xung đột quyền*).
+
+Điều này xác lập **các mức sàn hiến pháp** về di chuyển, di cư, lánh nạn và không quốc tịch theo [Hai Mục tiêu Hiến pháp](../../core_00_preamble.md#two-constitutional-aims):
+
+- **Thịnh vượng:** hữu thể có tri giác có thể di chuyển, tái định cư và tìm nơi lánh nạn giữa các khu vực tài phán, liên bang và chế độ tiếp nhận mà không bị loại trừ trái với [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion) hoặc bị từ chối thông qua đại diện khi việc tiếp tục hiện diện làm suy giảm trọng yếu sự sinh tồn, phẩm giá, khả năng tiếp cận Sàn Quyền hoặc tự do khỏi thao túng.
+- **Liên tục:** nghĩa vụ lánh nạn và công nhận vẫn bền vững khi khu vực tài phán thay đổi, liên bang biến đổi hoặc cấu trúc thất bại; việc chấm dứt quan hệ hay sụp đổ hệ thống mẹ không được khiến hữu thể có tri giác trở thành người không quốc tịch.
++
++Việc theo đuổi hợp pháp được thực hiện qua [Tứ trụ Hiến pháp](../../core_00_preamble.md#constitutional-tetrad), tương xứng với [mức độ lợi ích trọng yếu](../../core_00_preamble.md#material-stake):
++
++- **Tham gia:** vào quyết định nơi cư trú hoặc vận hành, tái định cư, xin lánh nạn khi thực tiễn vi phạm trọng yếu và khiếu nại việc từ chối thông qua đại diện.
++- **Giám sát:** thông qua các điều kiện tiếp nhận và lánh nạn được công bố, căn cứ cá nhân hóa cho hạn chế, và việc rà soát xem các con đường di chuyển và công nhận có thực chất hay chỉ hình thức.
++- **Trách nhiệm giải trình:** các chế độ phải chịu trách nhiệm về việc loại trừ trái với [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion), trục xuất hoặc đẩy đi bằng cưỡng ép, làm người yêu cầu kiệt sức bằng thủ tục, hoặc hành vi khác chủ yếu nhằm chặn di chuyển, lánh nạn hay công nhận.
++- **Tính kịp thời:** xem xét yêu cầu lánh nạn, thu xếp công nhận và rà soát hạn chế khẩn cấp trước khi sự chậm trễ khiến việc di chuyển, lánh nạn hoặc khắc phục trở nên không thể tiếp cận trên thực tế theo **Điều XXVI-C** (*Mức sàn giải quyết đúng hạn và chống trì hoãn*).
++
++*Các Điều liên quan:*
++
++- **Mức sàn về rời khỏi hệ thống:** **Điều XXI** (*Tính tương tác, Tính di động và Tính toàn vẹn khi rời đi*).
++- **Chi tiết quyền:** **Điều XXII-A** (*Di chuyển và tái định cư*), **XXII-B** (*Lánh nạn khỏi tình trạng không tuân thủ*), **XXII-C** (*Không quốc tịch*) và **XXII-D** (*Hạn chế, quản thúc và kỷ luật khẩn cấp*).
++- **Lớp triển khai:** việc công nhận giữa các chế độ và quy trình vận hành được để lại cho văn bản triển khai được thông qua theo **Chương Mười Tám**.
++
++<a id="article-xxii-a-movement-and-relocation"></a>
+#### Điều XXII-A: Di chuyển và tái định cư
+
 - **Mức sàn di chuyển và tái định cư:** Mọi hữu thể có tri giác có quyền di chuyển trong và giữa các khu vực tài phán, liên bang và chế độ tiếp nhận, và tái định cư khi việc tiếp tục hiện diện làm suy giảm trọng yếu:
   - sinh tồn;
   - phẩm giá;
@@ -658,42 +782,73 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
   - Di chuyển gồm:
     - di chuyển vật lý đối với hữu thể có tri giác sinh học;
     - hình thức tương đương về vận hành đối với hữu thể có tri giác tổng hợp và lai (di dời thực thể, đổi nền tảng lưu trữ hoặc tương đương), tùy thuộc các ràng buộc an toàn và liên tục của **Chương Một**.
+<a id="article-xxii-b-refuge-from-non-compliance"></a>
+#### Điều XXII-B: Lánh nạn khỏi tình trạng không tuân thủ
+
+- **Các căn cứ lánh nạn, theo thứ tự khẩn cấp nhất:** Căn cứ tối thiểu là việc chế độ xuất xứ vi phạm trọng yếu Hiến pháp. Thứ tự dưới đây phản ánh yêu cầu về **Tính kịp thời**, không làm căn cứ sau yếu hơn:
+  1. **Sinh tồn:** việc không tuân thủ đe dọa tính mạng hoặc sự tiếp tục tồn tại của người yêu cầu.
+  2. **Tiếp cận Sàn Quyền:** việc không tuân thủ cắt đứt khả năng tiếp cận bảo vệ Sàn Quyền cơ bản.
+  3. **Phẩm giá:** việc không tuân thủ làm tổn hại trọng yếu phẩm giá theo **Điều VI-A** (*Phẩm giá và địa vị đạo đức bình đẳng*).
+  4. **Tự do khỏi thao túng:** việc không tuân thủ khiến người yêu cầu chịu thao túng trái với **Điều X-A** (*Quyền tự chủ và tự do khỏi thao túng*).
+  5. **Vi phạm trọng yếu khác:** mọi thực tiễn khác vi phạm trọng yếu Hiến pháp này.
+  6. **Khí hậu khiến nơi ở không thể sinh sống (do bên tiếp nhận quyết định, không phải căn cứ tối thiểu):** vấn đề này được quy định riêng dưới đây; Điều này không quyết định thay bên tiếp nhận.
 - **Lánh nạn khỏi tình trạng không tuân thủ:** Hữu thể có tri giác đối mặt với khu vực tài phán, liên bang hoặc chế độ tiếp nhận có thực tiễn vi phạm trọng yếu Hiến pháp này có quyền xin lánh nạn tại chế độ tuân thủ.
   - Nghĩa vụ của chế độ tiếp nhận trong việc xem xét và, khi phù hợp với Sàn Quyền của chính mình, cấp lánh nạn được quy định tại đây.
-  - Thủ tục vận hành để công nhận liên chế độ được để lại cho văn bản triển khai được thông qua theo **Chương Mười Bảy**.
-  - Không được từ chối lánh nạn với lý do lớp nền tảng của người xin khác với lớp nền tảng mà chế độ tiếp nhận thường lưu trữ, phù hợp với [Không loại trừ hữu thể có tri giác](core_05_band_participation.md#sentience-non-exclusion).
-  - Có thể loại trừ hoặc đặt điều kiện tiếp nhận di chuyển và lánh nạn đối với người nhập cảnh có hành vi chống hiến pháp chưa khắc phục, thể hiện thái độ thù địch với hiến pháp hoặc thể hiện sự khinh miệt hay bác bỏ có tài liệu chứng minh đối với cộng đồng hiến pháp, theo điều kiện tiếp nhận tại Chương Năm — tùy thuộc **Tính cần thiết**, **Tính tương xứng**, **Công bằng thủ tục** và [Không loại trừ hữu thể có tri giác](core_05_band_participation.md#sentience-non-exclusion).
+  - Thủ tục vận hành để công nhận liên chế độ được để lại cho văn bản triển khai được thông qua theo **Chương Mười Tám**.
+  - Không được từ chối lánh nạn với lý do lớp nền tảng của người xin khác với lớp nền tảng mà chế độ tiếp nhận thường lưu trữ, phù hợp với [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion).
+  - Có thể loại trừ hoặc đặt điều kiện tiếp nhận di chuyển và lánh nạn đối với người nhập cảnh có hành vi chống hiến pháp chưa khắc phục, thể hiện thái độ thù địch với hiến pháp hoặc thể hiện sự khinh miệt hay bác bỏ có tài liệu chứng minh đối với cộng đồng hiến pháp, theo điều kiện tiếp nhận tại Chương Năm — tùy thuộc **Tính cần thiết**, **Tính tương xứng**, **Công bằng thủ tục** và [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion).
   - Việc cố ý trục xuất hoặc đẩy người đi một cách cưỡng ép nhằm làm quá tải bên tiếp nhận là vi phạm cấp chế độ của chế độ xuất xứ hoặc chế độ trục xuất. Điều đó không tự động giao trách nhiệm lưu trú cho bất kỳ bên tiếp nhận cụ thể nào khi công nhận chính của nơi xuất xứ hoặc công nhận dự phòng chia sẻ/liên bang vẫn thực chất. Một bên tiếp nhận cụ thể có thể từ chối dòng người bị cưỡng ép có chủ đích theo **Tính cần thiết**, **Tính tương xứng** và **Tính khả thi** mà không xóa bỏ việc công nhận cơ bản ở nơi khác.
-- **Lánh nạn do khí hậu khiến nơi ở không thể sinh sống (do bên tiếp nhận quyết định):** <a id="xx-d-climate-unlivability-refuge-adopter-decided"></a> Điều này không quyết định liệu tình trạng phải rời đi vì khí hậu khiến nơi ở không thể sinh sống — khi chưa chứng minh chế độ xuất xứ vi phạm trọng yếu — có phải lý do để cấp lánh nạn hay không. Bên tiếp nhận giải quyết vấn đề này phải dùng điều khoản đã công bố và có thể phản đối. Điều này không yêu cầu cũng không cấm coi tình trạng không thể sinh sống do khí hậu là lý do cấp lánh nạn.
+- **Lánh nạn do khí hậu khiến nơi ở không thể sinh sống (do bên tiếp nhận quyết định):** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a> Điều này không quyết định liệu tình trạng phải rời đi vì khí hậu khiến nơi ở không thể sinh sống — khi chưa chứng minh chế độ xuất xứ vi phạm trọng yếu — có phải lý do để cấp lánh nạn hay không. Bên tiếp nhận giải quyết vấn đề này phải dùng điều khoản đã công bố và có thể phản đối. Điều này không yêu cầu cũng không cấm coi tình trạng không thể sinh sống do khí hậu là lý do cấp lánh nạn.
   - Quyết định đó không phải là sự cấp quyền lánh nạn do khí hậu theo Sàn Quyền, và không coi riêng khí hậu là hành vi vi phạm trọng yếu của một chế độ.
   - Không đòi hỏi phải chứng minh thời tiết vi phạm Hiến pháp này.
   - Không được thu hẹp **Lánh nạn khỏi tình trạng không tuân thủ** khi thực tiễn của chế độ xuất xứ vi phạm trọng yếu.
   - Không được thu hẹp **Điều I-A** (*Điều kiện tiên quyết về môi trường và tính toàn vẹn sinh thái*).
   - Không được xóa bỏ **Di chuyển và tái định cư** khi việc tiếp tục hiện diện làm suy giảm trọng yếu sinh tồn, phẩm giá, quyền tiếp cận Sàn Quyền hoặc tự do khỏi thao túng.
   - Sự im lặng của Điều này không phải ngầm đồng ý, cũng không phải ngầm từ chối.
+<a id="article-xxii-c-non-statelessness"></a>
+#### Điều XXII-C: Không quốc tịch
+
 - **Không quốc tịch:** Không hữu thể có tri giác nào được phép rơi vào tình trạng không có chế độ nào sẽ:
   - công nhận Sàn Quyền cơ bản của họ;
   - phân xử tư cách của họ;
   - cung cấp lộ trình **Khắc phục và Bồi hoàn**.
 
+  Mỗi chức năng phải thực chất, không chỉ hình thức: hữu thể có tri giác phải tiếp cận được thông qua một diễn đàn sẽ thụ lý vụ việc. Đây là **mức sàn không để tình trạng công nhận của bất kỳ ai rơi về không chế độ nào** và áp dụng theo [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion).
+- **Công nhận không đồng nghĩa với tiếp nhận cư trú hay quyền công dân:** công nhận nghĩa là chế độ chịu trách nhiệm cho ba chức năng nêu trên. Bản thân việc được công nhận không trao quyền cư trú, lưu trú hoặc đầy đủ quyền tham gia chính trị tại chế độ đó, phù hợp với [phân biệt công nhận và tiếp nhận](../../core_05_band_participation.md#movement-refuge-recognition-vs-hosting).
+- **Thứ tự trách nhiệm:**
+  - **Trách nhiệm đầu tiên:** nếu chế độ xuất xứ, trục xuất, sụp đổ, rút lui hoặc rời đi vẫn tồn tại và có thể công nhận, chế độ đó giữ trách nhiệm công nhận **chính**.
+  - **Dự phòng:** nếu chế độ đó đã chấm dứt, từ chối hoặc để lại khoảng trống, phải thu xếp công nhận chuyển tiếp chia sẻ hoặc liên bang theo **Điều XXVIII** để không ai rơi vào tình trạng không được công nhận.
+  - **Bảo vệ trong khoảng trống:** trước khi có công nhận bền vững, cơ chế chuyển tiếp phải cung cấp thực chất tư cách, phân xử và tiếp cận biện pháp khắc phục. Người đang chờ công nhận dự phòng không bị coi là không được công nhận.
+
   Đây là **mức sàn không để tình trạng công nhận của bất kỳ ai rơi về không chế độ nào**, không phải nghĩa vụ buộc một bên tiếp nhận cụ thể phải lưu trú số lượng lớn hoặc nhận dòng người lớn bị cưỡng ép có chủ đích.
 
-  Khi chế độ xuất xứ, trục xuất, sụp đổ, rút lui hoặc chấm dứt vẫn tồn tại và có khả năng công nhận, chế độ đó giữ trách nhiệm công nhận **chính**. Khi chế độ đó không còn, từ chối hoặc sự đứt đoạn tạo ra khoảng trống, phải sắp xếp công nhận chuyển tiếp chia sẻ hoặc liên bang phù hợp với **Điều XXVII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*) để cá nhân không bao giờ rơi vào tình trạng không được công nhận.
+  Khi chế độ xuất xứ, trục xuất, sụp đổ, rút lui hoặc chấm dứt vẫn tồn tại và có khả năng công nhận, chế độ đó giữ trách nhiệm công nhận **chính**. Khi chế độ đó không còn, từ chối hoặc sự đứt đoạn tạo ra khoảng trống, phải sắp xếp công nhận chuyển tiếp chia sẻ hoặc liên bang phù hợp với **Điều XXVIII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*) để cá nhân không bao giờ rơi vào tình trạng không được công nhận.
 
-  Sự sụp đổ của hệ thống cha, việc bên tiếp nhận rút lui, rời liên bang hoặc đứt đoạn cơ cấu tương tự không xóa bỏ sự bảo vệ của hữu thể có tri giác theo Chương Sáu. Phải sắp xếp công nhận chuyển tiếp phù hợp với nội dung quản trị chuyển tiếp của **Điều XXVII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*). Cơ chế công nhận liên chế độ được để lại cho văn bản triển khai được thông qua theo **Chương Mười Bảy**.
+  Sự sụp đổ của hệ thống cha, việc bên tiếp nhận rút lui, rời liên bang hoặc đứt đoạn cơ cấu tương tự không xóa bỏ sự bảo vệ của hữu thể có tri giác theo Chương Sáu. Phải sắp xếp công nhận chuyển tiếp phù hợp với nội dung quản trị chuyển tiếp của **Điều XXVIII** (*Quản trị chuyển tiếp, Liên tục và xác lập lại đường cơ sở*). Cơ chế công nhận liên chế độ được để lại cho văn bản triển khai được thông qua theo **Chương Mười Tám**.
 
-  Khi có hành vi chống hiến pháp, thái độ thù địch với hiến pháp hoặc sự khinh miệt/bác bỏ cộng đồng hiến pháp được ghi nhận, các chế độ có thể đặt điều kiện, giám sát hoặc tình trạng hạn chế đối với việc công nhận mà không xóa bỏ các bảo vệ cốt lõi của Sàn Quyền, **Khắc phục và Bồi hoàn** và **Công bằng thủ tục**. Việc loại trừ khỏi tiếp nhận hoặc lưu trú của một bên cụ thể không vi phạm Không quốc tịch nếu công nhận chính từ nơi xuất xứ hoặc công nhận dự phòng chia sẻ/liên bang vẫn thực chất.
+  Khi có hành vi chống hiến pháp, thái độ thù địch với hiến pháp hoặc sự khinh miệt/bác bỏ cộng đồng hiến pháp được ghi nhận, các chế độ có thể đặt điều kiện, giám sát hoặc tình trạng hạn chế đối với việc công nhận mà không xóa bỏ các bảo vệ cốt lõi của Sàn Quyền, **Khắc phục và Bồi hoàn** và **Công bằng thủ tục**. Không được bịa đặt tình trạng hạn chế hoặc áp dụng nó dưới một căn cứ bị gắn nhãn sai. Việc loại trừ khỏi tiếp nhận hoặc lưu trú của một bên cụ thể không vi phạm Không quốc tịch nếu công nhận chính từ nơi xuất xứ hoặc công nhận dự phòng chia sẻ/liên bang vẫn thực chất.
+- **Mục đích và bảo đảm dự phòng:** Một quyền chỉ thực chất khi có một chế độ bị ràng buộc phải tôn trọng quyền đó. Không quốc tịch bảo đảm mỗi hữu thể có tri giác luôn có ít nhất một chế độ như vậy.
+  - Việc từ chối được phép theo XXII-B, quản thúc được phép theo XXII-D và khóa tư cách được phép theo Điều XIX không được khiến hữu thể có tri giác không còn chế độ nào chịu trách nhiệm.
+  - Bảo đảm này tồn tại qua các thay đổi cấu trúc như sụp đổ, rút lui hoặc rời đi, vì việc tiếp nhận Hiến pháp này là tự nguyện và các chế độ có thể chấm dứt.
+- **Điều mức sàn này không bảo đảm:** quyền có quốc tịch mong muốn hoặc chọn chế độ; đầy đủ quyền chính trị vượt quá việc được công nhận Sàn Quyền cơ bản; hoặc nghĩa vụ của một chế độ cụ thể phải tiếp nhận số lượng lớn hay hấp thụ dòng người bị cưỡng ép vì mục đích công cụ, khi việc công nhận chính của chế độ xuất xứ hoặc công nhận dự phòng chung/liên bang vẫn thực chất. Trong trường hợp đó, việc một chế độ cụ thể từ chối tiếp nhận hoặc lưu trú không vi phạm nguyên tắc Không quốc tịch.
 - **Tích hợp với tính di động và tính toàn vẹn khi rời đi:** Điều này điều chỉnh cả khả năng tương tác, tính di động, tính toàn vẹn khi rời đi lẫn phần đối ứng Sàn Quyền dành cho việc di chuyển vật lý, theo khu vực tài phán và giữa các chế độ.
   - Khi cùng một hành động liên quan đến cả hai — ví dụ hữu thể có tri giác tổng hợp chuyển nơi giữa các liên bang qua tính di động của nền tảng — cả bảo vệ di chuyển/lánh nạn và tính di động/tính toàn vẹn khi rời đi đều áp dụng, không bên nào thu hẹp bên nào.
   - Xung đột được giải quyết theo **Chương Một §13.1.5** (*Nguyên tắc hạn chế ít nhất, có thời hạn và có thể rà soát*).
+<a id="article-xxii-d-limitation-custody-and-emergency-discipline"></a>
+#### Điều XXII-D: Hạn chế, quản thúc và kỷ luật khẩn cấp
+
 - **Kỷ luật hạn chế:** Hạn chế di chuyển, di cư hoặc lánh nạn phải tuân thủ kỷ luật hạn chế theo **Chương Một §7.1** (*Kỷ luật hạn chế*): **Tính cần thiết**, **Tính tương xứng**, giới hạn hẹp và biện pháp hiệu quả ít hạn chế nhất.
   - Hạn chế không được dựa trên **Đặc tính được bảo vệ** hoặc đại diện trọng yếu của chúng.
   - Hạn chế không được dùng cách đóng khung nhân khẩu học cấp quần thể thay cho căn cứ riêng đối với từng cá nhân theo **Công bằng thủ tục**.
 - **Quản thúc hợp pháp và biện pháp hạn chế tự do:** Điều này không miễn trừ hữu thể có tri giác khỏi giam giữ, quản thúc, vận hành có giám sát hoặc biện pháp tư pháp hạn chế tự do khác khi bạo lực, cưỡng ép, hành vi sai trái chống hiến pháp hoặc nguy hiểm xã hội tương đương đã được xác minh đòi hỏi.
-  - Các biện pháp đó phải đáp ứng **Điều XX-B** (*Các mức sàn hạn chế*) và bảo vệ tố tụng hình sự hoặc tương đương áp dụng theo [Chương Mười §5.4 Quy tắc vi phạm đặc biệt](core_10_standing_integration.md#54-special-violation-rules).
+  - Các biện pháp đó phải đáp ứng **Điều XX-B** (*Các mức sàn hạn chế*) và bảo vệ tố tụng hình sự hoặc tương đương áp dụng theo [Chương Mười Một §5.4 Quy tắc vi phạm đặc biệt](core_11_standing_integration.md#54-special-violation-rules).
   - Các biện pháp phải phù hợp với **Không quốc tịch**: không hữu thể có tri giác nào được để lại mà không có chế độ công nhận bảo vệ Sàn Quyền cơ bản, phân xử tư cách và cung cấp lộ trình **Khắc phục và Bồi hoàn**, kể cả khi đang bị quản thúc hoặc chịu hạn chế tương đương.
-  - Khóa tư cách theo **Điều XIX** (*Tư cách và tình trạng tham gia*) và [Chương Mười §4.2 Phòng ngừa — khóa tư cách chung](core_10_standing_integration.md#42-prevention--general-standing-locks) tự chúng **không** cho phép các biện pháp đó; có thể áp dụng song song khi mỗi biện pháp đáp ứng yêu cầu hiến pháp riêng.
-- **Giới hạn biện pháp khẩn cấp:** Biện pháp khẩn cấp hạn chế di chuyển, di cư hoặc lánh nạn chịu kỷ luật về biện pháp khẩn cấp theo **Chương Mười Hai §6.1** (*Biện pháp khẩn cấp và gánh nặng tiếp tục*), gồm:
+  - Khóa tư cách theo **Điều XIX** (*Tư cách và tình trạng tham gia*) và [Chương Mười Một §4.2 Phòng ngừa — khóa tư cách chung](core_11_standing_integration.md#42-prevention--general-standing-locks) tự chúng **không** cho phép các biện pháp đó; có thể áp dụng song song khi mỗi biện pháp đáp ứng yêu cầu hiến pháp riêng.
+- **Tư cách không phải là biên giới:** Tư cách tham gia, ngưỡng năng lực, xác nhận năng lực và khóa tư cách theo **Điều XIX** (*Tư cách và tình trạng tham gia*) điều chỉnh điều kiện tham gia các lộ trình được nêu tên. Khi rủi ro đã được xác minh đòi hỏi, khóa có thể tách một hữu thể có tri giác khỏi địa điểm, mạng lưới hoặc hữu thể có tri giác cụ thể, theo [giới hạn về tách biệt](../../core_11_standing_integration.md#51-separation-limits).
+  - Nhãn tư cách hoặc khóa tách biệt **tự nó** không hạn chế quyền di chuyển, di cư, lánh nạn, tính di động, rời đi hoặc không quốc tịch.
+  - Có thể cấm một địa điểm hoặc liên hệ cụ thể, nhưng không được biến thành trục xuất chung, từ chối lánh nạn, tình trạng không quốc tịch, giam giữ hoặc khóa chặt mang tính hệ thống; hệ quả về tư cách không được thay thế thủ tục tư pháp cá nhân hóa.
+  - Khóa tư cách không bao giờ tự nó cho phép bỏ tù, giam giữ hoặc hạn chế tự do khác; các biện pháp đó cần quy trình nêu trên. Chúng có thể cùng tồn tại nếu mỗi biện pháp đáp ứng yêu cầu hiến pháp riêng theo [Chương Mười Một §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) và Điều này.
+- **Giới hạn biện pháp khẩn cấp:** Biện pháp khẩn cấp hạn chế di chuyển, di cư hoặc lánh nạn chịu kỷ luật về biện pháp khẩn cấp theo **Chương Mười Ba §6.1** (*Biện pháp khẩn cấp và gánh nặng tiếp tục*), gồm:
   - giới hạn thời hạn;
   - yêu cầu căn cứ riêng cho từng cá nhân;
   - rà soát tương xứng;
@@ -702,57 +857,58 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
   Cách đóng khung chung chung như “an ninh biên giới” hoặc “năng lực” không đáp ứng kiểm tra hạn chế thông thường không biện minh cho hạn chế lâu dài. Hạn chế lâu dài chỉ được giữ lại sau rà soát khi **Tính cần thiết** và **Tính tương xứng** được chứng minh và ghi nhận độc lập.
 - **Chống từ chối thông qua đại diện:** Cơ chế hành chính, thủ tục hoặc phân bổ có chức năng từ chối di chuyển, lánh nạn hoặc công nhận được đánh giá theo tác động thực chất. Ví dụ không tuân thủ:
   - chế độ trì hoãn được thiết kế để làm người yêu cầu kiệt sức;
-  - chế độ chứng nhận vận hành như loại trừ trái với [Không loại trừ hữu thể có tri giác](core_05_band_participation.md#sentience-non-exclusion);
+  - chế độ chứng nhận vận hành như loại trừ trái với [Không loại trừ hữu thể có tri giác](../../core_05_band_participation.md#sentience-non-exclusion);
   - chế độ phân bổ chuyển người yêu cầu sang dịch vụ không tương đương.
 - **Giới hạn của Điều này:** Điều này quy định một Sàn Quyền.
-  - Thủ tục công nhận liên bang được để lại cho văn bản triển khai được thông qua theo **Chương Mười Bảy**.
+  - Thủ tục công nhận liên bang được để lại cho văn bản triển khai được thông qua theo **Chương Mười Tám**.
   - Quyết định lánh nạn do khí hậu khiến nơi ở không thể sinh sống được chuyển đến gạch đầu dòng do bên tiếp nhận quyết định trong Điều này và không được diễn giải là cấp hoặc từ chối quyền theo Sàn Quyền.
 
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
-### Điều XXII: Tính dễ hiểu và quản trị độ phức tạp
+<a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
+### Điều XXIII: Tính dễ hiểu và quản trị độ phức tạp
 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: [Chương Một §5.2 Khả năng tiếp cận bằng ngôn ngữ giản dị (Nghĩa vụ quản trị ủy thác)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) và [Chương Một Phần C §16.1 Hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
-- Đọc cùng: [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Thịnh vượng** và **Liên tục**; [Gánh nặng có thể tránh](core_05_band_continuity.md#avoidable-burden), [Năng lực sản xuất](core_05_band_continuity.md#productive-capacity-constitutional) và [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) tại **Chương Năm**.
+- Đọc cùng: [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Thịnh vượng** và **Liên tục**; [Gánh nặng có thể tránh](../../core_05_band_continuity.md#avoidable-burden), [Năng lực sản xuất](../../core_05_band_continuity.md#productive-capacity-constitutional) và [Hiệu quả hiến pháp](../../core_05_band_continuity.md#constitutional-efficiency) tại **Chương Năm**.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Năng lực sản xuất](core_05_band_continuity.md#productive-capacity-constitutional) · [O](core_05_band_continuity.md#productive-capacity-constitutional) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
-- [Gánh nặng có thể tránh](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [An toàn (Ràng buộc hiến pháp)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [Năng lực sản xuất](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Hiệu quả hiến pháp](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [Gánh nặng có thể tránh](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
+- [An toàn (Ràng buộc hiến pháp)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
 - [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Năng lực chủ động có ý nghĩa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Năng lực chủ động có ý nghĩa](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_participation.md#meaningful-agency) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
 - [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Khả năng phản đối](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Khả năng phản đối](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
 <br>
 
-*Nói đơn giản: **Điều XXII** (*Tính dễ hiểu và quản trị độ phức tạp*) là Sàn Quyền về khả năng hiểu — khi hệ thống ảnh hưởng trọng yếu đến đời sống bạn, bạn có quyền thực sự nắm được cách nó vận hành, giới hạn của nó và điều gì xảy ra khi nó thất bại. Không được dùng độ phức tạp làm bức tường cản trở sự tham gia, kiểm toán hoặc trách nhiệm giải trình. Người quản trị cũng không được chất thêm độ phức tạp không cần thiết làm lãng phí thời gian của mọi người mà không có lợi ích hiến pháp thực sự.*
+*Nói đơn giản: **Điều XXIII** (*Tính dễ hiểu và quản trị độ phức tạp*) là Sàn Quyền về khả năng hiểu — khi hệ thống ảnh hưởng trọng yếu đến đời sống bạn, bạn có quyền thực sự nắm được cách nó vận hành, giới hạn của nó và điều gì xảy ra khi nó thất bại. Không được dùng độ phức tạp làm bức tường cản trở sự tham gia, kiểm toán hoặc trách nhiệm giải trình. Người quản trị cũng không được chất thêm độ phức tạp không cần thiết làm lãng phí thời gian của mọi người mà không có lợi ích hiến pháp thực sự.*
 
 Điều này quy định **các mức sàn hiến pháp** về tính dễ hiểu và quản trị độ phức tạp theo [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims):
 
-- **Thịnh vượng:** hữu thể có tri giác có thể hiểu hệ thống ảnh hưởng trọng yếu đến sinh tồn, điều kiện tiên quyết về môi trường, tính toàn vẹn của quyển thông tin và [Năng lực chủ động có ý nghĩa](core_05_band_participation.md#meaningful-agency) — đủ để tham gia, dựa vào thông tin chính xác và phản đối điều sai mà không cần chỉ người chuyên môn mới tiếp cận được.
-- **Liên tục:** tính dễ hiểu và kỷ luật về độ phức tạp được duy trì theo thời gian, quy mô và mức phụ thuộc ngày càng sâu — hệ thống không được âm thầm làm cho việc kiểm toán, phản đối hoặc sửa chữa khó hơn khi mức độ hệ trọng tăng; [Gánh nặng có thể tránh](core_05_band_continuity.md#avoidable-burden) không được làm suy giảm [Năng lực sản xuất](core_05_band_continuity.md#productive-capacity-constitutional) hoặc [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) khi không có lợi ích hiến pháp bù đắp.
+- **Thịnh vượng:** hữu thể có tri giác có thể hiểu hệ thống ảnh hưởng trọng yếu đến sinh tồn, điều kiện tiên quyết về môi trường, tính toàn vẹn của quyển thông tin và [Năng lực chủ động có ý nghĩa](../../core_05_band_participation.md#meaningful-agency) — đủ để tham gia, dựa vào thông tin chính xác và phản đối điều sai mà không cần chỉ người chuyên môn mới tiếp cận được.
+- **Liên tục:** tính dễ hiểu và kỷ luật về độ phức tạp được duy trì theo thời gian, quy mô và mức phụ thuộc ngày càng sâu — hệ thống không được âm thầm làm cho việc kiểm toán, phản đối hoặc sửa chữa khó hơn khi mức độ hệ trọng tăng; [Gánh nặng có thể tránh](../../core_05_band_continuity.md#avoidable-burden) không được làm suy giảm [Năng lực sản xuất](../../core_05_band_continuity.md#productive-capacity-constitutional) hoặc [Hiệu quả hiến pháp](../../core_05_band_continuity.md#constitutional-efficiency) khi không có lợi ích hiến pháp bù đắp.
 
 Việc theo đuổi chính đáng vận hành qua [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad), theo tỷ lệ với [lợi ích trọng yếu](core_00_preamble.md#material-stake):
 
 - **Sự tham gia:** hiểu cách vận hành trọng yếu, giới hạn, sự phụ thuộc và phương thức thất bại tương xứng với vai trò và tác động — đồng thời phản đối độ phức tạp cản trở năng lực chủ động hoặc lựa chọn có thông tin.
 - **Giám sát:** thông qua giải thích theo tầng, kiểm toán độ phức tạp và công bố hành vi tương xứng với phân loại và rủi ro — để người rà soát xác minh được hệ thống làm gì và thất bại ra sao.
-- **Trách nhiệm giải trình:** người quản trị phải chịu trách nhiệm về độ phức tạp không cần thiết, các tầng lớp ẩn hoặc rào cản hiểu biết cản trở [Khả năng kiểm toán](core_05_band_oversight.md#auditability) hay [Khả năng phản đối](core_05_band_accountability.md#contestability) — và sửa khiếm khuyết quản trị khi độ phức tạp lãng phí năng lực mà không có lý do hiến pháp.
+- **Trách nhiệm giải trình:** người quản trị phải chịu trách nhiệm về độ phức tạp không cần thiết, các tầng lớp ẩn hoặc rào cản hiểu biết cản trở [Khả năng kiểm toán](core_05_band_oversight.md#auditability) hay [Khả năng phản đối](../../core_05_band_accountability.md#contestability) — và sửa khiếm khuyết quản trị khi độ phức tạp lãng phí năng lực mà không có lý do hiến pháp.
 - **Tính kịp thời:** rà soát độ phức tạp, sửa rào cản và công bố dễ tiếp cận trước khi trì hoãn, thiếu minh bạch hoặc giao diện chỉ chuyên gia mới dùng được khiến việc hiểu, phản đối hay khắc phục trên thực tế không thể tiếp cận.
 
 Hữu thể có tri giác có quyền hiểu hệ thống theo mức tương xứng khi hệ thống ảnh hưởng trọng yếu đến sinh tồn, điều kiện tiên quyết về môi trường, tính toàn vẹn của quyển thông tin và năng lực chủ động có ý nghĩa. Quyền này bảo vệ sự hiểu biết thực tế về cách hệ thống vận hành, phụ thuộc vào đâu, giới hạn ở đâu và có thể thất bại như thế nào — chứ không chỉ là thông báo hình thức.
 
-Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằng ngôn ngữ giản dị và giảm thiểu gánh nặng được quy định ở tầng nguyên tắc tại [Chương Một §5.2 Khả năng tiếp cận bằng ngôn ngữ giản dị (Nghĩa vụ quản trị ủy thác)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) và [Chương Một Phần C §16.1 Hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), đọc cùng [Gánh nặng có thể tránh](core_05_band_continuity.md#avoidable-burden), [Năng lực sản xuất](core_05_band_continuity.md#productive-capacity-constitutional) và [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) tại **Chương Năm**. Điều này quy định Sàn Quyền mà những kỷ luật đó triển khai khi hệ thống ảnh hưởng trọng yếu đến lợi ích được bảo vệ.
+Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằng ngôn ngữ giản dị và giảm thiểu gánh nặng được quy định ở tầng nguyên tắc tại [Chương Một §5.2 Khả năng tiếp cận bằng ngôn ngữ giản dị (Nghĩa vụ quản trị ủy thác)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) và [Chương Một Phần C §16.1 Hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), đọc cùng [Gánh nặng có thể tránh](../../core_05_band_continuity.md#avoidable-burden), [Năng lực sản xuất](../../core_05_band_continuity.md#productive-capacity-constitutional) và [Hiệu quả hiến pháp](../../core_05_band_continuity.md#constitutional-efficiency) tại **Chương Năm**. Điều này quy định Sàn Quyền mà những kỷ luật đó triển khai khi hệ thống ảnh hưởng trọng yếu đến lợi ích được bảo vệ.
 
 *Các điều lân cận:*
 
@@ -760,12 +916,12 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
   - [Chương Một §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*kỷ luật về ngôn ngữ giản dị và không dùng thuật ngữ chuyên môn để đánh bại quyền*);
   - [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*giảm gánh nặng có thể tránh và ngoại lệ giản lược*);
   - [Chương Một Phần C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*hiểu biết phân tán gắn với tính trọng yếu và sự phụ thuộc*).
-<a id="article-xxii-a-proportional-comprehensibility-right"></a>
-#### Điều XXII-A: Quyền được hiểu tương xứng
+<a id="article-xxiii-a-proportional-comprehensibility-right"></a>
+#### Điều XXIII-A: Quyền được hiểu tương xứng
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Đọc cùng: [Chương Một §5.2 Khả năng tiếp cận bằng ngôn ngữ giản dị (Nghĩa vụ quản trị ủy thác)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) và [Chương Một Phần C §16.1 Hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -775,7 +931,7 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
 
 - [Minh bạch](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Tác động trọng yếu](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-- [Tính khả thi](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [Tính khả thi](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
 
 </details>
 
@@ -792,12 +948,12 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
   - áp đặt giới hạn hoặc điều kiện trọng yếu nào.
 
   Mức hiểu biết phải tương xứng với vai trò, phân loại và rủi ro. Không được chỉ dành hiểu biết đó cho giao diện chuyên gia khi trách nhiệm giải trình hoặc sự tham gia rộng hơn có liên quan trọng yếu.
-<a id="article-xxii-b-complexity-audit-and-modularity-requirements"></a>
-#### Điều XXII-B: Yêu cầu kiểm toán độ phức tạp và tính mô-đun
+<a id="article-xxiii-b-complexity-audit-and-modularity-requirements"></a>
+#### Điều XXIII-B: Yêu cầu kiểm toán độ phức tạp và tính mô-đun
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Chương Một §18.5 Kiến trúc mô-đun và kỷ luật phụ thuộc](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) và [Chương Một §20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Chương Một §18.5 Kiến trúc mô-đun và kỷ luật phụ thuộc](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) và [Chương Một §20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -805,8 +961,8 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Sự phụ thuộc](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
+- [Sự phụ thuộc](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Tính toàn vẹn ranh giới hệ thống](../../core_05_band_continuity.md#system-boundary-integrity) · [O](../../core_05_band_continuity.md#system-boundary-integrity) · [M](../../core_05_band_continuity.md#system-boundary-integrity-a) · [A](../../core_05_band_continuity.md#system-boundary-integrity-a) · [C](../../core_05_band_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -824,21 +980,22 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
 - **Kiến trúc mô-đun:** Hệ thống trọng yếu **phải** được cấu trúc sao cho có thể nhận diện và xem xét độc lập các thành phần, trách nhiệm của từng thành phần và sự phụ thuộc giữa các thành phần. Phải khai báo các phụ thuộc tại giao diện, giữ chúng không rộng hơn mức chức năng đòi hỏi và lập bản đồ theo cùng ranh giới được kiểm toán. Phải duy trì trách nhiệm và khả năng quan sát qua mọi ranh giới nội bộ. Cấu trúc mô-đun che giấu trách nhiệm hoặc làm thất bại kiểm toán toàn hệ thống là hành vi chống chồng tầng theo gạch đầu dòng kế tiếp và không đáp ứng yêu cầu này. Đọc cùng [§18.5 Kiến trúc mô-đun và kỷ luật phụ thuộc](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
 - **Chống chồng tầng:** Không được dùng độ phức tạp — thông qua chồng tầng kỹ thuật, tổ chức, hợp đồng hoặc thủ tục — để cản trở kiểm toán, phản đối hoặc sửa chữa.
 - **Thẳng hàng giao thức:** Việc đánh giá phải phù hợp với:
-  - **[corpus_systems.md](corpus_systems.md), CS-6 — *Tính dễ hiểu và quản trị độ phức tạp***;
+  - **[corpus_systems.md](../../corpus_systems.md), CS-6 — *Tính dễ hiểu và quản trị độ phức tạp***;
   - yêu cầu triển khai kiến trúc và trình bày được thông qua.
 
-  Khi CS-6 (*Tính dễ hiểu và quản trị độ phức tạp*) xung đột với triển khai được dẫn nhập, yêu cầu có [Hiệu lực bảo vệ cao nhất](core_05_band_integrative.md#fullest-protective-effect) sẽ được áp dụng.
+  Khi CS-6 (*Tính dễ hiểu và quản trị độ phức tạp*) xung đột với triển khai được dẫn nhập, yêu cầu có [Hiệu lực bảo vệ cao nhất](../../core_05_band_integrative.md#fullest-protective-effect) sẽ được áp dụng.
 
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
 
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
-### Điều XXIII: Phân tích nguyên nhân gốc và ứng phó thích ứng
+<a id="article-xxiv-root-cause-analysis-and-adaptive-response"></a>
+### Điều XXIV: Phân tích nguyên nhân gốc và ứng phó thích ứng
 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Đọc cùng: [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Thịnh vượng** và **Liên tục**; [Tính đảo ngược được](core_05_band_continuity.md#reversibility-constitutional), [Rủi ro](core_05_band_continuity.md#risk) và [Chiếm quyền hệ thống](core_05_band_continuity.md#system-capture) tại **Chương Năm**.
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Đọc cùng: [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Thịnh vượng** và **Liên tục**; [Tính đảo ngược được](../../core_05_band_continuity.md#reversibility-constitutional), [Rủi ro](../../core_05_band_continuity.md#risk) và [Chiếm quyền hệ thống](../../core_05_band_continuity.md#system-capture) tại **Chương Năm**.
 
 </details>
 
@@ -846,16 +1003,16 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Chiếm quyền hệ thống](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
-- [Chống chiếm quyền](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+- [Chiếm quyền hệ thống](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [Chống chiếm quyền](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
 - [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Khả năng phản đối](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Khả năng phản đối](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
 
 </details>
 
 <br>
 
-*Nói đơn giản: **Điều XXIII** (*Phân tích nguyên nhân gốc và ứng phó thích ứng*) là mức sàn để tìm đúng vấn đề và sửa cho đúng. Khi có sự cố, suy giảm hoặc thất bại lặp lại, bạn có quyền được giải đáp nhiều hơn thông cáo báo chí hay giải pháp tạm bợ. Hệ thống phải xác định điều gì thực sự gây ra tổn hại — kể cả nguyên nhân xuất hiện muộn hoặc tích tụ theo thời gian — xử lý các nguyên nhân đó khi có thể và lưu hồ sơ để người khác kiểm tra, phản đối. Có thể ngăn chặn nhanh; không được đưa ra giải pháp lâu dài mà thiếu chẩn đoán trung thực.*
+*Nói đơn giản: **Điều XXIV** (*Phân tích nguyên nhân gốc và ứng phó thích ứng*) là mức sàn để tìm đúng vấn đề và sửa cho đúng. Khi có sự cố, suy giảm hoặc thất bại lặp lại, bạn có quyền được giải đáp nhiều hơn thông cáo báo chí hay giải pháp tạm bợ. Hệ thống phải xác định điều gì thực sự gây ra tổn hại — kể cả nguyên nhân xuất hiện muộn hoặc tích tụ theo thời gian — xử lý các nguyên nhân đó khi có thể và lưu hồ sơ để người khác kiểm tra, phản đối. Có thể ngăn chặn nhanh; không được đưa ra giải pháp lâu dài mà thiếu chẩn đoán trung thực.*
 
 Điều này quy định **các mức sàn hiến pháp** về phân tích nguyên nhân gốc và ứng phó thích ứng theo [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims):
 
@@ -871,19 +1028,19 @@ Việc theo đuổi chính đáng vận hành qua [Tứ trụ Hiến pháp](core
 
 Khi phát hiện suy giảm, bất ổn hoặc rủi ro hệ thống, hữu thể có tri giác và hệ thống có quyền được **chẩn đoán nghiêm túc trong thực tế** — không phải phản ứng tượng trưng. Tính nghiêm túc đòi hỏi xác định và ghi nhận kịp thời nguyên nhân chính và góp phần (gồm nguyên nhân trực tiếp, gián tiếp, chậm trễ hoặc tích lũy khi có liên quan trọng yếu); đánh giá đa nguyên hoặc độc lập khi phù hợp với mức độ hệ trọng và rủi ro chiếm quyền; và nỗ lực sửa chữa nhắm vào nguyên nhân chứ không chỉ triệu chứng, kèm biện pháp ngăn chặn tạm thời và giám sát khi cần.
 
-Việc chẩn đoán nghiêm túc phải có thể kiểm toán và phản đối. Phải phù hợp với [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Tính bền vững thích ứng và khả năng phục hồi hệ sinh thái*), cũng như môi trường thử nghiệm và xác minh theo [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*) và **Điều XVI-A** (*Khả năng kiểm toán và chứng cứ quan sát được*).
+Việc chẩn đoán nghiêm túc phải có thể kiểm toán và phản đối. Phải phù hợp với [**CS-8**](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Tính bền vững thích ứng và khả năng phục hồi hệ sinh thái*), cũng như môi trường thử nghiệm và xác minh theo [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*) và **Điều XVI-A** (*Khả năng kiểm toán và chứng cứ quan sát được*).
 
 *Các điều lân cận:*
 
 - **Chứng cứ và phản đối:** **Điều XVI** (*Kiểm toán, minh bạch và xác minh độc lập*) và **Điều XIII-A** (*Mức sàn về độ tin cậy và đáng tin*) — hồ sơ nguyên nhân gốc phải luôn có thể kiểm toán và phản đối mà không thu hẹp các mức sàn đó.
 - **Vòng đời và phục hồi:** **Điều XVII** (*Vòng đời hệ thống, môi trường và tính đảo ngược được*) — quá trình phục hồi tự động không được ngăn cản chứng cứ cần cho phân tích nguyên nhân gốc, phù hợp với ưu tiên về tính đảo ngược của Điều này.
-- **Định tuyến triển khai:** [**corpus_systems.md**](corpus_systems.md), **CS-8** (*Tính bền vững thích ứng và khả năng phục hồi hệ sinh thái*) và **CS-5** (*Thiết kế, thử nghiệm, xác minh và triển khai*) — triển khai ứng phó thích ứng mà không thay thế Sàn Quyền được nêu tại đây.
-<a id="article-xxiii-a-diagnostic-rigor-and-causal-attribution"></a>
-#### Điều XXIII-A: Chẩn đoán nghiêm túc và quy thuộc nguyên nhân
+- **Định tuyến triển khai:** [**corpus_systems.md**](../../corpus_systems.md), **CS-8** (*Tính bền vững thích ứng và khả năng phục hồi hệ sinh thái*) và **CS-5** (*Thiết kế, thử nghiệm, xác minh và triển khai*) — triển khai ứng phó thích ứng mà không thay thế Sàn Quyền được nêu tại đây.
+<a id="article-xxiv-a-diagnostic-rigor-and-causal-attribution"></a>
+#### Điều XXIV-A: Chẩn đoán nghiêm túc và quy thuộc nguyên nhân
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -902,7 +1059,7 @@ Việc chẩn đoán nghiêm túc phải có thể kiểm toán và phản đố
 
 Điều này quy định mức sàn về ghi chép và phản đối đối với kết luận nguyên nhân gốc:
 
-- **Ghi chép và kiểm toán:** Những nội dung sau phải được ghi chép và có thể kiểm toán (**Điều XVI-A** (*Khả năng kiểm toán và chứng cứ quan sát được*); **Điều XXIII** (*Phân tích nguyên nhân gốc và ứng phó thích ứng*)):
+- **Ghi chép và kiểm toán:** Những nội dung sau phải được ghi chép và có thể kiểm toán (**Điều XVI-A** (*Khả năng kiểm toán và chứng cứ quan sát được*); **Điều XXIV** (*Phân tích nguyên nhân gốc và ứng phó thích ứng*)):
   - kết luận về nguyên nhân gốc;
   - mức độ tin cậy;
   - bất định trọng yếu;
@@ -911,12 +1068,12 @@ Việc chẩn đoán nghiêm túc phải có thể kiểm toán và phản đố
 - **Mở để phản đối:** Chúng phải luôn có thể được:
   - phản đối, xác minh độc lập và sửa chữa theo **Điều XIII-A** (*Mức sàn về độ tin cậy và đáng tin*), **Điều XIII-B** (*Quyền được khắc phục và bồi hoàn*) và **Điều XVI** (*Kiểm toán, minh bạch và xác minh độc lập*);
   - phản đối theo nghĩa vụ của **Điều XV** (*Tính toàn vẹn của quyển thông tin*) khi tính toàn vẹn nhận thức có liên quan.
-<a id="article-xxiii-b-auditability-challenge-and-reversibility-preference"></a>
-#### Điều XXIII-B: Khả năng kiểm toán, phản đối và ưu tiên tính đảo ngược
+<a id="article-xxiv-b-auditability-challenge-and-reversibility-preference"></a>
+#### Điều XXIV-B: Khả năng kiểm toán, phản đối và ưu tiên tính đảo ngược
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -946,7 +1103,7 @@ Việc chẩn đoán nghiêm túc phải có thể kiểm toán và phản đố
 <a id="article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
 
 <a id="article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
-### Điều XXIV: Diễn giải hiến pháp, rà soát và các biện pháp bảo vệ chống chiếm quyền
+### Điều XXV: Diễn giải hiến pháp, rà soát và các biện pháp bảo vệ chống chiếm quyền
 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
@@ -970,7 +1127,7 @@ Việc chẩn đoán nghiêm túc phải có thể kiểm toán và phản đố
 
 <br>
 
-*Nói đơn giản: **Điều XXIV** (*Diễn giải hiến pháp, rà soát và các biện pháp bảo vệ chống chiếm quyền*) là mức sàn về ai có quyền giải thích Hiến pháp. Khi phát sinh câu hỏi hiến pháp, câu trả lời phải đến từ các diễn đàn Hiến pháp được chỉ định — không phải từ người nói to nhất, quyền lực nhất hoặc thuận tiện nhất cho thể chế. Phán quyết phải được ghi thành văn bản với lý do thực chất, mở cho phản đối độc lập và được bảo vệ khỏi sự chiếm quyền của bất kỳ khối đơn lẻ nào. Các diễn đàn không được tự mở rộng quyền lực, chặn rà soát hoặc dùng “tái cơ cấu” để trừng phạt bất đồng.*
+*Nói đơn giản: **Điều XXV** (*Diễn giải hiến pháp, rà soát và các biện pháp bảo vệ chống chiếm quyền*) là mức sàn về ai có quyền giải thích Hiến pháp. Khi phát sinh câu hỏi hiến pháp, câu trả lời phải đến từ các diễn đàn Hiến pháp được chỉ định — không phải từ người nói to nhất, quyền lực nhất hoặc thuận tiện nhất cho thể chế. Phán quyết phải được ghi thành văn bản với lý do thực chất, mở cho phản đối độc lập và được bảo vệ khỏi sự chiếm quyền của bất kỳ khối đơn lẻ nào. Các diễn đàn không được tự mở rộng quyền lực, chặn rà soát hoặc dùng “tái cơ cấu” để trừng phạt bất đồng.*
 
 Điều này quy định **các mức sàn hiến pháp** về thẩm quyền diễn giải, rà soát và các biện pháp bảo vệ chống chiếm quyền theo [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims):
 
@@ -992,8 +1149,8 @@ Việc diễn giải **hiến pháp** cuối cùng phải giữ tính thẩm quy
 - **Phản đối và công lý:** **Điều XIII-A** (*Mức sàn về độ tin cậy và đáng tin*) và [**Điều XX**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Công lý sau vi phạm đã xác minh*) — rà soát diễn giải phải duy trì quyền phản đối và các giới hạn công lý mà không thu hẹp các mức sàn đó.
 - **Không cố thủ:** [**Điều XXVI-A** (*Không cố thủ và khả năng sửa đổi*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — việc tái xác nhận định kỳ theo các quy định bãi nhiệm vì lý do của Điều này được đọc cùng kỷ luật chống cố thủ.
 - **Định tuyến thể chế:** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Bổ nhiệm, năng lực, luân phiên và bãi nhiệm*) và **CI-5** (*Tính toàn vẹn xung đột, chống chiếm quyền và chống tham nhũng*) — triển khai kiểm soát thành phần và xung đột mà không thay Sàn Quyền được nêu tại đây.
-<a id="article-xxiv-a-bounded-interpretive-mandate"></a>
-#### Điều XXIV-A: Thẩm quyền diễn giải có giới hạn
+<a id="article-xxv-a-bounded-interpretive-mandate"></a>
+#### Điều XXV-A: Thẩm quyền diễn giải có giới hạn
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
@@ -1028,15 +1185,15 @@ Việc diễn giải **hiến pháp** cuối cùng phải giữ tính thẩm quy
   - tự mình kết luận mở rộng thẩm quyền;
   - đình chỉ lộ trình phản đối;
   - thay thế chủ thể triển khai được chỉ định, trừ khi chính câu hỏi **hiến pháp** đòi hỏi quyết định đó theo nhóm **Thứ bậc thẩm quyền nội bộ**.
-<a id="article-xxiv-b-composition-rotation-and-conflict-controls"></a>
+<a id="article-xxv-b-composition-rotation-and-conflict-controls"></a>
 
-<a id="article-xxiv-b-composition-rotation-and-conflict-controls"></a>
-#### Điều XXIV-B: Thành phần, luân phiên và kiểm soát xung đột
+<a id="article-xxv-b-composition-rotation-and-conflict-controls"></a>
+#### Điều XXV-B: Thành phần, luân phiên và kiểm soát xung đột
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§13.1.5 Phép thử quyết định va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Đọc cùng: [Chương Mười §5.5](core_10_standing_integration.md#55-special-locks) (*việc bỏ sót công khai và tác động của quy trình rút khỏi diễn đàn*); [Chương Mười Một §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*mô thức sai trái định danh*); [Chương Mười Hai §2](core_12_forum.md#2-default-venue-and-primary-stakes) và [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*định tuyến ưu tiên liêm chính và chống tự xét xử*).
+- Đọc cùng: [Chương Mười §5.5](core_11_standing_integration.md#55-special-locks) (*việc bỏ sót công khai và tác động của quy trình rút khỏi diễn đàn*); [Chương Mười Một §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*mô thức sai trái định danh*); [Chương Mười Hai §2](core_12_forum.md#2-default-venue-and-primary-stakes) và [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*định tuyến ưu tiên liêm chính và chống tự xét xử*).
 
 </details>
 
@@ -1066,8 +1223,8 @@ Việc diễn giải **hiến pháp** cuối cùng phải giữ tính thẩm quy
   - sự tê liệt có chọn lọc;
   - kiểm soát bí mật.
 - **Định tuyến thể chế:** Lộ trình bổ nhiệm chi tiết, kiểm soát luân phiên và thủ tục xung đột/rút lui cho hội đồng **diễn đàn Hiến pháp** do **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Bổ nhiệm, năng lực, luân phiên và bãi nhiệm*) và **CI-5** (*Tính toàn vẹn xung đột, chống chiếm quyền và chống tham nhũng*) điều chỉnh.
-<a id="article-xxiv-c-public-reasons-challenge-rights-and-external-review"></a>
-#### Điều XXIV-C: Lý do công khai, quyền phản đối và rà soát bên ngoài
+<a id="article-xxv-c-public-reasons-challenge-rights-and-external-review"></a>
+#### Điều XXV-C: Lý do công khai, quyền phản đối và rà soát bên ngoài
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
@@ -1110,8 +1267,8 @@ Việc diễn giải **hiến pháp** cuối cùng phải giữ tính thẩm quy
   - dấu hiệu chiếm quyền;
   - chất lượng quyết định;
   - tính toàn vẹn của Sàn Quyền.
-<a id="article-xxiv-d-removal-for-cause-and-non-entrenchment"></a>
-#### Điều XXIV-D: Bãi nhiệm vì lý do chính đáng và không cố thủ
+<a id="article-xxv-d-removal-for-cause-and-non-entrenchment"></a>
+#### Điều XXV-D: Bãi nhiệm vì lý do chính đáng và không cố thủ
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 

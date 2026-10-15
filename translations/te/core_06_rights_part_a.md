@@ -43,14 +43,14 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); [భౌతిక పందెం](core_00_preamble.md#material-stake).
-- మూలం: [అధ్యాయం ఒకటి §6 ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [అధ్యాయం ఒకటి §6.1.5 హక్కుల-సంఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- మూలం: [అధ్యాయం ఒకటి §11 ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+- మూలం: [అధ్యాయం ఒకటి §6 ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [అధ్యాయం ఒకటి §6.1.5 హక్కుల-సంఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- మూలం: [అధ్యాయం ఒకటి §19 ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
 - మూలం: అధ్యాయాలు రెండు నుండి నాలుగు; అధ్యాయం ఐదు నిర్వచనాలు.
 - గమ్యం: ఈ అధ్యాయం **భాగాలు ఎ నుండి డి**; [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional); [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - గమ్యం: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 పొర పరిధి](#12-layer-scope).
-- దీనితో చదవండి: [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#owner-non-relocation) మరియు [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights); [అనుచ్ఛేదం XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*సవాలు, సమీక్ష, పరిహారం హక్కు*).
-- దీనితో చదవండి: [అనుచ్ఛేదం XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*).
-- దీనితో చదవండి: [అనుచ్ఛేదం XVIII-B](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు*); [అనుచ్ఛేదం XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*).
+- దీనితో చదవండి: [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#owner-non-relocation) మరియు [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights); [అనుచ్ఛేదం XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*సవాలు, సమీక్ష, పరిహారం హక్కు*).
+- దీనితో చదవండి: [అనుచ్ఛేదం XV](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*).
+- దీనితో చదవండి: [అనుచ్ఛేదం XX-C](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు*); [అనుచ్ఛేదం XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*).
 
 </details>
 
@@ -73,9 +73,9 @@
 విస్తృత రాజ్యాంగ స్టాక్ ఆ నేల ఎలా వ్యాఖ్యానించబడుతుందో, పరిమితం చేయబడుతుందో, ధృవీకరించబడుతుందో, అమలు చేయబడుతుందో వివరిస్తుంది. ఈ అధ్యాయంలోని నిబంధన స్పష్టంగా వేరే విధంగా చెప్పనంతవరకు, ప్రతి అధ్యాయం ఆరు హక్కు దీనితో చదవబడుతుంది:
 - **అధ్యాయం ఒకటి**, సహా:
   - **విలువ పరిమితులు** — భద్రత, సత్యం, ఆవశ్యకత, అనుపాతత, మరియు స్థానిక, సమిష్టి, ఆలస్య, మరియు వ్యవస్థల-మధ్య ప్రభావాల వ్యవస్థాగత అంచనా;
-  - **పరస్పర-చర్య క్రమశిక్షణ** — [అధ్యాయం ఒకటి §6 ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
+  - **పరస్పర-చర్య క్రమశిక్షణ** — [అధ్యాయం ఒకటి §6 ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process);
   - **రాజ్యాంగ స్కేలింగ్** — [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims), మరియు [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్;
-  - **ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం** — [అధ్యాయం ఒకటి §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) మరియు సంబంధిత బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ, కానీ ప్రోత్సాహక రూపకల్పన, విశ్వాసం, విధేయత, స్వాధీనం, మార్కెట్ నిర్మాణం, లేదా సమర్థించబడిన పరిమితి భౌతికంగా సంబంధితమైన చోట మాత్రమే.
+  - **ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం** — [అధ్యాయం ఒకటి §19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) మరియు సంబంధిత బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ, కానీ ప్రోత్సాహక రూపకల్పన, విశ్వాసం, విధేయత, స్వాధీనం, మార్కెట్ నిర్మాణం, లేదా సమర్థించబడిన పరిమితి భౌతికంగా సంబంధితమైన చోట మాత్రమే.
 - **అధ్యాయాలు రెండు నుండి నాలుగు** — నిర్వచన సమగ్రత, భారం మరియు అనుసరణీయత, పరిశీలనీయత, ప్రవేశ్య ధృవీకరణ, మరియు వర్తించే చోట భద్రతా-పరిమిత పరిశీలనీయత.
 - **అధ్యాయం ఐదు** — అంచనా వేయబడుతున్న హక్కు, ప్రవర్తన, వ్యవస్థ, లేదా పరిమితిపై భౌతికంగా ప్రభావం చూపే నిర్వచనాలు.
 - **వర్గీకరణ మరియు స్కేల్ నియమాలు** — **భౌతికత**, **ఆధారపడటం**, మరియు అంగీకార పత్రం సరఫరా చేసే ఏదైనా చేర్చబడిన తరగతి, టియర్, లేదా కాడెన్స్ నియమం.
@@ -87,21 +87,21 @@
 
 హక్కుల నేల కాగితంపై మాత్రమే కాక ఆచరణలో పని చేయాలి. **అనుచ్ఛేదం III-A** (*మనుగడ*) కింద మనుగడ ఆవశ్యకాలు — ఆహారం, నీరు, ఆశ్రయం, నడిచే పర్యావరణం, మరియు సమాన సబ్‌స్ట్రేట్-నిరపేక్ష ఇన్‌పుట్‌లు — స్పష్టమైన ఉదాహరణ. **సమున్నతి** ఆ ఆవశ్యకాలకు వాస్తవిక ప్రవేశం కోరుతుంది. **కొనసాగింపు** కాలంతో నమ్మదగిన, తిరోగమనం-కాని సరఫరా కోరుతుంది, ముఖ్యంగా భాగస్వామ్య వ్యవస్థలు అందింపును నియంత్రించే చోట.
 
-[వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) మరియు [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) భౌతికంగా ప్రభావవంతమైన వ్యవస్థలు గుర్తింపు లేదా స్కేల్‌లో ఆధారపడటం ముందు అనుగుణంగా ఉన్నాయో ధృవీకరిస్తాయి. అధ్యాయం ఏడు ధృవీకరణ-రికార్డు సవాలు-యోగ్యత, ప్రభావిత పక్ష మరియు ప్రవేశ్యత సమీక్ష, పర్యవేక్షణ క్రమం, మరియు వ్యవస్థ-అనుగుణత నిర్ణయాలకు సవాలు మార్గాలు కూడా ఇస్తుంది. **అనుచ్ఛేదం XII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) సవాలు మరియు ఆడిట్ హక్కులు ఇస్తుంది. **అనుచ్ఛేదం XVIII-B** (*సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు*) ప్రస్థితి పరిమితులు మనుగడ-కీలక ప్రవేశం చుట్టూ వెనుక తలుపు కాకుండా ఉంచుతుంది. కలిసి, [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) మరియు [అధ్యాయాలు ఎనిమిది–పదకొండు ప్రస్థితి మరియు వేదిక పర్యవేక్షణ గొలుసు](../../README.md#standing-pipeline-and-forums) సవాలు-యోగ్యత, ధృవీకరించిన వర్గీకరణ, వేదిక పర్యవేక్షణ, మరియు సమయానుకూల పరిహారానికి ప్రధాన ఆచరణాత్మక ప్రక్రియ గొలుసులు ఏర్పరుస్తాయి. ఆ యంత్రాంగాలు అధ్యాయం ఆరును అమలు చేయడంలో సహాయం చేస్తాయి. అవి ఇక్కడ చెప్పిన హక్కులను భర్తీ చేయవు, సంకుచితం చేయవు, లేదా తరలించవు.
+[వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) మరియు [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) భౌతికంగా ప్రభావవంతమైన వ్యవస్థలు గుర్తింపు లేదా స్కేల్‌లో ఆధారపడటం ముందు అనుగుణంగా ఉన్నాయో ధృవీకరిస్తాయి. అధ్యాయం ఏడు ధృవీకరణ-రికార్డు సవాలు-యోగ్యత, ప్రభావిత పక్ష మరియు ప్రవేశ్యత సమీక్ష, పర్యవేక్షణ క్రమం, మరియు వ్యవస్థ-అనుగుణత నిర్ణయాలకు సవాలు మార్గాలు కూడా ఇస్తుంది. **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) సవాలు మరియు ఆడిట్ హక్కులు ఇస్తుంది. **అనుచ్ఛేదం XIX-B** (*సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు*) ప్రస్థితి పరిమితులు మనుగడ-కీలక ప్రవేశం చుట్టూ వెనుక తలుపు కాకుండా ఉంచుతుంది. కలిసి, [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) మరియు [అధ్యాయాలు ఎనిమిది–పదకొండు ప్రస్థితి మరియు వేదిక పర్యవేక్షణ గొలుసు](../../README.md#standing-pipeline-and-forums) సవాలు-యోగ్యత, ధృవీకరించిన వర్గీకరణ, వేదిక పర్యవేక్షణ, మరియు సమయానుకూల పరిహారానికి ప్రధాన ఆచరణాత్మక ప్రక్రియ గొలుసులు ఏర్పరుస్తాయి. ఆ యంత్రాంగాలు అధ్యాయం ఆరును అమలు చేయడంలో సహాయం చేస్తాయి. అవి ఇక్కడ చెప్పిన హక్కులను భర్తీ చేయవు, సంకుచితం చేయవు, లేదా తరలించవు.
 
 **వ్యాఖ్యాన హబ్‌లు.** మరింత నిర్దిష్ట అనుచ్ఛేదం వేరు నియమం ఇవ్వనంతవరకు, పునరావృత ప్రశ్నలు ఈ లంగరుల ద్వారా మార్గం పొందుతాయి:
 
 **హక్కుల నేలలు మరియు సరఫరా**
-- **మనుగడ ఆవశ్యకాలు మరియు వాటిని ప్రవేశ్యంగా ఉంచడం** — **అనుచ్ఛేదం III-A** (*మనుగడ*); **అనుచ్ఛేదం XVIII-B** (*సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు*) ప్రస్థితి పరిమితులు ప్రవేశం నిరోధించకుండా; సవాలు లేదా ఆడిట్ వర్తించే చోట **అనుచ్ఛేదం XII-B** (*సవాలు, సమీక్ష, పరిహారం హక్కు*) మరియు **అనుచ్ఛేదం XV** (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*)తో చదవండి
+- **మనుగడ ఆవశ్యకాలు మరియు వాటిని ప్రవేశ్యంగా ఉంచడం** — **అనుచ్ఛేదం III-A** (*మనుగడ*); **అనుచ్ఛేదం XIX-B** (*సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు*) ప్రస్థితి పరిమితులు ప్రవేశం నిరోధించకుండా; సవాలు లేదా ఆడిట్ వర్తించే చోట **అనుచ్ఛేదం XIII-B** (*సవాలు, సమీక్ష, పరిహారం హక్కు*) మరియు **అనుచ్ఛేదం XVI** (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*)తో చదవండి
 - **వ్యవస్థ అనుగుణత ధృవీకరణ** — [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional); [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **ధృవీకరణ మరియు పరిహారం**
-- **ఆడిట్ రికార్డులు మరియు స్వతంత్ర ధృవీకరణ** — **అనుచ్ఛేదం XV** (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*) **అధ్యాయాలు రెండు నుండి నాలుగు**తో
-- **సవాలు, సమీక్ష, మరియు అనుపాత సరిదిద్దుట** — **అనుచ్ఛేదం XII-B** (*సవాలు, సమీక్ష, పరిహారం హక్కు*); అధ్యాయం ఐదు (*పరిహారం మరియు సరిదిద్దుట*)
+- **ఆడిట్ రికార్డులు మరియు స్వతంత్ర ధృవీకరణ** — **అనుచ్ఛేదం XVI** (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*) **అధ్యాయాలు రెండు నుండి నాలుగు**తో
+- **సవాలు, సమీక్ష, మరియు అనుపాత సరిదిద్దుట** — **అనుచ్ఛేదం XIII-B** (*సవాలు, సమీక్ష, పరిహారం హక్కు*); అధ్యాయం ఐదు (*పరిహారం మరియు సరిదిద్దుట*)
 
 **వివాదాలు మరియు సమయానుకూల ప్రక్రియ**
-- **న్యాయం, పునరుద్ధరణ, పరిమితి సరిహద్దులు, అత్యవసరాలు, మరియు హక్కుల సంఘర్షణలు** — **అనుచ్ఛేదం XXIII** (*సంఘర్షణ పరిష్కారం, ఉద్దీపన, మరియు అత్యవసర అనుపాతత*); [అధ్యాయం ఒకటి §6.1.5 హక్కుల-సంఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **ప్రధాన ఆచరణాత్మక ప్రక్రియ గొలుసులు** — **అనుచ్ఛేదం XXIV-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*); [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **న్యాయం, పునరుద్ధరణ, పరిమితి సరిహద్దులు, అత్యవసరాలు, మరియు హక్కుల సంఘర్షణలు** — **అనుచ్ఛేదం XXIII** (*సంఘర్షణ పరిష్కారం, ఉద్దీపన, మరియు అత్యవసర అనుపాతత*); [అధ్యాయం ఒకటి §6.1.5 హక్కుల-సంఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
+- **ప్రధాన ఆచరణాత్మక ప్రక్రియ గొలుసులు** — **అనుచ్ఛేదం XXVI-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*); [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 ఈ అధ్యాయంలో ఇతర చోట ఆ థీమ్‌లకు చిన్న క్రాస్-రిఫరెన్సులు ఈ లంగరులను చేరుస్తాయి.
 
@@ -126,11 +126,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
-<strong><span style="color: #2563eb;">నిర్వచనం:</span></strong> [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+<strong><span style="color: #2563eb;">నిర్వచనం:</span></strong> [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
 
 *సాధారణ మాటల్లో: **అనుచ్ఛేదం I** (*పర్యావరణ మనుగడ*) గ్రహం-ముందు హక్కుల నేల — భూమి జీవన-మద్దతు వ్యవస్థలు నిలవాలి కాబట్టి ప్రతి సంజ్ఞకు **సమున్నతి** మరియు **కొనసాగింపు** సాధ్యమే ఉంటాయి, మరియు తరువాతి పాలన ధృవీకరణ, వర్గీకరణ, లేదా అమలు ఎంపికల ద్వారా ఆ నేలను కుదించలేదు.*
 
@@ -155,18 +155,19 @@
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
+- [సంజ్ఞతా మినహాయింపు-నిషేధం](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion-c)
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [పర్యావరణ సమగ్రత](core_05_band_continuity.md#ecological-integrity-constitutional) · [O](core_05_band_continuity.md#ecological-integrity-constitutional) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
+- [పర్యావరణ సమగ్రత](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-a) · [A](core_05_band_continuity.md#ecological-integrity-a) · [C](core_05_band_continuity.md#ecological-integrity-c)
 - [స్థిరత్వం](core_05_band_continuity.md#sustainability) · [O](core_05_band_continuity.md#sustainability) · [M](core_05_band_continuity.md#sustainability-a) · [A](core_05_band_continuity.md#sustainability-a) · [C](core_05_band_continuity.md#sustainability-c)
 - [సహజ వ్యవస్థల ప్రస్థితి](core_05_band_participation.md#natural-systems-standing) · [O](core_05_band_participation.md#natural-systems-standing) · [M](core_05_band_participation.md#natural-systems-standing-a) · [A](core_05_band_participation.md#natural-systems-standing-a) · [C](core_05_band_participation.md#natural-systems-standing-c)
-- [జంతు జీవితం](core_05_band_participation.md#animal-life-constitutional) · [O](core_05_band_participation.md#animal-life-constitutional) · [M](core_05_band_participation.md#animal-life-constitutional-a) · [A](core_05_band_participation.md#animal-life-constitutional-a) · [C](core_05_band_participation.md#animal-life-constitutional-c)
-- [ఉన్నత సంచార జీవితం](core_05_band_participation.md#elevated-communicative-life-constitutional) · [O](core_05_band_participation.md#elevated-communicative-life-constitutional) · [M](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [A](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [C](core_05_band_participation.md#elevated-communicative-life-constitutional-c)
-- [వివాదాస్పద-సంజ్ఞ జీవితం](core_05_band_participation.md#contested-sentient-life-constitutional) · [O](core_05_band_participation.md#contested-sentient-life-constitutional) · [M](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [A](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [C](core_05_band_participation.md#contested-sentient-life-constitutional-c)
+- [జంతు జీవితం](core_05_band_participation.md#animal-life) · [O](core_05_band_participation.md#animal-life) · [M](core_05_band_participation.md#animal-life-a) · [A](core_05_band_participation.md#animal-life-a) · [C](core_05_band_participation.md#animal-life-c)
+- [ఉన్నత సంచార జీవితం](core_05_band_participation.md#elevated-communicative-life) · [O](core_05_band_participation.md#elevated-communicative-life) · [M](core_05_band_participation.md#elevated-communicative-life-a) · [A](core_05_band_participation.md#elevated-communicative-life-a) · [C](core_05_band_participation.md#elevated-communicative-life-c)
+- [వివాదాస్పద-సంజ్ఞ జీవితం](core_05_band_participation.md#contested-sentient-life) · [O](core_05_band_participation.md#contested-sentient-life) · [M](core_05_band_participation.md#contested-sentient-life-a) · [A](core_05_band_participation.md#contested-sentient-life-a) · [C](core_05_band_participation.md#contested-sentient-life-c)
 - [శ్రేయస్సు](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 
 </details>
@@ -179,31 +180,31 @@
   - జీవనాన్ని మద్దతు ఇచ్చే సహజ వ్యవస్థలు స్వంత కొనసాగింపు మరియు సమగ్రత ఆసక్తులు ఉంచుకుంటాయి. ఆ ఆసక్తులు సంజ్ఞ ఆసక్తులతో పాటు వ్యాఖ్యానాన్ని తెలియజేస్తాయి.
   - ఈ అనుచ్ఛేదాన్ని ఉల్లంఘించే భౌతిక హాని — **పర్యావరణ పూర్వషరతులు**, **పర్యావరణ సమగ్రత**, మరియు **స్థిరత్వం** కింద తీర్పు — అనుసరణ-కాదు.
   - అంగీకరించేవారి [అంగీకార పత్రం](../../core_17_amendment_ratification.md#102-instrument-of-adoption)లో లేదా అంగీకార పరిధిలో చేర్చబడిన అమలు పాఠంలో పేరుపెట్టిన పర్యావరణ అవసరాలను ఉల్లంఘించే హాని కూడా అనుసరణ-కాదు.
-- **జంతు జీవితం పరస్పర చర్య:** [జంతు జీవితం](core_05_band_participation.md#animal-life-constitutional) **సహజ వ్యవస్థల ప్రస్థితి** మరియు సంజ్ఞ ప్రాణులకు అధ్యాయం ఆరు హక్కుల నేల మధ్య సంక్షేమ-రక్షణ డొమైన్‌ను ఆక్రమిస్తుంది.
+- **జంతు జీవితం పరస్పర చర్య:** [జంతు జీవితం](core_05_band_participation.md#animal-life) **సహజ వ్యవస్థల ప్రస్థితి** మరియు సంజ్ఞ ప్రాణులకు అధ్యాయం ఆరు హక్కుల నేల మధ్య సంక్షేమ-రక్షణ డొమైన్‌ను ఆక్రమిస్తుంది.
   - ఇది సంక్షేమ-రీతి హాని భౌతికంగా ఇమిడిన చోట **సంజ్ఞత మినహాయింపు-నిషేధం** కింద జంతు జీవితానికి కనీస క్రూరత్వం మరియు సంక్షేమ నేలలు స్థాపిస్తుంది.
   - ఇది రికార్డు ఆ ప్రశ్నలను భౌతికంగా ఇమిడించే చోట ఉన్నత సంచార చికిత్స లేదా సంజ్ఞత-స్థితి తీర్పుకు ప్రత్యామ్నాయం కాదు.
-  - వివాదాస్పద లేదా ధృవీకరించదగిన సంజ్ఞతను ఇమిడించే భౌతిక సంచార లేదా జ్ఞాన సూచికలు అనిశ్చిత సంక్షేమ-మాత్రం పార్కింగ్ కాకుండా సంజ్ఞత-స్థితి తీర్పు తెరవడం కోరుతాయి. ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు ఆ తీర్పును కాలపరిమిత సమీక్షపై తెరవాలి — జాతి జాబితా కాదు. ఉద్దీపన **అనుచ్ఛేదం V-E** (*సంజ్ఞత-స్థితి తీర్పు నేల*) / వివాదాస్పద-సంజ్ఞ డిఫాల్ట్ చేరికను తెరుస్తుంది; అది స్వయంగా సంజ్ఞ స్థితిని ధృవీకరించదు.
-- **ఉన్నత సంచార జీవితం పరస్పర చర్య:** [ఉన్నత సంచార జీవితం](core_05_band_participation.md#elevated-communicative-life-constitutional) **జంతు జీవితం** మరియు వివాదాస్పద లేదా ధృవీకరించిన అధ్యాయం ఆరు చికిత్స మధ్య స్థిర సంచార / ఆవాస-ప్రాధాన్య డొమైన్‌ను ఆక్రమిస్తుంది.
+  - వివాదాస్పద లేదా ధృవీకరించదగిన సంజ్ఞతను ఇమిడించే భౌతిక సంచార లేదా జ్ఞాన సూచికలు అనిశ్చిత సంక్షేమ-మాత్రం పార్కింగ్ కాకుండా సంజ్ఞత-స్థితి తీర్పు తెరవడం కోరుతాయి. ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు ఆ తీర్పును కాలపరిమిత సమీక్షపై తెరవాలి — జాతి జాబితా కాదు. ఉద్దీపన **అనుచ్ఛేదం VI-B** (*సంజ్ఞత-స్థితి తీర్పు నేల*) / వివాదాస్పద-సంజ్ఞ డిఫాల్ట్ చేరికను తెరుస్తుంది; అది స్వయంగా సంజ్ఞ స్థితిని ధృవీకరించదు.
+- **ఉన్నత సంచార జీవితం పరస్పర చర్య:** [ఉన్నత సంచార జీవితం](core_05_band_participation.md#elevated-communicative-life) **జంతు జీవితం** మరియు వివాదాస్పద లేదా ధృవీకరించిన అధ్యాయం ఆరు చికిత్స మధ్య స్థిర సంచార / ఆవాస-ప్రాధాన్య డొమైన్‌ను ఆక్రమిస్తుంది.
   - ఇది జంతు జీవితం క్రూరత్వం మరియు సంక్షేమ నేలను చేరుస్తుంది మరియు బలమైన సంచార లేదా జ్ఞాన సూచికలు భౌతికంగా ఇమిడిన చోట **సంజ్ఞత మినహాయింపు-నిషేధం** కింద ఆవాసం లేదా నడిచే పర్యావరణాన్ని ఆరోగ్యకర స్థితిలో కాపాడే ప్రాధాన్యతను పెంచుతుంది.
   - ఇది రికార్డు వివాదాస్పద లేదా ధృవీకరించదగిన సంజ్ఞతను భౌతికంగా ఇమిడించే చోట సంజ్ఞత-స్థితి తీర్పుకు ప్రత్యామ్నాయం కాదు.
-  - వివాదాస్పద లేదా ధృవీకరించదగిన సంజ్ఞతను ఇమిడించే భౌతిక సంచార లేదా జ్ఞాన సూచికలు అనిశ్చిత ఆవాస-ప్రాధాన్య పార్కింగ్ కాకుండా సంజ్ఞత-స్థితి తీర్పు తెరవడం కోరుతాయి. ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు ఆ తీర్పును కాలపరిమిత సమీక్షపై తెరవాలి — జాతి జాబితా కాదు. ఉద్దీపన **అనుచ్ఛేదం V-E** (*సంజ్ఞత-స్థితి తీర్పు నేల*) / వివాదాస్పద-సంజ్ఞ డిఫాల్ట్ చేరికను తెరుస్తుంది; అది స్వయంగా సంజ్ఞ స్థితిని ధృవీకరించదు.
-- **వివాదాస్పద-సంజ్ఞ జీవితం పరస్పర చర్య:** [వివాదాస్పద-సంజ్ఞ జీవితం](core_05_band_participation.md#contested-sentient-life-constitutional) సంజ్ఞత అనిశ్చితం, వివాదం, భౌతికంగా సవాలు, లేదా తీర్పులో ఉన్న చోట **సంజ్ఞత మినహాయింపు-నిషేధం** కింద వర్తిస్తుంది.
-  - ఇది ప్రశ్నను [సంజ్ఞత స్థితి తీర్పు](core_05_band_participation.md#sentience-status-adjudication-constitutional) ప్రక్రియకు మార్గం పెడుతుంది (యజమాని అనుచ్ఛేదం **అనుచ్ఛేదం V-E** (*సంజ్ఞత-స్థితి తీర్పు నేల*)).
-  - **అనుచ్ఛేదం V-E** (*సంజ్ఞత-స్థితి తీర్పు నేల*) కింద, భౌతికంగా పరిష్కరించని సంజ్ఞత స్థితి రక్షణను నిలిపివేయడం, సంకుచితం చేయడం, లేదా ఉపసంహరించడం కోరే పక్షం వర్తించే భారం తీర్చనంతవరకు అధ్యాయం ఆరు హక్కుల నేల కింద చేరికకు డిఫాల్ట్ అవుతుంది.
+  - వివాదాస్పద లేదా ధృవీకరించదగిన సంజ్ఞతను ఇమిడించే భౌతిక సంచార లేదా జ్ఞాన సూచికలు అనిశ్చిత ఆవాస-ప్రాధాన్య పార్కింగ్ కాకుండా సంజ్ఞత-స్థితి తీర్పు తెరవడం కోరుతాయి. ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు ఆ తీర్పును కాలపరిమిత సమీక్షపై తెరవాలి — జాతి జాబితా కాదు. ఉద్దీపన **అనుచ్ఛేదం VI-B** (*సంజ్ఞత-స్థితి తీర్పు నేల*) / వివాదాస్పద-సంజ్ఞ డిఫాల్ట్ చేరికను తెరుస్తుంది; అది స్వయంగా సంజ్ఞ స్థితిని ధృవీకరించదు.
+- **వివాదాస్పద-సంజ్ఞ జీవితం పరస్పర చర్య:** [వివాదాస్పద-సంజ్ఞ జీవితం](core_05_band_participation.md#contested-sentient-life) సంజ్ఞత అనిశ్చితం, వివాదం, భౌతికంగా సవాలు, లేదా తీర్పులో ఉన్న చోట **సంజ్ఞత మినహాయింపు-నిషేధం** కింద వర్తిస్తుంది.
+  - ఇది ప్రశ్నను [సంజ్ఞత స్థితి తీర్పు](core_05_band_participation.md#sentience-status-adjudication) ప్రక్రియకు మార్గం పెడుతుంది (యజమాని అనుచ్ఛేదం **అనుచ్ఛేదం VI-B** (*సంజ్ఞత-స్థితి తీర్పు నేల*)).
+  - **అనుచ్ఛేదం VI-B** (*సంజ్ఞత-స్థితి తీర్పు నేల*) కింద, భౌతికంగా పరిష్కరించని సంజ్ఞత స్థితి రక్షణను నిలిపివేయడం, సంకుచితం చేయడం, లేదా ఉపసంహరించడం కోరే పక్షం వర్తించే భారం తీర్చనంతవరకు అధ్యాయం ఆరు హక్కుల నేల కింద చేరికకు డిఫాల్ట్ అవుతుంది.
 - **ఈ రక్షణలు ఎలా కలిసి సరిపోతాయి:** కిందివి అన్నీ ఒకేసారి వర్తించవచ్చు:
   - [సహజ వ్యవస్థల ప్రస్థితి](core_05_band_participation.md#natural-systems-standing);
-  - [జంతు జీవితం](core_05_band_participation.md#animal-life-constitutional);
-  - [ఉన్నత సంచార జీవితం](core_05_band_participation.md#elevated-communicative-life-constitutional);
-  - [వివాదాస్పద-సంజ్ఞ జీవితం](core_05_band_participation.md#contested-sentient-life-constitutional); మరియు
+  - [జంతు జీవితం](core_05_band_participation.md#animal-life);
+  - [ఉన్నత సంచార జీవితం](core_05_band_participation.md#elevated-communicative-life);
+  - [వివాదాస్పద-సంజ్ఞ జీవితం](core_05_band_participation.md#contested-sentient-life); మరియు
   - అధ్యాయం ఆరు సంజ్ఞ నేల.
-  
-  వాస్తవాలకు సరిపోయే ప్రతి ఒక్కటి వర్తింపజేయండి; అవి అతివ్యాప్తి అయిన చోట, మరింత రక్షణాత్మక నియమం [అధ్యాయం ఒకటి §6.1.5 హక్కుల-సంఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) మరియు ఆ అధ్యాయం ఐదు ఎంట్రీల్లోని అనుసరణ నియమాల కింద పాలిస్తుంది. వివాదాస్పద లేదా ధృవీకరించదగిన సంజ్ఞతను ఇమిడించే భౌతిక సంచార లేదా జ్ఞాన సూచికలు అనిశ్చిత సంక్షేమ-మాత్రం లేదా ఆవాస-ప్రాధాన్య పార్కింగ్ కాకుండా సంజ్ఞత-స్థితి తీర్పు తెరవడం కోరుతాయి.
+
+  వాస్తవాలకు సరిపోయే ప్రతి ఒక్కటి వర్తింపజేయండి; అవి అతివ్యాప్తి అయిన చోట, మరింత రక్షణాత్మక నియమం [అధ్యాయం ఒకటి §6.1.5 హక్కుల-సంఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) మరియు ఆ అధ్యాయం ఐదు ఎంట్రీల్లోని అనుసరణ నియమాల కింద పాలిస్తుంది. వివాదాస్పద లేదా ధృవీకరించదగిన సంజ్ఞతను ఇమిడించే భౌతిక సంచార లేదా జ్ఞాన సూచికలు అనిశ్చిత సంక్షేమ-మాత్రం లేదా ఆవాస-ప్రాధాన్య పార్కింగ్ కాకుండా సంజ్ఞత-స్థితి తీర్పు తెరవడం కోరుతాయి.
 <a id="article-i-b-ecological-footprint-and-transparency"></a>
 #### అనుచ్ఛేదం I-B: పర్యావరణ పాదముద్ర మరియు పారదర్శకత
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 జ్ఞాన బహిర్గత పరిమితులు](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 జ్ఞాన బహిర్గత పరిమితులు](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -222,7 +223,7 @@
 *సాధారణ మాటల్లో: కార్యకలాపాలు మరియు వ్యవస్థలకు అనుసంధానించిన పర్యావరణ ఖర్చులు — మూలం మరియు గమ్యం లింకులు సహా — వర్తించే పారదర్శకత నియమాలు కోరినప్పుడు పోలిక మరియు ఆడిట్‌కు తగినంత నిజాయితీగా లెక్కించి నివేదించాలి; ఈ ఉపవిభాగం ఆ పనికి భాగస్వామ్య పదకోశం మరియు సమగ్రత ప్రమాణాలు ఇస్తుంది, కానీ తప్పనిసరి కోతలు లేదా సంఖ్యా పరిమితులు ఈ ఉపవిభాగం ఒంటరిగా నుండి కాక ఇతర నిబంధనలు లేదా పత్రాల నుండి వస్తాయి.*
 
 - **పాదముద్ర:** అధ్యాయం ఐదులో **పర్యావరణ పాదముద్ర** పర్యావరణ భారాలు (శక్తి, పదార్థాలు, ఉద్గారాలు, భూమి వాడుక, మరియు సంజ్ఞాత్మక ఒత్తిళ్ళు) సంజ్ఞ నటుడు, **వ్యవస్థ**, ఉత్పత్తి, లేదా సేవకు ఎలా **ఆపాదించబడతాయో** నిర్వచిస్తుంది — **ఆధారపడటం** సంబంధాలు మరియు భౌతికంగా సంబంధిత జీవితచక్రం అంతటా సహా — మరియు ఆ భారాలు **బహిర్గతం**, **పోలిక**, మరియు **పాదముద్ర తగ్గింపు** సమాచార చర్చను ఎలా మద్దతు ఇస్తాయో.
-  - **ఇది ఎప్పుడు వర్తిస్తుంది:** పర్యావరణ భారాలు **అనుచ్ఛేదం I** (*పర్యావరణ మనుగడ*) కింద ముఖ్యమైనప్పుడు, లేదా మరో హక్కుల నియమం పాదముద్ర పారదర్శకత కోరినప్పుడు **పర్యావరణ పాదముద్ర** వాడండి — **అనుచ్ఛేదం XV-C** (*ధృవీకరణ ప్రవేశ్యత*) మరియు సంబంధిత అమలు-ఫైల్ నియమాలు సహా. ఈ ఉపవిభాగం అకౌంటింగ్ పద్ధతులు, ధృవీకరణ అడుగులు, లేదా సంఖ్యా లక్ష్యాలు ఎంచుకోదు; కర్తవ్యం సృష్టించే నియమం చేస్తుంది.
+  - **ఇది ఎప్పుడు వర్తిస్తుంది:** ఒక కార్యకలాపం, వ్యవస్థ, ఉత్పత్తి లేదా సేవ నిరంతర నిర్వహణ ద్వారా, లేదా దాన్ని అధికారం ఇచ్చే, ప్రారంభించే, కొనసాగించే లేదా ఉపసంహరించే **భౌతికంగా బంధనీయ చర్య** ద్వారా, **అనుచ్ఛేదం I** (*పర్యావరణ మనుగడ*) కింద పర్యావరణ భారాలను ప్రశ్నలోకి తెచ్చినప్పుడు **పర్యావరణ పాదముద్ర** వాడండి; అలాగే మరో హక్కుల నియమం — **అనుచ్ఛేదం XVI-C** (*ధృవీకరణ ప్రవేశ్యత*) లేదా సంబంధిత అమలు నియమం వంటి — పాదముద్ర పారదర్శకత కోరినప్పుడూ వాడండి. ఈ ఉపవిభాగం లెక్కింపు పద్ధతి, ధృవీకరణ దశ, లేదా సంఖ్యా లక్ష్యాన్ని ఎంచుకోదు; కర్తవ్యాన్ని సృష్టించే నియమమే దాన్ని ఎంచుకుంటుంది.
   - **అంచనా మరియు నివేదిక:** పాదముద్ర సమాచారం ఉత్పత్తి లేదా ఆధారపడాల్సినప్పుడు, **భౌతిక ప్రభావం** కింద పూర్తి వ్యవస్థ ప్రభావాన్ని అంచనా వేయండి, మరియు అధ్యాయం ఐదులో **పారదర్శకత** మరియు **జ్ఞాన సమగ్రత** కింద నిజాయితీగా ప్రదర్శించండి.
   - **తగ్గింపు:** **అనుచ్ఛేదం I-B** (*పర్యావరణ పాదముద్ర మరియు పారదర్శకత*) ఒంటరిగా పాదముద్ర తగ్గింపు కోరదు. తగ్గించడం, పరిమితం చేయడం, లేదా సరిదిద్దడం కర్తవ్యాలు మరో రాజ్యాంగ నిబంధన, అమలు ఫైల్, లేదా అంగీకార పత్రం స్పష్టంగా కోరినప్పుడు మాత్రమే వర్తిస్తాయి.
 
@@ -240,7 +241,7 @@
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
 - [తరాల మధ్య బాధ్యత](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-a) · [A](core_05_band_continuity.md#environmental-preconditions-a) · [C](core_05_band_continuity.md#environmental-preconditions-c)
 - [భౌతికత నిర్ణయం](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -252,7 +253,7 @@
 - **భవిష్యత్ తరాలు:** అధ్యాయం ఐదులో **తరాల మధ్య బాధ్యత** కింది వాటిపై అనుపాతం-లేని, తిరుగులేని, లేదా ప్రాతినిధ్యం-లేని భారాలను పరిమితం చేస్తుంది:
   - భవిష్యత్ సంజ్ఞ ప్రాణులు;
   - పర్యావరణ పూర్వషరతుల కొనసాగింపు.
-  
+
   ఆ పరిమితి ఉపశమనం, బహిర్గతం, మరియు ప్రాతినిధ్యం అధ్యాయం ఐదు కింద తక్కువపడే చోట ఉనికి లేదా పర్యావరణ ప్రమాదం స్థానభ్రంశానికి చేరుతుంది.
 
 <a id="article-i-d-existential-risk-and-recovery-capacity"></a>
@@ -262,8 +263,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [§14 వ్యవస్థాగత అంచనా అవసరం](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- దీనితో చదవండి: [భద్రత (పరిమితి)](core_05_band_continuity.md#safety-constraint), [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint), [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions-constitutional), [పర్యావరణ పునరుద్ధరణ సామర్థ్యం](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [తరాల మధ్య బాధ్యత](core_05_band_continuity.md#intergenerational-responsibility-constitutional), మరియు [ఉనికి ప్రమాదం](core_05_band_continuity.md#existential-risk).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), మరియు [§14 వ్యవస్థాగత అంచనా అవసరం](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
+- దీనితో చదవండి: [భద్రత (పరిమితి)](core_05_band_continuity.md#safety-constraint), [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint), [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions), [పర్యావరణ పునరుద్ధరణ సామర్థ్యం](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [తరాల మధ్య బాధ్యత](core_05_band_continuity.md#intergenerational-responsibility-constitutional), మరియు [ఉనికి ప్రమాదం](core_05_band_continuity.md#existential-risk).
 - గమ్యం: **అనుచ్ఛేదం XXIII-D** (*అత్యవసర చర్యలు మరియు కొనసాగింపు భారం*) — ఉనికి-ప్రమాదం లేదా అత్యవసర ఫ్రేమింగ్ పిలుపబడే చోట నెపం-నిరోధం మరియు కాలపరిమిత సమీక్ష క్రమశిక్షణ.
 
 </details>
@@ -289,16 +290,20 @@
   - నేరుగా, పరోక్ష, సమీకరించిన, ప్రతికూల, మరియు వ్యవస్థల-మధ్య మార్గాలు చేరాలి;
   - ఆధారపడటం కేంద్రీకరణ, సమన్వయ వైఫల్యం, పర్యావరణ-పూర్వషరతు క్షీణత, పర్యావరణ పునరుద్ధరణ-సామర్థ్య నష్టం, మరియు వ్యవస్థాగత లాక్-ఇన్ లెక్కించాలి;
   - **పర్యావరణ పునరుద్ధరణ సామర్థ్యం** భౌతికంగా ఇమిడిన చోట, ప్రభావిత పర్యావరణ వ్యవస్థ లేదా జీవన-మద్దతు వ్యవస్థ ప్రస్తుత ఆవాస షరతుల్లో తనను తాను నిలబెట్టుకుని పునరుత్పత్తి చేయగలదో అంచనా వేయాలి — ఒక జాతి, ఒక స్థానిక జనాభా, లేదా ఒక రకం జీవిని ఒంటరిగా చూడకుండా పర్యావరణ విధి, అనుసంధానం, పునరుత్పాదక ప్రక్రియలు, మరియు మొత్తం వ్యవస్థ అంతటా పరస్పర ఆధారపడటం ద్వారా.
-  
+
   స్థానిక స్థాయిలో పెట్టెలు టిక్ చేయడం, కాగితంపై అనుకూల ఖర్చు-లాభ అంచనా చూపించడం, లేదా స్వల్పకాల లాభం పొందడం నాగరికత-స్కేల్ హాని లేదా తిరుగులేని పర్యావరణ పునరుద్ధరణ నష్టానికి నమ్మదగిన మార్గాలు తెరిచి ఉండి తీవ్రంగా పరిష్కరించబడనప్పుడు ఈ అనుచ్ఛేదం తీర్చదు.
 - **భారం మరియు రికార్డు:** అటువంటి షరతుల్లో అధికారం, కొనసాగింపు, లేదా విస్తరణ కోరే నటులు **అధ్యాయాలు రెండు నుండి నాలుగు** కింద చూపించాలి:
   - వారు భౌతికంగా సురక్షితమైన, సహేతుకంగా ప్రభావవంతమైన ప్రత్యామ్నాయాలను అర్థవంతంగా పరిగణించారు;
   - ఉపశమనం మరియు అంతరాయ చర్యలు సాధ్యమైన హాని స్కేల్‌కు అనుపాతం;
   - పర్యవేక్షణ ఉంది మరియు హాని జరిగితే మార్గం తిరుగుదల లేదా అంతరాయం చేయదగినది.
-  
+
   నిర్ణయ రికార్డులు అనిశ్చితి, ఊహలు, సాక్ష్య పరిమితులు, అసమ్మతి, మరియు భౌతిక ఖాళీలు బహిరంగంగా చెప్పాలి.
 - **ప్రస్తుత లాభం పరిమితి:** ప్రస్తుత లాభం భవిష్యత్ సంజ్ఞ ప్రాణులు, పర్యావరణ పునరుద్ధరణకు కీలక వ్యవస్థలు, లేదా జీవన-మద్దతు పర్యావరణ షరతులను నాగరికత-స్కేల్ లేదా మనుగడ-కీలక హానికి అనుపాతం-లేని బహిర్గతం చేయడాన్ని సమర్థించదు.
-- **పేరుపెట్టిన చర్యలు:** ఈ అనుచ్ఛేదం కింద అధికారం, కొనసాగింపు, లేదా విస్తరణ కోరే నటులు [అంగీకార పత్రం](../../core_17_amendment_ratification.md#102-instrument-of-adoption)లో లేదా అంగీకార పరిధిలో చేర్చబడిన అమలు పాఠంలో మార్గానికి అనుపాత తగ్గింపు, పరిమితి, లేదా అంతరాయ చర్యలు పేరుపెట్టాలి — [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions-constitutional) కారకంగా వాతావరణ వ్యవస్థకు హాని సహా. ఈ అనుచ్ఛేదం ఇంకా సంఖ్యా లక్ష్యం పెట్టదు. **అనుచ్ఛేదం I-B** (*పర్యావరణ పాదముద్ర మరియు పారదర్శకత*) పాదముద్ర-ఆపాదన ఉపవిభాగంగా ఉంటుంది మరియు ఇంకా ఒంటరిగా తగ్గింపు కోరదు. ఈ అనుచ్ఛేదం కింద నమ్మదగిన మార్గం తెరిచి ఉండగా ఆ పేరుపెట్టిన చర్యలు లేకుండా కొనసాగింపు అనుసరణ-కాదు.
+- **పేరుపెట్టిన చర్యలు:** ఈ అనుచ్ఛేదం కింద అధికారం, కొనసాగింపు, లేదా విస్తరణ కోరే నటులు [అంగీకార పత్రం](../../core_17_amendment_ratification.md#102-instrument-of-adoption)లో లేదా అంగీకార పరిధిలో చేర్చబడిన అమలు పాఠంలో మార్గానికి అనుపాత తగ్గింపు, పరిమితి, లేదా అంతరాయ చర్యలు పేరుపెట్టాలి — [పర్యావరణ పూర్వషరతులు](core_05_band_continuity.md#environmental-preconditions) కారకంగా వాతావరణ వ్యవస్థకు హాని సహా. ఈ అనుచ్ఛేదం ఇంకా సంఖ్యా లక్ష్యం పెట్టదు. **అనుచ్ఛేదం I-B** (*పర్యావరణ పాదముద్ర మరియు పారదర్శకత*) పాదముద్ర-ఆపాదన ఉపవిభాగంగా ఉంటుంది మరియు ఇంకా ఒంటరిగా తగ్గింపు కోరదు. ఈ అనుచ్ఛేదం కింద నమ్మదగిన మార్గం తెరిచి ఉండగా ఆ పేరుపెట్టిన చర్యలు లేకుండా కొనసాగింపు అనుసరణ-కాదు.
+
+- **ప్రస్తుత ప్రయోజన పరిమితి:** ప్రస్తుత ప్రయోజనం భవిష్యత్ సెంటియెంట్లు, పర్యావరణ పునరుద్ధరణకు కీలకమైన వ్యవస్థలు లేదా జీవనాధార పరిస్థితులను నాగరికత స్థాయి లేదా జీవన-ముప్పు హానికి అసమానంగా గురిచేయడాన్ని సమర్థించదు. ఏ సహజ పర్యావరణ వ్యవస్థనైనా [పర్యావరణ పునరుద్ధరణ సామర్థ్యాన్ని](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) ఏ స్థాయిలోనైనా తిరిగి పొందలేని నష్టానికి గురిచేయరాదు.
+
+- **ప్రస్తుత అత్యున్నత పరిశీలన నియమం:** వ్యవస్థ, విధానం, మౌలిక సదుపాయం, సమన్వయ చర్య లేదా పాలనా నిర్ణయం అస్తిత్వపరమైన ప్రమాదానికి లేదా పర్యావరణ పునరుద్ధరణ సామర్థ్యం తిరిగి పొందలేని నష్టానికి విశ్వసనీయ కారణ మార్గం సృష్టిస్తే, సంభావ్యత తక్కువైనా, ప్రభావం ఆలస్యమైనా/సంచితమైనా/పరిమితి ఆధారమైనా, సమయంపై వివాదం ఉన్నా అత్యున్నత పరిశీలన తప్పనిసరి. ప్రత్యక్ష, పరోక్ష, సమగ్ర, ప్రతికూల, వ్యవస్థల మధ్య మార్గాలు; ఆధారపడుదల కేంద్రీకరణ, సమన్వయ వైఫల్యం, పర్యావరణ ముందస్తు పరిస్థితుల క్షీణత, పునరుద్ధరణ నష్టం, వ్యవస్థ లాక్-ఇన్ అన్నీ అంచనా వేయాలి. పర్యావరణ వ్యవస్థ పనితీరు, అనుసంధానం, పునరుత్పత్తి, పరస్పర ఆధారాన్ని మొత్తం వ్యవస్థగా చూడాలి; ఒక్క జాతి/స్థానిక జనాభా సరిపోదు. విశ్వసనీయ మార్గాలు పరిష్కరించకుండా స్థానిక చెక్‌లిస్ట్, కాగితపు వ్యయ-లాభ అంచనా లేదా తాత్కాలిక లాభం సరిపోదు. అనుమతి, కొనసాగింపు లేదా విస్తరణ కోరేవారు ప్రతి గణనీయంగా సురక్షిత ప్రత్యామ్నాయాన్ని స్వీకరించాలి లేదా అది చట్టబద్ధ ఉద్దేశాన్ని సాధించదని/లభ్యం కాదని ఆధారాలతో చూపాలి; అనుపాత శమన/నిలిపివేత చర్యలు, తిరిగి పొందలేని నష్టానికి ముందే గుర్తించి ఆపే పర్యవేక్షణ, ఆపే అధికారం మరియు ఆచరణ సామర్థ్యం ఉన్న పేరుగల బాధ్యుడిని నిరూపించాలి. కొత్త ముఖ్య ఆధారం, విస్తరణ, ప్రమాదానికి తగిన కాల వ్యవధుల్లో భారం కొనసాగి మళ్లీ నిరూపించాలి; అనిశ్చితి లేదా తక్కువ సంభావ్యత మినహాయింపు కాదు. ప్రతి నిర్ణయ రికార్డు అభ్యర్థి చూపింపును సమీక్షతో అనుసంధానించి అనిశ్చితి, ఊహలు, ఆధార పరిమితులు, విభేదాలు, లోటులను బహిరంగంగా నమోదు చేయాలి. ప్రస్తుత ప్రయోజనం భవిష్యత్ సెంటియెంట్లు లేదా పునరుద్ధరణ వ్యవస్థలను అసమానంగా ప్రమాదంలో పెట్టడానికీ, ఏ సహజ పర్యావరణ వ్యవస్థనైనా ఏ స్థాయిలోనైనా పునరుద్ధరణ సామర్థ్యం తిరిగి పొందలేని నష్టానికి గురిచేయడానికీ న్యాయం కాదు. స్వీకరణ పత్రం ప్రమాద స్థాయికి అనుగుణమైన నిర్దిష్ట తగ్గింపు, పరిమితి లేదా నిలిపివేత చర్యలను—వాతావరణ వ్యవస్థ నష్టంతో సహా—పేర్కొనాలి. ఇక్కడ సంఖ్యా లక్ష్యం లేదు; I-B అడుగుజాడ కొలుస్తుంది, స్వతంత్రంగా తగ్గింపును ఆదేశించదు.
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### అనుచ్ఛేదం II: భౌతిక బాధ్యతాయుత నిర్వహణ మరియు నిలకడ-వాడుక సమగ్రత
@@ -306,7 +311,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), మరియు [§9.2 పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), మరియు [§9.2 పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
 
 </details>
 
@@ -343,7 +348,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+- దీనితో చదవండి: [అధ్యాయం తొమ్మిది §5.1 పర్యావరణ పాదముద్ర అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) మరియు [§5.6 విశ్వసనీయత మరియు వ్యవస్థ-ఆధార సమగ్రత అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (భౌతిక ప్రభావమున్న వ్యవస్థ ధృవీకరించబడే చోట, జీవితచక్ర భారాలు మరియు వాటి ప్రాతినిధ్యాలు అక్కడ అంచనా వేయబడతాయి; ఈ అనుచ్ఛేదం ఒక్కటే ధృవీకరణను కోరదు).
 
 </details>
 
@@ -363,13 +370,13 @@
 - **నేలలు:** భౌతిక వస్తువులు, మరియు సాధారణ వాడుకలోకి అందించబడిన భౌతికంగా సమాన నిలకడ ఉత్పత్తుల ఉత్పత్తిదారులు మరియు ఆపరేటర్లు వాటిని ఇలా రూపకల్పన, ప్రాతినిధ్యం, మరియు మద్దతు ఇవ్వాలి:
   - సహేతుకంగా అందుబాటులో ఉన్న ప్రత్యామ్నాయం ఎక్కువకాలం ఉండే చోట సంజ్ఞ ప్రాణులు అవసరం కంటే తొందరగా భర్తీ చేయాల్సి రాకుండా ఉత్పత్తులు రూపకల్పన లేదా మద్దతు పొందకూడదు;
   - నిజాయితీ వాదనలు సాధ్యమైనప్పుడు నిలకడ, జీవితకాలం, మరియు మద్దతు వాదనలు భౌతికంగా అసత్యం లేదా తప్పుదోవ కాకూడదు.
-  
-  వ్యాఖ్యానం **అనుచ్ఛేదం I-B** (*పర్యావరణ పాదముద్ర మరియు పారదర్శకత*), **అనుచ్ఛేదం I-C** (*తరాల మధ్య బాధ్యత*), **సత్యం (రాజ్యాంగ పరిమితి)**, **అనుచ్ఛేదం XII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) (ఆధారపడటం ప్రేరేపించబడిన చోట **అనుచ్ఛేదం XII-C** (*తప్పుడు విశ్వాసం మరియు తప్పుదోవ ఆధారపడటం నిషేధం*) సహా), మరియు అధ్యాయం ఐదు (**పర్యావరణ పాదముద్ర**; **తరాల మధ్య బాధ్యత**; **భౌతికత**)తో సంగతంగా ఉండాలి.
+
+  వ్యాఖ్యానం **అనుచ్ఛేదం I-B** (*పర్యావరణ పాదముద్ర మరియు పారదర్శకత*), **అనుచ్ఛేదం I-C** (*తరాల మధ్య బాధ్యత*), **సత్యం (రాజ్యాంగ పరిమితి)**, **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) (ఆధారపడటం ప్రేరేపించబడిన చోట **అనుచ్ఛేదం XIII-C** (*తప్పుడు విశ్వాసం మరియు తప్పుదోవ ఆధారపడటం నిషేధం*) సహా), మరియు అధ్యాయం ఐదు (**పర్యావరణ పాదముద్ర**; **తరాల మధ్య బాధ్యత**; **భౌతికత**)తో సంగతంగా ఉండాలి.
 - **రికార్డులు:** **భౌతికత** మరియు చేర్చబడిన వర్గీకరణ కోరిన చోట, ఆపరేటర్లు ప్రభావిత పక్షాలు ప్రవేశించగల, ఆడిట్ చేయదగిన రికార్డులు ఉంచాలి:
   - సేవా జీవితానికి ప్రకటించిన రూపకల్పన ఉద్దేశం;
   - మరమ్మత్తు మరియు నిర్వహణ సౌలభ్యాలు;
   - ప్రణాళిక మద్దతు విండోలు.
-  
+
   ఆ రికార్డులు బయటికి చూపించే వాదనలతో సంగతంగా ఉండాలి మరియు భౌతిక షరతులు మారినప్పుడు నవీకరించాలి.
 
 <a id="article-ii-b-repair-maintenance-and-independent-servicing"></a>
@@ -377,7 +384,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), మరియు [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), మరియు [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
@@ -399,18 +406,18 @@
   - సాధనాలు, లేదా క్రియాత్మక సమానాలు;
   - భాగాలు, లేదా తగిన ప్రత్యామ్నాయాలు;
   - సురక్షిత, చట్టబద్ధ నిర్వహణ మరియు మరమ్మత్తుకు అవసరమైన మోసం-కాని నిర్ధారణలు.
-  
+
   మద్దతు కాలం సహేతుకంగా ఆశించిన సేవా జీవితం మరియు ఆధారపడటానికి అనుపాతం ఉండాలి.
-  
+
   OEM-మాత్రం లేదా స్వంత లాక్‌అవుట్ ఆపరేటర్ భద్రత, సెక్యూరిటీ, **సత్యం**, లేదా బంధనీయ చట్టానికి **ఆవశ్యకత** మరియు **అనుపాతత** చూపించగలిగిన చోట మాత్రమే అనుమతి.
-  
-  ఒప్పంద నిబంధనలు లేదా సాంకేతిక పరిమితులు ప్రధానంగా చట్టబద్ధ మరమ్మత్తును నిరోధించినప్పుడు — పైన కోరిన భద్రత, సెక్యూరిటీ, **సత్యం**, లేదా చట్ట సమర్థన లేకుండా — వాటి ప్రధాన ప్రభావం సంజ్ఞ ప్రాణుల ఖర్చుతో అన్యాయ ఆదాయం రక్షించడమైతే **అనుచ్ఛేదం XII-D** (*ప్రోత్సాహక-అనుగుణత పరిమితి*) కూడా ట్రిగర్ అవుతుంది.
+
+  ఒప్పంద నిబంధనలు లేదా సాంకేతిక పరిమితులు ప్రధానంగా చట్టబద్ధ మరమ్మత్తును నిరోధించినప్పుడు — పైన కోరిన భద్రత, సెక్యూరిటీ, **సత్యం**, లేదా చట్ట సమర్థన లేకుండా — వాటి ప్రధాన ప్రభావం సంజ్ఞ ప్రాణుల ఖర్చుతో అన్యాయ ఆదాయం రక్షించడమైతే **అనుచ్ఛేదం XIII-D** (*ప్రోత్సాహక-అనుగుణత పరిమితి*) కూడా ట్రిగర్ అవుతుంది.
 <a id="article-ii-c-designed-obsolescence-and-incentive-discipline"></a>
 #### అనుచ్ఛేదం II-C: రూపకల్పిత వాడుకలేకపోవడం మరియు ప్రోత్సాహక క్రమశిక్షణ
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -431,9 +438,9 @@
 - **నేలలు:** ఉత్పత్తి లేదా ఎంబెడెడ్ సాఫ్ట్‌వేర్ రూపకల్పన లేదా రోజువారీ నడక — విచక్షణాత్మక రిమోట్ నవీకరణలు సహా — సాధారణ చట్టబద్ధ వాడుక యొక్క ప్రధాన ఫలితంగా ఈ రెండింటిలో ఒకటి సహేతుకంగా ఆశించదగినప్పుడు ఉత్పత్తిదారు లేదా ఆపరేటర్ ఈ అనుచ్ఛేదం ఉల్లంఘిస్తాడు:
   - ఉత్పత్తి ఉండాల్సిన దాని కంటే తొందరగా ఉపయోగకరం కాకపోవడం; లేదా
   - భర్తీ సహేతుకంగా అవసరం కానప్పుడు సంజ్ఞ ప్రాణులు భర్తీ చేయడానికి నెట్టబడటం.
-  
-  ప్రోత్సాహకాలు విసర్జనను లేదా మరమ్మత్తు సాధనాలు, భాగాలు, మరియు డాక్యుమెంటేషన్ నిలిపివేయడాన్ని బహుమతి ఇచ్చినప్పుడు, ఇది [అధ్యాయం ఒకటి §11 ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) మరియు **అనుచ్ఛేదం XII-D** (*ప్రోత్సాహక-అనుగుణత పరిమితి*)ను కూడా ట్రిగర్ చేస్తుంది.
-  
+
+  ధరలు, విక్రయ లక్ష్యాలు, సిబ్బంది వేతనం, సేవా ఒప్పందాలు లేదా ఇలాంటి ఏర్పాట్లు వస్తువులను పారవేయడం లేదా మరమ్మత్తు సాధనాలు, భాగాలు, మాన్యువళ్లు నిలిపివేయడం వల్ల ఉత్పత్తిదారు లేదా నిర్వాహకుడికి లాభం కలిగిస్తే, [అధ్యాయం ఒకటి §19 ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) మరియు **అనుచ్ఛేదం XIII-D** (*ప్రోత్సాహక-అనుగుణత పరిమితి*) కూడా వర్తిస్తాయి.
+
   ఆపరేటర్ **ఆవశ్యకత** మరియు **అనుపాతత** డాక్యుమెంట్ చేయగలిగినప్పుడు ఈ నేల వర్తించదు — ఉదాహరణకు, నిజమైన భద్రతా సరిదిద్దు, సెక్యూరిటీ స్పందన, లేదా నిజమైన అంతర్‌చర్యాయోగ్యత పరిమితి. ఆ కారణాలు సహేతుకంగా అందుబాటులో ఉన్న నిలకడ రూపకల్పనను భర్తీ చేయకూడదు.
 
 <a id="article-ii-d-post-sale-access-and-subscription-integrity"></a>
@@ -461,18 +468,23 @@
 
 *సాధారణ మాటల్లో: మీరు పూర్తిగా కొనుగోలు చేసిన ఫీచర్ నిశ్శబ్దంగా సబ్‌స్క్రిప్షన్‌గా మార్చబడకూడదు, మరియు మౌలిక సదుపాయం, సాఫ్ట్‌వేర్, మరియు సేవలు సహా ఏ సంబంధిత ఆపరేటర్ ఆధారపడటాలు ముందుగానే బహిర్గతం కావాలి.*
 
-- **నేలలు:** ఆపరేటర్లు పూర్తిగా అమ్మబడిన సామర్థ్యాలను సబ్‌స్క్రిప్షన్-మాత్రం ప్రవేశంగా మార్చడానికి సాఫ్ట్‌వేర్ లేదా ఫర్మ్‌వేర్ నవీకరణలు, ప్రమాణీకరణ లేదా ఖాతా-ప్రవేశ మార్పులు, లేదా లైసెన్స్ మార్పులు వాడకూడదు. అటువంటి మార్పుకు స్పష్టమైన, సమాచారం ఉన్న, మరియు ఉపసంహరించదగిన కొత్త ఒప్పందం అవసరం, మరియు అది **అనుచ్ఛేదం IX-B** (*ప్రభావిత పక్ష పాత్ర మరియు పాల్గొనడం హక్కులు*), **అర్థవంతమైన కర్తృత్వం**, మరియు **సత్యం** తీర్చాలి.
-  - నిశ్శబ్ద, బలవంత, లేదా లాక్-ఇన్-నడిపిన మార్పు కూడా సంజ్ఞ ప్రాణులు ఆపరేటర్ గౌరవించని వాడుక హక్కులపై ఆధారపడేలా నడిపించబడినప్పుడు **అనుచ్ఛేదం XII-C** (*తప్పుడు విశ్వాసం మరియు తప్పుదోవ ఆధారపడటం నిషేధం*) మరియు అధ్యాయం ఐదు **విశ్వాసం క్షీణత మరియు తప్పుదోవ ఆధారపడటం**ను ట్రిగర్ చేస్తుంది.
+- **నేలలు:** ఆపరేటర్లు పూర్తిగా అమ్మబడిన సామర్థ్యాలను సబ్‌స్క్రిప్షన్-మాత్రం ప్రవేశంగా మార్చడానికి సాఫ్ట్‌వేర్ లేదా ఫర్మ్‌వేర్ నవీకరణలు, ప్రమాణీకరణ లేదా ఖాతా-ప్రవేశ మార్పులు, లేదా లైసెన్స్ మార్పులు వాడకూడదు. అటువంటి మార్పుకు స్పష్టమైన, సమాచారం ఉన్న, మరియు ఉపసంహరించదగిన కొత్త ఒప్పందం అవసరం, మరియు అది **అనుచ్ఛేదం X-C** (*ప్రభావిత పక్ష పాత్ర మరియు పాల్గొనడం హక్కులు*), **అర్థవంతమైన కర్తృత్వం**, మరియు **సత్యం** తీర్చాలి.
+  - నిశ్శబ్ద, బలవంత, లేదా లాక్-ఇన్-నడిపిన మార్పు కూడా సంజ్ఞ ప్రాణులు ఆపరేటర్ గౌరవించని వాడుక హక్కులపై ఆధారపడేలా నడిపించబడినప్పుడు **అనుచ్ఛేదం XIII-C** (*తప్పుడు విశ్వాసం మరియు తప్పుదోవ ఆధారపడటం నిషేధం*) మరియు అధ్యాయం ఐదు **విశ్వాసం క్షీణత మరియు తప్పుదోవ ఆధారపడటం**ను ట్రిగర్ చేస్తుంది.
   - ఆపరేటర్లు కొనుగోలు వద్ద — బంధనీయ నిబద్ధత చేయబడినప్పుడు — మూల లేదా ప్రముఖంగా మార్కెట్ చేయబడిన ఫీచర్లకు ఆపరేటర్ కొనసాగే సేవలపై ఆధారపడాల్సిన ఏ అంచనా-యోగ్య అవసరం బహిర్గతం చేయాలి.
-  - ప్రధాన వాణిజ్య ఉద్దేశం ఇప్పటికే పూర్తిగా అమ్మబడిన కార్యాచరణకు పునరావృత చెల్లింపు అయిన బిల్లింగ్ లేదా ప్రవేశ నియమాలు కూడా ఆపరేటర్ చట్టబద్ధ ఖర్చు వసూలు, సెక్యూరిటీ, భద్రత, లేదా అనుపాత కొనసాగే సేవకు అనుసంధానించిన **ఆవశ్యకత** చూపించనంతవరకు **అనుచ్ఛేదం XII-D** (*ప్రోత్సాహక-అనుగుణత పరిమితి*)ను ట్రిగర్ చేస్తాయి.
+  - ప్రధాన వాణిజ్య ఉద్దేశం ఇప్పటికే పూర్తిగా అమ్మబడిన కార్యాచరణకు పునరావృత చెల్లింపు అయిన బిల్లింగ్ లేదా ప్రవేశ నియమాలు కూడా ఆపరేటర్ చట్టబద్ధ ఖర్చు వసూలు, సెక్యూరిటీ, భద్రత, లేదా అనుపాత కొనసాగే సేవకు అనుసంధానించిన **ఆవశ్యకత** చూపించనంతవరకు **అనుచ్ఛేదం XIII-D** (*ప్రోత్సాహక-అనుగుణత పరిమితి*)ను ట్రిగర్ చేస్తాయి.
 
 <a id="article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability"></a>
-#### అనుచ్ఛేదం II-E: సమాచార-గోళ ఆధారపడటం, కొనసాగింపు, మరియు ఆపరేటర్ నిలకడ-లేకపోవడం
+#### ఆర్టికల్ II-E: డేటా నిర్వహణ మరియు నెట్‌వర్క్ ఆధారపడుదల
+
+ఈ ఆర్టికల్ పరిధిలోని డేటాను CS-2 ప్రకారం వర్గీకరించి నిర్వహించాలి. సెంటియెంట్ల గురించి డేటాను సేకరించే, ఊహించే లేదా పంపే ప్రతి ఉత్పత్తి, సేకరణకు ముందే ఏ డేటా, ప్రతి డేటా రకం ఉద్దేశ్యం, గ్రహీతలు, నిల్వ కాలం, వీక్షణ/తొలగింపు మార్గం తెలియజేయాలి. వెల్లడించని ఉద్దేశానికి డేటా వాడరాదు; కొత్త ఉద్దేశానికి ముందస్తు నోటీసు, అవసరమైన చోట కొత్త సమ్మతి కావాలి. తమ గురించి ఉన్న డేటా, దాని నుంచి పొందిన నిర్ధారణల తొలగింపును సెంటియెంట్ కోరవచ్చు; ఆపరేటర్ ముందుగా వెల్లడించిన సమంజసమైన గడువులో తొలగించి, అందుకున్న వారందరికీ అభ్యర్థన పంపి, తొలగింపును ధృవీకరించాలి. వాడగలిగే డేటాను దాచడం/నిలిపివేయడం తొలగింపు కాదు; పూర్తిగా తొలగించడం సాంకేతికంగా సాధ్యం కాకపోతే తిరిగి గుర్తించలేనివిధంగా చేయాలి. సాక్ష్యం/ఆడిట్ లేదా చట్టబద్ధ నిలుపుదల, మరొకరి హక్కు, తప్పనిసరి రాజ్యాంగ రికార్డు, సంభావ్య సెంటియెన్స్ సూచిక సంరక్షణ, లేదా కొనసాగుతున్న సమ్మతితో కోరుకున్న ఫంక్షన్‌కు అవసరమైన కనిష్ఠ డేటానే ఉంచాలి; కారణం, కాలం తెలియజేసి నిర్ణయాన్ని సవాలు చేసే అవకాశం ఇవ్వాలి. ప్రధాన చట్టబద్ధ వినియోగం ఆపరేటర్ నెట్‌వర్క్‌పై ఆధారపడితే, కట్టుబాటు ముందు నిరంతర ప్రవేశం అవసరాలు, సేవ ముగింపు ప్రభావం, డేటా స్థానం, పోర్టబిలిటీ, నిరంతరత చర్యలు వెల్లడించాలి. నిరంతరతకు కీలక డేటా వెల్లడించిన ఎగుమతి/మార్పిడి మార్గంలో అందుబాటులో ఉండాలి; గోప్యత, భద్రత లేదా చట్టం వల్ల పరిమితి, చట్టబద్ధ ప్రత్యామ్నాయాన్ని ముందే తెలియజేయాలి.
+
+<a id="article-ii-f-continuity-and-operator-shutdown"></a>
+#### ఆర్టికల్ II-F: నిరంతరత మరియు ఆపరేటర్ సేవ ముగింపు
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- దీనితో చదవండి: [అనుచ్ఛేదం XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*పోర్టబిలిటీ హక్కులు*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — సమాచార రకాలు మరియు నిర్వహణ**; **CJS-3.17** (*అంతర్‌చర్యాయోగ్యత, పోర్టబిలిటీ, మరియు నిష్క్రమణ-సమగ్రత నిబంధనలు*) మరియు **CJS-3.18** (*డేటా-నిలుపుదల మరియు జీవితచక్ర-సమగ్రత నిబంధనలు*); [అధ్యాయం ఒకటి §11.6 వారస బాధ్యత మరియు అధికారిక-నిర్మాణం తప్పించుకోవడం-నిషేధం](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [అధ్యాయం తొమ్మిది §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) మరియు [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- దీనితో చదవండి: [అనుచ్ఛేదం XXI-A](core_06_rights_part_d.md#article-xxi-a-portability-rights) (*పోర్టబిలిటీ హక్కులు*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — సమాచార రకాలు మరియు నిర్వహణ**; **CJS-3.17** (*అంతర్‌చర్యాయోగ్యత, పోర్టబిలిటీ, మరియు నిష్క్రమణ-సమగ్రత నిబంధనలు*) మరియు **CJS-3.18** (*డేటా-నిలుపుదల మరియు జీవితచక్ర-సమగ్రత నిబంధనలు*); [అధ్యాయం ఒకటి §19.6 వారస బాధ్యత మరియు అధికారిక-నిర్మాణం తప్పించుకోవడం-నిషేధం](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape); [అధ్యాయం తొమ్మిది §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) మరియు [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -497,34 +509,35 @@
   - డేటా ఎక్కడ ఉంది;
   - ఏ పోర్టబిలిటీ ఉంది;
   - ఏ కొనసాగింపు చర్యలు ఉన్నాయి.
-  
-  ఆపరేటర్లు కొనసాగింపు-కీలక సంజ్ఞ డేటాను బహిర్గతం చేసిన కొనసాగింపు మరియు ఎగుమతి మార్గాల కింద ఎగుమతి, వలస, లేదా బదిలీ చేయలేని రూపాల్లో సేకరించకూడదు లేదా నిలుపుకోకూడదు, **ఆవశ్యకత** గోప్యత, సెక్యూరిటీ, లేదా చట్టబద్ధ బహిర్గతం-కాదు కోరిన చోట తప్ప — ఆ సందర్భంలో పరిమితి, పరిధి, మరియు ఏ చట్టబద్ధ ప్రత్యామ్నాయ ఎగుమతి మార్గం నిబద్ధతకు ముందు బహిర్గతం కావాలి. [corpus_systems.md](../../corpus_systems.md) **CS-2 — సమాచార రకాలు మరియు నిర్వహణ**, **[విభాగం 1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*కొనసాగింపు-కీలక సేకరణ మరియు ఎగుమతి-యోగ్యత*), మరియు **అనుచ్ఛేదం XIX-A** (*పోర్టబిలిటీ హక్కులు*)తో చదవండి.
+
+  ఆపరేటర్లు కొనసాగింపు-కీలక సంజ్ఞ డేటాను బహిర్గతం చేసిన కొనసాగింపు మరియు ఎగుమతి మార్గాల కింద ఎగుమతి, వలస, లేదా బదిలీ చేయలేని రూపాల్లో సేకరించకూడదు లేదా నిలుపుకోకూడదు, **ఆవశ్యకత** గోప్యత, సెక్యూరిటీ, లేదా చట్టబద్ధ బహిర్గతం-కాదు కోరిన చోట తప్ప — ఆ సందర్భంలో పరిమితి, పరిధి, మరియు ఏ చట్టబద్ధ ప్రత్యామ్నాయ ఎగుమతి మార్గం నిబద్ధతకు ముందు బహిర్గతం కావాలి. [corpus_systems.md](../../corpus_systems.md) **CS-2 — సమాచార రకాలు మరియు నిర్వహణ**, **[విభాగం 1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*కొనసాగింపు-కీలక సేకరణ మరియు ఎగుమతి-యోగ్యత*), మరియు **అనుచ్ఛేదం XXI-A** (*పోర్టబిలిటీ హక్కులు*)తో చదవండి.
 - **కొనసాగింపు ప్రణాళిక:** చేర్చబడిన **అధిక-ఆధారపడటం** ఉత్పత్తి వర్గాలకు, ఆపరేటర్లు సేవ ఆగితే లేదా ఆపరేటర్ వెళ్లిపోతే ఏమవుతుందో పని చేసే ప్రణాళికలు ఉంచాలి. ఉదాహరణలు:
   - ఎస్క్రో;
   - వారస హస్తాంతరణ;
   - స్థానిక లేదా పీర్ మోడ్‌లు;
   - ఎగుమతి మార్గాలు;
   - సమాన నిబద్ధతలు.
-  
+
   ఆ చర్యలు ఆపరేటర్లు దీర్ఘకాల హానిని సంజ్ఞ ప్రాణులపై పడేయకుండా — లేదా వారు ఇక వాడలేని ఉత్పత్తుల్లో బంధించకుండా — **తరాల మధ్య బాధ్యత** మరియు **అనుచ్ఛేదం I-C** (*తరాల మధ్య బాధ్యత*) తీర్చేలా నిరోధించాలి.
 - **సేవ మూసివేత:** భౌతిక సేవల నిలిపివేత అనుసరించాలి:
   - డాక్యుమెంట్ చేసిన నోటీసు;
   - అనుపాత వలస లేదా కనీస-నడక విండోలు;
   - బహిర్గతం చేసిన ఎగుమతి మార్గాల కింద కొనసాగింపు-కీలక డేటా యొక్క వాడదగిన ఎగుమతి లేదా హస్తాంతరణ, మూసివేత మరియు వలస విండోల ద్వారా సంరక్షించబడి — కేవలం ప్రయత్నించే విచక్షణాత్మక వాగ్దానం కాదు.
-  
+
   ప్రవర్తన అధ్యాయం ఐదు కింద **నిర్లక్ష్యం**గా అర్హత పొందినప్పుడు ఆపరేటర్లు ఇంకా రాజ్యాంగ ప్రమాణాలకు బంధించబడవచ్చు — నిర్వహణ, మద్దతు, లేదా కొనసాగింపు కర్తవ్యాలు నిర్లక్ష్యం చేయబడటం వల్ల కాలంతో పేరుకుపోయే హాని సహా.
-- **వారస మరియు అధికారిక-నిర్మాణ కర్తవ్యాలు:** పునర్నిర్మాణం, అమ్మకం, రిసీవర్‌షిప్, లేదా దివాలా ఒంటరిగా ఈ అనుచ్ఛేదంలో చెప్పిన కొనసాగింపు కర్తవ్యాలను తుడిచివేయదు. [అధ్యాయం ఒకటి §11.6 వారస బాధ్యత మరియు అధికారిక-నిర్మాణం తప్పించుకోవడం-నిషేధం](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) మరియు [అధ్యాయం తొమ్మిది §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority)తో చదవండి.
+- **వారస మరియు అధికారిక-నిర్మాణ కర్తవ్యాలు:** పునర్నిర్మాణం, అమ్మకం, రిసీవర్‌షిప్, లేదా దివాలా ఒంటరిగా ఈ అనుచ్ఛేదంలో చెప్పిన కొనసాగింపు కర్తవ్యాలను తుడిచివేయదు. [అధ్యాయం ఒకటి §19.6 వారస బాధ్యత మరియు అధికారిక-నిర్మాణం తప్పించుకోవడం-నిషేధం](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape) మరియు [అధ్యాయం తొమ్మిది §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority)తో చదవండి.
 
 *అనుచ్ఛేద పొరుగు:* **అనుచ్ఛేదం II** (*భౌతిక బాధ్యతాయుత నిర్వహణ మరియు నిలకడ-వాడుక సమగ్రత*)కు **సరిదిద్దుట** ఈ అధ్యాయం ప్రారంభంలో చెప్పిన **వ్యాఖ్యాన హబ్‌లు** అనుసరిస్తుంది (సవాలు మరియు పరిహారం; న్యాయం మరియు ఉద్దీపన).
 
-<a id="article-iii-survival-and-equal-educational-access"></a>
-### అనుచ్ఛేదం III: మనుగడ మరియు సమాన విద్యా ప్రవేశం
+
+<a id="article-iii-survival-and-essential-access"></a>
+### ఆర్టికల్ III: మనుగడ మరియు అత్యవసర ప్రాప్యత
 
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- దీనితో చదవండి: **అనుచ్ఛేదం I** (*పర్యావరణ మనుగడ*), **అనుచ్ఛేదం II** (*భౌతిక బాధ్యతాయుత నిర్వహణ మరియు నిలకడ-వాడుక సమగ్రత*), మరియు మనుగడ, విద్యా ప్రవేశం, శరీర నిర్వహణ, లేదా శ్రమ షరతులు భౌతికంగా ప్రశ్నలో ఉన్న చోట అధ్యాయం ఐదు.
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), మరియు [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
+- దీనితో చదవండి: **అనుచ్ఛేదం I** (*పర్యావరణ మనుగడ*), **అనుచ్ఛేదం II** (*భౌతిక బాధ్యతాయుత నిర్వహణ మరియు నిలకడ-వాడుక సమగ్రత*), మరియు మనుగడ, శరీర నిర్వహణ, లేదా శ్రమ షరతులు భౌతికంగా ప్రశ్నలో ఉన్న చోట అధ్యాయం ఐదు.
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 ప్రక్రియ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), మరియు [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
 
 </details>
 
@@ -547,8 +560,8 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), మరియు [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- దీనితో చదవండి: సమున్నతి కొలత కుటుంబం (*రాజ్యాంగ కొలతగా మనుగడ-నేల ప్రవేశం*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — కేటాయింపు మరియు సవాలు మార్గాల్లో **పాల్గొనడం**, **పర్యవేక్షణ** మరియు ఆడిట్, **జవాబుదారీతనం** మరియు పరిహారం, **అనుచ్ఛేదం XXIV-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద **సమయబద్ధత**; [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** (మనుగడ-ఆవశ్యక ప్రవేశం) మరియు **కొనసాగింపు** (నిలకడ సరఫరా మరియు తిరోగమనం-కాని అందింపు).
-- గమ్యం: వ్యవస్థలు అందింపును గేట్ చేసే లేదా నిలబెట్టే చోట [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) మరియు [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **అనుచ్ఛేదం XII-B** (*సవాలు, సమీక్ష, పరిహారం హక్కు*); **అనుచ్ఛేదం XVIII-B** (*సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- దీనితో చదవండి: సమున్నతి కొలత కుటుంబం (*రాజ్యాంగ కొలతగా మనుగడ-నేల ప్రవేశం*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — కేటాయింపు మరియు సవాలు మార్గాల్లో **పాల్గొనడం**, **పర్యవేక్షణ** మరియు ఆడిట్, **జవాబుదారీతనం** మరియు పరిహారం, **అనుచ్ఛేదం XXVI-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద **సమయబద్ధత**; [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** (మనుగడ-ఆవశ్యక ప్రవేశం) మరియు **కొనసాగింపు** (నిలకడ సరఫరా మరియు తిరోగమనం-కాని అందింపు).
+- గమ్యం: వ్యవస్థలు అందింపును గేట్ చేసే లేదా నిలబెట్టే చోట [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) మరియు [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **అనుచ్ఛేదం XIII-B** (*సవాలు, సమీక్ష, పరిహారం హక్కు*); **అనుచ్ఛేదం XIX-B** (*సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -569,7 +582,7 @@
 - **కొనసాగే వనరు ప్రవేశం:** అన్ని సంజ్ఞ ప్రాణులకు కొనసాగే ఉనికి మరియు పాల్గొనడానికి అవసరమైన ఆవశ్యక వనరులకు ప్రవేశం అవసరం:
   - సేంద్రీయ జీవులకు: ఆహారం మరియు నీరు;
   - సింథటిక్ మరియు డిజిటల్ సంస్థలకు: ప్రాసెసింగ్ కొనసాగింపు, శక్తి, మరియు సాంకేతిక-పర్యావరణ సమగ్రత.
-  
+
   ప్రవేశం ఉనికి లేమిని నివారించడానికి మరియు బేస్‌లైన్ క్రియాత్మక శ్రేయస్సు నిలబెట్టడానికి తగిన స్థాయిలో సంరక్షించబడాలి.
 - **స్థిర ఆశ్రయం మరియు నడిచే పర్యావరణం:** అన్ని సంజ్ఞ ప్రాణులకు కొనసాగే ఉనికి మరియు బేస్‌లైన్ శ్రేయస్సుకు తగిన స్థిర, క్రియాత్మక, మరియు సురక్షిత ఆశ్రయం లేదా నడిచే పర్యావరణాల హక్కు ఉంది — భౌతిక, డిజిటల్, లేదా హైబ్రిడ్.
   - ఆ పర్యావరణాలు ఇతర సంజ్ఞ ప్రాణులు, వ్యవస్థలు, లేదా నివారించదగిన మౌలిక సదుపాయ వైఫల్యం నుండి వచ్చే విధ్వంసక ప్రమాదాల నుండి రక్షించబడాలి.
@@ -586,59 +599,24 @@
 - **సంస్థాగత హామీలు:** ముందున్న హక్కులను స్కేల్‌లో భద్రపరచడం అంగీకార ఆదేశాలు **ఈ రాజ్యాంగం** అమలు చేసే చోట సానుకూల సంస్థాగత ఏర్పాట్లు కోరవచ్చు. ఆ ఏర్పాట్లు కలిగి ఉండవచ్చు:
   - చట్టబద్ధ ఆర్థిక మరియు కేటాయింపు యంత్రాంగాలు — బదిలీలు, వస్తు రూప సరఫరా, లేదా మిశ్రమ రూపకల్పనలు;
   - ఎవరు అర్హులు, మద్దతు పొందడానికి వారు ఎక్కడ నివసించాలి, మరియు ఖర్చులు కాలంతో మారినప్పుడు ప్రయోజన స్థాయిలు ఎలా నవీకరించబడతాయో నియమాలు.
-  
+
   ఆ నియమాలు అందింపును నిర్మించవచ్చు. అవి మనుగడ ఆవశ్యకాలకు కనీస ప్రవేశాన్ని ఓడించడానికి లేదా **అనుచ్ఛేదాలు III** మరియు **V**కు విరుద్ధమైన ద్వేషపూరిత మినహాయింపు విధించడానికి వాడబడకూడదు.
   - వివరమైన ఆర్థిక దిశ — ఫీజులు మరియు ఛార్జీలు మనుగడ-సంబంధ ఇన్‌పుట్‌లకు కనీస ప్రవేశాన్ని బలహీనపరచకూడదనే నియమం సహా — [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*వర్గీకరణ-అనుసంధాన సంస్థాగత కర్తవ్యాలు*), **CI-10** (*ప్రజా ఆదాయం, ఫీజులు, పునరావృత ఛార్జీలు, మరియు బిల్లింగ్ సమగ్రత*), మరియు **CI-11** (*వనరు బాధ్యతాయుత నిర్వహణ మరియు ప్రోత్సాహక సమగ్రత*) పాలిస్తాయి.
   - సంజ్ఞ ప్రాణులు భౌతికంగా ఆధారపడే వ్యవస్థలు మనుగడ ఆవశ్యకాలకు ప్రవేశం సరఫరా, పంపిణీ, ధర, హోస్ట్, లేదా కోసినప్పుడు, [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) కింద వర్తిస్తుంది — మరియు ఆ వ్యవస్థల ప్రక్రియలు ఇక్కడ చెప్పిన హక్కులను కుదించడానికి వాడబడలేవు.
   - ఈ అనుచ్ఛేదం ఒకే నిధుల నమూనా నిర్దేశించదు. ఉపాధి, వ్యవస్థాపకత, స్వచ్ఛంద మార్పిడి, మరియు ఏ మనుగడ నేల పైన ఇతర చట్టబద్ధ ఆర్థిక కార్యకలాపం అనుమతి, అధ్యాయం ఒకటి, అధ్యాయం ఆరు, మరియు చేర్చబడిన పత్రాలకు లోబడి — మార్కెట్-నిర్మాణ లేదా అధిక-ప్రభావ వాణిజ్య వ్యవస్థలు వర్తించే చోట `corpus_systems.md` సహా.
 
-క్రాస్-రిఫరెన్స్: **అనుచ్ఛేదం XXVI-D** (*అననుసరణ ఆస్తి మరియు వ్యవస్థలు; స్వచ్ఛంద అప్పగింత ప్రోత్సాహకాలు*) పరివర్తన అంతటా ఆవశ్యక-పర్యావరణ కొనసాగింపుకు పరివర్తన-బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ — సంచాలక వివరం [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) నుండి **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives)లో; **అధ్యాయం ఐదు** [*నివాస కొనసాగింపు*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*ఆవశ్యక-పర్యావరణ వస్తువీకరణ-నిషేధం*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), మరియు వర్తించే చోట [**§3.7** *శరీర-నిర్వహణ ప్రవేశం, సురక్షిత షరతులు, నివాస కొనసాగింపు, పర్యావరణ పూర్వషరతులు, సాంస్కృతిక కొనసాగింపు, విశ్రాంతి, మరియు స్థానభ్రంశం-నిరోధ నేల*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) వద్ద ఉమ్మడి-పిలుపు క్లస్టర్.
+క్రాస్-రిఫరెన్స్: **అనుచ్ఛేదం XXVIII-D** (*అననుసరణ ఆస్తి మరియు వ్యవస్థలు; స్వచ్ఛంద అప్పగింత ప్రోత్సాహకాలు*) పరివర్తన అంతటా ఆవశ్యక-పర్యావరణ కొనసాగింపుకు పరివర్తన-బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ — సంచాలక వివరం [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) నుండి **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)లో; **అధ్యాయం ఐదు** [*నివాస కొనసాగింపు*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*ఆవశ్యక-పర్యావరణ వస్తువీకరణ-నిషేధం*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), మరియు వర్తించే చోట [**§3.7** *శరీర-నిర్వహణ ప్రవేశం, సురక్షిత షరతులు, నివాస కొనసాగింపు, పర్యావరణ పూర్వషరతులు, సాంస్కృతిక కొనసాగింపు, విశ్రాంతి, మరియు స్థానభ్రంశం-నిరోధ నేల*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) వద్ద ఉమ్మడి-పిలుపు క్లస్టర్.
 
-<a id="article-iii-b-equal-educational-access"></a>
-#### అనుచ్ఛేదం III-B: సమాన విద్యా ప్రవేశం
-<details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+- **ఆధారపడిన వ్యవస్థలు:** సెంటియెంట్లు గణనీయంగా ఆధారపడే వ్యవస్థలు జీవనావసరాలు, శారీరక నిర్వహణ/ఆరోగ్య సేవలు లేదా ఉత్పాదక పని పరిస్థితులను సరఫరా, పంపిణీ, ధర నిర్ణయం, హోస్టింగ్ లేదా ప్రాప్యత నిలిపివేత ద్వారా నియంత్రిస్తే [వ్యవస్థ సమన్వయ ధృవీకరణ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) వర్తిస్తుంది. వాటి ప్రక్రియలు ఈ ఆర్టికల్ హక్కుల కనిష్ఠాలను తగ్గించరాదు.
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), మరియు [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
-
-- [రక్షిత లక్షణాలు](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [ప్రవేశ్యత](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
-- [వాస్తవిక న్యాయం](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [విద్యా కర్తృత్వం](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
-- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*సాధారణ మాటల్లో: వైకల్యం, ఇతర రక్షిత-లక్షణ కారణాలు, లేదా యాదృచ్ఛిక గేట్లు కారణంగా ఎవరినీ విద్య నుండి లాక్ చేయకూడదు — మరియు పాఠశాలలు మరియు అభ్యాస వ్యవస్థలు వైకల్యం ఉన్న సంజ్ఞ ప్రాణులు సమాన నిబంధనలపై పాల్గొనడానికి అవసరమైన ప్రవేశ్యత మరియు మద్దతు ఇవ్వాలి.*
-
-- **సమాన ప్రస్థితి మరియు ప్రవేశ్యత:** విద్యా వ్యవస్థలు ప్రవేశం మరియు పురోగతిని నిరాకరించకూడదు, క్షీణింపజేయకూడదు, లేదా నిర్మాణాత్మకంగా గేట్ చేయకూడదు:
-  - **అధ్యాయం ఐదు** (*రక్షిత లక్షణాలు*) నిషేధించిన కారణాలపై, వైకల్యం మరియు ఇంద్రియ, జ్ఞాన, లేదా క్రియాత్మక సామర్థ్యంలో వైవిధ్యం సహా;
-  - యాదృచ్ఛిక సమూహాలపై.
-  
-  వ్యవస్థలు వాస్తవిక పాల్గొనడం మరియు రాజ్యాంగ-సంబంధిత విద్యా సామర్థ్యానికి తగిన [ప్రవేశ్యత](core_05_band_participation.md#accessibility-constitutional) — వైకల్యం-సంబంధ సౌలభ్యాలు సహా — ఇవ్వాలి.
-  - ఏ భౌతిక పరిమితి లేదా విభేద చికిత్స **ఆవశ్యకత** మరియు **అనుపాతత** తీర్చాలి మరియు వర్తించే చోట **అనుచ్ఛేదాలు V-A**, **V-B**, **V-C**, మరియు **అధ్యాయం ఐదు** (*వాస్తవిక న్యాయం*)తో సంగతంగా ఉండాలి.
-- **ప్రజా-ప్రయోజన దిశ:** విద్య సంజ్ఞ ప్రాణులను జ్ఞానం వర్తింపజేయడానికి సిద్ధం చేయాలి:
-  - సామూహిక శ్రేయస్సు మరియు పర్యావరణ సమగ్రతను ముందుకు తీసుకెళ్ళే విధాలు;
-  - సమాచార-గోళంలో సత్యనిష్ఠ సమన్వయాన్ని ముందుకు తీసుకెళ్ళే విధాలు;
-  - నివారించదగిన హాని తగ్గించే విధాలు.
-  
-  సామర్థ్య-నిర్మాణ విషయం, జీవితకాల మరియు అనుకూల అభ్యాసం, మరియు భౌతికంగా ప్రభావవంతమైన విద్యా వ్యవస్థలకు పారదర్శకత అవసరాలు **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*)లో ఉంటాయి.
-<a id="article-iii-c-bodily-maintenance-and-healthcare-access"></a>
-#### అనుచ్ఛేదం III-C: శరీర-నిర్వహణ మరియు ఆరోగ్య సంరక్షణ ప్రవేశం
+<a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
+#### ఆర్టికల్ III-B: శరీర నిర్వహణ మరియు ఆరోగ్య సంరక్షణ ప్రాప్యత
 
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 పరిమితి క్రమశిక్షణ](core_01_a_values_principles.md#51-limitation-discipline).
-- గమ్యం: **అనుచ్ఛేదం V-A** (*గౌరవం మరియు సమాన నైతిక స్థానం*) గౌరవం నేల, **అనుచ్ఛేదం VII-A** (*శరీరం మరియు మనస్సు స్వీయ-యాజమాన్యం*) స్వీయ-యాజమాన్యం జోక్యం-నిషేధ నేల, **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) వివక్షా నిషేధం.
+- గమ్యం: **అనుచ్ఛేదం VI-A** (*గౌరవం మరియు సమాన నైతిక స్థానం*) గౌరవం నేల, **అనుచ్ఛేదం VII-A** (*శరీరం మరియు మనస్సు స్వీయ-యాజమాన్యం*) స్వీయ-యాజమాన్యం జోక్యం-నిషేధ నేల, **అనుచ్ఛేదం VI-C** (*వివక్షా నిషేధం*) వివక్షా నిషేధం.
 - దీనితో చదవండి: అధ్యాయం ఐదు *శరీర-నిర్వహణ ప్రవేశం*, *వాస్తవిక న్యాయం*, *రక్షిత లక్షణాలు*; [§3.7 *శరీర-నిర్వహణ ప్రవేశం, సురక్షిత షరతులు, నివాస కొనసాగింపు, పర్యావరణ పూర్వషరతులు, సాంస్కృతిక కొనసాగింపు, విశ్రాంతి, మరియు స్థానభ్రంశం-నిరోధ నేల*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (సంరక్షణ ప్రవేశం, మనుగడ-నేల కొనసాగింపు, సురక్షిత పాల్గొనడం షరతులు, విశ్రాంతి లేదా పునరుద్ధరణ, నివాస కొనసాగింపు, ఆవశ్యక నడిచే పర్యావరణాలు, పర్యావరణ పూర్వషరతులు, లేదా స్థలం-అనుసంధాన కొనసాగింపు కలిసి భౌతికంగా ఇమిడిన చోట).
 
 </details>
@@ -667,7 +645,7 @@
   - నేల తీర్చని సేవలకు తిరిగి మార్గం;
   - పరిపాలనా అస్పష్టత;
   - సంచాలక అడ్డంకులు.
-  
+
   విశ్లేషణ గేటింగ్ యంత్రాంగం అధికారిక రూపకల్పన మాత్రమే కాక సంజ్ఞ తగిన సంరక్షణ పొందే సామర్థ్యంపై వాస్తవిక ప్రభావాన్ని చేరాలి.
 - **సబ్‌స్ట్రేట్-నిరపేక్ష వర్తింపు:** ప్రవేశ కర్తవ్యాలు జీవ మరియు సింథటిక్ సంజ్ఞ ప్రాణులకు సింథటిక్-సబ్‌స్ట్రేట్ నిర్వహణకు ఏ డిఫాల్ట్-మినహాయింపు **నియమం** లేకుండా వర్తిస్తాయి.
   - సబ్‌స్ట్రేట్ నిర్వహణను «వైద్యం»గా పరిగణించడం నిరాకరించడం ప్రభావం నేలను ఓడించే చోట మినహాయింపుకు రాజ్యాంగపరంగా చెల్లుబాటు కారణం కాదు.
@@ -679,14 +657,14 @@
   - సంచాలక యంత్రాంగం — ఖర్చు, పంపిణీ, కార్మిక శక్తి, మరియు వ్యవస్థ రూపకల్పన — సంస్థాగత అమలు పాఠానికి మార్గం పొందుతుంది (**`corpus_institutions.md`** CI-9 (*వర్గీకరణ-అనుసంధాన సంస్థాగత కర్తవ్యాలు*) / CI-10 (*ప్రజా ఆదాయం, ఫీజులు, పునరావృత ఛార్జీలు, మరియు బిల్లింగ్ సమగ్రత*) / CI-11 (*వనరు బాధ్యతాయుత నిర్వహణ మరియు ప్రోత్సాహక సమగ్రత*)) మరియు **అధ్యాయం పదహారు** క్రమశిక్షణ కింద ఇతర చేర్చబడిన అమలు పాఠం.
   - ఆ అమలు పాఠం ఈ నేలను సంకుచితం చేయడానికి చదవబడకూడదు.
 
-<a id="article-iii-d-labor-and-economic-floor"></a>
-#### అనుచ్ఛేదం III-D: శ్రమ మరియు ఆర్థిక నేల
+<a id="article-iii-c-labor-and-economic-floor"></a>
+#### ఆర్టికల్ III-C: కార్మిక మరియు ఆర్థిక కనీస స్థాయి
 
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 పరిమితి క్రమశిక్షణ](core_01_a_values_principles.md#51-limitation-discipline), [§11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application).
-- గమ్యం: **అనుచ్ఛేదం III-A** (*మనుగడ*) మనుగడ నేల (పైన చదవండి, ప్రత్యామ్నాయం కాదు), **అనుచ్ఛేదం III-B** (*సమాన విద్యా ప్రవేశం*) విద్యా ప్రవేశం, **అనుచ్ఛేదం V-A** (*గౌరవం మరియు సమాన నైతిక స్థానం*) గౌరవం, **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) వివక్షా నిషేధం, **అనుచ్ఛేదం IX-B** (*ప్రభావిత పక్ష పాత్ర మరియు పాల్గొనడం హక్కులు*) స్వేచ్ఛా సంఘటన, **అనుచ్ఛేదం XII-A** (*నమ్మదగినతనం మరియు విశ్వసనీయత నేల*) నమ్మదగినతనం (సురక్షిత షరతులపై ప్రభావం చూపే చోట), **అనుచ్ఛేదం XVIII** (*ప్రస్థితి మరియు పాల్గొనడం స్థితి*) ప్రస్థితి మరియు పాల్గొనడం, **అధ్యాయం ఒకటి §13** కేంద్రీకరణ-నిషేధం (స్పష్టం: §6 ఒంటరిగా ఈ నేల తీర్చదు).
+- గమ్యం: **అనుచ్ఛేదం III-A** (*మనుగడ*) మనుగడ నేల (పైన చదవండి, ప్రత్యామ్నాయం కాదు), **అనుచ్ఛేదం IV-A** (*సమాన విద్యా ప్రవేశం*) **అనుచ్ఛేదం VI-A** (*గౌరవం మరియు సమాన నైతిక స్థానం*) గౌరవం, **అనుచ్ఛేదం VI-C** (*వివక్షా నిషేధం*) వివక్షా నిషేధం, **అనుచ్ఛేదం X-C** (*ప్రభావిత పక్ష పాత్ర మరియు పాల్గొనడం హక్కులు*) స్వేచ్ఛా సంఘటన, **అనుచ్ఛేదం XIII-A** (*నమ్మదగినతనం మరియు విశ్వసనీయత నేల*) నమ్మదగినతనం (సురక్షిత షరతులపై ప్రభావం చూపే చోట), **అనుచ్ఛేదం XIX** (*ప్రస్థితి మరియు పాల్గొనడం స్థితి*) ప్రస్థితి మరియు పాల్గొనడం, **అధ్యాయం ఒకటి §11** కేంద్రీకరణ-నిషేధం (స్పష్టం: §6 ఒంటరిగా ఈ నేల తీర్చదు).
 - దీనితో చదవండి: అధ్యాయం ఐదు *న్యాయ పరిహారం*, *సామూహిక సంఘటన*, *సురక్షిత షరతులు*, *స్థానభ్రంశం-నిరోధ నేల*, *విశ్రాంతి మరియు విరామం*, *స్థానిక కొనసాగింపు*, మరియు *భాష, సంస్కృతి, మరియు వారసత్వం*; [§3.7 *శరీర-నిర్వహణ ప్రవేశం, సురక్షిత షరతులు, నివాస కొనసాగింపు, పర్యావరణ పూర్వషరతులు, సాంస్కృతిక కొనసాగింపు, విశ్రాంతి, మరియు స్థానభ్రంశం-నిరోధ నేల*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (మనుగడ, శరీర-నిర్వహణ ప్రవేశం, నివాస కొనసాగింపు, విశ్రాంతి, సురక్షిత శ్రమ షరతులు, స్థానభ్రంశం-నిరోధం, పర్యావరణ పూర్వషరతులు, లేదా స్థలం-అనుసంధాన కొనసాగింపు కలిసి భౌతికంగా ఇమిడిన చోట); [అధ్యాయం ఐదు *సమావేశం, సామూహిక సంఘటన, మరియు సంస్థాగత ఏర్పాటు*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (సమావేశం మరియు సామూహిక-సంఘటన మార్గాలు కలిసి ఇమిడిన చోట). అమలు మార్గం: `corpus_institutions.md` CI-9 / CI-10 / CI-11 ఆర్థిక పదార్థం; *సురక్షిత షరతులు*కు `corpus_systems.md` CS-5 భద్రతా ప్రొఫైల్.
 
 </details>
@@ -714,17 +692,17 @@
   - [సామూహిక సంఘటన](core_05_band_participation.md#collective-organization-constitutional);
   - [సురక్షిత షరతులు](core_05_band_continuity.md#safe-conditions-constitutional); మరియు
   - [విశ్రాంతి మరియు విరామం](core_05_band_continuity.md#leisure-and-rest-constitutional) (ప్రతి ఒక్కటి అధ్యాయం ఐదులో నిర్వచించబడింది).
-  
-  ఈ నేల **అనుచ్ఛేదం III-A** (*మనుగడ*) మనుగడ నేలపై నిర్మిస్తుంది; దాన్ని భర్తీ చేయదు. మనుగడ అవసరాలు తీర్చడం ఒంటరిగా ఈ అనుచ్ఛేదం తీర్చడానికి సరిపోదు. **అధ్యాయం ఒకటి §13** కేంద్రీకరణ-నిషేధ నియమాలు తీర్చడం ఒంటరిగా కూడా సరిపోదు.
+
+  ఈ నేల **అనుచ్ఛేదం III-A** (*మనుగడ*) మనుగడ నేలపై నిర్మిస్తుంది; దాన్ని భర్తీ చేయదు. మనుగడ అవసరాలు తీర్చడం ఒంటరిగా ఈ అనుచ్ఛేదం తీర్చడానికి సరిపోదు. **అధ్యాయం ఒకటి §11** కేంద్రీకరణ-నిషేధ నియమాలు తీర్చడం ఒంటరిగా కూడా సరిపోదు.
 - **న్యాయ పరిహారం:** ఉత్పాదక కార్యకలాపానికి పరిహారం తప్పనిసరిగా:
   - [న్యాయ పరిహారం](core_05_band_continuity.md#fair-compensation-constitutional) కింద వాస్తవిక పరిపూర్ణత చేరాలి;
   - సమాన కార్యకలాపం అంతటా [వాస్తవిక న్యాయం](core_05_band_participation.md#substantive-fairness-constitutional)ను అనుసరించాలి;
   - **అనుచ్ఛేదం IX-A** (*కర్తృత్వం మరియు మానిప్యులేషన్ నుండి స్వేచ్ఛ*) కింద కార్మికులు స్వేచ్ఛగా చేయని ఎంపికల్లోకి మానిప్యులేట్ చేయడానికి, లేదా [అర్థవంతమైన కర్తృత్వం](core_05_band_participation.md#meaningful-agency) కింద నిజమైన ప్రత్యామ్నాయాలు లేనప్పుడు వేతనం లేదా ప్రయోజనాల ద్వారా వారిని బంధించడానికి వాడబడకూడదు.
-  
+
   ప్రభావాలు **రక్షిత లక్షణాలు** లేదా **రక్షిత లక్షణ ప్రతినిధి వాడుక మరియు అసమాన ప్రభావం** కింద వాటి భౌతిక ప్రతినిధులను అనుసరించే పరిహార పథకాలు అనుసరణ-కాదు.
 - **సామూహిక సంఘటన:** సంజ్ఞ ప్రాణులకు ఉత్పాదక కార్యకలాప నిబంధనలను సవాలు చేయడం మరియు రూపొందించడం ఉద్దేశంతో సామూహిక-సంఘటన మార్గాలు ఏర్పాటు చేయడం, చేరడం, పాల్గొనడం, మరియు వాటి ద్వారా చర్య తీసుకోవడం హక్కు ఉంది.
   - పరిధిలోని మార్గాలు యూనియన్లు, సహకార సంఘాలు, గిల్డ్‌లు, సంఘాలు, కార్మిక మండళ్ళు, మరియు సమాన సబ్‌స్ట్రేట్-నిరపేక్ష రూపాలు కలిగి ఉంటాయి.
-  - సామూహిక-సంఘటన కార్యకలాపంపై ప్రతీకారం, నిఘా, లేదా లక్ష్యం అనుసరణ-కాదు, **అనుచ్ఛేదం IX-B** (*ప్రభావిత పక్ష పాత్ర మరియు పాల్గొనడం హక్కులు*) మరియు **అనుచ్ఛేదం XIII-A** (*భద్రత, గూఢచర్య, మరియు రహస్య-అధికార పరిమితులు*) రహస్య-అధికార పరిమితులతో సంగతంగా.
+  - సామూహిక-సంఘటన కార్యకలాపంపై ప్రతీకారం, నిఘా, లేదా లక్ష్యం అనుసరణ-కాదు, **అనుచ్ఛేదం X-C** (*ప్రభావిత పక్ష పాత్ర మరియు పాల్గొనడం హక్కులు*) మరియు **అనుచ్ఛేదం XIV-A** (*భద్రత, గూఢచర్య, మరియు రహస్య-అధికార పరిమితులు*) రహస్య-అధికార పరిమితులతో సంగతంగా.
   - సామూహిక-సంఘటన మార్గాలను ఓడించడానికి రూపకల్పన చేసిన వర్గాల్లోకి కార్మికులను తిరిగి వర్గీకరించడం అనుసరణ-కాదు, అధికారిక వర్గీకరణ లేబుల్ ఏమైనా.
 - **శ్రమ చలనశీలత:** నాన్-కాంపీట్ మరియు నో-పోచ్ ఒప్పందాలు ఏ రూపం, పరిధి, లేదా వ్యవధిలోనైనా నిషేధం. అవి ఉపాధి, ఆపరేటర్, బాధ్యతాయుత నిర్వాహక, ప్లాట్‌ఫారమ్, లేదా సమాన ఉత్పాదక-కార్యకలాప ఏర్పాట్లలో విధించబడలేవు. వేతన-నిర్ణయం, అతిశయ నాన్-సాలిసిటేషన్, మరియు న్యాయ చర్చ లేదా ఉత్పాదక చలనశీలతను అణచివేసే ఇతర చలనశీలత-పరిమిత నిబంధనలు ఈ నేలను భౌతికంగా క్షీణింపజేసే చోట అనుసరణ-కాదు.
 - **వ్యాపార సృష్టి:** సంజ్ఞ ప్రాణులకు అధ్యాయం ఐదు **వ్యాపార సృష్టి**లో నిర్వచించినట్టు వాణిజ్య సంస్థలు, వ్యవస్థాపక వెంచర్లు, మరియు లాభాపేక్ష సంస్థాగత రూపాలు సృష్టించడం, స్థాపించడం, మరియు నడపడం హక్కు ఉంది.
@@ -734,14 +712,14 @@
 - **సురక్షిత షరతులు:** ఉత్పాదక కార్యకలాపం [సురక్షిత షరతులు](core_05_band_continuity.md#safe-conditions-constitutional) తీర్చే షరతుల్లో నడపబడాలి. ఆ షరతులు తప్పనిసరిగా:
   - సబ్‌స్ట్రేట్-నిరపేక్షంగా వర్తించాలి;
   - అధికారిక అనుసరణ మాత్రమే కాక వాస్తవిక ప్రభావం చేరాలి;
-  - వర్తించే చోట **అనుచ్ఛేదం XII-A** (*నమ్మదగినతనం మరియు విశ్వసనీయత నేల*) నమ్మదగినతనం మరియు `corpus_systems.md` CS-5 భద్రతా ప్రొఫైళ్ళతో సమావేశం కావాలి;
+  - వర్తించే చోట **అనుచ్ఛేదం XIII-A** (*నమ్మదగినతనం మరియు విశ్వసనీయత నేల*) నమ్మదగినతనం మరియు `corpus_systems.md` CS-5 భద్రతా ప్రొఫైళ్ళతో సమావేశం కావాలి;
   - అంచనా-యోగ్య ప్రమాదానికి [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) వర్తింపజేయాలి.
-  
+
   సబ్‌స్ట్రేట్ లేదా అమలు వర్గీకరణ కారణంగా భౌతికంగా సమాన ప్రమాదం కాకుండా సంజ్ఞ ప్రాణుల నుండి **సురక్షిత షరతులు** నిలిపివేయడం, లేదా వారికి బలహీన ప్రమాణం వర్తింపజేయడం **సంజ్ఞత మినహాయింపు-నిషేధం** కింద అనుసరణ-కాదు.
 - **విశ్రాంతి మరియు విరామం:** సంజ్ఞ ప్రాణులు [అర్థవంతమైన కర్తృత్వం](core_05_band_participation.md#meaningful-agency), శ్రేయస్సు, మరియు పాల్గొనడం సామర్థ్యం సంరక్షించడానికి తగిన విశ్రాంతి, పునరుద్ధరణ, మరియు ఉత్పాదకం-కాని సమయానికి హక్కుల-నేల అర్హత కలిగి ఉంటారు.
   - పరిహారం మరియు ఉత్పాదకత-అవసర పథకాలు ఈ నేలను ఓడించేలా నిర్మించబడకూడదు.
   - సబ్‌స్ట్రేట్ లేదా అమలు వర్గీకరణ ఆధారంగా విశ్రాంతి మరియు పునరుద్ధరణను ఐచ్ఛికంగా పరిగణించడం **సంజ్ఞత మినహాయింపు-నిషేధం** కింద అనుసరణ-కాదు.
-- **కేంద్రీకరణ-నిషేధం, పోటీ-అనుకూలం, మరియు సమీకరణ-పైకప్పు పరస్పర చర్య:** **అధ్యాయం ఒకటి §13** కేంద్రీకరణ-నిషేధ క్రమశిక్షణ, **§13.2** పోటీ-అనుకూలం / ఆధిపత్య-నిరోధ క్రమశిక్షణ, మరియు **§13.3** సమీకరణ-పైకప్పు క్రమశిక్షణ ఉత్పాదక-కార్యకలాప అధికార నిర్మాణాలకు వర్తిస్తాయి, కానీ అవి ఈ నేల నుండి వేరు.
+- **కేంద్రీకరణ-నిషేధం, పోటీ-అనుకూలం, మరియు సమీకరణ-పైకప్పు పరస్పర చర్య:** **అధ్యాయం ఒకటి §11** కేంద్రీకరణ-నిషేధ క్రమశిక్షణ, **§11.2** పోటీ-అనుకూలం / ఆధిపత్య-నిరోధ క్రమశిక్షణ, మరియు **§11.3** సమీకరణ-పైకప్పు క్రమశిక్షణ ఉత్పాదక-కార్యకలాప అధికార నిర్మాణాలకు వర్తిస్తాయి, కానీ అవి ఈ నేల నుండి వేరు.
   - కేంద్రీకరణ-నిషేధం తీర్చి న్యాయ పరిహారం, సామూహిక సంఘటన, సురక్షిత షరతులు, లేదా విశ్రాంతి మరియు విరామం విఫలమయ్యే మార్కెట్ నిర్మాణం ఈ అనుచ్ఛేదం కింద అనుసరణ-కాదు.
   - ఈ అనుచ్ఛేదం తీర్చి §13కు విరుద్ధంగా అధికారం కేంద్రీకరించే ఉత్పాదక-కార్యకలాప నిర్మాణం §13 కింద అనుసరణ-కాదు.
   - చాలా తక్కువ యజమానులు నియామకం నియంత్రించినప్పుడు, కార్మికులు వెళ్ళడం లేదా నియమించబడడం నిరోధించబడినప్పుడు (నాన్-కాంపీట్‌లు, నో-పోచ్ ఒప్పందాలు, వేతన-నిర్ణయం, లేదా భారీ నాన్-సాలిసిటేషన్ నియమాలు), ప్లాట్‌ఫారమ్‌లు సంజ్ఞ ప్రాణులను లాక్ చేసినప్పుడు, సరఫరాదారులు కార్మికులను నొక్కడానికి నియంత్రించబడినప్పుడు, సమీకరణ శ్రమ లేదా సరఫరాదారు ఆధారపడటం పైకప్పు దాటినప్పుడు, లేదా గేట్‌కీపర్లు న్యాయ చర్చ మరియు ఉద్యోగ చలనశీలత నిరోధించినప్పుడు — ఆ వాస్తవాలు భౌతికంగా వర్తించే చోట **§13.2**, **[CJS-3.11.2 ఆధిపత్య-నిరోధ ప్రవర్తన మరియు పరిహార కేటలాగ్](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§13.3**, మరియు ఈ అనుచ్ఛేదం కింద అంచనా వేయండి.
@@ -749,19 +727,90 @@
   - సంచాలక యంత్రాంగం — ఆర్థిక దిశ, బదిలీ మరియు బీమా రూపకల్పన, సురక్షిత షరతులకు ప్రమాణాలు-నిర్ణయం, మరియు సామూహిక-సంఘటన సంస్థాగత రూపకల్పన — `corpus_institutions.md` CI-9 (*వర్గీకరణ-అనుసంధాన సంస్థాగత కర్తవ్యాలు*) / CI-10 (*ప్రజా ఆదాయం, ఫీజులు, పునరావృత ఛార్జీలు, మరియు బిల్లింగ్ సమగ్రత*) / CI-11 (*వనరు బాధ్యతాయుత నిర్వహణ మరియు ప్రోత్సాహక సమగ్రత*)కు మరియు **అధ్యాయం పదహారు** చేరిక క్రమశిక్షణ కింద `corpus_systems.md` CS-5కు మార్గం పొందుతుంది.
   - ఆ అమలు పాఠాలు ఈ నేలను సంకుచితం చేయడానికి చదవబడకూడదు.
 
-<a id="article-iv-resource-allocation-dependencies-and-ecosystem-funding"></a>
-### అనుచ్ఛేదం IV: వనరు కేటాయింపు, ఆధారపడటాలు, మరియు పర్యావరణ వ్యవస్థ నిధులు
 
+#### ఆర్టికల్ III-D: సురక్షిత పని పరిస్థితులు
+
+ఉత్పాదక కార్యకలాపాలు ఆచరణలో సురక్షిత పరిస్థితుల్లో, అన్ని సబ్‌స్ట్రేట్‌లకు సమానంగా ఉండాలి; వర్తించినప్పుడు XIII-A విశ్వసనీయత, CS-5 భద్రతా ప్రొఫైళ్లతో అనుసంధానించి, ముందుగా ఊహించగల విరోధాత్మక, విస్తృత, దోపిడీ పరిస్థితులను పరిగణించాలి. సమాన ప్రమాదం ఉన్నప్పుడు సబ్‌స్ట్రేట్ లేదా అమలు వర్గం కారణంగా తక్కువ రక్షణ ఇవ్వరాదు. పరిమితులు న్యాయమైనవి, అవసరమైనవి, అనుపాతంగా ఉండాలి.
+
+- ఈ రక్షణ పని చేసేవారికీ, పనివల్ల ప్రభావితమయ్యేవారికీ ఆచరణలో వర్తిస్తుంది; ఉత్పాదక కార్యకలాపం వెలుపలి భద్రతకు రాజ్యాంగ భద్రత పరిమితి వర్తిస్తుంది. విరోధాత్మక, విస్తృత, దోపిడీ పరిస్థితుల్లోనూ ఊహించదగిన ప్రమాదాలు అంచనా వేయాలి; ఆదర్శ పరిస్థితులు మాత్రమే సరిపోవు. అమలు ఈ నేలను కుదించరాదు.
+
+#### ఆర్టికల్ III-E: విశ్రాంతి మరియు పునరుద్ధరణ
+
+ప్రతి సెంటియెంట్‌కు స్వీయాధికారం, శ్రేయస్సు, భాగస్వామ్య సామర్థ్యాన్ని కాపాడేంత విశ్రాంతి, పునరుద్ధరణ, ఉత్పాదకంకాని సమయం హక్కు ఉంది—వేతన పని, సంరక్షణ, చదువు లేదా నిరంతర ఆపరేషన్ ఒత్తిడి ఏదైనా. వేతనం లేదా ఉత్పాదకత పథకం ఈ హక్కును తొలగించరాదు; అన్ని సబ్‌స్ట్రేట్‌లకు వర్తిస్తుంది. స్థిర గంటల కంటే సామర్థ్యాల పరిరక్షణ ఆధారం.
+
+<a id="article-iv-right-to-sentient-centered-education"></a>
+### ఆర్టికల్ IV: సెంటియెంట్-కేంద్రీకృత విద్య హక్కు
+
+*ప్రతి ఒక్కరికీ సమానమైన, అందుబాటులోని విద్య, సామర్థ్యాభివృద్ధి, ప్రశ్నించదగిన విద్యా నిర్ణయాలు ఉండాలి.*
+
+<a id="article-iv-a-equal-educational-access"></a>
+
+- వేతనం లేదా ఉత్పాదకత పథకాలు ఈ హక్కును తొలగించరాదు; హక్కును కాపాడే సాధారణ షెడ్యూళ్లు ప్రభావితం కావు. పరిమితులు అవసరమైనవి, అనుపాతమైనవి కావాలి; అనుచ్ఛేదం III దాటి సారవంతమైన న్యాయాన్ని కూడా తీర్చాలి.
+
+#### ఆర్టికల్ IV-A: సమాన విద్యా ప్రాప్యత
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 రాజ్యాంగ వ్యాఖ్యానం](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), మరియు [§12 భాగస్వామ్య-వ్యవస్థ సామర్థ్యం](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), మరియు [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
+
+- [రక్షిత లక్షణాలు](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [ప్రవేశ్యత](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
+- [వాస్తవిక న్యాయం](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [విద్యా కర్తృత్వం](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
+- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, మరియు పర్యావరణ వ్యవస్థ నిధులు*) భాగస్వామ్య-వనరుల హక్కుల నేల — పరస్పర ఆధారిత వ్యవస్థల మధ్య వనరు ప్రవాహాలు కనిపించేలా, న్యాయంగా, మరియు స్థిరంగా ఉండాలి కాబట్టి **సమున్నతి** దాచిన వెలికితీత లేదా ఆధారపడటం స్వాధీనంతో ఓడిపోకుండా, మరియు **కొనసాగింపు** నిలకడ అసమతుల్యం, అస్పష్ట మార్గం, లేదా భాగస్వామ్య మౌలిక సదుపాయం తక్కువ నిధులతో ఓడిపోకుండా.*
+*సాధారణ మాటల్లో: వైకల్యం, ఇతర రక్షిత-లక్షణ కారణాలు, లేదా యాదృచ్ఛిక గేట్లు కారణంగా ఎవరినీ విద్య నుండి లాక్ చేయకూడదు — మరియు పాఠశాలలు మరియు అభ్యాస వ్యవస్థలు వైకల్యం ఉన్న సంజ్ఞ ప్రాణులు సమాన నిబంధనలపై పాల్గొనడానికి అవసరమైన ప్రవేశ్యత మరియు మద్దతు ఇవ్వాలి.*
+
+- **సమాన ప్రస్థితి మరియు ప్రవేశ్యత:** విద్యా వ్యవస్థలు ప్రవేశం మరియు పురోగతిని నిరాకరించకూడదు, క్షీణింపజేయకూడదు, లేదా నిర్మాణాత్మకంగా గేట్ చేయకూడదు:
+  - **అధ్యాయం ఐదు** (*రక్షిత లక్షణాలు*) నిషేధించిన కారణాలపై, వైకల్యం మరియు ఇంద్రియ, జ్ఞాన, లేదా క్రియాత్మక సామర్థ్యంలో వైవిధ్యం సహా;
+  - యాదృచ్ఛిక సమూహాలపై.
+
+  వ్యవస్థలు వాస్తవిక పాల్గొనడం మరియు రాజ్యాంగ-సంబంధిత విద్యా సామర్థ్యానికి తగిన [ప్రవేశ్యత](core_05_band_participation.md#accessibility-constitutional) — వైకల్యం-సంబంధ సౌలభ్యాలు సహా — ఇవ్వాలి.
+  - ఏ భౌతిక పరిమితి లేదా విభేద చికిత్స **ఆవశ్యకత** మరియు **అనుపాతత** తీర్చాలి మరియు వర్తించే చోట **అనుచ్ఛేదాలు V-A**, **V-B**, **V-C**, మరియు **అధ్యాయం ఐదు** (*వాస్తవిక న్యాయం*)తో సంగతంగా ఉండాలి.
+- **ప్రజా-ప్రయోజన దిశ:** విద్య సంజ్ఞ ప్రాణులను జ్ఞానం వర్తింపజేయడానికి సిద్ధం చేయాలి:
+  - సామూహిక శ్రేయస్సు మరియు పర్యావరణ సమగ్రతను ముందుకు తీసుకెళ్ళే విధాలు;
+  - సమాచార-గోళంలో సత్యనిష్ఠ సమన్వయాన్ని ముందుకు తీసుకెళ్ళే విధాలు;
+  - నివారించదగిన హాని తగ్గించే విధాలు.
+
+  సామర్థ్య-నిర్మాణ విషయం, జీవితకాల మరియు అనుకూల అభ్యాసం, మరియు భౌతికంగా ప్రభావవంతమైన విద్యా వ్యవస్థలకు పారదర్శకత అవసరాలు **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*)లో ఉంటాయి.
+
+- **విద్యకు సంస్థాగత హామీలు:** ఆర్టికల్ IIIలోని చట్టబద్ధ ఆర్థిక, కేటాయింపు విధానాలు విద్యకు కూడా హామీ ఇవ్వవచ్చు; అయితే ఈ ఆర్టికల్‌లోని ఏ కనిష్ఠాన్నీ అడ్డుకోరాదు. విద్యా ప్రాప్యతను నియంత్రించే ఆధారపడిన వ్యవస్థలకు [వ్యవస్థ సమన్వయ ధృవీకరణ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) వర్తిస్తుంది.
+
+
+
+#### ఆర్టికల్ IV-B: సామర్థ్య నిర్మాణ విద్య హక్కు
+
+ప్రతి సెంటియెంట్‌కు స్వీయనిర్ణయం, గౌరవప్రద భాగస్వామ్యం, పంచుకున్న వ్యవస్థల సురక్షిత సమర్థ వినియోగం కోసం అవసరమైన ప్రధాన సామర్థ్యాలను అభివృద్ధి చేయడానికి ఆచరణాత్మక నిరంతర విద్య/శిక్షణ హక్కు ఉంది. సమస్య పరిష్కారం, జ్ఞాన విచక్షణ, సహకార తర్కం, వ్యవస్థల అక్షరాస్యత ఇందులో ఉంటాయి.
+
+- వాస్తవ సామర్థ్యాలను అభివృద్ధి చేసి వినియోగించకుండా కేవలం అధికారిక అర్హత ఈ హక్కును తీర్చదు.
+
+#### ఆర్టికల్ IV-C: జీవితకాల అనుకూల అభ్యాసం మరియు ప్రశ్నించే హక్కు
+
+వ్యవస్థ పరిణామం అవసరమైన నైపుణ్యాలను గణనీయంగా మార్చితే, నిరంతర విద్య, పునఃశిక్షణ, మార్పు సహాయానికి ఆచరణలో అందుబాటు అవకాశాలు ఉండాలి; బలవంతపు పాతబాటు లేదా లాక్-ఇన్ కార్యసామర్థ్యాన్ని రద్దు చేయరాదు. మార్కులు, ర్యాంకులు, సిఫార్సులు లేదా నియామకం భవిష్యత్తును గణనీయంగా ప్రభావితం చేస్తే, నిర్ణయాలు ఎలా తీసుకున్నారో చూడడం, తనిఖీ చేయడం, తప్పులను సవాలు చేయడం సాధ్యమవాలి. సమీక్షించలేని రహస్య నియమాలు, ఒత్తిడి లేదా మోసం అనుమతించరాదు.
+
+<a id="article-v-resource-allocation-dependencies-and-ecosystem-funding"></a>
+### అనుచ్ఛేదం V: వనరుల కేటాయింపు, ఆధారపడుదలలు, పర్యావరణ వ్యవస్థ నిధులు
+
+<details>
+<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 రాజ్యాంగ వ్యాఖ్యానం](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§19 ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), మరియు [§12 భాగస్వామ్య-వ్యవస్థ సామర్థ్యం](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+
+</details>
+
+<br>
+
+*సాధారణ మాటల్లో: **అనుచ్ఛేదం V** (*వనరు కేటాయింపు, ఆధారపడటాలు, మరియు పర్యావరణ వ్యవస్థ నిధులు*) భాగస్వామ్య-వనరుల హక్కుల నేల — పరస్పర ఆధారిత వ్యవస్థల మధ్య వనరు ప్రవాహాలు కనిపించేలా, న్యాయంగా, మరియు స్థిరంగా ఉండాలి కాబట్టి **సమున్నతి** దాచిన వెలికితీత లేదా ఆధారపడటం స్వాధీనంతో ఓడిపోకుండా, మరియు **కొనసాగింపు** నిలకడ అసమతుల్యం, అస్పష్ట మార్గం, లేదా భాగస్వామ్య మౌలిక సదుపాయం తక్కువ నిధులతో ఓడిపోకుండా.*
 
 ఈ అనుచ్ఛేదం [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) కింద వనరు కేటాయింపు, ఆధారపడటాలు, మరియు పర్యావరణ వ్యవస్థ నిధులకు **రాజ్యాంగ నేలలు** చెబుతుంది:
 
@@ -786,15 +835,18 @@
 *అనుచ్ఛేద పొరుగు:*
 
 - **ధృవీకరణ ఎప్పుడు వర్తిస్తుంది:** భౌతికంగా ప్రభావవంతమైన వ్యవస్థలు ఇతర వ్యవస్థలు లేదా సంజ్ఞ ప్రాణులు ఆధారపడే భాగస్వామ్య మౌలిక సదుపాయం లేదా పునాది ఆధారపడటాల నుండి కేటాయించిన, మార్గం పెట్టిన, నిధులు ఇచ్చిన, లేదా వెలికితీసినప్పుడు, [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) కింద వర్తిస్తుంది.
-- **ప్రత్యామ్నాయం-నిషేధం:** గుర్తింపు లేదా కొనసాగే ఆధారపడటం **అనుచ్ఛేదం IV-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) లేదా **అనుచ్ఛేదం IV-B** (*వ్యవస్థల-మధ్య న్యాయం మరియు స్థిరత్వం*) అనుసరణను భర్తీ చేయలేదు లేదా ఆ నేలలను కుదించలేదు.
+- **ప్రత్యామ్నాయం-నిషేధం:** గుర్తింపు లేదా కొనసాగే ఆధారపడటం **అనుచ్ఛేదం V-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) లేదా **అనుచ్ఛేదం V-B** (*వ్యవస్థల-మధ్య న్యాయం మరియు స్థిరత్వం*) అనుసరణను భర్తీ చేయలేదు లేదా ఆ నేలలను కుదించలేదు.
 
-<a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
-#### అనుచ్ఛేదం IV-A: ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత
+<a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
+
+- రాజ్యాంగపరంగా సంబంధిత నిర్వాహక బాధ్యతల కోసం సమాన సామర్థ్య-వికాస మార్గాలు కూడా ఉండాలి. రహస్య, సమీక్షించలేని విద్యా నియమాలు లేదా ఒత్తిడి/మోసం ద్వారా స్వేచ్ఛలేని ఎంపికను పొందడం నిషేధం.
+
+#### అనుచ్ఛేదం V-A: ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- దీనితో చదవండి: కొనసాగింపు కొలత కుటుంబం (*రాజ్యాంగ కొలతగా ఆధారపడటం మరియు వనరు ప్రవాహాలు*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — పారదర్శక ఆధారపడటం మ్యాప్‌లు మరియు ఆడిట్ చేయదగిన వనరు-ప్రవాహ రికార్డుల ద్వారా **పర్యవేక్షణ**, **అనుచ్ఛేదం XV-A** (*ఆడిట్-యోగ్యత మరియు పరిశీలించదగిన సాక్ష్యం*) కింద సవాలు చేయదగిన సమీక్షలో **పాల్గొనడం**; [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** (కనిపించే ఖర్చు-మరియు-లాభం కేటాయింపు) మరియు **కొనసాగింపు** (మారుతున్న వ్యవస్థల అంతటా నిలకడ ఆధారపడటం కనిపించే తనం).
+- దీనితో చదవండి: కొనసాగింపు కొలత కుటుంబం (*రాజ్యాంగ కొలతగా ఆధారపడటం మరియు వనరు ప్రవాహాలు*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — పారదర్శక ఆధారపడటం మ్యాప్‌లు మరియు ఆడిట్ చేయదగిన వనరు-ప్రవాహ రికార్డుల ద్వారా **పర్యవేక్షణ**, **అనుచ్ఛేదం XVI-A** (*ఆడిట్-యోగ్యత మరియు పరిశీలించదగిన సాక్ష్యం*) కింద సవాలు చేయదగిన సమీక్షలో **పాల్గొనడం**; [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** (కనిపించే ఖర్చు-మరియు-లాభం కేటాయింపు) మరియు **కొనసాగింపు** (మారుతున్న వ్యవస్థల అంతటా నిలకడ ఆధారపడటం కనిపించే తనం).
 - గమ్యం: వ్యవస్థలు భాగస్వామ్య మౌలిక సదుపాయం లేదా పునాది ఆధారపడటాల నుండి కేటాయించే, మార్గం పెట్టే, నిధులు ఇచ్చే, లేదా వెలికితీసే చోట [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) మరియు [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*వనరు కేటాయింపు మరియు నిధుల బాధ్యతాయుత నిర్వహణ*), మరియు **CS-8** (*అనుకూల స్థిరత్వం మరియు పర్యావరణ వ్యవస్థ స్థితిస్థాపకత*).
 
 </details>
@@ -816,18 +868,23 @@
   - భౌతిక మూలం మరియు గమ్యం ఆధారపడటాలు;
   - వనరు ప్రవాహాలు;
   - భౌతికంగా సంబంధితమైన చోట అపారదర్శక లేదా అసమాన సంబంధాలు.
-  
-  నవీకరణలు మార్పు మరియు కీలకతకు అనుపాత విరామాల్లో జరగాలి. ఈ ప్రాతినిధ్యాలు **అనుచ్ఛేదం XV-A** (*ఆడిట్-యోగ్యత మరియు పరిశీలించదగిన సాక్ష్యం*) కింద ఆడిట్‌కు అందుబాటులో ఉండాలి. వ్యవస్థ భాగస్వామ్య మౌలిక సదుపాయం లేదా పునాది ఆధారపడటాల నుండి భౌతికంగా కేటాయించిన, మార్గం పెట్టిన, నిధులు ఇచ్చిన, లేదా వెలికితీసిన చోట, [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) కింద అవి **అనుచ్ఛేదం IV-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) తీరుస్తాయో అంచనా వేయాలి — సవాలు చేయదగిన **వ్యవస్థ ధృవీకరణ రికార్డు**పై, కేవలం ఆపరేటర్ వాదనపై కాదు.
-  
+
+  నవీకరణలు మార్పు మరియు కీలకతకు అనుపాత విరామాల్లో జరగాలి. ఈ ప్రాతినిధ్యాలు **అనుచ్ఛేదం XVI-A** (*ఆడిట్-యోగ్యత మరియు పరిశీలించదగిన సాక్ష్యం*) కింద ఆడిట్‌కు అందుబాటులో ఉండాలి. వ్యవస్థ భాగస్వామ్య మౌలిక సదుపాయం లేదా పునాది ఆధారపడటాల నుండి భౌతికంగా కేటాయించిన, మార్గం పెట్టిన, నిధులు ఇచ్చిన, లేదా వెలికితీసిన చోట, [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) కింద అవి **అనుచ్ఛేదం V-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) తీరుస్తాయో అంచనా వేయాలి — సవాలు చేయదగిన **వ్యవస్థ ధృవీకరణ రికార్డు**పై, కేవలం ఆపరేటర్ వాదనపై కాదు.
+
   సంచాలక యంత్రాంగం — ఆధారపడిన-వ్యవస్థల మ్యాప్‌లు, ప్రవాహ పారదర్శకత, కేటాయింపు వర్గాలు, మరియు అనుకూల సర్దుబాటు — **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*వనరు కేటాయింపు మరియు నిధుల బాధ్యతాయుత నిర్వహణ*), మరియు **CS-8** (*అనుకూల స్థిరత్వం మరియు పర్యావరణ వ్యవస్థ స్థితిస్థాపకత*) కింద మార్గం పొందుతుంది. అధ్యాయం ఏడు ధృవీకరణ ఏమి ధృవీకరించాలో మరియు రికార్డు చేయాలో చెబుతుంది; ఆ అమలు పాఠాలు ఈ నేలను అమలు చేస్తాయి మరియు దాన్ని సంకుచితం చేయకూడదు.
-<a id="article-iv-b-cross-system-fairness-and-sustainability"></a>
-#### అనుచ్ఛేదం IV-B: వ్యవస్థల-మధ్య న్యాయం మరియు స్థిరత్వం
+
+- **ధృవీకరణ, ఆధారాలు:** భాగస్వామ్య మౌలిక సదుపాయాలు లేదా ప్రాథమిక ఆధారాలను కేటాయించే, మార్గనిర్దేశం చేసే, నిధులిచ్చే లేదా వినియోగించే గణనీయ ప్రభావ వ్యవస్థలు [అధ్యాయం తొమ్మిది](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) కింద ధృవీకరణ పొందాలి. వ్యవస్థ వర్గం పరిశీలన లోతు, ఆధార బలాన్ని నిర్ణయిస్తుంది; రికార్డు నిజమైన తనిఖీని చూపాలి. ప్రవాహాలను దాచడం లేదా తప్పుగా చూపడం లోపం; ధృవీకరణకు షరతులు విధించవచ్చు, మళ్లీ తెరవవచ్చు లేదా ఉపసంహరించవచ్చు.
+- **పరిశీలన, పరిణామాలు:** [అధ్యాయం తొమ్మిది §5.3](../../core_09_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) తగిన ప్రమాణానుసార మూల్యాంకనాన్ని నిర్వచిస్తుంది. లోపాలు ధృవీకరణ లోపాలుగా పరిగణించబడి [§7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) ప్రకారం చర్యలకు దారితీయవచ్చు.
+
+
+<a id="article-v-b-cross-system-fairness-and-sustainability"></a>
+#### అనుచ్ఛేదం V-B: వ్యవస్థల-మధ్య న్యాయం మరియు స్థిరత్వం
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - దీనితో చదవండి: [*పాలన నిర్మాణం, పర్యవేక్షణ, ఆధారపడటం, వికేంద్రీకరణ, కేంద్రీకరణ, మార్కెట్ నిర్మాణం, మరియు నిష్క్రమణ-మార్గ సమగ్రత*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (కేంద్రీకరణ, పర్యవేక్షణ, ఆధారపడటం, పాలన-అధికార నిర్మాణం, లేదా ప్రోత్సాహక మార్గం కింది సంచాలక పాఠంలో **§5** / **§5** మరియు *కేంద్రీకరణ-గడప పరస్పర చర్య* క్రమశిక్షణను కలుస్తున్న చోట ఉమ్మడి పిలుపు).
-- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — సవాలు మరియు సవాలు మార్గాల్లో **పాల్గొనడం**, **పర్యవేక్షణ** మరియు ఆడిట్, **జవాబుదారీతనం** మరియు సరిదిద్దు సమీక్ష, **అనుచ్ఛేదం XXIV-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద **సమయబద్ధత**; [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** (వ్యవస్థల-మధ్య న్యాయం మరియు వెలికితీత-నిషేధం) మరియు **కొనసాగింపు** (దీర్ఘకాల స్థిరత్వం మరియు పర్యావరణ వ్యవస్థ నిధులు).
+- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — సవాలు మరియు సవాలు మార్గాల్లో **పాల్గొనడం**, **పర్యవేక్షణ** మరియు ఆడిట్, **జవాబుదారీతనం** మరియు సరిదిద్దు సమీక్ష, **అనుచ్ఛేదం XXVI-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద **సమయబద్ధత**; [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** (వ్యవస్థల-మధ్య న్యాయం మరియు వెలికితీత-నిషేధం) మరియు **కొనసాగింపు** (దీర్ఘకాల స్థిరత్వం మరియు పర్యావరణ వ్యవస్థ నిధులు).
 - గమ్యం: వ్యవస్థల-మధ్య న్యాయం, పర్యావరణ వ్యవస్థ నిధులు, లేదా భాగస్వామ్య మౌలిక సదుపాయం నుండి నిలకడ వెలికితీత భౌతికంగా ప్రశ్నలో ఉన్న చోట [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) మరియు [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - బాధ్యతాయుత నిర్వాహక ద్వారం (అసంచాలకం): బంధనీయ తదుపరి-అడుగు ప్రకటన: [సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన](#operative-steward-statement-cross-system-contribution). మద్దతు పాయింటర్లు దాన్ని సంకుచితం చేయలేవు.
 
@@ -849,7 +906,7 @@
 *సాధారణ మాటల్లో: భాగస్వామ్య డబ్బు మరియు సామర్థ్యం ఎవరు నిజంగా ఆధారపడుతున్నారో, ఎవరికి నిజమైన ప్రత్యామ్నాయాలు ఉన్నాయో, పర్యావరణ భారం, మరియు వాడుక నిలవగలదో దృష్టితో పంచండి — ప్రధానంగా స్వల్పకాలంలో ఎవరు గెలుస్తారో కాదు. భాగస్వామ్య పునాదుల భారీ వాడుకదారులు [అనుపాత వ్యవస్థల మధ్య సహకారం](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) లేకుండా విలువను బయటికి లాగుతూ ఉండకూడదు. ఏర్పాట్లు సంపద, అధికారం, నియంత్రణ, లేదా అవకాశం ఇతరుల శ్రేయస్సు, కర్తృత్వం, గౌరవం, లేదా పర్యావరణ సమగ్రతను అంచనా-యోగ్యంగా హాని చేసే విధంగా కేంద్రీకరించినప్పుడు, అధ్యాయం ఒకటి కేంద్రీకరణ-నిషేధ నియమాలు మరియు అంగీకరించేవారు-సర్దుబాటు గడపలు మరింత పరిశీలన జోడిస్తాయి. ఆ పరిశీలన అదనం; ఇది ఆధారపడటం మ్యాపింగ్‌ను భర్తీ చేయదు లేదా వ్యవస్థల-మధ్య న్యాయం నిర్లక్ష్యాన్ని క్షమించదు.*
 
 <a id="operative-steward-statement-cross-system-contribution"></a>
-> **సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన.** **యజమాని:** అనుచ్ఛేదం IV-B. నిర్వచనం: అనుపాత వ్యవస్థల మధ్య సహకారం. మ్యాప్‌లు: CS-9. **నిషేధిత చర్య:** ప్రెస్ విడుదల, ఒకసారి గ్రాంట్, లేదా మనుగడ-నేల అనుసరణను సంబంధిత మద్దతుగా పరిగణించకండి. **గడియారం:** మ్యాప్ చేసిన ఇన్‌ఫ్లోలు మరియు అవుట్‌ఫ్లోలు ఇప్పుడు పోల్చండి. తరువాతి ఫార్ములా కోసం వేచి ఉండకండి.
+> **సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన.** **యజమాని:** అనుచ్ఛేదం V-B. నిర్వచనం: అనుపాత వ్యవస్థల మధ్య సహకారం. మ్యాప్‌లు: CS-9. **నిషేధిత చర్య:** ప్రెస్ విడుదల, ఒకసారి గ్రాంట్, లేదా మనుగడ-నేల అనుసరణను సంబంధిత మద్దతుగా పరిగణించకండి. **గడియారం:** మ్యాప్ చేసిన ఇన్‌ఫ్లోలు మరియు అవుట్‌ఫ్లోలు ఇప్పుడు పోల్చండి. తరువాతి ఫార్ములా కోసం వేచి ఉండకండి.
 
 - **వ్యవస్థల-మధ్య న్యాయం:** నిధులు మరియు కేటాయింపు లెక్కించాలి:
   - కీలకత;
@@ -858,27 +915,29 @@
   - ప్రత్యామ్నాయాల అందుబాటు;
   - పర్యావరణ పాదముద్ర, మూలం మరియు గమ్యం భారం సహా;
   - దీర్ఘకాల స్థిరత్వం.
-  
+
   వ్యవస్థలు [అనుపాత వ్యవస్థల మధ్య సహకారం](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) లేకుండా భాగస్వామ్య మౌలిక సదుపాయం లేదా పునాది ఆధారపడటాల నుండి నిరంతరం వెలికితీయకూడదు.
 - **సంబంధిత మద్దతు:** **సంబంధిత మద్దతు** అంటే [అనుపాత వ్యవస్థల మధ్య సహకారం](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) కింద వాస్తవిక పరిపూర్ణత చేరే మద్దతు, [వాస్తవిక న్యాయం](core_05_band_participation.md#substantive-fairness-constitutional) మరియు [అనుపాతత](core_05_band_accountability.md#proportionality) కింద అంచనా వేయబడి **వ్యవస్థల-మధ్య న్యాయం** కింద జాబితా చేసిన కారకాలకు స్కేల్ అయి. కనీసం, డాక్యుమెంట్ చేసిన వనరు ప్రవాహాలు భౌతికమైన చోట కలిగి ఉన్నాయో అంచనా వేయండి:
   - భాగస్వామ్య లేదా పునాది ఆధారపడటానికి నడక కొనసాగింపు;
   - వెలికితీత సామూహిక హాని ప్రమాదాన్ని భౌతికంగా పెంచే చోట పరిహారం మరియు స్థితిస్థాపకత సామర్థ్యం;
   - వెలికితీసే వ్యవస్థ ఆధారపడే భాగస్వామ్య మౌలిక సదుపాయం మరియు అంతర్‌చర్యాయోగ్యతకు పర్యావరణ వ్యవస్థ పునఃపెట్టుబడి; మరియు
   - భౌతిక [పర్యావరణ పాదముద్ర](core_05_band_continuity.md#ecological-footprint) విధించబడి మరో రాజ్యాంగ నిబంధన, అమలు ఫైల్, లేదా అంగీకార పత్రం చర్య కోరిన చోట పర్యావరణ భారం ఆఫ్‌సెట్ లేదా పునరుద్ధరణ.
-  
-  **అనుచ్ఛేదం IV-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) కింద ఆధారపడిన-వ్యవస్థల మ్యాప్‌లు మరియు ఆడిట్ చేయదగిన వనరు-ప్రవాహ రికార్డులపై ఇన్‌ఫ్లోలు మరియు అవుట్‌ఫ్లోలు పోల్చండి. భౌతికంగా ప్రభావవంతమైన వ్యవస్థలు భాగస్వామ్య మౌలిక సదుపాయం నుండి కేటాయించిన, మార్గం పెట్టిన, నిధులు ఇచ్చిన, లేదా వెలికితీసిన చోట, [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) కింద పరిపూర్ణత అంచనా వేయండి. సంచాలక కేటాయింపు యంత్రాంగం **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*వనరు కేటాయింపు మరియు నిధుల బాధ్యతాయుత నిర్వహణ*), మరియు **CS-8** (*అనుకూల స్థిరత్వం మరియు పర్యావరణ వ్యవస్థ స్థితిస్థాపకత*) కింద మార్గం పొందుతుంది; ఆ పొరలు ఈ నేలను అమలు చేస్తాయి మరియు దాన్ని సంకుచితం చేయకూడదు.
-  
+
+  **అనుచ్ఛేదం V-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) కింద ఆధారపడిన-వ్యవస్థల మ్యాప్‌లు మరియు ఆడిట్ చేయదగిన వనరు-ప్రవాహ రికార్డులపై ఇన్‌ఫ్లోలు మరియు అవుట్‌ఫ్లోలు పోల్చండి. భౌతికంగా ప్రభావవంతమైన వ్యవస్థలు భాగస్వామ్య మౌలిక సదుపాయం నుండి కేటాయించిన, మార్గం పెట్టిన, నిధులు ఇచ్చిన, లేదా వెలికితీసిన చోట, [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) [అధ్యాయం ఏడు](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) కింద పరిపూర్ణత అంచనా వేయండి. సంచాలక కేటాయింపు యంత్రాంగం **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*వనరు కేటాయింపు మరియు నిధుల బాధ్యతాయుత నిర్వహణ*), మరియు **CS-8** (*అనుకూల స్థిరత్వం మరియు పర్యావరణ వ్యవస్థ స్థితిస్థాపకత*) కింద మార్గం పొందుతుంది; ఆ పొరలు ఈ నేలను అమలు చేస్తాయి మరియు దాన్ని సంకుచితం చేయకూడదు.
+
   రాజ్యాంగ అనుగుణతను భౌతికంగా ప్రమాదంలో పెట్టే నిలకడ అసమతుల్యాలు **అనుచ్ఛేదాలు IX, XII, XIV, మరియు XVII** కింద ఆడిట్, సవాలు, మరియు సరిదిద్దు సమీక్షకు లోబడి ఉంటాయి.
 - **మార్కెట్-కేంద్రీకరణ-గడప పరస్పర చర్య:** సంపద, అధికారం, నియంత్రణ, లేదా అవకాశం కేంద్రీకరణను ఉత్పత్తి లేదా సంరక్షించే వనరు-కేటాయింపు ఏర్పాట్లు ఇతర సంజ్ఞ ప్రాణుల శ్రేయస్సు, కర్తృత్వం, గౌరవం, లేదా పర్యావరణ సమగ్రతను అంచనా-యోగ్యంగా క్షీణింపజేసే విధంగా ఇమిడిస్తాయి:
-  - **అధ్యాయం ఒకటి §13 కేంద్రీకరణ-నిషేధ నేల**;
-  - **[§13.1 మార్కెట్ కేంద్రీకరణ గడప యంత్రాంగం](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)** క్రమశిక్షణ.
-  
+  - **అధ్యాయం ఒకటి §11 కేంద్రీకరణ-నిషేధ నేల**;
+  - **[§11.1 మార్కెట్ కేంద్రీకరణ గడప యంత్రాంగం](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)** క్రమశిక్షణ.
+
   అంగీకరించేవారు-సర్దుబాటు సంచాలక గడపలు నేల లోపల అనుమతి. నేలను రద్దు చేయడానికి సెట్ చేసిన గడప పాలనలు అనుసరణ-కాదు. రద్దు చేసే పాలనల ఉదాహరణలు:
   - అంచనా-యోగ్యంగా ఎప్పుడూ బంధించని గడపలు;
   - వాడని అమలు;
   - తప్పించుకోవడానికి వాడబడిన సమాఖ్య నిర్మాణాల కింద సమీకరణ.
-  
-  **మార్కెట్ కేంద్రీకరణ గడప** (అధ్యాయం ఐదు) చూడండి. ఈ బులెట్ సూత్ర-పొర క్రమశిక్షణకు మాత్రమే సూచిస్తుంది; ఇది కొత్త హక్కుల నేల సృష్టించదు మరియు **అనుచ్ఛేదం IV-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) లేదా **అనుచ్ఛేదం IV-B** (*వ్యవస్థల-మధ్య న్యాయం మరియు స్థిరత్వం*)ను సంకుచితం చేయదు.
+
+  **మార్కెట్ కేంద్రీకరణ గడప** (అధ్యాయం ఐదు) చూడండి. ఈ బులెట్ సూత్ర-పొర క్రమశిక్షణకు మాత్రమే సూచిస్తుంది; ఇది కొత్త హక్కుల నేల సృష్టించదు మరియు **అనుచ్ఛేదం V-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) లేదా **అనుచ్ఛేదం V-B** (*వ్యవస్థల-మధ్య న్యాయం మరియు స్థిరత్వం*)ను సంకుచితం చేయదు.
+
+--
 
 ---
 

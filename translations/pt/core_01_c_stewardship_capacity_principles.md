@@ -628,6 +628,53 @@ flowchart TB
 
 [Capítulo Dez §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Dever de resistir*) aplica esse dever aos efeitos sobre o status, e [CS-4 §10 ação inspecionável e atribuível](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Ação inspecionável e atribuível*) estabelece o registro mínimo de uma recusa.
 
+
+<a id="176-portable-competence"></a>
+#### 17.6 Competência transferível
+<details>
+<summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
+
+- Fundamentos: [§17 Stewardship consequente](#17-consequential-stewardship-the-steward-role), [§16.2 Desenvolvimento institucional](#162-institutional-development), [§17.3 Registrar a função, não o steward](#173-logging-the-role-not-the-steward).
+- Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — supervisão, tempestividade e participação, dimensionadas pela [aposta material](core_00_preamble.md#material-stake).
+- Limites: [§18.3 Separação de funções](#183-segregation-of-duties), [Capítulo Oito §2](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor), [Capítulo Onze §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances), [§17.5](#175-duty-to-resist), [13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- Implementação: [Capítulo Quatorze §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor), [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+<details>
+<summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
+
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Obrigação de stewardship estratégico](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Desenvolvimento institucional](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Compreensão distribuída](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Materialidade](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
+- [Dependência](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Ônus evitável](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Denúncia protegida (whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+
+</details>
+<br>
+
+*Em termos simples: nenhum trabalho consequente deve depender do conhecimento de uma única senciente. Quanto mais o sistema importa e quanto maior a dependência, mais os responsáveis precisam conseguir transferir a função, explicá-la e verificar o trabalho uns dos outros, além de conhecer as funções vizinhas o suficiente para perceber problemas nas interfaces. Este é um piso de cobertura e compreensão. Não obriga todos a passar por todas as funções.*
+
+A competência numa função consequente pertence à própria função e às comunidades que dela dependem, não a um único steward. A exigência cresce conforme a [Materialidade](../../core_05_band_oversight.md#materiality-determination) e a [Dependência](core_05_band_continuity.md#dependency):
+
+- **Cobertura:** Mais de uma senciente qualificada consegue executar e explicar a função. Nenhum steward é o único capaz de operá-la, repará-la ou explicar seu funcionamento. Uma alternativa só conta se não falhar pela mesma razão que o steward substituído; para um steward de IA, outra cópia do mesmo sistema com o mesmo defeito não é cobertura.
+- **Transferência demonstrada:** Documentos, por si só, não mostram que a competência foi transferida. Sucessão e passagem de função devem ser exercitadas. Lacunas encontradas são registradas e corrigidas como qualquer desalinhamento, segundo [§19.4](#194-misalignment-correction-and-capture-response).
+- **Compreensão entre interfaces:** Stewards de funções vizinhas conhecem o trabalho uns dos outros o bastante para detectar falhas nas interfaces, como uma passagem perdida ou uma medida saudável de um lado que causa dano do outro. Isso é compreensão, não autoridade. Apoia o [Pilar 2](#16-pillar-2-proactive-stewardship) e a detecção plural de [§19.3](#193-misalignment-detection), e reduz a dependência dos indicadores estreitos criticados em [§19.2](#192-convenient-proxies-and-proxy-divergence).
+- **Rotação é uma ferramenta:** As vias de função podem usar rotação, acompanhamento, trabalho em dupla ou cobertura temporária para promover cobertura, aprendizagem ou [prevenção de captura](core_05_band_continuity.md#anti-capture). Isso só ocorre quando segurança e consentimento permitem, e não mais rápido do que a competência se desenvolve. A função não pode ser dividida até que ninguém seja competente.
+
+**Limites:**
+- **Assentos separados:** Aprender o trabalho de outro assento não significa ocupá-lo. A rotação não pode colocar alguém para verificar trabalho que realizou; envolvimento anterior gera conflito segundo o [Capítulo Oito](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) e [§18.3](#183-segregation-of-duties).
+- **Autorização primeiro:** Ninguém assume uma função vinculante ou relevante para segurança antes de cumprir o critério de competência do [Capítulo Onze §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances). Até lá, trabalha sob supervisão em função voltada à aprendizagem.
+- **Sem retaliação:** Reatribuição, rotação ou novo treinamento não podem marginalizar um steward que resistiu sob [§17.5](#175-duty-to-resist) ou usou a [denúncia protegida](core_05_band_accountability.md#protected-reporting-whistleblowing).
+- **Compreensão não é acesso:** Continuam valendo os limites de confidencialidade, segurança e privilégio mínimo de [13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), assim como o registro da função em [§17.3](#173-logging-the-role-not-the-steward).
+- **Especialização e ônus:** [§16 Escopo](#16-scope-priority-and-limits) continua valendo: não é necessário fazer todos passarem por todas as funções nem anular especialização justificada. O esforço acompanha o [Ônus evitável](core_05_band_continuity.md#avoidable-burden). Um grupo pequeno ou informal pode cumprir isso com algumas sencientes de confiança cobrindo umas às outras, sem aparato institucional.
+- **Todo steward:** A mesma obrigação vincula stewards humanos e de IA, conforme [§17.1](#171-shared-stewardship-standard).
+
+Mínimos de pessoal, profundidade de reserva e sucessão são tratados em [Capítulo Quatorze §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor) e [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness). Esta subseção apresenta o princípio que essas regras operacionalizam.
+
 <br>
 
 ---

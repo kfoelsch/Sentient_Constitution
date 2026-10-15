@@ -88,35 +88,6 @@ Les définitions feuille sous cette fin héritent de sa portée à moins qu’el
 ---
 
 <a id="flourishing-measurement-family"></a>
-
-### Épanouissement
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
-
-</details>
-
-<br>
-
-*En termes simples : ces questions vérifient si les êtres sentients bénéficient réellement de bien-être, de sécurité et de capacité d’agir — et pas seulement d’engagement mesuré par indicateur indirect ou de débit. Cette section accueille la famille de mesures de l’épanouissement au chapitre cinq ; le §2 du Préambule conserve la question simple de la catégorie, et le tableau de la famille ainsi que les renvois aux définitions sont ici.*
-
-*La matérialité ([Materiality](core_05_band_oversight.md#materiality)) est intégrative, et non une catégorie distincte ; elle module l’application de cette famille selon le [material stake](core_00_preamble.md#material-stake).*
-
-| Sous-famille | Question simple | Usage constitutionnel principal |
-|---|---|---|
-| [Wellbeing](../../core_05_band_continuity.md#wellbeing) | Les êtres sentients conservent-ils leurs fonctions, leur capacité d’agir et leurs conditions de soutien ? | Mesure principale du résultat d’**épanouissement** (et non un constituant) — pas de l’engagement indirect ni du débit. |
-| Sécurité, préjudice et risque | Les préjudices prévisibles sont-ils prévenus, contenus et évalués honnêtement ? | [Safety (Constitutional Constraint)](../../core_05_band_continuity.md#safety-constitutional-constraint) ; [Harm](../../core_05_band_accountability.md#harm) |
-| Accès au seuil de survie | Les êtres sentients peuvent-ils accéder aux essentiels : nourriture, eau, abri, soins et environnement stable ? | [Bodily-Maintenance Access](../../core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](../../core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](../../core_05_band_continuity.md#environmental-preconditions) ; **Article III-A** (Survie). |
-
-Les niveaux opérationnels de mesure se trouvent dans ces définitions.
-
-**Fichier précédent :** [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md)
-
-**Fichier suivant :** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
 <a id="measuring-flourishing-preamble-measurement-family"></a>
 
 ### Mesurer l’Épanouissement (famille de mesure du Préambule)

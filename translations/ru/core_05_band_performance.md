@@ -38,33 +38,6 @@
 
 <a id="performance-measurement-family"></a>
 
-### Конституционная эффективность (Preamble measurement family)
-
-*Простыми словами: эти вопросы проверяют, достигаются ли конституционные результаты на деле без напрасной траты времени, усилий и материалов разумных существ. Здесь находится семейство измерений конституционной эффективности главы пятой. §2 Преамбулы сохраняет простой вопрос категории в обзорной таблице; таблица семейства, конституционное применение и ссылки на определения размещены здесь.*
-
-*Это раздел главы пятой, посвящённый семейству измерений конституционной эффективности. В §2 Преамбулы простой вопрос категории приведён в обзорной таблице; таблица семейства, его конституционное применение и ссылки на определения находятся здесь.*
-
-*Материальность ([Materiality](core_05_band_oversight.md#materiality)) интегративна, а не является отдельной категорией измерений; она определяет силу применения семейства с учётом [material stake](core_00_preamble.md#material-stake).*
-
-| Семейство измерений | Простой вопрос | Основное конституционное применение |
-|---|---|---|
-| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | Достигаются ли конституционные результаты на деле? | Не позволяет косвенным метрикам подменять реальную защиту. |
-| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | Тратит ли система впустую время, усилия, материалы, инфраструктуру или энергию разумных существ? | Сокращает ненужные препятствия. |
-| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | Могут ли разумные существа и системы продолжать создавать согласованные результаты? | Защищает устойчивые возможности без переноса экологического бремени. |
-
-Эти сквозные измерения проверяют, эффективно ли системы достигают конституционных результатов, избегают бессмысленных потерь и сохраняют способность продолжать создавать согласованные результаты — что служит и [**Flourishing**](core_00_preamble.md#flourishing), и [**Continuity**](core_00_preamble.md#continuity).
-
-- Рабочие уровни измерений находятся в определениях главы пятой: см. [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) и [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty).
-- Цели эффективности, вознаграждения и показатели ресурсов действительны лишь постольку, поскольку их можно проследить до конституционных результатов.
-- Они не могут заменять конституционную эффективность, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) или соблюдение минимального уровня прав.
-- Когда эффективность всей системы имеет существенное значение, прочитайте [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и далее до [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
-
----
-
-**Предыдущий файл:** [core_05_band_participation.md](../../core_05_band_participation.md)
-
-**Следующий файл:** [core_07_charters.md](../../core_07_charters.md)
-
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### Измерять Конституционную результативность (семья измерений Преамбулы)
 

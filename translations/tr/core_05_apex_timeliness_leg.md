@@ -91,35 +91,6 @@ Zamanındalığı uygulayan **bağımsız ve yarı-bağımsız terimler** [core_
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### Zamanlılık Ölçümü
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*Sade dille: Bu sorular, bir gösterge tablosunun işlem hacmi gösterip göstermediğine değil, sorunların gerçekten zamanında ilerleyip ilerlemediğine bakar. Burası Beşinci Bölümdeki Zamanlılık ölçüm ailesinin yeridir; Önsöz §2 (Ölçümlere Genel Bakış) kategoriye ilişkin sade soruyu korur, aile tablosu ve tanım yönlendirmesi burada bulunur.*
-
-*Önemlilik ([Materiality](core_05_band_oversight.md#materiality)) bütünleştiricidir, ayrı bir ölçüm kategorisi değildir; [material stake](core_00_preamble.md#material-stake) uyarınca bu ailenin uygulama gücünü ayarlar.*
-
-| Ölçüm ailesi | Sade soru | Başlıca anayasal kullanım |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | Telafi hâlâ anlamlıyken uyuşmazlıklar çözüme kavuşuyor mu? | Gecikmenin hakları içini boşaltmasını önler. |
-| Gecikme karşıtı ve çözüm yolu disiplini | Teşvikler ve yapılar kasıtlı birikmeyi, ele geçirmeyi ve içi boş süre sınırlarını önlüyor mu? | Gecikme düzenlerini ve [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways) durumunu saptar. |
-
-Bu ölçüler; süreç sürelerinin, çözüm yollarının ve onarım hızının [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) içindeki **zamanlılık** ayağını kâğıt üzerinde değil, uygulamada gerçek tutup tutmadığını sorgular.
-
-**Önceki dosya:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**Sonraki dosya:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### Zamanındalığı ölçmek

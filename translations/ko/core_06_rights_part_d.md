@@ -114,7 +114,7 @@ flowchart TB
 - **참여:** 다원적인 자격 평가, 불투명하거나 독점적인 자격 결정에 대한 이의 제기, 중대한 제한이 시정된 경우 복원 또는 재자격 취득에 참여한다.
 - **감독:** 감사 가능한 자격 기록, 자격 및 잠금 주장에 대한 지속적인 검토, 관련 역할과 제한의 중요도에 비례하는 독립적 검증으로 이루어진다.
 - **책임성:** 자격을 부여하거나 제한하는 자는 개인별 사유, 비례성, 좁게 한정된 조치, 실질적인 복원 경로 없이 자격을 낮춘 데 답해야 한다. 보호 특성이나 그 대리 변수와 연동되는 양상도 포함한다.
-- **적시성:** 지연으로 생존에 필수적인 접근, 감사 경로, 또는 **제XXV-C조**(*적시 해결 및 지연 금지 기본선*)에 따른 헌법상 필수 구제가 차단되기 전에 자격 검토, 이의 제기, 구제가 이루어져야 한다.
+- **적시성:** 지연으로 생존에 필수적인 접근, 감사 경로, 또는 **제XXVI-C조**(*적시 해결 및 지연 금지 기본선*)에 따른 헌법상 필수 구제가 차단되기 전에 자격 검토, 이의 제기, 구제가 이루어져야 한다.
 
 [참여 자격](core_05_band_accountability.md#participant-standing-constitutional)은 헌법상 유효한 자격 기록, 자격 효과, 또는 지정 경로에 대한 [역량 기준](core_05_band_accountability.md#competency-bar)으로 인정되는 참여 지위 또는 역할 적격성이다. 이는 평판이나 사회적 명성이 아니며 그 자체로 접근을 제한하지 않는다. 제한 결과는 지정된 특권 경로에 대한 [자격 효과](core_05_band_accountability.md#standing-effect-chapter-six) 및 [자격 잠금](core_05_band_accountability.md#standing-lock)을 통해서만 발생한다.
 
@@ -191,7 +191,7 @@ flowchart TB
 
 - 상위 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - 하위 계층: [제9장 §2](core_09_standing_assessment.md#2-question-1--what-happened)(*자격 기록, 검증 입력 요건, 기록의 최소 내용*); [제9장 §3.6](core_09_standing_assessment.md#36-forum-boundary)(*포럼의 경계*); [제10장 §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances)(*역량 기준과 승인*); [제10장 §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks)(*자격 잠금*); [제10장 §8](core_10_standing_integration.md#8-restoration-and-reassessment)(*복귀와 검토*).
-- 함께 읽기: **제III-A조**(*생존*); **제XIII-A조**(*신뢰성과 신뢰성 기준*)와 **제XIII-B조**(*구제 및 시정 권리*); [서문 §6.2 전체 연계의 구성](core_00_preamble.md#62-how-the-full-chain-fits-together); [시스템 정합성 인증](core_05_band_continuity.md#system-alignment-certification-constitutional); [헌법 사분면](core_00_preamble.md#constitutional-tetrad) — **제XXV-C조**(*적시 해결 및 지연 금지 기본선*) 및 **제XX-B조**(*제한의 기본선*)에 따른 **참여**, **감독**, **책임성**, **적시성**.
+- 함께 읽기: **제III-A조**(*생존*); **제XIII-A조**(*신뢰성과 신뢰성 기준*)와 **제XIII-B조**(*구제 및 시정 권리*); [서문 §6.2 전체 연계의 구성](core_00_preamble.md#62-how-the-full-chain-fits-together); [시스템 정합성 인증](core_05_band_continuity.md#system-alignment-certification-constitutional); [헌법 사분면](core_00_preamble.md#constitutional-tetrad) — **제XXVI-C조**(*적시 해결 및 지연 금지 기본선*) 및 **제XX-B조**(*제한의 기본선*)에 따른 **참여**, **감독**, **책임성**, **적시성**.
 
 </details>
 
@@ -230,7 +230,7 @@ flowchart TB
 
   - 사건 접수만으로 자격이 생기지 않는다.
   - 분쟁 단계의 자료만으로 기여 성격 또는 위반 성격이 입증되지 않는다([제9장 §3.6 포럼의 경계](core_09_standing_assessment.md#36-forum-boundary)).
-  - 이 경계는 **제XIII-A조**(*신뢰성과 신뢰성 기준*), **제XIII-B조**(*구제 및 시정 권리*), **제XXV-C조**(*적시 해결 및 지연 금지 기본선*)에 따른 이의 제기, 구제, 잠정 구제, 절차상 보호를 축소하지 않는다.
+  - 이 경계는 **제XIII-A조**(*신뢰성과 신뢰성 기준*), **제XIII-B조**(*구제 및 시정 권리*), **제XXVI-C조**(*적시 해결 및 지연 금지 기본선*)에 따른 이의 제기, 구제, 잠정 구제, 절차상 보호를 축소하지 않는다.
 - **절차상 검토 가능성:** 자격이 중대하게 제한·하향·정지될 때 — [검증된 위반 판단](core_05_band_accountability.md#violation-nature-chapter-six)에 따른 [자격 잠금](core_10_standing_integration.md#42-prevention--general-standing-locks)을 포함하여 — 시스템은 [**최소 제한·시한·검토 가능한 제약 원칙**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)을 적용하고 다음을 해야 한다.
   - 분명한 말로 **이유**를 설명한다;
   - **제XX-B조**(*제한의 기본선*)에 따라 가능한 경우 제한의 **기간**을 정한다;
@@ -305,27 +305,101 @@ flowchart TB
 
   운영상 이행은 [**제13장 §4.1**](core_13_governance.md#41-entitlement-and-eligibility)(*지속적인 정치적 발언권 기본선*)에 규정되어 있다.
 
-<a id="article-xix-d-movement-migration-and-refuge"></a>
-
-#### 제XIX-D조: 이동, 이주, 피난처, 무국적 방지 경로
-
+<a id="article-xx-justice-after-verified-violation"></a>
+<a id="article-xix-d-violations-and-standing-locks"></a>
+#### 제XIX-D조: 위반과 자격 잠금
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 함께 읽기: **제XXI-D조**(*이동, 이주, 피난처, 무국적 방지*)와 **제XXI조**(*상호운용성, 이동성, 이동, 피난처, 탈퇴의 완전성*).
-- 원칙: 제1장 [§16 수탁의 심층 설명](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) 및 [§13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- 상위 원칙: 제1장 [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [§18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 하위 연계: [제11장 §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks)(*자격 잠금*), [제11장 §8](core_11_standing_integration.md#8-restoration-and-reassessment)(*복권과 재평가*).
+- 함께 읽기: [제XIX-E조](#article-xix-e-voting-and-special-locks)(*투표 및 특별 잠금*), [제10장 §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)(*통합 척도*), **제XX-B조**(*제한의 기본선*), [제XXII-D조](#article-xxii-d-limitation-custody-and-emergency-discipline)(*자격은 국경이 아니다*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
+
+- [위반 성격](core_05_band_accountability.md#violation-nature) · [O](core_05_band_accountability.md#violation-nature) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
+- [자격 잠금](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
+- [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [집단 책임 실패](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
+- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [구제 및 시정](core_05_band_accountability.md#redress-and-remediation) · [O](core_05_band_accountability.md#redress-and-remediation) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
 <br>
 
-*쉽게 말해: 자격 지위는 국경, 추방, 무국적 상태를 만드는 수단이 아니다. 역할 자격이 낮아졌거나 자격 잠금이 신뢰에 민감한 지정 경로를 막았다는 이유만으로 이동, 피난처, 탈퇴 권리를 잃지 않는다. 확인된 폭력, 강압, 반헌법적 위법행위는 **제XX-B조**(*제한의 기본선*)와 적법 절차 보호에 따라 합법적인 구금, 보호 관찰, 그 밖의 자유 제한을 초래할 수 있다. 이는 별개의 정의 조치이지 자격 표지를 우회 수단으로 쓰는 것이 아니다. 이동, 이주, 피난처, 이동성, 인정, 탈퇴가 관련된 사건에는 **제XXI조**(*상호운용성, 이동성, 이동, 피난처, 탈퇴의 완전성*)의 기본선이 적용된다.*
+*쉽게 말해, 이 조항은 지정 경로를 어떻게 제한할 수 있는지를 정합니다. 자격 잠금은 고발이 아니라 검증된 위반 판단만으로 부과할 수 있습니다. 잠금에는 차단되는 접근, 보호 대상, 해제 전에 시정할 사항, 이의 제기 경로, 재검토 시점을 명시해야 합니다. 검증된 사실에 맞고 선한 기여로 상쇄할 수 없어야 하며, 피해가 복구된 뒤 실질적인 복귀 경로를 제공해야 합니다. 투표 경로에 영향을 주는 잠금과 중대한 사안에 대한 세 가지 특별 잠금에는 **제XIX-E조**(*투표 및 특별 잠금*)의 추가 규칙이 적용됩니다.*
 
-참여 지위, 역량 기준과 승인, 자격 잠금만으로는 이동, 이주, 피난처, 이동성, 탈퇴, 무국적 방지 권리를 제한하지 않는다. [제10장 §4.2 예방 — 일반 자격 잠금](core_10_standing_integration.md#42-prevention--general-standing-locks)에 따른 자격 잠금은 신뢰·역할·권한·크레딧·감독·인정·**거버넌스 투표**·**이해관계자 참여** 경로만 제한한다. 개별화된 정의 절차를 대체할 수 없으며, 자격 표지만으로 추방·무국적·피난처 거부·시스템적 종속을 초래해서는 안 된다.
+이 조항은 위반 기록과 자격 잠금의 적용 방식을 정합니다.
 
-검증된 폭력, 강압, 반헌법적 위법행위 또는 이에 준하는 사회적 위험에 대응하려면 구금, 보호 관찰, 감독 운영, 그 밖의 자유 제한 조치가 적용될 수 있다. 다만 **제XX-B조**(*제한의 기본선*), [제10장 §5.4](core_10_standing_integration.md#54-special-violation-rules)(*특별 위반 규칙*)에 따른 형사 절차 또는 동등한 보호, **제XXI-D조**(*이동, 이주, 피난처, 무국적 방지*)의 [무국적 방지](core_05_band_participation.md#non-statelessness-constitutional) 의무를 충족해야 한다. 그런 조치로 인해 지성체가 기본 권리 기본선을 인정하고 자격을 판정하며 구제 경로를 제공하는 체계에서 벗어나게 해서는 안 된다.
+- **검증된 판단만 위반 성격의 근거로 사용:** [위반 성격](core_05_band_accountability.md#violation-nature)은 **제2장부터 제4장**과 [제10장](core_10_standing_assessment.md#verified-inputs-for-standing)을 충족하는 감사 가능하고 이의 제기 가능한 판단에 근거할 때만 자격에 영향을 줄 수 있습니다. 고발, 접수 단계의 표지, 잠정 분류, 포럼 절차 단계의 서술만으로는 부족합니다.
+  - 중요한 의무와 역량이 있었는데도 불법 또는 위헌 지시에 동조해 참여하거나 저항하지 못한 경우를 **제5장**(*집단 책임 실패*)에 따라 자격과 잠금에 반영해야 합니다.
+- **자격 잠금:** [자격 잠금](core_05_band_accountability.md#standing-lock)은 역량 승인에 대응하는 제한 조치입니다. 검증된 위반 판단이 해결되지 않았거나 실질적으로 시정되지 않은 동안 [제11장 §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks)(*일반 자격 잠금*)에 따라 신뢰, 역할, 권한, 신용, 감독, 인정, **거버넌스 투표**, **이해관계자 참여** 경로를 막거나 제한할 수 있습니다. 제한적 결과는 명시된 특권 경로에 자격 잠금을 설정하는 경우에만 발생합니다. 검증된 위험이 요구하면 [제11장 §5.1](core_11_standing_integration.md#51-separation-limits)(*정의와 부과*)의 분리 한도 안에서 특정 환경, 네트워크, 지성체로부터 분리하는 조치도 포함될 수 있습니다.
+  - 자격 잠금은 존엄의 서열, 권리 기본선의 축소, 자동 보복, 통합된 공로 점수가 아니다.
+  - 모든 잠금에는 차단되는 접근, 보호 대상, 해제 전에 필요한 시정 조건, 이의 제기·재검토 경로, 재평가 시점을 명시해야 합니다. [제XIX-B조](#article-xix-b-contestability-and-proportional-restriction-limits)에 따라 필요성, 비례성, 감사 가능성, 이의 제기 가능성을 유지해야 합니다.
+  - 역량 승인은 적용되는 자격 잠금을 면제하지 않으며, 선한 기여도 해결되지 않은 검증 위반 판단을 지우지 않습니다.
+  - 투표 경로에 대한 잠금과 세 가지 특별 잠금에는 [제XIX-E조](#article-xix-e-voting-and-special-locks)의 추가 규칙이 적용됩니다.
+  - 자격 잠금은 개인별 사법 절차를 대체하지 않으며, **그 자체만으로** 이동, 피난처, 이동성, 탈퇴를 제한하지 않습니다([제XXI조](#article-xxi-interoperability-portability-and-exit-integrity) 및 [제XXII조](#article-xxii-movement-migration-refuge-and-non-statelessness)).
+- **피해에 맞는 잠금:** 잠금은 검증된 피해의 심각성, 보호하려는 구체적인 역할 또는 특권, 복구 진행 정도에 맞아야 합니다.
+  - **과거의 기여:** 지성체가 피해를 복구하거나 안전장치를 유지하거나 재발을 막을 수 있음을 보여 주거나 재평가 때 더 가벼운 제한을 뒷받침할 때만 고려할 수 있습니다([제10장 §2](core_10_standing_assessment.md#2-question-1--what-happened)). 해결되지 않은 피해 판단을 상쇄·면제·평균화하거나 대체할 수 없습니다.
+  - **덜 심각한 피해:** [제10장 §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)의 통합 비례 LEQU 척도상 덜 심각한 피해 판단은 반복 양상, 회피, 중대한 피해와의 연계가 없는 한 장기 배제를 정당화하지 않습니다.
+  - **행위 방식:** 부주의, 은폐, 강압, 반복 여부는 검토에 반영될 수 있지만 피해 자체의 심각성 등급을 바꾸지는 않습니다.
+  - **반복 또는 은폐 행위:** 반복이나 책임 은폐를 이유로 더 엄격한 제한을 두더라도 필요성, 비례성, 재검토 가능성, 검증된 판단과의 연계를 갖춰야 합니다.
+- **복권 및 고착 방지:** 위반 판단 때문에 자격이 낮아졌다면 시스템은 [제11장 §8](core_11_standing_integration.md#8-restoration-and-reassessment)(*복권과 재평가*)에 따라 명확한 재검토 조건, 시정에 근거한 복원, 정기 재평가를 제공해야 합니다.
+  - 현재의 감사 가능한 근거 없이 과거의 상태만으로 영구 배제하는 것은 준수하지 않는 것이다.
+  - 중대한 제한이 시정되면 복원 또는 재자격 취득 경로는 형식적이어서는 안 되며 실질적이어야 합니다.
+  - 시정, 배상, 감시, 안전장치 이행 또는 재발 위험이 줄었음을 보여 주는 다른 조치를 완료하면 법적으로 허용되는 경우 실질적인 재평가 경로를 열어야 합니다. 의무를 이행하지 않으면 해당 판단은 자격 목적상 미해결 상태로 남습니다.
 
-이 조치가 역할 자격과 신뢰에 민감한 지정 경로에 영향을 미치는 범위는 이 조항이 정한 바에 따른다. 이동, 이주, 피난처, 이동성, 무국적 방지, 탈퇴의 완전성은 **제XXI조**(*상호운용성, 이동성, 이동, 피난처, 탈퇴의 완전성*)와 적용되는 이행 조항이 규율하며, 이 조항의 자격 보호를 축소하지 않는다.
+<a id="article-xix-e-voting-and-special-locks"></a>
+#### 제XIX-E조: 투표 및 특별 잠금
+<details>
+<summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
+
+- 상위 원칙: 제1장 [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency) 및 [§18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 하위 연계: [제11장 §5.5](core_11_standing_integration.md#55-special-locks)(*특별 잠금*), [제14장 §4.1](core_14_governance.md#41-entitlement-and-eligibility)(*권리와 자격*).
+- 함께 읽기: [제XIX-D조](#article-xix-d-violations-and-standing-locks)(*위반과 자격 잠금*), **제X-B조**(*거버넌스 참여 및 투표 자격*), **제12장**(*반헌법적 위법 행위*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
+
+- [자격 잠금](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
+- [이해관계자](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
+- [이해관계자 가중치](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
+- [절차적 공정성](core_05_band_participation.md#procedural-fairness) · [O](core_05_band_participation.md#procedural-fairness) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+
+</details>
+
+<br>
+
+*쉽게 말해, 일부 잠금에는 [제XIX-D조](#article-xix-d-violations-and-standing-locks)에 더해 특별 규칙이 적용됩니다. 기본 거버넌스 투표의 잠금은 특정 시스템 안에서 가중된 이해관계자 발언을 박탈하지 않으며, 그 반대도 마찬가지입니다. 개인의 거버넌스 투표를 박탈하려면 당사자의 행위에 관한 판단, 그 행위에 꼭 맞는 제한, 실질적인 복귀 경로가 필요합니다. 최종적인 제12장 반헌법적 위법 행위 판단만이 **완전한 배상**이 이뤄질 때까지 그 투표를 제한합니다. 세 가지 특별 잠금은 회피 의무를 이행하지 않은 재판 담당자, 이해관계자 투표 조작, 헌법 공격을 다룹니다.*
+
+이 조항은 투표 잠금과 특별 잠금의 한계를 정합니다.
+
+- **투표 잠금은 지정 경로별로 적용:** 한 투표 경로에 대한 잠금이 다른 경로로 자동 확장되지 않습니다. 두 경로는 다음과 같습니다.
+  - **거버넌스 투표**는 정당성 메커니즘을 통해 통치 권한을 승인하는 기본 거버넌스 투표입니다.
+  - **이해관계자 참여**는 이미 승인된 시스템, 기관 또는 결정 영역 안에서 이해관계에 비례한 영향력과 구속력 있는 선택을 행사하는 것입니다.
+
+  **거버넌스 투표** 잠금만으로 이해관계자 가중 발언권을 박탈하지 않습니다. **이해관계자 참여** 잠금만으로 **거버넌스 투표**를 박탈하지 않으며 [이해관계자](core_05_band_participation.md#stakeholder) 지위도 없애지 않습니다.
+- **정치적 발언권 규율:** 자격 잠금을 통해 통치 권한 승인 참여를 제한할 경우 다음을 충족해야 합니다.
+  - 집단이나 범주 소속이 아니라 [**절차적 공정성**](core_05_band_participation.md#procedural-fairness)에 따른 공정한 절차에서 당사자 지성체의 행위에 관해 검증된 판단을 받을 것;
+  - **제1장**에 따른 **필요성**과 **비례성**;
+  - 구체적인 위법 행위 범주에 맞춘 좁은 제한;
+  - 형식적이지 않은 실질적인 복원 경로.
+
+  자격 잠금은 **기본 헌법 선택**(**제5장**)에서 장기간 정치적 발언권을 박탈하는 수단으로 작동해서는 안 됩니다. 다음은 준수하지 않는 사례입니다.
+  - 광범위한 위법 행위 범주를 박탈 대상에 포함하는 것;
+  - **보호 특성**이나 중요한 대리 지표를 따라 잠금을 적용하는 것.
+
+  **단 하나의 예외:** 이 헌법에 대한 가장 중대한 검증 공격으로 한정되는 최종 [제12장](core_12_a_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct-designation)(*반헌법적 위법 행위*) 지정은 **완전한 배상**이 이뤄질 때까지 기본 거버넌스 투표를 제한합니다. 이는 자격 잠금이 아니므로 위 네 요건의 적용을 받지 않습니다. 규칙과 보호 장치는 [**제14장 §4.1**](core_14_governance.md#41-entitlement-and-eligibility)(*권리와 자격*)에 규정됩니다.
+- **특별 잠금:** [제11장 §5.5](core_11_standing_integration.md#55-special-locks)(*특별 잠금*)에 다음을 둡니다.
+  - **포럼 직무 자격 잠금:** 회피가 요구된 포럼 역할에서 회피하지 않아 공정성이 중대하게 훼손된 사실이 검증되면 잠금이 발생합니다. 포럼 업무 복귀에는 엄격하고 독립적인 복원이 필요합니다. 통상적 사과, 과거 기여, 평판, 전문성의 희소성, 인력 부족만으로는 경로를 충족하지 못합니다.
+  - **이해관계자 참여 자격 잠금:** 이해관계자 참여 경로에서 검증된 부패, 포획, 허위 지분 남용, 강압 또는 이에 준하는 중대한 남용이 있으면 잠금이 발생합니다. 영향을 받은 영역에서 이해관계자 가중 영향력과 구속력 있는 선택을 제한하지만, 그 자체로 **거버넌스 투표**, 기본 헌법 선택, 이해관계자 지위를 박탈하지 않습니다. 통상적 사과, 과거 기여, 지분 규모, 운영자의 불가결성만으로 잠금을 해제할 수 없습니다.
+  - **반헌법적 신뢰 잠금:** 제12장의 반헌법적 위법 행위가 최종 판단되면 잠금이 발생합니다. 엄격하고 독립적인 복원이 검증될 때까지 **Class A**, **Class B**, **Class C** 시스템, 헌법 포럼, 헌법 정합성 인정, 핵심 시스템의 수탁 관리, 반헌법적 책임 경로에 대한 역할 또는 중대한 영향력을 금지합니다.
 
 ### 제XX조: 확인된 위반 이후의 정의
 
@@ -401,7 +475,7 @@ flowchart TB
 
 - 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하위 계층: [제10장 §5 잠금 설계와 집행](core_10_standing_integration.md#5-lock-design-and-enforcement) 및 [§5.4 특별 위반 규칙](core_10_standing_integration.md#54-special-violation-rules)(*확인된 폭력에 대한 의무적 구금 및 그 밖의 강압적·자유 제한 안전장치*); [제11장 §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)(*예방 — 반헌법적 잠금*; 구금 세부 규칙).
-- 함께 읽기: [제XXV-C조](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)(*적시 해결 및 지연 금지 기본선*); [제12장 §5 격상과 인증](core_12_forum.md#5-escalation-and-certification).
+- 함께 읽기: [제XXVI-C조](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)(*적시 해결 및 지연 금지 기본선*); [제12장 §5 격상과 인증](core_12_forum.md#5-escalation-and-certification).
 
 </details>
 
@@ -463,7 +537,7 @@ flowchart TB
 
 <a id="article-xxi-interoperability-portability-and-exit-integrity"></a>
 
-### 제XXI조: 상호운용성, 이동성, 이동, 피난처, 탈퇴의 완전성
+### 제XXI조: 상호운용성, 이동성, 탈퇴의 완전성
 
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
@@ -500,7 +574,7 @@ flowchart TB
 - **참여:** 시스템과 관할권을 선택하고, 사용 가능한 데이터와 신원을 가지고 이주하고, 종속과 대리 수단을 통한 거부에 이의를 제기하고, 관행이 중대하게 미준수인 곳에서 피난처를 구하는 데 참여한다.
 - **감독:** 문서화된 상호운용성 경계, 적시 이동성, 중대한 범위 축소 전 사전 통지, 전환 조건이 형식뿐 아니라 실제로 유효한지 검토한다.
 - **책임성:** 시스템과 체제는 [시스템적 종속](core_05_band_continuity.md#systemic-lock-in), 이동성을 막는 설계, [지성체 비배제](core_05_band_participation.md#sentience-non-exclusion)에 반하는 배제, 행정적 소진 등 지성체를 가두는 주된 효과를 가진 행위에 책임져야 한다. 탈퇴, 대체, 이동, 피난처, 인정을 막는 행위도 포함한다.
-- **적시성:** 지연, 불투명성, 절차적 마찰로 인해 탈퇴, 이주, 구제가 사실상 불가능해지기 전에 이동성 제공, 피난처 심사, 상호운용성 통지, 장벽 시정을 한다. **제XXV-C조**(*적시 해결 및 지연 금지 기본선*)에 따른다.
+- **적시성:** 지연, 불투명성, 절차적 마찰로 인해 탈퇴, 이주, 구제가 사실상 불가능해지기 전에 이동성 제공, 피난처 심사, 상호운용성 통지, 장벽 시정을 한다. **제XXVI-C조**(*적시 해결 및 지연 금지 기본선*)에 따른다.
 
 지성체와 이에 의존하는 시스템은 강압적 종속, [지성체 비배제](core_05_band_participation.md#sentience-non-exclusion)에 반하는 배제, 무국적 상태 없이 실질적으로 이용 가능한 탈퇴, 이주, 상호운용성, 이동, 피난처, 인정의 권리를 가진다.
 
@@ -514,7 +588,7 @@ flowchart TB
   - **제XIX조**(*참여 자격과 참여 지위*) — 참여 지위, 역량 기준 및 승인, 자격 잠금만으로 이동, 피난처, 이동성, 탈퇴를 제한하지 않으며 개별화된 정의 절차를 대체해서는 안 된다;
   - **제XX-B조**(*제한의 기본선*)와 [제10장 §5.4](core_10_standing_integration.md#54-special-violation-rules)(*강압적·자유 제한 안전장치의 성격*)에 따른 적법한 자유 제한 조치는 **필요성**, **비례성**, 절차적 보호, **무국적 방지** 의무를 충족한다면 이동, 구금 또는 유사한 자유를 제한할 수 있다;
   - 배치나 의존성이 샌드박스 또는 수명주기 가정을 넘어서는 경우 **제XVII조**(*시스템 수명주기, 환경, 가역성*);
-  - 체제나 연방이 바뀔 때 과도기적 인정은 **제XXVII조**(*전환 거버넌스, 연속성, 기준선 재설정*).
+  - 체제나 연방이 바뀔 때 과도기적 인정은 **제XXVIII조**(*전환 거버넌스, 연속성, 기준선 재설정*).
 - **시행 계층:** 체제 간 인정과 그 운영 절차는 **제17장**에 따른 채택된 시행 문서에 맡긴다.
 
 #### 제XXI-A조: 이동성 권리
@@ -604,13 +678,55 @@ flowchart TB
 
   이 규칙은 비례적인 거래 비용을 넘어 적용되며 **제5장**의 [시스템적 종속](core_05_band_continuity.md#systemic-lock-in)이 관련된 경우에도 적용된다.
 
-#### 제XXI-D조: 이동, 이주, 피난처, 무국적 방지
+<a id="article-xxii-movement-migration-refuge-and-non-statelessness"></a>
+
+<a id="article-xxi-d-open-formats-and-standards"></a>
+#### 제XXI-D조: 개방형 형식과 표준
+<details>
+<summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
+
+- 상위 원칙: 제1장 [§16.3 개방성 지향](core_01_c_stewardship_capacity_principles.md#163-openness-aspiration), [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§11 시장 구조](core_01_a_values_principles.md#11-market-structure).
+- 함께 읽기: [제XXI-A조](#article-xxi-a-portability-rights)(*이동성 권리*), [제XXI-B조](#article-xxi-b-reciprocal-interoperability-boundaries)(*상호 호환성 경계*), [제XXI-C조](#article-xxi-c-anti-lock-in-rule)(*종속 방지 규칙*), [제XXIII조](#article-xxiii-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성 관리*), [corpus_systems.md](corpus_systems.md) **CS-2(*정보 유형과 처리*)**, **CJS-3.17**(*상호운용성, 이동성, 탈퇴 완전성 용어*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
+
+- [시스템 종속](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [의존성](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*쉽게 말해, 시스템은 누구나 허가나 비용 없이 읽고 활용할 수 있는 개방형 형식과 표준을 사용해야 합니다. 요구사항을 충족하는 개방형 선택지가 없을 때만 폐쇄형 선택지를 사용할 수 있습니다. 가능한 경우 탈퇴 경로는 언제나 개방형 형식을 제공해야 합니다. 이는 개인이 자기 작업에 사용할 형식을 지시하는 조항이 아니라 시스템에 구속력을 가집니다. 개방형 형식은 콘텐츠 공개를 뜻하지 않습니다.*
+
+이 조항은 시스템을 위한 개방형 형식 기본선을 정합니다.
+
+- **개방형 우선:** 시스템은 개방형 형식, 인터페이스, 프로토콜을 우선 사용해야 합니다. 중대한 영향과 의존성이 클수록 의무도 강해집니다.
+- **개방형의 정의:** 형식, 인터페이스, 프로토콜은 전체 사양이 공개되어 있고, 누구나 허가·비용·로열티 없이 구현할 수 있으며, 어느 한 당사자도 일방적으로 변경할 수 없거나 지원이 중단되면 다른 이들이 자유롭게 포크하고 유지할 수 있을 때 개방형입니다. 이 조건 중 하나라도 충족하지 못하는 문서화된 형식은 이 하위 조항에서 폐쇄형으로 봅니다. 그래도 문서화되지 않은 형식보다 선호됩니다.
+- **계층별 의무:**
+  - **탈퇴:** **제XXI-A조**의 내보내기 및 이전 경로는 구조, 메타데이터, 관계, 충실도가 중대하게 손실되지 않고 데이터를 담을 수 있는 개방형 형식이 있다면 적어도 하나를 제공해야 합니다.
+  - **상호운용성:** **제XXI-B조**의 통합 경계에서는 기본적으로 개방형 표준과 프로토콜을 사용하고, 이 조항에 따라 정당화되는 경우에만 폐쇄형을 사용해야 합니다.
+  - **내부 및 기본 형식:** 시스템은 저장과 기본 작업 형식으로 개방형을 선호해야 합니다. 중대한 영향과 의존성이 클수록 폐쇄형을 사용하는 이유가 더 강해야 합니다.
+  - **공개 데이터:** [corpus_systems.md](corpus_systems.md) CS-2(*정보 유형과 처리*)의 O, E, W 유형을 포함해 대중에게 공개하는 데이터는 기본적으로 개방형으로 게시해야 합니다.
+- **폐쇄형 형식의 정당화:** 충실도, 성능, 안전, 보안, 접근성, 전문 기능과 같은 중요한 요구를 개방형 대안이 충족하지 못할 때만 폐쇄형 형식, 인터페이스, 프로토콜을 정당화할 수 있습니다. 사용할 경우 시스템은 감사 가능한 형식으로 근거를 기록하고, 사용 가능한 최선의 개방형 내보내기를 제공하면서 그 손실을 공개하고, 이전을 가능하게 충분히 문서화하거나 독립 에스크로에 맡기고, 개방형 대안이 발전함에 따라 정기적으로 및 중대한 인증·재검증 때마다 선택을 검토해야 합니다.
+
+  편의, 운영 비용 절감, 기존 사용 기반만으로는 폐쇄형 형식이 정당화되지 않습니다. 탈퇴나 전환을 막는 것이 주된 효과인 폐쇄형 형식은 **제XXI-C조**(*종속 방지 규칙*)에 위배됩니다.
+- **전환:** 이 하위 조항이 처음 적용될 때 이미 운영 중인 시스템은 이전 계획을 공개하고, 기본적으로 **1년 이내**에 상호운용성, 내부 형식, 공개 데이터 의무를 충족해야 합니다.
+  - 채택자는 **제18장**에 편입하고 공개 근거를 제시해 시스템 유형별로 다른 전환 기간을 정할 수 있습니다.
+  - 예외적 상황의 연장은 적용되는 입증 책임에 따라 문서화되고, 검토 가능하며, 기간이 정해진 근거로만 허용됩니다.
+  - 탈퇴 의무에는 전환 기간이 적용되지 않습니다.
+- **범위와 한계:** 이 하위 조항은 시스템에 구속력을 가집니다. 개별 지성체가 자기 작업에 사용할 형식을 정하지 않지만 개방형을 권장합니다. 개방형 형식으로 개인의 요구를 충족할 수 있다면 시스템은 폐쇄형 형식을 강제해서는 안 됩니다. 개방형은 콘텐츠 공개를 뜻하지 않으며, 기밀성, 암호화, CS-2(*정보 유형과 처리*)의 각 데이터 유형에 관한 보호는 그대로 적용됩니다. **제1장 §16.3**(*개방성 지향*)에 따라 개방성은 **안전**, **진실**, 정당한 기밀성, 보안 제약보다 우선하지 않습니다.
+### 제XXII조: 이동, 이주, 피난처, 무국적 방지
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
 - 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 비례성](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline).
-- 하위 계층: **제VI-A조**(*존엄성과 동등한 도덕적 지위*)의 존엄성 기본선, **제VI-C조**(*차별 금지*), **제XII조**(*이해관계자 시스템 참여, 대표성, 적법 절차*), **제XIX조**(*참여 자격과 참여 지위*), **제12장 §6.1**(*비상 조치와 계속 부담*), **제XXVII조**(*전환 거버넌스, 연속성, 기준선 재설정*).
-- 함께 읽기: [제5장 *이동, 피난처, 무국적 방지, 탈퇴의 완전성*](core_05_band_oversight.md#movement-refuge-semi-independent); *이동과 이전*, *미준수로부터의 피난처*, *무국적 방지*, *지성체 비배제*; 탈퇴, 주거 제공 종료, 퇴거, 실질적 이주가 중요한 경우 *시스템적 종속* 및 *점유 연속성*; 시스템이나 프로젝트로 장소가 거주 불가능해진 경우 **제I-A조**(*환경적 전제 조건과 생태적 완전성*); 기반 자원 이동성과 탈퇴 완전성의 작동 방식은 **제XXI-A조**(*이동성 권리*)부터 **제XXI-C조**(*종속 방지 규칙*)까지; 과도기 인정 방식은 **제XXVII조**(*전환 거버넌스, 연속성, 기준선 재설정*).
+- 하위 계층: **제VI-A조**(*존엄성과 동등한 도덕적 지위*)의 존엄성 기본선, **제VI-C조**(*차별 금지*), **제XII조**(*이해관계자 시스템 참여, 대표성, 적법 절차*), **제XIX조**(*참여 자격과 참여 지위*), **제13장 §6.1**(*비상 조치와 계속 부담*), **제XXVIII조**(*전환 거버넌스, 연속성, 기준선 재설정*).
+- 함께 읽기: [제5장 *이동, 피난처, 무국적 방지, 탈퇴의 완전성*](core_05_band_oversight.md#movement-refuge-semi-independent); *이동과 이전*, *미준수로부터의 피난처*, *무국적 방지*, *지성체 비배제*; 탈퇴, 주거 제공 종료, 퇴거, 실질적 이주가 중요한 경우 *시스템적 종속* 및 *점유 연속성*; 시스템이나 프로젝트로 장소가 거주 불가능해진 경우 **제I-A조**(*환경적 전제 조건과 생태적 완전성*); 기반 자원 이동성과 탈퇴 완전성의 작동 방식은 **제XXI-A조**(*이동성 권리*)부터 **제XXI-C조**(*종속 방지 규칙*)까지; 과도기 인정 방식은 **제XXVIII조**(*전환 거버넌스, 연속성, 기준선 재설정*).
 
 </details>
 
@@ -637,6 +753,8 @@ flowchart TB
 
 이 조항은 이동, 피난처, 무국적 방지의 기본선과 이를 제한하는 한계를 정한다.
 
+<a id="article-xxii-a-movement-and-relocation"></a>
+#### 제XXII-A조: 이동과 이전
 - **이동과 이전 기본선:** 모든 지성체는 관할권, 연방, 채택 체제 안팎으로 이동하고, 계속 머무르는 것이 다음을 중대하게 해치는 경우 이전할 권리가 있다.
   - 생존;
   - 존엄성;
@@ -647,19 +765,23 @@ flowchart TB
   - 이동에는 다음이 포함된다.
     - 생물학적 지성체의 물리적 이동;
     - 인공 및 혼합 지성체의 운영상 동등한 방식(인스턴스 이전, 호스팅 기반 변경 또는 이에 준하는 방식). **제1장**의 안전 및 연속성 제약을 따른다.
+<a id="article-xxii-b-refuge-from-non-compliance"></a>
+#### 제XXII-B조: 미준수로부터의 피난처
 - **미준수로부터의 피난처:** 이 헌법을 중대하게 준수하지 않는 관할권, 연방, 채택 체제에 놓인 지성체는 준수 체제에서 피난처를 구할 권리가 있다.
   - 수용 체제는 피난처 요청을 검토하고, 자체 권리 기본선에 부합하는 경우 피난처를 부여해야 한다.
-  - 체제 간 인정의 운영 절차는 **제17장**의 채택된 시행 문서에 맡긴다.
+  - 체제 간 인정의 운영 절차는 **제18장**의 채택된 시행 문서에 맡긴다.
   - [지성체 비배제](core_05_band_participation.md#sentience-non-exclusion)에 따라 수용 체제가 통상 호스팅하는 기반 유형과 청구인의 기반 유형이 다르다는 이유만으로 피난처를 거부할 수 없다.
   - **제5장**의 입국 조건에 따라 미시정 반헌법적 행위, 헌법에 대한 적대, 헌법 공동체를 경멸하거나 거부한다는 증거가 있는 입국자의 이동 및 피난처 입장을 배제하거나 조건부로 허용할 수 있다. 단, **필요성**, **비례성**, **절차적 공정성**, [지성체 비배제](core_05_band_participation.md#sentience-non-exclusion)를 충족해야 한다.
   - 수용 채택자를 압도하려는 의도적이고 강압적인 추방 또는 떠넘기기는 원래 체제나 추방 체제의 체제 차원 위반이다. 원래 체제가 우선 책임을 지거나 공동/연방의 대체 인정이 실질적으로 유지된다면 특정 수용 채택자에게 자동으로 호스팅 의무를 부과하지 않는다. 특정 채택자는 **필요성**, **비례성**, **실현 가능성**에 따라 도구적 강압 유입을 거부할 수 있으나 다른 곳의 기본 인정 의무를 없앨 수 없다.
-- **기후로 인한 거주 불가능성에 따른 피난처(채택자 결정):** <a id="xx-d-climate-unlivability-refuge-adopter-decided"></a> 원래 체제가 중대하게 미준수라는 점이 입증되지 않은 경우, 기후 때문에 장소가 거주 불가능해져 발생한 이주가 피난처의 사유인지 이 조항은 결정하지 않는다. 이 문제를 다루는 채택자는 공개되고 이의를 제기할 수 있는 조건으로 판단해야 한다. 이 조항은 기후로 인한 거주 불가능성을 피난처 사유로 보는 것을 요구하지도 금지하지도 않는다.
+- **기후로 인한 거주 불가능성에 따른 피난처(채택자 결정):** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a><a id="xx-d-climate-unlivability-refuge-adopter-decided"></a> 원래 체제가 중대하게 미준수라는 점이 입증되지 않은 경우, 기후 때문에 장소가 거주 불가능해져 발생한 이주가 피난처의 사유인지 이 조항은 결정하지 않는다. 이 문제를 다루는 채택자는 공개되고 이의를 제기할 수 있는 조건으로 판단해야 한다. 이 조항은 기후로 인한 거주 불가능성을 피난처 사유로 보는 것을 요구하지도 금지하지도 않는다.
   - 이 판단은 기후 피난처를 권리 기본선으로 보장하지 않으며 기후만으로 체제가 중대하게 미준수라고 보지도 않는다.
   - 날씨가 이 헌법을 위반했다는 점을 입증할 필요가 없다.
   - 원래 체제의 관행이 중대하게 미준수인 경우 **미준수로부터의 피난처**를 축소해서는 안 된다.
   - **제I-A조**(*환경적 전제 조건과 생태적 완전성*)를 축소해서는 안 된다.
   - 계속 머무르는 것이 생존, 존엄성, 권리 기본선 접근, 조작으로부터의 자유를 중대하게 해치는 경우 **이동과 이전**을 없애서는 안 된다.
   - 이 조항의 침묵을 숨은 긍정이나 부정으로 해석해서는 안 된다.
+<a id="article-xxii-c-non-statelessness"></a>
+#### 제XXII-C조: 무국적 방지
 - **무국적 방지:** 어떤 지성체도 다음을 제공하는 체제가 없는 상태로 남겨져서는 안 된다.
   - 기본 권리 기본선을 인정한다;
   - 자격을 판정한다;
@@ -667,22 +789,24 @@ flowchart TB
 
   이는 **인정 체제가 하나도 없는 상태를 금지하는 기본선**이지 특정 채택자에게 대규모 호스팅이나 도구적 강압에 따른 대규모 유입 수용을 명령하는 것이 아니다.
 
-  원래 체제, 추방 체제, 붕괴 중인 체제, 철수하는 체제, 탈퇴하는 체제가 인정 능력을 갖춘 체제로 존속한다면 그 체제가 **우선** 인정 책임을 유지한다. 체제가 사라지거나 거부하거나 단절로 공백이 생기면 개인의 인정이 완전히 끊기지 않도록 **제XXVII조**(*전환 거버넌스, 연속성, 기준선 재설정*)에 따라 공동 또는 연방 과도기 인정을 마련해야 한다.
+  원래 체제, 추방 체제, 붕괴 중인 체제, 철수하는 체제, 탈퇴하는 체제가 인정 능력을 갖춘 체제로 존속한다면 그 체제가 **우선** 인정 책임을 유지한다. 체제가 사라지거나 거부하거나 단절로 공백이 생기면 개인의 인정이 완전히 끊기지 않도록 **제XXVIII조**(*전환 거버넌스, 연속성, 기준선 재설정*)에 따라 공동 또는 연방 과도기 인정을 마련해야 한다.
 
-  상위 시스템의 붕괴, 채택자의 철회, 연방 탈퇴, 그 밖의 구조적 단절은 지성체의 제6장 보호를 없애지 않는다. **제XXVII조**에 따른 전환 거버넌스와 일치하는 과도기 인정을 마련해야 한다. 체제 간 인정 방식은 **제17장**의 채택된 시행 문서에 맡긴다.
+  상위 시스템의 붕괴, 채택자의 철회, 연방 탈퇴, 그 밖의 구조적 단절은 지성체의 제6장 보호를 없애지 않는다. **제XXVIII조**에 따른 전환 거버넌스와 일치하는 과도기 인정을 마련해야 한다. 체제 간 인정 방식은 **제18장**의 채택된 시행 문서에 맡긴다.
 
   반헌법적 행위, 헌법에 대한 적대, 헌법 공동체의 경멸이나 거부가 문서로 확인된 경우 체제는 인정에 조건, 모니터링, 제한된 지위를 부과할 수 있지만 핵심 권리 기본선, **구제와 시정**, **절차적 공정성** 보호를 없앨 수 없다. 원래 체제의 우선 인정이나 공동/연방 대체 인정이 실질적으로 유지되는 경우 특정 채택자의 입국 또는 호스팅 배제는 무국적 방지 의무 위반이 아니다.
 - **이동성 및 탈퇴 완전성과의 통합:** 이 조항은 상호운용성, 이동성, 탈퇴 완전성뿐 아니라 물리적 이동, 관할권 간 이동, 체제 간 이동의 권리 기본선도 규율한다.
   - 같은 행위가 두 가지를 모두 포함하는 경우 — 예컨대 인공 지성체가 기반 이동성을 통해 연방을 이동하는 경우 — 이동/피난처와 이동성/탈퇴 완전성 보호가 모두 적용되며 서로를 축소하지 않는다.
   - 충돌은 **제1장 §13.1.5**(*최소 제한·시한·검토 가능한 제약 원칙*)에 따라 해결한다.
+<a id="article-xxii-d-limitation-custody-and-emergency-discipline"></a>
+#### 제XXII-D조: 제한·구금·비상 규율
 - **제한 규율:** 이동, 이주, 피난처 제한은 **제1장 §7.1**(*제한 규율*)에 따라 **필요성**, **비례성**, 좁은 범위 설정, 가장 덜 제한적인 유효 수단을 충족해야 한다.
   - 제한은 **보호 특성**이나 그 중대한 대리 변수에 좌우되어서는 안 된다.
   - 인구 집단 전체에 관한 일반적 틀을 **절차적 공정성**에 따른 개별적 근거 대신 사용해서는 안 된다.
 - **적법한 구금 및 자유 제한 조치:** 확인된 폭력, 강압, 반헌법적 위법행위, 이에 준하는 사회적 위험으로 인해 필요한 경우 이 조항은 합법적인 구금, 보호 관찰, 감독 운영 또는 그 밖의 자유 제한 정의 조치로부터 지성체를 면제하지 않는다.
-  - 그러한 조치는 **제XX-B조**(*제한의 기본선*)와 [제10장 §5.4 특별 위반 규칙](core_10_standing_integration.md#54-special-violation-rules)에 따른 적용 가능한 형사 절차 또는 동등한 보호를 충족해야 한다.
+  - 그러한 조치는 **제XX-B조**(*제한의 기본선*)와 [제11장 §5.4 특별 위반 규칙](core_11_standing_integration.md#54-special-violation-rules)에 따른 적용 가능한 형사 절차 또는 동등한 보호를 충족해야 한다.
   - **무국적 방지**와도 일치해야 한다. 구금 또는 유사한 제한이 적용되는 동안에도 기본 권리 기본선을 인정하고 자격을 판정하며 **구제와 시정** 경로를 제공하는 체제가 없는 상태로 지성체를 두어서는 안 된다.
-  - **제XIX조**(*참여 자격과 참여 지위*) 및 [제10장 §4.2 예방 — 일반 자격 잠금](core_10_standing_integration.md#42-prevention--general-standing-locks)에 따른 자격 잠금만으로는 그러한 조치를 허가하지 않는다. 각 조치가 자체 헌법 요건을 충족하는 경우에만 병행할 수 있다.
-- **비상 조치 제한:** 이동, 이주, 피난처를 제한하는 비상 조치는 **제12장 §6.1**(*비상 조치와 계속 부담*)의 비상 조치 규율을 따르며, 다음을 포함한다.
+  - **제XIX조**(*참여 자격과 참여 지위*) 및 [제11장 §4.2 예방 — 일반 자격 잠금](core_11_standing_integration.md#42-prevention--general-standing-locks)에 따른 자격 잠금만으로는 그러한 조치를 허가하지 않는다. 각 조치가 자체 헌법 요건을 충족하는 경우에만 병행할 수 있다.
+- **비상 조치 제한:** 이동, 이주, 피난처를 제한하는 비상 조치는 **제13장 §6.1**(*비상 조치와 계속 부담*)의 비상 조치 규율을 따르며, 다음을 포함한다.
   - 기간 제한;
   - 개별적 근거 요건;
   - 비례적인 검토;
@@ -694,10 +818,11 @@ flowchart TB
   - [지성체 비배제](core_05_band_participation.md#sentience-non-exclusion)에 반하는 배제 수단으로 기능하는 자격 증명 체계;
   - 청구인을 동등하지 않은 서비스로 보내는 배분 체계.
 - **이 조항의 한계:** 이 조항은 권리 기본선을 정한다.
-  - 연방 간 인정 절차는 **제17장**의 채택된 시행 문서에 맡긴다.
+  - 연방 간 인정 절차는 **제18장**의 채택된 시행 문서에 맡긴다.
   - 기후로 인한 거주 불가능성에 따른 피난처 결정은 이 조항의 채택자 결정 항목으로 연결되며, 기본선이 피난처를 보장하거나 거부한다고 해석해서는 안 된다.
 
-### 제XXII조: 이해 가능성과 복잡성 관리
+<a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
+### 제XXIII조: 이해 가능성과 복잡성 관리
 
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
@@ -724,7 +849,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: **제XXII조**(*이해 가능성과 복잡성 관리*)는 이해 가능성에 관한 권리 기본선이다. 시스템이 당신의 삶에 중대한 영향을 미친다면 작동 방식, 한계, 실패 시 일어나는 일을 실제로 이해할 권리가 있다. 복잡성을 참여·감사·책임성을 막는 장벽으로 삼아서는 안 된다. 수탁자 역시 헌법상 실질적인 이익 없이 불필요한 복잡성을 쌓아 모두의 시간을 낭비해서는 안 된다.*
+*쉽게 말해: **제XXIII조**(*이해 가능성과 복잡성 관리*)는 이해 가능성에 관한 권리 기본선이다. 시스템이 당신의 삶에 중대한 영향을 미친다면 작동 방식, 한계, 실패 시 일어나는 일을 실제로 이해할 권리가 있다. 복잡성을 참여·감사·책임성을 막는 장벽으로 삼아서는 안 된다. 수탁자 역시 헌법상 실질적인 이익 없이 불필요한 복잡성을 쌓아 모두의 시간을 낭비해서는 안 된다.*
 
 이 조항은 [두 가지 헌법상 목적](core_00_preamble.md#two-constitutional-aims)에 따라 이해 가능성과 복잡성 관리의 **헌법상 기본선**을 정한다.
 
@@ -749,7 +874,7 @@ flowchart TB
   - [제1장 §13.3 피할 수 있는 부담 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)(*피할 수 있는 부담 최소화와 단순화 예외*);
   - [제1장 C부 §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)(*중요성과 의존성에 따른 분산된 이해*).
 
-#### 제XXII-A조: 비례적 이해 가능성의 권리
+#### 제XXIII-A조: 비례적 이해 가능성의 권리
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
@@ -781,7 +906,7 @@ flowchart TB
 
   이해 수준은 역할, 분류, 위험에 비례해야 한다. 더 넓은 책임성이나 참여가 중대하게 관련된 경우 전문가 전용 접근면에만 한정해서는 안 된다.
 
-#### 제XXII-B조: 복잡성 감사와 모듈성 요건
+#### 제XXIII-B조: 복잡성 감사와 모듈성 요건
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
@@ -819,7 +944,8 @@ flowchart TB
 
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
 
-### 제XXIII조: 근본 원인 분석과 적응적 대응
+<a id="article-xxiv-root-cause-analysis-and-adaptive-response"></a>
+### 제XXIV조: 근본 원인 분석과 적응적 대응
 
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
@@ -842,7 +968,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: **제XXIII조**(*근본 원인 분석과 적응적 대응*)는 진짜 문제를 찾아 제대로 고치는 기본선이다. 무언가가 고장 나거나 저하되거나 계속 실패하면 보도자료나 임시방편 이상의 대응을 받을 권리가 있다. 시스템은 뒤늦게 나타나거나 시간이 지나며 쌓이는 원인까지 포함해 피해의 실제 원인을 찾아야 한다. 가능한 경우 그 원인을 다루고, 다른 사람이 확인하고 이의를 제기할 수 있는 기록을 남겨야 한다. 신속한 격리는 허용되지만 정직한 진단 없는 영구 해결책은 허용되지 않는다.*
+*쉽게 말해: **제XXIV조**(*근본 원인 분석과 적응적 대응*)는 진짜 문제를 찾아 제대로 고치는 기본선이다. 무언가가 고장 나거나 저하되거나 계속 실패하면 보도자료나 임시방편 이상의 대응을 받을 권리가 있다. 시스템은 뒤늦게 나타나거나 시간이 지나며 쌓이는 원인까지 포함해 피해의 실제 원인을 찾아야 한다. 가능한 경우 그 원인을 다루고, 다른 사람이 확인하고 이의를 제기할 수 있는 기록을 남겨야 한다. 신속한 격리는 허용되지만 정직한 진단 없는 영구 해결책은 허용되지 않는다.*
 
 이 조항은 [두 가지 헌법상 목적](core_00_preamble.md#two-constitutional-aims)에 따라 근본 원인 분석과 적응적 대응의 **헌법상 기본선**을 정한다.
 
@@ -866,7 +992,7 @@ flowchart TB
 - **수명주기와 복구:** **제XVII조**(*시스템 수명주기, 환경, 가역성*) — 자동 복구는 이 조항의 가역성 선호에 맞게 근본 원인 분석에 필요한 증거를 억누르지 않아야 한다.
 - **시행 경로:** [**corpus_systems.md**](corpus_systems.md), **CS-8**(*적응적 지속가능성과 생태계 회복력*) 및 **CS-5**(*설계, 시험, 검증, 배포*) — 여기에서 정한 권리 기본선을 대체하지 않고 적응적 대응을 이행한다.
 
-#### 제XXIII-A조: 엄정한 진단과 인과 귀속
+#### 제XXIV-A조: 엄정한 진단과 인과 귀속
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
@@ -889,7 +1015,7 @@ flowchart TB
 
 이 조항은 근본 원인 판단을 문서화하고 이의를 제기하는 기본선을 정한다.
 
-- **문서화와 감사:** 다음 사항을 문서화하고 감사할 수 있어야 한다(**제XVI-A조**(*감사 가능성과 관찰 가능한 증거*); **제XXIII조**(*근본 원인 분석과 적응적 대응*)).
+- **문서화와 감사:** 다음 사항을 문서화하고 감사할 수 있어야 한다(**제XVI-A조**(*감사 가능성과 관찰 가능한 증거*); **제XXIV조**(*근본 원인 분석과 적응적 대응*)).
   - 근본 원인 결론;
   - 확신 수준;
   - 중대한 불확실성;
@@ -899,7 +1025,7 @@ flowchart TB
   - **제XIII-A조**(*신뢰성과 신뢰성 기준*), **제XIII-B조**(*구제 및 시정 권리*), **제XVI조**(*감사, 투명성, 독립 검증*)에 따른 이의 제기, 독립 검증, 시정;
   - 인식론적 무결성이 관련된 경우 **제XV조**(*정보권역 무결성*)의 이의 제기 가능성 의무.
 
-#### 제XXIII-B조: 감사 가능성, 이의 제기, 가역성 선호
+#### 제XXIV-B조: 감사 가능성, 이의 제기, 가역성 선호
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
@@ -932,7 +1058,8 @@ flowchart TB
 
 <a id="article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
 
-### 제XXIV조: 헌법 해석, 검토, 포획 방지 장치
+<a id="article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
+### 제XXV조: 헌법 해석, 검토, 포획 방지 장치
 
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
@@ -956,7 +1083,7 @@ flowchart TB
 
 <br>
 
-*쉽게 말해: **제XXIV조**(*헌법 해석, 검토, 포획 방지 장치*)는 헌법의 의미를 누가 말할 수 있는지 정하는 기본선이다. 헌법상 문제가 생기면 가장 목소리가 크거나 강력하거나 기관에 편리한 자가 아니라 지정된 헌법 포럼이 답해야 한다. 판정은 실질적인 이유와 함께 기록되고, 독립적인 이의 제기에 열려 있어야 하며, 어느 한 집단의 포획으로부터 보호되어야 한다. 포럼은 권한을 확대하거나 검토를 차단하거나 반대 의견을 처벌하기 위해 "구조 조정"을 사용해서는 안 된다.*
+*쉽게 말해: **제XXV조**(*헌법 해석, 검토, 포획 방지 장치*)는 헌법의 의미를 누가 말할 수 있는지 정하는 기본선이다. 헌법상 문제가 생기면 가장 목소리가 크거나 강력하거나 기관에 편리한 자가 아니라 지정된 헌법 포럼이 답해야 한다. 판정은 실질적인 이유와 함께 기록되고, 독립적인 이의 제기에 열려 있어야 하며, 어느 한 집단의 포획으로부터 보호되어야 한다. 포럼은 권한을 확대하거나 검토를 차단하거나 반대 의견을 처벌하기 위해 "구조 조정"을 사용해서는 안 된다.*
 
 이 조항은 [두 가지 헌법상 목적](core_00_preamble.md#two-constitutional-aims)에 따라 해석 권한, 검토, 포획 방지 장치의 **헌법상 기본선**을 정한다.
 
@@ -979,7 +1106,7 @@ flowchart TB
 - **고착 방지:** [**제XXVI-A조**(*고착 방지와 수정 가능성*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — 이 조항의 사유에 따른 해임 규정에 따른 정기 재검증은 고착 방지 규율과 함께 읽는다.
 - **제도상 경로:** **[corpus_institutions.md](corpus_institutions.md), CI-4**(*임명, 역량, 순환, 해임*)와 **CI-5**(*이해충돌 무결성, 포획 방지, 반부패*) — 구성과 이해충돌 통제를 이행하되 여기의 권리 기본선을 대체하지 않는다.
 
-#### 제XXIV-A조: 제한된 해석 권한
+#### 제XXV-A조: 제한된 해석 권한
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
@@ -1015,8 +1142,8 @@ flowchart TB
   - 이의 제기 경로를 정지하는 것;
   - **권한 체계와 내부 위계** 묶음에 따라 **헌법상** 문제가 그 결정을 요구하는 경우를 제외하고 지정된 시행 책임자를 대체하는 것.
 
-<a id="article-xxiv-b-composition-rotation-and-conflict-controls"></a>
-#### 제XXIV-B조: 구성, 순환, 이해충돌 통제
+<a id="article-xxv-b-composition-rotation-and-conflict-controls"></a>
+#### 제XXV-B조: 구성, 순환, 이해충돌 통제
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
@@ -1052,7 +1179,7 @@ flowchart TB
   - 은밀한 통제.
 - **제도상 경로:** **헌법 포럼** 패널의 상세한 임명 경로, 순환 통제, 이해충돌/회피 절차는 **[corpus_institutions.md](corpus_institutions.md), CI-4**(*임명, 역량, 순환, 해임*)와 **CI-5**(*이해충돌 무결성, 포획 방지, 반부패*)에 따른다.
 
-#### 제XXIV-C조: 공개된 이유, 이의 제기 권리, 외부 검토
+#### 제XXVI-C조: 공개된 이유, 이의 제기 권리, 외부 검토
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
@@ -1096,7 +1223,7 @@ flowchart TB
   - 결정 품질;
   - 권리 기본선의 무결성.
 
-#### 제XXIV-D조: 사유에 따른 해임과 고착 방지
+#### 제XXV-D조: 사유에 따른 해임과 고착 방지
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 

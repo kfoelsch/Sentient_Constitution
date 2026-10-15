@@ -94,34 +94,6 @@
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
-
-### 监督测量
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](../../core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](../../core_05_band_oversight.md#epistemic-integrity), [Transparency](../../core_05_band_oversight.md#transparency), [Auditability](../../core_05_band_oversight.md#auditability), [Verifiability](../../core_05_band_oversight.md#verifiability), [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
-- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
-
-</details>
-
-<br>
-
-*通俗地说：这些问题考察有感知能力者能否看见、核验并信赖高影响系统所表达的内容。本节是第五章中监督测量家族的归属处；序言§2保留类别的通俗问题，家族表和定义路由则列于此处。*
-
-*重要性（[Materiality](../../core_05_band_oversight.md#materiality)）具有整合性，并非单独的测量类别；它根据[material stake](core_00_preamble.md#material-stake)调整本家族的适用力度。*
-
-| 测量家族 | 通俗问题 | 主要宪法用途 |
-|---|---|---|
-| 真实与认知完整性 | 主张、记录和披露是否足够诚实，从而支持安全决策？ | 保护知情参与、救济和纠正。 |
-| 可信赖性 | 依赖是否有正当依据，还是信任正在被削弱？ | 保护有感知能力者免受虚假信心和误导性依赖的影响。 |
-
-只有在第六章、[Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)或纳入的文书明确要求时，可靠性、审计或审查要求才具有约束力。
-
-**上一文件：** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
-**下一文件：** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### 测量监督（序言测量族）

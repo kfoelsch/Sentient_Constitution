@@ -634,6 +634,45 @@ flowchart TB
 
 <br>
 
+<a id="176-portable-competence"></a>
+#### 17.6 可迁移能力
+<details>
+<summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
+
+- 上游依据：[§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)（角色的两种模式：在学习与操作之间转换）；[§16.2 Institutional Development](#162-institutional-development)（保留能力）；[§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward)（记录归属于角色）。
+- 结合阅读[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)：多名管理者能够相互核查的**监督**；及早发现问题（包括职能交界处问题）的**及时性**；进入重要工作的开放**参与**渠道；并按[material stake](core_00_preamble.md#material-stake)调整尺度。
+- 结合阅读[§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship)、[§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence)、[§19.3 Misalignment Detection](#193-misalignment-detection)（多方检测）和[§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response)。
+- 限制：[§18.3 Segregation of Duties](#183-segregation-of-duties)及[Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)（学习某席位不等于担任该席位）；[Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances)；[§17.5 Duty to Resist](#175-duty-to-resist)；[13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)。
+- 后续落实：[Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution)（避免在有感知生命层面出现单点失效）；[CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy)；[CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor)；[CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
+
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Institutional Development](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [Distributed Understanding](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+*通俗地说：* 任何重要工作都不应只依赖一位有感知生命的记忆。系统越重要、他人越依赖它，负责者就越应能够交接和解释工作、相互检查，并了解相邻职能，以便发现职能交界处的问题。这规定了覆盖与理解的最低要求，并不要求所有人轮流承担所有工作。
+
+重要角色中的能力属于该角色及依赖它的社群，而非某一位管理员。要求应按实质重要性和依赖程度调整：
+- **覆盖：** 不止一位合格的有感知生命能够履行并说明该角色。不能只有一位管理员会操作、修复或解释其工作方式。替代者只有在不会因同一原因失败时才算数；对 AI 管理员而言，同一系统的另一份具有相同缺陷的副本不构成备份。
+- **实际演练交接：** 仅有文档不能证明能力已经转移。继任与交接必须经过演练；演练发现的缺口应记录并纠正。
+- **理解职能交界：** 相邻职能的管理员应充分了解彼此工作，以发现正在形成的问题，例如交接遗漏，或某项指标在一侧看似良好、却在另一侧造成损害。这是理解义务，不是授权。
+- **轮岗是一种工具：** 在有助于覆盖、学习或防止俘获时，可以轮岗、跟岗、结对工作或临时替岗；但必须符合安全与同意要求，且速度不得超过能力形成的速度。不得把职责分散到无人能够胜任。
+
+**限制：** 审查席位必须与自己实施的工作分开。担任有约束力或涉及安全的角色前必须达到能力门槛；此前只能在监督下学习。不得用调岗、轮岗或再培训报复提出异议或作出受保护报告的管理员。理解不等于访问权限：保密、安全、最小权限和角色记录要求仍然适用。无需让每个人轮流承担每种角色；有正当理由的专业分工仍受保护，投入应与可避免负担相称。小团体可以由少数互相信任的成员彼此替补来满足要求。此义务同样约束人类与 AI 管理员。
+
+---
+
 <a id="18-governance-under-stewardship-discipline"></a>
 ### 18. 受托责任纪律下的治理
 

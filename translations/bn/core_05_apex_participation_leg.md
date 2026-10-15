@@ -99,32 +99,6 @@
 ---
 
 <a id="participation-measurement-family"></a>
-
-### অংশগ্রহণ
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
-
-</details>
-
-<br>
-
-*সহজ কথায়: প্রতীকী পরামর্শ নয়, প্রভাবিত পক্ষগুলো সত্যিই মত প্রকাশ, প্রবেশাধিকার এবং চ্যালেঞ্জ করার ন্যায্য সুযোগ পায় কি না—এই প্রশ্নগুলো তা পরীক্ষা করে। অধ্যায় পাঁচে অংশগ্রহণ পরিমাপ-পরিবারের স্থান এটি; প্রস্তাবনার §2 শ্রেণির সহজ প্রশ্নটি রাখে, আর পরিবার-সারণি ও সংজ্ঞার নির্দেশনা এখানে রয়েছে।*
-
-*বস্তুগততা ([Materiality](core_05_band_oversight.md#materiality)) সমন্বিত, আলাদা পরিমাপ-শ্রেণি নয়; [material stake](core_00_preamble.md#material-stake) অনুযায়ী পরিবারের প্রয়োগের মাত্রা নির্ধারণ করে।*
-
-| পরিমাপ-পরিবার | সহজ প্রশ্ন | প্রধান সাংবিধানিক ব্যবহার |
-|---|---|---|
-| ন্যায্যতা, প্রবেশাধিকার ও কর্তৃত্বশীলতা | প্রভাবিত সংবেদনশীল সত্তাদের কি ন্যায্য আচরণ করা হয় এবং তারা অংশ নিতে ও শিখতে পারে? | বর্জন, অসম প্রভাব ও ফাঁপা প্রবেশাধিকার রোধ করে। |
-| গোপনীয়তা ও তথ্যের তত্ত্বাবধান | তথ্যগত আত্মনিয়ন্ত্রণ কি ব্যবস্থাপনার সব পর্যায়ে বজায় থাকে? | বিভাজন, ভিন্ন প্রসঙ্গে তথ্য মিলিয়ে পড়া এবং প্রকাশের চাপ যেন মত প্রকাশকে ব্যর্থ না করে তা নিশ্চিত করে। |
-
-**আগের ফাইল:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
-**পরের ফাইল:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
-
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### অংশগ্রহণ মাপা (প্রস্তাবনার পরিমাপ পরিবার)

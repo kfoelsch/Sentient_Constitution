@@ -94,34 +94,6 @@ Các **thuật ngữ độc lập** sống dưới [Giám sát: thuật ngữ đ
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
-
-### Giám sát
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Trustworthiness](../../core_05_band_continuity.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup).
-- Read with: **truth** and **trustworthiness** under the [Flourishing](core_00_preamble.md#flourishing) aim.
-
-</details>
-
-<br>
-
-*Nói đơn giản: các câu hỏi này xem liệu các chủ thể có tri giác có thể nhìn thấy, kiểm chứng và tin cậy những gì hệ thống tác động lớn thể hiện hay không. Đây là nơi đặt nhóm đo lường Giám sát của Chương Năm; §2 Lời mở đầu giữ câu hỏi giản dị của nhóm, còn bảng nhóm và chỉ dẫn đến định nghĩa ở đây.*
-
-*Tính trọng yếu ([Materiality](core_05_band_oversight.md#materiality)) có tính tích hợp, không phải nhóm đo lường riêng; nó điều chỉnh mức áp dụng theo [material stake](core_00_preamble.md#material-stake).*
-
-| Nhóm đo lường | Câu hỏi giản dị | Công dụng hiến định chính |
-|---|---|---|
-| Tính chân thực và tính toàn vẹn nhận thức | Các tuyên bố, hồ sơ và tiết lộ có đủ trung thực để đưa ra quyết định an toàn không? | Bảo vệ sự tham gia có hiểu biết, biện pháp khắc phục và việc sửa sai. |
-| Độ đáng tin cậy | Việc dựa vào có chính đáng không, hay lòng tin đang bị xói mòn? | Bảo vệ các chủ thể có tri giác khỏi sự tin tưởng sai lầm và việc dựa vào thông tin gây hiểu lầm. |
-
-Các yêu cầu ràng buộc về độ tin cậy, kiểm toán hoặc rà soát phát sinh khi Chương Sáu, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) hoặc văn kiện được viện dẫn quy định rõ.
-
-**Tệp trước:** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
-
-**Tệp tiếp theo:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
 <a id="measuring-oversight-preamble-measurement-family"></a>
 
 ### Đo giám sát (gia đình đo lường của Lời nói đầu)

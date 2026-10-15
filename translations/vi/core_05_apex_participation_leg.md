@@ -99,32 +99,6 @@ Các **thuật ngữ độc lập** sống dưới [Tham gia: thuật ngữ đ�
 ---
 
 <a id="participation-measurement-family"></a>
-
-### Sự tham gia
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](../../core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](../../core_05_band_participation.md#accessibility), [Educational Agency](../../core_05_band_participation.md#educational-agency), [Meaningful Agency](../../core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](../../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
-
-</details>
-
-<br>
-
-*Nói đơn giản: các câu hỏi này xem các bên bị ảnh hưởng có thực sự có tiếng nói, quyền tiếp cận và cơ hội công bằng để phản đối hay không, chứ không chỉ được tham vấn tượng trưng. Đây là nơi đặt nhóm đo lường Sự tham gia của Chương Năm; §2 Lời mở đầu giữ câu hỏi giản dị của nhóm, còn bảng nhóm và chỉ dẫn đến định nghĩa ở đây.*
-
-*Tính trọng yếu ([Materiality](core_05_band_oversight.md#materiality)) có tính tích hợp, không phải nhóm đo lường riêng; nó điều chỉnh mức áp dụng theo [material stake](core_00_preamble.md#material-stake).*
-
-| Nhóm đo lường | Câu hỏi giản dị | Công dụng hiến định chính |
-|---|---|---|
-| Công bằng, tiếp cận và năng lực hành động | Các chủ thể có tri giác bị ảnh hưởng có được đối xử công bằng, có thể tham gia và học hỏi không? | Ngăn ngừa loại trừ, tác động chênh lệch và quyền tiếp cận hình thức. |
-| Quyền riêng tư và quản trị dữ liệu | Quyền tự quyết về thông tin có được duy trì xuyên suốt vòng đời xử lý không? | Ngăn việc phân nhóm, đối chiếu xuyên ngữ cảnh và áp lực phơi lộ làm mất tiếng nói. |
-
-**Tệp trước:** [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md)
-
-**Tệp tiếp theo:** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
-
 <a id="measuring-participation-preamble-measurement-family"></a>
 
 ### Đo tham gia (gia đình đo lường của Lời nói đầu)

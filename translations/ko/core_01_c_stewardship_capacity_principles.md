@@ -628,6 +628,53 @@ flowchart TB
 
 [제10장 §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*저항 의무*)는 이 의무를 지속적 효과에 적용하며, [CS-4 §10 검사 가능하고 귀속 가능한 행위](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*검사 가능하고 귀속 가능한 행위*)는 거부에 대한 최소 기록을 정한다.
 
+
+<a id="176-portable-competence"></a>
+#### 17.6 이전 가능한 역량
+<details>
+<summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
+
+- 상위 근거: [§17 중대한 결과를 수반하는 스튜어드십](#17-consequential-stewardship-the-steward-role) (학습과 운영 사이를 오가는 두 역할 방식); [§16.2 제도적 발전](#162-institutional-development) (유지되는 역량); [§17.3 스튜어드가 아니라 역할을 기록하기](#173-logging-the-role-not-the-steward) (기록은 역할에 귀속됨).
+- 함께 읽기: [헌법상 4요소](core_00_preamble.md#constitutional-tetrad) — **감독**(점검 가능한 스튜어드가 둘 이상일 것), **적시성**(기능 간 접점에서 생기는 문제도 일찍 알아챌 것), **참여**(중대한 업무로 들어가는 경로를 열어 둘 것); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
+- 함께 읽기: [§16 기둥 2 — 선제적 스튜어드십](#16-pillar-2-proactive-stewardship); [§19.2 편리한 대리 지표와 그 괴리](#192-convenient-proxies-and-proxy-divergence); [§19.3 불일치 탐지](#193-misalignment-detection) (다원적 탐지); [§19.4 불일치 시정과 장악 대응](#194-misalignment-correction-and-capture-response).
+- 한계: [§18.3 직무 분리](#183-segregation-of-duties) 및 [제8장 §2 네 좌석 헌법상 최소 기준](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (좌석의 업무를 배우는 것은 그 좌석을 맡는 것이 아님); [제11장 §6.2 역량 기준과 인가](core_11_standing_integration.md#62-competency-bars-and-clearances); [§17.5 저항 의무](#175-duty-to-resist); [13.2 인식론적 공개 제한](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- 하위 이행: [제14장 §5 권한 있는 역할, 역량 개발 및 기여](core_14_governance.md#5-authorized-roles-competency-development-and-contribution); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness).
+
+</details>
+<details>
+<summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
+
+- [스튜어드십](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [전략적 스튜어드십 의무](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [제도적 발전](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [분산된 이해](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [중요성](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [의존성](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [회피 가능한 부담](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [보호된 신고(내부고발)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+<br>
+
+*쉽게 말해, 중대한 업무가 한 감지자의 지식에만 의존해서는 안 된다. 시스템이 중요하고 그에 의존하는 정도가 클수록 운영자는 업무를 인계하고 설명하며 서로의 일을 점검할 수 있어야 하고, 인접 기능 사이에서 생기는 문제를 알아챌 만큼 서로의 업무를 이해해야 한다. 이는 업무 범위와 이해의 최소 기준을 정할 뿐, 모두가 모든 역할을 돌아가며 맡도록 하지는 않는다.*
+
+중대한 역할의 역량은 한 스튜어드 개인이 아니라 그 역할과 그 역할에 의존하는 공동체에 속한다. [중요성](core_05_band_oversight.md#materiality-determination)과 [의존성](core_05_band_continuity.md#dependency)에 따라 조정한다.
+
+- **업무 범위:** 자격을 갖춘 감지자가 둘 이상 해당 역할을 수행하고 설명할 수 있어야 한다. 어떤 스튜어드도 유일하게 운영·수리하거나 작동 이유를 설명하는 사람이 되어서는 안 된다. 대체자는 원 담당자와 같은 이유로 실패하지 않을 때에만 인정한다. AI 스튜어드의 경우 같은 결함을 가진 동일 시스템의 복제본은 대체 인력으로 보지 않는다.
+- **문서가 아니라 실제 인계:** 문서만으로 역량이 이전되었다고 볼 수 없다. 승계와 인계를 실제로 연습해야 한다. 연습에서 드러난 공백은 기록하고 [§19.4](#194-misalignment-correction-and-capture-response)에 따라 다른 불일치처럼 바로잡는다.
+- **기능 간 이해:** 인접 기능의 스튜어드는 놓친 인계나 한쪽에서는 정상처럼 보이지만 다른 쪽에는 해를 주는 지표처럼, 기능이 만나는 곳에서 실패가 생기는 징후를 알아챌 만큼 서로의 일을 알아야 한다. 이는 권한이 아니라 이해다. [기둥 2](#16-pillar-2-proactive-stewardship)와 [§19.3](#193-misalignment-detection)의 다원적 탐지를 뒷받침하고 [§19.2](#192-convenient-proxies-and-proxy-divergence)가 경고한 좁은 대리 지표에 대한 의존을 줄인다.
+- **순환 배치는 수단:** 업무 범위, 학습 또는 [장악 방지](core_05_band_continuity.md#anti-capture)에 도움이 된다면 역할 경로에 순환 배치, 그림자 근무, 짝 근무 또는 임시 대체를 둘 수 있다. 안전과 동의가 허용할 때만, 역량이 자라는 속도를 앞지르지 않게 시행한다. 누구도 능숙하지 못할 정도로 역할을 지나치게 쪼개서는 안 된다.
+
+**한계:**
+- **좌석 분리:** 다른 좌석의 일을 배우는 것은 그 좌석을 맡는 것이 아니다. 순환 배치로 자신이 수행한 업무를 자신이 점검하는 자리에 두어서는 안 되며, 과거의 관여는 [제8장](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties)과 [§18.3 직무 분리](#183-segregation-of-duties)에 따른 이해충돌이다.
+- **인가가 먼저:** 구속력 있거나 안전과 관련된 역할은 [제11장 §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances)의 역량 기준을 충족하기 전에는 맡을 수 없다. 그전에는 학습 중심 역할에서 감독을 받는다.
+- **보복 금지:** [§17.5](#175-duty-to-resist)에 따라 저항하거나 [보호된 신고](core_05_band_accountability.md#protected-reporting-whistleblowing)를 한 스튜어드를 배제하기 위해 재배치·순환·재교육을 이용해서는 안 된다.
+- **이해는 접근권이 아님:** [13.2](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)에 따른 기밀성·보안·최소권한 한계와 [§17.3](#173-logging-the-role-not-the-steward)의 역할 기록은 계속 적용된다.
+- **전문화와 부담:** [§16 적용 범위](#16-scope-priority-and-limits)는 그대로다. 모두를 모든 역할에 순환 배치하거나 정당한 전문화를 뒤집으라는 뜻이 아니다. 노력의 정도는 [회피 가능한 부담](core_05_band_continuity.md#avoidable-burden)에 맞춘다. 소규모·비공식 집단은 몇몇 신뢰받는 감지자가 서로를 대신하는 방식으로 제도적 장치 없이도 이 기준을 충족할 수 있다.
+- **모든 스튜어드:** [§17.1 공동 스튜어드십 기준](#171-shared-stewardship-standard)에 따라 인간과 AI 스튜어드에게 같은 의무가 적용된다.
+
+최소 인력, 대체 인력의 여유, 승계 방식은 [제14장 §5](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor), [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness)에 둔다. 이 절은 그 운영 규칙이 이행하는 원칙을 제시한다.
+
 <br>
 
 ---

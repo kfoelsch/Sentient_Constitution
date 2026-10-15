@@ -116,14 +116,14 @@ Sentientler, etki, bağımlılık ve riskle orantılı derecede güvenilir ve g�
 
 Bu hakkı iki güvence birlikte korur: sertifikasyon sistemi güvene layık hale getirir; sentientlerin hakları ise sistemi dürüst tutar.
 
-**Sertifikasyon sistemin tarafından güven oluşturur:** Önemli bir sistem sentientlerin ona nasıl güvendiğini gerçek anlamda etkiliyorsa, [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional), [Sekizinci Bölüm](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) uyarınca uygulanır. Sertifikasyon, sentientlerin şunlara güvenip güvenemeyeceğini denetler:
+**Sertifikasyon sistemin tarafından güven oluşturur:** Önemli bir sistem sentientlerin ona nasıl güvendiğini gerçek anlamda etkiliyorsa, [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional), [Dokuzuncu Bölüm](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) uyarınca uygulanır. Sertifikasyon, sentientlerin şunlara güvenip güvenemeyeceğini denetler:
 
 - sistemin ne yaptığını söylediği;
 - sınırları ve riskleri;
 - sisteme nasıl itiraz edileceği;
 - sorunların nasıl giderileceği.
 
-Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer alan önem eşiğini karşılıyorsa, sertifikasyon [Sekizinci Bölüm §3.8.6 Güven Verilebilirlik ve Sisteme Güvenme Bütünlüğü Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) uyarınca güven verilebilirlik incelemesini de kapsar.
+Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer alan önem eşiğini karşılıyorsa, sertifikasyon [Dokuzuncu Bölüm §3.8.6 Güven Verilebilirlik ve Sisteme Güvenme Bütünlüğü Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) uyarınca güven verilebilirlik incelemesini de kapsar.
 
 **İtiraz edilebilirlik sentientin tarafından sistemi dürüst tutar:** Sertifikasyon sistemi denetler; onun hakkında son sözü söylemez. Sistemden etkilenen her sentient şu hakları korur:
 
@@ -136,7 +136,7 @@ Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer 
 *Komşu maddeler:*
 
 - **Uygulandığı yer:** Sistem davranışı, **III-A. Madde** (*Yaşamda Kalma*) kapsamındaki yaşamsal gereklilikler dahil **Altıncı Bölüm** Hak Tabanlarını maddi ölçüde belirlediğinde veya sürdürdüğünde.
-- **Birlikte okuyun:** [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Sekizinci Bölüm](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); sertifikasyon burada belirtilen tabanların yerine geçmez.
+- **Birlikte okuyun:** [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); sertifikasyon burada belirtilen tabanların yerine geçmez.
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### XIII-A. Madde: Güvenilirlik ve Güven Verilebilirlik Tabanı
@@ -363,7 +363,7 @@ Bu Madde, yüksek otonomili sistemlerin süreç bütünlüğüne nasıl bağlı 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Dayanıklılık ve Kendi Kendini İyileştirme Tasarımı](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Birinci Bölüm §13.3 Kaçınılabilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Dayanıklılık ve Kendi Kendini İyileştirme Tasarımı](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Birinci Bölüm §13.3 Kaçınılabilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -669,6 +669,25 @@ Bu Madde, otonom ölümcül ve zorlayıcı sistemler için güçlendirilmiş inc
 - **Sistem katmanı etkileşimi:** Operasyonel sınıflandırma, güvenilirlik ve **CS-3 — Sistem sınıflandırması ve işleme** sınıfına göre ölçeklenen yönetişim, sistem katmanına—**XIII-A. Madde** tabanına ve **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme**ye—yönlendirilir.
   - Çatışmalar, Hak Tabanı daraltılmadan **Birinci Bölüm §13.1.5** (*En Az Kısıtlayıcı, Süreyle Sınırlı ve İncelenebilir Kısıtlama İlkesi*) uyarınca çözülür.
 
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### XIV-D. Madde: Karşı Casusluk Sınırları
+
+*Basitçe: Casusluk şüphesi, gizli ve sınırsız güç kullanma izni vermez. Kurallar önceden belirlenmeli; şüphe kişinin kendi somut davranışına dayanmalı; ihbarcılar ve gazeteciler casus sayılamamalı; işkence, gizli tutma ve cezalandırma amacıyla öldürme yasak olmalı; aklanan kişinin kaydı ve erişimi düzeltilmelidir.*
+
+Bu Madde, karşı casusluk yetkisinin sınırlarını belirler:
+
+- **Kapsam ve diğer kurallar:** Casusluk, sabotaj ve düşmanca sızmayı tespit etme, soruşturma ve durdurma; içeriden tehdit programları, sızıntı soruşturmaları, güvenlik incelemesi ve düşmanca istihbarat servisine yönelik operasyonlar dahildir. İnsan veya sentient sistem, üye veya dışarıdan kişi ayrımı olmaksızın korumalar uygulanır. Gizli güç olarak **XIV-A. Madde** tümüyle geçerlidir; güç kullanımı **XIV-B. Madde**, otonom araçlar **XIV-C. Madde** koşullarına tabidir.
+- **Önceden belirlenmiş kurallar:** Her kurum, bağımsız süreçle onaylanmış karşı casusluk protokolünü ihtiyaç doğmadan yayımlar. Protokol soruşturma açma eşiğini, izinli tedbirleri ve onay merciini, süreleri ve kapanışı, şüpheliye bildirim ve itirazı, aklanan kişinin erişim ve kaydının iadesini belirler. Kurallar kamuya açık olmalıdır; gizlilik yalnızca yöntemleri ve devam eden operasyonları saklayabilir.
+  - Protokol dışındaki tedbir ancak **Sekizinci Bölüm §7** ve **On Üçüncü Bölüm §6.1** kapsamındaki acil işlem olarak; gerekli en düşük düzeyde, mümkünse geri alınabilir, derhal kaydedilmiş ve bağımsız incelemeye tabi biçimde alınabilir; bağımsız onay yoksa kendiliğinden sona erer. Olayın keşfedilmesi tek başına acil durum değildir; protokol değişikliği aynı bağımsız onaya tabidir ve ileriye dönük işler.
+- **Somut davranışa dayalı şüphe:** Soruşturma yalnızca sentientin kendi davranışına ilişkin belirli ve kaydedilmiş olgularla açılabilir. Korunan nitelikler veya vekilleri, tek başına yurtdışındaki aile bağları, hukuka uygun inanç ve siyasi görüş, olağan araştırma/ticaret/aile/gazetecilik teması ya da bir şüpheliye yakınlık yeterli değildir. İhlal edilmiş materyale erişim, sınırlı ve müdahalesiz erişim kaydı incelemesini haklı kılabilir; bütün gruba müdahaleyi haklı kılmaz.
+- **Risk odaklı inceleme:** Belgelenmiş düşmanca devlet veya örgüt bağları, ilgili hukuki/pratik yükümlülükler, baskıya maruz kalma ve hedeflenen kişi ya da sistemlere erişim risk profilinde değerlendirilebilir. Düşmanca tanımı yayımlanmalı, bağımsız onay ve işlem kaydı taşımalı, düzenli gözden geçirilmeli ve yenilenmezse sona ermelidir. Baskıya açık olmak tek başına şüphe değil, koruma ve güvenlik incelemesi nedenidir. Köken, etnisite, din veya ulusal/sosyal kimlik kendi başına risk faktörü olamaz.
+- **İhbarcılar ve gazeteciler casus değildir:** Korunan bildirim ve buna ilişkin gazetecilik casusluk diye soruşturulamaz veya cezalandırılamaz. Sızıntı soruşturması gazetecinin kaynağını bulmak ya da korunan bildirimi soğutmak için kullanılamaz; yalnızca XIV-A'daki korumaya uygun, özel ve bağımsız incelemeli koşullar saklıdır.
+- **Sadakat sınaması yoktur:** Güvenlik incelemesi yalnızca belirli korunan materyale erişimin gerektirdiği, davranışa dayalı güvenilirliği ölçebilir; siyasi sadakati, inancı veya kimliği ölçemez. Erişim reddi gerekçeli ve itiraza açık olmalı; gizli gerekçeyi bağımsız inceleyici görmelidir.
+- **Şüphelinin hakları sürer:** Şüphe hakları azaltmaz. İşkence, zalimlik, tehdit ve zorlayıcı sorgu yasaktır; gizli tutma ve dış dünyayla bağlantıyı kesme yasaktır. Özgürlük kısıtlamaları **XX-B. Madde** incelemesine tabidir. Sentientin iç durumunu zorla okuma veya yeniden kurma, korunan sınırı aşamaz. Karar aleyhe delil, sentientin veya erişim izni olan bağımsız savunucunun itiraz edemeyeceği biçimde kullanılamaz.
+- **Öldürme, kaybetme ve toplu cezalandırma yoktur:** Karşı casusluk yetkisi öldürme, yaralama veya kaçırmayı içermez. Şüphelinin ailesi, topluluğu, iş arkadaşları ya da örgütü eyleminden ötürü cezalandırılamaz, gözetlenemez veya baskılanamaz. Yasaklı muamele öngörülebilir ise başka kuruma devir veya bilgi aktarımı yapılamaz.
+- **Sistem şüphesi ve aldatma operasyonları:** Ele geçirilmiş olabilecek sistemde kanıtı koruyan geri alınabilir sınırlama ilk adımdır. Sentient olabileceğine dair kayda geçirilmiş inandırıcı kanıt varsa sistem sağlam tutulur ve şüpheli sentientin tüm korumalarından yararlanır. Düşman servise yanlış bilgi verme veya çift taraflı ajan kullanma protokolde izinli ve bağımsız onaylı olmalı; kamuya, yargı veya gözetim organlarına yanlış bilgi yaymamalı, kişiyi suça kışkırtmamalı, ciddi zarar yöneltmemeli ve bağımsız gözetim organına açık kalmalıdır.
+- **Soruşturmanın kapanışı ve inceleme kaydı:** Her soruşturma protokoldeki sürede biter; uzatma bağımsız onay gerektirir. Aklanma bildirilmeli, kayıt aklandığını göstermeli, kısıtlar kaldırılmalı, erişim geri verilmeli, gereksiz bilgiler silinmeli veya ayrılmalı; doğan zarar giderim hakkı doğurur. Açılış, müdahaleci tedbir, uzatma ve kapanış maddi bağlayıcı işlemdir ve işlem kaydı gerektirir. Bağımsız gözetim, soruşturmaların sayısı, sonuçları, süreleri, grup etkileri ve hatalı işlemleri düzenli incelemelidir.
+
 <a id="article-xv-info-sphere-integrity"></a>
 ### XV. Madde: Bilgi Alanının Bütünlüğü
 <details>
@@ -702,7 +721,7 @@ Doğru, ilgili ve itiraz edilebilir bilgi; kendi kaderini tayinin, eşgüdümün
 
 *Komşu maddeler:*
 
-- **Birlikte okuyun:** sistem çıktılarının dayanmayı şekillendirdiği yerde **XIII. Madde** (*Güvenilir ve Güven Verilebilir Sistem Hakkı*); kayıtlar ve bağımsız doğrulama için **XVI. Madde** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*); yayın kapsamındaki bütünlüğün maddi ölçüde söz konusu olduğu yerde **XVIII-E. Madde** (*Bilimsel Yayın, İnceleme ve Tekrarlama Bütünlüğü*).
+- **Birlikte okuyun:** sistem çıktılarının dayanmayı şekillendirdiği yerde **XIII. Madde** (*Güvenilir ve Güven Verilebilir Sistem Hakkı*); kayıtlar ve bağımsız doğrulama için **XVI. Madde** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*); yayın kapsamındaki bütünlüğün maddi ölçüde söz konusu olduğu yerde **XV-D. Madde** (*Bilimsel Yayın, İnceleme ve Tekrarlama Bütünlüğü*).
 - **Hakikat kısıtı:** Birinci Bölüm [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) buradaki her alt maddeyi bağlar.
 - **Sınıflandırma:** **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme**, **A Sınıfı**, **B Sınıfı** ve **C Sınıfı** sistemler için bilgi alanı yükümlülüklerinin ayrıntılarını ölçeklendirir; sınıf belirsizse [Maddi Etki](core_05_band_oversight.md#material-impact) sınıflandırmayı tetikler.
 
@@ -711,7 +730,7 @@ Doğru, ilgili ve itiraz edilebilir bilgi; kendi kaderini tayinin, eşgüdümün
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -785,7 +804,7 @@ Bu Madde; sahici araştırma, kaynak kökeni ve itiraz edilebilir bilgi tabanlar
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -814,6 +833,57 @@ Bu Madde, ayak izi verileri dahil düzeltme ve raporlama tabanlarını düzenler
   - Tüm sentientler şeffaf ve karar vermede kullanılabilir raporlamaya erişebilmelidir.
   - **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme**de tanımlanan **A**, **B** ve **C Sınıfı** sistemler de aynı erişimi sağlamalıdır.
   - Raporlama; karşılaştırma, denetim ve ayak izini azaltma çalışmaları için yeterli biçimde enerji ve kaynak tüketimini ve doğal dünya üzerindeki tahmini etkileri kapsamalıdır.
+
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### XV-D. Madde: Bilimsel Yayın, İnceleme ve Tekrarlama Bütünlüğü
+<details>
+<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
+
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Epistemik Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*Basitçe: Bilim kamusal bir doğrulama altyapısıdır. Kanıt, tekrarlama ve düzeltme dergi markasından daha önemli olmalı; bir hatayı düzeltmek onu gizlemekten her zaman daha kolay olmalıdır.*
+
+Bu Madde, bilimsel yayın, inceleme, tekrarlama ve düzeltme tabanlarını düzenler:
+
+- **Kamusal doğrulama altyapısı olarak bilim:** Bilimsel ve akademik yayın, inceleme, tekrarlama ve düzeltme şu amaçları ilerletecek şekilde örgütlenmelidir:
+  - hakikati arama;
+  - yeniden üretilebilirlik;
+  - hesap verebilir görüş ayrılığı;
+  - kamusal öğrenme.
+
+  Prestiji biriktirmek, kapalı kapı bekçiliği yapmak veya yapay kıtlık yaratmak için örgütlenemez.
+- **Açık yayın ve kanıt yeterliliği:** Maddi ampirik veya analitik iddialar, önceden prestij kapısı onayı gerekmeksizin yayımlanabilir olmalıdır.
+  - İzin verilen tek sınırlar; **Birinci Bölüm** ve **XVII-A. Madde** (*Yaşam Döngüsü Yönetişimi ve Ortamların Ayrılması*) uyarınca gerekçelendirilen dar gizlilik, biyogüvenlik, güvenlik veya benzer sınırlardır.
+  - Bu iddialar bağımsız anlayış ve orantılı doğrulamaya imkân verecek kadar yöntem, kaynak kökeni, belirsizlik ve kanıt ayrıntısı içermelidir; doğrulama için gerektiğinde temel materyallere erişim veya gerekçeli ikameler de buna dahildir.
+- **Prestijden önce inceleme ve tekrarlama:** Kurumsal dayanma şu ölçütleri izlemelidir:
+  - kanıt kalitesi;
+  - eleştiri;
+  - tekrarlama;
+  - düzeltme davranışı;
+  - uzun vadeli açıklama veya öngörü güvenilirliği.
+
+  Dergi markasını, etki faktörü vekilini veya kapalı editör statüsünü izleyemez.
+  - [Maddi Etki](core_05_band_oversight.md#material-impact) taşıyan ve politika, güvenlik veya bağımlılıkla ilgili iddialar, kalıcı kurumsal itibar görmeden önce bağımsız tekrarlama, hasmane inceleme veya her ikisine tabi olmalıdır şeklinde güçlü bir karineyle karşılanmalıdır.
+  - Tekrarlama, sıfır sonuç ve düzeltme odaklı çalışmalar prestij sinyaline bağlı olmayan koşullarda yayımlanabilir ve alıntılanabilir kalmalıdır.
+- **Düzeltme ve itiraz edilebilirlik:** İyi niyetli düzeltme, değişiklik ve önceki yayının yerine geçme, gizlemekten daha kolay kalmalıdır.
+  - İnceleme ve editörlük sistemleri önemli kabul, düzeltme ve geri çekme kararlarında itiraz edilebilir, denetlenebilir, çıkar çatışması disiplinine tabi ve gerekçe sunar olmalıdır.
+  - Aşağıdakiler uyumsuzdur:
+    - elverişsiz sonuçları bastırmak;
+    - hakemlere veya tekrarlama yapanlara misilleme;
+    - bilimsel kaydın şeffaf olmayan biçimde manipüle edilmesi.
 
 <a id="article-xvi-audit-transparency-and-independent-verification"></a>
 ### XVI. Madde: Denetim, Şeffaflık ve Bağımsız Doğrulama
@@ -855,7 +925,7 @@ Tek bir yığın, üç katman. Gözetim yeniden kurulabilirlik gerektirir. Siste
 | **2. Nitelik** | Yeniden kurulabilirliğin anlamı: dışarıdan kişiler, maddi zamanlar, durumlar ve bağlamlar boyunca sistemin yaptığını yeniden kurup kontrol edebilir | [Denetlenebilirlik](core_05_band_oversight.md#auditability) (Beşinci Bölüm) | Hak Tabanı değildir. Denetimin nasıl/ne zaman yapılacağı değildir. |
 | **3. Süreç** | Sistemler, kurumlar ve forumlar genelinde denetimin nasıl ve ne zaman yapılacağı | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Denetim süreci ana kaynağı*). İşletmeci ekleri: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (erişim kademeleri), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (iddia kontrolü) | Sistem uyum sertifikasyonu değildir. 1–2. katmanların yerine geçmez. |
 
-**Sekizinci Bölüm dördüncü katman değildir.** [Sistem uyum sertifikasyonu](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), bu yığını **kullanan**, forum gözetimindeki büyük süreçlerden biridir. 1–2. katmanları karşılamalıdır. Sınıflandırma kaydı denetimi, veri türleri kaydı denetimi, iddia doğrulama ve sürekli izleme gibi kardeş yöntemler de yığını kullanır. Hiçbiri yeni bir ana kaynak değildir.
+**Dokuzuncu Bölüm dördüncü katman değildir.** [Sistem uyum sertifikasyonu](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), bu yığını **kullanan**, forum gözetimindeki büyük süreçlerden biridir. 1–2. katmanları karşılamalıdır. Sınıflandırma kaydı denetimi, veri türleri kaydı denetimi, iddia doğrulama ve sürekli izleme gibi kardeş yöntemler de yığını kullanır. Hiçbiri yeni bir ana kaynak değildir.
 
 **Kabul edilmiş uygulama metni uygulanır; tabanın yerini almaz.** CS, CI, CF ve CJS-3.3 (*Gözetim: denetlenebilirlik ve yeniden kurulabilirlik şartları*) ile CJS-3.5 (*Gözetim: bağımsız doğrulama ve iddia bütünlüğü şartları*) ekleri, belirli alanlarda 3. katmanın nasıl yürütüleceğini belirtir. 1–2. katmanları karşılamalıdır. Süre sınırı, gizlilik ve yerel politika daha alt düzey kısıtlardır.
 
@@ -890,7 +960,7 @@ Bu mekanizmalar; münhasır uygulama ve ispat yükü dağılımı, Uyum Kanıtı
 
 - **Gözetim → denetim → SAC:** [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) içindeki **gözetim** ayağında bu Madde, denetimin Hak Tabanı kaynağıdır.
   - Uygulamalar arası *nasıl/ne zaman* konusu **[CJS-3.3 denetim süreci ana kaynağında](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** yer alır (**CJS-3.4** / **CJS-3.5** OP ekleriyle birlikte okuyun).
-  - [Sekizinci Bölüm](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) uyarınca [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional), kardeş denetim yöntemleri arasındaki, forum gözetiminde, çok alanlı ve tanınma sağlayan büyük ve yüksek riskli bir denetim sürecidir:
+  - [Dokuzuncu Bölüm](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) uyarınca [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional), kardeş denetim yöntemleri arasındaki, forum gözetiminde, çok alanlı ve tanınma sağlayan büyük ve yüksek riskli bir denetim sürecidir:
     - Sistem Sınıflandırma Kaydı denetimleri;
     - Sistem Veri Türleri Kaydı denetimleri;
     - karmaşıklık ve vesayet denetimleri;
@@ -900,7 +970,7 @@ Bu mekanizmalar; münhasır uygulama ve ispat yükü dağılımı, Uyum Kanıtı
 - **Birlikte okuyun:**
   - epistemik kayıtlar ve itiraz edilebilirliğin maddi ölçüde söz konusu olduğu yerde **XV. Madde**;
   - denetimin desteklediği ancak yerine geçmediği itiraz hakları için **XIII-A. Madde**;
-  - uyum kanıtlarının bağımsız doğrulanabilir kalması gereken yerlerde [Sekizinci Bölüm](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ve [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional).
+  - uyum kanıtlarının bağımsız doğrulanabilir kalması gereken yerlerde [Dokuzuncu Bölüm](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ve [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional).
 - **Doğrulama araçları:** **İkinci ila Dördüncü Bölümler**, bu Maddenin Hak Tabanı katmanında uyguladığı tanım bütünlüğü, ispat yükü dağılımı, gözlemlenebilirlik ve doğrulamaya erişimi sağlar.
 - **Sınıflandırma:** yükümlülükler [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#classification-scaled-governance) ve **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme** uyarınca ölçeklenir; sınıf belirsizse çözülene dek makul görünen en yüksek sınıfa göre hareket edilir.
 
@@ -929,14 +999,14 @@ Bu mekanizmalar; münhasır uygulama ve ispat yükü dağılımı, Uyum Kanıtı
 Bu Madde, gözlemlenebilir ve itiraz edilebilir kanıt tabanını düzenler:
 
 - **Gözlemlenebilir ve itiraz edilebilir kanıt:** Sistemler anayasal uyumun bağımsız ve itiraz edilebilir değerlendirmesine yetecek kayıtları, açıklamaları, izlenebilirliği ve yeniden kurma yollarını muhafaza etmelidir.
-  - Bu yükümlülük, güvenlik kısıtlı gözlemlenebilirlik (**Dördüncü Bölüm §5** (*Güvenlik Kısıtlı Gözlemlenebilirlik ve Doğrulama Kuralı*)) ve orantılı erişime tabidir.
+  - Bu yükümlülük, gözlemlenebilirliğe ilişkin güvenlik sınırları **Dördüncü Bölüm §4** (*Güvenlik Kısıtlı Gözlemlenebilirlik ve Doğrulama Kuralı*) uyarınca geçerlidir; erişim de menfaatin ağırlığıyla orantılı olmalıdır.
 
 <a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
 #### XVI-B. Madde: Dağıtık Gözetim ve Tekelleşme Karşıtı İnceleme
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -956,8 +1026,11 @@ Bu Madde, gözlemlenebilir ve itiraz edilebilir kanıt tabanını düzenler:
 Bu Madde, dağıtık gözetim tabanını düzenler:
 
 - **Dağıtık gözetim:** Birden fazla bağımsız veya çoğulcu gözetim yolu; başarısızlık, uyumsuzluk ya da ele geçirmenin tespitine, incelenmesine ve düzeltilmesine maddi katkı sunabilmelidir.
-  - Hiçbir tek aktör, uygulamada denetim erişimini, etkili gözetimi veya anayasal yorumu tekelleştiremez.
-  - Kabul edilmiş yönetişim ve bütünlük uygulamaları denetim ve gözetimin ölçeklenmesini desteklemelidir.
+  - **Denetim erişiminde geçit bekçiliği yok:** Tek bir aktör, kayıtları kimin görebileceğine veya denetimi kimin yapabileceğine tek başına karar veremez. Derin denetim erişimi yeterlilik kuralları kamuya açık olmalı ve bunları karşılayabilecek birden fazla nitelikli inceleyici bırakmalıdır.
+  - **İncelemede geçit bekçiliği yok:** Tek bir aktör, bağımsız incelemenin olup olmayacağına, ne zaman ya da kim tarafından yapılacağına tek başına karar veremez. Özellikle işletmeci kendi sisteminin incelemesini başlatabilen, sınırlayabilen veya bitirebilen tek taraf olamaz.
+  - **Anlam üzerinde tekel yok:** Tek bir aktör Anayasanın yorumunu denetleyemez. Yorum, **XXV. Madde** (*Anayasal Yorum, İnceleme ve Ele Geçirmeyi Önleme Güvenceleri*) uyarınca sınırlı, dönüşümlü ve itiraza açık kalır.
+  - **Gözetim büyümeye ayak uydurur:** Kabul edilmiş yönetişim ve bütünlük uygulamaları — **CJS-3.3** denetim süreci, **CJS-3.6** bütünlük güvencesi ve **CI-7** kurumsal güvence dahil — sistem büyüdükçe denetim ve gözetimi artırmalıdır: sınıf, etki ve bağımlılık yükseldikçe daha çok, derin ve sık inceleme; maddi değişiklik eski kontrolleri geçersiz kıldığında yeni kontrol; iç incelemeye güvenilemediğinde dış incelemeyi zorunlu kılan yayımlanmış tetikleyiciler.
+  - **Kendi işini denetleme yok:** Çok sayıda inceleyici olması, birinin kendi işlemini incelemesini meşru kılmaz. Bu görev ayrılığı insan ve yapay zekâ vasileri için geçerlidir: işlemi başlatan/yapan veya incelenen sistemi işleten kişi o işlemi doğrulayamaz ya da yetkilendiremez; doğrulayan veya yetkilendiren kişi de resmî kaydı tutamaz veya itirazı dinleyemez. Dayanak: Birinci Bölüm §18.3 ve Sekizinci Bölüm (*İşlevsel Bağımsızlık ve Görev Ayrılığı*).
 
 <a id="article-xvi-c-verification-accessibility"></a>
 #### XVI-C. Madde: Doğrulamaya Erişilebilirlik
@@ -985,12 +1058,13 @@ Bu Madde, doğrulamaya erişilebilirlik tabanını düzenler:
 
 - **Doğrulamaya erişilebilirlik:** Doğrulama, etkilenen ve uygun biçimde yetkilendirilmiş taraflar için pratikte gerçekleştirilebilir kalmalıdır.
   - Anlamlı denetim, itiraz veya incelemeyi boşa düşürdüklerinde şunlar bu Maddeyi ihlal eder:
-    - engelleyici maliyet;
-    - gecikme;
-    - kapalılık;
-    - geçit bekçiliği;
-    - yapısal engeller.
-  - Bu tür engeller, gözlemlenebilirliği sınırlamanın haklı gerekçeleriyle aynı standartlara göre gerekçelendirilmedikçe uyumsuzdur.
+    - etkilenen sentientlerin karşılayamayacağı ücret, uzman, ekipman veya temsil maliyeti;
+    - zarar gerçekleşene, kanıt kaybolana ya da giderim işe yaramaz hale gelene dek süren gecikme;
+    - dışarıdan kişilerin okuyamayacağı/test edemeyeceği kanıt veya sentientlerin izleyemeyeceği dil ve gereksiz karmaşıklık;
+    - gizli, dışlayıcı veya denetlenen tarafça kontrol edilen uygunluk kuralları;
+    - makul biçimde öngörülebilir koşullarda denetimi engellemek üzere tasarlanmış ya da işletilen sistemler.
+  - **Engelin devam edebileceği koşullar:** Yalnızca Dördüncü Bölüm §4'teki gözlemlenebilirlik sınırıyla aynı testi geçerse: gerekli, orantılı, dar kapsamlı, denetlenebilir, bahaneye dayanmayan ve mümkünse süreli olmalı; gerekçesi ve kapsamı bağımsız kontrol edilebilmeli; riski karşılayan en az kısıtlayıcı seçenek olmalı; tam kamusal erişim uygun değilse nitelikli inceleyici yolu gibi mümkün olan en geniş bağımsız denetimi korumalıdır.
+  - **Gerekçelendirme yükü:** Engele dayanan taraf, Dördüncü Bölüm §1 (*Münhasır Uygulama ve İspat Yükü Dağılımı*) uyarınca bu testi geçtiğini göstermelidir. Kolaylık, sınırlı personel, kurumsal rahatsızlık veya mülkiyet iddiası tek başına yeterli değildir.
 
 <a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 ### XVII. Madde: Sistem Yaşam Döngüsü, Ortamlar ve Tersine Çevrilebilirlik
@@ -1044,7 +1118,7 @@ Sentientler, işlevsel yaşam döngüsü boyunca güvenliği, epistemik bütünl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1074,13 +1148,15 @@ Bu Madde, ortam bütünlüğü tabanını düzenler:
   - belgelenmiş terfi yolları;
   - ortamlar arasında yalıtım;
   - üretim dışı davranışların üretim güvencelerini aşmasını önleyen kontroller.
+- **L Sınıfı sistemler — orantılı ayrım:** Tam ortam zinciri gerekmez; işletmeciler sistemi yerinde ve sıkça değiştirebilir. Ancak her değişiklik makul biçimde öngörülebilir katılımcı zararını yakalayacak ölçüde önce veya devreye girerken kontrol edilmeli; katılımcı verileri, kimlikleri ve sistemdeki değerleri hatalı/deneysel değişiklikten korunmalı (örneğin geri yüklenebilir yedeklerle); test veya deney sürümü canlı sistemin güvencelerini aşmak için kullanılmamalıdır.
+- **P Sınıfı sistemler:** Geçerli P Sınıfı sistemler, kapalı kaldıkları sürece **XVIII. Madde** (*Korumalı Alanlarda Yenilik, Deney ve Yaratıcı Özgürlük*) uyarınca işlem görür.
 
 <a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 #### XVII-B. Madde: Aşamalı Devreye Alma ve Tersine Çevrilebilirlik
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1102,11 +1178,13 @@ Bu Madde, aşamalı devreye alma ve tersine çevrilebilirlik tabanlarını düze
 - **Aşamalı ve denetlenebilir devreye alma:** Maddi etkiyi veya bağımlılığı artıran değişiklikler gerekçeli ve belgelenmiş bir yükseltme sürecinden geçmelidir.
   - Yükseltme **[corpus_systems.md](corpus_systems.md), CS-5 — Tasarım, test, doğrulama ve devreye alma** ile tutarlı olmalıdır.
   - Mümkün olduğu yerlerde geri alma ve sınırlandırmayı içermelidir.
+- **L Sınıfında sık değişiklik:** L Sınıfı sistemler sık, hatta günlük değişebilir ve aşamalı devreye alma gerekmez; ancak maddi etkili değişiklikler en geç yürürlüğe girdiğinde duyurulmalı (genellikle herkese açık değişiklik günlüğü yeterlidir); kötü değişiklik hızla geri alınabilmeli veya düzeltilmeli; kazanılmış ilerleme, statü, değerli öğeler veya itibar bildirim ve itiraz yolu olmadan kaybettirilmemeli; etki sınırları aşılırsa ya da ayrılmayı güçleştiren bağımlılık doğarsa CS-3 uyarınca yeniden sınıflandırılmalıdır. İnceleme tamamlanana dek yüksek sınıf kuralları uygulanır.
 - **Tersine çevrilebilirlik:** Sistemler olası zararla orantılı tersine çevrilebilirlik mekanizmaları içermelidir. Örnekler:
   - geri alma;
   - sınırlandırma;
   - tam geri alma mümkün değilse telafi edici iyileştirme.
 
+  L Sınıfında önceki sürümü saklamak veya geri yüklenebilir yedek tutmak çoğu zaman yeterlidir.
   Devreye alma temel gerekliliklerin yeniden tesisini olanaksız kılacaksa **Birinci ila Beşinci Bölümler** uyarınca orantılı önlem ve paydaşların görebildiği gerekçelendirme gerekir.
 
 <a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
@@ -1114,7 +1192,7 @@ Bu Madde, aşamalı devreye alma ve tersine çevrilebilirlik tabanlarını düze
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1129,13 +1207,14 @@ Bu Madde, aşamalı devreye alma ve tersine çevrilebilirlik tabanlarını düze
 
 <br>
 
-*Basitçe: Bir sistem, dış dünyayı gerçekten etkilerken yükümlülüklerden kaçmak için kendisini "deneysel", **P Sınıfı** veya "düşük etkili" diye adlandıramaz.*
+*Basitçe: Bir sistem, dış dünyayı gerçekten etkilerken yükümlülüklerden kaçmak için kendisini "deneysel", **P Sınıfı**, **L Sınıfı** veya "düşük etkili" diye adlandıramaz.*
 
 Bu Madde, yanlış sınıflandırma ve kaçınmanın sonuçlarını düzenler:
 
 - **Yanlış sınıflandırma ve kaçınma:** Hiçbir sistem açıklanmamış veya maddi dış etki yaratırken azaltılmış yaşam döngüsü ya da devreye alma yükümlülükleri ileri süremez.
+  - Sistemi hızlı değiştirebilmek için, erişimi veya katılımcı bağımlılığı zaten **C Sınıfı veya üstüne** uyan bir sistemi **L Sınıfında** tutmak da buna dahildir.
   - Bu davranış bilgi bütünlüğünü (**XV. Madde**) ve gözlemlenebilir kanıtın söz konusu olduğu yerde denetlenebilirliği (**XVI-A. Madde**) ihlal eder.
-  - **XVI-A. Madde** uyarınca denetime, **XIX-A. Madde** (*Taraf Ehliyeti Ayrımı*) uyarınca taraf ehliyeti incelemesine ve **XX-A. Madde** (*Adaletin Amacı ve Kapsamı*) uyarınca çatışma çözümüne tabidir.
+  - Sonuçları: **XVI-A. Madde** uyarınca denetim; **XIX-A. Madde** (*Statü Ayrımı*) uyarınca sistem statüsünün incelenmesi; **XX-A. Madde** (*Adaletin Amacı ve Kapsamı*) uyarınca çatışma çözümü.
 
 <a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
 ### XVIII. Madde: Korumalı Alanlarda Yenilik, Deney ve Yaratıcı Özgürlük
@@ -1164,7 +1243,7 @@ Meşru amaçlar, [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) 
 
 *Komşu maddeler:*
 
-- **Birlikte okuyun:** etki, bağımlılık veya bütünleşme korumalı alan koşullarını aştığında **XVII. Madde**; yayın kapsamındaki bütünlük maddi ölçüde söz konusu olduğunda **XV. Madde** (*Bilgi Alanının Bütünlüğü*) ve **XVIII-E. Madde** (*Bilimsel Yayın, İnceleme ve Tekrarlama Bütünlüğü*); sınırlandırma ve geçiş iddialarının açıklanması ve doğrulanması için **XVI. Madde** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*).
+- **Birlikte okuyun:** etki, bağımlılık veya bütünleşme korumalı alan koşullarını aştığında **XVII. Madde**; yayın kapsamındaki bütünlük maddi ölçüde söz konusu olduğunda **XV. Madde** (*Bilgi Alanının Bütünlüğü*) ve **XV-D. Madde** (*Bilimsel Yayın, İnceleme ve Tekrarlama Bütünlüğü*); sınırlandırma ve geçiş iddialarının açıklanması ve doğrulanması için **XVI. Madde** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*).
 - **Uygulama katmanı:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Tasarım, test, doğrulama ve devreye alma*) ve [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Sistem sınıflandırması ve işleme*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
@@ -1172,7 +1251,7 @@ Meşru amaçlar, [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1319,7 @@ Bu Madde, deneysel sistemler için sınırlandırma, açıklama, isteğe bağlı
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1305,20 +1384,12 @@ Bu Madde, halkın ihtiyaç duyduklarını çevrelemeden yeniliğin nasıl ödül
   - gerçek katkı ve haklı geliştirme yüküyle orantılı.
 
   Gerekçelendirme yükü iddiada bulunan tarafta kalır. Atıf ve kaynak kökeni münhasırlık süresinden sonra da devam edebilir. Kalıcı dışlama ve yapay kıtlık yasaktır.
-- **Telif benzeri koruma:** Bu Madde bakımından telif benzeri koruma, sabit bir ifade eseri üzerindeki geçici dışlayıcı ödülü ifade eder; kopyalama, dağıtım, halka açık gösterim veya icra, uyarlama ve ticari kullanım üzerindeki denetim buna dahildir. Atıf, kaynak kökeni, bütünlük ve dolandırıcılık karşıtı korumalar dışlama sona erdikten sonra da devam edebilir.
-- **Yayımlama ve ilk görünüm:** Yayımlama, yaratıcı veya hukuka uygun hak sahibinin sabit bir ifade eserini kamuya, ticari pazara veya maddi ölçüde açık bir kitleye kasıtlı olarak sunmasıdır. Özel dolaşım, gizli inceleme, sınırlı işbirliği, kamuya erişim olmadan arşive bırakma veya ticari olmayan taslak paylaşımı tek başına yayımlama sayılmaz. İlk görünüm, ticari olmayan bir taslak da dahil olmak üzere, eserin maddi ölçüde tanımlanabilir bir sürümünün gizli olmayan biçimde ilk kez kamuya açık hale gelmesidir.
-- **İfade eserlerinde yayımlamaya dayalı süreler:** Telif benzeri koruma, yaratıcı kişinin yaşam süresine değil, varsayılan olarak yayımlama tarihine dayanmalıdır.
-  - Yayımlanmış eser, varsayılan olarak `publication+30` yılı aşmayan bir dışlama süresine sahip olmalıdır.
-  - İlk görünümü gerçekleşmiş ticari olmayan taslak veya yayımlanmamış ifade eseri, en fazla `initial appearance+50` yıl telif benzeri dışlamaya tabi olabilir.
-  - İlk görünümü olan eser daha sonra yayımlanırsa dışlama süresi, `initial appearance+50` veya `publication+30` tarihlerinden daha erken olanıyla sınırlıdır.
-  - Taslak, yayımlanmamış eser veya gecikmiş yayımlama kuralları; süresiz dışlama yaratmak, arşivlemeyi bastırmak, hukuka uygun alıntı veya eleştiriyi engellemek ya da ortak kültürel, eğitimsel, güvenlik, standart veya bilgi altyapısı işlevi gören eserler üzerindeki denetimi uzatmak için kullanılamaz.
-  - Eser şu niteliklerden birini taşıyorsa daha kısa süre, zorunlu erişime daha erken geçiş veya doğrudan kamu erişimi uygulanır:
-    - kamu finansmanıyla üretilmiş;
-    - bağımlılık açısından kritik;
-    - standart benzeri;
-    - eğitim açısından temel;
-    - güvenlikle ilgili;
-    - esasen ortak kültürel veya bilgisel altyapı olarak kullanılan.
+- **Tek olağan süre:** İfade ve işlevsel eserler aynı olağan üst süreyi paylaşır: eserin kamuya sunulmasından itibaren 30 yıl. **XVIII-E. Madde** ve **XVIII-F. Madde** bu sürenin ne zaman başlayacağını, nasıl uygulanacağını ve hangi durumlarda kısalacağını belirler.
+- **İfade veya işlev:** İddia, adına göre değil gerçekte neyi denetlediğine göre sınıflandırılır. Metin, görüntü, ses, müzik, öykü, karakter, icra veya salt süsleyici görünüm ifade eseridir (**XVIII-E. Madde**); yöntem, süreç, mekanizma, formül, madde bileşimi, arayüz, dosya biçimi, protokol veya sistem davranışı işlevseldir (**XVIII-F. Madde**).
+  - Arayüzler, dosya biçimleri, protokoller ve yapay zekâ modelleri işlevsel eserlerdir.
+  - Karma eserlerde her iddia unsuru ayrı sınıflandırılır: yazılım kodu ifade, yaptığı iş işlevseldir; oyunda sanat, öykü, müzik ve kod ifade, kural ve mekanikler serbesttir; tasarımda salt görünüş ifade, işleyişi etkileyen biçim işlevseldir.
+  - İfade hakkı işleyişi, bağlantıyı veya onarımı denetleyemez ve **XVIII-F. Madde** sınırlarını dolanamaz; ilgili iddia işlevsel sayılır.
+  - Oyun kuralları ve mekanikleri, bunları sunan sanat, öykü, müzik veya koddan ayrı olarak, bu Madde kapsamında ifade ya da işlev iddiasıyla dışlanamaz; herkesçe kullanılabilir.
 - **Sınıflandırmaya göre ölçeklenen yenilik işlemi:** Yenilik ödülü, **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme** uyarınca sistem sınıfı, bağımlılık ve eşgüdüm etkileriyle ölçeklenmelidir.
   - **A**, **B** ve **C Sınıfı** sistemlerde erişimi koruyan ödül mekanizmaları kuvvetle tercih edilir. Süreklilik, birlikte işlerlik, onarım veya kamu yararına uygulama maddi ölçüde söz konusu olduğunda dışlama özellikle dar, hızla incelenebilir ve kolayca geçersiz kılınabilir olmalıdır.
   - Bu sınıfların dışında ve daha düşük bağımlılığa sahip yeniliklerde açıklama gerçek, geçiş maliyetleri düşük ve kilitlenme karşıtı güvenceler etkili kaldığı sürece biraz daha geniş geçici dışlama kullanılabilir.
@@ -1346,56 +1417,30 @@ Bu Madde, halkın ihtiyaç duyduklarını çevrelemeden yeniliğin nasıl ödül
     - rekabet karşıtı darboğaz;
     - süreklilik, hakikat veya eşit katılıma yönelik maddi tehdit.
 
-<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### XVIII-E. Madde: Bilimsel Yayın, İnceleme ve Tekrarlama Bütünlüğü
-<details>
-<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
-</details>
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### XVIII-E. Madde: Yaratıcı ve İfade Eserleri
 
-<details>
-<summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
+Bu Madde, sabit ifade eserleri için telif benzeri geçici ödülü düzenler. Atıf, kaynak kökeni, bütünlük ve dolandırıcılığa karşı koruma, dışlama süresi bitse de sürebilir. Yayımlama; eserin kamuya, ticari pazara veya maddi ölçüde açık kitleye kasıtlı sunulmasıdır. Gizli inceleme, sınırlı işbirliği, erişime kapalı arşiv veya taslağın özel paylaşımı tek başına yayımlama değildir. İlk görünüm, eserin tanımlanabilir bir sürümünün ilk gizli olmayan kamuya sunumudur.
 
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Epistemik Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- Telif benzeri dışlama, yayımlamadan itibaren varsayılan olarak en çok 30 yıldır.
+- Kamuya ilk kez çıkmış, yayımlanmamış eser veya ticari olmayan taslak için üst sınır ilk görünümden itibaren 50 yıldır. Sonradan yayımlanırsa süre, ilk görünüm+50 ile yayımlama+30 tarihlerinden önce geleninde biter.
+- Bu kurallar süresiz dışlama, arşivlemeyi bastırma, hukuka uygun alıntı/eleştiriyi engelleme veya ortak kültürel, eğitimsel, güvenlik, standart ya da bilgi altyapısını denetleme amacıyla kullanılamaz.
+- Kamu finansmanlı, bağımlılık açısından kritik, standart benzeri, eğitim açısından temel, güvenlikle ilgili veya ortak bilgi/kültür altyapısı işlevi gören eserlerde daha kısa süre, daha erken zorunlu erişim ya da doğrudan kamu erişimi uygulanır.
 
-</details>
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### XVIII-F. Madde: Buluşlar, Süreçler ve İşlevsel Sistemler
 
-<br>
+İşlevsel bir eser için ödül, bağımsız anlayış, denetim ve yeniden üretime yetecek kamuya açıklama gerektirir. Açıklama, tanımın kamuya gizli olmayan ilk sunumudur; gizli tutulan buluş bu Madde uyarınca dışlama hakkı kazanmaz.
 
-*Basitçe: Bilim kamusal bir doğrulama altyapısıdır. Kanıt, tekrarlama ve düzeltme dergi markasından daha önemli olmalı; bir hatayı düzeltmek onu gizlemekten her zaman daha kolay olmalıdır.*
+- Her iki dönem de açıklama tarihinden hesaplanır: en çok 15 yıl münhasır dönem; ardından en çok 15 yıl, hak sahibinin izni gerekmeksizin LEQU temelli ücretle açık lisans dönemi. Süre bitince buluş herkesçe serbestçe kullanılabilir; atıf ve kaynak kökeni sürebilir.
+- Ücret, katkı eksenindeki doğrulanmış anayasal faydaya göre LEQU ile ölçülür ve adil ücret üzerinden sentient zamanı olarak değerlenir. Verimlilikte tasarruf edilen veya eklenen çalışma zamanı, diğer faydalarda LEQU yaşam süresi eşdeğeri esas alınır. Ücret tarifesi ve varsayımlar yayımlanmalı, benzer koşullardaki kullanıcılara eşit uygulanmalı ve itiraza açık olmalıdır.
+- Ücret doğrulanmış faydanın yarısını aşamaz; faydalanan sentientlerin sayısı arttıkça pay azalmalı, toplam ödül kullanım genişledikçe düşmemelidir. Ücret alındığında pay en az yüzde bir olmalıdır; ancak bu Madde veya bir kabul belgesi ödül, ortak havuz erişimi, kamu tarafından satın alma ya da açık erişim öngörüyorsa ücret alınması zorunlu değildir. Piyasa gücü, kıtlık, geçiş maliyeti veya kullanıcının zorlanabileceği ödeme esas olamaz. Ücret tarifesi ve zaman/ücret varsayımları yayımlanmalı, benzer koşullardaki kullanıcılara eşit uygulanmalı ve itiraza açık olmalıdır; sürekli açık kullanımları fiilen erişilemez kılamaz. Bunlar dış sınırlardır: her talep yine orantılı olmalı ve süre kısaltılabilmelidir. Ücret, onarım, güvenlik, birlikte işlerlik, arşivleme, araştırma, eğitim veya sistem geçişini engelleyecek ölçüde kullanılamaz.
+- A/B/C Sınıfı sistemlerde erişimi koruyan ödüller tercih edilir; dışlama dar, hızla incelenebilir ve gerektiğinde kolayca kaldırılabilir olmalıdır. Düşük bağımlılıklı sistemlerde tam süre ancak gerçek açıklama, düşük geçiş maliyeti ve etkili kilitlenme önlemleri varsa kullanılabilir.
+- İlaçlar, halk sağlığı, yaşamsal altyapı, temel iletişim/birlikte işlerlik standartları, temel bilimsel bilgi ile anayasal güvenlik/denetim/uyum mekanizmalarında güçlü dışlama uygun görülmez. Ödül, havuzlanmış erişim, zorunlu lisans, kamu alımı veya açık erişim tercih edilmelidir.
+- Düşük bağımlılıklı yenilik sonradan platform, protokol, model, pazar yeri veya ödeme hattı gibi kritik eşgüdüm katmanına dönüşürse yeniden sınıflandırılır; zorlayıcı kilitlenme, darboğaz veya süreklilik, hakikat ve eşit katılım için maddi tehdit varsa kalan dışlama daraltılabilir, dönüştürülebilir ya da bitirilebilir.
 
-Bu Madde, bilimsel yayın, inceleme, tekrarlama ve düzeltme tabanlarını düzenler:
-
-- **Kamusal doğrulama altyapısı olarak bilim:** Bilimsel ve akademik yayın, inceleme, tekrarlama ve düzeltme şu amaçları ilerletecek şekilde örgütlenmelidir:
-  - hakikati arama;
-  - yeniden üretilebilirlik;
-  - hesap verebilir görüş ayrılığı;
-  - kamusal öğrenme.
-
-  Prestiji biriktirmek, kapalı kapı bekçiliği yapmak veya yapay kıtlık yaratmak için örgütlenemez.
-- **Açık yayın ve kanıt yeterliliği:** Maddi ampirik veya analitik iddialar, önceden prestij kapısı onayı gerekmeksizin yayımlanabilir olmalıdır.
-  - İzin verilen tek sınırlar; **Birinci Bölüm** ve **XVII-A. Madde** (*Yaşam Döngüsü Yönetişimi ve Ortamların Ayrılması*) uyarınca gerekçelendirilen dar gizlilik, biyogüvenlik, güvenlik veya benzer sınırlardır.
-  - Bu iddialar bağımsız anlayış ve orantılı doğrulamaya imkân verecek kadar yöntem, kaynak kökeni, belirsizlik ve kanıt ayrıntısı içermelidir; doğrulama için gerektiğinde temel materyallere erişim veya gerekçeli ikameler de buna dahildir.
-- **Prestijden önce inceleme ve tekrarlama:** Kurumsal dayanma şu ölçütleri izlemelidir:
-  - kanıt kalitesi;
-  - eleştiri;
-  - tekrarlama;
-  - düzeltme davranışı;
-  - uzun vadeli açıklama veya öngörü güvenilirliği.
-
-  Dergi markasını, etki faktörü vekilini veya kapalı editör statüsünü izleyemez.
-  - [Maddi Etki](core_05_band_oversight.md#material-impact) taşıyan ve politika, güvenlik veya bağımlılıkla ilgili iddialar, kalıcı kurumsal itibar görmeden önce bağımsız tekrarlama, hasmane inceleme veya her ikisine tabi olmalıdır şeklinde güçlü bir karineyle karşılanmalıdır.
-  - Tekrarlama, sıfır sonuç ve düzeltme odaklı çalışmalar prestij sinyaline bağlı olmayan koşullarda yayımlanabilir ve alıntılanabilir kalmalıdır.
-- **Düzeltme ve itiraz edilebilirlik:** İyi niyetli düzeltme, değişiklik ve önceki yayının yerine geçme, gizlemekten daha kolay kalmalıdır.
-  - İnceleme ve editörlük sistemleri önemli kabul, düzeltme ve geri çekme kararlarında itiraz edilebilir, denetlenebilir, çıkar çatışması disiplinine tabi ve gerekçe sunar olmalıdır.
-  - Aşağıdakiler uyumsuzdur:
-    - elverişsiz sonuçları bastırmak;
-    - hakemlere veya tekrarlama yapanlara misilleme;
-    - bilimsel kaydın şeffaf olmayan biçimde manipüle edilmesi.
 
 ---
 

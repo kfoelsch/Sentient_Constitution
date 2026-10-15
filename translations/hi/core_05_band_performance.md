@@ -38,33 +38,6 @@
 
 <a id="performance-measurement-family"></a>
 
-### संवैधानिक प्रदर्शन (Preamble measurement family)
-
-*सरल शब्दों में: ये प्रश्न पूछते हैं कि क्या संवैधानिक परिणाम वास्तव में दिए जा रहे हैं, बिना संवेदनशील प्राणियों के समय, प्रयास या सामग्री को व्यर्थ किए।*
-
-*यह अध्याय पाँच में संवैधानिक प्रदर्शन मापन परिवार का स्थान है। प्रस्तावना का §2 अवलोकन तालिका में श्रेणी का सरल प्रश्न रखता है; परिवार की तालिका, संवैधानिक उपयोग और परिभाषाओं के संदर्भ यहाँ हैं।*
-
-*भौतिकता ([Materiality](core_05_band_oversight.md#materiality)) एकीकृत है, अलग मापन श्रेणी नहीं; [material stake](core_00_preamble.md#material-stake) के अनुसार परिवार के अनुप्रयोग की तीव्रता तय करती है।*
-
-| मापन परिवार | सरल प्रश्न | मुख्य संवैधानिक उपयोग |
-|---|---|---|
-| [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency) | क्या संवैधानिक परिणाम वास्तव में दिए जा रहे हैं? | प्रॉक्सी मेट्रिक्स को वास्तविक संरक्षण की जगह लेने से रोकता है। |
-| [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden) | क्या प्रणाली संवेदनशील प्राणियों का समय, प्रयास, सामग्री, अवसंरचना या ऊर्जा बर्बाद कर रही है? | अनावश्यक बाधाएँ घटाता है। |
-| [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) | क्या संवेदनशील प्राणी और प्रणालियाँ अनुकूल परिणाम उत्पन्न करते रह सकते हैं? | पारिस्थितिक बोझ दूसरी जगह डाले बिना टिकाऊ क्षमता बचाता है। |
-
-ये व्यापक माप पूछते हैं कि क्या प्रणालियाँ संवैधानिक परिणाम प्रभावी ढंग से देती हैं, निरर्थक अपव्यय से बचती हैं और अनुकूल परिणाम जारी रखने की क्षमता बनाए रखती हैं—जो [**Flourishing**](core_00_preamble.md#flourishing) और [**Continuity**](core_00_preamble.md#continuity), दोनों के लिए साधन है।
-
-- कार्यान्वयन योग्य मापन-स्तर अध्याय पाँच की परिभाषाओं में हैं: [Constitutional Efficiency](../../core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](../../core_05_band_continuity.md#avoidable-burden), [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) और [Burden-Reduction Duty](../../core_05_band_continuity.md#burden-reduction-duty) देखें।
-- प्रदर्शन लक्ष्य, पुरस्कार और संसाधन माप तभी वैध हैं जब उन्हें संवैधानिक परिणामों तक खोजा जा सके।
-- वे संवैधानिक दक्षता, [Productive Capacity](../../core_05_band_continuity.md#productive-capacity) या अधिकार-न्यूनतम अनुपालन का स्थान नहीं ले सकते।
-- जब पूरे तंत्र का प्रदर्शन महत्वपूर्ण हो, तब [Chapter Nine §3 Whole-System Certification Evaluation](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) से [§5 Rights-Floor and Domain Evaluations](../../core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) तक देखें।
-
----
-
-**पिछली फ़ाइल:** [core_05_band_participation.md](../../core_05_band_participation.md)
-
-**अगली फ़ाइल:** [core_07_charters.md](../../core_07_charters.md)
-
 <a id="measuring-constitutional-performance-preamble-measurement-family"></a>
 ### संवैधानिक प्रदर्शन मापना (प्रस्तावना मापन परिवार)
 

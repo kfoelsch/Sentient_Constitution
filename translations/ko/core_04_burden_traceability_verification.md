@@ -18,9 +18,9 @@
 
 > 이것이 사는 곳 (안내):
 > - **사원(四元) 지도:** 부담 배분, 증거, 추적 가능성, 관찰 가능성, 확인은 [전문](core_00_preamble.md#chapter-00-preamble--foundational-requirements)에서 세운 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **감독** 다리와 **책무** 다리를 시행한다; **참여**는 **3**절과 **4**절 아래의 실무 관찰 가능성과 독립 이의를 통해, 실질로 요구되는 곳에서. 요건은 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절된다.
-> - **헌법 주관자:** 부담 배분, 준수 증거, 정의 추적 가능성, 관찰 가능성, 보안 제약 확인. **제8장**은 이 장과 함께 읽는 궤적 기록과 확인된 입력 규율을 주관한다.
+> - **헌법 주관자:** 부담 배분, 준수 증거, 정의 추적 가능성, 관찰 가능성, 보안 제약 확인. **제10장**은 이 장과 함께 읽는 궤적 기록과 확인된 입력 규율을 주관한다.
 > - **시행 주관자:** 지정된 시행 파일에서의 배치, 데이터 취급, 보증 기계는 이 규칙과 일관되게 남아야 하며, 코퍼스가 이미 더 엄격한 규칙 논리를 제공하는 곳에서는 더 엄격해도 된다.
-> - **자리 옮김 금지 규칙:** 이 장은 부담, 추적, 관찰 가능성, 보안 한도, 증거만 다스린다. 제5장 정의, **제8장** 기여 또는 궤적 측정, 또는 제10장 반헌법 부당행위 기준을 다시 말하지 않는다. 확인된 비준수의 궤적으로의 라우팅은 [제3장 §3 — 비준수 소견 프로필](core_03_definition_integrity.md#3-non-compliance-finding-profiles)과 [제8장 — 기여, 위반, 궤적 모형](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)이 다스린다. **6절**은 제2장부터 제4장이 [제7장 — 체계 정합 인증](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)과 어떻게 다른지를 말한다.
+> - **자리 옮김 금지 규칙:** 이 장은 부담, 추적, 관찰 가능성, 보안 한도, 증거만 다스린다. 제5장 정의, **제10장** 기여 또는 궤적 측정, 또는 제12장 반헌법 부당행위 기준을 다시 말하지 않는다. 확인된 비준수의 궤적으로의 라우팅은 [제3장 §3 — 비준수 소견 프로필](core_03_definition_integrity.md#3-non-compliance-finding-profiles)과 [제10장 — 기여, 위반, 궤적 모형](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)이 다스린다. **6절**은 제2장부터 제4장이 [제9장 — 체계 정합 인증](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)과 어떻게 다른지를 말한다.
 
 </details>
 
@@ -157,7 +157,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제4장, 1절부터 4절](#1-exclusive-enforcement-and-burden-allocation); [제2장, §1 — 목적과 역할](core_02_definition_structure.md#1-purpose-and-role); [제2장, §2 정의 완전성 요건](core_02_definition_structure.md#2-definition-integrity-requirement); [제2장, §3 정의 스택에 걸친 일관성](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [제3장, §2.6 불확실성 완전성과 착취 금지 제약](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — 실체 정의와 비준수 규칙; **§4**는 증거 층 요건만 말하며 그 규칙을 다시 말하지 않는다.
-- 하류: [제8장 — 기여, 위반, 궤적 모형](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+- 하류: [제10장 — 기여, 위반, 궤적 모형](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - 함께 읽기: [제4장, 2절 — 정의 추적 가능성 요건](#2-definition-traceability-requirement) — 실질로 요구되는 어떤 **제5장** 정의든 불러내지 않거나 바르게 적용하지 못하면, 관련된 평가, 증거, 준수 인정을 온전히 무효로 한다; [제1장, §6 — 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); 세기 조절이 감지자 복지와 긴 지평 안정 사이의 교환에 영향을 미치는 곳에서 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); [제5장 안전(제약)](../../core_05_band_continuity.md#safety-constraint), [제5장 진실(헌법 제약)](../../core_05_band_oversight.md#truth-constitutional-constraint), [제5장 인식 완전성](../../core_05_band_oversight.md#epistemic-integrity) — 경험적, 예측적, 또는 인과적 주장에 대한 과학에 정통한 증거 정합.
 
 </details>
@@ -191,14 +191,14 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제2장 — 정의 구조와 구성 요건](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [제3장 — 정의 완전성, 회피, 비준수](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [제4장, 1절부터 5절](#1-exclusive-enforcement-and-burden-allocation).
-- 하류: [제7장 — 체계 정합 인증](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제8장 — 기여, 위반, 궤적 모형](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
-- 함께 읽기: [제7장 §6 — 재개방, 어긋남, 회피 금지](../../core_09_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) — 제2장부터 제4장 아래의 확인된 비준수는 이전 인정과 관계없이 인증을 재개방하거나 무너뜨릴 수 있다.
+- 하류: [제9장 — 체계 정합 인증](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제10장 — 기여, 위반, 궤적 모형](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- 함께 읽기: [제9장 §7 — 인증 결과](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — 제2장부터 제4장 아래의 확인된 비준수는 이전 인증과 관계없이 인증을 재개방하거나 무너뜨릴 수 있다.
 
 </details>
 
 <br>
 
-*쉬운 말로: 제2장부터 제4장은 모든 준수 주장이 충족해야 하는 규칙을 정합니다 — 정의가 무엇을 뜻하는지, 행위가 언제 그것에 실패하는지, 증명이 어떻게 보여져야 하는지. 제7장은 체계가 형식 정합 인정을 필요로 할 때 그 규칙을 쓰는, 별도의 포럼 감독 인증 과정입니다. 현재 인증은 제2장부터 제4장을 돌아가는 무임승차가 아닙니다.*
+*쉬운 말로: 제2장부터 제4장은 모든 준수 주장이 충족해야 하는 규칙을 정합니다 — 정의가 무엇을 뜻하는지, 행위가 언제 그것에 실패하는지, 증명이 어떻게 보여져야 하는지. 제9장은 체계가 형식 정합 인증을 필요로 할 때 그 규칙을 쓰는, 별도의 포럼 감독 인증 과정입니다. 현재 인증은 제2장부터 제4장을 돌아가는 무임승차가 아닙니다.*
 
 이 절은 **비운영**이다. 그것은 **층 경계**만 말한다.
 
@@ -209,12 +209,12 @@
 
 이것들은 준수가 평가될 때마다 적용된다 — 인증이 있든 없든.
 
-**[제7장 — 체계 정합 인증](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 은 실질인 곳에서 포럼 감독 **인증 과정**을 공급한다: 전체 체계 평가 영역, 인증 기록 의무, 인정 결과, 재확인 주기, 다툴 수 있음 사슬, 제8장으로의 확인된 입력 다리. 그것은 제2장부터 제4장을 **적용한다**; 그것들을 **다시 말하지 않는다**.
+**[제9장 — 체계 정합 인증](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 은 실질인 곳에서 포럼 감독 **인증 과정**을 공급한다: 전체 체계 평가 영역, 인증 기록 의무, 인증 결과, 재인증 주기, 다툴 수 있음 사슬, 제10장으로의 확인된 입력 다리. 그것은 제2장부터 제4장을 **적용한다**; 그것들을 **다시 말하지 않는다**.
 
 독자는 다음처럼 다루어서는 안 된다:
 - **인증 기록**을 제2장부터 제4장 아래의 계속되는 준수의 대체로
-- **제7장** 인정, 조건부 인정, 또는 재확인을 이 장의 증명, 추적, 또는 증거 표준을 낮추는 것으로
-- 체계가 이전에 인증되었다고 **제2장부터 제4장**을 선택으로 — 그 장들 아래의 확인된 비준수는 제7장 아래에서 인증을 재개방하거나 무너뜨릴 수 있다
+- **제9장** 인증, 조건부 인증, 또는 재인증을 이 장의 증명, 추적, 또는 증거 표준을 낮추는 것으로
+- 체계가 이전에 인증되었다고 **제2장부터 제4장**을 선택으로 — 그 장들 아래의 확인된 비준수는 제9장 아래에서 인증을 재개방하거나 무너뜨릴 수 있다
 
 ---
 

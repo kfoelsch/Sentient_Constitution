@@ -91,35 +91,6 @@
 ---
 
 <a id="timeliness-measurement-family"></a>
-
-### సకాలికత కొలత
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](../../core_05_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
-- Read with: [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-
-</details>
-
-<br>
-
-*సరళంగా చెప్పాలంటే: డ్యాష్‌బోర్డ్‌లో పని పరిమాణం కనిపిస్తోందా అన్నది కాదు; సమస్యలు నిజంగా సమయానికి ముందుకు సాగుతున్నాయా అని ఈ ప్రశ్నలు పరిశీలిస్తాయి. ఐదవ అధ్యాయంలోని సకాలికత కొలత కుటుంబానికి ఇది నిలయం; ఉపోద్ఘాతంలోని §2 (కొలతల అవలోకనం) వర్గపు సరళ ప్రశ్నను ఉంచుతుంది, కుటుంబ పట్టిక మరియు నిర్వచనాల దారి ఇక్కడ ఉన్నాయి.*
-
-*భౌతిక ప్రాధాన్యత ([Materiality](core_05_band_oversight.md#materiality)) సమగ్ర స్వభావం కలది, ప్రత్యేక కొలత వర్గం కాదు; [material stake](core_00_preamble.md#material-stake) ఆధారంగా ఈ కుటుంబం వర్తించే స్థాయిని నిర్ణయిస్తుంది.*
-
-| కొలత కుటుంబం | సరళ ప్రశ్న | ప్రధాన రాజ్యాంగ వినియోగం |
-|---|---|---|
-| [Timely Resolution](../../core_05_band_accountability.md#timely-resolution) | పరిహారం ఇంకా ప్రాముఖ్యంగా ఉన్నప్పుడే వివాదాలు పరిష్కరించబడుతున్నాయా? | ఆలస్యం హక్కులను సారరహితంగా చేయకుండా నిరోధిస్తుంది. |
-| ఆలస్య-నిరోధక మరియు పరిష్కార మార్గాల క్రమశిక్షణ | ప్రోత్సాహకాలు, నిర్మాణాలు ఉద్దేశపూర్వక పెండింగ్, స్వాధీనత, నిరర్థక గడువులను నివారిస్తున్నాయా? | ఆలస్య విధానాలు, [Capture of Resolution Pathways](../../core_05_band_accountability.md#capture-of-resolution-pathways)ను గుర్తిస్తుంది. |
-
-ప్రక్రియ గడియారాలు, పరిష్కార మార్గాలు, మరమ్మత్తు వేగం [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)లోని **సకాలికత** పాదాన్ని కాగితంపై మాత్రమే కాక ఆచరణలోనూ నిజంగా ఉంచుతున్నాయా అని ఈ కొలతలు ప్రశ్నిస్తాయి.
-
-**మునుపటి ఫైలు:** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
-
-**తదుపరి ఫైలు:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
-
 <a id="measuring-timeliness"></a>
 
 ### సమయబద్ధత కొలవడం

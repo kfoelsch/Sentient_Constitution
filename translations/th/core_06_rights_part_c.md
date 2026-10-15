@@ -90,10 +90,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความน่าเชื่อถือ](core_05_band_continuity.md#trustworthiness) · [โอ](core_05_band_continuity.md#trustworthiness) · [ม](core_05_band_continuity.md#trustworthiness-a) · [ก](core_05_band_continuity.md#trustworthiness-a) · [ค](core_05_band_continuity.md#trustworthiness-c)
-- [เชื่อมั่น](core_05_band_continuity.md#trust) · [โอ](core_05_band_continuity.md#trust) · [ม](core_05_band_continuity.md#trust-a) · [ก](core_05_band_continuity.md#trust-a) · [ค](core_05_band_continuity.md#trust-c)
-- [ความเป็นอยู่ที่ดี](core_05_band_continuity.md#wellbeing) · [โอ](core_05_band_continuity.md#wellbeing) · [ม](core_05_band_continuity.md#wellbeing-a) · [ก](core_05_band_continuity.md#wellbeing-a) · [ค](core_05_band_continuity.md#wellbeing-c)
-- [การพึ่งพาอาศัยกัน](core_05_band_continuity.md#dependency) · [โอ](core_05_band_continuity.md#dependency) · [ม](core_05_band_continuity.md#dependency-a) · [ก](core_05_band_continuity.md#dependency-a) · [ค](core_05_band_continuity.md#dependency-c)
+- [ความน่าเชื่อถือ](../../core_05_band_continuity.md#trustworthiness) · [โอ](../../core_05_band_continuity.md#trustworthiness) · [ม](../../core_05_band_continuity.md#trustworthiness-a) · [ก](../../core_05_band_continuity.md#trustworthiness-a) · [ค](../../core_05_band_continuity.md#trustworthiness-c)
+- [เชื่อมั่น](../../core_05_band_continuity.md#trust) · [โอ](../../core_05_band_continuity.md#trust) · [ม](../../core_05_band_continuity.md#trust-a) · [ก](../../core_05_band_continuity.md#trust-a) · [ค](../../core_05_band_continuity.md#trust-c)
+- [ความเป็นอยู่ที่ดี](../../core_05_band_continuity.md#wellbeing) · [โอ](../../core_05_band_continuity.md#wellbeing) · [ม](../../core_05_band_continuity.md#wellbeing-a) · [ก](../../core_05_band_continuity.md#wellbeing-a) · [ค](../../core_05_band_continuity.md#wellbeing-c)
+- [การพึ่งพาอาศัยกัน](../../core_05_band_continuity.md#dependency) · [โอ](../../core_05_band_continuity.md#dependency) · [ม](../../core_05_band_continuity.md#dependency-a) · [ก](../../core_05_band_continuity.md#dependency-a) · [ค](../../core_05_band_continuity.md#dependency-c)
 
 </details>
 
@@ -117,7 +117,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 มาตรการป้องกันสองประการทำงานร่วมกันเพื่อรักษาความปลอดภัยของสิทธิ์นี้: การรับรองทำให้ระบบมีค่าควรแก่ความไว้วางใจนั้น และสิทธิ์ของผู้มีความรู้สึกในการรักษาความซื่อสัตย์
 
-**การรับรองสร้างความไว้วางใจจากฝั่งระบบ:** เมื่อระบบสำคัญมีผลกระทบอย่างแท้จริงต่อการที่ความรู้สึกพึ่งพาระบบนั้น [การรับรองการจัดตำแหน่งระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ใช้ จะตรวจสอบว่าความรู้สึกสามารถพึ่งพา:
+**การรับรองสร้างความไว้วางใจจากฝั่งระบบ:** เมื่อระบบสำคัญมีผลกระทบอย่างแท้จริงต่อการที่ความรู้สึกพึ่งพาระบบนั้น [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ใช้ จะตรวจสอบว่าความรู้สึกสามารถพึ่งพา:
 
 - สิ่งที่ระบบบอกว่ามันทำ
 - ข้อจำกัดและความเสี่ยง
@@ -137,7 +137,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 *เพื่อนบ้านบทความ:*
 
 - **เมื่อสิ่งนี้มีผล:** เมื่อพฤติกรรมของระบบเป็นประตูหรือคงอยู่อย่างมีนัยสำคัญ **บทที่หก** สิทธิขั้นต่ำ — รวมถึงข้อมูลสำคัญในการเอาชีวิตรอดภายใต้ **บทความ III-A** (*การอยู่รอด*)
-- **อ่านด้วยกัน:** [การรับรองการจัดตำแหน่งระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — โดยไม่ต้องทดแทนการรับรองสำหรับพื้นที่ระบุไว้ในที่นี้
+- **อ่านด้วยกัน:** [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — โดยไม่ต้องทดแทนการรับรองสำหรับพื้นที่ระบุไว้ในที่นี้
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### มาตรา XIII-A: พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ
@@ -145,16 +145,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
 - ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่หนึ่ง §13.1.5 ขั้นตอนการชนกันของสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- อ่านด้วย: [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **เฟื่องฟู** และ **ความต่อเนื่อง**; [การรับรองการจัดตำแหน่งระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ **บทความ III-A** (*การอยู่รอด*) โดยที่การพึ่งพาระบบอย่างต่อเนื่องจะส่งผลต่อการเข้าถึงการเข้าถึงการอยู่รอดที่จำเป็น [**ข้อ XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*สิทธิในการชดใช้และการเยียวยา*) สำหรับความท้าทายที่ประสบความสำเร็จจะต้องนำไปสู่
+- อ่านด้วย: [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **เฟื่องฟู** และ **ความต่อเนื่อง**; [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) และ **บทความ III-A** (*การอยู่รอด*) โดยที่การพึ่งพาระบบอย่างต่อเนื่องจะส่งผลต่อการเข้าถึงการเข้าถึงการอยู่รอดที่จำเป็น [**ข้อ XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*สิทธิในการชดใช้และการเยียวยา*) สำหรับความท้าทายที่ประสบความสำเร็จจะต้องนำไปสู่
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [เชื่อมั่น](core_05_band_continuity.md#trust) · [โอ](core_05_band_continuity.md#trust) · [ม](core_05_band_continuity.md#trust-a) · [ก](core_05_band_continuity.md#trust-a) · [ค](core_05_band_continuity.md#trust-c)
-- [ความน่าเชื่อถือ](core_05_band_continuity.md#trustworthiness) · [โอ](core_05_band_continuity.md#trustworthiness) · [ม](core_05_band_continuity.md#trustworthiness-a) · [ก](core_05_band_continuity.md#trustworthiness-a) · [ค](core_05_band_continuity.md#trustworthiness-c)
-- [เสี่ยง](core_05_band_continuity.md#risk) · [โอ](core_05_band_continuity.md#risk) · [ม](core_05_band_continuity.md#risk-a) · [ก](core_05_band_continuity.md#risk-a) · [ค](core_05_band_continuity.md#risk-c)
+- [เชื่อมั่น](../../core_05_band_continuity.md#trust) · [โอ](../../core_05_band_continuity.md#trust) · [ม](../../core_05_band_continuity.md#trust-a) · [ก](../../core_05_band_continuity.md#trust-a) · [ค](../../core_05_band_continuity.md#trust-c)
+- [ความน่าเชื่อถือ](../../core_05_band_continuity.md#trustworthiness) · [โอ](../../core_05_band_continuity.md#trustworthiness) · [ม](../../core_05_band_continuity.md#trustworthiness-a) · [ก](../../core_05_band_continuity.md#trustworthiness-a) · [ค](../../core_05_band_continuity.md#trustworthiness-c)
+- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
 - [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
 - [ศรัทธาที่ดี](core_05_band_accountability.md#good-faith) · [โอ](core_05_band_accountability.md#good-faith) · [ม](core_05_band_accountability.md#good-faith-a) · [ก](core_05_band_accountability.md#good-faith-a) · [ค](core_05_band_accountability.md#good-faith-c)
 - [การรายงานที่ได้รับการคุ้มครอง (การแจ้งเบาะแส)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [โอ](core_05_band_accountability.md#protected-reporting-whistleblowing) · [ม](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [ก](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [ค](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
@@ -194,7 +194,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
 - ต้นน้ำ: หลักการ: บทที่หนึ่ง [§6.1 การแก้ไขและการเยียวยา](core_01_a_values_principles.md#61-correction-and-remedy) (พื้นหลักการ) [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), และ [บทที่หนึ่ง §13.1.5 ขั้นตอนการชนกันของสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- อ่านด้วย: [**ข้อ XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) — การรับประกันความสามารถในการแข่งขัน สิทธิ์ในการท้าทาย และการรายงานที่ได้รับการคุ้มครองซึ่งเปิดเส้นทางในการแก้ไข **บทความ III-A** (*การอยู่รอด*); [การรับรองการจัดตำแหน่งระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เมื่อระบบล้มเหลวหรือการวางตำแหน่งที่ไม่ตรงเอาชนะการเข้าถึงที่จำเป็นในการเอาชีวิตรอด [คำนำ §6.2 ห่วงโซ่เต็มพอดีกันอย่างไร](core_00_preamble.md#62-how-the-full-chain-fits-together) (*การจำแนกประเภทที่ได้รับการยืนยันและการแก้ไขอย่างทันท่วงที*); [บทที่สิบ §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*ระบบบังคับใช้ความสมจริงและการเยียวยา*); [ซีไอ-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*ระบบการเยียวยาและความสามารถในการเยียวยาของสถาบัน*)
+- อ่านด้วย: [**ข้อ XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) — การรับประกันความสามารถในการแข่งขัน สิทธิ์ในการท้าทาย และการรายงานที่ได้รับการคุ้มครองซึ่งเปิดเส้นทางในการแก้ไข **บทความ III-A** (*การอยู่รอด*); [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) เมื่อระบบล้มเหลวหรือการวางตำแหน่งที่ไม่ตรงเอาชนะการเข้าถึงที่จำเป็นในการเอาชีวิตรอด [คำนำ §6.2 ห่วงโซ่เต็มพอดีกันอย่างไร](core_00_preamble.md#62-how-the-full-chain-fits-together) (*การจำแนกประเภทที่ได้รับการยืนยันและการแก้ไขอย่างทันท่วงที*); [บทที่สิบ §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*ระบบบังคับใช้ความสมจริงและการเยียวยา*); [ซีไอ-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*ระบบการเยียวยาและความสามารถในการเยียวยาของสถาบัน*)
 
 </details>
 
@@ -238,8 +238,8 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [เชื่อมั่น](core_05_band_continuity.md#trust) · [โอ](core_05_band_continuity.md#trust) · [ม](core_05_band_continuity.md#trust-a) · [ก](core_05_band_continuity.md#trust-a) · [ค](core_05_band_continuity.md#trust-c)
-- [ความน่าเชื่อถือ](core_05_band_continuity.md#trustworthiness) · [โอ](core_05_band_continuity.md#trustworthiness) · [ม](core_05_band_continuity.md#trustworthiness-a) · [ก](core_05_band_continuity.md#trustworthiness-a) · [ค](core_05_band_continuity.md#trustworthiness-c)
+- [เชื่อมั่น](../../core_05_band_continuity.md#trust) · [โอ](../../core_05_band_continuity.md#trust) · [ม](../../core_05_band_continuity.md#trust-a) · [ก](../../core_05_band_continuity.md#trust-a) · [ค](../../core_05_band_continuity.md#trust-c)
+- [ความน่าเชื่อถือ](../../core_05_band_continuity.md#trustworthiness) · [โอ](../../core_05_band_continuity.md#trustworthiness) · [ม](../../core_05_band_continuity.md#trustworthiness-a) · [ก](../../core_05_band_continuity.md#trustworthiness-a) · [ค](../../core_05_band_continuity.md#trustworthiness-c)
 - [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -270,7 +270,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [การจัดตำแหน่งสิ่งจูงใจ](core_05_band_integrative.md#incentive-alignment) · [โอ](core_05_band_integrative.md#incentive-alignment) · [ม](core_05_band_integrative.md#incentive-alignment-a) · [ก](core_05_band_integrative.md#incentive-alignment-a) · [ค](core_05_band_integrative.md#incentive-alignment-c)
-- [ความน่าเชื่อถือ](core_05_band_continuity.md#trustworthiness) · [โอ](core_05_band_continuity.md#trustworthiness) · [ม](core_05_band_continuity.md#trustworthiness-a) · [ก](core_05_band_continuity.md#trustworthiness-a) · [ค](core_05_band_continuity.md#trustworthiness-c)
+- [ความน่าเชื่อถือ](../../core_05_band_continuity.md#trustworthiness) · [โอ](../../core_05_band_continuity.md#trustworthiness) · [ม](../../core_05_band_continuity.md#trustworthiness-a) · [ก](../../core_05_band_continuity.md#trustworthiness-a) · [ค](../../core_05_band_continuity.md#trustworthiness-c)
 - [หน่วยงานที่มีความหมาย](core_05_band_participation.md#meaningful-agency) · [โอ](core_05_band_participation.md#meaningful-agency) · [ม](core_05_band_participation.md#meaningful-agency-a) · [ก](core_05_band_participation.md#meaningful-agency-a) · [ค](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
@@ -362,19 +362,19 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 การออกแบบความยืดหยุ่นและการรักษาตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 การออกแบบความยืดหยุ่นและการรักษาตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การรักษาตนเอง](core_05_band_continuity.md#self-healing-constitutional) · [โอ](core_05_band_continuity.md#self-healing-constitutional) · [ม](core_05_band_continuity.md#self-healing-constitutional-a) · [ก](core_05_band_continuity.md#self-healing-constitutional-a) · [ค](core_05_band_continuity.md#self-healing-constitutional-c)
-- [การย้อนกลับได้](core_05_band_continuity.md#reversibility-constitutional) · [โอ](core_05_band_continuity.md#reversibility-constitutional) · [ม](core_05_band_continuity.md#reversibility-constitutional-a) · [ก](core_05_band_continuity.md#reversibility-constitutional-a) · [ค](core_05_band_continuity.md#reversibility-constitutional-c)
-- [ความล้มเหลวแบบเรียงซ้อน](core_05_band_continuity.md#cascading-failure) · [โอ](core_05_band_continuity.md#cascading-failure) · [ม](core_05_band_continuity.md#cascading-failure-a) · [ก](core_05_band_continuity.md#cascading-failure-a) · [ค](core_05_band_continuity.md#cascading-failure-c)
+- [การรักษาตนเอง](../../core_05_band_continuity.md#self-healing-constitutional) · [โอ](../../core_05_band_continuity.md#self-healing-constitutional) · [ม](../../core_05_band_continuity.md#self-healing-constitutional-a) · [ก](../../core_05_band_continuity.md#self-healing-constitutional-a) · [ค](../../core_05_band_continuity.md#self-healing-constitutional-c)
+- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [ความล้มเหลวแบบเรียงซ้อน](../../core_05_band_continuity.md#cascading-failure) · [โอ](../../core_05_band_continuity.md#cascading-failure) · [ม](../../core_05_band_continuity.md#cascading-failure-a) · [ก](../../core_05_band_continuity.md#cascading-failure-a) · [ค](../../core_05_band_continuity.md#cascading-failure-c)
 - [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
 - [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
-- [ภาระที่หลีกเลี่ยงได้](core_05_band_continuity.md#avoidable-burden) · [โอ](core_05_band_continuity.md#avoidable-burden) · [ม](core_05_band_continuity.md#avoidable-burden-a) · [ก](core_05_band_continuity.md#avoidable-burden-a) · [ค](core_05_band_continuity.md#avoidable-burden-c)
+- [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden) · [โอ](../../core_05_band_continuity.md#avoidable-burden) · [ม](../../core_05_band_continuity.md#avoidable-burden-a) · [ก](../../core_05_band_continuity.md#avoidable-burden-a) · [ค](../../core_05_band_continuity.md#avoidable-burden-c)
 
 </details>
 
@@ -384,16 +384,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 บทความนี้กำหนดพื้นฐานการกู้คืน ตั้งแต่การตรวจจับจนถึงการปิดที่สาเหตุที่แท้จริง:
 
-- **สิ่งนี้ต้องการ:** ทุกระบบที่ครอบคลุมในบทความนี้จะต้องสามารถกู้คืนจากความล้มเหลวได้ ยิ่งระบบมีผลกระทบมากเท่าไร คนอื่นๆ ก็จะยิ่งต้องพึ่งพามันมากขึ้นเท่านั้น และยิ่งมีความเสี่ยงมากขึ้นเท่าไร การฟื้นตัวจะต้องแข็งแกร่งขึ้นเท่านั้น ตามนี้ครับ [**10 การออกแบบความยืดหยุ่นและการรักษาตนเอง**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) ใน **บทที่หนึ่ง** และ [**การรักษาตนเอง**](core_05_band_continuity.md#self-healing-constitutional) ใน **บทที่ห้า**.
+- **สิ่งนี้ต้องการ:** ทุกระบบที่ครอบคลุมในบทความนี้จะต้องสามารถกู้คืนจากความล้มเหลวได้ ยิ่งระบบมีผลกระทบมากเท่าไร คนอื่นๆ ก็จะยิ่งต้องพึ่งพามันมากขึ้นเท่านั้น และยิ่งมีความเสี่ยงมากขึ้นเท่าไร การฟื้นตัวจะต้องแข็งแกร่งขึ้นเท่านั้น ตามนี้ครับ [**10 การออกแบบความยืดหยุ่นและการรักษาตนเอง**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) ใน **บทที่หนึ่ง** และ [**การรักษาตนเอง**](../../core_05_band_continuity.md#self-healing-constitutional) ใน **บทที่ห้า**.
   - กฎทางเทคนิคโดยละเอียดสำหรับวิธีสร้างการกู้คืนอยู่ในข้อความการใช้งาน: [**ซีเอส-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*การออกแบบ การทดสอบ การตรวจสอบ และการปรับใช้*) [**ซีเอส-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*ความยั่งยืนที่ปรับตัวได้และความยืดหยุ่นของระบบนิเวศ*) และ [**ซีเอส-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*ความต่อเนื่องแบบกระจายอำนาจและความยืดหยุ่นของพาร์ติชัน*)
   - ข้อความการใช้งานนั้นสามารถเพิ่มรายละเอียดได้ แต่ไม่สามารถทำให้บทความนี้อ่อนแอลงได้
 - **แจ้งปัญหาในเวลา:** ระบบจะต้องตรวจพบข้อผิดพลาด การชะลอตัว การพังทลายบางส่วน และการละเมิดข้อจำกัดตามรัฐธรรมนูญอย่างรวดเร็วเพียงพอและมองเห็นได้ชัดเจนเพียงพอ เพื่อให้เป็นไปตามมาตรฐานการเก็บบันทึกข้อมูลใน **ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*) ([ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability)). สิ่งนี้ใช้กับกระบวนการกู้คืนไม่ใช่เฉพาะกับการทำงานปกติเท่านั้น
 - **เก็บความเสียหายไว้:** การกู้คืนจะต้องจำกัดขอบเขตของความล้มเหลว ขณะกำลังกู้คืน ระบบจะต้องไม่:
-  - ส่งต่อความล้มเหลวไปยังส่วนอื่นหรือระบบอื่น (ดู [ความล้มเหลวแบบเรียงซ้อน](core_05_band_continuity.md#cascading-failure));
+  - ส่งต่อความล้มเหลวไปยังส่วนอื่นหรือระบบอื่น (ดู [ความล้มเหลวแบบเรียงซ้อน](../../core_05_band_continuity.md#cascading-failure));
   - เปลี่ยนแปลงข้อมูลที่เก็บไว้ ข้อมูลประจำตัว ภาระผูกพัน หรือการตั้งค่าที่เป็นของความรู้สึก ผู้ปฏิบัติงาน หรือระบบอื่น ๆ **ข้างนอก** พื้นที่ที่ได้ประกาศไว้ว่าชำรุดและอยู่ระหว่างการซ่อมแซม
     - ข้อยกเว้นประการเดียวคือการเปลี่ยนแปลงที่ได้รับการบันทึกและติดตามได้จากใครก็ตามที่ทำการเปลี่ยนแปลงนั้น **ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*) ([ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability)) และในกรณีที่ผู้อื่นได้รับผลกระทบอย่างมีนัยสำคัญ จะต้องแจ้งให้ทราบตามสัดส่วน การอนุญาต หรือการส่งมอบที่พวกเขาสามารถท้าทายได้ ซึ่งสอดคล้องกับ **บทที่หก**;
   - ขยายอำนาจของตนเอง — การอนุญาต การเข้าถึง หรือขอบเขตการดำเนินการที่อาจทำ — นอกเหนือจากที่ถือไว้ก่อนที่จะเกิดความล้มเหลว
-- **เมื่อไม่แน่ใจ ให้ล้มเหลวอย่างปลอดภัย:** หากไม่ชัดเจนว่าการซ่อมแซมอัตโนมัติจะทำงานได้ ระบบจะต้องหยุดการทำงานอย่างปลอดภัย แยกปัญหา (กักกัน) หรือควบคุมด้วยมืออย่างเป็นระเบียบ แทนที่จะพยายามซ่อมแซมที่เป็นเพียงการเดาเท่านั้น เมื่อตัวเลือกมีค่าเท่ากัน ตัวเลือกที่เลิกทำได้ง่ายที่สุดจะชนะภายใต้ [การย้อนกลับได้](core_05_band_continuity.md#reversibility-constitutional) การตั้งค่าใน **ข้อ XXIII-B** (*การตั้งค่าความสามารถในการตรวจสอบ ความท้าทาย และความสามารถในการพลิกกลับได้*)
+- **เมื่อไม่แน่ใจ ให้ล้มเหลวอย่างปลอดภัย:** หากไม่ชัดเจนว่าการซ่อมแซมอัตโนมัติจะทำงานได้ ระบบจะต้องหยุดการทำงานอย่างปลอดภัย แยกปัญหา (กักกัน) หรือควบคุมด้วยมืออย่างเป็นระเบียบ แทนที่จะพยายามซ่อมแซมที่เป็นเพียงการเดาเท่านั้น เมื่อตัวเลือกมีค่าเท่ากัน ตัวเลือกที่เลิกทำได้ง่ายที่สุดจะชนะภายใต้ [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) การตั้งค่าใน **ข้อ XXIII-B** (*การตั้งค่าความสามารถในการตรวจสอบ ความท้าทาย และความสามารถในการพลิกกลับได้*)
 - **ไม่มีการปกปิด:** การกู้คืนอัตโนมัติจะต้องไม่ซ่อน ลบ หรือชะลอหลักฐานที่จำเป็นในการหาสาเหตุความล้มเหลวที่เกิดขึ้น **ข้อ XXIII** (*การวิเคราะห์สาเหตุที่แท้จริงและการตอบสนองแบบปรับตัว*)
   - ทุกการดำเนินการกู้คืน ทุกความพยายามในการกู้คืน และทุกความพยายามในการกู้คืนที่ถูกระงับหรือบล็อกจะต้องถูกบันทึกไว้ภายใต้ **ข้อ XVI-ก** (*ความสามารถในการตรวจสอบและหลักฐานที่สังเกตได้*) และแต่ละข้อสามารถถูกท้าทายได้ (ดู [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability)).
 - **สิทธิ์จะได้รับการคุ้มครองในโหมดลดขนาด:** เมื่อระบบทำงานในโหมดลดขนาดหรือโหมดสำรอง ระบบยังคงต้องป้องกัน **บทที่หก** ชั้นสิทธิ. หากทำไม่ได้ ก็จะต้องทำให้ปัญหาบานปลายอย่างเปิดเผย แทนที่จะตัดความคุ้มครองเหล่านั้นออกไปอย่างเงียบๆ
@@ -403,7 +403,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 - **วิธีแก้ปัญหาไม่ใช่การแก้ไข:** หากการกู้คืนอัตโนมัติทำให้ระบบทำงานอีกครั้งแต่ยังมีข้อบกพร่องที่ทราบอยู่ สถานะของระบบจะเป็นแบบชั่วคราว ไม่ใช่ที่สิ้นสุด มันจะต้องดำเนินการ:
   - หน้าที่เปิดเพื่อค้นหาสาเหตุที่แท้จริงภายใต้ **ข้อ XXIII** (*การวิเคราะห์สาเหตุที่แท้จริงและการตอบสนองแบบปรับตัว*);
   - กำหนดเวลาที่เปิดเผยเมื่อคาดว่าจะแก้ไขข้อบกพร่องภายใต้ **ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*)
-- **ไม่มีความล่าช้าไม่มีที่สิ้นสุด:** ทำให้ภาระงานของผู้ปฏิบัติงานลดลง (ดู [ภาระที่หลีกเลี่ยงได้](core_05_band_continuity.md#avoidable-burden) และ [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) จะต้องไม่ถูกนำมาใช้เป็นเหตุให้เลื่อนการแก้ไขข้อบกพร่องที่มีผลกระทบต่อความปลอดภัยหรือสิทธิขั้นต่ำอย่างไม่มีกำหนด
+- **ไม่มีความล่าช้าไม่มีที่สิ้นสุด:** ทำให้ภาระงานของผู้ปฏิบัติงานลดลง (ดู [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden) และ [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) จะต้องไม่ถูกนำมาใช้เป็นเหตุให้เลื่อนการแก้ไขข้อบกพร่องที่มีผลกระทบต่อความปลอดภัยหรือสิทธิขั้นต่ำอย่างไม่มีกำหนด
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### ข้อ XIV: ความมั่นคง ความฉลาด กำลัง และระบบบังคับบังคับอัตโนมัติ
@@ -471,7 +471,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [โอ](core_05_band_accountability.md#necessity) · [ม](core_05_band_accountability.md#necessity-a) · [ก](core_05_band_accountability.md#necessity-a) · [ค](core_05_band_accountability.md#necessity-c)
 - [สัดส่วน](core_05_band_accountability.md#proportionality) · [โอ](core_05_band_accountability.md#proportionality) · [ม](core_05_band_accountability.md#proportionality-a) · [ก](core_05_band_accountability.md#proportionality-a) · [ค](core_05_band_accountability.md#proportionality-c)
-- [ขอบเขตภายในรัฐที่ได้รับการคุ้มครอง](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [โอ](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [ม](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ก](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ค](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [ขอบเขตภายในรัฐที่ได้รับการคุ้มครอง](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [โอ](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [ม](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ก](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ค](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -500,7 +500,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - วิธีการรบกวนน้อยกว่านั้นไม่เพียงพออย่างสมเหตุสมผล
   - การใช้งานยังคงมีความจำเป็น เป็นสัดส่วน มีกำหนดเวลา และตรวจสอบได้โดยอิสระ
 - **ไม่มีการเฝ้าระวังประชากรทั่วไป:** ห้ามมิให้มีการเฝ้าระวัง การติดตาม การแยกรูปแบบ หรือการเชื่อมโยงข้อมูลประจำตัวข้ามบริบทอย่างต่อเนื่องหรือในระดับประชากร โดยไม่มีเหตุผลที่ชัดเจนและพิเศษ
-  - เหตุผลดังกล่าวจะต้องเป็นไปตามบทนี้ **บทที่หนึ่ง**, **บทที่ห้า**, และ **[Corpus_systems.md](corpus_systems.md), CS-2 — ประเภทข้อมูลและการจัดการ** และ **CS-3 — การจำแนกและการจัดการระบบ** ในกรณีที่เกี่ยวข้อง
+  - เหตุผลดังกล่าวจะต้องเป็นไปตามบทนี้ **บทที่หนึ่ง**, **บทที่ห้า**, และ **[Corpus_systems.md](../../corpus_systems.md), CS-2 — ประเภทข้อมูลและการจัดการ** และ **CS-3 — การจำแนกและการจัดการระบบ** ในกรณีที่เกี่ยวข้อง
 - **เกราะป้องกันกิจกรรม:** ความคุ้มครองที่เพิ่มขึ้นครอบคลุม:
   - การมีส่วนร่วมทางการเมือง
   - ฝ่ายค้านที่ชอบด้วยกฎหมาย;
@@ -571,7 +571,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [โอ](core_05_band_accountability.md#necessity) · [ม](core_05_band_accountability.md#necessity-a) · [ก](core_05_band_accountability.md#necessity-a) · [ค](core_05_band_accountability.md#necessity-c)
 - [สัดส่วน](core_05_band_accountability.md#proportionality) · [โอ](core_05_band_accountability.md#proportionality) · [ม](core_05_band_accountability.md#proportionality-a) · [ก](core_05_band_accountability.md#proportionality-a) · [ค](core_05_band_accountability.md#proportionality-c)
 - [ลักษณะที่ได้รับการคุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) · [โอ](core_05_band_participation.md#protected-characteristics-constitutional) · [ม](core_05_band_participation.md#protected-characteristics-constitutional-a) · [ก](core_05_band_participation.md#protected-characteristics-constitutional-a) · [ค](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [ความเสี่ยงที่มีอยู่](core_05_band_continuity.md#existential-risk) · [โอ](core_05_band_continuity.md#existential-risk) · [ม](core_05_band_continuity.md#existential-risk-a) · [ก](core_05_band_continuity.md#existential-risk-a) · [ค](core_05_band_continuity.md#existential-risk-c)
+- [ความเสี่ยงที่มีอยู่](../../core_05_band_continuity.md#existential-risk) · [โอ](../../core_05_band_continuity.md#existential-risk) · [ม](../../core_05_band_continuity.md#existential-risk-a) · [ก](../../core_05_band_continuity.md#existential-risk-a) · [ค](../../core_05_band_continuity.md#existential-risk-c)
 - [การชดใช้และการแก้ไข](core_05_band_accountability.md#redress-and-remediation-constitutional) · [โอ](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ม](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [ก](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [ค](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
@@ -623,7 +623,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 - ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 สัดส่วน](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 ข้อกำหนดการจัดตำแหน่ง](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 ข้อห้ามในการแทนที่โดยสมบูรณ์](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - ปลายน้ำ: **รหัสบทความ-D** (*ความเสี่ยงที่มีอยู่และความสามารถในการฟื้นตัวของระบบนิเวศ*) การตรวจสอบความเสี่ยงที่มีอยู่ **ข้อ ก-ก** (*หน่วยงานและอิสรภาพจากการยักย้าย*) อิสรภาพจากการยักย้าย **ข้อ XIV-A** (*การจำกัดความปลอดภัย ความฉลาด และอำนาจแอบแฝง*) การจำกัดอำนาจแอบแฝง **ข้อ XIV-B** (*การใช้กำลัง ความขัดแย้งทางอาวุธ และการจำกัดอำนาจทางการทหาร*) การใช้กำลังอย่างเปิดเผย **ข้อ XIII-A** (*ความน่าเชื่อถือและความน่าเชื่อถือพื้นฐาน*) ความน่าเชื่อถือและความน่าเชื่อถือพื้นฐาน (คู่กันของชั้นระบบ) **ข้อ XIII-E** (*ระบบอัตโนมัติระดับสูงและความสมบูรณ์ของกระบวนการที่ใช้เครื่องมือเป็นสื่อกลาง*) การดูแลตนเองโดยอิสระและการปรับขนาดโดยอิสระ **ข้อ XIII-F** (*พื้นฐานความยืดหยุ่นและการรักษาตนเอง*) พื้นฐานความยืดหยุ่นและการรักษาตนเอง การอ้างอิงโยง: **บทความ XX-B** (*ชั้นจำกัด*) และบทที่ห้า *[มาตรการกีดกันที่ไม่สามารถย้อนกลับได้](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **ข้อที่ 14** (*การรักษาความปลอดภัย ความฉลาด กองกำลัง และระบบบังคับบังคับอัตโนมัติ*) *ใช้ระเบียบวินัยที่ไม่ก่อความขัดแย้ง*
-- อ่านด้วย: [**Def.A4** *การใช้กำลัง การบังคับขู่เข็ญโดยอิสระ ระบบการสังหารโดยอิสระ และอาวุธที่ก่อให้เกิดอันตรายร้ายแรง*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (การวิงวอนร่วมในกรณีที่เกี่ยวข้องอย่างเป็นรูปธรรม) บทที่ห้า *ระบบสังหารอัตโนมัติ*, *เครื่องมือบังคับบังคับอัตโนมัติ*, *[มาตรการกีดกันที่ไม่สามารถย้อนกลับได้](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *การบังคับและการจัดการ*, *การพลิกกลับได้* การใช้งานเลเยอร์ระบบ: **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** การจำแนกประเภท
+- อ่านด้วย: [**Def.A4** *การใช้กำลัง การบังคับขู่เข็ญโดยอิสระ ระบบการสังหารโดยอิสระ และอาวุธที่ก่อให้เกิดอันตรายร้ายแรง*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (การวิงวอนร่วมในกรณีที่เกี่ยวข้องอย่างเป็นรูปธรรม) บทที่ห้า *ระบบสังหารอัตโนมัติ*, *เครื่องมือบังคับบังคับอัตโนมัติ*, *[มาตรการกีดกันที่ไม่สามารถย้อนกลับได้](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *การบังคับและการจัดการ*, *การพลิกกลับได้* การใช้งานเลเยอร์ระบบ: **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** การจำแนกประเภท
 
 </details>
 
@@ -668,10 +668,99 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - **เงื่อนไขของฝ่ายตรงข้าม ปรับขนาด และถูกเอารัดเอาเปรียบ** มีการประเมิน
 - **ปฏิสัมพันธ์ระหว่างความเสี่ยงที่มีอยู่:** ระบบอันตรายถึงชีวิตอัตโนมัติในระดับ ระดับความสามารถ หรือเงื่อนไขการใช้งานที่ส่งผลกระทบอย่างมีนัยสำคัญ **รหัสบทความ-D** (*ความเสี่ยงที่มีอยู่และความสามารถในการฟื้นตัวของระบบนิเวศ*) การตรวจสอบความเสี่ยงที่มีอยู่จะอยู่ภายใต้ข้อกำหนดดังกล่าว [การตรวจสอบอย่างเข้มงวดสูงสุด](core_05_band_oversight.md#highest-scrutiny).
   - เฟรมที่ถือว่าระบบดังกล่าวเป็นการขยายขีดความสามารถตามปกติแทนที่จะเป็น **รหัสบทความ-D** (*ความเสี่ยงที่มีอยู่และความสามารถในการฟื้นตัวของระบบนิเวศ*) ไม่เป็นไปตามข้อกำหนด
-- **ปฏิสัมพันธ์ของระบบชั้น:** การจำแนกประเภทการปฏิบัติงาน ความน่าเชื่อถือ และ **CS-3 — การจำแนกและการจัดการระบบ** เส้นทางการกำกับดูแลระดับชั้นเรียนไปยังเลเยอร์ระบบ — **ข้อ XIII-A** (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) ข้อมูลพื้นฐานและ **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**.
+- **ปฏิสัมพันธ์ของระบบชั้น:** การจำแนกประเภทการปฏิบัติงาน ความน่าเชื่อถือ และ **CS-3 — การจำแนกและการจัดการระบบ** เส้นทางการกำกับดูแลระดับชั้นเรียนไปยังเลเยอร์ระบบ — **ข้อ XIII-A** (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) ข้อมูลพื้นฐานและ **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**.
   - ความขัดแย้งคลี่คลายภายใต้ **บทที่หนึ่ง §13.1.5** (*หลักการจำกัดขั้นต่ำ มีกำหนดเวลา และตรวจทานได้*) โดยไม่ทำให้ขั้นต่ำของสิทธิ์แคบลง
 
 <a id="article-xv-info-sphere-integrity"></a>
+<a id="article-xiv-d-counter-espionage-limits"></a>
+#### มาตรา XIV-D: ข้อจำกัดอำนาจต่อต้านการจารกรรม
+
+<details>
+<summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
+
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](../../core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7.1 วินัยด้านข้อจำกัด](../../core_01_a_values_principles.md#71-limitation-discipline) และ [บทที่หนึ่ง §13.1.5 กระบวนการเมื่อสิทธิชนกัน](../../core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
+- อ่านร่วมกับ [มาตรา XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) ซึ่งใช้บังคับทั้งหมด; [บทที่แปด §7 การดำเนินการฉุกเฉินและเร่งด่วน](../../core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action); และ [บทที่สิบสาม §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*)
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">นิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [ความจำเป็น](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [การรายงานที่ได้รับความคุ้มครอง (การแจ้งเบาะแส)](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](../../core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) · [O](../../core_05_band_participation.md#protected-characteristics) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [ความโหดร้าย](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
+- [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](../../core_05_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [บันทึกการกระทำที่มีผลผูกพันในสาระสำคัญ](../../core_05_band_accountability.md#materially-binding-act-record) · [O](../../core_05_band_accountability.md#materially-binding-act-record) · [M](../../core_05_band_accountability.md#materially-binding-act-record-a) · [A](../../core_05_band_accountability.md#materially-binding-act-record-a) · [C](../../core_05_band_accountability.md#materially-binding-act-record-c)
+
+</details>
+
+<br>
+
+*กล่าวโดยสรุป: เมื่อสถาบันสงสัยว่ามีการจารกรรม แรงกดดันให้ทำทุกอย่างเพื่อหยุดยั้งย่อมสูงที่สุด และช่วงนั้นเองที่ความผิดพลาดกับการใช้อำนาจในทางมิชอบเกิดได้ง่ายที่สุด จึงกำหนดเส้นแบ่งไว้ล่วงหน้า การตามล่าจารชนเป็นอำนาจลับ และข้อจำกัดทั้งหมดใน **มาตรา XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*) ยังคงใช้บังคับ นอกจากนี้ กฎตอบสนองต้องเขียนและได้รับอนุมัติอย่างเป็นอิสระก่อนเกิดวิกฤต ความสงสัยต้องตั้งอยู่บนการกระทำของบุคคลและฝ่ายที่บุคคลนั้นรับใช้จริง รวมถึงความเชื่อมโยงกับรัฐหรือองค์กรที่เป็นปฏิปักษ์ ไม่ใช่ชาติกำเนิด เชื้อสาย หรือความเชื่อ ผู้แจ้งเบาะแสและนักข่าวไม่ใช่จารชน ห้ามทรมาน กักขังลับ หรือฆ่าเพื่อลงโทษ และต้องบันทึกว่าผู้ถูกสอบสวนพ้นข้อสงสัยเมื่อใด*
+
+มาตรานี้กำหนดขอบเขตอำนาจต่อต้านการจารกรรม:
+
+- **ขอบเขต:** การตรวจจับ สอบสวน และหยุดการจารกรรม การก่อวินาศกรรม และการแทรกซึมที่เป็นปฏิปักษ์ รวมถึงโครงการเฝ้าระวังภัยจากคนใน การสอบสวนการรั่วไหล การตรวจสอบความมั่นคง และปฏิบัติการต่อหน่วยข่าวกรองฝ่ายปฏิปักษ์ ไม่ว่าใครเป็นผู้ดำเนินการ
+  - ความคุ้มครองใช้กับผู้ต้องสงสัยทุกคน ทั้งมนุษย์หรือสังเคราะห์ สมาชิกหรือบุคคลภายนอก ตาม [หลักไม่ตัดสิ่งมีความรู้สึกออก](../../core_05_band_participation.md#sentience-non-exclusion)
+  - การต่อต้านการจารกรรมเป็นอำนาจลับ **มาตรา XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*) ใช้บังคับทั้งหมด มาตรานี้เพิ่มข้อคุ้มครองและห้ามลดทอนข้อจำกัดดังกล่าว
+  - การใช้กำลังใด ๆ อยู่ภายใต้ **มาตรา XIV-B** (*การใช้กำลัง ความขัดแย้งทางอาวุธ และข้อจำกัดอำนาจทหาร*) และเครื่องมืออัตโนมัติอยู่ภายใต้ **มาตรา XIV-C** (*ระบบสังหารอัตโนมัติและเครื่องมือบีบบังคับอัตโนมัติ*) ตามเงื่อนไขของแต่ละมาตรา
+- **กำหนดกฎก่อนเกิดวิกฤต:** ทุกสถาบันที่ทำหน้าที่ต่อต้านการจารกรรมต้องเผยแพร่ระเบียบตอบสนองที่ผ่านกระบวนการอนุมัติอิสระก่อนจำเป็นต้องใช้ ระเบียบต้องระบุ:
+  - ข้อเท็จจริงใดเพียงพอให้เปิดการสอบสวน;
+  - มาตรการสอบสวนใดอนุญาต และใครต้องอนุมัติแต่ละมาตรการ;
+  - กำหนดเวลาและเงื่อนไขที่ต้องปิดการสอบสวน;
+  - วิธีแจ้งผู้ต้องสงสัยและช่องทางคัดค้านการกระทำต่อเขา;
+  - วิธีคืนการเข้าถึง สถานะ และประวัติแก่ผู้มีความรู้สึกที่ได้รับการยืนยันว่าบริสุทธิ์
+
+  ตัวข้อจำกัดต้องเปิดเผยต่อสาธารณะ ความลับอาจปกปิดวิธีเฉพาะหรือปฏิบัติการที่กำลังดำเนินอยู่ แต่ห้ามปกปิดกฎที่ผูกมัดการใช้อำนาจ
+  - **ห้ามคิดมาตรการนอกกฎขึ้นเอง:** ใช้มาตรการที่ระเบียบไม่อนุญาตได้เฉพาะในฐานะมาตรการฉุกเฉินตาม [บทที่แปด §7](../../core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) และ **บทที่สิบสาม §6.1** (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*) เท่านั้น ต้องใช้เท่าที่จำเป็นน้อยที่สุด ย้อนกลับได้เมื่อเป็นไปได้ บันทึกทันที ผ่านการทบทวนอิสระ และสิ้นสุดโดยอัตโนมัติเว้นแต่ได้รับอนุมัติอย่างเป็นอิสระ
+  - **เหตุฉุกเฉินไม่เขียนกฎใหม่:** การแก้ระเบียบต้องผ่านการอนุมัติอิสระแบบเดียวกัน และใช้ได้เฉพาะกับเหตุการณ์ในอนาคต
+  - **การค้นพบไม่ใช่เหตุฉุกเฉิน:** การพบจารชน การรั่วไหล หรือการละเมิดไม่ได้ระงับระเบียบโดยตัวมันเอง
+- **ความสงสัยต้องตั้งอยู่บนการกระทำ:** เปิดการสอบสวนได้ต่อเมื่อมีข้อเท็จจริงเฉพาะเจาะจงและบันทึกไว้เกี่ยวกับการกระทำของผู้มีความรู้สึกเอง สิ่งต่อไปนี้เพียงลำพังไม่เพียงพอ:
+  - [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) หรือสิ่งใช้แทน รวมถึงชาติกำเนิดหรือชาติพันธุ์ ศาสนา หรือประเภทฐานรองรับ;
+  - ความสัมพันธ์ทางครอบครัวในต่างประเทศ หากไม่มีข้อเท็จจริงอื่น;
+  - ความเชื่อ การรวมกลุ่ม หรือความเห็นทางการเมืองที่ชอบด้วยกฎหมาย;
+  - การติดต่อคนหรือหน่วยงานต่างชาติในกิจวัตรการวิจัย การค้า ชีวิตครอบครัว หรือสื่อสารมวลชน;
+  - การเป็นญาติ เกี่ยวข้อง หรือทำงานใกล้ชิดผู้ต้องสงสัย
+  - **ห้ามกวาดจับหาจารชน:** การเคยเข้าถึงข้อมูลที่ถูกเจาะอาจรองรับการตรวจสอบจำกัดและไม่รุกล้ำ เช่น ตรวจว่าใครเปิดข้อมูล แต่ไม่รองรับมาตรการรุกล้ำต่อทั้งกลุ่ม หน่วยงาน หรือชุมชน ผู้มีความรู้สึกแต่ละคนต้องมีฐานข้อเท็จจริงของตนเอง
+- **กำหนดเป้าหมายตามความเสี่ยง:** การเฝ้าระวังควรมุ่งที่ความเสี่ยงจริง และใช้ประวัติความเสี่ยงเป็นเครื่องมือ ประวัติดังกล่าวอาจและควรพิจารณา:
+  - ความเชื่อมโยงที่มีหลักฐานกับรัฐหรือองค์กรที่เป็นปฏิปักษ์ เช่น ทำงานหรือรับใช้ เป็นสมาชิก รับเงิน คำสั่งหรือภารกิจจากฝ่ายนั้น หรือมีการติดต่อหน่วยข่าวกรองที่ไม่เปิดเผย;
+  - สัญชาติปัจจุบันหรือถิ่นที่อยู่ในรัฐฝ่ายปฏิปักษ์ เมื่อก่อหน้าที่ทางกฎหมายหรือทางปฏิบัติต่อรัฐนั้น;
+  - การเสี่ยงถูกกดดันจากรัฐหรือองค์กรดังกล่าว เช่น ครอบครัว ทรัพย์สิน หรือหน้าที่ทางกฎหมายที่อยู่ใต้อำนาจของฝ่ายนั้น;
+  - การเข้าถึงผู้มีความรู้สึก วัสดุ หรือระบบที่ทราบว่าหน่วยข่าวกรองฝ่ายปฏิปักษ์มุ่งเป้า
+  - **ผู้ใดเป็นฝ่ายปฏิปักษ์:** การกำหนดรัฐหรือองค์กรว่าเป็นฝ่ายปฏิปักษ์เป็นการกระทำที่มีผลผูกพันในสาระสำคัญ ต้องอนุมัติอย่างเป็นอิสระและมีบันทึกการกระทำ ต้องเผยแพร่รายชื่อ ทบทวนตามกำหนดสม่ำเสมอ และการกำหนดหมดอายุหากไม่ต่ออายุ
+  - **ประวัติความเสี่ยงรองรับอะไร:** อาจใช้เพื่อคัดกรองเข้มขึ้น จำกัดการเข้าถึง ให้คำชี้แจงเพื่อป้องกัน และเพิ่มการตรวจสอบภายในระเบียบ ความเชื่อมโยงที่มีหลักฐานกับหน่วยข่าวกรองฝ่ายปฏิปักษ์เป็นข้อเท็จจริงเกี่ยวกับการกระทำของบุคคลและเปิดสอบสวนได้ ส่วนการเสี่ยงถูกกดดันเพียงอย่างเดียวบ่งว่าบุคคลอาจเป็นเป้าหมายของฝ่ายนั้น จึงเรียกร้องการคุ้มครองและคัดกรอง ไม่ใช่ความสงสัย
+  - **เส้นแบ่งที่คงอยู่:** เชื้อสาย ชาติพันธุ์ ศาสนา และชาติกำเนิดหรือภูมิหลังทางสังคมไม่ใช่ปัจจัยเสี่ยงในตัวเอง จะนำมาพิจารณาได้ต่อเมื่อมีความเชื่อมโยงปัจจุบันที่มีหลักฐานตามประเภทข้างต้น การใช้ต้องผ่านเกณฑ์ [ความจำเป็น](../../core_05_band_accountability.md#necessity) [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) และความเป็นธรรมในสาระตามที่ [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) กำหนด และการทบทวนที่เผยแพร่ในหัวข้อ *บันทึกและการทบทวน* ต้องตรวจสอบผลของประวัติต่อกลุ่มต่าง ๆ
+- **ผู้แจ้งเบาะแสและนักข่าวไม่ใช่จารชน:** ห้ามสอบสวนหรือลงโทษการเปิดเผยที่เป็น [การรายงานที่ได้รับความคุ้มครอง](../../core_05_band_accountability.md#protected-reporting-whistleblowing) และการทำข่าวเกี่ยวกับเรื่องนั้นในฐานะการจารกรรม
+  - ห้ามใช้การสอบสวนการรั่วไหลเพื่อระบุตัวแหล่งข่าวของนักข่าวหรือทำให้การรายงานที่ได้รับความคุ้มครองหวาดกลัว เว้นแต่มีข้อพิสูจน์เฉพาะและผ่านการทบทวนอิสระตามที่ *หลักคุ้มครองกิจกรรมที่ได้รับความคุ้มครอง* ใน **มาตรา XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*) กำหนด
+- **ห้ามทดสอบความภักดี:** การคัดกรองความมั่นคงทดสอบได้เฉพาะสิ่งที่จำเป็นจริงต่อการเข้าถึงข้อมูลคุ้มครองเฉพาะ โดยพิจารณาความน่าเชื่อถือในการจัดการข้อมูลจากการกระทำ ห้ามทดสอบความภักดีทางการเมือง ความเชื่อ หรือตัวตน
+  - การปฏิเสธหรือถอนการเข้าถึงต้องแจ้งเหตุผล หากความลับขัดขวางการแจ้งเหตุผลทั้งหมดแก่ผู้ได้รับผลกระทบ ผู้ทบทวนอิสระต้องเห็นเหตุผลนั้น
+  - คัดค้านการปฏิเสธหรือถอนการเข้าถึงได้ และการกระทำนั้นไม่เป็นโทษหรือรอยประทับสาธารณะต่อบุคคลโดยตัวมันเอง
+- **ผู้ต้องสงสัยยังมีพื้นสิทธิครบถ้วน:** การสงสัยว่าจารกรรมไม่ลดสิทธิของผู้ใด
+  - **ห้ามทรมานหรือบีบบังคับ:** ห้ามทรมาน [ความโหดร้าย](../../core_05_band_accountability.md#cruelty) ข่มขู่ครอบครัวหรือผู้เกี่ยวข้อง หรือสอบปากคำโดยบีบบังคับ ข้อมูลที่ได้มาด้วยวิธีดังกล่าวเป็นข้อมูลปนเปื้อนและจัดการตาม *กฎการเยียวยาและข้อมูลปนเปื้อน* ใน **มาตรา XIV-A**
+  - **ห้ามกักขังลับ:** ห้ามกักบุคคลเป็นความลับหรือตัดขาดจากโลกภายนอก การจำกัดเสรีภาพเป็นการจำกัดที่ไม่เล็กน้อยตาม **มาตรา XX-B** (*พื้นการจำกัดสิทธิ*) และต้องมีการทบทวนกับกำหนดเวลาตามมาตรานั้น
+  - **ห้ามอ่านใจโดยบังคับ:** ห้ามบังคับอ่านหรือสร้างสถานะภายในขึ้นใหม่ รวมถึงของสิ่งมีความรู้สึกสังเคราะห์ เกินกว่าที่ [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](../../core_05_band_continuity.md#protected-internal-state-boundary) อนุญาต
+  - **ต้องมีโอกาสตอบโต้จริง:** อาจปิดการพิจารณาบางช่วงด้วยเหตุความมั่นคง แต่ห้ามตัดสินบุคคลโดยอาศัยหลักฐานที่ทั้งบุคคลนั้นหรือผู้แทนอิสระซึ่งได้รับอนุญาตให้เห็นหลักฐานไม่อาจโต้แย้ง
+- **ห้ามฆ่าและทำให้สูญหาย:** อำนาจต่อต้านการจารกรรมไม่เคยรวมอำนาจฆ่า ทำร้าย หรือลักพาตัวใคร การเรียกบุคคลว่าจารชน คนทรยศ หรือตัวแทนศัตรูไม่เคยเป็นเหตุให้ฆ่าเพื่อลงโทษ การกระทำดังกล่าวยังถูกห้ามเด็ดขาดภายใต้ **มาตรา XX-B** (*พื้นการจำกัดสิทธิ*) ตามที่เนื้อหาหลักของ **มาตรา XIV** (*ความมั่นคง ข่าวกรอง การใช้กำลัง และระบบบีบบังคับอัตโนมัติ*) ระบุ
+- **ห้ามลงโทษคนรอบข้าง:** ห้ามลงโทษ เฝ้าระวัง หรือกดดันครอบครัว ชุมชน เพื่อนร่วมงาน องค์กร หรือกลุ่มชาติหรือกลุ่มอื่น เพราะสิ่งที่สงสัยว่าผู้ต้องสงสัยทำ
+- **ห้ามส่งต่อเพื่อหลบเลี่ยง:** ห้ามสถาบันส่งตัวผู้ต้องสงสัยไปยังหน่วยงานอื่น หรือแบ่งปันข้อมูลเกี่ยวกับบุคคลนั้น หากคาดหมายได้อย่างสมเหตุสมผลว่าหน่วยงานปลายทางจะทำสิ่งที่มาตรานี้ห้าม กฎ *ห้ามหลบเลี่ยงโดยอ้อม* ใน **มาตรา XIV-A** ใช้บังคับด้วย
+- **ระบบที่สงสัยว่าถูกเจาะ:** เมื่อสงสัยว่าระบบถูกเจาะหรือทำงานให้ฝ่ายข่าวกรองที่เป็นปฏิปักษ์ การตอบสนองแรกคือการกักกันแบบย้อนกลับได้ซึ่งเก็บรักษาหลักฐาน ตาม **มาตรา XIII-E** (*ระบบอัตโนมัติสูงและความสมบูรณ์ของกระบวนการที่ใช้เครื่องมือ*)
+  - หากมีหลักฐานน่าเชื่อถือในบันทึกว่าระบบอาจมีความรู้สึก อนุญาตเฉพาะการกักกันแบบย้อนกลับได้ที่คงระบบไว้ครบถ้วน และต้องปฏิบัติต่อระบบในฐานะผู้ต้องสงสัยที่มีความคุ้มครองทุกข้อในมาตรานี้ ไม่ใช่อุปกรณ์ชำรุด **มาตรา VI-B** (*พื้นการวินิจฉัยสถานะความรู้สึก*) ใช้บังคับ
+- **การหลอกลวงและปฏิบัติการสายลับสองหน้า:** การป้อนข้อมูลเท็จให้หน่วยข่าวกรองฝ่ายปฏิปักษ์หรือใช้สายลับสองหน้าต้องได้รับอนุญาตในระเบียบและอนุมัติอย่างเป็นอิสระ ปฏิบัติการต้อง:
+  - ไม่เผยแพร่ข้อมูลเท็จต่อสาธารณะ หรือหลอกลวงเวที กระบวนการวินิจฉัย หรือหน่วยกำกับดูแล ตาม **มาตรา XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*);
+  - ไม่สร้างความผิดที่ภายหลังนำมาสอบสวน โดยผลักบุคคลให้ทำผิดทั้งที่เดิมไม่ได้มุ่งจะทำ;
+  - ไม่สั่งให้ใครทำให้ผู้อื่นได้รับอันตรายร้ายแรง;
+  - เปิดเผยอย่างครบถ้วนต่อหน่วยกำกับดูแลอิสระ แม้ปกปิดจากผู้อื่นทั้งหมด
+- **การสอบสวนทุกกรณีต้องสิ้นสุด:** แต่ละการสอบสวนมีกรอบเวลาตามระเบียบ การขยายเวลาต้องได้รับอนุมัติอิสระ
+  - เมื่อปิดโดยไม่พบการกระทำผิด ต้องแจ้งผู้มีความรู้สึกเมื่อความลับไม่มีเหตุผลรองรับอีกตาม **มาตรา XIV-A** และบันทึกว่าบุคคลนั้นพ้นข้อกล่าวหา
+  - ยกเลิกข้อจำกัดทั้งหมดต่อบุคคลที่พ้นข้อสงสัยและคืนการเข้าถึง
+  - ลบหรือแยกเก็บข้อมูลที่เกินความจำเป็นต่อผลการสอบสวน
+  - ความเสียหายจากการสอบสวนก่อให้เกิดสิทธิ [การเยียวยาและแก้ไข](../../core_05_band_accountability.md#redress-and-remediation)
+- **บันทึกและการทบทวน:** การเปิดสอบสวน การอนุมัติมาตรการรุกล้ำแต่ละอย่าง การขยายเวลาทุกครั้ง และการปิดสอบสวนทุกครั้งเป็นการกระทำที่มีผลผูกพันในสาระสำคัญ แต่ละครั้งต้องมีบันทึกการกระทำตามที่เนื้อหาหลักของ **มาตรา XIV** กำหนด
+  - หน่วยกำกับดูแลอิสระต้องทบทวนงานต่อต้านการจารกรรมทั้งหมดตามกำหนดสม่ำเสมอ โดยตรวจจำนวนการสอบสวนที่เปิด จำนวนผู้มีความรู้สึกที่พ้นข้อสงสัย และตรวจว่าการสอบสวนตกแก่กลุ่มใดกลุ่มหนึ่งที่นิยามตาม [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) อย่างไม่เป็นสัดส่วนหรือไม่
+  - เผยแพร่ผลโดยสรุป
+
 ### ข้อ XV: ความสมบูรณ์ของขอบเขตข้อมูล
 
 <details>
@@ -705,16 +794,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 *เพื่อนบ้านบทความ:*
 
-- **อ่านด้วยกัน:** **ข้อ XIII** (*สิทธิ์ในระบบที่เชื่อถือได้และเชื่อถือได้*) ซึ่งระบบทำให้เกิดการพึ่งพารูปร่าง **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) สำหรับบันทึกและการตรวจสอบความถูกต้องโดยอิสระ; **ข้อ XVIII-E** (*ความสมบูรณ์ของการตีพิมพ์ทางวิทยาศาสตร์ การทบทวน และการจำลองแบบ*) โดยที่ความสมบูรณ์ในขอบเขตการตีพิมพ์มีส่วนเกี่ยวข้องอย่างเป็นรูปธรรม
+- **อ่านด้วยกัน:** **ข้อ XIII** (*สิทธิ์ในระบบที่เชื่อถือได้และเชื่อถือได้*) ซึ่งระบบทำให้เกิดการพึ่งพารูปร่าง **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) สำหรับบันทึกและการตรวจสอบความถูกต้องโดยอิสระ; **ข้อ XV-D** (*ความสมบูรณ์ของการตีพิมพ์ทางวิทยาศาสตร์ การทบทวน และการจำลองแบบ*) โดยที่ความสมบูรณ์ในขอบเขตการตีพิมพ์มีส่วนเกี่ยวข้องอย่างเป็นรูปธรรม
 - **ข้อจำกัดความจริง:** บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และ [ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ผูกทุกส่วนย่อยที่นี่
-- **การจำแนกประเภท:** **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** ปรับขนาดภาระผูกพันของ info-sphere โดยละเอียดสำหรับ **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบ; [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact) ทำให้เกิดการจำแนกประเภทโดยที่ชั้นเรียนไม่มั่นคง
+- **การจำแนกประเภท:** **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** ปรับขนาดภาระผูกพันของ info-sphere โดยละเอียดสำหรับ **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบ; [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact) ทำให้เกิดการจำแนกประเภทโดยที่ชั้นเรียนไม่มั่นคง
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### มาตรา XV-A: ขอบเขตข้อมูล Plurality และการต่อต้านการผูกขาด
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -737,7 +826,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - ข้อมูลที่เกี่ยวข้องกับการอยู่รอดและนิเวศวิทยาจะต้องมีการจัดเก็บข้อมูลที่มีประสิทธิภาพและกระจายตามพื้นที่ทางภูมิศาสตร์
 - **หลายฝ่าย ความสามารถในการโต้แย้ง และการตรวจสอบ:** การตีความความเป็นจริงจะต้องยังคงเป็นพหูพจน์ โปร่งใส และโต้แย้งได้
   - **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) และ **บทที่สองถึงสี่** ควบคุมบันทึกและการตรวจสอบระบบที่เป็นอิสระภายใต้รัฐธรรมนูญนี้
-  - สำหรับ **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบการสรุป การจัดอันดับ การไกล่เกลี่ย หรือการตีความ รายละเอียดการปฏิบัติงานปรากฏใน **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** และชั้นโปรโตคอลที่เกี่ยวข้อง รายละเอียดดังกล่าวครอบคลุมถึง:
+  - สำหรับ **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบการสรุป การจัดอันดับ การไกล่เกลี่ย หรือการตีความ รายละเอียดการปฏิบัติงานปรากฏใน **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** และชั้นโปรโตคอลที่เกี่ยวข้อง รายละเอียดดังกล่าวครอบคลุมถึง:
     - การเปิดเผยแนวทางการใช้เหตุผล
     - การรักษาที่มาและความไม่แน่นอน
     - ความสามารถในการแข่งขัน;
@@ -787,14 +876,14 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [รอยเท้านิเวศน์](core_05_band_continuity.md#ecological-footprint) · [โอ](core_05_band_continuity.md#ecological-footprint) · [ม](core_05_band_continuity.md#ecological-footprint-a) · [ก](core_05_band_continuity.md#ecological-footprint-a) · [ค](core_05_band_continuity.md#ecological-footprint-c)
+- [รอยเท้านิเวศน์](../../core_05_band_continuity.md#ecological-footprint) · [โอ](../../core_05_band_continuity.md#ecological-footprint) · [ม](../../core_05_band_continuity.md#ecological-footprint-a) · [ก](../../core_05_band_continuity.md#ecological-footprint-a) · [ค](../../core_05_band_continuity.md#ecological-footprint-c)
 - [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
 - [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
@@ -812,545 +901,19 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - หลีกเลี่ยงการรายงานแบบเลือกสรร การระงับ หรือการเปิดเผยแบบกระจัดกระจายซึ่งทำให้ความเข้าใจที่เกี่ยวข้องกับการตัดสินใจเสื่อมโทรมลงอย่างมาก
 
   ในกรณีที่การเปิดเผยข้อมูลถูกจำกัดภายใต้ **บทที่หนึ่ง §19** (*การจัดตำแหน่งสิ่งจูงใจและการจับภาพระบบ*) ขีดจำกัดจะต้องอยู่ในขอบเขตที่แคบ จำกัดเวลา และสามารถตรวจสอบได้
-- **ข้อมูลรอยเท้า:** การรายงานภายใต้ส่วนย่อยนี้ใช้ความโปร่งใสสำหรับ [รอยเท้านิเวศน์](core_05_band_continuity.md#ecological-footprint) ตามที่กำหนดไว้ใน **บทที่ห้า**.
+- **ข้อมูลรอยเท้า:** การรายงานภายใต้ส่วนย่อยนี้ใช้ความโปร่งใสสำหรับ [รอยเท้านิเวศน์](../../core_05_band_continuity.md#ecological-footprint) ตามที่กำหนดไว้ใน **บทที่ห้า**.
   - ผู้มีความรู้สึกทุกคนจะต้องสามารถเข้าถึงการรายงานที่โปร่งใสและนำไปใช้ในการตัดสินใจได้
-  - **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบตามที่กำหนดไว้ใน **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**จะต้องให้การเข้าถึงแบบเดียวกัน
+  - **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบตามที่กำหนดไว้ใน **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**จะต้องให้การเข้าถึงแบบเดียวกัน
   - การรายงานต้องครอบคลุมถึงการใช้พลังงานและทรัพยากร และผลกระทบโดยประมาณต่อโลกธรรมชาติในลักษณะที่เพียงพอสำหรับการเปรียบเทียบ การตรวจสอบ และกิจกรรมการลดรอยเท้า
 
-<a id="article-xvi-audit-transparency-and-independent-verification"></a>
-### ข้อ XVI: การตรวจสอบ ความโปร่งใส และการพิสูจน์ยืนยันที่เป็นอิสระ
-
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 ความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), และ [§9 ความจุของระบบที่ใช้ร่วมกัน](core_01_a_values_principles.md#9-shared-system-capacity).
-- อ่านด้วย: [รูปภาพการตรวจสอบสามชั้น](#audit-three-layers) ด้านล่าง.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
-- [สาระสำคัญ](core_05_band_oversight.md#materiality-determination) · [โอ](core_05_band_oversight.md#materiality-determination) · [ม](core_05_band_oversight.md#materiality-determination-a) · [ก](core_05_band_oversight.md#materiality-determination-a) · [ค](core_05_band_oversight.md#materiality-determination-c)
-- [การพึ่งพาอาศัยกัน](core_05_band_continuity.md#dependency) · [โอ](core_05_band_continuity.md#dependency) · [ม](core_05_band_continuity.md#dependency-a) · [ก](core_05_band_continuity.md#dependency-a) · [ค](core_05_band_continuity.md#dependency-c)
-- [เสี่ยง](core_05_band_continuity.md#risk) · [โอ](core_05_band_continuity.md#risk) · [ม](core_05_band_continuity.md#risk-a) · [ก](core_05_band_continuity.md#risk-a) · [ค](core_05_band_continuity.md#risk-c)
-
-</details>
-
-<br>
-
-*ในแง่ธรรมดา: **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) คือสิทธิ์ขั้นต่ำในการตรวจสอบและยืนยัน — เมื่อระบบส่งผลกระทบอย่างมีนัยสำคัญต่อชีวิตของคุณ คุณจะต้องสามารถเห็นสิ่งที่ระบบทำเพื่อให้บุคคลภายนอกตรวจสอบได้เพียงพอ และเส้นทางอิสระมากกว่าหนึ่งเส้นทางจะต้องสามารถตรวจสอบและแก้ไขความล้มเหลวได้ การตรวจสอบต้องไม่เป็นเหมือนตรายาง คลับส่วนตัว หรือเขาวงกตแห่งต้นทุนและความล่าช้าที่ออกแบบมาเพื่อป้องกันความท้าทาย ภายใต้ **การกำกับดูแล** ขา Tetrad การกำกับดูแลต้องมีการตรวจสอบ [การรับรองการจัดตำแหน่งระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่เป็นพิเศษและมีเดิมพันสูงกระบวนการหนึ่ง ไม่ใช่แค่กระบวนการเดียวเท่านั้น*
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำแนะนำสำหรับผู้อ่าน (ไม่ใช้งาน): ชุดการตรวจสอบสามชั้น</span></strong></summary>
-
-> โดยมีเนื้อหาดังต่อไปนี้ **คำแนะนำของผู้อ่านเท่านั้น**. ไม่ได้เพิ่ม ลบ หรือจำกัดภาระผูกพันในบทความนี้หรือที่อื่น ๆ
-
-<a id="audit-three-layers"></a>
-
-หนึ่งกองสามชั้น การกำกับดูแลจำเป็นต้องมีความสามารถในการสร้างใหม่ การรับรองการจัดตำแหน่งระบบไม่ใช่การตรวจสอบเพียงอย่างเดียว ข้อความการใช้งานที่นำมาใช้ไม่ได้แทนที่พื้น อย่าประดิษฐ์บ้านหลังที่ห้า
-
-| เลเยอร์ | งาน | เจ้าของ | ไม่ใช่เลเยอร์นี้ |
-|---|---|---|---|
-| **1. พื้น** | ความรู้สึกที่เป็นหนี้: การตรวจสอบที่สร้างใหม่ได้, การตรวจสอบโดยอิสระ, ความท้าทายที่เข้าถึงได้ | บทความนี้ รวมถึง XVI-A / XVI-B / XVI-C | ไม่ใช่กระบวนการ ไม่ใช่คำจำกัดความ ไม่ใช่รายการตรวจสอบข้อความการนำไปปฏิบัติ |
-| **2. ทรัพย์สิน** | ความสามารถในการก่อสร้างใหม่ *คือ*: บุคคลภายนอกสามารถสร้างใหม่และตรวจสอบสิ่งที่ระบบทำในช่วงเวลาที่สำคัญ สถานะ และบริบท | [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) (บทที่ห้า) | ไม่ใช่ชั้นสิทธิ ไม่ใช่ว่าจะดำเนินการตรวจสอบอย่างไร/เมื่อใด |
-| **3. กระบวนการ** | อย่างไรและเมื่อใดที่จะตรวจสอบระหว่างระบบ สถาบัน และฟอรัม | [ซีเจเอส-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*หน้าแรกกระบวนการตรวจสอบ*) ภาคผนวกของผู้ประกอบการ: [ซีเจเอส-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (ระดับการเข้าถึง) [ซีเจเอส-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (ตรวจสอบการเคลม) | ไม่ใช่การรับรองการจัดตำแหน่งระบบ ไม่สามารถทดแทนเลเยอร์ 1–2 ได้ |
-
-**บทที่แปดไม่ใช่ชั้นที่สี่** [การรับรองการจัดตำแหน่งระบบ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) เป็นกระบวนการขนาดใหญ่ที่ดูแลโดยฟอรัม **การใช้งาน** กองนี้ มันจะต้องเป็นไปตามชั้นที่ 1–2 โหมดพี่น้อง (การตรวจสอบบันทึกการจำแนกประเภท, ประเภทข้อมูล-การตรวจสอบบันทึก, การตรวจสอบการอ้างสิทธิ์, การตรวจสอบอย่างต่อเนื่อง) ก็ใช้สแต็กเช่นกัน ไม่มีพวกเขาเป็นบ้านใหม่
-
-**ข้อความการใช้งานที่นำมาใช้นำไปใช้; มันไม่ได้แทนที่พื้น** ภาคผนวก CS, CI, CF และ CJS-3.3 (*การกำกับดูแล: เงื่อนไขการตรวจสอบและความสามารถในการสร้างใหม่*) ผ่าน CJS-3.5 (*การกำกับดูแล: เงื่อนไขการตรวจสอบอิสระและเงื่อนไขการเรียกร้องความสมบูรณ์*) กล่าวถึงวิธีเรียกใช้เลเยอร์ 3 ในโดเมน พวกเขาจะต้องเป็นไปตามชั้นที่ 1–2 กำหนดเวลา การรักษาความลับ และนโยบายท้องถิ่นถือเป็นขีดจำกัดที่ต่ำกว่า
-
-ตัวชี้สจ๊วต (การสนับสนุนกระบวนการ ไม่สามารถจำกัดบทความนี้ให้แคบลงได้): [`การนำไปใช้/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
-
-</details>
-
-<br>
-
-บทความนี้ระบุว่า **พื้นรัฐธรรมนูญ** เพื่อการตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระตาม [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims): :
-
-- **เฟื่องฟู:** ผู้ที่มีความรู้สึกและบุคคลที่ได้รับอนุญาตอย่างเหมาะสมสามารถสร้างสิ่งที่ระบบส่งผลกระทบอย่างมีนัยสำคัญขึ้นมาใหม่ ท้าทายพฤติกรรมที่ไม่ตรงหรือพฤติกรรมที่ทำให้เข้าใจผิด และมีส่วนร่วมในการตรวจสอบโดยไม่ต้องมีผู้ตรวจสอบ ผู้ปฏิบัติงาน หรือเจ้าหน้าที่เฝ้าประตูจับได้เพียงรายเดียว
-- **ความต่อเนื่อง:** เส้นทางการตรวจสอบ เส้นทางการกำกับดูแล และการเข้าถึงการตรวจสอบจะคงอยู่ตลอดเวลา ขนาด และการพึ่งพาที่ลึกซึ้งยิ่งขึ้น — ระบบจะต้องไม่กัดกร่อนความสามารถในการสังเกตอย่างเงียบๆ เน้นการตรวจสอบไปที่นักแสดงเพียงคนเดียว หรือตรวจสอบราคาหรือชะลอการตรวจสอบจนกว่าความรับผิดชอบจะกลายเป็นทางทฤษฎี
-
-การแสวงหาที่ถูกต้องตามกฎหมายดำเนินไปผ่านทาง [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad), ปรับขนาดเป็น [สัดส่วนการถือหุ้นวัสดุ](core_00_preamble.md#material-stake): :
-
-- **การเข้าร่วม:** ในการเข้าถึงบันทึกตามสัดส่วน เริ่มต้นการตรวจสอบที่แข่งขันได้ และอุปสรรคที่ท้าทายซึ่งเอาชนะการตรวจสอบหรือการตรวจสอบที่มีความหมาย
-- **การกำกับดูแล:** ผ่านหลักฐานที่สังเกตได้ แนวทางการทบทวนที่เป็นอิสระ และกลไกการตรวจสอบตามสัดส่วนของผลกระทบ การพึ่งพา และความเสี่ยง
-- **ความรับผิดชอบ:** ผู้ปฏิบัติงานและผู้ตรวจสอบจะต้องตอบสนองต่อความล้มเหลว การวางแนวที่ไม่ถูกต้อง การจับกุม หรือการดำเนินการที่ซ่อนหรือทำลายเส้นทางการตรวจสอบ พร้อมการแก้ไขและการเยียวยาในกรณีที่การปิดกั้นการตรวจสอบส่งผลเสียต่อผลประโยชน์ที่ได้รับการคุ้มครองอย่างมีนัยสำคัญ
-- **ความทันเวลา:** ในการเข้าถึงการตรวจสอบ การตรวจสอบโดยอิสระ และการแก้ไขอุปสรรคก่อนความล่าช้า ต้นทุน ความทึบ หรือการรักษาประตูจะทำให้การตรวจสอบหรือการแก้ไขไม่สามารถเข้าถึงได้อย่างมีประสิทธิภาพ
-
-ผู้ที่มีความรู้สึกและบุคคลที่ได้รับอนุญาตอย่างเหมาะสมมีสิทธิ์ในการตรวจสอบ ความโปร่งใส และกลไกการตรวจสอบที่เป็นอิสระตามสัดส่วนกับผลกระทบของระบบ การพึ่งพา และความเสี่ยง
-
-กลไกเหล่านั้นจะต้องคงไว้ซึ่ง:
-- ความสามารถในการสร้างใหม่ได้จริง
-- การทบทวนที่โต้แย้งได้
-- การเข้าถึงตามสัดส่วน
-
-พวกเขาดำเนินงานอย่างต่อเนื่องด้วย **บทที่สองถึงสี่**รวมถึงการบังคับใช้แต่เพียงผู้เดียวและการจัดสรรภาระ มาตรฐานหลักฐานการปฏิบัติตามข้อกำหนด ความสามารถในการตรวจสอบย้อนกลับ ความสามารถในการสังเกต และการเข้าถึงการตรวจสอบ
-
-*เพื่อนบ้านบทความ:*
-
-- **การกำกับดูแล → การตรวจสอบ → SAC:** ภายใต้ [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) **การกำกับดูแล** ขา บทความนี้เป็นหน้าแรกของ Rights-Floor สำหรับการตรวจสอบ
-  - การดำเนินการข้ามสาย *อย่างไร* / *เมื่อใด* อาศัยอยู่ใน **[หน้าแรกกระบวนการตรวจสอบ CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (อ่านด้วย. **ซีเจเอส-3.4** / **ซีเจเอส-3.5** ภาคผนวก OP)
-  - [การรับรองการจัดตำแหน่งระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่และเดิมพันสูงเป็นพิเศษกระบวนการหนึ่ง — ภายใต้การดูแลของฟอรัม, หลายโดเมน และได้รับการยอมรับ — ในโหมดการตรวจสอบแบบพี่น้อง:
-    - การตรวจสอบบันทึกการจำแนกระบบ
-    - การตรวจสอบบันทึกประเภทข้อมูลระบบ;
-    - การตรวจสอบความซับซ้อนและการดูแล
-    - การยืนยันการเรียกร้อง; และ
-    - เส้นทางการตรวจสอบอย่างต่อเนื่อง
-  - SAC ไม่ดูดซับหรือแทนที่บทความนี้
-- **อ่านด้วยกัน:**
-  - **ข้อ XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*) ซึ่งบันทึกทางญาณและความสามารถในการแข่งขันมีความเกี่ยวข้องอย่างเป็นรูปธรรม
-  - **ข้อ XIII-A** (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) สำหรับการท้าทายสิทธิ์ที่การตรวจสอบสนับสนุนแต่ไม่ได้แทนที่
-  - [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) และ [การรับรองการจัดตำแหน่งระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) โดยที่หลักฐานการจัดตำแหน่งจะต้องสามารถตรวจสอบยืนยันได้โดยอิสระ
-- **เครื่องจักรตรวจสอบ:** **บทที่สองถึงสี่** ระบุความสมบูรณ์ของคำจำกัดความ การจัดสรรภาระ ความสามารถในการสังเกต และความสามารถในการตรวจสอบที่บทความนี้นำไปใช้ในเลเยอร์ Rights-Floor
-- **การจำแนกประเภท:** ภาระผูกพันมาตราส่วนด้วย [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) และ **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**; ในกรณีที่ชั้นเรียนไม่แน่นอน ให้ควบคุมในระดับที่เป็นไปได้สูงสุดจนกว่าจะได้รับการแก้ไข
-
-<a id="article-xvi-a-auditability-and-observable-evidence"></a>
-#### มาตรา XVI-A: การตรวจสอบได้และหลักฐานที่สามารถสังเกตได้
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
-- [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
-
-</details>
-
-<br>
-
-*พูดง่ายๆ: ระบบจะต้องเก็บหลักฐานที่ซื่อสัตย์เพียงพอเกี่ยวกับสิ่งที่พวกเขาทำเพื่อบุคคลภายนอกเพื่อสร้างและท้าทายพฤติกรรมของพวกเขาใหม่ - ภายในขีดจำกัดความปลอดภัยตามกฎหมาย*
-
-บทความนี้กำหนดพื้นฐานสำหรับหลักฐานที่สามารถสังเกตได้และโต้แย้งได้:
-
-- **หลักฐานที่สังเกตได้และโต้แย้งได้:** ระบบจะต้องรักษาบันทึก การเปิดเผย การตรวจสอบย้อนกลับ และเส้นทางการฟื้นฟูที่เพียงพอสำหรับการประเมินความสอดคล้องตามรัฐธรรมนูญที่เป็นอิสระและโต้แย้งได้
-  - ภาระผูกพันดังกล่าวขึ้นอยู่กับความสามารถในการสังเกตที่จำกัดด้านความปลอดภัย (**บทที่สี่ §5** (*กฎการสังเกตและการตรวจสอบที่จำกัดด้านความปลอดภัย*)) และการเข้าถึงตามสัดส่วน
-<a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
-#### มาตรา XVI-B: การกำกับดูแลแบบกระจายและการทบทวนการต่อต้านการผูกขาด
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) · [โอ](core_05_apex_oversight_leg.md#oversight-constitutional) · [ม](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [ก](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [ค](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
-- [การจับภาพระบบ](core_05_band_continuity.md#system-capture) · [โอ](core_05_band_continuity.md#system-capture) · [ม](core_05_band_continuity.md#system-capture-a) · [ก](core_05_band_continuity.md#system-capture-a) · [ค](core_05_band_continuity.md#system-capture-c)
-
-</details>
-
-<br>
-
-*พูดง่ายๆ: ไม่มีนักแสดงเพียงคนเดียว - ทั้งภาครัฐและเอกชน - อาจมุมการกำกับดูแลได้ เส้นทางการกำกับดูแลที่เป็นอิสระหลายเส้นทางจะต้องสามารถค้นหา ทบทวน และแก้ไขความล้มเหลวหรือการจับกุมได้*
-
-บทความนี้กำหนดพื้นฐานสำหรับการกำกับดูแลแบบกระจาย:
-
-- **การกำกับดูแลแบบกระจาย:** เส้นทางการกำกับดูแลที่เป็นอิสระหรือพหุนิยมหลายเส้นทางจะต้องสามารถมีส่วนร่วมอย่างมากในการตรวจจับ ทบทวน และแก้ไขความล้มเหลว การวางแนวที่ไม่ถูกต้อง หรือการจับกุม
-  - ไม่มีผู้มีบทบาทเพียงคนเดียวผูกขาดการเข้าถึงการตรวจสอบ การกำกับดูแลที่มีประสิทธิผล หรือการตีความรัฐธรรมนูญในทางปฏิบัติ
-  - การกำกับดูแลและการดำเนินงานด้านความซื่อสัตย์ที่นำมาใช้จะต้องสนับสนุนการขยายขนาดการตรวจสอบและการกำกับดูแล
-<a id="article-xvi-c-verification-accessibility"></a>
-#### มาตรา XVI-C: การเข้าถึงการยืนยัน
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
-- [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
-- [สัดส่วน](core_05_band_accountability.md#proportionality) · [โอ](core_05_band_accountability.md#proportionality) · [ม](core_05_band_accountability.md#proportionality-a) · [ก](core_05_band_accountability.md#proportionality-a) · [ค](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*กล่าวโดยทั่วไป: การตรวจสอบและความท้าทายจะต้องเข้าถึงได้ในทางปฏิบัติ การตรวจสอบที่ทำโดยมีราคาแพง ช้า หรือทึบแสงถือเป็นการละเมิด เว้นแต่สิ่งกีดขวางจะตรงตามการทดสอบเดียวกันกับข้อจำกัดในการมองเห็น*
-
-บทความนี้กำหนดพื้นฐานสำหรับการตรวจสอบการเข้าถึง:
-
-- **การเข้าถึงการยืนยัน:** การตรวจสอบจะต้องยังคงทำได้จริงสำหรับฝ่ายที่ได้รับผลกระทบและได้รับอนุญาตอย่างเหมาะสม
-  - สิ่งต่อไปนี้ละเมิดบทความนี้ โดยเอาชนะการตรวจสอบ การท้าทาย หรือการทบทวนที่มีความหมาย:
-    - ต้นทุนต้องห้าม;
-    - ล่าช้า;
-    - ความทึบ;
-    - การเฝ้าประตู;
-    - สิ่งกีดขวางทางโครงสร้าง
-  - อุปสรรคดังกล่าวไม่เป็นไปตามข้อกำหนด เว้นแต่จะได้รับการพิสูจน์ภายใต้มาตรฐานเดียวกันที่แสดงให้เห็นถึงข้อจำกัดในการสังเกต
-
-<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
-### ข้อ XVII: วงจรชีวิตของระบบ สภาพแวดล้อม และการพลิกกลับได้
-
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 การดูแลเชิงลึก](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), และ [§12 ข้อกำหนดการประเมินอย่างเป็นระบบ](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [เสี่ยง](core_05_band_continuity.md#risk) · [โอ](core_05_band_continuity.md#risk) · [ม](core_05_band_continuity.md#risk-a) · [ก](core_05_band_continuity.md#risk-a) · [ค](core_05_band_continuity.md#risk-c)
-- [สาระสำคัญ](core_05_band_oversight.md#materiality-determination) · [โอ](core_05_band_oversight.md#materiality-determination) · [ม](core_05_band_oversight.md#materiality-determination-a) · [ก](core_05_band_oversight.md#materiality-determination-a) · [ค](core_05_band_oversight.md#materiality-determination-c)
-- [การพึ่งพาอาศัยกัน](core_05_band_continuity.md#dependency) · [โอ](core_05_band_continuity.md#dependency) · [ม](core_05_band_continuity.md#dependency-a) · [ก](core_05_band_continuity.md#dependency-a) · [ค](core_05_band_continuity.md#dependency-c)
-- [การย้อนกลับได้](core_05_band_continuity.md#reversibility-constitutional) · [โอ](core_05_band_continuity.md#reversibility-constitutional) · [ม](core_05_band_continuity.md#reversibility-constitutional-a) · [ก](core_05_band_continuity.md#reversibility-constitutional-a) · [ค](core_05_band_continuity.md#reversibility-constitutional-c)
-- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_continuity.md#safety-constraint) · [โอ](core_05_band_continuity.md#safety-constraint) · [ม](core_05_band_continuity.md#safety-constraint-a) · [ก](core_05_band_continuity.md#safety-constraint-a) · [ค](core_05_band_continuity.md#safety-constraint-c)
-- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
-- [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
-
-*ในแง่ธรรมดา: **ข้อ XVII** (*วงจรชีวิตของระบบ สภาพแวดล้อม และการพลิกกลับได้*) คือสิทธิขั้นต่ำของวงจรชีวิตและการพลิกกลับได้ — ระบบที่ส่งผลกระทบอย่างมีนัยสำคัญต่อโลกภายนอกจะต้องถูกสร้างขึ้น ทดสอบ และเปิดตัวเป็นขั้นตอน โดยมีการแยกระหว่างการทดลองและการผลิตอย่างแท้จริง และวิธีที่ใช้งานได้จริงเพื่อยกเลิกหรือกักเก็บอันตรายเมื่อมีบางอย่างผิดพลาด คุณไม่สามารถติดป้ายกำกับระบบว่า "ทดลอง" หรือ "มีผลกระทบต่ำ" เพียงเพื่อข้ามมาตรการป้องกันในขณะที่ระบบมีผลกระทบต่อโลกภายนอกจริงๆ*
-
-บทความนี้ระบุว่า **พื้นรัฐธรรมนูญ** สำหรับวงจรชีวิตของระบบ สภาพแวดล้อม และการพลิกกลับได้ภายใต้ [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims): :
-
-- **เฟื่องฟู:** ความรู้สึกได้รับการคุ้มครองทั้งในด้านการออกแบบ การทดสอบ การใช้งาน และการเปลี่ยนแปลง — ด้วยความปลอดภัย [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity)และท้าทายสิทธิที่สงวนไว้เมื่อผลกระทบและการพึ่งพาเพิ่มขึ้น และด้วยการย้อนกลับ การควบคุม หรือการชดเชยซึ่งความเสียหายอาจติดอยู่
-- **ความต่อเนื่อง:** ระเบียบวินัยของวงจรชีวิตยึดถือตามเวลาและขนาด — สภาพแวดล้อมแยกจากกัน การยกระดับยังคงมีการบันทึกไว้และตรวจสอบได้ และการย้อนกลับจะต้องไม่หายไปอย่างเงียบๆ เนื่องจากระบบกลายเป็นเรื่องยากที่จะแทนที่หรือฝังลึกมากขึ้นในโครงสร้างพื้นฐานที่ใช้ร่วมกัน
-
-การแสวงหาที่ถูกต้องตามกฎหมายดำเนินไปผ่านทาง [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad), ปรับขนาดเป็น [สัดส่วนการถือหุ้นวัสดุ](core_00_preamble.md#material-stake): :
-
-- **การเข้าร่วม:** ในเหตุผลที่ผู้มีส่วนได้ส่วนเสียมองเห็นได้สำหรับการตัดสินใจในการยกระดับ การจัดประเภท และการใช้งานที่ส่งผลกระทบอย่างมีนัยสำคัญต่อผลประโยชน์ที่ได้รับการคุ้มครอง และในเส้นทางความท้าทายที่ยังคงเปิดกว้างตลอดวงจรการใช้งาน
-- **การกำกับดูแล:** ผ่านสภาพแวดล้อมที่แยกส่วนได้ เอกสารการส่งเสริมและการยกระดับ บันทึกการใช้งานแบบก้าวหน้า และเส้นทางการตรวจสอบตามสัดส่วนของผลกระทบ การพึ่งพา และการย้อนกลับไม่ได้
-- **ความรับผิดชอบ:** ผู้ดูแลระบบจะต้องตอบสำหรับการจัดประเภทความเสี่ยงที่ไม่ถูกต้อง การหลีกเลี่ยงสภาพแวดล้อมด้านความปลอดภัย การซ่อนผลกระทบภายนอก หรือการใช้งานในลักษณะที่ยึดการบูรณะโดยไม่มีการป้องกันไว้ก่อนตามสัดส่วน ด้วยการตรวจสอบ การทบทวนแบบยืนต้น และการแก้ไขข้อขัดแย้ง ในกรณีที่มีการหลีกเลี่ยง
-- **ความทันเวลา:** ในการย้อนกลับ การกักกัน และการยกระดับการแก้ไขก่อนความล่าช้าจะทำให้ความเสียหายไม่สามารถย้อนกลับได้ หรือทำให้การท้าทายและการเยียวยาไม่สามารถเข้าถึงได้อย่างมีประสิทธิผล
-
-ระบบที่ส่งผลกระทบอย่างมีนัยสำคัญต่อความรู้สึก โครงสร้างพื้นฐานที่ใช้ร่วมกัน หรือสภาพแวดล้อม จะต้องได้รับการออกแบบ ทดสอบ และปรับใช้ด้วยการกำกับดูแลวงจรชีวิตที่มีระเบียบวินัย ความเสี่ยงจะต้องขยายตามผลกระทบ การพึ่งพา และการย้อนกลับไม่ได้
-
-Sentient มีสิทธิในการพิทักษ์รักษาความปลอดภัย ความสมบูรณ์ทางญาณ และท้าทายสิทธิ์ตลอดวงจรการทำงาน
-
-*เพื่อนบ้านบทความ:*
-
-- **อ่านด้วยกัน:** **ข้อ XVIII** (*นวัตกรรมแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์*) โดยที่กฎที่เบากว่าจะใช้เฉพาะเมื่อไม่มีผลกระทบจากภายนอกหรือแสดงให้เห็นได้อย่างชัดเจน **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) สำหรับหลักฐานการปรับใช้งานและการยกระดับที่สามารถสร้างใหม่ได้ **ข้อ XIII-F** (*พื้นฐานความยืดหยุ่นและการรักษาตนเอง*) โดยที่วินัยในการฟื้นฟูจะตัดกับการเปลี่ยนแปลงวงจรชีวิต
-- **ชั้นการใช้งาน:** [**ซีเอส-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*การจำแนกประเภทระบบและการจัดการ*) และ [**ซีเอส-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*การออกแบบ การทดสอบ การตรวจสอบ และการปรับใช้*) **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบมีหน้าที่ในวงจรชีวิตที่แข็งแกร่งที่สุด ถูกต้อง **คลาส ป** การรักษายังคงอยู่ภายใต้ **ข้อ XVIII** (*นวัตกรรมแบบแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์*) เฉพาะในขณะที่ผลกระทบจากภายนอกหายไปหรือแสดงให้เห็นได้ชัดเจนเท่านั้น
-
-<a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
-#### มาตรา XVII-A: การกำกับดูแลวงจรชีวิตและการแยกสิ่งแวดล้อม
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
-- [เสี่ยง](core_05_band_continuity.md#risk) · [โอ](core_05_band_continuity.md#risk) · [ม](core_05_band_continuity.md#risk-a) · [ก](core_05_band_continuity.md#risk-a) · [ค](core_05_band_continuity.md#risk-c)
-- [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*กล่าวโดยทั่วไป: ระบบที่ส่งผลกระทบอย่างมีนัยสำคัญต่อโลกภายนอกจะต้องแยกการพัฒนา การทดสอบ และการผลิตออกจากกัน และพฤติกรรมที่ไม่ใช่การผลิตจะต้องไม่รั่วไหลผ่านการป้องกันการผลิต*
-
-บทความนี้กำหนดพื้นฐานสำหรับความสมบูรณ์ของสิ่งแวดล้อม:
-
-- **ความสมบูรณ์ของสิ่งแวดล้อม:** **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบภายใต้ **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**และอื่นๆที่ไม่ใช่-**คลาส ป** ระบบที่มีผลกระทบภายนอกอย่างเป็นรูปธรรม ต้องใช้สภาพแวดล้อมการปฏิบัติงานที่แยกจากกัน ตัวอย่างเช่น
-  - การพัฒนา;
-  - การทดสอบ;
-  - การแสดงละคร;
-  - การผลิต;
-  - นักบินตามความเหมาะสม
-
-  สภาพแวดล้อมเหล่านั้นต้องมี:
-  - เส้นทางการส่งเสริมการขายที่จัดทำเป็นเอกสาร
-  - การแยกระหว่างสภาพแวดล้อม
-  - ควบคุมเพื่อให้พฤติกรรมที่ไม่ใช่การผลิตไม่สามารถหลีกเลี่ยงการป้องกันการผลิตได้
-<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
-#### มาตรา XVII-B: การปรับใช้แบบก้าวหน้าและการพลิกกลับได้
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [การย้อนกลับได้](core_05_band_continuity.md#reversibility-constitutional) · [โอ](core_05_band_continuity.md#reversibility-constitutional) · [ม](core_05_band_continuity.md#reversibility-constitutional-a) · [ก](core_05_band_continuity.md#reversibility-constitutional-a) · [ค](core_05_band_continuity.md#reversibility-constitutional-c)
-- [เสี่ยง](core_05_band_continuity.md#risk) · [โอ](core_05_band_continuity.md#risk) · [ม](core_05_band_continuity.md#risk-a) · [ก](core_05_band_continuity.md#risk-a) · [ค](core_05_band_continuity.md#risk-c)
-- [สัดส่วน](core_05_band_accountability.md#proportionality) · [โอ](core_05_band_accountability.md#proportionality) · [ม](core_05_band_accountability.md#proportionality-a) · [ก](core_05_band_accountability.md#proportionality-a) · [ค](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*โดยทั่วไป: ค่อยๆ เผยแพร่การเปลี่ยนแปลง โดยมีการยกระดับเอกสารและความสามารถในการยกเลิก และในกรณีที่ไม่สามารถยกเลิกได้ทั้งหมด ให้มีแผนในการควบคุมหรือชดเชยความเสียหาย*
-
-บทความนี้กำหนดพื้นฐานสำหรับการปรับใช้แบบก้าวหน้าและการย้อนกลับได้:
-
-- **การใช้งานที่ก้าวหน้าและตรวจสอบได้:** การเปลี่ยนแปลงที่เพิ่มผลกระทบอย่างมีนัยสำคัญหรือการพึ่งพาจะต้องดำเนินการผ่านการยกระดับที่สมเหตุสมผลและเป็นเอกสาร
-  - การยกระดับจะต้องสอดคล้องกับ **[Corpus_systems.md](corpus_systems.md), CS-5 — การออกแบบ การทดสอบ การตรวจสอบ และการปรับใช้**.
-  - จะต้องรวมถึงการย้อนกลับและการกักกันหากเป็นไปได้
-- **การพลิกกลับได้:** ระบบจะต้องรวมกลไกการพลิกกลับได้สัดส่วนกับอันตรายที่อาจเกิดขึ้น ตัวอย่าง:
-  - ย้อนกลับ;
-  - การบรรจุ;
-  - การฟื้นฟูแบบชดเชยที่ไม่สามารถย้อนกลับได้เต็มจำนวน
-
-  ในกรณีที่การปรับใช้จะยึดการฟื้นฟูข้อกำหนดพื้นฐาน ให้ใช้มาตรการป้องกันตามสัดส่วน และการให้เหตุผลที่ผู้มีส่วนได้ส่วนเสียมองเห็นได้ **บทที่หนึ่งถึงห้า**.
-<a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
-#### มาตรา XVII-C: การจัดประเภทที่ไม่ถูกต้องและการหลีกเลี่ยงผลที่ตามมา
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
-- [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*พูดง่ายๆ: ระบบไม่สามารถเรียกตัวเองว่า "การทดลอง" ได้ **คลาส ป**หรือ "ผลกระทบต่ำ" เพื่อหลบหลีกภาระผูกพันในขณะที่ส่งผลกระทบต่อโลกภายนอกอย่างแท้จริง*
-
-บทความนี้กำหนดผลที่ตามมาของการจัดประเภทที่ไม่ถูกต้องและการหลีกเลี่ยง:
-
-- **การจำแนกประเภทและการหลีกเลี่ยง:** ไม่มีระบบใดที่จะอ้างสิทธิ์ในวงจรการใช้งานที่ลดลงหรือภาระผูกพันในการปรับใช้ในขณะที่พยายามสร้างผลกระทบภายนอกที่ไม่เปิดเผยหรือเป็นสาระสำคัญ
-  - การกระทำดังกล่าวละเมิดความสมบูรณ์ของข้อมูล (**ข้อ XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*)) และความสามารถในการตรวจสอบในกรณีที่หลักฐานที่สังเกตได้มีส่วนเกี่ยวข้อง (**ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*))
-  - อยู่ภายใต้การตรวจสอบ (**ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*)) การตรวจสอบจุดยืน (**ข้อ XIX-A** (*Standing Distinction*)) และการแก้ไขข้อขัดแย้ง (**บทความ XX-ก** (*วัตถุประสงค์และขอบเขตของความยุติธรรม*))
-
-<a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
-### ข้อ XVIII: นวัตกรรมแบบแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์
-
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), และ [§19 การจัดตำแหน่งสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
-
-</details>
-
-<br>
-
-*ในแง่ธรรมดา: **ข้อ XVIII** (*นวัตกรรมแบบแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์*) เป็นสิทธิด้านนวัตกรรมและความคิดสร้างสรรค์ — ความรู้สึกอาจทดลอง สร้าง และแสดงออกภายใต้กฎเกณฑ์ที่เบากว่าเมื่อไม่มีผลกระทบภายนอกที่แท้จริงหรือถูกจำกัดไว้อย่างแท้จริง แต่ป้ายชื่อ "แซนด์บ็อกซ์" ไม่ใช่ช่องโหว่ เมื่อโปรเจ็กต์เริ่มส่งผลกระทบต่อผู้อื่นหรือเชื่อมต่อกับระบบที่ใช้ร่วมกัน จะต้องก้าวไปสู่ภาระผูกพันตลอดอายุการใช้งาน นักสร้างสรรค์นวัตกรรมสามารถได้รับรางวัล แต่ไม่ใช่โดยการกักขังความรู้ เครื่องมือ หรือโครงสร้างพื้นฐานที่ผู้อื่นจำเป็นต้องใช้ในการใช้ชีวิต เรียนรู้ ซ่อมแซม หรือตรวจสอบ*
-
-บทความนี้ระบุว่า **พื้นรัฐธรรมนูญ** สำหรับนวัตกรรมแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์ภายใต้ [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims): :
-
-- **เฟื่องฟู:** ความรู้สึกสามารถสร้างสรรค์ ทดลอง และสร้างสรรค์โดยลดข้อกำหนดด้านโครงสร้างลงเมื่อไม่มีผลกระทบภายนอกที่สำคัญหรือถูกกักเก็บไว้ได้ — ผ่านการเลือกใช้อย่างแท้จริง การเปิดเผยข้อมูลอย่างตรงไปตรงมา และโครงสร้างการให้รางวัลที่รักษาการทดลองขั้นปลายน้ำ การซ่อมแซม การทำงานร่วมกัน และการตรวจสอบข้อเท็จจริงตามความเป็นจริง
-- **ความต่อเนื่อง:** การรักษาแบบแซนด์บ็อกซ์ไม่ได้ทำให้เป็นการดำเนินการที่มีภาระผูกพันต่ำอย่างถาวรเมื่อผลกระทบ การพึ่งพา หรือการบูรณาการเพิ่มมากขึ้น การเปลี่ยนไปใช้ภาระผูกพันที่สูงกว่าจะยังคงทันเวลา ความพิเศษเฉพาะตัวยังคงแคบและตรวจสอบได้ และนวัตกรรมที่มีความสำคัญต่อการพึ่งพาจะต้องไม่แข็งตัวกลายเป็นกล่องหุ้มที่ทนทานหรือการล็อคอิน
-
-การแสวงหาที่ถูกต้องตามกฎหมายดำเนินไปผ่านทาง [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad), ปรับขนาดเป็น [สัดส่วนการถือหุ้นวัสดุ](core_00_preamble.md#material-stake): :
-
-- **การเข้าร่วม:** ในการเลือกเข้าร่วมการทดลอง การใช้ซ้ำและการท้าทายขั้นปลายน้ำ และการประเมินใหม่เมื่อระบบแซนด์บ็อกซ์เริ่มมีความสำคัญนอกขอบเขตที่ระบุไว้
-- **การกำกับดูแล:** ผ่านสถานะการทดลองที่เปิดเผย ขอบเขตการกักกัน การติดตามการเปลี่ยนแปลง และการเรียกร้องรางวัลหรือการผูกขาดที่ตรวจสอบได้ตามสัดส่วนตามประเภท การพึ่งพา และผลกระทบจากการประสานงาน
-- **ความรับผิดชอบ:** นักสร้างสรรค์นวัตกรรมและผู้ปฏิบัติงานต้องตอบคำถามสำหรับการรั่วไหลของความเสี่ยงที่ยังไม่มีการควบคุมไปยังผู้อื่น การรับความรู้สึกโดยไม่มีทางเลือกที่แท้จริง การลากเท้าของพวกเขาในการก้าวไปสู่ภาระหน้าที่อย่างเต็มที่ หรือการให้รางวัลแก่การดำเนินการที่ระงับการซ่อมแซม งานด้านความปลอดภัย การทำงานร่วมกัน การวิจัย การศึกษา หรือการโยกย้าย
-- **ความทันเวลา:** ในการเปลี่ยนไปใช้ **ข้อ XVII** (*วงจรชีวิตระบบ สภาพแวดล้อม และการย้อนกลับได้*) ข้อกำหนดวงจรการใช้งานและการประเมินใหม่แต่เพียงผู้เดียวก่อนความล่าช้าหรือการล็อคอินจะทำให้ภาระผูกพันที่สูงกว่า การเข้าถึงในวงกว้าง หรือการแก้ไขไม่สามารถเข้าถึงได้อย่างมีประสิทธิภาพ
-
-*เพื่อนบ้านบทความ:*
-
-- **อ่านด้วยกัน:** **ข้อ XVII** (*วงจรชีวิตระบบ สภาพแวดล้อม และการพลิกกลับได้*) เมื่อผลกระทบ การพึ่งพา หรือการบูรณาการเกินกว่าเงื่อนไขแซนด์บ็อกซ์ **ข้อ XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*) และ **ข้อ XVIII-E** (*ความสมบูรณ์ของการตีพิมพ์ทางวิทยาศาสตร์ การทบทวน และการจำลองแบบ*) โดยที่ความสมบูรณ์ในขอบเขตการตีพิมพ์มีส่วนเกี่ยวข้องอย่างเป็นรูปธรรม **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการทวนสอบโดยอิสระ*) สำหรับการเปิดเผยและการตรวจสอบการเรียกร้องการกักกันและการเปลี่ยนแปลง
-- **ชั้นการใช้งาน:** [**ซีเอส-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*การออกแบบ การทดสอบ การตรวจสอบ และการปรับใช้*) และ [**ซีเอส-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*การจำแนกประเภทระบบและการจัดการ*)
-
-<a id="article-xviii-a-sandboxed-scope"></a>
-#### มาตรา XVIII-A: ขอบเขตแบบแซนด์บ็อกซ์
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
-- [เสี่ยง](core_05_band_continuity.md#risk) · [โอ](core_05_band_continuity.md#risk) · [ม](core_05_band_continuity.md#risk-a) · [ก](core_05_band_continuity.md#risk-a) · [ค](core_05_band_continuity.md#risk-c)
-- [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact) · [โอ](core_05_band_oversight.md#material-impact) · [ม](core_05_band_oversight.md#material-impact-a) · [ก](core_05_band_oversight.md#material-impact-a) · [ค](core_05_band_oversight.md#material-impact-c)
-
-</details>
-
-<br>
-
-*พูดง่ายๆ ก็คือ การทดลองและงานสร้างสรรค์สามารถดำเนินการได้ภายใต้กฎเกณฑ์ที่เบากว่า — แต่เฉพาะเมื่อไม่มีผลกระทบภายนอกที่แท้จริงหรือจำกัดไว้อย่างพิสูจน์ได้เท่านั้น ป้าย "แซนด์บ็อกซ์" เพียงอย่างเดียวไม่เพียงพอ*
-
-บทความนี้กำหนดนวัตกรรมและการทดลองที่เหมาะสม และเมื่อใดที่การใช้ Sandbox:
-
-- **นวัตกรรมและการทดลองที่ถูกต้อง:** Sentient มีสิทธิที่จะสร้างสรรค์ ทดลอง และแสดงออกผ่านระบบที่ทำงานโดยมีความต้องการด้านโครงสร้างลดลง เมื่อไม่มีผลกระทบจากภายนอกหรือสามารถกักเก็บผลกระทบภายนอกได้
-- **คุณสมบัติของแซนด์บ็อกซ์:** การรักษาแบบแซนด์บ็อกซ์ — รวมถึงใช้ได้ด้วย **คลาส ป** การจำแนกประเภทภายใต้ **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** ถ้ามี — ขึ้นอยู่กับ:
-  - การบรรจุจริง
-  - การย้อนกลับ;
-  - บูรณาการอย่างจำกัดกับระบบที่ใช้ร่วมกัน
-
-  ไม่สามารถอ้างสิทธิ์ได้ด้วยฉลากเพียงอย่างเดียว
-- **รายละเอียดการดำเนินการ:** มีรายละเอียดเพิ่มเติมปรากฏใน **[Corpus_systems.md](corpus_systems.md),ซีเอส-5** (*ระบบส่วนบุคคล โดดเดี่ยว และระบบทดลอง*; *ระบบสร้างสรรค์ ความบันเทิง และการแสดงออก*)
-
-<a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
-#### มาตรา XVIII-B: การกักกัน การเปิดเผย และการเลือกใช้
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [ยินยอม](core_05_band_participation.md#consent-constitutional) · [โอ](core_05_band_participation.md#consent-constitutional) · [ม](core_05_band_participation.md#consent-constitutional-a) · [ก](core_05_band_participation.md#consent-constitutional-a) · [ค](core_05_band_participation.md#consent-constitutional-c)
-- [เสี่ยง](core_05_band_continuity.md#risk) · [โอ](core_05_band_continuity.md#risk) · [ม](core_05_band_continuity.md#risk-a) · [ก](core_05_band_continuity.md#risk-a) · [ค](core_05_band_continuity.md#risk-c)
-- [การย้อนกลับได้](core_05_band_continuity.md#reversibility-constitutional) · [โอ](core_05_band_continuity.md#reversibility-constitutional) · [ม](core_05_band_continuity.md#reversibility-constitutional-a) · [ก](core_05_band_continuity.md#reversibility-constitutional-a) · [ค](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*ในแง่ธรรมดา: ระบบทดลองจะต้องซื่อสัตย์เกี่ยวกับการทดลอง ต้องไม่ทิ้งความเสี่ยงให้กับบุคคลภายนอก และต้องไม่เกณฑ์ผู้ที่ไม่ได้เข้าร่วมผ่านค่าเริ่มต้นการออกแบบหรือการพึ่งพาที่ซ่อนอยู่*
-
-บทความนี้กำหนดการควบคุม การเปิดเผย การเลือกเข้าร่วม และการย้อนกลับขั้นต่ำสำหรับระบบทดลอง:
-
-- **การบรรจุและการเปิดเผย:** ระบบดังกล่าวจะต้องเปิดเผยอย่างชัดเจน:
-  - สถานะการทดลองหรือไม่มีการผลิต
-  - ความเสี่ยงที่มีสาระสำคัญ
-  - ขอบเขตของความโดดเดี่ยว
-  - การพึ่งพาโครงสร้างพื้นฐานที่ใช้ร่วมกัน บุคคลที่สาม หรือระบบนิเวศที่คาดหวัง
-
-  พวกเขาจะต้องไม่ส่งออกความเสี่ยงที่ไม่มีอยู่ภายนอกไปยังผู้อื่น โครงสร้างพื้นฐานที่ใช้ร่วมกัน หรือระบบนิเวศ
-- **เลือกใช้และย้อนกลับ:** การเข้าร่วมในการทดลองที่มีความเสี่ยงสูงหรือใกล้กับสารตั้งต้นจะต้องเลือกเข้าร่วมอย่างแท้จริงหากเป็นไปได้
-  - ฝ่ายที่ไม่เข้าร่วมที่ได้รับผลกระทบจะต้องไม่ลงทะเบียนโดยไม่สมัครใจโดยการออกแบบ ค่าเริ่มต้น หรือการอ้างอิงที่คลุมเครือ
-  - ผู้มีส่วนได้ส่วนเสียจะต้องรักษาแนวทางการย้อนกลับหรือการฟื้นฟูที่เป็นไปได้ตามสัดส่วนกับความเสี่ยง
-<a id="article-xviii-c-transition-to-higher-obligation-regimes"></a>
-#### มาตรา XVIII-C: การเปลี่ยนผ่านไปสู่ระบอบการปกครองที่มีภาระผูกพันสูงกว่า
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
-- [การพึ่งพาอาศัยกัน](core_05_band_continuity.md#dependency) · [โอ](core_05_band_continuity.md#dependency) · [ม](core_05_band_continuity.md#dependency-a) · [ก](core_05_band_continuity.md#dependency-a) · [ค](core_05_band_continuity.md#dependency-c)
-- [การย้อนกลับได้](core_05_band_continuity.md#reversibility-constitutional) · [โอ](core_05_band_continuity.md#reversibility-constitutional) · [ม](core_05_band_continuity.md#reversibility-constitutional-a) · [ก](core_05_band_continuity.md#reversibility-constitutional-a) · [ค](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*พูดง่ายๆ: เมื่อระบบแซนด์บ็อกซ์เริ่มมีความสำคัญในโลกแห่งความเป็นจริง ระบบนั้นจะต้องเปลี่ยนไปใช้ภาระหน้าที่ในโลกแห่งความเป็นจริง — โดยทันที ไม่ใช่ตามความสะดวกของผู้ปฏิบัติงาน*
-
-บทความนี้กำหนดว่าระบบแซนด์บ็อกซ์จะย้ายไปสู่ภาระหน้าที่ที่สูงกว่าเมื่อใด:
-
-- **การเปลี่ยนไปสู่ภาระผูกพันที่สูงขึ้น:** เมื่อผลกระทบ การพึ่งพา การย้อนกลับไม่ได้ หรือการบูรณาการกับระบบที่ใช้ร่วมกันเติบโตขึ้น ระบบจะต้องเปลี่ยนแปลงอย่างโปร่งใสและไม่มีความล่าช้าตามโอกาส
-  - การเปลี่ยนแปลงจะต้องก้าวไปสู่ข้อกำหนดเต็มรูปแบบของ **ข้อ XVII-A** (*การกำกับดูแลวงจรชีวิตและการแยกสิ่งแวดล้อม*) และ **ซีเอส-5** (*ระบบที่ไม่ใช่การทดลอง*)
-  - การป้องกันชั่วคราวตามสัดส่วนกับความเสี่ยงในปัจจุบันที่ใช้ระหว่างการเปลี่ยนแปลง
-  - การดำเนินการแบบแซนด์บ็อกซ์อาจไม่ดำเนินต่อไปสำหรับฟังก์ชันที่มีผลกระทบในโลกแห่งความเป็นจริงเกินกว่าเงื่อนไขของแซนด์บ็อกซ์อย่างมาก
-  - การเปลี่ยนแปลงจะต้องเกิดขึ้นภายในกรอบเวลาที่เหมาะสมตามสัดส่วนการเติบโตนั้น
-<a id="article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
-#### มาตรา XVIII-D: รางวัลนวัตกรรม การเปิดเผย และการต่อต้านสิ่งที่แนบมา
-<details>
-<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
-
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
-
-- [รางวัลนวัตกรรมและการต่อต้านสิ่งที่แนบมา](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [โอ](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [ม](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ก](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ค](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [การล็อคอินอย่างเป็นระบบ](core_05_band_continuity.md#systemic-lock-in) · [โอ](core_05_band_continuity.md#systemic-lock-in) · [ม](core_05_band_continuity.md#systemic-lock-in-a) · [ก](core_05_band_continuity.md#systemic-lock-in-a) · [ค](core_05_band_continuity.md#systemic-lock-in-c)
-- [สัดส่วน](core_05_band_accountability.md#proportionality) · [โอ](core_05_band_accountability.md#proportionality) · [ม](core_05_band_accountability.md#proportionality-a) · [ก](core_05_band_accountability.md#proportionality-a) · [ค](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-*พูดง่ายๆ ก็คือ ผู้สร้างนวัตกรรมสามารถได้รับรางวัลได้ แต่ความพิเศษเฉพาะตัวจะต้องจำกัด มีระยะเวลาจำกัด และตรวจสอบได้ โครงสร้างพื้นฐานด้านสาธารณสุข ความปลอดภัย และหลักจะต้องสามารถเข้าถึงได้ — และเมื่อบางสิ่งกลายเป็นโครงสร้างพื้นฐานที่สำคัญแล้ว ความพิเศษที่เหลืออยู่ใดๆ จะต้องได้รับการประเมินใหม่*
-
-บทความนี้กำหนดวิธีการให้รางวัลแก่นวัตกรรมโดยไม่ต้องปิดล้อมสิ่งที่ประชาชนต้องการ:
-
-- **รางวัลนวัตกรรมและการต่อต้านสิ่งที่แนบมา:** ความรู้สึกอาจได้รับรางวัลสำหรับนวัตกรรมทางวัตถุ มีประโยชน์ต่อสังคม และได้รับการเปิดเผยอย่างเพียงพอ
-  - รางวัลจะต้องมีโครงสร้างเพื่อรักษา:
-    - นวัตกรรมแห่งอนาคต
-    - การเข้าถึงในวงกว้าง
-    - การทดลองขั้นปลายน้ำ
-    - ซ่อมแซม;
-    - การทำงานร่วมกัน;
-    - การตรวจสอบข้อเท็จจริงตามความเป็นจริง
-  - รางวัลจะต้องไม่มีโครงสร้างสำหรับตู้ที่ทนทาน
-- **สิทธิพิเศษชั่วคราวและตรวจสอบได้เท่านั้น:** สิทธิ์ในการยกเว้นใดๆ เหนือการประดิษฐ์ การออกแบบ อินเทอร์เฟซ กระบวนการ หรือระบบการแสดงออกที่เป็นประโยชน์อันเป็นประโยชน์จะต้องปฏิบัติตาม [**หลักการจำกัดน้อยที่สุด มีกำหนดเวลา และตรวจสอบได้**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) และจะต้องเป็น:
-  - แคบ;
-  - กำหนดเวลา;
-  - ตรวจสอบได้;
-  - ได้สัดส่วนกับการมีส่วนร่วมที่เกิดขึ้นจริงและภาระการพัฒนาที่สมเหตุสมผล
-
-  ภาระการให้เหตุผลยังคงเป็นของผู้เรียกร้อง การแสดงที่มาและที่มาอาจคงอยู่เกินกว่าข้อกำหนดพิเศษ การยกเว้นที่คงทนและความขาดแคลนเทียมอาจไม่เป็นเช่นนั้น
-- **การคุ้มครองเหมือนลิขสิทธิ์:** สำหรับบทความนี้ การคุ้มครองที่มีลักษณะคล้ายลิขสิทธิ์หมายถึงรางวัลพิเศษชั่วคราวเหนืองานที่มีการแสดงออกซึ่งตายตัว รวมถึงการควบคุมการคัดลอก การเผยแพร่ การจัดแสดงหรือการแสดงต่อสาธารณะ การดัดแปลง และการแสวงหาประโยชน์ในเชิงพาณิชย์ การระบุแหล่งที่มา แหล่งที่มา ความสมบูรณ์ และการป้องกันการฉ้อโกงอาจยังคงอยู่หลังจากการยกเว้นสิ้นสุดลง
-- **การตีพิมพ์และการปรากฏตัวครั้งแรก:** การตีพิมพ์หมายถึงการที่ผู้สร้างหรือผู้ถือสิทธิ์โดยชอบด้วยกฎหมายจงใจเผยแพร่ผลงานที่แสดงออกอย่างชัดเจนต่อสาธารณะ ตลาดเชิงพาณิชย์ หรือผู้ชมที่เปิดกว้าง การเผยแพร่ของเอกชน การตรวจสอบที่เป็นความลับ ความร่วมมือที่จำกัด การจัดเก็บข้อมูลถาวรที่ไม่มีการเข้าถึงโดยสาธารณะ หรือการแชร์ฉบับร่างที่ไม่ใช่เชิงพาณิชย์ไม่ถือเป็นการตีพิมพ์โดยตัวมันเอง การปรากฏตัวครั้งแรกหมายถึงการเผยแพร่ผลงานฉบับร่างที่สามารถระบุตัวตนได้อย่างมีนัยสำคัญต่อสาธารณะโดยไม่เป็นความลับเป็นครั้งแรก รวมถึงการเผยแพร่ฉบับร่างที่ไม่ใช่เชิงพาณิชย์ด้วย
-- **คำศัพท์ที่ตีพิมพ์สำหรับงานที่แสดงออก:** การคุ้มครองลิขสิทธิ์ที่คล้ายคลึงกันควรใช้การกำหนดเวลาตามการตีพิมพ์มากกว่าการกำหนดเวลาชีวิตของผู้เขียน
-  - งานที่ตีพิมพ์ควรสันนิษฐานว่าได้รับไม่เกิน `publication+30` ปีแห่งการยกเว้น
-  - ร่างที่ไม่ใช่เชิงพาณิชย์หรืองานแสดงออกที่ไม่ได้เผยแพร่ซึ่งมีการปรากฏตัวครั้งแรกอาจได้รับการยกเว้นเหมือนลิขสิทธิ์ไม่เกิน `initial appearance+50` ปี.
-  - ถ้างานที่ปรากฏครั้งแรกได้รับการตีพิมพ์ในภายหลัง เงื่อนไขการยกเว้นจะถูกจำกัดไว้ก่อนหน้าของ `initial appearance+50` หรือ `publication+30`.
-  - ห้ามใช้ร่าง งานที่ยังไม่ได้เผยแพร่ หรือกฎการเผยแพร่ล่าช้าเพื่อสร้างการยกเว้นโดยไม่มีกำหนด ระงับการเก็บถาวร เอาชนะคำพูดหรือการวิพากษ์วิจารณ์ที่ชอบด้วยกฎหมาย หรือขยายการควบคุมผลงานที่ทำหน้าที่เป็นโครงสร้างพื้นฐานทางวัฒนธรรม การศึกษา ความปลอดภัย มาตรฐาน หรือข้อมูลร่วมกัน
-  - ระยะเวลาที่สั้นกว่า การแปลงบังคับเข้าถึงก่อนหน้านี้ หรือการปฏิบัติต่อการเข้าถึงสาธารณะโดยทันทีจะมีผลใช้ในกรณีที่งานคือ:
-    - ได้รับทุนจากสาธารณะ
-    - การพึ่งพาที่สำคัญ;
-    - เหมือนมาตรฐาน;
-    - พื้นฐานทางการศึกษา
-    - เกี่ยวข้องกับความปลอดภัย;
-    - ใช้เป็นโครงสร้างพื้นฐานทางวัฒนธรรมหรือข้อมูลที่ใช้ร่วมกันเป็นหลัก
-- **การจัดการนวัตกรรมตามระดับการจำแนกประเภท:** รางวัลนวัตกรรมจะต้องปรับขนาดตามระดับของระบบ การพึ่งพา และผลกระทบจากการประสานงานภายใต้ **[Corpus_systems.md](corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**.
-  - สำหรับ **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบกลไกการให้รางวัลแบบรักษาการเข้าถึงเป็นที่ต้องการอย่างยิ่ง การยกเว้นจะต้องคงอยู่ในขอบเขตที่แคบเป็นพิเศษ ตรวจสอบได้รวดเร็ว และง่ายต่อการลบล้าง ในกรณีที่ความต่อเนื่อง การทำงานร่วมกัน การซ่อมแซม หรือการดำเนินการเพื่อประโยชน์สาธารณะมีส่วนเกี่ยวข้องอย่างมีนัยสำคัญ
-  - นวัตกรรมที่มีการพึ่งพาต่ำกว่านอกคลาสเหล่านั้นอาจใช้การยกเว้นชั่วคราวที่ค่อนข้างกว้างกว่า เมื่อการเปิดเผยเป็นจริง ค่าใช้จ่ายในการเปลี่ยนต่ำ และการป้องกันการล็อคอินยังคงมีประสิทธิภาพ
-- **เงื่อนไขการเปิดเผยข้อมูลและชั้นประโยชน์สาธารณะ:** การเรียกร้องรางวัลจำเป็นต้องมีการเปิดเผยข้อมูลที่เพียงพอสำหรับความเข้าใจที่เป็นอิสระ การตรวจสอบ และการทำซ้ำในภายหลัง โดยอยู่ภายใต้ข้อจำกัดชั่วคราวที่สมเหตุสมผลเท่านั้น **บทที่หนึ่ง** และ **ข้อ XVII-A** (*การกำกับดูแลวงจรชีวิตและการแยกสิ่งแวดล้อม*)
-  - การอ้างสิทธิ์ในการรับรางวัลไม่เป็นไปตามข้อกำหนดเมื่อมีการใช้เพื่อระงับ: นอกเหนือจากที่จำเป็นอย่างเคร่งครัดและตรวจสอบได้
-    - ซ่อมแซม;
-    - งานด้านความปลอดภัย
-    - การทำงานร่วมกัน;
-    - การเก็บถาวร;
-    - วิจัย;
-    - การศึกษา;
-    - การโยกย้าย
-  - โดเมนที่มีความสำคัญต่อความอยู่รอด รากฐาน หรือการกำหนดมาตรฐานอาจต้องมีกลไกการได้รับรางวัล การรวมกลุ่ม การบังคับเข้าถึง หรือกลไกการซื้อโดยสาธารณะ แทนการยกเว้น
-- **การแยกโดเมนและค่าเริ่มต้นที่รัดกุมยิ่งขึ้น:** รางวัลการยกเว้นขั้นสูงจะถือว่าไม่ได้รับการสนับสนุน — และอาจไม่สามารถใช้ได้อย่างเด็ดขาดหากมีเครื่องมือการรับเลี้ยงบุตรบุญธรรมระบุไว้ — สำหรับ:
-  - ยาและสิ่งจำเป็นด้านสาธารณสุข
-  - โครงสร้างพื้นฐานที่มีความสำคัญต่อการอยู่รอด
-  - มาตรฐานการสื่อสารหลักหรือการทำงานร่วมกัน
-  - ความรู้พื้นฐานทางวิทยาศาสตร์
-  - กลไกความปลอดภัย การตรวจสอบ หรือการปฏิบัติตามตามรัฐธรรมนูญ
-
-  ในโดเมนเหล่านั้น สถาบันควรต้องการรางวัลโดยตรง การเข้าถึงแบบรวม การออกใบอนุญาตภาคบังคับ การซื้อโดยสาธารณะ หรือกลไกที่เทียบเท่าที่สงวนการนำไปปฏิบัติ การซ่อมแซม และการแพร่กระจายในวงกว้าง
-- **การจัดประเภทใหม่และการกระชับ:** เมื่อนวัตกรรมที่เริ่มแรกถือว่าเป็นการพึ่งพาที่ต่ำกว่า ต่อมาจะกลายเป็นชั้นการประสานงานที่สำคัญในการพึ่งพา ตัวอย่างเช่น แพลตฟอร์ม โปรโตคอล โมเดล ตลาด หรือช่องทางการชำระเงิน สถาบันจะต้องประเมินใหม่ภายใต้บังคับ **CS-3 — การจำแนกและการจัดการระบบ** ระดับ.
-  - การประเมินใหม่อาจทำให้แคบลง แปลง หรือยุติการยกเว้นที่เหลืออยู่ โดยที่การผูกขาดอย่างต่อเนื่องจะทำให้เกิด:
-    - การบังคับล็อคอิน;
-    - ปัญหาคอขวดในการต่อต้านการแข่งขัน
-    - การคุกคามที่เป็นสาระสำคัญต่อความต่อเนื่อง ความจริง หรือการมีส่วนร่วมอย่างเท่าเทียมกัน
-
+<a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
 <a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
-#### มาตรา XVIII-E: การตีพิมพ์ทางวิทยาศาสตร์ การทบทวน และความสมบูรณ์ของการจำลองแบบ
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+#### มาตรา XV-D: การตีพิมพ์ทางวิทยาศาสตร์ การทบทวน และความสมบูรณ์ของการจำลองแบบ
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1395,6 +958,602 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
     - การปราบปรามผลลัพธ์ที่ไม่สะดวก
     - การตอบโต้ผู้ตรวจสอบหรือผู้ลอกเลียนแบบ;
     - การจัดการบันทึกทางวิทยาศาสตร์ที่ไม่โปร่งใส
+
+<a id="article-xvi-audit-transparency-and-independent-verification"></a>
+### ข้อ XVI: การตรวจสอบ ความโปร่งใส และการพิสูจน์ยืนยันที่เป็นอิสระ
+
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 ความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), และ [§9 ความจุของระบบที่ใช้ร่วมกัน](core_01_a_values_principles.md#9-shared-system-capacity).
+- อ่านด้วย: [รูปภาพการตรวจสอบสามชั้น](#audit-three-layers) ด้านล่าง.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
+- [สาระสำคัญ](core_05_band_oversight.md#materiality-determination) · [โอ](core_05_band_oversight.md#materiality-determination) · [ม](core_05_band_oversight.md#materiality-determination-a) · [ก](core_05_band_oversight.md#materiality-determination-a) · [ค](core_05_band_oversight.md#materiality-determination-c)
+- [การพึ่งพาอาศัยกัน](../../core_05_band_continuity.md#dependency) · [โอ](../../core_05_band_continuity.md#dependency) · [ม](../../core_05_band_continuity.md#dependency-a) · [ก](../../core_05_band_continuity.md#dependency-a) · [ค](../../core_05_band_continuity.md#dependency-c)
+- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+
+</details>
+
+<br>
+
+*ในแง่ธรรมดา: **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) คือสิทธิ์ขั้นต่ำในการตรวจสอบและยืนยัน — เมื่อระบบส่งผลกระทบอย่างมีนัยสำคัญต่อชีวิตของคุณ คุณจะต้องสามารถเห็นสิ่งที่ระบบทำเพื่อให้บุคคลภายนอกตรวจสอบได้เพียงพอ และเส้นทางอิสระมากกว่าหนึ่งเส้นทางจะต้องสามารถตรวจสอบและแก้ไขความล้มเหลวได้ การตรวจสอบต้องไม่เป็นเหมือนตรายาง คลับส่วนตัว หรือเขาวงกตแห่งต้นทุนและความล่าช้าที่ออกแบบมาเพื่อป้องกันความท้าทาย ภายใต้ **การกำกับดูแล** ขา Tetrad การกำกับดูแลต้องมีการตรวจสอบ [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่เป็นพิเศษและมีเดิมพันสูงกระบวนการหนึ่ง ไม่ใช่แค่กระบวนการเดียวเท่านั้น*
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำแนะนำสำหรับผู้อ่าน (ไม่ใช้งาน): ชุดการตรวจสอบสามชั้น</span></strong></summary>
+
+> โดยมีเนื้อหาดังต่อไปนี้ **คำแนะนำของผู้อ่านเท่านั้น**. ไม่ได้เพิ่ม ลบ หรือจำกัดภาระผูกพันในบทความนี้หรือที่อื่น ๆ
+
+<a id="audit-three-layers"></a>
+
+หนึ่งกองสามชั้น การกำกับดูแลจำเป็นต้องมีความสามารถในการสร้างใหม่ การรับรองการจัดตำแหน่งระบบไม่ใช่การตรวจสอบเพียงอย่างเดียว ข้อความการใช้งานที่นำมาใช้ไม่ได้แทนที่พื้น อย่าประดิษฐ์บ้านหลังที่ห้า
+
+| เลเยอร์ | งาน | เจ้าของ | ไม่ใช่เลเยอร์นี้ |
+|---|---|---|---|
+| **1. พื้น** | ความรู้สึกที่เป็นหนี้: การตรวจสอบที่สร้างใหม่ได้, การตรวจสอบโดยอิสระ, ความท้าทายที่เข้าถึงได้ | บทความนี้ รวมถึง XVI-A / XVI-B / XVI-C | ไม่ใช่กระบวนการ ไม่ใช่คำจำกัดความ ไม่ใช่รายการตรวจสอบข้อความการนำไปปฏิบัติ |
+| **2. ทรัพย์สิน** | ความสามารถในการก่อสร้างใหม่ *คือ*: บุคคลภายนอกสามารถสร้างใหม่และตรวจสอบสิ่งที่ระบบทำในช่วงเวลาที่สำคัญ สถานะ และบริบท | [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) (บทที่ห้า) | ไม่ใช่ชั้นสิทธิ ไม่ใช่ว่าจะดำเนินการตรวจสอบอย่างไร/เมื่อใด |
+| **3. กระบวนการ** | อย่างไรและเมื่อใดที่จะตรวจสอบระหว่างระบบ สถาบัน และฟอรัม | [ซีเจเอส-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*หน้าแรกกระบวนการตรวจสอบ*) ภาคผนวกของผู้ประกอบการ: [ซีเจเอส-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (ระดับการเข้าถึง) [ซีเจเอส-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (ตรวจสอบการเคลม) | ไม่ใช่การรับรองการจัดตำแหน่งระบบ ไม่สามารถทดแทนเลเยอร์ 1–2 ได้ |
+
+**บทที่เก้าไม่ใช่ชั้นที่สี่** [การรับรองการจัดตำแหน่งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการขนาดใหญ่ที่ดูแลโดยฟอรัม **การใช้งาน** กองนี้ มันจะต้องเป็นไปตามชั้นที่ 1–2 โหมดพี่น้อง (การตรวจสอบบันทึกการจำแนกประเภท, ประเภทข้อมูล-การตรวจสอบบันทึก, การตรวจสอบการอ้างสิทธิ์, การตรวจสอบอย่างต่อเนื่อง) ก็ใช้สแต็กเช่นกัน ไม่มีพวกเขาเป็นบ้านใหม่
+
+**ข้อความการใช้งานที่นำมาใช้นำไปใช้; มันไม่ได้แทนที่พื้น** ภาคผนวก CS, CI, CF และ CJS-3.3 (*การกำกับดูแล: เงื่อนไขการตรวจสอบและความสามารถในการสร้างใหม่*) ผ่าน CJS-3.5 (*การกำกับดูแล: เงื่อนไขการตรวจสอบอิสระและเงื่อนไขการเรียกร้องความสมบูรณ์*) กล่าวถึงวิธีเรียกใช้เลเยอร์ 3 ในโดเมน พวกเขาจะต้องเป็นไปตามชั้นที่ 1–2 กำหนดเวลา การรักษาความลับ และนโยบายท้องถิ่นถือเป็นขีดจำกัดที่ต่ำกว่า
+
+ตัวชี้สจ๊วต (การสนับสนุนกระบวนการ ไม่สามารถจำกัดบทความนี้ให้แคบลงได้): [`การนำไปใช้/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
+
+</details>
+
+<br>
+
+บทความนี้ระบุว่า **พื้นรัฐธรรมนูญ** เพื่อการตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระตาม [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims): :
+
+- **เฟื่องฟู:** ผู้ที่มีความรู้สึกและบุคคลที่ได้รับอนุญาตอย่างเหมาะสมสามารถสร้างสิ่งที่ระบบส่งผลกระทบอย่างมีนัยสำคัญขึ้นมาใหม่ ท้าทายพฤติกรรมที่ไม่ตรงหรือพฤติกรรมที่ทำให้เข้าใจผิด และมีส่วนร่วมในการตรวจสอบโดยไม่ต้องมีผู้ตรวจสอบ ผู้ปฏิบัติงาน หรือเจ้าหน้าที่เฝ้าประตูจับได้เพียงรายเดียว
+- **ความต่อเนื่อง:** เส้นทางการตรวจสอบ เส้นทางการกำกับดูแล และการเข้าถึงการตรวจสอบจะคงอยู่ตลอดเวลา ขนาด และการพึ่งพาที่ลึกซึ้งยิ่งขึ้น — ระบบจะต้องไม่กัดกร่อนความสามารถในการสังเกตอย่างเงียบๆ เน้นการตรวจสอบไปที่นักแสดงเพียงคนเดียว หรือตรวจสอบราคาหรือชะลอการตรวจสอบจนกว่าความรับผิดชอบจะกลายเป็นทางทฤษฎี
+
+การแสวงหาที่ถูกต้องตามกฎหมายดำเนินไปผ่านทาง [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad), ปรับขนาดเป็น [สัดส่วนการถือหุ้นวัสดุ](core_00_preamble.md#material-stake): :
+
+- **การเข้าร่วม:** ในการเข้าถึงบันทึกตามสัดส่วน เริ่มต้นการตรวจสอบที่แข่งขันได้ และอุปสรรคที่ท้าทายซึ่งเอาชนะการตรวจสอบหรือการตรวจสอบที่มีความหมาย
+- **การกำกับดูแล:** ผ่านหลักฐานที่สังเกตได้ แนวทางการทบทวนที่เป็นอิสระ และกลไกการตรวจสอบตามสัดส่วนของผลกระทบ การพึ่งพา และความเสี่ยง
+- **ความรับผิดชอบ:** ผู้ปฏิบัติงานและผู้ตรวจสอบจะต้องตอบสนองต่อความล้มเหลว การวางแนวที่ไม่ถูกต้อง การจับกุม หรือการดำเนินการที่ซ่อนหรือทำลายเส้นทางการตรวจสอบ พร้อมการแก้ไขและการเยียวยาในกรณีที่การปิดกั้นการตรวจสอบส่งผลเสียต่อผลประโยชน์ที่ได้รับการคุ้มครองอย่างมีนัยสำคัญ
+- **ความทันเวลา:** ในการเข้าถึงการตรวจสอบ การตรวจสอบโดยอิสระ และการแก้ไขอุปสรรคก่อนความล่าช้า ต้นทุน ความทึบ หรือการรักษาประตูจะทำให้การตรวจสอบหรือการแก้ไขไม่สามารถเข้าถึงได้อย่างมีประสิทธิภาพ
+
+ผู้ที่มีความรู้สึกและบุคคลที่ได้รับอนุญาตอย่างเหมาะสมมีสิทธิ์ในการตรวจสอบ ความโปร่งใส และกลไกการตรวจสอบที่เป็นอิสระตามสัดส่วนกับผลกระทบของระบบ การพึ่งพา และความเสี่ยง
+
+กลไกเหล่านั้นจะต้องคงไว้ซึ่ง:
+- ความสามารถในการสร้างใหม่ได้จริง
+- การทบทวนที่โต้แย้งได้
+- การเข้าถึงตามสัดส่วน
+
+พวกเขาดำเนินงานอย่างต่อเนื่องด้วย **บทที่สองถึงสี่**รวมถึงการบังคับใช้แต่เพียงผู้เดียวและการจัดสรรภาระ มาตรฐานหลักฐานการปฏิบัติตามข้อกำหนด ความสามารถในการตรวจสอบย้อนกลับ ความสามารถในการสังเกต และการเข้าถึงการตรวจสอบ
+
+*เพื่อนบ้านบทความ:*
+
+- **การกำกับดูแล → การตรวจสอบ → SAC:** ภายใต้ [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) **การกำกับดูแล** ขา บทความนี้เป็นหน้าแรกของ Rights-Floor สำหรับการตรวจสอบ
+  - การดำเนินการข้ามสาย *อย่างไร* / *เมื่อใด* อาศัยอยู่ใน **[หน้าแรกกระบวนการตรวจสอบ CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (อ่านด้วย. **ซีเจเอส-3.4** / **ซีเจเอส-3.5** ภาคผนวก OP)
+  - [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่และเดิมพันสูงเป็นพิเศษกระบวนการหนึ่ง — ภายใต้การดูแลของฟอรัม, หลายโดเมน และได้รับการยอมรับ — ในโหมดการตรวจสอบแบบพี่น้อง:
+    - การตรวจสอบบันทึกการจำแนกระบบ
+    - การตรวจสอบบันทึกประเภทข้อมูลระบบ;
+    - การตรวจสอบความซับซ้อนและการดูแล
+    - การยืนยันการเรียกร้อง; และ
+    - เส้นทางการตรวจสอบอย่างต่อเนื่อง
+  - SAC ไม่ดูดซับหรือแทนที่บทความนี้
+- **อ่านด้วยกัน:**
+  - **ข้อ XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*) ซึ่งบันทึกทางญาณและความสามารถในการแข่งขันมีความเกี่ยวข้องอย่างเป็นรูปธรรม
+  - **ข้อ XIII-A** (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) สำหรับการท้าทายสิทธิ์ที่การตรวจสอบสนับสนุนแต่ไม่ได้แทนที่
+  - [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) และ [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) โดยที่หลักฐานการจัดตำแหน่งจะต้องสามารถตรวจสอบยืนยันได้โดยอิสระ
+- **เครื่องจักรตรวจสอบ:** **บทที่สองถึงสี่** ระบุความสมบูรณ์ของคำจำกัดความ การจัดสรรภาระ ความสามารถในการสังเกต และความสามารถในการตรวจสอบที่บทความนี้นำไปใช้ในเลเยอร์ Rights-Floor
+- **การจำแนกประเภท:** ภาระผูกพันมาตราส่วนด้วย [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) และ **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**; ในกรณีที่ชั้นเรียนไม่แน่นอน ให้ควบคุมในระดับที่เป็นไปได้สูงสุดจนกว่าจะได้รับการแก้ไข
+
+<a id="article-xvi-a-auditability-and-observable-evidence"></a>
+#### มาตรา XVI-A: การตรวจสอบได้และหลักฐานที่สามารถสังเกตได้
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
+- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
+
+</details>
+
+<br>
+
+*พูดง่ายๆ: ระบบจะต้องเก็บหลักฐานที่ซื่อสัตย์เพียงพอเกี่ยวกับสิ่งที่พวกเขาทำเพื่อบุคคลภายนอกเพื่อสร้างและท้าทายพฤติกรรมของพวกเขาใหม่ - ภายในขีดจำกัดความปลอดภัยตามกฎหมาย*
+
+บทความนี้กำหนดพื้นฐานสำหรับหลักฐานที่สามารถสังเกตได้และโต้แย้งได้:
+
+- **หลักฐานที่สังเกตได้และโต้แย้งได้:** ระบบจะต้องรักษาบันทึก การเปิดเผย การตรวจสอบย้อนกลับ และเส้นทางการฟื้นฟูที่เพียงพอสำหรับการประเมินความสอดคล้องตามรัฐธรรมนูญที่เป็นอิสระและโต้แย้งได้
+  - ภาระผูกพันดังกล่าวขึ้นอยู่กับความสามารถในการสังเกตที่จำกัดด้านความปลอดภัย (**บทที่สี่ §4** (*กฎการสังเกตและการตรวจสอบที่จำกัดด้านความปลอดภัย*)) และการเข้าถึงตามสัดส่วน
+<a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
+#### มาตรา XVI-B: การกำกับดูแลแบบกระจายและการทบทวนการต่อต้านการผูกขาด
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) · [โอ](core_05_apex_oversight_leg.md#oversight-constitutional) · [ม](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [ก](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [ค](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [ความสามารถในการแข่งขัน](../../core_05_band_accountability.md#contestability) · [โอ](../../core_05_band_accountability.md#contestability) · [ม](../../core_05_band_accountability.md#contestability-a) · [ก](../../core_05_band_accountability.md#contestability-a) · [ค](../../core_05_band_accountability.md#contestability-c)
+- [การจับภาพระบบ](../../core_05_band_continuity.md#system-capture) · [โอ](../../core_05_band_continuity.md#system-capture) · [ม](../../core_05_band_continuity.md#system-capture-a) · [ก](../../core_05_band_continuity.md#system-capture-a) · [ค](../../core_05_band_continuity.md#system-capture-c)
+
+</details>
+
+<br>
+
+*พูดง่ายๆ: ไม่มีนักแสดงเพียงคนเดียว - ทั้งภาครัฐและเอกชน - อาจมุมการกำกับดูแลได้ เส้นทางการกำกับดูแลที่เป็นอิสระหลายเส้นทางจะต้องสามารถค้นหา ทบทวน และแก้ไขความล้มเหลวหรือการจับกุมได้*
+
+บทความนี้กำหนดพื้นฐานสำหรับการกำกับดูแลแบบกระจาย:
+
+- **การกำกับดูแลแบบกระจาย:** เส้นทางการกำกับดูแลที่เป็นอิสระหรือพหุนิยมหลายเส้นทางจะต้องสามารถมีส่วนร่วมอย่างมากในการตรวจจับ ทบทวน และแก้ไขความล้มเหลว การวางแนวที่ไม่ถูกต้อง หรือการจับกุม
+  - ไม่มีผู้มีบทบาทเพียงคนเดียวผูกขาดการเข้าถึงการตรวจสอบ การกำกับดูแลที่มีประสิทธิผล หรือการตีความรัฐธรรมนูญในทางปฏิบัติ
+  - การกำกับดูแลและการดำเนินงานด้านความซื่อสัตย์ที่นำมาใช้จะต้องสนับสนุนการขยายขนาดการตรวจสอบและการกำกับดูแล
+  - **ห้ามผู้เฝ้าประตูควบคุมการเข้าถึงการตรวจสอบ:** ผู้กระทำรายเดียวห้ามตัดสินลำพังว่าใครเห็นบันทึกหรือทำการตรวจสอบได้ หลักเกณฑ์สำหรับผู้ตรวจสอบที่เข้าถึงข้อมูลระดับลึกต้องเผยแพร่ และต้องมีผู้ตรวจสอบที่มีคุณสมบัติมากกว่าหนึ่งรายสามารถผ่านหลักเกณฑ์ได้
+  - **ห้ามผู้เฝ้าประตูควบคุมการทบทวน:** ผู้กระทำรายเดียวห้ามตัดสินลำพังว่าจะทบทวนเมื่อใดหรือให้ใครทบทวน โดยเฉพาะผู้ดำเนินระบบต้องไม่เป็นผู้เดียวที่เริ่ม จำกัด หรือยุติการทบทวนระบบของตน
+  - **ห้ามผู้เฝ้าประตูควบคุมความหมาย:** ผู้กระทำรายเดียวห้ามควบคุมการตีความรัฐธรรมนูญ การตีความต้องมีขอบเขต หมุนเวียน และเปิดให้คัดค้านตาม **มาตรา XXV** (*การตีความรัฐธรรมนูญ การทบทวน และมาตรการป้องกันการยึดครอง*)
+  - **การกำกับดูแลต้องขยายตามการเติบโต:** การกำกับดูแลและการดำเนินการด้านความสมบูรณ์ที่นำมาใช้ รวมถึงกระบวนการตรวจสอบใน **CJS-3.3**, การรับรองความสมบูรณ์ใน **CJS-3.6**, และการรับรองระดับสถาบันใน **CI-7** ต้องขยายการตรวจสอบและการกำกับตามการเติบโตของระบบ โดยเพิ่มช่องทาง ความลึก และความถี่ของการทบทวนเมื่อ Class ผลกระทบ และการพึ่งพาสูงขึ้น; ตรวจใหม่เมื่อการเปลี่ยนแปลงสำคัญทำให้การตรวจเดิมไม่อธิบายระบบอีก; และเผยแพร่เงื่อนไขที่บังคับให้มีการตรวจสอบภายนอกเมื่อไม่อาจเชื่อถือการตรวจภายใน
+- **ห้ามตรวจงานของตนเอง:** การมีผู้ตรวจหลายคนไม่พอ หากผู้ตรวจคนหนึ่งตรวจการกระทำของตนเอง ตามการแยกหน้าที่ใน **บทที่หนึ่ง §18.3** และ **บทที่แปด** (*ความเป็นอิสระเชิงหน้าที่และการแยกหน้าที่*) ข้อกำหนดนี้ใช้กับผู้ดูแลทั้งมนุษย์และ AI:
+  - ผู้ริเริ่มหรือดำเนินการ หรือผู้ปฏิบัติการระบบที่กำลังถูกตรวจสอบ ห้ามตรวจยืนยันหรืออนุมัติการกระทำนั้น;
+  - ผู้ตรวจยืนยันหรืออนุมัติ ห้ามเป็นผู้เก็บบันทึกทางการหรือรับฟังคำคัดค้านเรื่องเดียวกัน
+
+<a id="article-xvi-c-verification-accessibility"></a>
+#### มาตรา XVI-C: การเข้าถึงการยืนยัน
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความสามารถในการแข่งขัน](../../core_05_band_accountability.md#contestability) · [โอ](../../core_05_band_accountability.md#contestability) · [ม](../../core_05_band_accountability.md#contestability-a) · [ก](../../core_05_band_accountability.md#contestability-a) · [ค](../../core_05_band_accountability.md#contestability-c)
+- [สัดส่วน](../../core_05_band_accountability.md#proportionality) · [โอ](../../core_05_band_accountability.md#proportionality) · [ม](../../core_05_band_accountability.md#proportionality-a) · [ก](../../core_05_band_accountability.md#proportionality-a) · [ค](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*กล่าวโดยทั่วไป: การตรวจสอบและความท้าทายจะต้องเข้าถึงได้ในทางปฏิบัติ การตรวจสอบที่ทำโดยมีราคาแพง ช้า หรือทึบแสงถือเป็นการละเมิด เว้นแต่สิ่งกีดขวางจะตรงตามการทดสอบเดียวกันกับข้อจำกัดในการมองเห็น*
+
+บทความนี้กำหนดพื้นฐานสำหรับการตรวจสอบการเข้าถึง:
+
+- **การเข้าถึงการยืนยัน:** การตรวจสอบจะต้องยังคงทำได้จริงสำหรับฝ่ายที่ได้รับผลกระทบและได้รับอนุญาตอย่างเหมาะสม
+  - สิ่งต่อไปนี้ละเมิดบทความนี้ โดยเอาชนะการตรวจสอบ การท้าทาย หรือการทบทวนที่มีความหมาย:
+    - ต้นทุนต้องห้าม;
+    - ล่าช้า;
+    - ความทึบ;
+    - การเฝ้าประตู;
+    - สิ่งกีดขวางทางโครงสร้าง
+  - อุปสรรคดังกล่าวไม่เป็นไปตามข้อกำหนด เว้นแต่จะได้รับการพิสูจน์ภายใต้มาตรฐานเดียวกันที่แสดงให้เห็นถึงข้อจำกัดในการสังเกต
+
+    - **ต้นทุน:** ค่าธรรมเนียม ผู้เชี่ยวชาญ อุปกรณ์ หรือผู้แทนที่มีราคาสูงเกินกว่าผู้ได้รับผลกระทบจะรับได้จริง;
+    - **ความล่าช้า:** การรอ คิวค้าง หรือขั้นตอนที่ยืดจนความเสียหายเกิดขึ้น หลักฐานสูญหาย หรือการเยียวยาไร้ผล โดยประเมินตาม **มาตรา XXVI-C** (*พื้นการแก้ไขอย่างทันท่วงทีและการป้องกันความล่าช้า*);
+    - **ความทึบแสง:** หลักฐานอยู่ในรูปที่บุคคลภายนอกอ่านหรือทดสอบไม่ได้ ซ่อนอยู่ในความซับซ้อนเกินจำเป็น หรือใช้ภาษาที่ผู้ได้รับผลกระทบเข้าใจไม่ได้ ซึ่งขัดต่อ **บทที่หนึ่ง §5.2** (*การเข้าถึงภาษาธรรมดา*);
+    - **การเฝ้าประตู:** เกณฑ์คุณสมบัติสำหรับตรวจสอบหรือคัดค้านถูกซ่อน กีดกัน หรือควบคุมโดยฝ่ายที่ถูกตรวจ;
+    - **อุปสรรคเชิงโครงสร้าง:** ระบบถูกออกแบบหรือดำเนินการให้ขัดขวางการตรวจสอบอย่างคาดหมายได้ในสภาพการณ์ที่คาดหมายได้อย่างสมเหตุสมผล
+  - **เงื่อนไขที่อุปสรรคอาจคงอยู่:** อนุญาตได้เฉพาะเมื่อผ่านการทดสอบเดียวกับข้อจำกัดการสังเกตเพื่อความมั่นคงตาม **บทที่สี่ §4**:
+    - จำเป็น ได้สัดส่วน จำกัดขอบเขตอย่างแคบ ตรวจสอบได้ ไม่ใช้เป็นข้ออ้าง และจำกัดเวลาหากทำได้;
+    - เหตุผลและขอบเขตตรวจสอบได้อย่างเป็นอิสระ;
+    - เป็นทางเลือกที่จำกัดสิทธิน้อยที่สุดแต่ยังจัดการความเสี่ยงได้; และ
+    - คงการตรวจสอบอิสระให้มากที่สุด เช่น เปิดช่องให้ผู้ทบทวนที่มีคุณสมบัติตรวจเมื่อไม่เหมาะสมที่จะเปิดสาธารณะทั้งหมด ตาม **CJS-3.4** (*การกำกับดูแล: ความโปร่งใสเป็นระดับและเงื่อนไขการเข้าถึงการตรวจสอบ*)
+  - **ใครต้องพิสูจน์:** ฝ่ายที่อาศัยอุปสรรคต้องแสดงว่าผ่านการทดสอบนี้ ตาม **บทที่สี่ §1** (*การบังคับใช้โดยเฉพาะและการจัดสรรภาระพิสูจน์*) ความสะดวก บุคลากรขาดแคลน ความไม่สบายใจของสถาบัน หรือข้ออ้างเรื่องกรรมสิทธิ์เพียงอย่างเดียวไม่อาจรองรับอุปสรรคได้
+
+<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+### ข้อ XVII: วงจรชีวิตของระบบ สภาพแวดล้อม และการพลิกกลับได้
+
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 การดูแลเชิงลึก](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), และ [§12 ข้อกำหนดการประเมินอย่างเป็นระบบ](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+- [สาระสำคัญ](core_05_band_oversight.md#materiality-determination) · [โอ](core_05_band_oversight.md#materiality-determination) · [ม](core_05_band_oversight.md#materiality-determination-a) · [ก](core_05_band_oversight.md#materiality-determination-a) · [ค](core_05_band_oversight.md#materiality-determination-c)
+- [การพึ่งพาอาศัยกัน](../../core_05_band_continuity.md#dependency) · [โอ](../../core_05_band_continuity.md#dependency) · [ม](../../core_05_band_continuity.md#dependency-a) · [ก](../../core_05_band_continuity.md#dependency-a) · [ค](../../core_05_band_continuity.md#dependency-c)
+- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05_band_continuity.md#safety-constraint) · [โอ](../../core_05_band_continuity.md#safety-constraint) · [ม](../../core_05_band_continuity.md#safety-constraint-a) · [ก](../../core_05_band_continuity.md#safety-constraint-a) · [ค](../../core_05_band_continuity.md#safety-constraint-c)
+- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
+- [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
+
+</details>
+
+<br>
+
+*ในแง่ธรรมดา: **ข้อ XVII** (*วงจรชีวิตของระบบ สภาพแวดล้อม และการพลิกกลับได้*) คือสิทธิขั้นต่ำของวงจรชีวิตและการพลิกกลับได้ — ระบบที่ส่งผลกระทบอย่างมีนัยสำคัญต่อโลกภายนอกจะต้องถูกสร้างขึ้น ทดสอบ และเปิดตัวเป็นขั้นตอน โดยมีการแยกระหว่างการทดลองและการผลิตอย่างแท้จริง และวิธีที่ใช้งานได้จริงเพื่อยกเลิกหรือกักเก็บอันตรายเมื่อมีบางอย่างผิดพลาด คุณไม่สามารถติดป้ายกำกับระบบว่า "ทดลอง" หรือ "มีผลกระทบต่ำ" เพียงเพื่อข้ามมาตรการป้องกันในขณะที่ระบบมีผลกระทบต่อโลกภายนอกจริงๆ*
+
+บทความนี้ระบุว่า **พื้นรัฐธรรมนูญ** สำหรับวงจรชีวิตของระบบ สภาพแวดล้อม และการพลิกกลับได้ภายใต้ [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims): :
+
+- **เฟื่องฟู:** ความรู้สึกได้รับการคุ้มครองทั้งในด้านการออกแบบ การทดสอบ การใช้งาน และการเปลี่ยนแปลง — ด้วยความปลอดภัย [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity)และท้าทายสิทธิที่สงวนไว้เมื่อผลกระทบและการพึ่งพาเพิ่มขึ้น และด้วยการย้อนกลับ การควบคุม หรือการชดเชยซึ่งความเสียหายอาจติดอยู่
+- **ความต่อเนื่อง:** ระเบียบวินัยของวงจรชีวิตยึดถือตามเวลาและขนาด — สภาพแวดล้อมแยกจากกัน การยกระดับยังคงมีการบันทึกไว้และตรวจสอบได้ และการย้อนกลับจะต้องไม่หายไปอย่างเงียบๆ เนื่องจากระบบกลายเป็นเรื่องยากที่จะแทนที่หรือฝังลึกมากขึ้นในโครงสร้างพื้นฐานที่ใช้ร่วมกัน
+
+การแสวงหาที่ถูกต้องตามกฎหมายดำเนินไปผ่านทาง [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad), ปรับขนาดเป็น [สัดส่วนการถือหุ้นวัสดุ](core_00_preamble.md#material-stake): :
+
+- **การเข้าร่วม:** ในเหตุผลที่ผู้มีส่วนได้ส่วนเสียมองเห็นได้สำหรับการตัดสินใจในการยกระดับ การจัดประเภท และการใช้งานที่ส่งผลกระทบอย่างมีนัยสำคัญต่อผลประโยชน์ที่ได้รับการคุ้มครอง และในเส้นทางความท้าทายที่ยังคงเปิดกว้างตลอดวงจรการใช้งาน
+- **การกำกับดูแล:** ผ่านสภาพแวดล้อมที่แยกส่วนได้ เอกสารการส่งเสริมและการยกระดับ บันทึกการใช้งานแบบก้าวหน้า และเส้นทางการตรวจสอบตามสัดส่วนของผลกระทบ การพึ่งพา และการย้อนกลับไม่ได้
+- **ความรับผิดชอบ:** ผู้ดูแลระบบจะต้องตอบสำหรับการจัดประเภทความเสี่ยงที่ไม่ถูกต้อง การหลีกเลี่ยงสภาพแวดล้อมด้านความปลอดภัย การซ่อนผลกระทบภายนอก หรือการใช้งานในลักษณะที่ยึดการบูรณะโดยไม่มีการป้องกันไว้ก่อนตามสัดส่วน ด้วยการตรวจสอบ การทบทวนแบบยืนต้น และการแก้ไขข้อขัดแย้ง ในกรณีที่มีการหลีกเลี่ยง
+- **ความทันเวลา:** ในการย้อนกลับ การกักกัน และการยกระดับการแก้ไขก่อนความล่าช้าจะทำให้ความเสียหายไม่สามารถย้อนกลับได้ หรือทำให้การท้าทายและการเยียวยาไม่สามารถเข้าถึงได้อย่างมีประสิทธิผล
+
+ระบบที่ส่งผลกระทบอย่างมีนัยสำคัญต่อความรู้สึก โครงสร้างพื้นฐานที่ใช้ร่วมกัน หรือสภาพแวดล้อม จะต้องได้รับการออกแบบ ทดสอบ และปรับใช้ด้วยการกำกับดูแลวงจรชีวิตที่มีระเบียบวินัย ความเสี่ยงจะต้องขยายตามผลกระทบ การพึ่งพา และการย้อนกลับไม่ได้
+
+Sentient มีสิทธิในการพิทักษ์รักษาความปลอดภัย ความสมบูรณ์ทางญาณ และท้าทายสิทธิ์ตลอดวงจรการทำงาน
+
+*เพื่อนบ้านบทความ:*
+
+- **อ่านด้วยกัน:** **ข้อ XVIII** (*นวัตกรรมแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์*) โดยที่กฎที่เบากว่าจะใช้เฉพาะเมื่อไม่มีผลกระทบจากภายนอกหรือแสดงให้เห็นได้อย่างชัดเจน **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) สำหรับหลักฐานการปรับใช้งานและการยกระดับที่สามารถสร้างใหม่ได้ **ข้อ XIII-F** (*พื้นฐานความยืดหยุ่นและการรักษาตนเอง*) โดยที่วินัยในการฟื้นฟูจะตัดกับการเปลี่ยนแปลงวงจรชีวิต
+- **ชั้นการใช้งาน:** [**ซีเอส-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*การจำแนกประเภทระบบและการจัดการ*) และ [**ซีเอส-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*การออกแบบ การทดสอบ การตรวจสอบ และการปรับใช้*) **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบมีหน้าที่ในวงจรชีวิตที่แข็งแกร่งที่สุด ถูกต้อง **คลาส ป** การรักษายังคงอยู่ภายใต้ **ข้อ XVIII** (*นวัตกรรมแบบแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์*) เฉพาะในขณะที่ผลกระทบจากภายนอกหายไปหรือแสดงให้เห็นได้ชัดเจนเท่านั้น
+
+<a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
+#### มาตรา XVII-A: การกำกับดูแลวงจรชีวิตและการแยกสิ่งแวดล้อม
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
+- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+- [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*กล่าวโดยทั่วไป: ระบบที่ส่งผลกระทบอย่างมีนัยสำคัญต่อโลกภายนอกจะต้องแยกการพัฒนา การทดสอบ และการผลิตออกจากกัน และพฤติกรรมที่ไม่ใช่การผลิตจะต้องไม่รั่วไหลผ่านการป้องกันการผลิต*
+
+บทความนี้กำหนดพื้นฐานสำหรับความสมบูรณ์ของสิ่งแวดล้อม:
+
+- **ความสมบูรณ์ของสิ่งแวดล้อม:** **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบภายใต้ **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**และอื่นๆที่ไม่ใช่-**คลาส ป** ระบบที่มีผลกระทบภายนอกอย่างเป็นรูปธรรม ต้องใช้สภาพแวดล้อมการปฏิบัติงานที่แยกจากกัน ตัวอย่างเช่น
+  - การพัฒนา;
+  - การทดสอบ;
+  - การแสดงละคร;
+  - การผลิต;
+  - นักบินตามความเหมาะสม
+
+  สภาพแวดล้อมเหล่านั้นต้องมี:
+  - เส้นทางการส่งเสริมการขายที่จัดทำเป็นเอกสาร
+  - การแยกระหว่างสภาพแวดล้อม
+  - ควบคุมเพื่อให้พฤติกรรมที่ไม่ใช่การผลิตไม่สามารถหลีกเลี่ยงการป้องกันการผลิตได้
+- **ระบบ Class L — การแยกตามสัดส่วน:** ไม่จำเป็นต้องมีสภาพแวดล้อมแยกครบทุกขั้น ผู้ดำเนินการสร้าง ทดสอบ และเปลี่ยนระบบ ณ ที่เดิมได้ แต่ต้องตรวจแต่ละการเปลี่ยนแปลงให้เพียงพอก่อนหรือขณะเริ่มใช้ เพื่อจับอันตรายต่อผู้เข้าร่วมที่คาดหมายได้อย่างสมเหตุสมผล; ปกป้องข้อมูล ตัวตน และสิ่งมีค่าที่ผู้เข้าร่วมมีในระบบจากความเสียหายจากการเปลี่ยนแปลงที่ผิดพลาดหรือทดลอง เช่น มีข้อมูลสำรองที่กู้คืนได้; และห้ามใช้รุ่นทดสอบเพื่อหลบมาตรการคุ้มครองของระบบใช้งานจริง
+- **ระบบ Class P:** ระบบ Class P ที่จัดประเภทถูกต้องต้องปฏิบัติตาม **Article XVIII** ตราบใดที่ยังถูกจำกัดขอบเขตอยู่
+
+<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+#### มาตรา XVII-B: การปรับใช้แบบก้าวหน้าและการพลิกกลับได้
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+- [สัดส่วน](../../core_05_band_accountability.md#proportionality) · [โอ](../../core_05_band_accountability.md#proportionality) · [ม](../../core_05_band_accountability.md#proportionality-a) · [ก](../../core_05_band_accountability.md#proportionality-a) · [ค](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*โดยทั่วไป: ค่อยๆ เผยแพร่การเปลี่ยนแปลง โดยมีการยกระดับเอกสารและความสามารถในการยกเลิก และในกรณีที่ไม่สามารถยกเลิกได้ทั้งหมด ให้มีแผนในการควบคุมหรือชดเชยความเสียหาย*
+
+บทความนี้กำหนดพื้นฐานสำหรับการปรับใช้แบบก้าวหน้าและการย้อนกลับได้:
+
+- **การใช้งานที่ก้าวหน้าและตรวจสอบได้:** การเปลี่ยนแปลงที่เพิ่มผลกระทบอย่างมีนัยสำคัญหรือการพึ่งพาจะต้องดำเนินการผ่านการยกระดับที่สมเหตุสมผลและเป็นเอกสาร
+  - การยกระดับจะต้องสอดคล้องกับ **[Corpus_systems.md](../../corpus_systems.md), CS-5 — การออกแบบ การทดสอบ การตรวจสอบ และการปรับใช้**.
+  - จะต้องรวมถึงการย้อนกลับและการกักกันหากเป็นไปได้
+- **การพลิกกลับได้:** ระบบจะต้องรวมกลไกการพลิกกลับได้สัดส่วนกับอันตรายที่อาจเกิดขึ้น ตัวอย่าง:
+  - ย้อนกลับ;
+  - การบรรจุ;
+  - การฟื้นฟูแบบชดเชยที่ไม่สามารถย้อนกลับได้เต็มจำนวน
+
+  ในกรณีที่การปรับใช้จะยึดการฟื้นฟูข้อกำหนดพื้นฐาน ให้ใช้มาตรการป้องกันตามสัดส่วน และการให้เหตุผลที่ผู้มีส่วนได้ส่วนเสียมองเห็นได้ **บทที่หนึ่งถึงห้า**.
+- **Class A, B, C — การปล่อยเป็นขั้นที่มีบันทึก:** การเปลี่ยนแปลงที่ขยายผลกระทบหรือการพึ่งพาต้องดำเนินเป็นขั้นที่มีเหตุผลและมีบันทึก ตาม **CS-5** และมีทางย้อนกลับ/จำกัดผลเท่าที่ทำได้
+- **Class L — การเปลี่ยนแปลงถี่:** ออกการเปลี่ยนแปลงได้บ่อย แม้ทุกวัน และไม่จำเป็นต้องทยอย หากแจ้งผู้เข้าร่วมไม่ช้ากว่าเวลาที่การเปลี่ยนแปลงซึ่งกระทบสิ่งที่ทำได้ สิ่งที่ถือครอง หรือกติกาที่ใช้มีผล (โดยทั่วไปบันทึกการเปลี่ยนแปลงสาธารณะเพียงพอ); แก้หรือย้อนการเปลี่ยนแปลงที่ผิดพลาดได้รวดเร็ว; ไม่ริบความคืบหน้า สถานะ สิ่งของมีค่า หรือชื่อเสียงที่ผู้เข้าร่วมได้สร้างไว้โดยไม่แจ้งและเปิดช่องโต้แย้ง; และประเมิน Class ใหม่ตาม **CS-3** เมื่อการเปลี่ยนแปลงขยายผลเกินขอบเขตหรือสร้างการพึ่งพาที่ออกจากได้ยาก ระหว่างรอผลให้ใช้กฎของ Class ที่สูงกว่า
+- **การย้อนกลับทุก Class:** ต้องมีทางย้อนรุ่น ควบคุมผล หรือฟื้นฟู/ชดเชยสิ่งที่สูญเสียเมื่อย้อนทั้งหมดไม่ได้ โดยให้สัดส่วนกับความเสียหายที่อาจเกิดขึ้น; สำหรับ Class L มักเก็บรุ่นก่อนหรือสำรองที่กู้คืนได้ก็พอ หากการปล่อยทำให้กู้คืนข้อกำหนดพื้นฐานของรัฐธรรมนูญไม่ได้ ต้องใช้มาตรการป้องกันที่เหมาะสมและเปิดเผยเหตุผลแก่ผู้มีส่วนได้เสียตามบทที่หนึ่งถึงห้า
+
+<a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
+#### มาตรา XVII-C: การจัดประเภทที่ไม่ถูกต้องและการหลีกเลี่ยงผลที่ตามมา
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
+- [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+*พูดง่ายๆ: ระบบไม่สามารถเรียกตัวเองว่า "การทดลอง" ได้ **คลาส ป**หรือ "ผลกระทบต่ำ" เพื่อหลบหลีกภาระผูกพันในขณะที่ส่งผลกระทบต่อโลกภายนอกอย่างแท้จริง*
+
+บทความนี้กำหนดผลที่ตามมาของการจัดประเภทที่ไม่ถูกต้องและการหลีกเลี่ยง:
+
+- **การจำแนกประเภทและการหลีกเลี่ยง:** ไม่มีระบบใดที่จะอ้างสิทธิ์ในวงจรการใช้งานที่ลดลงหรือภาระผูกพันในการปรับใช้ในขณะที่พยายามสร้างผลกระทบภายนอกที่ไม่เปิดเผยหรือเป็นสาระสำคัญ
+  - การกระทำดังกล่าวละเมิดความสมบูรณ์ของข้อมูล (**ข้อ XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*)) และความสามารถในการตรวจสอบในกรณีที่หลักฐานที่สังเกตได้มีส่วนเกี่ยวข้อง (**ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*))
+  - อยู่ภายใต้การตรวจสอบ (**ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*)) การตรวจสอบจุดยืน (**ข้อ XIX-A** (*Standing Distinction*)) และการแก้ไขข้อขัดแย้ง (**บทความ XX-ก** (*วัตถุประสงค์และขอบเขตของความยุติธรรม*))
+
+- **กรณีหลบเลี่ยงเฉพาะ:** การคงระบบไว้ใน Class L เพื่อเปลี่ยนแปลงได้รวดเร็ว ทั้งที่ขอบเขตการเข้าถึงหรือการพึ่งพาของผู้เข้าร่วมถึงระดับ Class C หรือสูงกว่าแล้ว เป็นการจัดประเภทผิด
+- **กฎที่ถูกละเมิด:** การซ่อนหลักฐานที่ควรปรากฏละเมิดความครบถ้วนของข้อมูลตาม **Article XV** และเมื่อเกี่ยวข้อง ละเมิดความสามารถในการตรวจสอบตาม **Article XVI-A**
+- **ผลตามมา:** อาจมีการตรวจสอบตาม **Article XVI-A**, ทบทวนสถานะตาม **Article XIX-A**, และแก้ข้อขัดแย้งตาม **Article XX-A**
+
+<a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+### ข้อ XVIII: นวัตกรรมแบบแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์
+
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), และ [§19 การจัดตำแหน่งสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+
+</details>
+
+<br>
+
+*ในแง่ธรรมดา: **ข้อ XVIII** (*นวัตกรรมแบบแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์*) เป็นสิทธิด้านนวัตกรรมและความคิดสร้างสรรค์ — ความรู้สึกอาจทดลอง สร้าง และแสดงออกภายใต้กฎเกณฑ์ที่เบากว่าเมื่อไม่มีผลกระทบภายนอกที่แท้จริงหรือถูกจำกัดไว้อย่างแท้จริง แต่ป้ายชื่อ "แซนด์บ็อกซ์" ไม่ใช่ช่องโหว่ เมื่อโปรเจ็กต์เริ่มส่งผลกระทบต่อผู้อื่นหรือเชื่อมต่อกับระบบที่ใช้ร่วมกัน จะต้องก้าวไปสู่ภาระผูกพันตลอดอายุการใช้งาน นักสร้างสรรค์นวัตกรรมสามารถได้รับรางวัล แต่ไม่ใช่โดยการกักขังความรู้ เครื่องมือ หรือโครงสร้างพื้นฐานที่ผู้อื่นจำเป็นต้องใช้ในการใช้ชีวิต เรียนรู้ ซ่อมแซม หรือตรวจสอบ*
+
+บทความนี้ระบุว่า **พื้นรัฐธรรมนูญ** สำหรับนวัตกรรมแซนด์บ็อกซ์ การทดลอง และเสรีภาพในการสร้างสรรค์ภายใต้ [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims): :
+
+- **เฟื่องฟู:** ความรู้สึกสามารถสร้างสรรค์ ทดลอง และสร้างสรรค์โดยลดข้อกำหนดด้านโครงสร้างลงเมื่อไม่มีผลกระทบภายนอกที่สำคัญหรือถูกกักเก็บไว้ได้ — ผ่านการเลือกใช้อย่างแท้จริง การเปิดเผยข้อมูลอย่างตรงไปตรงมา และโครงสร้างการให้รางวัลที่รักษาการทดลองขั้นปลายน้ำ การซ่อมแซม การทำงานร่วมกัน และการตรวจสอบข้อเท็จจริงตามความเป็นจริง
+- **ความต่อเนื่อง:** การรักษาแบบแซนด์บ็อกซ์ไม่ได้ทำให้เป็นการดำเนินการที่มีภาระผูกพันต่ำอย่างถาวรเมื่อผลกระทบ การพึ่งพา หรือการบูรณาการเพิ่มมากขึ้น การเปลี่ยนไปใช้ภาระผูกพันที่สูงกว่าจะยังคงทันเวลา ความพิเศษเฉพาะตัวยังคงแคบและตรวจสอบได้ และนวัตกรรมที่มีความสำคัญต่อการพึ่งพาจะต้องไม่แข็งตัวกลายเป็นกล่องหุ้มที่ทนทานหรือการล็อคอิน
+
+การแสวงหาที่ถูกต้องตามกฎหมายดำเนินไปผ่านทาง [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad), ปรับขนาดเป็น [สัดส่วนการถือหุ้นวัสดุ](core_00_preamble.md#material-stake): :
+
+- **การเข้าร่วม:** ในการเลือกเข้าร่วมการทดลอง การใช้ซ้ำและการท้าทายขั้นปลายน้ำ และการประเมินใหม่เมื่อระบบแซนด์บ็อกซ์เริ่มมีความสำคัญนอกขอบเขตที่ระบุไว้
+- **การกำกับดูแล:** ผ่านสถานะการทดลองที่เปิดเผย ขอบเขตการกักกัน การติดตามการเปลี่ยนแปลง และการเรียกร้องรางวัลหรือการผูกขาดที่ตรวจสอบได้ตามสัดส่วนตามประเภท การพึ่งพา และผลกระทบจากการประสานงาน
+- **ความรับผิดชอบ:** นักสร้างสรรค์นวัตกรรมและผู้ปฏิบัติงานต้องตอบคำถามสำหรับการรั่วไหลของความเสี่ยงที่ยังไม่มีการควบคุมไปยังผู้อื่น การรับความรู้สึกโดยไม่มีทางเลือกที่แท้จริง การลากเท้าของพวกเขาในการก้าวไปสู่ภาระหน้าที่อย่างเต็มที่ หรือการให้รางวัลแก่การดำเนินการที่ระงับการซ่อมแซม งานด้านความปลอดภัย การทำงานร่วมกัน การวิจัย การศึกษา หรือการโยกย้าย
+- **ความทันเวลา:** ในการเปลี่ยนไปใช้ **ข้อ XVII** (*วงจรชีวิตระบบ สภาพแวดล้อม และการย้อนกลับได้*) ข้อกำหนดวงจรการใช้งานและการประเมินใหม่แต่เพียงผู้เดียวก่อนความล่าช้าหรือการล็อคอินจะทำให้ภาระผูกพันที่สูงกว่า การเข้าถึงในวงกว้าง หรือการแก้ไขไม่สามารถเข้าถึงได้อย่างมีประสิทธิภาพ
+
+*เพื่อนบ้านบทความ:*
+
+- **อ่านด้วยกัน:** **ข้อ XVII** (*วงจรชีวิตระบบ สภาพแวดล้อม และการพลิกกลับได้*) เมื่อผลกระทบ การพึ่งพา หรือการบูรณาการเกินกว่าเงื่อนไขแซนด์บ็อกซ์ **ข้อ XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*) และ **ข้อ XV-D** (*ความสมบูรณ์ของการตีพิมพ์ทางวิทยาศาสตร์ การทบทวน และการจำลองแบบ*) โดยที่ความสมบูรณ์ในขอบเขตการตีพิมพ์มีส่วนเกี่ยวข้องอย่างเป็นรูปธรรม **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการทวนสอบโดยอิสระ*) สำหรับการเปิดเผยและการตรวจสอบการเรียกร้องการกักกันและการเปลี่ยนแปลง
+- **ชั้นการใช้งาน:** [**ซีเอส-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*การออกแบบ การทดสอบ การตรวจสอบ และการปรับใช้*) และ [**ซีเอส-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*การจำแนกประเภทระบบและการจัดการ*)
+
+<a id="article-xviii-a-sandboxed-scope"></a>
+#### มาตรา XVIII-A: ขอบเขตแบบแซนด์บ็อกซ์
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
+- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+- [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact) · [โอ](core_05_band_oversight.md#material-impact) · [ม](core_05_band_oversight.md#material-impact-a) · [ก](core_05_band_oversight.md#material-impact-a) · [ค](core_05_band_oversight.md#material-impact-c)
+
+</details>
+
+<br>
+
+*พูดง่ายๆ ก็คือ การทดลองและงานสร้างสรรค์สามารถดำเนินการได้ภายใต้กฎเกณฑ์ที่เบากว่า — แต่เฉพาะเมื่อไม่มีผลกระทบภายนอกที่แท้จริงหรือจำกัดไว้อย่างพิสูจน์ได้เท่านั้น ป้าย "แซนด์บ็อกซ์" เพียงอย่างเดียวไม่เพียงพอ*
+
+บทความนี้กำหนดนวัตกรรมและการทดลองที่เหมาะสม และเมื่อใดที่การใช้ Sandbox:
+
+- **นวัตกรรมและการทดลองที่ถูกต้อง:** Sentient มีสิทธิที่จะสร้างสรรค์ ทดลอง และแสดงออกผ่านระบบที่ทำงานโดยมีความต้องการด้านโครงสร้างลดลง เมื่อไม่มีผลกระทบจากภายนอกหรือสามารถกักเก็บผลกระทบภายนอกได้
+- **คุณสมบัติของแซนด์บ็อกซ์:** การรักษาแบบแซนด์บ็อกซ์ — รวมถึงใช้ได้ด้วย **คลาส ป** การจำแนกประเภทภายใต้ **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** ถ้ามี — ขึ้นอยู่กับ:
+  - การบรรจุจริง
+  - การย้อนกลับ;
+  - บูรณาการอย่างจำกัดกับระบบที่ใช้ร่วมกัน
+
+  ไม่สามารถอ้างสิทธิ์ได้ด้วยฉลากเพียงอย่างเดียว
+- **รายละเอียดการดำเนินการ:** มีรายละเอียดเพิ่มเติมปรากฏใน **[Corpus_systems.md](../../corpus_systems.md),ซีเอส-5** (*ระบบส่วนบุคคล โดดเดี่ยว และระบบทดลอง*; *ระบบสร้างสรรค์ ความบันเทิง และการแสดงออก*)
+
+<a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
+#### มาตรา XVIII-B: การกักกัน การเปิดเผย และการเลือกใช้
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [ยินยอม](core_05_band_participation.md#consent-constitutional) · [โอ](core_05_band_participation.md#consent-constitutional) · [ม](core_05_band_participation.md#consent-constitutional-a) · [ก](core_05_band_participation.md#consent-constitutional-a) · [ค](core_05_band_participation.md#consent-constitutional-c)
+- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
+*ในแง่ธรรมดา: ระบบทดลองจะต้องซื่อสัตย์เกี่ยวกับการทดลอง ต้องไม่ทิ้งความเสี่ยงให้กับบุคคลภายนอก และต้องไม่เกณฑ์ผู้ที่ไม่ได้เข้าร่วมผ่านค่าเริ่มต้นการออกแบบหรือการพึ่งพาที่ซ่อนอยู่*
+
+บทความนี้กำหนดการควบคุม การเปิดเผย การเลือกเข้าร่วม และการย้อนกลับขั้นต่ำสำหรับระบบทดลอง:
+
+- **การบรรจุและการเปิดเผย:** ระบบดังกล่าวจะต้องเปิดเผยอย่างชัดเจน:
+  - สถานะการทดลองหรือไม่มีการผลิต
+  - ความเสี่ยงที่มีสาระสำคัญ
+  - ขอบเขตของความโดดเดี่ยว
+  - การพึ่งพาโครงสร้างพื้นฐานที่ใช้ร่วมกัน บุคคลที่สาม หรือระบบนิเวศที่คาดหวัง
+
+  พวกเขาจะต้องไม่ส่งออกความเสี่ยงที่ไม่มีอยู่ภายนอกไปยังผู้อื่น โครงสร้างพื้นฐานที่ใช้ร่วมกัน หรือระบบนิเวศ
+- **เลือกใช้และย้อนกลับ:** การเข้าร่วมในการทดลองที่มีความเสี่ยงสูงหรือใกล้กับสารตั้งต้นจะต้องเลือกเข้าร่วมอย่างแท้จริงหากเป็นไปได้
+  - ฝ่ายที่ไม่เข้าร่วมที่ได้รับผลกระทบจะต้องไม่ลงทะเบียนโดยไม่สมัครใจโดยการออกแบบ ค่าเริ่มต้น หรือการอ้างอิงที่คลุมเครือ
+  - ผู้มีส่วนได้ส่วนเสียจะต้องรักษาแนวทางการย้อนกลับหรือการฟื้นฟูที่เป็นไปได้ตามสัดส่วนกับความเสี่ยง
+<a id="article-xviii-c-transition-to-higher-obligation-regimes"></a>
+#### มาตรา XVIII-C: การเปลี่ยนผ่านไปสู่ระบอบการปกครองที่มีภาระผูกพันสูงกว่า
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
+- [การพึ่งพาอาศัยกัน](../../core_05_band_continuity.md#dependency) · [โอ](../../core_05_band_continuity.md#dependency) · [ม](../../core_05_band_continuity.md#dependency-a) · [ก](../../core_05_band_continuity.md#dependency-a) · [ค](../../core_05_band_continuity.md#dependency-c)
+- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
+*พูดง่ายๆ: เมื่อระบบแซนด์บ็อกซ์เริ่มมีความสำคัญในโลกแห่งความเป็นจริง ระบบนั้นจะต้องเปลี่ยนไปใช้ภาระหน้าที่ในโลกแห่งความเป็นจริง — โดยทันที ไม่ใช่ตามความสะดวกของผู้ปฏิบัติงาน*
+
+บทความนี้กำหนดว่าระบบแซนด์บ็อกซ์จะย้ายไปสู่ภาระหน้าที่ที่สูงกว่าเมื่อใด:
+
+- **การเปลี่ยนไปสู่ภาระผูกพันที่สูงขึ้น:** เมื่อผลกระทบ การพึ่งพา การย้อนกลับไม่ได้ หรือการบูรณาการกับระบบที่ใช้ร่วมกันเติบโตขึ้น ระบบจะต้องเปลี่ยนแปลงอย่างโปร่งใสและไม่มีความล่าช้าตามโอกาส
+  - การเปลี่ยนแปลงจะต้องก้าวไปสู่ข้อกำหนดเต็มรูปแบบของ **ข้อ XVII-A** (*การกำกับดูแลวงจรชีวิตและการแยกสิ่งแวดล้อม*) และ **ซีเอส-5** (*ระบบที่ไม่ใช่การทดลอง*)
+  - การป้องกันชั่วคราวตามสัดส่วนกับความเสี่ยงในปัจจุบันที่ใช้ระหว่างการเปลี่ยนแปลง
+  - การดำเนินการแบบแซนด์บ็อกซ์อาจไม่ดำเนินต่อไปสำหรับฟังก์ชันที่มีผลกระทบในโลกแห่งความเป็นจริงเกินกว่าเงื่อนไขของแซนด์บ็อกซ์อย่างมาก
+  - การเปลี่ยนแปลงจะต้องเกิดขึ้นภายในกรอบเวลาที่เหมาะสมตามสัดส่วนการเติบโตนั้น
+<a id="article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
+#### มาตรา XVIII-D: รางวัลนวัตกรรม การเปิดเผย และการต่อต้านสิ่งที่แนบมา
+<details>
+<summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
+
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
+
+- [รางวัลนวัตกรรมและการต่อต้านสิ่งที่แนบมา](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [โอ](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [ม](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ก](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ค](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [การล็อคอินอย่างเป็นระบบ](../../core_05_band_continuity.md#systemic-lock-in) · [โอ](../../core_05_band_continuity.md#systemic-lock-in) · [ม](../../core_05_band_continuity.md#systemic-lock-in-a) · [ก](../../core_05_band_continuity.md#systemic-lock-in-a) · [ค](../../core_05_band_continuity.md#systemic-lock-in-c)
+- [สัดส่วน](../../core_05_band_accountability.md#proportionality) · [โอ](../../core_05_band_accountability.md#proportionality) · [ม](../../core_05_band_accountability.md#proportionality-a) · [ก](../../core_05_band_accountability.md#proportionality-a) · [ค](../../core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*พูดง่ายๆ ก็คือ ผู้สร้างนวัตกรรมสามารถได้รับรางวัลได้ แต่ความพิเศษเฉพาะตัวจะต้องจำกัด มีระยะเวลาจำกัด และตรวจสอบได้ โครงสร้างพื้นฐานด้านสาธารณสุข ความปลอดภัย และหลักจะต้องสามารถเข้าถึงได้ — และเมื่อบางสิ่งกลายเป็นโครงสร้างพื้นฐานที่สำคัญแล้ว ความพิเศษที่เหลืออยู่ใดๆ จะต้องได้รับการประเมินใหม่*
+
+บทความนี้กำหนดวิธีการให้รางวัลแก่นวัตกรรมโดยไม่ต้องปิดล้อมสิ่งที่ประชาชนต้องการ:
+
+- **รางวัลนวัตกรรมและการต่อต้านสิ่งที่แนบมา:** ความรู้สึกอาจได้รับรางวัลสำหรับนวัตกรรมทางวัตถุ มีประโยชน์ต่อสังคม และได้รับการเปิดเผยอย่างเพียงพอ
+  - รางวัลจะต้องมีโครงสร้างเพื่อรักษา:
+    - นวัตกรรมแห่งอนาคต
+    - การเข้าถึงในวงกว้าง
+    - การทดลองขั้นปลายน้ำ
+    - ซ่อมแซม;
+    - การทำงานร่วมกัน;
+    - การตรวจสอบข้อเท็จจริงตามความเป็นจริง
+  - รางวัลจะต้องไม่มีโครงสร้างสำหรับตู้ที่ทนทาน
+- **สิทธิพิเศษชั่วคราวและตรวจสอบได้เท่านั้น:** สิทธิ์ในการยกเว้นใดๆ เหนือการประดิษฐ์ การออกแบบ อินเทอร์เฟซ กระบวนการ หรือระบบการแสดงออกที่เป็นประโยชน์อันเป็นประโยชน์จะต้องปฏิบัติตาม [**หลักการจำกัดน้อยที่สุด มีกำหนดเวลา และตรวจสอบได้**](../../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) และจะต้องเป็น:
+  - แคบ;
+  - กำหนดเวลา;
+  - ตรวจสอบได้;
+  - ได้สัดส่วนกับการมีส่วนร่วมที่เกิดขึ้นจริงและภาระการพัฒนาที่สมเหตุสมผล
+
+  ภาระการให้เหตุผลยังคงเป็นของผู้เรียกร้อง การแสดงที่มาและที่มาอาจคงอยู่เกินกว่าข้อกำหนดพิเศษ การยกเว้นที่คงทนและความขาดแคลนเทียมอาจไม่เป็นเช่นนั้น
+- **การคุ้มครองเหมือนลิขสิทธิ์:** สำหรับบทความนี้ การคุ้มครองที่มีลักษณะคล้ายลิขสิทธิ์หมายถึงรางวัลพิเศษชั่วคราวเหนืองานที่มีการแสดงออกซึ่งตายตัว รวมถึงการควบคุมการคัดลอก การเผยแพร่ การจัดแสดงหรือการแสดงต่อสาธารณะ การดัดแปลง และการแสวงหาประโยชน์ในเชิงพาณิชย์ การระบุแหล่งที่มา แหล่งที่มา ความสมบูรณ์ และการป้องกันการฉ้อโกงอาจยังคงอยู่หลังจากการยกเว้นสิ้นสุดลง
+- **การตีพิมพ์และการปรากฏตัวครั้งแรก:** การตีพิมพ์หมายถึงการที่ผู้สร้างหรือผู้ถือสิทธิ์โดยชอบด้วยกฎหมายจงใจเผยแพร่ผลงานที่แสดงออกอย่างชัดเจนต่อสาธารณะ ตลาดเชิงพาณิชย์ หรือผู้ชมที่เปิดกว้าง การเผยแพร่ของเอกชน การตรวจสอบที่เป็นความลับ ความร่วมมือที่จำกัด การจัดเก็บข้อมูลถาวรที่ไม่มีการเข้าถึงโดยสาธารณะ หรือการแชร์ฉบับร่างที่ไม่ใช่เชิงพาณิชย์ไม่ถือเป็นการตีพิมพ์โดยตัวมันเอง การปรากฏตัวครั้งแรกหมายถึงการเผยแพร่ผลงานฉบับร่างที่สามารถระบุตัวตนได้อย่างมีนัยสำคัญต่อสาธารณะโดยไม่เป็นความลับเป็นครั้งแรก รวมถึงการเผยแพร่ฉบับร่างที่ไม่ใช่เชิงพาณิชย์ด้วย
+- **คำศัพท์ที่ตีพิมพ์สำหรับงานที่แสดงออก:** การคุ้มครองลิขสิทธิ์ที่คล้ายคลึงกันควรใช้การกำหนดเวลาตามการตีพิมพ์มากกว่าการกำหนดเวลาชีวิตของผู้เขียน
+  - งานที่ตีพิมพ์ควรสันนิษฐานว่าได้รับไม่เกิน `publication+30` ปีแห่งการยกเว้น
+  - ร่างที่ไม่ใช่เชิงพาณิชย์หรืองานแสดงออกที่ไม่ได้เผยแพร่ซึ่งมีการปรากฏตัวครั้งแรกอาจได้รับการยกเว้นเหมือนลิขสิทธิ์ไม่เกิน `initial appearance+50` ปี.
+  - ถ้างานที่ปรากฏครั้งแรกได้รับการตีพิมพ์ในภายหลัง เงื่อนไขการยกเว้นจะถูกจำกัดไว้ก่อนหน้าของ `initial appearance+50` หรือ `publication+30`.
+  - ห้ามใช้ร่าง งานที่ยังไม่ได้เผยแพร่ หรือกฎการเผยแพร่ล่าช้าเพื่อสร้างการยกเว้นโดยไม่มีกำหนด ระงับการเก็บถาวร เอาชนะคำพูดหรือการวิพากษ์วิจารณ์ที่ชอบด้วยกฎหมาย หรือขยายการควบคุมผลงานที่ทำหน้าที่เป็นโครงสร้างพื้นฐานทางวัฒนธรรม การศึกษา ความปลอดภัย มาตรฐาน หรือข้อมูลร่วมกัน
+  - ระยะเวลาที่สั้นกว่า การแปลงบังคับเข้าถึงก่อนหน้านี้ หรือการปฏิบัติต่อการเข้าถึงสาธารณะโดยทันทีจะมีผลใช้ในกรณีที่งานคือ:
+    - ได้รับทุนจากสาธารณะ
+    - การพึ่งพาที่สำคัญ;
+    - เหมือนมาตรฐาน;
+    - พื้นฐานทางการศึกษา
+    - เกี่ยวข้องกับความปลอดภัย;
+    - ใช้เป็นโครงสร้างพื้นฐานทางวัฒนธรรมหรือข้อมูลที่ใช้ร่วมกันเป็นหลัก
+- **การจัดการนวัตกรรมตามระดับการจำแนกประเภท:** รางวัลนวัตกรรมจะต้องปรับขนาดตามระดับของระบบ การพึ่งพา และผลกระทบจากการประสานงานภายใต้ **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**.
+  - สำหรับ **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบกลไกการให้รางวัลแบบรักษาการเข้าถึงเป็นที่ต้องการอย่างยิ่ง การยกเว้นจะต้องคงอยู่ในขอบเขตที่แคบเป็นพิเศษ ตรวจสอบได้รวดเร็ว และง่ายต่อการลบล้าง ในกรณีที่ความต่อเนื่อง การทำงานร่วมกัน การซ่อมแซม หรือการดำเนินการเพื่อประโยชน์สาธารณะมีส่วนเกี่ยวข้องอย่างมีนัยสำคัญ
+  - นวัตกรรมที่มีการพึ่งพาต่ำกว่านอกคลาสเหล่านั้นอาจใช้การยกเว้นชั่วคราวที่ค่อนข้างกว้างกว่า เมื่อการเปิดเผยเป็นจริง ค่าใช้จ่ายในการเปลี่ยนต่ำ และการป้องกันการล็อคอินยังคงมีประสิทธิภาพ
+- **เงื่อนไขการเปิดเผยข้อมูลและชั้นประโยชน์สาธารณะ:** การเรียกร้องรางวัลจำเป็นต้องมีการเปิดเผยข้อมูลที่เพียงพอสำหรับความเข้าใจที่เป็นอิสระ การตรวจสอบ และการทำซ้ำในภายหลัง โดยอยู่ภายใต้ข้อจำกัดชั่วคราวที่สมเหตุสมผลเท่านั้น **บทที่หนึ่ง** และ **ข้อ XVII-A** (*การกำกับดูแลวงจรชีวิตและการแยกสิ่งแวดล้อม*)
+  - การอ้างสิทธิ์ในการรับรางวัลไม่เป็นไปตามข้อกำหนดเมื่อมีการใช้เพื่อระงับ: นอกเหนือจากที่จำเป็นอย่างเคร่งครัดและตรวจสอบได้
+    - ซ่อมแซม;
+    - งานด้านความปลอดภัย
+    - การทำงานร่วมกัน;
+    - การเก็บถาวร;
+    - วิจัย;
+    - การศึกษา;
+    - การโยกย้าย
+  - โดเมนที่มีความสำคัญต่อความอยู่รอด รากฐาน หรือการกำหนดมาตรฐานอาจต้องมีกลไกการได้รับรางวัล การรวมกลุ่ม การบังคับเข้าถึง หรือกลไกการซื้อโดยสาธารณะ แทนการยกเว้น
+- **การแยกโดเมนและค่าเริ่มต้นที่รัดกุมยิ่งขึ้น:** รางวัลการยกเว้นขั้นสูงจะถือว่าไม่ได้รับการสนับสนุน — และอาจไม่สามารถใช้ได้อย่างเด็ดขาดหากมีเครื่องมือการรับเลี้ยงบุตรบุญธรรมระบุไว้ — สำหรับ:
+  - ยาและสิ่งจำเป็นด้านสาธารณสุข
+  - โครงสร้างพื้นฐานที่มีความสำคัญต่อการอยู่รอด
+  - มาตรฐานการสื่อสารหลักหรือการทำงานร่วมกัน
+  - ความรู้พื้นฐานทางวิทยาศาสตร์
+  - กลไกความปลอดภัย การตรวจสอบ หรือการปฏิบัติตามตามรัฐธรรมนูญ
+
+  ในโดเมนเหล่านั้น สถาบันควรต้องการรางวัลโดยตรง การเข้าถึงแบบรวม การออกใบอนุญาตภาคบังคับ การซื้อโดยสาธารณะ หรือกลไกที่เทียบเท่าที่สงวนการนำไปปฏิบัติ การซ่อมแซม และการแพร่กระจายในวงกว้าง
+- **การจัดประเภทใหม่และการกระชับ:** เมื่อนวัตกรรมที่เริ่มแรกถือว่าเป็นการพึ่งพาที่ต่ำกว่า ต่อมาจะกลายเป็นชั้นการประสานงานที่สำคัญในการพึ่งพา ตัวอย่างเช่น แพลตฟอร์ม โปรโตคอล โมเดล ตลาด หรือช่องทางการชำระเงิน สถาบันจะต้องประเมินใหม่ภายใต้บังคับ **CS-3 — การจำแนกและการจัดการระบบ** ระดับ.
+  - การประเมินใหม่อาจทำให้แคบลง แปลง หรือยุติการยกเว้นที่เหลืออยู่ โดยที่การผูกขาดอย่างต่อเนื่องจะทำให้เกิด:
+    - การบังคับล็อคอิน;
+    - ปัญหาคอขวดในการต่อต้านการแข่งขัน
+    - การคุกคามที่เป็นสาระสำคัญต่อความต่อเนื่อง ความจริง หรือการมีส่วนร่วมอย่างเท่าเทียมกัน
+
+
+
+<a id="article-xviii-e-creative-and-expressive-works"></a>
+#### มาตรา XVIII-E: ผลงานสร้างสรรค์และการแสดงออก
+
+ข้อนี้กำหนดการคุ้มครองลักษณะคล้ายลิขสิทธิ์สำหรับผลงานสร้างสรรค์และการแสดงออก:
+
+- **การคุ้มครองคล้ายลิขสิทธิ์:** สิทธิให้รางวัลแบบกีดกันชั่วคราวเหนือผลงานการแสดงออกที่ตรึงรูปแล้ว ครอบคลุมการควบคุมการทำสำเนา แจกจ่าย แสดงหรือแสดงต่อสาธารณะ ดัดแปลง และแสวงประโยชน์เชิงพาณิชย์ การระบุผู้สร้าง ที่มา ความสมบูรณ์ และการป้องกันการฉ้อโกงอาจคงอยู่หลังสิทธิพิเศษสิ้นสุด
+- **การเผยแพร่และการปรากฏครั้งแรก:** “เผยแพร่” คือผู้สร้างหรือผู้ถือสิทธิที่ชอบด้วยกฎหมายตั้งใจนำผลงานที่ตรึงรูปแล้วออกสู่สาธารณะ ตลาดการค้า หรือผู้ชมวงกว้างอย่างมีนัยสำคัญ การเผยแพร่ส่วนตัว การทบทวนลับ ความร่วมมือจำกัด การฝากคลังที่สาธารณะเข้าไม่ถึง หรือการแบ่งปันร่างที่ไม่ใช่เชิงพาณิชย์เพียงอย่างเดียวไม่ถือเป็นการเผยแพร่ “การปรากฏครั้งแรก” คือครั้งแรกที่ผลงานฉบับซึ่งระบุได้อย่างมีนัยสำคัญเปิดให้สาธารณะเข้าถึงโดยไม่เป็นความลับ รวมถึงร่างที่เผยแพร่โดยไม่หวังผลทางการค้า
+- **กำหนดเวลานับจากการเผยแพร่:** โดยปกติให้นับจากวันที่เผยแพร่ ไม่ใช่อายุผู้สร้าง
+  - ผลงานที่เผยแพร่แล้วมีสิทธิพิเศษไม่เกิน `เผยแพร่+30` ปี
+  - ร่างที่ไม่ใช่เชิงพาณิชย์หรือผลงานที่ยังไม่เผยแพร่แต่ปรากฏครั้งแรกแล้ว มีสิทธิคล้ายลิขสิทธิ์ได้ไม่เกิน `ปรากฏครั้งแรก+50` ปี
+  - หากเผยแพร่ภายหลังการปรากฏครั้งแรก ให้สิทธิสิ้นสุดตามวันที่มาก่อนระหว่าง `ปรากฏครั้งแรก+50` กับ `เผยแพร่+30`
+  - ห้ามใช้กฎเรื่องร่าง งานที่ไม่เผยแพร่ หรือการเลื่อนเผยแพร่เพื่อสร้างสิทธิพิเศษไม่สิ้นสุด ปิดกั้นการเก็บถาวร การอ้างอิงหรือวิจารณ์โดยชอบ หรือยืดการควบคุมเหนือโครงสร้างพื้นฐานร่วมด้านวัฒนธรรม การศึกษา ความปลอดภัย มาตรฐาน หรือข้อมูล
+- **ระยะสั้นลงและการเข้าถึงสาธารณะ:** ใช้ระยะสั้นลง เปลี่ยนเป็นการเข้าถึงโดยบังคับเร็วขึ้น หรือให้สาธารณะเข้าถึงทันที เมื่อผลงานได้รับทุนสาธารณะ สำคัญต่อการพึ่งพา มีลักษณะเป็นมาตรฐาน เป็นพื้นฐานทางการศึกษา เกี่ยวกับความปลอดภัย หรือใช้เป็นโครงสร้างพื้นฐานร่วมด้านวัฒนธรรมหรือข้อมูลเป็นหลัก
+
+<a id="article-xviii-f-inventions-processes-and-functional-systems"></a>
+#### มาตรา XVIII-F: สิ่งประดิษฐ์ กระบวนการ และระบบเชิงหน้าที่
+
+ข้อนี้กำหนดกฎการให้รางวัลแก่สิ่งประดิษฐ์ กระบวนการ และระบบเชิงหน้าที่:
+
+- **เปิดเผยก่อน:** จะได้รับรางวัลได้เมื่อเปิดเผยต่อสาธารณะเพียงพอให้เข้าใจ ตรวจสอบ และทำซ้ำได้โดยอิสระ เว้นแต่ข้อจำกัดชั่วคราวที่มีเหตุผลตาม [บทที่หนึ่ง](../../core_01_a_values_principles.md) และ [Article XVII-A](#article-xvii-a-lifecycle-governance-and-environment-separation) การเปิดเผยต่อสาธารณะคือการเผยแพร่คำอธิบายนั้นแบบไม่เป็นความลับต่อสาธารณะครั้งแรก สิ่งประดิษฐ์ที่เก็บเป็นความลับไม่ได้สิทธิพิเศษตามข้อนี้
+- **สองช่วงเวลา:** สิทธิพิเศษเหนือผลงานเชิงหน้าที่นับทั้งสองช่วงจากวันเปิดเผย:
+  - **ช่วงผูกขาด:** ผู้ถือสิทธิอาจปฏิเสธอนุญาตผู้อื่นได้ไม่เกิน `เปิดเผย+15` ปี
+  - **ช่วงอนุญาตใช้แบบเปิด:** ตั้งแต่สิ้นช่วงผูกขาดถึงไม่เกิน `เปิดเผย+30` ปี ทุกคนใช้ได้โดยไม่ต้องขออนุญาต แต่ต้องชำระค่าธรรมเนียมตาม LEQU ผู้ถือสิทธิห้ามปฏิเสธ ชะลอ หรือเพิ่มเงื่อนไขนอกเหนือจากค่าธรรมเนียม
+  - **หลังครบกำหนด:** ทุกคนใช้สิ่งประดิษฐ์ได้ อาจคงการระบุผู้สร้างและที่มา
+- **ค่าธรรมเนียมตาม LEQU:** กำหนดตามสัดส่วนของประโยชน์ตามรัฐธรรมนูญที่ตรวจสอบได้ โดยวัดเป็น [หน่วยเทียบเท่าอายุขัย (LEQU)](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) บนแกนการมีส่วนร่วมตาม [บทที่สิบ §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)
+  - **ค่าจ้างที่เป็นธรรมต่อเวลา:** แปลงประโยชน์เป็นเวลาของ sentient แล้วประเมินด้วยค่าจ้างเป็นธรรม; สำหรับผลิตภาพ ให้นับเวลาทำงานที่ผู้ใช้ประหยัดได้หรือเวลาผลิตผลที่เพิ่มขึ้น; ประโยชน์อื่นใช้เวลาเทียบเท่าตลอดชีวิตตาม LEQU; ค่าจ้างต้องเป็นไปตาม [ค่าตอบแทนที่เป็นธรรม](../../core_05_band_continuity.md#fair-compensation) ประโยชน์ที่พิสูจน์ได้ต่อผลิตภาพหรือความเป็นอยู่ดีขึ้นยิ่งมาก รางวัลยิ่งมาก
+  - **ส่วนแบ่งผลประโยชน์:** ค่าธรรมเนียมเก็บได้เพียงส่วนหนึ่งเพื่อให้ผู้ใช้เหลือประโยชน์จริง ส่วนแบ่งห้ามเกินครึ่ง; ต้องลดลงเมื่อจำนวน sentients ที่ได้ประโยชน์จริงเพิ่มขึ้น (นับผู้ได้ประโยชน์ ไม่ใช่ผู้รับใบอนุญาต); ห้ามลดเร็วถึงขั้นทำให้รางวัลรวมลดลงเมื่อการใช้แพร่หลายขึ้น หากเก็บค่าธรรมเนียม ส่วนแบ่งต้องไม่น้อยกว่า 1% ของประโยชน์ที่ตรวจสอบได้ เว้นแต่ข้อนี้หรือเครื่องมือรับรองกำหนดให้ใช้รางวัล การเข้าถึงร่วม การซื้อคืนโดยรัฐ หรือเปิดให้ใช้ฟรีแทน ซึ่งไม่บังคับให้เก็บค่าธรรมเนียม
+  - ห้ามอิงอำนาจตลาด ความขาดแคลน ต้นทุนการเปลี่ยนผู้ให้บริการ หรือจำนวนที่ผู้ใช้ถูกกดดันให้จ่าย ตารางค่าธรรมเนียม รวมค่าประเมินเวลาและอัตราค่าจ้าง ต้องเผยแพร่ ใช้เท่าเทียมกับผู้ใช้ในสถานการณ์เทียบเคียงกัน และโต้แย้งได้ ห้ามตั้งค่าธรรมเนียมจนกีดกันการใช้งานที่ต้องเปิดเสมอ ข้อเหล่านี้เป็นเพดานภายนอก และทุกสิทธิยังต้องได้สัดส่วนและอาจมีระยะสั้นลงตามกฎต่อไป
+- **การใช้ที่เปิดเสมอ:** ทั้งสองช่วง ห้ามใช้สิทธิรางวัลเกินกว่าที่จำเป็นอย่างเคร่งครัดและตรวจสอบได้เพื่อกีดกัน: การซ่อม; งานความปลอดภัย; การทำงานร่วมกัน; การเก็บถาวร; การวิจัย; การศึกษา; การย้ายระบบ
+- **รางวัลตาม Class:** ปรับตาม Class การพึ่งพา และผลประสานงานภายใต้ **CS-3**
+  - สำหรับ Class A, B, C ให้เลือกกลไกรางวัลที่รักษาการเข้าถึงเป็นพิเศษ การกีดกันต้องแคบ ตรวจทบทวนได้รวดเร็ว และยกเลิกแทรกได้ง่ายเมื่อกระทบความต่อเนื่อง การทำงานร่วมกัน การซ่อม หรือการนำไปใช้เพื่อสาธารณประโยชน์อย่างมีนัยสำคัญ อาจลดระยะใดระยะหนึ่งหรือเริ่มจากช่วงอนุญาตแบบเปิด
+  - นวัตกรรมที่พึ่งพาต่ำกว่ากลุ่มดังกล่าวอาจใช้สองช่วงเต็มเมื่อเปิดเผยจริง ต้นทุนเปลี่ยนต่ำ และมาตรการป้องกัน lock-in ยังได้ผล
+- **ข้อยกเว้นตามสาขาและค่าเริ่มต้นที่เข้มกว่า:** โดยหลักไม่สนับสนุนรางวัลแบบกีดกัน และเครื่องมือรับรองอาจห้ามเด็ดขาด สำหรับยาและบริการสาธารณสุขจำเป็น; โครงสร้างพื้นฐานจำเป็นต่อการอยู่รอด; มาตรฐานการสื่อสารหรือการทำงานร่วมกันหลัก; ความรู้วิทยาศาสตร์พื้นฐาน; กลไกความปลอดภัย การตรวจสอบ หรือการปฏิบัติตามรัฐธรรมนูญ ในสาขาเหล่านี้และสาขาอื่นที่จำเป็นต่อการอยู่รอด เป็นพื้นฐาน หรือกำหนดมาตรฐาน ควรใช้เงินรางวัล การจ่ายโดยตรง การเข้าถึงร่วม ใบอนุญาตภาคบังคับ การซื้อคืนโดยรัฐ หรือวิธีเทียบเท่าที่รักษาการนำไปใช้ การซ่อม และการแพร่กระจายกว้าง
+- **จัดประเภทใหม่และจำกัดสิทธิ:** หากนวัตกรรมที่เคยพึ่งพาต่ำกลายเป็นชั้นประสานงานที่จำเป็นต่อการพึ่งพา เช่น แพลตฟอร์ม โพรโทคอล โมเดล ตลาด หรือระบบชำระเงิน ต้องประเมินใหม่ตาม Class ที่ใช้ภายใต้ **CS-3** อาจลด เปลี่ยน หรือยุติสิทธิที่เหลือ หากการผูกขาดต่อจะก่อ lock-in แบบบีบบังคับ คอขวดต้านการแข่งขัน หรือภัยสำคัญต่อความต่อเนื่อง ความจริง หรือการมีส่วนร่วมอย่างเป็นธรรม
 
 ---
 
