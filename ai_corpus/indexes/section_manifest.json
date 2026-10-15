@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-15T15:37:28+00:00",
+  "generated_at": "2026-10-15T19:42:03+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -632,34 +632,34 @@
       ]
     },
     "core_07_charters.md": {
-      "total_lines": 487,
+      "total_lines": 488,
       "sections": [
-        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":487,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":488,"anchor":"#chapter-seven-system-and-institutional-charters"},
         {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":41,"line_end":124,"anchor":"#1-purpose-scope-and-owner-boundary"},
         {"header":"2. No Licence, and Two Narrow Limits","level":3,"line_start":125,"line_end":151,"anchor":"#2-no-licence-and-two-narrow-limits"},
-        {"header":"3. When System and Institutional Charters Are Required","level":3,"line_start":152,"line_end":195,"anchor":"#3-when-system-and-institutional-charters-are-required"},
-        {"header":"4. What System and Institutional Charters Must State","level":3,"line_start":196,"line_end":240,"anchor":"#4-what-system-and-institutional-charters-must-state"},
-        {"header":"5. The Charter Role Map and Standing-Record Custody","level":3,"line_start":241,"line_end":277,"anchor":"#5-the-charter-role-map-and-standing-record-custody"},
-        {"header":"6. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":278,"line_end":359,"anchor":"#6-formation-check-office-holder-standing-and-authenticity"},
-        {"header":"7. When a Holder Fails the Check","level":3,"line_start":360,"line_end":394,"anchor":"#7-when-a-holder-fails-the-check"},
-        {"header":"8. Amendment, Review, and Scope Misalignment","level":3,"line_start":395,"line_end":428,"anchor":"#8-amendment-review-and-scope-misalignment"},
-        {"header":"9. What System and Institutional Charters Cannot Do","level":3,"line_start":429,"line_end":453,"anchor":"#9-what-system-and-institutional-charters-cannot-do"},
-        {"header":"10. Relationship to Other Chapters","level":3,"line_start":454,"line_end":487,"anchor":"#10-relationship-to-other-chapters"}
+        {"header":"3. When System and Institutional Charters Are Required","level":3,"line_start":152,"line_end":196,"anchor":"#3-when-system-and-institutional-charters-are-required"},
+        {"header":"4. What System and Institutional Charters Must State","level":3,"line_start":197,"line_end":241,"anchor":"#4-what-system-and-institutional-charters-must-state"},
+        {"header":"5. The Charter Role Map and Standing-Record Custody","level":3,"line_start":242,"line_end":278,"anchor":"#5-the-charter-role-map-and-standing-record-custody"},
+        {"header":"6. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":279,"line_end":360,"anchor":"#6-formation-check-office-holder-standing-and-authenticity"},
+        {"header":"7. When a Holder Fails the Check","level":3,"line_start":361,"line_end":395,"anchor":"#7-when-a-holder-fails-the-check"},
+        {"header":"8. Amendment, Review, and Scope Misalignment","level":3,"line_start":396,"line_end":429,"anchor":"#8-amendment-review-and-scope-misalignment"},
+        {"header":"9. What System and Institutional Charters Cannot Do","level":3,"line_start":430,"line_end":454,"anchor":"#9-what-system-and-institutional-charters-cannot-do"},
+        {"header":"10. Relationship to Other Chapters","level":3,"line_start":455,"line_end":488,"anchor":"#10-relationship-to-other-chapters"}
       ]
     },
     "core_08_functional_independence_segregation_of_duties.md": {
-      "total_lines": 397,
+      "total_lines": 400,
       "sections": [
-        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES","level":1,"line_start":2,"line_end":397,"anchor":"#chapter-eight-functional-independence-and-segregation-of-duties"},
-        {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":33,"line_end":68,"anchor":"#1-purpose-scope-and-owner-boundary"},
-        {"header":"2. Four-Seat Constitutional Floor","level":3,"line_start":69,"line_end":160,"anchor":"#2-four-seat-constitutional-floor"},
-        {"header":"3. Independence, Conflict, and Control Lines","level":3,"line_start":161,"line_end":187,"anchor":"#3-independence-conflict-and-control-lines"},
-        {"header":"4. Wrong-Seat Routing","level":3,"line_start":188,"line_end":213,"anchor":"#4-wrong-seat-routing"},
-        {"header":"5. Published Placement, Vacancy, and Substitution","level":3,"line_start":214,"line_end":246,"anchor":"#5-published-placement-vacancy-and-substitution"},
-        {"header":"6. Proportional Scaling and Merged Hosting","level":3,"line_start":247,"line_end":286,"anchor":"#6-proportional-scaling-and-merged-hosting"},
-        {"header":"7. Emergency and Urgent Action","level":3,"line_start":287,"line_end":325,"anchor":"#7-emergency-and-urgent-action"},
-        {"header":"8. Act Records and Attributable Handoffs","level":3,"line_start":326,"line_end":361,"anchor":"#8-act-records-and-attributable-handoffs"},
-        {"header":"9. Relationship to Later Processes","level":3,"line_start":362,"line_end":397,"anchor":"#9-relationship-to-later-processes"}
+        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES","level":1,"line_start":2,"line_end":400,"anchor":"#chapter-eight-functional-independence-and-segregation-of-duties"},
+        {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":33,"line_end":70,"anchor":"#1-purpose-scope-and-owner-boundary"},
+        {"header":"2. Four-Seat Constitutional Floor","level":3,"line_start":71,"line_end":162,"anchor":"#2-four-seat-constitutional-floor"},
+        {"header":"3. Independence, Conflict, and Control Lines","level":3,"line_start":163,"line_end":189,"anchor":"#3-independence-conflict-and-control-lines"},
+        {"header":"4. Wrong-Seat Routing","level":3,"line_start":190,"line_end":215,"anchor":"#4-wrong-seat-routing"},
+        {"header":"5. Published Placement, Vacancy, and Substitution","level":3,"line_start":216,"line_end":248,"anchor":"#5-published-placement-vacancy-and-substitution"},
+        {"header":"6. Proportional Scaling and Merged Hosting","level":3,"line_start":249,"line_end":289,"anchor":"#6-proportional-scaling-and-merged-hosting"},
+        {"header":"7. Emergency and Urgent Action","level":3,"line_start":290,"line_end":328,"anchor":"#7-emergency-and-urgent-action"},
+        {"header":"8. Act Records and Attributable Handoffs","level":3,"line_start":329,"line_end":364,"anchor":"#8-act-records-and-attributable-handoffs"},
+        {"header":"9. Relationship to Later Processes","level":3,"line_start":365,"line_end":400,"anchor":"#9-relationship-to-later-processes"}
       ]
     },
     "core_09_a_system_alignment_certification_evaluation.md": {
@@ -772,31 +772,31 @@
       ]
     },
     "core_09_d_institutional_alignment_certification.md": {
-      "total_lines": 377,
+      "total_lines": 379,
       "sections": [
-        {"header":"CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":377,"anchor":"#chapter-nine-part-d-institutional-alignment-certification"},
+        {"header":"CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":379,"anchor":"#chapter-nine-part-d-institutional-alignment-certification"},
         {"header":"11. Purpose, Relation to System Alignment Certification, and Scope","level":3,"line_start":39,"line_end":89,"anchor":"#11-purpose-relation-to-system-alignment-certification-and-scope"},
         {"header":"11.1 Relation to System Alignment Certification","level":4,"line_start":56,"line_end":67,"anchor":"#111-relation-to-system-alignment-certification"},
         {"header":"11.2 Who is certified","level":4,"line_start":68,"line_end":79,"anchor":"#112-who-is-certified"},
         {"header":"11.3 No licence and no gate","level":4,"line_start":80,"line_end":89,"anchor":"#113-no-licence-and-no-gate"},
-        {"header":"12. Institution Class and Institutional Evaluation","level":3,"line_start":90,"line_end":156,"anchor":"#12-institution-class-and-institutional-evaluation"},
+        {"header":"12. Institution Class and Institutional Evaluation","level":3,"line_start":90,"line_end":158,"anchor":"#12-institution-class-and-institutional-evaluation"},
         {"header":"12.1 Institution class","level":4,"line_start":109,"line_end":126,"anchor":"#121-institution-class"},
         {"header":"12.2 Institutional evaluation, always","level":4,"line_start":127,"line_end":140,"anchor":"#122-institutional-evaluation-always"},
         {"header":"12.3 Evaluations where implicated","level":4,"line_start":141,"line_end":146,"anchor":"#123-evaluations-where-implicated"},
-        {"header":"12.4 Scaling by class","level":4,"line_start":147,"line_end":156,"anchor":"#124-scaling-by-class"},
-        {"header":"13. Review, Decision, and Record","level":3,"line_start":157,"line_end":269,"anchor":"#13-review-decision-and-record"},
-        {"header":"13.1 Four seats in an institutional certification","level":4,"line_start":176,"line_end":190,"anchor":"#131-four-seats-in-an-institutional-certification"},
-        {"header":"13.2 Forum roles and sequence","level":4,"line_start":191,"line_end":202,"anchor":"#132-forum-roles-and-sequence"},
-        {"header":"13.3 Outcomes and effect","level":4,"line_start":203,"line_end":220,"anchor":"#133-outcomes-and-effect"},
-        {"header":"13.4 Institutional Certification Record","level":4,"line_start":221,"line_end":244,"anchor":"#134-institutional-certification-record"},
-        {"header":"13.5 Remediation readiness, denial, and revocation for an Institution","level":4,"line_start":245,"line_end":269,"anchor":"#135-remediation-readiness-denial-and-revocation-for-an-institution"},
-        {"header":"14. Operating, Reopening, and the Cascade","level":3,"line_start":270,"line_end":344,"anchor":"#14-operating-reopening-and-the-cascade"},
-        {"header":"14.1 Monitoring, recertification, and status","level":4,"line_start":289,"line_end":296,"anchor":"#141-monitoring-recertification-and-status"},
-        {"header":"14.2 Reopening triggers","level":4,"line_start":297,"line_end":314,"anchor":"#142-reopening-triggers"},
-        {"header":"14.3 Cascade from System certifications","level":4,"line_start":315,"line_end":328,"anchor":"#143-cascade-from-system-certifications"},
-        {"header":"14.4 Challenge path","level":4,"line_start":329,"line_end":334,"anchor":"#144-challenge-path"},
-        {"header":"14.5 Forums, certifiers, and record offices as institutions","level":4,"line_start":335,"line_end":344,"anchor":"#145-forums-certifiers-and-record-offices-as-institutions"},
-        {"header":"15. Standing Bridge and Non-Evasion","level":3,"line_start":345,"line_end":377,"anchor":"#15-standing-bridge-and-non-evasion"}
+        {"header":"12.4 Scaling by class","level":4,"line_start":147,"line_end":158,"anchor":"#124-scaling-by-class"},
+        {"header":"13. Review, Decision, and Record","level":3,"line_start":159,"line_end":271,"anchor":"#13-review-decision-and-record"},
+        {"header":"13.1 Four seats in an institutional certification","level":4,"line_start":178,"line_end":192,"anchor":"#131-four-seats-in-an-institutional-certification"},
+        {"header":"13.2 Forum roles and sequence","level":4,"line_start":193,"line_end":204,"anchor":"#132-forum-roles-and-sequence"},
+        {"header":"13.3 Outcomes and effect","level":4,"line_start":205,"line_end":222,"anchor":"#133-outcomes-and-effect"},
+        {"header":"13.4 Institutional Certification Record","level":4,"line_start":223,"line_end":246,"anchor":"#134-institutional-certification-record"},
+        {"header":"13.5 Remediation readiness, denial, and revocation for an Institution","level":4,"line_start":247,"line_end":271,"anchor":"#135-remediation-readiness-denial-and-revocation-for-an-institution"},
+        {"header":"14. Operating, Reopening, and the Cascade","level":3,"line_start":272,"line_end":346,"anchor":"#14-operating-reopening-and-the-cascade"},
+        {"header":"14.1 Monitoring, recertification, and status","level":4,"line_start":291,"line_end":298,"anchor":"#141-monitoring-recertification-and-status"},
+        {"header":"14.2 Reopening triggers","level":4,"line_start":299,"line_end":316,"anchor":"#142-reopening-triggers"},
+        {"header":"14.3 Cascade from System certifications","level":4,"line_start":317,"line_end":330,"anchor":"#143-cascade-from-system-certifications"},
+        {"header":"14.4 Challenge path","level":4,"line_start":331,"line_end":336,"anchor":"#144-challenge-path"},
+        {"header":"14.5 Forums, certifiers, and record offices as institutions","level":4,"line_start":337,"line_end":346,"anchor":"#145-forums-certifiers-and-record-offices-as-institutions"},
+        {"header":"15. Standing Bridge and Non-Evasion","level":3,"line_start":347,"line_end":379,"anchor":"#15-standing-bridge-and-non-evasion"}
       ]
     },
     "core_09_system_alignment_certification.md": {
@@ -1034,9 +1034,9 @@
       ]
     },
     "core_06_rights_part_b.md": {
-      "total_lines": 2094,
+      "total_lines": 2102,
       "sections": [
-        {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":2094,"anchor":null},
+        {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":2102,"anchor":null},
         {"header":"Part B: Personhood, agency, cooperation, and stakeholder system participation","level":3,"line_start":19,"line_end":101,"anchor":null},
         {"header":"Article VI: Equal Basic Rights","level":3,"line_start":102,"line_end":321,"anchor":null},
         {"header":"Article VI-A: Dignity and Equal Moral Standing","level":4,"line_start":137,"line_end":168,"anchor":null},
@@ -1065,20 +1065,20 @@
         {"header":"Article X-B: Governance Participation and Voting Entitlement","level":4,"line_start":1211,"line_end":1243,"anchor":null},
         {"header":"Article X-C: Stakeholder Role and Participation Rights","level":4,"line_start":1244,"line_end":1288,"anchor":null},
         {"header":"Article X-D: Inclusion and Exclusion Challenge Rights","level":4,"line_start":1289,"line_end":1327,"anchor":null},
-        {"header":"Article XI: Conscience, Expression, Association, and Cooperative Interaction","level":3,"line_start":1328,"line_end":1731,"anchor":null},
+        {"header":"Article XI: Conscience, Expression, Association, and Cooperative Interaction","level":3,"line_start":1328,"line_end":1739,"anchor":null},
         {"header":"Article XI-A: Freedom of conscience, religion, and comparable worldview","level":4,"line_start":1370,"line_end":1409,"anchor":null},
         {"header":"Article XI-B: Expression","level":4,"line_start":1410,"line_end":1471,"anchor":null},
         {"header":"Article XI-C: Press and Journalistic Activity","level":4,"line_start":1472,"line_end":1508,"anchor":null},
         {"header":"Article XI-D: Assembly, Dissent, and Peaceful Protest","level":4,"line_start":1509,"line_end":1584,"anchor":null},
-        {"header":"Article XI-E: Institutional Formation and Business Creation","level":4,"line_start":1585,"line_end":1639,"anchor":null},
-        {"header":"Article XI-F: Non-Imposition and Consent in Association","level":4,"line_start":1640,"line_end":1684,"anchor":null},
-        {"header":"Article XI-G: Collective Harm Boundary and Enforcement Interface","level":4,"line_start":1685,"line_end":1731,"anchor":null},
-        {"header":"Article XII: Stakeholder System Participation, Representation, and Due Process","level":3,"line_start":1732,"line_end":2094,"anchor":null},
-        {"header":"Article XII-A: Stakeholder System Participation and Representation","level":4,"line_start":1785,"line_end":1830,"anchor":null},
-        {"header":"Article XII-B: Weighted Participation and Anti-Token Constraints","level":4,"line_start":1831,"line_end":1872,"anchor":null},
-        {"header":"Article XII-C: Internal Roles, Accountability, and Due-Process Requirements","level":4,"line_start":1873,"line_end":1915,"anchor":null},
-        {"header":"Article XII-D: Non-Capture Safeguards","level":4,"line_start":1916,"line_end":2009,"anchor":null},
-        {"header":"Article XII-E: Influence-Contact and Lobbying Boundaries","level":4,"line_start":2010,"line_end":2094,"anchor":null}
+        {"header":"Article XI-E: Institutional Formation and Business Creation","level":4,"line_start":1585,"line_end":1647,"anchor":null},
+        {"header":"Article XI-F: Non-Imposition and Consent in Association","level":4,"line_start":1648,"line_end":1692,"anchor":null},
+        {"header":"Article XI-G: Collective Harm Boundary and Enforcement Interface","level":4,"line_start":1693,"line_end":1739,"anchor":null},
+        {"header":"Article XII: Stakeholder System Participation, Representation, and Due Process","level":3,"line_start":1740,"line_end":2102,"anchor":null},
+        {"header":"Article XII-A: Stakeholder System Participation and Representation","level":4,"line_start":1793,"line_end":1838,"anchor":null},
+        {"header":"Article XII-B: Weighted Participation and Anti-Token Constraints","level":4,"line_start":1839,"line_end":1880,"anchor":null},
+        {"header":"Article XII-C: Internal Roles, Accountability, and Due-Process Requirements","level":4,"line_start":1881,"line_end":1923,"anchor":null},
+        {"header":"Article XII-D: Non-Capture Safeguards","level":4,"line_start":1924,"line_end":2017,"anchor":null},
+        {"header":"Article XII-E: Influence-Contact and Lobbying Boundaries","level":4,"line_start":2018,"line_end":2102,"anchor":null}
       ]
     },
     "core_06_rights_part_c.md": {
@@ -1797,15 +1797,16 @@
       ]
     },
     "corpus_institutions/ci_04_appointment_competency_rotation_removal.md": {
-      "total_lines": 292,
+      "total_lines": 335,
       "sections": [
-        {"header":"CI-4: Appointment, competency, rotation, and removal","level":1,"line_start":1,"line_end":292,"anchor":null},
-        {"header":"CI-4.1: Shared staffing and competency floor","level":2,"line_start":60,"line_end":75,"anchor":null},
-        {"header":"CI-4.2: Role criteria, appointment standards, and removal pathways","level":2,"line_start":76,"line_end":100,"anchor":null},
-        {"header":"CI-4.3: Periodic performance and capability review","level":2,"line_start":101,"line_end":114,"anchor":null},
-        {"header":"CI-4.4: Interpretive-body composition controls","level":2,"line_start":115,"line_end":133,"anchor":null},
-        {"header":"CI-4.5: Authorized roles and accountability chains","level":2,"line_start":134,"line_end":173,"anchor":null},
-        {"header":"CI-4.6: Seat catalog — process-role archetypes and operational boundaries","level":2,"line_start":174,"line_end":292,"anchor":"#ci-46-seat-catalog"}
+        {"header":"CI-4: Appointment, competency, rotation, and removal","level":1,"line_start":1,"line_end":335,"anchor":null},
+        {"header":"CI-4.1: Shared staffing and competency floor","level":2,"line_start":61,"line_end":76,"anchor":null},
+        {"header":"CI-4.2: Role criteria, appointment standards, and removal pathways","level":2,"line_start":77,"line_end":101,"anchor":null},
+        {"header":"CI-4.3: Periodic performance and capability review","level":2,"line_start":102,"line_end":115,"anchor":null},
+        {"header":"CI-4.4: Interpretive-body composition controls","level":2,"line_start":116,"line_end":134,"anchor":null},
+        {"header":"CI-4.5: Authorized roles and accountability chains","level":2,"line_start":135,"line_end":174,"anchor":null},
+        {"header":"CI-4.6: Seat catalog — process-role archetypes and operational boundaries","level":2,"line_start":175,"line_end":286,"anchor":"#ci-46-seat-catalog"},
+        {"header":"CI-4.7: Practice licence, practice clearance, and joint professional practice","level":2,"line_start":287,"line_end":335,"anchor":"#ci-46-seat-advisory"}
       ]
     },
     "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md": {
