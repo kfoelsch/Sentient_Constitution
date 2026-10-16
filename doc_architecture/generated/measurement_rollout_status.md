@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-14T16:01:05+00:00
+Generated: 2026-10-15T22:29:01+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **268/268** terms pass tier audit.
+Approved progress: **271/271** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -48,6 +48,7 @@ Approved progress: **268/268** terms pass tier audit.
 | Anti-Capture | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Charter Role Map | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Chartered Party | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Constitutional Charter | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Constitutional Emergency and Contingency | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Cross-System Extraction | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
@@ -173,6 +174,7 @@ Approved progress: **268/268** terms pass tier audit.
 | Capability Requirement | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Classification-Scaled Governance | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Corpus | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Domain-Specific Materiality | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Epistemic Integrity | approved | full | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evaluation Completeness Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evidence Preservation | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
@@ -189,6 +191,7 @@ Approved progress: **268/268** terms pass tier audit.
 | Materiality Under Uncertainty | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Misalignment Detection | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Open Systems, Data, and Auditing | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Operating Party | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Oversight | approved | primary_only | tetrad_leg_head | `core_05_apex_oversight_leg.md` | yes | pass |
 | Press and Journalistic Activity | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Protected Data and Internal-State Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |

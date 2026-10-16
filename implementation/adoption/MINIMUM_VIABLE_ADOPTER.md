@@ -78,7 +78,7 @@ This page does **not**:
 
 | Class | Title | One-line differential |
 |---|---|---|
-| **P** | Personal, private-use, isolated, experimental | Effects stay inside a private unit with no meaningful outside reliance, or the body is ordinary community activity below every line of [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) |
+| **P** | Personal, private-use, isolated, experimental | Effects stay inside a private unit with no meaningful outside reliance, or the Operating Party is ordinary community activity below every line of [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) |
 | **L** | Local, limited-impact, non-critical | Effects beyond a private unit but local, replaceable, and containable |
 | **C** | Coordinated, high-dependency, non-critical | Shapes coordination at scale; not an operational prerequisite for Class A/B function |
 | **B** | Critical, high-dependency, systemically significant | Dependents cannot keep core function without it; survival not immediately lost |
@@ -86,7 +86,7 @@ This page does **not**:
 
 Highest applicable class governs ([CS-3 Part A §2.2](../../corpus_systems/cs_03_a_system_classification_machinery.md#22-real-world-application)). A forty-person lab running a widely used model is not Class P because the crew is small.
 
-**Check before you pick P.** Answer the nine questions in [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) for everything the body does as a body: survival and essential access; safety; authority over others; livelihood and economic terms; custody; information and truth; dependence and exit; ecology; systemic and irreversible effects. One yes puts the body at Class L or higher, whatever *N* is, and it must publish a System Charter or Institutional Charter. Nine nos, each with a short written reason, leave it at Class P however many members it has: a quilting circle that gives quilts to refugees is the pattern. This page does not decide the question; the Chapter Five entry does.
+**Check before you pick P.** Answer the nine questions in [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) for everything the Operating Party does as an Operating Party: survival and essential access; safety; authority over others; livelihood and economic terms; custody; information and truth; dependence and exit; ecology; systemic and irreversible effects. One yes puts the Operating Party at Class L or higher, whatever *N* is, and it must publish a System Charter or Institutional Charter. Nine nos, each with a short written reason, leave it at Class P however many members it has: a quilting circle that gives quilts to refugees is the pattern. This page does not decide the question; the Chapter Five entry does.
 
 **Forum family floor is Class C.** Every Chapter Thirteen family, forum, chamber, division, or designated panel takes at least the Class C coordination-dependency floor ([CF-3.6](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-36-chamber-authority-composition-and-service-mechanics) / [CI-9.3](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline)). Do not pick a lower class to dodge forum burden.
 

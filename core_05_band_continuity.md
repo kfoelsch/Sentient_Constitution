@@ -2993,7 +2993,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 *In plain terms: an **Institution** is a lasting holder of authority, such as an office, agency, organization, or forum. It keeps its mandate when its occupants change. What counts is what it actually decides and who answers for it, not what it calls itself or how it is incorporated.*
 
 - **What it is**
-  - **In scope:** A durable holder of authority or of an organized role, which continues when its occupants change. A body is an Institution when it passes all three of these tests:
+  - **In scope:** A durable holder of authority or of an organized role, which continues when its occupants change. An Operating Party is an Institution when it passes all three of these tests:
     1. it outlasts any single occupant, because offices, mandate, or membership carry on through turnover;
     2. it holds a defined mandate, authority, or stewarded resource that it uses to decide, act, or hold something for or over others; and
     3. an accountable office or steward can be identified for what it does, including a successor when it is reorganized.
@@ -3009,14 +3009,14 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     **Primary assessment:** Identify the Institution by what it actually decides, holds, and controls, not by its label or legal form. Find the mandate, the offices, the stewards, and the successor, and test whether:
     1. each use of authority can be attributed to an accountable office or steward;
     2. the mandate shown in practice matches the published [Institutional Charter](core_05_band_continuity.md#institutional-charter) or equivalent instrument; and
-    3. reorganizing, renaming, splitting, merging, or reincorporating the body leaves every duty that applied to it in place.
-  - **Secondary measure:** [Governance](core_05_band_accountability.md#governance) and [Material Control Line](core_05_band_accountability.md#material-control-line) — co-measures that test who actually directs the body.
+    3. reorganizing, renaming, splitting, merging, or reincorporating the Institution leaves every duty that applied to it in place.
+  - **Secondary measure:** [Governance](core_05_band_accountability.md#governance) and [Material Control Line](core_05_band_accountability.md#material-control-line) — co-measures that test who actually directs the Institution.
 
     **Secondary assessment:** When evaluating the primary trace, identify any actor that holds real control without holding the formal office, and evaluate the Institution by where authority actually sits.
 <a id="institution-c"></a>
 - **What must hold**
   - Every duty that applies to an Institution follows its function through relabeling, reorganization, succession, subsidiary structure, or change of legal form.
-  - **Primary failure:** using a form, name, or structure to claim that a body holding durable authority is not an Institution, so that a duty that would apply to it does not.
+  - **Primary failure:** using a form, name, or structure to claim that an Operating Party holding durable authority is not an Institution, so that a duty that would apply to it does not.
   - **Secondary failure:** leaving authority held in practice by an actor that no office or steward answers for.
 
 ---
@@ -3049,7 +3049,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - amendment authority;
     - periodic-review cadence scaled to [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance);
     - the [Charter Role Map](core_05_band_continuity.md#charter-role-map), or a pointer to the published instrument that is the Charter Role Map;
-    - the **record-opening authority** and **record custodian** for [Standing Records](core_05_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](core_05_band_continuity.md#charter-role-map) carries as its entries for standing records ([Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07_charters.md#5-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the chartered entity is itself the subject ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority)); and
+    - the **record-opening authority** and **record custodian** for [Standing Records](core_05_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](core_05_band_continuity.md#charter-role-map) carries as its entries for standing records ([Chapter Seven §5 The Charter Role Map and Standing-Record Custody](core_07_charters.md#5-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the [Chartered Party](core_05_band_continuity.md#chartered-party) is itself the subject ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority)); and
     - where [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, **pointers** to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) participation-window / decision-path materials and the **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*) weighting publication file).
 
     Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](core_05_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](core_05_band_participation.md#system-creation) and [Business Creation](core_05_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. A System Charter is required at Class L or higher and voluntary at Class P. The duty to publish a System Charter, its minimum contents, and its amendment and review floor are stated in [Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters). Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Eighteen** incorporation discipline.
@@ -3069,7 +3069,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     4. observed behavior, dependency, and impact remain within chartered scope — or material mismatch is disclosed and routed to amendment, recertification, or reopening;
     5. System Charter claims do not understate [System Boundaries](core_05_band_continuity.md#system-boundaries) defined by [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency); and
     6. where binding stakeholder choice is in admission scope, the System Charter points to usable published process rules rather than treating its text as a substitute for [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice); and
-    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the chartered entity's own [Material Control Line](core_05_band_accountability.md#material-control-line) for records in which the entity is the subject, and the independent route under [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority) is live; where the System Charter is silent, the **CI-3.2** (*Functional separation lanes*) lane map places the seats in the meantime.
+    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the [Chartered Party](core_05_band_continuity.md#chartered-party)'s own [Material Control Line](core_05_band_accountability.md#material-control-line) for records in which the entity is the subject, and the independent route under [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority) is live; where the System Charter is silent, the **CI-3.2** (*Functional separation lanes*) lane map places the seats in the meantime.
 <a id="system-charter-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -3224,6 +3224,56 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - letting that party change those placements alone; or
     - treating an entry that is dead, stale, or inconsistent with a competency clearance or standing lock as authority for an act.
   - **Secondary failure:** an undated or unattributed change; a seat moved on a pending act without a recorded reason; an unplaced seat left unlogged; or a map that is overdue for review.
+
+---
+
+<a id="chartered-party"></a>
+
+#### Chartered Party
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
+- Downstream: [Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters) (*the duties this chapter places on a System or Institution that holds a System Charter or Institutional Charter*); [Chapter Seven §3 When System and Institutional Charters Are Required](core_07_charters.md#3-when-system-and-institutional-charters-are-required) (*who must publish one and who may*); [Chapter Seven §7 When a Holder Fails the Check](core_07_charters.md#7-when-a-holder-fails-the-check) (*a failed check lands on one office, not on the Chartered Party*).
+- Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
+- Read with: [System](core_05_band_continuity.md#system), [Institution](core_05_band_continuity.md#institution), [Operating Party](core_05_band_oversight.md#operating-party), [System Charter](core_05_band_continuity.md#system-charter), [Institutional Charter](core_05_band_continuity.md#institutional-charter), [Charter Role Map](core_05_band_continuity.md#charter-role-map), [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality), [Governance](core_05_band_accountability.md#governance), and [Material Control Line](core_05_band_accountability.md#material-control-line).
+- Distinguish: a Chartered Party is not a third kind of thing beside Systems and Institutions. It is a System or an Institution named from the side of the System Charter or Institutional Charter it holds or must hold, so that one term covers both. It adds no duty, no class, and no gate. Whether a System Charter or Institutional Charter is required, and what it must state, are fixed in [Chapter Seven](core_07_charters.md#chapter-seven-system-and-institutional-charters), and the class that triggers the duty is fixed under [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality), not in this entry.
+
+</details>
+
+<br>
+
+*In plain terms: a **Chartered Party** is a system or an institution that has published a System Charter or Institutional Charter, or that Chapter Seven requires to. Chapter Seven uses the one term so it does not have to say "system or institution" every time. A Class P [Operating Party](core_05_band_oversight.md#operating-party) that has not published one is not a Chartered Party, and becomes one the day it publishes. Using the term does not add a duty. The duties come from the chapter and from the party's class.*
+
+- **What it is**
+  - **In scope:** A [System](core_05_band_continuity.md#system) or an [Institution](core_05_band_continuity.md#institution), named from the side of the System Charter or Institutional Charter it holds or must hold, that:
+    - has published a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter), including a Class P one that published voluntarily; or
+    - must publish one, because it is Class L or higher or because its operator asserts constitutional compliance for it.
+
+    A business or other stewarded organizational form that is itself a System is a Chartered Party. So is an Institution that runs more than one System, which holds their System Charters in its Institutional Charter.
+  - **Out of scope:**
+    - a Class P [Operating Party](core_05_band_oversight.md#operating-party) that has not published a System Charter or Institutional Charter and is not required to. It is not a Chartered Party until it publishes, and the rules on forming apply to it all the same;
+    - a sentient who holds an office in a Chartered Party. The holder is a steward of the office, and a failure by the holder lands on that office, not on the Chartered Party;
+    - an office, forum, or governing board inside a Chartered Party, which is one of its seats and not the party itself;
+    - a political community that adopts a [Constitutional Charter](core_05_band_continuity.md#constitutional-charter), which is a different instrument; and
+    - any licence or gate on forming. Naming a Chartered Party grants no permission and withholds none.
+<a id="chartered-party-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
+
+    **Primary assessment:** Identify the Chartered Party by what it actually does, not by its label or legal form, and test whether:
+    1. the System or Institution that takes the materially binding acts in the chartered scope is the one its System Charter or Institutional Charter names, together with its steward;
+    2. a System Charter or Institutional Charter held in another name, or by a related entity, does not leave the party that actually runs the work without one; and
+    3. renaming, splitting, merging, or reincorporating the party leaves every duty that applied to it in place.
+  - **Secondary measure:** [Governance](core_05_band_accountability.md#governance) and [Material Control Line](core_05_band_accountability.md#material-control-line) — co-measures that test who actually directs the party.
+
+    **Secondary assessment:** When evaluating the primary trace, identify any actor that holds real control over the party without being named in its System Charter or Institutional Charter, and evaluate the party by where authority actually sits.
+<a id="chartered-party-c"></a>
+- **What must hold**
+  - Every duty that applies to a Chartered Party follows the System or Institution through relabeling, reorganization, succession, subsidiary structure, or change of legal form.
+  - **Primary failure:** using a form, name, or structure to claim that the System or Institution doing the work is not the Chartered Party, so that a duty that would apply to it does not.
+  - **Secondary failure:** a System Charter or Institutional Charter that names a party that does not run the work, or that leaves the party that does run it unnamed.
 
 ---
 

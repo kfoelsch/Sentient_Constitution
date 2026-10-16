@@ -1268,6 +1268,16 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Chartered Party": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Operating Party": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
     "Institution": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",

@@ -117,7 +117,7 @@
       "href": "../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 270,
+  "term_count": 272,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -300,6 +300,13 @@
       "anchor": "#charter-role-map",
       "plain_terms": "a **Charter Role Map** is the published list, kept with a System Charter or Institutional Charter, of who may hold which seat in the work it covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.",
       "href": "../../core_05_band_continuity.md#charter-role-map"
+    },
+    {
+      "term": "Chartered Party",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#chartered-party",
+      "plain_terms": "a **Chartered Party** is a system or an institution that has published a System Charter or Institutional Charter, or that Chapter Seven requires to. Chapter Seven uses the one term so it does not have to say \"system or institution\" every time. A Class P [Operating Party](../../core_05_band_oversight.md#operating-party) that has not published one is not a Chartered Party, and becomes one the day it publishes. Using the term does not add a duty. The duties come from the chapter and from the party's class.",
+      "href": "../../core_05_band_continuity.md#chartered-party"
     },
     {
       "term": "Classification-Scaled Governance",
@@ -1145,7 +1152,7 @@
       "term": "Materiality",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-determination",
-      "plain_terms": "materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened. Whether a duty applies to an act or a body at all, area by area, is the separate question that [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) answers; this entry then scales the duties that do apply.",
+      "plain_terms": "materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened. Whether a duty applies to an act or an Operating Party at all, area by area, is the separate question that [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) answers; this entry then scales the duties that do apply.",
       "href": "../../core_05_band_oversight.md#materiality"
     },
     {
@@ -1294,6 +1301,13 @@
       "anchor": "#openness-aspiration-constitutional",
       "plain_terms": null,
       "href": "../../core_05_band_continuity.md#openness-aspiration"
+    },
+    {
+      "term": "Operating Party",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#operating-party",
+      "plain_terms": "an **Operating Party** is whoever actually does the activity: a single sentient, a group of sentients acting together, a system, or an institution. The nine questions in Domain-Specific Materiality are put to it. If what it does is material in any one area, it is Class L or higher and must publish a System Charter or Institutional Charter, which makes it a Chartered Party. If not, it stays Class P. Naming the party adds no duty and gates nothing.",
+      "href": "../../core_05_band_oversight.md#operating-party"
     },
     {
       "term": "Outcome-Resolution Source",
