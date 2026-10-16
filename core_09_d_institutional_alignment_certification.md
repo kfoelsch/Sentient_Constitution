@@ -146,7 +146,7 @@ Where an Institution's own conduct implicates a Rights Floor or a domain covered
 
 #### 12.4 Scaling by class
 
-The institution class scales the depth of evidence, the independence of the review, the default recertification cadence, and the disclosure on the record, in the way [Part A §2.1 How system class scales every evaluation](core_09_a_system_alignment_certification_evaluation.md#21-how-system-class-scales-every-evaluation) does. Cadences and the number of clean provisional recertifications are those the adopting instrument sets.
+The institution class scales the depth of evidence, the independence of the review, the default recertification cadence, and the disclosure on the record, in the way [Part A §2.1 How system class scales every evaluation](core_09_a_system_alignment_certification_evaluation.md#21-how-system-class-scales-every-evaluation) does. The cadence floors are in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#review-cadence) (*Review cadence*); the adopting instrument may set shorter intervals and sets the number of clean provisional recertifications.
 
 - **Class A, B, and C:** all seven items in [§12.2 Institutional evaluation, always](#122-institutional-evaluation-always), with evidence and independence in proportion to the class.
 - **Class L:** the same seven items, simplified, with simpler records and a lower default cadence where [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) allows. The core of a Class L pass is the Institutional Charter against practice, the Role Map, the formation check statement, and the currency of the cited System certifications. No item may be omitted, and an item with nothing to find is stated in a line.
@@ -298,7 +298,7 @@ A first Institutional Certification Record is provisional. Full certification is
 
 #### 14.2 Reopening triggers
 
-An Institutional Certification Record is recertified on the cadence set for the Institution's class. Review also reopens when any of the following is material:
+An Institutional Certification Record is recertified on the cadence set for the Institution's class in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#review-cadence) (*Review cadence*), and the Institution is audited at the midpoint of that cadence. Review also reopens when any of the following is material:
 
 - **General triggers,** as [Part B §9 Recertification and Reopening](core_09_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) lists them, applied to the Institution: material change in its activity or context, concealed behavior, dependency growth, new risk, incident history, stakeholder evidence, a credible challenge, and misclassification or overdue reassessment of its class;
 - **Institutional Charter events:** an Institutional Charter amendment, a mismatch between the Institutional Charter and observed operation, operation materially outside chartered scope, or an overdue periodic Institutional Charter review;

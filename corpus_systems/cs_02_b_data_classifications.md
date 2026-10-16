@@ -180,7 +180,7 @@ Open and audit-accessible types do not switch privacy off. Personal, relational,
 - its degree of alignment with this Constitution
 
 Where that baseline applies, **Type O** also carries — at public-baseline fidelity, including lawful substitutes — publication or a usable public view of:
-- the governing [System Charter](../core_05_band_continuity.md#system-charter) (or equivalent published scope instrument)
+- the governing [System Charter](../core_05_band_continuity.md#system-charter)
 - the [System Classification Record](../core_05_band_continuity.md#system-classification-record)
 - the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record)
 - the [System Certification Record](../core_05_band_continuity.md#system-certification-record) produced by [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification), including material governance and audit outcomes required for baseline visibility

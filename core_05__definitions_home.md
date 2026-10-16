@@ -129,6 +129,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Capability Requirement](core_05_band_oversight.md#capability-requirement)
 - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways)
 - [Cascading Failure](core_05_band_continuity.md#cascading-failure)
+- [Charter Pointer](core_05_band_continuity.md#charter-pointer)
 - [Charter Role Map](core_05_band_continuity.md#charter-role-map)
 - [Chartered Party](core_05_band_continuity.md#chartered-party)
 - [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance)

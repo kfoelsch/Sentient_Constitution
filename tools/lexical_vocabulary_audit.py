@@ -20,7 +20,7 @@ _BREACH_FAMILY_SCOPE = frozenset({"core_10_standing_assessment.md", "core_11_sta
 _CLOUD_WORD = re.compile(r"(?<![A-Za-z0-9])cloud(?![A-Za-z0-9])", re.IGNORECASE)
 
 # Prefer **constitutional** / **this Constitution** for Corpus sense; keep **charter** for allowlisted legal-instrument senses
-# (the Chapter Five terms System Charter, Institutional Charter, Constitutional Charter, and Charter Role Map; the Chapter Fourteen
+# (the Chapter Five terms System Charter, Institutional Charter, Constitutional Charter, Charter Role Map, and Charter Pointer; the Chapter Fourteen
 # treaty, compact, or Constitutional Charter family; corporate charter; verb forms). A bare **Charter** is not allowed:
 # name which Charter is meant.
 _CHARTER_WORD = re.compile(r"(?<![A-Za-z0-9])charter(?![A-Za-z0-9])", re.IGNORECASE)
@@ -34,6 +34,7 @@ _ALLOWLIST_STRIP = [
     re.compile(r"paper charters?", re.IGNORECASE),
     re.compile(r"####\s+(?:System|Institutional|Constitutional) Charter\b"),
     re.compile(r"####\s+Charter Role Map\b"),
+    re.compile(r"####\s+Charter Pointer\b"),
     re.compile(r"#charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
     re.compile(r"#[a-z0-9-]*-charter(?:-[a-z0-9-]+)?", re.IGNORECASE),
     re.compile(r'id="(?:[a-z0-9-]+-)?charter(?:-[a-z0-9-]+)?"', re.IGNORECASE),
@@ -43,6 +44,7 @@ _ALLOWLIST_STRIP = [
     # Defined terms (capitalized), last so multi-word compounds above can match first.
     re.compile(r"\b(?:System|Institutional|Constitutional) Charters?\b"),
     re.compile(r"\bCharter Role Maps?\b"),
+    re.compile(r"\bCharter Pointers?\b"),
     re.compile(r"\bSystem and Institutional Charters?\b"),
 ]
 

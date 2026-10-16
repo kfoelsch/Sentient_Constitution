@@ -64,11 +64,11 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | Intake acknowledgment | ≤ 24 hours |
 | Evidence preservation | concurrent with intake |
 | Interim protection | as soon as credible harm is material — not after merits |
-| Q1 verified finding → standing record | ≤ 3 days |
-| Q2 measurement | ≤ 1 day after verified inputs |
-| Q3 integration | ≤ 2 days after Q2 |
-| Remedy commencement | ≤ 1 day after Q3 |
-| Integrated resolution outer bound | ≤ 7 days |
+| Q1 verified finding → standing record | 2 days |
+| Q2 measurement | 1 day after verified inputs |
+| Q3 integration | 2 days after Q2 |
+| Remedy commencement | 1 day after Q3 |
+| Integrated resolution outer bound (the stages add up to it) | ≤ 7 days |
 
 #### Must not happen
 
@@ -110,13 +110,13 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 
 | Stage | Target window |
 | --- | --- |
-| Intake acknowledgment | ≤ 3 calendar days |
-| Evidence preservation | ≤ 3 days from intake |
-| Q1 verified finding → standing record | ≤ 7 days |
-| Q2 measurement | ≤ 5 days after verified inputs |
-| Q3 integration | ≤ 7 days after Q2 |
-| Remedy commencement | ≤ 5 days after Q3 |
-| Integrated resolution outer bound | ≤ 21 days |
+| Intake acknowledgment | 2 calendar days |
+| Evidence preservation | inside the intake window |
+| Q1 verified finding → standing record | 4 days |
+| Q2 measurement | 2 days after verified inputs |
+| Q3 integration | 4 days after Q2 |
+| Remedy commencement | 2 days after Q3 |
+| Integrated resolution outer bound (the stages add up to it) | ≤ 14 days |
 
 #### Must not happen
 
@@ -157,13 +157,13 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 | Stage | Tier B (urgency floor) | If coordination complexity is present (urgency remains B) |
 | --- | --- | --- |
-| Intake acknowledgment | ≤ 3 days | ≤ 3 days (no relaxation) |
-| Evidence preservation | ≤ 3 days | ≤ 3 days (no relaxation) |
-| Q1 verified finding → standing record | ≤ 7 days | ≤ 21 days |
-| Q2 measurement | ≤ 5 days | ≤ 14 days |
-| Q3 integration | ≤ 7 days | ≤ 21 days |
-| Remedy commencement | ≤ 5 days | ≤ 14 days after plan |
-| Integrated resolution outer bound | ≤ 21 days | ≤ 60 days (documented time-scale extension; not a tier change) |
+| Intake acknowledgment | 2 days | 2 days (no relaxation) |
+| Evidence preservation | inside the intake window | inside the intake window (no relaxation) |
+| Q1 verified finding → standing record | 4 days | 8 days |
+| Q2 measurement | 2 days | 4 days |
+| Q3 integration | 4 days | 8 days |
+| Remedy commencement | 2 days | 4 days |
+| Integrated resolution outer bound | ≤ 14 days | ≤ 28 days (documented time-scale extension; not a tier change) |
 
 Later-stage stretch follows [Chapter Thirteen §6](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*target windows and timing floors*). Intake, evidence preservation, and any interim protection stay at the **Tier B** floor.
 

@@ -49,6 +49,8 @@ Certification depth, record burden, recertification cadence, stakeholder review,
 - Higher-impact, higher-dependency, and higher-risk systems require stronger proof, clearer records, and more practicable participation — including substantive accessibility, stakeholder input, and challenge routes scaled to who relies on the system.
 - Lower system classes and bounded scopes still require honest classification and proportionate assurance; they do not receive a free pass from material obligations where external effects exist.
 
+The recertification cadence, and the financial, resource, or special audit that falls halfway between certification checks, are set by class in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#review-cadence) (*Review cadence*). This chapter does not restate the numbers.
+
 The process applies by impact class, as [CS-3 §3.5 Reclassification requirement](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) sets out:
 
 - **Class A, Class B, and Class C:** these systems carry the highest impact, dependency, and risk, and whole-system evaluation under [§3 Whole-System Certification Evaluation](#3-whole-system-certification-evaluation), [§4 Evaluations Where Implicated](#4-evaluations-where-implicated), and [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations), each as its own tier applies, is mandatory at full depth;
@@ -433,7 +435,7 @@ Evaluation must reflect functional effect, not label, format, or pipeline stage 
 
 Where the **[CS-2 Part A §7 Type O baseline](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** applies, certification must also verify that the published [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) covers the **certified scope**, mapped from:
 
-- the governing [System Charter](core_05_band_continuity.md#system-charter) (or equivalent published scope instrument);
+- the governing [System Charter](core_05_band_continuity.md#system-charter);
 - the assigned system class; and
 - the observed [System Boundaries](core_05_band_continuity.md#system-boundaries).
 

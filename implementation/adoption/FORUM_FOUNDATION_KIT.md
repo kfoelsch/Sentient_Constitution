@@ -380,7 +380,7 @@ Do not restate CF or Chapter Thirteen. Use the owner files. This section is only
 
 [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) and [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template) own Chapter Five Institutional Charters. [Chapter Thirteen §4.3](../../core_13_forum.md#43-institutional-forums) hears institutional-mandate and supervised-scope disputes; it is not the institution itself.
 
-Do not found an oversight body, cooperative, or “constitutional institution” with this kit and call that a forum family. Do not staff a forum family from the institution’s founding crew and call that independent review. If the work is actually an institution, stop here and open the institution kit. Institutional forums remain a *route* named in CI-3.6 field 9 — they are founded here, under CF-3, not by filling a Institutional Charter.
+Do not found an oversight body, cooperative, or “constitutional institution” with this kit and call that a forum family. Do not staff a forum family from the institution’s founding crew and call that independent review. If the work is actually an institution, stop here and open the institution kit. Institutional forums remain a *route* named in CI-3.6 field 8 — they are founded here, under CF-3, not by filling a Institutional Charter.
 
 Community governance bodies themselves are not a forum family. Their records become **Sentient** forum matters only where [Chapter Thirteen §4.1](../../core_13_forum.md#41-sentient-forums) holds the primary stake.
 

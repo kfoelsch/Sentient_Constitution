@@ -979,10 +979,10 @@ flowchart TB
     subgraph Tiers["Forum urgency tiers · outer bound for integrated resolution"]
         direction TB
         A["Tier A · imminent or dependency-vulnerable harm,<br/><br/>or final high-impact review<br/>Outer bound: at most 1 week"]
-        B["Tier B · material rights, standing, or institutional injury<br/><br/>that is not yet acute ongoing harm<br/>Outer bound: at most 3 weeks"]
-        C["Tier C · coordination-complexity default<br/><br/>only when A or B does not independently apply<br/>Outer bound: at most 2 months"]
-        L["Tier L · bounded constitutional significance<br/><br/>Limited external impact or dependency<br/>Outer bound: at most 4 months"]
-        P["Tier P · private or contained matter<br/><br/>Minimal external constitutional impact<br/>Outer bound: at most 6 months"]
+        B["Tier B · material rights, standing, or institutional injury<br/><br/>that is not yet acute ongoing harm<br/>Outer bound: at most 2 weeks"]
+        C["Tier C · coordination-complexity default<br/><br/>only when A or B does not independently apply<br/>Outer bound: at most 4 weeks"]
+        L["Tier L · bounded constitutional significance<br/><br/>Limited external impact or dependency<br/>Outer bound: at most 8 weeks"]
+        P["Tier P · private or contained matter<br/><br/>Minimal external constitutional impact<br/>Outer bound: at most 12 weeks"]
     end
     Clock["Published stage clocks<br/><br/>Intake · evidence preservation · verified finding<br/>measurement · integration · remedy commencement"]
     M --> A

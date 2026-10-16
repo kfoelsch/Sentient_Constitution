@@ -35,10 +35,10 @@
       },
       "tiers": {
         "A": "one week",
-        "B": "three weeks",
-        "C": "two months",
-        "L": "four months",
-        "P": "six months"
+        "B": "two weeks",
+        "C": "four weeks",
+        "L": "eight weeks",
+        "P": "twelve weeks"
       }
     }
   },

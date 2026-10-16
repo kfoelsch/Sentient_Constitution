@@ -550,7 +550,7 @@ The record must identify, at minimum:
 
 - **System identity, scope, and status:**
   - the system, its version, its operator or steward, and its scope;
-  - the governing [System Charter](core_05_band_continuity.md#system-charter) or equivalent published scope instrument (or the reasoned absence of one, where that is immaterial);
+  - the governing [System Charter](core_05_band_continuity.md#system-charter) (or the reasoned absence of one, where that is immaterial);
   - affected communities and dependencies; and
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists;
   - where the operator or steward is an [Institution](core_05_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Part D §11.1 Relation to System Alignment Certification](core_09_d_institutional_alignment_certification.md#111-relation-to-system-alignment-certification));
@@ -741,7 +741,7 @@ This section is sub-phase **VIa** of Phase VI (Operate), operate and recertify. 
 
 An incident, unmet condition, missed proof step under [§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct), false readiness evidence, or credible challenge that materially calls alignment into question requires timely forum review under this section and must not wait for the next scheduled recertification. Correction and release of conditions follow the independent-verification requirements in [§7 Certification Outcomes](#7-certification-outcomes).
 
-A **System Certification Record** is **scope-bound** and **time-bound**. It must be recertified on the cadence set for its system class under [Part A §2](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation). Review also reopens under Chapter Thirteen and incorporated system implementation duties when any of the following is material:
+A **System Certification Record** is **scope-bound** and **time-bound**. It must be recertified on the cadence set for its system class in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#review-cadence) (*Review cadence*), and audited at the midpoint of that cadence. Review also reopens under Chapter Thirteen and incorporated system implementation duties when any of the following is material:
 
 - **General triggers:**
   - a material change in the system, its use, or its operating context;

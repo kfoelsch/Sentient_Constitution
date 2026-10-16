@@ -130,7 +130,7 @@ An instrument lodged at the wrong registrar is forwarded and keeps its lodging d
 
 **What a registrar does:**
 - It receives a System Charter or Institutional Charter with its Charter Role Map and formation check statement, and records the version and the date of lodging. Anyone may lodge, including a Class P Operating Party that chooses to publish.
-- It checks completeness only, against the minimum in [Chapter Seven §3 What System and Institutional Charters Must State](../core_07_charters.md#3-what-system-and-institutional-charters-must-state): each required item is present, each pointer resolves, and the one lodging is the governing authority or acts for it.
+- It checks completeness only, against the minimum in [Chapter Seven §3 What System and Institutional Charters Must State](../core_07_charters.md#3-what-system-and-institutional-charters-must-state): each required item is present, each [Charter Pointer](../core_05_band_continuity.md#charter-pointer) resolves, and the one lodging is the governing authority or acts for it.
 - It gives a dated receipt that says the lodging is complete or lists what is missing.
 - It keeps a public register of lodged instruments, their versions, amendments, and review dates, and the two kinds of registrar share one register format.
 - It receives a request under [Chapter Seven §1.5 If a System Charter or Institutional Charter is missing](../core_07_charters.md#15-if-a-system-charter-or-institutional-charter-is-missing) and an insider's report of a crossing under [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), and passes either to the intake triage body for routing under **CF-5.2** (*Intake triage body*) without judging it.
@@ -161,7 +161,7 @@ This subsection implements, and must not narrow, [Chapter Thirteen §4.5 Integri
 
 **Where the Integrity registrar sits:** It is an administrative arm of the **Integrity** forum family's intake triage body (**CF-5.2** (*Intake triage body*)), or a functionally equivalent arrangement, with the same independence and contest expectations. A result lodged with another forum family's registrar is forwarded and keeps its lodging date.
 
-**What the Integrity registrar receives:** Results of a financial audit or a resource audit that an adopting instrument, a certification, a forum order, an external assurance trigger under **CI-7.2** (*External assurance triggers*), or the audited party's own published controls under **CI-7.1** (*Controls declaration*) call for. This subsection adds no duty to audit. It says where a result goes.
+**What the Integrity registrar receives:** Results of a financial audit or a resource audit that the review cadence in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), an adopting instrument, a certification, a forum order, an external assurance trigger under **CI-7.2** (*External assurance triggers*), or the audited party's own published controls under **CI-7.1** (*Controls declaration*) call for. This subsection adds no duty to audit: the duty and its timing are in that review cadence. It says where a result goes.
 - A **financial audit** covers funds held, income and spending, reserves, fees and charges, and compensation and reward arrangements.
 - A **resource audit** covers the allocation and stewardship of shared or scarce resources, including the funding stewardship matters in **CS-9** (*Resource allocation and funding stewardship*).
 
