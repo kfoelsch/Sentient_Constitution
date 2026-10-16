@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.14` · effective **2026-10-14**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **712** of **1045** headings carry a gloss (68%).
+Coverage: **713** of **1046** headings carry a gloss (68%).
 
 ## Contents
 
@@ -25,7 +25,7 @@ Coverage: **712** of **1045** headings carry a gloss (68%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (80/92 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (38/99 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (39/100 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
@@ -1778,7 +1778,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 38/99 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 39/100 headings glossed
 
 #### Continuity: Independent terms
 
@@ -2157,6 +2157,12 @@ a **Constitutional Charter** is the founding document by which a political commu
 a **Charter Role Map** is the published list, kept with a System Charter or Institutional Charter, of who may hold which seat in the work it covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker.
 
 [Source](../../core_05_band_continuity.md#charter-role-map)
+
+##### Charter Pointer
+
+a **Charter Pointer** is the reference a System Charter or Institutional Charter uses to name another published instrument or provision instead of copying it. It has to lead a reader to the current published version. One that leads nowhere, or to an old version, counts as a missing item.
+
+[Source](../../core_05_band_continuity.md#charter-pointer)
 
 ##### Chartered Party
 
@@ -3242,7 +3248,7 @@ you do not need anyone's permission to form a system, institution, or business. 
 
 #### 3. What System and Institutional Charters Must State
 
-a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, how often it is re-checked, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.
+a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.
 
 [Source](../../core_07_charters.md#3-what-system-and-institutional-charters-must-state)
 
@@ -4780,7 +4786,7 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 
 #### 6. Timely resolution, materiality tiers, and anti-delay discipline
 
-forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, a few weeks for ordinary material harm, and a few months at most for coordination-default or bounded matters — not warehouse cases while harm compounds. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
+forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, two weeks for ordinary material harm, and one to three months at most for coordination-default, bounded, or contained matters — not warehouse cases while harm compounds. The same scale paces the checks on certified systems and Institutions: a full check every 13 times the tier's clock, with an audit halfway between. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
 
 [Source](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)
 

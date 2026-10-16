@@ -239,7 +239,14 @@ Neither stops an Operating Party from forming, publishing its System Charter or 
 
 Forums decide these cases under that Article. A failed formation check is evidence in that decision, not the answer.
 
-**The third limit: a practice licence or practice clearance.** This one is not a gate on an Operating Party, and the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) does not apply it. It is a [Competency Clearance](core_05_band_accountability.md#competency-clearance) that **Article XI-E** (*Institutional Formation and Business Creation*) lets an adopter require before a named act is performed for others, on a technical forum's published risk finding. A licence is for serious or irreversible harm and a clearance is for real but lesser harm. It attaches to performing the act. It never stops an Operating Party from forming, publishing its System Charter or Institutional Charter, or operating. What it does stop is claiming or performing the act without it: a System Charter or Institutional Charter may not claim the act unless a holder performs it ([§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state)).
+**The third limit, a practice licence or practice clearance:**
+
+- **Not a gate on an Operating Party:** the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) does not apply it.
+- **What it is:** a [Competency Clearance](core_05_band_accountability.md#competency-clearance) that **Article XI-E** (*Institutional Formation and Business Creation*) lets an adopter require before a named act is performed for others, on a technical forum's published risk finding.
+  - **Practice licence:** required for acts that risk serious or irreversible harm if done badly.
+  - **Practice clearance:** required for acts that risk real but lesser harm if done badly.
+- **What it attaches to:** performing the act. It never stops an Operating Party from forming, publishing its System Charter or Institutional Charter, or operating.
+- **What it does stop:** claiming or performing the act without it. A System Charter or Institutional Charter may not claim the act unless a holder performs it ([§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state)).
 
 <a id="3-what-system-and-institutional-charters-must-state"></a>
 ### 3. What System and Institutional Charters Must State
@@ -249,7 +256,7 @@ Forums decide these cases under that Article. A failed formation check is eviden
 
 - Upstream: [§1](#1-when-system-and-institutional-charters-are-required); [Chapter Five System Charter](core_05_band_continuity.md#system-charter); [Chapter Five Institutional Charter](core_05_band_continuity.md#institutional-charter).
 - Downstream: [§4](#4-the-charter-role-map-and-standing-record-custody); [§7](#7-amendment-review-and-scope-misalignment); [Chapter Nine Part B §8.1 Minimum record contents](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*the System Charter fields a certification record relies on*); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) for the full field list.
-- Read with: [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice); **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*); **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*).
+- Read with: [Chapter Eighteen §4 Adoption framing and scope of authority](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*a scope instrument kept under another name*); [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice); **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*); **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*).
 
 </details>
 
@@ -264,7 +271,7 @@ Forums decide these cases under that Article. A failed formation check is eviden
 
 <br>
 
-*In plain terms: a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, how often it is re-checked, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.*
+*In plain terms: a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.*
 
 A System Charter states, in plain language that affected sentients and auditors can read:
 
@@ -273,24 +280,26 @@ A System Charter states, in plain language that affected sentients and auditors 
 3. **In-scope activities:** the functions, services, authorities, and domains it claims.
 4. **Out-of-scope limits:** the material activities, authorities, and domains it is not authorized to exercise.
 5. **Affected communities and dependencies:** who relies on the Chartered Party, and which systems or infrastructure it depends on or gates, where material.
-6. **Classification assumptions:** the class or stewardship tier relied on, with a pointer to **CS-3** (*System classification machinery*) and **CS-4** (*Critical system stewardship*) where they apply.
-7. **Amendment authority:** who may amend, what counts as a material amendment, and the notice and contest path.
-8. **Periodic-review cadence:** the next review date or interval, scaled to class, dependency, and risk.
-9. **Charter Role Map:** the [Charter Role Map](core_05_band_continuity.md#charter-role-map), or a live pointer to the published instrument that is the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
-10. **Binding stakeholder-choice pointers:** where [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, live pointers to the published decision-sequence, weighting, and rights-collision-record rules. The System Charter points. Those rules carry the substance.
+6. **Classification assumptions:** the class or stewardship tier relied on, with a [Charter Pointer](core_05_band_continuity.md#charter-pointer) to **CS-3** (*System classification machinery*) and **CS-4** (*Critical system stewardship*) where they apply.
+7. **Charter Role Map:** the [Charter Role Map](core_05_band_continuity.md#charter-role-map), or a Charter Pointer to the published instrument that is the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
+8. **Binding stakeholder-choice Charter Pointers:**
+   - **When it applies:** where [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies.
+   - **What it points to:** live Charter Pointers to the published decision-sequence, weighting, and rights-collision-record rules.
+   - **Who carries what:** the System Charter points. Those rules carry the substance.
+9. **Amendment authority:** who may amend, what counts as a material amendment, and the notice and contest path.
 
-**What an Institutional Charter adds.** An Institutional Charter states items 1 to 10 for the Institution itself, and also holds:
+**Charter Pointers.** A System Charter or Institutional Charter may point to another published instrument or provision (a rule set, the Charter Role Map, a System Charter) instead of copying it. Each such reference is a [Charter Pointer](core_05_band_continuity.md#charter-pointer). It must resolve to a live, current, published instrument. A dead or stale Charter Pointer counts as a missing item.
 
-- **The System Charters:** Every System Charter in force for the Systems the Institution operates, stewards, or materially controls, included in full or by a pointer that resolves to the current published version.
+**What an Institutional Charter adds.** An Institutional Charter states items 1 to 9 for the Institution itself, and also holds:
+
+- **The System Charters:** Every System Charter in force for the Systems the Institution operates, stewards, or materially controls, included in full or by a Charter Pointer that resolves to the current published version.
 - **The portfolio rationale:** Why the Institution runs those particular Systems, how they serve its stated purpose and relate to one another, and which dependencies they share. A System with no stated reason is a missing item.
 
-A pointer must resolve to a live, current, published instrument. A dead or stale pointer counts as a missing item. **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) may require more and sets the formation template, but it may not drop an item above.
+**CI-3.6** (*System and Institutional Charter contents, review, and formation template*) may require more and sets the formation template, but it may not drop an item above.
 
 **Acts that need a practice licence or practice clearance.** A System Charter or Institutional Charter may not claim, as an in-scope activity, an act for which a practice licence or practice clearance is required, and the Chartered Party may not exercise that act, unless each sentient who performs it holds the licence or clearance or acts as a learner under a supervisor who does. Until then the act is listed under item 4 as out of scope. Claiming it without a holder is a missing item to log and fix, and it does not stop the Chartered Party from forming, publishing, or carrying on its other work. [§2 The Right to Form, and Three Narrow Limits](#2-the-right-to-form-and-three-narrow-limits) says where the requirement comes from, and **CI-4.7** (*Practice licence, practice clearance, and joint professional practice*) holds the entries and the host check.
 
-**Equivalent instrument.** A published scope instrument under another name satisfies [§1.1 Who must publish](#11-who-must-publish) only if it states the minimum above and is identified as the Chartered Party's System Charter or Institutional Charter, with the reasons recorded. Marketing copy, a mission slogan, or a terms-of-service page that is not offered as the scope instrument does not.
-
-**Scaling.** The depth of the System Charter or Institutional Charter, the review cadence, and the independence of the review scale with class and [material stake](core_00_preamble.md#material-stake). A Class L one may be short and use simplified records where [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) allows. It may not omit a required item.
+**Scaling.** The depth of the System Charter or Institutional Charter, the review cadence, and the independence of the review scale with class and [material stake](core_00_preamble.md#material-stake). A Class L one may be short and use simplified records where [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) allows. It may not omit a required item. A System Charter or Institutional Charter does not declare its own review cadence: the class sets it.
 
 <a id="4-the-charter-role-map-and-standing-record-custody"></a>
 ### 4. The Charter Role Map and Standing-Record Custody
@@ -319,7 +328,7 @@ A pointer must resolve to a live, current, published instrument. A dead or stale
 
 A System Charter or Institutional Charter carries the [Charter Role Map](core_05_band_continuity.md#charter-role-map) that [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) requires of every adopter that takes materially binding acts.
 
-- **What the document owes:** The System Charter or Institutional Charter holds the map or a live pointer to it, so that a reader who starts there can find who holds each seat. A missing, dead, or stale map is a defect of that instrument.
+- **What the document owes:** The System Charter or Institutional Charter holds the map or a Charter Pointer to it, so that a reader who starts there can find who holds each seat. A missing, dead, or stale map is a defect of that instrument.
 - **Class P:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the published map of an adopter of Class L or higher that takes materially binding acts. A Class P Operating Party's acts stay inside its private unit, so it is not required to publish one. If it chooses to, it keeps the map with a voluntary System Charter or Institutional Charter or publishes it on its own, and the map does not make one required.
 - **What Chapter Eight owns:** The four seats of every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) (initiating, verify-or-authorize, record, and contest), the independence conditions, the control-line rules, wrong-seat routing, merged hosting, and the substitute and independent-route requirements are fixed in Chapter Eight. The map records placements. It does not set the rules for a valid one.
 - **Two layers of change:** Which offices are eligible to hold a seat, serve as a substitute, or share hosting changes only under the amendment authority the System Charter or Institutional Charter names ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)). Who currently holds a seat changes by dated version, without an amendment of that instrument. An act is judged against the map in force when it was taken.
@@ -390,7 +399,7 @@ This section decides only what evidence the check may use, under the principle i
 **The formation check statement.** Before a System or Institution begins to exercise authority over others, and with its System Charter or Institutional Charter, the governing authority publishes a statement that:
 
 - names each covered office;
-- gives, for each, the result of the standing limb and of each of the four parts of the authenticity limb, with a pointer to the evidence;
+- gives, for each, the result of the standing limb and of each of the four parts of the authenticity limb, and cites the evidence;
 - discloses the interests and control relationships found;
 - gives the findings of the structural limb for other staff; and
 - names who verified what.
@@ -475,7 +484,7 @@ A System Charter or Institutional Charter changes, and is kept true to practice,
 
 - **Amendment:** A material amendment is made only by the amendment authority the System Charter or Institutional Charter names, on notice, with a contest path, and with the authority and date recorded. Material amendment is not delegable below that authority.
 - **No silent expansion:** Operating materially outside chartered scope, or widening scope by practice, delegation, or reinterpretation without amendment, is a failure of the System Charter or Institutional Charter. Offering the instrument as current authorization for operation outside it is the primary failure.
-- **Periodic review:** The Chartered Party reviews its System Charter or Institutional Charter on the published cadence, and sooner after a material incident, dependency growth, class change, credible challenge, or observed operation outside stated scope. The review tests whether purpose and limits still match observed operation and [System Boundaries](core_05_band_continuity.md#system-boundaries), whether classification assumptions are honest, whether the amendment and contest paths work in practice, whether every pointer still resolves, and whether the Charter Role Map still resolves to live offices and current holders. A review of an Institutional Charter also tests whether the portfolio rationale still explains every System the Institution runs and whether every included System Charter is current. Where [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) applies, the review also tests whether the formation check statement still matches the holders of the covered offices and the controls, rewards, and protected routes it describes.
+- **Periodic review:** The Chartered Party reviews its System Charter or Institutional Charter on the cadence its class sets in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#review-cadence) (*Review cadence*), and sooner after a material incident, dependency growth, class change, credible challenge, or observed operation outside stated scope. The review tests whether purpose and limits still match observed operation and [System Boundaries](core_05_band_continuity.md#system-boundaries), whether classification assumptions are honest, whether the amendment and contest paths work in practice, whether every Charter Pointer still resolves, and whether the Charter Role Map still resolves to live offices and current holders. A review of an Institutional Charter also tests whether the portfolio rationale still explains every System the Institution runs and whether every included System Charter is current. Where [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) applies, the review also tests whether the formation check statement still matches the holders of the covered offices and the controls, rewards, and protected routes it describes.
 - **Portfolio change:** Adding, retiring, or merging a System is a material amendment of the Institutional Charter. The System Charter of a new System is published before it goes live ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)), and the portfolio rationale is amended in the same step. An Institution that grows from one System to more than one publishes its Institutional Charter at that point.
 - **Mismatch:** A material mismatch between the System Charter or Institutional Charter and behavior is corrected by amendment, remediation, recertification, or scope contraction. It is not corrected by quiet expansion or by leaving the paper unchanged. It reopens the certification it bears on ([Chapter Nine Part B §9 Recertification and Reopening](core_09_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) for a System, and [Chapter Nine Part D §14.2 Reopening triggers](core_09_d_institutional_alignment_certification.md#142-reopening-triggers) for an Institution).
 - **Versions:** Each version is dated and kept, so that an act, a certification, or a record can be judged against the version in force when it happened.

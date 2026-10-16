@@ -69,7 +69,7 @@ The steward signed off the drafted defaults on 2026-10-13; the item is archived 
 The steward signed off the drafted wording on 2026-10-13. These questions were noted in the entries archived from MEMLOG and have not been decided.
 
 - [ ] **Charter Role Map: who hosts the record seat** when the operator is the only adopter in the chain.
-- [ ] **Charter definitions and standing-record custody:** whether the Chapter Five Charter definitions (System Charter and Institutional Charter) should absorb standing-record field 11 (CI-3.6).
+- [ ] **Charter definitions and standing-record custody:** whether the Chapter Five Charter definitions (System Charter and Institutional Charter) should absorb standing-record field 10 (CI-3.6).
 - [ ] **Cause of misalignment (Chapter Nine Part B §7.2):** whether a design-cause finding should stop the clean-recertification count restarting until the redesign is verified. The contest and challenge naming question is also open, so the cause-finding text avoids both words.
 
 ### 2026-10-04 — Process-level granularity: Option A drafted, Option B outlined

@@ -104,7 +104,7 @@ Apply **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) *
 - published **decision-path** material explaining whether input is advisory, binding, or otherwise relied on for governance effect; and
 - the escalation route when notice, participation, or reconstruction duties fail — including **CI-12** (*Cross-institution coordination and escalation*) where local review is conflicted or unavailable.
 
-Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Institutional Charter](../core_05_band_continuity.md#institutional-charter) must point to these materials under **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10. The Institutional Charter points; this file and related Def.P2-compliant rules carry the substance.
+Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Institutional Charter](../core_05_band_continuity.md#institutional-charter) must point to these materials under **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 9. The Institutional Charter points; this file and related Def.P2-compliant rules carry the substance.
 
 **What the local participation-window file must name**
 
@@ -136,7 +136,7 @@ Apply **CJS-3.11** (*Accountability: distributed and proportional authority term
 - a **remediation trigger** and response path when thresholds are crossed or credibly approached; and
 - the **CI-12** (*Cross-institution coordination and escalation*) escalation route when local remediation stalls, is captured, or cannot act independently.
 
-Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Institutional Charter](../core_05_band_continuity.md#institutional-charter) must point to the weighting publication file under **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10. The Institutional Charter points; this file carries the weighting substance under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Institutional Charter](../core_05_band_continuity.md#institutional-charter) must point to the weighting publication file under **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 9. The Institutional Charter points; this file carries the weighting substance under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
 
 **What the local weighting publication file must name**
 
