@@ -92,7 +92,8 @@ Reusable disclosure templates are in `implementation/SYSTEMS_IMPLEMENTATION_TEMP
 Apply **CJS-3.6** (*integrity assurance and resilience operations*) for the shared external-assurance trigger floor. **CI-7.2** (*External assurance triggers*) keeps only:
 
 - published trigger criteria (what forces outside review); and
-- **CI-12** (*Cross-institution coordination and escalation*) escalation duties when the institution cannot credibly commission that review itself.
+- **CI-12** (*Cross-institution coordination and escalation*) escalation duties when the institution cannot credibly commission that review itself; and
+- lodging the result of a financial or resource audit with the Integrity registrar under **CF-5.6** (*Integrity registrar*).
 
 ## CI-7.3: Contest-integrity monitoring (Class A and Class B)
 <details>

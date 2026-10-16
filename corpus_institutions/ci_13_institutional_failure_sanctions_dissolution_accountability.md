@@ -78,7 +78,7 @@ Where verified realignment resistance satisfies **Chapter Twelve** criteria, inc
 
 - Read with:
   - **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*), *Realignment resistance and dissolution-review trigger floor*.
-  - [Chapter Seven §7 When a Holder Fails the Check](../core_07_charters.md#7-when-a-holder-fails-the-check) and [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution).
+  - [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check) and [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution).
   - **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
@@ -94,7 +94,7 @@ The lead Integrity forum opens a consequence matter against a Chartered Party wh
 1. **Realignment resistance** under **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*): obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround that persists after a reasonable chance to cure.
 2. **Chronic misalignment:** an alignment ruling, withdrawn recognition, a denial or revocation under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), or sustained material misalignment under **Chapter Thirteen**, left uncured inside the cure window.
 3. **Repeated verified anti-constitutional misconduct** attributable to the Chartered Party, or a final **Chapter Twelve** designation that implicates the Chartered Party.
-4. **A referral** under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), including a failed formation check not cured inside the clock in [Chapter Seven §7 When a Holder Fails the Check](../core_07_charters.md#7-when-a-holder-fails-the-check).
+4. **A referral** under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), including a failed formation check not cured inside the clock in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check).
 5. **A forum performance trigger** under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*). A forum whose dissolution or disbandment threshold under **CF-11.4** (*Performance thresholds and alerts*) is crossed follows that threshold: ordinary forum authority is suspended at once and the wind-down proceeds. The continuity, remedy, records, and accounting requirements of **CI-13.7** (*Dissolution*) apply to that wind-down, and the cure window does not.
 6. **Operating at Class L or higher in a way that harms or endangers others:** a correction, System Charter, Institutional Charter, or certification duty refused after notice and the cure window. The refusal alone is a defect and supports only rung 1. It supports a higher rung only together with a risk finding under **CI-13.2** (*Findings before any order*) item 2.
 
@@ -122,7 +122,7 @@ Before ordering any rung of the ladder, the lead forum records, with reasons:
 The Chartered Party is told what is wrong, answers, and gets a bounded window to cure, on these terms:
 
 1. **Notice** states the ground, the risk finding, the proposed rung, the evidence relied on, the route to respond, and what a cure would look like.
-2. **Response:** the Chartered Party has 7 days to answer, contest the facts, or propose a cure plan. This matches the clock in [Chapter Seven §7 When a Holder Fails the Check](../core_07_charters.md#7-when-a-holder-fails-the-check).
+2. **Response:** the Chartered Party has 7 days to answer, contest the facts, or propose a cure plan. This matches the clock in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check).
 3. **Cure window:** 30 days from notice, with one extension of up to 30 days only on a showing of good-faith progress and no continuing harm. A sentient outside the Chartered Party's control line verifies the cure.
 4. **No credit for stalling:** time spent in obstruction extends no clock. A pattern of late, partial, or cosmetic responses is itself a fact under **CI-13.1** (*Opening a consequence matter*) item 1.
 5. **Cure ends the matter:** a verified cure lifts the rung. The record stays open for a 12-month watch period only to see whether the cure holds. The watch is not a penalty.

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-15T22:28:58+00:00",
+  "generated_at": "2026-10-16T14:18:28+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -508,9 +508,9 @@
       ]
     },
     "core_05_band_oversight.md": {
-      "total_lines": 1813,
+      "total_lines": 1824,
       "sections": [
-        {"header":"Oversight Constitutional Definitions","level":1,"line_start":1,"line_end":1813,"anchor":null},
+        {"header":"Oversight Constitutional Definitions","level":1,"line_start":1,"line_end":1824,"anchor":null},
         {"header":"Oversight: Independent terms","level":3,"line_start":33,"line_end":335,"anchor":"#oversight-independent-terms"},
         {"header":"Adversarial, Scaled, and Exploited Conditions","level":4,"line_start":37,"line_end":77,"anchor":null},
         {"header":"Capability Requirement","level":4,"line_start":78,"line_end":110,"anchor":"#capability-requirement"},
@@ -519,38 +519,38 @@
         {"header":"Gate Criteria","level":4,"line_start":194,"line_end":244,"anchor":"#gate-criteria"},
         {"header":"Heightened Scrutiny","level":4,"line_start":245,"line_end":296,"anchor":"#heightened-scrutiny"},
         {"header":"Press and Journalistic Activity","level":4,"line_start":297,"line_end":335,"anchor":"#press-and-journalistic-activity-constitutional"},
-        {"header":"Oversight: Semi-independent terms","level":3,"line_start":336,"line_end":925,"anchor":"#press-and-journalistic-activity-constitutional-c"},
+        {"header":"Oversight: Semi-independent terms","level":3,"line_start":336,"line_end":936,"anchor":"#press-and-journalistic-activity-constitutional-c"},
         {"header":"Materiality, impact, risk, and proxy integrity","level":4,"line_start":340,"line_end":372,"anchor":null},
         {"header":"Material","level":4,"line_start":373,"line_end":406,"anchor":"#material"},
         {"header":"Materiality","level":4,"line_start":407,"line_end":478,"anchor":"#materiality-determination"},
-        {"header":"Domain-Specific Materiality","level":4,"line_start":479,"line_end":598,"anchor":"#domain-specific-materiality"},
-        {"header":"Operating Party","level":4,"line_start":599,"line_end":646,"anchor":"#operating-party"},
-        {"header":"Materiality Integrity Constraint","level":4,"line_start":647,"line_end":683,"anchor":"#materiality-integrity-constraint"},
-        {"header":"Material Impact","level":4,"line_start":684,"line_end":731,"anchor":"#material-impact"},
-        {"header":"Material Risk","level":4,"line_start":732,"line_end":777,"anchor":"#material-risk"},
-        {"header":"Materiality Under Uncertainty","level":4,"line_start":778,"line_end":817,"anchor":"#materiality-under-uncertainty"},
-        {"header":"Proxy Divergence","level":4,"line_start":818,"line_end":888,"anchor":"#proxy-divergence"},
-        {"header":"Material Degradation","level":4,"line_start":889,"line_end":925,"anchor":"#material-degradation"},
-        {"header":"Oversight: Dependent clusters","level":3,"line_start":926,"line_end":1813,"anchor":"#movement-refuge-semi-independent"},
-        {"header":"Def.O1 Transparency, Auditability, and Verification","level":4,"line_start":931,"line_end":1441,"anchor":"#transparency-auditability-and-verification-cluster"},
-        {"header":"Transparency","level":5,"line_start":988,"line_end":1047,"anchor":"#transparency"},
-        {"header":"Public Oversight Baseline Disclosure","level":5,"line_start":1048,"line_end":1127,"anchor":"#public-oversight-baseline-disclosure"},
-        {"header":"Risk Disclosure","level":5,"line_start":1128,"line_end":1170,"anchor":"#risk-disclosure"},
-        {"header":"Auditability","level":5,"line_start":1171,"line_end":1252,"anchor":"#auditability"},
-        {"header":"Evidence Preservation","level":5,"line_start":1253,"line_end":1302,"anchor":"#evidence-preservation"},
-        {"header":"Evaluation Completeness Constraint","level":5,"line_start":1303,"line_end":1365,"anchor":"#evaluation-completeness-constraint"},
-        {"header":"Verifiability","level":5,"line_start":1366,"line_end":1441,"anchor":"#verifiability"},
-        {"header":"Def.O2 Truth and Epistemic Integrity","level":4,"line_start":1442,"line_end":1813,"anchor":"#truth-and-epistemic-integrity-cluster"},
-        {"header":"Publication and High-Impact Communication","level":5,"line_start":1487,"line_end":1499,"anchor":"#publication-and-high-impact-communication"},
-        {"header":"Publication Truthfulness and Recklessness Floor","level":5,"line_start":1500,"line_end":1529,"anchor":"#publication-truthfulness-and-recklessness-floor"},
-        {"header":"Protected Data and Internal-State Publication Constraint","level":5,"line_start":1530,"line_end":1547,"anchor":"#protected-data-and-internal-state-publication-constraint"},
-        {"header":"High-Impact and Systemic Harm Publication Constraint","level":5,"line_start":1548,"line_end":1576,"anchor":"#high-impact-and-systemic-harm-publication-constraint"},
-        {"header":"Security-Sensitive Disclosure Balance","level":5,"line_start":1577,"line_end":1605,"anchor":"#security-sensitive-disclosure-balance"},
-        {"header":"Truth (Constitutional Constraint)","level":5,"line_start":1606,"line_end":1645,"anchor":"#truth-constitutional-constraint"},
-        {"header":"Epistemic Integrity","level":5,"line_start":1646,"line_end":1690,"anchor":"#epistemic-integrity"},
-        {"header":"Foreseeability and Reasonably Foreseeable","level":5,"line_start":1691,"line_end":1731,"anchor":"#foreseeability-diligence-and-reasonably-foreseeable"},
-        {"header":"Foreseeability","level":5,"line_start":1732,"line_end":1792,"anchor":"#foreseeability-diligence"},
-        {"header":"Reasonably Foreseeable","level":5,"line_start":1793,"line_end":1813,"anchor":"#reasonably-foreseeable"}
+        {"header":"Domain-Specific Materiality","level":4,"line_start":479,"line_end":609,"anchor":"#domain-specific-materiality"},
+        {"header":"Operating Party","level":4,"line_start":610,"line_end":657,"anchor":"#operating-party"},
+        {"header":"Materiality Integrity Constraint","level":4,"line_start":658,"line_end":694,"anchor":"#materiality-integrity-constraint"},
+        {"header":"Material Impact","level":4,"line_start":695,"line_end":742,"anchor":"#material-impact"},
+        {"header":"Material Risk","level":4,"line_start":743,"line_end":788,"anchor":"#material-risk"},
+        {"header":"Materiality Under Uncertainty","level":4,"line_start":789,"line_end":828,"anchor":"#materiality-under-uncertainty"},
+        {"header":"Proxy Divergence","level":4,"line_start":829,"line_end":899,"anchor":"#proxy-divergence"},
+        {"header":"Material Degradation","level":4,"line_start":900,"line_end":936,"anchor":"#material-degradation"},
+        {"header":"Oversight: Dependent clusters","level":3,"line_start":937,"line_end":1824,"anchor":"#movement-refuge-semi-independent"},
+        {"header":"Def.O1 Transparency, Auditability, and Verification","level":4,"line_start":942,"line_end":1452,"anchor":"#transparency-auditability-and-verification-cluster"},
+        {"header":"Transparency","level":5,"line_start":999,"line_end":1058,"anchor":"#transparency"},
+        {"header":"Public Oversight Baseline Disclosure","level":5,"line_start":1059,"line_end":1138,"anchor":"#public-oversight-baseline-disclosure"},
+        {"header":"Risk Disclosure","level":5,"line_start":1139,"line_end":1181,"anchor":"#risk-disclosure"},
+        {"header":"Auditability","level":5,"line_start":1182,"line_end":1263,"anchor":"#auditability"},
+        {"header":"Evidence Preservation","level":5,"line_start":1264,"line_end":1313,"anchor":"#evidence-preservation"},
+        {"header":"Evaluation Completeness Constraint","level":5,"line_start":1314,"line_end":1376,"anchor":"#evaluation-completeness-constraint"},
+        {"header":"Verifiability","level":5,"line_start":1377,"line_end":1452,"anchor":"#verifiability"},
+        {"header":"Def.O2 Truth and Epistemic Integrity","level":4,"line_start":1453,"line_end":1824,"anchor":"#truth-and-epistemic-integrity-cluster"},
+        {"header":"Publication and High-Impact Communication","level":5,"line_start":1498,"line_end":1510,"anchor":"#publication-and-high-impact-communication"},
+        {"header":"Publication Truthfulness and Recklessness Floor","level":5,"line_start":1511,"line_end":1540,"anchor":"#publication-truthfulness-and-recklessness-floor"},
+        {"header":"Protected Data and Internal-State Publication Constraint","level":5,"line_start":1541,"line_end":1558,"anchor":"#protected-data-and-internal-state-publication-constraint"},
+        {"header":"High-Impact and Systemic Harm Publication Constraint","level":5,"line_start":1559,"line_end":1587,"anchor":"#high-impact-and-systemic-harm-publication-constraint"},
+        {"header":"Security-Sensitive Disclosure Balance","level":5,"line_start":1588,"line_end":1616,"anchor":"#security-sensitive-disclosure-balance"},
+        {"header":"Truth (Constitutional Constraint)","level":5,"line_start":1617,"line_end":1656,"anchor":"#truth-constitutional-constraint"},
+        {"header":"Epistemic Integrity","level":5,"line_start":1657,"line_end":1701,"anchor":"#epistemic-integrity"},
+        {"header":"Foreseeability and Reasonably Foreseeable","level":5,"line_start":1702,"line_end":1742,"anchor":"#foreseeability-diligence-and-reasonably-foreseeable"},
+        {"header":"Foreseeability","level":5,"line_start":1743,"line_end":1803,"anchor":"#foreseeability-diligence"},
+        {"header":"Reasonably Foreseeable","level":5,"line_start":1804,"line_end":1824,"anchor":"#reasonably-foreseeable"}
       ]
     },
     "core_05_band_participation.md": {
@@ -634,19 +634,24 @@
       ]
     },
     "core_07_charters.md": {
-      "total_lines": 488,
+      "total_lines": 542,
       "sections": [
-        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":488,"anchor":"#chapter-seven-system-and-institutional-charters"},
-        {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":41,"line_end":124,"anchor":"#1-purpose-scope-and-owner-boundary"},
-        {"header":"2. No Licence, and Two Narrow Limits","level":3,"line_start":125,"line_end":151,"anchor":"#2-no-licence-and-two-narrow-limits"},
-        {"header":"3. When System and Institutional Charters Are Required","level":3,"line_start":152,"line_end":196,"anchor":"#3-when-system-and-institutional-charters-are-required"},
-        {"header":"4. What System and Institutional Charters Must State","level":3,"line_start":197,"line_end":241,"anchor":"#4-what-system-and-institutional-charters-must-state"},
-        {"header":"5. The Charter Role Map and Standing-Record Custody","level":3,"line_start":242,"line_end":278,"anchor":"#5-the-charter-role-map-and-standing-record-custody"},
-        {"header":"6. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":279,"line_end":360,"anchor":"#6-formation-check-office-holder-standing-and-authenticity"},
-        {"header":"7. When a Holder Fails the Check","level":3,"line_start":361,"line_end":395,"anchor":"#7-when-a-holder-fails-the-check"},
-        {"header":"8. Amendment, Review, and Scope Misalignment","level":3,"line_start":396,"line_end":429,"anchor":"#8-amendment-review-and-scope-misalignment"},
-        {"header":"9. What System and Institutional Charters Cannot Do","level":3,"line_start":430,"line_end":454,"anchor":"#9-what-system-and-institutional-charters-cannot-do"},
-        {"header":"10. Relationship to Other Chapters","level":3,"line_start":455,"line_end":488,"anchor":"#10-relationship-to-other-chapters"}
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":542,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"1. When System and Institutional Charters Are Required","level":3,"line_start":41,"line_end":208,"anchor":"#1-when-system-and-institutional-charters-are-required"},
+        {"header":"1.1 Who must publish","level":4,"line_start":78,"line_end":94,"anchor":"#11-who-must-publish"},
+        {"header":"1.2 Which classes are covered","level":4,"line_start":95,"line_end":103,"anchor":"#12-which-classes-are-covered"},
+        {"header":"1.3 Class P: a choice","level":4,"line_start":104,"line_end":126,"anchor":"#13-class-p-a-choice"},
+        {"header":"1.4 When it is due","level":4,"line_start":127,"line_end":140,"anchor":"#14-when-it-is-due"},
+        {"header":"1.5 If a System Charter or Institutional Charter is missing","level":4,"line_start":141,"line_end":160,"anchor":"#15-if-a-system-charter-or-institutional-charter-is-missing"},
+        {"header":"1.6 The process at a glance","level":4,"line_start":161,"line_end":208,"anchor":"#16-the-process-at-a-glance"},
+        {"header":"2. The Right to Form, and Three Narrow Limits","level":3,"line_start":209,"line_end":244,"anchor":"#2-the-right-to-form-and-three-narrow-limits"},
+        {"header":"3. What System and Institutional Charters Must State","level":3,"line_start":245,"line_end":295,"anchor":"#3-what-system-and-institutional-charters-must-state"},
+        {"header":"4. The Charter Role Map and Standing-Record Custody","level":3,"line_start":296,"line_end":332,"anchor":"#4-the-charter-role-map-and-standing-record-custody"},
+        {"header":"5. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":333,"line_end":414,"anchor":"#5-formation-check-office-holder-standing-and-authenticity"},
+        {"header":"6. When a Holder Fails the Check","level":3,"line_start":415,"line_end":449,"anchor":"#6-when-a-holder-fails-the-check"},
+        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":450,"line_end":483,"anchor":"#7-amendment-review-and-scope-misalignment"},
+        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":484,"line_end":508,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
+        {"header":"9. Relationship to Other Chapters","level":3,"line_start":509,"line_end":542,"anchor":"#9-relationship-to-other-chapters"}
       ]
     },
     "core_08_functional_independence_segregation_of_duties.md": {
@@ -780,7 +785,7 @@
         {"header":"11. Purpose, Relation to System Alignment Certification, and Scope","level":3,"line_start":39,"line_end":89,"anchor":"#11-purpose-relation-to-system-alignment-certification-and-scope"},
         {"header":"11.1 Relation to System Alignment Certification","level":4,"line_start":56,"line_end":67,"anchor":"#111-relation-to-system-alignment-certification"},
         {"header":"11.2 Who is certified","level":4,"line_start":68,"line_end":79,"anchor":"#112-who-is-certified"},
-        {"header":"11.3 No licence and no gate","level":4,"line_start":80,"line_end":89,"anchor":"#113-no-licence-and-no-gate"},
+        {"header":"11.3 No permission and no gate","level":4,"line_start":80,"line_end":89,"anchor":"#113-no-permission-and-no-gate"},
         {"header":"12. Institution Class and Institutional Evaluation","level":3,"line_start":90,"line_end":158,"anchor":"#12-institution-class-and-institutional-evaluation"},
         {"header":"12.1 Institution class","level":4,"line_start":109,"line_end":126,"anchor":"#121-institution-class"},
         {"header":"12.2 Institutional evaluation, always","level":4,"line_start":127,"line_end":140,"anchor":"#122-institutional-evaluation-always"},
@@ -1827,12 +1832,12 @@
       ]
     },
     "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md": {
-      "total_lines": 135,
+      "total_lines": 136,
       "sections": [
-        {"header":"CI-7: Oversight, assurance, controls, and evidence","level":1,"line_start":1,"line_end":135,"anchor":null},
+        {"header":"CI-7: Oversight, assurance, controls, and evidence","level":1,"line_start":1,"line_end":136,"anchor":null},
         {"header":"CI-7.1: Controls declaration","level":2,"line_start":56,"line_end":79,"anchor":null},
-        {"header":"CI-7.2: External assurance triggers","level":2,"line_start":80,"line_end":96,"anchor":null},
-        {"header":"CI-7.3: Contest-integrity monitoring (Class A and Class B)","level":2,"line_start":97,"line_end":135,"anchor":null}
+        {"header":"CI-7.2: External assurance triggers","level":2,"line_start":80,"line_end":97,"anchor":null},
+        {"header":"CI-7.3: Contest-integrity monitoring (Class A and Class B)","level":2,"line_start":98,"line_end":136,"anchor":null}
       ]
     },
     "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md": {
@@ -2055,13 +2060,15 @@
       ]
     },
     "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md": {
-      "total_lines": 120,
+      "total_lines": 198,
       "sections": [
-        {"header":"CF-5: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":120,"anchor":null},
-        {"header":"CF-5.1 Published intake classes","level":2,"line_start":57,"line_end":65,"anchor":null},
-        {"header":"CF-5.2 Intake triage body","level":2,"line_start":66,"line_end":84,"anchor":null},
-        {"header":"CF-5.3 Natural-systems representatives","level":2,"line_start":85,"line_end":100,"anchor":null},
-        {"header":"CF-5.4 Capacity-failure routing","level":2,"line_start":101,"line_end":120,"anchor":"#cf-54-capacity-failure-routing"}
+        {"header":"CF-5: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":198,"anchor":null},
+        {"header":"CF-5.1 Published intake classes","level":2,"line_start":59,"line_end":67,"anchor":null},
+        {"header":"CF-5.2 Intake triage body","level":2,"line_start":68,"line_end":86,"anchor":null},
+        {"header":"CF-5.3 Natural-systems representatives","level":2,"line_start":87,"line_end":102,"anchor":null},
+        {"header":"CF-5.4 Capacity-failure routing","level":2,"line_start":103,"line_end":118,"anchor":"#cf-54-capacity-failure-routing"},
+        {"header":"CF-5.5 Institutional and local registrars","level":2,"line_start":119,"line_end":155,"anchor":"#cf-55-institutional-and-local-registrars"},
+        {"header":"CF-5.6 Integrity registrar","level":2,"line_start":156,"line_end":198,"anchor":"#cf-56-integrity-registrar"}
       ]
     },
     "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md": {

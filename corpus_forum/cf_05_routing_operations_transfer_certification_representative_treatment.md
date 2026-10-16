@@ -13,7 +13,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes); [CF-5.2 Intake triage body](#cf-52-intake-triage-body); [CF-5.3 Natural-systems representatives](#cf-53-natural-systems-representatives); [CF-5.4 Capacity-failure routing](#cf-54-capacity-failure-routing).
+- Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes); [CF-5.2 Intake triage body](#cf-52-intake-triage-body); [CF-5.3 Natural-systems representatives](#cf-53-natural-systems-representatives); [CF-5.4 Capacity-failure routing](#cf-54-capacity-failure-routing); [CF-5.5 Institutional and local registrars](#cf-55-institutional-and-local-registrars); [CF-5.6 Integrity registrar](#cf-56-integrity-registrar).
 - Read with: **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-5.1** (*Published intake classes*); **CF-5.2** (*Intake triage body*); **CF-5.3** (*Natural-systems representatives*); **CF-5.4** (*Capacity-failure routing*); **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract.
 - Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*); primary owner **CI-12** (*Cross-institution coordination and escalation*).
 - Topic routing (primary owner): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*), **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
@@ -49,6 +49,8 @@ This section turns [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forum
 - consolidation of related matters;
 - procedures for representative treatment, including natural-systems representatives under **CF-5.3** (*Natural-systems representatives*) and sentience-status independent representatives appointed under **CF-4.14** (*Independent representative appointment*);
 - capacity-failure claims under **CF-5.4** (*Capacity-failure routing*), which must be heard outside the starved body;
+- the Institutional and local registrars under **CF-5.5** (*Institutional and local registrars*), which take in and check System Charters and Institutional Charters as routine administration and not adjudication;
+- the Integrity registrar under **CF-5.6** (*Integrity registrar*), which does the same for financial and resource audit results;
 - records and public notice when routing rules change;
 - coordination with **Integrity** forum **alignment** rulings (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)) when intake, referral, and certification steps overlap.
 This section implements the primary-stakes rule in `core_13_forum.md` **Chapter Thirteen**. It does not change that rule.
@@ -112,6 +114,82 @@ A claim that a forum family, remedy system, or standing-integration function is 
 - The body in question must supply its published Chapter Eleven §4.4 (*Remedy parity and lock preconditions*) and Chapter Thirteen §6 (*Timely resolution, materiality tiers, and anti-delay discipline*) backlog figures, and may give evidence, but must not control the finding or the corrective order.
 - A capacity-failure finding is a [Chapter Eleven §9.2 Remedy-system durability](../core_11_standing_integration.md#92-remedy-system-durability) durability failure. Corrective orders route to the primary-stakes family responsible for staffing and funding. Where the pattern is chronic or concealed, the ordinary Chapter Ten path opens.
 - **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) publishes the performance figures that make the tripwire inspectable. **CI-27** (*Remedy systems and institutional redress capacity*) holds institutional capacity, funding, and the remedy-parity funding floor. Neither file lets the starved body hear its own capacity claim.
+
+<a id="cf-55-institutional-and-local-registrars"></a>
+## CF-5.5 Institutional and local registrars
+
+*In plain terms: a System Charter or Institutional Charter is only useful if someone outside the Chartered Party can say it was filed, whole, and on what date. A registrar is a clerk and not a judge. It takes the instrument in, checks that nothing required is missing, gives a receipt, and keeps a public register. It never gives permission and never rules on what the instrument says.*
+
+This subsection implements, and must not narrow, [Chapter Seven §1.4 When it is due](../core_07_charters.md#14-when-it-is-due) and [Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). A registrar does routine administration, which [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) section 1 keeps apart from adjudication.
+
+**Where a registrar sits:** Each registrar is an administrative arm of an intake triage body (**CF-5.2** (*Intake triage body*)), or a functionally equivalent arrangement, with the same independence and contest expectations:
+- the **Institutional** forum family keeps an **Institutional registrar** for System Charters and Institutional Charters generally; and
+- a local forum with jurisdiction over the locality where a Chartered Party acts, and where the sentients it affects live, keeps a **local registrar** for local community matters. A Chartered Party whose activity and affected sentients are local lodges there.
+
+An instrument lodged at the wrong registrar is forwarded and keeps its lodging date. It is not refused.
+
+**What a registrar does:**
+- It receives a System Charter or Institutional Charter with its Charter Role Map and formation check statement, and records the version and the date of lodging. Anyone may lodge, including a Class P Operating Party that chooses to publish.
+- It checks completeness only, against the minimum in [Chapter Seven §3 What System and Institutional Charters Must State](../core_07_charters.md#3-what-system-and-institutional-charters-must-state): each required item is present, each pointer resolves, and the one lodging is the governing authority or acts for it.
+- It gives a dated receipt that says the lodging is complete or lists what is missing.
+- It keeps a public register of lodged instruments, their versions, amendments, and review dates, and the two kinds of registrar share one register format.
+- It receives a request under [Chapter Seven §1.5 If a System Charter or Institutional Charter is missing](../core_07_charters.md#15-if-a-system-charter-or-institutional-charter-is-missing) and an insider's report of a crossing under [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), and passes either to the intake triage body for routing under **CF-5.2** (*Intake triage body*) without judging it.
+
+**What a registrar does not do:**
+- It does not grant or withhold permission to form or operate.
+- It does not rule on class, on whether a body is below a line, or on what an instrument claims.
+- It does not run or judge the formation check in [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](../core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity).
+- It charges no fee, and it refuses an instrument for no reason other than a missing required item.
+
+**Time and fallback:**
+- **Silence is receipt:** If the registrar gives no receipt within seven days, the instrument counts as received on the day it was lodged.
+- **Incomplete lodging:** The date of first lodging stands if the missing items are supplied within the time the registrar states, which is never less than seven days.
+- **Registrar unavailable:** If the registrar cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the Chartered Party publishes the instrument openly and gives notice to the forum family. That counts as lodging on the day of notice.
+
+**Safeguards:**
+- **A receipt is not an endorsement:** The registrar's check is administrative. A forum hearing a dispute about an instrument is not bound by it.
+- **No gate:** A registrar's delay, error, or refusal never stops a Chartered Party from forming, publishing, or operating. It is a defect to log and correct, and the Chartered Party may contest it on the route in **CF-5.2** (*Intake triage body*).
+- **No steering:** A registrar may not use funding, fees, or sorting to push Chartered Parties toward a favored forum or away from lodging.
+- **No self-judging:** Staff of the registrar who received an instrument do not sit on a merits panel hearing a dispute about it (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+
+<a id="cf-56-integrity-registrar"></a>
+## CF-5.6 Integrity registrar
+
+*In plain terms: an audit of money or shared resources only protects anyone if the result reaches a place that is outside the audited party, logs it, and cannot be quietly shelved. The **Integrity registrar** is the clerk for that. It takes in the result, checks that it is whole, gives a receipt, keeps the register, and sends anything that looks like a problem on to intake. It does not grade the audit or the audited party.*
+
+This subsection implements, and must not narrow, [Chapter Thirteen §4.5 Integrity forums](../core_13_forum.md#45-integrity-forums) and [Article XVI-A](../core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*). It does routine administration, as **CF-5.5** (*Institutional and local registrars*) does, and does not adjudicate.
+
+**Where the Integrity registrar sits:** It is an administrative arm of the **Integrity** forum family's intake triage body (**CF-5.2** (*Intake triage body*)), or a functionally equivalent arrangement, with the same independence and contest expectations. A result lodged with another forum family's registrar is forwarded and keeps its lodging date.
+
+**What the Integrity registrar receives:** Results of a financial audit or a resource audit that an adopting instrument, a certification, a forum order, an external assurance trigger under **CI-7.2** (*External assurance triggers*), or the audited party's own published controls under **CI-7.1** (*Controls declaration*) call for. This subsection adds no duty to audit. It says where a result goes.
+- A **financial audit** covers funds held, income and spending, reserves, fees and charges, and compensation and reward arrangements.
+- A **resource audit** covers the allocation and stewardship of shared or scarce resources, including the funding stewardship matters in **CS-9** (*Resource allocation and funding stewardship*).
+
+**What the Integrity registrar does:**
+- It receives the result with the audited party, the period and scope covered, the method, the date, who commissioned and paid for the audit, any tie between the auditor and the audited party, the findings, and the audited party's response.
+- It checks completeness only: each of those items is present, and the one lodging is the auditor, the audited party, or a forum or certifier that holds the result.
+- It gives a dated receipt that says the lodging is complete or lists what is missing.
+- It tags each record by access class under **CF-15.3** (*Access classes*) and keeps a register. A result is public by default. A restriction is justified under that section and leaves a path to later review.
+- It passes any finding that shows a possible crossing of a line in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), diverted or hidden funds or resources, an undisclosed conflict, or a misaligned reward to the intake triage body for routing under **CF-5.2** (*Intake triage body*), without judging it.
+- It tells the **Integrity** forums handling a certification, validation, or recertification of the audited party that a result has been lodged, so the certification record can cite it.
+
+**What the Integrity registrar does not do:**
+- It does not grade the audit, the auditor, or the audited party, and it does not state a conclusion from the findings.
+- It does not order, schedule, or scope an audit.
+- It does not decide whether an audit was independent or sufficient. A forum with jurisdiction decides that on referral.
+- It charges no fee, and it refuses a result for no reason other than a missing required item.
+
+**Time and fallback:**
+- **Silence is receipt:** If the registrar gives no receipt within seven days, the result counts as received on the day it was lodged.
+- **Incomplete lodging:** The date of first lodging stands if the missing items are supplied within the time the registrar states, which is never less than seven days.
+- **Registrar unavailable:** If the registrar cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the result is published openly with notice to the forum family. That counts as lodging on the day of notice.
+
+**Safeguards:**
+- **A receipt is not an endorsement:** The registrar's check is administrative. A forum is not bound by it.
+- **No shelving:** The registrar enters a received result in the register within seven days of receipt. It may not hold back, delay, or bury a result. An auditor's report that access was refused or the audit was obstructed is [Protected Reporting (Whistleblowing)](../core_05_band_accountability.md#protected-reporting-whistleblowing).
+- **No gate:** A registrar's delay, error, or refusal never stops the audited party from operating, and a missing or late audit is a defect to log and correct. The audited party or the auditor may contest it on the route in **CF-5.2** (*Intake triage body*).
+- **No steering:** The registrar may not use funding, fees, or sorting to push audited parties toward a favored auditor or forum.
+- **No self-judging:** Staff of the registrar who received a result do not sit on a merits panel hearing a dispute about the audited party's finances or resources (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
 
 ---
 

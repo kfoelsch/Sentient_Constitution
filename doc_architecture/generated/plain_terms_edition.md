@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.14` · effective **2026-10-14**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **713** of **1040** headings carry a gloss (69%).
+Coverage: **712** of **1045** headings carry a gloss (68%).
 
 ## Contents
 
@@ -30,7 +30,7 @@ Coverage: **713** of **1040** headings carry a gloss (69%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (10/11 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/16 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09_a_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09_b_system_alignment_certification_record_process.md` (13/25 glossed)
@@ -2606,7 +2606,7 @@ materiality is the threshold at which an impact or risk is big enough in stake t
 
 ##### Domain-Specific Materiality
 
-this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 No Licence, and Two Narrow Limits](../../core_07_charters.md#2-no-licence-and-two-narrow-limits).
+this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 The Right to Form, and Three Narrow Limits](../../core_07_charters.md#2-the-right-to-form-and-three-narrow-limits).
 
 [Source](../../core_05_band_oversight.md#domain-specific-materiality)
 
@@ -3190,67 +3190,97 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07_charters.md`](../../core_07_charters.md) · 10/11 headings glossed
+Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/16 headings glossed
 
-#### 1. Purpose, Scope, and Owner Boundary
+#### 1. When System and Institutional Charters Are Required
 
-before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. A System Charter does that for one system. An Institutional Charter does it for an institution that runs more than one system, and holds their System Charters. An Operating Party of Class L or higher must publish one, with the process that keeps it true. A Class P Operating Party may.
+before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. A system that is material to others in any of the nine areas of [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality) needs a published System Charter. An institution publishes the one that fits the systems it runs. Class P is voluntary: a quilting circle that gives quilts to refugees is the pattern.
 
-[Source](../../core_07_charters.md#1-purpose-scope-and-owner-boundary)
+[Source](../../core_07_charters.md#1-when-system-and-institutional-charters-are-required)
 
-#### 2. No Licence, and Two Narrow Limits
+##### 1.1 Who must publish
 
-you do not need anyone's permission to form a system, institution, or business. Two narrow limits can keep one sentient out of one controlling office. This chapter adds no gate on the Operating Party itself.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#2-no-licence-and-two-narrow-limits)
+[Source](../../core_07_charters.md#11-who-must-publish)
 
-#### 3. When System and Institutional Charters Are Required
+##### 1.2 Which classes are covered
 
-if what a system does is material to others in any one of the nine areas of [Domain-Specific Materiality](../../core_05_band_oversight.md#domain-specific-materiality), it needs a published System Charter. An institution that runs one system uses that System Charter. One that runs several publishes an Institutional Charter, which holds all their System Charters and says why the institution runs them. The threshold is Class L. An Operating Party below every line of those nine areas is Class P, where publishing one is voluntary, however many members it has: a quilting circle that gives quilts to refugees is the pattern.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#3-when-system-and-institutional-charters-are-required)
+[Source](../../core_07_charters.md#12-which-classes-are-covered)
 
-#### 4. What System and Institutional Charters Must State
+##### 1.3 Class P: a choice
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#13-class-p-a-choice)
+
+##### 1.4 When it is due
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#14-when-it-is-due)
+
+##### 1.5 If a System Charter or Institutional Charter is missing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#15-if-a-system-charter-or-institutional-charter-is-missing)
+
+##### 1.6 The process at a glance
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#16-the-process-at-a-glance)
+
+#### 2. The Right to Form, and Three Narrow Limits
+
+you do not need anyone's permission to form a system, institution, or business. Three narrow limits can apply: two can keep one sentient out of one controlling office, and one can require a licence or clearance before a named high-risk act. None is a gate on the Operating Party itself, and this chapter adds none.
+
+[Source](../../core_07_charters.md#2-the-right-to-form-and-three-narrow-limits)
+
+#### 3. What System and Institutional Charters Must State
 
 a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, how often it is re-checked, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.
 
-[Source](../../core_07_charters.md#4-what-system-and-institutional-charters-must-state)
+[Source](../../core_07_charters.md#3-what-system-and-institutional-charters-must-state)
 
-#### 5. The Charter Role Map and Standing-Record Custody
+#### 4. The Charter Role Map and Standing-Record Custody
 
 the System Charter or Institutional Charter is where the seats get names. It carries the published list of who may hold each seat for the acts it covers, so a party cannot pick its own checker. The rules for what a valid seat placement is stay in Chapter Eight. The custody of standing records is not a separate list: it is the same map.
 
-[Source](../../core_07_charters.md#5-the-charter-role-map-and-standing-record-custody)
+[Source](../../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)
 
-#### 6. Formation Check: Office-Holder Standing and Authenticity
+#### 5. Formation Check: Office-Holder Standing and Authenticity
 
 before a Chartered Party exercises authority over others, the sentients who hold its key offices are checked twice. Do they meet the published standard for the role, with no standing lock in the way? And do they hold the office in their own right and for the Chartered Party's stated purpose, and not as a front or a nominee? The answer comes from who directs them, what they are paid for, and what they have verifiably said and done, never from what they believe. This is a check and not a licence.
 
-[Source](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)
+[Source](../../core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)
 
-#### 7. When a Holder Fails the Check
+#### 6. When a Holder Fails the Check
 
 a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is cured, with a week to answer and thirty days to fix it, and the Chartered Party keeps operating. Only a failure that is never cured can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.
 
-[Source](../../core_07_charters.md#7-when-a-holder-fails-the-check)
+[Source](../../core_07_charters.md#6-when-a-holder-fails-the-check)
 
-#### 8. Amendment, Review, and Scope Misalignment
+#### 7. Amendment, Review, and Scope Misalignment
 
 scope can change, but not quietly. A change to what the Chartered Party may do is made by the sentients its System Charter or Institutional Charter names as able to make it, with notice and a way to contest it. The document is re-checked on a schedule and sooner when something goes wrong, and when the paper and the practice disagree, one of them is fixed in the open.
 
-[Source](../../core_07_charters.md#8-amendment-review-and-scope-misalignment)
+[Source](../../core_07_charters.md#7-amendment-review-and-scope-misalignment)
 
-#### 9. What System and Institutional Charters Cannot Do
+#### 8. What System and Institutional Charters Cannot Do
 
 a System Charter or Institutional Charter describes a Chartered Party's limits. It does not make the Chartered Party safe, does not choose its class, and does not give it power. Writing a narrow one does not shrink what the Chartered Party really does.
 
-[Source](../../core_07_charters.md#9-what-system-and-institutional-charters-cannot-do)
+[Source](../../core_07_charters.md#8-what-system-and-institutional-charters-cannot-do)
 
-#### 10. Relationship to Other Chapters
+#### 9. Relationship to Other Chapters
 
 later chapters read the System Charter and the Institutional Charter. They do not rewrite them, and they do not need to repeat them.
 
-[Source](../../core_07_charters.md#10-relationship-to-other-chapters)
+[Source](../../core_07_charters.md#9-relationship-to-other-chapters)
 
 ## CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES
 
@@ -3890,11 +3920,11 @@ a system's certification belongs to the system. An institution's certification c
 
 [Source](../../core_09_d_institutional_alignment_certification.md#112-who-is-certified)
 
-##### 11.3 No licence and no gate
+##### 11.3 No permission and no gate
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09_d_institutional_alignment_certification.md#113-no-licence-and-no-gate)
+[Source](../../core_09_d_institutional_alignment_certification.md#113-no-permission-and-no-gate)
 
 #### 12. Institution Class and Institutional Evaluation
 
