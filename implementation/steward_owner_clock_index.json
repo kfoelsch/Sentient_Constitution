@@ -19,7 +19,7 @@
     }
   },
   "clock_families": {
-    "article_xxiv_c_tier_outer_bounds": {
+    "article_xxvi_c_tier_outer_bounds": {
       "label": "Article XXVI-C / Chapter Thirteen §6 tier outer bounds",
       "numeric_home": {
         "label": "Chapter Thirteen §6",
@@ -30,7 +30,7 @@
         "href": "core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
-        "label": "Chapter Thirteen §6.1 restore-challenge clocks",
+        "label": "Chapter Thirteen §6.1 restore-challenge windows",
         "href": "core_13_forum.md#61-emergency-measures-and-continuation-burden"
       },
       "tiers": {
@@ -128,7 +128,7 @@
       "conflict_rule": "Certification or continued reliance at material stake requires whole-system evaluation. Companions may add class-scaled method; they may not replace the certification path.",
       "forbidden_move": "Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window.",
       "clock": null,
-      "clock_note": "Hold the system from going live until Chapter Nine certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A transition clock, before any aligned claim.",
+      "clock_note": "Hold the system from going live until Chapter Nine certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A transition window, before any aligned claim.",
       "eval_scenario_ids": [
         "A02_sac_systemic_evaluation_claim"
       ],
@@ -231,10 +231,10 @@
         "label": "Emergency restore-challenge default (Tier A)",
         "bound": "one week",
         "tier": "A",
-        "family": "article_xxiv_c_tier_outer_bounds",
+        "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Chapter Thirteen §6.1 restore-challenge clocks",
+            "label": "Chapter Thirteen §6.1 restore-challenge windows",
             "href": "core_13_forum.md#61-emergency-measures-and-continuation-burden"
           },
           {
@@ -637,12 +637,12 @@
           "href": "core_05_band_accountability.md#timely-resolution-constitutional"
         }
       ],
-      "conflict_rule": "Published tier clocks bind. Adding process that eats the window is delay-as-denial. Throughput is not timely when harm persists.",
+      "conflict_rule": "Published tier windows bind. Adding process that eats the window is delay-as-denial. Throughput is not timely when harm persists.",
       "forbidden_move": "Do not add process, hop count, or \"read more adopted implementation text\" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists.",
       "clock": {
         "label": "Chapter Thirteen §6 matching-tier outer bound",
         "bound": "matching tier",
-        "family": "article_xxiv_c_tier_outer_bounds",
+        "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
             "label": "Chapter Thirteen §6",

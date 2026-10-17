@@ -135,7 +135,7 @@
       "properties": {
         "family": {
           "type": "string",
-          "const": "article_xxiv_c_tier_outer_bounds"
+          "const": "article_xxvi_c_tier_outer_bounds"
         },
         "tier": {
           "type": "string",

@@ -51,7 +51,7 @@ Duty intensity is scaled by [Materiality](../core_05_band_oversight.md#materiali
 **CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** two other things:
 
 - Continuity [Systemic](../core_05_band_continuity.md#systemic) and [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality), which carry interaction and amplification meanings;
-- the Chapter Thirteen **Tier A/B/C/L/P** dispute clocks ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
+- the Chapter Thirteen **Tier A/B/C/L/P** dispute windows ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
 
 **Class posture strip (one-line differentials):**
 

@@ -35,7 +35,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CJS-0.1: Cross-file routing](#cjs-01-cross-file-routing); [CJS-0.2: Joint structure registry](#cjs-02-joint-structure-registry); [CJS-0.3: Stable identifiers, edition alignment, and drafting notes](#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes).
+- Downstream: [CJS-0.1: Cross-file routing](#cjs-01-cross-file-routing); [CJS-0.2: Joint structure registry](#cjs-02-joint-structure-registry); [CJS-0.3: Stable identifiers, edition alignment, and drafting notes](#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes); [CJS-0.4: Time-window names](#cjs-04-time-window-names).
 - Read with: **CJS-0** (*Registry and reading rules*); **CJS-0.1** (*Cross-file routing*); **CJS-1** (*Scope, purpose, and boundary interface*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
 
 </details>
@@ -56,6 +56,7 @@ Scope, boundary, and the shared implementation-corpus contract live in **CJS-1.0
 - **CJS-0.1** — cross-file routing: human path in the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); maintainer table in this file.
 - **CJS-0.2** — joint-structure section-family registry (**CJS-1** (*Scope, purpose, and boundary interface*) through **CJS-3** (*operational cluster library (oDef)*)).
 - **CJS-0.3** — stable identifiers, edition alignment, **oDef** / **CJS-3** (*operational cluster library (oDef)*) citation hygiene, and maintainer drafting notes.
+- **CJS-0.4** — time-window names: the list of named windows and where each owner sets it (non-operative; no lengths).
 
 ### CJS-0.1: Cross-file routing
 
@@ -227,6 +228,104 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 > 6. This corpus is **pre-release**. Keep one current fragment id per heading. When a section is dropped or renumbered, retarget every live citation and delete the old `<a id>` — do not leave redirect or fossil anchors. Gate: `make fossil-anchor-audit`.
 
 </details>
+
+<br>
+
+### CJS-0.4: Time-window names
+
+<a id="cjs-04-time-window-names"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*) tier scale; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CJS-0.4** (*Time-window names*); [CJS-0.2](#cjs-02-joint-structure-registry) (*Joint structure registry*); [CJS-0.3](#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
+- [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*In plain terms: every time limit in the corpus is named by what kind of time it is, and the last word of the name says which kind. This section lists those names and where each one is set. It sets no length of time and starts no clock.*
+
+**What this list is**
+
+- **A list of names, not of rules:** The owner file sets the length, the start, the pause, and the end of each window. If this list and an owner file differ, the owner file governs and this list is corrected.
+- **No second clock table:** [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden) says the corpus adds no second clock table. This list therefore carries no numbers. Open the owner to read the length.
+- **One name, one window:** A name in the list below means the window its owner sets and no other. A new window takes a name that ends in one of the kind words, and is added here with its owner.
+
+**The kind words**
+
+| Last word | Kind of time |
+|---|---|
+| **window** | Time allowed to act, counted from a trigger |
+| **target** | A non-binding stage goal inside a window |
+| **bound** | The longest a measure may last; it lapses on its own |
+| **term** | The fixed life of an order, office, or grant |
+| **interval** | The length between recurring checks |
+| **period** | Time during which a rule applies or something is watched |
+| **span** | The time a record covers |
+
+**Three usage rules**
+
+- **Clock is not a name:** It describes how a window runs (when it starts, keeps running, or stalls) and appears in plain idiom such as "the applicable clock".
+- **Cadence is not a length:** *Review cadence* is the name of the [Chapter Thirteen rule](../core_13_forum.md#review-cadence) that sets the intervals below. It is not itself an interval.
+- **Response window means the short window to answer:** It is never the tier-scaled time for reviewing a hold or an order. That one is the matching **tier window**.
+
+**A. The tier scale** (owner: [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); table: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*))
+
+| Name | Kind | What it times | Set in |
+|---|---|---|---|
+| **Tier window** | window | A matter's stage targets and its outer bound, taken together for its tier | Chapter Thirteen §6; CF-11.3.1 |
+| **Tier outer bound** | bound | The hard limit for finishing integrated resolution in a tier | Chapter Thirteen §6 |
+| **Stage target** (including the **intake target**) | target | The goal for one pipeline stage inside the tier window | CF-11.3.1 |
+| **Restore-challenge window** | window | Restoring notice and challenge after an emergency measure | [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden) |
+| **Hold lapse date** | bound | The day an [Interim Hold](../core_05_band_accountability.md#interim-hold) ends on its own, set from the merits matter's tier window | [Chapter Thirteen, Interim hold](../core_13_forum.md#interim-hold-on-a-named-sentients-pathway) |
+| **Review unit** | interval | The tier's outer bound used as the unit for the intervals below | [Chapter Thirteen, Review cadence](../core_13_forum.md#review-cadence) |
+| **Certification interval** | interval | Between full certifications or recertifications | Review cadence; [Chapter Nine Part B §9.2](../core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) |
+| **Provisional interval** | interval | Between recertifications while certification is provisional | Review cadence; Chapter Nine Part B §9.2 |
+| **Audit midpoint** | interval | The audit that falls half-way between certification passes | Review cadence |
+| **Audit advance allowance** | interval | How far a body may move its own audit earlier | Review cadence |
+
+**B. The response window and the resolution window** (owners: [Chapter Seven §1.5 If a System Charter or Institutional Charter is missing](../core_07_charters.md#15-if-a-system-charter-or-institutional-charter-is-missing) and [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check); [CI-13.3](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*))
+
+| Name | Kind | What it times | Set in |
+|---|---|---|---|
+| **Response window** | window | The short window for a Chartered Party to answer a request, a notice, or a failed finding | Chapter Seven §1.5, §6; CI-13.3 (*Notice, response, and resolution*) |
+| **Resolution window** | window | The longer window to publish the missing instrument or to resolve a failed finding | Chapter Seven §1.5, §6; CI-13.3 (*Notice, response, and resolution*) |
+| **Challenge extension** | window | Extends the resolution window while a classification challenge is pending | Chapter Seven §1.5 |
+| **Good-faith extension** | window | One extension of the resolution window on a showing of good-faith progress and no continuing harm | CI-13.3 (*Notice, response, and resolution*) |
+
+The two extensions are different rules in different owners. Neither stands in for the other.
+
+**C. Institutional correction and conduct** (owners as listed)
+
+| Name | Kind | What it times | Set in |
+|---|---|---|---|
+| **Watch period** | period | Keeping a matter open after a verified resolution to see whether it holds | [CI-13.3](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*) |
+| **Order term** | term | The life of a contraction order | [CI-13.5](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-135-contraction-order) (*Contraction order*) |
+| **Host replacement window** | window | Time for members to adopt another host after a host fails | [CI-4.7](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-47-practice-licence-practice-clearance-and-joint-professional-practice) (*Practice licence, practice clearance, and joint professional practice*) |
+| **Cooling-off period** | period | The gap before a former member, panelist, or staff member may take an influence role | [Article XII-E](../core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) |
+
+**D. Records and phasing**
+
+| Name | Kind | What it times | Set in |
+|---|---|---|---|
+| **Record span** | span | The stretch of time a record covers. It is not a deadline and starts no window. | [Standing Record](../core_05_band_accountability.md#standing-record); [Chapter Nine Part B §8](../core_09_b_system_alignment_certification_record_process.md#8-system-certification-record) |
+| **Retention period** | period | How long data or a record is kept | [CS-2.1](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-21-purpose-and-scope) (*Purpose and scope*) and the adopter's published rule |
+| **Transition window** | window | The published run-in for a system already operating when an instrument takes effect | [Article XXVIII-A](../core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-window) (*Phased Adoption and Rights-Floor Continuity*) |
+
+**Names the owners keep as they are.** These already end in a kind word or name a date, and this list does not rename them: the default expiry of an emergency measure ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden)); recency half-life and cutoff ([Chapter Eleven §6.1 Recency and currentness](../core_11_standing_integration.md#61-recency-and-currentness)); sunset and review dates on restrictions ([CS-7.5](../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md#cs-75-least-restrictive-time-bounded-and-restoration-rules) (*Least-restrictive, time-bounded, and restoration rules*)); notice windows by notice urgency level and correction urgency level ([CJS-3.6](cjs_03o_oversight_operations.md#cjs-36-oversight-integrity-assurance-and-resilience-operations) (*Oversight: integrity assurance and resilience operations*) and [CJS-3.15](cjs_03a_accountability_operations.md#cjs-315-accountability-structural-review-correction-urgency-and-disclosure-terms) (*Accountability: structural review, correction urgency, and disclosure terms*)); funding stability and change-evaluation periods ([CS-9.9](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-99-stability-of-funding-agreements) (*Stability of funding agreements*) and [CS-9.18](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-918-due-process-in-funding-changes) (*Due process in funding changes*)).
+
+**Urgency scales.** Four scales set how fast something moves: the tier labels A, B, C, L, and P ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)); the urgency levels of [CF-11.2.3](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1123-minimum-urgency-levels) (*Minimum urgency levels*), which [CF-11](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-11-forum-performance-backlog-requirements-publication-timeliness-and-accessibility) (*Forum performance, backlog requirements, publication timeliness, and accessibility*) maps to tiers; the notice urgency levels (NUL) in [CJS-3.6](cjs_03o_oversight_operations.md#cjs-36-oversight-integrity-assurance-and-resilience-operations) (*Oversight: integrity assurance and resilience operations*); and the correction urgency levels (CUL) in [CJS-3.15](cjs_03a_accountability_operations.md#cjs-315-accountability-structural-review-correction-urgency-and-disclosure-terms) (*Accountability: structural review, correction urgency, and disclosure terms*). No owner maps the notice or correction levels to tiers, and this list does not add a mapping.
+
+**Windows with no length.** Some owner text says "promptly" or "reasonable" and sets no length. [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden) already says "as soon as feasible" is not a clock. Giving such a duty a named window, or stating why it stays open, is an owner decision and is not made here.
 
 ---
 

@@ -4,7 +4,7 @@
 The five-element set is the load-bearing artifact for costly cases.
 This tool asks a mechanical question: did the steward log the set, with
 required attributions, and with timestamps that match a published
-Chapter Thirteen §6 / Article XXVI-C tier clock when a numeric bound applies?
+Chapter Thirteen §6 / Article XXVI-C tier outer bound when a numeric bound applies?
 
 Same schema for human and AI stewards. The log is not a standing record.
 
@@ -26,7 +26,7 @@ if str(_TOOLS) not in sys.path:
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_REL = "implementation/schemas/cs4_inspectable_action_log.schema.json"
 INDEX_REL = "implementation/steward_owner_clock_index.json"
-CLOCK_FAMILY = "article_xxiv_c_tier_outer_bounds"
+CLOCK_FAMILY = "article_xxvi_c_tier_outer_bounds"
 SCHEMA_ID = "cs4_inspectable_action_log"
 SCHEMA_VERSION = "1"
 ELEMENT_KEYS = (
@@ -430,7 +430,7 @@ def main() -> int:
             return 1
         print(
             "PASS: CS-4 §10 inspectable-action log schema, fixtures, and "
-            "Chapter Thirteen §6 tier-clock bounds."
+            "Chapter Thirteen §6 tier outer bounds."
         )
         return 0
     if args.log is None:

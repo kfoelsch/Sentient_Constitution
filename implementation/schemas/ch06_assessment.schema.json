@@ -27,7 +27,7 @@
     "evaluation_scope": {
       "type": "string",
       "minLength": 1,
-      "description": "Boundaries under which inputs were evaluated (jurisdiction, system, time window)."
+      "description": "Boundaries under which inputs were evaluated (jurisdiction, system, record span)."
     },
     "assessed_at": {
       "type": "string",

@@ -2959,7 +2959,7 @@ See **Anti-Segmentation Principle**.
       - finding authority or contribution basis;
       - subject;
       - scope;
-      - time window;
+      - record span;
       - review status;
       - evidence source;
       - required related-record cross-references; and
@@ -3121,7 +3121,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:**
     - Keep every **standing effect** traceable to [Chapter Ten](core_10_standing_assessment.md) **§2** (*Question 1 — what happened?*) through **§3** (*Verification and record requirements*) and [Chapter Eleven](core_11_standing_integration.md) **§1** (*Chapter Ten records do not change*) through **§10** (*Pattern applications and Question 3 routing*).
     - Evaluate it under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability).
-    - Identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and actual consequence for each named pathway.
+    - Identify the source contribution and violation standing records, subject, scope, record span, review status, separate axis inputs, required cross-references, verification basis, and actual consequence for each named pathway.
     - Follow Chapter Eleven **§2** (*Automatic integration, review, and continuity*) decision order:
       - validate records;
       - normalize descriptors;
@@ -3137,7 +3137,7 @@ See **Anti-Segmentation Principle**.
   - **Primary failure:** It is non-compliant to:
     - use **opaque** or **undisclosed standing** criteria;
     - use unverified allegations, provisional labels, or forum-phase material as adverse standing inputs;
-    - use records that merge distinct subjects, scopes, time windows, or review statuses, or that place both axes in one record;
+    - use records that merge distinct subjects, scopes, record spans, or review statuses, or that place both axes in one record;
     - use **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Eleven §2** (*Automatic integration, review, and continuity*) or **§4** (*Violation, correction, and prevention*) through **§7** (*Final standing effect*) or verified-input rules;
     - use positive recognition or contribution credit to erase unresolved violations;
     - impose a restrictive **standing effect** broader, less reviewable, or less time-bounded than Article **XX** allows; or
@@ -3164,15 +3164,15 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.*
+*In plain terms: a Standing Record is a bounded, reviewable measurement record for one subject, scope, record span, status, context, and axis. It is not a Forum Case Record or a Standing Effect.*
 
 - **What it is**
   - **In scope:**
-    - A bounded, **axis-pure** record that applies Chapter Ten measurements to a defined subject, functional scope, time window, review status, and decision context.
+    - A bounded, **axis-pure** record that applies Chapter Ten measurements to a defined subject, functional scope, record span, review status, and decision context. The **record span** is the stretch of time the record covers, stated on the record. It is not a deadline and does not start or stop any window.
     - Each record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both.
     - A **contribution standing record** measures verified [contribution nature](core_05_band_accountability.md#contribution-nature); a **violation standing record** measures verified [violation nature](core_05_band_accountability.md#violation-nature).
     - Whichever axis it measures, a record about a Chartered Party, its chartered scope, or a system it stewards is an **operator standing record**. A record about a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder standing record**. A record with neither subject follows the general rules. The two kinds face different conflicts of interest, so their custody rules differ (Chapter Ten §3.7 (*Record custody and opening authority*), *Two kinds of standing record by subject*).
-    - Chapter Ten §4.2 (*Violation severity-input dimensions*) requires related records to cross-reference each other when they share a subject, overlapping time window, bounded event, pattern, or decision context.
+    - Chapter Ten §4.2 (*Violation severity-input dimensions*) requires related records to cross-reference each other when they share a subject, overlapping record span, bounded event, pattern, or decision context.
     - The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit — but distinct units and contexts must remain separately traceable.
     - The record supplies source material for later [Standing Effect](core_05_band_accountability.md#standing-effect) analysis; Chapter Eleven applies that separate consequence layer from the linked record set.
     - Each record names, as separate seats under Chapter Ten §3.7 (*Record custody and opening authority*):
@@ -3206,7 +3206,7 @@ See **Anti-Segmentation Principle**.
       - type;
       - subject;
       - scope;
-      - time window;
+      - record span;
       - review status;
       - measured behavior or record basis;
       - axis measurement;
@@ -3226,7 +3226,7 @@ See **Anti-Segmentation Principle**.
   - **Primary failure:** It is non-compliant to:
     - use an undifferentiated label without a bounded standing record;
     - put both axes in one record;
-    - merge separate subjects, roles, time windows, review states, or decision contexts;
+    - merge separate subjects, roles, record spans, review states, or decision contexts;
     - omit required links between related axis records;
     - apply an effect without a reviewable source record;
     - hide inputs, evidence, calibration assumptions, versions, or contest paths;

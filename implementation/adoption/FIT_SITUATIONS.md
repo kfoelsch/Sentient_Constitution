@@ -141,7 +141,7 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 A company, lab, or public operator that **runs** the system — not a commentator on it. Natural stacks: [Chapter Nine](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) certification, audit layers, [emergency / continuity](../STEWARD_ENTRY_DOORS.md#emergency), [remedy](../STEWARD_ENTRY_DOORS.md#remedy). Start as operations-guide. Full adoption only if the operator can bind those systems in **its** custody.
 
-**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge clocks on outages ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic)).
+**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge windows on outages ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic)).
 
 <a id="43-two-party-mixed-cooperation"></a>
 ### 4.3 Two-party mixed cooperation (the first-adopter path)

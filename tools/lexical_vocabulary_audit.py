@@ -383,6 +383,29 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: 'competent forum' / 'competent family' / 'competent track' was not flagged or backtick masking broke.",
         )
+    window_name_findings = scan_avoid_window_clock_names(
+        "internal-regression.md",
+        "The tier clocks apply to the matter.\n"
+        "A Tier B clock starts at filing.\n"
+        "The response clocks run from the finding.\n"
+        "Each status has its own recertification clock.\n"
+        "The recertification cadence is scaled to class.\n"
+        "The target windows are published by tier.\n"
+        "Evidence preservation runs inside the intake window.\n"
+        "The restore-challenge clocks follow the outer bounds.\n"
+        "The transition clock is published in the plan.\n"
+        "A standing record states its subject, scope, and time window.\n"
+        "Review is promptly held inside the response window of the matching tier.\n"
+        "The tier window and the tier outer bound are published.\n"
+        "The Chartered Party has a response window of seven days.\n"
+        "The stage targets and the certification interval are published.\n"
+        "On the applicable clock, with published clocks, a response is due.\n"
+        "`tier clocks` inside backticks is documentation only.\n",
+    )
+    if len(window_name_findings) != 11:
+        raise RuntimeError(
+            "Internal regression failed: retired window names were not flagged, or a current name (tier window, response window, stage targets, certification interval) or a plain idiom was flagged wrongly.",
+        )
     cure_findings = scan_avoid_cure_family(
         "internal-regression.md",
         "The Chartered Party has thirty days to cure the gap.\n"
@@ -637,6 +660,45 @@ def scan_avoid_cure_family(rel_path: str, text: str) -> list[Finding]:
         if _CURE_FAMILY.search(re.sub(r"`[^`]*`", "", raw)):
             findings.append(
                 Finding(file=rel_path, line=idx, rule="avoid-cure-family", text=raw.strip()),
+            )
+
+    return findings
+
+
+# Time-window names (TIME-NAME-01 in doc_architecture.md): a window is named by its kind of time (window, target, bound, term, interval, period, span).
+# "Clock" is not the name of a specific window, "cadence" is not the name of a length, and "response window" belongs to the 7-day window only.
+# Plain idioms such as "the applicable clock" or "published clocks" are out of scope; only the retired named phrases are matched.
+_WINDOW_NAME_RETIRED = re.compile(
+    r"\btier(?:-default)?[ -]clocks?\b"
+    r"|\bTier [A-CLP] clocks?\b"
+    r"|\bresponse clocks?\b"
+    r"|\brestore-challenge clocks?\b"
+    r"|\btransition clocks?\b"
+    r"|\brecertification (?:clock|cadence)s?\b"
+    r"|\bfull-certification clocks?\b"
+    r"|\bresolution clocks?\b"
+    r"|\btarget[- ]windows?\b"
+    r"|\bintake windows?\b"
+    r"|\btime windows?\b"
+    r"|\bresponse window of the matching\b",
+    re.IGNORECASE,
+)
+
+
+def scan_avoid_window_clock_names(rel_path: str, text: str) -> list[Finding]:
+    """Reject retired window names (tier clocks, recertification clock or cadence, response clocks, target windows, time window for a record, and the like). See TIME-NAME-01."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if _WINDOW_NAME_RETIRED.search(re.sub(r"`[^`]*`", "", raw)):
+            findings.append(
+                Finding(file=rel_path, line=idx, rule="avoid-window-clock-names", text=raw.strip()),
             )
 
     return findings
@@ -1089,6 +1151,8 @@ def main() -> int:
         findings.extend(scan_avoid_router_read_label(rel_path, text))
         findings.extend(scan_avoid_governance_layer_labels(rel_path, text))
         findings.extend(scan_avoid_cure_family(rel_path, text))
+        if rel_path != "doc_architecture.md":  # its dated move log keeps the wording each move used
+            findings.extend(scan_avoid_window_clock_names(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 

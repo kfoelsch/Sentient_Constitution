@@ -106,7 +106,7 @@
 > |---|-------------------------|------------------|
 > | **Who holds it** | A first certification, including a newly deployed system; a system certified after a failed recertification or a reopened review that found misalignment | A system that earned it at a recertification while holding provisional certification |
 > | **How it is earned** | Granted with a certification outcome | Required number of consecutive clean provisional recertifications (at least one), no current misalignment, and no indicator of impending misalignment |
-> | **Recertification clock** | Shorter than the full-certification clock for the same system class | The system-class-scaled clock; still time-bound |
+> | **Certification interval** | Provisional interval, shorter than the full certification interval for the same system class | The system-class-scaled interval; still time-bound |
 > | **If a recertification fails** | Consequences under §7 apply; next certification is provisional and the clean count restarts at zero | Consequences under §7 apply; next certification is provisional and the clean count restarts at zero |
 > | **If an indicator of impending misalignment shows** | Stays provisional; the count does not advance | Steps down to provisional |
 

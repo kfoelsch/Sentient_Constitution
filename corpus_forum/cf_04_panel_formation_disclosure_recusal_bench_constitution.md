@@ -328,7 +328,7 @@ This subsection applies the [Interim Hold](../core_05_band_accountability.md#int
 - **Ground:** The ground is probable cause of a conflict, a non-recusal where recusal was required, or capture, shown on the standard in the Chapter Thirteen subsection. A voluntary step-aside or a recusal under **CF-4.5** (*Recusal triggers*) is not a hold.
 - **Issuer:** A forum outside the member's appointing authority and own forum family issues it, through the backup path in **CF-4.11** (*Backup-forum activation*) or the activation record in **CF-7.3.2** (*Anti-Self-Judging Activation Record*). A family never holds its own member out on its own view.
 - **First rung:** Step-aside from the one matter is the first rung. Removal from a pool, or a wider restraint, needs a showing that the lighter measures would not do.
-- **Pending work:** The member's pending matters pass to substitutes under the published rules. They are not dropped, delayed past their tier clocks, or ended. A hold must not be used to terminate a pending review or to retaliate for good-faith dissent.
+- **Pending work:** The member's pending matters pass to substitutes under the published rules. They are not dropped, delayed past their tier windows, or ended. A hold must not be used to terminate a pending review or to retaliate for good-faith dissent.
 - **Not a removal or a lock:** The hold is neither a removal for cause nor a Forum-Service Standing Lock. Those need their own process and verified findings.
 - **Record and publication:** The hold is recorded apart from any family-level activation, with its ground, scope, lapse date, and review route. It is counted in the publication required by the Chapter Thirteen subsection.
 

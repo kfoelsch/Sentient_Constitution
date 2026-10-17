@@ -50,7 +50,7 @@ A stewardship self-application declaration (process support: [`evaluation/self_a
 
 Transition programs must define at least: preparation, limited adoption, expanded adoption, and steady-state phases.
 
-**Existing instantiations.** The clock published for systems and derived entities already instantiated when the adopter's instrument takes effect is scaled to the system's class under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*). Higher-exposure tiers under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) receive shorter clocks and earlier interim measures. The clock defers delivery work. It does not defer restraint duties or the preservation rules in [CS-10.8](#cs-108-preservation-during-transition) (*Preservation during transition*).
+**Existing instantiations.** The transition window published for systems and derived entities already instantiated when the adopter's instrument takes effect is scaled to the system's class under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*). Higher-exposure tiers under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) receive shorter clocks and earlier interim measures. The transition window defers delivery work. It does not defer restraint duties or the preservation rules in [CS-10.8](#cs-108-preservation-during-transition) (*Preservation during transition*).
 
 Each phase must:
 - publish scope of affected systems and stakeholders;

@@ -44,12 +44,12 @@ Chapter Nine, **Part A**, is the constitutional owner of **system alignment cert
 
 **System alignment certification** exists to answer one question for a stated scope and review schedule: Has the system shown constitutional alignment well enough for certification, conditional certification, validation, recertification, continued reliance, deployment, or material release from conditions?
 
-Certification depth, record burden, recertification cadence, stakeholder review, and contest paths must scale with [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality):
+Certification depth, record burden, certification interval, stakeholder review, and contest paths must scale with [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality):
 
 - Higher-impact, higher-dependency, and higher-risk systems require stronger proof, clearer records, and more practicable participation — including substantive accessibility, stakeholder input, and challenge routes scaled to who relies on the system.
 - Lower system classes and bounded scopes still require honest classification and proportionate assurance; they do not receive a free pass from material obligations where external effects exist.
 
-The recertification cadence, and the financial, resource, or special audit that falls halfway between certification checks, are set by class in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#review-cadence) (*Review cadence*). This chapter does not restate the numbers.
+The certification interval, and the financial, resource, or special audit that falls at its midpoint, are set by class in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#review-cadence) (*Review cadence*). This chapter does not restate the numbers.
 
 The process applies by impact class, as [CS-3 §3.5 Reclassification requirement](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) sets out:
 
@@ -64,7 +64,7 @@ Certification implements the [Two Constitutional Aims](core_00_preamble.md#two-c
 - **Participation** — affected sentients and communities can understand, contest, and take part in review paths that matter to them;
 - **Oversight** — records, evidence, and assumptions are visible and auditable enough for independent checking; certification itself is one especially large audit process under that oversight duty, not the only one;
 - **Accountability** — defects, misclassification, and floor-defeating operation route to remedy, conditions, withdrawal, or standing input where the facts support it;
-- **Timeliness** — review and contest clocks keep certification from going stale while harm can still be prevented or reversed.
+- **Timeliness** — review and contest windows keep certification from going stale while harm can still be prevented or reversed.
 
 As an oversight instrument, certification is one especially large audit process under [Auditability](core_05_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*):
 
@@ -103,8 +103,8 @@ flowchart TB
     Rec["Phase V, Record — §8<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, conditions, and operating plan"]
     S[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
     O{"Phase IV, Decide — §7<br/><br/>What outcome and status<br/>does the evidence support?"}
-    Fc["Full Certification — §7, §9.2<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Longer recertification clock; conditions may apply"]
-    Pc["Provisional Certification — §7, §9.2<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Shorter recertification clock; conditions may apply"]
+    Fc["Full Certification — §7, §9.2<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; conditions may apply"]
+    Pc["Provisional Certification — §7, §9.2<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; conditions may apply"]
     Nc["Not Certified — §7<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
     Pub["Publish the completed record — §7, §9.1<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
     G{"Go-live gate — §7<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}

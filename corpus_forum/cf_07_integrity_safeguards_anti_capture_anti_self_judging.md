@@ -178,7 +178,7 @@ A certification, validation, or recertification record must identify:
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, and testing evidence considered;
 - the audit, simulation, incident, red-team, stress, accessibility, and stakeholder-feedback evidence considered;
 - material uncertainties, residual risks, rejected alternatives, and monitoring commitments;
-- required remediation, conditions, sunsets, recertification cadence, or triggers for reopening review;
+- required remediation, conditions, sunsets, certification interval, or triggers for reopening review;
 - the contest, appeal, certification, or referral path, including any restricted-evidence handling.
 
 ### CF-7.2.4 Permitted Dispositions

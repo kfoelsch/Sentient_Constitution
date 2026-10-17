@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-17T18:29:42+00:00",
+  "generated_at": "2026-10-17T20:12:01+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -1322,14 +1322,15 @@
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 235,
+      "total_lines": 334,
       "sections": [
-        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":235,"anchor":null},
-        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":235,"anchor":null},
-        {"header":"CJS-0.1: Cross-file routing","level":3,"line_start":60,"line_end":150,"anchor":"#cjs-01-cross-file-routing"},
-        {"header":"Maintainer-only detail: authoritative topic router","level":4,"line_start":102,"line_end":150,"anchor":"#cross-file-routing"},
-        {"header":"CJS-0.2: Joint structure registry","level":3,"line_start":151,"line_end":185,"anchor":"#cjs-02-joint-structure-registry"},
-        {"header":"CJS-0.3: Stable identifiers, edition alignment, and drafting notes","level":3,"line_start":186,"line_end":235,"anchor":"#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"}
+        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":334,"anchor":null},
+        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":334,"anchor":null},
+        {"header":"CJS-0.1: Cross-file routing","level":3,"line_start":61,"line_end":151,"anchor":"#cjs-01-cross-file-routing"},
+        {"header":"Maintainer-only detail: authoritative topic router","level":4,"line_start":103,"line_end":151,"anchor":"#cross-file-routing"},
+        {"header":"CJS-0.2: Joint structure registry","level":3,"line_start":152,"line_end":186,"anchor":"#cjs-02-joint-structure-registry"},
+        {"header":"CJS-0.3: Stable identifiers, edition alignment, and drafting notes","level":3,"line_start":187,"line_end":233,"anchor":"#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"},
+        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":334,"anchor":"#cjs-04-time-window-names"}
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
@@ -2188,7 +2189,7 @@
         {"header":"CF-11.2.3 Minimum urgency levels","level":3,"line_start":125,"line_end":149,"anchor":null},
         {"header":"CF-11.2.4 Cross-layer requirements and escalation","level":3,"line_start":150,"line_end":165,"anchor":null},
         {"header":"CF-11.3 Metric registry and reporting taxonomy","level":2,"line_start":166,"line_end":261,"anchor":null},
-        {"header":"CF-11.3.1 Target windows and timing floors","level":3,"line_start":188,"line_end":233,"anchor":null},
+        {"header":"CF-11.3.1 Stage targets and timing floors","level":3,"line_start":188,"line_end":233,"anchor":null},
         {"header":"CF-11.3.2 Publication timeliness","level":3,"line_start":234,"line_end":243,"anchor":null},
         {"header":"CF-11.3.3 Restricted-evidence timing","level":3,"line_start":244,"line_end":261,"anchor":null},
         {"header":"CF-11.4 Performance thresholds and alerts","level":2,"line_start":262,"line_end":291,"anchor":null},

@@ -445,7 +445,7 @@ Forum verification under Chapter Nine §2 (*System Class Evaluation*) does **not
 <a id="75-reclassification-and-continuous-update"></a>
 **7.5. Update the System Classification Record.**
 
-*System Classification Record duty:* revise the file when conditions change — and keep the recertification cadence stated on it current — so each System Alignment Certification or recertification cycle under **[Chapter Nine §2 System Class Evaluation](../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** can verify an honest class.
+*System Classification Record duty:* revise the file when conditions change — and keep the certification interval stated on it current — so each System Alignment Certification or recertification cycle under **[Chapter Nine §2 System Class Evaluation](../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** can verify an honest class.
 
 What triggers a fresh look, and how deep the look must go, live in [§3.5 Reclassification requirement](#35-reclassification-requirement). This subsection owns **when** operators must update the System Classification Record:
 
@@ -453,7 +453,7 @@ What triggers a fresh look, and how deep the look must go, live in [§3.5 Reclas
 - **promptly** once changed conditions are recognized
 - as part of **periodic review**, including each materially impactful [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) or recertification cycle under **[Chapter Nine §2 System Class Evaluation](../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)**
 
-The System Classification Record must state a **recertification cadence scaled to class** for each certification status — provisional and full — (and monitoring triggers). The class cadence is the one in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#review-cadence) (*Review cadence*). How certification verifies that cadence and §3.5 Reclassification requirement reassessment, and treats failure to update after material change as a **certification defect**, live under **[Chapter Nine §2 System Class Evaluation](../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** and **[Part B §7 Certification Outcomes](../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)** — see also the [§7 SAC bridge](#cs-37-classification-governance-disclosure-and-challenge).
+The System Classification Record must state a **certification interval scaled to class** for each certification status — provisional and full — (and monitoring triggers). The class interval is the one in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#review-cadence) (*Review cadence*). How certification verifies that interval and §3.5 Reclassification requirement reassessment, and treats failure to update after material change as a **certification defect**, live under **[Chapter Nine §2 System Class Evaluation](../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** and **[Part B §7 Certification Outcomes](../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)** — see also the [§7 SAC bridge](#cs-37-classification-governance-disclosure-and-challenge).
 
 <a id="76-misclassification-and-evasion"></a>
 **7.6. Correct the System Classification Record.**

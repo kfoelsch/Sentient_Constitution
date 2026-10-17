@@ -31,7 +31,7 @@ See: [Chapter Thirteen §6.1 Emergency measures and continuation burden](../../.
 - **Today:** Process, hop count, or “read more files” eats the window while harm continues.
 - **With this Constitution:** Restore notice and challenge on the same stake-scaled clocks already used for timely resolution. Continuation past the bound needs a documented showing, not a vibe.
 
-See: [Chapter Thirteen §6.1 restore-challenge clocks](../../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [Delay](../../STEWARD_ENTRY_DOORS.md#delay).
+See: [Chapter Thirteen §6.1 restore-challenge windows](../../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [Delay](../../STEWARD_ENTRY_DOORS.md#delay).
 
 **Blocking documented containment until full notice can also fail.**
 - **Today:** A survival-critical deferral is already written down. Someone refuses to contain until every notice is perfect.

@@ -129,6 +129,13 @@
       "status": "blocking"
     },
     {
+      "id": "TIME-NAME-01",
+      "legacy_ref": "time-window names",
+      "summary": "A time window is named by its kind of time (window, target, bound, term, interval, period, span); retired clock and cadence names are rejected.",
+      "make_target": "lexical-vocabulary-audit",
+      "status": "blocking"
+    },
+    {
       "id": "EASY-ENTRY-JARGON",
       "legacy_ref": "easy-entry reader jargon",
       "summary": "Scoped do-not-use list for implementation/adoption/easy_entry reader briefs.",
