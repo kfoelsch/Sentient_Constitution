@@ -54,7 +54,7 @@ The steward signed off the drafted defaults on 2026-10-13; the item is archived 
 Note: [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md). The Chapter Nine hold was lifted on 2026-10-13 (see the entry above).
 
 The steward signed off the drafted defaults on 2026-10-13; the item is archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
-- [ ] **Not done:** Chapter Five entries (none added), Chapter Thirteen routing for readiness findings, the emergency-substitution window default in CI-3.6, translations.
+- [ ] **Not done:** Chapter Five entries (none added), Chapter Thirteen routing for readiness findings, translations. (The emergency-substitution window default in CI-3.6 was added 2026-10-17.)
 
 ### 2026-10-13 — Article XI-E two narrow gates and the Institutional Authority Standing Lock: drafted on the same branch, signed off by the steward 2026-10-13, awaiting heightened review
 

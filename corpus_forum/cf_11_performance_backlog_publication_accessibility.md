@@ -133,11 +133,11 @@ Each matter must remain traceable across the service lifecycle:
 <br>
 
 Minimum urgency levels for stage targets and disclosure are:
-- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier A.
+- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier A, run at the **Emergency level** in **CF-11.3.1** (*Stage targets and timing floors*) where its conditions are met.
 - **Survival-critical** — access to essentials, shelter, or lawful livelihood tools; priority routing and short review cycles. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier A where dependency-vulnerable ongoing harm is verified or credibly alleged pending preservation.
 - **High-impact** — durable standing, systemic pattern, or large affected population; stronger publication and remediation duties when delay crosses published thresholds. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier B unless Tier A urgency is independently present.
 - **Structural or class-wide** — matters affecting forum design, class-wide treatment, repeated challenge-pathway failure, or large-pattern institutional behavior; publish aging and remediation data in forms that expose aggregate delay. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) **Tier B** unless **Tier A** urgency is independently present. Cross-party or cross-border coordination may extend later-stage windows on a longer time scale without reclassifying the urgency tier. Final **Chapter Twelve** Anti-Constitutional Misconduct Review maps to **Tier A**.
-- **Restricted-evidence** — matters where lawful secrecy, protected investigation, or restricted evidence affects processing; track delay separately so secrecy constraints do not conceal timing failure. May justify a later-stage time-scale extension only under documented **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) continuation discipline, without reclassifying the urgency tier.
+- **Restricted-evidence** — matters where lawful secrecy, protected investigation, or restricted evidence affects processing; track delay separately so secrecy constraints do not conceal timing failure. Does not justify a slower column, a longer window, or a continuation (**CF-11.3.3** (*Restricted-evidence timing*)), and does not reclassify the urgency tier.
 - **Ordinary** — default class for contested civil and administrative matters. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier B unless facts support a higher tier.
 - **Low-impact** — may use longer targets only where **Proportionality** supports it and challenge rights stay meaningful.
 
@@ -205,21 +205,42 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 
 **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) tier-default stage targets (adopter floor). This table implements [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Until a forum family publishes calibrated targets, the following **target** windows apply, in order, from the triggering event (filing, protected report, or lawful agency referral) unless a narrower window is required by **Rights-Floor** urgency or **Force Majeure** is documented. In each tier the stage targets add up to the tier's outer bound:
 
-| **Pipeline stage** | **Tier A** (≤ 1 week) | **Tier B** (≤ 2 weeks) | **Tier C** (≤ 4 weeks) | **Tier L** (≤ 8 weeks) | **Tier P** (≤ 12 weeks) |
+| **Pipeline stage** | **Tier A** (≤ 7 days) | **Tier B** (≤ 14 days) | **Tier C** (≤ 30 days) | **Tier L** (≤ 60 days) | **Tier P** (≤ 90 days) |
 | --- | --- | --- | --- | --- | --- |
 | Forum access and intake acknowledgment | 24 hours | 2 calendar days | 4 calendar days | 8 calendar days | 12 calendar days |
 | Evidence preservation initiated | inside the intake target | inside the intake target | inside the intake target | inside the intake target | inside the intake target |
-| **Question 1** — verified finding → **standing record** opened ([Chapter Ten §2](../core_10_standing_assessment.md#2-question-1--what-happened)) | 2 calendar days | 4 calendar days | 8 calendar days | 16 calendar days | 24 calendar days |
+| **Question 1** — verified finding → **standing record** opened ([Chapter Ten §2](../core_10_standing_assessment.md#2-question-1--what-happened)) | 2 calendar days | 4 calendar days | 9 calendar days | 18 calendar days | 27 calendar days |
 | **Question 2** — measurement ([Chapter Ten §4](../core_10_standing_assessment.md#4-standing-measurement-evaluation-dimensions)) | 1 calendar day after verified inputs complete | 2 calendar days | 4 calendar days | 8 calendar days | 12 calendar days |
-| **Question 3** — integration ([Chapter Eleven](../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)) | 2 calendar days after Q2 | 4 calendar days | 8 calendar days | 16 calendar days | 24 calendar days |
+| **Question 3** — integration ([Chapter Eleven](../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)) | 2 calendar days after Q2 | 4 calendar days | 9 calendar days | 18 calendar days | 27 calendar days |
 | Remedy or safeguard commencement | 1 calendar day after Q3 where ongoing harm is material | 2 calendar days | 4 calendar days | 8 calendar days | 12 calendar days |
-| **Integrated resolution outer bound** (sum of the stages) | ≤ **7 calendar days** | ≤ **14 calendar days** | ≤ **28 calendar days** | ≤ **56 calendar days** | ≤ **84 calendar days** |
+| **Integrated resolution outer bound** (sum of the stages) | ≤ **7 calendar days** | ≤ **14 calendar days** | ≤ **30 calendar days** | ≤ **60 calendar days** | ≤ **90 calendar days** |
 
-**Outer-bound rule.** The stage targets run in order, and evidence preservation runs inside the intake target and adds no time. The targets are targets: a forum that runs one stage past its target is still compliant if the matter's integrated resolution finishes within the outer bound for its tier, and a forum that finishes a stage early may use the time later. The outer bound is the compliance line. Those outer bounds implement [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (1 week / 2 weeks / 4 weeks / 8 weeks / 12 weeks). Going past any outer bound requires documented extension under **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) (*Continuation discipline*) with continuing necessity, proportionality, and absence of less-restrictive feasible alternatives.
+**Outer-bound rule.** The stage targets run in order, and evidence preservation runs inside the intake target and adds no time. The targets are targets: a forum that runs one stage past its target is still compliant if the matter's integrated resolution finishes within the outer bound for its tier, and a forum that finishes a stage early may use the time later. The outer bound is the compliance line. Those outer bounds implement [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (7 / 14 / 30 / 60 / 90 days). In Tiers C, L, and P, intake, Question 2, and remedy commencement take 4, 8, and 12 days, and Question 1 and Question 3 each take half of the days left. Going past any outer bound requires documented extension under **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) (*Continuation discipline*) with continuing necessity, proportionality, and absence of less-restrictive feasible alternatives.
 
-**Complexity-extended later stages.** Where a classified **Tier A** or **Tier B** matter requires multi-party, cross-border, or consolidated fact-development, later-stage windows (**Question 1** through integrated resolution) may use the next slower column’s numbers under documented **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) continuation discipline. Intake, evidence preservation, and interim protection stay at the classified tier. The matter's outer bound is then the next slower tier's. That use is a time-scale extension, not a reclassification. Final Chapter Ten **Violation Axis s = 7, 8, or 9** review or corresponding **Chapter Twelve** designation is typically **Tier A**, not a reason to apply **Tier C** clocks.
+**Complexity-extended later stages.** Where a classified **Tier A** or **Tier B** matter requires multi-party, cross-border, or consolidated fact-development, later-stage windows (**Question 1** through integrated resolution) may use the next slower column’s numbers (**Level 2, Coordinated**) under documented **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) continuation discipline. Where the matter needs two or more of those, or specialist forensics, the later stages may use the column two steps slower (**Level 3, Heavy**) on a renewed showing. Intake, evidence preservation, and interim protection stay at the classified tier. The matter's outer bound is then the bound of the slower column used. That use is a time-scale extension, not a reclassification. Complexity made by the party seeking more time, or by the forum’s own delay, earns no extension, and the level goes back down when the need ends. Restricted evidence is not a ground for either level (**CF-11.3.3** (*Restricted-evidence timing*)). Final Chapter Ten **Violation Axis s = 7, 8, or 9** review or corresponding **Chapter Twelve** designation is typically **Tier A**, not a reason to apply **Tier C** clocks.
 
-**Restore-challenge after emergency.** The same outer bounds are the default restore-challenge windows after [**Chapter Thirteen §6.1 Emergency measures and continuation burden**](../core_13_forum.md#61-emergency-measures-and-continuation-burden) containment. The clock starts at containment or deferral, not at later filing. Stage windows above must not slow that restoration.
+| **Level** | **Tier A** later stages (Q1 / Q2 / Q3 / remedy) | **Tier A** outer bound | **Tier B** later stages (Q1 / Q2 / Q3 / remedy) | **Tier B** outer bound |
+| --- | --- | --- | --- | --- |
+| **1 Standard** | 2 / 1 / 2 / 1 | ≤ 7 calendar days | 4 / 2 / 4 / 2 | ≤ 14 calendar days |
+| **2 Coordinated** | 4 / 2 / 4 / 2 | ≤ 14 calendar days | 9 / 4 / 9 / 4 | ≤ 30 calendar days |
+| **3 Heavy** | 9 / 4 / 9 / 4 | ≤ 30 calendar days | 18 / 8 / 18 / 8 | ≤ 60 calendar days |
+
+The stage targets at Levels 2 and 3 need not add up to the outer bound; the difference is slack, not an extra stage. The level is published at routing, before the later stages start, and can be challenged through ordinary routes.
+
+**Emergency level.** Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, a **Tier A** matter runs at the **Emergency level**. The protective steps are containment screening, the interim protection decision, the start of independent review of the measure, and the restoration of notice and challenge after a deferral. They must finish within **3 calendar days** of the start of the measure or of the deferral, whichever is earlier. The finding steps keep these targets, and the matter keeps the **Tier A** outer bound of 7 calendar days as its compliance line:
+
+| **Pipeline stage** | **Emergency level** (Tier A only) |
+| --- | --- |
+| Forum access, intake, and containment screening (evidence preservation inside it) | 6 hours |
+| **Question 1** | 1 calendar day |
+| **Question 2** | 12 hours |
+| **Question 3** | 1 calendar day |
+| Safeguard or remedy commencement | 6 hours |
+| **Protective-step bound** (hard) | ≤ **3 calendar days** |
+
+The Emergency level never combines with Level 2 or 3, and the matter returns to its Tier A column when the emergency ends. Interim holds issued in an Emergency-level matter lapse at the Tier A outer bound, not at the 3-day protective bound. The **restricted information office** (**CF-5.8** (*Restricted information office*)) answers an access question in an Emergency-level matter within the 6-hour intake target. Emergency-level matters are reported separately under **CF-11.3** (*Metric registry and reporting taxonomy*): protective-step times, aging, and their share of all matters. A forum that cannot meet the protective-step bound uses the backup-forum and continuity routes in **CF-14** (*Emergency adjudication*), not a longer window.
+
+**Restore-challenge after emergency.** The same outer bounds are the default restore-challenge windows after [**Chapter Thirteen §6.1 Emergency measures and continuation burden**](../core_13_forum.md#61-emergency-measures-and-continuation-burden) containment. The clock starts at containment or deferral, not at later filing. At the **Emergency level** the default restore-challenge window is 3 calendar days. Stage windows above must not slow that restoration.
 
 **Interim relief.** Tier A matters must not wait for full merits before lawful interim protection, evidence preservation, or named-pathway-scoped safeguards where delay would compound dependency-vulnerable harm.
 
@@ -251,12 +272,17 @@ Where lawful restrictions delay full publication, the forum must still provide, 
 
 <br>
 
+**Restricted evidence does not slow the clock.** A matter whose evidence is restricted runs on the same tier window and the same level as a matter without restricted evidence. Neither the restriction nor a dispute about it is a ground for a slower column, a longer window, or a continuation under **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*). Lawful secrecy changes how evidence is handled, through cleared reviewers, reviewable summaries, and closed review. It does not change how long the forum has. A restriction asserted by a party buys that party no time, and delay that comes from it is recorded as the party’s. Disputes about access to restricted information go to the **restricted information office** (**CF-5.8** (*Restricted information office*)) first, and its decisions are appealed in the related forum without stopping the matter. The forum decides on the evidence it can lawfully use, and evidence it cannot verify in time is not a verified input ([Chapter Ten §3.1 Verified-input gate](../core_10_standing_assessment.md#verified-inputs-for-standing)).
+
+If another authority’s order seals material the forum needs, the matter still proceeds on the evidence that can lawfully be used, and the review route in **CF-6** (*Appeal, secondary review, and exhaustion pathways*) runs alongside it. If review later releases the item, the matter is reconsidered through the existing reconsideration path. It is not paused in advance.
+
 Restricted-evidence matters under **CF-11.2.3** (*Minimum urgency levels*) must not become a standing excuse for indefinite delay.
 
 For such matters, systems must separately track:
 - time to secure authorized access;
 - time to create reviewable summaries where lawful;
-- time to resolve secrecy-related scope disputes;
+- time to resolve secrecy-related scope disputes, including the time the restricted information office took to answer;
+- who asserted the restriction (party, holder, forum, or another authority);
 - whether delay from restricted-access process is materially impairing remedy or review.
 
 ## CF-11.4 Performance thresholds and alerts

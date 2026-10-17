@@ -287,7 +287,6 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 | **Stage target** (including the **intake target**) | target | The goal for one pipeline stage inside the tier window | CF-11.3.1 |
 | **Restore-challenge window** | window | Restoring notice and challenge after an emergency measure | [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden) |
 | **Hold lapse date** | bound | The day an [Interim Hold](../core_05_band_accountability.md#interim-hold) ends on its own, set from the merits matter's tier window | [Chapter Thirteen, Interim hold](../core_13_forum.md#interim-hold-on-a-named-sentients-pathway) |
-| **Review unit** | interval | The tier's outer bound used as the unit for the intervals below | [Chapter Thirteen, Review cadence](../core_13_forum.md#review-cadence) |
 | **Certification interval** | interval | Between full certifications or recertifications | Review cadence; [Chapter Nine Part B §9.2](../core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) |
 | **Provisional interval** | interval | Between recertifications while certification is provisional | Review cadence; Chapter Nine Part B §9.2 |
 | **Audit midpoint** | interval | The audit that falls half-way between certification passes | Review cadence |

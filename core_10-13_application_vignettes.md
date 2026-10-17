@@ -159,11 +159,11 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- | --- |
 | Intake acknowledgment | 2 days | 2 days (no relaxation) |
 | Evidence preservation | inside the intake target | inside the intake target (no relaxation) |
-| Q1 verified finding → standing record | 4 days | 8 days |
+| Q1 verified finding → standing record | 4 days | 9 days |
 | Q2 measurement | 2 days | 4 days |
-| Q3 integration | 4 days | 8 days |
+| Q3 integration | 4 days | 9 days |
 | Remedy commencement | 2 days | 4 days |
-| Integrated resolution outer bound | ≤ 14 days | ≤ 28 days (documented time-scale extension; not a tier change) |
+| Integrated resolution outer bound | ≤ 14 days | ≤ 30 days (documented time-scale extension; not a tier change) |
 
 Later-stage stretch follows [Chapter Thirteen §6](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*stage targets and timing floors*). Intake, evidence preservation, and any interim protection stay at the **Tier B** floor.
 

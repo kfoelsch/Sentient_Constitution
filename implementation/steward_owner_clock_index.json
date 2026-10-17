@@ -34,11 +34,11 @@
         "href": "core_13_forum.md#61-emergency-measures-and-continuation-burden"
       },
       "tiers": {
-        "A": "one week",
-        "B": "two weeks",
-        "C": "four weeks",
-        "L": "eight weeks",
-        "P": "twelve weeks"
+        "A": "7 days",
+        "B": "14 days",
+        "C": "30 days",
+        "L": "60 days",
+        "P": "90 days"
       }
     }
   },
