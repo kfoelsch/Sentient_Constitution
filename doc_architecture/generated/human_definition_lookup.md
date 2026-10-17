@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.14` · effective **2026-10-14**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **206** of **272** registry terms carry a source gloss.
+Coverage: **207** of **273** registry terms carry a source gloss.
 
 ## Start here
 
@@ -58,6 +58,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Capability Requirement | *(no plain-terms gloss in source)* | [Source](../../core_05_band_oversight.md#capability-requirement) |
 | Capture of Resolution Pathways | parties with money, control, privileged information, or a stake in the result must not be able to bias who or what decides a settlement or another rights-relevant outcome. | [Source](../../core_05_band_accountability.md#capture-of-resolution-pathways) |
 | Cascading Failure | a breakdown in one system that spreads through the systems it is connected to, ending up bigger than where it started. | [Source](../../core_05_band_continuity.md#cascading-failure) |
+| Charter Pointer | a **Charter Pointer** is the reference a System Charter or Institutional Charter uses to name another published instrument or provision instead of copying it. It has to lead a reader to the current published version. One that leads nowhere, or to an old version, counts as a missing item. | [Source](../../core_05_band_continuity.md#charter-pointer) |
 | Charter Role Map | a **Charter Role Map** is the published list, kept with a System Charter or Institutional Charter, of who may hold which seat in the work it covers. For each seat it names the offices that may hold it, the stewards now authorized, and who steps in when a holder is absent or conflicted. It changes by dated version, so what was true when an act was taken can still be shown. It never lets a party pick its own checker. | [Source](../../core_05_band_continuity.md#charter-role-map) |
 | Chartered Party | a **Chartered Party** is a system or an institution that has published a System Charter or Institutional Charter, or that Chapter Seven requires to. Chapter Seven uses the one term so it does not have to say "system or institution" every time. A Class P [Operating Party](../../core_05_band_oversight.md#operating-party) that has not published one is not a Chartered Party, and becomes one the day it publishes. Using the term does not add a duty. The duties come from the chapter and from the party's class. | [Source](../../core_05_band_continuity.md#chartered-party) |
 | Classification-Scaled Governance | bigger stake means harder oversight — how closely a system is watched and checked must match how much it actually matters, not a convenient low label. | [Source](../../core_05_band_oversight.md#classification-scaled-governance) |

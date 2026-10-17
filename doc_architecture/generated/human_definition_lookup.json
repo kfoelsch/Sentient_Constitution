@@ -117,7 +117,7 @@
       "href": "../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 272,
+  "term_count": 273,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -293,6 +293,13 @@
       "anchor": "#cascading-failure",
       "plain_terms": "a breakdown in one system that spreads through the systems it is connected to, ending up bigger than where it started.",
       "href": "../../core_05_band_continuity.md#cascading-failure"
+    },
+    {
+      "term": "Charter Pointer",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#charter-pointer",
+      "plain_terms": "a **Charter Pointer** is the reference a System Charter or Institutional Charter uses to name another published instrument or provision instead of copying it. It has to lead a reader to the current published version. One that leads nowhere, or to an old version, counts as a missing item.",
+      "href": "../../core_05_band_continuity.md#charter-pointer"
     },
     {
       "term": "Charter Role Map",
