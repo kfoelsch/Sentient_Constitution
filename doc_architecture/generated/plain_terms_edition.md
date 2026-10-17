@@ -3254,7 +3254,7 @@ a System Charter has to be specific enough to test. It says what the system is f
 
 #### 4. The Charter Role Map and Standing-Record Custody
 
-the System Charter or Institutional Charter is where the seats get names. It carries the published list of who may hold each seat for the acts it covers, so a party cannot pick its own checker. The rules for what a valid seat placement is stay in Chapter Eight. The custody of standing records is not a separate list: it is the same map.
+the System Charter or Institutional Charter is where the seats get names. It carries a published list of who may hold each seat for the acts it covers, so a party can't pick its own checker. The rules for what counts as a valid seat placement stay in Chapter Eight. Keeping the standing records safe isn't a separate list: it's the same map.
 
 [Source](../../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)
 

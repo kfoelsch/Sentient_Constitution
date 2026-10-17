@@ -3171,6 +3171,7 @@ See **Anti-Segmentation Principle**.
     - A bounded, **axis-pure** record that applies Chapter Ten measurements to a defined subject, functional scope, time window, review status, and decision context.
     - Each record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both.
     - A **contribution standing record** measures verified [contribution nature](core_05_band_accountability.md#contribution-nature); a **violation standing record** measures verified [violation nature](core_05_band_accountability.md#violation-nature).
+    - Whichever axis it measures, a record about a Chartered Party, its chartered scope, or a system it stewards is an **operator standing record**. A record about a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder standing record**. A record with neither subject follows the general rules. The two kinds face different conflicts of interest, so their custody rules differ (Chapter Ten §3.7 (*Record custody and opening authority*), *Two kinds of standing record by subject*).
     - Chapter Ten §4.2 (*Violation severity-input dimensions*) requires related records to cross-reference each other when they share a subject, overlapping time window, bounded event, pattern, or decision context.
     - The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit — but distinct units and contexts must remain separately traceable.
     - The record supplies source material for later [Standing Effect](core_05_band_accountability.md#standing-effect) analysis; Chapter Eleven applies that separate consequence layer from the linked record set.
@@ -3233,6 +3234,7 @@ See **Anti-Segmentation Principle**.
     - treat a [Forum Case Record](core_05_band_accountability.md#forum-case-record), filing tag, temporary order, or unfinished accusation as a standing record;
     - impose actor-specific adverse standing from a collective record without verified linkage;
     - let the subject, a claimant, a challenger, or an office in their control line verify the facts, enter the record, or hold custody of it;
+    - let the Chartered Party, or an office in its [Material Control Line](core_05_band_accountability.md#material-control-line), verify, enter, hold, or hear the contest of an operator standing record, or of a stakeholder standing record in which it is the claimant, the alleging party, or otherwise interested;
     - let one seat both verify and enter, or both verify and hear the contest of, the same record;
     - leave an entry unattributed to a named authority (Chapter Ten §3.7 (*Record custody and opening authority*)); or
     - substitute a standing record for inherent dignity, Rights-Floor minimums, stakeholder status, challenge access, remedy access, or Chapter Twelve forum findings.
