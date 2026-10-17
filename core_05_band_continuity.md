@@ -91,14 +91,14 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 *In plain terms: **full certification** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.*
 
 - **What it is**
-  - **In scope:** The status of certification held by a system that was certified provisionally, has completed the required consecutive clean provisional recertifications, and at its latest [Recertification](core_05_band_continuity.md#recertification) showed no current misalignment and no monitoring indicator pointing to impending misalignment. Full certification runs on the class-scaled recertification cadence, remains time-bound, and remains open to reopening.
+  - **In scope:** The status of certification held by a system that was certified provisionally, has completed the required consecutive clean provisional recertifications, and at its latest [Recertification](core_05_band_continuity.md#recertification) showed no current misalignment and no monitoring indicator pointing to impending misalignment. Full certification runs on the class-scaled certification interval, remains time-bound, and remains open to reopening.
   - **Out of scope:**
     - [Provisional Certification](core_05_band_continuity.md#provisional-certification);
     - conditional certification, which concerns conditions on certification and may attach to either status;
     - a permanent permission slip, reputation score, or standing effect — [Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Provisional Certification](core_05_band_continuity.md#provisional-certification); [Recertification](core_05_band_continuity.md#recertification).
-  - The clean-recertification floor, step-down, and response clocks are stated in [Chapter Nine Part B §9.2](core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification); this entry is the Chapter Five meaning only.
+  - The clean-recertification floor, step-down, and tier windows are stated in [Chapter Nine Part B §9.2](core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification); this entry is the Chapter Five meaning only.
 <a id="full-certification-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -140,7 +140,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - a system that neither materially affects sentients nor is materially relied on by them;
-    - a system already operating when an adopter's instrument takes effect, which is governed during its transition period by the clock in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) and not treated as going live a second time; or
+    - a system already operating when an adopter's instrument takes effect, which is governed during its transition period by the transition window in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) and not treated as going live a second time; or
     - ordinary changes to an operating system that are not a material expansion —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Material Impact](core_05_band_oversight.md#material-impact); [Dependency](core_05_band_continuity.md#dependency).
@@ -183,7 +183,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 *In plain terms: **institutional alignment certification** is the independent check of an institution, as opposed to one of its systems. It asks whether the institution does what its Institutional Charter says, whether the offices that hold its authority are answerable to someone, and whether the way it rewards its own members pushes toward the Constitution or away from it. It cites the certification of each system the institution runs and does not repeat that work. It never works as a licence: no institution needs permission from it to form or to operate.*
 
 - **What it is**
-  - **In scope:** The forum-supervised process, and the bounded [Institutional Certification Record](core_05_band_continuity.md#institutional-certification-record) it produces, by which an [Institution](core_05_band_continuity.md#institution), within a stated scope, class, time window, and review cadence, shows that it is aligned with the Constitution as an Institution. It covers the matters that exist only at the level of the Institution:
+  - **In scope:** The forum-supervised process, and the bounded [Institutional Certification Record](core_05_band_continuity.md#institutional-certification-record) it produces, by which an [Institution](core_05_band_continuity.md#institution), within a stated scope, class, record span, and review cadence, shows that it is aligned with the Constitution as an Institution. It covers the matters that exist only at the level of the Institution:
     - whether its practice matches its [Institutional Charter](core_05_band_continuity.md#institutional-charter), and whether the portfolio rationale still explains the Systems it actually runs;
     - whether the authority it exercises is attributable to accountable offices;
     - whether its own reward structures, targets, and incentives reward alignment and not misalignment;
@@ -327,27 +327,27 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 *In plain terms: **provisional certification** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full certification.*
 
 - **What it is**
-  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05_band_continuity.md#recertification) or after a reopened review that found misalignment. Provisional certification runs on a recertification cadence shorter than the full-certification cadence for the same class, with limits on reliance stated on the record.
+  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05_band_continuity.md#recertification) or after a reopened review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with limits on reliance stated on the record.
   - **Out of scope:**
     - [Full Certification](core_05_band_continuity.md#full-certification);
     - conditional certification, which concerns conditions on certification and may attach to either status;
     - deferred certification or non-certification, where no certification is granted —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Recertification](core_05_band_continuity.md#recertification).
-  - The entry and exit rules, the cadence relationship, and the response clocks are stated in [Chapter Nine Part B §9.2](core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification); this entry is the Chapter Five meaning only.
+  - The entry and exit rules, the interval relationship, and the tier windows are stated in [Chapter Nine Part B §9.2](core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification); this entry is the Chapter Five meaning only.
 <a id="provisional-certification-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. a first certification, and a certification after a failed recertification, is recorded as provisional and not as full;
-    2. the record states a recertification cadence shorter than the full-certification cadence for the class, together with limits on reliance; and
+    2. the record states a certification interval shorter than the full certification interval for the class, together with limits on reliance; and
     3. a system that has met the full-certification conditions is moved up, and one that has not stays provisional for stated reasons.
 <a id="provisional-certification-c"></a>
 - **What must hold**
   - **Primary failure:**
     - treating a new or post-failure system as fully certified;
-    - stating provisional status without a shorter cadence or any limit on reliance, so that the status exists on paper only;
+    - stating provisional status without a shorter interval or any limit on reliance, so that the status exists on paper only;
     - holding a system provisional without a stated reason after it has met the full-certification conditions; or
     - interrupting a system whose interruption would foreclose survival essentials before substitutes arrive, as though provisional status itself required it.
 
@@ -360,7 +360,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part B §7 Certification Outcomes](core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*outcomes, recertification cadence, and reopening*); read with [Chapter Nine Part A §2 System Class Evaluation](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*class-scaled assurance and recertification*) and [CS-5.10](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-510-recertification-regression-testing-and-certification-defects) (*recertification, regression testing, and certification defects*).
+- Canonical owner: [Chapter Nine Part B §7 Certification Outcomes](core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*outcomes, certification interval, and reopening*); read with [Chapter Nine Part A §2 System Class Evaluation](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*class-scaled assurance and recertification*) and [CS-5.10](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-510-recertification-regression-testing-and-certification-defects) (*recertification, regression testing, and certification defects*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*forum supervision of certification and recertification records*).
 - Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), [Provisional Certification](core_05_band_continuity.md#provisional-certification), [Full Certification](core_05_band_continuity.md#full-certification), [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty), and [Reversibility](core_05_band_continuity.md#reversibility).
@@ -380,13 +380,13 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - periodic revalidation of other things, such as stewardship claims under [Review and Correction Duty](#review-and-correction-duty) or governance mechanisms under **Article XXVII-B** (*Periodic Revalidation and Transparent Change*) —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification); [System Certification Record](core_05_band_continuity.md#system-certification-record).
-  - The recertification cadence, outcomes, reopening triggers, and regression-testing duty are stated in [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and [CS-5.10](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-510-recertification-regression-testing-and-certification-defects) (*Recertification, regression testing, and certification defects*); this entry is the Chapter Five meaning only.
+  - The certification interval, outcomes, reopening triggers, and regression-testing duty are stated in [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and [CS-5.10](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-510-recertification-regression-testing-and-certification-defects) (*Recertification, regression testing, and certification defects*); this entry is the Chapter Five meaning only.
 <a id="recertification-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the [System Certification Record](core_05_band_continuity.md#system-certification-record) states a recertification cadence scaled to the system's class, and the cadence has been kept;
+    1. the [System Certification Record](core_05_band_continuity.md#system-certification-record) states a certification interval scaled to the system's class, and the interval has been kept;
     2. each recertification repeated the evaluations the record requires at class-scaled depth — including regression testing and re-verification of the [System Classification Record](core_05_band_continuity.md#system-classification-record) and [System Data Types Record](core_05_band_continuity.md#system-data-types-record) findings — and did not carry earlier findings forward unchanged; and
     3. the results and outcome are on the record, and an expired or overdue certification is not relied on as proof that sentients are getting Rights-Floor essentials today.
 <a id="recertification-c"></a>
@@ -394,7 +394,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Primary failure:**
     - letting a certification lapse while reliance on the system continues, or treating an expired or overdue certification as current proof of alignment;
     - a recertification that skips required evaluations or regression testing, relies on outdated results, or accepts major fixes without re-testing where re-testing was feasible;
-    - a cadence that is unstated or not scaled to class; or
+    - an interval that is unstated or not scaled to class; or
     - using scheduled recertification in place of reopening after a reopening trigger has fired.
 
 ---
@@ -505,7 +505,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 *In plain terms: **system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and status-granting — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05_band_oversight.md#auditability), and sibling audit modes remain).*
 
 - **What it is**
-  - **In scope:** The forum-supervised process — and the bounded [System Certification Record](core_05_band_continuity.md#system-certification-record) it produces — by which a [System](core_05_band_continuity.md#system), within stated scope, class, time window, and review cadence, demonstrates constitutional alignment sufficient for:
+  - **In scope:** The forum-supervised process — and the bounded [System Certification Record](core_05_band_continuity.md#system-certification-record) it produces — by which a [System](core_05_band_continuity.md#system), within stated scope, class, record span, and review cadence, demonstrates constitutional alignment sufficient for:
     - certification;
     - conditional certification;
     - validation;
@@ -641,7 +641,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
        - supervisory sequence;
        - outcome;
        - reliance limits;
-       - recertification cadence; and
+       - certification interval; and
        - contestability chain and named contestability paths under [Chapter Nine Part B §9.1.1](core_09_b_system_alignment_certification_record_process.md#911-contestability-paths);
     3. where a Chapter Nine evaluation was required by an applicable materiality trigger, the record states the actual findings from that evaluation — not section titles or checkmarks alone — under [Chapter Nine Part B §8.1](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents); and
     4. the record remains separately traceable from standing records and standing effects.
@@ -2227,7 +2227,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - is time-limited;
     - is documented;
     - is independently reviewable;
-    - is contestable on the [Chapter Thirteen §6.1 restore-challenge clocks](core_13_forum.md#61-emergency-measures-and-continuation-burden);
+    - is contestable on the [Chapter Thirteen §6.1 restore-challenge windows](core_13_forum.md#61-emergency-measures-and-continuation-burden);
     - is reversible or restorable where feasible under [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional) and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*); and
     - routes permanent or durable changes through the ordinary constitutional authorization, adoption, amendment, or reauthorization pathway.
 <a id="constitutional-emergency-and-contingency-c"></a>
@@ -2260,7 +2260,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **In scope:** Emergency or contingency within the **Stakeholder System Participation** layer, including:
     - temporary deviation from ordinary participation, representation, deliberation, notice, access, review, service-continuity, or decision-resolution procedure inside an already-authorized system, institution, or bounded decision domain;
     - expedited or temporarily modified stakeholder-system procedure to prevent imminent material harm; and
-    - preservation of affected-party notice, challenge, restoration, and proportionate participation on the [Chapter Thirteen §6.1 restore-challenge clocks](core_13_forum.md#61-emergency-measures-and-continuation-burden).
+    - preservation of affected-party notice, challenge, restoration, and proportionate participation on the [Chapter Thirteen §6.1 restore-challenge windows](core_13_forum.md#61-emergency-measures-and-continuation-burden).
   - **Out of scope:**
     - ordinary [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) or participation outside an emergency predicate; or
     - [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency) —
@@ -2273,7 +2273,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - stays within an already-authorized governance structure;
     - identifies affected stakeholders where feasible;
     - records deferred participation or access;
-    - restores or reopens stakeholder-participation pathways on the [Chapter Thirteen §6.1 restore-challenge clocks](core_13_forum.md#61-emergency-measures-and-continuation-burden); and
+    - restores or reopens stakeholder-participation pathways on the [Chapter Thirteen §6.1 restore-challenge windows](core_13_forum.md#61-emergency-measures-and-continuation-burden); and
     - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) and [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **What must hold**

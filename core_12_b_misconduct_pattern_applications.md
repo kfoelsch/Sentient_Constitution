@@ -1039,9 +1039,9 @@ It routes evaluation of the named pattern into the existing designation criteria
 
 <br>
 
-*In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy clocks, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Ten and Ten.*
+*In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Ten and Ten.*
 
-**Obstruction of accountability** is not a separate designation criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy clocks, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), which often names a structural condition; this subsection evaluates the conduct that produces, maintains, or exploits that disablement.
+**Obstruction of accountability** is not a separate designation criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), which often names a structural condition; this subsection evaluates the conduct that produces, maintains, or exploits that disablement.
 
 Where a Violation Axis finding already occupies `s` = 7, 8, or 9 and anti-constitutional misconduct is materially alleged, obstruction is reached through the existing **section 2** criteria where it produces the equivalent constitutional effect:
 

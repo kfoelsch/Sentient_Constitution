@@ -1682,7 +1682,7 @@ Standing Effect is the consequence applied from verified, linked Standing Record
 
 ###### Standing Record
 
-a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.
+a Standing Record is a bounded, reviewable measurement record for one subject, scope, record span, status, context, and axis. It is not a Forum Case Record or a Standing Effect.
 
 [Source](../../core_05_band_accountability.md#standing-record)
 
@@ -3266,7 +3266,7 @@ before a Chartered Party exercises authority over others, the sentients who hold
 
 #### 6. When a Holder Fails the Check
 
-a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is cured, with a week to answer and thirty days to fix it, and the Chartered Party keeps operating. Only a failure that is never cured can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.
+a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved, with a week to answer and thirty days to fix it, and the Chartered Party keeps operating. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.
 
 [Source](../../core_07_charters.md#6-when-a-holder-fails-the-check)
 
@@ -4140,7 +4140,7 @@ forums are where disputes get supervised, challenged, and turned into verified o
 
 ##### 3.7 Record custody and opening authority
 
-four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, the institution's published lane map already answers: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
+four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, keeps the record, or hears the contest, it is invalid until it is fixed, and the operator's own offices can't open or enter its records in the meantime; they go to the Backup Record Authority or a forum. A body with no System Charter or Institutional Charter at all uses its published lane map: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
 
 [Source](../../core_10_standing_assessment.md#37-record-custody-and-opening-authority)
 
@@ -4342,7 +4342,7 @@ after violation, correction, and prevention are assigned under [§4 Violation, c
 
 ##### 6.1 Recency and currentness
 
-how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Ten measurement, and time alone does not cure an unresolved violation.
+how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Ten measurement, and time alone does not settle an unresolved violation.
 
 [Source](../../core_11_standing_integration.md#61-recency-and-currentness)
 
@@ -4626,7 +4626,7 @@ if a judge on a constitutional panel stays on the case while materially compromi
 
 #### 5.11 Obstruction of accountability: criteria interaction
 
-attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy clocks, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Ten and Ten.
+attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Ten and Ten.
 
 [Source](../../core_12_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)
 
@@ -4786,7 +4786,7 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 
 #### 6. Timely resolution, materiality tiers, and anti-delay discipline
 
-forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, two weeks for ordinary material harm, and one to three months at most for coordination-default, bounded, or contained matters — not warehouse cases while harm compounds. The same scale paces the checks on certified systems and Institutions: a full check every 13 times the tier's clock, with an audit halfway between. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
+forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, two weeks for ordinary material harm, and one to three months at most for coordination-default, bounded, or contained matters — not warehouse cases while harm compounds. The same scale paces the checks on certified systems and Institutions: a full check every 13 times the tier's outer bound, with an audit halfway between. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
 
 [Source](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)
 

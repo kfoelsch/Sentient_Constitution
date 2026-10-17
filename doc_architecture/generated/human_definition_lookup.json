@@ -73,7 +73,7 @@
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
       "title": "Standing Record",
-      "plain_terms": "a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.",
+      "plain_terms": "a Standing Record is a bounded, reviewable measurement record for one subject, scope, record span, status, context, and axis. It is not a Forum Case Record or a Standing Effect.",
       "href": "../../core_05_band_accountability.md#standing-record"
     },
     {
@@ -113,7 +113,7 @@
       "file": "core_13_forum.md",
       "anchor": "#chapter-thirteen-forums-and-jurisdiction",
       "title": "CHAPTER THIRTEEN: FORUMS AND JURISDICTION",
-      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Ten–Twelve standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
+      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Ten–Twelve standing pipeline — routing, independence, forensic support, remediation sequencing, and tier windows under **section 6** and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
       "href": "../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
@@ -1733,7 +1733,7 @@
       "term": "Standing Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
-      "plain_terms": "a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.",
+      "plain_terms": "a Standing Record is a bounded, reviewable measurement record for one subject, scope, record span, status, context, and axis. It is not a Forum Case Record or a Standing Effect.",
       "href": "../../core_05_band_accountability.md#standing-record"
     },
     {

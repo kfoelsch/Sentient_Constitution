@@ -56,8 +56,8 @@ flowchart TB
     Rec["Phase V, Record — §8<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, conditions, and operating plan"]
     S[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
     O{"Phase IV, Decide — §7<br/><br/>What outcome and status<br/>does the evidence support?"}
-    Fc["Full Certification — §7, §9.2<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Longer recertification clock; conditions may apply"]
-    Pc["Provisional Certification — §7, §9.2<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Shorter recertification clock; conditions may apply"]
+    Fc["Full Certification — §7, §9.2<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; conditions may apply"]
+    Pc["Provisional Certification — §7, §9.2<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; conditions may apply"]
     Nc["Not Certified — §7<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
     Pub["Publish the completed record — §7, §9.1<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
     G{"Go-live gate — §7<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
@@ -259,7 +259,7 @@ A forum family may hold different seats on different acts. It may not use its fa
 
 *In plain terms: a **stay** is a temporary pause. It holds off final approval, reliance, or the next review step until the right forum finishes its review. A stay is not a final yes or no.*
 
-**Challenge path first.** Before any forum signs off on a certification record, the record must name the [published record challenge path](#911-contestability-paths) under [§9.1 Challenging a Certification](#91-challenging-a-certification). That means saying who receives challenges, how to file them, and what the clocks are. The path opens when the outcome is published. Where the system is already operating, it is already open (see [§9.1.1 Contestability paths](#911-contestability-paths)). A record that does not name the path cannot be signed off. A system with stakeholders cannot hold certification while it has no open, contestable path, whatever the component findings say.
+**Challenge path first.** Before any forum signs off on a certification record, the record must name the [published record challenge path](#911-contestability-paths) under [§9.1 Challenging a Certification](#91-challenging-a-certification). That means saying who receives challenges, how to file them, and what the windows are. The path opens when the outcome is published. Where the system is already operating, it is already open (see [§9.1.1 Contestability paths](#911-contestability-paths)). A record that does not name the path cannot be signed off. A system with stakeholders cannot hold certification while it has no open, contestable path, whatever the component findings say.
 
 The **supervisory sequence** is the step-by-step order in which forums supervise a certification record. Chapter Thirteen may require a different lawful order when primary stakes, anti-self-judging protection, or certification routing applies. Otherwise, the default sequence is:
 
@@ -373,7 +373,7 @@ The rule applies to a [pilot](core_05_band_continuity.md#pilot) as it does to fu
 These rules apply to the notice interval.
 
 - The interval must scale to system class, material impact, and dependency. It must also scale to the time affected sentients reasonably need to understand the outcome, file a challenge, and seek interim protection before reliance becomes irreversible.
-- The forum must state its reasons for the interval. It must identify the receiving authority and the authority able to promptly stay or limit reliance. It must also state the applicable response clocks under [§6.3 Contestability chain](#63-contestability-chain).
+- The forum must state its reasons for the interval. It must identify the receiving authority and the authority able to promptly stay or limit reliance. It must also state the applicable tier windows under [§6.3 Contestability chain](#63-contestability-chain).
 - Filing a challenge does not itself impose an automatic stay. Interim protection is decided under the applicable forum process.
 - The notice interval does not extend challenge-response or review deadlines under [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
@@ -393,13 +393,13 @@ For every condition or corrective task, the record must name:
 
 A condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Releasing a condition requires independent verification of the evidence supporting release, under [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
-**Systems already operating.** A system that is already operating when an adopter's instrument takes effect is not barred by this rule while the clock published for it runs.
+**Systems already operating.** A system that is already operating when an adopter's instrument takes effect is not barred by this rule while the transition window published for it runs.
 
-- [Article XXVIII-A](core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-clock) (*Phased Adoption and Rights-Floor Continuity*) sets that clock, scaled to the system's class, to bring the system within this chapter.
-- The restraint duties in that Article apply from the effective date. The clock defers delivery work, not restraint or preservation.
+- [Article XXVIII-A](core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-window) (*Phased Adoption and Rights-Floor Continuity*) sets that transition window, scaled to the system's class, to bring the system within this chapter.
+- The restraint duties in that Article apply from the effective date. The transition window defers delivery work, not restraint or preservation.
 - The exception covers the transition period only.
 - A new system, or a material expansion of an operating one, is new conduct and must meet the rule above.
-- A system that reaches the end of its clock without provisional or full certification is handled as that Article states.
+- A system that reaches the end of its transition window without provisional or full certification is handled as that Article states.
 
 Certification defects found under any Part A evaluation are not minor paperwork mistakes. They include:
 
@@ -414,7 +414,7 @@ Where such a defect is found, forums may:
 - defer certification;
 - refuse certification;
 - withdraw certification;
-- change the recertification cadence; or
+- change the certification interval; or
 - reopen review under [§9 Recertification and Reopening](#9-recertification-and-reopening) or order a fresh review.
 
 Which of these the forum chooses turns on whether the operator or steward is willing and able to correct the defect. [§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct) states that check, and [§7.2 Denial and Revocation](#72-denial-and-revocation) states when refusal or withdrawal is required.
@@ -425,7 +425,7 @@ Which of these the forum chooses turns on whether the operator or steward is wil
 - interim protection and reliance limits; and
 - the corrective work required.
 
-It uses the cause finding and response clocks in [§9.2 Provisional and full certification](#92-provisional-and-full-certification).
+It uses the cause finding and tier windows in [§9.2 Provisional and full certification](#92-provisional-and-full-certification).
 
 The operator or steward supplies evidence of correction. The assigned authority independently verifies it before it supports authorization of that scope or release from its conditions. Correction must:
 
@@ -442,7 +442,7 @@ A system that is Not Certified cannot begin new operation. If an operating syste
 
 *In plain terms: when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of conditions.*
 
-This is the **remediation readiness check**. It runs in Phase IV, Decide, on the component findings of Phase III, whenever an evaluation, a recertification, or a reopened or fresh review finds misalignment or a certification defect, and once the cause finding under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) has been made or marked not yet determined. It asks one question: **is the operator or steward both willing and able to correct this inside the response clock?** It answers from conduct and evidence, and never from professed intent.
+This is the **remediation readiness check**. It runs in Phase IV, Decide, on the component findings of Phase III, whenever an evaluation, a recertification, or a reopened or fresh review finds misalignment or a certification defect, and once the cause finding under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) has been made or marked not yet determined. It asks one question: **is the operator or steward both willing and able to correct this inside the tier window?** It answers from conduct and evidence, and never from professed intent.
 
 The operator or steward is the proponent and supplies the evidence. It does not judge its own readiness ([§6.1.1 Four seats in a certification](#611-four-seats-in-a-certification)). The lead forum decides the finding. Technical forums hold the capacity evidence. Institutional forums hold the governance and incentive evidence where the cause lies there, and for an Institution the check runs as [Part D §13.5 Remediation readiness, denial, and revocation for an Institution](core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) states. Affected sentients may submit evidence through the route in [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
@@ -463,7 +463,7 @@ A good-faith dispute is not unwillingness. An operator that contests a finding t
 - **Resources:** the work is funded and scheduled, and its cost is not pushed onto affected sentients ([Chapter Eleven §9.1 Remediation capacity and funding](core_11_standing_integration.md#91-remediation-capacity-and-funding); **CI-27** (*Remedy systems and institutional redress capacity*)).
 - **Dependencies:** where the cause sits with a third party, such as a vendor, an upstream system, or a parent institution, someone can compel or replace it, and by when.
 - **Verifiability:** an independent verifier can test the fix with the access and the time given. A correction nobody can verify is not capacity.
-- **Time:** the plan fits the response clock in [§9.2 Provisional and full certification](#92-provisional-and-full-certification).
+- **Time:** the plan fits the tier window in [§9.2 Provisional and full certification](#92-provisional-and-full-certification).
 
 **Proof step.** Readiness is shown by a **proof step**: a first piece of correction or interim protection that has been done and independently verified inside a window the forum sets from the tier in [§9.2 Provisional and full certification](#92-provisional-and-full-certification). For Class A and Class B systems, no finding of ready rests on a plan alone. For Class C and Class L systems the forum may accept a dated plan whose first verifiable step falls inside its window.
 
@@ -538,7 +538,7 @@ The forum may not meet any of these by certifying, or by continuing certificatio
 
 This section is **Phase V, Record**, after [§7 Certification Outcomes](#7-certification-outcomes) (**Phase IV, Decide**). The record is opened for forum review in Phase III and completed here with the outcome.
 
-A **System Certification Record** is a bounded, reviewable record about one particular system, version, operator or steward, scope, time window, material-impact profile, and decision context. It is scope-bound, time-bound, and contestable, as the Chapter Five meaning in [System Certification Record](core_05_band_continuity.md#system-certification-record) says.
+A **System Certification Record** is a bounded, reviewable record about one particular system, version, operator or steward, scope, record span, material-impact profile, and decision context. It is scope-bound, time-bound, and contestable, as the Chapter Five meaning in [System Certification Record](core_05_band_continuity.md#system-certification-record) says.
 
 This section is the single home for what goes on the record. The evaluations in Part A say what must be checked, and the findings they produce are recorded here. The record is the one opened at [§6.2 Supervisory sequence](#62-supervisory-sequence) step 1 and kept through review and decision. This section completes it, and no separate record is made for the decision. A later recertification, or a reopened or fresh review, opens a new record under [§9 Recertification and Reopening](#9-recertification-and-reopening).
 
@@ -564,7 +564,7 @@ The record must identify, at minimum:
   - the dependency types present;
   - the operational-criticality assessment, where material;
   - uncertainty;
-  - the recertification cadence scaled to system class, stated for each certification status; and
+  - the certification interval scaled to system class, stated for each certification status; and
   - where classification is uncertain or contested, the precautionary system class relied on and any conditions pending resolution;
 - **Whole-system evaluation findings:** the material findings under [Part A §3 Whole-System Certification Evaluation](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [§4 Evaluations Where Implicated](core_09_a_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), including findings on systemic scope, privacy joint-invocation, exit, assembly and dissent, time-consistency, governance, incentive, and contestability where implicated. Where systemic risk is in scope under [§3.1 Systemic Scope and Risk Factors](core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors), these findings must include:
   - [Risk Evaluation](core_05_band_continuity.md#risk-evaluation) findings and the assumptions relied on;
@@ -638,7 +638,7 @@ The record must identify, at minimum:
 - **Outcome and reliance limits:**
   - the certification outcome under [§7 Certification Outcomes](#7-certification-outcomes);
   - whether the system holds provisional or full certification under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) or is Not Certified;
-  - the recertification cadence where applicable;
+  - the certification interval where applicable;
   - reopening triggers; and
   - limits on reliance.
 
@@ -649,7 +649,7 @@ The record must also contain a concise **operating plan**, scaled to system clas
 - for a first go-live or material expansion, the earliest permitted go-live, the notice interval, and its justification under [§7 Certification Outcomes](#7-certification-outcomes);
 - each condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of breach under [§7 Certification Outcomes](#7-certification-outcomes);
 - who monitors actual outcomes and safeguards, what evidence and indicators they use, how often they check, and which material findings or thresholds require action or reopened review;
-- who responds to incidents, challenges, and unmet conditions, the applicable response clocks, and the authority for interim protection, containment, rollback, or limits on reliance where required; and
+- who responds to incidents, challenges, and unmet conditions, the applicable tier windows, and the authority for interim protection, containment, rollback, or limits on reliance where required; and
 - for defects found, the corrective work, the verification criteria and findings, any remaining uncertainty, and any permitted interim reliance.
 
 For a system that is Not Certified, the operating plan states the prohibited go-live, any separately authorized interim continued reliance, the corrective requirements, and the conditions for fresh review. It must not imply certified operating permission.
@@ -787,7 +787,7 @@ The completed record is preserved as it stood and is not edited in place. It rem
 
 *In plain terms: a certification record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.*
 
-Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Contestability](core_05_band_accountability.md#contestability) puts **accountability** into practice and keeps **participation** open in challenge paths. Contest clocks under [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) put **timeliness** into practice.
+Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Contestability](core_05_band_accountability.md#contestability) puts **accountability** into practice and keeps **participation** open in challenge paths. Contest windows under [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) put **timeliness** into practice.
 
 Affected parties must have real ways to challenge the record:
 
@@ -814,7 +814,7 @@ Affected parties must have real ways to challenge the record:
 **When the path opens:**
 
 - For a system that is not yet operating, the published record challenge path opens when the system's first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, before the system goes live under [§7 Certification Outcomes](#7-certification-outcomes).
-- A system that is already operating already has stakeholders. So its path is already open, or it opens when the system's record opens. That covers a system under an [Article XXVIII-A](core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-clock) (*Phased Adoption and Rights-Floor Continuity*) transition clock, a recertification, and a reopened or fresh review.
+- A system that is already operating already has stakeholders. So its path is already open, or it opens when the system's record opens. That covers a system under an [Article XXVIII-A](core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-window) (*Phased Adoption and Rights-Floor Continuity*) transition window, a recertification, and a reopened or fresh review.
 - **Stakeholders** are sentients the system materially affects or who materially rely on it, as found in evaluation and not as identified by the operator.
 - Until the path opens for a system not yet operating, the record still names it ([§6.2 Supervisory sequence](#62-supervisory-sequence)). The component, lead-integrity, and escalation paths below are available throughout review.
 - The path stays open while the system has stakeholders. A system that gains stakeholders after certification reopens review under [§9 Recertification and Reopening](#9-recertification-and-reopening).
@@ -825,14 +825,14 @@ A System Certification Record must name these challenge paths. They put Dispute 
 - **Published record challenge path** — the ordinary first step for an ordinary dispute about the certification record. The record names the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight) contest seat:
   - who receives the challenge;
   - how to file it; and
-  - that clocks under [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
+  - that windows under [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
 
   Internal operator review, vendor attestation, or technical sign-off is not this path.
 - **Component forum path** — the Chapter Thirteen forum family with merits authority over a challenged component finding.
 - **Lead-integrity path** — Integrity routing and anti-self-judging backup, when the challenge is about how the lead forum ran the process. That includes capture, hidden information, self-review, or calling certification finished too soon.
 - **Escalation path** — Chapter Thirteen transfer, certification, backup routing, and family-to-family escalation, when primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it.
 
-Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or use up [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) clocks.
+Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or use up [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) windows.
 
 <a id="92-provisional-and-full-certification"></a>
 
@@ -840,19 +840,19 @@ Direct access to a forum path remains available when delay would materially enda
 
 *In plain terms: a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing a check sends it back to the short leash.*
 
-Certification is held in one of two statuses. Each has its own recertification clock, stated on the record under [§8.1 Minimum record contents](#81-minimum-record-contents):
+Certification is held in one of two statuses. Each has its own certification interval, stated on the record under [§8.1 Minimum record contents](#81-minimum-record-contents):
 
 - **[Provisional certification](core_05_band_continuity.md#provisional-certification)** is the status of:
   - a system's first certification, including a newly deployed system; and
   - a system certified after a failed recertification, or after a reopened review that found misalignment.
 
-  Provisional certification runs on a recertification cadence shorter than the full-certification cadence for the same system class. Limits on reliance are stated on the record.
+  Provisional certification runs on a provisional interval, shorter than the full certification interval for the same system class. Limits on reliance are stated on the record.
 - **[Full certification](core_05_band_continuity.md#full-certification)** is earned only at a recertification of a system holding provisional certification, and only where all three of these hold:
   1. the system has completed the required number of consecutive clean provisional recertifications: at least one, and more for higher system classes, as the adopted instrument sets;
   2. no misalignment is current: the record shows no open misalignment, unremedied defect, overdue check, or failed regression testing; and
   3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the record show no threshold crossed and no trend toward one.
 
-Full certification runs on the system-class-scaled recertification cadence. It remains time-bound and is not a permanent approval.
+Full certification runs on the system-class-scaled certification interval. It remains time-bound and is not a permanent approval.
 
 A recertification is **clean** when it meets conditions 2 and 3.
 
@@ -870,7 +870,7 @@ A recertification is **clean** when it meets conditions 2 and 3.
 
 Persistent misaligned results are misalignment, whatever the design says. A design that would produce misaligned results is misalignment before any such result appears. The cause finding sets the remedy sought and the scope of any reopened review. It never decides whether the system is misaligned.
 
-**Response clocks.** Where an initial evaluation, a recertification, or a reopened review finds misalignment, the matter is classified under the materiality tiers of [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). It is presumptively placed in the tier that matches the system's class. For example, a misaligned Class A system is presumptively Tier A. Intake, evidence preservation, interim protection, and the decision run on that tier's windows and outer bounds. An overrun is reviewed as that section requires.
+**Tier windows.** Where an initial evaluation, a recertification, or a reopened review finds misalignment, the matter is classified under the materiality tiers of [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). It is presumptively placed in the tier that matches the system's class. For example, a misaligned Class A system is presumptively Tier A. Intake, evidence preservation, interim protection, and the decision run on that tier's windows and outer bounds. An overrun is reviewed as that section requires.
 
 **Class A reliance.** Provisional certification changes the scrutiny, the cadence, and the limits on reliance. By itself, it does not require interrupting a system whose interruption would cut off survival essentials before substitutes arrive. Interim protection and conditions under [§7 Certification Outcomes](#7-certification-outcomes) handle that case.
 

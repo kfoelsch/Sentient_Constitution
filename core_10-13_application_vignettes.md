@@ -6,7 +6,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Thirteen §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Ten through Thirteen and adopted layers. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Thirteen §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Ten through Thirteen and adopted layers. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -59,7 +59,7 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 
 #### Milestone table (Tier A defaults)
 
-| Stage | Target window |
+| Stage | Stage target |
 | --- | --- |
 | Intake acknowledgment | ≤ 24 hours |
 | Evidence preservation | concurrent with intake |
@@ -108,10 +108,10 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 
 #### Milestone table (Tier B defaults)
 
-| Stage | Target window |
+| Stage | Stage target |
 | --- | --- |
 | Intake acknowledgment | 2 calendar days |
-| Evidence preservation | inside the intake window |
+| Evidence preservation | inside the intake target |
 | Q1 verified finding → standing record | 4 days |
 | Q2 measurement | 2 days after verified inputs |
 | Q3 integration | 4 days after Q2 |
@@ -151,21 +151,21 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | 4 | **Question 2 — how bad was it?** Verified driver, agency, lock-in, safety, and ecological impacts determine the Violation Axis slot on the **§7 unified scale** (`s` = 4–6 range pending verification). **Exit and Lock-In Misconduct**, **System Misconduct**, **Agency and Manipulation Misconduct**, and any **Ecological Misconduct** component remain descriptors and do not move the slot. |
 | 5 | **Question 3 — what happens because of it?** **Named-pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
 | 6 | **Remedy**: contract reform, exit without penalty, driver stabilization fund, safety patch deployment, ecological remediation plan — look-through accountability on functional control ([Chapter Eleven §9.4](core_11_standing_integration.md#94-anti-evasion-and-look-through-authority)). |
-| 7 | If the Chapter Ten verified-impact measurement reaches generic slot 7, 8, or 9 and the misconduct criteria are satisfied, **Chapter Twelve** may add the corresponding anti-constitutional-misconduct designation without assigning or moving that slot. That designation review is a new materiality determination — typically **Tier A**, not a slower clock. |
+| 7 | If the Chapter Ten verified-impact measurement reaches generic slot 7, 8, or 9 and the misconduct criteria are satisfied, **Chapter Twelve** may add the corresponding anti-constitutional-misconduct designation without assigning or moving that slot. That designation review is a new materiality determination — typically **Tier A**, not a slower tier window. |
 
 #### Milestone table (Tier B urgency; later-stage time-scale may extend)
 
 | Stage | Tier B (urgency floor) | If coordination complexity is present (urgency remains B) |
 | --- | --- | --- |
 | Intake acknowledgment | 2 days | 2 days (no relaxation) |
-| Evidence preservation | inside the intake window | inside the intake window (no relaxation) |
+| Evidence preservation | inside the intake target | inside the intake target (no relaxation) |
 | Q1 verified finding → standing record | 4 days | 8 days |
 | Q2 measurement | 2 days | 4 days |
 | Q3 integration | 4 days | 8 days |
 | Remedy commencement | 2 days | 4 days |
 | Integrated resolution outer bound | ≤ 14 days | ≤ 28 days (documented time-scale extension; not a tier change) |
 
-Later-stage stretch follows [Chapter Thirteen §6](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*target windows and timing floors*). Intake, evidence preservation, and any interim protection stay at the **Tier B** floor.
+Later-stage stretch follows [Chapter Thirteen §6](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*stage targets and timing floors*). Intake, evidence preservation, and any interim protection stay at the **Tier B** floor.
 
 #### Must not happen
 
@@ -191,7 +191,7 @@ Each of the following would be a failure in this scenario:
 | Stewardship | [Chapter One §17](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) — tetrad **timeliness** leg; [Stewardship Defect](core_05_band_continuity.md#stewardship-defect) when chronic delay after notice |
 | Q2 measurement | [Chapter Ten §7 unified scale](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) — verified harm from the deferred repair determines any `s` = 4–5 impact slot; **Response timeliness / avoidable delay** is a character descriptor and does not move the slot |
 | Q3 integration | [Chapter Eleven §9.5](core_11_standing_integration.md#95-timely-implementation) — **Remedy commencement / pipeline delay** |
-| Pipeline clocks | [Chapter Thirteen §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
+| Pipeline windows | [Chapter Thirteen §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
 
 **Must not happen:** Treating post-notice deferral as sufficient stewardship when correction was feasible; counting throughput metrics as **Contribution Axis** credit while delay compounds harm.
 
@@ -254,7 +254,7 @@ The steps below are what the Constitution requires of the **system of seats**. T
 
 #### Milestone table (Tier A defaults)
 
-| Stage | Target window |
+| Stage | Stage target |
 | --- | --- |
 | Containment of harmful named pathways | as soon as harm is material — not after status merits |
 | Sealed custody of state-bearing components | concurrent with containment |
@@ -298,7 +298,7 @@ Conventional systems answer the same question badly in the opposite direction. A
 | Weekends | Volunteers at the food table. | No competency bar. Handing out food is not a trust-sensitive named pathway; the organizer may not invent one. The organizer's sign-in sheet is the group's own log, not a standing record. | No record. If the volunteer ever seeks recognition for this work — say, toward a peer mutual-aid coordinator clearance — the sheet is an input, the organizer is its recorder and a witness, and a disinterested relying body verifies; the organizer does not ([Chapter Ten §3.7](core_10_standing_assessment.md#37-informal-and-small-scope-records) *Informal and small-scope records*). |
 | Spring | A fellow tenant files a written accusation about the bicycle store. | The building's dispute intake treats the accusation as **routing material only**. It is an unadjudicated claim; it supplies no violation nature and opens no violation standing record by itself — [Chapter Ten §3.1](core_10_standing_assessment.md#verified-inputs-for-standing) (*verified-input gate*), [§3.6](core_10_standing_assessment.md#36-forum-boundary) (*filed case is not standing by itself*). The dispute is heard as an ordinary dispute: the tenant is told what was alleged and may answer. It resolves on the facts (the damage predates their tenancy). | No record. If a forum **had** verified a violation, a record would have opened on a verified trigger, the tenant would have been **notified** ([Chapter Ten §2.1](core_10_standing_assessment.md#21-silence-is-the-default)), and any Chapter Eleven effect would have reached them as a plain-language statement naming the affected named pathway, duration, and challenge route ([Chapter Eleven §7.2](core_11_standing_integration.md#72-plain-statement-of-effect-and-burden)). None of that happened here because nothing was verified. |
 | Most days | Talks to an AI assistant. | The assistant's steward carries a [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) inspectable-action duty for the *exercise of stewardship authority* — decisions taken, disclosures made or suppressed, instructions followed or refused. That duty follows the steward's power, not the user — [Chapter One §17.3](core_01_c_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward) (*Logging the Role, Not the Steward*). The tenant's conversations are their own experiential data under **Article IX** (*Likeness, Experiential Data, and Publication Rights*) and are not standing-record contents. | No record. Nothing in the steward's log is a record *about the user*, and the log is not disclosed to named-pathway gatekeepers as such. |
-| Autumn | Tier A contamination incident at the water utility. | The tenant is an **affected party**. Notice, a real challenge window, and the [Chapter Thirteen §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) Tier A clock reach them because they are affected — not because they hold any record or standing. Being an affected party requires no record ([Chapter Ten §2.1](core_10_standing_assessment.md#21-silence-is-the-default)) and no filing. They read the plain-language incident notice ([Chapter One §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty); **Article XXIII-A** (*Proportional Comprehensibility Right*)) and, if they choose, attend the review; they choose not to. | No record. Records that open concern the **utility** and its stewards ([Chapter Ten §2.1](core_10_standing_assessment.md#21-what-question-1-must-establish)); the affected residents are the protected subjects named in those records, not their subjects. |
+| Autumn | Tier A contamination incident at the water utility. | The tenant is an **affected party**. Notice, a real challenge window, and the [Chapter Thirteen §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) Tier A window reach them because they are affected — not because they hold any record or standing. Being an affected party requires no record ([Chapter Ten §2.1](core_10_standing_assessment.md#21-silence-is-the-default)) and no filing. They read the plain-language incident notice ([Chapter One §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty); **Article XXIII-A** (*Proportional Comprehensibility Right*)) and, if they choose, attend the review; they choose not to. | No record. Records that open concern the **utility** and its stewards ([Chapter Ten §2.1](core_10_standing_assessment.md#21-what-question-1-must-establish)); the affected residents are the protected subjects named in those records, not their subjects. |
 | Any time | The adopter runs its felt-burden measurement. | The tenant may be asked, as part of the adopter's [Participation measurement family](core_05_apex_participation_leg.md#measuring-participation-preamble-measurement-family) sample, whether standing has felt like a score or a rank to them — [Chapter Eleven §7.2](core_11_standing_integration.md#72-plain-statement-of-effect-and-burden) (*Felt-burden measure*). Answering is voluntary. | No record. A survey answer is not a standing input. |
 | December | Year ends. | Nothing. No slot, no tier, no badge, no display, no cross-pathway profile exists to be shown — [Chapter Eleven §7.1](core_11_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*). | **No standing record of any kind.** This is the expected end state for most sentients in most years. |
 
@@ -331,7 +331,7 @@ Each of the following would be a failure in this scenario:
 | Forums may open, update, or correct records — filed case ≠ standing | [Chapter Ten §3.6](core_10_standing_assessment.md#36-forum-boundary) |
 | Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
-| Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |
+| Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) |
 | Silence is the default; no inference from no record | [Chapter Ten §2.1](core_10_standing_assessment.md#21-silence-is-the-default) |
 | Locks wait for an opened remedy record; remedy parity | [Chapter Eleven §4.4](core_11_standing_integration.md#44-remedy-parity-and-lock-preconditions) |
 | No aggregation of named-pathway effects | [Chapter Eleven §7.1](core_11_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) |

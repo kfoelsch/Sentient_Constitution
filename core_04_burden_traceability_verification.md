@@ -203,7 +203,7 @@ This section is **non-operative**. It states a **layer boundary** only.
 
 These apply whenever compliance is evaluated — with or without certification.
 
-**[Chapter Nine — System Alignment Certification](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** supplies the forum-supervised **certification process** where material: whole-system evaluation domains, certification-record duties, certification outcomes, recertification cadence, contestability chain, and verified-input bridge to Chapter Ten. It **applies** Chapters Two through Four; it does **not** restate them.
+**[Chapter Nine — System Alignment Certification](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** supplies the forum-supervised **certification process** where material: whole-system evaluation domains, certification-record duties, certification outcomes, certification interval, contestability chain, and verified-input bridge to Chapter Ten. It **applies** Chapters Two through Four; it does **not** restate them.
 
 Readers must not treat:
 - a **certification record** as a substitute for ongoing compliance under Chapters Two through Four

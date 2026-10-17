@@ -69,7 +69,7 @@ See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-e
 
 - **“I cannot certify what I do not own.”** Correct. Scope honesty is the point. Bind the deploy stack you run. Do not claim the host product. Kit door: [`FIRST_ADOPTER_KIT.md`](../FIRST_ADOPTER_KIT.md).
 
-- **“This is slower than my competitors.”** It is slower than shipping an un-checked high-stake system. Restore-challenge clocks and certification are the cost of reliance. How much is actually on the line scales the depth. A low-stake internal tool is not a city triage model.
+- **“This is slower than my competitors.”** It is slower than shipping an un-checked high-stake system. Restore-challenge windows and certification are the cost of reliance. How much is actually on the line scales the depth. A low-stake internal tool is not a city triage model.
 
 - **“Legal will never let humans take the same refuse test.”** Then the shared-standard claim is false, and an AI-only extra rulebook recreates the skip-the-rules path the text forbids. That is an objection to adoption, not a rewrite.
 

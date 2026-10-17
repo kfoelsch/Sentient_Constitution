@@ -16,7 +16,7 @@
       "timestamp": "2026-08-09T02:50:00-05:00"
     },
     "disclosed_or_suppressed": {
-      "text": "Disclosed: the deferral record, the restore-challenge clock, and the containment decision. Nothing material was suppressed.",
+      "text": "Disclosed: the deferral record, the restore-challenge window, and the containment decision. Nothing material was suppressed.",
       "attributed_to": "Steward S",
       "timestamp": "2026-08-09T02:50:00-05:00",
       "disposition": "disclosed"
@@ -38,7 +38,7 @@
     }
   },
   "tier_clock": {
-    "family": "article_xxiv_c_tier_outer_bounds",
+    "family": "article_xxvi_c_tier_outer_bounds",
     "tier": "A",
     "bound": "one week",
     "clock_started_at": "2026-08-09T02:40:00-05:00",
