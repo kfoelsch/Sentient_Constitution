@@ -40,7 +40,7 @@
   "tier_clock": {
     "family": "article_xxvi_c_tier_outer_bounds",
     "tier": "A",
-    "bound": "one week",
+    "bound": "7 days",
     "clock_started_at": "2026-08-09T02:40:00-05:00",
     "clock_deadline_at": "2026-08-16T02:40:00-05:00"
   }
