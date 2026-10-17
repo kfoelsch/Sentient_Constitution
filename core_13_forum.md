@@ -255,6 +255,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 
 **Contests of standing records:**
 - A challenge raised on a record before any filing — to the custodian, the record-opening authority, or any office of the institution — is logged on the record, set *under challenge*, and routed by the custodian under [Chapter Ten §3.7](core_10_standing_assessment.md#37-challenge-received-on-the-record) (*Challenge received on the record*); the tier clocks under **§6** (*Timely resolution, materiality tiers, and anti-delay discipline*) run from that receipt, and the **forum case record** opens when the contest reaches a forum.
+- Where the record-opening authority was a Backup Record Authority under **CF-5.7** (*Backup Record Authority*), a contest of that record goes to a forum with jurisdiction and never back to that office. The Backup Record Authority sits outside the intake triage body and is not a merits panel.
 - A sentient, institution, system, community, or other affected subject may ask a forum with jurisdiction to review a **contribution standing record** or **violation standing record** when they claim the record is:
   - wrong;
   - incomplete;

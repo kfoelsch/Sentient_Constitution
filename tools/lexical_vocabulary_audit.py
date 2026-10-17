@@ -15,6 +15,14 @@ from corpus_paths import binding_corpus_scope
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
 _BREACH_FAMILY_SCOPE = frozenset({"core_10_standing_assessment.md", "core_11_standing_integration.md"})
 
+# Ban the word **cure** and its forms (cured, uncured, curing, cures, curable, incurable) in the binding corpus.
+# Prefer **resolve**, **resolved**, **resolution** (the deadline and clock sense), or **fix**, **correct**, **settle** (the remedy sense).
+# Word boundaries keep unrelated words (secure, accurate, procure, obscure) clear. Anchors and hyphenated compounds such as cure-window are caught; inline code spans are documentation only.
+_CURE_FAMILY = re.compile(
+    r"(?<![A-Za-z0-9])(?:un|in)?(?:cure[ds]?|curing|curable)(?![A-Za-z0-9])",
+    re.IGNORECASE,
+)
+
 # Standalone word "cloud" / "Cloud" / "CLOUD", including compounds like cloud-native (still banned).
 # Does not match substrings inside unrelated tokens (e.g. "icloud" as one word — no boundary before 'c').
 _CLOUD_WORD = re.compile(r"(?<![A-Za-z0-9])cloud(?![A-Za-z0-9])", re.IGNORECASE)
@@ -375,6 +383,22 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: 'competent forum' / 'competent family' / 'competent track' was not flagged or backtick masking broke.",
         )
+    cure_findings = scan_avoid_cure_family(
+        "internal-regression.md",
+        "The Chartered Party has thirty days to cure the gap.\n"
+        "A failed check that is not cured inside the clock is referred.\n"
+        "The cure-window file is public.\n"
+        "Left uncured, the order stands.\n"
+        "Curing the defect takes a new dated version.\n"
+        "See [the clock](#ci-133-notice-response-and-cure).\n"
+        "Secure storage is accurate and obscure terms are procured.\n"
+        "The gap is resolved inside thirty days.\n"
+        "`cure` inside backticks is documentation only.\n",
+    )
+    if len(cure_findings) != 6:
+        raise RuntimeError(
+            "Internal regression failed: 'cure' / 'cured' / 'uncured' / 'curing' / 'cure-window' was not flagged, or secure/accurate/procure/obscure was flagged wrongly.",
+        )
 
 
 def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
@@ -594,6 +618,25 @@ def scan_avoid_breach_family(rel_path: str, text: str) -> list[Finding]:
                     rule="avoid-undefined-breach-family",
                     text=raw.strip(),
                 ),
+            )
+
+    return findings
+
+
+def scan_avoid_cure_family(rel_path: str, text: str) -> list[Finding]:
+    """Reject **cure** and its forms (prefer **resolve**, **resolved**, **resolution**, or **fix** / **correct** for the remedy sense)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if _CURE_FAMILY.search(re.sub(r"`[^`]*`", "", raw)):
+            findings.append(
+                Finding(file=rel_path, line=idx, rule="avoid-cure-family", text=raw.strip()),
             )
 
     return findings
@@ -1045,6 +1088,7 @@ def main() -> int:
         findings.extend(scan_avoid_definition_map_label(rel_path, text))
         findings.extend(scan_avoid_router_read_label(rel_path, text))
         findings.extend(scan_avoid_governance_layer_labels(rel_path, text))
+        findings.extend(scan_avoid_cure_family(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 

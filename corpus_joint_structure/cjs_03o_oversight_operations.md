@@ -23,7 +23,7 @@ This file is the joint-structure implementation home for **Oversight leg (CJS-3.
 
 *In plain terms: These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere.*
 
-This family operationalizes the **Oversight** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): watching, auditing, assuring, and verifying that implementation claims remain reviewable across **CJS**, **CS**, **CI**, and **CF**. Clusters here must be read together — a strong control in one link cannot cure a material failure in another.
+This family operationalizes the **Oversight** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): watching, auditing, assuring, and verifying that implementation claims remain reviewable across **CJS**, **CS**, **CI**, and **CF**. Clusters here must be read together — a strong control in one link cannot make up for a material failure in another.
 | Cluster | Section |
 |---|---|
 | **CJS-3.2** / **oDef.2** | Oversight: reflexive transparency and accountability terms |
@@ -782,7 +782,7 @@ integrity assurance and resilience operations
     **Primary assessment:** Evaluation must test the chain end to end, including normal, degraded, and adversarial conditions.
 <a id="integrity-assurance-and-resilience-operations-c"></a>
 - **What must hold**
-  - **Primary failure:** A chain if required conditions are missing, blocked, contradictory, or practically unusable. A strong control in one part of the chain cannot cure a material failure in another.
+  - **Primary failure:** A chain if required conditions are missing, blocked, contradictory, or practically unusable. A strong control in one part of the chain cannot make up for a material failure in another.
 
 <a id="adversarial-response-and-revalidation-non-entrenchment"></a>
 Adversarial response and revalidation non-entrenchment
@@ -1076,7 +1076,7 @@ Three-lines assurance model
 Default **NUL** bands (adopting instruments may tighten but must not weaken without lawful authority):
 - **NUL-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md) (*Information types and handling*); active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice without unjustified delay; supervisory, assurance-line, and public declaration as soon as containment posture allows without destroying lawful investigation integrity where **Type S** or protected-investigation constraints apply.
 - **NUL-2 (expedited):** Confirmed breach, integrity failure, or verified **CI-5.3** (*Integrity trigger taxonomy and cross-layer routing (control package)*) corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line within a published expedited window materially shorter than routine reporting.
-- **NUL-3 (standard):** Material control weakness or integrity finding requiring cure but not active ongoing exposure — notice within a published standard incident window and inclusion in the next required control declaration if not cured.
+- **NUL-3 (standard):** Material control weakness or integrity finding requiring resolution but not active ongoing exposure — notice within a published standard incident window and inclusion in the next required control declaration if not resolved.
 - **NUL-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.
 
 **NUL** assignment must govern who is notified, in what order, and by when. **NUL-1** and **NUL-2** events must invoke **CI-7.2** (*External assurance triggers*) external-assurance review when published triggers are met. **Type N** breaches default to at least **NUL-2** and to **NUL-1** while unlawful access, exposure, or reconstruction risk is ongoing.

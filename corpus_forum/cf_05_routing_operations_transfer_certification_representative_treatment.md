@@ -13,7 +13,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes); [CF-5.2 Intake triage body](#cf-52-intake-triage-body); [CF-5.3 Natural-systems representatives](#cf-53-natural-systems-representatives); [CF-5.4 Capacity-failure routing](#cf-54-capacity-failure-routing); [CF-5.5 Institutional and local registrars](#cf-55-institutional-and-local-registrars); [CF-5.6 Integrity registrar](#cf-56-integrity-registrar).
+- Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes); [CF-5.2 Intake triage body](#cf-52-intake-triage-body); [CF-5.3 Natural-systems representatives](#cf-53-natural-systems-representatives); [CF-5.4 Capacity-failure routing](#cf-54-capacity-failure-routing); [CF-5.5 Institutional and local registrars](#cf-55-institutional-and-local-registrars); [CF-5.6 Integrity registrar](#cf-56-integrity-registrar); [CF-5.7 Backup Record Authority](#cf-57-backup-record-authority).
 - Read with: **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-5.1** (*Published intake classes*); **CF-5.2** (*Intake triage body*); **CF-5.3** (*Natural-systems representatives*); **CF-5.4** (*Capacity-failure routing*); **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract.
 - Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*); primary owner **CI-12** (*Cross-institution coordination and escalation*).
 - Topic routing (primary owner): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*), **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
@@ -51,6 +51,7 @@ This section turns [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forum
 - capacity-failure claims under **CF-5.4** (*Capacity-failure routing*), which must be heard outside the starved body;
 - the Institutional and local registrars under **CF-5.5** (*Institutional and local registrars*), which take in and check System Charters and Institutional Charters as routine administration and not adjudication;
 - the Integrity registrar under **CF-5.6** (*Integrity registrar*), which does the same for financial and resource audit results;
+- the Backup Record Authority under **CF-5.7** (*Backup Record Authority*), a separate office outside intake triage and the registrars that checks the facts of a standing record when a Chartered Party's own offices cannot;
 - records and public notice when routing rules change;
 - coordination with **Integrity** forum **alignment** rulings (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)) when intake, referral, and certification steps overlap.
 This section implements the primary-stakes rule in `core_13_forum.md` **Chapter Thirteen**. It does not change that rule.
@@ -138,6 +139,7 @@ An instrument lodged at the wrong registrar is forwarded and keeps its lodging d
 **What a registrar does not do:**
 - It does not grant or withhold permission to form or operate.
 - It does not rule on class, on whether a body is below a line, or on what an instrument claims.
+- It does not verify or authorize a standing record. That belongs to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)), a separate office.
 - It does not run or judge the formation check in [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](../core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity).
 - It charges no fee, and it refuses an instrument for no reason other than a missing required item.
 
@@ -190,6 +192,44 @@ This subsection implements, and must not narrow, [Chapter Thirteen §4.5 Integri
 - **No gate:** A registrar's delay, error, or refusal never stops the audited party from operating, and a missing or late audit is a defect to log and correct. The audited party or the auditor may contest it on the route in **CF-5.2** (*Intake triage body*).
 - **No steering:** The registrar may not use funding, fees, or sorting to push audited parties toward a favored auditor or forum.
 - **No self-judging:** Staff of the registrar who received a result do not sit on a merits panel hearing a dispute about the audited party's finances or resources (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+
+<a id="cf-57-backup-record-authority"></a>
+## CF-5.7 Backup Record Authority
+
+*In plain terms: when a Chartered Party's own offices can't verify a standing record, because its System Charter or Institutional Charter has a gap, someone outside it has to. The **Backup Record Authority** is that office. It checks the facts and authorizes the record, so nobody's record waits on the Chartered Party's repair. It is not a clerk, not a forum, and not part of the intake desk. It checks facts. It does not rule on what the Chartered Party is or may do, and it does not measure how good or bad the record is.*
+
+This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custody and opening authority](../core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*No self-custody*; *A System Charter or Institutional Charter that does not name them*) and [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody). It stays outside the intake triage body (**CF-5.2** (*Intake triage body*)) and the registrars (**CF-5.5** (*Institutional and local registrars*), **CF-5.6** (*Integrity registrar*)), which do routine administration, and outside the merits panels, which [Chapter Thirteen §2 Default venue and primary stakes](../core_13_forum.md#2-default-venue-and-primary-stakes) keeps for substantive outcomes.
+
+**Where it sits:** The **Institutional** forum family, or the local forum where the Chartered Party acts and the sentients it affects live, keeps one Backup Record Authority, or a functionally equivalent arrangement, with the same independence and contest expectations as an intake triage body. It is a separate office. It is not part of the intake triage body, it is not a registrar, and it is not a merits panel. Staff of one do not staff another.
+
+**When it acts:**
+- **A gap in the System Charter or Institutional Charter:** From the day the gap is logged, for operator standing records in the affected scope, until the Chartered Party lodges a version that names every required seat ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)).
+- **No route named:** Where *No self-custody* in [Chapter Ten §3.7 Record custody and opening authority](../core_10_standing_assessment.md#37-record-custody-and-opening-authority) sends a record to independent verification and the System Charter or Institutional Charter or designation names no route, the Backup Record Authority is the default. A forum under [Chapter Ten §3.6 Forum boundary](../core_10_standing_assessment.md#36-forum-boundary) stays available, and the subject or a claimant may take the record straight there.
+
+**What it does:**
+- It logs the request and routes it the day it arrives.
+- It verifies the factual basis of the record under Chapters Two through Four and the Chapter Ten **section 3.1** gate, then authorizes the opening, correction, expiry, or supersession.
+- It names itself on the record as record-opening authority, with the reason it acted and the version of the instrument in force.
+- It passes the authorized version to the record custodian. Where the Chartered Party's custodian is excluded, custody follows *Record custodian* in Chapter Ten **section 3.7**.
+- If the facts cannot be verified without deciding a contested merits question, it refers the record to a forum under Chapter Ten **section 3.6** and does not decide the question itself.
+
+**What it does not do:**
+- It does not enter or hold the record, and it does not hear a contest of a record it verified. A contest goes to secondary review under Chapter Ten **section 3.6** and **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
+- It does not assign a Chapter Ten slot or measure how good or bad the record is.
+- It does not rule on class, on scope, or on whether a System Charter or Institutional Charter is valid, and it does not fix the gap for the Chartered Party.
+- It does not grant or withhold permission to form or operate.
+- It charges no fee to the subject or a claimant.
+
+**Time and fallback:**
+- **Unavailable:** If the Backup Record Authority cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the record goes to a forum under Chapter Ten **section 3.6** or to the independent investigative service under **CF-9.6** (*No self-investigation*).
+- **Conflict of its own:** If it has an interest in the record, it declines the seat, logs the conflict, and routes the record to a forum.
+
+**Safeguards:**
+- **Outside the line:** The Chartered Party cannot choose, appoint, or fund it through a channel the Chartered Party controls, and it cannot change its authority.
+- **Not an endorsement:** Verifying a record says nothing about whether the System Charter or Institutional Charter is sound.
+- **No gate:** Its delay, error, or refusal never stops a Chartered Party from operating. It is a defect to log and correct, and the Chartered Party, the subject, or a claimant may contest it on the route in **CF-5.2** (*Intake triage body*).
+- **No steering:** It may not use funding, fees, or sorting to push records toward a favored forum.
+- **No self-judging:** Staff who verified a record do not sit on a merits panel hearing a dispute about it (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
 
 ---
 

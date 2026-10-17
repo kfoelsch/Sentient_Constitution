@@ -54,15 +54,15 @@ The authoritative consequence record for dissolution review, alignment-supervisi
 These are cooperation and implementation duties only:
 - a designated **consequence liaison** — not the sole record owner or final arbiter of trigger facts;
 - duty to **open or join** dissolution review or alignment-supervision review promptly when a lawful trigger fires, including when routed from **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), or a **Chapter Thirteen** Integrity forum ruling;
-- duty to **submit** required materials, cure reports, sanction responses, and continuity proposals to the lead Integrity forum on published deadlines;
+- duty to **submit** required materials, resolution reports, sanction responses, and continuity proposals to the lead Integrity forum on published deadlines;
 - duty to **mirror publication** of the forum-held official record without selective omission, delay, or rewrite;
 - a **proposed continuity-transfer plan** for forum review, adoption, or amendment before receivership, supervised operation, or successor handoff proceeds; and
 - a published **personal-accountability boundary** clarifying that institutional dissolution or disbandment does not replace anti-constitutional-misconduct designation under **Chapter Twelve** or ordinary constitutional accountability for responsible sentients.
 **What the Integrity forum lead record must name**
 Official custody under **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) must include, at minimum:
 - dissolution-review or alignment-supervision entry order and triggering facts;
-- verification status, cure opportunities afforded, and whether realignment resistance is found;
-- obstruction, concealment, retaliation, delay, or structural workaround findings after reasonable cure opportunity;
+- verification status, resolution opportunities afforded, and whether realignment resistance is found;
+- obstruction, concealment, retaliation, delay, or structural workaround findings after reasonable resolution opportunity;
 - graduated-sanction, authority-restriction, supervised-operation, or dissolution-sequencing steps ordered, attempted, or rejected, with completion status;
 - binding sequencing, stays, milestones, and coordination orders kept on the lead record;
 - for each rung ordered under **CI-13.4** (*Correction and constrained authority*) through **CI-13.9** (*Systems under consequence orders*): the findings under **CI-13.2** (*Findings before any order*), the order terms, the receiver, steward, or liquidator named, the verification result, the term and review dates, the watch period, and any defiance finding under **CI-13.10** (*Review, fairness, and enforcement*);
@@ -91,12 +91,12 @@ This section and **CI-13.2** (*Findings before any order*) through **CI-13.10** 
 
 The lead Integrity forum opens a consequence matter against a Chartered Party when any of these is verified on the record:
 
-1. **Realignment resistance** under **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*): obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround that persists after a reasonable chance to cure.
-2. **Chronic misalignment:** an alignment ruling, withdrawn recognition, a denial or revocation under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), or sustained material misalignment under **Chapter Thirteen**, left uncured inside the cure window.
+1. **Realignment resistance** under **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*): obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround that persists after a reasonable chance to resolve it.
+2. **Chronic misalignment:** an alignment ruling, withdrawn recognition, a denial or revocation under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), or sustained material misalignment under **Chapter Thirteen**, left unresolved inside the resolution window.
 3. **Repeated verified anti-constitutional misconduct** attributable to the Chartered Party, or a final **Chapter Twelve** designation that implicates the Chartered Party.
-4. **A referral** under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), including a failed formation check not cured inside the clock in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check).
-5. **A forum performance trigger** under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*). A forum whose dissolution or disbandment threshold under **CF-11.4** (*Performance thresholds and alerts*) is crossed follows that threshold: ordinary forum authority is suspended at once and the wind-down proceeds. The continuity, remedy, records, and accounting requirements of **CI-13.7** (*Dissolution*) apply to that wind-down, and the cure window does not.
-6. **Operating at Class L or higher in a way that harms or endangers others:** a correction, System Charter, Institutional Charter, or certification duty refused after notice and the cure window. The refusal alone is a defect and supports only rung 1. It supports a higher rung only together with a risk finding under **CI-13.2** (*Findings before any order*) item 2.
+4. **A referral** under [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](../core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution), including a failed formation check not resolved inside the clock in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check).
+5. **A forum performance trigger** under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*). A forum whose dissolution or disbandment threshold under **CF-11.4** (*Performance thresholds and alerts*) is crossed follows that threshold: ordinary forum authority is suspended at once and the wind-down proceeds. The continuity, remedy, records, and accounting requirements of **CI-13.7** (*Dissolution*) apply to that wind-down, and the resolution window does not.
+6. **Operating at Class L or higher in a way that harms or endangers others:** a correction, System Charter, Institutional Charter, or certification duty refused after notice and the resolution window. The refusal alone is a defect and supports only rung 1. It supports a higher rung only together with a risk finding under **CI-13.2** (*Findings before any order*) item 2.
 
 An allegation, a reputation, a label, a belief, or an [Interim Hold](../core_05_band_accountability.md#interim-hold) is not a ground. Nothing here changes the Interim Hold, which stays directed at a named sentient and never reaches the existence or operation of a whole Chartered Party. The Chartered Party's consequence liaison is told at opening and cooperates under the duties above. Affected stakeholders get notice and the challenge pathways in the published record.
 
@@ -114,20 +114,20 @@ Before ordering any rung of the ladder, the lead forum records, with reasons:
 5. **Dependents:** who relies on the Chartered Party for survival, custody, income, information, or exit, and what protects them while the order runs.
 6. **Protection first:** what interim steps keep affected sentients safe while the matter runs.
 
-<a id="ci-133-notice-response-and-cure"></a>
-## CI-13.3: Notice, response, and cure
+<a id="ci-133-notice-response-and-resolution"></a>
+## CI-13.3: Notice, response, and resolution
 
-*In plain terms: the Chartered Party is told what is wrong and what a cure looks like, gets a week to answer and thirty days to fix it, and a verified cure ends the matter.*
+*In plain terms: the Chartered Party is told what is wrong and what a resolution looks like, gets a week to answer and thirty days to fix it, and a verified resolution ends the matter.*
 
-The Chartered Party is told what is wrong, answers, and gets a bounded window to cure, on these terms:
+The Chartered Party is told what is wrong, answers, and gets a bounded window to resolve it, on these terms:
 
-1. **Notice** states the ground, the risk finding, the proposed rung, the evidence relied on, the route to respond, and what a cure would look like.
-2. **Response:** the Chartered Party has 7 days to answer, contest the facts, or propose a cure plan. This matches the clock in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check).
-3. **Cure window:** 30 days from notice, with one extension of up to 30 days only on a showing of good-faith progress and no continuing harm. A sentient outside the Chartered Party's control line verifies the cure.
+1. **Notice** states the ground, the risk finding, the proposed rung, the evidence relied on, the route to respond, and what a resolution would look like.
+2. **Response:** the Chartered Party has 7 days to answer, contest the facts, or propose a resolution plan. This matches the clock in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check).
+3. **Resolution window:** 30 days from notice, with one extension of up to 30 days only on a showing of good-faith progress and no continuing harm. A sentient outside the Chartered Party's control line verifies the resolution.
 4. **No credit for stalling:** time spent in obstruction extends no clock. A pattern of late, partial, or cosmetic responses is itself a fact under **CI-13.1** (*Opening a consequence matter*) item 1.
-5. **Cure ends the matter:** a verified cure lifts the rung. The record stays open for a 12-month watch period only to see whether the cure holds. The watch is not a penalty.
-6. **Emergency skip:** where imminent irreversible harm is shown (Tier A under [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the forum may order emergency containment under **CI-13.8** (*Emergency containment*) without waiting for the cure window. The window then runs alongside the containment.
-7. **Clocks:** the forum decides each rung inside the tier outer bound for the matter in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). Cure windows do not count against the outer bound, but they are themselves bounded as above. An adopting instrument may publish different figures with its reasons and may not exceed the tier outer bounds.
+5. **Resolution ends the matter:** a verified resolution lifts the rung. The record stays open for a 12-month watch period only to see whether the resolution holds. The watch is not a penalty.
+6. **Emergency skip:** where imminent irreversible harm is shown (Tier A under [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the forum may order emergency containment under **CI-13.8** (*Emergency containment*) without waiting for the resolution window. The window then runs alongside the containment.
+7. **Clocks:** the forum decides each rung inside the tier outer bound for the matter in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). Resolution windows do not count against the outer bound, but they are themselves bounded as above. An adopting instrument may publish different figures with its reasons and may not exceed the tier outer bounds.
 
 <a id="ci-134-correction-and-constrained-authority"></a>
 ## CI-13.4: Correction and constrained authority
@@ -143,7 +143,7 @@ The Chartered Party is told what is wrong, answers, and gets a bounded window to
 | 5 | Receivership or structural separation | Carves the material activity out to an independent successor; what remains may stay Class P. |
 | 6 | Dissolution | Orderly wind-down, after continuity transfer and remedy. |
 
-Each rung carries a duration limit, a review cadence, restoration conditions, stated reasons, and a route to independent review ([Article XX-B](../core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*) and [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)). The forum moves up a rung when the cure window lapses without a verified cure, when it finds on the record that the lighter rung cannot work, or when resistance of the kind in **CI-13.1** (*Opening a consequence matter*) item 1 recurs. It moves down or out when a cure is verified. It may skip rungs only on the emergency showing in **CI-13.3** (*Notice, response, and cure*) item 6.
+Each rung carries a duration limit, a review cadence, restoration conditions, stated reasons, and a route to independent review ([Article XX-B](../core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*) and [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)). The forum moves up a rung when the resolution window lapses without a verified resolution, when it finds on the record that the lighter rung cannot work, or when resistance of the kind in **CI-13.1** (*Opening a consequence matter*) item 1 recurs. It moves down or out when a resolution is verified. It may skip rungs only on the emergency showing in **CI-13.3** (*Notice, response, and resolution*) item 6.
 
 - **Rung 1, directed correction:** named fixes, each with an owner, a deadline, and a verification test; disclosure to the forum and affected stakeholders; monitoring by a verifier outside the Chartered Party's control line.
 - **Rung 2, constrained authority:** for a stated period the forum may require dual keys or independent co-holders on named authorities; escrow or segregation of named funds, weights, records, or keys; an independent countersign on named acts; or suspension of a named function inside the Chartered Party. These are the lighter measures of the ladder in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](../core_13_forum.md#interim-hold-on-a-named-sentients-pathway), applied to the Chartered Party's functions and not to a named sentient. A restriction that reaches a named sentient's own authority goes to the forum with jurisdiction over that sentient, under the Interim Hold and the standing-lock rules, and not to this rung.
@@ -175,8 +175,8 @@ Each rung carries a duration limit, a review cadence, restoration conditions, st
 - Operating Parties that only share funding, premises, vendors, or members are not one operation, and the order does not reach them.
 
 **Term, review, and re-expansion:**
-- The order has a default term of 24 months and is reviewed at least every 6 months. It ends early on a verified cure of the cause, and not merely on completing the contraction.
-- The Operating Party may take up the activity again at any time. That is not a licence. Re-expansion needs a forum finding, on independent verification, that the cause is cured, and Class L duties apply from the day the Operating Party re-expands. Re-expansion without that finding is defiance of the order under **CI-13.10** (*Review, fairness, and enforcement*).
+- The order has a default term of 24 months and is reviewed at least every 6 months. It ends early on a verified resolution of the cause, and not merely on completing the contraction.
+- The Operating Party may take up the activity again at any time. That is not a licence. Re-expansion needs a forum finding, on independent verification, that the cause is resolved, and Class L duties apply from the day the Operating Party re-expands. Re-expansion without that finding is defiance of the order under **CI-13.10** (*Review, fairness, and enforcement*).
 
 <a id="ci-136-supervised-operation-and-receivership"></a>
 ## CI-13.6: Supervised operation and receivership

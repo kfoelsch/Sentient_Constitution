@@ -184,11 +184,11 @@ An incomplete record on a materially rights-collision matter is procedurally def
 - stay, narrow, suspend, or time-limit the challenged restriction to the extent needed to prevent the incomplete record from hardening into durable effect;
 - remand, reopen, or supplement the record with the missing rights-collision findings, including notice and a meaningful opportunity to be heard for materially affected parties where feasible;
 - preserve evidence, reasons, objections, and alternative-means analysis needed for later review;
-- impose interim safeguards, access restoration, monitoring, or no-action conditions while the record is being cured;
+- impose interim safeguards, access restoration, monitoring, or no-action conditions while the record is being corrected;
 - require independent or secondary review before any high-impact, Rights-Floor, constitutional, or structurally precedential restriction is reimposed, extended, or treated as settled; and
 - identify any restitution, restoration, correction, publication, or recurrence-prevention steps required because the defective record already caused material harm.
 
-Record completion may cure the procedural defect only prospectively and only if the completed record independently satisfies this section. It does not retroactively validate avoidable harm, foreclose review of interim effects, or relieve the forum from ordering practical restoration where restoration remains feasible.
+Record completion may fix the procedural defect only prospectively and only if the completed record independently satisfies this section. It does not retroactively validate avoidable harm, foreclose review of interim effects, or relieve the forum from ordering practical restoration where restoration remains feasible.
 
 ### CF-6.2.4 Sanctions, Restrictions, and Corrective Measures
 
@@ -204,11 +204,11 @@ Omission of a materially required element makes the corrective measure or restri
 - stay, vacate, narrow, suspend, or time-limit the sanction, exclusion, restriction, or corrective measure to prevent unjustified burden while the defect is addressed;
 - remand, reopen, or supplement the record with the omitted necessity, remediation, restoration, recurrence-reduction, or attribution findings;
 - restore access, standing, participation, property, status, or other impaired interests where the measure has already produced material wrongful effects;
-- require interim safeguards, monitoring, or less restrictive substitutes where some protective action remains necessary during cure;
+- require interim safeguards, monitoring, or less restrictive substitutes where some protective action remains necessary during correction;
 - require independent or secondary review before any high-impact, Rights-Floor, constitutional, structurally precedential, or hard-to-reverse measure is reimposed, extended, or treated as settled; and
 - identify restitution, correction, publication, recurrence-prevention, or accountability steps needed because the defective measure already caused material harm.
 
-Record supplementation may cure the procedural defect only prospectively and only if the supplemented record independently satisfies this section. It does not retroactively validate avoidable harm, preserve an excessive measure, or relieve the forum from ordering practical restoration where restoration remains feasible.
+Record supplementation may fix the procedural defect only prospectively and only if the supplemented record independently satisfies this section. It does not retroactively validate avoidable harm, preserve an excessive measure, or relieve the forum from ordering practical restoration where restoration remains feasible.
 
 **Prohibited sanction design.** Review bodies must not uphold measures that violate the [Anti-Degrading-Process Principle](../core_01_b_interaction_interpretation.md#anti-degrading-process-principle), including retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as a sufficient rationale. Where feasible reversibility exists, forums must prefer reversible or reviewable measures over irreversible deprivation.
 
