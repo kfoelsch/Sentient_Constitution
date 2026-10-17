@@ -102,7 +102,7 @@ Every activation must produce the restoration and post-incident evidence require
 
 *In plain terms: The recognizable abuses — emergency mode extended indefinitely without reauthorization, emergency quorum used to concentrate lasting control, and loss of docket identity or evidence custody.*
 
-The following are presumptively non-compliant unless clearly justified and cured:
+The following are presumptively non-compliant unless clearly justified and corrected:
 - indefinite emergency forum mode without reauthorization;
 - emergency quorum use that concentrates durable control;
 - loss of docket identity or chain of custody under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation);

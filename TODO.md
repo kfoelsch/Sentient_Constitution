@@ -31,6 +31,15 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-10-17 — Backup Record Authority (drafted as CF-5.7; steward sign-off needed)
+
+Context: a System Charter or Institutional Charter that leaves out the standing-record offices is now invalid (Chapter Seven §4; Chapter Ten §3.7 *A System Charter or Institutional Charter that does not name them*), and the affected records route to independent verification meanwhile. The custodian proposed a backup evaluator. Drafted as **CF-5.7** (*Backup Record Authority*): a separate office kept by the Institutional forum family (or the local forum), outside the intake triage body and the registrars, that acts as record-opening authority only (never custodian, never contest seat, no Question 2 measurement) while a System Charter or Institutional Charter has a gap, and as the default route under *No self-custody*. Chosen over placing it in a registrar "Registry" because Chapter Thirteen §2 bars the intake triage body from substituting for a merits panel on substantive outcomes. CF-5.5 gained one "does not" bullet; Chapter Ten §3.7, Chapter Seven §4, CI-3.6 field 10, and Chapter Thirteen §2.3 point to it.
+- [ ] **Sign-off:** the name, the default-route rule in *No self-custody*, and the new Chapter Thirteen §2.3 bullet (core text; Chapter Seventeen §1 heightened review applies).
+- [ ] **Drop the umbrella name:** "Registry" was dropped; revisit only if registrars and the Backup Record Authority ever need a shared parent.
+- [ ] **Sign-off, Chapter Ten §3.7 (core text):** new "sentient acting alone" bullet in *Informal and small-scope records*, and the *Segregation of duties* table now says the requesting party holds the initiating seat (it said "holds no seat"). Chapter Seventeen §1 heightened review applies. The forum fallback when no relying body exists is my drafting choice.
+- [ ] **Certification seats** still use the CI-3.2 lane-map fallback when the map is silent (CI-3.2 *Fallback for certification seats*; CI-3.6 field 11). Decide whether they follow the same invalid-Charter rule.
+- [ ] **Translations not synced** for the edited passages.
+
 ### 2026-10-13 — Institutional alignment certification (Chapter Nine Part D): drafted on a branch, signed off by the steward 2026-10-13
 
 Evaluation: [institutional-alignment-certification-evaluation](evidence/2026-10-13/institutional_alignment_certification_implementation.md) (project doc `claude/institutional-alignment-certification-evaluation.md`). Drafted on branch `docs/ch09-institutional-alignment-certification` and committed there (7fadbbe4). This is a core change touching Chapters 7, 8, 9, and 13 (Lane D). The earlier hold on core changes to Chapter Nine and Chapter Thirteen was **lifted by the steward on 2026-10-13**: the announcement will not be made until the corpus is complete, so there is no timing hold.

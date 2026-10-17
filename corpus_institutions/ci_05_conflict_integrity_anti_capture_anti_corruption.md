@@ -77,13 +77,13 @@ Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) *
 
 Each institution must maintain and publish:
 - an integrity control map naming who owns each safeguard;
-- disclosure and cure records — what must be published and the deadlines to fix problems;
+- disclosure and resolution records — what must be published and the deadlines to fix problems;
 - grave-breach forfeiture records when serious misconduct triggers loss of benefits or assets;
 - supervision rules for contingent-claim and event-market systems; and
 - escalation paths to **CI-7.2** (*External assurance triggers*) or **CI-12** (*Cross-institution coordination and escalation*) when local review lacks credible independence.
 
 Each institution must also name:
-- who publishes each disclosure category, who keeps the cure-window file, and where sanctions cases escalate (**CI-11** (*Resource stewardship and incentive integrity*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*));
+- who publishes each disclosure category, who keeps the resolution-window file, and where sanctions cases escalate (**CI-11** (*Resource stewardship and incentive integrity*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*));
 - who keeps grave-breach forfeiture records and the contest route under **CI-6** (*Procedure integrity, contestability, and secondary review*); and
 - for supervised contingent-claim or event-market systems: who governs resolution sources, how decision power is separated, and how insider-information abuse is prevented.
 

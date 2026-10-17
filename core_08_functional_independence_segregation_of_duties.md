@@ -210,7 +210,7 @@ A steward asked to take a step outside the steward's seat must:
 4. preserve evidence and the integrity of any record already received; and
 5. route without avoidable delay.
 
-That response is performance of duty, not abandonment of the act. The act proceeds through the right seat. Taking the step because the steward is nearest, fastest, senior, or uniquely knowledgeable is not a cure for a missing seat.
+That response is performance of duty, not abandonment of the act. The act proceeds through the right seat. Taking the step because the steward is nearest, fastest, senior, or uniquely knowledgeable is not a fix for a missing seat.
 
 <a id="5-published-placement-vacancy-and-substitution"></a>
 ### 5. Published Placement, Vacancy, and Substitution

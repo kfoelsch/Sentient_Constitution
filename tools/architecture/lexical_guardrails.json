@@ -93,6 +93,10 @@
     {
       "avoid": "Router read",
       "prefer": "Topic routing trace bullet inside the Trace <details> block (see router_bidirectional_sync.py)"
+    },
+    {
+      "avoid": "cure",
+      "prefer": "resolve, resolved (for cured: resolved; for curing: resolving)"
     }
   ],
   "ambiguous_labels": [

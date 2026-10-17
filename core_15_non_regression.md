@@ -118,7 +118,7 @@ Invalidity includes indirect narrowing through:
 
 *In plain terms: calling a rollback "implementation guidance," burying it in metadata, or calling it an emergency patch does not save it if the real-world effect is the same as a bad amendment — and serious bad-faith conduct has to be flagged upstream to the bodies that actually own labels and sanctions, not relabeled here.*
 
-Repackaging a regressive change as any of the following does not cure invalidity:
+Repackaging a regressive change as any of the following does not fix invalidity:
 - interpretation guidance;
 - implementation memo;
 - adoption metadata; or

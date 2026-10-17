@@ -1498,7 +1498,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Secondary assessment:** Distinguish ordinary coordination from practical control. Ask whether the seat can access and preserve evidence, apply the governing standard, decline or condition the act, route a challenge, and seek correction without permission, suppression, or retaliation by an interested party.
 <a id="material-control-line-c"></a>
 - **What must hold**
-  - **Primary failure:** Where a governing rule requires independence, a seat is non-compliant if it sits within the Material Control Line of the initiating seat or a materially interested party. Indirect control through an affiliate, contractor, committee, proxy, technical administrator, or automated system does not cure the failure.
+  - **Primary failure:** Where a governing rule requires independence, a seat is non-compliant if it sits within the Material Control Line of the initiating seat or a materially interested party. Indirect control through an affiliate, contractor, committee, proxy, technical administrator, or automated system does not resolve the failure.
   - **Secondary failure:** It is non-compliant to treat a seat as independent solely because it has a different title, office, employer, legal entity, signature, or nominal recusal while material practical control remains. It is also non-compliant to assert a Material Control Line from shared infrastructure, administrative support, appointment history, or another relationship alone without showing practical power material to the act.
 
 ---
@@ -1540,7 +1540,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     3. contact between interested parties and those deciding or supporting the matter was recorded and disclosed under the applicable rules, with open advocacy on the record left available.
 <a id="interested-party-c"></a>
 - **What must hold**
-  - **Primary failure:** Treat a party with a material stake as not interested because of its title, legal entity, intermediary, nominal arm's length, or because it did not appear in the matter. Indirect interest through an affiliate, funder, contractor, proxy, or automated system does not cure the failure.
+  - **Primary failure:** Treat a party with a material stake as not interested because of its title, legal entity, intermediary, nominal arm's length, or because it did not appear in the matter. Indirect interest through an affiliate, funder, contractor, proxy, or automated system does not resolve the failure.
   - **Secondary failure:** Use interested-party status as a ground to keep an affected sentient from being heard, or assert the status from a general public interest, advice, or shared infrastructure alone without showing a material stake in the particular matter.
 
 ---
@@ -3191,7 +3191,7 @@ See **Anti-Segmentation Principle**.
       - a challenger; or
       - an office in their control line.
 
-      Where the subject holds a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter), that instrument names or points to both; where it is silent, the **CI-3.2** (*Functional separation lanes*) lane map governs.
+      Where the subject holds a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter), that instrument names or points to both. A System Charter or Institutional Charter that leaves either unnamed is invalid until it is resolved, and meanwhile the Chartered Party's own offices cannot issue a valid record for the affected scope ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)).
     - Chapter Five pointer; canonical concept: Chapter Ten §2.1 (*What Question 1 must establish*); operational requirements: Chapter Ten §3 (*Verification and record requirements*).
     - A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
   - **Out of scope:**
@@ -3591,7 +3591,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:**
     - Evaluate:
       - combined constitutional gravity;
-      - continuation after a reasonable chance for good-faith cure when cure is feasible;
+      - continuation after a reasonable chance for good-faith resolution when resolution is feasible;
       - institutional scale;
       - capture;
       - durability; and

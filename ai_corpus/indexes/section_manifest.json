@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-17T09:51:01+00:00",
+  "generated_at": "2026-10-17T18:29:42+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -635,9 +635,9 @@
       ]
     },
     "core_07_charters.md": {
-      "total_lines": 574,
+      "total_lines": 580,
       "sections": [
-        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":574,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":580,"anchor":"#chapter-seven-system-and-institutional-charters"},
         {"header":"1. When System and Institutional Charters Are Required","level":3,"line_start":41,"line_end":208,"anchor":"#1-when-system-and-institutional-charters-are-required"},
         {"header":"1.1 Who must publish","level":4,"line_start":78,"line_end":94,"anchor":"#11-who-must-publish"},
         {"header":"1.2 Which classes are covered","level":4,"line_start":95,"line_end":103,"anchor":"#12-which-classes-are-covered"},
@@ -647,12 +647,12 @@
         {"header":"1.6 The process at a glance","level":4,"line_start":161,"line_end":208,"anchor":"#16-the-process-at-a-glance"},
         {"header":"2. The Right to Form, and Three Narrow Limits","level":3,"line_start":209,"line_end":251,"anchor":"#2-the-right-to-form-and-three-narrow-limits"},
         {"header":"3. What System and Institutional Charters Must State","level":3,"line_start":252,"line_end":313,"anchor":"#3-what-system-and-institutional-charters-must-state"},
-        {"header":"4. The Charter Role Map and Standing-Record Custody","level":3,"line_start":314,"line_end":364,"anchor":"#4-the-charter-role-map-and-standing-record-custody"},
-        {"header":"5. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":365,"line_end":446,"anchor":"#5-formation-check-office-holder-standing-and-authenticity"},
-        {"header":"6. When a Holder Fails the Check","level":3,"line_start":447,"line_end":481,"anchor":"#6-when-a-holder-fails-the-check"},
-        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":482,"line_end":515,"anchor":"#7-amendment-review-and-scope-misalignment"},
-        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":516,"line_end":540,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
-        {"header":"9. Relationship to Other Chapters","level":3,"line_start":541,"line_end":574,"anchor":"#9-relationship-to-other-chapters"}
+        {"header":"4. The Charter Role Map and Standing-Record Custody","level":3,"line_start":314,"line_end":370,"anchor":"#4-the-charter-role-map-and-standing-record-custody"},
+        {"header":"5. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":371,"line_end":452,"anchor":"#5-formation-check-office-holder-standing-and-authenticity"},
+        {"header":"6. When a Holder Fails the Check","level":3,"line_start":453,"line_end":487,"anchor":"#6-when-a-holder-fails-the-check"},
+        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":488,"line_end":521,"anchor":"#7-amendment-review-and-scope-misalignment"},
+        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":522,"line_end":546,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
+        {"header":"9. Relationship to Other Chapters","level":3,"line_start":547,"line_end":580,"anchor":"#9-relationship-to-other-chapters"}
       ]
     },
     "core_08_functional_independence_segregation_of_duties.md": {
@@ -814,9 +814,9 @@
       ]
     },
     "core_10_standing_assessment.md": {
-      "total_lines": 979,
+      "total_lines": 984,
       "sections": [
-        {"header":"CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT","level":1,"line_start":2,"line_end":979,"anchor":"#chapter-ten-compliance-violation-and-standing-model"},
+        {"header":"CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT","level":1,"line_start":2,"line_end":984,"anchor":"#chapter-ten-compliance-violation-and-standing-model"},
         {"header":"1. The three questions","level":3,"line_start":47,"line_end":88,"anchor":"#1-the-three-questions"},
         {"header":"1.1 Purpose and scope","level":4,"line_start":65,"line_end":88,"anchor":null},
         {"header":"2. Question 1 — what happened?","level":3,"line_start":89,"line_end":232,"anchor":"#2-question-1--what-happened"},
@@ -825,30 +825,30 @@
         {"header":"2.3 Question 1 event-type guide — what kind of help or harm occurred?","level":4,"line_start":179,"line_end":232,"anchor":"#23-question-1-event-type-guide--what-kind-of-help-or-harm-occurred"},
         {"header":"2.3.1 Contribution event types","level":5,"line_start":185,"line_end":207,"anchor":"#231-contribution-event-types"},
         {"header":"2.3.2 Violation event types","level":5,"line_start":208,"line_end":232,"anchor":"#232-violation-event-types"},
-        {"header":"3. Verification and record requirements","level":3,"line_start":233,"line_end":492,"anchor":"#3-verification-and-record-requirements"},
+        {"header":"3. Verification and record requirements","level":3,"line_start":233,"line_end":497,"anchor":"#3-verification-and-record-requirements"},
         {"header":"3.1 Minimum record contents","level":4,"line_start":251,"line_end":332,"anchor":"#31-minimum-record-contents"},
         {"header":"3.2 Related record cross-references","level":4,"line_start":333,"line_end":348,"anchor":"#32-related-record-cross-references"},
         {"header":"3.3 Collective and actor-specific records","level":4,"line_start":349,"line_end":359,"anchor":"#33-collective-and-actor-specific-records"},
         {"header":"3.4 Versioning","level":4,"line_start":360,"line_end":373,"anchor":"#34-versioning"},
         {"header":"3.5 Implementation tools","level":4,"line_start":374,"line_end":379,"anchor":"#35-implementation-tools"},
         {"header":"3.6 Forum boundary","level":4,"line_start":380,"line_end":395,"anchor":"#36-forum-boundary"},
-        {"header":"3.7 Record custody and opening authority","level":4,"line_start":396,"line_end":492,"anchor":"#37-record-custody-and-opening-authority"},
-        {"header":"4. Question 2 — how good or bad was it?","level":3,"line_start":493,"line_end":757,"anchor":"#4-question-2-how-good-or-bad-was-it"},
-        {"header":"4.1 Contribution magnitude-input dimensions","level":4,"line_start":541,"line_end":574,"anchor":"#41-contribution-magnitude-input-dimensions"},
-        {"header":"4.2 Violation severity-input dimensions","level":4,"line_start":575,"line_end":613,"anchor":"#42-violation-severity-input-dimensions"},
-        {"header":"4.3 Contribution route descriptor catalog and measurement roles","level":4,"line_start":614,"line_end":643,"anchor":"#43-contribution-route-descriptor-measurement-roles"},
-        {"header":"4.4 Violation route descriptor catalog and measurement roles","level":4,"line_start":644,"line_end":671,"anchor":"#44-violation-route-descriptor-catalog-and-measurement-roles"},
-        {"header":"4.5 Cross-question measurement hooks","level":4,"line_start":672,"line_end":708,"anchor":"#45-dual-use-classification-hooks"},
-        {"header":"4.5.1 Similar-looking facts that must stay separate","level":5,"line_start":696,"line_end":708,"anchor":"#451-similar-looking-facts-that-must-stay-separate"},
-        {"header":"4.6 Measurement illustrations","level":4,"line_start":709,"line_end":757,"anchor":"#46-question-2-measurement-illustrations"},
-        {"header":"5. Slot grammar and shared scaling","level":3,"line_start":758,"line_end":840,"anchor":"#5-slot-grammar-and-lequ-calibration"},
-        {"header":"5.1 Table 1 — slot display labels","level":4,"line_start":778,"line_end":812,"anchor":"#51-table-1--slot-display-labels"},
-        {"header":"5.2 Shared impact-scaling rules","level":4,"line_start":813,"line_end":840,"anchor":"#52-shared-impact-scaling-rules"},
-        {"header":"6. Constitutional inputs to axis assignment","level":3,"line_start":841,"line_end":896,"anchor":"#6-constitutional-inputs-to-axis-assignment"},
-        {"header":"6.1 Definition inputs","level":4,"line_start":856,"line_end":870,"anchor":"#61-definition-inputs"},
-        {"header":"6.2 Principle inputs","level":4,"line_start":871,"line_end":882,"anchor":"#62-principle-inputs"},
-        {"header":"6.3 Rights-Floor and Article inputs","level":4,"line_start":883,"line_end":896,"anchor":"#63-rights-floor-and-article-inputs"},
-        {"header":"7. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":897,"line_end":979,"anchor":"#7-unified-proportional-lequ-scale--contribution-and-violation-axes"}
+        {"header":"3.7 Record custody and opening authority","level":4,"line_start":396,"line_end":497,"anchor":"#37-record-custody-and-opening-authority"},
+        {"header":"4. Question 2 — how good or bad was it?","level":3,"line_start":498,"line_end":762,"anchor":"#4-question-2-how-good-or-bad-was-it"},
+        {"header":"4.1 Contribution magnitude-input dimensions","level":4,"line_start":546,"line_end":579,"anchor":"#41-contribution-magnitude-input-dimensions"},
+        {"header":"4.2 Violation severity-input dimensions","level":4,"line_start":580,"line_end":618,"anchor":"#42-violation-severity-input-dimensions"},
+        {"header":"4.3 Contribution route descriptor catalog and measurement roles","level":4,"line_start":619,"line_end":648,"anchor":"#43-contribution-route-descriptor-measurement-roles"},
+        {"header":"4.4 Violation route descriptor catalog and measurement roles","level":4,"line_start":649,"line_end":676,"anchor":"#44-violation-route-descriptor-catalog-and-measurement-roles"},
+        {"header":"4.5 Cross-question measurement hooks","level":4,"line_start":677,"line_end":713,"anchor":"#45-dual-use-classification-hooks"},
+        {"header":"4.5.1 Similar-looking facts that must stay separate","level":5,"line_start":701,"line_end":713,"anchor":"#451-similar-looking-facts-that-must-stay-separate"},
+        {"header":"4.6 Measurement illustrations","level":4,"line_start":714,"line_end":762,"anchor":"#46-question-2-measurement-illustrations"},
+        {"header":"5. Slot grammar and shared scaling","level":3,"line_start":763,"line_end":845,"anchor":"#5-slot-grammar-and-lequ-calibration"},
+        {"header":"5.1 Table 1 — slot display labels","level":4,"line_start":783,"line_end":817,"anchor":"#51-table-1--slot-display-labels"},
+        {"header":"5.2 Shared impact-scaling rules","level":4,"line_start":818,"line_end":845,"anchor":"#52-shared-impact-scaling-rules"},
+        {"header":"6. Constitutional inputs to axis assignment","level":3,"line_start":846,"line_end":901,"anchor":"#6-constitutional-inputs-to-axis-assignment"},
+        {"header":"6.1 Definition inputs","level":4,"line_start":861,"line_end":875,"anchor":"#61-definition-inputs"},
+        {"header":"6.2 Principle inputs","level":4,"line_start":876,"line_end":887,"anchor":"#62-principle-inputs"},
+        {"header":"6.3 Rights-Floor and Article inputs","level":4,"line_start":888,"line_end":901,"anchor":"#63-rights-floor-and-article-inputs"},
+        {"header":"7. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":902,"line_end":984,"anchor":"#7-unified-proportional-lequ-scale--contribution-and-violation-axes"}
       ]
     },
     "core_11_standing_integration.md": {
@@ -933,37 +933,37 @@
       ]
     },
     "core_13_forum.md": {
-      "total_lines": 1023,
+      "total_lines": 1024,
       "sections": [
-        {"header":"CHAPTER THIRTEEN: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":1023,"anchor":"#chapter-thirteen-forums-and-jurisdiction"},
+        {"header":"CHAPTER THIRTEEN: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":1024,"anchor":"#chapter-thirteen-forums-and-jurisdiction"},
         {"header":"1. Purpose and role — participation architecture","level":3,"line_start":46,"line_end":137,"anchor":"#1-purpose-and-role--participation-architecture"},
-        {"header":"2. Default venue and primary stakes","level":3,"line_start":138,"line_end":283,"anchor":"#2-default-venue-and-primary-stakes"},
+        {"header":"2. Default venue and primary stakes","level":3,"line_start":138,"line_end":284,"anchor":"#2-default-venue-and-primary-stakes"},
         {"header":"2.1 Lead-default limits","level":4,"line_start":211,"line_end":221,"anchor":"#21-lead-default-limits"},
         {"header":"2.2 Mixed stakes and routing asymmetry","level":4,"line_start":222,"line_end":232,"anchor":"#22-mixed-stakes-and-routing-asymmetry"},
-        {"header":"2.3 Forum case records, standing records, and contests","level":4,"line_start":233,"line_end":283,"anchor":"#23-forum-case-records-standing-records-and-contests"},
-        {"header":"3. Transfer, consolidation, and coordination — continuity and anti-capture","level":3,"line_start":284,"line_end":350,"anchor":"#3-transfer-consolidation-and-coordination--continuity-and-anti-capture"},
-        {"header":"4. Forum family definitions — accountability through adjudication","level":3,"line_start":351,"line_end":603,"anchor":"#4-forum-family-definitions--accountability-through-adjudication"},
-        {"header":"4.1 Sentient forums","level":4,"line_start":376,"line_end":401,"anchor":"#41-sentient-forums"},
-        {"header":"4.2 Technical Forum Domains","level":4,"line_start":402,"line_end":438,"anchor":"#42-technical-forum-domains"},
-        {"header":"4.3 Institutional forums","level":4,"line_start":439,"line_end":470,"anchor":"#43-institutional-forums"},
-        {"header":"4.4 Environment forums","level":4,"line_start":471,"line_end":506,"anchor":"#44-environment-forums"},
-        {"header":"4.5 Integrity forums","level":4,"line_start":507,"line_end":564,"anchor":"#45-integrity-forums"},
-        {"header":"4.6 Constitutional forums","level":4,"line_start":565,"line_end":587,"anchor":"#46-constitutional-forums"},
-        {"header":"4.7 Provisional implementation operational law","level":4,"line_start":588,"line_end":603,"anchor":"#47-provisional-implementation-operational-law"},
-        {"header":"5. Escalation and certification","level":3,"line_start":604,"line_end":837,"anchor":"#5-escalation-and-certification"},
-        {"header":"Family-to-family escalation","level":4,"line_start":621,"line_end":644,"anchor":"#7-escalation-and-certification"},
-        {"header":"Existential risk and uncertainty on the record","level":4,"line_start":645,"line_end":651,"anchor":null},
-        {"header":"Certification to **Constitutional** forums","level":4,"line_start":652,"line_end":669,"anchor":null},
-        {"header":"Technical support and preserved **Integrity** escalation","level":4,"line_start":670,"line_end":682,"anchor":null},
-        {"header":"Interim protection","level":4,"line_start":683,"line_end":696,"anchor":"#interim-protection"},
-        {"header":"Interim hold on a named sentient's pathway","level":4,"line_start":697,"line_end":743,"anchor":null},
-        {"header":"Backup routing under the anti-self-judging rule","level":4,"line_start":744,"line_end":763,"anchor":null},
-        {"header":"Sentience-status adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) implementation hook)","level":4,"line_start":764,"line_end":820,"anchor":null},
-        {"header":"Referral distinguished from expansion","level":4,"line_start":821,"line_end":828,"anchor":null},
-        {"header":"Chapter Twelve designation and independent review","level":4,"line_start":829,"line_end":837,"anchor":null},
-        {"header":"6. Timely resolution, materiality tiers, and anti-delay discipline","level":3,"line_start":838,"line_end":988,"anchor":"#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"},
-        {"header":"6.1 Emergency measures and continuation burden","level":4,"line_start":955,"line_end":988,"anchor":"#61-emergency-measures-and-continuation-burden"},
-        {"header":"7. Forum support before, during, and after review — oversight architecture","level":3,"line_start":989,"line_end":1023,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
+        {"header":"2.3 Forum case records, standing records, and contests","level":4,"line_start":233,"line_end":284,"anchor":"#23-forum-case-records-standing-records-and-contests"},
+        {"header":"3. Transfer, consolidation, and coordination — continuity and anti-capture","level":3,"line_start":285,"line_end":351,"anchor":"#3-transfer-consolidation-and-coordination--continuity-and-anti-capture"},
+        {"header":"4. Forum family definitions — accountability through adjudication","level":3,"line_start":352,"line_end":604,"anchor":"#4-forum-family-definitions--accountability-through-adjudication"},
+        {"header":"4.1 Sentient forums","level":4,"line_start":377,"line_end":402,"anchor":"#41-sentient-forums"},
+        {"header":"4.2 Technical Forum Domains","level":4,"line_start":403,"line_end":439,"anchor":"#42-technical-forum-domains"},
+        {"header":"4.3 Institutional forums","level":4,"line_start":440,"line_end":471,"anchor":"#43-institutional-forums"},
+        {"header":"4.4 Environment forums","level":4,"line_start":472,"line_end":507,"anchor":"#44-environment-forums"},
+        {"header":"4.5 Integrity forums","level":4,"line_start":508,"line_end":565,"anchor":"#45-integrity-forums"},
+        {"header":"4.6 Constitutional forums","level":4,"line_start":566,"line_end":588,"anchor":"#46-constitutional-forums"},
+        {"header":"4.7 Provisional implementation operational law","level":4,"line_start":589,"line_end":604,"anchor":"#47-provisional-implementation-operational-law"},
+        {"header":"5. Escalation and certification","level":3,"line_start":605,"line_end":838,"anchor":"#5-escalation-and-certification"},
+        {"header":"Family-to-family escalation","level":4,"line_start":622,"line_end":645,"anchor":"#7-escalation-and-certification"},
+        {"header":"Existential risk and uncertainty on the record","level":4,"line_start":646,"line_end":652,"anchor":null},
+        {"header":"Certification to **Constitutional** forums","level":4,"line_start":653,"line_end":670,"anchor":null},
+        {"header":"Technical support and preserved **Integrity** escalation","level":4,"line_start":671,"line_end":683,"anchor":null},
+        {"header":"Interim protection","level":4,"line_start":684,"line_end":697,"anchor":"#interim-protection"},
+        {"header":"Interim hold on a named sentient's pathway","level":4,"line_start":698,"line_end":744,"anchor":null},
+        {"header":"Backup routing under the anti-self-judging rule","level":4,"line_start":745,"line_end":764,"anchor":null},
+        {"header":"Sentience-status adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) implementation hook)","level":4,"line_start":765,"line_end":821,"anchor":null},
+        {"header":"Referral distinguished from expansion","level":4,"line_start":822,"line_end":829,"anchor":null},
+        {"header":"Chapter Twelve designation and independent review","level":4,"line_start":830,"line_end":838,"anchor":null},
+        {"header":"6. Timely resolution, materiality tiers, and anti-delay discipline","level":3,"line_start":839,"line_end":989,"anchor":"#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"},
+        {"header":"6.1 Emergency measures and continuation burden","level":4,"line_start":956,"line_end":989,"anchor":"#61-emergency-measures-and-continuation-burden"},
+        {"header":"7. Forum support before, during, and after review — oversight architecture","level":3,"line_start":990,"line_end":1024,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
       ]
     },
     "core_10-13_application_vignettes.md": {
@@ -1903,7 +1903,7 @@
         {"header":"CI-13: Institutional failure, sanctions, dissolution, and accountability","level":1,"line_start":1,"line_end":268,"anchor":null},
         {"header":"CI-13.1: Opening a consequence matter","level":2,"line_start":75,"line_end":103,"anchor":"#ci-131-opening-a-consequence-matter"},
         {"header":"CI-13.2: Findings before any order","level":2,"line_start":104,"line_end":117,"anchor":"#ci-132-findings-before-any-order"},
-        {"header":"CI-13.3: Notice, response, and cure","level":2,"line_start":118,"line_end":132,"anchor":"#ci-133-notice-response-and-cure"},
+        {"header":"CI-13.3: Notice, response, and resolution","level":2,"line_start":118,"line_end":132,"anchor":"#ci-133-notice-response-and-resolution"},
         {"header":"CI-13.4: Correction and constrained authority","level":2,"line_start":133,"line_end":151,"anchor":"#ci-134-correction-and-constrained-authority"},
         {"header":"CI-13.5: Contraction order","level":2,"line_start":152,"line_end":181,"anchor":"#ci-135-contraction-order"},
         {"header":"CI-13.6: Supervised operation and receivership","level":2,"line_start":182,"line_end":192,"anchor":"#ci-136-supervised-operation-and-receivership"},
@@ -2069,15 +2069,16 @@
       ]
     },
     "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md": {
-      "total_lines": 198,
+      "total_lines": 238,
       "sections": [
-        {"header":"CF-5: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":198,"anchor":null},
-        {"header":"CF-5.1 Published intake classes","level":2,"line_start":59,"line_end":67,"anchor":null},
-        {"header":"CF-5.2 Intake triage body","level":2,"line_start":68,"line_end":86,"anchor":null},
-        {"header":"CF-5.3 Natural-systems representatives","level":2,"line_start":87,"line_end":102,"anchor":null},
-        {"header":"CF-5.4 Capacity-failure routing","level":2,"line_start":103,"line_end":118,"anchor":"#cf-54-capacity-failure-routing"},
-        {"header":"CF-5.5 Institutional and local registrars","level":2,"line_start":119,"line_end":155,"anchor":"#cf-55-institutional-and-local-registrars"},
-        {"header":"CF-5.6 Integrity registrar","level":2,"line_start":156,"line_end":198,"anchor":"#cf-56-integrity-registrar"}
+        {"header":"CF-5: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":238,"anchor":null},
+        {"header":"CF-5.1 Published intake classes","level":2,"line_start":60,"line_end":68,"anchor":null},
+        {"header":"CF-5.2 Intake triage body","level":2,"line_start":69,"line_end":87,"anchor":null},
+        {"header":"CF-5.3 Natural-systems representatives","level":2,"line_start":88,"line_end":103,"anchor":null},
+        {"header":"CF-5.4 Capacity-failure routing","level":2,"line_start":104,"line_end":119,"anchor":"#cf-54-capacity-failure-routing"},
+        {"header":"CF-5.5 Institutional and local registrars","level":2,"line_start":120,"line_end":157,"anchor":"#cf-55-institutional-and-local-registrars"},
+        {"header":"CF-5.6 Integrity registrar","level":2,"line_start":158,"line_end":196,"anchor":"#cf-56-integrity-registrar"},
+        {"header":"CF-5.7 Backup Record Authority","level":2,"line_start":197,"line_end":238,"anchor":"#cf-57-backup-record-authority"}
       ]
     },
     "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md": {
