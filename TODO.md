@@ -31,6 +31,20 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-10-18 — Time windows, Document at Action, and the CS-4 rewrite: committed on a branch; follow-ups
+
+Records: project docs `claude/promptly-alignment-with-time-windows-evaluation.md`, `claude/time-window-urgency-complexity-matrix-evaluation.md`, `claude/time-window-names-evaluation.md`, `claude/dissolution-procedure-draft.md`; Test 1 note [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md) (link it from the pull request). See the thirty-second to forty-sixth moves in [doc_architecture.md](doc_architecture.md). The work is on branch `docs/time-windows-ref-audit-cs4-rewrite`.
+
+- [ ] **Sign-off, core wording:** Chapter Thirteen §6 (30 / 60 / 90-day bounds, time-scale levels, Emergency level, prompt-review window, calendar certification intervals), the 14-day "reasonable" uses (Article II-E, Article XVIII-C), and Chapter One §16.4 Document at Action. Chapter Seventeen §1 heightened review applies to the Chapter Thirteen edits.
+- [ ] **Confirm the record-update reading:** CS-2 §8.5 and CS-3 §7.5 now check the System Data Types Record and System Classification Record on the certification interval. That can read as looser than "promptly once changed conditions are recognized". The Test 1 note treats it as a Lane C operational duty, not Rights Floor text, and says how to revert.
+- [ ] **Confirm CF-11.3.2 and CF-12.6:** the fallback bound (the fuller reasoned record is due no later than the matter's tier outer bound) is a drafting addition, and "reasons are recorded as part of the decision" is a small tightening for forums.
+- [ ] **Not read, for the restricted information office (CF-5.8):** CF-12, CF-13, Article XIV-A, Article XVI-A, CJS-3.13, CJS-3.22, and Chapter Ten §3.1. Its backup route relies on CF-5.4. Also check the name against the corpus's "restricted evidence" and "Type S" terms.
+- [ ] **Names not yet in CJS-0.4** (Charter Due Date, Receipt, Completion, and Register-Entry windows, Contraction Review Interval, Attachment Spell Ceiling, Currentness Half-Life and Cutoff, and the groups in the names evaluation §4E and §4F). Check which "declaration window" is meant (NUL-1 or CI-14.4) before relying on the name, and recheck the classification-challenge sense of "response window".
+- [ ] **Optional audit rule:** TIME-REF-01 checks that a bound is named, not that it is the right one. A rule that review of a measure in force must name the prompt-review window would catch the next CI-13.8.
+- [ ] **Chapter Five definitions** for *complexity level*, *Emergency level*, and *Document at Action*: not added, by decision. Add one only if a core rule needs to cite the term (Lane D).
+- [ ] **Delete the old local branch** `docs/ch13-prompt-review-cul-nul-windows` (its commit `b0c6021f` is contained in the new branch).
+- [ ] **Translations not synced:** the old week-based figures, the old names, CS-4 numbering, and Chapter One §16.4 are missing in `translations/`. Updated after the announcement.
+
 ### 2026-10-17 — Backup Record Authority (drafted as CF-5.7; steward sign-off needed)
 
 Context: a System Charter or Institutional Charter that leaves out the standing-record offices is now invalid (Chapter Seven §4; Chapter Ten §3.7 *A System Charter or Institutional Charter that does not name them*), and the affected records route to independent verification meanwhile. The custodian proposed a backup evaluator. Drafted as **CF-5.7** (*Backup Record Authority*): a separate office kept by the Institutional forum family (or the local forum), outside the intake triage body and the registrars, that acts as record-opening authority only (never custodian, never contest seat, no Question 2 measurement) while a System Charter or Institutional Charter has a gap, and as the default route under *No self-custody*. Chosen over placing it in a registrar "Registry" because Chapter Thirteen §2 bars the intake triage body from substituting for a merits panel on substantive outcomes. CF-5.5 gained one "does not" bullet; Chapter Ten §3.7, Chapter Seven §4, CI-3.6 field 10, and Chapter Thirteen §2.3 point to it.
@@ -54,7 +68,7 @@ The steward signed off the drafted defaults on 2026-10-13; the item is archived 
 Note: [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md). The Chapter Nine hold was lifted on 2026-10-13 (see the entry above).
 
 The steward signed off the drafted defaults on 2026-10-13; the item is archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
-- [ ] **Not done:** Chapter Five entries (none added), Chapter Thirteen routing for readiness findings, translations. (The emergency-substitution window default in CI-3.6 was added 2026-10-17.)
+- [ ] **Not done:** Chapter Five entries (none added), Chapter Thirteen routing for readiness findings, translations.
 
 ### 2026-10-13 — Article XI-E two narrow gates and the Institutional Authority Standing Lock: drafted on the same branch, signed off by the steward 2026-10-13, awaiting heightened review
 
@@ -108,28 +122,9 @@ Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editin
 - [ ] **Align the Chapter One §4 and §5 heading parentheticals** ("Safety (Harm Constraint)", "Truth (Epistemic Integrity Constraint)") with the defined labels. Changes heading anchors, so check inbound links first.
 - [ ] **Nest the §12.5 vocabulary** under the contingent-settlement cluster; fold Capture of Resolution Pathways into System Capture.
 
-### 2026-10-01 — Chapter One principles and Chapter Five definitions: already covered
+### 2026-10-01 — Chapter One principles and Chapter Five definitions: decided; one potential item open
 
-**Finding.** 19 Chapter One principles have no same-named Chapter Five definition, but none is unmeasured. Each is measured through 3 to 10 existing definitions, listed in its Definitions · Assessment · Compliance widget (data: `referenced_principles` in `evidence/2026-10-01/ch1_ch5_audit_log_2026-10-01.json`). This follows the corpus's own layering: principles sit above definitions (**CH5-HIER-01**), and Chapter Five admits a constitutional concept with an O/M/A/C boundary, not a principle statement (admission gate; no duplicate definitions across layers). A definition for each principle would duplicate measures that already exist. **Decision 2026-10-01:** do not add them. This replaces the earlier plan to add 16 candidates, which came from a name search, not from coverage.
-
-**Where each is measured (existing definitions)**
-
-- §3.2 Recognition, Reinforcement, and Aspiration: Wellbeing, Participation, Substantive Fairness, Contestability, Meaningful Agency, Incentive Alignment.
-- §3.3 Anti-Degrading Process: Cruelty (the section names it as the Chapter Five home), Dignity and Equal Moral Standing, Harm, Proportionality, Contestability.
-- §3.3 Science-Informed Inquiry: Epistemic Integrity, Truth (Constitutional Constraint), Risk, Foreseeability, Materiality, Classification-Scaled Governance.
-- §7.3 Dissent and Peaceful Protest: Assembly, Freedom (Bounded Agency), Meaningful Agency, Necessity, Proportionality (owner floor: Article XI-D).
-- §5.5 Institutional Secularism: Governance, Protected Characteristics, Non-Imposition (Cooperative Interaction), Necessity, Proportionality (Article XI-A).
-- §14 Prohibition on Absolute Override: Necessity, Proportionality, Harm Minimization (Tradeoff Selection), Materiality, Proxy Divergence.
-- §16.2 Institutional Development: Strategic Stewardship Obligation, Auditability, Verifiability, Materiality.
-- §16.3 Openness Aspiration: Meaningful Agency, Contestability, Dependency, Materiality.
-- §17.2 Alignment Under Pressure: Stewardship, Incentive Alignment, Safety, Truth, Auditability, Contestability.
-- §17.3 Logging the Role, Not the Steward: Attributable Action, Auditability, Surveillance Boundary, Protected Internal-State Boundary.
-- §17.4 Aligned Self-Organization: System Creation, Protected Reporting, Evidence Preservation, Foreseeability, Merits Determination, Necessity, Proportionality.
-- §18.3 Segregation of Duties: Oversight, Accountability, Auditability, Contestability, Stewardship, Proportionality; the four seats are defined under Materially Binding Act and its cluster (Initiating Seat, Contest Seat, and the rest).
-- §18.4 Ongoing Justification: Review and Correction Duty, Governance, Oversight, Accountability, Contestability, Timeliness, Transparency.
-- §12.6 Successor Responsibility: Accountability, Attributable Action, Attribution Integrity, Necessity, Proportionality.
-- §11.2 Pro-Competition and Anti-Domination and §11.3 Consolidation Ceiling: Market Structure, Market Concentration Threshold, Systemic Lock-In, Dependency, Contestability, Governance, Stewardship (operational homes: CJS-3.11.1 to 3.11.3).
-- §20 Integrated Application: Authority Stack and Internal Hierarchy, Corpus, Governance, Accountability, Anti-Capture, System Capture, and others.
+The finding and the decision (2026-10-01: do not add same-named Chapter Five definitions for principles) are archived in [TODO_RESOLVED_2026-10-18.md](archive/TODO_RESOLVED_2026-10-18.md). Chapter One §16.4 Document at Action (2026-10-18) follows the same decision: it has no same-named definition and is measured through Auditability, Transparency, Attributable Action, Contestability, Materiality, Dependency, Avoidable Burden, and Surveillance Boundary.
 
 **Potential: principle-to-definitions map.** If the goal is consistency a reader can see, a generated map from each principle to its measuring definitions does that without new definitions. The audit's traceability matrix (`evidence/2026-10-01/ch1_ch5_traceability_matrix_2026-10-01.csv`) has the data; `make hierarchy-map` or a reader guide could publish it.
 
@@ -221,6 +216,7 @@ Keep this active file limited to editor checks, current open work, and short arc
 
 ## Archives
 
+- **2026-10-18 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-18.md](archive/TODO_RESOLVED_2026-10-18.md)
 - **2026-10-14 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-14.md](archive/TODO_RESOLVED_2026-10-14.md)
 - **2026-10-13 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md)
 - **2026-10-03 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-03.md](archive/TODO_RESOLVED_2026-10-03.md)
