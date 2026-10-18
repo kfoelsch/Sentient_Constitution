@@ -3363,6 +3363,7 @@ See **Anti-Segmentation Principle**.
       - **governance-voting**; or
       - **stakeholder-participation**.
     - A lock on taking or exercising governing, controlling, or owning authority in an institution or enterprise, after a verified violation carried out through one, is the Institutional Authority Standing Lock under [Chapter Eleven §5.5 Special locks](core_11_standing_integration.md#55-special-locks).
+    - A lock on the return of an Operating Party that a final dissolution order has ended is the Dissolution Reformation Lock under [Chapter Eleven §5.5 Special locks](core_11_standing_integration.md#55-special-locks). It sits on the dissolved Chartered Party and its successor vehicles and not on a sentient. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise restorable.
     - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05_band_participation.md#stakeholder) status, or a substitute for the other named pathway.
   - **Out of scope:**
     - A lock from unverified allegations. The interim measure for probable cause is an [Interim Hold](core_05_band_accountability.md#interim-hold), which is not a lock.

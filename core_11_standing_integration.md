@@ -197,6 +197,8 @@ Where verified stakeholder-pathway corruption, capture, false-stake abuse, or co
 
 Where a verified violation was carried out through an institution or enterprise, or an office in one, apply the [Institutional Authority Standing Lock](#55-special-locks) under [§5.5 Special locks](#55-special-locks). It closes the authority pathway only, and it attaches to a verified finding and never to probable cause.
 
+Where a final dissolution order ends a Chartered Party, apply the [Dissolution Reformation Lock](#55-special-locks) under [§5.5 Special locks](#55-special-locks). It attaches to the dissolved Chartered Party and its successor vehicles and never to a sentient by reason of belonging to it. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise it lifts on an independent restoration finding.
+
 The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or named pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
 
 1. **Containment** — stop the same harm from continuing through the same setting or named pathways;
@@ -565,6 +567,30 @@ These locks are mandatory when their verified trigger is met. Each must be recor
   - Under [§5.1 Definition and attachment](#51-definition-and-attachment), keep the sentient isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
 - **Read with:** [Chapter Twelve §4.2](core_12_a_misconduct_designation.md#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*) for the extra rules on restricting liberty or imprisonment that apply only after a final anti-constitutional misconduct designation. The Trust Lock rules themselves stay in this subsection.
 
+**Dissolution Reformation Lock.** Trigger: a final dissolution order under **CI-13.7** (*Dissolution*). The subject is the dissolved Chartered Party and not any sentient who belonged to it. The order sets the lock on the same two-key decision and records it, with the permanence ground under [§8 Restoration and reassessment](#8-restoration-and-reassessment) if it rests on one.
+
+- **Named pathway:**
+  - re-forming, reviving, re-registering, or running the dissolved Chartered Party, under any name or form;
+  - its successors, controlled entities, and any nominee-, shell-, or proxy-held vehicle through which the same activity would go on under the same centre of power; and
+  - any Operating Party that is one operation with any of them under the common-control test in [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality).
+  - The lock follows the activity and the control, not the label. A change of name, form, seat, or holder does not take a vehicle outside it ([§9.4 Anti-evasion and look-through authority](#94-anti-evasion-and-look-through-authority)).
+- **Does not by itself restrict:**
+  - any sentient forming or leading a different Operating Party, including one that does similar work, so long as it is not one of the vehicles above and no lock on that sentient bars it;
+  - members, workers, and dependents of the dissolved Chartered Party joining, working in, or being served by another Operating Party;
+  - the receiver, liquidator, or successor that the dissolution order itself names to carry services, records, and challenge pathways forward;
+  - the remedy, accounting, and records duties the order sets, which outlast the dissolution; or
+  - the Rights Floor, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
+- **Risk:** the same Operating Party, under the same control, coming back under a new name or form after a forum has found that nothing short of ending it protects others.
+- **Protected subjects or interests:** the sentients the dissolved Chartered Party harmed or endangered, the dependents moved to receivers, and the integrity of the dissolution order and of the forum that made it.
+- **Corrective conditions:**
+  - **Permanent form:** where the order records pervasive anti-constitutional conduct or unremedied Irreversible Harm under [§8 Restoration and reassessment](#8-restoration-and-reassessment), nothing runs with time. Passage of time, apology, a resolved cause, prior contribution, capital, a change of holders, or a change of name or form cannot lift the lock by itself. It ends only on a published finding of independent review that the dissolution order was set aside under **CI-13.10** (*Review, fairness, and enforcement*) or that material new verified facts show the finding it rested on was wrong.
+  - **Restorable form:** where the order records neither ground, the lock ends on a published finding of independent review that the cause the order found is resolved, the remedy owed is delivered, the safeguards that would stop a repeat are in place, and a return is safer than continued exclusion for the protected interests. Apology, prior contribution, capital, or a change of name or form cannot satisfy that finding by itself.
+- **Review route:** independent review outside the dissolved Chartered Party, outside the issuing panel, and outside any body whose authority the lock limits.
+- **Reassessment point:** for the permanent form, a set-aside of the order or material new verified facts that bear on the finding it rested on. For the restorable form, the restoration finding above, or the same two events. Time alone is not one. The permanent form keeps the review path that [§5.1 Definition and attachment](#51-definition-and-attachment) requires: it is permanent as to the dissolved Chartered Party and stays open to correction of an error.
+- **Gate effect:** While the lock stands, the outstanding-lock gate in [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) applies to the dissolved Chartered Party and the vehicles named above, and to any sentient who would take or exercise governing, controlling, or owning authority in one of them. It does not apply to a different Operating Party. The party that says a vehicle is caught bears the burden of showing it, by look-through on verified facts.
+- **Systems:** For a System, the lock bars re-launching or operating the retired System, or a successor that carries on the same operation under the same steward control. It does not reach state-bearing components held in archive or sealed custody under **CS-10.8** (*Preservation during transition*), and it restricts no sentient.
+- **Non-substitution:** This lock is not a finding against any sentient who belonged to the Chartered Party. It does not replace the Institutional Authority Standing Lock, the Anti-Constitutional Trust Lock, **Chapter Twelve** designation, or remedy. Where a sentient is separately found responsible, those apply to that sentient on their own terms.
+
 <a id="56-interim-holds-and-locks"></a>
 #### 5.6 Interim holds and locks
 
@@ -783,7 +809,14 @@ Reassessment begins when the record's stated trigger is met or when material new
 5. whether continued restriction remains needed and proportionate; and
 6. whether renewed access is compatible with the Rights Floor and the protected constitutional interests.
 
-Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Repetition after otherwise completed remedy may support a recurrence-persistence lock. The special restoration rules for Forum-Service, Stakeholder-Participation, and Anti-Constitutional Trust Locks control over this general rule.
+Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Repetition after otherwise completed remedy may support a recurrence-persistence lock. The special restoration rules for Forum-Service, Stakeholder-Participation, Institutional Authority, and Anti-Constitutional Trust Locks control over this general rule. The Dissolution Reformation Lock follows the permanence rule below.
+
+**Permanent locks.** A lock is permanent only where the forum that sets it records, in the lock record and on the verified findings, one of two grounds:
+
+- **Pervasive anti-constitutional conduct:** a final [Chapter Twelve](core_12_a_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) designation, with a finding that the conduct runs through the subject's control, operation, or purpose, so that no part of the subject can be separated from it and trusted; or
+- **Unremedied Irreversible Harm:** verified [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) for which the remedy owed has not been delivered and cannot be delivered by restitution or lawful substitute restoration.
+
+Any other lock is non-permanent and keeps the restoration route above. Passage of time, apology, prior contribution, capital, or a change of holders, name, or form cannot lift a permanent lock. It stays open to review for error: a set-aside of the finding it rests on, or material new verified facts, can end it. Where later verified facts show that the remedy was in fact delivered, a lock set on the second ground is reassessed as a non-permanent lock. A permanent lock never cuts what [§5.1 Definition and attachment](#51-definition-and-attachment) says a lock does not restrict. Only the Dissolution Reformation Lock is defined here as able to be permanent. No other special lock is, and the Anti-Constitutional Trust Lock keeps its exceptional restoration route.
 
 <a id="81-rest-state-and-archival"></a>
 **Rest state and archival.** Contribution has a currentness half-life under [§6.1 Recency and currentness](#61-recency-and-currentness); a violation record must also have a rest state, or a resolved finding follows a sentient indefinitely and becomes the permanent status [Chapter Ten §2.1 What Question 1 must establish](core_10_standing_assessment.md#21-what-question-1-must-establish) forbids. Once restoration is complete and no lock, remedy duty, or correction duty remains open, the violation record leaves active integration:
@@ -970,7 +1003,7 @@ This situation is identified by the cue below and governed by the sections liste
 - **Cue:** An institution carries repeated harm, capture, or evasion, including through shells, relabeling, or successor vehicles.
 - **Routes through:**
   - [§5](#5-lock-design-and-enforcement) (*named pathway locks and institutional restrictions*);
-  - [§5.5 Special locks](#55-special-locks) (*Institutional Authority Standing Lock for the sentient who used the institution as a vehicle*);
+  - [§5.5 Special locks](#55-special-locks) (*Institutional Authority Standing Lock for the sentient who used the institution as a vehicle; Dissolution Reformation Lock for a dissolved Chartered Party that comes back as a successor vehicle*);
   - [§9.1](#91-remediation-capacity-and-funding) (*successor and funding continuity*); and
   - [§9.4 Anti-evasion and look-through authority](#94-anti-evasion-and-look-through-authority).
 - **Non-negotiable:** Actor-specific proof remains required. Relabeling, shell substitution, and formal identity changes do not defeat a verified duty. Consequences may include suspension, receivership, structural separation, dissolution, and successor-control restrictions where the verified facts warrant. A verified finding that a sentient used the institution as a vehicle for a violation triggers the Institutional Authority Standing Lock on that sentient's authority. The lock is separate from the institution-level consequences and does not replace them.
