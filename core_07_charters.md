@@ -172,7 +172,7 @@ The windows work like this:
   - **A material change:** The Chartered Party's activity changes materially.
   - **New evidence:** New evidence about a crossing is shown.
 
-  Either of the above is not a repeat. It is a new request, and the response window and the resolution window start again from its date.
+  A request that shows either of the above is not a repeat. It is a new request, handled separately and independently of the earlier one. It has its own response window and resolution window, counted from its own date, and the earlier response, finding, and windows neither satisfy it nor are changed by it.
 - **Scope in the meantime:** A missing System Charter or Institutional Charter is not a reason to treat the Chartered Party as unbounded. Until it exists, the Chartered Party's real [System Boundaries](core_05_band_continuity.md#system-boundaries) and its class control, and a certification or forum may reconstruct scope from observed operation.
 
 <a id="17-the-process-at-a-glance"></a>
@@ -193,23 +193,27 @@ The chart follows one Operating Party from the question of whether it is materia
 
 ```mermaid
 flowchart TB
-    Q{"Material to others?<br/>Class L or higher — §1<br/><br/>Nobody needs permission to form — §2"}
-    C["Publish its System Charter or<br/>Institutional Charter — §3, §4<br/><br/>Purpose, limits, who relies on it,<br/>who changes it, who holds each seat"]
-    H["Publish the office-holder statement — §5<br/><br/>Who holds the key offices, who controls<br/>them, how they are rewarded"]
-    K["Keep it true — §7<br/><br/>Review on schedule<br/>Fix any mismatch in the open"]
+    Q{"§1 Could what you do materially affect other people?<br/>(Class L or higher)"}
+    C["§3, §4 Publish its System Charter or<br/>Institutional Charter<br/><br/>Purpose, limits, who relies on it,<br/>who changes it, who holds each seat"]
+    H["§5 Publish the office-holder statement<br/><br/>Who holds the key offices, who controls<br/>them, how they are rewarded"]
+    K["§7 Keep it true<br/><br/>Review on schedule<br/>Fix any mismatch in the open"]
     X[["Chapter Nine — Alignment certification<br/><br/>Checks the scope against real operation<br/><br/>Outside this chapter"]]
-    P["Class P: a System Charter or<br/>Institutional Charter is voluntary<br/><br/>Publishing one creates no duty<br/>under this chapter"]
-    F["A holder fails the check — §6<br/><br/>Replace that sentient, not the Chartered Party<br/>A short window to answer,<br/>a longer one to resolve it"]
+    P["Class P: a System Charter or<br/>Institutional Charter is voluntary<br/><br/>Publishing one creates no duty<br/>under this chapter<br/><br/>§2 You don't need anyone's permission to start"]
+    D{"§5 Does the formation check pass?"}
+    F["§6 A holder fails the check<br/><br/>Replace that sentient, not the Chartered Party<br/>A short window to answer,<br/>a longer one to resolve it"]
+    W{"§6 Is the resolution window still open?"}
     R[["CI-13 — Consequence review<br/><br/>Lightest step that protects others<br/><br/>Outside this chapter"]]
     E[["CI-13 — Contract below Class L, or dissolve<br/><br/>Dissolution only as a last step<br/><br/>Outside this chapter"]]
     Q -->|"Yes"| C
     Q -->|"No"| P
     P -.->|"Becomes material, or claims compliance — §1"| C
     C --> H
-    H --> K
-    H -.->|"Check fails"| F
-    F -.->|"Resolved"| K
-    F -.->|"Resolution window ends unresolved — §6"| R
+    H --> D
+    D -->|"Yes"| K
+    D -.->|"No"| F
+    F --> W
+    W -.->|"Yes: holder replaced, check again"| D
+    W -.->|"No: still unresolved"| R
     R -.->|"Lesser steps fail"| E
     K -.->|"§7"| X
     style Q fill:none,stroke:#2563eb,color:#ffffff
@@ -218,7 +222,9 @@ flowchart TB
     style K fill:none,stroke:#2563eb,color:#ffffff
     style X fill:none,stroke:#16a34a,color:#ffffff
     style P fill:none,stroke:#64748b,color:#ffffff
+    style D fill:none,stroke:#db2777,color:#ffffff
     style F fill:none,stroke:#db2777,color:#ffffff
+    style W fill:none,stroke:#db2777,color:#ffffff
     style R fill:none,stroke:#16a34a,color:#ffffff
     style E fill:none,stroke:#16a34a,color:#ffffff
 ```

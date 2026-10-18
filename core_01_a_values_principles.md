@@ -199,7 +199,7 @@ No single principle may be applied in isolation where doing so would materially 
 flowchart TB
     F["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency<br/>• Always bounded by the Rights Floor"]
     W["§3 Wellbeing (the outcome)<br/><br/>• §3.1 Fairness<br/>• §3.2 Recognition, Reinforcement, and Aspiration<br/>• §3.3 Anti-Degrading Process"]
-    subgraph NN["Non-Negotiable (§2.1)"]
+    subgraph NN["§2.1 Non-Negotiable"]
         direction LR
         S["§4 Safety<br/><br/>• Harm constraint"]
         T["§5 Truth<br/><br/>• Epistemic integrity<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
