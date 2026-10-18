@@ -3,18 +3,6 @@
   "note": "Time references that predate TIME-REF-01 and do not yet name a bound kind and a tier or class (or a registered fixed period). Shrink this list; do not grow it. Regenerate with --write-baseline only when removing entries.",
   "known": [
     {
-      "key": "core_05_band_oversight.md::duration::339009e4bddd",
-      "snippet": "A review-worthy challenge extends the due date to thirty days after it is decided."
-    },
-    {
-      "key": "core_05_band_oversight.md::duration::a22af6714356",
-      "snippet": "Where the challenge answers a request for a System Charter or Institutional Charter, the thirty days keep running while it is pending unless"
-    },
-    {
-      "key": "core_05_band_oversight.md::duration::b5abba459d05",
-      "snippet": "When an Operating Party is found Class L, the date of the finding counts as a request under [Chapter Seven §1.5 If a System Charter or Insti"
-    },
-    {
       "key": "core_06_rights_part_b.md::duration::6fc701d5e5f0",
       "snippet": "The independent review above must begin inside the prompt-review window ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti"
     },
@@ -53,34 +41,6 @@
     {
       "key": "core_06_rights_part_e.md::duration::c72e411e8f31",
       "snippet": "Attainment is measured, not asserted: attainment and readiness must be shown by a Rights-Floor attainment ledger that is independently verif"
-    },
-    {
-      "key": "core_07_charters.md::duration::0aa76bf5123a",
-      "snippet": "Challenge extension: If the forum with jurisdiction judges the challenge review-worthy, the due date is extended to thirty days after the ch"
-    },
-    {
-      "key": "core_07_charters.md::duration::5ee0a436f594",
-      "snippet": "If events remove the last qualified substitute: If something nobody could have foreseen leaves one of those seats without a qualified holder"
-    },
-    {
-      "key": "core_07_charters.md::duration::77e84295a70e",
-      "snippet": "Running the window: The thirty days keep running while the challenge is pending."
-    },
-    {
-      "key": "core_07_charters.md::duration::a096586ffe98",
-      "snippet": "One that already operates: at its next classification review or certification, or within thirty days after a request under [§1.5 If a System"
-    },
-    {
-      "key": "core_07_charters.md::duration::baf86a463096",
-      "snippet": "If the failure is still not fixed after thirty days, a forum may review the Chartered Party, starting with the lightest step that protects o"
-    },
-    {
-      "key": "core_07_charters.md::duration::be284628a1c2",
-      "snippet": "The holder is replaced or the problem is resolved, with a week to answer and thirty days to fix it, and the Chartered Party keeps operating."
-    },
-    {
-      "key": "core_07_charters.md::duration::cc404ab2b86e",
-      "snippet": "If a problem isn't fixed within thirty days, the chartering process sends it to a review that is covered outside this chapter."
     },
     {
       "key": "core_10-13_application_vignettes.md::duration::0e43cac3d8f5",
@@ -203,10 +163,6 @@
       "snippet": "| 6 | About 16–80 years | Major Stewardship-Positive Contribution — major verified benefit approaching one LEQU. | Severe Constitutional Imp"
     },
     {
-      "key": "core_10_standing_assessment.md::duration::bcc62c1baaf6",
-      "snippet": "Where events nobody could have foreseen leave a seat without a qualified holder, the Chartered Party has a week to respond and thirty days t"
-    },
-    {
       "key": "core_11_standing_integration.md::duration::cf2c20419d9b",
       "snippet": "After 50 years, a contribution remains in the historical record but supplies no current clearance weight."
     },
@@ -315,10 +271,6 @@
       "snippet": "*In plain terms: Performance is measured by what an affected party can actually do: find out where the matter stands, reach a forum without "
     },
     {
-      "key": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md::duration::a23ed2c552f7",
-      "snippet": "After an unforeseeable loss of the last qualified substitute, the Chartered Party has a week to respond and thirty days to resolve it, and u"
-    },
-    {
       "key": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md::duration::153d0e7c3baf",
       "snippet": "*In plain terms: each institution must report on whether its safeguards work — but reporting is not only once a year."
     },
@@ -329,14 +281,6 @@
     {
       "key": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md::duration::f0e9f8e75d05",
       "snippet": "One year is the ordinary ceiling for a single rotating spell; longer spells need stronger justification and, for the highest-impact bodies, "
-    },
-    {
-      "key": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md::duration::b11ec59610aa",
-      "snippet": "Response: the Chartered Party has 7 days to answer, contest the facts, or propose a resolution plan."
-    },
-    {
-      "key": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md::duration::ed6ffc6b10fa",
-      "snippet": "*In plain terms: the Chartered Party is told what is wrong and what a resolution looks like, gets a week to answer and thirty days to fix it"
     },
     {
       "key": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md::duration::2e27c304e582",

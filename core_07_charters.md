@@ -96,24 +96,12 @@ A System of Class L or higher must publish and maintain a [System Charter](core_
 
 The class of the Chartered Party decides whether publishing is required or a choice:
 
-- **Classes A, B, C, and L:** required. The chart in [§1.6 The process at a glance](#16-the-process-at-a-glance) shows the process they follow.
-- **Class P:** a choice, set out in [§1.3 Class P: a choice](#13-class-p-a-choice).
+- **Classes A, B, C, and L:** required. The chart in [§1.7 The process at a glance](#17-the-process-at-a-glance) shows the process they follow.
+- **Class P:** a choice, until one of two events makes it required. [§1.3 What Class P is](#13-what-class-p-is) says what makes an Operating Party Class P, and [§1.4 Class P: optional charters, and when they become required](#14-class-p-optional-charters-and-when-they-become-required) sets out the choice and when it ends.
 - **Class of an Institution:** An Institution takes the highest class of any System it operates, stewards, or materially controls. An Institution that runs no such System is classified by its own material impact and dependency, judged by what it actually decides and holds and not by its label or legal form, under [Chapter Nine Part D §12.1 Institution class](core_09_d_institutional_alignment_certification.md#121-institution-class).
 
-<a id="13-class-p-a-choice"></a>
-#### 1.3 Class P: a choice
-
-A Class P Operating Party is encouraged to publish the [System Charter](core_05_band_continuity.md#system-charter) (for a single system) or [Institutional Charter](core_05_band_continuity.md#institutional-charter) (for more than one system, or none) that fits what it runs. It may use the content list in [§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state) and the seat map in [§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody) as a template. Publishing one creates no duty under this chapter's process:
-
-- no due date ([§1.4 When it is due](#14-when-it-is-due));
-- no formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity));
-- no required [Charter Role Map](core_05_band_continuity.md#charter-role-map) ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)), though it may keep one with its voluntary System Charter or Institutional Charter or publish it on its own; and
-- no required amendment or review cycle ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)).
-
-The choice ends, and the Operating Party must publish the System Charter or Institutional Charter that applies to it on the schedule in [§1.4 When it is due](#14-when-it-is-due), when either of these happens:
-
-- it is reclassified to Class L or higher; or
-- its operator asserts constitutional compliance for it.
+<a id="13-what-class-p-is"></a>
+#### 1.3 What Class P is
 
 An Operating Party is Class P only while its activity stays below the line in every one of the nine domains of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality), which in practice means its acts and effects stay inside its [private unit](core_05_band_oversight.md#domain-specific-materiality-private-unit):
 
@@ -123,32 +111,62 @@ An Operating Party is Class P only while its activity stays below the line in ev
 
 The four-seat floor in Chapter Eight does not apply to a Class P Operating Party's acts, which stay inside its private unit, so a single sentient with a computer needs no second seat-holder. The floor applies from the day the Operating Party takes a [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) that others must follow or may rely on as settled, which crosses the line in the authority-over-others domain and makes it at least Class L.
 
-<a id="14-when-it-is-due"></a>
-#### 1.4 When it is due
+<a id="14-class-p-optional-charters-and-when-they-become-required"></a>
+#### 1.4 Class P: optional charters, and when they become required
+
+A Class P Operating Party is encouraged to publish the [System Charter](core_05_band_continuity.md#system-charter) (for a single system) or [Institutional Charter](core_05_band_continuity.md#institutional-charter) (for more than one system, or none) that fits what it runs. It may use the content list in [§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state) and the seat map in [§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody) as a template. Publishing one creates no duty under this chapter's process:
+
+- no due date ([§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due));
+- no formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity));
+- no required [Charter Role Map](core_05_band_continuity.md#charter-role-map) ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)), though it may keep one with its voluntary System Charter or Institutional Charter or publish it on its own; and
+- no required amendment or review cycle ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)).
+
+If either of these happens, publishing stops being optional.
+
+- the Operating Party is reclassified to Class L or higher; or
+- its operator asserts constitutional compliance for the Operating Party.
+
+The Operating Party must then publish the System Charter or Institutional Charter that fits it, on the schedule in [§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due).
+
+<a id="15-when-a-system-charter-or-institutional-charter-is-due"></a>
+#### 1.5 When a System Charter or Institutional Charter is due
 
 A covered System or Institution publishes its [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter) on this schedule:
 
 - **A new System or Institution:** before it goes live or begins to exercise authority over others.
-- **One that already operates:** at its next classification review or certification, or within thirty days after a request under [§1.5 If a System Charter or Institutional Charter is missing](#15-if-a-system-charter-or-institutional-charter-is-missing), whichever comes first. It is in default until it does.
-- **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Nine Part D §11.3 No permission and no gate](core_09_d_institutional_alignment_certification.md#113-no-permission-and-no-gate), whose first-certification window is never a condition of publishing the Institutional Charter or of operating.
-- **The formation check:** It also completes the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) at the same moment. The windows for resolving a failed check are in [§6 When a Holder Fails the Check](#6-when-a-holder-fails-the-check) (*Resolution window*).
+- **One that already operates:** at its next classification review or certification, or within the resolution window after a request under [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing), whichever comes first. It is in default until it does.
+  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Nine Part D §11.3 No permission and no gate](core_09_d_institutional_alignment_certification.md#113-no-permission-and-no-gate), whose first-certification window is never a condition of publishing the Institutional Charter or of operating.
+- **The formation check:** It also completes the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) at the same moment.
 - **Where it is lodged:** It lodges the System Charter or Institutional Charter, with its Charter Role Map and formation check statement, with the Institutional registrar, or with the local registrar where its activity and the sentients it affects are local (**CF-5.5** (*Institutional and local registrars*)):
   - **What the registrar does:** It checks that nothing required is missing and gives a dated receipt.
   - **What the registrar never does:** It never grants permission and never rules on class or content.
   - **A late or missing receipt:** It never stops the Chartered Party from operating.
 
-<a id="15-if-a-system-charter-or-institutional-charter-is-missing"></a>
-#### 1.5 If a System Charter or Institutional Charter is missing
+<a id="16-if-a-system-charter-or-institutional-charter-is-missing"></a>
+#### 1.6 If a System Charter or Institutional Charter is missing
 
 Anyone who notices a Chartered Party of Class L or higher, new or newly so, that has not published its System Charter or Institutional Charter may ask its governing authority for it. The asker needs no standing, pays no fee, and need not show harm. The request names the Chartered Party and says why it appears covered.
 
-- **Response window (a week):** The Chartered Party responds within seven days of the request. It publishes the instrument, or gives the date by which it will, or points to the one it has already published, or answers that it is below every line of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality) and gives the written showing that entry requires.
-- **Resolution window (thirty days):** The System Charter or Institutional Charter is due thirty days after the request, with the formation check statement that goes with it ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)). A Chartered Party with no independent seat yet files the statement as a declaration with its evidence, as that section provides.
+Two windows run from the request: the response window and the resolution window. Each takes its length from the Tier with the same letter as the Chartered Party's class, so the more critical the class, the shorter the windows:
+
+| Class and Tier | Response window (intake target) | Resolution window (outer bound) |
+|---|---|---|
+| Class A, Tier A | 24 hours | 7 calendar days |
+| Class B, Tier B | 2 calendar days | 14 calendar days |
+| Class C, Tier C | 4 calendar days | 30 calendar days |
+| Class L, Tier L | 8 calendar days | 60 calendar days |
+
+The figures come from **CF-11.3.1** (*Stage targets and timing floors*), which governs if they differ. A Chartered Party that disputes its class is counted at Tier L until the question is settled.
+
+The windows work like this:
+
+- **Response window:** The Chartered Party responds inside the response window, which is the intake target of the matching tier in **CF-11.3.1** (*Stage targets and timing floors*), counted from the request. It publishes the instrument, or gives the date by which it will, or points to the one it has already published, or answers that it is below every line of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality) and gives the written showing that entry requires.
+- **Resolution window:** The System Charter or Institutional Charter is due inside the resolution window, which is the outer bound of the matching tier in **CF-11.3.1** (*Stage targets and timing floors*), counted from the request, with the formation check statement that goes with it ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)). A Chartered Party with no independent seat yet files the statement as a declaration with its evidence, as that section provides.
 - **An Operating Party that says it is below the line:** The request is then also a classification challenge on the route in that entry's *Challenge route*:
-  - **Running the window:** The thirty days keep running while the challenge is pending.
-  - **Challenge extension:** If the forum with jurisdiction judges the challenge review-worthy, the due date is extended to thirty days after the challenge is decided.
+  - **Running the window:** The resolution window keeps running while the challenge is pending.
+  - **Challenge extension:** If the forum with jurisdiction judges the challenge review-worthy, the due date is extended, and a new resolution window starts when the challenge is decided.
   - **What review-worthy means:** A challenge is review-worthy when it names a specific crossing in a named domain and the Operating Party's written showing leaves a real question about that crossing. The Operating Party does not judge this for itself, and a response that gives no written showing does not extend the date.
-  - **If it is found Class L:** On that challenge or on any other, the date of the finding counts as the date of a request: the response window (a week) and the resolution window (thirty days) run from it.
+  - **If it is found Class L:** On that challenge or on any other, the date of the finding counts as the date of a request: the response window and the resolution window run from it, at Tier L.
 - **If it is missed:** No response, or no instrument by the due date, is a defect to log and correct. The asker may take it to the forum with jurisdiction on the same route. It is never a condition of forming or operating.
 - **A repeat request:** A second request about the same Chartered Party, made while its earlier response or a finding on it still stands, starts no new response or resolution window. The Chartered Party answers by pointing to that response or finding. The response or finding stands until one of these happens, as the reopening triggers in [Chapter Nine Part D §14.2 Reopening triggers](core_09_d_institutional_alignment_certification.md#142-reopening-triggers) describe:
   - **A material change:** The Chartered Party's activity changes materially.
@@ -157,15 +175,15 @@ Anyone who notices a Chartered Party of Class L or higher, new or newly so, that
   Either of the above is not a repeat. It is a new request, and the response window and the resolution window start again from its date.
 - **Scope in the meantime:** A missing System Charter or Institutional Charter is not a reason to treat the Chartered Party as unbounded. Until it exists, the Chartered Party's real [System Boundaries](core_05_band_continuity.md#system-boundaries) and its class control, and a certification or forum may reconstruct scope from observed operation.
 
-<a id="16-the-process-at-a-glance"></a>
-#### 1.6 The process at a glance
+<a id="17-the-process-at-a-glance"></a>
+#### 1.7 The process at a glance
 
-The chart follows one Operating Party from the question of whether it is material to others, through publishing its System Charter or Institutional Charter and keeping it accurate. If a problem isn't fixed within thirty days, the chartering process sends it to a review that is covered outside this chapter. The sections after this one explain each step in the same order.
+The chart follows one Operating Party from the question of whether it is material to others, through publishing its System Charter or Institutional Charter and keeping it accurate. If a problem isn't fixed inside the resolution window, the chartering process sends it to a review that is covered outside this chapter. The sections after this one explain each step in the same order.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to read the chart</span></strong></summary>
 
-> In plain terms: nobody grants a System Charter or Institutional Charter, and nobody needs permission to form. A Chartered Party whose activity is material to others publishes what it claims authority to do and who holds each seat, and the holders of its key offices are checked. A holder who fails is replaced and the Chartered Party goes on. If the failure is still not fixed after thirty days, a forum may review the Chartered Party, starting with the lightest step that protects others. Making the Chartered Party shrink below Class L, or dissolving it, comes only if lighter steps fail.
+> In plain terms: nobody grants a System Charter or Institutional Charter, and nobody needs permission to form. A Chartered Party whose activity is material to others publishes what it claims authority to do and who holds each seat, and the holders of its key offices are checked. A holder who fails is replaced and the Chartered Party goes on. If the failure is still not fixed when the resolution window ends, a forum may review the Chartered Party, starting with the lightest step that protects others. Making the Chartered Party shrink below Class L, or dissolving it, comes only if lighter steps fail.
 >
 > Solid arrows are the main path. Dotted arrows are exceptions and hand-offs, labeled with the section that makes them. The boxes with double side bars belong to another chapter or to the incorporated implementation text. The chart adds no duty, seat, or field, and no step on it is a grant of permission.
 
@@ -181,7 +199,7 @@ flowchart TB
     K["Keep it true — §7<br/><br/>Review on schedule<br/>Fix any mismatch in the open"]
     X[["Chapter Nine — Alignment certification<br/><br/>Checks the scope against real operation<br/><br/>Outside this chapter"]]
     P["Class P: a System Charter or<br/>Institutional Charter is voluntary<br/><br/>Publishing one creates no duty<br/>under this chapter"]
-    F["A holder fails the check — §6<br/><br/>Replace that sentient, not the Chartered Party<br/>A week to answer, thirty days to resolve it"]
+    F["A holder fails the check — §6<br/><br/>Replace that sentient, not the Chartered Party<br/>A short window to answer,<br/>a longer one to resolve it"]
     R[["CI-13 — Consequence review<br/><br/>Lightest step that protects others<br/><br/>Outside this chapter"]]
     E[["CI-13 — Contract below Class L, or dissolve<br/><br/>Dissolution only as a last step<br/><br/>Outside this chapter"]]
     Q -->|"Yes"| C
@@ -191,7 +209,7 @@ flowchart TB
     H --> K
     H -.->|"Check fails"| F
     F -.->|"Resolved"| K
-    F -.->|"Not resolved in thirty days — §6"| R
+    F -.->|"Resolution window ends unresolved — §6"| R
     R -.->|"Lesser steps fail"| E
     K -.->|"§7"| X
     style Q fill:none,stroke:#2563eb,color:#ffffff
@@ -364,7 +382,7 @@ Every System Charter or Institutional Charter carries a [Charter Role Map](core_
     - **Naming offices is optional:** The map may name offices for these records ahead of time, but it doesn't have to, and a map that names none is still valid.
   - **Gaps in the map (operator standing records):**
     - **A map with gaps makes the System Charter or Institutional Charter invalid:** The map has to name the record-opening authority, the record custodian, the contest seat, and the independent route. A change that would leave any of them unnamed is not allowed.
-    - **If events remove the last qualified substitute:** If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual windows: a week to respond and thirty days to resolve it ([§1.5 If a System Charter or Institutional Charter is missing](#15-if-a-system-charter-or-institutional-charter-is-missing)). An emergency substitution keeps the shorter window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets.
+    - **If events remove the last qualified substitute:** If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual response window and resolution window ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)). An emergency substitution keeps the shorter window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets.
     - **Until it is resolved:** None of the Chartered Party's own offices can issue a valid standing record for the affected scope. The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *No self-custody*).
 
 <a id="5-formation-check-office-holder-standing-and-authenticity"></a>
@@ -373,7 +391,7 @@ Every System Charter or Institutional Charter carries a [Charter Role Map](core_
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-the-right-to-form-and-three-narrow-limits); [§1.4](#14-when-it-is-due); [§3](#3-what-system-and-institutional-charters-must-state); [§4](#4-the-charter-role-map-and-standing-record-custody); [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*); [What Systems Reward](core_00_preamble.md#what-systems-reward) and the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions); [Chapter One §19.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways); [Chapter One §19.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response); [Chapter Eleven §4.2 Prevention — general standing locks](core_11_standing_integration.md#42-prevention--general-standing-locks), [§5.5 Special locks](core_11_standing_integration.md#55-special-locks), and [§6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances).
+- Upstream: [§2](#2-the-right-to-form-and-three-narrow-limits); [§1.5](#15-when-a-system-charter-or-institutional-charter-is-due); [§3](#3-what-system-and-institutional-charters-must-state); [§4](#4-the-charter-role-map-and-standing-record-custody); [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*); [What Systems Reward](core_00_preamble.md#what-systems-reward) and the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions); [Chapter One §19.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways); [Chapter One §19.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response); [Chapter Eleven §4.2 Prevention — general standing locks](core_11_standing_integration.md#42-prevention--general-standing-locks), [§5.5 Special locks](core_11_standing_integration.md#55-special-locks), and [§6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances).
 - Downstream: [§6 When a Holder Fails the Check](#6-when-a-holder-fails-the-check); [Chapter Nine Part D §12.2 Institutional evaluation, always](core_09_d_institutional_alignment_certification.md#122-institutional-evaluation-always) (item 7, *the forums test the statement*); [Chapter Nine Part A §3.3 Governance, Incentive, and Contestability Discipline](core_09_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) for the statement template.
 - Read with: [Material Control Line](core_05_band_accountability.md#material-control-line); [Standing Record](core_05_band_accountability.md#standing-record); [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist); **CI-4.2** (*Role criteria, appointment standards, and removal pathways*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
 
@@ -438,7 +456,7 @@ A holder may be identified by office and dated Role Map version where naming wou
 - **Verification:** The standing facts are verified by the record-opening authority and the record custodian the Charter Role Map names ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)). The governing authority does not verify the authenticity of its own members. Where a Chartered Party is small and no independent seat is yet in place, the statement is a declaration with its evidence, and it is verified at the Chartered Party's first certification. Being unverified for that interval is never a bar to forming or operating.
 - **False statement:** A statement that is false, or that hides who controls a covered office, is concealment and fraudulent evidence for the certification record and for the standing bridge ([Chapter Nine Part D §15 Standing Bridge and Non-Evasion](core_09_d_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Chapter Nine Part B §10 Relationship to Standing](core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing)).
 
-**Timing and re-check.** The statement is published with the System Charter or Institutional Charter ([§1.4 When it is due](#14-when-it-is-due) and [§1.5 If a System Charter or Institutional Charter is missing](#15-if-a-system-charter-or-institutional-charter-is-missing)). A new holder of a covered office is checked before taking the seat. In an emergency substitution the check is completed inside the short window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets, and the substitute takes no materially binding act alone before it is done. The statement is re-checked at each periodic review ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)) and on a trigger: a verified finding about a holder, a change in who controls a covered office, a change to a reward structure the statement relied on, an Interim Hold issued or ended on a holder, a protected report about it, or a credible challenge. A new holder or a changed fact makes a new dated version of the statement. It is not an amendment of the System Charter or Institutional Charter ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody), *Two kinds of change*).
+**Timing and re-check.** The statement is published with the System Charter or Institutional Charter ([§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due) and [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)). A new holder of a covered office is checked before taking the seat. In an emergency substitution the check is completed inside the short window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets, and the substitute takes no materially binding act alone before it is done. The statement is re-checked at each periodic review ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)) and on a trigger: a verified finding about a holder, a change in who controls a covered office, a change to a reward structure the statement relied on, an Interim Hold issued or ended on a holder, a protected report about it, or a credible challenge. A new holder or a changed fact makes a new dated version of the statement. It is not an amendment of the System Charter or Institutional Charter ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody), *Two kinds of change*).
 
 What follows a failed or late check is in [§6 When a Holder Fails the Check](#6-when-a-holder-fails-the-check).
 
@@ -455,7 +473,7 @@ What follows a failed or late check is in [§6 When a Holder Fails the Check](#6
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5](#5-formation-check-office-holder-standing-and-authenticity); [§2](#2-the-right-to-form-and-three-narrow-limits); [§1.5](#15-if-a-system-charter-or-institutional-charter-is-missing); [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*); [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway).
+- Upstream: [§5](#5-formation-check-office-holder-standing-and-authenticity); [§2](#2-the-right-to-form-and-three-narrow-limits); [§1.6](#16-if-a-system-charter-or-institutional-charter-is-missing); [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*); [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway).
 - Downstream: [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](core_09_d_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution); [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*).
 - Read with: [Interim Hold](core_05_band_accountability.md#interim-hold); [Stay](core_05_band_accountability.md#stay); **CI-4.2** (*Role criteria, appointment standards, and removal pathways*).
 
@@ -463,7 +481,7 @@ What follows a failed or late check is in [§6 When a Holder Fails the Check](#6
 
 <br>
 
-*In plain terms: a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved, with a week to answer and thirty days to fix it, and the Chartered Party keeps operating. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.*
+*In plain terms: a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved. The Chartered Party gets a short window to answer and a longer one to fix it, and both are shorter the more critical it is. It keeps operating throughout. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.*
 
 A failed or late check is a defect to log and correct. It does not stop an Operating Party from forming, publishing its System Charter or Institutional Charter, or operating. It enters the Chartered Party's next certification as a finding. The two gates it applies attach to a named sentient and never to the Chartered Party, and the limits of the right to form are stated in [§2 The Right to Form, and Three Narrow Limits](#2-the-right-to-form-and-three-narrow-limits).
 
@@ -472,10 +490,10 @@ A failed or late check is a defect to log and correct. It does not stop an Opera
 - **Standing fails:** the sentient may not hold that office, as **CI-4.2** (*Role criteria, appointment standards, and removal pathways*) already provides and as the outstanding-lock gate and the Interim Hold in **Article XI-E** (*Institutional Formation and Business Creation*) provide. The office is filled again or substituted by dated Role Map version. If that leaves the Chartered Party without a lawful holder of a governing office and others depend on it, the forum with jurisdiction may name an interim steward and does not stop the Chartered Party, as [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) provides for the Interim Hold.
 - **Probable cause:** where the check turns up specific verified facts that make it more likely than not that a holder is misaligned with the Chartered Party's stated purpose, the Chartered Party refers those facts to the forum with jurisdiction. Only that forum may issue an [Interim Hold](core_05_band_accountability.md#interim-hold) under [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway), and it may do so for a holder of a covered office at any time and not only at formation. The Chartered Party may not keep a sentient out of an office on its own view of probable cause, because it would then be judging its own member.
 - **Authenticity fails:** the failed finding is evidence the forum may weigh for an Interim Hold or, if a violation is verified, for the Institutional Authority Standing Lock. It is neither of them. The office is treated as unfilled for the seat it carries, because a seat held through a nominee or proxy is not an independent placement under [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines). The Chartered Party resolves the defect by changing who holds the office, ending the undisclosed control, changing the reward, or disclosing the interest and having it cleared.
-- **Resolution window:** A failed finding on a covered office runs on the same response and resolution windows as a request for a System Charter or Institutional Charter ([§1.5 If a System Charter or Institutional Charter is missing](#15-if-a-system-charter-or-institutional-charter-is-missing)).
+- **Resolution window:** A failed finding on a covered office runs on the same response and resolution windows as a request for a System Charter or Institutional Charter ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)), taken at the Tier that matches the Chartered Party's class.
   - **When it starts:** The windows start the day the failure is found by the Chartered Party, by its verifier, or by a forum, or is reported by anyone and not shown to be wrong. If the holder contests the finding through the contest seat before it takes effect, the windows start when the contest is decided, and a good-faith contest is not delay.
-  - **Response window (a week):** Within seven days the Chartered Party states in writing which office failed and what it will do: change the holder, end the undisclosed control, change the reward, or disclose the interest and have it cleared. Or it shows that the finding is wrong.
-  - **Resolution window (thirty days):** Within thirty days the problem is resolved and a new dated version of the statement is published, with the verifier's confirmation. An emergency substitution keeps the shorter window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets.
+  - **Response window:** Inside the response window the Chartered Party states in writing which office failed and what it will do: change the holder, end the undisclosed control, change the reward, or disclose the interest and have it cleared. Or it shows that the finding is wrong.
+  - **Resolution window:** Inside the resolution window the problem is resolved and a new dated version of the statement is published, with the verifier's confirmation. An emergency substitution keeps the shorter window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets.
   - **If it is not resolved:** The Chartered Party is not stopped, and the miss is a finding in its next certification. Where the failure still stands after the resolution window and a reasonable chance to resolve it in good faith, the lead forum refers it as realignment resistance, which opens structural review under **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) and **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*). That review follows the ladder in **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*), **CI-13.1** (*Opening a consequence matter*) through **CI-13.10** (*Review, fairness, and enforcement*): directed correction, constrained authority, a contraction order that returns the Chartered Party to below Class L, supervised operation, receivership or structural separation, and as a last step dissolution, each only where the lighter measures cannot protect the Constitution's obligations. The forum alone decides, nothing here is automatic, and the continuity safeguards keep services, records, and challenge rights in place. Dissolution never replaces anti-constitutional-misconduct designation under Chapter Twelve or the accountability of the responsible sentients.
 - **Reaching the Chartered Party:** The only consequence that can reach the Chartered Party is the review in *Resolution window* above, and it follows a failure to resolve and never the failure alone. A failed check is also evidence on the limits of the right to form and does not settle them.
 

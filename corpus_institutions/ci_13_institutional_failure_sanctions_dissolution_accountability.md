@@ -117,13 +117,13 @@ Before ordering any rung of the ladder, the lead forum records, with reasons:
 <a id="ci-133-notice-response-and-resolution"></a>
 ## CI-13.3: Notice, response, and resolution
 
-*In plain terms: the Chartered Party is told what is wrong and what a resolution looks like, gets a week to answer and thirty days to fix it, and a verified resolution ends the matter.*
+*In plain terms: the Chartered Party is told what is wrong and what a resolution looks like, gets a short window to answer and a longer one to fix it, both set by how critical it is, and a verified resolution ends the matter.*
 
 The Chartered Party is told what is wrong, answers, and gets a bounded window to resolve it, on these terms:
 
 1. **Notice** states the ground, the risk finding, the proposed rung, the evidence relied on, the route to respond, and what a resolution would look like.
-2. **Response:** the Chartered Party has 7 days to answer, contest the facts, or propose a resolution plan. This matches the response window in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check).
-3. **Resolution window:** 30 days from notice, with one good-faith extension of up to 30 days only on a showing of good-faith progress and no continuing harm. A sentient outside the Chartered Party's control line verifies the resolution.
+2. **Response:** the Chartered Party has the response window to answer, contest the facts, or propose a resolution plan. The response window is the intake target of the Tier that matches the Chartered Party's class (Class A, B, C, L, or P takes Tier A, B, C, L, or P), counted from notice, and it is the same window as in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check).
+3. **Resolution window:** the outer bound of the matching tier, counted from notice, with one good-faith extension of up to the length of the resolution window only on a showing of good-faith progress and no continuing harm. A sentient outside the Chartered Party's control line verifies the resolution.
 4. **No credit for stalling:** time spent in obstruction extends no window. A pattern of late, partial, or cosmetic responses is itself a fact under **CI-13.1** (*Opening a consequence matter*) item 1.
 5. **Resolution ends the matter:** a verified resolution lifts the rung. The record stays open for a 12-month watch period only to see whether the resolution holds. The watch is not a penalty.
 6. **Emergency skip:** where imminent irreversible harm is shown (Tier A under [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the forum may order emergency containment under **CI-13.8** (*Emergency containment*) without waiting for the resolution window. The window then runs alongside the containment.

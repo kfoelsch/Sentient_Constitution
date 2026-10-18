@@ -121,7 +121,7 @@ A claim that a forum family, remedy system, or standing-integration function is 
 
 *In plain terms: a System Charter or Institutional Charter is only useful if someone outside the Chartered Party can say it was filed, whole, and on what date. A registrar is a clerk and not a judge. It takes the instrument in, checks that nothing required is missing, gives a receipt, and keeps a public register. It never gives permission and never rules on what the instrument says.*
 
-This subsection implements, and must not narrow, [Chapter Seven §1.4 When it is due](../core_07_charters.md#14-when-it-is-due) and [Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). A registrar does routine administration, which [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) section 1 keeps apart from adjudication.
+This subsection implements, and must not narrow, [Chapter Seven §1.5 When a System Charter or Institutional Charter is due](../core_07_charters.md#15-when-a-system-charter-or-institutional-charter-is-due) and [Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). A registrar does routine administration, which [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) section 1 keeps apart from adjudication.
 
 **Where a registrar sits:** Each registrar is an administrative arm of an intake triage body (**CF-5.2** (*Intake triage body*)), or a functionally equivalent arrangement, with the same independence and contest expectations:
 - the **Institutional** forum family keeps an **Institutional registrar** for System Charters and Institutional Charters generally; and
@@ -134,7 +134,7 @@ An instrument lodged at the wrong registrar is forwarded and keeps its lodging d
 - It checks completeness only, against the minimum in [Chapter Seven §3 What System and Institutional Charters Must State](../core_07_charters.md#3-what-system-and-institutional-charters-must-state): each required item is present, each [Charter Pointer](../core_05_band_continuity.md#charter-pointer) resolves, and the one lodging is the governing authority or acts for it.
 - It gives a dated receipt that says the lodging is complete or lists what is missing.
 - It keeps a public register of lodged instruments, their versions, amendments, and review dates, and the two kinds of registrar share one register format.
-- It receives a request under [Chapter Seven §1.5 If a System Charter or Institutional Charter is missing](../core_07_charters.md#15-if-a-system-charter-or-institutional-charter-is-missing) and an insider's report of a crossing under [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), and passes either to the intake triage body for routing under **CF-5.2** (*Intake triage body*) without judging it.
+- It receives a request under [Chapter Seven §1.6 If a System Charter or Institutional Charter is missing](../core_07_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing) and an insider's report of a crossing under [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), and passes either to the intake triage body for routing under **CF-5.2** (*Intake triage body*) without judging it.
 
 **What a registrar does not do:**
 - It does not grant or withhold permission to form or operate.

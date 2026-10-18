@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-18T16:31:09+00:00",
+  "generated_at": "2026-10-18T19:21:05+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -636,24 +636,25 @@
       ]
     },
     "core_07_charters.md": {
-      "total_lines": 580,
+      "total_lines": 598,
       "sections": [
-        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":580,"anchor":"#chapter-seven-system-and-institutional-charters"},
-        {"header":"1. When System and Institutional Charters Are Required","level":3,"line_start":41,"line_end":208,"anchor":"#1-when-system-and-institutional-charters-are-required"},
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":598,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"1. When System and Institutional Charters Are Required","level":3,"line_start":41,"line_end":226,"anchor":"#1-when-system-and-institutional-charters-are-required"},
         {"header":"1.1 Who must publish","level":4,"line_start":78,"line_end":94,"anchor":"#11-who-must-publish"},
         {"header":"1.2 Which classes are covered","level":4,"line_start":95,"line_end":103,"anchor":"#12-which-classes-are-covered"},
-        {"header":"1.3 Class P: a choice","level":4,"line_start":104,"line_end":126,"anchor":"#13-class-p-a-choice"},
-        {"header":"1.4 When it is due","level":4,"line_start":127,"line_end":140,"anchor":"#14-when-it-is-due"},
-        {"header":"1.5 If a System Charter or Institutional Charter is missing","level":4,"line_start":141,"line_end":160,"anchor":"#15-if-a-system-charter-or-institutional-charter-is-missing"},
-        {"header":"1.6 The process at a glance","level":4,"line_start":161,"line_end":208,"anchor":"#16-the-process-at-a-glance"},
-        {"header":"2. The Right to Form, and Three Narrow Limits","level":3,"line_start":209,"line_end":251,"anchor":"#2-the-right-to-form-and-three-narrow-limits"},
-        {"header":"3. What System and Institutional Charters Must State","level":3,"line_start":252,"line_end":313,"anchor":"#3-what-system-and-institutional-charters-must-state"},
-        {"header":"4. The Charter Role Map and Standing-Record Custody","level":3,"line_start":314,"line_end":370,"anchor":"#4-the-charter-role-map-and-standing-record-custody"},
-        {"header":"5. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":371,"line_end":452,"anchor":"#5-formation-check-office-holder-standing-and-authenticity"},
-        {"header":"6. When a Holder Fails the Check","level":3,"line_start":453,"line_end":487,"anchor":"#6-when-a-holder-fails-the-check"},
-        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":488,"line_end":521,"anchor":"#7-amendment-review-and-scope-misalignment"},
-        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":522,"line_end":546,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
-        {"header":"9. Relationship to Other Chapters","level":3,"line_start":547,"line_end":580,"anchor":"#9-relationship-to-other-chapters"}
+        {"header":"1.3 What Class P is","level":4,"line_start":104,"line_end":114,"anchor":"#13-what-class-p-is"},
+        {"header":"1.4 Class P: optional charters, and when they become required","level":4,"line_start":115,"line_end":131,"anchor":"#14-class-p-optional-charters-and-when-they-become-required"},
+        {"header":"1.5 When a System Charter or Institutional Charter is due","level":4,"line_start":132,"line_end":145,"anchor":"#15-when-a-system-charter-or-institutional-charter-is-due"},
+        {"header":"1.6 If a System Charter or Institutional Charter is missing","level":4,"line_start":146,"line_end":178,"anchor":"#16-if-a-system-charter-or-institutional-charter-is-missing"},
+        {"header":"1.7 The process at a glance","level":4,"line_start":179,"line_end":226,"anchor":"#17-the-process-at-a-glance"},
+        {"header":"2. The Right to Form, and Three Narrow Limits","level":3,"line_start":227,"line_end":269,"anchor":"#2-the-right-to-form-and-three-narrow-limits"},
+        {"header":"3. What System and Institutional Charters Must State","level":3,"line_start":270,"line_end":331,"anchor":"#3-what-system-and-institutional-charters-must-state"},
+        {"header":"4. The Charter Role Map and Standing-Record Custody","level":3,"line_start":332,"line_end":388,"anchor":"#4-the-charter-role-map-and-standing-record-custody"},
+        {"header":"5. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":389,"line_end":470,"anchor":"#5-formation-check-office-holder-standing-and-authenticity"},
+        {"header":"6. When a Holder Fails the Check","level":3,"line_start":471,"line_end":505,"anchor":"#6-when-a-holder-fails-the-check"},
+        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":506,"line_end":539,"anchor":"#7-amendment-review-and-scope-misalignment"},
+        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":540,"line_end":564,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
+        {"header":"9. Relationship to Other Chapters","level":3,"line_start":565,"line_end":598,"anchor":"#9-relationship-to-other-chapters"}
       ]
     },
     "core_08_functional_independence_segregation_of_duties.md": {
@@ -1323,15 +1324,15 @@
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 339,
+      "total_lines": 341,
       "sections": [
-        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":339,"anchor":null},
-        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":339,"anchor":null},
+        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":341,"anchor":null},
+        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":341,"anchor":null},
         {"header":"CJS-0.1: Cross-file routing","level":3,"line_start":61,"line_end":151,"anchor":"#cjs-01-cross-file-routing"},
         {"header":"Maintainer-only detail: authoritative topic router","level":4,"line_start":103,"line_end":151,"anchor":"#cross-file-routing"},
         {"header":"CJS-0.2: Joint structure registry","level":3,"line_start":152,"line_end":186,"anchor":"#cjs-02-joint-structure-registry"},
         {"header":"CJS-0.3: Stable identifiers, edition alignment, and drafting notes","level":3,"line_start":187,"line_end":233,"anchor":"#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"},
-        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":339,"anchor":"#cjs-04-time-window-names"}
+        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":341,"anchor":"#cjs-04-time-window-names"}
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {

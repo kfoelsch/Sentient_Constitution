@@ -12,8 +12,11 @@ sentence:
 * **Scaled** reference: it names a **bound kind** (outer bound, intake target,
   stage target, certification interval, restore-challenge window, ...) and the
   **tier or class** that sets it (Tier B, Class C, "the matching tier", ...).
-* **Fixed** reference: it uses a **registered window name** (response window,
-  resolution window, cooling-off period, ...) whose owner holds the length.
+* **Fixed** reference: it uses a **registered window name** (cooling-off period,
+  watch period, order term, ...) whose owner holds the length.
+* **Scaled window** name (response window, resolution window): the name is a
+  bound kind whose length comes from a tier or class column. A number beside it
+  still needs the tier or class that sets it.
 
 A table row is read together with its header row and the line that introduces
 the table, so a column headed "Tier B" supplies the tier for every cell under it.
@@ -91,7 +94,12 @@ class Finding:
 
 class Registry:
     def __init__(self, data: dict) -> None:
-        self.bound = re.compile("|".join(data["bound_terms"]), re.IGNORECASE)
+        # A scaled window is a registered name whose length comes from a tier or
+        # class column (response window, resolution window). Its name is a bound
+        # kind, but unlike a fixed period it does not excuse a number: "a 7-day
+        # response window" still needs the tier or class that sets the length.
+        scaled_names = [re.escape(item["name"]) for item in data.get("scaled_windows", [])]
+        self.bound = re.compile("|".join(list(data["bound_terms"]) + scaled_names), re.IGNORECASE)
         self.basis = re.compile("|".join(data["basis_terms"]))
         self.fixed = re.compile(
             "|".join(re.escape(p["name"]) for p in data["fixed_periods"]), re.IGNORECASE

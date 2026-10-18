@@ -74,13 +74,34 @@ class VagueReferences(unittest.TestCase):
 
 class FixedPeriods(unittest.TestCase):
     def test_registered_name_passes(self) -> None:
-        self.assertEqual(findings("The Chartered Party has a 7-day response window.\n"), [])
+        self.assertEqual(findings("The watch period is twelve months.\n"), [])
 
     def test_cooling_off_period_passes(self) -> None:
         self.assertEqual(findings("The default cooling-off period is five years.\n"), [])
 
     def test_unregistered_fixed_length_fails(self) -> None:
         self.assertEqual(len(findings("The quiet period is five years.\n")), 1)
+
+
+class ScaledWindows(unittest.TestCase):
+    def test_fixed_length_beside_scaled_name_fails(self) -> None:
+        result = findings("The Chartered Party has a 7-day response window.\n")
+        self.assertEqual(len(result), 1)
+        self.assertEqual(result[0].missing, ("basis",))
+
+    def test_scaled_name_with_tier_passes(self) -> None:
+        text = "The response window is 2 days at Tier B.\n"
+        self.assertEqual(findings(text), [])
+
+    def test_scaled_name_with_matching_tier_passes(self) -> None:
+        text = "The resolution window is the outer bound of the matching tier, 14 days at Tier B.\n"
+        self.assertEqual(findings(text), [])
+
+    def test_week_and_thirty_days_without_window_fail(self) -> None:
+        self.assertEqual(len(findings("The Chartered Party gets a week to respond and thirty days to resolve it.\n")), 1)
+
+    def test_scaled_name_without_a_number_is_not_a_reference(self) -> None:
+        self.assertEqual(findings("The response window runs from the request.\n"), [])
 
 
 class Structure(unittest.TestCase):
