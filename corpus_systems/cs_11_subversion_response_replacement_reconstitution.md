@@ -95,7 +95,7 @@ When landscape response is activated, systems must prioritize controls by consti
 If regular governance bodies are partially compromised or unavailable, a temporary steward-of-last-resort mechanism may be activated only under strict constraints:
 - **authority scope limited to containment, continuity, and restoration decisions necessary to preserve constitutional floors**
 - **no permanent constitutional redesign authority**
-- **mandatory independent secondary review as soon as feasible**
+- **mandatory independent secondary review begun inside the prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*))
 - **challenge pathways and protected reporting channels remain active**
 - **time-bounded sunset and reauthorization burden for continuation**
 

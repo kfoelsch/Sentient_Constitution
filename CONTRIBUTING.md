@@ -143,7 +143,7 @@ A translation is help for readers, never a second constitution. Where a translat
 7. **Filenames follow NAV-IMPL-FILENAME-01.** Adopted implementation files share a numeric prefix only when they are parts of the same chapter; `make adopted-implementation-filename-audit` checks it.
 8. **Scope narrowly.** One lane, one concern, one pull request. A hundred-file rename and a definition change do not travel together.
 9. **No fossil anchors.** Pre-release means heading ids follow current headings. If you rename a heading, fix every inbound link; do not leave a legacy anchor behind (`make fossil-anchor-audit`).
-10. **Say what you are.** Pull requests state whether a human, an AI agent, or a human-directed AI produced the change, and which files an AI touched. That is the same inspectable-action expectation the corpus asks of stewards ([CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)), applied to itself.
+10. **Say what you are.** Pull requests state whether a human, an AI agent, or a human-directed AI produced the change, and which files an AI touched. That is the same inspectable-action expectation the corpus asks of stewards ([CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action)), applied to itself.
 
 <a id="workflow"></a>
 ## 5. Workflow

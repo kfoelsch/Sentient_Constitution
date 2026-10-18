@@ -177,7 +177,7 @@ Affected parties must have a practical path to challenge:
 
 The challenge workflow must include:
 - a short filing path in plain language accessible to everyday sentients;
-- a prompt provisional review on a time scale proportionate to the matter's urgency;
+- a provisional review that begins inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*));
 - decision by a role or panel not materially implicated in the challenged conflict where feasible;
 - a written determination stating facts found, reasoning, disposition, and any replacement action;
 - preservation of the underlying record for later review.
@@ -276,7 +276,7 @@ If a fully independent merits panel cannot yet be formed, a provisional authorit
 Any such interim authority must:
 - be as independent as feasible under the circumstances;
 - explain why ordinary panel formation could not be completed first;
-- remain subject to prompt review by a lawful and independent panel or backup forum.
+- remain subject to review, begun inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)), by a lawful and independent panel or backup forum.
 
 ## CF-4.13 Required records for panel formation and recusal
 

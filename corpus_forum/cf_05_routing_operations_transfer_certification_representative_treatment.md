@@ -83,7 +83,7 @@ Each required forum family must publish an **intake triage body**, or a function
 - flag preservation, Rights-Floor, cross-family routing, and backup-forum needs;
 - maintain attributable intake records sufficient for review;
 - **not** substitute for lawfully constituted merits panels on substantive outcomes;
-- publish its mandate, composition or duty pool, conflict rules, confidentiality boundaries where applicable, and a prompt way to challenge contested routing or classification.
+- publish its mandate, composition or duty pool, conflict rules, confidentiality boundaries where applicable, and a way to challenge contested routing or classification, with review of the challenge begun inside the **intake target** of the matching tier ([CF-11.3.1](cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*)).
 
 ## CF-5.3 Natural-systems representatives
 
@@ -93,7 +93,7 @@ This subsection implements, and must not narrow, [Chapter Thirteen §4.4 Environ
 
 Each Environment forum family must publish:
 - who may serve as a natural-systems representative (affected community, indigenous-continuity holder, or designated guardian) and how appointment is recorded;
-- recusal and conflict rules, including when a representative's private interest conflicts with the system's continuity or integrity interests, and a prompt contest path;
+- recusal and conflict rules, including when a representative's private interest conflicts with the system's continuity or integrity interests, and a contest path, with review begun inside the **intake target** of the matching tier ([CF-11.3.1](cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*));
 - the representative's identity, appointment basis, and recusal status, kept attributable and inspectable.
 
 Intake under **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) must not refuse an Environment-forum filing solely because no individual sentient pleads private harm when a published representative files for the system's continuity or integrity interests. This treatment does not make the system a sentient or a Chapter Six rights-holder, and it does not replace [Chapter Thirteen §3 Transfer, consolidation, and coordination — continuity and anti-capture](../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) class or subclass representative treatment for sentient groups.

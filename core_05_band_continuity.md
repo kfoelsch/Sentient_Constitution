@@ -4637,7 +4637,7 @@ See **Anti-Segmentation Principle**.
     - capture; or
     - avoidable systemic harm.
   - **Out of scope:**
-    - ordinary reversible operational error promptly corrected under Review and Correction Duty; and
+    - ordinary reversible operational error corrected inside the tier-appropriate window under Review and Correction Duty; and
     - mere strategy disagreement without a foreseeable causal pathway to constitutional misalignment or Rights-Floor harm.
 <a id="stewardship-defect-constitutional-a"></a>
 - **How to measure and assess**

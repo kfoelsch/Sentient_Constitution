@@ -133,7 +133,7 @@ Each matter must remain traceable across the service lifecycle:
 <br>
 
 Minimum urgency levels for stage targets and disclosure are:
-- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier A, run at the **Emergency level** in **CF-11.3.1** (*Stage targets and timing floors*) where its conditions are met.
+- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier A, run at the **Emergency level** in **CF-11.3.1** (*Stage targets and timing floors*) where its conditions are met. A structural correction issue at **CUL-1** ([CJS-3.15](../corpus_joint_structure/cjs_03a_accountability_operations.md#correction-urgency-level-cul-discipline) (*Accountability: structural review, correction urgency, and disclosure terms*)) runs at the same level where these conditions are met.
 - **Survival-critical** — access to essentials, shelter, or lawful livelihood tools; priority routing and short review cycles. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier A where dependency-vulnerable ongoing harm is verified or credibly alleged pending preservation.
 - **High-impact** — durable standing, systemic pattern, or large affected population; stronger publication and remediation duties when delay crosses published thresholds. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier B unless Tier A urgency is independently present.
 - **Structural or class-wide** — matters affecting forum design, class-wide treatment, repeated challenge-pathway failure, or large-pattern institutional behavior; publish aging and remediation data in forms that expose aggregate delay. Map to **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) **Tier B** unless **Tier A** urgency is independently present. Cross-party or cross-border coordination may extend later-stage windows on a longer time scale without reclassifying the urgency tier. Final **Chapter Twelve** Anti-Constitutional Misconduct Review maps to **Tier A**.
@@ -227,7 +227,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 
 The stage targets at Levels 2 and 3 need not add up to the outer bound; the difference is slack, not an extra stage. The level is published at routing, before the later stages start, and can be challenged through ordinary routes.
 
-**Emergency level.** Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, a **Tier A** matter runs at the **Emergency level**. The protective steps are containment screening, the interim protection decision, the start of independent review of the measure, and the restoration of notice and challenge after a deferral. They must finish within **3 calendar days** of the start of the measure or of the deferral, whichever is earlier. The finding steps keep these targets, and the matter keeps the **Tier A** outer bound of 7 calendar days as its compliance line:
+**Emergency level.** Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, a **Tier A** matter runs at the **Emergency level**. The protective steps are containment screening, the interim protection decision, the start of independent review of the measure, and the restoration of notice and challenge after a deferral. They must finish within **3 calendar days** of the start of the measure or of the deferral, whichever is earlier. Independent review of the measure must begin sooner, inside the **prompt-review window** of 24 hours (see **Prompt review** below). The finding steps keep these targets, and the matter keeps the **Tier A** outer bound of 7 calendar days as its compliance line:
 
 | **Pipeline stage** | **Emergency level** (Tier A only) |
 | --- | --- |
@@ -238,7 +238,11 @@ The stage targets at Levels 2 and 3 need not add up to the outer bound; the diff
 | Safeguard or remedy commencement | 6 hours |
 | **Protective-step bound** (hard) | ≤ **3 calendar days** |
 
-The Emergency level never combines with Level 2 or 3, and the matter returns to its Tier A column when the emergency ends. Interim holds issued in an Emergency-level matter lapse at the Tier A outer bound, not at the 3-day protective bound. The **restricted information office** (**CF-5.8** (*Restricted information office*)) answers an access question in an Emergency-level matter within the 6-hour intake target. Emergency-level matters are reported separately under **CF-11.3** (*Metric registry and reporting taxonomy*): protective-step times, aging, and their share of all matters. A forum that cannot meet the protective-step bound uses the backup-forum and continuity routes in **CF-14** (*Emergency adjudication*), not a longer window.
+The Emergency level never combines with Level 2 or 3, and the matter returns to its Tier A column when the emergency ends. A structural issue at **CUL-1** under [CJS-3.15](../corpus_joint_structure/cjs_03a_accountability_operations.md#correction-urgency-level-cul-discipline) (*Accountability: structural review, correction urgency, and disclosure terms*) takes this level's timing where the level's conditions are met. Interim holds issued in an Emergency-level matter lapse at the Tier A outer bound, not at the 3-day protective bound. The **restricted information office** (**CF-5.8** (*Restricted information office*)) answers an access question in an Emergency-level matter within the 6-hour intake target. Emergency-level matters are reported separately under **CF-11.3** (*Metric registry and reporting taxonomy*): protective-step times, aging, and their share of all matters. A forum that cannot meet the protective-step bound uses the backup-forum and continuity routes in **CF-14** (*Emergency adjudication*), not a longer window.
+
+**Prompt review.** The **prompt-review window** is the intake-target row of the table above: 24 hours for Tier A, and 2, 4, 8, and 12 calendar days for Tiers B, C, L, and P. It is the time within which an independent reviewer must begin review of a measure, order, hold, stay, or interim decision already in force, counted from the day it takes effect ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)). It is a compliance line, not a stage target. At the Emergency level it stays at the Tier A figure of 24 hours. A forum that cannot meet it uses the backup-forum and continuity routes in **CF-14** (*Emergency adjudication*), not a longer window.
+
+**Correction and notice levels.** The correction urgency levels ([CJS-3.15](../corpus_joint_structure/cjs_03a_accountability_operations.md#correction-urgency-level-cul-discipline) (*Accountability: structural review, correction urgency, and disclosure terms*)) and the notice urgency levels ([CJS-3.6](../corpus_joint_structure/cjs_03o_oversight_operations.md#incident-and-assurance-notification-urgency-floor) (*Oversight: integrity assurance and resilience operations*)) borrow this table's figures: **CUL-1** to **CUL-4** take the columns of Tiers A, B, C, and L, and **NUL-1** to **NUL-3** take Tiers A, B, and C. The intake target is the containment window (CUL) or the notice window (NUL), and the outer bound is the correction window (CUL) or the declaration window (**NUL-1**). A level is not a tier classification, and it adds no figures of its own.
 
 **Restore-challenge after emergency.** The same outer bounds are the default restore-challenge windows after [**Chapter Thirteen §6.1 Emergency measures and continuation burden**](../core_13_forum.md#61-emergency-measures-and-continuation-burden) containment. The clock starts at containment or deferral, not at later filing. At the **Emergency level** the default restore-challenge window is 3 calendar days. Stage windows above must not slow that restoration.
 
@@ -254,13 +258,19 @@ Publication stage targets required here establish the performance floor; fuller 
 
 ### CF-11.3.2 Publication timeliness
 
-Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available on a time scale that preserves practical review.
+*In plain terms: the forum's record of what it did is made by the doing. Anything not lawfully restricted is public when the action is taken. Anything restricted still leaves a visible marker and a path to later release.*
 
-Where lawful restrictions delay full publication, the forum must still provide, as soon as lawfully feasible:
+This section applies [Chapter One §16.4 Document at Action](../core_01_c_stewardship_capacity_principles.md#164-document-at-action). The docket entry is made by the step itself, by automated capture wherever the forum's systems allow, and not in a later write-up.
+
+Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available when the action is taken, except for the part that a lawful restriction holds back. Reasons are recorded as part of the decision, not after it. Where full reasons cannot responsibly be ready at the moment of action, as in an emergency interim measure, the action is published at once with its stated ground and a marker that fuller reasons follow. The fuller record is then due no later than the matter's tier outer bound, and the gap is reported as publication timeliness under **CF-11.3** (*Metric registry and reporting taxonomy*).
+
+Where lawful restrictions hold back full publication, these exist and are visible from the moment of the action, because the action's own entry creates them:
 - a docket-visible status marker;
 - the fact of action taken;
-- the existence of any delayed-publication restriction;
+- the existence of any delayed-publication restriction, with its stated ground;
 - a later publication or reconstruction path.
+
+If a specific lawful order bars even the marker, the forum records that order and its ground in the lead record at the time of the action. The marker appears when the bar ends, and the item is handled as restricted evidence under **CF-11.3.3** (*Restricted-evidence timing*).
 
 ### CF-11.3.3 Restricted-evidence timing
 <details>

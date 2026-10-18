@@ -48,7 +48,7 @@
 - Downstream: Shapes the rights surface for education, Stakeholder System Participation, transparency, comprehensibility, audit and verification, and role-depth pathways into material responsibility.
   - Especially [Article III: Survival and Essential Access](core_06_rights_part_a.md#article-iii-survival-and-essential-access), [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), [Article XXI: Interoperability, Portability, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity), [Article XXIII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), and [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - Read with: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) and **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship** for operative role pathways and stewardship-development pathways.
-- Subsections (reading order): [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) · [§16.2 Institutional development](#162-institutional-development) (organizational facet) · [§16.3 Openness aspiration](#163-openness-aspiration).
+- Subsections (reading order): [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) · [§16.2 Institutional development](#162-institutional-development) (organizational facet) · [§16.3 Openness aspiration](#163-openness-aspiration) · [§16.4 Document at action](#164-document-at-action) (*the act makes its own record*).
 - Read with: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*the steward role itself — promoted to its own section; carries Pillar 1's hands-on operation, maintenance, oversight, and improvement duties, plus [§17.1](#171-shared-stewardship-standard), [§17.2](#172-alignment-under-pressure), [§17.3](#173-logging-the-role-not-the-steward), [§17.4 Aligned Self-Organization](#174-aligned-self-organization), which extends that discipline beyond the formal role, [§17.5 Duty to Resist](#175-duty-to-resist), and [§17.6 Portable Competence](#176-portable-competence), which keeps that competence from resting on any one steward*).
 
 </details>
@@ -108,7 +108,7 @@ flowchart TB
 
 **Pillar 1 — Consequential stewardship ([§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)):**
 - Shared systems that materially affect sentients require sentient hands-on operation, maintenance, oversight, and improvement — [**Strategic Stewardship Obligation**](core_05_band_continuity.md#strategic-stewardship-obligation), [**Meaningful Agency**](core_05_band_participation.md#meaningful-agency)
-- Records and review pathways others can verify and challenge — [**Auditability**](core_05_band_oversight.md#auditability), [**Contestability**](core_05_band_accountability.md#contestability)
+- Records and review pathways others can verify and challenge — [**Auditability**](core_05_band_oversight.md#auditability), [**Contestability**](core_05_band_accountability.md#contestability); records made by the act itself ([§16.4 Document at Action](#164-document-at-action))
 - Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI** (*Audit, Transparency, and Independent Verification*))
 
 <a id="16-pillar-2-proactive-stewardship"></a>
@@ -285,6 +285,58 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - elevate openness above **Safety**, **Truth**, justified confidentiality, or security constraints
   - substitute for proportionate understanding keyed to [Materiality](core_05_band_oversight.md#materiality) and [Dependency](core_05_band_continuity.md#dependency)
 
+<a id="164-document-at-action"></a>
+#### 16.4 Document at Action
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§16.3 Openness Aspiration](#163-openness-aspiration) (*openness is what makes a record inspectable; this section says when the record is made*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (*what a role-scoped log is and is not*).
+- Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (records that stay reconstructable, inspectable, and contestable); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (inspection and independent verification), **accountability** leg ([Attributable Action](core_05_band_accountability.md#attributable-action): answerability traced to the act), and **timeliness** leg (no avoidable delay); [material stake](core_00_preamble.md#material-stake) scaling.
+- Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) (*default logging contract*); [CF-11.3.2 Publication timeliness](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1132-publication-timeliness) (*forum records and delayed-publication markers*); [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Transparency](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Attributable Action](core_05_band_accountability.md#attributable-action) · [O](core_05_band_accountability.md#attributable-action) · [M](core_05_band_accountability.md#attributable-action-constitutional-a) · [A](core_05_band_accountability.md#attributable-action-constitutional-a) · [C](core_05_band_accountability.md#attributable-action-constitutional-c)
+- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
+
+</details>
+
+<br>
+
+*In plain terms: when something that matters is done, the record should be made by the doing, at that moment, and by the system itself wherever it can be. No one writes it up later from memory. What is not lawfully restricted should be visible straight away. What is restricted should still leave a visible mark that something was done, and a way to learn more later. The system does the recording, so the steward carries no extra work.*
+
+**Document at Action** is the stewardship default that a consequential act and its record happen together. It is the principle behind any record duty that would otherwise name no time and so let the record slip. It binds human and AI stewards alike, and the institutions and systems they run:
+
+- **The act makes the record:**
+  - The record of a consequential act (what was done, by which role, on whose authority, on what basis, and with what reasons) is produced by the act itself.
+  - Systems and processes should be built to capture it automatically wherever that is feasible, so that no one has to remember to write it up.
+  - Where capture cannot yet be automatic, the sentient acting makes the record at the time of the act, not afterward from memory.
+- **What is not restricted is available at once:**
+  - Information that no lawful restriction holds back is made available when the act is taken, to those entitled to see it. Nobody has to ask for it first.
+  - A restriction needs a lawful ground, stated and recorded at the time. It holds back only what the ground covers, never the whole record.
+- **What is restricted still leaves a trace:**
+  - From the moment of the act, a visible marker shows that an act was taken, that part of the record is held back, on what stated ground, and by what route the rest will later be released or reconstructed.
+  - Where the lawful ground itself bars even the marker, the ground is still recorded at the time of the act, and the marker appears when the bar ends.
+- **Automation carries the burden, not the steward:**
+  - Recording is a design duty on the system, scaled to [Materiality](core_05_band_oversight.md#materiality) and [Dependency](core_05_band_continuity.md#dependency).
+  - A record that costs a steward extra hours after every act is an [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) defect. The fix is to build the capture, not to ask for more diligence.
+
+This principle does not:
+
+- **Set a deadline:** "At action" is a design default for records. Time limits for decisions, responses, and review stay where [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) puts them, and nothing here lengthens or shortens them.
+- **Open anyone's inner life:** The record follows the role, as [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) requires. The [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) stands: capturing the act is not watching the actor.
+- **Outrank Safety, Truth, privacy, security, or justified confidentiality:** It never requires restricted information to be published.
+- **Turn a record into a verdict:** A record made at the act is a trail, not a finding, and it opens no standing record.
+
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. Consequential Stewardship: The Steward Role
 <details>
@@ -450,7 +502,7 @@ Those are failed tests for any steward.
 
 - Upstream: [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard); [§17.2 Alignment Under Pressure](#172-alignment-under-pressure); [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role).
 - Read with: [Attributable Action](core_05_band_accountability.md#attributable-action); [Auditability](core_05_band_oversight.md#auditability); [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary); [§13.2.3 Privacy](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination); [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
-- Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Eleven §7.1](core_11_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chapter Eleven §7.2](core_11_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Eleven §7.1](core_11_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chapter Eleven §7.2](core_11_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -468,7 +520,7 @@ Those are failed tests for any steward.
 
 *In plain terms: audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.*
 
-**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual: the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it, for human and AI stewards alike. [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) holds the log contract. Three principles govern it:
+**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual: the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it, for human and AI stewards alike. [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) holds the log contract. Three principles govern it:
 
 - **Scope follows the role:**
   - Before taking up a role, a steward must be told which of the role's actions will be logged and to whom the log is inspectable.
@@ -575,7 +627,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role); [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*who the duty binds*); [§17.2 Alignment Under Pressure](#172-alignment-under-pressure) (*the cover instruction as a failed test*); [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint) and [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
 - Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- Downstream: [Chapter Eleven §5.4](core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
+- Downstream: [Chapter Eleven §5.4](core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 
 </details>
 
@@ -628,7 +680,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[Chapter Eleven §5.4](core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist*) applies this duty to standing effects, and [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
+[Chapter Eleven §5.4](core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist*) applies this duty to standing effects, and [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
 
 <br>
 
@@ -641,7 +693,7 @@ flowchart TB
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (more than one steward able to check); **timeliness** leg (notice trouble early, including where functions meet); **participation** leg (open paths into consequential work); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship); [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence); [§19.3 Misalignment Detection](#193-misalignment-detection) (*plural detection*); [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response).
 - Limits: [§18.3 Segregation of Duties](#183-segregation-of-duties) and [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*learning a seat is not holding it*); [Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances); [§17.5 Duty to Resist](#175-duty-to-resist); [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
-- Downstream: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) (*no single point of sentient-level failure*); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor) (*Shared staffing and competency floor*); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness) (*Competency, succession, and oversight effectiveness*).
+- Downstream: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) (*no single point of sentient-level failure*); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor) (*Shared staffing and competency floor*); [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, succession, inspectable action, and oversight effectiveness*).
 
 </details>
 
@@ -678,7 +730,7 @@ Competence in a consequential role belongs to the role and to the communities th
 - **Specialization and burden:** [§16 Scope](#16-scope-priority-and-limits) stands: this does not require rotating everyone through every role or override justified specialization. The effort is sized to [Avoidable Burden](core_05_band_continuity.md#avoidable-burden). A small or informal group can meet it through a few trusted sentients covering for each other, without institutional apparatus.
 - **Every steward:** The same duty binds human and AI stewards under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
 
-Staffing minimums, backup depth, and succession mechanics live in [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor) (*Shared staffing and competency floor*), and [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness) (*Competency, succession, and oversight effectiveness*). This subsection states the principle they carry out.
+Staffing minimums, backup depth, and succession mechanics live in [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*), [CI-4.1](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-41-shared-staffing-and-competency-floor) (*Shared staffing and competency floor*), and [CS-4.10](corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, succession, inspectable action, and oversight effectiveness*). This subsection states the principle they carry out.
 
 <br>
 

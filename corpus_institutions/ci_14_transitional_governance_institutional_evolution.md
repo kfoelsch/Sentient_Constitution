@@ -103,7 +103,7 @@ Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) *
 - **enforcement executor** — who carries out deprivation or containment measures;
 - **review authority** — who independently reviews outcomes and proportionality;
 - **fund owner** — who governs incentive or remediation funds;
-- **notice channel** — how affected parties receive prompt, intelligible notice;
+- **notice channel** — how affected parties receive intelligible notice with the measure, or inside the restore-challenge window where it was deferred;
 - **contest path** — how challenges are filed, routed, and decided;
 - **end-date authority** — who sets and enforces sunset or program end dates;
 - **revalidation owner** — who re-checks continued necessity before reauthorization; and
@@ -189,7 +189,7 @@ A **documented transition plan** under **Article XXVIII-A** (*Phased Adoption an
 - least-restrictive feasible alternatives;
 - time-bounds.
 
-**Notice and contest:** Prompt notice, stated reasons, and a practicable contest path must be provided as soon as feasible consistent with harm prevention and evidence integrity.
+**Notice and contest:** Notice, stated reasons, and a practicable contest path must be provided with the measure. Where deferring them is strictly necessary for harm prevention or evidence integrity, they must be restored inside the restore-challenge window ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Restore-challenge after emergency containment*)).
 
 **Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) is judged under remedial standards. A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XX-B** (*Restriction Floors*) as stated in **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 

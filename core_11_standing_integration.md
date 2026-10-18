@@ -385,7 +385,7 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
 <a id="54-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 **Duty to resist.**
 
-This rule applies [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) to standing effects. The duty, who it binds, and its sequence (instruction received → refuse → document → escalate) are stated there. The refusal is logged as the [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action*) minimum inspectable-action set. Steward pointer (process support; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+This rule applies [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) to standing effects. The duty, who it binds, and its sequence (instruction received → refuse → document → escalate) are stated there. The refusal is logged as the [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) (*Inspectable, attributable action*) minimum inspectable-action set. Steward pointer (process support; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 - **Named pathway / finding:**
   - Issuing, transmitting, ratifying, or materially enforcing an instruction that requires unlawful or unconstitutional conduct is independently measurable violation conduct.

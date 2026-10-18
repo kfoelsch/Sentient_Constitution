@@ -332,7 +332,7 @@ None of the following is by itself an emergency:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-floor) through [§7](#7-emergency-and-urgent-action); [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); [Attributable Action](core_05_band_accountability.md#attributable-action); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity).
-- Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [CI-4.6 shared seat rules](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §8; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
+- Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action); [CI-4.6 shared seat rules](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §8; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Read with: [§4 Wrong-Seat Routing](#4-wrong-seat-routing) and [Chapter Four §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

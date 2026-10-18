@@ -95,10 +95,10 @@ The sub-rules below apply that cluster floor to specific authorization, reconstr
 <a id="authorization-and-predicate-floor"></a>
 Authorization and predicate floor
 
-*In plain terms: disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with prompt post-action review.*
+*In plain terms: disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review that starts inside the prompt-review window.*
 
 - **What it is**
-  - **In scope:** Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with prompt post-action review.
+  - **In scope:** Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review begun inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authorization and predicate floor.
 <a id="authorization-and-predicate-floor-a"></a>
 - **How to measure and assess**
@@ -289,10 +289,10 @@ Authority scoping, role clarity, and anti-capture constraints
 <a id="emergency-technical-coupling-discipline"></a>
 Emergency technical-coupling discipline
 
-*In plain terms: emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible where they materially affect rights or governance authority, and rolled back or restored where feasible.*
+*In plain terms: emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review that starts inside the prompt-review window where they materially affect rights or governance authority, and rolled back or restored where feasible.*
 
 - **What it is**
-  - **In scope:** Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible where they materially affect rights or governance authority, and rolled back or restored where feasible.
+  - **In scope:** Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review begun inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)) where they materially affect rights or governance authority, and rolled back or restored where feasible.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in emergency technical-coupling discipline.
 <a id="emergency-technical-coupling-discipline-a"></a>
 - **How to measure and assess**

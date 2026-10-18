@@ -721,7 +721,7 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at Chapter One "
             "§17.5 Duty to Resist (STEWARD-DOOR-LOCKSTEP-01)"
         )
-    if "10-inspectable-attributable-action" not in screen:
+    if "cs-4103-inspectable-attributable-action" not in screen:
         errors.append(
             f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at CS-4 §10 "
             "(STEWARD-DOOR-LOCKSTEP-01)"

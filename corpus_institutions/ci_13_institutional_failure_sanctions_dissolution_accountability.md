@@ -53,7 +53,7 @@ The authoritative consequence record for dissolution review, alignment-supervisi
 **What each institution must name and maintain locally**
 These are cooperation and implementation duties only:
 - a designated **consequence liaison** — not the sole record owner or final arbiter of trigger facts;
-- duty to **open or join** dissolution review or alignment-supervision review promptly when a lawful trigger fires, including when routed from **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), or a **Chapter Thirteen** Integrity forum ruling;
+- duty to **open or join** dissolution review or alignment-supervision review inside the **intake target** of the matching tier ([CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*)) when a lawful trigger fires, including when routed from **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), or a **Chapter Thirteen** Integrity forum ruling;
 - duty to **submit** required materials, resolution reports, sanction responses, and continuity proposals to the lead Integrity forum on published deadlines;
 - duty to **mirror publication** of the forum-held official record without selective omission, delay, or rewrite;
 - a **proposed continuity-transfer plan** for forum review, adoption, or amendment before receivership, supervised operation, or successor handoff proceeds; and
@@ -217,7 +217,7 @@ The two rungs differ in how much of the Chartered Party the forum places under i
 
 *In plain terms: if serious harm that cannot be undone is about to happen, the forum can act at once, but only with something lighter than dissolution and only for a short, reviewed time.*
 
-Where imminent irreversible harm to others is shown on the record, the forum may order a time-boxed measure lighter than dissolution: a freeze on named functions, escrow, a pause on the harmful activity, or an interim steward. The measure carries a default expiry and independent review inside the Tier A window, and it continues only on the burden in [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden). Emergency containment is not dissolution, never reaches survival-critical access, and is not a finding.
+Where imminent irreversible harm to others is shown on the record, the forum may order a time-boxed measure lighter than dissolution: a freeze on named functions, escrow, a pause on the harmful activity, or an interim steward. The measure carries a default expiry and independent review that begins inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)), and it continues only on the burden in [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden). Emergency containment is not dissolution, never reaches survival-critical access, and is not a finding.
 
 <a id="ci-139-systems-under-consequence-orders"></a>
 ## CI-13.9: Systems under consequence orders
@@ -246,7 +246,7 @@ The respondent for a System is its steward, meaning the operator or Institution 
 *In plain terms: every order can be challenged before someone independent, nobody gets punished for what they believe or for speaking up, a wrong order is put right, and the forum has real levers when a Chartered Party defies it.*
 
 **Review and fairness:**
-- **Independent review:** a forum outside the Chartered Party's control line and outside the issuing panel reviews each order promptly, inside the matching tier’s window, as the Interim Hold does.
+- **Independent review:** a forum outside the Chartered Party's control line and outside the issuing panel begins review of each order inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)), as the Interim Hold does.
 - **Notice, reasons, record:** the Chartered Party and affected stakeholders see the grounds, the evidence, and the reasons, subject only to narrow lawful limits ([Article XX-B](../core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*), escalation and review).
 - **Viewpoint neutrality:** no rung rests on belief, ideology, membership of a faith, party, or group, protected dissent, protected reporting, or organizing. A pattern of orders that tracks a viewpoint or a political target is evidence for **Integrity** review.
 - **If the order was wrong:** an order set aside, or one that lapses without a finding, is recorded as such, carries no adverse inference, and entitles the Chartered Party and affected sentients to [Redress and Remediation](../core_05_band_accountability.md#redress-and-remediation) for loss during it. A pattern of wrongful orders opens **Integrity** review.

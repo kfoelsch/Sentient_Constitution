@@ -506,7 +506,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - investigation of materially serious unlawful conduct.
 - **Independent authorization:** Intrusive covert measures, including secrecy-constrained investigative steps, require prior authorization through a lawful independent process.
   - Exception: where immediate action is necessary to prevent imminent and material harm and delayed authorization would defeat that purpose.
-  - Emergency use must trigger prompt post hoc review, record preservation under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
+  - Emergency use must trigger post hoc review that begins inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#prompt-review) (*Prompt review*)), record preservation under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
   - The emergency action, and any later reauthorization, must be entered in an Act Record as the main text of **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
 - **No anti-bypass evasion:** No institution may obtain, request, purchase, receive, launder, or use information through any of the following in order to evade constitutional limits that would have applied had it collected or derived the information directly:
   - foreign partners;
@@ -1411,7 +1411,7 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 
 <br>
 
-*In plain terms: once a sandbox system starts mattering in the real world, it must graduate to real-world obligations — promptly, not at the operator's convenience.*
+*In plain terms: once a sandbox system starts mattering in the real world, it must graduate to real-world obligations within 14 days, the Tier B outer bound, not at the operator's convenience.*
 
 This Article sets out when a sandboxed system moves to higher obligations:
 
@@ -1419,7 +1419,7 @@ This Article sets out when a sandboxed system moves to higher obligations:
   - The transition must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5.7** (*Non-experimental systems*).
   - Interim safeguards proportionate to current risk apply during transition.
   - Sandbox treatment may not continue for functions whose real-world effects materially exceed sandbox conditions.
-  - The transition must occur within a reasonable timeframe proportional to that growth.
+  - The transition must be completed within **14 days**, the Tier B outer bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the system holds.
 #### Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

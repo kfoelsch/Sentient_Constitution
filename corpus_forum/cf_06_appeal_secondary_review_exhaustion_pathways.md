@@ -162,7 +162,7 @@ Every forum family must keep a practical way to review materially impactful deci
 
 ### CF-6.2.2 Emergency, Exhaustion, and Timing Rules
 
-**Emergency review lanes.** Forums must maintain a route for interim review on a time scale that matches the threatened harm. Temporary orders entered before full review must remain contestable, time-limited, and followed by fuller lawful review as soon as feasible.
+**Emergency review lanes.** Forums must maintain a route for interim review that begins inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)). Temporary orders entered before full review must remain contestable, time-limited, and followed by fuller lawful review inside the matter's tier window.
 
 **Exhaustion and direct access.** Where adopting law uses both exhaustion and direct-access routes, exhaustion rules must not be used to defeat timely remedy, shield structural or constitutional error, or trap parties in a forum that cannot lawfully give the needed relief. Direct access must remain available when delay would materially endanger rights, evidence, independence, or practical restoration.
 

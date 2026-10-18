@@ -479,7 +479,7 @@ This Article sets out the floor for anything done without a sentient's consent d
   - decisions return to the sentient as soon as they are able to make them, and anything beyond immediate crisis care waits for their consent.
 - **When the sentient is refusing:** Overriding a sentient who can express a decision and is refusing care is a more serious step than acting for one who cannot decide.
   - It is permitted only where it is necessary to prevent serious harm and meets **Necessity** and **Proportionality**, in addition to the floor above.
-  - The independent review above must take place promptly.
+  - The independent review above must begin inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#prompt-review) (*Prompt review*)), which is 24 hours where no matter is classified.
 - **Check for a medical cause first:** When a sentient's behavior or condition could come from a health crisis — for example, they appear drunk, confused, aggressive, or unresponsive — anyone who stops, detains, restrains, or takes them into custody must:
   - check for common treatable medical causes, such as low blood sugar, head injury, stroke, seizure, or overdose, before treating the behavior as misconduct;
   - get them timely care when a medical cause is found or cannot be ruled out; and

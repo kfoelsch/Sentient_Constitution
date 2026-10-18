@@ -40,7 +40,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist), [§17.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard), and [§17.2 Alignment Under Pressure](core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure); [Chapter Eleven §5.4](core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
+- Downstream: Principles: [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist), [§17.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard), and [§17.2 Alignment Under Pressure](core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure); [Chapter Eleven §5.4](core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
 - Read with: [Stewardship](core_05_band_continuity.md#stewardship), [Good Faith](core_05_band_accountability.md#good-faith), [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing), and [Attributable Action](core_05_band_accountability.md#attributable-action).
 
 </details>
@@ -473,7 +473,8 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - Downstream: Principles: [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes); [Chapter Nine §3.4](core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Chapter Nine Part B §8](core_09_b_system_alignment_certification_record_process.md#8-system-certification-record) where attribution capability is materially required.
 - Read with: [Accountability](core_05_apex_accountability_leg.md#accountability), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Due Process](core_05_band_accountability.md#due-process), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation).
-- Read with: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed crews; not a standing-record substitute*).
+- Read with: [Chapter One §16.4 Document at Action](core_01_c_stewardship_capacity_principles.md#164-document-at-action) (*the principle that the act makes its own record*).
+- Read with: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) (*default logging contract for mixed crews; not a standing-record substitute*).
 
 </details>
 
@@ -508,7 +509,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - Downstream: Principles: [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Chapter Nine §3.4](core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation); [Chapter Nine Part B §8](core_09_b_system_alignment_certification_record_process.md#8-system-certification-record); and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** where attributable action or audit-level responsibility is materially implicated.
 - Read with: [Attributable Action](core_05_band_accountability.md#attributable-action), [Accountability](core_05_apex_accountability_leg.md#accountability), [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
-- Read with: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed crews; internals are not a standing-measurement exemption*).
+- Read with: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) (*default logging contract for mixed crews; internals are not a standing-measurement exemption*).
 
 </details>
 
@@ -815,7 +816,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - use informal delay or silence instead of a documented Stay when one is required;
-    - keep a Stay indefinite without a documented review trigger or prompt tier-appropriate review;
+    - keep a Stay indefinite without a documented review trigger or review begun inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#prompt-review) (*Prompt review*));
     - block [Contestability](core_05_band_accountability.md#contestability) or required component review;
     - treat a Stay as final approval or a merits decision;
     - label a [Merits Determination](core_05_band_accountability.md#merits-determination) as a Stay;
@@ -1676,7 +1677,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A general help desk, intake channel, or complaint log that cannot review, preserve, mark, correct, limit, or route the challenged act. The seat does not gain authority over issues assigned to another forum or decision-maker.
 <a id="contest-seat-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or prompt routing rather than a procedural dead end.
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*)) rather than a procedural dead end.
 
     **Primary assessment:** Identify the published challenge path, holder, authority, clock, available corrective or limiting action, and required routing. Test whether the holder is independent of the challenged verification and outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of any materially interested party.
   - **Secondary measure:** [Contestability](core_05_band_accountability.md#contestability), [Due Process](core_05_band_accountability.md#due-process), [Timely Resolution](core_05_band_accountability.md#timely-resolution), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity) — co-measures for access, fairness, evidence integrity, and reconstructability.
