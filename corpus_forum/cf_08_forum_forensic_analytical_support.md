@@ -151,7 +151,7 @@ Evidence handling must satisfy Chapter Five [Evidence Preservation](../core_05_b
 
 Findings, reports, technical explanations, and preservation records must be reasoned, attributable, reviewable, and written or presented in a form an ordinary affected sentient can understand without losing necessary technical precision.
 
-Emergency ex parte preservation steps may be permitted only when delay would foreseeably destroy, hide, alter, or materially corrupt evidence. Those steps must be narrowly scoped, promptly recorded, and made contestable after the immediate preservation need passes. Emergency preservation may secure evidence; it must not become an unreviewable merits shortcut.
+Emergency ex parte preservation steps may be permitted only when delay would foreseeably destroy, hide, alter, or materially corrupt evidence. Those steps must be narrowly scoped, recorded inside the **intake target** of the matching tier (6 hours at the Emergency level; [CF-11.3.1](cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*)), and made contestable after the immediate preservation need passes. Emergency preservation may secure evidence; it must not become an unreviewable merits shortcut.
 
 ## CF-8.6 Boundary with contest-integrity monitoring
 <details>

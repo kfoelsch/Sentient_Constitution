@@ -49,12 +49,12 @@ Where emergency adjudication materially depends on constitutional systems, this 
 
 ## CF-14.1 Emergency triage hierarchy
 
-*In plain terms: When there is not enough capacity for everything, this is the order: imminent loss of life or irreversible harm first, then evidence about to vanish, then coercive measures needing prompt review.*
+*In plain terms: When there is not enough capacity for everything, this is the order: imminent loss of life or irreversible harm first, then evidence about to vanish, then coercive measures needing review inside the prompt-review window.*
 
 Where capacity is insufficient for normal operations, forums must prioritize:
 - matters involving imminent loss of life or irreversible harm;
 - [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) needs likely to become impossible if delayed;
-- detention, seizure, exclusion, or comparable coercive measures needing prompt review;
+- detention, seizure, exclusion, or comparable coercive measures needing review inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*));
 - inability-to-form and anti-self-judging cases that block lawful merits adjudication;
 - matters where delay would predictably extinguish practical remedy.
 

@@ -49,13 +49,13 @@ Where fallback operation materially depends on constitutional systems, this sect
 
 ## CF-13.1 Temporary quorum and provisional authority
 
-*In plain terms: A smaller panel may sit temporarily only if the rule was written in advance, independence is preserved as far as possible, and a fuller panel reviews rights-affecting decisions promptly.*
+*In plain terms: A smaller panel may sit temporarily only if the rule was written in advance, independence is preserved as far as possible, and a fuller panel starts reviewing rights-affecting decisions inside the prompt-review window.*
 
 Adopting systems may define temporary reduced-size or provisional panels only if:
 - the temporary quorum rule is predeclared;
 - competence and independence are still preserved as far as feasible;
 - the measure is limited in duration and scope;
-- rights-affecting emergency decisions remain subject to prompt review by a fuller lawful panel or backup forum.
+- rights-affecting emergency decisions remain subject to review, begun inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)), by a fuller lawful panel or backup forum.
 
 Temporary quorum rules must not be used to concentrate durable control or to bypass anti-capture constraints.
 

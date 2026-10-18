@@ -1008,10 +1008,10 @@ Authorization and role-scope discipline
 <a id="emergency-governance-limits-and-anti-normalization-control"></a>
 Emergency governance limits and anti-normalization control
 
-*In plain terms: pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.*
+*In plain terms: pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review that starts inside the prompt-review window, and rolled back or restored where feasible.*
 
 - **What it is**
-  - **In scope:** Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.
+  - **In scope:** Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review begun inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)), and rolled back or restored where feasible.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in emergency governance limits and anti-normalization control.
 <a id="emergency-governance-limits-and-anti-normalization-control-a"></a>
 - **How to measure and assess**
@@ -1152,10 +1152,10 @@ structural review, correction urgency, and disclosure terms
 <a id="correction-urgency-level-cul-discipline"></a>
 Correction Urgency Level (CUL) discipline
 
-*In plain terms: structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility.*
+*In plain terms: structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. Each level borrows the timing of a tier, and the top level, CUL-1, runs at the Emergency level when the emergency conditions are met.*
 
 - **What it is**
-  - **In scope:** Structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. **CUL-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible.
+  - **In scope:** Structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. The levels take the scope of harm and the column of the matching tier in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), applied to a structural issue and not to a dispute: **CUL-1** matches Tier A, **CUL-2** Tier B, **CUL-3** Tier C, and **CUL-4** Tier L (Tier P for an issue contained in a private unit). A level borrows that column's figures and is not a tier classification. The **containment window** is the column's intake target: containment, or a documented decision not to contain, is made inside it. The **correction window** is the column's outer bound: the correction, or a safeguard that holds, is in place inside it, and going past it needs a documented extension under Continuation discipline ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden)). Both are compliance lines. The slower complexity levels do not apply. **CUL-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible. "Where feasible" qualifies the coupling and never the time of containment. Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CUL-1** runs at the **Emergency level** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#time-scale-levels) (*Time-scale levels*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden)). Where a CUL issue is also before a forum, that matter's tier window governs, and a CUL level never changes a dispute's tier.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in correction Urgency Level (CUL) discipline.
 <a id="correction-urgency-level-cul-discipline-a"></a>
 - **How to measure and assess**

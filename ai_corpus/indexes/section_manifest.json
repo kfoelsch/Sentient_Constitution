@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-17T22:50:47+00:00",
+  "generated_at": "2026-10-18T02:05:07+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -933,9 +933,9 @@
       ]
     },
     "core_13_forum.md": {
-      "total_lines": 1031,
+      "total_lines": 1033,
       "sections": [
-        {"header":"CHAPTER THIRTEEN: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":1031,"anchor":"#chapter-thirteen-forums-and-jurisdiction"},
+        {"header":"CHAPTER THIRTEEN: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":1033,"anchor":"#chapter-thirteen-forums-and-jurisdiction"},
         {"header":"1. Purpose and role — participation architecture","level":3,"line_start":46,"line_end":137,"anchor":"#1-purpose-and-role--participation-architecture"},
         {"header":"2. Default venue and primary stakes","level":3,"line_start":138,"line_end":284,"anchor":"#2-default-venue-and-primary-stakes"},
         {"header":"2.1 Lead-default limits","level":4,"line_start":211,"line_end":221,"anchor":"#21-lead-default-limits"},
@@ -961,9 +961,9 @@
         {"header":"Sentience-status adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) implementation hook)","level":4,"line_start":765,"line_end":821,"anchor":null},
         {"header":"Referral distinguished from expansion","level":4,"line_start":822,"line_end":829,"anchor":null},
         {"header":"Chapter Twelve designation and independent review","level":4,"line_start":830,"line_end":838,"anchor":null},
-        {"header":"6. Timely resolution, materiality tiers, and anti-delay discipline","level":3,"line_start":839,"line_end":996,"anchor":"#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"},
-        {"header":"6.1 Emergency measures and continuation burden","level":4,"line_start":963,"line_end":996,"anchor":"#61-emergency-measures-and-continuation-burden"},
-        {"header":"7. Forum support before, during, and after review — oversight architecture","level":3,"line_start":997,"line_end":1031,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
+        {"header":"6. Timely resolution, materiality tiers, and anti-delay discipline","level":3,"line_start":839,"line_end":998,"anchor":"#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"},
+        {"header":"6.1 Emergency measures and continuation burden","level":4,"line_start":965,"line_end":998,"anchor":"#61-emergency-measures-and-continuation-burden"},
+        {"header":"7. Forum support before, during, and after review — oversight architecture","level":3,"line_start":999,"line_end":1033,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
       ]
     },
     "core_10-13_application_vignettes.md": {
@@ -1322,15 +1322,15 @@
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 333,
+      "total_lines": 338,
       "sections": [
-        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":333,"anchor":null},
-        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":333,"anchor":null},
+        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":338,"anchor":null},
+        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":338,"anchor":null},
         {"header":"CJS-0.1: Cross-file routing","level":3,"line_start":61,"line_end":151,"anchor":"#cjs-01-cross-file-routing"},
         {"header":"Maintainer-only detail: authoritative topic router","level":4,"line_start":103,"line_end":151,"anchor":"#cross-file-routing"},
         {"header":"CJS-0.2: Joint structure registry","level":3,"line_start":152,"line_end":186,"anchor":"#cjs-02-joint-structure-registry"},
         {"header":"CJS-0.3: Stable identifiers, edition alignment, and drafting notes","level":3,"line_start":187,"line_end":233,"anchor":"#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"},
-        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":333,"anchor":"#cjs-04-time-window-names"}
+        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":338,"anchor":"#cjs-04-time-window-names"}
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
@@ -1397,14 +1397,14 @@
       ]
     },
     "corpus_joint_structure/cjs_03o_oversight_operations.md": {
-      "total_lines": 1088,
+      "total_lines": 1090,
       "sections": [
-        {"header":"Oversight leg (CJS-3.2–CJS-3.6) / oDef.2–oDef.6","level":1,"line_start":1,"line_end":1088,"anchor":null},
+        {"header":"Oversight leg (CJS-3.2–CJS-3.6) / oDef.2–oDef.6","level":1,"line_start":1,"line_end":1090,"anchor":null},
         {"header":"CJS-3.2 Oversight: reflexive transparency and accountability terms","level":2,"line_start":38,"line_end":239,"anchor":null},
         {"header":"CJS-3.3 Oversight: auditability and reconstructability terms (annex)","level":2,"line_start":240,"line_end":366,"anchor":"#cjs-33-auditability-annex"},
         {"header":"CJS-3.4 Oversight: tiered transparency and audit-access terms","level":2,"line_start":367,"line_end":580,"anchor":"#operational-transparency-and-structured-logging-requirements-c"},
         {"header":"CJS-3.5 Oversight: independent verification and claim-integrity terms","level":2,"line_start":581,"line_end":736,"anchor":"#tier-structure-and-baseline-accessibility-c"},
-        {"header":"CJS-3.6 Oversight: integrity assurance and resilience operations","level":2,"line_start":737,"line_end":1088,"anchor":"#structured-review-and-incentive-integrity-floor-c"}
+        {"header":"CJS-3.6 Oversight: integrity assurance and resilience operations","level":2,"line_start":737,"line_end":1090,"anchor":"#structured-review-and-incentive-integrity-floor-c"}
       ]
     },
     "corpus_joint_structure/cjs_03p_participation_operations.md": {
@@ -2180,27 +2180,27 @@
       ]
     },
     "corpus_forum/cf_11_performance_backlog_publication_accessibility.md": {
-      "total_lines": 469,
+      "total_lines": 473,
       "sections": [
-        {"header":"CF-11: Forum performance, backlog requirements, publication timeliness, and accessibility","level":1,"line_start":1,"line_end":469,"anchor":null},
+        {"header":"CF-11: Forum performance, backlog requirements, publication timeliness, and accessibility","level":1,"line_start":1,"line_end":473,"anchor":null},
         {"header":"CF-11.1 Core rule","level":2,"line_start":74,"line_end":85,"anchor":null},
         {"header":"CF-11.2 Urgency-scaled service requirements (notice through remediation closure)","level":2,"line_start":86,"line_end":165,"anchor":null},
         {"header":"CF-11.2.1 Purpose and owner boundary","level":3,"line_start":98,"line_end":113,"anchor":null},
         {"header":"CF-11.2.2 Service lifecycle traceability","level":3,"line_start":114,"line_end":124,"anchor":null},
         {"header":"CF-11.2.3 Minimum urgency levels","level":3,"line_start":125,"line_end":149,"anchor":null},
         {"header":"CF-11.2.4 Cross-layer requirements and escalation","level":3,"line_start":150,"line_end":165,"anchor":null},
-        {"header":"CF-11.3 Metric registry and reporting taxonomy","level":2,"line_start":166,"line_end":287,"anchor":null},
-        {"header":"CF-11.3.1 Stage targets and timing floors","level":3,"line_start":188,"line_end":254,"anchor":null},
-        {"header":"CF-11.3.2 Publication timeliness","level":3,"line_start":255,"line_end":264,"anchor":null},
-        {"header":"CF-11.3.3 Restricted-evidence timing","level":3,"line_start":265,"line_end":287,"anchor":null},
-        {"header":"CF-11.4 Performance thresholds and alerts","level":2,"line_start":288,"line_end":317,"anchor":null},
-        {"header":"CF-11.5 Required remediation actions for threshold crossings","level":2,"line_start":318,"line_end":343,"anchor":null},
-        {"header":"CF-11.6 Forum-performance review cadence","level":2,"line_start":344,"line_end":379,"anchor":null},
-        {"header":"CF-11.6.1 Assurance scenarios","level":3,"line_start":357,"line_end":379,"anchor":null},
-        {"header":"CF-11.7 Governance disclosure fields, supporting records, accessibility, and challenge-pathway usability","level":2,"line_start":380,"line_end":416,"anchor":"#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-pathway-usability"},
-        {"header":"CF-11.8 Contest-integrity monitoring interface","level":2,"line_start":417,"line_end":429,"anchor":null},
-        {"header":"CF-11.9 Non-compliant performance patterns","level":2,"line_start":430,"line_end":444,"anchor":null},
-        {"header":"CF-11.10 Lived conditions during restriction and re-entry alignment (cross-layer)","level":2,"line_start":445,"line_end":469,"anchor":null}
+        {"header":"CF-11.3 Metric registry and reporting taxonomy","level":2,"line_start":166,"line_end":291,"anchor":null},
+        {"header":"CF-11.3.1 Stage targets and timing floors","level":3,"line_start":188,"line_end":258,"anchor":null},
+        {"header":"CF-11.3.2 Publication timeliness","level":3,"line_start":259,"line_end":268,"anchor":null},
+        {"header":"CF-11.3.3 Restricted-evidence timing","level":3,"line_start":269,"line_end":291,"anchor":null},
+        {"header":"CF-11.4 Performance thresholds and alerts","level":2,"line_start":292,"line_end":321,"anchor":null},
+        {"header":"CF-11.5 Required remediation actions for threshold crossings","level":2,"line_start":322,"line_end":347,"anchor":null},
+        {"header":"CF-11.6 Forum-performance review cadence","level":2,"line_start":348,"line_end":383,"anchor":null},
+        {"header":"CF-11.6.1 Assurance scenarios","level":3,"line_start":361,"line_end":383,"anchor":null},
+        {"header":"CF-11.7 Governance disclosure fields, supporting records, accessibility, and challenge-pathway usability","level":2,"line_start":384,"line_end":420,"anchor":"#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-pathway-usability"},
+        {"header":"CF-11.8 Contest-integrity monitoring interface","level":2,"line_start":421,"line_end":433,"anchor":null},
+        {"header":"CF-11.9 Non-compliant performance patterns","level":2,"line_start":434,"line_end":448,"anchor":null},
+        {"header":"CF-11.10 Lived conditions during restriction and re-entry alignment (cross-layer)","level":2,"line_start":449,"line_end":473,"anchor":null}
       ]
     },
     "corpus_forum/cf_12_forum_continuity.md": {
