@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.14` · effective **2026-10-14**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **714** of **1047** headings carry a gloss (68%).
+Coverage: **714** of **1048** headings carry a gloss (68%).
 
 ## Contents
 
@@ -30,7 +30,7 @@ Coverage: **714** of **1047** headings carry a gloss (68%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/16 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/17 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09_a_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09_b_system_alignment_certification_record_process.md` (13/25 glossed)
@@ -3202,7 +3202,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/16 headings glossed
+Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/17 headings glossed
 
 #### 1. When System and Institutional Charters Are Required
 
@@ -3222,29 +3222,35 @@ before anyone can judge whether a system or institution stayed within its limits
 
 [Source](../../core_07_charters.md#12-which-classes-are-covered)
 
-##### 1.3 Class P: a choice
+##### 1.3 What Class P is
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#13-class-p-a-choice)
+[Source](../../core_07_charters.md#13-what-class-p-is)
 
-##### 1.4 When it is due
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_07_charters.md#14-when-it-is-due)
-
-##### 1.5 If a System Charter or Institutional Charter is missing
+##### 1.4 Class P: optional charters, and when they become required
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#15-if-a-system-charter-or-institutional-charter-is-missing)
+[Source](../../core_07_charters.md#14-class-p-optional-charters-and-when-they-become-required)
 
-##### 1.6 The process at a glance
+##### 1.5 When a System Charter or Institutional Charter is due
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#16-the-process-at-a-glance)
+[Source](../../core_07_charters.md#15-when-a-system-charter-or-institutional-charter-is-due)
+
+##### 1.6 If a System Charter or Institutional Charter is missing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing)
+
+##### 1.7 The process at a glance
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#17-the-process-at-a-glance)
 
 #### 2. The Right to Form, and Three Narrow Limits
 
@@ -3272,7 +3278,7 @@ before a Chartered Party exercises authority over others, the sentients who hold
 
 #### 6. When a Holder Fails the Check
 
-a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved, with a week to answer and thirty days to fix it, and the Chartered Party keeps operating. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.
+a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved. The Chartered Party gets a short window to answer and a longer one to fix it, and both are shorter the more critical it is. It keeps operating throughout. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause.
 
 [Source](../../core_07_charters.md#6-when-a-holder-fails-the-check)
 

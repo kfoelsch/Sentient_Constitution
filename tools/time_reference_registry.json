@@ -1,6 +1,6 @@
 {
   "rule": "TIME-REF-01",
-  "note": "The logic behind every time reference in the binding corpus. A time reference is scaled (it names a bound kind and the tier or class that sets it) or fixed (it uses a registered window name that owns its length). Add a fixed period here, with its owner, before using its length in new text. Numbers live in the owners, never here.",
+  "note": "The logic behind every time reference in the binding corpus. A time reference is scaled (it names a bound kind and the tier or class that sets it) or fixed (it uses a registered window name that owns its length). Add a fixed period here, with its owner, before using its length in new text. Numbers live in the owners, never here. A scaled window (scaled_windows) is a registered name whose length comes from a tier or class column: the name is a bound kind, but a number with a unit beside it still needs the tier or class that sets it.",
   "bound_terms": [
     "outer bound",
     "intake target",
@@ -38,14 +38,6 @@
     "CSS-[ABC]\\b"
   ],
   "fixed_periods": [
-    {
-      "name": "response window",
-      "owner": "Chapter Seven §1.5 and §6 (7 days)"
-    },
-    {
-      "name": "resolution window",
-      "owner": "Chapter Seven §1.5 and §6 (30 days)"
-    },
     {
       "name": "receipt window",
       "owner": "CF-5.5 and CF-5.6"
@@ -113,6 +105,18 @@
     {
       "name": "record span",
       "owner": "Chapter Five"
+    }
+  ],
+  "scaled_windows": [
+    {
+      "name": "response window",
+      "owner": "Chapter Seven §1.6 and §6; CI-13.3",
+      "takes": "the intake target of the Tier that matches the Chartered Party's class"
+    },
+    {
+      "name": "resolution window",
+      "owner": "Chapter Seven §1.6 and §6; CI-13.3",
+      "takes": "the outer bound of the Tier that matches the Chartered Party's class"
     }
   ],
   "exempt_unit_patterns": [

@@ -277,7 +277,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 - **Clock is not a name:** It describes how a window runs (when it starts, keeps running, or stalls) and appears in plain idiom such as "the applicable clock".
 - **Cadence is not a length:** *Review cadence* is the name of the [Chapter Thirteen rule](../core_13_forum.md#review-cadence) that sets the intervals below. It is not itself an interval.
 - **Promptly is not a length:** Where owner text says "promptly" and names no window, it states a duty of diligence. It implies no tier, level, or window, and it does not excuse delay. Where the duty is review of a measure in force, intake, or notice, the owner text names the window instead (see *Windows with no length* below). Record duties that ask for a record "at the time of the act" follow [Chapter One §16.4 Document at Action](../core_01_c_stewardship_capacity_principles.md#164-document-at-action), which is a design default for records and not a length.
-- **Response window means the short window to answer:** It is never the tier-scaled time for reviewing a hold or an order. The time to begin that review is the **prompt-review window**, and the time to finish a matter is the matching **tier window**.
+- **Response window means the Chartered Party's window to answer:** It answers a request, a notice, or a failed finding, and it takes the length of the matching tier's intake target. It is never the time for reviewing a hold or an order. The time to begin that review is the **prompt-review window**, and the time to finish a matter is the matching **tier window**.
 
 **A. The tier scale** (owner: [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); table: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*))
 
@@ -298,14 +298,16 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 | **Audit midpoint** | interval | The audit that falls half-way between certification passes | Review cadence |
 | **Audit advance allowance** | interval | How far a body may move its own audit earlier | Review cadence |
 
-**B. The response window and the resolution window** (owners: [Chapter Seven §1.5 If a System Charter or Institutional Charter is missing](../core_07_charters.md#15-if-a-system-charter-or-institutional-charter-is-missing) and [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check); [CI-13.3](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*))
+**B. The response window and the resolution window** (owners: [Chapter Seven §1.6 If a System Charter or Institutional Charter is missing](../core_07_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing) and [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check); [CI-13.3](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*))
 
 | Name | Kind | What it times | Set in |
 |---|---|---|---|
-| **Response window** | window | The short window for a Chartered Party to answer a request, a notice, or a failed finding | Chapter Seven §1.5, §6; CI-13.3 (*Notice, response, and resolution*) |
-| **Resolution window** | window | The longer window to publish the missing instrument or to resolve a failed finding | Chapter Seven §1.5, §6; CI-13.3 (*Notice, response, and resolution*) |
-| **Challenge extension** | window | Extends the resolution window while a classification challenge is pending | Chapter Seven §1.5 |
+| **Response window** | window | The short window for a Chartered Party to answer a request, a notice, or a failed finding; it takes the length of the matching tier's intake target | Chapter Seven §1.6, §6; CI-13.3 (*Notice, response, and resolution*) |
+| **Resolution window** | window | The longer window to publish the missing instrument or to resolve a failed finding; it takes the length of the matching tier's outer bound | Chapter Seven §1.6, §6; CI-13.3 (*Notice, response, and resolution*) |
+| **Challenge extension** | window | Extends the resolution window while a classification challenge is pending | Chapter Seven §1.6 |
 | **Good-faith extension** | window | One extension of the resolution window on a showing of good-faith progress and no continuing harm | CI-13.3 (*Notice, response, and resolution*) |
+
+Both windows take the Tier that matches the Chartered Party's class: Class A, B, C, or L takes Tier A, B, C, or L, and a class in question counts at Tier L until it is settled. Class P takes Tier P where **CI-13.3** (*Notice, response, and resolution*) applies to it.
 
 The two extensions are different rules in different owners. Neither stands in for the other.
 

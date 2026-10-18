@@ -666,7 +666,7 @@ def scan_avoid_cure_family(rel_path: str, text: str) -> list[Finding]:
 
 
 # Time-window names (TIME-NAME-01 in doc_architecture.md): a window is named by its kind of time (window, target, bound, term, interval, period, span).
-# "Clock" is not the name of a specific window, "cadence" is not the name of a length, and "response window" belongs to the 7-day window only.
+# "Clock" is not the name of a specific window, "cadence" is not the name of a length, and "response window" belongs to the Chartered Party's window to answer only (its length is the matching tier's intake target).
 # Plain idioms such as "the applicable clock" or "published clocks" are out of scope; only the retired named phrases are matched.
 _WINDOW_NAME_RETIRED = re.compile(
     r"\btier(?:-default)?[ -]clocks?\b"
