@@ -1,0 +1,149 @@
+{
+  "rule": "TIME-REF-01",
+  "note": "The logic behind every time reference in the binding corpus. A time reference is scaled (it names a bound kind and the tier or class that sets it) or fixed (it uses a registered window name that owns its length). Add a fixed period here, with its owner, before using its length in new text. Numbers live in the owners, never here.",
+  "bound_terms": [
+    "outer bound",
+    "intake target",
+    "stage target",
+    "restore-challenge window",
+    "prompt-review window",
+    "certification interval",
+    "audit midpoint",
+    "audit advance allowance",
+    "review interval",
+    "provisional interval",
+    "tier window",
+    "containment window",
+    "correction window",
+    "notice window",
+    "declaration window",
+    "hold lapse",
+    "compliance line",
+    "protective-step bound",
+    "ceiling"
+  ],
+  "basis_terms": [
+    "Tiers? [ABCLP]\\b",
+    "Class(?:es)? [ABCLP]\\b",
+    "(?i:(?:matching|matched|that matches|which matches) (?:the )?(?:system's |matter's |measure's )?(?:tier|class))",
+    "(?i:tier-scaled)",
+    "(?i:class-scaled)",
+    "(?i:scaled to (?:the )?(?:tier|class))",
+    "(?i:by class)",
+    "(?i:tier window)",
+    "(?i:tier outer bound)",
+    "CUL-[1-4]",
+    "NUL-[1-3]",
+    "Emergency level",
+    "CSS-[ABC]\\b"
+  ],
+  "fixed_periods": [
+    {
+      "name": "response window",
+      "owner": "Chapter Seven §1.5 and §6 (7 days)"
+    },
+    {
+      "name": "resolution window",
+      "owner": "Chapter Seven §1.5 and §6 (30 days)"
+    },
+    {
+      "name": "receipt window",
+      "owner": "CF-5.5 and CF-5.6"
+    },
+    {
+      "name": "completion window",
+      "owner": "CF-5.5 and CF-5.6"
+    },
+    {
+      "name": "register-entry window",
+      "owner": "CF-5.6"
+    },
+    {
+      "name": "watch period",
+      "owner": "CI-13.3"
+    },
+    {
+      "name": "order term",
+      "owner": "CI-13.5"
+    },
+    {
+      "name": "contraction review interval",
+      "owner": "CI-13.5"
+    },
+    {
+      "name": "host replacement window",
+      "owner": "CI-4.7"
+    },
+    {
+      "name": "cooling-off period",
+      "owner": "Article XII-E and CI-4.2"
+    },
+    {
+      "name": "attachment spell ceiling",
+      "owner": "CF-3.6 and CI-9.3.3"
+    },
+    {
+      "name": "half-life",
+      "owner": "Chapter Eleven §6.1"
+    },
+    {
+      "name": "currentness cutoff",
+      "owner": "Chapter Eleven §6.1"
+    },
+    {
+      "name": "exclusivity term",
+      "owner": "Article XVIII-D to XVIII-F"
+    },
+    {
+      "name": "fee-use term",
+      "owner": "Article XVIII-D to XVIII-F"
+    },
+    {
+      "name": "progress report interval",
+      "owner": "Article XXVIII-A, CI-14.4, CS-10.7"
+    },
+    {
+      "name": "open-format transition window",
+      "owner": "Article XXI-D and CJS-3.17"
+    },
+    {
+      "name": "non-availability period",
+      "owner": "CS-2 Part B §9.12.1"
+    },
+    {
+      "name": "record span",
+      "owner": "Chapter Five"
+    }
+  ],
+  "exempt_unit_patterns": [
+    {
+      "pattern": "human (?:lifespan|calibration)|80-year",
+      "reason": "Chapter Ten day-equivalent calibration, not a deadline"
+    },
+    {
+      "pattern": "^\\|\\s*[0-9]+\\s*\\|.*day-equivalent|about \\*\\*[0-9]+",
+      "reason": "Chapter Ten day-equivalent calibration table"
+    },
+    {
+      "pattern": "[“\"](?:as soon as feasible|promptly|reasonable)[”\"]",
+      "reason": "the phrase is quoted as a mention in a rule that retires it, not used as a time reference"
+    }
+  ],
+  "qualitative_on_purpose": [
+    {
+      "file": "core_06_rights_part_a.md",
+      "contains": "Problems are spotted and fixed promptly",
+      "reason": "Article V plain-language aim; it states a principle and sets no deadline. Promptly is not a length (TIME-NAME-01)."
+    },
+    {
+      "file": "core_12_a_misconduct_designation.md",
+      "contains": "A genuine drafting mistake that is fixed promptly",
+      "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
+    },
+    {
+      "file": "core_12_a_misconduct_designation.md",
+      "contains": "Good-faith drafting error that is promptly disclosed and corrected",
+      "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
+    }
+  ]
+}

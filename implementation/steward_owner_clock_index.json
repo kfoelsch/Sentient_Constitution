@@ -15,7 +15,7 @@
     ],
     "logging_owner": {
       "label": "CS-4 §10 inspectable attributable action",
-      "href": "corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action"
+      "href": "corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action"
     }
   },
   "clock_families": {
@@ -92,7 +92,7 @@
         },
         {
           "label": "CS-4 §10",
-          "href": "corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action"
+          "href": "corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Privacy may shape access controls. It is not a standing-measurement veto.",
@@ -428,7 +428,7 @@
         },
         {
           "label": "CS-4 §10 inspectable attributable action",
-          "href": "corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action"
+          "href": "corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Duty to resist attaches to unlawful or unconstitutional instructions, not to a privacy restriction that keeps the reconstructable set inspectable to independent reviewers. Privacy is not a standing-measurement veto.",

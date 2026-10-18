@@ -217,7 +217,7 @@ The two rungs differ in how much of the Chartered Party the forum places under i
 
 *In plain terms: if serious harm that cannot be undone is about to happen, the forum can act at once, but only with something lighter than dissolution and only for a short, reviewed time.*
 
-Where imminent irreversible harm to others is shown on the record, the forum may order a time-boxed measure lighter than dissolution: a freeze on named functions, escrow, a pause on the harmful activity, or an interim steward. The measure carries a default expiry and independent review inside the Tier A window, and it continues only on the burden in [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden). Emergency containment is not dissolution, never reaches survival-critical access, and is not a finding.
+Where imminent irreversible harm to others is shown on the record, the forum may order a time-boxed measure lighter than dissolution: a freeze on named functions, escrow, a pause on the harmful activity, or an interim steward. The measure carries a default expiry and independent review that begins inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#prompt-review) (*Prompt review*)), and it continues only on the burden in [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden). Emergency containment is not dissolution, never reaches survival-critical access, and is not a finding.
 
 <a id="ci-139-systems-under-consequence-orders"></a>
 ## CI-13.9: Systems under consequence orders

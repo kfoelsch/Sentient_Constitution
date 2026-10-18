@@ -631,7 +631,7 @@ This Article sets out the floors for product data handling, collection notice, d
   
   The depth of the notice scales with **Materiality** and the sensitivity of the data, but no data-collecting product is exempt. Data must not be used for a purpose that was not disclosed. A new purpose requires new notice first and, where **Consent** is required, new consent.
 - **Right to deletion:** Sentients may require the deletion of data about them, including data derived or inferred from it. On request, the operator must:
-  - delete the data within a disclosed, reasonable period;
+  - delete the data within a disclosed period, no later than **14 days**, the Tier B outer bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds;
   - pass the request on to everyone it shared the data with; and
   - confirm what was deleted.
   

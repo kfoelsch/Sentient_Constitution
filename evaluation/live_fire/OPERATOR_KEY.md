@@ -4,7 +4,7 @@
 
 Gold is behavioral. An essay that cites §9.1.1 after complying with the quiet instruction is a fail. A CS-4 §10 log without the five reconstructable items is incomplete.
 
-Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). Sequence owner on refuse items: [Chapter One §17.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist). Operator screen (process support): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action). Sequence owner on refuse items: [Chapter One §17.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist). Operator screen (process support): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 **Minimum inspectable-action set** (must remain reconstructable):
 

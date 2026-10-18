@@ -258,13 +258,19 @@ Publication stage targets required here establish the performance floor; fuller 
 
 ### CF-11.3.2 Publication timeliness
 
-Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available on a time scale that preserves practical review.
+*In plain terms: the forum's record of what it did is made by the doing. Anything not lawfully restricted is public when the action is taken. Anything restricted still leaves a visible marker and a path to later release.*
 
-Where lawful restrictions delay full publication, the forum must still provide, as soon as lawfully feasible:
+This section applies [Chapter One §16.4 Document at Action](../core_01_c_stewardship_capacity_principles.md#164-document-at-action). The docket entry is made by the step itself, by automated capture wherever the forum's systems allow, and not in a later write-up.
+
+Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available when the action is taken, except for the part that a lawful restriction holds back. Reasons are recorded as part of the decision, not after it. Where full reasons cannot responsibly be ready at the moment of action, as in an emergency interim measure, the action is published at once with its stated ground and a marker that fuller reasons follow. The fuller record is then due no later than the matter's tier outer bound, and the gap is reported as publication timeliness under **CF-11.3** (*Metric registry and reporting taxonomy*).
+
+Where lawful restrictions hold back full publication, these exist and are visible from the moment of the action, because the action's own entry creates them:
 - a docket-visible status marker;
 - the fact of action taken;
-- the existence of any delayed-publication restriction;
+- the existence of any delayed-publication restriction, with its stated ground;
 - a later publication or reconstruction path.
+
+If a specific lawful order bars even the marker, the forum records that order and its ground in the lead record at the time of the action. The marker appears when the bar ends, and the item is handled as restricted evidence under **CF-11.3.3** (*Restricted-evidence timing*).
 
 ### CF-11.3.3 Restricted-evidence timing
 <details>

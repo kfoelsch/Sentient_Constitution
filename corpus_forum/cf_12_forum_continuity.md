@@ -135,7 +135,7 @@ Long-term archival and retrieval systems that materially support record access, 
 
 *In plain terms: Parties must be told which mode is active, what still works, and what has been suspended. Silence during a crisis is itself a failure.*
 
-During continuity-mode operation, forum-facing communications must apply [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*), crisis-communication discipline and must publish or otherwise communicate, as lawfully feasible, the adjudication-specific facts parties need:
+During continuity-mode operation, forum-facing communications must apply [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*), crisis-communication discipline and [Chapter One §16.4 Document at Action](../core_01_c_stewardship_capacity_principles.md#164-document-at-action). The activation record under **CF-12.3** (*Activation triggers*) is made by the activation itself. The adjudication-specific facts parties need are published or otherwise communicated from that record when the mode takes effect, except for any part a lawful restriction holds back, and a held-back part still leaves a visible marker (**CF-11.3.2** (*Publication timeliness*)). Where digital systems are impaired, the lawful fallback under **CF-12.5** (*Record continuity and custody*) carries both the record and the communication. The facts are:
 - the active mode;
 - what functions remain available;
 - where urgent filings should go;

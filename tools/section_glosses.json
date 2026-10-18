@@ -3,15 +3,16 @@
     "CS-1.0: Purpose and role": "this file is the front door to the systems-and-data book. The Constitution says what must be true of systems; this layer tells you how to type data, classify systems, scale stewardship, and run the engineering families without rewriting those rules."
   },
   "cs_04_critical_system_stewardship.md": {
+    "Purpose and scope": "Some organizations are load-bearing: if they stop, a critical system cannot run, recover, or be governed, and no substitute is available in time. CS-4 identifies those stewards and sets what they owe in return for that position — continuity planning, transparency about dependencies, and limits on using the position as leverage.",
     "Classification as steward": "Steward status follows the CS-3 class of what you actually run, recover, or gate. Class A or B — or a Dep-A / Dep-B dependency of one — makes you a Critical System Steward. Class C only if you have become a chokepoint. The four tests below prove that relationship; they are not a second classification scheme.",
     "Stewardship criticality levels": "Three tiers, CSS-A to CSS-C, set by how much depends on the steward and how bad its failure would be. The tier sets how demanding everything that follows is.",
     "Scaling obligations": "Duties follow the real dependency, not the paperwork. The highest affected class governs, and a narrow contract does not buy a lighter obligation.",
     "Comprehensibility and complexity stewardship": "A steward may not hide behind its own complexity. Corporate structure, contracts, and process must not be arranged so that audit, intervention, or replacement becomes impractical.",
-    "Steward responsibilities — systems under control": "When something breaks, it must break visibly, keep its critical functions running, and be explained to the people it affects.",
-    "Steward responsibilities — governance structures": "The organization's own incentives must not push it toward unsafe or opaque behavior, and must hold up under pressure and attempted capture.",
+    "Failing safely and visibly": "When something breaks, it must break visibly, keep its critical functions running, and be explained to the people it affects.",
+    "Structures that resist pressure and capture": "The organization's own incentives must not push it toward unsafe or opaque behavior, and must hold up under pressure and attempted capture.",
     "Conduct, conflicts of interest, and independence": "Keep a current register of who benefits from what, step aside where impartiality is not credible, and keep oversight staff free of incentives to bury bad findings.",
     "Continuity, transfer, and exit integrity": "A steward may not simply walk away. Leaving, downsizing, or handing over is allowed only where continuity, recovery, and oversight survive the move.",
-    "Competency, succession, and oversight effectiveness": "Keep the skills and the backup people the role requires, publish who holds what authority, and check periodically whether oversight actually catches problems rather than merely existing on paper.",
+    "Competency, succession, inspectable action, and oversight effectiveness": "Keep the skills and backup role-holders the role requires, publish who holds what authority, keep attributable action inspectable, and check periodically whether oversight actually catches problems rather than merely existing on paper.",
     "Integrated risk governance (Class A/B)": "For the highest-impact systems: publish how much residual risk you accept, name who owns the risk picture, and keep operating, challenge, and assurance roles separate enough that challenge is credible.",
     "Intervention trigger": "What happens when a steward cannot or will not meet these duties — outside intervention is activated to preserve function, recoverability, and rights.",
     "Relationship to system classes": "Steward status follows the highest class you actually affect, not who holds title. You can be a Critical System Steward without owning the system.",
@@ -21,7 +22,7 @@
     "Transparency and auditability": "Operational status, failure modes, and dependencies must be visible, independently auditable, and traceable to the organization's own actions.",
     "Intervention and cooperation": "Even where the steward is also the operator, intervention must be possible from outside it — with real interfaces, timely response, and no obstruction.",
     "Governance and incentive integrity": "Internal mechanisms must catch capture, corruption, and systemic negligence, and must not reward hiding failure.",
-    "Failure and reclassification": "Splitting up, outsourcing, or restructuring does not shed the classification. Where dependency grows or substitutability falls, requirements rise."
+    "Evasion and reclassification": "Splitting up, outsourcing, or restructuring does not shed the classification. Where dependency grows or substitutability falls, requirements rise."
   },
   "cs_05_design_testing_verification_deployment.md": {
     "Purpose and role": "what this file owns — design, test, verify, deploy, exercise, and recertify — and what stays in Chapter Six, Chapter Five, and CJS-3.",

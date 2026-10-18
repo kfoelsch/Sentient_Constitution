@@ -490,7 +490,7 @@ This subsection applies [Attribution Integrity](../core_05_band_accountability.m
 - All actions affecting **sentients**, **shared infrastructure**, **resource systems**, or the **info-sphere** must satisfy [Attributable Action](../core_05_band_accountability.md#attributable-action) through identifiable systems, agents, or sentients
 - Attribution must satisfy [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity), including **auditability (CJS-3.3 (*auditability and reconstructability terms*))** and resistance to tampering, repudiation, or ambiguity
 
-For personnel/agents exercising **Critical System Stewardship** or **material** operational authority, the inspectable attributable-action surface lives in **[CS-4 §10 inspectable attributable action](cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)** as the default logging contract for mixed crews. This subsection remains the system-action attribution home.
+For personnel/agents exercising **Critical System Stewardship** or **material** operational authority, the inspectable attributable-action surface lives in **[CS-4 §10 inspectable attributable action](cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action)** as the default logging contract for mixed crews. This subsection remains the system-action attribution home.
 
 **Transition to full attribution.** Where systems **increase in impact**, they must transition toward **full attribution**. The same applies when they:
 - **introduce persistent value, identity, or resource transfer**
@@ -648,15 +648,14 @@ When the challenge concerns typing assumptions, type assignment, or related evid
 <a id="85-update-the-system-data-types-record"></a>
 **8.5. Update the System Data Types Record.**
 
-*System Data Types Record duty:* revise the file when types, uses, or risks change — and keep the re-evaluation cadence stated on it current — so each System Alignment Certification or recertification cycle under **[Chapter Nine §3.4 Data Types and Handling Evaluation](../core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)** can verify honest typing.
+*System Data Types Record duty:* keep the file current. It is checked on the regular System Alignment Certification interval for the system's class, and revised whenever types, uses, or risks change, so each System Alignment Certification or recertification cycle under **[Chapter Nine §3.4 Data Types and Handling Evaluation](../core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)** can verify honest typing.
 
 What triggers a retype, and how protections must be preserved, live in [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance). This subsection owns **when** operators must update the System Data Types Record:
 
 - **before** rolling out materially bigger data uses or linkages, **where feasible**
-- **no later than the intake target** of the tier that matches the system's class, counted from when changed conditions are recognized ([CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-stage-targets-and-timing-floors) (*Stage targets and timing floors*); class-to-tier match: [Chapter Nine Part B §9.2 Provisional and full certification](../core_09_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification) (*Tier windows*))
-- as part of **periodic review**, including each materially impactful [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) or recertification cycle under **[Chapter Nine §3.4 Data Types and Handling Evaluation](../core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)**
+- at **each System Alignment Certification or recertification pass**, on the class's certification interval in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#review-cadence) (*Review cadence*)
 
-The System Data Types Record must state a **re-evaluation cadence scaled to class** (and monitoring triggers). On each materially impactful SAC or recertification cycle, certification must **verify** that reassessment under [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance) was applied where triggers fired, and record the System Data Types Record under **[Part B §8.1](../core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents)**.
+The System Data Types Record states the class certification interval as its re-evaluation cadence, with any monitoring triggers. On each materially impactful SAC or recertification cycle, certification must **verify** that reassessment under [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance) was applied where triggers fired, and record the System Data Types Record under **[Part B §8.1](../core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents)**.
 
 Failure to update the System Data Types Record after material change is non-compliance and a **certification defect** under [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance), Chapter Nine §3.4 Data Types and Handling Evaluation, and **[Part B §7 Certification Outcomes](../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)**.
 
