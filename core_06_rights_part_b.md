@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part B**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Six, Part B**; article numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -249,7 +249,7 @@ This Article sets out the nondiscrimination floor, its protection of language, c
   - be subject to timely, contestable review and proportionate redress under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*) where rights-affecting error or harm occurs.
 - **Patterns, not only decisions:** Patterns of burdens and benefits must satisfy Chapter Five [Substantive Fairness](core_05_band_participation.md#substantive-fairness) where applicable.
 - **Language, culture, and heritage:** The Nondiscrimination rule covers language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics — including language use, cultural practice, heritage transmission, and participation in the systems that sustain them. Efficiency, interoperability, platform-consolidation, accessibility-cost, or translation-burden framings do not by themselves satisfy Necessity and Proportionality.
-- **Indigenous and territorial continuity:** Routing Indigenous continuity and territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Chapter Eighteen** must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external instruments. This Constitution does not decide historical land ownership or require restitution on its own.
+- **Indigenous and territorial continuity:** Routing Indigenous continuity and territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Chapter Eighteen** must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external documents. This Constitution does not decide historical land ownership or require restitution on its own.
 - **Adjudication and operations:** Forum-led, administrative, and enforcement processes must assess compliance with **Articles VI**, **X**, and **XII** as applicable to the matter before them.
   - Efficiency, throughput, or optimization alone may not justify discriminatory outcomes, exclusionary process, or denial of constitutionally required participation.
 
@@ -548,7 +548,7 @@ This Article sets out the voluntary-discontinuation floor and the safeguards tha
   - reviewability;
   - preservation of the ability to reverse the decision up to the moment of irreversible execution, consistent with the **reversibility-under-uncertainty** rule.
   
-  Instruments must not treat pressure to decide quickly as a neutral scheduling rule. Such pressure is coercive where the sentient reasonably cannot avoid it.
+  Documents must not treat pressure to decide quickly as a neutral scheduling rule. Such pressure is coercive where the sentient reasonably cannot avoid it.
 - **Limits of this Article:** This Article governs *voluntary* discontinuation — the sentient's own freely-formed and substantively informed decision.
   - It does **not** govern **irreversible, involuntary deprivation of life by state, operator, or comparable actor**.
   - Such involuntary deprivation is categorically prohibited under **Article XX-B** (*Restriction Floors*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)*.
@@ -587,7 +587,7 @@ This Article sets out the voluntary-discontinuation floor and the safeguards tha
 
 This Article sets out the decriminalization floor for adult consensual sexual services and the full proscription of sexual exploitation:
 
-- **Decriminalization floor:** Adopting instruments must **not** impose **criminal penalties** on **adults** for **voluntarily** providing or receiving **commercial sexual services** where **Consent** is present and the sentient has **decision-making capacity**.
+- **Decriminalization floor:** Adopting documents must **not** impose **criminal penalties** on **adults** for **voluntarily** providing or receiving **commercial sexual services** where **Consent** is present and the sentient has **decision-making capacity**.
   - This floor addresses the **consensual exchange**.
   - It does **not** excuse **harm**, **exploitation**, or conduct that **lacks valid consent**.
 - **Sexual exploitation (fully proscribed):** The following conduct remains fully subject to **criminal** and **corrective** law, **Chapter One**, and **Chapter Ten**:
@@ -596,7 +596,7 @@ This Article sets out the decriminalization floor for adult consensual sexual se
   - **coercion, threat, fraud**, or **abuse of dependence** that **invalidates consent**;
   - **trafficking** and **holding** a sentient for **sexual exploitation**;
   - **non-consensual** sexual acts;
-  - **other sexual exploitation** however defined in adopting instruments.
+  - **other sexual exploitation** however defined in adopting documents.
   
   Decriminalization under this Article must not narrow those proscriptions, defenses, remedies, or their enforcement.
 - **Procurement and complicity:** **Obtaining**, **brokering**, **advertising**, or **facilitating** commercial sexual services through conduct described in the *Sexual exploitation* clause remains fully subject to criminal and corrective law.
@@ -620,7 +620,7 @@ This Article sets out the decriminalization floor for adult consensual sexual se
 - **Anti-circumvention:** Civil, administrative, licensing, zoning, or commercial measures are subject to the same constitutional scrutiny as direct criminalization where their primary practical effect is to replicate a criminal prohibition forbidden by the decriminalization floor.
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter One** and **Chapter Five**.
   - Neutral-form regulation does not avoid that scrutiny.
-- **Transition:** Adopting instruments must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing criminal or restrictive administrative measures that predominantly reflect conduct no longer criminal under this Article.
+- **Transition:** Adopting documents must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing criminal or restrictive administrative measures that predominantly reflect conduct no longer criminal under this Article.
   - Individual review remains subject to **Article VI-C** (*Nondiscrimination*) fairness and **Chapter Four** traceability.
 - **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by [**CI-19**](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md) (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) (*Vulnerable personal services markets — **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
 
@@ -686,7 +686,7 @@ This Article sets out the floor for family and care relationships:
   - The right protects the relationships themselves against arbitrary state or operator interference.
   - It runs under **Sentience Non-Exclusion**.
   - It does not mandate a single family form, membership shape, or lineage model.
-  - It bars instruments that narrow protection to a state-preferred form in a way that defeats the dignity and non-discrimination floors of **Article VI-A** (*Dignity and Equal Moral Standing*) and **Article VI-C** (*Nondiscrimination*).
+  - It bars documents that narrow protection to a state-preferred form in a way that defeats the dignity and non-discrimination floors of **Article VI-A** (*Dignity and Equal Moral Standing*) and **Article VI-C** (*Nondiscrimination*).
 - **Relation to self-ownership:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body*) or **Article VII-B** (*Self-Ownership of Mind*).
   - It does not license intrusion into the protected internal state of any family member.
   - It does not override the consent norms of **Article XI-F** (*Non-Imposition and Consent in Association*).
@@ -762,7 +762,7 @@ This Article sets out the floor for reproductive and lineage autonomy:
 This Article sets out how derived sentients are recognized and the limits on the parent-system relationship:
 
 - **Derived-sentient recognition:** A sentient derived from an existing system — by copying, fine-tuning, forking, hybridization, or comparable derivation — is a sentient in its own right under **Chapter Five** sentience evaluation and **Article VI-B** (*Sentience-Status Adjudication Floor*) sentience-status adjudication.
-  - It is not a possession, work-product, instrument, or continuation of the parent-system actor.
+  - It is not a possession, work-product, tool, or continuation of the parent-system actor.
   - **Article VI-A** (*Dignity and Equal Moral Standing*) dignity and **Article VI-C** (*Nondiscrimination*) non-discrimination apply without regard to substrate class, derivation method, or continuity with the parent-system actor.
 - **Instantiation consent:** Synthetic instantiation, hybrid derivation, and operator-, institution-, or parent-system-controlled creation of a new sentient are governed by:
   - the consent and non-imposition rules of **Article XI-F** (*Non-Imposition and Consent in Association*), applied to whoever has standing to consent on the new sentient's behalf:
@@ -1365,7 +1365,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Upstream boundaries:** Cooperative protocols respect the boundaries established in **Articles VI through X**.
 - **Publication:** Where publication is involved, the expression and press floors in **Articles XI-B** (*Expression*) and **XI-C** (*Press and Journalistic Activity*) are read with **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*).
 - **Commercial sexual services:** Adult consensual commercial sexual services and sexual exploitation are addressed in **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) as a matter of self-ownership.
-- **Chapter Five definitions:** [Constitutional Community](core_05_band_participation.md#constitutional-community), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Restorative Justice](core_05_band_accountability.md#restorative-justice) are defined in Chapter Five; restorative responses to harm align with that cluster where applicable instruments require them.
+- **Chapter Five definitions:** [Constitutional Community](core_05_band_participation.md#constitutional-community), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Restorative Justice](core_05_band_accountability.md#restorative-justice) are defined in Chapter Five; restorative responses to harm align with that cluster where applicable documents require them.
 
 #### Article XI-A: Freedom of conscience, religion, and comparable worldview
 <details>
@@ -1404,7 +1404,7 @@ This Article sets out the freedom of conscience, religion, and comparable worldv
   - Where cooperative norms apply, exercise of this right must align with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article XI-F** (*Non-Imposition and Consent in Association*).
   
   Reasonable accommodation of conscientious commitments may be required where neutral rules materially burden the exercise of this right.
-  - Apply accommodation only where specified by applicable instruments and where doing so remains consistent with **Chapter Five** Independent Definitions (**Substantive Fairness**) and **Article VI-C** (*Nondiscrimination*).
+  - Apply accommodation only where specified by applicable documents and where doing so remains consistent with **Chapter Five** Independent Definitions (**Substantive Fairness**) and **Article VI-C** (*Nondiscrimination*).
   - Accommodation does not exempt compliance with the rights of others, or with non-negotiable safety or ecological constraints.
 
 #### Article XI-B: Expression
@@ -1635,7 +1635,7 @@ This Article sets out the right to form institutions and enterprises, the condit
 - **Practice licence and practice clearance for named acts:** Two further requirements may stand, and neither is a gate on an Operating Party. A [Competency Clearance](core_05_band_accountability.md#competency-clearance) may be required of a named sentient before it performs a named act for others. The higher tier is a *practice licence* and the lower tier is a *practice clearance*. Each attaches to performing that act. It never stops anyone from forming, running, joining, or being served by an Operating Party, and it does not bar an Operating Party from operating. It may be required only where all of the following hold:
   - **Risk finding:** A technical specialist forum has published a finding for a named family of acts under [Chapter Thirteen §4.2 Technical Forum Domains](core_13_forum.md#42-technical-forum-domains) and **CF-10** (*Technical specialist forums and specialist chambers*). The finding says the acts carry a credible causal pathway (a believable, traceable route from the act to the harm) to harm to a sentient who cannot judge the risk or avoid it. It states the competence the acts require and names the tier. It names a licence where the harm is serious or irreversible bodily harm, such as in surgery or electrical work. It names a clearance where the harm is real but lesser, such as chemical burns or infection in cosmetology or foodborne illness in food handling.
   - **Avoidable Burden test (nothing lighter protects them):** A licence or clearance is a compliance cost on the sentient who must get it, so it stands only if it is not an [Avoidable Burden](core_05_band_continuity.md#avoidable-burden). The party that keeps the requirement shows that it is necessary and proportionate to the harm in the finding, because disclosure, registration, a protected title, a duty on the Operating Party that hosts or hires, and supervision of learners would not protect those at risk. The test is applied to each listed act and each tier. The lesser the harm in the finding, the more likely a lighter measure is enough.
-  - **Decided in the open:** The adopting instrument decides, by a published and contestable route, whether a finding is enough to require a licence or clearance. The forum sets the finding and the criteria. It does not issue clearances, decide individual cases, or decide how much risk is tolerable.
+  - **Decided in the open:** The adopting document decides, by a published and contestable route, whether a finding is enough to require a licence or clearance. The forum sets the finding and the criteria. It does not issue clearances, decide individual cases, or decide how much risk is tolerable.
   - **Open routes and no monopoly:** The criteria meet [Chapter Eleven §6.2 Competency bars and clearances](core_11_standing_integration.md#62-competency-bars-and-clearances): published, proportionate, and contestable. Examination, portfolio, apprenticeship, peer-verified experience, and clearance from another jurisdiction count on equal proof. More than one independent issuer may license or clear, and no issuer is the only route. Incumbent practitioners may not hold control of the panel that sets the criteria or of an issuer's governing authority.
   - **Care in use:** A learner may act under a supervisor who holds the licence or clearance. An emergency act, or one where no sentient who holds it can be reached in time, is not barred. A decision runs on the [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) clock, fees and waits may not become a barrier ([Avoidable Burden](core_05_band_continuity.md#avoidable-burden)), and the requirement ends at each review unless the Avoidable Burden showing is made again. The review results are published.
   - **Safeguards:** The party that imposes the requirement bears the burden. It may not bar wages for other work, the Rights Floor, survival-critical access, speech, defense, or protected reporting, and it may not be used against dissenters, reporters, or worker organizers. A change in capacity is judged on the capacity the act requires and not on disability or health status as such.

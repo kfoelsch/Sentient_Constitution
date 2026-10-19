@@ -59,7 +59,7 @@ This file is the institutional implementation home for **CI-9** (*Classification
 - **CI-9.1** — formation and authorization burdens that scale with impact: easy paths for low-risk (**Class P**) contexts, deeper diligence for high-dependency (**Class A** / **Class B**) contexts.
 - **CI-9.2** — a published map of which industries and domains the institution supervises, how they are classified, and when reclassification is required.
 - **CI-9.3** — rules for delegated subunits and hybrid decision bodies: who they are, what they may decide, how members are composed, and how long rotating or home-based terms run.
-- **CI-9.4** — how institutional instruments connect essential-access floors and voluntary markets without conditioning survival on labor or premium purchasing (**Article III-A** (*Survival*) interface).
+- **CI-9.4** — how institutional mechanisms connect essential-access floors and voluntary markets without conditioning survival on labor or premium purchasing (**Article III-A** (*Survival*) interface).
 *In plain terms: classification is not a decorative label. It is the dial that sets how hard institutions must work — and the dial must match reality, stay published, and tighten when dependency or risk grows.*
 
 *Shared rules live elsewhere.* Class- and tier-scaling terms are in **CJS-3.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** (*Classification-linked institutional obligations*) keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
@@ -79,7 +79,7 @@ The operational mechanics in this section — registration, fiscal treatment, li
 
 *In plain terms: starting or authorizing an institution must be as easy as the risk allows and as rigorous as the risk requires. A small low-impact group must not face the same paperwork as a body supervising survival-critical systems.*
 
-Apply **CJS-3.11** (*Accountability: distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. **CI-9.1** (*Formation proportionality*) keeps only what each formation or authorizing instrument must publish locally:
+Apply **CJS-3.11** (*Accountability: distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. **CI-9.1** (*Formation proportionality*) keeps only what each formation or authorizing document must publish locally:
 
 - the authorization path — who approves formation and on what basis;
 - the evidence burden — what proof is required before authorization;
@@ -129,7 +129,7 @@ Apply **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) and 
 
 *In plain terms: every delegated subunit must be clearly labeled — who it reports to, what it may decide, and what qualifications its members need. A subunit cannot become a back door that skips normal challenge routes or forum routing.*
 
-Each formation or authorizing instrument must state:
+Each formation or authorizing document must state:
 
 - the **parent institution** and the **lane** (constitutional, statutory, or published policy boundary) within which the subunit operates;
 - the subunit's **subject-matter scope**;
@@ -147,15 +147,15 @@ Subunits must remain **subordinate** to the parent mandate. They must not operat
 
 <br>
 
-*In plain terms: hybrid bodies must follow the shared composition rules in **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). If a local instrument departs from those rules — different bench balance, different staging, or other material variation — it must publish substitute anti-capture safeguards and, for high-impact **Class A** and **Class B** scope, get outside review or a published independent cross-institution arrangement first.*
+*In plain terms: hybrid bodies must follow the shared composition rules in **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). If a local document departs from those rules — different bench balance, different staging, or other material variation — it must publish substitute anti-capture safeguards and, for high-impact **Class A** and **Class B** scope, get outside review or a published independent cross-institution arrangement first.*
 
 Delegated subunits in scope must satisfy **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). **CI-9.3.2** (*Authority composition*) keeps only:
 
-- the institutional exception route when the local instrument departs from **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*);
+- the institutional exception route when the local document departs from **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*);
 - the duty to publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); and
 - the external-assurance or **CI-12** (*Cross-institution coordination and escalation*) independent-review requirement where that departure affects **Class A** or **Class B** scope.
 
-Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2** (*External assurance triggers*), or a published **CI-12** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
+Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the document must publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2** (*External assurance triggers*), or a published **CI-12** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
 
 ## CI-9.3.3: Rotating authority: attachment bounds
 <details>
@@ -173,7 +173,7 @@ Apply **CJS-2.1.2** (*Attachment publication*) for shared rotating-attachment re
 
 **Scaling by institutional design class:**
 
-- **Class C** — suggested guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
+- **Class C** — suggested guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the document publishes a longer ceiling and a brief justification.
 - **Class B** — maximum and minimum attachment rules must be **published**; **undefined discretion** over duration is **non-compliant**.
 - **Class A** — the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **CI-7.2** (*External assurance triggers*).
 
@@ -201,11 +201,11 @@ Apply **CJS-2.1.2** (*Attachment publication*) for shared home-based continuity 
 
 <br>
 
-*In plain terms: essential survival access cannot be made to depend on working, buying premium services, or winning market lotteries. Voluntary markets may operate above the floor, but institutions must document how their instruments protect baseline access, keep charges proportionate, and stay aligned with class-scaled revenue rules under **CI-10.1** (*Public revenue, user fees, and class-aligned burden*).*
+*In plain terms: essential survival access cannot be made to depend on working, buying premium services, or winning market lotteries. Voluntary markets may operate above the floor, but institutions must document how their mechanisms protect baseline access, keep charges proportionate, and stay aligned with class-scaled revenue rules under **CI-10.1** (*Public revenue, user fees, and class-aligned burden*).*
 
 Apply **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*) **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** (*Survival floors, voluntary exchange, and markets (Article III-A (Survival) interface)*) keeps only what each institution must name and maintain locally:
 
-- who owns the **Article III-A** (*Survival*) instrument or program interface;
+- who owns the **Article III-A** (*Survival*) mechanism or program interface;
 - how it links to **CI-10.1** (*Public revenue, user fees, and class-aligned burden*) revenue and charge design; and
 - documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality.
 

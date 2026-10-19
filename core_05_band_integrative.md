@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Integrative band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Integrative** constitutional band. Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Five, Integrative band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Integrative** constitutional band. Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -349,19 +349,19 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 <br>
 
-*In plain terms: a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, instrument, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.*
+*In plain terms: a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.*
 
 - **What it is**
-  - **In scope:** A constitutional requirement attaches to the substantive act. It cannot be avoided by changing the label, route, owner, forum, instrument, or timing of that same act, and packaging the act as a special process does not skip it. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, and comparable framings are allowed only if the step itself follows this Constitution. They may not be used to bypass Rights-Floor minimums, the rules for lawfully changing the Constitution, [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Accountability](core_05_apex_accountability_leg.md#accountability), or functional independence and segregation of duties.
+  - **In scope:** A constitutional requirement attaches to the substantive act. It cannot be avoided by changing the label, route, owner, forum, document, or timing of that same act, and packaging the act as a special process does not skip it. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, and comparable framings are allowed only if the step itself follows this Constitution. They may not be used to bypass Rights-Floor minimums, the rules for lawfully changing the Constitution, [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Accountability](core_05_apex_accountability_leg.md#accountability), or functional independence and segregation of duties.
   - **Out of scope:** an ordinary choice of form, route, or timing that leaves every constitutional requirement for the act in force.
 <a id="no-bypass-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the same substantive act still carries every constitutional requirement after its label, route, owner, forum, instrument, or timing has changed.
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the same substantive act still carries every constitutional requirement after its label, route, owner, forum, document, or timing has changed.
 
     **Primary assessment:** Compare the act as framed with the act as it substantively is. A requirement counts as bypassed if it would have applied under the plain framing and does not apply under the chosen one, with no change in what the act does.
 <a id="no-bypass-c"></a>
 - **What must hold**
-  - **Primary failure:** Avoiding a constitutional requirement by changing the label, route, owner, forum, instrument, or timing of the same act, or by using an allowed framing whose own step does not follow this Constitution. A no-bypass statement or review step that leaves the act's actual treatment unchanged is also non-compliant.
+  - **Primary failure:** Avoiding a constitutional requirement by changing the label, route, owner, forum, document, or timing of the same act, or by using an allowed framing whose own step does not follow this Constitution. A no-bypass statement or review step that leaves the act's actual treatment unchanged is also non-compliant.
 
 ---
 
@@ -432,7 +432,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 *In plain terms: a Collision Record is the written account of how one material Constitutional Collision was decided. It lets an affected party or an independent reviewer see which rule applied, what alternatives were weighed, what the evidence and uncertainty were, why this option was chosen, and when it comes back for review. It is not a second filing: the Act Record for the act that resolved the collision carries it.*
 
-The short form for **Constitutional Collision Record** in this instrument is **Collision Record**.
+The short form for **Constitutional Collision Record** in this Constitution is **Collision Record**.
 
 - **What it is**
   - **In scope:** The attributable, versioned official account of how a material [Constitutional Collision](core_05_band_integrative.md#constitutional-collision) was resolved. It is carried by the [Act Record](core_05_band_accountability.md#materially-binding-act-record) of the [materially binding act](core_05_band_accountability.md#materially-binding-act) that resolves the collision, and it holds the reasoning elements that [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) requires:
@@ -992,7 +992,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:** The authoritative integrated set of binding constitutional sources:
-    - the numbered `core_*` Sentient Constitution files read as one instrument;
+    - the numbered `core_*` Sentient Constitution files read as one text;
     - any valid compatibility wrappers during transition; and
     - adopted implementation text.
 
@@ -1024,7 +1024,7 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Principles: [15. Constitutional Interpretation](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); [20. Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
 - Downstream: [Chapter One — §15 Constitutional Interpretation](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (integrated reading and last-resort hierarchy); [Chapter One §15.4 Constitutional Meaning Conflict Resolution](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*single conflict procedure, including incorporation layer*); [Chapter Sixteen — Internal Hierarchy for Adopters](core_16_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [Chapter Eighteen](core_18_incorporation.md#chapter-eighteen-incorporation-bridge) (*incorporation bridge — custody, editions, adoption; not a second stack or conflict-order home*).
-- Downstream: [Chapter Six — Layer scope](core_06_rights_part_a.md#12-layer-scope); [Chapter Fifteen §4 Layer scope](core_15_non_regression.md#4-layer-scope) and [Chapter Seventeen §12 Layer scope](core_17_amendment_ratification.md#12-layer-scope) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` instrument.
+- Downstream: [Chapter Six — Layer scope](core_06_rights_part_a.md#12-layer-scope); [Chapter Fifteen §4 Layer scope](core_15_non_regression.md#4-layer-scope) and [Chapter Seventeen §12 Layer scope](core_17_amendment_ratification.md#12-layer-scope) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` text.
 - Read with: [Corpus](core_05_band_integrative.md#corpus); [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–9); [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability) (*practical enforceability of binding claims*); [Preamble §3.3](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) (*governance-layer anti-substitution*); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint); **CJS-0.1** (*Cross-file routing*).
 
 </details>
@@ -1035,9 +1035,9 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:** The paired rule that first decides which kind of source is speaking, and whether it binds, across the operative [Corpus](core_05_band_integrative.md#corpus) — and only then, if a real conflict remains inside the binding Constitution, how to resolve it. Source layers include:
-    - **binding constitutional sources** — the [Preamble](core_00_preamble.md), [Chapter One](core_01_a_values_principles.md), and the other numbered chapters of this Constitution, read together as one instrument;
+    - **binding constitutional sources** — the [Preamble](core_00_preamble.md), [Chapter One](core_01_a_values_principles.md), and the other numbered chapters of this Constitution, read together as one text;
     - **binding incorporated implementation sources** — designated obligations in adopted implementation text, within valid adoption and incorporation scope under [Chapter Seventeen](core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) and [Chapter Eighteen](core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and
-    - **process and map support sources** — architecture maps, worklists, and regression or evidence records (including [doc_architecture.md](doc_architecture.md)), unless a valid adopting instrument expressly incorporates them as binding.
+    - **process and map support sources** — architecture maps, worklists, and regression or evidence records (including [doc_architecture.md](doc_architecture.md)), unless a valid adopting document expressly incorporates them as binding.
 
     **Authority Stack:** the ordered source-of-authority framework governing constitutional interpretation, adoption effect, and layer status across constitutional, incorporated, and support layers.
 
@@ -1070,7 +1070,7 @@ See **Anti-Segmentation Principle**.
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05_band_integrative.md#corpus) and the applicable adoption or incorporation instrument — including [Chapter Sixteen](core_16_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Sixteen §5 Relation to Applicable External Law](core_16_expansion_supremacy.md#5-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
+    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05_band_integrative.md#corpus) and the applicable adoption or incorporation document — including [Chapter Sixteen](core_16_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Sixteen §5 Relation to Applicable External Law](core_16_expansion_supremacy.md#5-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
 
     Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3 Governance Layers](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
 

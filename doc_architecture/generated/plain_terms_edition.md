@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.14` · effective **2026-10-14**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **714** of **1048** headings carry a gloss (68%).
+Coverage: **714** of **1064** headings carry a gloss (67%).
 
 ## Contents
 
@@ -30,7 +30,7 @@ Coverage: **714** of **1048** headings carry a gloss (68%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/17 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/33 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09_a_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09_b_system_alignment_certification_record_process.md` (13/25 glossed)
@@ -144,7 +144,7 @@ the process map and [how the full chain fits together](../../core_00_preamble.md
 
 #### 8. Governance, Change, and Incorporation
 
-Chapters Fourteen through Eighteen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.
+Chapters Fourteen through Eighteen close this Constitution: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.
 
 [Source](../../core_00_preamble.md#8-governance-change-and-incorporation)
 
@@ -2166,7 +2166,7 @@ a **Charter Role Map** is the published list, kept with a System Charter or Inst
 
 ##### Charter Pointer
 
-a **Charter Pointer** is the reference a System Charter or Institutional Charter uses to name another published instrument or provision instead of copying it. It has to lead a reader to the current published version. One that leads nowhere, or to an old version, counts as a missing item.
+a **Charter Pointer** is the reference a System Charter or Institutional Charter uses to name another published document or provision instead of copying it. It has to lead a reader to the current published version. One that leads nowhere, or to an old version, counts as a missing item.
 
 [Source](../../core_05_band_continuity.md#charter-pointer)
 
@@ -2422,7 +2422,7 @@ reward real invention and useful creation — but do not let that reward harden 
 
 ##### No-Bypass
 
-a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, instrument, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.
+a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.
 
 [Source](../../core_05_band_integrative.md#no-bypass)
 
@@ -3202,7 +3202,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/17 headings glossed
+Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/33 headings glossed
 
 #### 1. When System and Institutional Charters Are Required
 
@@ -3254,21 +3254,117 @@ before anyone can judge whether a system or institution stayed within its limits
 
 #### 2. The Right to Form, and Three Narrow Limits
 
-you do not need anyone's permission to form a system, institution, or business. Three narrow limits can apply: two can keep one sentient out of one controlling office, and one can require a licence or clearance before a named high-risk act. The first of them can also hold a Chartered Party that is itself under a lock, and a Chartered Party that a forum has dissolved stays barred from coming back, for good where the dissolution rests on pervasive anti-constitutional conduct or on harm that cannot be undone and has not been remedied. None stops a new Operating Party from forming or operating, and this chapter adds none.
+you do not need anyone's permission to form a system, institution, or business. Three narrow limits can apply: two can keep one sentient out of one controlling office, and one can require a licence or clearance before a named high-risk act. The first of these can also apply to a Chartered Party that is itself under a lock. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming or operating, and this chapter adds none.
 
 [Source](../../core_07_charters.md#2-the-right-to-form-and-three-narrow-limits)
 
+##### 2.1 The right to form
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#21-the-right-to-form)
+
+##### 2.2 First limit: an outstanding lock
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#22-first-limit-an-outstanding-lock)
+
+##### 2.3 Second limit: a short hold on probable cause
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#23-second-limit-a-short-hold-on-probable-cause)
+
+##### 2.4 Third limit: a practice licence or clearance
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#24-third-limit-a-practice-licence-or-clearance)
+
 #### 3. What System and Institutional Charters Must State
 
-a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.
+a System Charter has to be specific enough to test. It says what the system is for, what the system does and does not do, who relies on the system, who can amend the System Charter, who holds each seat, and where to find the binding decision rules. The System Charter points to those rules and does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.
 
 [Source](../../core_07_charters.md#3-what-system-and-institutional-charters-must-state)
+
+##### 3.1 What a System Charter states
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#31-what-a-system-charter-states)
+
+##### 3.2 Charter Pointers
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#32-charter-pointers)
+
+##### 3.3 What an Institutional Charter adds
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#33-what-an-institutional-charter-adds)
+
+##### 3.4 Acts that need a practice licence or practice clearance
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#34-acts-that-need-a-practice-licence-or-practice-clearance)
+
+##### 3.5 Scaling
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#35-scaling)
 
 #### 4. The Charter Role Map and Standing-Record Custody
 
 the System Charter or Institutional Charter is where the seats get names. It carries a published list of who may hold each seat for the acts it covers, so a party can't pick its own checker. The rules for what counts as a valid seat placement stay in Chapter Eight. Keeping the standing records safe isn't a separate list: it's the same map.
 
 [Source](../../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)
+
+##### 4.1 What a System Charter or Institutional Charter owes the map
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#41-what-a-system-charter-or-institutional-charter-owes-the-map)
+
+##### 4.2 Where the seat rules are
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#42-where-the-seat-rules-are)
+
+##### 4.3 Independence from the party whose act is at issue
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#43-independence-from-the-party-whose-act-is-at-issue)
+
+##### 4.4 Which System Charter or Institutional Charter holds which map
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#44-which-system-charter-or-institutional-charter-holds-which-map)
+
+##### 4.5 Two kinds of change
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#45-two-kinds-of-change)
+
+##### 4.6 Standing-record custody
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#46-standing-record-custody)
+
+##### 4.7 Gaps in the map for operator standing records
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#47-gaps-in-the-map-for-operator-standing-records)
 
 #### 5. Formation Check: Office-Holder Standing and Authenticity
 
@@ -3610,7 +3706,7 @@ some systems depend on shared foundations — infrastructure, services, and reso
 
 ##### 5.4 Nondiscrimination Evaluation
 
-when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other instruments, later corpus additions, or adoption instruments; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples: [§5.4.5 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).
+when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other documents, later corpus additions, or adoption documents; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples: [§5.4.5 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)
 
@@ -3640,7 +3736,7 @@ when a system materially decides who gets in, who pays more, who ranks lower, or
 
 ##### 5.5 Accessibility Evaluation
 
-when a system materially controls whether sentients can actually take part — not just whether a door is labeled "open" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other instruments, later corpus additions, or adoption instruments; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples: [§5.5.6 Illustrative accessibility application by system class (non-exhaustive)](../../core_09_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).
+when a system materially controls whether sentients can actually take part — not just whether a door is labeled "open" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other documents, later corpus additions, or adoption documents; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples: [§5.5.6 Illustrative accessibility application by system class (non-exhaustive)](../../core_09_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation)
 
@@ -3676,7 +3772,7 @@ when a system materially controls whether sentients can actually take part — n
 
 ##### 5.6 Trustworthiness and System-Reliance Integrity Evaluation
 
-when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other instruments; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples: [§5.6.5 Illustrative trustworthiness application by system class (non-exhaustive)](../../core_09_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).
+when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other documents; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples: [§5.6.5 Illustrative trustworthiness application by system class (non-exhaustive)](../../core_09_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation)
 
@@ -6192,11 +6288,11 @@ binding adoption has to be explicit, recorded, and auditable to the scale of the
 
 [Source](../../core_17_amendment_ratification.md#101-deliberate-adoption)
 
-##### 10.2 Instrument of Adoption
+##### 10.2 Adoption Document
 
 keep a clear paper trail — who adopted, what scope, when it starts, who holds the master copy of the corpus — so nobody can launder authority through ambiguous version drift.
 
-[Source](../../core_17_amendment_ratification.md#102-instrument-of-adoption)
+[Source](../../core_17_amendment_ratification.md#102-adoption-document)
 
 ##### 10.3 Joining by additional parties
 

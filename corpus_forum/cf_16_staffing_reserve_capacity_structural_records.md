@@ -281,7 +281,7 @@ Where review shows persistent overload, recurring chamber misuse, chronic recusa
 
 Each adopting entity must maintain and periodically update at least:
 - the public forum-structure map required by **CF-3.2** (*Family-to-forum-structure translation map*);
-- current chamber-creation instruments and scope descriptions;
+- current chamber-creation documents and scope descriptions;
 - qualification and competence frameworks by family and designated chamber type;
 - support-role-to-adjudicator pathway criteria, training or supervised-service requirements, and advancement or denial review routes;
 - disqualification, incompatibility, rotation, cooling-off, and succession rules applicable to forum-family service;

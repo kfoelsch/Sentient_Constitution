@@ -33,7 +33,7 @@ See: [Chapter Thirteen §3](../../../core_13_forum.md#3-transfer-consolidation-a
 
 See: [Chapter Ten §2.1](../../../core_10_standing_assessment.md#21-silence-is-the-default); [Chapter Ten §3.6](../../../core_10_standing_assessment.md#36-forum-boundary).
 
-**You do not have to read the whole instrument to get intake.**
+**You do not have to read the whole Constitution to get intake.**
 - **Today:** “Read the corpus first” is the next step.
 - **With this Constitution:** Complexity and specialist-only surfaces must not be the way the path is closed.
 

@@ -75,7 +75,7 @@ Every adopting entity must establish and maintain a published forum structure th
 - preserves independence, contestability, and traceability in actual forum design rather than by labels alone;
 - maintains enough qualified personnel and, as specified in **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
-**Minimum family inventory.** Adopting instruments must maintain **at least** the following **distinct** forum families, **in** **the** **same** **order** as `core_13_forum.md` **Chapter Thirteen**, **section 2**’s **default** **venue** **table**. This inventory implements that table and the family definitions in **Chapter Thirteen**, **section 4**; it does **not** create families beyond those Chapter Thirteen authorizes.
+**Minimum family inventory.** Adopting documents must maintain **at least** the following **distinct** forum families, **in** **the** **same** **order** as `core_13_forum.md` **Chapter Thirteen**, **section 2**’s **default** **venue** **table**. This inventory implements that table and the family definitions in **Chapter Thirteen**, **section 4**; it does **not** create families beyond those Chapter Thirteen authorizes.
 
 - **Sentient** forums.
 - **Technical** **Forum** **Domains** (including **specialized** **technical** **chambers** **or** **panels** **within** **other** **families**, as **Chapter Thirteen**, **section 4.2** describes).
@@ -114,7 +114,7 @@ The map must be current, publicly accessible, and cross-referenced to the primar
 
 *In plain terms: Families may share staff, buildings, and software and still must stay constitutionally distinct. Shared plumbing is not a reason to merge functions that are meant to check one another.*
 
-Adopting instruments must preserve the distinct constitutional functions of the **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, and **Constitutional** forum families even where:
+Adopting documents must preserve the distinct constitutional functions of the **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, and **Constitutional** forum families even where:
 - personnel overlap;
 - facilities, clerks, or digital systems are shared;
 - a single chief administrator or budgeting authority serves multiple families;
@@ -157,11 +157,11 @@ No family may exist only on paper. If a family's work is assigned to a broader j
 
 <br>
 
-*In plain terms: A family may create specialized chambers, but the instrument creating one must say which family it sits in and what it covers. A chamber never outranks its family boundary.*
+*In plain terms: A family may create specialized chambers, but the document creating one must say which family it sits in and what it covers. A chamber never outranks its family boundary.*
 
 Forum families may create internal chambers, divisions, or designated panels to improve competence, speed, or consistency, but chamber structure must remain subordinate to family boundaries.
 
-Each chamber-creation instrument must state:
+Each chamber-creation document must state:
 - the family within which the chamber operates;
 - the chamber's subject-matter scope;
 - the competence profile expected for service in the chamber.
@@ -180,12 +180,12 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 
 *In plain terms: Who sits on a chamber, and how they are appointed and serve, must meet the shared floor for delegated binding bodies rather than being arranged case by case.*
 
-**Joint minimum.** Chamber-creation instruments in scope must satisfy **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*), including **CJS-2.1.1** (*Composition floor*) and **CJS-2.1.2** (*Attachment publication*). Read that joint package with **CF-3.5** (*Chamber creation, identification, and family boundary*), this section, **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
+**Joint minimum.** Chamber-creation documents in scope must satisfy **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*), including **CJS-2.1.1** (*Composition floor*) and **CJS-2.1.2** (*Attachment publication*). Read that joint package with **CF-3.5** (*Chamber creation, identification, and family boundary*), this section, **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
 
-Chamber-creation instruments must also state:
+Chamber-creation documents must also state:
 - the chamber's **institutional design class** under [**CI-9.3**](../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline) (*Delegated subunits, institutional design class, and attachment discipline*), using the highest applicable [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification machinery*) class in governed scope: **Class A** (*absolute dependency*), **Class B** (*operational dependency*), or **Class C** (*coordination dependency*);
 - for every Chapter Thirteen forum family, forum, adjudicative body, internal chamber, division, or designated panel, at least the **Class C** (*coordination dependency*) floor for institutional design class, even if other governed systems are labeled below Class C;
-- the attachment-publication requirements in **CJS-2.1.2** (*Attachment publication*), with **one calendar year** treated as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification;
+- the attachment-publication requirements in **CJS-2.1.2** (*Attachment publication*), with **one calendar year** treated as the ordinary **maximum** for a single rotating attachment spell unless the document publishes a longer ceiling and a brief justification;
 - any stricter **Class A** or **Class B** assurance, external-participation, or publication requirement that applies through that institutional-design-class discipline when the chamber's governed scope reaches **absolute dependency** or **operational dependency** stakes.
 
 **Forum-specific rule.** This chamber-authority rule remains operative for **Chapter Thirteen** forum families and chambers. Where general delegated-subunit rules in **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) and forum-specific chamber-authority duties in this section overlap, the rule with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) governs. Forum-specific continuity, fallback, and emergency-adjudication controls remain in **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*).
@@ -202,7 +202,7 @@ Chamber-creation instruments must also state:
 
 *In plain terms: Each chamber must state up front how its rulings can be reviewed. A chamber may not rewrite routing by habit or quietly take work that belongs to another family.*
 
-Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with **Chapter Thirteen**.
+Each chamber-creation document must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with **Chapter Thirteen**.
 
 Chambers must not:
 - rewrite family-level routing by internal practice;
@@ -222,7 +222,7 @@ Chambers must not:
 
 *In plain terms: Creating a specialist chamber requires explaining why ordinary family-level handling will not do. Specialization must be justified, not assumed.*
 
-Where adopting instruments create technical, scientific, engineering, medical, security-sensitive, commercial, electoral, environmental, or other specialist chambers, the creating instrument must explain why chamber-level specialization is needed and why family-level reassignment is not constitutionally required.
+Where adopting documents create technical, scientific, engineering, medical, security-sensitive, commercial, electoral, environmental, or other specialist chambers, the creating document must explain why chamber-level specialization is needed and why family-level reassignment is not constitutionally required.
 
 Specialist chambers must:
 - remain reviewable and contestable within the constitutional family structure;

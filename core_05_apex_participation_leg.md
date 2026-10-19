@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Participation** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions for measurement families and Participation-band clusters live in [core_05_band_participation.md](core_05_band_participation.md). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Participation** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions for measurement families and Participation-band clusters live in [core_05_band_participation.md](core_05_band_participation.md). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -95,7 +95,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](core_05_band_participation.md#accessibility), [Educational Agency](core_05_band_participation.md#educational-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Six, [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+- Read with: Chapter Six, [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated documents — binding nondiscrimination, accommodation, education, or privacy requirements arise when those documents expressly require them.
 
 </details>
 

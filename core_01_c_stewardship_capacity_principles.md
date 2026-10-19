@@ -6,7 +6,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part C** (§§16–20: stewardship, governance, incentive alignment and capture, and the integrated application capstone).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter One, Part C** (§§16–20: stewardship, governance, incentive alignment and capture, and the integrated application capstone).
 >
 > **Upstream:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Chapter One, Part B)  
 > **Next:** [core_02_definition_structure.md](core_02_definition_structure.md)<br>
@@ -1530,7 +1530,7 @@ This subsection sets out why market signals are not constitutional proof:
   - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
   - objective probability; or
   - compliance for rights, safety, or governance determinations.
-- **If adopting instruments reference them:** those uses must satisfy the same Truth, [Contestability](core_05_band_accountability.md#contestability), and evidence expectations that apply to comparable high-impact decisions elsewhere in this Constitution.
+- **If adopting documents reference them:** those uses must satisfy the same Truth, [Contestability](core_05_band_accountability.md#contestability), and evidence expectations that apply to comparable high-impact decisions elsewhere in this Constitution.
 
 <a id="1954-proportionate-controls-and-implementation-custody"></a>
 ##### 19.5.4 Proportionate Controls and Implementation Custody
@@ -1566,7 +1566,7 @@ Authorization, design, and operation must do four things:
 
 - **What this chapter states:** constitutional direction.
 - **What it does not write:** the detailed licensing, criminal, tax, or cross-border enforcement rules for gambling and contingent settlement.
-- **Where those details belong:** adopting law and designated incorporated instruments, including:
+- **Where those details belong:** adopting law and designated incorporated documents, including:
   - [corpus_systems.md](corpus_systems.md) for classifying and scaling stewardship of materially impactful systems; and
   - [corpus_institutions.md](corpus_institutions.md) for conflict and procedure rules where institutions supervise or constitutionally govern such activity.
 

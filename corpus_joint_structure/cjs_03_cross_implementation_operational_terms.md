@@ -262,7 +262,7 @@ Operational enforcement role
 *In plain terms: an operational enforcement role carries out lawful enforcement steps rather than deciding the underlying merits.*
 
 - **What it is**
-  - **In scope:** An operational enforcement role carries out lawful enforcement steps rather than deciding the underlying merits. It may include local enforcement, constitutional enforcement, or both where adopting instruments authorize that combination with clear scope and safeguards.
+  - **In scope:** An operational enforcement role carries out lawful enforcement steps rather than deciding the underlying merits. It may include local enforcement, constitutional enforcement, or both where adopting documents authorize that combination with clear scope and safeguards.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in operational enforcement role.
 <a id="operational-enforcement-role-a"></a>
 - **How to measure and assess**

@@ -25,14 +25,14 @@
 
 This page is the process-support home for naming independent review and founding forum families while sentients cooperate under this Constitution.
 
-*In plain terms: cooperating sentients get a fill-in path to name a real independent-review path, and — after a recorded Chapter Seventeen instrument — to publish a real Chapter Thirteen forum structure. This page is not a markdown panel that calls itself a forum family, and not a substitute for CF-3 or Chapter Thirteen.*
+*In plain terms: cooperating sentients get a fill-in path to name a real independent-review path, and — after a recorded Chapter Seventeen adoption document — to publish a real Chapter Thirteen forum structure. This page is not a markdown panel that calls itself a forum family, and not a substitute for CF-3 or Chapter Thirteen.*
 
 <a id="purpose-and-role"></a>
 ## Purpose and role
 
 *In plain terms: this page sequences independent-review naming and forum-family foundation. It does not form the forum, and it does not adopt the Constitution.*
 
-This page gives cooperating sentients a fill-in path from operations-guide cooperation toward (1) a named independent-review path that is not the cooperating crew, and (2) a published [CF-3.2](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-32-family-to-forum-structure-translation-map) forum-structure map after a qualifying adopter records a Chapter Seventeen instrument. Binding family inventory, non-collapse, and map fields stay in [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md). Binding routing stays in [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction).
+This page gives cooperating sentients a fill-in path from operations-guide cooperation toward (1) a named independent-review path that is not the cooperating crew, and (2) a published [CF-3.2](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-32-family-to-forum-structure-translation-map) forum-structure map after a qualifying adopter records a Chapter Seventeen adoption document. Binding family inventory, non-collapse, and map fields stay in [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md). Binding routing stays in [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction).
 
 This page, the naming block, the map fill-in, and the non-forum banner **cannot narrow core text**. A filled template that diverges from CF-3, Chapter Thirteen, Chapter Seventeen §10, or Chapter Eighteen §4 is not a compliance path.
 
@@ -48,7 +48,7 @@ Go to the owner files for the real rules. This page does not replace them:
 - **Which family hears what** — [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) owns default venue, primary-stakes routing, intake triage, and cross-forum anti-self-judging. This page does not pick a lead family.
 - **How a panel is lawfully constituted** — [CF-4](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md) owns panel formation, disclosure, recusal, and lawful benches. A named crew is not a panel.
 - **Founding an institution** — [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) and [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template) own Chapter Five Institutional Charters. A forum hears disputes. It is not the institution whose mandate is in dispute. [Chapter Thirteen §4.3](../../core_13_forum.md#43-institutional-forums) hears institutional-mandate fights; it is not the institution itself.
-- **Moving systems over later** — [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) sequences that move **after** a body records a Chapter Seventeen adoption instrument. A forum-structure draft is not that move.
+- **Moving systems over later** — [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) sequences that move **after** a body records a Chapter Seventeen adoption document. A forum-structure draft is not that move.
 
 This kit also does **not**:
 
@@ -77,18 +77,18 @@ This kit also does **not**:
 
 ## 1. Two tracks (do not merge)
 
-First adopters need independent review *before* they can record a valid instrument. Live Chapter Thirteen forum families are what an **adopting entity** must then publish. Those are two jobs. Do not use a ceremony “forum” to skip either one.
+First adopters need independent review *before* they can record a valid adoption document. Live Chapter Thirteen forum families are what an **adopting entity** must then publish. Those are two jobs. Do not use a ceremony “forum” to skip either one.
 
 | Track | What you are naming or founding | What it still is not | When it can go live |
 |---|---|---|---|
-| **A. Independent-review path** | A published backup, external reviewer, or existing adjudicative body the cooperating crew does not solely staff, so [Chapter Seventeen Test 4](../../core_17_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity) and [Chapter Thirteen §3](../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) can be named honestly. | Not a Chapter Thirteen forum family. Not a CF-3.2 map. Not independent review if the crew is the only merits path. | Named on a Chapter Seventeen instrument, or used as operations-guide backup while the parties stay at declarations. First-adopter dispute bootstrap: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md#5-dispute-bootstrap). |
-| **B. Forum-family formation** | The six Chapter Thirteen families as a published [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) structure: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, **Constitutional**, in that order. | Not headcount of cooperating parties. Not the institution kit. Not community governance as a seventh family. Not collapsing families by renaming. | A qualifying adopter already holds a recorded [§10.1–§10.2](../../core_17_amendment_ratification.md#101-deliberate-adoption) instrument. Then the map / staffing / cliff path in this kit. Drafting Track B before an instrument is scaffolding only. |
+| **A. Independent-review path** | A published backup, external reviewer, or existing adjudicative body the cooperating crew does not solely staff, so [Chapter Seventeen Test 4](../../core_17_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity) and [Chapter Thirteen §3](../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) can be named honestly. | Not a Chapter Thirteen forum family. Not a CF-3.2 map. Not independent review if the crew is the only merits path. | Named on a Chapter Seventeen adoption document, or used as operations-guide backup while the parties stay at declarations. First-adopter dispute bootstrap: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md#5-dispute-bootstrap). |
+| **B. Forum-family formation** | The six Chapter Thirteen families as a published [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) structure: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, **Constitutional**, in that order. | Not headcount of cooperating parties. Not the institution kit. Not community governance as a seventh family. Not collapsing families by renaming. | A qualifying adopter already holds a recorded [§10.1–§10.2](../../core_17_amendment_ratification.md#101-deliberate-adoption) adoption document. Then the map / staffing / cliff path in this kit. Drafting Track B before an adoption document is scaffolding only. |
 
 **Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 **Layer check.** Authorizing who may hear binding merits, by what legitimacy mechanism, on what durable terms, is [Constitutional Contract Layer](../../core_00_preamble.md#33-governance-layers) work. Giving affected sentients voice, contest, and due process *inside* an already-authorized forum is Stakeholder System Participation. Do not use a participation vote as a substitute for constituting a forum family, and do not treat constitution as wiping participation duties.
 
-**Chicken and egg.** Track A is how first adopters name independent review without founding a forum family. Track B is how an adopter founds the families after that instrument exists. Filling Track B’s map does not satisfy Track A. Staffing Track A from the cooperating crew does not found Track B.
+**Chicken and egg.** Track A is how first adopters name independent review without founding a forum family. Track B is how an adopter founds the families after that adoption document exists. Filling Track B’s map does not satisfy Track A. Staffing Track A from the cooperating crew does not found Track B.
 
 ```text
 Track A (independent-review path — not a forum family)
@@ -97,10 +97,10 @@ Track A (independent-review path — not a forum family)
         name a published backup / external reviewer
         the cooperating crew does not solely staff
                 ↓
-        may be named on a Chapter Seventeen instrument (Test 4)
+        may be named on a Chapter Seventeen adoption document (Test 4)
 
 Track B (forum-family formation)
-        recorded Chapter Seventeen instrument (first-adopter / scaling kits)
+        recorded Chapter Seventeen adoption document (first-adopter / scaling kits)
                 ↓
         CF-3.2 map + cliffs (this kit)
                 ↓
@@ -115,9 +115,9 @@ Track B (forum-family formation)
 The first-adopter kit’s [three substeps](FIRST_ADOPTER_KIT.md#1-three-substeps-do-not-collapse) still apply. Founding a forum family does not merge them, and does not skip them for Track B.
 
 - Fitness screen and own-conduct declaration remain substeps 1.1–1.2. They are not a forum-structure map.
-- A Chapter Seventeen instrument remains substep 1.3. A live CF-3.2 map is not that instrument.
+- A Chapter Seventeen adoption document remains substep 1.3. A live CF-3.2 map is not that adoption document.
 - Track A may name independent review without founding families. Track A still cannot claim constitutional protection while dodging matching obligations, bind non-consenters, or treat the cooperating crew as the sole merits path.
-- Track B may not go live without a recorded instrument. [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule) binds **adopting entities**.
+- Track B may not go live without a recorded adoption document. [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule) binds **adopting entities**.
 
 ---
 
@@ -126,8 +126,8 @@ The first-adopter kit’s [three substeps](FIRST_ADOPTER_KIT.md#1-three-substeps
 Use this after the parties know which track they are on. Two parties start from [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). More than two start from [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md). Founding the institution that will *host* a forum is a different kit: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md).
 
 1. **Pin the edition.** Name `SC-Corpus-2026.10.14` unless a later publication cut exists. Do not mix editions.
-2. **Name the track.** Independent-review path (Track A) or forum-family formation (Track B). If Track B and there is no recorded instrument, stop at scaffolding. Attach the [non-forum banner](#10-non-forum-banner).
-3. **If Track A**, fill [§5](#5-independent-review-naming-not-a-forum-family). Copy the completed block into the instrument or the operations-guide file. Do not relabel it as a forum family.
+2. **Name the track.** Independent-review path (Track A) or forum-family formation (Track B). If Track B and there is no recorded adoption document, stop at scaffolding. Attach the [non-forum banner](#10-non-forum-banner).
+3. **If Track A**, fill [§5](#5-independent-review-naming-not-a-forum-family). Copy the completed block into the adoption document or the operations-guide file. Do not relabel it as a forum family.
 4. **If Track B**, name classification honestly. [CF-3.6](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-36-chamber-authority-composition-and-service-mechanics) / [CI-9.3](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline): every Chapter Thirteen family, forum, chamber, division, or designated panel takes at least the **Class C** (*coordination dependency*) floor. Do not pick a lower class to dodge burden.
 5. **Fill the forum-structure map** in [§6](#6-forum-structure-map-fill-in-not-a-live-map). Copy the completed block into the adopting entity’s custody. Leaving a filled copy in this repo is not publication.
 6. **Apply the [§4](#4-formation-cliffs-not-a-slope) cliffs** before claiming a live forum structure. Fail any cliff → scaffolding only.
@@ -147,8 +147,8 @@ Advancement from a draft to a live forum structure must **not** rest on elapsed 
 
 | Gate | Pass | Fail → scaffolding only |
 |---|---|---|
-| **Track honesty** | Track A as named independent review, or Track B with a recorded Chapter Seventeen instrument. | Track B claimed with no instrument. A draft map labeled “we are the forum family now.” Track A relabeled as a Chapter Thirteen family. |
-| **Qualifying body (Track B)** | A body that can bind the named scope ([Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)) already holds a recorded instrument. That body holds the map in **its** custody. | Stewards listing themselves as the forum. *n* declarations stapled together. |
+| **Track honesty** | Track A as named independent review, or Track B with a recorded Chapter Seventeen adoption document. | Track B claimed with no adoption document. A draft map labeled “we are the forum family now.” Track A relabeled as a Chapter Thirteen family. |
+| **Qualifying body (Track B)** | A body that can bind the named scope ([Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)) already holds a recorded adoption document. That body holds the map in **its** custody. | Stewards listing themselves as the forum. *n* declarations stapled together. |
 | **Independent review (Track A, and Track B backup)** | A published backup, external reviewer, or existing adjudicative body the founding crew does not solely staff. [Chapter Thirteen §3](../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture); [Chapter Seventeen Test 4](../../core_17_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity). Keep [Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. | The only merits path is the founding crew. A ceremony “forum” invented to check this box. |
 | **Chapter Thirteen inventory (Track B)** | All six families are named, distinct, and in Chapter Thirteen §2 table order. [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule). If this kit and CF-3 disagree, CF-3 wins. | Five families plus a merged leftover. A seventh “community” or “intake” family. Local titles used to erase a family. |
 | **Non-collapse (Track B)** | Shared clerks, buildings, or software still leave separate intake, panels where applicable, and appeal or review paths per family. [CF-3.3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-33-family-distinction-and-non-collapse-rule). | One family treated as a chamber of another so independent routing, review, or remedy disappears. Emergency or caseload used as a standing merger. |
@@ -166,7 +166,7 @@ Fail any row: attach the [non-forum banner](#10-non-forum-banner). Ordinary coop
 ```text
 FORMATION CHECK (complete before claiming a live forum structure)
 [ ] Track A as named independent review, or Track B with a recorded
-    Chapter Seventeen instrument.
+    Chapter Seventeen adoption document.
 [ ] Independent review is not solely the founding crew.
 [ ] Track B only: a qualifying adopter holds the map in its custody.
 [ ] Track B only: all six Chapter Thirteen families are distinct, in table order.
@@ -191,7 +191,7 @@ If any box is unchecked, stop. Scaffolding + non-forum banner only.
 
 ## 5. Independent-review naming (not a forum family)
 
-**This block names a Track A path. It does not found a Chapter Thirteen forum family.** Copy it onto the Chapter Seventeen instrument or the operations-guide file. If any field below disagrees with [Chapter Thirteen §3](../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) or [Chapter Seventeen Test 4](../../core_17_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity), those owners win.
+**This block names a Track A path. It does not found a Chapter Thirteen forum family.** Copy it onto the Chapter Seventeen adoption document or the operations-guide file. If any field below disagrees with [Chapter Thirteen §3](../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) or [Chapter Seventeen Test 4](../../core_17_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity), those owners win.
 
 Use this when first adopters need a Test 4 path and no live CF-3 structure exists yet. Existing external reviewers, published backups, and adjudicative bodies the crew does not control belong here. Inventing a two-party “forum” does not.
 
@@ -200,11 +200,11 @@ NOT-LIVE BANNER
 This block is a process-support template.
 It is not a Chapter Thirteen forum family.
 It is not a CF-3.2 forum-structure map.
-It is not a Chapter Seventeen instrument.
+It is not a Chapter Seventeen adoption document.
 It is not a Chapter Five Institutional Charter.
 It is not CS-10 phase entry.
 
-INDEPENDENT-REVIEW PATH (complete in the instrument or operations-guide file)
+INDEPENDENT-REVIEW PATH (complete in the adoption document or operations-guide file)
 Corpus edition pin: SC-Corpus-2026.10.14 (or later named publication cut)
 Track: A independent-review path
 
@@ -240,14 +240,14 @@ NOT-LIVE BANNER
 This block is a process-support template.
 It is not a published CF-3.2 forum-structure map.
 It is not a Chapter Thirteen forum family.
-It is not a Chapter Seventeen instrument.
+It is not a Chapter Seventeen adoption document.
 It is not a Chapter Five Institutional Charter.
 It is not CS-10 phase entry.
 
 FORUM-STRUCTURE MAP (complete in the adopting entity’s custody)
 Corpus edition pin: SC-Corpus-2026.10.14 (or later named publication cut)
 Track: B forum-family formation
-Recorded Chapter Seventeen instrument (where it lives):
+Recorded Chapter Seventeen adoption document (where it lives):
 Adopting entity (legal or network identity):
 Classification floor: Class C minimum for every family / chamber
   (CI-9.3 / CF-3.6). Higher class if governed scope requires it:
@@ -338,10 +338,10 @@ This map binds:
 This map does not bind:
 ```
 
-**Chamber-creation add-on (still not live).** If a family will create an internal chamber, division, or designated panel, the creating instrument must also state the [CF-3.5](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-35-chamber-creation-identification-and-family-boundary) / [CF-3.6](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-36-chamber-authority-composition-and-service-mechanics) fields: family it sits in, subject-matter scope, competence profile, institutional design class, attachment-publication, and how chamber rulings are reviewed ([CF-3.7](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-37-chamber-appeals-review-and-routing-limits)). A chamber never outranks its family boundary. Specialist chambers also read [CF-3.8](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-38-specialist-and-technical-chamber-discipline) and [CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md). Do not use a chamber to relabel one family as another.
+**Chamber-creation add-on (still not live).** If a family will create an internal chamber, division, or designated panel, the creating document must also state the [CF-3.5](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-35-chamber-creation-identification-and-family-boundary) / [CF-3.6](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-36-chamber-authority-composition-and-service-mechanics) fields: family it sits in, subject-matter scope, competence profile, institutional design class, attachment-publication, and how chamber rulings are reviewed ([CF-3.7](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-37-chamber-appeals-review-and-routing-limits)). A chamber never outranks its family boundary. Specialist chambers also read [CF-3.8](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-38-specialist-and-technical-chamber-discipline) and [CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md). Do not use a chamber to relabel one family as another.
 
 ```text
-CHAMBER-CREATION DRAFT (not a live instrument; CF-3.5 wins on conflict)
+CHAMBER-CREATION DRAFT (not a live adoption document; CF-3.5 wins on conflict)
 Family this chamber sits in:
 Subject-matter scope:
 Competence profile:
@@ -394,7 +394,7 @@ A live CF-3.2 map is still not Chapter Seventeen adoption, not CS-10 phase entry
 - **Appeal and exhaustion** use [CF-6](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md).
 - **Integrity operations** while a matter is live use [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md).
 - **Continuity, fallback, and emergency adjudication** use [CF-12](../../corpus_forum/cf_12_forum_continuity.md), [CF-13](../../corpus_forum/cf_13_fallback_operation.md), and [CF-14](../../corpus_forum/cf_14_emergency_adjudication.md). Emergency is not a standing justification for family merger ([CF-3.3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-33-family-distinction-and-non-collapse-rule)).
-- **Systems under a recorded instrument** migrate under [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). Do not reuse CS-10 phase names as a metaphor for “we stood up a panel.”
+- **Systems under a recorded adoption document** migrate under [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). Do not reuse CS-10 phase names as a metaphor for “we stood up a panel.”
 - **Progress** under [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
 
 ---
@@ -412,7 +412,7 @@ This file is formation scaffolding and/or operations-guide cooperation.
 It is not a published CF-3.2 forum-structure map.
 It is not a Chapter Thirteen forum family.
 It is not a Chapter Five Institutional Charter under CI-3.6.
-It is not a Chapter Seventeen §10 instrument of adoption.
+It is not a Chapter Seventeen §10 adoption document.
 It is not Chapter Eighteen incorporation.
 It is not CS-10 phase entry.
 It is not a Chapter Ten standing record, a Chapter Nine certificate,
@@ -425,7 +425,7 @@ and the formation cliffs pass, this text may guide drafting. It has no
 independent power to hear disputes or to enforce against non-consenters.
 ```
 
-If the file is also not a Chapter Seventeen instrument, attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) as well. If it is also not a Chapter Five Institutional Charter, attach the institution kit’s [non-institution banner](INSTITUTION_FOUNDATION_KIT.md#9-non-institution-banner). The banners do different jobs.
+If the file is also not a Chapter Seventeen adoption document, attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) as well. If it is also not a Chapter Five Institutional Charter, attach the institution kit’s [non-institution banner](INSTITUTION_FOUNDATION_KIT.md#9-non-institution-banner). The banners do different jobs.
 
 ---
 
@@ -433,7 +433,7 @@ If the file is also not a Chapter Seventeen instrument, attach the first-adopter
 
 1. **Scaffolding.** We are drafting a forum-structure map or naming an independent-review path. We will not treat this markdown as a Chapter Thirteen forum family, as a CF-3.2 map, as a Institutional Charter, or as appointment to a merits bench.
 2. **Track A.** We are naming a published backup, external reviewer, or existing adjudicative body we do not solely staff. We will not relabel it as a forum family, and we will not claim adoption if this path is only us.
-3. **Track B.** A qualifying adopter already holds a recorded Chapter Seventeen instrument. We are founding the six Chapter Thirteen families under that instrument — not as a substitute for it, and not by collapsing families or inventing a seventh.
+3. **Track B.** A qualifying adopter already holds a recorded Chapter Seventeen adoption document. We are founding the six Chapter Thirteen families under that adoption document — not as a substitute for it, and not by collapsing families or inventing a seventh.
 4. **Stop.** We cannot name independent review outside the founding crew, or we cannot bind the named scope. Scaffolding plus banners only.
 
 ---
@@ -442,7 +442,7 @@ If the file is also not a Chapter Seventeen instrument, attach the first-adopter
 
 | Material | Job relative to this kit |
 |---|---|
-| [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
+| [`README.md`](README.md) | This folder’s door — process path toward an adoption document, not the adoption document |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation. Not a forum family |
@@ -459,7 +459,7 @@ If the file is also not a Chapter Seventeen instrument, attach the first-adopter
 | [Chapter Seventeen Test 4](../../core_17_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity) | Independent-review validity for Track A |
 | [Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) | Challenge, review, and redress must stay reachable |
 | [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template) | Binding Institutional Charter fields — leave this kit |
-| [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | System migration **after** a recorded instrument |
+| [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | System migration **after** a recorded adoption document |
 | [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them |
 

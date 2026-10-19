@@ -22,7 +22,7 @@ The corpus already has a convention for shared diagrams, and it runs in the oppo
 - `core_01_a_values_principles.md` reproduces the Tetrad chart and closes with *"Reproduced from the [Conceptual Overview](../../guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad)."*
 - `core_01_b_interaction_interpretation.md` uses the same pattern for the definitions chart.
 
-Those are cross-cutting maps that span the instrument, so the overview is their natural canonical home. The pillar chart is different: it is Chapter One §16's own taxonomy, and §9 is its source. So this plan inverts the pointer and uses the overview's *own* native pattern instead — the Tetrad subsection already says *"Their source is the [Preamble's Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad)."*
+Those are cross-cutting maps that span the Constitution, so the overview is their natural canonical home. The pillar chart is different: it is Chapter One §16's own taxonomy, and §9 is its source. So this plan inverts the pointer and uses the overview's *own* native pattern instead — the Tetrad subsection already says *"Their source is the [Preamble's Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad)."*
 
 **Decision:** the overview version carries a source pointer to §9. `core_01_c` is left unchanged. A reciprocal pointer in §9 is optional and listed under *Open decisions*.
 

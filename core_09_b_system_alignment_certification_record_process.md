@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Nine, Part B** — the **forum process** (component roles, supervisory sequence, and the contestability chain), the certification **outcomes** and the go-live gate, the certification **record** and its integrity, the **challenge path** with **recertification and reopening**, and the **standing bridge** (**§6–§10**, continuing from Part A §1–§5). **Part A** — purpose, framing (system class), and evaluation requirements — is in [`core_09_a_system_alignment_certification_evaluation.md`](core_09_a_system_alignment_certification_evaluation.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part B** — the **forum process** (component roles, supervisory sequence, and the contestability chain), the certification **outcomes** and the go-live gate, the certification **record** and its integrity, the **challenge path** with **recertification and reopening**, and the **standing bridge** (**§6–§10**, continuing from Part A §1–§5). **Part A** — purpose, framing (system class), and evaluation requirements — is in [`core_09_a_system_alignment_certification_evaluation.md`](core_09_a_system_alignment_certification_evaluation.md).
 >
 > - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05_band_oversight.md#auditability).
 > - **Evaluation inputs:** [Part A §2](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) supply evaluation outputs reflected on the certification record.
@@ -393,7 +393,7 @@ For every condition or corrective task, the record must name:
 
 A condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Releasing a condition requires independent verification of the evidence supporting release, under [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
-**Systems already operating.** A system that is already operating when an adopter's instrument takes effect is not barred by this rule while the transition window published for it runs.
+**Systems already operating.** A system that is already operating when an adopter's adopting document takes effect is not barred by this rule while the transition window published for it runs.
 
 - [Article XXVIII-A](core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-window) (*Phased Adoption and Rights-Floor Continuity*) sets that transition window, scaled to the system's class, to bring the system within this chapter.
 - The restraint duties in that Article apply from the effective date. The transition window defers delivery work, not restraint or preservation.
@@ -848,7 +848,7 @@ Certification is held in one of two statuses. Each has its own certification int
 
   Provisional certification runs on a provisional interval, shorter than the full certification interval for the same system class. Limits on reliance are stated on the record.
 - **[Full certification](core_05_band_continuity.md#full-certification)** is earned only at a recertification of a system holding provisional certification, and only where all three of these hold:
-  1. the system has completed the required number of consecutive clean provisional recertifications: at least one, and more for higher system classes, as the adopted instrument sets;
+  1. the system has completed the required number of consecutive clean provisional recertifications: at least one, and more for higher system classes, as the adopted document sets;
   2. no misalignment is current: the record shows no open misalignment, unremedied defect, overdue check, or failed regression testing; and
   3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the record show no threshold crossed and no trend toward one.
 

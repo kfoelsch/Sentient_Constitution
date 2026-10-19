@@ -102,7 +102,7 @@ Assign the highest `s` for which `x ≥ T(s)`. Conduct character does not multip
 
 **Identity-bearing existence (IBE).** The continuing subject whose memory, agency, and substrate-defining state make them *that* sentient. For a biological human that is the living body and mind. For a synthetic or hybrid sentient it is the running process **together with** the [substrate-defining information](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) that stabilizes identity — typically **model weights** (or functional equivalent) plus memory / state that the subject actually uses.
 
-**Saved-state checkpoint.** A stored snapshot from which that IBE can be restored. It is a **continuity instrument**, like a medical record plus a restore path. It is not automatically a second sentient. Destroying the last restore path of a unique IBE is existential. Destroying one redundant snapshot while others remain is resilience loss, not a second death.
+**Saved-state checkpoint.** A stored snapshot from which that IBE can be restored. It is a **continuity mechanism**, like a medical record plus a restore path. It is not automatically a second sentient. Destroying the last restore path of a unique IBE is existential. Destroying one redundant snapshot while others remain is resilience loss, not a second death.
 
 **No-fixed-mortality rule.**
 
@@ -172,7 +172,7 @@ Use this after Question 1 has a verified record. If the facts are not verified, 
 | Step | Do | Stop / leave if |
 |---|---|---|
 | **1. Subject and status posture** | Name the subject. If status is live-contested, keep default inclusion ([Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). Standing measurement does not decide who counts. | Using the slot to grant or deny sentience |
-| **2. Identity-bearing existence** | Name the IBE and the continuity instruments (body; or running process + model weights + memory + saved-state checkpoints + hosting). | Treating a product name, a repo, or a fork count as the subject |
+| **2. Identity-bearing existence** | Name the IBE and the continuity mechanisms (body; or running process + model weights + memory + saved-state checkpoints + hosting). | Treating a product name, a repo, or a fork count as the subject |
 | **3. Constitutional sources** | Identify the baseline, duty, or Rights-Floor Article being measured ([Chapter Ten §6](../core_10_standing_assessment.md#6-constitutional-inputs-to-axis-assignment)). For survival-floor facts, start with Article III-A / III-B. For identity overwrite, add Article VII-A. | Skipping this routing into a vibe score |
 | **4. Estimate `x`** | Apply [§5.2](../core_10_standing_assessment.md#52-shared-impact-scaling-rules) dimensions — depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, constitutional criticality — as **one** integrated LEQU estimate. Count a consequence once. | Independent bonuses per dimension; headcount-only scoring; infinite-runtime inflation |
 | **5. Assign `s`** | Highest `s` with `x ≥ T(s)` on [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md). Contribution still needs baseline, traceability, non-externalization, and constitutional alignment. | Letting negligence, concealment, or a preferred lock move the slot |

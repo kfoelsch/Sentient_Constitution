@@ -6,7 +6,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Twelve, Part A** — designation decision framework, criteria set, Violation Axis `s = 7–9` designation attachment, due-process safeguards, remedy, prevention locks, and voluntary public accountability expression. **Part B** — named pattern applications and criteria routing — is in [`core_12_b_misconduct_pattern_applications.md`](core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct--pattern-applications).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twelve, Part A** — designation decision framework, criteria set, Violation Axis `s = 7–9` designation attachment, due-process safeguards, remedy, prevention locks, and voluntary public accountability expression. **Part B** — named pattern applications and criteria routing — is in [`core_12_b_misconduct_pattern_applications.md`](core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct--pattern-applications).
 >
 > - **Constitutional owner (joint with Part B):** final anti-constitutional-misconduct designation for Violation Axis `s = 7`, `s = 8`, or `s = 9` findings. Part A owns the designation decision model; Part B routes named patterns into that model without adding criteria.
 > - **Measurement boundary:** Chapter Ten alone assigns the numeric impact slot under its unified proportional LEQU scale. This chapter does **not** replace or alter that measurement.
@@ -107,7 +107,7 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
 
 - The underlying conduct may arise during **constitutional change** under **Chapters Fifteen through Seventeen**, including **regressive deception** covered by criteria **1–4**.
 - It may also arise through **criteria 5** or **6**, or through other conduct that materially harms constitutional **validity**, **operation**, or **Rights-Floor** governance.
-- No adopting instrument, process note, or subsidiary body may issue the final designation instead of **this chapter**.
+- No adopting document, process note, or subsidiary body may issue the final designation instead of **this chapter**.
 
 <a id="1-cross-chapter-discipline"></a>
 

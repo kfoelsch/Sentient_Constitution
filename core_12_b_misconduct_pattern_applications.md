@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Twelve, Part B** — named pattern applications and criteria routing for recurring anti-constitutional misconduct patterns. **Part A** — designation decision framework, criteria set, designation attachment, and due-process safeguards — is in [`core_12_a_misconduct_designation.md`](core_12_a_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twelve, Part B** — named pattern applications and criteria routing for recurring anti-constitutional misconduct patterns. **Part A** — designation decision framework, criteria set, designation attachment, and due-process safeguards — is in [`core_12_a_misconduct_designation.md`](core_12_a_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation).
 >
 > - **Constitutional owner (joint with Part A):** final anti-constitutional-misconduct designation for Violation Axis `s = 7`, `s = 8`, or `s = 9` findings. Part B routes named patterns into Part A §§2–4; it does **not** add designation criteria or Chapter Eleven lock types.
 > - **Anti-relocation rule:** Part B does not restate Part A designation criteria, attachment rules, or due-process safeguards. Operational forum, systems, and institutional mechanics remain in their owner chapters.
@@ -71,7 +71,7 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 - Upstream: [§2](core_12_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor; [Chapter Eleven §5.4](core_11_standing_integration.md#54-special-violation-rules) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in the second bullet.
 - Downstream: [§1](core_12_a_misconduct_designation.md#1-cross-chapter-discipline) (*Chapters Fifteen through Seventeen boundary*); [Article XX-A: Justice Objective and Scope](core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Eleven §10.9](core_11_standing_integration.md#109-rights-floor-waiver-or-unconstitutional-contract-devices) (*Question 3 named-pathway lock routing for the same fact family — general locks only*).
-- Read with: [Chapter Seventeen](core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) procedural-validity rules for adoption instruments (contrast with ordinary association terms).
+- Read with: [Chapter Seventeen](core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) procedural-validity rules for adoption documents (contrast with ordinary association terms).
 
 </details>
 
@@ -97,10 +97,10 @@ The following patterns are **anti-constitutional misconduct within this chapter�
     - interpretation, appeal, or review pathways under **Article XX-A** (*Justice Objective and Scope*);
     - constitutionally required **auditability** or **contestability**; or
     - **standing** needed to vindicate those protections.
-  - In scope where the condition functions to defeat, narrow, or chill those protections without **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**, and outside **Chapter Seventeen** procedural-validity rules for adoption instruments themselves.
+  - In scope where the condition functions to defeat, narrow, or chill those protections without **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**, and outside **Chapter Seventeen** procedural-validity rules for adoption documents themselves.
   - **Ordinary commercial convenience alone** is not a sufficient justification.
 
-- **Unconstitutional contract-term conduct:** any agreement, adhesion term, policy, or comparable instrument that purports to waive, disclaim, override, or contract around binding **Sentient Constitution** obligations or **Chapter Six** Rights Floors.
+- **Unconstitutional contract-term conduct:** any agreement, adhesion term, policy, or comparable document that purports to waive, disclaim, override, or contract around binding **Sentient Constitution** obligations or **Chapter Six** Rights Floors.
   - Includes **non-disclosure agreements** (**NDAs**) and **overbroad confidentiality** terms where they **function** as **waiver**, **gag**, or **override** devices.
   - Includes a **contractual directive** requiring unlawful conduct or material constitutional violation (read with [Chapter Eleven §5.4 Special violation rules](core_11_standing_integration.md#54-special-violation-rules) and [§2 Automatic integration, review, and continuity](core_11_standing_integration.md#2-automatic-integration-review-and-continuity)).
 
@@ -251,7 +251,7 @@ The following are non-exhaustive examples of in-scope means:
 
 **Relation to section 5.3.** The same campaign may implicate both **contest-pathway flooding** and **info-sphere flooding**. Evaluators must assess them together on a **unified incident record** where facts overlap. They must not double-count the same conduct element toward criteria satisfaction twice without independent substantiation for each pattern.
 
-**Operational response** remains governed by those instruments and adopted owner layers, including:
+**Operational response** remains governed by those documents and adopted owner layers, including:
 - Rights-Floor implementation under **Chapter Six**;
 - **Article XVI** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline;
 - **[corpus_systems.md](corpus_systems.md)** handling where designated; and

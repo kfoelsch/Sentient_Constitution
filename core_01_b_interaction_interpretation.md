@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§13–15: Constitutional Collision Resolution Process, prohibition on absolute override, and constitutional interpretation) — the part that keeps the Constitutional Tetrad intact when principles collide and when the Constitution is read.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter One, Part B** (§§13–15: Constitutional Collision Resolution Process, prohibition on absolute override, and constitutional interpretation) — the part that keeps the Constitutional Tetrad intact when principles collide and when the Constitution is read.
 >
 > **Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — §§1–12, the Flourishing and Continuity aims)  
 > **Next:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Chapter One, Part C — §§16–20, stewardship, governance, incentive alignment, and integrated application).
@@ -808,7 +808,7 @@ A constitutional requirement cannot be avoided by changing any of the following 
 - route;
 - owner;
 - forum;
-- instrument; or
+- document; or
 - timing.
 
 Packaging the same act as a special process does not skip the requirement. Using any of the following is allowed only if that step itself still follows this Constitution:
@@ -1001,7 +1001,7 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 
 This subsection is the **single canonical procedure** for resolving interpretive tension from **textual and source-layer precedence**.
 - It applies:
-  - within the binding constitutional source (the integrated `core_*` instrument); and
+  - within the binding constitutional source (the integrated `core_*` text); and
   - at the incorporation layer, where incorporated texts are chosen by [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect).
 - Source-layer status is identified under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Five.
 - [Chapter Eighteen](core_18_incorporation.md#chapter-eighteen-incorporation-bridge) supplies custody, edition pinning, and adoption framing. It does **not** restate this procedure.
@@ -1073,7 +1073,7 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
 **When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Eighteen](core_18_incorporation.md#chapter-eighteen-incorporation-bridge)** in either of these cases:
 
 1. **One situation, more than one file:** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
-2. **Adoption brings the joint-structure set into force:** The adopting instrument applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
+2. **Adoption brings the joint-structure set into force:** The adopting document applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
 
 **Combined satisfaction.** Where more than one incorporated implementation file applies to the same facts under those triggers, compliance means meeting **all** material duties in that set. A sentient or institution cannot satisfy one file and then claim compliance while leaving another material duty undone. Where two files in that set disagree about the same meaningfully scoped risk, apply **[§15.4.3](#1543-incorporation-layer)** (*Cross-file Fullest Protective Effect*).
 

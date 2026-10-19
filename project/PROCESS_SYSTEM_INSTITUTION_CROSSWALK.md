@@ -108,7 +108,7 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1B §6.3 | Minimization of Avoidable Burden | Process | — | H | Remove steps that do no constitutional work |
 | 1B §7 | Prohibition on Absolute Override | All objects | — | M | No single value is a trump card |
 | 1B §8 | Constitutional Interpretation | Meta (reading the text) | — | H | How to read the text |
-| 1B §8.1 | Constitutional No-Bypass Principle | Process | Institution | M | Requirement survives change of label, route, owner, forum, instrument, timing |
+| 1B §8.1 | Constitutional No-Bypass Principle | Process | Institution | M | Requirement survives change of label, route, owner, forum, document, timing |
 | 1B §8.2 | Definitional layer and required disciplines | Meta (reading the text) | — | H | How Chapters Two to Five relate to Chapter One |
 | 1B §8.3 | Ambiguity resolution | Meta (reading the text) | — | H | Choose the most protective integrated reading |
 | 1B §8.4 | Constitutional Meaning Conflict Resolution | Meta (reading the text) | — | H | Order of texts when they conflict |

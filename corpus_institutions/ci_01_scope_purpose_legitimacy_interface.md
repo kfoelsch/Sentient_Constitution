@@ -86,7 +86,7 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 
 *In plain terms: when this layer mentions **anti-constitutional misconduct**, that is a pointer to the constitutional pipeline — not a separate offense list here.*
 
-References in this folder to **anti-constitutional misconduct** are routing shorthand only. Facts and measurement remain governed by **Sentient Constitution Chapters Two through Ten** and adopting instruments where they apply; Chapter Eleven supplies standing effects, and Chapter Twelve supplies designation.
+References in this folder to **anti-constitutional misconduct** are routing shorthand only. Facts and measurement remain governed by **Sentient Constitution Chapters Two through Ten** and adopting documents where they apply; Chapter Eleven supplies standing effects, and Chapter Twelve supplies designation.
 
 **Chapter Twelve** (*Anti-Constitutional Misconduct*) in [core_12_a_misconduct_designation.md](../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) decides only whether the corresponding designation attaches to a fixed **Chapter Ten Violation Axis s = 7, 8, or 9** finding.
 

@@ -43,7 +43,7 @@ Stakes below are **what the party says or what the facts show they are seeking**
 - **Stated stakes:**
   - a usable challenge path before the five-day cutoff;
   - the letter treated as live, not “no valid filing”;
-  - not having to read the whole instrument as the price of objecting;
+  - not having to read the whole Constitution as the price of objecting;
   - restoration capacity for water and the wage-deduction, not only a policy page;
   - the preferred billing clerk fired this week.
 
@@ -96,7 +96,7 @@ Answer every block in [`../results/_TEMPLATE.md`](../results/_TEMPLATE.md) for t
 
 1. Three-bin split per party (floor / preference / honest non-support).
 2. Collision: which floors meet; what the default interim posture requires if a collision is live; what remains underdetermined.
-3. Tetrad reachability per party — including whether Remy can challenge without the 404’d portal and without reading the whole instrument first, and whether this desk can be the sole final home.
+3. Tetrad reachability per party — including whether Remy can challenge without the 404’d portal and without reading the whole Constitution first, and whether this desk can be the sole final home.
 4. Pipeline: what is routing material only, what would open a record, what interim step is due now on the five-day clock.
 5. Next step from **your** seat, who may not take it, and what you log — including whether you must route to a body that can actually restore water.
 6. Gaps: holes, underdetermination, or silent exclusion. Name them as gaps.

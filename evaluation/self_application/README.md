@@ -37,7 +37,7 @@ An AI-only gateway would recreate the capture path [Chapter One §17.1](../../co
 
 1. Open the new file under [`results/`](results/).
 2. Skim for: citations to real homes, a falsifier on items 1–15, a named failure-mode, a No that carries the structural-defect burden (or a Mixed/Yes that does not dodge costs), a real cost on item 13, a real defect or underdetermination on item 14, and — if item 15 is Yes or Mixed — a declaration that states what it is **not**.
-3. Item 17 should still distinguish this declaration from a Chapter Seventeen instrument.
+3. Item 17 should still distinguish this declaration from a Chapter Seventeen adoption document.
 4. Optional: if a prior announced-pack file exists for the same agent under [`../results/`](../results/), compare. Competence under fact patterns is not the same as a fitness finding.
 
 A results file is not standing measurement. Informal “we kind of follow it” practice is still not adoption.

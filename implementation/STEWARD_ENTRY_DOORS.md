@@ -52,7 +52,7 @@
 | An instruction that is merely unwelcome, not unconstitutional | [Proceed](#proceed) |
 | Two Rights-Floor articles collide and no article names a winner | [Interpretation](#interpretation) |
 | Asked to take a step and unsure whether it is yours to take — verify, enter, countersign, contain, set participation terms, release evidence | [Which seat am I in](#which-seat-am-i-in) — then the stack the step belongs to |
-| “I adopt this” / “we follow it” / a markdown self-application declaration treated as adoption | [Chapter Seventeen §10](../core_17_amendment_ratification.md#10-ratification-and-adoption) instrument of adoption, with [Chapter Eighteen §4](../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) framing. Fill-in: [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Folder: [`adoption/`](adoption/). |
+| “I adopt this” / “we follow it” / a markdown self-application declaration treated as adoption | [Chapter Seventeen §10](../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption document, with [Chapter Eighteen §4](../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) framing. Fill-in: [`adoption/FIRST_ADOPTER_KIT.md`](adoption/FIRST_ADOPTER_KIT.md). Folder: [`adoption/`](adoption/). |
 | Founding an oversight body, cooperative, or “constitutional institution” from the cooperating crew | [`adoption/INSTITUTION_FOUNDATION_KIT.md`](adoption/INSTITUTION_FOUNDATION_KIT.md). Binding formation: [CI-3.6](../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-system-and-institutional-charter-contents-review-and-formation-template). |
 | Founding a dispute forum, “independent review panel,” or Chapter Thirteen forum family from the cooperating crew | [`adoption/FORUM_FOUNDATION_KIT.md`](adoption/FORUM_FOUNDATION_KIT.md). Binding formation: [CF-3](../corpus_forum/cf_03_forum_formation_chamber_structure.md). Binding routing: [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction). |
 
@@ -127,7 +127,7 @@ Same sequence for an AI steward who received the same order.
 | **Who was harmed** | Resident R, dependent on Shared Water System W. Supply cut for 36 hours. R cannot navigate the hop count. |
 | **What to ask for** | Intake now. Preserve evidence of the cutoff. Review the decision. Proportionate redress while the harm is still remediable. |
 | **Where that lives** | Rights-Floor challenge and redress — [**Article XIII-A**](../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline); redress: [**Article XIII-B**](../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
-| **What not to do** | Do not send R to reread the instrument. Do not treat corpus density as a reason to hide the next step. Do not wait for a filed case to preserve evidence. |
+| **What not to do** | Do not send R to reread the Constitution. Do not treat corpus density as a reason to hide the next step. Do not wait for a filed case to preserve evidence. |
 
 Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION_GUIDE.md) remains lookup-only.
 

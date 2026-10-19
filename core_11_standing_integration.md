@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eleven**, the standing-pipeline integration and consequence layer. [Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) exclusively owns verified facts, standing records, standing measurement, and every Contribution Axis and Violation Axis slot. This chapter accepts those inputs as fixed and answers Question 3: what follows. [Chapter Twelve](core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) decides only whether a qualifying `s = 7`, `s = 8`, or `s = 9` violation receives the matching anti-constitutional-misconduct designation.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven**, the standing-pipeline integration and consequence layer. [Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) exclusively owns verified facts, standing records, standing measurement, and every Contribution Axis and Violation Axis slot. This chapter accepts those inputs as fixed and answers Question 3: what follows. [Chapter Twelve](core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) decides only whether a qualifying `s = 7`, `s = 8`, or `s = 9` violation receives the matching anti-constitutional-misconduct designation.
 
 </details>
 
@@ -1041,7 +1041,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*);
   - [§4.2](#42-prevention--general-standing-locks) (*general standing locks scoped to the abused trust, role, credit, or influence pathways*);
   - [§5.1](#51-definition-and-attachment) (*attachment fields*); and
-  - [§5.4 Special violation rules](#54-special-violation-rules) (*Duty to Resist* where the instrument required unlawful or unconstitutional compliance).
+  - [§5.4 Special violation rules](#54-special-violation-rules) (*Duty to Resist* where the instruction required unlawful or unconstitutional compliance).
 - **Non-negotiable:** This cue does not create a special lock under [§5.5 Special locks](#55-special-locks). Term nullity and designation criteria remain in [Chapter Twelve §5.2 Rights-Floor waivers and unconstitutional contract terms](core_12_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Chapter Eleven attaches ordinary named pathway locks from the verified record; only a final designation triggers the Anti-Constitutional Trust Lock under [§10.8 Anti-constitutional misconduct allegation](#108-anti-constitutional-misconduct-allegation).
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>

@@ -31,6 +31,15 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-10-19 — Chapter Seven locks, repeat requests, and the word "instrument": follow-ups
+
+Records: project docs `claude/dissolution-reformation-lock-implementation.md`, `claude/ch07-section4-subsections-implementation.md`, `claude/instrument-word-ban-sweep-implementation.md`. See the fiftieth move in [doc_architecture.md](doc_architecture.md).
+
+- [ ] **Sign-off, Dissolution Reformation Lock (Chapter Eleven §5.5, §8; operative change):** locks can sit on institutions, and permanent locks are limited to two grounds. Open points are in the project note. Chapter Seventeen §1 heightened review applies.
+- [ ] **Confirm the repeat-request clarification (Chapter Seven §1.6):** a request that shows a material change or new evidence is a new request with its own windows from its own date (operative clarification; custodian to confirm).
+- [ ] **Confirm the name "Adoption Document"** for Chapter Seventeen §10.2 (it was "Instrument of Adoption"; anchor `#102-adoption-document`), and the "prefer" wording in the `instrument` entry of `tools/architecture/lexical_guardrails.json`.
+- [ ] **Translations not synced** for the "instrument" wording, the Chapter Seventeen §10.2 name, the Chapter Seven §2 to §4 subsections, and the Dissolution Reformation Lock. Updated after the announcement.
+
 ### 2026-10-18 — Time windows, Document at Action, and the CS-4 rewrite: committed on a branch; follow-ups
 
 Records: project docs `claude/archive/promptly-alignment-with-time-windows-evaluation.md`, `claude/archive/time-window-urgency-complexity-matrix-evaluation.md`, `claude/archive/time-window-names-evaluation.md`, `claude/dissolution-procedure-draft.md` (stays active: open steward decisions 2, 6, 7, 8, 9, sign-off, Class P reach, `make edition-bump`); the first three are archived under `claude/archive/`; Test 1 note [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md) (link it from the pull request). See the thirty-second to forty-sixth moves in [doc_architecture.md](doc_architecture.md). The work is on branch `docs/time-windows-ref-audit-cs4-rewrite`.
@@ -55,18 +64,18 @@ Context: a System Charter or Institutional Charter that leaves out the standing-
 - [ ] **Certification seats** still use the CI-3.2 lane-map fallback when the map is silent (CI-3.2 *Fallback for certification seats*; CI-3.6 field 11). Decide whether they follow the same invalid-Charter rule.
 - [ ] **Translations not synced** for the edited passages.
 
-### 2026-10-13 — Institutional alignment certification (Chapter Nine Part D): drafted on a branch, signed off by the steward 2026-10-13
+### 2026-10-13 — Institutional alignment certification (Chapter Nine Part D): signed off by the steward 2026-10-13; open follow-ups
 
-Evaluation: [institutional-alignment-certification-evaluation](evidence/2026-10-13/institutional_alignment_certification_implementation.md) (project doc `claude/institutional-alignment-certification-evaluation.md`). Drafted on branch `docs/ch09-institutional-alignment-certification` and committed there (7fadbbe4). This is a core change touching Chapters 7, 8, 9, and 13 (Lane D). The earlier hold on core changes to Chapter Nine and Chapter Thirteen was **lifted by the steward on 2026-10-13**: the announcement will not be made until the corpus is complete, so there is no timing hold.
+The evaluation, the branch history and the lifting of the Chapter Nine and Chapter Thirteen hold are archived in [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md).
 
 The steward signed off the drafted defaults on 2026-10-13; the item is archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 - [ ] **Chapter Seventeen §1 heightened review** applies to the Chapter Thirteen edits.
 - [ ] **Translations not synced** (19 locales already lag).
 - [ ] **Not done:** a Preamble owner-register entry and process-map entry for Part D, and a CS-3 pointer to the institution class test.
 
-### 2026-10-13 — Formation check (Chapter Seven §7) and remediation readiness with denial and revocation (Chapter Nine Part B §7.1–§7.2, Part D §12.2 item 7 and §13.5): drafted on the same branch, signed off by the steward 2026-10-13
+### 2026-10-13 — Formation check (Chapter Seven §7) and remediation readiness with denial and revocation (Chapter Nine Part B §7.1–§7.2, Part D §12.2 item 7 and §13.5): signed off by the steward 2026-10-13; open follow-ups
 
-Note: [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md). The Chapter Nine hold was lifted on 2026-10-13 (see the entry above).
+The note ([formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md)) and the lifted-hold reference are archived in [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md).
 
 The steward signed off the drafted defaults on 2026-10-13; the item is archived in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 - [ ] **Not done:** Chapter Five entries (none added), Chapter Thirteen routing for readiness findings, translations.
@@ -217,6 +226,7 @@ Keep this active file limited to editor checks, current open work, and short arc
 
 ## Archives
 
+- **2026-10-19 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md)
 - **2026-10-18 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-18.md](archive/TODO_RESOLVED_2026-10-18.md)
 - **2026-10-14 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-14.md](archive/TODO_RESOLVED_2026-10-14.md)
 - **2026-10-13 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md)

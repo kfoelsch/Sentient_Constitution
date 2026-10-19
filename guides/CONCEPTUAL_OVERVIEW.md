@@ -9,7 +9,7 @@
 
 *Who this is for:* readers who have had a first look and want to see how the parts fit together. It takes about 40 minutes. New to the Constitution? Begin at the [README](../README.md), which has shorter [reading paths](../README.md#reading-paths); this overview is a step in the 2-hour path. Planning to use or adopt the Constitution? See [Using or adopting it](../START_HERE.md) as well.
 
-The Constitution connects a purpose to principles, protections, evidence, review, consequences, and authority. Its parts address different questions about the same shared systems. The overview is about more than process: it gives a reader a mental model for what the instrument is protecting, how it makes claims checkable, and how it keeps power answerable.
+The Constitution connects a purpose to principles, protections, evidence, review, consequences, and authority. Its parts address different questions about the same shared systems. The overview is about more than process: it gives a reader a mental model for what this Constitution is protecting, how it makes claims checkable, and how it keeps power answerable.
 
 Seven questions make those relationships easier to hold in mind:
 
@@ -21,7 +21,7 @@ Seven questions make those relationships easier to hold in mind:
 6. [Who reviews and challenges?](#forums) Forum families, published challenge paths, independent review, and segregation of duties.
 7. [Who may authorize, change, and implement?](#governance) The Constitutional Contract Layer, non-regression, amendment, adoption, incorporation, and corpus custody.
 
-*The diagrams show selected relationships. They do not establish precedence, replace source provisions, or require every matter to pass through every box. The numbered chapters work together as one instrument.*
+*The diagrams show selected relationships. They do not establish precedence, replace source provisions, or require every matter to pass through every box. The numbered chapters work together as one text.*
 
 The central idea is **pursue Flourishing and Continuity together, through participation, oversight, accountability, and timeliness, within principle constraints and the Rights Floor**. How demanding those duties become scales with **material stake**: impact, dependence, and risk. The [Preamble’s model](../core_00_preamble.md#the-model) supplies this organizing idea; its [owner register](../core_00_preamble.md#4-principles-definitions-and-rights) identifies where the different parts live.
 
@@ -37,7 +37,7 @@ Three boundaries prevent common misunderstandings:
 
 - **Authorization and participation:** authorization asks who may govern and on what terms; participation gives affected sentients voice inside systems that are already authorized; neither substitutes for the other.
 - **Separate standing tracks:** contribution and violation are measured separately; good conduct does not cancel verified harm.
-- **Source and adoption:** numbered `core_*` files are the binding source; incorporated adopted implementation text implements that source only within valid scope; reading or publishing the instrument is not adoption.
+- **Source and adoption:** numbered `core_*` files are the binding source; incorporated adopted implementation text implements that source only within valid scope; reading or publishing the Constitution is not adoption.
 
 Measurement turns those ideas into practical questions:
 
@@ -89,7 +89,7 @@ Read this as a relationship between **direction, protection, and precision**. Pr
 
 The **two aims** say what shared systems are for. The **Constitutional Tetrad** states the four duties through which their pursuit remains legitimate. **Chapter One’s principles and Chapter Six’s rights** constrain the choices available along the way. A claimed improvement in outcomes therefore has to be examined together with how it was obtained and what protections remain available.
 
-This explains why the instrument contains both aspirations and detailed safeguards:
+This explains why the Constitution contains both aspirations and detailed safeguards:
 
 - **Participation** connects decisions to affected sentients.
 - **Oversight** makes claims checkable.
@@ -505,12 +505,12 @@ flowchart TB
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
-Chapters Two through Five give the rest of the instrument a shared language that can be tested against actual system behavior. Their jobs fit together:
+Chapters Two through Five give the rest of this Constitution a shared language that can be tested against actual system behavior. Their jobs fit together:
 
 - [Chapter Two](../core_02_definition_structure.md#1-purpose-and-role) connects what a term covers, how it is measured and assessed, and what must hold in practice—the **O/M/A/C** structure.
 - [Chapter Three](../core_03_definition_integrity.md) guards that structure against evasion and changes of scope that make apparent compliance diverge from real behavior.
 - [Chapter Four](../core_04_burden_traceability_verification.md) connects compliance claims to proof, traceability, observability, and accessible verification.
-- [Chapter Five](../core_05__definitions_home.md) houses the canonical vocabulary used throughout the instrument.
+- [Chapter Five](../core_05__definitions_home.md) houses the canonical vocabulary used throughout this Constitution.
 
 These chapters explain how an aspiration such as trustworthy governance becomes a claim someone can examine and challenge. The later processes use this machinery when they certify a system or establish a standing record.
 
@@ -1051,13 +1051,13 @@ flowchart TB
     style I fill:none,stroke:#16a34a,color:#ffffff
 ```
 
-The upper loop concerns **governing authority and its continuing accountability**. The change-and-adoption path concerns **the instrument and its incorporated implementation**. Both operate within the principles and Rights Floor shown in the first view. Participation within a system does not itself authorize that system's governing authority.
+The upper loop concerns **governing authority and its continuing accountability**. The change-and-adoption path concerns **the Constitution and its incorporated implementation**. Both operate within the principles and Rights Floor shown in the first view. Participation within a system does not itself authorize that system's governing authority.
 
 There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Fourteen](../core_14_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](../core_00_preamble.md#33-governance-layers) explain the distinction.
 
 Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Twelve anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Fourteen §4.1](../core_14_governance.md#41-entitlement-and-eligibility), [Chapter Eleven §§4.2 and 5.4](../core_11_standing_integration.md#42-prevention--general-standing-locks), and [Chapter Twelve §4.2](../core_12_a_misconduct_designation.md#42-prevention--anti-constitutional-locks).
 
-The final chapters preserve the instrument as it changes and is put into use:
+The final chapters preserve the Constitution as it changes and is put into use:
 
 - [Chapter Fifteen](../core_15_non_regression.md) guards against substantive regression.
 - [Chapter Sixteen](../core_16_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
@@ -1107,7 +1107,7 @@ This is a reading discipline, not a new precedence rule:
 
 - Identify the operative edition, custody chain, and source status.
 - Identify the substantive owner, then use Chapter Five for canonical term meaning.
-- Read the numbered Constitution as one integrated instrument, preserving its principles, Rights Floor, non-regression, and no-bypass constraints.
+- Read the numbered Constitution as one integrated text, preserving its principles, Rights Floor, non-regression, and no-bypass constraints.
 - Apply incorporated implementation only within its adopted scope. Use indexes and support pages to locate the source; they do not create duties.
 - Use Internal Hierarchy only after ordinary integrated reading has been exhausted and a genuine residual incompatibility remains inside the binding constitutional source. For that residual conflict, principles control over articles, and articles control over definitions read as independent substantive glosses. Canonical Chapter Five definitions still govern term meaning at every layer; the hierarchy does not resolve mere disagreement over that meaning. These are the last-resort rules in [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy), not a shortcut around integrated reading or Rights-Floor protections.
 

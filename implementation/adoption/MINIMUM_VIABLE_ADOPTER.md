@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument*); [CS-3 Part B](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications) (*impact Class A–P*); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-9.1](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-91-formation-proportionality) (*formation proportionality*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*required functional lanes*); [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Eleven §9.2](../../core_11_standing_integration.md#92-remedy-parity-funding-floor) (*remedy-parity funding floor*); [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*forum families*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)).
+- Upstream: [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document*); [CS-3 Part B](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications) (*impact Class A–P*); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-9.1](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-91-formation-proportionality) (*formation proportionality*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*required functional lanes*); [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Eleven §9.2](../../core_11_standing_integration.md#92-remedy-parity-funding-floor) (*remedy-parity funding floor*); [Chapter Thirteen](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*forum families*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-how-to-read-n-and-class-x); [§2](#2-binding-floors-that-drive-cost); [§3](#3-modes-and-tracks); [§4](#4-order-of-work); [§5](#5-body-inventory); [§6](#6-profiles); [§7](#7-the-forty-person-lab).
-- Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; §6.4 no partial-pack ladder); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) (*phased migration after a recorded instrument*).
+- Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; §6.4 no partial-pack ladder); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) (*phased migration after a recorded adoption document*).
 
 </details>
 
@@ -47,7 +47,7 @@ This page, the profiles, and the cost figures **cannot narrow core text**. A fil
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** a founding kit, an instrument fill-in, a Chapter Five Institutional Charter, a CF-3.2 map, or [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). It is **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4). Modular use remains an operations guide. “Smallest viable” here means *honest about cost*, not *a thinner pack that still counts as adoption*.
+This page is **not** a founding kit, an adoption document fill-in, a Chapter Five Institutional Charter, a CF-3.2 map, or [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). It is **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4). Modular use remains an operations guide. “Smallest viable” here means *honest about cost*, not *a thinner pack that still counts as adoption*.
 
 This page does **not**:
 
@@ -113,30 +113,30 @@ Highest applicable class governs ([CS-3 Part A §2.2](../../corpus_systems/cs_03
 <a id="3-modes-and-tracks"></a>
 ## 3. Modes and tracks
 
-*In plain terms: most near-term use is an operations guide. A Chapter Five Institutional Charter is cheaper than a Chapter Seventeen instrument. Live forum families wait on that instrument. Do not merge those jobs.*
+*In plain terms: most near-term use is an operations guide. A Chapter Five Institutional Charter is cheaper than a Chapter Seventeen adoption document. Live forum families wait on that adoption document. Do not merge those jobs.*
 
 Two **modes** are already named in [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §3.1 and [FIT_SITUATIONS.md §2](FIT_SITUATIONS.md#2-two-modes). This page does not add a third.
 
 | Mode | What it is | When “adoption” language is honest |
 |---|---|---|
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) |
-| **Full adoption** | A qualifying body records a Chapter Seventeen instrument, with Chapter Eighteen custody, then [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) migration | Only after that instrument exists in **that body’s** custody |
+| **Full adoption** | A qualifying body records a Chapter Seventeen adoption document, with Chapter Eighteen custody, then [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) migration | Only after that adoption document exists in **that body’s** custody |
 
 Two **institution tracks** live in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Two **forum tracks** live in [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Do not merge them.
 
 | Track | Kit | What you are founding or naming | When it can go live |
 |---|---|---|---|
-| **Institution A** | Institution kit | Ordinary cooperative, research body, commons, or commercial form with a published [Chapter Five Institutional Charter](../../core_05_band_continuity.md#institutional-charter) | A body can bind the named scope and passes the institution-kit cliffs. A Chapter Seventeen instrument is **not** required |
-| **Institution B** | Same kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) | Oversight, contest-route admin, standing-record admin, amendment admin, certification steward | After a recorded §10.1–§10.2 instrument |
-| **Forum A** | Forum kit | A published backup, external reviewer, or existing adjudicative body the cooperating crew does **not** solely staff | Named on an instrument, or used as operations-guide backup. **Not** a Chapter Thirteen forum family |
-| **Forum B** | Same kit | The six Chapter Thirteen families as a published CF-3 structure | After a recorded instrument. Drafting the map before an instrument is scaffolding only |
+| **Institution A** | Institution kit | Ordinary cooperative, research body, commons, or commercial form with a published [Chapter Five Institutional Charter](../../core_05_band_continuity.md#institutional-charter) | A body can bind the named scope and passes the institution-kit cliffs. A Chapter Seventeen adoption document is **not** required |
+| **Institution B** | Same kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) | Oversight, contest-route admin, standing-record admin, amendment admin, certification steward | After a recorded §10.1–§10.2 adoption document |
+| **Forum A** | Forum kit | A published backup, external reviewer, or existing adjudicative body the cooperating crew does **not** solely staff | Named on an adoption document, or used as operations-guide backup. **Not** a Chapter Thirteen forum family |
+| **Forum B** | Same kit | The six Chapter Thirteen families as a published CF-3 structure | After a recorded adoption document. Drafting the map before an adoption document is scaffolding only |
 
 ---
 
 <a id="4-order-of-work"></a>
 ## 4. Order of work
 
-*In plain terms: fitness and own-conduct first. Institutional Charter before constitutional-function machinery. Named independent review before an instrument. Live forum families after the instrument. CS-10 last.*
+*In plain terms: fitness and own-conduct first. Institutional Charter before constitutional-function machinery. Named independent review before an adoption document. Live forum families after the adoption document. CS-10 last.*
 
 Do not skip a row because it is expensive. Skipping a row and still claiming the later row is the failure this page exists to name.
 
@@ -153,8 +153,8 @@ Do not skip a row because it is expensive. Skipping a row and still claiming the
         ↓ yes
 4. Institution Track A Institutional Charter (ordinary body), if you are founding one
         ↓
-5. Chapter Seventeen §10.1–§10.2 instrument in that body's custody
-   (Forum Track A naming goes on the instrument)
+5. Chapter Seventeen §10.1–§10.2 adoption document in that body's custody
+   (Forum Track A naming goes on the adoption document)
         ↓
 6. Institution Track B functions (oversight, standing-record admin,
    amendment admin, certification steward) — same institution kit
@@ -165,7 +165,7 @@ Do not skip a row because it is expensive. Skipping a row and still claiming the
 8. CF-4 panels · CF-5 intake · CF-16 staffing · CF-12–14 continuity
    CI-27 remedy capacity at Chapter Eleven §9.2 parity
         ↓
-9. CS-10 for systems under that instrument
+9. CS-10 for systems under that adoption document
 ```
 
 First adopters use §10.1–§10.2. There are no published existing-adopter joining rules yet.
@@ -185,7 +185,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 
 **Start only when all four hold.**
 
-1. Steps 5 to 8 above are live: instrument recorded, certification steward function named, forum families mapped and staffed.
+1. Steps 5 to 8 above are live: adoption document recorded, certification steward function named, forum families mapped and staffed.
 2. At least one certification cycle has used component findings under CS-3 §7.10, with decoupling verified on the record at least once.
 3. Chapter Five defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this recognition has a name that is neither "system alignment certification" nor the forum-to-forum sense in [Chapter Thirteen §5](../../core_13_forum.md#5-escalation-and-certification).
 4. The four seats of [Chapter Eight](../../core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) are filled, so the owner of a standard is never its recognizer or the hearer of challenges to it.
@@ -234,7 +234,7 @@ Companion files bind **when incorporated** under Chapter Eighteen, and **only wi
 
 | Family | Operations-guide | Institution Track A | Full adoption (Forum Track B) |
 |---|---|---|---|
-| **Sentient** | Not founded. Name Forum Track A independent review if you will later record an instrument | Same: name, do not found | **Required** — distinct family |
+| **Sentient** | Not founded. Name Forum Track A independent review if you will later record an adoption document | Same: name, do not found | **Required** — distinct family |
 | **Technical Forum Domains** | Not founded | Not founded | **Required** — distinct family |
 | **Institutional** | Not founded | Not founded | **Required** — distinct family |
 | **Environment** | Not founded | Not founded | **Required** — distinct family |
@@ -252,7 +252,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 |---|---|---|---|
 | **Formation and integrity** | **CI-1**, **CI-3**, **CI-4**, **CI-5**, **CI-6**, **CI-8**, **CI-9**, **CI-11** | Institution Track A or B (any live Chapter Five Institutional Charter) | Operations-guide: read, do not staff |
 | **Oversight and coordination** | **CI-7**, **CI-12** | Institution Track B; **CI-7.3** contest-integrity monitoring for Class A/B supervised scope | Track A without Track B functions |
-| **Failure and transition** | **CI-13**, **CI-14** | **CI-13** whenever a live institution can fail; **CI-14** when transitioning under an instrument | No live institution |
+| **Failure and transition** | **CI-13**, **CI-14** | **CI-13** whenever a live institution can fail; **CI-14** when transitioning under an adoption document | No live institution |
 | **Remedy** | **CI-27** | Full adoption that administers locks, standing integration, or redress — at [§9.2](../../core_11_standing_integration.md#92-remedy-parity-funding-floor) parity | Operations-guide and Track A: do not stand up lock machinery you cannot fund remedy for |
 | **Revenue** | **CI-10** | If the body charges fees, subscriptions, or similar | No such charges |
 | **Registry** | **CI-26** | When the body must publish a compliance map | Operations-guide |
@@ -279,7 +279,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 |---|---|
 | **CS-3** classification | Always, if you claim a class. Honesty about Class *X* is a prerequisite for every profile below |
 | **CS-4** critical-system stewardship | Class A/B (and Class C where gated) |
-| **CS-10** migration | **After** a recorded instrument, not before |
+| **CS-10** migration | **After** a recorded adoption document, not before |
 
 ---
 
@@ -307,7 +307,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Honest claim** | “We use stacks as an operations guide.” Not “we adopted” |
 | **Does not fit** | Standing up lock machinery, a merits bench, or CI-7 oversight from the same crew |
 
-### 6.2 Profile 2 — Track A institution (Institutional Charter, no instrument)
+### 6.2 Profile 2 — Track A institution (Institutional Charter, no adoption document)
 
 | | |
 |---|---|
@@ -322,22 +322,22 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Honest claim** | “We published a Chapter Five Institutional Charter for this body.” Not “we adopted the Constitution.” Not “we are the oversight body for others” |
 | **Does not fit** | Certification-steward or CI-7 oversight of non-consenters. Six live forum families |
 
-### 6.3 Profile 3 — Instrument plus hosted families
+### 6.3 Profile 3 — Adoption document plus hosted families
 
 | | |
 |---|---|
 | **Typical *N*** | 40–200 (in-house) plus **named external** adjudicative capacity |
 | **Typical class** | **L** or **C**. **B** only if the hosted bodies can actually hear Class B stakes |
 | **Mode** | Full adoption |
-| **Required bodies** | Recorded §10.1–§10.2 instrument. Forum Track A naming on that instrument. CF-3.2 map that gives operational effect to **all six** families, mapped onto existing independent bodies. Institution Track B functions at class-scaled depth. **CI-27** remedy capacity at §9.2 parity. CS-3 (and CS-4 if Class B) |
+| **Required bodies** | Recorded §10.1–§10.2 adoption document. Forum Track A naming on that adoption document. CF-3.2 map that gives operational effect to **all six** families, mapped onto existing independent bodies. Institution Track B functions at class-scaled depth. **CI-27** remedy capacity at §9.2 parity. CS-3 (and CS-4 if Class B) |
 | **Optional** | In-house specialist CF-8/9/10 if caseload needs them; otherwise contracted through the hosted bodies. Domain CI-15–CI-25 |
 | **Order** | Steps 1–9, with step 7 as **hosted/mapped**, not in-house benches |
-| **Staff** | 8–25 FTE in-house (instrument custody, Track B functions, remedy file, classification, CS-10) **plus** contracted or statutory hosted-forum capacity that is not the founding crew |
+| **Staff** | 8–25 FTE in-house (adoption document custody, Track B functions, remedy file, classification, CS-10) **plus** contracted or statutory hosted-forum capacity that is not the founding crew |
 | **Funding** | Order 10⁶–10⁷ currency-units / year in-house, plus whatever the hosted bodies cost, with remedy ≥ lock spend per class |
 | **Honest claim** | “This body adopted, for these systems, and these named independent bodies do the family work.” The map must be usable by a filer |
 | **Does not fit** | Mapping all six families onto the same founding crew. Class A survival-critical systems with only hosted, untested capacity. A forty-person lab that also tries to staff Track B and remedy from the same forty |
 
-### 6.4 Profile 4 — Instrument plus in-house six families
+### 6.4 Profile 4 — Adoption document plus in-house six families
 
 | | |
 |---|---|
@@ -377,7 +377,7 @@ Worked row, because this is the case the backlog named.
 3. Use steward doors and CS-4 §10 logs as operations-guide ([`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md)).
 4. If they can bind a named research or commons scope, publish a Chapter Five Institutional Charter (Institution Track A).
 5. Name independent review they do not staff (Forum Track A).
-6. If a qualifying body later records an instrument, take Profile 3 (hosted families) only when those hosted bodies are real. Do not skip to Profile 4.
+6. If a qualifying body later records an adoption document, take Profile 3 (hosted families) only when those hosted bodies are real. Do not skip to Profile 4.
 
 ---
 
@@ -393,7 +393,7 @@ Use this as a lookup, not as a new mode.
 | Forty-person lab, widely depended-on model | **C** or **B** (do not self-downgrade) | Profile 1 until hosted capacity exists; not Profile 4 | Overlay only; no in-house families |
 | Cooperative or commons, ~80 sentients | **L** / **C** | Profile 2 + **CI-22**. [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A | 2–8 FTE overlay |
 | Joint evaluation consortium, three labs | **C** / **B** for the shared cluster | Profile 2 for the consortium body; Forum Track A external panel. [FIT_SITUATIONS §4.1](FIT_SITUATIONS.md#41-ai-institution-building--top-of-the-list) | Overlay plus paid panel |
-| City or hospital deploying a triage model | **B** (often) | Profile 1 until an instrument; then Profile 3 with existing public adjudicative bodies mapped | Do not found six families from clinical staff |
+| City or hospital deploying a triage model | **B** (often) | Profile 1 until an adoption document; then Profile 3 with existing public adjudicative bodies mapped | Do not found six families from clinical staff |
 | Polity or large operator | **A** / **B** | Profile 4 (or 3+4 mixed) | 80–200+ FTE; 10⁷–10⁸ / year |
 
 ---
@@ -403,8 +403,8 @@ Use this as a lookup, not as a new mode.
 
 | Material | Job relative to this page |
 |---|---|
-| [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
-| [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md) | Where the instrument is a practical fit. This page sizes what that fit costs |
+| [`README.md`](README.md) | This folder’s door — process path toward an adoption document, not the adoption document |
+| [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md) | Where this Constitution is a practical fit. This page sizes what that fit costs |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, non-adoption banner |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Track A / Track B, formation cliffs, labeled-not-live Chapter Five Institutional Charter fill-in |
@@ -426,4 +426,4 @@ Use this as a lookup, not as a new mode.
 | Date | Version | Note |
 |---|---|---|
 | 2026-09-09 | v0.1 | Initial process-support profile: *N* × Class *X*, required vs optional bodies, order of work, order-of-magnitude staff and funding. Names that the full companion stack is not standable by a forty-person lab as written. Not adoption. Not a partial-pack ladder. Does not drop **pre-release**. |
-| 2026-10-04 | v0.2 | §4.1 outlines reusable standard-process recognition as the first operating goal after the instrument and forum families are live. Outline only; needs a core proposal. Does not drop **pre-release** or add a step to the order of work. |
+| 2026-10-04 | v0.2 | §4.1 outlines reusable standard-process recognition as the first operating goal after the adoption document and forum families are live. Outline only; needs a core proposal. Does not drop **pre-release** or add a step to the order of work. |

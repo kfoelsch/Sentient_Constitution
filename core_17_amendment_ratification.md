@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seventeen**: amendment, ratification, and procedural validity (Tests 2–4). **Chapter Fifteen** is in [`core_15_non_regression.md`](core_15_non_regression.md). **Chapter Sixteen** is in [`core_16_expansion_supremacy.md`](core_16_expansion_supremacy.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Seventeen**: amendment, ratification, and procedural validity (Tests 2–4). **Chapter Fifteen** is in [`core_15_non_regression.md`](core_15_non_regression.md). **Chapter Sixteen** is in [`core_16_expansion_supremacy.md`](core_16_expansion_supremacy.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -12,7 +12,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Seventeen lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** amendment and adoption procedure; procedural and custody validity tests (Tests 2–4); review triggers; provisional effect; invalid-change handling; ratification instruments; amendment procedure requirements.
+> - **Constitutional owner:** amendment and adoption procedure; procedural and custody validity tests (Tests 2–4); review triggers; provisional effect; invalid-change handling; ratification documents; amendment procedure requirements.
 > - **Substantive non-regression:** **Chapter Fifteen**. **Supremacy** and **external legal orders:** **Chapter Sixteen**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
@@ -24,14 +24,14 @@
 
 - Upstream: [Chapter Fifteen](core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) Test 1 and non-regression; [Chapter Sixteen](core_16_expansion_supremacy.md#chapter-sixteen-expansion-supremacy-and-external-legal-orders) supremacy and external-order interface; [Chapter Fourteen](core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy context for collective change.
 - Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and layer scope).
-- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Corpus and Authority Stack](core_05_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
+- Downstream: Adoption documents and edition custody tie to [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Corpus and Authority Stack](core_05_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Chapters Two through Four](core_02_definition_structure.md) publication, burden, and traceability requirements invoked in Test 2 and §11.
 
 </details>
 
 <br>
 
-Chapter Seventeen is the constitutional owner of **procedural and custody validity** for amendment and adoption (Tests 2 through 4), review triggers, provisional effect, invalid-change handling, ratification instruments, and amendment procedure requirements.
+Chapter Seventeen is the constitutional owner of **procedural and custody validity** for amendment and adoption (Tests 2 through 4), review triggers, provisional effect, invalid-change handling, ratification documents, and amendment procedure requirements.
 
 <br>
 
@@ -110,7 +110,7 @@ A proposed amendment is invalid unless required publication elements are satisfi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-test-2--procedural-validity-and-publication-integrity) Test 2 publication integrity.
-- Downstream: [§10](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) consistency requirements.
+- Downstream: [§10](#10-ratification-and-adoption) documents and custody expectations; [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) consistency requirements.
 - Read with: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus and Authority Stack](core_05_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster).
 
 </details>
@@ -119,7 +119,7 @@ A proposed amendment is invalid unless required publication elements are satisfi
 
 *In plain terms: Test 3 is the chain-of-custody test — if nobody can tell which text is authoritative, who approved it, or when it took effect, the amendment does not constitutionally exist as binding.*
 
-A proposed amendment is invalid where the instrument of adoption, edition identifier, effective date, or custodian chain is missing, contradictory, or materially unreliable. Reliability is measured relative to **section 10** of this chapter (*Ratification and Adoption*) and **Corpus** custody controls.
+A proposed amendment is invalid where the adoption document, edition identifier, effective date, or custodian chain is missing, contradictory, or materially unreliable. Reliability is measured relative to **section 10** of this chapter (*Ratification and Adoption*) and **Corpus** custody controls.
 
 <a id="6-test-4--contestability-and-independent-review-validity"></a>
 ### 6. Test 4 — Contestability and Independent Review Validity
@@ -219,7 +219,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§10](#10-ratification-and-adoption) ratification frame.
-- Downstream: [§10.2](#102-instrument-of-adoption) instrument requirements; [§10.3](#103-joining-by-additional-parties) joining rules.
+- Downstream: [§10.2](#102-adoption-document) document requirements; [§10.3](#103-joining-by-additional-parties) joining rules.
 - Read with: [Chapter Fourteen §1](core_14_governance.md#1-authorization-and-legitimacy-of-governing-authority) documented legitimacy mechanism alongside deliberate adoption; [Chapter Eighteen §4](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt* — a steward bound by valid adoption is not themselves a qualifying adopter).
 
 </details>
@@ -230,16 +230,16 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 
 This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
 
-A steward is bound when a qualifying adopter records a valid instrument under this section and [Chapter Eighteen §4](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority); listing a steward as a party bound by adoption does not make that steward themselves a qualifying adopter.
+A steward is bound when a qualifying adopter records a valid adoption document under this section and [Chapter Eighteen §4](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority); listing a steward as a party bound by adoption does not make that steward themselves a qualifying adopter.
 
-When the adopter is a jurisdiction or polity, the recorded mechanism must include a published affected-sentient participation check — contested election, sortition, federated ratification, or another [Chapter Fourteen §1.2 Eligibility, contested selection, and democratic minimums](core_14_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path. Silent board resolution, undisclosed executive instrument, or "we kind of follow it" practice is not enough for a polity to claim constitutional adoption. Organizations, system operators, and system-developer consortia remain able to adopt through the existing deliberate, documented, and auditable path without that polity participation check.
+When the adopter is a jurisdiction or polity, the recorded mechanism must include a published affected-sentient participation check — contested election, sortition, federated ratification, or another [Chapter Fourteen §1.2 Eligibility, contested selection, and democratic minimums](core_14_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path. Silent board resolution, undisclosed executive document, or "we kind of follow it" practice is not enough for a polity to claim constitutional adoption. Organizations, system operators, and system-developer consortia remain able to adopt through the existing deliberate, documented, and auditable path without that polity participation check.
 
-#### 10.2 Instrument of Adoption
+#### 10.2 Adoption Document
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§10.1](#101-deliberate-adoption) deliberate adoption requirement.
-- Downstream: [§5](#5-test-3--authority-chain-and-custody-validity) Test 3 chain checks against instrument contents.
+- Downstream: [§5](#5-test-3--authority-chain-and-custody-validity) Test 3 chain checks against document contents.
 - Read with: [README.md](README.md) and [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) (authoritative corpus and edition identifier expectations).
 
 </details>
@@ -248,18 +248,18 @@ When the adopter is a jurisdiction or polity, the recorded mechanism must includ
 
 *In plain terms: keep a clear paper trail — who adopted, what scope, when it starts, who holds the master copy of the corpus — so nobody can launder authority through ambiguous version drift.*
 
-Adopters must maintain an identifiable instrument of adoption. Examples include **joining** by additional parties (with recorded assent), treaty or compact ratification, corporate or intergovernmental resolution, federated registry entry, or equivalent. The instrument must state the adopting entity, scope of adoption, and effective date. It must:
+Adopters must maintain an identifiable adoption document. Examples include **joining** by additional parties (with recorded assent), treaty or compact ratification, corporate or intergovernmental resolution, federated registry entry, or equivalent. The adoption document must state the adopting entity, scope of adoption, and effective date. It must:
 
 - identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
 - be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
 - be consistent with **Corpus** in Chapter Five ([core_05__definitions_home.md](core_05_band_integrative.md#corpus)).
-- where [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the instrument or in incorporated implementation it pins — not a core-chosen numeric target.
+- where [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the adoption document or in incorporated implementation it pins — not a core-chosen numeric target.
 
 #### 10.3 Joining by additional parties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§10.2](#102-instrument-of-adoption) instrument pattern including joining.
+- Upstream: [§10.2](#102-adoption-document) document pattern including joining.
 - Downstream: [§11.2](#112-recorded-effectiveness) undisclosed or bypassed procedure as invalidating.
 - Read with: [Article XII-B: Weighted Participation and Anti-Token Constraints](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) where participation weight applies per operative cross-reference.
 
@@ -275,7 +275,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](#4-test-2--procedural-validity-and-publication-integrity) Test 2; [§10](#10-ratification-and-adoption) adoption instruments.
+- Upstream: [§4](#4-test-2--procedural-validity-and-publication-integrity) Test 2; [§10](#10-ratification-and-adoption) adoption documents.
 - Subsections: [§11.1](#111-notice-and-contest); [§11.2](#112-recorded-effectiveness).
 - Downstream: [§12](#12-layer-scope) procedural-layer discipline restatement.
 - Read with: [Article XII-A: Stakeholder System Participation and Representation](core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) where cited for materially high-impact change record (operative cross-reference governs scope).

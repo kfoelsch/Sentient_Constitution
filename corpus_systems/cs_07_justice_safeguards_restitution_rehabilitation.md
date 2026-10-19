@@ -146,7 +146,7 @@ Those execution pathways must preserve constitutional enforceability across juri
 
 **Remedy financing and pools:** Where **ordered restitution, compensation, or systemic remediation** spans boundaries or claimants, **implementing bodies** must document funding sources and sustainability.
 
-Documentation must cover pooled arrangements, escrow/holdback, and insurance or indemnity instruments where lawful. It must also cover periodic replenishment and ensure execution does not stall for lack of deployable capacity.
+Documentation must cover pooled arrangements, escrow/holdback, and insurance or indemnity arrangements where lawful. It must also cover periodic replenishment and ensure execution does not stall for lack of deployable capacity.
 
 See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and **CS-9** (*Resource allocation and funding stewardship*).
 

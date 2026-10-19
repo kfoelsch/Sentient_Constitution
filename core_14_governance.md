@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Fourteen**, the **Constitutional Contract Layer** — constitutional legitimacy and stewardship requirements for governing authority, distinct from **Stakeholder System Participation** in already-authorized systems ([Preamble](core_00_preamble.md#preamble--foundational-requirements)). Amendment and adoption validity controls continue in [Chapters Fifteen through Seventeen](core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Fourteen**, the **Constitutional Contract Layer** — constitutional legitimacy and stewardship requirements for governing authority, distinct from **Stakeholder System Participation** in already-authorized systems ([Preamble](core_00_preamble.md#preamble--foundational-requirements)). Amendment and adoption validity controls continue in [Chapters Fifteen through Seventeen](core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -229,7 +229,7 @@ Recognized mechanism families include:
   - **Rights-Floor** threat addressed through **Chapter Six** and adopted implementation procedure.
   Escalating tiers keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](core_05_band_participation.md#substantive-fairness), [**Necessity**](core_05_band_accountability.md#necessity), and [**Proportionality**](core_05_band_accountability.md#proportionality) under **Chapter One** and **Chapters Two through Five**.
 - **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Six** requirements (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **corpus_institutions.md** **CI-4** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
-- **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and **[corpus_systems.md](corpus_systems.md)** classification so recall-class instruments cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XX-A** (*Justice Objective and Scope*).
+- **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and **[corpus_systems.md](corpus_systems.md)** classification so recall-class mechanisms cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XX-A** (*Justice Objective and Scope*).
 - **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gate and **§2** (*Ethical Culture and Integrity (Federated Scale)*) requirements where applicable.
 
 ### 2. Ethical Culture and Integrity (Federated Scale)
@@ -318,7 +318,7 @@ Proxy indicators (financial or otherwise) may inform decisions only where they r
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority) documented legitimacy mechanism; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) stewardship alignment for collective decisions.
-- Downstream: Subsections [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-stakeholder-choice); instruments of adoption, supremacy, and non-regression in [Chapters Fifteen through Seventeen](core_15_non_regression.md) as summarized in the **Cross-reference (Chapter Fourteen)** note at the end of this section.
+- Downstream: Subsections [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-stakeholder-choice); adoption documents, supremacy, and non-regression in [Chapters Fifteen through Seventeen](core_15_non_regression.md) as summarized in the **Cross-reference (Chapter Fourteen)** note at the end of this section.
 - Read with: [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights), especially [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) and related subarticles cited in §4.
 
 </details>
@@ -456,7 +456,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 **Cross-reference (section 4):** Subsections **4.1–4.2** state voting requirements together with **Chapter Six**, **Article X-B** (*Governance Participation and Voting Entitlement*). Adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
 
-**Cross-reference (Chapter Fourteen):** Instruments of **constitutional adoption** and amendment validity appear in **Chapter Eighteen**. **Supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Sixteen**. **Non-regression** substantive limits appear in **Chapter Fifteen**.
+**Cross-reference (Chapter Fourteen):** Documents of **constitutional adoption** and amendment validity appear in **Chapter Eighteen**. **Supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Sixteen**. **Non-regression** substantive limits appear in **Chapter Fifteen**.
 
 ### 5. Authorized Roles, Competency Development, and Contribution
 <details>

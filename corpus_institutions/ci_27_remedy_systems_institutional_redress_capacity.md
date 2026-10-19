@@ -89,7 +89,7 @@ The following domains, and comparable high-impact systems, require durable remed
 - benefits administration;
 - detention oversight;
 - public-health response; and
-- other rights-sensitive administrative systems named by adopting instruments.
+- other rights-sensitive administrative systems named by adopting documents.
 
 Domain-specific operational detail may live in other **CI** families (**CI-15** (*Neurodiversity, disability justice, and trauma-informed participation*) through **CI-23** (*Place-based stewardship, Indigenous continuity, and consultation routes*), **CI-18** (*Collective public health, epidemic response, and addiction-informed care*), and cognates). **CI-27** (*Remedy systems and institutional redress capacity*) states the shared capacity floor those domains must meet.
 

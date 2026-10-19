@@ -175,7 +175,7 @@ Guides **G01–G05** are for a first-time reader who is **affected** by a system
 | [`../../../README.md`](../../../README.md) | Public door |
 | [`../../../START_HERE.md`](../../../START_HERE.md) | Start page for organizations thinking of using or taking on this Constitution |
 | [`SCALE_NOTES.md`](SCALE_NOTES.md) | Headline figures: sources, why they are approximate, what was not invented |
-| [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md) | Where this instrument would actually fit (operators and founding bodies) |
+| [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md) | Where this Constitution would actually fit (operators and founding bodies) |
 | [`../ANNOUNCEMENT.md`](../ANNOUNCEMENT.md) | Say / do-not-say for public notes |
 | [`../../../evaluation/lived_situations/`](../../../evaluation/lived_situations/) | Floor-reach sitting; matching packets are listed on briefs as operators-only. **Separate sitting.** |
 | [G01](G01_challenge_review_redress.md)–[G05](G05_crisis_vs_forever.md) | Process guides for an affected reader |

@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Four**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Four**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
 >
 > **Upstream:** [Chapters Two and Three — Definition mechanics](core_02_definition_structure.md); Chapter Five definitions.
 > **Downstream:** [Chapter Nine — System Alignment Certification](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chapter Ten — Contribution, Violation, and Standing Model](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
