@@ -71,3 +71,17 @@ Translations are not synced (paused).
 - **7 (option A).** The repeat-request clarification in Chapter Seven §1.6 confirmed as written.
 
 Chapter Seventeen §1 heightened review stays open in TODO.md. Translations are not synced (paused).
+
+## 2026-10-18 — Time windows, sitting 2: core wording signed off by the steward 2026-10-19
+
+All recommendations confirmed.
+
+- **1 (A).** Chapter Thirteen §6 outer bounds of 7 / 14 / 30 / 60 / 90 days (Tiers C, L, P were 28 / 56 / 84), with the restore-challenge windows and Interim Hold lapse dates that follow them.
+- **2 (A).** Level 3 (Heavy) stays: Tier A up to 30 days and Tier B up to 60 on a renewed Continuation discipline showing.
+- **3 (A).** The prompt-review window stays at the intake-target figures (24 hours, 2, 4, 8, 12 days), with no cap for Tiers L and P.
+- **4 (A).** The Emergency level (Tier A only, protective steps within 3 days) and the calendar certification intervals, audit midpoint and audit advance allowance, as written.
+- **5 (A).** Article II-E deletion: a disclosed period, no later than 14 days, whatever class.
+- **6 (B).** Article XVIII-C, CS-5 and CS-9: the transition deadline is the outer bound of the Tier that matches the system's class (7, 14, 30, 60, 90 days), or 14 days where no class is held. CS-4 (Class C recovery) and CS-3 (Class L intervention) stay at 14 days. CJS-0.4 updated.
+- **7 (B).** Chapter One §16.4: the Avoidable Burden defect applies "where capture was feasible and was not built".
+
+Chapter Seventeen §1 heightened review stays open in TODO.md. Translations are not synced (paused).

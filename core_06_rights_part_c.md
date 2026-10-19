@@ -1411,7 +1411,7 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 
 <br>
 
-*In plain terms: once a sandbox system starts mattering in the real world, it must graduate to real-world obligations within 14 days, the Tier B outer bound, not at the operator's convenience.*
+*In plain terms: once a sandbox system starts mattering in the real world, it must graduate to real-world obligations within the outer bound of the tier that matches the system's class, from 7 days to 90, not at the operator's convenience.*
 
 This Article sets out when a sandboxed system moves to higher obligations:
 
@@ -1419,7 +1419,7 @@ This Article sets out when a sandboxed system moves to higher obligations:
   - The transition must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5.7** (*Non-experimental systems*).
   - Interim safeguards proportionate to current risk apply during transition.
   - Sandbox treatment may not continue for functions whose real-world effects materially exceed sandbox conditions.
-  - The transition must be completed within **14 days**, the Tier B outer bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the system holds.
+  - The transition must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), or **14 days**, the Tier B outer bound, where the system holds no class ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
 #### Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
