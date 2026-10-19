@@ -356,7 +356,7 @@
       "category": "ch5",
       "run": "never",
       "writes": true,
-      "note": "advisory (always exits 0, 33 open findings); rewrites evidence/definition_audit/ledger.json on every run"
+      "note": "advisory (always exits 0, 0 open findings after the 2026-10-19 triage); rewrites evidence/definition_audit/ledger.json on every run"
     },
     "definition-appropriateness-audit-evidence": {
       "category": "ch5",

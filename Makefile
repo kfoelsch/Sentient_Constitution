@@ -685,6 +685,7 @@ evidence-prune:
 audit-report-test:
 	$(PYTHON) tools/test_audit_report.py
 	$(PYTHON) tools/test_prune_audit_evidence.py
+	$(PYTHON) tools/test_ch1_cjs3_live_map.py
 
 reference-audit-evidence:
 	$(PYTHON) tools/reference_audit.py --root . --write-evidence

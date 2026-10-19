@@ -117,11 +117,13 @@ class AlignmentAuditor:
         NAV-DAC-12: do not attach D/A/C widgets on Preamble (indexes to Chapter
         Five homes) or on Chapter One ### preview parents whose #### children
         already own the operative definitions. §3 and §6 name Safety and Truth
-        as floors; §3.1–§3.4 and §6.1–§6.3 carry the working terms.
+        as floors; §3.1–§3.4 and §6.1–§6.3 carry the working terms. §2.1 states
+        Safety and Truth as the non-negotiable constraints and sends the reader
+        to §4 and §5, which own their definitions, so it carries no widget.
         """
         if principle_id.startswith("Preamble "):
             return False
-        return principle_id not in {"3", "6"}
+        return principle_id not in {"2.1", "3", "6"}
 
     def check_completeness(self):
         """Check that principles expected to invoke Def.* have D/A/C anchors."""
