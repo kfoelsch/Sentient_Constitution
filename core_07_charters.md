@@ -315,7 +315,18 @@ Neither limit stops a new Operating Party from forming, publishing its charter, 
 
 <br>
 
-*In plain terms: a System Charter has to be specific enough to test. It says what the system is for, what it does and does not do, who relies on it, who can change it, who holds each seat, and where to find the binding decision rules. It points to those rules. It does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.*
+*In plain terms: a System Charter has to be specific enough to test. It says what the system is for, what the system does and does not do, who relies on the system, who can amend the System Charter, who holds each seat, and where to find the binding decision rules. The System Charter points to those rules and does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.*
+
+**How this section is laid out:**
+
+- [§3.1 What a System Charter states](#31-what-a-system-charter-states) lists the nine items.
+- [§3.2 Charter Pointers](#32-charter-pointers) says that a System Charter or Institutional Charter may refer to another published instrument instead of copying its text, and what makes that reference valid.
+- [§3.3 What an Institutional Charter adds](#33-what-an-institutional-charter-adds) covers what an Institutional Charter holds beyond the nine items: the System Charters of the Systems the Institution runs, and why it runs them.
+- [§3.4 Acts that need a practice licence or practice clearance](#34-acts-that-need-a-practice-licence-or-practice-clearance) says that a System Charter or Institutional Charter may claim such an act only if every sentient who performs it holds the licence or clearance, or works as a learner under a supervisor who does. Until then, the act is listed as out of scope (item 4 in [§3.1 What a System Charter states](#31-what-a-system-charter-states)).
+- [§3.5 Scaling](#35-scaling) says what changes with class.
+
+<a id="31-what-a-system-charter-states"></a>
+#### 3.1 What a System Charter states
 
 A System Charter states, in plain language that affected sentients and auditors can read:
 
@@ -327,32 +338,44 @@ A System Charter states, in plain language that affected sentients and auditors 
 6. **Classification assumptions:** the class or stewardship tier relied on, with a [Charter Pointer](core_05_band_continuity.md#charter-pointer) to **CS-3** (*System classification machinery*) and **CS-4** (*Critical system stewardship*) where they apply.
 7. **Charter Role Map:** the [Charter Role Map](core_05_band_continuity.md#charter-role-map), or a Charter Pointer to the published instrument that is the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
 8. **Binding stakeholder-choice Charter Pointers:**
-   - **When it applies:** where [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies.
-   - **What it points to:** live Charter Pointers to the published decision-sequence, weighting, and rights-collision-record rules.
-   - **Who carries what:** the System Charter points. Those rules carry the substance.
+   - **When it applies:** when a real disagreement among affected sentients requires a binding stakeholder choice inside the system. [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) calls this its admission scope.
+   - **What it points to:** live Charter Pointers to three published sets of rules: the decision sequence (how the choice is made), the weighting rules (who gets how much say), and the rights-collision-record rules (what the record must show when rights collide).
+   - **Who carries what:** the System Charter holds only the pointers. The three sets of rules hold the actual content: how the choice is made, how weight is set, and what the record shows. The System Charter does not carry that content itself, and its own text cannot be offered in place of those rules. A dead pointer, or System Charter text offered in place of the rules, fails the System Charter duty.
 9. **Amendment authority:** who may amend, what counts as a material amendment, and the notice and contest path.
 
-**Charter Pointers.** A System Charter or Institutional Charter may point to another published instrument or provision (a rule set, the Charter Role Map, a System Charter) instead of copying it. Each such reference is a [Charter Pointer](core_05_band_continuity.md#charter-pointer). It must resolve to a live, current, published instrument. A dead or stale Charter Pointer counts as a missing item.
+<a id="32-charter-pointers"></a>
+#### 3.2 Charter Pointers
 
-**What an Institutional Charter adds.** An Institutional Charter states items 1 to 9 for the Institution itself, and also holds:
+A System Charter or Institutional Charter may point to another published instrument or provision (a rule set, the Charter Role Map, a System Charter) instead of copying it. Each such reference is a [Charter Pointer](core_05_band_continuity.md#charter-pointer). It must resolve to a live, current, published instrument. A dead or stale Charter Pointer counts as a missing item.
+
+<a id="33-what-an-institutional-charter-adds"></a>
+#### 3.3 What an Institutional Charter adds
+
+An Institutional Charter states items 1 to 9 of [§3.1 What a System Charter states](#31-what-a-system-charter-states) for the Institution itself, and also holds:
 
 - **The System Charters:** Every System Charter in force for the Systems the Institution operates, stewards, or materially controls, included in full or by a Charter Pointer that resolves to the current published version.
 - **The portfolio rationale:** Why the Institution runs those particular Systems, how they serve its stated purpose and relate to one another, and which dependencies they share. A System with no stated reason is a missing item.
 
 **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) may require more and sets the formation template, but it may not drop an item above.
 
-**Acts that need a practice licence or practice clearance:**
+<a id="34-acts-that-need-a-practice-licence-or-practice-clearance"></a>
+#### 3.4 Acts that need a practice licence or practice clearance
+
+This subsection says what a System Charter or Institutional Charter may claim when an act needs a practice licence or practice clearance.
 
 - **The limit:** If an act requires a practice licence or practice clearance, a System Charter or Institutional Charter can't list it as something the Chartered Party does, and the Chartered Party can't do it, unless every sentient who performs it either holds the licence or clearance or works as a learner under a supervisor who does.
-- **Until then:** The System Charter or Institutional Charter lists the act under item 4 as out of scope.
+- **Until then:** The System Charter or Institutional Charter lists the act under item 4 ([§3.1 What a System Charter states](#31-what-a-system-charter-states)) as out of scope.
 - **If claimed without a holder:** It is a missing item to log and fix, and it does not stop the Chartered Party from forming, publishing, or carrying on its other work.
 - **Where to look:** [§2 The Right to Form, and Three Narrow Limits](#2-the-right-to-form-and-three-narrow-limits) says where the requirement comes from, and **CI-4.7** (*Practice licence, practice clearance, and joint professional practice*) holds the entries and the host check.
 
-**Scaling:**
+<a id="35-scaling"></a>
+#### 3.5 Scaling
+
+Some parts of a System Charter or Institutional Charter scale with class and some do not:
 
 - **What scales:** The depth of the System Charter or Institutional Charter, the review cadence, and the independence of the review scale with class and [material stake](core_00_preamble.md#material-stake).
-- **Class L:** A Class L one may be short and use simplified records where [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) allows. It may not omit a required item.
-- **Review cadence:** A System Charter or Institutional Charter does not declare its own review cadence: the class sets it.
+- **Class L:** A System Charter or Institutional Charter for a Class L system or institution can be short and can keep simpler records, where [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) allows. It still has to cover every required item.
+- **Review cadence:** A System Charter or Institutional Charter does not decide how often it is reviewed. The class sets that.
 
 <a id="4-the-charter-role-map-and-standing-record-custody"></a>
 ### 4. The Charter Role Map and Standing-Record Custody
