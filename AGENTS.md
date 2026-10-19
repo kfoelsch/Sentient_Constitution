@@ -24,6 +24,8 @@ python3 tools/corpus_lookup.py serve   # optional local HTTP at /v1/{command}
 
 `retrieve` is token overlap over boundary-chunk locators, then `hydrate`. Vector embeddings are postponed indefinitely ([doc_architecture.md](doc_architecture.md#retrieval-locators-no-vector-embeddings)).
 
+Checking your work: `make audit-report` runs the `make regression` targets quietly and prints one line per category, expanding only failures (about half a minute); `make audit-report-all` adds the audits outside the gate; `python3 tools/audit_report.py --root . --list` shows the categories. Prefer it to reading raw `make regression` output (**AUDIT-REGISTRY-01** in [doc_architecture.md](doc_architecture.md#audit-registry-and-report-audit-registry-01)).
+
 Spine pack (generated pointers, not duties): `doc_architecture/generated/spine_pack.md`.
 
 Patterns: `ai_corpus/AI_NAVIGATION_GUIDE.md`.

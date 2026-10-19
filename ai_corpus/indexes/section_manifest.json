@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-19T18:46:23+00:00",
+  "generated_at": "2026-10-19T19:27:52+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -2107,7 +2107,7 @@
         {"header":"CF-5.5 Institutional and local registrars","level":2,"line_start":120,"line_end":157,"anchor":"#cf-55-institutional-and-local-registrars"},
         {"header":"CF-5.6 Integrity registrar","level":2,"line_start":158,"line_end":196,"anchor":"#cf-56-integrity-registrar"},
         {"header":"CF-5.7 Backup Record Authority","level":2,"line_start":197,"line_end":233,"anchor":"#cf-57-backup-record-authority"},
-        {"header":"CF-5.8 Restricted information office","level":2,"line_start":234,"line_end":280,"anchor":null}
+        {"header":"CF-5.8 Restricted information authority","level":2,"line_start":234,"line_end":280,"anchor":null}
       ]
     },
     "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md": {

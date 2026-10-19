@@ -76,7 +76,7 @@ Each adopting entity must maintain standard templates or equivalent structured r
 - rights-collision record under **CF-6** (*Appeal, secondary review, and exhaustion pathways*);
 - disposition-effect category and class-label record under **CF-6.1** (*Disposition-effect categories and record labels*);
 - forensic or analytical support scope order under **CF-8** (*Forum forensic and analytical support*);
-- restricted-evidence review order, naming the issuing body (the restricted information office under **CF-5.8** (*Restricted information office*) or the appeal forum), the asserting party, and the time taken;
+- restricted-evidence review order, naming the issuing body (the restricted information authority under **CF-5.8** (*Restricted information authority*) or the appeal forum), the asserting party, and the time taken;
 - investigative scope, referral, or closure record under **CF-9** (*Independent investigative service and prosecution interface*) where the forum interface is used;
 - technical-standard departure, variance, or recognition record under **CF-10** (*Technical specialist forums and specialist chambers*);
 - backlog-threshold remediation record under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*);

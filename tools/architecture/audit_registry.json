@@ -1,0 +1,793 @@
+{
+  "_comment": "AUDIT-REGISTRY-01. Every audit-like make target has one entry here: its category, whether the report runs it (run: auto or never), and whether it writes files while it runs (writes: true targets are not run in parallel). Edit by hand; `make audit-registry-check` fails when a target is missing or stale.",
+  "ignored": {
+    "audit-report": "runs the other targets",
+    "audit-report-all": "runs the other targets"
+  },
+  "categories": [
+    {
+      "id": "hygiene",
+      "title": "Repo hygiene and front doors"
+    },
+    {
+      "id": "links",
+      "title": "Links, anchors and cites"
+    },
+    {
+      "id": "layout",
+      "title": "Markdown structure and layout"
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter Five definitions and measurements"
+    },
+    {
+      "id": "vocab",
+      "title": "Vocabulary and readability"
+    },
+    {
+      "id": "time",
+      "title": "Time windows"
+    },
+    {
+      "id": "alignment",
+      "title": "Cross-chapter alignment and lockstep"
+    },
+    {
+      "id": "records",
+      "title": "Scenarios and record validators"
+    },
+    {
+      "id": "generated",
+      "title": "Generated files and indexes"
+    },
+    {
+      "id": "translations",
+      "title": "Translations"
+    },
+    {
+      "id": "tests",
+      "title": "Unit tests of the audits"
+    }
+  ],
+  "targets": {
+    "audit-registry-check": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": false
+    },
+    "conflict-marker-audit": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": false
+    },
+    "copy-suffix-check": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": false
+    },
+    "file-size-audit": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": false
+    },
+    "front-door-audit": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": false
+    },
+    "front-door-freshness": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": false
+    },
+    "root-layout-audit": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": false
+    },
+    "todo-close-check": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": true,
+      "note": "writes dated files under evidence/ on every run"
+    },
+    "anchor-heading-drift-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "article-cite-gloss-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "ch4-ch9-pointer-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "chart-section-number-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "corpus-ref-name-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "external-link-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "external-link-audit-report": {
+      "category": "links",
+      "run": "never",
+      "writes": true
+    },
+    "fossil-anchor-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "in-paragraph-link-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "in-paragraph-link-audit-report": {
+      "category": "links",
+      "run": "never",
+      "writes": true
+    },
+    "local-markdown-fragment-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "reference-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "reference-audit-evidence": {
+      "category": "links",
+      "run": "never",
+      "writes": true
+    },
+    "router-bidirectional-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "section-cite-name-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "section-label-anchor-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "support-doc-pointer-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "trace-routing-prose-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "adopted-implementation-anatomy-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "adopted-implementation-cite-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "adopted-implementation-filename-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "ch1-dac-order-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "ch10-trace-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "corpus-markdown-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "doc-architecture-section-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "family-map-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "file-top-placement-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "file-top-placement-audit-adopted-implementation": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "footer-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "heading-echo-topic-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "heading-runin-echo-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "nav-widget-spacer-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "section-abbreviation-descriptor-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "section-bullet-lead-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "subarticle-gloss-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "trace-dac-widget-order-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "widget-top-placement-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-alphabetical-directory-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-cluster-order-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-constitutional-cluster-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-cross-file-link-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-dac-widget-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-definitions-gravity-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-depends-on-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-entry-format-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-measurement-coverage-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-measurement-stub-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-measurement-tier-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-o-scope-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-omac-format-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-single-definition-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-trace-crosslink-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "definition-appropriateness-audit": {
+      "category": "ch5",
+      "run": "never",
+      "writes": true,
+      "note": "advisory (always exits 0, 33 open findings); rewrites evidence/definition_audit/ledger.json on every run"
+    },
+    "definition-appropriateness-audit-evidence": {
+      "category": "ch5",
+      "run": "never",
+      "writes": true
+    },
+    "measurement-anchor-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "best-practices-check": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "best-practices-check-evidence": {
+      "category": "vocab",
+      "run": "never",
+      "writes": true
+    },
+    "easy-entry-jargon-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "lexical-vocabulary-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "lexical-vocabulary-audit-evidence": {
+      "category": "vocab",
+      "run": "never",
+      "writes": true
+    },
+    "plain-language-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "plain-language-audit-evidence": {
+      "category": "vocab",
+      "run": "never",
+      "writes": true
+    },
+    "primitive-retirement-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "prose-continuity-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "prose-continuity-audit-evidence": {
+      "category": "vocab",
+      "run": "never",
+      "writes": true
+    },
+    "readability-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "readability-audit-evidence": {
+      "category": "vocab",
+      "run": "never",
+      "writes": true
+    },
+    "readability-audit-with-gloss": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "system-class-term-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "time-reference-audit": {
+      "category": "time",
+      "run": "auto",
+      "writes": false
+    },
+    "time-window-lockstep-audit": {
+      "category": "time",
+      "run": "auto",
+      "writes": false
+    },
+    "alignment-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": true,
+      "note": "writes dated files under evidence/ on every run"
+    },
+    "ch1-ch5-alignment-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": true,
+      "note": "writes dated files under evidence/ on every run"
+    },
+    "ch1-ch6-alignment-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": true,
+      "note": "writes dated files under evidence/ on every run"
+    },
+    "ch1-cjs3-alignment-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": true,
+      "note": "writes dated files under evidence/ on every run"
+    },
+    "ci-cjs-relocation-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": true,
+      "note": "writes dated files under evidence/ on every run"
+    },
+    "ci-cjs-relocation-audit-evidence": {
+      "category": "alignment",
+      "run": "never",
+      "writes": true
+    },
+    "cjs-operational-cluster-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": false
+    },
+    "cjs3-cluster-term-order-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": false
+    },
+    "owner-discipline-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": false
+    },
+    "steward-door-lockstep-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": false
+    },
+    "cs4-inspectable-action-log-validate": {
+      "category": "records",
+      "run": "auto",
+      "writes": false
+    },
+    "materially-binding-act-record-validate": {
+      "category": "records",
+      "run": "auto",
+      "writes": false
+    },
+    "scenario-audit": {
+      "category": "records",
+      "run": "auto",
+      "writes": false
+    },
+    "scenario-catalog-check": {
+      "category": "records",
+      "run": "auto",
+      "writes": false
+    },
+    "sentience-status-adjudication-record-validate": {
+      "category": "records",
+      "run": "auto",
+      "writes": false
+    },
+    "ai-manifest-validate": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "boundary-chunks-check": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "corpus-lookup-test": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "crossref-matrix-format-test": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "id-resolver-test": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "json-rows-test": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "pages-corpus-index-check": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "pages-site-check": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "pages-site-test": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "parallel-norm-check-test": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "plain-terms-edition-check": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "print-pack-check": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "reader-accessibility-check": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "section-crossref-format-test": {
+      "category": "generated",
+      "run": "auto",
+      "writes": false
+    },
+    "translation-audit": {
+      "category": "translations",
+      "run": "auto",
+      "writes": false
+    },
+    "translation-freshness-audit": {
+      "category": "translations",
+      "run": "auto",
+      "writes": false
+    },
+    "translation-link-audit": {
+      "category": "translations",
+      "run": "auto",
+      "writes": false
+    },
+    "translation-preannouncement-check": {
+      "category": "translations",
+      "run": "never",
+      "writes": true,
+      "note": "builds a long resync queue and review packet rather than passing or failing; run it by hand"
+    },
+    "translation-structure-audit": {
+      "category": "translations",
+      "run": "auto",
+      "writes": false
+    },
+    "translation-terminology-audit": {
+      "category": "translations",
+      "run": "auto",
+      "writes": false
+    },
+    "adopted-implementation-filename-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "anchor-heading-drift-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "article-cite-gloss-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "audit-report-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "ch5-nested-list-candidates-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "chart-section-number-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "conflict-marker-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "corpus-markdown-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "corpus-ref-name-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "cs4-inspectable-action-log-validate-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "easy-entry-jargon-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "edition-bump-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "external-link-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "file-size-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "fossil-anchor-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "front-door-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "heading-echo-topic-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "heading-runin-echo-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "local-markdown-fragment-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "materially-binding-act-record-validate-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "obligation-diff-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "readability-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "reference-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "root-layout-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "section-bullet-lead-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "section-cite-name-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "section-label-anchor-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "sentience-status-adjudication-record-validate-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "steward-door-lockstep-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "system-class-term-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "time-reference-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "time-window-lockstep-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    }
+  }
+}

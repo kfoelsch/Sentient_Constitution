@@ -13,7 +13,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes); [CF-5.2 Intake triage body](#cf-52-intake-triage-body); [CF-5.3 Natural-systems representatives](#cf-53-natural-systems-representatives); [CF-5.4 Capacity-failure routing](#cf-54-capacity-failure-routing); [CF-5.5 Institutional and local registrars](#cf-55-institutional-and-local-registrars); [CF-5.6 Integrity registrar](#cf-56-integrity-registrar); [CF-5.7 Backup Record Authority](#cf-57-backup-record-authority); [CF-5.8 Restricted information office](#cf-58-restricted-information-office).
+- Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes); [CF-5.2 Intake triage body](#cf-52-intake-triage-body); [CF-5.3 Natural-systems representatives](#cf-53-natural-systems-representatives); [CF-5.4 Capacity-failure routing](#cf-54-capacity-failure-routing); [CF-5.5 Institutional and local registrars](#cf-55-institutional-and-local-registrars); [CF-5.6 Integrity registrar](#cf-56-integrity-registrar); [CF-5.7 Backup Record Authority](#cf-57-backup-record-authority); [CF-5.8 Restricted information authority](#cf-58-restricted-information-authority).
 - Read with: **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-5.1** (*Published intake classes*); **CF-5.2** (*Intake triage body*); **CF-5.3** (*Natural-systems representatives*); **CF-5.4** (*Capacity-failure routing*); **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract.
 - Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*); primary owner **CI-12** (*Cross-institution coordination and escalation*).
 - Topic routing (primary owner): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*), **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
@@ -139,7 +139,7 @@ A filing lodged at the wrong registrar is forwarded and keeps its lodging date. 
 **What a registrar does not do:**
 - It does not grant or withhold permission to form or operate.
 - It does not rule on class, on whether a body is below a line, or on what a filing claims.
-- It does not verify or authorize a standing record. That belongs to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)), a separate office.
+- It does not verify or authorize a standing record. That belongs to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)), a separate authority.
 - It does not run or judge the formation check in [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](../core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity).
 - It charges no fee, and it refuses a filing for no reason other than a missing required item.
 
@@ -196,11 +196,11 @@ This subsection implements, and must not narrow, [Chapter Thirteen §4.5 Integri
 <a id="cf-57-backup-record-authority"></a>
 ## CF-5.7 Backup Record Authority
 
-*In plain terms: when a Chartered Party's own offices can't verify a standing record, because its System Charter or Institutional Charter has a gap, someone outside it has to. The **Backup Record Authority** is that office. It checks the facts and authorizes the record, so nobody's record waits on the Chartered Party's repair. It is not a clerk, not a forum, and not part of the intake desk. It checks facts. It does not rule on what the Chartered Party is or may do, and it does not measure how good or bad the record is.*
+*In plain terms: when a Chartered Party's own offices can't verify a standing record, because its System Charter or Institutional Charter has a gap, someone outside it has to. The **Backup Record Authority** is that authority. It checks the facts and authorizes the record, so nobody's record waits on the Chartered Party's repair. It is not a clerk, not a forum, and not part of the intake desk. It checks facts. It does not rule on what the Chartered Party is or may do, and it does not measure how good or bad the record is.*
 
 This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custody and opening authority](../core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*No self-custody*; *A System Charter or Institutional Charter that does not name them*) and [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody). It stays outside the intake triage body (**CF-5.2** (*Intake triage body*)) and the registrars (**CF-5.5** (*Institutional and local registrars*), **CF-5.6** (*Integrity registrar*)), which do routine administration, and outside the merits panels, which [Chapter Thirteen §2 Default venue and primary stakes](../core_13_forum.md#2-default-venue-and-primary-stakes) keeps for substantive outcomes.
 
-**Where it sits:** The **Institutional** forum family, or the local forum where the Chartered Party acts and the sentients it affects live, keeps one Backup Record Authority, or a functionally equivalent arrangement, with the same independence and contest expectations as an intake triage body. It is a separate office. It is not part of the intake triage body, it is not a registrar, and it is not a merits panel. Staff of one do not staff another.
+**Where it sits:** The **Institutional** forum family, or the local forum where the Chartered Party acts and the sentients it affects live, keeps one Backup Record Authority, or a functionally equivalent arrangement, with the same independence and contest expectations as an intake triage body. It is a separate authority. It is not part of the intake triage body, it is not a registrar, and it is not a merits panel. Staff of one do not staff another.
 
 **When it acts:**
 - **A gap in the System Charter or Institutional Charter:** From the day the gap is logged, for operator standing records in the affected scope, until the Chartered Party lodges a version that names every required seat ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)).
@@ -231,21 +231,21 @@ This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custo
 - **No steering:** It may not use funding, fees, or sorting to push records toward a favored forum.
 - **No self-judging:** Staff who verified a record do not sit on a merits panel hearing a dispute about it (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
 
-## CF-5.8 Restricted information office
+## CF-5.8 Restricted information authority
 
-*In plain terms: when a forum, a party, or a holder disagrees about who may see restricted information, someone neutral has to answer fast, so the matter does not stall and forums do not end up fighting each other. The **restricted information office** is that office. It decides who may see an item, and in what form. It does not decide the case. If it is slow, the case goes on without the item. Its answers can be appealed, but the appeal does not stop the clock.*
+*In plain terms: when a forum, a party, or a holder disagrees about who may see restricted information, someone neutral has to answer fast, so the matter does not stall and forums do not end up fighting each other. The **restricted information authority** is that authority. It decides who may see an item, and in what form. It does not decide the case. If it is slow, the case goes on without the item. Its answers can be appealed, but the appeal does not stop the clock.*
 
 This subsection implements the rule in [CF-11.3.3 Restricted-evidence timing](cf_11_performance_backlog_publication_accessibility.md#cf-1133-restricted-evidence-timing) that restricted evidence does not slow the clock, and the **Anti-delay floor** in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). It is modeled on **CF-5.7** (*Backup Record Authority*). It stays outside the intake triage body (**CF-5.2** (*Intake triage body*)), the registrars (**CF-5.5** (*Institutional and local registrars*), **CF-5.6** (*Integrity registrar*)), the Backup Record Authority, and the merits panels.
 
-**Where it sits:** Each adopter keeps one restricted information office, or a functionally equivalent arrangement. It answers to all of the adopter's forum families together and to none of them alone. It is a separate office. It is not a forum, not a registrar, and not part of the intake triage body. Staff of one do not staff another.
+**Where it sits:** Each adopter keeps one restricted information authority, or a functionally equivalent arrangement. It answers to all of the adopter's forum families together and to none of them alone. It is a separate authority. It is not a forum, not a registrar, and not part of the intake triage body. Staff of one do not staff another.
 
-**What comes to it:** A dispute about access to, or the scope of, restricted information, including a claim of privilege over restricted material. It may be raised by a forum, a party, or a holder. The question is whether the item may be seen, by whom, and in what form: cleared reviewer, reviewable summary, closed review, or redaction. Disputes go to the office first.
+**What comes to it:** A dispute about access to, or the scope of, restricted information, including a claim of privilege over restricted material. It may be raised by a forum, a party, or a holder. The question is whether the item may be seen, by whom, and in what form: cleared reviewer, reviewable summary, closed review, or redaction. Disputes go to the authority first.
 
 **What it decides under:** Published criteria that are at least as protective as **CS-2** (*Information types and handling*) for **Type S** data, which must stay minimized, time-bound, and review-bound, and as the record a secrecy measure must carry under **CF-9.7** (*Rights, secrecy, and protected activity*). It gives reasons.
 
 **Clock:**
 - **Answer:** Inside the matter's tier window, never on top of it. The answer is due within the **intake target** of the matter's tier, counted from the day the question is logged: 1 calendar day for Tier A, 2 for Tier B, 4 for Tier C, 8 for Tier L, and 12 for Tier P, and 6 hours at the **Emergency level** (**CF-11.3.1** (*Stage targets and timing floors*)).
-- **Silence:** If the office has not answered by then, the forum proceeds on the lawful evidence it has, and the item stays restricted. A missed target is recorded and published as the office's own failure, and counted under **CF-11.3.3** (*Restricted-evidence timing*).
+- **Silence:** If the authority has not answered by then, the forum proceeds on the lawful evidence it has, and the item stays restricted. A missed target is recorded and published as the authority's own failure, and counted under **CF-11.3.3** (*Restricted-evidence timing*).
 
 **What it does not do:**
 - It does not decide the merits, admissibility, or weight. Those stay with forums.
@@ -255,7 +255,7 @@ This subsection implements the rule in [CF-11.3.3 Restricted-evidence timing](cf
 - It does not grant or withhold permission to form or operate, and it charges no fee to a party.
 
 **Review:**
-- **Appeal:** A decision of the office is appealed in the forum family related to the matter that raised the question, before a panel separate from the sentients deciding that matter's merits (**CF-6** (*Appeal, secondary review, and exhaustion pathways*)). The appeal asks whether the office followed its published criteria and gave reasons.
+- **Appeal:** A decision of the authority is appealed in the forum family related to the matter that raised the question, before a panel separate from the sentients deciding that matter's merits (**CF-6** (*Appeal, secondary review, and exhaustion pathways*)). The appeal asks whether the authority followed its published criteria and gave reasons.
 - **Effect:** The decision stands during the appeal and binds every forum family of the adopter until the appeal reverses it. Another family may not decide the same item for itself.
 - **Clock:** The appeal runs alongside the matter and does not stop it. A reversal that releases an item feeds the existing reconsideration path.
 
@@ -264,7 +264,7 @@ This subsection implements the rule in [CF-11.3.3 Restricted-evidence timing](cf
 - **Reporting:** It answers to the families for its budget, its aggregate reports, and its conduct, never for an individual decision. It publishes aggregate figures: questions received, outcomes, time taken, missed targets, and the asserting party, by tier and level.
 
 **Time and fallback:**
-- **Unavailable:** If the office cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the silence rule applies and the matter goes on.
+- **Unavailable:** If the authority cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the silence rule applies and the matter goes on.
 - **Conflict of its own:** If it has an interest in the item, it declines, logs the conflict, and the question goes to a forum.
 
 **Safeguards:**

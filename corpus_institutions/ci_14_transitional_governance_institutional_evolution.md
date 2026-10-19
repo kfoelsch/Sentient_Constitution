@@ -76,7 +76,7 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 **Institutional transition interface (**Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) interface)**
 Each institution in scope must name and maintain locally:
 - the institution, role, or body that owns each **transition authority**, **review authority**, and **evidence-custody duty**;
-- the **ledger owner** and the **independent verifier** for the Rights-Floor attainment ledger under **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*);
+- the **ledger owner** and the **independent verifying authority** for the Rights-Floor attainment ledger under **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*);
 - published local procedures for **interim authority**, **review cadence**, **reauthorization**, **unresolved-risk explanation**, and **evidence custody** under the **CJS-3.18** (*data-retention and lifecycle-integrity terms*) transition floor; and
 - auditable records of **material institutional transition decisions**, **delays**, **reversals**, and **remediation actions**, with rationale and risk implications.
 
@@ -290,7 +290,7 @@ Institutions may add measures. They may not drop a family.
 **Enforcement-readiness declarations**
 
 - **Criteria set in advance:** For each domain and scope, the plan states before results are known the measurable readiness criteria for institutions, capability, and culture, and the verification tier that applies.
-- **Independent declaration:** When the verified criteria are met, the independent verifier, or a body independent of the ledger owner, declares the floor enforceable for that scope and publishes its reasons.
+- **Independent declaration:** When the verified criteria are met, the independent verifying authority, or a body independent of the ledger owner, declares the floor enforceable for that scope and publishes its reasons.
 - **Published window:** The plan states the maximum time between criteria being met and the declaration. Withholding beyond it is self-created delay for **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) purposes.
 - **Contest:** Affected sentients and oversight bodies may contest a declaration as premature or as withheld. The contest is decided by a party independent of the ledger owner.
 - **Staged scopes:** Scopes are sequenced so that enforcement demand matches enforcement capacity. The plan states the sequence and its reasons.
@@ -320,7 +320,7 @@ Institutions may add measures. They may not drop a family.
 - **Material stake:** independent sampling or measurement by a party outside the owner's reporting line, applying **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) conflict-disclosure rules.
 - **High stake** — survival, dignity, core challenge, review, and appeal, irreversible harm, or high-impact class: independent measurement, with affected sentients consulted on method and findings.
 - **Lived-experience cross-check:** Each cycle, compare ledger figures with contest, complaint, protected-reporting, and forum-intake data. Unexplained divergence is itself a finding and is handled under the **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) verification-health precondition.
-- **Separation:** The ledger owner is not the independent verifier.
+- **Separation:** The ledger owner is not the independent verifying authority.
 
 **Indicators that verification is unreliable**
 
@@ -357,7 +357,7 @@ While any indicator persists, repair of the verification and measurement machine
 
 **Implementation custody (local publication required)**
 
-Each institution in scope must publish locally the ledger owner, independent verifier, measure definitions, tolerance bands, cadence, publication channel, and the process for correcting or disputing ledger data. None of these may narrow **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*), **Chapter Ten**, or the Rights-Floor Minimums Principle.
+Each institution in scope must publish locally the ledger owner, independent verifying authority, measure definitions, tolerance bands, cadence, publication channel, and the process for correcting or disputing ledger data. None of these may narrow **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*), **Chapter Ten**, or the Rights-Floor Minimums Principle.
 
 <a id="ci-145-article-xxviii-a-prioritizing-institutional-transition-targets"></a>
 

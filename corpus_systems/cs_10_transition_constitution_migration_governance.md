@@ -63,7 +63,7 @@ Each phase must:
 
 *In plain terms: Moving to the next phase requires auditable evidence that the criteria set in advance were actually met.*
 
-A **gate** is the checkpoint between phases, or before adoption widens in scope. **Gate criteria** are the measurable conditions, published before the phase begins, that must be shown met before the gate opens. Each states what is measured, the threshold, the owner, and the independent verifier.
+A **gate** is the checkpoint between phases, or before adoption widens in scope. **Gate criteria** are the measurable conditions, published before the phase begins, that must be shown met before the gate opens. Each states what is measured, the threshold, the owner, and the independent verifying authority.
 
 Gate criteria, verification strength, and rollback-feasibility evidence are scaled to the **system class** of the systems the phase moves, and phases are sequenced by exposure tier under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) as **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) requires.
 

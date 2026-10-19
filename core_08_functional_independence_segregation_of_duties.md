@@ -102,7 +102,7 @@ flowchart TB
         A --> M
         H --> M
     end
-    X["The initiating seat cannot verify its own act;<br/><br/>the verifier cannot also keep the record<br/>or hear the challenge"]
+    X["The initiating seat cannot verify its own act;<br/><br/>the verifying authority cannot also keep the record<br/>or hear the challenge"]
     Map["Charter Role Map<br/><br/>assigns seats for this act"]
     subgraph Seats["Four core seats"]
         direction TB
@@ -173,7 +173,7 @@ The functional four-seat floor applies at every class. The class-scaled question
 
 <br>
 
-*In plain terms: changing the name on the desk does not create independence. A verifier or reviewer is not independent when the sentient or office seeking the result can direct, remove, reward, punish, or quietly overrule them on that act.*
+*In plain terms: changing the name on the desk does not create independence. A verifying authority or reviewer is not independent when the sentient or office seeking the result can direct, remove, reward, punish, or quietly overrule them on that act.*
 
 Functional independence is judged by actual authority and control, not labels. On the same act:
 
@@ -386,7 +386,7 @@ Every later constitutional process must explain how it assigns and uses all four
 
 In particular:
 
-- **Chapter Nine — system alignment certification and institutional alignment certification:** the system operator, the institution's governing authority, or the certification proponent is an initiating seat, not its own verifier; bounded component findings, integration of the certification record, custody, and challenges must remain within their lawful seats and anti-self-judging routes.
+- **Chapter Nine — system alignment certification and institutional alignment certification:** the system operator, the institution's governing authority, or the certification proponent is an initiating seat, not its own verifying authority; bounded component findings, integration of the certification record, custody, and challenges must remain within their lawful seats and anti-self-judging routes.
 - **Chapter Ten — standing records:** the requester, record-opening authority, record custodian, and contest route apply the four-seat floor together with Chapter Ten's stricter custody, claimant, informal-record, and no-self-custody rules.
 - **Chapter Thirteen — forums:** filing, investigation, merits review, record custody, appeal, and review of a forum's own alleged bias or process abuse must preserve the applicable seat and anti-self-judging boundaries.
 - **Chapter Fourteen — governance:** role definitions, competency plans, delegation, succession, and institutional design must place and sustain the seats rather than merely repeat their names.

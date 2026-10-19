@@ -146,7 +146,7 @@ The Chartered Party is told what is wrong, answers, and gets a bounded window to
 
 Each rung carries a duration limit, a review cadence, restoration conditions, stated reasons, and a route to independent review ([Article XX-B](../core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*) and [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)). The forum moves up a rung when the resolution window lapses without a verified resolution, when it finds on the record that the lighter rung cannot work, or when resistance of the kind in **CI-13.1** (*Opening a consequence matter*) item 1 recurs. It moves down or out when a resolution is verified. It may skip rungs only on the emergency showing in **CI-13.3** (*Notice, response, and resolution*) item 6.
 
-- **Rung 1, directed correction:** named fixes, each with an owner, a deadline, and a verification test; disclosure to the forum and affected stakeholders; monitoring by a verifier outside the Chartered Party's control line.
+- **Rung 1, directed correction:** named fixes, each with an owner, a deadline, and a verification test; disclosure to the forum and affected stakeholders; monitoring by a verifying authority outside the Chartered Party's control line.
 - **Rung 2, constrained authority:** for a stated period the forum may require dual keys or independent co-holders on named authorities; escrow or segregation of named funds, weights, records, or keys; an independent countersign on named acts; or suspension of a named function inside the Chartered Party. These are the lighter measures of the ladder in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](../core_13_forum.md#interim-hold-on-a-named-sentients-pathway), applied to the Chartered Party's functions and not to a named sentient. A restriction that reaches a named sentient's own authority goes to the forum with jurisdiction over that sentient, under the Interim Hold and the standing-lock rules, and not to this rung.
 
 <a id="ci-135-contraction-order"></a>
@@ -167,7 +167,7 @@ Each rung carries a duration limit, a review cadence, restoration conditions, st
 
 **Completion and verification:**
 - The Chartered Party files a short written statement, with reasons, that it is below every line, as the primary assessment in [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality) provides. The statement is a showing, and it carries the burden the Chartered Party has under that entry.
-- An independent verifier outside the Chartered Party's control line checks the statement against what the Chartered Party actually does, decides, holds, and affects, and runs the secondary check for splitting, common control, and shared-system load. The lead forum accepts the result, rejects it, or sends it back.
+- An independent verifying authority outside the Chartered Party's control line checks the statement against what the Chartered Party actually does, decides, holds, and affects, and runs the secondary check for splitting, common control, and shared-system load. The lead forum accepts the result, rejects it, or sends it back.
 - An Operating Party that passes is recorded as Class P for the activities in the order. Safety, Truth, and the Rights Floor bind it in full.
 
 **Anti-evasion:**

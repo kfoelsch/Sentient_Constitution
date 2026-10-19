@@ -1011,7 +1011,7 @@ flowchart TB
 - After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Chapter Thirteen §6.1 (*Emergency measures and continuation burden*) continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Thirteen’s restore-challenge rule](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - A matter's time scale can also be faster. At the **Emergency level** (Tier A only, for imminent loss of life, serious injury, or irreversible rights loss that nobody engineered), the steps that stop the harm must finish within 3 days, and restoring notice and challenge after a deferral takes 3 days, not 7. The finding steps keep the Tier A bound. See [Chapter Thirteen §6 Time-scale levels](../core_13_forum.md#time-scale-levels).
 - "Promptly" has a length when someone is already under a measure. A hold, order, stay, or interim decision must be looked at by an independent reviewer inside the **prompt-review window**: 24 hours in Tier A, and 2, 4, 8, and 12 days in Tiers B, C, L, and P. It is a hard line, even in an emergency. See [Chapter Thirteen §6 Prompt review](../core_13_forum.md#prompt-review).
-- Restricted evidence does not slow the clock. Access disputes go first to a neutral **restricted information office** ([CF-5.8](../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md#cf-58-restricted-information-office)), which answers inside the matter's intake target. If it is slow, the matter goes on without the item.
+- Restricted evidence does not slow the clock. Access disputes go first to a neutral **restricted information authority** ([CF-5.8](../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md#cf-58-restricted-information-authority)), which answers inside the matter's intake target. If it is slow, the matter goes on without the item.
 
 These are the [Chapter Thirteen §6](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
 
@@ -1127,7 +1127,7 @@ flowchart TB
         A --> M
         H --> M
     end
-    X["The initiating seat cannot verify its own act;<br/><br/>the verifier cannot also keep the record<br/>or hear the challenge"]
+    X["The initiating seat cannot verify its own act;<br/><br/>the verifying authority cannot also keep the record<br/>or hear the challenge"]
     Map["Published role map<br/><br/>assigns seats for this act"]
     subgraph Seats["Four core seats"]
         direction TB
