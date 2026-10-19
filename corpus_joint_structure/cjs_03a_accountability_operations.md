@@ -991,10 +991,10 @@ The sub-rules below apply that cluster floor to specific authorization, emergenc
 <a id="authorization-and-role-scope-discipline"></a>
 Authorization and role-scope discipline
 
-*In plain terms: instruments must define who may authorize or execute intervention, under what conditions, and within what limits.*
+*In plain terms: documents must define who may authorize or execute intervention, under what conditions, and within what limits.*
 
 - **What it is**
-  - **In scope:** Instruments must define who may authorize or execute intervention, under what conditions, and within what limits.
+  - **In scope:** Documents must define who may authorize or execute intervention, under what conditions, and within what limits.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authorization and role-scope discipline.
 <a id="authorization-and-role-scope-discipline-a"></a>
 - **How to measure and assess**

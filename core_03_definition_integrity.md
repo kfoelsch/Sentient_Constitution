@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Three**: definition integrity, evasion, and non-compliance. **Chapter Two** — definition structure and component alignment — is in [`core_02_definition_structure.md`](core_02_definition_structure.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Three**: definition integrity, evasion, and non-compliance. **Chapter Two** — definition structure and component alignment — is in [`core_02_definition_structure.md`](core_02_definition_structure.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
 > **Upstream:** [Chapter Two](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements).
 > **Downstream:** [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification).

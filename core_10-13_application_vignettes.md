@@ -6,7 +6,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Thirteen §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Ten through Thirteen and adopted layers. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Thirteen §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Ten through Thirteen and adopted layers. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 

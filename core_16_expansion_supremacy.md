@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Sixteen**: additive expansion of protection, supremacy, and external legal orders. **Chapter Fifteen** (non-regression) is in [`core_15_non_regression.md`](core_15_non_regression.md). **Chapter Seventeen** (ratification and procedural validity) is in [`core_17_amendment_ratification.md`](core_17_amendment_ratification.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Sixteen**: additive expansion of protection, supremacy, and external legal orders. **Chapter Fifteen** (non-regression) is in [`core_15_non_regression.md`](core_15_non_regression.md). **Chapter Seventeen** (ratification and procedural validity) is in [`core_17_amendment_ratification.md`](core_17_amendment_ratification.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -13,7 +13,7 @@
 
 > Where this lives (navigation):
 > - **Constitutional owner:** additive expansion of protection; continuity of supremacy and challenge rights during amendment processes; source-layer authority and internal hierarchy relative to incorporated corpus and external law; non-displacement of applicable external law of its own force; alignment of constitutional processes with external legal frameworks in which they are used; cooperation with external tribunals while preserving internal review pathways.
-> - **Non-regression:** substantive floors remain in **Chapter Fifteen**. Ratification, custody instruments, and procedural amendment validity remain in **Chapter Seventeen**.
+> - **Non-regression:** substantive floors remain in **Chapter Fifteen**. Ratification, custody documents, and procedural amendment validity remain in **Chapter Seventeen**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
@@ -178,7 +178,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4.1](#41-good-faith-cooperation) cooperation duty.
-- Downstream: [Chapter Seventeen](core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) procedural validity for waivers tied to adoption instruments.
+- Downstream: [Chapter Seventeen](core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) procedural validity for waivers tied to adoption documents.
 - Read with: [Article XX-A](core_06_rights_part_e.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Twelve, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_12_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms).
 
 </details>
@@ -193,7 +193,7 @@ Constitutional interpretation, appeal, and review pathways under **Article XX-A*
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-supremacy-relative-to-other-binding-norms) internal hierarchy, stricter-external protections, and conflict disclosure; [§4](#4-disputes-involving-external-legal-orders) cooperation with competent external orders; [Chapter Seventeen §10](core_17_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, and joining*); [Chapter Eighteen §4](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt; what non-adoption means for enforcement*).
+- Upstream: [§3](#3-supremacy-relative-to-other-binding-norms) internal hierarchy, stricter-external protections, and conflict disclosure; [§4](#4-disputes-involving-external-legal-orders) cooperation with competent external orders; [Chapter Seventeen §10](core_17_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document, and joining*); [Chapter Eighteen §4](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt; what non-adoption means for enforcement*).
 - Subsections: [§5.1](#51-non-displacement-and-limited-binding-effect); [§5.2](#52-alignment-when-used-within-external-legal-frameworks).
 - Downstream: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.2](#32-stricter-external-protections) apply only within the limited binding effect stated here; [Chapter Seventeen §10](core_17_amendment_ratification.md#10-ratification-and-adoption) remains the sole adoption procedure.
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*supremacy within valid source, adoption, and governance-layer scope*); [Chapter Eighteen §4](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*partial adoption must not shrink land, consultation, or FPIC duties the entity already bears*).
@@ -210,7 +210,7 @@ Constitutional interpretation, appeal, and review pathways under **Article XX-A*
 
 - Upstream: [§5](#5-relation-to-applicable-external-law) relation-to-external-law frame; [Chapter Eighteen §4](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*enforceable only after valid adoption*).
 - Downstream: [§5.2](#52-alignment-when-used-within-external-legal-frameworks) alignment when used inside an external framework; [§3.1](#31-internal-hierarchy-for-adopters) internal hierarchy for adopters within that limited effect.
-- Read with: [Chapter Seventeen §10.1](core_17_amendment_ratification.md#101-deliberate-adoption)–[§10.2](core_17_amendment_ratification.md#102-instrument-of-adoption) (*deliberate, documented, auditable instrument stating entity, scope, and effective date*).
+- Read with: [Chapter Seventeen §10.1](core_17_amendment_ratification.md#101-deliberate-adoption)–[§10.2](core_17_amendment_ratification.md#102-adoption-document) (*deliberate, documented, auditable document stating entity, scope, and effective date*).
 
 </details>
 
@@ -226,12 +226,12 @@ This Constitution becomes binding for a particular entity only upon valid adopti
 
 - the adopting entity;
 - the systems under that entity's authority; and
-- the stated scope of the [instrument of adoption](core_17_amendment_ratification.md#102-instrument-of-adoption).
+- the stated scope of the [adoption document](core_17_amendment_ratification.md#102-adoption-document).
 
 Valid adoption does not, by itself, repeal, displace, or render inoperative otherwise applicable local, national, or international law, except to the extent that:
 
 - the adopting entity has lawful authority under that external law to bind itself and the systems under its authority to this Constitution; and
-- the instrument of adoption records that commitment within that authority.
+- the adoption document records that commitment within that authority.
 
 Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*), [§3.2](#32-stricter-external-protections) (*Stricter External Protections*), and [§3.3 Conflict Disclosure and Mitigation](#33-conflict-disclosure-and-mitigation) continue to apply.
 

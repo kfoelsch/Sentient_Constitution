@@ -8,7 +8,7 @@
 
 Open these first. They point; they do not replace the numbered `core_*` files.
 
-- [README.md](../README.md) — how to read the instrument, and common lookups
+- [README.md](../README.md) — how to read the Constitution, and common lookups
 - [Preamble §6 Key Practical Process Pipelines](../core_00_preamble.md#6-key-practical-process-pipelines) — what each chapter in this chain owns and produces
 - [Preamble §6.2 How the full chain fits together](../core_00_preamble.md#62-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
 - [Preamble §7 Process Ownership and Outputs](../core_00_preamble.md#7-process-ownership-and-outputs) — the owner and output of each pipeline stage

@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, Independent Definitions meta rules, dependent-cluster meta rules, alphabetical directory, and the constitutional compass.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Five, Part A** — reader guidance, Independent Definitions meta rules, dependent-cluster meta rules, alphabetical directory, and the constitutional compass.
 
 </details>
 

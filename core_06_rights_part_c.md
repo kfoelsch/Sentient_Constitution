@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part C**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Six, Part C**; article numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -1553,7 +1553,7 @@ This Article sets out the rules for rewarding inventions, processes, and functio
     - The share may never exceed half of the verified gain.
     - The share must fall as the number of sentients who benefit from the invention grows. Breadth is counted by the sentients who actually benefit, not by the number of licensees.
     - The share must not fall so fast that the invention's total reward shrinks as its use widens.
-    - Where a fee is charged, the share may not fall below 1% of the verified gain. This floor does not require a fee where this Article or an adoption instrument calls for prizes, pooled access, public buyout, or open access instead.
+    - Where a fee is charged, the share may not fall below 1% of the verified gain. This floor does not require a fee where this Article or an adoption document calls for prizes, pooled access, public buyout, or open access instead.
   - The fee must not be based on market power, scarcity, switching costs, or what a user could be pressured to pay.
   - The fee schedule, including the time estimate and wage rate used, must be published, the same for all users in comparable circumstances, and open to challenge.
   - A fee may not be set so as to price out the always-open uses below.
@@ -1569,7 +1569,7 @@ This Article sets out the rules for rewarding inventions, processes, and functio
 - **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
   - For **Class A**, **Class B**, and **Class C** systems, access-preserving reward mechanisms are strongly preferred. Exclusion must remain especially narrow, rapidly reviewable, and easy to override where continuity, interoperability, repair, or public-interest implementation is materially implicated. This may include shortening either phase, or starting in the open-licensing phase.
   - Lower-dependency innovation outside those classes may use the full two-phase term where disclosure is real, switching costs are low, and anti-lock-in safeguards remain effective.
-- **Domain carve-outs and stronger defaults:** Strong exclusionary reward is presumed disfavored — and may be categorically unavailable where adoption instruments so provide — for:
+- **Domain carve-outs and stronger defaults:** Strong exclusionary reward is presumed disfavored — and may be categorically unavailable where adoption documents so provide — for:
   - medicines and public-health essentials;
   - survival-critical infrastructure;
   - core communication or interoperability standards;

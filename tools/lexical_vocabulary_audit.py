@@ -15,6 +15,27 @@ from corpus_paths import binding_corpus_scope
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
 _BREACH_FAMILY_SCOPE = frozenset({"core_10_standing_assessment.md", "core_11_standing_integration.md"})
 
+# Ban the word **instrument** / **instruments** (custodian decision, 2026-10-19). Name the thing: System Charter, Institutional Charter,
+# rule set, record, act; otherwise **document** or **text**. Enforced only on files in `_INSTRUMENT_SCOPE`; expand as other files are swept.
+_INSTRUMENT_SCOPE = frozenset({"core_07_charters.md"})
+# Swept 2026-10-19: numbered core chapters, corpus_* implementation files, implementation/, front doors, guides, docs, evaluation/, project/.
+# Dated records keep the wording they were written with: a file name ending _YYYY-MM-DD, a file name starting YYYY-MM-DD_ (sitting results),
+# and a folder ending _YYYY-MM (the external audit). Translation drafts stay pinned to the older text.
+_INSTRUMENT_SCOPE_PREFIXES = (
+    "core_", "corpus_", "implementation/", "README", "START_HERE", "guides/", "docs/", "evaluation/", "project/",
+)
+_DATED_RECORD = re.compile(r"_20\d\d-\d\d-\d\d(?:\.|_)|(?:^|/)20\d\d-\d\d-\d\d_|_20\d\d-\d\d/")
+_INSTRUMENT_EXEMPT_PREFIXES = ("project/translation_drafts/",)
+
+
+def _in_instrument_scope(rel_path: str) -> bool:
+    if _DATED_RECORD.search(rel_path) or rel_path.startswith(_INSTRUMENT_EXEMPT_PREFIXES):
+        return False
+    return rel_path in _INSTRUMENT_SCOPE or rel_path.startswith(_INSTRUMENT_SCOPE_PREFIXES)
+
+
+_INSTRUMENT_WORD = re.compile(r"(?<![A-Za-z0-9-])instruments?(?![A-Za-z0-9-])", re.IGNORECASE)
+
 # Ban the word **cure** and its forms (cured, uncured, curing, cures, curable, incurable) in the binding corpus.
 # Prefer **resolve**, **resolved**, **resolution** (the deadline and clock sense), or **fix**, **correct**, **settle** (the remedy sense).
 # Word boundaries keep unrelated words (secure, accurate, procure, obscure) clear. Anchors and hyphenated compounds such as cure-window are caught; inline code spans are documentation only.
@@ -646,6 +667,33 @@ def scan_avoid_breach_family(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+def scan_avoid_instrument(rel_path: str, text: str) -> list[Finding]:
+    """Reject **instrument** / **instruments** (prefer the specific thing named, such as **System Charter**, **Institutional Charter**, **rule set**, **record**, or **act**; otherwise **document** or **text**)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        prose = re.sub(r"`[^`]*`", "", raw)
+        prose = re.sub(r"\]\([^)]*\)", "]", prose)  # link targets
+        prose = re.sub(r'id="[^"]*"', "", prose)
+        if _INSTRUMENT_WORD.search(prose):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-instrument",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def scan_avoid_cure_family(rel_path: str, text: str) -> list[Finding]:
     """Reject **cure** and its forms (prefer **resolve**, **resolved**, **resolution**, or **fix** / **correct** for the remedy sense)."""
     findings: list[Finding] = []
@@ -1066,6 +1114,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Ten typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
+        "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
         "- **`avoid-tribunal-family`:** reject internal Chapter Thirteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
@@ -1155,6 +1204,17 @@ def main() -> int:
             findings.extend(scan_avoid_window_clock_names(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
+        if _in_instrument_scope(rel_path):
+            findings.extend(scan_avoid_instrument(rel_path, text))
+
+    if not args.scope:
+        # The instrument ban also covers reader-facing files outside the binding scope (kits, guides, front doors).
+        for pattern in ("implementation/**/*.md", "guides/**/*.md", "docs/*.md", "evaluation/**/*.md", "project/**/*.md", "START_HERE.md"):
+            for extra in sorted(root.glob(pattern)):
+                rel_path = extra.relative_to(root).as_posix()
+                if rel_path in scope or not _in_instrument_scope(rel_path):
+                    continue
+                findings.extend(scan_avoid_instrument(rel_path, load_text(extra)))
 
     report = report_markdown(args.date, scope, findings)
     if args.write_evidence:

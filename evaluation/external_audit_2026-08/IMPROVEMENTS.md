@@ -62,7 +62,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B1. Adopter-numeric gate under Article I-D — **done**
 
-**Homes:** [Article I-D named measures](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Seventeen §10.2](../../core_17_amendment_ratification.md#102-instrument-of-adoption). Core still does not pick the number.
+**Homes:** [Article I-D named measures](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Seventeen §10.2](../../core_17_amendment_ratification.md#102-adoption-document). Core still does not pick the number.
 **Do not:** Write 1.5°C or a global carbon budget into Chapter Six.
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**

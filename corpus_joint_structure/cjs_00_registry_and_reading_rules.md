@@ -209,7 +209,7 @@ Default sequential reading is wrapper → reader guide → **CJS-1** (*Scope, pu
 
 *In plain terms: section labels like **CJS-0.1** (*Cross-file routing*) stay stable across corpus editions so cross-references do not break when text moves between files.*
 
-**Edition alignment:** The visible **Corpus edition** and **Effective date** labels must track **Corpus** labels in adopting instruments and [README.md](../README.md) edition metadata.
+**Edition alignment:** The visible **Corpus edition** and **Effective date** labels must track **Corpus** labels in adopting documents and [README.md](../README.md) edition metadata.
 
 **Implementation-label citation hygiene**
 
@@ -303,7 +303,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 | Name | Kind | What it times | Set in |
 |---|---|---|---|
 | **Response window** | window | The short window for a Chartered Party to answer a request, a notice, or a failed finding; it takes the length of the matching tier's intake target | Chapter Seven §1.6, §6; CI-13.3 (*Notice, response, and resolution*) |
-| **Resolution window** | window | The longer window to publish the missing instrument or to resolve a failed finding; it takes the length of the matching tier's outer bound | Chapter Seven §1.6, §6; CI-13.3 (*Notice, response, and resolution*) |
+| **Resolution window** | window | The longer window to publish the missing System Charter or Institutional Charter or to resolve a failed finding; it takes the length of the matching tier's outer bound | Chapter Seven §1.6, §6; CI-13.3 (*Notice, response, and resolution*) |
 | **Challenge extension** | window | Extends the resolution window while a classification challenge is pending | Chapter Seven §1.6 |
 | **Good-faith extension** | window | One extension of the resolution window on a showing of good-faith progress and no continuing harm | CI-13.3 (*Notice, response, and resolution*) |
 
@@ -326,7 +326,7 @@ The two extensions are different rules in different owners. Neither stands in fo
 |---|---|---|---|
 | **Record span** | span | The stretch of time a record covers. It is not a deadline and starts no window. | [Standing Record](../core_05_band_accountability.md#standing-record); [Chapter Nine Part B §8](../core_09_b_system_alignment_certification_record_process.md#8-system-certification-record) |
 | **Retention period** | period | How long data or a record is kept | [CS-2.1](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-21-purpose-and-scope) (*Purpose and scope*) and the adopter's published rule |
-| **Transition window** | window | The published run-in for a system already operating when an instrument takes effect | [Article XXVIII-A](../core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-window) (*Phased Adoption and Rights-Floor Continuity*) |
+| **Transition window** | window | The published run-in for a system already operating when an adopting document takes effect | [Article XXVIII-A](../core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-window) (*Phased Adoption and Rights-Floor Continuity*) |
 
 **Names the owners keep as they are.** These already end in a kind word or name a date, and this list does not rename them: the default expiry of an emergency measure ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden)); recency half-life and cutoff ([Chapter Eleven §6.1 Recency and currentness](../core_11_standing_integration.md#61-recency-and-currentness)); sunset and review dates on restrictions ([CS-7.5](../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md#cs-75-least-restrictive-time-bounded-and-restoration-rules) (*Least-restrictive, time-bounded, and restoration rules*)); funding stability and change-evaluation periods ([CS-9.9](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-99-stability-of-funding-agreements) (*Stability of funding agreements*) and [CS-9.18](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-918-due-process-in-funding-changes) (*Due process in funding changes*)).
 

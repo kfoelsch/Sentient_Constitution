@@ -44,9 +44,9 @@ This file is the joint-structure implementation home for **CJS-1.9** (*CJS-1.11:
 
 <br>
 
-*In plain terms: sentients who monitor performance, give forensic help, or support investigations help the process — they do not decide who wins, unless a separate lawful instrument clearly says they may.*
+*In plain terms: sentients who monitor performance, give forensic help, or support investigations help the process — they do not decide who wins, unless a separate lawful document clearly says they may.*
 
-Roles that monitor, review how challenge or review routes perform, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05_band_accountability.md#merits-determination) under [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
+Roles that monitor, review how challenge or review routes perform, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05_band_accountability.md#merits-determination) under [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful document clearly gives a named role limited authority to decide merits issues.
 
 Institutions must publish what each role may do and what it may **not** decide — including who the role reports to, how often it reports, and how it connects to assurance work. Oversight and support roles must not quietly take over merits decisions assigned to a lawfully constituted forum family under **Chapter Thirteen**.
 

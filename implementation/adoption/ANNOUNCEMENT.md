@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Chapter Sixteen §5](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*).
+- Upstream: [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Sixteen §5](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-the-announcement); [§2](#2-say-and-do-not-say); [§3](#3-audience-notes); [§4](#4-publishing-checklist).
 - Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`../../README.md`](../../README.md); [`../../START_HERE.md`](../../START_HERE.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) (*non-adoption banner*); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; cut gates). This page does not close those gates.
 
@@ -31,7 +31,7 @@ This page holds the public announcement for this Constitution and the rules for 
 
 *In plain terms: this page supplies words and routing. It does not found, adopt, or certify anything.*
 
-This Constitution is a **model constitution** for systems that materially affect sentients ([Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)). It becomes enforceable for a particular body only after that body records a [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) instrument in its own custody. Until then the honest public invitation is: read it, use it as an operations guide, and say so plainly.
+This Constitution is a **model constitution** for systems that materially affect sentients ([Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)). It becomes enforceable for a particular body only after that body records a [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption document in its own custody. Until then the honest public invitation is: read it, use it as an operations guide, and say so plainly.
 
 Public readers land at [`../../README.md`](../../README.md). Would-be adopters and operators continue to [`../../START_HERE.md`](../../START_HERE.md). Fit ranking stays in [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). This page does not add adopter types, duties, or a compliance path.
 
@@ -112,7 +112,7 @@ What it is not
 - It is not law. It binds no one who has not adopted it.
 - Reading it, forking it, or saying "we follow it" is not adoption.
   Adoption happens only when a body that can bind its own systems
-  records a formal instrument under Chapter Seventeen.
+  records a formal adoption document under Chapter Seventeen.
 - It does not supersede local, national, or international law.
   Adoption binds only the adopting body, and only as far as that
   body already has lawful authority to bind itself. Where the
@@ -150,10 +150,10 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | Say | Do not say |
 |---|---|
 | **Pre-release.** Edition `SC-Corpus-2026.10.14`; section links may change. | “This is the launch.” “This is the publication cut.” |
-| **Model constitution.** It may guide now. It binds a body only after that body records a Chapter Seventeen instrument ([Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)). | “We launched it as law.” “Our org / city / protocol has adopted it” — unless that instrument exists. |
+| **Model constitution.** It may guide now. It binds a body only after that body records a Chapter Seventeen adoption document ([Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)). | “We launched it as law.” “Our org / city / protocol has adopted it” — unless that adoption document exists. |
 | **Does not supersede applicable law.** Publication is not a claim of supremacy over local, national, or international law. Adoption binds only the adopting body, within its lawful authority and recorded scope ([Chapter Sixteen §5](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). Where used inside an external legal framework, processes and participation must stay consistent with that framework. | “This Constitution now overrides city / national / treaty law.” “Using it as an operations guide displaces our regulator.” |
 | **Core text controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Companion files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Eighteen](../../core_18_incorporation.md#chapter-eighteen-incorporation-bridge)). | “The whole corpus is ready to implement.” “The companion files are unofficial.” |
-| **Operations-guide use** is the near-term invitation ([FIT §2](FIT_SITUATIONS.md#2-two-modes)). Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) to any shared file that is not a completed instrument. | “We follow it” as a marketing line ([FIT §5](FIT_SITUATIONS.md#5-honest-non-fits)). |
+| **Operations-guide use** is the near-term invitation ([FIT §2](FIT_SITUATIONS.md#2-two-modes)). Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) to any shared file that is not a completed adoption document. | “We follow it” as a marketing line ([FIT §5](FIT_SITUATIONS.md#5-honest-non-fits)). |
 | **Binds only what you run.** Vendors, host products, and non-consenting parties stay unbound. | “Labs and vendors in our stack are now bound.” |
 | **Same standard for both kinds of steward** ([Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)). | “AI stewards follow a separate ethics overlay.” |
 | **Who may govern is a documented legitimacy mechanism** ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers)). | “A token vote / standing score authorized this.” |
@@ -217,8 +217,8 @@ If `docs/index.md` and `README.md` diverge, **`README.md` wins**.
 | [`../../docs/corpus_index.md`](../../docs/corpus_index.md) | `/docs` blob index of numbered `core_*` files (not a second constitution) |
 | [`.github/workflows/pages.yml`](../../.github/workflows/pages.yml) | Optional Pages **render** of the same files (`make pages-site`; Pages source = GitHub Actions) |
 | [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md) | Fit tests, ranked sketches, kit routing. This page does not replace it |
-| [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
-| [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Non-adoption banner; two-party / first-instrument door |
+| [`README.md`](README.md) | This folder’s door — process path toward an adoption document, not the adoption document |
+| [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Non-adoption banner; two-party / first adoption document door |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Track A Institutional Charter fill-in for commons, protocol bodies, cooperatives |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Operations-guide next-step pointers |

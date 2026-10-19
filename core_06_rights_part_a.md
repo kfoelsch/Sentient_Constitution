@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part A**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Six, Part A**; article numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -270,7 +270,7 @@ This Article sets out the environmental and animal-life floors, from ecosystem i
 - **Environmental preconditions, integrity, and sustainability:** These Chapter Five definitions are operative here.
   - Natural systems that keep life going — air, water, soil, climate, biodiversity — hold continuity and integrity interests of their own. Those interests count alongside sentient interests when interpreting this Article.
   - Material harm that violates **Environmental Preconditions**, **Ecological Integrity**, or **Sustainability** rules is non-compliant.
-  - Harm that also violates environmental rules in the adopter's [instrument of adoption](core_17_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope is non-compliant too.
+  - Harm that also violates environmental rules in the adopter's [adoption document](core_17_amendment_ratification.md#102-adoption-document) or in incorporated implementation text within adoption scope is non-compliant too.
 - **Animal life:** [Animal Life](core_05_band_participation.md#animal-life) sits between plain environmental protection and full sentient Rights Floors.
   - It sets a minimum floor against cruelty and for basic welfare, applied under **Sentience Non-Exclusion** when welfare-like harm is in play.
   - It is not a substitute for stronger protections or for a sentience-status hearing when the facts suggest the creature may be sentient.
@@ -330,7 +330,7 @@ Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecologica
   - Report it openly and accurately, under [Transparency](core_05_band_oversight.md#transparency) and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) in Chapter Five.
 - **What this Article does not do:**
   - **Article I-B** (*Ecological Footprint and Transparency*) does not, by itself, require anyone to shrink their footprint.
-  - A duty to cut, cap, or clean up applies only when another constitutional rule, implementation file, or adoption instrument explicitly requires it.
+  - A duty to cut, cap, or clean up applies only when another constitutional rule, implementation file, or adoption document explicitly requires it.
 
 #### Article I-C: Intergenerational Responsibility
 <details>
@@ -411,7 +411,7 @@ This Article sets out when highest scrutiny applies to existential and ecologica
   
   The burden is continuing: it must be met again on new material evidence, on expansion, and at intervals proportionate to the risk. Where it is not met, the activity is non-compliant, and consequences follow [Chapter Three §3 — Non-Compliance Finding Profiles](core_03_definition_integrity.md#3-non-compliance-finding-profiles). Each authorization, continuation, or expansion determination under this Article is a [materially binding act](core_05_band_accountability.md#materially-binding-act). Its [Act Record](core_05_band_accountability.md#materially-binding-act-record) must link the actor's showing and the reviewer's assessment, and must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
 - **Present benefit limit:** Present benefit does not justify disproportionate exposure of future sentients, systems critical to ecological recovery, or life-supporting ecological conditions to civilization-scale or survival-critical harm, or any natural ecosystem, at any scale, to irreversible loss of its [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity).
-- **Named measures:** Anyone seeking authorization, continuation, or expansion under this Article must name specific reduction, cap, or interruption measures in their [instrument of adoption](core_17_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope — including harm to the climate system as an [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions) factor. Those measures must match the scale of the risk.
+- **Named measures:** Anyone seeking authorization, continuation, or expansion under this Article must name specific reduction, cap, or interruption measures in their [adoption document](core_17_amendment_ratification.md#102-adoption-document) or in incorporated implementation text within adoption scope — including harm to the climate system as an [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions) factor. Those measures must match the scale of the risk.
   - This Article still does not set a numeric target.
   - **Article I-B** (*Ecological Footprint and Transparency*) remains the footprint-measurement rule only; it does not by itself require reduction.
   - Continuing without those named measures, while a credible risk pathway remains open, is non-compliant.
@@ -785,7 +785,7 @@ This Article sets out the survival floor — ongoing resource access, stable she
     - satisfy [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
   - **Non-commodification of essential environments:** Access to essential environments carries a non-commodification floor governed by [Essential-Environment Non-Commodification](core_05_band_continuity.md#essential-environment-non-commodification). This has two parts:
     - Pricing, speculative reallocation, or other market-structured pressure is non-compliant where it defeats essential-environment access at a scale that materially implicates the survival floor.
-    - Ordinary market-structuring instruments may not narrow that floor.
+    - Ordinary market-structuring mechanisms may not narrow that floor.
 - **Connectivity:** Access to the info-sphere and to core information and communication systems is a foundational requirement for participation in modern sentient society.
   - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation.
   - Any limit on that access must satisfy [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint) where security, safety, or lawful operational limits materially require narrower access.
@@ -840,7 +840,7 @@ This Article sets out the right to care, the rules that keep it from being denie
   
   Emergency measures are also subject to [**Chapter Thirteen §6.1**](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind).
 - **Limits and implementation:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on care must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness).
-  - Cost, distribution, workforce, and system design are handled by the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) instruments named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Eighteen** discipline.
+  - Cost, distribution, workforce, and system design are handled by the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Eighteen** discipline.
   - None of that text may be read to narrow this right.
 
 #### Article III-C: Labor and Economic Floor
@@ -905,7 +905,7 @@ This Article sets out the labor and economic floor — fair compensation, collec
   - A productive-activity structure that satisfies this Article while concentrating power contrary to **Chapter One §11** (*Market Structure*) is non-compliant under that section.
   - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*), **[CJS-3.11.2 Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§11.3** (*Consolidation Ceiling*), and this Article when they materially apply.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on **Fair Compensation**, **Collective Organization**, or labor mobility must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness).
-  - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) instruments named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Eighteen** incorporation discipline.
+  - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Eighteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-D: Safe Working Conditions
@@ -943,7 +943,7 @@ This Article sets out the safe-working-conditions floor, its equal application a
   - account for foreseeable risk under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), not only under ideal conditions.
 - **Equal protection across substrates:** Withholding Safe Conditions, or applying a weaker standard, because of substrate or implementation classification rather than materially comparable risk is non-compliant under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness).
-  - Standards-setting for Safe Conditions routes to `corpus_systems.md` CS-5 (*User-facing capability surfaces*) and to the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) instruments named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Eighteen** incorporation discipline.
+  - Standards-setting for Safe Conditions routes to `corpus_systems.md` CS-5 (*User-facing capability surfaces*) and to the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Eighteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-E: Rest and Recuperation

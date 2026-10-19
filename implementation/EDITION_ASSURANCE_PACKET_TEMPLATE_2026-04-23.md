@@ -9,7 +9,7 @@
 | --- | --- |
 | Edition label | (e.g. `SC-Corpus-2026.04.31`) |
 | Effective date | (YYYY-MM-DD) |
-| Authority basis | (instrument, board resolution, custody record ref) |
+| Authority basis | (adoption document, board resolution, custody record ref) |
 
 ## 2. Changed files and scope
 

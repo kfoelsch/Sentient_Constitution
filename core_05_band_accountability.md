@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Accountability band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Accountability** constitutional band (**Def.A1–Def.A4**). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Five, Accountability band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Accountability** constitutional band (**Def.A1–Def.A4**). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -601,7 +601,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - grant or deny relief; or
     - make binding procedural decisions in an adjudicative matter.
 
-    Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless a governing instrument separately gives them lawful decision-making authority for the matter at issue.
+    Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless a governing document separately gives them lawful decision-making authority for the matter at issue.
   - **Out of scope:** ordinary negotiation, mediation, or informal settlement talk not claimed as an adjudicative pathway.
 <a id="adjudication-and-dispute-resolution-constitutional-a"></a>
 - **How to measure and assess**
@@ -614,7 +614,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="adjudication-and-dispute-resolution-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - deny access when Chapter Six or binding instruments require it;
+    - deny access when Chapter Six or binding documents require it;
     - capture forum decision power to prevent meaningful review;
     - materially exceed **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or
     - use delay instead of deciding the merits.
@@ -763,7 +763,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - preserves the current position; or
     - coordinates review.
 
-    A [Stay](core_05_band_accountability.md#stay) only pauses or limits action; it never settles the merits. Settling the main issue requires a separate [Merits Determination](core_05_band_accountability.md#merits-determination) from a sentient or body with lawful authority to make it. Monitoring findings are also procedural unless a governing instrument expressly gives the monitor limited authority to decide the merits. [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) explains how to route primary stakes and questions reserved for a merits decision; owner layers identify the questions reserved for each forum family.
+    A [Stay](core_05_band_accountability.md#stay) only pauses or limits action; it never settles the merits. Settling the main issue requires a separate [Merits Determination](core_05_band_accountability.md#merits-determination) from a sentient or body with lawful authority to make it. Monitoring findings are also procedural unless a governing document expressly gives the monitor limited authority to decide the merits. [Chapter Thirteen](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) explains how to route primary stakes and questions reserved for a merits decision; owner layers identify the questions reserved for each forum family.
 <a id="merits-determination-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant for support, oversight, forensic, investigative, or monitoring roles to issue binding merits outcomes without separate lawful authority. Those roles cannot pre-decide substantive issues assigned to a lawfully constituted merits forum, and routing, intake, or contest-integrity findings cannot be treated as final merits decisions. A merits label that does not actually resolve a substantive issue in the matter this Constitution governs is also non-compliant.
@@ -1126,7 +1126,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 *In plain terms: when required and safe, focus on repairing harm, restoring affected sentients' agency and wellbeing, providing owed restitution, and fixing root causes — not on retaliation or suffering for its own sake.*
 
 - **What it is**
-  - **In scope:** When constitutionally applicable instruments require restorative responses, give priority to:
+  - **In scope:** When constitutionally applicable documents require restorative responses, give priority to:
     - restoring affected sentients' agentic [Wellbeing](core_05_band_continuity.md#wellbeing);
     - providing restitution where owed; and
     - removing the root causes of harmful behavior.
@@ -1148,7 +1148,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Article XIII-B** (*Right to Redress and Remedy*) and designated incorporated implementation text may set procedures, but those procedures must preserve this restorative priority.
 <a id="restorative-justice-c"></a>
 - **What must hold**
-  - **Primary failure:** When binding instruments require restorative pathways, it is non-compliant to:
+  - **Primary failure:** When binding documents require restorative pathways, it is non-compliant to:
     - omit them;
     - make them inaccessible;
     - replace them with retaliation-centered processes that block proportionate restoration; or
@@ -1747,7 +1747,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 *In plain terms: an Act Record is the official trail for one [materially binding act](core_05_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.*
 
-The short form for **Materially Binding Act Record** in this instrument is **Act Record**.
+The short form for **Materially Binding Act Record** in this Constitution is **Act Record**.
 
 - **What it is**
   - **In scope:** The attributable, versioned official record for a particular [Materially Binding Act](core_05_band_accountability.md#materially-binding-act), maintained under the authority and responsibility of the [Record Seat](core_05_band_accountability.md#record-seat). It identifies and preserves the act, governing authority, required seats, determination, material handoffs and departures, clocks, challenge route and status, and the links needed to reconstruct the act under [Chapter Eight §8 Act Records and Attributable Handoffs](core_08_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
@@ -2568,7 +2568,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: Institutional forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.*
 
 - **What it is**
-  - **In scope:** The forum family for disputes where an institution is a necessary party or the main stake is what the institution may do, what it must do, how it is supervised, how adopted instruments classify it, or whether it met its institutional duties.
+  - **In scope:** The forum family for disputes where an institution is a necessary party or the main stake is what the institution may do, what it must do, how it is supervised, how adopted documents classify it, or whether it met its institutional duties.
   - **Out of scope:** purely private sentient-versus-sentient disputes with no necessary institutional party or institutional-duty stake.
 <a id="forum-family-institutional-a"></a>
 - **How to measure and assess**
@@ -2786,7 +2786,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:** Optional orientation and routing metadata attached to a material [Non-Compliance](core_05_band_integrative.md#non-compliance) finding. For audits, routing, and cross-implementation work, the profile names the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity tier** (**T1**–**T4**) that best describe the finding.
-  - **Out of scope:** parallel verdict instruments; [Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
+  - **Out of scope:** parallel verdict documents; [Chapter Ten](core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
   - **Depends on:** a material non-compliance finding under [Chapter Three](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) or an invoked Chapter Five definition.
 <a id="non-compliance-finding-profile-a"></a>
 - **How to measure and assess**
@@ -2922,7 +2922,7 @@ See **Anti-Segmentation Principle**.
     - use participant standing as a substitute for Chapter Eleven standing effects or standing locks when imposing restrictive consequences;
     - use participant standing, competency-bar, or competency-clearance labels as opaque credentialism, arbitrary gatekeeping, or insider-control devices;
     - use participant standing to permanently exclude sentients from survival-critical systems solely on standing; or
-    - use participant-standing determinations to deny audit or challenge eligibility without justification under [Proportionality](core_05_band_accountability.md#proportionality) and [Necessity](core_05_band_accountability.md#necessity) where applicable instruments require access.
+    - use participant-standing determinations to deny audit or challenge eligibility without justification under [Proportionality](core_05_band_accountability.md#proportionality) and [Necessity](core_05_band_accountability.md#necessity) where applicable documents require access.
 
 ---
 
@@ -3192,7 +3192,7 @@ See **Anti-Segmentation Principle**.
       - a challenger; or
       - an office in their control line.
 
-      Where the subject holds a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter), that instrument names or points to both. A System Charter or Institutional Charter that leaves either unnamed is invalid until it is resolved, and meanwhile the Chartered Party's own offices cannot issue a valid record for the affected scope ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)).
+      Where the subject holds a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter), that document names or points to both. A System Charter or Institutional Charter that leaves either unnamed is invalid until it is resolved, and meanwhile the Chartered Party's own offices cannot issue a valid record for the affected scope ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)).
     - Chapter Five pointer; canonical concept: Chapter Ten §2.1 (*What Question 1 must establish*); operational requirements: Chapter Ten §3 (*Verification and record requirements*).
     - A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
   - **Out of scope:**
@@ -3427,7 +3427,7 @@ See **Anti-Segmentation Principle**.
 <a id="anti-constitutional-misconduct-review-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - use Chapter Twelve criteria, an adopting instrument, process note, subsidiary body, forum shortcut, legacy tier label, character descriptor, or Chapter Ten / Chapter Eleven standing lock to assign or move the numeric Violation Axis slot; or
+    - use Chapter Twelve criteria, an adopting document, process note, subsidiary body, forum shortcut, legacy tier label, character descriptor, or Chapter Ten / Chapter Eleven standing lock to assign or move the numeric Violation Axis slot; or
     - add the designation without Chapter Twelve criteria and safeguards.
 
 ---
@@ -3947,7 +3947,7 @@ See **Anti-Segmentation Principle**.
       - Chapter Ten impact slots or Chapter Twelve designation ("final s = 8 / s = 9" predicates);
       - **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency measures;
       - **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition or re-baselining governance;
-      - adopter-instrument custody; or
+      - adopter-document custody; or
       - comparable mechanisms;
     - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in **Article XX-B** (*Restriction Floors*);
     - use of a nominally reversible durable-containment regime under **Article XX-B** (*Restriction Floors*) as a predicate for the prohibited measure; and
@@ -3971,7 +3971,7 @@ See **Anti-Segmentation Principle**.
 - **What must hold**
   - **Primary failure:** A state, operator, or comparable actor imposes irreversible deprivation of life as a justice measure — non-compliant without exception under revised **Article XX-B** (*Restriction Floors*).
   - **Secondary failure:**
-    - routing the prohibited measure through Chapter Ten impact assignment, Chapter Twelve designation, emergency framing, transition or re-baselining governance, or adopter-instrument custody to reintroduce it;
+    - routing the prohibited measure through Chapter Ten impact assignment, Chapter Twelve designation, emergency framing, transition or re-baselining governance, or adopter-document custody to reintroduce it;
     - using lasting but reversible containment under **Article XX-B** (*Restriction Floors*) as a stepping-stone or justification for the prohibited measure; or
     - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*).
   - **Tertiary failure:** Substrate-class narrowings on taxonomy grounds alone ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).

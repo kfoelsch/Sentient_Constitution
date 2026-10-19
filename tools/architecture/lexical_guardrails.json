@@ -87,6 +87,10 @@
       "prefer": "stance, approach, inputs, classification, framing, rule, profile, or a concrete noun"
     },
     {
+      "avoid": "instrument",
+      "prefer": "the specific thing it names (System Charter, Institutional Charter, rule set, record, act); otherwise document or text"
+    },
+    {
       "avoid": "Definition map",
       "prefer": "integrate term relationships in plain prose; use *In plain terms* for reader orientation"
     },

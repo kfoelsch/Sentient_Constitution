@@ -1073,7 +1073,7 @@ Three-lines assurance model
 - **What must hold**
   - **Primary failure:** Treat assurance as satisfied when the challenged operational owner also controls the only review or assurance path without an independence safeguard, or when record custody cannot support reconstruction across transfers.
 
-Default **NUL** bands (adopting instruments may tighten but must not weaken without lawful authority):
+Default **NUL** bands (adopting documents may tighten but must not weaken without lawful authority):
 - **NUL-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md) (*Information types and handling*); active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice inside the notice window; supervisory, assurance-line, and public declaration inside the declaration window, where **Type S** or protected-investigation constraints may narrow what the declaration says to protect lawful investigation integrity and never when it is made.
 - **NUL-2 (expedited):** Confirmed breach, integrity failure, or verified **CI-5.3** (*Integrity trigger taxonomy and cross-layer routing (control package)*) corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line inside the notice window, which is materially shorter than routine reporting.
 - **NUL-3 (standard):** Material control weakness or integrity finding requiring resolution but not active ongoing exposure — notice inside the notice window and inclusion in the next required control declaration if not resolved.

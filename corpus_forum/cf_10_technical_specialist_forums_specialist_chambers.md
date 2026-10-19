@@ -52,7 +52,7 @@ This file is the forum implementation home for **CF-10** (*Technical specialist 
 
 *In plain terms: **CF-10** (*Technical specialist forums*) lets a system use scientific, engineering, and medical expertise without letting that expertise harden into an unaccountable parallel judiciary. Specialist bodies sit inside the Chapter Thirteen families, publish the standards they apply, and stay reviewable.*
 
-When adopting instruments create **science specialist forums**, **engineering specialist forums**, **medical specialist forums**, or comparable technical specialist forums, those bodies must operate inside the forum families recognized in `core_13_forum.md` **Chapter Thirteen**. They may be specialized chambers or designated panels, but they must not sit outside the Chapter Thirteen forum structure.
+When adopting documents create **science specialist forums**, **engineering specialist forums**, **medical specialist forums**, or comparable technical specialist forums, those bodies must operate inside the forum families recognized in `core_13_forum.md` **Chapter Thirteen**. They may be specialized chambers or designated panels, but they must not sit outside the Chapter Thirteen forum structure.
 
 ## CF-10.2 Purpose
 
@@ -88,9 +88,9 @@ Technical specialist forums may:
 
 ## CF-10.4 Required chamber coverage
 
-*In plain terms: The specialist chambers an adopting instrument should provide at minimum, such as science, engineering, and medical.*
+*In plain terms: The specialist chambers an adopting document should provide at minimum, such as science, engineering, and medical.*
 
-Adopting instruments should specify at least:
+Adopting documents should specify at least:
 - a **science chamber** for research integrity, publication and review governance, replication, meta-research, research-record custody, and textbook or curriculum evidence disputes;
 - an **engineering chamber** for:
   - standards conformance and testing sufficiency;
@@ -108,7 +108,7 @@ Adopting instruments should specify at least:
 
 *In plain terms: Other domains that may warrant their own chamber where expert-evidence questions recur — ecology, education, statistics, and comparable fields.*
 
-Adopting instruments may also create technical specialist forums or chambers for other domains where expert-evidence governance has recurring constitutional significance, such as:
+Adopting documents may also create technical specialist forums or chambers for other domains where expert-evidence governance has recurring constitutional significance, such as:
 - ecology and climate;
 - education;
 - information and computation;
@@ -136,7 +136,7 @@ Standards must leave room for minority or emerging views that meet good-faith me
 
 *In plain terms: One body maintains a shared standard; many bodies apply it. Maintenance is centralized so the standard stays coherent, enforcement stays distributed so it stays accountable.*
 
-Where adopting instruments use common standards across multiple institutions, jurisdictions, or forum families, technical specialist forums should serve as the principal maintenance forum for those standards within their lawful subject-matter scope.
+Where adopting documents use common standards across multiple institutions, jurisdictions, or forum families, technical specialist forums should serve as the principal maintenance forum for those standards within their lawful subject-matter scope.
 
 Ordinary enforcement should remain decentralized. The constitutionally designated lead forum for the dispute applies the shared standard to the parties before it, preserves local fact sensitivity, and issues the operative remedy.
 

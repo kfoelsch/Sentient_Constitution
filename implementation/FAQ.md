@@ -9,7 +9,7 @@
 
 ### 1. Does reading this bind me?
 
-No. Opening this repository, [START_HERE.md](../START_HERE.md), or a kit is not adoption. A qualifying body becomes bound only after a Chapter Seventeen instrument exists in **that body’s** custody.
+No. Opening this repository, [START_HERE.md](../START_HERE.md), or a kit is not adoption. A qualifying body becomes bound only after a Chapter Seventeen adoption document exists in **that body’s** custody.
 
 See: [Chapter Seventeen §10](../core_17_amendment_ratification.md#10-ratification-and-adoption); [Chapter Eighteen §4](../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority).
 
@@ -27,7 +27,7 @@ See: [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-ad
 
 ### 4. What is the difference between using it as a handbook and a body agreeing to follow it?
 
-Using the ideas as a handbook is **operations-guide** use. “We adopted” is honest only after a qualifying body records a Chapter Seventeen instrument. Attach the non-adoption banner when that is the actual situation.
+Using the ideas as a handbook is **operations-guide** use. “We adopted” is honest only after a qualifying body records a Chapter Seventeen adoption document. Attach the non-adoption banner when that is the actual situation.
 
 See: [START_HERE.md §2](../START_HERE.md#2-two-ways-to-use-it); [FIT_SITUATIONS.md §2](adoption/FIT_SITUATIONS.md#2-two-modes); [non-adoption banner](adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner).
 

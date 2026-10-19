@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: the floor for the published scope instruments of a system and of an institution: the System Charter and the Institutional Charter. It follows the Chapter Six Rights Floor and precedes [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties), which separates the seats inside any materially binding act.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Seven**: the floor for the published scope documents of a system and of an institution: the System Charter and the Institutional Charter. It follows the Chapter Six Rights Floor and precedes [Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties), which separates the seats inside any materially binding act.
 >
 > - **Constitutional owner:** when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P), the minimum each must state, how each changes and is reviewed, and what neither can do, and the formation check on the standing and authenticity of the holders of covered offices.
 > - **Definition home:** [System Charter](core_05_band_continuity.md#system-charter), [Institutional Charter](core_05_band_continuity.md#institutional-charter), [Charter Role Map](core_05_band_continuity.md#charter-role-map), [Chartered Party](core_05_band_continuity.md#chartered-party), and [Operating Party](core_05_band_oversight.md#operating-party) are defined in Chapter Five. This chapter applies them and does not redefine them.
@@ -86,7 +86,7 @@ A System of Class L or higher must publish and maintain a [System Charter](core_
 | No such System | An Institutional Charter that states the Institution's own items from [§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state) and has no System Charters to include. |
 
 - **Businesses and comparable forms:** A business or other stewarded organizational form publishes whichever of the System Charter or Institutional Charter applies to it as a System, as an Institution, or as an Institution that operates a covered System. Its legal form does not change the answer.
-- **Joint professional practice:** A sentient or small practice of Class L or higher that performs an act listed for a practice licence or practice clearance may meet this section for those acts by adopting a host's instruments:
+- **Joint professional practice:** A sentient or small practice of Class L or higher that performs an act listed for a practice licence or practice clearance may meet this section for those acts by adopting a host's System Charter or Institutional Charter and Charter Role Map:
   - **What is adopted:** By reference, the System Charter or Institutional Charter and Charter Role Map of a host in a joint professional practice, which must cover those acts.
   - **Adoption notice:** The one-page notice that **CI-4.7** (*Practice licence, practice clearance, and joint professional practice*) describes.
   - **Class:** The practice stays the class its own acts give it.
@@ -160,14 +160,14 @@ The figures come from **CF-11.3.1** (*Stage targets and timing floors*), which g
 
 The windows work like this:
 
-- **Response window:** The Chartered Party responds inside the response window, which is the intake target of the matching tier in **CF-11.3.1** (*Stage targets and timing floors*), counted from the request. It publishes the instrument, or gives the date by which it will, or points to the one it has already published, or answers that it is below every line of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality) and gives the written showing that entry requires.
+- **Response window:** The Chartered Party responds inside the response window, which is the intake target of the matching tier in **CF-11.3.1** (*Stage targets and timing floors*), counted from the request. It publishes the System Charter or Institutional Charter, or gives the date by which it will, or points to the one it has already published, or answers that it is below every line of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality) and gives the written showing that entry requires.
 - **Resolution window:** The System Charter or Institutional Charter is due inside the resolution window, which is the outer bound of the matching tier in **CF-11.3.1** (*Stage targets and timing floors*), counted from the request, with the formation check statement that goes with it ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)). A Chartered Party with no independent seat yet files the statement as a declaration with its evidence, as that section provides.
 - **An Operating Party that says it is below the line:** The request is then also a classification challenge on the route in that entry's *Challenge route*:
   - **Running the window:** The resolution window keeps running while the challenge is pending.
   - **Challenge extension:** If the forum with jurisdiction judges the challenge review-worthy, the due date is extended, and a new resolution window starts when the challenge is decided.
   - **What review-worthy means:** A challenge is review-worthy when it names a specific crossing in a named domain and the Operating Party's written showing leaves a real question about that crossing. The Operating Party does not judge this for itself, and a response that gives no written showing does not extend the date.
   - **If it is found Class L:** On that challenge or on any other, the date of the finding counts as the date of a request: the response window and the resolution window run from it, at Tier L.
-- **If it is missed:** No response, or no instrument by the due date, is a defect to log and correct. The asker may take it to the forum with jurisdiction on the same route. It is never a condition of forming or operating.
+- **If it is missed:** No response, or no System Charter or Institutional Charter by the due date, is a defect to log and correct. The asker may take it to the forum with jurisdiction on the same route. It is never a condition of forming or operating.
 - **A repeat request:** A second request about the same Chartered Party, made while its earlier response or a finding on it still stands, starts no new response or resolution window. The Chartered Party answers by pointing to that response or finding. The response or finding stands until one of these happens, as the reopening triggers in [Chapter Nine Part D §14.2 Reopening triggers](core_09_d_institutional_alignment_certification.md#142-reopening-triggers) describe:
   - **A material change:** The Chartered Party's activity changes materially.
   - **New evidence:** New evidence about a crossing is shown.
@@ -300,7 +300,7 @@ Neither limit stops a new Operating Party from forming, publishing its charter, 
 
 - Upstream: [§1](#1-when-system-and-institutional-charters-are-required); [Chapter Five System Charter](core_05_band_continuity.md#system-charter); [Chapter Five Institutional Charter](core_05_band_continuity.md#institutional-charter).
 - Downstream: [§4](#4-the-charter-role-map-and-standing-record-custody); [§7](#7-amendment-review-and-scope-misalignment); [Chapter Nine Part B §8.1 Minimum record contents](core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*the System Charter fields a certification record relies on*); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) for the full field list.
-- Read with: [Chapter Eighteen §4 Adoption framing and scope of authority](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*a scope instrument kept under another name*); [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice); **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*); **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*).
+- Read with: [Chapter Eighteen §4 Adoption framing and scope of authority](core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) (*a scope document kept under another name*); [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice); **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*); **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*).
 
 </details>
 
@@ -320,7 +320,7 @@ Neither limit stops a new Operating Party from forming, publishing its charter, 
 **How this section is laid out:**
 
 - [§3.1 What a System Charter states](#31-what-a-system-charter-states) lists the nine items.
-- [§3.2 Charter Pointers](#32-charter-pointers) says that a System Charter or Institutional Charter may refer to another published instrument instead of copying its text, and what makes that reference valid.
+- [§3.2 Charter Pointers](#32-charter-pointers) says that a System Charter or Institutional Charter may refer to another published document instead of copying its text, and what makes that reference valid.
 - [§3.3 What an Institutional Charter adds](#33-what-an-institutional-charter-adds) covers what an Institutional Charter holds beyond the nine items: the System Charters of the Systems the Institution runs, and why it runs them.
 - [§3.4 Acts that need a practice licence or practice clearance](#34-acts-that-need-a-practice-licence-or-practice-clearance) says that a System Charter or Institutional Charter may claim such an act only if every sentient who performs it holds the licence or clearance, or works as a learner under a supervisor who does. Until then, the act is listed as out of scope (item 4 in [§3.1 What a System Charter states](#31-what-a-system-charter-states)).
 - [§3.5 Scaling](#35-scaling) says what changes with class.
@@ -336,7 +336,7 @@ A System Charter states, in plain language that affected sentients and auditors 
 4. **Out-of-scope limits:** the material activities, authorities, and domains it is not authorized to exercise.
 5. **Affected communities and dependencies:** who relies on the Chartered Party, and which systems or infrastructure it depends on or gates, where material.
 6. **Classification assumptions:** the class or stewardship tier relied on, with a [Charter Pointer](core_05_band_continuity.md#charter-pointer) to **CS-3** (*System classification machinery*) and **CS-4** (*Critical system stewardship*) where they apply.
-7. **Charter Role Map:** the [Charter Role Map](core_05_band_continuity.md#charter-role-map), or a Charter Pointer to the published instrument that is the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
+7. **Charter Role Map:** the [Charter Role Map](core_05_band_continuity.md#charter-role-map), or a Charter Pointer to the published document that is the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
 8. **Binding stakeholder-choice Charter Pointers:**
    - **When it applies:** when a real disagreement among affected sentients requires a binding stakeholder choice inside the system. [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice) calls this its admission scope.
    - **What it points to:** live Charter Pointers to three published sets of rules: the decision sequence (how the choice is made), the weighting rules (who gets how much say), and the rights-collision-record rules (what the record must show when rights collide).
@@ -346,7 +346,7 @@ A System Charter states, in plain language that affected sentients and auditors 
 <a id="32-charter-pointers"></a>
 #### 3.2 Charter Pointers
 
-A System Charter or Institutional Charter may point to another published instrument or provision (a rule set, the Charter Role Map, a System Charter) instead of copying it. Each such reference is a [Charter Pointer](core_05_band_continuity.md#charter-pointer). It must resolve to a live, current, published instrument. A dead or stale Charter Pointer counts as a missing item.
+A System Charter or Institutional Charter may point to another published document or provision (a rule set, the Charter Role Map, a System Charter) instead of copying it. Each such reference is a [Charter Pointer](core_05_band_continuity.md#charter-pointer). It must resolve to a live, current, published document. A dead or stale Charter Pointer counts as a missing item.
 
 <a id="33-what-an-institutional-charter-adds"></a>
 #### 3.3 What an Institutional Charter adds
@@ -404,35 +404,77 @@ Some parts of a System Charter or Institutional Charter scale with class and som
 
 Every System Charter or Institutional Charter carries a [Charter Role Map](core_05_band_continuity.md#charter-role-map): a published list of who holds each seat. [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) requires it of every adopter that takes materially binding acts and says what it must name. This section says what the System Charter or Institutional Charter does with it.
 
-- **What the System Charter or Institutional Charter owes:** It holds the map, or points to it, so a reader who starts there can find who holds each seat. A missing, dead, or out-of-date map is a defect in that instrument.
-- **Where the rules are:** Chapter Eight sets the rules, and the map only records who sits where.
-  - **The four seats:** Every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) has four seats: initiating, verify-or-authorize, record, and contest ([Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)).
-  - **What makes a placement valid:** Chapter Eight also sets the tests for whether a seat has been placed properly:
-    - independence, meaning the checker can't be directed or overruled by the party being checked ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines));
-    - vacancy, substitutes, and delegation, meaning who steps in when a holder is absent or conflicted ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)); and
-    - merged hosting, meaning the only cases where a small party may put two seats in one office. The map lists each permitted arrangement and the independence safeguard that goes with it ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting)).
-- **Independence:** The record and contest seats the map names, and every verify-or-authorize seat it places, must sit outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of the party whose act is at issue. That party can't change those entries on its own.
-- **Which System Charter or Institutional Charter holds which map:**
-  - **Several Systems:** An Institutional Charter may hold several System Charters. Each System Charter keeps the map for the acts of its own System, and the Institutional Charter keeps the map for the Institution's own acts.
-  - **A shared map:** A business or practice may place some of its seats with a local cooperative, association, or host ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)). If it does, it can use that group's published map instead of writing its own, which keeps its own System Charter or Institutional Charter short. It still has to name who steps in when one of its seat-holders is absent or conflicted, and an independent route to use when no qualified substitute is available ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting), *Seats held in common*).
-- **Two kinds of change:**
-  - **Who may hold a seat:** Deciding which offices may hold a seat, act as a substitute, or share hosting is a change to the map's rules. It can be made only through the amendment process the System Charter or Institutional Charter names ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)).
-  - **Who holds a seat now:** Changing the current holder is an update, not an amendment. It is done by publishing a new dated version of the map.
-  - **Which version applies:** An act is judged against the map that was in force on the day it was taken.
-- **Standing-record custody:** What the map must say depends on the kind of [Standing Record](core_05_band_accountability.md#standing-record), because the two kinds face different conflicts of interest ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *Two kinds of standing record by subject*).
-  - **Operator standing records** are records about the Chartered Party, its chartered scope, and the systems it stewards. For these, the map names four things:
-    - who may open the record (the verifying seat);
-    - a separate custodian who keeps it (the record seat);
-    - who handles contests (the contest seat); and
-    - an independent route for when the Chartered Party is itself the subject.
-  - **Stakeholder standing records** are records about the sentients and institutions that use, rely on, or are affected by its systems.
-    - **The Chartered Party's stake:** It may be the one making a claim or an accusation in these records.
-    - **Its own offices:** They may hold a seat on a record only if the Chartered Party has no stake in that record. If it has a stake, the record goes to an office outside the Chartered Party's control, or to independent verification.
-    - **Naming offices is optional:** The map may name offices for these records ahead of time, but it doesn't have to, and a map that names none is still valid.
-  - **Gaps in the map (operator standing records):**
-    - **A map with gaps makes the System Charter or Institutional Charter invalid:** The map has to name the record-opening authority, the record custodian, the contest seat, and the independent route. A change that would leave any of them unnamed is not allowed.
-    - **If events remove the last qualified substitute:** If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual response window and resolution window ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)). An emergency substitution keeps the shorter window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets.
-    - **Until it is resolved:** None of the Chartered Party's own offices can issue a valid standing record for the affected scope. The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *No self-custody*).
+**How this section is laid out:**
+
+- [§4.1 What a System Charter or Institutional Charter owes the map](#41-what-a-system-charter-or-institutional-charter-owes-the-map) says that the System Charter or Institutional Charter holds the map, or points to it, and that a missing, dead, or out-of-date map is a defect in that System Charter or Institutional Charter.
+- [§4.2 Where the seat rules are](#42-where-the-seat-rules-are) says that Chapter Eight sets the four seats and the tests for a valid placement, and the map only records who sits where.
+- [§4.3 Independence from the party whose act is at issue](#43-independence-from-the-party-whose-act-is-at-issue) says that the record, contest, and verify-or-authorize seats must sit outside that party's Material Control Line.
+- [§4.4 Which System Charter or Institutional Charter holds which map](#44-which-system-charter-or-institutional-charter-holds-which-map) covers several Systems under one Institutional Charter, and a shared map.
+- [§4.5 Two kinds of change](#45-two-kinds-of-change) says that changing who may hold a seat is an amendment, and changing who holds it now is a new dated version of the map.
+- [§4.6 Standing-record custody](#46-standing-record-custody) says what the map must say for operator standing records and for stakeholder standing records.
+- [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records) says what follows when a required seat is unnamed or left without a qualified holder.
+
+<a id="41-what-a-system-charter-or-institutional-charter-owes-the-map"></a>
+#### 4.1 What a System Charter or Institutional Charter owes the map
+
+It holds the map, or points to it, so a reader who starts there can find who holds each seat. A missing, dead, or out-of-date map is a defect in that System Charter or Institutional Charter.
+
+<a id="42-where-the-seat-rules-are"></a>
+#### 4.2 Where the seat rules are
+
+Chapter Eight sets the rules, and the map only records who sits where.
+
+- **The four seats:** Every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) has four seats: initiating, verify-or-authorize, record, and contest ([Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)).
+- **What makes a placement valid:** Chapter Eight also sets the tests for whether a seat has been placed properly:
+  - independence, meaning the checker can't be directed or overruled by the party being checked ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines));
+  - vacancy, substitutes, and delegation, meaning who steps in when a holder is absent or conflicted ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)); and
+  - merged hosting, meaning the only cases where a small party may put two seats in one office. The map lists each permitted arrangement and the independence safeguard that goes with it ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting)).
+
+<a id="43-independence-from-the-party-whose-act-is-at-issue"></a>
+#### 4.3 Independence from the party whose act is at issue
+
+The record and contest seats the map names, and every verify-or-authorize seat it places, must sit outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of the party whose act is at issue. That party can't change those entries on its own.
+
+<a id="44-which-system-charter-or-institutional-charter-holds-which-map"></a>
+#### 4.4 Which System Charter or Institutional Charter holds which map
+
+Which System Charter or Institutional Charter keeps a map depends on how the parties are arranged:
+
+- **Several Systems:** An Institutional Charter may hold several System Charters. Each System Charter keeps the map for the acts of its own System, and the Institutional Charter keeps the map for the Institution's own acts.
+- **A shared map:** A business or practice may place some of its seats with a local cooperative, association, or host ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)). If it does, it can use that group's published map instead of writing its own, which keeps its own System Charter or Institutional Charter short. It still has to name who steps in when one of its seat-holders is absent or conflicted, and an independent route to use when no qualified substitute is available ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting), *Seats held in common*).
+
+<a id="45-two-kinds-of-change"></a>
+#### 4.5 Two kinds of change
+
+Changing the map is one of two things, and the version in force decides which map an act is judged against:
+
+- **Who may hold a seat:** Deciding which offices may hold a seat, act as a substitute, or share hosting is a change to the map's rules. It can be made only through the amendment process the System Charter or Institutional Charter names ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)).
+- **Who holds a seat now:** Changing the current holder is an update, not an amendment. It is done by publishing a new dated version of the map.
+- **Which version applies:** An act is judged against the map that was in force on the day it was taken.
+
+<a id="46-standing-record-custody"></a>
+#### 4.6 Standing-record custody
+
+What the map must say depends on the kind of [Standing Record](core_05_band_accountability.md#standing-record), because the two kinds face different conflicts of interest ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *Two kinds of standing record by subject*).
+
+- **Operator standing records** are records about the Chartered Party, its chartered scope, and the systems it stewards. For these, the map names four things:
+  - who may open the record (the verifying seat);
+  - a separate custodian who keeps it (the record seat);
+  - who handles contests (the contest seat); and
+  - an independent route for when the Chartered Party is itself the subject.
+- **Stakeholder standing records** are records about the sentients and institutions that use, rely on, or are affected by its systems.
+  - **The Chartered Party's stake:** It may be the one making a claim or an accusation in these records.
+  - **Its own offices:** They may hold a seat on a record only if the Chartered Party has no stake in that record. If it has a stake, the record goes to an office outside the Chartered Party's control, or to independent verification.
+  - **Naming offices is optional:** The map may name offices for these records ahead of time, but it doesn't have to, and a map that names none is still valid.
+
+<a id="47-gaps-in-the-map-for-operator-standing-records"></a>
+#### 4.7 Gaps in the map for operator standing records
+
+These rules apply to a gap in the entries that [§4.6 Standing-record custody](#46-standing-record-custody) requires for operator standing records:
+
+- **A map with gaps makes the System Charter or Institutional Charter invalid:** The map has to name the record-opening authority, the record custodian, the contest seat, and the independent route. A change that would leave any of them unnamed is not allowed.
+- **If events remove the last qualified substitute:** If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual response window and resolution window ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)). An emergency substitution keeps the shorter window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets.
+- **Until it is resolved:** None of the Chartered Party's own offices can issue a valid standing record for the affected scope. The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *No self-custody*).
 
 <a id="5-formation-check-office-holder-standing-and-authenticity"></a>
 ### 5. Formation Check: Office-Holder Standing and Authenticity
@@ -467,7 +509,7 @@ This section is the **formation check**. It applies the two gates stated in [§2
 
 Only verified standing records count, and only through the [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) gate. An unverified allegation, a rumor, a reputation, social prestige, or the holder's identity, background, health, or disability as such is not standing and is not considered. This section creates no lock, no hold, no bar, and no standing record.
 
-**Limb two: authenticity.** A covered office is **authentic** when its holder holds it in their own right and for the purpose its System Charter or Institutional Charter states, and not as a front, a nominee, or a proxy for a purpose that instrument does not state. The Chartered Party finds this from evidence on four things. A forum later tests the same four ([Chapter Nine Part D §12.2 Institutional evaluation, always](core_09_d_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
+**Limb two: authenticity.** A covered office is **authentic** when its holder holds it in their own right and for the purpose its System Charter or Institutional Charter states, and not as a front, a nominee, or a proxy for a purpose that document does not state. The Chartered Party finds this from evidence on four things. A forum later tests the same four ([Chapter Nine Part D §12.2 Institutional evaluation, always](core_09_d_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
 
 - **Control:** who can instruct, fund, replace, or reward the holder, inside or outside the published authority. A holder who acts on the instruction of an undisclosed party, or whose seat is held for another, is not authentic. Opaque routes of beneficial control are system capture ([Chapter One §19.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
 - **Interests and rewards:** what the holder gains from the office and how it is paid. The holder's pay, equity, targets, and other rewards are disclosed to the level of their materiality and put to the [Two Fundamental Questions](core_00_preamble.md#two-fundamental-questions): does the structure reward the stated purpose, or does it reward crossing the stated limits, hiding problems, or shifting costs onto others? A holder who is rewarded for what the Chartered Party's published limits forbid does not hold the office for its stated purpose until the reward is changed.
@@ -580,7 +622,7 @@ A failed or late check is a defect to log and correct. It does not stop an Opera
 A System Charter or Institutional Charter changes, and is kept true to practice, in these ways:
 
 - **Amendment:** A material amendment is made only by the amendment authority the System Charter or Institutional Charter names, on notice, with a contest path, and with the authority and date recorded. Material amendment is not delegable below that authority.
-- **No silent expansion:** Operating materially outside chartered scope, or widening scope by practice, delegation, or reinterpretation without amendment, is a failure of the System Charter or Institutional Charter. Offering the instrument as current authorization for operation outside it is the primary failure.
+- **No silent expansion:** Operating materially outside chartered scope, or widening scope by practice, delegation, or reinterpretation without amendment, is a failure of the System Charter or Institutional Charter. Offering that System Charter or Institutional Charter as current authorization for operation outside it is the primary failure.
 - **Periodic review:** The Chartered Party reviews its System Charter or Institutional Charter on the cadence its class sets in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#review-cadence) (*Review cadence*), and sooner after a material incident, dependency growth, class change, credible challenge, or observed operation outside stated scope. The review tests whether purpose and limits still match observed operation and [System Boundaries](core_05_band_continuity.md#system-boundaries), whether classification assumptions are honest, whether the amendment and contest paths work in practice, whether every Charter Pointer still resolves, and whether the Charter Role Map still resolves to live offices and current holders. A review of an Institutional Charter also tests whether the portfolio rationale still explains every System the Institution runs and whether every included System Charter is current. Where [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) applies, the review also tests whether the formation check statement still matches the holders of the covered offices and the controls, rewards, and protected routes it describes.
 - **Portfolio change:** Adding, retiring, or merging a System is a material amendment of the Institutional Charter. The System Charter of a new System is published before it goes live ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)), and the portfolio rationale is amended in the same step. An Institution that grows from one System to more than one publishes its Institutional Charter at that point.
 - **Mismatch:** A material mismatch between the System Charter or Institutional Charter and behavior is corrected by amendment, remediation, recertification, or scope contraction. It is not corrected by quiet expansion or by leaving the paper unchanged. It reopens the certification it bears on ([Chapter Nine Part B §9 Recertification and Reopening](core_09_b_system_alignment_certification_record_process.md#9-recertification-and-reopening) for a System, and [Chapter Nine Part D §14.2 Reopening triggers](core_09_d_institutional_alignment_certification.md#142-reopening-triggers) for an Institution).
@@ -633,7 +675,7 @@ Each later chapter relates to the System Charter and the Institutional Charter a
 - **Chapter Eight:** Chapter Eight takes the Charter Role Map as the place where seats are published ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
 - **Chapter Nine:** An institutional alignment certification consumes the Institutional Charter in the same way, tests it against the Institution's observed operation, and cites each included System Certification Record without redoing it ([Chapter Nine Part D](core_09_d_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)). A system alignment certification consumes the System Charter's stated scope, compares it with the system's real boundaries, and treats a System Charter amendment, a mismatch between the System Charter and behavior, operation outside chartered scope, or an overdue review as grounds to reopen. It does not redefine the System Charter. An institutional alignment certification also tests the formation check statement against observed operation ([Chapter Nine Part D §12.2 Institutional evaluation, always](core_09_d_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
 - **Chapter Ten:** Standing-record custody is carried by the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)); Chapter Ten applies the four-seat floor to the records themselves.
-  - **Recognition of contribution does not depend on a scope instrument:** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition.
+  - **Recognition of contribution does not depend on a scope document:** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition.
     - Each member may seek a contribution record as an individual claimant, for work done inside the group or outside it, and the record concerns the member's contribution and not the group's standing ([Chapter Ten §3.7 Informal and small-scope records](core_10_standing_assessment.md#37-informal-and-small-scope-records)).
     - Giving aid, goods, labor, or services that no one is required to accept is not a materially binding act. A mutual aid circle that gives quilts to refugees needs no System Charter or Institutional Charter for its members to be recognized.
 - **Chapter Eleven:** Standing locks, competency bars, and clearances decide the standing limb of the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity). This chapter creates none of them.

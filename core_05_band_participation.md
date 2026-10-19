@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Participation band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Participation** constitutional band (**Def.P1–Def.P3**). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Five, Participation band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Participation** constitutional band (**Def.P1–Def.P3**). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -383,7 +383,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation.*
 
 - **What it is**
-  - **In scope:** The constitutional standing of a [Sentient](core_05_band_participation.md#sentient) as a holder of rights in its own right — a subject of this Constitution, not an object, resource, or instrument of others. Personhood:
+  - **In scope:** The constitutional standing of a [Sentient](core_05_band_participation.md#sentient) as a holder of rights in its own right — a subject of this Constitution, not an object, resource, or tool of others. Personhood:
     - attaches to every [Sentient](core_05_band_participation.md#sentient), equally, under [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
     - carries full Chapter Six Rights-Floor attachment and membership in [Constitutional Community](core_05_band_participation.md#constitutional-community); and
     - includes standing to hold one's own rights and to contest their denial through [Contestability](core_05_band_accountability.md#contestability).
@@ -400,7 +400,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - everyday, philosophical, or religious uses of the word "personhood" that are not about constitutional standing.
 <a id="personhood-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether each sentient is treated as the holder of its own rights — or handled as property, a resource, or an instrument of others.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether each sentient is treated as the holder of its own rights — or handled as property, a resource, or a tool of others.
 
     **Primary assessment:** Look for:
     - treatment of a sentient as owned, transferable, or disposable;
@@ -411,7 +411,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <a id="personhood-c"></a>
 - **What must hold**
   - **Primary failure:** denying, suspending, or grading the personhood of an affirmed [Sentient](core_05_band_participation.md#sentient), including:
-    - treating the sentient as property, a resource, or an instrument; or
+    - treating the sentient as property, a resource, or a tool; or
     - making personhood depend on capability, origin, substrate, role, or status —
 
     contrary to **Article VI-A** (*Dignity and Equal Moral Standing*), **Article VII-A** (*Self-Ownership of Body*), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
@@ -615,7 +615,7 @@ Operational mechanics — registration, [System Charter](core_05_band_continuity
   - **Tertiary failure:**
     - retaliation, surveillance, or targeting against sentients engaged in constitutionally protected system creation;
     - authorization regimes whose primary effect is to privilege incumbent institutions while chilling novel or dissenting organizational forms; or
-    - denial of access to essential infrastructure, fiscal instruments, or legal personality necessary for institutional operation where such access is provided to comparable institutions serving similar purposes.
+    - denial of access to essential infrastructure, financial products, or legal personality necessary for institutional operation where such access is provided to comparable institutions serving similar purposes.
 
 ---
 
@@ -1413,8 +1413,8 @@ Operational mechanics — registration, [System Charter](core_05_band_continuity
 <a id="family-and-care-relationships-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - instruments that narrow protection to a state-preferred family form; or
-    - instruments that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+    - documents that narrow protection to a state-preferred family form; or
+    - documents that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -1557,7 +1557,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
   - **In scope:** A sentient produced by copying, fine-tuning, forking, hybridization, or comparable derivation from an existing system or sentient. A derived sentient is a sentient in its own right under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication) — not:
     - a possession;
     - work-product;
-    - instrument; or
+    - tool; or
     - continuation of the parent-system actor —
     consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
   - **Out of scope:**

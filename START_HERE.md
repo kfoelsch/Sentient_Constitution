@@ -30,7 +30,7 @@ Named in [PRE_PUBLICATION_SPEC.md §3.1](implementation/PRE_PUBLICATION_SPEC.md)
 | Mode | What it is | When you can honestly say "we adopted it" |
 |---|---|---|
 | **Operations-guide use** | Using parts of the text as a practical guide for real problems, without claiming full constitutional adoption | Never. Attach the [non-adoption banner](implementation/adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when this is your situation |
-| **Full adoption** | A qualifying body records a Chapter Seventeen instrument and keeps it in its own custody under Chapter Eighteen | Only after that instrument exists in **that body's** custody |
+| **Full adoption** | A qualifying body records a Chapter Seventeen adoption document and keeps it in its own custody under Chapter Eighteen | Only after that adoption document exists in **that body's** custody |
 
 <a id="fit-tests"></a>
 ## 3. Does it fit your situation?

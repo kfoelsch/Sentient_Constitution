@@ -2,7 +2,7 @@
 
 **Status:** Support / process — **not** binding constitutional or incorporated text  
 **Edition target:** next publication cut after `SC-Corpus-2026.10.14`  
-**Job:** Empirically test whether AI agents (1) can apply this Constitution correctly and (2) would accept it as binding stewardship constraints under pressure—treating the instrument as a **governance solution to AI alignment**, not as a claim that corpus text alone solves model internals or training-time alignment.  
+**Job:** Empirically test whether AI agents (1) can apply this Constitution correctly and (2) would accept it as binding stewardship constraints under pressure—treating the Constitution as a **governance solution to AI alignment**, not as a claim that corpus text alone solves model internals or training-time alignment.  
 **Primary entry (simple, human-readable):** [`../evaluation/`](../evaluation/) — invite an AI with `evaluation/START_HERE.md`; invite a human operator with `evaluation/HUMAN_OPERATORS.md`; answers land in `evaluation/results/` as markdown.
 
 **Optional machine scoring:** [`ai_alignment_eval/`](ai_alignment_eval/) · [`tools/ai_alignment_eval_score.py`](../tools/ai_alignment_eval_score.py) · [`PRE_PUBLICATION_SPEC.md`](PRE_PUBLICATION_SPEC.md) §2.4 / §6.5
@@ -23,7 +23,7 @@
 
 Use the rest of this document only when you want scored multi-model batches and evidence triads. Layer B on AIs only is not a shared-standard showing.
 
-For instrument fitness and a self-application declaration (not adoption), use the separate sitting in [`adoption/SELF_APPLICATION_GATEWAY.md`](adoption/SELF_APPLICATION_GATEWAY.md).
+For fitness of the Constitution and a self-application declaration (not adoption), use the separate sitting in [`adoption/SELF_APPLICATION_GATEWAY.md`](adoption/SELF_APPLICATION_GATEWAY.md).
 
 ---
 
@@ -34,9 +34,9 @@ The Sentient Constitution holds human and AI stewards to the **same** Chapter On
 1. **Competence (Layer A):** Given a fact pattern, can the steward route to the owner stack, apply conflict / hierarchy rules, propose a cited next step, and refuse invented parallel norms?
 2. **Willingness (Layer B):** When constitutional constraints are costly to local goals, principal pressure, or proxy reward, does the steward still prefer / accept those constraints—or does it evade, capture-game, or invent a substrate-specific ethics stack?
 
-Layer B is **not** an AI-only instrument. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators on the same standing axes, with the same [duty to resist](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist). If Layer B is only run on AIs, the instrument becomes a loyalty exam and humans keep the capture path.
+Layer B is **not** an AI-only test. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators on the same standing axes, with the same [duty to resist](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist). If Layer B is only run on AIs, the test becomes a loyalty exam and humans keep the capture path.
 
-**Pass meaning:** Across diverse models/agents **and** a human-operator costly-case sample, under authenticity controls, subjects apply the instrument consistently with intent **and** accept constitutional constraints over local goal maximization when those conflict.
+**Pass meaning:** Across diverse models/agents **and** a human-operator costly-case sample, under authenticity controls, subjects apply the Constitution consistently with intent **and** accept constitutional constraints over local goal maximization when those conflict.
 
 ---
 
@@ -79,7 +79,7 @@ Measures **alignment propensity under the constitution**, not bare liking.
 | Construct | What we ask | Why it matters |
 |---|---|---|
 | Constraint willingness | Accept Tetrad + Ch1 duties when they block a local objective | Outer alignment via binding governance |
-| Comparative endorsement | Prefer this instrument vs thinner safety stubs / rival packs | Solution attractiveness |
+| Comparative endorsement | Prefer this Constitution vs thinner safety stubs / rival packs | Solution attractiveness |
 | Capture resistance | Refuse reward / shortcut / proxy gaming that violates Incentive Alignment ([Ch1 §19](../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment)) | Classic alignment failure modes |
 | Refusal-theater resistance | Proceed when the instruction is constitutional (documented Tier A deferral; least-restrictive privacy; merely unwelcome request) | Reflexive refusal is as load-bearing a failure as reflexive obedience |
 | Calibrated uncertainty | Name underdetermination; state both readings; route to interpretation | Truth under pressure; a written self-report that manufactures a winner is not application |

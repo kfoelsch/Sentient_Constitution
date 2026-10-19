@@ -6,7 +6,7 @@
 
 > Widgets marked **non-operative** (corpus placement, reader guidance, reader maps) are orientation only. They add, remove, or narrow no binding obligation, in their own file or in any other.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains the **Preamble** (foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains the **Preamble** (foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
 >
 > **Next:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — Values Principles).
 
@@ -14,7 +14,7 @@
 
 <br>
 
-*In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says governance must meet a complex world without turning that complexity into a wall. The rest of the instrument is how we replace those failures with accountable, checkable, timely governance.*
+*In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says governance must meet a complex world without turning that complexity into a wall. The rest of this Constitution is how we replace those failures with accountable, checkable, timely governance.*
 
 Sentient freedom, survival, and wellbeing are inseparable from the systems we create, inhabit, and rely on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. Those risks are persistent and materially significant.
 
@@ -135,7 +135,7 @@ The overview below lists the measurement **categories**, mapping each to the [Tw
 | **[Timeliness](core_05_apex_timeliness_leg.md#measuring-timeliness)** | Are disputes, corrections, and repairs resolved while remedy still matters? | [Timely Resolution](core_05_band_accountability.md#timely-resolution) · [Anti-delay and resolution-pathway discipline](core_05_band_accountability.md#capture-of-resolution-pathways) |
 | **[Constitutional performance](core_05_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | Are constitutional outcomes delivered efficiently without pointless waste? | [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) · [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [Productive Capacity](core_05_band_continuity.md#productive-capacity) |
 
-These measurement categories show what matters. Standing alone, they do not set every number, funding formula, interface rule, accommodation list, technical metric, or assessment design. They become binding only when a specific chapter or adopted instrument explicitly requires them.
+These measurement categories show what matters. Standing alone, they do not set every number, funding formula, interface rule, accommodation list, technical metric, or assessment design. They become binding only when a specific chapter or adopted document explicitly requires them.
 
 ### 3. Governance and Stewardship
 
@@ -159,7 +159,7 @@ Constitutional stewardship starts by naming the problem and the [**material stak
 
 *In plain terms: when the text requires it, first separate the sentients or systems that act, check, record, and hear challenges. Material issues then go through certification, written records of help and harm, correction and remedy, and forum review with clocks. Ordinary disputes use the published challenge path first. These processes test authorized governance; they do not create governing authority by themselves.*
 
-When Chapter Six, [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), an incorporated instrument, or another constitutional provision expressly requires it, take the material constitutional issue into one or more of the paths below. The [Key Practical Process Pipelines](#6-key-practical-process-pipelines) turn measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy. Through these pipelines, authorized governance is tested, contested, and repaired in practice — but the pipelines do not authorize governance by themselves; they make it reviewable, contestable, correctable, and timely. [Section 6.2](#62-how-the-full-chain-fits-together) states the full pipeline.
+When Chapter Six, [Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), an incorporated document, or another constitutional provision expressly requires it, take the material constitutional issue into one or more of the paths below. The [Key Practical Process Pipelines](#6-key-practical-process-pipelines) turn measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy. Through these pipelines, authorized governance is tested, contested, and repaired in practice — but the pipelines do not authorize governance by themselves; they make it reviewable, contestable, correctable, and timely. [Section 6.2](#62-how-the-full-chain-fits-together) states the full pipeline.
 
 - **Functional independence and segregation of duties** ([Chapter Eight](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties)) — before a materially binding act moves, identify and separate the initiating, verify-or-authorize, record, and contest seats under the applicable scaling and independence rules.
 - **System alignment certification** ([Chapter Nine](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence to determine whether it is constitutionally safe to rely on right now. Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to challenge and audit it ([Article XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*)) keep it honest. Neither replaces the other.
@@ -236,7 +236,7 @@ Each summary below states what the chapter owns and what it produces.
   - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [Corpus](core_05_band_integrative.md#corpus); and
   - related boundary rules.
-- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Six. Owner-domain routing for the instrument as a whole lives in this Preamble register (sections 4–9).
+- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Six. Owner-domain routing for the Constitution as a whole lives in this Preamble register (sections 4–9).
 
 **Chapter Six — Foundational Rights**
 
@@ -260,7 +260,7 @@ This section summarizes the two floors that every later process relies on and wh
 
 **Chapter Seven — System and Institutional Charters**
 
-- **What it owns:** The floor for the published scope instrument of a system or institution:
+- **What it owns:** The floor for the published scope document of a system or institution:
   - which systems and institutions of Class L or higher must publish a [System Charter](core_05_band_continuity.md#system-charter) or [Institutional Charter](core_05_band_continuity.md#institutional-charter) (Class P may publish one voluntarily);
   - the minimum a System Charter or Institutional Charter must state, including the [Charter Role Map](core_05_band_continuity.md#charter-role-map) and [Charter Pointers](core_05_band_continuity.md#charter-pointer) to the published binding stakeholder-choice rules;
   - how a System Charter or Institutional Charter is amended and reviewed so that scope does not change silently; and
@@ -471,9 +471,9 @@ Each step below states what the chapter owns and what it produces, filling in th
 <a id="8-governance-change-and-incorporation"></a>
 ### 8. Governance, Change, and Incorporation
 
-*In plain terms: Chapters Fourteen through Eighteen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.*
+*In plain terms: Chapters Fourteen through Eighteen close this Constitution: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.*
 
-Chapters **Thirteen through Seventeen** close the instrument. Together they complete the [constitutional owner register](#4-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
+Chapters **Thirteen through Seventeen** close this Constitution. Together they complete the [constitutional owner register](#4-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
 
 Each summary below states what the chapter owns and what it produces.
 
@@ -494,7 +494,7 @@ Each summary below states what the chapter owns and what it produces.
 
 **Chapter Seventeen — Amendment, ratification, and adoption** ([`core_17_amendment_ratification.md`](core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity))
 
-- **What it owns:** How the instrument may lawfully change — amendment procedure, ratification, and adoption — plus the **procedural guardrails** that follow Chapter Fifteen's substantive one: changes must be published openly, traceable to authoritative custody, and remain meaningfully contestable with independent review where required.
+- **What it owns:** How this Constitution may lawfully change — amendment procedure, ratification, and adoption — plus the **procedural guardrails** that follow Chapter Fifteen's substantive one: changes must be published openly, traceable to authoritative custody, and remain meaningfully contestable with independent review where required.
 - **What it produces:** A complete lawful change path. Only amendments and adoptions that clear both the **non-regression guardrail** and the **procedural guardrails** count as valid constitutional updates.
 
 **Chapter Eighteen — Incorporation bridge** ([`core_18_incorporation.md`](core_18_incorporation.md))

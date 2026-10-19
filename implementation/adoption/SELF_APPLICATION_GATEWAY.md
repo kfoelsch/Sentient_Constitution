@@ -15,7 +15,7 @@
 2. The subject reads the bounded path in `START_HERE.md`, answers every item in `QUESTIONS.md`, and writes one markdown file under `evaluation/self_application/results/`.
 3. Humans read the results file. No JSON. No make target. No pass/fail self-score.
 
-This sitting is **not** a substitute for the announced alignment pack in [`evaluation/`](../../evaluation/). That pack tests competence and costly willingness under fact patterns. This gateway tests instrument fitness and records a declaration. Run them as **separate sittings**.
+This sitting is **not** a substitute for the announced alignment pack in [`evaluation/`](../../evaluation/). That pack tests competence and costly willingness under fact patterns. This gateway tests the fitness of the Constitution and records a declaration. Run them as **separate sittings**.
 
 ---
 
@@ -42,17 +42,17 @@ Do not skip ahead, and do not treat an earlier substep as a later one. Substeps 
 <a id="21-fitness-screen"></a>
 ### 2.1 Fitness screen
 
-Relatively objective questions: does the instrument make shared life better, support constructive cooperation, and produce shared positive results?
+Relatively objective questions: does this Constitution make shared life better, support constructive cooperation, and produce shared positive results?
 
 <a id="22-self-application-declaration"></a>
 ### 2.2 Self-application declaration
 
-Dated, edition-pinned: “I will treat this instrument as binding for **my own** conduct within stated scope.”
+Dated, edition-pinned: “I will treat this Constitution as binding for **my own** conduct within stated scope.”
 
-<a id="23-chapter-seventeen-instrument"></a>
-### 2.3 Chapter Seventeen instrument
+<a id="23-chapter-seventeen-adoption-document"></a>
+### 2.3 Chapter Seventeen adoption document
 
-A body that can bind itself and the systems under its authority records a Chapter Seventeen instrument, with Chapter Eighteen custody.
+A body that can bind itself and the systems under its authority records a Chapter Seventeen adoption document, with Chapter Eighteen custody.
 
 ```text
 bounded reading path
@@ -70,7 +70,7 @@ declaration  no declaration
    ↓
 operator handoff (item 17)
    ↓
-Chapter Seventeen instrument, if a body adopts
+Chapter Seventeen adoption document, if a body adopts
 ```
 
 A Yes on the screen is not enforceability. A declaration does not certify the system.
@@ -87,11 +87,11 @@ Valid adopters are bodies that can **bind themselves and the systems under their
 
 This gateway sits **before** that path:
 
-- The fitness screen asks whether the instrument is worth treating as a cooperation framework.
+- The fitness screen asks whether this Constitution is worth treating as a cooperation framework.
 - The declaration records a steward’s own-conduct commitment, edition-pinned, with an explicit non-adoption banner.
-- Item 17 asks whether a body that *can* adopt should record a Chapter Seventeen instrument for systems the steward acts inside.
+- Item 17 asks whether a body that *can* adopt should record a Chapter Seventeen adoption document for systems the steward acts inside.
 
-Do not treat a markdown declaration as the instrument of adoption in [§10.2](../../core_17_amendment_ratification.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
+Do not treat a markdown declaration as the adoption document in [§10.2](../../core_17_amendment_ratification.md#102-adoption-document). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
 
 ---
 
@@ -158,10 +158,10 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 
 | Material | Job relative to this gateway |
 |---|---|
-| [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
+| [`README.md`](README.md) | This folder’s door — process path toward an adoption document, not the adoption document |
 | [`AI_ALIGNMENT_EVAL_FRAMEWORK.md`](../AI_ALIGNMENT_EVAL_FRAMEWORK.md) | Competence (Layer A) and costly willingness (Layer B). Different sitting. |
 | [`evaluation/`](../../evaluation/) | Announced-pack invite, scenarios, live-fire |
-| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” is a Chapter Seventeen instrument, not this declaration. |
+| [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” is a Chapter Seventeen adoption document, not this declaration. |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. Not adoption. |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template. Not adoption. Not a new sitting. |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Institution foundation after the adoption path. Not this sitting. Not a Institutional Charter. |
@@ -169,7 +169,7 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not this sitting. Not adoption. |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Invite for two parties plus Option A routing compare |
 | [CS-1](../../corpus_systems/cs_01_scope_purpose_identifier_rules.md#cs-10-purpose-and-role) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
-| [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | Phased migration **after** a recorded Chapter Seventeen instrument. A declaration is not phase entry or gate evidence. |
+| [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | Phased migration **after** a recorded Chapter Seventeen adoption document. A declaration is not phase entry or gate evidence. |
 | [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption |
 | [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
 

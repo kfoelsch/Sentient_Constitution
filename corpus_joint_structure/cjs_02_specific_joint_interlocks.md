@@ -121,7 +121,7 @@ Every covered body must use a **hybrid design** that includes both:
 
 *In plain terms: once the hybrid mix is required (**CJS-2.1.1** (*Composition floor*)), the published rules must spell out how long rotating members serve, how home-member terms work, and who may not change those durations in secret.*
 
-Where **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) applies, the instrument must publish:
+Where **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) applies, the document must publish:
 
 - a bounded formula for rotating attachment that rotating authorities can understand before service;
 - no undefined discretion over how long rotating attachment lasts;

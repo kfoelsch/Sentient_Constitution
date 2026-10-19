@@ -92,7 +92,7 @@ An alignment ruling must be attributable and reviewable. At minimum, the record 
 
 ### CF-7.1.2 Component Referral and Priority Publication
 
-Adopting instruments must publish tie-break rules for ordering component referrals and overlapping urgency. Those rules must not displace the primary-stakes assignment of merits. Published criteria must account for Rights-Floor urgency, irreversible-harm risk, classification or compliance dependency where **Chapter Ten** is implicated, evidentiary decay or preservation need, and practical resolution sequence. Opaque or caption-driven sorting at the referral threshold is presumptively non-compliant.
+Adopting documents must publish tie-break rules for ordering component referrals and overlapping urgency. Those rules must not displace the primary-stakes assignment of merits. Published criteria must account for Rights-Floor urgency, irreversible-harm risk, classification or compliance dependency where **Chapter Ten** is implicated, evidentiary decay or preservation need, and practical resolution sequence. Opaque or caption-driven sorting at the referral threshold is presumptively non-compliant.
 
 ### CF-7.1.3 Neutral Supervisory Coordination
 <details>
@@ -120,7 +120,7 @@ Integrity forums must not issue final merits determinations reserved to another 
 
 <br>
 
-Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** (*Scope-Anchored Disposition Effect*) when pattern or shared-practice stakes are material. Adopting instruments must not silently treat alignment rulings as **CF-6.1.3** (*Published Panel-Rule Disposition Effect*) general panel-rule doctrine when constitutional certification under `core_13_forum.md` **Chapter Thirteen**, **section 5** is required.
+Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting documents should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** (*Scope-Anchored Disposition Effect*) when pattern or shared-practice stakes are material. Adopting documents must not silently treat alignment rulings as **CF-6.1.3** (*Published Panel-Rule Disposition Effect*) general panel-rule doctrine when constitutional certification under `core_13_forum.md` **Chapter Thirteen**, **section 5** is required.
 
 ## CF-7.2 Constitutional alignment certification and review
 <details>

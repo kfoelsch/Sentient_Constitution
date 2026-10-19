@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part D**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Six, Part D**; article numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -1404,7 +1404,7 @@ This Article sets out the floors for independent challenge and secondary review 
 
 This Article sets out the independence and external-review floors for Constitutional forums:
 
-- **Strictest application of the non-capture safeguards:** **Constitutional forums** — and the bodies that design, seat, rotate, and remove their panels under adopting instruments — must meet every safeguard in [**Article XII-D** (*Non-Capture Safeguards*)](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (composition and conflict controls, ongoing disclosure and recusal, enforcement and routing, and no procedural gaming). No adopting instrument or forum procedure may relax those safeguards for them.
+- **Strictest application of the non-capture safeguards:** **Constitutional forums** — and the bodies that design, seat, rotate, and remove their panels under adopting documents — must meet every safeguard in [**Article XII-D** (*Non-Capture Safeguards*)](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (composition and conflict controls, ongoing disclosure and recusal, enforcement and routing, and no procedural gaming). No adopting document or forum procedure may relax those safeguards for them.
 - **Recusal failure on a Constitutional forum:** A verified failure to recuse by a **Constitutional forum** panelist follows the **Article XII-D** (*Non-Capture Safeguards*) misconduct path and integrity-first routing. A **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have stepped aside.
 - **Mandatory external review:** At defined intervals, independent external review of **Constitutional forums** is mandatory and is not reduced by material-stake scaling. By default, **Integrity** forums conduct this review under **[Chapter Thirteen §2](core_13_forum.md#2-default-venue-and-primary-stakes) (*Default venue and primary stakes*)** and the **cross-forum anti-self-judging rule** in **[Chapter Thirteen §3](core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Transfer, consolidation, and coordination — continuity and anti-capture*)**. The reviewing **Integrity** forum must be structurally separate from the **Constitutional** forum under review and must not include overlapping decision-makers from the reviewed body's recent interpretive panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Thirteen §3 (*Transfer, consolidation, and coordination — continuity and anti-capture*)** applies without narrowing this obligation. The review must assess:
   - capture indicators;

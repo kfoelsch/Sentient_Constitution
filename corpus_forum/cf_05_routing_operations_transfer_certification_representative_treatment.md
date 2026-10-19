@@ -119,7 +119,7 @@ A claim that a forum family, remedy system, or standing-integration function is 
 <a id="cf-55-institutional-and-local-registrars"></a>
 ## CF-5.5 Institutional and local registrars
 
-*In plain terms: a System Charter or Institutional Charter is only useful if someone outside the Chartered Party can say it was filed, whole, and on what date. A registrar is a clerk and not a judge. It takes the instrument in, checks that nothing required is missing, gives a receipt, and keeps a public register. It never gives permission and never rules on what the instrument says.*
+*In plain terms: a System Charter or Institutional Charter is only useful if someone outside the Chartered Party can say it was filed, whole, and on what date. A registrar is a clerk and not a judge. It takes the filing in, checks that nothing required is missing, gives a receipt, and keeps a public register. It never gives permission and never rules on what the filing says.*
 
 This subsection implements, and must not narrow, [Chapter Seven §1.5 When a System Charter or Institutional Charter is due](../core_07_charters.md#15-when-a-system-charter-or-institutional-charter-is-due) and [Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). A registrar does routine administration, which [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) section 1 keeps apart from adjudication.
 
@@ -127,32 +127,32 @@ This subsection implements, and must not narrow, [Chapter Seven §1.5 When a Sys
 - the **Institutional** forum family keeps an **Institutional registrar** for System Charters and Institutional Charters generally; and
 - a local forum with jurisdiction over the locality where a Chartered Party acts, and where the sentients it affects live, keeps a **local registrar** for local community matters. A Chartered Party whose activity and affected sentients are local lodges there.
 
-An instrument lodged at the wrong registrar is forwarded and keeps its lodging date. It is not refused.
+A filing lodged at the wrong registrar is forwarded and keeps its lodging date. It is not refused.
 
 **What a registrar does:**
 - It receives a System Charter or Institutional Charter with its Charter Role Map and formation check statement, and records the version and the date of lodging. Anyone may lodge, including a Class P Operating Party that chooses to publish.
 - It checks completeness only, against the minimum in [Chapter Seven §3 What System and Institutional Charters Must State](../core_07_charters.md#3-what-system-and-institutional-charters-must-state): each required item is present, each [Charter Pointer](../core_05_band_continuity.md#charter-pointer) resolves, and the one lodging is the governing authority or acts for it.
 - It gives a dated receipt that says the lodging is complete or lists what is missing.
-- It keeps a public register of lodged instruments, their versions, amendments, and review dates, and the two kinds of registrar share one register format.
+- It keeps a public register of lodged filings, their versions, amendments, and review dates, and the two kinds of registrar share one register format.
 - It receives a request under [Chapter Seven §1.6 If a System Charter or Institutional Charter is missing](../core_07_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing) and an insider's report of a crossing under [Domain-Specific Materiality](../core_05_band_oversight.md#domain-specific-materiality), and passes either to the intake triage body for routing under **CF-5.2** (*Intake triage body*) without judging it.
 
 **What a registrar does not do:**
 - It does not grant or withhold permission to form or operate.
-- It does not rule on class, on whether a body is below a line, or on what an instrument claims.
+- It does not rule on class, on whether a body is below a line, or on what a filing claims.
 - It does not verify or authorize a standing record. That belongs to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)), a separate office.
 - It does not run or judge the formation check in [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](../core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity).
-- It charges no fee, and it refuses an instrument for no reason other than a missing required item.
+- It charges no fee, and it refuses a filing for no reason other than a missing required item.
 
 **Time and fallback:**
-- **Silence is receipt:** If the registrar gives no receipt within seven days, the instrument counts as received on the day it was lodged.
+- **Silence is receipt:** If the registrar gives no receipt within seven days, the filing counts as received on the day it was lodged.
 - **Incomplete lodging:** The date of first lodging stands if the missing items are supplied within the time the registrar states, which is never less than seven days.
-- **Registrar unavailable:** If the registrar cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the Chartered Party publishes the instrument openly and gives notice to the forum family. That counts as lodging on the day of notice.
+- **Registrar unavailable:** If the registrar cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the Chartered Party publishes the filing openly and gives notice to the forum family. That counts as lodging on the day of notice.
 
 **Safeguards:**
-- **A receipt is not an endorsement:** The registrar's check is administrative. A forum hearing a dispute about an instrument is not bound by it.
+- **A receipt is not an endorsement:** The registrar's check is administrative. A forum hearing a dispute about a filing is not bound by it.
 - **No gate:** A registrar's delay, error, or refusal never stops a Chartered Party from forming, publishing, or operating. It is a defect to log and correct, and the Chartered Party may contest it on the route in **CF-5.2** (*Intake triage body*).
 - **No steering:** A registrar may not use funding, fees, or sorting to push Chartered Parties toward a favored forum or away from lodging.
-- **No self-judging:** Staff of the registrar who received an instrument do not sit on a merits panel hearing a dispute about it (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+- **No self-judging:** Staff of the registrar who received a filing do not sit on a merits panel hearing a dispute about it (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
 
 <a id="cf-56-integrity-registrar"></a>
 ## CF-5.6 Integrity registrar
@@ -163,7 +163,7 @@ This subsection implements, and must not narrow, [Chapter Thirteen §4.5 Integri
 
 **Where the Integrity registrar sits:** It is an administrative arm of the **Integrity** forum family's intake triage body (**CF-5.2** (*Intake triage body*)), or a functionally equivalent arrangement, with the same independence and contest expectations. A result lodged with another forum family's registrar is forwarded and keeps its lodging date.
 
-**What the Integrity registrar receives:** Results of a financial audit or a resource audit that the review cadence in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), an adopting instrument, a certification, a forum order, an external assurance trigger under **CI-7.2** (*External assurance triggers*), or the audited party's own published controls under **CI-7.1** (*Controls declaration*) call for. This subsection adds no duty to audit: the duty and its timing are in that review cadence. It says where a result goes.
+**What the Integrity registrar receives:** Results of a financial audit or a resource audit that the review cadence in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), an adopting document, a certification, a forum order, an external assurance trigger under **CI-7.2** (*External assurance triggers*), or the audited party's own published controls under **CI-7.1** (*Controls declaration*) call for. This subsection adds no duty to audit: the duty and its timing are in that review cadence. It says where a result goes.
 - A **financial audit** covers funds held, income and spending, reserves, fees and charges, and compensation and reward arrangements.
 - A **resource audit** covers the allocation and stewardship of shared or scarce resources, including the funding stewardship matters in **CS-9** (*Resource allocation and funding stewardship*).
 
@@ -209,7 +209,7 @@ This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custo
 **What it does:**
 - It logs the request and routes it the day it arrives.
 - It verifies the factual basis of the record under Chapters Two through Four and the Chapter Ten **section 3.1** gate, then authorizes the opening, correction, expiry, or supersession.
-- It names itself on the record as record-opening authority, with the reason it acted and the version of the instrument in force.
+- It names itself on the record as record-opening authority, with the reason it acted and the version of the System Charter or Institutional Charter in force.
 - It passes the authorized version to the record custodian. Where the Chartered Party's custodian is excluded, custody follows *Record custodian* in Chapter Ten **section 3.7**.
 - If the facts cannot be verified without deciding a contested merits question, it refers the record to a forum under Chapter Ten **section 3.6** and does not decide the question itself.
 

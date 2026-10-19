@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> **Chapter Nine** is split across four binding files read as one instrument:
+> **Chapter Nine** is split across four binding files read as one text:
 >
 > | Part | File | Owns |
 > |------|------|------|
