@@ -245,7 +245,29 @@ Each institution in scope must publish local procedures for the following, and m
 
 **Constitutional home:** **Chapter Six**, **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), with **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) and **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*). This subsection is **implementation-only** and must not narrow those Articles.
 
-**Ledger structure**
+**Subsections:**
+- **CI-14.4.1** (*Ledger structure*) — what each ledger row records.
+- **CI-14.4.2** (*Minimum measure families*) — the nine families every ledger measures.
+- **CI-14.4.3** (*Measurement rules*) — what counts as a measure, denominators, timing, and tolerance.
+- **CI-14.4.4** (*Enforcement-readiness declarations*) — criteria, the independent declaration, its window, contest, and staging.
+- **CI-14.4.5** (*Interim enforcement of restraint duties*) — how complaints are handled before a forum is ready.
+- **CI-14.4.6** (*Interim safeguards for gap-affected sentients*) — what sentients inside the gap receive meanwhile.
+- **CI-14.4.7** (*Verification (scaled to material stake)*) — who checks the ledger, and how.
+- **CI-14.4.8** (*Indicators that verification is unreliable*) — the signs that verification cannot be trusted.
+- **CI-14.4.9** (*Status and consequences*) — on track, at risk, failed, unmeasured, and regression.
+- **CI-14.4.10** (*Publication*) — the live ledger, the major progress report, and their limits.
+- **CI-14.4.11** (*Use in gates, reauthorization, and re-baselining*) — how gates, reauthorization, and re-baselining use it.
+- **CI-14.4.12** (*Implementation custody (local publication required)*) — what each institution publishes locally.
+
+### CI-14.4.1: Ledger structure
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.1** (*Ledger structure*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
 
 Each transition plan keeps one ledger row per Rights-Floor domain in scope — at **Article** level, and finer where attainment differs materially by class, population, or setting. Each row records:
 
@@ -262,7 +284,17 @@ Each transition plan keeps one ledger row per Rights-Floor domain in scope — a
 - the **verification tier** and the date of the last independent check; and
 - a **status**: on track, at risk, failed, or unmeasured.
 
-**Minimum measure families**
+### CI-14.4.2: Minimum measure families
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.2** (*Minimum measure families*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+The ledger covers these measure families.
 
 | Family | Question it answers | Illustrative measures |
 | --- | --- | --- |
@@ -278,7 +310,17 @@ Each transition plan keeps one ledger row per Rights-Floor domain in scope — a
 
 Institutions may add measures. They may not drop a family.
 
-**Measurement rules**
+### CI-14.4.3: Measurement rules
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.3** (*Measurement rules*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+These rules govern how the ledger measures.
 
 - **Measure what is exercised, not what is on paper:** Policies adopted, training delivered, and forms published are inputs, not attainment.
 - **Fixed denominators:** Population definitions and denominators are set in the starting measure. Changing one requires a versioned change, a parallel run of old and new measures for at least one reporting cycle, publication of both, and retention of the original.
@@ -287,7 +329,17 @@ Institutions may add measures. They may not drop a family.
 - **Tolerance stated in advance:** The plan states the tolerance band that makes a domain **at risk** and the point at which it becomes **failed**, before results are known.
 - **Privacy:** Publish aggregates with small-cell suppression. Records of individual gap-affected sentients follow data-minimization limits.
 
-**Enforcement-readiness declarations**
+### CI-14.4.4: Enforcement-readiness declarations
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.4** (*Enforcement-readiness declarations*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+These rules govern how a scope is declared enforceable.
 
 - **Criteria set in advance:** For each domain and scope, the plan states before results are known the measurable readiness criteria for institutions, capability, and culture, and the verification tier that applies.
 - **Independent declaration:** When the verified criteria are met, the independent verifying authority, or a body independent of the ledger owner, declares the floor enforceable for that scope and publishes its reasons.
@@ -300,7 +352,17 @@ Institutions may add measures. They may not drop a family.
   - **Culture and legitimacy:** contest uptake across groups; retaliation reports and findings; survey measures of awareness and trust; and operator-practice audits. Training attendance, policy adoption, and declarations of commitment do not satisfy these criteria.
 - **No narrowing:** A declaration is not withdrawn. If capacity is later lost, the ledger records the loss and **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) institutional-failure handling applies.
 
-**Interim enforcement of restraint duties**
+### CI-14.4.5: Interim enforcement of restraint duties
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.5** (*Interim enforcement of restraint duties*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+These rules apply to restraint duties while a scope's forum is not yet ready.
 
 - Until a forum or equivalent is declared ready for a scope, the restraint duties in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) are enforced through the oversight, verification, public-reporting, protected-reporting, and contest channels that already exist for that scope.
 - The plan names those channels for each scope and names who receives a complaint that a restraint duty was breached.
@@ -308,13 +370,33 @@ Institutions may add measures. They may not drop a family.
 - A complaint is not closed because the forum is not yet ready. The record shows what was done meanwhile, such as stopping the conduct, interim containment, or preservation.
 - Protected-reporting and no-retaliation protections apply.
 
-**Interim safeguards for gap-affected sentients**
+### CI-14.4.6: Interim safeguards for gap-affected sentients
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.6** (*Interim safeguards for gap-affected sentients*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+These safeguards apply to gap-affected sentients meanwhile.
 
 - Examples scaled to stake: individual accommodation, priority handling, escalation to independent review, or a documented workaround.
 - Each case may be recorded as gap-affected, and the ledger counts cases recorded and safeguards delivered.
 - These are resourced commitments until the floor is declared enforceable for the scope. They are not a substitute for the target.
 
-**Verification (scaled to material stake)**
+### CI-14.4.7: Verification (scaled to material stake)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.7** (*Verification (scaled to material stake)*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+Verification scales to the material stake.
 
 - **Lower stake:** self-reported with an audit trail and periodic independent spot-checks.
 - **Material stake:** independent sampling or measurement by a party outside the owner's reporting line, applying **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) conflict-disclosure rules.
@@ -322,7 +404,15 @@ Institutions may add measures. They may not drop a family.
 - **Lived-experience cross-check:** Each cycle, compare ledger figures with contest, complaint, protected-reporting, and forum-intake data. Unexplained divergence is itself a finding and is handled under the **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) verification-health precondition.
 - **Separation:** The ledger owner is not the independent verifying authority.
 
-**Indicators that verification is unreliable**
+### CI-14.4.8: Indicators that verification is unreliable
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.8** (*Indicators that verification is unreliable*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
 
 These indicators apply to the **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) verification-health precondition:
 
@@ -333,7 +423,17 @@ These indicators apply to the **Article XXVIII-C** (*Failure Off-Ramps, Re-Basel
 
 While any indicator persists, repair of the verification and measurement machinery takes priority over replanning, and resetting or continuing on a revised baseline is non-compliant.
 
-**Status and consequences**
+### CI-14.4.9: Status and consequences
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.9** (*Status and consequences*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+Each domain holds one of the statuses below, with the consequences stated.
 
 - **On track:** at or ahead of the current milestone.
 - **At risk:** behind the milestone but within the stated tolerance. A recovery plan is published.
@@ -341,7 +441,17 @@ While any indicator persists, repair of the verification and measurement machine
 - **Unmeasured:** treated as unattained and as a measurement priority until measured.
 - **Regression:** any recorded decline needs a published cause analysis and recovery plan by the next major progress report. It becomes **failed** if it was caused by the adopter's avoidable acts or is not recovered by the following report.
 
-**Publication**
+### CI-14.4.10: Publication
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.10** (*Publication*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+The ledger is published in the following forms.
 
 - **Live ledger:** the ledger is published continuously and updated as new measurements and verifications arrive, not held for a reporting date. Every figure shows its "as of" date and verification tier. A regression or failed status appears in the live ledger as soon as it is recorded.
 - **Major progress report:** at least every three months, and at every phase gate, the institution publishes a report that explains the ledger. It covers movement against each milestone; gaps closed, opened, or reopened; regressions and their causes; verification findings and any divergence from lived-experience signals; interim-authority shrinkage, sunsets reached, and reauthorizations with their grounds; risks, recovery plans for at-risk domains, and the next quarter's milestones.
@@ -349,13 +459,31 @@ While any indicator persists, repair of the verification and measurement machine
 - **Form:** intelligible without specialist training, with a machine-readable export so third parties can check the figures.
 - **Limits:** narrow security, safety, and privacy limits only, with the reason for any withholding stated.
 
-**Use in gates, reauthorization, and re-baselining**
+### CI-14.4.11: Use in gates, reauthorization, and re-baselining
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.11** (*Use in gates, reauthorization, and re-baselining*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
+
+The ledger feeds the following processes.
 
 - **Gates:** **CS-10.3** (*Gate criteria and advancement rules*) gate evidence includes the ledger extract and readiness declarations for every domain the next phase depends on.
 - **Reauthorization:** **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) requests attach the current ledger extract and shrinkage data.
 - **Re-baselining:** ledger history carries forward unchanged. A new plan baseline does not reset any starting measure.
 
-**Implementation custody (local publication required)**
+### CI-14.4.12: Implementation custody (local publication required)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-14.4.12** (*Implementation custody (local publication required)*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*).
+
+</details>
+
+<br>
 
 Each institution in scope must publish locally the ledger owner, independent verifying authority, measure definitions, tolerance bands, cadence, publication channel, and the process for correcting or disputing ledger data. None of these may narrow **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*), **Chapter Ten**, or the Rights-Floor Minimums Principle.
 

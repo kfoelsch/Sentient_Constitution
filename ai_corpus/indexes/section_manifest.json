@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-19T23:37:54+00:00",
+  "generated_at": "2026-10-19T23:52:56+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -1942,14 +1942,26 @@
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
-      "total_lines": 411,
+      "total_lines": 539,
       "sections": [
-        {"header":"CI-14: Transitional governance and institutional evolution","level":1,"line_start":1,"line_end":411,"anchor":null},
+        {"header":"CI-14: Transitional governance and institutional evolution","level":1,"line_start":1,"line_end":539,"anchor":null},
         {"header":"CI-14.1: Interface — **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)","level":2,"line_start":83,"line_end":113,"anchor":"#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives"},
         {"header":"CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements","level":2,"line_start":114,"line_end":161,"anchor":"#ci-142-article-xxviii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"},
         {"header":"CI-14.3: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements","level":2,"line_start":162,"line_end":233,"anchor":"#ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements"},
-        {"header":"CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication","level":2,"line_start":234,"line_end":363,"anchor":"#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication"},
-        {"header":"CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets","level":2,"line_start":364,"line_end":411,"anchor":"#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets"}
+        {"header":"CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication","level":2,"line_start":234,"line_end":491,"anchor":"#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication"},
+        {"header":"CI-14.4.1: Ledger structure","level":3,"line_start":262,"line_end":286,"anchor":null},
+        {"header":"CI-14.4.2: Minimum measure families","level":3,"line_start":287,"line_end":312,"anchor":null},
+        {"header":"CI-14.4.3: Measurement rules","level":3,"line_start":313,"line_end":331,"anchor":null},
+        {"header":"CI-14.4.4: Enforcement-readiness declarations","level":3,"line_start":332,"line_end":354,"anchor":null},
+        {"header":"CI-14.4.5: Interim enforcement of restraint duties","level":3,"line_start":355,"line_end":372,"anchor":null},
+        {"header":"CI-14.4.6: Interim safeguards for gap-affected sentients","level":3,"line_start":373,"line_end":388,"anchor":null},
+        {"header":"CI-14.4.7: Verification (scaled to material stake)","level":3,"line_start":389,"line_end":406,"anchor":null},
+        {"header":"CI-14.4.8: Indicators that verification is unreliable","level":3,"line_start":407,"line_end":425,"anchor":null},
+        {"header":"CI-14.4.9: Status and consequences","level":3,"line_start":426,"line_end":443,"anchor":null},
+        {"header":"CI-14.4.10: Publication","level":3,"line_start":444,"line_end":461,"anchor":null},
+        {"header":"CI-14.4.11: Use in gates, reauthorization, and re-baselining","level":3,"line_start":462,"line_end":477,"anchor":null},
+        {"header":"CI-14.4.12: Implementation custody (local publication required)","level":3,"line_start":478,"line_end":491,"anchor":null},
+        {"header":"CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets","level":2,"line_start":492,"line_end":539,"anchor":"#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets"}
       ]
     },
     "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md": {
