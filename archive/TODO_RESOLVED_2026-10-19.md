@@ -44,3 +44,18 @@ Question: does silence in the Charter Role Map about a certification seat (initi
 **Decision 7 additions.** The CF-5.7 draft is approved with its two flagged choices: the answer deadline reuses the class-to-Tier intake target of Chapter Seven §6 and states no day counts, and funding sits with the keeping forum family or local forum. The certification-seat clock choice (the lane map keeps placing the seat for an open pass after the Charter becomes invalid) is approved too.
 
 Translations are not synced for any of the passages edited under Cluster 1 (paused). Chapter Seventeen §1 heightened review stays open in TODO.md.
+
+## 2026-10-19 — Restricted information authority (CF-5.8) review: Cluster 2 decisions 1 to 6 approved by the steward 2026-10-19
+
+Review note: project doc `claude/restricted-information-office-unread-files-review.md` (written before the rename from "office" to "authority").
+
+- **1 (option B).** CF-13.4: the authority keeps answering during family-capture continuity; the displaced family does not appoint, staff, fund or instruct it or take part in its budget; the other families carry its share under the published formula until restoration.
+- **2 (option A).** CF-5.7 *Family capture* bullet: the same rule for the Backup Record Authority, with the keeper named by the body the continuity record names for activation oversight.
+- **4 (option A).** CS-2 Part A: a Type S access dispute goes first to the restricted information authority; other challenges go under CJS-3.13.
+- **5 (option A).** CF-5.8 *What it does not do*: two bullets, audit access (Article XVI-B, CJS-3.4) and release review (CJS-3.22).
+- **6 (option B).** Pointer only: CF-5.8 *What comes to it* and a Read-with line in the Chapter Ten §3 Trace; the operative §3.1 bullet is unchanged.
+- **Also decided:** `exculpatory` and `inculpatory` go on the do-not-use list (rule `avoid-exculpatory-family`); five uses reworded in plain words.
+
+- **3 (option A, approved later the same day).** CF-5.8 *What it decides under* now preserves material showing that a sentient is not at fault, or is less at fault (Article XIV-A); a summary, redaction or closed review may not strip it.
+
+Translations are not synced (paused).

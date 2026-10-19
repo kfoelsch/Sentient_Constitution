@@ -237,6 +237,7 @@ Each row in the table below names a common route of verified loss, danger, or du
 
 - Upstream: [§2](#2-question-1--what-happened) (*Question 1 records and event-type guide*); [Chapters Two through Four](core_02_definition_structure.md) (*record, verification, and traceability of definitions to results*).
 - Downstream: [§3.1](#31-minimum-record-contents) (*minimum contents and verified-input gate*); [§3.2](#32-related-record-cross-references) (*cross-references*); [§3.6](#36-forum-boundary) (*forum boundary*); [§3.7](#37-record-custody-and-opening-authority) (*record custody and opening authority*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2*).
+- Read with: [CF-5.8 Restricted information authority](corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md#cf-58-restricted-information-authority) (*first stop for a dispute about a disclosure limit stated under [§3.1](#31-minimum-record-contents)*).
 
 </details>
 

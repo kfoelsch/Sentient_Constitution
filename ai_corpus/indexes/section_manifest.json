@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-19T21:21:51+00:00",
+  "generated_at": "2026-10-19T22:33:21+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -832,9 +832,9 @@
       ]
     },
     "core_10_standing_assessment.md": {
-      "total_lines": 984,
+      "total_lines": 985,
       "sections": [
-        {"header":"CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT","level":1,"line_start":2,"line_end":984,"anchor":"#chapter-ten-compliance-violation-and-standing-model"},
+        {"header":"CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT","level":1,"line_start":2,"line_end":985,"anchor":"#chapter-ten-compliance-violation-and-standing-model"},
         {"header":"1. The three questions","level":3,"line_start":47,"line_end":88,"anchor":"#1-the-three-questions"},
         {"header":"1.1 Purpose and scope","level":4,"line_start":65,"line_end":88,"anchor":null},
         {"header":"2. Question 1 — what happened?","level":3,"line_start":89,"line_end":232,"anchor":"#2-question-1--what-happened"},
@@ -843,30 +843,30 @@
         {"header":"2.3 Question 1 event-type guide — what kind of help or harm occurred?","level":4,"line_start":179,"line_end":232,"anchor":"#23-question-1-event-type-guide--what-kind-of-help-or-harm-occurred"},
         {"header":"2.3.1 Contribution event types","level":5,"line_start":185,"line_end":207,"anchor":"#231-contribution-event-types"},
         {"header":"2.3.2 Violation event types","level":5,"line_start":208,"line_end":232,"anchor":"#232-violation-event-types"},
-        {"header":"3. Verification and record requirements","level":3,"line_start":233,"line_end":497,"anchor":"#3-verification-and-record-requirements"},
-        {"header":"3.1 Minimum record contents","level":4,"line_start":251,"line_end":332,"anchor":"#31-minimum-record-contents"},
-        {"header":"3.2 Related record cross-references","level":4,"line_start":333,"line_end":348,"anchor":"#32-related-record-cross-references"},
-        {"header":"3.3 Collective and actor-specific records","level":4,"line_start":349,"line_end":359,"anchor":"#33-collective-and-actor-specific-records"},
-        {"header":"3.4 Versioning","level":4,"line_start":360,"line_end":373,"anchor":"#34-versioning"},
-        {"header":"3.5 Implementation tools","level":4,"line_start":374,"line_end":379,"anchor":"#35-implementation-tools"},
-        {"header":"3.6 Forum boundary","level":4,"line_start":380,"line_end":395,"anchor":"#36-forum-boundary"},
-        {"header":"3.7 Record custody and opening authority","level":4,"line_start":396,"line_end":497,"anchor":"#37-record-custody-and-opening-authority"},
-        {"header":"4. Question 2 — how good or bad was it?","level":3,"line_start":498,"line_end":762,"anchor":"#4-question-2-how-good-or-bad-was-it"},
-        {"header":"4.1 Contribution magnitude-input dimensions","level":4,"line_start":546,"line_end":579,"anchor":"#41-contribution-magnitude-input-dimensions"},
-        {"header":"4.2 Violation severity-input dimensions","level":4,"line_start":580,"line_end":618,"anchor":"#42-violation-severity-input-dimensions"},
-        {"header":"4.3 Contribution route descriptor catalog and measurement roles","level":4,"line_start":619,"line_end":648,"anchor":"#43-contribution-route-descriptor-measurement-roles"},
-        {"header":"4.4 Violation route descriptor catalog and measurement roles","level":4,"line_start":649,"line_end":676,"anchor":"#44-violation-route-descriptor-catalog-and-measurement-roles"},
-        {"header":"4.5 Cross-question measurement hooks","level":4,"line_start":677,"line_end":713,"anchor":"#45-dual-use-classification-hooks"},
-        {"header":"4.5.1 Similar-looking facts that must stay separate","level":5,"line_start":701,"line_end":713,"anchor":"#451-similar-looking-facts-that-must-stay-separate"},
-        {"header":"4.6 Measurement illustrations","level":4,"line_start":714,"line_end":762,"anchor":"#46-question-2-measurement-illustrations"},
-        {"header":"5. Slot grammar and shared scaling","level":3,"line_start":763,"line_end":845,"anchor":"#5-slot-grammar-and-lequ-calibration"},
-        {"header":"5.1 Table 1 — slot display labels","level":4,"line_start":783,"line_end":817,"anchor":"#51-table-1--slot-display-labels"},
-        {"header":"5.2 Shared impact-scaling rules","level":4,"line_start":818,"line_end":845,"anchor":"#52-shared-impact-scaling-rules"},
-        {"header":"6. Constitutional inputs to axis assignment","level":3,"line_start":846,"line_end":901,"anchor":"#6-constitutional-inputs-to-axis-assignment"},
-        {"header":"6.1 Definition inputs","level":4,"line_start":861,"line_end":875,"anchor":"#61-definition-inputs"},
-        {"header":"6.2 Principle inputs","level":4,"line_start":876,"line_end":887,"anchor":"#62-principle-inputs"},
-        {"header":"6.3 Rights-Floor and Article inputs","level":4,"line_start":888,"line_end":901,"anchor":"#63-rights-floor-and-article-inputs"},
-        {"header":"7. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":902,"line_end":984,"anchor":"#7-unified-proportional-lequ-scale--contribution-and-violation-axes"}
+        {"header":"3. Verification and record requirements","level":3,"line_start":233,"line_end":498,"anchor":"#3-verification-and-record-requirements"},
+        {"header":"3.1 Minimum record contents","level":4,"line_start":252,"line_end":333,"anchor":"#31-minimum-record-contents"},
+        {"header":"3.2 Related record cross-references","level":4,"line_start":334,"line_end":349,"anchor":"#32-related-record-cross-references"},
+        {"header":"3.3 Collective and actor-specific records","level":4,"line_start":350,"line_end":360,"anchor":"#33-collective-and-actor-specific-records"},
+        {"header":"3.4 Versioning","level":4,"line_start":361,"line_end":374,"anchor":"#34-versioning"},
+        {"header":"3.5 Implementation tools","level":4,"line_start":375,"line_end":380,"anchor":"#35-implementation-tools"},
+        {"header":"3.6 Forum boundary","level":4,"line_start":381,"line_end":396,"anchor":"#36-forum-boundary"},
+        {"header":"3.7 Record custody and opening authority","level":4,"line_start":397,"line_end":498,"anchor":"#37-record-custody-and-opening-authority"},
+        {"header":"4. Question 2 — how good or bad was it?","level":3,"line_start":499,"line_end":763,"anchor":"#4-question-2-how-good-or-bad-was-it"},
+        {"header":"4.1 Contribution magnitude-input dimensions","level":4,"line_start":547,"line_end":580,"anchor":"#41-contribution-magnitude-input-dimensions"},
+        {"header":"4.2 Violation severity-input dimensions","level":4,"line_start":581,"line_end":619,"anchor":"#42-violation-severity-input-dimensions"},
+        {"header":"4.3 Contribution route descriptor catalog and measurement roles","level":4,"line_start":620,"line_end":649,"anchor":"#43-contribution-route-descriptor-measurement-roles"},
+        {"header":"4.4 Violation route descriptor catalog and measurement roles","level":4,"line_start":650,"line_end":677,"anchor":"#44-violation-route-descriptor-catalog-and-measurement-roles"},
+        {"header":"4.5 Cross-question measurement hooks","level":4,"line_start":678,"line_end":714,"anchor":"#45-dual-use-classification-hooks"},
+        {"header":"4.5.1 Similar-looking facts that must stay separate","level":5,"line_start":702,"line_end":714,"anchor":"#451-similar-looking-facts-that-must-stay-separate"},
+        {"header":"4.6 Measurement illustrations","level":4,"line_start":715,"line_end":763,"anchor":"#46-question-2-measurement-illustrations"},
+        {"header":"5. Slot grammar and shared scaling","level":3,"line_start":764,"line_end":846,"anchor":"#5-slot-grammar-and-lequ-calibration"},
+        {"header":"5.1 Table 1 — slot display labels","level":4,"line_start":784,"line_end":818,"anchor":"#51-table-1--slot-display-labels"},
+        {"header":"5.2 Shared impact-scaling rules","level":4,"line_start":819,"line_end":846,"anchor":"#52-shared-impact-scaling-rules"},
+        {"header":"6. Constitutional inputs to axis assignment","level":3,"line_start":847,"line_end":902,"anchor":"#6-constitutional-inputs-to-axis-assignment"},
+        {"header":"6.1 Definition inputs","level":4,"line_start":862,"line_end":876,"anchor":"#61-definition-inputs"},
+        {"header":"6.2 Principle inputs","level":4,"line_start":877,"line_end":888,"anchor":"#62-principle-inputs"},
+        {"header":"6.3 Rights-Floor and Article inputs","level":4,"line_start":889,"line_end":902,"anchor":"#63-rights-floor-and-article-inputs"},
+        {"header":"7. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":903,"line_end":985,"anchor":"#7-unified-proportional-lequ-scale--contribution-and-violation-axes"}
       ]
     },
     "core_11_standing_integration.md": {
@@ -2097,17 +2097,17 @@
       ]
     },
     "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md": {
-      "total_lines": 288,
+      "total_lines": 291,
       "sections": [
-        {"header":"CF-5: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":288,"anchor":null},
+        {"header":"CF-5: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":291,"anchor":null},
         {"header":"CF-5.1 Published intake classes","level":2,"line_start":60,"line_end":68,"anchor":null},
         {"header":"CF-5.2 Intake triage body","level":2,"line_start":69,"line_end":87,"anchor":null},
         {"header":"CF-5.3 Natural-systems representatives","level":2,"line_start":88,"line_end":103,"anchor":null},
         {"header":"CF-5.4 Capacity-failure routing","level":2,"line_start":104,"line_end":119,"anchor":"#cf-54-capacity-failure-routing"},
         {"header":"CF-5.5 Institutional and local registrars","level":2,"line_start":120,"line_end":157,"anchor":"#cf-55-institutional-and-local-registrars"},
         {"header":"CF-5.6 Integrity registrar","level":2,"line_start":158,"line_end":196,"anchor":"#cf-56-integrity-registrar"},
-        {"header":"CF-5.7 Backup Record Authority","level":2,"line_start":197,"line_end":241,"anchor":"#cf-57-backup-record-authority"},
-        {"header":"CF-5.8 Restricted information authority","level":2,"line_start":242,"line_end":288,"anchor":null}
+        {"header":"CF-5.7 Backup Record Authority","level":2,"line_start":197,"line_end":242,"anchor":"#cf-57-backup-record-authority"},
+        {"header":"CF-5.8 Restricted information authority","level":2,"line_start":243,"line_end":291,"anchor":null}
       ]
     },
     "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md": {
@@ -2245,13 +2245,13 @@
       ]
     },
     "corpus_forum/cf_13_fallback_operation.md": {
-      "total_lines": 111,
+      "total_lines": 113,
       "sections": [
-        {"header":"CF-13: Fallback operation","level":1,"line_start":1,"line_end":111,"anchor":null},
+        {"header":"CF-13: Fallback operation","level":1,"line_start":1,"line_end":113,"anchor":null},
         {"header":"CF-13.1 Temporary quorum and provisional authority","level":2,"line_start":50,"line_end":61,"anchor":null},
         {"header":"CF-13.2 Fallback venues and backup forums","level":2,"line_start":62,"line_end":72,"anchor":null},
         {"header":"CF-13.3 Capture-sensitive fallback operation","level":2,"line_start":73,"line_end":82,"anchor":null},
-        {"header":"CF-13.4 Family-capture fallback operation","level":2,"line_start":83,"line_end":111,"anchor":null}
+        {"header":"CF-13.4 Family-capture fallback operation","level":2,"line_start":83,"line_end":113,"anchor":null}
       ]
     },
     "corpus_forum/cf_14_emergency_adjudication.md": {

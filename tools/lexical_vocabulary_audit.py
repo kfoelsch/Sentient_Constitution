@@ -50,6 +50,7 @@ def _in_verifier_scope(rel_path: str) -> bool:
 # Ban the word **cure** and its forms (cured, uncured, curing, cures, curable, incurable) in the binding corpus.
 # Prefer **resolve**, **resolved**, **resolution** (the deadline and clock sense), or **fix**, **correct**, **settle** (the remedy sense).
 # Word boundaries keep unrelated words (secure, accurate, procure, obscure) clear. Anchors and hyphenated compounds such as cure-window are caught; inline code spans are documentation only.
+_EXCULPATORY_FAMILY = re.compile(r"(?<![A-Za-z0-9-])(?:exculpatory|inculpatory)(?![A-Za-z0-9-])", re.IGNORECASE)
 _CURE_FAMILY = re.compile(
     r"(?<![A-Za-z0-9])(?:un|in)?(?:cure[ds]?|curing|curable)(?![A-Za-z0-9])",
     re.IGNORECASE,
@@ -732,6 +733,25 @@ def scan_avoid_verifier(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+def scan_avoid_exculpatory_family(rel_path: str, text: str) -> list[Finding]:
+    """Reject **exculpatory** / **inculpatory** (say what the material shows: that a sentient is not at fault, is less at fault, or is at fault)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if _EXCULPATORY_FAMILY.search(re.sub(r"`[^`]*`", "", raw)):
+            findings.append(
+                Finding(file=rel_path, line=idx, rule="avoid-exculpatory-family", text=raw.strip()),
+            )
+
+    return findings
+
+
 def scan_avoid_cure_family(rel_path: str, text: str) -> list[Finding]:
     """Reject **cure** and its forms (prefer **resolve**, **resolved**, **resolution**, or **fix** / **correct** for the remedy sense)."""
     findings: list[Finding] = []
@@ -1154,6 +1174,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
+        "- **`avoid-exculpatory-family`:** reject **exculpatory** / **inculpatory** → say what the material shows: that a sentient is not at fault, is less at fault, or is at fault. *Enforced on the same files as `avoid-cure-family`; write the words in backticks when a record must quote them.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
         "- **`avoid-tribunal-family`:** reject internal Chapter Thirteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
@@ -1239,6 +1260,7 @@ def main() -> int:
         findings.extend(scan_avoid_router_read_label(rel_path, text))
         findings.extend(scan_avoid_governance_layer_labels(rel_path, text))
         findings.extend(scan_avoid_cure_family(rel_path, text))
+        findings.extend(scan_avoid_exculpatory_family(rel_path, text))
         if rel_path != "doc_architecture.md":  # its dated move log keeps the wording each move used
             findings.extend(scan_avoid_window_clock_names(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:

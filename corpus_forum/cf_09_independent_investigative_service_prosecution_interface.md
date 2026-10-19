@@ -146,7 +146,7 @@ Investigative or security-support providers must not:
 - exercise arrest, detention, search, seizure, surveillance, force, compulsory-process, or secrecy-constrained authority without the lawful authorization that would be required for the same step if performed by a public body;
 - convert a private retainer, institutional contract, forum assignment, or technical certification into coercive public authority;
 - become the final charging authority, final merits authority, or unreviewable gatekeeper of the evidentiary record;
-- suppress exculpatory, mitigating, inculpatory, impeachment, or chain-of-custody material because of funder preference, institutional pressure, forum convenience, or litigation strategy;
+- suppress material showing that a sentient is not at fault, is less at fault, or is at fault, material casting doubt on a witness, or chain-of-custody material because of funder preference, institutional pressure, forum convenience, or litigation strategy;
 - use investigative or security work to intimidate protected activity, burden lawful participation, or evade rights safeguards that would apply to equivalent public action.
 
 ## CF-9.5 Required separations
@@ -255,7 +255,7 @@ CF-9 (*Independent investigative service and prosecution interface*) adds a foru
 
 *In plain terms: The record must state scope, steps, evidence, uncertainty, and reasons — including evidence that cuts against the investigators' own theory — so a closure decision can be checked.*
 
-The investigative service must produce records that an ordinary affected sentient, a prosecutor, a forum, and a later reviewer can follow. The record must state the scope, steps taken, evidence relied on, uncertainty, preserved exculpatory and inculpatory material, and the reasons for referral or closure.
+The investigative service must produce records that an ordinary affected sentient, a prosecutor, a forum, and a later reviewer can follow. The record must state the scope, steps taken, evidence relied on, uncertainty, preserved material showing that a sentient is at fault and material showing that it is not or is less at fault, and the reasons for referral or closure.
 
 Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;

@@ -519,7 +519,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - auditability;
   - independent review;
   - reasoned authorization;
-  - preservation of exculpatory or mitigating material;
+  - preservation of material showing that a sentient is not at fault, or is less at fault;
   - eventual accountability.
 
   Where secrecy no longer remains justified, disclosure, declassification, or notice must occur within a lawful and reviewable process.
