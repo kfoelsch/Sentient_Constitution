@@ -39,27 +39,11 @@
   ],
   "fixed_periods": [
     {
-      "name": "receipt window",
-      "owner": "CF-5.5 and CF-5.6"
-    },
-    {
-      "name": "completion window",
-      "owner": "CF-5.5 and CF-5.6"
-    },
-    {
-      "name": "register-entry window",
-      "owner": "CF-5.6"
-    },
-    {
       "name": "watch period",
       "owner": "CI-13.3"
     },
     {
       "name": "order term",
-      "owner": "CI-13.5"
-    },
-    {
-      "name": "contraction review interval",
       "owner": "CI-13.5"
     },
     {
@@ -69,10 +53,6 @@
     {
       "name": "cooling-off period",
       "owner": "Article XII-E and CI-4.2"
-    },
-    {
-      "name": "attachment spell ceiling",
-      "owner": "CF-3.6 and CI-9.3.3"
     },
     {
       "name": "half-life",
@@ -85,22 +65,6 @@
     {
       "name": "exclusivity term",
       "owner": "Article XVIII-D to XVIII-F"
-    },
-    {
-      "name": "fee-use term",
-      "owner": "Article XVIII-D to XVIII-F"
-    },
-    {
-      "name": "progress report interval",
-      "owner": "Article XXVIII-A, CI-14.4, CS-10.7"
-    },
-    {
-      "name": "open-format transition window",
-      "owner": "Article XXI-D and CJS-3.17"
-    },
-    {
-      "name": "non-availability period",
-      "owner": "CS-2 Part B §9.12.1"
     },
     {
       "name": "record span",

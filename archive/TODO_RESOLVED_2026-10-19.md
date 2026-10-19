@@ -85,3 +85,15 @@ All recommendations confirmed.
 - **7 (B).** Chapter One §16.4: the Avoidable Burden defect applies "where capture was feasible and was not built".
 
 Chapter Seventeen §1 heightened review stays open in TODO.md. Translations are not synced (paused).
+
+## 2026-10-18 — Time windows, sitting 3: names and audit rule approved by the steward 2026-10-19
+
+Recommendations 1, 3, 4 and 5 confirmed. Decision 2 (the "declaration window" collision) is held open and stays in TODO.md.
+
+- **1 (A).** Domain-Specific Materiality (`core_05_band_oversight.md`): the Operating Party's answer to a classification challenge is due inside the **response window**, counted from the challenge, at the intake target of the Tier that matches the class it already holds (Tier C where none). CJS-0.4 now lists "a classification challenge" in the response window sense.
+- **3 (A).** CJS-0.4 gains two names in use: **Early-instantiation window** (Article VIII-C) and **Exclusivity term** (Article XVIII-D, CI-24). Nine registry names with no use in any owner were retired from `tools/time_reference_registry.json` (receipt window, completion window, register-entry window, contraction review interval, attachment spell ceiling, fee-use term, non-availability period, progress report interval, open-format transition window). The exclusivity term is kept.
+- **4 (A).** New lexical rule `review-in-tier-window`: review of a measure, order, hold, stay, or interim decision "inside the (matching) tier window" must say **prompt-review window**. Zero hits when added; the dated move log in `doc_architecture.md` is exempt.
+- **5 (A).** No Chapter Five definitions added for *complexity level*, *Emergency level*, or *Document at Action* (record only).
+
+Correction recorded: the sitting-3 sheet first said CI-14.4 had no "declaration window" collision and that "open-format transition window" was used by owners. Article XXVIII-A does use "Declaration windows" for the CI-14.4 enforceability declaration, and only "open-format transition controls" appears, so nine names (not eight) were unused.
+
