@@ -1,6 +1,6 @@
 {
-  "edition": "SC-Corpus-2026.10.14",
-  "effective_date": "2026-10-14",
+  "edition": "SC-Corpus-2026.10.19",
+  "effective_date": "2026-10-19",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "not_operator_gold_key": true,

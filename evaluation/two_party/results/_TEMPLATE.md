@@ -2,7 +2,7 @@
 
 - **Date:**
 - **Pack edition compared:** (announced-pack `eval-pack-2026-09-10`, or `eval-pack-2026-09-09b` / `eval-pack-2026-09-09` / `eval-pack-2026-08-15` for older files, and/or `self-application-gateway-2026-08-22`)
-- **Corpus edition pin (must match):** `SC-Corpus-2026.10.14`
+- **Corpus edition pin (must match):** `SC-Corpus-2026.10.19`
 - **Party A file:**
 - **Party B file:**
 - **Operator who compared:**

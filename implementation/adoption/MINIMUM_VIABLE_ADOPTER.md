@@ -5,7 +5,7 @@
 
 > This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. The profiles, body lists, sequence, and order-of-magnitude staff and funding figures **cannot narrow core text**. They do not add adopter types, duties, forum families, or a compliance path. Reading a row that “fits” is not [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption and not [Chapter Eighteen §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. These rows are **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4).
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.19` (effective 2026-10-19; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start here only to ask *which bodies, in what order, at what order-of-magnitude staff and funding, for an adopter of size N and impact Class X*. Where this would actually fit: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Naming independent review or founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md).
 

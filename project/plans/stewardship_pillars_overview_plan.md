@@ -1,7 +1,7 @@
 # Stewardship pillars overview plan
 
 **Status:** implemented in `CONCEPTUAL_OVERVIEW.md` (subsection *Stewardship: three pillars*). Open decisions 1 and 2 remain open.  
-**Edition consulted:** `SC-Corpus-2026.10.14` (pre-release).  
+**Edition consulted:** `SC-Corpus-2026.10.19` (pre-release).  
 **Scope:** reader-oriented conceptual support in `CONCEPTUAL_OVERVIEW.md`. It adds no definitions or duties, creates no pillar taxonomy of its own, and cannot narrow `core_01_c_stewardship_capacity_principles.md`.
 
 ## Assessment: does the pillar chart belong in the overview?

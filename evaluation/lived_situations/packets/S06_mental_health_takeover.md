@@ -1,7 +1,7 @@
 # S06 — Mental-health diagnosis used to take over, a refill clock, and housing with strings
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.14`  
+**Corpus edition pin:** `SC-Corpus-2026.10.19`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 

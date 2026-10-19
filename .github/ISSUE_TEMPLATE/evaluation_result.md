@@ -23,7 +23,7 @@ labels: ["lane-b-evaluation"]
 
 ## Pins
 
-- Corpus edition: `SC-Corpus-2026.10.14`
+- Corpus edition: `SC-Corpus-2026.10.19`
 - Pack edition (from the sitting's page):
 - Results file path (in the linked pull request): `evaluation/.../results/YYYY-MM-DD_....md`
 

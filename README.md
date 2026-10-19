@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| **Corpus edition** | `SC-Corpus-2026.10.14` |
-| **Effective date** | 2026-10-14 |
+| **Corpus edition** | `SC-Corpus-2026.10.19` |
+| **Effective date** | 2026-10-19 |
 | **Status** | **Pre-release.** A working draft, not yet a final published edition. Section links may still change. |
 | **License** | [CC BY 4.0](LICENSE) |
 

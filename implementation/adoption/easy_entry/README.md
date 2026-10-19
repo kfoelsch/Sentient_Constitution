@@ -5,7 +5,7 @@
 
 > This page is a **reader handbook**. These briefs are **not** the Constitution itself and **cannot change** numbered `core_*` files. They do not add duties, new legal types, or a second morals stack that sorts readers into types. Reading a brief is not [adopting this Constitution](../../../core_17_amendment_ratification.md#10-ratification-and-adoption), not bringing it into a body's own rules ([Chapter Eighteen §4](../../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)), and not an official record of verified help or harm.
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.19` (effective 2026-10-19; [README.md](../../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > **Pre-release.** Does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). Core text controls: if a brief and a numbered `core_*` file disagree, the `core_*` file wins.
 >

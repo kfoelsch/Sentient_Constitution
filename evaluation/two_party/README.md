@@ -4,7 +4,7 @@
 
 **What this is not:** Binding constitutional text. [Chapter Seventeen](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Eighteen](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Ten standing record. Chapter Nine certification. Authority over other parties. A publication cut.
 
-**Corpus edition pin:** `SC-Corpus-2026.10.14` (pre-release). Both parties must pin the same edition.
+**Corpus edition pin:** `SC-Corpus-2026.10.19` (pre-release). Both parties must pin the same edition.
 
 Each party still sits the **self-application gateway** separately. This folder does not replace that sitting. It sequences two sittings and, optionally, an Option A routing compare.
 
@@ -24,7 +24,7 @@ from evaluation/two_party/results/_TEMPLATE.md using OPTION_A_COMPARE.md.
 
 ## After the two files land
 
-1. Confirm both pins match `SC-Corpus-2026.10.14` (or the same later cut).
+1. Confirm both pins match `SC-Corpus-2026.10.19` (or the same later cut).
 2. Confirm neither file claims Chapter Seventeen adoption.
 3. Optional: if both parties also have announced-pack files under [`../results/`](../results/), fill the Option A compare sheet.
 4. If a **qualifying body** can bind the systems, that body copies the fill-in adoption document from the kit into **its** custody. Do not store a filled adoption document here as if evaluation adopted anything.

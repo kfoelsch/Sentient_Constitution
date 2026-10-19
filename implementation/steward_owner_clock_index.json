@@ -1,8 +1,8 @@
 {
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "pinned_to_edition": "SC-Corpus-2026.10.14",
-  "edition_effective": "2026-10-14",
+  "pinned_to_edition": "SC-Corpus-2026.10.19",
+  "edition_effective": "2026-10-19",
   "source_card": "implementation/STEWARD_ENTRY_DOORS.md",
   "shared_screen": {
     "anchor": "shared-refusal-and-logging",
