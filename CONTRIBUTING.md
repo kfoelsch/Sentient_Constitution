@@ -30,7 +30,7 @@ Where the corpus is and where it is going: [VISION.md](project/VISION.md). The w
    ```
 
    Indexes point; source binds. Never treat a locator or gloss as a duty.
-4. Make sure `make regression` runs on your machine (Python 3; no other dependencies). It takes a few minutes.
+4. Make sure `make regression` runs on your machine (Python 3; no other dependencies). It takes a few minutes. `make audit-report` runs the same checks in about half a minute and prints one line per category, with only the failures expanded.
 5. Recommended for anyone who will act as a steward while working here (refusing, logging, escalating): sit the self-application fitness screen once, [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md). It is not required to submit a pull request and it is not adoption.
 
 <a id="lanes"></a>

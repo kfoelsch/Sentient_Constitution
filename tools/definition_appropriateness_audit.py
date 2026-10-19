@@ -283,7 +283,7 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
 
 def run_cjs_placement(root: Path, findings: list[Finding]) -> int:
     hits: list[str] = []
-    hits.extend(cjs_placement.audit_cjs3_op_clusters(root))
+    hits.extend(cjs_placement.audit_cjs1_op_clusters(root))
     hits.extend(cjs_placement.audit_cjs3_letter_headings(root))
     hits.extend(cjs_placement.audit_cjs3_compass_and_frames(root))
     hits.extend(cjs_placement.audit_letter_cluster_citations(root))

@@ -3414,7 +3414,7 @@ every materially binding act has four jobs—ask or act, check, keep the officia
 
 #### 3. Independence, Conflict, and Control Lines
 
-changing the name on the desk does not create independence. A verifier or reviewer is not independent when the sentient or office seeking the result can direct, remove, reward, punish, or quietly overrule them on that act.
+changing the name on the desk does not create independence. A verifying authority or reviewer is not independent when the sentient or office seeking the result can direct, remove, reward, punish, or quietly overrule them on that act.
 
 [Source](../../core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)
 

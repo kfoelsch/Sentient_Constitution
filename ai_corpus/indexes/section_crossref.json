@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-19T18:46:24+00:00",
+  "generated_at": "2026-10-19T19:27:52+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -1109,7 +1109,7 @@
     [48,"#cf-57-backup-record-authority","CF-5.7 Backup Record Authority"],
     [48,null,"CF-5.2 Intake triage body"],
     [48,null,"CF-5.3 Natural-systems representatives"],
-    [48,null,"CF-5.8 Restricted information office"],
+    [48,null,"CF-5.8 Restricted information authority"],
     [48,null,"CF-5: Routing operations, transfer, certification, and representative treatment"],
     [49,null,"CF-6.2 Core rules"],
     [49,null,"CF-6.2.2 Emergency, Exhaustion, and Timing Rules"],

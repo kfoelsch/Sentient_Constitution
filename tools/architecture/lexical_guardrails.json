@@ -101,6 +101,10 @@
     {
       "avoid": "cure",
       "prefer": "resolve, resolved (for cured: resolved; for curing: resolving)"
+    },
+    {
+      "avoid": "verifier",
+      "prefer": "verifying authority (the body or sentient that verifies, authorizes, or decides)"
     }
   ],
   "ambiguous_labels": [

@@ -37,6 +37,16 @@ def _in_instrument_scope(rel_path: str) -> bool:
 
 _INSTRUMENT_WORD = re.compile(r"(?<![A-Za-z0-9-])instruments?(?![A-Za-z0-9-])", re.IGNORECASE)
 
+# Ban the noun **verifier** / **verifiers** (custodian decision, 2026-10-19; TERM-BODY-01). A body or sentient that verifies, authorizes, or
+# decides is an **authority**: say **verifying authority**. Enforced on the files the instrument ban covers, except `evaluation/` and `project/`
+# (the contributor role "Register verifier" in CONTRIBUTING.md is a project role, not constitutional text, and CONTRIBUTING.md is not scanned).
+_VERIFIER_WORD = re.compile(r"(?<![A-Za-z0-9-])verifiers?(?![A-Za-z0-9-])", re.IGNORECASE)
+_VERIFIER_EXEMPT_PREFIXES = ("evaluation/", "project/")
+
+
+def _in_verifier_scope(rel_path: str) -> bool:
+    return _in_instrument_scope(rel_path) and not rel_path.startswith(_VERIFIER_EXEMPT_PREFIXES)
+
 # Ban the word **cure** and its forms (cured, uncured, curing, cures, curable, incurable) in the binding corpus.
 # Prefer **resolve**, **resolved**, **resolution** (the deadline and clock sense), or **fix**, **correct**, **settle** (the remedy sense).
 # Word boundaries keep unrelated words (secure, accurate, procure, obscure) clear. Anchors and hyphenated compounds such as cure-window are caught; inline code spans are documentation only.
@@ -695,6 +705,33 @@ def scan_avoid_instrument(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+def scan_avoid_verifier(rel_path: str, text: str) -> list[Finding]:
+    """Reject **verifier** / **verifiers** (prefer **verifying authority**; a body that verifies, authorizes, or decides is an authority)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        prose = re.sub(r"`[^`]*`", "", raw)
+        prose = re.sub(r"\]\([^)]*\)", "]", prose)  # link targets
+        prose = re.sub(r'id="[^"]*"', "", prose)
+        if _VERIFIER_WORD.search(prose):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-verifier",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def scan_avoid_cure_family(rel_path: str, text: str) -> list[Finding]:
     """Reject **cure** and its forms (prefer **resolve**, **resolved**, **resolution**, or **fix** / **correct** for the remedy sense)."""
     findings: list[Finding] = []
@@ -1116,6 +1153,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
+        "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
         "- **`avoid-tribunal-family`:** reject internal Chapter Thirteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
@@ -1207,6 +1245,8 @@ def main() -> int:
             findings.extend(scan_avoid_breach_family(rel_path, text))
         if _in_instrument_scope(rel_path):
             findings.extend(scan_avoid_instrument(rel_path, text))
+        if _in_verifier_scope(rel_path):
+            findings.extend(scan_avoid_verifier(rel_path, text))
 
     if not args.scope:
         # The instrument ban also covers reader-facing files outside the binding scope (kits, guides, front doors).
@@ -1216,6 +1256,8 @@ def main() -> int:
                 if rel_path in scope or not _in_instrument_scope(rel_path):
                     continue
                 findings.extend(scan_avoid_instrument(rel_path, load_text(extra)))
+                if _in_verifier_scope(rel_path):
+                    findings.extend(scan_avoid_verifier(rel_path, load_text(extra)))
 
     report = report_markdown(args.date, scope, findings)
     if args.write_evidence:

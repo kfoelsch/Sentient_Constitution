@@ -227,7 +227,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
     **Primary assessment:** Confirm from the record that:
     - the criteria were published before the phase began;
-    - each states its measure, threshold, owner, and independent verifier;
+    - each states its measure, threshold, owner, and independent verifying authority;
     - the evidence was verified by someone independent of the owner; and
     - affected stakeholders could comment on the criteria before adoption and could see the evidence and the decision afterward.
   - **Secondary measure:** [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
