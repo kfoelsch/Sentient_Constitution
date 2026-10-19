@@ -307,7 +307,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 | **Challenge extension** | window | Extends the resolution window while a classification challenge is pending | Chapter Seven §1.6 |
 | **Good-faith extension** | window | One extension of the resolution window on a showing of good-faith progress and no continuing harm | CI-13.3 (*Notice, response, and resolution*) |
 
-Both windows take the Tier that matches the Chartered Party's class: Class A, B, C, or L takes Tier A, B, C, or L, and a class in question counts at Tier L until it is settled. Class P takes Tier P where **CI-13.3** (*Notice, response, and resolution*) applies to it.
+Both windows take the Tier that matches the Chartered Party's class: Class A, B, C, or L takes Tier A, B, C, or L, and a class in question counts at the Tier of the class the Chartered Party already holds on its System Classification Record until it is settled, or at Tier C where it holds none. Class P takes Tier P where **CI-13.3** (*Notice, response, and resolution*) applies to it.
 
 The two extensions are different rules in different owners. Neither stands in for the other.
 

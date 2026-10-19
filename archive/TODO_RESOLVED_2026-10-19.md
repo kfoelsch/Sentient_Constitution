@@ -59,3 +59,15 @@ Review note: project doc `claude/restricted-information-office-unread-files-revi
 - **3 (option A, approved later the same day).** CF-5.8 *What it decides under* now preserves material showing that a sentient is not at fault, or is less at fault (Article XIV-A); a summary, redaction or closed review may not strip it.
 
 Translations are not synced (paused).
+
+## 2026-10-18 — Time windows, sitting 1: seven decisions approved by the steward 2026-10-19
+
+- **1 (option B).** CS-2 §8.5 and CS-3 §7.5 restore the bullet "no later than the intake target of the tier that matches the system's class, counted from when changed conditions are recognized", beside the certification-interval check; the CS-3 §3.5 pointer names it again. The record-update reading in the Test 1 note is resolved.
+- **2 (option B).** CF-11.3.2: the fuller record is due no later than the end of the prompt-review window of the matter's tier (was the tier outer bound).
+- **3 (option A).** CF-11.3.2 "Reasons are recorded as part of the decision, not after it" confirmed.
+- **4 (option A).** CF-12.6 Document at Action wording confirmed.
+- **5 (option A).** Chapter Seven §1.6 windows for a missing System Charter or Institutional Charter keep the tier scale for all classes (Class L: response 8 days, resolution 60 days). Added to the Test 1 note.
+- **6 (steward's own option).** A Chartered Party that disputes its class has the windows of the class it already holds on its System Classification Record. The steward chose this over my option C. **Gap I filled:** a party that holds no class on record is counted at Tier C (my drafting; the old rule was Tier L). The regression scenario for the tool-lending club now says Tier C.
+- **7 (option A).** The repeat-request clarification in Chapter Seven §1.6 confirmed as written.
+
+Chapter Seventeen §1 heightened review stays open in TODO.md. Translations are not synced (paused).

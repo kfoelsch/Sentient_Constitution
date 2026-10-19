@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-19T22:33:21+00:00",
+  "generated_at": "2026-10-19T23:01:04+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -1505,9 +1505,9 @@
       ]
     },
     "corpus_systems/cs_02_a_information_types_and_handling.md": {
-      "total_lines": 689,
+      "total_lines": 690,
       "sections": [
-        {"header":"CS-2, Part A: Information types and handling","level":1,"line_start":2,"line_end":689,"anchor":"#cs-2-part-a-information-types-and-handling"},
+        {"header":"CS-2, Part A: Information types and handling","level":1,"line_start":2,"line_end":690,"anchor":"#cs-2-part-a-information-types-and-handling"},
         {"header":"CS-2.1 Purpose and scope","level":2,"line_start":22,"line_end":138,"anchor":"#cs-2-1-purpose-and-scope"},
         {"header":"CS-2.2 Determination of classification","level":2,"line_start":139,"line_end":164,"anchor":"#cs-2-2-determination-of-classification"},
         {"header":"CS-2.3 Temporal, systemic, and dependency scope of rights","level":2,"line_start":165,"line_end":173,"anchor":"#cs-2-3-temporal-systemic-and-dependency-scope-of-rights"},
@@ -1515,7 +1515,7 @@
         {"header":"CS-2.5 Cross-domain governance principles","level":2,"line_start":190,"line_end":427,"anchor":"#cs-2-5-cross-domain-governance-principles"},
         {"header":"CS-2.6 Data separation and attribution","level":2,"line_start":428,"line_end":530,"anchor":"#cs-2-6-data-separation-and-attribution"},
         {"header":"CS-2.7 Type O baseline for Class A/B/C systems","level":2,"line_start":531,"line_end":563,"anchor":"#cs-2-7-type-o-baseline-for-class-a-b-c-systems"},
-        {"header":"CS-2.8 System Data Types Record governance","level":2,"line_start":564,"line_end":689,"anchor":"#cs-2-8-system-data-types-record-governance"}
+        {"header":"CS-2.8 System Data Types Record governance","level":2,"line_start":564,"line_end":690,"anchor":"#cs-2-8-system-data-types-record-governance"}
       ]
     },
     "corpus_systems/cs_02_b_data_classifications.md": {
@@ -1561,16 +1561,16 @@
       ]
     },
     "corpus_systems/cs_03_a_system_classification_machinery.md": {
-      "total_lines": 564,
+      "total_lines": 565,
       "sections": [
-        {"header":"CS-3, Part A: System classification machinery","level":1,"line_start":2,"line_end":564,"anchor":"#cs-3-part-a-system-classification-machinery"},
+        {"header":"CS-3, Part A: System classification machinery","level":1,"line_start":2,"line_end":565,"anchor":"#cs-3-part-a-system-classification-machinery"},
         {"header":"CS-3.1 Purpose and scope","level":2,"line_start":24,"line_end":108,"anchor":"#cs-3-1-purpose-and-scope"},
         {"header":"CS-3.2 Classification dimensions and real-world application","level":2,"line_start":109,"line_end":145,"anchor":"#cs-3-2-classification-dimensions-and-real-world-application"},
         {"header":"CS-3.3 Criticality, concentration, temporal, and adversarial factors","level":2,"line_start":146,"line_end":218,"anchor":"#cs-3-3-criticality-concentration-temporal-and-adversarial-factors"},
         {"header":"CS-3.4 Dependency types (Dep-A–P)","level":2,"line_start":219,"line_end":251,"anchor":"#cs-3-4-dependency-types-dep-a-p"},
         {"header":"CS-3.5 Boundaries, timeframes, and resilience","level":2,"line_start":252,"line_end":278,"anchor":"#cs-3-5-boundaries-timeframes-and-resilience"},
         {"header":"CS-3.6 Domain taxonomy, ordinary examples, and scarce-capacity handling","level":2,"line_start":279,"line_end":339,"anchor":"#cs-3-6-domain-taxonomy-ordinary-examples-and-scarce-capacity-handling"},
-        {"header":"CS-3.7 Classification governance, disclosure, and challenge","level":2,"line_start":340,"line_end":564,"anchor":"#cs-3-7-classification-governance-disclosure-and-challenge"}
+        {"header":"CS-3.7 Classification governance, disclosure, and challenge","level":2,"line_start":340,"line_end":565,"anchor":"#cs-3-7-classification-governance-disclosure-and-challenge"}
       ]
     },
     "corpus_systems/cs_03_b_system_impact_classifications.md": {
