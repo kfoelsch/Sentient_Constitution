@@ -250,7 +250,7 @@ flowchart TB
 - **The first two are the only gates** on forming an Operating Party or holding authority in it. Each attaches to a named subject:
   - **An outstanding lock** ([§2.2 First limit: an outstanding lock](#22-first-limit-an-outstanding-lock)) attaches to a named sentient in one office that controls the Chartered Party. It also attaches to a Chartered Party that is itself under a lock, including one that a forum has dissolved.
   - **A probable-cause hold** ([§2.3 Second limit: a short hold on probable cause](#23-second-limit-a-short-hold-on-probable-cause)) attaches only to one named sentient in one office that controls the Chartered Party.
-- **The third is not a gate.** It is a practice licence or clearance ([§2.4 Third limit: a practice licence or clearance](#24-third-limit-a-practice-licence-or-clearance)).
+- **The third is not a gate:** It is a practice licence or clearance ([§2.4 Third limit: a practice licence or clearance](#24-third-limit-a-practice-licence-or-clearance)).
 - **How this section is laid out:** [§2.1 The right to form](#21-the-right-to-form) comes first, then one subsection for each limit.
 
 <a id="21-the-right-to-form"></a>
@@ -258,7 +258,7 @@ flowchart TB
 
 Anyone may form a new system, institution, or business. That right is set out in [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). This chapter adds the duty that comes next. Once what an Operating Party does is material to others in any one of the nine areas of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality), it must say in public, ahead of time, what it claims authority to do ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
 
-**Who the right to form does not cover.** Apart from the two gates in [§2.2](#22-first-limit-an-outstanding-lock) and [§2.3](#23-second-limit-a-short-hold-on-probable-cause), **Article XI-E** (*Institutional Formation and Business Creation*) does not protect:
+**Who the right to form does not cover.** Apart from the two gates in [§2.2 First limit: an outstanding lock](#22-first-limit-an-outstanding-lock) and [§2.3 Second limit: a short hold on probable cause](#23-second-limit-a-short-hold-on-probable-cause), **Article XI-E** (*Institutional Formation and Business Creation*) does not protect:
 
 - an Operating Party designed to break a Constitutional Constraint, to undermine Safety or Truth, or to concentrate power in ways [Chapter One §11 Market Structure](core_01_a_values_principles.md#11-market-structure) rules out; or
 - an Operating Party formed or run by a founder who is not authentically aligned with its stated purpose (genuinely committed to it), or who means to mislead others about its purpose, control, or interests, or to harm others.
@@ -280,10 +280,12 @@ A [standing lock](core_11_standing_integration.md#42-prevention--general-standin
 
 This limit applies when a forum with jurisdiction has ordered an [Interim Hold](core_05_band_accountability.md#interim-hold) on specific verified facts that make it more likely than not that the holder is misaligned with the Chartered Party's stated purpose. Only that forum can order it ([Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway)). The Chartered Party can't decide on its own to bar someone from an office, because that would make it the judge of its own member.
 
-Neither limit stops a new Operating Party from forming, publishing its charter, or getting to work. The only party they stop is one that is itself under a lock, such as a dissolved Chartered Party trying to come back. Both limits are applied at the formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
+Neither limit stops a new Operating Party from forming, publishing its System Charter or Institutional Charter, or getting to work. The only party they stop is one that is itself under a lock, such as a dissolved Chartered Party trying to come back. Both limits are applied at the formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
 
 <a id="24-third-limit-a-practice-licence-or-clearance"></a>
 #### 2.4 Third limit: a practice licence or clearance
+
+The third limit works on a named act, not on forming an Operating Party:
 
 - **Not a gate on an Operating Party:** the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) does not apply it.
 - **What it is:** a [Competency Clearance](core_05_band_accountability.md#competency-clearance) that **Article XI-E** (*Institutional Formation and Business Creation*) lets an adopter require before a named act is performed for others, on a technical forum's published risk finding.
