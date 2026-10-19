@@ -1,0 +1,47 @@
+{
+  "_comment": "AUDIT-EVIDENCE-RETENTION-01. Audit output under evidence/<date>/ keeps only the newest `keep` runs of each family; older runs are deleted by tools/prune_audit_evidence.py. Only files matching these names are touched. {date} is YYYY-MM-DD. Hand-written records in the same folders are never listed here.",
+  "keep": 2,
+  "families": {
+    "ch1-cjs3-alignment": [
+      "ch1_cjs3_principle_alignment_report_{date}.md",
+      "ch1_cjs3_traceability_matrix_{date}.csv",
+      "ch1_cjs3_audit_log_{date}.json"
+    ],
+    "ch1-ch5-alignment": [
+      "ch1_ch5_alignment_report_{date}.md",
+      "ch1_ch5_traceability_matrix_{date}.csv",
+      "ch1_ch5_audit_log_{date}.json"
+    ],
+    "ch1-ch6-alignment": [
+      "ch1_ch6_alignment_report_{date}.md",
+      "ch1_ch6_traceability_matrix_{date}.csv",
+      "ch1_ch6_audit_log_{date}.json"
+    ],
+    "alignment-audit-index": [
+      "alignment_audit_index_{date}.md",
+      "alignment_audit_log_{date}.json"
+    ],
+    "ai-alignment-eval": [
+      "ai_alignment_eval_report_{date}.md",
+      "ai_alignment_eval_matrix_{date}.csv",
+      "ai_alignment_eval_audit_log_{date}.json"
+    ],
+    "definition-appropriateness": [
+      "definition_appropriateness_report_{date}.md",
+      "definition_appropriateness_matrix_{date}.csv",
+      "definition_appropriateness_log_{date}.json"
+    ],
+    "ci-cjs-relocation": [
+      "ci_to_cjs_relocation_audit.md",
+      "ci_to_cjs_relocation_audit_log.json",
+      "ci_to_cjs_relocation_candidates.csv"
+    ],
+    "reference-integrity": ["REFERENCE_INTEGRITY_AUDIT_{date}.md"],
+    "lexical-vocabulary": ["LEXICAL_VOCABULARY_AUDIT_{date}.md"],
+    "plain-language": ["PLAIN_LANGUAGE_AUDIT_{date}.md"],
+    "prose-continuity": ["PROSE_CONTINUITY_AUDIT_{date}.md"],
+    "readability": ["READABILITY_AUDIT_{date}.md"],
+    "readability-top-candidates": ["READABILITY_TOP_CANDIDATES_{date}.md"],
+    "best-practices": ["BEST_PRACTICES_CHECK_{date}.md"]
+  }
+}

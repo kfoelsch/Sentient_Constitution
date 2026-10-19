@@ -36,7 +36,7 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 Records: `tools/architecture/audit_registry.json`, `tools/audit_report.py`, `make audit-report`; project doc `claude/audit-registry-and-report-implementation.md`. See the fifty-second move in [doc_architecture.md](doc_architecture.md).
 
 - [ ] **Triage the 33 open findings of `make definition-appropriateness-audit`.** The audit crashed on a function renamed in a981323b (`audit_cjs3_op_clusters` is now `audit_cjs1_op_clusters`); the call is fixed and it runs. It is advisory (always exits 0), rewrites the tracked ledger `evidence/definition_audit/ledger.json` on every run, and stays outside `make regression`. The findings are mostly `CJS-TRACE` review items (a Chapter One basis line missing cluster-map sections). Decide whether to clear them and whether the audit should then join the gate.
-- [ ] **Decide whether audits in the gate should write files on every run.** `ch1-cjs3-alignment-audit` (in the gate) and `todo-close-check`, `alignment-audit`, `ch1-ch5-alignment-audit`, `ch1-ch6-alignment-audit` and `ci-cjs-relocation-audit` write dated files under `evidence/` each time they run. The registry marks them `writes: true`. The alternative is a `--no-write` mode so a check leaves the tree alone.
+- [ ] **Decide whether audits in the gate should write files on every run.** `ch1-cjs3-alignment-audit` (in the gate) and `todo-close-check`, `alignment-audit`, `ch1-ch5-alignment-audit`, `ch1-ch6-alignment-audit` and `ci-cjs-relocation-audit` write dated files under `evidence/` each time they run. Growth is now bounded: AUDIT-EVIDENCE-RETENTION-01 keeps the newest two runs of each family. What remains is that a check still changes the tree; the alternative is a `--no-write` mode.
 - [ ] **Optional:** a `--changed` mode that runs only the categories touching the files changed on the branch.
 
 ### 2026-10-19 — Chapter Seven locks, repeat requests, and the word "instrument": follow-ups
@@ -142,7 +142,7 @@ Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editin
 
 The finding and the decision (2026-10-01: do not add same-named Chapter Five definitions for principles) are archived in [TODO_RESOLVED_2026-10-18.md](archive/TODO_RESOLVED_2026-10-18.md). Chapter One §16.4 Document at Action (2026-10-18) follows the same decision: it has no same-named definition and is measured through Auditability, Transparency, Attributable Action, Contestability, Materiality, Dependency, Avoidable Burden, and Surveillance Boundary.
 
-**Potential: principle-to-definitions map.** If the goal is consistency a reader can see, a generated map from each principle to its measuring definitions does that without new definitions. The audit's traceability matrix (`evidence/2026-10-01/ch1_ch5_traceability_matrix_2026-10-01.csv`) has the data; `make hierarchy-map` or a reader guide could publish it.
+**Potential: principle-to-definitions map.** If the goal is consistency a reader can see, a generated map from each principle to its measuring definitions does that without new definitions. The audit's traceability matrix (the newest `ch1_ch5_traceability_matrix_*.csv` under `evidence/`; `make ch1-ch5-alignment-audit` writes it) has the data; `make hierarchy-map` or a reader guide could publish it.
 
 ### 2026-09-30 — Process, system, institution: potential follow-ups
 
