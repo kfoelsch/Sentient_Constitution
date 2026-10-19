@@ -196,7 +196,7 @@ This subsection implements, and must not narrow, [Chapter Thirteen §4.5 Integri
 <a id="cf-57-backup-record-authority"></a>
 ## CF-5.7 Backup Record Authority
 
-*In plain terms: when a Chartered Party's own offices can't verify a standing record, because its System Charter or Institutional Charter has a gap, someone outside it has to. The **Backup Record Authority** is that authority. It checks the facts and authorizes the record, so nobody's record waits on the Chartered Party's repair. It is not a clerk, not a forum, and not part of the intake desk. It checks facts. It does not rule on what the Chartered Party is or may do, and it does not measure how good or bad the record is.*
+*In plain terms: when a Chartered Party's own offices can't verify a standing record, because its System Charter or Institutional Charter has a gap, someone outside it has to. The **Backup Record Authority** is that authority. It checks the facts and authorizes the record, so nobody's record waits on the Chartered Party's repair. It is not a clerk, not a forum, and not part of the intake desk. It checks facts. It does not rule on what the Chartered Party is or may do, and it does not measure how good or bad the record is. If it is slow, the record goes to a forum.*
 
 This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custody and opening authority](../core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*No self-custody*; *A System Charter or Institutional Charter that does not name them*) and [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody). It stays outside the intake triage body (**CF-5.2** (*Intake triage body*)) and the registrars (**CF-5.5** (*Institutional and local registrars*), **CF-5.6** (*Integrity registrar*)), which do routine administration, and outside the merits panels, which [Chapter Thirteen §2 Default venue and primary stakes](../core_13_forum.md#2-default-venue-and-primary-stakes) keeps for substantive outcomes.
 
@@ -219,8 +219,15 @@ This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custo
 - It does not rule on class, on scope, or on whether a System Charter or Institutional Charter is valid, and it does not fix the gap for the Chartered Party.
 - It does not grant or withhold permission to form or operate.
 - It charges no fee to the subject or a claimant.
+- It takes no instruction on a record from the Chartered Party or from the forum family that funds it.
+
+**Funding and accountability:**
+- **Funding:** The forum family or local forum that keeps it funds it from a published budget. No fee is charged for a record, a subject, or a claimant. The keeping family may not withhold funds over a decision, and the Chartered Party cannot fund it.
+- **Reporting:** It answers to the keeping family for its budget, its aggregate reports, and its conduct, never for an individual decision. It publishes aggregate figures: requests received, whether each came from a gap or from no named route, outcomes (authorized, refused, referred, declined for conflict), time taken, and missed targets, by tier.
 
 **Time and fallback:**
+- **Answer:** It authorizes, refuses, or refers the record within the **intake target** of the Tier that matches the Chartered Party's class (Class A, B, C, L, or P takes Tier A, B, C, L, or P), counted from the day the request is logged. This is the same window as the response window in [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check), and it runs inside the matter's tier window, never on top of it.
+- **Silence:** If it has not answered by then, the record goes to a forum under Chapter Ten **section 3.6**, and the subject or a claimant may take it there at once. A missed target is recorded and published as the authority's own failure under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 - **Unavailable:** If the Backup Record Authority cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the record goes to a forum under Chapter Ten **section 3.6** or to the independent investigative service under **CF-9.6** (*No self-investigation*).
 - **Conflict of its own:** If it has an interest in the record, it declines the seat, logs the conflict, and routes the record to a forum.
 
@@ -230,6 +237,7 @@ This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custo
 - **No gate:** Its delay, error, or refusal never stops a Chartered Party from operating. It is a defect to log and correct, and the Chartered Party, the subject, or a claimant may contest it on the route in **CF-5.2** (*Intake triage body*).
 - **No steering:** It may not use funding, fees, or sorting to push records toward a favored forum.
 - **No self-judging:** Staff who verified a record do not sit on a merits panel hearing a dispute about it (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+- **Oversight:** Integrity or independent assurance bodies under **CF-9.5** (*Required separations*) monitor it for capture and delay.
 
 ## CF-5.8 Restricted information authority
 

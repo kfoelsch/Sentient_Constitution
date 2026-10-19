@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-19T19:27:52+00:00",
+  "generated_at": "2026-10-19T20:45:18+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -636,9 +636,9 @@
       ]
     },
     "core_07_charters.md": {
-      "total_lines": 692,
+      "total_lines": 693,
       "sections": [
-        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":692,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":693,"anchor":"#chapter-seven-system-and-institutional-charters"},
         {"header":"1. When System and Institutional Charters Are Required","level":3,"line_start":41,"line_end":232,"anchor":"#1-when-system-and-institutional-charters-are-required"},
         {"header":"1.1 Who must publish","level":4,"line_start":78,"line_end":94,"anchor":"#11-who-must-publish"},
         {"header":"1.2 Which classes are covered","level":4,"line_start":95,"line_end":103,"anchor":"#12-which-classes-are-covered"},
@@ -658,19 +658,19 @@
         {"header":"3.3 What an Institutional Charter adds","level":4,"line_start":354,"line_end":363,"anchor":"#33-what-an-institutional-charter-adds"},
         {"header":"3.4 Acts that need a practice licence or practice clearance","level":4,"line_start":364,"line_end":373,"anchor":"#34-acts-that-need-a-practice-licence-or-practice-clearance"},
         {"header":"3.5 Scaling","level":4,"line_start":374,"line_end":382,"anchor":"#35-scaling"},
-        {"header":"4. The Charter Role Map and Standing-Record Custody","level":3,"line_start":383,"line_end":481,"anchor":"#4-the-charter-role-map-and-standing-record-custody"},
+        {"header":"4. The Charter Role Map and Standing-Record Custody","level":3,"line_start":383,"line_end":482,"anchor":"#4-the-charter-role-map-and-standing-record-custody"},
         {"header":"4.1 What a System Charter or Institutional Charter owes the map","level":4,"line_start":420,"line_end":424,"anchor":"#41-what-a-system-charter-or-institutional-charter-owes-the-map"},
         {"header":"4.2 Where the seat rules are","level":4,"line_start":425,"line_end":435,"anchor":"#42-where-the-seat-rules-are"},
         {"header":"4.3 Independence from the party whose act is at issue","level":4,"line_start":436,"line_end":440,"anchor":"#43-independence-from-the-party-whose-act-is-at-issue"},
         {"header":"4.4 Which System Charter or Institutional Charter holds which map","level":4,"line_start":441,"line_end":448,"anchor":"#44-which-system-charter-or-institutional-charter-holds-which-map"},
         {"header":"4.5 Two kinds of change","level":4,"line_start":449,"line_end":457,"anchor":"#45-two-kinds-of-change"},
         {"header":"4.6 Standing-record custody","level":4,"line_start":458,"line_end":472,"anchor":"#46-standing-record-custody"},
-        {"header":"4.7 Gaps in the map for operator standing records","level":4,"line_start":473,"line_end":481,"anchor":"#47-gaps-in-the-map-for-operator-standing-records"},
-        {"header":"5. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":482,"line_end":563,"anchor":"#5-formation-check-office-holder-standing-and-authenticity"},
-        {"header":"6. When a Holder Fails the Check","level":3,"line_start":564,"line_end":599,"anchor":"#6-when-a-holder-fails-the-check"},
-        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":600,"line_end":633,"anchor":"#7-amendment-review-and-scope-misalignment"},
-        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":634,"line_end":658,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
-        {"header":"9. Relationship to Other Chapters","level":3,"line_start":659,"line_end":692,"anchor":"#9-relationship-to-other-chapters"}
+        {"header":"4.7 Gaps in the map for operator standing records","level":4,"line_start":473,"line_end":482,"anchor":"#47-gaps-in-the-map-for-operator-standing-records"},
+        {"header":"5. Formation Check: Office-Holder Standing and Authenticity","level":3,"line_start":483,"line_end":564,"anchor":"#5-formation-check-office-holder-standing-and-authenticity"},
+        {"header":"6. When a Holder Fails the Check","level":3,"line_start":565,"line_end":600,"anchor":"#6-when-a-holder-fails-the-check"},
+        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":601,"line_end":634,"anchor":"#7-amendment-review-and-scope-misalignment"},
+        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":635,"line_end":659,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
+        {"header":"9. Relationship to Other Chapters","level":3,"line_start":660,"line_end":693,"anchor":"#9-relationship-to-other-chapters"}
       ]
     },
     "core_08_functional_independence_segregation_of_duties.md": {
@@ -2097,17 +2097,17 @@
       ]
     },
     "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md": {
-      "total_lines": 280,
+      "total_lines": 288,
       "sections": [
-        {"header":"CF-5: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":280,"anchor":null},
+        {"header":"CF-5: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":288,"anchor":null},
         {"header":"CF-5.1 Published intake classes","level":2,"line_start":60,"line_end":68,"anchor":null},
         {"header":"CF-5.2 Intake triage body","level":2,"line_start":69,"line_end":87,"anchor":null},
         {"header":"CF-5.3 Natural-systems representatives","level":2,"line_start":88,"line_end":103,"anchor":null},
         {"header":"CF-5.4 Capacity-failure routing","level":2,"line_start":104,"line_end":119,"anchor":"#cf-54-capacity-failure-routing"},
         {"header":"CF-5.5 Institutional and local registrars","level":2,"line_start":120,"line_end":157,"anchor":"#cf-55-institutional-and-local-registrars"},
         {"header":"CF-5.6 Integrity registrar","level":2,"line_start":158,"line_end":196,"anchor":"#cf-56-integrity-registrar"},
-        {"header":"CF-5.7 Backup Record Authority","level":2,"line_start":197,"line_end":233,"anchor":"#cf-57-backup-record-authority"},
-        {"header":"CF-5.8 Restricted information authority","level":2,"line_start":234,"line_end":280,"anchor":null}
+        {"header":"CF-5.7 Backup Record Authority","level":2,"line_start":197,"line_end":241,"anchor":"#cf-57-backup-record-authority"},
+        {"header":"CF-5.8 Restricted information authority","level":2,"line_start":242,"line_end":288,"anchor":null}
       ]
     },
     "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md": {
