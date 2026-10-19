@@ -359,7 +359,7 @@ Where the limit withholds information that would otherwise be accessible or disc
 
 Where data mixes **Type E** coordination-relevant elements with **Type S** exploit-sensitive elements, systems must **disclose** the coordination-relevant components and **restrict only** exploit-enabling components unless separation is **not technically feasible**. If separation is not feasible, restriction must be **explicitly justified**, **minimized** in scope and duration, and **subject to post-release disclosure and audit**. Type-specific interaction rules are in [Part B — Type S · Interaction with Type E](cs_02_b_data_classifications.md#type-s-interaction-with-type-e).
 
-Where **Type S** restricts disclosure for safety, security, or protected investigation, the restriction must also satisfy **CJS-3.21** (*adversarial robustness and abuse-resistance terms*) and **CJS-3.22** (*constrained-secrecy and protected-investigation terms*), remain **time-bound** and **review-bound**, and stay open to challenge under **CJS-3.13** (*procedural integrity and adjudication terms*).
+Where **Type S** restricts disclosure for safety, security, or protected investigation, the restriction must also satisfy **CJS-3.21** (*adversarial robustness and abuse-resistance terms*) and **CJS-3.22** (*constrained-secrecy and protected-investigation terms*), remain **time-bound** and **review-bound**, and stay open to challenge: a dispute about who may see the restricted item goes first to the restricted information authority (**CF-5.8** (*Restricted information authority*)), and any other challenge goes under **CJS-3.13** (*procedural integrity and adjudication terms*).
 
 <a id="54-integrity-of-data-handling-and-transformation"></a>
 

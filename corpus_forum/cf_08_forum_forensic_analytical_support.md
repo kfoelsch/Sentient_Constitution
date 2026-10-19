@@ -114,7 +114,7 @@ Parties and materially affected sentients must have a meaningful opportunity, co
 - material assumptions, omitted evidence, uncertainty statements, and conclusions;
 - any restriction that prevents a fair chance to understand or answer the support record.
 
-Exculpatory, mitigating, inculpatory, and impeachment evidence must be preserved under the same good-faith standard. A support process is defective if it helps one side develop technical facts while burying material evidence that would fairly assist another side or an affected sentient.
+Evidence showing that a sentient is not at fault, is less at fault, or is at fault, and evidence casting doubt on a witness, must be preserved under the same good-faith standard. A support process is defective if it helps one side develop technical facts while burying material evidence that would fairly assist another side or an affected sentient.
 
 ## CF-8.4 Evidence custody and method records
 <details>

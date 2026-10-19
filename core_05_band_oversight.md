@@ -1285,7 +1285,7 @@ See **Anti-Segmentation Principle**.
     - testimony;
     - system states;
     - custody information; and
-    - exculpatory or mitigating material.
+    - material showing that a sentient is not at fault, or is less at fault.
   - **Out of scope:** Ordinary operational retention or backup that does not secure, maintain, and make reviewably available the material needed for review, contest, remedy, or standing measurement.
 <a id="evidence-preservation-a"></a>
 - **How to measure and assess**

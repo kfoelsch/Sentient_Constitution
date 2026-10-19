@@ -105,6 +105,10 @@
     {
       "avoid": "verifier",
       "prefer": "verifying authority (the body or sentient that verifies, authorizes, or decides)"
+    },
+    {
+      "avoid": "exculpatory, inculpatory",
+      "prefer": "say what the material shows: that a sentient is not at fault, is less at fault, or is at fault"
     }
   ],
   "ambiguous_labels": [

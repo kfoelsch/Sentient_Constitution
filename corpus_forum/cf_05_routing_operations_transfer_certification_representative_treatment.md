@@ -230,6 +230,7 @@ This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custo
 - **Silence:** If it has not answered by then, the record goes to a forum under Chapter Ten **section 3.6**, and the subject or a claimant may take it there at once. A missed target is recorded and published as the authority's own failure under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 - **Unavailable:** If the Backup Record Authority cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the record goes to a forum under Chapter Ten **section 3.6** or to the independent investigative service under **CF-9.6** (*No self-investigation*).
 - **Conflict of its own:** If it has an interest in the record, it declines the seat, logs the conflict, and routes the record to a forum.
+- **Family capture:** If **CF-7.3.8** (*Family-Level Capture Activation*) displaces the family that keeps it, that family does not appoint, staff, fund, or instruct it. The body the continuity record names for activation oversight (**CF-13.4** (*Family-capture fallback operation*)) names the keeper until restoration, and the authority keeps answering.
 
 **Safeguards:**
 - **Outside the line:** The Chartered Party cannot choose, appoint, or fund it through a channel the Chartered Party controls, and it cannot change its authority.
@@ -247,9 +248,9 @@ This subsection implements the rule in [CF-11.3.3 Restricted-evidence timing](cf
 
 **Where it sits:** Each adopter keeps one restricted information authority, or a functionally equivalent arrangement. It answers to all of the adopter's forum families together and to none of them alone. It is a separate authority. It is not a forum, not a registrar, and not part of the intake triage body. Staff of one do not staff another.
 
-**What comes to it:** A dispute about access to, or the scope of, restricted information, including a claim of privilege over restricted material. It may be raised by a forum, a party, or a holder. The question is whether the item may be seen, by whom, and in what form: cleared reviewer, reviewable summary, closed review, or redaction. Disputes go to the authority first.
+**What comes to it:** A dispute about access to, or the scope of, restricted information, including a claim of privilege over restricted material. It may be raised by a forum, a party, or a holder. The question is whether the item may be seen, by whom, and in what form: cleared reviewer, reviewable summary, closed review, or redaction. This includes a dispute about a disclosure limit stated in a standing record under [Chapter Ten §3.1 Minimum record contents](../core_10_standing_assessment.md#31-minimum-record-contents). Disputes go to the authority first.
 
-**What it decides under:** Published criteria that are at least as protective as **CS-2** (*Information types and handling*) for **Type S** data, which must stay minimized, time-bound, and review-bound, and as the record a secrecy measure must carry under **CF-9.7** (*Rights, secrecy, and protected activity*). It gives reasons.
+**What it decides under:** Published criteria that are at least as protective as **CS-2** (*Information types and handling*) for **Type S** data, which must stay minimized, time-bound, and review-bound, and as the record a secrecy measure must carry under **CF-9.7** (*Rights, secrecy, and protected activity*). It also preserves material showing that a sentient is not at fault, or is less at fault, as **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) requires of any secrecy. A reviewable summary, redaction, or closed review may not strip it from what the matter can use. It gives reasons.
 
 **Clock:**
 - **Answer:** Inside the matter's tier window, never on top of it. The answer is due within the **intake target** of the matter's tier, counted from the day the question is logged: 1 calendar day for Tier A, 2 for Tier B, 4 for Tier C, 8 for Tier L, and 12 for Tier P, and 6 hours at the **Emergency level** (**CF-11.3.1** (*Stage targets and timing floors*)).
@@ -261,6 +262,8 @@ This subsection implements the rule in [CF-11.3.3 Restricted-evidence timing](cf
 - It does not rule on a restriction it imposed itself, or on an item it holds. That question goes to a forum.
 - It takes no instruction on a case from any forum family, including the families that fund it.
 - It does not grant or withhold permission to form or operate, and it charges no fee to a party.
+- It does not decide who may audit or inspect records for oversight. Those routes stay as **Article XVI-B** (*Distributed Oversight and Anti-Monopoly Review*) and **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) set them.
+- It does not conduct release review when a secrecy limit ends. That stays with the forum and the restricting body under **CJS-3.22** (*Integrative: constrained-secrecy and protected-investigation terms*).
 
 **Review:**
 - **Appeal:** A decision of the authority is appealed in the forum family related to the matter that raised the question, before a panel separate from the sentients deciding that matter's merits (**CF-6** (*Appeal, secondary review, and exhaustion pathways*)). The appeal asks whether the authority followed its published criteria and gave reasons.
