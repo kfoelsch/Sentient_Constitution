@@ -59,33 +59,36 @@ EXPECTED_CLUSTER_IDS = [
 ]
 
 
-# Live Chapter One § basis from the CJS-3.1 cluster map (deduped).
-CLUSTER_PRINCIPLE_MAP = {
-    "CJS-3.0": ["2.1", "3.4", "5.2", "7", "10"],
-    "CJS-3.1": ["6.2", "8.1", "8.2"],
-    "CJS-3.2": ["8.2", "4", "6.2", "12.1", "12.2"],
-    "CJS-3.3": ["8.2", "4", "12.1", "12.2"],
-    "CJS-3.4": ["8.2", "11.2", "11", "12.1", "8"],
-    "CJS-3.5": ["8.2", "3.3", "4", "12.1", "12.2"],
-    "CJS-3.6": ["8.1", "8.2", "12.1", "12.2"],
-    "CJS-3.7": ["8.1", "4", "6.2", "11", "8", "10"],
-    "CJS-3.8": ["3.4", "6.2", "12.1", "8"],
-    "CJS-3.9": ["2", "8.2", "4", "12.1", "8"],
-    "CJS-3.10": ["8.2", "11.2", "12.1", "8"],
-    "CJS-3.11": ["8.1", "4", "6.2", "12.2", "10"],
-    "CJS-3.12": ["11.1", "11.3", "11", "12.1", "8", "9"],
-    "CJS-3.13": ["8.1", "3.4", "11", "12.1", "8", "10"],
-    "CJS-3.14": ["8.1", "11.1", "11", "12.1", "9"],
-    "CJS-3.15": ["8.1", "8.2", "6.2", "12.1", "12.2"],
-    "CJS-3.16": ["8.1", "12.1", "9"],
-    "CJS-3.17": ["8.1", "11.1", "12.1", "8", "9"],
-    "CJS-3.18": ["8.2", "11.2", "12.1", "8", "9"],
-    "CJS-3.19": ["8.1", "11.1", "7", "9"],
-    "CJS-3.20": ["8.1", "11.1", "12.1", "9"],
-    "CJS-3.21": ["8.1", "8.2", "12.1", "12.2", "9"],
-    "CJS-3.22": ["8.2", "11.2", "11", "12.1", "8", "9"],
-    "CJS-3.23": ["8.1", "11.1", "11", "12.1", "9"],
-}
+CLUSTER_MAP_FILE = "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md"
+_CLUSTER_ROW = re.compile(r"^\|\s*\*\*(CJS-3\.\d+)\*\*")
+
+
+def load_live_cluster_map(repo_root: Path) -> Dict[str, List[str]]:
+    """Chapter One § basis per cluster, read from the CJS-3.1 cluster-map table.
+
+    The table is the owner of this mapping, so the audit reads it instead of
+    keeping its own copy (a copy went stale when Chapter One was renumbered).
+    Clusters with no row (CJS-3.0, CJS-3.1) have no expected set here; their
+    own Trace line is the only record.
+    """
+    path = Path(repo_root) / CLUSTER_MAP_FILE
+    if not path.is_file():
+        return {}
+    mapping: Dict[str, List[str]] = {}
+    for line in path.read_text(encoding="utf-8").splitlines():
+        match = _CLUSTER_ROW.match(line)
+        if not match:
+            continue
+        cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+        if len(cells) < 6:
+            continue
+        refs: List[str] = []
+        for ref in re.findall(r"\u00a7([0-9]+(?:\.[0-9]+)*)", cells[5]):
+            if ref not in refs:
+                refs.append(ref)
+        if refs:
+            mapping[match.group(1)] = refs
+    return mapping
 
 
 PRINCIPLE_RULES = [
@@ -195,6 +198,7 @@ class Ch1Cjs3AlignmentAuditor:
         self.repo_root = Path(repo_root)
         self.timestamp = timestamp or datetime.now().strftime("%Y-%m-%d")
         self.principles = self._extract_ch1_principles()
+        self.cluster_principle_map = load_live_cluster_map(self.repo_root)
         self.clusters: List[Cluster] = []
         self.gaps: Dict[str, List[Dict[str, object]]] = {
             "missing_anchor": [],
@@ -244,8 +248,8 @@ class Ch1Cjs3AlignmentAuditor:
         return refs
 
     def _infer_principles(self, cluster: Cluster) -> List[str]:
-        if cluster.cluster_id in CLUSTER_PRINCIPLE_MAP:
-            return CLUSTER_PRINCIPLE_MAP[cluster.cluster_id]
+        if cluster.cluster_id in self.cluster_principle_map:
+            return self.cluster_principle_map[cluster.cluster_id]
 
         haystack = f"{cluster.cluster_id} {cluster.title} {cluster.body}".lower()
         inferred: Set[str] = set()
@@ -276,7 +280,7 @@ class Ch1Cjs3AlignmentAuditor:
                 "issue": "No direct or inferred Chapter 01 principle basis found.",
             })
         elif cluster.cluster_id != "CJS-3.1":
-            expected = CLUSTER_PRINCIPLE_MAP.get(cluster.cluster_id, [])
+            expected = self.cluster_principle_map.get(cluster.cluster_id, [])
             basis_refs = self._basis_line_refs(cluster.body)
             missing = [sec for sec in expected if sec not in basis_refs]
             if expected and missing:

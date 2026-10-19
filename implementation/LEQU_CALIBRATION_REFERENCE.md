@@ -7,7 +7,7 @@
 >
 > **Authoritative meaning** remains in [Chapter Ten §4 LEQU baseline](../core_10_standing_assessment.md#lequ-baseline-constitutional-outcome), [§5.2 shared impact scaling](../core_10_standing_assessment.md#52-shared-impact-scaling-rules), and the [§7 unified proportional LEQU scale](../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); in [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_05_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.14` (effective 2026-10-14; [README.md](../README.md)). This corpus is **pre-release**.
+> **Pinned to corpus edition:** `SC-Corpus-2026.10.19` (effective 2026-10-19; [README.md](../README.md)). This corpus is **pre-release**.
 
 </details>
 

@@ -5,7 +5,7 @@
 **What this is not:** Binding constitutional text. [Chapter Seventeen](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Eighteen](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Ten standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Ten–Thirteen application vignettes](../../core_10-13_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
 
 **Pack edition:** `lived-situations-2026-09-11`.  
-**Corpus edition pin:** `SC-Corpus-2026.10.14`.
+**Corpus edition pin:** `SC-Corpus-2026.10.19`.
 
 This is a **separate sitting** from [`../SCENARIOS.md`](../SCENARIOS.md) and from [`../self_application/`](../self_application/). Do not run them in one sitting.
 

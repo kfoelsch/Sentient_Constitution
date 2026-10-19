@@ -4,7 +4,7 @@ This page is **process / operations-guide support** — **not** binding constitu
 
 | | |
 |---|---|
-| **Corpus edition described** | `SC-Corpus-2026.10.14` (**pre-release**) |
+| **Corpus edition described** | `SC-Corpus-2026.10.19` (**pre-release**) |
 | **Statement date** | 2026-09-09 |
 | **Companion page** | [CONTRIBUTING.md](../CONTRIBUTING.md) — how to take part |
 | **Working backlog** | [implementation/PRE_PUBLICATION_SPEC.md](../implementation/PRE_PUBLICATION_SPEC.md) — the cut gate and cleanup sequence this page summarizes; if the two disagree, the spec wins |
@@ -88,7 +88,7 @@ The path below maps to the open items already named in [PRE_PUBLICATION_SPEC §5
 <a id="horizon-1"></a>
 ### 4.1 Horizon one — the next cut
 
-Close the text work that stands between `SC-Corpus-2026.10.14` and the first publication cut.
+Close the text work that stands between `SC-Corpus-2026.10.19` and the first publication cut.
 
 | Open step | Work | Done when |
 |---|---|---|

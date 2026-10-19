@@ -13,7 +13,7 @@ labels: ["lane-a-finding"]
 
 - File:
 - Section / anchor:
-- Edition pin observed: `SC-Corpus-2026.10.14`
+- Edition pin observed: `SC-Corpus-2026.10.19`
 
 ## What is wrong
 

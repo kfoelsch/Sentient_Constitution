@@ -1,7 +1,7 @@
 # S08 — Adult student, enrollment as a lever, and an unpaid ranking internship
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.14`  
+**Corpus edition pin:** `SC-Corpus-2026.10.19`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 

@@ -20,3 +20,27 @@ Note: [formation_check_and_remediation_readiness](../evidence/2026-10-13/formati
 ## 2026-10-17 — Backup Record Authority: umbrella name closed (2026-10-19)
 
 - [x] **Drop the umbrella name:** "Registry" was dropped; revisit only if registrars and the Backup Record Authority ever need a shared parent. Closed by the steward 2026-10-19 with no action: registrars and the Backup Record Authority keep separate names, under the naming rule TERM-BODY-01 (authority, custodian, registrar; [doc_architecture.md](../doc_architecture.md), fifty-first move).
+
+## 2026-10-17 — Backup Record Authority (CF-5.7): Chapter Thirteen §2.3 bullet approved by the steward 2026-10-19
+
+The new Chapter Thirteen §2.3 bullet says a contest of a record the Backup Record Authority opened goes to a forum with jurisdiction and never back to that authority. It repeats CF-5.7's own "does not hear a contest" line in core text, where the authority is not otherwise mentioned; Chapters Seven and Ten already cite CF-5.7, so the pointer has precedent. Approved as written, with the wording of TERM-BODY-01 ("that authority", not "that office"). Chapter Seventeen §1 heightened review for this core-text change stays open in TODO.md.
+
+## 2026-10-17 — Chapter Ten §3.7 "sentient acting alone" bullet approved by the steward 2026-10-19
+
+A lone sentient can ask for a record of their own contribution without any group or Charter. Their own logs and photos count as inputs, not verification, and any disinterested relying body can verify. Where no relying body exists, the record goes to a forum under §3.6 (forums are already record-opening authorities there). Approved as drafted. Alternatives not taken: widening the Backup Record Authority to this case (it would mix its Charter-gap job with a different one), and routing it to the CF-9.6 investigative service (that service investigates and does not verify contributions). Chapter Seventeen §1 heightened review for this core-text change stays open in TODO.md.
+
+## 2026-10-17 — Chapter Ten §3.7 *Segregation of duties*, Request row: approved by the steward 2026-10-19
+
+Old text: the requesting party "holds no seat." New text: the requesting party "holds the initiating seat on its own request and needs no institution to do so." Chapter Eight §2 defines the initiating seat as the one that "requests, proposes, operates, claims," so the old text contradicted it. No new conflict: *No self-custody* already stops the requester from verifying or holding the record. Approved as drafted. Chapter Seventeen §1 heightened review for this core-text change stays open in TODO.md.
+
+## 2026-10-17 — Certification seats and the invalid-Charter rule: option C chosen by the steward 2026-10-19
+
+Question: does silence in the Charter Role Map about a certification seat (initiating, record, or contest) follow the invalid-Charter rule that applies to the standing-record offices? Options were A (keep it a defect, as it was), B (make it invalid at once) and C (keep it a defect, with a clock). Chosen: **C**. The gap is logged, the CI-3.2 lane map places the seat meanwhile so no pass stops, and the Chartered Party has the CI-13.3 response window and resolution window, counted from the logged notice, to place the seat by a dated amendment. A seat still unplaced when the resolution window ends makes the System Charter or Institutional Charter invalid on the same terms as a gap in CI-3.6 field 10. Written into Chapter Seven §4.7 (new bullet), Chapter Eight §5 (pointer), CI-3.2 *Fallback for certification seats* and CI-3.6 field 11 *If silent*. Drafting choice to check: the lane map keeps placing the seat for a pass already open after the Charter becomes invalid, so the pass is not stranded. Chapter Seventeen §1 heightened review stays open. Translations are not synced.
+
+## 2026-10-17 — Backup Record Authority (CF-5.7): name, default route and 2026-10-19 additions approved by the steward 2026-10-19
+
+**Decision 1, option A with the tidy.** The name "Backup Record Authority" and the default-route rule stay: where no route is named, the Backup Record Authority (CF-5.7) is the default for a record that *No self-custody* (Chapter Ten §3.7) sends to independent verification. The tidy is applied: the next sentence now reads "Absence of any such named route is a gap the steward must name in the log, not a reason to enter the record themselves," so it no longer reads as contradicting the default. Alternatives not taken: a more neutral rename (it would overlap with "independent route" and "independent verification" in the same paragraph and touch every CF-5.7 cite), and dropping the default (forums would take every unnamed-route record).
+
+**Decision 7 additions.** The CF-5.7 draft is approved with its two flagged choices: the answer deadline reuses the class-to-Tier intake target of Chapter Seven §6 and states no day counts, and funding sits with the keeping forum family or local forum. The certification-seat clock choice (the lane map keeps placing the seat for an open pass after the Charter becomes invalid) is approved too.
+
+Translations are not synced for any of the passages edited under Cluster 1 (paused). Chapter Seventeen §1 heightened review stays open in TODO.md.
