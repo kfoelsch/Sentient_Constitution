@@ -25,7 +25,8 @@ _INSTRUMENT_SCOPE_PREFIXES = (
     "core_", "corpus_", "implementation/", "README", "START_HERE", "guides/", "docs/", "evaluation/", "project/",
 )
 _DATED_RECORD = re.compile(r"_20\d\d-\d\d-\d\d(?:\.|_)|(?:^|/)20\d\d-\d\d-\d\d_|_20\d\d-\d\d/")
-_INSTRUMENT_EXEMPT_PREFIXES = ("project/translation_drafts/",)
+# The move log names the banned word when it records the ban itself, so it is exempt (as it is for the bare-pathway rule).
+_INSTRUMENT_EXEMPT_PREFIXES = ("project/translation_drafts/", "project/MEMLOG.md")
 
 
 def _in_instrument_scope(rel_path: str) -> bool:

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-19T18:08:37+00:00",
+  "generated_at": "2026-10-19T18:46:25+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -856,7 +856,7 @@
       {"avoid":"standing-record classification","prefer":"standing measurement under Chapter Ten"},
       {"avoid":"filed claim is not standing","prefer":"filed case is not standing by itself (forum matter vs standing record); keep claim for unadjudicated claims and other established senses"},
       {"avoid":"drift","prefer":"misalignment or constitutional misalignment (stewardship, governance, incentive, and alignment sense); retain anti-drift, classification drift, version drift, editorial drift, cross-layer drift, Misclassification and misalignment, and other established custody compounds; prefer Defects and misalignment in Chapter Nine evaluation sections"},
-      {"avoid":"bare Charter / charter (Corpus/Constitution sense)","prefer":"name which: (1) System Charter — scope instrument of one system (core_05_band_continuity.md#system-charter); (2) Institutional Charter — scope instrument of an institution that runs more than one system, holding their System Charters and the reason it runs them (core_05_band_continuity.md#institutional-charter); (3) Constitutional Charter — Chapter Fourteen polity-authorization instrument, as in treaty, compact, or Constitutional Charter (core_05_band_continuity.md#constitutional-charter); Charter Role Map keeps its name; verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"},
+      {"avoid":"bare Charter / charter (Corpus/Constitution sense)","prefer":"name which: (1) System Charter — scope document of one system (core_05_band_continuity.md#system-charter); (2) Institutional Charter — scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them (core_05_band_continuity.md#institutional-charter); (3) Constitutional Charter — Chapter Fourteen polity-authorization document, as in treaty, compact, or Constitutional Charter (core_05_band_continuity.md#constitutional-charter); Charter Role Map keeps its name; verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"},
       {"avoid":"Chapter Zero","prefer":"Preamble (core_00_preamble.md); e.g. Preamble §2, Preamble measurement family"},
       {"avoid":"Chapter 00","prefer":"Preamble (core_00_preamble.md); retain filename core_00_preamble.md, ch00_* keys, and #chapter-00-* anchors"},
       {"avoid":"pathway (bare; any sense)","prefer":"a kind-naming qualifier: named pathway, named privilege pathway, or a Chapter Eleven §4.2 type prefix in the standing sense; challenge/review/appeal/remedy/redress/contest/dispute-resolution/participation/self-service pathway for process routes; causal/harm/risk/interaction pathway for causal analysis; do not invent clearance pathway or lock pathway as house terms"},
