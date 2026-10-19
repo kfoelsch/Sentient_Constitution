@@ -20,3 +20,15 @@ Note: [formation_check_and_remediation_readiness](../evidence/2026-10-13/formati
 ## 2026-10-17 — Backup Record Authority: umbrella name closed (2026-10-19)
 
 - [x] **Drop the umbrella name:** "Registry" was dropped; revisit only if registrars and the Backup Record Authority ever need a shared parent. Closed by the steward 2026-10-19 with no action: registrars and the Backup Record Authority keep separate names, under the naming rule TERM-BODY-01 (authority, custodian, registrar; [doc_architecture.md](../doc_architecture.md), fifty-first move).
+
+## 2026-10-17 — Backup Record Authority (CF-5.7): Chapter Thirteen §2.3 bullet approved by the steward 2026-10-19
+
+The new Chapter Thirteen §2.3 bullet says a contest of a record the Backup Record Authority opened goes to a forum with jurisdiction and never back to that authority. It repeats CF-5.7's own "does not hear a contest" line in core text, where the authority is not otherwise mentioned; Chapters Seven and Ten already cite CF-5.7, so the pointer has precedent. Approved as written, with the wording of TERM-BODY-01 ("that authority", not "that office"). Chapter Seventeen §1 heightened review for this core-text change stays open in TODO.md.
+
+## 2026-10-17 — Chapter Ten §3.7 "sentient acting alone" bullet approved by the steward 2026-10-19
+
+A lone sentient can ask for a record of their own contribution without any group or Charter. Their own logs and photos count as inputs, not verification, and any disinterested relying body can verify. Where no relying body exists, the record goes to a forum under §3.6 (forums are already record-opening authorities there). Approved as drafted. Alternatives not taken: widening the Backup Record Authority to this case (it would mix its Charter-gap job with a different one), and routing it to the CF-9.6 investigative service (that service investigates and does not verify contributions). Chapter Seventeen §1 heightened review for this core-text change stays open in TODO.md.
+
+## 2026-10-17 — Chapter Ten §3.7 *Segregation of duties*, Request row: approved by the steward 2026-10-19
+
+Old text: the requesting party "holds no seat." New text: the requesting party "holds the initiating seat on its own request and needs no institution to do so." Chapter Eight §2 defines the initiating seat as the one that "requests, proposes, operates, claims," so the old text contradicted it. No new conflict: *No self-custody* already stops the requester from verifying or holding the record. Approved as drafted. Chapter Seventeen §1 heightened review for this core-text change stays open in TODO.md.
