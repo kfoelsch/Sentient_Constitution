@@ -243,29 +243,47 @@ flowchart TB
 
 <br>
 
-*In plain terms: you do not need anyone's permission to form a system, institution, or business. Three narrow limits can apply: two can keep one sentient out of one controlling office, and one can require a licence or clearance before a named high-risk act. The first of them can also hold a Chartered Party that is itself under a lock, and a Chartered Party that a forum has dissolved stays barred from coming back, for good where the dissolution rests on pervasive anti-constitutional conduct or on harm that cannot be undone and has not been remedied. None stops a new Operating Party from forming or operating, and this chapter adds none.*
+*In plain terms: you do not need anyone's permission to form a system, institution, or business. Three narrow limits can apply: two can keep one sentient out of one controlling office, and one can require a licence or clearance before a named high-risk act. The first of these can also apply to a Chartered Party that is itself under a lock. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming or operating, and this chapter adds none.*
+
+**Article XI-E** (*Institutional Formation and Business Creation*) allows three narrow limits:
+
+- **The first two are the only gates** on forming an Operating Party or holding authority in it. Each attaches to a named subject:
+  - **An outstanding lock** ([§2.2 First limit: an outstanding lock](#22-first-limit-an-outstanding-lock)) attaches to a named sentient in one office that controls the Chartered Party. It also attaches to a Chartered Party that is itself under a lock, including one that a forum has dissolved.
+  - **A probable-cause hold** ([§2.3 Second limit: a short hold on probable cause](#23-second-limit-a-short-hold-on-probable-cause)) attaches only to one named sentient in one office that controls the Chartered Party.
+- **The third is not a gate.** It is a practice licence or clearance ([§2.4 Third limit: a practice licence or clearance](#24-third-limit-a-practice-licence-or-clearance)).
+- **How this section is laid out:** [§2.1 The right to form](#21-the-right-to-form) comes first, then one subsection for each limit.
+
+<a id="21-the-right-to-form"></a>
+#### 2.1 The right to form
 
 Anyone may form a new system, institution, or business. That right is set out in [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). This chapter adds the duty that comes next. Once what an Operating Party does is material to others in any one of the nine areas of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality), it must say in public, ahead of time, what it claims authority to do ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
 
-**Article XI-E** (*Institutional Formation and Business Creation*) allows three narrow limits. The first two are the only gates on forming an Operating Party or holding authority in it. Each attaches to a named subject. The probable-cause hold attaches only to one named sentient in one office that controls the Chartered Party. The outstanding lock attaches to a named sentient in the same way, and it also attaches to a Chartered Party that is itself under a lock, including one that a forum has dissolved:
-
-- **An outstanding standing lock:** a [standing lock](core_11_standing_integration.md#42-prevention--general-standing-locks) or [special lock](core_11_standing_integration.md#55-special-locks), set after a verified violation and not yet lifted, bars one named sentient from authority over this kind of institution or business.
-  - What is barred: taking or exercising governing, controlling, or owning authority in the Operating Party.
-  - How far it reaches: only as far as the lock does. It ends when the lock is lifted or narrowed.
-  - A lock on the Chartered Party itself: a lock can also sit on the Chartered Party, as the [Anti-Constitutional Trust Lock](core_11_standing_integration.md#55-special-locks) does where the final designation names an institution, successor vehicle, or controlled entity. The gate then bars what the lock's named pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
-  - A dissolved Chartered Party: a final dissolution order under **CI-13.7** (*Dissolution*) sets a [Dissolution Reformation Lock](core_11_standing_integration.md#55-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Eleven §8 Restoration and reassessment](core_11_standing_integration.md#8-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
-- **A short hold on probable cause:** a forum with jurisdiction has ordered an [Interim Hold](core_05_band_accountability.md#interim-hold) on specific verified facts that make it more likely than not that the holder is misaligned with the Chartered Party's stated purpose. Only that forum can order it ([Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway)). The Chartered Party cannot keep a sentient out of an office on its own view, because it would then be judging its own member.
-
-Neither stops a new Operating Party from forming, publishing its System Charter or Institutional Charter, or operating. The one Operating Party they stop is one that is itself under a lock, such as a dissolved Chartered Party that tries to return. The formation check is where they are applied ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
-
-**Who the right to form does not cover.** Apart from those gates, **Article XI-E** (*Institutional Formation and Business Creation*) does not protect:
+**Who the right to form does not cover.** Apart from the two gates in [§2.2](#22-first-limit-an-outstanding-lock) and [§2.3](#23-second-limit-a-short-hold-on-probable-cause), **Article XI-E** (*Institutional Formation and Business Creation*) does not protect:
 
 - an Operating Party designed to break a Constitutional Constraint, to undermine Safety or Truth, or to concentrate power in ways [Chapter One §11 Market Structure](core_01_a_values_principles.md#11-market-structure) rules out; or
 - an Operating Party formed or run by a founder who is not authentically aligned with its stated purpose (genuinely committed to it), or who means to mislead others about its purpose, control, or interests, or to harm others.
 
-Forums decide these cases under that Article. A failed formation check is evidence in that decision, not the answer.
+Forums decide these cases under that Article. A failed formation check is one piece of evidence the forum weighs, which means the check alone does not decide the case.
 
-**The third limit, a practice licence or practice clearance:**
+<a id="22-first-limit-an-outstanding-lock"></a>
+#### 2.2 First limit: an outstanding lock
+
+A [standing lock](core_11_standing_integration.md#42-prevention--general-standing-locks) or [special lock](core_11_standing_integration.md#55-special-locks), set after a verified violation and not yet lifted, bars one named sentient from authority over this kind of institution or business.
+
+- What is barred: taking or exercising governing, controlling, or owning authority in the Operating Party.
+- How far it reaches: only as far as the lock does. It ends when the lock is lifted or narrowed.
+- A lock on the Chartered Party itself: a lock can also sit on the Chartered Party, as the [Anti-Constitutional Trust Lock](core_11_standing_integration.md#55-special-locks) does where the final designation names an institution, successor vehicle, or controlled entity. The gate then bars what the lock's named pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
+- A dissolved Chartered Party: a final dissolution order under **CI-13.7** (*Dissolution*) sets a [Dissolution Reformation Lock](core_11_standing_integration.md#55-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Eleven §8 Restoration and reassessment](core_11_standing_integration.md#8-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
+
+<a id="23-second-limit-a-short-hold-on-probable-cause"></a>
+#### 2.3 Second limit: a short hold on probable cause
+
+This limit applies when a forum with jurisdiction has ordered an [Interim Hold](core_05_band_accountability.md#interim-hold) on specific verified facts that make it more likely than not that the holder is misaligned with the Chartered Party's stated purpose. Only that forum can order it ([Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13_forum.md#interim-hold-on-a-named-sentients-pathway)). The Chartered Party can't decide on its own to bar someone from an office, because that would make it the judge of its own member.
+
+Neither limit stops a new Operating Party from forming, publishing its charter, or getting to work. The only party they stop is one that is itself under a lock, such as a dissolved Chartered Party trying to come back. Both limits are applied at the formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
+
+<a id="24-third-limit-a-practice-licence-or-clearance"></a>
+#### 2.4 Third limit: a practice licence or clearance
 
 - **Not a gate on an Operating Party:** the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) does not apply it.
 - **What it is:** a [Competency Clearance](core_05_band_accountability.md#competency-clearance) that **Article XI-E** (*Institutional Formation and Business Creation*) lets an adopter require before a named act is performed for others, on a technical forum's published risk finding.
