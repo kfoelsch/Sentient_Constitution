@@ -29,6 +29,8 @@
 
 <br>
 
+These vignettes are illustrative and own no rule. The standing pipeline they walk through is owned by **Chapter Ten** (the verified factual record and standing measurement), **Chapter Eleven** (standing integration and standing effects), **Chapter Twelve** (anti-constitutional-misconduct designation), and **Chapter Thirteen** (forums and adjudicative routing).
+
 *In plain terms: these are worked examples of the standing pipeline in named situations. They illustrate Chapters Ten through Thirteen.*
 
 <a id="1-child-neglect--care-duty-failure-tier-a"></a>

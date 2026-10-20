@@ -45,7 +45,7 @@
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-1** (*Scope, purpose, and boundary interface*).
+This file is the joint-structure implementation home for **CJS-1** (*Scope, purpose, and boundary interface*), except the drafting-contract, support-and-hosting, and oDef parse-mechanics sections, which are in [cjs_04_drafting_contracts.md](cjs_04_drafting_contracts.md), [cjs_06_support_hosting_classification.md](cjs_06_support_hosting_classification.md), and [cjs_05_odef_parse_mechanics.md](cjs_05_odef_parse_mechanics.md).
 
 *In plain terms: **CJS** is the joint-structure rulebook — rules that apply when two or more of **CJS**, **CS**, **CI**, and **CF** must be satisfied together.*
 
@@ -127,7 +127,7 @@ A reader-facing lookup table lives in the [joint-structure reader guide](cjs_rea
 | Label family | Example headers | What they are |
 |---|---|---|
 | **CJS** (this layer) | **CJS-1**, **CJS-1.1**, **CJS-0.1**, **CJS-2.3** | Joint-structure sections in [corpus_joint_structure.md](../corpus_joint_structure.md) |
-| **CS** | **CS-1** through **CS-12** | Systems families in [corpus_systems.md](../corpus_systems.md) |
+| **CS** | **CS-1** through **CS-13** | Systems families in [corpus_systems.md](../corpus_systems.md) |
 | **CI** | **CI-1**, **CI-7.2**, **CI-9** | Institutions sections in [corpus_institutions.md](../corpus_institutions.md) |
 | **CF** | **CF-1**, **CF-4**, **CF-7.2** | Forum sections in [corpus_forum.md](../corpus_forum.md) |
 | **oDef** (operational definitions) | **oDef.13**, **oDef.16**, **oDef.3** | Shared how-to clusters in **CJS-3** (same as **CJS-3.*n***) |
@@ -140,7 +140,7 @@ How to read guidepost **oDef** entries (**What it is** / **How to measure and as
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CJS-1.3** (*Shared implementation-corpus preamble contract*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*) through **CJS-1.11** (*Classification alignment for supervised scope*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-3.23** (*Integrative: intervention and override integrity terms*); **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*).
+- Read with: **CJS-1.3** (*Shared implementation-corpus preamble contract*); **CJS-1.7** (*Intentional overlap (non-duplication discipline)*) through **CJS-1.11** (*Classification alignment for supervised scope*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-3.23** (*Integrative: intervention and override integrity terms*); **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*).
 
 </details>
 

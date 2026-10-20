@@ -37,10 +37,10 @@
 
 <br>
 
-*In plain terms: this chapter writes down what happened and how good or how harmful it was — on two separate tracks, never one net score. Filing a case is not standing by itself.*
-
 <a id="chapter-ten-part-a-orientation"></a>
-Chapter Ten owns the verified factual record for Question 1 and the standing measurement for Question 2. Question 3 continues in Chapter Eleven.
+Chapter Ten is the constitutional owner of **the verified factual record (Question 1) and standing measurement (Question 2)**. Question 3 continues in Chapter Eleven.
+
+*In plain terms: this chapter writes down what happened and how good or how harmful it was — on two separate tracks, never one net score. Filing a case is not standing by itself.*
 
 <a id="1-the-three-questions"></a>
 

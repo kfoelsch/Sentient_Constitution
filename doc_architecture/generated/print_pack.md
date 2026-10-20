@@ -39,6 +39,8 @@ Source file: `core_00_preamble.md`
 
 <br>
 
+The Preamble is the constitutional owner of **the Model (the Two Constitutional Aims, the Constitutional Tetrad, and material stake), the measurement categories, and the constitutional owner register**.
+
 *In plain terms: this opening names the problem this Constitution exists to fix — systems that harm, hide, or lock out those they affect — and says governance must meet a complex world without turning that complexity into a wall. The rest of this Constitution is how we replace those failures with accountable, checkable, timely governance.*
 
 Sentient freedom, survival, and wellbeing are inseparable from the systems we create, inhabit, and rely on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. Those risks are persistent and materially significant.

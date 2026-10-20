@@ -21,6 +21,8 @@
 
 ---
 
+Chapter Five, Timeliness Tetrad leg, is the constitutional owner of the **Timeliness** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Accountability band](core_05_band_accountability.md), which holds the Timeliness implementing leaves.
+
 *In plain terms: move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.*
 
 <a id="timeliness-constitutional"></a>

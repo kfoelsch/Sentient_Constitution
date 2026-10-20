@@ -40,6 +40,8 @@
 
 <br>
 
+This file is the institutional implementation home for **CI-0** (*Institutions registry and identifier rules*).
+
 ---
 
 ## Institutions identifier and article-reference rules
@@ -83,7 +85,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [Institutions overlap discipline](#institutions-overlap-discipline); [Institutions read-with pointers](#institutions-read-with-pointers).
-- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); **CI-1** (*Scope, purpose, and legitimacy interface*).
+- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-1.7** (*Intentional overlap (non-duplication discipline)*); **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); **CI-1** (*Scope, purpose, and legitimacy interface*).
 - Integrator index (non-operative): institutional primary owners for cross-layer topics live in [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Topic router*).
 
 </details>

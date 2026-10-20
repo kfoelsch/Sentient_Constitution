@@ -14,7 +14,7 @@
 
 - Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XX** (*Justice After Verified Violation*); **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge).
 - Downstream: [§1](#cs-111-purpose-and-role); [§2](#cs-112-landscape-compromise-declaration-and-activation); [§4](#cs-114-governance-continuity-under-multi-node-compromise); [§8](#cs-118-exit-restoration-and-post-incident-revalidation).
-- Read with: **CS-11** (*Subversion response, replacement, and reconstitution*); **CS-5** (*User-facing capability surfaces*); **CS-7** (*Justice safeguards, restitution, and rehabilitation*); **CS-10** (*Transition constitution and migration governance*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
+- Read with: **CS-11** (*Subversion response, replacement, and reconstitution*); **CS-5** (*System lifecycle*); **CS-7** (*Justice safeguards, restitution, and rehabilitation*); **CS-10** (*Transition constitution and migration governance*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 
 </details>
 

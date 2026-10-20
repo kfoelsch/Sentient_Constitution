@@ -93,7 +93,7 @@ Each institution in scope must name and maintain locally:
 
 <br>
 
-*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*) and **CI-11** (*Resource stewardship and incentive integrity*).*
+*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **CS-5** (*System lifecycle*) **§8** (*Governance continuity, crisis communications, and exercises*) and **CI-11** (*Resource stewardship and incentive integrity*).*
 
 Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** (*non-compliant property, seizure, voluntary incentives*) states only the **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map. Each institution in scope must name locally:
 
@@ -109,7 +109,7 @@ Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) *
 - **revalidation owner** — who re-checks continued necessity before reauthorization; and
 - the **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) **conflict-disclosure route** when roles overlap or the same party holds incompatible duties.
 
-For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*) and **CI-11** (*Resource stewardship and incentive integrity*).
+For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **CS-5** (*System lifecycle*) **§8** (*Governance continuity, crisis communications, and exercises*) and **CI-11** (*Resource stewardship and incentive integrity*).
 
 ## CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements
 <a id="ci-142-article-xxviii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"></a>

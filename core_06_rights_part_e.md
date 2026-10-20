@@ -20,6 +20,8 @@
 
 <br>
 
+Chapter Six, Part E, is the constitutional owner of **Rights Floors for conflict resolution, review, constitutional evolution, and transition** (Articles XXVI through XXVIII).
+
 *In plain terms: Part E covers conflict resolution, review-and-resolution discipline, constitutional evolution, and transition — Articles XXVI through XXVIII, including re-baselining under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*).*
 
 <details>

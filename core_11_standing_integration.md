@@ -26,9 +26,9 @@
 
 <br>
 
-*In plain terms: once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score.*
-
 Chapter Eleven is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Ten descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
+
+*In plain terms: once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score.*
 
 Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) when converting verified Chapter Ten standing records into consequences.
 <a id="1-chapter-ten-records-do-not-change"></a>

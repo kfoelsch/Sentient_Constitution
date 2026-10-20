@@ -48,7 +48,7 @@
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-3.3** (*Audit process home*).
+This file is the joint-structure implementation home for **CJS-3.3** (*Audit process home*). The auditability and reconstructability annex of **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*) is in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md#cjs-33-oversight-auditability-and-reconstructability-terms-annex).
 
 *In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XVI** (*Audit, Transparency, and Independent Verification*); the machine-facing checklists live in the **CJS-3.3** (*auditability and reconstructability terms*)–**CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) OP annexes.*
 
@@ -123,7 +123,7 @@ Audit when any of the following applies (often more than one):
 - **Material change** — capability, scope, behavior, dependency, risk, incentive structure, or governance changes enough that prior checks no longer describe reality
 - **Periodic cadence** — on a schedule scaled to class and how fast the subject changes
 - **Incident, dispute, or credible risk** — including escalation to forensic depth when reconstruction is needed
-- **Continuous or automated monitoring** — where impact or criticality (including system class where assigned) requires ongoing detection (including systems-layer monitoring profiles such as CS-5 (*User-facing capability surfaces*) ACA), without treating monitoring alone as a complete audit
+- **Continuous or automated monitoring** — where impact or criticality (including system class where assigned) requires ongoing detection (including systems-layer monitoring profiles such as CS-5 (*System lifecycle*) ACA), without treating monitoring alone as a complete audit
 - **Certification or recertification cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens
 
 "Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-3.4** (*Oversight: tiered transparency and audit-access terms*)).
@@ -142,7 +142,7 @@ Audit when any of the following applies (often more than one):
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-3.4** |
 | System Classification Record audit | **CS-3** §7.3 |
 | Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-4** (*Critical system stewardship*) §CS-4.8 *Conduct, conflicts of interest, and independence* and §CS-4.11 *Integrated risk governance (Class A/B)* |
-| Continuous audit (systems layer: automated constitutional auditing) | **CS-5** (*Design, testing, verification, and deployment*) ACA. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XIX-B** (*Contestability and Proportional Restriction Limits*) and **Article XIX-C** (*Contribution, Competency Bars, and Named-Pathway Eligibility*), not this row |
+| Continuous audit (systems layer: automated constitutional auditing) | **CS-5** (*System lifecycle*) ACA. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XIX-B** (*Contestability and Proportional Restriction Limits*) and **Article XIX-C** (*Contribution, Competency Bars, and Named-Pathway Eligibility*), not this row |
 | Complexity audits (systems profile) | **CS-6**; **Article XXIII-B** (*Complexity Audit and Modularity Requirements*); applied to the steward organization under **CS-4** (*Critical system stewardship*) §CS-4.5 *Comprehensibility and complexity stewardship* |
 | Claim verification (material-claim verification scope, structured claim-testing, and correction integrity) | **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **Article XVI-C** (*Verification Accessibility*) |
 | Institutional transparency and accessible challenge and service pathways | **CI-8** (read with **CI-7.3** where monitoring or escalation applies) |

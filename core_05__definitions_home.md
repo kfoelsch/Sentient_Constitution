@@ -17,6 +17,8 @@
 
 <br>
 
+Chapter Five is the constitutional owner of **foundational definitions**, including the **Authority Stack and Internal Hierarchy** and the **Corpus**.
+
 *In plain terms: this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.*
 
 ### Canonical home and non-duplication rule

@@ -21,6 +21,8 @@
 
 ---
 
+Chapter Five, Oversight Tetrad leg, is the constitutional owner of the **Oversight** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Oversight band](core_05_band_oversight.md).
+
 *In plain terms: watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.*
 
 <a id="oversight-constitutional"></a>

@@ -59,6 +59,8 @@
 
 <br>
 
+Chapter One, Part A, is the constitutional owner of **the Flourishing and Continuity principles**, including wellbeing, Safety, Truth, Trust, bounded freedom, shared-system capacity, resilience, market structure, and systemic evaluation. Collision resolution and interpretation are in **Part B**; stewardship and governance are in **Part C**.
+
 ### 1. Purpose and Role
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

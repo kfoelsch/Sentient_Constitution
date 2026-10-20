@@ -187,6 +187,11 @@
       "run": "auto",
       "writes": false
     },
+    "owner-line-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
     "adopted-implementation-cite-audit": {
       "category": "layout",
       "run": "auto",
@@ -670,6 +675,11 @@
       "writes": false
     },
     "corpus-ref-name-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "owner-line-audit-test": {
       "category": "tests",
       "run": "auto",
       "writes": false

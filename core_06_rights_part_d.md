@@ -20,6 +20,8 @@
 
 <br>
 
+Chapter Six, Part D, is the constitutional owner of **Rights Floors for standing, justice, interoperability, movement and refuge, comprehensibility, root-cause review, and constitutional interpretation** (Articles XIX through XXV).
+
 *In plain terms: Part D covers standing and participation status, justice after verified violation, interoperability and exit, movement and refuge, comprehensibility, root-cause analysis, and constitutional interpretation and review — Articles XIX through XXV.*
 
 <details>
@@ -1181,13 +1183,13 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Accountability:** responders must answer for treating symptoms alone, suppressing root-cause inquiry, overstating confidence, or failing to apply proportionate correction once causes are known.
 - **Timeliness:** in opening diagnosis, interim containment, monitoring, and corrective work before delay would let harm spread, evidence degrade, or the same failure repeat.
 
-Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under **CS-5** (*Design, testing, verification, and deployment*) and **Article XVI-A** (*Auditability and Observable Evidence*).
+Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under **CS-5** (*System lifecycle*) and **Article XVI-A** (*Auditability and Observable Evidence*).
 
 *Article neighbors:*
 
 - **Evidence and challenge:** **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XIII-A** (*Reliability and Trustworthiness Baseline*) — root-cause records must remain open to audit and contest without narrowing those floors.
 - **Lifecycle and recovery:** **Article XVII** (*System Lifecycle, Environments, and Reversibility*) — automatic recovery must not suppress evidence needed for root-cause analysis, consistent with this Article's preference for reversibility.
-- **Implementation routing:** **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*) and **CS-5** (*Design, testing, verification, and deployment*) — implement adaptive response without substituting for the Rights Floors stated here.
+- **Implementation routing:** **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*) and **CS-5** (*System lifecycle*) — implement adaptive response without substituting for the Rights Floors stated here.
 #### Article XXIV-A: Diagnostic Rigor and Causal Attribution
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

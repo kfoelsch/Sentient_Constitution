@@ -10,7 +10,7 @@
 
 <br>
 
-**CS-2** (*Information types and handling*), **Part A**, owns **information-type determination, foundational identity and continuity controls, cross-domain governance, separation / attribution, and the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record)**. Canonical type definitions and per-type handling rules are in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)**.
+This file is the systems implementation home for **CS-2** (*Information types and handling*), **Part A**. It owns **information-type determination, foundational identity and continuity controls, cross-domain governance, separation / attribution, and the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record)**. Canonical type definitions and per-type handling rules are in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)**.
 *In plain terms: Part A says how to type data, keep those types honest across systems, protect separation, attribution, and exit, and keep a System Data Types Record that audits can check — Part B names the types themselves.*
 
 **Introductory provisions:**

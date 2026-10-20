@@ -31,6 +31,8 @@
 
 <br>
 
+Chapter Six, Part B, is the constitutional owner of **Rights Floors for personhood, agency, cooperation, and stakeholder system participation** (Articles VI through XII).
+
 *In plain terms: Part B states Rights Floors for equal standing, self-ownership, family and care, likeness and data, agency, cooperation, and stakeholder participation — **Articles VI through XII** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake).*
 
 **Part B** states Rights Floors for dignity and equal standing, self-ownership, likeness and experiential data, bounded agency and participation, conscience, expression, and association, cooperative interaction, and stakeholder system participation. Those floors serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):

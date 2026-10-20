@@ -14,7 +14,7 @@
 
 - Upstream: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-101-purpose-and-role); [§2](#cs-102-phased-transition-structure); [§5](#cs-105-failure-handling-off-ramps-and-re-baselining); [§7](#cs-107-prioritizing-system-transition-targets); [§8](#cs-108-preservation-during-transition).
-- Read with: **CS-10** (*Transition constitution and migration governance*); **CS-5** (*User-facing capability surfaces*); **CS-11** (*Subversion response, replacement, and reconstitution*).
+- Read with: **CS-10** (*Transition constitution and migration governance*); **CS-5** (*System lifecycle*); **CS-11** (*Subversion response, replacement, and reconstitution*).
 
 </details>
 

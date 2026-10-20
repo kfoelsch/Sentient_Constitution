@@ -527,7 +527,7 @@ The forum may not meet any of these by certifying, or by continuing certificatio
 
 - Upstream: [§6](#6-forum-process) (*forum component findings integrated into the record*); [§7](#7-certification-outcomes) (*the outcome and the concerns raised in reaching it*); [Part A §1](core_09_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*certification purpose*); [Part A §2](core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5](core_09_a_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs reflected on the record*); [Chapters Two through Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (*definition, burden, traceability, and verification substrate*); [System Certification Record](core_05_band_continuity.md#system-certification-record) (*Chapter Five meaning*); [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); [Chapter Eight §8 Act Records and Attributable Handoffs](core_08_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); [**Def.O1** *Transparency, Auditability, and Verification*](core_05_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: [§9](#9-recertification-and-reopening) (*recertification and reopening*); [§10](#10-relationship-to-standing) (*verified-input gate*); [Chapter Thirteen §2.3](core_13_forum.md#23-forum-case-records-standing-records-and-contests) (*forum case records, standing-record contests*).
-- Read with: [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Evidence Preservation](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling**, **CS-3 — System classification and handling**, and **CS-5** (*User-facing capability surfaces*); **CJS-3.4** (*tiered transparency and audit-access terms*).
+- Read with: [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Evidence Preservation](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling**, **CS-3 — System classification and handling**, and **CS-5** (*System lifecycle*); **CJS-3.4** (*tiered transparency and audit-access terms*).
 - Subsections: [§8.1](#81-minimum-record-contents) (*minimum record contents*); [§8.2](#82-record-integrity-transparency-and-auditability) (*record integrity: transparency and auditability*).
 
 </details>
@@ -604,8 +604,8 @@ The record must identify, at minimum:
   - any justified limits on disclosure, with their public substitutes where applicable transparency rules require them; and
   - any conditions, reliance limits, or reopening triggers tied to persistent harm the evaluation found;
 - **Technical evidence and assurance:** the technical standards, tests, measurements, uncertainty, safety margins, failure modes, security-test results, and evidence basis materially relied on, together with:
-  - the regression-testing results for each recertification, as CS-5 (*User-facing capability surfaces*) requires: regression scope; standard and custom test suites run; results; known failures; remediations; and accepted residual risk with justification; and
-  - the certification-and-review evidence package for the certification cycle, as CS-5 (*User-facing capability surfaces*) *Forum certification and lifecycle review* requires, covering:
+  - the regression-testing results for each recertification, as CS-5 (*System lifecycle*) requires: regression scope; standard and custom test suites run; results; known failures; remediations; and accepted residual risk with justification; and
+  - the certification-and-review evidence package for the certification cycle, as CS-5 (*System lifecycle*) *Forum certification and lifecycle review* requires, covering:
     - scope;
     - classification;
     - testing;
@@ -654,7 +654,7 @@ The record must also contain a concise **operating plan**, scaled to system clas
 
 For a system that is Not Certified, the operating plan states the prohibited go-live, any separately authorized interim continued reliance, the corrective requirements, and the conditions for fresh review. It must not imply certified operating permission.
 
-Operating evidence and later findings that conditions were completed are preserved through attributable, integrity-protected links. They do not edit a completed certification record in place. Detailed testing and monitoring methods remain with their incorporated owners, including [CS-5 — Design, testing, verification, and deployment](corpus_systems/cs_05_design_testing_verification_deployment.md).
+Operating evidence and later findings that conditions were completed are preserved through attributable, integrity-protected links. They do not edit a completed certification record in place. Detailed testing and monitoring methods remain with their incorporated owners, including [CS-5 — System lifecycle](corpus_systems/cs_05_design_testing_verification_deployment.md).
 
 **Completeness.** A certification record is incomplete if it omits the findings of any evaluation that applied:
 

@@ -20,6 +20,8 @@
 
 <br>
 
+Chapter Six, Part C, is the constitutional owner of **Rights Floors for trustworthy systems, security and force limits, information integrity, verification, lifecycle, and sandboxed innovation** (Articles XIII through XVIII).
+
 *In plain terms: Part C covers trustworthy systems, security and force limits, information integrity, verification, lifecycle discipline, and sandboxed innovation — Articles XIII through XVIII.*
 
 <details>
@@ -371,7 +373,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 This Article sets out the recovery baseline, from detection through root-cause closure:
 
 - **What this requires:** Every system covered by this Article must be able to recover from failures. The more impact a system has, the more others depend on it, and the riskier it is, the stronger its recovery must be. This follows [**10 Resilience and Self-Healing Design**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing) in **Chapter Five**.
-  - The detailed technical rules for how recovery must be built are in the implementation text: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*), and [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Decentralized continuity and partition resilience*).
+  - The detailed technical rules for how recovery must be built are in the implementation text: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*System lifecycle*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*), and [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Decentralized continuity and partition resilience*).
   - That implementation text can add detail, but it cannot weaken this Article.
 - **Notice problems in time:** A system must spot faults, slowdowns, partial breakdowns, and breaches of constitutional limits quickly enough, and visibly enough, to meet the record-keeping standard in **Article XVI-A** (*Auditability and Observable Evidence*) ([Auditability](core_05_band_oversight.md#auditability)). This applies to the recovery process itself, not only to normal operation.
 - **Keep the damage contained:** Recovery must limit how far a failure spreads. While recovering, a system must not:
@@ -1174,7 +1176,7 @@ This Article covers system lifecycle, environments, and reversibility:
 
 *Article neighbors:*
 
-- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **CS-5** (*Design, testing, verification, and deployment*) put this Article into practice. They cannot narrow the floors set here.
+- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **CS-5** (*System lifecycle*) put this Article into practice. They cannot narrow the floors set here.
 - **Lighter tracks have limits:** A system may get the lighter **Class P** treatment under **Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) only while it has no effect on the outside world, or while any effect is shown to be contained. Ordinary community activity below every line of [Domain-Specific Materiality](core_05_band_oversight.md#domain-specific-materiality) is Class P without being a sandbox: it is not held to that containment test, and every Constitutional Constraint binds it. A **Class L** system keeps its lighter duties only while its effects stay local and bounded and participants can still leave without serious loss. When that stops being true, the system must be re-evaluated and, if needed, moved to a higher class under [CS-3 §8.5](corpus_systems/cs_03_b_system_impact_classifications.md#85-reclassification-edges) (*Reclassification edges*).
 - **Creative and entertainment systems:** [CS-5.3](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-53-creative-entertainment-and-expressive-systems) (*Creative, entertainment, and expressive systems*) sets out when games and similar systems may keep faster change cycles, and when they must move to the full track.
 
@@ -1242,7 +1244,7 @@ This Article sets out the floor for environment integrity:
 This Article sets out the floors for progressive deployment and reversibility:
 
 - **Releases in recorded stages (Class A, Class B, and Class C):** A change that widens a system's impact, or makes more depend on it, must move forward in stages. Each step must be justified and written down.
-  - The steps must follow **[corpus_systems.md](corpus_systems.md), CS-5 — Design, testing, verification, and deployment**.
+  - The steps must follow **[corpus_systems.md](corpus_systems.md), CS-5 — System lifecycle**.
   - They must include a way to roll back and contain the change wherever that is feasible.
 - **Frequent changes (Class L):** A Class L system may release changes often — even daily — and need not roll them out in stages, as long as:
   - participants are told about changes that materially affect them — to what they can do, what they hold, or the rules they play or work under — no later than when the change takes effect (a public change log is usually enough);
@@ -1323,7 +1325,7 @@ This Article covers innovation, experimentation, and creative freedom:
 
 *Article neighbors:*
 
-- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-5** (*Design, testing, verification, and deployment*) and **CS-3 (*System classification machinery*) — System classification and handling** put this Article into practice. They cannot narrow the floors set here.
+- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-5** (*System lifecycle*) and **CS-3 (*System classification machinery*) — System classification and handling** put this Article into practice. They cannot narrow the floors set here.
 - **Science publication:** Rules for publishing, reviewing, replicating, and correcting scientific work are in [Article XV-D](#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*), as part of Info-Sphere Integrity.
 
 #### Article XVIII-A: Sandboxed Scope
@@ -1357,7 +1359,7 @@ This Article sets out the innovation and experimentation right and when sandbox 
 
   It may not be claimed by label alone.
 - **No constraint relief:** Sandboxed treatment reduces structure and process. It never reduces a Constitutional Constraint: Safety, Truth, and the Rights Floor bind a sandboxed system in full.
-- **Implementation detail:** Further elaboration appears in **[corpus_systems.md](corpus_systems.md), CS-5** (*User-facing capability surfaces*) (*Personal, isolated, and experimental systems*; *Creative, entertainment, and expressive systems*).
+- **Implementation detail:** Further elaboration appears in **[corpus_systems.md](corpus_systems.md), CS-5** (*System lifecycle*) (*Personal, isolated, and experimental systems*; *Creative, entertainment, and expressive systems*).
 
 #### Article XVIII-B: Containment, Disclosure, and Opt-In
 <details>

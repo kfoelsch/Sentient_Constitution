@@ -74,6 +74,8 @@
 
 <br>
 
+Chapter One, Part B, is the constitutional owner of **constitutional collision resolution, the prohibition on absolute override, and constitutional interpretation**. The principles these rules apply are in **Part A**; stewardship and governance are in **Part C**.
+
 <a id="13-constitutional-collision-resolution-process"></a>
 
 ### 13. Constitutional Collision Resolution Process

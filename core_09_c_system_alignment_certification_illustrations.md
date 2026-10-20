@@ -28,6 +28,8 @@
 
 <br>
 
+Chapter Nine, Part C, is illustrative and owns no rule of its own. Evaluation requirements are owned by **Part A**, the record and process by **Part B**, and institutional alignment certification by **Part D**.
+
 *In plain terms: Part A says what certification must evaluate; this part shows what that looks like for three concrete systems at three different system classes. Pick the evaluation area you are working on in the table below, read the Class A, B, and C walkthroughs for it, and follow the link back to the Part A requirements.*
 
 | Illustration | Illustrates |

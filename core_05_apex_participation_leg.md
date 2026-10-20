@@ -20,6 +20,8 @@
 
 ---
 
+Chapter Five, Participation Tetrad leg, is the constitutional owner of the **Participation** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Participation band](core_05_band_participation.md).
+
 *In plain terms: give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.*
 
 <a id="participation-constitutional"></a>

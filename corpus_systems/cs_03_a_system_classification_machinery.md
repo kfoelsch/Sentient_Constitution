@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: Integrative Materiality ([Materiality](../core_05_band_oversight.md#materiality)) (*Materiality gate for class scaling*); [System Classification Record](../core_05_band_continuity.md#system-classification-record); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification); [System Certification Record](../core_05_band_continuity.md#system-certification-record); [Chapter Nine §2 System Class Evaluation](../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Chapter Nine Part B §8.1](../core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*System Classification Record as certification-record component*); [Chapter Nine Part B §9.1](../core_09_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*contest when class is inside an active certification record*); [Chapter Nine Part B §7](../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*reopening on system-class misalignment*); [CS-5 — Design, testing, verification, and deployment](cs_05_design_testing_verification_deployment.md) (*recertification and regression testing*); [CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with) (*Scope, purpose, and boundary interface*).
+- Read with: Integrative Materiality ([Materiality](../core_05_band_oversight.md#materiality)) (*Materiality gate for class scaling*); [System Classification Record](../core_05_band_continuity.md#system-classification-record); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification); [System Certification Record](../core_05_band_continuity.md#system-certification-record); [Chapter Nine §2 System Class Evaluation](../core_09_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Chapter Nine Part B §8.1](../core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents) (*System Classification Record as certification-record component*); [Chapter Nine Part B §9.1](../core_09_b_system_alignment_certification_record_process.md#91-challenging-a-certification) (*contest when class is inside an active certification record*); [Chapter Nine Part B §7](../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*reopening on system-class misalignment*); [CS-5 — System lifecycle](cs_05_design_testing_verification_deployment.md) (*recertification and regression testing*); [CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with) (*Scope, purpose, and boundary interface*).
 
 </details>
 
 <br>
 
-**CS-3** (*System classification machinery*), **Part A**, owns **classification machinery**: how to determine impact, dependency, and risk; how to type reliance; how to keep classification honest; and how governance, disclosure, and challenge work. Canonical **impact-class** definitions and per-class scaled duties are in **[Part B](cs_03_b_system_impact_classifications.md#cs-3-part-b-system-impact-classifications)**.
+This file is the systems implementation home for **CS-3** (*System classification machinery*), **Part A**. It owns **classification machinery**: how to determine impact, dependency, and risk; how to type reliance; how to keep classification honest; and how governance, disclosure, and challenge work. Canonical **impact-class** definitions and per-class scaled duties are in **[Part B](cs_03_b_system_impact_classifications.md#cs-3-part-b-system-impact-classifications)**.
 *In plain terms: Part A says how to classify systems honestly across impact, dependency, and risk — Part B names the impact classes themselves and what each class must do.*
 
 <a id="cs-3-1-purpose-and-scope"></a>
@@ -47,7 +47,7 @@ CS-3 (*System classification machinery*) implements:
 - **How class is applied and governed**
   - **Domain mapping and scarce-capacity handling** — published domain crosswalk, ordinary application examples, and API/traffic priority rules ([§6 Domain taxonomy, ordinary examples, and scarce-capacity handling](#cs-36-domain-taxonomy-ordinary-examples-and-scarce-capacity-handling))
   - **Classification governance** — own, disclose, audit, challenge, update, and correct the System Classification Record; prove the class it states; Class A/B org risk roles live in **[CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-411-integrated-risk-governance-class-ab)** ([§7 Classification governance, disclosure, and challenge](#cs-37-classification-governance-disclosure-and-challenge))
-  - **Joint reading** — CS families, CJS clusters, CS-5 (*User-facing capability surfaces*), and Chapter Five meanings co-apply per **[CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)** (*Scope, purpose, and boundary interface*)
+  - **Joint reading** — CS families, CJS clusters, CS-5 (*System lifecycle*), and Chapter Five meanings co-apply per **[CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)** (*Scope, purpose, and boundary interface*)
 
 <a id="11-holistic-classification"></a>
 **1.1. Holistic classification.**
@@ -103,7 +103,7 @@ Where classification, deployment, or continued operation depends on official con
 
 Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Six, Articles IV and VI through X**), subject to **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*).
 
-CS-3 (*System classification machinery*) does not stand alone. Joint reading with CS-2 (*Information types and handling*), CS-4 (*Critical system stewardship*), CS-5 (*User-facing capability surfaces*), CJS clusters, and Chapter Five meanings is stated in **[CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)** (*Scope, purpose, and boundary interface*).
+CS-3 (*System classification machinery*) does not stand alone. Joint reading with CS-2 (*Information types and handling*), CS-4 (*Critical system stewardship*), CS-5 (*System lifecycle*), CJS clusters, and Chapter Five meanings is stated in **[CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)** (*Scope, purpose, and boundary interface*).
 
 <a id="cs-3-2-classification-dimensions-and-real-world-application"></a>
 ## CS-3.2 Classification dimensions and real-world application
@@ -349,7 +349,7 @@ Certification must check that:
 
 - the assigned class matches observed and reasonably foreseeable **impact**, **dependency**, and **risk**
 - reassessment under [§3.5 Reclassification requirement](#35-reclassification-requirement) has been applied where triggers fire
-- class-scaled assurance matches CS-3 (*System classification machinery*) and **[CS-5](cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*)**
+- class-scaled assurance matches CS-3 (*System classification machinery*) and **[CS-5](cs_05_design_testing_verification_deployment.md) (*System lifecycle*)**
 
 The following are **certification defects** under Chapter Nine §2 System Class Evaluation and **[Part B §7 Certification Outcomes](../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)** — not paperwork nits:
 
@@ -499,10 +499,10 @@ Who must do what:
   - do **not** treat technical-forum measurements or tests as a substitute for that evaluation duty
 - **Technical forums** — may supply measurements and tests that feed the proof; they do **not** absorb the operator’s evaluation duty
 - **Certification under Chapter Nine §2 (*System Class Evaluation*)** — when System Alignment Certification runs, confirm and record:
-  - that class-scaled assurance, infrastructure robustness, and regression coverage match CS-3 (*System classification machinery*) and CS-5 (*User-facing capability surfaces*) for the assigned class
+  - that class-scaled assurance, infrastructure robustness, and regression coverage match CS-3 (*System classification machinery*) and CS-5 (*System lifecycle*) for the assigned class
   - any material gaps on the System Certification Record under **[Part B §8.1](../core_09_b_system_alignment_certification_record_process.md#81-minimum-record-contents)**
-- **CS-5** — owns regression scope, results, known failures, remediations, and accepted residual risk for each recertification cycle (**[CS-5 — Design, testing, verification, and deployment](cs_05_design_testing_verification_deployment.md)** (*Recertification, regression testing, and certification defects*)), read with **corpus_joint_structure.md** (**CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*) through **CJS-3.23** (*Integrative: intervention and override integrity terms*) and related clusters)
-- **Defects** — skipping required regression, relying on outdated results, or leaving known breaks unfixed are certification defects under CS-5 (*User-facing capability surfaces*) and Chapter Nine §2 (*System Class Evaluation*) — distinct from, but often concurrent with, System Classification Record defects under [§7.6 Correct the System Classification Record](#76-misclassification-and-evasion)
+- **CS-5** — owns regression scope, results, known failures, remediations, and accepted residual risk for each recertification cycle (**[CS-5 — System lifecycle](cs_05_design_testing_verification_deployment.md)** (*Recertification, regression testing, and certification defects*)), read with **corpus_joint_structure.md** (**CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*) through **CJS-3.23** (*Integrative: intervention and override integrity terms*) and related clusters)
+- **Defects** — skipping required regression, relying on outdated results, or leaving known breaks unfixed are certification defects under CS-5 (*System lifecycle*) and Chapter Nine §2 (*System Class Evaluation*) — distinct from, but often concurrent with, System Classification Record defects under [§7.6 Correct the System Classification Record](#76-misclassification-and-evasion)
 
 <a id="710-component-findings-within-the-system-classification-record"></a>
 **7.10. Record component findings under the system's class.**

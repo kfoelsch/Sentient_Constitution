@@ -26,7 +26,7 @@
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-3** (*operational cluster library*) — the section home for **oDef** clusters. **oDef.*n*** names the same cluster as **CJS-3.*n*** (see [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*)).
+This file is the joint-structure implementation home for **CJS-3.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*) and **CJS-3.1** (*Library: Constitutional compass and cluster map*), and the hub of **CJS-3** (*operational cluster library*). The **oDef** clusters themselves are in the operations files that **CJS-3.1** (*Library: Constitutional compass and cluster map*) maps. **oDef.*n*** names the same cluster as **CJS-3.*n*** (see [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*)).
 
 This file is the navigation index for implementation and cross-implementation operational cluster terms used by implementation-label and implementation text.
 *In plain terms: **CJS-3** (*operational cluster library (oDef)*) is the shared vocabulary shelf. Rather than each implementation layer inventing its own wording for the same operational idea, the clusters here state a term once so that **CJS**, **CS**, **CI**, and **CF** can be checked against the same standard. They add to the owner-file rules; they do not replace them.*

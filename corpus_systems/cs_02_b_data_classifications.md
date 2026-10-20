@@ -10,7 +10,7 @@
 
 <br>
 
-**CS-2** (*Information types and handling*), **Part B**, owns **data classifications** (**Type E** through **Type T**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
+This file is the systems implementation home for **CS-2** (*Information types and handling*), **Part B**. It owns **data classifications** (**Type E** through **Type T**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
 *In plain terms: Part B names each data type and groups them by how they are usually shared — open, audit-only, restricted, off-limits, public by the creator's choice, or licensed or assigned — then states each type’s content rules. Things sentients make themselves are Type Y while private or shared, and Type W once the creator makes them public. A work licensed to one party for commercial use is Type U; a work whose commercial rights have been sold is Type T.*
 
 <a id="cs-2-9-data-classifications"></a>

@@ -20,7 +20,7 @@
 
 ---
 
-This band holds **Integrative** cross-leg definitions — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
+Chapter Five, Integrative band, is the constitutional owner of the **Integrative cross-leg definitions** — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
 - the corpus authority stack;
 - the constitutional contract layer;
 - foundational authorization terms;

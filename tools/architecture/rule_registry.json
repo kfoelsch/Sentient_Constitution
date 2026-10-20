@@ -360,6 +360,13 @@
       "status": "advisory"
     },
     {
+      "id": "OWNER-OPENING-01",
+      "legacy_ref": "constitutional owner opening statement; NAV-IMPL-SUBFILE-01 owner sentence",
+      "summary": "Every core_* file has one visible owner line (or says it owns no rule) before its first gloss and section; every CJS/CS/CI/CF subfile has the 'This file is the <layer> implementation home for' sentence before its first section; no two files claim the same ID.",
+      "make_target": "owner-line-audit",
+      "status": "blocking"
+    },
+    {
       "id": "NAV-IMPL-FILENAME-01",
       "legacy_ref": "companion numeric prefixes are chapter labels",
       "summary": "Numbered cjs_/cs_/ci_/cf_ files share a numeric prefix only as same-chapter parts; family 01 is the unique scope page.",

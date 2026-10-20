@@ -20,6 +20,8 @@
 
 ---
 
+Chapter Five, Flourishing aim, is the constitutional owner of the **Flourishing** constitutional-aim head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the Chapter Five band files.
+
 *In plain terms: protect and improve how well sentients actually live — truth, safety, trustworthiness, and a real ability to choose and act, kept together — not by chasing one of those as far as it will go while emptying out the others.*
 
 <a id="flourishing-constitutional"></a>

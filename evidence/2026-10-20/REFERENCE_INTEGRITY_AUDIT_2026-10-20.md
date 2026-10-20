@@ -1,4 +1,4 @@
-# Reference Integrity Audit - 2026-10-03
+# Reference Integrity Audit - 2026-10-20
 
 ## Scope
 - `core_00_preamble.md`
@@ -21,26 +21,29 @@
 - `core_05_band_oversight.md`
 - `core_05_band_participation.md`
 - `core_05_band_performance.md`
-- `core_07_functional_independence_segregation_of_duties.md`
-- `core_08_a_system_alignment_certification_evaluation.md`
-- `core_08_b_system_alignment_certification_record_process.md`
-- `core_08_system_alignment_certification.md`
-- `core_09_standing_assessment.md`
-- `core_10_standing_integration.md`
-- `core_11_a_misconduct_designation.md`
-- `core_11_b_misconduct_pattern_applications.md`
-- `core_12_forum.md`
-- `core_09-12_application_vignettes.md`
+- `core_07_charters.md`
+- `core_08_functional_independence_segregation_of_duties.md`
+- `core_09_a_system_alignment_certification_evaluation.md`
+- `core_09_b_system_alignment_certification_record_process.md`
+- `core_09_c_system_alignment_certification_illustrations.md`
+- `core_09_d_institutional_alignment_certification.md`
+- `core_09_system_alignment_certification.md`
+- `core_10_standing_assessment.md`
+- `core_11_standing_integration.md`
+- `core_12_a_misconduct_designation.md`
+- `core_12_b_misconduct_pattern_applications.md`
+- `core_13_forum.md`
+- `core_10-13_application_vignettes.md`
 - `core_06_rights_part_a.md`
 - `core_06_rights_part_b.md`
 - `core_06_rights_part_c.md`
 - `core_06_rights_part_d.md`
 - `core_06_rights_part_e.md`
-- `core_13_governance.md`
-- `core_14_non_regression.md`
-- `core_15_expansion_supremacy.md`
-- `core_16_amendment_ratification.md`
-- `core_17_incorporation.md`
+- `core_14_governance.md`
+- `core_15_non_regression.md`
+- `core_16_expansion_supremacy.md`
+- `core_17_amendment_ratification.md`
+- `core_18_incorporation.md`
 - `corpus_systems.md`
 - `corpus_institutions.md`
 - `corpus_forum.md`
@@ -87,7 +90,7 @@
 - `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md`
 - `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md`
 - `corpus_institutions/ci_12_cross_institution_coordination_escalation.md`
-- `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md`
+- `corpus_institutions/ci_13_institutional_failure_dissolution.md`
 - `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md`
 - `corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md`
 - `corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md`
@@ -102,6 +105,7 @@
 - `corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md`
 - `corpus_institutions/ci_26_compliance_mapping_stable_registry.md`
 - `corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md`
+- `corpus_institutions/ci_28_institutional_accountability_sanctions.md`
 - `corpus_forum/cf_00_registry_and_reading_rules.md`
 - `corpus_forum/cf_01_scope_authority_boundary_rules.md`
 - `corpus_forum/cf_03_forum_formation_chamber_structure.md`
@@ -140,16 +144,17 @@
 - `Article XV` - Info-Sphere Integrity
 - `Article XVI` - Audit, Transparency, and Independent Verification
 - `Article XVII` - System Lifecycle, Environments, and Reversibility
-- `Article XVIII` - Sandboxed Innovation, Experimentation, and Creative Freedom
+- `Article XVIII` - Innovation, Experimentation, and Creative Freedom
 - `Article XIX` - Standing and Participation Status
 - `Article XX` - Justice After Verified Violation
-- `Article XXI` - Interoperability, Portability, Movement, Refuge, and Exit Integrity
-- `Article XXII` - Comprehensibility and Complexity Stewardship
-- `Article XXIII` - Root Cause Analysis and Adaptive Response
-- `Article XXIV` - Constitutional Interpretation, Review, and Anti-Capture Safeguards
-- `Article XXV` - Timely Retrospective Review and Restorative Alignment
-- `Article XXVI` - Constitutional Evolution and Non-Entrenchment
-- `Article XXVII` - Transition Governance, Continuity, and Re-Baselining
+- `Article XXI` - Interoperability, Portability, and Exit Integrity
+- `Article XXII` - Movement, Migration, Refuge, and Non-Statelessness
+- `Article XXIII` - Comprehensibility and Complexity Stewardship
+- `Article XXIV` - Root Cause Analysis and Adaptive Response
+- `Article XXV` - Constitutional Interpretation, Review, and Anti-Capture Safeguards
+- `Article XXVI` - Timely Retrospective Review and Restorative Alignment
+- `Article XXVII` - Constitutional Evolution and Non-Entrenchment
+- `Article XXVIII` - Transition Governance, Continuity, and Re-Baselining
 
 ## Findings
 - No mismatches detected.
