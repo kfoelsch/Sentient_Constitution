@@ -299,7 +299,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 | **Audit midpoint** | interval | The audit that falls half-way between certification passes | Review cadence |
 | **Audit advance allowance** | interval | How far a body may move its own audit earlier | Review cadence |
 
-**B. The response window and the resolution window** (owners: [Chapter Seven §1.6 If a System Charter or Institutional Charter is missing](../core_07_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing) and [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check); [CI-13.3](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*))
+**B. The response window and the resolution window** (owners: [Chapter Seven §1.6 If a System Charter or Institutional Charter is missing](../core_07_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing) and [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check); [CI-13.3](../corpus_institutions/ci_13_institutional_failure_dissolution.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*))
 
 | Name | Kind | What it times | Set in |
 |---|---|---|---|
@@ -316,8 +316,8 @@ The two extensions are different rules in different owners. Neither stands in fo
 
 | Name | Kind | What it times | Set in |
 |---|---|---|---|
-| **Watch period** | period | Keeping a matter open after a verified resolution to see whether it holds | [CI-13.3](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*) |
-| **Order term** | term | The life of a contraction order | [CI-13.5](../corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md#ci-135-contraction-order) (*Contraction order*) |
+| **Watch period** | period | Keeping a matter open after a verified resolution to see whether it holds | [CI-13.3](../corpus_institutions/ci_13_institutional_failure_dissolution.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*) |
+| **Order term** | term | The life of a contraction order | [CI-28.2](../corpus_institutions/ci_28_institutional_accountability_sanctions.md#ci-282-contraction-order) (*Contraction order*) |
 | **Host replacement window** | window | Time for members to adopt another host after a host fails | [CI-4.7](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-47-practice-licence-practice-clearance-and-joint-professional-practice) (*Practice licence, practice clearance, and joint professional practice*) |
 | **Cooling-off period** | period | The gap before a former member, panelist, or staff member may take an influence role | [Article XII-E](../core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) |
 

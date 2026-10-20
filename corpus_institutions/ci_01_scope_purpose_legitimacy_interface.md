@@ -78,7 +78,7 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [Chapter Twelve](../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) designation; [Chapter Ten](../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) standing measurement; and [Chapter Eleven](../core_11_standing_integration.md) standing integration.
-- Read with: **CI-1.1** (*Anti-constitutional misconduct usage*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CI-27** (*Remedy systems and institutional redress capacity*).
+- Read with: **CI-1.1** (*Anti-constitutional misconduct usage*); **CI-13** (*Institutional failure and dissolution*); **CI-28** (*Institutional accountability and sanctions*); **CI-27** (*Remedy systems and institutional redress capacity*).
 
 </details>
 

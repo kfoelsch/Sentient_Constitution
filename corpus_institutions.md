@@ -8,7 +8,7 @@
 - How revenue, resources, and incentives are stewarded without capture or silent exclusion
 - How institutional rules land in domain interfaces (care, health, markets, commons, place, science, and related)
 - How institutions coordinate, fail, correct, dissolve, or transition — and how remedy capacity is kept real
-- Section families **CI-1** (*Scope, purpose, and legitimacy interface*) and **CI-3** (*Institutional design, separation of powers, and authority custody*)–**CI-27** (*Remedy systems and institutional redress capacity*) carry the detail (**CI-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Institutions index** below when you need a specific file.
+- Section families **CI-1** (*Scope, purpose, and legitimacy interface*) and **CI-3** (*Institutional design, separation of powers, and authority custody*)–**CI-28** (*Institutional accountability and sanctions*) carry the detail (**CI-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Institutions index** below when you need a specific file.
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -96,7 +96,8 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CI-13: Institutional failure, sanctions, dissolution, and accountability | [ci_13_institutional_failure_sanctions_dissolution_accountability.md](corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md) |
+| CI-13: Institutional failure and dissolution | [ci_13_institutional_failure_dissolution.md](corpus_institutions/ci_13_institutional_failure_dissolution.md) |
+| CI-28: Institutional accountability and sanctions | [ci_28_institutional_accountability_sanctions.md](corpus_institutions/ci_28_institutional_accountability_sanctions.md) |
 | CI-14: Transitional governance and institutional evolution | [ci_14_transitional_governance_institutional_evolution.md](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) |
 
 ### Domain interfaces — care and sentients

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-20T02:12:39+00:00",
+  "generated_at": "2026-10-20T03:27:38+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -1295,21 +1295,21 @@
       ]
     },
     "corpus_institutions.md": {
-      "total_lines": 142,
+      "total_lines": 143,
       "sections": [
-        {"header":"Institutions","level":1,"line_start":1,"line_end":142,"anchor":null},
-        {"header":"Institutions Index","level":2,"line_start":50,"line_end":142,"anchor":null},
+        {"header":"Institutions","level":1,"line_start":1,"line_end":143,"anchor":null},
+        {"header":"Institutions Index","level":2,"line_start":50,"line_end":143,"anchor":null},
         {"header":"Registry","level":3,"line_start":52,"line_end":57,"anchor":null},
         {"header":"Boundary","level":3,"line_start":58,"line_end":64,"anchor":null},
         {"header":"Formation and custody","level":3,"line_start":65,"line_end":71,"anchor":null},
         {"header":"Integrity and procedure","level":3,"line_start":72,"line_end":78,"anchor":null},
         {"header":"Oversight and participation","level":3,"line_start":79,"line_end":86,"anchor":null},
         {"header":"Resources and coordination","level":3,"line_start":87,"line_end":94,"anchor":null},
-        {"header":"Failure and transition","level":3,"line_start":95,"line_end":101,"anchor":null},
-        {"header":"Domain interfaces — care and sentients","level":3,"line_start":102,"line_end":110,"anchor":null},
-        {"header":"Domain interfaces — markets, commons, and place","level":3,"line_start":111,"line_end":120,"anchor":null},
-        {"header":"Domain interfaces — knowledge","level":3,"line_start":121,"line_end":127,"anchor":null},
-        {"header":"Registry and remedy","level":3,"line_start":128,"line_end":142,"anchor":null}
+        {"header":"Failure and transition","level":3,"line_start":95,"line_end":102,"anchor":null},
+        {"header":"Domain interfaces — care and sentients","level":3,"line_start":103,"line_end":111,"anchor":null},
+        {"header":"Domain interfaces — markets, commons, and place","level":3,"line_start":112,"line_end":121,"anchor":null},
+        {"header":"Domain interfaces — knowledge","level":3,"line_start":122,"line_end":128,"anchor":null},
+        {"header":"Registry and remedy","level":3,"line_start":129,"line_end":143,"anchor":null}
       ]
     },
     "corpus_forum.md": {
@@ -1925,20 +1925,14 @@
         {"header":"CI-12: Cross-institution coordination and escalation","level":1,"line_start":1,"line_end":70,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md": {
-      "total_lines": 301,
+    "corpus_institutions/ci_13_institutional_failure_dissolution.md": {
+      "total_lines": 190,
       "sections": [
-        {"header":"CI-13: Institutional failure, sanctions, dissolution, and accountability","level":1,"line_start":1,"line_end":301,"anchor":null},
+        {"header":"CI-13: Institutional failure and dissolution","level":1,"line_start":1,"line_end":190,"anchor":null},
         {"header":"CI-13.1: Opening a consequence matter","level":2,"line_start":97,"line_end":125,"anchor":"#ci-131-opening-a-consequence-matter"},
         {"header":"CI-13.2: Findings before any order","level":2,"line_start":126,"line_end":139,"anchor":"#ci-132-findings-before-any-order"},
         {"header":"CI-13.3: Notice, response, and resolution","level":2,"line_start":140,"line_end":154,"anchor":"#ci-133-notice-response-and-resolution"},
-        {"header":"CI-13.4: Correction and constrained authority","level":2,"line_start":155,"line_end":173,"anchor":"#ci-134-correction-and-constrained-authority"},
-        {"header":"CI-13.5: Contraction order","level":2,"line_start":174,"line_end":203,"anchor":"#ci-135-contraction-order"},
-        {"header":"CI-13.6: Supervised operation and receivership","level":2,"line_start":204,"line_end":214,"anchor":"#ci-136-supervised-operation-and-receivership"},
-        {"header":"CI-13.7: Dissolution","level":2,"line_start":215,"line_end":244,"anchor":"#ci-137-dissolution"},
-        {"header":"CI-13.8: Emergency containment","level":2,"line_start":245,"line_end":251,"anchor":"#ci-138-emergency-containment"},
-        {"header":"CI-13.9: Systems under consequence orders","level":2,"line_start":252,"line_end":273,"anchor":"#ci-139-systems-under-consequence-orders"},
-        {"header":"CI-13.10: Review, fairness, and enforcement","level":2,"line_start":274,"line_end":301,"anchor":"#ci-1310-review-fairness-and-enforcement"}
+        {"header":"CI-13.4: Dissolution","level":2,"line_start":155,"line_end":190,"anchor":"#ci-134-dissolution"}
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
@@ -2039,10 +2033,10 @@
       ]
     },
     "corpus_institutions/ci_26_compliance_mapping_stable_registry.md": {
-      "total_lines": 94,
+      "total_lines": 95,
       "sections": [
-        {"header":"CI-26: Compliance mapping and stable registry","level":1,"line_start":1,"line_end":94,"anchor":null},
-        {"header":"Implementation notes","level":2,"line_start":80,"line_end":94,"anchor":null}
+        {"header":"CI-26: Compliance mapping and stable registry","level":1,"line_start":1,"line_end":95,"anchor":null},
+        {"header":"Implementation notes","level":2,"line_start":81,"line_end":95,"anchor":null}
       ]
     },
     "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md": {
@@ -2054,6 +2048,18 @@
         {"header":"CI-27.3: High-impact remedy domains","level":2,"line_start":81,"line_end":97,"anchor":"#ci-273-high-impact-remedy-domains"},
         {"header":"CI-27.4: Standards interface and accountability routing","level":2,"line_start":98,"line_end":107,"anchor":"#ci-274-standards-interface-and-accountability-routing"},
         {"header":"CI-27.5: Remedy parity and capacity-failure interface","level":2,"line_start":108,"line_end":125,"anchor":"#ci-275-remedy-parity-and-capacity-failure-interface"}
+      ]
+    },
+    "corpus_institutions/ci_28_institutional_accountability_sanctions.md": {
+      "total_lines": 169,
+      "sections": [
+        {"header":"CI-28: Institutional accountability and sanctions","level":1,"line_start":1,"line_end":169,"anchor":null},
+        {"header":"CI-28.1: Correction and constrained authority","level":2,"line_start":53,"line_end":71,"anchor":"#ci-281-correction-and-constrained-authority"},
+        {"header":"CI-28.2: Contraction order","level":2,"line_start":72,"line_end":101,"anchor":"#ci-282-contraction-order"},
+        {"header":"CI-28.3: Supervised operation and receivership","level":2,"line_start":102,"line_end":112,"anchor":"#ci-283-supervised-operation-and-receivership"},
+        {"header":"CI-28.4: Emergency containment","level":2,"line_start":113,"line_end":119,"anchor":"#ci-284-emergency-containment"},
+        {"header":"CI-28.5: Systems under consequence orders","level":2,"line_start":120,"line_end":141,"anchor":"#ci-285-systems-under-consequence-orders"},
+        {"header":"CI-28.6: Review, fairness, and enforcement","level":2,"line_start":142,"line_end":169,"anchor":"#ci-286-review-fairness-and-enforcement"}
       ]
     },
     "corpus_forum/cf_00_registry_and_reading_rules.md": {

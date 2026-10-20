@@ -252,7 +252,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 |---|---|---|---|
 | **Formation and integrity** | **CI-1**, **CI-3**, **CI-4**, **CI-5**, **CI-6**, **CI-8**, **CI-9**, **CI-11** | Institution Track A or B (any live Chapter Five Institutional Charter) | Operations-guide: read, do not staff |
 | **Oversight and coordination** | **CI-7**, **CI-12** | Institution Track B; **CI-7.3** contest-integrity monitoring for Class A/B supervised scope | Track A without Track B functions |
-| **Failure and transition** | **CI-13**, **CI-14** | **CI-13** whenever a live institution can fail; **CI-14** when transitioning under an adoption document | No live institution |
+| **Failure and transition** | **CI-13**, **CI-28**, **CI-14** | **CI-13** and **CI-28** whenever a live institution can fail; **CI-14** when transitioning under an adoption document | No live institution |
 | **Remedy** | **CI-27** | Full adoption that administers locks, standing integration, or redress — at [§9.2](../../core_11_standing_integration.md#92-remedy-parity-funding-floor) parity | Operations-guide and Track A: do not stand up lock machinery you cannot fund remedy for |
 | **Revenue** | **CI-10** | If the body charges fees, subscriptions, or similar | No such charges |
 | **Registry** | **CI-26** | When the body must publish a compliance map | Operations-guide |
