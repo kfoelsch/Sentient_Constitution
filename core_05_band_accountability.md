@@ -1634,10 +1634,10 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 <br>
 
-*In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, or anyone those parties control. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
+*In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the record with its reason. It may be an office or role placed by a [Charter Role Map](core_05_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a disinterested body that relies on the record, or the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
+  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the record with its reason. It may be an office or role placed by a [Charter Role Map](core_05_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
   - **Out of scope:** The Record Custodian that enters and holds the record. The Contest Seat that hears a challenge. A registrar that files and receipts. A body that only supplies inputs such as a recorder's statement, a log, or a photograph. A forum's merits decision. Any body that only requests the record.
 <a id="record-opening-authority-a"></a>
 - **How to measure and assess**
@@ -1706,7 +1706,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 <br>
 
-*In plain terms: the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, or anyone they control.*
+*In plain terms: the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.*
 
 - **What it is**
   - **In scope:** The body that holds the [Record Seat](core_05_band_accountability.md#record-seat) for a [Standing Record](core_05_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the record's continuity. It may be placed by a [Charter Role Map](core_05_band_continuity.md#charter-role-map), be a substitute holder for one record, or be the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)).
@@ -1722,7 +1722,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <a id="record-custodian-c"></a>
 - **What must hold**
   - **Primary failure:** The custodian is the subject, a claimant, a challenger, or in their Material Control Line; it also verifies or hears the contest of the same record; or it enters a version no authority authorized.
-  - **Secondary failure:** Custody lapses, a challenge is not logged on receipt, the audit trail is lost in a transfer, the custodian conditions entry on the subject's cooperation, or the Chartered Party chooses or funds a backup custodian through a channel it controls.
+  - **Secondary failure:** Custody lapses, a challenge is not logged on receipt, the audit trail is lost in a transfer, the custodian conditions entry on the subject's cooperation, or the Chartered Party chooses, appoints, or funds a backup custodian through a channel it controls.
 
 ---
 

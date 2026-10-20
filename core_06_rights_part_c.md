@@ -521,7 +521,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - auditability;
   - independent review;
   - reasoned authorization;
-  - preservation of material showing that a sentient is not at fault, or is less at fault;
+  - preservation of material that tends to show that a sentient is not at fault or is less at fault, that the harm was smaller, or that casts doubt on other evidence;
   - eventual accountability.
 
   Where secrecy no longer remains justified, disclosure, declassification, or notice must occur within a lawful and reviewable process.
@@ -1421,7 +1421,7 @@ This Article sets out when a sandboxed system moves to higher obligations:
   - The transition must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5.7** (*Non-experimental systems*).
   - Interim safeguards proportionate to current risk apply during transition.
   - Sandbox treatment may not continue for functions whose real-world effects materially exceed sandbox conditions.
-  - The transition must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), or **14 days**, the Tier B outer bound, where the system holds no class ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
+  - The transition must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), taking the more critical of the class the system holds and any class a challenger or forum shows on a prima facie basis, or **14 days**, the Tier B outer bound, where the system holds no class, where its class is disputed, or where it has outgrown the class it holds ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
 #### Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

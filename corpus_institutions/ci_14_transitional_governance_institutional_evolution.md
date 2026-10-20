@@ -343,6 +343,7 @@ These rules govern how a scope is declared enforceable.
 
 - **Criteria set in advance:** For each domain and scope, the plan states before results are known the measurable readiness criteria for institutions, capability, and culture, and the verification tier that applies.
 - **Independent declaration:** When the verified criteria are met, the independent verifying authority, or a body independent of the ledger owner, declares the floor enforceable for that scope and publishes its reasons.
+- **Clock:** The declaration clock runs from the day the data show the verified criteria are met. The ledger owner cannot delay it by delaying verification, which is itself due inside the intake target of the Tier that matches the scope's class, or Tier B for a scope that is not a system class.
 - **Declaration bound:** The declaration is due inside the bound set in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), counted from when the verified criteria are met. The plan states the bound for each scope; it may be shorter than that bound, not longer. Withholding beyond it is self-created delay for **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) purposes.
 - **Contest:** Affected sentients and oversight bodies may contest a declaration as premature or as withheld. The contest is decided by a party independent of the ledger owner.
 - **Staged scopes:** Scopes are sequenced so that enforcement demand matches enforcement capacity. The plan states the sequence and its reasons.
