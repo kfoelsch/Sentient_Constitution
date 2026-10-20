@@ -1618,6 +1618,42 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 ---
 
+<a id="record-opening-authority"></a>
+
+#### Record-Opening Authority
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority); [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody); [Chapter Eight §2 Four-seat constitutional floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*); and **CF-5.7** (*Backup Record Authority*).
+- Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
+- Read with: [Standing Record](core_05_band_accountability.md#standing-record), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Record Custodian](core_05_band_accountability.md#record-custodian), [Contest Seat](core_05_band_accountability.md#contest-seat), [Material Control Line](core_05_band_accountability.md#material-control-line), [Charter Role Map](core_05_band_continuity.md#charter-role-map), and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation).
+- Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
+
+</details>
+
+<br>
+
+*In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, or anyone those parties control. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
+
+- **What it is**
+  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the record with its reason. It may be an office or role placed by a [Charter Role Map](core_05_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a disinterested body that relies on the record, or the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
+  - **Out of scope:** The Record Custodian that enters and holds the record. The Contest Seat that hears a challenge. A registrar that files and receipts. A body that only supplies inputs such as a recorder's statement, a log, or a photograph. A forum's merits decision. Any body that only requests the record.
+<a id="record-opening-authority-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) and [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — used together to test whether each change to a Standing Record was authorized by a named body that is independent of the record's subject, claimant, and challenger.
+
+    **Primary assessment:** Identify who authorized each opening, correction, expiry, or supersession. Check that the authority was named before it acted, that it sits outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of the subject, the claimant, and the challenger, that the facts were verified to the standard the governing process sets, and that it gave reasons.
+  - **Secondary measure:** [Auditability](core_05_band_oversight.md#auditability), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity), [Contestability](core_05_band_accountability.md#contestability), and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) — co-measures for traceability and correction.
+
+    **Secondary assessment:** Test whether the record names the authority, its reason, and the version of the System Charter or Institutional Charter in force; whether an authority with an interest in the record declined and routed it; and whether delay or refusal by the authority was treated as a defect to log and correct, not as a gate on anyone's right to form or operate.
+<a id="record-opening-authority-c"></a>
+- **What must hold**
+  - **Primary failure:** The record's subject, a claimant, a challenger, or anyone in their Material Control Line acts as the authority; the authority also enters and holds the record or hears the contest of a record it authorized; or it authorizes a change without verifying the facts.
+  - **Secondary failure:** The authority is not named before it acts, or is named only by the party it checks; the record omits the authority, its reason, or the version of the System Charter or Institutional Charter in force; a conflicted authority does not decline and route; or the Chartered Party chooses, appoints, or funds a backup authority through a channel it controls.
+
+---
+
 <a id="record-seat"></a>
 
 #### Record Seat
@@ -1651,6 +1687,42 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **What must hold**
   - **Primary failure:** The Record Seat creates, changes, or enters a determination on its own judgment; records an unverified claim as an authorized determination; or is held by the Verify-or-Authorize Seat for the same act where separation is required.
   - **Secondary failure:** The official record lacks attribution, version integrity, preservation, required publication, challenge status, or a reconstructable link to the determination it records.
+
+---
+
+<a id="record-custodian"></a>
+
+#### Record Custodian
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority); [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*); and **CF-5.9** (*Backup Record Custodian*).
+- Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
+- Read with: [Record Seat](core_05_band_accountability.md#record-seat), [Record-Opening Authority](core_05_band_accountability.md#record-opening-authority), [Standing Record](core_05_band_accountability.md#standing-record), [Contest Seat](core_05_band_accountability.md#contest-seat), [Material Control Line](core_05_band_accountability.md#material-control-line), [Charter Role Map](core_05_band_continuity.md#charter-role-map), and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation).
+- Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
+
+</details>
+
+<br>
+
+*In plain terms: the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, or anyone they control.*
+
+- **What it is**
+  - **In scope:** The body that holds the [Record Seat](core_05_band_accountability.md#record-seat) for a [Standing Record](core_05_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the record's continuity. It may be placed by a [Charter Role Map](core_05_band_continuity.md#charter-role-map), be a substitute holder for one record, or be the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)).
+  - **Out of scope:** The [Record-Opening Authority](core_05_band_accountability.md#record-opening-authority) that verifies and authorizes. The Contest Seat. A registrar that files and receipts. Incidental storage or a copy held without authority over the official record.
+<a id="record-custodian-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether each Standing Record is held by a named body that is independent of its subject, claimants, and challengers, with the full audit trail.
+
+    **Primary assessment:** Identify who holds each record and each version. Check that the custodian was named before it acted, sits outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of the subject, claimant, and challenger, is not the authority for the same record, and keeps version history and the published challenge path.
+  - **Secondary measure:** [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability) — co-measures for integrity, reconstruction, and correction.
+
+    **Secondary assessment:** Test whether a challenge was logged on receipt, whether custody passed with its full trail when a conflict or gap arose, and whether the custodian applied no effect and withheld no path.
+<a id="record-custodian-c"></a>
+- **What must hold**
+  - **Primary failure:** The custodian is the subject, a claimant, a challenger, or in their Material Control Line; it also verifies or hears the contest of the same record; or it enters a version no authority authorized.
+  - **Secondary failure:** Custody lapses, a challenge is not logged on receipt, the audit trail is lost in a transfer, the custodian conditions entry on the subject's cooperation, or the Chartered Party chooses or funds a backup custodian through a channel it controls.
 
 ---
 

@@ -31,6 +31,13 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-10-20 — Chapter Seven §4 restructure, Record-Opening Authority and Record Custodian, Backup Record Custodian (CF-5.9): signed off by the steward 2026-10-20, awaiting heightened review
+
+The sign-offs are archived in [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md). Records: sixty-eighth and sixty-ninth moves in [doc_architecture.md](doc_architecture.md); drafts in [archive/BACKUP_RECORD_CUSTODIAN_AND_ELIGIBLE_CUSTODIANS_DRAFT_APPLIED_2026-10-20.md](archive/BACKUP_RECORD_CUSTODIAN_AND_ELIGIBLE_CUSTODIANS_DRAFT_APPLIED_2026-10-20.md) and [archive/RECORD_OPENING_AUTHORITY_DEFINITION_DRAFT_APPLIED_2026-10-20.md](archive/RECORD_OPENING_AUTHORITY_DEFINITION_DRAFT_APPLIED_2026-10-20.md).
+
+- [ ] **Chapter Seventeen §1 heightened review** applies to the core-text changes (CF-5.9 and the custody fallbacks touch adjudication pathways and integrity conditions). It also covers the emergency-substitution exception added to Chapter Seven §4.5. The changes are: the Chapter Seven §4 rewrite (seats reminder in §4.1, placement tests and the Material Control Line and Independence bullets in §4.2, defect cases in §4.3, the §4.5 rename, §4.6.1 and §4.6.2 split), the Chapter Ten §3.7 custody fallbacks, the Backup Record Custodian (CF-5.9), the eligible-custodian list and tests in CI-3.6.3 field 10, and the Chapter Five entries *Record-Opening Authority* and *Record Custodian*. The steward chose one batched review for all of 2026-10-20's changes.
+- [ ] **Translations not synced** for the Chapter Seven §4 text, CF-5.9, the CI-3.6.3 custodian bullets, the Chapter Ten §3.7 edits, and the two Chapter Five entries. Sync after the Chapter Seventeen §1 heightened review settles the wording; the Chapter Seven §2 and §3 widgets are included.
+
 ### 2026-10-19 — Audit registry and category report: follow-ups
 
 Records: `tools/architecture/audit_registry.json`, `tools/audit_report.py`, `make audit-report`; project doc `claude/audit-registry-and-report-implementation.md`. See the fifty-second move in [doc_architecture.md](doc_architecture.md).
@@ -150,7 +157,7 @@ The finding and the decision (2026-10-01: do not add same-named Chapter Five def
 - [ ] **Potential: process-ownership dispute rule** for [Chapter Thirteen §3](core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Draft with owner envelope, floor-touching test, change record and contest window, lead-forum routing, and no self-judging by the rule-writer: [project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md](project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md). Needs the steward role names mapped, and the six open questions in the draft answered.
 - [ ] **Potential: change-record template** for the implementation corpus near **CI-6**, with floor-touching self-assessment, contest window scaled to the Chapter Thirteen §6 tiers, and an emergency-change sunset.
 - [ ] **Potential: narrow third question in Preamble §3.3.** Only if the dispute rule shows a real gap: who may change the operating procedures of an authorized system, with what notice and contest. Do not call it "process governance" (the forum layer, `cf_00`, already uses that phrase).
-- [ ] **Potential: chart orientation follow-through.** **VIS-CHART-ORIENT-04** (top to bottom, `flowchart TB`) is now in [doc_architecture.md](doc_architecture.md). Open: convert the five remaining `LR` charts when next edited (the print pack copy regenerates from its source); add a grep-based audit and a `make` target so the rule is checked, not only stated; and confirm the "convert on next edit" policy is the one you want.
+- [ ] **Potential: chart orientation follow-through.** **VIS-CHART-ORIENT-04** (top to bottom, `flowchart TB`) is now in [doc_architecture.md](doc_architecture.md). Open: add a grep-based audit and a `make` target so the rule is checked, not only stated; and confirm the "convert on next edit" policy is the one you want. (Converting the five remaining `LR` charts is done; archived in [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md).)
 
 
 ### 2026-09-27 — Article XIII-A / XIII-B split: translations
@@ -225,6 +232,7 @@ Keep this active file limited to editor checks, current open work, and short arc
 
 ## Archives
 
+- **2026-10-20 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md)
 - **2026-10-19 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md)
 - **2026-10-18 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-18.md](archive/TODO_RESOLVED_2026-10-18.md)
 - **2026-10-14 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-14.md](archive/TODO_RESOLVED_2026-10-14.md)

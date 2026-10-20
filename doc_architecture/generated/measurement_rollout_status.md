@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-19T18:08:39+00:00
+Generated: 2026-10-20T16:42:34+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **272/272** terms pass tier audit.
+Approved progress: **274/274** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -279,7 +279,9 @@ Approved progress: **272/272** terms pass tier audit.
 | Proportionality | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Protected Reporting (Whistleblowing) | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Protected Reporting Retaliation and Access Interference | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Record Custodian | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Record Seat | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Record-Opening Authority | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Redress and Remediation | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Remedy System | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Restorative Justice | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
