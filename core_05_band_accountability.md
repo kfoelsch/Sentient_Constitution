@@ -3348,7 +3348,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.*
+*In plain terms: a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.*
 
 - **What it is**
   - **In scope:**

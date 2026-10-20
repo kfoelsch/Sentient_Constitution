@@ -3297,7 +3297,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     A business or other stewarded organizational form that is itself a System is a Chartered Party. So is an Institution that runs more than one System, which holds their System Charters in its Institutional Charter.
   - **Out of scope:**
-    - a Class P [Operating Party](core_05_band_oversight.md#operating-party) that has not published a System Charter or Institutional Charter and is not required to. It is not a Chartered Party until it publishes, and the rules on forming apply to it all the same;
+    - a Class P [Operating Party](core_05_band_oversight.md#operating-party) that has not published a System Charter or Institutional Charter and is not required to. It is not a Chartered Party until it publishes. The rules on forming apply to it all the same, and so does the consequence procedure in **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) on a verified ground;
     - a sentient who holds an office in a Chartered Party. The holder is a steward of the office, and a failure by the holder lands on that office, not on the Chartered Party;
     - an office, forum, or governing board inside a Chartered Party, which is one of its seats and not the party itself;
     - a political community that adopts a [Constitutional Charter](core_05_band_continuity.md#constitutional-charter), which is a different document; and

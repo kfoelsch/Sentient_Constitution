@@ -197,7 +197,7 @@ Where verified stakeholder-pathway corruption, capture, false-stake abuse, or co
 
 Where a verified violation was carried out through an institution or enterprise, or an office in one, apply the [Institutional Authority Standing Lock](#55-special-locks) under [§5.5 Special locks](#55-special-locks). It closes the authority pathway only, and it attaches to a verified finding and never to probable cause.
 
-Where a final dissolution order ends a Chartered Party, apply the [Dissolution Reformation Lock](#55-special-locks) under [§5.5 Special locks](#55-special-locks). It attaches to the dissolved Chartered Party and its successor vehicles and never to a sentient by reason of belonging to it. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise it lifts on an independent restoration finding.
+Where a final dissolution order ends a Chartered Party (or a Class P Operating Party that held no System Charter or Institutional Charter), apply the [Dissolution Reformation Lock](#55-special-locks) under [§5.5 Special locks](#55-special-locks). It attaches to the dissolved Chartered Party and its successor vehicles and never to a sentient by reason of belonging to it. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise it lifts on an independent restoration finding.
 
 The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or named pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
 
@@ -567,7 +567,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
   - Under [§5.1 Definition and attachment](#51-definition-and-attachment), keep the sentient isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
 - **Read with:** [Chapter Twelve §4.2](core_12_a_misconduct_designation.md#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*) for the extra rules on restricting liberty or imprisonment that apply only after a final anti-constitutional misconduct designation. The Trust Lock rules themselves stay in this subsection.
 
-**Dissolution Reformation Lock.** Trigger: a final dissolution order under **CI-13.7** (*Dissolution*). The subject is the dissolved Chartered Party and not any sentient who belonged to it. The order sets the lock on the same two-key decision and records it, with the permanence ground under [§8 Restoration and reassessment](#8-restoration-and-reassessment) if it rests on one.
+**Dissolution Reformation Lock.** Trigger: a final dissolution order under **CI-13.7** (*Dissolution*), including the wind-down order of a forum whose dissolution or disbandment threshold under **CF-11.4** (*Performance thresholds and alerts*) is crossed, and a retirement order for a System under **CI-13.9** (*Systems under consequence orders*). The subject is the dissolved Chartered Party, or the dissolved Class P Operating Party that held no System Charter or Institutional Charter, and not any sentient who belonged to it. The order sets the lock on the same two-key decision and records it, with the permanence ground under [§8 Restoration and reassessment](#8-restoration-and-reassessment) if it rests on one.
 
 - **Named pathway:**
   - re-forming, reviving, re-registering, or running the dissolved Chartered Party, under any name or form;
