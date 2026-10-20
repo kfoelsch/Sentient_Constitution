@@ -156,7 +156,7 @@ Two windows run from the request: the response window and the resolution window.
 | Class C, Tier C | 4 calendar days | 30 calendar days |
 | Class L, Tier L | 8 calendar days | 60 calendar days |
 
-The figures come from **CF-11.3.1** (*Stage targets and timing floors*), which governs if they differ. A Chartered Party that disputes its class is counted at Tier L until the question is settled.
+The figures come from **CF-11.3.1** (*Stage targets and timing floors*), which governs if they differ. A Chartered Party that disputes its class is counted at the Tier of the class it already holds on its System Classification Record until the question is settled. A Chartered Party that holds no class on record is counted at Tier C.
 
 The windows work like this:
 

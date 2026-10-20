@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-19T22:33:21+00:00",
+  "generated_at": "2026-10-20T00:02:04+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -1340,15 +1340,15 @@
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 341,
+      "total_lines": 344,
       "sections": [
-        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":341,"anchor":null},
-        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":341,"anchor":null},
+        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":344,"anchor":null},
+        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":344,"anchor":null},
         {"header":"CJS-0.1: Cross-file routing","level":3,"line_start":61,"line_end":151,"anchor":"#cjs-01-cross-file-routing"},
         {"header":"Maintainer-only detail: authoritative topic router","level":4,"line_start":103,"line_end":151,"anchor":"#cross-file-routing"},
         {"header":"CJS-0.2: Joint structure registry","level":3,"line_start":152,"line_end":186,"anchor":"#cjs-02-joint-structure-registry"},
         {"header":"CJS-0.3: Stable identifiers, edition alignment, and drafting notes","level":3,"line_start":187,"line_end":233,"anchor":"#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"},
-        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":341,"anchor":"#cjs-04-time-window-names"}
+        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":344,"anchor":"#cjs-04-time-window-names"}
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
@@ -1505,9 +1505,9 @@
       ]
     },
     "corpus_systems/cs_02_a_information_types_and_handling.md": {
-      "total_lines": 689,
+      "total_lines": 690,
       "sections": [
-        {"header":"CS-2, Part A: Information types and handling","level":1,"line_start":2,"line_end":689,"anchor":"#cs-2-part-a-information-types-and-handling"},
+        {"header":"CS-2, Part A: Information types and handling","level":1,"line_start":2,"line_end":690,"anchor":"#cs-2-part-a-information-types-and-handling"},
         {"header":"CS-2.1 Purpose and scope","level":2,"line_start":22,"line_end":138,"anchor":"#cs-2-1-purpose-and-scope"},
         {"header":"CS-2.2 Determination of classification","level":2,"line_start":139,"line_end":164,"anchor":"#cs-2-2-determination-of-classification"},
         {"header":"CS-2.3 Temporal, systemic, and dependency scope of rights","level":2,"line_start":165,"line_end":173,"anchor":"#cs-2-3-temporal-systemic-and-dependency-scope-of-rights"},
@@ -1515,7 +1515,7 @@
         {"header":"CS-2.5 Cross-domain governance principles","level":2,"line_start":190,"line_end":427,"anchor":"#cs-2-5-cross-domain-governance-principles"},
         {"header":"CS-2.6 Data separation and attribution","level":2,"line_start":428,"line_end":530,"anchor":"#cs-2-6-data-separation-and-attribution"},
         {"header":"CS-2.7 Type O baseline for Class A/B/C systems","level":2,"line_start":531,"line_end":563,"anchor":"#cs-2-7-type-o-baseline-for-class-a-b-c-systems"},
-        {"header":"CS-2.8 System Data Types Record governance","level":2,"line_start":564,"line_end":689,"anchor":"#cs-2-8-system-data-types-record-governance"}
+        {"header":"CS-2.8 System Data Types Record governance","level":2,"line_start":564,"line_end":690,"anchor":"#cs-2-8-system-data-types-record-governance"}
       ]
     },
     "corpus_systems/cs_02_b_data_classifications.md": {
@@ -1561,16 +1561,16 @@
       ]
     },
     "corpus_systems/cs_03_a_system_classification_machinery.md": {
-      "total_lines": 564,
+      "total_lines": 565,
       "sections": [
-        {"header":"CS-3, Part A: System classification machinery","level":1,"line_start":2,"line_end":564,"anchor":"#cs-3-part-a-system-classification-machinery"},
+        {"header":"CS-3, Part A: System classification machinery","level":1,"line_start":2,"line_end":565,"anchor":"#cs-3-part-a-system-classification-machinery"},
         {"header":"CS-3.1 Purpose and scope","level":2,"line_start":24,"line_end":108,"anchor":"#cs-3-1-purpose-and-scope"},
         {"header":"CS-3.2 Classification dimensions and real-world application","level":2,"line_start":109,"line_end":145,"anchor":"#cs-3-2-classification-dimensions-and-real-world-application"},
         {"header":"CS-3.3 Criticality, concentration, temporal, and adversarial factors","level":2,"line_start":146,"line_end":218,"anchor":"#cs-3-3-criticality-concentration-temporal-and-adversarial-factors"},
         {"header":"CS-3.4 Dependency types (Dep-A–P)","level":2,"line_start":219,"line_end":251,"anchor":"#cs-3-4-dependency-types-dep-a-p"},
         {"header":"CS-3.5 Boundaries, timeframes, and resilience","level":2,"line_start":252,"line_end":278,"anchor":"#cs-3-5-boundaries-timeframes-and-resilience"},
         {"header":"CS-3.6 Domain taxonomy, ordinary examples, and scarce-capacity handling","level":2,"line_start":279,"line_end":339,"anchor":"#cs-3-6-domain-taxonomy-ordinary-examples-and-scarce-capacity-handling"},
-        {"header":"CS-3.7 Classification governance, disclosure, and challenge","level":2,"line_start":340,"line_end":564,"anchor":"#cs-3-7-classification-governance-disclosure-and-challenge"}
+        {"header":"CS-3.7 Classification governance, disclosure, and challenge","level":2,"line_start":340,"line_end":565,"anchor":"#cs-3-7-classification-governance-disclosure-and-challenge"}
       ]
     },
     "corpus_systems/cs_03_b_system_impact_classifications.md": {
@@ -1942,14 +1942,26 @@
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
-      "total_lines": 411,
+      "total_lines": 539,
       "sections": [
-        {"header":"CI-14: Transitional governance and institutional evolution","level":1,"line_start":1,"line_end":411,"anchor":null},
+        {"header":"CI-14: Transitional governance and institutional evolution","level":1,"line_start":1,"line_end":539,"anchor":null},
         {"header":"CI-14.1: Interface — **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)","level":2,"line_start":83,"line_end":113,"anchor":"#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives"},
         {"header":"CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements","level":2,"line_start":114,"line_end":161,"anchor":"#ci-142-article-xxviii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"},
         {"header":"CI-14.3: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements","level":2,"line_start":162,"line_end":233,"anchor":"#ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements"},
-        {"header":"CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication","level":2,"line_start":234,"line_end":363,"anchor":"#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication"},
-        {"header":"CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets","level":2,"line_start":364,"line_end":411,"anchor":"#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets"}
+        {"header":"CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication","level":2,"line_start":234,"line_end":491,"anchor":"#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication"},
+        {"header":"CI-14.4.1: Ledger structure","level":3,"line_start":262,"line_end":286,"anchor":null},
+        {"header":"CI-14.4.2: Minimum measure families","level":3,"line_start":287,"line_end":312,"anchor":null},
+        {"header":"CI-14.4.3: Measurement rules","level":3,"line_start":313,"line_end":331,"anchor":null},
+        {"header":"CI-14.4.4: Enforcement-readiness declarations","level":3,"line_start":332,"line_end":354,"anchor":null},
+        {"header":"CI-14.4.5: Interim enforcement of restraint duties","level":3,"line_start":355,"line_end":372,"anchor":null},
+        {"header":"CI-14.4.6: Interim safeguards for gap-affected sentients","level":3,"line_start":373,"line_end":388,"anchor":null},
+        {"header":"CI-14.4.7: Verification (scaled to material stake)","level":3,"line_start":389,"line_end":406,"anchor":null},
+        {"header":"CI-14.4.8: Indicators that verification is unreliable","level":3,"line_start":407,"line_end":425,"anchor":null},
+        {"header":"CI-14.4.9: Status and consequences","level":3,"line_start":426,"line_end":443,"anchor":null},
+        {"header":"CI-14.4.10: Publication","level":3,"line_start":444,"line_end":461,"anchor":null},
+        {"header":"CI-14.4.11: Use in gates, reauthorization, and re-baselining","level":3,"line_start":462,"line_end":477,"anchor":null},
+        {"header":"CI-14.4.12: Implementation custody (local publication required)","level":3,"line_start":478,"line_end":491,"anchor":null},
+        {"header":"CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets","level":2,"line_start":492,"line_end":539,"anchor":"#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets"}
       ]
     },
     "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md": {

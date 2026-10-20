@@ -228,7 +228,7 @@ Reauthorization processes may be initiated by system participants, oversight bod
 
 **A** review is automatically triggered under **Article XVI-A** (*Auditability and Observable Evidence*) and **Article XXIV-A** (*Diagnostic Rigor and Causal Attribution*).
 
-**A** transition process must be initiated within **14 days**, the Tier B outer bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the system holds.
+**A** transition process must be initiated within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), or **14 days**, the Tier B outer bound, where the system holds no class ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
 
 **Systems must**:
 - define how reauthorization is initiated;

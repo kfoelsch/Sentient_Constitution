@@ -116,7 +116,7 @@ Transition floors — transparent, timely move toward **Article XVII-A** (*Lifec
 **Systems-layer triggers and duties (implement XVIII-C; do not narrow it):**
 
 - Triggers include stakeholders beyond the original operator; measurable growth in dependency, usage, or resource impact; downstream production dependencies; shared-infrastructure interaction; non-trivial risk; and increasing irreversibility of impactful failure modes.
-- Transitions must be documented, completed within **14 days**, the Tier B outer bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the system holds, and remain subject to audit and challenge under **Articles XVI-A** and **XIII-A**.
+- Transitions must be documented, completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), or **14 days**, the Tier B outer bound, where the system holds no class ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)), and remain subject to audit and challenge under **Articles XVI-A** and **XIII-A**.
 - Interim safeguards during transition must meet **§7** (*Non-experimental systems*) environment-isolation and progressive-deployment controls proportionate to current risk.
 
 <a id="cs-5-6-experimental-substrate-features-and-systems"></a>

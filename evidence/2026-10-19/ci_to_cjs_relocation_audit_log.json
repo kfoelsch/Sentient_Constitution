@@ -1,0 +1,1115 @@
+[
+  {
+    "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+    "section_id": "CI-4.7",
+    "title": "Practice licence, practice clearance, and joint professional practice",
+    "start_line": 287,
+    "end_line": 335,
+    "score": 24,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-1 / CJS-2",
+      "CJS-3.22\u2013CJS-3.12"
+    ],
+    "signals": [
+      "joint-interface(6)",
+      "routing-read-with(1)",
+      "shared-procedure(8)",
+      "dependency-failure(2)",
+      "forum-system-touch(29)"
+    ],
+    "router_rows": [
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "removal",
+      "fees",
+      "institutional formation"
+    ],
+    "summary": "*In plain terms: a technical forum can say that a kind of work is risky enough to need proof of competence. For work that can cause severe or irreversible injury, such as surgery or electrical work, a practice licence may be required before the act, and an..."
+  },
+  {
+    "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+    "section_id": "CI-4.5",
+    "title": "Authorized roles and accountability chains",
+    "start_line": 135,
+    "end_line": 174,
+    "score": 23,
+    "confidence": "high",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-1 / CJS-2",
+      "CJS-3.22\u2013CJS-3.12"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "routing-read-with(4)",
+      "shared-procedure(3)",
+      "forum-system-touch(18)",
+      "near-duplicate(1)"
+    ],
+    "router_rows": [
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [
+      {
+        "score": 0.32,
+        "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+        "line": 202,
+        "heading": "CJS-2.4 Class-scaled lane staffing and competency redundancy",
+        "summary": "The constitutional floor remains in [Chapter Fourteen](../core_14_governance.md), section **5**. Domain detail remains in **CI-3** (*Inst..."
+      }
+    ],
+    "keep_notes": [
+      "appointment",
+      "removal"
+    ],
+    "summary": "*In plain terms: under **Chapter Fourteen**, section 5 and the **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution writes its own map of who is authorized to do what \u2014 and who is accountable when th..."
+  },
+  {
+    "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+    "section_id": "CI-4.6",
+    "title": "Seat catalog \u2014 process-role archetypes and operational boundaries",
+    "start_line": 175,
+    "end_line": 286,
+    "score": 21,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-3.19\u2013CJS-3.53"
+    ],
+    "signals": [
+      "joint-interface(3)",
+      "routing-read-with(2)",
+      "shared-procedure(17)",
+      "forum-system-touch(43)"
+    ],
+    "router_rows": [
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: a **seat** is the unit of authority over one materially binding act \u2014 the one who asks, the one who checks, the one who writes it down, the one who hears the complaint, plus a few recurring special-authority seats such as incident command a..."
+  },
+  {
+    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+    "section_id": "CI-14.4",
+    "title": "**Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) \u2014 Rights-Floor attainment ledger: measures, verification, and publication",
+    "start_line": 234,
+    "end_line": 363,
+    "score": 20,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.16\u2013CJS-3.18",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "routing-read-with(6)",
+      "shared-procedure(20)",
+      "dependency-failure(8)",
+      "forum-system-touch(13)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those take time to build. So **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) asks for two things: what the adopter..."
+  },
+  {
+    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+    "section_id": "CI-14.3",
+    "title": "**Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) \u2014 operative transition-scoped remediation requirements",
+    "start_line": 162,
+    "end_line": 233,
+    "score": 17,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.16\u2013CJS-3.18",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "routing-read-with(1)",
+      "shared-procedure(6)",
+      "dependency-failure(1)",
+      "forum-system-touch(11)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "local procedure"
+    ],
+    "summary": "*In plain terms: **CI-14.3** (*operative transition-scoped remediation requirements*) is the operational half of **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) \u2014 what institutions actually do when transition plans..."
+  },
+  {
+    "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+    "section_id": "CI-27.5",
+    "title": "Remedy parity and capacity-failure interface",
+    "start_line": 108,
+    "end_line": 125,
+    "score": 16,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.19\u2013CJS-3.53",
+      "CJS-1 / CJS-2",
+      "CJS-3.22\u2013CJS-3.12"
+    ],
+    "signals": [
+      "routing-read-with(4)",
+      "dependency-failure(6)",
+      "forum-system-touch(9)"
+    ],
+    "router_rows": [
+      "CJS-R20 \u2014 Remedy parity and lock-to-remedy capacity",
+      "CJS-R21 \u2014 Capacity-failure routing",
+      "CJS-R03 \u2014 Lawful panel formation, disclosure, recusal, substitution, inability-to-form"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: Lock offices may not outrun the repair offices that make those locks lawful. When remedy or restoration work falls behind its clock, the starved office does not get to decide that it is fine.* This subsection implements, and must not narrow..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13.5",
+    "title": "Contraction order",
+    "start_line": 153,
+    "end_line": 182,
+    "score": 15,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-2.3"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "shared-procedure(5)",
+      "dependency-failure(1)",
+      "forum-system-touch(9)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: if a Chartered Party is Class L or higher and keeps putting others at risk, the forum can order it to stop, hand off, or shrink the activities that cross the line, until an independent check shows it is below every line. The Chartered Party..."
+  },
+  {
+    "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+    "section_id": "CI-8.3",
+    "title": "Digital self-service pathway integrity",
+    "start_line": 150,
+    "end_line": 179,
+    "score": 15,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-2.3",
+      "CJS-1 / CJS-2",
+      "CJS-3.16\u2013CJS-3.18"
+    ],
+    "signals": [
+      "routing-read-with(4)",
+      "shared-procedure(2)",
+      "dependency-failure(7)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "billing",
+      "dissolution"
+    ],
+    "summary": "*In plain terms: if you can subscribe online, you should be able to manage, downgrade, renew, or cancel through the same kind of self-service path \u2014 without dark patterns, hidden phone-only exits, or billing that keeps running after you thought you left. In..."
+  },
+  {
+    "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+    "section_id": "CI-21.3",
+    "title": "Referral and escalation interfaces",
+    "start_line": 95,
+    "end_line": 121,
+    "score": 14,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-1 / CJS-2",
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-2.3"
+    ],
+    "signals": [
+      "routing-read-with(4)",
+      "shared-procedure(3)",
+      "dependency-failure(1)",
+      "forum-system-touch(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "local procedure"
+    ],
+    "summary": "*In plain terms: when a local associational pathway for gathering or association fails \u2014 blocked access, captured review, or nowhere to appeal \u2014 sentients need a published map of where the case goes next.* Each institution in scope must name and maintain lo..."
+  },
+  {
+    "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+    "section_id": "CI-3.2",
+    "title": "Functional separation lanes",
+    "start_line": 81,
+    "end_line": 94,
+    "score": 14,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.19\u2013CJS-3.53",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "routing-read-with(1)",
+      "shared-procedure(4)",
+      "dependency-failure(1)",
+      "forum-system-touch(16)"
+    ],
+    "router_rows": [
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R19 \u2014 integrity assurance and resilience operations"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "appointment",
+      "rotation",
+      "removal"
+    ],
+    "summary": "*In plain terms: power must be split into distinct jobs so no one office runs everything unchecked. Required lanes include setting direction and policy, carrying decisions out, challenging and reviewing them, auditing and assuring integrity, and publishing..."
+  },
+  {
+    "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+    "section_id": "CI-27.1",
+    "title": "Capacity, funding, and succession",
+    "start_line": 49,
+    "end_line": 63,
+    "score": 13,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-3.19\u2013CJS-3.53"
+    ],
+    "signals": [
+      "routing-read-with(4)",
+      "dependency-failure(1)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R21 \u2014 Capacity-failure routing",
+      "CJS-R20 \u2014 Remedy parity and lock-to-remedy capacity",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "*In plain terms: Every remedy system must name who owns it, where its funding comes from, and who takes over if that owner disappears. A remedy route with no named owner fails silently.* Each remedy system must name, in plain view: - the institutional owner..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13.10",
+    "title": "Review, fairness, and enforcement",
+    "start_line": 246,
+    "end_line": 270,
+    "score": 13,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-1 / CJS-2",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "routing-read-with(5)",
+      "shared-procedure(1)",
+      "forum-system-touch(10)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R21 \u2014 Capacity-failure routing"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "*In plain terms: every order can be challenged before someone independent, nobody gets punished for what they believe or for speaking up, a wrong order is put right, and the forum has real levers when a Chartered Party defies it.* **Review and fairness:** -..."
+  },
+  {
+    "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+    "section_id": "CI-27.4",
+    "title": "Standards interface and accountability routing",
+    "start_line": 98,
+    "end_line": 107,
+    "score": 12,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.19\u2013CJS-3.53",
+      "CJS-1 / CJS-2",
+      "CJS-2.3"
+    ],
+    "signals": [
+      "routing-read-with(2)",
+      "dependency-failure(6)",
+      "forum-system-touch(17)"
+    ],
+    "router_rows": [
+      "CJS-R21 \u2014 Capacity-failure routing",
+      "CJS-R20 \u2014 Remedy parity and lock-to-remedy capacity",
+      "CJS-R19 \u2014 integrity assurance and resilience operations"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "*In plain terms: Technical forums set the capacity and timeliness standards remedy systems must meet, but they do not run those systems. Setting a standard is not the same as commanding compliance.* Remedy systems must meet published capacity, measurement,..."
+  },
+  {
+    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+    "section_id": "CI-14.5",
+    "title": "**Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) \u2014 prioritizing institutional transition targets",
+    "start_line": 364,
+    "end_line": 411,
+    "score": 12,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.16\u2013CJS-3.18",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "shared-procedure(5)",
+      "dependency-failure(4)",
+      "forum-system-touch(10)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "appointment",
+      "rotation",
+      "dissolution"
+    ],
+    "summary": "*In plain terms: existing institutions cannot all be rebuilt at once either. Forums, agencies, companies, and governing bodies each need to be moved toward constitutional operation, and the order matters. Start with the institutions that hold the most power..."
+  },
+  {
+    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+    "section_id": "CI-14.1",
+    "title": "Interface \u2014 **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)",
+    "start_line": 83,
+    "end_line": 113,
+    "score": 12,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.16\u2013CJS-3.18",
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-2.3"
+    ],
+    "signals": [
+      "routing-read-with(5)",
+      "forum-system-touch(7)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner \u2014 who decides someone is eligible, who holds the asset, who pays a bounty, w..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13.9",
+    "title": "Systems under consequence orders",
+    "start_line": 225,
+    "end_line": 245,
+    "score": 11,
+    "confidence": "medium",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.16\u2013CJS-3.18",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "shared-procedure(1)",
+      "dependency-failure(3)",
+      "forum-system-touch(40)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R19 \u2014 integrity assurance and resilience operations"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "removal",
+      "dissolution"
+    ],
+    "summary": "*In plain terms: a System is not a legal entity, so orders go to its steward. The same ladder applies. A System that may be sentient is never destroyed to end the matter: its state is saved and held in safe hands.* The respondent for a System is its steward..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13.2",
+    "title": "Findings before any order",
+    "start_line": 105,
+    "end_line": 118,
+    "score": 11,
+    "confidence": "medium",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-3.16\u2013CJS-3.18"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "shared-procedure(8)",
+      "dependency-failure(1)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: before the forum orders anything, it writes down what is wrong, who is at risk, who caused it, and why a lighter step would not be enough. The side asking for a heavier step carries that burden.* Before ordering any rung of the ladder, the..."
+  },
+  {
+    "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
+    "section_id": "CI-10.2",
+    "title": "Recurring charges, renewals, and commercial billing integrity",
+    "start_line": 75,
+    "end_line": 106,
+    "score": 10,
+    "confidence": "medium",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3.16\u2013CJS-3.18",
+      "CJS-2.3",
+      "CJS-1 / CJS-2"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(1)",
+      "dependency-failure(3)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R01 \u2014 Delegated binding bodies and hybrid composition (non-forum institutions)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "public revenue",
+      "fees",
+      "billing"
+    ],
+    "summary": "*In plain terms: subscriptions, memberships, trials, and auto-renewals must be honest before you sign up \u2014 clear price, clear timing, clear renewal rules \u2014 and cancellation or downgrade must work through a published path without dark patterns or surprise ch..."
+  },
+  {
+    "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+    "section_id": "CI-21.2",
+    "title": "Voluntary association and anti-coercion guardrails",
+    "start_line": 75,
+    "end_line": 94,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-1 / CJS-2",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.16\u2013CJS-3.18"
+    ],
+    "signals": [
+      "routing-read-with(5)",
+      "dependency-failure(1)"
+    ],
+    "router_rows": [
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R19 \u2014 integrity assurance and resilience operations"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "fees"
+    ],
+    "summary": "*In plain terms: joining a club, mutual-aid circle, faith community, or online group must rest on real consent \u2014 and leaving must not trigger retaliation, reputational lock-in, or hidden informal punishment. Community warmth is not a license for capture.* E..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13.4",
+    "title": "Correction and constrained authority",
+    "start_line": 134,
+    "end_line": 152,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.19\u2013CJS-3.53"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(3)",
+      "forum-system-touch(6)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 integrity assurance and resilience operations"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "*In plain terms: six rungs, lightest first. A heavier rung needs a showing that the lighter ones would not do. Every rung has an end date, a review, and a way back.* | Rung | Measure | What it does | | --- | --- | --- | | 1 | Directed correction | Orders na..."
+  },
+  {
+    "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
+    "section_id": "CI-11.4",
+    "title": "Local alignment duties",
+    "start_line": 79,
+    "end_line": 93,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.19\u2013CJS-3.53",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(1)",
+      "dependency-failure(2)",
+      "forum-system-touch(6)"
+    ],
+    "router_rows": [
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R19 \u2014 integrity assurance and resilience operations"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: money and pay schemes must support honest stewardship, not undermine it. Institutions must show how funding choices stay within stewardship limits and how compensation rewards constitutional duty instead of short-term performance theater \u2014..."
+  },
+  {
+    "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+    "section_id": "CI-27.3",
+    "title": "High-impact remedy domains",
+    "start_line": 81,
+    "end_line": 97,
+    "score": 7,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-3.16\u2013CJS-3.18",
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-1 / CJS-2"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "forum-system-touch(6)"
+    ],
+    "router_rows": [
+      "CJS-R20 \u2014 Remedy parity and lock-to-remedy capacity",
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: Areas where a broken remedy route causes the most damage \u2014 child protection, environmental enforcement, benefits, detention oversight, public health \u2014 and so require durable systems.* The following domains, and comparable high-impact system..."
+  },
+  {
+    "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+    "section_id": "CI-27.2",
+    "title": "Durability, backlog, and publication",
+    "start_line": 64,
+    "end_line": 80,
+    "score": 7,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.19\u2013CJS-3.53",
+      "CJS-3.13\u2013CJS-3.4"
+    ],
+    "signals": [
+      "dependency-failure(3)",
+      "forum-system-touch(10)"
+    ],
+    "router_rows": [
+      "CJS-R20 \u2014 Remedy parity and lock-to-remedy capacity",
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: Remedy systems publish their own waiting times and backlog ages, so a route that has quietly stopped working in practice becomes visible from outside.* Each remedy system must publish, on a fixed schedule compatible with **CF-11** (*Forum p..."
+  },
+  {
+    "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
+    "section_id": "CI-25.5",
+    "title": "Ombuds, escalation, and technical forum referral",
+    "start_line": 133,
+    "end_line": 157,
+    "score": 7,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-1 / CJS-2",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-3.22\u2013CJS-3.12"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(3)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "local procedure"
+    ],
+    "summary": "*In plain terms: when publication disputes stall or the local reviewer is conflicted, there must be a named ombuds lane, an escalation path, and \u2014 where needed \u2014 a specialist technical forum that is not the same shop that benefits from the original claim.*..."
+  },
+  {
+    "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
+    "section_id": "CI-25.3",
+    "title": "Challenge, correction, and access",
+    "start_line": 98,
+    "end_line": 116,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.19\u2013CJS-3.53"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(4)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R10 \u2014 Forum performance, backlog requirements, publication timeliness, accessibility"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: sentients who try to replicate, reanalyze, or correct a claim need a real door in \u2014 and if publication, funding, and editorial power are bundled together, that bundling must be justified and auditable.* Each institution in scope must name a..."
+  },
+  {
+    "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+    "section_id": "CI-21.1",
+    "title": "Civic infrastructure and non-instrumental time",
+    "start_line": 56,
+    "end_line": 74,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-1 / CJS-2"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "routing-read-with(1)",
+      "forum-system-touch(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R01 \u2014 Delegated binding bodies and hybrid composition (non-forum institutions)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "fees"
+    ],
+    "summary": "*In plain terms: institutions that control parks, halls, transit-to-gathering routes, recreation programs, or scheduling rules must not treat cultural gathering, play, recreation, or quiet non-productive time as second-class uses that only survive if they p..."
+  },
+  {
+    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+    "section_id": "CI-14.2",
+    "title": "**Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) \u2014 trigger catalog, anti-abuse metrics, and publication requirements",
+    "start_line": 114,
+    "end_line": 161,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.19\u2013CJS-3.53",
+      "CJS-3.16\u2013CJS-3.18"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(1)",
+      "forum-system-touch(5)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R19 \u2014 integrity assurance and resilience operations"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "local procedure"
+    ],
+    "summary": "*In plain terms: **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*) turns **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) into a practical checklist institutions must publish in trans..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13.8",
+    "title": "Emergency containment",
+    "start_line": 218,
+    "end_line": 224,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.19\u2013CJS-3.53",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-3.22\u2013CJS-3.12"
+    ],
+    "signals": [
+      "shared-procedure(3)",
+      "forum-system-touch(5)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "*In plain terms: if serious harm that cannot be undone is about to happen, the forum can act at once, but only with something lighter than dissolution and only for a short, reviewed time.* Where imminent irreversible harm to others is shown on the record, t..."
+  },
+  {
+    "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+    "section_id": "CI-9.3.1",
+    "title": "Identification and competence",
+    "start_line": 120,
+    "end_line": 139,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-1 / CJS-2",
+      "CJS-2.3"
+    ],
+    "signals": [
+      "routing-read-with(2)",
+      "shared-procedure(1)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R12 \u2014 Standard forum records, forms, and evidence artifacts"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: every delegated subunit must be clearly labeled \u2014 who it reports to, what it may decide, and what qualifications its members need. A subunit cannot become a back door that skips normal challenge routes or forum routing.* Each formation or a..."
+  },
+  {
+    "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+    "section_id": "CI-8.1",
+    "title": "Stakeholder oversight, notification, and binding-governance pathway integrity",
+    "start_line": 87,
+    "end_line": 118,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.16\u2013CJS-3.18"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "dependency-failure(3)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: when an institution asks for your input on something that will really bind you, it must say so clearly \u2014 who counts as affected, how long you have to respond, what happens to your submission, and what exit or adaptation consequences the dec..."
+  },
+  {
+    "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+    "section_id": "CI-4.2",
+    "title": "Role criteria, appointment standards, and removal pathways",
+    "start_line": 77,
+    "end_line": 101,
+    "score": 6,
+    "confidence": "low",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-2.3"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(1)",
+      "forum-system-touch(3)",
+      "near-duplicate(1)"
+    ],
+    "router_rows": [
+      "CJS-R03 \u2014 Lawful panel formation, disclosure, recusal, substitution, inability-to-form",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing"
+    ],
+    "similar_cjs": [
+      {
+        "score": 0.32,
+        "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+        "line": 189,
+        "heading": "CJS-2.4 Class-scaled lane staffing and competency redundancy",
+        "summary": "Before using role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-3.0** (*Cross-band..."
+      }
+    ],
+    "keep_notes": [
+      "rotation",
+      "removal"
+    ],
+    "summary": "*In plain terms: every institution must publish clear, public rules for who can hold each role \u2014 what qualifies someone, what disqualifies them, who steps in if they leave, when they must rotate off for independence, and how they can be removed with fair pr..."
+  },
+  {
+    "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+    "section_id": "CI-3.6.1",
+    "title": "Owner boundary",
+    "start_line": 146,
+    "end_line": 167,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.16\u2013CJS-3.18"
+    ],
+    "signals": [
+      "shared-procedure(2)",
+      "forum-system-touch(13)"
+    ],
+    "router_rows": [
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Chapter Seven holds the floor, and this section adds the template and procedure. The boundary between them: - **What Chapter Seven holds:** The constitutional floor \u2014 which systems must publish a System Charter and which institutions an Institutional Charte..."
+  },
+  {
+    "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+    "section_id": "CI-3.6",
+    "title": "System and Institutional Charter contents, review, and formation template",
+    "start_line": 123,
+    "end_line": 145,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.13\u2013CJS-3.4"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "forum-system-touch(10)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "*In plain terms: every institution needs a published scope document that says what it is for, what it may do, what it must not do, who it affects, how that document can change, and how often it is re-checked. For an institution that runs one system, that do..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13.1",
+    "title": "Opening a consequence matter",
+    "start_line": 76,
+    "end_line": 104,
+    "score": 5,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "shared-procedure(2)",
+      "forum-system-touch(7)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R19 \u2014 integrity assurance and resilience operations"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "*In plain terms: this procedure opens only on a verified finding. A late filing, a failed first check, or a mismatch is a defect to fix, not a reason to start a consequence matter. When a matter does open, the lead Integrity forum works up a ladder of measu..."
+  },
+  {
+    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
+    "section_id": "CI-5.2",
+    "title": "Institutional owner files and named routes",
+    "start_line": 66,
+    "end_line": 89,
+    "score": 5,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.13\u2013CJS-3.4",
+      "CJS-2.3"
+    ],
+    "signals": [
+      "shared-procedure(1)",
+      "dependency-failure(1)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 integrity assurance and resilience operations",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "*In plain terms: each institution must write down who does what when honesty or independence is at stake \u2014 not leave it implied. That means a published map of anti-corruption safeguards, named roles for publishing disclosures and tracking fix deadlines, rec..."
+  },
+  {
+    "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+    "section_id": "CI-3.6.6",
+    "title": "Periodic review",
+    "start_line": 271,
+    "end_line": 291,
+    "score": 5,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.16\u2013CJS-3.18",
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5"
+    ],
+    "signals": [
+      "dependency-failure(1)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "On the cadence its class sets in [Chapter Thirteen \u00a76 Timely resolution, materiality tiers, and anti-delay discipline](../core_13_forum.md#review-cadence) (*Review cadence*), and sooner after material incident, dependency growth, class change, credible chal..."
+  },
+  {
+    "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+    "section_id": "CI-3.6.5",
+    "title": "Formation check statement template",
+    "start_line": 243,
+    "end_line": 270,
+    "score": 5,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3.5\u2013CJS-3.8 / CJS-2.1 / CJS-2.5",
+      "CJS-3.22\u2013CJS-3.12",
+      "CJS-3.19\u2013CJS-3.53"
+    ],
+    "signals": [
+      "shared-procedure(3)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R23 \u2014 Seat types, local role maps, and wrong-seat routing",
+      "CJS-R22 \u2014 Standing-record custody, opening authority, and segregation of duties",
+      "CJS-R03 \u2014 Lawful panel formation, disclosure, recusal, substitution, inability-to-form"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "appointment",
+      "removal"
+    ],
+    "summary": "[Chapter Seven \u00a75 Formation Check: Office-Holder Standing and Authenticity](../core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity) holds the floor. This subsection is the template and procedure. It may be stricter and may not narr..."
+  }
+]

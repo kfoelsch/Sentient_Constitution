@@ -328,7 +328,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - Where the lawful ground itself bars even the marker, the ground is still recorded at the time of the act, and the marker appears when the bar ends.
 - **Automation carries the burden, not the steward:**
   - Recording is a design duty on the system, scaled to [Materiality](core_05_band_oversight.md#materiality) and [Dependency](core_05_band_continuity.md#dependency).
-  - A record that costs a steward extra hours after every act is an [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) defect. The fix is to build the capture, not to ask for more diligence.
+  - A record that costs a steward extra hours after every act is an [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) defect where capture was feasible and was not built. The fix is to build the capture, not to ask for more diligence.
 
 This principle does not:
 

@@ -59,3 +59,42 @@ Review note: project doc `claude/restricted-information-office-unread-files-revi
 - **3 (option A, approved later the same day).** CF-5.8 *What it decides under* now preserves material showing that a sentient is not at fault, or is less at fault (Article XIV-A); a summary, redaction or closed review may not strip it.
 
 Translations are not synced (paused).
+
+## 2026-10-18 — Time windows, sitting 1: seven decisions approved by the steward 2026-10-19
+
+- **1 (option B).** CS-2 §8.5 and CS-3 §7.5 restore the bullet "no later than the intake target of the tier that matches the system's class, counted from when changed conditions are recognized", beside the certification-interval check; the CS-3 §3.5 pointer names it again. The record-update reading in the Test 1 note is resolved.
+- **2 (option B).** CF-11.3.2: the fuller record is due no later than the end of the prompt-review window of the matter's tier (was the tier outer bound).
+- **3 (option A).** CF-11.3.2 "Reasons are recorded as part of the decision, not after it" confirmed.
+- **4 (option A).** CF-12.6 Document at Action wording confirmed.
+- **5 (option A).** Chapter Seven §1.6 windows for a missing System Charter or Institutional Charter keep the tier scale for all classes (Class L: response 8 days, resolution 60 days). Added to the Test 1 note.
+- **6 (steward's own option).** A Chartered Party that disputes its class has the windows of the class it already holds on its System Classification Record. The steward chose this over my option C. **Gap I filled:** a party that holds no class on record is counted at Tier C (my drafting; the old rule was Tier L). The regression scenario for the tool-lending club now says Tier C.
+- **7 (option A).** The repeat-request clarification in Chapter Seven §1.6 confirmed as written.
+
+Chapter Seventeen §1 heightened review stays open in TODO.md. Translations are not synced (paused).
+
+## 2026-10-18 — Time windows, sitting 2: core wording signed off by the steward 2026-10-19
+
+All recommendations confirmed.
+
+- **1 (A).** Chapter Thirteen §6 outer bounds of 7 / 14 / 30 / 60 / 90 days (Tiers C, L, P were 28 / 56 / 84), with the restore-challenge windows and Interim Hold lapse dates that follow them.
+- **2 (A).** Level 3 (Heavy) stays: Tier A up to 30 days and Tier B up to 60 on a renewed Continuation discipline showing.
+- **3 (A).** The prompt-review window stays at the intake-target figures (24 hours, 2, 4, 8, 12 days), with no cap for Tiers L and P.
+- **4 (A).** The Emergency level (Tier A only, protective steps within 3 days) and the calendar certification intervals, audit midpoint and audit advance allowance, as written.
+- **5 (A).** Article II-E deletion: a disclosed period, no later than 14 days, whatever class.
+- **6 (B).** Article XVIII-C, CS-5 and CS-9: the transition deadline is the outer bound of the Tier that matches the system's class (7, 14, 30, 60, 90 days), or 14 days where no class is held. CS-4 (Class C recovery) and CS-3 (Class L intervention) stay at 14 days. CJS-0.4 updated.
+- **7 (B).** Chapter One §16.4: the Avoidable Burden defect applies "where capture was feasible and was not built".
+
+Chapter Seventeen §1 heightened review stays open in TODO.md. Translations are not synced (paused).
+
+## 2026-10-18 — Time windows, sitting 3: names and audit rule approved by the steward 2026-10-19
+
+Recommendations 1, 3, 4 and 5 confirmed. Decision 2 (the "declaration window" collision) was answered in the same sitting: see the end of this entry.
+
+- **1 (A).** Domain-Specific Materiality (`core_05_band_oversight.md`): the Operating Party's answer to a classification challenge is due inside the **response window**, counted from the challenge, at the intake target of the Tier that matches the class it already holds (Tier C where none). CJS-0.4 now lists "a classification challenge" in the response window sense.
+- **3 (A).** CJS-0.4 gains two names in use: **Early-instantiation window** (Article VIII-C) and **Exclusivity term** (Article XVIII-D, CI-24). Nine registry names with no use in any owner were retired from `tools/time_reference_registry.json` (receipt window, completion window, register-entry window, contraction review interval, attachment spell ceiling, fee-use term, non-availability period, progress report interval, open-format transition window). The exclusivity term is kept.
+- **4 (A).** New lexical rule `review-in-tier-window`: review of a measure, order, hold, stay, or interim decision "inside the (matching) tier window" must say **prompt-review window**. Zero hits when added; the dated move log in `doc_architecture.md` is exempt.
+- **5 (A).** No Chapter Five definitions added for *complexity level*, *Emergency level*, or *Document at Action* (record only).
+
+Correction recorded: the sitting-3 sheet first said CI-14.4 had no "declaration window" collision and that "open-format transition window" was used by owners. Article XXVIII-A does use "Declaration windows" for the CI-14.4 enforceability declaration, and only "open-format transition controls" appears, so nine names (not eight) were unused.
+
+**2 (D, then A).** The steward chose to standardize the Article language on the Tier or Class window instead of renaming NUL-1's window. First, CI-14.4 was broken into subsections CI-14.4.1 to CI-14.4.12 (presentation only). Then, with option A for the basis: Article XXVIII-A *Declaration follows data* and CI-14.4.4 *Declaration bound* now say the enforceability declaration is due no later than the outer bound of the Tier that matches the scope's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P) where the scope is a system class, and 14 days (Tier B) for any other scope, counted from when the verified criteria are met; the plan may state a shorter bound, not a longer one. "Declaration window" now belongs to NUL-1 alone; CJS-0.4 says so.
