@@ -4,6 +4,8 @@
 `make regression` stays the gate. This script runs the same targets, hides their output, and prints a
 short table: one row per category in tools/architecture/audit_registry.json, with each failing target
 expanded to the lines that matter. Passing targets cost one table row.
+When manifest validation is selected, stale AI indexes are refreshed before any audits run.
+Use --no-refresh to check the existing indexes without updating them.
 
     python3 tools/audit_report.py --root .                    # the regression gate, grouped
     python3 tools/audit_report.py --root . --scope all        # also the audits outside the gate
@@ -274,6 +276,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--list", action="store_true")
     ap.add_argument("--strict", action="store_true", help="fail on any failing target, not only gate targets")
     ap.add_argument("--check-registry", action="store_true")
+    ap.add_argument("--no-refresh", action="store_true", help="check AI indexes without refreshing them first")
     args = ap.parse_args(argv)
 
     root = Path(args.root).resolve()
@@ -310,6 +313,25 @@ def main(argv: list[str] | None = None) -> int:
         return 2
 
     start = time.monotonic()
+    if "ai-manifest-validate" in names and not args.no_refresh:
+        try:
+            preparation = subprocess.run(
+                [sys.executable, str(root / "tools/validate_ai_manifests.py"), "--root", str(root), "--refresh"],
+                cwd=root, capture_output=True, text=True, timeout=args.timeout,
+            )
+            prep_rc = preparation.returncode
+            prep_output = preparation.stdout + preparation.stderr
+        except (subprocess.TimeoutExpired, OSError) as exc:
+            prep_rc, prep_output = 1, str(exc)
+        if prep_rc:
+            if args.json:
+                print(json.dumps({"passed": False, "preflight": {
+                    "rc": prep_rc, "excerpt": failure_excerpt(prep_output, args.max_lines),
+                }}, indent=2))
+            else:
+                print("FAIL: AI index refresh failed before audits ran", file=sys.stderr)
+                print(prep_output, file=sys.stderr)
+            return 1
     results = run_all(root, names, registry, max(1, args.jobs), args.timeout)
     elapsed = time.monotonic() - start
     results = {n: results[n] for n in names}

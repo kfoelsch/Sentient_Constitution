@@ -6,13 +6,16 @@ from __future__ import annotations
 import contextlib
 import io
 import json
+import subprocess
 import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import audit_report as ar  # noqa: E402
+import validate_ai_manifests as manifests  # noqa: E402
 
 MAKEFILE = """\
 PYTHON ?= python3
@@ -179,6 +182,100 @@ class EndToEndTests(unittest.TestCase):
         res = ar.run_target(self.root, "alpha-audit", timeout=0.5)
         self.assertEqual(res["rc"], 124)
         self.assertIn("TIMEOUT", res["output"])
+
+    def install_refresh_fixture(self, *, fail: bool = False) -> None:
+        text = MAKEFILE.replace("\t\tgamma-test;", "\t\tai-manifest-validate \\\n\t\tgamma-test;")
+        text += '\nai-manifest-validate:\n\t@test -f refreshed\n'
+        text = text.replace('@echo "gamma ok"', '@touch audited')
+        (self.root / "Makefile").write_text(text, encoding="utf-8")
+        reg = json.loads(json.dumps(REGISTRY))
+        reg["targets"]["ai-manifest-validate"] = {"category": "two", "run": "auto", "writes": False}
+        (self.root / ar.REGISTRY_REL).write_text(json.dumps(reg), encoding="utf-8")
+        (self.root / "tools/validate_ai_manifests.py").write_text(
+            'raise SystemExit("refresh generator failed")' if fail else
+            'from pathlib import Path\nPath("refreshed").touch()\nprint("generator output")\n',
+            encoding="utf-8",
+        )
+
+    def test_refresh_precedes_audits_and_preserves_json_output(self) -> None:
+        self.install_refresh_fixture()
+        with contextlib.redirect_stdout(io.StringIO()) as out:
+            rc = ar.main(["--root", str(self.root), "--category", "two", "--json"])
+        self.assertEqual(rc, 0)
+        self.assertTrue(json.loads(out.getvalue())["passed"])
+        self.assertTrue((self.root / "audited").exists())
+
+    def test_refresh_failure_stops_audits_and_returns_json_failure(self) -> None:
+        self.install_refresh_fixture(fail=True)
+        with contextlib.redirect_stdout(io.StringIO()) as out:
+            rc = ar.main(["--root", str(self.root), "--category", "two", "--json"])
+        self.assertEqual(rc, 1)
+        self.assertFalse(json.loads(out.getvalue())["passed"])
+        self.assertIn("refresh generator failed", out.getvalue())
+        self.assertFalse((self.root / "audited").exists())
+
+    def test_inspection_filtered_and_no_refresh_modes_do_not_refresh(self) -> None:
+        self.install_refresh_fixture()
+        base = ["--root", str(self.root)]
+        for flags, expected in [(["--list"], 0), (["--check-registry"], 0),
+                                (["--category", "one"], 1),
+                                (["--category", "two", "--no-refresh"], 1)]:
+            with self.subTest(flags=flags), contextlib.redirect_stdout(io.StringIO()):
+                self.assertEqual(ar.main(base + flags), expected)
+                self.assertFalse((self.root / "refreshed").exists())
+
+
+class ManifestRefreshTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.root = Path(self.tmp.name)
+        self.relative = "ai_corpus/indexes/section_manifest.json"
+        self.output = self.root / self.relative
+        self.output.parent.mkdir(parents=True)
+        self.output.write_text(json.dumps({"files": {}, "generated_at": "old", "stale": True}))
+        self.generated = {"files": {}, "generated_at": "new"}
+        script = self.root / "generate.py"
+        script.write_text(
+            'import json, sys\nfrom pathlib import Path\n'
+            f'Path(sys.argv[-1]).write_text(json.dumps({self.generated!r}))\n'
+        )
+        for patcher in [mock.patch.dict(manifests.EXPECTED_OUTPUTS, {"section_manifest": self.relative}, clear=True),
+                        mock.patch.dict(manifests.GENERATORS, {"section_manifest": "generate.py"}, clear=True)]:
+            patcher.start()
+            self.addCleanup(patcher.stop)
+
+    def test_stale_outputs_refresh_and_fresh_outputs_keep_bytes_and_mtime(self) -> None:
+        with self.assertRaisesRegex(SystemExit, "stale"):
+            manifests.check_freshness(self.root)
+        self.assertEqual(manifests.check_freshness(self.root, refresh=True), [self.relative])
+        # A timestamp change alone must not rewrite the file.
+        self.output.write_text(json.dumps({"files": {}, "generated_at": "different"}))
+        before = self.output.read_bytes(), self.output.stat().st_mtime_ns
+        self.assertEqual(manifests.check_freshness(self.root, refresh=True), [])
+        self.assertEqual((self.output.read_bytes(), self.output.stat().st_mtime_ns), before)
+
+    def test_missing_and_invalid_json_are_rebuilt(self) -> None:
+        for contents in [None, "not JSON"]:
+            with self.subTest(contents=contents):
+                if contents is None:
+                    self.output.unlink()
+                else:
+                    self.output.write_text(contents)
+                self.assertEqual(manifests.check_freshness(self.root, refresh=True), [self.relative])
+                self.assertEqual(json.loads(self.output.read_text()), self.generated)
+
+    def test_invalid_generated_data_or_generator_failure_preserves_existing_output(self) -> None:
+        before = self.output.read_bytes()
+        script = self.root / "generate.py"
+        script.write_text('import sys\nfrom pathlib import Path\nPath(sys.argv[-1]).write_text("{}")\n')
+        with self.assertRaisesRegex(SystemExit, "files object"):
+            manifests.check_freshness(self.root, refresh=True)
+        self.assertEqual(self.output.read_bytes(), before)
+        script.write_text('raise SystemExit("broken generator")\n')
+        with self.assertRaises(subprocess.CalledProcessError):
+            manifests.check_freshness(self.root, refresh=True)
+        self.assertEqual(self.output.read_bytes(), before)
 
 
 if __name__ == "__main__":

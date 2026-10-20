@@ -46,6 +46,10 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Regenerate manifests in a temporary directory and compare source-derived content.",
     )
+    parser.add_argument(
+        "--refresh", action="store_true",
+        help="Regenerate and validate manifests, replacing only missing or stale outputs.",
+    )
     return parser.parse_args()
 
 
@@ -179,7 +183,7 @@ def validate_shapes(root: Path) -> None:
     validate_id_resolver(load_json(root / EXPECTED_OUTPUTS["id_resolver"]))
 
 
-def check_freshness(root: Path) -> None:
+def check_freshness(root: Path, *, refresh: bool = False) -> list[str]:
     with tempfile.TemporaryDirectory(prefix="ai-manifest-") as temp:
         temp_root = Path(temp)
         generated_paths: dict[str, Path] = {}
@@ -192,19 +196,47 @@ def check_freshness(root: Path) -> None:
                 cwd=root,
             )
         stale: list[str] = []
+        validators = {
+            "section_manifest": validate_section_manifest,
+            "definition_registry": validate_definition_registry,
+            "crossref_matrix": validate_crossref_matrix,
+            "section_crossref": validate_section_crossref,
+            "id_resolver": validate_id_resolver,
+        }
+        # Validate every generated output before replacing any tracked file.
+        for name, generated_path in generated_paths.items():
+            validators[name](load_json(generated_path))
         for name, expected_rel in EXPECTED_OUTPUTS.items():
-            current = without_generation_time(load_json(root / expected_rel))
             generated = without_generation_time(load_json(generated_paths[name]))
+            try:
+                current = without_generation_time(load_json(root / expected_rel))
+            except SystemExit:
+                if not refresh:
+                    raise
+                stale.append(expected_rel)
+                continue
             if current != generated:
                 stale.append(expected_rel)
-        if stale:
+        if stale and not refresh:
             joined = "\n  - ".join(stale)
             raise SystemExit(f"AI corpus manifests are stale:\n  - {joined}\nRun `make ai-corpus-sync`.")
+        if refresh:
+            for name, expected_rel in EXPECTED_OUTPUTS.items():
+                if expected_rel in stale:
+                    destination = root / expected_rel
+                    destination.parent.mkdir(parents=True, exist_ok=True)
+                    destination.write_bytes(generated_paths[name].read_bytes())
+        return stale
 
 
 def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
+    if args.refresh:
+        changed = check_freshness(root, refresh=True)
+        validate_shapes(root)
+        print(f"AI corpus indexes refreshed: {len(changed)} updated.")
+        return 0
     validate_shapes(root)
     if args.check_freshness:
         check_freshness(root)
