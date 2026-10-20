@@ -51,8 +51,9 @@ This file is the institutional implementation home for **CI-26** (*Compliance ma
 | **CI-8** | Transparency, participation, accessible challenge and service pathways, protected escalation, and disclosure taxonomy |
 | **CI-9** | Classification-linked institutional obligations and scaling map |
 | **CI-12** | Cross-institution coordination and escalation |
-| **CI-13** | Institutional failure, graduated sanctions, dissolution, and continuity transfer |
+| **CI-13** | Institutional failure, the findings and notice that precede an order, and dissolution with continuity transfer |
 | **CI-27** | Remedy systems and institutional redress capacity |
+| **CI-28** | Institutional accountability, graduated sanctions, Systems under consequence orders, review, and enforcement |
 **Domain-specific section homes**
 | Section | Topic |
 |---|---|

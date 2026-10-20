@@ -14,7 +14,7 @@
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-5.1: Shared anti-capture floors](#ci-51-shared-anti-capture-floors); [CI-5.2: Institutional owner files and named routes](#ci-52-institutional-owner-files-and-named-routes); [CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)](#ci-53-integrity-trigger-taxonomy-and-cross-layer-routing-control-package).
-- Read with: **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-5.1** (*Shared anti-capture floors*); **CI-5.2** (*Institutional owner files and named routes*); **CI-5.3** (*Integrity trigger taxonomy and cross-layer routing (control package)*); **CI-7.2** (*External assurance triggers*); **CI-12** (*Cross-institution coordination and escalation*); **CI-11** (*Resource stewardship and incentive integrity*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CI-6** (*Procedure integrity, contestability, and secondary review*).
+- Read with: **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-5.1** (*Shared anti-capture floors*); **CI-5.2** (*Institutional owner files and named routes*); **CI-5.3** (*Integrity trigger taxonomy and cross-layer routing (control package)*); **CI-7.2** (*External assurance triggers*); **CI-12** (*Cross-institution coordination and escalation*); **CI-11** (*Resource stewardship and incentive integrity*); **CI-13** (*Institutional failure and dissolution*); **CI-28** (*Institutional accountability and sanctions*); **CI-6** (*Procedure integrity, contestability, and secondary review*).
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 - Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*); primary owner **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*); primary owner **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
@@ -67,7 +67,7 @@ Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) *
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-5.2** (*Institutional owner files and named routes*); **CI-7.2** (*External assurance triggers*); **CI-12** (*Cross-institution coordination and escalation*); **CI-11** (*Resource stewardship and incentive integrity*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CI-6** (*Procedure integrity, contestability, and secondary review*).
+- Read with: **CI-5.2** (*Institutional owner files and named routes*); **CI-7.2** (*External assurance triggers*); **CI-12** (*Cross-institution coordination and escalation*); **CI-11** (*Resource stewardship and incentive integrity*); **CI-13** (*Institutional failure and dissolution*); **CI-28** (*Institutional accountability and sanctions*); **CI-6** (*Procedure integrity, contestability, and secondary review*).
 
 </details>
 
@@ -83,7 +83,7 @@ Each institution must maintain and publish:
 - escalation paths to **CI-7.2** (*External assurance triggers*) or **CI-12** (*Cross-institution coordination and escalation*) when local review lacks credible independence.
 
 Each institution must also name:
-- who publishes each disclosure category, who keeps the resolution-window file, and where sanctions cases escalate (**CI-11** (*Resource stewardship and incentive integrity*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*));
+- who publishes each disclosure category, who keeps the resolution-window file, and where sanctions cases escalate (**CI-11** (*Resource stewardship and incentive integrity*), **CI-13** (*Institutional failure and dissolution*), **CI-28** (*Institutional accountability and sanctions*));
 - who keeps grave-breach forfeiture records and the contest route under **CI-6** (*Procedure integrity, contestability, and secondary review*); and
 - for supervised contingent-claim or event-market systems: who governs resolution sources, how decision power is separated, and how insider-information abuse is prevented.
 
@@ -119,7 +119,7 @@ When a trigger fires, route it to the correct owner section — not every proble
 - **CI-3** — structural independence and lane safeguards when capture is suspected;
 - **CI-6** — fair procedure and contest rights;
 - applicable **CF** sections — forum-side support; and
-- **CI-11** (*Resource stewardship and incentive integrity*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) for sanctions where misconduct is confirmed.
+- **CI-11** (*Resource stewardship and incentive integrity*), **CI-28** (*Institutional accountability and sanctions*) for sanctions where misconduct is confirmed.
 
 Contribution, violation, standing, and Violation Axis measurement remain under **Chapter Ten** and **Chapter Twelve**.
 

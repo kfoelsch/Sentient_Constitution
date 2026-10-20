@@ -56,7 +56,7 @@
 
 *In plain terms: labels like **CI-7.2** (*External assurance triggers*) are institutional-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply **CJS-1.1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) and **CI-3** (*Institutional design, separation of powers, and authority custody*) through **CI-27** (*Remedy systems and institutional redress capacity*). Subsections use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** means the *corpus institutions* implementation layer ([corpus_institutions.md](../corpus_institutions.md)). Domain routing formerly labeled **CI-2** (*reserved family ID*) now lives in this registry annex.
+Apply **CJS-1.1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) and **CI-3** (*Institutional design, separation of powers, and authority custody*) through **CI-28** (*Institutional accountability and sanctions*). Subsections use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** means the *corpus institutions* implementation layer ([corpus_institutions.md](../corpus_institutions.md)). Domain routing formerly labeled **CI-2** (*reserved family ID*) now lives in this registry annex.
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this folder point to Sentient Constitution Chapter Six in the `core_06_rights_part_*.md` files.
 
@@ -74,7 +74,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 *In plain terms: the human table of contents for this folder lives on the [Institutions landing page](../corpus_institutions.md).*
 
-*Filename note:* each `ci_NN_*` prefix matches its **CI-*NN*** section number (for example `ci_08_*` is **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) transparency). **CI-2** (*reserved family ID*) is unused; institutions domain routing lives in this annex under [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex). Grouped family list: [corpus_institutions.md](../corpus_institutions.md).
+*Filename note:* each `ci_NN_*` prefix matches its **CI-*NN*** section number (for example `ci_08_*` is **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) transparency). **CI-2** (*reserved family ID*) is unused; institutions domain routing lives in this annex under [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex). Grouped family list: [corpus_institutions.md](../corpus_institutions.md). **CI-28** (*Institutional accountability and sanctions*) was split out of **CI-13** (*Institutional failure and dissolution*) and is the file read right after it, so the reading chain runs **CI-13** (*Institutional failure and dissolution*), **CI-28** (*Institutional accountability and sanctions*), then **CI-14** (*Transitional governance and institutional evolution*).
 
 ## Institutions domain routing (integrator annex)
 <a id="institutions-domain-routing-integrator-annex"></a>

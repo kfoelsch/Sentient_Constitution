@@ -493,7 +493,7 @@ Each institution in scope must publish locally the ledger owner, independent ver
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-14.5** (*prioritizing institutional transition targets*); **CI-9** (*Classification-linked institutional obligations*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CS-10.7** (*Prioritizing system transition targets*).
+- Read with: **CI-14.5** (*prioritizing institutional transition targets*); **CI-9** (*Classification-linked institutional obligations*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-13** (*Institutional failure and dissolution*); **CI-28** (*Institutional accountability and sanctions*); **CS-10.7** (*Prioritizing system transition targets*).
 
 </details>
 
@@ -525,7 +525,7 @@ Each institution in scope must publish locally the ledger owner, independent ver
 - **Strictest gates at the top:** the highest-exposure tiers receive the strictest gate criteria, verification, and rollback readiness.
 - **Risk shapes the approach:** transition risk shapes how and when a cutover happens. It does not change the tier, and it does not defer measurement, interim safeguards, or restraint duties.
 - **Re-rank:** at every gate and whenever classification or findings change, with the change explained.
-- **Non-cooperation:** route to **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) institutional-failure handling and **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) where it applies. It does not lower the institution's priority.
+- **Non-cooperation:** route to **CI-13** (*Institutional failure and dissolution*) institutional-failure handling and **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) where it applies. It does not lower the institution's priority.
 
 **Equity check and publication**
 
@@ -534,6 +534,6 @@ Each institution in scope must publish locally the ledger owner, independent ver
 
 ---
 
-**Previous file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)
+**Previous file:** [ci_28_institutional_accountability_sanctions.md](ci_28_institutional_accountability_sanctions.md)
 
 **Next file:** [ci_15_neurodiversity_disability_justice_trauma_informed_participation.md](ci_15_neurodiversity_disability_justice_trauma_informed_participation.md)

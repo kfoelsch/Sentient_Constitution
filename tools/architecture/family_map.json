@@ -441,8 +441,14 @@
           "entries": [
             {
               "id": "CI-13",
-              "label": "CI-13: Institutional failure, sanctions, dissolution, and accountability",
-              "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+              "label": "CI-13: Institutional failure and dissolution",
+              "file": "corpus_institutions/ci_13_institutional_failure_dissolution.md",
+              "status": "active"
+            },
+            {
+              "id": "CI-28",
+              "label": "CI-28: Institutional accountability and sanctions",
+              "file": "corpus_institutions/ci_28_institutional_accountability_sanctions.md",
               "status": "active"
             },
             {

@@ -88,7 +88,7 @@ An alignment ruling must be attributable and reviewable. At minimum, the record 
 - the priority basis for sequencing where multiple components compete;
 - any stays, sequencing requirements, milestones, or coordination orders the Integrity forum keeps on the lead record; and
 - where applicable, the remediation options or menus, including which elements are binding and which are advisory, consistent with **Chapter Thirteen**, **section 4**; and
-- where a consequence matter is open, the findings, rung, order terms, verification result, term and review dates, and any defiance finding that **CI-13.1** (*Opening a consequence matter*) through **CI-13.10** (*Review, fairness, and enforcement*) require the lead record to carry.
+- where a consequence matter is open, the findings, rung, order terms, verification result, term and review dates, and any defiance finding that **CI-13.1** (*Opening a consequence matter*) through **CI-13.4** (*Dissolution*) and **CI-28.1** (*Correction and constrained authority*) through **CI-28.6** (*Review, fairness, and enforcement*) require the lead record to carry.
 
 ### CF-7.1.2 Component Referral and Priority Publication
 
