@@ -14,7 +14,7 @@
 
 - Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXIV** (*Root Cause Analysis and Adaptive Response*); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-81-purpose-and-role); [§2](#cs-82-system-health-and-degradation-awareness); [§3](#cs-83-adaptive-allocation-requirement); [§9](#cs-89-self-healing-and-recovery-path-integration).
-- Read with: **CS-8** (*Adaptive sustainability and ecosystem resilience*); **CS-9** (*Resource allocation and funding stewardship*); **CS-5** (*User-facing capability surfaces*); **CS-6** (*Comprehensibility and complexity stewardship*); **Article XIII-F** (*Resilience and Self-Healing Baseline*).
+- Read with: **CS-8** (*Adaptive sustainability and ecosystem resilience*); **CS-9** (*Resource allocation and funding stewardship*); **CS-5** (*System lifecycle*); **CS-6** (*Comprehensibility and complexity stewardship*); **Article XIII-F** (*Resilience and Self-Healing Baseline*).
 
 </details>
 
@@ -107,7 +107,7 @@ Where root causes are unclear or multi-causal, systems must:
 - **avoid irreversible or over-concentrated interventions**
 - **perform additional root cause analysis** where feasible within controlled environments (**Article XXIV-A** (*Diagnostic Rigor and Causal Attribution*); **Article XVII-A** (*Lifecycle Governance and Environment Separation*)), prioritizing **sandboxed development environments**, **controlled, low-impact environments**, and **higher-impact environments only when lower-risk options are not feasible**
 
-Preference should be given to **reversible actions** (**CS-5** (*User-facing capability surfaces*); Principle of Reversibility), **low-risk exploratory interventions**, and **approaches that preserve future optionality and minimize harm**.
+Preference should be given to **reversible actions** (**CS-5** (*System lifecycle*); Principle of Reversibility), **low-risk exploratory interventions**, and **approaches that preserve future optionality and minimize harm**.
 
 <a id="34-feedback-and-iteration"></a>
 ### 3.4 Feedback and iteration
@@ -191,18 +191,18 @@ Adaptive allocation remains subject to **Article XVI-A** (*Auditability and Obse
 <a id="cs-8-9-self-healing-and-recovery-path-integration"></a>
 ## CS-8.9 Self-healing and recovery-path integration
 
-*In plain terms: Adaptive allocation must satisfy the CS-5 (*User-facing capability surfaces*) self-healing test-and-verify profile; this section adds only ecosystem-specific cross-checks.*
+*In plain terms: Adaptive allocation must satisfy the CS-5 (*System lifecycle*) self-healing test-and-verify profile; this section adds only ecosystem-specific cross-checks.*
 
-This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)**, **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing). It is a CS-8 (*Adaptive sustainability and ecosystem resilience*)-specific application of **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
+This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)**, **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing). It is a CS-8 (*Adaptive sustainability and ecosystem resilience*)-specific application of **CS-5** (*System lifecycle*) **§9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
 
-Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must satisfy **Article XIII-F** (*Resilience and Self-Healing Baseline*) recovery floors and the **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*) test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. CS-8 (*Adaptive sustainability and ecosystem resilience*) adds only the ecosystem-specific cross-checks below.
+Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must satisfy **Article XIII-F** (*Resilience and Self-Healing Baseline*) recovery floors and the **CS-5** (*System lifecycle*) **§9** (*Self-healing and recovery-path integrity*) test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. CS-8 (*Adaptive sustainability and ecosystem resilience*) adds only the ecosystem-specific cross-checks below.
 
 - Root-cause analysis under **§3.1** (*Root cause analysis*) must not let adaptive reallocation suppress, overwrite, obscure, or repeatedly silence the fault signals that triggered it. Recurrence across cycles remains a single open root-cause obligation under **§3.1** (*Root cause analysis*) and **Article XXIV-A** (*Diagnostic Rigor and Causal Attribution*).
 - Where adaptive response narrows capacity that implements Chapter Six guarantees (for example, contestability capacity, audit fidelity, or participation access), narrowing must be explicit, time-bounded, and escalated under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition-governance when degraded modes persist beyond pre-declared thresholds.
 - Anti-concentration obligations under **§6** (*Anti-concentration and resilience*) apply to recovery-time authority as well as steady-state authority. Ecosystem recovery must not become a vector for concentrated resources, influence, dependencies, credentials, or decision control.
 - The governance-integration rule in **§8** (*Governance integration*) controls adaptive or self-healing mechanisms in this file. They may not substitute for governance, reduce [Auditability](../core_05_band_oversight.md#auditability), [Transparency](../core_05_band_oversight.md#transparency), contestability, or stewardship obligations under [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment).
 
-Where this subsection is silent, **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*), Chapter One §10 (*Resilience and Self-Healing Design*), **Article XIII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This subsection does not create rights and must not be read to narrow those homes.
+Where this subsection is silent, **CS-5** (*System lifecycle*) **§9** (*Self-healing and recovery-path integrity*), Chapter One §10 (*Resilience and Self-Healing Design*), **Article XIII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This subsection does not create rights and must not be read to narrow those homes.
 
 <a id="cs-8-10-regenerative-alignment-circular-material-flows-and-bioregional-stewardship-implementation-profile"></a>
 ## CS-8.10 Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)

@@ -14,7 +14,7 @@
 
 - Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-1.9](#cjs-19-boundary-between-support-roles-and-merits-decisions) (*CJS-1.11: Support roles, hosting independence, and classification alignment*); [CJS-1.10](#cjs-110-institution-hosted-or-forum-adjacent-operations) (*Institution-hosted or forum-adjacent operations*); [CJS-1.11](#cjs-111-classification-alignment-for-supervised-scope) (*Classification alignment for supervised scope*).
-- Read with: **CJS-1.9** (*CJS-1.11: Support roles, hosting independence, and classification alignment*); **CJS-1.10** (*Institution-hosted or forum-adjacent operations*); **CJS-1.11** (*Classification alignment for supervised scope*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*); **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
+- Read with: **CJS-1.9** (*Boundary Between Support Roles and Merits Decisions*); **CJS-1.10** (*Institution-hosted or forum-adjacent operations*); **CJS-1.11** (*Classification alignment for supervised scope*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*); **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-1.9** (*CJS-1.11: Support roles, hosting independence, and classification alignment*), **CJS-1.10** (*Institution-hosted or forum-adjacent operations*), and **CJS-1.11** (*Classification alignment for supervised scope*).
+This file is the joint-structure implementation home for **CJS-1.9** (*Boundary Between Support Roles and Merits Decisions*), **CJS-1.10** (*Institution-hosted or forum-adjacent operations*), and **CJS-1.11** (*Classification alignment for supervised scope*).
 
 *In plain terms: monitors and forensic helpers must not quietly decide who wins; hosting a forum's building or software does not let the host control its decisions; and a system's published risk class must match how it is actually run.*
 
@@ -38,7 +38,7 @@ This file is the joint-structure implementation home for **CJS-1.9** (*CJS-1.11:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-1.9** (*CJS-1.11: Support roles, hosting independence, and classification alignment*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*); [Merits Determination](../core_05_band_accountability.md#merits-determination).
+- Read with: **CJS-1.9** (*Boundary Between Support Roles and Merits Decisions*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*); [Merits Determination](../core_05_band_accountability.md#merits-determination).
 
 </details>
 

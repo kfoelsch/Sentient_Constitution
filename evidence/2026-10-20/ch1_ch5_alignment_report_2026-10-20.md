@@ -1,31 +1,30 @@
 # Chapter 1 ↔ Chapter 5 Alignment Audit Report
 
-**Date:** 2026-10-04
+**Date:** 2026-10-20
 
 **Workflow:** CH1_CH5_ALIGNMENT_CHECK
 
 ## Executive Summary
 
-- **Coverage:** 61/62 principles that require D/A/C widgets have complete definition mappings
-- **Anchored principles:** 61/62 (79 indexed; Preamble and §3/§6 preview parents are excluded from completeness)
-- **Completeness Gaps:** 1 principles missing anchors
+- **Coverage:** 64/64 principles that require D/A/C widgets have complete definition mappings
+- **Anchored principles:** 64/64 (82 indexed; Preamble and §3/§6 preview parents are excluded from completeness)
+- **Completeness Gaps:** 0 principles missing anchors
 - **Accuracy Gaps:** 0 incomplete guidepost components
-- **Coverage Gaps:** 5 unexpected orphans/unreferenced items
-- **Expected non-anchors:** 149 (15 cluster heads; 134 later-chapter or uninvoked leaves)
+- **Coverage Gaps:** 8 unexpected orphans/unreferenced items
+- **Expected non-anchors:** 164 (15 cluster heads; 149 later-chapter or uninvoked leaves)
 - **Cluster Integrity:** 0 potential segmentations
-- **oDef backlinks:** 51/267 Def.* terms cited from CJS-3
-
-## Completeness Findings
-
-- **2.1** (Non-Negotiable Principle Constraints: Safety and Truth): No definition anchors found
+- **oDef backlinks:** 53/290 Def.* terms cited from CJS-3
 
 ## Coverage Findings
 
 - Orphan definition: **Constitutional Contract Layer** (semi_independent)
 - Orphan definition: **Documented Legitimacy Mechanism** (semi_independent)
 - Orphan definition: **Heightened Scrutiny** (semi_independent)
+- Orphan definition: **Misaligned Reward Correction** (dependent_cluster)
+- Orphan definition: **Misalignment Detection** (dependent_cluster)
+- Orphan definition: **Open Systems, Data, and Auditing** (dependent_cluster)
+- Orphan definition: **Outcome-Resolution Source** (semi_independent)
 - Orphan definition: **Subversion** (semi_independent)
-- Unreferenced principle: **2.1** (Non-Negotiable Principle Constraints: Safety and Truth)
 
 ## oDef Application
 
@@ -35,7 +34,6 @@
 | Accountability | apex | — | CJS-3.0, CJS-3.10, CJS-3.11, CJS-3.13, CJS-3.15, CJS-3.16, CJS-3.18, CJS-3.2, CJS-3.22, CJS-3.23, CJS-3.3, CJS-3.4, CJS-3.6, CJS-3.8 |
 | Auditability | dependent_cluster | Def.O1 | CJS-3.0, CJS-3.11, CJS-3.12, CJS-3.14, CJS-3.16, CJS-3.17, CJS-3.18, CJS-3.19, CJS-3.2, CJS-3.20, CJS-3.21, CJS-3.22, CJS-3.23, CJS-3.3, CJS-3.4, CJS-3.5, CJS-3.6, CJS-3.7, CJS-3.8 |
 | Cascading Failure | semi_independent | — | CJS-3.23, CJS-3.6 |
-| Charter | semi_independent | Def.P2 | CJS-3.11 |
 | Competency Bar | dependent_cluster | Def.A3 | CJS-3.0 |
 | Competency Clearance | dependent_cluster | Def.A3 | CJS-3.0 |
 | Consent | semi_independent | — | CJS-3.10, CJS-3.9 |
@@ -51,6 +49,8 @@
 | Good Faith | semi_independent | Def.O2 | CJS-3.21 |
 | Governance | semi_independent | — | CJS-3.0, CJS-3.11, CJS-3.12, CJS-3.14, CJS-3.16, CJS-3.2, CJS-3.21, CJS-3.22, CJS-3.5 |
 | Info-Sphere | semi_independent | — | CJS-3.23 |
+| Institutional Charter | semi_independent | — | CJS-3.11 |
+| Interested Party | semi_independent | — | CJS-3.6 |
 | Irreversible Harm | dependent_cluster | Def.A1 | CJS-3.20 |
 | Market Concentration Threshold | semi_independent | — | CJS-3.11 |
 | Market Structure | semi_independent | — | CJS-3.11 |
@@ -75,6 +75,7 @@
 | System | semi_independent | — | CJS-3.19, CJS-3.20, CJS-3.22, CJS-3.3, CJS-3.5, CJS-3.9 |
 | System Alignment Certification | semi_independent | — | CJS-3.3 |
 | System Certification Record | semi_independent | — | CJS-3.4 |
+| System Charter | semi_independent | Def.P2 | CJS-3.11 |
 | System Classification Record | semi_independent | — | CJS-3.0, CJS-3.15, CJS-3.4 |
 | System Data Types Record | semi_independent | — | CJS-3.15, CJS-3.4 |
 | Timeliness | apex | — | CJS-3.7 |
@@ -85,6 +86,5 @@
 
 ## Remediation Roadmap
 
-1. **Add missing anchors** to principles without definition references
 4. **Review unexpected orphans** — add D/A/C rows where Chapter One operatively invokes the term
 5. Semantic adequacy of principle ↔ definition mapping remains a manual-review item.

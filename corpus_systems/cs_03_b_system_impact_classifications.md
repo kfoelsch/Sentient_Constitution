@@ -12,7 +12,7 @@
 
 <br>
 
-**CS-3** (*System classification machinery*), **Part B**, owns **system impact classifications** (**Class A** through **Class P**) and per-class scaled duties. Classification determination, dependency typing, and governance are in **[Part A](cs_03_a_system_classification_machinery.md#cs-3-part-a-system-classification-machinery)**.
+This file is the systems implementation home for **CS-3** (*System classification machinery*), **Part B**. It owns **system impact classifications** (**Class A** through **Class P**) and per-class scaled duties. Classification determination, dependency typing, and governance are in **[Part A](cs_03_a_system_classification_machinery.md#cs-3-part-a-system-classification-machinery)**.
 *In plain terms: Part B names each impact class — Survival-critical through Personal/private — compares them aspect by aspect, and states what each class must do for transparency, audit, intervention, resilience, and governance.*
 
 <a id="cs-3-8-system-impact-classifications"></a>

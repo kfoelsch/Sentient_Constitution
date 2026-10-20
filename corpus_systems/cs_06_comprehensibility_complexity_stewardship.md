@@ -95,6 +95,6 @@ Where this file is silent, the governing sources are **Article XXIII** (*Compreh
 
 ---
 
-**Previous file:** [cs_05_a_user_facing_capabilities.md](cs_05_a_user_facing_capabilities.md)
+**Previous file:** [cs_13_system_requirements.md](cs_13_system_requirements.md)
 
 **Next file:** [cs_07_justice_safeguards_restitution_rehabilitation.md](cs_07_justice_safeguards_restitution_rehabilitation.md)

@@ -19,7 +19,7 @@
 
 <br>
 
-This file is the joint-structure implementation home for **Oversight leg (CJS-3.2 (*Oversight: reflexive transparency and accountability terms*)–CJS-3.6 (*Oversight: integrity assurance and resilience operations*) / oDef.2–oDef.6)**.
+This file is the joint-structure implementation home for **Oversight leg (CJS-3.2 (*Oversight: reflexive transparency and accountability terms*)–CJS-3.6 (*Oversight: integrity assurance and resilience operations*) / oDef.2–oDef.6)**. **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*) is held here as the annex; its audit process home is [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home).
 
 *In plain terms: These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere.*
 

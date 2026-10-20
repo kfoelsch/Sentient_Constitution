@@ -13,7 +13,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Stewardship](../core_05_band_continuity.md#stewardship); [Dependency](../core_05_band_continuity.md#dependency); [System Classification Record](../core_05_band_continuity.md#system-classification-record); **CS-3 — System classification and handling**; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CS-4.1](#cs-41-purpose-and-scope) (*Purpose and scope*); [CS-4.2](#cs-42-classification-as-steward) (*Classification as steward*); [CS-4.3](#cs-43-stewardship-criticality-levels) (*Stewardship criticality levels*); [CS-4.20](#cs-420-evasion-and-reclassification) (*Evasion and reclassification*); **CS-5** (*User-facing capability surfaces*); **CS-6** (*Comprehensibility and complexity stewardship*).
+- Downstream: [CS-4.1](#cs-41-purpose-and-scope) (*Purpose and scope*); [CS-4.2](#cs-42-classification-as-steward) (*Classification as steward*); [CS-4.3](#cs-43-stewardship-criticality-levels) (*Stewardship criticality levels*); [CS-4.20](#cs-420-evasion-and-reclassification) (*Evasion and reclassification*); **CS-5** (*System lifecycle*); **CS-6** (*Comprehensibility and complexity stewardship*).
 - Read with: **CS-4** (*Critical system stewardship*); **CS-3 — System classification and handling**; **CJS-3.16** (*dependency integrity and disclosure terms*); [Critical system steward](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#critical-system-steward); [Stewardship role](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#stewardship-role); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*); **CJS-3.23** (*Integrative: intervention and override integrity terms*).
 
 </details>
@@ -33,12 +33,12 @@
 
 <br>
 
+This file is the systems implementation home for **CS-4** (*Critical system stewardship*).
+
 <a id="cs-4-1-purpose-and-scope"></a>
 ## CS-4.1 Purpose and scope
 
 *In plain terms: Some organizations are load-bearing: if they stop, a critical system cannot run, recover, or be governed, and no substitute is available in time. **CS-4** (*Critical system stewardship*) identifies those stewards and sets what they owe in return for that position — continuity planning, transparency about dependencies, and limits on using the position as leverage.*
-
-This file is the systems implementation home for **CS-4** (*Critical system stewardship*).
 
 How the file is organized:
 
@@ -129,7 +129,7 @@ Stewards must not use organizational, contractual, or procedural complexity to d
 
 **Link to CS-3.** For each Class A, B, or C system the steward materially affects, the Comprehensibility and Complexity Stewardship line in that system's Implementation label Application Profile (**CS-3 — System classification and handling**) applies to the steward-controlled interfaces, documentation, tooling, and disclosed behavior that bear on that system.
 
-The levels below add organization-specific expectations about governance structure, incentives, subcontractor chains, and handoffs. Where they differ in stringency from the system's class profile, the stricter one governs, under the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) rule (**CS-5** (*Design, testing, verification, and deployment; User-facing capability surfaces*) and **CS-6** (*Comprehensibility and complexity stewardship*) in this implementation file; [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) for the cross-file rule).
+The levels below add organization-specific expectations about governance structure, incentives, subcontractor chains, and handoffs. Where they differ in stringency from the system's class profile, the stricter one governs, under the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) rule (**CS-5** (*System lifecycle*) and **CS-6** (*Comprehensibility and complexity stewardship*) in this implementation file; [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) for the cross-file rule).
 
 - **CSS-A — Maximum (organizational):**
   - Run periodic, independent complexity audits of the structures, processes, and dependencies that touch Class A or survival-critical paths, at least as often as Class A audits under **CS-6** (*Comprehensibility and complexity stewardship*).
@@ -233,7 +233,7 @@ These mechanisms include fallbacks, transfer routes, or intervention triggers se
 
 **Crisis governance, communications, and exercises:**
 
-- Put governance continuity, crisis communications, and exercises in place, coordinated with **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*).
+- Put governance continuity, crisis communications, and exercises in place, coordinated with **CS-5** (*System lifecycle*) **§8** (*Governance continuity, crisis communications, and exercises*).
 - Scale them by **CS-3 — System classification and handling** class and by CSS level (A, B, or C).
 - Keep clear roles, backup authority, and communications that preserve epistemic integrity and auditability. They must not displace **Article XIX-A** (*Standing Distinction*), the Chapter Fourteen decision-resolution requirements, or **CJS-3.14** (*intervention governance and override-authorization terms*) and **CJS-3.23** (*intervention and override integrity terms*).
 
@@ -344,7 +344,7 @@ To keep competency from being siloed or bought, a steward must do the following:
 
 Use deputies, backups, cross-training, and documented handoffs, so that unavailability does not end constitutional operation, auditability, or intervention. The principle is in [Chapter One §17.6 Portable Competence](../core_01_c_stewardship_capacity_principles.md#176-portable-competence).
 
-This aligns with the continuity and transfer duties in [§9 Continuity, transfer, and exit integrity](#cs-49-continuity-transfer-and-exit-integrity) and with **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*). It is stricter for Class A and CSS-A.
+This aligns with the continuity and transfer duties in [§9 Continuity, transfer, and exit integrity](#cs-49-continuity-transfer-and-exit-integrity) and with **CS-5** (*System lifecycle*) **§8** (*Governance continuity, crisis communications, and exercises*). It is stricter for Class A and CSS-A.
 
 <a id="cs-4-10-6-oversight-effectiveness-review"></a>
 ### CS-4.10.6 Oversight effectiveness review
@@ -382,7 +382,7 @@ These are illustrative requirements.
 - **CSS-A — Maximum:**
   - Keep competency matrices, or the equivalent.
   - Hold an oversight-effectiveness review at least once a year (the CSS-A review interval), or sooner if the pace of change warrants.
-  - Exercise succession and handoffs, with drills, alongside **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*).
+  - Exercise succession and handoffs, with drills, alongside **CS-5** (*System lifecycle*) **§8** (*Governance continuity, crisis communications, and exercises*).
 - **CSS-B — Strict:**
   - Run competency and oversight-effectiveness reviews no less often than the material Class B classification review or integrated risk review, unless **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*) justify a different schedule.
   - Make succession mandatory for roles that gate intervention or audit.

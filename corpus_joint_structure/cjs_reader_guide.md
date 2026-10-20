@@ -60,7 +60,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 | Label family | Example headers | What they are |
 |---|---|---|
 | **CJS** (this layer) | **CJS-1**, **CJS-1.1**, **CJS-0.1**, **CJS-2.3** | Joint-structure sections |
-| **CS** | **CS-1** through **CS-12** | Systems families |
+| **CS** | **CS-1** through **CS-13** | Systems families |
 | **CI** | **CI-1**, **CI-7.2**, **CI-9** | Institutions sections |
 | **CF** | **CF-1**, **CF-4**, **CF-7.2** | Forum sections |
 | **oDef** (operational definitions) | **oDef.13**, **oDef.16**, **oDef.3** | Shared how-to clusters in **CJS-3** (same as **CJS-3.*n***) |

@@ -31,6 +31,8 @@
 
 <br>
 
+Chapter One, Part C, is the constitutional owner of **stewardship, governance, incentive alignment and capture, and integrated application**. The principles they apply are in **Part A**; collision resolution and interpretation are in **Part B**.
+
 <a id="16-stewardship-in-depth"></a>
 
 ### 16. Stewardship In Depth

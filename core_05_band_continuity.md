@@ -20,7 +20,7 @@
 
 ---
 
-This band holds definitions under the constitutional [Continuity aim](core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1 The Model](core_00_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim)) is distinct from operational or protocol continuity elsewhere in the corpus.
+Chapter Five, Continuity band, is the constitutional owner of the **definitions under the constitutional [Continuity aim](core_00_preamble.md#continuity)**, including dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1 The Model](core_00_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim)) is distinct from operational or protocol continuity elsewhere in the corpus.
 | Cluster | Section |
 |---|---|
 | **Def.C1** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work |
@@ -273,7 +273,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - Canonical owner: [Chapter Nine Part A §2.2 Pilot certification](core_09_a_system_alignment_certification_evaluation.md#22-pilot-certification) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Nine Part B §7 Certification Outcomes](core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*the go-live gate*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
-- Downstream: [CS-5 — Design, testing, verification, and deployment](corpus_systems/cs_05_design_testing_verification_deployment.md) (*progressive deployment*).
+- Downstream: [CS-5 — System lifecycle](corpus_systems/cs_05_design_testing_verification_deployment.md) (*progressive deployment*).
 - Read with: [Go-Live](core_05_band_continuity.md#go-live), [Provisional Certification](core_05_band_continuity.md#provisional-certification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [System Classification Record](core_05_band_continuity.md#system-classification-record), [Dependency](core_05_band_continuity.md#dependency), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), and [Reversibility](core_05_band_continuity.md#reversibility).
 
 </details>
@@ -1241,7 +1241,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Dependency](core_05_band_continuity.md#dependency) and [Cascading Failure](core_05_band_continuity.md#cascading-failure) propagation;
     - [Accountability](core_05_apex_accountability_leg.md#accountability) for recovery decisions; and
     - autonomy-scaling of the recovering system under **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*), consistent with [Meaningful Agency](core_05_band_participation.md#meaningful-agency) and [Contestability](core_05_band_accountability.md#contestability).
-  - Detailed recovery architecture requirements appear in incorporated implementation text, including [corpus_systems.md](corpus_systems.md) CS-5 (*User-facing capability surfaces*), CS-8 (*Adaptive sustainability and ecosystem resilience*), and CS-12 (*Decentralized continuity and partition resilience*), and must not narrow this constitutional requirement.
+  - Detailed recovery architecture requirements appear in incorporated implementation text, including [corpus_systems.md](corpus_systems.md) CS-5 (*System lifecycle*), CS-8 (*Adaptive sustainability and ecosystem resilience*), and CS-12 (*Decentralized continuity and partition resilience*), and must not narrow this constitutional requirement.
 <a id="self-healing-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** automatic recovery that:
@@ -3791,7 +3791,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Nine §5.5 Accessibility Evaluation](core_09_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (substantive participation and materiality under **accessibility** evaluation); [2.1. Non-Negotiable Constraints: Safety](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
-- Owner floor: [Article III-D](core_06_rights_part_a.md#article-iii-d-safe-working-conditions) (*Safe Working Conditions*). Systems-layer implementation: [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: `corpus_systems.md` CS-5 (*User-facing capability surfaces*) safety profiles where applicable.
+- Owner floor: [Article III-D](core_06_rights_part_a.md#article-iii-d-safe-working-conditions) (*Safe Working Conditions*). Systems-layer implementation: [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: `corpus_systems.md` CS-5 (*System lifecycle*) safety profiles where applicable.
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with: [Fair Compensation](core_05_band_continuity.md#fair-compensation), [Collective Organization](core_05_band_participation.md#collective-organization), [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest), [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Reversibility](core_05_band_continuity.md#reversibility), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 

@@ -22,6 +22,8 @@
 
 ---
 
+Chapter Five, Accountability Tetrad leg, is the constitutional owner of the **Accountability** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Accountability band](core_05_band_accountability.md).
+
 *In plain terms: hold actors answerable — attribution, records, and real recourse have to work, not just ceremonies on paper.*
 
 <a id="accountability"></a>

@@ -20,7 +20,7 @@
 
 ---
 
-This band holds definitions under the **Accountability** Tetrad leg — harm, forums, standing, force, contestability, redress, market structure, and related answerability terms. Binding O/M/A/C and [Tetrad Leg decomposition](core_05_apex_accountability_leg.md#accountability-tetrad-leg-decomposition) live in [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md#accountability). This band file owns leaf definitions under the Accountability leg — do not duplicate leg-head O/M/A/C here. Timeliness-leg implementing leaves currently live in this band; the Timeliness leg-head is [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md#timeliness-constitutional).
+Chapter Five, Accountability band, is the constitutional owner of the **leaf definitions under the Accountability Tetrad leg**, including harm, forums, standing, force, contestability, redress, market structure, and related answerability terms. Binding O/M/A/C and [Tetrad Leg decomposition](core_05_apex_accountability_leg.md#accountability-tetrad-leg-decomposition) live in [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md#accountability). Do not duplicate leg-head O/M/A/C here. Timeliness-leg implementing leaves currently live in this band; the Timeliness leg-head is [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md#timeliness-constitutional).
 | Cluster | Section |
 |---|---|
 | **Def.A1** | Collective Harm Boundary, Harm, and Harassment and Bullying |

@@ -20,7 +20,7 @@
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*), **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*), and **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*).
+This file is the joint-structure implementation home for **CJS-1.7** (*Intentional overlap (non-duplication discipline)*), **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*), and **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*).
 
 *In plain terms: these sections are for editors and auditors. They say how to split a topic across files without writing two competing rulebooks, and how to keep **CJS** as a connector rather than a second owner.*
 
@@ -32,7 +32,7 @@ Average readers can skip this file unless a citation sends them here. How to ent
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*).
+- Read with: **CJS-1.7** (*Intentional overlap (non-duplication discipline)*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*).
 
 </details>
 
@@ -52,7 +52,7 @@ Domain-layer overlap discipline: apply [Institutions overlap discipline](../corp
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
+- Read with: **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-1.7** (*Intentional overlap (non-duplication discipline)*); **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
 - Downstream: [CJS-1.8.1 Implementation boundary (primary owner to CJS seam)](#cjs-181-implementation-boundary-primary-owner-to-cjs-seam).
 
 </details>
@@ -87,7 +87,7 @@ Domain-layer read-with contracts: apply [Institutions read-with pointers](../cor
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline) (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
-- Read with: **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*); **CJS-1.1** (*Section identifiers and article references*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); **CJS-0.3** (*Stable identifiers, edition alignment, and drafting notes*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
+- Read with: **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*); **CJS-1.1** (*Section identifiers and article references*); **CJS-1.7** (*Intentional overlap (non-duplication discipline)*); **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); **CJS-0.3** (*Stable identifiers, edition alignment, and drafting notes*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
 
 </details>
 

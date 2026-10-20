@@ -36,7 +36,7 @@
     "Self-healing and recovery-path integrity": "Test, verify, and deploy self-healing as a designed path — not an emergent one — without masking the fault that triggered it.",
     "Recertification, regression testing, and certification defects": "Every recertification must rerun regression coverage so previously verified behavior still holds, or the break is on the record."
   },
-  "cs_05_a_user_facing_capabilities.md": {
+  "cs_13_system_requirements.md": {
     "Purpose and role": "this file names the reachable surfaces an in-scope system must expose, then points at the homes that already own the rules; it does not invent apps.",
     "In-scope catalog": "for each reachable act, open the owner named here — this table does not restate those rules.",
     "Analog, digital, and channel class": "paper, hearing, notice, or manual continuity can satisfy unless the owner already requires a digital or machine-usable channel — and digital self-service must not make exit harder than the channel that was actually used.",

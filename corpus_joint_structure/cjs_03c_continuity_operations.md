@@ -45,7 +45,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - Read with: **CJS-3.17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
+- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*System lifecycle*)
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
@@ -831,7 +831,7 @@ Transparency disclosures and stakeholder legibility
 - Read with: **CJS-3.16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
+- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*System lifecycle*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
 - Chapter One basis: §15.1, §18.1, §14, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -1058,7 +1058,7 @@ Signaling integrity and anti-silent-failure controls
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
-- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
+- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*System lifecycle*)
 - Read with: **Article XVII** (*System Lifecycle, Environments, and Reversibility*) and **Article XIII-F** (*Resilience and Self-Healing Baseline*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
@@ -1189,7 +1189,7 @@ Rollback and containment capability
 - Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*) and **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) for distributed authority and participation legitimacy
 - Read with: **CJS-3.12 — Burden of Justification and Constraint**
 - Read with: **CJS-3.22 — Integrative: constrained-secrecy and protected-investigation terms**
-- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
+- Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*System lifecycle*)
 - Read with: **Article XIII** (*Right to Reliable and Trustworthy Systems*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Continuity disambiguation: Adversarial resilience serves constitutional **Continuity** under material stake.

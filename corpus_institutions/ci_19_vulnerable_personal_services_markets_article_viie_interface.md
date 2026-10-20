@@ -32,7 +32,7 @@
 
 <br>
 
-This file is the institutional implementation home for **CI-19** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) (*Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
+This file is the institutional implementation home for **CI-19** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*).
 
 *In plain terms: **CI-19** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) is the local owner map for regulating vulnerable personal-service markets — especially **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization. Shared floors live in **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); this file names who holds the application file, who separates lanes, and who publishes record relief.*
 

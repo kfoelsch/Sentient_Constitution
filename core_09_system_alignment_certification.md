@@ -22,6 +22,8 @@
 
 <br>
 
+This reading index owns no rule of its own. Chapter Nine's rules are owned by **Part A** (evaluation requirements), **Part B** (record and process), and **Part D** (institutional alignment certification); **Part C** is illustrative.
+
 *In plain terms: Chapter Nine is split in four — Part A for how to frame and evaluate a system, Part B for the review, the outcome, the record, and keeping the certification current, Part C for worked examples of the evaluation, and Part D for doing the same for an institution. Its sections are numbered in the order the work is done, in six phases. Read the four parts as one chapter.*
 
 <details>

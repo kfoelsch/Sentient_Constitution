@@ -22,6 +22,8 @@
 
 ---
 
+Chapter Five, Continuity aim, is the constitutional owner of the **Continuity** constitutional-aim head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Continuity band](core_05_band_continuity.md).
+
 *In plain terms: keep sentients and the living systems they depend on going for the long run — stable, sustainable, able to bounce back, and ecologically sound — not just looking fine for now.*
 
 - **What it is**

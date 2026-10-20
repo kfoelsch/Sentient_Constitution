@@ -8,7 +8,7 @@
 - How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
 - How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
 - How transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
-- Named **CS-5** (*User-facing capability surfaces*)–**CS-12** (*Decentralized continuity and partition resilience*) families and **CS-2** (*Information types and handling*)–**CS-4** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
+- Named **CS-5** (*System lifecycle*)–**CS-13** (*System requirements*) families and **CS-2** (*Information types and handling*)–**CS-4** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -74,8 +74,8 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CS-5 — Design, testing, verification, and deployment | [cs_05_design_testing_verification_deployment.md](corpus_systems/cs_05_design_testing_verification_deployment.md) |
-| CS-5, Part A — User-facing capability surfaces | [cs_05_a_user_facing_capabilities.md](corpus_systems/cs_05_a_user_facing_capabilities.md) |
+| CS-5 — System lifecycle | [cs_05_design_testing_verification_deployment.md](corpus_systems/cs_05_design_testing_verification_deployment.md) |
+| CS-13 — System requirements | [cs_13_system_requirements.md](corpus_systems/cs_13_system_requirements.md) |
 | CS-6 — Comprehensibility and complexity stewardship | [cs_06_comprehensibility_complexity_stewardship.md](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) |
 | CS-7 — Justice safeguards, restitution, and rehabilitation | [cs_07_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) |
 | CS-8 — Adaptive sustainability and ecosystem resilience | [cs_08_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) |

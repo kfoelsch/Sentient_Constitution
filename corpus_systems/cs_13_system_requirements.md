@@ -1,10 +1,10 @@
-<a id="cs-5-part-a-user-facing-capability-surfaces"></a>
-# CS-5, Part A: User-facing capability surfaces
+<a id="cs-13-system-requirements"></a>
+# CS-13: System requirements
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-5, Part A** (*User-facing capability surfaces*). Lifecycle engineering (**CS-5** §§1–10) remains in [`cs_05_design_testing_verification_deployment.md`](cs_05_design_testing_verification_deployment.md).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-13** (*System requirements*). Design, testing, verification, and deployment (**CS-5** (*System lifecycle*), §§1–10) remain in [`cs_05_design_testing_verification_deployment.md`](cs_05_design_testing_verification_deployment.md).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,8 +14,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Article XIII-A](../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*); [Article XVII](../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*); [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [§11](#cs-511-purpose-and-role); [§12](#cs-512-in-scope-catalog); [§13](#cs-513-analog-digital-and-channel-class); [§14](#cs-514-what-this-file-does-not-own).
-- Read with: **CS-5** (*User-facing capability surfaces*); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6** (*Comprehensibility and complexity stewardship*); **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*); **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CI-8.3** (*Digital self-service pathway integrity*).
+- Downstream: [§1](#cs-131-purpose-and-role); [§2](#cs-132-in-scope-catalog); [§3](#cs-133-analog-digital-and-channel-class); [§4](#cs-134-what-this-file-does-not-own).
+- Read with: **CS-5** (*System lifecycle*); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6** (*Comprehensibility and complexity stewardship*); **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*); **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CI-8.3** (*Digital self-service pathway integrity*).
 
 </details>
 
@@ -31,24 +31,24 @@
 
 <br>
 
-This file is the systems implementation home for **CS-5** (*User-facing capability surfaces*), **Part A** (*User-facing capability surfaces*).
+This file is the systems implementation home for **CS-13** (*System requirements*). Design, testing, verification, and deployment are in **CS-5** (*System lifecycle*), in [cs_05_design_testing_verification_deployment.md](cs_05_design_testing_verification_deployment.md).
 
-*In plain terms: **CS-5** (*User-facing capability surfaces*), **Part A** is a pointer catalog of what an in-scope system must let sentients do or inspect — identity control, export, Type O inspect, challenge entry, comprehensibility, digital self-service when entry was already digital — without turning those duties into a product list, and without taking standing, forum, voting, or remedy away from their owners.*
+*In plain terms: **CS-13** (*System requirements*) is a pointer catalog of what an in-scope system must let sentients do or inspect — identity control, export, Type O inspect, challenge entry, comprehensibility, digital self-service when entry was already digital — without turning those duties into a product list, and without taking standing, forum, voting, or remedy away from their owners.*
 
-<a id="cs-5-11-purpose-and-role"></a>
-## CS-5.11 Purpose and role
+<a id="cs-13-1-purpose-and-role"></a>
+## CS-13.1 Purpose and role
 
 *In plain terms: this file names the reachable surfaces an in-scope system must expose, then points at the homes that already own the rules; it does not invent apps.*
 
 **What this file owns**
 
 - the systems-layer catalog of **user-reachable capability surfaces** for in-scope systems — who can do or inspect a named act, and which owner already states the duty;
-- the channel-class rule in [§13 Analog, digital, and channel class](#cs-513-analog-digital-and-channel-class): analog remains lawful unless the cited owner already requires a digital or machine-usable channel;
-- the negative duties in [§14 What this file does not own](#cs-514-what-this-file-does-not-own): do not invent a standing portal, a federated Type O directory, or a unified subject-access product that defeats Chapter Ten silence.
+- the channel-class rule in [§3 Analog, digital, and channel class](#cs-133-analog-digital-and-channel-class): analog remains lawful unless the cited owner already requires a digital or machine-usable channel;
+- the negative duties in [§4 What this file does not own](#cs-134-what-this-file-does-not-own): do not invent a standing portal, a federated Type O directory, or a unified subject-access product that defeats Chapter Ten silence.
 
 **What this file does not own**
 
-- lifecycle engineering in **[CS-5](cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*)** as a whole;
+- lifecycle engineering in **[CS-5](cs_05_design_testing_verification_deployment.md) (*System lifecycle*)** as a whole;
 - information typing and identity / export mechanics in **CS-2 — Information types and handling**;
 - classification disclosure and challenge in **CS-3 — System classification and handling**;
 - inspectable attributable action and chokepoint continuity in **CS-4 — Critical system stewardship**;
@@ -61,8 +61,8 @@ This file implements the **CS-5.1** (*Purpose and role*) rule that the constitut
 
 Where this file is silent, Sentient Constitution Chapters Two through Five govern. Where this file and `corpus_joint_structure.md` conflict, the applicable requirement with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) governs.
 
-<a id="cs-5-12-in-scope-catalog"></a>
-## CS-5.12 In-scope catalog
+<a id="cs-13-2-in-scope-catalog"></a>
+## CS-13.2 In-scope catalog
 
 *In plain terms: for each reachable act, open the owner named here.*
 
@@ -86,8 +86,8 @@ The rows below are **pointers**. Operative detail stays on the cited home. Class
 
 Each Class A, Class B, and Class C system must publish its own Type O floor. This file does **not** require a federated directory of all in-scope systems.
 
-<a id="cs-5-13-analog-digital-and-channel-class"></a>
-## CS-5.13 Analog, digital, and channel class
+<a id="cs-13-3-analog-digital-and-channel-class"></a>
+## CS-13.3 Analog, digital, and channel class
 
 *In plain terms: paper, hearing, notice, or manual continuity can satisfy unless the owner already requires a digital or machine-usable channel — and digital self-service must not make exit harder than the channel that was actually used.*
 
@@ -99,8 +99,8 @@ This constitution defines required capabilities and outcomes. Analog forms — p
 
 Do not treat “user-facing” as “must be an app.”
 
-<a id="cs-5-14-what-this-file-does-not-own"></a>
-## CS-5.14 What this file does not own
+<a id="cs-13-4-what-this-file-does-not-own"></a>
+## CS-13.4 What this file does not own
 
 *In plain terms: standing, forum dockets, voting, and remedy stay where they already live; do not build a portal that quietly opens a standing record or pretends to be a second forms book.*
 
@@ -110,7 +110,7 @@ Do not treat “user-facing” as “must be an app.”
 
 **No unified subject-access product.** Integrators may compose existing surfaces (identity control, inspect-if-open standing records, **Article IX-B** (*Experiential and Derived Data Rights*) experiential and derived data). Composition must **not** defeat the Chapter Ten silence default.
 
-**No CS-13.** User-reachable in-scope surfaces stay in this Part A catalog. Constitutional-operating surfaces stay with their existing owners. Do not mint a “required software” family.
+**Not a software list.** This family catalogs user-reachable in-scope surfaces and nothing more. Constitutional-operating surfaces stay with their existing owners. Do not extend it into a list of required software.
 
 ---
 

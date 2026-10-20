@@ -1,9 +1,9 @@
-# CS-5: Design, testing, verification, and deployment
+# CS-5: System lifecycle
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-5** (*Design, testing, verification, and deployment*). User-reachable capability surfaces for in-scope systems are in [`cs_05_a_user_facing_capabilities.md`](cs_05_a_user_facing_capabilities.md) (**CS-5, Part A**).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-5** (*System lifecycle*): design, testing, verification, and deployment. User-reachable capability surfaces for in-scope systems are in [`cs_13_system_requirements.md`](cs_13_system_requirements.md) (**CS-13** (*System requirements*)).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -13,8 +13,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Article XVII](../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*); [Article XVIII](../core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom) (*Innovation, Experimentation, and Creative Freedom*); [Article XIII-F](../core_06_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*); [Chapter One §10](../core_01_a_values_principles.md#10-resilience-and-self-healing-design); [Chapter Four](../core_04_burden_traceability_verification.md); [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [§1](#cs-51-purpose-and-role); [§2](#cs-52-personal-isolated-and-experimental-systems); [§7](#cs-57-non-experimental-systems); [§8](#cs-58-governance-continuity-crisis-communications-and-exercises-high-impact-systems); [§9](#cs-59-self-healing-and-recovery-path-integrity); [§10](#cs-510-recertification-regression-testing-and-certification-defects); [CS-5, Part A](cs_05_a_user_facing_capabilities.md#cs-5-part-a-user-facing-capability-surfaces).
-- Read with: **CS-5** (*User-facing capability surfaces*); **CS-5** (*User-facing capability surfaces*), **Part A**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6** (*Comprehensibility and complexity stewardship*); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
+- Downstream: [§1](#cs-51-purpose-and-role); [§2](#cs-52-personal-isolated-and-experimental-systems); [§7](#cs-57-non-experimental-systems); [§8](#cs-58-governance-continuity-crisis-communications-and-exercises-high-impact-systems); [§9](#cs-59-self-healing-and-recovery-path-integrity); [§10](#cs-510-recertification-regression-testing-and-certification-defects); [CS-13](cs_13_system_requirements.md#cs-13-system-requirements) (*System requirements*).
+- Read with: **CS-5** (*System lifecycle*); **CS-13** (*System requirements*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6** (*Comprehensibility and complexity stewardship*); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 
 </details>
 
@@ -35,9 +35,9 @@
 
 <br>
 
-This file is the systems implementation home for **CS-5** (*Design, testing, verification, and deployment*).
+This file is the systems implementation home for **CS-5** (*System lifecycle*), which covers design, testing, verification, and deployment. The catalog of user-reachable capability surfaces is **CS-13** (*System requirements*), in [cs_13_system_requirements.md](cs_13_system_requirements.md).
 
-*In plain terms: **CS-5** (*User-facing capability surfaces*) is the engineering lifecycle profile: how a constitutional system must be designed, tested, verified, separated across environments, rolled out in stages, exercised against crises, and re-certified after change. It states required outcomes rather than fixed technology, so implementations may evolve while staying auditable.*
+*In plain terms: **CS-5** (*System lifecycle*) is the engineering lifecycle profile: how a constitutional system must be designed, tested, verified, separated across environments, rolled out in stages, exercised against crises, and re-certified after change. It states required outcomes rather than fixed technology, so implementations may evolve while staying auditable.*
 <a id="cs-5-1-purpose-and-role"></a>
 ## CS-5.1 Purpose and role
 
@@ -46,7 +46,7 @@ This file is the systems implementation home for **CS-5** (*Design, testing, ver
 
 - Upstream: [Article XVII](../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*); [Article XVIII](../core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom) (*Innovation, Experimentation, and Creative Freedom*); [Article XIII-F](../core_06_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*).
 - Downstream: [§2](#cs-52-personal-isolated-and-experimental-systems) through [§10](#cs-510-recertification-regression-testing-and-certification-defects).
-- Read with: **CS-5** (*User-facing capability surfaces*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
+- Read with: **CS-5** (*System lifecycle*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 
 </details>
 
@@ -65,7 +65,7 @@ This file is the systems implementation home for **CS-5** (*Design, testing, ver
 - Chapter Five meanings (*Reversibility*; *Self-Healing*; *Emergency and Contingency*; *Force Majeure*);
 - shared operational detail in **CJS-3.19** (*graceful degradation and failure-mode integrity*), **CJS-3.20** (*reversibility and containment*), and **CJS-3.21** (*adversarial robustness and abuse resistance*);
 - process certification mechanics in **CF-7.2** (*Constitutional alignment certification and review*) and Chapter Nine;
-- user-reachable in-scope capability surfaces — those are in **[CS-5, Part A](cs_05_a_user_facing_capabilities.md#cs-5-part-a-user-facing-capability-surfaces)**.
+- user-reachable in-scope capability surfaces — those are in **[CS-13](cs_13_system_requirements.md#cs-13-system-requirements) (*System requirements*)**.
 
 **Implements.** Sentient Constitution Chapter Six, **[Article XVII](../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*)**, **[Article XVIII](../core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom) (*Innovation, Experimentation, and Creative Freedom*)**, and **[Article XIII-F](../core_06_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*)**, read with [Chapter One §10](../core_01_a_values_principles.md#10-resilience-and-self-healing-design) (*Resilience and Self-Healing Design*), Chapter Five, and **[Chapter Four](../core_04_burden_traceability_verification.md)** where evidence and verification claims are material.
 
@@ -111,7 +111,7 @@ The prohibition on claiming reduced lifecycle or sandbox obligations while exert
 
 *In plain terms: When a system's impact, dependency, or shared-infrastructure integration grows, it must move up to the full track — openly and on time.*
 
-Transition floors — transparent, timely move toward **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5** (*User-facing capability surfaces*) **Non-experimental systems** when impact, dependency, irreversibility, or shared-system integration grows — are owned by **[Article XVIII-C](../core_06_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes) (*Transition to Higher-Obligation Regimes*)**.
+Transition floors — transparent, timely move toward **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5** (*System lifecycle*) **Non-experimental systems** when impact, dependency, irreversibility, or shared-system integration grows — are owned by **[Article XVIII-C](../core_06_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes) (*Transition to Higher-Obligation Regimes*)**.
 
 **Systems-layer triggers and duties (implement XVIII-C; do not narrow it):**
 
@@ -335,4 +335,4 @@ Missing regression testing, stale results, unfixed regressions, or material fixe
 
 **Previous file:** [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md)
 
-**Next file:** [cs_05_a_user_facing_capabilities.md](cs_05_a_user_facing_capabilities.md)
+**Next file:** [cs_13_system_requirements.md](cs_13_system_requirements.md)

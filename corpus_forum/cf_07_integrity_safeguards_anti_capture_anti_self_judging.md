@@ -98,7 +98,7 @@ Adopting documents must publish tie-break rules for ordering component referrals
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.1.3** (*Neutral Supervisory Coordination*); **CF-9** (*Independent investigative service and prosecution interface*); **CJS-1.9** (*CJS-1.11: Support roles, hosting independence, and classification alignment*).
+- Read with: **CF-7.1.3** (*Neutral Supervisory Coordination*); **CF-9** (*Independent investigative service and prosecution interface*); **CJS-1.9** (*Boundary Between Support Roles and Merits Decisions*).
 
 </details>
 
@@ -134,7 +134,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 
 *In plain terms: How a system gets officially certified as constitutionally aligned within a stated scope, and how that certification is rechecked later. Certification is contestable and does not expire into a permanent seal of approval.*
 
-**Purpose.** Provide official, contestable forum mechanics for certifying new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_13_forum.md` **Chapter Thirteen**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*) and **CS-3 — System classification and handling** classification and recertification duties.
+**Purpose.** Provide official, contestable forum mechanics for certifying new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_13_forum.md` **Chapter Thirteen**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*System lifecycle*) and **CS-3 — System classification and handling** classification and recertification duties.
 
 ### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>
