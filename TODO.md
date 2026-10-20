@@ -2,6 +2,14 @@
 
 **2026-06-17 housecleaning:** Older TODO/MEMLOG snapshots removed from `archive/`; retrieve from git history if needed. Canonical architecture archives remain under [README.md](README.md) *Binding vs support* and [doc_architecture.md](doc_architecture.md). Root retirement snapshots: [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md).
 
+## Announcement preparation — 2026-10-20
+
+The [working announcement plan](project/plans/announcement_readiness_2026-10-20.md) records the agreed division of work, schedule through December 31, [review inventory](project/plans/announcement_review_inventory_2026-10-20.md), batch evidence, and decision queue. Detailed items below remain open unless their own evidence closes them. The plan does not waive the publication spec or authorize release.
+
+- [ ] Complete the small-agent formation and contested-allocation desk walkthrough; record required capacity, unavailable handoffs, and next-step usability findings.
+- [ ] Complete the non-core review batches and reopen affected portions when governing core changes.
+- [ ] Resolve plan decision D01: Chapter Fourteen §1.1 adoption citation points at Chapter Eighteen instead of Chapter Seventeen §10; core correction remains with the steward.
+
 ## Editor Checklist (Pre-Review / Pre-Merge)
 
 Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/TODO_RESOLVED_2026-09-17.md). The P1 regression-workflow review is recorded in [P1 regression and evidence review](evidence/2026-09-17/P1_REGRESSION_AND_EVIDENCE_REVIEW_2026-09-17.md); the separate stress-pack validation remains open.
@@ -192,7 +200,7 @@ Resolved evaluation follow-ups R1–R3 and I2–I13 are archived in [TODO_RESOLV
 
 #### Implementation items (ordered by load-bearing weight)
 
-- [ ] **I1 — Human evidence.** Endorses [VISION.md §4.2](project/VISION.md#horizon-2). At least one human operator with real operational authority sits scenarios 4, 5, 6, and 10; results filed under `evaluation/results/`.
+- [ ] **I1 — Human evidence.** Endorses [VISION.md §4.2](project/VISION.md#42-horizon-two--handoff-and-human-symmetry). At least one human operator with real operational authority sits scenarios 4, 5, 6, and 10; results filed under `evaluation/results/`.
 
 ### 2026-09-21 — Translation resync after cleanup
 

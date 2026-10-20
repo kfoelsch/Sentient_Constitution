@@ -8,6 +8,7 @@ Working files for the people who maintain the Sentient Constitution. Readers do 
 | [TODO.md](TODO.md) | Open task list |
 | [MEMLOG.md](MEMLOG.md) | Session log of recent decisions and changes |
 | [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md) | Regression scenario catalog checked by `make scenario-audit` |
+| [plans/announcement_readiness_2026-10-20.md](plans/announcement_readiness_2026-10-20.md) | Year-end announcement plan, decision queue, review inventory, and batch log |
 | [plans/](plans/) | Working plans for larger changes |
 | [plain_language/](plain_language/) | Plain-language companion for each Article (`Article_<numeral>_plain_language.md`). Not binding; the `core_*` files are |
 
