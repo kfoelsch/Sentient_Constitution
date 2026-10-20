@@ -88,7 +88,7 @@ Chapter Seventeen §1 heightened review stays open in TODO.md. Translations are 
 
 ## 2026-10-18 — Time windows, sitting 3: names and audit rule approved by the steward 2026-10-19
 
-Recommendations 1, 3, 4 and 5 confirmed. Decision 2 (the "declaration window" collision) is held open and stays in TODO.md.
+Recommendations 1, 3, 4 and 5 confirmed. Decision 2 (the "declaration window" collision) was answered in the same sitting: see the end of this entry.
 
 - **1 (A).** Domain-Specific Materiality (`core_05_band_oversight.md`): the Operating Party's answer to a classification challenge is due inside the **response window**, counted from the challenge, at the intake target of the Tier that matches the class it already holds (Tier C where none). CJS-0.4 now lists "a classification challenge" in the response window sense.
 - **3 (A).** CJS-0.4 gains two names in use: **Early-instantiation window** (Article VIII-C) and **Exclusivity term** (Article XVIII-D, CI-24). Nine registry names with no use in any owner were retired from `tools/time_reference_registry.json` (receipt window, completion window, register-entry window, contraction review interval, attachment spell ceiling, fee-use term, non-availability period, progress report interval, open-format transition window). The exclusivity term is kept.
@@ -97,3 +97,4 @@ Recommendations 1, 3, 4 and 5 confirmed. Decision 2 (the "declaration window" co
 
 Correction recorded: the sitting-3 sheet first said CI-14.4 had no "declaration window" collision and that "open-format transition window" was used by owners. Article XXVIII-A does use "Declaration windows" for the CI-14.4 enforceability declaration, and only "open-format transition controls" appears, so nine names (not eight) were unused.
 
+**2 (D, then A).** The steward chose to standardize the Article language on the Tier or Class window instead of renaming NUL-1's window. First, CI-14.4 was broken into subsections CI-14.4.1 to CI-14.4.12 (presentation only). Then, with option A for the basis: Article XXVIII-A *Declaration follows data* and CI-14.4.4 *Declaration bound* now say the enforceability declaration is due no later than the outer bound of the Tier that matches the scope's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P) where the scope is a system class, and 14 days (Tier B) for any other scope, counted from when the verified criteria are met; the plan may state a shorter bound, not a longer one. "Declaration window" now belongs to NUL-1 alone; CJS-0.4 says so.

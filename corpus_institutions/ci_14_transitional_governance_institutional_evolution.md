@@ -249,7 +249,7 @@ Each institution in scope must publish local procedures for the following, and m
 - **CI-14.4.1** (*Ledger structure*) — what each ledger row records.
 - **CI-14.4.2** (*Minimum measure families*) — the nine families every ledger measures.
 - **CI-14.4.3** (*Measurement rules*) — what counts as a measure, denominators, timing, and tolerance.
-- **CI-14.4.4** (*Enforcement-readiness declarations*) — criteria, the independent declaration, its window, contest, and staging.
+- **CI-14.4.4** (*Enforcement-readiness declarations*) — criteria, the independent declaration, its bound, contest, and staging.
 - **CI-14.4.5** (*Interim enforcement of restraint duties*) — how complaints are handled before a forum is ready.
 - **CI-14.4.6** (*Interim safeguards for gap-affected sentients*) — what sentients inside the gap receive meanwhile.
 - **CI-14.4.7** (*Verification (scaled to material stake)*) — who checks the ledger, and how.
@@ -343,7 +343,7 @@ These rules govern how a scope is declared enforceable.
 
 - **Criteria set in advance:** For each domain and scope, the plan states before results are known the measurable readiness criteria for institutions, capability, and culture, and the verification tier that applies.
 - **Independent declaration:** When the verified criteria are met, the independent verifying authority, or a body independent of the ledger owner, declares the floor enforceable for that scope and publishes its reasons.
-- **Published window:** The plan states the maximum time between criteria being met and the declaration. Withholding beyond it is self-created delay for **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) purposes.
+- **Declaration bound:** The declaration is due inside the bound set in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), counted from when the verified criteria are met. The plan states the bound for each scope; it may be shorter than that bound, not longer. Withholding beyond it is self-created delay for **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) purposes.
 - **Contest:** Affected sentients and oversight bodies may contest a declaration as premature or as withheld. The contest is decided by a party independent of the ledger owner.
 - **Staged scopes:** Scopes are sequenced so that enforcement demand matches enforcement capacity. The plan states the sequence and its reasons.
 - **Readiness criteria and evidence:**

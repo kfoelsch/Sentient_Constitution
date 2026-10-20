@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-19T23:52:56+00:00",
+  "generated_at": "2026-10-20T00:02:04+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -1340,15 +1340,15 @@
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 343,
+      "total_lines": 344,
       "sections": [
-        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":343,"anchor":null},
-        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":343,"anchor":null},
+        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":344,"anchor":null},
+        {"header":"CJS-0: Registry and reading rules","level":2,"line_start":33,"line_end":344,"anchor":null},
         {"header":"CJS-0.1: Cross-file routing","level":3,"line_start":61,"line_end":151,"anchor":"#cjs-01-cross-file-routing"},
         {"header":"Maintainer-only detail: authoritative topic router","level":4,"line_start":103,"line_end":151,"anchor":"#cross-file-routing"},
         {"header":"CJS-0.2: Joint structure registry","level":3,"line_start":152,"line_end":186,"anchor":"#cjs-02-joint-structure-registry"},
         {"header":"CJS-0.3: Stable identifiers, edition alignment, and drafting notes","level":3,"line_start":187,"line_end":233,"anchor":"#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"},
-        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":343,"anchor":"#cjs-04-time-window-names"}
+        {"header":"CJS-0.4: Time-window names","level":3,"line_start":234,"line_end":344,"anchor":"#cjs-04-time-window-names"}
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
