@@ -1,0 +1,459 @@
+diff --git a/core_05_band_accountability.md b/core_05_band_accountability.md
+index 3d4df821..c47f1a0b 100644
+--- a/core_05_band_accountability.md
++++ b/core_05_band_accountability.md
+@@ -1618,6 +1618,42 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
+ 
+ ---
+ 
++<a id="record-opening-authority"></a>
++
++#### Record-Opening Authority
++
++<details>
++<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
++
++- Downstream: [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority); [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody); [Chapter Eight §2 Four-seat constitutional floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*); and **CF-5.7** (*Backup Record Authority*).
++- Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
++- Read with: [Standing Record](core_05_band_accountability.md#standing-record), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Record Custodian](core_05_band_accountability.md#record-custodian), [Contest Seat](core_05_band_accountability.md#contest-seat), [Material Control Line](core_05_band_accountability.md#material-control-line), [Charter Role Map](core_05_band_continuity.md#charter-role-map), and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation).
++- Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
++
++</details>
++
++<br>
++
++*In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, or anyone those parties control. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
++
++- **What it is**
++  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the record with its reason. It may be an office or role placed by a [Charter Role Map](core_05_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a disinterested body that relies on the record, or the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
++  - **Out of scope:** The Record Custodian that enters and holds the record. The Contest Seat that hears a challenge. A registrar that files and receipts. A body that only supplies inputs such as a recorder's statement, a log, or a photograph. A forum's merits decision. Any body that only requests the record.
++<a id="record-opening-authority-a"></a>
++- **How to measure and assess**
++  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) and [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — used together to test whether each change to a Standing Record was authorized by a named body that is independent of the record's subject, claimant, and challenger.
++
++    **Primary assessment:** Identify who authorized each opening, correction, expiry, or supersession. Check that the authority was named before it acted, that it sits outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of the subject, the claimant, and the challenger, that the facts were verified to the standard the governing process sets, and that it gave reasons.
++  - **Secondary measure:** [Auditability](core_05_band_oversight.md#auditability), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity), [Contestability](core_05_band_accountability.md#contestability), and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) — co-measures for traceability and correction.
++
++    **Secondary assessment:** Test whether the record names the authority, its reason, and the version of the System Charter or Institutional Charter in force; whether an authority with an interest in the record declined and routed it; and whether delay or refusal by the authority was treated as a defect to log and correct, not as a gate on anyone's right to form or operate.
++<a id="record-opening-authority-c"></a>
++- **What must hold**
++  - **Primary failure:** The record's subject, a claimant, a challenger, or anyone in their Material Control Line acts as the authority; the authority also enters and holds the record or hears the contest of a record it authorized; or it authorizes a change without verifying the facts.
++  - **Secondary failure:** The authority is not named before it acts, or is named only by the party it checks; the record omits the authority, its reason, or the version of the System Charter or Institutional Charter in force; a conflicted authority does not decline and route; or the Chartered Party chooses, appoints, or funds a backup authority through a channel it controls.
++
++---
++
+ <a id="record-seat"></a>
+ 
+ #### Record Seat
+@@ -1654,6 +1690,42 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
+ 
+ ---
+ 
++<a id="record-custodian"></a>
++
++#### Record Custodian
++
++<details>
++<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
++
++- Downstream: [Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority); [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody); **CI-3.6** (*System and Institutional Charter contents, review, and formation template*); and **CF-5.9** (*Backup Record Custodian*).
++- Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
++- Read with: [Record Seat](core_05_band_accountability.md#record-seat), [Record-Opening Authority](core_05_band_accountability.md#record-opening-authority), [Standing Record](core_05_band_accountability.md#standing-record), [Contest Seat](core_05_band_accountability.md#contest-seat), [Material Control Line](core_05_band_accountability.md#material-control-line), [Charter Role Map](core_05_band_continuity.md#charter-role-map), and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation).
++- Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
++
++</details>
++
++<br>
++
++*In plain terms: the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, or anyone they control.*
++
++- **What it is**
++  - **In scope:** The body that holds the [Record Seat](core_05_band_accountability.md#record-seat) for a [Standing Record](core_05_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the record's continuity. It may be placed by a [Charter Role Map](core_05_band_continuity.md#charter-role-map), be a substitute holder for one record, or be the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)).
++  - **Out of scope:** The [Record-Opening Authority](core_05_band_accountability.md#record-opening-authority) that verifies and authorizes. The Contest Seat. A registrar that files and receipts. Incidental storage or a copy held without authority over the official record.
++<a id="record-custodian-a"></a>
++- **How to measure and assess**
++  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether each Standing Record is held by a named body that is independent of its subject, claimants, and challengers, with the full audit trail.
++
++    **Primary assessment:** Identify who holds each record and each version. Check that the custodian was named before it acted, sits outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of the subject, claimant, and challenger, is not the authority for the same record, and keeps version history and the published challenge path.
++  - **Secondary measure:** [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability) — co-measures for integrity, reconstruction, and correction.
++
++    **Secondary assessment:** Test whether a challenge was logged on receipt, whether custody passed with its full trail when a conflict or gap arose, and whether the custodian applied no effect and withheld no path.
++<a id="record-custodian-c"></a>
++- **What must hold**
++  - **Primary failure:** The custodian is the subject, a claimant, a challenger, or in their Material Control Line; it also verifies or hears the contest of the same record; or it enters a version no authority authorized.
++  - **Secondary failure:** Custody lapses, a challenge is not logged on receipt, the audit trail is lost in a transfer, the custodian conditions entry on the subject's cooperation, or the Chartered Party chooses or funds a backup custodian through a channel it controls.
++
++---
++
+ <a id="contest-seat"></a>
+ 
+ #### Contest Seat
+diff --git a/core_07_charters.md b/core_07_charters.md
+index 1b135d19..3a15eabe 100644
+--- a/core_07_charters.md
++++ b/core_07_charters.md
+@@ -251,7 +251,16 @@ flowchart TB
+   - **An outstanding lock** ([§2.2 First limit: an outstanding lock](#22-first-limit-an-outstanding-lock)) attaches to a named sentient in one office that controls the Chartered Party. It also attaches to a Chartered Party that is itself under a lock, including one that a forum has dissolved.
+   - **A probable-cause hold** ([§2.3 Second limit: a short hold on probable cause](#23-second-limit-a-short-hold-on-probable-cause)) attaches only to one named sentient in one office that controls the Chartered Party.
+ - **The third is not a gate:** It is a practice licence or clearance ([§2.4 Third limit: a practice licence or clearance](#24-third-limit-a-practice-licence-or-clearance)).
+-- **How this section is laid out:** [§2.1 The right to form](#21-the-right-to-form) comes first, then one subsection for each limit.
++
++<details>
++<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
++
++- [§2.1 The right to form](#21-the-right-to-form) states the right and who it does not cover.
++- [§2.2 First limit: an outstanding lock](#22-first-limit-an-outstanding-lock) says how a lock keeps one named sentient out of one controlling office, and when it reaches a Chartered Party.
++- [§2.3 Second limit: a short hold on probable cause](#23-second-limit-a-short-hold-on-probable-cause) says how a short hold can keep one named sentient out of one controlling office.
++- [§2.4 Third limit: a practice licence or clearance](#24-third-limit-a-practice-licence-or-clearance) says when a named high-risk act needs a licence or clearance. It is not a gate on forming.
++
++</details>
+ 
+ <a id="21-the-right-to-form"></a>
+ #### 2.1 The right to form
+@@ -319,7 +328,8 @@ The third limit works on a named act, not on forming an Operating Party:
+ 
+ *In plain terms: a System Charter has to be specific enough to test. It says what the system is for, what the system does and does not do, who relies on the system, who can amend the System Charter, who holds each seat, and where to find the binding decision rules. The System Charter points to those rules and does not replace them. An Institutional Charter says the same about the institution, then adds the System Charters it holds and the reason the institution runs those systems.*
+ 
+-**How this section is laid out:**
++<details>
++<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
+ 
+ - [§3.1 What a System Charter states](#31-what-a-system-charter-states) lists the nine items.
+ - [§3.2 Charter Pointers](#32-charter-pointers) says that a System Charter or Institutional Charter may refer to another published document instead of copying its text, and what makes that reference valid.
+@@ -327,6 +337,8 @@ The third limit works on a named act, not on forming an Operating Party:
+ - [§3.4 Acts that need a practice licence or practice clearance](#34-acts-that-need-a-practice-licence-or-practice-clearance) says that a System Charter or Institutional Charter may claim such an act only if every sentient who performs it holds the licence or clearance, or works as a learner under a supervisor who does. Until then, the act is listed as out of scope (item 4 in [§3.1 What a System Charter states](#31-what-a-system-charter-states)).
+ - [§3.5 Scaling](#35-scaling) says what changes with class.
+ 
++</details>
++
+ <a id="31-what-a-system-charter-states"></a>
+ #### 3.1 What a System Charter states
+ 
+@@ -406,36 +418,49 @@ Some parts of a System Charter or Institutional Charter scale with class and som
+ 
+ Every System Charter or Institutional Charter carries a [Charter Role Map](core_05_band_continuity.md#charter-role-map): a published list of who holds each seat. [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) requires it of every adopter that takes materially binding acts and says what it must name. This section says what the System Charter or Institutional Charter does with it.
+ 
+-**How this section is laid out:**
++<details>
++<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
+ 
+-- [§4.1 What a System Charter or Institutional Charter owes the map](#41-what-a-system-charter-or-institutional-charter-owes-the-map) says that the System Charter or Institutional Charter holds the map, or points to it, and that a missing, dead, or out-of-date map is a defect in that System Charter or Institutional Charter.
+-- [§4.2 Where the seat rules are](#42-where-the-seat-rules-are) says that Chapter Eight sets the four seats and the tests for a valid placement, and the map only records who sits where.
+-- [§4.3 Independence from the party whose act is at issue](#43-independence-from-the-party-whose-act-is-at-issue) says that the record, contest, and verify-or-authorize seats must sit outside that party's Material Control Line.
++- [§4.1 What the seats are, and why they exist](#41-what-the-seats-are-and-why-they-exist) reminds the reader of the four seats and why no party may fill the pairings Chapter Eight prohibits on the same act.
++- [§4.2 What makes a placement valid](#42-what-makes-a-placement-valid) says that Chapter Eight sets the tests (independence, vacancy and substitution, merged hosting), and the map only records who sits where.
++- [§4.3 What a System Charter or Institutional Charter owes the map](#43-what-a-system-charter-or-institutional-charter-owes-the-map) says that the System Charter or Institutional Charter must contain the map or point to it, and that a missing map, a dead pointer, or an out-of-date map is a defect in that System Charter or Institutional Charter.
+ - [§4.4 Which System Charter or Institutional Charter holds which map](#44-which-system-charter-or-institutional-charter-holds-which-map) covers several Systems under one Institutional Charter, and a shared map.
+-- [§4.5 Two kinds of change](#45-two-kinds-of-change) says that changing who may hold a seat is an amendment, and changing who holds it now is a new dated version of the map.
+-- [§4.6 Standing-record custody](#46-standing-record-custody) says what the map must say for operator standing records and for stakeholder standing records.
++- [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders) says that changing who may hold a seat is an amendment, and changing who holds it now is a new dated version of the map.
++- [§4.6 Standing-record custody](#46-standing-record-custody) says what the map must say for standing records, and has two parts: [§4.6.1 Operator standing records](#461-operator-standing-records) and [§4.6.2 Stakeholder standing records](#462-stakeholder-standing-records).
+ - [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records) says what follows when a required seat is unnamed or left without a qualified holder.
+ 
+-<a id="41-what-a-system-charter-or-institutional-charter-owes-the-map"></a>
+-#### 4.1 What a System Charter or Institutional Charter owes the map
++</details>
++
++<a id="41-what-the-seats-are-and-why-they-exist"></a>
++#### 4.1 What the seats are, and why they exist
+ 
+-It holds the map, or points to it, so a reader who starts there can find who holds each seat. A missing, dead, or out-of-date map is a defect in that System Charter or Institutional Charter.
++Every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) has four jobs, and [Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) keeps them apart:
+ 
+-<a id="42-where-the-seat-rules-are"></a>
+-#### 4.2 Where the seat rules are
++- **[Initiating Seat](core_05_band_accountability.md#initiating-seat):** begins the act by requesting, proposing, operating, or claiming it.
++- **[Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat):** checks the evidence and authority, then verifies, authorizes, conditions, or declines the act.
++- **[Record Seat](core_05_band_accountability.md#record-seat):** keeps the official record of what the Verify-or-Authorize Seat decided.
++- **[Contest Seat](core_05_band_accountability.md#contest-seat):** hears a challenge, and corrects, limits, or routes it.
+ 
+-Chapter Eight sets the rules, and the map only records who sits where.
++The seats exist so that no party can ask for an outcome, check its own request, control the record of that check, and also judge the challenge to it. A seat is a job on one act, not a job title, so the same sentient, office, or system may hold different seats for different acts, but never a pairing Chapter Eight prohibits on the same act. The map is where each seat gets a named holder.
+ 
+-- **The four seats:** Every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) has four seats: initiating, verify-or-authorize, record, and contest ([Chapter Eight §2 Four-Seat Constitutional Floor](core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)).
+-- **What makes a placement valid:** Chapter Eight also sets the tests for whether a seat has been placed properly:
+-  - independence, meaning the checker can't be directed or overruled by the party being checked ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines));
+-  - vacancy, substitutes, and delegation, meaning who steps in when a holder is absent or conflicted ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)); and
+-  - merged hosting, meaning the only cases where a small party may put two seats in one office. The map lists each permitted arrangement and the independence safeguard that goes with it ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting)).
++<a id="42-what-makes-a-placement-valid"></a>
++#### 4.2 What makes a placement valid
+ 
+-<a id="43-independence-from-the-party-whose-act-is-at-issue"></a>
+-#### 4.3 Independence from the party whose act is at issue
++Chapter Eight sets the tests, and the map only records who sits where:
+ 
+-The record and contest seats the map names, and every verify-or-authorize seat it places, must sit outside the [Material Control Line](core_05_band_accountability.md#material-control-line) of the party whose act is at issue. That party can't change those entries on its own.
++- **Material Control Line:** the real chain of power around one act. The party whose act is at issue is the one that begins the act, or whose act is being verified, challenged, or recorded. That party controls a seat when, for that act, it can direct, overrule, reward, punish, or remove the holder, or delay the holder's work. The sentients, offices, and systems that can do this make up that party's [Material Control Line](core_05_band_accountability.md#material-control-line) for the act.
++- **Independence:** a seat that checks an act is not independent if the party whose act is at issue can control it ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)). So the map must put the record seat, the contest seat, and every verify-or-authorize seat outside that party's Material Control Line. The party also can't change who holds those seats by its own decision alone ([§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders)).
++- **Vacancy, substitutes, and delegation:** who steps in when a holder is absent or conflicted ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)).
++- **Merged hosting:** the only cases where a small party may put two seats in one office. The map lists each permitted arrangement and the independence safeguard that goes with it ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting)).
++
++<a id="43-what-a-system-charter-or-institutional-charter-owes-the-map"></a>
++#### 4.3 What a System Charter or Institutional Charter owes the map
++
++A System Charter or Institutional Charter either contains its Charter Role Map or points to it with a [Charter Pointer](#32-charter-pointers), so a reader who starts at the System Charter or Institutional Charter can find who holds each seat. It has a defect if:
++
++- **The map is missing:** it neither contains the map nor points to one.
++- **The pointer is dead:** it points to a map that cannot be found, or that is not a live, published document.
++- **The map is out of date:** it does not show who holds each seat now. A change of holder is published as a new dated version of the map ([§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders)).
+ 
+ <a id="44-which-system-charter-or-institutional-charter-holds-which-map"></a>
+ #### 4.4 Which System Charter or Institutional Charter holds which map
+@@ -445,38 +470,50 @@ Which System Charter or Institutional Charter keeps a map depends on how the par
+ - **Several Systems:** An Institutional Charter may hold several System Charters. Each System Charter keeps the map for the acts of its own System, and the Institutional Charter keeps the map for the Institution's own acts.
+ - **A shared map:** A business or practice may place some of its seats with a local cooperative, association, or host ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)). If it does, it can use that group's published map instead of writing its own, which keeps its own System Charter or Institutional Charter short. It still has to name who steps in when one of its seat-holders is absent or conflicted, and an independent route to use when no qualified substitute is available ([Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting), *Seats held in common*).
+ 
+-<a id="45-two-kinds-of-change"></a>
+-#### 4.5 Two kinds of change
++<a id="45-changing-seat-rules-and-seat-holders"></a>
++#### 4.5 Changing seat rules and seat holders
+ 
+-Changing the map is one of two things, and the version in force decides which map an act is judged against:
++The map can change in two ways, and each has its own route:
+ 
+ - **Who may hold a seat:** Deciding which offices may hold a seat, act as a substitute, or share hosting is a change to the map's rules. It can be made only through the amendment process the System Charter or Institutional Charter names ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)).
+-- **Who holds a seat now:** Changing the current holder is an update, not an amendment. It is done by publishing a new dated version of the map.
+-- **Which version applies:** An act is judged against the map that was in force on the day it was taken.
++- **Who holds a seat now:** Changing the current holder is an update, not an amendment. It is done by publishing a new dated version of the map. For the record seat, the contest seat, and any verify-or-authorize seat the map places, the new version takes effect only after notice and a chance to contest, on the path the System Charter or Institutional Charter names for amendments. An emergency substitution under [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records) may take effect at once and stays open to contest.
++
++**Which version applies:** An act is judged against the map that was in force on the day it was taken.
+ 
+ <a id="46-standing-record-custody"></a>
+ #### 4.6 Standing-record custody
+ 
+ What the map must say depends on the kind of [Standing Record](core_05_band_accountability.md#standing-record), because the two kinds face different conflicts of interest ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *Two kinds of standing record by subject*).
+ 
+-- **Operator standing records** are records about the Chartered Party, its chartered scope, and the systems it stewards. For these, the map names four things:
+-  - who may open the record (the verifying seat);
+-  - a separate custodian who keeps it (the record seat);
+-  - who handles contests (the contest seat); and
+-  - an independent route for when the Chartered Party is itself the subject.
+-- **Stakeholder standing records** are records about the sentients and institutions that use, rely on, or are affected by its systems.
+-  - **The Chartered Party's stake:** It may be the one making a claim or an accusation in these records.
+-  - **Its own offices:** They may hold a seat on a record only if the Chartered Party has no stake in that record. If it has a stake, the record goes to an office outside the Chartered Party's control, or to independent verification.
+-  - **Naming offices is optional:** The map may name offices for these records ahead of time, but it doesn't have to, and a map that names none is still valid.
++<a id="461-operator-standing-records"></a>
++##### 4.6.1 Operator standing records
++
++Operator standing records are records about the Chartered Party, its chartered scope, and the systems it stewards. For these, the map names four things:
++
++- who may open the record (the verifying seat);
++- a separate custodian who keeps it (the record seat);
++- who handles contests (the contest seat); and
++- an independent route for when no qualified substitute is available, such as a forum, the independent investigative service, or a backup body named in advance.
++
++Where the System Charter or Institutional Charter names no route, the Backup Record Authority under **CF-5.7** (*Backup Record Authority*) is the default record-opening authority, and the Backup Record Custodian under **CF-5.9** (*Backup Record Custodian*) is the default custodian. The Backup Record Custodian also holds the record where the named custodian cannot act. Who may be named as custodian, and the tests each must pass, are in **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10.
++
++<a id="462-stakeholder-standing-records"></a>
++##### 4.6.2 Stakeholder standing records
++
++Stakeholder standing records are records about the sentients and institutions that use, rely on, or are affected by its systems. For these, the rules differ, because the Chartered Party may have a stake in the record:
++
++- **The Chartered Party's stake:** It may be the one making a claim or an accusation in these records.
++- **Its own offices:** They may hold a seat on a record only if the Chartered Party has no stake in that record. If it has a stake, the record goes to an office outside the Chartered Party's control, or to independent verification.
++- **Naming offices is optional:** The map may name offices for these records ahead of time, but it doesn't have to, and a map that names none is still valid.
+ 
+ <a id="47-gaps-in-the-map-for-operator-standing-records"></a>
+ #### 4.7 Gaps in the map for operator standing records
+ 
+-These rules apply to a gap in the entries that [§4.6 Standing-record custody](#46-standing-record-custody) requires for operator standing records. The last bullet puts the same clock on the certification seats:
++These rules apply to a gap in the entries that [§4.6.1 Operator standing records](#461-operator-standing-records) requires. The last bullet puts the same clock on the certification seats:
+ 
+ - **A map with gaps makes the System Charter or Institutional Charter invalid:** The map has to name the record-opening authority, the record custodian, the contest seat, and the independent route. A change that would leave any of them unnamed is not allowed.
+ - **If events remove the last qualified substitute:** If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual response window and resolution window ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)). An emergency substitution keeps the shorter window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets.
+-- **Until it is resolved:** None of the Chartered Party's own offices can issue a valid standing record for the affected scope. The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *No self-custody*).
++- **Until it is resolved:** None of the Chartered Party's own offices can issue a valid standing record for the affected scope. The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)) to hold, or to a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *No self-custody*).
+ - **Certification seats run on the same clock:** If the map is silent on the initiating, record, or contest seat of a system alignment certification or an institutional alignment certification, that is a defect to log and correct, and the System Charter or Institutional Charter is not invalid at once. The **CI-3.2** (*Functional separation lanes*) lane map places the seat meanwhile, so no pass stops. The Chartered Party has the usual response window and resolution window (**CI-13.3** (*Notice, response, and resolution*), [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)), counted from the logged notice of the gap, to place the seat by a dated amendment of the map. If the seat is still unplaced when the resolution window ends, the System Charter or Institutional Charter is invalid on the same terms as for a gap in the standing-record entries above. The verify-or-authorize seat is not placed by the map ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)), so it is never a gap of this kind.
+ 
+ <a id="5-formation-check-office-holder-standing-and-authenticity"></a>
+diff --git a/core_09_b_system_alignment_certification_record_process.md b/core_09_b_system_alignment_certification_record_process.md
+index f7c4a5a3..7e3dfcdc 100644
+--- a/core_09_b_system_alignment_certification_record_process.md
++++ b/core_09_b_system_alignment_certification_record_process.md
+@@ -870,6 +870,8 @@ A recertification is **clean** when it meets conditions 2 and 3.
+ 
+ Persistent misaligned results are misalignment, whatever the design says. A design that would produce misaligned results is misalignment before any such result appears. The cause finding sets the remedy sought and the scope of any reopened review. It never decides whether the system is misaligned.
+ 
++Where the cause is design, the count of clean recertifications does not start again until the redesign is in place and has been verified, as the paragraph *Verification, not assertion* below requires. A check run before then does not count toward the clean total, however clean it is. A change to how the system is run does not meet this step.
++
+ **Tier windows.** Where an initial evaluation, a recertification, or a reopened review finds misalignment, the matter is classified under the materiality tiers of [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). It is presumptively placed in the tier that matches the system's class. For example, a misaligned Class A system is presumptively Tier A. Intake, evidence preservation, interim protection, and the decision run on that tier's windows and outer bounds. An overrun is reviewed as that section requires.
+ 
+ **Class A reliance.** Provisional certification changes the scrutiny, the cadence, and the limits on reliance. By itself, it does not require interrupting a system whose interruption would cut off survival essentials before substitutes arrive. Interim protection and conditions under [§7 Certification Outcomes](#7-certification-outcomes) handle that case.
+diff --git a/core_10_standing_assessment.md b/core_10_standing_assessment.md
+index 4f6f237f..dc884b87 100644
+--- a/core_10_standing_assessment.md
++++ b/core_10_standing_assessment.md
+@@ -408,7 +408,7 @@ This boundary does **not** reduce challenge, remedy, interim relief, or procedur
+ 
+ <br>
+ 
+-*In plain terms: four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, keeps the record, or hears the contest, it is invalid until it is fixed, and the operator's own offices can't open or enter its records in the meantime; they go to the Backup Record Authority or a forum. A body with no System Charter or Institutional Charter at all uses its published lane map: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.*
++*In plain terms: four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, keeps the record, or hears the contest, it is invalid until it is fixed, and the operator's own offices can't open or enter its records in the meantime; they go to the Backup Record Authority and the Backup Record Custodian, or a forum. A body with no System Charter or Institutional Charter at all uses its published lane map: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.*
+ 
+ <a id="37-segregation-of-duties"></a>
+ 
+@@ -425,7 +425,7 @@ No office holds two of these seats on the same record unless the institution has
+ 
+ <a id="37-charter-gap-invalid"></a>
+ 
+-**A System Charter or Institutional Charter that does not name them.** A System Charter or Institutional Charter that leaves out the record-opening authority, the record custodian, the contest seat, or the independent route for records about its Chartered Party is invalid, and a change that would do so is not allowed ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)). Where events nobody could have foreseen leave a seat without a qualified holder, the Chartered Party has the usual response window and resolution window, with the shorter emergency-substitution window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets. Until it is resolved, none of its own offices, and no office in its Material Control Line, may verify, enter, or contest a standing record for the affected scope. The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) as record-opening authority, or to a forum under **section 3.6**, as *No self-custody* below provides, and the lane map does not stand in. A steward asked to fill a seat the System Charter or Institutional Charter does not give them declines the seat, logs the request and the gap, and routes; they do not enter the record because they can.
++**A System Charter or Institutional Charter that does not name them.** A System Charter or Institutional Charter that leaves out the record-opening authority, the record custodian, the contest seat, or the independent route for when no qualified substitute is available is invalid, and a change that would do so is not allowed ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)). Where events nobody could have foreseen leave a seat without a qualified holder, the Chartered Party has the usual response window and resolution window, with the shorter emergency-substitution window that **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) sets. Until it is resolved, none of its own offices, and no office in its Material Control Line, may verify, enter, or contest a standing record for the affected scope. The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) as record-opening authority and to the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)) for entry and custody, or to a forum under **section 3.6**, as *No self-custody* below provides, and the lane map does not stand in. The Backup Record Custodian holds the versions opened during the gap and any operator standing record then held by an office inside the Chartered Party's Material Control Line; records already held by a custodian outside the line stay there. A steward asked to fill a seat the System Charter or Institutional Charter does not give them declines the seat, logs the request and the gap, and routes; they do not enter the record because they can.
+ 
+ <a id="37-lane-map-fallback"></a>
+ 
+@@ -450,11 +450,11 @@ None of this requires a record to exist. **Section 2.1** *Silence is the default
+ 
+ <a id="372-record-custodian"></a>
+ 
+-**Record custodian.** Every standing record has a named **record custodian** that holds the record, controls versioning under **section 3.4**, publishes the challenge path under **section 3.1**, and answers for the record's continuity. The custodian is a separate seat from the record-opening authority under *Segregation of duties* above: it enters what the authority verified, and does not verify. Custody must not lapse: when a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) to the successor the System Charter, Institutional Charter, or designation names, or, where none is named, to the supervising forum under **section 3.6**.
++**Record custodian.** Every standing record has a named **record custodian** that holds the record, controls versioning under **section 3.4**, publishes the challenge path under **section 3.1**, and answers for the record's continuity. The custodian is a separate seat from the record-opening authority under *Segregation of duties* above: it enters what the authority verified, and does not verify. Custody must not lapse: when a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) to the successor the System Charter, Institutional Charter, or designation names, or, where none is named, to the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)). If it cannot act, the supervising forum under **section 3.6** holds the record or designates a holder. Where only one record is in conflict, only that record moves (see *Conflicted custodian on a single record* below); where the custodian itself ends or cannot continue, the records it held for the scope move with their trail.
+ 
+ <a id="373-no-self-custody"></a>
+ 
+-**No self-custody.** The following may not act as record-opening authority or record custodian for a record: the record's subject; a party claiming the contribution or alleging the violation the record concerns; and any office in the [Material Control Line](core_05_band_accountability.md#material-control-line) that materially controls, or is materially controlled by, those parties. A steward inside the subject who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) and [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the record. Where the ordinary record-opening authority is itself the subject or sits in that line, the record routes to independent verification: a forum under **section 3.6**, the independent investigative service under **CF-9.6** (*No self-investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or designation names first. Where none is named, the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) is the default. Absence of any such named route is a gap the steward must name in the log, not a reason to enter the record themselves. This rule excludes parties by their interest in the record; *Segregation of duties* above separates seats by function. Both apply, and the narrower answer controls.
++**No self-custody.** The following may not act as record-opening authority or record custodian for a record: the record's subject; a party claiming the contribution or alleging the violation the record concerns; and any office in the [Material Control Line](core_05_band_accountability.md#material-control-line) that materially controls, or is materially controlled by, those parties. A steward inside the subject who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) and [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#cs-4103-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the record. Where the ordinary record-opening authority is itself the subject or sits in that line, the record routes to independent verification: a forum under **section 3.6**, the independent investigative service under **CF-9.6** (*No self-investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or designation names first. Where none is named, the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) is the default record-opening authority and the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)) is the default custodian. Absence of any such named route is a gap the steward must name in the log, not a reason to enter the record themselves. This rule excludes parties by their interest in the record; *Segregation of duties* above separates seats by function. Both apply, and the narrower answer controls.
+ 
+ <a id="37-two-kinds-of-standing-record"></a>
+ 
+@@ -471,7 +471,7 @@ None of this requires a record to exist. **Section 2.1** *Silence is the default
+ 
+ <a id="37-conflicted-custodian-on-a-single-record"></a>
+ 
+-**Conflicted custodian on a single record.** Where the named custodian is excluded under *No self-custody* for one record but not for the scope — commonly because the claimant, subject, or challenger sits in the custodian's reporting line — the exclusion is per record and lasts as long as the conflict, and it is answered by substitute custody: not by the custodian abstaining while the record sits, and not by transferring the whole store. The excluded custodian logs the request and the conflict on the record under *Attributed entry* below, preserves the record and its evidence unchanged under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), keeps the published challenge path open, and enters no version. Custody of that record passes, with its full audit trail, to the substitute holder the System Charter, Institutional Charter, or lane map names for the scope (**CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10; the **CI-3.2** (*Functional separation lanes*) publication-and-evidence lane outside the control line), or, where none is named, to the supervising forum under **section 3.6**, which holds the record or designates a holder. The substitute is named on the record. When the conflict ends — the interested party leaves the control line, or the record closes for its decision context — custody may return by a logged transfer under *Record custodian* above. A custodian who keeps entering versions on the view that the conflict is only formal commits the *No self-custody* failure; that is not a proportionality judgment open to them. An institution whose lane map leaves every custodian for a system inside the reporting line of the office that runs it has a **CI-3.2** (*Functional separation lanes*) defect to correct, and its records route to the forum in the meantime.
++**Conflicted custodian on a single record.** Where the named custodian is excluded under *No self-custody* for one record but not for the scope — commonly because the claimant, subject, or challenger sits in the custodian's reporting line — the exclusion is per record and lasts as long as the conflict, and it is answered by substitute custody: not by the custodian abstaining while the record sits, and not by transferring the whole store. The excluded custodian logs the request and the conflict on the record under *Attributed entry* below, preserves the record and its evidence unchanged under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), keeps the published challenge path open, and enters no version. Custody of that record passes, with its full audit trail, to the substitute holder the System Charter, Institutional Charter, or lane map names for the scope (**CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10; the **CI-3.2** (*Functional separation lanes*) publication-and-evidence lane outside the control line), or, where none is named, to the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)) or, if it cannot act, to the supervising forum under **section 3.6**, which holds the record or designates a holder. The substitute is named on the record. When the conflict ends — the interested party leaves the control line, or the record closes for its decision context — custody may return by a logged transfer under *Record custodian* above. A custodian who keeps entering versions on the view that the conflict is only formal commits the *No self-custody* failure; that is not a proportionality judgment open to them. An institution whose lane map leaves every custodian for a system inside the reporting line of the office that runs it has a **CI-3.2** (*Functional separation lanes*) defect to correct, and its records route to the forum in the meantime.
+ 
+ <a id="374-recorder-statements-are-inputs"></a>
+ 
+diff --git a/corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md b/corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md
+index 7fa27531..a3f01fd2 100644
+--- a/corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md
++++ b/corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md
+@@ -13,7 +13,7 @@
+ <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+ 
+ - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-family routing; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+-- Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes); [CF-5.2 Intake triage body](#cf-52-intake-triage-body); [CF-5.3 Natural-systems representatives](#cf-53-natural-systems-representatives); [CF-5.4 Capacity-failure routing](#cf-54-capacity-failure-routing); [CF-5.5 Institutional and local registrars](#cf-55-institutional-and-local-registrars); [CF-5.6 Integrity registrar](#cf-56-integrity-registrar); [CF-5.7 Backup Record Authority](#cf-57-backup-record-authority); [CF-5.8 Restricted information authority](#cf-58-restricted-information-authority).
++- Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes); [CF-5.2 Intake triage body](#cf-52-intake-triage-body); [CF-5.3 Natural-systems representatives](#cf-53-natural-systems-representatives); [CF-5.4 Capacity-failure routing](#cf-54-capacity-failure-routing); [CF-5.5 Institutional and local registrars](#cf-55-institutional-and-local-registrars); [CF-5.6 Integrity registrar](#cf-56-integrity-registrar); [CF-5.7 Backup Record Authority](#cf-57-backup-record-authority); [CF-5.8 Restricted information authority](#cf-58-restricted-information-authority); [CF-5.9 Backup Record Custodian](#cf-59-backup-record-custodian).
+ - Read with: **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-5.1** (*Published intake classes*); **CF-5.2** (*Intake triage body*); **CF-5.3** (*Natural-systems representatives*); **CF-5.4** (*Capacity-failure routing*); **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract.
+ - Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*); primary owner **CI-12** (*Cross-institution coordination and escalation*).
+ - Topic routing (primary owner): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*), **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
+@@ -52,6 +52,7 @@ This section turns [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forum
+ - the Institutional and local registrars under **CF-5.5** (*Institutional and local registrars*), which take in and check System Charters and Institutional Charters as routine administration and not adjudication;
+ - the Integrity registrar under **CF-5.6** (*Integrity registrar*), which does the same for financial and resource audit results;
+ - the Backup Record Authority under **CF-5.7** (*Backup Record Authority*), a separate office outside intake triage and the registrars that checks the facts of a standing record when a Chartered Party's own offices cannot;
++- the Backup Record Custodian under **CF-5.9** (*Backup Record Custodian*), a separate body from the Backup Record Authority that enters and holds a standing record when a Chartered Party's own custodian cannot;
+ - records and public notice when routing rules change;
+ - coordination with **Integrity** forum **alignment** rulings (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)) when intake, referral, and certification steps overlap.
+ This section implements the primary-stakes rule in `core_13_forum.md` **Chapter Thirteen**. It does not change that rule.
+@@ -200,7 +201,7 @@ This subsection implements, and must not narrow, [Chapter Thirteen §4.5 Integri
+ 
+ This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custody and opening authority](../core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*No self-custody*; *A System Charter or Institutional Charter that does not name them*) and [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody). It stays outside the intake triage body (**CF-5.2** (*Intake triage body*)) and the registrars (**CF-5.5** (*Institutional and local registrars*), **CF-5.6** (*Integrity registrar*)), which do routine administration, and outside the merits panels, which [Chapter Thirteen §2 Default venue and primary stakes](../core_13_forum.md#2-default-venue-and-primary-stakes) keeps for substantive outcomes.
+ 
+-**Where it sits:** The **Institutional** forum family, or the local forum where the Chartered Party acts and the sentients it affects live, keeps one Backup Record Authority, or a functionally equivalent arrangement, with the same independence and contest expectations as an intake triage body. It is a separate authority. It is not part of the intake triage body, it is not a registrar, and it is not a merits panel. Staff of one do not staff another.
++**Where it sits:** The **Institutional** forum family, or the local forum where the Chartered Party acts and the sentients it affects live, keeps one Backup Record Authority, or a functionally equivalent arrangement, with the same independence and contest expectations as an intake triage body. It is a separate authority. It is not part of the intake triage body, it is not a registrar, it is not the Backup Record Custodian, and it is not a merits panel. Staff of one do not staff another.
+ 
+ **When it acts:**
+ - **A gap in the System Charter or Institutional Charter:** From the day the gap is logged, for operator standing records in the affected scope, until the Chartered Party lodges a version that names every required seat ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)).
+@@ -210,11 +211,11 @@ This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custo
+ - It logs the request and routes it the day it arrives.
+ - It verifies the factual basis of the record under Chapters Two through Four and the Chapter Ten **section 3.1** gate, then authorizes the opening, correction, expiry, or supersession.
+ - It names itself on the record as record-opening authority, with the reason it acted and the version of the System Charter or Institutional Charter in force.
+-- It passes the authorized version to the record custodian. Where the Chartered Party's custodian is excluded, custody follows *Record custodian* in Chapter Ten **section 3.7**.
++- It passes the authorized version to the record custodian. Where the Chartered Party's custodian is excluded or cannot act, custody follows *Record custodian* in Chapter Ten **section 3.7**, and the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)) holds the record.
+ - If the facts cannot be verified without deciding a contested merits question, it refers the record to a forum under Chapter Ten **section 3.6** and does not decide the question itself.
+ 
+ **What it does not do:**
+-- It does not enter or hold the record, and it does not hear a contest of a record it verified. A contest goes to secondary review under Chapter Ten **section 3.6** and **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
++- It does not enter or hold the record (that belongs to the record custodian, or the Backup Record Custodian under **CF-5.9** (*Backup Record Custodian*)), and it does not hear a contest of a record it verified. A contest goes to secondary review under Chapter Ten **section 3.6** and **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
+ - It does not assign a Chapter Ten slot or measure how good or bad the record is.
+ - It does not rule on class, on scope, or on whether a System Charter or Institutional Charter is valid, and it does not fix the gap for the Chartered Party.
+ - It does not grant or withhold permission to form or operate.
+@@ -284,6 +285,55 @@ This subsection implements the rule in [CF-11.3.3 Restricted-evidence timing](cf
+ - **No self-judging:** Staff who decided an access question do not sit on a merits panel hearing a dispute about the same item (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+ - **Oversight:** Integrity or independent assurance bodies under **CF-9.5** (*Required separations*) monitor it for capture and delay.
+ 
++## CF-5.9 Backup Record Custodian
++
++*In plain terms: when a Chartered Party has no custodian that can hold a record without a conflict, someone outside it has to keep the record. The **Backup Record Custodian** is that custodian. It enters and holds a record that an authority has authorized, and nothing else. It does not check the facts (that is the Backup Record Authority or another record-opening authority) and it does not hear a challenge. If it is slow, the record goes to a forum, which holds it or names a holder.*
++
++This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custody and opening authority](../core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*Record custodian*; *Conflicted custodian on a single record*; *No self-custody*) and [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody). It is modeled on **CF-5.7** (*Backup Record Authority*). It stays outside the intake triage body (**CF-5.2** (*Intake triage body*)), the registrars (**CF-5.5** (*Institutional and local registrars*), **CF-5.6** (*Integrity registrar*)), which file and receipt and do not hold records, the merits panels, and the Backup Record Authority.
++
++**Where it sits:** The **Institutional** forum family, or the local forum where the Chartered Party acts and the sentients it affects live, keeps one Backup Record Custodian, or a functionally equivalent arrangement, with the same independence and contest expectations as an intake triage body. It is a separate body from the Backup Record Authority. Staff of one do not staff the other, and nobody supervises both on the same record, because no body may both verify and enter a record.
++
++**When it acts, and what it takes:**
++- **A gap in the System Charter or Institutional Charter:** From the day the gap is logged, for operator standing records in the affected scope, it enters and holds each version that a record-opening authority authorizes. It also takes any operator standing record then held by an office inside the Chartered Party's [Material Control Line](../core_05_band_accountability.md#material-control-line), with its full audit trail, because those offices are already excluded from every operator standing record. Records held by a custodian outside the line stay where they are. It acts until the Chartered Party lodges a version that names every required seat and the named custodian takes custody by a logged transfer.
++- **An excluded custodian with no substitute:** Where the named custodian is excluded for one record under *Conflicted custodian on a single record* and the System Charter, Institutional Charter, or lane map names no substitute holder, it holds that record and no other.
++- **A custodian that cannot continue:** Where the named custodian is dissolved, captured, or unable to hold records, and no successor is named, it takes the records that custodian held for the scope, with the full audit trail, so custody does not lapse.
++- **No route named:** It is the default custodian where *No self-custody* sends a record to independent verification and the System Charter or Institutional Charter or designation names none. A forum under Chapter Ten **section 3.6** stays available.
++
++**What it does:**
++- It logs the request and routes it the day it arrives.
++- It enters each authorized version, holds it with the full audit trail under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), and publishes the challenge path.
++- It names itself on the record as custodian, with the reason it acts and the version of the System Charter or Institutional Charter in force.
++- It logs a challenge when received, sets the status to *under challenge*, notifies the subject and any claimant, and routes the challenge to the contest seat.
++- It returns custody by a logged transfer when the conflict or the gap ends.
++
++**What it does not do:**
++- It does not verify or authorize a record, and it does not hear a contest of a record it holds. A contest goes to the contest seat or a forum under Chapter Ten **section 3.6** and **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
++- It does not take over the Chartered Party's whole store. It takes only the records named above, and the rest stay where they are, preserved unchanged.
++- It does not apply a Chapter Eleven standing effect, decide a merits question, or measure how good or bad the record is.
++- It does not rule on class, on scope, or on whether a System Charter or Institutional Charter is valid.
++- It does not grant or withhold permission to form or operate.
++- It charges no fee to the subject or a claimant.
++- It takes no instruction on a record from the Chartered Party or from the forum family that funds it.
++
++**Funding and accountability:**
++- **Funding:** The forum family or local forum that keeps it funds it from a published budget. No fee is charged for a record, a subject, or a claimant. The keeping family may not withhold funds over a decision, and the Chartered Party cannot fund it.
++- **Reporting:** It answers to the keeping family for its budget, its aggregate reports, and its conduct, never for an individual decision. It publishes aggregate figures: records received, whether each came from a gap, an excluded custodian, a lapse, or no named route, time taken, and missed targets, by tier.
++
++**Time and fallback:**
++- **Answer:** It accepts custody, or refers the record, within the **intake target** of the Tier that matches the Chartered Party's class (Class A, B, C, L, or P takes Tier A, B, C, L, or P), counted from the day the request is logged. This is the same window as for the Backup Record Authority, and it runs inside the matter's tier window, never on top of it.
++- **Silence:** If it has not answered by then, the record goes to a forum under Chapter Ten **section 3.6**, which holds it or names a holder, and the subject or a claimant may take it there at once. A missed target is recorded and published as the custodian's own failure under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
++- **Unavailable:** If the Backup Record Custodian cannot be reached or is in capacity failure under **CF-5.4** (*Capacity-failure routing*), the record goes to a forum under Chapter Ten **section 3.6**.
++- **Conflict of its own:** If it has an interest in the record, it declines the seat, logs the conflict, and routes the record to a forum.
++- **Family capture:** If **CF-7.3.8** (*Family-Level Capture Activation*) displaces the family that keeps it, that family does not appoint, staff, fund, or instruct it. The body the continuity record names for activation oversight (**CF-13.4** (*Family-capture fallback operation*)) names the keeper until restoration, and the custodian keeps answering.
++
++**Safeguards:**
++- **Outside the line:** The Chartered Party cannot choose, appoint, or fund it through a channel the Chartered Party controls, and it cannot change its authority.
++- **Not an endorsement:** Holding a record says nothing about whether the System Charter or Institutional Charter is sound.
++- **No gate:** Its delay, error, or refusal never stops a Chartered Party from operating. It is a defect to log and correct, and the Chartered Party, the subject, or a claimant may contest it on the route in **CF-5.2** (*Intake triage body*).
++- **No steering:** It may not use funding, fees, or sorting to push records toward a favored forum.
++- **No self-judging:** Staff who held a record do not sit on a merits panel hearing a dispute about it (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
++- **Oversight:** Integrity or independent assurance bodies under **CF-9.5** (*Required separations*) monitor it for capture and delay.
++
+ ---
+ 
+ **Previous file:** [cf_04_panel_formation_disclosure_recusal_bench_constitution.md](cf_04_panel_formation_disclosure_recusal_bench_constitution.md)
+diff --git a/corpus_institutions/ci_03_institutional_design_separation_of_powers.md b/corpus_institutions/ci_03_institutional_design_separation_of_powers.md
+index 376224ac..4f92fbfd 100644
+--- a/corpus_institutions/ci_03_institutional_design_separation_of_powers.md
++++ b/corpus_institutions/ci_03_institutional_design_separation_of_powers.md
+@@ -207,10 +207,26 @@ Whether a System Charter or Institutional Charter is required depends on class a
+     - the **record-opening authority** that verifies the factual basis and authorizes opening, correction, expiry, or supersession of the record;
+     - the separate **record custodian** that enters each authorized version, holds it, and controls versioning, with the **substitute holder** that takes custody of a single record on which the named custodian is excluded under [Chapter Ten §3.7](../core_10_standing_assessment.md#37-conflicted-custodian-on-a-single-record) (*Conflicted custodian on a single record*);
+     - the **contest seat** to which a challenge raised on a record is routed before any filing ([Chapter Ten §3.7](../core_10_standing_assessment.md#37-challenge-received-on-the-record) *Challenge received on the record*); and
+-    - the **independent route** that applies when the institution or a system it controls is itself the subject — a forum under [Chapter Ten §3.6](../core_10_standing_assessment.md#36-forum-boundary) (*Forum boundary*), the independent investigative service under **CF-9.6** (*No self-investigation*), or a pre-designated backup body
++    - the **independent route** that applies when no qualified substitute is available — a forum under [Chapter Ten §3.6](../core_10_standing_assessment.md#36-forum-boundary) (*Forum boundary*), the independent investigative service under **CF-9.6** (*No self-investigation*), or a pre-designated backup body
+     - **Where the offices sit:** Both offices must sit outside the [Material Control Line](../core_05_band_accountability.md#material-control-line) of the subject, the claimant, and the challenger for any record they act on, and must be different seats from each other and from the execution lane for the system concerned ([Chapter Ten §3.7](../core_10_standing_assessment.md#37-record-custody-and-opening-authority) *Segregation of duties*).
+     - **Naming them:** It may name the offices or point to the published document that names them — commonly the **CI-3.2** (*Functional separation lanes*) lane map; it may not leave them unnamed.
+-    - **If silent:** A System Charter or Institutional Charter that leaves any of these four unnamed is invalid, and a change that would do so is not allowed. After an unforeseeable loss of the last qualified substitute, the Chartered Party has the usual response window and resolution window, and until then its own offices cannot issue a valid record for the affected scope; the record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum ([Chapter Ten §3.7 Record custody and opening authority](../core_10_standing_assessment.md#37-charter-gap-invalid)).
++    - **Who may be named record custodian:** A System Charter or Institutional Charter may name any of these as record custodian, or as the substitute holder for one record, if it passes every test below:
++      - the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)), named by reference;
++      - a public archive, library, registry, or records service;
++      - a separate Institution with no control relationship to the subject, a claimant, or a challenger;
++      - a host, cooperative, or association that holds seats in common for the scope under [Chapter Eight §6 Proportional Scaling and Merged Hosting](../core_08_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting), for records about the Chartered Party and not about the host's own members; or
++      - a records service paid under published terms by a fund the Chartered Party does not control.
++
++      The list is not closed. The tests decide.
++    - **The tests for a record custodian:**
++      - **Outside the line:** It sits outside the [Material Control Line](../core_05_band_accountability.md#material-control-line) of the subject, each claimant, and each challenger. Appointment, funding, membership, discipline, a shared governing body, and common control all count. A body that admits, disciplines, or is funded by the subject or a claimant fails. A professional association therefore fails for a record about its own member's practice.
++      - **Separate from the authority:** It is not the record-opening authority for the same record. No body both verifies and enters.
++      - **No reciprocal or circular hosting:** Two adopters may not hold each other's records, and a ring of three or more that returns control to the subject fails for the same reason.
++      - **Continuity:** It publishes how long it keeps records, preserves the audit trail under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), and transfers custody with the full trail if it ends, leaves, or is replaced.
++      - **Challenge path:** It publishes the challenge path and routes a challenge to the contest seat on the day it is received.
++      - **No fee:** It charges the subject and any claimant nothing for a record.
++      - **Named in advance:** It is named in the Charter Role Map before it acts, and a change of custodian is a new dated version of the map.
++    - **If silent:** A System Charter or Institutional Charter that leaves any of these four unnamed is invalid, and a change that would do so is not allowed. After an unforeseeable loss of the last qualified substitute, the Chartered Party has the usual response window and resolution window, and until then its own offices cannot issue a valid record for the affected scope; the record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)) to hold, or to a forum ([Chapter Ten §3.7 Record custody and opening authority](../core_10_standing_assessment.md#37-charter-gap-invalid)).
+     - **Systems with their own System Charter:** Where the institution stewards a system that holds its own System Charter, that System Charter carries this field for records concerning that system and the Institutional Charter points to it.
+     - **Charter Role Map:** These offices are the [Charter Role Map](../core_05_band_continuity.md#charter-role-map)'s entries for standing records ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)). A System Charter or Institutional Charter that holds or points to a Role Map covering standing records satisfies this field, and need not list the offices a second time.
+ 11. **Charter Role Map** — the [Charter Role Map](../core_05_band_continuity.md#charter-role-map): the published, versioned placement of seats for the chartered scope, or a Charter Pointer to the published document that is the Charter Role Map. It is the map that [Chapter Eight §5 Published Placement, Vacancy, and Substitution](../core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) requires.
