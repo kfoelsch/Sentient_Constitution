@@ -1706,7 +1706,7 @@ Competency Clearance is the standing-effect result that says verified readiness 
 
 ###### Standing Lock
 
-a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.
+a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.
 
 [Source](../../core_05_band_accountability.md#standing-lock)
 
@@ -5732,7 +5732,7 @@ experimental systems must be honest about being experimental, must not dump risk
 
 ##### Article XVIII-C: Transition to Higher-Obligation Regimes
 
-once a sandbox system starts mattering in the real world, it must graduate to real-world obligations within 14 days, the Tier B outer bound, not at the operator's convenience.
+once a sandbox system starts mattering in the real world, it must graduate to real-world obligations within the outer bound of the tier that matches the system's class, from 7 days to 90, not at the operator's convenience.
 
 [Source](../../core_06_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes)
 
@@ -5790,7 +5790,7 @@ this is how named pathways open. Ordinary participation, including the governanc
 
 ##### Article XIX-D: Violations and Standing Locks
 
-this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. Locks that touch the vote, and the special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).
+this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. (The one exception is the permanent form of the Dissolution Reformation Lock in **Article XIX-E** (*Voting and Special Locks*), which sits on a dissolved Chartered Party and never on a sentient.) Locks that touch the vote, and the special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).
 
 [Source](../../core_06_rights_part_d.md#article-xix-d-violations-and-standing-locks)
 

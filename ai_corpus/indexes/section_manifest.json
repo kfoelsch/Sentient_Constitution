@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-20T00:02:04+00:00",
+  "generated_at": "2026-10-20T02:12:39+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 524,
@@ -1926,19 +1926,19 @@
       ]
     },
     "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md": {
-      "total_lines": 270,
+      "total_lines": 301,
       "sections": [
-        {"header":"CI-13: Institutional failure, sanctions, dissolution, and accountability","level":1,"line_start":1,"line_end":270,"anchor":null},
-        {"header":"CI-13.1: Opening a consequence matter","level":2,"line_start":76,"line_end":104,"anchor":"#ci-131-opening-a-consequence-matter"},
-        {"header":"CI-13.2: Findings before any order","level":2,"line_start":105,"line_end":118,"anchor":"#ci-132-findings-before-any-order"},
-        {"header":"CI-13.3: Notice, response, and resolution","level":2,"line_start":119,"line_end":133,"anchor":"#ci-133-notice-response-and-resolution"},
-        {"header":"CI-13.4: Correction and constrained authority","level":2,"line_start":134,"line_end":152,"anchor":"#ci-134-correction-and-constrained-authority"},
-        {"header":"CI-13.5: Contraction order","level":2,"line_start":153,"line_end":182,"anchor":"#ci-135-contraction-order"},
-        {"header":"CI-13.6: Supervised operation and receivership","level":2,"line_start":183,"line_end":193,"anchor":"#ci-136-supervised-operation-and-receivership"},
-        {"header":"CI-13.7: Dissolution","level":2,"line_start":194,"line_end":217,"anchor":"#ci-137-dissolution"},
-        {"header":"CI-13.8: Emergency containment","level":2,"line_start":218,"line_end":224,"anchor":"#ci-138-emergency-containment"},
-        {"header":"CI-13.9: Systems under consequence orders","level":2,"line_start":225,"line_end":245,"anchor":"#ci-139-systems-under-consequence-orders"},
-        {"header":"CI-13.10: Review, fairness, and enforcement","level":2,"line_start":246,"line_end":270,"anchor":"#ci-1310-review-fairness-and-enforcement"}
+        {"header":"CI-13: Institutional failure, sanctions, dissolution, and accountability","level":1,"line_start":1,"line_end":301,"anchor":null},
+        {"header":"CI-13.1: Opening a consequence matter","level":2,"line_start":97,"line_end":125,"anchor":"#ci-131-opening-a-consequence-matter"},
+        {"header":"CI-13.2: Findings before any order","level":2,"line_start":126,"line_end":139,"anchor":"#ci-132-findings-before-any-order"},
+        {"header":"CI-13.3: Notice, response, and resolution","level":2,"line_start":140,"line_end":154,"anchor":"#ci-133-notice-response-and-resolution"},
+        {"header":"CI-13.4: Correction and constrained authority","level":2,"line_start":155,"line_end":173,"anchor":"#ci-134-correction-and-constrained-authority"},
+        {"header":"CI-13.5: Contraction order","level":2,"line_start":174,"line_end":203,"anchor":"#ci-135-contraction-order"},
+        {"header":"CI-13.6: Supervised operation and receivership","level":2,"line_start":204,"line_end":214,"anchor":"#ci-136-supervised-operation-and-receivership"},
+        {"header":"CI-13.7: Dissolution","level":2,"line_start":215,"line_end":244,"anchor":"#ci-137-dissolution"},
+        {"header":"CI-13.8: Emergency containment","level":2,"line_start":245,"line_end":251,"anchor":"#ci-138-emergency-containment"},
+        {"header":"CI-13.9: Systems under consequence orders","level":2,"line_start":252,"line_end":273,"anchor":"#ci-139-systems-under-consequence-orders"},
+        {"header":"CI-13.10: Review, fairness, and enforcement","level":2,"line_start":274,"line_end":301,"anchor":"#ci-1310-review-fairness-and-enforcement"}
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {

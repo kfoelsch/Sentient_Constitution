@@ -342,7 +342,7 @@ This Article sets out how contribution, competency bars, and named-pathway eligi
 
 <br>
 
-*In plain terms: this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. Locks that touch the vote, and the special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).*
+*In plain terms: this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. (The one exception is the permanent form of the Dissolution Reformation Lock in **Article XIX-E** (*Voting and Special Locks*), which sits on a dissolved Chartered Party and never on a sentient.) Locks that touch the vote, and the special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).*
 
 This Article sets out how violations are recorded and how standing locks attach:
 
