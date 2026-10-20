@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.19` · effective **2026-10-19**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **714** of **1064** headings carry a gloss (67%).
+Coverage: **716** of **1068** headings carry a gloss (67%).
 
 ## Contents
 
@@ -24,13 +24,13 @@ Coverage: **714** of **1064** headings carry a gloss (67%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (80/92 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (82/94 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (39/100 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/33 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/35 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09_a_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09_b_system_alignment_certification_record_process.md` (13/25 glossed)
@@ -1234,7 +1234,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 80/92 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 82/94 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1482,11 +1482,23 @@ the Verify-or-Authorize Seat is the role that independently checks the evidence 
 
 [Source](../../core_05_band_accountability.md#verify-or-authorize-seat)
 
+##### Record-Opening Authority
+
+the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, or anyone those parties control. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.
+
+[Source](../../core_05_band_accountability.md#record-opening-authority)
+
 ##### Record Seat
 
 the Record Seat is the role that makes and keeps the official record of what the Verify-or-Authorize Seat determined. It records the determination; it does not create or independently verify that determination.
 
 [Source](../../core_05_band_accountability.md#record-seat)
+
+##### Record Custodian
+
+the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, or anyone they control.
+
+[Source](../../core_05_band_accountability.md#record-custodian)
 
 ##### Contest Seat
 
@@ -3202,7 +3214,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/33 headings glossed
+Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/35 headings glossed
 
 #### 1. When System and Institutional Charters Are Required
 
@@ -3324,23 +3336,23 @@ the System Charter or Institutional Charter is where the seats get names. It car
 
 [Source](../../core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)
 
-##### 4.1 What a System Charter or Institutional Charter owes the map
+##### 4.1 What the seats are, and why they exist
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#41-what-a-system-charter-or-institutional-charter-owes-the-map)
+[Source](../../core_07_charters.md#41-what-the-seats-are-and-why-they-exist)
 
-##### 4.2 Where the seat rules are
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_07_charters.md#42-where-the-seat-rules-are)
-
-##### 4.3 Independence from the party whose act is at issue
+##### 4.2 What makes a placement valid
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#43-independence-from-the-party-whose-act-is-at-issue)
+[Source](../../core_07_charters.md#42-what-makes-a-placement-valid)
+
+##### 4.3 What a System Charter or Institutional Charter owes the map
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#43-what-a-system-charter-or-institutional-charter-owes-the-map)
 
 ##### 4.4 Which System Charter or Institutional Charter holds which map
 
@@ -3348,17 +3360,29 @@ the System Charter or Institutional Charter is where the seats get names. It car
 
 [Source](../../core_07_charters.md#44-which-system-charter-or-institutional-charter-holds-which-map)
 
-##### 4.5 Two kinds of change
+##### 4.5 Changing seat rules and seat holders
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#45-two-kinds-of-change)
+[Source](../../core_07_charters.md#45-changing-seat-rules-and-seat-holders)
 
 ##### 4.6 Standing-record custody
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_07_charters.md#46-standing-record-custody)
+
+###### 4.6.1 Operator standing records
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#461-operator-standing-records)
+
+###### 4.6.2 Stakeholder standing records
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#462-stakeholder-standing-records)
 
 ##### 4.7 Gaps in the map for operator standing records
 
@@ -4248,7 +4272,7 @@ forums are where disputes get supervised, challenged, and turned into verified o
 
 ##### 3.7 Record custody and opening authority
 
-four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, keeps the record, or hears the contest, it is invalid until it is fixed, and the operator's own offices can't open or enter its records in the meantime; they go to the Backup Record Authority or a forum. A body with no System Charter or Institutional Charter at all uses its published lane map: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
+four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, keeps the record, or hears the contest, it is invalid until it is fixed, and the operator's own offices can't open or enter its records in the meantime; they go to the Backup Record Authority and the Backup Record Custodian, or a forum. A body with no System Charter or Institutional Charter at all uses its published lane map: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
 
 [Source](../../core_10_standing_assessment.md#37-record-custody-and-opening-authority)
 

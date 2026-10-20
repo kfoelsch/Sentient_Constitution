@@ -133,6 +133,16 @@
       "status": "approved",
       "ch00_category": "3.6 Accountability"
     },
+    "Record Custodian": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
+    "Record-Opening Authority": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
     "Contest Seat": {
       "tier_depth": "primary_secondary",
       "status": "approved",
