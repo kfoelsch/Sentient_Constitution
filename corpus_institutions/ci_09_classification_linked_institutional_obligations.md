@@ -149,15 +149,17 @@ Subunits must remain **subordinate** to the parent mandate. They must not operat
 
 <br>
 
-*In plain terms: hybrid bodies must follow the shared composition rules in **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). If a local document departs from those rules — different bench balance, different staging, or other material variation — it must publish substitute anti-capture safeguards and, for high-impact **Class A** and **Class B** scope, get outside review or a published independent cross-institution arrangement first.*
+*In plain terms: hybrid bodies must follow the shared composition rules in **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). If a local document uses a different deciding-group balance or different hybrid staging, it must publish substitute anti-capture safeguards and, for high-impact **Class A** and **Class B** scope, get outside review or a published independent cross-institution arrangement first.*
 
 Delegated subunits in scope must satisfy **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). **CI-9.3.2** (*Authority composition*) keeps only:
 
-- the institutional exception route when the local document departs from **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*);
+- the institutional route for alternative hybrid designs within **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*);
 - the duty to publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); and
 - the external-assurance or **CI-12** (*Cross-institution coordination and escalation*) independent-review requirement where that departure affects **Class A** or **Class B** scope.
 
 Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the document must publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2** (*External assurance triggers*), or a published **CI-12** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
+
+An ordinary alternative must retain both home-based and rotating authority across the decision workflow under **CJS-2.1.1** (*Composition floor*). Publishing substitute safeguards or obtaining assurance does not authorize an entirely home-based or entirely rotating ordinary workflow.
 
 ## CI-9.3.3: Rotating authority: attachment bounds
 <details>
