@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-21T19:05:07+00:00",
+  "generated_at": "2026-10-21T19:13:55+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 526,
@@ -844,9 +844,9 @@
       ]
     },
     "core_09.000_system_alignment_certification.md": {
-      "total_lines": 128,
+      "total_lines": 127,
       "sections": [
-        {"header":"CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)","level":1,"line_start":2,"line_end":128,"anchor":"#chapter-nine-system-alignment-certification-index"}
+        {"header":"CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)","level":1,"line_start":2,"line_end":127,"anchor":"#chapter-nine-system-alignment-certification-index"}
       ]
     },
     "core_10.000_standing_assessment.md": {
