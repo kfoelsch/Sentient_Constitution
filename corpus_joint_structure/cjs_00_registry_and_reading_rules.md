@@ -301,7 +301,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster l
 | **Audit midpoint** | interval | The audit that falls half-way between certification passes | Review cadence |
 | **Audit advance allowance** | interval | How far a body may move its own audit earlier | Review cadence |
 
-**B. The response window and the resolution window** (owners: [Chapter Seven §1.6 If a System Charter or Institutional Charter is missing](../core_07_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing) and [Chapter Seven §6 When a Holder Fails the Check](../core_07_charters.md#6-when-a-holder-fails-the-check); [CI-13.3](../corpus_institutions/ci_13_institutional_failure_dissolution.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*))
+**B. The response window and the resolution window** (owners: [Chapter Seven §1.6 If a System Charter or Institutional Charter is missing](../core_07_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing) and [Chapter Seven §6 When a Holder Fails the Formation Check](../core_07_charters.md#6-when-a-holder-fails-the-formation-check); [CI-13.3](../corpus_institutions/ci_13_institutional_failure_dissolution.md#ci-133-notice-response-and-resolution) (*Notice, response, and resolution*))
 
 | Name | Kind | What it times | Set in |
 |---|---|---|---|

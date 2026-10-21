@@ -117,7 +117,7 @@
       "href": "../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 273,
+  "term_count": 275,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -1506,11 +1506,25 @@
       "href": "../../core_05_band_continuity.md#recertification"
     },
     {
+      "term": "Record Custodian",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#record-custodian",
+      "plain_terms": "the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.",
+      "href": "../../core_05_band_accountability.md#record-custodian"
+    },
+    {
       "term": "Record Seat",
       "file": "core_05_band_accountability.md",
       "anchor": "#record-seat",
       "plain_terms": "the Record Seat is the role that makes and keeps the official record of what the Verify-or-Authorize Seat determined. It records the determination; it does not create or independently verify that determination.",
       "href": "../../core_05_band_accountability.md#record-seat"
+    },
+    {
+      "term": "Record-Opening Authority",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#record-opening-authority",
+      "plain_terms": "the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.",
+      "href": "../../core_05_band_accountability.md#record-opening-authority"
     },
     {
       "term": "Redress and Remediation",

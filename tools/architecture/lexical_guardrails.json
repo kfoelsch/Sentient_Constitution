@@ -181,6 +181,10 @@
       "prefer": "kind-qualified plurals (named pathways, challenge and review pathways, risk pathways, and similar) and qualified compounds (named-pathway-specific); retain Capture of Resolution Pathways, restorative/restoration pathways, causal/system compounds, and established titles; enforced by avoid-bare-pathway"
     },
     {
+      "avoid": "check / checks (bare noun in Chapter Seven: the check, a failed check, its check)",
+      "prefer": "formation check, or the named part of it (standing limb, authenticity limb); verb uses (the Chartered Party checks and records) and qualified compounds (formation check, standing check) stay; the check window clock is allowed; enforced by avoid-bare-check"
+    },
+    {
       "avoid": "named-pathway result / named-pathway results",
       "prefer": "state whether a specific role, authority, or access is open, limited, or blocked, and name the verified reason"
     },
