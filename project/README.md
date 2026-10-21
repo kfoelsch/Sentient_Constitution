@@ -9,6 +9,8 @@ Working files for the people who maintain the Sentient Constitution. Readers do 
 | [MEMLOG.md](MEMLOG.md) | Session log of recent decisions and changes |
 | [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md) | Regression scenario catalog checked by `make scenario-audit` |
 | [plans/announcement_readiness_2026-10-20.md](plans/announcement_readiness_2026-10-20.md) | Year-end announcement plan, decision queue, review inventory, and batch log |
+| [trials/agent_cooperative_2026-10-20/CASE_PACKET.md](trials/agent_cooperative_2026-10-20/CASE_PACKET.md) | Fictional cooperative trial packet; separate desk walkthrough and dependency hashes; fresh-session execution pending |
+| [reviews/announcement_interlocks_B04_2026-10-20.md](reviews/announcement_interlocks_B04_2026-10-20.md) | First three full implementation-file reviews, source baseline, fixes and open hybrid-body question |
 | [plans/](plans/) | Working plans for larger changes |
 | [plain_language/](plain_language/) | Plain-language companion for each Article (`Article_<numeral>_plain_language.md`). Not binding; the `core_*` files are |
 
